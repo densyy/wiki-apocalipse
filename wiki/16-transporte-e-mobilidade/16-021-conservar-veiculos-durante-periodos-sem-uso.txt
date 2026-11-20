@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 16-021
+TITULO: Como conservar veículos durante períodos sem uso
+CATEGORIA: 16 - Transporte e mobilidade
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: local seco e seguro, chave, pano limpo, medidor de pressão, luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: carro parado, guardar, bateria, pneus, gasolina, ferrugem
+==============================================================================
+
+OBJETIVO
+--------
+Deixar o veículo pronto para partir após semanas parado, sem bateria morta,
+pneus deformados ou combustível impróprio.
+
+QUANDO USAR
+-----------
+Quando o veículo ficará parado mais de 30 dias.
+Em viagem longa ou afastamento sem outro motorista disponível.
+Em crise sem combustível, mas com o carro precisando ficar pronto.
+Antes de fechar uma casa ou galpão por semanas.
+Ao guardar o veículo de outra pessoa.
+
+NAO USE QUANDO
+--------------
+Se houver vazamento de óleo ou combustível, cheiro forte de gasolina ou fio
+exposto, corrija antes. Parado, o defeito piora e pode virar incêndio.
+
+MATERIAIS
+---------
+- Chave do veículo e manual do proprietário.
+- Medidor de pressão de pneus (ou bomba com manômetro).
+- Mangueira, pano limpo e cascalho ou cunhas, conforme o piso.
+- Estabilizador de combustível (se a guarda passar de 30 dias).
+- Luvas, óculos de proteção e capa respirável.
+- Malha de arame ou pano para tampar o escapamento.
+
+PROCEDIMENTO
+------------
+1. Escolha local coberto, seco, ventilado e seguro para a guarda.
+2. Se o piso não for pavimentado, espalhe cascalho contra lama e poeira.
+3. Lave e seque o veículo; retire folhas e lama que retêm umidade.
+4. Desligue acessórios elétricos, feche vidros e coloque o câmbio em P.
+5. Não acione o freio de estacionamento; desative o automático se houver.
+6. Calibre os pneus na pressão de guarda do manual (Toyota: 43 psi).
+7. Encha o tanque para reduzir o ar e a umidade no sistema de combustível.
+8. Adicione estabilizador na dose do rótulo se a guarda passar de 30 dias.
+9. Confirme que o câmbio está em P e desconecte o cabo negativo da bateria.
+10. Prenda o cabo afastado do terminal para não encostar de novo.
+11. Tampe o escapamento com malha presa que possa ser retirada depressa.
+12. Cubra com capa respirável, sem apertar a pintura.
+13. Anote a data e os passos feitos em papel dentro do veículo.
+14. A cada 30 dias, meça a pressão dos pneus e procure ferrugem nas peças.
+15. Após 60 dias e depois a cada 30, verifique a carga da bateria.
+16. A cada 6 semanas, dê partida com espaço livre atrás do escapamento.
+17. Mantenha o motor abaixo de 1.500 rpm por aproximadamente 15 minutos.
+18. Acelere 10 vezes acima de 3.000 rpm e dirija pelo menos 9 metros.
+19. A cada 8 semanas, freie normalmente em local seguro para limpar discos.
+20. Reconecte o negativo só antes de usar e reajuste relógio e rádio.
+
+ATENCAO
+-------
+Não puxe o freio de mão: discos e pastilhas podem corroer e grudar. Use
+câmbio em P e cunhas se o terreno tiver declive.
+Desconecte o negativo só em P: sem bateria, o câmbio não sai de P.
+Estabilizador não desfaz separação de fase nem recupera gasolina já ruim.
+Se o motor falhar, pare e drene o tanque.
+Retire a malha ou pano do escapamento antes de dar partida. Escape tampado
+cria contrapressão e pode encher o lugar de gases.
+Nunca dê partida em galpão fechado sem exaustão: monóxido de carbono mata
+em minutos.
+Se a bateria estiver inchada, com cheiro ácido ou vazando, use luvas e
+óculos e procure ajuda.
+A pressão dos pneus muda com a temperatura; meça sempre com os pneus frios.
+
+SE NAO TIVER
+------------
+Sem local coberto, escolha terreno alto e drenado, longe de árvores.
+Sem estabilizador, mantenha o tanque cheio e encurte o tempo de guarda.
+Sem mantenedor, desconecte o negativo; não deixe carregador comum ligado
+sem supervisão.
+Sem medidor, calibre os pneus em um posto antes de guardar o veículo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ao reconectar a bateria, o motor parte na primeira tentativa.
+Os pneus não mostram achatamento visível e mantêm a pressão medida.
+Ao frear em local seguro, o pedal não vibra e os discos não soltam pó
+escuro em excesso.
+Não há cheiro de gasolina, umidade sob os tapetes nem sinal de animais.
+
+FONTES
+------
+Boletim T-SB-0009-25 da Toyota Motor Sales USA sobre guarda prolongada de
+veículos, 2025, acervo da NHTSA; memorando da EPA dos EUA sobre separação
+de água na gasolina; folder do Conselho Americano de Grãos e Bioprodutos
+sobre separação de fase em gasolina com etanol; prática consolidada de
+guarda de veículos contra pragas e umidade.

@@ -1,0 +1,82 @@
+==============================================================================
+CODIGO: 59-023
+TITULO: Como reconhecer materiais que contêm amianto
+CATEGORIA: 59 - Segurança industrial e riscos ocupacionais
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: lanterna, caderno, lápis, acesso visual sem tocar nos materiais
+REVISAO: 2026-11
+PALAVRAS-CHAVE: amianto, asbesto, telha, fibra, isolamento, laudo, suspeita
+==============================================================================
+
+OBJETIVO
+--------
+Listar materiais que podem conter amianto sem tocá-los ou danificá-los.
+
+QUANDO USAR
+-----------
+Antes de reformar, perfurar, cortar ou demolir parede, teto ou piso antigo.
+Ao ocupar imóvel ou oficina construída antes da proibição do amianto.
+Ao encontrar telhas, tubos ou mantas antigos e sem etiqueta legível.
+Quando há isolamento aparente em encanamentos, caldeiras ou fornos.
+Antes de lixar, serrar ou trocar pastilha de freio e lona de embreagem.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+Este procedimento e apenas visual: nao autoriza coleta, corte ou remocao.
+
+MATERIAIS
+---------
+- Lanterna para iluminar etiquetas e cantos (luz do celular serve).
+- Caderno e lápis para anotar local, aspecto e estado de cada material.
+- Nenhum material precisa ser tocado, coletado ou aproximado do rosto.
+
+PROCEDIMENTO
+------------
+1. Confira a idade do imóvel ou equipamento; priorize instalações antigas.
+2. Percorra o local com a lanterna sem tocar, soprar ou esfregar nada.
+3. Leia etiquetas e carimbos; copie "amianto", "asbesto" ou "ACM" se houver.
+4. Observe telhas de cimento ondulado, sobretudo bordas e furos.
+5. Veja fitas, mantas e revestimentos de tubos, caldeiras e fornos.
+6. Observe revestimento texturizado em paredes e tetos, com grãos ou casca.
+7. Olhe pisos vinílicos antigos, o verso das placas e a cola escura.
+8. Note o isolamento do sótão: vermiculita tem flocos brilhantes cinza.
+9. Inspecione pastilhas de freio, lonas de embreagem e juntas antigas.
+10. Anote o local, o aspecto e o estado de conservação de cada achado.
+11. Marque no caderno a posição exata sem arrastar objetos pelo material.
+12. Marque como suspeito cada material sem etiqueta que lembre estes itens.
+13. Não colete amostra por conta própria; a coleta pode liberar fibras.
+14. Solicite a um profissional credenciado a coleta e o laudo laboratorial.
+
+ATENCAO
+-------
+A inspeção visual só indica suspeita; só o laudo confirma amianto.
+Não toque, lixe, serre, fure, escove, aspire ou sople material suspeito.
+Material íntegro e intacto raramente libera fibra; dano e reforma liberam.
+A poeira de amianto não tem cheiro nem cor: não dá para sentir a exposição.
+Fumar aumenta muito o risco de câncer de pulmão em quem é exposto.
+Câncer de pulmão, mesotelioma e asbestose aparecem anos depois da exposição.
+Se o material estiver quebrado, isole a área, limite o acesso e chame ajuda.
+Nunca use aspirador comum; a limpeza exige empresa com equipamento próprio.
+
+SE NAO TIVER
+------------
+Sem etiqueta, trate como suspeito até chegar o laudo; não presuma segurança.
+Sem laudo, não autorize reforma, corte ou demolição na área suspeita.
+Sem profissional disponível, mantenha o material intacto e sem manuseio.
+Sem lanterna, use a luz do celular sem encostar a fonte no material.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada material suspeito está no caderno com local e estado anotados.
+Nenhum material suspeito foi tocado, cortado, lixado ou aspirado.
+A suspeita foi encaminhada para coleta e laudo por profissional credenciado.
+
+FONTES
+------
+Agência de Proteção Ambiental dos EUA (EPA): guia Learn About Asbestos.
+Agência de Proteção Ambiental dos EUA (EPA): guia Protect Your Family from
+Exposures to Asbestos. Consultados em 2026-11.
+Prática consolidada de inspeção: identificação definitiva requer análise de
+laboratório e material suspeito não deve ser manuseado.

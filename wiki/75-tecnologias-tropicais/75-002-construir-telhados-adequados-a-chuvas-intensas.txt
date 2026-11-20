@@ -1,0 +1,93 @@
+==============================================================================
+CODIGO: 75-002
+TITULO: Como construir telhados adequados a chuvas intensas
+CATEGORIA: 75 - Tecnologias apropriadas para regiões tropicais
+TEMPO: 1 dia
+RISCO: alto
+EXIGE: telhas, estrutura, fixações galvanizadas, calhas, cinto, ajudante
+REVISAO: 2026-11
+PALAVRAS-CHAVE: telhado, chuva, telha, calha, inclinação, goteira, vazamento
+==============================================================================
+
+OBJETIVO
+--------
+Fazer um telhado que escoe a chuva forte para longe da casa e da fundação.
+
+QUANDO USAR
+-----------
+Quando a região recebe chuvas fortes e prolongadas.
+Quando o telhado atual goteja ou molha as paredes.
+Quando a água da chuva escorre pela parede e desgasta a base da casa.
+Ao construir uma casa ou abrigo novo em região tropical.
+
+NAO USE QUANDO
+--------------
+Quando as paredes ou a fundação estiverem rachadas ou apodrecidas.
+Não apoie telhado novo em estrutura que não suporta o peso: pode desabar.
+
+MATERIAIS
+---------
+- Madeira ou aço para caibros e terças (ou estrutura pronta).
+- Telhas de metal galvanizado ou telhas de barro (ou chapas de zinco).
+- Parafusos com arruela ou pregos de cabeça larga, galvanizados.
+- Cintas metálicas galvanizadas para amarrar a estrutura às paredes.
+- Calhas e condutores (ou mangueiras cortadas ao meio).
+- Cinto de segurança, corda e capacete.
+- Escada firme e apoio seguro para trabalhar em altura.
+
+PROCEDIMENTO
+------------
+1. Confira se paredes e fundação estão firmes e niveladas antes de começar.
+2. Dé ao telhado declive (inclinação) de 30 a 40 graus.
+3. Quanto maior o declive, melhor o escoamento da chuva.
+4. Prefira telhado de quatro águas, sem empena (triângulo na parede).
+5. Monte caibros e terças sobre a viga de fecho (topo reforçado da parede).
+6. Amarre os caibros à viga de fecho com cinta galvanizada.
+7. Fixe as telhas com parafusos galvanizados com arruela.
+8. Se usar pregos, escolha pregos de cabeça larga galvanizados.
+9. Sobreponha as telhas metálicas em duas ondas completas na lateral.
+10. Na descida, sobreponha 15 cm se o declive for de 20 a 30 graus.
+11. Em declive menor, sobreponha pelo menos 30 cm. Na dúvida, use 30 cm.
+12. Instale calhas e condutores para afastar a água da fundação.
+13. Sem calhas, abra canaletas no solo para desviar a água do telhado.
+14. Inspecione o telhado duas vezes por ano e após tempestades fortes.
+
+ATENCAO
+-------
+Uma queda do telhado pode matar. Use cinto. Nunca trabalhe sozinho.
+Metal corta: use luvas ao manusear chapas.
+Telhado não resolve alagamento do terreno.
+Se o solo não escoa, a água entra pela base mesmo com calhas.
+As fontes divergem sobre a inclinação mínima.
+O manual do IFRC pede 30 a 40 graus em área de ciclone.
+A FEMA define telhado inclinado a partir de 3:12 (cerca de 14 graus).
+Em chuva forte, prefira a maior inclinação que a estrutura permitir.
+O manual do IFRC sobrepõe faixas de 15 cm e 30 cm; na dúvida use 30 cm.
+Pare a obra se o vento ficar forte ou se a estrutura balançar.
+Procure ajuda técnica.
+
+SE NAO TIVER
+------------
+Sem telhas de metal, use chapas de zinco ou telhas de barro, bem fixadas.
+Sem calhas, use mangueira cortada ao meio ou canaleta de madeira.
+Nunca deixe a água cair junto à parede.
+Sem parafusos galvanizados, não reaproveite fixação enferrujada.
+Sem cinto de segurança, não suba ao telhado.
+Monte a estrutura no chão e içe com ajuda.
+Peça ajuda técnica se não houver como içar com segurança.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Após a primeira chuva forte, não há goteiras dentro de casa.
+A água escorre pelas calhas e cai longe da base das paredes.
+As telhas ficam firmes e o telhado não retém poças após a chuva.
+
+FONTES
+------
+Manual Shelter Safety Handbook, da Federação Internacional das
+Sociedades da Cruz Vermelha (IFRC).
+Fact sheet 3.3.1, sobre telhados inclinados, do Manual de Mitigação
+contra Furacões e Enchentes da FEMA (P-2181).
+Guia PA-1 de calhas e condutores, do Serviço de Conservação de
+Recursos Naturais do Departamento de Agricultura dos Estados Unidos.
+Este texto é um resumo operacional, não substitui treinamento.

@@ -1,0 +1,68 @@
+==============================================================================
+CODIGO: 30-012
+TITULO: Como construir comportas simples
+CATEGORIA: 30 - Engenharia e infraestrutura básica
+TEMPO: 3 horas
+RISCO: medio
+EXIGE: canal ou vala rasa, madeira resistente, serra, pá, terra firme
+REVISAO: 2026-11
+PALAVRAS-CHAVE: comporta, madeira, registro, represar, canal, irrigação
+==============================================================================
+
+OBJETIVO
+--------
+Controlar o nível da água de um canal raso com uma comporta de madeira.
+
+QUANDO USAR
+-----------
+Quando é preciso erguer a água da vala para irrigar a horta.
+Quando a água passa baixa e não alcança os sulcos de plantio.
+
+NAO USE QUANDO
+--------------
+Quando o canal é fundo, largo, erodido ou há risco de cheia.
+Vazão acima de aproximadamente 100 litros por segundo exige técnico.
+
+MATERIAIS
+---------
+- Tábua larga, seca e sem rachaduras (prancha velha, sem podridão).
+- Tábuas finas, pregos, serra, pá, terra e pedras (use arame ou cipó).
+
+PROCEDIMENTO
+------------
+1. Escolha trecho reto do canal, com margens firmes e água rasa.
+2. Limpe o trecho e meça a largura da boca do canal.
+3. Corte a tábua com pelo menos 0,25 m de sobra em margens e leito.
+4. Pregue travessas na face de montante para reforçar a tábua.
+5. Marque o centro e serre a janela de aproximadamente 0,50 m por 0,25 m.
+6. Pregue as guias verticais com aproximadamente 2,5 cm de folga.
+7. Corte a comporta móvel de aproximadamente 0,60 m por 0,30 m.
+8. Prenda o cabo e teste o deslizamento três vezes.
+9. Cave vala no leito e nas margens, perpendicular ao canal.
+10. Encaixe a tábua enterrada e nivele a janela na altura da água.
+11. Reencha a vala com terra e pise firme em camadas.
+12. Forre o leito a jusante com pedras e abra a comporta devagar.
+
+ATENCAO
+-------
+A comporta só controla o nível: não trata a água para beber.
+Água acima da borda transborda e erode; se a margem ceder, saia da vala.
+Abrir de uma vez cria onda e leva terra a jusante; mova devagar.
+Madeira apodrecida quebra sob pressão: teste antes e troque a rachada.
+Vazão acima de aproximadamente 100 litros por segundo exige técnico.
+
+SE NAO TIVER
+------------
+Sem tábua larga, use prancha velha seca reforçada com ripas.
+Sem pregos, amarre as guias com arame ou cipó e aperte toda semana.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A comporta sobe e desce com a mão, sem emperrar.
+A água sobe a montante, passa pela janela e o leito a jusante não cava.
+
+FONTES
+------
+Manual de treinamento 8 da FAO, capítulos 3 e 9.3: comportas de madeira.
+Manual de Irrigação da FAO (Savva e Frenken, 2002), seção 6.4.
+Manual do Operador de Canais do Bureau of Reclamation (EUA, 2018).

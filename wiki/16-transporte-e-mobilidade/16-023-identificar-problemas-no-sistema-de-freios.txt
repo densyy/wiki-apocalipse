@@ -1,0 +1,97 @@
+==============================================================================
+CODIGO: 16-023
+TITULO: Como identificar problemas no sistema de freios
+CATEGORIA: 16 - Transporte e mobilidade
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: piso plano, manual do proprietário, lanterna, ajudante
+REVISAO: 2026-11
+PALAVRAS-CHAVE: freio, pastilha, pedal, chiado, raspagem, líquido, abs
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer sinais de desgaste ou falha nos freios e decidir quando parar.
+
+QUANDO USAR
+-----------
+Ao ouvir chiado, raspagem ou estalo ao pisar no pedal.
+Quando o pedal ficar mole, duro ou chegar perto do assoalho.
+Quando o carro puxar para um lado durante a frenagem.
+Quando o volante ou o pedal vibrar ao frear.
+Ao acender a luz de freio ou a luz de ABS no painel.
+
+NAO USE QUANDO
+--------------
+Não faça o teste de rodagem se o pedal afundar ou a luz de freio acender.
+Não dirija até a oficina com cheiro de queimado, fumaça ou raspagem.
+Não teste em via com trânsito, piso molhado, areia ou cascalho.
+Não abra nem complete o reservatório para "testar" o sistema.
+
+MATERIAIS
+---------
+- Manual do proprietário do veículo.
+- Lanterna, inclusive a do celular.
+- Pano limpo e seco (papel-toalha limpo).
+- Papel e lápis para anotar os sinais.
+- Ajudante para observar luzes e ouvir os freios.
+- Local plano, seco e vazio para o teste de rodagem.
+
+PROCEDIMENTO
+------------
+1. Estacione em piso plano, seco e sem trânsito.
+2. Desligue o motor e retire a chave da ignição.
+3. Puxe o freio de mão e confirme que ele resiste.
+4. Pise no pedal com o motor desligado, sem dar a partida.
+5. Observe se o pedal resiste e para antes do assoalho.
+6. Solte e pise de novo com o motor ligado.
+7. Observe se o pedal mantém altura e volta por completo.
+8. Leia no manual onde fica o reservatório do líquido de freio.
+9. Localize o reservatório sob o capô, sem abrir a tampa.
+10. Observe o nível pela parede transparente, entre "mín." e "máx.".
+11. Procure manchas úmidas no reservatório, nas mangueiras e sob o carro.
+12. Olhe entre os raios de cada roda com a lanterna.
+13. Compare os quatro discos: procure sulcos, rachaduras ou ferrugem funda.
+14. Peça ao ajudante que pise no pedal com a chave ligada.
+15. Confira se a luz de freio acende ao pisar e apaga ao soltar.
+16. Faça o teste de rodagem só com pedal firme e sem raspagem.
+17. Ande em linha reta, em local vazio, até aproximadamente 20 km/h.
+18. Freie com pressão firme e constante até parar.
+19. Observe se o carro sai reto, sem tremer e sem pulsar no pedal.
+20. Repita a frenagem duas vezes, deixando os freios esfriarem entre elas.
+21. Pare ao primeiro sinal de pedal mole, puxão ou cheiro de queimado.
+
+ATENCAO
+-------
+Raspagem metálica forte indica pastilha esgotada: metal contra disco. Pare.
+Pedal mole ou no assoalho pode ser ar no líquido: a frenagem pode falhar.
+Chiado nas primeiras paradas com frio ou umidade pode ser normal.
+Chiado alto e contínuo indica o indicador de desgaste da pastilha.
+Vibração ao frear aponta disco irregular; confirme a causa na oficina.
+Carro que puxa para um lado aumenta a distância de parada.
+Cheiro de queimado ou fumaça exigem parada imediata, sem insistir.
+Nível baixo pode ser vazamento: completar não corrige a causa.
+Este teste só identifica sinais: não sangra ar nem troca pastilhas.
+Se dois sinais aparecerem juntos, não dirija: peça guincho.
+
+SE NAO TIVER
+------------
+Sem ajudante, veja a luz de freio refletida numa parede ao pisar.
+Sem lanterna, use a luz fraca do celular, sem ofuscar a visão.
+Sem manual, não abra nem complete o reservatório: apenas observe.
+Sem local vazio, faça só a inspeção parada e procure uma oficina.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Pedal firme, que volta inteiro e não encosta no assoalho.
+Nível entre as marcas e nenhuma mancha úmida nas mangueiras.
+Paradas retas, sem vibração, puxão, chiado alto ou raspagem.
+Luzes de freio e ABS apagadas com o carro em movimento.
+
+FONTES
+------
+NHTSA (Administração Nacional de Segurança Rodoviária dos EUA):
+boletim "Brake Noise/Judder/Pedal Feel Diagnosis and Repair" (2018);
+campanha 18V-777 (2018), pedal mole por ar no líquido de freio.
+AAA: "11 Ways To Know You May Need New Brakes" e AAA Via
+Magazine (2026): raspagem, pedal esponjoso, luzes e vibração.

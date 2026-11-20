@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 08-016
+TITULO: Como fabricar ferramentas de bambu
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: bambu são, faca afiada, pedra de amolar, brasas, água para apagar
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bambu, faca, colher, lascar, cortar, ferramenta, taquara
+==============================================================================
+
+OBJETIVO
+--------
+Fabricar uma faca de bambu para furar e uma colher para comer.
+
+QUANDO USAR
+-----------
+Quando faltar faca ou talher no acampamento e houver bambu maduro.
+Quando for preciso furar couro, madeira mole ou alimento.
+
+NAO USE QUANDO
+--------------
+Bambu podre, rachado ou com manchas escuras. Nunca aqueça tubo fechado.
+
+MATERIAIS
+---------
+- Bambu maduro, reto e são, sem rachadura (taquara).
+- Faca de lâmina fixa ou que tranca, bem afiada.
+- Pedra grossa para amolar e pedra lisa ou lixa (opcional).
+- Brasas e água para apagar o fogo.
+- Luvas de couro ou pano grosso (opcional).
+
+PROCEDIMENTO
+------------
+1. Escolha um entrenó reto entre dois nós, sem rachadura ou mancha.
+2. Enrole fita ou pano no corte para reduzir lascas, se tiver.
+3. Corte o tubo em ângulo de 45 graus, apoiando as duas pontas.
+4. Abra o tubo ao meio no sentido das fibras, lâmina a 90 graus.
+5. Separe as metades e evite tocar as bordas cortantes.
+6. Desenhe uma lâmina de aproximadamente 15 cm numa metade.
+7. Raspe a face interna e preserve a casca; deixe o miolo de fora.
+8. Queime só a face interna sobre brasas até leve escurecimento.
+9. Apague com água e espere esfriar antes de continuar.
+10. Afie a ponta na pedra grossa; use a faca só para furar.
+11. Desenhe a colher na face interna da outra metade.
+12. Escave com cortes curtos para longe do corpo.
+13. Alise as bordas com pedra lisa ou lixa até não cortarem.
+
+ATENCAO
+-------
+A faca corta: entalhe sempre para longe do corpo e das pernas.
+Lascas entram fundo e infeccionam: use luvas e lave com água e sabão.
+Ferimento fundo, com terra ou lasca presa: procure atendimento.
+Pode ser preciso reforço contra o tétano, conforme o CDC.
+Nunca aqueça tubo fechado: ar e água presos explodem. Não enegreça o bambu.
+
+SE NAO TIVER
+------------
+Sem fita, corte devagar e apoie bem as duas pontas do tubo.
+Sem brasas ou pedra, a ponta fura, mas desgasta rápido.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A faca tem ponta firme, sem miolo mole, e fura sem quebrar.
+A colher tem bordas lisas, sem lascas, e segura comida sem cortar.
+
+FONTES
+------
+FM 3-05.70 Survival (2002), capítulo 12; CDC, ferimentos e tétano.
+Prática consolidada de dividir e raspar bambu, sem documento único.

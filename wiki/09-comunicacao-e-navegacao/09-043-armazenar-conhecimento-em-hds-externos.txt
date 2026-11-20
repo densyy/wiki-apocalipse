@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 09-043
+TITULO: Como armazenar conhecimento em HDs externos
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: HD externo com cabo USB, computador, papel, lápis e etiquetas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: hd externo, backup, cópia, dados, arquivo, preservação
+==============================================================================
+
+OBJETIVO
+--------
+Guarde arquivos em HD externo protegidos contra falha, perda e tempo.
+
+QUANDO USAR
+-----------
+Quando você tem documentos e mapas que não pode perder sem internet.
+Quando o computador pode falhar, ser roubado ou se perder.
+Quando arquivos antigos precisam passar para mídia nova.
+
+NAO USE QUANDO
+--------------
+Quando o HD é a única cópia: um HD sozinho não é preservação.
+
+MATERIAIS
+---------
+- HD externo com cabo USB (ou SSD, mais resistente a queda).
+- Segundo HD de outro modelo, cartão ou DVD.
+- Computador com porta USB, papel, lápis e etiqueta.
+- Armário fechado, longe de calor, umidade e poeira.
+
+PROCEDIMENTO
+------------
+1. Reúna os arquivos em uma pasta, com nomes curtos e sem acentos.
+2. Formate o HD antes de copiar, se necessário; formatar apaga tudo.
+3. Use exFAT se o HD for lido em sistemas diferentes.
+4. Conecte o HD por USB e copie a pasta; não desconecte antes de terminar.
+5. Abra três arquivos no HD e confira que leem até o fim.
+6. Copie a pasta para um segundo HD de outro modelo ou mídia.
+7. Guarde uma cópia em outro lugar e outra desligada.
+8. Escreva no papel a lista, a data e onde está cada cópia.
+9. Reconecte cada HD a cada seis meses e abra três arquivos.
+10. Copie tudo para HD novo antes de cinco anos de uso.
+
+ATENCAO
+-------
+Um HD falha sem aviso: estudos citados pelo Digital Preservation
+Co estimam que 5 a 15 em cada 100 HDs falham no primeiro ano.
+Uma cópia só não protege contra roubo, fogo, umidade ou exclusão.
+Formate só com o HD vazio; pare se nenhuma cópia abrir os arquivos.
+
+SE NAO TIVER
+------------
+Sem segundo HD, use cartão de memória ou DVD como outra mídia.
+Sem computador, peça a pessoa de confiança que copie e confira.
+Nuvem serve com internet, mas não substitui uma cópia desligada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os arquivos abrem no HD e em outro aparelho; há três cópias em dois lugares.
+A lista de papel confere com os arquivos e a data da última checagem.
+
+FONTES
+------
+Digital Preservation Coalition, Digital Preservation Handbook, 2ª edição:
+múltiplas cópias, uma offline, locais separados, checagem e migração.
+NDSA, Levels of Digital Preservation (2013; versão 2.0, 2018),
+citado pelo handbook; estimativas de falha de HD do mesmo handbook.

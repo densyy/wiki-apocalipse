@@ -1,0 +1,92 @@
+==============================================================================
+CODIGO: 04-071
+TITULO: Como produzir briquetes de biomassa
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: local ventilado, biomassa seca, aglutinante, água e molde
+REVISAO: 2026-11
+PALAVRAS-CHAVE: briquete, biomassa, serragem, aglutinante, argila, amido
+==============================================================================
+
+OBJETIVO
+--------
+Obtenha blocos de combustível a partir de resíduos vegetais secos.
+
+QUANDO USAR
+-----------
+Quando houver serragem, aparas ou cascas secas sem uso.
+Quando faltar lenha e for preciso guardar combustível compacto.
+Quando quiser aproveitar resíduo de madeira limpa.
+Quando for cozinhar em fogão que aceite blocos pequenos.
+
+NAO USE QUANDO
+--------------
+Com madeira pintada, tratada, compensado ou plástico misturado.
+Com material molhado, mofado ou com cheiro de produto químico.
+Dentro de casa sem chaminé ou sem ventilação para a fumaça.
+Perto de fogueira acesa, faíscas ou depósito de combustível.
+
+MATERIAIS
+---------
+- Serragem, aparas finas, cascas ou palha bem seca.
+- Aglutinante: argila em pó (ou amido de milho ou de mandioca).
+- Água limpa em quantidade pequena.
+- Molde cilíndrico de madeira ou metal (ou lata sem tinta).
+- Pano ou lona para secar as peças.
+- Luvas e máscara de pano para manusear o pó fino.
+
+PROCEDIMENTO
+------------
+1. Escolha local externo, seco e ventilado, longe do fogo.
+2. Separe a serragem: tire pedras, pregos, plástico e gravetos.
+3. Se a fibra for grossa, pique ou amasse até ficar miúda.
+4. Peneire para tirar o pó mais fino, que inflama com facilidade.
+5. Misture a biomassa seca com o aglutinante em recipiente.
+6. Use aproximadamente uma parte de aglutinante para cinco de biomassa.
+7. Mexa bem até o aglutinante ficar distribuído na massa.
+8. Acrescente água aos poucos, mexendo sem parar.
+9. Pare quando a massa mantiver a forma ao apertar na mão.
+10. A massa não deve escorrer água nem ficar empastada.
+11. Pegue uma porção e aperte forte dentro do molde.
+12. Complete o molde em camadas, apertando cada camada.
+13. Vire o molde sobre o pano e empurre a peça para fora.
+14. Repita até acabar a massa, deixando espaço entre as peças.
+15. Deixe secar ao sol e ao vento por aproximadamente três dias.
+16. Vire as peças a cada dia para secar todos os lados.
+17. Proteja da chuva e do orvalho durante a secagem.
+18. Guarde as peças secas em local coberto, arejado e fora do chão.
+
+ATENCAO
+-------
+O que mata aqui é a fumaça: queime briquetes só com ventilação.
+Nunca queime em quarto fechado: o monóxido de carbono não tem cheiro.
+Pó de serragem suspenso no ar pega fogo com faísca.
+Não jogue pó de serragem no fogo: a poeira pode estourar.
+Não misture material tratado: a queima libera gases tóxicos.
+Não seque as peças junto de fogueira ou fogão aceso.
+Se a massa ficar molhada demais, as peças racham ao secar.
+Ardente ou cheiro estranho ao queimar: pare e ventile o local.
+Mantenha crianças e animais longe da área de secagem.
+
+SE NAO TIVER
+------------
+Sem molde, aperte a massa com as mãos até formar bolas compactas.
+Sem argila, use amido de milho dissolvido em água morna.
+Sem amido, use argila de barro limpo, sem folhas ou pedras.
+Sem serragem, use palha picada ou cascas secas moídas.
+Sem sol, seque em local coberto e muito arejado, longe do fogo.
+Sem aglutinante, as peças desfazem: não insista.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As peças mantêm a forma ao serem retiradas do molde.
+Depois de secas, ficam duras e soam oco ao bater com o dedo.
+Ao queimar, pegam brasa estável e não soltam fumaça escura.
+Não há cheiro de madeira crua nem de produto químico.
+
+FONTES
+------
+Prática consolidada de briquetagem de biomassa com aglutinante e
+secagem ao sol, sem documento único consultado.
+==============================================================================

@@ -1,0 +1,76 @@
+==============================================================================
+CODIGO: 05-007
+TITULO: Como construir um abrigo contra frio extremo
+CATEGORIA: 05 - Abrigo, construção e habitação
+TEMPO: 60 minutos
+RISCO: critico
+EXIGE: local sem vento, isolante seco, cobertura impermeavel
+REVISAO: 2026-11
+PALAVRAS-CHAVE: frio, hipotermia, abrigo, isolante, vento, inverno
+==============================================================================
+
+OBJETIVO
+--------
+Manter o corpo aquecido em noite fria com abrigo pequeno e isolado.
+
+QUANDO USAR
+-----------
+Quando a temperatura cai a noite e nao ha casa disponivel.
+Quando e preciso passar a noite ao relento com vento forte.
+Quando alguem comeca a tremer sem parar e precisa se abrigar.
+Quando a casa foi danificada no inverno e nao protege do vento.
+
+NAO USE QUANDO
+--------------
+Nao acenda fogo dentro de abrigo pequeno e fechado.
+Nao use este abrigo por varios dias sem agua, comida e ajuda.
+
+MATERIAIS
+---------
+- Lona, plastico grosso ou sacos grandes para cobertura.
+- Folhas secas, capim seco, papel ou roupa seca para isolar.
+- Galhos, varas ou restos de madeira para a estrutura.
+- Corda, barbante, tira de pano ou cipo para amarrar.
+- Faca ou objeto afiado para cortar e ajustar.
+
+PROCEDIMENTO
+------------
+1. Escolha local alto, seco e protegido do vento para montar.
+2. Aproveite muro, barranco ou veiculo parado como quebra-vento.
+3. Monte estrutura baixa em forma de A, so para caber deitado.
+4. Cubra a estrutura com lona ou plastico, sem deixar fresta.
+5. Forre o chao com camada grossa de material seco e fofo.
+6. Feche as frestas laterais com folhas, roupa ou papel amassado.
+7. Deixe entrada pequena e uma fresta fina para ventilar.
+8. Entre com roupa seca e tampe a entrada com lona ou mochila.
+9. Fique deitado em posicao encolhida para segurar o calor.
+10. Vigie tremor, confusao e sono e peca ajuda ao amanhecer.
+
+ATENCAO
+-------
+Frio extremo pode matar em poucas horas por hipotermia.
+Tremor forte, confusao, fala enrolada e sonolencia sao perigo.
+Nunca acenda fogo dentro de abrigo pequeno e fechado.
+Fumaca presa causa intoxicacao sem cheiro, que pode matar.
+Material molhado rouba calor em vez de isolar; troque por seco.
+Este abrigo so segura o calor do corpo; ele nao gera calor.
+Se a pessoa parar de tremer e ficar mole, busque ajuda urgente.
+
+SE NAO TIVER
+------------
+Sem lona, use portas, tapetes, cobertores ou sacos sobrepostos.
+Sem corda, amarre com tira de roupa, cadarco ou cipo firme.
+Sem estrutura, deite junto ao muro e cubra-se com isolante seco.
+Nao use roupa encharcada como isolante; ela piora o frio.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O vento nao entra e o ar dentro parece parado e menos gelado.
+O chao nao passa umidade e o corpo para de esfriar deitado.
+
+FONTES
+------
+Pratica consolidada de abrigo de emergencia em clima frio
+(referencias: FEMA, IFRC e Manual de sobrevivencia FM 21-76
+do Exercito dos EUA). Este texto e resumo operacional e nao
+substitui treinamento.

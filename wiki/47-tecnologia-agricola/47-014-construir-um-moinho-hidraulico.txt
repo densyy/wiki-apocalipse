@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 47-014
+TITULO: Como construir um moinho hidráulico
+CATEGORIA: 47 - Tecnologia agrícola e mecanização rural
+TEMPO: vários dias
+RISCO: alto
+EXIGE: córrego com fluxo, duas pedras de moinho, madeira e ferramentas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: moinho, água, farinha, grãos, roda d'água, pedra, moer
+==============================================================================
+
+OBJETIVO
+--------
+Construir um moinho movido pela força da água de um córrego para moer
+grãos secos e transformá-los em farinha ou farelo.
+
+QUANDO USAR
+-----------
+Quando há córrego com fluxo constante durante o ano inteiro.
+Quando não há energia elétrica, diesel ou animais de tração.
+Quando a comunidade precisa de farinha ou fubá todos os dias.
+
+NAO USE QUANDO
+--------------
+Quando o córrego seca ou congela em parte do ano.
+Quando não há duas pedras duras e sem rachaduras para as mós.
+Quando não se pode desviar água sem alagar plantio ou vizinho.
+Em trecho de cheia súbita, com risco de perder a obra e ferir gente.
+
+MATERIAIS
+---------
+- Um córrego com fluxo constante e pequena queda de nível.
+- Duas pedras circulares de basalto ou granito, 30 a 50 cm.
+- Madeira dura para as pás, o eixo, a calha, a base e o funil.
+- Pedra, tijolo ou terra batida para firmar a base e a calha.
+- Cinzel, marreta, pá e enxada para desbastar as pedras.
+- Cavilha de madeira ou eixo de ferro para o eixo vertical.
+- Corda ou arame para prender as pás e vedar a calha.
+- Tábua para a comporta que regula a entrada de água.
+- Peneira ou pano para separar o farelo da farinha.
+
+PROCEDIMENTO
+------------
+1. Observe o córrego e escolha trecho com queda natural e margem firme.
+2. Marque a base e a calha acima do nível da cheia normal.
+3. Desvie parte da água com represão de pedra e terra, sem alagar nada.
+4. Abra e regule a calha inclinada até a roda, com força e sem transbordar.
+5. Monte a roda horizontal com duas tábuas cruzadas e pás na borda.
+6. Prenda as pás com corda ou arame, inclinadas no mesmo sentido.
+7. Fixe a roda ao eixo vertical e apoie o eixo em mancais firmes.
+8. Coloque a calha para a água bater nas pás sempre do mesmo lado.
+9. Encaixe uma comporta de tábua na entrada da calha.
+10. Desbaste a face das duas pedras até ficar plana.
+11. Abra sulcos rasos em leque e um furo central nas duas pedras.
+12. Assente a de baixo com sulcos para cima; encaixe a de cima no eixo.
+13. Encaixe o funil sobre o furo da pedra de cima.
+14. Ajuste o eixo até as duas pedras ficarem quase se tocando.
+15. Abra a comporta e deixe a roda girar sem grão para assentar as mós.
+16. Regule a comporta até a roda girar constante, sem saltar nem parar.
+17. Despeje grão seco no funil, aos poucos, sem encher.
+18. Aproxime as pedras para farinha fina; afaste para farelo grosso.
+19. Retire a farinha da borda e peneire para separar o farelo.
+20. Feche a comporta e limpe os sulcos ao trocar de tipo de grão.
+Para detalhes na abertura dos sulcos, veja 47-006.
+
+ATENCAO
+-------
+A roda e o eixo giram com força e podem prender dedos ou roupas.
+Prenda o cabelo, use manga curta e fique longe das pás em movimento.
+Obra molhada e córrego causam queda, corte e hipotermia.
+Nunca entre na água com a comporta aberta ou a roda girando.
+Cheia súbita pode levar a obra e ferir quem estiver na calha.
+Pedra de moinho é pesada e esmaga pés se cair; peça ajuda.
+Use só basalto ou granito íntegro; pedra mole solta areia na farinha.
+A obra é trabalhosa e o rendimento é baixo: espere ajustes frequentes.
+Pare e busque ajuda se a água subir, o eixo rachar ou alguém se ferir.
+
+SE NAO TIVER
+------------
+Sem pedras de moinho, use um pilão: dá farelo grosso, não farinha fina.
+Sem queda de água, use monjolo ou moinho manual (veja 47-006).
+Sem eixo de ferro, use madeira dura e seca, bem presa, e gire mais devagar.
+Não improvise com pedra rachada, eixo mole ou roda desbalanceada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A roda gira sem travar e sem jogar água para fora da calha.
+Sai farinha ou farelo pela borda das pedras a cada volta da roda.
+A farinha não tem areia visível nem pedaços de pedra ao peneirar.
+A comporta regula a velocidade: fechando para, abrindo gira.
+
+FONTES
+------
+Prefeitura de Capelinha, MG: fubá em moinho d'água de madeira e pedra.
+National Trust, Winchester City Mill: comporta, roda, tremonha e mós.
+Rota dos Moinhos, Portugal: moinho de roda horizontal para córregos.
+UNIDO/OIT e Wageningen, LEISA 2005: moinhos de água e de pedra.
+Embrapa: moagem a seco de milho para fubá e farelo.
+Prática consolidada de moinharia artesanal, sem documento único.

@@ -1,0 +1,94 @@
+==============================================================================
+CODIGO: 01-009
+TITULO: Como cavar um poço manualmente
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 2 a 5 dias
+RISCO: critico
+EXIGE: capacete, corda, balde, escada firme, picareta ou pá, revestimento
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, poço, cacimba, cavar, escavar, lençol freático
+==============================================================================
+
+OBJETIVO
+--------
+Abrir um poço raso que alcance o lençol freático e proteger a água contra
+contaminação.
+
+QUANDO USAR
+-----------
+Quando não há água corrente nem fonte segura por perto.
+Quando o solo é argiloso ou arenoso e há indícios de água subterrânea.
+Quando poços antigos na região mostram a profundidade do lençol.
+Quando a estiagem permite escavar sem alagar a obra.
+Quando o abastecimento precisa durar vários dias ou semanas.
+
+NAO USE QUANDO
+--------------
+Quando o solo é rocha dura, areia movediça ou área sujeita a inundação.
+Quando há fossa a menos de 15 m ou chiqueiro, estábulo e esgoto a menos
+de 45 m do ponto escolhido.
+Quando não há material para revestir as paredes nem pessoas para ajudar.
+Quando não há como ventilar e testar o ar antes de descer.
+
+MATERIAIS
+---------
+- Picareta, cavadeira ou pá.
+- Corda de cânhamo ou algodão; nunca use nylon.
+- Balde ou caçamba para retirar terra e água.
+- Capacete com queixa presa.
+- Escada firme, presa na boca do poço.
+- Revestimento: manilhões de concreto (ou anéis de alvenaria).
+- Luvas, botas e lanterna de pilha; nunca use chama aberta.
+- Lona ou tampa para fechar a boca quando parar.
+
+PROCEDIMENTO
+------------
+1. Escolha ponto alto, distante de inundação e de focos de sujeira.
+2. Meça 15 m da fossa seca e 45 m de chiqueiros, estábulos e esgotos.
+3. Confirme a água com poços vizinhos ou sondagem com trado.
+4. Isole com cerca a área de 2 m em volta do ponto marcado.
+5. Cave na estiagem e nunca trabalhe sozinho.
+6. Abra o poço cilíndrico com diâmetro mínimo de 90 cm.
+7. Assente o primeiro manilhão na boca antes de cavar mais fundo.
+8. Cave por dentro do manilhão até ele descer por próprio peso.
+9. Repita até o solo parar de ceder ou chegar a 3 m de profundidade.
+10. Ventile com feixe de gravetos antes de cada descida.
+11. Desça só com capacete afivelado e escada presa na boca.
+12. Mantenha uma pessoa na superfície, com corda pronta para resgate.
+13. Retire terra com balde preso à corda, sem levar ferramenta na mão.
+14. Revista toda a parede se o solo for friável, até a boca do poço.
+15. Ao atingir o lençol, aprofunde dentro dele para aumentar a vazão.
+
+ATENCAO
+-------
+O desabamento é a principal causa de morte: nunca entre sem revestimento.
+Falta de oxigênio, metano e gases de motor matam em segundos.
+Nunca baixe motor a combustão no poço; a exaustão afunda e mata.
+Não fume, não acenda fósforo nem use chama: metano pode explodir.
+Não use corda de nylon: o atrito gera faísca.
+Não baixe manilhão com ninguém dentro; retire a pessoa primeiro.
+Rachaduras, terra caindo ou cheiro de esgoto exigem parada imediata.
+Nesse caso, suba, feche a boca e procure Defesa Civil ou poceiro experiente.
+A água de poço raso pode conter bactérias; trate antes de beber (01-001).
+
+SE NAO TIVER
+------------
+Sem manilhão de concreto, use anéis de alvenaria ou chapas de aço.
+Sem revestimento seguro, não desça: cave só com trado da superfície.
+Sem balde, use recipiente plástico preso à corda.
+Sem capacete ou sem ajudante, não entre; espere obtê-los.
+Sem teste de ar, ventile bastante e não desça com cheiro estranho.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A parede fica firme, sem rachaduras novas nem queda de terra.
+A água acumula no fundo e enche o balde em tempo razoável.
+A plataforma e a caixa estão firmes, com a tampa bem fechada.
+A água retirada não tem cheiro de esgoto, óleo nem combustível.
+
+FONTES
+------
+Manual de Saneamento da Fundação Nacional de Saúde (Funasa), capitulo
+2.9.4: poços escavados. Manual de Equipamentos para Poços Escavados
+Manualmente da Oxfam, secao de seguranca. Nota tecnica da OMS sobre
+limpeza e desinfeccao de poços. Resumo operacional de pratica consolidada.

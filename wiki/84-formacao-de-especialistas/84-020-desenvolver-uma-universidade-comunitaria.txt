@@ -1,0 +1,84 @@
+==============================================================================
+CODIGO: 84-020
+TITULO: Como desenvolver uma universidade comunitária
+CATEGORIA: 84 - Educação avançada e formação de especialistas
+TEMPO: 60 minutos
+RISCO: baixo
+EXIGE: diagnóstico da região, grupo interessado, registrador e caderno
+REVISAO: 2026-11
+PALAVRAS-CHAVE: universidade comunitária, ensino, extensão, região, gestão
+==============================================================================
+
+OBJETIVO
+--------
+Planejar universidade comunitária que forme especialistas locais.
+
+QUANDO USAR
+-----------
+Quando a região forma profissionais, mas eles migram para outras cidades.
+Quando há demanda por especialistas que o ensino distante não atende.
+Quando escolas, empresas e poder público querem compartilhar laboratórios.
+Quando cursos existentes ignoram problemas concretos do município.
+Quando é preciso fixar conhecimento técnico jovem no interior.
+
+NAO USE QUANDO
+--------------
+Não comece sem diagnóstico de demanda real por profissionais.
+Não crie cursos apenas para ocupar prédio ou seguir moda de mercado.
+Não prometa vagas ou empregos sem conversar com quem contrata.
+
+MATERIAIS
+---------
+- Caderno e caneta para registrar entrevistas e decisões (celular).
+- Lista de cursos, docentes e laboratórios já existentes na região.
+- Contatos de escolas, sindicatos, prefeitura e empresas locais.
+- Espaço físico emprestado para reunir o grupo fundador (sala pública).
+- Registrador com experiência em atas e documentos (computador).
+
+PROCEDIMENTO
+------------
+1. Reúna representantes de escolas, empresas e poder público.
+2. Liste os problemas técnicos mais frequentes na região.
+3. Pergunte a cada área quantos especialistas faltam por ano.
+4. Anote quais conhecimentos hoje exigem sair do município.
+5. Escolha uma área piloto com demanda clara e apoio garantido.
+6. Defina quem ensina, quem aprende e onde as aulas acontecem.
+7. Descreva o perfil do egresso em uma frase curta.
+8. Monte a grade com teoria, prática e projeto local integrados.
+9. Negocie uso compartilhado de laboratórios e oficinas.
+10. Estabeleça regras de gestão com transparência e rodízio.
+11. Preveja bolsas ou parcerias para quem não pode pagar.
+12. Registre cada decisão em ata e divulgue à comunidade.
+13. Abra turma piloto pequena e avalie depois de um semestre.
+
+ATENCAO
+-------
+Universidade comunitária exige sustentação financeira contínua.
+Sem receita prevista, o projeto fecha antes da primeira turma.
+Não confunda com extensão escolar: aqui há currículo e avaliação.
+Evite depender de uma única empresa ou doador por completo.
+Cursos sem reconhecimento oficial podem frustrar quem estuda.
+Documentos e atas protegem o grupo quando lideranças mudam.
+
+SE NAO TIVER
+------------
+Sem prédio próprio, use salas emprestadas de escola ou prefeitura.
+Sem docentes locais, convide profissionais de cidades próximas.
+Sem laboratório, comece com oficinas e medições simples no campo.
+Sem dinheiro, busque parcerias e editais públicos de extensão.
+Sem registro formal, comece como curso livre e documente tudo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A turma piloto conclui o projeto aplicado a um problema real.
+Especialistas formados permanecem ou retornam para a região.
+A ata registra decisões e o grupo continua reunido após um ano.
+
+FONTES
+------
+Prática consolidada das universidades comunitárias do sul do Brasil,
+como a Universidade Comunitária da Região de Chapecó e a Universidade
+de Passo Fundo. A associação que reúne essas instituições (ABRUC)
+documenta o modelo. A noção de extensão universitária segue o debate
+brasileiro sobre ensino, pesquisa e extensão. Instituições citadas
+existem; o passo a passo acima é síntese operacional.

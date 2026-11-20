@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 01-001
+TITULO: Como tornar água suspeita mais segura para beber
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 20 minutos
+RISCO: baixo
+EXIGE: calor intenso, recipiente metálico, pano limpo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, ferver, purificar, doença, filtro
+==============================================================================
+
+OBJETIVO
+--------
+Reduzir o risco de doenças transmitidas pela água.
+
+QUANDO USAR
+-----------
+Quando a água vem de fonte sem tratamento conhecido.
+Quando há dúvida sobre a origem, o transporte ou o armazenamento.
+
+NAO USE QUANDO
+--------------
+Quando houver suspeita de contaminação química: combustível, agrotóxico,
+metal pesado, sal ou material radioativo. Ferver não a torna segura.
+
+MATERIAIS
+---------
+- Recipiente limpo, sem resíduo químico, combustível ou tinta velha.
+- Fonte de calor que mantenha ebulição forte.
+- Pano limpo para coar.
+- Recipiente limpo e tampado para guardar a água.
+
+PROCEDIMENTO
+------------
+1. Se a água estiver turva, deixe parada para assentar a sujeira.
+2. Coe a água com pano limpo para reter as partículas visíveis.
+3. Leve a água coada ao fogo em recipiente metálico limpo.
+4. Conte 1 minuto de ebulição forte, com bolhas grandes subindo.
+5. Acima de 2.000 m de altitude, conte 3 minutos.
+6. Desligue o fogo e tampe para a água esfriar.
+7. Guarde a água fria em recipiente limpo e tampado.
+8. Não toque na água com mãos ou utensílios sujos.
+
+ATENCAO
+-------
+A fervura mata bactérias, vírus, protozoários e ovos de vermes.
+Não remove metais pesados, agrotóxicos, combustíveis, sal nem
+contaminação radioativa. Com suspeita de contaminação química, ferver
+não torna a água segura e pode concentrar o contaminante pela
+evaporação. Água fervida recontaminada volta a ser insegura.
+Em altitude a água ferve a temperatura menor; por isso os 3 minutos.
+Não tampe com pano sujo nem esfrie destampada perto de poeira ou fumaça.
+
+SE NAO TIVER
+------------
+Sem calor, sedimentar e coar reduzem partículas, mas não eliminam
+microrganismos. Não existe substituto caseiro equivalente à fervura.
+Procure outra fonte de água segura ou ajuda.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água passou por ebulição forte pelo tempo indicado, esfriou tampada
+e ficou guardada em recipiente limpo e tampado.
+
+FONTES
+------
+Prática consolidada de tratamento de água em situações de emergência
+(referências: OMS e CDC). Este texto é um resumo operacional, não
+substitui treinamento.

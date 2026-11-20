@@ -1,0 +1,88 @@
+==============================================================================
+CODIGO: 81-010
+TITULO: Como construir um secador térmico industrial
+CATEGORIA: 81 - Engenharia térmica e fornos industriais
+TEMPO: 3 dias
+RISCO: medio
+EXIGE: câmara isolada, fonte de calor, ventilação, chaminé
+REVISAO: 2026-11
+PALAVRAS-CHAVE: secador, secagem, ar quente, ventilação, umidade, industrial
+==============================================================================
+
+OBJETIVO
+--------
+Construir um secador que retire umidade de produtos com ar quente.
+
+QUANDO USAR
+-----------
+Para secar grãos, frutas, madeira ou tecidos em pequena escala.
+Quando o sol não é suficiente ou o tempo está chuvoso.
+Para reduzir perdas após a colheita.
+Quando se quer secagem mais rápida e uniforme que ao ar livre.
+
+NAO USE QUANDO
+--------------
+Não use para produtos que derretem ou queimam com calor forte.
+Não opere sem saída de ar úmido e sem proteção contra incêndio.
+Não coloque material inflamável junto da fonte de calor.
+Não deixe o secador funcionando sem vigilância.
+
+MATERIAIS
+---------
+- Câmara de alvenaria, metal ou madeira isolada por dentro.
+- Fontes de calor: resistência, trocador ou forno a lenha acoplado.
+- Ventilador para empurrar o ar quente (exaustor ou soprador).
+- Entrada de ar limpo e saída de ar úmido com duto.
+- Prateleiras ou bandejas gradeadas (telas metálicas).
+- Termômetro e higrômetro simples (medidor de umidade).
+- Isolamento térmico e vedação de portas.
+- Extintor ou balde de água por perto.
+
+PROCEDIMENTO
+------------
+1. Escolha local firme, seco e com espaço para a câmara.
+2. Defina o tamanho da câmara pela quantidade a secar de cada vez.
+3. Isole as paredes para não perder calor para fora.
+4. Instale bandejas gradeadas com espaço entre elas.
+5. Preveja entrada de ar limpo na parte baixa.
+6. Coloque a saída de ar úmido no topo, com duto para fora.
+7. Instale a fonte de calor antes do ventilador, na entrada.
+8. Fixe o ventilador de modo a empurrar o ar pelas bandejas.
+9. Vede as portas com feltro ou borracha resistente ao calor.
+10. Coloque termômetro e medidor de umidade dentro da câmara.
+11. Espalhe o produto em camada fina sobre as bandejas.
+12. Ligue o calor e o ventilador, começando com temperatura baixa.
+13. Aumente o calor aos poucos, sem passar do limite do produto.
+14. Controle a umidade retirando o ar úmido pela saída.
+15. Registre tempos, temperaturas e peso antes e depois.
+
+ATENCAO
+-------
+Calor alto demais estraga o produto e pode iniciar incêndio.
+Ar úmido preso dentro da câmara paralisa a secagem e cria mofo.
+Nunca obstrua a entrada ou a saída de ar.
+Fonte de calor a lenha exige chaminé e cinza removida com segurança.
+O ventilador deve ser protegido contra poeira e combustível.
+Desligue o calor antes de abrir a porta totalmente.
+Se sentir cheiro de queimado, pare e verifique a temperatura.
+
+SE NAO TIVER
+------------
+Sem higrômetro, pese amostras até o peso parar de cair.
+Sem ventilador, abra passagens para o ar circular por convecção.
+Sem isolamento, aceite maior gasto de energia e controle melhor o fogo.
+Sem chaminé, não use lenha como fonte de calor.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O produto atinge a umidade desejada sem queimar nem mofar.
+A temperatura permanece estável durante a secagem.
+O ar úmido sai pelo duto e entra ar limpo pela entrada.
+O peso final é menor e constante em duas medições seguidas.
+
+FONTES
+------
+Prática consolidada de secagem térmica de produtos agrícolas e pequena
+indústria, sem documento normativo único. Referências correntes de
+secagem com ar quente, controle de umidade e segurança em equipamentos
+térmicos.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 36-038
+TITULO: Como realizar peneiramento de sedimentos
+CATEGORIA: 36 - Geologia, mineração e recursos naturais
+TEMPO: 35 minutos
+RISCO: medio
+EXIGE: amostra seca, peneiras, bandeja, pano, máscara de pó
+REVISAO: 2026-11
+PALAVRAS-CHAVE: peneirar, sedimentos, grãos, malha, separar, areia, cascalho
+==============================================================================
+
+OBJETIVO
+--------
+Separar uma amostra de sedimentos em frações pelo tamanho dos grãos.
+
+QUANDO USAR
+-----------
+Quando a amostra tem grãos de vários tamanhos e é preciso classificar.
+Quando se quer retirar finos (silte e argila) para ver areia e cascalho.
+Quando se procura minerais pesados em uma faixa de tamanho.
+
+NAO USE QUANDO
+--------------
+Com suspeita de amianto, urânio, chumbo ou mercúrio: pare e peça ajuda.
+Se o material for reativo ou desconhecido e puder liberar pó tóxico.
+
+MATERIAIS
+---------
+- Amostra seca e quebrada, sem lixo ou matéria orgânica.
+- Peneiras empilháveis com malhas de tamanhos decrescentes.
+- Bandeja de fundo, tampa, pano limpo e recipientes para cada fração.
+- Máscara de pó, luvas, óculos; água se for usar peneiramento úmido.
+
+PROCEDIMENTO
+------------
+1. Quebre os torrões secos sem moer os grãos da amostra.
+2. Retire folhas, raízes e lixo visível.
+3. Use malhas aproximadas de 2 mm, 1 mm, 0,5 mm e 0,25 mm.
+4. Monte a pilha com a malha maior em cima e a bandeja embaixo.
+5. Despeje a amostra na peneira de cima e coloque a tampa.
+6. Agite a pilha de lado a lado por aproximadamente 10 minutos.
+7. Bata levemente a lateral para soltar grãos presos na malha.
+8. Desmonte de cima para baixo sobre pano limpo.
+9. Recolha e rotule cada fração com o tamanho da malha.
+10. Recolha na bandeja o que passou por todas as malhas.
+
+ATENCAO
+-------
+Pó seco de sílica causa doença respiratória: use máscara.
+Nunca peneire material com suspeita de amianto, urânio ou chumbo.
+Grãos presos na malha falseiam a separação: desaloje com cuidado.
+Peneira empenada ou malha rasgada deixa passar grãos grandes.
+Se o pó irritar olhos ou garganta, pare, lave e procure ajuda.
+
+SE NAO TIVER
+------------
+Sem peneiras, use telas de cozinha ou pano firme esticado.
+Sem conjunto, peneira uma malha por vez, da maior para a menor.
+Com amostra úmida, lave com água sobre a tela e reduza o pó.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada fração fica retida na sua malha, sem grãos presos na tela.
+A soma das frações corresponde à amostra original, sem perda.
+
+FONTES
+------
+Prática consolidada de peneiramento e análise granulométrica de sedimentos.
+Prática comum em geologia de campo e laboratório de solos.
+Nenhum documento consultado; resumo, não substitui treinamento.

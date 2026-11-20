@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 03-018
+TITULO: Como tratar queimaduras térmicas
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 25 minutos
+RISCO: alto
+EXIGE: água corrente limpa, pano limpo, cobertor
+REVISAO: 2026-11
+PALAVRAS-CHAVE: queimadura, térmica, calor, bolha, resfriar, água, frio
+==============================================================================
+
+OBJETIVO
+--------
+Reduzir a dor e limitar a profundidade da queimadura até o atendimento.
+
+QUANDO USAR
+-----------
+Queimadura por fogo, chama ou líquido fervente.
+Queimadura por vapor, objeto quente ou sol forte.
+Pele vermelha e dolorosa, com ou sem bolhas, após contato com calor.
+Queimadura térmica em qualquer parte do corpo, mesmo pequena.
+
+NAO USE QUANDO
+--------------
+Não aplique água se a causa for pó químico seco: a água espalha o produto.
+Não use gelo nem água gelada: o frio extremo aprofunda a lesão.
+Não aplique manteiga, óleo, pasta de dente, pó de café, clara de ovo
+nem pomada sem prescrição sobre a queimadura.
+
+MATERIAIS
+---------
+- Água corrente limpa, em temperatura ambiente (ou fria da torneira).
+- Pano limpo e seco (ou gaze, ou toalha limpa).
+- Cobertor ou casaco limpo para aquecer o resto do corpo.
+- Tesoura para cortar roupa, se houver (ou rasgue com as mãos).
+
+PROCEDIMENTO
+------------
+1. Confira se o fogo e a fonte de calor estão apagados antes de chegar.
+2. Se a roupa estiver em chamas, diga: pare, deite e role no chão.
+3. Nunca deixe a pessoa correndo: o movimento aviva a chama.
+4. Abafe as chamas com cobertor ou toalha grossa, sem bater nelas.
+5. Afaste a pessoa da fonte de calor e leve-a a local seguro.
+6. Coloque a área queimada sob água corrente limpa, com jato suave.
+7. Use água em temperatura ambiente ou fria da torneira, nunca gelada.
+8. Mantenha o resfriamento por aproximadamente 20 minutos.
+9. Retire anéis, relógio, pulseiras, cinto e calçado perto da queimadura.
+10. Retire a roupa molhada ou quente ao redor, sem puxar tecido grudado.
+11. Cubra a queimadura com pano limpo e seco, frouxo, sem apertar.
+12. Cubra o resto do corpo com cobertor para a pessoa não esfriar.
+13. Procure atendimento médico o mais rápido possível.
+
+ATENCAO
+-------
+Nunca fure bolhas: a pele da bolha é proteção natural contra infecção.
+Nunca toque a queimadura com as mãos nuas.
+Nunca retire tecido, areia ou graxa grudados na pele.
+Nunca use gelo, água gelada, manteiga, óleo, pasta de dente, pó de café,
+clara de ovo ou pomada: isso retém calor, contamina e aprofunda a lesão.
+Queimadura de 3º grau dói pouco ou não dói: é sinal de gravidade.
+Se a pessoa tremer, esfriar ou ficar confusa, pare o resfriamento e cubra.
+Sinais de gravidade: área maior que a palma da mão da vítima, rosto, mãos,
+pés, genitais, grandes articulações, pescoço ou queimadura circular.
+Dificuldade para respirar, voz rouca ou fuligem no nariz indica fumaça
+inalada: procure emergência.
+Fontes divergem sobre o tempo: orientações antigas citam aproximadamente
+10 minutos; protocolos recentes citam aproximadamente 20 minutos.
+Prefira o resfriamento mais prolongado, sem gelo.
+Ligue 192 (Samu) ou 193 (Bombeiros) se houver sinais de gravidade.
+
+SE NAO TIVER
+------------
+Sem água corrente: use compressa limpa umedecida com água limpa e troque
+quando esquentar.
+Sem pano limpo: use gaze ou toalha limpa e seca; na falta, filme plástico.
+Sem cobertor: use casaco, toalha ou jornal para manter o corpo aquecido.
+Sem água suficiente: cubra com pano limpo e procure atendimento; não use
+urina, bebida ou qualquer outro líquido.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A dor diminui durante o resfriamento.
+A pele para de esquentar sob a água.
+A queimadura fica coberta por pano limpo, sem apertar.
+A pessoa permanece acordada, aquecida e respirando normalmente.
+
+FONTES
+------
+Ministério da Saúde: cartilha para tratamento de emergência das queimaduras
+(2012) e Biblioteca Virtual em Saúde.
+Secretaria de Estado de Saúde de Minas Gerais: queimaduras, prevenção e
+cuidados (2021).
+INTERBURNS e Sociedade Brasileira de Queimaduras: manual de primeiros
+cuidados às queimaduras (2021).
+Protocolo de Assistência Clínica ao Paciente Queimado, FHEMIG (2025).
+Resumo operacional; não substitui treinamento prático.

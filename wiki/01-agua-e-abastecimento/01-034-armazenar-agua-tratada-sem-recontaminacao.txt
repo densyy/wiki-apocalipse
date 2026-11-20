@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 01-034
+TITULO: Como armazenar água tratada sem recontaminação
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 20 minutos
+RISCO: alto
+EXIGE: recipiente com tampa, água sanitária, escova, água tratada
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, guardar, recipiente, tampa, cloro, recontaminação
+==============================================================================
+
+OBJETIVO
+--------
+Guarde água já tratada sem deixar que ela volte a ficar insegura.
+
+QUANDO USAR
+-----------
+Depois de filtrar e desinfetar a água que vai servir para beber.
+Quando a água tratada precisa ficar guardada até a hora do uso.
+Quando o abastecimento caiu e sobrou água tratada em casa.
+Quando é preciso separar água bruta de água tratada.
+Quando a água foi trazida de fora e precisa ser guardada em casa.
+
+NAO USE QUANDO
+--------------
+Não use para guardar água bruta, nem água com suspeita de combustível,
+agrotóxico, metal pesado ou outro produto químico. Guardar não remove
+esses contaminantes e não torna a água segura para beber.
+
+MATERIAIS
+---------
+- Balde ou galão limpo de 10 a 20 litros, com tampa e bico estreito.
+- Recipiente maior com torneira, se houver (caixa-d'água ou bombona).
+- Escova ou esponja macia, não abrasiva.
+- Água sanitária sem perfume e sem alvejante, a 2,0% ou 2,5%.
+- Lixívia com 5% a 9% de hipoclorito, se for a disponível.
+- Água tratada limpa para enxaguar e encher o recipiente.
+- Funil ou filtro limpo para encher sem encostar na água.
+- Etiqueta e caneta para identificar o recipiente.
+
+PROCEDIMENTO
+------------
+1. Separe um recipiente só para água bruta e outro só para água tratada.
+2. Lave o recipiente da água tratada por dentro e por fora com escova,
+   água e sabão.
+3. Enxágue o recipiente até retirar todo o resíduo de sabão.
+4. Meça 1 mL de água sanitária a 2,0% ou 2,5% para cada 1 L de água.
+5. Não misture essa solução com outros produtos: o cloro é corrosivo.
+6. Despeje a solução no recipiente que vai guardar a água.
+7. Tampe e agite para molhar todas as paredes internas.
+8. Espere 30 minutos com a solução dentro do recipiente.
+9. Descarte a solução e enxágue bem com água tratada.
+10. Faça o enxágue final somente com água tratada.
+11. Encha com água já filtrada e desinfetada usando funil ou filtro limpo.
+12. Tampe bem e mantenha tampado sempre que não estiver retirando água.
+13. Escreva "água para beber" e a data no recipiente.
+14. Guarde em local limpo, longe de poeira, luz solar direta e animais.
+15. Retire a água despejando ou pela torneira, sem mergulhar mãos ou copos.
+16. Consuma em até 24 horas e trate só o que vai usar no dia.
+
+ATENCAO
+-------
+A água sanitária é corrosiva: não ingira, evite olhos e pele.
+As fontes divergem sobre a dose. O Ministério da Saúde (2026) orienta
+1 mL de água sanitária a 2,0% ou 2,5% por 1 L, com 30 minutos.
+O CDC (2024) orienta 5 mL de lixívia a 5%-9% por 1 L, com 30 segundos.
+Siga o rótulo do produto; na dúvida, use a orientação brasileira.
+Não reutilize recipiente de tinta, combustível ou agrotóxico: resíduos
+podem passar para a água mesmo depois da lavagem.
+Não use sabão no recipiente final; enxágue só com água tratada.
+Aparência e cheiro normais não provam que a água é segura.
+Com sujeira visível, insetos ou odor estranho, pare de usar e descarte.
+Este procedimento não remove combustível, agrotóxico, metal nem sal.
+
+SE NAO TIVER
+------------
+Sem água sanitária, lave com sabão e enxágue muito bem: reduz sujeira,
+mas não desinfeta o recipiente.
+Sem torneira, despeje a água direto em copo limpo.
+Se precisar de concha, use uma limpa, de cabo longo, sem encostar na água.
+Sem funil, encha com cuidado pela borda limpa, sem tocar o interior.
+Sem recipiente com tampa limpa, não guarde: trate e beba na hora.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O recipiente está limpo, sem resíduo de sabão, tampado e identificado.
+A água está límpida, sem sujeira visível nem insetos.
+A água foi retirada sem contato com mãos, copos ou utensílios.
+A água foi consumida em até 24 horas após o tratamento.
+
+FONTES
+------
+Ministério da Saúde do Brasil, "Água tratada em casa" (2026): higienização,
+armazenamento e prazo de 24 horas.
+CDC, orientações sobre armazenamento seguro de água (2024): escolha do
+recipiente, limpeza e retirada da água.
+OMS, orientações sobre água potável em emergências, citadas pelo
+Ministério da Saúde.
+Prática consolidada de saneamento de emergência; resumo operacional,
+não substitui treinamento.

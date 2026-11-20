@@ -1,0 +1,84 @@
+==============================================================================
+CODIGO: 78-007
+TITULO: Como construir pontes de madeira
+CATEGORIA: 78 - Pontes, estradas e infraestrutura de transporte
+TEMPO: 180 minutos
+RISCO: alto
+EXIGE: madeira tratada, apoios de pedra, corda, ferramentas de corte
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ponte, madeira, travessia, viga, apoio, riacho
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma passagem segura sobre um riacho com vigas e tabuado de madeira.
+
+QUANDO USAR
+-----------
+Para atravessar riachos estreitos de leito firme e correnteza fraca.
+Quando ha madeira disponivel e o transito e de pessoas ou animais leves.
+Em trilhas de terra onde a vauagem fica perigosa na cheia.
+Como passagem provisoria ate a construcao de uma estrutura definitiva.
+
+NAO USE QUANDO
+--------------
+Nao construa em corredeira forte, leito erodivel ou area de cheia rapida.
+Nao use se faltar madeira tratada ou apoios firmes nas duas margens.
+Nao monte se a largura do curso d'agua exceder o comprimento das vigas.
+
+MATERIAIS
+---------
+- Vigas de madeira tratada, retas e sem fissuras (troncos de lei seca).
+- Tabuas para o piso, com espessura para o peso previsto (varas).
+- Pedras ou blocos para os apoios (tijolos ou sacos de terra).
+- Corda ou arame para amarrar as juntas (cinta de ancoragem).
+- Machado, serra, enxada, nivel de mangueira e fita metrica.
+- Protecao: luvas, botas e capacete.
+
+PROCEDIMENTO
+------------
+1. Escolha o trecho mais estreito, com margens firmes e retas.
+2. Meça a largura total e some uma folga de 50 cm em cada margem.
+3. Corte as vigas com esse comprimento mais a folga das duas pontas.
+4. Construa um apoio de pedra nivelado em cada margem, acima da cheia.
+5. Enterre a base do apoio para a agua nao desfazer o assento.
+6. Assente as vigas sobre os apoios, paralelas e bem alinhadas.
+7. Deixe as vigas apoiadas pelo menos 30 cm sobre cada apoio.
+8. Amarre as vigas aos apoios com corda ou arame, sem folga.
+9. Pregue as tabuas do piso perpendicularmente sobre as vigas.
+10. Deixe pequena folga entre tabuas para a agua escorrer.
+11. Confira o nivel do piso e corrija com cunhas de madeira.
+12. Fixe um corrimao simples se a ponte tiver mais de 4 metros.
+13. Confira todas as amarras antes de liberar o uso.
+14. Teste com peso progressivo, uma pessoa de cada vez.
+
+ATENCAO
+-------
+Madeira sem tratamento apodrece rapido e pode quebrar sem aviso.
+Vigas fissuradas, podres ou com nos profundos nao servem.
+Se a margem for terra solta, o apoio afunda e a ponte torce.
+Nao permita veiculos pesados sem calculo de carga.
+Com chuva forte ou cheia, interdite a passagem ate a vistoria.
+Use luvas e capacete: lascas e quedas sao comuns no servico.
+Se alguma viga ceder no teste, desmonte e refaca antes de usar.
+
+SE NAO TIVER
+------------
+Sem madeira tratada, use troncos de lei seca e troque a cada estacao.
+Sem pedra para apoio, use sacos de terra compactada envoltos em pano.
+Sem corda, amarre com arame, cipos resistentes ou cinta de pneu.
+Sem tabuas, amarre varas de bambu lado a lado como piso.
+Sem nivel, use uma mangueira com agua para igualar os apoios.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As vigas estao niveladas e apoiadas firme nas duas margens.
+O piso nao balanca, nao range em excesso e nao tem tabua solta.
+A passagem suporta o peso previsto sem afundar nem torcer.
+A ponte fica acima do nivel normal da agua, com folga para a cheia.
+
+FONTES
+------
+Pratica consolidada de construcao rural de baixa complexidade, sem
+documento unico obrigatorio. Orientacoes gerais de extensao rural e
+de manuais de pequenas estruturas de madeira em meio rural.

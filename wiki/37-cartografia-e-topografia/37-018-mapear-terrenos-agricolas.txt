@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 37-018
+TITULO: Como mapear terrenos agrícolas
+CATEGORIA: 37 - Cartografia, topografia e levantamento
+TEMPO: 90 minutos
+RISCO: baixo
+EXIGE: caderno, lápis, fita métrica ou corda, bússola, estacas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: mapa, croqui, terreno, área, bússola, limites, parcela
+==============================================================================
+
+OBJETIVO
+--------
+Desenhar um croqui da parcela com limites, área e pontos de água.
+
+QUANDO USAR
+-----------
+Quando for dividir uma área para plantio ou rotação de culturas.
+Quando precisar localizar poço, córrego, caminho ou sombra no terreno.
+Quando os marcos antigos sumiram e é preciso registrar a forma.
+
+NAO USE QUANDO
+--------------
+Para disputa de limites ou escritura: use topógrafo e cartório.
+Para área exata de venda ou imposto: o croqui é aproximado.
+Com tempestade, neblina, escuro ou mato alto que esconda os marcos.
+
+MATERIAIS
+---------
+- Caderno de folhas presas e lápis (ou papel impermeável e caneta).
+- Fita métrica de 20 a 30 m, ou corda com nós a cada metro.
+- Bússola de bolso, longe de ímã, celular e ferro.
+- Quatro a oito estacas e fita de marcação para os cantos.
+- Calculadora simples, ou papel quadriculado para contar quadrados.
+
+PROCEDIMENTO
+------------
+1. Peça permissão ao dono e defina os cantos a medir.
+2. Calibre o passo: conte 10 passos e divida a distância por 10.
+3. Finque estaca com fita em cada canto do terreno.
+4. Meça cada lado com a fita ou passos; anote a distância em metros.
+5. Em cada canto, aponte a bússola ao próximo e anote o grau.
+6. Desenhe o contorno no caderno com o norte para cima.
+7. Escolha e anote uma escala, como 1 cm para 10 m.
+8. Marque poço, córrego, cerca, caminho e árvore no desenho.
+9. Divida em triângulos e some as áreas (base x altura / 2).
+
+ATENCAO
+-------
+O croqui é aproximado: não serve para escritura ou limite legal.
+A bússola erra perto de ferro, celular, fios e veículos: afaste-se.
+Passo sem calibrar pode errar vários metros em poucos lados.
+Ao caminhar, olhe o chão: desnível, pedra, cobra e vespa machucam.
+Não pule cerca ou porteira sem autorização expressa do dono.
+
+SE NAO TIVER
+------------
+Sem bússola, ache o norte pela sombra ao meio-dia ou pelas fileiras.
+Sem fita, use passos calibrados ou corda com nós de um metro.
+Sem caderno, esboce na terra e copie para papel no mesmo dia.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O desenho tem seta do norte, escala anotada e os cantos fechados.
+Duas pessoas medindo o mesmo lado chegam a valores próximos.
+
+FONTES
+------
+Prática consolidada de campo: croqui com bússola, fita e triangulação.
+Área aproximada. Não substitui topógrafo para limites legais.

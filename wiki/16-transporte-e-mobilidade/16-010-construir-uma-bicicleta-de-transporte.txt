@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 16-010
+TITULO: Como construir uma bicicleta de transporte
+CATEGORIA: 16 - Transporte e mobilidade
+TEMPO: 180 minutos
+RISCO: alto
+EXIGE: quadro, garfo, rodas, peças compatíveis, chaves, óculos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bicicleta, montar, construir, quadro, rodas, freio, carga
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma bicicleta de transporte funcional a partir de peças
+compatíveis, sem oficina.
+
+QUANDO USAR
+-----------
+Quando há quadro e peças soltas e não há oficina por perto.
+Quando uma bicicleta desmontada precisa voltar a transportar peso.
+Quando é preciso mover material sem motor, em terreno plano.
+
+NAO USE QUANDO
+--------------
+Não use se o quadro ou o garfo estiver rachado, amassado ou com
+corrosão que atravessa o metal.
+Não use se as peças não forem compatíveis entre si.
+Este texto não ensina a fabricar quadro, garfo, raios ou pneus.
+
+MATERIAIS
+---------
+- Quadro e garfo sem rachaduras, com as medidas das peças anotadas.
+- Par de rodas completas, com raios, pneus e câmaras em bom estado.
+- Movimento central, pedivelas, corrente, coroa e pinhão compatíveis.
+- Guidão, mesa, canote, selim e freios com pastilhas ou patins.
+- Refletores: branco na frente, vermelho atrás, e nos pedais e rodas.
+- Chaves de boca, chave de fenda, chave hexagonal e alicate.
+- Pano limpo (ou estopa sem óleo), óculos e luvas de proteção.
+- Bomba com manômetro para calibrar os pneus.
+
+PROCEDIMENTO
+------------
+1. Escolha uma área plana, seca e iluminada para trabalhar.
+2. Inspecione quadro e garfo com luz: rejeite rachaduras e metal perfurado.
+3. Confira se canote, mesa e movimento central têm as medidas corretas.
+4. Retire rebarbas das bordas com uma lima, passando levemente.
+5. Instale movimento central e pedivelas, apertando no sentido da rosca.
+6. Encaixe o garfo no quadro e aperte até não haver folga.
+7. Insira a mesa no garfo até a marca de profundidade mínima; sem
+marca, use duas vezes e meia o diâmetro do tubo.
+8. Aperte mesa, guidão e alavancas de freio com as chaves.
+9. Coloque ponteiras nas extremidades do guidão.
+10. Insira o canote até a marca mínima ou duas vezes seu diâmetro.
+11. Aperte a braçadeira do canote e fixe o selim nivelado.
+12. Verifique as rodas: todos os raios presentes e pneu assentado.
+13. Gire cada roda no ar e confirme que não toca no quadro.
+14. Coloque a roda dianteira e aperte as porcas no torque do fabricante.
+15. Com fecho de alavanca, confirme que fecha firme e morde o metal.
+16. Coloque a roda traseira e alinhe coroa, corrente e pinhão.
+17. Ajuste a corrente com folga leve, sem saltar dos dentes.
+18. Monte os freios e aproxime as pastilhas da superfície de frenagem.
+19. Ligue a alavanca direita ao freio traseiro e a esquerda ao dianteiro.
+20. Passe os cabos sem atrito e cape as pontas com terminal.
+21. Fixe refletor branco na frente, vermelho atrás, e nos pedais e rodas.
+22. Calibre os pneus na pressão marcada na lateral, com manômetro.
+23. Teste cada freio parado e depois em movimento, em local plano.
+24. Reaperte porcas e parafusos após o primeiro uso.
+
+ATENCAO
+-------
+Freio que falha, guidão que solta ou roda que sai causam lesão grave.
+Não ande na bicicleta antes de testar os dois freios parado e em movimento.
+Roda com raio faltando, pneu murcho ou aro empenado pode quebrar sob carga.
+Nunca use quadro rachado: a falha é súbita e não avisa.
+Aperto excessivo também quebra peças, roscas e o próprio guidão.
+Não carregue peso no primeiro dia: comece leve e teste a frenagem.
+Refletor e pneu calibrado não substituem luz e capacete.
+Se algo ranger, soltar ou desviar, pare e corrija antes de continuar.
+Procure um mecânico se não confirmar freio, direção e fixação das rodas.
+
+SE NAO TIVER
+------------
+Sem manual do fabricante, anote as medidas e leve as peças à oficina.
+Sem chave de torque, aperte firme com chave manual e reaperte após o uso.
+Sem peça compatível, pare: solda ou fita não são substituto seguro.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A roda gira livre, sem tocar no quadro, e não aparece folga nas porcas.
+As alavancas travam cada roda com aperto firme das mãos.
+A corrente gira sem saltar e selim e guidão não se movem ao forçar.
+Após alguns metros, a bicicleta para reto e os parafusos seguem firmes.
+
+FONTES
+------
+CPSC (Estados Unidos): guia Bicycle Requirements e 16 CFR 1512, sobre
+montagem, freios, direção, rodas e refletores; ISO 4210-2:2023,
+requisitos de segurança para bicicletas. Resumo operacional, não
+substitui manual do fabricante nem treinamento.

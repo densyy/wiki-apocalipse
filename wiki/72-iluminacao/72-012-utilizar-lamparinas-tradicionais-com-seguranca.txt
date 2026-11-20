@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 72-012
+TITULO: Como utilizar lamparinas tradicionais com segurança
+CATEGORIA: 72 - Sistemas de iluminação e óptica aplicada
+TEMPO: 10 minutos
+RISCO: alto
+EXIGE: lamparina íntegra, querosene, superfície estável, ventilação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: lamparina, querosene, óleo, chama, fogo, monóxido
+==============================================================================
+
+OBJETIVO
+--------
+Usar uma lamparina a querosene sem causar incêndio, queimadura ou
+intoxicação por monóxido de carbono.
+
+QUANDO USAR
+-----------
+Quando faltar energia elétrica e for preciso luz em ambiente fechado.
+Ao acender a lamparina no início da noite, em casa ou abrigo.
+Para leitura ou trabalho manual perto da chama.
+Em acampamento ou emergência sem iluminação elétrica.
+
+NAO USE QUANDO
+--------------
+Não use perto de gás, combustível, papel, cortina ou tecido que pegue
+fogo fácil.
+Não use em quarto fechado sem ventilação: a chama gera monóxido de
+carbono, gás sem cheiro que pode matar.
+Não use se a lamparina estiver rachada, vazando ou com pavio danificado.
+Não use para aquecer o ambiente: isso aumenta muito o risco.
+
+MATERIAIS
+---------
+- Lamparina a querosene íntegra, sem rachaduras ou vazamento.
+- Querosene limpo, próprio para lamparina (nunca gasolina nem álcool).
+- Pavio de algodão em bom estado, com a ponta limpa.
+- Funil ou bico para encher sem derramar combustível.
+- Superfície plana, firme e livre de objetos que possam pegar fogo.
+- Pano velho para limpar respingos.
+
+PROCEDIMENTO
+------------
+1. Coloque a lamparina sobre superfície plana, firme e nivelada.
+2. Confira se não há rachadura, vazamento ou peça solta no tanque.
+3. Abasteça com querosene próprio para lamparina usando o funil.
+4. Não encha até a borda: deixe espaço para o combustível dilatar.
+5. Limpe os respingos com pano velho e feche bem o tanque.
+6. Ajuste o pavio para fora, com a ponta limpa e sem carvão.
+7. Acenda com fósforo ou isqueiro, mantendo o rosto afastado.
+8. Regule a altura do pavio até a chama ficar amarela e estável.
+9. Mantenha a lamparina longe de cortinas, papel e tecidos.
+10. Deixe uma janela ou fresta aberta para entrar ar fresco.
+11. Nunca deixe a lamparina acesa sem vigilância.
+12. Para apagar, abaixe o pavio e use o apagador próprio.
+13. Espere esfriar por completo antes de guardar ou transportar.
+
+ATENCAO
+-------
+O monóxido de carbono é gás sem cor e sem cheiro: não dá para senti-lo.
+Dor de cabeça, tontura, fraqueza, náusea e confusão são sinais de perigo.
+Ao sentir esses sintomas, apague a lamparina e saia para o ar livre.
+Procure atendimento médico se os sintomas não passarem.
+Nunca queime querosene em ambiente fechado: pode matar durante o sono.
+Nunca complete o tanque com a chama acesa: o combustível pega fogo.
+Nunca use gasolina, álcool ou thinner: podem causar explosão.
+Crianças podem beber querosene achando que é água: guarde fora do
+alcance, no recipiente original e identificado.
+Se a lamparina tombar e o fogo se espalhar, não jogue água no querosene:
+abafe com pano grosso ou areia e saia do local.
+
+SE NAO TIVER
+------------
+Sem funil, use a ponta de uma garrafa plástica cortada como auxiliar.
+Sem apagador, abaixe o pavio até o fim e cubra a chama com prato de
+metal; nunca sopre com força, pois pode espalhar o fogo.
+Sem querosene, não improvise com gasolina ou álcool: pare e busque o
+combustível correto. Prefira o escuro a queimar combustível errado.
+Se não houver ventilação possível, use a lamparina do lado de fora.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A chama fica amarela, firme e sem fumaça escura.
+Não há cheiro forte de querosene queimado nem vazamento no tanque.
+O tanque ficou cheio até o nível seguro, sem transbordar.
+Depois de apagada, não há brasa nem calor na ponta do pavio.
+A pessoa não sente dor de cabeça nem tontura após algum tempo no local.
+
+FONTES
+------
+Orientações da OMS sobre poluição do ar dentro de casa e uso de
+querosene para iluminação. Informações da CDC sobre monóxido de carbono
+gerado pela queima de combustível em lamparinas e sobre os sintomas de
+intoxicação. Prática consolidada de segurança com chama aberta, sem
+manual único consultado.

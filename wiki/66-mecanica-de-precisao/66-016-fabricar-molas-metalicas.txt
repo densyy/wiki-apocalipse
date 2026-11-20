@@ -1,0 +1,90 @@
+==============================================================================
+CODIGO: 66-016
+TITULO: Como fabricar molas metálicas
+CATEGORIA: 66 - Mecânica de precisão e instrumentos
+TEMPO: 45 minutos
+RISCO: alto
+EXIGE: arame de aço para molas, mandril, alicates, óculos, morsa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: mola, helicoidal, aço, arame, enrolar, compressão, fabricar
+==============================================================================
+
+OBJETIVO
+--------
+Fabricar uma mola de compressão que volta à forma após pressão leve.
+
+QUANDO USAR
+-----------
+- Quando um mecanismo leve perdeu a mola de retorno.
+- Para devolver a posição de uma trava, alavanca ou tampa.
+- Para amortecer impacto leve em peça que não sustenta peso.
+- Quando a mola original é de baixa carga e não há substituto.
+- Para testar a técnica antes de confiar nela em uso real.
+
+NAO USE QUANDO
+--------------
+- Em suspensão de veículo, freio, macaco ou peça que sustente peso.
+- Em arma de fogo, besta ou qualquer mecanismo de segurança.
+- Quando o arame for macio: ferro, cobre ou alumínio não retornam.
+- Sem óculos de proteção e luvas para cortar e dobrar o arame.
+
+MATERIAIS
+---------
+- Arame de aço para molas (arame de música), 1 a 3 mm de diâmetro.
+- Mandril: haste ou tubo de diâmetro um pouco menor que a mola.
+- Morsa ou torno para segurar o mandril.
+- Alicate de corte e dois alicates de bico.
+- Óculos de proteção e luvas de couro.
+- Régua ou paquímetro para medir diâmetro e comprimento.
+
+PROCEDIMENTO
+------------
+1. Meça o espaço disponível: diâmetro externo e comprimento da mola.
+2. Escolha arame de aço para molas entre 1 mm e 3 mm de diâmetro.
+3. Escolha um mandril com diâmetro menor que o diâmetro interno desejado.
+4. Fixe o mandril na morsa, com a haste na horizontal.
+5. Endireite o arame com os alicates antes de enrolar.
+6. Enrole o arame em espiras justas ao redor do mandril, sem cruzar.
+7. Avance o arame ao longo do mandril para formar espiras paralelas.
+8. Conte as espiras e pare no número necessário ao mecanismo.
+9. Calce os óculos e as luvas antes de cortar.
+10. Corte o arame em cada ponta com o alicate de corte.
+11. Dobre as pontas para dentro com os alicates, sem torcer as espiras.
+12. Retire a mola do mandril e pressione com a mão; solte e observe.
+13. Se não voltar ao tamanho original, descarte: o arame não serve.
+14. Se as espiras ficarem abertas, refaça com voltas mais uniformes.
+
+ATENCAO
+-------
+- Pontas de arame cortado são afiadas: nunca aproxime os olhos.
+- O arame sob tensão pode saltar no corte e ferir o rosto.
+- Use óculos e luvas em cada corte e dobra; não segure a ponta na mão.
+- Arame de ferro, cobre ou alumínio não volta à forma: não é mola.
+- Sem forno controlado, não tente temperar com fogo: o aço fica quebradiço.
+- Sem alívio de tensão, a mola perde força com o tempo; use em carga leve.
+- Nunca use em suspensão, freio, arma ou peça que sustente peso ou vida.
+- Pare se o arame rachar, se a mola torcer ou se não retornar ao tamanho.
+
+SE NAO TIVER
+------------
+- Sem mandril do diâmetro certo, use parafuso, haste ou tubo conhecido.
+- O diâmetro interno da mola acompanha o diâmetro do mandril usado.
+- Sem morsa, aperte o mandril com braçadeira; nunca segure na mão.
+- Sem arame de mola, não use ferro ou cobre: não retornam.
+- Reaproveite uma mola de equipamento igual, se houver uma disponível.
+- Se não houver mola recuperada, reduza o uso e procure substituto.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- As espiras ficam paralelas, com afastamento uniforme entre si.
+- Ao pressionar e soltar, a mola volta ao comprimento original.
+- A mola fica em pé sobre superfície plana e não tomba.
+- Não há pontas soltas que cortem ao passar o dedo com luva.
+
+FONTES
+------
+- Prática consolidada de fabricação de molas helicoidais por enrolamento.
+- Encyclopaedia Britannica: mola helicoidal enrolada em mandril.
+- Guias técnicos de fabricantes (IDC Spring, Southern Spring and Stamping).
+- Manual da Spring Manufacturers Institute, citado por MW Components.
+- Resumo operacional para cargas leves; não substitui cálculo de engenharia.

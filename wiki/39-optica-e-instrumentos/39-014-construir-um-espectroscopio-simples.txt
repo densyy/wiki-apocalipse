@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 39-014
+TITULO: Como construir um espectroscópio simples
+CATEGORIA: 39 - Óptica e instrumentos científicos
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: CD ou DVD, tubo de papelão, fita escura, estilete, fonte de luz
+REVISAO: 2026-11
+PALAVRAS-CHAVE: espectroscópio, espectro, difração, CD, cores, luz, fenda
+==============================================================================
+
+OBJETIVO
+--------
+Montar um aparelho que separa a luz visível nas suas cores.
+
+QUANDO USAR
+-----------
+Quando quiser ver as cores escondidas na luz de uma lâmpada comum.
+Quando quiser comparar a luz de uma vela com a de uma lâmpada.
+Quando precisar de uma atividade de ciências com material de sucata.
+
+NAO USE QUANDO
+--------------
+Não aponte para o Sol nem para luz intensa: pode causar dano permanente
+aos olhos, sem dor e sem aviso prévio.
+
+MATERIAIS
+---------
+- CD ou DVD que possa ser cortado (rede de difração).
+- Tubo de papelão de aproximadamente 20 cm (papel higiênico vazio).
+- Fita adesiva escura e papel preto (vedam a luz).
+- Estilete ou tesoura (a borda do CD é cortante).
+- Lâmpada comum, vela ou luminária (fonte de luz).
+
+PROCEDIMENTO
+------------
+1. Recorte do CD um pedaço de aproximadamente 2 cm por 2 cm; use luvas.
+2. Tampe o tubo e abra uma fenda vertical de aproximadamente 0,5 mm.
+3. Abra um orifício de aproximadamente 1 cm na lateral oposta.
+4. Prenda o CD a 45 graus, face brilhante voltada para a fenda.
+5. Vede as frestas com fita escura; só entre luz pela fenda.
+6. Aponte a fenda para a lâmpada ou para a chama da vela.
+7. Olhe pelo orifício e gire o tubo até aparecer a faixa de cores.
+
+ATENCAO
+-------
+Nunca olhe para o Sol com este aparelho, direta ou indiretamente.
+A luz solar queima a retina sem dor e pode causar cegueira permanente.
+O dano aparece horas depois; pare e procure ajuda se houver ofuscamento.
+A borda do CD corta: use luvas ou pano e não force o estilete.
+Luz fraca não forma espectro; use lâmpada comum ou chama.
+O aparelho mostra cores, mas não mede ondas nem identifica elementos.
+
+SE NAO TIVER
+------------
+Sem CD, use um DVD: a face reflexiva funciona da mesma forma.
+Sem tubo, enrol papel escuro e prenda com fita ou elástico.
+Não use espelho comum nem vidro liso: não separam as cores da luz.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ao olhar uma lâmpada comum, aparece uma faixa do vermelho ao violeta.
+As cores mudam de posição quando você gira o tubo devagar.
+
+FONTES
+------
+Prática consolidada: espectroscópios caseiros com CD ou DVD como rede
+de difração (American Chemical Society, Royal Society of Chemistry,
+Carnegie Science, Museu Americano de História Natural; NASA/ESA no
+alerta solar). Resumo operacional; não substitui treinamento.

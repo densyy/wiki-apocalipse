@@ -1,0 +1,80 @@
+==============================================================================
+CODIGO: 07-005
+TITULO: Como entender a precipitação radioativa
+CATEGORIA: 07 - Guerra, radiação e catástrofes nucleares
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fallout, poeira, radiacao, abrigo, bomba, vento, decaimento
+==============================================================================
+
+OBJETIVO
+--------
+Entender o que e fallout e saber por que ficar abrigado
+protege contra a radiacao dele.
+
+QUANDO USAR
+-----------
+Quando ouvir alerta de explosao nuclear proxima.
+Quando vir poeira ou areia caindo apos clarao no ceu.
+Quando precisar decidir se fica dentro ou sai.
+Quando for explicar a outros por que esperar 24 horas.
+Quando houver duvida se agua ou comida foi atingida.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Chame de fallout a poeira radioativa que cai apos explosao.
+2. Lembre que a bola de fogo suga terra e sobe rapido.
+3. Entenda que o material radioativo se mistura a essa terra.
+4. Saiba que ao esfriar ele vira graos como sal ou areia.
+5. Espere a queda comecar aproximadamente 15 minutos depois.
+6. Considere perigosa a faixa de aproximadamente 16 a 32 km.
+7. Observe que o vento alto leva a nuvem para outro lado.
+8. Fique no porao ou no centro de predio firme e fechado.
+9. Fique longe de parede externa, janela, porta e telhado.
+10. Feche portas, janelas e desligue ventilacao que puxa ar.
+11. Fique abrigado por aproximadamente 24 horas seguidas.
+12. Tire a roupa externa e lave pele e cabelo se entrou poeira.
+13. Coma so comida fechada e beba so agua guardada e fechada.
+
+ATENCAO
+-------
+Fallout emite radiacao que atravessa roupa, carro e parede fina.
+O maior perigo e ficar perto da poeira no chao e no telhado.
+Respirar poeira e menos perigoso que ficar exposto por fora.
+Mas nao coma, nao beba e nao toque em superficie com poeira.
+Sair antes de aproximadamente 24 horas pode causar dose grave.
+Nao saia para buscar familia; escola e abrigo protegem eles.
+Carro, mascara de pano e abrigo de madeira fina nao protegem.
+Se tiver vomito, queimadura de pele ou queda de cabelo, avise.
+Procure ajuda medica assim que as autoridades liberarem a saida.
+
+SE NAO TIVER
+------------
+Sem porao, fique no centro do terreo longe de janela.
+Sem predio de tijolo, fique no melhor predio proximo fechado.
+Sem agua guardada, nao beba agua de chuva, rio ou caixa aberta.
+Sem comida fechada, espere ajuda e nao coma verdura com poeira.
+Sem radio, siga a regra de esperar aproximadamente 24 horas.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Voce explica que fallout e poeira com radiacao que cai e decai.
+Voce sabe que deve entrar, ficar dentro e esperar a liberacao.
+Voce identifica graos como areia como sinal de perigo real.
+
+FONTES
+------
+Orientacoes da FEMA sobre abrigo em emergencia nuclear.
+Perguntas frequentes do CDC sobre explosoes nucleares.
+Orientacoes da EPA sobre tempo, distancia e blindagem.
+Guia REMM do governo dos Estados Unidos sobre fallout.

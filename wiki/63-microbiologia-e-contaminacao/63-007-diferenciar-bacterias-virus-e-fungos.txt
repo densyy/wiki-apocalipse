@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 63-007
+TITULO: Como diferenciar bactérias, vírus e fungos
+CATEGORIA: 63 - Microbiologia, parasitologia e contaminação
+TEMPO: 20 minutos
+RISCO: medio
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bactéria, vírus, fungo, germe, antibiótico, bolor
+==============================================================================
+
+OBJETIVO
+--------
+Diferenciar bactéria, vírus e fungo pelo tamanho, estrutura e remédio.
+
+QUANDO USAR
+-----------
+Quando uma infecção não melhora e você quer entender a causa.
+Quando alguém afirma que é vírus e questiona o uso de antibiótico.
+Ao estudar contaminação de água, alimento ou superfície.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+Este texto não substitui exame de laboratório nem diagnóstico.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Separe três grupos: bactéria, vírus e fungo.
+2. Observe o tamanho: vírus é o menor; fungo é o maior.
+3. Verifique a célula: bactéria e fungo têm; vírus não tem.
+4. Observe o núcleo (guarda o DNA): só o fungo tem.
+5. Observe a bactéria: divide-se ao meio; vive em solo, água e corpo.
+6. Observe o vírus: só se multiplica dentro de célula viva.
+7. Observe o fungo: gera esporos, células de reprodução.
+8. Observe onde vive o fungo: matéria orgânica, solo e pele.
+9. Observe o bolor: filamentos e pó indicam fungo.
+10. Observe a placa: colônias lisas sugerem bactéria.
+11. Relacione o antibiótico: atua só em bactéria.
+12. Relacione antiviral e antifungal: vírus e fungo, nessa ordem.
+13. Anote uma linha de diferença para cada grupo.
+
+ATENCAO
+-------
+Sintomas não identificam o agente: os três causam quadros parecidos.
+Antibiótico não atua em vírus nem fungo; uso errado aumenta a resistência.
+Creme com corticoide sem orientação pode piorar infecção de pele.
+Procure ajuda com febre alta, falta de ar ou ferida que não fecha.
+
+SE NAO TIVER
+------------
+Sem placa ou microscópio, use só as diferenças de tamanho e ambiente.
+Sem laboratório, não afirme qual microrganismo causou a doença.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você aponta uma característica diferente para cada grupo.
+Você explica por que antibiótico não serve para gripe ou bolor.
+
+FONTES
+------
+CDC: materiais sobre vírus ou bactéria, fungos e uso de antifúngicos.
+OMS, OPAS e Ministério da Saúde do Brasil: resistência antimicrobiana.
+Uso correto de antibióticos e prática consolidada de microbiologia.
+Resumo operacional, não substitui treinamento nem avaliação médica.

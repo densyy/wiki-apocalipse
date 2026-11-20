@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 38-009
+TITULO: Como construir um relógio de sol horizontal
+CATEGORIA: 38 - Astronomia e medição do tempo
+TEMPO: 60 minutos
+RISCO: baixo
+EXIGE: sol direto, base plana, palito, relógio, material para marcar
+REVISAO: 2026-11
+PALAVRAS-CHAVE: relógio de sol, gnômon, sombra, hora solar, latitude, norte
+==============================================================================
+
+OBJETIVO
+--------
+Montar um relógio que mostra a hora pela sombra do sol, sem bateria.
+
+QUANDO USAR
+-----------
+Quando não houver relógio funcionando nem energia elétrica.
+Quando o local tiver sol direto por várias horas seguidas.
+
+NAO USE QUANDO
+--------------
+Com céu nublado ou chuvoso: sem sol direto não há sombra nítida.
+Se a hora exata decidir dose de remédio ou turno de vigia.
+
+MATERIAIS
+---------
+- Base plana de madeira, papelão grosso ou pedra (tampa de barril).
+- Lâmina triangular de madeira ou metal (palito preso) e estaca de 1 m.
+- Lápis ou carvão para marcar; cordão com peso; relógio para calibrar.
+
+PROCEDIMENTO
+------------
+1. Escolha terreno plano e aberto, com sol direto entre 9 h e 15 h.
+2. Fince a estaca no centro, vertical; confira com o cordão e o peso.
+3. Marque a sombra às 9 h e às 15 h; una os pontos: linha leste-oeste.
+4. Trace a perpendicular pelo pé da estaca: é a linha norte-sul.
+5. Ao meio-dia solar, a sombra aponta para o polo mais próximo.
+6. No hemisfério norte é o norte; no hemisfério sul, é o sul.
+7. Fixe a base nivelada, com a linha norte-sul desenhada nela.
+8. Incline a lâmina no plano norte-sul até o ângulo da latitude.
+9. Para 45 graus, faça a altura do estilo igual à metade da base.
+10. Prenda o gnômon, marque as horas na base e confira no dia seguinte.
+
+ATENCAO
+-------
+A hora solar pode diferir da hora oficial do relógio.
+O fuso horário pode gerar erro de meia hora ou mais.
+A equação do tempo tira ou soma cerca de 15 minutos no ano.
+Sem a latitude certa, as marcas mudam com a estação.
+Se as marcas de dias diferentes não coincidirem, refaça a inclinação.
+
+SE NAO TIVER
+------------
+Sem relógio, use só a marca do meio-dia e estime o resto.
+Sem lâmina, prenda um palito ou arame inclinado na base com cordão.
+Para 30 graus, altura do estilo é aproximadamente 0,6 da base.
+Para 60 graus, altura do estilo é aproximadamente 1,7 da base.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A sombra da borda cai sobre a linha da hora marcada.
+As marcas da manhã e da tarde ficam simétricas em relação ao meio-dia.
+
+FONTES
+------
+Royal Observatory, Museus Reais de Greenwich: teoria do relógio de sol.
+The mathematics of sundials, Jill Vincent, Universidade de Melbourne,
+Australian Senior Mathematics Journal 22(1), via ERIC: ângulo do gnômon
+igual à latitude. Marcar sombras a cada hora é prática consolidada.

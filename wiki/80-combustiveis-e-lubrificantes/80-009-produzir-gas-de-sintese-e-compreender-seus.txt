@@ -1,0 +1,85 @@
+==============================================================================
+CODIGO: 80-009
+TITULO: Como produzir gás de síntese e compreender seus riscos
+CATEGORIA: 80 - Produção de combustíveis e lubrificantes
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: forno fechado, biomassa seca, vapor, tubulação metálica
+REVISAO: 2026-11
+PALAVRAS-CHAVE: gás de síntese, syngas, gaseificação, monóxido, hidrogênio
+==============================================================================
+
+OBJETIVO
+--------
+Obter mistura queimável de monóxido e hidrogênio e reconhecer riscos.
+
+QUANDO USAR
+-----------
+Quando se quer um combustível gasoso a partir de biomassa ou carvão.
+Para alimentar um fogão adaptado depois de purificar o gás.
+Para aprender a diferença entre queima direta e gaseificação.
+Em estudo de aproveitamento de resíduos vegetais bem secos.
+
+NAO USE QUANDO
+--------------
+Não faça em ambiente fechado, sem ventilação permanente.
+Não use se não houver como medir monóxido no ar.
+Não opere sem tubulação metálica e juntas revisadas.
+Não tente comprimir o gás em garrafa ou recipiente doméstico.
+
+MATERIAIS
+---------
+- Forno ou reator metálico fechado, com tampa e saída de gás.
+- Biomassa seca em pedaços ou carvão vegetal miúdo (madeira seca).
+- Água para vapor, em recipiente separado e controlado.
+- Tubulação metálica com curvas suaves e conexões apertadas.
+- Filtro de cerâmica, carvão ou algodão para reter alcatrão.
+- Detector de monóxido e extintor de pó (balde de areia).
+- Óculos, luvas de couro e máscara com filtro próprio.
+
+PROCEDIMENTO
+------------
+1. Escolha local externo, com vento e longe de inflamáveis.
+2. Verifique tubulação, juntas e válvulas antes de acender o fogo.
+3. Carregue o reator com biomassa seca, sem plástico nem tratamento.
+4. Deixe espaço livre no topo para a passagem dos gases.
+5. Acenda o fogo por baixo e aqueça de forma gradual e constante.
+6. Aumente a temperatura até parar a fumaça escura.
+7. Injete vapor de água em pequena quantidade e contínua.
+8. Observe a chama na saída: deve ficar azulada e estável.
+9. Conduza o gás pelo filtro antes de qualquer uso.
+10. Descarte os primeiros minutos de gás, ricos em ar.
+11. Acione o detector e leia a concentração de monóxido no ar.
+12. Mantenha chama visível para consumir o monóxido restante.
+13. Ao encerrar, corte o vapor e deixe o reator esfriar tampado.
+14. Abra o reator somente após o resfriamento completo.
+
+ATENCAO
+-------
+Monóxido não tem cor, cheiro nem sabor e mata em minutos.
+Nunca queime o gás em ambiente fechado nem deixe chama sem vigilância.
+A mistura de gás e ar pode explodir se ficar presa em tubo.
+Alcatrão e fuligem entopem filtros e sujam queimadores.
+A reação exige calor alto: fogo fraco gera mais fumaça que gás.
+Se o detector apitar, pare, ventile e saia imediatamente.
+Este procedimento não purifica o gás para motores sem etapa extra.
+
+SE NAO TIVER
+------------
+Sem detector de monóxido, não produza nem queime o gás.
+Sem vapor controlado, use ar em excesso e aceite gás mais fraco.
+Sem filtro, queime o gás na saída e nunca o armazene.
+Sem reator metálico, estude o processo sem gerar gás.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A chama na saída fica azulada, estável e sem fumaça escura.
+O detector permanece em leitura segura durante a operação.
+Não há vazamento nas juntas nem cheiro de alcatrão no ambiente.
+O carvão restante está firme e com brilho, não em cinza clara.
+
+FONTES
+------
+Prática consolidada de gaseificação de biomassa em fornos artesanais,
+descrita em manuais de tecnologia apropriada e em textos de engenharia
+térmica. Leitura complementar: 80-010 e 80-012.

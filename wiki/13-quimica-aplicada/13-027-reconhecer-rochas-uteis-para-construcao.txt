@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 13-027
+TITULO: Como reconhecer rochas úteis para construção
+CATEGORIA: 13 - Química e conhecimentos científicos aplicados
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: amostra, martelo, lupa, faca, placa, ácido diluído, luvas, óculos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: rocha, construção, granito, calcário, arenito, brita, pedra
+==============================================================================
+
+OBJETIVO
+--------
+Separe rochas comuns e escolha as melhores para muro, piso ou fundação.
+
+QUANDO USAR
+-----------
+Achei pedras no terreno e quero saber se servem para fundação ou muro.
+Preciso escolher pedra para piso, soleira ou revestimento externo.
+Quero saber se a pedra da região serve para brita ou lastro de estrada.
+Suspeito que a rocha se desfaz com a chuva ou com a umidade do solo.
+
+NAO USE QUANDO
+--------------
+Para calcular carga ou fundação, procure engenheiro: o campo não basta.
+Com pó, odor ou minério suspeito, não manuseie; veja 13-026.
+Não use rocha fissurada, oca ou que desfaz na água como material de carga.
+
+MATERIAIS
+---------
+- Amostra fresca de cada pedra, quebrada na hora do teste.
+- Martelo comum ou de geólogo (para quebrar e bater).
+- Lupa de bolso (lente de aumento comum).
+- Faca de aço, moeda e unha (testes de dureza).
+- Placa de porcelana sem esmalte (fundo de cerâmica sem vidrado).
+- Ácido clorídrico diluído a aproximadamente 10% (vinagre, no teste fraco).
+- Luvas de borracha, óculos de proteção e água corrente.
+- Caderno, lápis e balde com água limpa.
+
+PROCEDIMENTO
+------------
+1. Vista luvas e óculos antes de quebrar pedra ou usar ácido.
+2. Quebre uma amostra e use a face fresca; não teste face alterada.
+3. Bata de leve com o martelo: som oco indica fissura interna.
+4. Observe os grãos com a lupa: claros e escuros sugerem granito.
+5. Se os grãos parecem areia colada, classifique como arenito.
+6. Se a rocha divide em lâminas finas e paralelas, é ardósia ou xisto.
+7. Raspe com unha, moeda e faca; anote qual deixou marca.
+8. Tente riscar o vidro: se riscar, a dureza passa de aproximadamente 5,5.
+9. Pingue ácido na face fresca, de lado; espere aproximadamente 30 s.
+10. Efervescência forte e imediata indica calcário ou mármore.
+11. Efervescência fraca ou só no pó indica dolomito ou cimento calcário.
+12. Sem efervescência e com grãos duros, suspeite de granito ou quartzito.
+13. Enxágue a amostra com água corrente e lave as mãos depois do ácido.
+14. Mergulhe uma amostra pequena em água limpa por aproximadamente 24 horas.
+15. Observe nos primeiros 30 minutos e depois a cada poucas horas.
+16. Descarte para carga se desfizer, rachar ou soltar lâminas na água.
+17. Repita os passos 2 a 16 para cada pedra e anote o resultado.
+
+ATENCAO
+-------
+Ácido diluído ainda irrita pele e olhos: use luvas, óculos e água corrente.
+Se cair nos olhos, lave com água corrente por 15 minutos e busque ajuda.
+Nunca use ácido concentrado nem pingue com o rosto sobre a pedra: respinga.
+Pó com quartzo causa silicose: não inale, não esmerile e umedeca ao quebrar.
+Folhelho e arenito mal cimentado desfazem na água e falham em fundação.
+Calcário e mármore dissolvem em água ácida; evite em fachada e esgoto.
+Bater com martelo estilhaça: use óculos e mantenha as mãos fora do impacto.
+Pedra grande esmaga: peça ajuda para levantar e nunca apoie o pé nela.
+Calcário em arenito dá falsa efervescência: confirme com dureza e lupa.
+O teste não mede resistência: para carga, exija ensaio de laboratório.
+
+SE NAO TIVER
+------------
+Sem ácido, use vinagre: reação fraca exige lupa; não descarte calcário.
+Sem lupa, observe em boa luz ou use lente de leitura.
+Sem balde, molhe a pedra e deixe ao sereno por aproximadamente 24 horas.
+Sem placa de porcelana, use o fundo sem vidrado de prato de cerâmica.
+Sem martelo, use pedra menor como percutor, com óculos e mãos protegidas.
+Sem óculos, não quebre nem use ácido: respingo e estilhaço não compensam.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Granito: grãos claros e escuros, risca o vidro, não efervesce, som limpo.
+Calcário: efervesce forte na face fresca e risca com faca.
+Arenito: grãos de areia visíveis; sem efervescência, tem cimento silicoso.
+Ardósia: separa em lâminas finas; serve para cobertura, não para carga.
+Rocha descartada: desfez na água ou soltou pó na imersão.
+
+FONTES
+------
+Serviço Geológico do Brasil (SGB/CPRM): classificação e textura das rochas.
+USGS (EUA): uso de granito, calcário e mármore; calcita e ácido fraco.
+FHWA (EUA): identificação de agregados com ferramentas simples em campo.
+WVDOT (EUA): imersão em água por 24 horas para avaliar desagregação.
+MME/Banco Mundial (Brasil): perfil da brita; granito, calcário e basalto.
+SindiRochas (Brasil): manual de rochas ornamentais e ensaios da NBR 15845.
+Prática consolidada de laboratório: teste do ácido e lavagem ocular.

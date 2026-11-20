@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 74-011
+TITULO: Como recuperar equipamentos domésticos
+CATEGORIA: 74 - Economia circular e reaproveitamento
+TEMPO: 45 minutos
+RISCO: alto
+EXIGE: chave de fenda, pano, água e sabão, luvas, óculos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: conserto, reaproveitar, reparo, limpeza, equipamento
+==============================================================================
+
+OBJETIVO
+--------
+Recuperar um equipamento parado e decidir se ele volta ao uso.
+
+QUANDO USAR
+-----------
+Quando o equipamento parou e o defeito parece simples.
+Quando o aparelho foi achado abandonado ou recebido de doação.
+Quando falta dinheiro para comprar outro e o conserto é viável.
+Quando o problema é sujeira, ferrugem, peça solta ou cabo danificado.
+
+NAO USE QUANDO
+--------------
+Quando há fio exposto, cabo derretido ou cheiro de queimado.
+Quando há faísca, choque, vazamento de líquido ou gás.
+Quando o equipamento teve contato com água, químico ou combustível.
+Nunca abra aparelho ligado à tomada ou em rede energizada.
+
+MATERIAIS
+---------
+- Chave de fenda e chave ajustável.
+- Pano, escova, água e sabão neutro.
+- Luvas de borracha e óculos de proteção.
+- Pano seco e limpo para contatos.
+- Peça de reposição idêntica, se for preciso trocar algo.
+- Etiqueta e caneta para identificar o equipamento.
+
+PROCEDIMENTO
+------------
+1. Desligue o equipamento da tomada antes de qualquer contato.
+2. Retire pilhas, baterias ou outra fonte de energia separada.
+3. Espere o aparelho esfriar se esteve ligado há pouco tempo.
+4. Anote ou desenhe como estavam as peças antes de mexer.
+5. Limpe a sujeira externa com pano úmido e sabão neutro.
+6. Retire ferrugem leve com escova e seque bem cada parte.
+7. Abra a tampa só se houver parafuso visível e acessível.
+8. Aperte parafusos e conexões que estejam frouxos.
+9. Retire poeira e obstruções com pano seco ou escova.
+10. Troque apenas peças idênticas, do mesmo modelo e medida.
+11. Se o cabo estiver danificado, troque por um idêntico.
+12. Feche a tampa e reinstale todos os parafusos antes de ligar.
+13. Ligue em local seco, após montar tudo, sem tocar no aparelho.
+14. Observe por alguns minutos cheiro, calor, fumaça ou ruído.
+15. Desligue na primeira anormalidade e não tente de novo.
+
+ATENCAO
+-------
+Eletricidade mata: nunca mexa no aparelho com a tomada ligada.
+Fio exposto, cabo derretido ou emenda com fita não são conserto seguro.
+Cheiro de queimado, fumaça, faísca ou choque: desligue e descarte.
+Água, umidade e mãos molhadas aumentam muito o risco de choque.
+Nunca troque fusível por moeda, arame ou peça de maior amperagem.
+Se o aparelho teve contato com combustível ou químico, não recupere.
+Sem proteção contra choque na tomada, não teste aparelho de metal.
+Na dúvida, não use: um conserto mal feito pode matar ou incendiar.
+
+SE NAO TIVER
+------------
+Sem peça original, não improvise em peça elétrica ou de segurança.
+Sem chave própria, use chave ajustável com cuidado.
+Sem pano para contatos, use papel seco e limpo.
+Sem proteção contra choque na tomada, não faça o teste sozinho.
+Se não houver conserto seguro, leve a ponto de coleta de resíduos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O equipamento liga e funciona sem cheiro, fumaça ou faísca.
+A carcaça fica fria ao toque depois de alguns minutos de uso.
+Nenhum fio fica exposto e todos os parafusos estão no lugar.
+O aparelho voltou ao uso sem emenda improvisada ou peça errada.
+
+FONTES
+------
+Prática consolidada de reuso e manutenção antes do descarte: EPA.
+Segurança elétrica: OSHA (desenergizar, proteção contra falha à terra,
+uso correto de cabos) e CPSC (guia de segurança elétrica doméstica).

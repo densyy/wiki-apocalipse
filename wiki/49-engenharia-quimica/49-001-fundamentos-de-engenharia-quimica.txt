@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 49-001
+TITULO: Como aplicar fundamentos de engenharia química
+CATEGORIA: 49 - Engenharia química e processos industriais
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: papel, lápis, dados das correntes do processo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: balanço de massa, mistura, diluição, quanto, cálculo
+==============================================================================
+
+OBJETIVO
+--------
+Calcular quanto material entra, sai e fica em um processo simples.
+
+QUANDO USAR
+-----------
+Quando precisar saber quanto insumo usar para obter certo produto.
+Quando precisar achar a concentração final de uma mistura.
+
+NAO USE QUANDO
+--------------
+Quando houver reação química e a estequiometria for desconhecida.
+Quando faltarem dados de entrada ou de saída das correntes.
+
+MATERIAIS
+---------
+- Papel, lápis e calculadora.
+- Dados de massa e concentração de cada corrente.
+
+PROCEDIMENTO
+------------
+1. Escreva no topo da folha o que se quer descobrir.
+2. Desenhe o processo como caixa com setas de entrada e saída.
+3. Anote em cada seta a massa e a concentração conhecidas.
+4. Trace um contorno fechado e liste as correntes que o cruzam.
+5. Escolha uma base de cálculo e mantenha-a até o fim.
+6. Escreva a equação: acumulação é entrada menos saída mais geração.
+7. Anule a acumulação em processo contínuo e estável.
+8. Anule a geração quando não houver reação química.
+9. Escreva a equação da massa total.
+10. Escreva uma equação para cada componente acompanhado.
+11. Conte as incógnitas e as equações independentes.
+12. Resolva as equações e escreva a unidade de cada resultado.
+13. Substitua os resultados nas equações para conferir.
+
+ATENCAO
+-------
+A conservação da massa vale para quase qualquer processo químico.
+Se a acumulação não for nula, entrada diferente de saída é normal.
+Se houver reação, o termo de geração não pode ser ignorado.
+Não use uma base de cálculo diferente em cada equação.
+Se as incógnitas passarem das equações, pare e busque mais dados.
+Confira a unidade mesmo quando os números fecharem.
+
+SE NAO TIVER
+------------
+Sem dados de concentração, trabalhe só com a massa total.
+O resultado será menos preciso, mas ainda serve como estimativa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As equações fecham com o resultado substituído e usam mesma unidade.
+
+FONTES
+------
+Notas de aula de balanço de massa do MIT, curso 10.213.
+Material balance da Universidade da Colúmbia Britânica, CHBE 241.
+Felder, Rousseau e Bullard, Princípios Elementares de Processos
+Químicos, capítulo de fundamentos de balanço de massa.

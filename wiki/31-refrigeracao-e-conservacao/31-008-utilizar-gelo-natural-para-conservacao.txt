@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 31-008
+TITULO: Como utilizar gelo natural para conservação
+CATEGORIA: 31 - Refrigeração e conservação térmica
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: gelo natural limpo, caixa térmica, pano limpo, sombra
+REVISAO: 2026-11
+PALAVRAS-CHAVE: gelo, conservar, frio, alimentos, degelo, caixa térmica
+==============================================================================
+
+OBJETIVO
+--------
+Conservar alimentos perecíveis com o frio do gelo natural, sem energia.
+
+QUANDO USAR
+-----------
+Quando falta energia e a geladeira parou.
+Em clima frio, com gelo disponível em rio, lago ou neve limpa.
+Para manter carne, peixe, leite e comida cozida frios por mais tempo.
+Em acampamento ou desastre, até conseguir refrigeração estável.
+Para transportar alimentos que exigem frio em caixa térmica.
+
+NAO USE QUANDO
+--------------
+Não use gelo de água suja, esgoto, combustível ou agrotóxico nos alimentos.
+Não use gelo que derreteu com sujeira e voltou a congelar.
+Não confie no método para guardar carne crua ou peixe por vários dias.
+Não use se o alimento já tem cheiro, cor ou textura estranhos.
+Não use para resfriar remédios ou vacinas que exigem frio controlado.
+
+MATERIAIS
+---------
+- Gelo de fonte limpa: rio, lago ou neve longe de esgoto e indústria.
+- Caixa térmica, caixa de isopor ou recipiente tampado e isolado.
+- Pano limpo, saco limpo ou papel para embrulhar cada pedaço de gelo.
+- Recipientes limpos e tampados para acomodar os alimentos.
+- Termômetro de alimentos, se houver; sem ele, não confie só no tato.
+- Corda e faca para retirar o gelo com segurança.
+- Local sombreado, arejado e protegido da chuva.
+
+PROCEDIMENTO
+------------
+1. Escolha coleta em água corrente limpa, longe de esgoto e indústria.
+2. Retire o gelo com corda ou faca, sem entrar em correnteza forte.
+3. Quebre o gelo em pedaços que caibam dentro da caixa térmica.
+4. Lave os pedaços com água potável se houver; nunca com água suspeita.
+5. Enxugue o gelo e embrulhe cada pedaço em pano ou saco limpo.
+6. Coloque uma camada de gelo embrulhado no fundo da caixa térmica.
+7. Acomode os alimentos em recipientes tampados, sem tocar no gelo.
+8. Cubra os alimentos com mais gelo até preencher os espaços vazios.
+9. Feche a tampa e abra só o necessário, sempre na sombra.
+10. Apoie a caixa sobre tijolos ou pedra, longe do sol e do fogo.
+11. Retire a água do degelo uma vez por dia, sem molhar os alimentos.
+12. Reabasteça o gelo quando os pedaços derreterem pela metade.
+13. Descarte o gelo que tocou alimento cru ou ficou em água suja.
+14. Cozinhe e coma primeiro os alimentos que exigem mais frio.
+
+ATENCAO
+-------
+A zona de crescimento bacteriano fica entre aproximadamente 5 °C e 60 °C.
+Mantenha os alimentos a 4 °C ou menos; gelo já derretido não esfria mais.
+Gelo de água contaminada transmite doença: nunca encoste nos alimentos.
+Congelar não mata micro-organismos: apenas reduz o crescimento deles.
+Cozinhe por completo antes de comer, mesmo depois de conservar no gelo.
+Alimento perigoso pode parecer e cheirar normal. Na dúvida, descarte.
+Sem gelo suficiente a caixa esquenta depressa; meça com termômetro.
+Crianças, idosos, gestantes e doentes: dê só comida recém-cozida.
+Cortar gelo em rio ou lago pode ferir, afogar ou causar hipotermia.
+Nunca entre sozinho na água; use corda e peça ajuda para retirar o gelo.
+Com náusea, vômito, diarreia ou febre após comer, pare e busque ajuda.
+
+SE NAO TIVER
+------------
+Sem gelo natural, use gelo comprado ou garrafas de água congeladas.
+Sem caixa térmica, use isopor, balde tampado ou caixa forrada com pano.
+Sem pano limpo, use saco plástico limpo e bem fechado; não use pano sujo.
+Sem termômetro, note se ainda há gelo sólido: só água significa risco.
+Sem gelo nenhum, cozinhe e coma no mesmo dia, sem guardar sobra (31-004).
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ainda há pedaços de gelo sólidos na caixa depois de várias horas.
+O alimento está frio ao toque e o recipiente não está quente.
+A água do degelo foi retirada e os alimentos estão secos e tampados.
+Ninguém que comeu apresentou náusea, vômito ou diarreia.
+
+FONTES
+------
+Prática consolidada de refrigeração com gelo sem energia elétrica.
+Referências: FDA (armazenamento seguro, 40 °F/4 °C e regra das 2 horas);
+CDC (limpar, separar, cozinhar e refrigerar); OMS (Cinco chaves para
+alimentos mais seguros e ficha sobre segurança de alimentos).
+A colheita de gelo natural é prática tradicional sem documento único.
+Resumo operacional, não substitui treinamento.

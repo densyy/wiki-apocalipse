@@ -1,0 +1,94 @@
+==============================================================================
+CODIGO: 13-031
+TITULO: Como montar um laboratório básico de emergência
+CATEGORIA: 13 - Química e conhecimentos científicos aplicados
+TEMPO: 3 horas
+RISCO: alto
+EXIGE: local isolado, ventilação, água, óculos, luvas, extintor
+REVISAO: 2026-11
+PALAVRAS-CHAVE: laboratório, bancada, segurança, luva, óculos, descarte
+==============================================================================
+
+OBJETIVO
+--------
+Montar um local seguro para testes simples com água, solo e observação.
+
+QUANDO USAR
+-----------
+Quando faltar laboratório formal e for preciso testar água ou solo.
+Quando uma campanha de saúde precisar de ponto de análise local.
+Quando a rede cair e houver necessidade de exames simples e imediato.
+Quando se precisar separar amostras de material de consumo.
+
+NAO USE QUANDO
+--------------
+Não monte laboratório em dormitório, cozinha ou perto de comida.
+Não use o espaço para manusear patógenos, sangue ou agrotóxicos.
+Não faça testes com fumaça, aerossóis ou chama livre neste espaço.
+
+MATERIAIS
+---------
+- Mesa firme ou prancha sobre cavaletes (bancada improvisada).
+- Água corrente e sabão para lavar as mãos (balde com torneira).
+- Óculos de proteção e luvas descartáveis.
+- Avental ou camisa de manga longa (jaleco limpo).
+- Papel toalha, sabão e álcool 70% para limpar a bancada.
+- Frascos pequenos com tampa e rótulo de papel.
+- Sacos resistentes para resíduos (garrafas com tampa).
+- Extintor de pó ABC em bom estado.
+- Capela de exaustão ou janela com ventilação para fora (ventilador).
+- Lanterna ou luz fixa.
+
+PROCEDIMENTO
+------------
+1. Escolha um cômodo com porta, longe de comida, camas e fogo.
+2. Reserve o local só para testes: não coma, beba nem fume ali.
+3. Fixe a mesa ao chão ou à parede e deixe espaço livre ao redor.
+4. Coloque a bancada perto de janela ou capela com exaustão para fora.
+5. Aproxime uma tira de papel da saída de ar para testar a ventilação.
+6. Veja se o papel é puxado; se não for, aumente a exaustão.
+7. Divida a mesa em três áreas: limpa, de trabalho e de resíduos.
+8. Rotule cada frasco com nome, data e conteúdo antes de usar.
+9. Guarde os frascos fechados e em pé, longe de calor e luz direta.
+10. Separe ácidos de bases e inflamáveis de oxidantes.
+11. Deixe o extintor ao alcance da mão e confira o manômetro.
+12. Mantenha água e sabão perto para lavar as mãos ao sair.
+13. Limpe a bancada com álcool 70% antes e depois de cada teste.
+14. Feche os resíduos em saco identificado e guarde longe de crianças.
+15. Feche a porta ao terminar.
+
+ATENCAO
+-------
+Este espaço não substitui laboratório certificado nem treinamento.
+Não manipule agentes infecciosos, sangue ou material cortante sem treino.
+Nunca misture químicos desconhecidos: pode liberar gás tóxico ou incêndio.
+Não use chama livre perto de solventes ou álcool.
+Não trabalhe sozinho com substâncias corrosivas ou voláteis.
+Se houver cheiro forte, fumo ou ardência nos olhos, pare e ventile.
+Em respingo nos olhos, lave com água corrente por vários minutos.
+Se o fogo crescer, saia e chame ajuda; não tente apagar sozinho.
+Não descarte resíduos químicos no lixo comum nem no ralo.
+
+SE NAO TIVER
+------------
+Sem capela, trabalhe ao ar livre ou na janela, com o vento pelas costas.
+Sem óculos de proteção, use óculos fechados; não improvise com vidro comum.
+Sem extintor, mantenha areia ou pano grosso para sufocar fogo pequeno.
+Sem frascos próprios, use potes de vidro com tampa bem limpos.
+Sem água corrente, mantenha balde com tampa e sabão para as mãos.
+Sem luvas, lave as mãos com água e sabão antes e depois; evite corrosivos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O local tem porta, ventilação que puxa o ar e bancada firme e limpa.
+Os frascos estão rotulados, fechados e separados por tipo.
+O extintor está visível, com manômetro no verde e validade em dia.
+Há água e sabão no local e os resíduos estão em saco fechado.
+Não há cheiro forte, fumaça nem líquido derramado na bancada.
+
+FONTES
+------
+OSHA, guia Laboratory Safety Guidance sobre segurança em laboratório.
+CDC, Biosafety in Microbiological and Biomedical Laboratories (BMBL).
+CDC, guia dos níveis de biossegurança e kit de EPI para laboratórios.
+Manuais de segurança química da Universidade de Illinois e Arkansas State.

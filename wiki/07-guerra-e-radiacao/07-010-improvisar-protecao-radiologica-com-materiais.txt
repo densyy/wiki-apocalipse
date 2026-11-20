@@ -1,0 +1,90 @@
+==============================================================================
+CODIGO: 07-010
+TITULO: Como improvisar proteção radiológica com materiais comuns
+CATEGORIA: 07 - Guerra, radiação e catástrofes nucleares
+TEMPO: 60 minutos
+RISCO: critico
+EXIGE: terra, areia, tijolos, livros, portas, pá e sacos ou caixas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fallout, abrigo, blindagem, terra, tijolo, radiação, poeira
+==============================================================================
+
+OBJETIVO
+--------
+Reduza a dose de poeira radioativa com massa densa entre você e a rua.
+
+QUANDO USAR
+-----------
+Quando houver aviso de explosão nuclear na região.
+Quando vir poeira estranha cair após clarão muito forte.
+Quando precisar ficar abrigado e a casa é de madeira fina.
+Quando o porão existe mas tem teto fraco e janela baixa.
+Quando precisar proteger crianças e idosos no miolo do prédio.
+
+NAO USE QUANDO
+--------------
+Não saia para buscar material com poeira caindo fora.
+Não use este refúgio para combater incêndio ou resgatar gente fora.
+Não troque abrigo bom de concreto por abrigo improvisado fraco.
+Não entre em prédio rachado com risco de desabar.
+
+MATERIAIS
+---------
+- Sacos, caixas, gavetas ou baldes para encher de terra (saco de lixo duplo)
+- Terra, areia, brita ou entulho fino para massa de blindagem
+- Tijolos, blocos, telhas, livros e revistas para empilhar
+- Portas de madeira, mesa forte ou tábuas para segurar o peso
+- Pá, enxada ou lata para cavar e carregar terra
+- Pano úmido, máscara simples e roupa de troca
+
+PROCEDIMENTO
+------------
+1. Entre no porão ou no miolo do piso mais enterrado do prédio.
+2. Escolha o canto mais longe de janela, porta externa e telhado fino.
+3. Feche portas e janelas sem vedar toda a ventilação do cômodo.
+4. Marque no chão a área de ficar longe das paredes externas.
+5. Encha sacos e caixas com terra e areia perto do canto escolhido.
+6. Monte parede lateral com caixas cheias, tijolos e livros empilhados.
+7. Apoie uma porta sobre mesa forte para formar o teto do refúgio.
+8. Cubra a porta com aproximadamente 20 cm de terra ou areia.
+9. Troque terra por aproximadamente 15 cm de tijolo se faltar altura.
+10. Use aproximadamente 35 cm de livros onde faltar terra e tijolo.
+11. Deixe entrada em L com duas curvas e sem vão reto para fora.
+12. Guarde água, comida e rádio a pilha dentro do refúgio pronto.
+13. Fique dentro por aproximadamente 24 horas sem sair para olhar.
+14. Ouça a defesa civil no rádio antes de sair após a espera.
+
+ATENCAO
+-------
+Poeira sem cheiro nem gosto emite raio gama que atravessa roupa.
+Máscara e roupa seguram poeira no pulmão mas não param raio gama.
+Só massa densa e distância reduzem gama: terra, tijolo e concreto.
+Madeira fina, gesso e lata quase não protegem contra gama.
+Teto fraco desaba com terra demais e mata por esmagamento.
+Não suba no telhado para limpar poeira durante a queda.
+Fique fora do térreo com janela e longe de carro parado na rua.
+Dose de corpo inteiro acima de aproximadamente 4 Gy pode matar.
+Se houver vômito, queimadura grande ou tontura, procure socorro.
+
+SE NAO TIVER
+------------
+Sem saco, encha gaveta, mala, balde e fronha com terra e amarre.
+Sem tijolo, use pedra, telha, pote de água fechado e livro grosso.
+Sem mesa forte, apoie portas em pilhas baixas de blocos firmes.
+Sem porão, use miolo de prédio de alvenaria longe do telhado.
+Sem pá, cave com enxada, panela velha ou tábua dura.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você fica abaixo do nível da rua ou no miolo sem janela por perto.
+Há massa grossa em todos os lados e sobre a cabeça sem vão reto.
+Você conta aproximadamente 20 cm de terra sobre o teto improvisado.
+Você passa aproximadamente 24 horas dentro sem passeio fora.
+
+FONTES
+------
+Guia de sobrevivência a guerra nuclear da FEMA.
+Guia de planejamento para detonação nuclear da FEMA de 2022.
+Guia de abrigos públicos em emergência radiológica do CDC americano.
+Resposta sobre meia-espessura de blindagem da Sociedade de Física.
+Prática consolidada de sobrevivência civil em manual militar.

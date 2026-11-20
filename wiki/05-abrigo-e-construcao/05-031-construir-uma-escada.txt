@@ -1,0 +1,75 @@
+==============================================================================
+CODIGO: 05-031
+TITULO: Como construir uma escada
+CATEGORIA: 05 - Abrigo, construção e habitação
+TEMPO: 120 minutos
+RISCO: alto
+EXIGE: madeira firme e seca, serrote, pregos ou corda, martelo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: escada, degrau, subir, madeira, jirau, altura
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma escada reta de encosto para subir com segurança.
+
+QUANDO USAR
+-----------
+Quando precisa subir em jirau, sótão ou beliche alto.
+Quando o telhado baixo precisa de acesso para reparo.
+Quando o barranco ou desnível impede a passagem a pé.
+Quando precisa trabalhar em parede ou estrutura alta.
+
+NAO USE QUANDO
+--------------
+Em altura acima de aproximadamente 3 m sem fixação firme.
+Com madeira verde, rachada, apodrecida ou com cupim.
+Com vento forte, chuva, chão encharcado ou à noite sem luz.
+Para sustentar carga pesada ou mais de uma pessoa por vez.
+
+MATERIAIS
+---------
+- Duas varas retas e secas do mesmo tamanho (caibros).
+- Ripas ou varas grossas para degraus, sem rachadura.
+- Pregos longos e martelo (parafusos, arame, cipó ou corda).
+- Facão ou serrote para cortar e aparar a madeira.
+- Corda extra para amarrar o topo e travar a base.
+
+PROCEDIMENTO
+------------
+1. Meça a altura e corte as laterais com sobra para apoiar.
+2. Escolha madeira seca, reta e sem rachadura ou nó solto.
+3. Deite as laterais paralelas no chão, separadas em 45 cm.
+4. Marque os degraus a cada aproximadamente 30 cm de altura.
+5. Corte os degraus todos do mesmo tamanho, com sobra lateral.
+6. Prenda cada degrau com dois pregos por lado ou amarra firme.
+7. Reforce cada encontro com arame ou corda bem apertada.
+8. Encoste a escada com inclinação de aproximadamente 75 graus.
+9. Amarre o topo em ponto firme e trave a base contra escorregar.
+10. Suba devagar de frente, segurando nas laterais, e teste.
+
+ATENCAO
+-------
+Queda de escada quebra osso e bate a cabeça: nunca suba solta.
+Escada lisa escorrega na base; trave com pedra, estaca ou corda.
+Madeira rachada ou apodrecida quebra de repente com o peso.
+Não se incline para o lado nem suba com as mãos ocupadas.
+Não use escada perto de fio elétrico nem de barranco instável.
+Se balançar, ranger ou afundar, desça e reforce antes de seguir.
+
+SE NAO TIVER
+------------
+Sem pregos, amarre cada degrau com cipó, arame ou corda fina.
+Sem serrote, escolha varas já do tamanho e apare com facão.
+Sem madeira longa, emende com transpasse amarrado e reforce bem.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A escada fica firme, sem balançar, ranger ou afundar na base.
+Os degraus aguentam o peso sem girar, soltar ou estalar.
+
+FONTES
+------
+Prática consolidada de carpintaria rústica e escada de encosto
+(famílias de referência: FEMA, manual militar de sobrevivência
+civil e medidas gerais de degraus da ABNT NBR 9050).

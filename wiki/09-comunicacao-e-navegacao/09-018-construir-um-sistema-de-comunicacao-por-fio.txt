@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 09-018
+TITULO: Como construir um sistema de comunicação por fio
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 45 minutos
+RISCO: baixo
+EXIGE: duas latas, barbante fino, prego pontudo e fita adesiva
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fio, barbante, lata, telefone de lata, voz, comunicação
+==============================================================================
+
+OBJETIVO
+--------
+Construa um par de falantes ligados por fio para falar e ouvir sem energia.
+
+QUANDO USAR
+-----------
+Quando acabar a energia e o celular e o rádio não funcionarem.
+Quando precisar avisar outro posto sem ser ouvido por rádio.
+Quando o grupo estiver separado em prédios, túneis ou abrigos.
+
+NAO USE QUANDO
+--------------
+Quando o fio tiver de passar por rua, estrada ou área de passagem.
+Quando precisar de sigilo: qualquer pessoa pode escutar na linha.
+
+MATERIAIS
+---------
+- Duas latas vazias de bebida, sem tampa (copos plásticos duros).
+- Barbante encerado ou linha de pesca fina (fio de cobre delgado).
+- Prego pontudo e fita adesiva (nó bem apertado).
+
+PROCEDIMENTO
+------------
+1. Lave as duas latas vazias e retire a tampa por completo.
+2. Fure o centro do fundo de cada lata com o prego pontudo.
+3. Corte o barbante com o dobro da distância entre as pessoas.
+4. Passe uma ponta do barbante pelo furo de uma lata, de fora para dentro.
+5. Dê um nó na ponta dentro da lata, apertando contra o fundo.
+6. Prenda a outra ponta no fundo da segunda lata da mesma forma.
+7. Peça às pessoas que se afastem até o barbante ficar esticado.
+8. Confira se o barbante não encosta no chão, em galhos ou em roupas.
+9. Coloque uma lata na boca e fale com voz baixa e clara.
+10. Coloque a outra lata na orelha e escute sem falar.
+11. Inverta as posições para responder e fale um de cada vez.
+
+ATENCAO
+-------
+O barbante precisa ficar esticado: qualquer folga absorve a vibração.
+Se encostar em algo, a voz some; afaste o obstáculo antes de falar.
+Não estique a ponto de arrebentar o fio ou machucar as mãos.
+Com fio metálico, nunca use perto de fiação elétrica ou em tempestade.
+
+SE NAO TIVER
+------------
+Sem lata, use copos plásticos duros ou potes com fundo firme.
+Sem barbante, use linha de pesca ou fio de nylon bem fino.
+Sem fita, dê dois nós e aperte bem contra o fundo da lata.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A pessoa na outra ponta repete em voz alta o que escutou.
+A voz fica clara quando o fio está esticado e livre de contato.
+
+FONTES
+------
+HyperPhysics (Georgia State University): onda em corda depende da
+tensão e da massa por comprimento. Prática consolidada de telefonia
+acústica (telefone de lata); artigo 09-010 desta biblioteca.

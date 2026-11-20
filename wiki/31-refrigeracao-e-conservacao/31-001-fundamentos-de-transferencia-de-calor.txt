@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 31-001
+TITULO: Como funciona a transferência de calor
+CATEGORIA: 31 - Refrigeração e conservação térmica
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: objeto de metal e de madeira em temperatura ambiente, gelo, pano, sol
+REVISAO: 2026-11
+PALAVRAS-CHAVE: calor, frio, condução, convecção, radiação, gelo, isolamento
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer os três modos de calor e usá-los ao guardar gelo e alimentos.
+
+QUANDO USAR
+-----------
+Quando o gelo derrete rápido dentro da caixa.
+Quando o sol bate na parede onde o alimento fica.
+Quando se escolhe onde apoiar a caixa no chão.
+
+NAO USE QUANDO
+--------------
+Não toque chapa quente, fio elétrico nem peça em movimento para testar.
+O toque pode queimar ou dar choque. Nesses casos, não faça o teste.
+
+MATERIAIS
+---------
+- Um objeto de metal e um de madeira, em temperatura ambiente (pedra).
+- Um cubo de gelo (garrafa de água gelada).
+- Um pano seco (jornal seco).
+- Uma pedra aquecida pelo sol e um lugar na sombra.
+
+PROCEDIMENTO
+------------
+1. Toque o metal com a ponta dos dedos por um segundo.
+2. Toque a madeira da mesma forma e compare as sensações.
+3. Aproxime a mão a cerca de 10 cm acima da pedra aquecida.
+4. Sinta o ar quente subir; afaste a mão para o lado e compare.
+5. Coloque a mão na sombra e depois sob o sol; note o calor na pele.
+6. Apoie o gelo sobre pano seco, nunca direto no chão quente.
+7. Leve a caixa para a sombra e feche a tampa da caixa.
+
+ATENCAO
+-------
+Condução: o metal retira calor da pele mais rápido que a madeira.
+Convecção: o ar quente sobe e carrega calor consigo.
+Radiação: o calor do sol chega sem encostar em nada.
+Metal muito frio ou quente queima; toque só objeto em temperatura ambiente.
+O toque não mede temperatura; use termômetro quando a exatidão importar.
+Pare se algo esquentar fora do esperado e procure ajuda.
+
+SE NAO TIVER
+------------
+Sem metal, compare uma pedra lisa com um pano seco.
+Sem sol, segure o objeto na mão fechada por um minuto.
+Sem gelo, use garrafa de água gelada embrulhada em pano.
+Não use fio desencapado nem chapa quente como substituto.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O metal parece mais frio que a madeira ao toque.
+A pele esquenta sob o sol e esfria na sombra.
+O gelo no pano leva mais tempo para derreter que o gelo solto.
+
+FONTES
+------
+NASA Glenn Research Center, guia de termodinâmica: calor e equilíbrio.
+Princípios consolidados: condução, convecção e radiação.
+Resumo operacional; não substitui treinamento.

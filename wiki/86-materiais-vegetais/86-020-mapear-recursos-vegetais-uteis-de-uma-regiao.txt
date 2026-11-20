@@ -1,0 +1,80 @@
+==============================================================================
+CODIGO: 86-020
+TITULO: Como mapear recursos vegetais uteis de uma região
+CATEGORIA: 86 - Recursos naturais e materiais vegetais
+TEMPO: 180 minutos
+RISCO: baixo
+EXIGE: caderno, criterio de registro e deslocamento pela area
+REVISAO: 2026-11
+PALAVRAS-CHAVE: mapeamento, inventario, recurso vegetal, transecto
+==============================================================================
+
+OBJETIVO
+---------
+Levantar e registrar os recursos vegetais uteis de uma area.
+
+QUANDO USAR
+-----------
+Quando precisar saber o que a regiao oferece antes de planejar extracao.
+Quando quiser documentar especies utilitarias para uso da comunidade.
+Quando for necessario definir areas de manejo e areas de preservacao.
+
+NAO USE QUANDO
+--------------
+Nao entre em areas privadas ou protegidas sem autorizacao do responsavel.
+Nao mapeie sozinho em terreno desconhecido, com risco de se perder.
+Nao registre dados em epoca de seca extrema e depois generalizar para o ano.
+
+MATERIAIS
+---------
+- Caderno de campo, lapis e fita adesiva para marcar amostras.
+- Celular com camera e relogio, se houver, para fotos e horarios.
+- Trena ou passos medidos para estimar distancias.
+- Guia de plantas locais e lista de usos conhecidos pela comunidade.
+- Luvas e calcas firmes para caminhar pela area.
+- Garrafa de agua e orientacao de quem conhece o terreno.
+
+PROCEDIMENTO
+------------
+1. Defina os limites da area e peca autorizacao para entra-la.
+2. Escolha um ponto de partida e anote a data e a epoca do ano.
+3. Caminhe em linha reta ou em trilhas conhecidas, sem pressa.
+4. A cada especie util, registre o nome local e o uso observado.
+5. Fotografe folha, casca, flor e fruto quando possivel.
+6. Anote o local aproximado, a quantidade e o estado da planta.
+7. Marque no caderno se a especie e nativa, cultivada ou invasora.
+8. Pergunte a moradores sobre usos tradicionais e confirmacoes.
+9. Repita o percurso em outro dia para conferir os registros.
+10. Organize as anotacoes em lista com nome, uso, local e quantidade.
+11. Separe especies de uso atual, uso potencial e areas de preservacao.
+12. Guarde o mapa e as fotos em local seguro e compartilhe com a comunidade.
+
+ATENCAO
+-------
+Nome popular varia entre localidades e pode gerar confusao na identificacao.
+Confirme cada especie com guia ou conhecedor antes de registrar como util.
+Nao coleta ou fure plantas apenas para mapear; observacao costuma bastar.
+Nao invada area de preservacao, mesmo que pareca desprotegida.
+Em terreno desconhecido, va acompanhado e avise alguem do percurso.
+Dados incompletos podem induzir extracao excessiva depois.
+Respeite especies raras e nao divulgue local sensivel sem criterio.
+
+SE NAO TIVER
+------------
+Sem guia, registre apenas nome local e uso informado por moradores.
+Sem camera, faca desenho simples da folha e descreva a casca por escrito.
+Sem trena, meça distancias em passos e anote o tamanho medio do passo.
+Sem acompanhante, limite-se a areas ja conhecidas e de facil acesso.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A lista reune nome, uso, local aproximado e quantidade observada.
+Cada especie tem foto ou descricao que permite reconhece-la depois.
+Os registros foram conferidos em mais de uma visita ou por morador.
+O mapa distingue areas de uso de areas que devem ficar preservadas.
+
+FONTES
+------
+Pratica consolidada de inventario participativo de recursos vegetais, sem
+documento unico. Referencia a metodos de levantamento rapido em campo e
+ao conhecimento tradicional das comunidades locais.

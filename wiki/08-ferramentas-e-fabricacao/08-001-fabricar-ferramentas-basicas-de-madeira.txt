@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 08-001
+TITULO: Como fabricar ferramentas básicas de madeira
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: madeira dura e sã, faca, serra, brasas, água para apagar o fogo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: madeira, ferramenta, bastão, porrete, cunha, lascar
+==============================================================================
+
+OBJETIVO
+--------
+Fabricar bastão de cavar, porrete e cunhas com madeira dura e sã.
+
+QUANDO USAR
+-----------
+Quando faltar pá ou martelo no acampamento.
+Quando for preciso abrir lenha sem machado grande.
+
+NAO USE QUANDO
+--------------
+Madeira apodrecida, rachada ou com nós; solo pedregoso quebra o bastão.
+
+MATERIAIS
+---------
+- Madeira dura, reta e sã, sem podridão, rachadura ou nó.
+- Faca de lâmina fixa ou que tranca.
+- Serra.
+- Brasas e água para apagar o fogo.
+- Óculos de proteção para abrir toras.
+
+PROCEDIMENTO
+------------
+1. Bata duas peças; descarte a que soar surda, sinal de podridão.
+2. Serra o bastão com pouco mais que o braço e a grossura do pulso.
+3. Sente-se com a peça ao lado do joelho; corte para longe do corpo.
+4. Entalhe a ponta em duas faces como cinzel, com um palmo, plana e larga.
+5. Arredonde a outra ponta e retire casca e nós da empunhadura.
+6. Aqueça sobre brasas, nunca na chama, até castanha-clara; espere esfriar.
+7. Serra o toco do porrete com o antebraço e a panturrilha de grossura.
+8. Marque o cabo com um palmo; serra corte de parada raso.
+9. Retire madeira até o corte e arredonde as bordas do cabo.
+10. Serra duas ou três cunhas de grão reto, com cabeça larga e borda romba.
+11. Deixe as cunhas verdes secarem na sombra por aproximadamente três dias.
+12. Encaixe a cunha na rachadura da tora e bata com o porrete.
+13. Abra a fenda, ponha a segunda cunha atrás e bata de novo.
+
+ATENCAO
+-------
+A faca corta: nunca entalhe para o corpo ou entre as pernas; guarde-a
+na bainha. A ponta quente queima e a madeira carbonizada quebra: não
+deixe enegrecer. O corte de parada não passa de um quarto da espessura.
+Cunhas saltam: use óculos, afaste pessoas e pare se o cabo rachar.
+
+SE NAO TIVER
+------------
+Sem serra, corte com a faca e quebre o excesso com o porrete.
+Sem identificar a madeira, escolha a mais pesada e não bata com força.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A ponta fica plana, larga e sem marcas de carbono.
+O porrete tem cabeça pesada e cabo firme, sem rachadura.
+
+FONTES
+------
+Prática consolidada de ferramentas de madeira em sobrevivência.
+FM 3-05.70 Survival (2002); USDA Forest Service, An Ax to Grind (1999);
+USDA Wood Handbook, capítulo 4.

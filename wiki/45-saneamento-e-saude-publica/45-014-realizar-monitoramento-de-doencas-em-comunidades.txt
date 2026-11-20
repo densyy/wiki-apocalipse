@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 45-014
+TITULO: Como realizar monitoramento de doenças em comunidades
+CATEGORIA: 45 - Engenharia de saneamento e saúde pública
+TEMPO: 30 minutos por dia
+RISCO: medio
+EXIGE: caderno, lápis, pessoas de confiança para avisar casos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: doença, surto, vigilância, casos, notificar, comunidade
+==============================================================================
+
+OBJETIVO
+--------
+Detectar cedo casos suspeitos de doença e avisar quem pode agir.
+
+QUANDO USAR
+-----------
+Quando várias pessoas adoecem ao mesmo tempo no mesmo lugar.
+Quando aparece sintoma novo ou doença atinge mais gente que o normal.
+Quando há água suja, esgoto aberto ou gente chegando de fora com febre.
+
+NAO USE QUANDO
+--------------
+Não substitui atendimento médico nem exame de laboratório. Não serve para
+tratar ou escolher remédio. Se alguém está grave, procure ajuda primeiro.
+
+MATERIAIS
+---------
+- Caderno ou folhas limpas e lápis ou caneta.
+- Relógio, ou o sol e os dias da semana como referência.
+- Uma ou duas pessoas de confiança que avisem casos novos.
+- Lugar fixo e seco para guardar as folhas.
+
+PROCEDIMENTO
+------------
+1. Escolha um ponto fixo de registro, como a casa do agente de saúde.
+2. Defina o que conta como caso suspeito antes de começar a contar.
+3. Combine com as pessoas de confiança para avisar cada caso novo.
+4. Anote nome, idade, casa, sintoma principal e dia em que começou.
+5. Pergunte se a pessoa viajou, recebeu visitante ou bebeu água diferente.
+6. Some os casos novos do dia, separados por sintoma.
+7. Avise o agente de saúde se o número subir ou aparecer sintoma novo.
+8. Repita a contagem todo dia e guarde as folhas em ordem.
+
+ATENCAO
+-------
+A contagem não diagnostica doença. Ela só mostra que algo mudou.
+Não espere exame para avisar a autoridade se muitos casos aparecerem juntos.
+O erro comum é contar só quem foi à unidade e esquecer quem ficou em casa.
+Isso esconde surtos. Não exponha os nomes anotados a curiosos.
+Não distribua remédio ou vacina por conta própria com base na contagem.
+Febre alta com manchas, sangramento ou falta de ar exige atendimento médico.
+
+SE NAO TIVER
+------------
+Sem caderno, use papel limpo e escreva com lápis ou carvão.
+Sem relógio, conte os dias pelo sol e pela semana.
+Sem agente de saúde, leve a folha à unidade de saúde ou à Defesa Civil.
+Sem avisos, pergunte nas filas de água, na escola e no trabalho.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Há uma folha por dia com o total de casos e os sintomas anotados.
+A autoridade de saúde recebeu o aviso e confirmou o recebimento.
+
+FONTES
+------
+Prática consolidada de vigilância em saúde pública. Referências
+consultadas: Ministério da Saúde (Vigilância em Saúde e Ambiente) e
+OMS (Disease Outbreak News e Regulamento Sanitário Internacional).

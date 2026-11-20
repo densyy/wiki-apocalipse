@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 60-019
+TITULO: Como planejar proteção contra enchentes
+CATEGORIA: 60 - Arquitetura, urbanismo e assentamentos
+TEMPO: 2 horas
+RISCO: medio
+EXIGE: papel, lápis, fita métrica ou corda, giz
+REVISAO: 2026-11
+PALAVRAS-CHAVE: enchente, inundação, drenagem, evacuação, alerta, risco
+==============================================================================
+
+OBJETIVO
+--------
+Montar um plano simples de proteção para a casa antes da cheia.
+
+QUANDO USAR
+-----------
+Quando a casa fica perto de rio, córrego ou área baixa.
+Antes da estação das chuvas, para decidir o que mover e para onde ir.
+
+NAO USE QUANDO
+--------------
+Não fique em área que a Defesa Civil mandou evacuar.
+Não use barreira caseira no lugar de obra aprovada.
+
+MATERIAIS
+---------
+- Papel, lápis, fita métrica ou corda com nós.
+- Fita adesiva ou giz para marcar a parede.
+- Sacos de areia ou terra (ou tecido resistente).
+
+PROCEDIMENTO
+------------
+1. Desenhe um croqui da casa, do quintal e da rua.
+2. Marque rio, ralo, bueiro e o sentido da descida da água.
+3. Após a chuva, veja onde a água parou e até onde subiu.
+4. Meça a altura e marque na parede com giz ou fita.
+5. Compare com o nível de referência da Defesa Civil, se houver.
+6. Some uma margem extra de aproximadamente 0,3 metro acima da marca.
+7. Separe documentos, remédios, quadros e motores que não podem molhar.
+8. Guarde isso em lugar alto e suba tomadas acima da marca.
+9. Limpe ralos e calhas e prepare sacos junto das entradas.
+10. Defina rota de fuga, ponto de encontro e telefones 199 e 193.
+11. Caminhe a rota com a família e revise o plano a cada seis meses.
+
+ATENCAO
+-------
+O plano reduz dano, mas não impede a cheia nem substitui a evacuação.
+Nunca entre em água corrente ou acima do joelho: a correnteza arrasta.
+Sacos de areia não resistem a água profunda, correnteza ou pressão.
+Não vede aberturas com água acima de aproximadamente 1 metro.
+Com risco de vida, saia antes de a água chegar.
+
+SE NAO TIVER
+------------
+Sem fita, use corda com nós a cada metro como referência aproximada.
+Sem sacos, use terra em tecido resistente ou chapas nas aberturas.
+Sem rádio, combine avisos com vizinhos e observe o nível do rio.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O croqui mostra rios, ralos e a marca da cheia na parede.
+Todos sabem a rota, o ponto de encontro e os números de emergência.
+
+FONTES
+------
+FEMA: guia NFIP de gestão de planície de inundação e publicações
+P-348 e P-259 sobre proteção de sistemas e retrofit de casas.
+Ministério da Integração e Defesa Civil: material SEDEC de plano
+de contingência; resumo operacional, não substitui orientação oficial.

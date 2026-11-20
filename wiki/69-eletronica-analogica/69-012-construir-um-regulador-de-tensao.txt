@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 69-012
+TITULO: Como construir um regulador de tensão
+CATEGORIA: 69 - Eletrônica analógica e componentes discretos
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: fonte DC de baixa tensão, zener, resistor, multímetro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: tensão, regular, zener, resistor, fonte, 5v, estabilizar
+==============================================================================
+
+OBJETIVO
+--------
+Montar um circuito que mantém a tensão de saída quase constante quando
+a carga ou a entrada variam um pouco.
+
+QUANDO USAR
+-----------
+Quando uma fonte de 9 V precisa alimentar um circuito de 5 V.
+Quando a tensão de uma bateria cai ou um sensor oscila com a fonte.
+
+NAO USE QUANDO
+--------------
+Não use este procedimento em rede elétrica de 110 V ou 220 V: pode matar.
+Não use para alimentar aparelho que exija corrente maior que a do projeto.
+Não use se o diodo zener estiver aquecendo muito.
+
+MATERIAIS
+---------
+- Fonte DC de baixa tensão, por exemplo pilha ou fonte de 9 V (bateria).
+- Diodo zener de 5,1 V (1N4733 ou equivalente).
+- Resistor de 390 ohms de 1/4 W (330 a 470 ohms também servem).
+- Multímetro com escala de volts contínuos.
+- Matriz de montagem, fios e ferro de solda (ou protoboard para teste).
+
+PROCEDIMENTO
+------------
+1. Desligue a fonte antes de montar. Nunca monte com a energia ligada.
+2. Meça a tensão da fonte sem carga e anote o valor.
+3. Escolha um zener com a tensão desejada na saída, aqui 5,1 V.
+4. Calcule o resistor série: R = (Ventrada - Vzener) / Izener.
+5. Para 9 V e 5,1 V com 10 mA, use aproximadamente 390 ohms.
+6. Ligue uma ponta do resistor ao polo positivo da fonte.
+7. Ligue a outra ponta do resistor ao cátodo do zener.
+8. Ligue o ânodo do zener ao polo negativo da fonte.
+9. Ligue a carga entre o cátodo do zener e o negativo da fonte.
+10. Energize e meça a tensão na carga com o multímetro.
+
+ATENCAO
+-------
+Rede elétrica energizada mata. Nunca ligue este circuito na tomada.
+Use apenas fonte de baixa tensão, longe de fios desencapados da rede.
+O zener e o resistor dissipam calor. Não toque depois de alguns minutos.
+Se o zener esquentar demais, desligue e aumente o resistor série.
+
+SE NAO TIVER
+------------
+Sem zener de 5,1 V, use o valor disponível e aceite aquela tensão de saída.
+Sem multímetro, não confirme o valor: não use em aparelho sensível.
+Sem ferro de solda, teste primeiro na matriz de montagem.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O multímetro marca tensão estável próxima da tensão do zener na carga.
+Ao variar a carga, a leitura muda menos de alguns décimos de volt.
+
+FONTES
+------
+Lei de Ohm e comportamento do zener: conhecimento consolidado de eletrônica.
+Valores típicos de manuais de componentes; confirme a folha de dados.

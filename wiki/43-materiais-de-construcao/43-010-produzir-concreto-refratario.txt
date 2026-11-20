@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 43-010
+TITULO: Como produzir concreto refratário
+CATEGORIA: 43 - Produção de materiais de construção
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: cimento refratário, chamote, água, máscara, forma de madeira
+REVISAO: 2026-11
+PALAVRAS-CHAVE: refratário, chamote, forno, concreto, argila, estufamento
+==============================================================================
+
+OBJETIVO
+--------
+Fazer massa que reveste fornos e lareiras e aguenta o calor sem rachar.
+
+QUANDO USAR
+-----------
+- Para revestir a câmara de um forno de barro ou a lenha.
+- Para fazer a soleira e a abóbada de uma lareira.
+- Para reparar tijolos refratários que se soltaram.
+- Para assentar a base de uma chaminé ou de um fogão a lenha.
+
+NAO USE QUANDO
+--------------
+- Não use cimento Portland comum no lugar do refratário.
+- Ele racha e perde resistência com o calor do forno.
+- Não use areia comum de rio como agregado: ela não resiste ao calor.
+- Não acenda o forno com a peça ainda úmida.
+
+MATERIAIS
+---------
+- Cimento refratário de aluminato de cálcio (cimento de alumina; não use
+  Portland comum).
+- Agregado refratário: chamote (argila refratária calcinada moída; ou
+  tijolo refratário triturado).
+- Água limpa, na menor quantidade que permita moldar.
+- Balde, pá e forma de madeira.
+- Máscara contra pó ou pano limpo umedecido para cobrir nariz e boca.
+- Pano plástico para cobrir a peça na cura.
+
+PROCEDIMENTO
+------------
+1. Moa o agregado refratário até virar grão de areia grossa (aproximadamente
+   2 a 5 mm).
+2. Umedeça o agregado com um pouco de água para baixar a poeira.
+3. Meça 1 parte de cimento refratário e 2 a 3 partes de agregado, em volume.
+4. Misture tudo seco com a pá até a cor ficar uniforme.
+5. Adicione água limpa aos poucos, mexendo sem parar.
+6. Pare de molhar quando a massa apertar na mão sem escorrer e ficar como
+   farofa úmida.
+7. Use a menor quantidade de água possível: água demais enfraquece a peça.
+8. Despeje a massa na forma em camadas e bata levemente para tirar o ar.
+9. Cubra com pano plástico e mantenha úmido por aproximadamente 24 horas,
+   em local sem sol e sem vento.
+10. Retire a forma e deixe secar na sombra, coberto, por aproximadamente
+    3 a 7 dias; peça grossa demora mais.
+11. Faça o primeiro aquecimento com fogo brando, sem chama direta na peça,
+    por aproximadamente 2 horas.
+12. Aumente o fogo aos poucos só depois que não sair mais vapor da peça.
+13. Nunca jogue lenha de uma vez sobre a peça fria.
+
+ATENCAO
+-------
+- O maior risco é o estufamento: a água presa dentro da peça vira vapor,
+  a pressão sobe e a peça estoura, jogando fragmentos quentes.
+- Isso pode causar queimaduras graves e incêndio.
+- Nunca acenda o forno com a peça ainda úmida.
+- Peças com mais de aproximadamente 20 cm retêm água por mais tempo e exigem
+  secagem e primeiro aquecimento mais lentos.
+- A poeira fina do agregado contém sílica e prejudica os pulmões: molhe o
+  agregado e use máscara.
+- Água demais enfraquece a peça e aumenta o risco de estufamento.
+- Se a peça rachar, estufar ou esfarelar no primeiro aquecimento, apague o
+  fogo com segurança, afaste-se e refaça. Não use essa peça no forno.
+
+SE NAO TIVER
+------------
+- Sem cimento refratário, não há substituto que garanta resistência a
+  calor alto. Use a peça só em calor baixo e arranje o cimento refratário.
+- Sem chamote, use tijolo refratário triturado ou argila refratária moída.
+- Não use areia comum de rio: ela não resiste ao calor e pode rachar.
+- Sem máscara, molhe bem o agregado e trabalhe ao ar livre; ainda assim
+  o risco aos pulmões permanece. Consiga uma máscara antes de repetir.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- A peça endureceu depois da cura, sem rachaduras visíveis.
+- No primeiro aquecimento não houve estalos fortes, vapor escuro nem
+  estufamento.
+- Depois de fria, a peça está inteira, sem trincas novas nem partes soltas,
+  e resiste ao toque sem esfarelar.
+
+FONTES
+------
+- Prática consolidada de concretos refratários com cimento de aluminato de
+  cálcio (CAC) e agregado de chamote.
+- Artigo sobre secagem de concretos refratários, periódico Materials (MDPI),
+  2024, e literatura técnica de refratários sobre o estufamento.
+- Resumo operacional; não substitui treinamento.

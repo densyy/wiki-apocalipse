@@ -1,0 +1,106 @@
+==============================================================================
+CODIGO: 55-009
+TITULO: Como construir caixas para abelhas sem ferrão
+CATEGORIA: 55 - Entomologia, apicultura e pequenos organismos
+TEMPO: 3 horas
+RISCO: medio
+EXIGE: madeira seca sem tratamento, serra, pregos, trena, furadeira
+REVISAO: 2026-11
+PALAVRAS-CHAVE: abelha sem ferrão, caixa, colmeia, ninho, melgueira, jataí
+==============================================================================
+
+OBJETIVO
+--------
+Construir uma caixa modulada que abrigue abelhas sem ferrão e permita manejo
+sem destruir o ninho.
+
+QUANDO USAR
+-----------
+Ao receber um enxame e precisar dar abrigo adequado.
+Ao dividir uma colônia para multiplicar o meliponário.
+Ao trocar caixa rústica que dificulta revisar a colônia.
+Ao criar jataí, mandaçaia ou uruçu e querer colher mel sem quebrar favos.
+Ao inspecionar cria, rainha e alimento sem desmontar o ninho.
+
+NAO USE QUANDO
+--------------
+Não use este modelo para abelhas com ferrão, como Apis mellifera.
+Não use madeira tratada com inseticida, cupinicida ou outro produto.
+Não copie medida de outra espécie sem conferir o ninho natural dela.
+Não instale a caixa onde haja pulverização de agrotóxico por perto.
+
+MATERIAIS
+---------
+- Madeira seca de plantio, sem cheiro e sem tratamento (cedro, pinus ou
+  eucalipto de procedência conhecida).
+- Tábuas para fundo, ninho, sobreninho, melgueira e tampa.
+- Pregos ou parafusos resistentes à umidade (parafusos de aço inox).
+- Serra, trena, esquadro, lápis e martelo.
+- Furadeira com broca para o furo de entrada (furo feito na marcenaria).
+- Chapa fina de madeira ou acrílico para separar os módulos.
+- Plástico resistente para forrar a face interna da tampa.
+- Tinta atóxica para uso externo (azul, amarela, verde ou branca).
+- Verniz ecológico de própolis, se houver (opcional).
+- Cavaletes ou suporte firme para apoiar a caixa.
+
+PROCEDIMENTO
+------------
+1. Escolha a espécie antes de definir as medidas da caixa.
+2. Tome como referência um ninho de aproximadamente 13 cm por 13 cm.
+3. Corte as paredes com espessura de aproximadamente 3 cm.
+4. Faça o fundo com aproximadamente 1 cm de espessura.
+5. Monte o ninho com altura interna de aproximadamente 12 cm.
+6. Deixe o sobreninho com a mesma medida interna do ninho.
+7. Monte a melgueira com altura interna de aproximadamente 10 cm.
+8. Abra o furo de entrada na face do ninho com aproximadamente 1,5 cm.
+9. Prenda a chapa fina entre ninho e sobreninho, com abertura central.
+10. Abra pequenos orifícios entre sobreninho e melgueira para as abelhas.
+11. Encaixe todas as peças sem frestas, sem cola com cheiro ou veneno.
+12. Forre a face interna da tampa com o plástico resistente.
+13. Aplique tinta atóxica ou verniz ecológico só na parte externa.
+14. Apoie a caixa em cavalete a aproximadamente 0,5 m do chão.
+15. Proteja o conjunto do vento e da chuva direta antes de povoar.
+
+ATENCAO
+-------
+Madeira mal seca, com cheiro forte ou tratada pode matar a colônia.
+Frestas deixam entrar formigas e moscas forídeas, que atacam cria e rainha.
+Furo de entrada errado dificulta a defesa ou a ventilação do ninho.
+Caixa grande demais para a espécie gasta energia extra em defesa e calor.
+Fontes divergem sobre a espessura: de aproximadamente 2 a 3,5 cm; adapte.
+O espaçamento entre caixas varia de aproximadamente 0,5 m a 3 m, ou 5 m
+para jataí; siga a prática de criadores da sua região.
+Use luvas e óculos ao serrar e pregar.
+Nunca aplique tinta ou solvente dentro da caixa ou perto da entrada.
+Sem fonte confiável para a espécie, reduza a promessa e busque um
+meliponicultor experiente antes de construir.
+
+SE NAO TIVER
+------------
+Sem madeira de plantio, aproveite retalhos secos de marcenaria conhecida.
+Sem furadeira, mande abrir o furo na marcenaria antes de montar.
+Sem chapa de acrílico, use chapa fina de madeira seca entre os módulos.
+Sem verniz ecológico, deixe a madeira sem pintura; a caixa durará menos.
+Sem tinta atóxica, não pinte; nunca use tinta comum perto da entrada.
+Não improvise com madeira tratada, PVC com cheiro ou isopor exposto.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As peças encaixam sem frestas visíveis e a tampa assenta firme.
+O furo de entrada está livre e as abelhas entram e saem sem esforço.
+Depois do povoamento, aparecem favos de cria dentro do ninho.
+A colônia guarda alimento na melgueira e mantém a entrada limpa.
+Não há formigas, moscas forídeas ou lixo acumulado na caixa.
+
+FONTES
+------
+Criação de Abelhas Indígenas Sem Ferrão, Giorgio Cristino Venturieri,
+Embrapa Amazônia Oriental.
+Comunicado Técnico 383, Modelos de colmeias racionais para criação de
+mandaçaia, Embrapa.
+Comunicado Técnico 219, Manejo de colônias de abelhas-sem-ferrão, Embrapa.
+Criação de abelhas sem ferrão, Embrapa.
+Meliponicultura, EPAGRI de Santa Catarina.
+Modelos de Restauração de Reserva Legal com Araucária, Embrapa Florestas.
+Prática consolidada de meliponicultores; adapte as medidas à espécie e
+à região.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 37-021
+TITULO: Como mapear rotas alternativas de abastecimento
+CATEGORIA: 37 - Cartografia, topografia e levantamento
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: carta topográfica, bússola, caderno, lápis, corda, fita
+REVISAO: 2026-11
+PALAVRAS-CHAVE: rota, abastecimento, mapa, alternativa, croqui, bússola
+==============================================================================
+
+OBJETIVO
+--------
+Desenhar um croqui com a rota principal e duas alternativas de
+abastecimento, com marcos, rumos e distâncias.
+
+QUANDO USAR
+-----------
+Quando o caminho usado para trazer água e comida pode fechar.
+Quando chuva, deslizamento ou bloqueio fecham a via principal.
+Quando o destino precisa de mais de um caminho de suprimento.
+
+NAO USE QUANDO
+--------------
+Para atravessar água profunda ou correnteza: água profunda pode matar.
+Para circular em área privada ou cercada sem permissão do dono.
+
+MATERIAIS
+---------
+- Carta topográfica, caderno e lápis (ou croqui feito no local).
+- Bússola e corda com nós a cada metro (ou sombra e passos calibrados).
+
+PROCEDIMENTO
+------------
+1. Marque na carta o depósito e cada destino de suprimento.
+2. Trace a rota principal e meça a distância com a escala.
+3. Trace duas alternativas por caminhos, estradas secundárias ou vaus.
+4. Leia as linhas de contorno: unem pontos da mesma altitude.
+5. Desvie de trechos com contornos próximos: são encostas íngremes.
+6. Marque pontes, vaus (parte rasa do rio) e cruzamentos.
+7. Escolha marcos de viragem e marque-os com fita ou estaca.
+8. Aponte a bússola ao marco e anote o rumo em graus.
+9. Some os trechos e anote a distância total de cada rota.
+10. Desenhe as três rotas com norte, escala e legenda no caderno.
+11. Caminhe cada alternativa em tempo seco e confira os marcos.
+12. Corrija o croqui desatualizado e anote a data da conferência.
+
+ATENCAO
+-------
+Carta antiga pode omitir cercas, pontes novas e deslizamentos.
+Uma única alternativa não é plano: mantenha pelo menos duas.
+Nunca atravesse água profunda ou correnteza com carga: pode matar.
+Bússola erra perto de ferro e celular; afaste-se antes de ler.
+O norte da bússola difere do mapa: anote a declinação da carta.
+Em encosta íngreme com chuva, pare e desvie: pode escorregar.
+
+SE NAO TIVER
+------------
+Sem carta, desenhe o croqui no local e meça com passos calibrados.
+Sem bússola, use a sombra ao meio-dia e marque o rumo como aproximado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O croqui tem norte, escala, legenda e três rotas com marcos comuns.
+Outra pessoa consegue seguir cada alternativa até o destino sem ajuda.
+
+FONTES
+------
+Manual de sobrevivência editado para civis e militares, baseado no
+manual das Forças Armadas dos EUA; FM 21-76; USGS (cartas topográficas).

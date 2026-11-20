@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 08-021
+TITULO: Como aplicar os fundamentos da metalurgia
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: braseiro, carvão, aço, martelo, bigorna, óculos, luvas, ar livre
+REVISAO: 2026-11
+PALAVRAS-CHAVE: metal, aço, fogo, têmpera, recozimento, revenimento, fumaça
+==============================================================================
+OBJETIVO
+--------
+Reconhecer aço comum, forjá-lo e controlar a dureza com calor.
+
+QUANDO USAR
+-----------
+Quando faltar ferramenta pronta e houver aço, carvão e martelo.
+Quando uma peça de aço precisa ser endireitada ou ter a borda reformada.
+Quando a peça ficou dura demais e precisa ser amaciada para o trabalho.
+Quando é preciso dar dureza a uma borda que amoleceu.
+
+NAO USE QUANDO
+--------------
+Quando o metal for desconhecido, galvanizado, pintado, chumbado ou vier
+de recipiente pressurizado. Não aqueça essas peças.
+Em local fechado ou sem ventilação. Fumaça metálica e monóxido de
+carbono podem matar sem aviso.
+
+MATERIAIS
+---------
+- Aço comum, maciço e conhecido, sem zinco, tinta ou chumbo (barra).
+- Ímã; braseiro ou fornalha com carvão vegetal (carvão de lenha).
+- Fole ou soprador manual (tubo metálico para soprar).
+- Martelo pesado e bigorna (bloco de aço ou pedra dura e plana).
+- Alicate ou pinça longa de ferro (garfo preso a cabo de madeira).
+- Óculos de proteção e luvas grossas de couro.
+- Balde com água (areia ou terra seca) para apagar o fogo.
+
+PROCEDIMENTO
+------------
+1. Trabalhe ao ar livre ou com ventilação forte; nunca em recinto fechado.
+2. Confira a origem e o ímã: use só aço comum, maciço, sem zinco, tinta
+   ou chumbo.
+3. Monte o braseiro com carvão e acenda; use o fole até o carvão ficar
+   vermelho por dentro.
+4. Segure a peça com o alicate; mantenha mãos e rosto fora da linha do
+   martelo.
+5. Aqueça a parte a trabalhar até ficar vermelho-vivo e brilhante; retire
+   do fogo antes de soltar faíscas ou ficar branca.
+6. Bata com o martelo na bigorna enquanto a peça ainda estiver vermelha;
+   dê golpes firmes e próximos.
+7. Reaqueça sempre que a peça escurecer; nunca bata em metal frio.
+8. Aqueça a peça até vermelho para amaciar.
+9. Deixe esfriar devagar, coberto por cinza ou areia, sem molhar.
+10. Aqueça até vermelho-vivo para endurecer.
+11. Mergulhe logo em água limpa; a peça fica dura e quebradiça.
+12. Aqueça a peça limpa de novo até cor de palha clara (aproximado).
+13. Deixe esfriar ao ar para reduzir a fragilidade.
+
+ATENCAO
+-------
+O fogo e o metal quente queimam: use óculos, luvas e calçados fechados.
+Nunca aqueça aço galvanizado, pintado ou com chumbo: o zinco causa febre
+dos fumos metálicos: calafrios, dor muscular, febre, tosse e náusea.
+Fogo em local fechado gera monóxido de carbono, que mata sem aviso.
+Tenha ventilação, água ou areia para apagar e nunca deixe óleo sem tampa.
+A cor do metal é guia aproximado: muda com a luz e com a liga. Sem
+termômetro não há como garantir temperatura exata nem dureza final.
+A têmpera deixa o aço duro e quebradiço; sem revenimento a peça racha.
+Tontura, dor de cabeça, náusea, cãibras, pele quente e seca ou confusão
+pedem parar, sair do calor e buscar ajuda; insolação pode matar.
+Pare se o metal estalar, se aparecer fumaça amarela ou se o fogo sair
+do controle.
+
+SE NAO TIVER
+------------
+Sem carvão, use braseiro com lenha: a temperatura é menor e o controle pior.
+Sem bigorna, use bloco de aço ou pedra plana; nunca bata em concreto úmido.
+Sem alicate, use garfo com cabo longo; nunca segure a peça quente com a mão.
+Sem óculos e luvas, não forje: não há substituto seguro para os olhos.
+Sem água, mantenha areia ou terra seca ao lado do fogo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O aço comum atrai o ímã e não solta cheiro de zinco ao aquecer.
+A peça muda de forma sob o martelo sem rachar enquanto está vermelha.
+Após a têmpera, a lima desliza sem marcar; após o revenimento, marca.
+O fogo apaga por completo e a peça esfria antes de ser guardada.
+
+FONTES
+------
+Prática consolidada de forja e tratamento térmico. Guia de bolso NIOSH do
+CDC: óxido de zinco e fumos de solda. Manual Técnico OSHA, Seção III,
+capítulo 4: estresse térmico. Merica, Waltenberg e Scott, Heat treatment
+of duralumin, Scientific Papers of the Bureau of Standards, vol. 15.

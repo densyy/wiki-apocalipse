@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 79-001
+TITULO: Como identificar cavernas seguras para exploração
+CATEGORIA: 79 - Sobrevivência subterrânea
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: lanterna, capacete, corda, parceiro, bastão, caderno
+REVISAO: 2026-11
+PALAVRAS-CHAVE: caverna, gruta, seguranca, exploracao, ventilacao, rocha
+==============================================================================
+
+OBJETIVO
+---------
+Reconhecer os sinais que indicam se uma cavidade pode ser entrada
+com segurança e quando ela deve ser deixada em paz.
+
+QUANDO USAR
+-----------
+Ao encontrar uma gruta e precisar decidir se entra ou não.
+Ao procurar abrigo temporário em região de calcário ou arenito.
+Antes de levar outras pessoas para dentro de uma cavidade.
+Quando o grupo precisa escolher qual entrada usar primeiro.
+
+NAO USE QUANDO
+--------------
+Nunca entre sozinho, mesmo em cavidade pequena e clara.
+Não entre se houver cheiro de gás, ar quente ou correnteza.
+Não explore em dia de chuva ou com previsão de tempestade.
+Não desça em poço vertical sem corda e sem treino de rapel.
+Não perturbe grutas com morcegos, ninhos ou água parada.
+
+MATERIAIS
+---------
+- Capacete com jugular e lanterna de cabeça (ou lanterna de mão).
+- Lanterna reserva com pilhas extras.
+- Corda de 20 a 30 m e cinto ou arnês simples.
+- Bastão de madeira ou metal para sondar o chão à frente.
+- Caderno e lápis para desenhar a planta e marcar os riscos.
+- Botas firmes, luvas e roupa que não prenda nas rochas.
+- Apito e pedaço de pano para sinalizar a entrada.
+
+PROCEDIMENTO
+------------
+1. Observe a entrada por fora antes de qualquer movimento.
+2. Note se há duas aberturas: entrada e saída melhoram o ar.
+3. Sinta o ar na boca da gruta: corrente indicando ventilação é
+   bom sinal; ar parado e abafado é sinal de alerta.
+4. Cheire o ar: cheiro de ovo podre, amêndoa ou mofo exige recuo.
+5. Olhe o teto e as paredes: blocos soltos e rachaduras são risco.
+6. Verifique o chão: lama fresca, marcas d'água e folhas presas
+   mostram que a cavidade alaga na chuva.
+7. Bata com o bastão no chão à frente; som oco pode indicar
+   vazio sob a superfície.
+8. Sonda com o bastão antes de apoiar o peso em cada passo.
+9. Observe a temperatura: cavidade estável é mais segura.
+10. Olhe para cima e para trás a cada poucos passos.
+11. Marque o caminho de volta com pedras ou fita de pano.
+12. Desenhe no caderno as curvas, bifurcações e pontos de risco.
+13. Estabeleça um limite de tempo e de distância com o grupo.
+14. Avise alguém de fora sobre o destino e a hora de retorno.
+15. Se o ar ficar ruim ou o teto estalar, volte imediatamente.
+
+ATENCAO
+-------
+A ausência de correnteza não prova que o ar é bom; gases podem
+se acumular em bolsões sem movimento.
+Blocos no teto caem sem aviso, sobretudo depois de chuva.
+Cavidades com uma única entrada prendem quem tropeça e se perde.
+Morcegos e outros animais podem ser agressivos ao serem tocados.
+Nunca use fogo para "testar o ar": pode consumir oxigênio e
+incendiar gases. Se precisar, use chama só na entrada, de longe.
+Se alguém ficar preso, não entre atrás sem corda e sem ajuda.
+
+SE NAO TIVER
+------------
+Sem capacete, use qualquer proteção firme na cabeça e desista se
+o teto for baixo.
+Sem corda, não desça em nenhum poço nem fenda profunda.
+Sem lanterna reserva, não entre: uma pilha fraca deixa você
+preso no escuro.
+Sem parceiro, espere: a regra de nunca ir sozinho não tem
+exceção.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você identifica corrente de ar e não sente cheiro estranho.
+O chão está seco, firme e sem sinais de inundação recente.
+O teto não apresenta blocos soltos nem rachaduras novas.
+O grupo tem rota de volta marcada e limite de tempo acordado.
+
+FONTES
+------
+Prática consolidada de espeleologia de campo e de segurança em
+cavidades, resumida de manuais de clubes de espeleologia e de
+orientações de defesa civil para áreas cársticas. Os sinais
+descritos são indícios, não garantia: na dúvida, não entre.

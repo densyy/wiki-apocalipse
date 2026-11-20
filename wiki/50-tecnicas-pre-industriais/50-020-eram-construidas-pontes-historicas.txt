@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 50-020
+TITULO: Como eram construídas pontes históricas
+CATEGORIA: 50 - História das tecnologias pré-industriais
+TEMPO: 20 minutos
+RISCO: medio
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ponte, arco, alvenaria, pilar, cimbreira, romana, construção
+==============================================================================
+
+OBJETIVO
+--------
+Entender como as pontes antigas de pedra, tijolo e madeira eram erguidas.
+
+QUANDO USAR
+-----------
+Ao estudar a história da engenharia e das obras publicas.
+Ao examinar ruínas de pontes antigas ainda em pé.
+
+NAO USE QUANDO
+--------------
+Como guia para construir uma ponte hoje. Este texto descreve o passado,
+nao substitui calculo estrutural nem dispensa engenheiro responsavel.
+
+MATERIAIS
+---------
+- Nenhum material: este texto é descritivo, nao pratico.
+
+PROCEDIMENTO
+------------
+1. Escolha o ponto estreito, com margens firmes, e meça o leito.
+2. Desvie a água com dique de terra ou vala para expor o leito.
+3. Crave estacas no leito mole e assente a fundação de pedra.
+4. Levante os pilares e os encontros, apoios firmes nas margens.
+5. Monte a cimbreira, armação de madeira com o formato do arco.
+6. Assente as aduelas, pedras em cuneo, sobre a cimbreira.
+7. Coloque a pedra-chave no topo: ela travava todas as aduelas.
+8. Retire a cimbreira depois que o arco ficou fechado.
+9. Encha o espandrel, alvenaria sobre o arco, e abra vãos de alivio.
+10. Assente o tabuleiro e proteja os pilares com talhantes,
+   pontas de pedra voltadas contra a corrente da água.
+
+ATENCAO
+-------
+Estes eram procedimentos históricos, não eram seguros hoje.
+Trabalhar sobre a água e em altura causava acidentes graves.
+A cimbreira mal montada desabava e atingia os operarios.
+Fundaçao fraca cedia e a ponte ruía com o passar do tempo.
+Enchente e gelo destruíam as pontes sem vãos de alivio.
+Nao reproduza estes passos sem calculo e supervisão profissional.
+Procure um engenheiro antes de qualquer obra real.
+
+SE NAO TIVER
+------------
+Sem pedra talhada, use pedra bruta ou tijolos, como os romanos.
+Sem cimbreira de madeira, apoie o arco em terra bem compactada.
+Sem estacas, assente a fundaçao diretamente sobre rocha firme.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O arco ficou de pé depois da retirada da cimbreira.
+A água passou pelos vãos sem chegar ao tabuleiro.
+
+FONTES
+------
+Pratica construtiva consolidada da engenharia de pontes em alvenaria.
+O'Connor, Roman Bridges, Cambridge University Press, 1993.
+Fernandez Troyano, Bridge Engineering, Thomas Telford, 2003.
+Este resumo é historico e nao substitui projeto de engenharia.

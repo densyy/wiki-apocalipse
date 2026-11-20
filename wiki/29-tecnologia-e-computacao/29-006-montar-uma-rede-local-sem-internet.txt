@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 29-006
+TITULO: Como montar uma rede local sem internet
+CATEGORIA: 29 - Tecnologia, computação e informática offline
+TEMPO: 45 minutos
+RISCO: baixo
+EXIGE: roteador com DHCP, cabos ou Wi-Fi, aparelhos com porta de rede
+REVISAO: 2026-11
+PALAVRAS-CHAVE: rede, local, roteador, wifi, cabo, computador, compartilhar
+==============================================================================
+
+OBJETIVO
+--------
+Ligar aparelhos entre si para trocar arquivos sem nenhuma conexão externa.
+
+QUANDO USAR
+-----------
+Quando a internet cair e ainda houver aparelhos para conectar.
+Quando computadores precisam compartilhar arquivos ou uma impressora.
+
+NAO USE QUANDO
+--------------
+Quando os aparelhos não têm porta de rede nem Wi-Fi.
+Quando não houver energia para o roteador e para os aparelhos.
+
+MATERIAIS
+---------
+- Roteador com DHCP (distribui o IP, número de cada aparelho, sozinho).
+- Cabos de rede RJ-45 (ou adaptador Wi-Fi em cada aparelho).
+- Aparelhos com porta de rede ou Wi-Fi.
+- Fonte de energia para o roteador e os aparelhos.
+
+PROCEDIMENTO
+------------
+1. Desligue o roteador e os aparelhos que serão conectados.
+2. Coloque o roteador em ponto central, alto, seco e longe de metal.
+3. Ligue o roteador e espere a luz de energia acender.
+4. Ligue cada aparelho e conecte-o ao roteador por cabo ou Wi-Fi.
+5. No Wi-Fi, escolha o nome da rede e digite a senha.
+6. Abra as configurações de rede de cada aparelho.
+7. Ative "obter endereço IP automaticamente" (DHCP) e salve.
+8. Anote o IP recebido por cada aparelho.
+9. Faça ping ao IP de outro aparelho para testar a ligação.
+10. Repita de todos os aparelhos até todos responderem.
+
+ATENCAO
+-------
+O roteador funciona como rede local mesmo sem cabo de internet ligado.
+Não ligue a entrada de internet (WAN) se o objetivo for só a rede local.
+Se dois aparelhos receberem o mesmo IP, desligue um e reconecte.
+O DHCP falha se não houver servidor ativo: configure os IPs à mão.
+Sem energia o roteador para; use bateria, painel solar ou gerador.
+Rede local não dá acesso à internet, apenas liga os aparelhos entre si.
+
+SE NAO TIVER
+------------
+Sem roteador, use um switch e atribua IPs fixos diferentes em cada aparelho,
+na faixa 192.168.1.2 a 192.168.1.9, com máscara 255.255.255.0.
+Sem cabos nem Wi-Fi, não há rede; não improvise com fios desencapados.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada aparelho recebeu um IP e o ping entre eles responde com tempo em ms.
+Os aparelhos aparecem uns para os outros na lista de rede compartilhada.
+
+FONTES
+------
+Prática consolidada de redes locais TCP/IP. Referências: RFC 1918
+(IETF, faixas de endereços privados) e RFC 2131 (IETF, DHCP).
+Resumo operacional; não substitui treinamento em redes.

@@ -1,0 +1,86 @@
+==============================================================================
+CODIGO: 04-027
+TITULO: Como reaproveitar baterias com segurança
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: local ventilado, luvas, óculos de proteção
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bateria, pilha, recarregar, energia, segurança, teste
+==============================================================================
+
+OBJETIVO
+--------
+Reaproveitar pilhas e baterias comuns sem causar curto,
+fogo ou intoxicação.
+
+QUANDO USAR
+-----------
+Quando faltar energia e houver baterias guardadas.
+Quando um aparelho parar e a bateria parecer fraca.
+Quando for preciso montar um conjunto para lanterna.
+Quando houver carregador próprio para recarregáveis.
+
+NAO USE QUANDO
+--------------
+Quando a bateria estiver estufada, quente ou vazando.
+Quando houver cheiro forte, fumaça ou ferrugem solta.
+Quando for bateria de celular ou notebook danificada.
+Quando o aparelho pedir tensão diferente da bateria.
+
+MATERIAIS
+---------
+- Luvas de borracha e óculos de proteção.
+- Pano seco e escova de dentes velha.
+- Multímetro ou testador de pilhas (lanterna fraca).
+- Fita isolante para cobrir polos guardados.
+- Caixa plástica seca para guardar as separadas.
+
+PROCEDIMENTO
+------------
+1. Calce luvas e óculos antes de tocar nas baterias.
+2. Trabalhe longe de fogo, pano, papel e combustível.
+3. Separe por tipo: alcalina, recarregável e lítio.
+4. Não misture marcas, cargas nem tipos no aparelho.
+5. Descarte direto as estufadas, vazando ou enferrujadas.
+6. Limpe o polo com pano seco até tirar o pó branco.
+7. Se houver crosta, escove a seco sem molhar.
+8. Meça a carga no testador antes de usar.
+9. Use só baterias com carga parecida no aparelho.
+10. Recarregue só as marcadas como recarregáveis.
+11. Use só o carregador feito para aquele tipo.
+12. Carregue sobre superfície fria e sem inflamável.
+13. Não deixe carregando sem alguém por perto.
+14. Cubra com fita isolante os polos das guardadas.
+15. Guarde em caixa plástica, em local fresco e seco.
+
+ATENCAO
+-------
+Nunca abra, fure, amasse, corte ou queime bateria.
+O que mata aqui é curto, fogo e gás tóxico.
+Lítio furado pega fogo rápido e não apaga com água.
+Se inchar, esquentar ou soltar fumaça, afaste-se.
+Leve a peça para longe de gente e de material seco.
+Não jogue água em bateria de lítio pegando fogo.
+Cubra com terra ou areia e deixe esfriar sozinha.
+Líquido de bateria queima pele e olho: lave com água.
+Se arder, tossir ou faltar ar, pare e busque ajuda.
+Este procedimento não recupera bateria morta.
+Não conserta placa, celular nem notebook danificado.
+
+SE NAO TIVER
+------------
+Sem testador, teste na lanterna fraca e compare o brilho.
+Sem fita isolante, guarde cada uma em saco plástico seco.
+Sem multímetro, use só as novas ou as recarregadas.
+Sem carregador próprio, não recarregue: apenas separe.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O aparelho liga firme e mantém o brilho normal.
+A bateria fica fria e sem cheiro durante o uso.
+
+FONTES
+------
+Prática consolidada de segurança com baterias,
+sem documento único.

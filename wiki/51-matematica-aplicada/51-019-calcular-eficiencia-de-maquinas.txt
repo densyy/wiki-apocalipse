@@ -1,0 +1,78 @@
+==============================================================================
+CODIGO: 51-019
+TITULO: Como calcular eficiência de máquinas
+CATEGORIA: 51 - Matemática aplicada à sobrevivência
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: caderno, lápis, medidas da máquina, noção de multiplicação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: eficiência, rendimento, máquina, trabalho, esforço, atrito
+==============================================================================
+
+OBJETIVO
+---------
+Calcular o rendimento de uma máquina dividindo trabalho útil pelo total.
+
+QUANDO USAR
+-----------
+- Quando quiser saber quanto esforço a máquina aproveita.
+- Quando comparar alavanca, polia ou plano inclinado.
+- Quando precisar estimar perdas por atrito em um sistema.
+- Quando quiser escolher entre duas máquinas para o mesmo serviço.
+
+NAO USE QUANDO
+--------------
+- Quando não houver medidas confiáveis de esforço, carga e distância.
+- Para dimensionar cabo, polia ou freio que sustente pessoas: use
+  equipamento certificado, há risco de lesão grave.
+- Quando a carga estiver variando ou a máquina acelerando.
+
+MATERIAIS
+---------
+- Caderno e lápis (ou papel e qualquer instrumento de escrita).
+- Régua ou fita para medir distâncias.
+- Balança ou forma de conhecer carga e esforço em newtons.
+- Noções de multiplicação e divisão.
+
+PROCEDIMENTO
+------------
+1. Escreva: rendimento = trabalho útil / trabalho gasto x 100.
+2. Anote o trabalho útil: carga multiplicada pela altura que sobe.
+3. Anote o trabalho gasto: esforço vezes a distância percorrida.
+4. Converta a carga em newtons: massa em kg vezes 9,8.
+5. Anote o esforço em newtons: força que a pessoa aplica.
+6. Meça a altura e o caminho do esforço em metros.
+7. Multiplique carga pela altura: trabalho útil em joules.
+8. Multiplique esforço pelo caminho: trabalho gasto em joules.
+9. Divida o útil pelo gasto e multiplique o resultado por 100.
+10. Escreva o resultado em porcentagem, sem passar de 100 por cento.
+
+ATENCAO
+-------
+- O rendimento real é sempre menor que 100 por cento.
+- A diferença é o atrito, que vira calor e desgaste das peças.
+- Confunda newtons com kg e o resultado sai errado por quase 10 vezes.
+- Este cálculo vale para máquina em velocidade constante, sem acelerar.
+- Erro na distância do esforço é a falha mais comum na conta.
+- Nunca use este número sozinho para içar pessoa ou carga sobre outros.
+- Nesse caso, pare e use equipamento certificado com margem de segurança.
+
+SE NAO TIVER
+------------
+- Sem medir o esforço, limite-se à vantagem mecânica teórica.
+- Sem balança, estime a carga por volume e densidade (veja 51-013).
+- Sem como medir o esforço, não invente o número; procure uma balança.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- O resultado fica entre 0 e 100 por cento, nunca acima disso.
+- Os dois trabalhos saem em joules antes da divisão.
+- Uma máquina bem cuidada dá valor mais alto que uma enferrujada.
+- Repetindo a medição, o resultado fica próximo do primeiro.
+
+FONTES
+------
+- Conceito básico de física: trabalho é força vezes distância, em joules.
+- Rendimento é trabalho útil dividido pelo trabalho fornecido.
+- Valor de g igual a 9,8 m/s2 é aproximado e varia com altitude.
+- Prática consolidada, sem documento único; não substitui treinamento.

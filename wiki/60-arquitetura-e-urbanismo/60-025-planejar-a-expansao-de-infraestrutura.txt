@@ -1,0 +1,92 @@
+==============================================================================
+CODIGO: 60-025
+TITULO: Como planejar a expansão de infraestrutura comunitária
+CATEGORIA: 60 - Arquitetura, urbanismo e assentamentos
+TEMPO: 3 horas
+RISCO: medio
+EXIGE: mapa, caderno, lista de moradores, fita métrica, bastões de marcação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: infraestrutura, expansão, comunidade, prioridade, água
+==============================================================================
+
+OBJETIVO
+---------
+Definir a ordem e o lugar da próxima ampliação de água, caminhos,
+saneamento e espaços comuns da comunidade.
+
+QUANDO USAR
+-----------
+Quando o número de moradores cresce e os serviços atuais não atendem.
+Quando um assentamento novo recebe famílias e precisa de rede mínima.
+Antes de gastar material ou esforço em obra que pode ser deslocada.
+Após emergência, para reconstruir melhor e não repetir o erro.
+Quando um serviço está saturado, quebrado ou fora de uso.
+
+NAO USE QUANDO
+--------------
+Não planeje expansão sobre área em disputa sem antes buscar acordo.
+Não ocupe reserva de água, rota de evacuação ou área de risco.
+Este plano não substitui projeto de engenharia para obra permanente.
+
+MATERIAIS
+---------
+- Mapa do assentamento ou papel para desenhar o croqui.
+- Caderno e lápis para anotar decisões.
+- Lista de moradores com o número de pessoas de cada casa.
+- Fita métrica ou corda com nós a cada metro.
+- Bastões, estacas ou pedras para marcar o terreno.
+- Pessoas da comunidade, inclusive quem usa e quem mantém cada serviço.
+
+PROCEDIMENTO
+------------
+1. Desenhe no mapa o que já existe: moradias, água, latrinas, caminhos,
+   ponto de encontro, saída do assentamento e área de descarte.
+2. Some as pessoas da lista e anote quantas cada serviço atende hoje.
+3. Pergunte a moradores onde o serviço falha, quem fica de fora e onde
+   houve acidente ou conflito por causa dele.
+4. Marque no mapa as áreas proibidas: encosta instável, leito de rio,
+   área alagada, sepulturas e faixa de passagem de emergência.
+5. Liste as necessidades e ordene por impacto: água, saneamento, acesso,
+   energia e espaço comum.
+6. Anote o que cada ampliação exige de material, pessoas e tempo.
+7. Escolha primeiro a ampliação que atende mais gente com menos material.
+8. Pense na etapa seguinte antes de executar a atual, para não fechar
+   caminho, vala ou acesso de que a próxima obra precisa.
+9. Desenhe o traçado escolhido no mapa e marque no terreno com estacas.
+10. Defina quem executa, quem fiscaliza e quem faz a manutenção.
+11. Reserve e sinalize no terreno a área guardada para a etapa seguinte.
+12. Revise o plano com a comunidade e registre as decisões no caderno.
+
+ATENCAO
+-------
+Expandir sem ordem gera obra largada e material desperdiçado.
+Não ocupe área de risco para ganhar espaço: água e encosta cobram caro.
+Não bloqueie rota de evacuação nem acesso à água durante a obra.
+Sem responsável nomeado, a manutenção falha e o serviço volta a parar.
+Se aparecer disputa entre moradores, pare e busque acordo antes de marcar.
+Plano no papel não substitui avaliação de solo, carga ou vazão.
+
+SE NAO TIVER
+------------
+Sem mapa, desenhe o croqui no caderno com pontos de referência.
+Sem fita métrica, meça em passos de aproximadamente 0,7 m.
+Sem lista de moradores, conte casas e pessoas porta a porta.
+Sem reunião, ouça ao menos quem usa e quem mantém cada serviço.
+Sem material para a obra, registre a prioridade e espere o próximo ciclo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O mapa mostra o existente, o proibido e a área reservada à etapa seguinte.
+A ordem escolhida atende mais gente com o material que existe.
+Cada ampliação tem responsável, prazo e forma de manutenção anotados.
+A comunidade aprovou o plano e sabe qual é a primeira obra.
+Nenhuma etapa do plano fecha o caminho da ampliação futura.
+
+FONTES
+------
+Prática consolidada de planejamento de assentamentos e infraestrutura
+comunitária. Família de referências: diretrizes de assentamentos humanos
+da ONU (UN-Habitat), fichas da OMS sobre água, saneamento e saúde
+ambiental, listas de verificação da FEMA para rotas de evacuação e o
+Manual Sphere de padrões humanitários. Resumo operacional; não substitui
+projeto técnico nem avaliação local do terreno.

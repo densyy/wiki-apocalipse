@@ -1,0 +1,97 @@
+==============================================================================
+CODIGO: 01-044
+TITULO: Como construir cisternas
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 2 dias de trabalho
+RISCO: alto
+EXIGE: terreno plano, telhado, cimento, areia, placas, calhas, tampa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: cisterna, água da chuva, reservatório, tanque, captação
+==============================================================================
+
+OBJETIVO
+--------
+Construir um reservatório fechado para guardar água da chuva na seca.
+
+QUANDO USAR
+-----------
+Quando a chuva é curta e falta água na estiagem.
+Quando a fonte mais próxima é distante ou incerta.
+Quando existe telhado e espaço livre junto à casa.
+Quando a família precisa de reserva para beber e cozinhar.
+
+NAO USE QUANDO
+--------------
+Quando o ponto fica perto de fossa, curral, lixo ou combustível.
+Quando o telhado tem amianto, tinta velha ou resíduo de veneno.
+Quando não houver jeito de tratar a água antes de beber.
+Quando o terreno não puder ser nivelado ou não suportar o peso.
+
+MATERIAIS
+---------
+- Cimento, areia e pedra britada para argamassa e concreto.
+- Placas de concreto pré-moldadas (ou blocos de concreto).
+- Água limpa para a mistura e para a limpeza.
+- Laje de concreto para tampa (ou tampa plástica rígida travada).
+- Calhas e tubo de descida (ou mangueira limpa).
+- Tela fina para a entrada (ou pano limpo preso e trocado).
+- Tubo ou válvula de desvio (ou tubo que possa ser desligado).
+- Luvas de borracha e óculos de proteção.
+- Argamassa impermeabilizante (ou massa de cimento e água).
+
+PROCEDIMENTO
+------------
+1. Escolha terreno alto, firme e nivelado perto do telhado.
+2. Afaste o ponto de fossas, currais, lixo e depósitos de combustível.
+3. Multiplique o consumo diário da família pelos dias sem chuva.
+4. Use aproximadamente 22 litros por pessoa por dia como consumo mínimo.
+5. Marque no chão um círculo com o diâmetro das placas, cerca de 2,70 m.
+6. Cave só o necessário para a primeira fila de placas.
+7. Se a vala passar de aproximadamente 1 m, escorre com tábuas.
+8. Nivele o fundo e espalhe argamassa de cimento e areia com cerca de 5 cm.
+9. Assente as placas em círculo e preencha as juntas com argamassa.
+10. Vede as juntas por dentro e por fora com argamassa impermeabilizante.
+11. Coloque a laje e deixe uma abertura de aproximadamente 60 cm.
+12. Feche a abertura com tampa que possa ser removida e travada.
+13. Pregue as calhas no beiral com inclinação para o tubo de descida.
+14. Ligue o tubo a um desvio que jogue a primeira chuva fora da cisterna.
+15. Descarte aproximadamente 2 mm de chuva sem dados locais.
+16. Se não houver desvio, desligue o tubo e religue após o início da chuva.
+17. Prenda tela fina na entrada para reter folhas e insetos.
+18. Lave a cisterna vazia com água e sabão e enxágue antes do uso.
+19. Deixe a obra protegida por aproximadamente 7 dias antes de encher.
+20. Descarte a primeira água captada e trate a água antes de beber.
+
+ATENCAO
+-------
+Cimento fresco queima pele e olhos: use luvas e óculos.
+Parede ou laje mal assentada pode desabar: não fique sob a laje.
+Não entre na vala sem escoramento; pare se a terra começar a ceder.
+Cisterna sem tampa afoga criança e animal: mantenha a tampa travada.
+Água do telhado pode ter fezes, metais ou veneno: trate antes de beber.
+A cisterna não tira sal, metal, combustível nem agrotóxico da água.
+Com cheiro, sabor ou cor estranhos, descarte a água e pare de usar.
+Não ligue a cisterna à rede de água tratada: pode contaminar a rede.
+Com rachadura ou vazamento, pare de usar e procure ajuda.
+
+SE NAO TIVER
+------------
+Sem placas, use blocos de concreto com argamassa e vede as juntas.
+Nunca use tijolo de barro cru, madeira ou tambor de veneno.
+Sem calha, desvie a água do beiral com mangueira limpa.
+Sem desvio, desconecte o tubo e religue após o início da chuva.
+Sem tela, prenda pano limpo na entrada e troque a cada chuva.
+Sem cimento, use tanque de polietileno novo, opaco e tampado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A cisterna enche na chuva e não vaza pelas paredes nem pelo fundo.
+A entrada está com tela, sem folhas ou insetos visíveis.
+A tampa fecha firme e a água foi tratada antes de beber.
+
+FONTES
+------
+Manual de Saneamento da Funasa, capítulo de água de chuva.
+Embrapa CPATSA, Circular Técnica 12 (1984), sobre cisternas rurais.
+Embrapa, Captação de água de chuva e armazenamento em cisterna (2016).
+CDC, coleta de água da chuva; NBR 15527 citada pela Embrapa.

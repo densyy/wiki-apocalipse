@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 32-016
+TITULO: Como fabricar ferramentas de madeira
+CATEGORIA: 32 - Produção industrial e manufatura artesanal
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: madeira dura seca, faca afiada, serra, luvas, óculos de proteção
+REVISAO: 2026-11
+PALAVRAS-CHAVE: madeira, ferramenta, entalhar, faca, maço, estaca, bastão
+==============================================================================
+
+OBJETIVO
+--------
+Fabricar ferramentas simples de madeira, como maço, bastão de escavar e
+estacas, usando apenas ferramentas manuais.
+
+QUANDO USAR
+-----------
+Quando faltar ferramenta industrial e houver madeira disponível.
+Quando precisar de maço para cravar estacas ou partir lenha.
+Quando precisar de bastão para abrir buraco no solo.
+Quando precisar de estacas para tenda ou suporte de panela.
+
+NAO USE QUANDO
+--------------
+Quando a madeira estiver apodrecida, rachada ou com nós grandes: quebra
+no uso e pode lançar lascas. Quando não houver como estancar um corte
+profundo nem buscar ajuda, não faça este trabalho sozinho.
+
+MATERIAIS
+---------
+- Madeira dura e seca, sem podridão, rachadura ou nó (freixo, carvalho,
+  faia, freijó).
+- Faca firme e afiada (ou canivete de lâmina travável).
+- Serra pequena (para madeira fina, uma faca pode servir).
+- Luvas na mão que segura a peça (ou pano grosso).
+- Óculos de proteção (ou manter o rosto afastado ao lascar).
+- Corda ou fibra vegetal, se fizer maço de cabo amarrado.
+- Pedra de amolar para manter o fio da faca.
+- Pano limpo e água para estancar sangramento.
+
+PROCEDIMENTO
+------------
+1. Escolha madeira dura, seca e sem defeitos; bata com o nó do dedo: som
+   oco indica podridão, descarte a peça.
+2. Serre no comprimento necessário; não serre madeira grossa com a faca.
+3. Sente-se em apoio firme, pernas afastadas, peça à frente do joelho.
+4. Mantenha um braço de distância ao redor; ninguém entra nesse espaço.
+5. Calce as luvas e coloque os óculos antes de começar a cortar.
+6. Entalhe sempre para fora do corpo, em cortes longos e rasos.
+7. Mantenha a mão que segura a peça atrás da lâmina, nunca à frente.
+8. Para o maço, serre um toco do tamanho do antebraço e da grossura de
+   um braço.
+9. Com a serra, faça um corte de parada a um palmo de uma extremidade.
+10. Desbaste a parte do cabo com lascas pequenas até caber na mão.
+11. Arredonde a extremidade que bate, para não soltar lascas.
+12. Se o cabo for amarrado, prenda a cabeça com corda ou fibra vegetal.
+13. Para o bastão de escavar, use haste grossa como pulso e um pouco
+    maior que o braço.
+14. Aponte uma extremidade com cortes para fora; não deixe a ponta fina.
+15. Aqueça a ponta sobre brasas até leve queima, nunca na chama direta.
+16. Retire do fogo e espere esfriar antes de tocar ou afiar na pedra.
+17. Guarde a faca na bainha em cada pausa, jamais deitada sobre a peça.
+
+ATENCAO
+-------
+A faca mal usada causa corte profundo e hemorragia sem ajuda médica.
+Nunca entalhe para o corpo, entre as pernas ou apoiado na coxa.
+Madeira podre ou rachada quebra no impacto e atira lascas nos olhos.
+Ao bater com o maço, mantenha os dedos longe da cabeça da ferramenta.
+Endurecer a ponta no fogo deixa a peça muito quente: espere esfriar.
+Não endureça madeira em ambiente fechado: a fumaça pode asfixiar.
+Não use madeira resinosa em utensílios que encostam na comida.
+Se houver corte, pressione com pano limpo, eleve o membro e procure
+ajuda se o sangramento não parar.
+
+SE NAO TIVER
+------------
+Sem serra, corte madeira fina com a faca em lascas progressivas; em
+madeira grossa, peça ajuda em vez de forçar a lâmina.
+Sem luva, use pano grosso ou casca na mão que segura a peça.
+Sem óculos, afaste bem o rosto e faça lascas curtas; ainda é mais arriscado.
+Sem madeira dura, use madeira verde só para estacas e ganchos leves,
+nunca para maço ou bastão de escavar.
+Sem corda, torça fibras vegetais para amarrar o cabo do maço.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O maço tem cabo firme, cabeça presa e não solta lascas ao bater.
+O bastão tem ponta resistente que não quebra sob pressão.
+As estacas cravam no solo sem fender.
+A peça não tem bordas cortantes onde a mão apoia.
+
+FONTES
+------
+Manual de sobrevivência do Exército dos EUA, FM 21-76, capítulo 12
+(ferramentas, utensílios e armas de improviso). Prática consolidada de
+entalharia manual e segurança no uso da faca. Este texto é resumo
+operacional e não substitui treinamento prático.

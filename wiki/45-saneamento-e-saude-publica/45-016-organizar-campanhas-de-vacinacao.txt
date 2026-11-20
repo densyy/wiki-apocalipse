@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 45-016
+TITULO: Como organizar campanhas de vacinação
+CATEGORIA: 45 - Engenharia de saneamento e saúde pública
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: vacinas, cadeia de frio, termômetro, caderno, equipe de saúde
+REVISAO: 2026-11
+PALAVRAS-CHAVE: vacinação, campanha, vacina, geladeira, cadeia de frio
+==============================================================================
+
+OBJETIVO
+---------
+Planejar e executar uma campanha de vacinação com vacina conservada e
+cada dose registrada.
+
+QUANDO USAR
+-----------
+Ao receber vacinas para aplicar em um grupo ou população.
+Ao montar um ponto de vacinação em abrigo ou posto improvisado.
+Quando houver risco de surto e for preciso vacinar muitas pessoas.
+
+NAO USE QUANDO
+--------------
+Sem profissional de saúde treinado, não aplique nem receba vacinas.
+Este texto não ensina a dar injeções nem a calcular doses.
+
+MATERIAIS
+---------
+- Vacinas com lote e validade conferidos; refrigerador ou caixa térmica.
+- Termômetro e folha de monitoramento da temperatura.
+- Caderno de registro, seringas, agulhas, algodão, álcool e coletor.
+- Equipe de saúde treinada com supervisão responsável.
+
+PROCEDIMENTO
+------------
+1. Defina o público e a ordem de prioridade com o responsável de saúde.
+2. Liste vacinas, idades e número de doses previstas para cada lote.
+3. Confirme espaço na cadeia de frio antes de receber as vacinas.
+4. Registre no caderno o lote, a validade e a quantidade recebida.
+5. Mantenha as vacinas entre 2 e 8 graus Celsius, conforme a bula.
+6. Anote a temperatura na folha de monitoramento a cada turno.
+7. Separe um local limpo, com fila, saída e área de observação.
+8. Aplique só com profissional treinado e registre nome, data e lote.
+9. Ao fim, conte os frascos usados e compare com o registro de doses.
+
+ATENCAO
+-------
+Vacina fora da faixa de temperatura pode perder efeito sem mudar de cor.
+Se o termômetro sair de 2 a 8 graus, separe o lote e acione o responsável.
+Não congele vacina que a bula não permite congelar.
+Erro de registro deixa a pessoa sem comprovante e sem dose futura.
+Sem profissional treinado, pare a campanha e procure ajuda.
+
+SE NAO TIVER
+------------
+Sem refrigerador, use caixa térmica com bobinas e termômetro de máxima.
+Sem termômetro, não inicie: obtenha um antes de receber as vacinas.
+Sem equipe treinada, limite-se a organizar a fila e o registro.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As doses registradas batem com os frascos usados e o estoque restante.
+A folha de monitoramento não registra leitura fora de 2 a 8 graus.
+
+FONTES
+------
+Manual de Rede de Frio do PNI, Ministério da Saúde do Brasil; OMS e OPAS.
+Resumo operacional sobre cadeia de frio; não substitui treinamento.

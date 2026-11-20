@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 01-018
+TITULO: Como identificar fontes de água contaminadas
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 20 minutos
+RISCO: alto
+EXIGE: recipiente transparente, pano limpo, caderno, luz do dia
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, contaminada, poluída, suja, cheiro, poço, suspeita
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer sinais de contaminação em uma fonte de água e descartá-la.
+
+QUANDO USAR
+-----------
+Antes de usar água de rio, córrego, lago ou nascente para beber.
+Depois de enchente, ao voltar a usar poço ou cisterna.
+Quando a água mudar de cor, cheiro ou sabor.
+Quando houver esgoto, lavoura, indústria ou lixo perto da fonte.
+Quando autoridades avisarem de contaminação na região.
+
+NAO USE QUANDO
+--------------
+Não use esta inspeção para afirmar que a água é potável.
+A ausência de sinal não prova ausência de contaminação.
+Só análise laboratorial confirma a potabilidade da água.
+
+MATERIAIS
+---------
+- Recipiente transparente limpo (frasco de vidro ou plástico claro).
+- Pano limpo (filtro de papel ou pano branco sem sabão).
+- Caderno e lápis (papel e algo para escrever).
+- Luz do dia (lanterna, se estiver escuro).
+
+PROCEDIMENTO
+------------
+1. Aproxime-se da fonte sem entrar na água.
+2. Inspecione as imediações em busca de esgoto, esterco, lixo, lavoura,
+   indústria ou posto de combustível.
+3. Observe a superfície da água em busca de óleo, espuma persistente ou
+   mancha colorida.
+4. Preencha o recipiente transparente com água da fonte.
+5. Examine a cor contra a luz do dia e anote o resultado.
+6. Agite o recipiente e veja se a turidez não assenta em alguns minutos.
+7. Cheire a amostra com o rosto afastado e anote o que sentir.
+8. Não prove a água se o cheiro ou a cor mudaram. Aviso: provar para
+   testar pode causar intoxicação.
+9. Coe uma amostra com o pano limpo e observe o material retido.
+10. Repita a inspeção em outra fonte da região e compare os resultados.
+11. Descarte a fonte se aparecer qualquer sinal suspeito.
+12. Anote no caderno o local, a data e o motivo do descarte.
+
+ATENCAO
+-------
+Água limpa, transparente e sem cheiro pode estar contaminada.
+Bactérias, vírus, nitrato, metais e agrotóxicos não mudam cor nem cheiro.
+Cheiro de gasolina ou solvente indica combustível: não ferva nem filtre.
+Cheiro de ovo podre indica gás sulfídrico: deixe a fonte.
+Água com combustível, agrotóxico ou material radioativo não fica segura
+com fervura, cloro ou filtro. Não beba nem tome banho nela.
+Não prove água suspeita para testar: o sabor não é prova de segurança.
+Em enchente, trate poço e cisterna como contaminados até análise.
+Com cor, cheiro ou sabor novo, pare de usar e avise a autoridade de saúde.
+Esta inspeção reduz o risco, mas não substitui análise laboratorial.
+
+SE NAO TIVER
+------------
+Sem recipiente transparente, use frasco de vidro limpo.
+Sem pano limpo, deixe a amostra parada e observe o fundo.
+Sem luz do dia, use lanterna encostada no recipiente.
+Sem segunda fonte para comparar, use a água habitual da região como
+referência. Na dúvida, descarte a fonte.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você anotou cor, cheiro, turidez e resíduo do pano de cada fonte.
+Cada fonte ficou classificada como suspeita ou não suspeita no caderno.
+Nenhuma amostra com sinal suspeito foi bebida.
+
+FONTES
+------
+CDC: orientações sobre como encontrar água limpa e tornar água segura
+em emergência. Funasa e Ministério da Saúde: material sobre potabilidade
+e padrão organoléptico (Portaria GM/MS 888/2021) e Manual de Controle da
+Qualidade da Água. Resumo operacional; não substitui análise laboratorial.

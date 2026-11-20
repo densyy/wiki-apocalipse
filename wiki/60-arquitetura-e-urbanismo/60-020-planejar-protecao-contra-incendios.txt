@@ -1,0 +1,104 @@
+==============================================================================
+CODIGO: 60-020
+TITULO: Como planejar proteção contra incêndios
+CATEGORIA: 60 - Arquitetura, urbanismo e assentamentos
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: papel ou mapa, caderno, fita métrica ou corda, relógio
+REVISAO: 2026-11
+PALAVRAS-CHAVE: incêndio, fogo, prevenção, proteção, aceiro, extintor, fuga
+==============================================================================
+
+OBJETIVO
+---------
+Montar no papel um plano de prevenção e fuga que reduz a chance de o fogo
+alcançar as moradias e diz a cada pessoa o que fazer se ele começar.
+
+QUANDO USAR
+-----------
+Ao implantar assentamento novo com moradias próximas umas das outras.
+Quando cada casa usa fogão a lenha, querosene ou gás para cozinhar.
+Antes da estação seca ou de um período de vento forte.
+Depois de qualquer incêndio, para corrigir o que falhou.
+Quando moradias, depósitos ou cozinhas foram acrescentados sem critério.
+
+NAO USE QUANDO
+--------------
+Quando já há fogo: abandone o local e acione o Corpo de Bombeiros pelo 193.
+Este plano não substitui projeto técnico nem vistoria do Corpo de Bombeiros.
+Em área de risco ativo, peça avaliação da Defesa Civil antes de ocupar.
+
+MATERIAIS
+---------
+- Papel, lápis e borracha (ou caderno e caneta).
+- Fita métrica ou corda com nós a cada metro (ou passos contados).
+- Relógio para cronometrar a evacuação.
+- Croqui do terreno com as construções atuais (ou desenho feito no local).
+
+PROCEDIMENTO
+------------
+1. Desenhe o croqui com moradias, cozinhas, depósitos e fontes de água.
+2. Marque a direção do vento mais comum e o sentido das encostas.
+3. Meça a distância entre construções vizinhas no croqui e no terreno.
+4. Afaste as moradias: deixe o dobro da altura da casa entre elas, nunca
+   menos de aproximadamente 2 m.
+5. Abra aceiro, faixa de terra sem vegetação, de aproximadamente 30 m a cada
+   300 m de área construída.
+6. Limpe folhas secas e mato do aceiro antes da estação seca.
+7. Reserve corredores retos e livres entre as fileiras de moradias.
+8. Faça corredores largos o bastante para passar uma viatura de bombeiros.
+9. Confira se as rotas alcançam pelo menos 3 de cada 4 moradias.
+10. Coloque cozinhas e fogões no limite do assentamento, a favor do vento.
+11. Marque pontos de água e baldes junto aos corredores para o combate.
+12. Guarde gasolina, álcool e querosene em depósito separado e coberto.
+13. Defina duas saídas por moradia.
+14. Marque o ponto de encontro fora do assentamento.
+15. Nomeie vigias para avisar o grupo em caso de fogo.
+16. Designe quem aciona o Corpo de Bombeiros pelo 193.
+17. Distribua extintores de pó ou CO2 na cozinha e no depósito.
+18. Confira validade, lacre e pressão de cada extintor.
+19. Proiba benjamins, extensões em série e carregadores na cama.
+20. Ensaie a evacuação com todas as pessoas e cronometre no caderno.
+21. Revise o croqui com os moradores a cada mudança e antes da estação seca.
+
+ATENCAO
+-------
+Fumaça mata mais que fogo: ande agachado e nunca volte ao local em chamas.
+Nunca jogue água em equipamento elétrico energizado; use pó ou CO2.
+Extintor só apaga fogo pequeno, com saída livre e sem fumaça no ambiente.
+Se o fogo crescer, saia e acione o 193; não tente salvar objetos.
+Aceiro sem manutenção não segura fogo: limpe mato e folhas antes da seca.
+Fogo em ambiente fechado produz monóxido de carbono: nunca use braseiro
+ou fogão a lenha dentro de casa sem ventilação direta para o exterior.
+Este croqui não substitui projeto técnico, vistoria nem PPCI do Bombeiro.
+
+SE NAO TIVER
+------------
+Sem fita métrica, meça em passos ou com corda com nós a cada metro.
+Sem mapa, desenhe o croqui no caderno a partir do terreno.
+Sem extintor, mantenha areia seca junto à cozinha para focos pequenos;
+não confie nela se o fogo crescer: saia e acione o 193.
+Sem bombeiros próximos, reforce os vigias e acione a Defesa Civil e o 193.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O croqui mostra distâncias entre casas, aceiros, corredores, água, saídas
+e ponto de encontro.
+As rotas dos corredores alcançam pelo menos 3 de cada 4 moradias.
+Cada extintor está validado, desobstruído e em lugar conhecido pelos vigias.
+No ensaio, todas as pessoas chegaram ao ponto de encontro sem correr.
+
+FONTES
+------
+Sphere Handbook (2018), padrão humanitário de abrigos e assentamentos:
+separação entre construções, aceiro de 30 m e acesso de emergência.
+Global Shelter Cluster, Fire Risk Reduction Guidance for Humanitarian
+Shelters and Settlements (2023): separação entre abrigos, limites do
+extintor, acesso à água e equipes comunitárias de resposta a incêndio.
+Corpo de Bombeiros Militar de Minas Gerais e de Santa Catarina,
+orientações de prevenção a incêndios residenciais: causas elétricas e de
+gás, uso de extintor e evacuação.
+Corpo de Bombeiros Militar do Paraná, orientações de segurança em
+edificações: rotas de fuga, extintores e acionamento pelo 193.
+Prática consolidada de planejamento de assentamentos; resumo operacional,
+não substitui projeto técnico nem vistoria do Corpo de Bombeiros.

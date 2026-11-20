@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 73-018
+TITULO: Como determinar a vida útil de materiais armazenados
+CATEGORIA: 73 - Armazenamento de produtos não alimentares
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: caderno, caneta, boa luz e embalagens com rótulo legível
+REVISAO: 2026-11
+PALAVRAS-CHAVE: validade, vida útil, estoque, inspeção, lote, descarte
+==============================================================================
+
+OBJETIVO
+--------
+Avaliar se cada material guardado ainda serve para uso e por quanto tempo.
+
+QUANDO USAR
+-----------
+Quando se encontra estoque esquecido em armario, porao ou caixa.
+Quando o local de guarda ficou quente, umido ou molhado.
+Quando o rótulo esta ilegível ou a data de validade passou.
+
+NAO USE QUANDO
+--------------
+Nao use a aparencia para liberar medicamento vencido ou quimico.
+Nao confie em equipamento de protecao que sofreu impacto ou passou do prazo.
+
+MATERIAIS
+---------
+- Caderno, caneta e boa luz para ler rotulos e ver manchas.
+- Luvas e pano para manusear quimicos e itens suspeitos.
+- Etiqueta, fita e caixa separada para marcar e isolar itens.
+
+PROCEDIMENTO
+------------
+1. Separe por tipo: quimicos, borracha, papel, pilhas ou ferramentas.
+2. Anote nome, lote e datas; compare com hoje e conte os meses passados.
+3. Recorde onde o item ficou: calor, umidade, sol ou agua encurtam a vida.
+4. Observe a embalagem: inchaco, vazamento, ferrugem, mofo ou tampa solta.
+5. Abra so se for seguro; veja cor, textura e cheiro estranho.
+6. Toque com luva: borracha quebradica ou cola dura indicam desgaste.
+7. Teste o funcionamento quando nao houver risco, como medir uma pilha.
+8. Classifique em usar primeiro, usar com cuidado ou descartar.
+9. Anote a data, cole a etiqueta e repita a cada aproximadamente 3 meses.
+
+ATENCAO
+-------
+A data do rótulo so vale se a guarda seguiu o que o fabricante pediu.
+Calor e umidade encurtam a vida util antes da data impressa.
+Nao use remedio vencido so porque esta com boa cor.
+Nao misture quimicos vencidos com outros residuos: podem reagir.
+Se o item protege a vida, como capacete ou cinto, duvida: descarte.
+
+SE NAO TIVER
+------------
+Sem etiqueta, escreva a data na embalagem com caneta permanente.
+Sem luvas, use pano grosso; se o quimico e corrosivo, apenas isole.
+Sem identificacao do material, nao adivinhe: descarte.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada item tem anotacao com nome, data, estado e classificacao.
+Itens bons ficam a frente e os duvidosos ficam separados.
+A proxima inspeção tem data anotada e foi cumprida.
+
+FONTES
+------
+Pratica consolidada de inspecao e rotacao de estoques nao alimentares.
+Validade e conservacao: orientacoes da Anvisa e RDC 430 de 2020. Vida
+util em uso: programa de vida util do Departamento de Defesa dos EUA.
+Resumo operacional, nao substitui treinamento nem o rotulo do fabricante.

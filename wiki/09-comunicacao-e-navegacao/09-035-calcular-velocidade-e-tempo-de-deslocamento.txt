@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 09-035
+TITULO: Como calcular velocidade e tempo de deslocamento
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 15 minutos
+RISCO: medio
+EXIGE: relógio, mapa com escala, caderno, lápis e régua
+REVISAO: 2026-11
+PALAVRAS-CHAVE: velocidade, tempo, distância, ritmo, passo, mapa, escala
+==============================================================================
+
+OBJETIVO
+--------
+Estime o tempo entre dois pontos e a velocidade que consegue manter.
+
+QUANDO USAR
+-----------
+Quando precisa chegar a um ponto antes do anoitecer.
+Quando vai dividir água e comida pelos dias de caminhada.
+Quando o GPS acabou ou não há sinal.
+
+NAO USE QUANDO
+--------------
+Quando a rota exige escalada ou travessia: a conta não cobre isso.
+Quando há GPS com bateria: use a estimativa só como conferência.
+
+MATERIAIS
+---------
+- Relógio (ou cronômetro do celular sem rede).
+- Mapa com escala (ou croqui com distâncias anotadas).
+- Caderno, lápis e régua (ou palito para medir o mapa).
+
+PROCEDIMENTO
+------------
+1. Velocidade é distância dividida pelo tempo; tempo é o inverso.
+2. Meça a distância no mapa com a régua e leia a escala.
+3. Em mapa 1:25.000, cada centímetro vale 250 m (aproximado).
+4. Some os metros de subida pelas curvas de nível do trecho.
+5. Use 5 km/h em estrada plana, 4 km/h em trilha (aproximado).
+6. Divida os km pela velocidade; some 1 min por 10 m de
+   subida (aproximado).
+7. Some paradas, arredonde para mais e some 25% (aproximado).
+8. Para achar sua velocidade real, cronometre 100 m planos.
+9. Divida 360 pelo tempo: 80 s dão 4,5 km/h (aproximado).
+
+ATENCAO
+-------
+A conta é estimativa: cansaço, carga, calor e lama atrasam mais.
+Não use a velocidade do mapa para garantir volta antes do escuro.
+Subida longa e peso nas costas reduzem muito a velocidade real.
+Se exigir escalada, pare e peça orientação a quem conhece a região.
+
+SE NAO TIVER
+------------
+Sem mapa, conte passos: cada passo mede 0,7 m (aproximado).
+Sem fita, meça 10 passos e conte 7 m (aproximado).
+Sem relógio, não dá para medir velocidade: use nós em corda.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ao chegar, o tempo gasto fica dentro da margem prevista.
+A velocidade medida em 100 m repete em dois trechos planos.
+
+FONTES
+------
+Regra de Naismith e correções de Aitken e Langmuir, do manual
+Mountaincraft and Leadership (Mountain Training).
+Adventure Activities Licensing Regulations do Reino Unido:
+5 km/h mais 1 min por 10 m de subida.
+Medida de passo é prática consolidada, sem documento único.

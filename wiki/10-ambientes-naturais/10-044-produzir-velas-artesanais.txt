@@ -1,0 +1,91 @@
+==============================================================================
+CODIGO: 10-044
+TITULO: Como produzir velas artesanais
+CATEGORIA: 10 - Sobrevivência em ambientes naturais
+TEMPO: 45 minutos
+RISCO: alto
+EXIGE: cera, pavio de algodão, recipiente térmico, panela com água, calor
+REVISAO: 2026-11
+PALAVRAS-CHAVE: vela, cera, pavio, derreter, banho-maria, iluminação, fogo
+==============================================================================
+
+OBJETIVO
+--------
+Produza velas que queimam de forma estável e segura com cera e pavio.
+
+QUANDO USAR
+-----------
+Quando há cera, sebo ou restos de velas e falta luz à noite.
+Quando o grupo precisa de reserva de iluminação para vários dias.
+Quando sobra cera de uma colmeia própria.
+Quando é preciso aproveitar sobras de velas já usadas.
+
+NAO USE QUANDO
+--------------
+Quando há cheiro de gás ou combustível no ar: apague tudo e saia.
+Quando não há como vigiar a chama ou manter a vela longe de tecidos.
+Quando o cômodo é fechado e sem ventilação: use lanterna de pilha.
+Quando crianças ou animais podem derrubar a vela.
+
+MATERIAIS
+---------
+- Cera de parafina ou de abelha (sebo purificado).
+- Pavio de algodão trançado (barbante de algodão, testado antes).
+- Recipiente de vidro ou metal resistente ao calor (lata limpa).
+- Panela maior com água e pote menor para banho-maria.
+- Termômetro (opcional; sem ele, julgue pelo aspecto da cera).
+- Tesoura, palito de madeira e pano limpo.
+- Areia ou extintor, e lanterna de pilha como reserva de luz.
+
+PROCEDIMENTO
+------------
+1. Escolha superfície firme e plana, resistente ao calor, longe de tecido.
+2. Ventile o ambiente e afaste papel, cortinas e tecidos da área.
+3. Mantenha crianças e animais longe do local de trabalho.
+4. Centralize o pavio no recipiente e prenda-o com um palito na boca.
+5. Encha a panela com água até aproximadamente metade da altura do pote.
+6. Coloque a cera no pote e aqueça em banho-maria em fogo brando.
+7. Nunca derreta cera direto na chama: cera quente pode inflamar.
+8. Mexa devagar até derreter tudo, sem ferver e sem escurecer.
+9. Despeje a cera derretida por pano limpo em outro pote para filtrar.
+10. Retire o pote da água quente com pano ou luvas, com cuidado.
+11. Despeje a cera no recipiente com o pavio no centro.
+12. Deixe o pavio passando acima da borda do recipiente.
+13. Ajuste o pavio ao centro com o palito e não mova o recipiente.
+14. Deixe esfriar pelo menos 24 horas à temperatura ambiente.
+15. Apare o pavio: deixe aproximadamente 6 mm acima da cera.
+16. Acenda com fósforo e apague com apagador ou sopro, nunca com água.
+17. Na primeira queima, espere a cera derreter até a borda antes de apagar.
+18. Apague sempre antes de sair, dormir ou deixar a vela sem vigilância.
+
+ATENCAO
+-------
+Cera quente pega fogo: use areia ou extintor, nunca água.
+A água espalha a cera líquida e piora a queimadura.
+Nunca use micro-ondas nem chama direta: a cera pode inflamar.
+Não coloque a vela na geladeira: o frio racha a cera.
+Em local fechado, a queima incompleta gera monóxido de carbono.
+O monóxido não se vê nem tem cheiro e pode matar: ventile o ambiente.
+Se alguém sentir tontura, dor de cabeça ou náusea, apague, ventile e saia.
+Para andar no escuro, use lanterna de pilha: vela derruba e incendeia.
+
+SE NAO TIVER
+------------
+Sem cera de abelha, use parafina ou restos limpos de velas do mesmo tipo.
+Sem pavio, use barbante de algodão trançado; nunca use nylon ou plástico.
+Teste uma vela pequena antes: pavio improvisado pode queimar mal.
+Sem termômetro, pare quando a cera estiver líquida e brilhante, sem ferver.
+Sem panela e água para banho-maria, não derreta cera: espere ter os dois.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A cera solidifica sem rachas e o pavio permanece no centro.
+A chama fica amarela, baixa e estável, sem fumaça nem estalos.
+A poça de cera chega até a borda depois de queimar, sem túnel.
+
+FONTES
+------
+Ficha da Utah State University sobre processamento de cera de abelha
+e fabricação de velas; dicas de segurança da National Candle Association
+e da U.S. Fire Administration (FEMA); CDC sobre monóxido de carbono.
+Estudo de coorte dinamarquês sobre velas e qualidade do ar interno.

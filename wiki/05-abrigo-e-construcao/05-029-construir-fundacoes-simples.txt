@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 05-029
+TITULO: Como construir fundações simples
+CATEGORIA: 05 - Abrigo, construção e habitação
+TEMPO: 180 minutos
+RISCO: medio
+EXIGE: terreno firme e seco, pedras ou concreto, pá e nível
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fundação, alicerce, baldrame, base, casa, muro
+==============================================================================
+
+OBJETIVO
+--------
+Fazer uma base rasa e firme que sustenta parede pequena sem afundar.
+
+QUANDO USAR
+-----------
+Quando vai levantar parede de abrigo, quarto ou muro baixo.
+Quando a parede antiga rachou ou afundou por falta de base.
+
+NAO USE QUANDO
+--------------
+Em brejo, aterro fofo, beira de rio ou encosta que desliza.
+Para casa de dois pisos, laje pesada ou muro alto de arrimo.
+
+MATERIAIS
+---------
+- Pá ou enxada para cavar (cavadeira ou enxadão).
+- Pedras grandes e firmes mais brita ou cascalho (tijolo maciço).
+- Areia grossa e cimento para a argamassa (barro firme socado).
+- Estacas, barbante, nível e soquete (cipó, mangueira, pilão).
+
+PROCEDIMENTO
+------------
+1. Escolha chão alto, plano e seco, longe de água que empoça.
+2. Limpe mato, lixo e raiz gorda de toda a faixa da obra.
+3. Marque o retângulo das paredes com estacas e barbante.
+4. Confira o esquadro: as duas diagonais precisam ficar iguais.
+5. Cave a vala com aproximadamente 40 cm de largura e 50 cm de fundo.
+6. Pare e mude o local se achar água, barro mole ou lixo fundo.
+7. Soque o fundo da vala até ficar duro e sem marca de pé.
+8. Espalhe aproximadamente 5 cm de brita e soque de novo.
+9. Assente pedras grandes e travadas, fresta contra fresta.
+10. Preencha as frestas com argamassa ou barro firme socado.
+11. Acerte o topo no nível, aproximadamente 15 cm acima do chão.
+12. Encha as laterais com a terra da vala e soque em camadas.
+13. Espere aproximadamente 3 dias antes de levantar a parede.
+
+ATENCAO
+-------
+Fundação em solo mole afunda e racha a parede depois de pronta.
+Vala em solo arenoso desbarranca: escore com tábuas se esfarelar.
+Pedra grande esmaga mão e pé: peça ajuda e calce calçado fechado.
+Esta base não serve para dois pisos nem para encosta instável.
+
+SE NAO TIVER
+------------
+Sem cimento, trave pedra sobre pedra e soque barro firme nas frestas.
+Sem brita, use cascalho de rio ou caco de tijolo maciço socado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O topo fica nivelado e aproximadamente 15 cm acima do chão.
+A base não balança, não afunda e a água escorre para longe dela.
+
+FONTES
+------
+Manual de fundação direta e baldrame da ABCP, programa Mãos à Obra.
+Ficha de fundações do guia de mitigação da FEMA.

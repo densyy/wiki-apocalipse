@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 37-017
+TITULO: Como mapear nascentes e cursos d'água
+CATEGORIA: 37 - Cartografia, topografia e levantamento
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: mapa da região, caderno, lápis, bússola, calçado firme
+REVISAO: 2026-11
+PALAVRAS-CHAVE: nascente, olho d'água, riacho, córrego, rio, mapa, caderno
+==============================================================================
+
+OBJETIVO
+--------
+Desenhar em um croqui as nascentes e os cursos d'água de uma área pequena.
+
+QUANDO USAR
+-----------
+Quando o mapa não mostra os córregos e as nascentes pequenos.
+Antes de escolher captação, horta ou acampamento que dependa de água.
+Quando precisar registrar trechos secos, represados ou com água suja.
+
+NAO USE QUANDO
+--------------
+Não caminhe em água profunda, correnteza forte, barragem ou mina.
+Não levante sozinho à noite, com chuva forte ou em área desconhecida.
+
+MATERIAIS
+---------
+- Mapa impresso da região (papel em branco para o croqui).
+- Caderno dentro de saco plástico (folha enrolada em plástico).
+- Lápis e caneta à prova d'água (lápis comum).
+- Bússola (celular com GPS) e calçado firme com sola aderente.
+
+PROCEDIMENTO
+------------
+1. No mapa, localize o vale, as encostas e os cursos já desenhados.
+2. Vá ao fundo do vale e procure solo escuro e úmido na base da encosta.
+3. Procure musgo, vegetação mais verde e filetes d'água nessa base.
+4. Siga o filete morro acima até o ponto onde a água começa: a nascente.
+5. Marque com estaca ou fita, anote N1, data, hora e GPS (ou "sem GPS").
+6. Volte ao filete e siga água abaixo, desenhando a linha no caderno.
+7. Em cada confluência, tome como curso principal o trecho com mais água.
+8. Desenhe setas na linha no sentido da água, da nascente para a foz.
+9. Numere os trechos e anote largura aproximada, cor e estado da margem.
+10. Indique o norte, uma escala em passos e uma legenda no croqui.
+
+ATENCAO
+-------
+Uma visita única mostra só aquele momento: a nascente pode secar na seca.
+Margem de rio escorrega: apóie o pé em terra firme antes de seguir.
+Com chuva forte, o nível sobe depressa: saia do vale e volte depois.
+Não beba a água da nascente sem tratar; veja 01-001 como leitura extra.
+Croqui caseiro não substitui mapa oficial para navegação de longa distância.
+
+SE NAO TIVER
+------------
+Sem mapa, desenhe o vale no caderno e confirme o desenho no terreno.
+Sem bússola, use a sombra ao meio-dia para indicar o norte aproximado.
+Sem GPS, meça distância em passos e anote o total entre dois pontos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O croqui tem norte, legenda, nascentes numeradas e setas de fluxo.
+Outra pessoa consegue seguir o desenho da nascente até a confluência.
+
+FONTES
+------
+Prática consolidada de levantamento de campo: ANA, base hidrográfica
+ottocodificada e Manual de Construção da Base Hidrográfica Ottocodificada;
+Embrapa, Documento 229 e Caracterização hidroambiental de nascentes.

@@ -1,0 +1,86 @@
+============================================================================
+CODIGO: 80-008
+TITULO: Como compreender a produção de biogás
+CATEGORIA: 80 - Produção de combustíveis e lubrificantes
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: lugar arejado, companhia, caderno, lanterna
+REVISAO: 2026-11
+PALAVRAS-CHAVE: biogás, digestão, esterco, metano, biodigestor, chama
+============================================================================
+
+OBJETIVO
+--------
+Entender como a matéria orgânica gera gás combustível e como evitar
+explosão, asfixia e vazamento no manuseio do biodigestor.
+
+QUANDO USAR
+-----------
+Quando houver esterco e sobra vegetal em quantidade.
+Ao precisar de gás para cozinhar em área rural.
+Quando a lenha e o carvão estiverem escassos.
+Ao quiser aproveitar resíduo orgânico que viraria lixo.
+Somente em local arejado, com ajuda de outra pessoa.
+
+NAO USE QUANDO
+--------------
+Não use plástico, veneno, óleo ou químico no digestor.
+Não abra o digestor perto de fogo, faísca ou motor ligado.
+Não acumule gás em espaço fechado sem saída de ar.
+Não faça teste de chama na saída do gás: use água com sabão.
+
+MATERIAIS
+---------
+- Esterco, restos vegetais e água limpa.
+- Recipiente fechado, com saída única para o gás.
+- Tubo rígido bem vedado e válvula de fechamento.
+- Água com sabão para procurar vazamentos.
+- Caderno, lápis e lanterna fria para inspeções.
+
+PROCEDIMENTO
+------------
+1. Entenda que matéria orgânica sem oxigênio gera gás inflamável.
+2. O biogás é formado por metano e por gás carbônico.
+3. Use esterco, restos vegetais e água, sem plástico ou químicos.
+4. Mantenha a mistura em recipiente fechado, com saída única.
+5. Deixe o material digerir por várias semanas em local aquecido.
+6. Observe que o gás começa a sair quando a fermentação estabiliza.
+7. Nunca abra o digestor perto de fogo ou faísca.
+8. Teste a presença de gás com água e sabão na saída.
+9. Conduza o gás por tubo rígido e vedado até o ponto de uso.
+10. Instale uma válvula de fechamento antes do queimador.
+11. Ventile bem o ambiente onde o queimador funciona.
+12. Nunca use o gás para aquecer espaço totalmente fechado.
+13. Guarde o líquido resultante em recipiente fechado e etiquetado.
+14. Use esse líquido como adubo somente depois de estabilizado.
+15. Anote a data de carregamento e o volume aproximado de gás.
+
+ATENCAO
+-------
+Metano é inflamável e pode explodir se acumulado no ar.
+O gás não tem cheiro confiável: nunca confie só no olfato.
+Biogás desloca oxigênio e pode causar asfixia em espaço fechado.
+Digestor mal vedado pode rachar e soltar gás sem aviso.
+Nunca faça teste de chama na saída do digestor.
+Mantenha crianças e animais afastados do local instalado.
+Se sentir cheiro forte ou ardência nos olhos, saia e ventile.
+
+SE NAO TIVER
+------------
+Sem tubo rígido, não use mangueira comum que dobra ou vaza.
+Sem válvula, feche a saída com pedaço de madeira preso e sinalize.
+Sem local arejado, não acenda o queimador.
+Sem companhia, não instale nem manipule o digestor.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Aparecem bolhas no teste com água e sabão na saída.
+A chama do queimador é estável e azul, sem estalos.
+Não há vazamento nas emendas do tubo.
+O recipiente do líquido está fechado e etiquetado.
+
+FONTES
+------
+Noções de digestão anaeróbia e de segurança com metano, resumidas
+de manuais de biodigestores rurais e de orientações de segurança
+em instalações de gás. Uso restrito a ambiente arejado.

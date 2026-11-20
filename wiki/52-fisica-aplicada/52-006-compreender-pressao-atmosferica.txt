@@ -1,0 +1,86 @@
+==============================================================================
+CODIGO: 52-006
+TITULO: Como compreender pressão atmosférica
+CATEGORIA: 52 - Física aplicada e princípios fundamentais
+TEMPO: 25 minutos
+RISCO: baixo
+EXIGE: ventosa, copo, cartão, água, canudo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: pressão, atmosfera, ar, altitude, ventosa, ouvidos, ferver
+==============================================================================
+
+OBJETIVO
+--------
+Entender a pressão atmosférica como o peso do ar e reconhecer seus efeitos.
+
+QUANDO USAR
+-----------
+Quando o ouvido "estoura" ao subir ou descer depressa.
+Quando uma ventosa gruda ou quando um canudo puxa líquido.
+Quando a água ferve diferente em outra altitude.
+Quando se quer explicar por que a pressão muda com o tempo.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação para observar e compreender estes efeitos.
+Não use estas observações para substituir diagnóstico médico de
+dor de ouvido persistente nem para julgar risco de descompressão.
+
+MATERIAIS
+---------
+- Ventosa de borracha (ou fita adesiva larga).
+- Copo transparente cheio até a borda (ou pote com tampa).
+- Cartão rígido um pouco maior que a boca do copo (ou tampa).
+- Água (pode ser a que se vai beber).
+- Canudo (ou tubo oco qualquer).
+- Caderno para anotar (ou papel).
+
+PROCEDIMENTO
+------------
+1. Pressione a ventosa contra uma superfície lisa e observe que gruda.
+2. Puxe a ventosa e sinta a resistência do ar que empurra a borracha.
+3. Encha o copo até a borda e cubra a boca com o cartão.
+4. Vire o copo de cabeça para baixo, segurando o cartão.
+5. Solte a mão do cartão e observe que a água não cai.
+6. Entenda: o ar de fora empurra o cartão para cima com mais força.
+7. Beba água com o canudo e tampe a ponta de cima com o dedo.
+8. Observe que a água para de subir quando o ar não pode entrar.
+9. Suba uma ladeira ou escada depressa e note o ouvido "estourar".
+10. Engula ou boceje para equalizar e sinta a pressão se equilibrar.
+11. Observe que, em altitude maior, a água ferve a temperatura menor.
+12. Anote: ao nível do mar a pressão é aproximadamente 101 kPa (1 atm).
+13. Anote: perto do solo ela cai aproximadamente 1 kPa a cada 100 m.
+
+ATENCAO
+-------
+A pressão é o peso da coluna de ar acima de cada ponto, não uma força
+que puxa. Quem segura o cartão é o ar de fora, que empurra.
+A ventosa gruda porque dentro dela há menos ar do que fora.
+Ao subir depressa a pressão externa cai e o ouvido "estoura"; ao
+descer ocorre o contrário. Dor forte, zumbido ou tontura que não
+passam pedem avaliação médica, não só manobras de equalização.
+Estes números são aproximados e mudam com o clima e a altitude.
+Não use o copo com água quente: pode escaldar e o vidro pode quebrar.
+Não confunda pressão com temperatura: ar quente não significa mais
+pressão por si só.
+
+SE NAO TIVER
+------------
+Sem ventosa, use fita adesiva larga pressionada na parede lisa.
+Sem cartão, use a própria tampa do pote ou a palma da mão.
+Sem canudo, dobre um papel em tubo ou use qualquer tubo oco limpo.
+Sem ladeira, suba escadas ou ande até um ponto mais alto da cidade.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue dizer, com as próprias palavras, que a pressão é o
+peso do ar; que ela diminui com a altitude; e citar dois efeitos
+observados, como a ventosa e o ouvido.
+
+FONTES
+------
+Atmosfera padrão: NOAA, NIST (CODATA) e ICAO/ISA de 1976.
+NOAA e Sociedade Meteorológica Americana: a pressão ao nível do
+mar é aproximadamente 1013 hPa e cai cerca de 1 kPa por 100 m.
+Prática consolidada de demonstrações de física; veja 01-001 para a
+relação entre altitude e fervura da água.

@@ -1,0 +1,93 @@
+==============================================================================
+CODIGO: 04-067
+TITULO: Como produzir biogás
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 90 minutos
+RISCO: critico
+EXIGE: local externo ventilado, esterco, água, recipiente e mangueira
+REVISAO: 2026-11
+PALAVRAS-CHAVE: biogás, metano, biodigestor, esterco, fermentação, gás, h2s
+==============================================================================
+
+OBJETIVO
+--------
+Obtenha gás combustível a partir de esterco ou restos orgânicos.
+
+QUANDO USAR
+-----------
+Quando houver esterco animal ou restos de comida em excesso.
+Quando faltar gás de cozinha e houver fogão para queimar.
+Quando quiser aproveitar resíduos orgânicos gerando energia.
+
+NAO USE QUANDO
+--------------
+Em ambiente fechado, dentro de casa, garagem ou tenda.
+Sem água para manter o selo hidráulico do digestor.
+Sem espaço externo ventilado e longe de chamas.
+Se não for usar o gás com segurança, não produza.
+
+MATERIAIS
+---------
+- Esterco fresco de bovino, suíno ou aves (ou restos triturados).
+- Água limpa em quantidade.
+- Balde ou recipiente plástico com tampa (ou saco de manta).
+- Mangueira flexível para a saída do gás.
+- Garrafa com água para o selo hidráulico (fecho d'água).
+- Pedra ou suporte para manter o recipiente firme.
+- Luvas e pano limpo.
+
+PROCEDIMENTO
+------------
+1. Escolha local externo, plano e ventilado, longe de casas.
+2. Mantenha pelo menos 3 metros de distância de árvores.
+3. Afaste fogueiras, cigarros, faíscas e centelhas do local.
+4. Misture esterco fresco com água em partes iguais.
+5. Encha o recipiente até três quartos com a mistura.
+6. Feche o recipiente deixando só a saída do gás.
+7. Ligue a mangueira à saída de gás do recipiente.
+8. Mergulhe a ponta da mangueira 2 centímetros na água.
+9. Use uma garrafa com água como selo hidráulico.
+10. Confira que o gás sai só pela ponta mergulhada.
+11. Se possível, mantenha temperatura aproximada de 30 graus.
+12. Aguarde semanas: a produção de gás não é imediata.
+13. Bolhas na ponta da mangueira indicam que há gás.
+14. Leve a mangueira ao fogão, longe do rosto.
+15. Acenda o fogão antes de abrir a passagem do gás.
+16. Queime o gás no mesmo dia, sem armazenar.
+17. Nunca guarde gás em recipiente rígido e fechado.
+18. Feche a passagem ao terminar e ventile o local.
+19. Acrescente mistura fresca a cada poucos dias, sem abrir tudo.
+
+ATENCAO
+-------
+O metano explode com centelha em certa mistura com o ar.
+Nunca deixe gás se acumular antes de acender o fogão.
+O gás sulfídrico é tóxico e pode matar; o cheiro não protege.
+O gás sulfídrico cansa o olfato: sem cheiro não é seguro.
+Dióxido de carbono asfixia e se acumula em locais baixos.
+Nunca enfie o rosto no digestor nem teste com chama na saída.
+Mantenha chamas, faíscas e equipamentos elétricos afastados.
+Se houver vazamento, cheiro de ovo podre ou estufamento, pare.
+Ao parar, ventile o local e saia dele.
+Nunca queime gás em ambiente fechado: gera monóxido de carbono.
+Afaste crianças e animais do sistema.
+
+SE NAO TIVER
+------------
+Sem esterco, use frutas e vegetais triturados com água.
+Sem garrafa, use outro recipiente com água e a ponta mergulhada.
+Sem manta plástica, use balde vedado com saída única de gás.
+Sem fogão, não queime em fogueira: o gás pode acumular.
+Se não vedar o sistema, não produza: gás solto é perigo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Bolhas aparecem sem parar na ponta da mangueira.
+A chama fica estável e azulada ao queimar no fogão.
+Não há cheiro de gás no local nem vazamento visível.
+
+FONTES
+------
+Portal de Agroenergia da Embrapa sobre biogás e biodigestores.
+Documentos da Embrapa sobre biogás a partir de resíduos orgânicos.
+Guia do operador AgSTAR da EPA sobre segurança em biogás.

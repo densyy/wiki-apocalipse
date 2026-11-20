@@ -1,0 +1,94 @@
+==============================================================================
+CODIGO: 87-013
+TITULO: Como construir um sistema mecânico de ventilação
+CATEGORIA: 87 - Energia mecânica e hidráulica tradicionais
+TEMPO: 180 minutos
+RISCO: medio
+EXIGE: madeira, lona, corda, eixo com manivela, pás e suportes
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ventilação, ventilador, pá, eixo, fluxo de ar, galpão
+==============================================================================
+
+OBJETIVO
+--------
+Montar um ventilador movido a força humana ou animal para renovar o ar
+de um galpão sem depender de eletricidade.
+
+QUANDO USAR
+-----------
+Ao criar animais em galpão fechado com calor e cheiro forte de amônia.
+Quando o ar parado favorece mofo, umidade e doença respiratória.
+Em oficina ou depósito onde vapores e poeira precisam sair.
+Ao lavar grãos ou forragem e precisar secar o ambiente.
+Quando a rede elétrica falha e a ventilação precisa continuar.
+
+NAO USE QUANDO
+--------------
+Não use em ambiente com gás inflamável ou poeira de grãos em suspensão.
+Não use se não houver como proteger as pás e o eixo de pessoas.
+Não use para retirar fumaça de incêndio: isso exige saída e ajuda.
+Não use em espaço sem uma segunda abertura para entrar ar limpo.
+
+MATERIAIS
+---------
+- Madeira seca para o chassis e as pás (tábua ou compensado).
+- Eixo de ferro ou madeira rígida com manivela (roda de bicicleta).
+- Correia de couro ou corda resistente para transmitir o giro.
+- Lona ou plástico para vedar as frestas do duto (papelão).
+- Pregos, parafusos, arruelas e graxa para o eixo.
+- Tábua lisa ou tela para proteger as pás (grade de arame).
+- Corda e peso para tensionar a correia (mola).
+
+PROCEDIMENTO
+------------
+1. Escolha a parede onde o ar vai sair e a que vai admitir ar limpo.
+2. Abra uma entrada baixa na parede oposta à saída do ventilador.
+3. Meça a abertura e desenhe o chassis na madeira antes de cortar.
+4. Monte o chassis com pregos ou parafusos, deixando o eixo na altura
+   do peito.
+5. Fixe dois suportes para o eixo e fure os pontos de passagem.
+6. Encaixe o eixo e gire com a mão: deve girar livre, sem folga.
+7. Corte quatro pás retas de madeira leve, com a mesma medida.
+8. Pregue cada pá no eixo inclinada cerca de 30 graus.
+9. Confira se todas as pás empurram o ar para o mesmo lado.
+10. Instale a manivela ou a roda que vai receber a correia.
+11. Coloque a proteção em volta das pás, sem encostar nelas.
+12. Vede as frestas do chassis com lona, deixando só a saída.
+13. Gire devagar: o ar deve sair em fluxo contínuo, sem chiado.
+14. Aumente o giro até sentir correnteza na entrada de ar.
+15. Ajuste a correia se ela escorregar ou fazer barulho.
+16. Graxe os pontos de atrito e reaperte as porcas da proteção.
+17. Anote o giro e o fluxo obtidos para comparar na próxima revisão.
+
+ATENCAO
+-------
+Pás e correia em movimento cortam dedos e roupas. Nunca opere sem a
+proteção fixa e sem afastar cabelo, manga e cordas do eixo.
+Pare o giro antes de ajustar, limpar ou graxar o mecanismo.
+Correia muito esticada aquece o eixo e pode arrebentar; com folga,
+o ventilador para e as pás batem no chassis.
+Se sentir cheiro de queimado ou vibrar forte, pare e revise os suportes.
+Ventilação não substitui limpeza de esterco: remova o material que
+apodrece antes de instalar o equipamento.
+
+SE NAO TIVER
+------------
+Sem eixo de ferro, use um cabo de vassoura reto com buchas de madeira.
+Sem correia, gire a manivela direto no eixo com a mão.
+Sem madeira para as pás, use chapas de lona grossa presas em ripas.
+Sem lona, tape as frestas com papelão e fita de pano, sem fechar a
+entrada de ar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ao girar, sente-se correnteza na entrada e ar quente saindo na saída.
+O eixo gira sem tremer e a correia não escorrega nem chia.
+A proteção está firme e nenhuma pá encosta nela.
+Depois de dez minutos, o cheiro de amônia no galpão diminui.
+
+FONTES
+------
+Prática consolidada de ventilação rural artesanal e oficina mecânica,
+sem documento único. Base: princípios de renovação de ar e segurança
+em máquinas rotativas difundidos por extensão rural e manuais de
+agricultura familiar.

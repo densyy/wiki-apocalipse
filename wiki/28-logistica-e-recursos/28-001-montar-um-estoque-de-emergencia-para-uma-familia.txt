@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 28-001
+TITULO: Como montar um estoque de emergência para uma família
+CATEGORIA: 28 - Logística e gestão de recursos
+TEMPO: 120 minutos
+RISCO: baixo
+EXIGE: lista da família, recipientes limpos, alimentos não perecíveis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: estoque, emergência, família, água, comida, reserva
+==============================================================================
+
+OBJETIVO
+--------
+Deixar a família com água, comida e itens básicos para vários dias sem
+abastecimento.
+
+QUANDO USAR
+-----------
+Quando houver aviso de enchente, seca ou incêndio na região.
+Quando o abastecimento de água for instável ou a casa ficar isolada.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Lista com número de pessoas, idades e necessidades especiais.
+- Recipientes limpos e tampados para água (garrafas ou galões).
+- Alimentos não perecíveis (enlatados, arroz, feijão, biscoito).
+- Kit de primeiros socorros e medicamentos de uso contínuo.
+- Lanterna, pilhas, dinheiro, cópias de documentos e caixa.
+
+PROCEDIMENTO
+------------
+1. Conte as pessoas e anote bebês, idosos e necessidades especiais.
+2. Decida quantos dias o estoque deve durar: no mínimo 3 dias.
+3. Multiplique 1 galão (aproximadamente 4 litros) por pessoa e por dia.
+4. Encha os recipientes limpos com essa água e tampe bem.
+5. Etiquete cada recipiente com a data do enchimento.
+6. Escolha alimentos que não precisem de cozimento nem geladeira.
+7. Some comida para todos os dias planejados, com água extra.
+8. Monte o kit de primeiros socorros com curativos e antisséptico.
+9. Junte abridor, medicamentos, lanterna, pilhas, rádio e dinheiro.
+10. Guarde tudo em caixa fechada, em local fresco, seco e acessível.
+11. Anote a data e revise o estoque a cada 6 meses.
+
+ATENCAO
+-------
+O estoque não substitui evacuação: saia se as autoridades pedirem.
+Água parada pode contaminar: mantenha tampada e troque a cada 6 meses.
+Descarte alimento com embalagem estufada, amassada ou vencida.
+Não guarde comida perto de combustível, agrotóxico ou produto de limpeza.
+Bebês e doentes crônicos podem precisar de mais água e remédio.
+
+SE NAO TIVER
+------------
+Sem galões, use garrafas limpas e tampadas, mas troque a água mais vezes.
+Sem enlatados, use alimentos secos como arroz, feijão e farinha.
+Sem rádio, combine com vizinhos como receber avisos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Há água e comida para pelo menos 3 dias, em recipientes limpos e tampados.
+A caixa está fechada, acessível e com as datas anotadas.
+
+FONTES
+------
+FEMA (Ready.gov, 2026): 1 galão de água por pessoa por dia e comida
+não perecível para vários dias. OMS: tampe recipientes e trate a água.

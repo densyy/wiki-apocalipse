@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 01-055
+TITULO: Como construir uma bomba manual de água
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 3 horas
+RISCO: medio
+EXIGE: tubos de PVC, válvula de retenção, cola de PVC, alavanca, poço raso
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, bomba, bomba d'água, pistão, sucção, válvula, poço
+==============================================================================
+
+OBJETIVO
+---------
+Montar uma bomba manual que tira água de um poço raso sem energia elétrica.
+
+QUANDO USAR
+-----------
+Quando não há energia para retirar água de um poço raso.
+Quando o nível da água fica a menos de aproximadamente 7 metros da bomba.
+
+NAO USE QUANDO
+--------------
+Quando a água estiver a mais de aproximadamente 7 metros do bocal.
+Quando houver cheiro de combustível, agrotóxico ou sal na água.
+
+MATERIAIS
+---------
+- Tubo de PVC rígido para o cilindro, com cerca de 1 m e 40 a 50 mm.
+- Tubo de PVC fino para a coluna de sucção, até a água do poço.
+- Válvula de pé (de retenção) e tela limpa para a entrada.
+- Haste de metal ou PVC fino com disco de borracha para o pistão.
+- Cola de PVC, alavanca com pivô e balde com água limpa.
+
+PROCEDIMENTO
+-------------
+1. Meça do bocal do poço até a água; se passar de aproximadamente 7 m, pare.
+2. Corte o cilindro com cerca de 1 metro de comprimento.
+3. Corte a coluna com o comprimento medido mais aproximadamente 1 m.
+4. Encaixe a válvula de pé na ponta inferior da coluna, entrada para baixo.
+5. Envolva a entrada com tela limpa e amarre bem.
+6. Encaixe a coluna no cilindro com cola de PVC e deixe secar.
+7. Prenda o disco na ponta da haste para formar o pistão.
+8. Introduza o pistão no cilindro e deixe a haste sair pela ponta de cima.
+9. Instale o bico de saída na parte alta do cilindro.
+10. Prenda a haste à alavanca e apoie a alavanca no pivô.
+11. Vede as juntas com cola e deixe secar conforme a embalagem.
+12. Desça a coluna até a válvula ficar longe do fundo e da parede.
+13. Encha o cilindro com água limpa até cobrir o pistão.
+14. Acione a alavanca até a água sair pelo bico.
+
+ATENCAO
+-------
+Acima de aproximadamente 7 metros a água não sobe; bombar mais não ajuda.
+Use só água limpa na partida e vede o poço: sujeira e quedas matam.
+A bomba não purifica; trate a água antes de beber (veja 01-001).
+
+SE NAO TIVER
+------------
+Sem disco de borracha, use câmara de pneu velho; sem alavanca, use madeira.
+Sem válvula de retenção não há substituto seguro: use balde e corda.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Sai água pelo bico e não volta ao poço ao parar a alavanca.
+
+FONTES
+------
+Prática consolidada de bombas manuais de sucção e pistão. Referências:
+Practical Action (OLLEY, 2008), CTA/ISF Cameroun, FAO e OMS.

@@ -1,0 +1,80 @@
+==============================================================================
+CODIGO: 90-006
+TITULO: Como compreender contaminação por mercúrio
+CATEGORIA: 90 - Emergências químicas, industriais e ambientais
+TEMPO: 25 minutos
+RISCO: critico
+EXIGE: luvas, máscara com filtro, ventilação e recipiente fechado
+REVISAO: 2026-11
+PALAVRAS-CHAVE: mercúrio, vapor, peixe, termômetro, neurotoxina, acetato
+==============================================================================
+
+OBJETIVO
+---------
+Entender como o mercúrio contamina e reduzir a exposição das pessoas.
+
+QUANDO USAR
+-----------
+Quando um termômetro ou lâmpada de mercúrio quebrar.
+Ao encontrar produto com mercúrio em galpão, mina ou oficina.
+Quando houver suspeita de peixe contaminado em rio ou lago.
+Depois de derramamento de mercúrio metálico ou de compostos mercuriais.
+
+NAO USE QUANDO
+--------------
+Não aspire mercúrio com aspirador de pó comum: isso pulveriza o metal.
+Não jogue mercúrio na pia, no ralo ou no solo.
+Não limpe com vassoura, pois espalha as gotículas.
+
+MATERIAIS
+---------
+- Luvas de nitrilo e máscara com filtro para vapor de mercúrio.
+- Recipiente rígido e fechado com tampa para o material recolhido.
+- Papelada ou fita adesiva para recolher gotículas.
+- Pá de metal ou cartão rígido.
+- Saco resistente e etiqueta de identificação.
+- Caderno para anotar local, data e extensão.
+
+PROCEDIMENTO
+------------
+1. Afastar pessoas e animais do local e arejar o ambiente.
+2. Calçar luvas e colocar a máscara antes de tocar o material.
+3. Fechar portas e janelas dos cômodos vizinhos para conter o vapor.
+4. Levantar gotículas com papelada ou fita adesiva, sem vassoura.
+5. Recolher o material com pá ou cartão rígido.
+6. Colocar tudo em recipiente fechado e etiquetar com data e local.
+7. Passar fita adesiva no chão para retirar resíduos finos.
+8. Manter o ambiente arejado por várias horas após a limpeza.
+9. Não lavar a área com água, para não levar o metal à drenagem.
+10. Anotar o que aconteceu e avisar órgão ambiental ou de saúde.
+11. Procurar orientação médica se houve inalação de vapor.
+
+ATENCAO
+-------
+Mercúrio metálico libera vapor invisível e inodoro.
+O vapor é mais perigoso em ambientes fechados.
+Compostos como metilmercúrio acumulam em peixes e na cadeia alimentar.
+Crianças e gestantes são mais vulneráveis a danos neurológicos.
+A exposição pode causar tremor, perda de memória e irritabilidade.
+Sintomas podem aparecer semanas depois da exposição.
+Nunca aquecer mercúrio: o vapor aumenta muito.
+Se houve derramamento em água, interrompa o consumo de peixes da área.
+
+SE NAO TIVER
+------------
+Sem máscara própria, saia do ambiente, areje e chame equipe especializada.
+Sem recipiente rígido, use frasco de vidro com tampa e feche bem.
+Sem fita adesiva, use papelada umedecida para recolher os resíduos.
+Sem condição de limpar, isole o local e peça ajuda técnica.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As gotículas foram recolhidas e guardadas em recipiente fechado.
+O ambiente ficou arejado e ninguém pisou o material.
+O Órgão responsável foi avisado e o consumo de peixes foi suspenso.
+
+FONTES
+------
+Resumo de orientações de órgãos de saúde e agências ambientais sobre
+mercúrio, incluindo a Convenção de Minamata. Recolhimento mecânico sem
+aspiração e sem lavagem é conduta consolidada em manuais de emergência.

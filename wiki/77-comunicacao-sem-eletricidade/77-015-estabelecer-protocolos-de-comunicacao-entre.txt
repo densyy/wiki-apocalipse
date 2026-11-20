@@ -1,0 +1,78 @@
+==============================================================================
+CODIGO: 77-015
+TITULO: Como criar protocolos de comunicação entre assentamentos
+CATEGORIA: 77 - Comunicação anterior à eletricidade
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: representantes de cada assentamento, tabela comum e caderno
+REVISAO: 2026-11
+PALAVRAS-CHAVE: protocolo, assentamento, aviso, remetente, tabela, sinal
+==============================================================================
+
+OBJETIVO
+--------
+Criar regras claras para trocar avisos entre assentamentos distantes.
+
+QUANDO USAR
+-----------
+Quando dois ou mais assentamentos precisam se avisar.
+Para combinar ajuda, comércio e horários de vigia.
+Quando há risco de mensagem perdida ou mal interpretada.
+Ao receber pessoas de fora que precisam ser identificadas.
+
+NAO USE QUANDO
+--------------
+Não aceite mensagem sem identificar quem envia e quando.
+Não mude regra combinada sem avisar todos os assentamentos.
+Não use protocolo que dependa de uma única pessoa.
+
+MATERIAIS
+---------
+- Caderno para registrar cada mensagem recebida e enviada.
+- Tabela com códigos e nomes de quem fala por cada lugar.
+- Sino, apito ou espelho para chamar a atenção.
+- Mapa com a localização e a distância entre os assentamentos.
+- Recipiente estanque para guardar papéis à prova de chuva.
+
+PROCEDIMENTO
+------------
+1. Reúna um representante de cada assentamento.
+2. Escolha um código curto para identificar cada lugar.
+3. Defina quem fala e quem recebe mensagens em cada assentamento.
+4. Combine o formato: quem envia, quando, o que aconteceu, o que pede.
+5. Crie uma frase de confirmação e outra de "não entendi".
+6. Escreva as regras e distribua uma cópia para cada assentamento.
+7. Defina horários regulares de troca e um sinal para urgência.
+8. Registre no caderno toda mensagem com data e hora.
+9. Repita o combinado em reunião a cada lua cheia.
+10. Atualize a tabela quando um representante mudar.
+11. Guarde o caderno em recipiente estanque e local combinado.
+
+ATENCAO
+-------
+Mensagem sem remetente pode ser armadilha ou engano: confirme.
+Código diferente entre assentamentos gera erro: use a mesma tabela.
+Representante ausente precisa de substituto conhecido.
+Papel molhado perde a escrita: use recipiente fechado.
+Não envie decisão importante sem confirmação de recebimento.
+Se houver divergência, pare e repita a mensagem por mensageiro.
+
+SE NAO TIVER
+------------
+Sem caderno, anote em lasca de madeira ou pedra lisa.
+Sem sino, use apito ou batidas em tambor para chamar.
+Sem mapa, desenhe as distâncias na areia com pedras.
+Sem recipiente, embrulhe o papel em pano e cera.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Mensagens chegam com remetente, hora e pedido claros.
+Cada assentamento confirma o recebimento com a frase combinada.
+Todos usam a mesma tabela de códigos e nomes.
+O caderno está legível, seco e acessível aos representantes.
+
+FONTES
+------
+Prática consolidada de protocolos e avisos entre comunidades isoladas.
+As regras são combinação entre os assentamentos e devem ser escritas,
+ensaiadas e revisadas sempre que os representantes mudarem.

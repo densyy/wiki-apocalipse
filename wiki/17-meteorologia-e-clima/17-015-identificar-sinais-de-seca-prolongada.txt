@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 17-015
+TITULO: Como identificar sinais de seca prolongada
+CATEGORIA: 17 - Meteorologia, clima e meio ambiente
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: caderno, lápis, calendário, acesso visual a poço ou ribeirão
+REVISAO: 2026-11
+PALAVRAS-CHAVE: seca, estiagem, falta de chuva, solo rachado,
+poço baixando, vegetação seca, reservatório
+==============================================================================
+
+OBJETIVO
+---------
+Reconhecer no terreno os sinais de que a falta de chuva deixou de ser
+passageira e virou risco de desabastecimento.
+
+QUANDO USAR
+-----------
+Quando não choveu de forma útil por várias semanas seguidas.
+Quando o poço, a cisterna ou o ribeirão estão baixando.
+Quando o solo abre rachaduras e as plantas murcham.
+Quando o INMET ou a Defesa Civil avisam de baixa umidade do ar.
+Antes de decidir plantio, pastejo ou gasto de água nos próximos dias.
+
+NAO USE QUANDO
+--------------
+Não use para afirmar que a água está potável: a seca concentra sal e
+contaminantes. Não use para autorizar queimada ou fogo no capim. Não use
+para substituir aviso oficial da Defesa Civil, do INMET ou do CEMADEN.
+
+MATERIAIS
+---------
+- Caderno e lápis (papel qualquer, pedra com carvão).
+- Calendário ou relógio (marcas de dias no próprio caderno).
+- Fita, corda ou estaca fina para medir o nível da água.
+- Acesso visual ao poço, cisterna, ribeirão ou represa mais próximo.
+
+PROCEDIMENTO
+------------
+1. Anote a data e conte há quantos dias não choveu de forma útil.
+2. Observe o céu no mesmo horário por vários dias e registre o que vê.
+3. Procure rachaduras no solo, poeira solta e terra clara sem umidade.
+4. Enterre o dedo cerca de 5 cm na terra; note se sai pó em vez de lama.
+5. Observe as plantas: folhas murchas, amareladas ou caindo fora de época.
+6. Compare a vegetação atual com o que era comum nesta época do ano.
+7. Vá ao poço, cisterna ou ribeirão e meça o nível com a fita.
+8. Marque o nível no caderno e repita a medição a cada 7 dias.
+9. Meça outro ponto da mesma região, se houver, e compare os resultados.
+10. Anote a temperatura do meio-dia e o ar seco sentido na pele.
+11. Veja se riachos pequenos secaram e se a lama das margens rachou.
+12. Pise no capim: se quebrar seco e farinhento, registre o sinal.
+13. Compare as anotações: sinais que se repetem e pioram indicam seca
+   em instalação, mesmo antes de faltar água na torneira.
+
+ATENCAO
+-------
+Sinais visíveis aparecem depois do início da seca: servem para agir cedo,
+não para prever a seca com antecedência.
+Ausência de rachadura não prova que há água: solo argiloso e irrigação
+escondem a falta d'água.
+Vegetação amarela pode ser doença, praga ou falta de nutriente, não só
+falta de chuva.
+Poço baixando pode ser bombeamento excessivo, vazamento ou empréstimo de
+água de outro poço, não apenas seca.
+Não declare água potável com base neste método: a seca concentra sal,
+agrotóxico e bactérias.
+Não acenda fogo para testar se o capim está seco; o risco de incêndio é
+alto nesse cenário.
+Se o poço secar, o rio parar ou faltar água na comunidade, procure a
+Defesa Civil e o órgão local de água no mesmo dia.
+
+SE NAO TIVER
+------------
+Sem fita, use corda com nó ou marque a altura na parede do poço.
+Sem acesso ao poço, observe poços de vizinhos e o solo em vários pontos.
+Sem calendário, conte os dias com marcas de pedra ou nós em uma corda.
+Sem caderno, anote os sinais no próprio dia; não confie na memória.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O caderno mostra dias sem chuva, nível de água caindo e mais sinais a
+cada medição.
+Pontos diferentes da região mostram o mesmo sentido de queda.
+É possível dizer, com dados anotados, quando os sinais começaram e se
+pioraram.
+
+FONTES
+------
+WMO (Organização Meteorológica Mundial): seca é período seco
+prolongado; monitoramento por chuva, temperatura, água superficial
+e subterrânea; Handbook of Drought Indicators and Indices (WMO).
+INMET: balanço hídrico e monitoramento de precipitação e umidade do ar.
+CEMADEN: monitoramento e avaliação de impactos da seca e monitoramento
+hidrológico.
+Portal Nacional de Seca dos Estados Unidos (NIDIS/NOAA, USDA e NASA):
+indicadores que combinam chuva, temperatura e umidade do solo.
+Prática de observação de campo consolidada; este texto é resumo
+operacional e não substitui alerta oficial.

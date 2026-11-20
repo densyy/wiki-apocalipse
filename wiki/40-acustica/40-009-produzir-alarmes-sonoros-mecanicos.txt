@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 40-009
+TITULO: Como produzir alarmes sonoros mecânicos
+CATEGORIA: 40 - Acústica e engenharia sonora
+TEMPO: 45 minutos
+RISCO: medio
+EXIGE: furadeira com broca de metal, corda, luvas, óculos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: alarme, sino, campainha, apito, matraca, som, sinal, alerta
+==============================================================================
+
+OBJETIVO
+--------
+Montar um alarme mecânico que produz toque forte sem usar eletricidade.
+
+QUANDO USAR
+-----------
+Quando não há energia para sirene ou campainha elétrica.
+Para avisar pessoas em área externa, oficina ou acampamento.
+Para marcar início e fim de turno sem depender de rádio.
+
+NAO USE QUANDO
+--------------
+Quando o aviso precisa de palavras: o toque não transmite mensagem.
+Sem combinado prévio sobre o significado de cada sequência de toques.
+Perto de gás ou vapor inflamável; impacto de metal pode gerar faísca.
+
+MATERIAIS
+---------
+- Sino, campainha ou tubo de metal oco, limpo e sem rachaduras.
+- Badalo: pedaço pequeno de metal (ou pedra redonda).
+- Corda resistente e suporte (ou arame e viga firme).
+- Furadeira com broca de metal, luvas e óculos de proteção.
+
+PROCEDIMENTO
+------------
+1. Escolha sino, campainha ou tubo de metal oco, limpo e sem rachaduras.
+2. Vista luvas e óculos antes de furar ou martelar.
+3. Marque o centro do topo do sino para o furo de suspensão.
+4. Faça o furo com broca de metal e furadeira, devagar e com firmeza.
+5. Passe a corda pelo furo e dê nó duplo para prender o sino.
+6. Amarre o badalo de metal na ponta de baixo, dentro do sino.
+7. Fixe o suporte em local alto, firme e livre de obstáculos ao redor.
+8. Pendure o sino no suporte e puxe a corda para testar o toque.
+
+ATENCAO
+-------
+O toque é sinal, não substitui aviso por voz nem sirene elétrica.
+Som forte perto do ouvido pode causar perda auditiva; use protetor.
+Luvas e óculos evitam cortes com aparas de metal e lascas de madeira.
+Prenda bem o sino: se cair, pode ferir quem estiver embaixo.
+Badalo pesado racha o sino; use pedaço pequeno e leve.
+
+SE NAO TIVER
+------------
+Sem sino, use tubo de metal oco ou caixa metálica vazia como ressonador.
+Sem broca, prenda a corda com arame enrolado várias vezes na borda.
+Sem suporte, amarre o sino a uma viga ou galho firme com corda dupla.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ao puxar a corda, o badalo bate no metal e faz toque claro e sustentado.
+Três puxões seguidos geram três toques distintos, sem travar nem enrolar.
+
+FONTES
+------
+Prática consolidada de sinalização sonora mecânica (sino, apito, matraca)
+e noções de acústica: vibração do metal e ressonância da cavidade.
+Sem documento único consultado; resumo operacional, não substitui
+treinamento.

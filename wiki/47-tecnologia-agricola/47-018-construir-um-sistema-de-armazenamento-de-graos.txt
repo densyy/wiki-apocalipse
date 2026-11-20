@@ -1,0 +1,97 @@
+==============================================================================
+CODIGO: 47-018
+TITULO: Como construir um sistema de armazenamento de grãos
+CATEGORIA: 47 - Tecnologia agrícola e mecanização rural
+TEMPO: 1 dia
+RISCO: alto
+EXIGE: madeira ou bambu, pedras, cobertura, recipiente vedável, grão seco
+REVISAO: 2026-11
+PALAVRAS-CHAVE: grãos, armazenar, silo, secar, mofo, aflatoxina, ratos
+==============================================================================
+
+OBJETIVO
+--------
+Montar um local elevado, seco e vedado que guarde grãos por meses sem mofo.
+
+QUANDO USAR
+-----------
+Quando sobrar grão da colheita para comer ou plantar depois.
+Quando o grão precisar ficar fora do alcance de ratos, insetos e chuva.
+Quando não houver energia elétrica nem câmara fria.
+Quando o clima for seco e o grão puder ser bem secado ao sol.
+Quando for preciso guardar semente até a próxima safra.
+
+NAO USE QUANDO
+--------------
+Não use com grão verde, úmido ou recém-colhido sem secagem.
+Não use com grão mofado, com cheiro de mofo ou com manchas escuras.
+Não use onde a água da chuva pare ou onde o solo fica encharcado.
+Não use se não der para impedir o acesso de roedores e insetos.
+
+MATERIAIS
+---------
+- Quatro postes de madeira resistente ou bambu (estacas de metal).
+- Tábuas ou varas para o piso (tecido firme esticado).
+- Pedras, tijolos ou blocos para apoiar os postes (base de concreto).
+- Cobertura de palha, zinco ou lona costurada com beiral.
+- Pregos, parafusos ou corda resistente para prender as peças.
+- Lona limpa para secar o grão (pano limpo ou cimento limpo).
+- Peneira ou pano firme para limpar o grão.
+- Recipiente de boca estreita que vede (panela de barro, jarra, saco).
+- Tinta ou etiqueta para escrever a data de entrada.
+
+PROCEDIMENTO
+------------
+1. Escolha o local mais alto, seco e sombreado, longe de cupinzeiros.
+2. Varra o chão, retire restos de grãos e feche fendas e buracos.
+3. Peneire o grão e retire grãos quebrados, mofados, pó e sementes de mato.
+4. Espalhe o grão em camada fina sobre a lona limpa ao sol forte.
+5. Mexa o grão várias vezes e deixe secar até ele estalar ao morder.
+6. Coloque um punhado em frasco de vidro tampado por uma noite.
+7. Se o vidro embaçar, seque mais o grão e repita o teste.
+8. O alvo é menos de 12% de umidade, conforme a FAO.
+9. Apoie cada poste sobre pedra ou tijolo, nunca direto na terra.
+10. Eleve o piso aproximadamente 40 cm se houver cobertura.
+11. Eleve o piso aproximadamente 1 m se o local ficar sem cobertura.
+12. Pregue as tábuas do piso e deixe espaço entre elas para o ar passar.
+13. Monte a cobertura inclinada com beiral que desvie a água da chuva.
+14. Deixe as laterais abertas para o ar circular ao redor do recipiente.
+15. Coloque o grão seco no recipiente e encha até a boca.
+16. Vede a boca com tampa, barro ou nó firme, sem deixar frestas.
+17. Escreva a data no recipiente e guarde o mais antigo na frente.
+18. Confira a cada duas semanas cheiro, mofo, umidade e insetos.
+
+ATENCAO
+-------
+Grão úmido em recipiente fechado apodrece e cria mofo em poucos dias.
+Bolores de Aspergillus produzem aflatoxina que o cozimento não destrói.
+Não coma nem dê aos animais grão com cheiro de mofo ou mancha escura.
+A aflatoxina causa intoxicação grave e aumenta o risco de câncer de fígado.
+Ratos e insetos contaminam o grão com urina, fezes e pelos.
+Nunca use veneno dentro do recipiente nem perto do grão que vai comer.
+Postes enterrados apodrecem e atraem cupins e roedores; apoie em pedra.
+Sem cobertura, a chuva molha o grão; por isso a plataforma mais alta.
+Não abra fossa subterrânea: pode haver gás carbônico e falta de oxigênio.
+
+SE NAO TIVER
+------------
+Sem recipiente vedável, use cesto de bambu ou palha sobre a plataforma.
+Mantenha o cesto coberto e o grão seco; nunca vede grão úmido.
+Sem lona, seque sobre pano limpo ou cimento limpo, nunca no chão de terra.
+Sem medidor, use o teste do frasco e do morder; na dúvida, seque mais.
+Se o grão mofou, descarte: não coma e não dê aos animais.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O grão estala ao morder e não embaça as paredes do frasco tampado.
+Não há pó, grãos quebrados, cheiro de mofo nem manchas escuras.
+A plataforma está firme, os postes não apodrecem e não há fezes de ratos.
+O recipiente está vedado, sem frestas, com a data escrita e sem água.
+Não há insetos voadores nem pó fino sobre a superfície do grão.
+
+FONTES
+------
+Boletim de Serviços Agrícolas 109 da FAO, Grain storage techniques (1994).
+Capítulo 2: mofos e micotoxinas, incluídas as aflatoxinas de Aspergillus.
+Capítulo 6: armazenamento na propriedade e recipientes vedados.
+Guia da FAO sobre plataformas elevadas e grão com menos de 12% de umidade.

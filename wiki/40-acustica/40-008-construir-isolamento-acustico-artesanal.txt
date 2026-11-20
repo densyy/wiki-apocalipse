@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 40-008
+TITULO: Como construir isolamento acústico artesanal
+CATEGORIA: 40 - Acústica e engenharia sonora
+TEMPO: 180 minutos
+RISCO: medio
+EXIGE: ripas de madeira, fibra seca, camada pesada, faca ou serra
+REVISAO: 2026-11
+PALAVRAS-CHAVE: isolamento, acústico, som, parede, absorção, vedação, ruído
+==============================================================================
+
+OBJETIVO
+--------
+Reduzir a passagem de ruído entre dois ambientes com materiais locais.
+
+QUANDO USAR
+-----------
+Quando o barulho externo atrapalha o sono ou a conversa.
+Quando uma parede fina deixa ouvir vozes e passos do outro lado.
+Quando não existe material industrial de isolamento disponível.
+
+NAO USE QUANDO
+--------------
+Quando houver risco de fogo: palha, lã e papel são combustíveis.
+Quando a parede estiver úmida ou com mofo: a fibra apodrece.
+Quando o incômodo for vibração de laje; exige outro tratamento.
+
+MATERIAIS
+---------
+- Ripas ou tábuas de madeira (ou bambu).
+- Fibra seca: lã, algodão, palha picada, aparas ou serragem.
+- Camada pesada: terra compactada, tijolo ou tábua grossa.
+- Vedante: argila, massa de calafetar ou pano com cola.
+- Pregos, corda ou cavilhas; faca ou serra, martelo e furador.
+
+PROCEDIMENTO
+------------
+1. Meça a parede e marque onde a nova divisória ficará.
+2. Fixe ripas verticais na parede com pregos ou cavilhas.
+3. Deixe aproximadamente 5 cm entre as ripas e a parede.
+4. Preencha esse espaço com a fibra seca, sem deixar vazios.
+5. Feche as ripas com lona, papelão ou pano firme.
+6. Aplique a camada pesada por cima: terra, tijolos ou tábuas.
+7. Vede frestas, bordas e emendas com argila ou calafete.
+8. Cubra caixas de luz e passagens de fio com argila.
+
+ATENCAO
+-------
+Poeira de fibra irrita pele, olhos e pulmões; use pano no rosto.
+Palha, lã e papel são combustíveis: afaste fogo e calor.
+Ferramentas de corte ferem; corte com calma, longe do corpo.
+Parede úmida apodrece a fibra e cria mofo: não instale nela.
+O método reduz som aéreo, não elimina vibração estrutural.
+Com ardência nos olhos ou cheiro de mofo, pare e ventile.
+
+SE NAO TIVER
+------------
+Sem fibra, use aparas de madeira, serragem seca ou palha picada.
+Sem camada pesada, empilhe sacos de terra ou tapetes velhos.
+Sem vedante, amasse argila com água e aplique nas frestas.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Com som do outro lado, o ruído ouvido fica claramente menor.
+Ao passar a mão nas bordas, não há frestas com ar ou luz.
+
+FONTES
+------
+Prática consolidada de acústica arquitetônica: massa, desacoplamento,
+absorção e vedação. EPA: qualidade do ar interno. Sem documento único.

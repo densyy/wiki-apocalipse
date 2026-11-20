@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 70-008
+TITULO: Como criar um sistema de busca de documentos
+CATEGORIA: 70 - Computação de baixo consumo e preservação digital
+TEMPO: 40 minutos
+RISCO: baixo
+EXIGE: documentos, caderno ou arquivo de texto, algo para escrever
+REVISAO: 2026-11
+PALAVRAS-CHAVE: busca, documentos, indice, catalogo, localizar, arquivo
+==============================================================================
+
+OBJETIVO
+--------
+Montar um indice que permite achar qualquer documento guardado em poucos
+minutos, com papel e caneta ou com um computador simples.
+
+QUANDO USAR
+-----------
+Quando há muitos documentos e ninguém lembra onde cada um foi guardado.
+Quando o tempo é curto e não há internet nem energia para uma busca online.
+
+NAO USE QUANDO
+--------------
+Quando há só dois ou três documentos: o indice dá trabalho sem ganho.
+Quando o documento é sigiloso: guarde o indice junto com os documentos.
+
+MATERIAIS
+---------
+- Documentos a organizar e algo para escrever.
+- Caderno ou arquivo de texto simples.
+- Pasta ou caixa para guardar os documentos.
+
+PROCEDIMENTO
+------------
+1. Reúna todos os documentos em um só lugar e separe por assunto.
+2. Dê a cada documento um código curto e único, como A-01 ou A-02.
+3. Escreva o código no canto de cima de cada documento, a lápis.
+4. Abra o caderno ou crie um arquivo de texto chamado INDICE.
+5. Escreva uma linha por documento: código, título, palavras-chave, local.
+6. Use a mesma palavra para o mesmo assunto, como "água" ou "saúde".
+7. Para buscar, leia o indice até achar a palavra do assunto.
+8. No computador, use a função localizar (Ctrl+F) no arquivo INDICE.
+9. Anote código e local da linha e confira com o documento antes de usar.
+10. Ao guardar documento novo, escreva a linha no indice na hora.
+
+ATENCAO
+-------
+O indice desatualizado engana: pode apontar para documento perdido.
+O indice não protege o documento: faça copia separada.
+Nunca reuse um código: códigos repetidos quebram a busca.
+Se o indice não achar o documento, pare e procure quem guardou o material.
+
+SE NAO TIVER
+------------
+Sem caderno, use um arquivo de texto com o mesmo formato de linhas.
+Sem computador, a busca no papel é ler as palavras-chave, linha a linha.
+Com computador, use a função localizar; acervos grandes pedem indice FTS5.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Todo documento tem código escrito e uma linha correspondente no indice.
+Ao procurar uma palavra-chave, o indice aponta para o documento certo.
+O código do indice confere com o código do documento encontrado.
+
+FONTES
+------
+Pratica consolidada de catalogação e preservação digital, conforme o Manual
+de Preservação Digital da Digital Preservation Coalition (DPC).
+Indice de texto completo segundo a documentação do SQLite (extensão FTS5).
+Este texto é um resumo operacional e não substitui treinamento em arquivo.

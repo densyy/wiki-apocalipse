@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 42-009
+TITULO: Como construir um sistema de propulsão manual
+CATEGORIA: 42 - Engenharia naval e tecnologias marítimas
+TEMPO: 180 minutos
+RISCO: alto
+EXIGE: madeira longa seca, pino, corda, ferramentas de corte, popa firme
+REVISAO: 2026-11
+PALAVRAS-CHAVE: propulsão, yuloh, remo de vaivém, alavanca, pá, popa, barco
+==============================================================================
+
+OBJETIVO
+--------
+Construir um remo de vaivém na popa para mover um barco sem motor.
+
+QUANDO USAR
+-----------
+Quando o barco não tem motor e os remos quebraram ou se perderam.
+Quando falta espaço para remar ao lado da embarcação.
+Quando é preciso mover o barco em água calma com pouca força.
+Quando se quer manter as mãos livres para pescar ou dirigir.
+
+NAO USE QUANDO
+--------------
+Não use em mar aberto, correnteza, vento forte ou ondas.
+Sistema improvisado não substitui propulsão certificada nem teste.
+Navegar sem propulsão confiável pode matar por afogamento.
+Não use se a madeira estiver rachada ou se o pino estiver solto.
+Não use se não houver colete salva-vidas para cada pessoa a bordo.
+
+MATERIAIS
+---------
+- Haste longa de madeira seca, leve e de veio reto (vara de bambu).
+- Tábua larga e fina para a pá (remo velho sem defeitos).
+- Pino vertical de madeira dura ou ferro (varão de metal).
+- Corda resistente e sem desfiamento (cabo de fibra).
+- Pregos, parafusos ou cinta de metal para fixar o pino.
+- Serra, machado, faca, plaina e lixa (ferramentas basicas).
+- Óleo de linhaça ou verniz para vedar a madeira (óleo de cozinha).
+- Colete salva-vidas para cada pessoa a bordo.
+
+PROCEDIMENTO
+------------
+1. Escolha a haste com aproximadamente o dobro da largura da popa.
+2. Desbaste a haste com machado até formar um octógono.
+3. Arredonde a haste com faca e lixa até ficar lisa na mão.
+4. Serre a pá com aproximadamente 60 cm por 20 cm na ponta da haste.
+5. Afine a pá até aproximadamente 1 cm na borda e arredonde os cantos.
+6. Marque o ponto de apoio entre o meio da haste e a mão.
+7. Entalhe uma cavidade na face de baixo da haste nesse ponto.
+8. A cavidade deve ser um pouco maior que a ponta do pino.
+9. Fixe o pino na popa, bem apertado e na vertical.
+10. Encaixe a cavidade no pino; a haste deve equilibrar-se sozinha.
+11. Amarre uma corda da mão até um ponto firme no convés.
+12. Ajuste a corda até a pá ficar levemente inclinada na água.
+13. Lixe e vede toda a madeira; deixe a mão sem tinta.
+14. Teste em água rasa e parada, com colete para cada pessoa.
+15. Empurre a mão para um lado e puxe para o outro em arco contínuo.
+16. Mantenha a pá na água; não levante a haste entre os movimentos.
+17. Para virar, mude o ângulo da pá inclinando mais a corda.
+
+ATENCAO
+-------
+Ferramentas de corte ferem: mantenha as mãos fora da linha de corte.
+Pino solto ou cavidade larga soltam a haste e deixam o barco sem força.
+Corda curta trava a pá; corda longa demais não dá ângulo de empuxo.
+Pá larga ou fina demais quebra e pode ferir quem estiver a bordo.
+Não ponha as mãos perto da pá enquanto ela estiver na água.
+Use colete salva-vidas: afogamento é o risco principal em água profunda.
+Se a haste rachar ou o pino soltar, pare e procure ajuda.
+
+SE NAO TIVER
+------------
+Sem tábua larga, una duas tábuas com pregos e travessas.
+Sem pino de ferro, use madeira dura sem nós e mais grossa.
+Sem corda, use cinto ou tira de pano resistente e sem desfiamento.
+Sem óleo de linhaça, use verniz comum ou óleo de cozinha.
+Sem pino firme na popa, não navegue: improvise um remo comum (42-008).
+
+COMO SABER QUE DEU CERTO
+------------------------
+A haste fica equilibrada no pino, sem cair para nenhum lado.
+A pá permanece submersa e inclinada durante todo o arco.
+O barco avança com empuxo tanto no empurre como no puxão.
+A haste gira no pino sem folga e sem sair do lugar.
+
+FONTES
+------
+Prática consolidada de propulsão manual por remo de vaivém (yuloh),
+registrada em Science and Civilisation in China, de Needham e
+Gwei-Djen (Cambridge University Press), em Ancient Boats in
+North-West Europe, de Sean McGrail (Routledge), e na descrição
+técnica de sculling de Ben Meakins, Practical Boat Owner.
+Recomendação de colete salva-vidas da Divisão de Segurança de
+Navegação Recreativa da Guarda Costeira dos EUA.
+Medidas aproximadas; resumo operacional, não substitui treinamento.

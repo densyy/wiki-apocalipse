@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 09-004
+TITULO: Como construir uma antena de rádio
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: fio, isoladores, linha de alimentação, suporte, rádio receptor
+REVISAO: 2026-11
+PALAVRAS-CHAVE: antena, rádio, rádio FM, fio, dipolo, recepção, sinal
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma antena de dois fios iguais (dipolo) para ouvir melhor o rádio.
+
+QUANDO USAR
+-----------
+Quando o rádio receptor capta pouco sinal de FM ou de onda curta.
+Quando a antena original quebrou e há fio e isolamento disponíveis.
+
+NAO USE QUANDO
+--------------
+Há fios de energia ou linhas de transmissão no local da instalação.
+Durante tempestade com raios, ou em telhado sem proteção contra queda.
+
+MATERIAIS
+---------
+- Fio de cobre nu ou isolado, reto, sem emendas (arame de cerca serve).
+- Isoladores: dois para as pontas e um central (plástico, cerâmica).
+- Linha de alimentação: cabo coaxial ou fita plana, conforme o rádio.
+- Suporte firme: árvore, mastro ou varão de madeira.
+- Rádio receptor com entrada para antena.
+
+PROCEDIMENTO
+------------
+1. Escolha a frequência central; para FM use 100 MHz.
+2. Calcule o total: 143 dividido pela frequência em MHz.
+3. Para FM em 100 MHz, o total fica em aproximadamente 1,4 metro.
+4. Corte o fio e divida em duas pernas de aproximadamente 0,7 metro.
+5. Prenda cada ponta em um isolador de extremidade.
+6. Prenda as duas pernas ao isolador central, uma de cada lado.
+7. Ligue cada lado do isolador central a um condutor da linha.
+8. Ligue a linha ao rádio; não deixe os condutores se tocarem.
+9. Prenda as pontas no suporte, longe de metal, muros e da terra.
+10. Aponte o fio de lado ao transmissor e ajuste até o chiado diminuir.
+
+ATENCAO
+-------
+Fios de energia matam: nunca instale perto ou sob linha elétrica.
+Se o fio tocar a rede, solte tudo e não encoste mais na antena.
+Raios matam: em tempestade, desligue a antena e entre em casa.
+Altura causa queda: use suporte firme e peça ajuda antes de subir.
+Não ligue a antena a um transmissor sem licença e sem saber o que faz.
+
+SE NAO TIVER
+------------
+Sem isolador, use pedra, plástico duro ou madeira seca presa com corda.
+Sem coaxial ou fita plana, use dois fios paralelos com espaçadores.
+Sem mastro, estique entre duas árvores ou entre árvore e parede.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O rádio capta mais estações e com menos chiado do que sem a antena.
+Ao girar a antena, o sinal sobe e desce de forma clara.
+
+FONTES
+------
+American Radio Relay League (ARRL), literatura técnica sobre antenas.
+Fórmula do dipolo: comprimento em metros = 143 / frequência em MHz.
+National Weather Service (NOAA), orientações de segurança contra raios.

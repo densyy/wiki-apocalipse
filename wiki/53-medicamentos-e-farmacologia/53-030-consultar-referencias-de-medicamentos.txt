@@ -1,0 +1,91 @@
+==============================================================================
+CODIGO: 53-030
+TITULO: Como consultar referências de medicamentos offline
+CATEGORIA: 53 - Produção de medicamentos e farmacologia
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: referência impressa ou arquivo salvo, caderno, caneta
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bula, farmacopeia, formulário, genérico, remédio, offline
+==============================================================================
+OBJETIVO
+--------
+Confirme dados de um remédio em fontes impressas, sem internet.
+
+QUANDO USAR
+-----------
+Ao estar sem sinal ou sem energia e precisar conferir um remédio.
+Ao receber medicamento doado e conferir o nome e a validade na bula.
+Ao conferir o princípio ativo de um genérico pelo nome da substância.
+Ao checar contraindicações e interações antes de usar um remédio.
+Ao confirmar a posologia prescrita em um formulário impresso.
+Ao preparar uma lista de medicamentos para uma farmácia de emergência.
+
+NAO USE QUANDO
+--------------
+Não use para escolher tratamento ou calcular dose sem prescrição.
+Não substitui farmacêutico, médico nem a bula vigente do produto.
+Não use referência antiga para decidir o que dar a uma criança.
+Não use para preparar remédio caseiro a partir de uma monografia.
+Não confie em receita copiada de memória ou de fonte sem autoria.
+
+MATERIAIS
+---------
+- Formulário terapêutico impresso (Rename, FTN ou lista da OMS).
+- Bulas impressas ou arquivos de bula salvos no celular.
+- Farmacopeia impressa, se disponível.
+- Caderno e caneta para anotar o que encontrar.
+- Rótulo ou embalagem do medicamento em mãos.
+
+PROCEDIMENTO
+------------
+1. Identifique o medicamento pelo princípio ativo, não pelo nome comercial.
+2. Leia o rótulo e anote o nome, o lote e a data de validade.
+3. Escolha a referência mais recente que você possui.
+4. Anote o título, a edição e o ano da fonte consultada.
+5. Abra o índice e procure o princípio ativo pelo nome exato.
+6. Confira sinônimos e nomes genéricos no índice, se o termo não aparecer.
+7. Leia a indicação e a forma farmacêutica descritas na referência.
+8. Anote as contraindicações e as precauções listadas.
+9. Anote as interações com outros remédios e com alimentos.
+10. Anote os sinais de intoxicação e o que fazer diante deles.
+11. Confira a posologia apenas para confirmar o que foi prescrito.
+12. Cruzate com outra fonte impressa quando houver divergência.
+13. Registre no caderno a fonte e a página de cada dado anotado.
+14. Separe o que a fonte diz do que você apenas deduziu.
+15. Guarde o caderno junto com os medicamentos.
+
+ATENCAO
+-------
+Uma referência desatualizada pode trazer dose ou contraindicação errada.
+Bula de outro país pode ter normas diferentes das do Brasil.
+Nunca calcule dose infantil de memória: isso mata.
+Se o rótulo estiver ilegível ou sem validade, não use o produto.
+Não improvise tratamento a partir de texto de farmacopeia.
+Diante de falta de ar, convulsão ou desmaio, pare e busque ajuda.
+Em dúvida, não use até confirmar o dado com um profissional.
+
+SE NAO TIVER
+------------
+Sem formulário, use a bula impressa que veio na embalagem.
+Sem bula, use a lista de medicamentos essenciais impressa mais recente.
+Sem papel, abra o arquivo salvo no celular ou em pen drive.
+Sem fonte confiável, diga que não sabe em vez de inventar o dado.
+Nunca substitua uma referência ausente por lembrança ou palpite.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você localiza o princípio ativo no índice da fonte escolhida.
+Você cita o título, a edição e o ano da referência usada.
+Você aponta a página onde estão contraindicações e interações.
+Você separa o que a fonte afirma daquilo que deduziu.
+Você confere a posologia com a prescrição sem alterá-la.
+
+FONTES
+------
+Relação Nacional de Medicamentos Essenciais, do Ministério da Saúde.
+Formulário Terapêutico Nacional, do Ministério da Saúde.
+Farmacopeia Brasileira, da Anvisa, edição vigente e atualizações.
+Lista Modelo de Medicamentos Essenciais e Formulário Modelo da OMS.
+Bulas aprovadas pela Anvisa para cada produto registrado.
+Resumo educativo; não substitui a bula vigente nem orientação profissional.

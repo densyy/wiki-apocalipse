@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 37-020
+TITULO: Como produzir mapas de risco de uma comunidade
+CATEGORIA: 37 - Cartografia, topografia e levantamento
+TEMPO: 180 minutos
+RISCO: medio
+EXIGE: papel, lápis, moradores disponíveis, dia seco
+REVISAO: 2026-11
+PALAVRAS-CHAVE: risco, mapa, comunidade, evacuação, perigo, defesa civil
+==============================================================================
+
+OBJETIVO
+--------
+Produzir um mapa com áreas perigosas, rotas de saída e pontos de apoio.
+
+QUANDO USAR
+-----------
+Quando a comunidade não conhece suas áreas de enchente ou deslizamento.
+Antes da estação de chuvas, para escolher rotas de saída.
+Quando moradores e poder público precisam de um ponto de partida comum.
+
+NAO USE QUANDO
+--------------
+Não use o mapa caseiro no lugar de laudo técnico da Defesa Civil.
+
+MATERIAIS
+---------
+- Folha de papel grande ou caderno.
+- Lápis e borracha (ou caneta, se o traço puder ser apagado).
+- Moradores de pelo menos três ruas diferentes.
+- Dia seco e luz natural para a caminhada.
+
+PROCEDIMENTO
+------------
+1. Reúna moradores de ruas diferentes em um ponto conhecido.
+2. Desenhe no papel as ruas, o rio, as encostas e os prédios.
+3. Marque referências: escola, posto de saúde, igreja.
+4. Pergunte onde a água já subiu e onde a terra já desceu.
+5. Anote cada relato com a data aproximada e quem relatou.
+6. Caminhe em dia seco e confira os pontos marcados de longe.
+7. Marque os níveis com letras: A alto, M médio, B baixo.
+8. Trace a rota de saída de cada rua até o ponto mais alto.
+9. Marque onde moram idosos e pessoas com dificuldade de andar.
+10. Marque pontos de água, abrigo e telefone.
+11. Leve o mapa à Defesa Civil ou à prefeitura para conferir.
+12. Afixe uma cópia em local visível no ponto de encontro.
+
+ATENCAO
+-------
+O mapa caseiro não substitui laudo técnico da Defesa Civil.
+Não entre em encosta rachada nem em margem erodida de rio.
+Relatos podem exagerar ou subestimar o risco; registre quem falou e quando.
+Mapa desatualizado indica rota errada; refaça após chuva forte ou reforma.
+Pare e avise a Defesa Civil se houver deslizamento ou enchente em curso.
+
+SE NAO TIVER
+------------
+Sem papel grande, desenhe por partes em caderno e junte as folhas depois.
+Sem moradores, marque no mapa o que não pôde ser verificado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O mapa mostra ruas, áreas marcadas, rotas de saída e pontos de apoio.
+Três moradores de ruas diferentes apontam a rota sem olhar o mapa.
+
+FONTES
+------
+UFJF: mapeamento comunitário de riscos (2025); revista Territorium (2026);
+Ministério da Integração (MDR): boas práticas de mapeamento de risco.
+Prática consolidada de defesa civil; este resumo não substitui treinamento.

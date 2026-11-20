@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 52-011
+TITULO: Como compreender o funcionamento de sifões
+CATEGORIA: 52 - Física aplicada e princípios fundamentais
+TEMPO: 25 minutos
+RISCO: baixo
+EXIGE: mangueira flexível, dois recipientes, água, apoio firme
+REVISAO: 2026-11
+PALAVRAS-CHAVE: sifão, escorva, gravidade, pressão, altura, água, tubo
+==============================================================================
+
+OBJETIVO
+--------
+Explicar e montar um sifão que esvazia um recipiente sem bomba.
+
+QUANDO USAR
+-----------
+Quando quiser esvaziar um balde sem incliná-lo.
+Quando precisar passar água por cima de uma borda ou muro.
+Quando vir um sifão em caixa d'água, vaso sanitário ou irrigação.
+Quando a água parecer subir contra a gravidade dentro do tubo.
+Quando precisar explicar o efeito para outra pessoa.
+
+NAO USE QUANDO
+--------------
+Não use este tubo para sugar líquido tóxico, inflamável ou quente.
+Não use gasolina, ácido, agrotóxico nem líquido de origem desconhecida.
+Não use para dimensionar tubulação real nem substituir laudo técnico.
+Não há contraindicação para observar o efeito com água limpa.
+
+MATERIAIS
+---------
+- Mangueira flexível de 1 a 2 m, de preferência transparente (ou tubo).
+- Recipiente alto cheio de água e recipiente baixo vazio (ou bacia).
+- Água limpa para encher a mangueira e os recipientes.
+- Apoio firme para manter o topo da mangueira acima da borda.
+- Caderno para anotar as observações (ou papel).
+
+PROCEDIMENTO
+------------
+1. Encha a mangueira inteira com água, sem deixar bolhas de ar.
+2. Feche as duas pontas com os dedos para não derramar.
+3. Coloque uma ponta dentro do recipiente alto, perto do fundo.
+4. Apoie o meio da mangueira na borda, formando um U invertido.
+5. Leve a outra ponta para dentro do recipiente mais baixo.
+6. Confirme que a ponta de saída está mais baixa que a superfície da água.
+7. Retire os dedos das duas pontas ao mesmo tempo.
+8. Observe a água subir no ramo curto e descer no ramo longo.
+9. Entenda: o ramo longo pesa mais e puxa a água do outro lado.
+10. Anote: a gravidade move a água; o tubo só mantém a coluna unida.
+11. Anote: quanto maior a queda, mais rápido o fluxo na saída.
+12. Anote: o topo do tubo não pode passar de aproximadamente 10 m
+13. acima da superfície da água, ao nível do mar.
+14. Levante a ponta de entrada fora da água e veja o fluxo parar.
+
+ATENCAO
+-------
+A água sobe porque a coluna descendente puxa, não sobe sozinha.
+Sem o tubo cheio, o ar no topo impede o fluxo: escorve (encha) primeiro.
+Nunca sugar com a boca líquido tóxico, inflamável ou quente.
+Gasolina e agrotóxico não devem ser sifonados por sucção bucal.
+Se o topo ficar alto demais, a pressão cai e o líquido ferve.
+Nasce cavitação (bolhas de vapor) e a coluna de água se rompe.
+O limite de aproximadamente 10 m é ao nível do mar e cai na altitude.
+O fluxo para quando a entrada sai da água ou os níveis se igualam.
+Não use borda cortante nem vidro frágil: pode cortar ou ferir.
+
+SE NAO TIVER
+------------
+Sem mangueira, use tubo de irrigação ou mangueira de jardim.
+Sem apoio, peça a outra pessoa para segurar o topo da mangueira.
+Sem recipiente baixo, use uma bacia, um balde ou um poço aberto.
+Sem água limpa, use outro líquido não perigoso apenas para observar.
+Não improvise com tubo de vidro rígido: há risco de corte.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água escorre pela ponta baixa sem bomba e sem inclinar o recipiente.
+Você vê a coluna subir no ramo curto e descer no ramo longo.
+O fluxo para quando a entrada sai da água ou os níveis se igualam.
+Você aponta qual ponta está mais baixa e explica o porquê.
+
+FONTES
+------
+Princípio do sifão: Encyclopaedia Britannica, verbete siphon; Physics
+LibreTexts, seção 52.5 The Siphon; demonstração de sifão da Harvard
+Natural Sciences; apostila de Hidráulica Aplicada da UFC; artigo The
+height limit of a siphon, Scientific Reports (2015). Prática consolidada
+de ensino de física, sem documento único.

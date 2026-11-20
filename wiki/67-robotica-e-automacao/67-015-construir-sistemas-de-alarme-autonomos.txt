@@ -1,0 +1,82 @@
+==============================================================================
+CODIGO: 67-015
+TITULO: Como construir sistemas de alarme autônomos
+CATEGORIA: 67 - Robótica, automação e controle
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: noções básicas de eletrônica, multímetro, bateria de baixa tensão
+REVISAO: 2026-11
+PALAVRAS-CHAVE: alarme, sensor, bateria, autônomo, alerta, disparo, apito
+==============================================================================
+
+OBJETIVO
+--------
+Montar um alarme a bateria que avisa quando o local vigiado muda.
+
+QUANDO USAR
+-----------
+Quando a energia da rede falha ou não existe no local.
+Para avisar a abertura de porta, portão ou tampa.
+Para detectar subida de água ou vazamento.
+Para vigiar um acampamento, depósito ou área isolada.
+
+NAO USE QUANDO
+--------------
+Para fumaça ou monóxido de carbono, use detector certificado.
+Este alarme caseiro não substitui esse aparelho.
+Quando não houver ninguém para ouvir e agir ao som do alarme.
+
+MATERIAIS
+---------
+- Bateria de 6 V ou 9 V (pilhas, ou bateria recarregável com carregador).
+- Buzzer ativo ou sirene de baixa tensão (lâmpada de baixa tensão).
+- Sensor de contato: reed switch com imã (ou duas chapinhas de metal).
+- Chave liga/desliga (interruptor geral).
+- Fios finos isolados e fita isolante.
+- Multímetro para conferir tensão e continuidade.
+- Caixa plástica para abrigar bateria e buzzer.
+
+PROCEDIMENTO
+------------
+1. Escolha bateria de baixa tensão e nunca ligue nada à rede elétrica.
+2. Meça a bateria com o multímetro; descarte se estiver fraca.
+3. Ligue um fio ao polo positivo e outro ao polo negativo.
+4. Instale a chave liga/desliga no fio positivo, em série.
+5. Ligue o buzzer depois da chave; buzzer ativo tem polo + e polo -.
+6. Ligue o sensor depois do buzzer, até chegar ao polo negativo.
+7. Fixe o reed switch no batente e o imã na porta, frente a frente.
+8. Isole cada emenda com fita; não deixe cobre exposto se tocar.
+9. Feche a chave e aproxime o imã: o buzzer deve tocar.
+10. Afaste o imã e confirme que o som para.
+11. Ajuste a distância até disparar só com a porta realmente aberta.
+12. Coloque bateria e buzzer na caixa, protegidos de chuva e impacto.
+13. Desligue a chave quando não for usar, para poupar a bateria.
+
+ATENCAO
+-------
+Use só baixa tensão; nunca encoste estes fios na rede elétrica.
+Baterias vazam e corroem: confira os polos e não deixe fios soltos.
+Buzzer ativo tem polaridade; ligue o terminal + ao fio positivo.
+Fio cortado ou emenda ruim pode impedir o disparo: teste sempre.
+O som não chega longe; combine com sinal visual ou alguém de vigia.
+Falsos alarmes repetidos cansam quem escuta: ajuste o sensor.
+Não use este alarme como único aviso de incêndio ou gás.
+
+SE NAO TIVER
+------------
+Sem buzzer, use lâmpada de baixa tensão ou sino acionado por relé.
+Sem reed switch, use duas chapinhas de metal que se encostam.
+Para água, use duas placas separadas: a água fecha o contato.
+Sem bateria, não ligue na rede; use pilhas ou painel solar com regulador.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Com a chave ligada, o buzzer toca assim que o sensor é acionado.
+Ao afastar o imã ou secar as placas, o som para.
+O multímetro mostra tensão nos polos do buzzer apenas no disparo.
+
+FONTES
+------
+Prática consolidada de eletrônica e automação de baixa tensão,
+sem documento único de referência.
+Para detectores de fumaça e gás, siga o manual do equipamento certificado.

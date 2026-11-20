@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 56-003
+TITULO: Como compreender dominância genética
+CATEGORIA: 56 - Reprodução, genética e melhoramento
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: papel, caneta ou lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: dominância, genética, alelo, herança, genótipo, fenótipo
+==============================================================================
+
+OBJETIVO
+---------
+Entenda como prever características dos descendentes a partir dos pais.
+
+QUANDO USAR
+-----------
+Quando for escolher sementes ou animais para a próxima geração.
+Quando uma característica boa some em alguns descendentes.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+Não se aplica a características de muitos genes ou do ambiente.
+
+MATERIAIS
+---------
+- Papel para desenhar a grade.
+- Caneta ou lápis para anotar os alelos.
+- Lista das características dos pais e dos descendentes, se houver.
+
+PROCEDIMENTO
+------------
+1. Escolha uma característica com duas formas visíveis.
+2. Defina gene como a unidade da herança e alelo como cada versão dele.
+3. Use um alelo do pai e outro da mãe; esse par é o genótipo.
+4. Observe o fenótipo: a forma dominante aparece com um alelo só.
+5. Marque a forma recessiva: aparece só com os dois alelos recessivos.
+6. Escreva os genótipos dos pais: A é dominante, a é recessivo.
+7. Desenhe uma grade com duas linhas e duas colunas.
+8. Coloque os alelos de um pai sobre as colunas e os da mãe nas linhas.
+9. Preencha cada casa com o alelo da coluna e o da linha.
+10. Conte as casas: com A, forma dominante; só com aa, forma recessiva.
+11. Divida por quatro o número de casas de cada forma.
+
+ATENCAO
+-------
+Nem toda característica segue dominância simples.
+Um alelo dominante não é o mais comum nem o mais forte.
+Dominante não quer dizer melhor: pode esconder algo indesejado.
+Não use o modelo para prever doenças sem um profissional.
+Probabilidade não é garantia: 50% não dá metade exata dos filhotes.
+
+SE NAO TIVER
+------------
+Sem papel, desenhe a grade no chão com gravetos e use pedras como alelos.
+Sem saber o genótipo dos pais, observe os descendentes por duas gerações.
+Se a forma recessiva aparecer, ambos os pais carregavam o alelo recessivo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A grade tem quatro casas preenchidas e cada casa mostra um genótipo.
+A soma das casas dominantes e recessivas fecha em quatro.
+Ao olhar a prole, aponte qual par de pais gerou cada forma.
+
+FONTES
+------
+Glossário de Termos Genéticos do NHGRI.
+Learn.Genetics, Universidade de Utah: dominância e quadrados de Punnett.
+Livro Concepts of Biology da OpenStax, capítulo sobre as leis de Mendel.

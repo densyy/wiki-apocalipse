@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 90-002
+TITULO: Como reconhecer vazamentos de substâncias perigosas
+CATEGORIA: 90 - Emergências químicas, industriais e ambientais
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: distância, observação visual, noção do vento e acionamento de ajuda
+REVISAO: 2026-11
+PALAVRAS-CHAVE: vazamento, gás, químico, cheiro, corrosivo, evacuação
+==============================================================================
+
+OBJETIVO
+--------
+Perceber sinais de vazamento de substâncias perigosas e agir cedo para
+evitar intoxicação, queimaduras e contaminação de pessoas e do ambiente.
+
+QUANDO USAR
+-----------
+Ao sentir cheiro forte, adocicado, amendoado ou de amêndoas no ar.
+Quando houver névoa, vapor, fumaça ou líquido saindo de tanques e canos.
+Se pessoas próximas apresentarem tontura, náusea, tosse ou irritação.
+Ao ver líquido derramado em solo, água ou estrada, sem identificação.
+Depois de alerta oficial ou sirene de emergência química na região.
+
+NAO USE QUANDO
+--------------
+Não tente identificar o produto pela aproximação do nariz ou pela pele.
+Não pise, não ingira e não toque em líquido ou pó suspeito.
+Não use chama, fósforo ou cigarro perto de vapor inflamável.
+Não abra janelas voltadas para a nuvem de gás ou vapor.
+
+MATERIAIS
+---------
+- Celular para acionar bombeiros, defesa civil e serviço de saúde.
+- Rádio com pilhas para acompanhar avisos oficiais.
+- Pano, sabão e água corrente para lavar contato leve com a pele.
+- Máscara e luvas descartáveis, se já disponíveis e com treino de uso.
+- Fita ou pano para vedar frestas de portas e janelas, se necessário.
+- Caderno para anotar hora, local e sintomas observados.
+
+PROCEDIMENTO
+------------
+1. Interrompa a atividade e afaste-se do local suspeito imediatamente.
+2. Observe de longe a origem, a cor da nuvem e a direção do vento.
+3. Mova-se sempre a favor do vento e para área alta, se possível.
+4. Avisa outras pessoas próximas sem gritar e sem correr em pânico.
+5. Acione os bombeiros e informe local, cheiro, cor e sintomas.
+6. Entre em ambiente fechado se a nuvem se aproximar e feche tudo.
+7. Vede frestas com pano úmido, se orientado e sem risco de exposição.
+8. Desligue motores, ventiladores e sistemas que puxem ar externo.
+9. Tire roupas contaminadas sem passar pelo rosto e coloque em saco.
+10. Lave pele e olhos com água corrente por alguns minutos.
+11. Procure atendimento médico se houver sintomas, mesmo que leves.
+12. Aguarde liberação oficial antes de voltar ao local.
+
+ATENCAO
+-------
+Alguns gases são mais pesados que o ar e se acumulam em valas, porões e
+subsolos: evite esses locais e áreas baixas durante o vazamento.
+Cheiro pode desaparecer enquanto o gás continua perigoso: não confie nele.
+Vapores inflamáveis podem queimar à distância: não use fogo nem faça barulho
+que gere faísca perto da área atingida.
+Se alguém desmaiou no local, não entre para resgatar sem equipamento:
+chame bombeiros e informe a posição da vítima.
+Crianças, gestantes e idosos são mais sensíveis e devem sair primeiro.
+
+SE NAO TIVER
+------------
+Sem máscara adequada, saia da área e mantenha pano úmido no rosto apenas
+enquanto caminha para lugar seguro.
+Sem água corrente, não esfregue os olhos: cubra e procure atendimento.
+Sem informação sobre o produto, trate toda substância desconhecida como
+perigosa e mantenha distância.
+Sem sinal de telefone, peça ajuda a vizinho ou vá a posto de saúde.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você se afastou a favor do vento e evitou áreas baixas e fechadas.
+O vazamento foi comunicado aos bombeiros com local e sinais descritos.
+Não houve contato com a substância nem inalação prolongada.
+Todos foram orientados e receberam atendimento se apresentaram sintomas.
+
+FONTES
+------
+Resumo operacional de segurança química: guias de bombeiros e defesa civil
+para vazamentos de substâncias perigosas, fichas de segurança de produtos
+químicos e orientações do SUS para intoxicações e emergências ambientais.

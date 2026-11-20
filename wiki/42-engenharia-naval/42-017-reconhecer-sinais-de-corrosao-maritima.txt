@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 42-017
+TITULO: Como reconhecer sinais de corrosão marítima
+CATEGORIA: 42 - Engenharia naval e tecnologias marítimas
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: boa luz, acesso seguro à estrutura, luvas e proteção ocular
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ferrugem, pite, corrosão, marítimo, água salgada, inspeção
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer visualmente sinais de corrosão em estruturas metálicas no mar.
+
+QUANDO USAR
+-----------
+Ao inspecionar casco, convés, estacas de cais ou plataforma após maré.
+Antes de pisar, atracar ou prender carga em estrutura metálica no mar.
+Ao ver tinta bolhosa, lodo ou mancha alaranjada perto da linha d'água.
+
+NAO USE QUANDO
+--------------
+Não use como laudo de segurança. Este procedimento só reconhece o que
+é visível: não mede espessura nem substitui avaliação de engenheiro.
+
+MATERIAIS
+---------
+- Lanterna (luz do celular encostada na superfície).
+- Régua ou fita métrica (palito ou arame de tamanho conhecido).
+- Escova dura, pano limpo, luvas e proteção ocular.
+- Caderno, lápis e giz ou fita para marcar o local.
+
+PROCEDIMENTO
+------------
+1. Escolha ponto seguro: fora d'água, longe de bordas e de carga suspensa.
+2. Aproxime a lanterna em ângulo raso para revelar relevo e furos.
+3. Limpe pequena área com escova e pano; não use ácido nem lixa.
+4. Observe a área limpa: ferrugem alaranjada e tinta bolhosa são sinais.
+5. Procure pites: pequenos furos ou covas, isolados ou em grupo.
+6. Olhe juntas e parafusos: ferrugem inchada que abriu junta é pack rust.
+7. Inspecione frestas e a maré baixa: lodo alaranjado indica suspeita.
+8. Veja onde metais diferentes se tocam: desgaste rápido é galvânico.
+9. Verifique perda de seção: furo, borda comida ou peça mais fina.
+10. Anote o local, o sinal, o tamanho aproximado e a data no caderno.
+
+ATENCAO
+-------
+Ferrugem visível é só o que aparece. Pites e frestas furam sem aviso.
+Não pise, não suba nem prenda carga em peça com perda de seção: pode
+falhar e causar queda ou afogamento. Água salgada acelera a corrosão
+entre metais diferentes. Não faça teste com ácido em campo: libera gás.
+Este texto só reconhece sinais: não substitui medição nem avaliação técnica.
+
+SE NAO TIVER
+------------
+Sem lanterna, encoste a luz do celular na superfície, em ângulo raso.
+Sem régua, use palito ou arame de comprimento conhecido.
+Sem medidor de espessura, não diga que a peça está segura.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Área limpa, iluminada e marcada, com sinal, tamanho aproximado e data.
+Você aponta o sinal na peça e parou antes de pisar ou carregar nela.
+
+FONTES
+------
+Prática consolidada de inspeção visual de estruturas metálicas marítimas.
+Base: AMPP (antiga NACE), material "What is Corrosion?" e a obra
+"Corrosion Basics, An Introduction", que classificam as formas visíveis.

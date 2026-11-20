@@ -1,0 +1,97 @@
+==============================================================================
+CODIGO: 35-017
+TITULO: Como reconstruir uma farmácia comunitária
+CATEGORIA: 35 - Temas especiais que merecem enciclopédias próprias
+TEMPO: 4 horas
+RISCO: alto
+EXIGE: local seguro, água tratada, luvas, papel, caneta, pessoa treinada
+REVISAO: 2026-11
+PALAVRAS-CHAVE: farmácia, remédio, medicamento, dispensação, validade
+==============================================================================
+
+OBJETIVO
+--------
+Reabrir um ponto de dispensação de medicamentos essenciais com segurança.
+
+QUANDO USAR
+-----------
+Quando a farmácia foi danificada e precisa voltar a operar.
+Quando sobraram medicamentos em depósito ou em casas da comunidade.
+Quando o atendimento formal de saúde demorou a retornar.
+Quando há pessoas com doenças crônicas sem acesso à medicação.
+
+NAO USE QUANDO
+--------------
+Não dispense medicamentos sem farmacêutico ou pessoa treinada
+responsável. Não manipule, misture ou reembale substâncias sem
+identificação. Não use este procedimento para fabricar remédios.
+
+MATERIAIS
+---------
+- Luvas descartáveis (ou mãos lavadas com água tratada e sabão).
+- Papel, caneta e fichas para inventário.
+- Prateleiras ou caixas limpas e secas.
+- Recipientes tampados para separar o que será descartado.
+- Água tratada para higiene das mãos e limpeza de superfícies.
+- Termômetro de geladeira, se houver produtos que exigem frio.
+
+PROCEDIMENTO
+------------
+1. Vistorie o prédio antes de entrar. Não entre se houver risco de
+   desabamento, fogo, gás ou fiação exposta.
+2. Retire entulho e animais. Ventile o ambiente por aproximadamente
+   30 minutos antes de manusear medicamentos.
+3. Lave as mãos com água tratada e sabão. Calce as luvas.
+4. Limpe balcões, prateleiras e pisos com água tratada e sabão.
+5. Reúna todos os medicamentos em um único local iluminado.
+6. Leia o rótulo de cada um. Anote nome, princípio ativo, lote,
+   validade e estado do material.
+7. Separe e descarte o que está vencido, com aspecto alterado, sem
+   rótulo, molhado, quebrado ou com odor estranho.
+8. Coloque o descartado em recipiente tampado e identificado.
+9. Separe os que exigem refrigeração e verifique se a geladeira
+   manteve a temperatura indicada no rótulo durante a interrupção.
+10. Organize o restante por categoria: uso interno, uso externo,
+    refrigeração e controlados.
+11. Monte uma ficha com entrada, saída, quantidade e responsável.
+12. Guarde os controlados sob chave, com registro de cada saída.
+13. Receba cada pessoa e confirme o nome do medicamento e a dose
+    prescrita antes de entregar.
+14. Entregue conforme prescrição ou bula. Nunca invente dose,
+    especialmente para crianças.
+15. Registre queixas, reações suspeitas e encaminhe casos graves.
+
+ATENCAO
+-------
+Medicamento vencido ou alterado pode intoxicar e até matar.
+Nunca reembale sem identificar nome, dose e validade no novo recipiente.
+Nunca calcule dose infantil de memória: use apenas prescrição escrita.
+Antibióticos sem prescrição agravam a resistência das bactérias.
+Insulina e vacinas podem perder efeito com calor sem mudar de aspecto.
+Se a refrigeração falhou, não entregue o produto; descarte.
+Pare e procure atendimento se alguém apresentar náusea, vômito,
+tontura, manchas na pele ou falta de ar após tomar um medicamento.
+Uma farmácia sem registro de entradas e saídas não é segura.
+
+SE NAO TIVER
+------------
+Sem farmacêutico, limite-se a orientar higiene, repouso e sinais de
+alerta, e encaminhe a pessoa para atendimento médico.
+Sem geladeira confiável, não aceite medicamentos que exigem frio.
+Sem água tratada, não manipule medicamentos. Espere ou use água
+fervida e fria.
+Sem fichas, use qualquer papel, mas anote data, nome e quantidade.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Não há vencidos, vidros quebrados ou produtos sem rótulo nas
+prateleiras ativas. A ficha registra cada entrada e saída. Os
+produtos que exigem frio estão na geladeira com temperatura anotada.
+As mãos foram lavadas antes de cada entrega.
+
+FONTES
+------
+Prática consolidada de farmácia humanitária e uso racional de
+medicamentos em emergências. Famílias de referência institucional:
+OMS, OPAS/OMS e Cruz Vermelha/IFRC. Este é um resumo operacional:
+não substitui farmacêutico, prescrição médica nem treinamento.

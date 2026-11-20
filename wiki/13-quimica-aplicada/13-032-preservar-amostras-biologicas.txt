@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 13-032
+TITULO: Como preservar amostras biológicas
+CATEGORIA: 13 - Química e conhecimentos científicos aplicados
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: luvas, frascos com tampa, papel filtro, gelo ou bolsa fria
+REVISAO: 2026-11
+PALAVRAS-CHAVE: amostra, sangue, urina, fezes, tecido, formalina, gelo
+==============================================================================
+
+OBJETIVO
+---------
+Guarde sangue, urina, fezes ou tecido para exame em laboratório depois.
+
+QUANDO USAR
+-----------
+Colhi sangue do dedo e não há exame perto.
+Preciso enviar urina ou fezes para outro lugar.
+Encontrei animal morto e quero guardar um pedaço de tecido.
+Não tenho gelo para esperar várias horas de transporte.
+
+NAO USE QUANDO
+--------------
+Não guarde amostra para transfusão ou uso direto em pessoa.
+Sem frasco limpo e fechado, não guarde urina, fezes ou vômito.
+Sem luvas, máscara e ventilação, não abra frasco de formalina.
+Com suspeita de raiva, não manipule o tecido; procure saúde pública.
+
+MATERIAIS
+---------
+- Luvas descartáveis (luva de pano limpa, lavada depois).
+- Frascos de vidro ou plástico com tampa e limpos.
+- Papel filtro (papel branco limpo, sem tinta e sem perfume).
+- Gelo ou garrafa congelada enrolada em pano.
+- Etanol 70% (aguardente) para pedaços pequenos de tecido.
+- Formalina 10% (só com luvas, máscara e ventilação).
+- Caneta, etiqueta de papel e saco plástico.
+
+PROCEDIMENTO
+------------
+1. Coloque as luvas antes de tocar a amostra.
+2. Escreva nome, data e tipo de amostra na etiqueta.
+3. Cole a etiqueta no frasco antes de encher.
+4. Reserve uma porção sem conservante para exame imediato.
+5. Para sangue, pingue duas ou três gotas no papel filtro.
+6. Espalhe cada gota com a ponta de outro papel limpo.
+7. Seque ao ar, na sombra, longe de pó e insetos.
+8. Guarde o papel seco dentro do saco plástico fechado.
+9. Para urina, fezes ou vômito, encha até a metade do frasco.
+10. Feche o frasco e coloque sobre gelo ou bolsa fria.
+11. Nunca encoste o frasco diretamente no gelo.
+12. Para tecido, corte um pedaço pequeno com faca limpa.
+13. Escolha etanol 70% ou formalina 10% para o tecido.
+14. Se usar etanol, cubra o pedaço até ficar submerso.
+15. Se usar formalina, abra a janela ou trabalhe ao ar livre.
+16. Para fezes, misture uma parte de amostra e três de formalina.
+17. Feche o frasco e não o abra de novo.
+18. Entregue a amostra ao laboratório o mais depressa possível.
+
+ATENCAO
+-------
+A formalina queima a pele e é cancerígena; não inale o vapor.
+O NIOSH fixa 0,016 ppm como média de 10 horas para formaldeído.
+O NIOSH classifica 20 ppm como risco imediato à vida e à saúde.
+Sem máscara com filtro para vapor, não abra frasco de formalina.
+Nunca use formalina em ambiente fechado ou sem corrente de ar.
+O calor estraga urina e fezes em poucas horas; prefira o gelo.
+Frasco de vidro cheio racha ao congelar; deixe espaço livre.
+Papel molhado, frasco sem etiqueta ou com vazamento não servem.
+O método só conserva a amostra; não substitui o exame laboratorial.
+Com suspeita de raiva, não abra o crânio do animal.
+
+SE NAO TIVER
+------------
+- Sem gelo, use papel filtro para sangue e guarde na sombra.
+- Sem papel filtro, use papel branco limpo e anote a troca.
+- Sem etanol, não conserve tecido em água: a água apodrece.
+- Sem máscara ou ventilação, não use formalina: prefira gelo.
+- Sem frasco limpo, não guarde urina ou fezes; só papel para sangue.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- A gota no papel secou, escureceu e não gruda mais.
+- O papel ficou guardado seco, sem mofo e sem cheiro.
+- O frasco está fechado, sem vazamento e com etiqueta legível.
+- O gelo ainda está firme ou a bolsa fria continua fria.
+- O pedaço de tecido ficou totalmente coberto pelo líquido.
+
+FONTES
+------
+CDC: coleta de amostras em surtos e envio de espécimes (2025).
+CDC DPDx: processamento de fezes e uso de formalina 10%.
+NIOSH/CDC: Guia de Bolso de Riscos Químicos, formalina.
+OMS: manual de gotas de sangue seco em papel filtro.
+Ecology and Evolution (2022, PMC): conservação de sangue em etanol e papel.

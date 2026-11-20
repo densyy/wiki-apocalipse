@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 29-037
+TITULO: Como manter um catálogo digital de recursos
+CATEGORIA: 29 - Tecnologia, computação e informática offline
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: editor de texto simples, acesso aos arquivos, segunda mídia
+REVISAO: 2026-11
+PALAVRAS-CHAVE: catálogo, índice, recursos, arquivos, busca, inventário
+==============================================================================
+
+OBJETIVO
+--------
+Permite achar qualquer recurso do acervo pelo nome ou pelo assunto.
+
+QUANDO USAR
+-----------
+Quando um arquivo novo entra no acervo e precisa ser achado depois.
+Quando um arquivo muda de pasta, de nome ou ganha versão nova.
+
+NAO USE QUANDO
+--------------
+Não use o catálogo como cópia do arquivo: ele só descreve, não guarda.
+Não registre senhas, chaves, dados pessoais nem regras de acesso nele.
+
+MATERIAIS
+---------
+- Arquivo de texto do catálogo (caderno, se não houver computador).
+- Editor de texto simples (bloco de notas) que salve arquivos .txt.
+- Segunda mídia para a cópia (outro celular, HD externo ou papel).
+
+PROCEDIMENTO
+------------
+1. Abra o arquivo do catálogo no editor de texto simples.
+2. Busque o título do recurso novo antes de criar uma linha.
+3. Escreva um identificador sequencial, nunca reutilizado.
+4. Escreva o título, o assunto e três palavras de busca na linha.
+5. Escreva a pasta e o nome exato do arquivo na linha.
+6. Escreva formato, origem e data; use "desconhecida" se não souber.
+7. Marque como "inativo" a linha do arquivo substituído.
+8. Corrija só a localização quando o arquivo mudar de pasta.
+9. Digite "mapa" na busca do editor e confira se a linha aparece.
+10. Salve o catálogo no editor de texto simples.
+11. Copie o catálogo para a segunda mídia.
+12. Anote a data da revisão no fim do arquivo.
+
+ATENCAO
+-------
+O catálogo não guarda o arquivo: apagar o original não é recuperável.
+Local errado é o erro mais comum: a linha existe e o arquivo não abre.
+Identificador repetido faz duas linhas apontarem para recursos diferentes.
+Não anote senhas, chaves, dados pessoais nem regras de acesso no catálogo.
+Se o arquivo estiver corrompido, pare e reconstrua a partir da cópia.
+
+SE NAO TIVER
+------------
+- Sem editor, use caderno: uma linha por recurso, com os mesmos campos.
+- Sem segunda mídia, escreva uma cópia em papel e guarde separada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- Cada arquivo tem uma linha com identificador único e nome exato.
+- Ao digitar "mapa" na busca, aparece a linha do recurso correspondente.
+
+FONTES
+------
+Prática consolidada de inventário de acervos, sem documento único.
+Campos segundo Dublin Core (ISO 15836, DCMI).
+Catálogo local de arquivos ZIM conforme FAQ oficial da Kiwix.

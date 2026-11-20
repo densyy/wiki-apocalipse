@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 03-035
+TITULO: Como reconhecer pneumonia
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 10 minutos
+RISCO: critico
+EXIGE: termômetro, relógio ou celular, luz para observar
+REVISAO: 2026-11
+PALAVRAS-CHAVE: pneumonia, tosse, febre, falta de ar, dor no peito, catarro
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer os sinais de suspeita de pneumonia e decidir quando buscar ajuda.
+
+QUANDO USAR
+-----------
+Tosse com febre que não melhora ou que piora depois de alguns dias.
+Dor no peito que aumenta ao respirar fundo ou ao tossir.
+Falta de ar, respiração rápida ou cansaço ao fazer esforço pequeno.
+Febre com calafrios, suor e catarro amarelo, verde ou com sangue.
+Pessoa idosa com confusão, sonolência ou que parou de comer e beber.
+Bebê que respira rápido, chora muito e não consegue mamar.
+
+NAO USE QUANDO
+--------------
+Não use para dar diagnóstico: este guia mostra só suspeita.
+Não use para dispensar atendimento se houver falta de ar.
+Não use para escolher remédio, dose ou antibiótico por conta própria.
+
+MATERIAIS
+---------
+- Termômetro (ou mão na testa, apenas como estimativa).
+- Relógio ou celular para contar as respirações.
+- Luz de janela ou lanterna para ver a cor dos lábios e das unhas.
+- Papel e lápis para anotar os sinais e a hora.
+
+PROCEDIMENTO
+------------
+1. Sente a pessoa em local com luz e peça que fique em repouso.
+2. Pergunte quando começou a tosse, a febre e a falta de ar.
+3. Meça a temperatura e anote o valor e a hora.
+4. Peça uma respiração funda e observe se aparece dor no peito.
+5. Observe se a dor piora quando a pessoa tosse ou respira fundo.
+6. Conte as respirações por um minuto, com a pessoa em repouso.
+7. Observe se a respiração está rápida ou mais esforçada que o normal.
+8. Olhe a cor dos lábios, das unhas e da pele do rosto.
+9. Observe se há lábios ou unhas arroxeados.
+10. Observe a tosse: seca ou com catarro amarelo, verde ou com sangue.
+11. Observe se há confusão, sonolência incomum ou pouca vontade de beber.
+12. Compare com o início: sintomas que não melhoram ou pioram são suspeita.
+13. Anote os sinais encontrados e decida o destino conforme a ATENCAO.
+
+ATENCAO
+-------
+Este guia só levanta suspeita. Não confirma nem exclui pneumonia.
+Só exame médico e, às vezes, raio-X confirmam o diagnóstico.
+Sem tratamento, pneumonia pode matar. Segundo o CDC, a pneumonia
+pneumocócica mata cerca de 1 em cada 20 doentes.
+Procure atendimento urgentemente se houver falta de ar em repouso.
+Procure atendimento urgentemente se os lábios ou unhas ficarem arroxeados.
+Procure atendimento se houver confusão, dor forte no peito ou febre alta
+que não passa.
+Idosos e bebês podem não ter febre. Confusão, sonolência e recusa de
+comer ou mamar podem ser os únicos sinais.
+Não espere aparecer catarro: pneumonia também pode vir com tosse seca.
+Não dê antibiótico, xarope ou remédio caseiro sem orientação médica.
+Se qualquer sinal piorar durante a observação, pare e busque ajuda.
+
+SE NAO TIVER
+------------
+Sem termômetro: encoste a mão na testa e diga que é só estimativa.
+Sem relógio: conte as respirações em voz alta, uma por uma.
+Sem luz elétrica: use a luz de uma janela ou uma lanterna.
+Sem transporte próprio: peça carona a vizinho ou familiar.
+Não dirija você mesmo se quem está doente estiver com falta de ar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você tem uma lista escrita dos sinais presentes e do tempo de sintomas.
+Você verificou um a um: respiração, cor dos lábios, febre e estado mental.
+Se há sinal de perigo, a pessoa está a caminho de atendimento.
+Se não há sinal de perigo, você mantém a observação e reavalia.
+
+FONTES
+------
+CDC: "About Pneumonia", página sobre sintomas e causas, 2026.
+CDC: "Pneumococcal Disease Symptoms and Complications", 2026.
+Texto de reconhecimento inicial; não substitui avaliação de profissional.

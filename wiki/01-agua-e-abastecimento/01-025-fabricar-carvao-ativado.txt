@@ -1,0 +1,97 @@
+==============================================================================
+CODIGO: 01-025
+TITULO: Como fabricar carvão ativado
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: cascas de coco ou madeira limpa, lata com tampa, fogo, ar livre
+REVISAO: 2026-11
+PALAVRAS-CHAVE: carvão, carvão ativado, filtro, água, adsorver
+==============================================================================
+
+OBJETIVO
+--------
+Fazer carvão vegetal com material disponível e entender seu limite real.
+
+QUANDO USAR
+-----------
+Quando faltar material filtrante e houver cascas de coco ou caroços.
+Como etapa extra para reduzir cor, odor e sabor de água já limpa.
+Quando não houver carvão ativado para comprar.
+Para montar um filtro de camada de carvão depois de coar a água.
+
+NAO USE QUANDO
+--------------
+Quando a água não foi fervida: carvão não mata microrganismos.
+Quando houver suspeita de combustível, agrotóxico, metal
+pesado, sal, arsênio ou nitrato na água.
+Quando não houver lugar aberto e ventilado para queimar.
+Quando o material tiver tinta, verniz, cola ou tratamento químico.
+
+MATERIAIS
+---------
+- Cascas de coco, caroços de frutas ou madeira limpa (sabugo de milho seco).
+- Recipiente metálico com tampa (dois recipientes encaixados).
+- Fogo forte e constante (forno ou fogueira).
+- Água limpa e pano ou peneira para lavar.
+- Pano grosso ou luvas para manusear peças quentes.
+- Local ao ar livre, longe de material inflamável.
+
+PROCEDIMENTO
+------------
+1. Escolha material vegetal limpo, sem tinta, verniz, cola ou preservativo.
+2. Quebre em pedaços de aproximadamente 2 a 3 centímetros.
+3. Seque ao sol ou perto do fogo até não pingar umidade.
+4. Encha o recipiente metálico até aproximadamente três quartos.
+5. Feche a tampa deixando só uma pequena abertura para a fumaça sair.
+6. Aponte a abertura para longe de pessoas, animais e material inflamável.
+7. Coloque o recipiente sobre o fogo e mantenha calor forte e constante.
+8. A fumaça que sai pode pegar fogo: não se incline sobre a abertura.
+9. Aqueça por aproximadamente 1 a 2 horas, até a fumaça parar.
+10. Apague o fogo e deixe esfriar com a tampa fechada, sem abrir.
+11. Abra só quando o recipiente estiver frio ao toque da mão protegida.
+12. Quebre o carvão, peneire o pó e lave até a água ficar clara.
+13. Seque ao sol e guarde em recipiente tampado, longe de umidade.
+
+ATENCAO
+-------
+Nunca faça dentro de casa, em galpão fechado ou perto de inflamáveis.
+A queima libera monóxido de carbono, que é invisível e pode matar.
+Trabalhe só ao ar livre, com ventilação e sem pessoas por perto.
+O gás quente que sai pela abertura pode incendiar: mantenha distância.
+Não abra o recipiente quente: o carvão pode pegar fogo ao encontrar ar.
+Este produto é carvão vegetal comum, não é carvão ativado de verdade.
+A ativação exige vapor de água a aproximadamente 800 a 1000 °C.
+Fogueira e fogão caseiro não chegam a essa temperatura com segurança.
+Não use ácidos, soda ou sales metálicos para tentar ativar em casa.
+Mesmo o carvão ativado industrial não remove microrganismos, nitrato, sal,
+flúor, arsênio ou metais pesados, e não desinfeta a água.
+O carvão caseiro adsorve menos: não confie nele para água suspeita.
+Com suspeita química, troque a fonte de água ou peça ajuda.
+
+SE NAO TIVER
+------------
+Sem cascas de coco, use caroços, madeira limpa ou sabugo de milho seco.
+Sem tampa, use outro recipiente metálico encaixado e vede com terra,
+deixando uma saída pequena para os gases.
+Sem fogo seguro, não improvise com químicos: compre carvão ativado ou
+mude a fonte de água.
+Carvão de churrasco sem aditivos filtra o grosso, mas adsorve pouco.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O material ficou preto, opaco, leve e quebradiço, sem partes marrons.
+Ao bater, quebra com som seco e não solta fumaça nem cheiro de queimado.
+A primeira água de lavagem sai escura e as seguintes saem claras.
+Depois de frio, não há brasa nem ponto incandescente no carvão.
+
+FONTES
+------
+Manual de adsorção com carbono da EPA: carbonização a aproximadamente
+400 a 600 °C e ativação com vapor a aproximadamente 750 a 950 °C.
+Visão geral da EPA sobre tratamento de água potável: o que o carvão
+ativado remove e o que não remove.
+Relatório técnico do USDA sobre carvão ativado: pirólise e ativação.
+Diretrizes da OMS para água potável em pequenos abastecimentos.
+A produção caseira de carvão é prática consolidada; este texto
+é um resumo operacional, não substitui treinamento.

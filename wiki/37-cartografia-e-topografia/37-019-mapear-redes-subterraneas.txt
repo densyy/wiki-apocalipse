@@ -1,0 +1,88 @@
+==============================================================================
+CODIGO: 37-019
+TITULO: Como mapear redes subterrâneas
+CATEGORIA: 37 - Cartografia, topografia e levantamento
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: mapa, caderno, lápis, bússola, cordel, bastão, giz, lanterna
+REVISAO: 2026-11
+PALAVRAS-CHAVE: subterrâneo, galeria, esgoto, túnel, mapa, caderno
+==============================================================================
+
+OBJETIVO
+--------
+Registrar em mapa, sem entrar, a provável rede de galerias e
+drenagens subterrâneas de uma área.
+
+QUANDO USAR
+-----------
+Quando é preciso saber por onde passam drenagens, esgotos ou túneis.
+Quando há bocas de lobo, poços, sumidouros ou afundamentos no terreno.
+Quando água ou cheiro emerge em mais de um ponto da mesma área.
+
+NAO USE QUANDO
+--------------
+Quando for preciso entrar na rede: este método é só externo.
+Quando houver cheiro de gás, vapor, água correndo ou solo cedendo.
+Quando a área for privada, cercada ou sob tráfego de veículos.
+Quando faltar luz do dia e não houver como ver a superfície.
+
+MATERIAIS
+---------
+- Mapa da área ou folha em branco para desenhar.
+- Caderno e lápis (ou papel e caneta).
+- Bússola (ou relógio de ponteiros para estimar o norte).
+- Cordel ou fita medidora (ou contagem de passos).
+- Bastão para apontar sem pôr a mão na abertura.
+- Lanterna de pilha para iluminar de longe, sem fogo.
+
+PROCEDIMENTO
+------------
+1. Delimite a área no mapa e desenhe a seta do norte.
+2. Escreva no caderno a data, a hora e o seu nome.
+3. Caminhe em zigue-zague, sempre afastado das aberturas.
+4. Numere cada abertura: boca de lobo, poço, caixa, fresta.
+5. Marque o número no caderno e desenhe o ponto no mapa.
+6. Aponte o bastão para a abertura; não incline o corpo sobre ela.
+7. Anote o que corre e o sentido do fluxo de água.
+8. Observe de longe: afundamento, umidade, vegetação e ruídos.
+9. Conte os passos entre dois pontos; marque como aproximado.
+10. Una com linha contínua os pontos vistos diretamente.
+11. Una com tracejado os pontos apenas deduzidos.
+12. Faça a legenda: contínuo = visto, tracejado = deduzido.
+13. Anote escala aproximada, norte, data e nome no mapa.
+14. Guarde uma cópia e avise outra pessoa do trajeto.
+
+ATENCAO
+-------
+Nunca entre em galeria, poço, esgoto, caverna ou espaço fechado.
+Sulfeto de hidrogênio e metano podem matar em minutos.
+Cheiro de ovo podre alerta; sem cheiro não quer dizer ar seguro.
+Não use fogo para iluminar abertura: o gás pode inflamar.
+Não pise em tampas, lajes ou solo oco: a queda pode ser grave.
+Pó de guano de morcego causa doença respiratória (FM 21-76).
+Com cheiro forte, vapor ou água aumentando, pare e vá embora.
+
+SE NAO TIVER
+------------
+Sem bússola, aponte as 12 do relógio para o sol no Hemisfério Sul.
+O norte fica entre as 12 e o ponteiro das horas; marque aproximado.
+Sem relógio, finque um bastão e use a sombra mais curta do meio-dia.
+Sem cordel, conte passos e escreva o número seguido de aproximado.
+Sem luz suficiente, espere o dia: não improvise fogo na abertura.
+Sem companhia, observe de longe e não se aproxime das bocas.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O mapa traz norte, escala aproximada, data, nome e legenda.
+Cada abertura vista está numerada e tem posição marcada.
+Linhas contínuas e tracejadas distinguem-se pela legenda.
+Outra pessoa localiza os pontos sem entrar em abertura alguma.
+
+FONTES
+------
+Manual de sobrevivência FM 21-76, do Exército dos EUA.
+Manual de navegação militar multisserviço: orientar mapa e medir distância.
+Manual de bombeiros: regras de progressão segura em terreno perigoso.
+Prática consolidada de levantamento por observação da superfície.
+Resumo operacional; não substitui treinamento nem autorização de entrada.

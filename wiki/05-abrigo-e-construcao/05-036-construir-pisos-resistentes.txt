@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 05-036
+TITULO: Como construir pisos resistentes
+CATEGORIA: 05 - Abrigo, construção e habitação
+TEMPO: 180 minutos
+RISCO: medio
+EXIGE: madeira ou pedra, ferramentas de corte e fixação, terreno firme
+REVISAO: 2026-11
+PALAVRAS-CHAVE: piso, chão, assoalho, madeira, abrigo, umidade
+==============================================================================
+
+OBJETIVO
+--------
+Montar um piso firme e seco que aguenta o uso diario do abrigo.
+
+QUANDO USAR
+-----------
+Quando o chao do abrigo e de terra e vira barro na chuva.
+Quando e preciso dormir e guardar coisas fora da umidade.
+Quando o abrigo vai ser usado por semanas ou meses.
+
+NAO USE QUANDO
+--------------
+Em baixada que alaga, margem de rio ou encosta instavel.
+Em solo que afunda, cede ao pisar ou tem cheiro quimico.
+
+MATERIAIS
+---------
+- Tábuas, paletes ou troncos retos (pedras chatas, tijolos).
+- Barrotes ou toras finas para a base (tijolos, pedras grandes).
+- Pregos ou parafusos (arame, cipó, tira de pano ou corda).
+- Areia grossa, cascalho e terra seca para nivelar e calcar.
+- Martelo, serrote ou machado, pa ou enxada e nivel ou fio.
+
+PROCEDIMENTO
+------------
+1. Escolha o local mais alto e seco dentro do abrigo.
+2. Limpe pedras soltas, raizes, mato e formigueiros do local.
+3. Cave uma valeta rasa ao redor para a agua escorrer para fora.
+4. Soque cascalho e areia sobre o local ate firmar a base.
+5. Deite os barrotes paralelos com vao de aproximadamente 40 cm.
+6. Nivele os barrotes calcando com terra, areia ou pedras chatas.
+7. Pregue ou amarre as tabuas atravessadas sobre os barrotes.
+8. Deixe fresta fina de aproximadamente 0,5 cm entre tabuas.
+9. Bata os pregos ate afundar a cabeca para nao prender o pe.
+10. Teste cada canto pisando e reforce pontos fracos com calcos.
+
+ATENCAO
+-------
+Piso solto ou irregular causa tropeco, farpa e queda de noite.
+Ferramenta de corte e martelo machucam: prenda a peca antes.
+Piso sem drenagem prende agua por baixo e apodrece rapido.
+Se a base afundar ou cheirar mofo forte, desmonte e refaca.
+
+SE NAO TIVER
+------------
+Sem tabuas, use pedras chatas ou tijolos sobre areia socada.
+Sem pregos, amarre as tabuas nos barrotes com arame ou cipo.
+Sem cascalho, use terra seca com pedrinhas socada em camadas.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O piso segue firme e seco e nao afunda ao pisar.
+Da para andar descalco sem farpa, prego ou ponta a mostra.
+
+FONTES
+------
+Prática consolidada de construção simples de abrigos
+(famílias de referência: FEMA, IFRC e manual militar de
+sobrevivência civil). Resumo operacional, sem treinamento.

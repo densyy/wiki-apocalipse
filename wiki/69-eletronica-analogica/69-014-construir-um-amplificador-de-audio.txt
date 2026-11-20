@@ -1,0 +1,94 @@
+==============================================================================
+CODIGO: 69-014
+TITULO: Como construir um amplificador de áudio
+CATEGORIA: 69 - Eletrônica analógica e componentes discretos
+TEMPO: 45 minutos
+RISCO: medio
+EXIGE: integrado LM386, alto-falante, bateria de 9 V, capacitores, ferro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: amplificador, áudio, alto-falante, som, volume, LM386
+==============================================================================
+
+OBJETIVO
+--------
+Montar um amplificador que torna um áudio fraco audível no alto-falante.
+
+QUANDO USAR
+-----------
+Quando um rádio ou celular não move o alto-falante com volume suficiente.
+Quando precisar amplificar a saída de um receptor de rádio improvisado.
+Quando quiser sonorizar um ambiente com poucas peças e baratas.
+
+NAO USE QUANDO
+--------------
+Não use fonte ligada à tomada: escolha bateria ou fonte isolada.
+Não use se o alto-falante estiver rasgado ou com a bobina aberta.
+Não ligue a entrada a aparelho ligado na rede sem isolamento.
+
+MATERIAIS
+---------
+- Circuito integrado LM386 (ou equivalente NJM386).
+- Bateria de 9 V com conector (ou fonte isolada de 6 a 12 V).
+- Alto-falante de 4 a 8 ohms, de 5 a 10 cm de diâmetro.
+- Capacitor eletrolítico de 10 uF e um de 100 uF, de 16 V ou mais.
+- Capacitor de 0,1 uF e um resistor de 10 ohms.
+- Potenciômetro de 10 kohms para controlar o volume.
+- Fios, placa de montagem, ferro de soldar e estanho.
+- Multímetro para conferir polaridade e tensões.
+
+PROCEDIMENTO
+------------
+1. Deixe a bancada seca, iluminada e longe de crianças.
+2. Identifique o pino 1 do LM386 pelo chanfro ou ponto no invólucro.
+3. Fixe o integrado na placa, com os pinos virados para baixo.
+4. Ligue o pino 6 ao polo positivo da bateria.
+5. Ligue o pino 2 ao polo negativo da bateria.
+6. Ligue os pinos 4 e 7 ao negativo da bateria.
+7. Ligue o capacitor de 10 uF entre o pino 7 e o negativo, com o
+   lado positivo no pino 7.
+8. Ligue o capacitor de 100 uF entre o pino 5 e uma ponta do
+   alto-falante, com o lado positivo no pino 5.
+9. Ligue a outra ponta do alto-falante ao negativo da bateria.
+10. Ligue o resistor de 10 ohms em série com o capacitor de 0,1 uF
+    entre o pino 5 e o negativo, para estabilizar a saída.
+11. Ligue o capacitor de 0,1 uF em série com a entrada de sinal.
+12. Ligue a outra ponta desse capacitor ao pino 3 do integrado.
+13. Ligue o potenciômetro entre a entrada de sinal e o negativo;
+    o terminal central vai ao pino 3, para ajustar o volume.
+14. Para ganho maior, ligue um capacitor de 10 uF entre os pinos 1 e 8.
+15. Confira cada solda com o multímetro antes de ligar a bateria.
+16. Ligue a bateria na polaridade correta e aumente o volume devagar.
+
+ATENCAO
+-------
+Inverter a polaridade da bateria queima o integrado em segundos.
+Curto entre a saída e o negativo superaquece o fio e a bateria.
+Eletrolítico ligado ao contrário pode vazar ou estourar.
+Volume alto perto do ouvido causa perda de audição permanente.
+Se o integrado esquentar ou cheirar a queimado, desligue na hora.
+Nunca alimente este circuito diretamente da tomada de energia.
+Solda fria provoca chiado intermitente e falha de funcionamento.
+
+SE NAO TIVER
+------------
+Sem LM386, use um transistor NPN comum em amplificador de um estágio;
+o ganho e a qualidade serão menores.
+Sem potenciômetro, ligue a entrada ao pino 3 e controle o volume na fonte.
+Sem o capacitor do pino 7, o circuito funciona, mas com mais ruído.
+Sem placa, monte sobre uma madeira seca e prenda as peças com fita.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ouve-se som claro e sem distorção ao aplicar áudio na entrada.
+O integrado fica apenas morno ao toque depois de alguns minutos.
+Não há chiado forte nem zumbido com o volume no mínimo.
+
+FONTES
+------
+Prática consolidada de eletrônica analógica sobre amplificação de áudio.
+O integrado LM386, seus pinos de alimentação, entrada, saída e ganho,
+a aplicação típica de montagem mínima e o uso de capacitor de
+acoplamento e de resistor de estabilização constam das folhas de dados
+de fabricantes de circuitos integrados e da literatura técnica de
+referência. Este texto é um resumo operacional e não substitui a folha
+de dados do componente.

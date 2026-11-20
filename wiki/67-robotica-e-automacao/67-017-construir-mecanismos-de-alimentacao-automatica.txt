@@ -1,0 +1,93 @@
+==============================================================================
+CODIGO: 67-017
+TITULO: Como construir alimentador automático de animais
+CATEGORIA: 67 - Robótica, automação e controle
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: reservatório, bandeja, suporte, regulador, faca, luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: comedouro, alimentador, automático, gravidade, funil, ração
+==============================================================================
+
+OBJETIVO
+--------
+Montar um comedouro que libera ração sozinho à medida que o animal come,
+sem eletricidade e sem precisar abrir a mão a cada vez.
+
+QUANDO USAR
+-----------
+Quando não há energia para motores, sensores ou bombas.
+Quando os animais precisam de ração disponível ao longo do dia.
+Para galinhas, cabras, ovelhas, suínos ou animais de pequeno porte.
+Quando o objetivo é reduzir o desperdício e o contato manual com a ração.
+Em criações caseiras, sítios ou abrigos com pouca infraestrutura.
+
+NAO USE QUANDO
+--------------
+Não use com ração muito fina ou úmida: ela entope e forma bolo no funil.
+Não use se a umidade alta deixar a ração mofar dentro do reservatório.
+Não use sem proteção contra chuva: ração molhada apodrece e adoece o animal.
+Não use onde animais grandes possam derrubar ou desmontar a estrutura.
+Não substitui a limpeza periódica nem a reposição manual de água.
+
+MATERIAIS
+---------
+- Reservatório com boca larga e fundo que possa ser aberto: garrafa
+  plástica grande, balde ou caixa com tampa (ou lata com tampa).
+- Bandeja rasa para a ração: caixa baixa de madeira, bandeja plástica
+  ou um metro de tubo de PVC cortado ao meio.
+- Suporte firme: duas estacas de madeira, ripas ou cavalete.
+- Regulador deslizante: placa plana de plástico ou madeira fina.
+- Fixação: fita adesiva resistente, arame, corda, pregos ou parafusos.
+- Ferramentas: faca, tesoura, alicate, furador ou prego aquecido.
+- Luvas e óculos de proteção para cortar e furar.
+
+PROCEDIMENTO
+------------
+1. Escolha local plano, seco e protegido da chuva e do sol direto.
+2. Corte o fundo do reservatório, deixando a boca maior que a saída.
+3. Vire o reservatório de cabeça para baixo sobre a bandeja.
+4. Prenda o reservatório no suporte com arame, corda ou parafusos.
+5. Ajuste a altura: a saída fica alguns centímetros acima da bandeja.
+6. Prenda a placa reguladora na saída, deixando uma fenda estreita.
+7. Regule a fenda para passar poucos grãos por vez, sem entupir.
+8. Encha o reservatório com ração seca e limpa, sem pedras.
+9. Feche a abertura superior para evitar entrada de umidade.
+10. Observe: ao comer, a ração da bandeja desce e é reposta.
+11. Ajuste a fenda até o fluxo parar quando a bandeja estiver cheia.
+12. Prenda tudo com firmeza e apare as pontas cortantes antes de usar.
+
+ATENCAO
+-------
+Ao cortar e furar, use luvas e óculos: arestas e plástico cortam.
+A fenda muito aberta derrama ração; muito fechada entope e o animal fica
+sem comida. Ajuste devagar e nunca deixe o fluxo sem conferência.
+Ração molhada ou mofada adoece o animal: não deixe água entrar no funil.
+Animais grandes batem e derrubam o comedouro: prenda bem ao suporte.
+Arestas e arames soltos podem ferir a boca, as patas ou os olhos.
+Se a ração parar de descer, pare e desentupa antes de deixar o animal
+sem alimento. Este mecanismo não substitui água nem cuidado diário.
+
+SE NAO TIVER
+------------
+Sem garrafa ou balde, use uma caixa de papelão forrada com plástico.
+Sem bandeja, use tubo de PVC cortado ao meio ou tábua com bordas.
+Sem placa reguladora, dobre um pedaço de lata ou use madeira fina.
+Sem suporte, prenda o conjunto numa cerca ou numa estaca fincada.
+Se a ração entope, use grão mais grosso ou abra a fenda um pouco mais.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A ração desce sozinha quando a bandeja esvazia e para quando enche.
+Não há ração acumulada no chão ao redor do comedouro.
+A saída fica acima da bandeja e o reservatório continua preso e seco.
+O animal come sem que ninguém abra ou mova o mecanismo.
+
+FONTES
+------
+Prática consolidada de comedouros automáticos por gravidade e de
+mecanismos de controle mecânico sem energia, sem documento único.
+Base conceitual: fluxo de grãos por funil e comporta regulável, usado
+em comedouros rurais, e elevação da saída para controlar o fluxo.
+Este texto é resumo operacional e não substitui treinamento nem as
+normas sanitárias locais de manejo animal.

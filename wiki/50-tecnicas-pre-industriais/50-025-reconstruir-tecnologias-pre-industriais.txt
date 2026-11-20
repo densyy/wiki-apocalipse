@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 50-025
+TITULO: Como refazer tecnologia pré-industrial com materiais locais
+CATEGORIA: 50 - História das tecnologias pré-industriais
+TEMPO: 120 minutos
+RISCO: medio
+EXIGE: caderno, lápis, materiais locais, ferramentas manuais simples
+REVISAO: 2026-11
+PALAVRAS-CHAVE: reconstruir, pré-industrial, materiais locais, protótipo
+==============================================================================
+
+OBJETIVO
+--------
+Montar e testar uma réplica funcional de uma tecnologia simples.
+Usar apenas materiais encontrados perto de casa.
+
+QUANDO USAR
+-----------
+Quando um objeto simples quebra e não há substituto à venda.
+Quando falta uma peça e é preciso fabricar outra.
+Quando se quer entender como uma ferramenta antiga funcionava.
+
+NAO USE QUANDO
+--------------
+Não use para substituir peça de segurança, freio ou aperto.
+Não use em equipamento elétrico, a gás ou sob pressão.
+Não use se você não souber avaliar a resistência da réplica.
+
+MATERIAIS
+---------
+- Caderno e lápis para desenhar e anotar.
+- Materiais locais: madeira, pedra, barro, fibra, corda ou sucata.
+- Ferramentas manuais: faca, serra, martelo e broca manual.
+- Água e abrigo seco para trabalhar com barro ou argamassa.
+
+PROCEDIMENTO
+------------
+1. Escolha uma tecnologia simples e bem definida para reconstruir.
+2. Escreva no caderno qual trabalho o objeto original fazia.
+3. Desenhe o objeto de lado, de frente e por cima.
+4. Liste cada parte e o material que ela exigia.
+5. Para cada material, ache um equivalente local disponível.
+6. Anote o nome do substituto e onde ele foi encontrado.
+7. Construa um primeiro protótipo simples, sem acabamento.
+8. Teste o protótipo no trabalho real e anote cada falha.
+9. Ajuste uma parte por vez, teste de novo e guarde o desenho final.
+
+ATENCAO
+-------
+Uma réplica que parece certa pode quebrar no primeiro uso forte.
+Teste primeiro com carga leve; nunca comece com carga máxima.
+Pedra, madeira e barro podem falhar sem aviso; use proteção.
+Não use madeira podre, pedra rachada ou metal corroído.
+Se houver dúvida, pare e procure quem entenda do assunto.
+
+SE NAO TIVER
+------------
+Sem o material original, use o equivalente anotado no caderno.
+Se o substituto for mais fraco, reduza o esforço esperado.
+Se nenhum substituto servir, pare e procure outro material.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O protótipo faz o trabalho previsto três vezes seguidas sem quebrar.
+O desenho final registra cada substituto e onde ele foi achado.
+
+FONTES
+------
+Prática consolidada de arqueologia experimental: reconstruir e testar.
+Exemplos reais: centro da University College Dublin e Butser Ancient Farm.

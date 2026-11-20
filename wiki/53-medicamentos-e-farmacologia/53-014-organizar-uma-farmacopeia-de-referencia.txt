@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 53-014
+TITULO: Como organizar uma farmacopeia de referência
+CATEGORIA: 53 - Produção de medicamentos e farmacologia
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: caderno, caneta, textos farmacopeicos de fonte oficial
+REVISAO: 2026-11
+PALAVRAS-CHAVE: farmacopeia, monografia, qualidade, referência, remédio
+==============================================================================
+
+OBJETIVO
+--------
+Ter uma coleção de farmacopeias organizada e pronta para consulta rápida.
+
+QUANDO USAR
+-----------
+Quando chega um lote de matéria-prima e é preciso conferir a identidade.
+Quando falta monografia nacional e é preciso uma reserva confiável.
+
+NAO USE QUANDO
+--------------
+Não use para prescrever dose ou tratamento. Não é conduta clínica.
+
+MATERIAIS
+---------
+- Caderno, caneta e pasta impermeável.
+- Cópia impressa da farmacopeia nacional e de uma internacional.
+- Lista de medicamentos essenciais da OMS, edição atual.
+
+PROCEDIMENTO
+------------
+1. Escolha a Farmacopeia Brasileira vigente como referência principal.
+2. Anote nome, edição, ano e número da resolução no caderno.
+3. Escolha até três farmacopeias reconhecidas, começando pela OMS.
+4. Liste os princípios ativos a partir da lista essencial da OMS.
+5. Abra a monografia do princípio ativo na farmacopeia principal.
+6. Registre na ficha o princípio ativo, a classe e a forma farmacêutica.
+7. Anote número e testes: identificação, ensaio e pureza.
+8. Marque os testes que exigem laboratório ou padrão químico.
+9. Separe as fichas: teste simples e somente laboratório. Ordene por nome.
+10. Guarde as cópias na pasta. Revise as fichas uma vez por ano.
+
+ATENCAO
+-------
+Uma farmacopeia define padrão, não dá dose nem trata pessoas.
+Use a edição vigente. A 5a edição brasileira foi revogada.
+Monografias divergem. Registre a divergência e peça orientação.
+Testes simples provam identidade, não pureza nem teor.
+Sem laboratório, não declare conformidade a um produto.
+Com risco imediato, pare e procure a autoridade sanitária.
+
+SE NAO TIVER
+------------
+Sem cópia impressa, anote farmacopeia, edição e número da monografia.
+Isso não substitui o texto. Sem fonte reconhecida, registre a lacuna.
+Nunca use blog ou fórum como referência farmacopeica.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada princípio ativo tem ficha com fonte, edição e número de monografia.
+Outra pessoa encontra a monografia em cerca de 2 minutos, sem internet.
+
+FONTES
+------
+Farmacopeia Brasileira, 8a edição, RDC Anvisa 1.026/2026.
+RDC Anvisa 511/2021 e perguntas frequentes da Anvisa.
+The International Pharmacopoeia e Basic Tests, da OMS; EML da OMS.
+MAPP 5310.7 da FDA, sobre compêndios oficiais.

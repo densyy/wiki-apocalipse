@@ -1,0 +1,85 @@
+==============================================================================
+CODIGO: 81-020
+TITULO: Como reduzir consumo energético em processos térmicos
+CATEGORIA: 81 - Engenharia térmica e fornos industriais
+TEMPO: 1 dia
+RISCO: medio
+EXIGE: termômetro, caderno e dados de consumo de combustível
+REVISAO: 2026-11
+PALAVRAS-CHAVE: energia, eficiência, consumo, forno, isolamento, perdas
+==============================================================================
+
+OBJETIVO
+--------
+Encontrar e corrigir as maiores perdas de calor para gastar menos
+combustível no mesmo processo térmico.
+
+QUANDO USAR
+-----------
+Quando o gasto de combustível subiu sem aumento de produção.
+Ao perceber calor excessivo no exterior do forno ou nos dutos.
+Quando gases quentes saem pela chaminé sem aproveitamento.
+Antes de investir em melhorias caras no forno.
+Ao comparar o consumo entre turnos ou operadores diferentes.
+
+NAO USE QUANDO
+--------------
+Não reduza a entrada de ar a ponto de gerar fumaça escura.
+Não sacrifique a qualidade do produto para economizar combustível.
+Não tampe a chaminé para conter calor.
+Não faça mudanças que aumentem o risco de intoxicação por gases.
+
+MATERIAIS
+---------
+- Caderno e lápis para registrar o consumo (planilha no celular).
+- Termômetro ou pirômetro para medir temperaturas (81-017).
+- Régua para medir espessura de isolamento e aberturas.
+- Balança para pesar o combustível consumido (medida por volume).
+- Material de vedação e isolamento para as correções (manta, massa).
+
+PROCEDIMENTO
+------------
+1. Registre o consumo atual por hora de operação.
+2. Anote a temperatura do processo e a dos gases na chaminé.
+3. Meça a temperatura da face externa do forno e dos dutos.
+4. Procure frestas, portas frouxas e vazamentos de ar.
+5. Liste cada perda encontrada com sua estimativa de impacto.
+6. Corrija primeiro a maior perda, não a mais fácil.
+7. Vede frestas e aperte a vedação da porta.
+8. Reforce o isolamento onde a face externa está quente.
+9. Ajuste o excesso de ar conforme a cor da chama e da fumaça.
+10. Recupere calor dos gases se a chaminé ainda sair quente.
+11. Padronize o acendimento e o regime entre os operadores.
+12. Meça o consumo novamente após cada correção.
+13. Compare os números e mantenha só o que reduziu o gasto.
+14. Registre o consumo final como nova referência.
+
+ATENCAO
+-------
+Economia com queima incompleta gera monóxido de carbono e fuligem.
+Falta de ar não é economia: é queima suja e perigosa.
+Isolar demais sem controlar a tiragem pode fazer gases voltarem.
+Números aproximados servem para comparar, não para dimensionar.
+Nunca sacrifique a temperatura necessária ao produto.
+Mudanças devem ser testadas uma de cada vez para medir o efeito.
+
+SE NAO TIVER
+------------
+Sem balança, meça o combustível por volume conhecido de recipiente.
+Sem termômetro, compare o tempo de processo antes e depois.
+Sem material de isolamento, comece vedando frestas e portas.
+Sem registro anterior, meça uma linha de base por uma semana.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O consumo por unidade produzida caiu após as correções.
+A face externa do forno ficou mais fria ao toque.
+Os gases na chaminé saem mais frios, sem fumaça escura.
+A qualidade do produto se manteve igual ou melhor.
+
+FONTES
+------
+Prática consolidada de eficiência energética em fornos e processos
+térmicos, sem documento normativo único. Referências correntes de
+balanço de energia, isolamento térmico, recuperação de calor e
+combustão ajustada, como apresentadas em manuais de engenharia térmica.

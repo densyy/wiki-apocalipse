@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 22-008
+TITULO: Como ensinar mecânica básica
+CATEGORIA: 22 - Educação e transmissão de conhecimento
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: ferramentas manuais, óculos de proteção, luvas, peça para treinar
+REVISAO: 2026-11
+PALAVRAS-CHAVE: mecânica, ferramentas, oficina, chave, parafuso, conserto
+==============================================================================
+
+OBJETIVO
+--------
+Ensinar outra pessoa a usar ferramentas manuais e fazer um reparo simples.
+
+QUANDO USAR
+-----------
+Quando alguém do grupo vai manejar ferramenta manual pela primeira vez.
+Quando um reparo simples precisa ser feito sem energia elétrica.
+Quando houver parafuso, porca ou dobradiça solta para ajustar.
+
+NAO USE QUANDO
+--------------
+Quando houver rede energizada, gás, motor ligado ou peso suspenso.
+Desligue e imobilize primeiro; se não der, procure alguém qualificado.
+
+MATERIAIS
+---------
+- Chave de fenda, chave ajustável, alicate e martelo em bom estado.
+- Peça de treino descartável (sucata de madeira mole, parafuso e porca).
+- Óculos de proteção (ou óculos fechados que ficam presos).
+- Luvas de couro ou luvas para risco mecânico.
+
+PROCEDIMENTO
+------------
+1. Escolha uma tarefa curta: apertar um parafuso ou soltar uma porca.
+2. Prepare bancada firme, iluminada e livre de crianças e animais.
+3. Nomeie a ferramenta e explique: rosca é o sulco do parafuso.
+4. Inspecione a ferramenta: cabo sem rachadura e cabeça firme.
+5. Recuse ferramenta com cabeça achatada ou cabo solto; pode estilhaçar.
+6. Coloque óculos e luvas no aluno antes de qualquer golpe ou corte.
+7. Fixe a peça na bancada com a mão livre fora da linha da ferramenta.
+8. Aponte para longe do corpo; ajuste a chave até encaixe firme.
+9. Faça o aluno repetir devagar três vezes, corrigindo pegada e ângulo.
+10. Guarde tudo com as bordas cobertas, longe de crianças.
+
+ATENCAO
+-------
+Cabo rachado ou cabeça de martelo solta pode voar e acertar o rosto.
+Chave com mandíbula desgastada escorrega e esmaga os dedos.
+Não use chave de fenda como alavanca ou cinzel: a ponta vira estilhaço.
+Pare e procure atendimento se houver corte profundo, sangue que não para ou
+fragmento no olho.
+
+SE NAO TIVER
+------------
+Sem óculos, adie golpes e cortes; use só as mãos com a peça fixa.
+Sem luvas, não use serrote nem faca; a mão cortada é o erro mais comum.
+Sem chave do tamanho certo, não improvise com alicate nem com tubo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O aluno nomeia a ferramenta e aponta a rosca sem olhar as anotações.
+O parafuso ficou firme e a peça não se move ao ser puxada de leve.
+
+FONTES
+------
+Manual de prevenção de acidentes para alunos em oficinas do SENAI DR/MG;
+norma 1926.301 e boletim 3080 da OSHA.
+Ficha sobre chaves de fenda do CCOHS; guia do instrutor CERT da FEMA.

@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 10-039
+TITULO: Como produzir biodiesel em pequena escala
+CATEGORIA: 10 - Sobrevivência em ambientes naturais
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: óleo vegetal, metanol, soda cáustica, balança, vidro, luvas, óculos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: biodiesel, óleo de cozinha, metanol, glicerina, combustível
+==============================================================================
+
+OBJETIVO
+---------
+Produzir biodiesel por transesterificação, reação que transforma óleo em
+combustível e glicerina, usando óleo vegetal, metanol e soda cáustica.
+
+QUANDO USAR
+-----------
+Quando há óleo de cozinha parado e falta combustível para lampião ou fogão.
+Quando o abastecimento falha e há metanol e catalisador guardados.
+Quando se quer transformar óleo vegetal em combustível para gerador.
+Quando há óleo residual que seria descartado.
+
+NAO USE QUANDO
+--------------
+Sem metanol, sem catalisador ou sem balança: não inicie.
+Sem ventilação ou perto de fogo, faísca ou motor ligado: o vapor inflama.
+Sem óculos e luvas: o catalisador causa queimaduras graves.
+Com óleo usado, com água ou restos de comida: exige titulação.
+Quando não houver como testar o produto antes de usá-lo em motor.
+
+MATERIAIS
+---------
+- 1 litro de óleo vegetal novo (ou usado, filtrado e seco).
+- 200 ml de metanol, chamado álcool metílico (não use isopropanol).
+- Cerca de 5 g de hidróxido de sódio puro, a soda cáustica (ou 7 g de KOH).
+- Balança que meça gramas.
+- Frasco de vidro com tampa para dissolver a soda (nunca plástico).
+- Recipiente de vidro ou aço inox para a reação (nunca alumínio).
+- Peneira ou pano limpo, funil e recipiente para decantar.
+- Óculos de proteção, luvas de borracha e manga longa.
+- Água morna para lavar e recipiente separado para a glicerina.
+- Extintor de incêndio por perto.
+
+PROCEDIMENTO
+------------
+1. Filtre o óleo com peneira ou pano limpo para retirar sólidos.
+2. Aqueça o óleo a aproximadamente 55 °C no recipiente de vidro ou inox.
+3. Pese cerca de 5 g de hidróxido de sódio em recipiente seco.
+4. Despeje 200 ml de metanol no frasco de vidro em local ventilado.
+5. Adicione a soda ao metanol aos poucos e tampe o frasco.
+6. Agite até o sólido dissolver; o frasco esquenta e libera vapor tóxico.
+7. Despeje essa mistura, chamada metóxido, sobre o óleo aquecido, devagar.
+8. Agite sem parar por aproximadamente 60 minutos, mantendo a mistura morna.
+9. Desligue o calor e deixe descansar de 8 a 24 horas sem mexer.
+10. Observe duas camadas: glicerina escura embaixo, biodiesel em cima.
+11. Retire a glicerina por baixo e guarde-a em recipiente separado.
+12. Lave o biodiesel com água morna em outro recipiente.
+13. Agite de leve por aproximadamente 10 minutos e deixe decantar.
+14. Escorra a água quando ela ficar clara.
+15. Repita a lavagem se a água sair turva ou com cheiro de sabão.
+16. Seque o biodiesel ao ar, longe de fogo, até ficar límpido.
+17. Guarde em vidro ou metal, tampado, identificado e afastado de chamas.
+
+ATENCAO
+-------
+Metanol é tóxico: inalado, ingerido ou na pele pode causar cegueira e morte.
+Trabalhe ao ar livre ou com exaustão; nunca inale o vapor do metóxido.
+O vapor de metanol é inflamável e mais pesado que o ar: pode alcançar chama
+distante e voltar em clarão. Não fume e afaste faíscas e motores ligados.
+A soda é corrosiva: lave olhos ou pele com água corrente por 15 minutos e
+procure atendimento se houver ardor ou vermelhidão.
+Nunca use alumínio com a base: libera hidrogênio e pode explodir.
+Nunca dissolva a soda em plástico: o metanol dissolve o recipiente.
+Água no óleo forma sabão e impede a reação; este texto não ensina titulação.
+Glicerina e água de lavagem contêm metanol: não jogue em rio, solo ou ralo.
+Se houver derramamento na pele, fogo ou tontura, pare e busque ajuda.
+
+SE NAO TIVER
+------------
+Sem metanol, não substitua por etanol ou isopropanol: a reação muda.
+Sem soda cáustica, use hidróxido de potássio, cerca de 7 g por litro.
+Sem balança, não faça: base demais forma sabão e de menos não reage.
+Sem óculos e luvas, não comece.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Aparecem duas camadas após a decantação: escura embaixo, dourada em cima.
+O líquido superior fica límpido e amarelo-dourado após lavagem e secagem.
+Não se forma sabão espesso nem gel durante a agitação.
+A glicerina fica na proporção aproximada de 10% do volume inicial.
+
+FONTES
+------
+Embrapa, portal Ageitec, tema transesterificação do biodiesel.
+NCAT, manual Biodiesel: Do-It-Yourself Production Basics.
+Alternative Fuels Data Center do Departamento de Energia dos Estados Unidos,
+texto sobre produção e distribuição de biodiesel.
+Michigan State University Extension, boas práticas de segurança para
+produção de biodiesel em pequena escala.

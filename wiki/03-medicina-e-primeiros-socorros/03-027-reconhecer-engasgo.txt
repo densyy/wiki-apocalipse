@@ -1,0 +1,84 @@
+==============================================================================
+CODIGO: 03-027
+TITULO: Como reconhecer engasgo
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 2 minutos
+RISCO: critico
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: engasgo, asfixia, sufocamento, via aérea, tosse, cianose
+==============================================================================
+
+OBJETIVO
+---------
+Reconhecer os sinais de engasgo e decidir se é preciso agir na hora.
+
+QUANDO USAR
+-----------
+Pessoa que começa a tossir ou faz barulho estranho ao comer.
+Pessoa que leva as mãos à garganta com expressão de pânico.
+Pessoa que de repente não consegue falar, tossir ou respirar.
+Criança com comida ou objeto pequeno na boca que fica sem fazer som.
+Pessoa que fica vermelha e depois pálida ou azulada.
+Qualquer mudança repentina na respiração durante uma refeição.
+
+NAO USE QUANDO
+--------------
+Não faça manobras se a pessoa tossir com força e conseguir falar.
+Não trate como engasgo uma tosse leve que passa em segundos.
+Não espere a pele ficar azul para decidir agir.
+Não saia do lugar enquanto a pessoa ainda tiver sinais de engasgo.
+
+MATERIAIS
+---------
+- Nenhum material.
+- Celular, se houver, para ligar em viva-voz (ou peça a outra pessoa).
+
+PROCEDIMENTO
+------------
+1. Olhe o rosto da pessoa e observe a expressão.
+2. Veja se ela leva uma ou duas mãos à garganta.
+3. Pergunte em voz alta: "Você está engasgando?".
+4. Peça para ela falar, tossir ou respirar fundo.
+5. Se ela falar ou tossir com força, classifique como engasgo parcial.
+6. Incentive a tosse e fique ao lado da pessoa sem interferir.
+7. Se ela não falar, não tossir e não respirar, é engasgo completo.
+8. Observe a cor da pele, dos lábios, das unhas e do rosto.
+9. Se ficar pálida ou azulada, trate como emergência.
+10. Grite por ajuda e peça para alguém ligar para o SAMU (192).
+11. Se estiver sozinho, ligue em viva-voz e comece a desobstruir.
+12. Incline a pessoa e dê 5 golpes entre as escápulas.
+13. Se não desobstruir, faça 5 compressões no alto do abdome.
+14. Alterne golpes e compressões até o objeto sair ou o socorro chegar.
+15. Se a pessoa desmaiar, comece RCP e peça ajuda (veja 03-003).
+
+ATENCAO
+-------
+Engasgo completo pode matar em poucos minutos: aja sem esperar.
+Não espere a pele ficar azul: nesse ponto o cérebro já sofre.
+Não dê água, comida ou remédio a quem está engasgando.
+Não enfie o dedo na garganta às cegas: isso empurra o objeto.
+Não bata nas costas de quem está em pé e tossindo com força.
+Mesmo após desobstruir, a pessoa precisa de avaliação médica.
+Se a pessoa desmaiar, comece RCP e continue até o socorro chegar.
+
+SE NAO TIVER
+------------
+Sem ajuda: grite, ligue em viva-voz e comece sem sair do lugar.
+Sem celular: peça a outra pessoa que corra para chamar o socorro.
+Sem luz: aproxime o ouvido da boca e ouça o ar entrar.
+Sem saber as manobras: incentive a tosse e chame ajuda na hora.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você distingue a tosse forte da falta de fala e de ar.
+A pessoa volta a falar, tossir e respirar após a tosse ou as manobras.
+O socorro foi chamado e você informou o que encontrou.
+
+FONTES
+------
+Orientação de primeiros socorros da Cruz Vermelha americana e britânica
+sobre sinais de engasgo e desobstrução da via aérea.
+Manual de primeiros socorros da St John Ambulance, com revisão clínica
+em 2025 e 2026. MedlinePlus (NIH) e Mayo Clinic sobre obstrução
+parcial e completa. Texto operacional; não substitui treinamento.

@@ -1,0 +1,83 @@
+==============================================================================
+CODIGO: 84-010
+TITULO: Como criar manuais de treinamento técnico
+CATEGORIA: 84 - Educação avançada e formação de especialistas
+TEMPO: 90 minutos
+RISCO: baixo
+EXIGE: papel, lápis, conhecimento do ofício, pessoa para testar o texto
+REVISAO: 2026-11
+PALAVRAS-CHAVE: manual, treinamento, técnico, instrução, passo, ofício
+==============================================================================
+
+OBJETIVO
+--------
+Escrever um guia que permita a outra pessoa executar uma tarefa sozinha.
+
+QUANDO USAR
+-----------
+Quando um procedimento é passado só de boca em boca e se perde.
+Ao preparar material para ensinar um ofício a novos aprendizes.
+Quando uma tarefa tem vários passos e alguém costuma pular um deles.
+Ao registrar o modo correto de usar uma ferramenta ou máquina.
+Quando o procedimento envolve risco e precisa ser seguido à risca.
+
+NAO USE QUANDO
+--------------
+Não escreva manual de algo que você nunca executou.
+Não use o manual para substituir treino prático com supervisão.
+Não descreva como "fácil" um passo que exige cuidado ou força.
+
+MATERIAIS
+---------
+- Papel e lápis para o rascunho (caderno).
+- Texto ou anotações antigas sobre a tarefa (se houver).
+- A ferramenta ou o material usado na tarefa (para conferir os passos).
+- Uma pessoa que conheça pouco o assunto (para testar o texto).
+- Relógio para medir quanto tempo a tarefa leva (celular).
+
+PROCEDIMENTO
+------------
+1. Escolha uma tarefa completa e com começo e fim claros.
+2. Execute a tarefa uma vez e anote cada passo que realizou.
+3. Escreva os passos na ordem exata, com verbo no começo de cada linha.
+4. Numere os passos e nunca junte dois deles na mesma linha.
+5. Escreva o que conferir antes de começar e o que conferir ao final.
+6. Anote os materiais e as ferramentas antes da lista de passos.
+7. Escreva os riscos de cada etapa e o que fazer se algo der errado.
+8. Substitua termos técnicos por palavras que um iniciante entenda.
+9. Se usar termo técnico, explique-o na mesma linha, com poucas palavras.
+10. Peça a uma pessoa sem prática que siga o manual sem ajuda.
+11. Observe em silêncio e anote onde ela parou ou errou.
+12. Reescreva os passos que geraram dúvida ou erro.
+13. Teste o manual uma segunda vez com outra pessoa.
+14. Escreva a data da última revisão no começo do texto.
+15. Guarde uma cópia junto à ferramenta e outra com o instrutor.
+
+ATENCAO
+-------
+Um manual escrito por quem já sabe costuma pular passos óbvios.
+Nunca omita um passo de segurança para deixar o texto curto.
+Se a tarefa envolver eletricidade, fogo ou química, destaque o risco.
+Manual que ninguém testou é rascunho, não material de ensino.
+Atualize o texto quando a ferramenta ou o procedimento mudar.
+
+SE NAO TIVER
+------------
+Sem papel, escreva o rascunho em caderno e depois passe a limpo.
+Sem pessoa para testar, siga o texto você mesmo em voz alta.
+Sem ferramenta à mão, escreva a partir da memória e confira depois.
+Sem relógio, diga "cerca de" antes do tempo aproximado.
+Sem local para guardar, deixe o manual dentro da caixa da ferramenta.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Uma pessoa sem prática executa a tarefa seguindo apenas o manual.
+Os passos estão numerados e começam com verbo no imperativo.
+Os materiais e os riscos aparecem antes do primeiro passo.
+O texto traz a data da última revisão e cabe em poucas folhas.
+
+FONTES
+------
+Prática consolidada de redação de instruções e manuais técnicos.
+Inspirado nos manuais de operação e cartilhas de instrutores do SENAI
+e do SENAR e em normas simples de escrita de procedimentos.

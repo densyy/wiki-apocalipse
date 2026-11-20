@@ -1,0 +1,82 @@
+==============================================================================
+CODIGO: 53-001
+TITULO: História da farmacologia
+CATEGORIA: 53 - Produção de medicamentos e farmacologia
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: farmacologia, história, remédio, droga, medicamento, veneno
+==============================================================================
+
+OBJETIVO
+--------
+Entender como o uso de remédios virou ciência, em marcos simples.
+
+QUANDO USAR
+-----------
+Ao explicar por que uma droga cura e outra mata na mesma dose.
+Ao entender a diferença entre farmácia, farmacognosia e farmacologia.
+Ao avaliar afirmações antigas sobre remédios caseiros e venenos.
+Ao estudar a base histórica das classes de medicamentos.
+Ao perceber por que dose, pureza e registro salvaram vidas.
+
+NAO USE QUANDO
+--------------
+Não use este resumo para escolher remédio, dose ou tratamento.
+Não serve para substituir bula, prescrição ou orientação profissional.
+Não use datas como regra: alguns marcos variam conforme a fonte.
+Este texto não ensina a preparar, extrair ou aplicar substância alguma.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Comece pela pré-história: plantas eram escolhidas por instinto.
+2. Observe que restos de plantas medicinais foram achados em cavernas.
+3. Leia as tábuas sumérias: já traziam receitas e modos de preparo.
+4. Note que o papiro de Ebers, do Egito, lista remédios antigos.
+5. Vá à Grécia: Hipócrates separou o remédio da magia e do mito.
+6. Registre Dioscórides: sua obra nomeou a matéria médica e listou
+   mais de 600 plantas por volta do primeiro século.
+7. Compare com a China: o Shennong Ben Cao Jing surgiu na dinastia Han.
+8. Siga para o mundo islâmico: farmácias surgiram em Bagdá no século VIII.
+9. Note que al-Zahrawi ensinou destilar e sublimar para preparar remédios.
+10. Registre Avicenna: descreveu centenas de preparos no Cânon da Medicina.
+11. Volte à Europa: em 1240 o imperador separou médico e boticário.
+12. Observe que a imprensa difundiu formulários no século XV.
+13. Chegue ao século XIX: a química orgânica permitiu isolar princípios.
+14. Note que anestésicos como o clorofórmio apareceram em 1847.
+15. Registre 1921: a insulina passou a controlar o açúcar no sangue.
+16. Registre 1928: Fleming descobriu a penicilina, primeiro antibiótico.
+17. Note 1950: a clorpromazina iniciou a era dos remédios psiquiátricos.
+18. Relacione cada marco com uma ideia: observar, isolar, testar, regular.
+
+ATENCAO
+-------
+Este texto descreve fatos, não recomenda tratamentos.
+Nunca use planta ou substância descrita aqui como remédio caseiro.
+Dose e efeito dependem de pureza, peso corporal e outras medicações.
+Um remédio antigo pode ser ineficaz ou venenoso na dose errada.
+Datas variam entre fontes; trate números antigos como estimativa.
+Pare e procure ajuda se houver intoxicação, mesmo com produto natural.
+
+SE NAO TIVER
+------------
+Sem livro ou aula, use este resumo como roteiro de leitura.
+Sem acesso a fonte primária, aceite só marcos muito citados.
+Não invente nome, data ou autor para preencher lacuna de memória.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue citar quatro marcos em ordem e explicar, com suas palavras,
+como a farmacologia saiu da tradição para a experiência e a regulação.
+
+FONTES
+------
+História consolidada da farmácia e da farmacologia. Marcos segundo
+Sneader, Drug Discovery: A History; Kremers and Urdang's History of
+Pharmacy e Encyclopedia Britannica, em compilação enciclopédica.
+Resumo operacional; não substitui estudo nem orientação clínica.

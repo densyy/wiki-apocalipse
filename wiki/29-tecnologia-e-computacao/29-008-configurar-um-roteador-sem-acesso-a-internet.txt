@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 29-008
+TITULO: Como configurar um roteador sem acesso à internet
+CATEGORIA: 29 - Tecnologia, computação e informática offline
+TEMPO: 25 minutos
+RISCO: baixo
+EXIGE: roteador com fonte, celular com navegador, rótulo do aparelho
+REVISAO: 2026-11
+PALAVRAS-CHAVE: roteador, wifi, rede local, senha, ssid, wpa2, sem internet
+==============================================================================
+
+OBJETIVO
+--------
+Configurar um roteador para criar uma rede local fechada, sem internet.
+
+QUANDO USAR
+-----------
+Quando a internet caiu e os aparelhos precisam conversar.
+Quando o roteador foi trocado ou perdeu a configuração.
+
+NAO USE QUANDO
+--------------
+Quando precisar navegar: o procedimento não cria internet.
+Quando o roteador cheirar a queimado ou for de outra pessoa.
+
+MATERIAIS
+---------
+- Roteador com fonte, celular com navegador e Wi-Fi.
+- Papel, caneta e rótulo com endereço e senha do painel.
+
+PROCEDIMENTO
+------------
+1. Desligue o roteador e retire a fonte da tomada.
+2. Anote o endereço do painel (como 192.168.0.1) e a senha do rótulo.
+3. Ligue a fonte e aguarde aproximadamente 1 minuto.
+4. Conecte o aparelho ao Wi-Fi aberto do roteador ou ao cabo.
+5. No navegador, digite o endereço anotado e entre com os dados do rótulo.
+6. Troque a senha de administrador por uma longa; anote em papel.
+7. Defina o nome da rede (SSID, texto mostrado na lista de Wi-Fi).
+8. Selecione WPA2 (ou WPA3) e crie uma senha longa para a rede.
+9. Desative o WPS, botão de conexão rápida, se houver a opção.
+10. Mantenha o modo roteador e ative o DHCP na tela da rede local.
+11. Deixe a internet sem provedor, salve e aguarde o reinício.
+12. Reconecte à rede com a senha nova e abra o painel de novo.
+
+ATENCAO
+-------
+Senha padrão é pública: troque-a sempre.
+Se esquecer a senha do painel, será preciso restaurar o aparelho e refazer.
+Rede aberta ou WEP deixa qualquer pessoa próxima entrar e ver arquivos.
+Este procedimento não cria internet; não configure portas nem DMZ.
+Se o roteador aquecer muito ou cheirar a queimado, desligue e peça ajuda.
+
+SE NAO TIVER
+------------
+Sem manual, leia o rótulo; teste 192.168.0.1 e 192.168.1.1 no navegador.
+Sem computador, use um celular com Wi-Fi e navegador.
+Sem navegador, arranje um aparelho com navegador antes de começar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O painel abre com a nova senha de administrador.
+O nome escolhido aparece na lista de Wi-Fi de outro aparelho.
+O aparelho conecta com a senha nova e recebe endereço automático.
+
+FONTES
+------
+NIST SP 800-153, Guidelines for Securing Wireless Local Area Networks, 2012.
+Prática consolidada de roteadores, sem documento único: senha, SSID, WPA2.
+Resumo operacional. Não substitui o manual do fabricante.

@@ -1,0 +1,97 @@
+==============================================================================
+CODIGO: 45-006
+TITULO: Como construir wetlands artificiais
+CATEGORIA: 45 - Engenharia de saneamento e saúde pública
+TEMPO: 240 minutos
+RISCO: alto
+EXIGE: luvas, lona, cascalho lavado, plantas aquáticas, água decantada
+REVISAO: 2026-11
+PALAVRAS-CHAVE: wetland, leito plantado, esgoto, cascalho, taboa, filtro
+==============================================================================
+
+OBJETIVO
+--------
+Montar um wetland artificial (leito plantado) que reduza a carga
+orgânica da água residual já decantada, sem energia elétrica.
+
+QUANDO USAR
+-----------
+Quando o esgoto doméstico precisar de tratamento após a decantação.
+Quando não houver estação de tratamento nem energia no abrigo.
+Quando houver terreno plano e livre, afastado da captação de água.
+
+NAO USE QUANDO
+--------------
+Quando a água tiver combustível, agrotóxico, metal, sal ou solvente.
+O leito não remove esses contaminantes e pode atingir o lençol d'água.
+Quando não houver decantação prévia: sólidos entopem o leito.
+Quando o lençol de água aparecer na escavação ou o solo for rocha.
+
+MATERIAIS
+---------
+- Lona plástica impermeável para fundo e paredes (argila compactada).
+- Cascalho lavado, sem terra nem finos (pedra britada lavada).
+- Areia grossa lavada para o fundo (cascalho miúdo).
+- Mudas de taboa, junco ou ciperácea nativa (espécie do local).
+- Tubo ou mangueira de entrada e saída (garrafa plástica cortada).
+- Luvas, pá, régua, estacas e barbante.
+- Pré-tratamento em operação: decantação ou fossa séptica.
+
+PROCEDIMENTO
+------------
+1. Escolha terreno plano, a jusante e abaixo da captação de água.
+2. Mantenha o leito a aproximadamente 30 metros da fonte de água.
+3. Não cave onde a água subterrânea aparecer na escavação.
+4. Marque o retângulo com estacas e barbante.
+5. Calcule aproximadamente 3 metros quadrados por pessoa atendida.
+6. Cave a vala e forre fundo e paredes com a lona, sem furos.
+7. Sobreponha as emendas da lona em aproximadamente 20 centímetros.
+8. Dê ao fundo queda de aproximadamente 1 centímetro por metro.
+9. Coloque aproximadamente 10 centímetros de areia grossa no fundo.
+10. Encha com cascalho lavado até aproximadamente 60 centímetros.
+11. Enterre o tubo de entrada na extremidade alta, sobre o cascalho.
+12. Enterre o tubo de saída na extremidade baixa, com pedra ao redor.
+13. Plante as mudas espaçadas, com a coroa na superfície do cascalho.
+14. Regue as mudas com água limpa até o cascalho ficar úmido.
+15. Deixe o leito descansar aproximadamente 7 dias sem esgoto.
+16. Ligue a saída do pré-tratamento ao tubo de entrada, sem vazamento.
+17. Espalhe a água decantada por toda a largura do leito.
+18. Verifique a saída uma vez por dia nos primeiros 7 dias.
+
+ATENCAO
+-------
+O leito trata água já decantada; não substitui o pré-tratamento.
+Sem decantação, o cascalho entope e vira poço de lodo.
+A água de saída não é potável: nunca beba nem cozinhe com ela.
+Use luvas, lave as mãos e não entre com feridas abertas no leito.
+Cheiro forte, água parada ou mosquitos indicam sobrecarga.
+Se a água parar na entrada, limpe o acúmulo com a pá.
+Colha a parte aérea das plantas a cada aproximadamente 3 meses.
+Nunca despeje químico, óleo, remédio ou agrotóxico no leito.
+Área por pessoa e queda do fundo são referências gerais, não projeto.
+Taboa e caniço podem ser invasores: não jogue mudas na natureza.
+
+SE NAO TIVER
+------------
+Sem lona, use argila compactada em camadas finas; em solo arenoso
+não improvise: a água pode infiltrar e alcançar o lençol.
+Sem cascalho, use pedra britada lavada; nunca use terra ou finos.
+Sem plantas, espere: sem vegetação o leito funciona pior.
+Sem pré-tratamento, monte a decantação antes (veja 45-003).
+Sem área para 3 metros quadrados por pessoa, atenda menos pessoas.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água entra espalhada e sai pelo tubo baixo, sem acumular.
+Não há água visível sobre o cascalho nem cheiro forte.
+As mudas criaram folhas novas e o cascalho ficou úmido, não seco.
+A água de saída está mais clara do que a de entrada.
+
+FONTES
+------
+Agência de Proteção Ambiental dos Estados Unidos (EPA), página
+Constructed Wetlands e os documentos "Design Manual: Constructed
+Wetlands Treatment of Municipal Wastewater", "Constructed Treatment
+Wetlands" (2004) e "Subsurface Flow Constructed Wetlands for
+Wastewater Treatment" (1993). Demais medidas são prática consolidada
+de saneamento, sem documento único consultado. Resumo operacional.

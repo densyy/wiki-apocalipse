@@ -1,0 +1,68 @@
+==============================================================================
+CODIGO: 04-013
+TITULO: Como identificar problemas em painéis solares
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: acesso seguro aos painéis, luz do dia, luvas e óculos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: painel solar, placa, defeito, vistoria, energia, sombra
+==============================================================================
+
+OBJETIVO
+--------
+Localizar sinal visível de falha em painel solar sem abrir
+caixa, sem soltar fio e sem encostar em parte energizada.
+
+QUANDO USAR
+-----------
+Quando a carga acaba rápido ou o sistema rende pouco.
+Quando um painel parece mais sujo ou mais escuro que os outros.
+Quando houve granizo, vento forte, galho ou objeto sobre a placa.
+
+NAO USE QUANDO
+--------------
+Com chuva, raio, telhado molhado ou piso escorregadio.
+Se houver fio partido, cheiro de queimado ou barulho de estalo.
+
+MATERIAIS
+---------
+- Luvas de borracha secas e óculos de proteção.
+- Pano macio seco e escova de cerdas macias (papelão firme).
+- Caderno e lápis para anotar o painel com defeito.
+- Escada firme e calçado fechado antiderrapante.
+
+PROCEDIMENTO
+------------
+1. Faça a vistoria de dia, com céu claro e sem chuva.
+2. Observe os painéis de longe antes de se aproximar.
+3. Procure vidro trincado, quebrado ou ponto marrom de queima.
+4. Procure mancha escura, bolha, descascado ou moldura torta.
+5. Procure sujeira, folha, sombra, ninho ou excremento sobre a placa.
+6. Observe cabo solto, descascado, escurecido ou conector derretido.
+7. Cheire sem encostar: cheiro de queimado indica falha elétrica.
+8. Ouça sem encostar: estalo repetido indica mau contato.
+9. Compare painéis iguais entre si e marque o diferente.
+10. Anote qual painel falhou e qual sinal ele apresenta.
+
+ATENCAO
+-------
+Painel com sol gera eletricidade e o choque pode ser grave.
+Nunca abra caixa de ligação nem encoste em fio ou conector.
+Vidro quebrado corta e pode esconder parte energizada por baixo.
+Não suba em telhado sem apoio firme e sem outra pessoa por perto.
+Se houver queima, fio exposto ou estalo, pare e chame ajuda.
+
+SE NAO TIVER
+------------
+Sem escova macia, use pano seco e limpe só a sujeira solta.
+Sem acesso seguro, faça só a observação de longe e anote.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você aponta qual painel está ruim e qual sinal ele mostra.
+Nenhum fio foi tocado, aberto ou apertado durante a vistoria.
+
+FONTES
+------
+Prática consolidada de vistoria visual de sistemas fotovoltaicos.

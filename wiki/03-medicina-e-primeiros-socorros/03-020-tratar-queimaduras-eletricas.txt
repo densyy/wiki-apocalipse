@@ -1,0 +1,88 @@
+==============================================================================
+CODIGO: 03-020
+TITULO: Como tratar queimaduras elétricas
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 15 minutos
+RISCO: critico
+EXIGE: fonte de energia desligada, pano limpo ou gaze, água limpa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: queimadura, eletricidade, choque, corrente, arritmia
+==============================================================================
+
+OBJETIVO
+---------
+Atender com segurança quem sofreu queimadura elétrica até o atendimento.
+
+QUANDO USAR
+-----------
+Depois de um choque com fio, tomada ou eletrodoméstico.
+Depois de contato com fio de alta tensão ou com raio.
+Quando a pele mostra marca escura, endurecida ou ferida no contato.
+Quando a pessoa levou choque e está tonta, fraca ou confusa.
+Mesmo sem ferida visível, depois de qualquer choque elétrico.
+
+NAO USE QUANDO
+--------------
+Não toque na pessoa enquanto ela toca a corrente.
+Não entre em área com fio caído no chão: mantenha-se afastado.
+Não aplique este procedimento em rede energizada: desligue primeiro.
+
+MATERIAIS
+---------
+- Pano limpo ou gaze esteril (ou camiseta limpa dobrada).
+- Água limpa em recipiente.
+- Luvas descartáveis (ou sacola plástica), se houver.
+- Cobertor ou casaco para manter o calor.
+- Algo para anotar a hora e pedir o socorro.
+
+PROCEDIMENTO
+------------
+1. Pare e olhe a cena antes de agir.
+2. Desligue a corrente no disjuntor ou tire o plugue da tomada.
+3. Se for alta tensão ou fio caído, não se aproxime: chame o socorro.
+4. Mantenha-se a aproximadamente 10 metros de fios caídos no chão.
+5. Só toque na pessoa depois que a fonte estiver desligada.
+6. Peça ajuda e ligue para o socorro imediatamente.
+7. Verifique se a pessoa responde, respira e tem pulso.
+8. Se não respirar, inicie RCP (veja 03-003) e continue até o socorro.
+9. Retire anéis, relógios e pulseiras perto da queimadura.
+10. Não retire roupa grudada na pele: corte em volta com cuidado.
+11. Cubra a queimadura com pano limpo ou gaze, sem apertar.
+12. Com a corrente cortada, refresque com água limpa por alguns minutos.
+13. Não use gelo, pomada, manteiga nem pasta de dente na queimadura.
+14. Deite a pessoa de costas se ela estiver fraca ou tonta.
+15. Cubra com cobertor para manter o calor e não dê comida nem bebida.
+16. Fique ao lado e observe a respiração até chegar o socorro.
+
+ATENCAO
+-------
+A corrente pode causar dano interno invisível: a pele mostra só a ponta.
+A marca de entrada e a de saída podem estar em lugares diferentes.
+Arritmia cardíaca pode surgir horas depois: cada choque exige avaliação.
+Contração muscular pode quebrar osso; a queda pode ferir a coluna.
+Não confie se a pessoa diz que está bem: procure atendimento mesmo assim.
+Nunca use água, gelo ou pomada antes de cortar a corrente.
+Se a pessoa piorar, desmaiar ou parar de respirar, insista no socorro.
+Fogo em ambiente fechado gera monóxido de carbono: areje com segurança.
+
+SE NAO TIVER
+------------
+Sem gaze: use pano limpo, camiseta limpa dobrada ou papel-toalha.
+Sem água: apenas cubra com pano limpo e procure atendimento.
+Sem luvas: use sacola plástica limpa ou lave as mãos antes de tocar.
+Sem cobertor: use casaco ou toalha para manter o calor.
+Não improvise isolamento em rede energizada: isso pode matar você também.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A fonte de energia está desligada e ninguém toca mais na corrente.
+A pessoa responde e respira, ou a RCP segue sem parar.
+A queimadura está coberta com pano limpo, sem pomada nem gelo.
+O socorro foi acionado e a pessoa fica sob observação.
+
+FONTES
+------
+Prática consolidada de primeiros socorros em queimaduras elétricas.
+Referências: Cruz Vermelha e American Heart Association (RCP);
+American Burn Association e literatura de medicina de emergência.
+Este texto é resumo operacional e não substitui treinamento prático.

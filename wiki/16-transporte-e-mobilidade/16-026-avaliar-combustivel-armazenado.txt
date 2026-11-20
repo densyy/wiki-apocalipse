@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 16-026
+TITULO: Como avaliar combustível armazenado
+CATEGORIA: 16 - Transporte e mobilidade
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: frasco de vidro com tampa, luvas, óculos, lanterna, local ventilado
+REVISAO: 2026-11
+PALAVRAS-CHAVE: combustível, gasolina, diesel, etanol, água, tanque, goma
+==============================================================================
+
+OBJETIVO
+--------
+Avaliar, por sinais visíveis e de cheiro, se o combustível ainda é usável.
+
+QUANDO USAR
+-----------
+Quando o veículo, gerador ou equipamento ficou parado por meses.
+Antes de usar combustível que ficou em tanque, bombona ou galão.
+Quando o motor falha na partida, perde força ou para ao acelerar.
+Quando a tampa ficou mal fechada ou o tanque recebeu chuva.
+Antes de usar combustível doado, achado ou de origem desconhecida.
+
+NAO USE QUANDO
+--------------
+Quando houver água visível no fundo ou cheiro azedo e fermentado.
+Não tente queimar, filtrar, misturar ou recuperar esse combustível.
+Não faça a inspeção em garagem fechada nem perto de chama ou faísca.
+
+MATERIAIS
+---------
+- Frasco de vidro transparente com tampa.
+- Luvas grossas de borracha ou nitrilo.
+- Óculos de proteção.
+- Lanterna ou luz de celular mantida longe do tanque.
+- Pano limpo para limpar a tampa e a área ao redor.
+- Recipiente metálico limpo para guardar a amostra.
+- Pasta indicadora de água, se houver (opcional).
+
+PROCEDIMENTO
+------------
+1. Coloque luvas e óculos antes de tocar no tanque.
+2. Estacione em local aberto, ventilado e longe de escapamento quente.
+3. Afaste cigarros, fósforos e fontes de faísca do local.
+4. Limpe a tampa e a área ao redor com o pano limpo.
+5. Abra a tampa devagar e mantenha o rosto afastado da abertura.
+6. Retire amostra do fundo com bomba manual ou drenagem; nunca use a boca.
+7. Feche a tampa do tanque imediatamente depois da coleta.
+8. Deixe a amostra parada em superfície nivelada até a sujeira assentar.
+9. Olhe a amostra contra a luz: note cor, turbidez e camadas separadas.
+10. Olhe o fundo do frasco: gotas ou camada clara indicam água livre.
+11. Note sedimentos escuros, vermelhos ou goma grudada na parede.
+12. Cheire com o frasco afastado do rosto, abanando o vapor com a mão.
+13. Se tiver pasta indicadora de água, use-a conforme o rótulo.
+14. Anote a data, o tipo de combustível e tudo o que observou.
+15. Feche o frasco e descarte a amostra em local seguro, nunca no solo.
+
+ATENCAO
+-------
+Vapores de gasolina e etanol são inflamáveis: uma faísca causa incêndio.
+Nunca cheire com o nariz no frasco nem teste o combustível com fogo.
+Água livre no tanque corrói o metal e alimenta microrganismos no diesel.
+Com etanol e água, o combustível separa; a camada baixa vai ao motor.
+Gomas de oxidação entopem filtros e bicos mesmo sem mudança de cor.
+Tanque mal tampado perde componentes leves e prejudica a partida no frio.
+Cor e cheiro normais não provam qualidade: só ensaio laboratório confirma.
+Este texto apenas avalia; não purifica nem recupera. Na dúvida, não use.
+
+SE NAO TIVER
+------------
+Sem frasco de vidro, use recipiente metálico limpo e seco.
+Não use copo plástico comum: gasolina dissolve vários plásticos.
+Sem pasta indicadora, baseie-se na separação visível e no assentamento.
+Sem luvas e óculos, não abra o tanque: combustível irrita pele e lesa olhos.
+Sem local ventilado, não faça a inspeção: vapores em ambiente fechado matam.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Uma só fase, sem gotas d'água no fundo e sem sedimentos visíveis.
+A cor ficou parecida com a de combustível novo e o cheiro é de solvente.
+A amostra foi fechada e descartada em recipiente próprio, longe de fogo.
+
+FONTES
+------
+Iowa Central Community College: ensaios ASTM da NFPA 110 para geradores.
+ANP (Agência Nacional do Petróleo): padrões de qualidade de combustíveis.
+Extensão universitária sobre armazenamento de derivados de petróleo
+(Oklahoma State, Kansas State e Texas A&M).
+Prática consolidada de inspeção visual; não substitui ensaio laboratorial.

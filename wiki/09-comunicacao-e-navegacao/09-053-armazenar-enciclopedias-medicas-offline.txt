@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 09-053
+TITULO: Como armazenar enciclopédias médicas offline
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 45 minutos
+RISCO: medio
+EXIGE: celular online, leitor de arquivos, cartão de memória
+REVISAO: 2026-11
+PALAVRAS-CHAVE: enciclopédia médica, offline, sem internet, saúde, pdf
+==============================================================================
+
+OBJETIVO
+--------
+Guarde uma referência médica no aparelho e abra-a sem internet nem sinal.
+
+QUANDO USAR
+-----------
+Quando houver internet hoje e a região ficar sem sinal amanhã.
+Quando a energia cair ou antes de entrar em área remota ou de desastre.
+
+NAO USE QUANDO
+--------------
+Não use texto desatualizado no lugar de atendimento profissional.
+Não confie em arquivo de fonte desconhecida ou alterado.
+
+MATERIAIS
+---------
+- Celular ou computador com internet agora.
+- Leitor de PDF ou aplicativo Kiwix com conteúdo médico.
+- Cartão de memória e papel para a cópia impressa.
+
+PROCEDIMENTO
+------------
+1. Escolha uma fonte confiável enquanto ainda há internet.
+2. Baixe "Onde não há médico", da Hesperian, em PDF e português.
+3. Instale o Kiwix e baixe o arquivo médico WikiMed pelo catálogo.
+4. Prefira a versão compacta "mini": traz o texto e ocupa menos espaço.
+5. Confira o nome e o tamanho do arquivo antes de copiar.
+6. Abra o arquivo uma vez online para garantir que não está corrompido.
+7. Copie o arquivo para o cartão e para a memória do aparelho.
+8. Passando de 4 gigabytes, formate em exFAT; FAT32 não aceita isso.
+9. Anote no papel o nome, a data e a versão do arquivo.
+10. Desligue Wi-Fi e dados e abra um artigo conhecido.
+11. Imprima as páginas de primeiros socorros para o kit.
+12. Repita o download a cada poucos meses, ainda com internet.
+
+ATENCAO
+-------
+Informação médica envelhece: arquivo velho pode indicar remédio fora de uso.
+Renove a cópia e baixe só da fonte oficial: arquivo alterado erra a dose.
+Celular sem bateria não abre nada: mantenha sempre a cópia de papel.
+Se piorar, busque atendimento pelo plano de comunicação do grupo.
+
+SE NAO TIVER
+------------
+Sem computador, baixe no celular enquanto ainda houver sinal.
+Sem aplicativo, leia o PDF no leitor do próprio aparelho.
+Sem cartão, use a memória interna; sem sinal, anote a fonte e espere.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Com Wi-Fi e dados desligados, o leitor abre e acha o artigo pela busca.
+As cópias no cartão e no aparelho abrem a mesma página.
+
+FONTES
+------
+OMS: OpenWHO, conteúdo de saúde descarregável e uso offline em emergência.
+Hesperian Health Guides: "Onde não há médico", PDF em português.
+Kiwix/WikiMed: arquivos médicos e FAT32; CDC/FEMA: referência impressa.

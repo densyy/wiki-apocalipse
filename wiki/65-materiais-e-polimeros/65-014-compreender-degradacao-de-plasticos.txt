@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 65-014
+TITULO: Como compreender degradação de plásticos
+CATEGORIA: 65 - Engenharia de materiais e polímeros
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: caderno, lupa, luz forte, amostras de plástico descartadas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: plástico, degradação, sol, oxidação, microplástico, trinca
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer os sinais de envelhecimento do plástico e decidir se uma peça
+ainda pode ser usada.
+
+QUANDO USAR
+-----------
+Quando uma peça exposta ao sol fica descorada, fosca ou esbranquiçada.
+Quando um plástico racha, quebra ou solta pó ao ser manuseado.
+Quando você precisa decidir se uma peça envelhecida ainda serve.
+Quando precisa escolher onde guardar peças de plástico e por quanto tempo.
+Quando aparecem fragmentos pequenos e você quer saber de onde vêm.
+
+NAO USE QUANDO
+--------------
+Não use este texto para dimensionar peça, calcular vida útil em anos nem
+garantir segurança de alimento, água ou dispositivo médico. Isso exige
+ensaio de laboratório e norma técnica. Na dúvida, troque a peça.
+
+MATERIAIS
+---------
+- Caderno e lápis para anotar o que você observar.
+- Lupa ou lente de aumento (a lente do celular serve).
+- Luz forte, de dia ou lanterna.
+- Pano limpo e seco para limpar as amostras.
+- Amostras descartadas de plástico: garrafa, sacola, tubo e tampa.
+- Recipiente com água limpa para o teste de flutuação.
+
+PROCEDIMENTO
+------------
+1. Separe amostras de plásticos diferentes e anote a origem de cada uma.
+2. Limpe cada amostra com o pano seco; tire poeira e gordura.
+3. Observe a cor e o brilho de cada amostra com luz forte e lupa.
+4. Anote superfície fosca, esbranquiçada ou com pó: sinal de oxidação.
+5. Dobre uma borda fina com cuidado. Plástico íntegro dobra e volta;
+   plástico degradado racha ou quebra sem voltar.
+6. Pressione a superfície com a unha. Se afundar ou soltar pó, enfraqueceu.
+7. Compare uma peça que ficou ao sol com outra guardada na sombra.
+8. Esfregue a superfície com pano escuro e veja se solta microfragmentos.
+9. Coloque um pedaço na água. Se flutuar, é provável polietileno ou
+   polipropileno; se afundar, pode ser PET ou PVC.
+10. Leia o número dentro do triângulo, quando houver, como pista do tipo
+    de resina, nunca como prova de composição.
+11. Classifique cada amostra em íntegra, envelhecida ou quebradiça.
+12. Anote no caderno a classe, o sinal visto e a decisão: usar ou trocar.
+
+ATENCAO
+-------
+A luz ultravioleta do sol e o oxigênio quebram as cadeias do polímero.
+É a foto-oxidação: o plástico perde brilho, fica fosco e quebradiço.
+Polietileno e polipropileno degradam sobretudo por foto-oxidação.
+PET e PLA sofrem também hidrólise, que é a reação com a água.
+O calor acelera o processo. Sol e calor juntos encurtam a vida da peça.
+A quebra forma microplásticos: fragmentos que se soltam com o atrito e
+não desaparecem no ambiente.
+Nunca queime plástico para testar. PVC libera gases tóxicos e qualquer
+plástico solta fumo perigoso; queime só em local ventilado, se precisar.
+Uma peça que racha pode falhar sem aviso. Não confie em peça envelhecida
+de segurança, mangueira de combustível ou isolamento elétrico.
+Teste caseiro mostra tendência, não vida útil em anos. Durabilidade real
+exige ensaio acelerado em laboratório.
+Em dúvida sobre segurança, pare de usar e procure ajuda.
+
+SE NAO TIVER
+------------
+Sem lupa, observe contra a luz forte do dia; a confiança cai.
+Sem sol, não force o envelhecimento: observe só o que o tempo já fez.
+Sem peça nova para comparar, use uma guardada na sombra como referência.
+Sem água, pule o teste de flutuação; ele é pista, nunca prova.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você aponta, em cada amostra, um sinal observável: cor, brilho, pó,
+trinca ou flexibilidade.
+Você separou as peças em íntegras, envelhecidas e quebradiças e anotou
+o motivo de cada escolha.
+Você decidiu, com base no que viu, quais peças ainda servem e quais devem
+ser descartadas.
+
+FONTES
+------
+Prática consolidada de ciência dos materiais e engenharia de polímeros,
+presente em cursos universitários. Revisões sobre degradação oxidativa de
+plásticos da Royal Society of Chemistry; revisão de Andrady e colaboradores
+sobre oxidação e fragmentação de plásticos na Science of The Total
+Environment; revisão sobre vias de degradação de polímeros no ambiente
+marinho em Environmental Science: Processes & Impacts. Resumo operacional:
+não substitui ensaio de laboratório nem análise de engenheiro.

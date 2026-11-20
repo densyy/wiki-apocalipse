@@ -1,0 +1,90 @@
+==============================================================================
+CODIGO: 07-034
+TITULO: Como prestar primeiros socorros em acidentes radiológicos
+CATEGORIA: 07 - Guerra, radiação e catástrofes nucleares
+TEMPO: 30 minutos
+RISCO: critico
+EXIGE: água, sabão, saco plástico, pano limpo, luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: radiação, descontaminação, socorro, ferido, poeira, fallout
+==============================================================================
+
+OBJETIVO
+--------
+Estanque o sangue, tire a poeira do corpo e mantenha o ferido vivo.
+
+QUANDO USAR
+-----------
+Quando alguém esteve fora durante poeira após explosão.
+Quando pele ou roupa tem poeira sem cheiro após alerta.
+Quando há ferido com sangramento em área contaminada.
+Quando criança ou idoso precisa de ajuda para se lavar.
+Quando a defesa civil mandar descontaminar e abrigar.
+
+NAO USE QUANDO
+--------------
+Não lave o corpo dentro de prédio em chamas ou ruindo.
+Saia para abrigo firme antes de lavar o corpo.
+
+MATERIAIS
+---------
+- Água e sabão (substituto: lenço umedecido ou pano molhado).
+- Xampu comum (substituto: sabão comum, sem condicionador).
+- Saco plástico para roupa suja (substituto: fronha ou balde).
+- Pano limpo ou gaze para cobrir ferimento.
+- Luvas impermeáveis e máscara ou pano no rosto.
+- Roupa limpa guardada em armário fechado.
+
+PROCEDIMENTO
+------------
+1. Estanque sangramento forte antes de descontaminar.
+2. Entre no prédio firme mais próximo sem demora.
+3. Feche portas, janelas e ventilação do abrigo.
+4. Tire a camada externa de roupa sem sacudir.
+5. Coloque a roupa em saco plástico longe de gente.
+6. Cubra cortes e arranhões com curativo limpo.
+7. Lave o corpo com água morna e sabão sem esfregar.
+8. Lave o cabelo com xampu sem usar condicionador.
+9. Assoe o nariz e limpe pálpebras, cílios e orelhas.
+10. Enxágue o ferimento com água limpa sem esfregar dentro.
+11. Cubra queimadura de leve com pano limpo sem pomada.
+12. Vista roupa limpa guardada em armário fechado.
+13. Ajude criança e idoso com luva e máscara se tiver.
+14. Fique abrigado por aproximadamente 24 horas seguidas.
+15. Peça socorro se houver vômito, diarreia ou tontura.
+
+ATENCAO
+-------
+Poeira sem cheiro emite raio gama que atravessa roupa.
+Máscara segura poeira no pulmão mas não bloqueia o raio.
+Tirar a roupa externa remove até aproximadamente 90 por cento.
+Esfregar ou escaldar abre a pele e deixa poeira entrar.
+Condicionador gruda poeira no cabelo e piora a limpeza.
+Quem só foi exposto sem poeira no corpo não contamina outro.
+Vômito, diarreia e tontura indicam perigo grave e socorro.
+Queimadura de radiação pode demorar semanas para aparecer.
+Este socorro não cura enjoo de radiação nem poeira interna.
+Procure atendimento assim que a defesa civil liberar a saída.
+
+SE NAO TIVER
+------------
+Sem água encanada, limpe a pele com pano úmido e sabão.
+Sem sabão, use só água corrente sem esfregar a pele.
+Sem roupa limpa, sacuda a roupa fora do abrigo e vista.
+Sem luva, cubra a mão com saco plástico antes de ajudar.
+Sem curativo, cubra o corte com pano limpo e seco.
+Sem xampu, lave o cabelo só com água e sabão comum.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Roupa externa está ensacada longe de gente e animal.
+Pele e cabelo estão lavados sem poeira visível.
+Sangramento parou e ferimento está coberto.
+Ferido respira, responde e segue abrigado sem sair.
+
+FONTES
+------
+Guia de descontaminação para você e outros do CDC americano.
+Orientações de ações imediatas em detonação nuclear do CDC.
+Guia de comunicação pós-detonação nuclear da FEMA.
+Orientação de abrigo no local para risco nuclear da FEMA.

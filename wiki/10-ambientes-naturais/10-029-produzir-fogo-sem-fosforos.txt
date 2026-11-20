@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 10-029
+TITULO: Como produzir fogo sem fósforos
+CATEGORIA: 10 - Sobrevivência em ambientes naturais
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: faca, cordão, madeira seca, isca seca, água para apagar
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fogo, fósforos, atrito, arco e broca, isca, brasa, monóxido
+==============================================================================
+
+OBJETIVO
+--------
+Produza uma chama por atrito de madeiras secas, sem fósforos,
+isqueiro ou outra chama pronta.
+
+QUANDO USAR
+-----------
+Quando os fósforos molharam, acabaram ou ficaram inacessíveis.
+Quando o isqueiro falhou e não há fogo para copiar.
+Quando é preciso calor, cozinhar ou ferver água na natureza.
+Quando não há pederneira e o sol não está forte o bastante.
+
+NAO USE QUANDO
+--------------
+Quando há aviso de incêndio, vento forte ou tempo muito seco.
+Quando não há água, terra ou areia para apagar o fogo.
+Quando o abrigo é fechado: nunca queime dentro de tenda ou cabana.
+Quando não há madeira seca: madeira úmida não dá brasa por atrito.
+
+MATERIAIS
+---------
+- Faca afiada ou pedra lascada (lâmina de metal resistente).
+- Cordão resistente para o arco (cadarço, cinto ou fibra vegetal).
+- Prancha de madeira seca (tábua, ripa ou galho grosso).
+- Broca de madeira seca e reta (galho do mesmo tipo da prancha).
+- Pedra ou osso com depressão para a broca (coxo de madeira).
+- Isca seca: palha, folha seca, serragem, casca (fiapos de pano).
+- Gravetos secos, lenha miúda e água, terra ou areia para apagar.
+
+PROCEDIMENTO
+------------
+1. Escolha solo alto, plano e longe de arbustos e poças.
+2. Limpe até a terra nua num círculo de aproximadamente 1,5 metro de raio.
+3. Afaste tenda, roupa e gravetos a aproximadamente 5 metros do centro.
+4. Reserve água, terra ou areia ao lado antes de acender.
+5. Colete madeira seca em pé; nunca use madeira caída no chão úmido.
+6. Quebre um galho: estalo seco indica miolo seco; dobra indica umidade.
+7. Corte a prancha: aproximadamente 2,5 cm de espessura por 10 cm.
+8. Escave uma depressão a aproximadamente 2 cm da borda da prancha.
+9. Abra um corte em V da borda até a depressão.
+10. Corte a broca: aproximadamente 2 cm por 25 cm de comprimento.
+11. Arredonde a ponta de cima e deixe a de baixo romba para dar atrito.
+12. Amarre o cordão entre as pontas do arco, sem folga.
+13. Faça a isca em ninho de pássaro com palha e serragem secas.
+14. Coloque casca ou folha sob o corte em V para recolher o pó.
+15. Apoie a prancha no chão e firme-a com um pé.
+16. Enfie a broca na depressão e enrole o cordão do arco nela uma vez.
+17. Apoie a pedra com depressão no topo da broca e pressione para baixo.
+18. Serre o arco para frente e para trás, mantendo a broca vertical.
+19. Aumente pressão e velocidade até o pó fumegar; aviso: está quente.
+20. Deposite o pó no centro da isca e envolva-o com a palha.
+21. Sopre de leve até a brasa virar chama; não ponha o rosto na isca.
+22. Leve a isca acesa à fogueira e apoie-a sob os gravetos finos.
+23. Sopre a base da chama até os gravetos pegarem fogo.
+24. Alimente com madeira maior aos poucos e mantenha o fogo pequeno.
+
+ATENCAO
+-------
+O que mata aqui é o monóxido de carbono e o fogo fora de controle.
+Monóxido não tem cheiro: nunca queime em tenda ou abrigo fechado.
+Não use gasolina, álcool, óleo ou líquido inflamável para acender.
+Não use pedras molhadas ou porosas na volta do fogo: podem estourar.
+Madeira verde ou apodrecida só produz fumaça e não aquece.
+Raspas e isca pegam rápido; mantenha o excesso longe da chama.
+Não deixe o fogo sozinho, perto de crianças ou animais.
+Se o fogo escapar para a vegetação, afaste-se e peça ajuda.
+Antes de dormir, afogue com água, mexa a cinza e afogue de novo.
+
+SE NAO TIVER
+------------
+Sem cordão, use cadarço, fibra vegetal trançada ou tira de pano.
+Sem arco, gire a broca entre as mãos: mais difícil e só com madeira seca.
+Sem madeira para atrito, use pederneira com isca seca guardada.
+Com sol forte, uma lente focaliza a isca; sem sol, o método não serve.
+Não improvise com fios elétricos, baterias ou químicos desconhecidos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Aparece pó preto e fumegando no corte em V da prancha.
+A isca solta fumaça e a brasa vira chama ao receber ar.
+Os gravetos finos queimam e a fumaça sobre a chama fica clara.
+
+FONTES
+------
+Manual de sobrevivência do Exército dos EUA FM 3-05.70 (FM 21-76),
+capítulo 7, Firecraft (arco e broca, broca manual, arado de fogo).
+Manual de sobrevivência ATP 3-50.21 (2018), capítulo 5, técnicas de fogo.
+USDA Forest Service e Texas A&M Forest Service: segurança de fogueira.
+Prática consolidada de sobrevivência; o atrito exige treino prévio.

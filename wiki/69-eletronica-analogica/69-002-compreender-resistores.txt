@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 69-002
+TITULO: Como compreender resistores
+CATEGORIA: 69 - Eletrônica analógica e componentes discretos
+TEMPO: 25 minutos
+RISCO: medio
+EXIGE: resistores com faixas, luz boa, papel, lápis, multímetro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: resistor, resistência, ohm, faixas, multímetro, corrente
+==============================================================================
+
+OBJETIVO
+--------
+Ler o valor de um resistor e prever como ele age em um circuito.
+
+QUANDO USAR
+-----------
+Quando precisar identificar um resistor que só tem faixas de cor.
+Quando for substituir um resistor queimado ou calcular a resistência total.
+
+NAO USE QUANDO
+--------------
+Não use este texto para mexer em rede elétrica energizada: pode matar.
+Desligue a fonte antes de medir. Com fumaça ou cheiro de queimado, pare.
+
+MATERIAIS
+---------
+- Um ou mais resistores com faixas de cor.
+- Papel e lápis para anotar os cálculos.
+- Multímetro com escala de ohms, para conferir o valor.
+
+PROCEDIMENTO
+------------
+1. Observe o corpo do resistor e localize as faixas de cor.
+2. Vire o resistor até a faixa dourada ou prateada ficar à direita.
+3. Faixas 1 e 2 são algarismos: preto 0, marrom 1, vermelho 2,
+   laranja 3, amarelo 4, verde 5, azul 6, violeta 7, cinza 8, branco 9.
+4. Faixa 3 é o multiplicador: preto x1, marrom x10, vermelho x100,
+   laranja x1000, amarelo x10000.
+5. Monte o número das faixas 1 e 2 e multiplique pelo fator da faixa 3.
+6. Faixa 4 dá a tolerância: dourada 5%, prateada 10%, sem faixa 20%.
+7. Exemplo: marrom, preto, vermelho, dourado dá 1 kohm (1000 ohms).
+8. Para resistores em série, some os valores: R total = R1 + R2.
+9. Para dois em paralelo, use R total = (R1 x R2)/(R1 + R2).
+10. Calcule a potência dissipada com P = V x V / R, em watts.
+11. Ajuste o multímetro para ohms e confira a leitura e a tolerância.
+
+ATENCAO
+-------
+A leitura das cores depende da ordem certa. Invertida, o valor muda.
+Não confie na cor sob luz fraca ou em resistor queimado: a tinta muda.
+Um resistor de valor errado pode queimar o circuito ou não funcionar.
+Resistor quente queima o dedo e pode soltar fumaça. Não toque com a mão.
+Nunca meça ohms em circuito energizado: quebra o aparelho e pode ferir.
+
+SE NAO TIVER
+------------
+Sem multímetro, confie nas faixas e na tolerância anotada.
+Se as faixas estiverem ilegíveis, não adivinhe: descarte o resistor.
+Para resistor SMD sem faixas, leia o código: 334 é 33 e 4 zeros.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A leitura do multímetro fica próxima do valor calculado.
+Exemplo: 1000 ohms com 5% deve medir entre 950 e 1050 ohms.
+
+FONTES
+------
+Lei de Ohm e código de cores: conhecimento consolidado de eletrônica.
+Normas IEC 60062 e IEC 60063 citadas na referência; resumo operacional.

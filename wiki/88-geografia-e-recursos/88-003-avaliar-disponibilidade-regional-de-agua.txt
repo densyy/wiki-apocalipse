@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 88-003
+TITULO: Como avaliar disponibilidade regional de água
+CATEGORIA: 88 - Geografia humana e recursos estratégicos
+TEMPO: 180 minutos
+RISCO: medio
+EXIGE: mapa, caderno, balde, relógio e recipiente para amostra
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, fonte, vazão, estação seca, qualidade, captação
+==============================================================================
+
+OBJETIVO
+--------
+Levantar quanta água existe na região, em que épocas e com que
+qualidade, antes de depender dela para beber ou cultivar.
+
+QUANDO USAR
+-----------
+Ao escolher onde morar ou instalar uma roça.
+Antes de montar um sistema de captação ou bombeamento.
+Quando outra fonte secou e você precisa de alternativa.
+No começo da estação seca, para dimensionar a reserva.
+Ao receber muitas pessoas em um mesmo acampamento.
+
+NAO USE QUANDO
+--------------
+Não beba água de aparência duvidosa sem tratar antes.
+Não conte só com a chuva da estação chuvosa para o ano inteiro.
+Não use fonte que recebe esgoto, agrotóxico ou água de mineração.
+Não faça furo ou captação sem verificar a regra local.
+
+MATERIAIS
+---------
+- Mapa ou esquema com nascentes, rios, riachos e poços (GPS).
+- Caderno, lápis e relógio para anotar horários e medidas.
+- Balde de capacidade conhecida para medir vazão aproximada.
+- Recipiente limpo com tampa para guardar uma amostra.
+- Corda com peso para medir a profundidade de poço ou poça.
+- Filtro de pano e material para ferver a água da amostra.
+
+PROCEDIMENTO
+------------
+1. Marque no mapa todas as fontes que você consegue alcançar a pé.
+2. Caminhe até cada fonte e anote a distância e o tempo de ida.
+3. Identifique o tipo: nascente, riacho, rio, poço, chuva ou lagoa.
+4. Meça a vazão enchendo o balde e cronometrando o tempo.
+5. Repita a medição em três dias diferentes para ter uma média.
+6. Anote se a água corre o ano todo ou só depois da chuva.
+7. Meça a profundidade em poços e poças com a corda com peso.
+8. Observe a cor, o cheiro e a presença de espuma ou lama.
+9. Verifique se animais bebem no mesmo ponto e se há esterco perto.
+10. Colete uma amostra em recipiente limpo e feche a tampa.
+11. Ferva a amostra antes de beber e anote o resultado.
+12. Pergunte aos moradores qual fonte seca primeiro no ano.
+13. Some as vazões das fontes perenes e desconte uma margem.
+14. Compare a água disponível com o consumo diário estimado.
+15. Escolha a fonte principal e uma reserva para a estação seca.
+16. Registre no mapa os pontos de captação e os de risco.
+
+ATENCAO
+-------
+Água limpa à vista pode conter parasitas e bactérias. Sempre trate
+antes de beber, mesmo em nascente que parece pura.
+Vazão medida em um dia de chuva não serve para a seca.
+Poço sem tampa e sem proteção recebe folhas, insetos e fezes.
+Nunca desça em poço ou cisterna sem ar fresco e sem corda de segurança.
+Se a água tiver cheiro de químico, cor estranha ou óleo, não use.
+Fontes em área de mineração podem conter metais perigosos.
+
+SE NAO TIVER
+------------
+Sem balde, use qualquer recipiente de volume conhecido, como garrafa.
+Sem relógio, conte os pulsos durante o enchimento do recipiente.
+Sem corda, estime a profundidade com um bastão marcado em nós.
+Sem filtro, deixe a água assentar e depois ferve por alguns minutos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você tem no mapa cada fonte com tipo, vazão aproximada e época.
+A fonte escolhida corre mesmo na estação seca.
+A água foi tratada e não deixou gosto ou cheiro estranho.
+Existe uma segunda fonte marcada como reserva.
+
+FONTES
+------
+Prática consolidada de levantamento de fontes e qualidade de água
+em meio rural, sem documento único. Base: recomendações de saneamento
+e tratamento caseiro de água difundidas por órgãos de saúde pública
+e extensão rural.

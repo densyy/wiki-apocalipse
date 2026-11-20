@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 70-023
+TITULO: Como preservar enciclopédias multilíngues
+CATEGORIA: 70 - Computação de baixo consumo e preservação digital
+TEMPO: 40 minutos
+RISCO: baixo
+EXIGE: computador, dois meios de guarda, caderno, fontes de letra
+REVISAO: 2026-11
+PALAVRAS-CHAVE: enciclopédia, multilíngue, codificação, cópia, sem internet
+==============================================================================
+
+OBJETIVO
+--------
+Manter uma enciclopédia em vários idiomas legível e pesquisável por anos,
+sem internet e sem deixar nenhum idioma de fora.
+
+QUANDO USAR
+-----------
+Quando o acervo em arquivos locais vai ficar sem conexão.
+Quando há texto em vários alfabetos, como cirílico, grego ou árabe.
+
+NAO USE QUANDO
+--------------
+Quando não há tempo para conferir as cópias: o acervo fica só guardado.
+
+MATERIAIS
+---------
+- Computador com os arquivos da enciclopédia.
+- Dois meios de guarda, como disco externo e pen drive.
+- Caderno e lápis para o inventário.
+- Fontes de letra para cada alfabeto do acervo.
+
+PROCEDIMENTO
+------------
+1. Liste no caderno cada idioma, cada pasta e o total de arquivos.
+2. Anote a origem e a data de cada parte do acervo.
+3. Abra uma amostra de cada idioma e veja se as letras aparecem.
+4. Converta o texto para UTF-8 sem BOM e guarde o original antes.
+5. Dê nomes sem acentos nem espaços; ponha o título real dentro do arquivo.
+6. Escreva o idioma de cada arquivo no caderno, como pt, es, en ou ar.
+7. Instale as fontes dos alfabetos presentes e copie os arquivos delas.
+8. Separe texto, imagens e áudio, com legenda em cada idioma.
+9. Gere o código de integridade de cada arquivo e anote-o.
+10. Copie o acervo para os dois meios; guarde um meio fora do local.
+
+ATENCAO
+-------
+Texto na codificação errada aparece com caracteres estranhos: não tente
+consertar depois sem o original. UTF-8 sem BOM evita esse problema.
+Nomes em alfabeto não latino falham em sistemas antigos: use nome simples
+e anote o idioma. Checksum detecta mudança por acaso, não prova autoria:
+se o código mudou, investigue antes de apagar a cópia antiga.
+
+SE NAO TIVER
+------------
+Sem programa de integridade, anote tamanho e data e abra um arquivo de
+cada idioma para comparar.
+Sem segundo meio, copie para outro aparelho e renove as cópias depois.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As letras aparecem em cada idioma, sem quadrados nem caracteres estranhos.
+O caderno lista cada idioma e a contagem bate com as pastas.
+Os dois meios abrem os mesmos arquivos com a rede desligada.
+
+FONTES
+------
+Princípio de acesso permanente da UNESCO, programa Memória do Mundo.
+Codificação UTF-8 e BOM segundo o Unicode Consortium; integridade pelo
+NIST FIPS 180-4. Prática das três cópias do Manual de Preservação Digital.

@@ -1,0 +1,80 @@
+==============================================================================
+CODIGO: 51-026
+TITULO: Como calcular probabilidades em situações de risco
+CATEGORIA: 51 - Matemática aplicada à sobrevivência
+TEMPO: 15 minutos
+RISCO: medio
+EXIGE: papel, lápis, dados observados da situação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: probabilidade, risco, chance, percentual, evento, perigo
+==============================================================================
+
+OBJETIVO
+--------
+Estimar a chance de um evento em número para decidir com base em risco.
+
+QUANDO USAR
+-----------
+Ao decidir se vale atravessar um rio ou ponte em más condições.
+Ao estimar a chance de chuva, tempestade ou incêndio antes de agir.
+Ao comparar duas rotas pelo perigo e pela consequência de cada uma.
+Ao avaliar se um suprimento dura até a próxima reposição.
+Ao verificar se um risco pequeno se repete até tornar-se provável.
+
+NAO USE QUANDO
+--------------
+Quando faltarem dados mínimos sobre o evento: não invente a chance.
+Quando o erro afetar dose de remédio, carga de corda ou altura;
+nesses casos use conta exata e confirme com outra pessoa.
+Quando os desfechos não forem igualmente prováveis sem base observada.
+
+MATERIAIS
+---------
+- Papel e lápis (lousa, barro ou contar nos dedos).
+- Observações da situação: quantas vezes ocorreu, em quantas tentativas.
+
+PROCEDIMENTO
+------------
+1. Defina o evento: escreva exatamente o que pode acontecer.
+2. Delimite os resultados: liste cada desfecho possível.
+3. Conte os casos favoráveis ao evento que você definiu.
+4. Conte o total de casos possíveis sem repetir nenhum.
+5. Divida os casos favoráveis pelo total: é a probabilidade.
+6. Escreva o valor como fração, decimal entre 0 e 1 ou porcentagem.
+7. Some o evento e o contrário: o total é 1 (ou 100 por cento).
+8. Para eventos independentes, multiplique as chances de ambos.
+9. Para eventos que não ocorrem juntos, some as chances de qualquer um.
+10. Multiplique a chance pela gravidade para comparar dois riscos.
+11. Para repetições, um menos a chance de nunca ocorrer elevada
+ ao número de tentativas dá a chance de ocorrer ao menos uma vez.
+12. Arredonde e diga a chance em palavras: improvável, possível, provável.
+
+ATENCAO
+-------
+Probabilidade não é previsão: descreve tendência, não um fato único.
+Uma chance baixa ainda acontece; "improvável" não quer dizer "nunca".
+Contar casos como igualmente prováveis sem base observada erra a conta.
+Eventos ligados não se multiplicam como independentes: isso erra o risco.
+A gravidade importa: dano grave com chance baixa pode ser o pior risco.
+Com pressa, frio ou medo, a contagem erra; pare e refaça no papel.
+Sem dados suficientes, diga que não sabe; nunca preencha com palpite.
+
+SE NAO TIVER
+------------
+Sem papel, use os dedos para contar casos favoráveis e totais.
+Sem dados, observe e registre contagens antes de calcular.
+Sem dividir, compare contagens: mais casos favoráveis, maior chance.
+Sem confiança, expresse a chance em palavras e diga a incerteza.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A probabilidade fica entre 0 e 1, ou entre 0 e 100 por cento.
+Evento e contrário somam 1 (ou 100 por cento).
+A conta inversa devolve o total de casos contados no início.
+Duas pessoas com os mesmos dados chegam ao mesmo número.
+
+FONTES
+------
+Prática consolidada de cálculo de probabilidade e avaliação de risco.
+Não há documento único: as regras vêm da definição clássica de
+probabilidade e da prática de avaliação, não de números inventados.

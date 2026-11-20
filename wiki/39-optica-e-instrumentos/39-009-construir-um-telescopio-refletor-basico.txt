@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 39-009
+TITULO: Como construir um telescópio refletor básico
+CATEGORIA: 39 - Óptica e instrumentos científicos
+TEMPO: 6 horas
+RISCO: medio
+EXIGE: espelhos, tubo, ocular, compensado, parafusos, serra e lixa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: telescópio, refletor, newtoniano, espelho, colimação, lua
+==============================================================================
+
+OBJETIVO
+--------
+Montar e alinhar um refletor newtoniano simples para observar a Lua.
+
+QUANDO USAR
+-----------
+Quando há espelhos disponíveis e falta dinheiro para um telescópio.
+Quando o objetivo é observar a Lua, planetas e estrelas brilhantes.
+
+NAO USE QUANDO
+--------------
+Para observar o Sol sem filtro solar próprio: a luz concentrada cega.
+
+MATERIAIS
+---------
+- Espelho primário parabólico de 150 mm, f/8 (ou 200 mm, f/6).
+- Espelho secundário plano de aproximadamente 30 mm, com suporte.
+- Tubo de papelão, PVC ou compensado com cerca de 1,3 m (1,20 m).
+- Porta-ocular e ocular de 25 mm (ou ocular entre 10 e 40 mm).
+- Compensado, parafusos, cola, cintas, lixa e anel de papelão.
+
+PROCEDIMENTO
+------------
+1. Corte o tubo com aproximadamente 1,3 m de comprimento.
+2. Apoie o primário em três pontos na extremidade fechada.
+3. Prenda o primário com três parafusos, face voltada à abertura.
+4. Instale o secundário a 45 graus, a aproximadamente 15 cm da abertura.
+5. Abra o orifício do porta-ocular na lateral, alinhado ao secundário.
+6. Encaixe o porta-ocular e a ocular de 25 mm no orifício.
+7. Monte a base de compensado com eixo vertical e berço de altura.
+8. Prenda o tubo ao berço com cintas até equilibrar em qualquer altura.
+9. Retire a ocular; ajuste o secundário até o primário ficar centrado.
+10. Ajuste o primário até a marca central ficar centrada no secundário.
+11. Repita os passos 9 e 10 até o alinhamento parar de mudar.
+12. Coloque a ocular e focalize a Lua. Aumento aproximado: 48 vezes.
+
+ATENCAO
+-------
+Nunca aponte ao Sol sem filtro solar próprio na entrada do tubo.
+A luz concentrada queima a retina e causa cegueira permanente.
+Óculos escuros não protegem; use somente filtro certificado.
+Não toque na face dos espelhos: gordura mancha e é difícil de limpar.
+Use óculos ao cortar; lascas e poeira ferem os olhos.
+Tubo desequilibrado tomba e quebra os espelhos; pare se balançar.
+
+SE NAO TIVER
+------------
+Sem espelho parabólico pronto, compre um; esmerilar exige prática.
+Sem ocular de 25 mm, use outra entre 10 e 40 mm e refaça o foco.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ao olhar pelo orifício sem ocular, o primário fica centrado no
+secundário e a imagem da Lua aparece inteira e nítida no foco.
+
+FONTES
+------
+Springfield Telescope Makers (Stellafane): guia de seleção de espelho
+e montagem Dobsoniana; prática consolidada de construção amadora.

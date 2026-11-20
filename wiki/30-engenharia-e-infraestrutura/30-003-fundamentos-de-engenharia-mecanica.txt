@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 30-003
+TITULO: Fundamentos de engenharia mecânica
+CATEGORIA: 30 - Engenharia e infraestrutura básica
+TEMPO: 45 minutos
+RISCO: medio
+EXIGE: caderno, lápis, calculadora, fita métrica, alavanca, peso conhecido
+REVISAO: 2026-11
+PALAVRAS-CHAVE: mecânica, força, tensão, alavanca, torque, atrito, carga
+==============================================================================
+
+OBJETIVO
+--------
+Entender força, tensão, alavancas e torque para usar mecanismos simples.
+
+QUANDO USAR
+-----------
+Ao montar alavanca, macaco ou polia para erguer uma carga.
+Ao calcular esforço em parafuso, chave ou viga.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação para estudar estes conceitos.
+Não dimensione máquinas que possam ferir pessoas: exige engenheiro.
+
+MATERIAIS
+---------
+- Caderno e lápis para anotar.
+- Calculadora (ou papel para calcular).
+- Fita métrica ou régua (ou cordão com nós a cada palmo).
+- Barra de alavanca, peso conhecido e parafuso com porca.
+
+PROCEDIMENTO
+------------
+1. Anote: força em N, comprimento em m, energia em joule (J).
+2. Considere 1 kg = 10 N na Terra; meça multiplicando a massa por 10.
+3. Força é empuxo ou puxão que muda o movimento de um corpo.
+4. Tensão = força/área (Pa); deformação: elástica volta, plástica não.
+5. Equilibre a alavanca: força x braço da força = carga x braço da carga.
+6. Exemplo: braço da força 1 m e da carga 0,2 m dão vantagem 5.
+7. Vantagem = força de saída/entrada; >1 aumenta força, reduz distância.
+8. Torque = força x distância ao eixo (N.m); atrito faz a entrada ser maior.
+
+ATENCAO
+-------
+Uma alavanca ou polia mal dimensionada pode quebrar e ferir quem a usa.
+Nunca ultrapasse a carga que ferramenta, cabo ou suporte suportam.
+Cabos e ganchos danificados podem romper sem aviso: inspecione.
+Peças podem falhar por fadiga após muitos ciclos, mesmo abaixo do limite.
+Carga suspensa sobre pessoas exige apoio secundário e área livre embaixo.
+
+SE NAO TIVER
+------------
+Sem fita métrica, use cordão com nós e meça em palmos.
+Sem peso conhecido, compare com saco de 5 kg ou com a força das mãos.
+Sem chave, use tubo para alongar o braço; sem calculadora, 10 N por kg.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você converteu massa em newton e anotou as unidades no caderno.
+Você calculou uma vantagem mecânica e explicou por que a força aumenta.
+Você explicou por que braço maior exige menos força.
+
+FONTES
+------
+Unidades do Sistema Internacional conforme NIST (SP 330 e SP 811).
+Máquinas simples, vantagem mecânica, atrito e eficiência conforme o manual
+Basic Machines da Marinha dos EUA (NAVEDTRA 14037) e literatura clássica
+de mecânica (Shigley, Theory of Machines and Mechanisms).
+Resumo operacional de prática consolidada; não substitui treinamento.

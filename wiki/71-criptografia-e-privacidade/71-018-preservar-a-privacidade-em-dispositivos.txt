@@ -1,0 +1,93 @@
+==============================================================================
+CODIGO: 71-018
+TITULO: Como preservar a privacidade em dispositivos compartilhados
+CATEGORIA: 71 - Criptografia, segurança da informação e privacidade
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: dispositivo compartilhado, senha de bloqueio, acesso às contas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: privacidade, compartilhado, senha, sair, convidado, tela
+==============================================================================
+
+OBJETIVO
+--------
+A pessoa usa aparelho emprestado sem deixar senhas e mensagens expostas.
+
+QUANDO USAR
+-----------
+Ao usar o celular ou o computador de outra pessoa da casa.
+Em biblioteca, lan house, posto de saúde ou centro de apoio.
+Quando o aparelho é de uso coletivo no abrigo.
+Antes de abrir banco, saúde ou mensagens em equipamento alheio.
+Ao emprestar seu aparelho desbloqueado por poucos minutos.
+
+NAO USE QUANDO
+--------------
+Não substitui senha forte nem autenticação em duas etapas.
+Não use se o aparelho tiver programa espião instalado.
+Não adianta se outra pessoa fica olhando a tela sem parar.
+Não serve para esconder senha que já vazou; troque a senha.
+
+MATERIAIS
+---------
+- Dispositivo compartilhado (celular, tablet ou computador).
+- Senha de bloqueio de tela ou biometria cadastrada.
+- Conta temporária ou modo convidado, se o aparelho oferecer.
+- Acesso às configurações do aparelho.
+- Caderno para anotar o que foi aberto (opcional).
+
+PROCEDIMENTO
+------------
+1. Pergunte ao dono se há conta separada ou modo convidado.
+2. Abra as configurações de usuários ou de contas do aparelho.
+3. Crie ou selecione uma conta temporária antes de abrir seus dados.
+4. Se não houver conta separada, use a navegação privada do navegador.
+5. Se o aparelho for seu, defina senha de bloqueio de tela.
+6. Ajuste o bloqueio automático para no máximo um minuto de inatividade.
+7. Desative prévias de notificação na tela bloqueada.
+8. Abra suas contas só na conta temporária ou no modo privado.
+9. Nunca escolha "lembrar senha" ou "manter conectado" no aparelho alheio.
+10. Recuse o preenchimento automático de senhas guardadas no aparelho.
+11. Não deixe o aparelho desbloqueado sem vigilância.
+12. Feche as abas e os aplicativos que você abriu.
+13. Use "sair" ou "encerrar sessão" em cada serviço aberto.
+14. Limpe histórico, cookies e dados do navegador usado.
+15. Apague arquivos, fotos e downloads que você criou.
+16. Volte à conta original ou encerre a sessão do convidado.
+17. Confira em outro aparelho se sua conta ainda aparece conectada.
+18. Troque a senha de toda conta que ficou conectada por engano.
+
+ATENCAO
+-------
+Fechar o aplicativo não encerra a sessão; use "sair" em cada serviço.
+Senha salva no navegador alheio fica para a próxima pessoa.
+Prévia de notificação expõe mensagens sem desbloquear a tela.
+Limpar o histórico não apaga fotos, arquivos nem downloads salvos.
+Modo privado não esconde a tela de quem está olhando por cima.
+Se o dono instalou espião, nada aqui protege o que você digitou.
+Não digite senha em aparelho que você não confia; espere outro meio.
+Pare e troque a senha se aparecer sessão desconhecida na sua conta.
+
+SE NAO TIVER
+------------
+Sem conta separada, use o modo privado ou anônimo do navegador.
+Sem modo privado, abra a conta, use e saia sem salvar a senha.
+Sem bloqueio de tela, nunca deixe o aparelho sozinho desbloqueado.
+Sem acesso às configurações, abra só o que é público no aparelho.
+Sem limpeza de dados, evite banco e saúde nesse aparelho.
+Não improvise com aparelho desconhecido para contas sensíveis.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ao abrir o navegador, sua conta não aparece mais conectada.
+Nenhuma senha sua aparece no gerenciador de senhas do aparelho.
+A tela bloqueada não mostra o conteúdo das notificações.
+A conta temporária volta ao estado inicial ao ser encerrada.
+Não há arquivos, fotos ou downloads seus na memória do aparelho.
+
+FONTES
+------
+OWASP Authentication Cheat Sheet, reautenticação e gerenciadores de senha.
+NIST SP 800-63B, diretrizes de autenticação e força de senhas.
+Manual de Uso do iPhone (Apple), bloqueio de tela e ocultação de apps.
+Prática consolidada de dispositivos compartilhados, sem documento único.

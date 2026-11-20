@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 05-001
+TITULO: Como construir um abrigo temporário
+CATEGORIA: 05 - Abrigo, construção e habitação
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: lona ou plástico forte, corda, terreno firme e seco
+REVISAO: 2026-11
+PALAVRAS-CHAVE: abrigo, lona, acampamento, chuva, vento, frio
+==============================================================================
+
+OBJETIVO
+--------
+Montar um abrigo simples que protege de chuva, vento e frio por dias.
+
+QUANDO USAR
+-----------
+Quando precisa passar a noite fora de casa sem teto pronto.
+Quando a casa foi danificada e é preciso dormir seco por dias.
+Quando se perde na mata e precisa esperar o resgate.
+
+NAO USE QUANDO
+--------------
+Em margem de rio, baixada que alaga ou encosta que desliza.
+Sob árvore morta, galho solto ou barranco instável.
+
+MATERIAIS
+---------
+- Lona ou plástico forte de aproximadamente 3 x 4 m (cortina).
+- Corda fina de aproximadamente 10 m (cipó, tira de pano).
+- Dois suportes: árvores, estacas firmes ou varas grossas.
+- Galhos e folhas secas para o chão e pedras para as bordas.
+
+PROCEDIMENTO
+------------
+1. Escolha terreno alto, plano e seco, longe de água que sobe.
+2. Afaste-se de árvores mortas, galhos soltos e barrancos.
+3. Limpe o chão de pedras, galhos quebrados e formigueiros.
+4. Amarre a cumeeira a aproximadamente 1 m entre suportes firmes.
+5. Estenda a lona por cima formando um telhado de dois lados.
+6. Deixe um lado mais baixo contra o vento e a chuva.
+7. Prenda as bordas com pedras, troncos ou estacas no chão.
+8. Cave uma valeta rasa ao redor para desviar a água da chuva.
+9. Forre o chão com camada grossa de folhas e galhos secos.
+10. Teste deitado e reforce amarras e bordas antes de anoitecer.
+
+ATENCAO
+-------
+Abrigo mal preso desaba com vento e molha à noite.
+Chão sem isolante rouba calor e causa hipotermia sem chuva.
+Nunca acenda fogo dentro ou colado no abrigo de lona.
+Fumaça em espaço fechado intoxica e lona pega fogo rápido.
+Se alagar ou ventar muito, saia: não aguenta tempestade ou cheia.
+
+SE NAO TIVER
+------------
+Sem lona, use cortina, cobertor impermeável ou sacos plásticos.
+Sem corda ou árvore, cruze varas em X e amarre com cipó ou pano.
+Sem isolante, durma sobre mochila, roupas secas ou casca seca.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A chuva escorre pela lona e cai fora do abrigo.
+Dá para deitar sem encostar na lona e o chão segue seco.
+
+FONTES
+------
+Prática consolidada de abrigo de emergência em desastres
+(famílias de referência: FEMA, IFRC e manual militar de
+sobrevivência civil). Resumo operacional, sem treinamento.

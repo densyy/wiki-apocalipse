@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 47-017
+TITULO: Como construir um sistema de beneficiamento de arroz
+CATEGORIA: 47 - Tecnologia agrícola e mecanização rural
+TEMPO: 6 horas
+RISCO: alto
+EXIGE: madeira, tela de peneira, cilindro com borracha, eixo, manivela
+REVISAO: 2026-11
+PALAVRAS-CHAVE: arroz, beneficiar, descascar, polir, farelo, casca, pilão
+==============================================================================
+
+OBJETIVO
+---------
+Montar um conjunto manual para limpar, descascar, polir e separar o arroz.
+
+QUANDO USAR
+-----------
+Quando a colheita precisa ser limpa e descascada perto da lavoura.
+Quando não há energia elétrica nem usina de beneficiamento por perto.
+Quando o arroz precisa virar arroz integral ou arroz branco para comer.
+Quando a produção é pequena e não justifica uma máquina industrial.
+
+NAO USE QUANDO
+--------------
+Quando o arroz estiver úmido: ele não descasca e entope a máquina.
+Quando não houver espaço arejado e afastado de fogo para a poeira.
+Quando não houver tela, eixo firme e ajuda para segurar a máquina.
+Quando o grão estiver com cheiro de mofo: não beneficie, descarte.
+
+MATERIAIS
+---------
+- Tábuas e caixotes de madeira para as bancadas e calhas.
+- Tela de peneira de arame ou nylon firme, com malhas grossa e fina.
+- Cilindro de madeira ou metal com faixa de borracha para descascar.
+- Segundo cilindro abrasivo para polir (pedra ou lixa grossa).
+- Eixo de ferro reto e dois suportes (mancais) para cada cilindro.
+- Manivela de ferro dobrada em L presa ao eixo.
+- Funil de madeira ou lata para alimentar os cilindros.
+- Pano firme e vassoura para limpar e varrer o farelo.
+- Parafusos, pregos, arruelas, óleo ou graxa para lubrificar.
+- Luvas, óculos de proteção e pano para cobrir boca e nariz.
+
+PROCEDIMENTO
+------------
+1. Monte uma bancada firme e instale nela, em linha, as quatro estações.
+2. Prenda a peneira de malha grossa inclinada na primeira estação.
+3. Despeje o arroz seco na peneira e sacuda para tirar pedras e palha.
+4. Passe o arroz pela peneira fina para retirar terra e grãos quebrados.
+5. Instale o cilindro com faixa de borracha na segunda estação.
+6. Prenda o cilindro ao eixo nos dois suportes e encaixe a manivela.
+7. Ajuste a distância do cilindro à tapa: aperte sem quebrar o grão.
+8. Lubrifique o eixo nos suportes com óleo ou graxa.
+9. Gire a manivela com um punhado de teste e veja se a casca sai inteira.
+10. Ajuste a distância até a casca soltar sem moer o grão.
+11. Despeje o arroz pelo funil, aos poucos, com a manivela girando.
+12. Recolha o arroz integral que sai do descascador na terceira estação.
+13. Jogue o arroz no ar aos poucos: o vento leva a casca e o grão cai.
+14. Repita a ventilação até não sobrar casca misturada ao grão.
+15. Instale o cilindro abrasivo na quarta estação como polidora.
+16. Regule o polidor para tirar só o farelo, sem quebrar o grão.
+17. Passe o arroz integral pelo polidor em porções pequenas.
+18. Peneire o arroz polido na peneira fina para separar o farelo.
+19. Guarde o arroz pronto em saco ou recipiente seco, limpo e tampado.
+
+ATENCAO
+-------
+Os cilindros giram com força e prendem dedos, mangas e cabelos.
+Prenda o cabelo, não use manga larga e mantenha as mãos longe do funil.
+Nunca empurre o arroz com os dedos; use sempre um pedaço de pau.
+Pare a manivela antes de ajustar, limpar ou retirar um grão preso.
+Poeira de arroz e farelo em local fechado pode pegar fogo ou explodir.
+Trabalhe ao ar livre ou com ventilação, longe de fogo e de faíscas.
+Cilindro apertado demais quebra o grão; folga demais não descasca.
+Arroz úmido entope e aquece a máquina: use somente grão bem seco.
+Se o eixo travar ou a máquina aquecer, pare e solte o bloqueio.
+Mantenha crianças e animais afastados enquanto os cilindros giram.
+
+SE NAO TIVER
+------------
+Sem descascador de borracha, use um pilão: bata aos poucos e peneire.
+O pilão rende menos e quebra mais grãos que o cilindro de borracha.
+Sem cilindro abrasivo, esfregue o arroz em pano áspero ou pedra.
+Sem peneira de arame, use pano firme preso em arco de madeira.
+Sem manivela de ferro, dobre uma barra em L e prenda ao eixo.
+Não improvise eixo torto ou cilindro rachado: pode quebrar e ferir.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A casca sai inteira e o arroz integral fica marrom, sem casca presa.
+Depois da ventilação, não aparece casca leve misturada aos grãos.
+O polidor retira o farelo sem deixar muitos grãos quebrados na peneira.
+O arroz final escorre solto na peneira, sem farelo grudado nem terra.
+O eixo gira livre, sem travar, e não sai calor estranho nos suportes.
+
+FONTES
+------
+Prática consolidada de pós-colheita e beneficiamento manual de arroz,
+transmitida por uso local e oficinas, sem documento único. Este texto
+é um resumo operacional, não substitui treinamento nem o manual do
+fabricante de uma descascadora ou polidora industrial.

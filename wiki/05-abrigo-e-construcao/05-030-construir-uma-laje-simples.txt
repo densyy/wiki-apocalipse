@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 05-030
+TITULO: Como construir uma laje simples
+CATEGORIA: 05 - Abrigo, construção e habitação
+TEMPO: 180 minutos
+RISCO: medio
+EXIGE: cimento, areia, brita, água limpa, terreno firme e nivelado
+REVISAO: 2026-11
+PALAVRAS-CHAVE: laje, piso, concreto, contrapiso, base, obra
+==============================================================================
+
+OBJETIVO
+--------
+Fazer uma laje de concreto no chão que dá base firme e seca.
+
+QUANDO USAR
+-----------
+Quando precisa de piso firme para barraco, fogão ou depósito.
+Quando o chão de terra vira lama e molha as coisas.
+Quando precisa de base seca para caixa baixa ou banco de obra.
+
+NAO USE QUANDO
+--------------
+Como teto, piso alto ou cobertura sem cálculo de engenheiro.
+Sobre terreno que alaga, afunda ou desliza com chuva.
+Para suportar carro, máquina pesada ou parede estrutural.
+
+MATERIAIS
+---------
+- Cimento, areia grossa lavada e brita pequena (pedrisco).
+- Água limpa sem barro ou sabão (água de poço clara).
+- Tábuas, estacas, pregos, martelo, linha e régua reta.
+- Pá, enxada, balde, colher de pedreiro e lona plástica.
+
+PROCEDIMENTO
+------------
+1. Marque o retângulo com linha e estacas no terreno firme.
+2. Limpe mato, raízes e pedras soltas de toda a área.
+3. Cave aproximadamente 10 cm e compacte bem o fundo.
+4. Monte a forma com tábuas firmes e nivele as bordas.
+5. Espalhe aproximadamente 3 cm de areia e compacte de novo.
+6. Misture 1 parte de cimento, 2 de areia e 3 de brita a seco.
+7. Some água aos poucos até massa firme que não escorre.
+8. Molhe a forma e despeje camada de aproximadamente 8 cm.
+9. Nivele com régua reta e fure as bolhas com uma vareta.
+10. Alise com a colher e cubra com a lona após firmar.
+11. Molhe de leve 2 vezes ao dia por 3 dias e retire a forma.
+
+ATENCAO
+-------
+Cimento molhado queima pele e olhos: use luva, bota e óculos.
+Peso do concreto machuca a coluna: dobre joelhos e peça ajuda.
+Esta laje é só piso no chão e não serve de teto ou piso alto.
+Se trincar com afundamento, não use: refaça a base do solo.
+
+SE NAO TIVER
+------------
+Sem brita, use pedra quebrada à mão em pedaços de 2 cm.
+Sem tábua, faça a borda com tijolos ou pedras alinhadas.
+Sem colher, nivele com régua e alise com garrafa lisa.
+
+COMO SABER QUE DEU CERTO
+-------------------------
+A superfície fica dura, plana e sem poça de água parada.
+A moeda arranhada de leve não esfarela o concreto curado.
+
+FONTES
+------
+Prática consolidada de piso de concreto em obra pequena
+(referências: manuais de construção civil e Defesa Civil).

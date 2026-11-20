@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 72-008
+TITULO: Como construir tubos solares de iluminação
+CATEGORIA: 72 - Sistemas de iluminação e óptica aplicada
+TEMPO: 180 minutos
+RISCO: alto
+EXIGE: acesso seguro ao telhado, vedante, tubo refletivo, cúpula
+REVISAO: 2026-11
+PALAVRAS-CHAVE: luz natural, tubo de luz, claraboia, duto, difusor, sol
+==============================================================================
+
+OBJETIVO
+--------
+Levar luz do sol para um cômodo sem janela usando um duto refletivo.
+
+QUANDO USAR
+-----------
+Quando o cômodo não tem janela e fica escuro o dia inteiro.
+Para ler ou trabalhar de dia sem ligar luz elétrica.
+Em banheiro, corredor ou depósito sem abertura para fora.
+Quando o telhado recebe sol direto por parte do dia.
+
+NAO USE QUANDO
+--------------
+Não use em telhado que não se consegue acessar com segurança.
+Não use sob chuva forte, neve ou vento intenso: pode infiltrar água.
+Não abra o teto se houver fio elétrico, viga ou cano no local.
+Não use em teto de amianto ou com telha muito frágil.
+
+MATERIAIS
+---------
+- Tubo rígido de PVC ou metal com interior refletivo (papel alumínio).
+- Cúpula transparente de acrílico ou polietileno para captar o sol.
+- Difusor leitoso na saída (plástico branco translúcido).
+- Fita de alumínio ou vedante de silicone para vedar as juntas.
+- Serra tico-tico ou faca forte para cortar o teto.
+- Escada firme, cinto de segurança e um ajudante.
+- Lona ou plástico para proteger o cômodo da poeira.
+
+PROCEDIMENTO
+------------
+1. Escolha no teto um ponto com sol direto e sem sombra de árvore.
+2. Confirme que não há fio, viga ou cano onde vai cortar.
+3. Meça o diâmetro do tubo e marque esse círculo no teto.
+4. Apoie a escada em chão firme e peça ao ajudante para segurá-la.
+5. Vista o cinto de segurança e prenda-se em ponto firme antes de subir.
+6. Corte o círculo marcado com a serra, de fora para dentro.
+7. Retire a peça cortada e limpe as bordas com a faca.
+8. Ajuste o tubo ao vão: tubo curto e reto leva mais luz.
+9. Enfie o tubo pela abertura até a ponta ficar rente ao teto interno.
+10. Forre o interior do tubo com papel alumínio, brilho para dentro.
+11. Não deixe o papel amassado nem com dobras no caminho da luz.
+12. Coloque a cúpula sobre a abertura externa.
+13. Vede toda a borda da cúpula com silicone ou fita de alumínio.
+14. Prenda o difusor na ponta interna do tubo com fita.
+15. Vede a folga entre tubo e teto por dentro e por fora.
+16. Retire a lona, limpe a poeira e espere um dia de sol.
+
+ATENCAO
+-------
+Trabalhar em telhado é perigoso: uma queda causa lesão grave.
+Use cinto de segurança e ajudante.
+Nunca corte sem conferir o interior do teto: fio elétrico causa choque.
+Abertura mal vedada infiltra água e apodrece madeira e forro.
+Papel alumínio amassado perde brilho e reflete menos luz.
+Tubo longo ou com curvas perde muita luz; prefira trajeto curto e reto.
+Cúpula de plástico comum amarela e racha com o sol com o tempo.
+Se aparecer goteira, pare e refaça a vedação antes da próxima chuva.
+
+SE NAO TIVER
+------------
+Sem cúpula de acrílico, use pote plástico transparente cortado ao meio.
+Sem filme espelhado, use papel alumínio liso, sem amassar.
+Sem difusor, estique pano branco limpo na saída e prenda com fita.
+Sem serra ou sem cinto, não improvise: peça ajuda ou desista.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Com sol, aparece mancha clara no piso sob o difusor.
+A luz some à noite e volta quando o sol bate na cúpula.
+Não há goteira nem mancha de umidade no teto depois da chuva.
+
+FONTES
+------
+Prática consolidada de claraboias tubulares e dutos de luz.
+Estudos do grupo de janelas e iluminação do Lawrence Berkeley National
+Laboratory sobre dutos de luz: tubo curto e reto, forro muito refletivo.
+Enciclopédia aberta usada só como pista, sem manual único consultado.
+Resumo operacional; não substitui treinamento para trabalho em telhado.

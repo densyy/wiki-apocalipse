@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 42-015
+TITULO: Como construir âncoras artesanais
+CATEGORIA: 42 - Engenharia naval e tecnologias marítimas
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: peso de 20 a 30 kg, cabo resistente, luvas, pano para proteger o cabo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ancora, amarra, peso, fundo, cabo, barco, corrente, deriva
+==============================================================================
+
+OBJETIVO
+--------
+Construir uma âncora de peso-morto com materiais comuns e prender uma
+embarcação pequena em água calma e fundo de areia ou cascalho.
+
+QUANDO USAR
+-----------
+Quando a âncora original se perdeu, quebrou ou ficou sem cabo.
+Quando é preciso manter o barco parado para pescar, carregar ou desembarcar.
+Quando se espera passar a noite em local abrigado e com pouca correnteza.
+Quando o barco precisa ficar preso à margem por algumas horas.
+
+NAO USE QUANDO
+--------------
+Não use em mar aberto, vento forte, onda ou correnteza.
+Não use em fundo de lama, pedra ou algas: o peso afunda ou rola.
+Não use se o peso for menor que 20 kg ou se o cabo estiver desfiado.
+Não use como única segurança em água profunda ou com pessoas a bordo.
+
+MATERIAIS
+---------
+- Bloco de concreto vazado de aproximadamente 20 a 30 kg, com furo.
+- Cavilha de madeira ou ferro de aproximadamente 15 cm, maior que o furo.
+- Cabo de nylon ou sisal de aproximadamente 8 a 10 m, sem desfiamentos.
+- Pano, borracha ou câmara de pneu para forrar o cabo nos cantos.
+- Nó de oito (batente que não passa pelo furo), feito com o próprio cabo.
+- Fita adesiva ou arame para manter o forro no lugar.
+- Luvas de couro ou pano grosso e calçado fechado.
+- Faca para cortar o cabo e alicate para apertar a emenda.
+- Saco de areia ou terra como substituto do bloco.
+- Boia ou garrafa vazia com tampa para marcar a posição da âncora.
+
+PROCEDIMENTO
+------------
+1. Escolha local abrigado, com fundo de areia ou cascalho e pouca corrente.
+2. Meça a profundidade com uma corda lastrada por uma pedra pequena.
+3. Descarte o local se a profundidade passar de um quinto do cabo.
+4. Passe a ponta do cabo pelo furo do bloco de concreto.
+5. Prenda a cavilha no cabo, atrás do bloco, com um nó de oito.
+6. Puxe a cavilha contra o bloco para conferir que não passa pelo furo.
+7. Forre com pano os pontos onde o cabo toca as arestas do bloco.
+8. Enrole a fita ou o arame por cima do pano para mantê-lo no lugar.
+9. Enrole o resto do cabo em uma volta solta no barco.
+10. Prenda o cabo no cleat com uma volta e duas meias-voltas.
+11. Calce as luvas e abaixe o bloco pela lateral de sotavento do barco.
+12. Solte o bloco rente à água, sem jogá-lo de cima nem sobre os pés.
+13. Pague cabo enquanto o barco recua, até o peso pousar no fundo.
+14. Pague cabo até completar aproximadamente cinco vezes a profundidade.
+15. Dê um puxão firme no cabo para assentar o peso no fundo.
+16. Confira se a volta no cleat aguenta o puxão sem escorregar.
+17. Amarre a boia na mesma linha, rente à superfície, para marcar o ponto.
+18. Escolha dois pontos fixos na margem alinhados com o barco.
+19. Anote a posição para conferir, de tempo em tempo, se o barco arrasta.
+20. Retire o cabo do cleat com cuidado ao levantar a âncora.
+
+ATENCAO
+-------
+Cabo em aresta viva corta: forre o pano antes de tensionar.
+Nunca prenda o cabo na mão, no corpo ou em peça frágil do barco.
+Peso leve não segura: se o barco arrasta, aumente o peso ou mude de fundo.
+Fundo de lama, pedra ou algas não prende peso-morto: procure areia.
+Correnteza ou vento forte arrasta qualquer âncora caseira: não insista.
+Se o cabo esticar com estalo, a âncora soltou: saia e ancore de novo.
+O bloco pode cair nos pés: use luvas, calçado firme e mãos firmes.
+Mergulhar em água profunda para recuperar a âncora pode causar afogamento.
+
+SE NAO TIVER
+------------
+Sem bloco, use saco de areia ou terra bem fechado com peso parecido.
+Sem saco, use pedra grande sem arestas, presa com cabo em cruz.
+Sem pano, forre o cabo com borracha, palha ou pano de camisa velha.
+Sem cabo longo, reduza a profundidade: ancore em água mais rasa.
+Sem peso suficiente, não confie na âncora: fique ao remo ou volte à praia.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O barco para de recuar e fica com a proa voltada ao vento ou à corrente.
+O cabo fica tenso e firme no cleat, sem escorregar nem desfiar.
+Os dois pontos na margem continuam alinhados após alguns minutos.
+Um puxão firme no cabo não desloca o bloco nem gira o barco.
+
+FONTES
+------
+Manual de sobrevivência FM 21-76 do Exército dos Estados Unidos,
+seção de sobrevivência na água: âncora de paraquedas, deriva e cabo.
+Prática consolidada de amarração de pequenas embarcações: peso-morto,
+cabo de comprimento aproximado a cinco vezes a profundidade e proteção
+contra atrito. Resumo operacional, não substitui treinamento.

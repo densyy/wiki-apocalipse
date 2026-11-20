@@ -1,0 +1,68 @@
+==============================================================================
+CODIGO: 28-004
+TITULO: Como organizar estoques por validade
+CATEGORIA: 28 - Logística e gestão de recursos
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: caderno, caneta, espaço de armazenamento
+REVISAO: 2026-11
+PALAVRAS-CHAVE: estoque, validade, vencimento, rotacao, despensa, data
+==============================================================================
+
+OBJETIVO
+--------
+Deixar o estoque em ordem para usar primeiro o que vence antes.
+
+QUANDO USAR
+-----------
+Quando chegar mantimento novo e ainda sobrar do lote anterior.
+Quando o estoque misturar datas de validade diferentes.
+Quando se montar uma reserva para varios dias sem reposicao.
+
+NAO USE QUANDO
+--------------
+Para decidir se alimento duvidoso ainda pode ser comido.
+A data define a ordem de uso, nao o estado do alimento.
+
+MATERIAIS
+---------
+- Caderno ou folha para anotar as datas.
+- Caneta ou lapis para escrever.
+- Prateleira, caixa ou recipiente para o estoque.
+- Etiqueta de papel e fita adesiva, se houver.
+
+PROCEDIMENTO
+------------
+1. Esvazie o local de armazenamento sobre uma superficie limpa.
+2. Separe os itens por tipo: graos, enlatados, oleo e farinha.
+3. Leia a data de validade impressa em cada embalagem.
+4. Anote no caderno o nome do item e a sua data de validade.
+5. Coloque na frente os itens que vencem primeiro.
+6. Coloque atras os itens com validade mais distante.
+7. Repita a ordem da frente para o fundo em cada prateleira.
+8. Escreva a data na etiqueta e cole na embalagem, se houver.
+
+ATENCAO
+-------
+A ordem por validade reduz desperdicio, mas nao garante seguranca.
+Verifique o estado do alimento antes de usar, sempre.
+Embalagem estufada, vazando, com cheiro estranho ou mofo vai fora.
+Validade nao e troca automatica: confira como o alimento foi guardado.
+Nao misture datas diferentes no mesmo recipiente.
+Itens que exigem refrigeracao nao ficam na despensa; na duvida, descarte.
+
+SE NAO TIVER
+------------
+Sem caderno, escreva a data na propria embalagem com lapis.
+Sem etiqueta, prenda um pedaco de papel com fita ou barbante.
+Sem prateleira, use caixas de papelao limpas e bem secas.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os itens da frente vencem antes dos itens do fundo em cada prateleira.
+O registro mostra a data de cada item e o mais proximo esta na frente.
+
+FONTES
+------
+Pratica consolidada de rotacao de estoques por validade, sem documento.
+Este texto e um resumo operacional, nao substitui treinamento.

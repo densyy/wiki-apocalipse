@@ -1,0 +1,93 @@
+==============================================================================
+CODIGO: 66-003
+TITULO: Como realizar medições com paquímetro
+CATEGORIA: 66 - Mecânica de precisão e instrumentos
+TEMPO: 15 minutos
+RISCO: baixo
+EXIGE: paquímetro, peça a medir, pano limpo, boa luz
+REVISAO: 2026-11
+PALAVRAS-CHAVE: paquímetro, medir, vernier, zero, diâmetro, profundidade
+==============================================================================
+
+OBJETIVO
+--------
+Medir com correção o comprimento, a espessura, o diâmetro e a
+profundidade de uma peça usando o paquímetro.
+
+QUANDO USAR
+-----------
+Quando precisar de precisão maior que a de uma régua comum.
+Quando precisar conferir se uma peça cabe ou sai de um lugar.
+Quando precisar medir diâmetro externo, interno ou fundo de furo.
+Quando for conferir uma medida antes de cortar ou usinar a peça.
+
+NAO USE QUANDO
+--------------
+Quando a peça estiver girando ou presa em máquina ligada.
+Quando a peça estiver muito quente ou com aresta cortante.
+Se as faces de medição estiverem sujas, empenadas ou desgastadas.
+
+MATERIAIS
+---------
+- Paquímetro com cursor solto e escala legível.
+- Peça limpa, sem rebarbas nos pontos de contato.
+- Pano limpo e seco para limpar as faces e a peça.
+- Boa luz, ou lupa de aumento, para ler a escala.
+
+PROCEDIMENTO
+------------
+1. Limpe as faces das garras e a escala com o pano limpo.
+2. Feche as garras devagar, sem força, até encostarem.
+3. Confira o zero: com as garras fechadas, a marca zero do cursor
+   deve coincidir com a marca zero da escala principal.
+4. Se houver desvio, anote o erro zero e subtraia esse valor de
+   cada leitura.
+5. Abra as garras e coloque a peça entre as garras externas.
+6. Aproxime as garras até tocarem a peça, com pressão firme e leve.
+7. Mantenha o paquímetro alinhado, em ângulo reto com a face da peça.
+8. Feche o parafuso de travamento e retire a peça com cuidado.
+9. Leia a escala principal: o número inteiro de milímetros antes
+   do zero do cursor.
+10. Ache na escala do cursor a linha que coincide com uma linha da
+    escala principal.
+11. Multiplique o número dessa linha pelo valor gravado no cursor,
+    em geral 0,02 ou 0,05 milímetro.
+12. Some as duas leituras e subtraia o erro zero anotado.
+13. Para diâmetro interno, use as garras pequenas de cima e abra
+    até tocarem as paredes do furo.
+14. Para profundidade, encoste a base na borda do furo e estenda
+    a haste até o fundo.
+15. Repita a medição três vezes e anote a média.
+
+ATENCAO
+-------
+O erro mais comum é ler o vernier errado. Confira duas vezes.
+Nunca meça peça girando ou em máquina ligada. A garra pode ser
+arrancada e causar ferimento grave.
+Pressão excessiva entorta a peça e falsifica a medida.
+Garras sujas ou com rebarba desgastam o instrumento e erram a leitura.
+O paquímetro não substitui o micrômetro quando a tolerância for
+menor que a menor divisão da escala dele.
+Se o cursor estiver frouxo ou a escala ilegível, pare e troque
+o instrumento. Não use como alavanca, compasso de marcar ou chave.
+
+SE NAO TIVER
+------------
+Sem paquímetro, use uma régua milimetrada para medidas maiores,
+aceitando precisão menor. A régua não substitui o paquímetro em
+diâmetro interno nem em profundidade. Para tolerância apertada,
+empreste ou compre um paquímetro antes de medir. Não improvise
+com fita metálica para medidas finas.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As garras fechadas marcam zero, ou o erro zero foi anotado.
+As três leituras repetidas diferem no máximo de uma divisão da escala.
+A peça entra e sai das garras sem folga e sem força excessiva.
+
+FONTES
+------
+Prática consolidada de metrologia e oficina mecânica, descrita em
+manuais de instrumentos de medição e em manuais de laboratório de
+física e engenharia. A menor divisão e o erro zero devem ser lidos
+na gravação do próprio instrumento.

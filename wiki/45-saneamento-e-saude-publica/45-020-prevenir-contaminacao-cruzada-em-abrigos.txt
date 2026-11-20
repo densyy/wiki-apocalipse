@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 45-020
+TITULO: Como prevenir contaminação cruzada em abrigos
+CATEGORIA: 45 - Engenharia de saneamento e saúde pública
+TEMPO: 45 minutos
+RISCO: alto
+EXIGE: água tratada, sabão, baldes com tampa, pano, hipoclorito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: contaminação, abrigo, água suja, fezes, mãos, higiene
+==============================================================================
+
+OBJETIVO
+--------
+Reduzir a passagem de germes das fezes para a água, a comida e as mãos.
+
+QUANDO USAR
+-----------
+Ao ocupar abrigo com várias pessoas sem água e esgoto tratados.
+Depois de enchente, quando fezes e esgoto podem estar espalhados.
+Quando alguém do grupo tiver diarreia ou vômito.
+Ao dividir baldes, panelas ou panos entre pessoas ou tarefas.
+Antes de preparar comida ou distribuir água no abrigo.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para este procedimento.
+Estas medidas não tratam água já contaminada.
+Com cheiro de combustível ou agrotóxico, procure outra fonte e ajuda.
+
+MATERIAIS
+---------
+- Água tratada para beber e lavar as mãos (fervida ou clorada).
+- Sabão ou detergente.
+- Baldes com tampa para água limpa e para lavar as mãos (pano preso).
+- Pano limpo que possa ser lavado e seco ao sol.
+- Hipoclorito de sódio com concentração indicada no rótulo.
+- Corda ou estaca para marcar as zonas.
+- Saco resistente ou balde tampado para fezes e lixo.
+- Luvas para limpar respingos, se houver.
+
+PROCEDIMENTO
+------------
+1. Defina uma zona limpa e uma zona suja no abrigo.
+2. Marque a divisão com corda, estaca ou fita.
+3. Guarde água tratada e alimentos apenas na zona limpa.
+4. Deixe latrina, lixo e calçados sujos na zona suja.
+5. Monte um ponto de lavar as mãos com água tratada e sabão.
+6. Lave as mãos antes de comer, cozinhar e tocar em água limpa.
+7. Lave as mãos depois da latrina, de trocar fralda ou limpar vômito.
+8. Use um balde só para a água de lavar as mãos.
+9. Não use esse balde para beber, cozinhar ou recolher fezes.
+10. Sirva a água limpa com concha limpa, sem encostar no balde.
+11. Tampe a água e a comida logo após cada uso.
+12. Não encoste mão, pano ou colher sujos dentro dos recipientes.
+13. Separe um pano só para limpar a zona suja e os respingos.
+14. Lave esse pano com água e sabão e seque ao sol após o uso.
+15. Descarte fezes e fraldas em saco resistente ou balde tampado.
+16. Cubra as fezes com terra ou cal a cada uso da latrina.
+17. Limpe respingos com pano e hipoclorito diluído conforme o rótulo.
+18. Reserve recipiente e pano exclusivos para quem estiver doente.
+19. Afaste quem tiver diarreia ou vômito do preparo da comida.
+20. Encha ou drene poças perto do abrigo para reduzir insetos.
+21. Nunca despeje água suja, fezes ou lixo perto da água limpa.
+
+ATENCAO
+-------
+A contaminação cruzada espalha cólera, disenteria e tifoide pelo grupo.
+O erro mais comum é usar o mesmo balde para água limpa e limpeza.
+Ferver ou clorar não remove combustível, agrotóxico, metal nem sal.
+Com cheiro químico na água, descarte-a e procure outra fonte.
+Hipoclorito irrita olhos e pele; use luvas e ventilação ao limpar.
+Nunca misture hipoclorito com amônia, vinagre ou outros produtos.
+A diluição do hipoclorito depende do rótulo; não a invente.
+Sem água tratada suficiente, priorize a bebida e a higiene das mãos.
+Com diarreia com sangue ou vômito no grupo, isole a pessoa e procure ajuda.
+Este texto reduz o risco, mas não substitui tratamento nem atendimento.
+
+SE NAO TIVER
+------------
+Sem hipoclorito, lave superfícies com água e sabão e seque ao sol.
+Sem sabão, esfregue as mãos com água tratada e atrito forte.
+Sem tampa, use pano limpo preso com corda para cobrir a água.
+Sem espaço para duas zonas, separe ao menos os recipientes de água.
+Sem água suficiente, priorize a bebida e a lavagem das mãos.
+Não improvise recipiente que tenha guardado combustível ou tinta.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água e a comida ficam na zona limpa, tampadas e longe das fezes.
+Há sabão e água tratada no ponto de lavar as mãos.
+Cada balde tem um uso definido e identificado.
+Ninguém toca dentro dos recipientes com mão ou pano sujo.
+Não há fezes, lixo ou água parada perto da água limpa.
+Ninguém do grupo apresentou diarreia após o primeiro dia de uso.
+
+FONTES
+------
+OMS, Saneamento (2026), Água potável (2026) e Doença diarreica (2024).
+Prática consolidada de higiene em abrigos, sem documento único citado.
+Este resumo é operacional e não substitui treinamento técnico.

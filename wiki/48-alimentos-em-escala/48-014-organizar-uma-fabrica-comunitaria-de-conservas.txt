@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 48-014
+TITULO: Como organizar uma fábrica comunitária de conservas
+CATEGORIA: 48 - Produção de alimentos em escala comunitária
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: local amplo, água potável, fogão, panelas, potes e tampas novos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: conservas, enlatamento, botulismo, higiene, potes, pressão
+==============================================================================
+
+OBJETIVO
+--------
+Definir espaço, funções e controles para produzir conservas seguras
+em grupo.
+
+QUANDO USAR
+-----------
+- Quando várias famílias querem guardar a colheita em potes.
+- Quando o excedente precisa durar meses sem geladeira.
+- Quando há água potável, fogão e pessoas para dividir o serviço.
+- Quando o grupo quer doar ou vender com data e responsável.
+
+NAO USE QUANDO
+--------------
+- Não monte sem água potável nem sem lugar para lavar as mãos.
+- Não faça conservas de carne ou vegetais sem panela de pressão.
+- Não comece sem receita testada e sem um responsável presente.
+- Não use potes rachados, enferrujados ou de reuso duvidoso.
+
+MATERIAIS
+---------
+- Local amplo, arejado e com piso que possa ser lavado.
+- Água potável em quantidade (ou água tratada para beber).
+- Sabão, pano limpo, papel toalha e desinfetante.
+- Fogão, panelas grandes, panela de pressão e banho-maria.
+- Potes de vidro novos, sem rachaduras, com tampas novas.
+- Funil, concha, colher de pau, pinça, termômetro e rótulos.
+- Caderno para registrar data, receita, lote e responsável.
+- Luvas e avental limpos (ou roupas laváveis).
+
+PROCEDIMENTO
+------------
+1. Escolha um responsável para recepção, cozimento, envase e registro.
+2. Separe três áreas: matéria-prima, cozimento e potes prontos.
+3. Verifique a acidez do alimento antes de escolher o processo.
+4. Use banho-maria só para alimentos ácidos, como frutas e picles.
+5. Use panela de pressão para vegetais, carnes, peixes e sopas.
+6. Siga uma receita testada e conhecida, com tempo e peso definidos.
+7. Lave potes e tampas com água potável e sabão antes de usar.
+8. Lave as mãos e as superfícies ao trocar de área ou de tarefa.
+9. Cozinhe o alimento até atingir 70 graus no centro, se aplicável.
+10. Encha os potes deixando o espaço livre indicado na receita.
+11. Limpe a borda do pote com papel limpo antes de fechar.
+12. Feche a tampa e aplique o tempo e a pressão da receita testada.
+13. Ventile a panela de pressão antes de aumentar a pressão.
+14. Retire os potes, deixe esfriar em local limpo e sem corrente de ar.
+15. Confira o fechamento: a tampa não pode ceder ao ser pressionada.
+16. Rotule cada pote com data, conteúdo, lote e responsável.
+17. Guarde em local fresco, escuro, seco e longe do fogão.
+18. Registre no caderno a data, a receita, o lote e o destino.
+19. Descarte qualquer pote inchado, com vazamento ou espuma.
+
+ATENCAO
+-------
+- Conservas de baixa acidez mal processadas podem causar botulismo.
+- A toxina do botulismo não tem cheiro, cor ou gosto e pode matar.
+- Vegetais, carnes e peixes exigem panela de pressão, nunca banho-maria.
+- Nunca use panela elétrica ou multicooker, mesmo com modo conservas.
+- Potes inchados, vazando ou que espumam devem ser descartados fechados.
+- Não prove o conteúdo suspeito: uma pequena dose pode ser fatal.
+- Ferver por 10 minutos reduz o risco, mas não conserta pote mal feito.
+- Este texto não substitui receita testada nem treinamento.
+- Se alguém adoecer, pare a distribuição e busque ajuda.
+
+SE NAO TIVER
+------------
+- Sem panela de pressão, faça só conservas ácidas em banho-maria.
+- Sem potes novos, use apenas vidro íntegro e tampa nova sem deformação.
+- Sem termômetro, siga o tempo da receita testada e observe a ebulição.
+- Sem responsável treinado, reduza a escala e peça orientação local.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- Cada lote tem data, receita, lote, responsável e destino no caderno.
+- As tampas ficam firmes e não cedem quando pressionadas.
+- Os potes estão limpos, sem vazamento e sem inchaço.
+- Não há cheiro azedo, bolor, espuma ou cheiro estranho ao abrir.
+
+FONTES
+------
+- Cinco Chaves para uma Alimentação mais Segura, OMS: manter limpo,
+- separar cru e cozido, cozinhar a 70 graus, manter abaixo de 5
+- ou acima de 60 graus e usar água e matérias-primas seguras.
+- Princípios Gerais de Higiene de Alimentos, Codex CXC 1-1969, FAO/OMS.
+- Guia Completo de Enlatamento Caseiro, USDA, e orientações do CDC
+- sobre botulismo, acidez de pH 4,6 e panela de pressão; prática
+- consolidada de conservação comunitária, resumo operacional.

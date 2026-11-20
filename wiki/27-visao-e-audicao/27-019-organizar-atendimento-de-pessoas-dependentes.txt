@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 27-019
+TITULO: Como organizar cuidado de dependentes de aparelhos médicos
+CATEGORIA: 27 - Visão, audição e necessidades especiais
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: papel, caneta, celular, lista dos aparelhos, baterias, ajudantes
+REVISAO: 2026-11
+PALAVRAS-CHAVE: aparelhos, oxigênio, energia, bateria, bomba, cuidador
+==============================================================================
+
+OBJETIVO
+--------
+Organizar o cuidado de quem depende de aparelho médico para manter o
+aparelho ligado e a pessoa atendida quando faltar energia ou ajuda.
+
+QUANDO USAR
+-----------
+Quando alguém de casa usa oxigênio, ventilador, CPAP ou nebulizador.
+Quando a pessoa usa bomba de insulina, bomba de alimentação ou diálise.
+Quando há risco de falta de energia, água ou transporte.
+Quando o cuidador principal pode faltar.
+
+NAO USE QUANDO
+--------------
+Não serve para trocar ajuste, fluxo, pressão ou dose do aparelho.
+Não serve para consertar aparelho quebrado sem orientação do fabricante.
+Não substitui orientação do médico, do fabricante ou da assistência técnica.
+Não é plano de resgate: chame os bombeiros se houver risco de vida.
+
+MATERIAIS
+---------
+- Papel, caneta ou lápis para a lista e os contatos.
+- Celular carregado e carregador de reserva (banco de energia).
+- Lista escrita com nome, aparelho, ajustes e contatos do paciente.
+- Baterias reservas, cabos, filtros e mangueiras de reposição.
+- Extensões etiquetadas (não improvise em fio danificado).
+- Gerador ou fonte reserva de energia, se houver e souber operar.
+- Saco plástico impermeável para a lista e as peças.
+- Ajudantes treinados e um suplente para cada um.
+
+PROCEDIMENTO
+------------
+1. Pergunte à pessoa e ao cuidador quais aparelhos são indispensáveis.
+2. Anote nome do aparelho, modelo e para que ele serve.
+3. Anote ajustes, fluxo, pressão e horários exatamente como estão hoje.
+4. Não mude ajuste, fluxo, pressão ou dose por conta própria.
+5. Anote nome do médico, do fornecedor e da assistência técnica.
+6. Anote alergias, diagnóstico e como a pessoa se comunica.
+7. Classifique os aparelhos: os que sustentam a vida vêm primeiro.
+8. Marque na lista o que não pode ficar sem energia.
+9. Reúna baterias, cabos, filtros, mangueiras e peças de reserva.
+10. Teste cada bateria e cada aparelho em dia normal, antes da crise.
+11. Carregue baterias e banco de energia assim que houver energia.
+12. Guarde o kit em lugar conhecido por todos os cuidadores.
+13. Defina quem liga, quem vigia e quem busca ajuda em cada turno.
+14. Escolha um suplente para cada cuidador, com horário diferente.
+15. Combine sinal simples para pedir ajuda: toque, voz ou cartão.
+16. Anote o limite de tempo sem energia após o qual chamar ajuda.
+17. Guarde a lista em saco impermeável e deixe uma via com a pessoa.
+18. Refaça o teste e a checagem a cada mês.
+
+ATENCAO
+-------
+Sem energia, aparelho de oxigênio ou ventilador parado pode matar em
+poucos minutos; não espere para pedir ajuda.
+Nunca mude fluxo, pressão, volume ou dose para economizar bateria.
+Não use gerador dentro de casa: monóxido de carbono mata sem aviso.
+Não ligue aparelho em tomada ou cabo com fio exposto ou cheiro de queima.
+Não reutilize filtro, mangueira ou bateria inchada sem orientação.
+Se o aparelho parar, troque pela reserva e chame ajuda na hora.
+Se a pessoa ficar com lábios azuis, confusa ou sem ar, ligue 192 (Brasil).
+Se houver incêndio ou risco imediato, ligue 193 e priorize a saída.
+Não separe a pessoa do aparelho, da bateria e da lista de contatos.
+
+SE NAO TIVER
+------------
+Sem bateria reserva, leve a pessoa a lugar com energia e chame ajuda.
+Sem gerador, procure vizinho, posto de saúde ou abrigo com energia.
+Sem banco de energia, carregue o celular e avise quem pode ajudar.
+Sem peça de reserva, peça ao fabricante; não improvise mangueira.
+Sem ajudante, reduza o número de aparelhos ao essencial e peça socorro.
+Não improvise oxigênio nem adapte fonte de ar: pode causar lesão ou morte.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A lista permite dizer, sem hesitar, qual aparelho é vital e quem responde.
+Cada aparelho vital tem reserva de energia testada e pronta para uso.
+Cada cuidador sabe o turno, o sinal de alerta e o número de emergência.
+No teste mensal, todos os aparelhos ligaram e ninguém ficou sem ajuda.
+
+FONTES
+------
+Prática consolidada de preparação para emergências e atendimento a pessoas
+com necessidades especiais, sem documento único.
+Famílias de referência reconhecidas na área: OMS, OPAS, CDC, FEMA e
+Cruz Vermelha; no Brasil, Ministério da Saúde e Defesa Civil.
+Este texto é resumo operacional, baseado em princípios gerais de
+prioridade de energia, reserva e comunicação; não substitui orientação do
+médico, do fabricante do aparelho ou da assistência técnica.

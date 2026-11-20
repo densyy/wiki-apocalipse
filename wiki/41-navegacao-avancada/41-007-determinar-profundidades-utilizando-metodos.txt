@@ -1,0 +1,97 @@
+==============================================================================
+CODIGO: 41-007
+TITULO: Como determinar profundidades utilizando métodos simples
+CATEGORIA: 41 - Navegação avançada e técnicas de expedição
+TEMPO: 25 minutos
+RISCO: alto
+EXIGE: vara reta, corda resistente, peso pequeno, giz ou lama, caderno
+REVISAO: 2026-11
+PALAVRAS-CHAVE: profundidade, fundo, vara, corda, poço, rio, travessia
+==============================================================================
+
+OBJETIVO
+--------
+Medir a profundidade de rios, lagos e poços com materiais simples e
+decidir se a passagem é segura.
+
+QUANDO USAR
+-----------
+Antes de atravessar um riacho ou rio de água desconhecida.
+Ao checar se um poço ainda tem água e a que distância da boca.
+
+NAO USE QUANDO
+--------------
+Quando a correnteza for forte e você precisar entrar na água para medir.
+Quando a água estiver muito fria: entrar pode ser fatal mesmo em água rasa.
+Quando o poço estiver aberto sem tampa e não houver ninguém para ajudar.
+Quando a margem for instável ou desmoronar sob o peso do corpo.
+
+MATERIAIS
+---------
+- Vara reta e sem nós, com marcas a cada 0,5 metro (ou uma trena).
+- Corda ou linha resistente que não estique, mais longa que a
+  profundidade provável (fita de aço ou cadarço firme).
+- Peso pequeno para a corda: porca, arruela ou pedra (aproximadamente
+  100 gramas).
+- Giz, lama ou cinza molhada para marcar a linha d'água.
+- Caderno e lápis; uma segunda pessoa para ajudar, se possível.
+
+PROCEDIMENTO
+------------
+1. Fique na margem, na ponte ou na beira do poço. Não entre na água.
+2. Marque a vara com marcos de 0,5 metro a partir da ponta.
+3. Apoie a ponta da vara no leito, na vertical, em fundo plano e firme.
+4. Leia a marca onde a superfície da água corta a vara. Em correnteza,
+   ignore a crista de água que sobe encostada na vara.
+5. Repita em três pontos alinhados com a passagem e anote a maior
+   profundidade.
+6. Amarre o peso na ponta da corda e meça a corda antes de usar.
+7. Segure a corda na borda e desça o peso devagar, sem balançar.
+8. Pare quando sentir o peso encostar no fundo e a corda ficar frouxa.
+9. Marque na corda o ponto exato que passa pela borda.
+10. Puxe a corda e meça do peso até a marca: é a profundidade total.
+11. Repita a medição duas vezes e anote as duas leituras.
+12. Para achar o nível d'água do poço, esfregue giz nos últimos 2 metros
+    da corda antes de descer.
+13. Puxe a corda: o giz some na parte molhada e a divisa marca a água.
+14. Meça da borda até a divisa: é a distância até o nível da água.
+
+ATENCAO
+-------
+A profundidade não diz se a passagem é segura: água funda e parada pode
+ser mais segura que água rasa com correnteza forte.
+Nunca entre no rio para medir. Meça da margem ou de uma ponte.
+Em correnteza, a água sobe encostada na vara. Leia onde a superfície
+real corta a vara, não o topo dessa elevação, ou você erra a medida.
+Em lama ou areia mole a vara afunda: apoie em pedra ou use peso maior.
+Corda de nylon estica: use corda firme ou fita de aço e meça o trecho
+usado com uma trena.
+Em poço aberto, não se debruçe e prenda tudo que pode cair. Trabalhe
+com outra pessoa por perto.
+Água muito fria pode ser fatal se você cair, mesmo rasa: não entre.
+Se a correnteza empurrar o peso ou a margem ceder, pare e mude de ponto.
+
+SE NAO TIVER
+------------
+Sem vara, use trena ou cabo marcado; o antebraço serve como referência
+aproximada.
+Sem peso, prenda uma pedra: ouça o barulho e sinta a corda afrouxar.
+Sem giz, use lama ou cinza molhada: a parte molhada lava o indicador.
+Sem corda longa, meça só até onde alcança; não adivinhe o resto.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Duas leituras seguidas dão valores aproximadamente iguais.
+A vara fica apoiada no fundo, na vertical, e a marca na água é legível.
+A corda volta com a marca nítida e o valor confere com a marca da borda.
+
+FONTES
+------
+USGS, manual Discharge Measurements at Gaging Stations: medida de
+profundidade com vara graduada apoiada no leito e com peso preso a cabo
+marcado; alerta sobre a elevação da água na vara em correnteza.
+FM 21-76, manual do Exército dos Estados Unidos, capítulo 17: uso de
+vara para travessia e cuidados com profundidade, correnteza e água fria.
+Extension da Kansas State University e da Oregon State University:
+medida da profundidade de poço com fita, peso e giz.
+Prática consolidada de sondagem com corda e peso; resumo operacional.

@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 44-006
+TITULO: Como mapear uma microbacia hidrográfica
+CATEGORIA: 44 - Hidrologia, rios e gestão de bacias
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: carta topográfica, caderno, lápis, bússola, roupa de caminhada
+REVISAO: 2026-11
+PALAVRAS-CHAVE: microbacia, divisor de águas, croqui, nascente, córrego
+==============================================================================
+
+OBJETIVO
+--------
+Delimitar no mapa e no campo a área que deságua em um ponto escolhido.
+
+QUANDO USAR
+-----------
+Quando precisar saber de onde vem a água de uma nascente ou de um córrego.
+Quando for escolher onde captar água longe de fossa, curral ou lavoura.
+Quando quiser estimar a área que alimenta um trecho de rio.
+
+NAO USE QUANDO
+--------------
+Não faça o levantamento durante chuva forte, cheia ou terreno alagado.
+Não entre em área inundada para medir; espere a água baixar.
+
+MATERIAIS
+---------
+- Carta topográfica da região (ou croqui desenhado no caderno).
+- Caderno, lápis e bússola (ou sombra ao meio-dia).
+- Roupa de caminhada, calçado firme e proteção contra sol e chuva.
+
+PROCEDIMENTO
+------------
+1. Escolha o ponto de saída: a foz, a ponte ou a nascente a estudar.
+2. Marque esse ponto no mapa com um círculo e anote a data.
+3. Chame de microbacia a área cuja água escoa até esse ponto.
+4. Chame de divisor de águas a linha de cumes que separa duas bacias.
+5. Localize o córrego principal e os afluentes que chegam ao ponto.
+6. Siga cada afluente rio acima até a nascente ou a borda da carta.
+7. Trace o contorno ligando os pontos altos ao redor dos afluentes.
+8. Feche o polígono no ponto de saída e veja se nenhum córrego o cruza.
+9. Confira no terreno duas cristas do contorno usando a encosta.
+10. Marque no mapa fossas, curral, lavoura e estradas dentro do polígono.
+
+ATENCAO
+-------
+O traço no mapa é uma estimativa: confira no terreno antes de captar.
+Em terreno plano, valas e drenos mudam o escoamento da água.
+Córrego sobe rápido após chuva: não entre na água nem desça barranco liso.
+A bacia não mostra poluição: fossa ou agrotóxico pode sujar a captação.
+Pare se o terreno for privado sem permissão ou se houver cheia ou raio.
+
+SE NAO TIVER
+------------
+Sem carta, desenhe croqui com morros, vales e a rede de córregos.
+Sem bússola, use a sombra ao meio-dia para orientar o norte.
+Sem acesso, marque só o que o mapa mostra e diga que não houve conferência.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O polígono fecha no ponto e contém os afluentes sem nenhum córrego cortando.
+Croqui com data, cristas conferidas e fontes de poluição anotadas.
+
+FONTES
+------
+Prática consolidada de delineação de bacias em campo, resumida da
+publicação "Watersheds and Drainage Basins" da USGS Water Science School
+e das orientações da Agência Nacional de Águas (ANA) sobre bacias.

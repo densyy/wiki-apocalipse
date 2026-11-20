@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 59-014
+TITULO: Como trabalhar em alturas com segurança
+CATEGORIA: 59 - Segurança industrial e riscos ocupacionais
+TEMPO: 30 minutos
+RISCO: critico
+EXIGE: cinturão paraquedista, talabarte, ancoragem, capacitação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: altura, queda, cinturão, talabarte, ancoragem, paraquedista
+==============================================================================
+
+OBJETIVO
+--------
+Executar trabalho em altura sem cair, com proteção conferida antes de subir.
+
+QUANDO USAR
+-----------
+Ao subir em andaime, plataforma, telhado ou escada acima de 2 metros.
+Em manutenção industrial, obra ou reparo com risco de queda.
+Perto de bordas, aberturas ou vãos sem guarda-corpo.
+Em qualquer tarefa não rotineira em altura, com permissão de trabalho.
+Quando o serviço não puder ser feito no solo.
+
+NAO USE QUANDO
+--------------
+Sem treinamento, autorização ou aptidão clínica, não execute o trabalho.
+Sem cinturão tipo paraquedista e ponto de ancoragem conferido, não suba.
+Interrompa com vento forte, chuva, piso escorregadio ou má visibilidade.
+Pare se houver tontura, vertigem, sonolência ou uso de álcool.
+
+MATERIAIS
+---------
+- Cinturão tipo paraquedista com cintas de coxa, peito e cintura.
+- Talabarte com absorvedor de energia ou trava-quedas com linha de vida.
+- Ponto de ancoragem conferido, marcado e compatível com o sistema.
+- Guarda-corpo ou rede quando a proteção coletiva for possível.
+- Conectores e fivelas íntegros, com Certificado de Aprovação válido.
+- Capacete e calçado antiderrapante; cordão para prender ferramentas.
+- Outra pessoa para conferir o ajuste e supervisionar o serviço.
+
+PROCEDIMENTO
+------------
+1. Verifique se o serviço pode ser feito no solo. Se puder, faça no solo.
+2. Confirme que a diferença de nível com risco de queda passa de 2 metros.
+3. Peça ao responsável a análise de risco e, se a tarefa não for rotineira,
+   a permissão de trabalho, antes de começar.
+4. Confirme que você foi treinado, autorizado e considerado apto.
+5. Prefira proteção coletiva: guarda-corpo, rede ou piso firme.
+6. Se não der, use cinturão tipo paraquedista com talabarte e absorvedor.
+7. Inspecione cintas, fivelas, absorvedor e conectores antes de usar.
+8. Descarte qualquer peça cortada, desgastada, deformada ou que já caiu.
+9. Confira o ponto de ancoragem com o responsável: nunca use tubo, corrimão
+   ou árvore sem conferência.
+10. Prenda o talabarte no engate dorsal ou peitoral do cinturão.
+11. Ajuste o cinturão até ficar justo nas coxas, no peito e na cintura.
+12. Posicione talabarte e trava-quedas para limitar a queda livre e evitar
+    batida na estrutura inferior.
+13. Mantenha-se conectado em toda a exposição ao risco de queda.
+14. Ao mudar de posição, use duas conexões alternadas ou o trava-quedas;
+    nunca fique solto.
+15. Isole a área abaixo, sinalize e prenda as ferramentas por cordão.
+16. Peça a outra pessoa que confira ajuste e conexão antes de iniciar.
+17. Pare e desça se aparecer condição nova não prevista na análise de risco.
+18. Ao terminar, desconecte com segurança e guarde o equipamento seco.
+
+ATENCAO
+-------
+O que mata é a queda. Queda livre pode matar ou deixar sequela permanente.
+Cinto de cintura, corda comum ou talabarte improvisado não retêm queda.
+Sem ponto de ancoragem conferido, compatível e marcado, não faça a conexão.
+Fique conectado sem parar: desconectar para mudar de lugar é o erro que
+mais machuca e o que mais mata.
+Depois de qualquer queda, inutilize e descarte o equipamento atingido.
+O absorvedor limita o impacto, mas a pessoa fica suspensa após a queda.
+Precisa de resgate rápido para evitar a suspensão inerte.
+No Brasil a NR-35 vale acima de 2 metros com risco de queda; outras normas
+usam 1,8 metro. Na dúvida, adote a menor altura.
+Vento, piso molhado, visão ruim ou mudança não prevista são sinais de parar.
+
+SE NAO TIVER
+------------
+Sem cinturão ou talabarte, não suba: não há substituto seguro.
+Sem ancoragem conferida, não suba: trabalhe no solo ou use guarda-corpo.
+Sem outra pessoa para conferir e supervisionar, interrompa o trabalho.
+Não improvise com corda de varal, cinto comum ou peça danificada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O cinturão ficou justo, sem folga, e o conector travou no ponto conferido.
+Você permaneceu conectado do início ao fim, sem nós ou emendas.
+A área abaixo ficou isolada e as ferramentas ficaram presas por cordão.
+O serviço terminou sem queda, sem escorregão e sem peça danificada.
+
+FONTES
+------
+Norma Regulamentadora 35 do Ministério do Trabalho e Emprego, Brasil:
+trabalho em altura, análise de risco, proteção contra quedas e resgate.
+Norma 1926.501 da OSHA, Estados Unidos: proteção contra quedas a partir de
+1,8 metro. Resumo operacional; não substitui treinamento nem a avaliação do
+encarregado de segurança.

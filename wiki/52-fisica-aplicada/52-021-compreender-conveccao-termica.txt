@@ -1,0 +1,79 @@
+==============================================================================
+CODIGO: 52-021
+TITULO: Como compreender convecção térmica
+CATEGORIA: 52 - Física aplicada e princípios fundamentais
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: recipiente transparente, água quente e fria, gelo, corante
+REVISAO: 2026-11
+PALAVRAS-CHAVE: convecção, calor, densidade, corrente, fluido, água quente
+==============================================================================
+
+OBJETIVO
+--------
+Entender como o calor viaja dentro de líquidos e gases pelo movimento
+do próprio fluido.
+
+QUANDO USAR
+-----------
+Quando quiser entender por que a água da panela aquece por inteiro.
+Quando precisar saber por que o ar quente sobe e o frio desce.
+Quando observar brisa marítima, ventos ou correntes oceânicas.
+Quando quiser explicar o movimento do ar dentro de uma casa ou geladeira.
+
+NAO USE QUANDO
+--------------
+Quando o material for sólido: aí o calor passa por condução.
+Quando não houver fluido, como no vácuo, onde só existe radiação.
+Quando o fluido estiver todo na mesma temperatura: não há corrente.
+
+MATERIAIS
+---------
+- Recipiente transparente e fundo, de vidro ou plástico (ou um pote).
+- Copo pequeno para a água quente (ou uma garrafa).
+- Água quente, aproximadamente 40 graus, sem ferver.
+- Cubos de gelo (ou água bem fria da geladeira).
+- Corante alimentar de duas cores (ou um corante só).
+- Colher ou pipeta para despejar devagar.
+
+PROCEDIMENTO
+------------
+1. Encha o recipiente com água em temperatura ambiente até quase a borda.
+2. Espere a água parar, sem nenhuma corrente visível.
+3. Pingue corante vermelho no copo de água quente e misture.
+4. Despeje a água quente com corante no fundo do recipiente, devagar.
+5. Coloque cubos de gelo com corante azul na superfície da água.
+6. Observe a coluna vermelha subir pelo centro do recipiente.
+7. Observe a água azul descer pelas paredes e voltar ao fundo.
+8. Anote o caminho: sobe no centro quente, desce nas bordas frias.
+9. Refaça o teste aquecendo só a superfície, com gelo no fundo.
+10. Veja o circuito desaparecer e a água quente ficar em cima.
+
+ATENCAO
+-------
+A água quente queima: segure o copo pela lateral e não use água fervendo.
+Fluido quente é menos denso e sobe; fluido frio é mais denso e desce.
+Sem diferença de temperatura não há convecção, só difusão do corante.
+O corante mostra o caminho da água, não o calor em si.
+A convecção natural depende do empuxo: sem gravidade ela não acontece.
+Perto de aproximadamente 4 graus a água fica mais densa no fundo.
+
+SE NAO TIVER
+------------
+Sem corante, use farelos de especiaria ou pedacinhos de papel aluminio.
+Sem gelo, use água bem fria despejada com cuidado na superfície.
+Sem copo para aquecer, use uma panela e despeje com uma colher.
+Sem duas cores, use uma só e acompanhe a pluma que sobe.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A coluna de corante quente sobe e se espalha pela superfície.
+O corante frio desce pelas paredes e retorna ao fundo.
+Forma-se um circuito fechado, chamado célula de convecção.
+
+FONTES
+------
+OpenStax, University Physics Volume 2, seção sobre transferência de calor.
+NASA, material educativo Thermal Energy Transfer e atividade Convection.
+NOAA, material didático Heat Transfer e a atividade Convection Currents.
+Prática consolidada de ensino de física, sem documento único.

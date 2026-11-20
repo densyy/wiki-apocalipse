@@ -1,0 +1,86 @@
+==============================================================================
+CODIGO: 53-025
+TITULO: Como identificar falsificação de medicamentos
+CATEGORIA: 53 - Produção de medicamentos e farmacologia
+TEMPO: 10 minutos
+RISCO: alto
+EXIGE: caixa, rótulo, bula, nota fiscal, boa luz
+REVISAO: 2026-11
+PALAVRAS-CHAVE: falsificado, falso, embalagem, lote, registro, bula
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer sinais de falsificação e decidir se o medicamento é seguro.
+
+QUANDO USAR
+-----------
+Quando o medicamento foi comprado fora de farmácia regularizada.
+Quando a compra veio de site, aplicativo, rede social ou grupo de mensagens.
+Quando caixa, rótulo ou bula apresentam diferenças em relação ao normal.
+Quando o preço está muito abaixo do praticado para o mesmo produto.
+Quando o lote ou as datas de fabricação e validade geram dúvida.
+
+NAO USE QUANDO
+--------------
+Não use a inspeção visual para liberar um produto suspeito ao uso.
+Ela só levanta suspeita, não prova autenticidade.
+Na dúvida, não use o medicamento.
+
+MATERIAIS
+---------
+- Caixa, frasco ou blister, rótulo e bula do medicamento.
+- Nota fiscal ou comprovante da compra.
+- Outra caixa do mesmo medicamento, se houver, para comparar.
+- Boa luz e lente de aumento, se disponível.
+
+PROCEDIMENTO
+------------
+1. Coloque caixa, frasco, rótulo, bula e nota fiscal na mesa.
+2. Leia no rótulo e na bula o princípio ativo, a concentração e a forma.
+3. Confira se o número de registro sanitário aparece na caixa e no rótulo.
+4. Compare esse número e o fabricante com os de outra caixa original.
+5. Examine a impressão: cor, alinhamento, nitidez e ortografia.
+6. Se houver selo, lacre ou holograma previsto, confira se está intacto.
+7. Compare lote e datas de fabricação e validade da caixa com os do frasco.
+8. Observe o produto: forma, cor, tamanho e cheiro do comprimido ou líquido.
+9. Compare com um medicamento original conhecido, se houver um.
+10. Desconfie se a venda ocorreu fora de farmácia regularizada.
+11. Desconfie se o preço estava muito abaixo do normal.
+12. Se notar sinal de falsificação, pare de usar o produto.
+13. Separe a caixa e o produto sem descartá-los.
+14. Leve caixa e produto ao farmacêutico ou à Vigilância Sanitária local.
+
+ATENCAO
+-------
+A inspeção visual só levanta suspeita; não prova autenticidade.
+Falsificados podem ter princípio ativo errado, dose incorreta ou nenhum
+princípio ativo, além de substâncias tóxicas.
+Uma embalagem com aparência perfeita pode ser falsificada.
+Não prove, não cheire diretamente e não teste o produto no corpo.
+Se houver dúvida, não use: o risco é intoxicação, tratamento falho ou
+resistência de microrganismos a antimicrobianos.
+Não devolva o produto à farmácia nem o entregue a outra pessoa.
+Se já usou e surgiram sintomas novos ou graves, procure atendimento.
+
+SE NAO TIVER
+------------
+Sem bula, compare com a embalagem de outro medicamento original.
+Sem nota fiscal ou procedência conhecida, trate como suspeito e não use.
+Sem lente, use boa luz natural e observe com atenção.
+Não confie apenas na impressão de que o produto parece igual.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue citar o registro, o lote, a validade e o fabricante lidos.
+Caixa, rótulo, bula e produto têm dados coincidentes, sem adulteração.
+A decisão ficou clara: usar, não usar ou encaminhar para confirmação.
+
+FONTES
+------
+Anvisa: definições de medicamento autorizado, falsificado, experimental e
+importado irregularmente, e orientações sobre compra em farmácias
+regularizadas e desconfiança de canais informais (2020, 2023, 2024 e 2026).
+OMS: ficha informativa Substandard and falsified medical products, 2024.
+Resumo operacional; não substitui orientação de profissional ou da
+Vigilância Sanitária.

@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 02-111
+TITULO: Como defumar peixes
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 40 minutos de trabalho ativo
+RISCO: alto
+EXIGE: peixe eviscerado, sal, madeira, defumador, termômetro, fogo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: defumar, peixe, fumaça, sal, defumação, botulismo, conservar
+==============================================================================
+
+OBJETIVO
+--------
+Cozinhar peixe com fumaça e sal para comer no mesmo dia com segurança.
+
+QUANDO USAR
+-----------
+Ao pescar peixe e não houver geladeira para guardar o cru.
+Quando houver madeira limpa e fogo para cozinhar a captura.
+Ao querer sabor de defumado e conservar por poucos dias com frio.
+
+NAO USE QUANDO
+--------------
+Não use peixe com cheiro de amônia, olhos opacos ou carne mole.
+Não use peixe de água poluída ou de origem desconhecida.
+Não defuma em ambiente fechado: fumaça e monóxido de carbono matam.
+Não faça defumação a frio sem controle de sal e temperatura.
+
+MATERIAIS
+---------
+- Peixe fresco eviscerado, sem guelras e sem vísceras.
+- Sal grosso sem iodo e água limpa para a salmoura.
+- Madeira limpa sem tratamento para gerar fumaça.
+- Defumador, barril ou caixa metálica com tampa e grelha.
+- Termômetro de carne para medir o centro do peixe.
+- Fogo controlado, água e pano limpo.
+
+PROCEDIMENTO
+------------
+1. Eviscere o peixe, retire as guelras e lave por dentro e por fora.
+2. Prepare a salmoura: 1 medida de sal para 7 medidas de água.
+3. Mergulhe o peixe na salmoura cerca de 1 hora; pedaços grandes, 2 horas.
+4. Retire o peixe, escorra e seque a superfície com pano limpo.
+5. Monte o defumador fora de casa, em local aberto e longe de secura.
+6. Acenda fogo pequeno com madeira limpa, nunca madeira tratada.
+7. Ajuste para fogo baixo e fumaça constante, sem chamas no peixe.
+8. Coloque o peixe na grelha sem encostar um no outro e feche a tampa.
+9. Espete o termômetro no centro do pedaço mais grosso.
+10. Mantenha o centro a pelo menos 71°C (160°F) por 30 minutos.
+11. Se o fogo não chegar a isso, termine no fogo direto das brasas.
+12. Retire quando a carne estiver opaca e sair em lascas com o garfo.
+13. Esfrie depressa e coma no mesmo dia; se sobrar, mantenha a 4°C.
+
+ATENCAO
+-------
+O botulismo é o maior risco: C. botulinum vive no peixe e cria toxina
+letal, sem mudar cheiro nem sabor.
+A toxina se forma em peixe pouco salgado guardado sem frio; o tipo E
+cresce acima de 3°C, e geladeira caseira pode não alcançar isso.
+O FDA exige centro a 63°C (145°F) por 30 minutos; em defumador caseiro
+use 71°C (160°F) por 30 minutos.
+Fumaça não conserva: sem sal e sem calor o peixe estraga e intoxica.
+Nunca defuma em ambiente fechado: monóxido de carbono não tem cheiro
+e mata sem aviso.
+Nunca use madeira com verniz, tinta ou tratamento químico.
+Não embale quente nem a vácuo sem frio: sem oxigênio o botulismo cresce
+e o peixe não mostra sinal de estrago.
+Se quem comeu tiver visão dupla, voz arrastada ou dificuldade para
+engolir ou respirar, procure emergência: sintomas começam 18 a 36 horas
+depois e sem tratamento podem matar.
+
+SE NAO TIVER
+------------
+Sem termômetro, espere a carne opaca e em lascas; coma tudo no mesmo dia.
+Sem defumador, use grelha com tampa ou barril metálico limpo e tampado.
+Sem madeira para fumaça, cozinhe no fogo: é o calor que protege.
+Sem geladeira, coma no mesmo dia e descarte qualquer sobra.
+Sem sal, não conserve: coma na hora e jogue fora o que sobrar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O centro chegou a 71°C e ficou assim por 30 minutos.
+A carne ficou opaca, firme e sai em lascas com o garfo.
+O cheiro é de fumaça e sal, sem azedo ou amônia.
+
+FONTES
+------
+FDA, Fish and Fishery Products Hazards and Controls Guidance, capítulo 13:
+C. botulinum em pescado, centro a 63°C (145°F) por 30 minutos, 3,5% de
+sal na fase aquosa e refrigeração.
+FoodSafety.gov, tabela de temperaturas seguras: peixe a 63°C (145°F).
+Oregon State University Extension, "Smoking Fish at Home—Safely":
+salmoura 1:7, centro a 71°C (160°F) por 30 minutos em defumador caseiro.
+FAO/Torry Advisory Note 82 e Codex CAC-RCP-25: sal, secagem e frio
+abaixo de 3°C para controlar C. botulinum tipo E.
+OMS e Codex: sintomas do botulismo e início em 18 a 36 horas.

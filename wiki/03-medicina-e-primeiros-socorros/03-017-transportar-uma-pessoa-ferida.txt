@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 03-017
+TITULO: Como transportar uma pessoa ferida
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 20 minutos
+RISCO: critico
+EXIGE: duas ou mais pessoas, pano resistente ou tábua, luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: transporte, ferido, vítima, maca, padiola, coluna, arraste
+==============================================================================
+
+OBJETIVO
+--------
+Mover uma pessoa ferida sem agravar os ferimentos até chegar ajuda.
+
+QUANDO USAR
+-----------
+A pessoa não consegue caminhar e corre perigo onde está.
+Há fogo, veículos, desmoronamento ou risco de afogamento no local.
+A pessoa está inconsciente e precisa de atendimento fora do local.
+Não há como receber ajuda médica onde a pessoa se encontra.
+
+NAO USE QUANDO
+--------------
+Não mova a pessoa sem motivo: cada movimento pode piorar a lesão.
+Suspeita de fratura na coluna, pescoço ou quadril: só mova se houver
+perigo imediato de morte, e com duas ou mais pessoas.
+Ferimento com objeto encravado: não puxe o objeto ao levantar.
+
+MATERIAIS
+---------
+- Luvas descartáveis (ou sacola plástica limpa nas mãos).
+- Pano resistente, lençol ou cobertor para improvizar maca.
+- Duas tábuas, cabos de vassoura ou galhos retos (maca rígida).
+- Faixa ou cinto para prender a pessoa à maca.
+- Pano limpo para cobrir ferimentos já controlados.
+- Cobertor para manter o calor do corpo.
+
+PROCEDIMENTO
+------------
+1. Garanta que o local é seguro para você antes de se aproximar.
+2. Peça a outra pessoa que chame ajuda médica imediata.
+3. Avalie se a pessoa respira e se há sangramento grave.
+4. Controle o sangramento antes de mover, sem soltar a pressão.
+5. Imobilize membro com suspeita de fratura na posição em que está.
+6. Diga à pessoa, se estiver acordada, o que você vai fazer.
+7. Peça mais pessoas: nunca carregue um ferido grave sozinho.
+8. Proteja a cabeça e o pescoço da pessoa durante todo o movimento.
+9. Mantenha cabeça, tronco e quadril alinhados, sem torcer o corpo.
+10. Combine o comando de levantar com quem vai ajudar.
+11. Levante a pessoa ao mesmo tempo, sem trancos nem giros.
+12. Deite a pessoa sobre a maca, com a coluna reta.
+13. Prenda a pessoa à maca com faixa ou cinto, sem apertar o peito.
+14. Segure a maca pelas laterais e caminhe com passos curtos.
+15. Escolha o caminho mais curto e plano, sem correr.
+16. Mantenha a cabeça levemente elevada se não houver suspeita de
+   lesão na coluna.
+17. Verifique respiração e sangramento a cada parada.
+
+Para arrastar, se não houver maca e houver perigo imediato:
+18. Agache atrás da cabeça da pessoa e segure seus antebraços.
+19. Arraste puxando pelos ombros, mantendo a cabeça alinhada.
+20. Nunca arraste pelo pescoço, pelos pés ou pelos braços esticados.
+
+ATENCAO
+-------
+Mover sem necessidade pode causar paralisia permanente ou a morte.
+Suspeite de lesão na coluna após queda de altura, acidente ou impacto
+forte na cabeça: formigamento, dor no pescoço ou perda de movimento.
+Nunca dobre, torça ou sente a pessoa com suspeita de fratura na coluna.
+Não tente recolocar osso exposto no lugar: cubra sem pressionar.
+Não dê comida, bebida ou remédio a quem vai ser operado ou está
+inconsciente.
+Pessoa em choque tem pele fria e pálida, suor e confusão: deite e cubra.
+Pare e procure ajuda se a respiração piorar ou o sangramento voltar.
+Este texto é um resumo operacional e não substitui treinamento prático.
+
+SE NAO TIVER
+------------
+Sem maca: use lençol, cobertor ou lona presos em duas tábuas.
+Sem tábua: use dois cabos de vassoura ou galhos retos e resistentes.
+Sem ajudantes e sem perigo: não carregue; fique e espere o socorro.
+Com perigo imediato e uma só pessoa: arraste pelos ombros, com cuidado.
+Sem luvas: use sacola plástica limpa nas mãos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A pessoa permanece com respiração constante durante o transporte.
+O sangramento continua controlado e o ferimento segue coberto.
+Cabeça, tronco e quadril ficam alinhados até o destino.
+A pessoa chega ao local seguro sem novos ferimentos ou torções.
+
+FONTES
+------
+Orientações da Federação Internacional das Sociedades da Cruz Vermelha
+e do Crescente Vermelho sobre imobilização da coluna e transporte.
+Manual de primeiros socorros da Cruz Vermelha Brasileira (Caderno 2).
+Material de primeiros socorros da Escola de Saúde Pública do Espírito
+Santo e do Corpo de Bombeiros Militar do Espírito Santo.
+Prática consolidada de resgate e transporte de vítimas.

@@ -1,0 +1,79 @@
+==============================================================================
+CODIGO: 80-014
+TITULO: Como compreender combustíveis utilizados em motores antigos
+CATEGORIA: 80 - Produção de combustíveis e lubrificantes
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: motor antigo, gasolina, octanagem, chumbo, álcool
+==============================================================================
+
+OBJETIVO
+--------
+Entender quais combustíveis um motor antigo realmente suporta.
+
+QUANDO USAR
+-----------
+Ao restaurar trator, gerador ou carro com carburador.
+Ao decidir entre gasolina comum, aditivada ou álcool hidratado.
+Ao notar detonação, superaquecimento ou perda de potência.
+Ao preparar mistura para motor de dois tempos.
+
+NAO USE QUANDO
+--------------
+Não substitua gasolina por álcool sem adaptar carburador e vedação.
+Não adicione chumbo tetraetila caseiro ao tanque.
+Não use diesel em motor de ignição por centelha.
+Não siga receita de aditivo sem conhecer o material da vedação.
+
+MATERIAIS
+---------
+- Nenhum material. Este tutorial explica critérios de escolha.
+- Manual do fabricante do motor, se existir (celular).
+- Caderno para anotar a relação de compressão e o combustível.
+
+PROCEDIMENTO
+------------
+1. Identifique o tipo de ignição: centelha ou compressão.
+2. Motor de centelha usa gasolina ou álcool, não diesel.
+3. Verifique a taxa de compressão no manual ou na cilindrada.
+4. Alta compressão exige maior octanagem para evitar detonação.
+5. Entenda octanagem como resistência à autoignição, não força.
+6. Motores antigos foram feitos para gasolina com chumbo.
+7. O chumbo protegia as sedes de válvula contra desgaste.
+8. Gasolina sem chumbo pode exigir aditivo de substituição.
+9. Use apenas produto comercial indicado para motor clássico.
+10. Álcool tem menor poder calorífico: gasta-se mais por hora.
+11. Álcool corrói mangueiras, borracha e tanque não preparados.
+12. Álcool hidratado atrai água e pode separar fase no tanque.
+13. Motores de dois tempos exigem óleo próprio na mistura.
+14. Anote a escolha e observe o motor em carga após a troca.
+
+ATENCAO
+-------
+Detonação prolongada quebra pistão e danifica o bloco.
+Aditivo de chumbo é tóxico e não deve ser manuseado sem proteção.
+Combustível errado pode danificar bomba, carburador e vedação.
+Motores com catalisador não admitem chumbo nem certos aditivos.
+A relação de compressão é aproximada quando medida sem instrumento.
+Em dúvida, prefira a gasolina recomendada pelo fabricante.
+
+SE NAO TIVER
+------------
+Sem manual, pesquise o modelo do motor e anote a fonte.
+Sem medidor de compressão, não altere a octanagem por palpite.
+Sem aditivo próprio, mantenha a gasolina original e reduza a carga.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O motor não bate metálico sob carga nem aquece além do normal.
+A partida é regular e não há cheiro de combustível cru no escapamento.
+Você registrou o tipo de combustível usado e a reação do motor.
+Não houve troca de combustível sem verificar mangueiras e vedações.
+
+FONTES
+------
+Conhecimento consolidado de mecânica de motores de combustão interna,
+em manuais de oficina e literatura sobre combustíveis automotivos.
+Leitura complementar: 80-011 e 80-019.

@@ -1,0 +1,83 @@
+==============================================================================
+CODIGO: 07-009
+TITULO: Como construir um abrigo antirradiação
+CATEGORIA: 07 - Guerra, radiação e catástrofes nucleares
+TEMPO: 4 horas
+RISCO: critico
+EXIGE: canto enterrado, portas ou mesa, sacos, terra, água guardada
+REVISAO: 2026-11
+PALAVRAS-CHAVE: abrigo, fallout, porão, blindagem, terra, radiação
+==============================================================================
+
+OBJETIVO
+--------
+Monte um canto blindado que reduza a dose da poeira radioativa.
+
+QUANDO USAR
+-----------
+Quando houver alerta de ataque nuclear na sua região.
+Quando vir poeira estranha caindo após clarão muito forte.
+Quando precisar ficar abrigado por aproximadamente 24 horas.
+Quando não houver abrigo público por perto para alcançar.
+
+NAO USE QUANDO
+--------------
+Não use contra sopro, fogo e desabamento perto da explosão.
+Se o prédio ameaça desabar ou pega fogo, saia para local firme.
+
+MATERIAIS
+---------
+- Mesa forte ou portas maciças (porta oca dobrada em camada dupla)
+- Sacos, fronhas ou caixas para encher de terra (saco de entulho)
+- Terra, areia ou cascalho (livros e tijolos reforçam a barreira)
+- Pá ou enxada, luvas e baldes para carregar a terra
+- Água guardada para aproximadamente 3 dias e comida pronta
+- Rádio a pilha, lanterna, máscara ou pano para o rosto
+- Plástico e fita para vedar frestas durante a poeira
+
+PROCEDIMENTO
+------------
+1. Escolha o canto mais enterrado, longe de janela e telhado.
+2. Limpe o canto e afaste botijão, combustível e produto químico.
+3. Arme mesa forte ou cavaletes com portas nesse canto.
+4. Reforce o tampo com tábuas se ele vergar com o peso.
+5. Posicione sacos e caixas vazios nas laterais do abrigo.
+6. Encha sacos e gavetas com terra só depois de posicionados.
+7. Empilhe a blindagem nas laterais até a altura do tampo.
+8. Cubra o tampo com aproximadamente 20 cm de terra socada.
+9. Feche as frestas com livros, tijolos e terra sem deixar vão.
+10. Guarde dentro água, comida pronta e remédio de uso.
+11. Leve para dentro balde sanitário, rádio e lanterna.
+12. Desligue ventilação e vede portas e janelas na poeira.
+13. Entre antes da poeira chegar e deite junto ao chão.
+14. Fique dentro por aproximadamente 24 horas sem sair.
+15. Abra fresta para ventilar após a poeira assentar.
+
+ATENCAO
+-------
+Terra e concreto reduzem o raio gama mas não zeram a dose.
+Máscara segura poeira no pulmão mas não bloqueia o raio gama.
+Fogo em abrigo fechado mata por monóxido, que não tem cheiro.
+Teto com terra pesa muito e pode desabar sem escoramento firme.
+Dose de corpo inteiro acima de aproximadamente 4 Gy pode matar.
+Este abrigo não protege contra sopro, fogo e desabamento perto.
+Com vômito, queimadura grande ou tontura, procure socorro.
+
+SE NAO TIVER
+------------
+Sem porão, use o miolo do térreo longe de janela e telhado.
+Sem saco, encha gavetas, malas e caixas com terra e livros.
+Sem pá, cave com enxada, panela velha ou tábua reforçada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você deita no canto sem ver fresta de luz nas paredes.
+O tampo sustenta a terra sem vergar, ranger ou ceder.
+Você passa as primeiras horas dentro sem precisar sair.
+
+FONTES
+------
+Plano de abrigo contra fallout da FEMA, com tabela de materiais.
+Manual de abrigos improvisados de Oak Ridge para defesa civil.
+Orientações sobre explosão nuclear do CDC americano.
+Noções de blindagem de prédios da agência ambiental americana.

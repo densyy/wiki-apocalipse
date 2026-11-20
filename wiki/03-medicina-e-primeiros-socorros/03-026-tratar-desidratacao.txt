@@ -1,0 +1,90 @@
+==============================================================================
+CODIGO: 03-026
+TITULO: Como tratar desidratação
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 30 minutos
+RISCO: critico
+EXIGE: água potável, açúcar, sal, colheres, copo limpo, ajuda médica
+REVISAO: 2026-11
+PALAVRAS-CHAVE: desidratação, reidratação, diarreia, água, sal, urgência
+==============================================================================
+
+OBJETIVO
+--------
+Repor água e sais perdidos e evitar que a desidratação chegue ao choque.
+
+QUANDO USAR
+-----------
+Boca seca, sede intensa, urina escura ou pouca urina.
+Diarreia ou vômitos com sinais de desidratação leve a moderada.
+Criança irritada, com olhos fundos e que bebe com vontade.
+Suor excessivo por calor, febre ou esforço sem reposição de líquidos.
+Pessoa que não consegue beber direito: leia ATENCAO antes de agir.
+
+NAO USE QUANDO
+--------------
+Não trate só em casa um caso grave: desidratação grave é emergência.
+Não dê líquido a quem está inconsciente, sonolento ou não engole: afoga.
+Não dê água pura em grande quantidade: pode diluir o sal do sangue.
+Não dê refrigerante, suco industrial, álcool ou bebida com cafeína.
+
+MATERIAIS
+---------
+- Água limpa e potável (a mesma que se usa para beber).
+- Açúcar (6 colheres de chá rasas por litro de água).
+- Sal (meia colher de chá rasa por litro de água).
+- Colheres de chá e um copo ou garrafa limpos.
+- Recipiente limpo com tampa para guardar a solução.
+- Alguém para chamar o serviço de emergência se a pessoa piorar.
+
+PROCEDIMENTO
+------------
+1. Observe os sinais de gravidade descritos em ATENCAO antes de começar.
+2. Se houver sinal grave, peça ajuda de emergência (SAMU 192 no Brasil).
+3. Lave as mãos com água e sabão antes de preparar a solução.
+4. Se a água não for potável, ferva por aproximadamente 5 minutos.
+5. Deixe a água esfriar e despeje 1 litro no recipiente limpo.
+6. Dissolva 6 colheres de chá rasas de açúcar na água.
+7. Junte meia colher de chá rasa de sal e mexa até dissolver.
+8. Prove: deve ficar doce com um leve salgado, nunca amargo.
+9. Dê goles pequenos e frequentes à pessoa acordada que consegue engolir.
+10. Se vomitar, espere aproximadamente 5 minutos e continue em goles.
+11. Ofereça leite materno ou alimento leve se a pessoa aceitar.
+12. Descarte a solução que sobrar depois de 24 horas.
+
+ATENCAO
+-------
+Desidratação grave pode matar em poucas horas, sobretudo crianças e idosos.
+Sinal grave: não acorda, olhos muito fundos, pele que demora a voltar.
+Sinal grave: não consegue beber, urina quase nenhuma, mãos e pés frios.
+Nunca despeje líquido na boca de quem não está bem acordado: afoga.
+Vômito repetido, sangue nas fezes ou dor forte: procure atendimento.
+Água pura em excesso sem sal pode baixar o sódio e causar convulsão.
+Sal em excesso piora a desidratação: meça as colheres, nunca "a olho".
+Se a pessoa piorar depois de começar, pare e busque ajuda médica.
+
+SE NAO TIVER
+------------
+Sem sachê de SRO: prepare a solução caseira de água, açúcar e sal.
+Sem colher medidora: use colher de chá comum, sempre rasa, nunca cheia.
+Sem açúcar: use a água do arroz cozido com uma pitada de sal.
+Sem água potável: não improvise com água parada; primeiro trate a água.
+Não use bebida esportiva, refrigerante ou suco: não têm sais na medida.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A urina fica mais clara e a pessoa urina com mais frequência.
+A boca fica menos seca e a sede diminui.
+A pessoa fica mais tranquila e acorda com mais facilidade.
+Os olhos deixam de parecer fundos e a pele volta mais rápido ao apertar.
+Não há vômitos repetidos depois de iniciada a reidratação.
+
+FONTES
+------
+Ficha "Diarrhoeal disease" da OMS, de 7 de março de 2024: sinais de
+desidratação, uso da solução de reidratação oral e fluidos venosos nos
+casos graves.
+Proporção caseira da SRO (6 colheres rasas de açúcar e meia colher de
+sal por litro de água limpa): prática consolidada de saúde pública
+recomendada por OMS e UNICEF.
+Não substitui atendimento médico nem treinamento prático.

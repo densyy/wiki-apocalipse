@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 60-004
+TITULO: Como organizar áreas residenciais
+CATEGORIA: 60 - Arquitetura, urbanismo e assentamentos
+TEMPO: 180 minutos
+RISCO: medio
+EXIGE: papel, lápis, fita métrica, croqui do terreno e lista de famílias
+REVISAO: 2026-11
+PALAVRAS-CHAVE: casa, lote, ruas, vizinhança, assentamento, croqui, quintal
+==============================================================================
+
+OBJETIVO
+---------
+Distribuir as moradias em lotes seguros, com espaço para crescer e serviços.
+
+QUANDO USAR
+-----------
+Ao definir onde cada família vai morar em um terreno ocupado recentemente.
+Quando o número de famílias cresce e os lotes ficam apertados.
+Antes de marcar no solo casas, latrinas e áreas de uso comum.
+
+NAO USE QUANDO
+---------------
+Quando há risco ativo de enchente, deslizamento ou mina no terreno.
+Quando não há água potável acessível: resolva o abastecimento antes.
+Este croqui não substitui projeto técnico nem regulariza uma ocupação.
+
+MATERIAIS
+---------
+- Papel, lápis e borracha (ou caderno e caneta).
+- Fita métrica ou corda com nós a cada metro.
+- Lista de famílias, croqui do terreno e estacas com barbante (ou pedras).
+
+PROCEDIMENTO
+------------
+1. Some as pessoas da lista, incluindo crianças, idosos e gestantes.
+2. Reserve aproximadamente 45 m² por pessoa para todo o assentamento.
+3. Separe 30 m² por pessoa para casas, ruas e serviços, e 15 m² para horta.
+4. Marque no croqui enchente, barranco, rocha, solo encharcado e escoamento.
+5. Trace a rua principal e desenhe os lotes com frente para ela.
+6. Divida em grupos de aproximadamente 16 famílias com espaço central.
+7. Agrupe até 1.250 pessoas por bloco, com aceiro de 30 m a cada 300 m.
+8. Deixe o fundo de cada lote para horta e quintal.
+9. Preveja lote com o dobro da área da casa, cozinha e latrina.
+10. Deixe aproximadamente 2 m entre casas, ou o dobro da altura da casa.
+11. Coloque latrinas a no máximo 50 m da casa e pontos d'água a 500 m.
+12. Marque os lotes no solo com estacas e barbante antes de construir.
+
+ATENCAO
+-------
+Casas muito próximas espalham fogo, doença e conflito entre famílias.
+Nunca coloque latrina a montante do ponto d'água ou no caminho da chuva.
+Terreno com risco de enchente exige avaliação técnica antes de ocupar.
+
+SE NAO TIVER
+------------
+Sem fita métrica, meça em passos e anote o tamanho do seu passo.
+Sem croqui ou lista, desenhe o terreno e entreviste cada casa.
+Se o terreno for menor, reduza famílias em vez de apertar os lotes.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Todo lote tem frente para rua, quintal e identificação da família.
+Casas, aceiros, água e latrinas respeitam as distâncias do croqui.
+
+FONTES
+------
+ACNUR, princípios e padrões de planejamento de assentamentos: área por
+pessoa, módulos, aceiro e distâncias. Sphere Handbook 2018: abrigo, água
+e saneamento. Ministério das Cidades: habitação de interesse social.

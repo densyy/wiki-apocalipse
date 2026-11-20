@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 09-021
+TITULO: Como construir uma bússola improvisada
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 20 minutos
+RISCO: medio
+EXIGE: agulha de aço, ímã, folha ou cortiça, água parada
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bússola, norte, agulha, ímã, navegação, direção, flutuar
+==============================================================================
+
+OBJETIVO
+--------
+Monte uma bússola com agulha magnetizada que flutua e aponta o norte.
+
+QUANDO USAR
+-----------
+Quando a bússola de verdade se perdeu, quebrou ou acabou a carga.
+Quando é preciso manter uma direção ao caminhar sem GPS nem celular.
+
+NAO USE QUANDO
+--------------
+Quando existe bússola de verdade calibrada: ela é mais precisa, use-a.
+Quando não há água parada nem fio para suspender a agulha.
+
+MATERIAIS
+---------
+- Agulha de costura de aço (ou clipe metálico que o ímã atraia).
+- Ímã de geladeira, de alto-falante ou de brinquedo.
+- Folha pequena, cortiça, espuma ou madeira leve (ou um fio de linha).
+- Recipiente com água parada (ou poça sem correnteza).
+- Graveto e papel para conferir o norte.
+
+PROCEDIMENTO
+------------
+1. Aproxime a agulha do ímã; use-a só se o ímã a atrair (metal ferroso).
+2. Passe um polo do ímã sobre a agulha, da orelha à ponta, sem voltar.
+3. Repita aproximadamente 50 vezes, sempre no mesmo sentido.
+4. Levante o ímã a cada passada; nunca esfregue de volta.
+5. Espete a agulha na folha ou cortiça, deitada e horizontal.
+6. Deixe o conjunto flutuar na água parada, longe de metal e de vento.
+7. Espere a agulha parar: ela se alinha na linha norte-sul.
+8. Para saber qual ponta é o norte, marque a sombra de um graveto no chão.
+9. Marque a nova ponta: a linha entre as duas marcas é leste-oeste.
+10. De frente ao leste, o norte fica à esquerda: identifique essa ponta.
+
+ATENCAO
+-------
+A agulha aponta ao norte magnético, não ao norte geográfico (verdadeiro).
+A diferença é a declinação magnética: muda com o lugar e com o tempo.
+Ímãs, metal, celular e cabos desviam a agulha: mantenha distância.
+Nunca navegue só por esta bússola; cabelo ou seda não magnetizam a agulha.
+
+SE NAO TIVER
+------------
+Sem ímã, teste uma agulha comum: se parar sempre na mesma direção, serve.
+Sem folha, use espuma ou cortiça; sem nada, deite a agulha na água.
+Sem água, suspenda a agulha por um fio no meio, longe de paredes e metal.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A agulha flutua livre e, se desviada com um graveto, volta à mesma direção.
+As marcas da sombra dão o eixo leste-oeste e o norte à esquerda do leste.
+
+FONTES
+------
+Manual de sobrevivência do Exército dos EUA (FM 3-05.70 / FM 21-76):
+bússolas improvisadas; Ontario Science Centre, esfregão em um só sentido;
+NOAA/NCEI, declinação magnética e norte geográfico.

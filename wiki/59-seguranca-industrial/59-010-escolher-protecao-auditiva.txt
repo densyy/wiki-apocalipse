@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 59-010
+TITULO: Como escolher proteção auditiva
+CATEGORIA: 59 - Segurança industrial e riscos ocupacionais
+TEMPO: 20 minutos
+RISCO: medio
+EXIGE: medida do ruído, local de trabalho, protetores com CA válido
+REVISAO: 2026-11
+PALAVRAS-CHAVE: proteção auditiva, ruído, protetor de ouvido, abafador, CA
+==============================================================================
+
+OBJETIVO
+--------
+Escolher o protetor auditivo que protege sem atrapalhar o trabalho.
+
+QUANDO USAR
+-----------
+Ao iniciar tarefa com ruído forte ou contínuo.
+Ao trocar de máquina, processo ou local de trabalho.
+Quando o protetor atual é removido ou causa desconforto.
+Antes de trabalho com impacto ou após mudança no nível de ruído.
+
+NAO USE QUANDO
+--------------
+Não serve para dispensar o controle do ruído na fonte.
+Se não houver dado de ruído, pare e peça medição antes de escolher.
+
+MATERIAIS
+---------
+- Nível de ruído em dBA, medido ou informado pelo responsável.
+- Lista de protetores com CA válido e tabela de atenuação.
+- Acesso ao local e a um colega para testar ajuste e vedação.
+
+PROCEDIMENTO
+------------
+1. Meça ou obtenha o nível de ruído do local em dBA.
+2. Confirme que não dá para eliminar o ruído na fonte.
+3. Defina a meta: exposição entre 75 e 85 dBA.
+4. Escolha entre plug, abafador ou capa de canal.
+5. Confira CA válido e tabela de atenuação no rótulo.
+6. Trate o número do rótulo como estimativa, não garantia.
+7. Para 100 dBA ou mais, ou impacto, use plug e abafador juntos.
+8. Evite excesso: atenuação demais atrapalha avisos e fala.
+9. Com o protetor, conte em voz alta e cubra as orelhas com as mãos.
+10. Descubra as mãos: a voz deve soar quase igual; ajuste se engrossar.
+11. Teste ajuste, capacete, óculos e máscara; registre e avise.
+
+ATENCAO
+-------
+Protetor mal ajustado protege menos do que o número da caixa.
+Atenuação em excesso pode levar o trabalhador a tirar o protetor.
+Sem CA válido ou sem tabela de atenuação, não use o equipamento.
+Fone com cancelamento ativo não protege se não tiver NRR no rótulo.
+
+SE NAO TIVER
+------------
+Sem medidor, peça o dado ao responsável; não chute o nível.
+Sem protetor com CA, suspenda a tarefa ruidosa até consegui-lo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A exposição estimada ficou entre 75 e 85 dBA.
+No teste da voz, o som ficou quase igual ao cobrir e descobrir.
+
+FONTES
+------
+NIOSH/CDC: escolha, ajuste, dupla proteção e os cinco fatores
+(conforto, compatibilidade, conveniência, comunicação e custo).
+NR-6 do Ministério do Trabalho e Emprego, item 6.4.1; NR-15, anexos
+I e II. Resumo operacional; não substitui treinamento nem o PPRA.

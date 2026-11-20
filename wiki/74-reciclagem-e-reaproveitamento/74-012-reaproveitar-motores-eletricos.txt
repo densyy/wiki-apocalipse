@@ -1,0 +1,84 @@
+==============================================================================
+CODIGO: 74-012
+TITULO: Como reaproveitar motores elétricos
+CATEGORIA: 74 - Economia circular e reaproveitamento
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: multímetro, chave de fenda, luvas isoladas, local seco e ventilado
+REVISAO: 2026-11
+PALAVRAS-CHAVE: motor, reaproveitar, isolamento, eletricidade, gerador
+==============================================================================
+
+OBJETIVO
+--------
+Recuperar um motor elétrico usado e colocá-lo em uso seguro.
+
+QUANDO USAR
+-----------
+Quando um equipamento velho é descartado e o motor ainda gira livre.
+Quando há motor parado há muito tempo e se quer reaproveitá-lo.
+Quando se precisa de motor para bomba, ventilador ou bancada.
+Quando o motor foi molhado e precisa secar antes de qualquer teste.
+
+NAO USE QUANDO
+--------------
+Quando o enrolamento tiver cheiro de queimado ou fio exposto.
+Quando o isolamento falhar na medição com multímetro.
+Quando o ambiente tiver gás, poeira inflamável ou umidade.
+Quando não houver multímetro: pare e procure um eletricista.
+
+MATERIAIS
+---------
+- Multímetro com escala de continuidade e resistência.
+- Chave de fenda e chave de boca.
+- Luvas isoladas e calçado fechado.
+- Pano seco, escova e lixa fina.
+- Óleo ou graxa para rolamentos, conforme o tipo do motor.
+- Fio de cobre isolado e conectores para religar.
+- Local seco, ventilado e com a energia desligada.
+
+PROCEDIMENTO
+------------
+1. Desligue a energia e tire o motor da tomada antes de tudo.
+2. Fotografe a fiação original antes de desconectar qualquer fio.
+3. Retire a tampa e limpe a poeira com pano seco e escova.
+4. Gire o eixo com a mão e note atrito, folga ou ruído.
+5. Observe o enrolamento: procure fio exposto ou rachadura.
+6. Meça a resistência entre os fios de entrada com o multímetro.
+7. Meça entre cada fio e a carcaça: não pode haver continuidade.
+8. Se houver umidade, seque em local ventilado por aproximadamente
+   24 horas antes de ligar.
+9. Lubrifique os rolamentos com o produto correto para o tipo.
+10. Reconecte os fios exatamente como mostra a fotografia.
+11. Isole cada emenda com fita isolante ou conector adequado.
+12. Ligue em vazio, sem carga, por aproximadamente 1 minuto.
+13. Desligue se aparecer faísca, cheiro de queimado ou calor rápido.
+
+ATENCAO
+-------
+Eletricidade mata: nunca toque em fio energizado nem deixe cobre exposto.
+A carcaça nunca pode ter continuidade com a rede: isso é choque.
+Motor molhado pode dar curto ao ligar; seque e meça de novo primeiro.
+Enrolamento com cheiro de queimado não se recupera com limpeza.
+Faísca de motor pode inflamar gás ou poeira: não ligue nesse ambiente.
+Se a medição deixar dúvida, pare e chame um eletricista qualificado.
+Este texto é resumo operacional e não substitui treinamento nem norma.
+
+SE NAO TIVER
+------------
+Sem multímetro, não dá para confirmar o isolamento: não ligue na rede.
+Sem fita isolante, use conector de emenda; nunca deixe cobre livre.
+Sem óleo próprio, não improvise com óleo de cozinha: ele oxida e isola mal.
+Na dúvida, mantenha o motor parado e busque ajuda especializada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O eixo gira livre, sem ruído de atrito nem folga.
+A medição entre fio e carcaça não mostra continuidade.
+Ligado em vazio, o motor parte sem faísca e sem cheiro de queimado.
+
+FONTES
+------
+Prática consolidada de manutenção e reaproveitamento de motores elétricos.
+Nenhuma fonte institucional específica foi consultada nesta edição.
+Para trabalho energizado, siga as normas locais e procure eletricista.

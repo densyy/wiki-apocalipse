@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 08-039
+TITULO: Como produzir arames
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: placa de estiramento, pinça, haste dúctil, cera, óculos de proteção
+REVISAO: 2026-11
+PALAVRAS-CHAVE: arame, fio de metal, trefilação, recozimento, cera, pinça
+==============================================================================
+
+OBJETIVO
+--------
+Transformar uma haste metálica em arame mais fino e mais longo.
+
+QUANDO USAR
+-----------
+Quando faltar arame para amarrar, prender ou fazer grampos.
+Quando sobrar haste de cobre, latão ou ferro mole no acampamento.
+
+NAO USE QUANDO
+--------------
+Haste rachada ou de metal duro; sem placa com furos lisos, não comece.
+
+MATERIAIS
+---------
+- Haste de cobre, latão ou ferro mole, reta e sem rachaduras.
+- Placa de estiramento de aço com furos cônicos lisos (ou chapa dura).
+- Pinça de puxar (ou alicate forte de mandíbulas lisas).
+- Cera de abelha, sebo, graxa ou sabão (lubrificante).
+- Escova de metal, óculos e luvas; brasas e água ou cinzas.
+
+PROCEDIMENTO
+------------
+1. Recoza a haste: aqueça até vermelho-cereja fraco.
+2. Resfrie sob cinzas se for ferro; em água se for cobre ou latão.
+3. Escove a haste para tirar casca, ferrugem e sujeira.
+4. Afile aproximadamente 3 cm de uma ponta com lima ou martelo.
+5. Prenda a placa no banco; vire a entrada cônica para a haste.
+6. Escolha o furo um pouco menor que a haste; nunca pule mais de um.
+7. Passe a ponta de trás para frente pelo furo escolhido.
+8. Deixe a ponta sobressair aproximadamente 3 cm do outro lado.
+9. Segure a ponta com a pinça, sem cortar o metal.
+10. Unte a haste e a entrada do furo com cera ou sebo.
+11. Puxe reto e firme, sem trancos, até a haste passar por inteiro.
+12. Recoza de novo se o arame ficar duro, saltado e difícil de puxar.
+13. Use furos menores, untando cada vez; corte a ponta marcada no fim.
+
+ATENCAO
+-------
+A ponta corta e o arame quebrado chicoteia: use óculos e luvas.
+Nunca puxe na direção do rosto; deixe espaço livre atrás de você.
+Puxar com tranco ou de lado quebra o arame e desgasta a placa.
+Recozimento queima e incendeia; em local fechado gera monóxido.
+
+SE NAO TIVER
+------------
+Sem placa, improvise chapa de aço duro com furos lisos e graduados.
+Nunca puxe seco, use ácido ou chapa mole: o arame quebra.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O arame sai mais longo, mais fino, liso e brilhante.
+A seção fica redonda e cede ao dobrar, sem estalar.
+
+FONTES
+------
+Prática consolidada de trefilação manual em ourivesaria e serralheria.
+Warrington Museum and Art Gallery, "Wire Drawing" (2021);
+Society of American Silversmiths, "Wire Drawing".

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 03-072
+TITULO: Como medir pressão arterial
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 15 minutos
+RISCO: medio
+EXIGE: aparelho medidor com manguito, cadeira com encosto, relógio
+REVISAO: 2026-11
+PALAVRAS-CHAVE: pressão arterial, pressão alta, hipertensão, manguito
+==============================================================================
+
+OBJETIVO
+--------
+Aferir a pressão arterial de forma correta e ler o resultado.
+
+QUANDO USAR
+-----------
+Ao medir a pressão em casa com aparelho automático.
+Ao acompanhar pessoa com hipertensão diagnosticada.
+
+NAO USE QUANDO
+--------------
+Não use um valor único: repita em dois dias; não meça após
+exercício, café ou cigarro.
+Com dor no peito ou falta de ar, busque atendimento antes de medir.
+
+MATERIAIS
+---------
+- Aparelho com manguito (automático de braço ou manual com estetoscópio).
+- Cadeira com encosto e apoio para o braço (mesa ou almofada no colo).
+- Relógio para cronometrar; caderno para anotar valores e horário.
+
+PROCEDIMENTO
+------------
+1. Evite cafeína, cigarro e esforço por 30 minutos antes.
+2. Esvazie a bexiga; sente-se com costas apoiadas e pés no chão.
+3. Descruze as pernas e apoie o braço na altura do coração.
+4. Retire manga apertada e exponha o braço.
+5. Use manguito que cubra aproximadamente 80% da volta do braço.
+6. Coloque-o aproximadamente 2 cm acima da dobra do cotovelo.
+7. Fique em silêncio por 5 minutos antes de medir.
+8. Pressione iniciar; não converse nem se mova durante a medição.
+9. Anote os dois números e o horário; após 1 minuto, repita no mesmo braço.
+10. Repita em outro horário e em um segundo dia; compare a média.
+
+ATENCAO
+-------
+A pressão alta quase nunca tem sintomas: só a medição revela.
+Manguito pequeno: valor falso alto. Grande: valor falso baixo.
+Conversar, braço baixo ou pernas cruzadas mudam o resultado.
+O primeiro número é a batida do coração; o segundo, o repouso.
+Não comece nem pare remédio de pressão sem orientação médica.
+Muito alto (180/120 ou mais) com dor no peito, falta de ar, dor de
+cabeça forte, visão embaçada, confusão ou sangramento no nariz: urgência.
+Muito baixo com tontura ou desmaio: deite, eleve as pernas, procure ajuda.
+Texto educativo: não substitui avaliação médica.
+
+SE NAO TIVER
+------------
+Sem aparelho automático, use manual se souber; sem mesa, use almofada.
+Sem encosto, encoste na parede; sem manguito certo, informe o tamanho.
+
+COMO SABER QUE DEU CERTO
+------------------------
+5 min em silêncio; manguito certo; números e horário anotados; dois dias.
+
+FONTES
+------
+Ficha da OMS sobre hipertensão (2025); orientações do NHS sobre aferição e
+American Heart Association sobre monitoramento em casa. Resumo educativo.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 29-012
+TITULO: Como armazenar a Wikipédia offline
+CATEGORIA: 29 - Tecnologia, computação e informática offline
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: leitor Kiwix, espaço livre, conexão só no download
+REVISAO: 2026-11
+PALAVRAS-CHAVE: wikipédia, offline, kiwix, zim, baixar, armazenar
+==============================================================================
+
+OBJETIVO
+--------
+Guardar uma cópia da Wikipédia no dispositivo e consultá-la sem internet.
+
+QUANDO USAR
+-----------
+Quando a conexão for instável, limitada ou cara.
+Antes de viajar para lugar sem sinal.
+
+NAO USE QUANDO
+--------------
+Quando a informação precisar estar atualizada: o arquivo congela na data.
+Quando não houver espaço livre para o arquivo escolhido.
+
+MATERIAIS
+---------
+- Leitor Kiwix (no computador ou celular).
+- Arquivo ZIM, o pacote comprimido que o Kiwix abre (biblioteca oficial).
+- Dispositivo com espaço livre (HD externo, SSD, cartão ou celular).
+- Internet só para o download inicial.
+
+PROCEDIMENTO
+------------
+1. Instale o leitor Kiwix no computador ou celular.
+2. Escolha o idioma e a versão do ZIM no catálogo do leitor.
+3. Escolha: mini (introduções), nopic (sem imagens) ou maxi (completo).
+4. Em português, o maxi tem cerca de 19 GB; o nopic, 6,6 GB; o mini, 1,6 GB.
+5. Formate em exFAT ou NTFS se o arquivo passar de 4 GB.
+6. Baixe o ZIM pelo catálogo do Kiwix ou pela biblioteca oficial.
+7. Copie o ZIM para o dispositivo de armazenamento.
+8. Abra o Kiwix, escolha "Abrir arquivo" e selecione o ZIM.
+9. Desligue a internet e abra um artigo de teste.
+
+ATENCAO
+-------
+Arquivos grandes exigem espaço e conexão estável; se cair, recomece.
+ZIM não tem atualização incremental: baixe outro e apague o antigo.
+"mini" poupa cerca de 95% e "nopic", cerca de 75% frente ao "maxi".
+FAT32 não aceita arquivo acima de 4 GB; use exFAT ou NTFS.
+Baixe só da biblioteca oficial ou do catálogo do leitor.
+O Kiwix lê ZIM, não o dump XML da Wikimedia.
+O conteúdo congela na data do arquivo: confira o mês no nome.
+
+SE NAO TIVER
+------------
+Sem espaço para o maxi, use nopic ou mini: o texto continua legível.
+Sem HD ou cartão, guarde o ZIM no próprio celular, liberando espaço antes.
+Sem Kiwix disponível, não há leitura direta do ZIM: use outro dispositivo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Com a internet desligada, o Kiwix lista o ZIM e a busca devolve artigos.
+Abra um artigo: o texto aparece e os links internos funcionam.
+
+FONTES
+------
+- FAQ oficial da Associação Kiwix: versões e formatos ZIM.
+- Biblioteca oficial da Kiwix: nomes e tamanhos dos arquivos.
+- Site de downloads da Wikimedia: arquivos Kiwix em formato OpenZIM.

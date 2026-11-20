@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 28-006
+TITULO: Como controlar perdas e desperdícios
+CATEGORIA: 28 - Logística e gestão de recursos
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: caderno, lápis, etiquetas, sacos ou recipientes tampados
+REVISAO: 2026-11
+PALAVRAS-CHAVE: perdas, sobras, estoque, validade, inventário, descarte
+==============================================================================
+
+OBJETIVO
+--------
+Identificar e medir o que se perde no estoque de emergência.
+
+QUANDO USAR
+-----------
+Quando o estoque foi montado e você quer medir as perdas.
+Quando aparecem alimentos vencidos ou mofados.
+Quando sobra comida das refeições com frequência.
+
+NAO USE QUANDO
+--------------
+Não reaproveite alimento com odor ou aspecto anormal.
+Descarte lata estufada ou corroida sem abrir.
+
+MATERIAIS
+---------
+- Caderno e lápis para anotar entradas, saídas e perdas.
+- Etiquetas para a data de validade de cada item.
+- Sacos ou recipientes tampados para separar o descarte.
+
+PROCEDIMENTO
+------------
+1. Anote no caderno cada entrada, com quantidade e validade.
+2. Anote cada retirada, com quantidade, destino e data.
+3. Agrupe os itens por tipo: comida, água e remédios.
+4. Escreva a validade na etiqueta e cole onde seja visto.
+5. Coloque na frente os itens que vencem primeiro.
+6. Abra o estoque uma vez por semana para conferir validade e umidade.
+7. Retire item com odor, cor ou textura anormais.
+8. Retire também lata estufada, amassada ou corroida.
+9. Feche o descarte em saco, longe de animais.
+10. Anote o motivo da perda no caderno.
+
+ATENCAO
+-------
+O inventário não impede estrago em local quente ou úmido.
+Não prove alimento com odor ou aspecto estranho para decidir se serve.
+Lata estufada ou corroida pode ter toxina; não abra.
+Não devolva ao estoque sobra que ficou fora de recipiente fechado.
+Se vários itens mofaram no mesmo lote, isole o lote e peça ajuda.
+
+SE NAO TIVER
+------------
+Sem etiqueta, escreva a data na embalagem com lápis.
+Sem prateleira, apoie os sacos em tábuas ou pedras.
+Sem caderno, use folhas soltas guardadas com o estoque.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O caderno mostra entradas, saídas e perdas com data e quantidade.
+Os itens mais próximos da validade ficam na frente.
+Não há item mofado, com odor ou embalagem danificada.
+
+FONTES
+------
+Escala de Desperdício de Alimentos da EPA: prevenir vem antes de doar.
+Programa Ready (EUA): na dúvida, descarte; use recipiente fechado.
+Prática consolidada de inventário e rotação, sem documento único.

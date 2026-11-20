@@ -1,0 +1,71 @@
+==============================================================================
+CODIGO: 75-015
+TITULO: Como escolher materiais de construção resistentes à umidade
+CATEGORIA: 75 - Tecnologias apropriadas para regiões tropicais
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: conhecimento do clima local, acesso a fornecedor de materiais
+REVISAO: 2026-11
+PALAVRAS-CHAVE: umidade, construção, madeira, cimento, mofo, drenagem
+==============================================================================
+
+OBJETIVO
+--------
+Escolher materiais que resistem à umidade e duram mais em clima tropical.
+
+QUANDO USAR
+-----------
+Ao construir ou reformar em região quente e chuvosa.
+Ao trocar madeira ou revestimento que apodreceu com umidade.
+
+NAO USE QUANDO
+--------------
+Quando a causa da umidade é vazamento ou falha de drenagem.
+Nenhum material resiste a água parada sem corrigir a origem.
+
+MATERIAIS
+---------
+- Cimento, cal e areia para argamassa e reboco.
+- Tijolo cerâmico ou bloco de concreto na base, no lugar de madeira.
+- Madeira tratada ou de espécie resistente, quando inevitável.
+- Telha de cerâmica, fibrocimento ou metal com tratamento.
+- Impermeabilizante ou tinta acrílica para superfícies.
+- Pedra, cascalho e drenos para a base e o entorno.
+
+PROCEDIMENTO
+------------
+1. Observe onde a água bate, escorre e fica parada no terreno.
+2. Prefira alvenaria de tijolo ou bloco na base, nunca madeira crua.
+3. Escolha madeira tratada ou de espécie resistente para partes altas.
+4. Mantenha a madeira afastada do solo e ventilada por igual em volta.
+5. Use cimento e cal no reboco, com traço correto e cura lenta.
+6. Aplique impermeabilizante na fundação e nas paredes que recebem chuva.
+7. Instale telha com sobreposição, calha e saída de água livre.
+8. Abra drenos e declive no piso para a água escorrer para fora.
+9. Deixe frestas de ventilação sob o piso e no telhado.
+
+ATENCAO
+-------
+Madeira sem tratamento apodrece, empena e atrai cupins em clima úmido.
+Cimento mal dosado ou sem cura racha e deixa a umidade entrar.
+Impermeabilizante só funciona se a drenagem estiver correta.
+Nenhum revestimento resolve água parada: corrija o escoamento primeiro.
+
+SE NAO TIVER
+------------
+Sem madeira tratada, use tijolo, bloco ou pedra no lugar.
+Se precisar usar madeira comum, mantenha-a seca e levantada do solo.
+Sem impermeabilizante, reboco de cal e cimento bem curado ajuda.
+Sem calha, escave vala de drenagem e afaste a água da fundação.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A base está seca depois da chuva, sem manchas de umidade na parede.
+A madeira soa firme, sem partes moles, e não apresenta mofo.
+
+FONTES
+------
+Prática consolidada de construção civil em regiões tropicais úmidas,
+difundida por órgãos de extensão rural (Embrapa) e manuais de
+conservação de edificações. Resumo operacional, não substitui
+assistência técnica nem norma de engenharia.

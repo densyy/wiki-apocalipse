@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 37-001
+TITULO: Fundamentos de cartografia
+CATEGORIA: 37 - Cartografia, topografia e levantamento
+TEMPO: 45 minutos
+RISCO: baixo
+EXIGE: mapa topográfico, bússola, caderno, lápis, régua
+REVISAO: 2026-11
+PALAVRAS-CHAVE: mapa, escala, legenda, curvas de nível, norte, orientar
+==============================================================================
+
+OBJETIVO
+--------
+Ler um mapa topográfico e localizar pontos no terreno sem se perder.
+
+QUANDO USAR
+-----------
+Ao planejar uma caminhada em área sem placas ou sinalização.
+Ao conferir a posição depois de mudar de rumo.
+
+NAO USE QUANDO
+--------------
+Quando o mapa não tiver escala, legenda ou data de revisão.
+Quando a área mudou: estrada nova, desmatamento ou deslizamento.
+
+MATERIAIS
+---------
+- Mapa topográfico da região (ou croqui próprio).
+- Bússola.
+- Caderno, lápis e régua.
+
+PROCEDIMENTO
+------------
+1. Leia o título e a data de revisão impressos no mapa.
+2. Anote a escala: em 1:24.000, um centímetro vale 240 metros.
+3. Leia a legenda e identifique água, estradas e pontes.
+4. Localize a seta do norte impressa no mapa.
+5. Aponte a bússola para o norte magnético; afaste metais.
+6. Corrija a declinação: ângulo entre norte magnético e verdadeiro.
+7. Gire o mapa até a seta alinhar ao norte corrigido.
+8. Marque no mapa o ponto onde você está.
+9. Meça a distância até o destino e aplique a escala.
+10. Curvas de nível ligam pontos de mesma altitude.
+11. Linhas juntas indicam encosta íngreme.
+12. O "V" das curvas aponta para montante, contra a água.
+
+ATENCAO
+-------
+A agulha aponta para o norte magnético, não para o norte verdadeiro.
+A declinação muda com o lugar e com o ano; use o valor do mapa.
+Metais e celulares desviam a agulha; afaste a bússola deles.
+Mapa antigo pode omitir estradas e pontes; confirme no terreno.
+Nunca misture escalas. Se o mapa contradizer o que vê, pare e refaça.
+
+SE NAO TIVER
+------------
+Sem régua, use a escala gráfica do mapa com um palito medido.
+Sem bússola, oriente-se por rios e estradas; peça ajuda se duvidar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A seta do mapa e a agulha ficam alinhadas após a declinação.
+O ponto marcado coincide com rio, ponte ou cruzamento visível.
+
+FONTES
+------
+Serviço Geológico dos Estados Unidos (USGS): página Topographic Maps.
+NOAA, Centro Nacional de Informações Ambientais: declinação magnética.
+Legenda e curvas de nível são prática consolidada, sem documento único.

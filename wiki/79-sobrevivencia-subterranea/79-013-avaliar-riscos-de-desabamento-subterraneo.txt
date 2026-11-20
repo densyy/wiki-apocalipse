@@ -1,0 +1,88 @@
+============================================================================
+CODIGO: 79-013
+TITULO: Como avaliar riscos de desabamento subterrâneo
+CATEGORIA: 79 - Sobrevivência subterrânea
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: lanterna, capacete, fita, bastão de madeira, companhia
+REVISAO: 2026-11
+PALAVRAS-CHAVE: desabamento, teto, rachadura, escoramento, segurança, sinal
+============================================================================
+
+OBJETIVO
+--------
+Reconhecer sinais de que o teto ou as paredes de uma cavidade podem
+ceder e decidir se o local ainda pode ser usado com segurança.
+
+QUANDO USAR
+-----------
+Antes de entrar em caverna, mina abandonada ou poço fundo.
+Ao notar rachaduras novas no teto ou nas paredes.
+Depois de chuva forte, tremor ou escavação perto do local.
+Quando pedras pequenas caem do teto sem motivo aparente.
+Antes de instalar prateleiras ou aparelhos em abrigo enterrado.
+
+NAO USE QUANDO
+--------------
+Esta avaliação é visual e não substitui laudo de engenheiro.
+Não confie nela para liberar o acesso de outras pessoas.
+Não entre em galeria com cheiro de gás ou com fumaça acumulada.
+Não faça a inspeção sozinho em cavidade desconhecida.
+
+MATERIAIS
+---------
+- Lanterna com bateria reserva.
+- Capacete e, se possível, luvas e botas.
+- Fita de marceneiro ou giz para assinalar rachaduras.
+- Bastão de madeira leve para bater no teto e ouvir o som.
+- Caderno e lápis para desenhar o local e anotar os sinais.
+- Companhia avisada e corda para sinalizar a entrada.
+
+PROCEDIMENTO
+------------
+1. Observe a entrada por fora antes de descer.
+2. Verifique se o solo ao redor está rachado ou afundado.
+3. Olhe a boca da cavidade: beiral solto é sinal de risco.
+4. Peça a outra pessoa que fique na entrada, avisando.
+5. Entre com o capacete e a lanterna já acesos.
+6. Marque com fita as pontas das rachaduras que encontrar.
+7. Bata de leve no teto com o bastão e ouça o retorno.
+8. Som oco ou sem retorno indica bloco solto: afaste-se.
+9. Observe se pedras caem quando você bate no piso.
+10. Olhe se a rachadura atravessa a parede de lado a lado.
+11. Verifique se há umidade escorrendo pela rachadura.
+12. Anote largura e comprimento aproximados de cada fenda.
+13. Não pise em pilha de terra solta nem sob bloco pendurado.
+14. Se os sinais aumentarem, saia e isole a entrada.
+15. Decida pela saída antes de ganhar confiança no local.
+
+ATENCAO
+-------
+Rachadura que cresce, pedra caindo e som oco são sinais de
+queda iminente: não insista na inspeção.
+Chuva e tremor aumentam o risco mesmo em cavidade estável.
+Um capacete não protege contra a queda de um bloco grande.
+Nunca trabalhe embaixo de teto que você mesmo está modificando.
+Se alguém ficar preso, não entre sem escoramento e sem ajuda:
+chame socorro e sinalize o local.
+Este guia não substitui avaliação técnica de engenheiro ou geólogo.
+
+SE NAO TIVER
+------------
+Sem capacete, use o bastão para testar o teto e reduza o tempo dentro.
+Sem fita, use giz, carvão ou pedra para marcar as fendas.
+Sem bastão, bata com o nó dos dedos, sem força, e ouça.
+Sem companhia, não entre: observe a entrada de fora e volte depois.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você identificou e marcou os pontos de risco encontrados.
+A decisão de entrar ou sair foi tomada com base em sinais observados.
+A área duvidosa foi isolada e ninguém foi autorizado a entrar.
+O caderno registra o estado do local na data da inspeção.
+
+FONTES
+------
+Noções básicas de segurança em cavidades e minas abandonadas,
+resumidas de manuais de espeleologia e de normas de segurança do
+trabalho em escavações. Método visual simples, sem laudo técnico.

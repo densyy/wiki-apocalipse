@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 01-047
+TITULO: Como construir uma torre de água
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 2 dias de trabalho
+RISCO: critico
+EXIGE: solo firme, duas pessoas, tanque de até 5.000 L, altura até 3 m
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, torre, tanque elevado, gravidade, pressão, torneira
+==============================================================================
+
+OBJETIVO
+---------
+Armazenar água acima das torneiras para distribuí-la por gravidade.
+
+QUANDO USAR
+-----------
+Quando o terreno é plano e não há altura natural que dê pressão.
+Quando a fonte enche devagar e o consumo acontece em picos.
+Quando se quer reserva para a noite ou para dias sem bombeamento.
+Quando a bomba depende de sol, vento ou combustível escasso.
+
+NAO USE QUANDO
+--------------
+Quando o volume passar de aproximadamente 5.000 L.
+Quando a altura passar de aproximadamente 3 m.
+Quando o solo for mole, a encosta íngreme ou o vento muito forte.
+Quando não houver duas pessoas para erguer o tanque com segurança.
+Quando faltar material de qualidade: use tanque no chão com bomba.
+
+MATERIAIS
+---------
+- Tanque de até aproximadamente 5.000 L (aço, plástico ou alvenaria).
+- Torre de alvenaria com base pelo menos 1,2 vezes mais larga que o topo.
+- Cimento, areia, pedra e água limpa para a base de concreto.
+- Tubo de entrada, tubo de saída e tubo de transbordo.
+- Telas metálicas para a entrada, a saída e o respiro.
+- Registro instalado no chão, na base da torre.
+- Revestimento próprio para água potável nas juntas e no interior.
+- Cerca ou tampa que impeça subir na torre.
+- Nível, trena, balde, corda e duas pessoas para ajudar.
+
+PROCEDIMENTO
+------------
+1. Meça a altura da torneira mais alta em relação ao solo.
+2. Defina quanto a água ficará acima da torneira: isso dá a pressão.
+3. Escolha ponto firme, plano, afastado de casas, fossas e curral.
+4. Confira que a base será pelo menos 1,2 vezes mais larga que o topo.
+5. Cave até encontrar solo firme e retire toda a terra solta ou orgânica.
+6. Nivele o fundo, despeje o concreto e deixe curar antes de carregar.
+7. Erga a torre bem alinhada e trave os pés com contraventos.
+8. Apoie o tanque de forma uniforme, sem deixar um pé sem carga.
+9. Instale o tubo de entrada no topo, com tela e tampa.
+10. Instale o tubo de saída na base, com tela e registro no chão.
+11. Instale o transbordo no topo e leve o excesso para longe da fundação.
+12. Instale um respiro com tela para a entrada e a saída de ar.
+13. Vede as juntas com material próprio para água potável.
+14. Feche a tampa do tanque com cadeado.
+15. Encha devagar até o transbordo e observe vazamentos e afundamento.
+16. Esvazie, lave o interior, desinfete e só então abasteça para uso.
+
+ATENCAO
+-------
+A água pesa aproximadamente 1 kg por litro: o tanque cheio é muito pesado.
+Torre mal fundada, sem travamento ou com concreto fresco pode cair e matar.
+Nunca apoie o tanque em terra solta, madeira podre ou base não nivelada.
+Nunca fure, corte ou solde o tanque sem orientação do fabricante.
+Vento forte, tremor e inundação podem derrubar a torre: afaste-se deles.
+Não suba sem escada fixa, cinto de segurança e outra pessoa embaixo.
+Use o registro no chão para não precisar subir durante o uso diário.
+Se aparecer rachadura, inclinação ou afundamento, esvazie e pare de usar.
+A torre não trata a água, apenas a armazena e distribui por gravidade.
+Para tornar a água mais segura antes de beber, veja 01-001.
+
+SE NAO TIVER
+------------
+Sem tanque pronto, use recipiente de plástico ou aço limpo e tampado.
+Sem cimento ou pedra, não improvise base com terra solta: pare a obra.
+Sem tubo, use mangueira própria para água potável, apoiada e fora do sol.
+Sem tela na entrada e na saída, não use: folhas e insetos entram na água.
+Sem equipe para erguer com segurança, procure ajuda em vez de forçar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A torre está vertical, a base não afundou e não há rachadura visível.
+Ao abrir o registro no chão, a água sai em jato contínuo.
+O transbordo escoa sem umedecer a base da torre.
+Não há vazamento nas juntas nem poça de água ao redor da fundação.
+A água sai límpida, sem folhas, terra ou insetos.
+
+FONTES
+------
+Nota tecnica RWS 5.0.3, Designing an Elevated Storage Tank, Penn State.
+Modulo D.6, Water Storage Tanks, do Compendio WASH de emergencia.
+Manual M42 e normas D100 e D107 da American Water Works Association.
+Diretriz TS 0721 da SA Water para projeto de tanques de armazenamento.

@@ -1,0 +1,79 @@
+==============================================================================
+CODIGO: 24-019
+TITULO: Como identificar estruturas comprometidas
+CATEGORIA: 24 - Segurança pessoal e proteção comunitária
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: lanterna, caderno, lápis, fita ou giz para marcar
+REVISAO: 2026-11
+PALAVRAS-CHAVE: estrutura, rachadura, desabamento, colapso, trinca, risco
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer sinais de que um prédio pode desabar antes de entrar nele.
+
+QUANDO USAR
+-----------
+Depois de terremoto, chuva forte ou enchente.
+Depois de incêndio ou explosão nas proximidades.
+Ao ocupar casa abandonada ou prédio desconhecido.
+Quando portas emperram ou surgem rachaduras novas.
+Antes de dormir ou abrigar pessoas em um imóvel.
+
+NAO USE QUANDO
+--------------
+Não faça a inspeção de perto se houver cheiro de gás, fogo, fios
+energizados ou desabamento em curso. Nesse caso, apenas isole e saia.
+
+MATERIAIS
+---------
+- Lanterna (ou luz de celular).
+- Caderno e lápis para anotar e desenhar.
+- Fita ou giz para marcar o afastamento.
+
+PROCEDIMENTO
+------------
+1. Observe de fora antes de entrar no imóvel.
+2. Olhe a fachada, os muros, a cobertura e o terreno ao redor.
+3. Procure rachaduras novas em paredes, pilares, vigas e lajes.
+4. Note as rachaduras diagonais e as que atravessam a parede.
+5. Verifique se portas e janelas emperraram ou ficaram tortas.
+6. Observe vidros quebrados sem impacto e gesso que caiu sozinho.
+7. Note piso afundado, paredes inclinadas ou vigas tortas.
+8. Olhe o solo junto à base: afundamento, terra movida ou água parada.
+9. Escute estalos ou ruídos vindos da estrutura.
+10. Se houver gás, fumaça ou faísca, afaste-se sem entrar.
+11. Isole o perímetro com fita ou giz e mantenha pessoas afastadas.
+12. Anote os sinais vistos e avise a Defesa Civil pelo 199.
+
+ATENCAO
+-------
+Rachadura diagonal ou que atravessa a parede é sinal de alerta.
+Estalos, vidros quebrados e gesso caindo podem vir antes da queda.
+Uma edificação pode cair sem aviso: nunca entre se os sinais forem fortes.
+Gás, água ou fios energizados aumentam o risco de entrar no local.
+Se o prédio estiver inclinado ou o solo afundou, saia e isole a área.
+Esta inspeção visual não substitui laudo de engenheiro responsável.
+Em dúvida, fique de fora. Nunca durma em imóvel suspeito.
+
+SE NAO TIVER
+------------
+Sem fita, use pedras ou galhos para marcar o afastamento.
+Sem lanterna, observe apenas durante o dia, com boa luz.
+Sem como chamar a Defesa Civil, avise vizinhos e a autoridade local.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A pessoa consegue listar os sinais vistos e decidiu entrar ou ficar de fora.
+O trecho suspeito ficou isolado e ninguém entrou sem avaliação.
+A Defesa Civil foi avisada quando existia risco.
+
+FONTES
+------
+Guia de Identificação e Diagnóstico em Vistorias de Defesa Civil.
+Diretrizes de Levantamento de Dados do RS sobre edificações após
+eventos climáticos. Orientações da Defesa Civil sobre sinais de
+risco de desabamento. FEMA P-2055, guia de avaliação de prédios
+após desastres. Prática consolidada de vistoria predial: resumo
+operacional, não substitui laudo técnico.

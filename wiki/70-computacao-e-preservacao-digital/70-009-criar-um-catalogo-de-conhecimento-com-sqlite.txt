@@ -1,0 +1,97 @@
+==============================================================================
+CODIGO: 70-009
+TITULO: Como criar um catálogo de conhecimento com SQLite
+CATEGORIA: 70 - Computação de baixo consumo e preservação digital
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: computador com sqlite3, teclado, meio para guardar cópias
+REVISAO: 2026-11
+PALAVRAS-CHAVE: catálogo, sqlite, banco de dados, busca, preservação, sql
+==============================================================================
+
+OBJETIVO
+--------
+Montar um catálogo em um único arquivo para guardar e encontrar
+registros de conhecimento sem servidor ou rede.
+
+QUANDO USAR
+-----------
+Quando é preciso inventariar livros, folhas, arquivos ou saberes.
+Quando o grupo cria material e precisa localizar um item depois.
+Quando a energia falha e um único arquivo é mais fácil de proteger.
+Quando se quer levar o acervo inteiro em um pen drive.
+
+NAO USE QUANDO
+--------------
+Quando várias pessoas precisam editar o catálogo ao mesmo tempo.
+Quando os dados exigem controle de acesso ou sigilo.
+Quando o volume é grande e pede um servidor com mais recursos.
+
+MATERIAIS
+---------
+- Computador com o programa sqlite3 já instalado e testado.
+- Terminal de texto e teclado.
+- Pasta no disco com espaço para o arquivo e para as cópias.
+- Pen drive ou outro meio para guardar uma cópia fora do computador.
+- Papel e lápis para anotar os códigos (substituto: bloco de notas).
+
+PROCEDIMENTO
+------------
+1. Abra o terminal na pasta onde o catálogo ficará.
+2. Digite sqlite3 catalogo.db e pressione Enter para criar o arquivo.
+3. No sqlite3, crie a tabela com quatro campos.
+   CREATE TABLE item (codigo TEXT, titulo TEXT, assunto TEXT, onde TEXT);
+4. Cadastre um item.
+   INSERT INTO item VALUES ('C001', 'Plantas', 'botanica', 'estante 1');
+5. Cadastre outro item.
+   INSERT INTO item VALUES ('C002', 'Mapas', 'navegacao', 'gaveta 2');
+6. Liste os itens em ordem de código.
+   SELECT codigo, titulo FROM item ORDER BY codigo;
+7. Busque os itens sobre plantas.
+   SELECT codigo, titulo FROM item WHERE assunto LIKE '%planta%';
+8. Corrija o lugar de um item sem apagar o registro.
+   UPDATE item SET onde = 'estante 2' WHERE codigo = 'C001';
+9. Copie o banco em uso para outro arquivo.
+   VACUUM INTO 'catalogo_copia.db';
+10. Saia com .quit e volte ao terminal.
+11. Exporte um texto que reconstrói o banco.
+    sqlite3 catalogo.db .dump > catalogo.sql
+12. Reabra o banco e teste a integridade.
+    sqlite3 catalogo.db
+    PRAGMA integrity_check;
+13. Saia do sqlite3 com .quit.
+14. Restaure em outro lugar com o texto exportado.
+    sqlite3 novo.db < catalogo.sql
+15. Guarde o .db, o .sql e a cópia em lugares diferentes.
+
+ATENCAO
+-------
+O arquivo do banco é único; apagá-lo apaga o catálogo inteiro.
+Nunca abra o arquivo .db em editor de texto: use o sqlite3.
+Faça uma cópia nova depois de cada sessão de cadastro.
+O VACUUM INTO falha se o destino já existir; troque o nome.
+DELETE sem WHERE apaga cada registro; confira o código antes.
+Com queda de energia durante a gravação, o arquivo pode corromper.
+Se integrity_check acusar erro, pare e restaure a última cópia.
+
+SE NAO TIVER
+------------
+Sem sqlite3, faça uma lista em texto com uma linha por item.
+Separe os campos por ponto e vírgula e mantenha a ordem.
+Sem meio externo, anote os códigos no papel e peça outra cópia.
+Não tente consertar o .db em editor de texto: pode corromper.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O SELECT mostra C001 e C002 com títulos e assuntos.
+A busca por planta devolve o registro C001.
+PRAGMA integrity_check responde ok.
+Existem o .db, o .sql e uma cópia fora do computador.
+
+FONTES
+------
+Documentação oficial do SQLite: CREATE TABLE, INSERT, SELECT, UPDATE,
+VACUUM INTO, comando .dump e checagem PRAGMA integrity_check.
+Dublin Core Metadata Element Set 1.1, ISO 15836, da Dublin Core
+Metadata Initiative, base para os campos de descrição. Resumo de
+prática consolidada; não substitui treinamento.

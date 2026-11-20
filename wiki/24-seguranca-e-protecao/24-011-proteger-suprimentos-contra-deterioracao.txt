@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 24-011
+TITULO: Como proteger suprimentos contra deterioração e furtos
+CATEGORIA: 24 - Segurança pessoal e proteção comunitária
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: recipientes tampados, etiquetas, cadeado, caderno, luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: comida, estoque, validade, praga, furto, tranca, lata
+==============================================================================
+
+OBJETIVO
+--------
+Manter o estoque comestível, identificado e difícil de subtrair.
+
+QUANDO USAR
+-----------
+Quando a casa ficar sem energia por vários dias.
+Quando houver ratos, insetos ou umidade no local de guarda.
+Quando várias pessoas dividem o abrigo e o estoque é comum.
+Quando o local fica vazio ou desconhecidos circulam por perto.
+
+NAO USE QUANDO
+--------------
+Quando o alimento já tiver odor, cor ou textura estranhos.
+Quando a lata estiver inchada, furada, vazando ou com ferrugem profunda.
+Quando houver suspeita de contaminação por combustível ou agrotóxico.
+Quando o alimento estiver junto de produto de limpeza ou veneno.
+
+MATERIAIS
+---------
+- Recipientes com tampa firme, de vidro ou plástico limpo (lata tampada).
+- Caixas secas ou tábuas para levantar o estoque do chão.
+- Cadeado e corrente ou barra de travamento (chave própria, sempre).
+- Etiquetas, caneta, caderno, luvas e pano seco.
+
+PROCEDIMENTO
+------------
+1. Escolha um local seco, fresco, escuro e longe do fogão.
+2. Levante o estoque do chão com caixas secas, tábuas ou tijolos.
+3. Limpe o local com pano seco antes de guardar o alimento.
+4. Coloque cada alimento em recipiente com tampa firme.
+5. Etiquete com o nome do alimento, a data e a validade do fabricante.
+6. Enfileire por validade: o mais antigo na frente.
+7. Consuma primeiro o que foi guardado primeiro.
+8. Observe a lata antes de abrir: cheiro, cor e textura.
+9. Descarte lata inchada, amassada, furada, vazando ou enferrujada.
+10. Descarte alimento que ficou mais de duas horas fora da geladeira.
+11. Reduza para uma hora se o ar passar de aproximadamente 32 graus.
+12. Mantenha a geladeira a 4 graus ou menos, se houver.
+13. Mantenha o freezer a 18 graus negativos, se houver.
+14. Feche a geladeira: sem energia, o frio dura aproximadamente quatro
+   horas.
+15. Afaste o alimento de produto de limpeza, combustível e veneno.
+16. Vede frestas e mantenha o lixo fora do local de estoque.
+17. Conte cada item e registre no caderno, guardado fora do estoque.
+18. Feche a tampa com cadeado ou trava depois de cada retirada.
+19. Anote retiradas e confira o caderno uma vez por semana.
+20. Não informe quantidade nem lugar do estoque a desconhecidos.
+21. Para reforçar a porta, veja 24-005 como leitura extra.
+
+ATENCAO
+-------
+Alimento estragado causa diarreia, vômito, febre e desidratação.
+Cheiro, cor e textura normais não provam ausência de bactéria.
+Lata inchada pode abrigar toxina do botulismo, veneno bacteriano mortal.
+Não abra, não prove e descarte a lata envolvida em pano.
+Febre alta, vômito persistente ou sangue nas fezes: pare e busque ajuda.
+Ferver não remove veneno, combustível, metal ou agrotóxico do alimento.
+Cadeado e tranca apenas atrasam furto; não impedem pessoa determinada.
+Nunca confronte quem estiver subtraindo: retire-se e avise os vizinhos.
+Em incêndio, estoque preso por cadeado pode bloquear a saída.
+
+SE NAO TIVER
+------------
+Sem pote tampado, use vidro com tampa ou saco bem fechado.
+Sem etiqueta, escreva no papel com lápis e amarre no pote.
+Sem caixa, empilhe o estoque sobre tijolos ou pedras secas.
+Sem cadeado, use trava de porta com chave que abra por dentro.
+Se o substituto deixar umidade, rato ou inseto entrar, não use.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Nenhum recipiente está úmido, amassado ou com cheiro estranho.
+Cada item tem etiqueta legível com data e ordem de consumo.
+O caderno confere com o estoque, sem sobra e sem falta.
+Não há fezes, roeduras, insetos ou migalhas soltas no local.
+As trancas abrem por dentro, com uma mão, sem chave.
+
+FONTES
+------
+Ready.gov (FEMA e DHS), guia Food: guarda de alimentos, latas danificadas
+e regra das duas horas; texto atualizado em março de 2026.
+FDA, Are You Storing Food Safely: temperaturas, validade e mofo, 2023.
+CDC, Food Safety Basics: contaminação cruzada e risco, março de 2026.
+Rotação de estoque e controle de acesso são prática consolidada de
+segurança residencial e manejo de suprimentos, sem documento único.
+Este resumo é operacional e não substitui treinamento nem orientação
+das autoridades locais.

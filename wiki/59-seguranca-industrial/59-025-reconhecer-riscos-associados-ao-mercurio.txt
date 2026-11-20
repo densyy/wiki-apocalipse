@@ -1,0 +1,84 @@
+==============================================================================
+CODIGO: 59-025
+TITULO: Como reconhecer riscos associados ao mercúrio
+CATEGORIA: 59 - Segurança industrial e riscos ocupacionais
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: lanterna, caderno, lápis, distância do material suspeito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: mercúrio, termômetro, vapor, tremor, peixe, lâmpada
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer onde o mercúrio pode estar, como ele entra no corpo e quais
+sinais exigem afastamento e ajuda.
+
+QUANDO USAR
+-----------
+Ao entrar em oficina, laboratório ou depósito com equipamento antigo.
+Quando encontrar líquido prateado brilhante ou gotas no chão.
+Depois de quebra de termômetro, barômetro, lâmpada ou interruptor.
+Antes de manusear sucata ou trabalhar com ouro artesanal.
+Quando alguém relata tremor, insônia ou dor de cabeça no trabalho.
+Ao encontrar creme clareador de pele ou remédio sem rótulo.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação para observar e anotar à distância.
+Não use este procedimento para declarar uma área segura: só medição
+de vapor e laudo técnico podem fazer isso.
+
+MATERIAIS
+---------
+- Lanterna (luz do celular serve).
+- Caderno e lápis para anotar o que foi visto.
+- Luvas de nitrilo, apenas para segurar recipientes, nunca as gotas.
+- Ficha de segurança do produto (FISPQ), se houver.
+
+PROCEDIMENTO
+------------
+1. Aproxime-se da área com a lanterna ligada e sem tocar em nada.
+2. Procure gotas prateadas brilhantes que se juntam ou se espalham.
+3. Olhe rachaduras, rodapés, grelhas e debaixo de bancadas.
+4. Identifique termômetros, barômetros, interruptores e lâmpadas antigas.
+5. Anote o nome, o local e o estado do material suspeito.
+6. Leia rótulos e FISPQ sem abrir recipientes nem sacudir objetos.
+7. Pergunte aos trabalhadores sobre quebras ou derrames recentes.
+8. Observe se o local é fechado, quente e com pouca ventilação.
+9. Afaste pessoas, sobretudo grávidas e crianças, da área suspeita.
+10. Anote sinais relatados: tremor, insônia, dor de cabeça, tosse.
+11. Não aspire, não varra, não jogue água e não aqueça o material.
+12. Sinalize o local e avise o responsável pela segurança.
+
+ATENCAO
+-------
+O mercúrio metálico não tem cheiro; não confie no olfato para achá-lo.
+O vapor é invisível e se acumula em lugares fechados e quentes.
+Nunca use aspirador, vassoura, ar comprimido ou água: isso espalha
+o mercúrio e aumenta o vapor. Não despeje na pia ou no ralo.
+Não toque as gotas: luvas de pano ou látex não protegem de forma
+confiável. Use nitrilo apenas para segurar o recipiente.
+A falta de sintomas não prova que a exposição foi inofensiva.
+Tremor, insônia, perda de memória e dor nos rins exigem atendimento.
+Grávidas e crianças são mais sensíveis; afaste e procure ajuda.
+Este procedimento não mede concentração no ar nem substitui exame.
+Se houver derramamento grande ou sintomas, pare e acione a emergência.
+
+SE NAO TIVER
+------------
+Sem lanterna, use a luz do celular; não aproxime chama ou calor.
+Sem FISPQ, leia o rótulo e peça a ficha ao fornecedor.
+Sem medidor de vapor, trate a área como suspeita e chame um técnico.
+Sem recipiente adequado, não improvise: sinalize e deixe no lugar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada objeto e gota suspeita está listado com local e estado.
+Ninguém tocou, varreu ou usou aspirador no material.
+As pessoas foram afastadas e o responsável foi avisado.
+
+FONTES
+------
+Ficha da OMS sobre mercúrio e saúde (2024); informações básicas da
+EPA sobre mercúrio; MedlinePlus da Biblioteca Nacional de Medicina.

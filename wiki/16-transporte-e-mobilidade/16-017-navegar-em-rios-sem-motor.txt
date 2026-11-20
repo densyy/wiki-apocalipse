@@ -1,0 +1,97 @@
+==============================================================================
+CODIGO: 16-017
+TITULO: Como navegar em rios sem motor
+CATEGORIA: 16 - Transporte e mobilidade
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: canoa ou jangada testada, remo ou vara, colete salva-vidas, corda
+REVISAO: 2026-11
+PALAVRAS-CHAVE: rio, barco, remo, jangada, correnteza, travessia, colete
+==============================================================================
+
+OBJETIVO
+--------
+Conduzir embarcação leve em trecho de rio calmo, sem motor.
+
+QUANDO USAR
+-----------
+Quando o rio é a única rota e não há motor nem combustível.
+Quando é preciso levar pessoa ou carga rio abaixo ou rio acima.
+Quando a água é funda demais para vadear com segurança.
+Quando não há ponte e a margem oposta está visível e acessível.
+
+NAO USE QUANDO
+--------------
+Quando há corredeira, cachoeira, espuma, redemoinho ou barulho de água.
+Quando o rio subiu, está em cheia ou vem carregado de lama e galhos.
+Quando falta colete salva-vidas para alguém a bordo.
+Quando a embarcação não foi testada, vaza ou afunda.
+Quando a água está muito fria ou a margem não pode ser vista.
+
+MATERIAIS
+---------
+- Canoa, caiaque ou jangada testada na água e sem vazamento.
+- Remo com lâmina inteira (ou vara comprida para empurrar no leito).
+- Colete salva-vidas ajustado para cada pessoa a bordo.
+- Corda presa na embarcação (aproximadamente 10 metros).
+- Pau comprido para testar a profundidade antes de embarcar.
+- Calçados fechados e faca presa ao cinto.
+
+PROCEDIMENTO
+------------
+1. Observe o rio de um ponto alto, sem entrar na água.
+2. Defina o sentido da correnteza, a força da água que empurra rio abaixo.
+3. Escolha a faixa calma junto à margem, sem espuma ou pedra à mostra.
+4. Compare a margem com marcas de cheia: lama, galhos e lixo preso.
+5. Se o nível estiver subindo, espere em terra e observe de longe.
+6. Teste a embarcação vazia: ela deve flutuar nivelada e sem entrar água.
+7. Coloque o colete em cada pessoa e aperte todas as fivelas.
+8. Amarre a corda na embarcação e deixe a outra ponta em terra.
+9. Teste a profundidade com o pau e entre pela margem mais rasa.
+10. Sente-se no centro, baixo, e distribua a carga para os dois lados.
+11. Reme com golpes curtos e constantes, mantendo o ritmo.
+12. Para mudar a direção, reme do lado oposto ao lado desejado.
+13. Se usar vara, apoie no leito em água rasa e empurre com o ombro.
+14. Siga rente à margem, onde a correnteza costuma ser menor.
+15. Para atravessar, aponte a proa rio acima, em ângulo de aproximadamente
+   45 graus em relação à correnteza.
+16. Reme sem parar até encostar na margem oposta.
+17. Se a correnteza vencer, volte à margem de partida e mude de ponto.
+18. Aproxime-se com a proa contra a água e amarre antes de descer.
+19. Descarregue a carga primeiro e depois as pessoas, uma por vez.
+
+ATENCAO
+-------
+A correnteza vence o remo e a vara sem aviso.
+Água corrente arrasta quem não sabe nadar e tira o fôlego de quem sabe.
+Nunca navegue sozinho: mantenha alguém na margem com a corda.
+Não amarre a corda ao corpo: ela pode enrolar e prender você na água.
+Corredeira, cachoeira e cheia matam; ao ver espuma, saia da água.
+Não sobrecarregue: mantenha borda livre, o espaço entre a água e a borda
+da embarcação, visível em todo o contorno.
+Se a embarcação encher, virar ou prender, abandone-a e siga para a margem.
+Este texto não ensina corredeiras, cachoeiras nem navegação noturna.
+
+SE NAO TIVER
+------------
+Sem colete, não navegue: procure ponte, outra rota ou ajuda.
+Sem remo, use vara apenas em água rasa; em água funda, não improvise.
+Sem corda, use cipó ou linha resistente presa à embarcação.
+Sem embarcação testada, não entre: construa uma jangada com calma ou peça
+ajuda para atravessar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A embarcação flutua nivelada, com borda livre visível em todo o contorno.
+Cada pessoa chega à margem oposta com o colete ainda preso e apertado.
+A embarcação avança na direção escolhida sem girar sem controle.
+A corda continua presa até a embarcação ser amarrada na margem.
+
+FONTES
+------
+USGS, Water Science School, texto "How Streamflow is Measured": nível do
+rio, vazão e uso dos dados para segurança recreativa.
+NOAA/NWS, página "Flood Safety Tips and Resources": risco de enchente e
+alertas.
+O restante é prática consolidada de condução de embarcações leves em águas
+interiores, sem documento único consultado; não substitui treinamento.

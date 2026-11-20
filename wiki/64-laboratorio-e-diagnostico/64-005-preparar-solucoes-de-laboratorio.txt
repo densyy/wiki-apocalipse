@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 64-005
+TITULO: Como preparar soluções de laboratório
+CATEGORIA: 64 - Laboratório, diagnóstico e análises
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: balança, balão volumétrico, béquer, EPI, água destilada
+REVISAO: 2026-11
+PALAVRAS-CHAVE: solução, diluição, molaridade, concentração, dissolver
+==============================================================================
+
+OBJETIVO
+---------
+Preparar uma solução de concentração conhecida de forma segura e repetível.
+
+QUANDO USAR
+-----------
+Ao preparar uma solução a partir de um sólido pesado.
+Ao diluir uma solução concentrada para obter concentração menor.
+Ao fazer solução estoque para usar em várias análises.
+Ao precisar de concentração exata em teste ou calibração.
+
+NAO USE QUANDO
+--------------
+Não prepare solução sem conhecer o reagente e sua ficha de segurança.
+Não manipule ácido ou base concentrada sem capela e sem EPI.
+Não improvise solução para uso medicinal, clínico ou em alimentos.
+
+MATERIAIS
+---------
+- Balança com resolução adequada à massa a pesar.
+- Balão volumétrico do volume desejado (proveta, só para valor aproximado).
+- Béquer pequeno e bastão de vidro (copo e colher de plástico).
+- Pipeta volumétrica ou graduada com pera (seringa sem agulha).
+- Funil limpo e pisseta com água destilada.
+- Frasco de vidro tampado, de preferência âmbar.
+- Água destilada ou deionizada (água potável, só para limpeza).
+- Óculos de proteção, luvas, jaleco e calçado fechado.
+- Rótulo do reagente, etiqueta e caderno de registro.
+
+PROCEDIMENTO
+------------
+1. Leia o rótulo e a ficha de segurança antes de abrir o frasco.
+2. Calcule a massa do sólido ou o volume da solução concentrada.
+3. Para diluir, use C1 x V1 = C2 x V2 com as mesmas unidades.
+4. Calce luvas, óculos e jaleco antes de tocar no reagente.
+5. Lave o balão, o béquer, o funil e a pipeta com água destilada.
+6. Pese o sólido no béquer, nunca direto sobre a balança.
+7. Adicione um pouco de água destilada ao béquer com o sólido.
+8. Mexa com o bastão até o sólido dissolver por completo.
+9. Para ácido ou base concentrada, despeje o reagente na água, devagar.
+10. Espere a solução ficar na temperatura ambiente antes de continuar.
+11. Transfira a solução do béquer para o balão usando o funil.
+12. Enxágue béquer, bastão e funil com água destilada três vezes.
+13. Despeje cada enxágue no balão para não perder soluto.
+14. Complete com água destilada até um pouco abaixo do traço do gargalo.
+15. Adicione as últimas gotas com o olho na altura do traço.
+16. Pare quando a base do menisco tocar o traço de aferição.
+17. Tampe o balão e inverta cerca de vinte vezes para homogeneizar.
+18. Se passar do traço, descarte e refaça desde o início.
+19. Passe para frasco limpo e rotule nome, concentração e data.
+
+ATENCAO
+-------
+Ácido e base concentrados queimam pele e olhos em segundos.
+Sempre adicione o reagente à água, nunca água ao reagente.
+A diluição libera calor e pode ferver e projetar líquido.
+Use capela para reagente que solta vapor tóxico.
+Nunca pipete com a boca; use sempre pera ou pipetador.
+Não use vidraria rachada ou suja: o volume sai errado e pode quebrar.
+Não complete o volume antes de a solução esfriar.
+Em contato com os olhos, lave com água corrente por pelo menos 15 minutos
+e procure atendimento médico.
+Descarte o resíduo conforme a ficha de segurança e a norma local.
+
+SE NAO TIVER
+------------
+Sem balão volumétrico, use proveta apenas para concentração aproximada.
+Sem balança, não prepare solução de concentração exata.
+Sem pipeta, use seringa sem agulha somente para volume aproximado.
+Sem capela, não dilua ácido ou base concentrada; use solução pronta.
+Sem água destilada, não faça solução para análise.
+Sem frasco âmbar, guarde em vidro tampado e ao abrigo da luz.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O sólido desapareceu e o líquido ficou uniforme, sem grumos.
+A base do menisco está sobre o traço, vista de frente, sem erro de parallax.
+Não ficou líquido derramado e o balão está limpo por dentro.
+A etiqueta traz nome, concentração, data e responsável.
+Duas preparações iguais dão o mesmo aspecto e o mesmo resultado no teste.
+
+FONTES
+------
+Guia de Laboratório QFL 4010 do Instituto de Química da USP.
+Manual de Segurança para Laboratórios de Química da UNILAB (2024).
+Solution Preparation Guide do Carolina Knowledge Center (2023).
+Prática consolidada de boas práticas de laboratório; este resumo não
+substitui a ficha de segurança do reagente nem a norma local.

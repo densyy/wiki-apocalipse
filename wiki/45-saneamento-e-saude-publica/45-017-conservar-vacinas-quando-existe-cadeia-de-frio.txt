@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 45-017
+TITULO: Como conservar vacinas quando existe cadeia de frio
+CATEGORIA: 45 - Engenharia de saneamento e saúde pública
+TEMPO: 15 minutos
+RISCO: alto
+EXIGE: geladeira ou caixa térmica, termômetro, gelo, caixa de papelão
+REVISAO: 2026-11
+PALAVRAS-CHAVE: vacina, cadeia de frio, geladeira, gelo, termômetro
+==============================================================================
+
+OBJETIVO
+--------
+Conservar a potência das vacinas até o momento da aplicação.
+
+QUANDO USAR
+-----------
+Ao receber vacinas do posto de saúde ou do programa de vacinação.
+Ao guardar vacinas em geladeira comum com termômetro.
+Ao transportar vacinas em caixa térmica com gelo.
+Quando a energia falhar e a geladeira parar de funcionar.
+
+NAO USE QUANDO
+--------------
+Quando não for possível manter a vacina entre 2 e 8 graus Celsius.
+Quando o frasco estiver rachado, vencido ou com o selo violado.
+Quando houver dúvida sobre o tempo fora da faixa: não aplique.
+
+MATERIAIS
+---------
+- Geladeira com termômetro ou caixa térmica com tampa.
+- Gelo em sacos vedados ou garrafas de água congelada.
+- Papel, pano ou jornal para separar o gelo dos frascos.
+- Caixa de papelão para acomodar os frascos em pé.
+- Caderno e caneta para anotar temperatura e hora.
+- Etiquetas ou fita adesiva para identificar frascos suspeitos.
+- Água potável e sabão para lavar as mãos antes de manusear.
+
+PROCEDIMENTO
+------------
+1. Lave as mãos com água e sabão antes de tocar nos frascos.
+2. Confira o nome da vacina, o lote e a data de validade no rótulo.
+3. Leia a bula para confirmar a faixa de temperatura daquele tipo.
+4. Ajuste a geladeira ou a caixa para manter entre 2 e 8 graus Celsius.
+5. Coloque o termômetro no mesmo compartimento dos frascos.
+6. Envolva os sacos de gelo em papel ou pano antes de usá-los.
+7. Acomode os frascos em pé, sem encostar uns nos outros nem no gelo.
+8. Feche a tampa da caixa ou a porta da geladeira rapidamente.
+9. Meça e anote a temperatura duas vezes ao dia, com a hora.
+10. Abra a caixa o menos possível e nunca exponha os frascos ao sol.
+11. Se a temperatura sair da faixa, separe os frascos com etiqueta.
+12. Não aplique frasco separado; pergunte a um profissional de saúde.
+13. Reconstitua vacina em pó só no momento do uso, com o diluente da bula.
+14. Guarde a vacina reconstituída entre 2 e 8 graus e use no prazo da bula.
+
+ATENCAO
+-------
+Vacina fora da faixa de 2 a 8 graus pode perder potência sem mudar de cor.
+Nunca congele vacina que a bula não permite congelar.
+Gelo encostado no frasco pode congelar a vacina e destruí-la.
+Vacina reconstituída deve ser usada no prazo da bula; descarte o que sobrar.
+Não aplique vacina suspeita para "testar" se ela ainda funciona.
+Falta de reação depois da dose não prova que a vacina estava boa.
+Se a temperatura saiu da faixa por tempo incerto, separe os frascos.
+Pergunte a um profissional de saúde antes de aplicar.
+Este texto é resumo operacional e não substitui a bula do fabricante.
+
+SE NAO TIVER
+------------
+Sem caixa térmica, use caixa de isopor forrada com jornal e sacos de gelo.
+Sem gelo, use garrafas de água congelada, nunca gelo seco.
+Sem termômetro, não confie no tato: procure um termômetro ou posto de saúde.
+Sem geladeira, mantenha a caixa no canto mais fresco e sombreado da casa.
+Se o calor persistir e você não mantiver a faixa, procure ajuda médica.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O termômetro marca entre 2 e 8 graus em todas as medições do dia.
+Os frascos estão íntegros, secos, em pé e identificados com nome e lote.
+Nenhum frasco mostra sinal de congelamento ou de exposição ao sol.
+
+FONTES
+------
+Prática consolidada de conservação de vacinas em cadeia de frio.
+Referências: OMS, CDC e Ministério da Saúde do Brasil, Programa Nacional
+de Imunizações. Este texto é resumo operacional, não substitui a bula do
+fabricante nem o treinamento de um profissional de saúde.

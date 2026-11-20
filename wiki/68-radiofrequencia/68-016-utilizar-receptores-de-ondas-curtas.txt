@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 68-016
+TITULO: Como utilizar receptores de ondas curtas
+CATEGORIA: 68 - Radiofrequência e telecomunicações
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: receptor de ondas curtas, antena externa, fonte de energia
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ondas curtas, radio, receptor, antena, sintonizar, HF, SWL
+==============================================================================
+
+OBJETIVO
+--------
+Sintonizar emissoras e sinais em ondas curtas com receptor e antena.
+
+QUANDO USAR
+-----------
+Quando o rádio FM ou AM local não alcança longas distâncias.
+Quando a internet falta e o rádio é a única ligação externa.
+
+NAO USE QUANDO
+--------------
+Quando não houver antena externa e o sinal chegar muito fraco.
+Quando a faixa estiver tomada por ruído elétrico forte.
+
+MATERIAIS
+---------
+- Receptor que cubra aproximadamente 3 a 30 MHz, chamada de faixa HF.
+- Antena externa: fio longo, dipolo ou a haste do próprio aparelho.
+- Fio de terra, fonte de energia, fone de ouvido e caderno de anotações.
+
+PROCEDIMENTO
+------------
+1. Confirme no manual que o receptor cobre de aproximadamente 3 a 30 MHz.
+2. Instale a antena antes de ligar o aparelho, longe de fios de energia.
+3. Estenda o fio da antena o mais alto e reto que o lugar permitir.
+4. Ligue o fio ao terminal de antena e o fio de terra a um metal enterrado.
+5. Conecte a energia e ligue o receptor com o volume baixo.
+6. Escolha a faixa: abaixo de 10 MHz à noite, acima de 14 MHz de dia.
+7. Gire o seletor até a banda desejada e anote o valor em MHz.
+8. Gire a sintonia devagar e pare onde o sinal aparecer.
+9. Ajuste volume e ganho até o som ficar claro.
+10. Se a voz soar sem tom, mude para o modo de banda lateral única (SSB).
+11. Anote a frequência, o horário e a emissora no caderno.
+
+ATENCAO
+-------
+Nunca encoste a antena ou o fio de terra em fios de energia elétrica.
+Isso pode matar quem estiver no receptor ou segurando a antena.
+Ao instalar em altura, use escada firme e peça ajuda: queda fere grave.
+Em tempestade, desconecte a antena; o raio pode chegar pelo fio.
+A propagação muda com a hora; ruído e interferência atrapalham a escuta.
+
+SE NAO TIVER
+------------
+Sem antena externa, use a haste do aparelho, bem estendida.
+Sem fio de terra, ligue o terminal de terra ao chassi metálico.
+Sem receptor de ondas curtas, não há substituto equivalente.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O receptor sintoniza uma frequência e o som sai com clareza.
+A frequência e o horário anotados permitem repetir a escuta depois.
+
+FONTES
+------
+Prática consolidada de escuta de ondas curtas (SWL), resumida de referências
+técnicas gerais: o Regulamento de Radiocomunicações da UIT, que define a
+faixa HF de 3 a 30 MHz, e manuais de rádio da ARRL sobre recepção e antenas.
+Este texto é um resumo operacional e não substitui treinamento nem manual.

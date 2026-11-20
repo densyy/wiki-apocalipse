@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 04-070
+TITULO: Como produzir carvão vegetal
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: local aberto, madeira seca, terra ou areia, água, isca, pá
+REVISAO: 2026-11
+PALAVRAS-CHAVE: carvão, vegetal, carbonização, madeira, forno, lenha, brasa
+==============================================================================
+
+OBJETIVO
+--------
+Transformar madeira seca em carvão vegetal por carbonização, com fogo
+controlado e pouca fumaça, usando só terra e materiais do terreno.
+
+QUANDO USAR
+-----------
+Quando houver muita lenha e pouco lugar para guardá-la.
+Quando precisar de combustível leve para fogão, forja ou churrasco.
+Quando o carvão for usado para cozinhar ou ferver água.
+Quando sobrar madeira de poda ou de árvore caída.
+
+NAO USE QUANDO
+--------------
+Em dia de vento forte ou perto de mato seco e inflamável.
+Dentro de casa, barraca, garagem, tenda ou qualquer lugar fechado.
+Se só houver madeira verde, úmida ou tratada para usar.
+Se não houver água ou terra por perto para apagar.
+
+MATERIAIS
+---------
+- Madeira seca, de preferência densa, em pedaços de 20 a 40 cm.
+- Isca seca e gravetos finos para acender.
+- Terra solta, areia ou cinza fria para cobrir.
+- Folhas secas ou capim para forrar antes da terra.
+- Água em abundância e pá ou pedaço de chapa para cobrir.
+- Luvas grossas ou pano seco dobrado para proteger as mãos.
+
+PROCEDIMENTO
+------------
+1. Escolha terreno plano, firme e bem drenado, longe de árvores.
+2. Mantenha pelo menos 3 metros de folga de tudo que pode queimar.
+3. Deixe água e terra solta ao lado do local antes de começar.
+4. Empilhe a madeira seca em monte baixo, em forma de pirâmide.
+5. No centro do monte deixe um canal vertical de gravetos secos.
+6. Forre o monte com folhas secas ou capim, sem deixar frestas.
+7. Cubra com terra ou areia, deixando o canal central aberto no topo.
+8. Deixe duas ou três entradas de ar pequenas na base do monte.
+9. Acenda a isca pelo canal central, sem usar líquido inflamável.
+10. Mantenha as entradas de ar abertas enquanto sair fumaça branca.
+11. Fumaça branca e densa é a água da madeira saindo: é o início.
+12. Quando a fumaça ficar fina e azulada, feche o canal e as entradas.
+13. Cubra as aberturas com terra para cortar o ar e parar a chama.
+14. Não abra o monte enquanto estiver quente: o carvão pode pegar fogo.
+15. Deixe esfriar por aproximadamente um dia ou mais, sem mexer.
+16. Abra com cuidado, retire o carvão e separe cinza e meia-madeira.
+17. Molhe com água ou cubra com terra qualquer brasa ainda vermelha.
+18. Guarde o carvão só depois de frio, seco e sem brasa escondida.
+
+ATENCAO
+-------
+A carbonização libera monóxido de carbono, gás que mata sem cor e sem
+cheiro. Faça isto sempre ao ar livre, nunca em lugar fechado.
+Nunca use gasolina, álcool, solvente ou propelente para acender.
+Use apenas isca seca e gravetos, como no acendimento de uma fogueira.
+Não queime madeira pintada, tratada, compensado, plástico ou lixo:
+a fumaça é tóxica e o carvão fica impróprio para cozinhar.
+Brasa e cinza ficam quentes por horas: não pise descalço e use luvas.
+O carvão pode reacender horas ou dias depois: só guarde depois de frio.
+Se sair chama alta ou fumaça preta, está entrando ar demais: feche
+as entradas com terra e reduza o fogo.
+Se o fogo escapar do monte, cubra com terra e água e afaste-se.
+Se não conseguir controlar, chame ajuda e acione a defesa civil.
+
+SE NAO TIVER
+------------
+Sem terra solta, use areia, cinza fria ou barro grosso para cobrir.
+Sem pá, use um pedaço de chapa ou um graveto longo para cobrir o monte.
+Sem folhas, use capim seco bem espalhado entre a madeira e a terra.
+Sem canal central, monte a isca na base e deixe uma entrada de ar.
+Sem madeira seca, espere: empilhe ao ar livre por várias semanas.
+Madeira verde rende pouco carvão, fumaça muito e pode apagar o fogo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Depois de frio, o carvão é preto, leve e quebra com estalo seco.
+Ao queimar, solta brasa vermelha sem chama e sem fumaça branca.
+Há pouca cinza e pouca meia-madeira, e nenhuma brasa escondida.
+
+FONTES
+------
+FAO, "Industrial Charcoal Making" e "Simple Technologies for Charcoal
+Making": estágios da carbonização, temperaturas e rendimentos.
+Embrapa, "Panorama Atual da Produção de Carvão Vegetal no Brasil e no
+Cerrado": rendimento em massa e umidade da madeira.
+Cartilha de fornos e fornalha, EMATER-MG, SENAR-MG e PNUD, 2019:
+secagem da madeira ao ar livre e teor de umidade ideal.

@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 47-009
+TITULO: Como construir uma prensa para frutas
+CATEGORIA: 47 - Tecnologia agrícola e mecanização rural
+TEMPO: 3 horas
+RISCO: alto
+EXIGE: madeira de lei, parafuso de rosca, serra, furadeira, pano de coar
+REVISAO: 2026-11
+PALAVRAS-CHAVE: prensa, frutas, suco, espremedor, parafuso, bagaço, pano
+==============================================================================
+
+OBJETIVO
+--------
+Construir uma prensa manual de parafuso para extrair suco de frutas.
+
+QUANDO USAR
+-----------
+Quando houver frutas maduras demais para vender ou comer in natura.
+Quando precisar de suco sem depender de energia elétrica.
+Quando o esmagamento manual não der conta da quantidade de frutas.
+
+NAO USE QUANDO
+--------------
+Quando a fruta estiver mofada, podre ou com cheiro de fermentado.
+Quando não houver água potável para lavar as frutas e limpar a prensa.
+Quando o suco for servir a crianças ou a pessoas doentes sem fervura.
+
+MATERIAIS
+---------
+- Madeira de lei não tratada para base, montantes, tampa e disco.
+- Parafuso de rosca com manivela, de bancada ou de cadeira velha.
+- Ripas finas de madeira de lei e dois arcos de metal para o cesto.
+- Pano de coar limpo, sem fiapos (gaze ou algodão).
+- Bandeja com bico de saída (aço inox ou plástico atóxico).
+- Recipiente limpo para recolher o suco.
+- Serra, furadeira com brocas, lixa, parafusos e pregos de aço inox.
+- Água potável e sabão para higienizar.
+
+PROCEDIMENTO
+------------
+1. Lave e lixe todas as peças de madeira para tirar farpas e resíduos.
+2. Monte a base com duas tábuas cruzadas e pregue os quatro montantes.
+3. Prenda a tábua superior no topo dos montantes, com furo central.
+4. Passe o parafuso de rosca pelo furo e fixe a porca por baixo.
+5. Prenda a manivela na ponta superior do parafuso.
+6. Prenda as ripas aos arcos de metal, deixando fendas de aproximadamente
+   2 mm entre elas para o suco escorrer.
+7. Encaixe o cesto na base e coloque a bandeja por baixo, com o bico
+   sobre o recipiente de coleta.
+8. Prenda o disco de compressão na ponta inferior do parafuso.
+9. Lave as frutas em água corrente potável e descarte as podres.
+10. Esmague as frutas até virar polpa grossa, nunca um purê.
+11. Forre o cesto com o pano de coar, deixando as bordas caírem fora.
+12. Encha o cesto com polpa até aproximadamente 3 cm da borda.
+13. Dobre o pano sobre a polpa.
+14. Gire a manivela devagar até o disco comprimir e o suco escorrer.
+15. Mantenha a pressão por aproximadamente 2 minutos após o fluxo cair.
+16. Solte o parafuso, retire o pano e descarte o bagaço.
+17. Lave as peças com água potável e sabão, enxágue e seque ao ar.
+
+ATENCAO
+-------
+Use só madeira de lei sem tratamento, sem tinta e sem verniz. Madeira
+tratada com preservativo pode contaminar o suco. Pinho transmite sabor.
+Use apenas aço inox ou plástico próprio para alimentos. Ferro enferrujado,
+chumbo e solda com estanho contaminam o líquido.
+Suco recém-espremido não é esterilizado. Bactérias da casca, como E. coli
+e Salmonella, passam para o suco. Lave as frutas e higienize a prensa.
+Crianças pequenas, idosos, grávidas e imunossuprimidos não devem beber
+suco cru. Ferva o suco ou aqueça a aproximadamente 71 graus Celsius por
+alguns segundos antes de guardá-lo.
+A manivela e o parafuso prendem dedos e mangas. Mantenha as mãos fora do
+cesto enquanto gira e não deixe crianças perto da prensa em uso.
+Se a madeira rachar, o parafuso entortar ou o cesto ceder, pare e refaça
+a peça. Não reforce com arame enferrujado.
+
+SE NAO TIVER
+------------
+Sem parafuso de rosca, use um macaco de carro ou um tornilho de bancada,
+desde que a parte que toca o alimento esteja limpa e atóxica.
+Sem cesto de ripas, use um balde de plástico atóxico com muitos furos nas
+paredes e no fundo, ou um saco de pano resistente entre duas tábuas.
+Sem pano de coar, use gaze limpa ou algodão sem fiapos. Não use jornal,
+pano sujo nem plástico que solte pedaços.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O suco escorre em fio contínuo pela bandeja, sem vazar pelas laterais.
+O bagaço sai do pano em camada plana e úmida, não em massa escorrendo.
+A estrutura não balança e o parafuso gira com resistência constante.
+
+FONTES
+------
+Manual prático para a elaboração de sucos de frutas em pequenos volumes
+por meio do suquificador integral, Embrapa Uva e Vinho, 2020.
+Orientações da Embrapa sobre higienização e materiais em contato com
+alimentos, inclusive o uso de água potável e aço inox.
+Alertas da FDA e de extensões universitárias WSU e NDSU sobre suco não
+pasteurizado e sobre a aferventação caseira.
+Projetos de prensa manual de cidra da Mother Earth News e Brew Your Own.

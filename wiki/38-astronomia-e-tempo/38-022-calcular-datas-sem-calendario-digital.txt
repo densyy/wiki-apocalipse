@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 38-022
+TITULO: Como calcular datas sem calendário digital
+CATEGORIA: 38 - Astronomia e medição do tempo
+TEMPO: 15 minutos
+RISCO: baixo
+EXIGE: caderno, lápis, uma data de referência confiável
+REVISAO: 2026-11
+PALAVRAS-CHAVE: data, calendário, dias, semana, bissexto, contagem
+==============================================================================
+
+OBJETIVO
+--------
+Manter a contagem dos dias e saber a data e o dia da semana.
+
+QUANDO USAR
+-----------
+Quando o calendário do celular ou do relógio parou.
+Quando não há energia, sinal ou pilha para consultar a data.
+Quando se recebeu uma data de referência por rádio, jornal ou vizinho.
+
+NAO USE QUANDO
+--------------
+Quando não houver nenhuma data de referência confiável para ancorar a
+contagem. Sem âncora, não se sabe que dia é hoje: só se conta dias a
+partir de agora.
+
+MATERIAIS
+---------
+- Caderno ou papel (parede, madeira ou pedra com carvão).
+- Lápis ou carvão (qualquer coisa que deixe marca).
+- Uma data de referência confiável (rádio, jornal, autoridade local).
+
+PROCEDIMENTO
+------------
+1. Anote no topo da folha a data de referência, com dia, mês e ano.
+2. Registre também o dia da semana dessa data, se você o souber.
+3. Faça um traço no caderno a cada dia que passar, sem pular nenhum.
+4. Risque o sétimo traço de cada bloco para contar as semanas.
+5. Conte os traços desde a referência até chegar ao dia de hoje.
+6. Para mudar de mês, some a duração dos meses cheios percorridos.
+7. Use: abril, junho, setembro e novembro têm 30 dias; os demais 31.
+8. Fevereiro tem 28 dias, ou 29 no ano bissexto.
+9. Ano bissexto: dividir por 4; século só se divisível por 400.
+10. Para o dia da semana, divida o total de dias passados por 7.
+11. Avance na semana tantos dias quanto o resto dessa divisão.
+12. Escreva a data calculada ao lado do último traço.
+
+ATENCAO
+-------
+Se a referência estiver errada, todos os dias seguintes saem errados.
+Um traço esquecido desloca tudo; conte sempre no mesmo horário.
+Anos terminados em 00 enganam: 1900 não foi bissexto, 2000 foi.
+Fevereiro muda de tamanho: 28 dias, ou 29 no ano bissexto.
+Este método não dá a hora nem conserta o relógio; controla só a data.
+
+SE NAO TIVER
+------------
+Sem caderno, amarre um nó por dia num fio; sem lápis, use carvão.
+Sem referência, marque o dia zero e conte só os dias passados.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A soma dos traços bate com os dias entre duas datas conhecidas.
+Ao completar sete dias, o dia da semana calculado repete o da âncora.
+
+FONTES
+------
+Prática consolidada de contagem de dias, sem documento único.
+Regras do calendário gregoriano: meses, ano bissexto e contagem de dias.

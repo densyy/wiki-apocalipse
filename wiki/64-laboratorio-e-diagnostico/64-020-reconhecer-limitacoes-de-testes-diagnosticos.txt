@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 64-020
+TITULO: Como reconhecer limitações de testes diagnósticos
+CATEGORIA: 64 - Laboratório, diagnóstico e análises
+TEMPO: 25 minutos
+RISCO: alto
+EXIGE: resultado de exame ou laudo, caderno, caneta
+REVISAO: 2026-11
+PALAVRAS-CHAVE: teste, exame, falso positivo, falso negativo, sensibilidade
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer o que um teste pode e não pode provar.
+Não decidir tratamento só pelo resultado do exame.
+
+QUANDO USAR
+-----------
+Quando receber resultado de exame e não saber se ele é definitivo.
+Quando o resultado não combina com os sintomas que a pessoa sente.
+Quando o teste foi feito logo após a exposição ou o início dos sintomas.
+Quando alguém quer usar o exame para começar ou parar remédio.
+Quando a doença é rara e o exame é rápido e barato.
+
+NAO USE QUANDO
+--------------
+Não use este texto para dar diagnóstico a outra pessoa.
+Não use o resultado para trocar dose ou parar remédio prescrito.
+Não use para dispensar atendimento quando houver sintomas ou piora.
+Não use para afirmar que uma pessoa está livre de doença.
+
+MATERIAIS
+---------
+- Resultado do exame ou laudo impresso (ou anotado com cuidado).
+- Caderno e caneta para registrar o que o exame diz e não diz.
+- Nome do teste e data da coleta (pergunte ao laboratório se faltar).
+- Boa luz para ler o papel.
+
+PROCEDIMENTO
+------------
+1. Anote no caderno o que o papel diz: positivo, negativo ou valor.
+2. Escreva o nome exato do teste e a data da coleta.
+3. Pergunte ao laboratório ou ao profissional a sensibilidade do teste.
+4. Anote o que é sensibilidade: capacidade de achar doença presente.
+5. Anote o que é especificidade: capacidade de dar negativo sem doença.
+6. Escreva: sensibilidade alta, se negativo, ajuda a afastar a doença.
+7. Escreva: especificidade alta, se positivo, ajuda a confirmar a doença.
+8. Compare a data do teste com o início dos sintomas ou da exposição.
+9. Marque se o teste foi feito muito cedo: pode dar falso negativo.
+10. Observe se a doença é comum onde você vive e no seu grupo.
+11. Anote: doença rara aumenta falso positivo; comum, falso negativo.
+12. Compare o resultado com o que a pessoa sente e com o exame clínico.
+13. Se o resultado não combina com os sinais, peça repetição ou outro teste.
+14. Não comece, troque ou pare remédio apenas por causa do resultado.
+15. Leve o papel e as anotações ao profissional para decidir.
+
+ATENCAO
+-------
+Nenhum teste acerta sempre: resultado é pista, não prova final.
+Falso negativo é resultado negativo em quem tem a doença.
+Falso positivo é resultado positivo em quem não tem a doença.
+Teste feito muito cedo pode negativar mesmo com doença instalada.
+Doença rara torna o positivo mais duvidoso.
+Doença comum torna o negativo mais duvidoso.
+Amostra mal coletada, conservada ou transportada altera o resultado.
+Um valor dentro da faixa não afasta doença se os sintomas continuam.
+Nunca inicie, aumente ou pare remédio só pelo exame.
+Procure atendimento imediato se houver dor no peito, falta de ar ou desmaio.
+Vá com confusão, sangramento forte ou febre alta, mesmo com exame normal.
+
+SE NAO TIVER
+------------
+Sem o nome do teste, pergunte ao laboratório antes de concluir.
+Sem a data da coleta, anote a data em que recebeu o resultado.
+Sem sensibilidade informada, trate o resultado como pista, não certeza.
+Sem acesso ao profissional, repita o teste em laboratório confiável.
+Sem entender o laudo, leve o papel e pergunte, sem inventar significado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O caderno traz o resultado, o nome do teste e a data da coleta.
+As palavras sensibilidade e especificidade estão anotadas com o sentido.
+O possível erro, falso positivo ou falso negativo, está identificado.
+Nenhuma decisão de remédio foi tomada só pelo resultado.
+As perguntas sem resposta estão escritas para levar ao profissional.
+
+FONTES
+------
+CDC: definições de sensibilidade, especificidade e valores preditivos em
+orientação sobre testes rápidos, incluindo falso positivo e falso negativo.
+Manual MSD (Merck Manual): entendimento de testes e resultados médicos.
+StatPearls, NCBI Bookshelf: exatidão de testes diagnósticos.
+AHRQ Effective Health Care Program: métricas de desempenho de testes.
+Association of Public Health Laboratories: interpretação de resultados
+no contexto da população e da frequência da doença.
+Resumo operacional; não substitui avaliação de profissional de saúde.

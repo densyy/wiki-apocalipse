@@ -1,0 +1,84 @@
+==============================================================================
+CODIGO: 75-001
+TITULO: Como construir habitações adaptadas ao clima tropical
+CATEGORIA: 75 - Tecnologias apropriadas para regiões tropicais
+TEMPO: 3 dias
+RISCO: alto
+EXIGE: madeira ou bambu tratado, telha clara, tela mosquiteira, ferramentas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: casa, tropical, ventilação, sombra, telhado, umidade, chuva
+==============================================================================
+
+OBJETIVO
+--------
+Construir uma moradia mais fresca, seca e resistente em região tropical.
+
+QUANDO USAR
+-----------
+Quando o clima é quente e úmido durante quase todo o ano.
+Quando a chuva é intensa e o solo costuma ficar encharcado.
+Quando há risco de vendavais, ciclones ou alagamento.
+Quando não há energia elétrica para climatizar o ambiente.
+
+NAO USE QUANDO
+--------------
+Quando o terreno é encosta instável, leito de rio ou baixada que alaga.
+Nunca construa sobre solo que já cedeu ou ao lado de talude rachado.
+Sem orientação técnica, não erga mais de um pavimento.
+
+MATERIAIS
+---------
+- Madeira ou bambu tratado contra umidade e cupins (vigas e estacas).
+- Telha de barro, zinco ou fibra (telha clara reflete mais calor).
+- Tela mosquiteira para portas e janelas.
+- Arame, fita de amarração, pregos e arruelas para a cobertura.
+- Pedra ou bloco de concreto para os pilares.
+- Pá e enxada para abrir as valetas de drenagem.
+- Cal, cascão ou tinta clara (para pintar paredes e telhado).
+
+PROCEDIMENTO
+------------
+1. Escolha o ponto mais alto, plano e firme do terreno.
+2. Afaste a casa aproximadamente 3 m de taludes e leitos de rio.
+3. Marque o retângulo da casa com estacas e corda.
+4. Cave os buracos dos pilares com aproximadamente 60 cm de profundidade.
+5. Enterre os pilares de pedra ou bloco e compacte a terra ao redor.
+6. Eleve o piso aproximadamente 50 cm para ventilar por baixo.
+7. Monte as vigas de madeira ou bambu tratado sobre os pilares.
+8. Pregue o assoalho deixando frestas pequenas entre as tábuas.
+9. Erga as paredes deixando vãos opostos para ventilação cruzada.
+10. Instale portas e janelas com tela mosquiteira nos vãos.
+11. Cubra a casa com telha clara ou zinco pintado de branco.
+12. Estenda o beiral aproximadamente 1 m além das paredes.
+13. Amarre cada telha às vigas com arame ou fita de amarração.
+14. Abra valetas ao redor da casa para escoar a água da chuva.
+15. Plante árvores de sombra do lado oeste e sudoeste da casa.
+
+ATENCAO
+-------
+Trabalho em altura e ferramentas cortantes podem causar ferimentos graves.
+Use luvas, calçado fechado e nunca trabalhe sozinho na cobertura.
+Telhado mal preso é arrancado por vendaval e pode ferir quem estiver perto.
+Pilar mal enterrado afunda e deixa a casa torta e insegura.
+Não construa em leito de rio, talude rachado ou área que já alagou.
+Se notar rachadura no solo ou recalque dos pilares, pare e peça ajuda.
+
+SE NAO TIVER
+------------
+Sem telha clara, use zinco comum e pinte com tinta clara ou cal.
+Sem bambu tratado, use madeira seca e mantenha longe do solo.
+Sem tela mosquiteira, feche os vãos com pano fino por enquanto.
+Não use lona plástica como cobertura definitiva: retém calor e apodrece.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O piso fica seco após a chuva e há corrente de ar pelos vãos opostos.
+A cobertura não balança, não goteja e as valetas escoam sem acumular água.
+
+FONTES
+------
+Prática consolidada de arquitetura bioclimática e construção resistente a
+desastres. Famílias de referência: orientações da OMS sobre moradia e saúde,
+guias de abrigo da IFRC e da Cruz Vermelha, guias de construção costeira
+da FEMA e orientações de defesa civil. Resumo operacional, sem documento
+único consultado; não substitui projeto ou orientação técnica local.

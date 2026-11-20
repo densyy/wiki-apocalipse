@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 44-007
+TITULO: Como compreender o comportamento de rios
+CATEGORIA: 44 - Hidrologia, rios e gestão de bacias
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: caderno, lápis, pedra ou estaca para marcar o nível
+REVISAO: 2026-11
+PALAVRAS-CHAVE: rio, vazão, cota, correnteza, cheia, margem, nível
+==============================================================================
+
+OBJETIVO
+--------
+Observar um rio e registrar seu nível, sua correnteza e sua tendência.
+
+QUANDO USAR
+-----------
+Antes de acampar na margem, para saber se o rio está subindo.
+Quando choveu muito e é preciso decidir se deve se afastar do rio.
+Quando faltam dados oficiais de monitoramento.
+
+NAO USE QUANDO
+--------------
+Com água subindo ou sem margem firme: afaste-se e avise a Defesa Civil.
+
+MATERIAIS
+---------
+- Caderno e lápis (ou pedras e areia).
+- Pedra ou estaca para marcar o nível (ou outro ponto fixo).
+- Objeto que flutue e relógio (ou contagem em voz alta).
+
+PROCEDIMENTO
+------------
+1. Escolha um trecho reto, com visão das duas margens.
+2. Fique em solo alto e firme, longe da borda.
+3. Escolha um ponto fixo: pedra grande, estaca ou degrau.
+4. Anote a altura da água em relação ao ponto fixo e marque-a na margem.
+5. Marque dois pontos na margem, a aproximadamente 10 metros um do outro.
+6. Solte o flutuador no centro da correnteza, antes do primeiro ponto.
+7. Conte os segundos até ele passar pelo segundo ponto; repita três vezes.
+8. Anote os tempos e tire a média; 10 por ela dá a velocidade aproximada.
+9. Anote cor da água, espuma, detritos e margem erodida.
+10. Repita o nível a cada poucas horas: sobe, estabiliza ou desce.
+
+ATENCAO
+-------
+Leitura aproximada; não substitui a ANA nem a previsão da Defesa Civil.
+A mesma altura pode significar vazão diferente se o leito mudou por erosão.
+Não entre na água se a correnteza estiver forte ou se ela estiver turva.
+A margem pode desmoronar; não fique na borda nem em solo molhado.
+Água que sobe com espuma e detritos indica cheia: afaste-se e avise.
+Não atravesse o rio com base nesta leitura, nem a use para beber.
+
+SE NAO TIVER
+------------
+Sem caderno, empilhe pedras ou risque a areia para guardar o nível.
+Sem relógio ou flutuador, conte em voz alta e estime pela inclinação dos
+arbustos na água; marque como aproximado.
+Sem margem segura, observe de longe e registre a tendência do nível.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Há três tempos anotados, uma média e uma marca de nível visível.
+A tendência do nível está escrita: subindo, estável ou descendo.
+
+FONTES
+------
+ANA (Hidroweb e Telemetria) e USGS Water Science School: cota e vazão.
+Prática consolidada de monitoramento hidrológico; não substitui treinamento.

@@ -1,0 +1,94 @@
+==============================================================================
+CODIGO: 39-022
+TITULO: Como utilizar luz solar para experimentos científicos
+CATEGORIA: 39 - Óptica e instrumentos científicos
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: palito, papelão furado, papel branco, régua, lupa, água
+REVISAO: 2026-11
+PALAVRAS-CHAVE: sol, luz, sombra, lupa, projecao, experimento, olhos
+==============================================================================
+
+OBJETIVO
+--------
+Montar experimentos simples com luz solar: medir sombras, projetar
+o disco do Sol e concentrar calor com lupa.
+
+QUANDO USAR
+-----------
+Quando quiser observar o Sol sem olhar diretamente.
+Quando precisar medir a passagem das horas com sombras.
+Quando quiser demonstrar aquecimento e foco de luz.
+Quando houver sol forte e céu limpo, entre 9h e 15h.
+
+NAO USE QUANDO
+--------------
+Com vento forte ou vegetação seca, não use a lupa: o fogo se espalha.
+Não faça perto de combustível, gás ou material inflamável.
+Não observe o Sol diretamente, mesmo com lente, binóculo ou câmera.
+
+MATERIAIS
+---------
+- Palito reto de aproximadamente 20 cm.
+- Pedra para apoiar o palito.
+- Papelão com um furo pequeno no centro (duas folhas de papel).
+- Papel branco como tela.
+- Régua ou fita para medir.
+- Lupa de aumento.
+- Recipiente com água para apagar o foco.
+- Caderno para anotar.
+
+PROCEDIMENTO
+------------
+1. Escolha terreno plano e aberto, sem sombra de árvores ou prédios.
+2. Espere hora de sol forte, entre 9h e 15h, com céu limpo.
+3. Finque o palito na vertical, apoiado na pedra.
+4. Marque no chão a ponta da sombra do palito.
+5. Repita a marca a cada 30 minutos e meça cada sombra com a régua.
+6. Anote os valores: a sombra mais curta marca o meio-dia solar.
+7. Fure o centro do papelão com alfinete ou ponta de caneta.
+8. Prenda o papelão em pé, com o furo voltado para o Sol.
+9. Coloque o papel branco na sombra, a aproximadamente 1 m do furo.
+10. Ajuste a distância até aparecer círculo claro e nítido no papel.
+11. Nunca olhe pelo furo nem direto para o Sol.
+12. Coloque papel escuro sobre a pedra, longe de material inflamável.
+13. Segure a lupa entre o Sol e o papel, a 10 a 20 cm do papel.
+14. Aproxime ou afaste até o ponto de luz ficar menor e mais brilhante.
+15. Observe o papel aquecer ou queimar; mantenha a água por perto.
+16. Aponte a lupa para o chão e guarde-a longe do Sol ao terminar.
+
+ATENCAO
+-------
+Nunca olhe direto para o Sol, nem com lupa, binóculo ou lente:
+a luz pode queimar a retina de forma permanente.
+A projeção no papel é a única forma segura de ver o disco solar
+neste tutorial.
+O ponto focado pela lupa queima papel e pele em segundos:
+mantenha dedos e roupas fora dele.
+Use a lupa sobre pedra ou terra, com água por perto, nunca em
+campo seco ou com vento.
+Não deixe lupa, vidro ou garrafa expostos ao Sol: concentram luz
+e podem iniciar incêndio sozinhos.
+A sombra só é confiável em chão plano; terreno inclinado altera
+a medição.
+Com céu nublado, os dados de sombra e projeção não valem:
+repita em dia limpo.
+
+SE NAO TIVER
+------------
+Sem lupa, use a lente de um óculos ou uma gota de água em
+plástico transparente, com os mesmos cuidados de fogo e olhos.
+Sem papelão, faça o furo em duas folhas de papel sobrepostas.
+Sem régua, meça a sombra encostando palitos de tamanho conhecido.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A ponta da sombra mudou de lugar e a menor sombra foi anotada.
+No papel branco apareceu um círculo claro e nítido.
+Com a lupa, o papel escureceu ou chegou a pegar fogo controlado.
+
+FONTES
+------
+Prática consolidada de óptica elementar e de experimentos solares
+caseiros. Este texto é resumo operacional, não substitui treinamento
+nem orientação de segurança ocular.

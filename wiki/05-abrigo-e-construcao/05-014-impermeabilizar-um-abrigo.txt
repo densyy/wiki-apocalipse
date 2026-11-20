@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 05-014
+TITULO: Como impermeabilizar um abrigo
+CATEGORIA: 05 - Abrigo, construção e habitação
+TEMPO: 50 minutos
+RISCO: medio
+EXIGE: lona ou plástico forte, corda, pá ou enxada
+REVISAO: 2026-11
+PALAVRAS-CHAVE: abrigo, impermeabilizar, chuva, lona, goteira, umidade
+==============================================================================
+
+OBJETIVO
+--------
+Impedir que chuva e umidade do solo entrem no abrigo.
+
+QUANDO USAR
+-----------
+Quando a chuva entra pelo teto ou pelas laterais do abrigo.
+Quando o chão do abrigo amanhece molhado ou com poças.
+Quando vai chover e o abrigo ainda não tem proteção.
+
+NAO USE QUANDO
+--------------
+Em margem de rio, baixada que alaga ou encosta que desliza.
+Sob árvore morta, galho solto ou barranco instável.
+
+MATERIAIS
+---------
+- Lona ou plástico forte (cortina, sacos plásticos grossos).
+- Corda fina ou barbante (cipó, tiras de pano).
+- Pá, enxada ou facão para cavar (pedaço de madeira dura).
+- Pedras, troncos ou estacas para prender as bordas.
+
+PROCEDIMENTO
+------------
+1. Saia do abrigo e observe de onde a água entra e escorre.
+2. Estique a lona do teto com queda para um lado só.
+3. Deixe a borda mais baixa fora da parede do abrigo.
+4. Prenda as bordas com pedras, troncos ou estacas no chão.
+5. Cave uma valeta rasa de aproximadamente 10 cm ao redor.
+6. Ligue a valeta a um ponto mais baixo para a água sair.
+7. Cubra rasgos com remendo de plástico por cima do furo.
+8. Amarre o remendo pelas bordas para o vento não arrancar.
+9. Forre o chão com camada grossa de folhas e galhos secos.
+10. Observe uma chuva fraca e corrija goteiras antes da noite.
+
+ATENCAO
+-------
+Lona encharcada pesa e pode rasgar ou derrubar o abrigo.
+Plástico colado no corpo esfria rápido e causa hipotermia.
+Nunca acenda fogo para secar lona ou plástico de perto.
+Plástico derrete, gruda na pele e fumaça fechada intoxica.
+Se a água subir pelo chão, saia: abrigo não segura enchente.
+
+SE NAO TIVER
+------------
+Sem lona, emende cortinas ou sacos plásticos com sobreposição.
+Sem corda, amarre com cipó, tiras de pano ou fios torcidos.
+Sem pá, cave a valeta com facão ou pedaço de madeira dura.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A chuva escorre pela lona e cai fora do abrigo.
+O chão segue seco e sem pingos do teto após a chuva.
+
+FONTES
+------
+Prática consolidada de abrigo de emergência em desastres
+(famílias de referência: FEMA, IFRC e manual militar de
+sobrevivência civil). Resumo operacional, sem treinamento.

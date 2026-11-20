@@ -1,0 +1,88 @@
+==============================================================================
+CODIGO: 17-018
+TITULO: Como mapear áreas sujeitas a deslizamentos
+CATEGORIA: 17 - Meteorologia, clima e meio ambiente
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: mapa simples ou papel em branco, caderno, lápis, estacas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: deslizamento, desmoronamento, encosta, rachadura, risco
+==============================================================================
+
+OBJETIVO
+--------
+Produzir um mapa simples das encostas com maior chance de deslizar.
+
+QUANDO USAR
+-----------
+Ao escolher onde montar acampamento ou moradia em região de morro.
+Depois de chuva forte, para decidir quais áreas evitar.
+Ao avaliar uma casa ou terreno antes de ocupá-lo.
+Ao planejar rotas de fuga e pontos de encontro no bairro.
+Quando o solo da região for argiloso, íngreme ou já tiver deslizado.
+
+NAO USE QUANDO
+--------------
+Como única base para decidir construção ou ocupação definitiva.
+Um mapa caseiro não substitui laudo técnico de estabilidade.
+Não use para afirmar que uma área é segura: ele só indica suspeita.
+
+MATERIAIS
+---------
+- Mapa impresso da região ou folha de papel em branco.
+- Lápis e caderno para anotar data, horário e observações.
+- Estacas ou galhos para marcar pontos no terreno (opcional).
+- Fita ou barbante para medir distâncias aproximadas.
+- Calçado firme e bastão de apoio para andar na encosta.
+
+PROCEDIMENTO
+------------
+1. Defina no papel a área que cabe no seu alcance visual.
+2. Desenhe os morros, vales e cursos d'água que você consegue ver.
+3. Marque no mapa a direção da drenagem das águas da chuva.
+4. Observe o formato do terreno: encostas íngremes e côncavas retêm água.
+5. Procure rachaduras no solo, no muro ou no asfalto da encosta.
+6. Observe árvores inclinadas ou raízes expostas: sinal de movimento.
+7. Note se surgiram nascentes ou água lamacenta onde antes não havia.
+8. Verifique muros, cercas e postes tortos ou deslocados.
+9. Olhe o topo e a base: cicatrizes antigas de deslize indicam risco.
+10. Anote cada sinal no mapa com data e horário da observação.
+11. Classifique cada ponto: sinal ativo, sinal antigo ou sem sinal.
+12. Circule em vermelho (ou com X) os pontos com sinal ativo.
+13. Marque uma rota de fuga que desça lateralmente, nunca pela encosta.
+14. Escolha um ponto alto e firme, longe da base do morro, para encontro.
+15. Guarde o mapa com a data e atualize-o após cada chuva forte.
+
+ATENCAO
+-------
+Mapa caseiro mostra suspeita, não confirma estabilidade do solo.
+Nunca entre em área com rachaduras novas, solo inchado ou água lamacenta.
+Deslizamento pode acontecer sem aviso e em segundos, inclusive à noite.
+Não fique na base da encosta nem no leito de córrego durante chuva forte.
+Árvores inclinadas e muros tortos indicam movimento lento do terreno.
+Se ouvir estalo, ver poeira ou o solo recuar, saia imediatamente e avise.
+Não suba na encosta molhada só para confirmar: aumenta o risco.
+Chuva forte acumulada é o gatilho principal; obedeça aos alertas.
+Em dúvida, trate a área como suspeita e mantenha distância.
+
+SE NAO TIVER
+------------
+Sem mapa impresso, desenhe em papel mesmo sem escala: a forma importa.
+Sem lápis, use carvão ou ponta de galho para marcar os pontos.
+Sem fita, meça em passos e anote "aproximadamente" antes do número.
+Sem condição de subir na encosta, observe de longe e registre só o que vê.
+Não troque a observação direta por informação de terceiros sem confirmar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O mapa traz morros, drenagem e pelo menos os sinais observados marcados.
+Cada ponto marcado tem data, horário e classificação.
+Há uma rota de fuga e um ponto de encontro indicados no papel.
+
+FONTES
+------
+Prática consolidada de mapeamento de suscetibilidade a deslizamentos.
+Referências consultadas: Serviço Geológico do Brasil (SGB/CPRM),
+publicações de cartografia de riscos geológicos e o Programa de Riscos
+de Deslizamento da USGS. Este resumo é operacional e não substitui
+laudo técnico de estabilidade de encostas.

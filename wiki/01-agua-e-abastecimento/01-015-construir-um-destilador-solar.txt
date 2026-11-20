@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 01-015
+TITULO: Como construir um destilador solar
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: bandeja rasa, tampa transparente, calha e garrafa limpa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: destilação, salobra, solar, dessalinizar, bandeja, água
+==============================================================================
+
+OBJETIVO
+--------
+Obter água destilada a partir de água salobra usando só o sol.
+
+QUANDO USAR
+-----------
+Quando a única água disponível é salgada ou salobra.
+Quando não há energia elétrica nem fogo para ferver a água.
+
+NAO USE QUANDO
+--------------
+Quando a água tiver combustível, solvente, óleo ou agrotóxico.
+Nesses casos o destilador não a torna segura: procure outra fonte.
+
+MATERIAIS
+---------
+- Bandeja metálica rasa de fundo escuro (assadeira de alumínio).
+- Tampa transparente de vidro (ou plástico transparente liso).
+- Calha para escoar a água (canaleta ou tubo PVC aberto).
+- Garrafa limpa com tampa para guardar a água destilada.
+- Vedante (silicone ou massa) e peso para prender a tampa (pedra).
+
+PROCEDIMENTO
+------------
+1. Escolha um local plano, com sol direto por várias horas e pouco vento.
+2. Pinte o fundo da bandeja com tinta preta, se já não for escuro.
+3. Coloque a bandeja nivelada sobre tijolos ou sarrafos.
+4. Encha a bandeja com água salobra até aproximadamente 2 cm.
+5. Encaixe a calha na borda mais baixa da tampa.
+6. Cubra a bandeja com a tampa inclinada para a calha.
+7. Vede as laterais com silicone ou massa, sem tampar a saída da calha.
+8. Prenda a tampa com peso ou grampo para o vento não levantar.
+9. Coloque a garrafa limpa sob a saída da calha.
+10. Deixe o sol agir sem abrir a tampa durante o dia.
+11. Troque a água da bandeja todos os dias e limpe o sal.
+
+ATENCAO
+-------
+Descarte a água dos três primeiros dias antes de beber.
+A destilação tira sal, metais e microrganismos da água.
+Não destile combustível, solvente ou agrotóxico: passam à garrafa.
+Água destilada fica sem sais: misture com água potável quando possível.
+
+SE NAO TIVER
+------------
+Sem vidro, use plástico transparente liso, preso e sem rugas.
+Sem bandeja de metal, use assadeira de alumínio ou lona lisa.
+Sem calha, dobre tira de alumínio ou corte tubo PVC ao meio.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Após horas de sol, gotas escorrem pela calha até a garrafa.
+A água recolhida fica límpida, sem cor e sem cheiro de sal.
+
+FONTES
+------
+Prática consolidada de destilação solar (Practical Action/ITDG).
+Estudo da UEM (Acta Scientiarum, 2013), da UEPB e orientações da OMS
+sobre água em emergências. Resumo operacional, não substitui treinamento.

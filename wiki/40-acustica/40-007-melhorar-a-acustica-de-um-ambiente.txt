@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 40-007
+TITULO: Como melhorar a acústica de um ambiente
+CATEGORIA: 40 - Acústica e engenharia sonora
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: tapete ou manta, pano grosso, fita adesiva, caixas de papelão
+REVISAO: 2026-11
+PALAVRAS-CHAVE: acústica, ruído, eco, reverberação, tapete, cortina
+==============================================================================
+
+OBJETIVO
+--------
+Reduzir o eco e o ruído dentro de um ambiente com materiais comuns.
+
+QUANDO USAR
+-----------
+Quando o som rebate em paredes e piso duros e a fala fica confusa.
+Quando o ruído de fora entra por portas, janelas ou frestas.
+
+NAO USE QUANDO
+--------------
+Não use para proteger a audição contra ruído forte: isso exige
+proteção auricular e afastamento da fonte, não apenas painéis.
+Não tape saídas de ar, janelas de escape nem portas de emergência.
+
+MATERIAIS
+---------
+- Tapete, esteira ou manta para o piso (cobertor dobrado).
+- Pano grosso ou cortina para janelas (cobertor, lona).
+- Caixa de papelão com fita adesiva (barbante) e tesoura.
+
+PROCEDIMENTO
+------------
+1. Feche portas e janelas e desligue o que faz ruído sem necessidade.
+2. Bata palmas no centro e anote quantos segundos o som persiste.
+3. Cubra o piso da área de uso com tapete, esteira ou manta.
+4. Pendure pano grosso sobre cada vidro, com dobras e sobrando nas bordas.
+5. Enrole um cobertor em volta de uma caixa de papelão e amarre.
+6. Fixe a caixa na parede com fita, com aproximadamente 5 cm de espessura.
+7. Repita nas paredes lisas, longe de tomadas, fios e saídas de ar.
+8. Vede com fita ou pano as frestas da porta e da janela ruidosas.
+9. Encoste sacos de terra na parede dividida com o cômodo ruidoso.
+10. Coloque a máquina sobre pano dobrado e bata palmas de novo.
+
+ATENCAO
+-------
+Reduz o eco, mas não elimina som intenso nem substitui proteção auricular.
+Acima de aproximadamente 85 dBA em oito horas há risco de surdez;
+use proteção e afaste-se se houver dor ou zumbido de ouvido.
+Não obstrua ventilação, portas de emergência nem equipamentos de segurança.
+Confira a fita: painel solto cai; nunca pregue sobre fios.
+Papelão e fita pegam fogo: mantenha longe de chamas e fogão.
+
+SE NAO TIVER
+------------
+Sem tapete, use cobertor, esteira de palha ou jornal em saco.
+Sem fita, amarre com barbante; sem caixa, dobre e encoste o cobertor.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ao bater palmas, o som some rápido em vez de voltar como eco.
+Dá para entender a fala a maior distância sem levantar a voz.
+O ruído do outro cômodo ficou mais fraco do mesmo lado da porta.
+
+FONTES
+------
+NIOSH, texto About Occupational Hearing Loss: limite de 85 dBA e
+caráter logarítmico do decibel. Absorção, massa e vedação são
+prática consolidada de engenharia acústica; resumo operacional.

@@ -1,0 +1,86 @@
+==============================================================================
+CODIGO: 17-009
+TITULO: Como identificar mudanças bruscas de pressão atmosférica
+CATEGORIA: 17 - Meteorologia, clima e meio ambiente
+TEMPO: 20 minutos
+RISCO: alto
+EXIGE: barômetro aneroide ou sensor de pressão, caderno, lápis, relógio
+REVISAO: 2026-11
+PALAVRAS-CHAVE: pressão, barômetro, pressão caindo, tempestade, clima
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer queda rápida de pressão e agir antes da tempestade.
+
+QUANDO USAR
+-----------
+Quando o céu muda depressa e você está em área aberta ou abrigo frágil.
+Quando nuvens crescem, o vento muda de direção ou o ar fica abafado.
+Antes de acampar, navegar ou subir a serra em tempo instável.
+Quando os ouvidos estalam sem que você tenha mudado de altitude.
+Quando você quer registrar a tendência do tempo no caderno.
+
+NAO USE QUANDO
+--------------
+Não use a pressão como único sinal para entrar em área de risco.
+Não substitua aviso da Defesa Civil ou do rádio por leitura caseira.
+Não compare leituras feitas em lugares diferentes ou em alturas diferentes.
+
+MATERIAIS
+---------
+- Barômetro aneroide ou aparelho que mostre a pressão do ar.
+- Caderno e lápis para anotar hora e valor.
+- Relógio para medir o intervalo entre as leituras.
+- Ponto fixo, seco e sem sol direto para deixar o aparelho.
+
+PROCEDIMENTO
+------------
+1. Escolha um ponto fixo ao abrigo de chuva, sol e vento forte.
+2. Deixe o barômetro nesse mesmo ponto durante toda a observação.
+3. Anote a pressão e a hora no caderno.
+4. Repita a leitura a cada 30 minutos e anote logo abaixo.
+5. Observe a agulha ou o número em três leituras seguidas.
+6. Trate como mudança brusca se o valor cair sem parar nessas leituras.
+7. Confirme com um sinal visível: nuvens em torre ou céu escurecendo.
+8. Note se o vento mudou de direção ou ficou mais forte de repente.
+9. Sinta os ouvidos: estalos sem mudança de altitude reforçam o sinal.
+10. Interrompa a atividade exposta quando a queda e os sinais coincidirem.
+11. Entre em abrigo firme antes que o vento e a chuva fortes comecem.
+12. Afaste-se de árvores isoladas, cabos e cercas soltas ao caminhar.
+
+ATENCAO
+-------
+A queda de pressão avisa que o tempo pode piorar, não diz quando nem quanto.
+Uma subida rápida da pressão também é mudança brusca.
+Pode trazer vento seco e forte.
+A pressão cai quando você sobe de altitude.
+Compare só leituras do mesmo ponto.
+Um barômetro descalibrado pode errar o valor, mas ainda mostra a tendência.
+Nuvem escura avançando ou trovão não esperam confirmação do barômetro.
+Tempestade pode se formar sem queda clara; sem rádio, reste atento ao céu.
+Se aparecer granizo, relâmpago perto ou vento que derruba galhos,
+pare e abrigue-se.
+
+SE NAO TIVER
+------------
+Sem barômetro, observe a sequência: nuvens em torre, céu escuro,
+vento mudando.
+Sem relógio, conte as leituras em vez de contar minutos.
+Não improvise barômetro com garrafa, palito ou bexiga.
+Não medem pressão alguma.
+Na dúvida, entre em abrigo cedo; isso custa pouco e não pode ser desfeito.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você tem três ou mais leituras no mesmo ponto e vê queda contínua.
+A queda coincide com nuvem crescendo, vento mudando ou estalo nos ouvidos.
+Você está em abrigo antes do início do vento forte ou da chuva.
+
+FONTES
+------
+Prática consolidada de observação com barômetro: tendência de queda
+indica tempo em degradação. Bases de tempestades severas e segurança:
+NOAA/NSSL e National Weather Service. Escala Saffir-Simpson do
+National Hurricane Center para danos do vento. Resumo operacional;
+não substitui alerta oficial.

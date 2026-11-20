@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 03-029
+TITULO: Como tratar picadas de insetos
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 20 minutos
+RISCO: critico
+EXIGE: água, sabão, pano limpo, gelo ou compressa fria, cartão ou unha
+REVISAO: 2026-11
+PALAVRAS-CHAVE: picada, inseto, ferrão, abelha, coceira, anafilaxia
+==============================================================================
+
+OBJETIVO
+--------
+Aliviar dor e inchaço de picadas leves e reconhecer reação grave.
+
+QUANDO USAR
+-----------
+Picada de mosquito, pulga ou percevejo com coceira e inchaço local.
+Ferrada de abelha, vespa, marimbondo ou formiga com dor e vermelhidão.
+Picada com ferrão preso na pele, como um ponto escuro.
+Reação leve, sem falta de ar nem inchaço no rosto.
+
+NAO USE QUANDO
+--------------
+Não use calor, nem esfregue ou coce o local da picada.
+Não passe pasta de dente, lama, cinza, urina ou folhas na pele.
+Não aperte ferrão de abelha com pinça: isso esprime mais veneno.
+Não espere em casa se aparecerem sinais de reação grave.
+
+MATERIAIS
+---------
+- Água corrente e sabão (ou água limpa).
+- Pano limpo (ou gaze limpa).
+- Gelo ou compressa fria (ou pano molhado em água fria).
+- Cartão de plástico ou unha para raspar o ferrão de lado.
+- Luvas ou sacola plástica limpa, se houver ferrão.
+- Anti-histamínico oral (ou creme de hidrocortisona), conforme a bula.
+- Auto-injetor de adrenalina, se a pessoa já tiver prescrição.
+
+PROCEDIMENTO
+------------
+1. Afaste a pessoa do inseto e do ninho, sem movimentos bruscos.
+2. Observe se há ferrão preso na pele, como um ponto escuro.
+3. Raspe o ferrão de lado com a borda de um cartão ou com a unha.
+4. Não aperte o ferrão com pinça nem com os dedos.
+5. Lave o local com água corrente e sabão por alguns segundos.
+6. Retire anéis, pulseiras e roupas apertadas perto da picada.
+7. Envolva gelo em pano limpo e ponha sobre o local por 10 a 20 minutos.
+8. Retire o gelo e descanse; repita se o inchaço voltar.
+9. Mantenha o braço ou a perna elevado, se a picada for no membro.
+10. Não coce, não esfregue e não aqueça o local.
+11. Para coceira, use anti-histamínico oral conforme a bula.
+12. Para dor, use analgésico comum conforme a bula.
+13. Se aparecer sinal de reação grave, acione o socorro imediatamente.
+14. Se a pessoa tiver auto-injetor, aplique na coxa conforme orientação.
+15. Continue observando a pessoa por algumas horas.
+
+ATENCAO
+-------
+Anafilaxia pode matar em minutos, mesmo após uma única picada.
+Sinal de alerta: falta de ar, chiado, aperto no peito ou voz rouca.
+Sinal de alerta: inchaço de lábios, língua, rosto ou garganta.
+Sinal de alerta: urticária pelo corpo, tontura, desmaio ou vômito.
+Se houver qualquer um desses sinais, não espere: acione o socorro.
+Deite a pessoa de costas com as pernas elevadas, se estiver acordada.
+Se ela vomitar ou não estiver acordada, deite de lado.
+Não dê comida, bebida nem remédio por boca a quem tem falta de ar.
+Muitas picadas ao mesmo tempo exigem atendimento urgente.
+Picada dentro da boca ou da garganta exige atendimento urgente.
+Febre, vermelhidão que avança ou pus após um ou dois dias são sinais de
+infecção. Procure atendimento.
+Inchaço que cresce nas 24 a 48 horas seguintes é comum e costuma ceder.
+Este texto não substitui atendimento médico nem treinamento prático.
+
+SE NAO TIVER
+------------
+Sem gelo: use pano molhado em água fria e troque quando aquecer.
+Sem sabão: lave bem o local com água corrente limpa.
+Sem cartão: use a unha para raspar o ferrão de lado.
+Sem anti-histamínico: compressa fria e elevação ajudam na coceira.
+Sem auto-injetor: acione o socorro e não espere melhora sozinha.
+Não corte, não fure, não sugue o local e não improvise remédio interno.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O ferrão saiu e a pele ficou limpa, sem saber espetado.
+A dor e a coceira diminuem depois da compressa fria.
+O inchaço fica local e não avança para o rosto ou o pescoço.
+A pessoa respira normal, fala sem esforço e continua acordada.
+Não aparecem urticária, tontura nem vômito nas horas seguintes.
+
+FONTES
+------
+Ministério da Saúde do Brasil: orientações sobre acidentes por abelhas.
+Sociedade Brasileira de Alergia e Imunologia: anafilaxia por insetos.
+Telessaúde RS/UFRGS: manejo inicial da anafilaxia, 2024.
+CDC/NIOSH e Mayo Clinic: primeiros socorros para picadas de insetos.
+NHS: remoção de ferrão, lavagem e compressa fria.
+Prática consolidada de primeiros socorros. Resumo operacional, não
+substitui treinamento.

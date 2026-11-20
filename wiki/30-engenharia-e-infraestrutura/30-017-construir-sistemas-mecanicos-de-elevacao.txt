@@ -1,0 +1,94 @@
+==============================================================================
+CODIGO: 30-017
+TITULO: Como construir sistemas mecânicos de elevação
+CATEGORIA: 30 - Engenharia e infraestrutura básica
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: madeira ou tubo, corda ou cabo, polias, ferramentas básicas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: elevar, levantar, polia, alavanca, talha, tripé, cabo, carga
+==============================================================================
+
+OBJETIVO
+--------
+Montar um sistema com alavanca, polia e tripé para levantar e abaixar cargas
+pesadas com segurança e controle.
+
+QUANDO USAR
+-----------
+Quando for preciso erguer um objeto pesado sem guindaste nem energia.
+Para levantar vigas, motores, pedras ou tanques em obra ou resgate.
+Para içar ferramentas, madeira ou água para um nível superior.
+Para remover troncos ou entulho e desobstruir um caminho.
+
+NAO USE QUANDO
+--------------
+Nunca para levantar, suspender ou transportar pessoas.
+Não use perto de rede elétrica energizada; corda molhada conduz choque.
+Não use se a carga exceder o que a estrutura, a corda e o solo suportam.
+Não use se a corda estiver desfiada, torcida, mofada ou com nós cortantes.
+
+MATERIAIS
+---------
+- Três pernas de madeira maciça ou tubo sem rachadura (troncos retos).
+- Cabo de aço ou corda sintética íntegra (corda de alpinismo sem uso).
+- Polias ou roldanas com pino e suporte íntegros (roldana de metal).
+- Alavanca de barra de ferro ou madeira dura (pé de cabra).
+- Cunha ou cepo firme para servir de fulcro (pedra grande).
+- Cinta, gancho ou corda fina para prender a carga (cinta de amarração).
+- Estacas e corda para isolar a área de trabalho (pedras ou galhos).
+- Luvas de couro, capacete e calçado fechado.
+- Ferramentas básicas: serra, furadeira, chave e martelo.
+
+PROCEDIMENTO
+------------
+1. Escolha terreno plano e firme, longe de passagem de pessoas e de fios.
+2. Confira a carga e use apenas material que você confia suportar o peso.
+3. Una três pernas no topo com amarração firme para formar o tripé.
+4. Afaste os pés aproximadamente 1 metro entre si e calce com pedras.
+5. Passe a corda pela polia superior e prenda uma ponta no topo do tripé.
+6. Prenda a outra ponta na carga com cinta ou gancho, sem torcer a corda.
+7. Isole a área com estacas: ninguém entra sob a carga ou entre as pernas.
+8. Teste erguendo a carga aproximadamente 5 cm e verificando o tripé.
+9. Puxe a ponta livre de forma lenta e contínua, sem trancos.
+10. Para multiplicar a força, use uma roldana móvel presa à carga.
+11. Ao chegar na altura desejada, prenda a ponta livre com volta dupla.
+12. Apoie a carga em suporte firme e cunhe antes de soltar a corda.
+13. Para descer, afrouxe a corda aos poucos e nunca deixe a carga cair.
+14. Inspecione corda, polias e pés do tripé antes de cada novo uso.
+
+ATENCAO
+-------
+A carga suspensa pode cair e esmagar: nunca fique sob ela nem deixe outra
+pessoa ficar. O que mata é a queda da carga, o estouro da corda e o colapso
+do tripé. Corda desgastada, desfiada ou com nó mal feito rompe sem aviso.
+Superestimar a resistência do material é o erro mais comum: na dúvida,
+reduza a carga. Solo mole ou perna torta derruba o tripé; cesse o uso se o
+solo ceder. Nunca improvise perto de rede energizada, pois a corda pode
+encostar no fio e matar por choque. Puxar com tranco ou em ângulo muito
+aberto aumenta a tensão e rompe o cabo. Pare se ouvir estalo, ver fibra
+desfiando ou a estrutura inclinando; afaste todos e refaça com material
+íntegro. Este texto não substitui equipamento certificado nem treinamento.
+
+SE NAO TIVER
+------------
+Sem cabo de aço, use corda sintética nova e seca e reduza a carga.
+Sem polia, passe a corda por um cilindro liso preso no topo; o desgaste
+aumenta e é preciso mais força. Sem tripé, use uma viga firme apoiada em
+dois cavaletes travados, nunca em árvore de resistência duvidosa.
+Sem alavanca de ferro, use madeira dura grossa; se ela rachar, pare.
+Se o substituto não inspirar confiança, não levante: peça ajuda.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A carga subiu alguns centímetros e ficou parada, sem tremer, com a corda
+esticada e o tripé firme, sem afundar nem inclinar.
+
+FONTES
+------
+Norma Regulamentadora 11 (NR-11) do Ministério do Trabalho e Emprego, sobre
+transporte, movimentação, armazenagem e manuseio de cargas: dimensionamento
+de cabos, capacidade de equipamentos de elevação, estabilidade e proibição
+de pessoas sob carga suspensa. Demais passos vêm da prática consolidada de
+movimentação manual com alavanca, polia e talha. Resumo operacional, não
+substitui treinamento nem certificação.

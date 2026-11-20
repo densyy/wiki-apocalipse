@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 29-001
+TITULO: Como utilizar um computador sem internet
+CATEGORIA: 29 - Tecnologia, computação e informática offline
+TEMPO: 20 minutos
+RISCO: baixo
+EXIGE: computador carregado, unidade USB, arquivos e manuais locais
+REVISAO: 2026-11
+PALAVRAS-CHAVE: computador, offline, sem internet, usb, bateria, arquivos
+==============================================================================
+
+OBJETIVO
+--------
+Usar o computador, os arquivos e os programas sem nenhuma conexão.
+
+QUANDO USAR
+-----------
+Quando a internet cair e o trabalho precisar continuar.
+Quando a energia estiver instável e for preciso poupar bateria.
+Quando os documentos estiverem salvos apenas no computador.
+
+NAO USE QUANDO
+--------------
+Quando a tarefa exigir dados em tempo real, como mapas e avisos.
+Quando os arquivos existirem só na nuvem e não houver cópia local.
+
+MATERIAIS
+---------
+- Computador com bateria carregada (ou fonte estável).
+- Unidade USB para passar arquivos (ou disco externo).
+- Pasta com documentos, manuais e programas já salvos.
+- Caderno e lápis para anotar pendências.
+
+PROCEDIMENTO
+------------
+1. Carregue a bateria por completo antes da queda de energia.
+2. Desconecte o cabo de rede e desligue o Wi-Fi.
+3. Reduza o brilho da tela para poupar bateria.
+4. Ative o modo de economia de energia do sistema.
+5. Feche os programas que não estiver usando.
+6. Abra os arquivos e manuais salvos no computador.
+7. Copie os documentos importantes para a unidade USB.
+8. Abra a cópia na USB para conferir se os arquivos estão íntegros.
+9. Desligue o computador ao terminar para preservar a bateria.
+
+ATENCAO
+-------
+Sem internet, serviços em nuvem e contas online não funcionam.
+Arquivos salvos só na nuvem ficam inacessíveis até a conexão voltar.
+A bateria acaba rápido com a tela clara e muitos programas abertos.
+Passar arquivos pela USB pode espalhar vírus entre computadores.
+Desconecte da tomada durante quedas de energia para evitar surtos.
+
+SE NAO TIVER
+------------
+Sem USB, use disco externo ou cartão de memória disponível.
+Sem energia, reduza ao mínimo o tempo ligado e use a luz do dia.
+Sem manuais salvos, anote as dúvidas e confie só no que já sabe.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O computador abriu arquivos e programas sem erro de conexão.
+A cópia na USB abriu e mostrou o mesmo conteúdo do original.
+
+FONTES
+------
+Prática consolidada de uso de computador isolado, sem conexão.
+Guias Get Tech Ready e Power Outages da FEMA (Estados Unidos):
+carregar dispositivos antes da queda, reduzir o uso para poupar
+bateria e guardar documentos em unidade USB protegida.

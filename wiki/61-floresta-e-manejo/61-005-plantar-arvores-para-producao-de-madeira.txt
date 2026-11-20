@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 61-005
+TITULO: Como plantar árvores para produção de madeira
+CATEGORIA: 61 - Agricultura florestal e manejo de ecossistemas
+TEMPO: 2 dias de trabalho ativo
+RISCO: medio
+EXIGE: mudas sadias, agua, enxada, estacas, cordel, adubo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: madeira, árvore, muda, plantio, reflorestamento, eucalipto
+==============================================================================
+
+OBJETIVO
+--------
+Implantar um talhao de arvores que produza madeira util nos anos seguintes.
+
+QUANDO USAR
+-----------
+Quando ha terra disponivel e agua para manter as mudas nos primeiros meses.
+Quando se quer madeira para lenha, postes, moiroes ou serraria.
+Quando uma area degradada precisa de cobertura arvorea com uso economico.
+Quando o objetivo e produzir madeira sem desmatar floresta nativa.
+
+NAO USE QUANDO
+--------------
+Quando a area for APP ou Reserva Legal sem orientacao do orgao ambiental.
+Quando nao ha agua disponivel para regar as mudas na estacao seca.
+Quando a especie escolhida e invasora ou nao se adapta ao clima local.
+Quando o solo esta alagado, muito compactado ou erodido sem correcao.
+
+MATERIAIS
+---------
+- Mudas sadias de 15 a 25 cm de altura, de especie adaptada (ou sementes).
+- Enxada ou enxadeco para abrir covas de aproximadamente 30 cm.
+- Cordel e estacas para marcar as linhas e os pontos de plantio.
+- Agua limpa para regar cada muda logo apos o plantio.
+- Adubo organico decomposto ou mineral, conforme analise do solo.
+- Faca ou tesoura para retirar saco ou tubete sem danificar as raizes.
+
+PROCEDIMENTO
+------------
+1. Defina o uso da madeira: lenha, postes, moiroes ou serraria.
+2. Escolha especie adaptada ao clima e ao solo da sua regiao.
+3. Confira a legislacao local antes de plantar em APP ou Reserva Legal.
+4. Limpe a area de mato, mantendo terra coberta nas encostas.
+5. Controle formigas cortadeiras com isca registrada, longe de agua.
+6. Marque linhas paralelas com cordel e estacas, a 3 m uma da outra.
+7. Marque os pontos de plantio a 2 m uns dos outros sobre cada linha.
+8. Abra covas de aproximadamente 30 cm de lado e de profundidade.
+9. Misture o adubo com a terra retirada do fundo de cada cova.
+10. Retire o saco ou tubete da muda sem desfazer o torrao de raizes.
+11. Coloque a muda no centro da cova, com o colo no nivel da terra.
+12. Cubra as raizes e aperte a terra com as maos ao redor da muda.
+13. Regue cada muda logo apos o plantio, se nao chover no mesmo dia.
+14. Repita o plantio nas covas vazias na proxima estacao chuvosa.
+15. Capine ao redor das mudas nos primeiros meses, sem cortar as raizes.
+
+ATENCAO
+-------
+Plantio feito sem cuidado causa perda de mudas e exige refazer o trabalho.
+Nao enterre o colo da muda nem deixe raizes expostas ao ar.
+Adubo em excesso ou mal misturado queima as raizes da muda.
+Eucalipto e pinus podem se espalhar para areas naturais; controle sempre.
+Nao plante em APP ou Reserva Legal sem orientacao do orgao ambiental.
+O plantio nao da madeira rapida: no eucalipto, lenha leva aproximadamente
+6 a 8 anos e madeira para serraria, 12 anos ou mais.
+Fogo e o maior risco: mantenha a area limpa e sem material inflamavel.
+Se mais da metade das mudas morrer no primeiro ano, procure ajuda tecnica.
+
+SE NAO TIVER
+------------
+Sem mudas compradas, produza mudas proprias com sementes de arvores locais.
+Sem adubo mineral, use composto organico bem decomposto misturado a terra.
+Sem cordel, meça as distancias com passos ou com estacas de 3 m e 2 m.
+Sem agua na estacao seca, nao plante: nao existe substituto para a rega.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As mudas ficam verdes e com brotos novos apos a primeira chuva forte.
+O colo da muda esta no nivel da terra e o tronco permanece reto.
+A terra da cova esta firme, sem raizes expostas nem buracos alagados.
+Nao ha folhas murchas nem sinais de ataque de formigas nas mudas.
+
+FONTES
+------
+Pratica consolidada de silvicultura e reflorestamento no Brasil.
+Embrapa: cultivo de eucalipto, espacamento de 3 m x 2 m e 3 m x 3 m,
+cova manual de aproximadamente 30 cm e plantio no inicio das chuvas.
+Lei 12.651/2012, Codigo Florestal, sobre plantio e reflorestamento.
+Este texto e resumo operacional e nao substitui orientacao tecnica local.

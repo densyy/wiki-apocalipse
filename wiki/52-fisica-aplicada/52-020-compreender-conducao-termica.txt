@@ -1,0 +1,86 @@
+==============================================================================
+CODIGO: 52-020
+TITULO: Como compreender condução térmica
+CATEGORIA: 52 - Física aplicada e princípios fundamentais
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: água quente, colher de metal, pedaço de cera, pano seco
+REVISAO: 2026-11
+PALAVRAS-CHAVE: condução, calor, temperatura, condutividade, metal, isolante
+==============================================================================
+
+OBJETIVO
+--------
+Observar o calor passar por contato e entender a condução térmica.
+
+QUANDO USAR
+-----------
+Quando quiser entender por que a colher esquenta dentro da panela.
+Quando precisar escolher metal, madeira ou plástico para manusear calor.
+Quando quiser distinguir condução, convecção e radiação.
+Quando ensinar o conceito a outra pessoa com uma demonstração simples.
+Quando precisar entender por que isolantes reduzem a perda de calor.
+
+NAO USE QUANDO
+--------------
+Quando o calor viaja dentro de um fluido em movimento: aí é convecção.
+Quando não há contato e o calor chega por ondas: aí é radiação.
+Quando precisar de valores exatos de condutividade sem tabela ou medidor.
+Quando a peça estiver muito quente e não puder ser tocada com segurança.
+
+MATERIAIS
+---------
+- Uma colher de metal (ou um garfo).
+- Uma colher de madeira ou de plástico para comparar.
+- Uma barra ou arame de metal reto (para o teste da cera).
+- Água quente em uma xícara ou panela (ou fonte de calor moderado).
+- Um pedaço de cera ou manteiga.
+- Um pano seco para segurar a parte quente.
+
+PROCEDIMENTO
+------------
+1. Encha a xícara com água quente até cerca da metade.
+2. Mergulhe só a ponta da colher de metal na água.
+3. Espere alguns segundos sem mexer na colher.
+4. Aproxime o dorso da mão do cabo, perto da água.
+5. Sinta o calor que subiu pela ponta até o cabo.
+6. Retire a colher e repita o teste com a colher de madeira.
+7. Compare: o cabo de metal esquenta antes que o de madeira.
+8. Cole três pedaços de cera ao longo da barra de metal.
+9. Mergulhe só uma extremidade da barra na água quente.
+10. Veja a cera derreter primeiro no ponto mais perto da água.
+11. Observe o derretimento avançar para os pontos mais distantes.
+12. Aproxime a mão da lateral da xícara e sinta o calor na parede.
+13. Guarde a colher de metal no pano seco e deixe esfriar.
+
+ATENCAO
+-------
+Condução é o calor que passa por contato, sem o material se deslocar.
+A direção é sempre do mais quente para o mais frio, até equilibrar.
+A quantidade de calor depende da área, da diferença de temperatura e da
+espessura: quanto mais espessa a parede, mais devagar passa o calor.
+Metais conduzem bem; madeira, plástico, ar e água conduzem mal.
+O cabo de metal pode ficar mais quente do que parece: use o pano seco.
+Não encoste superfície muito quente: pode queimar a pele.
+
+SE NAO TIVER
+------------
+Sem cera, use manteiga ou gordura para marcar os pontos da barra.
+Sem barra de metal, use a própria colher ou um garfo como condutor.
+Sem água quente, esfregue as mãos e encoste a ponta do metal na pele.
+Sem colher de madeira, compare metal com plástico ou com um pano.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O cabo da colher de metal fica quente sem encostar na água.
+A cera derrete primeiro no ponto mais perto da fonte de calor.
+A colher de madeira esquenta bem menos que a de metal no mesmo tempo.
+A pessoa consegue dizer que o calor passou de ponto em ponto no material.
+
+FONTES
+------
+Manual de Fundamentos de Termodinâmica e Transferência de Calor do
+Departamento de Energia dos Estados Unidos, capítulo de condução.
+Aula "Condução do calor" do Portal do Professor do Ministério da
+Educação, colégio de aplicação da UFV, 2011.
+Prática consolidada de ensino de física, sem documento único.

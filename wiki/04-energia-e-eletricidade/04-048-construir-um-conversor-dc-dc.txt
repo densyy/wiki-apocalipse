@@ -1,0 +1,86 @@
+==============================================================================
+CODIGO: 04-048
+TITULO: Como construir um conversor DC-DC
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: bateria 12 V, modulo abaixador, multimetro, fusivel
+REVISAO: 2026-11
+PALAVRAS-CHAVE: conversor, tensao, bateria, 5v, usb, energia, abaixador
+==============================================================================
+
+OBJETIVO
+--------
+Montar um conversor abaixador com modulo pronto para obter 5 V
+a partir de bateria de 12 V e alimentar aparelhos pequenos.
+
+QUANDO USAR
+-----------
+Quando a bateria e de 12 V e o aparelho precisa de 5 V.
+Quando for preciso carregar celular a partir de bateria comum.
+Quando for preciso alimentar radio, lanterna ou ventoinha de 5 V.
+Quando houver modulo abaixador ajustavel disponivel.
+
+NAO USE QUANDO
+--------------
+Em rede da rua, tomada, poste ou qualquer fio energizado.
+Com bateria estufada, quente, vazando ou com cheiro forte.
+Em local molhado, com as maos molhadas ou sob chuva.
+Se nao houver multimetro para conferir a saida antes de ligar.
+
+MATERIAIS
+---------
+- Modulo conversor abaixador ajustavel (o coracao do conversor).
+- Bateria de 12 V carregada (automotiva, estacionaria ou selada).
+- Multimetro funcionando, na escala de tensao continua.
+- Fusivel de aproximadamente 2 A com porta-fusivel.
+- Fios vermelho e preto de cobre, com terminais firmes.
+- Chave de fenda pequena para o ajuste do modulo.
+- Fita isolante e tubo termorretratil ou conectores isolados.
+- Caixa plastica para fixar o conjunto (papelao nao serve).
+
+PROCEDIMENTO
+------------
+1. Desligue tudo e retire a carga da bateria antes de comecar.
+2. Identifique no modulo os bornes de entrada e de saida.
+3. Identifique os sinais de positivo e de negativo de cada borne.
+4. Ligue o porta-fusivel no fio positivo da entrada, perto da bateria.
+5. Ligue o fio positivo da bateria ao positivo da entrada do modulo.
+6. Ligue o negativo da bateria ao negativo da entrada do modulo.
+7. Gire o parafuso de ajuste ate a posicao media, sem forcar o fim.
+8. Ligue o multimetro na saida do modulo, ainda sem a carga.
+9. Ligue a bateria e leia a tensao de saida no multimetro.
+10. Gire o ajuste devagar ate o mostrador marcar aproximadamente 5 V.
+11. Desligue a bateria antes de ligar qualquer aparelho na saida.
+12. Ligue o aparelho na saida, respeitando positivo e negativo.
+13. Ligue a bateria e observe por um minuto antes de usar.
+14. Fixe modulo, fios e fusivel dentro da caixa plastica ventilada.
+
+ATENCAO
+-------
+O que mata aqui e o curto na bateria: faisca, fio derretido e fogo.
+Inversao de polaridade queima o modulo e o aparelho na hora.
+Nunca ligue a entrada na tomada nem emplaca solar sem controle.
+Saida acima de aproximadamente 5,5 V danifica celular e radio.
+Modulo quente a ponto de nao segurar indica excesso de carga: desligue.
+Faca o ajuste sempre sem a carga ligada na saida.
+Se sair fumaca ou cheiro de queimado, desligue e nao religue.
+
+SE NAO TIVER
+------------
+Sem multimetro, nao monte: tensao errada queima o aparelho.
+Sem fusivel, nao improvise com arame: o risco de incendio aumenta.
+Sem modulo abaixador, nao tente enrolar bobina nem improvisar circuito.
+Sem caixa plastica, fixe sobre madeira seca, longe de metal e de pano.
+Sem terminais, torca bem o cobre, aperte e isole cada emenda.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O multimetro marca aproximadamente 5 V estaveis na saida.
+O modulo fica morno, sem fumaca, sem cheiro e sem chiado.
+O aparelho liga e carrega de forma normal, sem aquecer demais.
+
+FONTES
+------
+Pratica consolidada de eletronica basica com modulos prontos,
+sem documento unico.

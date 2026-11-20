@@ -1,0 +1,97 @@
+==============================================================================
+CODIGO: 13-012
+TITULO: Como entender o funcionamento do pH
+CATEGORIA: 13 - Química e conhecimentos científicos aplicados
+TEMPO: 20 minutos
+RISCO: alto
+EXIGE: fitas indicadoras ou medidor, luvas, recipiente limpo, amostra
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ph, acidez, alcalino, neutro, escala, fita, água, logaritmo
+==============================================================================
+
+OBJETIVO
+--------
+Interprete um numero de pH e diga se uma substancia e acida, neutra ou
+basica, e o que isso muda no uso seguro dela.
+
+QUANDO USAR
+-----------
+Quando encontrar um frasco sem rotulo e precisar saber se e acido ou basico.
+Quando testar agua de poço, de chuva ou de rio antes de usar.
+Quando quiser entender porque um produto limpa, corrói ou queima.
+Quando comparar dois liquidos e os numeros de pH parecerem parecidos.
+Quando ler em um rotulo uma faixa de pH e precisar julgar o risco.
+
+NAO USE QUANDO
+--------------
+Quando o liquido for desconhecido e puder ser corrosivo: nao toque, nao
+prove e nao cheire; use protecao e peca ajuda.
+Quando nao houver fita ou medidor: nao adivinhe o pH pelo aspecto.
+Quando quiser saber se a agua e potavel: o pH nao prova ausencia de
+micro-organismos e nao substitui a analise da agua.
+
+MATERIAIS
+---------
+- Fitas indicadoras de pH ou medidor eletronico (comparador de cores).
+- Recipiente limpo de vidro ou plastico para a amostra.
+- Luvas de nitrilo ou borracha (luvas de pano nao protegem).
+- Agua destilada para enxagues (agua limpa conhecida).
+- Caderno e lapis para anotar a leitura.
+- Boa iluminacao para comparar a cor da fita.
+
+PROCEDIMENTO
+------------
+1. Coloque as luvas e trabalhe em local arejado.
+2. Observe a amostra sem cheirar: veja cor e presenca de sedimentos.
+3. Despeje uma porcao da amostra no recipiente limpo.
+4. Mergulhe a fita na amostra pelo tempo indicado na embalagem.
+5. Retire a fita e compare a cor com a escala do fabricante sob boa luz.
+6. Anote o numero de pH lido no caderno.
+7. Compare o numero com sete: menor que sete indica acidez.
+8. Compare o numero com sete: maior que sete indica basicidade.
+9. Registre neutro quando o numero for igual a sete.
+10. Meça a distancia do numero ate sete: quanto maior, mais forte o efeito.
+11. Aplique a regra dos dez: cada ponto de diferenca vale 10 vezes.
+12. Leia pares: pH 5 e 10 vezes mais acido que pH 6.
+13. Leia pares: pH 4 e 100 vezes mais acido que pH 6.
+14. Enxague o medidor com agua destilada entre uma amostra e outra.
+15. Lave as maos com agua e sabao ao terminar.
+
+ATENCAO
+-------
+A escala vai de 0 a 14; agua pura fica perto de 7, considerado neutro.
+O erro mais comum e tratar a escala como linear: um ponto nao e um passo
+pequeno, e 10 vezes mais acidez ou basicidade.
+Subestimar essa diferenca pode levar a manusear um liquido corrosivo.
+Fitas dao valor aproximado: leia uma faixa, nunca um numero exato.
+O pH expressa acidez; um valor alto nao prova que a substancia e segura.
+Nao prove nem cheire liquido desconhecido para testar o pH.
+A temperatura e o tempo ao ar mudam o resultado: meça logo apos coletar.
+Se a fita nao mudar de cor ou a leitura oscilar, pare e troque o material.
+Em respingo nos olhos ou na pele, lave com agua corrente abundante e
+procure atendimento.
+
+SE NAO TIVER
+------------
+Sem fita ou medidor, separe apenas o que e claro: vinagre e limao sao
+acidos; detergente e amonia sao basicos. Nao atribua numero nesse caso.
+Sem agua destilada, enxague o medidor com agua limpa de referencia.
+Nunca reutilize uma fita ja usada.
+Sem luvas, nao manipule liquido desconhecido: espere obter protecao.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A cor da fita corresponde a uma faixa definida na escala do fabricante.
+Duas leituras da mesma amostra caem na mesma faixa.
+A classificacao combina com o material: agua pura perto de 7, vinagre
+bem abaixo de 7, detergente acima de 7.
+
+FONTES
+------
+EPA (Agencia de Protecao Ambiental dos Estados Unidos): "What is pH?" e
+"5.4 pH", do guia de monitoramento de agua: escala de 0 a 14, neutro 7 e
+variacao de 10 vezes por unidade.
+NOAA (Administracao Nacional Oceanica e Atmosferica dos Estados Unidos):
+"A primer on pH": definicao pH = -log[H+] e mudanca de 10 vezes por unidade.
+USGS (Servico Geologico dos Estados Unidos): "pH Scale": escala de 0 a 14
+e cada numero vale 10 vezes a acidez do numero seguinte.

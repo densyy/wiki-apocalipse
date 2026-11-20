@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 32-019
+TITULO: Como utilizar moldagem em areia
+CATEGORIA: 32 - Produção industrial e manufatura artesanal
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: areia sílica, bentonita, água, modelo, caixa, cadinho e metal
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fundição, areia verde, molde, bentonita, cadinho, vazar
+==============================================================================
+
+OBJETIVO
+--------
+Formar molde de areia em torno de um modelo e vazar metal para obter a peça.
+
+QUANDO USAR
+-----------
+Quando precisar de peça metálica simples e não houver fundição perto.
+Quando houver uma peça lisa para servir de modelo.
+Quando houver forno, cadinho íntegro e metal sucata disponíveis.
+
+NAO USE QUANDO
+--------------
+Sem cadinho íntegro e seco, não tente vazar metal.
+Sem ventilação no local, não faça fundição: fumaça e gases ficam presos.
+Sem prática com metal fundido, não trabalhe sozinho na primeira vez.
+
+MATERIAIS
+---------
+- Areia de sílica fina e limpa (areia de praia peneirada, sem sal).
+- Bentonita em pó (argila de gato sem perfume e sem aditivos).
+- Água limpa.
+- Modelo liso da peça, um pouco maior que a peça final.
+- Caixa de moldagem rígida em duas partes e placa lisa de apoio.
+- Pó separador (talco ou areia finíssima e seca).
+- Bastão para o canal de entrada e faca de moldar.
+- Arame fino para respiradouros e régua para raspar.
+- Cadinho de grafite ou aço íntegro e completamente seco.
+- Metal para fundir, fonte de calor e pesos para prender a caixa.
+- Luvas térmicas, óculos de proteção e avental de couro.
+
+PROCEDIMENTO
+------------
+1. Peneire a areia para retirar pedras, folhas e grumos.
+2. Misture aproximadamente 90 partes de areia com 10 de bentonita.
+3. Adicione água aos poucos, em torno de 3% do peso da mistura.
+4. Amasse até ficar uniforme, sem grumos de argila.
+5. Aperte um punhado: deve quebrar sem grudar nos dedos.
+6. Se desmoronar, acrescente água; se grudar, acrescente areia seca.
+7. Polvilhe pó separador na placa e no modelo.
+8. Coloque a caixa inferior sobre a placa, com o modelo dentro.
+9. Cubra o modelo com areia e compacte em camadas finas.
+10. Encha a caixa inferior e raspe o excesso com a régua.
+11. Fure respiradouros com arame até perto do modelo.
+12. Vire a caixa inferior e retire a placa.
+13. Polvilhe pó separador na superfície e no modelo.
+14. Encaixe a caixa superior e coloque o bastão do canal.
+15. Encha, compacte, raspe e retire o bastão do canal.
+16. Fure respiradouros na caixa superior e separe as caixas.
+17. Retire o modelo sem raspar as paredes da cavidade.
+18. Abra um canal da entrada até a cavidade com a faca.
+19. Feche as caixas, alinhe as marcas e prenda com pesos.
+20. Aqueça o cadinho vazio até secar e coloque o metal.
+21. Derreta até ficar líquido e despeje no canal em jato contínuo.
+22. Espere solidificar, abra a caixa, quebre a areia e retire a peça.
+
+ATENCAO
+-------
+Metal fundido mata ou deixa sequela: nunca use cadinho molhado ou rachado.
+Cadinho, colher ou sucata molhada causam explosão de vapor e projetam metal.
+Areia muito úmida gera vapor preso que pode expulsar metal pela abertura.
+Sem respiradouros, gases ficam presos e a peça sai furada ou estourada.
+Use luvas térmicas, óculos e avental; jamais tecido sintético.
+Nunca coloque sucata com tinta, óleo ou plástico no cadinho.
+Se o cadinho vazar ou pegar fogo, afaste-se e deixe esfriar sozinho.
+Em queimadura com roupa grudada, não puxe: procure atendimento.
+
+SE NAO TIVER
+------------
+Sem bentonita, use argila de modelar sem aditivos; a peça ficará rugosa.
+Sem caixa metálica, use madeira grossa reforçada com pregos.
+Sem cadinho próprio, não improvise com lata comum: ela pode furar e vazar.
+Sem modelo próprio, use peça real lisa e resistente como molde.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A areia apertada na mão quebra com bordas firmes e não gruda nos dedos.
+A cavidade mantém os contornos do modelo depois da retirada.
+O metal encheu a cavidade e a peça saiu com o formato do modelo.
+
+FONTES
+------
+Processo descrito em apostilas de fundição da UFPR e da UTFPR e em
+trabalho da UFRGS sobre areia de fundição. A sequência de moldagem
+vem do manual de fundição do Corpo de Engenheiros do Exército dos EUA
+e das demonstrações da American Foundry Society. As regras de
+segurança vêm do guia de tecnologia de fundição do SLIET, na Índia.
+Resumo operacional; não substitui treinamento prático com metal fundido.

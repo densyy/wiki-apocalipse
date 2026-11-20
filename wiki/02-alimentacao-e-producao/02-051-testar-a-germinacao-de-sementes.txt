@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 02-051
+TITULO: Como testar a germinação de sementes
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 20 minutos
+RISCO: baixo
+EXIGE: sementes, papel-toalha firme, água limpa, saco plástico, recipiente
+REVISAO: 2026-11
+PALAVRAS-CHAVE: semente, germinação, teste, broto, raiz, papel, umidade
+==============================================================================
+
+OBJETIVO
+--------
+Medir quantas sementes do lote brotam, antes de gastar o plantio.
+
+QUANDO USAR
+-----------
+Quando as sementes ficaram guardadas de uma safra anterior.
+Quando o lote veio de troca, doação ou colheita própria.
+
+NAO USE QUANDO
+--------------
+Não use sementes mofadas, com cheiro podre ou tratadas com veneno sem luva.
+
+MATERIAIS
+---------
+- 100 sementes do lote (50 se forem grandes).
+- Papel-toalha firme (papel de filtro ou mata-borrão).
+- Água limpa (potável ou mineral).
+- Saco plástico ou recipiente com tampa, etiqueta e caneta.
+
+PROCEDIMENTO
+------------
+1. Misture bem as sementes do lote antes de tirar a amostra.
+2. Retire 100 sementes ao acaso, sem escolher as mais bonitas.
+3. Umedeça duas folhas de papel-toalha com água limpa.
+4. Esprema o papel até não pingar água.
+5. Espalhe as sementes em linhas sobre uma folha, sem se tocarem.
+6. Cubra com a outra folha úmida, sem apertar as sementes.
+7. Enrole as folhas frouxamente para entrar ar entre elas.
+8. Coloque o rolo no saco ou no recipiente e feche.
+9. Escreva a data e o nome da semente na etiqueta.
+10. Guarde em temperatura ambiente estável, longe do sol direto.
+11. Abra o rolo uma vez por dia e umedeça se o papel secar.
+12. Conte os brotos a partir do terceiro dia e anote a data.
+13. Repita a contagem a cada três dias, até o décimo quarto dia.
+14. Considere germinada a semente com a raiz branca visível.
+15. Não conte os brotos murchos, podres ou sem raiz.
+16. Com 100 sementes, cada broto vale um por cento.
+
+ATENCAO
+-------
+A primeira raiz, chamada radícula, é o sinal de germinação.
+Papel encharcado apodrece a semente e impede a entrada de ar.
+Escolher só sementes bonitas superestima o resultado do teste.
+
+SE NAO TIVER
+------------
+Sem papel-toalha firme, use papel de filtro ou algodão limpo.
+Evite jornal e papel com tinta, que podem conter resíduos tóxicos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Raiz branca aparece saindo da casca em parte das sementes.
+O papel fica úmido, sem poça, e a contagem está anotada.
+Com 50 sementes, cada broto vale dois por cento.
+
+FONTES
+------
+RAS 2025 do MAPA (capítulo 4); Embrapa; regras ISTA; USDA-NRCS; UAF.

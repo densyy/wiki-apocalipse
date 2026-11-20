@@ -1,0 +1,86 @@
+==============================================================================
+CODIGO: 81-004
+TITULO: Como construir um forno para produção de cal
+CATEGORIA: 81 - Engenharia térmica e fornos industriais
+TEMPO: 2 dias
+RISCO: alto
+EXIGE: pedra calcária, tijolos refratários, lenha, água
+REVISAO: 2026-11
+PALAVRAS-CHAVE: cal, calcário, forno, calcinar, argamassa, lenha
+==============================================================================
+
+OBJETIVO
+--------
+Construir um forno para calcinar calcário e produzir cal para argamassa.
+
+QUANDO USAR
+-----------
+Quando se precisa de cal para reboco, argamassa ou tratamento de solo.
+Ao aproveitar calcário disponível perto da obra.
+Quando a cal comprada é cara ou difícil de conseguir.
+Para produzir cal em pequena escala, com fogo de lenha.
+
+NAO USE QUANDO
+--------------
+Não faça sem chaminé e sem espaço aberto ao redor.
+Não use calcário com impurezas orgânicas ou solo sujo.
+Não opere sem proteção para olhos, pele e vias respiratórias.
+Não manusear cal viva sem água e sem luva grossa por perto.
+
+MATERIAIS
+---------
+- Pedra calcária limpa, quebrada em pedaços de tamanho irregular.
+- Tijolos refratários para revestir a câmara.
+- Barro ou argila refratária para assentamento.
+- Chaminé com altura suficiente (duto metálico ou de alvenaria).
+- Lenha seca não tratada (combustível limpo).
+- Pá, marreta e balde de água.
+- Luvas de couro, óculos, máscara e avental.
+
+PROCEDIMENTO
+------------
+1. Escolha local firme, plano, afastado de madeira e telhados.
+2. Faça base nivelada de alvenaria ou concreto.
+3. Construa a câmara com parede externa de tijolo comum.
+4. Revista o interior com tijolos refratários.
+5. Abra a porta de descarga na parte baixa da câmara.
+6. Instale chaminé vedada e mais alta que o telhado próximo.
+7. Quebre o calcário em pedaços que caibam na câmara.
+8. Coloque uma camada de lenha no fundo, depois uma de pedra.
+9. Alterne camadas de lenha e calcário até encher sem apertar.
+10. Acenda o fogo pela entrada de ar e deixe pegar devagar.
+11. Mantenha o fogo forte e contínuo por várias horas.
+12. Observe a chama e a cor da pedra ao longo da queima.
+13. Desligue o fogo e deixe a câmara esfriar antes de abrir.
+14. Retire a cal com pá, usando luva e máscara.
+15. Guarde a cal em local seco e separada da umidade.
+
+ATENCAO
+-------
+A cal viva reage com água e libera calor suficiente para queimar a pele.
+Nunca molhe a cal viva dentro do balde fechado: o vapor pode espirrar.
+Pó de cal irrita olhos e pulmões: use máscara e óculos sempre.
+Gases do forno são quentes e venenosos; mantenha a chaminé livre.
+Calcário úmido gasta mais lenha e pode não calcinar por inteiro.
+Nunca abra a porta com fogo ainda forte: o choque pode espalhar cinza.
+Em contato com a pele, lave com muita água e procure atendimento.
+
+SE NAO TIVER
+------------
+Sem tijolo refratário, use barro refratário espesso por poucas queimas.
+Sem chaminé adequada, não produza cal em espaço fechado.
+Sem lenha seca, não use óleo, gasolina ou pneus: contaminam a cal.
+Sem máscara, não manuseie a cal em pó: espere e peça o equipamento.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A pedra saiu porosa, leve e fácil de quebrar com a pá.
+Ao molhar uma amostra, ela esquenta e desfaz em pó fino.
+Não sobraram pedras duras com miolo sem calcinar.
+A chaminé não devolveu fumaça para o ambiente.
+
+FONTES
+------
+Prática consolidada de fabricação artesanal de cal e calcinação de
+calcário em fornos de lenha, sem documento normativo único. Referências
+correntes de segurança no manuseio de cal viva e de alvenaria refratária.

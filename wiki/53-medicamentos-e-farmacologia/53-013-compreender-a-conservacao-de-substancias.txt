@@ -1,0 +1,104 @@
+==============================================================================
+CODIGO: 53-013
+TITULO: Como compreender a conservação de substâncias farmacêuticas
+CATEGORIA: 53 - Produção de medicamentos e farmacologia
+TEMPO: 35 minutos
+RISCO: medio
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: conservação, validade, calor, umidade, luz, geladeira
+==============================================================================
+
+OBJETIVO
+--------
+Entender como calor, umidade e luz alteram um medicamento e ler as regras
+de conservação da bula e do rótulo.
+
+QUANDO USAR
+-----------
+Ao guardar remédios em casa, em viagem ou sem energia elétrica.
+Ao ler no rótulo avisos de calor, luz ou umidade.
+Ao encontrar um frasco fora da temperatura indicada na bula.
+Ao tirar comprimidos da embalagem original ou dividir um frasco.
+Ao conferir prazos de validade ao organizar o armário.
+
+NAO USE QUANDO
+--------------
+Não use para escolher remédio, dose ou horário de tomada.
+Não substitui bula, prescrição nem orientação do farmacêutico.
+Não serve para recuperar um produto vencido ou que congelou.
+Não determina por conta própria se um medicamento ainda é válido.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Entenda estabilidade: é a capacidade do produto de manter suas
+   propriedades ao longo do tempo.
+2. Entenda que o estudo de estabilidade define o prazo de validade e as
+   condições de armazenamento do medicamento.
+3. Leia o rótulo: traz o prazo de validade e as condições de guarda.
+4. Leia o item 5 da bula, sobre onde, como e por quanto tempo guardar.
+5. Saiba que temperatura ambiente vai de aproximadamente 15 a 30 graus.
+6. Guarde em local fresco, seco, ao abrigo da luz e fora do alcance de
+   crianças.
+7. Evite cozinha perto do fogão, banheiro e interior do carro.
+8. Mantenha o produto na embalagem original, chamada embalagem primária.
+9. Entenda que a estabilidade é garantida nessa embalagem, não em outra.
+10. Não transfira remédios para frascos de outros líquidos.
+11. Respeite proteger do calor: não exponha ao sol, ao carro ou ao fogão.
+12. Respeite proteger da luz: não retire da embalagem nem use frasco
+    transparente.
+13. Respeite proteger da umidade: mantenha longe de vapor e umidade.
+14. Entenda hidrólise: é a quebra da molécula pela água, comum em ácido
+    acetilsalicílico, amoxicilina e penicilina.
+15. Entenda oxidação e fotoestabilidade: oxigênio e luz alteram o ativo,
+    como em retinol e furosemida.
+16. Trate produtos termolábeis, sensíveis ao calor, com cuidado extra.
+17. Guarde os que pedem geladeira entre aproximadamente 2 e 8 graus.
+18. Nunca congele insulina e outros produtos que não toleram congelamento.
+19. Anote a data de abertura: depois de aberto o prazo pode cair.
+20. Siga o prazo após abertura da bula; se faltar, pergunte ao fabricante.
+21. Entenda que, vencido o prazo, qualidade, segurança e eficácia não
+    estão garantidas.
+22. Descarte com segurança o que venceu, congelou ou mudou de aspecto.
+
+ATENCAO
+-------
+Este texto ensina a compreender, não a recuperar medicamento danificado.
+Um produto fora da faixa da bula pode perder efeito sem mudar de aparência.
+Não confie em cheiro, cor ou sabor para decidir se ainda serve.
+Não use o mito de que serve até seis meses após o vencimento.
+Não guarde na porta da geladeira: a temperatura oscila mais nesse local.
+Não encoste a insulina diretamente no gelo ao transportar em isopor.
+Congelamento de insulina compromete a estrutura do produto: descarte-a.
+Exposição ao calor depende de tempo e tipo de produto; na dúvida, pergunte
+ao fabricante e não decida sozinho.
+
+SE NAO TIVER
+------------
+Sem bula, leia o rótulo da embalagem antes de guardar.
+Sem rótulo legível, não use o produto.
+Sem geladeira, mantenha o frasco lacrado em caixa térmica, sem gelo direto.
+Sem saber se congelou, descarte: não tente descongelar para usar.
+Sem prazo após aberto, pergunte ao fabricante ou ao farmacêutico.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue explicar o que são estabilidade, hidrólise e termolábil.
+Você aponta onde a bula informa prazo de validade e condições de guarda.
+Você sabe citar três locais impróprios para guardar remédios.
+Você reconhece que proteger da luz pede a embalagem original.
+
+FONTES
+------
+Anvisa, O que devemos saber sobre medicamentos, e Comunicado GGMON
+01/2023, sobre armazenamento de medicamentos.
+Anvisa, webinar Orientações sobre cuidados de conservação de
+medicamentos, com a Resolução RE 01/2005.
+Ministério da Saúde, Linhas de Cuidado: conservação da insulina, e
+cartilha sobre canetas aplicadoras de insulina, de 2025.
+OMS, TRS 1025, Anexo 7: Boas Práticas de Armazenamento e Distribuição.
+Resumo educativo; não substitui bula, prescrição nem orientação clínica.

@@ -1,0 +1,79 @@
+==============================================================================
+CODIGO: 67-019
+TITULO: Como utilizar controladores lógicos programáveis offline
+CATEGORIA: 67 - Robótica, automação e controle
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: CLP, computador com software local, cabo, fonte 24 V, multímetro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: clp, plc, controlador, lógica de escada, automação, offline
+==============================================================================
+
+OBJETIVO
+--------
+Programar e operar um CLP sem rede, com software e cabos apenas locais.
+
+QUANDO USAR
+-----------
+Quando a internet e a rede local não existem ou caíram.
+Para acionar bombas, motores e válvulas com lógica local.
+Ao testar o programa antes de ligar a máquina real.
+
+NAO USE QUANDO
+--------------
+Quando a máquina exige parada certificada: use CLP de segurança.
+Para controlar redes energizadas ou motores de alta tensão sem treino.
+Sem o manual do modelo: não adivinhe os endereços de E/S.
+
+MATERIAIS
+---------
+- CLP (computador industrial que controla máquinas).
+- Computador com o software do modelo (ou editor livre) e o cabo.
+- Fonte 24 V CC (ou a fonte original do CLP).
+- Multímetro e luvas isolantes com óculos de proteção.
+- Manual do modelo com o mapa de entradas e saídas.
+
+PROCEDIMENTO
+------------
+1. Desligue a máquina pela chave geral antes de abrir o quadro.
+2. Aplique bloqueio e etiqueta na chave por risco de religamento.
+3. Meça com o multímetro e confirme que não há tensão nos terminais.
+4. Leia o manual e anote cada entrada e saída (E/S).
+5. Instale o software no computador antes de ir ao campo, sem rede.
+6. Ligue o computador ao CLP com o cabo de programação.
+7. Crie o projeto, escolha o modelo e declare as E/S do manual.
+8. Use lógica de escada (LD): desenho de contatos e bobinas, como relés.
+9. Em série, os contatos fazem E; em paralelo, fazem OU.
+10. Crie uma bobina de parada que desative todas as saídas.
+11. Simule: acione cada entrada e observe a saída no software.
+12. Carregue pelo cabo, coloque em execução e teste um sensor por vez.
+13. Desligue e religue: o programa deve continuar gravado.
+
+ATENCAO
+-------
+Um CLP comum não é de segurança: falha dele pode não parar a máquina.
+Tensão de 220 V no quadro pode matar: nunca abra o quadro energizado.
+A parada no programa não substitui a chave física de emergência.
+Ao carregar o programa, uma saída pode ligar no primeiro instante.
+Capacitores e ar comprimido podem mover a máquina após o desligamento.
+Se o CLP esquentar ou cheirar a queimado, corte a energia e pare.
+
+SE NAO TIVER
+------------
+Sem software do fabricante, use editor livre com IEC 61131-3 (Beremiz).
+Confira se o editor aceita o modelo: nem todo CLP é compatível.
+Sem cabo original, não improvise a pinagem: compre o cabo correto.
+Sem fonte 24 V, não alimente o CLP direto da rede elétrica.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os LEDs de entrada acendem ao acionar cada sensor.
+A máquina repete a sequência sem empurrões manuais.
+Após desligar e religar, o programa continua gravado e atua igual.
+
+FONTES
+------
+PLCopen: associação dos padrões de programação IEC 61131-3.
+OSHA 1910.147: controle de energia perigosa e bloqueio de máquinas.
+Beremiz e OpenPLC: ferramentas livres executadas sem rede.
+Prática consolidada de comissionamento; resumo, não substitui treinamento.

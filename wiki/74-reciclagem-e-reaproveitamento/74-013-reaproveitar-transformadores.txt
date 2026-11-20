@@ -1,0 +1,97 @@
+==============================================================================
+CODIGO: 74-013
+TITULO: Como reaproveitar transformadores
+CATEGORIA: 74 - Economia circular e reaproveitamento
+TEMPO: 50 minutos
+RISCO: critico
+EXIGE: luvas de nitrilo, óculos, alicate isolado, recipiente com tampa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: transformador, reaproveitar, sucata, cobre, óleo, pcb
+==============================================================================
+
+OBJETIVO
+--------
+Reaproveitar com segurança a sucata de um transformador descartado,
+recuperando cobre e aço sem risco de choque ou contato com óleo tóxico.
+
+QUANDO USAR
+-----------
+Quando há transformador sucateado em desmontagem de instalação elétrica.
+Quando sobra equipamento velho de poste ou de obra para descarte.
+Quando se quer recuperar cobre e aço para vender como sucata.
+Quando falta peça metálica robusta para uso sem eletricidade.
+
+NAO USE QUANDO
+--------------
+Quando o aparelho estiver ligado à rede, a gerador ou a qualquer fonte.
+Nunca abra equipamento energizado.
+Quando houver suspeita de PCB: óleo escuro, etiqueta de aviso ou aparelho
+muito antigo. Nesse caso não abra, não reaproveite o óleo e busque descarte
+especializado.
+
+MATERIAIS
+---------
+- Luvas de nitrilo descartáveis. Sem elas, não abra o aparelho.
+- Óculos de proteção contra respingo de óleo.
+- Alicate isolado para 1000 volts (ou chave de fenda isolada).
+- Recipiente metálico com tampa para o óleo.
+- Pano absorvente ou serragem para limpar respingos.
+- Saco resistente para guardar o metal separado.
+- Etiqueta e caneta para identificar o óleo e a sucata.
+
+PROCEDIMENTO
+------------
+1. Desligue a chave geral e o disjuntor que alimentam o transformador.
+2. Deixe aviso escrito na chave: "não ligar, equipamento em serviço".
+3. Confirme que não há nenhuma ligação elétrica antes de tocar no aparelho.
+4. Se não tiver como confirmar, pare e chame um eletricista.
+5. Leia a etiqueta e observe o estado do óleo.
+6. Com sinal de PCB ou cheiro forte, pare e chame descarte especializado.
+7. Coloque as luvas de nitrilo e os óculos antes de abrir o aparelho.
+8. Abra a tampa de drenagem e deixe o óleo escorrer para o recipiente.
+9. Feche o recipiente e identifique como "óleo de transformador, não usar".
+10. Nunca derrame esse óleo no solo, na água, no ralo ou no fogo.
+11. Retire a carcaça e separe o enrolamento de cobre das chapas de aço.
+12. Retire papel e plástico isolante e separe do metal.
+13. Limpe o cobre e o aço, seque e guarde em saco identificado para sucata.
+14. Lave as mãos, os braços e as ferramentas com água e sabão ao terminar.
+
+ATENCAO
+-------
+- A eletricidade mata: nunca toque em parte de transformador ligado à rede.
+- Mesmo desligado, trate o aparelho como energizado até ter certeza.
+- Óleo antigo pode ter PCB, cancerígeno e persistente, que penetra a pele
+  e o látex. Não toque, não inale e não queime esse óleo.
+- Nunca use óleo de transformador como combustível, lubrificante ou óleo de
+  cozinha: pode causar intoxicação grave.
+- Nunca religue o transformador sucateado na rede nem o use como fonte de
+  energia: há risco de choque e incêndio.
+- Pare e peça ajuda se houver faísca, cheiro de queimado ou vazamento.
+  Em contato com a pele, lave com água e sabão e procure atendimento médico.
+
+SE NAO TIVER
+------------
+Sem luvas de nitrilo, não abra o aparelho: toque só na carcaça externa e
+encaminhe tudo para sucata.
+Sem recipiente fechado para o óleo, não drene: deixe o aparelho inteiro
+para descarte especializado.
+Sem saber a idade ou origem, trate como suspeito de PCB e não
+reaproveite nada além da carcaça externa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O aparelho está desligado, sinalizado e sem nenhuma ligação elétrica.
+O cobre e o aço estão separados, limpos, secos e em saco identificado.
+O óleo está em recipiente fechado, identificado e longe de animais.
+Não há óleo derramado no chão nem cheiro forte no local.
+
+FONTES
+------
+Agência de Proteção Ambiental dos EUA (EPA), programa de PCBs e lei TSCA
+sobre equipamentos elétricos.
+Agência Internacional para Pesquisa em Câncer (IARC), classificação de PCBs
+como cancerígenos para seres humanos.
+Prática consolidada de segurança elétrica: desenergizar e sinalizar antes de
+manusear qualquer equipamento.
+Resumo operacional: não substitui avaliação de eletricista nem do órgão
+ambiental competente.

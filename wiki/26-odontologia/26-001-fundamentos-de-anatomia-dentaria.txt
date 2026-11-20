@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 26-001
+TITULO: Como reconhecer os fundamentos da anatomia dentária
+CATEGORIA: 26 - Odontologia e saúde bucal
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: espelho, luz boa, papel e lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: dente, incisivo, canino, pré-molar, molar, esmalte
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer os grupos de dentes, suas partes e sua função na boca.
+
+QUANDO USAR
+-----------
+Quando precisar entender a boca de uma pessoa sem dentista por perto.
+Quando for contar dentes ou descrever um dente a outro socorrista.
+Antes de aplicar qualquer medida de higiene ou de alívio de dor bucal.
+
+NAO USE QUANDO
+--------------
+Este texto não substitui exame clínico nem diagnóstico de doença.
+Não o use para decidir cortar, extrair ou medicar um dente.
+
+MATERIAIS
+---------
+- Espelho que permita ver a boca (ou peça a outra pessoa que observe).
+- Luz firme, de dia ou de lanterna.
+- Papel e lápis para anotar a contagem.
+
+PROCEDIMENTO
+------------
+1. Lave as mãos com água e sabão antes de tocar na boca.
+2. Assente a pessoa com a boca aberta diante da luz.
+3. Conte os dentes da arcada de cima e os da de baixo.
+4. Anote o total: 32 permanentes é o comum em adulto.
+5. Separe os quatro grupos da linha média para trás.
+6. Identifique os incisivos: são os quatro dentes da frente.
+7. Identifique os caninos: os dois pontudos, ao lado dos incisivos.
+8. Identifique os pré-molares: dois de cada lado, com duas cúspides.
+9. Identifique os molares: os de trás, com três a cinco cúspides.
+10. Observe a coroa, a linha da gengiva e a raiz de cada dente.
+11. Repita a contagem na arcada inferior e anote as diferenças.
+
+ATENCAO
+-------
+A contagem varia: terceiros molares podem faltar ou não ter irrompido.
+Dentição decídua tem 20 dentes e não possui pré-molares.
+Não confunda dente de leite com permanente apenas pela posição.
+Coroa, raiz e número de cúspides variam; o texto descreve o comum.
+Dor forte, inchaço ou febre exigem dentista; não espere o quadro passar.
+Não trata cárie, dor nem abscesso; para infecção, veja 26-005.
+
+SE NAO TIVER
+------------
+Sem espelho, peça a outra pessoa que observe e descreva a boca.
+Sem luz artificial, use a luz do dia junto a uma janela.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A soma dos quatro grupos fecha com o total contado em cada arcada.
+A pessoa aponta cada grupo e diz a função principal sem errar.
+
+FONTES
+------
+Manual MSD de Odontologia: anatomia e desenvolvimento dental.
+Manual de anatomia dental da UFPR; StatPearls/NCBI; OMS, saúde bucal.

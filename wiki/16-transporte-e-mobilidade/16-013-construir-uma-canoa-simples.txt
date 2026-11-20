@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 16-013
+TITULO: Como construir uma canoa simples
+CATEGORIA: 16 - Transporte e mobilidade
+TEMPO: 3 dias
+RISCO: alto
+EXIGE: tronco seco e reto, machado ou enxó, faca, fogo controlado, corda
+REVISAO: 2026-11
+PALAVRAS-CHAVE: canoa, piroga, barco, tronco, escavar, fogo, travessia
+==============================================================================
+
+OBJETIVO
+--------
+Escavar um tronco até transformá-lo em canoa para atravessar água calma.
+
+QUANDO USAR
+-----------
+Quando precisar atravessar rio lento ou lago sem barco nem ponte.
+Quando a água estiver funda demais para vadear.
+Quando precisar levar equipamento seco pela água.
+Quando houver madeira seca, ferramentas e alguns dias de trabalho.
+
+NAO USE QUANDO
+--------------
+Quando houver correnteza forte, corredeiras, cachoeira ou mar aberto.
+Quando a travessia exigir ondas ou navegação longa.
+Quando faltar madeira seca, ferramenta de corte ou tempo.
+Quando a água estiver muito fria e não houver flutuador nem ajuda.
+
+MATERIAIS
+---------
+- Tronco de árvore seca, morta e em pé, reto e sem rachaduras.
+- Machado ou enxó para cortar e desbastar.
+- Faca resistente para aparar e alisar.
+- Material para acender fogo e água ou terra para apagar brasas.
+- Corda, cipó (corda vegetal) ou fibra trançada para puxar a canoa.
+- Pau comprido para usar como remo e medir a profundidade.
+
+PROCEDIMENTO
+------------
+1. Escolha árvore seca, morta e em pé, de tronco reto e sem rachaduras.
+2. Corte aproximadamente 3 metros de tronco com machado ou serra.
+3. Retire toda a casca com a enxó ou a faca.
+4. Marque a linha dos bordos nos dois lados com carvão ou giz.
+5. Acenda fogo pequeno sobre o centro do tronco, longe de mata seca.
+6. Mantenha o fogo até a madeira ficar carbonizada, sem chamas altas.
+7. Raspe toda a camada carbonizada com a enxó até aparecer madeira sã.
+8. Repita a queima e a raspagem ao longo do tronco, avançando aos poucos.
+9. Pare de escavar quando o fundo tiver aproximadamente 5 cm de espessura.
+10. Retire lascas soltas e alise o interior com a faca.
+11. Apara as duas pontas em ponta e confira fendas e lascas soltas.
+12. Coloque a canoa na água presa por corda, sem embarcar ainda.
+13. Deixe a canoa flutuar alguns minutos e observe se entra água.
+14. Entre pela margem rasa e sente-se no centro, com o peso baixo.
+15. Reme com o pau e atravesse água calma, sem correnteza.
+
+ATENCAO
+-------
+Fogo controlado pode escapar: mantenha água por perto e vigie sempre.
+Brasas queimam e fumaça irrita os olhos; proteja as mãos com pano grosso.
+Machado e enxó causam cortes graves; nunca corte na direção do corpo.
+Madeira verde, molhada ou de palmeira afunda; teste antes de embarcar.
+Sem estabilizadores, a canoa vira fácil: evite mar aberto, corredeira
+e cachoeira, mesmo com remo.
+Água fria pode matar até quem nada bem: entre só com flutuador e ajuda.
+As medidas são aproximadas; ajuste ao tronco e à pessoa.
+Se a canoa entrar água, inclinar ou a corrente vencer, volte à margem.
+Este texto é resumo operacional; não substitui treinamento.
+
+SE NAO TIVER
+------------
+Sem enxó, use machado pequeno, faca resistente ou pedra lascada.
+Sem condição de fazer fogo, faça entalhes paralelos com o machado e
+retire a madeira entre eles com cunhas de pau; o trabalho fica mais lento.
+Sem corda, use cipó ou fibra vegetal trançada para puxar a canoa.
+Sem tronco adequado, não construa: use uma jangada de toras (veja 16-012)
+ou procure outra forma de travessia.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A casca saiu por completo e o interior ficou liso, sem lascas soltas.
+A canoa flutua nivelada e não entra água após alguns minutos.
+Sentado no centro, a pessoa mantém o equilíbrio sem apoiar as mãos na água.
+A canoa avança e obedece ao remo em água parada.
+
+FONTES
+------
+Manual de sobrevivência FM 21-76 (FM 3-05.70) do Exército dos Estados
+Unidos, capítulo 17, sobre travessias de água: escolha de madeira seca,
+teste de flutuabilidade e cuidados com água fria e correnteza. UNESCO,
+Building and use of expanded dugout boats in the Soomaa region (processo
+01680), de 2021, sobre a canoa escavada de um único tronco e seu processo
+de construção. A queima controlada e a raspagem são prática tradicional
+consolidada, registrada em referências de arqueologia e etnografia.
+Este texto é resumo operacional, não substitui treinamento.

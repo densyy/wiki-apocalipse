@@ -1,0 +1,81 @@
+==============================================================================
+CODIGO: 04-041
+TITULO: Como reparar cabos elétricos
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 30 minutos
+RISCO: critico
+EXIGE: circuito desligado e testado, fita isolante, ferramenta isolada
+REVISAO: 2026-11
+PALAVRAS-CHAVE: cabo, fio, emenda, isolamento, choque, extensao
+==============================================================================
+
+OBJETIVO
+--------
+Isolar com seguranca um dano externo em cabo flexivel desligado,
+sem deixar cobre exposto nem emenda frouxa.
+
+QUANDO USAR
+-----------
+Quando a capa de extensao ou aparelho esta cortada ou rachada.
+Quando o cobre aparece em ponto pequeno de cabo ja desligado.
+Quando emenda antiga esta frouxa e precisa ser refeita com calma.
+Quando e preciso interromper o uso ate fazer reparo seguro.
+
+NAO USE QUANDO
+--------------
+Nunca mexa em cabo energizado, plugado ou com disjuntor ligado.
+Nunca mexa em poste, medidor, entrada da casa ou fio da rua.
+Nunca repare cabo dentro de parede, subterraneo ou em local molhado.
+Nao use se o trecho esta derretido ou com cheiro forte de queimado.
+Nao adapte cabo fino para carga alta nem para chuveiro ou motor.
+
+MATERIAIS
+---------
+- Fita isolante boa e seca (fita autofusao para reforco final).
+- Alicate e estilete com cabo isolado e seco.
+- Conector de torcao ou bloco de emenda isolado.
+- Testador de tensao ou multimetro simples.
+- Luvas de borracha secas, local seco e boa luz.
+
+PROCEDIMENTO
+------------
+1. Retire o plugue da tomada e desligue o disjuntor do circuito.
+2. Avise todos para ninguem religar o disjuntor durante o reparo.
+3. Confirme com o testador que nao ha tensao no cabo e na tomada.
+4. Trabalhe em local seco, com maos secas e boa iluminacao.
+5. Inspecione o dano e corte fora o trecho queimado ou derretido.
+6. Descasque aproximadamente 2 cm da capa sem cortar os fios.
+7. Descasque aproximadamente 1 cm de cada ponta de cobre interna.
+8. Una cobre com cobre da mesma cor, torcendo firme e sem folga.
+9. Cubra cada condutor separado com fita, sem deixar cobre a vista.
+10. Afaste as emendas para nao encostarem lado a lado no feixe.
+11. Enfaixe o conjunto com voltas sobrepostas ate fechar a capa.
+12. Puxe de leve e olhe: sem cobre a vista, sem folga e sem dobra.
+13. Religue somente apos conferir o isolamento em todo o trecho.
+
+ATENCAO
+-------
+Choque eletrico pode matar em segundos, mesmo em 110 ou 220 volts.
+Nunca repare cabo com energia: plugue fora e disjuntor desligado.
+Emenda mal isolada esquenta, derrete, da curto e inicia incendio.
+Nao deixe cobre a vista nem junte condutores diferentes na fita.
+Nao enterre a emenda em parede, solo umido ou area molhada.
+Se houver faisca, estalo, cheiro ou disjuntor que desarma, pare.
+Interrompa o uso e procure eletricista se houver duvida ou medo.
+
+SE NAO TIVER
+------------
+Sem fita isolante, nao improvise com pano, papel ou esparadrapo.
+Sem testador, trate o cabo como energizado e nao toque no cobre.
+Sem conector, torca bem e isole cada lado; troque assim que puder.
+Sem ferramenta isolada, nao use faca molhada ou alicate sem capa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O cobre some sob a fita, sem ponta a vista e sem folga ao puxar.
+O cabo dobra sem abrir, sem estalo, sem faisca e sem aquecer.
+Apos religar, o aparelho funciona sem cheiro e sem desarmar.
+
+FONTES
+------
+Pratica consolidada de seguranca em eletricidade, sem documento unico.

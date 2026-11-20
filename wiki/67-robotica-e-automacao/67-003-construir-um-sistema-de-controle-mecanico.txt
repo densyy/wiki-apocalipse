@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 67-003
+TITULO: Como construir um sistema de controle mecânico
+CATEGORIA: 67 - Robótica, automação e controle
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: reservatório, mangueira, flutuador, alavanca, pivô, rolha, faca
+REVISAO: 2026-11
+PALAVRAS-CHAVE: controle, boia, válvula, nível, alavanca, realimentação
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma válvula de boia que mantém o nível de água sem eletricidade.
+
+QUANDO USAR
+-----------
+Quando não há energia para sensores, bombas ou controles eletrônicos.
+Para manter nível constante em bebedouro, tanque ou reservatório.
+
+NAO USE QUANDO
+--------------
+Não use em linha pressurizada: a rolha artesanal pode ceder e alagar tudo.
+Não use se a água tiver combustível ou químico: a boia não purifica.
+
+MATERIAIS
+---------
+- Reservatório aberto: balde, tanque ou caixa d'água.
+- Mangueira ou canal com saída virada para baixo.
+- Flutuador: garrafa plástica vazia e tampada (ou cortiça, ou madeira).
+- Alavanca rígida: ripa de madeira ou colher de pau.
+- Pivô: prego ou espeto de madeira; rolha ou disco de borracha.
+- Haste ou corda, faca ou serra, e fita, corda ou arame para amarrar.
+
+PROCEDIMENTO
+------------
+1. Escolha um reservatório com borda firme onde prender a mangueira.
+2. Prenda a mangueira na borda com a saída virada para baixo.
+3. Feche a garrafa com a tampa e amarre a haste nela: é o flutuador.
+4. Fixe a alavanca na borda com o pivô, deixando livre para girar.
+5. Amarre a haste do flutuador em uma extremidade da alavanca.
+6. Prenda a rolha na outra extremidade, logo abaixo da saída da mangueira.
+7. Ajuste a haste para que, ao subir, a rolha encoste e vede a saída.
+8. Abra a entrada e observe o nível subir até a rolha fechar.
+9. Retire água: a entrada deve voltar a correr e parar no mesmo nível.
+
+ATENCAO
+-------
+A alavanca e o pivô prendem dedos: mantenha as mãos afastadas ao testar.
+Ao cortar e furar, proteja as mãos: arestas cortam e pregos furam.
+A rolha desgasta e vaza: revise as fixações e não deixe sem vigilância.
+Boia é o sensor; alavanca compara; rolha atua: se uma falhar, o ciclo para.
+
+SE NAO TIVER
+------------
+Sem garrafa, use cortiça, pedaço de madeira leve ou lata vazia e fechada.
+Sem rolha, use um disco de borracha velha preso na ponta da alavanca.
+Se nada vedar, use a boia só como aviso e abra e feche a entrada na mão.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Com a entrada aberta, o nível para na altura marcada e a vazão cessa.
+Ao tirar água, o flutuador desce e a entrada corre sem ajuda.
+
+FONTES
+------
+Realimentação (feedback): regulador de Watt, 1788, e válvula de boia.
+Controle mecânico sem energia, prática consolidada sem documento único.
+Referências: "Feedback Mechanisms", do Smithsonian Institution,
+e "Brief History of Feedback Control", da University of Texas at Arlington.

@@ -1,0 +1,86 @@
+==============================================================================
+CODIGO: 42-018
+TITULO: Como preservar metais em ambientes salinos
+CATEGORIA: 42 - Engenharia naval e tecnologias marítimas
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: agua doce, escova, pano, protetor, luvas, oculos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: metal, corrosao, sal, ferrugem, anodo, graxa, protecao
+==============================================================================
+
+OBJETIVO
+--------
+Reduzir a corrosao de pecas metalicas expostas a sal e umidade.
+
+QUANDO USAR
+-----------
+Quando ferramentas ficam perto do mar ou de agua salgada.
+Apos navegar, pescar ou trabalhar com sal.
+Quando surgem manchas de ferrugem ou po branco no metal.
+Antes de guardar pecas metalicas por varios dias.
+
+NAO USE QUANDO
+--------------
+Em superficies de freio e pisos antiderrapantes.
+Em pecas que conduzem corrente eletrica ou combustivel sob pressao.
+Onde a graxa possa tocar alimentos sem protecao.
+
+MATERIAIS
+---------
+- Agua doce em quantidade para enxague.
+- Escova rigida de fibra vegetal ou sintetica.
+- Lixa fina ou esponja abrasiva para ferrugem superficial.
+- Pano limpo que nao solte fiapos.
+- Graxa protetora (ou oleo lubrificante espesso, ou cera).
+- Tinta anticorrosiva para areas grandes, quando disponivel.
+- Anodo de sacrificio de zinco ou magnesio, para pecas submersas.
+- Luvas e oculos de protecao.
+
+PROCEDIMENTO
+------------
+1. Enxague a peca com agua doce para remover sal e residuos.
+2. Esfregue com escova e agua doce ate nao restar sal visivel.
+3. Remova a ferrugem solta com lixa fina ou esponja abrasiva.
+4. Enxague outra vez para retirar o po da lixagem.
+5. Seque com pano limpo e deixe secar ao ar em local ventilado.
+6. Passe o pano nas juntas e parafusos, onde a umidade se esconde.
+7. Aplique camada fina e continua de graxa, oleo ou cera.
+8. Cubra bordas, juntas e parafusos, onde a corrosao comeca primeiro.
+9. Em areas grandes, espere secar e aplique tinta anticorrosiva.
+10. Em peca submersa, instale anodo de sacrificio de zinco ou magnesio.
+11. Prenda o anodo com suporte metalico que garanta contato eletrico.
+12. Nao pinte nem isole o ponto de contato do anodo com a peca.
+13. Guarde a peca seca, coberta e longe de spray salino.
+14. Enxague com agua doce apos cada nova exposicao ao mar.
+
+ATENCAO
+-------
+Sal atrai umidade e continua corroindo mesmo apos a peca parecer seca.
+Nao pule a secagem: umidade presa sob graxa aprisiona o sal.
+Lixe com leveza; lixagem forte remove camada protetora util.
+Acidos e solventes queimam a pele e irritam os olhos.
+Use luvas e oculos e mantenha ventilacao ao manusear quimicos.
+Panos com oleo secante podem aquecer e pegar fogo sozinhos.
+Nao encoste aluminio em aco: a corrosao galvanica acelera.
+Se houver furo ou ferrugem profunda, a peca nao tem reparo seguro.
+
+SE NAO TIVER
+------------
+Sem graxa, use oleo lubrificante limpo ou cera de abelha.
+Sem anodo, limite-se a manter a peca seca e enxaguar com agua doce.
+Sem agua doce, use a maior quantidade de agua limpa que houver.
+Nao use acido forte ou vinagre concentrado sem saber neutralizar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A superficie esta seca, sem sal visivel e com filme uniforme.
+Nao aparece po branco nem ferrugem nova apos dias de uso.
+Nao ha pontos escuros ou juntas comecando a oxidar.
+
+FONTES
+------
+Pratica consolidada de controle de corrosao e manutencao naval,
+sem documento unico consultado. Referencia de familia: associacoes
+tecnicas de corrosao e manuais de manutencao de embarcacoes.
+Resumo operacional; nao substitui treinamento ou norma do fabricante.

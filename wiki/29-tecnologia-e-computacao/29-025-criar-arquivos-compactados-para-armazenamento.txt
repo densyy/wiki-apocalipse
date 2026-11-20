@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 29-025
+TITULO: Como criar arquivos compactados para armazenamento
+CATEGORIA: 29 - Tecnologia, computação e informática offline
+TEMPO: 15 minutos
+RISCO: medio
+EXIGE: computador com terminal, Python 3 ou 7-Zip, espaço livre em disco
+REVISAO: 2026-11
+PALAVRAS-CHAVE: compactar, zip, 7z, arquivo, armazenar, economizar espaço
+==============================================================================
+
+OBJETIVO
+--------
+Reunir arquivos em um pacote menor (compactação), sem perder os dados.
+
+QUANDO USAR
+-----------
+- Quando precisar guardar muitos arquivos em menos espaço.
+- Para reunir documentos e fotos em um único arquivo.
+- Ao guardar uma cópia em dispositivo removível.
+
+NAO USE QUANDO
+--------------
+- Quando os arquivos já são compactados, como fotos JPEG ou MP3.
+- Quando o objetivo for sigilo: compactar não protege sem senha.
+
+MATERIAIS
+---------
+- Computador com terminal e Python 3 (módulo zipfile) ou 7-Zip.
+- Pasta com os arquivos e espaço livre em disco.
+- Outro dispositivo para guardar a cópia.
+
+PROCEDIMENTO
+------------
+1. Reúna os arquivos em uma pasta chamada "dados".
+2. Abra um terminal na pasta que contém "dados".
+3. Crie o ZIP: python -m zipfile -c backup.zip dados/
+4. Para 7z, crie com: 7z a backup.7z dados/
+5. Teste o ZIP: python -m zipfile -t backup.zip
+6. Para 7z, teste com: 7z t backup.7z
+7. Copie o pacote para outro dispositivo de armazenamento.
+8. Apague os originais só depois do teste e da cópia.
+
+ATENCAO
+-------
+- Teste o pacote antes de apagar os originais: corrompido pode não abrir.
+- O teste do ZIP confere o CRC, código que detecta corrupção.
+- Compactação não é criptografia: sem senha, qualquer pessoa abre o pacote.
+- O módulo zipfile não cria arquivos com senha; use 7z com AES-256.
+- Arquivos acima de 4 GiB exigem ZIP64; se faltar, use 7z.
+- Se o teste falhar, refaça o pacote. Não apague nenhum original.
+
+SE NAO TIVER
+------------
+- Sem 7-Zip, use o módulo zipfile do Python 3, que já vem instalado.
+- Sem terminal, clique com o botão direito e procure "Comprimir".
+- Sem outro dispositivo, mantenha os originais até guardar a cópia.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- O comando de teste termina sem mensagem de erro.
+- Um arquivo extraído do pacote pode ser aberto e lido.
+
+FONTES
+------
+- Documentação do módulo zipfile da linguagem Python: criação e teste.
+- Especificação do formato 7z e do método LZMA, do site oficial do 7-Zip.
+- RFC 1952, especificação do GZIP: compressão sem perda e CRC-32.
+- Prática consolidada de arquivamento offline; resumo operacional.

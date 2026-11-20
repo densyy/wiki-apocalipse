@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 68-007
+TITULO: Como compreender propagação ionosférica
+CATEGORIA: 68 - Radiofrequência e telecomunicações
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: receptor de ondas curtas, caderno, relógio
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ionosfera, ondas curtas, propagação, muf, salto, nvis
+==============================================================================
+
+OBJETIVO
+--------
+Escolher frequência e horário pelo comportamento da ionosfera.
+
+QUANDO USAR
+-----------
+Quando precisar de contato além do horizonte sem repetidor.
+Quando uma estação distante some e você quer saber o motivo.
+Quando houver aviso de erupção solar ou tempestade geomagnética.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+Não serve acima de aproximadamente 30 MHz: a onda atravessa a ionosfera.
+Não substitui licença de transmissão nem treinamento técnico.
+
+MATERIAIS
+---------
+- Receptor de ondas curtas que sintonize de 3 a 30 MHz.
+- Caderno, lápis e relógio para anotar hora e frequência.
+- Lista de frequências das estações que você quer ouvir.
+
+PROCEDIMENTO
+------------
+1. Anote a faixa: de 3 a 30 MHz a ionosfera devolve as ondas.
+2. Observe o dia: a camada D, de 60 a 90 km, absorve as mais baixas.
+3. Observe a noite: D e E somem e a camada F vira o espelho principal.
+4. Compare: abaixo de 10 MHz prefira noite; acima de 10 MHz, dia.
+5. Um salto na F vai a aproximadamente 3500 km; use vários para mais.
+6. Escolha a maior frequência que ainda chega, abaixo da MUF.
+7. Para poucas centenas de km, aponte a antena quase para cima: NVIS.
+8. Anote hora e frequência e repita em outro horário para comparar.
+
+ATENCAO
+-------
+A propagação muda: a mesma frequência pode falhar em minutos.
+O ciclo solar de aproximadamente 11 anos altera a ionização.
+Erupções solares e tempestades podem cortar o contato por horas.
+O erro mais comum é frequência alta: atravessa a F e se perde.
+Fading é normal: o sinal oscila ao chegar por mais de um caminho.
+
+SE NAO TIVER
+------------
+Sem rádio de ondas curtas, não dá para observar a propagação.
+Se não souber a MUF, comece na menor frequência e suba até sumir.
+Não improvise em rede elétrica energizada para alimentar o rádio.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Estações distantes são ouvidas nos horários previstos.
+Ao subir de frequência, o sinal some e volta ao descer.
+As anotações mostram padrão entre dia, noite e frequência.
+
+FONTES
+------
+Centro de Ciência da UCAR/NSF, texto "A Ionosfera" (2014), e ITU-R
+(série P), consultados sobre camadas, ciclo solar e variação dia/noite.
+MUF, salto e NVIS: prática consolidada de radiocomunicação HF.
+Resumo operacional; não substitui treinamento.

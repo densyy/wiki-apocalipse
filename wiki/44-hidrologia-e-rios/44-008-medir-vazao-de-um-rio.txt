@@ -1,0 +1,92 @@
+==============================================================================
+CODIGO: 44-008
+TITULO: Como medir vazão de um rio
+CATEGORIA: 44 - Hidrologia, rios e gestão de bacias
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: trena ou corda marcada, flutuador, cronometro, vara, comparsa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: vazao, descarga, rio, velocidade, seccao, flutuador, agua
+==============================================================================
+
+OBJETIVO
+---------
+Calcular a vazao (volume de agua por segundo) de um rio.
+
+QUANDO USAR
+-----------
+Quando nao existe estacao de medicao nem dado oficial para o rio.
+Quando precisa dimensionar captação de agua ou irrigação.
+Para acompanhar a variação do rio em períodos de chuva.
+Para decidir se uma travessia é segura (somente como indicativo).
+
+NAO USE QUANDO
+--------------
+Nao meça com o rio em cheia, com correnteza forte ou agua turva.
+Nao entre no rio se a agua passar dos joelhos ou empurrar o corpo.
+Nao meça sozinho: sem comparsa, fique na margem e meça so a largura.
+Nao use este resultado para prever enchente ou autorizar travessia.
+
+MATERIAIS
+---------
+- Trena ou corda com nos a cada metro (substituicao: barbante marcado).
+- Flutuador que boie: rolha, madeira ou garrafa com agua.
+- Relogio com ponteiro de segundos ou cronometro.
+- Vara reta marcada de metro em metro (substituicao: estaca com marcas).
+- Corda de seguranca e um comparsa na margem.
+- Caderno e lapis para anotar os numeros.
+
+PROCEDIMENTO
+------------
+1. Escolha um trecho reto, com leito regular, longe de pedras e remansos.
+2. Estique a trena entre as margens, perpendicular a correnteza.
+3. Anote a largura do rio em metros.
+4. Marque na margem dois pontos alinhados na direção da agua.
+5. Afaste os dois pontos por 10 metros e fixe uma estaca em cada um.
+6. Meça a profundidade em 10 pontos igualmente espacados na largura.
+7. Some as profundidades e divida por 10 para obter a profundidade media.
+8. Multiplique a largura pela profundidade media.
+9. Esse resultado e a area da seccao, o corte do rio, em m2.
+10. Solte o flutuador a montante do primeiro ponto, no meio do canal.
+11. Conte os segundos entre a passagem pelos dois pontos marcados.
+12. Repita tres vezes e anote os tres tempos.
+13. Divida 10 pelo tempo medio em segundos: e a velocidade superficial.
+14. Multiplique por aproximadamente 0,8 para estimar a velocidade media.
+15. Multiplique a area pela velocidade media. Ex.: 4,8 x 0,64 = 3,07 m3/s.
+16. Anote data, hora e trecho ao lado da vazao calculada.
+
+ATENCAO
+-------
+- Nunca entre no rio sozinho: mantenha um comparsa na margem com a corda.
+- A correnteza arrasta: se a agua passar dos joelhos, meça da margem.
+- O fator 0,8 e aproximado: o atrito com o fundo muda a velocidade media.
+- Use mais pontos de profundidade; estacoes chegam a 30 pontos.
+- O resultado e uma estimativa; nao substitui medicao de estacao oficial.
+- Nao use o numero para liberar travessia ou prever enchente.
+- Nao dimensione barragem com esta estimativa.
+- Se o rio subir ou a agua turvar, pare e saia da margem.
+
+SE NAO TIVER
+------------
+- Sem trena, use corda com nos a cada metro.
+- Sem cronometro, conte "mil um, mil dois" em voz alta (aproximado).
+- Sem flutuador, use um pedaco de madeira ou uma folha que boie.
+- Sem vara graduada, use uma estaca com marcas a cada 20 centimetros.
+- Sem comparsa, nao entre na agua: meça apenas o que der da margem.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Anotou largura, 10 profundidades, 3 tempos e a conta da vazao.
+Os tres tempos do flutuador ficaram proximos uns dos outros.
+A area em m2 e a velocidade em m/s estao anotadas no caderno.
+A vazao em m3/s foi escrita com data, hora e local.
+
+FONTES
+------
+USGS, Water Science School, "How Streamflow is Measured": vazao e area
+da seccao multiplicada pela velocidade media; seccao dividida em
+subsecoes para medir profundidade e velocidade.
+USGS, Water Resources Mission Area, "Streamgaging Basics": o mesmo
+metodo de area e velocidade para calcular a descarga.
+O fator 0,8 da velocidade superficial e uma correcao empirica
+aproximada, nao confirmada nas fontes consultadas.

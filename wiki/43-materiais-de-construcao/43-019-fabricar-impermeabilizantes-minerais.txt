@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 43-019
+TITULO: Como fabricar impermeabilizantes minerais
+CATEGORIA: 43 - Produção de materiais de construção
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: silicato de sódio, cimento, areia fina, água, óculos e luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: silicato de sódio, vidro líquido, cimento, argamassa, vedar
+==============================================================================
+
+OBJETIVO
+--------
+Fabricar argamassa mineral que reduz a passagem de água em paredes e pisos.
+
+QUANDO USAR
+-----------
+Quando a obra não dispõe de mantas asfálticas ou produtos prontos.
+Quando há umidade em parede de alvenaria ou piso de concreto.
+Quando é preciso vedar a superfície antes de assentar cerâmica.
+Quando a superfície já curada precisa de uma camada de proteção.
+
+NAO USE QUANDO
+--------------
+Quando há vazamento sob pressão, rachadura estrutural ou movimento da peça.
+Quando se exige estanqueidade total, como em reservatório de água potável.
+Quando a superfície tem óleo, tinta solta, sal ou mofo sem remoção.
+
+MATERIAIS
+---------
+- Cimento Portland fresco, sem torrões (substituição: cal hidráulica).
+- Areia fina de lavagem, peneirada (substituição: pó de pedra fino).
+- Silicato de sódio líquido, conhecido como vidro líquido.
+- Água limpa, sem sal, óleo ou matéria orgânica.
+- Balde plástico, peneira, colher, espátula e pincel de cerdas duras.
+- EPI: óculos fechados, luvas de borracha grossas e máscara contra pó.
+
+PROCEDIMENTO
+------------
+1. Coloque os óculos, as luvas e a máscara antes de abrir o silicato.
+2. Trabalhe ao ar livre ou em local ventilado, longe de crianças.
+3. Peneire a areia fina para tirar pedras, folhas e terra grossa.
+4. Misture 1 parte de cimento e 2 partes de areia fina, em seco.
+5. Prepare a água de mistura: despeje silicato de sódio líquido em fio
+   fino na água limpa, mexendo, até ficar densa e levemente brilhante.
+   Use pouco: excesso torna a camada quebradiça e esbranquiçada.
+6. Despeje essa água aos poucos sobre a mistura seca, sem parar de mexer.
+7. Pare de adicionar líquido quando a pasta ficar cremosa e não escorrer.
+8. Escove a superfície e retire todo o material solto e a poeira.
+9. Umedeça a superfície com pano úmido, sem deixar poças d'água.
+10. Aplique a pasta com espátula ou pincel, em camada fina e uniforme.
+11. Cubra bem as juntas e os cantos, onde a água mais entra.
+12. Mantenha a camada úmida por aproximadamente 7 dias, borrifando água.
+13. Após a cura, aplique uma segunda camada cruzada, se necessário.
+14. Lave as ferramentas com água antes da pasta endurecer. Nunca jogue
+    restos de silicato em ralo, solo ou curso d'água.
+
+ATENCAO
+-------
+Silicato de sódio e cimento fresco são alcalinos: queimam pele e olhos.
+Sem óculos, um respingo pode causar lesão ocular permanente.
+Em contato com os olhos, lave com água corrente abundante e busque
+atendimento médico. Não esfregue os olhos.
+A poeira de cimento e areia irrita os pulmões: use máscara e ventilação.
+O produto reduz a passagem de água líquida, mas não bloqueia vapor d'água.
+Não resolve rachadura estrutural nem infiltração sob pressão.
+Não aplique antes de aproximadamente 7 dias de cura do concreto.
+Nunca misture silicato com ácido, como vinagre: forma gel e perde a ação.
+Excesso de silicato deixa mancha branca e camada frágil. Se aparecerem
+rachaduras ou a camada desprender, raspe e refaça a aplicação.
+
+SE NAO TIVER
+------------
+Sem silicato de sódio, a argamassa comum reduz a umidade, mas não veda:
+não anuncie impermeabilidade e procure outro método.
+Sem areia fina, peneire o solo e use só a fração mais fina, sem matéria
+orgânica; a camada ficará mais propensa a rachar.
+Sem óculos ou luvas, não execute o procedimento: o risco não compensa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A pasta ficou lisa, brilhante e aderiu na parede sem escorrer.
+Depois da cura, a superfície não solta pó ao ser esfregada com a mão.
+Ao borrifar água, a gota forma pérola e escorre devagar, sem escurecer
+a superfície de imediato.
+Não há rachaduras nem manchas brancas após a secagem.
+
+FONTES
+------
+Prática consolidada de impermeabilização mineral com silicato de sódio e
+argamassa de cimento. Referências: The OxyChem Sodium Silicates Handbook
+(2019); Thompson et al., Cement and Concrete Research (1997); monografia
+da Universidade de Caxias do Sul sobre silicato de sódio em argamassa
+(2021); fichas de segurança de silicato de sódio e de cimento Portland.
+Este texto é resumo operacional e não substitui treinamento.

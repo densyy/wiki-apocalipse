@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 02-030
+TITULO: Como cultivar alimentos em ambientes internos
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 120 minutos
+RISCO: alto
+EXIGE: luz artificial, vasos com furos, substrato, sementes, água limpa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: indoor, horta, luz led, vasos, substrato, rega, umidade
+==============================================================================
+
+OBJETIVO
+--------
+Montar horta interna com luz artificial e colher folhosas e temperos.
+
+QUANDO USAR
+-----------
+Quando não houver quintal, varanda ou sol direto disponível.
+Quando o tempo estiver muito frio, chuvoso ou seco do lado de fora.
+Quando faltar alimento fresco e não houver terra para plantar.
+Quando se quiser temperos e brotos perto da cozinha o ano inteiro.
+
+NAO USE QUANDO
+--------------
+Não use se a umidade do cômodo estiver alta, com mofo nas paredes.
+Não use onde água possa chegar a tomadas, fios ou fonte da luminária.
+Não use se não houver luz artificial regular e segura para as plantas.
+
+MATERIAIS
+---------
+- Estante metálica firme (ou prateleira estável).
+- Luminária LED de cultivo com etiqueta de potência (ou tubo fluorescente).
+- Temporizador de tomada para controlar as horas de luz.
+- Vasos com furos no fundo (ou garrafas cortadas com furos).
+- Bandeja ou prato grande para recolher a água que escorre.
+- Substrato para vasos (ou terra peneirada com composto curtido).
+- Sementes de folhosas e temperos de boa procedência.
+- Água limpa, sem cheiro, espuma ou origem desconhecida.
+- Ventilador pequeno (ou janela que possa ficar entreaberta).
+
+PROCEDIMENTO
+------------
+1. Escolha um cômodo com tomada perto, longe de dutos de ar e vazamentos.
+2. Meça a temperatura e mantenha o local entre 18 °C e 26 °C.
+3. Monte a estante firme e coloque a bandeja na prateleira de baixo.
+4. Lave os vasos com água e sabão e enxágue bem antes de usar.
+5. Confira os furos no fundo; faça furos com prego se não houver.
+6. Encha os vasos com substrato até 2 cm da borda, sem compactar.
+7. Plante alface, rúcula, cebolinha ou manjericão, de ciclo curto.
+8. Abra covas de até 1,5 cm e coloque até 3 sementes por cova.
+9. Cubra as sementes com substrato e pressione de leve com os dedos.
+10. Prenda a luminária acima dos vasos, na altura indicada pelo fabricante.
+11. Se não houver indicação, comece com aproximadamente 30 cm de altura.
+12. Regule o temporizador para 14 a 16 horas de luz por dia.
+13. Deixe pelo menos 8 horas de escuro, sem luz constante.
+14. Regue quando os primeiros 2 cm de substrato estiverem secos ao toque.
+15. Regue até a água escorrer pelos furos do fundo do vaso.
+16. Esvazie a bandeja entre 15 e 30 minutos depois de regar.
+17. Mantenha fios e fonte da luz acima da bandeja e longe de respingos.
+18. Deixe ar circular: abra uma janela ou ligue o ventilador cada dia.
+19. Inspecione as folhas uma vez por semana e retire as que tiverem manchas.
+20. Colha as folhas externas quando formadas, sem arrancar a planta.
+
+ATENCAO
+-------
+Água e eletricidade juntas podem matar por choque elétrico.
+Desligue a luminária antes de regar ou de mover a bandeja.
+Nunca deixe respingo ou vazamento chegar a fios, tomadas ou fonte da luz.
+Luz muito perto queima as folhas; muito longe deixa o caule esticado.
+Fontes de extensão divergem sobre a distância da luz: siga o fabricante.
+Sem circulação de ar, a umidade sobe e aparece mofo nas folhas.
+Água suja contamina hortaliças que serão comidas cruas.
+Vaso sem furo ou substrato compactado encharca a raiz e mata a planta.
+Não use esterco fresco: queima as raízes e traz microrganismos ruins.
+Com folhas amareladas, murchas ou com manchas, pare e peça ajuda.
+
+SE NAO TIVER
+------------
+Sem luminária, use janela com luz forte e aceite colheita menor.
+Luz de teto comum não substitui a luz de cultivo; não conte com ela.
+Sem temporizador, ligue e desligue a luz no mesmo horário todos os dias.
+Sem substrato pronto, use terra peneirada com composto curtido.
+Não use terra de beira de estrada: pode conter chumbo e combustível.
+Sem bandeja, use prato ou tampa grande sob o vaso e esvazie a água.
+Sem ventilador, deixe janela entreaberta por algumas horas por dia.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O broto aparece em poucos dias e as mudas ficam verdes e com caule curto.
+A água escorre pelos furos e a bandeja fica seca entre as regas.
+Não há cheiro de mofo, manchas nas folhas nem condensação permanente.
+
+FONTES
+------
+Embrapa Hortaliças: agricultura indoor e hortaliças folhosas.
+Embrapa: cultivo protegido e hidroponia.
+Utah State University Extension: "Gardening Indoors" (Hagevik, 2026).
+University of Maryland Extension: "Starting Vegetable Seeds Indoors".
+FAO: "Modern indoor farming and food safety" (2025), umidade e segurança.
+Prática consolidada de horticultura doméstica no Brasil.

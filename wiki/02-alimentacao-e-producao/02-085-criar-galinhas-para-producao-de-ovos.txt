@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 02-085
+TITULO: Como criar galinhas para produção de ovos
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 180 minutos
+RISCO: medio
+EXIGE: galinhas, abrigo com tela, ninho, comedouro, bebedouro, ração, água
+REVISAO: 2026-11
+PALAVRAS-CHAVE: galinha, ovos, poedeira, ninho, ração, galinheiro, salmonela
+==============================================================================
+
+OBJETIVO
+--------
+Montar um galinheiro simples e colher ovos de forma regular.
+
+QUANDO USAR
+-----------
+Quando houver quintal com sombra, sem alagamento e longe de esgoto.
+Quando faltar alimento rico em proteína para a família.
+
+NAO USE QUANDO
+--------------
+Não crie sem água limpa e ração diária, nem onde cães circulem soltos.
+Não crie perto de lixo, esgoto ou animais doentes.
+
+MATERIAIS
+---------
+- Galinhas jovens ou poedeiras (adultas que botam ovos) de origem conhecida.
+- Abrigo seco, arejado, com tela e cobertura que não vaze água.
+- 1 ninho para cada 4 a 5 galinhas, elevado, com forro seco de palha.
+- Comedouro, bebedouro, ração com cálcio (mineral da casca) e água limpa.
+
+PROCEDIMENTO
+------------
+1. Escolha ponto alto, seco, com sombra e longe de esgoto e lixo.
+2. Monte o abrigo com tela nas aberturas e cama seca.
+3. Instale poleiros com aproximadamente 20 cm por galinha, acima dos ninhos.
+4. Coloque 1 ninho para cada 4 a 5 galinhas, elevado e fora do sol direto.
+5. Forre os ninhos com palha, capim seco ou maravalha limpa.
+6. Ajuste comedouro e bebedouro na altura do dorso das aves.
+7. Ofereça ração com cálcio e água limpa todos os dias.
+8. Forneça aproximadamente 120 g de ração por galinha ao dia.
+9. Colete os ovos pelo menos 3 vezes ao dia, com as mãos lavadas.
+10. Descarte ovos trincados.
+11. Troque o forro dos ninhos uma vez por semana.
+12. Retire do galinheiro as aves doentes e as mortas no mesmo dia.
+
+ATENCAO
+-------
+Galinhas e ovos podem carregar Salmonella mesmo com aparência saudável.
+Lave as mãos com água e sabão após tocar aves, ovos ou equipamentos.
+Mantenha aves e equipamentos fora de casa; use calçado só do galinheiro.
+Crianças menores de 5 anos, idosos e imunossuprimidos não devem tocar aves.
+Não lave ovos quentes com água fria: use pano, escova ou água morna e seque.
+Só sobras não sustentam a postura: casca mole indica falta de cálcio.
+Fontes da Embrapa divergem: 1 ninho para 4 ou para 5 galinhas; comece com 5.
+
+SE NAO TIVER
+------------
+Sem maravalha (lascas de madeira), use palha ou folhas secas picadas.
+Sem ninho, uma caixa de madeira forrada e escura serve, se for elevada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ovos limpos e inteiros nos ninhos, casca firme, aves comendo e bebendo.
+
+FONTES
+------
+Embrapa: Comunicado 125; biosseguridade 2023; ovos limpos 2024; Doc 248.
+CDC: aves de quintal e Salmonella; Oregon State University: PNW 477.

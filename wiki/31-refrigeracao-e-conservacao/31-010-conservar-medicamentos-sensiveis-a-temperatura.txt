@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 31-010
+TITULO: Como conservar medicamentos sensíveis à temperatura
+CATEGORIA: 31 - Refrigeração e conservação térmica
+TEMPO: 20 minutos
+RISCO: alto
+EXIGE: geladeira com termômetro, caixa térmica, bolsas de gelo, bula
+REVISAO: 2026-11
+PALAVRAS-CHAVE: medicamento, geladeira, insulina, vacina, cadeia de frio
+==============================================================================
+
+OBJETIVO
+--------
+Manter a potência de medicamentos que exigem refrigeração até o uso.
+
+QUANDO USAR
+-----------
+- Quando a bula indicar guardar entre 2 °C e 8 °C.
+- Quando houver insulina, vacinas ou biológicos em casa.
+- Quando a energia falhar e a geladeira parar de gelar.
+- Quando for transportar o medicamento para outro local.
+- Quando o clima estiver muito quente.
+
+NAO USE QUANDO
+--------------
+Não tente recuperar um medicamento que congelou ou ficou superaquecido.
+Se ultrapassou o limite da bula, descarte com segurança.
+Não use esta regra no lugar da bula: a temperatura da bula prevalece.
+
+MATERIAIS
+---------
+- Geladeira com termômetro (ou termômetro separado).
+- Caixa térmica ou caixa de isopor para transporte.
+- Bolsas de gelo ou garrafas de água congeladas.
+- Pano ou papel para separar o gelo do medicamento.
+- Embalagem original do medicamento, com a bula.
+- Papel e caneta para anotar temperatura e data.
+
+PROCEDIMENTO
+------------
+1. Leia a bula e anote a faixa de temperatura exigida.
+2. Confira se a geladeira mantém essa faixa no termômetro.
+3. Guarde o medicamento na embalagem original, com o rótulo legível.
+4. Coloque o medicamento na prateleira central, longe da porta.
+5. Afaste o medicamento da parede do fundo e do congelador.
+6. Mantenha o medicamento separado de alimentos e produtos químicos.
+7. Anote a data de abertura e o prazo de uso após abertura.
+8. Para transportar, coloque o medicamento na caixa térmica.
+9. Envolva as bolsas de gelo em pano antes de encostar no frasco.
+10. Feche a caixa e leve o medicamento ao destino sem demora.
+11. Ao chegar, confira o termômetro e devolva o medicamento à geladeira.
+12. Se a energia falhar, use a caixa térmica com gelo.
+13. Renove o gelo derretido e registre a hora da troca.
+
+ATENCAO
+-------
+Congelar pode destruir o princípio ativo: nunca congele insulina.
+Um medicamento congelado pode parecer normal e ainda estar inútil.
+Acima da faixa da bula, o remédio perde potência sem mudar de cor.
+Não "teste" o remédio aquecido tomando uma dose para ver se funciona.
+Porta da geladeira e área do congelador oscilam mais: evite esses locais.
+Gelo em contato direto pode congelar o remédio; use sempre uma barreira.
+Se o termômetro sair da faixa por muito tempo, pare de usar e busque
+reposição antes da próxima dose.
+Se, após usar remédio alterado, houver sede intensa, confusão ou vômitos,
+procure atendimento médico.
+
+SE NAO TIVER
+------------
+Sem geladeira, use caixa térmica com bolsas de gelo ou garrafas
+congeladas, sempre com pano entre o gelo e o medicamento.
+Renove o gelo assim que derreter e mantenha a caixa fechada.
+Sem gelo, guarde no canto mais frio e arejado da casa, longe do sol,
+e use o medicamento o quanto antes; isso não garante de 2 °C a 8 °C.
+Não use gelo seco nem congele o medicamento para esfriar mais rápido.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O termômetro marca a faixa indicada na bula no momento da guarda.
+O medicamento está íntegro, na embalagem original, sem sinais de
+congelamento, e a data de abertura está anotada.
+
+FONTES
+------
+Prática consolidada de conservação de medicamentos em cadeia de frio.
+Consulta: OMS, página Vacinas e imunização (cadeia de frio e cadeia
+controlada de temperatura), 2026.
+A bula do fabricante prevalece sobre qualquer orientação geral.
+Este texto é resumo operacional e não substitui treinamento.

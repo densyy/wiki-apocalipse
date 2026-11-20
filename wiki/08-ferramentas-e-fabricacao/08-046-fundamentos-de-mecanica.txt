@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 08-046
+TITULO: Como entender os fundamentos da mecânica
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 40 minutos
+RISCO: baixo
+EXIGE: barra, apoio, corda, prancha e carga leve para testar
+REVISAO: 2026-11
+PALAVRAS-CHAVE: mecânica, alavanca, polia, rampa, cunha, parafuso, força
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer as seis máquinas simples e movimentar carga com menos força.
+
+QUANDO USAR
+-----------
+Quando faltar talha ou ferramenta para levantar peso.
+Quando precisar improvisar alavanca, rampa ou polia.
+Quando quiser entender por que uma ferramenta facilita o trabalho.
+
+NAO USE QUANDO
+--------------
+Não substitui treinamento para operar máquinas motorizadas ou içar
+cargas suspensas. Carga sob tensão pode cair e matar.
+
+MATERIAIS
+---------
+- Barra rígida e apoio firme (pau e pedra).
+- Prancha ou tábua para a rampa.
+- Corda e roda com eixo para a polia.
+- Cunha de madeira e parafuso com chave.
+- Corda ou fita para medir (palmo).
+
+PROCEDIMENTO
+------------
+1. Entenda a regra: a máquina não cria força, troca força por distância.
+2. Guarde a conta: trabalho é força vezes distância; o total não muda.
+3. Ache a força de entrada (sua mão) e a de saída (a carga).
+4. Meça a vantagem: força de saída dividida pela força de entrada.
+5. Ache o fulcro, o ponto de apoio onde a alavanca gira.
+6. Aproxime o apoio da carga e afaste a mão para ganhar força.
+7. Use rampa longa: quanto mais longa para a mesma altura, menos esforço.
+8. Conte as cordas que sustentam a carga; cada uma ajuda a polia.
+9. Empurre a cunha pela cabeça; a ponta fina abre a madeira.
+10. Gire o parafuso com chave longa; cada volta avança só um passo.
+
+ATENCAO
+-------
+A máquina não reduz o trabalho total: você empurra mais longe. O atrito
+come parte da força; a vantagem real fica abaixo da conta. Nunca fique
+sob carga suspensa. Teste com peso leve: apoio que escorrega solta tudo.
+
+SE NAO TIVER
+------------
+Sem polia, passe a corda por um galho liso ou eixo de rolo.
+Sem fita, meça em palmos: a conta vale qualquer unidade igual.
+Sem cunha de metal, use madeira dura e bata com porrete.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A carga se move com menos esforço que no levantamento direto.
+A mão percorre mais distância do que a carga sobe.
+
+FONTES
+------
+OpenStax, Physics, seção 9.3 Simple Machines (2020).
+Physics LibreTexts, General Physics I, cap. 25 Simple Machines (2024).
+Prática consolidada de ferramentas manuais em sobrevivência.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 40-012
+TITULO: Como construir instrumentos de medição sonora
+CATEGORIA: 40 - Acústica e engenharia sonora
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: brinquedo ativado por som, bateria de baixa tensão, caderno
+REVISAO: 2026-11
+PALAVRAS-CHAVE: som, decibel, ruído, medidor, microfone, ouvido, calibrar
+==============================================================================
+
+OBJETIVO
+--------
+Montar um indicador para comparar fontes de ruído e sua variação.
+
+QUANDO USAR
+-----------
+Quando precisar saber qual máquina faz mais ruído.
+Quando quiser notar se um ruído ficou maior ou menor.
+Para escolher o ponto de trabalho mais silencioso.
+
+NAO USE QUANDO
+--------------
+Quando precisar de um valor exato em decibéis para cumprir limite legal.
+O aparelho caseiro não é calibrado e não fornece decibéis confiáveis.
+
+MATERIAIS
+---------
+- Brinquedo ativado por som, com microfone, LED e ajuste de sensibilidade.
+- Bateria ou pilhas de baixa tensão, do próprio brinquedo.
+- Caixa de papelão ou plástico para abrigar o módulo.
+- Fita adesiva e caderno para anotar as marcas.
+
+PROCEDIMENTO
+------------
+1. Retire do brinquedo o módulo ativado por som.
+2. Localize o microfone, o LED e o parafuso de sensibilidade.
+3. Alimente o módulo só com bateria de baixa tensão.
+4. Feche o módulo na caixa, deixando só o microfone de fora.
+5. Gire o ajuste de sensibilidade para o mínimo.
+6. Bata palmas a aproximadamente 1 metro do microfone.
+7. Aumente a sensibilidade até o LED acender.
+8. Afaste-se até o LED apagar; anote a distância no caderno.
+9. Repita com cada fonte e anote a distância em que o LED apaga.
+
+ATENCAO
+-------
+Este aparelho compara níveis; não mede decibéis calibrados.
+Não serve para afirmar que um ambiente está dentro da lei.
+Nunca ligue o circuito à tomada: risco de choque e incêndio.
+Pilhas e baterias podem vazar; mantenha longe de crianças.
+O ouvido se acostuma com o ruído; confira sempre as marcas.
+Se precisar elevar a voz a cerca de 1 metro, proteja os ouvidos:
+o ruído pode passar de 85 dBA.
+
+SE NAO TIVER
+------------
+Sem módulo, compare pelo ouvido com o mesmo teste de distância.
+Sem bateria, não monte o circuito; use apenas a comparação.
+Não invente números de decibéis para compensar a falta do aparelho.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O LED acende ao bater palmas perto e apaga ao afastar.
+A fonte mais ruidosa faz o LED apagar a maior distância.
+
+FONTES
+------
+Prática consolidada de comparação de ruído; limites segundo NIOSH e OSHA.
+Circuito descrito como comparador, não como instrumento calibrado.

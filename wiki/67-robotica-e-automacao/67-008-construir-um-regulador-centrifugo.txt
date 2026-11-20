@@ -1,0 +1,85 @@
+==============================================================================
+CODIGO: 67-008
+TITULO: Como construir um regulador centrífugo
+CATEGORIA: 67 - Robótica, automação e controle
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: eixo metálico, rolamento, duas bolas iguais, óculos de proteção
+REVISAO: 2026-11
+PALAVRAS-CHAVE: regulador, centrífugo, watt, velocidade, rotação, bolas
+==============================================================================
+
+OBJETIVO
+--------
+Montar um mecanismo em que o giro do eixo afasta duas bolas e levanta uma
+manga, base de um regulador de velocidade.
+
+QUANDO USAR
+-----------
+Quando quiser demonstrar realimentação negativa com peças mecânicas simples.
+Quando precisar controlar a rotação de um motor pequeno sem eletrônica.
+Para entender como uma máquina a vapor mantinha a velocidade constante.
+Em projetos de ensino de automação e controle mecânico.
+
+NAO USE QUANDO
+--------------
+Quando a carga exigir força grande ou resposta rápida: o curso é curto.
+Quando o eixo girar em alta rotação sem proteção: peças soltas podem voar.
+Não use em máquina com norma de segurança sem projeto de engenheiro.
+
+MATERIAIS
+---------
+- Base de madeira firme, maior que o mecanismo (ou chapa de metal).
+- Eixo vertical reto de metal: barra roscada ou vergalhão de 8 mm.
+- Rolamento ou bucha para o eixo girar livre (de skate ou de nylon).
+- Duas hastes rígidas iguais para os braços (arame grosso ou barra).
+- Duas bolas do mesmo peso: porcas grandes ou rolamentos iguais.
+- Duas hastes finas de ligação (arame de clip ou arame de piano).
+- Manga deslizante: tubo que corre no eixo sem folga (metal ou plástico).
+- Alavanca de saída presa à manga (régua de madeira ou barra fina).
+- Parafusos, arruelas e porcas para as articulações.
+- Óculos de proteção e luvas.
+
+PROCEDIMENTO
+------------
+1. Coloque os óculos de proteção antes de girar qualquer peça.
+2. Fixe a base na mesa com grampos ou com peso.
+3. Monte o rolamento no centro da base e prenda o eixo vertical nele.
+4. Confira que o eixo gira livre, sem folga lateral.
+5. Prenda as duas hastes dos braços na ponta alta do eixo, opostas.
+6. Prenda uma bola na ponta livre de cada braço, com o mesmo peso e altura.
+7. Enfie a manga no eixo, abaixo das articulações dos braços.
+8. Prenda uma haste de ligação de cada braço à manga, do mesmo comprimento.
+9. Ajuste para que as duas bolas fiquem na mesma altura em repouso.
+10. Prenda a alavanca de saída na manga para registrar o movimento.
+11. Gire o eixo devagar com a mão e observe as bolas se afastarem.
+12. Aumente o giro e veja a manga subir; reduza e veja descer.
+13. Pare antes que as bolas batam na base ou a manga saia do eixo.
+
+ATENCAO
+-------
+Bolas soltas ou mal presas voam com o giro e podem ferir os olhos.
+Use óculos de proteção e mantenha as mãos longe do plano de rotação.
+Bolas de pesos diferentes fazem o eixo vibrar e a manga subir torta.
+Não ultrapasse a rotação em que a manga bate no topo do eixo.
+Se o eixo vibrar ou uma haste soltar, pare e desmonte antes de continuar.
+
+SE NAO TIVER
+------------
+Sem rolamento, use uma bucha de nylon ou um tubo com graxa como mancal.
+Sem bolas de metal, use porcas iguais bem presas; nunca pedras quebradiças.
+Sem motor, gire o eixo com a mão ou com furadeira em baixa rotação.
+Sem manga metálica, use tubo de plástico duro que deslize sem folga.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ao girar, as duas bolas afastam e sobem juntas, sem inclinar o eixo.
+A manga sobe quando o giro aumenta e desce quando o giro diminui.
+A alavanca presa à manga move-se na mesma direção, sem travar.
+
+FONTES
+------
+Prática consolidada de engenharia mecânica, sem documento único.
+Regulador centrífugo de Watt, cerca de 1788, e o artigo "On Governors",
+de James Clerk Maxwell, 1868: referências clássicas do assunto.
+Resumo operacional; não substitui treinamento nem projeto de engenheiro.

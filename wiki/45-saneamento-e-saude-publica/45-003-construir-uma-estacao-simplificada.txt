@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 45-003
+TITULO: Como construir uma estação simplificada de tratamento de água
+CATEGORIA: 45 - Engenharia de saneamento e saúde pública
+TEMPO: 180 minutos
+RISCO: alto
+EXIGE: dois baldes com tampa, pano limpo, água sanitária sem perfume
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, tratamento, decantação, filtro, cloro, desinfecção
+==============================================================================
+
+OBJETIVO
+--------
+Montar, com materiais comuns, uma sequência que torna água suspeita
+mais segura para beber.
+
+QUANDO USAR
+-----------
+Quando o abastecimento regular falhar após enchente ou desastre.
+Quando a água vier de rio, poço ou nascente sem tratamento.
+Quando a água estiver turva e precisar de decantação e filtragem.
+Quando não houver estação de tratamento próxima nem energia elétrica.
+
+NAO USE QUANDO
+--------------
+Quando houver suspeita de combustível, agrotóxico, metal pesado, sal ou
+material radioativo. Este procedimento não remove esses contaminantes.
+Quando a água tiver material flutuante, cor escura ou cheiro suspeito.
+Nesses casos, procure outra fonte de água ou ajuda das autoridades.
+
+MATERIAIS
+---------
+- Dois baldes ou barris limpos com tampa (garrafas grandes limpas).
+- Pano limpo, papel-toalha ou filtro de café (tecido fino limpo).
+- Funil (garrafa plástica limpa cortada ao meio).
+- Barbante ou elástico para prender o pano (nó firme).
+- Água sanitária comum, sem perfume, com 6% de hipoclorito de sódio.
+- Conta-gotas limpo (conta-gotas de medicamento lavado).
+- Recipientes menores limpos com tampa para guardar a água tratada.
+
+PROCEDIMENTO
+------------
+1. Escolha local plano, limpo e ventilado, longe de fezes e animais.
+2. Lave os recipientes com sabão e água e enxágue bem.
+3. Não use recipiente que tenha guardado combustível, tinta ou agrotóxico.
+4. Coloque o primeiro balde, o de decantação, sobre base firme e nivelada.
+5. Despeje a água bruta nesse balde até aproximadamente 20 litros.
+6. Deixe a água parada por aproximadamente 1 hora para a sujeira assentar.
+7. Prenda o pano limpo na boca do segundo balde com barbante ou elástico.
+8. Encaixe o funil sobre o pano, sem deixar folgas pelas laterais.
+9. Despeje a água do primeiro balde pelo filtro, devagar, sem mexer o fundo.
+10. Pare quando o lodo do fundo começar a subir pelo funil.
+11. Descarte o lodo em local afastado de fontes de água.
+12. Meça 2 gotas de água sanitária 6% por litro de água filtrada.
+13. Se a água estiver turva ou muito fria, use 4 gotas por litro.
+14. Adicione cloro com conta-gotas limpo, mexa, tampe e espere 30 minutos.
+15. Se não houver odor leve de cloro, repita a dose e espere 15 minutos.
+16. Guarde em recipiente tampado e rotulado; use primeiro o mais antigo.
+
+ATENCAO
+-------
+A filtragem retira partículas, não mata microrganismos; sem desinfecção,
+a água continua podendo causar doença.
+A estação não remove metais, agrotóxicos, combustível, sal nem material
+radioativo; nesses casos ferver também não resolve.
+Use só água sanitária sem perfume. Cloro em excesso irrita boca e
+estômago; se o cheiro ficar forte, transfira entre recipientes limpos.
+Mãos sujas e panos sujos recontaminam a água; limpe o filtro se entupir.
+Fontes divergem: a EPA exige 3 minutos acima de 1.000 metros,
+orientações antigas usam 2.000. Na dúvida, use 3 acima de 1.000 metros.
+Não beba água de cheiro duvidoso. Se após beber surgirem diarreia,
+vômito ou dor abdominal, pare de usar e procure atendimento de saúde.
+
+SE NAO TIVER
+------------
+Sem água sanitária, ferver é a alternativa: pelo menos 1 minuto de
+ebulição forte, ou 3 minutos acima de aproximadamente 1.000 metros.
+Sem pano ou filtro de café, deixe a água assentar por mais tempo e
+transfira com muito cuidado. A desinfecção continua obrigatória.
+Sem funil, use uma garrafa plástica limpa cortada ao meio.
+Sem conta-gotas limpo, não improvise a dose: prefira a fervura.
+Sem tampa, arrume recipiente tampado antes de começar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água escorreu pelo filtro sem partículas visíveis.
+O lodo ficou no fundo do primeiro balde e foi descartado.
+Depois de 30 minutos há odor leve de cloro, ou a água ferveu forte pelo
+tempo indicado.
+Os recipientes finais estão limpos, tampados e com a data anotada.
+
+FONTES
+------
+Agência de Proteção Ambiental dos Estados Unidos (EPA), orientação de
+desinfecção de água potável em emergência, revisada em 2026.
+Organização Mundial da Saúde (OMS), folha informativa sobre água potável
+e Diretrizes para qualidade da água potável.
+Organização Pan-Americana da Saúde (OPAS/OMS), tema Água e Saneamento.

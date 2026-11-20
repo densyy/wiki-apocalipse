@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 52-024
+TITULO: Como compreender expansão térmica
+CATEGORIA: 52 - Física aplicada e princípios fundamentais
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: papel, lápis, régua, água quente, tampa metálica, pano seco
+REVISAO: 2026-11
+PALAVRAS-CHAVE: expansão, dilatação, contração, coeficiente, tampa, fresta
+==============================================================================
+
+OBJETIVO
+--------
+Observar materiais mudarem de tamanho com o calor e prever a mudança.
+QUANDO USAR
+-----------
+Ao abrir tampa metálica presa com água quente.
+Ao entender as frestas de pontes, trilhos e calçadas.
+Ao explicar por que garrafas cheias estouram no congelador.
+NAO USE QUANDO
+--------------
+Quando a peça está presa nas duas pontas: aparece esforço térmico.
+Quando o material é anisotrópico, como madeira: muda com a direção.
+Quando a variação é grande: a conta linear perde precisão.
+MATERIAIS
+---------
+- Papel e lápis (ou memorize os números).
+- Régua ou barbante (para comparar comprimentos).
+- Água quente e água fria ou gelo (ou calor das mãos e do sol).
+- Tampa metálica de rosca e vidro com boca de rosca (ou anel).
+- Arame fino e pano seco (para segurar a parte quente).
+PROCEDIMENTO
+------------
+1. Feche o vidro com a tampa metálica bem apertada.
+2. Despeje água quente, não fervente, sobre a tampa por segundos.
+3. Segure com o pano seco e gire: a tampa sai.
+4. Entenda: o metal dilatou mais que o vidro.
+5. Meça o arame com a régua e anote o comprimento.
+6. Esquente o arame e meça de novo; anote o aumento.
+7. Escreva a regra: mudança de tamanho é coeficiente vezes tamanho
+   inicial vezes mudança de temperatura.
+8. Entenda o coeficiente: número que mede a mudança por grau.
+9. Use cerca de 12 por milhão para aço e 25 para alumínio.
+10. Confira: 1 metro de aço cresce aproximadamente 0,1 milímetro
+    a cada 10 graus de aquecimento.
+11. Encha um copo com água até a borda e leve ao congelador.
+12. Veja a água transbordar: ao congelar, a água dilata.
+13. Esquente o arame frouxo, molhe com água fria e veja-o encurtar.
+ATENCAO
+-------
+Metais conduzem calor: use o pano seco para não queimar a mão.
+Peça presa nas duas pontas racha, empena ou solda por esforço térmico.
+A água é a exceção: dilata ao congelar, por isso canos estouram.
+Coeficientes são aproximados; não dimensione frestas com estes números.
+SE NAO TIVER
+------------
+Sem água quente, esfregue a tampa entre as mãos ou use o sol.
+Sem régua, compare o arame antes e depois com um barbante.
+Sem vidro com rosca, use tampa de panela ou anel metálico.
+COMO SABER QUE DEU CERTO
+------------------------
+A tampa gira com a mão depois de aquecida.
+O arame mede mais quente e menos frio; o cálculo fica perto do medido.
+A água transborda ao congelar e cabe de novo ao derreter.
+FONTES
+------
+Conhecimento estabelecido de física do calor e do estado sólido.
+Base: University Physics, volume 2, capítulo 1.3, da OpenStax, e DOE
+Fundamentals Handbook, Material Science, volume 2. Prática consolidada.

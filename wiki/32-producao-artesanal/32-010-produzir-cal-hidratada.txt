@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 32-010
+TITULO: Como produzir cal hidratada
+CATEGORIA: 32 - Produção industrial e manufatura artesanal
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: cal virgem em pedra, água, forno, óculos e luvas, peneira
+REVISAO: 2026-11
+PALAVRAS-CHAVE: cal, cal hidratada, cal virgem, apagar cal, argamassa
+==============================================================================
+
+OBJETIVO
+--------
+Transformar cal virgem em pó de cal hidratada para argamassa ou calagem.
+
+QUANDO USAR
+-----------
+Quando há cal virgem em pedra e falta cal hidratada pronta.
+Quando se precisa corrigir o solo do horto com ação rápida.
+Quando se prepara argamassa de assentamento ou de reboco.
+Quando a cal comercial não chega ao local.
+
+NAO USE QUANDO
+--------------
+Não use se a pedra de origem for desconhecida ou estiver contaminada.
+Não use sem proteção de olhos, rosto e pele.
+Não use em ambiente fechado sem ventilação.
+Não use com crianças ou animais perto do local de trabalho.
+
+MATERIAIS
+---------
+- Cal virgem em pedra (óxido de cálcio), seca e limpa.
+- Água limpa em recipiente com bico ou pano para aspergir.
+- Forno, braseiro ou fogão a lenha para obter a cal virgem.
+- Óculos de proteção, luvas grossas e pano para cobrir nariz e boca.
+- Peneira fina ou pano limpo e resistente.
+- Recipiente com tampa para guardar o pó.
+- Martelo e pá para quebrar e mexer a cal.
+
+PROCEDIMENTO
+------------
+1. Queime pedras de calcário limpo até ficarem vermelhas.
+2. Mantenha o fogo forte por várias horas; a queima leva horas.
+3. Deixe as pedras esfriarem até poderem ser tocadas com luva.
+4. Retire as pedras queimadas: são a cal virgem (CaO).
+5. Quebre as pedras com martelo até virarem pedaços pequenos.
+6. Peneire e separe a parte fina; descarte a parte grossa sem queima.
+7. Coloque a cal fina no recipiente, deixando espaço para a reação.
+8. Vista óculos, luvas, mangas compridas e proteção para o rosto.
+9. Trabalhe ao ar livre ou em local muito ventilado.
+10. Asperja água limpa aos poucos sobre a cal, sem despejar de uma vez.
+11. Use aproximadamente 1 parte de água para 4 partes de cal em peso.
+12. Mexa com utensílio seco enquanto a cal esquenta e solta vapor.
+13. Espere a massa parar de esquentar e virar pó fino e seco.
+14. Peneire o pó outra vez para retirar grãos sem hidratar.
+15. Volte os grãos grandes ao passo 10 e asperja mais água aos poucos.
+16. Tampe o recipiente e guarde em lugar seco, longe de crianças.
+
+ATENCAO
+-------
+A cal virgem e a cal hidratada são bases fortes e queimam pele e olhos.
+A hidratação é fortemente exotérmica: a massa esquenta e solta vapor.
+Despejar água em grande quantidade causa respingo e vapor quente.
+Nunca incline o rosto sobre o recipiente durante a hidratação.
+Não inale o pó: cubra nariz e boca com pano limpo.
+Em contato com os olhos, lave com água corrente e procure ajuda.
+Em contato com a pele, tire a roupa suja e lave com muita água.
+A queima do calcário usa fogo forte; fumaça em lugar fechado mata.
+As fontes divergem sobre a água: 20% em peso ou até 60% em volume.
+Por isso asperje aos poucos, sem seguir uma medida fixa.
+Sem proteção dos olhos, um respingo de cal pode causar cegueira.
+
+SE NAO TIVER
+------------
+Sem cal virgem, queime calcário antes, conforme os passos 1 a 4.
+Sem forno, use braseiro ao ar livre, nunca dentro de casa.
+Sem óculos, não faça o serviço; procure óculos ou compre cal pronta.
+Sem peneira, use pano limpo e resistente para separar o pó.
+Sem água corrente para lavar olhos e pele, não manusee cal virgem.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O pó ficou branco, fino e parou de esquentar após a hidratação.
+Não há grãos duros que estalam ao serem apertados com a luva.
+A mistura não solta mais vapor quente quando é mexida de novo.
+O pó passou pela peneira e ficou guardado em recipiente fechado.
+
+FONTES
+------
+Prática consolidada de produção artesanal de cal, sem documento único.
+Centro de Tecnologia Mineral (CETEM), capítulo sobre calcinação e cal.
+Sidac, documento "Cal" (2022), sobre hidratação e a norma ABNT NBR 7175.
+Associação Brasileira de Cimento Portland, guia das argamassas (2007).
+Embrapa, documento sobre características de corretivos agrícolas.
+IMVF, manual de cal em Cabo Verde (2019), sobre cal viva e hidratada.
+==============================================================================

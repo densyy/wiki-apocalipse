@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 08-050
+TITULO: Como reparar motores pequenos
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: motor frio, ar livre, chaves, pano, óleo, vela e recipiente
+REVISAO: 2026-11
+PALAVRAS-CHAVE: motor, reparo, vela, carburador, filtro, óleo, não liga
+==============================================================================
+
+OBJETIVO
+--------
+Deixar um motor pequeno de ferramenta ou gerador funcionando de novo.
+
+QUANDO USAR
+-----------
+O motor liga e morre ao acelerar ou falta força ao trabalhar.
+A gasolina ficou velha no tanque durante o armazenamento.
+
+NAO USE QUANDO
+--------------
+Motor quente ou em lugar fechado: espere e leve ao ar livre.
+Com cheiro de gasolina, vazamento ou fio desencapado, não abra nem ligue.
+
+MATERIAIS
+---------
+- Chave de vela, chave de fenda, escova e pano limpo.
+- Dangímetro (medidor da folga da vela).
+- Filtro de ar, vela e óleo novos, conforme o manual do motor.
+- Recipiente metálico tampado, óculos e limpador não inflamável.
+
+PROCEDIMENTO
+------------
+1. Desligue o motor, espere esfriar e trabalhe ao ar livre.
+2. Retire a tampa do tanque e escoe a gasolina velha para o recipiente.
+3. Retire o filtro de ar e bata o elemento de papel no chão.
+4. Lave o pré-filtro de espuma com água e sabão, esprema e deixe secar.
+5. Retire a vela com a chave e limpe a ponta com escova e pano.
+6. Ajuste a folga da vela com dangímetro conforme o manual do motor.
+7. Troque a vela se estiver rachada, com fuligem ou com a ponta gasta.
+8. Retire a cuba do carburador e escoe o combustível parado.
+9. Limpe os furos da cuba com limpador não inflamável; nunca use gasolina.
+10. Reencaixe a cuba e aperte os parafusos sem excesso de força.
+11. Drene o óleo velho para recipiente e descarte em local próprio.
+12. Reencha com óleo novo até a marca da vareta, sem passar do limite.
+13. Recoloque vela, fio, filtro e tampas; limpe o derramamento com pano.
+14. Coloque gasolina fresca e dê o arranque ao ar livre, com a lâmina livre.
+
+ATENCAO
+-------
+Gasolina inflama com faísca: não fume e não ligue o motor perto de chama.
+Não toque no fio da vela com o motor ligado: a ignição tem alta tensão.
+Nunca ligue o motor em lugar fechado: o monóxido de carbono mata sem cheiro.
+Mãos e roupas longe de lâmina e volante; pare se houver ruído metálico.
+
+SE NAO TIVER
+------------
+Sem filtro novo, limpe o de papel batendo-o; nunca use ar comprimido.
+Sem o óleo indicado no manual, não improvise com qualquer óleo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O motor arranca e fica em rotação estável por alguns minutos.
+
+FONTES
+------
+Guia Simple Lawn Mower Maintenance, North Dakota State University.
+Guia curricular ERIC ED271558: segurança, combustível, ignição e compressão.
+Alerta NIOSH/CDC 96-118 (1996): monóxido de carbono em motores a gasolina.

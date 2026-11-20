@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 02-040
+TITULO: Como identificar doenças em plantas
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: caderno, lupa de aumento, luvas, boa luz
+REVISAO: 2026-11
+PALAVRAS-CHAVE: planta doente, mancha, sintoma, murcha, fungo, diagnose
+==============================================================================
+
+OBJETIVO
+--------
+Observar a planta e listar sintomas de doença, praga ou erro de cultivo.
+
+QUANDO USAR
+-----------
+Quando aparecerem manchas, pontos ou descoloração nas folhas.
+Quando a planta murchar mesmo com o solo úmido.
+Antes de aplicar tratamento ou descartar a planta.
+
+NAO USE QUANDO
+--------------
+Não use para dar nome exato à doença: isso exige laboratório.
+Não use para decidir o que comer: planta de causa duvidosa não se come.
+
+MATERIAIS
+---------
+- Caderno e lápis para anotar os sintomas.
+- Lupa de aumento (lente de celular ou óculos de leitura).
+- Luvas (saco plástico nas mãos).
+
+PROCEDIMENTO
+------------
+1. Identifique a espécie da planta antes de observar os sintomas.
+2. Observe as folhas velhas e novas, nos dois lados.
+3. Observe caule, base, raiz e fruto.
+4. Anote a cor, o formato e o tamanho de cada mancha.
+5. Anote borda escura, halo amarelo ou anéis como sinal de fungo.
+6. Anote goma ou mancha angular como sinal de bactéria.
+7. Anote mosaico claro-escuro e folha torcida como sinal de vírus.
+8. Vire a folha e procure insetos, ovos, teias ou melada pegajosa.
+9. Verifique se o dano é uniforme ou espalhado de forma irregular.
+10. Compare com plantas vizinhas da mesma e de outras espécies.
+11. Anote a data de início e se as manchas cresceram ou se espalharam.
+12. Marque erro de cuidado se o dano foi súbito e atingiu várias espécies.
+13. Repita a observação no dia seguinte antes de aplicar tratamento.
+
+ATENCAO
+-------
+Doenças diferentes produzem o mesmo sintoma. Não nomeie só pela cor.
+Sintoma súbito e uniforme pode ser falta de água, frio ou excesso de adubo.
+Não aplique veneno sem diagnóstico: pode queimar a planta e o alimento.
+Pare e procure agrônomo se a lavoura inteira estiver atingida.
+
+SE NAO TIVER
+------------
+Sem lupa, use a lente do celular ou observe ao ar livre com boa luz.
+Sem luvas, use saco plástico e lave as mãos depois de tocar a planta.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As manchas e os sinais anotados aparecem nos mesmos pontos no dia seguinte.
+A planta vizinha mostra ou não os mesmos sinais anotados no caderno.
+
+FONTES
+------
+Embrapa: Manual Básico de Técnicas Fitopatológicas, sintomas e sinais.
+Embrapa: coleta de amostras para diagnose de doenças de plantas.
+Colorado State University Extension, Diagnosing Plant Disorders; Cornell.

@@ -1,0 +1,80 @@
+==============================================================================
+CODIGO: 59-013
+TITULO: Como reconhecer riscos de espaços confinados
+CATEGORIA: 59 - Segurança industrial e riscos ocupacionais
+TEMPO: 15 minutos
+RISCO: alto
+EXIGE: nada além do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: espaço confinado, poço, gás, asfixia, entrada, falta de ar
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer um espaço confinado e seus riscos sem entrar no local.
+
+QUANDO USAR
+-----------
+Quando for abrir ou inspecionar tanque, caixa d'água, poço, fossa ou silo.
+Quando precisar avaliar vala, tubulação, duto, porão ou escavação funda.
+Quando alguém desapareceu dentro de um espaço fechado.
+Quando houver cheiro de gás ou material guardado em recipiente fechado.
+Antes de autorizar trabalho em área fechada ou subterrânea.
+
+NAO USE QUANDO
+--------------
+Observar de fora não tem contraindicação. Este guia nunca autoriza entrada.
+Não o use para justificar entrar sem treinamento, permissão e teste de ar.
+
+MATERIAIS
+---------
+- Nenhum material.
+- Se houver, use lanterna para olhar sem se inclinar.
+
+PROCEDIMENTO
+------------
+1. Pare antes de abrir, entrar ou deixar outra pessoa entrar.
+2. Observe se entrada e saída são limitadas, como tampa ou boca estreita.
+3. Confira se o espaço cabe uma pessoa e permite que ela trabalhe dentro.
+4. Verifique se o local não foi feito para ocupação contínua de pessoa.
+5. Se os três sinais aparecerem, classifique como espaço confinado.
+6. Olhe de fora, sem inclinar o corpo sobre a abertura.
+7. Identifique cheiro de gás, mofo, podridão, tinta ou produto químico.
+8. Procure material que engole: grãos, areia, lama, líquido ou esterco.
+9. Observe paredes que fecham para dentro ou piso que desce e estreita.
+10. Note máquinas, fios expostos, calor forte ou líquido entrando.
+11. Se aparecer um desses sinais, trate como risco e não entre.
+12. Sinalize a abertura e afaste outras pessoas.
+13. Acione o responsável pela segurança ou o serviço de resgate.
+
+ATENCAO
+-------
+Falta de oxigênio não tem cheiro nem cor e pode matar em minutos.
+O ar comum tem cerca de 21% de oxigênio; abaixo de 19,5% já é perigoso.
+Acima de 23,5% de oxigênio, o ar aumenta muito o risco de incêndio.
+Não confie no nariz: alguns gases matam sem cheiro e anestesiam o olfato.
+Monóxido de carbono e nitrogênio matam sem aviso nesses locais.
+Nunca entre para socorrer sem treino: o socorrista também pode morrer.
+Este guia não substitui treino, permissão, teste de ar e monitoramento.
+
+SE NAO TIVER
+------------
+Sem lanterna, espere a luz do dia ou peça a alguém que ilumine de longe.
+Sem caderno, memorize os sinais e repita em voz alta para quem estiver fora.
+Não use chama ou vela para testar o ar: não prova nada e pode inflamar gás.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você disse, sem entrar, se o lugar tem entrada estreita e uso não contínuo.
+Você apontou pelo menos um risco observável e avisou quem estava por perto.
+A abertura ficou sinalizada e ninguém entrou antes da equipe chegar.
+
+FONTES
+------
+Administração de Segurança e Saúde Ocupacional dos EUA (OSHA): página
+Confined Spaces e norma 29 CFR 1910.146, que define espaço confinado,
+atmosfera perigosa (oxigênio abaixo de 19,5% ou acima de 23,5%) e teste
+do ar antes da entrada. Instituto Nacional de Segurança e Saúde
+Ocupacional dos EUA (NIOSH): publicações sobre mortes em espaços
+confinados e casos investigados pelo programa FACE. Resumo operacional;
+não substitui treinamento.

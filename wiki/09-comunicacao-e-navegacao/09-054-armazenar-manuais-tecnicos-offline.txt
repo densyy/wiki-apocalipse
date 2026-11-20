@@ -1,0 +1,68 @@
+==============================================================================
+CODIGO: 09-054
+TITULO: Como armazenar manuais técnicos offline
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: computador, pendrive, saco plástico vedado, papel e lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: manual, offline, texto, pdf, backup, pendrive, impresso
+==============================================================================
+
+OBJETIVO
+--------
+Guarde manuais técnicos em vários formatos para abri-los sem internet.
+
+QUANDO USAR
+-----------
+Quando a internet vai cair ou ao revisar o kit de emergência da casa.
+Quando o grupo precisar de socorros ou reparos longe de sinal.
+
+NAO USE QUANDO
+--------------
+Quando a fonte for duvidosa: não confie no manual para risco alto.
+
+MATERIAIS
+---------
+- Computador ou celular com o manual baixado (ou o manual impresso).
+- Pendrive (unidade flash) e um segundo aparelho, de outra pessoa.
+- Papel, lápis, saco plástico vedado e caixa rígida (ou pasta de arquivo).
+
+PROCEDIMENTO
+------------
+1. Escolha os manuais críticos: primeiros socorros, água e reparos.
+2. Baixe cada manual enquanto a internet ainda funciona, no computador.
+3. Salve o texto em arquivo TXT em UTF-8, codificação legível em qualquer
+aparelho, sem depender de programa específico.
+4. Converta tabelas e figuras em TIFF ou PNG e salve também em PDF/A.
+5. Dê a cada arquivo um nome curto com o mês, como socorros-2026-11.
+6. Copie os arquivos para o pendrive e para um cartão de memória.
+7. Entregue uma segunda cópia a pessoa de confiança, em outro endereço.
+8. Imprima os manuais mais usados, um assunto por folha.
+9. Coloque o papel em saco plástico vedado e o pendrive na caixa rígida.
+10. Escreva no papel a lista de arquivos, o local de cada cópia e a data.
+11. Abra um arquivo sem internet e leia duas páginas.
+12. Refaça a cópia a cada seis meses ou quando o arquivo não abrir.
+
+ATENCAO
+-------
+O que está só na nuvem some sem internet: baixe antes de precisar.
+Um pendrive falha sem aviso: mantenha duas cópias em aparelhos diferentes.
+PDF comum perde fontes: prefira TXT e PDF/A e confira a cópia.
+
+SE NAO TIVER
+------------
+Sem computador, baixe no celular e guarde no cartão de memória.
+Sem pendrive, use cartão, disco externo ou outro aparelho.
+Sem nada disso, copie à mão em caderno os passos de primeiros socorros.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O TXT abre no bloco de notas sem internet, com texto completo.
+O pendrive abre e a lista confere com o papel, sem manchas de água.
+
+FONTES
+------
+Prática consolidada: FEMA e Ready.gov (cópias à prova d'água e de fogo).
+Formatos: Biblioteca do Congresso dos EUA, Smithsonian Institution Archives
+e Digital Preservation Coalition (texto simples, PDF/A e TIFF).

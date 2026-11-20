@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 04-004
+TITULO: Como dimensionar um sistema solar isolado
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: papel, lapis, lista de aparelhos, dados de placa dos aparelhos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: solar, placa, bateria, inversor, isolado, consumo, autonomia
+==============================================================================
+
+OBJETIVO
+--------
+Calcular no papel paines, baterias, controlador e inversor
+para cargas basicas de um local sem rede eletrica.
+
+QUANDO USAR
+-----------
+Quando o local nao tem rede eletrica e precisa de luz.
+Quando e preciso estimar custo e material antes de comprar.
+Quando se quer saber se um kit pronto atende a casa.
+Quando pessoa habilitada montara o sistema apos o calculo.
+
+NAO USE QUANDO
+--------------
+Quando ha rede eletrica funcionando no local.
+Quando o objetivo e vender energia para a distribuidora.
+Quando for mexer na rede publica ou em parte energizada.
+Quando a carga exige projeto assinado e voce nao tem apoio.
+
+MATERIAIS
+---------
+- Papel, lapis e calculadora para a tabela de consumo.
+- Potencia em watts de cada aparelho, da etiqueta.
+- Horas de uso por dia de cada aparelho, com realismo.
+- Horas de sol pleno do local, ou aproximadamente 4 a 6.
+- Etiqueta ou catalogo de bateria, painel e inversor.
+
+PROCEDIMENTO
+------------
+1. Liste cada aparelho com potencia em watts e horas de uso diario.
+2. Multiplique watts por horas de cada um para obter Wh por dia.
+3. Some os Wh por dia e anote o consumo diario total.
+4. Acrescente aproximadamente 25 por cento ao total para perdas.
+5. Escolha o banco: 12 V ate 1000 Wh por dia e 24 V ate 3000.
+6. Acima de 3000 Wh por dia, use banco de 48 V.
+7. Defina a autonomia em dias sem sol, no minimo 2 dias.
+8. Multiplique o consumo corrigido pelos dias de autonomia.
+9. Divida pela descarga segura: 50 por cento chumbo e 80 litio.
+10. Divida o valor pela tensao do banco para obter Ah.
+11. Divida o consumo corrigido pelas horas de sol pleno do local.
+12. O resultado e a potencia aproximada dos paines em watts.
+13. Acrescente 20 por cento aos paines para sujeira e calor.
+14. Escolha inversor acima da potencia simultanea com folga de
+30 por cento.
+15. Confira a partida de motores: geladeira e bomba pedem
+aproximadamente 3 a 6 vezes a potencia nominal.
+16. Escolha o controlador acima da corrente maxima dos paines.
+17. Anote a lista final: paines, baterias, controlador e inversor.
+
+ATENCAO
+-------
+Eletricidade mata: nunca monte o sistema energizado.
+Curto em bateria solta faisca, queima cabo e causa incendio.
+Bateria chumbo-acida solta gas inflamavel: ventile e afaste fogo.
+Inversor fraco para a carga queima e pode incendiar os fios.
+Este calculo e estimativa e nao dispensa profissional habilitado.
+Com cheiro de queimado ou faisca, desligue tudo e chame ajuda.
+Gerador a combustao em local fechado mata: monoxido sem cheiro.
+
+SE NAO TIVER
+------------
+Sem etiqueta, use o manual e marque o valor como aproximado.
+Sem dado de sol, use aproximadamente 4 horas de sol pleno.
+Sem catalogo, leve a tabela a um tecnico e peca proposta.
+Sem calculadora, faca as contas no papel e confira duas vezes.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A soma confere quando refeita por outra pessoa.
+O inversor supera a potencia simultanea com folga.
+O banco cobre consumo diario vezes dias de autonomia.
+
+FONTES
+------
+Guia VeraSol para sistemas fotovoltaicos isolados sem rede.
+Orientacoes do Departamento de Energia dos EUA sobre solar.
+Apostila de projetos fotovoltaicos da Secretaria de Educacao
+do Ceara; pratica consolidada de instaladores.

@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 08-032
+TITULO: Como realizar têmpera em aço
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 45 minutos
+RISCO: alto
+EXIGE: aço com carbono, calor, óleo de têmpera, pinça, luvas, extintor
+REVISAO: 2026-11
+PALAVRAS-CHAVE: aço, têmpera, endurecer, revenido, óleo, lima, cor, fogo
+==============================================================================
+
+OBJETIVO
+--------
+Endurecer aço com carbono e reduzir a fragilidade depois da têmpera.
+
+QUANDO USAR
+-----------
+Quando fabricar cinzel, faca ou broca a partir de lima antiga.
+Quando ferramenta de aço amoleceu e não mantém mais o corte.
+Quando for reaproveitar aço de ferramenta em boas condições.
+
+NAO USE QUANDO
+--------------
+Aço sem carbono, como ferro macio ou parafuso comum, não endurece. Não
+tempere peça rachada, soldada ou inoxidável, nem sem extintor por perto.
+
+MATERIAIS
+---------
+- Aço com carbono conhecido: lima antiga, broca ou aço de ferramenta.
+- Brasas de carvão ou maçarico.
+- Ímã pequeno para testar a temperatura.
+- Óleo de têmpera comercial, limpo e sem água.
+- Recipiente metálico fundo, com tampa que abafe o fogo.
+- Pinça longa, luvas de couro e óculos de proteção.
+- Lixa ou pedra de amolar para limpar a superfície.
+- Extintor de pó BC e pano limpo.
+
+PROCEDIMENTO
+------------
+1. Confirme o aço: passe uma lima na peça; se a lima morder, há carbono.
+2. Deixe a borda com aproximadamente 2 mm de espessura antes de endurecer.
+3. Encha o recipiente com óleo até cobrir a peça, longe das brasas.
+4. Mantenha a tampa do óleo e o extintor ao alcance da mão.
+5. Aqueça a peça de forma uniforme em brasas ou com o maçarico, virando-a.
+6. Aproxime o ímã de vez em quando, sem encostá-lo na peça quente.
+7. Retire do calor quando o ímã não grudar mais na peça.
+8. Nesse ponto o aço está vermelho-cereja: aproximadamente 750 a 800 C.
+9. Não deixe ficar laranja ou amarelo: o aço fica quebradiço.
+10. Segure com a pinça e mergulhe a peça no óleo em um movimento firme.
+11. Mova a peça para cima e para baixo dentro do óleo, sem tirá-la.
+12. Mantenha submergida por aproximadamente 1 minuto, até parar de fumar.
+13. Retire e passe uma lima na borda: se deslizar sem morder, endureceu.
+14. Se a lima morder, repita os passos 5 a 12 uma vez.
+15. Limpe a peça com lixa ou pedra até o metal brilhar.
+16. Aqueça de novo devagar, sem deixar ficar vermelho, observando a cor.
+17. Escolha a cor: amarelo-claro, aproximadamente 220 C, para lima e
+    broca; marrom, aproximadamente 250 C, para cinzel e faca; roxo,
+    aproximadamente 277 C, para faca tenaz; azul, aproximadamente 290 C,
+    para peça que dobra.
+18. Mergulhe no óleo para parar o revenido ao atingir a cor escolhida.
+19. Repita o aquecimento e o resfriamento uma segunda vez, se puder.
+
+ATENCAO
+-------
+O metal está a aproximadamente 750 C: queima na hora. Use pinça longa,
+luvas e óculos; nunca toque na peça quente nem a apoie em pano.
+O óleo inflama: mantenha o recipiente longe da chama, nunca jogue água
+em óleo aceso e abafe com a tampa metálica. Se o fogo não apagar,
+afaste-se e chame ajuda.
+Nunca mergulhe peça molhada no óleo: a água vira vapor e espirra óleo
+quente. Seque a peça antes.
+A peça pode rachar ou estilhaçar: aquecimento excessivo, borda fina e
+resfriamento em água muito fria aumentam o risco. Afaste o rosto.
+Fontes divergem sobre a cor do vermelho-cereja: use o ímã como critério.
+A cor do revenido é aproximada: luz forte engana, a cor aparece primeiro
+na superfície e o tempo também a escurece. Na dúvida, use menos calor.
+A têmpera não devolve carbono ao aço: se a lima morder depois de dois
+ciclos, o material não serve para ferramenta de corte.
+
+SE NAO TIVER
+------------
+Sem óleo de têmpera, use água limpa a aproximadamente 18 C: endurece
+mais, mas racha e entorta com mais facilidade; não use em peça fina.
+Nunca substitua por gasolina, querosene ou álcool: inflamam de imediato.
+Sem ímã, use a cor vermelho-cereja vista em luz fraca, aceitando o erro.
+Sem lixa, limpe a superfície com pedra de amolar antes do revenido.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Depois da têmpera, uma lima desliza na borda sem morder.
+A cor do revenido aparece uniforme no metal limpo.
+A peça não rachou, não entortou e a borda não lasca ao bater de leve.
+
+FONTES
+------
+National Bureau of Standards, Letter Circular 104 (1918). Manual
+Aviation Structural Mechanic NAVPERS 10328 (1953), cap. 6, tabelas 6-1
+e 6-2. ASM International, Temper Colors for Steels (2008). FM 21-76
+Survival (2002). FM Global, Data Sheet 7-41; CCOHS, tratamento termico.
+Texto resumido: nao substitui treinamento nem especificacao do aco.

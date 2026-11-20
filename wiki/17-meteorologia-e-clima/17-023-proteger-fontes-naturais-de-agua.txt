@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 17-023
+TITULO: Como proteger fontes naturais de água
+CATEGORIA: 17 - Meteorologia, clima e meio ambiente
+TEMPO: 120 minutos
+RISCO: alto
+EXIGE: pá, pedra ou tubo de concreto, arame ou estacas, tampa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: nascente, fonte, água, manancial, cerca, contaminação
+==============================================================================
+
+OBJETIVO
+--------
+Evitar que fezes, lixo e químicos entrem na nascente usada para beber.
+
+QUANDO USAR
+-----------
+Quando uma nascente, mina ou fonte servir para beber no dia a dia.
+Quando animais, pessoas ou lavagem de roupa acessam a fonte.
+Quando chuvas fortes ou enchentes passaram perto da fonte.
+Quando houver fossa, curral ou depósito de lixo no entorno.
+
+NAO USE QUANDO
+--------------
+Quando a água tiver cheiro de combustível, solvente ou agrotóxico.
+Nesse caso a fonte não serve para beber, mesmo depois de ferver.
+Quando não for possível manter animais e fezes longe da captação.
+
+MATERIAIS
+---------
+- Pá e enxada.
+- Pedras, tijolos ou tubo de concreto para formar a caixa.
+- Brita ou cascalho lavado (pedra pequena).
+- Cano, mangueira ou calha de bambu limpos, só para água.
+- Tábua, lona ou pedra larga para a tampa.
+- Arame, estacas ou galhos para a cerca.
+- Balde exclusivo para retirar a água.
+
+PROCEDIMENTO
+------------
+1. Observe a nascente e ache por onde a água chega, sempre acima do ponto.
+2. Caminhe até aproximadamente 30 metros acima e 15 metros ao redor.
+3. Procure fossa, esgoto, curral, lixo, tanque de óleo e agrotóxico.
+4. Se houver um desses focos e não der para removê-lo, escolha outra fonte.
+5. Retire fezes, lixo e animais de dentro da área marcada.
+6. Enterre fezes abaixo da nascente, a aproximadamente 30 metros dela.
+7. Marque 15 metros ao redor e 30 metros acima, aproximadamente.
+8. Feche com arame e estacas, deixando uma entrada com portão.
+9. Abra valeta rasa no lado de cima para desviar a enxurrada.
+10. Incline o chão ao redor da saída para a água da chuva correr para longe.
+11. Empilhe pedras ou assente o tubo de concreto na saída, formando a caixa.
+12. Cubra a caixa com tábua, lona ou pedra, deixando só a saída.
+13. Encaixe o cano ou a mangueira na saída, com a ponta virada para baixo.
+14. Eleve a ponta do cano acima do chão e tampe a entrada com tela fina.
+15. Forre o chão em frente ao cano com brita inclinada para escoar a água.
+16. Plante grama no entorno para segurar o solo e não desmate a encosta.
+17. Retire a água só pelo cano, com balde limpo e sem encostar na boca.
+18. Não lave roupa, não banhe animais e não jogue lixo na área cercada.
+19. Filtre e ferva a água antes de beber; veja 01-001.
+20. Após chuva ou enchente, limpe a área e descarte a primeira água.
+
+ATENCAO
+-------
+Água transparente e sem cheiro pode ter bactérias ou químicos invisíveis.
+Fossa, esgoto ou curral perto contamina a água mesmo com caixa e tampa.
+Ferver não retira combustível, agrotóxico, metal, sal nem radioatividade.
+Com cheiro de óleo, gasolina ou solvente, abandone a fonte e procure outra.
+Enchente e chuva levam fezes e lixo à nascente: trate a água depois.
+Não entre na caixa nem use balde sujo ou que tenha guardado químico.
+Se quem bebeu tiver diarreia, vômito ou icterícia, pare e procure ajuda.
+Cerca e caixa reduzem o risco; só análise confirma a potabilidade.
+
+SE NAO TIVER
+------------
+Sem tubo de concreto, empilhe pedras e vede as laterais com barro.
+Sem tábua ou lona, use uma pedra larga bem ajustada como tampa.
+Sem arame, finque estacas e amarre galhos bem cerrados.
+Sem tela fina, use gaze limpa presa com barbante e troque quando sujar.
+Sem material nenhum, não beba sem filtrar e ferver; procure outra fonte.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água sai apenas pelo cano, com a ponta virada para baixo e acima do chão.
+Não há poça em frente ao cano: a brita e o chão inclinado escoam a água.
+A tampa cobre a caixa e não entram luz, folha ou fezes dentro dela.
+A cerca está fechada e nenhum animal entra na área marcada.
+Após a chuva, a água não tem cheiro de químico e foi tratada.
+
+FONTES
+------
+Formulários de inspeção sanitária de nascentes e poços da OMS (2024).
+Orientações da OMS para proteger fontes de água em emergências.
+Caderno da Funasa sobre proteção de mananciais (2020).
+Apostila do Ministério da Saúde sobre etapas do abastecimento (2025).
+CDC: fontes de água em emergência e segurança de poços (2025).
+Epagri, manual de proteções de nascentes (2022).

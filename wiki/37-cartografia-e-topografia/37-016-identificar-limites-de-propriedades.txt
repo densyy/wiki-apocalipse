@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 37-016
+TITULO: Como identificar limites de propriedades
+CATEGORIA: 37 - Cartografia, topografia e levantamento
+TEMPO: 2 horas
+RISCO: medio
+EXIGE: documento de propriedade, mapa ou croqui, caderno, lápis, trena
+REVISAO: 2026-11
+PALAVRAS-CHAVE: divisa, matrícula, terreno, marco, vizinho, cerca
+==============================================================================
+
+OBJETIVO
+--------
+Localizar no terreno os limites do imóvel e conferi-los com o documento.
+
+QUANDO USAR
+-----------
+Antes de comprar, cercar, construir ou desmatar uma área.
+Quando houver dúvida sobre a posição da cerca ou do muro.
+Antes de medir área para venda, divisão ou regularização.
+
+NAO USE QUANDO
+--------------
+Não serve como prova legal nem substitui responsável técnico habilitado.
+Para imóvel rural, a divisa definitiva exige certificação no INCRA.
+
+MATERIAIS
+---------
+- Matrícula, escritura ou contrato, com cópia (e memorial, se houver).
+- Mapa ou croqui do imóvel, caderno e lápis.
+- Trena ou corda; estacas ou pedras para marcar (fita métrica serve).
+
+PROCEDIMENTO
+------------
+1. Leia a matrícula ou a escritura e copie a descrição das divisas.
+2. Anote os confrontantes: quem limita cada lado do terreno.
+3. Observe medidas, rumos e pontos: marco, pedra, cerca, rio, estrada.
+4. Vá ao terreno com o documento e caminhe todo o perímetro.
+5. Localize cada marco descrito e marque-o com estaca.
+6. Desenhe no caderno cada marco encontrado e sua posição.
+7. Confira se a cerca ou o muro coincide com a linha descrita.
+8. Estique a trena entre dois marcos e meça a distância.
+9. Compare a medida com a do documento e anote a diferença.
+10. Chame cada vizinho confrontante e mostre os marcos encontrados.
+
+ATENCAO
+-------
+Cerca, muro ou aceiro antigo nem sempre coincide com a divisa legal.
+Não mova nem arranque cerca ou marco sem acordo do vizinho.
+Marco deslocado pode transferir área e gerar disputa judicial.
+Se o vizinho discordar, pare e não inicie obra na faixa contestada.
+Em sobreposição com outro imóvel, chame responsável técnico habilitado.
+
+SE NAO TIVER
+------------
+Sem matrícula, peça cópia no cartório de registro de imóveis.
+Sem memorial, use a escritura e o croqui mais antigo.
+Sem trena, meça com corda de comprimento conhecido e anote o método.
+Sem marco visível, registre a dúvida e chame um profissional habilitado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os marcos localizados correspondem aos pontos descritos no documento.
+As medidas anotadas fecham com as do memorial e os vizinhos concordam.
+
+FONTES
+------
+Manual Técnico de Limites e Confrontações do INCRA, capítulos 4 e 5.
+Manual Técnico de Georreferenciamento de Imóveis Rurais, 2ª edição,
+Portaria Incra 2502/2022, Lei 10267/2001 e Decreto 4449/2002. Resumo.

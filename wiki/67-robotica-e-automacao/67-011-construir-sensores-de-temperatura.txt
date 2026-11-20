@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 67-011
+TITULO: Como construir sensores de temperatura
+CATEGORIA: 67 - Robótica, automação e controle
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: sensor LM35, fonte de baixa tensão, multímetro, ferro de solda
+REVISAO: 2026-11
+PALAVRAS-CHAVE: temperatura, sensor, termômetro, lm35, multímetro, solda
+==============================================================================
+
+OBJETIVO
+---------
+Montar um termômetro eletrônico simples e ler a temperatura em graus.
+
+QUANDO USAR
+-----------
+Quando precisar medir temperatura sem termômetro de mercúrio.
+Quando quiser acompanhar um ambiente, um recipiente ou um equipamento.
+
+NAO USE QUANDO
+--------------
+Quando a leitura for decidir dose de remédio ou segurança de alimento.
+Use termômetro clínico ou de cozinha calibrado nesses casos.
+Perto de gás inflamável, pois a solda e faíscas podem inflamar.
+
+MATERIAIS
+---------
+- Sensor analógico de temperatura LM35, ou equivalente de 3 terminais.
+- Fonte de baixa tensão, como pilhas ou uma fonte de 5 V.
+- Multímetro com escala de milivolts e fio fino isolado.
+- Ferro de solda e solda, ou bornes de parafuso como substituto.
+
+PROCEDIMENTO
+------------
+1. Leia a folha de dados do sensor para achar os três terminais.
+2. Ligue o terminal de alimentação ao polo positivo da fonte.
+3. Ligue o terminal de terra ao polo negativo da fonte.
+4. Ligue o terminal de saída a um ponto do multímetro.
+5. Ligue o outro ponto do multímetro ao terra da fonte.
+6. Ajuste o multímetro para tensão contínua em milivolts.
+7. Ligue a fonte e espere aproximadamente 30 segundos.
+8. Leia a tensão em milivolts e divida por 10.
+9. Anote o resultado em graus Celsius.
+10. Confira e desligue a fonte ao terminar.
+
+ATENCAO
+-------
+Nunca ligue o sensor à rede elétrica, mesmo para testar.
+A inversão de alimentação e terra queima o sensor.
+O ferro de solda queima e solta fumaça: ventile e não toque na ponta.
+Nunca deixe pilhas em curto: elas aquecem e podem vazar.
+A leitura é aproximada e muda com a fonte e com o multímetro.
+
+SE NAO TIVER
+------------
+Sem ferro de solda, use bornes de parafuso ou fios trançados e isolados.
+Sem multímetro, o sensor não dá leitura: arranje um ou mude de método.
+Sem LM35, um termistor NTC serve, mas exige calibração por comparação.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A leitura aumenta quando você aquece o sensor com a mão.
+Volta ao valor inicial quando você afasta a mão e o ar se estabiliza.
+
+FONTES
+------
+Prática consolidada de medição eletrônica de temperatura.
+Valores típicos do LM35 (10 mV por grau Celsius) segundo folhas de dados.
+Não foi possível abri-las: confira o componente em mãos antes de medir.

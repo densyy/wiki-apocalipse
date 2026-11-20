@@ -1,0 +1,92 @@
+==============================================================================
+CODIGO: 65-020
+TITULO: Como testar resistência de materiais artesanais
+CATEGORIA: 65 - Engenharia de materiais e polímeros
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: proteção para os olhos, pesos conhecidos, dois apoios firmes
+REVISAO: 2026-11
+PALAVRAS-CHAVE: resistência, testar, flexão, impacto, peso, quebrar
+==============================================================================
+
+OBJETIVO
+--------
+Ao terminar, você consegue comparar a resistência de duas peças
+artesanais e decidir qual serve para o uso pretendido.
+
+QUANDO USAR
+-----------
+Ao testar uma tábua, uma viga ou uma peça moldada em casa.
+Ao comparar duas fórmulas de concreto, adobe ou cerâmica artesanal.
+Ao verificar se uma emenda, corda ou resina aguenta a carga esperada.
+Ao escolher entre materiais antes de construir uma peça maior.
+Ao repetir um teste após mudar a mistura ou o tempo de cura.
+
+NAO USE QUANDO
+--------------
+Não use estes testes para liberar peça que sustenta pessoas ou cargas.
+Não substituem ensaio de laboratório nem cálculo de engenheiro.
+Não teste peça energizada, quente ou que solte fragmentos perigosos.
+
+MATERIAIS
+---------
+- Duas ou mais peças de teste do mesmo material e tamanho.
+- Pesos conhecidos (pedras ou garrafas com água medida).
+- Dois apoios firmes (tijolos ou blocos de madeira).
+- Régua ou fita métrica (barra de metal de tamanho conhecido).
+- Proteção para os olhos (óculos de segurança ou de leitura resistentes).
+- Papel e lápis para anotar.
+- Objeto de dureza conhecida: unha, moeda de cobre, faca de aço, vidro.
+
+PROCEDIMENTO
+------------
+1. Corte ou molde todas as peças com o mesmo tamanho e espessura.
+2. Meça e anote a maior dimensão e a espessura de cada peça.
+3. Descarte peças com rachaduras ou bolhas visíveis antes de testar.
+4. Coloque a peça sobre dois apoios, com as pontas apoiadas.
+5. Deixe o vão livre entre os apoios medido e anotado.
+6. Apoie um peso no centro do vão e espere aproximadamente 10 segundos.
+7. Retire o peso e observe se apareceu rachadura ou flexão.
+8. Aumente o peso aos poucos, de aproximadamente 1 kg por vez.
+9. Repita até a peça quebrar ou entortar de forma permanente.
+10. Anote o peso em que surgiu a primeira rachadura.
+11. Anote o peso final e o tipo de ruptura da peça.
+12. Repita o teste com cada peça e com um material de referência.
+13. Passe a unha, a moeda e a faca na superfície para testar o arranhão.
+14. Anote qual objeto marca a superfície e qual não marca.
+15. Para impacto, deixe cair um peso fixo de aproximadamente 1 m de altura.
+16. Observe e anote se a peça rachou, lascou ou resistiu.
+17. Compare os pesos e as marcas entre as peças.
+
+ATENCAO
+-------
+Este teste é comparativo: não fornece valor de resistência em MPa.
+Peças quebradas podem soltar lascas: use proteção para os olhos.
+Nunca fique com o rosto sobre a peça quando aumentar o peso.
+Umidade e temperatura mudam muito o resultado de madeira e adobe.
+Peças com formatos diferentes não podem ser comparadas diretamente.
+O teste destrói a peça: não use a peça testada depois.
+Pare se surgirem estilhaços afiados ou se o apoio escorregar.
+Não use o resultado para liberar peça de segurança ou sustentação.
+
+SE NAO TIVER
+------------
+Sem pesos, use pedras ou garrafas com água e meça a água antes.
+Sem apoios de metal, use dois tijolos firmes no mesmo nível.
+Sem régua, compare com um objeto de tamanho conhecido, como um lápis.
+Sem material de referência, teste primeiro uma peça de madeira conhecida.
+Se não houver forma segura de quebrar a peça, pare e não force.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Todas as peças medidas têm o mesmo tamanho anotado no papel.
+Você tem o peso da primeira rachadura e da ruptura de cada peça.
+Você consegue dizer qual peça aguentou mais carga e por quê.
+Os resultados de arranhão e impacto estão anotados por objeto e altura.
+
+FONTES
+------
+Prática consolidada de engenharia de materiais e ensaios de bancada.
+Escala de dureza Mohs da mineralogia para o teste de arranhão.
+Normas ASTM D790 e ISO 178 para flexão de plásticos; ABNT NBR 5739
+para compressão de concreto.

@@ -1,0 +1,67 @@
+==============================================================================
+CODIGO: 29-026
+TITULO: Como escolher formatos de arquivos duráveis
+CATEGORIA: 29 - Tecnologia, computação e informática offline
+TEMPO: 25 minutos
+RISCO: baixo
+EXIGE: computador, lista dos arquivos que pretende guardar
+REVISAO: 2026-11
+PALAVRAS-CHAVE: formato, arquivo, durável, pdf, tiff, txt, preservar
+==============================================================================
+
+OBJETIVO
+--------
+Escolher um formato aberto e legível para cada arquivo que precisa durar.
+
+QUANDO USAR
+-----------
+- Ao guardar documentos, fotos ou gravações por anos.
+- Antes de copiar arquivos para dispositivo removível.
+- Quando um programa antigo já não abre determinado arquivo.
+
+NAO USE QUANDO
+--------------
+- Quando o dado precisa ser alterado com frequência; use o editor comum.
+
+MATERIAIS
+---------
+- Computador com programas de conversão instalados.
+- Caderno para registrar o formato escolhido.
+
+PROCEDIMENTO
+------------
+1. Liste todos os arquivos que pretende guardar.
+2. Classifique cada um: texto, imagem, áudio, tabela ou vídeo.
+3. Para texto simples, escolha TXT em UTF-8.
+4. Para documento diagramado, escolha PDF/A, o PDF arquivístico.
+5. Para documento editável, escolha ODT do formato aberto OpenDocument.
+6. Para foto, escolha TIFF sem compressão com perda.
+7. Para desenho ou captura de tela, escolha PNG.
+8. Para áudio, escolha WAV ou FLAC; nunca MP3 como mestre.
+9. Para tabela, escolha CSV em UTF-8.
+10. Converta cada arquivo ao formato escolhido e mantenha o original.
+
+ATENCAO
+-------
+- Formato durável não substitui cópia: mantenha duas cópias separadas.
+- PDF/A é o PDF arquivístico; um PDF comum pode não ser durável.
+- UTF-8 preserva acentos; codificações antigas podem trocar caracteres.
+- TIFF e WAV ocupam muito espaço; comprima só a cópia, nunca o mestre.
+- Não apague o original antes de abrir e conferir o arquivo convertido.
+
+SE NAO TIVER
+------------
+- Sem conversor, mantenha o original e anote o formato depois.
+- Sem espaço para TIFF ou WAV, use PNG ou FLAC, que não perdem dados.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- Cada arquivo convertido abre e mostra o conteúdo legível.
+- Os acentos aparecem corretos e a lista do caderno relaciona cada original.
+
+FONTES
+------
+- Digital Preservation Framework e guia de formatos do National Archives
+  and Records Administration (NARA), Estados Unidos.
+- Prática consolidada de preservação digital; resumo operacional.
+==============================================================================

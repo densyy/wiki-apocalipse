@@ -1,0 +1,94 @@
+==============================================================================
+CODIGO: 24-008
+TITULO: Como criar sistemas de iluminação perimetral
+CATEGORIA: 24 - Segurança pessoal e proteção comunitária
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: luminárias LED, baterias ou fonte isolada, fita métrica, lanterna
+REVISAO: 2026-11
+PALAVRAS-CHAVE: iluminação, perímetro, segurança, cerca, refletor, bateria
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma faixa de luz contínua ao longo da cerca.
+Assim é possível ver quem se aproxima antes de chegar perto.
+
+QUANDO USAR
+-----------
+Ao proteger abrigo, depósito ou acampamento escuro à noite.
+Quando o terreno permitir que alguém chegue sem ser visto.
+Quando cerca ou porta precisar ser identificada de longe.
+Quando a entrada precisar ficar visível para quem chega.
+Quando já houve tentativa de entrada ou furto no local.
+
+NAO USE QUANDO
+--------------
+Quando a luz puder atrair atenção indesejada para o abrigo.
+Quando não der para limitar o clarão à propriedade vizinha.
+Quando a única fonte for gerador em área fechada.
+Quando não houver como manter as luminárias limpas e fixas.
+
+MATERIAIS
+---------
+- Luminárias LED com feixe dirigido (ou lanternas LED com lente).
+- Baterias recarregáveis ou painel solar com bateria.
+- Fita métrica ou corda com nós a cada metro.
+- Estacas ou pregos para fixar (ou arame e fita adesiva).
+- Fita adesiva escura ou papelão para tapar o clarão lateral.
+- Lanterna de mão para conferir o serviço.
+- Detector de monóxido de carbono se houver gerador.
+
+PROCEDIMENTO
+------------
+1. Caminhe pelo perímetro de dia e marque onde alguém pode se esconder.
+2. Escolha a linha de luz no lado de dentro da cerca, junto a ela.
+3. Aponte as luminárias para fora, para a faixa que se quer ver.
+4. Fixe cada luminária entre aproximadamente 2,4 m e 4 m do chão.
+5. Espace as luminárias a aproximadamente 4 vezes a altura de fixação.
+6. Ajuste o feixe para formar faixa contínua, sem pontas escuras.
+7. Aponte a luz para a faixa junto à cerca.
+8. Cubra aproximadamente 3 m dentro e 9 m fora do limite.
+9. Vire a lente se o clarão alcançar a casa ou o vizinho.
+10. Tape com fita escura a parte que brilha para trás.
+11. Retire arbustos e galhos que bloqueiem a faixa de luz.
+12. Ligue por sensor de luz ou relógio e confira ao anoitecer.
+13. Teste cada luminária apagando uma de cada vez.
+14. Se usar gerador, coloque-o apenas ao ar livre.
+15. Afaste-o mais de aproximadamente 6 m de portas e janelas.
+16. Vire o escapamento para longe do abrigo.
+17. Nunca improvise emenda em rede energizada nem molhe conexões.
+
+ATENCAO
+-------
+A luz não impede a entrada: só aumenta a chance de ver e ser visto.
+Clarão excessivo atrai atenção, atrapalha a visão e incomoda vizinhos.
+Luz forte atrás da pessoa deixa o rosto na sombra e atrapalha a leitura.
+Nunca improvise emenda em rede energizada: o choque pode matar.
+Gerador em lugar fechado produz monóxido de carbono, sem cheiro ou cor.
+Dor de cabeça, tontura, náusea ou confusão pedem ar livre imediato.
+Se uma luminária esquentar, faiscar ou cheirar a queimado, desligue.
+Pare e procure ajuda se não manter a faixa iluminada com segurança.
+
+SE NAO TIVER
+------------
+Sem luminárias fixas, aponte lanternas LED apoiadas em estacas.
+Sem bateria, use luminária solar recarregável durante o dia.
+Sem fita métrica, meça com corda com nós a cada metro.
+Luz de teto não serve de perímetro: ilumina para o lado errado.
+Se o substituto exigir gerador em área fechada, não use.
+
+COMO SABER QUE DEU CERTO
+------------------------
+De dentro do abrigo, a faixa junto à cerca aparece contínua.
+Uma pessoa a aproximadamente 9 m da cerca fica visível.
+O rosto da pessoa fica iluminado, não em sombra.
+O clarão não alcança janelas da casa nem do vizinho.
+Todas as luminárias acendem ao anoitecer e apagam ao clarear.
+
+FONTES
+------
+Guia GCPSG-004 (2020) da Real Polícia Montada do Canadá sobre iluminação.
+FEMA 430, guia de projeto de sítio para segurança, sobre luz de perímetro.
+Orientações da CDC e da CPSC sobre monóxido de carbono e geradores.
+Prática consolidada de iluminação de segurança, sem documento único.

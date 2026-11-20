@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 18-010
+TITULO: Como reconhecer sinais de emergência em recém-nascidos
+CATEGORIA: 18 - Crianças, bebês e cuidados familiares
+TEMPO: 10 minutos por observação; vigiar nos primeiros dias
+RISCO: alto
+EXIGE: luz, relógio, termômetro se houver, caderno, pano limpo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bebê, recém-nascido, perigo, febre, respiração
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer sinais de perigo no recém-nascido e decidir buscar ajuda urgente.
+
+QUANDO USAR
+-----------
+Nos primeiros 28 dias de vida, sobretudo na primeira semana.
+A cada troca de fralda e a cada mamada.
+Quando o bebê nasceu em casa ou saiu cedo do hospital.
+Quando faltam energia, água encanada ou transporte rápido.
+Depois de queda, sufocamento ou mudança brusca no comportamento.
+
+NAO USE QUANDO
+--------------
+Nao substitui avaliação de profissional de saúde. Sinal de perigo exige
+atendimento mesmo sem diagnóstico. Nao espere o bebê melhorar sozinho.
+Nao tente reanimar sem treinamento: isso pode causar mais dano.
+
+MATERIAIS
+---------
+- Luz boa, de dia ou lanterna, para ver a cor da pele e dos lábios.
+- Relógio para medir a respiração (improviso: contar em voz alta).
+- Termômetro (sem ele, use o dorso da mão no pescoço do bebê).
+- Caderno ou papel para anotar hora, sinal e duração.
+- Pano limpo e seco para manter o bebê aquecido durante a observação.
+
+PROCEDIMENTO
+------------
+1. Lave as mãos com água e sabão ou álcool em gel antes de tocar no bebê.
+2. Observe o bebê despido, em luz boa, com o peito descoberto.
+3. Conte os movimentos do peito por 1 minuto, sem avisar o bebê.
+4. Anote se a respiração passa de 60 por minuto ou se há esforço.
+5. Observe se há pausa na respiração ou se os lábios ficam arroxeados.
+6. Toque o pescoço e o tronco com o dorso da mão: deve estar morno.
+7. Meça a temperatura se houver termômetro: 36,5°C a 37,5°C é o alvo.
+8. Anote febre acima de 37,5°C ou frio abaixo de 35,5°C.
+9. Verifique se o bebê mama com força e procura o seio ou a mamadeira.
+10. Observe se ele se move, chora com vigor e responde ao toque.
+11. Procure tremores ritmados, olhos fixos ou corpo rígido: é convulsão.
+12. Anote pele amarela nas primeiras 24 horas ou amarelidão que avança.
+13. Observe o coto do umbigo: vermelhidão que avança, pus ou mau cheiro.
+14. Conte fraldas molhadas e fezes em 24 horas; anote qualquer ausência.
+15. Repita a checagem a cada mamada e a cada troca de fralda.
+16. Anote hora, sinal e duração para informar quem for atender.
+17. Se aparecer qualquer sinal de ATENCAO, procure atendimento urgente.
+18. No deslocamento, mantenha o bebê pele a pele, aquecido, rosto livre.
+
+ATENCAO
+-------
+Febre, frio, respiração difícil e convulsão podem matar em poucas horas.
+Procure ajuda urgente se o bebê não mama, não se move ou desperta difícil.
+Procure se respirar rápido (acima de 60 por minuto) ou com esforço visível.
+Procure se houver pausa respiratória ou lábios e língua arroxeados.
+Procure com temperatura acima de 37,5°C ou abaixo de 35,5°C.
+Procure se a pele amarelecer nas primeiras 24 horas.
+Procure se palmas e solas ficarem amarelas em qualquer idade.
+Procure se o coto do umbigo tiver pus, mau cheiro ou vermelhidão que avança.
+Procure se houver convulsão, tremor ritmado ou rigidez.
+Procure se o bebê molhar poucas fraldas ou parar de fazer cocô.
+Aquietamento e palidez são sinais tardios: não espere por eles.
+Não dê remédio, chá ou gota sem orientação de profissional de saúde.
+
+SE NAO TIVER
+------------
+Sem termômetro, toque o pescoço: frio ou muito quente já é sinal de alerta.
+Sem relógio, conte em voz alta um número por segundo durante 1 minuto.
+Sem luz elétrica, observe de manhã, perto da janela, sem sol direto.
+Sem transporte, peça ajuda a vizinhos, agentes de saúde ou defesa civil.
+Sem como comparar, saiba que a respiração do bebê é mais rápida que a sua.
+Na dúvida, trate como emergência: a espera costuma ser mais arriscada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O bebê mama com força, move-se e responde ao toque.
+A respiração é calma, sem esforço, pausa ou som estranho.
+Pés e mãos ficam mornos; a pele não está arroxeada, pálida ou muito amarela.
+Faz xixi e cocô regularmente e o coto do umbigo permanece seco.
+Os sinais observados foram anotados com hora e passados ao atendimento.
+
+FONTES
+------
+Ficha informativa da OMS sobre mortalidade neonatal (2024): problemas para
+mamar, menos atividade, dificuldade para respirar, febre, convulsões e frio
+são sinais de perigo; a maioria das mortes ocorre na primeira semana.
+Ficha informativa da OMS sobre parto prematuro (2023): prematuridade e baixo
+peso exigem atenção redobrada à temperatura, amamentação e higiene.
+Prática consolidada de triagem neonatal. Limiares de temperatura e
+respiração seguem protocolos institucionais e exigem confirmação médica.

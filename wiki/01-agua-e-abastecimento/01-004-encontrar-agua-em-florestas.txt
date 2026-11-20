@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 01-004
+TITULO: Como encontrar água em florestas
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: calçado fechado, recipiente limpo, algo para cavar
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, floresta, nascente, fonte, rastro, umidade, sede
+==============================================================================
+
+OBJETIVO
+---------
+Localizar água em uma floresta e coletá-la limpa para tratamento.
+
+QUANDO USAR
+-----------
+Quando faltar água para beber e não houver fonte conhecida.
+Quando a trilha cruza vale, ravina ou encosta com vegetação verde.
+Quando o grupo precisa acampar antes do anoitecer.
+
+NAO USE QUANDO
+--------------
+Não use se a água tiver cheiro de combustível, solvente ou agrotóxico,
+ou espuma persistente: ferver não remove químicos. Mude de fonte.
+
+MATERIAIS
+---------
+- Calçado fechado e resistente.
+- Recipiente limpo com tampa (garrafa, cantil ou vasilha sem químico).
+- Ferramenta para cavar (pá, faca, bastão pontiagudo ou pedra chata).
+
+PROCEDIMENTO
+------------
+1. Suba a um ponto alto e observe o terreno antes de descer.
+2. Procure vegetação verde e densa, diferente do entorno, nas encostas.
+3. Olhe a base de rochas e ravinas por musgo ou samambaia.
+4. Siga trilhas de animais que convergem, descendo com elas.
+5. Observe aves que voam baixo e reto, rumo provável a água.
+6. Vá ao fundo de vales, onde a água subterrânea aflora mais fácil.
+7. Pare e escute um gorgolejo sem ver correnteza.
+8. Note solo escuro e úmido e insetos voando baixo.
+9. Desconfie de poça sem vegetação ou com ossos de animais.
+10. Cave vala rasa de aproximadamente 30 cm no solo escuro.
+11. Espere alguns minutos e veja se a água enche a vala.
+12. Retire as folhas e colete a água no recipiente limpo.
+13. Ferva ou trate a água antes de beber (veja 01-001).
+
+ATENCAO
+-------
+Água de poça ou charco pode conter parasitas: nunca beba sem tratar.
+Poça sem vegetação ou com ossos pode ter químico ou ser alcalina.
+Ferver não remove químico, metal nem sal; cheiro estranho: mude de fonte.
+Cavar com ferramenta improvisada pode cortar a mão; proteja as mãos.
+
+SE NAO TIVER
+------------
+Sem pá, cave com pedra chata, bastão pontiagudo ou mão protegida.
+Sem recipiente, use vasilha limpa que nunca guardou químico ou combustível.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O solo escuro cede à escavação e a vala enche com água que se renova.
+A água coletada fica clara, sem cheiro de combustível e sem espuma.
+
+FONTES
+------
+Prática consolidada de localização de água em sobrevivência, descrita
+no manual de sobrevivência do Exército dos EUA (FM 21-76 e ATP 3-50.21)
+e no Manual de Sobrevivência SAS. Indicadores: USGS; tratamento: CDC e OMS.

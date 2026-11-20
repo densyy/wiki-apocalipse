@@ -1,0 +1,68 @@
+==============================================================================
+CODIGO: 05-026
+TITULO: Como construir paredes de bambu
+CATEGORIA: 05 - Abrigo, construção e habitação
+TEMPO: 120 minutos
+RISCO: medio
+EXIGE: colmos de bambu maduros, facão ou serrote, corda
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bambu, parede, tapume, amarrar, abrigo, vedação
+==============================================================================
+
+OBJETIVO
+--------
+Levantar uma parede de bambu firme que barra vento e chuva leve.
+
+QUANDO USAR
+-----------
+Quando precisa fechar um lado de abrigo ou tapume no acampamento.
+Quando quer dividir cômodos em abrigo de lona, madeira ou bambu.
+Quando precisa de quebra-vento rápido perto da cozinha ou do fogo.
+
+NAO USE QUANDO
+--------------
+Em estrutura sem postes firmes ou sem cobertura contra chuva forte.
+Como parede de carga que sustenta telhado pesado sem reforço.
+Com bambu verde, mofado ou rachado: apodrece e quebra rápido.
+
+MATERIAIS
+---------
+- Colmos grossos para postes, de aproximadamente 5 a 8 cm (varas).
+- Colmos finos ou metades rachadas para o fechamento da parede.
+- Corda fina, arame ou cipó resistente para as amarrações.
+- Facão ou serrote, estacas, pedra ou martelo para socar a terra.
+
+PROCEDIMENTO
+------------
+1. Marque o alinhamento da parede com estacas e um cordão no chão.
+2. Finque um poste grosso a cada aproximadamente 1 m do trecho.
+3. Enterre cada poste a aproximadamente 30 cm e soque bem a terra.
+4. Corte as varas finas no tamanho exato do vão entre postes.
+5. Encoste a primeira vara na base, pelo lado de fora dos postes.
+6. Amarre cada encontro de vara com poste com volta firme em X.
+7. Suba as varas sem fresta maior que um dedo, alternando os lados.
+8. Apare pontas, empurre a parede e reaperte o que ceder.
+
+ATENCAO
+-------
+Lascas e pontas de bambu cortam fundo: proteja as mãos com pano.
+Facão escorrega no colmo liso: corte sempre para longe do corpo.
+Poste raso tomba com vento e bambu no solo úmido apodrece logo.
+Esta parede não sustenta telhado pesado nem segura tempestade.
+
+SE NAO TIVER
+------------
+Sem corda, amarre com cipó, tira de pano ou casca fibrosa torcida.
+Sem serrote, risque o colmo e quebre na dobra com peso controlado.
+Sem bambu suficiente, feche as frestas com palha, mato ou lona.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A parede segue em pé e firme ao empurrar com força.
+O vento direto diminui e não passa um punho pelas frestas.
+
+FONTES
+------
+Prática consolidada de construção simples com bambu em abrigo
+(famílias de referência: manuais de abrigo de emergência da
+IFRC e manual militar de sobrevivência civil).

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 73-017
+TITULO: Como criar etiquetas e sistemas de rastreabilidade
+CATEGORIA: 73 - Armazenamento de produtos não alimentares
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: caneta permanente, etiquetas, caderno, local fixo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: etiqueta, rastreabilidade, data, validade, estoque, lote
+==============================================================================
+
+OBJETIVO
+---------
+Saber o que existe, onde fica e há quanto tempo cada item guardado.
+
+QUANDO USAR
+-----------
+Quando entram itens novos na casa ou no abrigo.
+Quando itens têm validade, abertura ou origem a lembrar.
+Quando mais de uma pessoa pega, devolve e precisa encontrar itens.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para este procedimento.
+Nunca cubra o rótulo original de químicos ou medicamentos com etiqueta nova.
+
+MATERIAIS
+---------
+- Caneta permanente à prova d'água (lápis de cera).
+- Etiquetas adesivas (papel preso com barbante).
+- Caderno para o inventário (folhas em saco plástico).
+- Caixas ou sacos para agrupar itens (cestos).
+
+PROCEDIMENTO
+------------
+1. Escolha um lugar fixo e designado para cada grupo de itens.
+2. Numere cada caixa e escreva o conteúdo na frente dela.
+3. Escreva na etiqueta o nome exato, a entrada, a abertura e a validade.
+4. Anote a origem e o lote, o grupo que chegou junto da mesma fonte.
+5. Cole a etiqueta no item, nunca sobre o rótulo original.
+6. Escreva PEPS na caixa antiga: primeiro a entrar, primeiro a sair.
+7. Coloque os itens antigos na frente e os novos atrás.
+8. Registre no caderno cada retirada e devolução, com data e responsável.
+9. Revise o caderno cada mês e troque etiquetas apagadas.
+
+ATENCAO
+-------
+Etiqueta apagada ou sobre o rótulo esconde advertência e causa erro.
+Sem caderno atualizado, o sistema dá falsa segurança e perde itens.
+O erro mais comum é anotar hoje em item antigo: a rotação PEPS falha.
+Se a etiqueta divergir do rótulo, prevalece o rótulo; pare e peça ajuda.
+
+SE NAO TIVER
+------------
+Sem etiqueta, escreva no item ou prenda papel com barbante.
+Sem caneta permanente, use lápis de cera; tinta comum borra com umidade.
+Sem caderno, use folhas em saco plástico e escreva com lápis.
+Nunca use jornal ou papel molhado como etiqueta: desfaz e solta tinta.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada caixa tem número e conteúdo legíveis; cada item tem nome e datas.
+O caderno confere com as caixas, item por item.
+Os itens antigos ficam na frente e qualquer pessoa encontra um item.
+
+FONTES
+------
+Prática consolidada de inventário e rotação de estoque, primeiro a entrar,
+primeiro a sair, em emergências; manutenção de kit da agência FEMA dos
+Estados Unidos. Resumo operacional, não substitui treinamento.

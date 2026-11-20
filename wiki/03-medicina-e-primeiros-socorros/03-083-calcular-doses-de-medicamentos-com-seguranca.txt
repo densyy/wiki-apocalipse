@@ -1,0 +1,94 @@
+==============================================================================
+CODIGO: 03-083
+TITULO: Como calcular doses de medicamentos com segurança
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 20 minutos
+RISCO: alto
+EXIGE: prescrição legível ou rótulo original, papel, caneta
+REVISAO: 2026-11
+PALAVRAS-CHAVE: dose, medicamento, bula, prescrição, medida, segurança
+==============================================================================
+
+OBJETIVO
+--------
+Conferir uma dose ja prescrita sem errar conta ou unidade.
+
+QUANDO USAR
+-----------
+Quando ha prescricao escrita de profissional para seguir.
+Quando o rotulo indica concentracao e e preciso medir.
+Quando e preciso conferir comprimidos ou gotas prescritos.
+Quando e preciso organizar horarios sem repetir dose.
+Quando uma segunda pessoa pode reconferir a conta.
+
+NAO USE QUANDO
+--------------
+Nao use para escolher remedio ou dose por conta propria.
+Nao use se a prescricao esta ilegivel ou incompleta.
+Nao use em emergencia grave no lugar de pedir ajuda.
+Nao use para calcular dose de crianca de memoria.
+Nao use se o rotulo esta sem nome ou sem validade.
+
+MATERIAIS
+---------
+- Prescricao escrita ou rotulo original do remedio.
+- Bula do remedio quando disponivel (ou copia guardada).
+- Copo dosador, seringa dosadora ou conta-gotas original.
+- Papel e caneta para anotar conta e horario.
+- Relogio para controlar intervalo entre doses.
+
+PROCEDIMENTO
+------------
+1. Separe remedio, prescricao, bula e material de medida.
+2. Confira o nome do principio ativo no rotulo e na bula.
+3. Confira a classe do remedio na bula, se descrita.
+4. Confira validade, lacre, cor, cheiro e aspecto do remedio.
+5. Copie em papel o valor prescrito exatamente como escrito.
+6. Confira a unidade da prescricao e a do rotulo.
+7. Converta para unidades iguais antes de qualquer conta.
+8. Faca a conta apenas com o valor da prescricao.
+9. Refaca a conta do zero em papel, sem confiar de cabeca.
+10. Peca a outra pessoa para refazer a conta em separado.
+11. Meca somente com dosador original e em local claro.
+12. Confira o nivel do liquido na altura dos olhos.
+13. Anote dose dada, hora e nome de quem conferiu.
+14. Guarde o remedio rotulado e longe de criancas.
+
+ATENCAO
+-------
+Este texto nao receita remedio nem define dose.
+Use somente dose conforme prescricao de profissional.
+Erro mais comum: trocar miligrama por mililitro.
+Outro erro comum: confundir colher de casa com medida.
+Colher de cozinha varia e nao serve como medida.
+Alcool e outros remedios podem causar interacao grave.
+Nao misture remedios por conta propria.
+Sinais de intoxicacao: sono excessivo e confusao mental.
+Vomito repetido, suor frio, tremor e respiracao lenta.
+Manchas na pele, inchaco de labios e falta de ar.
+Em crianca, idoso ou gestante, o risco e maior.
+Se vomitou logo apos tomar, nao repita sem orientacao.
+Quando houver duvida, nao de a dose e procure ajuda.
+Guarde bula, caixa e resto para mostrar no atendimento.
+
+SE NAO TIVER
+------------
+Sem dosador original: nao use colher ou tampa de garrafa.
+Sem bula: siga so a prescricao e guarde a caixa.
+Sem segunda pessoa: refaca a conta apos pausa curta.
+Sem rotulo legivel: nao use o remedio.
+Sem prescricao: nao calcule nem administre.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A conta bate igual nas duas conferencias.
+A unidade medida e a mesma da prescricao.
+A dose anotada tem hora e conferente registrados.
+Nao sobra duvida sobre nome, valor e horario.
+A pessoa segue sem sinal novo apos a dose.
+
+FONTES
+------
+Pratica consolidada de seguranca no uso de remedios.
+Orientacoes gerais de OMS e Anvisa sobre uso seguro.
+Este texto e resumo operacional e nao substitui bula.

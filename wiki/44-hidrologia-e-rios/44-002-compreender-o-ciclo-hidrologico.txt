@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 44-002
+TITULO: Como compreender o ciclo hidrológico
+CATEGORIA: 44 - Hidrologia, rios e gestão de bacias
+TEMPO: 45 minutos
+RISCO: baixo
+EXIGE: caderno, lápis, lugar com vista para o céu e para o solo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, ciclo, chuva, evaporação, precipitação, escoamento
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer as etapas do ciclo da água e observá-las no terreno.
+
+QUANDO USAR
+-----------
+Quando precisar prever para onde escorre ou onde para a água da chuva.
+Quando for escolher ponto de captação, cisterna ou vala de drenagem.
+Quando a chuva mudar e você precisar entender seca ou enchente.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação física. Este texto não substitui análise de
+qualidade da água nem medida de vazão: não garante que fonte seja potável.
+
+MATERIAIS
+---------
+- Caderno (ou papel qualquer).
+- Lápis (ou carvão).
+- Vista para céu, solo e vala, rio ou telhado.
+
+PROCEDIMENTO
+------------
+1. Observe o céu e identifique nuvens, massas brancas ou cinza suspensas.
+2. Entenda a evaporação: o sol aquece a água e a vira vapor invisível.
+3. Entenda a transpiração: as plantas liberam vapor pelas folhas.
+4. Some as duas: evaporação mais transpiração são a evapotranspiração.
+5. Entenda a condensação: o vapor sobe, esfria e vira gotas na nuvem.
+6. Entenda a precipitação: as gotas caem como chuva, neve ou granizo.
+7. Acompanhe a água da chuva no solo e veja para onde ela corre.
+8. Nomeie o escoamento: a água corre na superfície até valas e rios.
+9. Nomeie a infiltração: a água entra no solo e vira umidade.
+10. Explique a recarga: a água infiltrada enche o aquífero, rocha porosa.
+11. Feche o ciclo: rios e nascentes levam a água de volta ao mar.
+
+ATENCAO
+-------
+As porcentagens divergem entre fontes: o oceano retém cerca de 96% a 97%
+de toda a água; a água cobre cerca de 70% a 75% da superfície. Aproximado.
+Entender o ciclo não torna a água potável: para tratar, veja 01-001.
+No total global evaporação e precipitação se equilibram, mas não em cada
+lugar: sobre o mar evapora mais; sobre a terra chove mais. Sol e gravidade
+são os motores. Não garantem vazão ou nível de rio: procure a hidrologia.
+
+SE NAO TIVER
+------------
+Sem caderno, desenhe o ciclo no chão com um graveto e aponte cada etapa.
+Sem vista para rio, veja a água da chuva correr pelo telhado ou vala.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O desenho mostra um ciclo fechado, com setas ligando evaporação,
+condensação, precipitação, escoamento, infiltração e volta ao mar.
+
+FONTES
+------
+USGS Water Science School, página Water cycle; NASA Earth Observatory,
+The Water Cycle (2010); Organização Meteorológica Mundial, tema Water.
+Texto de divulgação científica, não manual operacional.

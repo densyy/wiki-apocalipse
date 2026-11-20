@@ -1,0 +1,82 @@
+==============================================================================
+CODIGO: 70-006
+TITULO: Como montar uma intranet comunitária
+CATEGORIA: 70 - Computação de baixo consumo e preservação digital
+TEMPO: 60 minutos
+RISCO: baixo
+EXIGE: computador de baixo consumo, energia, cartao de memoria, celular
+REVISAO: 2026-11
+PALAVRAS-CHAVE: intranet, rede local, offline, wifi, arquivos, comunidade
+==============================================================================
+
+OBJETIVO
+--------
+Criar uma rede wifi local que entrega informacoes e arquivos sem internet.
+
+QUANDO USAR
+-----------
+Quando a comunidade nao tem internet, mas tem aparelhos com wifi.
+Quando ha documentos, mapas ou avisos para varias pessoas consultarem.
+Quando a energia e limitada e um aparelho pode servir a todos.
+Quando as informacoes precisam circular sem torre de celular ou cabo.
+
+NAO USE QUANDO
+--------------
+Quando a noticia precisa vir de fora: a intranet nao traz nada da internet.
+Quando a privacidade e critica e qualquer pessoa na area pode se conectar.
+Quando o numero de usuarios passa da capacidade do aparelho servidor.
+
+MATERIAIS
+---------
+- Um computador de baixo consumo (ou notebook velho) com wifi.
+- Fonte de energia confiavel (bateria, painel solar ou tomada).
+- Cartao de memoria ou disco para o sistema e os arquivos.
+- Outro aparelho com navegador e wifi para testar (celular).
+- Arquivos da comunidade em formato simples: texto, PDF ou imagem.
+- Um nome de rede e uma senha curtos, combinados com a comunidade.
+
+PROCEDIMENTO
+------------
+1. Reunha os arquivos que a comunidade precisa consultar.
+2. Copie os arquivos para uma pasta unica no aparelho servidor.
+3. Instale no aparelho um kit de servidor offline pronto para wifi.
+4. Ligue o aparelho a fonte de energia e espere ele iniciar.
+5. Configure o aparelho como ponto de acesso com o nome combinado.
+6. Defina a senha curta e anote o endereco local mostrado no aparelho.
+7. Aponte o kit para a pasta com os arquivos da comunidade.
+8. Ligue o wifi do celular de teste e conecte a rede criada.
+9. Abra o navegador e digite o endereco local anotado.
+10. Confirme que a pagina inicial abre e os arquivos aparecem.
+11. Entregue nome da rede, senha e endereco a todas as pessoas.
+
+ATENCAO
+-------
+A rede e aberta a quem estiver ao alcance do wifi: nao coloque dados
+pessoais, senhas ou informacoes sigilosas nos arquivos compartilhados.
+O servidor so mostra o que foi copiado para ele; nada se atualiza sozinho.
+Sem energia o servidor para: mantenha bateria ou fonte reserva pronta.
+O aparelho pode esquentar; deixe-o em local arejado e longe de pano.
+Use so a fonte original ou uma homologada para o aparelho.
+Cobre a montagem e o uso da rede, nao a instalacao do sistema do kit;
+siga as instrucoes do proprio kit para essa etapa.
+
+SE NAO TIVER
+------------
+Sem computador dedicado, use um notebook velho ligado a bateria.
+Sem kit pronto, um servidor web local simples pode fazer o mesmo servico.
+Sem wifi, ligue os aparelhos por cabo a um roteador local.
+Sem fonte limpa, nao insista: um servidor que desliga no meio do uso
+passa confianca errada a quem depende dele.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O celular de teste conecta a rede e abre a pagina inicial no navegador.
+Os nomes dos arquivos da comunidade aparecem na pagina.
+Abrir um arquivo mostra o conteudo esperado, sem pedir internet.
+
+FONTES
+------
+Kiwix Association: programa de acesso offline ao conhecimento e kits de
+hotspot wifi para comunidades sem internet. Fundacao Raspberry Pi:
+documentacao oficial de redes, ponto de acesso wifi e servidor web local.
+Pratica consolidada de redes comunitarias offline, resumida para campo.

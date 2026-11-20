@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 09-051
+TITULO: Como pesquisar documentos sem mecanismos de busca online
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: busca, achar, documentos, arquivo, índice, grep, fichário
+==============================================================================
+
+OBJETIVO
+---------
+Localize um documento em arquivos digitais ou em papel usando nomes, índices
+e busca por texto, sem precisar de internet.
+
+QUANDO USAR
+-----------
+- Quando a internet cai e o buscador online não funciona.
+- Quando o documento está no computador e você não lembra o nome.
+- Quando há pastas e papéis acumulados e é preciso achar um registro.
+- Quando se precisa localizar dados em vários arquivos de texto.
+
+NAO USE QUANDO
+--------------
+- Quando você tem internet e o documento existe só online: use o buscador.
+
+MATERIAIS
+---------
+- Computador com pastas de arquivos (ou papéis e fichas).
+- Gerenciador de arquivos ou terminal com o comando grep.
+- Papel, lápis e fichas ou caderno para o índice manual.
+
+PROCEDIMENTO
+------------
+1. Liste o que existe: abra a pasta e anote os nomes de arquivos e pastas.
+2. Renomeie arquivos sem nome claro para incluir assunto e data.
+3. Crie um arquivo de índice em texto, com uma linha por documento.
+4. Anote em cada linha o nome, o assunto e as palavras-chave do documento.
+5. Para buscar por nome, use a busca do gerenciador de arquivos.
+6. Digite uma palavra do assunto e leia os nomes que aparecerem.
+7. Para buscar dentro do texto, abra o terminal na pasta dos arquivos.
+8. Use o comando grep, ferramenta de busca por texto em arquivos.
+9. Escreva grep, a palavra entre aspas e o nome do arquivo.
+10. Leia as linhas mostradas: são onde a palavra aparece no arquivo.
+11. Para papel, escreva numa ficha o assunto e onde o documento está.
+12. Ordene as fichas por assunto em ordem alfabética.
+13. Consulte o índice ou fichário e leia a localização anotada.
+
+ATENCAO
+-------
+O grep distingue maiúsculas de minúsculas: confira a grafia da palavra.
+Buscar um termo comum devolve muitas linhas; use outra palavra se travar.
+Um índice desatualizado engana: confira sempre a localização no arquivo.
+Se o documento não existir no acervo, pare: a busca offline não o cria.
+
+SE NAO TIVER
+------------
+Sem computador, use somente fichas de papel e um índice manuscrito.
+Sem terminal, use a busca por nome do gerenciador de arquivos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O arquivo ou ficha procurado aparece e a localização anotada confere.
+A linha mostrada pelo grep contém a palavra buscada no contexto esperado.
+
+FONTES
+------
+Prática consolidada de organização de arquivos e bibliotecas: catálogo,
+fichário e índice remissivo. Padrão POSIX do grep para busca em texto.

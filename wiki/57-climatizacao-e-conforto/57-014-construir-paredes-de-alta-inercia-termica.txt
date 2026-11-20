@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 57-014
+TITULO: Como construir paredes de alta inércia térmica
+CATEGORIA: 57 - Refrigeração, climatização e conforto
+TEMPO: 4 horas
+RISCO: medio
+EXIGE: solo, tijolos ou pedra, água, forma de madeira, pá, nível
+REVISAO: 2026-11
+PALAVRAS-CHAVE: inércia térmica, massa térmica, parede, tijolo, calor
+==============================================================================
+
+OBJETIVO
+--------
+Construir uma parede que absorve calor de dia e devolve à noite,
+reduzindo as variações de temperatura dentro de casa sem energia.
+
+QUANDO USAR
+-----------
+Quando o dia é quente e a noite é bem mais fria, com grande amplitude.
+Quando não há energia para ventilação ou ar-condicionado.
+Quando se constrói casa nova ou parede interna de divisão.
+
+NAO USE QUANDO
+--------------
+Em clima úmido com pouca variação dia/noite, a parede esquenta à noite.
+Quando a parede ficará revestida com isolamento do lado de dentro.
+
+MATERIAIS
+---------
+- Solo argiloso, tijolos de adobe ou pedra, conforme o método.
+- Água limpa e forma de madeira, se usar taipa.
+- Pá, enxada, balde, nível e fita métrica.
+- Base de pedra ou tijolo e barreira impermeável.
+
+PROCEDIMENTO
+------------
+1. Escolha o local: a parede deve receber sol e tocar o ar interno.
+2. Marque o traçado no chão com cordão e estacas.
+3. Levante base de pedra ou tijolo de aproximadamente 20 cm.
+4. Coloque barreira impermeável entre a base e a parede de terra.
+5. Amasse solo argiloso com água até ficar maleável, sem encharcar.
+6. Para taipa, feche a forma e compacte camadas de aproximadamente 10 cm.
+7. Para adobe, assente os tijolos com argamassa de barro, bem fechados.
+8. Deixe curar na sombra, sem chuva, por aproximadamente três semanas.
+9. Não coloque isolamento do lado interno: mantenha a massa exposta.
+10. Proteja o lado externo com reboco e sombra no verão.
+
+ATENCAO
+-------
+Parede abaixo de aproximadamente 15 cm quase não regula a temperatura.
+Se o isolamento ficar por dentro, a massa não troca calor com o ar.
+Em clima úmido, o calor acumulado de dia volta à noite e atrapalha.
+Ventile à noite para tirar o calor; sem isso a parede não esfria.
+Umidade do chão dissolve a terra: mantenha a base seca e protegida.
+Tijolos e pedra são pesados: peça ajuda e nunca trabalhe sob forma.
+
+SE NAO TIVER
+------------
+Sem terra ou tijolos, use pedra empilhada ou sacos de terra como massa.
+Sem parede, encoste recipientes com água: esfriam, mas podem vazar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A face interna fica morna no fim da tarde, enquanto o ar externo esfria.
+Depois da cura, a parede está seca, firme e sem rachaduras.
+
+FONTES
+------
+Prática consolidada de massa térmica: taipa, adobe e alvenaria de tijolo.
+Sem documento único consultado; espessuras e prazos aproximados.

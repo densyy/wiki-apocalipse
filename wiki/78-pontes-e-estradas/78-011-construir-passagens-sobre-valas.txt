@@ -1,0 +1,82 @@
+==============================================================================
+CODIGO: 78-011
+TITULO: Como construir passagens sobre valas
+CATEGORIA: 78 - Pontes, estradas e infraestrutura de transporte
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: madeira ou bambu, terra, enxada, corda
+REVISAO: 2026-11
+PALAVRAS-CHAVE: vala, passagem, travessia, ponte, valeta, caminho
+==============================================================================
+
+OBJETIVO
+--------
+Criar uma travessia firme sobre uma vala ou valeta aberta no caminho.
+
+QUANDO USAR
+-----------
+Para cruzar valas de drenagem com ate 1,5 metro de largura.
+Quando a vala corta a trilha e o solo das bordas e firme.
+Em caminhos de terra apos a abertura de valetas de escoamento.
+Como passagem provisoria ate a instalacao de um bueiro definitivo.
+
+NAO USE QUANDO
+--------------
+Nao cruze se as bordas estao erodidas ou desmoronando.
+Nao use em vala com agua corrente forte ou grande profundidade.
+Nao permita veiculos pesados em passagens montadas com varas.
+Nao monte onde a vala pode alagar de repente com a chuva.
+
+MATERIAIS
+---------
+- Vigas de madeira tratada ou feixes de bambu maduro (4 a 6 unidades).
+- Tabuas ou varas para o piso (largura da vala mais 60 cm).
+- Pedras para firmar os apoios nas duas bordas (opcional).
+- Corda ou arame para amarrar as vigas (2 mm).
+- Enxada, pá, serra, fita metrica e luvas.
+
+PROCEDIMENTO
+------------
+1. Meça a largura da vala na parte mais aberta.
+2. Escolha vigas com 60 cm de sobra em cada borda.
+3. Limpe e nivel as duas bordas com a enxada.
+4. Retire terra solta e pedras que possam rolar para a vala.
+5. Assente duas vigas paralelas, uma em cada lado do caminho.
+6. Deixe as pontas das vigas bem apoiadas na terra firme.
+7. Prenda as vigas com pedras ou estacas para nao deslizarem.
+8. Cruz e as tabuas do piso por cima das vigas, perpendicularmente.
+9. Amarre cada tabua as vigas com corda ou arame.
+10. Deixe 1 cm de folga entre as tabuas para a agua passar.
+11. Cubra as pontas das vigas com terra para evitar tropeço.
+12. Confira o nivel e aperte as amarras antes de usar.
+13. Teste atravessando devagar, uma pessoa por vez.
+
+ATENCAO
+-------
+Bordas de vala erodidas cedem e a passagem cai junto.
+Nao pise na borda antes de confirmar que o solo e firme.
+Varas de bambu nao suportam peso de veiculo ou gado.
+A vala pode encher rapido na chuva: verifique antes de cruzar.
+Se a passagem balancar, reforce com mais vigas ou nao use.
+Use luvas ao manusear arame e madeira com farpas.
+
+SE NAO TIVER
+------------
+Sem madeira, use feixes de bambu maduro como vigas do meio.
+Sem tabuas, use varas grossas amarradas lado a lado no piso.
+Sem pedras, enterre as pontas das vigas 20 cm na terra firme.
+Sem corda, use arame de cerca ou tiras de pneu.
+Sem enxada, nivel as bordas com pá ou com as proprias maos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As vigas estao firmes, niveladas e apoiadas em terra solida.
+O piso nao balanca e nao tem tabua solta ou ponta solta.
+A passagem suporta o transito previsto sem ceder.
+A vala continua livre para escoar a agua por baixo.
+
+FONTES
+------
+Pratica consolidada de manutencao de caminhos rurais e travessias
+simples, sem documento unico obrigatorio. Orientacoes gerais de
+drenagem e conservacao de estradas vicinais em meio rural.

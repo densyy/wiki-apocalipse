@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 81-011
+TITULO: Como construir uma estufa de secagem de madeira
+CATEGORIA: 81 - Engenharia térmica e fornos industriais
+TEMPO: 3 dias
+RISCO: medio
+EXIGE: madeira, estrutura, plástico ou vidro, sombra e ventilação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: madeira, secagem, estufa, umidade, apodrecimento, ventilação
+==============================================================================
+
+OBJETIVO
+--------
+Construir uma estufa que seque madeira de forma lenta e controlada.
+
+QUANDO USAR
+-----------
+Para secar madeira serrada antes de usar em móveis ou obras.
+Quando a madeira verde empena ou racha ao secar ao sol.
+Para reduzir o peso da madeira antes de transportar.
+Quando o clima é úmido e a secagem natural falha.
+
+NAO USE QUANDO
+--------------
+Não coloque madeira com casca, terra ou fungo aparente.
+Não deixe a madeira em contato direto com o solo.
+Não use calor excessivo: a madeira racha e perde resistência.
+Não feche a estufa sem entrada e saída de ar.
+
+MATERIAIS
+---------
+- Madeira serrada empilhada com separadores (ripas de 2 cm).
+- Estrutura de madeira ou metal para a estufa.
+- Cobertura de plástico transparente, policarbonato ou vidro.
+- Sombrite ou tela de sombreamento para evitar sol direto.
+- Ventiladores pequenos ou aberturas reguláveis nas laterais.
+- Higrômetro ou medidor de umidade da madeira.
+- Calços para manter a pilha afastada do chão.
+- Termômetro simples.
+
+PROCEDIMENTO
+------------
+1. Escolha local firme, drenado e com sombra parcial.
+2. Empilhe a madeira sobre calços, longe do chão.
+3. Coloque separadores entre as camadas para o ar circular.
+4. Deixe espaço entre as pilhas para circular e inspecionar.
+5. Monte a estrutura da estufa ao redor das pilhas.
+6. Cubra com plástico ou vidro, deixando vãos controlados.
+7. Instale sombra para o sol não bater direto na madeira.
+8. Abra entradas de ar na parte baixa e saídas no topo.
+9. Coloque termômetro e medidor de umidade dentro.
+10. Comece com a estufa aberta e aumente o calor aos poucos.
+11. Controle a ventilação para retirar o ar carregado de umidade.
+12. Meça a umidade da madeira a cada poucos dias.
+13. Vire as pilhas se aparecerem sinais de empeno.
+14. Retire a madeira quando atingir a umidade desejada.
+15. Anote tempo, temperatura e umidade final para as próximas levas.
+
+ATENCAO
+-------
+Secar rápido demais racha e empena a madeira: vá com calma.
+Madeira muito úmida apodrece e cria fungo dentro da estufa.
+Plástico encostado na madeira prende umidade e cria mofo.
+Nunca use fogo direto dentro da estufa: risco de incêndio grave.
+Ventilação insuficiente deixa a umidade estagnada.
+Cuidado com pregos e farpas ao manusear as pilhas.
+Se aparecer cheiro de mofo, abra a estufa e reforce a ventilação.
+
+SE NAO TIVER
+------------
+Sem medidor, pese uma amostra até o peso estabilizar.
+Sem plástico, use sombra e ventilação natural, aceitando mais tempo.
+Sem ventilador, abra duas aberturas opostas para criar corrente de ar.
+Sem calços, improvise com pedras ou tijolos secos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A umidade da madeira cai até o valor desejado sem rachaduras novas.
+As tábuas não apresentam manchas de fungo nem cheiro de mofo.
+O ar circula entre as camadas e sai pelas aberturas do topo.
+A madeira pode ser trabalhada sem empenar depois de retirada.
+
+FONTES
+------
+Prática consolidada de secagem de madeira em estufas e galpões
+ventilados, sem documento normativo único. Referências correntes de
+secagem controlada, equilíbrio de umidade e prevenção de fungos na madeira.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 08-020
+TITULO: Como conservar ferramentas metálicas
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: escova de aço, lã de aço, pano limpo, óleo, óculos e luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ferramenta, metal, ferrugem, óleo, limpeza, afiar, guardar
+==============================================================================
+
+OBJETIVO
+--------
+Limpar, secar e proteger ferramentas metálicas para que não enferrujem.
+
+QUANDO USAR
+-----------
+Depois de usar a ferramenta em terra molhada ou chuva.
+Antes de guardar as ferramentas por semanas ou meses.
+Quando aparecer ferrugem ou a borda estiver cega ou com marcas.
+
+NAO USE QUANDO
+--------------
+Não afie lâmina com trinca ou dente de serra quebrado: troque a peça.
+Não esquente o metal até ficar azul: perde a têmpera e quebra.
+
+MATERIAIS
+---------
+- Escova de aço (ou escova de cerdas duras).
+- Lã de aço fina (ou pedra-pomes) e pedra de afiar (ou lixa média).
+- Pano limpo e óleo de máquina (ou óleo vegetal, vaselina, silicone).
+- Água, sabão e vinagre branco; álcool para seiva (opcional).
+- Óculos de proteção, luvas e prego para pendurar.
+
+PROCEDIMENTO
+------------
+1. Retire lama e sujeira com a escova de aço.
+2. Lave a peça com água e sabão.
+3. Para seiva ou resina, passe álcool com um pano.
+4. Para ferrugem leve, esfregue com lã de aço fina.
+5. Para ferrugem forte, use vinagre branco por aproximadamente uma noite.
+6. Retire, escove ainda molhado e lave com água corrente; não deixe secar.
+7. Enxugue com pano limpo e deixe secar ao sol.
+8. Prenda a peça, calce óculos e luvas antes de afiar.
+9. Afile só o chanfro (ângulo original) e empurre para longe do corpo.
+10. Retire a rebarba (fio na borda) com passada leve no dorso.
+11. Aperte parafusos e juntas; passe óleo em toda a parte metálica.
+12. Limpe o excesso com pano seco e pendure em lugar alto e seco.
+
+ATENCAO
+-------
+A borda corta e a lã de aço solta farpas: use óculos e luvas.
+Evite rebolo e esmeril: o calor tira a têmpera e deixa o metal quebradiço.
+Ferrugem que atravessa o metal ou lâmina trincada: pare e troque a peça.
+
+SE NAO TIVER
+------------
+Sem óleo de máquina, use óleo vegetal, vaselina ou silicone em spray.
+Sem pedra de afiar, use lixa numa tábua; sem lã de aço, pedra-pomes.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A parte metálica fica com brilho uniforme, sem pontos alaranjados.
+A borda corta papel ou fibra sem puxar e sem deixar fio solto.
+O pano sai limpo e a ferramenta fica seca, pendurada e fora do chão.
+
+FONTES
+------
+Manual TM 9-867, Maintenance and Care of Hand Tools, EUA (1945).
+Extensão das universidades de Wisconsin e Illinois; prática consolidada.

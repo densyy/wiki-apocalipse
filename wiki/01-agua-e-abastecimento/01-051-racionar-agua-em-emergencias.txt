@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 01-051
+TITULO: Como racionar água em emergências
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: recipientes limpos, copo medidor, caderno, fonte de água
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, racionar, reserva, emergência, sede, higiene
+==============================================================================
+
+OBJETIVO
+--------
+Dividir a água disponível entre as pessoas sem deixar ninguém desidratado.
+
+QUANDO USAR
+-----------
+Quando o abastecimento foi cortado e a reserva é limitada.
+Quando a autoridade determinou racionamento de água.
+Quando não há como obter mais água antes que a reserva acabe.
+Quando a seca ou um desastre reduziu a água disponível.
+Quando há mais pessoas do que a água prevista para o grupo.
+
+NAO USE QUANDO
+--------------
+Quando ainda há água segura disponível: use o necessário e procure mais.
+Como forma de criar água: racionar apenas reparte o que existe.
+Quando alguém já mostra sinais de desidratação: busque atendimento.
+
+MATERIAIS
+---------
+- Recipientes limpos e tampados para guardar e medir a água.
+- Copo medidor (garrafa ou lata de volume conhecido).
+- Caderno e lápis (papel e graveto para marcar).
+- Água tratada ou de fonte segura conhecida.
+
+PROCEDIMENTO
+------------
+1. Liste cada pessoa do grupo em um papel, uma por linha.
+2. Anote quantos litros existem e quantas pessoas vão beber.
+3. Fixe a meta de 15 litros por pessoa por dia, conforme a OMS.
+4. Se a reserva for menor, use 7,5 litros por pessoa por dia.
+5. Não fique abaixo de 7,5 litros por pessoa sem ordem da autoridade.
+6. Separe a água em dois recipientes: beber/cozinhar e higiene.
+7. Priorize crianças pequenas, idosos, doentes e mães que amamentam.
+8. Distribua a água em porções iguais com o copo medidor.
+9. Entregue a porção de cada pessoa em recipiente próprio e tampado.
+10. Anote quem recebeu e quanto a cada distribuição.
+11. Reduza o esforço do grupo: fique na sombra e evite trabalho.
+12. Reserve água para lavar as mãos ao ir ao banheiro e antes de comer.
+13. Beba primeiro a água que sabe ser segura; trate a suspeita (01-001).
+14. Guarde o restante tampado, em lugar fresco e limpo.
+
+ATENCAO
+-------
+Racionar não cria água: procure e trate novas fontes todos os dias.
+Siga a quantidade determinada pela autoridade, quando houver ordem.
+A maior vigilância é com a desidratação: sede intensa, boca seca,
+tontura e urina escura são sinais de alerta.
+Crianças pequenas, idosos, doentes e mães que amamentam precisam de mais.
+No calor intenso a necessidade de água pode dobrar; ajuste a distribuição.
+Bebidas com cafeína e álcool aumentam a perda de água; não as use no lugar.
+A OMS cita 15 litros por dia; orientação dos EUA cita cerca de 3,8 litros.
+Os números variam conforme a situação; siga a autoridade local.
+Se alguém desmaiar, vomitar sem parar ou não urinar, busque atendimento.
+
+SE NAO TIVER
+------------
+Sem copo medidor, use garrafa ou lata conhecida e marque o nível.
+Sem caderno, anote em papel; se não houver, marque com graveto.
+Sem recipiente individual, use garrafas limpas, uma por pessoa.
+Sem água tratada, coe e ferva a água antes de distribuir (01-001).
+Sem reserva suficiente, reduza o esforço e peça ajuda à Defesa Civil.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada pessoa recebeu a porção diária anotada no papel.
+Ninguém ficou sem água para beber no fim do dia.
+Os recipientes ficaram tampados e limpos.
+As pessoas urinaram e a urina ficou clara.
+
+FONTES
+------
+Orientações da OMS sobre abastecimento de água em emergências.
+Guia Ready.gov da Defesa Civil dos Estados Unidos sobre água em desastres.
+Prática consolidada de gestão de reservas; resumo operacional, não
+substitui treinamento.

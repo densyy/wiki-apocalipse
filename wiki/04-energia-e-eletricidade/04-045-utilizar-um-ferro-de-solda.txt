@@ -1,0 +1,78 @@
+==============================================================================
+CODIGO: 04-045
+TITULO: Como utilizar um ferro de solda
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: ferro de solda, tomada energizada, fio de solda, suporte firme
+REVISAO: 2026-11
+PALAVRAS-CHAVE: solda, ferro de solda, estanho, fio, reparar, placa
+==============================================================================
+
+OBJETIVO
+--------
+Refazer uma união elétrica simples com solda firme e segura.
+
+QUANDO USAR
+-----------
+Quando um fio soltou do ponto de contato de um aparelho.
+Quando um terminal de pilha quebrou e precisa de reforço.
+Quando um cabo de luminária ou rádio partiu ao meio.
+Quando um componente pequeno soltou dentro de um aparelho.
+
+NAO USE QUANDO
+--------------
+Em aparelho ligado na tomada ou com bateria conectada.
+Em quadro de luz, fiação da casa ou rede energizada.
+Perto de gás, combustível, solvente ou vapor inflamável.
+Se o cabo do ferro estiver partido, derretido ou com cheiro.
+
+MATERIAIS
+---------
+- Ferro de solda com suporte próprio (tijolo como base).
+- Fio de solda para eletrônica (solda em barra).
+- Esponja úmida ou pano de algodão úmido.
+- Alicate de bico (pinça comum).
+- Pano seco e fita isolante.
+
+PROCEDIMENTO
+------------
+1. Desligue o aparelho da tomada e retire pilhas e baterias.
+2. Trabalhe sobre mesa firme, seca e longe de papel e pano seco.
+3. Apoie o ferro sempre no suporte, com a ponta para o ar.
+4. Ligue o ferro na tomada e aguarde aquecer sem tocar na ponta.
+5. Limpe a ponta quente na esponja úmida com um toque rápido.
+6. Junte as duas partes a soldar e segure firmes com o alicate.
+7. Encoste a ponta quente na união, não direto no fio de solda.
+8. Encoste o fio de solda no ponto quente até escorrer um pouco.
+9. Retire primeiro o fio de solda e depois o ferro, sem soprar.
+10. Segure as partes paradas até a solda esfriar e endurecer.
+11. Desligue o ferro da tomada e deixe esfriar no suporte.
+12. Isole a emenda com fita isolante, sem puxar os fios.
+
+ATENCAO
+-------
+A ponta do ferro queima a pele na hora e o ferimento é grave.
+Nunca segure o fio ou a peça com os dedos durante a solda.
+A fumaça da solda irrita olhos e pulmões; ventile o ambiente.
+Não use o ferro em rede energizada; o choque pode matar.
+Se a solda não escorre, o ponto está sujo ou frio; pare e limpe.
+Ferro quente perto de papel, cortina ou plástico causa incêndio.
+Se sentir cheiro de queimado no aparelho, pare e desligue tudo.
+
+SE NAO TIVER
+------------
+Sem suporte próprio, use um tijolo ou telha como base firme.
+Sem esponja, use pano de algodão úmido bem torcido.
+Sem alicate, prenda o fio com prendedor de roupa de madeira.
+Sem fio de solda não há improviso seguro; apenas torça e isole.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A solda fica lisa, brilhante e envolve o fio por igual.
+A união não se move quando puxada de leve com o alicate.
+O aparelho volta a funcionar sem faísca e sem cheiro.
+
+FONTES
+------
+Prática consolidada de reparo em eletrônica, sem documento único.

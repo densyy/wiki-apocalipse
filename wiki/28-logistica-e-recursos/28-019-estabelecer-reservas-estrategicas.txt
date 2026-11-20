@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 28-019
+TITULO: Como estabelecer reservas estratégicas
+CATEGORIA: 28 - Logística e gestão de recursos
+TEMPO: 60 minutos
+RISCO: baixo
+EXIGE: caderno, caneta, recipientes tampados e local fresco e seco
+REVISAO: 2026-11
+PALAVRAS-CHAVE: reserva, estoque, água, comida, rodízio, planejamento
+==============================================================================
+
+OBJETIVO
+--------
+Montar e manter estoque de suprimentos para o grupo por tres dias.
+
+QUANDO USAR
+-----------
+Quando houver risco de falta de água, comida ou remédio.
+Quando o abastecimento estiver instável ou interrompido.
+Ao preparar abrigo para varias pessoas por varios dias.
+
+NAO USE QUANDO
+--------------
+Não acumule sem critério em casa apertada: pragas e risco de fogo.
+Reserva não substitui fonte de água nem cultivo de alimentos.
+
+MATERIAIS
+---------
+- Caderno e caneta para o inventário.
+- Sacos vedados e caixas de plástico com tampa.
+- Água engarrafada ou recipientes próprios com tampa.
+- Alimentos não perecíveis (enlatados, grãos, farinha).
+- Etiquetas e fita adesiva para anotar datas.
+
+PROCEDIMENTO
+------------
+1. Conte as pessoas do grupo e anote no caderno.
+2. Calcule aproximadamente 4 litros de água por pessoa por dia.
+3. Inclua a água de beber e de higiene nesse total.
+4. Multiplique pelos dias desejados; use mínimo de 3 dias.
+5. Encha recipientes limpos com tampa ou compre água engarrafada.
+6. Guarde a água em local fresco, escuro e na embalagem lacrada.
+7. Escolha alimentos não perecíveis para o mesmo período.
+8. Separe remédios, lanterna e pilhas em saco vedado dentro de caixa.
+9. Escreva a validade em cada item e anote tudo no caderno.
+
+ATENCAO
+-------
+Reserva não substitui tratamento: água suspeita exige fervura (01-001).
+Alimentos vencem; água caseira troque a cada 6 meses.
+Calor forte pode dobrar a necessidade de água.
+Crianças, doentes e mães que amamentam precisam de mais água.
+Não estoque em excesso: atrai pragas e aumenta risco de incêndio.
+
+SE NAO TIVER
+------------
+Sem água engarrafada, use recipientes de grau alimentício limpos.
+Sem caixas, empilhe sacos vedados em prateleira alta e seca.
+Sem dinheiro para estoque grande, comece pelo mínimo de 3 dias.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O inventário no caderno confere com o que está nas caixas.
+Cada item tem data escrita e está dentro da validade.
+Todos do grupo sabem onde a reserva fica guardada.
+
+FONTES
+------
+Orientações de preparação para desastres da FEMA.
+Prática consolidada de estoques com rotação por validade.

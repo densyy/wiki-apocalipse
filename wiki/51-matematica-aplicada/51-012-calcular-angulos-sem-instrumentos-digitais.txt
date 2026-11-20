@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 51-012
+TITULO: Como calcular ângulos sem instrumentos digitais
+CATEGORIA: 51 - Matemática aplicada à sobrevivência
+TEMPO: 15 minutos
+RISCO: baixo
+EXIGE: papel, lápis, linha reta, noções de triângulo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ângulo, graus, medir, triângulo, tangente, estimar
+==============================================================================
+
+OBJETIVO
+--------
+Achar o valor aproximado de um ângulo usando só papel, lápis e geometria.
+
+QUANDO USAR
+-----------
+Quando falta transferidor, esquadro ou medidor digital de ângulo.
+Quando é preciso conferir a inclinação de terreno, telhado ou escora.
+
+NAO USE QUANDO
+--------------
+Quando o erro de poucos graus puder causar acidente ou perda de material.
+Quando a estrutura estiver sob carga: pare e peça ajuda.
+Para obra de tolerância pequena, use instrumento calibrado.
+
+MATERIAIS
+---------
+- Papel limpo (ou qualquer superfície onde se desenhe).
+- Lápis (ou carvão, giz, ou um graveto na terra).
+- Uma linha reta: borda de tábua, barbante esticado ou régua.
+
+PROCEDIMENTO
+------------
+1. Trace uma linha reta no papel; ela é a base do ângulo.
+2. Aponte um lado do ângulo ao longo dessa linha reta.
+3. Marque um ponto P sobre o outro lado do ângulo.
+4. Do ponto P, trace uma perpendicular até a base e marque Q.
+5. Meça o trecho até Q na base e o trecho de P até Q.
+6. Divida P-Q pelo trecho da base até Q: é a tangente.
+7. Compare: 1,00 é 45 graus; 0,58 e 1,73 são 30 e 60 graus aproximados.
+8. Use 0,50 = 27, 0,75 = 37, 1,33 = 53 e 2,00 = 63 graus, aproximados.
+9. Escolha o valor mais próximo e escreva o resultado como aproximado.
+
+ATENCAO
+-------
+A tangente só vale se o triângulo for retângulo: confira a perpendicular.
+Se Q cair fora da base, subtraia o achado de 180 graus.
+Valores entre dois da tabela são aproximados: não os chame de exatos.
+A estimativa com a mão varia com a pessoa; calibre antes de confiar.
+Pare e peça ajuda em escora, telhado ou carga estrutural.
+Este método não substitui instrumento calibrado em trabalho técnico.
+
+SE NAO TIVER
+------------
+Sem lápis, use carvão, giz ou um graveto na terra.
+Sem papel, estime com a mão a um braço estendido.
+O punho fechado vale aproximadamente 10 graus; três dedos, 5 graus.
+Calibre a mão contra 45 ou 90 graus antes de confiar nela.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O triângulo traçado tem um ângulo reto no ponto Q.
+A razão encontrada bate com um valor da tabela de referência.
+Dobre um papel quadrado na diagonal: a dobra marca 45 graus.
+
+FONTES
+------
+Prática consolidada de geometria elementar e estimativa de campo.
+Nenhuma fonte externa específica foi consultada nesta redação.

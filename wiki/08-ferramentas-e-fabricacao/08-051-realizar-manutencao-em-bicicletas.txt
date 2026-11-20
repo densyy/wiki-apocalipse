@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 08-051
+TITULO: Como realizar manutenção em bicicletas
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 45 minutos
+RISCO: medio
+EXIGE: bomba com manômetro, chaves, pano, escova, lubrificante, óculos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bicicleta, manutenção, corrente, pneu, freio, calibragem
+==============================================================================
+
+OBJETIVO
+--------
+Deixar a bicicleta segura para pedalar com inspeção e ajustes básicos.
+
+QUANDO USAR
+-----------
+Antes de viagem longa ou após pedalar na chuva e na lama.
+Quando a corrente range, o pneu afunda ou o freio responde devagar.
+
+NAO USE QUANDO
+--------------
+Quando houver defeito em freio hidráulico, suspensão ou câmbio: busque um
+mecânico. Não pedale com pneu rasgado, aro torto ou freio falhando.
+
+MATERIAIS
+---------
+- Bomba manual com manômetro (bomba de pé).
+- Chave hexagonal ou jogo de chaves (chave de boca).
+- Pano, escova, água, sabão, lubrificante de corrente e óculos.
+
+PROCEDIMENTO
+------------
+1. Coloque a bicicleta em pé, em local firme e com luz.
+2. Meça a pressão com manômetro; siga o valor da lateral do pneu.
+3. Não passe do limite do pneu nem do aro; use o menor dos dois.
+4. Pressione o pneu com a palma; ele deve ficar firme, sem afundar.
+5. Aperte cada manete de freio; ele não pode encostar no guidão.
+6. Empurre e freie devagar; a bicicleta deve parar imediatamente.
+7. Troque a pastilha se tiver menos de 1 mm de espessura.
+8. Gire as rodas; o pneu não pode encostar no freio nem no quadro.
+9. Gire os pedais para trás; a folga da corrente deve ser de 6 a 12 mm.
+10. Limpe a corrente com escova, água e sabão; seque com pano.
+11. Pingue lubrificante de bicicleta em cada elo e retire o excesso.
+12. Aperte guidão, selim e rodas até sentir firme, sem exagero.
+
+ATENCAO
+-------
+Pneu muito murcho ou muito cheio aumenta o risco de furo e de queda.
+Freio ou sapata gastos não param; óleo no freio reduz a frenagem.
+Parafuso apertado demais quebra a rosca, o quadro ou o cubo.
+
+SE NAO TIVER
+------------
+Sem manômetro, encha com bomba manual e peça a conferência em uma oficina.
+Sem lubrificante próprio, não use óleo de cozinha nem desengripante: esses
+produtos atraem sujeira e não lubrificam a corrente corretamente.
+Sem chave, não force o parafuso com alicate; use a ferramenta correta.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Pneus firmes, manetes sem encostar no guidão e corrente que não range.
+Nenhum parafuso com folga e nenhum óleo visível no freio.
+
+FONTES
+------
+Cartilha do Ciclista, Companhia de Engenharia de Tráfego de São Paulo.
+Guia do Ciclista Seguro 2023, Abraciclo.
+Manuais de proprietário Trek e Caloi: inspeção, manutenção e corrente.
+League of American Bicyclists: folha de manutenção básica de bicicleta.

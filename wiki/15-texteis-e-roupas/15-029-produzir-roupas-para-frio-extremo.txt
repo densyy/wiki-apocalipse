@@ -1,0 +1,83 @@
+==============================================================================
+CODIGO: 15-029
+TITULO: Como produzir roupas para frio extremo
+CATEGORIA: 15 - Têxteis, roupas e produção artesanal
+TEMPO: 120 minutos
+RISCO: alto
+EXIGE: lã, enchimento, tecido impermeável, agulha, linha, tesoura
+REVISAO: 2026-11
+PALAVRAS-CHAVE: frio, roupa, camadas, hipotermia, luvas, meias
+==============================================================================
+
+OBJETIVO
+--------
+Confeccionar um conjunto de camadas que mantenha o corpo seco e aquecido.
+
+QUANDO USAR
+-----------
+Quando a temperatura cai e não há abrigo aquecido.
+Quando se vai trabalhar ou caminhar ao ar livre por horas.
+Quando a previsão indica vento forte, chuva congelante ou neve.
+Quando a roupa disponível é fina, molhada ou rasgada.
+
+NAO USE QUANDO
+--------------
+Quando não houver abrigo nem fonte de calor seguro por perto.
+A roupa não substitui abrigo, aquecimento nem atendimento médico.
+Não use fogo em ambiente fechado sem ventilação: monóxido de carbono mata.
+
+MATERIAIS
+---------
+- Tecido de lã ou sintético para a camada que encosta na pele.
+- Coberta, feltro ou penas para enchimento (penas de travesseiro).
+- Tecido impermeável ou bem cerrado para a capa externa.
+- Agulha e linha resistentes (tiras de tecido trançadas).
+- Tesoura e fita de medir (barbante).
+- Pelo menos dois pares de meias e um par de luvas.
+
+PROCEDIMENTO
+------------
+1. Meça tórax, cintura, braço e perna com fita ou barbante.
+2. Corte a camada base com aproximadamente 2 cm de folga nas costuras.
+3. Costure camisa e calça com ponto corrido, sem apertar o corpo.
+4. Distribua o enchimento entre duas camadas de tecido.
+5. Prenda o enchimento com pontos espaçados de aproximadamente 10 cm.
+6. Costure a capa externa com costuras sobrepostas no sentido da chuva.
+7. Confeccione chapéu duplo que cubra orelhas e nuca.
+8. Costure luvas tipo mitena, com dedos juntos e punho sobre o pulso.
+9. Costure meias de lã ou forros de meia e separe duas trocas secas.
+10. Cubra as botas com capa impermeável e amarre acima do tornozelo.
+11. Vista o conjunto e caminhe aproximadamente 10 minutos.
+12. Retire camada se suar; acrescente peça se ainda sentir frio.
+
+ATENCAO
+-------
+Roupa não impede hipotermia nem congelamento: isso pode matar.
+Hipotermia pode ocorrer em aproximadamente 15 °C se o corpo ficar molhado.
+Pare e procure ajuda com tremor forte, confusão ou perda de coordenação.
+Pele branca, cinzenta, dura ou dormida indica congelamento.
+Nunca esfregue a parte congelada nem use água quente ou fogo direto.
+Troque imediatamente qualquer peça molhada ou suada por uma seca.
+Não aperte as peças: aperto reduz a circulação nas mãos e nos pés.
+Proteja sempre cabeça, orelhas, rosto, mãos e pés do vento.
+Nunca aqueça o ambiente com braseiro fechado: monóxido de carbono mata.
+
+SE NAO TIVER
+------------
+Sem tecido impermeável, use o tecido mais cerrado que tiver na capa.
+Se a capa molhar, troque por peça seca antes de continuar.
+Sem lã, use penas ou pedaços de coberta limpa como enchimento.
+Sem máquina de costura, costure à mão com ponto corrido.
+Para impermeabilizar a capa, veja 15-022.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ao caminhar, nenhuma peça aperta e nenhuma parte fica exposta ao vento.
+A capa externa não deixa passar vento e a peça interna permanece seca.
+Não há suor acumulado e as extremidades mantêm a cor normal.
+
+FONTES
+------
+Prática consolidada de vestuário para frio extremo. Orientações do
+CDC/NIOSH sobre estresse térmico por frio e do Serviço Nacional de
+Previsão do Tempo dos Estados Unidos (NOAA) sobre frio extremo.

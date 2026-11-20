@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 04-069
+TITULO: Como utilizar lenha como fonte de energia
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: lenha seca, fogao ou fogueira, saida de fumaca, ventilacao
+REVISAO: 2026-11
+PALAVRAS-CHAVE: lenha, madeira, fogo, calor, umidade, chamine, fogao
+==============================================================================
+
+OBJETIVO
+---------
+Gerar calor para cozinhar e aquecer usando lenha com segurança.
+
+QUANDO USAR
+-----------
+Quando houver lenha disponível e faltar outro combustível.
+Para cozinhar, ferver água ou aquecer o ambiente.
+Em fogão a lenha, fornalha ou fogueira com saída de fumaça.
+Quando faltar energia elétrica ou gás.
+
+NAO USE QUANDO
+--------------
+Em ambiente fechado sem chaminé ou saída de fumaça para fora.
+Se a madeira for tratada, pintada, envernizada ou industrializada.
+Se não houver ventilação nem forma de renovar o ar.
+Perto de cortinas, móveis, palha ou outro material inflamável.
+Se não houver como vigiar o fogo até apagá-lo por completo.
+
+MATERIAIS
+---------
+- Lenha seca, rachada e sem apodrecimento.
+- Fogão, fornalha ou fogueira com saída de fumaça.
+- Chaminé ou duto limpo e desimpedido.
+- Jornal seco e gravetos para acender (sem gasolina, álcool ou querosene).
+- Balde com água ou areia para apagar o fogo.
+- Tela metálica para a lareira, com malha de 2 a 5 milímetros.
+- Luvas ou pano grosso para manusear a lenha.
+
+PROCEDIMENTO
+------------
+1. Escolha lenha seca: pontas rachadas, peso leve e som oco ao bater.
+2. Rache a lenha em pedaços pequenos para secar e queimar melhor.
+3. Empilhe a lenha fora do solo, com a pilha coberta somente por cima.
+4. Deixe secar de seis a doze meses, aproximadamente, antes de queimar.
+5. Confira a chaminé: sem fuligem, sem obstrução e com saída para fora.
+6. Afaste cortinas, móveis e inflamáveis a pelo menos 1 metro do fogo.
+7. Abra uma fresta de porta ou janela para renovar o ar do ambiente.
+8. Coloque gravetos secos e jornal no centro do braseiro.
+9. Acenda com fósforo ou acendedor natural; nunca use gasolina ou álcool.
+10. Alimente aos poucos com lenha pequena até o fogo ficar quente.
+11. Mantenha chama clara e fogo quente, não fogo fraco e com fumaça.
+12. Coloque mais lenha quando a anterior ainda estiver queimando.
+13. Não encha o fogão de lenha de uma só vez.
+14. Feche a porta do fogão, exceto ao colocar lenha.
+15. Ao terminar, deixe as brasas apagarem ou apague com água ou areia.
+16. Retire as cinzas frias em recipiente metálico com tampa, fora de casa.
+
+ATENCAO
+-------
+O monóxido de carbono é invisível e sem cheiro e pode matar.
+Renove o ar sempre.
+Fogo em ambiente fechado sem chaminé envenena e pode matar.
+Falta oxigênio no ambiente.
+Lenha úmida gera mais fumaça, menos calor e fuligem inflamável na chaminé.
+Fagulhas podem causar incêndio: use tela na lareira e afaste inflamáveis.
+Nunca queime madeira tratada, pintada, compensado ou lixo.
+Soltam vapores tóxicos.
+Nunca use gasolina, álcool ou querosene para acender o fogo.
+Cinzas podem reacender: guarde em metal tampado, longe de inflamáveis.
+Se alguém sentir tontura, dor de cabeça ou sonolência perto do fogo, apague.
+Nesse caso, areje o ambiente, saia dali e procure ajuda médica.
+Nunca deixe o fogo sem vigilância e nunca durma com ele aceso.
+
+SE NAO TIVER
+------------
+Sem chaminé, faça fogueira ao ar livre, longe de árvores e inflamáveis.
+Sem lenha seca, rache a madeira e deixe secar ao sol e ao vento.
+Sem medidor de umidade, use o teste da ponta rachada e do som oco.
+Sem fogão, monte fogueira cercada de pedras, com o teto aberto.
+Não improvise com madeira tratada, plástico ou líquido inflamável.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A chama fica clara e alta, com pouca fumaça e cheiro de madeira.
+A lenha rachou nas pontas e soa oco ao bater duas peças.
+A fumaça sai pela chaminé e não volta para dentro do ambiente.
+O ambiente esquenta e a água ou a comida cozinham sem fumaça interna.
+As cinzas esfriaram e ficaram em recipiente metálico fora de casa.
+
+FONTES
+------
+Prática consolidada de uso da lenha e de segurança contra incêndio.
+Embrapa: comunicado técnico sobre fornalhas a lenha e documento de 2025
+sobre biomassa, umidade e poder calorífico.
+Corpo de Bombeiros Militar de Santa Catarina e Defesa Civil de Curitiba:
+orientações sobre fogões a lenha, chaminé e monóxido de carbono.
+US EPA, programa Burn Wise: boas práticas de queima de madeira seca.
+Serviços de extensão da WVU, Illinois e Missouri: secagem da lenha.

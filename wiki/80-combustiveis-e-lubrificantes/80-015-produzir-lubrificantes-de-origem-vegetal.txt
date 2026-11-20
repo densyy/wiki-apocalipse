@@ -1,0 +1,82 @@
+==============================================================================
+CODIGO: 80-015
+TITULO: Como produzir lubrificantes de origem vegetal
+CATEGORIA: 80 - Produção de combustíveis e lubrificantes
+TEMPO: 120 minutos
+RISCO: medio
+EXIGE: sementes secas, prensa, filtro, recipiente limpo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: lubrificante, óleo vegetal, prensagem, viscosidade, oxidação
+==============================================================================
+
+OBJETIVO
+--------
+Obter um óleo vegetal filtrado para lubrificar máquinas leves.
+
+QUANDO USAR
+-----------
+Para lubrificar dobradiças, correntes e manivelas de baixa rotação.
+Como reserva quando faltar óleo mineral no estoque.
+Em ferramentas manuais e equipamentos de uso esporádico.
+Para estudar a diferença entre óleo e graxa (80-016).
+
+NAO USE QUANDO
+--------------
+Não use em motor de alta rotação ou carga pesada.
+Não use em compressor, turbina ou sistema com vedação incompatível.
+Não use óleo que ficou rançoso, escuro ou com cheiro acre.
+Não misture com óleo mineral de desconhecido sem teste prévio.
+
+MATERIAIS
+---------
+- Sementes oleaginosas secas: girassol, soja, colza ou mamona.
+- Prensa manual ou esmagador com parafuso (pilão e pano).
+- Peneira fina e papel filtro ou pano de algodão limpo.
+- Recipiente de vidro escuro com tampa, limpo e seco.
+- Frasco com água e sal para lavagem (opcional).
+- Luvas, óculos e superfície resistente a manchas.
+
+PROCEDIMENTO
+------------
+1. Selecione sementes maduras, secas e sem mofo.
+2. Limpe terra, palha e grãos danificados antes de prensar.
+3. Aqueça levemente as sementes para facilitar a extração.
+4. Prensas em pequenas porções, sem excesso de força.
+5. Coe o óleo bruto na peneira para retirar sólidos grandes.
+6. Filtre novamente por pano limpo, duas ou três vezes.
+7. Deixe descansar em repouso para separar água e borra.
+8. Decante a parte limpa para outro frasco, sem mexer o fundo.
+9. Se houver umidade, aqueça suavemente até evaporar.
+10. Não deixe ferver: calor excessivo acelera a oxidação.
+11. Rotule com tipo de semente, data de extração e validade.
+12. Guarde em vidro escuro, fechado, longe de luz e calor.
+13. Teste em peça pequena antes de aplicar em equipamento.
+14. Reaplique com mais frequência que óleo mineral.
+
+ATENCAO
+-------
+Óleo vegetal oxida e engrossa com o tempo, formando goma.
+Mamona e colza têm viscosidade maior que girassol e soja.
+Semente mofada pode conter micotoxinas: descarte o lote.
+Óleo vegetal não tem os aditivos do óleo mineral industrial.
+Nunca descarte óleo usado na pia ou no solo.
+Se o óleo ficar com cheiro acre, pare de usar e descarte.
+
+SE NAO TIVER
+------------
+Sem prensa, embrulhe as sementes em pano e esmague com peso.
+Sem papel filtro, use pano de algodão bem limpo e dobrado.
+Sem vidro escuro, guarde em local totalmente sem luz.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O óleo escorre uniformemente e não tem grãos visíveis.
+A cor fica estável por alguns dias, sem escurecer depressa.
+A peça lubrificada gira livre, sem rangido nem aquecimento.
+O frasco está rotulado e guardado longe da luz.
+
+FONTES
+------
+Prática tradicional de extração de óleos vegetais e noções de
+tributologia aplicada a lubrificantes de base vegetal.
+Leitura complementar: 80-016 e 80-017.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 29-013
+TITULO: Como armazenar mapas do OpenStreetMap offline
+CATEGORIA: 29 - Tecnologia, computação e informática offline
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: celular, aplicativo de mapas, internet no download, espaço livre
+REVISAO: 2026-11
+PALAVRAS-CHAVE: mapa, openstreetmap, offline, osmand, navegação, baixar
+==============================================================================
+
+OBJETIVO
+--------
+Baixar mapas de uma região e navegar sem internet para se orientar.
+
+QUANDO USAR
+-----------
+Quando a viagem passa por áreas sem sinal de celular.
+Com roaming caro ou dados móveis limitados.
+Em túnel, subsolo ou ajuda a desastres, quando a internet pode cair.
+
+NAO USE QUANDO
+--------------
+Quando for preciso trânsito em tempo real ou fechamento de estradas.
+Mapas offline não mostram obras, acidentes nem rotas dinâmicas.
+
+MATERIAIS
+---------
+- Celular com espaço livre (libere antes).
+- Aplicativo de mapas offline que use OpenStreetMap (OsmAnd, Organic Maps).
+- Internet no download (Wi-Fi de preferência) e aparelho carregado.
+- Mapa impresso de papel como reserva (opcional).
+
+PROCEDIMENTO
+------------
+1. Instale o aplicativo de mapas enquanto ainda há internet.
+2. Abra e ache a opção de baixar mapas ou regiões.
+3. Escolha a região exata da viagem, não o país inteiro.
+4. Confira o tamanho do arquivo indicado antes de confirmar.
+5. Baixe por Wi-Fi e deixe terminar sem fechar o aplicativo.
+6. Mova os mapas para o cartão de memória, se permitido.
+7. Baixe os dados de busca de endereços e de rotas, se houver.
+8. Reabra em modo avião para testar sem internet.
+9. Leve o carregador e mantenha o GPS ligado na navegação.
+
+ATENCAO
+-------
+Mapas offline não mostram trânsito, acidentes, obras ou fechamentos.
+O mapa fica desatualizado; baixe a versão nova antes da viagem.
+Baixar a região errada é o erro comum: confira o nome antes de sair.
+Sem os dados extras de rota, o mapa abre mas não calcula o caminho.
+GPS consome bateria rápido: leve carregador e baixe o brilho da tela.
+Se faltar espaço ou bateria, o download falha e o mapa não abre.
+
+SE NAO TIVER
+------------
+Sem cartão, baixe só uma região pequena e apague mapas antigos.
+Sem aplicativo, exporte imagem ou PDF do OpenStreetMap e salve no aparelho.
+Sem internet, use um mapa impresso preparado antes da viagem.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Com modo avião, o mapa abre e mostra ruas da região baixada.
+O aplicativo traça rota entre dois pontos sem pedir conexão.
+
+FONTES
+------
+Wiki do OpenStreetMap, página "Using OpenStreetMap offline": aplicativos
+e limites de download. Documentação oficial do OsmAnd: mapas vetoriais.
+Site oficial do Organic Maps: mapas baixados com busca e navegação.

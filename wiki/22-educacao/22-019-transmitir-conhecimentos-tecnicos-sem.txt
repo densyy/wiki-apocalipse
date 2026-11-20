@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 22-019
+TITULO: Como transmitir conhecimentos técnicos sem especialistas
+CATEGORIA: 22 - Educação e transmissão de conhecimento
+TEMPO: 90 minutos
+RISCO: baixo
+EXIGE: papel, caneta, material real da tarefa, um aprendiz atento
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ensinar, treinar, multiplicador, prática, erro, ajuda
+==============================================================================
+
+OBJETIVO
+--------
+Fazer uma pessoa comum executar uma tarefa técnica após demonstração curta.
+
+QUANDO USAR
+-----------
+Quando a técnica precisar ser repassada e o especialista for embora.
+Quando um grupo grande precisar aprender a mesma tarefa.
+Quando o saber estiver em uma pessoa e não estiver em nenhum papel.
+
+NAO USE QUANDO
+--------------
+Quando o procedimento for de risco alto e você não o dominar.
+Não ensine o que não sabe: procure quem saiba e adie a demonstração.
+
+MATERIAIS
+---------
+- Papel e caneta para a lista de passos (ou terra e graveto).
+- O material real da tarefa (ou objeto parecido, só para ensaiar).
+- Uma pessoa disposta a aprender e a executar, com luz e sem pressa.
+
+PROCEDIMENTO
+------------
+1. Escolha uma única tarefa concreta e pequena para ensinar.
+2. Separe o material real que a pessoa vai usar na tarefa.
+3. Demonstre a tarefa uma vez, com movimentos lentos e sem pressa.
+4. Explique um passo de cada vez, com as palavras que a pessoa usa.
+5. Explique o termo técnico na primeira vez que ele aparecer.
+6. Diga os limites críticos e quando parar e procurar ajuda.
+7. Peça que a pessoa execute a tarefa enquanto você observa.
+8. Corrija o erro no momento, mostrando de novo o passo certo.
+9. Peça que a pessoa ensine de volta; anote os passos e combine revisão.
+
+ATENCAO
+-------
+Um erro ensinado em saúde, fogo ou eletricidade pode ferir quem aprende.
+Ensine só o que domina; se não souber, diga e procure quem saiba.
+Perguntar "entendeu?" não prova aprendizado: só a execução correta prova.
+Se errar o limite crítico duas vezes, pare, reforce e nunca humilhe.
+
+SE NAO TIVER
+------------
+Sem papel, desenhe os passos na terra com um graveto.
+Sem material real, ensaie com objeto parecido, mas exija a prática
+com o material verdadeiro antes de a pessoa executar sozinha.
+Sem ninguém que saiba, não invente: registre a dúvida e procure ajuda.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A pessoa executa a tarefa completa, sem ajuda e sem erro nos limites
+críticos, ensina de volta e lê em voz alta a lista escrita.
+
+FONTES
+------
+Prática consolidada de educação de adultos e formação de
+multiplicadores, sem documento único. Ensinar de volta é prática
+consolidada de educação em saúde. Consultadas: UNESCO (educação de
+adultos, formação de professores e educação em emergências) e OPAS/OMS
+(Política de Recursos Humanos em Saúde 2030). Resumo operacional.

@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 57-006
+TITULO: Como controlar umidade em depósitos
+CATEGORIA: 57 - Refrigeração, climatização e conforto
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: higrômetro, pallets, vedante, ventilação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: umidade, mofo, depósito, armazenamento, higrômetro, seco
+==============================================================================
+
+OBJETIVO
+--------
+Manter o depósito seco para evitar mofo e perda dos gêneros guardados.
+
+QUANDO USAR
+-----------
+Quando o depósito fica no subsolo, com piso de terra ou alvenaria.
+Quando os gêneros chegam úmidos ou o ar fica abafado e parado.
+Quando aparece cheiro de mofo ou manchas escuras nas paredes.
+
+NAO USE QUANDO
+--------------
+Com vazamento, infiltração ou alagamento, trate a origem da água primeiro.
+Não use para salvar alimento já com mofo: descarte-o.
+
+MATERIAIS
+---------
+- Higrômetro (medidor de umidade do ar) e lona para piso de terra.
+- Pallets ou ripas de madeira para levantar a carga.
+- Vedante para frestas; pano, escova e sabão para limpar mofo.
+- Sílica gel ou cal virgem em saquinhos (absorvedores de umidade).
+- Ventilador ou aberturas para ventilação cruzada.
+
+PROCEDIMENTO
+------------
+1. Meça a umidade no centro do depósito, longe das paredes, e anote.
+2. Vede frestas e cubra o piso de terra com lona plástica sobreposta.
+3. Coloque a carga sobre pallets, afastada do piso e das paredes.
+4. Deixe aproximadamente 10 cm entre pilhas e parede para circular ar.
+5. Guarde os gêneros em recipientes fechados e secos antes de empilhar.
+6. Abra aberturas altas e baixas para criar ventilação cruzada.
+7. Se o ar externo estiver úmido, feche as aberturas e use ventilador.
+8. Coloque saquinhos de sílica gel ou cal virgem perto da carga.
+9. Limpe o mofo com água e sabão, seque e meça a cada semana.
+
+ATENCAO
+-------
+Mofo cresce em matéria orgânica úmida: madeira, papel, tecido, alimento.
+Acima de 60% de umidade relativa aumentam mofo e condensação.
+Mantenha entre 30% e 50% de umidade relativa, quando possível.
+Mofo em alimento pode produzir toxinas: não basta cortar a parte ruim.
+Ventilar com ar externo úmido piora o quadro: meça antes de abrir.
+Se o cheiro persistir ou a umidade não cair, procure ajuda.
+
+SE NAO TIVER
+------------
+Sem higrômetro, observe paredes úmidas, gotículas e cheiro de mofo.
+Sem sílica gel, use cal virgem em saquinho, mas nunca toque a cal com
+as mãos nem a deixe cair sobre alimentos. Sem pallets, use ripas secas.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O higrômetro marca menos de 60% de umidade, sem mofo nem gotículas.
+
+FONTES
+------
+Prática consolidada de controle de umidade e prevenção de mofo, conforme
+orientações da EPA (Mold Course, capítulos 2 e 9). Resumo operacional.

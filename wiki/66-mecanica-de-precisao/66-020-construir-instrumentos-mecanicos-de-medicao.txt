@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 66-020
+TITULO: Como construir instrumentos mecânicos de medição
+CATEGORIA: 66 - Mecânica de precisão e instrumentos
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: régua metálica, hastes de aço, rebite, lima, superfície plana
+REVISAO: 2026-11
+PALAVRAS-CHAVE: medição, compasso, divisores, esquadro, régua, medir
+==============================================================================
+
+OBJETIVO
+--------
+Construir compasso e esquadro para transferir, comparar e conferir medidas.
+
+QUANDO USAR
+-----------
+Quando faltar compasso ou esquadro para marcar uma peça.
+Quando for preciso conferir se um canto está a noventa graus.
+
+NAO USE QUANDO
+--------------
+Quando a medição exigir laudo técnico ou calibragem certificada.
+Instrumento feito na bancada não substitui instrumento calibrado.
+
+MATERIAIS
+---------
+- Régua metálica reta, sem empeno, com escala legível.
+- Duas hastes de aço retas, rebite e barra rígida para o esquadro.
+- Lima, pedra de amolar, óleo leve e superfície plana.
+
+PROCEDIMENTO
+------------
+1. Limpe hastes e régua com pano para tirar óleo e sujeira.
+2. Amoleça a ponta de cada haste na pedra até ficar cônica e aguda.
+3. Faça um furo no topo de cada haste, na mesma altura.
+4. Sobreponha os furos e prenda com rebite sem apertar demais.
+5. Abra as hastes e confirme que deslizam com atrito firme.
+6. Ajuste as pontas até encostarem sem folga no fechamento.
+7. Para o esquadro, apoie barra e régua na superfície plana.
+8. Encoste a régua de pé na barra, aproximadamente reta.
+9. Meça 30 mm na barra e 40 mm na régua a partir do encontro.
+10. Ajuste até a distância entre as marcas medir 50 mm.
+11. O triângulo 3-4-5 garante noventa graus no encontro.
+12. Fixe a régua na barra com rebite ou solda já ajustados.
+13. Confira as três medidas de novo e passe óleo nas partes de aço.
+
+ATENCAO
+-------
+Pontas agudas e lima cortam: use óculos e não encoste a mão nas pontas.
+A precisão depende da régua e do ajuste: os valores são aproximados.
+Esquadro torto propaga erro: confira antes de marcar a peça.
+
+SE NAO TIVER
+------------
+Sem hastes de aço, use arame grosso ou pregos endireitados.
+Sem rebite, use parafuso e porca deixando folga de giro.
+Sem barra de aço, use uma tira rígida de madeira seca.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O compasso fecha com as pontas juntas e abre sem folga lateral.
+As duas pontas mantêm a distância ao transferir uma medida.
+No esquadro, 30 e 40 mm distam exatamente 50 mm.
+
+FONTES
+------
+Prática consolidada de marcenaria e metalurgia de bancada.
+Triângulo 3-4-5 (Pitágoras); compasso: Britannica e Smithsonian.
+Resumo operacional: não substitui treinamento nem instrumento calibrado.

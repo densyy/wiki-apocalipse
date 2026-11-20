@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 62-024
+TITULO: Como planejar abate sanitário em instalações adequadas
+CATEGORIA: 62 - Pecuária, reprodução e processamento animal
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: local registrado, inspeção oficial, água potável, frio
+REVISAO: 2026-11
+PALAVRAS-CHAVE: abate, matadouro, açougue, higiene, inspeção, carne
+==============================================================================
+
+OBJETIVO
+--------
+Planejar um abate higiênico com instalação regular, pessoal treinado e
+controle sanitário, para obter carne própria para consumo.
+
+QUANDO USAR
+-----------
+Quando for abater animal de criação para consumo de carne.
+Quando a carne será guardada, transportada ou vendida.
+Quando o animal veio de outra fonte ou tomou medicamento.
+Ao escolher ou adaptar um local de abate.
+Ao organizar a limpeza e o descarte de resíduos do abate.
+
+NAO USE QUANDO
+--------------
+Não abata animal doente, com febre ou morto sem causa conhecida.
+Não abata sem inspeção oficial quando a carne for comercializada.
+Não abata em casa para venda: use local registrado e inspecionado.
+Não use local sem água potável, esgoto, frio ou pia de mãos.
+Não abata animal em tratamento ou dentro do prazo de carência.
+
+MATERIAIS
+---------
+- Estabelecimento registrado (SIF, estadual ou municipal).
+- Local de recepção e curral separado da área de abate.
+- Área suja e área limpa separadas por parede ou barreira física.
+- Água potável fria e quente; esterilizador a 82,2 graus Celsius.
+- Pias com torneira de pedal, sabão neutro e papel-toalha descartável.
+- Piso impermeável, ralo sifonado e esgoto que escoe para fora da área.
+- Câmara fria com termômetro, capaz de levar a carcaça a 7 graus.
+- Utensílios de aço inox, facas e ganchos exclusivos e identificados.
+- Uniforme claro, luvas, avental, botas e desinfetante aprovado.
+- Recipiente tampado para resíduos e local para descarte de vísceras.
+
+PROCEDIMENTO
+------------
+1. Confirme a finalidade da carne e a exigência de inspeção para ela.
+2. Para venda, escolha abatedouro registrado com inspeção oficial ativa.
+3. Peça ao médico veterinário o exame do animal antes do abate.
+4. Separe animais sadios dos suspeitos em currais distintos.
+5. Registre a origem, a identificação e os medicamentos do animal.
+6. Respeite o prazo de carência de cada medicamento aplicado.
+7. Confira a chegada de água potável e a pressão das torneiras.
+8. Confirme que o esterilizador mantém a água a pelo menos 82,2 graus.
+9. Confira se as áreas suja e limpa estão separadas e sinalizadas.
+10. Confira o escoamento do piso, os ralos sifonados e a limpeza.
+11. Verifique a barreira sanitária e a existência de uniformes limpos.
+12. Confirme que quem insensibiliza o animal é treinado e habilitado.
+13. Combine com o inspetor a inspeção antes e depois do abate.
+14. Confirme que a câmara fria funciona e que há termômetro calibrado.
+15. Reserve o destino das vísceras e dos resíduos antes de começar.
+16. Registre cada verificação em papel.
+
+ATENCAO
+-------
+Abate mal feito transmite Salmonela, E. coli e outras zoonoses.
+Animal doente ou morto pode tornar a carne imprópria para consumo.
+A inspeção oficial é obrigatória para carne destinada à venda.
+Faca, serra e gancho cortam fundo: use luvas e não force a mão.
+O esterilizador queima: não encoste a pele na água quente.
+Chama em local fechado produz monóxido de carbono: ventile sempre.
+Sem frio, a carne estraga rápido e pode causar intoxicação.
+Com dúvida sobre o animal, pare e chame o médico veterinário.
+
+SE NAO TIVER
+------------
+Sem local registrado, leve o animal a um serviço de abate legal.
+Sem água potável, não abata para consumo: procure outro local.
+Sem câmara fria, não guarde a carne: leve a um local com frio.
+Sem inspetor, não comercialize a carne de forma alguma.
+Sem esterilizador, não improvise com água fria: suspenda o abate.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O local apresenta registro válido e inspeção oficial no dia do abate.
+A água é potável, a pia tem pedal e o esterilizador marca 82,2 graus.
+Área suja e área limpa estão separadas e identificadas no local.
+O termômetro da câmara marca 7 graus ou menos antes da carne.
+Os registros trazem origem, identificação, carência e resultados.
+
+FONTES
+------
+Decreto 9.013, de 2017, RIISPOA, do Ministério da Agricultura.
+Portaria MAPA 711, de 1995, normas de instalações para abate.
+Código de Prática de Higiene da Carne, CAC/RCP 58-2005, Codex/FAO.
+Código Sanitário WOAH, capítulo sobre abate de animais.
+Instruções Normativas MAPA 20 e 60, de 2016, sobre Salmonela.
+Documento Embrapa sobre abatedouros modulares, 2019.

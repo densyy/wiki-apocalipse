@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 75-003
+TITULO: Como construir sistemas de ventilação para calor e umidade
+CATEGORIA: 75 - Tecnologias apropriadas para regiões tropicais
+TEMPO: 120 minutos
+RISCO: medio
+EXIGE: escada firme, luvas, óculos, ferramenta de corte, lona ou chapas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ventilação, calor, umidade, fluxo de ar, exaustor, duto
+==============================================================================
+
+OBJETIVO
+--------
+Montar entrada e saída de ar que renovem o ambiente e reduzam o calor.
+
+QUANDO USAR
+-----------
+Quando o ar fica parado e abafado mesmo com a casa na sombra.
+Quando cozinhar ou dormir dentro de casa aumenta calor e umidade.
+Quando telha ou teto de metal irradia calor para as pessoas.
+
+NAO USE QUANDO
+--------------
+Quando o ar de fora passa de aproximadamente 40 graus: nessa faixa o
+ventilador aquece o corpo em vez de resfriá-lo.
+
+MATERIAIS
+---------
+- Chapas finas, madeira ou lona resistente (saco de estopa).
+- Pregos, parafusos ou arame (cadarço forte) para prender as chapas.
+- Tela mosquiteira (pano fino) para cobrir a entrada de ar.
+- Escada firme (degraus presos) e luvas com óculos de proteção.
+
+PROCEDIMENTO
+------------
+1. Escolha a parede sombreada que recebe o vento dominante.
+2. Marque a entrada de ar na parte baixa, a 30 cm do chão.
+3. Marque a saída de ar na parte alta da parede oposta, perto do teto.
+4. Confira se a saída ficou mais alta que a entrada: o ar quente sobe.
+5. Abra as duas marcas com serra ou faca, com luvas e óculos.
+6. Cubra as bordas cortantes com fita de pano.
+7. Pregue a tela na entrada para barrar insetos.
+8. Apoie a escada em chão firme e fixe a chapa da saída com pregos.
+9. Incline a chapa da saída para fora, formando beiral contra a chuva.
+10. Feche as frestas das chapas com pano ou barro.
+11. Instale o ventilador de tomada na saída alta, se houver, puxando o ar.
+
+ATENCAO
+-------
+Se a saída ficar mais baixa que a entrada, o ar não circula.
+Acima de aproximadamente 40 graus, ventilador aumenta o ganho de calor.
+Nunca queime vela ou lampião em ambiente fechado sem saída de ar:
+monóxido de carbono não tem cor nem cheiro e mata durante o sono.
+Use luvas e óculos ao cortar; não suba sozinho em escada fraca.
+
+SE NAO TIVER
+------------
+Sem chapa, use lona, saco de estopa ou palha trançada.
+Sem tela, prenda pano fino na entrada para barrar insetos.
+Sem ventilador, amplie a abertura alta e conte com o vento e a altura.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Fita leve presa na entrada balança para dentro quando há vento.
+O ar que sai no alto está mais quente que o ar que entra embaixo.
+
+FONTES
+------
+OMS, ficha Calor e saúde (2026); NIOSH/CDC, Calor e trabalhadores (2026).
+Manual militar FM 21-76: ventilação de abrigos e risco de monóxido.

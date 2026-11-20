@@ -1,0 +1,92 @@
+==============================================================================
+CODIGO: 50-008
+TITULO: Como eram construídos navios antes da industrialização
+CATEGORIA: 50 - História das tecnologias pré-industriais
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: madeira de carvalho, machado, enchó, estopa, alcatrão, corda
+REVISAO: 2026-11
+PALAVRAS-CHAVE: navio, madeira, quilha, clinker, carvel, calafetagem
+==============================================================================
+
+OBJETIVO
+--------
+Replicar em escala pequena o método de construção de navios de madeira.
+
+QUANDO USAR
+-----------
+Quando se quer entender como um casco de madeira é montado.
+Quando há madeira, ferramentas manuais e tempo para construir.
+Para restaurar ou reconstruir uma embarcação tradicional pequena.
+Para estudar a técnica antes de confiar nela em situação real.
+Quando não há estaleiro industrial nem peças prontas disponíveis.
+
+NAO USE QUANDO
+--------------
+Quando for preciso um navio grande: uma pessoa não o faz sozinha.
+Quando não houver madeira seca nem ferramentas de corte.
+Quando o casco for usar em mar aberto sem experiência prévia.
+Quando o prazo for curto: a secagem da madeira leva meses.
+
+MATERIAIS
+---------
+- Madeira de carvalho para o casco (pinho para mastros e vergas).
+- Tábuas fendidas no sentido da fibra (tábuas serradas).
+- Machado, serra, enchó e formão (ferramentas de corte manuais).
+- Trado ou broca para furar e cavilhas de madeira.
+- Pregos de ferro e arruelas para clinker (cavilhas para carvel).
+- Estopa de fibras vegetais para calafetar (crina animal).
+- Alcatrão ou pez para vedar as juntas (resina vegetal).
+- Corda e estacas para alinhar e amarrar.
+- Cavaletes ou rampa para apoiar o casco (berços de terra).
+
+PROCEDIMENTO
+------------
+1. Selecione carvalho seco e fenda as tábuas no sentido da fibra.
+2. Assente a quilha sobre cavaletes nivelados no terreno.
+3. Fixe a roda de proa e o cadaste nas extremidades da quilha.
+4. Trace a forma do casco com estacas e corda esticada.
+5. Encaixe a primeira fiada de tábuas junto à quilha.
+6. Sobreponha cada tábua seguinte à anterior no método clinker.
+7. Fure a sobreposição e fixe com prego rebitado na arruela.
+8. Calafete a junta com estopa e alcatrão para vedar.
+9. Repita até fechar as duas bandas e o convés.
+10. Instale as costelas e as vigas por dentro do casco.
+11. Assente o mastro no cepo e fixe as vergas e as velas.
+12. Raspe e impermeabilize o exterior com alcatrão.
+13. Deslize o casco pela rampa untada até a água.
+
+ATENCAO
+-------
+Madeira verde racha e apodrece: use carvalho bem seco.
+Tábuas serradas são mais fracas que as fendidas no sentido da fibra.
+Pregos mal cravados soltam e abrem falhas no casco.
+Calafetagem fraca deixa a embarcação afundar por infiltração.
+Trabalhar com machado e enchó causa cortes: use luvas e proteção.
+Peças pesadas esmagam pés e mãos: nunca apoie madeira no corpo.
+Lançamento sem controle pode matar quem estiver na rampa.
+Um casco grande exige equipe e meses: não tente sozinho.
+
+SE NAO TIVER
+------------
+Sem carvalho, use outra madeira resistente e seca, mas durará menos.
+Sem pregos e arruelas, use o método carvel: monte as costelas primeiro.
+Sem alcatrão, use resina de pinheiro ou pez para vedar as juntas.
+Sem estopa, use fibras vegetais ou crina animal na calafetagem.
+Sem cavaletes, empilhe terra e troncos para formar os berços.
+Sem rampa, lance o casco em maré alta com rolos de madeira.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As fiadas de tábuas ficam alinhadas e as juntas não deixam passar luz.
+A estopa e o alcatrão preenchem toda a sobreposição das tábuas.
+As costelas encostam no casco sem deixar vãos.
+O casco conserva a forma após o lançamento e não entra água.
+
+FONTES
+------
+Prática consolidada de construção naval em madeira pré-industrial.
+Síntese de arqueologia marítima e história da tecnologia naval.
+Tradição clinker nórdica reconhecida como patrimônio pela UNESCO.
+Contraste com a construção carvel mediterrânea, de costelas primeiro.
+Resumo operacional, não substitui manual de estaleiro nem treinamento.

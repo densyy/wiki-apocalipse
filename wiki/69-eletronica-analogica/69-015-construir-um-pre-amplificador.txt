@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 69-015
+TITULO: Como construir um pré-amplificador
+CATEGORIA: 69 - Eletrônica analógica e componentes discretos
+TEMPO: 45 minutos
+RISCO: medio
+EXIGE: pilha de 9 V, transistor NPN, resistores, capacitores, multímetro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: pré-amplificador, transistor, ganho, áudio, capacitor
+==============================================================================
+
+OBJETIVO
+---------
+Montar um pré-amplificador que aumenta um sinal fraco de áudio.
+
+QUANDO USAR
+-----------
+Quando o sinal de um microfone ou instrumento está fraco demais.
+Quando é preciso elevar a tensão antes de um amplificador de potência.
+Quando se quer aprender um estágio de ganho com peças discretas.
+Quando há uma pilha de 9 V e componentes comuns disponíveis.
+
+NAO USE QUANDO
+--------------
+Não ligue este circuito à rede elétrica nem a fontes de alta tensão.
+Não use para alimentar alto-falantes ou cargas de potência.
+Não use se o sinal de entrada já estiver forte: pode distorcer.
+
+MATERIAIS
+---------
+- Pilha de 9 V com conector (ou fonte CC de 9 V).
+- Transistor NPN de baixa potência (BC547 ou 2N3904).
+- Resistor de 100 k ohms para a base (ou 47 k ohms).
+- Resistor de 1 k ohms para o coletor (ou 2,2 k ohms).
+- Resistor de 100 ohms para o emissor (ou 330 ohms).
+- Capacitores eletrolíticos: dois de 10 e um de 100 microfarad.
+- Multímetro, fios curtos e placa de montagem.
+
+PROCEDIMENTO
+------------
+1. Desligue a pilha ou a fonte antes de montar.
+2. Identifique base, coletor e emissor na folha de dados do transistor.
+3. Ligue o resistor de 100 k ohms entre a base e o polo positivo.
+4. Ligue o resistor de 1 k ohms entre o polo positivo e o coletor.
+5. Ligue o resistor de 100 ohms entre o emissor e o polo negativo.
+6. Ligue o capacitor de 100 microfarad entre o emissor e o terra.
+7. Deixe o polo positivo desse capacitor no emissor e o negativo no terra.
+8. Ligue um capacitor de 10 microfarad entre a entrada e a base.
+9. Deixe o polo positivo do capacitor de entrada voltado à base.
+10. Ligue o outro capacitor de 10 microfarad entre o coletor e a saída.
+11. Deixe o polo positivo do capacitor de saída voltado ao coletor.
+12. Ligue o negativo da pilha ao terra e confira todas as polaridades.
+13. Ligue a pilha e meça a tensão no coletor: perto da metade de 9 V.
+14. Ajuste o resistor da base se o valor ficar alto ou baixo demais.
+15. Aplique um sinal fraco de áudio e meça a saída.
+16. Desligue a pilha antes de mexer em qualquer fio.
+
+ATENCAO
+-------
+Use só baixa tensão, de pilha ou fonte CC; nunca ligue à rede elétrica.
+Respeite a polaridade dos eletrolíticos: invertê-los pode estourá-los.
+Não ultrapasse a tensão máxima do transistor da folha de dados.
+Coletor fora de 4 a 5 V indica polarização errada: desligue e corrija.
+Sinal de entrada muito forte satura o transistor e distorce o áudio.
+Este texto é um resumo e não habilita projetar circuitos energizados.
+
+SE NAO TIVER
+------------
+Sem o transistor indicado, use outro NPN de baixa potência equivalente.
+Confira a pinagem do substituto na folha de dados antes de ligar.
+Sem capacitor de 10 microfarad, use valor próximo e mantenha a polaridade.
+Sem multímetro, não ajuste a polarização: monte com os valores indicados.
+Sem placa de montagem, solde com firmeza e isole as emendas.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Com a pilha ligada, o multímetro indica cerca de 4 a 5 V no coletor.
+O sinal medido na saída é maior que o sinal aplicado na entrada.
+O transistor não aquece nem aparece cheiro de queimado após minutos.
+
+FONTES
+------
+Prática consolidada de eletrônica: amplificador de emissor comum.
+A polarização da base e o ganho aproximado vêm da relação entre os
+resistores de coletor e emissor, na literatura técnica de circuitos.
+O uso de capacitores de acoplamento também é prática consolidada.
+Resumo operacional; não substitui a folha de dados do fabricante.

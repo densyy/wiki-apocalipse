@@ -1,0 +1,94 @@
+==============================================================================
+CODIGO: 01-032
+TITULO: Como destilar água contaminada
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 60 minutos
+RISCO: critico
+EXIGE: panela com tampa, tubo próprio para calor, fogo, pano limpo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, destilar, destilação, sal, solvente, potável, suja
+==============================================================================
+
+OBJETIVO
+---------
+Obter água mais segura, deixando sal, metais e microrganismos na panela.
+
+QUANDO USAR
+-----------
+Quando a única água disponível é salgada ou muito mineralizada.
+Quando a água vem de rio, poço ou chuva sem tratamento conhecido.
+Depois de enchente, se a fonte habitual estiver comprometida.
+Quando a água está turva e não há filtro, cloro ou água engarrafada.
+
+NAO USE QUANDO
+--------------
+Quando houver cheiro de gasolina, óleo, solvente, tinta ou agrotóxico.
+Quando houver suspeita de material radioativo na água.
+Quando o fogo precisar ficar em ambiente fechado sem ventilação.
+Quando não houver recipiente metálico com tampa para condensar o vapor.
+
+MATERIAIS
+---------
+- Panela metálica com tampa (ou recipiente metálico com tampa).
+- Tubo de metal ou mangueira própria para calor (ou tampa abaulada).
+- Recipiente limpo e tampado de vidro ou aço para a água destilada.
+- Pano limpo e coador de papel ou pano para a água turva.
+- Balde com água fria ou pano molhado para resfriar o tubo.
+- Fonte de calor estável e pano grosso para segurar a tampa quente.
+
+PROCEDIMENTO
+------------
+1. Faça o fogo em local aberto ou com ventilação constante.
+2. Coe a água turva com pano limpo antes de colocar na panela.
+3. Encha a panela até dois terços com a água a destilar.
+4. Fure a tampa, encaixe o tubo e vede a emenda com papel-alumínio.
+5. Feche a panela e incline o tubo para baixo na saída.
+6. Passe o tubo por água fria ou enrole pano molhado nele.
+7. Aponte a ponta do tubo para o recipiente limpo de coleta.
+8. Leve ao fogo e mantenha ebulição forte e constante.
+9. Nunca deixe a panela ferver seca; acrescente água bruta aos poucos.
+10. Mantenha o rosto e as mãos longe da tampa e do vapor.
+11. Descarte aproximadamente meio litro do líquido que sair primeiro.
+12. Troque o recipiente e colete apenas a água que vier depois.
+13. Desligue o fogo, espere esfriar e descarte o resíduo da panela.
+14. Tampe a água coletada e guarde-a em local fresco, escuro e limpo.
+
+ATENCAO
+-------
+- A destilação não retira gasolina, solventes ou agrotóxicos da água.
+- Esses voláteis saem no começo da coleta; descarte a primeira parte.
+- Com cheiro de combustível ou solvente, não beba: use outra fonte.
+- Nenhum teste caseiro prova que a água ficou livre de voláteis.
+- Vapor e tampa quentes queimam; use pano grosso e afaste o rosto.
+- Fogo em lugar fechado produz monóxido de carbono, que mata sem aviso.
+- O resíduo da panela fica mais concentrado; nunca o beba.
+- Descarte esse resíduo longe de poços, nascentes e hortas.
+- Água destilada tem gosto diferente; isso não prova contaminação.
+- Guarde em recipiente limpo e tampado: a água destilada recontamina fácil.
+
+SE NAO TIVER
+------------
+- Sem tubo, use uma tampa abaulada ao contrário sobre a panela.
+- Apoie um copo limpo no centro, acima da água, e tampe com essa tampa.
+- Coloque gelo ou pano molhado sobre a tampa para aumentar a condensação.
+- O vapor escorre para o centro e cai no copo; o rendimento é baixo.
+- Não use mangueira de plástico comum: pode derreter e contaminar a água.
+- Sem fogo seguro, ferva e coe a água (veja 01-001).
+- Procure ajuda ou outra fonte de água tratada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- A água escorre gota a gota de forma constante e fica clara.
+- Não há cheiro de combustível, solvente ou tinta na água coletada.
+- Sobra resíduo mais escuro ou salino na panela.
+- O recipiente de coleta ficou limpo, tampado e sem poeira.
+
+FONTES
+------
+- CDC: tratamento de água em casa e água com combustíveis em emergência.
+- Nota técnica da OMS sobre tratamento de emergência no ponto de uso.
+- Publicações de extensão da University of Nebraska e UMass Amherst.
+- Publicação de extensão da Virginia Tech sobre tratamento domiciliar.
+- Manual FM 21-76 do Exército dos EUA: construção de destiladores.
+- Manual da Funasa sobre Unidade Móvel de Tratamento de Água.
+- Artigo de 2021 sobre destilação solar (Research Society and Development).

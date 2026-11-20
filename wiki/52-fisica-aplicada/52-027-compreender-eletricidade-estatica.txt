@@ -1,0 +1,93 @@
+==============================================================================
+CODIGO: 52-027
+TITULO: Como compreender eletricidade estática
+CATEGORIA: 52 - Física aplicada e princípios fundamentais
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: balão de borracha, cabelo seco ou lã, pedaços de papel, pano seco
+REVISAO: 2026-11
+PALAVRAS-CHAVE: eletricidade estática, atrito, carga, choque, balão, cabelo
+==============================================================================
+
+OBJETIVO
+--------
+Observar cargas estáticas e explicar atração, repulsão e descarga.
+
+QUANDO USAR
+-----------
+Quando o cabelo levanta ao tirar um chapéu ou uma blusa de lã.
+Quando uma blusa gruda no corpo ao sair da secadora.
+Quando um balão esfregado no cabelo atrai pedaços de papel.
+Quando um toque na maçaneta dá um pequeno choque.
+Quando precisar explicar o efeito a outra pessoa com material simples.
+Quando quiser entender por que o ar seco favorece esses choques.
+
+NAO USE QUANDO
+--------------
+Perto de postos de combustível, tanques, gás ou poeira de grãos.
+Perto de fios, tomadas ou equipamentos energizados.
+Perto de aparelhos eletrônicos sensíveis ou circuitos abertos.
+Quando houver risco de incêndio: uma faísca pode inflamar vapores.
+
+MATERIAIS
+---------
+- Um balão de borracha (ou um pente de plástico).
+- Cabelo seco ou lã seca (ou uma blusa de poliéster).
+- Pedaços pequenos de papel picado (ou fiapos de algodão).
+- Um pano seco de lã ou algodão para esfregar.
+- Um copo plástico transparente para proteger os papéis.
+- Água em um borrifador para umedecer o ar (opcional).
+
+PROCEDIMENTO
+------------
+1. Pique o papel bem miúdo e espalhe sobre a mesa.
+2. Cubra os papéis com o copo plástico transparente.
+3. Esfregue o balão no cabelo seco por aproximadamente 10 segundos.
+4. Aproxime o balão do copo sem encostar nos pedaços de papel.
+5. Observe os pedaços subirem e grudarem na parede do copo.
+6. Esfregue o balão de novo e aproxime do antebraço.
+7. Veja os pelos do braço se eriçarem perto do balão.
+8. Pendure dois balões esfregados em fios separados.
+9. Aproxime os dois balões e veja eles se afastarem.
+10. Encoste um balão esfregado na parede lisa e solte.
+11. Veja o balão ficar grudado na parede por alguns segundos.
+12. Caminhe alguns passos sobre um tapete e toque a maçaneta.
+13. Observe a faísca e o leve formigueiro no dedo.
+14. Borrife água no ar e repita o teste dos pedaços de papel.
+15. Compare: com ar úmido, os papéis grudam bem menos.
+
+ATENCAO
+-------
+Carga estática é excesso ou falta de elétrons preso na superfície.
+Ela aparece quando dois materiais se esfregam e depois se separam.
+O choque comum dá um formigueiro e não mata, mas assusta.
+A faísca pode inflamar vapor de combustível, gás ou poeira fina.
+Por isso nunca repita estes testes em posto de combustível.
+Nunca encoste em fios, tomadas ou aparelhos ligados na rede.
+Uma descarga estática pode danificar circuitos eletrônicos sensíveis.
+Relâmpago é descarga estática em grande escala: busque abrigo.
+Ar muito seco aumenta a carga; com umidade o efeito diminui.
+
+SE NAO TIVER
+------------
+Sem balão, use um pente de plástico ou uma caneta de plástico.
+Sem cabelo, esfregue o plástico em lã, seda ou poliéster seco.
+Sem papel, use fiapos de algodão ou farelos bem leves.
+Sem copo, espalhe o papel sobre um prato de plástico.
+Sem borrifador, umedeça um pano e passe na parede antes do teste.
+Sem pano de lã, use algodão seco ou a própria manga da blusa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O balão esfregado levanta e atrai os pedaços de papel.
+Os dois balões esfregados se repelem quando aproximados.
+O balão gruda na parede lisa e cai quando o ar fica úmido.
+O dedo sente o formigueiro ao tocar a maçaneta metálica.
+A pessoa consegue dizer que cargas iguais se repelem.
+
+FONTES
+------
+Prática consolidada de ensino de física sobre eletricidade estática.
+Conferido no verbete "static electricity" da Enciclopédia Britannica.
+Efeito triboelétrico e descarga: literatura geral de eletrostática.
+Resumo operacional, sem documento único. Não substitui treinamento.

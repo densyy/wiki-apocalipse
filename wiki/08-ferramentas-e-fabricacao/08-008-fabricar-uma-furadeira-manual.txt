@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 08-008
+TITULO: Como fabricar uma furadeira manual
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: faca, corda resistente, madeira seca, areia ou prego, pedra de apoio
+REVISAO: 2026-11
+PALAVRAS-CHAVE: furadeira, broca, arco, corda, madeira, furo, furar
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma furadeira manual de arco e abrir furos em madeira.
+
+QUANDO USAR
+-----------
+Quando não há furadeira elétrica, energia ou broca de metal.
+Quando é preciso passar corda ou pregar duas peças de madeira.
+
+NAO USE QUANDO
+--------------
+Não serve para furar metal, concreto, vidro, cerâmica ou pedra dura.
+Não use com madeira molhada ou com corda desfiada.
+
+MATERIAIS
+---------
+- Faca afiada (ou lasca de pedra cortante).
+- Corda resistente e sem elasticidade (cadarço, linha de pesca).
+- Graveto reto e seco, do tamanho do antebraço, para o eixo.
+- Graveto flexível, pouco maior que o antebraço, para o arco.
+- Areia fina (ou prego), pedra de apoio e pano para os olhos.
+
+PROCEDIMENTO
+------------
+1. Escolha o graveto mais reto e seco para o eixo.
+2. Descasque o eixo até ficar liso, sem nós nem casca.
+3. Arredonde a ponta de cima do eixo.
+4. Achate a ponta de baixo do eixo como uma moeda.
+5. Crave um prego na ponta de baixo, se houver prego.
+6. Abra uma cova rasa na pedra de apoio.
+7. Amarre a corda nas duas pontas do graveto flexível.
+8. Enrole a corda uma vez em volta do eixo, junto à ponta de cima.
+9. Apoie a ponta de cima na cova e a de baixo na madeira.
+10. Mova o arco para frente e para trás, com o eixo aprumado.
+11. Espalhe areia fina no contato, se não houver prego.
+12. Retire o eixo de vez em quando para limpar o pó.
+
+ATENCAO
+-------
+O eixo gira rápido e pode atirar lascas e pó nos olhos.
+Não encoste a mão na ponta em movimento nem apoie a peça na perna.
+Pare se o eixo aquecer, fumegar ou se a corda desfiar.
+
+SE NAO TIVER
+------------
+Sem prego, use areia fina e seca como abrasivo no contato.
+Sem areia, use cinza peneirada ou sal grosso.
+Sem pedra, use um osso ou madeira dura com cova como apoio.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O eixo gira sem tremer e a corda não escorrega.
+Aparece pó fino ou cavacos e o furo fica redondo e fundo.
+
+FONTES
+------
+Manual de sobrevivência FM 21-76 do Exército dos EUA (arco e broca);
+National Park Service dos EUA e regras de oficina da Fine Woodworking.

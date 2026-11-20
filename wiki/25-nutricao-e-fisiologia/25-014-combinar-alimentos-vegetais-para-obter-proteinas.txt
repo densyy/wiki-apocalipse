@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 25-014
+TITULO: Como combinar alimentos vegetais para obter proteínas
+CATEGORIA: 25 - Alimentação, nutrição e fisiologia
+TEMPO: 25 minutos
+RISCO: alto
+EXIGE: caderno, lápis, lista dos alimentos disponíveis, água e fogo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: proteína, feijão com arroz, aminoácidos, leguminosas, grãos
+==============================================================================
+
+OBJETIVO
+--------
+Montar refeições que juntas fornecem todos os aminoácidos essenciais.
+
+QUANDO USAR
+-----------
+- Quando não há carne, peixe, ovo ou leite disponível.
+- Quando a alimentação depende só de grãos, feijão, semente e castanha.
+- Ao planejar a comida de vários dias com suprimento limitado.
+- Ao alimentar criança, gestante ou pessoa doente sem alimento animal.
+- Quando arroz, milho ou feijão são a base da dieta.
+
+NAO USE QUANDO
+--------------
+- Não use para tratar desnutrição grave, inchaço nos pés ou perda de peso:
+  procure ajuda médica.
+- Não substitua leite materno, fórmula infantil, remédio ou alimento
+  fortificado prescrito.
+
+MATERIAIS
+---------
+- Caderno e lápis (carvão) para anotar os alimentos.
+- Lista dos alimentos vegetais disponíveis no local.
+- Copo, concha ou punhado para medir porções.
+- Água limpa e panela para cozinhar.
+- Fogo ou outra fonte de calor.
+
+PROCEDIMENTO
+------------
+1. Liste os vegetais que você tem: grãos, feijão, semente, castanha,
+   tubérculo.
+2. Separe em dois grupos: cereais (arroz, milho, trigo, aveia) e
+   leguminosas (feijão, lentilha, ervilha, grão-de-bico).
+3. Entenda: aminoácido essencial é a parte da proteína que o corpo não
+   fabrica e precisa receber pela comida.
+4. Entenda: cereal tem pouca lisina; leguminosa tem pouca metionina.
+5. De molho as leguminosas secas antes de cozinhar (toda a noite).
+6. Cozinhe grãos e leguminosas até ficarem bem macios.
+7. Monte o prato com um cereal e uma leguminosa, como arroz com feijão.
+8. Some semente ou castanha: gergelim, amendoim ou castanha completam.
+9. Prefira soja, quinoa ou trigo-sarraceno: são proteínas completas.
+10. Coma os dois grupos ao longo do mesmo dia, não precisa ser na mesma
+    refeição: o corpo mantém um reservatório de aminoácidos por horas.
+11. Repita cereal e leguminosa em cada refeição principal.
+12. Sirva com verdura ou fruta rica em vitamina C para absorver melhor
+    o ferro.
+13. Anote o que comeu e corrija o que faltou no dia seguinte.
+
+ATENCAO
+-------
+- Combinar não cria proteína: coma quantidade suficiente de alimento.
+- Comer só arroz, ou só feijão, por dias causa deficiência e cansaço.
+- Sem calorias suficientes, o corpo gasta a proteína como combustível.
+- Feijão cru tem substâncias que irritam o estômago: cozinhe sempre bem.
+- Proteína vegetal não fornece vitamina B12: use alimento fortificado.
+- Criança, gestante ou idoso com inchaço ou magreza: ajuda médica urgente.
+
+SE NAO TIVER
+------------
+- Sem feijão, use lentilha, ervilha, grão-de-bico, soja ou fava.
+- Sem cereal, use batata, batata-doce ou mandioca com a leguminosa.
+- Sem semente, use amendoim ou pasta de gergelim com trigo.
+- Sem soja ou quinoa, reforce cereal e leguminosa em duas refeições.
+- Sem água limpa, trate a água antes de cozinhar (veja 01-001).
+
+COMO SABER QUE DEU CERTO
+------------------------
+- Cada refeição principal tem cereal e leguminosa no mesmo dia.
+- O caderno registra feijão (ou soja) e grão pelo menos uma vez ao dia.
+- As leguminosas ficaram macias depois do cozimento.
+- A pessoa não ficou só com arroz, nem só com feijão.
+- Depois de comer, não surgiram gases, dor ou náusea novos.
+- Criança continua comendo e ganhando peso.
+
+FONTES
+------
+- OMS/FAO/UNU: "Protein and Amino Acid Requirements in Human Nutrition",
+  WHO Technical Report Series 935 (2007): necessidade de aproximadamente
+  0,8 g por kg de peso ao dia e lista de aminoácidos essenciais.
+- OMS, UNHCR, UNICEF e WFP: "Food and Nutrition Needs in Emergencies"
+  (2002): necessidades de proteína são atendidas por misturas vegetais,
+  como cereais e leguminosas.
+- FAO/OMS: documento técnico sobre cereais, pulses e proteínas vegetais:
+  complementação entre cereais e leguminosas.
+- NIH, Office of Dietary Supplements: vitamina B12 não ocorre naturalmente
+  em alimentos vegetais.
+- Academia de Nutrição e Dietética dos EUA: posição sobre dietas
+  vegetarianas (2016): combinar os alimentos ao longo do dia é suficiente.
+- Este texto é resumo operacional e não substitui orientação profissional.

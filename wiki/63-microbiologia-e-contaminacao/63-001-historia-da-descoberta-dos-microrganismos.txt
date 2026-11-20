@@ -1,0 +1,80 @@
+==============================================================================
+CODIGO: 63-001
+TITULO: Como ocorreu a descoberta dos microrganismos
+CATEGORIA: 63 - Microbiologia, parasitologia e contaminação
+TEMPO: 15 minutos
+RISCO: baixo
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: microrganismos, microbios, leeuwenhoek, pasteur, koch
+==============================================================================
+
+OBJETIVO
+--------
+Entender como seres invisíveis foram vistos, nomeados e ligados a doenças.
+
+QUANDO USAR
+-----------
+Quando surgir duvida sobre o que é um microrganismo.
+Quando alguém disser que micróbios são descoberta recente.
+Antes de ler sobre contaminação, infecção ou pasteurização.
+Quando precisar explicar por que ferver água reduz doenças.
+
+NAO USE QUANDO
+--------------
+Quando houver duvida sobre a causa de doença em uma pessoa.
+Este texto é histórico e não substitui diagnóstico nem tratamento.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Situe a ideia antiga: Varrão, na Roma antiga, alertava que seres
+   invisíveis vindos de pântanos entravam pela boca e causavam doença.
+2. Registre que Fracastoro propôs, em 1546, sementes transferíveis como
+   causa das epidemias.
+3. Note que Hooke viu corpos frutíferos de mofo em 1665 e criou o termo
+   "célula" para os espaços da cortiça.
+4. Identifique Leeuwenhoek: em 1676 ele viu bactérias e protistas com
+   lentes de aumento fabricadas por ele mesmo.
+5. Observe que a Royal Society demorou a aceitar o achado e pediu
+   confirmação com desenhos e testemunhas.
+6. Guarde 1677: a carta de Leeuwenhoek foi publicada e descreveu os
+   "animalículos" com precisão.
+7. Avance a Pasteur: ele refutou a geração espontânea no século XIX
+   com frascos de pescoço curvo.
+8. Complete com Koch: ele ligou microrganismos específicos a doenças
+   específicas e deixou regras de comprovação.
+9. Relacione o feito: pasteurização e vacinas nasceram desse trabalho.
+10. Feche com a amplitude: Beijerinck e Winogradsky mostraram que
+   microrganismos vivem também no solo e na água, não só em doenças.
+
+ATENCAO
+-------
+Leeuwenhoek não soube explicar a técnica e guardou segredo das lentes.
+Por isso o trabalho dele quase se perdeu.
+A confirmação veio só no século XX, com instrumentos melhores.
+Hooke, não Leeuwenhoek, criou a palavra "célula".
+Não confunda ver com entender a causa: vieram em tempos diferentes.
+Este texto não ensina a cultivar nem a manusear microrganismos.
+
+SE NAO TIVER
+------------
+Sem o artigo original, use esta sequência como roteiro de leitura.
+Não substitua a explicação de um professor por nomes decorados.
+Se sobrar duvida sobre uma data, marque como aproximada e siga em frente.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você cita três marcos em ordem: Leeuwenhoek, Pasteur e Koch.
+Você explica por que a descoberta demorou a ser aceita.
+
+FONTES
+------
+Artigo de Nick Lane, Philosophical Transactions of the Royal Society B,
+2015, consultado no PubMed Central.
+Referências citadas nesse artigo: carta de Leeuwenhoek de 1676,
+Micrographia de Robert Hooke (1665) e biografia de Clifford Dobell (1932).
+Página Microbiology da Wikipédia usada só como pista da fonte primária.

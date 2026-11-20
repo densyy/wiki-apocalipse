@@ -1,0 +1,85 @@
+==============================================================================
+CODIGO: 70-027
+TITULO: Como realizar verificações periódicas de integridade
+CATEGORIA: 70 - Computação de baixo consumo e preservação digital
+TEMPO: 40 minutos
+RISCO: baixo
+EXIGE: computador, arquivos para verificar, meio separado para a lista
+REVISAO: 2026-11
+PALAVRAS-CHAVE: integridade, checksum, hash, corrupção, corrompido, arquivo
+==============================================================================
+
+OBJETIVO
+--------
+Confirme que seus arquivos continuam iguais aos originais e descubra a
+corrupção antes que seja tarde para recuperar uma copia boa.
+
+QUANDO USAR
+-----------
+Quando você guarda documentos, fotos ou dados que não podem se perder.
+Quando os arquivos ficam em disco ou pendrive por muito tempo.
+Depois de copiar arquivos entre aparelhos ou de restaurar um backup.
+
+NAO USE QUANDO
+--------------
+Quando o arquivo já está corrompido e a única copia é essa: a checagem
+só confirma o problema, não conserta. Pare e procure uma copia boa.
+Quando não há lista de referência: crie-a primeiro, abaixo no passo 3.
+
+MATERIAIS
+---------
+- Computador com Linux e o comando sha256sum.
+- Os arquivos ou pastas que você quer vigiar.
+- Arquivo de texto para a lista de hashes, o "manifesto".
+- Meio separado para a lista: outro pendrive, papel ou disco próprio.
+- Caderno e lápis para anotar a data de cada checagem.
+
+PROCEDIMENTO
+------------
+1. Escolha uma pasta com arquivos que você quer proteger.
+2. Abra um terminal nessa pasta.
+3. Gere a lista com: sha256sum * > integridade.txt
+4. Confira a lista: cada linha tem um hash e o nome de um arquivo.
+5. Guarde integridade.txt em meio separado dos arquivos vigiados.
+6. Anote no caderno a data em que a lista foi criada.
+7. Agende a próxima checagem: aproximadamente a cada tres meses.
+8. Na data marcada, abra um terminal na mesma pasta.
+9. Recalcule e compare com: sha256sum -c integridade.txt
+10. Leia a saida: cada arquivo aparece como OK ou como FALHOU.
+11. Se tudo der OK, anote a data e repita no intervalo marcado.
+12. Se algum arquivo FALHOU, nao apague nada e separe essa copia.
+13. Restaure o arquivo a partir de uma copia boa e conhecida.
+14. Rode a comparacao de novo e confirme que agora mostra OK.
+
+ATENCAO
+-------
+A lista só mostra que o arquivo mudou; não conserta nem recupera dados.
+Se o arquivo já estava danificado quando a lista foi feita, a checagem
+confirma o dano como normal. Confira as copias antes de começar.
+Guarde a lista fora do meio dos arquivos: se o disco falhar, a lista
+precisa sobreviver para apontar onde estão as copias boas.
+Detecta corrupção acidental, não roubo: quem muda arquivo e lista juntos
+engana o método. Pare e peça ajuda se vários arquivos falharem juntos.
+
+SE NAO TIVER
+------------
+Sem Linux, use no Windows: certutil -hashfile arquivo SHA256
+No macOS, use: shasum -a 256 arquivo
+Sem terminal, use um programa de integridade que gere e compare hashes.
+Sem meio separado, copie a lista para papel e anote o inicio de cada hash.
+Sem lista antiga, crie uma agora: a partir daqui já há proteção.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ao rodar a comparação, todos os arquivos aparecem marcados como OK.
+A lista está em meio diferente dos arquivos vigiados e o caderno tem
+a data da primeira lista e a de cada checagem.
+
+FONTES
+------
+Prática consolidada de preservação digital: o "fixity check" do Manual
+de Preservação Digital da Digital Preservation Coalition (DPC) compara
+hashes como MD5, SHA1 ou SHA256 com um valor guardado.
+NIST FIPS 180-4, Secure Hash Standard: resumos de hash detectam se uma
+mensagem foi alterada desde que o resumo foi gerado.
+Este texto é resumo operacional e não substitui treinamento em arquivo.

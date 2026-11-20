@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 37-010
+TITULO: Como construir um nível de bolha
+CATEGORIA: 37 - Cartografia, topografia e levantamento
+TEMPO: 60 minutos
+RISCO: baixo
+EXIGE: frasco transparente, líquido, base plana, selante, marcador
+REVISAO: 2026-11
+PALAVRAS-CHAVE: nível, bolha, prumo, nivelar, calibrar, frasco, álcool
+==============================================================================
+
+OBJETIVO
+--------
+Montar um nível de bolha para conferir se uma superfície está nivelada.
+
+QUANDO USAR
+-----------
+Quando precisar nivelar a base de uma mesa ou de um alicerce.
+Quando não houver um nível comercial por perto.
+Quando for marcar uma linha horizontal numa parede.
+
+NAO USE QUANDO
+--------------
+Quando precisar de precisão de milímetros: este nível é aproximado.
+Quando o frasco não vedar: líquido derramado não indica nada.
+
+MATERIAIS
+---------
+- Frasco de vidro transparente com tampa (ou tubo plástico transparente).
+- Álcool etílico ou aguardente com corante (ou água com glicerina).
+- Base plana de madeira ou metal com borda reta.
+- Cola, resina ou fita adesiva para fixar e vedar.
+- Marcador fino para desenhar as marcas.
+
+PROCEDIMENTO
+------------
+1. Limpe o frasco e a tampa com água e sabão; enxague e seque.
+2. Encha com líquido e deixe espaço de ar de aproximadamente 5 milímetros.
+3. Feche a tampa e vede com cola, resina ou cera; não deixe vazar.
+4. Vire o frasco por aproximadamente 1 minuto e confirme que não vaza.
+5. Prenda o frasco na base com a borda reta, alinhado ao comprimento.
+6. Apoie a base numa superfície plana e estável.
+7. Espere a bolha parar e marque no frasco a posição central dela.
+8. Desenhe duas marcas de cada lado da bolha: é a zona de nível.
+9. Gire a base 180 graus na mesma superfície e observe a bolha.
+10. Se a bolha ficar entre as marcas, o nível está calibrado.
+11. Se divergir, ajuste na base metade da diferença e repita.
+
+ATENCAO
+-------
+A bolha só indica nível se o frasco estiver vedado e a base, plana.
+Vire o frasco para testar: vazamento invalida qualquer leitura.
+Água pura congela e racha o vidro; prefira álcool no frio.
+É aproximado: não serve para trabalho de precisão; bolha presa é falha.
+Com bolor ou sem referência plana, pare e peça ajuda a quem saiba.
+
+SE NAO TIVER
+------------
+Sem frasco de vidro, use tubo plástico transparente com pontas vedadas.
+Sem álcool, use água com glicerina, mas proteja do congelamento.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A bolha para entre as duas marcas e volta ao mesmo ponto ao girar 180 graus.
+
+FONTES
+------
+Prática consolidada de construção e calibração de níveis de bolha.
+Princípio do frasco com líquido e bolha descrito em manuais de topografia.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 28-014
+TITULO: Como distribuir recursos entre famílias
+CATEGORIA: 28 - Logística e gestão de recursos
+TEMPO: 40 minutos
+RISCO: baixo
+EXIGE: caderno, lápis, lista das famílias, local coberto e seguro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: distribuir, recursos, famílias, repartir, cotas, lista
+==============================================================================
+
+OBJETIVO
+--------
+Repartir um estoque limitado entre famílias de forma justa e registrada.
+
+QUANDO USAR
+-----------
+Quando chega um lote de água, comida ou remédio para várias famílias.
+Quando o estoque não cobre todas as necessidades e é preciso escolher.
+
+NAO USE QUANDO
+--------------
+Quando houver risco de violência ou disputa sem mediação de autoridade.
+Quando o material for remédio que exige prescrição ou orientação de saúde.
+
+MATERIAIS
+---------
+- Caderno e lápis para registro (papel à prova d'água, se houver).
+- Lista das famílias com número de pessoas e necessidades especiais.
+- Pedaço de papel ou contador para marcar cada unidade entregue.
+- Local coberto, seco e fora do alcance de chuva e sol.
+
+PROCEDIMENTO
+------------
+1. Confira o estoque disponível e anote a quantidade de cada item.
+2. Liste todas as famílias atendidas e conte as pessoas de cada uma.
+3. Marque necessidade especial: feridos, grávidas, crianças, idosos.
+4. Some o total de pessoas e divida o estoque por esse número.
+5. Defina a cota por pessoa antes de separar qualquer pacote.
+6. Separe uma cota por família em recipiente limpo e identificado.
+7. Escreva no caderno o nome da família e o que foi entregue.
+8. Chame cada família e entregue a cota, dizendo o nome em voz alta.
+9. Guarde o caderno com a lista e a quantidade que sobrou.
+
+ATENCAO
+-------
+Não prometa mais do que o estoque permite; promessa quebrada gera conflito.
+Não favoreça parentes nem quem grita mais alto na hora da entrega.
+Não dê a mesma cota a quem precisa de mais, sem registrar o motivo.
+Não misture itens sujos com limpos nem use recipiente com resíduo químico.
+Se surgir ameaça, briga ou multidão, pare e saia do local com segurança.
+Se faltarem itens para todos, reduza a cota por igual e anote a decisão.
+
+SE NAO TIVER
+------------
+Sem caderno, use pedaços de papel e marque com pedras ou grãos por família.
+Sem lista, chame as famílias uma a uma e anote na hora da entrega.
+Sem local coberto, distribua na sombra e proteja os pacotes da umidade.
+Não improvise com material de origem desconhecida para embrulhar alimentos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada família recebeu a cota prevista e o caderno mostra quem recebeu o quê.
+A soma das cotas entregues mais o que sobrou confere com o estoque inicial.
+
+FONTES
+------
+Prática consolidada de logística e distribuição humanitária em emergências.
+Este texto é resumo operacional, não substitui treinamento ou orientação
+de autoridade local.

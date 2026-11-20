@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 49-005
+TITULO: Como realizar processos de evaporação
+CATEGORIA: 49 - Engenharia química e processos industriais
+TEMPO: 45 minutos
+RISCO: medio
+EXIGE: evaporador, vapor, solução, EPI, procedimento escrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: evaporação, evaporador, concentrar, vapor, licor, segurança
+==============================================================================
+
+OBJETIVO
+--------
+Concentrar uma solução removendo parte do solvente por ebulição controlada.
+
+QUANDO USAR
+-----------
+Quando é preciso aumentar a concentração de um soluto não volátil.
+Quando é preciso reduzir o volume antes de outra etapa do processo.
+
+NAO USE QUANDO
+--------------
+Quando o soluto é volátil e pode seguir com o vapor: use destilação.
+Quando o produto não suporta o calor ou pode reagir ao ser aquecido.
+
+MATERIAIS
+---------
+- Evaporador com câmara de aquecimento e separador de vapor.
+- Vapor com pressão e temperatura controladas.
+- Bombas de alimentação e recirculação, quando o tipo exigir.
+- Condensador, duto de vapor e instrumentos calibrados.
+- Alívio, quebra-vácuo, EPI e procedimento escrito.
+
+PROCEDIMENTO
+------------
+1. Confira o procedimento e a ficha de segurança da solução.
+2. Inspecione vasos, tubos, juntas e instrumentos.
+3. Teste alívio e quebra-vácuo; abra a saída até o condensador.
+4. Ventile a câmara e inicie a circulação, se houver bomba.
+5. Admita o vapor aos poucos, sem golpes de pressão.
+6. Ajuste a alimentação para manter o nível na faixa segura.
+7. Mantenha a pressão decrescente entre os efeitos, se houver vários.
+8. Retire o condensado e controle a densidade da saída.
+9. Reduza o vapor, lave o equipamento e encerre o procedimento.
+
+ATENCAO
+-------
+Vapor quente e superfícies aquecidas causam queimaduras graves.
+Nunca abra a câmara com pressão: libere e drene antes.
+Nunca obstrua alívio, respiro ou duto de vapor.
+Vácuo sem quebra-vácuo colapsa o vaso; com solvente, pode explodir.
+Se houver vazamento, cheiro forte ou vibração, pare e peça ajuda.
+
+SE NAO TIVER
+------------
+Sem vapor, instrumento ou alívio, não inicie a partida.
+Sem quebra-vácuo, não opere o evaporador.
+Para pequena quantidade, use recipiente aberto, calor suave e ventilação.
+Assim a perda de solvente é maior e o produto fica mais viscoso.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A solução de saída alcança a densidade ou o teor de sólidos desejado.
+O nível e a pressão ficam estáveis, sem vazamento de vapor.
+
+FONTES
+------
+AIChE, The Essentials of Continuous Evaporation, CEP, 2018.
+ILO, International Hazard Datasheets on Occupation, Evaporator operator.
+NPTEL, Chemical Engineering Design II, evaporação em múltiplos efeitos.

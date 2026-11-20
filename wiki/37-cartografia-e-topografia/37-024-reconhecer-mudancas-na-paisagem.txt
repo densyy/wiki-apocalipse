@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 37-024
+TITULO: Como reconhecer mudanças na paisagem
+CATEGORIA: 37 - Cartografia, topografia e levantamento
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: carta topográfica, caderno, lápis, visão livre do terreno
+REVISAO: 2026-11
+PALAVRAS-CHAVE: paisagem, mudança, terreno, mapa, erosão, trilha, clareira
+==============================================================================
+
+OBJETIVO
+--------
+Perceber o que mudou no terreno desde a carta e saber quando ela falha.
+
+QUANDO USAR
+-----------
+Antes de confiar em trilha antiga ou caminho marcado no mapa.
+Quando rio, clareira ou encosta não batem com a carta.
+Depois de chuva forte, incêndio, desmatamento ou obra recente.
+Ao planejar rota em região que você não conhece.
+
+NAO USE QUANDO
+--------------
+Neblina, escuridão ou chuva forte impedem a observação do terreno.
+
+MATERIAIS
+---------
+- Carta topográfica (mapa com linhas de altitude) da região.
+- Caderno e lápis para anotar as diferenças.
+- Bússola para conferir a direção (celular com bússola, se houver).
+
+PROCEDIMENTO
+------------
+1. Leia a data de impressão da carta no canto da folha.
+2. Gire a carta até o norte dela apontar para o norte do terreno.
+3. Suba a um ponto alto de onde veja vales, cristas e cursos d'água.
+4. Marque quatro acidentes do terreno: morro, vale, crista e depressão.
+5. Identifique no terreno cada acidente marcado, um por vez.
+6. Compare forma, inclinação e altura com o desenho da carta.
+7. Escreva no caderno cada diferença e a direção aproximada dela.
+8. Verifique vegetação e obras: clareira, capoeira, estrada ou ponte.
+9. Observe a hidrografia: largura do rio, curvas e trechos secos.
+10. Olhe o solo das encostas: rachaduras, terra solta, árvores tortas.
+11. Repita a comparação a cada parada importante do caminho.
+12. Use como guia só os acidentes que você confirmou no terreno.
+
+ATENCAO
+-------
+Uma clareira no mapa pode já ser mata fechada hoje.
+Mapa antigo engana: estradas e pontes aparecem e desaparecem.
+Após chuva, encostas racham; árvores tortas e água turva alertam.
+Se os acidentes do mapa não aparecerem, pare e peça ajuda.
+Esta técnica não substitui bússola, carta atual ou quem conhece a região.
+
+SE NAO TIVER
+------------
+Sem carta, desenhe um croqui (desenho simples) no caderno.
+Sem carta recente, pergunte a moradores antigos da região.
+Sem ponto alto, observe de onde você estiver, mesmo no vale.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você aponta no terreno três acidentes que também estão na carta.
+A rota escolhida usa só referências que você viu e confirmou.
+
+FONTES
+------
+Manual de leitura de mapas e navegação do Exército dos EUA (TC/FM 3-25.26).
+Manual de sobrevivência em campo do Exército dos EUA (FM 21-76).

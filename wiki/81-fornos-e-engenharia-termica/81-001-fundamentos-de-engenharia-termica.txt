@@ -1,0 +1,82 @@
+==============================================================================
+CODIGO: 81-001
+TITULO: Fundamentos de engenharia térmica
+CATEGORIA: 81 - Engenharia térmica e fornos industriais
+TEMPO: 45 minutos
+RISCO: baixo
+EXIGE: nada além do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: calor, temperatura, energia, condução, convecção, radiação
+==============================================================================
+
+OBJETIVO
+--------
+Entender como o calor se move e como isso comanda o projeto de um forno.
+
+QUANDO USAR
+-----------
+Ao começar a projetar ou escolher um forno para qualquer finalidade.
+Ao dimensionar combustível, chaminé ou isolamento de um forno.
+Quando o forno demora a aquecer ou gasta lenha demais.
+Ao comparar dois projetos antes de gastar dinheiro e trabalho.
+Quando alguém propõe um forno milagroso sem explicar o porquê.
+
+NAO USE QUANDO
+--------------
+Não há contraindicacao conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Caderno e lápis para anotar (celular).
+- Termômetro comum e, se possível, um de contato (pirômetro).
+- Régua ou trena para medir o forno.
+- Amostra do material que se quer aquecer.
+
+PROCEDIMENTO
+------------
+1. Defina o que você quer aquecer e até que temperatura.
+2. Anote a temperatura ambiente e a temperatura desejada.
+3. Calcule a diferença: é esse salto que o forno precisa vencer.
+4. Identifique as três formas de calor presentes no seu caso.
+5. Condução: o calor passa pelo contato, da parede para a peça.
+6. Convecção: o ar quente sobe e leva calor para onde circula.
+7. Radiação: a parede brilhante emite calor sem precisar de ar.
+8. Observe qual forma domina e concentre esforços nela.
+9. Meça o tempo que o forno leva para chegar à temperatura.
+10. Anote quanta lenha ou combustível foi usado nesse tempo.
+11. Compare o gasto com o trabalho realizado: isso é eficiência.
+12. Verifique por onde o calor escapa: portas, fendas e chaminé.
+13. Corrija primeiro a maior perda que você encontrar.
+14. Repita a medição depois de cada correção.
+15. Registre os números para comparar projetos futuros.
+
+ATENCAO
+-------
+Temperatura e calor não são a mesma coisa: uma peça pequena e uma grande
+podem estar a 200 graus e guardar quantidades diferentes de energia.
+Não confie em sensação de calor para decidir se algo está pronto.
+Números aproximados comparam, mas não dimensionam com segurança.
+Fornos de alta temperatura exigem projeto e materiais próprios; esta
+leitura não substitui cálculo estrutural nem norma técnica.
+Nunca tampe a chaminé de um forno em funcionamento: gases voltam para o
+ambiente e podem matar por asfixia em poucos minutos.
+
+SE NAO TIVER
+------------
+Sem termômetro, observe sinais visuais: a cor da chama e o brilho da peça
+indicam faixas de temperatura, mas não dão valor exato.
+Sem trena, meça com o corpo: um palmo ou um passo aproximam a medida.
+Sem caderno, grave os números no celular antes de esquecê-los.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue explicar, com números, quanto o forno gasta para aquecer.
+Você identificou a maior perda de calor e tem um plano para corrigi-la.
+Duas medições seguidas mostram resultado parecido.
+
+FONTES
+------
+Prática consolidada de engenharia térmica e operação de fornos, sem
+documento normativo único. Conceitos correntes de transferência de calor
+(condução, convecção e radiação), conservação de energia e eficiência
+térmica, como apresentados em cursos básicos de termodinâmica.

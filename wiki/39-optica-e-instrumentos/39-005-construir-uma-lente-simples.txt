@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 39-005
+TITULO: Como construir uma lente simples
+CATEGORIA: 39 - Óptica e instrumentos científicos
+TEMPO: 15 minutos
+RISCO: medio
+EXIGE: água limpa, filme plástico transparente, arame ou clipe, fita adesiva
+REVISAO: 2026-11
+PALAVRAS-CHAVE: lente, água, ampliar, aumentar, lupa, gota, plástico, foco
+==============================================================================
+
+OBJETIVO
+--------
+Construir uma lente de água que amplia letras pequenas vistas de perto.
+
+QUANDO USAR
+-----------
+Quando faltar lupa para ler rótulos, bulas ou números pequenos.
+Quando houver água limpa e plástico transparente durante o dia.
+Para demonstrar como a superfície curva desvia a luz.
+
+NAO USE QUANDO
+--------------
+Com água suja, com óleo, sal ou produto químico.
+Para olhar o sol ou luz intensa: a lente concentra raios.
+Como substituto de óculos, contato ou exame médico.
+
+MATERIAIS
+---------
+- Água limpa e filme plástico transparente e liso (celofane, saco limpo).
+- Arame fino ou clipe aberto em círculo (boca de copo ou tampa).
+- Fita adesiva ou linha para prender o plástico.
+- Conta-gotas, palito ou dedo limpo e papel com letras miúdas.
+
+PROCEDIMENTO
+------------
+1. Dobre o arame ou o clipe em círculo de aproximadamente 3 cm.
+2. Estique o plástico sobre o círculo, sem rugas, e prenda nas bordas.
+3. Segure o círculo na horizontal, com o plástico virado para cima.
+4. Pingue uma gota de água limpa no centro, sem deixar escorrer.
+5. Deixe a gota assentar até formar uma calota curva e brilhante.
+6. Aproxime a lente do papel a aproximadamente 2 cm das letras.
+7. Ajuste a distância até as letras ficarem maiores e nítidas; leia.
+
+ATENCAO
+-------
+Nunca aponte a lente para o sol: a luz concentrada queima papel e pele.
+Nunca olhe através dela para o sol: há risco de queimadura no olho.
+A imagem de objetos distantes aparece de cabeça para baixo e torta.
+A gota evapora e bolhas de ar distorcem a imagem; pingue outra gota.
+Não use vidro quebrado nem líquido com óleo, sal ou químico.
+
+SE NAO TIVER
+------------
+Sem arame, estique o plástico sobre a boca de um copo ou tampa.
+Sem conta-gotas, molhe a ponta de um palito limpo e pingue a gota.
+Sem plástico, encha uma garrafa com água, sem bolhas, e olhe pela curva.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A gota brilha como calota e não escorre pelo plástico.
+As letras vistas de perto ficam maiores e com bordas nítidas.
+
+FONTES
+------
+Princípios de lentes convexas: Encyclopaedia Britannica, verbete
+"lens". Concentração de luz por lente: manual de sobrevivência FM
+21-76. A montagem com gota de água é prática consolidada de óptica;
+este texto é resumo operacional, não substitui treinamento.

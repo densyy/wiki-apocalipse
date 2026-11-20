@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 52-019
+TITULO: Como compreender transferência de calor
+CATEGORIA: 52 - Física aplicada e princípios fundamentais
+TEMPO: 25 minutos
+RISCO: baixo
+EXIGE: colher de metal, água quente, papel, lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: calor, condução, convecção, radiação, temperatura, frio
+==============================================================================
+
+OBJETIVO
+--------
+Identificar condução, convecção e radiação no dia a dia.
+
+QUANDO USAR
+-----------
+Quando precisar explicar por que algo esquenta ou esfria.
+Quando quiser escolher como aquecer, isolar ou ventilar um ambiente.
+Quando precisar entender por que certo metal parece mais frio.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para este procedimento.
+Não substitui cálculo de engenharia térmica para projetos críticos.
+
+MATERIAIS
+---------
+- Uma colher de metal e uma de madeira (ou plástico).
+- Uma tigela com água quente e papel em temperatura ambiente.
+- Papel e lápis para anotar (qualquer superfície serve).
+
+PROCEDIMENTO
+------------
+1. Encoste as colheres de metal e de madeira na água quente e espere.
+2. Toque a ponta de cada colher e compare o calor que sente.
+3. Anote que o calor passou por contato: é a condução.
+4. Coloque farelo na água quente sem mexer e veja ele subir.
+5. Veja o farelo descer e subir de novo, em ciclo.
+6. Anote que o movimento do fluido se chama convecção.
+7. Aproxime a mão do recipiente quente sem encostar e sinta o calor.
+8. Anote que esse calor viajou por radiação, sem contato.
+9. Espere o metal esfriar, toque papel e metal e compare.
+
+ATENCAO
+-------
+Calor é energia em trânsito: existe só com diferença de temperatura.
+O fluxo vai do corpo mais quente para o mais frio, nunca ao contrário.
+Temperatura não é calor: ela mede o quão quente algo está.
+Metal retira calor da pele mais depressa que madeira na mesma temperatura.
+Use água quente, não fervendo, e não toque em metal muito quente: queima.
+A cor e o brilho da superfície mudam muito a radiação absorvida.
+
+SE NAO TIVER
+------------
+Sem colher de madeira, use um palito ou um cabo de plástico.
+Sem farelo, observe o vapor subir da água quente.
+Sem papel, anote as conclusões mentalmente e repita o exercício.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você aponta qual dos três mecanismos atua em cada situação.
+Você afirma que o calor flui do mais quente para o mais frio.
+Você explica por que metal e papel parecem diferentes ao toque.
+
+FONTES
+------
+Mecanismos de transferência de calor conforme OpenStax University Physics
+Volume 2 e College Physics 2e (capítulos sobre calor).
+Definições de joule, watt e kelvin segundo o SI, conforme NIST.

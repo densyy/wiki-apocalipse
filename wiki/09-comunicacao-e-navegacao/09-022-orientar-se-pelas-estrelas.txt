@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 09-022
+TITULO: Como orientar-se pelas estrelas
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 15 minutos
+RISCO: medio
+EXIGE: céu limpo e escuro, horizonte visível, papel e lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: estrelas, norte, sul, cruzeiro do sul, estrela polar
+==============================================================================
+
+OBJETIVO
+--------
+Ache o norte ou o sul no céu e siga esse rumo sem bússola nem GPS.
+
+QUANDO USAR
+-----------
+Quando não há bússola nem celular com GPS e é preciso escolher um rumo.
+Quando a bússola falhou ou há dúvida sobre a leitura dela.
+Quando é preciso conferir se a bússola aponta para o lugar certo.
+
+NAO USE QUANDO
+--------------
+Quando o céu está nublado: sem estrelas, este procedimento não funciona.
+Quando luz de cidade ou lua cheia esconde as estrelas mais fracas.
+
+MATERIAIS
+---------
+- Nenhum material. Papel e lápis ajudam a anotar o rumo escolhido.
+
+PROCEDIMENTO
+------------
+1. Vá a um lugar aberto com vista para o horizonte e céu escuro.
+2. Espere alguns minutos até os olhos se acostumarem com a escuridão.
+3. No Brasil, use o Cruzeiro do Sul; no extremo norte, use a Polar.
+4. Para o sul: ache quatro estrelas brilhantes em forma de cruz.
+5. Confirme com as Pontas: duas estrelas brilhantes apontam para a cruz.
+6. Se não houver Pontas, é a Falsa Cruz: não a use para achar o sul.
+7. Estenda a haste longa da cruz, da estrela do pé à da cabeça.
+8. Prolongue essa linha cerca de quatro vezes e meia o tamanho da cruz.
+9. Esse ponto é o polo sul celeste, centro da rotação das estrelas.
+10. Projetemos esse ponto até o horizonte e marque ali o sul com uma pedra.
+11. Para o norte: ache as sete estrelas do Carrinho (Ursa Maior).
+12. As duas estrelas da borda da caixa apontam para a Estrela Polar.
+13. Prolongue essa linha cerca de cinco vezes a distância entre as duas.
+14. A estrela no fim é a Polar, perto do polo norte: marque o norte.
+15. Anote o rumo no papel e confira-o de vez em quando ao caminhar.
+
+ATENCAO
+-------
+Confunda a Falsa Cruz com a verdadeira: sem as Pontas, o sul sai errado.
+O método dá só a direção; não diz sua posição nem a distância até o alvo.
+O erro mais grave é caminhar num rumo errado e se afastar de água e ajuda.
+
+SE NAO TIVER
+------------
+Sem céu limpo, espere: as nuvens não deixam ver as estrelas.
+Sem as Pontas, não use a cruz: procure outra noite de céu limpo.
+Sem papel, alinhe pedras no chão para guardar o rumo escolhido.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A estrela do polo quase não se move; as outras giram ao redor dela.
+Repita a leitura: o norte ou o sul cai no mesmo ponto do horizonte.
+
+FONTES
+------
+Prática consolidada de navegação celeste, sem documento único.
+Dados conferidos nas entradas Crux e Polaris da Wikipédia, que citam
+Bowditch (American Practical Navigator) e Ridpath (Star Tales).

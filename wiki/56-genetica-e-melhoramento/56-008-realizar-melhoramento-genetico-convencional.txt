@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 56-008
+TITULO: Como realizar melhoramento genético convencional de plantas
+CATEGORIA: 56 - Reprodução, genética e melhoramento
+TEMPO: 60 minutos por geração
+RISCO: medio
+EXIGE: duas variedades, área isolada, sacos de papel, etiquetas, caderno
+REVISAO: 2026-11
+PALAVRAS-CHAVE: melhoramento, seleção, semente, variedade, polinização
+==============================================================================
+
+OBJETIVO
+---------
+Obter variedade melhorada por cruzamento e seleção de plantas.
+
+QUANDO USAR
+-----------
+Quando a variedade produz bem, mas adoece com facilidade.
+Quando é preciso juntar em uma planta a resistência e a produção.
+
+NAO USE QUANDO
+--------------
+Quando a fome exige alimento imediato: leva várias gerações.
+Quando não há como evitar pólen de outras variedades da espécie.
+
+MATERIAIS
+---------
+- Sementes de duas plantas com qualidades complementares.
+- Área afastada de outras variedades da espécie; sacos de papel e pincel.
+- Etiquetas, caderno e recipientes limpos para guardar sementes.
+
+PROCEDIMENTO
+------------
+1. Escolha a planta produtiva e a que tem a qualidade que falta.
+2. Anote as qualidades de cada uma e o código do cruzamento.
+3. Plante as duas variedades lado a lado na área isolada.
+4. Cubra a flor da mãe com saco antes que ela abra.
+5. Retire o saco e recolha pólen da flor do pai com o pincel.
+6. Encoste o pólen no estigma da mãe, parte que recebe o pólen.
+7. Recoloque o saco e prenda a etiqueta com código e data.
+8. Colha os frutos maduros da mãe em recipiente separado.
+9. Retire as sementes, limpe e seque à sombra em peneira.
+10. Plante as sementes da geração F1; delas virão as plantas F2.
+11. Na F2, marque as plantas com as duas qualidades e colha só delas.
+12. Repita por aproximadamente seis gerações, até a qualidade uniformizar.
+13. Teste em duas áreas e duas épocas antes de distribuir.
+
+ATENCAO
+-------
+Pólen de outras plantas pode contaminar o cruzamento e mudar o resultado.
+A qualidade desejada pode não aparecer na primeira geração.
+Muitas qualidades dependem de vários genes, do clima e do solo.
+Seis gerações é referência aproximada; teste sempre antes de distribuir.
+
+SE NAO TIVER
+------------
+Sem saco, use papel pardo preso com barbante; sem pincel, haste fina limpa.
+Sem tempo para várias gerações, use semente certificada, sem pular etapas.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As plantas da última geração mostram a qualidade desejada de forma igual.
+No teste em outra área, a variedade mantém a vantagem do primeiro local.
+
+FONTES
+------
+Embrapa. Seleção recorrente no melhoramento de plantas autógamas e
+Genética: estratégias de melhoramento e seleção (Resende e Alves,
+2021). Embrapa. Melhoramento de plantas: seleção pedigree de progênies.

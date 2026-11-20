@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 67-018
+TITULO: Como construir temporizadores mecânicos
+CATEGORIA: 67 - Robótica, automação e controle
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: dois recipientes, boia, alfinete, linha, água, tábua nivelada
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, gotejamento, boia, relógio de água, temporizador
+==============================================================================
+
+OBJETIVO
+--------
+Montar um aparelho que conta o tempo com a passagem de água e dispara
+uma ação sozinho, sem bateria nem tomada.
+
+QUANDO USAR
+-----------
+Quando precisar de um aviso depois de minutos sem olhar as horas.
+Quando quiser abrir, fechar ou soltar algo após um intervalo definido.
+Para controlar cozimento, fermento, irrigação ou troca de turno.
+Onde não há relógio confiável, pilha ou energia elétrica.
+Em montagens de automação que repetem uma ação a cada intervalo.
+
+NAO USE QUANDO
+--------------
+Quando o tempo precisar ser exato em segundos: a vazão varia.
+Quando a água puder congelar, evaporar depressa ou faltar.
+Quando o gatilho for soltar peso ou mola perto de pessoas.
+Em superfície inclinada ou que treme: a boia erra a marca.
+
+MATERIAIS
+---------
+- Dois recipientes transparentes: um superior pequeno, um inferior maior.
+- Alfinete, agulha ou broca fina para abrir o furo de saída.
+- Boia de cortiça, rolha ou plástico vazio que flutue sem afundar.
+- Haste fina de madeira ou arame presa à boia para mostrar a altura.
+- Linha resistente ou barbante fino preso à haste.
+- Tábua ou pedra plana para apoiar tudo bem nivelado.
+- Água limpa, sem folhas que possam entupir o furo.
+- Relógio, ampulheta ou batimentos de pulso para calibrar.
+- Gatilho simples: presilha, alavanca ou nó que solte ao ser puxado.
+
+PROCEDIMENTO
+------------
+1. Apoie os dois recipientes na tábua, o superior sobre o inferior.
+2. Faça um furo pequeno e único no fundo do recipiente superior.
+3. Despeje um pouco de água no superior e observe a saída.
+4. Se a água jorrar em fio, tampe o furo e refaça com furo menor.
+5. Coloque a boia no fundo do recipiente inferior.
+6. Prenda a haste na boia, mantendo-a em pé e sem encostar na parede.
+7. Encha o superior até uma marca de nível que você anota.
+8. Meça com relógio ou pulsos quanto tempo a boia leva a subir.
+9. Marque na haste a altura que corresponde ao tempo desejado.
+10. Amarre a linha na ponta da haste.
+11. Ligue a outra ponta da linha ao gatilho da ação.
+12. Prenda o gatilho segurando a carga, sem liberar ainda.
+13. Encha o superior novamente até a mesma marca de nível.
+14. A boia sobe; ao chegar à marca, a linha puxa e libera o gatilho.
+
+ATENCAO
+-------
+A vazão diminui conforme o nível do recipiente superior cai.
+Por isso o aparelho atrasa: encha sempre até a mesma marca de nível.
+Água com folhas ou sujeira entope o furo e para a contagem.
+A boia pode emperrar na parede: deixe folga e confira antes de começar.
+Não use o gatilho para soltar peso, mola ou carga perto de pessoas.
+Se a água evaporar ou congelar, o tempo marcado muda.
+Este aparelho conta minutos, não segundos exatos: serve para avisos.
+
+SE NAO TIVER
+------------
+Sem boia de cortiça, use uma rolha, garrafa plástica vazia ou folha seca.
+Sem haste, use palito de madeira ou arame reto preso à boia.
+Sem relógio, conte batimentos de pulso para calibrar de forma aproximada.
+Se o furo não gotejar de modo uniforme, troque o recipiente superior.
+Não improvise com recipiente rachado: a água vaza e o tempo erra.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A boia sobe de forma contínua e para na marca sem afundar.
+Ao encostar na marca, a linha fica tensa e o gatilho solta a carga.
+A ação acontece depois do mesmo intervalo em duas repetições.
+Não há vazamento fora do recipiente inferior nem furo entupido.
+
+FONTES
+------
+- Princípio da clepsidra: relógio de água da Antiguidade com boia que sobe
+  conforme o nível, em "Historical development of water-powered mechanical
+  clocks", Copernicus Publications, 2021.
+- Ctesibius de Alexandria: controle por nível constante e indicador
+  flutuante, segundo o mesmo artigo.
+- Escapamento mecânico: NIST, definição de escapamento como conversor de
+  oscilação em pulsos contáveis.
+- American Journal of Physics (AIP), modelo de escapamento de relógio
+  mecânico, 2012.
+- Prática consolidada de relojoaria e automação sem energia elétrica;
+  resumo operacional, não substitui treinamento.

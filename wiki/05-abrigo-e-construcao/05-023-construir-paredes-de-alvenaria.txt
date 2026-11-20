@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 05-023
+TITULO: Como construir paredes de alvenaria
+CATEGORIA: 05 - Abrigo, construção e habitação
+TEMPO: 120 minutos
+RISCO: medio
+EXIGE: blocos, cimento, areia, água, nível e base firme
+REVISAO: 2026-11
+PALAVRAS-CHAVE: parede, alvenaria, tijolo, bloco, cimento, muro
+==============================================================================
+
+OBJETIVO
+--------
+Levantar uma parede simples de blocos firme, reta e na vertical.
+
+QUANDO USAR
+-----------
+Quando precisa fechar um cômodo, quarto ou despensa simples.
+Quando vai levantar um murete baixo de quintal ou canteiro.
+Quando fecha um vão de porta ou janela com blocos em reforma.
+
+NAO USE QUANDO
+--------------
+Em parede que segura laje, telhado ou andar sem ajuda técnica.
+Em muro de arrimo que segura terra ou água acumulada atrás.
+Em solo mole, alagado ou sem fundação firme já pronta.
+
+MATERIAIS
+---------
+- Blocos de concreto ou tijolos e mistura pronta para argamassa.
+- Água limpa, balde, pá e masseira para preparar a mistura.
+- Colher de pedreiro, nível, prumo de fio, linha e fita métrica.
+
+PROCEDIMENTO
+------------
+1. Marque a linha da parede no chão com linha esticada e cal.
+2. Confira o esquadro medindo as duas diagonais do cômodo.
+3. Molhe os blocos de leve para não sugar a água da massa.
+4. Prepare a argamassa firme na proporção indicada na embalagem.
+5. Espalhe camada de aproximadamente 1 cm sobre a base pronta.
+6. Assente o bloco do canto primeiro e acerte com o nível.
+7. Estique a linha entre os cantos na altura da fileira atual.
+8. Assente os blocos com junta de aproximadamente 1 cm entre eles.
+9. Preencha as juntas verticais e raspe o excesso com a colher.
+10. Desencontre as juntas de uma fileira em relação à outra.
+11. Confira a vertical com o prumo e o nível e corrija na hora.
+
+ATENCAO
+-------
+Parede fora da vertical ou sem amarração cai com vento ou encosto.
+Argamassa fraca esfarela depois e parede nova não aguenta carga.
+Não bata nem apoie peso na parede por aproximadamente 3 dias.
+Pó de cimento irrita olhos e pulmão: use óculos e evite poeira.
+Se a parede rachar, inclinar ou estalar, afaste-se e refaça.
+
+SE NAO TIVER
+------------
+Sem nível, use mangueira transparente com água como guia.
+Sem prumo, use fio com peso amarrado na ponta como guia.
+Sem colher, assente com desempenadeira ou tábua estreita.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A parede fica reta, na vertical e firme ao empurrar de leve.
+As juntas ficam cheias, firmes e com espessura parecida.
+
+FONTES
+------
+Prática consolidada de alvenaria simples de vedação, sem cálculo
+estrutural (famílias: manuais básicos de construção e Defesa Civil).

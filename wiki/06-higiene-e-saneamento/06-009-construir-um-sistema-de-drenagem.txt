@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 06-009
+TITULO: Como construir um sistema de drenagem
+CATEGORIA: 06 - Higiene, saneamento e resíduos
+TEMPO: 3 horas
+RISCO: medio
+EXIGE: enxada ou pa, terreno com declive, luvas de trabalho
+REVISAO: 2026-11
+PALAVRAS-CHAVE: drenagem, vala, chuva, alagamento, agua parada, abrigo
+==============================================================================
+
+OBJETIVO
+--------
+Afastar a agua da chuva do abrigo e manter o chao seco.
+
+QUANDO USAR
+-----------
+Quando a agua da chuva empoca ao redor do abrigo.
+Quando o chao dentro do abrigo fica umido depois de chover.
+Quando a entrada do abrigo vira lama a cada chuva.
+
+NAO USE QUANDO
+--------------
+Nao abra valas em encosta ingreme com risco de deslizamento.
+Nao direcione a agua para a latrina, o poco ou o terreno do vizinho.
+Com raios, enchente subindo ou solo rachando, saia do local.
+
+MATERIAIS
+---------
+- Enxada ou pa (facão ou enxadao em ultimo caso).
+- Estacas e barbante ou cipo para marcar o tracado (galhos servem).
+- Pedras, cascalho ou tijolos quebrados para forrar a vala.
+- Luvas de trabalho e calcado fechado.
+- Balde ou vasilha para retirar terra e agua acumulada.
+
+PROCEDIMENTO
+------------
+1. Observe para onde a agua corre na chuva antes de cavar.
+2. Marque com estacas uma vala em U ao redor do abrigo.
+3. Mantenha a vala a aproximadamente 1 m das paredes do abrigo.
+4. Cave com aproximadamente 25 cm de largura e 20 cm de fundura.
+5. De caimento continuo ate um ponto baixo longe do abrigo.
+6. Forre o fundo com pedras ou cascalho para segurar as paredes.
+7. Ligue a saida a um terreno baixo e firme, longe de poco e latrina.
+8. Compacte a terra retirada como barreira baixa do lado do abrigo.
+9. Limpe folhas e lama da vala depois de cada chuva forte.
+10. Reforce o caimento se a agua parar em algum trecho.
+
+ATENCAO
+-------
+Vala funda demais desaba e pode prender pe e perna de crianca.
+Ferramenta cortante fere: mantenha distancia e calce luvas.
+Agua parada cria mosquito e espalha doenca: nao deixe pocoes.
+Nao segura enchente de rio: com solo rachando ou agua subindo, abandone.
+
+SE NAO TIVER
+------------
+Sem enxada, cave com facao, enxadao ou madeira pontiaguda.
+Sem pedras, use gravetos cruzados ou terra socada no fundo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Na proxima chuva a agua corre pela vala ate a saida.
+O chao do abrigo continua seco e sem lama na entrada.
+
+FONTES
+------
+Pratica consolidada de drenagem superficial em emergencias
+(referencias: OMS, Funasa e FEMA). Texto operacional resumido.

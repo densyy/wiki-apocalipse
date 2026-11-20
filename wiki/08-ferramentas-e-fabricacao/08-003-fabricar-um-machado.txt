@@ -1,0 +1,86 @@
+==============================================================================
+CODIGO: 08-003
+TITULO: Como fabricar um machado
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 2 horas
+RISCO: alto
+EXIGE: pedra dura, cabo de madeira, corda, fogo, proteção ocular
+REVISAO: 2026-11
+PALAVRAS-CHAVE: machado, pedra, cabo, encabar, corda, resina, ferramenta
+==============================================================================
+
+OBJETIVO
+--------
+Fazer um machado de pedra com cabo de madeira para cortar madeira leve.
+
+QUANDO USAR
+-----------
+Quando falta um machado de metal e é preciso cortar galhos ou madeira mole.
+Quando há lenha ou madeira para abrigo e nenhuma ferramenta cortante.
+Quando se tem pedra dura, madeira e corda, mas nenhum machado.
+
+NAO USE QUANDO
+--------------
+Não use para derrubar árvores nem para cortar madeira dura.
+Não substitui um machado de metal: o gume de pedra quebra com impacto forte.
+
+MATERIAIS
+---------
+- Pedra densa e dura de grão fino, com borda natural afinada (pedra de rio).
+- Pedra menor para servir de martelo (batedor de madeira).
+- Cabo reto de madeira dura, sem nós, com aproximadamente 60 cm (galho).
+- Corda ou fibra vegetal trançada (tiras de casca ou tendão).
+- Resina de pinheiro ou piche de bétula (cera de abelha com carvão).
+- Fogo baixo para aquecer a resina.
+- Óculos de proteção (se não houver, não lasque pedra).
+
+PROCEDIMENTO
+------------
+1. Escolha pedra densa, dura e de grão fino, sem fendas nem grãos soltos.
+2. Descarte pedra quebradiça, com rachaduras ou que solte pó ao esfregar.
+3. Enrole a pedra em pano e segure longe do rosto e das outras pessoas.
+4. Bata de lado na borda da pedra com o batedor, sem golpes fortes.
+5. Repita batidas curtas só na borda até formar um gume rombo.
+6. Retire a casca da ponta do cabo e raspe até a madeira ficar áspera.
+7. Abra uma fenda de aproximadamente 4 cm na ponta do cabo.
+8. Faça a fenda no sentido do comprimento, sem atravessar o cabo.
+9. Encaixe a pedra na fenda com o gume virado para fora.
+10. Aperte a fenda com corda a partir da base, voltas justas e seguidas.
+11. Aqueça a resina em fogo baixo, sem ferver, longe de crianças.
+12. Espalhe a resina sobre a corda e a fenda com um graveto.
+13. Deixe esfriar e endurecer por aproximadamente 30 minutos.
+14. Puxe a pedra com força; se mexer, aperte de novo.
+15. Teste golpes leves em madeira mole, longe de pessoas.
+
+ATENCAO
+-------
+Lascas de pedra voam e cortam fundo. Use proteção nos olhos.
+Não bata com o rosto ou as mãos na linha do golpe.
+Resina e piche quentes queimam: aqueça em fogo baixo; nunca toque.
+Pedra fendida pode partir no impacto e voar: descarte sem usar.
+Um cabo mal preso solta a pedra no golpe e pode atingir outra pessoa.
+Este machado não substitui um de metal para lenha pesada.
+Se houver corte profundo, pare e procure ajuda.
+
+SE NAO TIVER
+------------
+Sem corda, use tiras de casca ou fibra vegetal trançadas.
+Sem resina, aperte mais a corda: a ligação dura menos e deve ser refeita.
+Não use arame, tijolo ou concreto: quebram, soltam grãos e ferem.
+Sem proteção nos olhos, não lasque pedra; use só pedra com borda natural.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A pedra não se move quando puxada com força.
+O gume ficou firme, sem lascas soltas.
+A corda está justa e a resina endureceu, sem grudar no dedo.
+Em golpes leves em madeira mole, a pedra continua presa e o cabo não racha.
+
+FONTES
+------
+Programa de Origens Humanas do Smithsonian: ferramentas de pedra.
+Zipkin et al., 2014, PLOS ONE: experimento com adesivos de encabamento.
+A superfície áspera da madeira aumentou a resistência da união no estudo.
+Museu Nacional Suíço: piche de bétula e reforço com corda vegetal.
+EXARC Journal, 2015, Pfeifer e Claußen: colas de resina e cera.
+O estudo testou também resina de pinheiro com cera e carvão.

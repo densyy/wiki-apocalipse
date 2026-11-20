@@ -1,0 +1,83 @@
+==============================================================================
+CODIGO: 65-006
+TITULO: Como compreender resistência à compressão
+CATEGORIA: 65 - Engenharia de materiais e polímeros
+TEMPO: 25 minutos
+RISCO: medio
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: compressão, resistência, concreto, mpa, esmagamento, fck
+==============================================================================
+
+OBJETIVO
+--------
+Interpretar o valor de resistência à compressão de um material e saber
+o que ele permite concluir e o que não permite.
+
+QUANDO USAR
+-----------
+Ao ler o relatório de um ensaio de compressão de concreto ou cerâmica.
+Ao comparar dois materiais para saber qual suporta mais carga.
+Ao receber um laudo de resistência e decidir se o lote serve.
+Ao entender por que um material frágil quebra quando é puxado.
+
+NAO USE QUANDO
+--------------
+Não use este texto para dimensionar uma estrutura nem para substituir
+um engenheiro. Um número de resistência não determina sozinho a carga
+segura de uma peça.
+
+MATERIAIS
+---------
+- Relatório de ensaio com a força de ruptura e o diâmetro medidos.
+- Papel e lápis para anotar as contas.
+- Calculadora (ou faça a conta no papel).
+- Nenhum material, se o objetivo for só entender o conceito.
+
+PROCEDIMENTO
+------------
+1. Confirme que o ensaio foi de compressão axial, não de tração.
+2. Anote a força máxima de ruptura F, em newtons, do relatório.
+3. Leia o diâmetro médio D do corpo de prova, em milímetros.
+4. Multiplique D por D, por 3,14 e divida por 4 para obter a área A.
+5. Divida F por A. O resultado é a tensão em N por milímetro quadrado.
+6. Escreva esse valor em MPa. Um MPa é 1 N por milímetro quadrado.
+7. Para um cilindro de concreto, calcule fc dividindo 4F por 3,14
+   vezes D por D.
+8. Confira se a altura do cilindro era o dobro do diâmetro.
+9. Leia a idade do corpo de prova. A referência usual é 28 dias.
+10. Compare o valor com a classe de resistência prevista no projeto.
+11. Registre que o número veio de um exemplar, não da obra inteira.
+
+ATENCAO
+-------
+A tensão medida no cilindro não é a resistência da estrutura pronta.
+Faces mal preparadas concentram a carga e baixam o valor medido.
+Corpo muito alto flamba antes de esmagar e invalida o ensaio.
+A velocidade de carga altera o resultado. Em concreto, use
+aproximadamente 0,45 MPa por segundo, conforme a ABNT NBR 5739.
+Concreto e cerâmica resistem muito mais à compressão do que à tração.
+Um único valor não prova que o lote inteiro atende ao especificado.
+Pare e procure um engenheiro se o valor ficar abaixo do projeto.
+
+SE NAO TIVER
+------------
+Sem relatório, não invente o número: peça o laudo ao laboratório.
+Sem calculadora, faça a conta no papel com o diâmetro em milímetros.
+Sem corpo cilíndrico padrão, não compare diretamente com fc de
+concreto. Outros formatos exigem outras normas e fatores de correção.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O valor final está em MPa e foi escrito com três algarismos.
+A força, o diâmetro e a idade usados estão anotados no papel.
+Você consegue dizer por que o material aguenta mais ser apertado
+do que ser puxado.
+
+FONTES
+------
+ABNT NBR 5739:2018, ensaio de compressão de corpos de prova
+cilíndricos de concreto; norma DNER-ME 091/98 do DNIT; boletim
+CIP 35 do NRMCA e ASTM C39 sobre resistência de cilindros;
+material didático da UNSW Sydney e do DoITPoMS, Cambridge,
+sobre compressão de cerâmicas.

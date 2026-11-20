@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 66-006
+TITULO: Como fabricar instrumentos de medição simples
+CATEGORIA: 66 - Mecânica de precisão e instrumentos
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: papelão, folha A4, barbante, peso pequeno, faca, caneta
+REVISAO: 2026-11
+PALAVRAS-CHAVE: medir, régua, paquímetro, prumo, escala, papelão, linha
+==============================================================================
+
+OBJETIVO
+--------
+Fabricar régua, paquímetro e prumo para medir e nivelar sem equipamento.
+
+QUANDO USAR
+-----------
+Quando não houver régua, paquímetro ou nível disponíveis.
+Quando precisar conferir medidas ou alinhamento em reparo improvisado.
+
+NAO USE QUANDO
+--------------
+Quando a medição exigir precisão industrial ou laudo técnico.
+Instrumento caseiro não substitui instrumento calibrado.
+
+MATERIAIS
+---------
+- Folha A4: o lado curto mede 210 mm (padrão ISO 216).
+- Tira de papelão ou cartolina reta, seca e sem dobras.
+- Barbante, peso pequeno (arruela ou pedra), caneta, faca e água.
+
+PROCEDIMENTO
+------------
+1. Use o lado curto da folha A4 como referência de 210 mm.
+2. Corte a tira de papelão com o mesmo comprimento desse lado.
+3. Dobre a tira ao meio e marque 105 mm.
+4. Dobre cada metade ao meio e marque 52,5 mm e 157,5 mm.
+5. Dobre em dez partes iguais e marque cada dobra como 10 mm.
+6. Escreva os valores ao lado de cada marca da régua.
+7. Corte duas tiras retas de papelão, uma larga e uma estreita.
+8. Encaixe a estreita na larga para deslizar como cursor.
+9. Copie a escala na tira larga e marque um ponteiro na estreita.
+10. Pressione as pontas contra a peça e leia o valor no ponteiro.
+11. Amarre o peso ao barbante e segure a outra ponta suspensa.
+12. Deixe o peso parar e use a linha como referência vertical.
+
+ATENCAO
+-------
+Marcas à mão são aproximadas: a precisão depende da referência.
+Não meça peça que vá suportar carga com instrumento caseiro.
+A faca corta: apoie a tira e corte sempre para longe da mão.
+Vento e vibração fazem o prumo balançar; espere parar antes de ler.
+
+SE NAO TIVER
+------------
+Sem folha A4, use outro objeto de medida conhecida e anote o valor.
+Sem papelão, dobre papel várias vezes até ficar rígido.
+Sem peso, amarre uma pedra pequena na ponta do barbante.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A régua tem marcas regularmente espaçadas e valores legíveis.
+O cursor desliza e o ponteiro aponta um valor na escala.
+
+FONTES
+------
+Prática consolidada de medição e alinhamento em oficina e construção.
+Referência de tamanho A4: padrão ISO 216 (210 mm por 297 mm).
+Este texto é resumo operacional, não substitui instrumento calibrado.

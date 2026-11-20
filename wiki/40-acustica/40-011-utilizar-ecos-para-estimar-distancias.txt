@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 40-011
+TITULO: Como utilizar ecos para estimar distâncias
+CATEGORIA: 40 - Acústica e engenharia sonora
+TEMPO: 10 minutos
+RISCO: baixo
+EXIGE: local aberto, superfície dura e distante, cronômetro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: eco, distância, som, cronômetro, refletir, medir, palmas
+==============================================================================
+
+OBJETIVO
+--------
+Estimar a distância até uma superfície usando o tempo do eco.
+
+QUANDO USAR
+-----------
+Quando precisar saber a distância até parede, penhasco ou caverna.
+Quando não houver fita métrica nem aparelho de medição.
+
+NAO USE QUANDO
+--------------
+Quando a superfície estiver coberta por vegetação, neve ou tecido.
+Quando houver vento forte, chuva ou muito ruído de fundo.
+Quando a distância for menor que aproximadamente 17 metros.
+
+MATERIAIS
+---------
+- Superfície grande e dura: rocha, concreto ou tronco maciço.
+- Cronômetro (ou contagem em voz alta, se não houver).
+- Objeto para som curto e forte: palmas, pedra ou bastão.
+
+PROCEDIMENTO
+------------
+1. Fique em local aberto, de frente para a superfície refletora.
+2. Confirme que não há vegetação espessa no caminho do som.
+3. Bata palmas uma vez, forte e curto, voltado para a superfície.
+4. Escute o som refletido: esse é o eco.
+5. Meça o tempo entre a palma e o eco com o cronômetro.
+6. Sem cronômetro, conte em voz alta: mil um, mil dois, mil tres.
+7. Repita três vezes e use o tempo do meio, descartando os extremos.
+8. Multiplique esse tempo por 340 (velocidade aproximada do som).
+9. Divida por 2, pois o som vai até a superfície e volta.
+10. Exemplo: eco em 2 segundos; 340 x 2 = 680; 680 / 2 = 340 metros.
+
+ATENCAO
+-------
+O resultado é aproximado: temperatura, vento e umidade mudam a velocidade.
+Esquecer de dividir por 2 dobra a distância calculada.
+Ecos múltiplos indicam várias superfícies; meça o primeiro que voltar.
+Folhas, neve e tecido absorvem o som; vento forte desvia o eco.
+Abaixo de aproximadamente 0,1 segundo o eco se mistura com a palma.
+Não use o resultado para atravessar água ou precipício sem confirmação.
+
+SE NAO TIVER
+------------
+Sem cronômetro, conte em voz alta: mil um, mil dois, mil tres.
+Cada segundo de ida e volta vale aproximadamente 170 metros.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O eco chega depois da palma, com tom parecido e mais fraco.
+As três medições ficam próximas e o resultado bate com a vista.
+
+FONTES
+------
+Prática consolidada de medição por tempo de propagação do som.
+Dados de velocidade: HyperPhysics (Georgia State University) e
+National Weather Service (NOAA), calculadora de velocidade do som.

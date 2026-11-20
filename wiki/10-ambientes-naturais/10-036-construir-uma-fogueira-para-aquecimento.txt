@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 10-036
+TITULO: Como construir uma fogueira para aquecimento
+CATEGORIA: 10 - Sobrevivência em ambientes naturais
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: área plana e aberta, água, pá, madeira seca, fósforos ou isqueiro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fogo, fogueira, aquecimento, lenha, acender, monóxido
+==============================================================================
+
+OBJETIVO
+--------
+Acenda e mantenha uma fogueira pequena que aqueça o corpo sem incendiar a
+vegetação nem intoxicar quem está por perto.
+
+QUANDO USAR
+-----------
+Quando a temperatura cai e o corpo começa a perder calor.
+Quando é preciso aquecer as mãos ou secar roupa molhada.
+Quando o abrigo é improvisado e não há aquecedor.
+
+NAO USE QUANDO
+--------------
+Quando venta forte ou o solo e a vegetação estão muito secos.
+Quando o local proíbe fogo aberto ou há restrição vigente.
+Quando não há água ou pá por perto para apagar o fogo.
+Quando não dá para vigiar o fogo até que esteja completamente apagado.
+
+MATERIAIS
+---------
+- Água em balde ou garrafa (pelo menos alguns litros).
+- Pá, enxada ou bastão grosso para mexer as cinzas.
+- Gravetos finos secos (palha seca ou folhas secas).
+- Gravetos grossos secos e toras (madeira seca caída).
+- Pedras para cercar a cova (anel de pedras pronto, se houver).
+- Isqueiro ou fósforos (pedra e aço, se faltarem).
+
+PROCEDIMENTO
+------------
+1. Verifique se fogo aberto é permitido e se não há restrição vigente.
+2. Observe o vento; não acenda se venta forte ou o tempo está muito seco.
+3. Escolha terreno plano, aberto, sem galhos secos ou fios acima.
+4. Afaste o ponto aproximadamente 5 m de tendas, árvores e lonas.
+5. Use um anel de pedras existente se houver.
+6. Limpe grama e folhas até o solo nu numa área de aproximadamente 3 m.
+7. Cave uma cova rasa de aproximadamente 30 cm no centro da área limpa.
+8. Cerce a cova com pedras juntas num círculo de aproximadamente 60 cm.
+9. Deixe o balde de água e a pá ao alcance da mão antes de acender.
+10. Colete apenas madeira seca caída; nunca corte árvore viva.
+11. Separe os três tamanhos: gravetos finos, gravetos grossos e toras.
+12. Faça a base com palha seca, folhas secas ou gravetos finos.
+13. Monte os gravetos grossos sobre a base em forma de tenda ou cabana.
+14. Aproxime a chama da base sem usar gasolina, álcool ou acelerante.
+15. Espere o fogo pegar nos gravetos grossos antes de acrescentar toras.
+16. Adicione as toras aos poucos, uma ou duas por vez, para não abafar.
+17. Mantenha o fogo pequeno, com madeira só dentro do círculo de pedras.
+18. Fique ao lado do fogo enquanto arde; nunca o deixe sozinho.
+19. Aproxime-se para aquecer, mantendo roupas e mãos longe das chamas.
+20. Antes de dormir ou sair, despeje água sobre as brasas.
+21. Mexa as brasas com a pá.
+22. Despeje água de novo até não restar calor.
+23. Aproxime o dorso da mão das cinzas para confirmar que estão frias.
+
+ATENCAO
+-------
+O fogo mata por queimadura, incêndio e monóxido de carbono, um gás sem cor
+sem cheiro que pode matar sem aviso. Nunca queime madeira dentro de tenda,
+cabana, carro ou abrigo fechado, nem perto de janela ou entrada de ar.
+Dor de cabeça, tontura, fraqueza, náusea, dor no peito e confusão são
+sinais de intoxicação: apague o fogo, saia para o ar livre e procure ajuda.
+Fogo sem vigília é a causa mais comum de incêndio florestal. Vento e
+faísca podem levar o fogo para fora do círculo em segundos. Nunca use
+líquido inflamável: a chama pode subir e queimar quem acende. Não enterre
+brasas: elas continuam quentes por dentro. Se o fogo sair do controle,
+afaste-se e chame os bombeiros. Fontes divergem sobre a distância de tendas:
+algumas pedem aproximadamente 5 m, outras aproximadamente 7,6 m; adote a
+maior distância permitida.
+
+SE NAO TIVER
+------------
+Sem anel de pedras, cave a cova e use o próprio solo como barreira.
+Sem balde, use recipiente que retenha água; sem água, use terra ou areia.
+Sem isqueiro, use fósforos secos ou pedra e aço com palha seca.
+Sem madeira, não improvise com plástico ou papel: soltam fumaça tóxica.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Chamas constantes e controladas sobem do centro do círculo de pedras.
+O calor se sente a aproximadamente 1 metro das chamas.
+Nenhuma brasa, fumaça ou faísca sai da área limpa.
+As cinzas ficam frias ao dorso da mão após molhar e mexer.
+
+FONTES
+------
+Prática consolidada de sobrevivência: USDA Forest Service (acender, vigiar e
+apagar: afogar, mexer e sentir), Texas A&M Forest Service (montagem), U.S.
+Fire Administration/FEMA (distâncias e telas), CDC (monóxido e sintomas),
+Gouvernement du Québec (fogo ao ar livre e monóxido).

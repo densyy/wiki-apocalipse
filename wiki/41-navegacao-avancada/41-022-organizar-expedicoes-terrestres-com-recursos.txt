@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 41-022
+TITULO: Como organizar expedições terrestres com recursos limitados
+CATEGORIA: 41 - Navegação avançada e técnicas de expedição
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: mapa ou papel, lápis, bússola, água e comida para a expedição
+REVISAO: 2026-11
+PALAVRAS-CHAVE: expedição, rota, suprimentos, água, retorno, segurança
+==============================================================================
+
+OBJETIVO
+--------
+Planejar uma ida a terra com poucos recursos e voltar com todos ilesos.
+
+QUANDO USAR
+-----------
+Quando precisar ir a pé a um ponto distante sem meios modernos.
+Quando a água disponível é pouca para o trajeto de ida e volta.
+
+NAO USE QUANDO
+--------------
+Com previsão de tempestade, calor extremo ou escuridão iminente.
+Sem água segura para a ida e a volta, ou com alguém ferido no grupo.
+
+MATERIAIS
+---------
+- Mapa da região (ou papel para um croqui).
+- Bússola (ou pontos de referência visíveis); caderno e lápis.
+- Água tratada e comida para ida, volta e uma reserva.
+- Apito e peça de cor viva para sinalizar.
+
+PROCEDIMENTO
+------------
+1. Verifique o tempo e anote no caderno o objetivo e o destino.
+2. Calcule a ida e a volta antes de sair, nunca só a ida.
+3. Marque no mapa a rota de ida, a de volta e a água segura.
+4. Defina a hora limite de retorno e escreva-a no caderno.
+5. Volte nessa hora mesmo que não tenha chegado ao destino.
+6. Reparta água e comida por pessoa e por dia, com reserva intacta.
+7. Deixe o plano com quem fica: rota, destino e hora de retorno.
+8. Combine sinais de apito e um ponto de encontro para o grupo.
+9. Caminhe em ritmo constante e confira a posição a cada referência.
+
+ATENCAO
+-------
+A água é o limite real, não a distância; não espere sentir sede.
+Não beba água de rio ou córrego sem tratamento; veja 01-001.
+Se perder a referência, pare. Não ande para "tentar achar".
+Não cruze correnteza forte nem água acima dos joelhos; retorne.
+Com poucos recursos, não gaste a reserva para ganhar tempo.
+
+SE NAO TIVER
+------------
+Sem mapa, desenhe um croqui; sem bússola, encurte o trajeto.
+Sem água para ida e volta, cancele ou reduza a expedição.
+Sem rádio, deixe o plano com quem fica e use apito.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada pessoa sabe a rota, a hora de retorno e onde fica a água.
+O caderno traz rota, referências e hora de retorno anotados.
+O grupo voltou antes do anoitecer, com todos e a reserva intacta.
+
+FONTES
+------
+FM 21-76 do Exército dos EUA: planejamento e "saiba onde você está".
+FEMA, CDC e Cruz Vermelha: água de emergência, aproximadamente 2 quarts
+por pessoa por dia para beber; cerca de 1 galão incluindo higiene.
+Use apito para sinalizar. Prática consolidada; não substitui treinamento.

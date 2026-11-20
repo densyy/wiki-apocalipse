@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 70-003
+TITULO: Como utilizar Raspberry Pi sem internet
+CATEGORIA: 70 - Computação de baixo consumo e preservação digital
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: Raspberry Pi, fonte 5 V, cartão SD, computador com internet
+REVISAO: 2026-11
+PALAVRAS-CHAVE: raspberry pi, sem internet, offline, cartão sd, energia
+==============================================================================
+
+OBJETIVO
+--------
+Operar o Raspberry Pi e guardar dados sem depender de rede externa.
+
+QUANDO USAR
+-----------
+Quando a energia cai e a internet não volta.
+Quando o trabalho fica longe de cobertura de rede.
+
+NAO USE QUANDO
+--------------
+Quando a tarefa exige dados online, como mapas ou consultas.
+Quando não há fonte de alimentação estável para o aparelho.
+
+MATERIAIS
+---------
+- Raspberry Pi com cartão SD ou SSD já com sistema instalado.
+- Fonte de 5 V própria para o modelo (carregador comum pode não dar
+  corrente suficiente).
+- Computador com internet para preparar o cartão antes de sair.
+- Pen drive para passar arquivos entre aparelhos.
+
+PROCEDIMENTO
+------------
+1. Grave a imagem do sistema no cartão SD com o gravador oficial.
+2. Atualize o sistema e instale os programas que vai precisar.
+3. Guarde os pacotes de instalação e dependências em um pen drive.
+4. Desligue pelo comando, nunca puxando o fio de energia.
+5. Ligue o aparelho com a fonte de 5 V e espere o sistema carregar.
+6. Ajuste a data e a hora, já que sem rede o relógio pode voltar.
+7. Conecte teclado, monitor e pen drive com os arquivos.
+8. Abra os programas e trabalhe só com dados guardados no aparelho.
+9. Salve o trabalho no cartão ou no pen drive ao terminar.
+10. Desligue pelo comando e espere a luz parar antes de cortar a energia.
+
+ATENCAO
+-------
+Fonte fraca é a falha mais comum: o aparelho trava ou corrompe o cartão.
+Use fonte de 5 V com corrente adequada ao modelo. O sinal de sub
+tensão é um raio amarelo na tela. Sem rede, o relógio volta a data antiga.
+Nunca corte a energia ao gravar: perde dados. Com cheiro de queimado,
+placa muito quente ou reinicio, desligue e procure ajuda.
+
+SE NAO TIVER
+------------
+Sem fonte própria, use um carregador de 5 V de boa procedência com corrente
+  suficiente; fontes baratas e fracas podem danificar o aparelho.
+Sem computador com internet, peça a alguém que grave o cartão para você.
+Não improvise ligação direta na placa nem use tensão diferente de 5 V.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O sistema inicia até a tela de login ou o prompt de comando.
+A luz de energia fica firme e não aparece aviso de sub tensão.
+
+FONTES
+------
+Documentação oficial da Fundação Raspberry Pi (alimentação, sub tensão,
+preparação do cartão e desligamento). Prática consolidada de uso offline.

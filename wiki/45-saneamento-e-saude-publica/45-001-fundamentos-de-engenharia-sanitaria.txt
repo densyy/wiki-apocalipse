@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 45-001
+TITULO: Como aplicar fundamentos de engenharia sanitária no abrigo
+CATEGORIA: 45 - Engenharia de saneamento e saúde pública
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: água, recipientes tampados, sabão, hipoclorito ou fonte de calor
+REVISAO: 2026-11
+PALAVRAS-CHAVE: saneamento, esgoto, água, latrina, higiene, vetor, abrigo
+==============================================================================
+
+OBJETIVO
+---------
+Montar um esquema de água limpa e esgoto que reduza doenças no abrigo.
+
+QUANDO USAR
+-----------
+Ao ocupar um abrigo, acampamento ou casa sem rede de água e esgoto.
+Depois de enchente, quando poços e fossas podem estar contaminados.
+Quando várias pessoas dividem o mesmo espaço por mais de um dia.
+Ao organizar o fluxo de água antes de cavar latrina ou cisterna.
+
+NAO USE QUANDO
+--------------
+Quando houver serviço público de água e esgoto funcionando e testado.
+Quando a água tiver cheiro de combustível, solvente ou agrotóxico.
+Nesse caso, não trate com fervura ou cloro: procure outra fonte e ajuda.
+
+MATERIAIS
+---------
+- Recipientes limpos com tampa para água (balde com tampa improvisada).
+- Sabão ou detergente para lavar as mãos.
+- Hipoclorito de sódio com concentração conhecida no rótulo (fervura).
+- Pano limpo ou filtro de papel para coar água turva.
+- Corda ou estaca para marcar as zonas do abrigo.
+- Balde com tampa para recolher fezes e resíduo (saco resistente).
+- Luvas e pano para limpar respingos, se houver hipoclorito.
+
+PROCEDIMENTO
+------------
+1. Escolha o ponto de água mais limpo e mais alto do terreno.
+2. Marque esse ponto como "água limpa" com estaca ou corda.
+3. Defina a direção do escoamento da água da chuva no terreno.
+4. Instale a latrina no ponto mais baixo e a jusante da fonte de água.
+5. Mantenha a latrina a aproximadamente 30 metros da fonte de água.
+6. Não cave a latrina onde a água subterrânea apareça na escavação.
+7. Cubra as fezes com terra ou cal após cada uso, se não houver fossa.
+8. Coe a água turva com pano limpo antes de tratar.
+9. Ferva a água coada em ebulição forte por 1 minuto.
+10. Acima de 1000 metros de altitude, ferva por 3 minutos.
+11. Se não houver calor, use hipoclorito a 6%: 2 gotas por litro.
+12. Mexa com colher limpa e espere 30 minutos antes de usar.
+13. Guarde a água tratada somente em recipiente limpo e tampado.
+14. Não toque dentro do recipiente com mão, concha ou pano sujo.
+15. Monte um ponto de lavar as mãos com água tratada e sabão.
+16. Lave as mãos antes de comer e depois de usar a latrina.
+17. Tampe os recipientes de água e de lixo contra insetos.
+18. Encha ou drene poças paradas perto do abrigo para reduzir vetores.
+19. Nunca despeje fezes, resíduo ou químico no ponto de água.
+
+ATENCAO
+-------
+Ferver ou clorar não remove metal, sal, agrotóxico nem combustível.
+Com cheiro químico, descarte a água e procure outra fonte.
+Hipoclorito concentrado irrita olhos e pele; use luvas e ventilação.
+Não misture hipoclorito com amônia, vinagre ou outros produtos.
+A distância de 30 metros é referência geral, não garantia de segurança.
+Em solo muito permeável ou lençol de água alto, aumente a distância.
+Sem tratamento, a água pode transmitir cólera, disenteria e tifoide.
+Se aparecer diarreia com sangue ou vômito no grupo, isole o ponto de água.
+Procure ajuda se a fonte tiver cheiro ou houver esgoto por perto.
+
+SE NAO TIVER
+------------
+Sem hipoclorito, ferver a água é o processo mais seguro disponível.
+Sem recipiente com tampa, use pano limpo preso com corda como cobertura.
+Sem sabão, esfregue as mãos com água tratada e atrito forte.
+Sem espaço para 30 metros, leve a latrina para o ponto mais alto possível.
+Nunca improvise latrina dentro da área de armazenamento de água.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água tratada ficou em recipiente tampado e sem contato com as mãos.
+A latrina fica a jusante e abaixo do ponto de captação de água.
+Há sabão e água tratada no ponto de lavar as mãos.
+Não há fezes, lixo ou água parada a menos de alguns passos da água.
+Ninguém do grupo apresentou diarreia após o primeiro dia de uso.
+
+FONTES
+------
+Princípios de saneamento e qualidade da água: OMS, Saneamento (2026) e
+Água potável (2026). Desinfecção de emergência: EPA, Emergency
+Disinfection of Drinking Water (2026). A distância de 30 metros é
+prática consolidada de saneamento rural, sem documento único citado.
+Este resumo é operacional e não substitui treinamento técnico.

@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 08-035
+TITULO: Como realizar brasagem
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: maçarico, vareta, fundente, luvas, óculos, extintor, ventilação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: brasagem, solda forte, solda prateada, maçarico, fundente
+==============================================================================
+
+OBJETIVO
+--------
+Unir duas peças de metal com metal de adição fundido, sem derreter as peças.
+
+QUANDO USAR
+-----------
+Quando um tubo de água, de combustível ou de refrigeração está furado.
+Quando é preciso prender uma conexão, um bico ou uma ferragem.
+Quando as peças são de metais diferentes, como cobre e aço.
+Quando a peça não pode ser aquecida até derreter.
+
+NAO USE QUANDO
+--------------
+Há revestimento de zinco, cádmio ou tinta desconhecida na junta.
+A peça vai suportar pressão alta ou carga estrutural sem ensaio.
+Não há ventilação, extintor ou proteção para os olhos.
+Não é possível identificar os metais nem escolher a vareta certa.
+
+MATERIAIS
+---------
+- Maçarico a gás com regulador e mangueiras sem vazamento.
+- Vareta de metal de adição compatível com os metais da junta.
+- Fundente em pasta, próprio para a vareta e para os metais.
+- Luvas de couro, óculos com filtro escuro e avental.
+- Lixa ou escova de arame, pano limpo e água morna com detergente.
+- Extintor de incêndio ou balde de água e área bem ventilada.
+- Suporte de tijolo refratário para manter as peças imóveis.
+
+PROCEDIMENTO
+------------
+1. Escolha a vareta e o fundente indicados para os metais da junta.
+2. Retire óleo, graxa, tinta e oxidação das duas superfícies com lixa.
+3. Limpe o pó com pano limpo e não toque a área limpa com os dedos.
+4. Encaixe as peças com folga de aproximadamente 0,05 a 0,08 mm.
+5. Fixe a posição com o próprio peso da peça ou com tijolo refratário.
+6. Espalhe camada fina de fundente nas duas superfícies da junta.
+7. Afaste inflamáveis, abra a ventilação e deixe o extintor por perto.
+8. Calce luvas, óculos e avental; afaste outras pessoas do local.
+9. Regule o maçarico para chama neutra ou levemente redutora.
+10. Aqueça as duas peças com movimento de vaivém junto da junta.
+11. Dê mais calor à peça maior ou à que conduz melhor o calor.
+12. Pare o aquecimento quando o fundente ficar transparente e fluido.
+13. Encoste a vareta na junta, sem colocar a vareta na chama.
+14. Deixe o calor da peça derreter a vareta dentro da folga.
+15. Retire a vareta assim que a junta estiver preenchida.
+16. Retire a chama e deixe a peça esfriar em repouso, sem mergulhar.
+17. Escove a junta com água morna e detergente e seque bem.
+
+ATENCAO
+-------
+A chama queima e o metal fica incandescente: use luvas, óculos e avental.
+Nunca aponte a chama para o corpo, para mangueiras ou para inflamáveis.
+Vazamento de gás causa incêndio violento: confira regulador e mangueiras.
+Nunca use óleo ou graxa nas conexões de oxigênio do maçarico.
+Fundente e metais como cádmio, zinco e chumbo soltam fumos tóxicos.
+Mantenha o rosto fora da fumaça e ventile o ambiente o tempo todo.
+Nunca aqueça a vareta diretamente na chama: pode liberar óxido de cádmio.
+Não braze peças galvanizadas ou com tinta desconhecida.
+Fogo em lugar fechado produz monóxido de carbono: ventile sempre.
+Resíduo de fundente corrói o metal: remova-o após o resfriamento.
+Pare e saia para o ar livre se sentir tontura ou ardência nos olhos.
+
+SE NAO TIVER
+------------
+Sem fundente, use vareta de cobre-fosforo apenas para cobre com cobre.
+Sem maçarico próprio, butano pode servir em juntas pequenas de cobre.
+Nunca use acetileno em equipamento que não foi feito para acetileno.
+Para aço ou peças grandes, não improvise: o calor não será suficiente.
+Sem óculos de proteção, não braze: a luz da chama danifica a visão.
+Sem vareta compatível, não use arame de solda elétrica como substituto.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O fundente ficou transparente antes de a vareta derreter.
+A vareta derreteu ao toque da peça quente, não na chama.
+O metal de adição preencheu toda a folga, sem falhas secas.
+O cordão da junta é contínuo, brilhante e sem poros.
+Depois da escovação não resta crosta de fundente na junta.
+
+FONTES
+------
+American Welding Society (AWS), Brazing Handbook, volumes 1 e 2.
+AWS A3.0M/A3.0, Standard Welding Terms and Definitions.
+NIOSH/HEW, Working with Silver, publicação 75-133.
+Lucas-Milhaupt, Brazing Tips and Techniques.
+Harris Products Group, Guide to Brazing and Soldering.
+ANSI Z49.1, Safety in Welding, Cutting and Allied Processes.
+Manuais técnicos de fabricantes sobre folga e limpeza pós-brasagem.

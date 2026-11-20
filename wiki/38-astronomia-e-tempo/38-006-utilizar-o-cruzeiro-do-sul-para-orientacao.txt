@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 38-006
+TITULO: Como utilizar o Cruzeiro do Sul para orientação
+CATEGORIA: 38 - Astronomia e medição do tempo
+TEMPO: 10 minutos
+RISCO: medio
+EXIGE: céu limpo e escuro, horizonte sul visível
+REVISAO: 2026-11
+PALAVRAS-CHAVE: cruzeiro do sul, sul, orientação, acrux, gacrux, ponteiras
+==============================================================================
+
+OBJETIVO
+--------
+Encontrar a direção sul no céu noturno para orientar a caminhada.
+
+QUANDO USAR
+-----------
+Quando não houver bússola ou ela estiver duvidosa.
+Quando estiver escuro e o céu estiver limpo.
+Quando você estiver no Hemisfério Sul sem referências no terreno.
+Quando precisar conferir a rota antes de seguir viagem.
+
+NAO USE QUANDO
+--------------
+Quando o céu estiver nublado, com névoa ou luz artificial forte.
+Quando estiver no Hemisfério Norte: use a Estrela Polar.
+
+MATERIAIS
+---------
+- Nenhum material.
+- Céu limpo e escuro.
+
+PROCEDIMENTO
+------------
+1. Espere a noite escurecer e afaste-se de luzes fortes.
+2. Localize quatro estrelas brilhantes em forma de cruz no céu.
+3. Identifique Acrux na ponta inferior e Gacrux na superior.
+4. Localize Alfa e Beta Centauri, as Ponteiras que apontam à cruz.
+5. Trace uma linha imaginária de Gacrux até Acrux.
+6. Prolongue além de Acrux por aproximadamente 4,5 vezes o eixo.
+7. Marque o ponto: Polo Sul Celeste, centro da rotação estelar.
+8. Estenda a linha até o horizonte: ali fica o sul ao caminhar.
+
+ATENCAO
+-------
+O método só vale no Hemisfério Sul; no Norte, use a Polar.
+Não confunda com a Falsa Cruz, maior e mais fraca, sem Ginan.
+A projeção dá ponto aproximado: não há estrela brilhante no polo.
+Gacrux é a mais fraca: nuvens, névoa e lua escondem a ponta.
+Se errar o traço, refaça antes de caminhar.
+Erro de direção em terreno hostil pode matar: pare e espere o dia.
+
+SE NAO TIVER
+------------
+Sem Ponteiras, use só o eixo Gacrux-Acrux.
+Sem estrelas, espere o dia e use o Sol como referência.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A cruz aparece nítida, com Gacrux avermelhada no topo.
+O ponto marcado não tem estrela brilhante por perto.
+As estrelas ao redor giram em arcos curtos em torno dele.
+
+FONTES
+------
+Prática consolidada de navegação celeste no Hemisfério Sul.
+Pista: Wikipédia, verbete Crux, que cita Grainger (Don't die in
+the Bundu, 1969) e Bagnall (The Star Atlas Companion, 2012).
+Os dois livros citados não foram consultados diretamente.

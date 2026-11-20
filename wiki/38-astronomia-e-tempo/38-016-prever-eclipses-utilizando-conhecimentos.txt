@@ -1,0 +1,86 @@
+==============================================================================
+CODIGO: 38-016
+TITULO: Como prever eclipses utilizando conhecimentos astronômicos
+CATEGORIA: 38 - Astronomia e medição do tempo
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: caderno, lápis, calendário das fases da Lua
+REVISAO: 2026-11
+PALAVRAS-CHAVE: eclipse, lua, sol, saros, prever, nó, fase, astronomia
+==============================================================================
+
+OBJETIVO
+--------
+Estimar janelas de possíveis eclipses e repetir um eclipse já visto.
+
+QUANDO USAR
+-----------
+Quando quiser saber em quais meses do ano pode haver eclipse.
+Quando tiver visto um eclipse e quiser estimar outro semelhante.
+Quando não houver internet, aplicativo ou tabela de efemérides.
+Para planejar com antecedência uma observação segura.
+Para conferir se uma data anunciada é plausível.
+
+NAO USE QUANDO
+--------------
+Quando precisar de horário exato, tipo do eclipse ou faixa de visibilidade.
+Quando houver previsão de observatório ou efeméride confiável: use-a.
+Para decidir se é seguro olhar para o Sol: não protege os olhos.
+
+MATERIAIS
+---------
+- Caderno e lápis para registrar as datas.
+- Calendário com as fases da Lua (ou observe a Lua por um mês).
+- Data de um eclipse já visto, se houver (ou comece pelas janelas).
+- Noção visual das fases da Lua: cheia é redonda, nova é invisível.
+
+PROCEDIMENTO
+------------
+1. Anote no caderno as datas de lua nova e lua cheia do ano.
+2. Marque a data da última lua nova que você observou.
+3. Some aproximadamente 173 dias para estimar o meio da próxima janela.
+4. Some aproximadamente 173 dias de novo para a janela seguinte.
+5. Repita a soma para cobrir os meses seguintes do calendário.
+6. Observe se uma lua nova ou uma lua cheia cai dentro de cada janela.
+7. Registre a janela como candidata a eclipse solar ou lunar.
+8. Descarte a janela se a lua nova ou cheia ficar fora dela.
+9. Anote a data de um eclipse que você presenciou, se houver.
+10. Some 18 anos, 11 dias e 8 horas para estimar a próxima data da série.
+11. Some 54 anos e 34 dias para estimar um eclipse na mesma região.
+12. Escreva "aproximado" ao lado de toda data estimada.
+
+ATENCAO
+-------
+O ciclo de 173 dias indica chance, não eclipse visível no seu local.
+Sempre ocorre eclipse solar em cada janela, mas pode ser invisível daqui.
+O Saros repete a geometria, não o horário, o tipo nem o lugar exato.
+A cada Saros, a faixa desloca-se aproximadamente 120 graus para oeste.
+Só três Saros devolvem o eclipse a uma região semelhante.
+Nunca olhe diretamente para o Sol fora da breve fase de totalidade.
+Isso pode causar lesão ocular grave e permanente, sem dor imediata.
+Óculos de sol comuns, mesmo muito escuros, não protegem os olhos.
+Use apenas óculos de eclipse conforme o padrão ISO 12312-2.
+Nunca use óculos de eclipse com câmera, binóculo ou telescópio.
+Pare e procure ajuda se sentir ardência ou visão turva após observar.
+
+SE NAO TIVER
+------------
+Sem calendário de fases, observe a Lua por aproximadamente 30 noites.
+Sem data de eclipse anterior, comece apenas pelas janelas de 173 dias.
+Sem óculos de eclipse, use projeção indireta com um furo no papel.
+Com o Sol às costas, projete a imagem em papel branco e olhe a imagem.
+Nunca olhe através do furo, nem diretamente para o Sol.
+Sem nenhum desses recursos, não observe o Sol: espere fonte confiável.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O caderno traz pelo menos duas janelas futuras marcadas com data aproximada.
+Há uma data futura estimada por Saros, escrita como aproximada.
+Na janela marcada, você registra uma lua nova ou cheia real.
+Nenhuma observação do Sol foi feita sem proteção adequada.
+
+FONTES
+------
+Periodicity of Solar Eclipses e Eclipses and the Saros, de Fred Espenak,
+NASA Goddard Space Flight Center; orientações de segurança visual da NASA
+sobre observação de eclipses. Estimativa aproximada, não substitui tabelas.

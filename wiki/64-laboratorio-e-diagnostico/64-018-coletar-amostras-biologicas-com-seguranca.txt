@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 64-018
+TITULO: Como coletar amostras biológicas com segurança
+CATEGORIA: 64 - Laboratório, diagnóstico e análises
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: luvas, jaleco, máscara, óculos, frasco rígido tampado, desinfetante
+REVISAO: 2026-11
+PALAVRAS-CHAVE: amostra, sangue, coleta, EPI, transporte, biossegurança
+==============================================================================
+
+OBJETIVO
+--------
+Coletar, identificar e acondicionar material biológico sem contaminar
+pessoas, superfícies ou transporte.
+
+QUANDO USAR
+-----------
+Ao coletar sangue, soro, urina, escarro ou swab para exame.
+Ao preparar amostra para envio a laboratório de referência.
+Ao atender pessoa com suspeita de doença infecciosa.
+Ao receber e conferir amostra coletada em outro local.
+Ao organizar a coleta em unidade de saúde ou posto de atendimento.
+
+NAO USE QUANDO
+--------------
+Não colete sem EPI completo, sem recipiente adequado ou sem treinamento.
+Não manipule amostra suspeita de agente de alta consequência sem
+contenção própria; encaminhe ao laboratório de referência.
+Não use este procedimento para coleta invasiva em casa ou sem supervisão.
+
+MATERIAIS
+---------
+- Luvas descartáveis de nitrilo (ou vinilo).
+- Jaleco, máscara cirúrgica e óculos de proteção.
+- Recipiente rígido tampado e à prova de vazamento (tubo com rosca).
+- Material estéril de uso único (swab, tubo, agulha).
+- Recipiente rígido com tampa para perfurocortantes.
+- Desinfetante hospitalar ou água sanitária diluída a 1% de cloro ativo.
+- Papel toalha, saco plástico vedável, etiqueta e caneta impermeável.
+- Requisição e, se exigido, caixa térmica com gelo reciclável.
+
+PROCEDIMENTO
+------------
+1. Confira a requisição e deixe o material preparado antes de começar.
+2. Lave as mãos com água e sabão e seque com papel descartável.
+3. Calce luvas, jaleco, máscara e óculos antes de tocar no material.
+4. Colete a amostra com material estéril de uso único.
+5. Feche o recipiente sem tocar a boca ou o interior da tampa.
+6. Limpe o exterior com papel toalha; não passe desinfetante no tubo.
+7. Identifique na etiqueta: nome, data, hora e tipo de amostra.
+8. Descarte agulhas e lâminas no recipiente rígido para perfurocortantes.
+9. Nunca reencape agulhas nem desmonte lâminas com as mãos.
+10. Envolva o recipiente em papel toalha e coloque em saco vedável.
+11. Fixe a requisição no exterior da embalagem, dentro de saco plástico.
+12. Acondicione na vertical em caixa térmica se exigir refrigeração.
+13. Feche a caixa e identifique remetente, destinatário e risco biológico.
+14. Desinfete a bancada, retire as luvas e lave as mãos com água e sabão.
+15. Anote no caderno a data, o tipo de amostra, o destino e incidentes.
+
+ATENCAO
+-------
+Toda amostra é tratada como potencialmente infectante, mesmo sem suspeita.
+Acidentes comuns: reencapar agulhas, manusear vidro quebrado e transportar
+recipiente aberto. Prefira plástico com tampa de rosca ao vidro.
+Em vazamento, pare, desinfete a área e lave com água corrente e sabão.
+Se houve ferimento ou respingo em olho ou boca, procure urgência e
+informe o material envolvido. Refrigeração conserva, mas não reduz o
+risco biológico. Não ponha documentos dentro da embalagem secundária.
+Nunca descarte perfurocortantes em lixo comum. Sem treinamento ou
+contenção, não manipule agente de alta consequência: envie ao
+laboratório de referência.
+
+SE NAO TIVER
+------------
+Sem caixa térmica, leve a amostra ao laboratório o mais rápido possível
+e mantenha o recipiente rígido ao abrigo de calor e de impacto.
+Sem desinfetante registrado, use água sanitária diluída a 1% de cloro
+ativo, preparada no dia e nunca misturada a outros produtos.
+Sem EPI completo, não colete: encaminhe a pessoa a um serviço de saúde.
+Não improvise com pote de comida ou garrafa de vidro: vazamento contamina.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A amostra está em recipiente íntegro, fechado, sem vazamento e com
+etiqueta legível com nome, data, hora e tipo de material.
+A requisição acompanha a amostra fora do recipiente secundário.
+A bancada foi desinfetada e os perfurocortantes estão no recipiente rígido.
+
+FONTES
+------
+Anvisa: Guia 19/2019 (versão 3, 2022) e RDC 222/2018 sobre amostras e
+resíduos de serviços de saúde. Ministério da Saúde: Biossegurança em
+Laboratórios Biomédicos e de Microbiologia e Guia de Vigilância em Saúde.
+OMS: Manual de Biossegurança de Laboratório, 4a edição, e guias de coleta.
+Resumo operacional; não substitui treinamento nem o protocolo local.

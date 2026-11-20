@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 65-003
+TITULO: Como compreender fadiga de materiais
+CATEGORIA: 65 - Engenharia de materiais e polímeros
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: luz forte, pano limpo, lupa ou lente de aumento
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fadiga, trinca, rachadura, metal, rompimento, ciclos
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer sinais de fadiga em peças metálicas e decidir quando retirar
+uma peça de uso antes que ela rompa.
+
+QUANDO USAR
+-----------
+Quando uma peça metálica repete esforço: pedal, guidão, alavanca, escada.
+Quando aparece rachadura fina perto de solda, furo, curva ou arranhão.
+Quando a peça ficou muito tempo em vibração, impacto ou carga variável.
+Quando a falha da peça pode causar queda, lesão ou perda de controle.
+Antes de reutilizar peça que sofreu sobrecarga ou ficou solta.
+
+NAO USE QUANDO
+--------------
+Não use esta inspeção visual para liberar peça crítica de aeronave,
+guindaste, elevador, freio ou amarração de carga. Isso exige ensaio
+não destrutivo e análise de engenheiro. Na dúvida, troque a peça.
+
+MATERIAIS
+---------
+- Luz forte, de dia ou lanterna.
+- Pano limpo e seco.
+- Lupa ou lente de aumento (a lente do celular serve).
+- Caderno e lápis para anotar local, tamanho e data.
+- Régua ou fita métrica para medir a trinca.
+
+PROCEDIMENTO
+------------
+1. Identifique a peça e anote que esforço ela repete e quem depende dela.
+2. Limpe a superfície com pano seco; tire poeira, óleo e ferrugem solta.
+3. Ilumine a peça com luz forte de lado, em ângulo rasante.
+4. Olhe primeiro os pontos onde a tensão se concentra: solda, furo,
+   canto, curva, arranhão e raiz de parafuso.
+5. Procure rachadura fina, escura e reta, na direção contrária ao
+   esforço principal.
+6. Aproxime a lupa para separar trinca de risco de pintura ou sujeira.
+7. Se a peça já rompeu, olhe a fratura: arcos curvos, as marcas de praia,
+   mostram que a trinca cresceu devagar por muitos ciclos.
+8. Meça o comprimento da trinca e anote no caderno com a data.
+9. Repita a inspeção em intervalos regulares se a peça continuar em uso.
+10. Se a trinca crescer ou a peça for crítica, pare de usar e substitua.
+
+ATENCAO
+-------
+A fadiga não avisa: a peça rompe de repente, com esforço menor do que
+o que o material aguenta quando a carga é parada.
+Alumínio e cobre não têm limite de fadiga. Para eles não existe carga
+"segura para sempre"; conte a vida em ciclos e troque no prazo.
+Aço pode ter limite de fadiga, mas risco, solda e corrosão criam pontos
+onde a trinca nasce mesmo abaixo desse limite.
+Na fase inicial a trinca corre em ângulo aproximado de 45 graus; depois
+ela gira e fica perpendicular ao esforço de tração.
+O erro mais perigoso é tratar marcas de praia como sujeira e continuar
+usando a peça.
+Nunca aqueça, solde ou dobre peça trincada para "recuperar": isso muda
+a tensão e pode apressar a ruptura.
+Se a trinca cresce entre inspeções, ou se a peça segura peso de pessoa,
+pare de usar e procure peça nova ou ajuda.
+Inspeção visual não vê trinca interna. Dúvida significa trocar.
+
+SE NAO TIVER
+------------
+Sem lupa, use a lente do celular e luz bem de lado; a confiança cai.
+Sem luz forte, espere o dia claro ou arranje lanterna; não inspecione
+no escuro.
+Sem peça substituta, reduza carga e ciclos, tire de uso a peça crítica
+e arranje ajuda. Não improvise solda em peça trincada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A superfície limpa deixa ver com clareza se há ou não traço de trinca
+nos pontos de concentração de tensão.
+Você anotou local, comprimento e data, e decidiu entre usar, observar
+ou trocar a peça.
+A peça crítica trincada saiu de uso antes de novo carregamento.
+
+FONTES
+------
+Prática consolidada de engenharia de materiais e mecânica da fratura.
+Consultados: NASA-HDBK-5026 (fadiga e fratura); relatório NASA NTRS
+sobre análise de fadiga e propagação de trincas; notas de Mechanics of
+Materials do MIT; apostila de propriedades mecânicas da UFSC e textos
+de fadiga da UFPR e da USP. Resumo operacional: não substitui ensaio
+não destrutivo nem análise de engenheiro.

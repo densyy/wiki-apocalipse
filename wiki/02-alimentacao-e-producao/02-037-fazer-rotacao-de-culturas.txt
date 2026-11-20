@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 02-037
+TITULO: Como fazer rotação de culturas
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 60 minutos
+RISCO: baixo
+EXIGE: canteiros ou vasos, sementes de famílias distintas, caderno
+REVISAO: 2026-11
+PALAVRAS-CHAVE: rotação, horta, canteiro, família, leguminosa, pragas
+==============================================================================
+
+OBJETIVO
+--------
+Planejar a troca de hortaliças na mesma área para manter o solo fértil.
+
+QUANDO USAR
+-----------
+Quando a horta vai ser plantada por mais de uma safra.
+Quando uma cultura voltou com doença ou praga no canteiro.
+
+NAO USE QUANDO
+--------------
+Não use como cura de solo com óleo, tinta ou agrotóxico.
+Não espere que a rotação elimine doença já instalada na área.
+
+MATERIAIS
+---------
+- Canteiros, vasos ou caixas com número escrito.
+- Caderno para registrar o que foi plantado em cada área.
+- Sementes de famílias distintas, água limpa e palha (mato picado).
+
+PROCEDIMENTO
+------------
+1. Desenhe no papel cada canteiro, vaso ou caixa da horta.
+2. Anote o que cresce em cada área e o que cresceu na safra passada.
+3. Separe as hortaliças por família, o grupo de plantas aparentadas.
+4. Anote: solanáceas (tomate, batata, pimenta, jiló), fabáceas (feijão,
+   fava), aliáceas (cebola, alho), apiáceas (cenoura, coentro).
+5. Anote: cucurbitáceas (abóbora, pepino), brassicáceas (couve, brócolis,
+   rabanete), asteráceas (alface), gramíneas (milho, aveia, milheto).
+6. Escolha para cada área uma família diferente da anterior.
+7. Alterne folhas, raízes e frutos: alface, cebola, vagem, alface.
+8. Intercale leguminosas e gramíneas entre as hortaliças de fruto.
+9. Retire restos de plantas doentes antes de revolver a terra.
+10. Registre no caderno a família plantada e a data em cada área.
+11. Regue e cubra o solo com palha depois do plantio.
+
+ATENCAO
+-------
+Repetir a mesma família alimenta o patógeno no solo.
+Patógenos de solo sobrevivem anos; a rotação só reduz o risco.
+Não enterre restos de plantas doentes: isso espalha o patógeno.
+Se a planta murchar ou apodrecer de novo, pare e procure um agrônomo.
+
+SE NAO TIVER
+------------
+Sem espaço para vários canteiros, use vasos ou caixas numeradas.
+Sem muda de outra família, plante cebola depois de tomate ou batata.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada área está identificada no caderno com a família da safra atual.
+As plantas crescem sem murcha nem podridão no colo após a troca.
+
+FONTES
+------
+Embrapa: "Rotação e sucessão de culturas em hortaliças cultivadas em
+pequenas áreas no manejo de doenças", Circular Técnica 152, 2016.
+Embrapa Ageitec: "Conceitos e Benefícios da Rotação de Cultura".
+MAPA: ficha agroecológica "Rotação de culturas em hortaliças", 2013.

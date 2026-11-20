@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 41-018
+TITULO: Como realizar manutenção de velas náuticas
+CATEGORIA: 41 - Navegação avançada e técnicas de expedição
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: água doce, pano macio, sabão neutro, lugar para estender a vela
+REVISAO: 2026-11
+PALAVRAS-CHAVE: vela, limpeza, mofo, reparo, costura, sal, UV, fita
+==============================================================================
+
+OBJETIVO
+--------
+Inspecionar, limpar e reparar a vela para prolongar sua vida útil.
+
+QUANDO USAR
+-----------
+Ao voltar de navegar em água salgada.
+Antes de viagem longa ou de uma regata.
+
+NAO USE QUANDO
+--------------
+Rasgo no grátil, na baluma ou no canto exige reparo em velería.
+Se o tecido for laminado ou de aramida: não costure nem use lixívia.
+
+MATERIAIS
+---------
+- Água doce em balde ou mangueira de baixa pressão.
+- Sabão neutro de pH neutro e pano macio.
+- Fita adesiva de reparo de vela (em emergência, fita comum).
+- Agulha de vela, linha encerada e álcool isopropílico.
+- Superfície limpa, plana e sombreada para estender a vela.
+
+PROCEDIMENTO
+------------
+1. Desembarque a vela ou arrie-a em local seguro, fora do vento forte.
+2. Estenda-a em superfície limpa, plana e na sombra.
+3. Enxágue toda a vela com água doce para tirar sal, areia e sujeira.
+4. Examine as costuras, os cantos, os bolsões das talas e as ferragens.
+5. Limpe manchas com pano macio e sabão neutro, sem esfregar com força.
+6. Para mofo em poliéster, use lixívia diluída e enxágue bem depois.
+7. Limpe o rasgo com álcool e deixe secar por completo.
+8. Cole fita de reparo nos dois lados da vela em rasgos pequenos.
+9. Costure rasgos acima de aproximadamente 10 cm com agulha e linha.
+10. Reforce zonas de atrito com parche e troque as talas rachadas.
+11. Afrouxe a driça se for guardar enrolada.
+12. Seque por completo, dobre variando as dobras e guarde em local arejado.
+
+ATENCAO
+-------
+Nunca use lixívia em nylon, aramida ou laminado: destrói fibras e cola.
+Não use hidrojato: a alta pressão rompe o tecido e as costuras.
+Sal retém umidade; vela molhada guardada cria mofo em poucos dias.
+Rasgo no grátil ou na baluma pode ceder no mar: busque um velerista.
+Vela estendida ao vento vira vela e pode voar: prenda-a e peça ajuda.
+
+SE NAO TIVER
+------------
+Sem fita de vela, use fita adesiva comum e repare de vez em terra.
+Sem água doce, passe pano úmido e priorize secar antes de guardar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A vela está sem sal visível, seca ao toque e sem cheiro de mofo.
+Costuras íntegras, fita aderida nos dois lados, talas sem rachas.
+
+FONTES
+------
+World Sailing, livreto "Limpeza e Manutenção de Barcos" (2020); manuais
+de North Sails, Quantum, OneSails e UK Sailmakers. Prática consolidada.

@@ -1,0 +1,90 @@
+==============================================================================
+CODIGO: 13-029
+TITULO: Como utilizar microscópios simples
+CATEGORIA: 13 - Química e conhecimentos científicos aplicados
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: lupa ou microscópio simples, lâminas, água, boa luz
+REVISAO: 2026-11
+PALAVRAS-CHAVE: microscópio, lupa, lente, foco, lâmina, gota, ampliar
+==============================================================================
+
+OBJETIVO
+--------
+Amplie detalhes de objetos pequenos com uma lente única, com segurança.
+
+QUANDO USAR
+-----------
+Preciso ver grãos, cristais e folhas pequenas sem energia elétrica.
+Quero observar uma gota de água ou outro líquido em uma lâmina.
+Tenho apenas uma lupa de bolso e não há laboratório por perto.
+Preciso conferir detalhes de uma amostra antes de decidir como agir.
+
+NAO USE QUANDO
+--------------
+Nunca observe o sol ou luz intensa: a lente concentra luz e queima o olho.
+Não examine sangue, saliva, feridas ou água desconhecida sem proteção.
+Se a lâmina ou a lente estiver rachada, descarte o vidro danificado.
+Se a amostra soltar pó ou vapor suspeito, não aproxime o rosto.
+
+MATERIAIS
+---------
+- Microscópio simples (lente única em suporte) ou lupa de bolso de 5x a 10x.
+- Lâminas e lamínulas intactas (plástico transparente em lugar da lâmina).
+- Conta-gotas ou pipeta (palito limpo pode transferir a gota).
+- Água limpa e papel absorvente.
+- Pano macio ou papel de lente para limpar a lente.
+- Boa luz: janela clara ou lanterna, nunca sol direto.
+- Caderno e lápis para desenhar o que vê.
+
+PROCEDIMENTO
+------------
+1. Limpe a lente, o espelho e a plataforma com pano macio e seco.
+2. Confira se a lâmina e a lamínula estão inteiras; descarte vidro rachado.
+3. Segure a lâmina pelas bordas, sem tocar na face central.
+4. Coloque o objeto seco no centro da lâmina, o mais fino possível.
+5. Para material úmido, pingue uma gota de água sobre a amostra.
+6. Apoie uma borda da lamínula na gota e abaixe-a devagar, em ângulo.
+7. Não pressione a lamínula; retire o excesso com papel absorvente.
+8. Prenda a lâmina na plataforma com as presilhas, sem forçar.
+9. Ajuste o espelho ou a luz até o campo ficar uniformemente claro.
+10. Olhe de lado e aproxime a lente com o foco, sem tocar no vidro.
+11. Olhe pela lente e gire o foco devagar até a imagem ficar nítida.
+12. Se usar lupa de mão, encoste-a no olho e aproxime o objeto até focar.
+13. Mova a amostra em linhas paralelas para varrer toda a área.
+14. Anote forma, cor e tamanho aproximado do que aparece repetido.
+15. Ao terminar, afaste a lente, retire a lâmina e limpe tudo com pano seco.
+
+ATENCAO
+-------
+Nunca aponte a lente para o sol: a lente concentra luz e queima a retina.
+Lâmina, lamínula e lente rachadas cortam; segure pelas bordas e descarte.
+Não use para sangue, saliva, feridas, fezes, culturas ou água desconhecida.
+Não inale pó nem vapor da amostra; trabalhe em local ventilado.
+Imagem de cabeça para baixo ao afastar a lente é normal; refoque.
+Forçar o foco quebra a lâmina e risca a lente; pare ao sentir resistência.
+O aparelho só amplia: não identifica nem substitui análise química.
+Em dúvida sobre a amostra, pare e embale para levar a um laboratório.
+
+SE NAO TIVER
+------------
+Sem microscópio, use uma lupa: encoste no olho e mova o objeto até focar.
+Sem lupa, faça lente de gota d'água: pingue água em plástico transparente.
+Coloque o plástico sobre texto miúdo e levante até ampliar, com luz lateral.
+O ganho é de aproximadamente 2 a 4 vezes; não espere ver microrganismos.
+Sem lâmina, use plástico transparente limpo ou uma régua de plástico.
+Sem lamínula, cubra a gota com outro plástico e evite bolhas de ar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A imagem fica nítida e não treme quando você move levemente a cabeça.
+Detalhes invisíveis a olho nu, como nervuras, separam-se com clareza.
+A gota entre lâmina e lamínula não transborda e quase não há bolhas.
+
+FONTES
+------
+Manual de ciências do NCERT, classe IX: uso do microscópio simples.
+Royal Society of Chemistry, "Making a water magnifier": gota d'água.
+Florida State University, Molecular Expressions: lente de água e foco.
+"Exploring Microscopes": lente de água, foco e imagem invertida.
+CDC, "Focusing the Microscope": foco e montagem de lâmina úmida.

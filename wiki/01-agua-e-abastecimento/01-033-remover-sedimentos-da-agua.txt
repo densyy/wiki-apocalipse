@@ -1,0 +1,84 @@
+==============================================================================
+CODIGO: 01-033
+TITULO: Como remover sedimentos da água
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 15 minutos
+RISCO: medio
+EXIGE: dois recipientes limpos, pano limpo, tempo de repouso
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, barro, sedimento, turva, decantar, coar, filtrar
+==============================================================================
+
+OBJETIVO
+--------
+Retirar barro, areia e terra da água turva, deixando-a mais limpa e clara.
+
+QUANDO USAR
+-----------
+Quando a água estiver barrenta, com terra ou areia visível.
+Depois de chuva forte, quando rios e poços ficam lamacentos.
+Quando a água vier de rio, lago ou poço sem tratamento.
+Antes de ferver ou clorar, para o tratamento funcionar melhor.
+Quando o filtro entope com as partículas grandes da água.
+
+NAO USE QUANDO
+--------------
+Quando houver suspeita de contaminação química: combustível, agrotóxico,
+metal pesado ou material radioativo. Retirar sedimentos não remove esses
+contaminantes e pode dar falsa segurança.
+
+MATERIAIS
+---------
+- Recipiente limpo e alto para a água turva (balde ou garrafa).
+- Segundo recipiente limpo para receber a água clara (balde ou panela).
+- Pano limpo de trama fechada (filtro de café ou pano de prato limpo).
+- Local plano, limpo e sem poeira para deixar a água parada.
+- Tampa ou pano limpo para cobrir o recipiente final.
+
+PROCEDIMENTO
+------------
+1. Lave as mãos com água e sabão antes de começar.
+2. Encha o primeiro recipiente com a água turva até perto da borda.
+3. Coloque o recipiente no local plano e deixe parado, sem mexer.
+4. Espere aproximadamente 1 hora, ou até ver camada de lama no fundo.
+5. Observe a água mais clara em cima e o sedimento depositado embaixo.
+6. Incline o recipiente e despeje a água clara no segundo recipiente.
+7. Pare de despejar no instante em que a lama começar a subir.
+8. Prenda o pano limpo sobre a boca do segundo recipiente.
+9. Despeje a água pelo pano para reter as partículas restantes.
+10. Repita a coagem se a água ainda sair com grãos visíveis.
+11. Cubra o recipiente final e guarde a água em lugar limpo.
+
+ATENCAO
+-------
+Assentar e coar reduzem a turbidez, mas não matam microrganismos.
+Água clara pode continuar causando doença: desinfete antes de beber.
+Para tornar a água mais segura, ferva (veja 01-001) ou use cloro.
+Não mexa no fundo ao despejar: levantar a lama devolve o sedimento.
+Descarte a última parte da água, onde ficou concentrada a lama.
+Argila muito fina pode não assentar: este método tem limite.
+Com suspeita de esgoto, combustível ou agrotóxico, troque de fonte.
+Nunca guarde a água clarificada destampada perto de poeira ou insetos.
+
+SE NAO TIVER
+------------
+Sem pano, espere mais tempo e retire só a camada clara do topo.
+Sem segundo recipiente, use concha limpa para tirar a água de cima.
+Sem tempo de espera, coe duas vezes: ficará menos turva, mas ainda
+precisará de desinfecção antes do consumo.
+Não use jornal, papel higiênico nem pano sujo: eles soltam sujeira.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Formou-se uma camada de lama no fundo do primeiro recipiente.
+A água do topo ficou visivelmente mais clara que a água original.
+A água coada não mostra partículas em suspensão contra a luz.
+O fundo do recipiente final não apresenta depósito de terra.
+
+FONTES
+------
+Prática consolidada de clarificação de água em situações de emergência.
+Referências consultadas: capítulo "Water Disinfection for Travelers" do
+CDC Yellow Book (edição 2026); nota técnica da OMS sobre tratamento de
+emergência da água no ponto de uso (2013); guia "Água tratada em casa"
+do Ministério da Saúde do Brasil.

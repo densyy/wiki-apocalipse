@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 43-016
+TITULO: Como fabricar lã mineral
+CATEGORIA: 43 - Produção de materiais de construção
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: rocha ou escória triturada, forno industrial, proteção respiratória
+REVISAO: 2026-11
+PALAVRAS-CHAVE: lã mineral, lã de rocha, isolamento, fibra, forno, amianto
+==============================================================================
+
+OBJETIVO
+--------
+Preparar a matéria-prima e reconhecer as etapas reais da fabricação
+da lã mineral, sem tentar fundir rocha em casa.
+
+QUANDO USAR
+-----------
+Quando houver basalto, dolomita ou escória limpa e forno industrial.
+Quando for preciso isolamento térmico de forno, tubo ou parede.
+Quando houver sobra de lã mineral de demolição para reaproveitar.
+
+NAO USE QUANDO
+--------------
+Quando nao houver forno que atinja temperatura industrial.
+Sem ele nao ha fabricação.
+Quando nao houver máscara, oculos e luvas. As fibras ferem pulmão.
+Quando a rocha puder conter amianto, metal pesado ou resíduo químico.
+
+MATERIAIS
+---------
+- Basalto, dolomita ou escória sem amianto (nao use rocha duvidosa).
+- Marreta, britador e peneira (pedra e pano resistente).
+- Forno industrial de alta temperatura (sem substituto caseiro).
+- Jato de ar ou disco giratorio veloz (equipamento industrial).
+- Aglutinante e oleo redutor de poeira (usados na industria).
+- Máscara com filtro de particulas finas, oculos e luvas grossas.
+
+PROCEDIMENTO
+------------
+1. Escolha basalto, dolomita ou escória limpa, sem sinais de amianto.
+2. Quebre a rocha com marreta até virar cascalho de aproximadamente 2 cm.
+3. Retire terra, folhas e impurezas com peneira e agua limpa.
+4. Deixe o cascalho secar por completo ao sol ou em forno baixo.
+5. Coloque o cascalho no forno industrial que atinja cerca de 1600 C.
+6. Nao tente esta etapa em fogão a lenha, foguete ou forno de barro.
+7. Esses fornos nao alcancam a temperatura e causam queimadura e fogo.
+8. Direcione o jato de ar sobre a rocha fundida para formar as fibras.
+9. As fibras devem ter aproximadamente 2 a 6 micrometros de diâmetro.
+10. Mantenha máscara, oculos, luvas e roupa que cubra o corpo.
+11. Deixe a massa esfriar em area ventilada, longe de criancas.
+12. Recolha a massa com papel e coloque em saco resistente.
+13. Nao sacuda a massa seca para nao levantar po de fibra.
+14. Umedeca levemente a massa antes de compactar.
+15. Pressione a fibra em sacos ou moldes até formar mantas firmes.
+
+ATENCAO
+-------
+A fusao da rocha exige forno industrial de aproximadamente 1600 C.
+Forno caseiro nao chega perto dessa temperatura. Improvisar causa
+queimadura grave e incendio.
+As fibras soltas ferem pele, olhos e vias respiratorias. Coceira,
+vermelhidao e tosse sao sinais de exposicao.
+Use sempre máscara com filtro de particulas finas, oculos fechados,
+luvas e roupa que cubra o corpo.
+Nunca processe rocha com amianto: e cancerigena e exige equipe
+e licença especializadas.
+A IARC enquadra a lã de rocha e de vidro de isolamento como
+nao classificaveis quanto a cancerogenicidade humana. Fibras
+ceramicas refratarias sao possivelmente cancerigenas.
+Nao inale poeira de nenhuma delas.
+Pare na hora se houver falta de ar, tosse persistente ou
+irritacao ocular forte. Saia da area e procure ajuda medica.
+
+SE NAO TIVER
+------------
+Sem forno industrial, nao fabrica lã mineral. Nao substitua por
+queima de lixo ou forno de barro.
+Procure lã mineral de demolição ou isolamento descartado.
+Retire o po com pano umido, use os mesmos EPIs e reaproveite
+em sacos costurados.
+Para isolamento imediato sem lã mineral, use lã de ovelha, palha
+seca ou jornal compactado dentro de saco de pano. Sao alternativas,
+nao lã mineral.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A massa e leve, parece lã e nao solta po quando pressionada.
+A manta mantem a forma depois de compactada e nao mostra cascalho.
+
+FONTES
+------
+Pratica consolidada de fabricação industrial de lã mineral: rocha
+fundida a cerca de 1600 C e fibras de 2 a 6 micrometros.
+Classificação e limites de exposicao conforme IARC Monografias
+volume 81 (2002), NIOSH Pocket Guide to Chemical Hazards e
+limites ocupacionais da OSHA para fibras minerais. Este texto e
+resumo operacional e nao substitui treinamento nem projeto industrial.

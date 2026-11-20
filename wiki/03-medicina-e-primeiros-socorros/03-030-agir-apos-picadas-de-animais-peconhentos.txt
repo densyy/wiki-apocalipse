@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 03-030
+TITULO: Como agir após picadas de animais peçonhentos
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 20 minutos
+RISCO: critico
+EXIGE: água, sabão, pano limpo, material para imobilizar, ajuda médica
+REVISAO: 2026-11
+PALAVRAS-CHAVE: picada, cobra, escorpião, aranha, abelha, veneno, soro
+==============================================================================
+
+OBJETIVO
+--------
+Reduzir a propagação do veneno e levar a pessoa a atendimento com soro.
+
+QUANDO USAR
+-----------
+Mordida de cobra, mesmo sem dor ou inchaço aparente.
+Picada de escorpião, aranha, abelha, vespa, lacraia ou lagarta.
+Contato com águas-vivas ou caravelas.
+Qualquer picada suspeita em criança, gestante ou idoso.
+Pessoa com dor intensa, inchaço ou manchas depois de picada.
+
+NAO USE QUANDO
+--------------
+Não trate só em casa: toda picada suspeita precisa de avaliação médica.
+Não espere aparecerem sintomas para procurar atendimento.
+Não aplique gelo, torniquete, corte, sucção nem substância caseira.
+Isso não retira o veneno: aumenta a lesão e o risco de infecção.
+
+MATERIAIS
+---------
+- Água corrente e sabão para lavar o local (ou água limpa).
+- Pano limpo, gaze ou toalha limpa.
+- Algo para imobilizar o membro: tábua, jornal, cinto ou pano.
+- Lâmina, cartão ou pinça para retirar ferrão ou tentáculo.
+- Vinagre, se houver, para tentáculos de águas-vivas e caravelas.
+- Celular para ligar para o socorro e fotografar o animal.
+- Alguém para acompanhar e acionar o SAMU 192 ou Bombeiros 193.
+
+PROCEDIMENTO
+------------
+1. Afaste a pessoa do animal sem encostar nele com as mãos nuas.
+2. Não mate nem manuseie o animal: cobra decapitada ainda pode picar.
+3. Acalme a pessoa e diga para ela ficar deitada e imóvel.
+4. Peça a outra pessoa para ligar 192 (Samu) ou 193 (Bombeiros).
+5. Retire anéis, pulseiras, relógios, cinto e calçado apertado do membro.
+6. Imobilize o membro afetado com tábua, jornal ou pano, sem apertar.
+7. Mantenha o membro elevado, apoiado em pano ou mochila.
+8. Lave o local da picada com água corrente e sabão, com jato suave.
+9. Não lave com água doce se a causa for água-viva ou caravela.
+10. Retire o ferrão de abelha raspando com lâmina ou cartão, sem pinçar.
+11. Retire tentáculos com pinça, lâmina ou cartão; use vinagre depois.
+12. Cubra o local com pano limpo, frouxo, sem esfregar.
+13. Aplique compressa morna, não quente nem gelada, se houver dor.
+14. Não dê bebida, comida, café, álcool, querosene nem medicamento.
+15. Fotografe o animal de longe, se puder, sem atrasar a ida ao hospital.
+16. Leve a pessoa ao hospital mais próximo com soro antiveneno na região.
+17. Se ela vomitar ou perder a consciência, deite-a de lado, com a
+    cabeça virada, para não engasgar.
+18. Se parar de respirar, inicie RCP e continue até o socorro assumir.
+
+ATENCAO
+-------
+Veneno pode matar em poucas horas: o soro é o tratamento que salva.
+Nem toda picada dói ou incha; picada seca pode não injetar veneno.
+Nunca faça torniquete, garrote, corte, furo ou sucção no local.
+Nunca ponha gelo, folha, pó de café, terra, querosene ou gasolina.
+Isso não retira o veneno e causa infecção, necrose ou perda do membro.
+Crianças e idosos pioram mais rápido: procure atendimento primeiro.
+Sinais de gravidade: salivação, suor frio, tremor, agitação, vômito.
+Outros sinais: pálpebra caída, visão dupla, voz fraca, respiração ruim.
+Dor que aumenta, inchaço que sobe, urina escura ou sangue também alarmam.
+Se a pessoa desmaiar ou convulsionar, ligue 192 imediatamente.
+O soro é gratuito no SUS e só deve ser aplicado em hospital.
+
+SE NAO TIVER
+------------
+Sem tábua: imobilize o braço com pano preso ao tronco, sem apertar.
+Sem água e sabão: cubra com pano limpo e vá ao atendimento.
+Sem pinça: use lâmina ou cartão para retirar ferrão ou tentáculo.
+Sem vinagre: retire os tentáculos com cuidado e procure ajuda; não use
+água doce, álcool ou gasolina nesses casos.
+Sem transporte: peça ajuda a vizinhos, bombeiros ou SAMU 192.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A pessoa fica deitada, imóvel e acordada, sem apertar o membro.
+O membro fica apoiado, elevado e sem inchaço que aumente depressa.
+O ferrão ou os tentáculos não ficam mais presos na pele.
+A ajuda médica chega e o atendimento com soro começa.
+
+FONTES
+------
+Ministério da Saúde: Guia de Animais Peçonhentos do Brasil (2024) e
+orientações de primeiros socorros do Meu SUS Digital.
+Secretaria da Saúde do Paraná e Corpo de Bombeiros de Santa Catarina:
+orientações sobre acidentes por animais peçonhentos.
+OMS: Guidelines for the Management of Snakebites, 2ª edição (2016).
+Resumo operacional; não substitui treinamento prático.

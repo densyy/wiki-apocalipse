@@ -1,0 +1,78 @@
+==============================================================================
+CODIGO: 65-022
+TITULO: Como selecionar materiais para reservatórios de água
+CATEGORIA: 65 - Engenharia de materiais e polímeros
+TEMPO: 35 minutos
+RISCO: medio
+EXIGE: amostras dos materiais, destino da água, lanterna
+REVISAO: 2026-11
+PALAVRAS-CHAVE: tanque, água potável, inox, plástico, corrosão
+==============================================================================
+
+OBJETIVO
+--------
+Escolher material que guarde água sem contaminar e sem falhar cedo.
+
+QUANDO USAR
+-----------
+Ao construir ou trocar um tanque de água de beber.
+Ao decidir entre plástico, metal, concreto e fibra de vidro.
+Ao substituir reservatório que enferrujou, rachou ou ganhou cheiro.
+Ao receber tanque usado e não saber se serve para beber.
+Ao adaptar recipiente para guardar água por vários dias.
+
+NAO USE QUANDO
+--------------
+Não serve para dimensionar tanque, calcular espessura ou aprovar rede.
+Não substitui norma, certificação ou análise da água.
+Não use para vaso de pressão, caldeira ou tanque de combustível.
+
+MATERIAIS
+---------
+- Amostras ou fichas dos materiais em discussão (fotos, se não houver).
+- Registro do destino da água: beber, cozinhar, lavar ou irrigar.
+- Lanterna ou luz forte para olhar o interior (luz do sol).
+- Papel e lápis para anotar a escolha e o motivo.
+
+PROCEDIMENTO
+------------
+1. Defina o destino da água. Separe "beber e cozinhar" de "lavar".
+2. Descarte recipiente de origem desconhecida, como tambor de óleo.
+3. Descarte tambor que guardou agrotóxico, tinta ou combustível.
+4. Prefira aço inox, polietileno de grau alimentício ou fibra de vidro.
+5. Peça ficha técnica ou selo de contato com água potável ao fornecedor.
+6. Para concreto, exija cura completa e revestimento antes de encher.
+7. Evite chumbo, zinco galvanizado e cobre em água ácida para beber.
+8. Evite plástico reciclado sem selo, madeira e borracha comum.
+9. Inspecione o interior com luz: sem ferrugem, cheiro, gordura ou resíduo.
+10. Compare custo, vida útil e limpeza. Anote a escolha e o motivo.
+
+ATENCAO
+-------
+Material errado pode contaminar a água sem mudar cor, cheiro ou sabor.
+Plástico comum exposto ao sol e ao calor pode liberar substâncias.
+Concreto fresco altera o pH da água: espere a cura e enxágue antes do uso.
+Metal galvanizado libera zinco em água ácida: não use para beber.
+Tambor de combustível deixa cheiro e resíduo que a lavagem não remove.
+Na dúvida sobre a origem, não use para beber e procure orientação.
+
+SE NAO TIVER
+------------
+Sem selo de potabilidade, use o tanque só para lavar ou irrigar.
+Sem peça nova, reutilize só recipiente de água conhecido.
+Sem dinheiro para inox, prefira polietileno de tambor de água conhecido.
+Não improvise com balde de tinta, garrafa de óleo ou saco plástico.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água parada por um dia mantém cor, cheiro e sabor normais.
+O interior não solta resíduo ao ser esfregado com pano limpo.
+Você diz a origem do material e por que ele foi escolhido.
+
+FONTES
+------
+Diretrizes de qualidade da água potável da Organização Mundial
+da Saúde, 4ª edição. Informações da Agência de Proteção
+Ambiental dos Estados Unidos sobre padrões de água potável.
+Prática consolidada de engenharia de materiais e abastecimento.
+Resumo operacional, não substitui norma ou laudo.

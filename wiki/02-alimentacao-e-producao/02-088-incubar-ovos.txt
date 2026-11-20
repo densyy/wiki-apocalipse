@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 02-088
+TITULO: Como incubar ovos
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 15 minutos por dia durante 21 dias
+RISCO: medio
+EXIGE: chocadeira, ovos férteis, termômetro, água
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ovos, choco, chocadeira, pintinhos, eclodir, virar
+==============================================================================
+
+OBJETIVO
+--------
+Eclodir pintinhos de ovos férteis com calor, umidade e viragem controlados.
+
+QUANDO USAR
+-----------
+Quando se tem ovos férteis e quer renovar o plantel.
+Quando a galinha não choca e se quer criar mais aves.
+
+NAO USE QUANDO
+--------------
+Não use ovos de supermercado: não são férteis e não eclodem.
+Não incube sem energia estável na chocadeira por 21 dias.
+
+MATERIAIS
+---------
+- Chocadeira com controle de temperatura (aferida com termômetro).
+- Ovos férteis de galinha, limpos e sem rachaduras.
+- Água para o reservatório de umidade.
+- Lanterna para ovoscopia em local escuro (lápis para marcar).
+
+PROCEDIMENTO
+------------
+1. Teste a chocadeira vazia por 24 horas antes de colocar os ovos.
+2. Ajuste a temperatura para aproximadamente 37,7 graus Celsius.
+3. Coloque água no reservatório para manter umidade de 55% a 65%.
+4. Instale a chocadeira em local fresco, coberto e sem correntes de ar.
+5. Escolha ovos férteis, limpos e sem rachaduras.
+6. Deite os ovos de lado na bandeja, sem encostar uns nos outros.
+7. Vire os ovos pelo menos três vezes por dia, em número ímpar.
+8. Faça ovoscopia entre o quinto e o sétimo dia e retire ovos ruins.
+9. Aumente a umidade nos últimos três dias, para aproximadamente 70%.
+10. Pare de virar os ovos a partir do 18º dia.
+11. Não abra a chocadeira durante a eclosão.
+12. Retire os pintinhos quando a plumagem estiver seca e fofa.
+
+ATENCAO
+-------
+Acima de 39 graus por horas, os embriões morrem; abaixo de 36, param.
+Sem viragem, o embrião gruda na casca e morre.
+Ovo podre pode estourar e contaminar os demais.
+Nunca altere a fiação nem improvise calor: risco de choque e incêndio.
+
+SE NAO TIVER
+------------
+Sem chocadeira, não improvise calor: há risco de incêndio.
+Sem viragem automática, marque o lado com lápis e vire três vezes ao dia.
+Sem higrômetro, veja a câmara: pequena é umidade alta, grande é baixa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Entre o quinto e o sétimo dia, a luz mostra veias e movimento.
+Por volta do 21º dia, os pintinhos saem secos e ativos.
+
+FONTES
+------
+Embrapa Meio-Norte: "Considerações sobre incubação", Doc. 261, 2019.
+Embrapa Tabuleiros Costeiros: Circular Técnica 89, 2020.
+FAO: "Poultry housing and management in developing countries".

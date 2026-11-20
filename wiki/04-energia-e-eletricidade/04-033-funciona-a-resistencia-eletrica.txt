@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 04-033
+TITULO: Como funciona a resistência elétrica
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: resistência, resistor, ohm, corrente, fio, calor
+==============================================================================
+
+OBJETIVO
+--------
+Entender o que trava a corrente no fio para usar luz e calor com seguranca.
+
+QUANDO USAR
+-----------
+Quando um fio, chuveiro ou lampada esquenta alem do normal.
+Quando for entender por que um aparelho fraco recebe pouca energia.
+Quando um fusivel queima ou um disjuntor desarma sem causa visivel.
+Quando for explicar a outra pessoa o que e resistor e fio fino.
+
+NAO USE QUANDO
+--------------
+Quando houver cheiro de queimado, faisca, fio derretido ou choque.
+Quando o quadro, a tomada ou o aparelho estiver molhado ou aberto.
+Nesse caso nao toque em nada e chame um eletricista.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Compare a corrente a agua em mangueira: fio fino aperta a passagem.
+2. Chame de resistencia tudo que dificulta a passagem da corrente.
+3. Localize onde ela aparece: filamento, resistor, fio longo ou fino.
+4. Leia a unidade no aparelho ou manual: ohm, de simbolo omega.
+5. Lembre a regra: tensao e igual a corrente vezes a resistencia.
+6. Observe que fio longo, fino ou quente trava mais a corrente.
+7. Observe que fio curto, grosso ou frio deixa passar mais corrente.
+8. Sinta de longe, sem tocar: calor em fio ou tomada e sinal de alerta.
+9. Desligue o aparelho se o fio, a tomada ou o plugue esquentar.
+10. Compare aparelhos: chuveiro esquenta de proposito, fio comum nao.
+
+ATENCAO
+-------
+Choque eletrico mata: nunca abra aparelho, quadro ou tomada ligado.
+Nunca mexa em rede energizada nem emende fio com fita comum.
+Calor em fio ou tomada pode virar incendio: desligue e ventile.
+Resistencia nao protege sozinha: fusivel e disjuntor tambem falham.
+Aparelho molhado ou com cheiro de queimado: nao toque, chame ajuda.
+
+SE NAO TIVER
+------------
+Sem manual, leia a etiqueta: potencia, tensao e corrente do aparelho.
+Sem termometro, aproxime a mao sem tocar para sentir calor anormal.
+Sem eletricista por perto, desligue tudo e espere ajuda qualificada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Voce aponta onde esta a resistencia e diz por que o ponto esquenta.
+Voce explica por que fio fino esquenta mais que fio grosso.
+
+FONTES
+------
+Pratica consolidada de eletricidade basica, sem documento unico;
+Departamento de Energia dos Estados Unidos, material de ensino de
+eletricidade; Instituto Nacional de Padroes e Tecnologia dos Estados
+Unidos, sistema internacional de unidades.

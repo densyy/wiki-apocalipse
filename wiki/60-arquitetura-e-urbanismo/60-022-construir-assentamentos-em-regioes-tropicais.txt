@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 60-022
+TITULO: Como construir assentamentos em regiões tropicais
+CATEGORIA: 60 - Arquitetura, urbanismo e assentamentos
+TEMPO: 1 semana
+RISCO: critico
+EXIGE: caderno, fita de medição, estacas, enxada, madeira ou bambu, telha
+REVISAO: 2026-11
+PALAVRAS-CHAVE: tropico, drenagem, chuva, mosquito, enchente, vento
+==============================================================================
+
+OBJETIVO
+--------
+Construir moradia que resiste à chuva, ao calor e ao vento tropical.
+
+QUANDO USAR
+-----------
+Quando for preciso abrigar famílias em área quente e chuvosa.
+Quando a região sofre enchentes, deslizamentos ou ciclones.
+Quando há mosquito que transmite doença no local.
+Quando não há energia para ventilação artificial.
+
+NAO USE QUANDO
+--------------
+Não use em área de risco conhecido sem vistoria da Defesa Civil.
+Não use para substituir projeto de engenheiro em encosta ou margem de rio.
+
+MATERIAIS
+---------
+- Caderno e lápis para desenhar o terreno.
+- Fita de medição de 20 m ou corda com nós a cada metro.
+- Estacas e barbante para marcar ruas e lotes.
+- Pá, enxada e nível de mangueira com água.
+- Madeira ou bambu tratado para a estrutura.
+- Telha com arame ou cinta de fixação ao vento.
+- Tela de arame para portas e janelas.
+
+PROCEDIMENTO
+------------
+1. Pergunte onde a água subiu e onde o vento já derrubou casas.
+2. Consulte o mapa de risco da Defesa Civil antes de marcar o terreno.
+3. Descarte várzea, encosta íngreme, vale estreito e margem de rio.
+4. Escolha terreno alto, com declividade de aproximadamente 2 a 4 por cento.
+5. Desenhe no caderno o terreno, o rio, a estrada e as encostas.
+6. Marque no desenho o caminho da água da chuva.
+7. Trace as ruas seguindo as curvas do terreno.
+8. Deixe aproximadamente 1 m entre casas para ventilação e sombra.
+9. Reserve faixa de 50 m sem construir ao redor de rios e córregos.
+10. Cave valas de drenagem ao lado das ruas, seguindo as curvas.
+11. Dê às valas queda de aproximadamente 1 cm por metro.
+12. Coloque bueiros onde a rua cruza a vala.
+13. Limpe as valas após cada chuva forte.
+14. Marque cada lote com estacas e barbante antes de cavar.
+15. Cave os pilares do piso elevado até terra firme.
+16. Levante o piso a aproximadamente 60 cm do solo.
+17. Deixe espaço livre sob o piso para água e ar passarem.
+18. Fixe a estrutura de madeira ou bambu com cintas e pregos.
+19. Monte paredes leves com frestas altas para saída de calor.
+20. Feche a cumieira e as frestas do telhado contra mosquito.
+21. Instale tela nas portas e janelas.
+22. Cubra com telha de duas ou quatro águas e beiral grande.
+23. Prenda cada telha com arame ou cinta resistente ao vento.
+24. Amarre a estrutura do telhado aos pilares com cinta metálica.
+25. Mantenha grama no solo nu e plante árvores longe das fundações.
+26. Instale latrinas a jusante e a pelo menos 30 m da fonte de água.
+27. Cubra depósitos de água e retire pneus, latas e garrafas.
+28. Construa primeiro abrigos, água e saneamento.
+
+ATENCAO
+-------
+Enchente, deslizamento e ciclone podem matar; nunca construa sem vistoria.
+O erro mais comum é assentar o piso direto no solo úmido.
+Piso baixo apodrece, infiltra água e abriga cobras e cupins.
+Telha solta em vendaval vira projétil e mata.
+Água parada em vala, lata ou pneu cria mosquito que transmite doença.
+Com rachadura, árvore inclinada ou água brotando na encosta, pare e saia.
+
+SE NAO TIVER
+------------
+Sem fita, use corda com nós a cada metro.
+Sem cinta metálica, use arame resistente com duas voltas e aperte bem.
+Sem tela, estique pano fino na janela e troque-o quando rasgar.
+Sem telha, use folha de zinco ondulada presa com arame em toda borda.
+Sem Defesa Civil, espere a vistoria antes de ocupar a área.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O piso ficou seco após a primeira chuva forte.
+A água escoou pelas valas sem invadir os lotes.
+Nenhuma telha soltou e nenhuma fresta deixou entrar mosquito.
+As latrinas ficam abaixo da fonte e a mais de 30 m dela.
+
+FONTES
+------
+Diretrizes de abrigo e assentamento do ACNUR e da Comissão Europeia.
+Orientações do ACNUR para abrigos resistentes a enchente.
+Diretrizes da OMS sobre melhoria de moradia para prevenir malária.
+Orientações da OPAS/OMS sobre controle do mosquito Aedes e dengue.
+Cartilhas da Defesa Civil do Brasil sobre construção em área de risco.

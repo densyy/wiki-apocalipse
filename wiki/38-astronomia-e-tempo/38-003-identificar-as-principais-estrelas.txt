@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 38-003
+TITULO: Como identificar as principais estrelas
+CATEGORIA: 38 - Astronomia e medição do tempo
+TEMPO: 20 minutos
+RISCO: baixo
+EXIGE: céu limpo e escuro, lugar seguro, tempo sem pressa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: estrelas, sirius, cruzeiro do sul, canopus, magnitude, vega
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer as estrelas mais brilhantes e achar o sul pelo Cruzeiro do Sul.
+
+QUANDO USAR
+-----------
+Quando estiver ao ar livre sem luz artificial e precisar de referência.
+Quando quiser conferir a direção sem bússola nem aparelho eletrônico.
+Quando o céu estiver limpo e a lua não atrapalhar.
+
+NAO USE QUANDO
+--------------
+Quando houver neblina, nuvens ou muita luz de cidade.
+Nunca use este método para olhar o Sol: a luz solar queima a retina.
+
+MATERIAIS
+---------
+- Nenhum material. Use apenas os olhos.
+
+PROCEDIMENTO
+------------
+1. Vá a um lugar aberto e seguro, longe de luzes fortes.
+2. Fique parado de 10 a 15 minutos para os olhos se adaptarem ao escuro.
+3. Não olhe para telas, lanternas ou fogueira durante esse tempo.
+4. Ache a estrela mais brilhante do céu: é Sirius, de cor branca.
+5. Entenda a magnitude: quanto menor o número, mais brilhante a estrela.
+6. No inverno, procure também o cinturão de Orion, três estrelas alinhadas.
+7. Localize o Cruzeiro do Sul: quatro estrelas brilhantes em forma de cruz.
+8. Confira as duas ponteiras: a linha delas passa pelo meio da cruz.
+9. Prolone o eixo longo da cruz cerca de quatro vezes para achar o polo sul.
+10. Procure Canopus: é a segunda mais brilhante e fica baixa ao sul.
+11. Procure Vega: é branca-azulada e aparece alta em parte do ano.
+12. Anote a posição das estrelas para reconhecê-las em outra noite.
+
+ATENCAO
+-------
+Sirius e Canopus são estrelas. Vênus, Marte e Júpiter são planetas.
+Alguns planetas brilham mais que qualquer estrela e não cintilam.
+Aviões e satélites se movem depressa; estrelas mantêm a posição relativa.
+A posição das estrelas muda com a hora e com a estação do ano.
+Não há estrela brilhante no polo sul; a região parece vazia a olho nu.
+Na dúvida entre duas estrelas, pare e peça ajuda a quem tem prática.
+
+SE NAO TIVER
+------------
+Sem céu limpo, espere outra noite em vez de inventar pontos no céu.
+Sem mapa, comece pelo Cruzeiro do Sul, o grupo mais fácil de reconhecer.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A estrela escolhida mantém a mesma posição em relação às vizinhas.
+O Cruzeiro aparece como quatro pontos em cruz e duas ponteiras.
+
+FONTES
+------
+Brilho e nomes: Bright Star Catalogue e nomes aprovados pela IAU.
+Prática consolidada de astronomia amadora e orientação noturna.
+Resumo operacional; não substitui treinamento.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 70-002
+TITULO: Como utilizar computadores de placa única offline
+CATEGORIA: 70 - Computação de baixo consumo e preservação digital
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: placa única, fonte compatível, cartão com sistema, periféricos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: placa única, raspberry pi, offline, sem internet, cartão sd
+==============================================================================
+
+OBJETIVO
+--------
+Usar uma placa única como computador local, sem depender de internet.
+
+QUANDO USAR
+-----------
+Quando a internet cair e ainda for preciso de um computador.
+Quando a energia for escassa e um computador comum consumir muito.
+Quando servir manuais ou mapas na rede local, sem nuvem.
+
+NAO USE QUANDO
+--------------
+Quando a tarefa exigir processamento pesado ou muita memória.
+Quando não houver fonte de energia estável para a placa.
+Quando o sistema e os dados não estiverem gravados no cartão.
+
+MATERIAIS
+---------
+- Placa única com processador e memória (Raspberry Pi ou similar).
+- Fonte de 5 volts e aproximadamente 2 a 3 amperes, conforme a placa.
+- Cartão microSD de boa qualidade com sistema operacional gravado.
+- Cabo HDMI, teclado e mouse (ou acesso pela rede local).
+- Cabo de rede para ligar a placa ao computador ou roteador local.
+
+PROCEDIMENTO
+------------
+1. Grave a imagem do sistema no cartão antes de perder a conexão.
+2. Insira o cartão na placa e ligue teclado, mouse e monitor HDMI.
+3. Conecte a fonte compatível e espere o sistema iniciar.
+4. Desative Wi-Fi e Bluetooth se não for usá-los, para poupar energia.
+5. Configure a rede local com endereço fixo, ou ligue o cabo ao PC.
+6. Abra os programas e os arquivos já salvos no cartão.
+7. Coloque manuais, mapas e biblioteca no armazenamento local.
+8. Copie os dados para um segundo cartão ou disco, como backup.
+9. Encerre o sistema pelo comando de desligar antes de cortar energia.
+
+ATENCAO
+-------
+Fonte fraca trava a placa ou corrompe o cartão sem aviso.
+Cartão microSD barato falha com o tempo e apaga os dados.
+Corte de energia sem desligar pode danificar o sistema no cartão.
+A placa esquenta; sem dissipador, reduz o desempenho ou para.
+Sem internet, atualizações e serviços online não funcionam.
+
+SE NAO TIVER
+------------
+Sem monitor, acesse a placa pela rede com um programa de terminal.
+Sem cabo de rede, use ligação direta entre a placa e o computador.
+Sem cartão, não há como iniciar; arranje outro antes de ficar offline.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A placa inicia e mostra a tela ou responde ao acesso pela rede.
+Arquivos e programas locais abrem sem mensagem de conexão.
+
+FONTES
+------
+Prática consolidada de computação de baixo consumo e preservação digital,
+sem documento único, com base em orientações gerais de fabricantes.

@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 33-009
+TITULO: Como recuperar áreas agrícolas abandonadas
+CATEGORIA: 33 - Agricultura avançada e autossuficiência rural
+TEMPO: 1 dia
+RISCO: medio
+EXIGE: pá ou trado, balde limpo, sacos, sementes de adubo verde
+REVISAO: 2026-11
+PALAVRAS-CHAVE: solo cansado, área abandonada, adubo verde, análise de solo
+==============================================================================
+
+OBJETIVO
+--------
+Voltar a cultivar uma área parada, reconstruindo o solo passo a passo.
+
+QUANDO USAR
+-----------
+Quando a área ficou sem cultivo por uma ou mais safras.
+Quando o solo está duro, com crostas ou pouco húmus.
+
+NAO USE QUANDO
+--------------
+Quando houver suspeita de agrotóxico, metal pesado ou combustível no solo.
+Não plante alimentos nessa área sem análise e orientação técnica.
+
+MATERIAIS
+---------
+- Pá, trado ou tubo para coletar solo.
+- Balde limpo e sacos para cerca de 500 g por amostra.
+- Etiquetas e caderno para identificar cada ponto.
+
+PROCEDIMENTO
+------------
+1. Ande pela área e marque pontos com cor, relevo ou vegetação diferentes.
+2. Divida a área em partes uniformes de até 10 hectares.
+3. Remova folhas e detritos da superfície em cada ponto.
+4. Percorra cada parte em zig-zag e amostre 15 a 20 pontos até 20 cm.
+5. Evite casas, estradas, galpões, formigueiros e solo encharcado.
+6. Misture as porções no balde e separe cerca de 500 g por parte.
+7. Identifique o saco com número e anote o ponto no caderno.
+8. Envie as amostras a laboratório de análise de fertilidade.
+9. Aplique calcário na dose do laudo e misture à camada superficial.
+10. Semee adubo verde e mantenha o solo coberto.
+11. Corte antes de frutificar, deixe a palhada e repita a análise.
+
+ATENCAO
+-------
+A análise define calcário e adubo; nunca chute a dose.
+O alvo de pH fica entre 5,5 e 6,5 na maioria das culturas, conforme laudo.
+Calcário em pó irrita olhos e vias respiratórias: use pano e luvas.
+Área abandonada pode esconder vidro, ferrugem, agrotóxico ou cobras.
+Com cheiro químico forte, pare e busque orientação antes de plantar.
+
+SE NAO TIVER
+------------
+Sem trado, use um tubo ou a ponta da pá limpa.
+Sem laboratório, não invente dose: espere a análise.
+Sem semente conhecida, procure assistência rural antes de plantar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O laudo indica pH e nutrientes corrigidos.
+A cobertura cresceu, foi cortada e a palhada cobre o solo sem crostas.
+
+FONTES
+------
+Embrapa: "Adubação verde na recuperação de solos degradados" (2023) e
+"Uso de adubos verdes como cobertura do solo"; Embrapa Solos, guia de
+coleta de amostras; Embrapa, "Acidez do solo e calagem". Resumo operacional.

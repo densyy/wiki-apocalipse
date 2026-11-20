@@ -1,0 +1,81 @@
+==============================================================================
+CODIGO: 56-006
+TITULO: Como compreender seleção natural
+CATEGORIA: 56 - Reprodução, genética e melhoramento
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: papel, caneta ou lápis, seres vivos para observar
+REVISAO: 2026-11
+PALAVRAS-CHAVE: seleção, evolução, herança, variação, adaptação, alelo
+==============================================================================
+
+OBJETIVO
+--------
+Entenda como traços herdados mudam de frequência em uma população.
+
+QUANDO USAR
+-----------
+Quando uma característica comum mudou ao longo dos anos.
+Quando quiser entender por que uma praga resiste a um defensivo.
+Quando for escolher sementes ou animais para a próxima geração.
+Quando ouvir dizer que uma espécie evoluiu e quiser saber o que isso quer
+dizer.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+Não explica, sozinho, mudanças que não passam dos pais para os filhos.
+
+MATERIAIS
+---------
+- Papel para anotar as ideias.
+- Caneta ou lápis.
+- Exemplos de seres vivos que você conheça, se possível.
+
+PROCEDIMENTO
+------------
+1. Defina população: indivíduos da mesma espécie em determinado lugar.
+2. Observe que os indivíduos da população não são iguais entre si.
+3. Anote diferenças visíveis: cor, tamanho, forma ou resistência.
+4. Verifique se a diferença passa dos pais aos filhos; isso é herança.
+5. Defina gene como a unidade da herança e alelo como cada versão dele.
+6. Entenda que a mutação cria alelos novos e a reprodução os recombina.
+7. Note que nasce mais prole do que o ambiente consegue sustentar.
+8. Conclua que isso gera disputa por alimento, espaço, luz e abrigo.
+9. Escolha um traço que ajude nessa disputa no ambiente atual.
+10. Perceba que quem tem esse traço sobrevive e deixa mais filhos.
+11. Repita por gerações: o alelo do traço vira mais comum.
+12. Defina evolução como essa mudança na frequência dos alelos.
+13. Chame de adaptação o traço herdado que ajuda no ambiente atual.
+
+ATENCAO
+-------
+A seleção não cria variação: atua sobre o que já existe.
+Quem evolui é a população, nunca um indivíduo isolado.
+Mais apto quer dizer deixar mais filhos vivos, não ser mais forte.
+Um traço bom em um ambiente pode ser ruim em outro.
+A mutação não acontece porque o ser vivo precisa dela.
+Outras forças também mudam os alelos: deriva, migração e mutação.
+Deriva é mudança ao acaso, mais forte em populações pequenas.
+Não confunda com seleção artificial, quando o criador escolhe os pais.
+
+SE NAO TIVER
+------------
+Sem papel, anote as ideias em qualquer superfície limpa.
+Sem exemplos conhecidos, observe plantas em frestas ou animais do
+quintal e compare os traços entre eles.
+Se não souber se uma diferença é herdada, plante sementes de duas
+plantas com traços opostos e compare a prole.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue apontar um traço da população e dizer de onde veio a
+variação, como ela passa aos filhos e por que se tornou comum.
+Você consegue dizer que a mudança ocorreu na população, não em um
+indivíduo, e citar um ambiente em que a vantagem se inverteria.
+
+FONTES
+------
+Livro Concepts of Biology da OpenStax, capítulo sobre evolução e
+seleção natural. Glossário de Termos Genéticos do NHGRI (alelo,
+deriva genética). Charles Darwin, On the Origin of Species (1859).

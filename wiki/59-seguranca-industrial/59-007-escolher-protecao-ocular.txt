@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 59-007
+TITULO: Como escolher proteção ocular
+CATEGORIA: 59 - Segurança industrial e riscos ocupacionais
+TEMPO: 20 minutos
+RISCO: alto
+EXIGE: descrição da tarefa, acesso ao responsável, fichas dos EPIs
+REVISAO: 2026-11
+PALAVRAS-CHAVE: óculos, proteção ocular, EPI, impacto, respingo, solda
+==============================================================================
+
+OBJETIVO
+--------
+Escolher a proteção ocular correta para o risco da tarefa e conferir
+que ela serve, assenta bem e pode ser usada com os demais EPIs.
+
+QUANDO USAR
+-----------
+Ao iniciar uma tarefa com projeção de partículas, poeira ou estilhaços.
+Ao manusear produtos químicos que podem respingar nos olhos.
+Ao cortar, soldar ou trabalhar com fontes de luz e radiação.
+Ao trocar de função, de oficina ou de máquina.
+Ao receber um EPI novo ou substituir um equipamento danificado.
+
+NAO USE QUANDO
+--------------
+Não escolha só pela cor da lente nem pelo conforto.
+Não use óculos de grau ou óculos de sol como proteção de trabalho.
+Não substitua a avaliação de um profissional habilitado por esta escolha.
+
+MATERIAIS
+---------
+- Lista dos riscos da tarefa (ou conversa com o responsável).
+- Ficha ou manual do fabricante do EPI (para conferir a proteção).
+- Acesso ao responsável pela segurança ou ao SESMT da empresa.
+- Registro dos EPIs já usados na função (se houver).
+- Espelho ou colega para ajudar a conferir o ajuste.
+
+PROCEDIMENTO
+------------
+1. Liste por escrito o que pode atingir os olhos na tarefa.
+2. Separe os riscos: impacto, poeira, respingo químico, calor ou luz.
+3. Para impacto de partículas, escolha óculos com proteção lateral.
+4. Para respingo químico ou pó fino, escolha óculos ampla visão vedados.
+5. Para respingo, prefira modelo com ventilação indireta, não direta.
+6. Para calor ou projeção de metal, use protetor facial sobre os óculos.
+7. Para solda, use máscara com filtro de densidade indicada à operação.
+8. Confira no EPI o número do CA e se ele está válido.
+9. Leia a ficha: o CA deve cobrir exatamente o risco da sua tarefa.
+10. Se usa óculos de grau, escolha modelo de sobrepor compatível.
+11. Lentes de contato não contam como proteção; use o EPI por cima.
+12. Prove o equipamento e veja se aperta, escorrega ou embaça.
+13. Confira se ele funciona com capacete, respirador e protetor auditivo.
+14. Confirme a escolha com o responsável antes de começar o trabalho.
+
+ATENCAO
+-------
+Um óculos certificado para impacto não protege contra respingo químico.
+Protetor facial usado sozinho não protege: partículas e líquidos entram
+pela lateral e a curva da viseira os encaminha para os olhos.
+Lente escura comum não substitui o filtro de solda; a densidade errada
+não barra a radiação e pode causar queimadura na córnea.
+Armação de metal pode causar choque ou queimadura perto de eletricidade.
+Ventilação direta deixa entrar líquido e pó fino; use só para partículas.
+EPI danificado, riscado ou com CA vencido deve ser trocado.
+Depois de qualquer impacto, substitua o equipamento mesmo sem rachadura.
+Se o olho foi atingido, pare, lave com água corrente e procure atendimento.
+
+SE NAO TIVER
+------------
+Sem ficha do fabricante, não adivinhe: pergunte ao responsável ou ao SESMT.
+Sem CA válido, não use o equipamento; peça outro ao responsável.
+Sem modelo de sobrepor, não remova a lente corretiva: peça EPI adequado.
+Na falta de proteção certa para a tarefa, interrompa o trabalho e avise.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O tipo escolhido corresponde ao risco escrito no primeiro passo.
+O número do CA está legível, válido e indica a proteção necessária.
+O equipamento assenta firme, sem apertar, e não escorrega ao mexer a cabeça.
+Você enxerga a área de trabalho com clareza e usa os outros EPIs juntos.
+
+FONTES
+------
+Norma Regulamentadora 6 do Ministério do Trabalho e Emprego, sobre EPIs,
+e seu Anexo I, item B, de proteção dos olhos e da face.
+Norma OSHA 1910.133 e publicação do NIOSH sobre seleção de proteção ocular.
+Guia de seleção ANSI/ISEA Z87.1 e manual de laboratório da Cornell.
+Resumo operacional; a seleção final cabe ao responsável pela segurança.

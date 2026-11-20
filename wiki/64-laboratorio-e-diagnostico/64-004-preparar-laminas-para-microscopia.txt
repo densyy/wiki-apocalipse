@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 64-004
+TITULO: Como preparar lâminas para microscopia
+CATEGORIA: 64 - Laboratório, diagnóstico e análises
+TEMPO: 20 minutos
+RISCO: medio
+EXIGE: lâminas, lamínulas, pinça, solução salina, amostra
+REVISAO: 2026-11
+PALAVRAS-CHAVE: lâmina, lamínula, microscópio, gota, amostra, corante
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma amostra entre lâmina e lamínula para observar ao microscópio.
+
+QUANDO USAR
+-----------
+Quando precisar observar microrganismos ou parasitas em material fresco.
+Quando o material for líquido ou puder ser diluído em solução salina.
+
+NAO USE QUANDO
+--------------
+Quando a amostra for infecciosa, corrosiva, inflamável ou desconhecida.
+Quando não houver lamínula ou vidro íntegro para cobrir a amostra.
+
+MATERIAIS
+---------
+- Lâminas de vidro limpas, retangulares, sem bordas quebradas.
+- Lamínulas: pequenos vidros quadrados que cobrem a amostra.
+- Pinça ou palito limpo para manusear a lamínula sem tocar a face.
+- Solução salina (água com sal) ou água limpa para diluir.
+- Papel absorvente ou pano limpo para retirar o excesso.
+- Amostra fresca em recipiente limpo; luvas descartáveis.
+
+PROCEDIMENTO
+------------
+1. Lave as lâminas com água e sabão e seque com pano limpo.
+2. Apoie uma lâmina limpa sobre uma superfície plana e firme.
+3. Coloque uma gota pequena de solução salina no centro da lâmina.
+4. Com o palito limpo, misture uma porção pequena da amostra na gota.
+5. Espalhe a gota até formar uma camada fina e uniforme.
+6. Encoste uma borda da lamínula na gota, mantendo-a inclinada.
+7. Baixe a lamínula devagar para expulsar o ar e evitar bolhas.
+8. Retire o excesso de líquido com papel absorvente na borda.
+9. Leve ao microscópio: objetiva é a lente perto da amostra.
+10. Comece pela objetiva de menor aumento e foque devagar.
+
+ATENCAO
+-------
+Use luvas; trate fezes, urina e sangue como material infectante.
+Vidro quebrado corta; descarte peças trincadas sem usar as mãos.
+Não use corantes ou fixadores sem protocolo: podem ser tóxicos.
+Se respingar em olhos ou boca, lave com água e procure ajuda.
+
+SE NAO TIVER
+------------
+Sem solução salina, use água limpa e fervida para diluir.
+Sem lamínula, use um vidro fino e limpo do mesmo tamanho.
+Sem pinça, segure a lamínula pela borda com um palito limpo.
+Não use vidro quebrado, papel higiênico nem sopre a lâmina com a boca.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A amostra ficou como camada fina e uniforme sob a lamínula.
+Ao olhar no microscópio, é possível ver as estruturas da amostra.
+
+FONTES
+------
+Prática consolidada de laboratório; descrita em manuais de microbiologia.
+Resumo operacional; não substitui treinamento nem protocolo específico.

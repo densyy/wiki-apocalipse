@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 33-005
+TITULO: Como criar um sistema de aquaponia
+CATEGORIA: 33 - Agricultura avançada e autossuficiência rural
+TEMPO: 4 horas
+RISCO: medio
+EXIGE: tanque elevado, caixa com brita, tubo, água limpa, peixes, mudas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: aquaponia, peixes, plantas, biofiltro, nitrato, brita
+==============================================================================
+
+OBJETIVO
+--------
+Montar um sistema que cria peixes e hortaliças juntos com pouca água.
+
+QUANDO USAR
+-----------
+Quando se quer peixe e folhosa no mesmo espaço pequeno.
+Quando a água é escassa e precisa ser reaproveitada.
+
+NAO USE QUANDO
+--------------
+Quando a água vier de rio, poço ou vala sem tratamento.
+Quando ninguém puder observar os peixes todos os dias.
+
+MATERIAIS
+---------
+- Tanque de 100 a 200 L (barril plástico ou caixa d'água).
+- Caixa com 15 a 20 cm de brita ou seixo lavado.
+- Tela na saída do tanque e tubo até o leito.
+- Balde para recolher a água que sai do leito.
+- Água limpa, peixes, mudas, ração e suporte firme.
+
+PROCEDIMENTO
+------------
+1. Lave a brita até a água sair limpa.
+2. Coloque o tanque no suporte, acima da caixa do leito.
+3. Abra um furo pequeno no tanque, junto ao fundo.
+4. Prenda a tela no furo e encaixe o tubo até o leito.
+5. Forre o fundo da caixa com tela e coloque a brita.
+6. Abra o furo de escoamento na parte baixa da caixa.
+7. Coloque o balde sob o furo e encha o tanque.
+8. Corrija vazamentos e espere 3 a 5 semanas.
+9. Coloque os peixes e as mudas aos poucos.
+10. Alimente uma vez ao dia e retire a ração que sobrar.
+11. Baldeie a água de volta ao tanque todos os dias.
+
+ATENCAO
+-------
+Amônia e nitrito matam peixes; as bactérias levam semanas para
+convertê-los em nitrato, nutriente das plantas.
+Se os peixes pararem de comer ou subirem à superfície, pare a ração.
+Nunca use água de rio ou poço: pode trazer parasitas à folhosa.
+Mantenha a parte comestível fora da água e enxague as folhas.
+Lave as mãos ao mexer com peixes e ração; peixe doente contamina.
+
+SE NAO TIVER
+------------
+- Sem bomba, mantenha o tanque alto e baldeie a água uma vez ao dia.
+- Sem brita, use seixo roleiro ou cascalho lavado.
+- Sem água limpa para repor perdas, desmonte antes que os peixes sofram.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água desce pelo leito e volta ao tanque sem vazamentos.
+Peixes comem e nadam em água clara; mudas criam folhas verdes.
+FONTES
+------
+Prática consolidada de aquaponia familiar em circulares da Embrapa e
+guia da FAO, com segurança de alimentos do USDA e extensão universitária.

@@ -1,0 +1,77 @@
+==============================================================================
+CODIGO: 61-010
+TITULO: Como calcular volume de madeira em árvores
+CATEGORIA: 61 - Agricultura florestal e manejo de ecossistemas
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: fita métrica ou trena, caderno, lápis, calculadora
+REVISAO: 2026-11
+PALAVRAS-CHAVE: volume, madeira, árvore, DAP, cubagem, fator de forma
+==============================================================================
+
+OBJETIVO
+--------
+Estimar em metros cúbicos a madeira contida numa árvore em pé.
+
+QUANDO USAR
+-----------
+Quando precisar saber quanta madeira existe antes de cortar.
+Quando for planejar venda, transporte ou armazenamento de toras.
+Quando quiser acompanhar o crescimento de árvores marcadas.
+
+NAO USE QUANDO
+--------------
+Quando o tronco estiver podre, queimado ou com falhas internas.
+Quando o número for servir para decidir o tombo de uma árvore.
+
+MATERIAIS
+---------
+- Fita métrica ou trena para circunferência e altura.
+- Caderno e lápis para anotar as medidas.
+- Calculadora, ou papel para as contas.
+- Estaca para marcar a altura de 1,30 m no tronco.
+
+PROCEDIMENTO
+------------
+1. Meça 1,30 m do solo no tronco e marque com a estaca.
+2. Enrole a fita nessa altura, sem apertar e sem folga.
+3. Anote a circunferência em centímetros. Essa é a CAP.
+4. Divida a CAP por 3,1416. É o DAP em centímetros.
+5. Meça a altura comercial até onde o tronco ainda aproveita.
+6. Pare quando o diâmetro chegar a aproximadamente 5 cm com casca.
+7. Escolha o fator de forma da espécie, se você souber qual é.
+8. Sem esse valor, use 0,7 e registre que é estimativa grosseira.
+9. Divida o DAP em centímetros por 100 para obter metros.
+10. Multiplique 3,1416 pelo DAP em metros duas vezes e divida por 4.
+11. Multiplique esse resultado pela altura comercial, em metros.
+12. Multiplique pelo fator de forma. É o volume em metros cúbicos.
+
+ATENCAO
+-------
+A conta estima; não mede o volume exato da árvore.
+O tronco afina para o topo, então o cilindro superestima o volume.
+O fator de forma corrige isso e varia muito entre espécies e idades.
+Em eucalipto jovem fica perto de 0,48; em castanheira, perto de 0,64.
+Em araucária pode ir de 0,40 a 0,86.
+Usar 0,7 para espécie desconhecida pode errar bastante o resultado.
+Não troque altura total por altura comercial na multiplicação.
+O valor com casca é maior que o da madeira útil sem casca.
+
+SE NAO TIVER
+------------
+Sem trena, use cordão sem elasticidade e meça depois com régua.
+Sem calculadora, faça a conta no papel, em etapas curtas.
+Sem fator conhecido, use 0,7 e aumente a margem de erro.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As medidas anotadas permitem refazer a conta do início.
+O volume final é menor que o cilindro da etapa 11.
+Medidas repetidas por outra pessoa dão valores próximos.
+
+FONTES
+------
+Embrapa: Circular Técnica 150, fator de forma da castanheira.
+Embrapa: Comunicado Técnico 173, fatores de forma da Amazônia.
+UFG: apostila Inventário Florestal, Smalian e cubagem rigorosa.
+USDA Forest Service: Handbook 2409.12 e Research Note PNW-417.

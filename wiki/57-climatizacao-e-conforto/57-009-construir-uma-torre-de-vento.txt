@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 57-009
+TITULO: Como construir uma torre de vento
+CATEGORIA: 57 - Refrigeração, climatização e conforto
+TEMPO: 4 horas
+RISCO: alto
+EXIGE: tijolo de barro, barro, pano, água, corda, acesso seguro ao telhado
+REVISAO: 2026-11
+PALAVRAS-CHAVE: torre de vento, badgir, ventilação, calor, evaporação
+==============================================================================
+
+OBJETIVO
+--------
+Construir no telhado uma torre que capta o vento e o conduz por um duto
+(canal de ar) até um cômodo, refresando o ar sem gastar energia.
+
+QUANDO USAR
+-----------
+Quando o clima é quente e seco e há vento constante.
+Quando o cômodo fica abafado e não há energia para ventilador.
+Quando a noite é mais fria e se quer renovar o ar da casa.
+Quando o telhado é firme e há material de construção por perto.
+Quando se quer refrescar a água guardada em recipientes.
+
+NAO USE QUANDO
+--------------
+Não use se o ar estiver úmido: o pano molhado não resfria e cria mofo.
+Não use onde há ventos fortes, temporais ou ciclones frequentes.
+Não use se o telhado estiver danificado ou não suportar o peso da torre.
+Não use se o vento trouxer fumaça, poeira ou insetos: o duto não filtra.
+Não use se não houver forma segura de subir e trabalhar no telhado.
+
+MATERIAIS
+---------
+- Tijolo comum ou tijolo de barro (adobe; pedra ou madeira, se não houver).
+- Barro, lama ou argamassa de cal para assentar e vedar.
+- Pano limpo, esteira ou tela de palha.
+- Água em balde.
+- Corda e estacas para firmeza e para descer no telhado.
+- Régua ou fita métrica e linha para alinhar.
+
+PROCEDIMENTO
+------------
+1. Observe a direção do vento no local por aproximadamente um dia,
+   de manhã e à tarde.
+2. Escolha no telhado um ponto firme, a aproximadamente 50 cm da borda.
+3. Marque um quadrado de aproximadamente 60 cm de lado no ponto escolhido.
+4. Confirme que o telhado aguenta o peso antes de assentar tijolo.
+5. Retire a cobertura dentro do quadrado, sem cortar vigas ou madeiramento.
+6. Abra a passagem no telhado até o teto do cômodo que se quer refrescar.
+7. Assente tijolo com barro ao redor da passagem, formando o duto oco.
+8. Levante o duto até aproximadamente 1 metro acima do telhado.
+9. Vire a abertura do topo para o lado de onde vem o vento.
+10. Se o vento mudar de direção, abra até quatro lados no topo da torre.
+11. Coloque uma divisória no meio do duto se houver mais de uma abertura.
+12. Revista as paredes com barro para tapar as frestas por onde entra ar.
+13. Prenda o pano ou a esteira na abertura de entrada com corda.
+14. Umedeça o pano com água, sem deixar escorrer para dentro do cômodo.
+15. Abra uma saída de ar no lado oposto do cômodo, de aproximadamente
+    20 cm, para o ar circular.
+16. Amarre a torre com corda a estacas ou a um ponto firme do telhado.
+17. Feche a entrada com pano em dias de vento muito forte ou de chuva.
+18. Molhe o pano de novo quando ele secar, durante o dia.
+
+ATENCAO
+-------
+Trabalhar em altura pode causar queda grave; use corda e peça ajuda.
+Torre mal fixada pode cair e ferir quem está embaixo; apoie bem a base.
+Telhado fraco pode ceder com o peso; reforce antes de assentar o tijolo.
+Vento forte pode derrubar a torre ou jogar poeira para dentro; feche-a.
+Pano encharcado escorre água e apodrece a madeira; molhe sem excesso.
+Sem saída de ar no lado oposto, o cômodo fica parado e não refresca.
+Em clima úmido o pano molhado não evapora e pode criar mofo; não use.
+A torre não filtra o ar: com fumaça ou poeira, feche a entrada.
+Se o telhado rachar ou a torre balançar, pare e reforce antes de seguir.
+
+SE NAO TIVER
+------------
+Sem tijolo, use madeira ou bambu para o duto e forre com barro ou pano.
+Sem barro, use palha ou pano dobrado para vedar as frestas; dura menos.
+Sem pano, use esteira de palha ou folhas largas umedecidas na entrada.
+Sem água suficiente, a torre ainda ventila, mas não resfria tanto.
+Se não puder subir no telhado, não improvise em altura: peça ajuda.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Uma fita de pano pendurada na saída balança para fora do cômodo.
+Ao aproximar a mão da entrada, o ar empurra o pano para dentro.
+Com termômetro, o ar dentro fica mais frio que o de fora em dia seco.
+A poeira no piso da entrada diminui quando o vento sopra.
+Não há frestas com ar vazando além da abertura de entrada e da saída.
+
+FONTES
+------
+Verbete Badgir, de Susan Roaf, na Encyclopaedia Iranica (1988, revisto em
+2016): princípio da torre de vento e do resfriamento por evaporação.
+Revisão de tecnologias de windcatcher, de Saadatian e outros (2012),
+citada na bibliografia consultada. A montagem é adaptação prática da
+construção vernacular, sem manual único.

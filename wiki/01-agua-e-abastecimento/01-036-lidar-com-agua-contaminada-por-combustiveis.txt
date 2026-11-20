@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 01-036
+TITULO: Como lidar com água contaminada por combustíveis
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 15 minutos
+RISCO: critico
+EXIGE: outra fonte de água, local ventilado, sem chamas por perto
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, gasolina, óleo, combustível, cheiro, não beber
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer água com combustível e impedir que ela seja bebida ou usada.
+
+QUANDO USAR
+-----------
+Após derramamento de gasolina, diesel ou óleo perto da fonte.
+Quando a água tiver cheiro de gasolina, solvente ou óleo queimado.
+Quando aparecer película brilhante ou mancha colorida na superfície.
+Após enchente que passou por postos, oficinas ou tanques.
+
+NAO USE QUANDO
+--------------
+Não desça em poço, caixa subterrânea ou cisterna para conferir o cheiro.
+Vapores podem se acumular, asfixiar ou pegar fogo.
+Não cheire de perto em ambiente fechado: saia e ventile o lugar primeiro.
+
+MATERIAIS
+---------
+- Pano absorvente (papelaria, serragem ou areia limpa) para retirar o óleo.
+- Recipiente limpo e tampado, que nunca guardou tinta ou combustível.
+- Luva (pano grosso) para manusear o material absorvente.
+- Água de outra fonte, engarrafada ou de procedência segura conhecida.
+- Abertura de porta ou janela para ventilar o ambiente.
+
+PROCEDIMENTO
+------------
+1. Pare de usar a água na hora: não beba, não cozinhe e não lave louça.
+2. Não escove os dentes, não faça gelo e não banhe ninguém com essa água.
+3. Afaste pessoas e animais da fonte e sinalize o ponto com uma estaca.
+4. Abra portas e janelas para ventilar o lugar antes de chegar perto.
+5. Não acenda fogo, fósforo, isqueiro nem interruptor perto da água.
+6. Observe a superfície ao ar livre: procure brilho ou mancha colorida.
+7. Cheire sem encostar o nariz, com o vento de costas; pare se tontar.
+8. Não tente salvar a água com pano, carvão, cloro, filtro ou fervura.
+9. Retire o óleo solto com pano absorvente, sem mexer no fundo.
+10. Coloque o pano usado em saco ou pote fechado, longe de calor e chamas.
+11. Esvazie por completo a cisterna, o balde ou o tanque contaminado.
+12. Lave as paredes do recipiente com água limpa e detergente.
+13. Peça à autoridade de saúde orientação para descartar a água da lavagem.
+14. Use só água de outra fonte para beber, cozinhar e fazer higiene.
+15. Se alguém bebeu, leve a pessoa para o ar livre e procure atendimento.
+16. Não provoque vômito na pessoa que bebeu combustível.
+
+ATENCAO
+-------
+Ferver, clorar, filtrar ou deixar a água parar não remove combustível.
+Ferver água com combustível pode inflamar vapores e concentrar o resto.
+Vapor é o gás inflamável que sai do combustível e se mistura ao ar.
+Ausência de cheiro não prova que a água esteja segura: na dúvida, isole.
+Não provoque vômito: o líquido pode ir aos pulmões e causar pneumonia.
+Náusea, vômito, tontura ou falta de ar exigem atendimento imediato.
+Não use a água para beber, cozinhar, escovar dentes, gelo ou banho.
+Só volte a usar poço ou cisterna com avaliação da autoridade de saúde.
+Em área fechada, vapores podem asfixiar: ventile e não desça ao poço.
+Crianças e animais ficam afastados até a fonte ser liberada.
+
+SE NAO TIVER
+------------
+Sem pano absorvente, use papelaria, serragem, areia limpa ou jornal
+para retirar o óleo que boia; não use material que guardou agrotóxico.
+Sem água engarrafada, use apenas fonte protegida e distante do vazamento.
+Sem como descartar, mantenha tudo em pote fechado, longe de calor
+e chamas, até receber orientação da autoridade de saúde.
+Não existe improviso que torne potável água com combustível; peça
+ajuda a vizinhos, defesa civil ou autoridade se não houver fonte.
+Para tornar segura água sem químicos, veja 01-001.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A fonte suspeita está isolada, sinalizada e ninguém está bebendo dela.
+O lugar está ventilado e não há fogo, isqueiro ou interruptor ligado perto.
+O óleo visível foi retirado e o material ficou em recipiente fechado.
+Toda a água usada para beber, cozinhar e higiene veio de outra fonte.
+Se houve ingestão, a pessoa está ao ar livre e já procurou atendimento.
+
+FONTES
+------
+Ministério da Saúde: guia "Água tratada em casa", Secretaria de
+Vigilância em Saúde e Ambiente. Água com óleo ou gasolina não entra
+no filtro; ferver não retira produtos químicos.
+CDC: "How to Make Water Safe in an Emergency" e guias para cisternas.
+Água com combustível não se torna segura por fervura; esvazie a
+cisterna e avise a autoridade de saúde.
+OMS: "Guidelines for Drinking-water Quality", ficha Petroleum
+products. Cheiro e gosto detectam derivados do petróleo em dose baixa.
+UKHSA (Reino Unido): ficha Petrol. Gasolina é inflamável; se ingerida,
+procure atendimento e não provoque vômito.

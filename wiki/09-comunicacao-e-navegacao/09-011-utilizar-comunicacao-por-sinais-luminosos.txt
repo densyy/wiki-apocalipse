@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 09-011
+TITULO: Como utilizar comunicação por sinais luminosos
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 15 minutos
+RISCO: baixo
+EXIGE: espelho ou metal polido, sol ou lanterna, visão livre
+REVISAO: 2026-11
+PALAVRAS-CHAVE: luz, clarão, espelho, sinal, Morse, SOS, resgate
+==============================================================================
+
+OBJETIVO
+--------
+Envie mensagens curtas e pedidos de ajuda com clarões de luz.
+
+QUANDO USAR
+-----------
+Quando o grupo se separa em área com visão direta entre as pessoas.
+Quando faltam rádio e celular, mas há sol ou lanterna.
+Quando se espera aeronave ou equipe de resgate em horário marcado.
+
+NAO USE QUANDO
+--------------
+Sem linha de visão direta: mato, prédios e relevo bloqueiam o feixe.
+Sem código combinado: o clarão pode ser lido como outra coisa.
+Sem sol e sem lanterna: sem luz, o método não serve.
+
+MATERIAIS
+---------
+- Espelho sinalizador com furo de mira (espelho comum ou CD polido).
+- Lanterna ou tocha de feixe forte, para uso noturno.
+- Papel e lápis para anotar o código de clarões.
+
+PROCEDIMENTO
+------------
+1. Combine o código com o grupo antes de precisar dele.
+2. Defina: um clarão é "estou aqui"; dois, "tudo bem"; três, "ajuda".
+3. Escreva o código no papel e entregue uma cópia a cada pessoa.
+4. Vá a ponto alto e aberto, de onde se vê o destinatário.
+5. De dia, segure o espelho perto do rosto e mire pelo furo no alvo.
+6. Jogue a mancha de luz refletida na própria mão, ao lado do espelho.
+7. Gire o espelho até a mancha sumir no furo de mira.
+8. Interrompa o feixe com a mão para formar clarões curtos e longos.
+9. Repita o padrão três vezes e espere a resposta.
+10. De noite, aponte a lanterna ao alvo e ligue e desligue o feixe.
+11. Sem código, envie SOS: três curtos, três longos, três curtos.
+
+ATENCAO
+-------
+O feixe refletido é estreito: um giro pequeno tira o alvo da mira.
+Sem sol o espelho não funciona; névoa, chuva e mata encurtam o alcance.
+Reflexos de vidro e água enganam: repita o código e espere confirmação.
+Nunca aponte a olhos, aeronave em pouso ou carro: ofusca a visão.
+Se ninguém responder, mude para ponto mais alto e aberto.
+
+SE NAO TIVER
+------------
+Sem espelho, use CD ou tampa de panela polida. Sem sol, use lanterna.
+Sem luz nenhuma, use o apito: veja 09-001.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A mancha some no furo de mira e quem recebe devolve os clarões.
+
+FONTES
+------
+Prática consolidada de sinalização visual: "Visual Signalling"
+(Exército britânico, 1942) e "Manual of Instruction in Army
+Signaling" (1886), preservados por Royal Signals e SMECC. Espelho
+em kit de sobrevivência e SOS são prática consolidada.

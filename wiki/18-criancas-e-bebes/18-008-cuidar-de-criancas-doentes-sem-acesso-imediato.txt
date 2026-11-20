@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 18-008
+TITULO: Como cuidar de criança doente sem hospital por perto
+CATEGORIA: 18 - Crianças, bebês e cuidados familiares
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: termômetro, água tratada, copo limpo, saquinho de soro de farmácia
+REVISAO: 2026-11
+PALAVRAS-CHAVE: criança, febre, desidratação, soro, sinais de perigo, bebê
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer sinais de perigo, hidratar e confortar a criança até achar ajuda.
+
+QUANDO USAR
+-----------
+Quando a criança estiver doente e o hospital demorar a ser alcançado.
+Quando houver febre, vômito ou diarreia e você precisar decidir o que fazer.
+Quando a criança estiver sonolenta, irritada ou respirando diferente.
+Ao cuidar de bebê com menos de 2 meses, que piora depressa.
+
+NAO USE QUANDO
+--------------
+Não substitui atendimento médico. Diante de sinal de perigo, disque 192.
+Não use para feridas profundas, fraturas, queimaduras ou intoxicação.
+Nesses casos, procure socorro imediato sem perder tempo com este texto.
+
+MATERIAIS
+---------
+- Termômetro (ou a mão para sentir o calor, sem medir graus).
+- Água tratada: filtrada, fervida e fria, ou água de coco.
+- Soro de reidratação oral (SRO): saquinho de farmácia (água de coco).
+- Copo limpo e tampado (garrafa de plástico bem lavada).
+- Colher pequena (seringa sem agulha) para dar líquidos aos golinhos.
+- Papel e lápis para anotar horas, temperatura e quantidade bebida.
+- Pano limpo e roupa leve (toalha limpa).
+
+PROCEDIMENTO
+------------
+1. Observe a criança antes de tocar nela: veja se respira com esforço.
+2. Procure sinais de perigo: costelas que afundam a cada respiração.
+3. Observe lábios ou rosto azulados, gemido ou respiração muito rápida.
+4. Veja se a criança não acorda, não mama, não bebe ou vomita tudo.
+5. Procure convulsão, manchas vermelhas na pele ou pele muito pálida.
+6. Em bebê com menos de 2 meses, qualquer febre é sinal de perigo.
+7. Se notar algum desses sinais, disque 192 e prepare a ida ao posto.
+8. Deite a criança inconsciente de lado, com a cabeça virada para baixo.
+9. Afade objetos duros e não coloque nada na boca da criança.
+10. Meça a temperatura. A partir de 37,8 °C, trate como febre.
+11. Tire o excesso de roupa e deixe a criança em lugar arejado, sem sol.
+12. Ofereça líquidos seguros em golinhos pequenos e frequentes.
+13. Dissolva 1 saquinho de SRO em 1 litro de água tratada, se tiver.
+14. Após cada diarreia, dê 50 a 100 mL se a criança tiver menos de 1 ano.
+15. Após cada diarreia, dê 100 a 200 mL se tiver de 1 a 10 anos.
+16. Se vomitar, espere aproximadamente 10 minutos e ofereça mais devagar.
+17. Mantenha o aleitamento materno se a criança ainda mama.
+18. Anote a hora de cada dose, a temperatura e a quantidade de urina.
+19. Observe de novo a cada 30 minutos e repita os passos 2 a 5.
+20. Se a febre durar mais de 3 dias ou a criança piorar, busque ajuda.
+
+ATENCAO
+-------
+A falta de ar é a causa mais comum de morte em crianças doentes.
+Não espere a febre baixar para pedir ajuda se houver sinal de perigo.
+Bebê com menos de 2 meses piora depressa: não espere 24 horas.
+Respiração com gemido, manchas na pele e sonolência são emergência.
+Não dê aspirina nem remédio com ácido acetilsalicílico à criança.
+Não calcule dose de remédio de memória: use só o que já foi prescrito.
+Soro mal preparado, com sal ou açúcar errados, agrava a desidratação.
+Fontes divergem: o corte da febre é 37,8 °C no Brasil e 38 °C em outras.
+Se não melhorar em 2 dias, ou se piorar, volte ao serviço de saúde.
+
+SE NAO TIVER
+------------
+Sem termômetro, compare o calor da testa com a sua e observe o jeito dela.
+Sem SRO, ofereça água tratada, água de coco ou sopa, aos golinhos.
+Sem saquinho, não improvise sal e açúcar se não souber a medida exata.
+Sem ajuda imediata, mantenha a criança limpa, agasalhada e hidratada.
+Sem posto próximo, envie alguém para pedir ajuda e leve seu registro.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A criança respira sem esforço, com a pele rosada e os olhos atentos.
+Bebe líquidos sem vomitar, urina com frequência e tem lágrimas ao chorar.
+A boca fica úmida e ela fica mais disposta mesmo com febre baixa.
+Você anotou horas, temperatura e quantidade bebida e sabe para onde ir.
+
+FONTES
+------
+Ministério da Saúde: doenças diarreicas agudas e Nota Técnica 38/2023.
+Secretaria da Saúde do Paraná: sinais de perigo em crianças.
+OMS: Livro de bolso de cuidados hospitalares para crianças (triagem).
+CDC: sinais de emergência em crianças com doenças respiratórias.
+Cruz Vermelha e IFRC: primeiros socorros comunitários e cuidado da febre.

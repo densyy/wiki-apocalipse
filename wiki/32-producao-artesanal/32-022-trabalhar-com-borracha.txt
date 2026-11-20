@@ -1,0 +1,84 @@
+==============================================================================
+CODIGO: 32-022
+TITULO: Como trabalhar com borracha
+CATEGORIA: 32 - Produção industrial e manufatura artesanal
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: cola de borracha, remendo, lixa grossa, luvas, óculos, ventilação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: borracha, cola, remendo, câmara, pneu, vulcanizar, solvente
+==============================================================================
+
+OBJETIVO
+--------
+Unir e reparar peças de borracha com cola e remendo, de forma segura.
+
+QUANDO USAR
+-----------
+Quando uma câmara de ar, pneu, bota ou mangueira de borracha fura.
+Quando é preciso unir duas peças de borracha ou fixar borracha a tecido.
+Quando não há peça nova e o reparo devolve o uso do objeto.
+
+NAO USE QUANDO
+--------------
+Quando a borracha está seca, rachada ou endurecida: não cola.
+Quando o reparo ficará sob alta pressão e não pode ser testado.
+Quando não há ventilação ou há fogo, faísca ou motor por perto.
+Quando a peça toca água potável, alimentos ou pele por muito tempo.
+
+MATERIAIS
+---------
+- Cola de borracha vulcanizante ou de contato, à base de solvente.
+- Remendo de borracha com uma face crua (ou borracha crua).
+- Lixa grossa ou raspador de metal.
+- Luvas nitrílicas e proteção ocular.
+- Pano limpo e papel para retirar o excesso.
+- Peso, grampo ou braçadeira para manter a pressão.
+- Local arejado, longe de fogo, faísca e motor ligado.
+
+PROCEDIMENTO
+------------
+1. Retire a peça do uso e limpe sujeira com pano seco.
+2. Lixe a área do furo até perder o brilho e ficar áspera.
+3. Lixe também o remendo, incluindo toda a borda do furo.
+4. Retire a poeira com pano limpo e seco.
+5. Abra a cola só no local arejado, com luvas e proteção ocular.
+6. Aplique uma camada fina de cola nas duas superfícies.
+7. Espere a cola secar ao toque, sem encostar os dedos.
+8. Aplique uma segunda camada fina e espere secar de novo.
+9. Encoste o remendo no lugar, alinhando sem arrastar.
+10. Pressione toda a área com peso, grampo ou braçadeira.
+11. Mantenha a pressão sem mover a peça durante a cura.
+12. Deixe curar cerca de 24 horas em lugar acima de 21 graus.
+
+ATENCAO
+-------
+A cola com solvente é inflamável: afaste fogo, faísca, cigarro e motor.
+Trabalhe em local arejado: vapor em lugar fechado inflama e intoxica.
+Nunca aqueça cola úmida: pode pegar fogo; espere secar primeiro.
+Use luvas e óculos: o solvente irrita pele e olhos e dá tontura.
+Cola comum não adere a borracha já vulcanizada: use face crua.
+Reparo em câmara ou pneu sob pressão deve ser testado com cuidado.
+Se sentir tontura, náusea ou cheiro forte, saia ao ar livre e pare.
+Não use em peça que toque água potável ou alimento: solvente passa.
+
+SE NAO TIVER
+------------
+Sem cola vulcanizante, use cola de contato e dobre o tempo de cura.
+Sem remendo, recorte borracha crua de câmara velha fora de uso.
+Sem lixa, use pedra áspera para desbastar a superfície.
+Sem grampo, amarre com barbante ou coloque um peso sobre a emenda.
+Sem cola pronta, não dissolva borracha em gasolina: o risco é alto.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O remendo ficou firme, sem bolhas, com as bordas coladas.
+Ao pressionar com o dedo, não entra ar nem se solta a borda.
+Após a cura, a emenda não cede ao puxão leve e mantém a forma.
+
+FONTES
+------
+Prática consolidada de colagem e reparo de borracha, resumida aqui.
+Referências: Letter Circular 411 (Rubber Cements), do antigo
+National Bureau of Standards dos EUA; orientações da Tire
+Industry Association sobre cura e segurança de cimentos inflamáveis.

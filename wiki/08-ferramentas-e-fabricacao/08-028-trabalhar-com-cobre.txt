@@ -1,0 +1,97 @@
+==============================================================================
+CODIGO: 08-028
+TITULO: Como trabalhar com cobre
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: cobre, maçarico ou brasa, óculos, luvas, pinça, ventilação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: cobre, recozer, amolecer, dobrar, soldar, tubo, fluxo
+==============================================================================
+
+OBJETIVO
+--------
+Cortar, amolecer, dar forma e unir cobre para fabricar ou consertar peças.
+
+QUANDO USAR
+-----------
+Quando for preciso fazer ou consertar tubo, recipiente ou encaixe de cobre.
+Quando o cobre endureceu ao ser dobrado e começa a rachar.
+Quando sobrou fio, chapa ou tubo de cobre aproveitável.
+
+NAO USE QUANDO
+--------------
+Sem óculos, luvas, pinça e ventilação: pare.
+Em lugar fechado ou sem saída de ar: pare, os fumos da solda são tóxicos.
+Em peça para água ou alimento, se a solda contiver chumbo: pare.
+Quando o metal não for cobre: latão, bronze e zinco têm regras diferentes.
+
+MATERIAIS
+---------
+- Cobre limpo: chapa, tubo ou fio, sem tinta, óleo ou revestimento.
+- Fogo de forja, brasa forte ou maçarico.
+- Óculos de proteção, luvas grossas e pinça ou tenaz.
+- Balde com água para apagar o fogo e resfriar a peça.
+- Tesoura de metal, serra ou lima para cortar (substituto: serra manual).
+- Martelo de madeira ou borracha para dar forma.
+- Fluxo de solda (borax) e solda de prata sem cádmio para unir.
+- Ácido cítrico em água morna, aproximadamente 10 %, para limpar.
+
+PROCEDIMENTO
+------------
+1. Calce óculos e luvas e afaste pessoas e material inflamável.
+2. Limpe o cobre com lixa ou escova até o metal brilhar.
+3. Corte com tesoura de metal, serra ou lima; não use fogo para cortar.
+4. Retire as rebarbas da borda com lima: a borda de cobre corta a mão.
+5. Segure a peça com a pinça e aqueça devagar sobre a brasa ou maçarico.
+6. Aqueça até ficar vermelho-escuro (aproximadamente 600 °C); não passe.
+7. Se chegar a laranja-brilhante, está perto de derreter (1083 °C): pare.
+8. Retire do fogo com a pinça e resfrie na água, devagar.
+9. Doe a peça com a mão ou com o martelo de madeira, aos poucos.
+10. Se ficar dura ou abrir rachadura, aqueça de novo (passos 5 a 8).
+11. Repita aquecer e dobrar quantas vezes for preciso para chegar à forma.
+12. Para unir duas peças, encoste-as e aplique fluxo apenas na junta.
+13. Aqueça a junta pelo metal de base, nunca direto na solda.
+14. Encoste a solda na junta quente: o calor do cobre deve derretê-la.
+15. Deixe a solda esfriar e endurecer antes de mexer na peça.
+16. Mergulhe a peça quente em água para soltar o fluxo; escove depois.
+17. Para tirar o óxido, use o ácido cítrico morno da lista.
+18. Mergulhe aproximadamente 10 minutos e enxágue com água limpa.
+
+ATENCAO
+-------
+Cobre a aproximadamente 600 °C queima na hora: nunca toque com a mão.
+O fogo e o maçarico incendiam roupa e material próximo; tenha água ao lado.
+Aquecer demais queima o cobre, engrosa o grão e deixa a peça quebradiça.
+O cobre aceita resfriamento rápido na água, ao contrário do aço temperado.
+A solda com cádmio libera fumo que pode matar: use solda sem cádmio.
+O fluxo solta fumo irritante: não trabalhe em lugar fechado.
+Nunca curve o rosto sobre a peça quente.
+Nunca aplique a chama direto na solda: esquenta demais e solta fumo tóxico.
+Nunca use solda com chumbo em recipiente de água ou alimento.
+O ácido irrita olhos e pele; se respingar, lave com água corrente.
+Nunca misture ácido com água sanitária: libera gás cloro.
+Pare e procure ajuda se o fogo sair do controle ou se inalar fumo.
+Pare também se faltarem óculos, luvas ou ventilação.
+
+SE NAO TIVER
+------------
+Sem maçarico, use brasa forte e abundante; demora mais, mas amolece o cobre.
+Sem solda de prata, não tente vedar junta: calor sozinho não serve.
+Sem ácido cítrico, lave com água bem quente e escove; pode sobrar óxido.
+Sem pinça, não faça: a mão não substitui a pinça perto do fogo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Depois de recozer, a peça dobra com a mão e a lima marca sem dificuldade.
+A peça chegou à forma sem rachadura visível.
+A junta ficou fechada, sem fresta, e o fluxo saiu com a escovação.
+
+FONTES
+------
+NIST, Circular 73, Copper: ponto de fusão e recozimento.
+Copper Development Association, Properties of Copper e Copper Facts.
+HSE (Reino Unido), EIS31, Cadmium in silver soldering or brazing.
+CDC/NIOSH e OSHA, orientações sobre ventilação em soldagem e brasagem.
+Washington State Department of Health, Jewelry and Metalsmithing.
+Valores de temperatura e tempo são aproximados.

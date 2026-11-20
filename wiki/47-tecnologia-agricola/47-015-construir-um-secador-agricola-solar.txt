@@ -1,0 +1,88 @@
+==============================================================================
+CODIGO: 47-015
+TITULO: Como construir um secador agrícola solar
+CATEGORIA: 47 - Tecnologia agrícola e mecanização rural
+TEMPO: 2 horas
+RISCO: medio
+EXIGE: madeira, lona transparente, tela, pregos, serra, tinta preta
+REVISAO: 2026-11
+PALAVRAS-CHAVE: secador, desidratar, sol, frutas, grãos, estufa, secagem
+==============================================================================
+
+OBJETIVO
+--------
+Construir uma caixa de teto transparente que seca alimentos usando só o sol.
+
+QUANDO USAR
+-----------
+Quando houver excesso de frutas, verduras ou grãos para conservar.
+Quando não houver energia elétrica nem fogo disponível.
+Quando o sol for forte e o ar for seco por vários dias seguidos.
+Quando a secagem ao ar livre atraia insetos, poeira ou umidade.
+
+NAO USE QUANDO
+--------------
+Não use para secar carne, peixe ou produto de origem animal neste modelo.
+Não use em dias de chuva, neblina ou ar muito úmido.
+Não use se não houver sol forte por vários dias seguidos.
+
+MATERIAIS
+---------
+- Ripas de madeira ou taquara para a moldura.
+- Tábua ou compensado para o fundo da caixa.
+- Lona plástica transparente ou vidro para o teto (saco limpo).
+- Tela fina de nylon ou arame inox para as bandejas (pano limpo).
+- Tinta preta para o fundo (carvão moído com óleo).
+- Pregos, parafusos ou corda para prender as peças.
+- Serra, martelo e furador.
+- Tijolo ou pedra para apoiar e inclinar a caixa.
+
+PROCEDIMENTO
+------------
+1. Escolha local plano, ensolarado o dia todo e protegido de vento forte.
+2. Monte uma caixa baixa com cerca de 60 por 40 cm de base.
+3. Pregue as laterais com altura de aproximadamente 15 cm.
+4. Pinte o fundo de preto para absorver calor; espere secar antes de usar.
+5. Abra uma entrada de ar na parte baixa da parede voltada ao vento.
+6. Abra uma saída de ar na parte alta da parede oposta.
+7. Pregue a tela nas bandejas e apoie-as sobre cavaletes.
+8. Deixe as bandejas afastadas do fundo para o ar circular por baixo.
+9. Cubra o topo com lona transparente, sem bolsões onde a água pare.
+10. Incline o teto para o norte cerca de 15 graus.
+11. Espalhe o alimento cortado fino em camada única sobre a tela.
+12. Regule as aberturas para tirar umidade sem perder calor.
+13. Vire o alimento a cada duas horas para secar por igual.
+14. À noite e na chuva, recolha a caixa ou cubra para não umedecer.
+15. Repita por vários dias até o alimento ficar quebradiço.
+
+ATENCAO
+-------
+O calor interno pode passar de 45 graus e chegar a 60 graus ao meio-dia.
+Nunca use madeira tratada ou tinta com solvente onde o alimento encosta.
+A umidade presa cria mofo e toxinas que o cozimento não elimina.
+Se aparecer mofo, cheiro estranho ou mancha escura, descarte todo o lote.
+Não espalhe camada grossa: apodrece antes de secar por igual.
+A lona derrete se encostar em metal quente; prefira vidro quando possível.
+Use luvas ao serrar e ao pregar para não cortar as mãos.
+
+SE NAO TIVER
+------------
+Sem tinta preta, use carvão moído misturado com óleo no fundo.
+Sem tela de inox, use pano limpo de algodão preso na moldura.
+Sem lona, estique um saco plástico limpo por cima da caixa.
+Se o plástico não for próprio para alimento, não deixe o alimento o tocar.
+Sem madeira, improvise com caixa de papelão forrada com tela limpa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O alimento está quebradiço e sem umidade ao apertar com os dedos.
+Não há gotas d'água na lona pela manhã nem mofo na tela.
+A fruta seca mantém cor e cheiro normais, sem mancha escura.
+O ar entra pela abertura baixa e sai quente pela abertura alta.
+
+FONTES
+------
+Comunicado 479 da Embrapa Florestas (2022), secador solar.
+Embrapa Amazonia Oriental (2008), secador agroflorestal.
+Comunicado 98 da Embrapa Pantanal (2016), desidratacao de frutas.
+Orientacoes da FAO sobre secagem de frutas e vegetais.

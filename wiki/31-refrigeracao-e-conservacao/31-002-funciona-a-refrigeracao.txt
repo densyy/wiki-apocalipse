@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 31-002
+TITULO: Como funciona a refrigeração
+CATEGORIA: 31 - Refrigeração e conservação térmica
+TEMPO: 15 minutos
+RISCO: medio
+EXIGE: geladeira em funcionamento, caderno, lanterna
+REVISAO: 2026-11
+PALAVRAS-CHAVE: frio, geladeira, refrigerante, compressor, calor, ciclo
+==============================================================================
+
+OBJETIVO
+--------
+Entender, observando uma geladeira ligada, como o frio nasce da retirada
+de calor do interior, sem que se crie frio do zero.
+
+QUANDO USAR
+-----------
+Quando a geladeira liga e você quer entender por que o interior esfria.
+Quando a parte de trás esquenta ou o aparelho para: descreva o sintoma.
+Antes de chamar um técnico, saiba o que observar e o que não mexer.
+
+NAO USE QUANDO
+--------------
+Este texto não é instrução de reparo: não o use para abrir o aparelho.
+Se houver cheiro de gás, faísca ou vazamento visível, não faça a inspeção.
+Desligue o aparelho e chame um técnico nesses casos.
+
+MATERIAIS
+---------
+- Geladeira ou freezer ligado, com alimentos dentro ou vazio.
+- Caderno e lápis (ou papel e algo para escrever).
+- Lanterna (ou claridade do ambiente) para ver a parte de trás.
+
+PROCEDIMENTO
+------------
+1. Confirme que o aparelho está ligado: a luz interna acende ao abrir.
+2. Ouça o compressor: um ronco baixo vem da base na parte de trás.
+3. Toque nas serpentinas de trás e sinta o calor que elas liberam.
+4. Toque na parede interna e sinta o frio que retira calor dos alimentos.
+5. O refrigerante circula em ciclo fechado entre as duas partes.
+6. Dentro, evapora e absorve calor; fora, o compressor comprime o gás.
+7. O condensador libera calor; a válvula reduz a pressão e esfria o gás.
+8. Gire o termostato; feche a porta e nunca abra a tampa do compressor.
+
+ATENCAO
+-------
+O frio não é criado: o refrigerante retira calor de dentro e o leva fora.
+Sem energia o ciclo para e o calor volta a entrar devagar.
+Nunca abra o sistema selado: o refrigerante pode queimar ou asfixiar.
+Não toque nas serpentinas com as mãos molhadas: choque e queimadura fria.
+Não tampe a ventilação de trás: o aparelho pode superaquecer.
+Com cheiro de gás, estalo ou faísca, desligue e chame um técnico.
+
+SE NAO TIVER
+------------
+Sem aparelho, desenhe uma caixa: serpentinas dentro e fora, compressor.
+Sem luz, espere o dia claro; sem condições, use o texto como explicação.
+Nunca crie frio com gasolina, spray ou gás de cozinha: é perigoso.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Aponta serpentinas quentes atrás e parede fria dentro, sem errar.
+Explica: não cria frio, só move calor; liga compressor e termostato.
+
+FONTES
+------
+Prática consolidada e literatura técnica de refrigeração e transferência
+de calor (ciclo de compressão de vapor). Resumo operacional, sem citações.

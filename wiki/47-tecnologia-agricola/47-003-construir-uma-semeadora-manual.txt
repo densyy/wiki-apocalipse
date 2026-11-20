@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 47-003
+TITULO: Como construir uma semeadora manual
+CATEGORIA: 47 - Tecnologia agrícola e mecanização rural
+TEMPO: 120 minutos
+RISCO: medio
+EXIGE: tubo de PVC ou bambu, disco, eixo, madeira, serra, luvas, oculos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: semeadora, plantadeira, semente, sulco, plantio, horta
+==============================================================================
+
+OBJETIVO
+--------
+Construir uma semeadora manual que abre sulco, conta e deposita sementes
+em linha, com profundidade e espaço mais regulares que o plantio a mão.
+
+QUANDO USAR
+-----------
+- Quando as sementes lançadas a mão ficam em lugares irregulares.
+- Quando falta semeadora e a área é pequena, como horta ou roça familiar.
+- Quando se quer economizar semente e guardar o espaço entre as plantas.
+- Quando o solo está macio e sem pedras grandes.
+
+NAO USE QUANDO
+--------------
+- Solo muito duro, pedregoso ou com raízes grossas: a ponta entorta.
+- Solo encharcado: o sulco desmorona e a semente apodrece.
+- Declive forte: a ferramenta escapa e pode ferir o pé.
+- Semente grande demais ou pequena demais para os furos do disco.
+
+MATERIAIS
+---------
+- Tubo de PVC ou bambu com aproximadamente 60 cm e 50 mm de diâmetro.
+- Cabo de madeira reto com aproximadamente 80 cm.
+- Ponta cônica de madeira dura ou barra de ferro com aproximadamente 10 cm.
+- Disco de madeira ou plástico com 6 furos perto da borda.
+- Eixo: parafuso com porca ou pedaço de arame que atravesse o tubo.
+- Manivela curta de madeira presa no eixo.
+- Arame, corda, parafusos ou pregos para fixar as peças.
+- Faca, serra, brinquedo ou furadeira, e lixa.
+- Luvas de couro e óculos de proteção.
+
+PROCEDIMENTO
+------------
+1. Serre o tubo com aproximadamente 60 cm de comprimento.
+2. Lixe as duas bordas do tubo até não haver farpas nem cortes.
+3. Desbaste a ponta de madeira dura em cone com aproximadamente 10 cm.
+4. Prenda a ponta cônica na frente do tubo.
+5. Fixe a ponta com arame ou parafusos até não balançar.
+6. Prenda o cabo de madeira na parte de trás do tubo com arame ou pregos.
+7. Corte o disco com diâmetro menor que o tubo, para girar livre.
+8. Faça 6 furos no disco, perto da borda.
+9. Ajuste os furos para passar uma semente da cultura escolhida.
+10. Atravesse o disco com o eixo no centro.
+11. Fixe o eixo nas duas paredes do tubo, sem travar o disco.
+12. Posicione o disco sobre a saída inferior do tubo.
+13. Prenda a manivela no eixo, do lado de fora do tubo.
+14. Coloque sementes no reservatório, a parte de cima do tubo.
+15. Gire a manivela uma volta sobre um pano e conte as sementes.
+16. Repita o teste até cair uma semente por volta.
+17. Firme a ponta cônica no solo até a profundidade desejada.
+18. Gire a manivela uma volta para soltar a semente no sulco.
+19. Recue o equipamento e cubra a semente com terra.
+
+ATENCAO
+-------
+- A ponta corta: use luvas e nunca a aponte para o pé.
+- Fique sempre atrás da ponta, nunca na frente dela.
+- Farpas de madeira e estilhaços de ferro ferem mãos e olhos: use óculos.
+- O disco deve girar livre: se travar, pare e limpe a sujeira.
+- Semente presa no furo entrega vazio: confira a cada 20 sulcos.
+- O desenho exige ajuste fino: meça a profundidade e o espaço no campo.
+- Pare se a ponta entortar ou se o cabo soltar.
+
+SE NAO TIVER
+------------
+- Sem tubo de PVC, use bambu de diâmetro parecido ou garrafa pet grande.
+- Sem disco, use um pedaço de madeira ou plástico rígido.
+- Sem eixo de metal, use um pedaço de arame dobrado.
+- Sem manivela, gire o disco com a mão, com cuidado.
+- Sem lixa, passe pedra nas bordas até tirar as farpas.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- A ponta abre um sulco contínuo, fundo o bastante para a semente.
+- Cada volta da manivela solta uma semente no sulco.
+- As sementes ficam em linha, com espaço parecido entre elas.
+- O disco gira livre e a ponta não balança durante o uso.
+
+FONTES
+------
+- Prática consolidada de implementos manuais de baixo custo.
+- Não foi localizada fonte institucional com o desenho exato do disco.
+- Medidas aproximadas, ajustadas por teste prático no campo.
+- Resumo operacional; não substitui treinamento em oficina.
+- Para ferramentas de solo, veja 47-001 como leitura extra.

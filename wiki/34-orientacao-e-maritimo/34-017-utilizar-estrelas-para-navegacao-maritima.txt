@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 34-017
+TITULO: Como utilizar estrelas para navegação marítima
+CATEGORIA: 34 - Orientação, sobrevivência marítima e litoral
+TEMPO: 20 minutos
+RISCO: alto
+EXIGE: céu limpo e escuro, vista desarmada, caderno, lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: estrelas, estrela polar, polaris, cruz do sul, rumo, mar
+==============================================================================
+
+OBJETIVO
+--------
+Manter um rumo aproximado no mar e estimar a latitude usando estrelas fixas.
+
+QUANDO USAR
+-----------
+Quando a bússola não existe, quebrou ou foi desregulada.
+Quando o céu está limpo e não há luz de cidade por perto.
+Em travessia longa, sem terra à vista, para não girar em círculo.
+Para estimar a latitude aproximada depois de deriva.
+
+NAO USE QUANDO
+--------------
+Quando o céu estiver coberto, com névoa, chuva ou tempestade.
+Quando o mar estiver bravo e não der para manter o leme.
+Perto de costa desconhecida, recifes ou movimento de embarcações.
+Quando não der para distinguir a Ursa Maior da Cassiopeia.
+Quando não der para distinguir a Cruz do Sul da Falsa Cruz.
+Para calcular posição exata: o método dá só rumo e latitude aproximada.
+
+MATERIAIS
+---------
+- Vista desarmada (óculos, se usar).
+- Céu limpo, escuro e longe de luz artificial (ficar a favor do vento).
+- Caderno e lápis (papel e carvão).
+- Relógio ou contagem de tempo aproximada (baterias contadas).
+- Pano ou boné para proteger os olhos do frio e do sal.
+
+PROCEDIMENTO
+------------
+1. Segure-se no ponto estável e confirme estrelas fixas visíveis.
+2. Decida o hemisfério: Ursa Maior indica norte; Cruz do Sul, sul.
+3. Na dúvida entre as duas, pare e não invente rumo.
+4. No norte, ache a Ursa Maior: sete estrelas em forma de concha.
+5. Ache Dubhe e Merak na borda dianteira da concha.
+6. Prolongue Merak para Dubhe cinco vezes o intervalo entre elas.
+7. Confirme a Estrela Polar: brilhante e fixa entre as vizinhas.
+8. No sul, ache a Cruz: quatro estrelas em cruz e uma menor.
+9. Ache Gacrux, a vermelha do topo, e Acrux, a mais brilhante.
+10. Prolongue Gacrux para Acrux quatro vezes e meia o intervalo.
+11. Ache Alpha e Beta Centauri, as Ponteiras do Sul.
+12. Trace a perpendicular ao meio da linha entre as Ponteiras.
+13. Use o cruzamento das duas linhas como o polo sul celeste.
+14. Estique o braço e meça a altitude do polo no horizonte.
+15. Conte o punho fechado como aproximadamente dez graus.
+16. Anote hora, estrela e contagem: é a latitude aproximada.
+17. Mantenha a estrela do polo num ângulo fixo em relação à proa.
+18. Repita a medição a cada vinte minutos e corrija o leme.
+19. Ao amanhecer, pare e confirme o rumo por terra ou pelo Sol.
+
+ATENCAO
+-------
+Navegação por estrelas dá rumo aproximado, nunca posição exata.
+Um grau de erro equivale a aproximadamente 60 milhas náuticas.
+A Estrela Polar não marca o norte exato: fica a aproximadamente
+0,7 grau do polo e gira em círculo pequeno. Use a correção da
+Ursa Maior quando a conhecer.
+Vênus, Marte e Júpiter mudam de lugar entre as estrelas.
+A Cassiopeia tem cinco estrelas em forma de W e não aponta ao norte.
+A Falsa Cruz é maior, mais fraca e não tem as Ponteiras do Sul.
+Usá-la inverte o rumo.
+Não há estrela brilhante no polo sul: Sigma Octantis é fraca.
+Lua cheia, névoa e clarão de cidade escondem estrelas fracas.
+Correntes e vento desviam o barco: vigie a deriva.
+Em tempestade ou costa desconhecida, pare e peça ajuda.
+
+SE NAO TIVER
+------------
+Sem céu limpo, não improvise: espere clarear.
+Sem relógio, conte o tempo e reforce a leitura ao amanhecer.
+Sem caderno, memorize a contagem de punhos.
+Sem ver a estrela do polo, mantenha o rumo e reduza a velocidade.
+Sem bússola e sem estrelas, não navegue em mar aberto.
+Fique junto à embarcação e sinalize.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A estrela do polo mantém a mesma altura acima do horizonte.
+A contagem de punhos repetida dá o mesmo número aproximado.
+A estrela fica na mesma posição em relação à proa.
+A latitude anotada bate com a costa conhecida ao amanhecer.
+
+FONTES
+------
+Prática consolidada de navegação celestial e orientação astronômica.
+Referências: American Practical Navigator (Bowditch), da NGA, e
+Astronomical Almanac do US Naval Observatory. Dados de Polaris e
+Cruz do Sul segundo literatura de referência. Resumo operacional.
+Não substitui treinamento de navegação.

@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 36-004
+TITULO: Como reconhecer minerais metálicos
+CATEGORIA: 36 - Geologia, mineração e recursos naturais
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: luz forte, lupa, imã, placa de risco, caderno
+REVISAO: 2026-11
+PALAVRAS-CHAVE: mineral, metal, brilho, risco, dureza, imã, minério
+==============================================================================
+
+OBJETIVO
+--------
+Diferenciar minerais metálicos de rochas comuns com testes simples.
+
+QUANDO USAR
+-----------
+Ao encontrar rocha com brilho de metal em caminhada ou escavação.
+Ao separar minério provável de rocha sem valor.
+
+NAO USE QUANDO
+--------------
+Com suspeita de material radioativo ou resíduo industrial: não manuseie.
+Com material quente, fumegando, de cheiro forte ou em talude instável.
+
+MATERIAIS
+---------
+- Luz forte, lupa de bolso e imã pequeno.
+- Placa de risco de porcelana ou cerâmica sem esmalte.
+- Caderno, lápis e luvas de pano ou couro.
+
+PROCEDIMENTO
+------------
+1. Coloque a amostra em superfície firme, com luz forte.
+2. Calce as luvas antes de tocar em mineral desconhecido.
+3. Observe face quebrada recentemente, não a face alterada.
+4. Anote brilho e cor da face fresca e da face alterada.
+5. Risque a amostra na placa e anote a cor do pó.
+6. Repita o risco noutra aresta para confirmar a cor.
+7. Se não sair pó, anote: mais duro que a placa.
+8. Aproxime o imã sem encostar e anote se há atração.
+9. Passe a unha na face fresca e anote se deixa sulco.
+10. Com faca de aço, risque a face sem cortar os dedos.
+11. Anote se a faca deixa sulco, fechando o teste de dureza.
+
+ATENCAO
+-------
+A cor engana: pirita parece ouro e hematita pode ser preta ou vermelha.
+Confie mais na cor do pó do que na cor da face alterada.
+Não lamba, não cheire de perto, não moa: pó de chumbo e sílica faz mal.
+Mineral brilhante pode ser tóxico ou radioativo; nunca prove nem triture.
+A faca e a aresta cortam: afaste os dedos ao riscar.
+O teste não dá o nome exato nem mede o teor de metal.
+Pare e busque ajuda com cheiro forte ou resíduo de mineração.
+
+SE NAO TIVER
+------------
+Sem lupa, use luz forte sem encostar o olho na amostra.
+Sem imã, use ímã de geladeira testado antes num prego de ferro.
+Não use fogo, ácido nem água salgada: substitutos inseguros.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Caderno traz brilho, cor do pó, atração ao imã e dureza de cada amostra.
+
+FONTES
+------
+Prática consolidada de identificação em campo e escala de dureza de Mohs.
+USGS, Centro Nacional de Informações sobre Minerais, visão geral.

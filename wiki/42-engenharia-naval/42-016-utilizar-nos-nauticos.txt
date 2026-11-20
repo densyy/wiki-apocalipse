@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 42-016
+TITULO: Como utilizar nós náuticos
+CATEGORIA: 42 - Engenharia naval e tecnologias marítimas
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: cabo íntegro, ponto firme, tempo para treinar em terra
+REVISAO: 2026-11
+PALAVRAS-CHAVE: nó, amarra, cabo, laço, volta, meia-volta, escote
+==============================================================================
+
+OBJETIVO
+--------
+Prender, unir e fazer laços em cabos com nós náuticos básicos e seguros.
+
+QUANDO USAR
+-----------
+Ao amarrar embarcação a árvore, estaca ou cote no cais.
+Ao precisar de laço fixo ou de emendar dois cabos.
+
+NAO USE QUANDO
+--------------
+Quando a corda estiver cortada, mofada, podre ou com cheiro de combustível.
+Para suspender pessoas ou cargas sem conhecer a resistência do cabo.
+
+MATERIAIS
+---------
+- Cabo ou corda de fibra limpa, sem cortes nem mofo.
+- Ponto firme: árvore grossa, estaca cravada ou cote de cais.
+- Segundo cabo, se for preciso emendar (mesmo diâmetro serve).
+
+PROCEDIMENTO
+------------
+1. Identifique a parte firme e a ponta livre; descarte corda danificada.
+2. Teste a corda: puxe, torça e faça nó simples; se arrebentar, descarte.
+3. Parte firme é a que suporta a carga; ponta livre é a que faz o nó.
+4. Dê uma volta completa da corda ao redor do ponto firme.
+5. Traga a ponta sobre a parte firme e passe por baixo, duas vezes.
+6. Puxe a parte firme até as meias-voltas ficarem justas.
+7. Faça um laço pequeno com a ponta livre por cima da parte firme.
+8. Passe a ponta livre de baixo para cima pelo laço pequeno.
+9. Leve a ponta por trás da parte firme, traga de volta e passe pelo laço.
+10. Puxe a parte firme e a ponta ao mesmo tempo até o laço assentar.
+11. Faça um laço na ponta do primeiro cabo, para unir dois cabos.
+12. Passe a ponta do segundo cabo no laço, contorne e enfie sob si.
+13. Puxe os dois cabos em sentidos opostos até a emenda assentar.
+
+ATENCAO
+-------
+Cabo sob tensão pode chicotear e ferir rosto, olhos e mãos.
+Nunca fique na linha de tensão entre a carga e o ponto de amarra.
+Nó mal feito desliza e solta a embarcação ou a carga sem aviso.
+Corda molhada ou mofada escorrega e apodrece: inspecione e refaça o nó.
+Sem figuras, treine em terra antes do nó; na dúvida, peça ajuda.
+
+SE NAO TIVER
+------------
+Sem cabo próprio, use corda de algodão, cânhamo ou fibra vegetal trançada.
+Sem cote ou estaca, não amarre: procure outro ponto firme.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A volta está firme e as duas meias-voltas ficaram justas, sem folga.
+O laço mantém o tamanho; a emenda não escorrega sob tensão.
+
+FONTES
+------
+FM 21-76, Exército dos EUA: amarra com volta e duas meias-voltas.
+Prática consolidada de marinharia, sem documento único; resumo operacional.

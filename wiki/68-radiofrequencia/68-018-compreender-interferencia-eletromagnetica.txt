@@ -1,0 +1,92 @@
+==============================================================================
+CODIGO: 68-018
+TITULO: Como compreender interferência eletromagnética
+CATEGORIA: 68 - Radiofrequência e telecomunicações
+TEMPO: 20 minutos
+RISCO: baixo
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: interferência, eletromagnética, ruído, sinal, EMC, blindagem
+==============================================================================
+
+OBJETIVO
+--------
+Entender o que é interferência eletromagnética e como ela afeta o rádio.
+
+QUANDO USAR
+-----------
+Quando um rádio chia sem motivo aparente.
+Quando o sinal cai perto de motores, fontes ou linhas de energia.
+Quando a ligação falha só em certos horários ou lugares.
+Quando dois aparelhos perto um do outro se atrapalham.
+Quando for escolher onde instalar a antena ou o rádio.
+
+NAO USE QUANDO
+--------------
+Não substitui medição com equipamento nem projeto de compatibilidade
+eletromagnética. Não autoriza mexer em transmissor energizado nem em rede
+elétrica. Este texto é conceitual: para resolver interferência real, teste
+no local.
+
+MATERIAIS
+---------
+- Papel e lápis para anotar o que se observa (opcional).
+- Um rádio ligado para ouvir o efeito (opcional).
+
+PROCEDIMENTO
+------------
+1. Entenda: interferência eletromagnética (EMI) é qualquer distúrbio
+   elétrico que atrapalha o funcionamento de um equipamento.
+2. Separe o sinal desejado do indesejado: o desejado é a informação
+   que você quer receber.
+3. Entenda o indesejado como ruído: uma tensão ou corrente que se soma
+   ao sinal e o deforma.
+4. Identifique a fonte: motores, ignição de veículos, fontes chaveadas,
+   raios, linhas de energia e outros transmissores.
+5. Reconheça as duas vias de entrada: conduzida, por fio, e irradiada,
+   pelo ar.
+6. Note que a via conduzida entra pelo cabo de energia, de antena ou
+   de terra do aparelho.
+7. Note que a via irradiada chega como onda e é captada pela antena
+   ou pelo próprio cabo.
+8. Observe o efeito no rádio: chiado, queda de sinal, distorção ou perda
+   total da comunicação.
+9. Entenda que toda interferência precisa de três partes: fonte, caminho
+   e um receptor sensível.
+10. Aja sempre em uma das três partes: reduzir a fonte, bloquear o
+    caminho ou proteger o receptor.
+
+ATENCAO
+-------
+Interferência não é o mesmo que falta de sinal: o sinal pode estar forte
+e ainda assim inútil. Aumentar a potência do transmissor pode piorar,
+pois a fonte interferente entra junto. A interferência pode vir de dentro
+do próprio equipamento, não só de fora. Ondas de rádio não são visíveis:
+não confie só no que você vê. Não toque em instalação elétrica nem em
+transmissor energizado para "testar". Se o chiado some ao desligar um
+aparelho, a fonte pode ser ele; peça ajuda a um técnico.
+
+SE NAO TIVER
+------------
+Sem rádio para testar, o raciocínio das três partes continua válido.
+Sem medidor, anote quando o problema ocorre: horário, lugar e quais
+aparelhos estavam ligados. Afastar o aparelho da fonte é uma primeira
+prova, não uma solução definitiva.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue nomear a fonte, o caminho e o receptor de uma interferência
+observada. Você explica a diferença entre interferência conduzida e
+irradiada. Você aponta qual das três partes atacar primeiro em um caso
+concreto.
+
+FONTES
+------
+Federal Standard 1037C, glossário de telecomunicações do governo dos
+EUA, entrada "electromagnetic interference". MIL-STD-461, requisitos do
+Departamento de Defesa dos EUA para controle de interferência
+eletromagnética em equipamentos. Recomendações da UIT, União
+Internacional de Telecomunicações, sobre compatibilidade eletromagnética
+e proteção contra interferência. Conhecimento consolidado de engenharia
+eletromagnética; este texto é resumo conceitual, não substitui
+treinamento técnico.

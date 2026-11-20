@@ -1,0 +1,80 @@
+==============================================================================
+CODIGO: 04-019
+TITULO: Como escolher baterias para sistemas isolados
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: consumo diário estimado, tensão do sistema definida
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bateria, sistema isolado, autonomia, litio, chumbo, carga
+==============================================================================
+
+OBJETIVO
+--------
+Escolher uma bateria segura e com capacidade suficiente para o
+sistema isolado funcionar nas horas sem sol.
+
+QUANDO USAR
+-----------
+Quando montar um sistema solar isolado em casa ou abrigo.
+Quando a bateria atual não segura carga até o dia seguinte.
+Quando ampliar a autonomia para noites e dias nublados.
+Quando decidir entre chumbo-ácido e litio para o mesmo uso.
+
+NAO USE QUANDO
+--------------
+Quando não for possível desligar todo o sistema para mexer.
+Quando houver vazamento, inchaço, cheiro forte ou borne derretido.
+Nesse caso pare e busque ajuda de pessoa experiente.
+Em local fechado sem ventilação se a bateria solta gás ácido.
+
+MATERIAIS
+---------
+- Papel, lápis, lista de aparelhos com potência e horas de uso.
+- Multímetro simples para conferir tensão (voltímetro comum).
+- Ficha da bateria: tensão, capacidade em Ah, tipo e uso indicado.
+- Ah significa ampère-hora: quantidade de carga que ela guarda.
+- Local firme, seco, ventilado, longe de fogo e de crianças.
+
+PROCEDIMENTO
+------------
+1. Liste todos os aparelhos com potência em watts e horas por dia.
+2. Multiplique potência por horas para achar o consumo diário.
+3. Some tudo para obter o total em watts-hora por dia.
+4. Defina a tensão do banco: 12, 24 ou igual à do inversor.
+5. Use só baterias iguais em tensão, tipo, marca e idade no banco.
+6. Escolha chumbo-ácido para custo menor e uso simples e parado.
+7. Prefira litio com proteção interna se houver recurso e peso importar.
+8. Calcule a conta base: divida o consumo diário pela tensão do banco.
+9. Multiplique o resultado pelos dias sem sol desejados, em geral dois.
+10. Para chumbo-ácido, dobre o valor por usar só metade da carga.
+11. Para litio, some metade a mais por usar quase toda a carga.
+12. Confira se o controlador e o inversor aceitam o tipo escolhido.
+13. Compre bateria nova, lacrada e com ficha clara do fabricante.
+
+ATENCAO
+-------
+Curto-circuito em bateria mata por queimadura, fogo ou explosão.
+Nunca ligue polos opostos nem encoste ferramenta nos dois bornes.
+Bateria de chumbo solta gás que explode perto de faísca ou fogo.
+Mantenha ventilação e nunca fume nem faça fogo ao lado dela.
+Ácido queima pele e olhos: não abra, não vire e não fure a caixa.
+Litio perfurado, inchado ou quente pode entrar em fogo intenso.
+Se aquecer, inchar ou cheirar forte, desligue tudo e afaste pessoas.
+Fogo em bateria não se apaga com pouca água: afaste e isole a área.
+
+SE NAO TIVER
+------------
+Sem multímetro, use só a ficha da bateria e a conta no papel.
+Sem litio, use chumbo-ácido com autonomia menor e recarga atenta.
+Sem bateria nova, não misture usada com nova no mesmo banco.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A tensão fica estável e os aparelhos funcionam até de manhã.
+A bateria recarrega de dia sem aquecer nem soltar cheiro.
+
+FONTES
+------
+Prática consolidada de sistemas fotovoltaicos isolados sem documento
+único; orientações gerais de segurança elétrica da FEMA e da EPA.

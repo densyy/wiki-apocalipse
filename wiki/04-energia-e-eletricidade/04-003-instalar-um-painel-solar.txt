@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 04-003
+TITULO: Como instalar um painel solar
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 180 minutos
+RISCO: alto
+EXIGE: painel solar, suporte, controlador de carga, bateria, ferramentas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: painel solar, instalar, energia solar, controlador, bateria
+==============================================================================
+
+OBJETIVO
+--------
+Fixar um painel solar pequeno em suporte firme e liga-lo a bateria
+atraves de controlador para gerar energia em local isolado.
+
+QUANDO USAR
+-----------
+Quando faltar energia da rede e houver sol durante o dia.
+Para carregar bateria e alimentar lampada, radio ou celular.
+Para montar um sistema pequeno isolado, fora da rede eletrica.
+Quando o telhado ou o terreno recebe sol direto e sem sombra.
+
+NAO USE QUANDO
+--------------
+Em telhado fraco, podre ou escorregadio por chuva.
+Se o plano e ligar o sistema na rede eletrica da rua.
+Sem controlador de carga entre o painel e a bateria.
+A noite ou sob tempestade com raios proximos.
+
+MATERIAIS
+---------
+- Painel solar com manual do fabricante.
+- Suporte de aluminio com parafusos e grampos (base de madeira tratada).
+- Controlador de carga compativel com o painel.
+- Bateria estacionaria ou de ciclo profundo.
+- Cabo solar com protecao contra sol (cabo comum resseca rapido).
+- Conectores proprios do kit, sem emenda improvisada.
+- Multimetro para conferir tensao e polaridade.
+- Chaves, furadeira, nivel, escada firme e cinto de seguranca.
+
+PROCEDIMENTO
+------------
+1. Trabalhe em dia seco e firme a escada em base nivelada.
+2. Monte o suporte no solo antes de subir ao telhado.
+3. Fixe o suporte na estrutura do telhado, nunca so na telha.
+4. Vede cada furo com selante flexivel contra infiltracao.
+5. Posicione o painel voltado para o sol do meio-dia.
+6. Incline o painel em angulo proximo a latitude local.
+7. Fixe o painel com grampos e aperte conforme o manual.
+8. Deixe espaco livre abaixo do painel para ventilar e limpar.
+9. Cubra o painel com tecido opaco antes de mexer nos cabos.
+10. Ligue o controlador a bateria antes de ligar o painel.
+11. Conecte os cabos respeitando positivo vermelho e negativo preto.
+12. Prenda os cabos com abracadeiras, longe de quinas e de agua.
+13. Ligue o painel ao controlador somente no final.
+14. Descubra o painel e confira a carga no visor do controlador.
+15. Aterre a estrutura metalica conforme o manual do equipamento.
+
+ATENCAO
+-------
+O painel gera eletricidade com qualquer luz do dia, mesmo nublado.
+Nunca desconecte conectores com o sistema produzindo; abre arco
+eletrico que queima a pele e incendeia material proximo.
+Queda de telhado acima de aproximadamente 2 metros pode matar;
+use cinto de seguranca, escada firme e um ajudante embaixo.
+Nunca ligue o painel na rede eletrica da casa sem profissional
+habilitado; retorno de energia pode eletrocutar quem conserta a rede.
+Nao instale com chuva, telha molhada ou raios proximos; agua
+conduz eletricidade e telha molhada escorrega.
+Painel ligado em curto esquenta e derrete cabo fino; confira a
+polaridade no multimetro antes de cada conexao.
+Se sentir cheiro de queimado ou ver faisca, cubra o painel com
+tecido opaco, desligue tudo e so volte com o sistema frio.
+
+SE NAO TIVER
+------------
+Sem suporte pronto, monte base rigida de madeira tratada e nivele.
+Sem selante para vedar furos, nao fure o telhado; instale no solo.
+Sem multimetro, confira a carga pelo visor do controlador.
+Sem ajudante, nao suba ao telhado; instale o painel no solo firme.
+Emenda de cabo com fita comum ao ar livre nao protege; refaca a
+conexao com conector proprio assim que possivel.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O controlador indica carga quando o sol bate no painel.
+A tensao da bateria sobe lentamente ao longo do dia.
+Lampada ou aparelho ligado funciona sem oscilar.
+Cabos e conectores seguem frios, sem cheiro de queimado.
+
+FONTES
+------
+Requisitos de projeto da ABNT NBR 16690 e de instalacoes de baixa
+tensao da ABNT NBR 5410; medidas de seguranca das normas NR-10
+e NR-35; guias de instalacao e seguranca de sistemas isolados
+do Departamento de Energia dos Estados Unidos; manuais de
+fabricantes de paineis e controladores de carga.

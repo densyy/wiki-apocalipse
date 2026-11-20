@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 65-002
+TITULO: Como compreender propriedades mecânicas dos materiais
+CATEGORIA: 65 - Engenharia de materiais e polímeros
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: ficha técnica do material, caderno, lupa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: material, resistência, dureza, ductilidade, tenacidade
+==============================================================================
+
+OBJETIVO
+--------
+Interpretar os números de uma ficha técnica de material.
+
+QUANDO USAR
+-----------
+Quando você vai escolher metal, plástico, cerâmica ou madeira para uma peça.
+Quando uma peça quebrou e você quer entender o motivo.
+Quando a ficha técnica traz números que você não entende.
+
+NAO USE QUANDO
+--------------
+Quando a peça sustenta peso de pessoa, veículo ou equipamento de segurança.
+A leitura da ficha não substitui cálculo nem profissional habilitado.
+
+MATERIAIS
+---------
+- Ficha técnica ou tabela de propriedades do material.
+- Caderno e lápis para anotar os valores.
+- Lupa para ler números pequenos em etiquetas (opcional).
+
+PROCEDIMENTO
+------------
+1. Identifique o material: metal, polímero (plástico), cerâmica ou madeira.
+2. Leia a tensão. Tensão é força dividida pela área, em megapascal (MPa).
+3. Leia o escoamento. É a tensão em que a peça deforma e não volta.
+4. Leia a resistência máxima à tração: maior tensão antes de romper.
+5. Leia o alongamento: quanto estica antes de romper, em porcentagem.
+6. Alto alongamento indica ductilidade, que é deformar sem romper.
+7. Leia a dureza, a resistência a riscos: Rockwell, Vickers ou Knoop.
+8. Leia o módulo de elasticidade: a rigidez; quanto maior, menos flexiona.
+9. Procure a tenacidade ao impacto, se a ficha trouxer esse dado.
+10. Compare com o serviço: peso, impacto, atrito e temperatura.
+11. Use margem de segurança: escolha valor menor que o de escoamento.
+12. Anote no caderno o material escolhido e o motivo.
+
+ATENCAO
+-------
+A ficha vale para ensaio controlado; furos e soldas mudam o resultado.
+Cargas repetidas causam fadiga e rompem abaixo do limite de escoamento.
+Cerâmica e alguns polímeros quebram sem aviso; pare se a peça sustenta peso.
+
+SE NAO TIVER
+------------
+Sem ficha, compare só o comportamento que você consegue observar.
+Dobra sem fissura indica ductilidade; quebra seca indica fragilidade.
+Não use esses testes para peça de segurança; busque a ficha do fabricante.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você aponta na ficha escoamento, resistência, dureza e alongamento.
+Você justifica a escolha e os valores ficam acima do necessário.
+
+FONTES
+------
+Divisão de Ciência e Engenharia de Materiais do NIST, sobre relações entre
+estrutura, propriedades e processamento de materiais.
+Grupo de Desempenho Mecânico do NIST, sobre propriedades mecânicas e dureza.
+Prática consolidada; resumo operacional, não substitui treinamento.

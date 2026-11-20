@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 71-006
+TITULO: Como proteger arquivos armazenados em HDs
+CATEGORIA: 71 - Criptografia, segurança da informação e privacidade
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: computador, ferramenta de criptografia ja instalada, papel
+REVISAO: 2026-11
+PALAVRAS-CHAVE: criptografia, senha, chave, hd, arquivos, privacidade
+==============================================================================
+
+OBJETIVO
+---------
+Proteger arquivos do HD contra leitura por pessoas sem autorização.
+
+QUANDO USAR
+-----------
+Quando o HD guarda documentos, senhas ou dados pessoais sigilosos.
+Quando o disco pode ser perdido, roubado ou examinado por terceiros.
+Ao guardar o disco em local que outras pessoas podem acessar.
+
+NAO USE QUANDO
+--------------
+Quando nao houver outro disco para guardar a copia antes de criptografar.
+Quando nao houver lugar separado para guardar a chave de recuperação.
+
+MATERIAIS
+---------
+- HD ou disco a proteger.
+- Computador de confiança com a ferramenta de criptografia ja instalada.
+- Outro disco ou midia para a copia de seguranca.
+- Papel e caneta para anotar a chave de recuperação.
+
+PROCEDIMENTO
+------------
+1. Ligue o HD ao computador de confiança e abra os arquivos.
+2. Copie os arquivos importantes para outro disco antes de continuar.
+3. Confira se a copia abre corretamente no outro disco.
+4. Verifique se o sistema ja oferece criptografia de disco ou de arquivos.
+5. Use apenas ferramentas ja instaladas; sem internet, nao baixe nada.
+6. Ative a criptografia dos arquivos ou da pasta com essa ferramenta.
+7. Crie senha longa: uma frase de seis a oito palavras sem sentido.
+8. Anote a chave de recuperação em papel e guarde-a longe do HD.
+9. Feche a sessao e tente abrir os arquivos com a senha criada.
+10. Guarde o HD em local seco, trancado e longe de imas.
+
+ATENCAO
+-------
+Criptografia sem copia pode causar perda definitiva dos arquivos.
+Sem senha e chave de recuperação, nao ha como desfazer a criptografia.
+Os menus mudam conforme o sistema; siga as instrucoes da ferramenta.
+Nao anote a senha no mesmo disco nem junto da chave.
+Senha curta ou palavra de dicionario e facil de adivinhar.
+
+SE NAO TIVER
+------------
+Sem ferramenta de criptografia, nao improvise: use o que ja vem no sistema.
+Sem outro disco, nao inicie: garanta primeiro uma copia.
+Protecao fisica ajuda, mas nao substitui criptografia.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os arquivos nao abrem sem a senha e abrem com ela.
+A copia de seguranca abre em outro disco.
+A chave de recuperação esta anotada e guardada fora do HD.
+
+FONTES
+------
+NIST SP 800-111, Guia de tecnologias de criptografia de armazenamento.
+NIST SP 800-63B, Diretrizes de identidade digital: senhas e chaves.

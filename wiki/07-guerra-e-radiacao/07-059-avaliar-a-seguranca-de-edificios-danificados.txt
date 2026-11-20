@@ -1,0 +1,86 @@
+==============================================================================
+CODIGO: 07-059
+TITULO: Como avaliar a segurança de edifícios danificados
+CATEGORIA: 07 - Guerra, radiação e catástrofes nucleares
+TEMPO: 20 minutos
+RISCO: critico
+EXIGE: lanterna, distância do prédio, autorização da defesa civil
+REVISAO: 2026-11
+PALAVRAS-CHAVE: prédio, rachadura, desabamento, vistoria, gás, defesa civil
+==============================================================================
+
+OBJETIVO
+--------
+Reconheça sinais de desabamento e fique de fora do prédio danificado.
+
+QUANDO USAR
+-----------
+Após explosão, bombardeio ou tremor, antes de entrar no prédio.
+Quando aparecerem rachaduras novas ou pedaços caídos da fachada.
+Quando houver cheiro de gás, faíscas ou fios caídos perto da entrada.
+Quando precisar decidir se a família entra ou espera do lado de fora.
+Quando a defesa civil ainda não vistoriou a construção.
+
+NAO USE QUANDO
+--------------
+Não use este texto para declarar o prédio seguro nem para autorizar entrada.
+Não faça a inspeção de perto se houver cheiro de gás ou fio elétrico caído.
+
+MATERIAIS
+---------
+- Lanterna (ou a luz do celular).
+- Caderno e lápis (ou anotação no celular).
+
+PROCEDIMENTO
+------------
+1. Fique do lado de fora, longe da fachada e da área de queda de entulho.
+2. Olhe a fachada de baixo para cima com a luz da lanterna.
+3. Procure rachaduras novas que atravessem a parede do topo à base.
+4. Observe se a parede está inclinada ou se o prédio está torto.
+5. Veja se há concreto, tijolo ou vidro caído na calçada.
+6. Observe janelas e portas empenadas, que não fecham mais.
+7. Detecte cheiro de gás perto da entrada; se sentir, afaste-se.
+8. Localize fios elétricos caídos perto do prédio.
+9. Não toque nem pise em fio caído.
+10. Escute estalos ou ruídos vindos de dentro do prédio.
+11. Não acenda fósforo, isqueiro nem interruptor se houver cheiro de gás.
+12. Não entre se houver rachadura atravessando parede ou parede inclinada.
+13. Não entre se houver entulho caído, cheiro de gás, fio ou estalo.
+14. Anote o endereço e os sinais que viu.
+15. Avise a defesa civil e os vizinhos.
+16. Entenda a placa, o cartaz colorido que o inspetor fixa na entrada.
+17. Placa verde: inspecionado, aparentemente seguro; pode entrar.
+18. Placa amarela: entrada limitada; entre só com autorização.
+19. Placa vermelha: interditado; não entre em nenhuma circunstância.
+20. Só entre com placa verde ou autorização do inspetor.
+
+ATENCAO
+-------
+Um prédio danificado pode desabar sem aviso, mesmo depois da vistoria.
+Tremores secundários e vento podem derrubar o que ficou solto.
+Rachadura fina pode esconder dano grave; não declare o prédio seguro.
+Cheiro de gás com faísca pode causar explosão; não use interruptor.
+Fios caídos podem matar por choque; mantenha distância.
+Poeira e fragmentos podem ferir; cubra boca, nariz e olhos.
+Este texto não substitui laudo nem autorização da defesa civil.
+Este texto não mede radiação; para isso, veja 07-035 e siga a defesa civil.
+Se houver feridos, chame socorro; não entre para resgatar sem treino.
+
+SE NAO TIVER
+------------
+Sem lanterna, espere a luz do dia para observar a fachada.
+Sem celular, peça a um vizinho que avise a defesa civil.
+Sem inspetor disponível, trate como interditado e fique de fora.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você lista os sinais vistos sem ter entrado no prédio.
+Você ficou de fora diante de placa vermelha ou qualquer sinal de risco.
+Você registrou o endereço e avisou a defesa civil.
+
+FONTES
+------
+Treinamento ATC-20 da FEMA sobre avaliação de segurança de prédios.
+Procedimentos ATC-20 e ATC-20-1 do Applied Technology Council.
+Diretrizes do CDC americano para segurança após terremoto.
+Prática consolidada de triagem visual feita de fora por não técnico.

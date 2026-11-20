@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 24-017
+TITULO: Como organizar abrigos comunitários seguros
+CATEGORIA: 24 - Segurança pessoal e proteção comunitária
+TEMPO: 120 minutos
+RISCO: alto
+EXIGE: local coberto, caderno, caneta, lanterna, apito, voluntários
+REVISAO: 2026-11
+PALAVRAS-CHAVE: abrigo, evacuação, acolhimento, incêndio, saída, vaga
+==============================================================================
+
+OBJETIVO
+--------
+Montar um abrigo com acesso controlado, rotas de fuga e regras claras.
+
+QUANDO USAR
+-----------
+- Após enchente, incêndio ou deslizamento que deixou moradores sem casa.
+- Quando a Defesa Civil pede evacuação de uma área ou prédio.
+- Quando várias famílias precisam de um ponto seguro e comum.
+- Para receber idosos, doentes ou pessoas com deficiência.
+
+NAO USE QUANDO
+--------------
+- Em prédio com rachaduras, risco de queda ou estrutura danificada.
+- Em área de enchente, encosta instável ou sob árvores e fios cortados.
+- Com cheiro de gás, fogo ativo ou material químico ou radioativo.
+- Sem autorização da Defesa Civil, quando ela estiver atuando.
+- Como substituto de hospital, bombeiros ou polícia.
+
+MATERIAIS
+---------
+- Local coberto e firme (escola, ginásio ou salão, se liberado).
+- Caderno e caneta para cadastro (papel solto em saco plástico).
+- Lanterna de pilhas e apito para cada voluntário (luz de emergência).
+- Extintor e detectores de fumaça e monóxido (se houver).
+- Água potável e sanitários ou balde com tampa para resíduos.
+
+PROCEDIMENTO
+------------
+1. Escolha um prédio firme, coberto e fora de área de enchente.
+2. Inspecione telhado, paredes, fios e vidros antes de abrir.
+3. Afastadas do prédio, marque a área de cozinha e de aquecimento.
+4. Delimite com fita as áreas de dormir, alimentar, cuidar e animais.
+5. Reserve pelo menos 3,5 m2 cobertos por pessoa em clima quente.
+6. Deixe corredores e portas livres.
+7. Nunca tranque nem obstrua as saídas.
+8. Coloque idosos, doentes e crianças perto de uma saída.
+9. Abra uma única entrada e registre nome e hora de cada pessoa.
+10. Anote saídas, hospitalizações e visitantes no caderno.
+11. Proíba fogo, fogareiro e aquecedor dentro do abrigo.
+12. Mantenha geradores a pelo menos 6 metros de portas e janelas.
+13. Teste detectores de fumaça e monóxido e deixe extintores visíveis.
+14. Ventile abrindo janelas quando o tempo permitir, sem fogo perto.
+15. Desenhe as rotas de fuga e escolha um ponto de encontro externo.
+16. Afixe rotas, horários e regras em local visível.
+17. Ensine o sinal de apito e o caminho até o ponto de encontro.
+18. Faça um ensaio de evacuação e corrija o que travar.
+19. Guarde água potável longe dos sanitários e exija lavar as mãos.
+20. Acione bombeiros, polícia ou Defesa Civil diante de ameaça.
+21. Atualize a lista de pessoas a cada dia e ao trocar de turno.
+
+ATENCAO
+-------
+- Fogo em ambiente fechado mata por monóxido: não há cheiro nem aviso.
+- Nunca cozinhe, aqueça o ambiente nem use gerador dentro do abrigo.
+- Gerador perto de janela pode matar quem dorme; afaste e ventile.
+- Superlotação espalha doenças e trava a evacuação: respeite o limite.
+- Não confronte nem revise pertences de ninguém; chame a autoridade.
+- Prédio danificado pode cair: se houver rachadura, mude de local.
+- Separe sanitários, lixo e animais da água e das áreas de dormir.
+- Não prometa proteção total: o abrigo reduz riscos, não os elimina.
+- Sem apoio da Defesa Civil, limite-se a acolher e avisar.
+
+SE NAO TIVER
+------------
+- Sem fita, use barbante, papel retorcido ou giz para demarcar.
+- Sem extintor, mantenha areia e um balde com água perto da saída.
+- Não use água em fogo elétrico ou de óleo: saia e chame os bombeiros.
+- Sem detector, não use equipamento a combustão dentro do prédio.
+- Sem voluntários, reduza o abrigo a uma sala e um turno.
+- Sem local firme, procure escola ou ginásio oficial da Defesa Civil.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- Há cadastro com nome, hora de entrada e saída de cada pessoa.
+- As rotas estão afixadas e o ponto de encontro é conhecido.
+- No ensaio, todos chegaram ao ponto sem correr ou empurrar.
+- Nenhum fogo, fogareiro ou gerador está dentro do prédio.
+- A água potável fica longe do lixo e há sabão para lavar as mãos.
+
+FONTES
+------
+- Abrigos Temporários no SUAS, cartilha do MDS, 2024.
+- Manual de Gestão de Abrigos da Defesa Civil de Sergipe, 2025.
+- Environmental Health Disaster Shelter Assessment Guide, CDC, 2019.
+- Guia de redução de risco de incêndio do Shelter Cluster, 2023.
+- Manual Sphere: padrões mínimos de abrigo e assentamento, 2018.
+- Resumo operacional; não substitui treinamento nem a orientação local.

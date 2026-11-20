@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 02-065
+TITULO: Como identificar plantas medicinais
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: caderno, lápis, lupa, guia impresso, amostra com folhas e flor
+REVISAO: 2026-11
+PALAVRAS-CHAVE: medicinal, nome científico, nome popular, chá, venenosa
+==============================================================================
+
+OBJETIVO
+--------
+Identificar a espécie provável da planta e saber quando não usar.
+
+QUANDO USAR
+-----------
+Quando alguém indicou uma planta pelo nome popular e você quer certeza.
+Quando a planta nasceu sozinha no quintal, na beira da estrada ou no mato.
+Antes de preparar chá, pomada ou outro uso com a planta.
+Quando a planta veio de doação, feira ou pessoa desconhecida.
+
+NAO USE QUANDO
+--------------
+Não use a planta se não der para confirmar o nome científico.
+Não use planta sem rótulo, sem nome botânico ou sem procedência conhecida.
+Não use em gestação, amamentação ou criança sem orientação de profissional.
+Não use se a planta estiver murcha, bolorenta ou com cheiro estranho.
+
+MATERIAIS
+---------
+- Caderno e lápis para anotar local, data e características.
+- Lupa de bolso (ou boa luz, se não houver lupa).
+- Guia impresso de plantas da região ou monografia do Ministério da Saúde.
+- Tesoura ou faca para cortar a amostra.
+- Jornal ou saco de papel para guardar a amostra.
+- Amostra da planta com folhas, flor ou fruto.
+- Pessoa experiente da região (mateiro, horto didático ou Farmácia Viva).
+
+PROCEDIMENTO
+------------
+1. Anote nome popular, local exato, data, quem indicou e o uso pretendido.
+2. Anote se é erva, arbusto, árvore ou trepadeira e a altura.
+3. Observe as folhas: se são simples ou compostas, a borda e as nervuras.
+4. Observe o caule, a cor da flor, o fruto e o cheiro ao amassar a folha.
+5. Anote se a seiva é transparente, leitosa ou amarela e se irrita a pele.
+6. Corte amostra com folhas, flor ou fruto (material fértil) e cinco ramos.
+7. Acondicione a amostra em jornal ou saco de papel, sem amassar.
+8. Procure no guia o nome botânico (nome científico em latim).
+9. Confira o nome botânico em uma segunda fonte confiável.
+10. Compare com o guia e marque no caderno o que confere e o que falha.
+11. Se algum caractere não conferir, pare e não use a planta.
+12. Mostre a amostra a pessoa experiente e peça o nome botânico por escrito.
+13. Leve a amostra a horto didático, herbário ou Farmácia Viva da região.
+14. Peça uma exsicata: planta seca e prensada, com etiqueta de local e data.
+15. Registre no caderno o nome botânico confirmado e quem confirmou.
+16. Use a planta só com nome botânico confirmado e sem dúvida.
+
+ATENCAO
+-------
+Um mesmo nome popular pode servir para espécies diferentes.
+"Cidreira" pode ser capim-limão, melissa ou Lippia alba.
+Plantas tóxicas são confundidas com plantas medicinais.
+Exemplos: mamona, mandioca-brava e espirradeira.
+Chapéu-de-napoleão e espirradeira são tóxicos se tomados por engano.
+Seiva leitosa de euforbiáceas queima pele e olhos; use luvas ao manusear.
+Foto, cheiro ou sabor sozinhos não confirmam a espécie.
+Monografias do Ministério da Saúde não garantem eficácia nem segurança.
+Leia sempre a advertência da monografia antes de usar.
+Se aparecer náusea, vômito, tontura, arritmia ou pele amarela, pare.
+Procure atendimento e leve a planta com você.
+Na dúvida, não consuma: chá errado pode matar.
+
+SE NAO TIVER
+------------
+Sem guia impresso, use planta indicada por pessoa experiente.
+Sem lupa, observe com boa luz e amasse a folha para sentir o cheiro.
+Sem horto por perto, envie a amostra a herbário ou universidade.
+Sem nenhuma confirmação, não use a planta.
+Não aceite apenas o nome popular: ele muda de região para região.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você encontrou o nome botânico da planta em duas fontes confiáveis.
+Cada caractere observado bate com a descrição da fonte.
+Uma pessoa experiente ou herbário confirmou o nome por escrito.
+Você sabe qual parte usar, onde a planta nasceu e em quem será usada.
+Se algo não bate, o sinal de acerto é ter parado e não usado.
+
+FONTES
+------
+Anvisa: Cartilha de orientações sobre fitoterápicos e plantas medicinais.
+Ministério da Saúde: Guia de plantas medicinais de Florianópolis.
+Ministério da Saúde: Monografias de plantas medicinais de interesse ao SUS.
+Ministério da Saúde: Contribuições para o uso racional de medicamentos.
+Embrapa: Manual de prática de coleta e herborização de material botânico.
+CIATox/SC: Plantas e cogumelos tóxicos.
+OMS: Diretrizes sobre boas práticas de processamento de plantas medicinais.

@@ -1,0 +1,81 @@
+==============================================================================
+CODIGO: 81-014
+TITULO: Como compreender combustão eficiente em fornos
+CATEGORIA: 81 - Engenharia térmica e fornos industriais
+TEMPO: 40 minutos
+RISCO: baixo
+EXIGE: nada além do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: combustão, lenha, oxigênio, tiragem, eficiência, fumaça
+==============================================================================
+
+OBJETIVO
+--------
+Entender o que faz a queima render mais calor com menos combustível e
+menos fumaça.
+
+QUANDO USAR
+-----------
+Quando o forno solta fumaça escura ou cheiro de queima incompleta.
+Ao notar que a lenha some rápido sem aquecer a carga.
+Quando a chama fica baixa e amarela dentro do forno.
+Ao ajustar a entrada de ar ou o tamanho da chaminé.
+Antes de trocar o tipo de combustível usado no forno.
+
+NAO USE QUANDO
+--------------
+Não há contraindicacao conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Caderno e lápis para anotar (celular).
+- Amostra do combustível usado no forno.
+- Termômetro para comparar o antes e o depois (pirômetro).
+- Régua para medir a chaminé e a entrada de ar.
+
+PROCEDIMENTO
+------------
+1. Observe a cor da chama: azul indica queima mais completa.
+2. Observe a fumaça: clara e fina indica queima mais limpa.
+3. Confira se há entrada de ar suficiente na frente do forno.
+4. Verifique se a chaminé tem altura e tiragem para puxar os gases.
+5. Entenda que o fogo precisa de três coisas: combustível, ar e calor.
+6. Falta de ar produz fumaça escura, fuligem e menos calor útil.
+7. Excesso de ar esfria o forno e leva calor pela chaminé.
+8. Registre o consumo de combustível em uma hora de operação.
+9. Anote a temperatura alcançada nesse mesmo período.
+10. Abra ou feche a entrada de ar aos poucos e observe a chama.
+11. Repita a medição após cada ajuste de entrada de ar.
+12. Compare os números e escolha o ponto de melhor rendimento.
+13. Anote a altura de chaminé que deu melhor tiragem.
+14. Guarde os valores como referência para o próximo acendimento.
+
+ATENCAO
+-------
+Fumaça escura indica queima incompleta e produz monóxido de carbono.
+Monóxido de carbono não tem cheiro e pode matar em ambiente fechado.
+Nunca regule a entrada de ar tampando a chaminé por completo.
+Lenha verde ou úmida gasta energia para evaporar água e rende menos.
+Combustível com resina ou tratamento químico pode soltar gases tóxicos.
+Ajustes de tiragem devem ser feitos com o forno frio ou com cuidado.
+
+SE NAO TIVER
+------------
+Sem termômetro, compare a cor da chama e o tempo de aquecimento.
+Sem régua, estime a altura da chaminé com o próprio corpo.
+Sem combustível de referência, teste pequenas quantidades de cada tipo.
+Sem caderno, anote os números no celular antes de esquecê-los.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A chama fica mais clara e estável depois dos ajustes.
+A fumaça sai mais fina e clara, com menos fuligem.
+O forno atinge a mesma temperatura gastando menos combustível.
+Você consegue explicar quanto ar a queima precisa.
+
+FONTES
+------
+Prática consolidada de operação de fornos e combustão, sem documento
+normativo único. Conceitos correntes de queima completa, excesso de ar,
+tiragem de chaminé e segurança contra monóxido de carbono, como
+apresentados em cursos básicos de termodinâmica e de segurança.

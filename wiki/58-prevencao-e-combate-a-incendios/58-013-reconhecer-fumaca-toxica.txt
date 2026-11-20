@@ -1,0 +1,81 @@
+==============================================================================
+CODIGO: 58-013
+TITULO: Como reconhecer fumaça tóxica
+CATEGORIA: 58 - Prevenção e combate a incêndios
+TEMPO: 5 minutos
+RISCO: critico
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fumaça, monóxido, incêndio, tontura, escape, detector
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer fumaça perigosa e sair antes de perder a consciência.
+
+QUANDO USAR
+-----------
+Ao ver fumaça, mesmo fina ou clara, saindo de porta ou janela.
+Ao sentir o nariz ou a garganta arderem perto de um fogo.
+Ao ver fumaça escura e espessa enchendo corredor ou sala.
+Quando alguém no local reclama de dor de cabeça ou tontura.
+Ao acordar com o ar pesado e cheiro de queimado no ambiente.
+Quando um alarme de fumaça dispara ou algo está queimando.
+
+NAO USE QUANDO
+--------------
+Não pare para investigar se o alarme disparou ou há chamas visíveis.
+Saia na hora. Este procedimento serve para reconhecer, não para ficar.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Pare a atividade ao ver qualquer fumaça, mesmo fina ou clara.
+2. Observe a cor e a densidade da fumaça.
+3. Trate fumaça escura e espessa como perigo imediato.
+4. Não confie em fumaça clara: ela também pode ser tóxica e sem cheiro.
+5. Não se aproxime da fumaça para sentir o cheiro.
+6. Note em você: dor de cabeça, tontura, fraqueza, náusea ou confusão.
+7. Note nas outras pessoas: voz enrolada, passos sem jeito, sonolência.
+8. Sinta o ar: calor e ardência nos olhos e garganta indicam fumaça quente.
+9. Se houver qualquer sinal, saia na hora pelo caminho mais curto.
+10. Agache-se e rasteje sob a fumaça; o ar melhor fica junto ao chão.
+11. Toque a maçaneta antes de abrir; se estiver quente, use outra saída.
+12. Ao sair, feche a porta e não entre de novo por nada.
+
+ATENCAO
+-------
+O monóxido de carbono é o veneno mais comum na fumaça de incêndio.
+Ele não tem cor nem cheiro: os sentidos não o detectam.
+Ausência de cheiro não quer dizer que o ar seja seguro.
+A fumaça mata mais gente em incêndios do que as chamas.
+Tontura, dor de cabeça e confusão podem surgir antes do perigo ser notado.
+Quem dorme ou está sob efeito de álcool pode morrer sem acordar.
+Crianças, idosos e gestantes sentem os efeitos mais rápido.
+Detectores de fumaça comuns não detectam monóxido de carbono.
+Não tente resgate sozinho em fumaça densa; peça ajuda.
+
+SE NAO TIVER
+------------
+Sem detector, conte com os sentidos, mas saiba que falham para o monóxido.
+Sem máscara, não improvise com pano úmido: não filtra gases tóxicos.
+Sem saída limpa, feche a porta, vede frestas com pano e sinalize na janela.
+Sem telefone, grite e bata na parede para avisar quem está fora.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você e os outros estão em ar livre, longe da fumaça.
+A fala está clara e os passos firmes.
+Ninguém precisa de ajuda para andar ou responder.
+Você não entrou de novo no local.
+
+FONTES
+------
+Administração de Incêndios dos Estados Unidos (USFA/FEMA): material
+"Know the Dangers of Smoke" e guia para idosos FA-221.
+Centros de Controle e Prevenção de Doenças (CDC): orientações sobre
+envenenamento por monóxido de carbono e seus sintomas.
+Ready.gov, agência federal dos Estados Unidos: guia "Home Fires".

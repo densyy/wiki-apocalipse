@@ -1,0 +1,84 @@
+==============================================================================
+CODIGO: 09-031
+TITULO: Como navegar em regiões montanhosas
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: mapa topográfico, bússola, papel, lápis, apito e relógio
+REVISAO: 2026-11
+PALAVRAS-CHAVE: montanha, navegação, mapa, bússola, trilha, perdido, apito
+==============================================================================
+
+OBJETIVO
+--------
+Percorra a montanha mantendo a posição conhecida no mapa e saiba
+agir se perder a referência.
+
+QUANDO USAR
+-----------
+Quando a trilha desaparece em neblina, chuva ou neve.
+Quando o grupo caminha fora de estradas e trilhas marcadas.
+Quando o celular e o GPS falham ou ficam sem bateria.
+Quando o relevo repete vales, cristas e encostas parecidas.
+Quando é preciso escolher entre descer um vale ou seguir uma crista.
+
+NAO USE QUANDO
+--------------
+Quando há risco de avalanche, raio ou enchente: pare e busque abrigo.
+Quando você não sabe usar mapa e bússola: não faça travessia sozinho.
+
+MATERIAIS
+---------
+- Mapa topográfico da região (carta do IBGE ou equivalente).
+- Bússola com agulha magnética e escala em graus.
+- Relógio para estimar o tempo de marcha.
+- Papel, lápis e fita adesiva para anotar e marcar pontos.
+- Apito e lanterna para sinalizar.
+- Altímetro, se houver (mede a altitude aproximada).
+
+PROCEDIMENTO
+------------
+1. Estude o mapa antes de sair: marque trilhas, rios, cristas e o destino.
+2. Anote no papel a rota, os pontos de referência e a direção do trecho.
+3. Oriente o mapa: alinhe o norte dele com o norte da bússola.
+4. Combine com o grupo os sinais de apito e o ponto de encontro.
+5. No primeiro trecho, compare o terreno com as curvas de nível do mapa.
+6. Reconheça as formas de relevo: topo, vale, crista, sela, depressão.
+7. Confira a posição a cada parada, olhando o terreno e o mapa juntos.
+8. Aponte a bússola reta abaixo da encosta, cortando as curvas de nível.
+9. Use essa direção da encosta como guia quando a visão cair.
+10. Prefira trilhas e estradas existentes: são as rotas mais seguras.
+11. Se sair da trilha, escolha cristas em vez de fundos de vale.
+12. Não desça por onde você não consegue voltar subindo.
+13. Combine a altitude com a direção da bússola para confirmar o ponto.
+14. Pare em pontos de vista amplo e refaça a checagem antes de seguir.
+15. Na volta, olhe para trás de vez em quando: a trilha muda de aparência.
+
+ATENCAO
+-------
+O tempo na montanha muda depressa: neblina esconde referências em minutos.
+Nunca ande sem rumo. Cada passo sem direção afasta você do ponto conhecido.
+Não entre em fundo de vale sem saída: chuva vira correnteza nesses lugares.
+Evite cristas em tempestade com raios e neve funda com risco de avalanche.
+Celular e GPS falham: bateria acaba e sinal cai. Não dependa só deles.
+Se perceber que está perdido, pare e sente. Não ande sem um motivo claro.
+
+SE NAO TIVER
+------------
+Sem mapa, desenhe em papel o que vê: rios, cristas e a direção da marcha.
+Sem bússola, use o sol e as estrelas para obter a direção aproximada.
+Sem altímetro, estime a altitude pelas curvas de nível do mapa.
+Sem apito, dê gritos em grupos de três e pisque a lanterna.
+Sem nenhum desses, fique no último ponto conhecido e sinalize.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A cada parada, o terreno bate com uma forma visível no mapa.
+A direção da encosta aponta para o mesmo trecho de curvas no mapa.
+Você chega ao ponto de encontro no horário combinado, com o grupo junto.
+
+FONTES
+------
+Manual FM 3-25.26 do Exército dos EUA, leitura de mapas e navegação.
+Manual FM 21-76 e FM 21-76-1 do Exército dos EUA, sobrevivência em montanha.
+Serviço Florestal dos EUA, guia If You Get Lost: método S.T.O.P.

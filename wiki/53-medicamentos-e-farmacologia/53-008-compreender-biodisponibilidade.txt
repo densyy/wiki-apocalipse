@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 53-008
+TITULO: Como compreender biodisponibilidade
+CATEGORIA: 53 - Produção de medicamentos e farmacologia
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: biodisponibilidade, absorção, primeira passagem, remédio
+==============================================================================
+
+OBJETIVO
+--------
+Interpretar a biodisponibilidade e o que ela muda na prática.
+
+QUANDO USAR
+-----------
+Ao ler o item de farmacocinética da bula de um remédio.
+Ao entender por que comprimido e injeção não são equivalentes.
+Ao compreender a troca entre remédio de marca e genérico.
+
+NAO USE QUANDO
+--------------
+Não use para escolher remédio, dose, marca ou via de administração.
+Não substitui bula, prescrição nem orientação do farmacêutico.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Defina biodisponibilidade: fração da dose que chega intacta ao sangue.
+2. Fixe a referência: injeção na veia tem 100 por cento por definição.
+3. Separe duas ideias: velocidade e extensão da absorção.
+4. Observe a curva: concentração do remédio no sangue ao longo do tempo.
+5. Siga a curva: ASC é a área sob a curva de concentração no sangue.
+6. Compare picos: Cmáx é a concentração máxima; Tmáx é o tempo até ela.
+7. Explique a perda: parte da dose se perde antes de chegar ao sangue.
+8. Identifique a primeira passagem: fígado e intestino consomem parte.
+9. Diferencie: absoluta compara com injeção; relativa, duas formulações.
+10. Defina bioequivalência: biodisponibilidade equivalente entre produtos.
+11. Entenda: genérico e referência equivalentes são intercambiáveis.
+
+ATENCAO
+-------
+- Este texto explica o conceito; não indica remédio, dose ou tratamento.
+- Nunca mude via, horário, marca ou dose por conta própria.
+- Genérico não troca por similar; formas diferentes não são equivalentes.
+- Sinais de intoxicação: náusea, vômito, tontura, confusão, falta de ar.
+
+SE NAO TIVER
+------------
+- Sem bula, use um manual de farmacologia para os conceitos.
+- Sem o dado na bula, não invente número: diga que não sabe.
+- Sem orientação do farmacêutico, não troque de medicamento.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- Você explica o conceito sem usar o termo técnico.
+- Você sabe por que a veia é a referência de 100 por cento.
+- Você distingue biodisponibilidade absoluta de relativa.
+
+FONTES
+------
+Anvisa, Conceitos e definições; RDC 742 de 2022, bioequivalência.
+Anvisa, Nota técnica 23 de 2018 sobre intercambialidade.
+Manuais MSD edição para profissionais: Biodisponibilidade.
+StatPearls, NCBI Bookshelf: Drug Bioavailability.
+EUPATI Toolbox: biodisponibilidade e bioequivalência.

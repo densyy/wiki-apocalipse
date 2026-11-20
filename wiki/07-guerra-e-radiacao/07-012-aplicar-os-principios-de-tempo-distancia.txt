@@ -1,0 +1,78 @@
+==============================================================================
+CODIGO: 07-012
+TITULO: Como aplicar os princípios de tempo, distância e blindagem
+CATEGORIA: 07 - Guerra, radiação e catástrofes nucleares
+TEMPO: 15 minutos
+RISCO: critico
+EXIGE: acesso a construção firme, de preferência com porão
+REVISAO: 2026-11
+PALAVRAS-CHAVE: tempo, distância, blindagem, abrigo, radiação, fallout
+==============================================================================
+
+OBJETIVO
+--------
+Reduza sua dose de radiação com menos tempo fora e mais parede.
+
+QUANDO USAR
+-----------
+Quando houver alerta de explosão nuclear ou vazamento radioativo.
+Quando vir poeira estranha após clarão muito forte no céu.
+Quando precisar sair do abrigo para buscar água ou ajuda.
+Quando precisar ajudar alguém em área com poeira no chão.
+Quando ouvir ordem de abrigo da defesa civil no rádio.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Prédio firme com porão ou miolo (tijolo, concreto, terra)
+- Roupa que cubra a pele e pano para nariz e boca
+- Rádio a pilha ou celular para ouvir ordem oficial
+
+PROCEDIMENTO
+------------
+1. Entre no prédio firme mais próximo em aproximadamente 10 minutos.
+2. Desligue ventilador e ar que puxa ar de fora.
+3. Feche portas, janelas e chaminé do abrigo.
+4. Vá para o porão ou miolo sem janela.
+5. Fique longe de parede externa, telhado e janela.
+6. Entenda tempo como dose que soma a cada minuto fora.
+7. Planeje a saída para ficar fora o mínimo possível.
+8. Entenda distância como afastar que reduz a dose recebida.
+9. Fique no ponto mais fundo do prédio que conseguir.
+10. Entenda blindagem como parede densa entre você e a poeira.
+11. Prefira tijolo, concreto e terra a madeira e lata.
+12. Fique abrigado por aproximadamente 24 horas sem sair.
+13. Saia só por ordem oficial ou risco imediato dentro.
+
+ATENCAO
+-------
+Poeira de fallout não tem cheiro nem gosto e mata sem aviso.
+Roupa e máscara seguram poeira mas não bloqueiam raio gama.
+Sair antes de aproximadamente 24 horas aumenta muito a dose.
+Dose alta causa vômito, queimadura, queda de cabelo e morte.
+Este texto não trata ferimento, queimadura nem resgate.
+Se houver vômito repetido, tontura ou queimadura busque socorro.
+Só saia antes por fogo, desabamento, gás ou ordem oficial.
+
+SE NAO TIVER
+------------
+Sem porão, use miolo de prédio firme longe de janela e telhado.
+Sem tijolo, amontoe terra, saco de areia ou livro na parede.
+Sem relógio, faça tarefa curta e volte rápido para dentro.
+Sem rádio, espere ordem da defesa civil antes de sair.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você fica no ponto mais fundo por aproximadamente 24 horas.
+Você entra rápido, sai pouco e volta rápido sem passear.
+Você cita tempo curto, distância longa e parede grossa.
+
+FONTES
+------
+Guia de planejamento para detonação nuclear da FEMA.
+Orientação sobre entrar e ficar dentro do CDC americano.
+Página de emergências por radiação do Ready.gov americano.
+Prática consolidada de sobrevivência civil em manual militar.

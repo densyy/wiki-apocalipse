@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 43-023
+TITULO: Como construir fornos para produção de materiais cerâmicos
+CATEGORIA: 43 - Produção de materiais de construção
+TEMPO: 6 horas
+RISCO: alto
+EXIGE: tijolo refratário, argila, chaminé, lenha seca, luvas, areia
+REVISAO: 2026-11
+PALAVRAS-CHAVE: forno, refratário, cerâmica, queima, chaminé, monóxido
+==============================================================================
+
+OBJETIVO
+--------
+Construir forno refratário para queimar cerâmica em alta temperatura.
+
+QUANDO USAR
+-----------
+Quando é preciso endurecer tijolos, telhas ou peças de barro cru.
+Quando não há forno industrial nem energia elétrica no local.
+Quando se produz cerâmica utilitária a partir de argila local.
+Quando é preciso calor forte e sustentado por várias horas.
+
+NAO USE QUANDO
+--------------
+Em lugar fechado: casa, garagem, tenda, abrigo ou porão.
+Sem chaminé livre, com fumaça voltando pela boca do forno.
+Perto de palha, madeira, grama seca ou tanque de combustível.
+Em dia de vento forte, seca extrema ou proibição de fogo.
+Sem refratário na parte que toca a chama.
+Sem poder vigiar o fogo até o fim da queima.
+
+MATERIAIS
+---------
+- Tijolo refratário (tijolo comum só na camada externa).
+- Argila refratária ou massa de argila com areia para assentar.
+- Tijolos ou tubo metálico para a chaminé.
+- Grelha metálica ou tijolos para apoiar o combustível.
+- Lenha seca e miúda, sem tratamento, tinta ou verniz.
+- Luvas de couro, óculos e roupa de algodão.
+- Balde de areia ou terra e extintor.
+- Pirômetro ou cones pirométricos (opcional, medem temperatura).
+
+PROCEDIMENTO
+------------
+1. Escolha local aberto a aproximadamente 10 m de casas e árvores.
+2. Retire grama e folhas numa área de aproximadamente 3 m ao redor.
+3. Nivele o solo e faça base firme de tijolo ou pedra, sem madeira.
+4. Assente a primeira fiada de tijolo refratário sobre a base, com argila.
+5. Monte as paredes da câmara com tijolo refratário e argila.
+6. Deixe uma boca frontal de aproximadamente 20 cm para carregar.
+7. Apoie a grelha sobre tijolos, criando a câmara de combustão.
+8. Deixe uma entrada de ar livre na base, sem tampá-la.
+9. Erguer a chaminé com tijolo ou tubo, aproximadamente 1,5 m acima.
+10. Vede as juntas com argila e deixe a saída livre, sem tampa.
+11. Seque a alvenaria ao ar por aproximadamente 3 dias, longe da chuva.
+12. Faça primeira queima branda por aproximadamente 2 horas.
+13. Coloque as peças de barro já secas, sem encostar nas paredes.
+14. Acenda lenha miúda e papel seco pela boca, sem líquido inflamável.
+15. Alimente lenha seca aos poucos, com fumaça subindo pela chaminé.
+16. Mantenha o fogo por aproximadamente 1 hora após o brilho vermelho.
+17. Pare de alimentar e esfrie com a boca e a chaminé abertas.
+18. Espere aproximadamente 24 horas e retire as peças com luvas.
+
+ATENCAO
+-------
+O monóxido de carbono é incolor, inodoro e pode matar sem aviso.
+Nunca queime em lugar fechado; mantenha a chaminé desobstruída.
+Dor de cabeça, tontura, náusea ou confusão pedem ar livre e ajuda.
+Tijolo comum, bloco de concreto e pedra úmida podem rachar e estourar.
+Use refratário em contato com a chama; nunca use chapa de zinco.
+Nunca queime madeira tratada, tinta, plástico, borracha ou lixo.
+Nunca use gasolina, álcool, querosene ou outros acelerantes.
+Não feche a entrada de ar nem a chaminé: há risco de explosão.
+Aqueça e esfrie devagar; choque térmico racha forno e peças.
+Mantenha areia, terra ou extintor por perto e nunca deixe o fogo sozinho.
+Mantenha crianças e animais afastados; as peças ficam quentes por horas.
+Pare e procure ajuda se a fumaça voltar ou se a alvenaria rachar.
+
+SE NAO TIVER
+------------
+Sem tijolo refratário, não faça queima de alta temperatura.
+Forre o interior com argila de olaria espessa; ainda é improvizado.
+Nunca substitua refratário por concreto, vidro ou chapa de zinco.
+Sem chaminé livre, não acenda: fumaça e monóxido se acumulam.
+Sem pirômetro, use cones pirométricos ou o brilho; são aproximados.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A fumaça sobe pela chaminé e a chama arde firme, sem voltar pela boca.
+O interior brilha em vermelho de forma uniforme, de modo aproximado.
+Depois de frias, as peças ficam duras e não se desfazem ao riscar.
+A alvenaria não apresenta rachaduras novas após a queima.
+
+FONTES
+------
+Prática consolidada de olaria e de fornos de alvenaria refratária,
+sem documento normativo único.
+Orientações sobre monóxido: CDC, "Carbon Monoxide Poisoning Basics".
+Temperaturas de queima aproximadas, conforme prática de olaria.

@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 17-004
+TITULO: Como prever chuva observando a natureza
+CATEGORIA: 17 - Meteorologia, clima e meio ambiente
+TEMPO: 15 minutos
+RISCO: alto
+EXIGE: vista livre do céu, caderno, relógio
+REVISAO: 2026-11
+PALAVRAS-CHAVE: chuva, previsão, nuvens, vento, pressão, tempo, céu
+==============================================================================
+
+OBJETIVO
+--------
+Reunir sinais visíveis do céu, do vento e do ar para estimar se a chuva
+está próxima nas próximas horas.
+
+QUANDO USAR
+-----------
+- Sem rádio, TV ou internet para receber a previsão oficial.
+- Em trilha, acampamento ou viagem, longe de cobertura.
+- Para decidir quando guardar água, fechar o abrigo ou adiantar uma tarefa.
+- Para conferir se o tempo local mudou depois da última previsão recebida.
+- Como complemento a um aviso já recebido, nunca no lugar dele.
+
+NAO USE QUANDO
+--------------
+Quando houver aviso oficial de tempestade, chuva ou raio: siga o aviso.
+Quando a decisão envolver travessia de rio ou área de enchente.
+Para prever mais de um dia adiante: os sinais locais cobrem poucas horas.
+Quando for preciso subir em árvore, torre ou telhado para observar.
+
+MATERIAIS
+---------
+- Local seguro com vista livre para o céu e para o horizonte.
+- Caderno e lápis (papel e carvão servem) para anotar hora e sinal.
+- Relógio (contar os minutos serve).
+- Barômetro, se houver, para acompanhar a tendência da pressão.
+
+PROCEDIMENTO
+------------
+1. Escolha um ponto seguro com vista livre para o céu.
+2. Anote a hora e o estado atual do céu no caderno.
+3. Observe se há nuvens altas, finas e brancas em forma de filete.
+4. Anote se essas nuvens finas engrossaram e viraram um véu cinzento.
+5. Observe se há camada cinzenta baixa e contínua cobrindo o céu.
+6. Observe se as nuvens com torres crescem rápido e ganham topo em bigorna.
+7. Anote a direção do vento e se ela mudou desde a leitura anterior.
+8. Sinta se o ar ficou mais úmido e mais quente ao toque da pele.
+9. Meça a pressão no barômetro, se houver, e anote o valor com a hora.
+10. Repita a leitura do barômetro após aproximadamente 3 horas.
+11. Anote se a pressão caiu de forma sustentada nas duas leituras.
+12. Observe o poente: vermelho forte em tempo seco tende a alta pressão.
+13. Observe pinhas: escamas abertas indicam ar seco; fechadas, ar úmido.
+14. Descarte crenças sem base: vacas deitadas ou pássaros voando baixo.
+15. Aumente a confiança só quando dois sinais apontarem para o mesmo lado.
+16. Escreva a conclusão e refaça a leitura em aproximadamente 3 horas.
+
+ATENCAO
+-------
+Sinais locais cobrem poucas horas e não substituem aviso oficial.
+Se houver rádio, siga sempre o aviso da Defesa Civil ou do INMET.
+Nenhum sinal da natureza supera a previsão de um serviço oficial.
+O Met Office verificou que vacas deitadas não têm base científica e que
+muitas pessoas já foram enganadas por ditados populares.
+Céu vermelho e pinhas falham em clima úmido, perto do mar ou em serra.
+Fumaça e poluição também atrapalham a leitura do céu.
+Queda de pressão mostra tendência, não hora exata de chegada da chuva.
+Não confunda nuvens rasgadas escuras e isoladas com bigorna de tempestade.
+Se o céu escurecer depressa, o vento virar ou trovejar, pare.
+Procure abrigo antes da chuva: raio, granizo e chuva forte matam.
+Não fique em campo aberto, árvore isolada, topo de morro ou margem de rio.
+Não use esta técnica para travessia de rio, barranco ou área de enchente.
+
+SE NAO TIVER
+------------
+Sem barômetro, use nuvens e vento e reduza a confiança da conclusão.
+Sem relógio, estime os intervalos pela posição do sol.
+Marque esses intervalos como aproximados.
+Sem caderno, memorize os sinais e anote-os assim que puder.
+Sem vista livre, observe a luz e a umidade, mas não tome decisão de risco.
+Sem previsão oficial, limite-se a adiar tarefas expostas e preparar abrigo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O caderno registra hora, sinais observados, conclusão e grau de confiança.
+A chuva chegou, ou não, dentro do intervalo que você anotou.
+A mudança das nuvens e do vento seguiu a ordem prevista na conclusão.
+Você procurou abrigo antes do trovão, sem correr sob o céu que escurecia.
+
+FONTES
+------
+INMET, texto Sobre meteorologia: previsão do tempo e meteorologia básica.
+Serviço Nacional de Meteorologia dos Estados Unidos (NWS/NOAA):
+classificação de nuvens do escritório de Louisville.
+Met Office: ditados populares, céu vermelho, pinhas e vacas deitadas.

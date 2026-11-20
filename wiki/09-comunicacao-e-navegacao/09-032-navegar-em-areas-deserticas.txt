@@ -1,0 +1,93 @@
+==============================================================================
+CODIGO: 09-032
+TITULO: Como navegar em áreas desérticas
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: mapa, bússola, bastão reto, água extra, chapéu de aba larga
+REVISAO: 2026-11
+PALAVRAS-CHAVE: deserto, navegação, bússola, sombra, sol, mapa, água
+==============================================================================
+
+OBJETIVO
+--------
+Mantenha a direção no deserto e chegue ao destino com mapa, bússola e sol.
+
+QUANDO USAR
+-----------
+- Quando é preciso cruzar areia ou rocha sem estradas nem marcos.
+- Quando celular e GPS perdem sinal ou acabam a bateria.
+- Quando a miragem (ilusão do ar quente) esconde o horizonte.
+- Ao caminhar no amanhecer ou no fim da tarde para evitar o calor.
+- Quando o grupo precisa manter rumo fixo até água ou abrigo.
+
+NAO USE QUANDO
+--------------
+- Durante tempestade de areia: pare e proteja-se até a visibilidade voltar.
+- Sem água suficiente: entrar no deserto sem água pode matar.
+- À noite sem lua e sem bússola: fique parado até o amanhecer.
+
+MATERIAIS
+---------
+- Mapa em papel da região, dentro de saco plástico.
+- Bússola com agulha (lensática) ou com placa transparente (orienteering).
+- Bastão reto de aproximadamente 30 cm para medir a sombra.
+- Água acima do necessário, com reserva separada.
+- Chapéu de aba larga, óculos escuros e protetor solar.
+- Pedras ou estacas para marcar a rota.
+- Apito e espelho pequeno para sinalizar.
+
+PROCEDIMENTO
+------------
+1. Marque no mapa o ponto atual, o destino e todos os pontos de água.
+2. Combine com o grupo o horário de retorno e o ponto de encontro.
+3. Carregue água extra: no calor o corpo perde água rápido pelo suor.
+4. Espere o amanhecer ou o fim da tarde para caminhar.
+5. Coloque a bússola sobre o mapa e gire o mapa até alinhar ao norte.
+6. Leia a declinação no mapa: é a diferença entre os dois nortes.
+7. Ajuste a bússola com esse valor, se ela tiver parafuso de correção.
+8. Aponte a borda da bússola do ponto atual ao destino e leia o rumo.
+9. Escolha uma referência visível alinhada ao rumo: serra, rocha ou duna.
+10. Caminhe até a referência e torne a ler o rumo; não confie na memória.
+11. Marque a parada com pedras empilhadas ou estaca apontando o rumo.
+12. Olhe para trás a cada parada: a volta não se parece com a ida.
+13. Confira a posição no mapa sempre que encontrar uma referência.
+14. Se mapa e terreno discordarem, pare e volte ao último ponto certo.
+15. Sem bússola, espete o bastão reto no chão e marque a ponta da sombra.
+16. Espere de 15 a 30 minutos e marque a nova ponta da sombra.
+17. Una as marcas: a linha aponta leste-oeste; a perpendicular, norte-sul.
+18. Repita a leitura da sombra a cada duas horas enquanto houver sol.
+19. Suba a dunas ou rochas altas para enxergar além da miragem.
+20. Pare e descanse na sombra ao primeiro sinal de tontura ou calafrio.
+
+ATENCAO
+-------
+Não caminhe ao meio-dia: a insolação (golpe de calor) pode matar.
+A miragem desloca alvos distantes: confirme a rota de um ponto alto.
+Dunas mudam com o vento: não use o formato da duna como marco fixo.
+A bússola erra perto de metal e celulares: afaste-a 2 metros.
+Beba antes da sede; urina escura e tontura indicam desidratação.
+Nunca siga animais para achar água: podem levar você para longe da rota.
+Se não localizar a posição no mapa, pare e sinalize com apito e espelho.
+
+SE NAO TIVER
+------------
+Sem mapa, siga rumo fixo pela sombra e marque a rota com pedras.
+Sem bússola, use o bastão e a sombra; à noite, pare e espere o dia.
+Sem bastão, fixe um graveto reto na areia com pedras.
+Sem água extra, não avance: espere socorro ou volte ao ponto de água.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A agulha da bússola ainda aponta ao destino depois de cada parada.
+A estaca ou pedra marcada aparece atrás ao olhar para trás.
+A referência visível bate com o ponto assinalado no mapa.
+Você chega à água ou ao abrigo dentro do horário previsto.
+
+FONTES
+------
+Manual de sobrevivência do Exército dos EUA, FM 21-76, orientação por
+sol, sombra e estrelas; FM 90-3, operações no deserto.
+FM 3-25.26, leitura de mapa e navegação terrestre; Serviço Florestal dos
+EUA, protocolo Pare, Pense, Observe e Planeje; Be Ready Utah, uso da
+bússola e do relógio-sol; CDC, orientações sobre calor e desidratação.

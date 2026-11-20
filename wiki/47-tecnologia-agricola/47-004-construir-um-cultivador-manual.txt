@@ -1,0 +1,83 @@
+==============================================================================
+CODIGO: 47-004
+TITULO: Como construir um cultivador manual
+CATEGORIA: 47 - Tecnologia agrícola e mecanização rural
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: vergalhão, cabo de madeira, parafusos, furadeira, serra, luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: cultivador, enxada, capina, escarificar, solo, horta
+==============================================================================
+
+OBJETIVO
+--------
+Construir cultivador manual para soltar o solo e arrancar ervas.
+
+QUANDO USAR
+-----------
+Quando faltar enxada ou ancinho para preparar canteiros pequenos.
+Quando precisar soltar a terra entre linhas de plantas já crescidas.
+Quando precisar remover capim sem usar herbicida.
+Quando ferramentas compradas não estão disponíveis.
+
+NAO USE QUANDO
+--------------
+Em solo muito compactado, com pedras grandes ou raízes grossas.
+Nesse terreno o cabo racha e os dentes entortam; use enxadão ou pá.
+
+MATERIAIS
+---------
+- Cabo de madeira reto de aproximadamente 1,2 m (tubo de aço).
+- Barra de aço plano de aproximadamente 30 cm (pedaço de tubo).
+- Três dentes de vergalhão de 8 a 10 mm com aproximadamente 20 cm
+  (aço de mola ou lâmina de serra velha).
+- Parafusos com porcas e arruelas para fixar barra e dentes.
+- Furadeira com broca de metal (punção e martelo).
+- Serra de arco ou esmeril com disco de corte (lima e talhadeira).
+- Lima ou pedra de afiar, alicate, luvas e óculos de proteção.
+
+PROCEDIMENTO
+------------
+1. Corte o cabo de madeira com aproximadamente 1,2 m.
+2. Lixe as duas pontas do cabo até tirar as farpas.
+3. Corte a barra de aço com aproximadamente 30 cm.
+4. Marque dois pontos na barra, um a cada lado do centro.
+5. Fure a barra nesses pontos com a broca de metal.
+6. Fure o cabo a aproximadamente 8 cm de uma ponta.
+7. Encaixe a barra sobre a ponta do cabo e alinhe os furos.
+8. Passe os parafusos com arruelas e aperte as porcas com o alicate.
+9. Corte três pedaços de vergalhão com aproximadamente 20 cm.
+10. Dobre a ponta de cada pedaço em gancho de aproximadamente 5 cm.
+11. Afie cada ponta com a lima até ficar romba, não aguda.
+12. Fixe um dente no centro da barra e um em cada extremidade.
+13. Aperte os parafusos com os dentes apontando para baixo.
+14. Passe a lima nas bordas para retirar rebarbas cortantes.
+
+ATENCAO
+-------
+O corte de metal produz rebarbas que cortam; use luvas e óculos.
+Pontas muito agudas ferem os pés; deixe as pontas rombas.
+Solo com pedras ou raízes grossas entorta os dentes e a barra.
+Não force o cabo: ele pode rachar e os parafusos podem soltar.
+Pare o uso se um dente entortar ou se algum parafuso afrouxar.
+A ferramenta não substitui enxadão em solo muito duro.
+
+SE NAO TIVER
+------------
+Sem barra de aço, use uma travessa de madeira dura ou tubo de água.
+Sem vergalhão, reaproveite aço de mola de cama ou lâmina de serra.
+Sem furadeira, aqueça a ponta do punção e bata com o martelo.
+Sem parafusos, amarre os dentes com arame de aço e confira a cada uso.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os três dentes ficam alinhados e apontam para baixo.
+Nenhum parafuso ou dente se move ao aplicar força moderada.
+Ao puxar sobre terra macia, os dentes entram e soltam torrões.
+
+FONTES
+------
+Prática consolidada de fabricação de ferramentas manuais de capina.
+Referências: cartilha de preparo de canteiros da Embrapa, que cita a
+enxadinha de mão com escarificador, e estudo sobre dispositivo manual
+de preparo de solo publicado em 2025.

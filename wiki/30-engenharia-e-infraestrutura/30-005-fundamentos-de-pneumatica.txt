@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 30-005
+TITULO: Como compreender os fundamentos da pneumática
+CATEGORIA: 30 - Engenharia e infraestrutura básica
+TEMPO: 40 minutos
+RISCO: baixo
+EXIGE: papel, lápis, esquema simples de circuito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ar comprimido, pressão, pneumática, cilindro, válvula
+==============================================================================
+
+OBJETIVO
+--------
+Entender como o ar comprimido gera movimento e força em um sistema.
+
+QUANDO USAR
+-----------
+Quando precisar interpretar um esquema de ar comprimido.
+Quando for dimensionar cilindro, válvula ou pressão de trabalho.
+Quando precisar identificar riscos de energia armazenada no ar.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Papel e lápis para desenhar e anotar.
+- Esquema simples de circuito, se houver.
+- Manômetro ou válvula para observar, se disponível.
+
+PROCEDIMENTO
+------------
+1. Desenhe um retângulo para o compressor e outro para o cilindro.
+2. Trace uma linha ligando compressor, válvula, manômetro e cilindro.
+3. Marque com seta o sentido do ar da fonte até o escapamento.
+4. Anote a área do êmbolo do cilindro em centímetros quadrados.
+5. Leia a pressão de trabalho no manômetro ou no esquema.
+6. Calcule a força: pressão multiplicada pela área do êmbolo.
+7. Anote que comprimir reduz o volume e aumenta a pressão.
+8. Marque no desenho o reservatório e a válvula de alívio.
+
+ATENCAO
+-------
+O ar comprimido guarda energia: nunca abra linha pressurizada sem aliviar.
+Uma mangueira solta pode chicotear e ferir.
+Nunca use oxigênio em circuito pneumático: risco de incêndio.
+Gases diferentes do ar, como nitrogênio, podem asfixiar em espaço fechado.
+Ar de ferramentas não serve para respirar: pode conter óleo e monóxido.
+Pare e peça ajuda se houver vazamento, ruído anormal ou peça danificada.
+
+SE NAO TIVER
+------------
+Sem manômetro, use o esquema e anote a pressão informada.
+Sem esquema, desenhe o circuito em papel a partir da descrição.
+Sem compressor, observe apenas o desenho; não improvise pressão.
+Não substitua ar por gases de cilindro: risco de asfixia ou incêndio.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O desenho mostra compressor, válvula, manômetro, cilindro e escapamento.
+A força foi anotada como pressão multiplicada pela área.
+As setas indicam o sentido do ar da fonte ao escapamento.
+
+FONTES
+------
+Prática consolidada de engenharia de fluid power. Familia de referencia:
+livros-texto de pneumatica e fluid power (Parr, Esposito, Majumdar).
+Este e um resumo operacional de fundamentos, nao substitui treinamento.

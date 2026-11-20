@@ -1,0 +1,82 @@
+============================================================================
+CODIGO: 80-001
+TITULO: Fundamentos de combustíveis e combustão
+CATEGORIA: 80 - Produção de combustíveis e lubrificantes
+TEMPO: 45 minutos
+RISCO: medio
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: combustão, combustível, oxigênio, calor, fogo, chama
+============================================================================
+
+OBJETIVO
+--------
+Entender o que faz um material queimar e como escolher, guardar e
+usar combustíveis com segurança.
+
+QUANDO USAR
+-----------
+Antes de escolher entre lenha, álcool, óleo ou gás.
+Ao montar fogueira, fogão ou forno improvisado.
+Quando precisar transportar ou guardar combustível.
+Ao comparar quanto calor cada material fornece.
+Quando o fogo não pega ou apaga sem motivo.
+
+NAO USE QUANDO
+--------------
+Este texto é conceitual e não substitui o manual do equipamento.
+Não teste combustível desconhecido em recipiente fechado.
+Não faça misturas para melhorar o fogo sem conhecer os riscos.
+Não use gasolina em fogão, lampião ou aquecedor de ambiente.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Observe que o fogo precisa de três coisas: combustível, oxigênio
+   e calor.
+2. Retire uma delas e o fogo apaga: assim se controla a chama.
+3. Diferencie material que queima de material que apenas derrete.
+4. Note que combustíveis sólidos queimam na superfície.
+5. Líquidos queimam pelo vapor, não pelo líquido em si.
+6. Gases queimam quando misturados com ar na proporção certa.
+7. Compare o poder calorífico: quanto mais calor por peso, melhor.
+8. Lembre que madeira úmida gasta calor para evaporar a água.
+9. Observe a cor da chama: azul indica queima mais completa.
+10. Chama alaranjada e fumaça preta indicam queima incompleta.
+11. Aprenda o ponto de fulgor: temperatura em que o vapor pega fogo.
+12. Líquido com ponto de fulgor baixo inflama com facilidade.
+13. Guarde combustíveis em recipiente fechado, fresco e arejado.
+14. Nunca guarde combustível perto de fogo, faísca ou painel solar.
+15. Anote em caderno qual combustível você usa e por quê.
+
+ATENCAO
+-------
+Gasolina, álcool e solventes soltam vapor inflamável mesmo frios.
+O vapor pode viajar pelo chão e pegar fogo longe do recipiente.
+Recipiente fechado pode estourar se o vapor aquecer.
+Queima incompleta produz monóxido de carbono, sem cheiro.
+Nunca queime madeira tratada, plástico ou lixo em ambiente fechado.
+Combustível derramado em pele causa queimadura e absorção.
+
+SE NAO TIVER
+------------
+Sem recipiente próprio, use garrafa rígida e rotulada, longe do calor.
+Sem medidor, compare o calor observando o tempo de fervura.
+Sem caderno, marque na tampa do recipiente a data da compra.
+Sem conhecimento prático, comece com o material mais simples.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue explicar por que o fogo apaga ao faltar ar.
+Sabe dizer qual combustível tem risco de vapor inflamável.
+Escolheu o material conforme o calor necessário.
+Guardou o combustível separado de fontes de calor.
+
+FONTES
+------
+Noções gerais de combustão e de segurança com combustíveis,
+resumidas de manuais de brigada de incêndio e de cursos básicos
+de segurança do trabalho. Texto conceitual, sem norma específica.

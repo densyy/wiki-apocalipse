@@ -1,0 +1,86 @@
+==============================================================================
+CODIGO: 58-004
+TITULO: Como escolher extintores para diferentes incêndios
+CATEGORIA: 58 - Prevenção e combate a incêndios
+TEMPO: 10 minutos
+RISCO: alto
+EXIGE: rótulo do extintor, identificação do material em chamas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: extintor, fogo, incêndio, classe, óleo, elétrico, pó, água
+==============================================================================
+
+OBJETIVO
+--------
+Escolher o extintor que apaga o fogo sem piorar o incêndio nem
+causar choque ou queimadura.
+
+QUANDO USAR
+-----------
+Quando você precisa decidir qual extintor usar antes de agir.
+Quando o material em chamas pode ser sólido, líquido, óleo ou
+equipamento energizado.
+Quando há mais de um extintor e só um deles é o correto.
+Quando você precisa conferir se o extintor está próprio para uso.
+
+NAO USE QUANDO
+--------------
+Não tente apagar fogo que já alcançou o teto, que envolve risco
+de explosão ou que não tem saída atrás de você. Nesses casos,
+saia e chame o Corpo de Bombeiros. Use este guia apenas para
+incêndios pequenos e iniciais.
+
+MATERIAIS
+---------
+- Extintor com rótulo legível, classe e validade visíveis.
+- Identificar o material: sólido, líquido, óleo, metal ou elétrico.
+- Saída livre e próxima para deixar o local se o fogo crescer.
+
+PROCEDIMENTO
+------------
+1. Pare e identifique o que está queimando antes de pegar o extintor.
+2. Classifique o fogo por classe, conforme o material em chamas.
+3. Classe A: sólidos comuns, como madeira, papel, tecido e lixo.
+4. Classe B: líquidos e gases inflamáveis, como gasolina e solvente.
+5. Classe C: equipamento elétrico energizado, como quadro e tomada.
+6. Classe D: metais combustíveis, como magnésio, sódio e potássio.
+7. Classe K: óleo e gordura de cozinha em panela ou fritadeira.
+8. Leia o rótulo e confira a classe indicada para aquele material.
+9. Escolha o agente de acordo com a classe do fogo.
+10. Para classe A, use extintor de água ou espuma.
+11. Para classe B, use espuma, pó BC ou CO2.
+12. Para classe C, use CO2 ou pó químico, nunca água ou espuma.
+13. Para classe D, use pó próprio para metais, nunca água.
+14. Para classe K, use extintor classe K, nunca água.
+15. Confira o selo de validade e o manômetro no verde.
+16. Se estiver vencido, descarte esse extintor e escolha outro.
+
+ATENCAO
+-------
+Água em equipamento energizado pode causar choque e matar quem
+segura o extintor. Desligue a energia antes, se for seguro.
+Água em óleo ou gordura quente provoca respingo violento e
+queimadura grave. Nunca use água em panela ou fritadeira em chamas.
+CO2 não serve para classe A: a nuvem de gás pode espalhar brasa.
+Em lugar fechado, CO2 reduz o oxigênio e pode sufocar.
+Pó ABC serve para A, B e C, mas não para metais nem óleo de cozinha.
+Nunca use extintor em fogo grande, com fumaça densa ou sem rota de fuga.
+Não aponte o jato para si: CO2 pode causar queimadura por frio.
+
+SE NAO TIVER
+------------
+Se não houver extintor da classe certa, não improvise com água.
+Para óleo de cozinha pequeno, desligue o fogo e cubra a panela
+com tampa de metal, sem espalhar o óleo.
+Para classe C, desligue a energia na chave geral antes de agir.
+Se não der para agir com segurança, saia e chame o Corpo de Bombeiros.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O rótulo do extintor traz a mesma classe do material em chamas,
+o manômetro está no verde e a validade não venceu.
+
+FONTES
+------
+Norma ABNT NBR 11861, extintores portáteis de incêndio; orientações
+do Corpo de Bombeiros Militar; NFPA 10, padrão de extintores
+portáteis. Resumo operacional, não substitui treinamento.

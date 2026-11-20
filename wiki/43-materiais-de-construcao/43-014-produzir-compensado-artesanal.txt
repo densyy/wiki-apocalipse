@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 43-014
+TITULO: Como produzir compensado artesanal
+CATEGORIA: 43 - Produção de materiais de construção
+TEMPO: 180 minutos
+RISCO: alto
+EXIGE: madeira serrada fina, cola de madeira, serra, grampos ou pesos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: compensado, madeira compensada, folheada, cola, prensa
+==============================================================================
+
+OBJETIVO
+--------
+Produzir uma placa plana e resistente colando folhas finas de madeira com
+o grão cruzado, sem prensa industrial.
+
+QUANDO USAR
+-----------
+Quando faltar compensado industrial ou o preço estiver alto.
+Quando houver sobras de madeira serrada fina ou de marcenaria.
+Para prateleira, fundo de armário, tapume ou forma leve de concreto.
+Quando a peça precisa empenar menos que uma tábua maciça.
+
+NAO USE QUANDO
+--------------
+Para viga, piso ou ponte que exige resistência certificada.
+Para contato permanente com água se só houver cola PVA comum.
+Para peça exposta a fogo, solvente ou produto químico.
+Quando não houver cola adequada nem forma segura de prensar.
+
+MATERIAIS
+---------
+- Folhas de madeira seca de 2 a 4 mm, sem nós nem rachaduras.
+- Cola de madeira PVA (fenólica ou resorcinólica em área úmida).
+- Prensa, grampos de marcenaria ou peso morto (pedra, saco de areia).
+- Serra fina, estilete ou plaina para obter as folhas.
+- Superfície plana e rígida e papel de cera ou jornal.
+- Espátula ou pincel, régua, esquadro, lápis e lixa.
+
+PROCEDIMENTO
+------------
+1. Escolha madeira seca, reta e sem nós para as folhas.
+2. Corte ou aplaine as folhas até 2 a 4 mm de espessura.
+3. Corte todas as folhas no mesmo tamanho, com 5 mm de margem.
+4. Marque a direção do grão de cada folha com lápis.
+5. Separe as duas melhores folhas para a face e o verso.
+6. Monte 3, 5 ou 7 camadas: sempre número ímpar de folhas.
+7. Apoie a primeira folha com o grão no sentido do comprimento.
+8. Espalhe cola fina e uniforme com a espátula.
+9. Coloque a folha seguinte com o grão a 90 graus da primeira.
+10. Alinhe as bordas e pressione com a mão protegida por pano.
+11. Repita a cola e o giro de 90 graus até a última folha.
+12. Feche com a folha de face, com o grão paralelo à primeira.
+13. Coloque papel de cera ou jornal entre a pilha e a prensa.
+14. Aperte os grampos ou os pesos de modo uniforme, sem torcer.
+15. Deixe curar aproximadamente 24 horas, ou o tempo da embalagem.
+16. Retire da prensa e lixe bordas e faces.
+
+ATENCAO
+-------
+A lâmina da serra ou do estilete corta fundo: use luva e nunca apoie
+a mão sobre a linha de corte.
+A cola PVA comum não resiste à água: em área úmida use cola fenólica
+ou resorcinólica, com luva e ventilação.
+Colas com formaldeído irritam olhos e vias respiratórias: trabalhe
+ao ar livre ou com corrente de ar.
+Prensa torta entorta a placa: aperte os grampos aos pares, alternando
+os lados aos poucos.
+Folhas com grão paralelo em excesso racham: mantenha o giro de 90 graus.
+Nunca use a peça como carga estrutural sem projeto: não há ensaio
+de resistência nem certificação.
+Se a cola escorrer, retire com espátula antes de curar.
+
+SE NAO TIVER
+------------
+Sem prensa, coloque a pilha entre duas tábuas e empilhe pedras ou
+sacos de areia por cima, distribuindo o peso.
+Sem grampos, aperte com cintas, corda ou arame, protegendo as bordas
+com papel para não marcar.
+Sem estilete ou plaina, corte com serra fina e lixe até a espessura.
+Sem cola de madeira, não use cola de parede nem supercola: a ligação
+falha com umidade. Cola animal serve só em ambiente seco.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As bordas mostram camadas com o grão alternado a cada folha.
+A placa não entorta quando apoiada apenas nas duas pontas.
+Nenhuma folha se solta ao bater de leve com o nó dos dedos.
+A face lixada fica lisa, sem bolhas nem marcas de papel.
+
+FONTES
+------
+Encyclopaedia Britannica, verbete "plywood", seções Introduction,
+History e Production: compensado é feito de folhas de madeira coladas
+com o grão cruzado, em número ímpar de camadas, com colas
+fenol-formaldeído e ureia-formaldeído e prensagem aquecida.
+A adaptação para ferramentas manuais é prática consolidada de
+marcenaria. Não substitui norma técnica nem compensado certificado.

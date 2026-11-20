@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 62-011
+TITULO: Como organizar pastagens rotacionadas
+CATEGORIA: 62 - Pecuária, reprodução e processamento animal
+TEMPO: 120 minutos
+RISCO: medio
+EXIGE: caderno, trena, estacas, cerca, bebedouro, régua de manejo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: pasto, piquetes, rotação, lotação, descanso, capim, gado
+==============================================================================
+
+OBJETIVO
+--------
+Dividir o pasto em piquetes e definir quando entrar e sair de cada um.
+
+QUANDO USAR
+-----------
+Ao implantar pasto novo ou reformar pasto degradado.
+Quando a lotação não cabe e os animais emagrecem.
+
+NAO USE QUANDO
+--------------
+Sem água garantida ou cerca que segure o gado, não inicie.
+Em terra muito inclinada, procure assistência técnica antes.
+
+MATERIAIS
+---------
+- Caderno, lápis e régua de manejo (marcada em centímetros).
+- Trena ou corda com nós de metro; estacas e cerca.
+- Bebedouro, sal mineral e sombra no corredor de acesso.
+
+PROCEDIMENTO
+------------
+1. Meça a área em metros quadrados e anote no caderno.
+2. Anote entrada e saída: Mombaça 90/40 cm; Marandu e Xaraés 35/20 cm.
+3. Calcule: Mombaça, cerca de 1400 m2 por animal; Marandu, 3300 m2.
+4. Some o peso vivo e divida por 450 para obter as unidades animais.
+5. Divida a área em 14 a 20 piquetes de tamanho parecido.
+6. Faça piquetes quadrados: o lado maior não passa de três vezes o menor.
+7. Abra corredores largos e coloque água, sal e sombra no centro.
+8. Deixe o lote 1 dia no gado leiteiro e até 7 dias no de corte.
+9. Retire na altura de saída e descanse o piquete por 21 a 45 dias.
+10. Na seca, reduza o lote em 70% a 90% e ajuste pela altura:
+    sobrando capim, aumente; com resíduo baixo, retire animais.
+
+ATENCAO
+-------
+Passar da altura de saída queima a reserva e o capim não rebrote.
+O solo fica exposto e a pastagem se degrada.
+Superlotação emagrece os animais e pode matá-los na seca.
+Sem água no piquete, os animais podem morrer em poucos dias.
+Corredor estreito dá barro e casco ferido; cerca frouxa fere pessoas.
+
+SE NAO TIVER
+------------
+Sem régua, use o corpo: entrada do Mombaça perto da cernelha.
+Sem cerca, vigie um piquete e conduza o gado com corda.
+Sem pasto na seca, use capineira, feno ou silo e ajuste o lote.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada piquete tem cerca, água e número anotado no caderno.
+O capim entra e sai na altura marcada e o resíduo cobre o solo.
+O pasto rebrote após o descanso e os animais mantêm o peso.
+
+FONTES
+------
+Publicações da Embrapa sobre pastejo rotacionado, régua de manejo e
+dimensionamento de piquetes (Comunicado Técnico 65, Documento 397).
+Prática consolidada; resumo operacional, não substitui treinamento.

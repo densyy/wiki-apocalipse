@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 45-002
+TITULO: Como funciona uma estação de tratamento de água
+CATEGORIA: 45 - Engenharia de saneamento e saúde pública
+TEMPO: 10 minutos
+RISCO: medio
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, tratamento, estação, cloro, filtro, potável
+==============================================================================
+
+OBJETIVO
+--------
+Entender como a água bruta se torna potável dentro de uma estação.
+
+QUANDO USAR
+-----------
+Ao visitar uma estação e reconhecer cada tanque do percurso.
+Ao ler um diagrama ou relatório da companhia de abastecimento.
+Ao entender por que a água da torneira difere da água do rio.
+
+NAO USE QUANDO
+--------------
+Não use para operar ou consertar a estação: só pessoal treinado e
+autorizado manipula produtos químicos e equipamentos.
+Não use para dizer se a água da torneira é potável: isso exige análise.
+
+MATERIAIS
+---------
+- Nenhum material. Basta observar e conhecer o processo.
+
+PROCEDIMENTO
+------------
+1. Reconheça a captação: a água bruta vem de rio, lago, represa ou poço.
+2. Identifique a coagulação: misturam sais de alumínio ou ferro na água.
+3. Entenda que esses sais juntam a sujeira fina em grãos maiores.
+4. Identifique a floculação: mexem a água devagar e surgem os flocos.
+5. Identifique a decantação: os flocos, mais pesados, assentam no fundo.
+6. Entenda que a água clara da superfície segue para os filtros.
+7. Identifique a filtragem: a água passa por areia, cascalho e carvão.
+8. Saiba que o filtro retém germes, parasitas e partículas restantes.
+9. Identifique a desinfecção: aplicam cloro, cloramina ou dióxido de cloro.
+10. Entenda que o cloro mata os germes e deixa uma dose residual.
+11. Saiba que a dose residual protege a rede até a torneira de casa.
+
+ATENCAO
+-------
+Este texto é educativo: não habilita ninguém a operar a estação.
+Só pessoal treinado manuseia cloro e outros produtos químicos.
+Cloro em excesso irrita olhos e pele; a dose é controlada e medida.
+A desinfecção não retira metais pesados, nitrato nem agrotóxico da água.
+Água de rio ou lago exige mais etapas que água de poço protegido.
+Suspeita de contaminação exige análise de laboratório, não só inspeção.
+
+SE NAO TIVER
+------------
+Sem cloro, outras formas de desinfectar são o ozônio e a luz ultravioleta.
+Elas matam germes na estação, mas não protegem a água dentro da rede.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue nomear as etapas: captação, coagulação, floculação,
+decantação, filtragem e desinfecção, na ordem correta.
+
+FONTES
+------
+CDC, "How Water Treatment Works" (revisado em 2026); OMS, folha
+informativa "Drinking-water" (2026) e Guidelines for drinking-water
+quality. Resumo educativo, não substitui treinamento ou norma local.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 09-025
+TITULO: Como ler mapas topográficos
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: mapa topográfico da região, lápis, papel
+REVISAO: 2026-11
+PALAVRAS-CHAVE: mapa, curva de nível, escala, legenda, altitude, norte
+==============================================================================
+
+OBJETIVO
+--------
+Leia um mapa topográfico para reconhecer relevo, água e rotas possíveis.
+
+QUANDO USAR
+-----------
+Quando for atravessar terreno desconhecido sem sinal de celular.
+Quando precisar escolher entre dois caminhos pelo relevo.
+Quando precisar achar água ou pontos altos antes de sair.
+
+NAO USE QUANDO
+--------------
+Quando o mapa estiver desatualizado: estradas e pontes podem mudar.
+Não use a leitura do mapa como única base para travessia de rio.
+
+MATERIAIS
+---------
+- Mapa topográfico impresso da região (original ou fotocópia).
+- Lápis (ou caneta) e papel (caderno ou folha separada).
+
+PROCEDIMENTO
+------------
+1. Confira o nome e a área da folha; ela deve cobrir o lugar desejado.
+2. Leia a data de edição no canto inferior direito.
+3. Leia a legenda da margem: cor, símbolo e sigla de cada elemento.
+4. Anote a escala escrita, por exemplo 1:50.000.
+5. Entenda: em 1:50.000, 1 cm no papel = 500 m no terreno.
+6. Encontre a seta do norte na margem e alinhe a folha a ela.
+7. Leia o intervalo de curvas: a diferença de altitude entre linhas.
+8. Identifique a curva de nível: linha que une pontos de igual altitude.
+9. Note as curvas escuras e numeradas: elas dão a altitude.
+10. Observe o espaçamento: curvas juntas indicam encosta íngreme.
+11. Observe o espaçamento: curvas afastadas indicam terreno suave.
+12. Leia o V da curva: ele aponta para montante, onde a água nasce.
+13. Marque no papel o ponto onde você está.
+14. Trace a rota até o destino evitando encostas íngremes.
+
+ATENCAO
+-------
+Um mapa antigo pode omitir estradas e represas construídas depois.
+O mapa não mostra o que mudou ontem: confirme com o que você vê.
+A agulha da bússola marca o norte magnético, diferente do norte da folha.
+Se a leitura discordar do terreno, pare e confira antes de seguir.
+
+SE NAO TIVER
+------------
+Sem bússola, alinhe a folha usando morro, rio ou estrada que reconhece.
+Sem legenda, leia a explicação dos símbolos na própria margem.
+Sem mapa, peça a quem conhece a região e desenhe um croqui no papel.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você aponta no mapa o lugar onde está e o riacho que vê à frente.
+A distância medida no papel bate com o tempo que leva para andar.
+
+FONTES
+------
+USGS (Serviço Geológico dos Estados Unidos), FAQ "What is a topographic
+map?" sobre curvas de nível e escalas. Prática cartográfica consolidada.

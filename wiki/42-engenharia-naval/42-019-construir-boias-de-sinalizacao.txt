@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 42-019
+TITULO: Como construir boias de sinalização
+CATEGORIA: 42 - Engenharia naval e tecnologias marítimas
+TEMPO: 180 minutos
+RISCO: alto
+EXIGE: tambor plástico vedável, tinta, âncora, cabo, ferramentas manuais
+REVISAO: 2026-11
+PALAVRAS-CHAVE: boia, balizamento, bombordo, boreste, âncora, canal, perigo
+==============================================================================
+
+OBJETIVO
+--------
+Construir uma boia improvisada para marcar por pouco tempo o limite de um
+canal ou um perigo em água calma e fechada.
+
+QUANDO USAR
+-----------
+Quando for preciso marcar a entrada de um ancoradouro em água fechada.
+Quando aparecer um perigo novo e a sinalização oficial ainda não chegou.
+Para treinar balizamento em lago, represa ou cais sem tráfego comercial.
+Somente com autorização de quem administra a água e aviso aos navegadores.
+
+NAO USE QUANDO
+--------------
+Não use no mar aberto, em correnteza, onda ou vento forte.
+Não use em rota de navegação comercial nem como substituto de boia oficial.
+Boia caseira não tem validade legal nem luz de alcance certificado.
+Não use sem colete salva-vidas e sem um segundo adulto na margem.
+
+MATERIAIS
+---------
+- Tambor plástico de 50 a 200 litros com tampa que feche vedado.
+- Garrafas plásticas grandes amarradas em feixe (substituem o tambor).
+- Tinta para exterior ou tinta náutica: verde, vermelha e branca.
+- Cabo de náilon ou poliéster de aproximadamente 6 a 10 mm.
+- Âncora leve ou peso de concreto de aproximadamente 5 a 15 kg.
+- Arame ou corrente de aproximadamente 2 m para prender a âncora.
+- Abraçadeiras, arame ou fita de metal para fixar tampa e acessórios.
+- Mastro de madeira leve ou tubo de PVC de aproximadamente 1 m.
+- Fita ou pano verde ou vermelho para a marca no alto, chamada topo.
+- Chave de fenda, alicate, faca e furadeira ou broca manual.
+- Luvas e um colete salva-vidas para cada pessoa.
+
+PROCEDIMENTO
+------------
+1. Defina o sentido do balizamento: do mar para o porto ou rio acima.
+2. Defina o lado: bombordo é a esquerda de quem entra; boreste, a direita.
+3. Pinte a boia de verde para bombordo ou de vermelha para boreste.
+4. Pinte uma faixa branca no meio para identificar de longe.
+5. Fixe o topo: cilindro verde em bombordo, cone vermelho em boreste.
+6. Prenda o mastro na tampa e amarre a fita da cor escolhida no topo.
+7. Feche a tampa e aperte as abraçadeiras para não entrar água.
+8. Amarre o cabo ao tambor com nó duplo e duas voltas por baixo.
+9. Meça a profundidade do ponto com uma pedra amarrada a uma corda.
+10. Corte o cabo com aproximadamente 1,5 vezes essa profundidade.
+11. Amarre a âncora na ponta do cabo com nó de volta e meia (não desfaz).
+12. Teste a flutuação em água rasa: um terço da boia deve ficar fora d'água.
+13. Leve a boia até o ponto e lance primeiro a âncora, depois o tambor.
+14. Puxe de leve para tensionar o cabo e conferir se a âncora não arrasta.
+15. Anote a posição no caderno e avise quem navega na área.
+
+ATENCAO
+-------
+Boia caseira não tem valor legal: não substitua auxílio oficial.
+Inverter as cores pode levar a embarcação direto ao perigo.
+No Brasil vale a Região B da IALA: verde à esquerda, vermelha à direita.
+Confira a cor também de longe e com pouca luz, não só pela memória.
+Cabo curto ou peso leve faz a boia derivar e parar de marcar o ponto.
+Sol e maresia desgastam tinta comum: repinta antes de cada uso longo.
+Use colete salva-vidas e um segundo adulto; uma queda sem apoio pode matar.
+Sem autorização do responsável pela água, não lance: pare e procure ajuda.
+
+SE NAO TIVER
+------------
+Sem tambor, amarre quatro garrafas vazias em feixe com fita larga.
+Sem tinta náutica, use tinta de exterior; não use tinta de parede interna.
+Sem âncora, use uma pedra grande amarrada com nó duplo e teste o peso.
+Sem cabo de náilon, use corda de poliéster; nunca use algodão ou esparto.
+Sem mastro, costure a fita de cor direto na tampa do tambor.
+Sem material confiável, não sinalize: avise os navegadores e peça ajuda.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A boia flutua sem entrar água e fica com cerca de um terço fora dela.
+A cor vista de longe confere com o lado marcado no sentido de entrada.
+A boia fica no ponto depois de um ciclo de maré, sem deriva visível.
+O cabo fica tensionado e a âncora não se move quando puxada de leve.
+
+FONTES
+------
+Recomendação R1001, The IALA Maritime Buoyage System, edição 2.0, da IALA.
+NORMAM-17/DHN, Normas para Auxílios à Navegação, Marinha do Brasil.
+Manual de Sinalização Náutica do Centro de Auxílios à Navegação (CAMR).
+Brasil usa a Região B da IALA: bombordo verde, boreste vermelho.
+Resumo operacional; boia improvisada não substitui auxílio oficial.

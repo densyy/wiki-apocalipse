@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 02-082
+TITULO: Como criar peixes em pequenos reservatórios
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 120 minutos
+RISCO: alto
+EXIGE: reservatório limpo, água sem poluição, alevinos, ração, grade
+REVISAO: 2026-11
+PALAVRAS-CHAVE: peixes, tanque, reservatório, tilápia, oxigênio, ração
+==============================================================================
+
+OBJETIVO
+--------
+Montar e manter um reservatório pequeno para criar peixes com água limpa.
+
+QUANDO USAR
+-----------
+Quando houver água limpa disponível durante todo o ano.
+Quando faltar comida e a pesca ou a compra não bastarem.
+Quando alguém puder conferir a água e alimentar os peixes todo dia.
+
+NAO USE QUANDO
+--------------
+Não use água de esgoto, lixo, estábulo, óleo ou agrotóxico.
+Não use onde a água fique parada, quente e sem renovação.
+Não crie espécie exótica que possa escapar para rio ou córrego.
+Não use tanque sem grade ou tampa onde brincam crianças.
+
+MATERIAIS
+---------
+- Reservatório limpo (caixa de plástico, tanque forrado ou poço).
+- Água limpa de fonte conhecida (poço, nascente ou chuva coletada limpa).
+- Alevinos de espécie adaptada e de produtor conhecido (tilápia ou nativa).
+- Ração balanceada para a espécie escolhida (ou alimento natural do tanque).
+- Tela ou grade na entrada, na saída e na borda (nylon ou arame).
+- Pedras para a entrada da água e remo para agitar a superfície.
+- Termômetro, tiras de pH, disco de Secchi, pá e puçá.
+
+PROCEDIMENTO
+------------
+1. Escolha ponto com água limpa o ano todo, longe de esgoto.
+2. Confirme que a fonte não recebe óleo, tinta ou agrotóxico.
+3. Retire lama, pedras e detritos; lave com água limpa.
+4. Deixe o fundo secar ao sol por aproximadamente duas semanas.
+5. Instale tela na entrada e grade firme na saída e na borda.
+6. Encha com água limpa até aproximadamente 20 cm abaixo da borda.
+7. Coloque pedras sob a entrada para quebrar a queda e oxigenar.
+8. Deixe a embalagem dos alevinos na água por aproximadamente 15 minutos.
+9. Abra a embalagem e misture água do tanque antes de soltar.
+10. Solte no máximo 1 alevino pequeno para cada 60 litros de água.
+11. Em tanque de aproximadamente 9 mil litros, solte até 150 tilápias.
+12. Ofereça ração em pequena quantidade duas vezes ao dia, sem sobras.
+13. Reduza a ração se a água estiver abaixo de 18 ou acima de 30 graus.
+14. Confira a água de manhã cedo e no fim da tarde, todo dia.
+15. Retire água do fundo e reponha água limpa devagar, sem pressa.
+16. Não troque a água logo após chuva forte para não entrar lama.
+17. Bata a superfície com remo ou instale cascata se faltar oxigênio.
+18. Retire lama e sobras do fundo sem revolver toda a água de uma vez.
+19. Colha quando os peixes atingirem aproximadamente 200 gramas.
+
+ATENCAO
+-------
+Peixes criados em água poluída acumulam veneno e podem intoxicar quem come.
+A falta de oxigênio mata o tanque inteiro, quase sempre de madrugada.
+Sobra de ração apodrece e consome o oxigênio que os peixes precisam.
+Tanque superpovoado adoece e os peixes param de crescer.
+Em reservatório pequeno a temperatura muda depressa e o choque mata peixes.
+Mantenha grade e tampa firmes: criança ou animal pode cair e se afogar.
+Fontes divergem sobre a transparência ideal: FAO indica 40 a 60 cm;
+Embrapa indica 50 a 100 cm em tanques-rede.
+Peixes na superfície, com lábio inchado ou manchas, pedem ajuda urgente.
+
+SE NAO TIVER
+------------
+Sem ração comercial, baixe a densidade e use só alimento natural do tanque.
+Não dê restos gordos, salgados ou com tempero aos peixes.
+Sem termômetro, observe: peixes na superfície ou sem apetite sinalizam
+problema.
+Sem disco de Secchi, improvise um disco preto e branco de 25 cm
+preso a um cordão com nós a cada 10 cm.
+Sem bomba ou energia, use pedras na entrada, cascata e agitação manual.
+Sem alevinos conhecidos, não povo o tanque: peça a um produtor local.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os peixes nadam em meia-água e vêm comer no horário da ração.
+A água tem cheiro suave e não escurece de um dia para o outro.
+Não há peixes mortos flutuando, espuma escura ou ração apodrecendo no fundo.
+Os peixes crescem: meça ou pese alguns a cada 30 dias e anote.
+
+FONTES
+------
+Embrapa, UFU e FAPEMIG: "Sisteminha, Módulo 1: tanque de peixes"
+(aproximadamente 9 mil litros, 150 tilápias até 200 gramas, venturi).
+Embrapa: Circular Técnica 31 sobre qualidade da água na criação de tilápia
+(monitorar temperatura, oxigênio, pH e transparência).
+FAO: "Improving Pond Water Quality" e "Handbook on Small-Scale Freshwater
+Fish Farming" (pH de 6,5 a 8,5; aeração por cascata).
+WorldFish e FAO: guia de aeração e qualidade da água em viveiros
+(observar a água de manhã cedo e no fim da tarde).

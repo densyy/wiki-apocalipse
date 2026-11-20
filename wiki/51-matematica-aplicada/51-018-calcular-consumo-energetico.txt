@@ -1,0 +1,85 @@
+==============================================================================
+CODIGO: 51-018
+TITULO: Como calcular consumo energético
+CATEGORIA: 51 - Matemática aplicada à sobrevivência
+TEMPO: 20 minutos
+RISCO: medio
+EXIGE: caderno, lápis, etiqueta do aparelho, noções de multiplicação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: energia, consumo, watt, kWh, bateria, potência, horas, solar
+==============================================================================
+
+OBJETIVO
+--------
+Estimar quanto de energia um aparelho consome para planejar bateria,
+painel solar, gerador ou reserva de combustível.
+
+QUANDO USAR
+-----------
+Quando precisar saber quantos dias uma bateria alimenta um aparelho.
+Quando for escolher o tamanho de painel solar ou gerador.
+Quando quiser comparar o consumo de dois equipamentos antes de comprar.
+Quando precisar estimar autonomia de iluminação ou refrigeração na crise.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação para o cálculo, mas ele não substitui medição real.
+Não use para projetar instalação elétrica predial: procure profissional.
+Não confie só nesta conta para equipamento que mantém vida ou medicamentos.
+
+MATERIAIS
+---------
+- Caderno e lápis (ou papel e qualquer instrumento de escrita).
+- Etiqueta do aparelho com a potência em watts (ou o manual do fabricante).
+- Relógio para contar as horas de uso.
+- Calculadora (ou papel para fazer a conta à mão).
+- Noções de multiplicação e divisão.
+
+PROCEDIMENTO
+------------
+1. Leia a potência P do aparelho na etiqueta, em watts (W).
+2. Se estiver em quilowatts (kW), multiplique por 1000 para obter watts.
+3. Anote quantas horas por dia o aparelho fica ligado.
+4. Multiplique P pelas horas: o resultado é o consumo diário em Wh.
+5. Exemplo: lâmpada de 10 W por 5 horas dá 50 Wh por dia.
+6. Some o Wh de todos os aparelhos para obter o total diário.
+7. Multiplique o total diário pelo número de dias de autonomia.
+8. Divida os Wh por 1000 para obter quilowatt-hora (kWh).
+9. Para bateria, divida o Wh necessário pela tensão em volts (V): dá Ah.
+10. Exemplo: 500 Wh a 12 V dão aproximadamente 41,7 Ah.
+11. Aumente a necessidade em cerca de 20 por cento para perdas e folga.
+12. Para painel solar, divida o Wh diário pelas horas de sol úteis.
+
+ATENCAO
+-------
+A potência da etiqueta é o máximo; motores e compressores puxam mais
+na partida. A conta vale para potência constante; use wattímetro na medição.
+Arredondamentos e perdas tornam o resultado aproximado: deixe folga.
+Baterias não entregam toda a capacidade nominal e envelhecem com o tempo.
+Descarregar a bateria até o fundo reduz muito a vida útil dela.
+Erro de unidade (W por kW, hora por minuto) muda o resultado até mil vezes.
+Nunca abra rede energizada para conferir consumo: choque pode matar.
+Esta conta não substitui projeto profissional nem treinamento.
+
+SE NAO TIVER
+------------
+Sem etiqueta, meça o consumo com wattímetro, se houver um disponível.
+Sem wattímetro, use a potência típica anotada no manual do aparelho.
+Sem dados de potência, não invente número: meça ou tire a estimativa.
+Sem calculadora, faça a multiplicação à mão, passo a passo, no papel.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A conta termina em Wh ou kWh e usa horas, não minutos.
+O resultado diário é a soma do consumo de cada aparelho anotado.
+A capacidade em Ah é coerente com a tensão da bateria escolhida.
+Duas pessoas medindo o mesmo aparelho chegam a valores próximos.
+
+FONTES
+------
+Conceito consolidado de física: energia é potência multiplicada pelo tempo.
+Watt-hora e quilowatt-hora são unidades derivadas do sistema internacional.
+Prática consolidada de dimensionamento de baterias e painéis solares,
+sem documento único. A folga de 20 por cento é aproximação prática,
+não é norma.
+Não substitui treinamento, medição com instrumento ou projeto profissional.

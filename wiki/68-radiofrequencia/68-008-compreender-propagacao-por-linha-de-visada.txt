@@ -1,0 +1,79 @@
+==============================================================================
+CODIGO: 68-008
+TITULO: Como compreender propagação por linha de visada
+CATEGORIA: 68 - Radiofrequência e telecomunicações
+TEMPO: 20 minutos
+RISCO: baixo
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: radio, linha de visada, alcance, sinal, antena, repetidora
+==============================================================================
+
+OBJETIVO
+--------
+Entender o limite de alcance do rádio e estimar se duas antenas se veem.
+
+QUANDO USAR
+-----------
+Ao instalar um rádio VHF ou UHF e quiser saber o alcance esperado.
+Quando o sinal some mesmo com as antenas apontadas uma para a outra.
+Quando uma ligação de emergência falha e você precisa escolher outro ponto.
+Quando morros, árvores ou prédios ficam entre o transmissor e o receptor.
+Quando for decidir onde subir a antena ou colocar uma repetidora.
+
+NAO USE QUANDO
+--------------
+Não serve para garantir qualidade de sinal em cidade com muitos prédios.
+Não substitui teste no local nem projeto de engenharia de telecomunicações.
+Não vale para ondas curtas (ionosfera) nem para AM (onda de solo).
+Não serve abaixo de 30 MHz, onde valem outras regras de propagação.
+
+MATERIAIS
+---------
+- Calculadora, ou papel e lápis, para a conta.
+- Mapa ou observação do terreno entre os dois pontos.
+- Nenhum equipamento de rádio é preciso só para estimar.
+
+PROCEDIMENTO
+------------
+1. Confirme a faixa: acima de 30 MHz (VHF, UHF) vale a regra de visada.
+2. Observe se a outra antena está visível a olho nu ou com binóculos.
+3. Meça a altura de cada antena acima do terreno e do obstáculo.
+4. Calcule o horizonte de cada ponta: 3,57 vezes a raiz da altura em metros.
+5. Some os dois horizontes para obter o alcance máximo aproximado em km.
+6. Em tempo normal, use 4,12 no lugar de 3,57: o ar curva a onda para baixo.
+7. Compare o resultado com a distância real entre as duas antenas.
+8. Entenda a zona de Fresnel: é o volume de ar em torno da linha reta.
+9. Mantenha 60% do raio dessa zona livre de árvores e obstáculos.
+10. Suba a antena ou mude o ponto se a conta ficar abaixo da distância.
+
+ATENCAO
+-------
+Estas contas dão o máximo em condições ideais, não a qualidade do sinal.
+Morros e terra elevada bloqueiam a ligação mesmo parecendo haver visão.
+O clima muda o alcance: tempo de tempestade pode encurtar a ligação.
+Freqências mais altas sofrem mais com chuva, galhos e folhagem.
+Caixas metálicas fechadas, como elevador ou cabine, bloqueiam o sinal.
+Não confie só na estima para comunicação de emergência: teste no local.
+
+SE NAO TIVER
+------------
+Sem calculadora, use a regra prática: antena a 2 metros vê cerca de 5 km.
+Some essa volta de cada ponta para ter o alcance aproximado.
+Se não houver visão, coloque a antena mais alta ou use um ponto elevado.
+Sem linha direta, uma repetidora no alto pode contornar o obstáculo.
+Aumentar a potência não resolve um obstáculo no caminho.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A outra antena aparece na linha de visão, a olho nu ou com binóculos.
+A soma dos horizontes é maior que a distância real entre os pontos.
+No teste, a ligação fica estável e não cai quando a pessoa dá poucos passos.
+O sinal some só quando algo entra na linha reta entre as antenas.
+
+FONTES
+------
+Recomendação ITU-R P.834 da UIT, sobre refração troposférica.
+Federal Standard 1037C e MIL-STD-188, termos radio horizon e Fresnel zone.
+Haslett, Essentials of Radio Wave Propagation, 2008.
+CWNA Official Study Guide, Coleman e Westcott, 2012.

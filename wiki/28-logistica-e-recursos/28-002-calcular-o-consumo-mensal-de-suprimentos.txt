@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 28-002
+TITULO: Como calcular o consumo mensal de suprimentos
+CATEGORIA: 28 - Logística e gestão de recursos
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: caderno, lápis, lista de estoque, calendário
+REVISAO: 2026-11
+PALAVRAS-CHAVE: consumo, suprimentos, estoque, racionamento, mensal, pessoa
+==============================================================================
+
+OBJETIVO
+--------
+Calcular quantos suprimentos o grupo consome em um mês e quanto comprar.
+
+QUANDO USAR
+-----------
+Quando for montar ou revisar o estoque de emergência da casa.
+Quando chegar pessoa nova ou mudar clima, dieta ou atividade.
+Quando sobrar ou faltar suprimento antes do fim do mês.
+
+NAO USE QUANDO
+--------------
+Quando houver feridos, gestantes, bebês ou doentes: esses casos
+exigem lista própria feita por profissional de saúde.
+
+MATERIAIS
+---------
+- Caderno e lápis (ou qualquer papel e caneta).
+- Lista do estoque com quantidades e datas de validade.
+- Calendário para contar os dias (ou conte nos dedos).
+
+PROCEDIMENTO
+------------
+1. Anote o número de pessoas, separando adultos de crianças.
+2. Anote quem precisa de mais: criança, gestante, doente ou quem
+   trabalha sob calor ou esforço forte.
+3. Defina a ração diária por pessoa e item. Para água, use
+   aproximadamente 4 litros por adulto por dia, bebida e higiene.
+4. Multiplique cada ração pelo número de pessoas e por 30 dias.
+5. Some aproximadamente 25 por cento de margem. Em calor forte, dobre
+   a ração de água antes da margem.
+6. Subtraia o estoque não vencido e arredonde para cima a compra.
+7. Escreva no caderno item, total, margem, estoque e quantidade final.
+8. Refaça o cálculo a cada 30 dias e anote o que sobrou ou faltou.
+
+ATENCAO
+-------
+O número de pessoas errado invalida o cálculo: conte de novo.
+A ração de 4 litros é aproximada e muda com calor e esforço.
+Margem pequena demais deixa o grupo sem água antes do fim do mês.
+Este método não substitui orientação médica para dieta especial.
+Estoque vencido não conta: verifique a data antes de subtrair.
+
+SE NAO TIVER
+------------
+Sem caderno, use papel e anote com lápis ou carvão.
+Sem lista de estoque, conte o que há antes de planejar.
+Sem dados de ração, comece pela água: 4 litros por adulto ao dia.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O caderno traz item, total do mês, margem, estoque abatido e
+quantidade final. A soma confere com a contagem dos 30 dias.
+
+FONTES
+------
+Prática consolidada de logística de emergência, não treinamento.
+FEMA e Ready.gov: pelo menos 1 galão de água por pessoa ao dia
+e estoque de alimentos não perecíveis por vários dias.

@@ -1,0 +1,90 @@
+==============================================================================
+CODIGO: 69-007
+TITULO: Como compreender transistores MOSFET
+CATEGORIA: 69 - Eletrônica analógica e componentes discretos
+TEMPO: 20 minutos
+RISCO: medio
+EXIGE: transistor, folha de dados do fabricante, proteção contra estática
+REVISAO: 2026-11
+PALAVRAS-CHAVE: mosfet, transistor, gate, dreno, fonte, estática, limiar
+==============================================================================
+
+OBJETIVO
+--------
+Identificar os terminais e como o gate controla a corrente do MOSFET.
+
+QUANDO USAR
+-----------
+Quando for preciso entender como um MOSFET funciona antes de usá-lo.
+Quando for preciso identificar gate, dreno e fonte em um componente.
+Quando for escolher entre MOSFET de canal N e canal P.
+Quando for manusear MOSFETs e evitar danos por eletricidade estática.
+Quando for ler a folha de dados e conferir limiar e corrente.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Um transistor MOSFET para observar (qualquer tipo, novo).
+- A folha de dados do fabricante do componente (impressa ou em arquivo).
+- Pulseira antiestática aterrada (ou superfície condutiva aterrada).
+- Saco antiestático ou espuma condutiva para guardar o componente.
+- Lupa ou boa luz para ler a marcação do componente.
+
+PROCEDIMENTO
+------------
+1. Aterre-se antes de tocar no componente.
+2. Retire o MOSFET do saco antiestático pela borda do invólucro.
+3. Identifique na folha os terminais gate (G), dreno (D) e fonte (S).
+4. Localize o substrato, ligado à fonte na maioria dos discretos.
+5. Observe o símbolo: a linha entre dreno e fonte mostra o tipo de canal.
+6. Leia a linha tracejada como modo enhancement, normalmente desligado.
+7. Leia o tipo de canal na folha de dados: canal N ou canal P.
+8. Confirme na folha a tensão de limiar VGS(th) do componente.
+9. Entenda: é a tensão mínima no gate que inicia a condução do canal.
+10. Compare VGS com VGS(th) para prever o estado do componente.
+11. Com VGS abaixo de VGS(th), o MOSFET fica cortado, sem corrente.
+12. Com VGS acima de VGS(th), o canal se forma entre dreno e fonte.
+13. A corrente flui pelo canal se houver tensão entre dreno e fonte.
+14. No canal N enhancement, tensão positiva no gate em relação à fonte liga.
+15. No canal P enhancement, tensão negativa no gate em relação à fonte liga.
+16. Note que quase nenhuma corrente entra no gate: o comando é por tensão.
+17. Reconheça as três regiões de operação do MOSFET.
+18. Saiba que são corte, linear (como resistência) e saturação.
+19. Identifique o diodo do corpo entre dreno e fonte, presente internamente.
+20. Guarde o MOSFET de volta no saco antiestático ou na espuma condutiva.
+
+ATENCAO
+-------
+A carga estática do corpo perfura o isolante do gate e destrói o componente.
+Não toque nos terminais com os dedos; segure pelo invólucro.
+Nunca deixe o gate flutuante em circuito: pode ligar o MOSFET por acaso.
+Tensão no gate acima do máximo da folha de dados destrói o isolamento.
+Respeite a tensão máxima dreno-fonte e a corrente máxima da folha de dados.
+Este texto explica o funcionamento; não habilita a projetar circuitos vivos.
+Não meça em circuito energizado sem treinamento e equipamento adequado.
+
+SE NAO TIVER
+------------
+Sem pulseira antiestática, toque em metal aterrado antes de manusear.
+Trabalhe sobre superfície limpa e seca, longe de tapetes e lã.
+Sem a folha de dados, não confie no limiar: ele varia entre modelos.
+Não use o componente sem consultar a folha de dados do fabricante.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você aponta gate, dreno e fonte no componente sem errar.
+Você diz se o modelo é canal N ou canal P e se é enhancement.
+Você explica que, sem tensão no gate, o MOSFET enhancement fica cortado.
+Você guardou o componente em saco antiestático após o manuseio.
+
+FONTES
+------
+Prática consolidada de eletrônica analógica sobre MOSFETs.
+A estrutura de gate isolado, os terminais gate, dreno e fonte, o modo
+enhancement, a tensão de limiar VGS(th), as regiões de operação e a
+sensibilidade à descarga eletrostática constam da literatura técnica de
+referência e das folhas de dados de fabricantes de semicondutores.
+Este texto é um resumo operacional e não substitui a folha de dados.

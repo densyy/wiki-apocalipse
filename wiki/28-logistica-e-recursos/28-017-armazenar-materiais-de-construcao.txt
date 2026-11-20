@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 28-017
+TITULO: Como armazenar materiais de construção
+CATEGORIA: 28 - Logística e gestão de recursos
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: local coberto e seco, tablado de madeira, caibros, lona, etiquetas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: cimento, madeira, aço, areia, empilhar, guardar, umidade
+==============================================================================
+
+OBJETIVO
+---------
+Conservar os materiais secos, íntegros e prontos para uso na obra.
+
+QUANDO USAR
+-----------
+Ao receber material que ficará guardado por mais de uma semana.
+Antes da estação de chuvas ou perto de parede úmida ou torneira.
+
+NAO USE QUANDO
+--------------
+Não guarde cimento ensacado se o local não tiver cobertura.
+Não empilhe sobre piso que ceda, escorregadio ou sem capacidade de carga.
+
+MATERIAIS
+---------
+- Tablado de madeira ou pallet para apoiar os sacos.
+- Caibros ou travessas para levantar madeira e aço do chão.
+- Lona impermeável para cobrir a pilha (ou cobertura fixa).
+- Etiquetas e caderno para anotar a data de fabricação.
+
+PROCEDIMENTO
+------------
+1. Escolha o local mais seco, coberto e fechado disponível no canteiro.
+2. Afaste a pilha de paredes, torneiras e encanamentos, deixando 0,50 m.
+3. Confira se o piso suporta o peso e se não escorrega.
+4. Monte um tablado de madeira a pelo menos 30 cm do chão.
+5. Apoie os sacos de cimento no tablado, em pilhas de até 10 sacos.
+6. Coloque os sacos mais antigos na frente da fila.
+7. Anote a data de fabricação de cada lote no caderno.
+8. Apoie madeira e barras de aço sobre caibros, fora do contato com o solo.
+9. Separe areia e brita em compartimentos distintos e cobertos.
+10. Cubra as pilhas com lona firme e prenda bem as bordas.
+
+ATENCAO
+-------
+A umidade do ar, do chão e da parede empedra o saco de cimento.
+Cimento bem estocado serve por no máximo 3 meses após a fabricação.
+Pilha alta rasga a embalagem; não obstrua portas, extintores ou saídas.
+Abaixo de 12 graus Celsius a pega atrasa; proteja o local do frio.
+Se o saco empedrou, tombe em superfície dura para tentar afofar.
+Peneire em malha de 5 mm só para pisos e calçadas, nunca para vigas.
+
+SE NAO TIVER
+------------
+Sem tablado, use pallet, caibros ou tijolos cobertos por madeira.
+Sem lona, use cobertura de zinco ou plástico bem preso nas bordas.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os sacos estão secos ao toque, sem torrões duros e com a embalagem inteira.
+Nenhum saco toca o chão ou a parede e as pilhas deixam passagem livre.
+A lona está firme, sem furos, e o saco mais antigo está na frente.
+
+FONTES
+------
+Associação Brasileira de Cimento Portland (ABCP), texto
+'Como armazenar cimento'.
+NR-11 do Ministério do Trabalho e Emprego e prática consolidada.

@@ -1,0 +1,90 @@
+==============================================================================
+CODIGO: 10-012
+TITULO: Como evitar se perder em uma floresta
+CATEGORIA: 10 - Sobrevivência em ambientes naturais
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: mapa da região, bússola, apito, relógio, papel e lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: floresta, perder, bússola, mapa, rota, navegação, apito
+==============================================================================
+
+OBJETIVO
+--------
+Mantenha a rota sob controle e retorne ao ponto de partida sem se perder.
+
+QUANDO USAR
+-----------
+Ao entrar em floresta ou mata fechada sem trilha visível.
+Quando a visão é curta e não há referências distantes.
+Quando o grupo pode se separar em direções diferentes.
+Ao caminhar com neblina, chuva ou no fim do dia.
+Quando não há sinal de celular ou GPS confiável.
+
+NAO USE QUANDO
+--------------
+Se houver perigo imediato (incêndio, enchente, animal agressivo), saia da
+área e peça socorro: a orientação não resolve esse risco.
+Não substitui equipamento nem treinamento em expedição técnica.
+
+MATERIAIS
+---------
+- Mapa da região (ou croqui desenhado à mão antes de entrar).
+- Bússola magnética (ou bússola do celular com bateria reserva).
+- Apito (ou galho para bater em uma pedra).
+- Relógio (ou contagem de passos).
+- Papel e lápis.
+
+PROCEDIMENTO
+------------
+1. Avise alguém de confiança do destino e da hora prevista de retorno.
+2. Anote no papel o destino, a rota, a saída e quando dar o aviso.
+3. Confira no mapa o norte e a escala (relação com o terreno).
+4. Leia a declinação magnética: a diferença entre o norte do mapa e o
+   da bússola. Ajuste a bússola se ela permitir.
+5. Segure a bússola na horizontal, afastada de metal.
+6. Alinhe a agulha da bússola ao norte.
+7. Gire o mapa até que o norte dele aponte para a mesma direção.
+8. Escolha referências visíveis: morro, rio, clareira, trilha.
+9. Caminhe de uma referência até a seguinte, sem atalhos.
+10. Pare a cada poucos minutos e confirme sua posição no mapa.
+11. Anote a direção e o tempo caminhado para estimar a distância.
+12. Olhe para trás com frequência: a volta deve parecer conhecida.
+13. Fique na trilha; não abra caminho por mata fechada.
+14. Pare assim que a paisagem deixar de bater com o mapa.
+15. Sem saber onde está, pare, sente e mantenha a calma.
+16. Dê três apitos curtos, o sinal de pedido de ajuda, e espere resposta.
+
+ATENCAO
+-------
+A desorientação em floresta causa exposição, hipotermia, desidratação e
+até morte: procure ajuda se não recuperar a rota.
+Não confie só na memória ou no celular: bateria acaba e sinal falha.
+Não use o sol, o musgo ou a água como única pista: esses sinais enganam.
+Nunca caminhe só para "chegar em algum lugar": isso afasta você do ponto
+de partida e piora o erro.
+Não marque o caminho com fogo nem arranque cascas: prejudica a floresta.
+Se o grupo se separar, pare e apite; não persiga ninguém sozinho na mata.
+
+SE NAO TIVER
+------------
+Sem mapa, desenhe um croqui da ida antes de entrar e siga as referências.
+Sem bússola, mantenha-se na trilha e nas referências; não adivinhe o norte.
+Sem apito, bata três vezes com um galho em uma pedra ou tronco oco.
+Sem relógio, conte os passos entre duas referências para medir a distância.
+Sem nenhum desses recursos, não entre em mata fechada desconhecida.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você reconhece cada referência no terreno e a localiza no mapa.
+O norte do mapa e a agulha da bússola apontam para a mesma direção.
+Ao olhar para trás, o caminho já feito aparece como esperado.
+Você chega ao ponto de partida na hora prevista e avisa quem ficou.
+
+FONTES
+------
+Prática consolidada de navegação terrestre e busca e salvamento.
+Famílias de referência: manual de sobrevivência civil FM 21-76, doutrina
+de orientação com mapa e bússola e orientações de serviços de busca e
+salvamento sobre avisar destino e hora de retorno (FEMA/Ready.gov).
+Resumo operacional; não substitui treinamento.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 08-065
+TITULO: Como manter equipamentos mecânicos por décadas
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 120 minutos
+RISCO: medio
+EXIGE: água, escova, detergente, óleo, graxa, tinta, suporte e luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: máquina, ferrugem, conservar, lubrificar, guardar, bateria
+==============================================================================
+
+OBJETIVO
+--------
+Conservar uma máquina parada por anos, pronta para voltar a funcionar.
+
+QUANDO USAR
+-----------
+Quando o equipamento ficará parado por uma estação ou mais.
+Quando ele volta de uso com lama, palha, resíduo ou fertilizante.
+
+NAO USE QUANDO
+--------------
+Com vazamento de óleo, combustível ou água: conserte antes de guardar.
+
+MATERIAIS
+---------
+- Água, escova e pano limpo.
+- Detergente ou removedor de gordura.
+- Óleo lubrificante leve e graxa.
+- Tinta de retoque (substituto: óleo ou graxa) para metal exposto.
+
+PROCEDIMENTO
+------------
+1. Escolha lugar coberto, seco e ventilado, longe de feno e faíscas.
+2. Retire lama, palha e resíduo de fertilizante com escova e água.
+3. Deixe secar ao ar antes de guardar; nunca guarde molhada.
+4. Não jogue jato de alta pressão em eletrônicos, rolamentos ou correntes.
+5. Passe óleo leve no metal sem pintura, longe de borracha e correia.
+6. Retoque riscos com tinta e deixe secar.
+7. Confira e complete os fluidos conforme o manual da máquina.
+8. Se o óleo estiver perto da troca, troque antes de guardar.
+9. Para diesel, encha o tanque e trate o combustível.
+10. Para gasolina com etanol, esvazie o tanque na guarda longa.
+11. Desconecte a bateria, limpe os terminais e guarde-a em local seco.
+12. Calibre os pneus na pressão do manual e apóie em suportes.
+13. Abra portas e levante o capô no abrigo: luz afasta roedores.
+14. Movimente a máquina uma vez por mês para não deformar os pneus.
+
+ATENCAO
+-------
+Bateria solta gás hidrogênio ao carregar: nunca carregue perto de fogo
+ou faísca; carregue só em lugar ventilado. Gasolina e diesel inflamam:
+não fume nem use chama. Nunca entre sob máquina apoiada só por macaco.
+Removedores irritam pele e olhos: use luvas e óculos; com vazamento, pare.
+
+SE NAO TIVER
+------------
+Sem suporte, use toras niveladas e retire o peso dos pneus.
+Sem tinta, passe óleo ou graxa fina no metal limpo e sem ferrugem.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A superfície está seca, sem lama, palha ou resíduo de fertilizante.
+O metal exposto está coberto por óleo ou tinta, sem ferrugem nova.
+
+FONTES
+------
+Prática consolidada de conservação de máquinas em extensão universitária.
+Penn State Extension, preparo de equipamentos para inverno (2024).
+Oklahoma State University Extension, guarda de equipamentos (2021).

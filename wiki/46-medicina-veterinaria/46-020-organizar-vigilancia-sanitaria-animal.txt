@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 46-020
+TITULO: Como organizar vigilância sanitária animal
+CATEGORIA: 46 - Medicina veterinária e saúde animal
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: animais sob cuidado, caderno, lápis, luvas, água e sabão
+REVISAO: 2026-11
+PALAVRAS-CHAVE: vigilância, animais, doença, observar, registrar, notificar
+==============================================================================
+
+OBJETIVO
+---------
+Montar um sistema simples para detectar doenças em animais e avisar cedo.
+
+QUANDO USAR
+-----------
+Quando há animais de criação sob responsabilidade.
+Depois de desastre, quando animais de lugares diferentes se misturam.
+Ao notar animal doente, morto ou comendo menos.
+Quando animais novos entram no grupo.
+Antes de dividir cercos, feiras ou transporte de animais.
+
+NAO USE QUANDO
+--------------
+Não substitui o veterinário: não diagnostica nem trata animais.
+Com surto em andamento, isole e notifique antes de registrar.
+Não use o registro como prova de que o animal está livre de doença.
+
+MATERIAIS
+---------
+- Caderno e lápis (ou papel e qualquer instrumento que escreva).
+- Lista dos animais: espécie, número, idade e local.
+- Luvas (ou saco plástico como barreira improvizada).
+- Água corrente e sabão (ou álcool de 60% ou mais para as mãos).
+- Corda, estaca ou cerca para isolar animal suspeito.
+- Saco resistente para recolher animais mortos.
+- Roupa e calçados exclusivos para a área dos animais.
+
+PROCEDIMENTO
+------------
+1. Liste no caderno cada animal, com espécie, idade e local.
+2. Escolha uma pessoa responsável pela observação diária.
+3. Escreva no caderno os sinais que vão disparar o alerta.
+4. Anote como alerta ferida na boca, salivação e dificuldade de andar.
+5. Anote também tosse, diarreia, aborto e morte sem causa clara.
+6. Faça a ronda uma vez por dia, sem tocar nos animais.
+7. Anote data, animal e sinal visto em cada observação.
+8. Isole o animal suspeito ao primeiro sinal de alerta.
+9. Não mova animal suspeito para outra criação ou feira.
+10. Vista roupa e calçados exclusivos antes da ronda.
+11. Lave as mãos com água e sabão após cada contato.
+12. Avise o serviço veterinário oficial ao ver sinal de alerta.
+13. Informe local, espécie, quantidade, sinais e data de início.
+14. Recolha animal morto com luvas e saco resistente.
+15. Enterre ou queime a carcaça conforme a regra local.
+16. Não coma nem venda animal que morreu doente.
+
+ATENCAO
+-------
+Animais com aspecto saudável podem transmitir germes às pessoas.
+Gripe aviária, salmonelose e brucelose adoecem pessoas e animais.
+Ferida na boca, salivação e morte súbita podem ser doença notificável.
+Não toque animal doente sem luvas; lave as mãos ao terminar.
+Não mova animal suspeito: pode espalhar doença a outros grupos.
+O caderno só registra sinais; não prova que o animal está livre de doença.
+Caso suspeito só é confirmado por exame de laboratório.
+Se vários animais adoecerem ou morrerem no mesmo dia, pare e chame ajuda.
+
+SE NAO TIVER
+------------
+Sem luvas, use saco plástico na mão, mas troque e lave as mãos depois.
+Sem caderno, anote em papel, tábua ou nós numa corda; marque a data.
+Sem serviço oficial acessível, procure a unidade de defesa agropecuária.
+Sem água corrente, use balde com água limpa trocada a cada uso.
+Sem sabão, use álcool de 60% nas mãos; não substitui a lavagem.
+Sem saco, enterre a carcaça com o mínimo de contato possível.
+Sem cerca, aumente a distância e mantenha equipamentos separados.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Há uma lista com todos os animais e o local de cada um.
+A ronda aconteceu e o caderno tem uma anotação por dia.
+Os sinais de alerta estão escritos e foram usados na observação.
+Animal com sinal suspeito ficou isolado no mesmo dia.
+O aviso ao serviço oficial registrou local, sinais e data.
+Animais mortos foram recolhidos e enterrados ou queimados.
+
+FONTES
+------
+WOAH (OIE), Código Terrestre de Saúde Animal, capítulo 1.4, vigilância.
+WOAH (OIE), Código Terrestre de Saúde Animal, capítulo 4.19, alerta.
+FAO, Diretrizes para planos de vigilância de doenças animais, 2021.
+MAPA: Sistema de Informação em Saúde Animal e e-SISBRAVET.
+Instrução Normativa MAPA 50/2013, notificação obrigatória.
+SUASA: Lei 9.712/1998 e Decreto 5.741/2006.
+CDC: higiene das mãos e cuidados ao lidar com animais.
+Resumo operacional; não substitui treinamento veterinário.

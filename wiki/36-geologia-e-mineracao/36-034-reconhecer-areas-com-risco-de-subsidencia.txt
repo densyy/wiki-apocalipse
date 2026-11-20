@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 36-034
+TITULO: Como reconhecer áreas com risco de subsidência
+CATEGORIA: 36 - Geologia, mineração e recursos naturais
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: caderno, lápis, estacas, fita de pano, lanterna
+REVISAO: 2026-11
+PALAVRAS-CHAVE: subsidência, afundamento, rachadura, sumidouro, mina, poço
+==============================================================================
+
+OBJETIVO
+--------
+Identificar sinais visíveis de afundamento do solo e evitar o local.
+
+QUANDO USAR
+-----------
+Ao escolher onde montar acampamento ou guardar suprimentos.
+Ao atravessar área de mineração antiga, abandonada ou sem mapa.
+Ao ver rachaduras novas no chão, em muros ou no piso de casas.
+Ao notar poços, cacimbas ou drenagens com nível de água mudando.
+Depois de chuva forte, seca longa ou bombeamento intenso de poço.
+Antes de usar galpão, estrada ou ponte em terreno suspeito.
+
+NAO USE QUANDO
+--------------
+Este método só observa. Ele não prevê se o solo vai ceder nem quando.
+Não use para autorizar obra, escavação ou entrada em galeria de mina.
+Não substitui mapa geológico, sondagem ou orientação da Defesa Civil.
+
+MATERIAIS
+---------
+- Caderno e lápis para anotar a data e o local de cada sinal.
+- Estacas para marcar o perímetro da área suspeita (gravetos servem).
+- Fita de pano ou barbante para fechar a área marcada.
+- Lanterna para olhar o chão ao amanhecer ou ao anoitecer.
+
+PROCEDIMENTO
+------------
+1. Pergunte a quem mora ou trabalha no local se o solo vem mudando.
+2. Anote no caderno a data e o que a pessoa observou antes.
+3. Pare em ponto firme e olhe o terreno de longe, em linha reta.
+4. Procure depressões rasas sem saída de água, ovais ou irregulares.
+5. Observe rachaduras no solo que apareceram ou cresceram depois da chuva.
+6. Veja se muros, pisos e paredes têm rachaduras novas e inclinadas.
+7. Compare o ângulo de postes, árvores e cercas com os das ruas vizinhas.
+8. Note se portas e janelas pararam de fechar sem causa aparente.
+9. Observe se a água da chuva ficou parada onde antes escorria.
+10. Verifique se poços e cacimbas mudaram de nível sem motivo claro.
+11. Escute estalos ou ruídos vindos do solo em área de mina antiga.
+12. Marque com estaca e fita o perímetro do sinal, sem pisar dentro.
+13. Recue para ponto firme e anote a distância até a marca mais próxima.
+14. Repita a observação no dia seguinte e compare com o caderno.
+
+ATENCAO
+-------
+O afundamento pode ser lento, por anos, ou súbito, em poucas horas.
+Não pise na borda de depressão nova: a borda pode ceder junto.
+Nunca desça em galeria, poço ou cavidade sem equipamento e equipe.
+Rachadura que cresce, estalo no solo e poço seco são sinais de parar.
+Se o chão tremer ou ceder sob os pés, saia em linha reta, sem correr.
+Este método não prevê o colapso. Ele só reduz o risco de estar no lugar.
+Em área de mina ou de bombeamento, afaste-se e avise a Defesa Civil.
+
+SE NAO TIVER
+------------
+Sem caderno, anote a data com carvão na parede e desenhe a área no chão.
+Sem estaca, finque um graveto e amarre fita de pano em volta.
+Sem lanterna, espere a luz do dia. Não inspecione no escuro.
+Se não houver ponto firme para observar, mude de rota e não se aproxime.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue apontar no caderno pelo menos dois sinais no mesmo lugar.
+As estacas e a fita fecham a área sem que ninguém tenha pisado nela.
+A comparação de dois dias mostra se o sinal cresceu, parou ou sumiu.
+Você escolheu para dormir e guardar suprimentos um ponto sem sinais.
+
+FONTES
+------
+Prática consolidada de leitura visual de terreno; resumo operacional
+baseado em: USGS, perguntas frequentes sobre sumidouro e subsidência;
+USGS, página Land Subsidence da Área de Recursos Hídricos; USGS
+Circular 1182, Land Subsidence in the United States (Galloway, Jones
+e Ingebritsen, 1999); USGS Water Science School, tema Sinkholes;
+National Research Council, Mitigating losses from land subsidence in
+the United States (1991).

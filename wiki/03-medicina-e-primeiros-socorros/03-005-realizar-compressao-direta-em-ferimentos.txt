@@ -1,0 +1,84 @@
+==============================================================================
+CODIGO: 03-005
+TITULO: Como realizar compressão direta em ferimentos
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 10 minutos
+RISCO: alto
+EXIGE: pano limpo ou gaze, luvas ou sacola plástica
+REVISAO: 2026-11
+PALAVRAS-CHAVE: compressão, ferimento, pressão, gaze, hemorragia, sangue
+==============================================================================
+
+OBJETIVO
+--------
+Parar o sangramento de um ferimento pressionando-o diretamente.
+
+QUANDO USAR
+-----------
+Ferimento que sangra e não para sozinho.
+Corte aberto com sangue escorrendo.
+Sangue saindo em jato ou pulsando.
+Arranhão ou laceração que encharca o pano.
+Primeira medida antes de qualquer curativo ou torniquete.
+
+NAO USE QUANDO
+--------------
+Não pressione objeto encravado, como faca, vidro ou estaca.
+Não pressione olho ferido: cubra sem tocar.
+Não pressione osso afundado no crânio: cubra sem pressão.
+Não aperte o pescoço, a garganta ou o tórax.
+
+MATERIAIS
+---------
+- Pano limpo ou gaze (ou camiseta limpa dobrada).
+- Luvas descartáveis (ou sacola plástica limpa nas mãos).
+- Água corrente limpa para lavar ao redor (se houver).
+- Curativo adesivo ou faixa de pano para fixar depois.
+- Relógio para controlar o tempo de pressão.
+
+PROCEDIMENTO
+------------
+1. Garanta que o local está seguro antes de chegar perto.
+2. Calce luvas ou use sacola plástica limpa nas mãos.
+3. Afaste a roupa ao redor do ferimento sem tocá-lo.
+4. Retire pedras e sujeira soltas que estejam em cima.
+5. Cubra o ferimento com gaze ou pano limpo dobrado.
+6. Pressione com a palma da mão diretamente sobre o pano.
+7. Faça pressão firme e contínua sem levantar para espiar.
+8. Mantenha a pressão por aproximadamente 10 minutos.
+9. Se o pano encharcar, não remova: ponha outro por cima.
+10. Continue pressionando sem soltar.
+11. Se o membro permitir, eleve-o acima do coração.
+12. Não pare a pressão para trocar de mão: chame alguém.
+13. Quando o sangue parar, fixe o curativo sem apertar demais.
+
+ATENCAO
+-------
+Este procedimento controla o sangramento, mas não substitui atendimento.
+Nunca remova o pano encharcado: isso desfaz o coágulo e piora.
+Nunca pressione objeto encravado: imobilize ao redor com panos.
+Nunca use algodão solto, papel higiênico ou serragem: gruda na ferida.
+Sinais de choque: pele pálida e fria, suor, pulso fraco, confusão.
+Se houver sinais de choque, deite a pessoa e cubra para aquecer.
+Não dê comida nem bebida.
+Se o sangue jorrar em jato e não parar, procure ajuda urgente.
+
+SE NAO TIVER
+------------
+Sem gaze: use camiseta, lenço ou pano limpo dobrado.
+Sem luva: lave as mãos ou use sacola plástica limpa.
+Sem água: pressione com o pano mais limpo que houver.
+Sem curativo: amarre pano limpo ao redor sem apertar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O sangramento diminui e para sob a pressão.
+O pano deixa de encharcar.
+A pessoa permanece acordada e consciente.
+O ferimento fica coberto e protegido.
+
+FONTES
+------
+Prática consolidada de primeiros socorros (referências: Cruz Vermelha
+e orientações da OMS/IFRC sobre primeiros socorros). Este texto é um
+resumo operacional e não substitui treinamento prático.

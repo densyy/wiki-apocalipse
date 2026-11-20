@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 42-020
+TITULO: Como construir estruturas flutuantes
+CATEGORIA: 42 - Engenharia naval e tecnologias marítimas
+TEMPO: 180 minutos
+RISCO: alto
+EXIGE: madeira ou tambores vazios, corda, cortador, colete salva-vidas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: jangada, balsa, flutuador, tambor, corda, travessia, pontao
+==============================================================================
+
+OBJETIVO
+--------
+Construir uma plataforma flutuante improvisada para atravessar agua calma.
+
+QUANDO USAR
+-----------
+Quando faltar ponte ou barco para vencer agua rasa e calma.
+Quando precisar manter pessoas ou carga fora da agua apos enchente.
+Quando houver madeira, bambu ou tambores vazios e corda disponiveis.
+Quando o destino fica a poucos metros e a correnteza e fraca.
+
+NAO USE QUANDO
+--------------
+Quando houver correnteza forte, ondas, vento ou mar aberto.
+Quando a agua for profunda e a pessoa nao souber nadar.
+Quando nao houver colete salva-vidas para quem for embarcar.
+Quando a madeira estiver apodrecida ou o tambor tiver residuo quimico.
+
+MATERIAIS
+---------
+- Madeira leve, bambu ou toras (ou tambores plasticos vazios e vedados).
+- Corda resistente (ou cipo, ou tiras de pano trançado).
+- Colete salva-vidas ou flutuador pessoal para cada pessoa.
+- Faca, machado ou serra para cortar.
+- Pano, tábua ou resina natural para vedar fendas.
+- Vara longa para afastar a plataforma da margem.
+
+PROCEDIMENTO
+------------
+1. Escolha margem baixa, agua calma e sem correnteza.
+2. Vista o colete salva-vidas antes de entrar na agua.
+3. Corte a madeira ou o bambu em varas de comprimento parecido.
+4. Retire cascas soltas, pontas afiadas e partes apodrecidas.
+5. Feche cada tambor e pressione com as mãos; descarte os que vazam ar.
+6. Nao use tambor que continha combustível, óleo, agrotóxico ou químico.
+7. Deite duas fileiras de varas paralelas no solo, uma ao lado da outra.
+8. Amarre as varas de cada fileira com corda, formando dois feixes.
+9. Prenda os dois feixes com travessas curtas por cima e por baixo.
+10. Dê duas voltas de corda em cada amarra e aperte com nó duplo.
+11. Prenda os tambores por baixo dos feixes, se forem usar.
+12. Esconda pontas de corda onde o pé possa prender.
+13. Arraste a plataforma para a agua rasa pela corda, sem embarcar.
+14. Empurre a plataforma com o pé e veja se ela fica nivelada.
+15. Se inclinar de um lado, distribua a carga ou acrescente flutuador.
+16. Embarque pelo centro, apoiando as mãos antes de apoiar os pés.
+17. Fique agachado no centro e espalhe o peso da carga.
+18. Afaste a plataforma da margem com a vara.
+19. Atravesse em linha reta, sem mudar de direção de repente.
+20. Amarre a corda em árvore ou estaca firme ao chegar.
+
+ATENCAO
+-------
+Esta plataforma improvisada nao substitui barco, colete ou balsa homologada.
+Nao navegue em mar aberto, correnteza, ondas ou vento forte.
+A plataforma improvisada nao tem casco nem estabilidade.
+O afogamento e o risco principal: use colete mesmo em agua rasa.
+Nao superlote: excesso de peso afunda a plataforma sem aviso.
+Tambor vazio flutua enquanto vedado; furo ou tampa frouxa o inutiliza.
+Nunca use tambor de combustível, óleo ou agrotóxico: o residuo intoxica.
+Madeira apodrecida quebra sob o peso; teste cada peça antes de amarrar.
+Se a agua subir ou a plataforma inclinar, volte a margem.
+Nao tente salvar outra pessoa sem flutuador proprio: os dois afundam.
+Nao ha limite de carga oficial citado aqui: nao confie em agua correnteza.
+
+SE NAO TIVER
+------------
+Sem corda, tranque tiras de pano, cipos ou fibra vegetal em duas voltas.
+Sem madeira, use bambu, toras, garrafas plasticas tampadas ou sacos vedados.
+Garrafas e sacos rompem com facilidade: use em agua rasa e com colete.
+Sem colete salva-vidas, nao entre na agua: procure ajuda ou outro meio.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A plataforma flutua nivelada e nao afunda sob o peso de uma pessoa.
+As amarras nao soltam quando a plataforma e empurrada com o pe.
+O centro da plataforma fica seco e nao entra agua entre as varas.
+A pessoa chega a margem oposta sem precisar nadar.
+
+FONTES
+------
+Pratica consolidada de jangadas e balsas improvisadas e principio da
+flutuabilidade de Arquimedes.
+Nao foi possivel consultar fonte institucional primaria nesta redacao.
+Por isso o texto nao traz numeros, limites ou normas oficiais.
+A promessa fica reduzida a agua calma e travessia curta.

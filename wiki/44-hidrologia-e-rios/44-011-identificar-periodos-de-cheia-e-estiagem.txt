@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 44-011
+TITULO: Como identificar períodos de cheia e estiagem
+CATEGORIA: 44 - Hidrologia, rios e gestão de bacias
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: caderno, lápis, estaca para marcar o nível da água
+REVISAO: 2026-11
+PALAVRAS-CHAVE: rio, cheia, estiagem, seca, nível, chuva, várzea, marcar
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer por sinais visíveis se o rio está em cheia ou em estiagem.
+
+QUANDO USAR
+-----------
+Antes de montar acampamento ou depósito perto do rio.
+Ao escolher onde buscar água para beber ou para a horta.
+Ao planejar travessia ou pesca em um trecho desconhecido.
+Quando as chuvas mudaram e você quer saber se o rio vai subir.
+
+NAO USE QUANDO
+--------------
+Não serve para prever cheia repentina ou enxurrada: o sinal pode não
+aparecer antes da água subir. Em área de risco, siga a Defesa Civil.
+
+MATERIAIS
+---------
+- Caderno e lápis (papel improvizado e carvão).
+- Estaca, vara ou pedra para marcar o nível da água.
+- Cordão ou fibra de cipó para prender a marca.
+- Relógio ou contagem de dias para anotar a data.
+
+PROCEDIMENTO
+------------
+1. Escolha um trecho reto do rio, com margem livre e visão do leito.
+2. Fique na margem, a aproximadamente 3 metros da beira, nunca na água.
+3. Procure folhas e gravetos presos na vegetação: marca da última cheia.
+4. Observe a cor da água: barrenta indica cheia; clara indica estiagem.
+5. Olhe pedras e troncos: manchas escuras mostram até onde a água subiu.
+6. Veja o solo: rachado e seco indica estiagem; úmido indica cheia.
+7. Confira córregos e olhos d'água próximos: secando, a estiagem chegou.
+8. Crave a estaca na altura atual da água e anote a data no caderno.
+9. Repita no mesmo ponto a cada visita e compare com a marca anterior.
+
+ATENCAO
+-------
+A cheia não avisa: chuva forte a montante pode subir o rio em minutos.
+Nunca entre na água para medir o nível; meça sempre da margem segura.
+Margem de várzea pode ceder; evite solo mole durante a subida.
+Água barrenta pode vir de terra revolvida a montante, não de cheia aqui.
+Marca antiga na vegetação engana: confirme sempre com a data da leitura.
+O método mostra o passado recente, não prevê a próxima cheia.
+
+SE NAO TIVER
+------------
+Sem estaca, empilhe pedras ou faça um nó no cordão na margem.
+Sem caderno, use papel improvizado e não confie só na memória.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você encontra a linha da cheia na vegetação e registra o nível com data.
+Na visita seguinte, a marca nova mostra se a água subiu ou baixou.
+
+FONTES
+------
+Prática consolidada de observação de rios e clima, sem documento único.
+Referências institucionais da área: ANA, INMET e Defesa Civil.

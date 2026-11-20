@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 02-062
+TITULO: Como identificar frutos silvestres
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 45 minutos
+RISCO: critico
+EXIGE: guia de campo regional, segunda fonte, luvas, caderno
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fruto silvestre, comestível, venenoso, frutinha, guia
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer quando um fruto silvestre é seguro e quando deve ser descartado.
+
+QUANDO USAR
+-----------
+Quando encontrar frutinhas coloridas no mato, no quintal ou na cerca.
+Quando alguém oferecer frutos colhidos por outra pessoa.
+Quando criança ou animal pode ter comido fruto desconhecido.
+
+NAO USE QUANDO
+--------------
+Não use para cogumelos: só especialista identifica fungos (veja 02-060).
+Não use sem guia da região e segunda fonte que nomeiem a espécie.
+Não coma fruto de planta ornamental, mesmo com cara de comestível.
+
+MATERIAIS
+---------
+- Guia de campo da região, impresso (ou ficha escrita antes da viagem).
+- Segunda fonte escrita com o nome científico da espécie.
+- Caderno e lápis para anotar folha, flor, fruto e local.
+- Luvas grossas (ou pano grosso) para manusear fruto desconhecido.
+- Lupa de bolso (ou aproximação dos olhos, sem tocar no fruto).
+- Saco de papel para guardar uma amostra (nunca plástico).
+- Água corrente e sabão para lavar as mãos.
+
+PROCEDIMENTO
+------------
+1. Pare qualquer preparo se o fruto foi colhido para comer.
+2. Anote no caderno o local, a data e a hora da coleta.
+3. Observe a planta inteira de longe, sem arrancar nem tocar.
+4. Anote a folha, a borda, as nervuras, a flor e o cheiro.
+5. Anote o fruto: cor, tamanho, formato e se nasce em cacho.
+6. Confirme a espécie no guia regional pelo nome científico.
+7. Confirme na segunda fonte; se divergir, trate como duvidosa.
+8. Liste as espécies parecidas e perigosas antes de sair de casa.
+9. Compare cada caractere com o guia, um por um.
+10. Se um caractere não bater, pare e não colha.
+11. Descarte fruto com látex, mole, mofado ou danificado.
+12. Não colha em beira de estrada, esgoto, fossa ou área com agrotóxico.
+13. Vista luvas e colha pouco o fruto confirmado.
+14. Guarde uma amostra em papel para conferência posterior.
+15. Peça confirmação a experiente da região; sem ela, não coma.
+16. Cozinhe o fruto confirmado antes de comer.
+17. Nunca prove fruto cru para tentar identificar.
+
+ATENCAO
+-------
+Fruto de espécie errada pode matar: não há teste caseiro seguro.
+Cor, cheiro e sabor não provam que o fruto é comestível.
+Cozimento, secagem e congelamento não eliminam todas as toxinas.
+Chapéu-de-napoleão: fruto atrativo, sementes fatais, parada cardíaca.
+Pinhão-roxo e cinamomo têm frutos tóxicos; mamona, sementes fatais.
+Aplicativo de fotos erra e não substitui as duas fontes escritas.
+Após comer, queimação, náusea, vômito ou falta de ar exigem ajuda.
+Não induza vômito nem dê ovos crus, sal, vinagre ou suco cítrico.
+Remova restos da boca, guarde a amostra e procure atendimento.
+Na pele ou nos olhos, lave com água corrente por 15 a 30 minutos.
+Na dúvida, não coma.
+
+SE NAO TIVER
+------------
+Sem guia impresso, use ficha escrita com nome científico e caracteres.
+Sem segunda fonte, não coma: espere até conseguir a confirmação.
+Sem pessoa experiente, aprenda observando, sem colher para comer.
+Sem lupa, aproxime os olhos sem tocar; nunca decida por um só fruto.
+Sem luvas, use pano grosso, lave as mãos e não toque no rosto.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O nome científico é o mesmo nas duas fontes consultadas.
+Cada caractere anotado bate com a descrição do guia, sem exceção.
+Nenhum fruto duvidoso entrou na comida.
+A amostra em papel permite conferir a espécie depois.
+
+FONTES
+------
+CIATox/SC, Secretaria de Estado da Saúde de Santa Catarina, Plantas e
+cogumelos tóxicos: não há regras ou testes seguros para distinguir
+comestíveis de tóxicos; não coma frutos desconhecidos; não induza vômito;
+lavagem de pele e olhos por 15 a 30 minutos.
+Sinitox, Ministério da Saúde e Fiocruz, Programa Nacional de Informações
+sobre Plantas Tóxicas: não comer planta desconhecida; guardar amostra.
+CIATox-ES, Secretaria da Saúde do Espírito Santo, material Plantas
+Tóxicas (2023): frutos de pinhão-roxo e cinamomo, sementes de mamona.
+CIATox/João Pessoa, UFPB, folder Plantas tóxicas (2026): não provocar
+vômito nem dar leite, óleo ou remédios caseiros.
+Anvisa e Museu Nacional/UFRJ: chapéu-de-napoleão proibido como alimento;
+fruto atrativo e sementes venenosas.

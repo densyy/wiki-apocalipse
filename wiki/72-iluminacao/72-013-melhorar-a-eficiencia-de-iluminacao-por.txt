@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 72-013
+TITULO: Como melhorar a eficiência de iluminação por combustão
+CATEGORIA: 72 - Sistemas de iluminação e óptica aplicada
+TEMPO: 20 minutos
+RISCO: alto
+EXIGE: lamparina ou vela com pavio, tesoura, pano limpo, refletor
+REVISAO: 2026-11
+PALAVRAS-CHAVE: luz, lamparina, querosene, pavio, chama, fuligem, refletor
+==============================================================================
+
+OBJETIVO
+--------
+Tirar mais luz de cada quantidade de combustível na lamparina ou na vela.
+
+QUANDO USAR
+-----------
+Quando a chama estiver fraca, baixa ou com fumaça escura.
+Quando o combustível estiver caro ou escasso.
+Quando precisar ler ou trabalhar perto da chama.
+Depois de limpar a lamparina ou de trocar o pavio.
+Quando a luz não alcançar a mesa de trabalho.
+
+NAO USE QUANDO
+--------------
+Não ajuste a chama perto de gás, combustível, cortina ou papel.
+Não use gasolina, álcool ou solvente como combustível de lamparina.
+Não suba o pavio até a chama soltar fumaça: gasta mais e suja o vidro.
+Não mantenha chama acesa em quarto fechado ou sem ventilação.
+Não complete o tanque com a chama acesa.
+
+MATERIAIS
+---------
+- Lamparina, lanterna ou vela com pavio (o equipamento disponível).
+- Combustível indicado pelo equipamento (querosene ou óleo de lamparina).
+- Tesoura para cortar o pavio (faca limpa).
+- Pano limpo e seco para o vidro (papel limpo, sem tinta fresca).
+- Refletor: folha de alumínio, lata polida ou espelho (papel branco).
+- Palito ou prendedor para centrar o pavio.
+
+PROCEDIMENTO
+------------
+1. Desligue a chama e espere o vidro esfriar antes de manusear.
+2. Retire o vidro e limpe a fuligem com pano limpo, por dentro e por fora.
+3. Corte a ponta do pavio com tesoura até ficar plana, sem fiapos.
+4. Ajuste o pavio para subir o mínimo necessário acima do suporte.
+5. Centralize o pavio para a chama não encostar nas paredes do vidro.
+6. Coloque um refletor atrás da chama: folha de alumínio ou lata polida.
+7. Incline o refletor para jogar a luz sobre a mesa ou o livro.
+8. Afaste a lamparina de janelas, portas e frestas com vento.
+9. Acenda e observe a chama: amarela, firme e sem fumaça escura.
+10. Se aparecer fumaça, abaixe o pavio e limpe o vidro de novo.
+11. Repita a limpeza do vidro quando a fuligem voltar a aparecer.
+
+ATENCAO
+-------
+Chama com fumaça escura queima mal: gasta mais combustível e suja o vidro.
+Nunca abasteça a lamparina com a chama acesa: o vapor pode pegar fogo.
+Gasolina, álcool e solventes não servem como combustível de lamparina.
+Queimar combustível em ambiente fechado produz monóxido de carbono.
+O monóxido é incolor, sem cheiro e pode matar sem aviso.
+Dor de cabeça, tontura, fraqueza, náusea e confusão são sinais de perigo.
+Ao sentir qualquer sinal, apague a chama e saia para o ar livre.
+Nunca deixe a chama perto de cortina, papel, tecido ou cama.
+Se o fogo sair do pavio, abafe com tampa; nunca jogue água.
+
+SE NAO TIVER
+------------
+Sem tesoura, corte o pavio com faca limpa depois que esfriar.
+Sem pano, limpe o vidro com papel limpo e seco, sem tinta fresca.
+Sem refletor, prenda papel branco ou uma lata polida atrás da chama.
+Sem vidro, não improvise: chama aberta gasta mais e solta mais fumaça.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A chama fica amarela, estável e sem ponta escura nem fumaça.
+O vidro permanece transparente depois de horas de uso.
+A mesma quantidade de combustível dura mais entre reabastecimentos.
+A luz chega à mesa de trabalho sem aumentar o pavio.
+
+FONTES
+------
+Orientações da CDC sobre intoxicação por monóxido de carbono e sobre
+queima de combustível em ambientes fechados.
+Limpeza do vidro, corte de pavio e uso de refletores são prática
+consolidada de manutenção de lamparinas, sem manual único consultado.
+Este texto é um resumo operacional, não substitui treinamento.

@@ -1,0 +1,78 @@
+==============================================================================
+CODIGO: 52-007
+TITULO: Como compreender pressão hidrostática
+CATEGORIA: 52 - Física aplicada e princípios fundamentais
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: garrafa plástica, água, alfinete, régua
+REVISAO: 2026-11
+PALAVRAS-CHAVE: pressão, hidrostática, profundidade, densidade, água, jato
+==============================================================================
+
+OBJETIVO
+--------
+Entender como a pressão da água parada muda com a profundidade.
+
+QUANDO USAR
+-----------
+Quando precisar entender por que represas são mais espessas na base.
+Quando quiser saber se a pressão muda com o volume ou com a altura.
+Quando precisar estimar a pressão a uma certa profundidade.
+Quando ensinar o conceito a outra pessoa com uma demonstração simples.
+
+NAO USE QUANDO
+--------------
+Quando a água estiver em movimento: aí entra a pressão dinâmica.
+Quando precisar de pressão absoluta exata sem medir a atmosfera.
+Quando o fluido for gás compressível, cuja densidade muda com a altura.
+
+MATERIAIS
+---------
+- Garrafa plástica com tampa (ou outro recipiente com lateral).
+- Alfinete ou prego para furar (ou uma agulha).
+- Água suficiente para encher a garrafa.
+- Régua ou fita para medir alturas.
+- Balde ou pia para recolher a água que sai dos buracos.
+
+PROCEDIMENTO
+------------
+1. Fure três buracos do mesmo tamanho na lateral da garrafa.
+2. Coloque um buraco alto, um no meio e um baixo.
+3. Meça a altura de cada buraco a partir do fundo da garrafa.
+4. Encha a garrafa até acima do buraco mais alto.
+5. Observe os três jatos com a garrafa cheia.
+6. Veja que o buraco mais baixo lança o jato mais longe.
+7. Anote a profundidade h de cada buraco abaixo da superfície.
+8. Repita com menos água e veja os jatos enfraquecerem.
+9. Calcule a pressão: densidade vezes g vezes a profundidade h.
+10. Use densidade da água aproximadamente 1000 kg/m3.
+11. Use g aproximadamente 9,8 m/s2.
+12. Compare o cálculo com a distância dos jatos observados.
+
+ATENCAO
+-------
+A pressão crescer com a profundidade é o ponto central do tema.
+A pressão não depende do volume total nem da largura do recipiente.
+Na mesma profundidade, a pressão é igual em todas as direções.
+A fórmula dá a pressão acima da atmosfera; some a atmosfera para o total.
+Água salgada é mais densa e pressiona mais que água doce na mesma altura.
+Pressão é força por área: não confunda com a força total na parede.
+Não faça o teste em encanamento pressurizado nem em barragens.
+
+SE NAO TIVER
+------------
+Sem garrafa, use um saco plástico furado ou um tubo aberto na lateral.
+Sem régua, compare os jatos apenas pela altura relativa.
+Sem alfinete, use uma ponta fina que fure o plástico com segurança.
+Se não puder medir, observe apenas qual jato vai mais longe.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O jato do buraco mais baixo chega mais longe que os outros.
+Ao baixar o nível da água, os jatos ficam mais curtos.
+O cálculo com maior h dá maior pressão, na ordem dos jatos.
+
+FONTES
+------
+Princípio da pressão hidrostática da mecânica de fluidos clássica.
+Prática consolidada de ensino de física, sem documento único.

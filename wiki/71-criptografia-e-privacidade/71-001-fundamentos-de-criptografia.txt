@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 71-001
+TITULO: Como entender os fundamentos da criptografia
+CATEGORIA: 71 - Criptografia, segurança da informação e privacidade
+TEMPO: 25 minutos
+RISCO: medio
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: criptografia, cifrar, segredo, chave, hash, integridade
+==============================================================================
+
+OBJETIVO
+--------
+Entender o que a criptografia protege e escolher ferramentas confiáveis
+sem criar métodos próprios.
+
+QUANDO USAR
+-----------
+Quando precisar guardar mensagens ou arquivos longe de olhos alheios.
+Quando for enviar informação sensível por um canal que pode ser lido.
+Quando precisar provar que uma mensagem não foi alterada no caminho.
+
+NAO USE QUANDO
+--------------
+Não use conhecimento teórico no lugar de ferramenta testada.
+Não confie em método inventado por amador para proteger algo real.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Decida o objetivo: segredo, integridade ou autoria da mensagem.
+2. Para segredo, use cifragem: transforme o dado em ilegível com chave.
+3. Use cifragem simétrica quando todos já têm a mesma chave secreta.
+4. Guarde a chave fora do arquivo cifrado e nunca a envie pelo mesmo
+   canal da mensagem.
+5. Use cifragem assimétrica quando não há canal seguro para a chave:
+   a chave pública se distribui, a privada fica secreta.
+6. Para detectar alteração, calcule um resumo digital (hash) do arquivo.
+7. Compare o resumo recebido com o calculado: diferente quer dizer que
+   o arquivo mudou.
+8. Para provar autoria, assine com a chave privada (assinatura digital).
+9. Use algoritmos públicos e consolidados, nunca método inventado.
+10. Mantenha o aplicativo atualizado e prefira código revisado por
+    outras pessoas.
+
+ATENCAO
+-------
+Criptografia não esconde o fato de que houve comunicação.
+Sem integridade, um atacante muda a mensagem sem você perceber.
+Chave fraca, reutilizada ou vazada anula toda a proteção.
+Se a segurança for crítica, procure ajuda qualificada antes de agir.
+
+SE NAO TIVER
+------------
+Sem ferramenta confiável, não improvise cifra própria.
+Envie menos informação e use apenas canais que o grupo já confia.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Sem a chave correta, o dado cifrado não pode ser lido.
+O resumo calculado bate com o original quando nada foi alterado.
+
+FONTES
+------
+NIST SP 800-175B Rev. 1 (2020), guia de mecanismos criptográficos.
+Glossário CSRC do NIST: confidencialidade, integridade, autenticação
+e não repúdio. Prática consolidada, sem documento único.

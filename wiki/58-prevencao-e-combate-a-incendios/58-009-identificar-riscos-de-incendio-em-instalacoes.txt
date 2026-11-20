@@ -1,0 +1,93 @@
+==============================================================================
+CODIGO: 58-009
+TITULO: Como identificar riscos de incêndio em instalações elétricas
+CATEGORIA: 58 - Prevenção e combate a incêndios
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: boa iluminação, caderno, lápis, calçado fechado
+REVISAO: 2026-11
+PALAVRAS-CHAVE: incêndio, elétrica, fiação, tomada, curto, faísca, calor
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer sinais visíveis e odor de fiação ou equipamentos que podem
+causar incêndio, sem tocar na instalação.
+
+QUANDO USAR
+-----------
+Ao ocupar casa antiga, reformada ou recém-comprada.
+Ao sentir cheiro de queima sem fonte aparente.
+Quando luzes piscam ou o disjuntor desarma com frequência.
+Ao notar tomadas quentes, manchadas ou com tampa derretida.
+Depois de alagamento, vazamento ou umidade na instalação.
+Antes de ligar vários aparelhos de aquecimento na mesma tomada.
+
+NAO USE QUANDO
+--------------
+Não inspecione se houver fogo, faíscas ativas ou cheiro forte de queima.
+Nesse caso, desligue a energia no quadro geral se puder sem risco, saia
+e chame os bombeiros. Este texto ensina só observação: não autoriza
+abrir quadros, retirar tampas, tocar em fios nem reparar a instalação.
+
+MATERIAIS
+---------
+- Boa iluminação (lanterna ou luz do celular).
+- Caderno e lápis para anotar o sinal e o local exato.
+- Calçado fechado e luvas secas (não substituem desligar a energia).
+
+PROCEDIMENTO
+------------
+1. Observe a instalação apenas com a vista e o olfato, sem tocar em nada.
+2. Caminhe pelos cômodos com boa luz e anote cada sinal encontrado.
+3. Observe tomadas e interruptores: procure manchas escuras, amareladas
+   ou com tampa derretida.
+4. Aproxime o dorso da mão a poucos centímetros para sentir calor sem
+   encostar; se sentir, anote e não use a tomada.
+5. Escute atentamente: zumbido, chiado ou estalo indica conexão frouxa.
+6. Sinta o cheiro: odor de borracha ou plástico queimado indica calor
+   excessivo nos fios.
+7. Observe as luzes: piscar ou escurecer ao ligar aparelho indica
+   sobrecarga naquele circuito.
+8. Verifique o quadro de disjuntores: se desarma com frequência, anote.
+9. Observe os cabos: procure capa rachada, cortada ou fio exposto,
+   inclusive atrás de móveis e sob tapetes.
+10. Veja se vários aparelhos de calor usam a mesma tomada ou extensão.
+11. Confira se extensões passam sob tapetes ou atravessam portas.
+12. Não abra o quadro, não retire tampas e não toque em fio exposto.
+13. Anote o local exato de cada sinal e chame um eletricista qualificado.
+
+ATENCAO
+-------
+Fiação dentro de paredes pode aquecer e pegar fogo sem sinal visível antes.
+Fogo dentro de parede pode queimar por muito tempo antes do fumo aparecer.
+Nunca abra quadros energizados, retire tampas ou toque em fio exposto.
+Nunca use água em equipamento elétrico em chamas: há risco de choque e
+curto. Se houver faíscas, zumbido forte ou cheiro de queima, desligue no
+quadro geral se puder sem risco, saia e chame os bombeiros.
+Esta inspeção só identifica sinais; não conserta nem garante a instalação.
+Um eletricista qualificado deve confirmar e corrigir cada sinal encontrado.
+
+SE NAO TIVER
+------------
+Sem lanterna, espere a luz do dia; nunca inspecione no escuro.
+Sem caderno, memorize os sinais ou anote em qualquer papel disponível.
+Sem eletricista, reduza o uso: desligue aparelhos suspeitos, tire as
+extensões e não ligue vários aparelhos de calor juntos. Isso reduz o
+risco, mas não substitui o reparo feito por profissional.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você percorreu os cômodos com luz, anotou cada sinal com o local exato
+e terminou sem ter tocado em fio, quadro ou tomada danificada. Cada
+sinal encontrado foi encaminhado a eletricista ou aos bombeiros.
+
+FONTES
+------
+Lista de verificação de segurança elétrica e relatos sobre incêndios
+elétricos residenciais da NFPA (National Fire Protection Association).
+Relatório sobre incêndios elétricos em imóveis do USFA/FEMA.
+Orientações de sinais de alerta da Electrical Safety Foundation
+International (ESFI) e do Electrical Safety First, do Reino Unido.
+Prática consolidada de inspeção visual. Este texto é resumo operacional
+e não substitui eletricista qualificado nem treinamento.

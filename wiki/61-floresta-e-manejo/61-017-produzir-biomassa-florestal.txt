@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 61-017
+TITULO: Como produzir biomassa florestal
+CATEGORIA: 61 - Agricultura florestal e manejo de ecossistemas
+TEMPO: 2 dias de plantio e 1 dia de corte por ano
+RISCO: alto
+EXIGE: mudas, agua, enxada, ferramenta de corte, local para secar
+REVISAO: 2026-11
+PALAVRAS-CHAVE: biomassa, lenha, cavaco, carvao, eucalipto, energia, madeira
+==============================================================================
+
+OBJETIVO
+--------
+Cultivar árvores para produzir lenha, cavaco ou carvão como combustível.
+
+QUANDO USAR
+-----------
+Quando faltar lenha ou carvão para cozinhar, aquecer ou secar alimentos.
+Quando houver terra e água disponíveis para manter um talhão de energia.
+Quando se quiser reduzir a retirada de madeira da floresta nativa.
+Quando sobrarem resíduos de poda, desbaste ou limpeza para aproveitar.
+Quando for preciso reservar combustível para a seca ou o inverno.
+
+NAO USE QUANDO
+--------------
+Quando a área for floresta nativa intacta ou unidade de conservação.
+Quando não houver água no local durante o ano inteiro.
+Quando o solo for alagadiço, muito íngreme ou muito pobre sem correção.
+Quando não houver local coberto e arejado para secar a madeira.
+Quando a espécie escolhida for invasora ou não se adaptar ao clima local.
+
+MATERIAIS
+---------
+- Mudas ou sementes de espécie rápida e adaptada ao clima (nativas).
+- Enxada, pá, estacas e cordel para medir e abrir as covas.
+- Machado e serra manual (motosserra só com treinamento e proteção).
+- Luvas, óculos de proteção e calçado fechado para o corte.
+- Trena ou corda com marcações para medir o espaçamento.
+- Ripas de madeira ou pedras para empilhar a lenha fora do chão.
+- Lona, palha ou telha para cobrir a pilha sem vedar as laterais.
+
+PROCEDIMENTO
+------------
+1. Decida o produto: lenha em toletes, cavaco picado ou carvão.
+2. Escolha espécie de crescimento rápido e adaptada; prefira nativas.
+3. Evite espécies invasoras e nunca desmate floresta nativa para plantar.
+4. Escolha terreno com sol, boa drenagem e água próxima.
+5. Marque linhas retas com estacas e cordel antes de abrir as covas.
+6. Abra as covas no início da estação chuvosa.
+7. Plante uma muda por cova, a aproximadamente 2 a 3 metros de distância.
+8. Cubra a base da muda com palha ou matéria orgânica.
+9. Capine e solte o solo ao redor das mudas nos primeiros meses.
+10. Reponha as mudas que morreram na primeira chuva.
+11. Acompanhe o crescimento a cada ano e anote no caderno.
+12. Faça desbaste removendo as plantas mais fracas; aproveite como lenha.
+13. Corte as árvores maduras: aproximadamente 5 a 7 anos no eucalipto.
+14. Derrube para o lado livre, longe de pessoas, fios e árvores.
+15. Retire os galhos e corte o tronco em toletes do tamanho do fogão.
+16. Para cavaco, pique a madeira seca em pedaços pequenos e uniformes.
+17. Empilhe a madeira sobre ripas, em local coberto, arejado e fora do chão.
+18. Deixe secar até ficar leve e com rachaduras nas pontas.
+19. Guarde a lenha seca protegida da chuva e use primeiro a mais antiga.
+
+ATENCAO
+-------
+Motosserra e machado cortam grave: use luvas, óculos e calçado fechado.
+Nunca derrube árvore sozinho; avise quem está por perto antes de cortar.
+Corte apenas em terreno firme e com o pé apoiado; nunca em cima da árvore.
+Nunca corte árvore presa em fios ou sob carga: pare e procure ajuda.
+Fogo para carvão solta monóxido de carbono: não carbonize em lugar fechado.
+Madeira molhada rende menos calor e faz mais fumaça; seque antes de usar.
+Não plante espécie invasora nem desmate nativa para produzir biomassa.
+Se houver seca ou praga no talhão, pare de colher e busque orientação.
+
+SE NAO TIVER
+------------
+Sem mudas, use sementes de espécie local conhecida ou estacas enraizadas.
+Sem motosserra, use machado e serra manual; corte menos e com mais cuidado.
+Sem pátio coberto, empilhe sobre ripas e cubra com lona ou palha, sem vedar.
+Sem adubo, coloque matéria orgânica decomposta ou um pouco de cinza na cova.
+Sem local para cavaco, use a lenha em toletes direto no fogão ou forno.
+Não use madeira tratada, pintada ou envernizada: solta gases tóxicos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As mudas brotam com folhas verdes e não murcham no primeiro ano.
+A lenha empilhada está leve, rachada nas pontas e sem cheiro de umidade.
+Ao queimar, a chama é firme e com pouca fumaça.
+O talhão é replantado após o corte, sem solo descoberto.
+
+FONTES
+------
+Silvicultura para energia: Embrapa Florestas, Documentos 394 (2024);
+revisão sobre biomassa florestal em sistemas agroflorestais, Pesquisa
+Florestal Brasileira (Ribeiro, Isbaex e Valverde, 2018). Energia de
+madeira e colheita de biomassa: FAO, módulos "Wood energy" e
+"Wood harvesting" da caixa de ferramentas de manejo florestal
+sustentável. Resumo operacional, não substitui treinamento técnico.

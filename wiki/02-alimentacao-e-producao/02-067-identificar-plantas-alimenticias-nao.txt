@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 02-067
+TITULO: Como identificar plantas alimentícias não convencionais
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 40 minutos
+RISCO: critico
+EXIGE: guia confiável com nome científico, lupa, caderno, boa luz natural
+REVISAO: 2026-11
+PALAVRAS-CHAVE: panc, mato, comestível, tóxica, veneno, nome científico
+==============================================================================
+
+OBJETIVO
+--------
+Decidir se a planta suspeita é comestível ou deve ser descartada.
+
+QUANDO USAR
+-----------
+Quando encontrar uma planta de nome popular duvidoso e quiser confirmar.
+Quando alguém oferecer folhas, flores ou frutos de "mato" para comer.
+Antes de colher, cozinhar ou servir a planta a outras pessoas.
+Quando a planta veio de feira, doação ou quintal sem procedência clara.
+
+NAO USE QUANDO
+--------------
+Quando não houver guia confiável com nome científico da espécie.
+Quando a planta estiver sem folhas, flores ou frutos reconhecíveis.
+Quando o local for calçada, beira de estrada, lixeira ou área pulverizada:
+mesmo a espécie certa pode estar contaminada.
+Quando houver qualquer dúvida: na dúvida, não coma.
+
+MATERIAIS
+---------
+- Guia de PANCs com nome científico, fotos e descrição (cartilha da Embrapa
+  ou guia do Kinupp e Lorenzi).
+- Lupa de bolso (foto ampliada em boa luz).
+- Caderno e lápis para anotar folhas, caule, flores e frutos.
+- Saco ou recipiente limpo para guardar uma amostra por planta.
+- Luz natural forte.
+- Luvas para manusear seiva que pode irritar a pele.
+
+PROCEDIMENTO
+------------
+1. Não coma a planta antes de confirmar a espécie.
+2. Observe a planta inteira no local, sem arrancá-la.
+3. Anote no caderno a forma das folhas, do caule, das flores e dos frutos.
+4. Anote o nome popular informado, o local e a data da observação.
+5. Abra o guia e localize o nome científico da espécie suspeita.
+6. Compare cada caractere anotado com a descrição e as fotos do guia.
+7. Confira se a planta tem flor ou fruto; sem eles, não confirme a espécie.
+8. Verifique no guia qual parte é comestível e como deve ser preparada.
+9. Compare a planta com as espécies tóxicas parecidas listadas no guia.
+10. Repita a conferência em uma segunda fonte confiável independente.
+11. Descarte a planta se as fontes divergirem ou se restar dúvida.
+12. Peça confirmação a pessoa treinada em botânica, agronomia ou nutrição.
+
+ATENCAO
+-------
+Errar a identificação pode matar. Não prove a planta para testar.
+Caso real: Nicotiana glauca, o fumo-bravo, foi confundida com couve em
+salada em Patrocínio, MG, em 2025. Morreu uma pessoa; outras ficaram graves.
+A anabasina da planta pode causar paralisia muscular e parada respiratória.
+Nome popular engana: a mesma planta muda de nome conforme a região e nomes
+iguais podem designar plantas diferentes. Confie no nome científico.
+Foto e aplicativo não provam a espécie. Na dúvida, não coma.
+Mesmo a espécie certa pode ter parte tóxica ou exigir cozimento: coma só a
+parte que o guia indicar como comestível e siga o preparo descrito.
+Planta de calçada, beira de estrada ou área pulverizada pode estar
+contaminada mesmo quando a identificação está correta.
+Ao comer algo errado, pare na hora. Guarde folhas, ramos, flores e frutos
+da amostra e leve ao atendimento médico junto com a pessoa doente.
+Este texto reduz risco, mas não substitui treinamento em identificação.
+
+SE NAO TIVER
+------------
+Sem guia impresso, use material de instituição confiável: cartilha da
+Embrapa, texto da Fiocruz ou guia do Kinupp e Lorenzi.
+Sem fonte confiável, não identifique e não coma.
+Sem lupa, observe em luz natural forte; foto ampliada só ajuda a olhar.
+Sem folhas, flores ou frutos, espere a planta completar o ciclo.
+Sem pessoa treinada por perto, não coma e guarde a amostra.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A espécie aparece com o mesmo nome científico em duas fontes confiáveis.
+A planta observada corresponde a todos os caracteres descritos no guia.
+A parte comestível e o preparo estão descritos no guia para essa espécie.
+Nenhuma espécie tóxica parecida combina com a planta observada.
+O local de coleta é limpo e a procedência é conhecida.
+Se restar dúvida, a planta foi descartada. Isso também é acerto.
+
+FONTES
+------
+Fiocruz (Invivo), "PANCs: conheça as Plantas Alimentícias Não
+Convencionais", 2024: identificar pelo nome científico e evitar locais
+poluídos. Embrapa, portal Plantas alimentícias não convencionais e Guia
+prático para identificação de algumas plantas tóxicas em jardins.
+Kinupp e Lorenzi, Plantas alimentícias não convencionais (PANC) no Brasil:
+guia de identificação, 2014. Caso de intoxicação por Nicotiana glauca
+divulgado pela Secretaria Municipal de Saúde de Patrocínio, MG, 2025.

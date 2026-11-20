@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 40-004
+TITULO: Como construir um megafone artesanal
+CATEGORIA: 40 - Acústica e engenharia sonora
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: papel resistente, fita adesiva, tesoura, tubo curto
+REVISAO: 2026-11
+PALAVRAS-CHAVE: megafone, corneta, voz, som, direção, papelão, grito
+==============================================================================
+
+OBJETIVO
+--------
+Construir um cone que direcione a voz e a torne mais audível à frente.
+
+QUANDO USAR
+-----------
+Quando precisar ser ouvido a distância sem aparelho eletrônico.
+Quando vento ou ruído atrapalham a comunicação em campo aberto.
+
+NAO USE QUANDO
+--------------
+Quando a sua posição precisa ficar escondida de pessoas hostis.
+Quando houver dor de garganta ou ferida na boca: não force a voz.
+
+MATERIAIS
+---------
+- Folha de papel resistente, aproximadamente 50 por 35 cm (papel pardo).
+- Fita adesiva larga (cola de papel ou grampos).
+- Tesoura (faca de ponta romba).
+- Tubo curto de aproximadamente 4 cm de diâmetro (rolo de papel).
+- Cordão ou tira de pano para fazer alça.
+
+PROCEDIMENTO
+------------
+1. Enrole a folha em cone, com ponta estreita e boca larga.
+2. Ajuste até a boca medir aproximadamente 30 cm de diâmetro.
+3. Segure a forma e fixe a emenda com fita adesiva.
+4. Aparar a ponta com a tesoura até abrir bocal de aproximadamente 4 cm.
+5. Reforce a borda da boca com fita e encaixe o tubo no bocal.
+6. Prenda a alça na lateral e fique de pé, apontando para o ouvinte.
+7. Fale uma frase curta sem o cone e repita com o cone na boca.
+
+ATENCAO
+-------
+O megafone não cria energia: ele concentra o som à frente.
+O ganho é modesto, de alguns decibéis no eixo; atrás o som cai.
+A voz fica um pouco distorcida: o cone favorece os sons agudos.
+A tesoura corta: corte sobre superfície firme, longe dos dedos.
+Pare se a garganta doer ou a voz ficar rouca; não grite no cone.
+Vento desvia o som: aponte a boca do cone para o ouvido do ouvinte.
+
+SE NAO TIVER
+------------
+Sem papelão, use jornal dobrado em camadas ou saco de papel resistente.
+Sem fita, use cola de papel ou grampos; sem tubo, encoste a boca no bocal.
+Sem tesoura, rasgue a ponta; sem material, use as mãos em concha.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A voz chega mais alta e clara a aproximadamente 20 m à frente.
+Quem está atrás ouve mais fraco, e o cone não dobra ao falar.
+
+FONTES
+------
+School of Physics, University of New South Wales: directividade e ganho
+em dB. Mennitt, Fristrup e Notaros, Journal of the Acoustical Society
+of America (2017): ganho de cornetas. FM 21-76, Exército dos EUA.
+Prática artesanal consolidada, sem documento único.

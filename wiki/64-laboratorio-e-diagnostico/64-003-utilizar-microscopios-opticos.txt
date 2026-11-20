@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 64-003
+TITULO: Como utilizar microscópios ópticos
+CATEGORIA: 64 - Laboratório, diagnóstico e análises
+TEMPO: 20 minutos
+RISCO: medio
+EXIGE: microscópio óptico, lâminas, lamínulas, óleo de imersão
+REVISAO: 2026-11
+PALAVRAS-CHAVE: microscópio, lâmina, aumento, foco, objetiva, imersão
+==============================================================================
+
+OBJETIVO
+--------
+Conseguir uma imagem nítida e ampliada de uma amostra em lâmina.
+
+QUANDO USAR
+-----------
+Quando for observar uma lâmina já corada no laboratório.
+Quando precisar procurar parasitas ou bactérias em amostra fresca.
+
+NAO USE QUANDO
+--------------
+Sem treinamento, não manuseie amostra infecciosa: pare e peça ajuda.
+
+MATERIAIS
+---------
+- Microscópio óptico com objetivas de 10x, 40x e 100x.
+- Lâminas e lamínulas de vidro (ou lâminas prontas e coradas).
+- Pinça, luvas, papel de lente e óleo de imersão para a 100x.
+
+PROCEDIMENTO
+------------
+1. Coloque o microscópio sobre mesa firme, longe da borda.
+2. Gire o revólver até encaixar a objetiva de 10x.
+3. Ajuste a luz até o campo ficar claro e uniforme.
+4. Prenda a lâmina na platina com as garras.
+5. Aproxime a objetiva da lâmina olhando de lado.
+6. Afine o foco pelo ocular até a imagem ficar nítida.
+7. Mova a platina até centralizar a área de interesse.
+8. Gire a objetiva de 40x.
+9. Afine o foco outra vez, sem usar a aproximação.
+10. Coloque uma gota de óleo de imersão sobre a lamínula.
+11. Encaixe a objetiva de 100x sobre a gota de óleo.
+12. Afine o foco até a imagem ficar nítida.
+13. Volte à objetiva de 10x e retire a lâmina com a pinça.
+14. Limpe as lentes com papel de lente e cubra o aparelho.
+
+ATENCAO
+-------
+Lâminas cortam: segure pela borda e descarte em caixa própria. Nunca use
+a objetiva de 100x sem óleo; com 40x e 100x, não use a aproximação, ou a
+lente quebra a lâmina e se risca. Não toque nas lentes com dedo ou pano
+áspero. Ajuste luz e foco antes de concluir. Com amostra biológica, use
+luvas, lave as mãos e pare se houver corte ou respingo nos olhos.
+
+SE NAO TIVER
+------------
+Sem óleo de imersão, use só a objetiva de 40x. Não use óleo de cozinha nem
+gordura: sujam e danificam a lente. Limpe apenas com papel próprio.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O campo aparece claro e uniforme. A imagem da amostra fica nítida e os
+detalhes se separam ao girar a afinação, sem a lâmina ter se movido.
+
+FONTES
+------
+Prática consolidada de laboratórios de diagnóstico para microscopia e
+manuseio de lâminas; biossegurança conforme o Manual de Biossegurança de
+Laboratório da OMS, quarta edição, 2020. Resumo operacional.

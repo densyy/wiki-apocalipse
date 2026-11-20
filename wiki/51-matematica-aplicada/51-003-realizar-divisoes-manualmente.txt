@@ -1,0 +1,75 @@
+==============================================================================
+CODIGO: 51-003
+TITULO: Como realizar divisões manualmente
+CATEGORIA: 51 - Matemática aplicada à sobrevivência
+TEMPO: 15 minutos
+RISCO: baixo
+EXIGE: papel, lápis, luz suficiente para ler os algarismos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: divisão, dividir, quociente, resto, repartir, conta
+==============================================================================
+
+OBJETIVO
+--------
+Dividir um número por outro usando só papel e lápis, e conferir o resultado.
+
+QUANDO USAR
+-----------
+Quando não houver calculadora, celular ou energia.
+Para repartir alimentos, água ou suprimentos em partes iguais.
+Para converter medidas ou calcular rações por pessoa.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Papel limpo (ou qualquer superfície onde se possa escrever).
+- Lápis (ou caneta, carvão, giz ou graveto na terra).
+- Luz suficiente para ver os algarismos com clareza.
+
+PROCEDIMENTO
+------------
+1. Escreva o dividendo e o divisor lado a lado, separados por um traço.
+2. Trace uma linha acima do dividendo para anotar o quociente.
+3. Comece pelo algarismo mais à esquerda do dividendo.
+4. Conte quantas vezes o divisor cabe nesse número, sem passar dele.
+5. Escreva essa quantidade no quociente, sobre o último algarismo usado.
+6. Multiplique o divisor por essa quantidade e escreva o resultado abaixo.
+7. Subtraia e escreva a diferença abaixo do traço.
+8. Se a diferença for maior ou igual ao divisor, refaça o passo 5.
+9. Abaixe o próximo algarismo do dividendo ao lado da diferença.
+10. Se o divisor não couber, escreva zero no quociente e abaixe o próximo.
+11. Repita os passos 4 a 10 até acabarem os algarismos do dividendo.
+12. Escreva o que sobrou como resto e veja se é menor que o divisor.
+
+ATENCAO
+-------
+O erro mais comum é esquecer de abaixar um algarismo ou errar a coluna.
+Se a diferença da subtração for maior ou igual ao divisor, aumente o
+algarismo do quociente e refaça os passos antes de continuar.
+Quando o divisor não cabe, escreva zero no quociente; pular essa etapa
+muda o resultado inteiro.
+Não existe divisão por zero: se o divisor for zero, pare e revise.
+Confira sempre: divisor vezes quociente, mais o resto, deve dar o dividendo,
+e o resto deve ser menor que o divisor.
+Uma divisão errada em rações pode deixar alguém sem comida: refaça a conta
+antes de distribuir.
+
+SE NAO TIVER
+------------
+Sem papel, desenhe as colunas na terra, na areia ou em uma tábua.
+Sem lápis, use carvão, giz, um graveto ou a ponta de uma faca.
+Sem luz, pare e espere: continuar no escuro gera erros caros de corrigir.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A conta fecha: divisor vezes quociente, mais o resto, resulta no dividendo.
+O resto ficou menor que o divisor.
+Não sobrou nenhum algarismo do dividendo sem ter sido usado.
+
+FONTES
+------
+Prática consolidada de ensino de aritmética básica, a divisão longa, sem
+documento único. Este texto é um resumo operacional, não substitui aula.

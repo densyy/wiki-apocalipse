@@ -1,0 +1,86 @@
+==============================================================================
+CODIGO: 53-026
+TITULO: Como organizar um formulário terapêutico de emergência
+CATEGORIA: 53 - Produção de medicamentos e farmacologia
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: papel, caneta, lista de referência confiável de medicamentos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: formulário, remédio, emergência, dose, interação, essencial
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma lista curta e segura de remédios de emergência.
+
+QUANDO USAR
+-----------
+Quando o grupo vai atuar longe de farmácia e hospital.
+Quando o estoque é escasso e é preciso priorizar remédios.
+Quando várias pessoas vão usar os mesmos remédios.
+Quando não há farmacêutico para consultar.
+Antes de montar ou revisar o kit de primeiros socorros.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Caderno ou folhas de papel (papel impermeável, se houver).
+- Caneta à prova d'água (lápis, se faltar).
+- Cópia impressa de lista de medicamentos essenciais confiável.
+- Saco plástico vedado para proteger o papel.
+- Fita adesiva ou clipe para fechar o saco (barbante, se faltar).
+
+PROCEDIMENTO
+------------
+1. Escolha uma lista de referência confiável de medicamentos essenciais.
+2. Anote o nome da lista e o ano da edição no topo do caderno.
+3. Selecione só os remédios que estão no seu estoque.
+4. Retire os remédios que a equipe não sabe usar com segurança.
+5. Agrupe os remédios por problema: dor, febre, alergia, infecção.
+6. Escreva o princípio ativo e a classe de cada remédio.
+7. Anote a indicação principal de cada remédio em uma linha.
+8. Anote a via de administração e a dose da lista de referência.
+9. Escreva "conforme prescrição" quando a lista não der dose de emergência.
+10. Anote as interações e os sinais de intoxicação de cada remédio.
+11. Anote quem não deve usar: grávidas, crianças ou alérgicos.
+12. Anote a validade e a forma de guarda de cada remédio.
+13. Faça um índice no início com o problema e o número da página.
+14. Numere as folhas e escreva a data da última revisão.
+15. Guarde o caderno no saco vedado, junto ao kit de socorros.
+16. Entregue uma cópia a cada pessoa que for usar o formulário.
+
+ATENCAO
+-------
+Um formulário errado pode causar erro de dose, intoxicação ou morte.
+Nunca invente dose, indicação ou interação.
+Se não souber, escreva "conforme prescrição" e marque a dúvida.
+O formulário não substitui treinamento nem prescrição médica.
+Não anote dose infantil de memória; use só a lista citada.
+Remédio vencido, sem rótulo ou trocado não entra no formulário.
+Revise o formulário quando o estoque ou a lista mudar.
+Pare e busque ajuda se houver reação grave após usar um remédio listado.
+
+SE NAO TIVER
+------------
+Sem lista impressa, copie de fonte confiável que você tenha visto.
+Sem referência confiável, anote só os nomes e "conforme prescrição".
+Não complete dados de memória.
+Sem papel impermeável, use papel comum dentro do saco plástico.
+Sem caneta à prova d'água, use lápis com traço reforçado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada remédio do estoque aparece no índice e em uma página.
+Cada remédio tem indicação, via, dose, interação e validade anotadas.
+Outra pessoa encontra o remédio pelo índice rapidamente.
+O caderno está legível, vedado e com a data da revisão.
+
+FONTES
+------
+Ficha informativa "Essential medicines" da OMS e Lista Modelo de
+Medicamentos Essenciais da OMS (24ª edição, 2025). A ordem das
+etapas é prática consolidada do conceito de medicamentos
+essenciais. Resumo operacional: não substitui treinamento.

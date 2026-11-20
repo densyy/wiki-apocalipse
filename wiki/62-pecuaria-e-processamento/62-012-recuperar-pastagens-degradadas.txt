@@ -1,0 +1,79 @@
+==============================================================================
+CODIGO: 62-012
+TITULO: Como recuperar pastagens degradadas
+CATEGORIA: 62 - Pecuária, reprodução e processamento animal
+TEMPO: 2 a 4 dias de trabalho
+RISCO: medio
+EXIGE: análise de solo, semente forrageira, corretivo, adubo, ferramentas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: pasto, pastagem, degradada, recuperação, capim, solo
+==============================================================================
+
+OBJETIVO
+--------
+Devolver cobertura vegetal e produtividade a um pasto degradado.
+
+QUANDO USAR
+-----------
+Quando o capim original sumiu e o solo ficou exposto.
+Quando aparecem invasoras e a terra já não sustenta os animais.
+Antes de aumentar o número de animais no pasto.
+
+NAO USE QUANDO
+--------------
+Sem análise de solo e sem definir a causa da degradação, não reforme.
+Se a causa for excesso de animais, corrija o manejo antes de gastar.
+Em área com suspeita de contaminação, procure orientação técnica.
+
+MATERIAIS
+---------
+- Amostra de solo para análise (ou laudo já feito).
+- Semente forrageira adaptada à região (ou muda enraizada).
+- Corretivo de acidez e adubo conforme o laudo.
+- Enxada, roçadeira ou grade (ou arado manual).
+- Luvas, botas, óculos e máscara para manusear insumos.
+- Cerca e bebedouro para controlar o pastejo depois.
+
+PROCEDIMENTO
+------------
+1. Retire os animais da área antes de começar.
+2. Faça a análise de solo e anote o resultado.
+3. Rebaixe a vegetação com pastejo pesado e curto.
+4. Roce o que sobrar, de forma manual ou mecânica.
+5. Não queime a área: o fogo empobrece o solo.
+6. Aplique o corretivo de acidez conforme o laudo.
+7. Aplique o adubo, com atenção ao fósforo no início.
+8. Distribua a semente a lanço ou com semeadeira.
+9. Misture a semente ao solo com grade ou enxada.
+10. Feche a área aos animais até as mudas se firmarem.
+11. Divida em piquetes e pasteje pouco, com descanso entre passadas.
+12. Replante onde a semente não pegou.
+
+ATENCAO
+-------
+Herbicidas e corretivos podem intoxicar: use luvas, óculos e máscara.
+Máquinas e ferramentas cortantes podem ferir: mantenha distância.
+Fogo em área fechada mata e pode virar incêndio: não queime.
+Adubo em dose errada queima as mudas e polui a água.
+Sem controle dos animais, o pasto degradado volta em poucos meses.
+A recuperação leva meses; não espere resultado na primeira semana.
+
+SE NAO TIVER
+------------
+Sem laudo de solo, comece pelo mais seguro: pare o sobrepastejo.
+Sem corretivo, use apenas a roçagem e o controle dos animais.
+Sem semente melhor, use semente local adaptada e conhecida.
+Sem insumos, não espere recuperação rápida: busque assistência.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Broto novo aparece na maior parte da área após as chuvas.
+O solo fica coberto e a terra não sai com a água da chuva.
+O pasto aguenta pastejo curto e volta a brotar depois.
+
+FONTES
+------
+Portal Embrapa de Recuperação de Pastagens Degradadas e Circular
+Técnica da Embrapa sobre calagem e adubação de pastagens;
+publicações da Embrapa sobre pastejo e lotação e diretrizes da FAO.
+Prática consolidada; resumo operacional, não substitui assistência.

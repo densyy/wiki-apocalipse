@@ -1,0 +1,88 @@
+==============================================================================
+CODIGO: 41-006
+TITULO: Como interpretar cartas hidrográficas
+CATEGORIA: 41 - Navegação avançada e técnicas de expedição
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: carta náutica da região, lupa, lápis, régua, bússola, caderno
+REVISAO: 2026-11
+PALAVRAS-CHAVE: carta náutica, mapa do mar, isobata, boia, escala, legenda
+==============================================================================
+
+OBJETIVO
+--------
+Ler uma carta náutica para saber a profundidade, a rota e os perigos.
+
+QUANDO USAR
+-----------
+Antes de navegar em água desconhecida.
+Para escolher um canal com profundidade suficiente para o barco.
+Para localizar boias, faróis e marcadores de perigo.
+Para estimar sua posição comparando a terra e o mar.
+Ao planejar uma rota e medir distância antes de partir.
+
+NAO USE QUANDO
+--------------
+Não navegue usando só a carta em neblina, escuridão ou tempestade.
+Sem prática, a leitura errada pode levar a embarcação a encalhar.
+
+MATERIAIS
+---------
+- Carta náutica atualizada da região (ou cópia impressa da mesma).
+- Lupa para ler números e símbolos pequenos (ou lente de aumento).
+- Lápis e papel para anotar posições e profundidades.
+- Régua ou borda reta para medir distâncias na escala.
+- Bússola para conferir a orientação da carta.
+
+PROCEDIMENTO
+------------
+1. Confira a data impressa na carta náutica, o mapa do mar e do fundo.
+2. Leia a legenda da carta: ela explica cor, símbolo e unidade usada.
+3. Olhe a escala: denominador maior cobre mais área e mostra menos detalhe.
+4. Ache a rosa dos ventos: norte verdadeiro, magnético e a declinação.
+5. Anote a declinação, diferença entre os dois nortes, para a bússola.
+6. Confira o datum no título, sistema de referência, em geral WGS 84.
+7. Ajuste o GPS para o mesmo datum da carta antes de confiar nele.
+8. Leia as coordenadas de latitude e longitude em graus e minutos.
+9. Determine sua posição por terra, boias ou pelo GPS já ajustado.
+10. Leia os números de profundidade: em geral metros, na maré da carta.
+11. Siga as isobatas, linhas que ligam pontos de igual profundidade.
+12. Linhas de isobata juntas indicam encosta íngreme; afaste-se delas.
+13. Identifique perigos: recifes, rochas, naufrágios e ilhas sinalizadas.
+14. Leia boias e faróis pela cor e forma, conferindo sempre a legenda.
+15. Trace a rota em água mais funda que o calado, a parte submersa do barco.
+16. Compare o que vê com a carta; se algo não bater, pare e refaça.
+17. Procure os avisos aos navegantes recentes antes de partir.
+
+ATENCAO
+-------
+Uma carta desatualizada pode omitir recifes novos ou mudanças no canal.
+A profundidade impressa muda com a maré; some a altura da maré do dia.
+A carta não mostra obstáculos recentes: procure avisos aos navegantes.
+Conferir só o GPS engana: datum ou unidade errada desloca sua posição.
+A declinação magnética muda com o tempo e o lugar; reconfira sempre.
+Nunca navegue confiando só na leitura: peça ajuda a quem tem prática.
+Se a costa, as boias ou a profundidade não baterem, pare imediatamente.
+Encalhar pode furar o casco e deixar preso: risco de afogamento.
+
+SE NAO TIVER
+------------
+Sem carta impressa, não improvise rota em água desconhecida.
+Peça uma carta emprestada ou orientação a um pescador da região.
+Sem lupa, leia os números com luz forte e boa vista, com calma.
+Sem GPS, use terra, boias e a bússola para conferir a posição.
+Na dúvida sobre a profundidade, não entre: escolha outro caminho.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O ponto marcado na carta bate com a terra e as boias que você vê.
+A profundidade medida confere com o número da carta, na maré do dia.
+A rota traçada fica em água funda, sem perigos marcados por perto.
+
+FONTES
+------
+Prática consolidada de leitura de cartas náuticas, documentada em
+referências oficiais: U.S. Chart No. 1 (símbolos e abreviaturas, NOAA),
+publicações da Diretoria de Hidrografia e Navegação da Marinha do Brasil
+(DHN) e padrões da Organização Hidrográfica Internacional (IHO) e IALA.
+Este texto é resumo operacional, não substitui treinamento em navegação.

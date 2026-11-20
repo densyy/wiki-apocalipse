@@ -1,0 +1,88 @@
+==============================================================================
+CODIGO: 87-011
+TITULO: Como construir um sistema de serragem movido por água
+CATEGORIA: 87 - Energia mecânica e hidráulica tradicionais
+TEMPO: 360 minutos
+RISCO: alto
+EXIGE: roda d'água, eixo, serra circular, mesa e guia de corte
+REVISAO: 2026-11
+PALAVRAS-CHAVE: serragem, água, serra circular, madeira, corte, eixo
+==============================================================================
+
+OBJETIVO
+--------
+Cortar madeira em tábuas com uma serra circular movida pela água.
+
+QUANDO USAR
+-----------
+Quando se precisa de tábuas e não há energia elétrica disponível.
+Quando há córrego com queda constante junto ao local de trabalho.
+Quando a roda d'água já estiver montada e com mancais bons.
+Quando o volume de madeira justificar a instalação.
+
+NAO USE QUANDO
+--------------
+Não use se a roda parar ou variar muito durante o dia.
+Não tente cortar madeira com pregos, pedras ou terra.
+Não opere com a serra rachada, empenada ou sem dentes firmes.
+Não use sem proteção da serra e sem guia de corte seguro.
+
+MATERIAIS
+---------
+- Roda d'água com eixo, mancais e comporta de controle.
+- Serra circular de aço com dentes bem afiados e sem trincas.
+- Eixo da serra com mancais e suportes rígidos.
+- Mesa de madeira firme com fenda para passar a lâmina.
+- Guia de madeira paralela à lâmina para alinhar o corte.
+- Correia ou engrenagem ligando a roda ao eixo da serra.
+- Proteção de madeira ou metal cobrindo a parte alta da lâmina.
+- Óculos, luvas e calçado firme para o operador.
+
+PROCEDIMENTO
+------------
+1. Verifique a queda da água e a potência da roda disponível.
+2. Fixe os mancais do eixo da serra na mesa com firmeza.
+3. Encaixe a serra no eixo e prenda com arruela e porca.
+4. Ajuste a lâmina para girar no centro da fenda da mesa.
+5. Monte a guia paralela e fixe-a na largura de corte desejada.
+6. Instale a proteção sobre a parte exposta da lâmina.
+7. Ligue a roda ao eixo da serra com correia bem tensionada.
+8. Gire com a mão e confira se a lâmina não arranha a mesa.
+9. Abra a comporta devagar até a serra alcançar rotação cheia.
+10. Apoie a madeira na mesa e alinhe com a guia.
+11. Empurre a madeira devagar com as duas mãos longe da lâmina.
+12. Use um bastão de empurrar quando a peça ficar curta.
+13. Deixe a serra cortar sem forçar e sem torcer a madeira.
+14. Verifique o corte e corrija a guia se sair torto.
+15. Feche a comporta e espere a lâmina parar antes de medir.
+
+ATENCAO
+-------
+A serra circular corta fundo e sem aviso: nunca toque na lâmina.
+Sempre use a proteção e mantenha as mãos longe dos dentes.
+Lâmina rachada pode se partir e lançar pedaços com violência.
+Madeira presa deve ser retirada só com a serra parada.
+Não corte com a madeira apoiada de lado ou fora da mesa.
+Se a roda acelerar demais, feche a comporta imediatamente.
+Use óculos e nunca opere sob efeito de álcool ou remédio.
+
+SE NAO TIVER
+------------
+Sem serra circular, use uma serra de arco presa ao mecanismo.
+Sem roda, use moinho de vento ou tração animal para girar.
+Sem mesa, use duas travessas firmes sobre cavaletes.
+Sem guia, fixe uma régua de madeira com pregos na mesa.
+Sem proteção, monte uma tampa de madeira sobre a lâmina.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As tábuas saem com espessura uniforme e corte limpo.
+A lâmina gira sem tremer e sem risco de travar.
+A madeira avança sem esforço excessivo e sem queimar.
+A serra para rapidamente quando a comporta é fechada.
+
+FONTES
+------
+Prática consolidada de serrarias movidas a água, comuns em regiões
+rurais antes da energia elétrica. Base em manuais de marcenaria e
+segurança com serras circulares e em relatos de serrarias tradicionais.

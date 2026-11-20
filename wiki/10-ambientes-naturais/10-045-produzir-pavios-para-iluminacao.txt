@@ -1,0 +1,92 @@
+==============================================================================
+CODIGO: 10-045
+TITULO: Como produzir pavios para iluminação
+CATEGORIA: 10 - Sobrevivência em ambientes naturais
+TEMPO: 25 minutos
+RISCO: alto
+EXIGE: cordão de algodão puro, óleo, tesoura, recipiente
+REVISAO: 2026-11
+PALAVRAS-CHAVE: pavio, algodão, vela, lamparina, fogo, monóxido, chama
+==============================================================================
+
+OBJETIVO
+--------
+Produza pavio de algodão que mantenha chama estável em vela ou lamparina.
+
+QUANDO USAR
+-----------
+Quando o pavio de uma vela ou lamparina acabou.
+Quando há óleo ou cera, mas falta pavio para iluminar.
+Para montar lamparina improvisada em recipiente de vidro ou metal.
+Para aproveitar sebo ou óleo vegetal como luz de emergência.
+
+NAO USE QUANDO
+--------------
+Com lanterna de pilha: prefira-a, pois não gera fogo nem monóxido.
+Quando sentir cheiro de gás: não acenda nada, saia e avise.
+Em lugar fechado sem ventilação: o fogo gera monóxido e consome oxigênio.
+
+MATERIAIS
+---------
+- Cordão ou barbante de algodão puro (linho, cânhamo ou juta).
+- Tesoura ou faca.
+- Combustível: óleo vegetal, cera de abelha ou sebo.
+- Recipiente de vidro ou metal firme (castiçal, lamparina ou lata).
+- Fósforo ou isqueiro.
+
+PROCEDIMENTO
+------------
+1. Escolha cordão de algodão puro, sem fibras sintéticas nem lã.
+2. Corte um trecho de aproximadamente 15 cm.
+3. Torça duas ou três fitas até formar um cordão fino e firme.
+4. Deixe a espessura em aproximadamente 5 mm.
+5. Encharque o pavio no combustível antes de acender.
+6. Prenda o pavio no centro do recipiente ou no suporte da lamparina.
+7. Deixe a ponta exposta com aproximadamente 6 mm acima da borda.
+8. Coloque o recipiente em superfície plana, firme e resistente ao calor.
+9. Afaste o pavio aproximadamente 30 cm de pano, papel e madeira.
+10. Acenda a ponta com fósforo ou isqueiro, longe do rosto.
+11. Proteja a chama do vento e de correntes de ar.
+12. Se a chama ficar alta ou com fumaça, apague e encurte a ponta.
+13. Apague com abafador ou sopro; nunca jogue água na cera quente.
+
+ATENCAO
+-------
+O que mata aqui é o fogo fora de controle e o monóxido de carbono.
+Monóxido é incolor e inodoro: nunca queime em tenda ou abrigo fechado.
+Chama aberta é a principal causa de incêndio na falta de energia.
+Use suporte firme: se o recipiente tombar, óleo quente se espalha.
+Nunca deixe a chama sem vigilância perto de cama, papel ou pano.
+Apague ao sair do recinto, antes de dormir ou se sentir sono.
+Não use gasolina, álcool ou solvente: inflamam depressa e estouram.
+Mantenha crianças e animais longe da chama e do recipiente quente.
+Achando cheiro de gás, apague tudo, saia e chame ajuda.
+
+SE NAO TIVER
+------------
+- Sem pavio, torça fita de camiseta ou pano de algodão puro.
+- Sem combustível próprio, use óleo vegetal ou sebo derretido.
+- Evite fibra sintética: derrete, fuma e pode grudar na pele.
+- Sem recipiente firme, não use plástico: derrete e pega fogo.
+- Na dúvida, prefira lanterna de pilha a qualquer chama aberta.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A chama fica estável, amarela e sem fumaça escura.
+O combustível sobe pelo pavio e mantém a chama acesa sozinha.
+Não aparece depósito de fuligem no vidro do recipiente.
+Não há cheiro forte de queimado depois de alguns minutos.
+
+FONTES
+------
+U.S. Fire Administration/FEMA: segurança com velas na falta de energia
+(suporte firme, 12 polegadas de distância, apagar ao sair do recinto).
+Ready.gov, guia Are You Ready?: use lanterna de pilha, não vela.
+Na queda de energia e nunca acender chamas com cheiro de gás.
+Ready.gov/CERT, manual de treinamento básico: monóxido da combustão
+em ambientes fechados e detector de monóxido.
+CPSC: monóxido de carbono e padrões de segurança para velas.
+National Candle Association: aparar pavio a 1/4 de polegada.
+Não apagar com água: a cera quente espalha e queima.
+Prática consolidada artesanal, sem documento único: pavio de algodão
+torcido e embebido no combustível antes do uso.

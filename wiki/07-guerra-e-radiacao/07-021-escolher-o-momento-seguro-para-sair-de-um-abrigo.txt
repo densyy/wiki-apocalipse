@@ -1,0 +1,84 @@
+==============================================================================
+CODIGO: 07-021
+TITULO: Como escolher o momento seguro para sair de um abrigo
+CATEGORIA: 07 - Guerra, radiação e catástrofes nucleares
+TEMPO: 15 minutos
+RISCO: critico
+EXIGE: rádio a pilha, relógio, roupa de corpo inteiro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: abrigo, sair, fallout, radiação, evacuar, ordem
+==============================================================================
+
+OBJETIVO
+--------
+Decidir a hora de sair do abrigo com a menor dose possivel.
+
+QUANDO USAR
+-----------
+Quando estiver abrigado apos explosao nuclear ou fallout.
+Quando completar aproximadamente 24 horas dentro do abrigo.
+Quando o radio ou a defesa civil der ordem de sair ou ficar.
+Quando precisar sair por fogo, desabamento ou falta de ar.
+Quando for planejar rota curta para abrigo melhor ou resgate.
+
+NAO USE QUANDO
+--------------
+Nao saia para buscar familia, comida ou noticia na rua.
+Saia so por ordem oficial ou perigo imediato dentro do abrigo.
+
+MATERIAIS
+---------
+- Radio a pilha com pilha reserva (sem radio, relogio e espera).
+- Relogio para contar as horas (sem relogio, estime dia e noite).
+- Mascara ou pano para cobrir boca e nariz (pano limpo seco).
+- Roupa de corpo todo, sapato fechado e capa (saco plastico).
+- Saco plastico para roupa suja e pano de limpeza (sacola comum).
+- Agua e lanche para a saida sem parar na rua (cantil e pacote).
+
+PROCEDIMENTO
+------------
+1. Fique no ponto mais protegido por aproximadamente 24 horas.
+2. Ligue o radio a pilha e anote cada ordem das autoridades.
+3. Nao saia antes da ordem, salvo fogo, fumaca ou desabamento.
+4. Marque a hora da explosao e conte aproximadamente 24 horas.
+5. Apos a espera, abra so uma fresta e olhe poeira e dano fora.
+6. Espere a poeira grossa assentar antes de pisar para fora.
+7. Vista roupa longa, sapato fechado e cubra boca e nariz.
+8. Leve agua, documento e remedio para nao precisar voltar.
+9. Saia rapido, sem sentar, comer ou beber na rua.
+10. Caminhe pelo caminho mais curto, longe de poeira e entulho.
+11. Se a ordem mandar evacuar, siga a rota e o abrigo indicados.
+12. Se mandar ficar, volte para dentro e espere nova ordem.
+
+ATENCAO
+-------
+Fallout perde forca rapido mas a primeira hora mata fora.
+Sair antes de aproximadamente 24 horas pode dar dose mortal.
+Ordem da autoridade vale mais que relogio, pois vento muda o risco.
+Poeira sem cheiro emite raio gama que atravessa roupa e mascara.
+Mascara segura poeira no pulmao mas nao bloqueia o raio gama.
+Carro, casa de madeira e rua aberta nao protegem na saida.
+Se vomitar, tiver tontura ou queimadura, volte e peca socorro.
+Fogo, gas e predio rachado matam antes da radiacao; saia entao.
+Este texto nao trata resgate, ferimento nem descontaminacao.
+Procure socorro e siga a defesa civil apos sair do abrigo.
+
+SE NAO TIVER
+------------
+Sem radio, espere aproximadamente 24 horas e saia com cuidado.
+Sem relogio, conte dia e noite e some mais uma noite de espera.
+Sem mascara, cubra boca e nariz com pano seco e troque depois.
+Sem roupa longa, use o mais fechado que tiver e descarte fora.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Voce saiu apos aproximadamente 24 horas ou com ordem oficial.
+Voce atravessou a rua rapido sem parar, comer ou beber fora.
+Voce chegou ao destino sem poeira na pele, boca ou roupa.
+
+FONTES
+------
+Pagina sobre emergencias por radiacao do Ready.gov americano.
+Pagina sobre entrar e ficar dentro do CDC americano.
+Guia de planejamento para detonacao nuclear da FEMA.
+Orientacao sobre explosao nuclear da Cruz Vermelha americana.

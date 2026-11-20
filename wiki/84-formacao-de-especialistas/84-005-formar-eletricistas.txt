@@ -1,0 +1,75 @@
+==============================================================================
+CODIGO: 84-005
+TITULO: Como formar eletricistas
+CATEGORIA: 84 - Educação avançada e formação de especialistas
+TEMPO: 120 minutos
+RISCO: alto
+EXIGE: supervisor, EPI isolado, material e rede desligada
+REVISAO: 2026-11
+PALAVRAS-CHAVE: eletricidade, instalação, segurança, desligamento, oficina
+==============================================================================
+
+OBJETIVO
+--------
+Ensinar noções seguras de instalação e manutenção elétrica.
+
+QUANDO USAR
+-----------
+Quando a comunidade precisa de iluminação e tomadas seguras.
+Ao formar moradores para reparar instalações simples.
+Quando há material elétrico recuperado para estudo.
+Ao montar oficina de eletricidade básica com supervisão.
+
+NAO USE QUANDO
+--------------
+Não trabalhe com energia ligada, nem para teste rápido.
+Não use ferramenta sem isolamento adequado.
+Não autorize ligação sem conferir polaridade e aterramento.
+Não permita que iniciantes atuem sozinhos na rede.
+
+MATERIAIS
+---------
+- Luvas e calçados isolantes, óculos e capacete.
+- Testador de tensão, chaves isoladas e multímetro simples.
+- Fio, conectores, fusíveis e interruptor para montagem.
+- Quadro mural ou placa de madeira para exercício.
+
+PROCEDIMENTO
+------------
+1. Desligue a chave geral e confirme com testador.
+2. Trate todo circuito como energizado até provar o contrário.
+3. Ensine a identificar fase, neutro e terra no desenho.
+4. Demonstre em placa de exercício, nunca na rede viva.
+5. Ensine emenda, conexão e aperto dos terminais.
+6. Explique a função do fusível e do disjuntor.
+7. Faça a montagem com supervisão do instrutor.
+8. Confira polaridade e continuidade antes de ligar.
+9. Só energize com autorização do supervisor presente.
+10. Registre os erros e repita o exercício corrigido.
+
+ATENCAO
+-------
+Eletricidade pode matar sem aviso e sem dor prévia.
+Testador é a última verificação antes de tocar no condutor.
+Circuito mal aterrado gera choque e incêndio.
+Fio de bitola errada esquenta e pode pegar fogo.
+Umidade aumenta muito o risco de acidente elétrico.
+
+SE NAO TIVER
+------------
+Sem EPI isolante, faça só exercício em placa desligada.
+Sem testador, não toque em nenhum condutor.
+Sem supervisor, suspenda a prática e estude o desenho.
+Sem material, use sucata limpa apenas para identificação.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O circuito da placa funcionou após a montagem correta.
+O desligamento foi confirmado com testador antes do trabalho.
+Os alunos identificaram fase, neutro e terra sem erro.
+Não houve choque, faísca ou calor anormal.
+
+FONTES
+------
+Prática de instalações elétricas prediais e segurança elétrica.
+Normas básicas de procedimentos com energia desligada.

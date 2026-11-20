@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 88-001
+TITULO: Como avaliar a capacidade de suporte de uma região
+CATEGORIA: 88 - Geografia humana e recursos estratégicos
+TEMPO: 120 minutos
+RISCO: baixo
+EXIGE: mapa, caderno, caneta, medições aproximadas e entrevistas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: capacidade de suporte, região, terra, água, população
+==============================================================================
+
+OBJETIVO
+--------
+Estimar quantas pessoas uma região consegue sustentar com os recursos
+que realmente existem no local.
+
+QUANDO USAR
+-----------
+Ao escolher onde fixar um grupo ou um assentamento novo.
+Antes de receber mais gente em uma comunidade já instalada.
+Quando o comércio local começa a faltar alimento ou combustível.
+Ao comparar duas áreas antes de ocupar uma delas.
+Na revisão anual do plano de uso da terra.
+
+NAO USE QUANDO
+--------------
+Não use como promessa de segurança: é uma estimativa, não uma garantia.
+Não baseie a decisão só nesta avaliação; cruze com outros levantamentos.
+Não use se não der para visitar a área em pelo menos duas estações.
+Não use para justificar ocupação de terra sem autorização legal.
+
+MATERIAIS
+---------
+- Mapa impresso ou esquema desenhado à mão da região (GPS).
+- Caderno e lápis ou caneta para anotar contagens e entrevistas.
+- Fita de medir ou passos contados para medir distâncias (régua).
+- Balde ou recipiente conhecido para estimar volumes.
+- Relógio para cronometrar percursos e vazões.
+- Lista de perguntas para moradores e usuários da área.
+
+PROCEDIMENTO
+------------
+1. Defina o limite da área e desenhe-o no mapa com cuidado.
+2. Marque no mapa a água, as estradas, as casas e as áreas de cultivo.
+3. Percorra a área a pé, em linha reta e com cinco pontos de parada.
+4. Anote o que existe em cada ponto: água, terra, sombra e abrigo.
+5. Meça a área cultivável em passos e converta para medida conhecida.
+6. Estime a água disponível por dia em cada fonte encontrada.
+7. Conte as pessoas que já vivem e usam os recursos da área.
+8. Pergunte aos moradores o que falta no pior mês do ano.
+9. Relacione a comida produzida com o número de bocas a alimentar.
+10. Relacione a lenha e a água com o consumo diário estimado.
+11. Some as necessidades e compare com cada recurso disponível.
+12. Aplique uma margem de segurança de cerca de 30 por cento.
+13. Repita o cálculo na estação seca e na estação chuvosa.
+14. Escreva qual recurso limita primeiro e por quanto tempo.
+15. Registre as incertezas e quem pode conferir os números.
+
+ATENCAO
+-------
+Números aproximados não sustentam decisão definitiva. Marque cada
+estimativa como aproximada e diga como foi obtida.
+Contagens feitas só na estação chuvosa superestimam a água.
+Entrevistas podem exagerar ou esconder dados; cruze duas fontes.
+Superlotar uma área esgota a água e a lenha antes do previsto.
+Respeite cercas, roças e limites legais durante a caminhada.
+Se houver disputa de terra, pare e procure a autoridade local.
+
+SE NAO TIVER
+------------
+Sem mapa, desenhe um esquema em papel com norte, rios e estradas.
+Sem fita, conte passos e calcule o comprimento médio do seu passo.
+Sem moradores para entrevistar, use apenas o que consegue medir e
+reduza ainda mais a margem de segurança.
+Sem medidor de vazão, encha um balde conhecido e cronometre.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue dizer quantas pessoas a área sustenta em cada estação.
+Cada número tem uma origem anotada e uma margem de segurança.
+O recurso limitante está identificado no mapa e no caderno.
+Duas pessoas conseguem refazer o cálculo seguindo as anotações.
+
+FONTES
+------
+Prática consolidada de avaliação rural participativa e planejamento
+de assentamentos, sem documento único. Base: noções de capacidade
+de suporte e diagnose rápido difundidas por extensão rural e
+organizações comunitárias.

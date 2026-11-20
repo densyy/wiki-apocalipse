@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 08-027
+TITULO: Como fundir alumínio com segurança
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: forno, cadinho, sucata limpa e seca, EPI e área externa ventilada
+REVISAO: 2026-11
+PALAVRAS-CHAVE: alumínio, fundir, derreter, cadinho, sucata, explosão
+==============================================================================
+
+OBJETIVO
+--------
+Derreter sucata de alumínio em um cadinho sem explosão nem queimadura.
+
+QUANDO USAR
+-----------
+Quando for preciso fazer uma peça ou conserto com alumínio fundido.
+Quando houver sucata limpa de alumínio para reaproveitar.
+Quando não houver oficina ou fonte de calor industrial por perto.
+
+NAO USE QUANDO
+--------------
+Quando a sucata tiver tinta, resina, plástico ou resíduo químico.
+Quando houver recipiente fechado ou lata com líquido: pode explodir.
+Quando o material estiver molhado, enferrujado ou com oxidação branca.
+Quando não houver EPI e área ventilada; não improvise sem proteção.
+
+MATERIAIS
+---------
+- Cadinho de grafite ou aço, com ponto de fusão acima do alumínio.
+- Sucata de alumínio limpa, seca, sem tinta, plástico ou líquido.
+- Alicate ou pinça longa para pegar peças quentes.
+- Colher de metal seca (skimmer) para retirar a escória da superfície.
+- Molde de areia ou metal, seco e preaquecido antes do vazamento.
+- Óculos de segurança com escudo lateral e protetor facial.
+- Luvas de couro ou resistentes ao calor, com punho que feche.
+- Avental e roupa de algodão, lã ou couro; nunca tecido sintético.
+- Botina sem cordão e perneira para proteger pés e tornozelos.
+- Balde de areia seca e limpa; nunca use água no metal fundido.
+- Extintor de pó seco para metal em chamas (classe D).
+- Local externo ou bem ventilado, longe de crianças e inflamáveis.
+
+PROCEDIMENTO
+------------
+1. Escolha apenas sucata limpa de alumínio, sem tinta, plástico ou resto.
+2. Descarte latas com líquido e qualquer recipiente fechado.
+3. Descarte peças com ferrugem, oxidação branca ou resina; não funda.
+4. Seque a sucata ao sol ou junto ao forno por aproximadamente quatro horas.
+5. Preaqueça o cadinho vazio sobre o fogo até eliminar toda a umidade.
+6. Preaqueça a colher, o molde e as pinças antes de usar.
+7. Vista o EPI antes de acender o fogo.
+8. Afaste crianças, animais, combustível e qualquer recipiente com água.
+9. Coloque a sucata seca no cadinho preaquecido, aos poucos, sem jogar.
+10. Aqueça até o alumínio ficar líquido e brilhante, cerca de 660 °C.
+11. Retire a escória com a colher seca e nunca jogue água no cadinho.
+12. Despeje o metal no molde seco e preaquecido, com calma e de lado.
+13. Deixe esfriar e solidificar antes de tocar ou virar a peça.
+14. Guarde cadinho e ferramentas em local seco para a próxima fusão.
+
+ATENCAO
+-------
+A umidade é o maior perigo: água em metal fundido vira vapor e explode.
+A água expande aproximadamente 1.700 vezes e arremessa metal a metros.
+Nunca jogue água no metal, no cadinho ou em fogo de metal: piora e explode.
+Recipiente fechado, lata com líquido e resina podem estourar sem aviso.
+Nitrato de amônio e oxidantes na sucata podem causar explosão química.
+Use óculos e protetor facial: respingo de alumínio gruda e queima tecido.
+Tecido sintético derrete e gruda na pele; use algodão, lã ou couro.
+Em ambiente fechado, fumaça e monóxido de carbono matam: ventile sempre.
+Se o metal vazar, contenha com areia seca; nunca com água.
+Pare e afaste-se se ouvir estalo, ver vapor ou sentir cheiro estranho.
+Em queimadura, resfrie a pele com água corrente e busque atendimento.
+
+SE NAO TIVER
+------------
+Sem cadinho de grafite, use um cadinho de aço sem costura e sem ferrugem.
+Nunca use lata de refrigerante, panela com tinta ou recipiente fechado.
+Sem molde, funda em areia seca compactada dentro de caixa de metal.
+Sem EPI, não funde; pano molhado não protege e gera vapor.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O alumínio fica líquido, brilhante e sem pedaços sólidos depois de mexer.
+Não há estalo, vapor nem respingo ao colocar sucata seca no cadinho.
+A peça sai do molde com forma definida e sem bolhas ou trincas.
+
+FONTES
+------
+Prática consolidada de fundição de alumínio em pequena escala.
+Manual de Manuseio do Alumínio Líquido, ABAL, 2ª edição, 2008.
+Guia de gestão de riscos em fundição, Safe Work Australia, 2017.
+Diretrizes para manuseio de alumínio fundido, Aluminum Association, 2016.
+Alerta sobre explosões de metal fundido, OSHA e INRS (França).
+Ponto de fusão do alumínio: NIST Chemistry WebBook e ATSDR (2008).

@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 38-002
+TITULO: Como identificar planetas a olho nu
+CATEGORIA: 38 - Astronomia e medição do tempo
+TEMPO: 20 minutos
+RISCO: medio
+EXIGE: céu limpo, local escuro, vista livre, caderno, lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: planeta, olho nu, estrela, vênus, marte, júpiter, saturno
+==============================================================================
+
+OBJETIVO
+--------
+Diferenciar planetas de estrelas e nomear os cinco visíveis a olho nu.
+
+QUANDO USAR
+-----------
+Quando uma luz no céu parece estrela mas brilha sem piscar.
+Após o pôr do sol ou antes do amanhecer, com o céu limpo.
+Em acampamento sem celular, binóculo ou luneta.
+
+NAO USE QUANDO
+--------------
+Não use para olhar o Sol: a luz direta queima a retina.
+Não use como guia de navegação, rota ou horário.
+
+MATERIAIS
+---------
+- Céu limpo, sem nuvens baixas e sem lua cheia.
+- Local seguro, escuro e com vista livre para o horizonte.
+- Caderno e lápis (papel e carvão).
+
+PROCEDIMENTO
+------------
+1. Espere cerca de 40 minutos após o pôr do sol para o céu escurecer.
+2. Fique parado no local escolhido e deixe os olhos se adaptarem.
+3. Olhe primeiro para o oeste, perto do horizonte, após o pôr do sol.
+4. Procure o objeto mais brilhante que não seja a Lua.
+5. Note se o brilho é firme: estrelas piscam, planetas não piscam.
+6. Observe a cor: Vênus branco, Marte vermelho, Júpiter e Saturno amarelos.
+7. Confira a posição: planetas seguem o caminho da Lua e do Sol.
+8. Anote no caderno a cor, a posição e a hora de cada objeto.
+9. Repita no dia seguinte e veja se o objeto mudou em relação às estrelas.
+
+ATENCAO
+-------
+Olhar para o Sol queima a retina e pode causar cegueira permanente.
+Óculos escuros comuns não protegem os olhos para observar o Sol.
+Vênus é o objeto mais brilhante depois da Lua e engana quem nunca observa.
+A olho nu não se veem os anéis de Saturno nem as faixas de Júpiter.
+Com frio, fumaça ou risco no local, pare e volte ao abrigo.
+
+SE NAO TIVER
+------------
+Sem céu limpo, espere outra noite: nuvens escondem os planetas.
+Sem local escuro, afaste-se das luzes e use uma janela virada ao céu.
+Sem caderno, decore a ordem: brilho, cor, posição e hora.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você encontrou um ponto de luz firme e anotou cor e posição.
+O objeto mudou de lugar em relação às estrelas ao longo dos dias.
+
+FONTES
+------
+NASA: páginas Planets Overview, Venus Facts, Mars Facts, Jupiter Facts
+e Saturn Facts, do programa Solar System Exploration.
+A distinção entre brilho firme de planeta e cintilar de estrela é
+prática consolidada de observação a olho nu, sem documento único.

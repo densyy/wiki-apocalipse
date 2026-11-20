@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 01-031
+TITULO: Como dessalinizar água do mar
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: sol forte, lona plástica transparente, recipiente limpo, água do mar
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, sal, dessalinizar, destilar, solar, potável, salgado
+==============================================================================
+
+OBJETIVO
+--------
+Transformar água salgada do mar em água doce que possa ser bebida.
+
+QUANDO USAR
+-----------
+Quando a única água disponível é a do mar.
+Em ilha, praia, naufrágio ou barco sem água doce a bordo.
+Quando a água encontrada é salobra e não serve para beber.
+Quando não há energia elétrica nem equipamento industrial por perto.
+
+NAO USE QUANDO
+--------------
+Quando existir água doce segura por perto; use-a primeiro.
+Quando a água estiver com óleo, combustível, tinta ou agrotóxico.
+Perto de porto, derramamento ou indústria: o vapor pode
+arrastar químicos junto com a água.
+Se a água tiver cheiro de químico ou cor estranha, não use.
+
+MATERIAIS
+---------
+- Água do mar limpa, sem óleo nem sujeira visível.
+- Lona plástica transparente (saco limpo ou vidro).
+- Recipiente pequeno limpo para recolher a água doce (pote, garrafa).
+- Peso para o centro da lona (pedra ou concha lavada).
+- Pedras ou terra para prender as bordas da lona.
+- Recipiente limpo e tampado para guardar a água.
+- Fogo e panela com tampa (somente no método com fogo).
+
+PROCEDIMENTO
+------------
+1. Escolha um local com sol direto e sem sombra durante o dia.
+2. Cave um buraco de aproximadamente 1 metro de largura e
+   meio metro de profundidade.
+3. Coloque o recipiente pequeno no centro do buraco, nivelado.
+4. Despeje água do mar ao redor do recipiente em camada fina de
+   aproximadamente 2 centímetros.
+5. Cubra o buraco com a lona transparente, sem deixar folgar.
+6. Prenda as bordas com pedras ou terra para vedar o ar.
+7. Coloque o peso no centro da lona, sobre o recipiente, para
+   formar uma ponta inclinada por onde a água escorra.
+8. Deixe o sol agir por aproximadamente 4 horas ou mais.
+9. Não levante a lona nesse tempo: o vapor escapa.
+10. Retire o recipiente e despeje a água em recipiente tampado.
+11. Ferva a água coletada por 1 minuto antes de beber.
+12. Retire a salmoura e raspe o sal antes de reusar o buraco.
+
+ATENCAO
+-------
+Não beba água do mar: os rins não eliminam tanto sal e a sede aumenta.
+Ferver água salgada não a torna doce; só concentra o sal.
+A destilação solar rende pouco: alguns copos por dia em bom sol.
+Não serve para abastecer várias pessoas.
+Óleo, combustível e agrotóxico podem passar para o vapor: não destile.
+Água destilada pode conter germes; ferver antes de beber reduz risco.
+Com fogo, vapor e água quente queimam: use pano na tampa.
+Não incline a tampa com a mão desprotegida.
+Água destilada fica sem gosto; adicione pitada de sal limpo
+ou misture com água de outra fonte segura.
+Pare e procure ajuda se houver vômito, fraqueza ou sede que não passa.
+
+SE NAO TIVER
+------------
+Sem lona, use um saco plástico limpo ou uma folha de vidro.
+Sem peso, use uma concha ou pedra pequena lavada.
+Sem sol, destile com fogo: encha a panela pela metade com água do mar.
+Prenda uma caneca limpa ao cabo da tampa e vire a tampa sobre a panela.
+Leve ao fogo por aproximadamente 20 minutos e recolha a água que pinga.
+Nunca deixe a caneca tocar na água salgada.
+Sem panela com tampa, procure outra fonte ou ajuda.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Apareceram gotículas na face interna da lona e escorreram ao copo.
+A água recolhida é clara e não tem gosto salgado.
+Ao evaporar uma colher da água, não sobra resíduo branco de sal.
+A água ferveu por 1 minuto e ficou guardada em recipiente tampado.
+
+FONTES
+------
+Prática consolidada de destilação solar; orientações da OMS sobre
+dessalinização e água potável; resumo da Oxfam sobre dessalinização;
+manual de destilação solar da Practical Action; manual da Cruz Vermelha
+(IFRC), CDC e guia da Wilderness Medical Society sobre água em emergência.

@@ -1,0 +1,93 @@
+==============================================================================
+CODIGO: 27-017
+TITULO: Como adaptar ambientes para pessoas com mobilidade reduzida
+CATEGORIA: 27 - Visão, audição e necessidades especiais
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: fita métrica, materiais de fixação, ajuda da pessoa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: mobilidade reduzida, rampa, barra, andador, queda, idoso
+==============================================================================
+
+OBJETIVO
+---------
+Deixar a casa segura e utilizável por quem tem mobilidade reduzida.
+
+QUANDO USAR
+-----------
+Quando alguém da casa usa andador, bengala ou cadeira de rodas.
+Quando a pessoa idosa perdeu o equilíbrio ou já caiu dentro de casa.
+Quando a entrada, o banheiro ou a cozinha têm degraus ou piso escorregadio.
+Quando a pessoa precisa sair depressa em caso de emergência.
+Quando objetos de uso diário ficam acima do alcance das mãos.
+
+NAO USE QUANDO
+--------------
+Não faça furações em parede ou piso sem saber o que há atrás: fios e canos.
+Em imóvel alheio, não modifique a estrutura sem autorização do responsável.
+
+MATERIAIS
+---------
+- Fita métrica.
+- Régua reta ou nível (qualquer superfície reta serve).
+- Barras de apoio com fixação própria para a parede (tábua larga e firme).
+- Parafusos e buchas compatíveis com a parede (suporte preso por outra via).
+- Revestimento antiderrapante (fita adesiva áspera ou pano costurado).
+- Rampa rígida ou prancha larga, sem empeno e sem rachadura.
+- Calçados fechados e luvas para quem instala.
+- Ajuda de outra pessoa para segurar e testar.
+
+PROCEDIMENTO
+------------
+1. Observe a pessoa andar, sentar e levantar.
+2. Pergunte à pessoa onde ela tem mais dificuldade.
+3. Meça a largura de portas e corredores com a fita métrica.
+4. Anote cada degrau e cada piso escorregadio da rota.
+5. Retire tapetes soltos, fios e objetos do chão das rotas.
+6. Fixe tapetes e tábuas soltas com fita forte ou pregos.
+7. Marque no piso os pontos onde a pessoa apoiará a mão.
+8. Fixe as barras de apoio nesses pontos, na estrutura da parede.
+9. Puxe cada barra com força antes de deixar a pessoa usá-la.
+10. Aplique revestimento antiderrapante no banheiro e na cozinha.
+11. Apoie a rampa no degrau da entrada, com a ponta assentada no chão.
+12. Prenda a rampa ao piso para que não deslize.
+13. Confira a rampa: aproximadamente 1 de altura para cada 12 de base.
+14. Fixe corrimão firme na escada e no corredor, se existirem.
+15. Desça prateleiras e objetos de uso diário ao alcance das mãos.
+16. Deixe uma cadeira firme no banheiro e junto à entrada.
+17. Coloque luz ou lanterna acessa ao longo da rota noturna.
+18. Peça à pessoa que percorra a rota sozinha enquanto você observa.
+
+ATENCAO
+-------
+Uma barra mal fixada cede e a pessoa cai: fratura ou trauma na cabeça.
+Nunca fixe barra em gesso, madeira podre ou tijolo furado sem suporte.
+Use buchas e suporte próprios para o tipo de parede antes de furar.
+Teste toda barra, corrimão e rampa com peso antes de confiar neles.
+Rampa íngreme ou escorregadia é pior que o degrau; se soltar, não use.
+Não bloqueie a saída em caso de incêndio; mantenha a rota livre.
+Este texto não substitui avaliação de profissional de saúde.
+Se houver tontura, dor no peito ou falta de ar, pare e busque ajuda.
+
+SE NAO TIVER
+------------
+Sem barra de metal, use tábua larga presa com suporte resistente à parede.
+Sem antiderrapante, mantenha o piso seco; nunca use óleo ou graxa.
+Sem rampa, peça ajuda para vencer o degrau com a cadeira de rodas.
+Não use corda frouxa como corrimão: ela não sustenta o peso e pode enforcar.
+Sem condição de adaptar a entrada, combine ajuda no térreo para sair.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A pessoa vai da cama até a saída sem parar, escorregar ou pedir ajuda.
+As barras e o corrimão não cedem quando puxados com o peso do corpo.
+A rampa fica firme, não desliza e a pessoa sobe e desce sem esforço extra.
+A rota noturna fica iluminada e livre de tapetes, fios e objetos.
+
+FONTES
+------
+Prática consolidada de acessibilidade, sem documento único.
+Alinhada à OMS sobre deficiência (ficha "Disability", 2023).
+OMS, tecnologia assistiva (ficha "Assistive technology", 2024).
+A OMS pede incluir tecnologia assistiva em emergências.
+Resumo operacional; não substitui treinamento nem avaliação profissional.

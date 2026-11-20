@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 04-053
+TITULO: Como construir uma turbina hidráulica
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 2 dias
+RISCO: alto
+EXIGE: queda de agua corrente, ferramentas basicas, gerador eletrico
+REVISAO: 2026-11
+PALAVRAS-CHAVE: turbina, hidraulica, agua, queda, gerador, energia
+==============================================================================
+
+OBJETIVO
+--------
+Gerar eletricidade em pequena escala com a forca da agua corrente.
+
+QUANDO USAR
+-----------
+Quando houver riacho ou canal com queda e fluxo constantes.
+Quando faltar rede eletrica e for preciso carregar baterias.
+Quando houver abrigo proximo ao curso de agua para instalar
+o conjunto.
+
+NAO USE QUANDO
+--------------
+Em enxurrada, enchente ou rio cheio e com correnteza forte.
+Em queda alta, barragem grande ou reservatorio profundo.
+Se for preciso mergulhar ou trabalhar sozinho na agua.
+Se a ideia for ligar a turbina na rede eletrica da rua.
+
+MATERIAIS
+---------
+- Roda ou rotor com pas: madeira, metal ou roda de bicicleta.
+- Eixo metalico reto e dois rolamentos ou buchas.
+- Estrutura de apoio: madeira firme, parafusos e arame.
+- Tubo ou calha para conduzir a agua ate as pas.
+- Gerador de baixa tensao: dinamo, alternador ou motor eletrico.
+- Correia, polia ou corrente para ligar o eixo ao gerador.
+- Fios isolados, bateria e controlador de carga simples.
+- Ferramentas basicas: serra, martelo, chave e alicate.
+
+PROCEDIMENTO
+------------
+1. Escolha trecho raso, firme e de facil acesso na margem.
+2. Meça a queda de forma simples com mangueira com agua.
+3. Marque o ponto da tomada de agua acima da roda.
+4. Fixe a estrutura de apoio fora do leito principal.
+5. Monte o eixo nivelado sobre os rolamentos na estrutura.
+6. Fixe a roda no eixo com as pas bem presas e alinhadas.
+7. Instale a calha apontando o jato para a borda das pas.
+8. Gire a roda com a mao e ajuste ate rodar sem travar.
+9. Fixe o gerador em base seca, coberta e longe da agua.
+10. Ligue o eixo ao gerador com a correia na medida certa.
+11. Passe os fios por local seco, alto e longe da passagem.
+12. Libere pouca agua primeiro e observe o giro da roda.
+13. Ajuste a posicao do jato ate obter giro firme e continuo.
+14. Ligue a saida do gerador a bateria pelo controlador.
+15. Trave a estrutura e proteja as partes moveis com anteparo.
+
+ATENCAO
+-------
+Agua em movimento mata por afogamento e por arrastamento.
+Nunca trabalhe sozinho dentro ou ao lado de agua corrente.
+Choque eletrico mata mesmo em tensao baixa se houver umidade.
+Mantenha gerador, fios e bateria sempre secos e isolados.
+Nunca ligue a turbina na rede da casa ou da rua.
+Partes moveis prendem roupa, cabelo e dedos: use anteparo.
+Se a estrutura vibrar, soltar ou alagar, feche a agua e pare.
+Este sistema nao sustenta geladeira, bomba grande ou solda.
+
+SE NAO TIVER
+------------
+Sem rolamento, use bucha de madeira dura com graxa ou oleo.
+Sem correia, use camara de ar cortada em tira ou corda firme.
+Sem dinamo, use motor eletrico pequeno como gerador de teste.
+Sem tubo, use calha de madeira, bambu aberto ou lata dobrada.
+Sem controlador, carregue por periodos curtos e observe a bateria.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A roda gira de forma continua sem travar e sem vibrar forte.
+O gerador entrega tensao estavel no teste com lampada simples.
+A bateria acumula carga e mantem a lampada acesa por minutos.
+
+FONTES
+------
+Guia de micro-hidreletrica do Departamento de Energia dos
+Estados Unidos; trabalhos sobre mini turbinas hidraulicas de
+universidades brasileiras; pratica consolidada de instalacao
+segura em baixa tensao, sem documento unico.

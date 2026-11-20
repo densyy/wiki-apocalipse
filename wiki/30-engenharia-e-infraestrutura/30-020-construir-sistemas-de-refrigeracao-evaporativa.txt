@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 30-020
+TITULO: Como construir sistemas de refrigeração evaporativa
+CATEGORIA: 30 - Engenharia e infraestrutura básica
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: dois vasos de barro, areia limpa, água limpa, pano limpo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: refrigeração, evaporar, barro, areia, água, geladeira
+==============================================================================
+
+OBJETIVO
+--------
+Construa um refrigerador de barro sem energia para conservar alimentos.
+
+QUANDO USAR
+-----------
+Quando não há energia elétrica para geladeira.
+Quando o clima é quente e seco e há água limpa disponível.
+
+NAO USE QUANDO
+--------------
+Quando o ar estiver muito úmido: perto de 100% de umidade nada evapora.
+Quando a água disponível estiver suja ou contaminada.
+
+MATERIAIS
+---------
+- Vaso maior de barro cru, sem tinta nem esmalte (não use plástico).
+- Vaso menor que caiba no maior, vidrado por dentro (pote de cerâmica).
+- Areia fina e limpa, sem óleo ou tinta (terra peneirada).
+- Água limpa e pano limpo que respire (tecido fino) para tampar.
+- Pedras ou tijolos para apoiar o vaso maior (suporte de madeira).
+
+PROCEDIMENTO
+------------
+1. Escolha lugar seco, sombreado e com passagem de ar.
+2. Apoie o vaso maior sobre pedras para o ar passar por baixo.
+3. Coloque aproximadamente 4 cm de areia limpa no fundo do vaso maior.
+4. Umedeça essa primeira camada com água limpa.
+5. Encaixe o vaso menor no centro, apoiado na areia, com bordas alinhadas.
+6. Encha o espaço entre os vasos com areia até nivelar as bordas.
+7. Molhe a areia até ficar úmida, sem acumular água no fundo.
+8. Forre o fundo do vaso menor com pano limpo e coloque os alimentos.
+9. Tampe com pano limpo e úmido, sem encostar nos alimentos.
+10. Reumedeça areia e pano ao secar, aproximadamente duas vezes por dia.
+
+ATENCAO
+-------
+Use só água limpa: água suja contamina alimentos e atrai mosquitos.
+Nunca use areia com óleo, combustível, tinta ou agrotóxico.
+Vaso maior sem tinta ou esmalte: a água precisa evaporar na superfície.
+Com ar muito úmido não resfria: perto de 100% de umidade nada evapora.
+Não congela nem mata micro-organismos: descarte com mofo ou cheiro ruim.
+
+SE NAO TIVER
+------------
+Sem vaso de barro, forre caixa de madeira com pano úmido: resfria menos.
+Sem vidrado, use pote comum e não deixe areia molhada tocar a comida.
+Sem areia, use cascalho fino lavado e molhe com mais frequência.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A face externa do vaso maior fica úmida e fria ao toque.
+Termômetro: interior aproximadamente 5 a 10 graus abaixo do ar em dia seco.
+
+FONTES
+------
+Evaporação e limites de umidade: Departamento de Energia dos EUA e NREL.
+Zeer pot e estudos de campo: Practical Action, MIT D-Lab e UC Davis.
+Queda de temperatura: American Journal of Physics, artigo de 2018.

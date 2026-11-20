@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 10-013
+TITULO: Como sair de uma floresta sem GPS
+CATEGORIA: 10 - Sobrevivência em ambientes naturais
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: apito, água, roupa de caminhada e agasalho
+REVISAO: 2026-11
+PALAVRAS-CHAVE: floresta, perdido, sair, gps, navegação, apito, sinal
+==============================================================================
+
+OBJETIVO
+--------
+Encontre o caminho de volta ou sinalize até o socorro chegar, sem GPS.
+
+QUANDO USAR
+-----------
+Quando o GPS e o celular não dão sinal ou acabaram a bateria.
+Quando a trilha desaparece e você não reconhece o lugar.
+Quando você se perdeu e precisa decidir entre ficar parado e andar.
+
+NAO USE QUANDO
+--------------
+Não ande se alguém sabe sua rota: espere no lugar e sinalize.
+Não caminhe de noite, ferido ou exausto: fique parado e sinalize.
+
+MATERIAIS
+---------
+- Apito.
+- Mapa local e bússola, se houver.
+- Roupa de caminhada e agasalho.
+- Água.
+- Espelho ou objeto brilhante para sinalizar.
+- Pano colorido ou galhos para marcar o caminho.
+
+PROCEDIMENTO
+------------
+1. Pare de andar assim que perceber que está perdido.
+2. Sente-se, respire fundo e não corra nem ande sem rumo.
+3. Lembre-se do último ponto onde você soube onde estava.
+4. Observe o sol, as encostas e qualquer marca da trilha.
+5. Decida: se alguém sabe sua rota, fique parado e sinalize.
+6. Dê três apitos curtos, faça uma pausa e repita o trio.
+7. Reflita o sol com espelho ou objeto brilhante em várias direções.
+8. Fique em clareira ou ponto alto e visível; evite mato fechado.
+9. Se tiver mapa e bússola, localize um ponto conhecido no mapa.
+10. Caminhe até esse ponto mantendo a direção da bússola.
+11. Sem mapa, use o sol como norte: ele nasce a leste e se põe a oeste.
+12. Escolha um alvo à frente, ande até ele e escolha outro.
+13. Marque a passagem com pano colorido ou galhos quebrados.
+14. Se encontrar riacho, siga rio abaixo apenas como último recurso.
+15. Caminhe com cuidado: corredeiras e barrancos podem matar.
+16. Ao anoitecer ou se cansar, pare, abrigue-se e espere o dia.
+
+ATENCAO
+-------
+Andar sem rumo é o erro que mais afasta você de quem procura.
+As equipes de busca começam no último ponto onde você foi visto.
+Você pode andar em círculo sem perceber; use um alvo à frente.
+A hipotermia pode ocorrer em clima ameno: pare se tremer ou confundir.
+Seguir rio abaixo pode levar a quedas: desista se ficar perigoso.
+Não coma planta ou fruta desconhecida para ganhar tempo.
+Água de rio pode ter germes: ferva ou filtre antes de beber; veja 01-001.
+Não faça fogueira se houver risco de incêndio ou vento forte.
+
+SE NAO TIVER
+------------
+Sem apito, bata palmas três vezes ou grite três vezes seguidas.
+Sem espelho, use qualquer objeto brilhante.
+Sem mapa ou bússola, use o sol, as encostas e as marcas da trilha.
+Sem pano, quebre galhos ou empilhe pedras para marcar o caminho.
+Sem agasalho, abrigue-se entre árvores e isole o corpo do solo com folhas.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você avista uma trilha, estrada, rio conhecido ou construção.
+Você escuta vozes, motores ou o retorno do seu sinal.
+Alguém responde ao seu apito ou aparece uma equipe de busca.
+Você reconhece um ponto do mapa ou da memória.
+
+FONTES
+------
+Serviço Florestal dos Estados Unidos: orientações para quem se perde.
+Divisão de Recursos Naturais da Virgínia Ocidental (WV DNR): sobrevivência.
+Cruz Vermelha americana: sinalização e primeiros socorros na natureza.
+Prática consolidada de busca e resgate: método STOP.
+STOP significa Pare, Pense, Observe, Planeje.

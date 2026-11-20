@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 33-019
+TITULO: Como produzir alimentos em ambientes urbanos
+CATEGORIA: 33 - Agricultura avançada e autossuficiência rural
+TEMPO: 120 minutos
+RISCO: alto
+EXIGE: recipientes com drenagem, terra limpa, agua limpa, sementes, luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: horta urbana, vaso, terra limpa, contaminacao, colheita
+==============================================================================
+
+OBJETIVO
+--------
+Produzir alimentos em quintal, varanda ou laje sem usar terra nem água
+contaminados.
+
+QUANDO USAR
+-----------
+Quando faltam alimentos frescos ou dinheiro para comprá-los na cidade.
+Quando o abastecimento de alimentos estiver interrompido.
+Quando houver quintal, varanda, janela ou laje com luz solar.
+Quando se quiser verduras e temperos próximos da cozinha.
+
+NAO USE QUANDO
+--------------
+Quando a terra disponível ficar junto a indústria, lixão, posto de
+combustível, ferrovia ou via com tráfego intenso. Não cultive nessa
+terra: substitua-a por terra limpa.
+Quando só houver água de esgoto, enxurrada ou água cinza com sabão.
+Não use essa água nas plantas comestíveis.
+
+MATERIAIS
+---------
+- Vasos, baldes, caixas ou sacos de tecido com furos no fundo.
+- Pedras ou cascalho para o fundo do recipiente.
+- Terra ou composto de origem conhecida e limpa (terra de hortaliça;
+  composto caseiro bem curtido).
+- Sementes ou mudas de origem conhecida.
+- Água limpa, própria para beber (para tratar, veja 01-001).
+- Luvas, pano limpo e balde para lavar a colheita.
+
+PROCEDIMENTO
+------------
+1. Observe o local durante um dia e marque onde bate sol direto.
+2. Escolha o ponto mais ensolarado, com aproximadamente 6 horas de sol.
+3. Afasta vasos e canteiros de lixeiras, sarjetas e muros úmidos.
+4. Não plante direto na terra do quintal se desconhecer a origem dela.
+5. Coloque os recipientes sobre tela, pedras ou base separada do solo.
+6. Forre o fundo com pedras e coloque terra limpa até perto da borda.
+7. Enterre as sementes conforme a instrução da embalagem ou do viveiro.
+8. Regue com água limpa logo após o plantio e pela manhã, depois.
+9. Não deixe água parada em pratos ou baldes: cria focos de mosquito.
+10. Arraste as ervas daninhas à mão, sem virar a terra.
+11. Colha com as mãos limpas e lave com água limpa antes de comer.
+12. Cozinhe a colheita se houver dúvida sobre a água usada na rega.
+
+ATENCAO
+-------
+Terra urbana pode conter chumbo, arsênio e cádmio. Esses metais não
+saem na lavagem e causam intoxicação ao longo do tempo. Por isso,
+nunca use terra de beira de estrada, de terreno industrial ou de
+lixão em vasos de comestíveis.
+Água de esgoto, enxurrada ou água cinza com sabão transmite doenças
+mesmo depois da colheita. Use só água limpa na rega e na lavagem.
+Esterco fresco e composto cru podem contaminar folhas e frutos. Use
+apenas composto bem curtido, escuro e sem cheiro de fezes.
+Em lajes, confira se a estrutura aguenta o peso da terra molhada. Em
+dúvida, cultive no chão em vasos leves.
+Poeira e fumaça de rua sujam as folhas. Lave sempre antes de comer.
+Se aparecerem folhas com cheiro estranho, manchas escuras ou mofo,
+jogue fora. Não coma nada duvidoso para não desperdiçar.
+
+SE NAO TIVER
+------------
+Sem terra limpa, use sacos de tecido ou garrafas cortadas cheias de
+composto curtido. Não use terra de vaso de planta ornamental velha,
+pois pode ter recebido agrotóxico.
+Sem vasos, use baldes ou caixas com furos feitos a quente. Não use
+recipiente que tenha guardado combustível, tinta ou veneno.
+Sem água limpa suficiente, reduza o número de plantas e priorize
+temperos e folhas de colheita rápida. Não regue com água duvidosa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As plantas brotam, ficam verdes e crescem sem manchas escuras.
+A terra dos vasos fica úmida após a rega e escoa pelos furos.
+A colheita sai limpa, sem cheiro estranho, e foi lavada com água limpa.
+Não há água parada, mofo ou cheiro de esgoto no local.
+
+FONTES
+------
+Orientações da OMS sobre saúde urbana e sobre segurança de alimentos
+(fact sheet "Urban health", 2025; "Food safety", 2026). As etapas de
+cultivo em recipientes, uso de composto curtido e higiene da colheita
+são práticas consolidadas de horticultura urbana, sem documento único.
+Para tratar a água de rega, veja 01-001.

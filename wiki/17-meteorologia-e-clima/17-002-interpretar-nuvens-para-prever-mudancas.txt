@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 17-002
+TITULO: Como interpretar nuvens para prever mudanças climáticas
+CATEGORIA: 17 - Meteorologia, clima e meio ambiente
+TEMPO: 20 minutos
+RISCO: alto
+EXIGE: vista livre do céu, caderno, lápis, mão para medir tamanho aparente
+REVISAO: 2026-11
+PALAVRAS-CHAVE: nuvens, tempo, previsão, cúmulo, bigorna, chuva, tempestade
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer as formas das nuvens e antecipar mudanças no tempo.
+
+QUANDO USAR
+-----------
+Antes de sair de casa, para decidir se leva abrigo ou proteção.
+Antes de secar roupa, guardar alimentos ou preparar transporte.
+Quando o céu muda depressa e não há rádio ou previsão oficial.
+Ao planejar caminhada, coleta de água ou trabalho ao ar livre.
+Para acompanhar a aproximação de uma tempestade sem alerta.
+
+NAO USE QUANDO
+--------------
+Para prever tempo de semanas, meses ou anos: nuvens não servem para isso.
+Para substituir aviso oficial de chuva forte, vento ou enchente.
+Quando houver risco de raio, granizo ou vento forte: saia do local.
+Quando o céu estiver encoberto, com névoa, fumaça ou chuva: a leitura falha.
+
+MATERIAIS
+---------
+- Vista livre do céu, sem prédios ou árvores que bloqueiem o horizonte.
+- Caderno e lápis (papel e carvão ou pedra).
+- Mão aberta, punho e polegar como referência de tamanho aparente.
+- Relógio, sombra ou horário conhecido para medir o intervalo.
+
+PROCEDIMENTO
+------------
+1. Escolha um ponto com vista livre para o horizonte.
+2. Fique de costas ao sol para não ofuscar a visão.
+3. Olhe primeiro as nuvens mais altas: filamentos brancos ou véu leitoso.
+4. Anote "alto" se o sol ficar com um anel claro ao redor.
+5. Olhe a camada média: manchas ou rolos cinza que não fazem sombra no chão.
+6. Anote "médio" se o sol aparecer como ponto difuso atrás da camada.
+7. Olhe a camada baixa: camada cinza que toca o horizonte.
+8. Anote "baixo" se não houver contornos de algodão.
+9. Procure nuvens isoladas, brancas, com base plana e escura.
+10. Compare o tamanho aparente com o polegar e com a mão aberta.
+11. Anote "cúmulo" se a nuvem for isolada e tiver bordas nítidas.
+12. Anote "torre" se o topo crescer como couve-flor ou chaminé.
+13. Anote "bigorna" se o topo ficar achatado e se espalhar.
+14. Anote "chuva contínua" se a camada escura cobrir o sol.
+15. Anote a direção em que as nuvens se deslocam.
+16. Repita a observação após aproximadamente 30 minutos.
+17. Compare o registro novo com o anterior.
+18. Anote "crescendo" se as torres aumentarem ou a camada baixa descer.
+19. Anote "enfraquecendo" se as bordas se desfizerem.
+20. Leia o sinal: cúmulos pequenos e isolados indicam tempo aberto.
+21. Leia o sinal: torre em crescimento indica chuva forte no mesmo dia.
+22. Leia o sinal: bigorna indica tempestade com raio; pare a atividade.
+23. Leia o sinal: camada escura e contínua indica chuva prolongada.
+24. Leia o sinal: véu alto com anel claro indica mudança no dia seguinte.
+25. Se houver torre, bigorna ou escurecimento, interrompa e procure abrigo.
+
+ATENCAO
+-------
+Nuvens indicam tendência de horas, não mudança climática de longo prazo.
+Nenhuma leitura substitui aviso oficial de chuva forte, vento ou enchente.
+Nuvem baixa e escura pode significar apenas céu encoberto, sem chuva.
+Torre que cresce depressa pode trazer raio, granizo e vento forte.
+Não fique em campo aberto, na água ou em baixada se o céu escurecer.
+Não olhe diretamente para o sol, mesmo com véu ou nuvem fina.
+Não suba em árvore, telhado ou poste para observar o céu.
+Se o céu mudar mais depressa que o registro, siga o aviso oficial.
+
+SE NAO TIVER
+------------
+Sem relógio, use a sombra ou o horário conhecido para medir o intervalo.
+Sem caderno, memorize a ordem: alto, médio, baixo, torre, bigorna.
+Sem vista livre, use a fenda entre prédios, mas reduza a confiança.
+Sem condição de observar, não invente leitura: procure previsão oficial.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O registro mostra a ordem das camadas e o tamanho aparente das nuvens.
+Dois registros com intervalo aproximado de 30 minutos permitem comparar.
+A leitura escolhida corresponde a uma forma vista, não a um palpite.
+A decisão de parar foi tomada antes de o céu escurecer por completo.
+
+FONTES
+------
+Atlas Internacional de Nuvens da Organização Meteorológica Mundial (2017).
+Guia de identificação e descrições dos gêneros cúmulo, cúmulo-nimbo,
+nimbo-estrato, alto-estrato, estrato-cúmulo, cirro e cirro-estrato do atlas.
+JetStream, escola online de meteorologia da NOAA e do Serviço Nacional
+Meteorológico dos EUA: classificação das nuvens.
+Prática consolidada de observação visual do tempo, sem documento único.

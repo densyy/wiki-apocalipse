@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 01-043
+TITULO: Como higienizar recipientes de armazenamento
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 15 minutos
+RISCO: alto
+EXIGE: água sanitária 2,0% ou 2,5%, escova macia, sabão, água tratada
+REVISAO: 2026-11
+PALAVRAS-CHAVE: higienizar, recipiente, água, cloro, balde, galão, tampa
+==============================================================================
+
+OBJETIVO
+--------
+Prepare um recipiente limpo e seguro para guardar água de beber.
+
+QUANDO USAR
+-----------
+Antes de guardar água tratada em balde, galão, garrafa ou bombona.
+Depois de enchente, quando o recipiente recebeu lama ou água suja.
+Quando o recipiente ficou parado sem tampa ou apareceu sujeira dentro.
+Ao trocar a água guardada, mesmo que ela pareça limpa.
+A cada seis meses para caixas-d'água e cisternas.
+
+NAO USE QUANDO
+--------------
+Não use recipiente que já guardou tinta, combustível ou agrotóxico: o
+resíduo passa para a água mesmo depois da lavagem. Não use produto com
+perfume, corante, alvejante ou outro ativo além de hipoclorito de sódio.
+
+MATERIAIS
+---------
+- Balde, galão, bombona ou garrafa com boca estreita e tampa.
+- Escova ou esponja macia, nunca de aço.
+- Sabão ou detergente sem perfume.
+- Água sanitária 2,0% ou 2,5% sem aditivos (hipoclorito a 2,5%).
+- Medidor de 1 mL, pano limpo, etiqueta e caneta.
+- Água limpa, filtrada ou tratada, para a solução e o enxágue.
+
+PROCEDIMENTO
+------------
+1. Esvazie o recipiente e descarte toda a água velha.
+2. Lave por dentro e por fora com água, sabão e a escova macia.
+3. Esfregue a boca, a tampa e as frestas onde a sujeira se prende.
+4. Enxágue até sair todo o sabão.
+5. Misture 1 mL de água sanitária a 2,0% ou 2,5% em 1 litro de água
+   limpa, filtrada ou tratada.
+6. Despeje a solução no recipiente e tampe.
+7. Agite para molhar paredes, fundo, boca e tampa.
+8. Deixe a solução agir por 30 minutos com o recipiente tampado.
+9. Descarte a solução em lugar seguro, longe de alimentos.
+10. Enxágue bem com água limpa, filtrada ou tratada, sem sabão.
+11. Deixe secar ao ar, com a boca virada para baixo.
+12. Encha com água já filtrada e desinfetada, sem tocar o interior.
+13. Tampe e escreva "água para beber" e a data no recipiente.
+14. Guarde em lugar limpo, fresco, sem sol direto e longe de animais.
+
+ATENCAO
+-------
+Nunca misture água sanitária com vinagre, amônia ou outros produtos:
+a mistura libera gás tóxico. Use luvas e mantenha o lugar ventilado.
+Não inale o produto concentrado nem deixe respingar nos olhos.
+As fontes divergem sobre a dose. O Ministério da Saúde (2026) orienta
+1 mL de água sanitária a 2,0% ou 2,5% por 1 litro, por 30 minutos.
+Cartilhas antigas do MS e da Funasa orientam 2 colheres de sopa por litro.
+O CDC orienta 5 mL de alvejante a 5%-9% por litro, por 30 segundos.
+Siga o rótulo do produto; na dúvida, use a orientação brasileira.
+Higienizar não trata água bruta: filtre e desinfete antes de guardar.
+Com odor forte de cloro depois do enxágue, lave de novo com água tratada.
+Não use recipiente rachado, enferrujado ou sem tampa. Com ardência nos
+olhos ou falta de ar, vá para o ar livre e busque ajuda.
+
+SE NAO TIVER
+------------
+Sem água sanitária, lave com sabão e enxágue bem: tira sujeira, mas
+não desinfeta o recipiente.
+Sem medidor de 1 mL, use o medidor do rótulo; não improvise a dose.
+Sem água sanitária sem aditivos, use hipoclorito de sódio a 2,5%.
+Sem tampa, prenda um prato ou pires limpo com pano limpo por enquanto.
+Sem água tratada para enxaguar, ferve a água, esfrie e então enxágue.
+Sem condição de desinfetar, não guarde: trate e beba na hora.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O recipiente está sem sabão, sem cheiro forte de produto e seco ao ar.
+A solução de cloro molhou todas as paredes antes de ser descartada.
+A água guardada está límpida, sem sujeira visível nem insetos.
+O recipiente está tampado, identificado e fora do sol.
+
+FONTES
+------
+Ministério da Saúde do Brasil, "Água tratada em casa" (2026):
+higienização, 1 mL de água sanitária por litro, 30 minutos de contato
+e enxágue com água tratada.
+Ministério da Saúde, "Qualidade da água para consumo humano" (2024):
+limpeza de utensílios, 2 colheres de sopa por litro e uso exclusivo.
+Funasa, Protocolo de atuação em desastres (2018), nota 5: recipientes.
+CDC, orientações sobre armazenamento seguro de água (2024): lavagem,
+desinfecção, secagem ao ar, tampa e identificação do recipiente.
+Prática consolidada de saneamento de emergência; resumo operacional,
+não substitui treinamento.

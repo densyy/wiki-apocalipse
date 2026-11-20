@@ -1,0 +1,93 @@
+==============================================================================
+CODIGO: 69-025
+TITULO: Como montar um estoque essencial de componentes eletrônicos
+CATEGORIA: 69 - Eletrônica analógica e componentes discretos
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: caixas com divisórias, sacos antiestáticos, etiquetas, multímetro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: estoque, peças, resistores, capacitores, antiestático
+==============================================================================
+
+OBJETIVO
+--------
+Ter peças básicas identificadas e protegidas, prontas para reparar
+circuitos simples sem depender de loja ou internet.
+
+QUANDO USAR
+-----------
+- Quando os aparelhos da casa têm peças que podem falhar.
+- Quando não houver loja ou internet por perto.
+- Antes de um período de isolamento ou viagem longa.
+- Quando vários aparelhos usam o mesmo tipo de peça.
+- Quando um reparo exige trocar mais de uma peça de uma vez.
+
+NAO USE QUANDO
+--------------
+- Não use este texto para trabalhar em rede elétrica energizada.
+- Não estoque peças sem identificação e espere adivinhar o valor depois.
+- Não guarde componentes junto de baterias, óleo ou líquidos corrosivos.
+- Não substitua uma peça por outra "parecida" sem conferir a folha de dados.
+
+MATERIAIS
+---------
+- Caixa com divisórias ou gavetas pequenas.
+- Sacos antiestáticos ou a embalagem original de cada peça.
+- Etiquetas e lápis para identificar cada compartimento.
+- Dessecante (sílica gel) em saquinho.
+- Caderno para anotar o inventário.
+- Multímetro para conferir valores antes de usar.
+
+PROCEDIMENTO
+------------
+1. Levante as peças que seus aparelhos usam, lendo o valor impresso nelas.
+2. Anote no caderno o tipo e o valor de cada peça encontrada.
+3. Comece pelos valores mais comuns: resistores, capacitores, diodos,
+   LEDs, transistores, fusíveis e conectores.
+4. Compre pelo menos duas unidades de cada tipo para reserva.
+5. Confira cada peça com o multímetro antes de guardar.
+6. Coloque cada tipo em saco antiestático ou na embalagem original.
+7. Escreva na etiqueta o tipo, o valor e a quantidade.
+8. Guarde um tipo por divisória e mantenha a caixa tampada.
+9. Coloque dessecante na caixa para reduzir a umidade.
+10. Guarde em local seco, fresco, longe do sol e de plástico comum ou
+    espuma, que geram estática.
+11. Antes de manusear uma peça, toque em metal aterrado para descarregar
+    a estática do corpo.
+12. Atualize o caderno sempre que tirar ou repor uma peça.
+13. Reponha o estoque quando a quantidade de um tipo cair pela metade.
+
+ATENCAO
+-------
+- Descarga estática invisível pode destruir circuito integrado sem marca.
+- A peça pode parecer boa e falhar só depois de algum tempo de uso.
+- Nunca use saco plástico comum ou espuma de isopor: geram estática.
+- Umidade corrói os terminais; ar muito seco aumenta a estática.
+- Capacitores eletrolíticos secam com o tempo, mesmo sem uso; teste antes.
+- Peça de valor errado pode queimar o circuito ou causar curto.
+- Nunca reutilize peça queimada, inchada ou com cheiro estranho.
+
+SE NAO TIVER
+------------
+- Sem saco antiestático, use a embalagem original ou espuma condutiva.
+- Se não houver nenhuma, toque em metal aterrado e guarde em caixa
+  metálica fechada, longe de plástico e espuma.
+- Sem dessecante, mantenha a caixa sempre fechada e troque o ar de vez
+  em quando, em dia seco.
+- Sem etiqueta, escreva numa tira de papel e coloque junto à peça.
+- Sem multímetro, confie só na marcação impressa; na dúvida, não use.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- Cada tipo tem seu lugar e a peça é encontrada em poucos segundos.
+- A lista do caderno confere com a quantidade real na caixa.
+- O multímetro mede valores dentro da tolerância marcada na peça.
+- Não há peças soltas, sem identificação ou com terminais corroídos.
+
+FONTES
+------
+- EOS/ESD Association: normas ANSI/ESD S20.20 (área protegida) e
+  ANSI/ESD S1.1 (pulseiras), práticas de controle de estática.
+- JEDEC: modelo de corpo humano para sensibilidade de componentes.
+- Armazenagem em saco antiestático e dessecante: prática consolidada
+  de reparo de eletrônica; confirme a folha de dados da peça.

@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 04-056
+TITULO: Como construir um dínamo de bicicleta
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: bicicleta, ímã forte, fio esmaltado, LED, diodos, capacitor
+REVISAO: 2026-11
+PALAVRAS-CHAVE: dínamo, bicicleta, gerador, ímã, bobina, led, luz, corrente
+==============================================================================
+OBJETIVO
+=========
+Ao terminar, a pessoa tem um gerador na roda que acende um LED ao pedalar.
+QUANDO USAR
+===========
+- Quando não há pilhas para a luz da bicicleta.
+- Para acender uma luz de emergência ao pedalar à noite.
+- Para testar geração de energia com ímã e bobina.
+NAO USE QUANDO
+==============
+- Não ligue o dínamo à rede elétrica ou à bateria de um carro.
+- Não use se o ímã ou o fio puder prender na roda.
+- Não use perto de marca-passo ou cartão magnético.
+MATERIAIS
+=========
+- 1 ímã de neodímio, que mantém o magnetismo sem corrente.
+- Fio de cobre esmaltado (isolado) de 0,3 a 0,8 mm.
+- LED de 5 mm (luz de baixo consumo) e resistor de 100 a 330 ohms.
+- 2 diodos retificadores (passam corrente em um sentido só) 1N4007.
+- 1 capacitor (guarda carga) de 470 microfarads, 16 V.
+- Fita forte, arame, abraçadeiras, lixa fina e multímetro.
+PROCEDIMENTO
+============
+1. Enrole o fio esmaltado em um prego de ferro, de 200 a 500 voltas.
+2. Deixe duas pontas livres de aproximadamente 10 cm cada uma.
+3. Lixe as pontas até o cobre brilhar, para remover o esmalte.
+4. Confira com o multímetro se as duas pontas têm continuidade.
+5. Prenda a bobina no garfo com abraçadeiras, sem deixar ela girar.
+6. Deixe a bobina a aproximadamente 2 a 5 mm de um raio em movimento.
+7. Prenda o ímã no raio com fita e arame, com a face virada à bobina.
+8. Gire a roda e confirme que o ímã passa rente, sem tocar na bobina.
+9. Ligue uma ponta da bobina à perna longa do LED (positivo).
+10. Ligue a outra ponta à perna curta, com o resistor em série.
+11. Gire a roda suspensa e veja o LED piscar: é corrente alternada.
+12. Interponha os diodos entre a bobina e o LED para luz contínua.
+13. Ligue o capacitor em paralelo ao LED e prenda os fios.
+ATENCAO
+=======
+- Nunca ligue os fios à tomada, à rede ou à bateria de um carro.
+- Ímãs de neodímio pinçam dedos e lascam; mantenha longe de cartões.
+- LED e capacitor queimam se a polaridade for trocada ou a tensão subir.
+- Fio solto pode enroscar no pneu e derrubar o ciclista; pare e revise.
+SE NAO TIVER
+============
+- Sem ímã forte: use o motor de um brinquedo como gerador.
+- Sem fio esmaltado: use fio comum e isole as camadas com papel.
+- Sem diodos: aceite a luz intermitente ao pedalar.
+- Sem capacitor: a luz apaga ao parar, e isso é normal.
+COMO SABER QUE DEU CERTO
+========================
+- O LED acende ou pisca quando a roda gira e apaga quando para.
+- No multímetro, a tensão sobe com a velocidade, cerca de 1 a 6 V.
+- LED e capacitor não esquentam nem cheiram a queimado.
+- Nenhum fio ou ímã toca pneu, raios ou freio.
+FONTES
+======
+- Lei de Faraday sobre indução eletromagnética, em livros de física.
+- Prática consolidada de dínamos de bicicleta e luzes com ímã no raio.
+- Nenhum documento único; valores de tensão e tempo aproximados.

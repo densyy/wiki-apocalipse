@@ -1,0 +1,81 @@
+==============================================================================
+CODIGO: 59-006
+TITULO: Como utilizar equipamentos de proteção individual
+CATEGORIA: 59 - Segurança industrial e riscos ocupacionais
+TEMPO: 15 minutos
+RISCO: alto
+EXIGE: equipamento adequado ao risco, treinamento básico de segurança
+REVISAO: 2026-11
+PALAVRAS-CHAVE: epi, proteção individual, capacete, luvas, óculos, máscara
+==============================================================================
+
+OBJETIVO
+--------
+Ajustar e usar corretamente cada equipamento de proteção antes de trabalhar.
+
+QUANDO USAR
+-----------
+Ao entrar em obra, oficina, indústria ou área de manutenção.
+Ao manusear químicos, solventes, poeira ou respingos.
+Ao trabalhar em altura, com máquinas ou com ruído forte.
+Quando a empresa ou a norma exigir o uso do equipamento.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação para usar EPI em bom estado e adequado ao risco.
+Não use respirador filtrante onde faltar oxigênio ou houver gases.
+
+MATERIAIS
+---------
+- Capacete com casca íntegra e cinta que ajuste sob o queixo.
+- Óculos ou protetor facial (contra partículas e respingos).
+- Luvas próprias para o risco (nitrilo para químico, couro para corte).
+- Respirador com filtro adequado (contra poeira, vapor ou fumos).
+- Protetor de ouvidos e calçado de segurança quando o risco pedir.
+- Roupas justas, sem mangas ou pontas que possam prender.
+
+PROCEDIMENTO
+------------
+1. Identifique o risco da tarefa antes de escolher o equipamento.
+2. Escolha o EPI indicado para cada risco: impacto, químico, corte, ruído.
+3. Confira validade e integridade de cada peça antes de vestir.
+4. Descarte casca rachada, cinta rompida, filtro vencido ou luva furada.
+5. Coloque o capacete e prenda a cinta firmemente sob o queixo.
+6. Ajuste os óculos ou o protetor até fechar as laterais.
+7. Calce as luvas com as mãos limpas e secas, sem deixar dobras.
+8. Ajuste o respirador apoiando a máscara no nariz e no queixo.
+9. Faça a prova de vedação: tape o filtro, inspire e expire fundo.
+10. Se entrar ar pela borda, reaplique e repita a prova.
+11. Coloque o protetor de ouvidos antes de ligar a máquina ruidosa.
+12. Peça a outra pessoa que confira o ajuste antes de começar.
+13. Retire o EPI ao terminar, sem tocar na parte suja ou contaminada.
+14. Limpe as peças, separe as danificadas e guarde em local seco.
+
+ATENCAO
+-------
+EPI protege apenas se o risco foi identificado e o ajuste estiver correto.
+Óculos comuns não substituem protetor contra respingos químicos.
+Luva inadequada dissolve, rasga ou deixa o produto atravessar.
+Filtro vencido ou fora do lugar não retém vapores nem poeira fina.
+Barba ou cabelo entre a face e a máscara quebra a vedação.
+Se sentir irritação, tontura ou ardor, pare e saia da área.
+Nunca reutilize descartável contaminado; troque conforme a empresa.
+Procure o encarregado de segurança se o equipamento não vedar.
+
+SE NAO TIVER
+------------
+Não improvise com pano, saco ou luva de uso doméstico: não protegem.
+Se faltar o EPI correto, suspenda a tarefa e peça substituto.
+Para químico, só use luvas e filtros compatíveis com o produto.
+Trabalhar sem proteção não é atalho aceitável.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada peça está ajustada, sem folga, e a prova de vedação passou.
+O capacete não balança, os óculos não embaçam e a luva não escorrega.
+
+FONTES
+------
+Prática consolidada de segurança do trabalho e NR-6 (Ministério do Trabalho
+e Emprego, Brasil). Este texto é resumo operacional e não substitui
+treinamento nem a avaliação do encarregado de segurança.

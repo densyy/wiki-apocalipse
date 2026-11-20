@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 52-014
+TITULO: Como compreender o funcionamento de roldanas
+CATEGORIA: 52 - Física aplicada e princípios fundamentais
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: roldana, polia, talha, corda, vantagem, carga, bloco
+==============================================================================
+
+OBJETIVO
+--------
+Entender como a roldana reduz o esforço para levantar uma carga.
+
+QUANDO USAR
+-----------
+Quando escolher entre roldana fixa, móvel e bloco e talha.
+Quando precisa levantar carga pesada com força pequena.
+
+NAO USE QUANDO
+--------------
+Não há contraindicacao para compreender o princípio.
+Não use este texto para armar talha ou içar carga sem treinamento.
+
+MATERIAIS
+---------
+- Nenhum material obrigatório; papel e lápis são opcionais.
+
+PROCEDIMENTO
+------------
+1. Defina roldana: roda com sulco que gira no eixo e guia uma corda.
+2. Declare a ideia: a roldana não cria energia, troca força por distância.
+3. Reconheça a fixa: o eixo fica preso ao suporte e a roda só gira.
+4. Entenda a fixa: muda a direção do esforço, não reduz a força; vantagem 1.
+5. Reconheça a móvel: o eixo prende-se à carga e sobe junto com ela.
+6. Observe a sustentação: a corda passa sob a móvel e puxa em dois trechos.
+7. Declare a regra: em corda leve, a tensão é igual em todo o trecho.
+8. Some as forças: dois trechos puxam, cada um sustenta metade do peso.
+9. Escreva a vantagem: na móvel o esforço é cerca da metade; vantagem 2.
+10. Conte os trechos: na talha, a vantagem é o número de trechos da carga.
+11. Exemplifique: quatro trechos dão vantagem 4 e esforço de um quarto.
+12. Relacione a distância: com vantagem 4, subir 1 metro exige puxar 4.
+13. Desconte perdas: atrito no eixo e peso da corda reduzem a vantagem.
+
+ATENCAO
+-------
+Entender o princípio não autoriza armar talha improvisada.
+Nunca içe pessoa com material comum: use equipamento classificado.
+A vantagem real é menor: atrito no eixo e peso da corda consomem força.
+Corda sob tensão que rompe pode ferir; fique fora do caminho da corda.
+
+SE NAO TIVER
+------------
+Sem papel, desenhe a corda mentalmente.
+Sem corda, observe a roldana de um poço ou de um guindaste.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue dizer que a fixa só muda a direção do esforço.
+Você consegue contar os trechos e prever a distância puxada.
+
+FONTES
+------
+Prática consolidada de mecânica elementar sobre máquinas simples.
+Referências de base: manual Basic Machines da Marinha dos EUA
+(NAVEDTRA 14037), Handbook of Rigging da McGraw-Hill e o livro
+Theory of Machines and Mechanisms, Oxford University Press.
+Conceito conferido na enciclopédia Britannica.
+Resumo operacional, não substitui treinamento.

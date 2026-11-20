@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 79-009
+TITULO: Como realizar drenagem de construções subterrâneas
+CATEGORIA: 79 - Sobrevivência subterrânea
+TEMPO: 420 minutos
+RISCO: medio
+EXIGE: pá, cascalho, pedra, tubos ou galhos, valetas, nível
+REVISAO: 2026-11
+PALAVRAS-CHAVE: drenagem, valeta, adega, umidade, ralo, cascalho
+==============================================================================
+
+OBJETIVO
+---------
+Conduzir a água para longe de paredes, piso e teto enterrados,
+evitando alagamentos e umidade permanente.
+
+QUANDO USAR
+-----------
+Ao construir adega, abrigo ou porão enterrado, desde o início.
+Quando aparece água no piso ou nas juntas após a chuva.
+Antes da estação chuvosa, para limpar valetas e drenos.
+Quando o solo ao redor fica encharcado por vários dias.
+
+NAO USE QUANDO
+--------------
+Não descarte a água para dentro de poço, nascente ou terreno
+que já alaga. Não abra valeta que passe sob fundação sem
+reforço. Não drene para área de cultivo que não suporte o
+volume extra de água.
+
+MATERIAIS
+---------
+- Pá, picareta, enxada e carriola.
+- Cascalho, pedra miúda e pedras maiores.
+- Tubos de drenagem, manilha ou galhos ocos como alternativa.
+- Tela ou pano para envolver o cascalho e evitar entupimento.
+- Nível de bolha, cordão e estacas para dar inclinação.
+- Balde para testar o escoamento com água.
+
+PROCEDIMENTO
+------------
+1. Observe o terreno nas duas primeiras chuvas e veja para onde
+   a água corre naturalmente.
+2. Marque o ponto mais alto da construção e o destino final
+   da água.
+3. Escave valeta externa acima da entrada e ao redor do teto.
+4. Dê inclinação contínua de cerca de 2 cm por metro na
+   valeta.
+5. Forre o fundo da valeta com cascalho e pedra miúda.
+6. Envolva o cascalho com tela ou pano para não colmatar.
+7. Coloque tubo ou galho perfurado no fundo, se a valeta for
+   coberta.
+8. Cubra com pedra maior e depois com terra de volta.
+9. Faça dreno sob o piso: camada de cascalho ligada à valeta.
+10. Direcione essa camada para um ralo ou saída mais baixa.
+11. Vede a junção entre piso e parede para a água não entrar
+   por ali.
+12. Proteja a saída do dreno com grade contra ratos e folhas.
+13. Escolha destino seguro: vala aberta, área de captação ou
+   dreno natural distante da fundação.
+14. Descarte a água longe da edificação e de poços de água.
+15. Regue a valeta com balde e veja se a água escoa sem parar.
+16. Limpe folhas e lama da valeta a cada chuva forte.
+17. Confira o nível do piso e a inclinação uma vez por mês.
+
+ATENCAO
+-------
+Valeta sem inclinação vira poço e piora o problema.
+Dreno entupido acumula água sem sinal visível até alagar.
+Terra argilosa explode se receber muita água de uma vez.
+Nunca jogue água suja ou esgoto na valeta de drenagem.
+Se a água entrar com força sob a parede, pare e reforce:
+a drenagem pode estar levantando a fundação.
+Em encosta, valeta mal feita aumenta o deslizamento.
+Não cubra o dreno antes de testar o escoamento com água.
+
+SE NAO TIVER
+------------
+Sem tubo, use galhos ocos ou pedras empilhadas como dreno.
+Sem cascalho, use pedra miúda e aumente a inclinação da valeta.
+Sem tela, use pano resistente ou palha entre a terra e a pedra.
+Sem nível, use régua de madeira e cordão esticado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água da chuva escoa pela valeta e não para ao redor.
+O piso seca em poucas horas após a chuva.
+Não há manchas de umidade subindo nas paredes.
+A grade da saída está livre de folhas e lama.
+
+FONTES
+------
+Prática de drenagem de obras rurais e construções enterradas,
+derivada de manuais de drenagem do DNIT e da Embrapa e de
+técnicas tradicionais de valetas e drenos de cascalho.
+As inclinações indicadas são aproximadas e variam com o solo.

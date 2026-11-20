@@ -1,0 +1,93 @@
+==============================================================================
+CODIGO: 17-007
+TITULO: Como construir um anemômetro
+CATEGORIA: 17 - Meteorologia, clima e meio ambiente
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: 3 copos leves, hastes, eixo giratório, mastro, fita de marca
+REVISAO: 2026-11
+PALAVRAS-CHAVE: vento, anemômetro, medidor de vento, copos, girar, mastro
+==============================================================================
+
+OBJETIVO
+--------
+Montar indicador de copos que gira e mostra se o vento ficou mais forte.
+
+QUANDO USAR
+-----------
+Quando quiser saber se o vento aumentou ou diminuiu em relação a antes.
+Para comparar o vento de dois horários no mesmo lugar.
+Para acompanhar a chegada de uma frente de vento na região.
+Para escolher onde pendurar roupa ou proteger um plantio do vento.
+
+NAO USE QUANDO
+--------------
+Para dizer a velocidade em m/s ou km/h: sem calibração o número falha.
+Para decidir se é seguro navegar, voar ou trabalhar perto de fios.
+Em tempestade com raios, ou com gelo e chuva forte no eixo.
+Perto de fios elétricos, torres ou muros que desviam o vento.
+
+MATERIAIS
+---------
+- 3 copos pequenos e leves de plástico (ou meias cascas de coco).
+- 3 hastes iguais de aproximadamente 15 cm (palito ou arame).
+- 1 eixo vertical com arruela ou rolamento (prego com arruela, agulha).
+- 1 suporte fixo de madeira (mastro ou tripé).
+- 1 fita colorida para marcar um copo.
+- 1 cronômetro (relógio com segundos).
+- Fita adesiva ou arame para prender as peças.
+
+PROCEDIMENTO
+------------
+1. Escolha três copos iguais e leves, com a boca voltada ao giro.
+2. Faça um furo no centro do fundo de cada copo, do diâmetro da haste.
+3. Corte três hastes iguais de aproximadamente 15 cm.
+4. Prenda um copo na ponta de cada haste, com a boca voltada ao giro.
+5. Fixe as três hastes no eixo em ângulos iguais, formando uma estrela.
+6. Encaixe o eixo no suporte com arruela, deixando girar livre.
+7. Gire o conjunto com a mão e retire o que esfregar ou travar.
+8. Amarre a fita colorida em um dos copos para contar as voltas.
+9. Monte em local aberto, longe de prédios, árvores, muros e fios.
+10. Prenda o eixo a aproximadamente 1,5 m do solo, na altura dos olhos.
+11. Conte as voltas do copo marcado durante 1 minuto no cronômetro.
+12. Repita a contagem em outro horário e anote os dois números.
+13. Compare: mais voltas no mesmo minuto indicam vento mais forte.
+
+ATENCAO
+-------
+- Nunca use suporte metálico perto de fio energizado: o choque mata.
+- Não suba no mastro: queda de 2 m já causa lesão grave. Monte no chão
+  e peça ajuda para erguer.
+- O aparelho não mede m/s: a rotação muda com copos, hastes e atrito.
+  Sem instrumento calibrado, as voltas só comparam momentos.
+- Não use para navegação, voo, subida em torre ou trabalho com fios.
+- Chuva, gelo e poeira aumentam o atrito e travam o eixo. Limpe e seque
+  antes de cada contagem.
+- Rajadas enganam: conte o minuto inteiro e repita a contagem.
+- Em estações meteorológicas o vento é medido a 10 m do solo; a 1,5 m
+  a leitura é diferente e não é comparável.
+
+SE NAO TIVER
+------------
+- Sem rolamento, use prego com arruela. O atrito esconde vento fraco.
+- Sem copos, use metades de cascas iguais ou cones de papel leve.
+- Sem mastro, prenda o eixo em poste de madeira ou tripé. Nunca use
+  tubo metálico perto de fios.
+- Sem cronômetro, conte 60 batimentos como aproximado.
+- Sem material, prenda fita no poste: mostra direção e vento mais forte.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- O conjunto gira com um sopro leve da boca e para quando o vento cessa.
+- O eixo não range, não esfrega e não fica preso em nenhuma posição.
+- Em 1 minuto o copo marcado completa voltas contáveis.
+- A contagem repete com vento similar e muda em dias mais ventosos.
+
+FONTES
+------
+- INMET, Sobre Meteorologia, Instrumentos Meteorológicos: anemômetro
+  mede a velocidade em m/s e, em alguns tipos, a direção em graus.
+- Glossário do National Weather Service (NOAA): mede a velocidade do vento.
+- JetStream, escola online de meteorologia do National Weather Service.
+- Prática consolidada: a rotação depende das dimensões, então m/s exige
+  calibração com instrumento de referência.

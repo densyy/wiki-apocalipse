@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 36-017
+TITULO: Como identificar depósitos de calcário
+CATEGORIA: 36 - Geologia, mineração e recursos naturais
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: botas firmes, luvas, lupa, caderno, ácido clorídrico diluído
+REVISAO: 2026-11
+PALAVRAS-CHAVE: calcário, calcita, rocha, ácido, carste, pedra, cal
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer no terreno sinais de calcário e confirmar a rocha com testes
+simples, sem entrar em áreas perigosas.
+
+QUANDO USAR
+-----------
+Ao encontrar rocha clara e cristalina em corte de estrada ou barranco.
+Ao notar sumidouros, nascentes ou terreno irregular de carste.
+Ao procurar cal ou material de construção perto do abrigo.
+Ao documentar um achado para mostrar depois a um geólogo.
+
+NAO USE QUANDO
+--------------
+Dentro de gruta, poço, sumidouro ou pedreira abandonada: nunca entre.
+Em área cercada, com placa de risco ou propriedade sem autorização.
+Se houver cheiro de gás, ar viciado ou solo que cede sob os pés.
+Sem proteção para os olhos, não faça o teste com ácido.
+
+MATERIAIS
+---------
+- Botas com sola firme e cano alto.
+- Luvas grossas de couro ou borracha.
+- Lupa de bolso (lente de aumento comum).
+- Escova de cerdas duras (pano seco).
+- Faca de aço e moeda de cobre.
+- Placa de porcelana fosca (verso de ladrilho fosco).
+- Frasco pequeno com ácido clorídrico diluído (vinagre, mais fraco).
+- Caderno e lápis.
+
+PROCEDIMENTO
+------------
+1. Vista botas e luvas antes de sair do abrigo.
+2. Caminhe só por trilhas, cortes de estrada e barrancos estáveis.
+3. Afaste-se da borda de poços, sumidouros e pedreiras.
+4. Procure afloramentos de rocha clara: cinza, branca ou bege.
+5. Observe grãos cristalinos e restos de fósseis na rocha.
+6. Limpe uma face com a escova seca; não molhe nem lave.
+7. Arrane a face com a faca: o calcário risca com facilidade.
+8. Arrane com a moeda de cobre; se entrar, é indício de calcita.
+9. Esfregue na placa e observe o traço, que é branco no calcário.
+10. Pingue uma gota de ácido diluído na face limpa, longe do rosto.
+11. Observe se forma espuma: a efervescência confirma calcita.
+12. Sem ácido, pingue vinagre na face raspada e espere bolhas fracas.
+13. Anote no caderno o local, a cor, a dureza e a reação.
+14. Observe ao redor: sumidouros e nascentes indicam terreno de carste.
+15. Se o solo ceder ou a luz falhar, pare e saia com calma.
+
+ATENCAO
+-------
+Ácido clorídrico diluído queima olhos e pele: use luvas, proteja os olhos
+e lave com água corrente se respingar.
+Nunca prove nem inale pó da rocha; com poeira, cubra o nariz com pano.
+Não entre em grutas, poços ou pedreiras: teto e paredes cedem sem aviso.
+Não se aproxime da borda de poços e buracos de carste: o solo desaba.
+Vinagre é fraco: sem bolhas não quer dizer que não há calcário; a
+efervescência rápida com ácido diluído é o sinal mais confiável.
+Rocha clara e raspável também pode ser gesso ou halita: confirme com o
+ácido antes de decidir.
+Respeite cercas e propriedade; extrair ou vender sem licença é ilegal.
+
+SE NAO TIVER
+------------
+Sem ácido, use vinagre morno na face raspada e espere bolhas fracas.
+Sem vinagre, registre só os indícios visuais e diga que não confirmou.
+Sem lupa, aproxime o olho com boa luz natural.
+Sem placa fosca, use o verso de um ladrilho fosco para o traço.
+Sem faca, pare no teste da moeda e informe dureza apenas até 3.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A face limpa e raspada borbulhou ao receber ácido diluído.
+Você anotou cor clara, traço branco, dureza baixa e reação com ácido.
+Nenhum passo exigiu entrar em gruta, poço ou pedreira.
+
+FONTES
+------
+Prática consolidada de identificação de calcário em campo: teste de
+efervescência com ácido clorídrico diluído e dureza na escala de Mohs.
+Publicações do USGS e do Serviço Geológico do Brasil (CPRM/SGB) sobre
+calcário e carste.
+Manual EENS 2110 da Tulane University (Stephen A. Nelson) para testes de
+dureza e traço.
+Resumo operacional: não substitui treinamento nem licença legal.

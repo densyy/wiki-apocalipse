@@ -1,0 +1,80 @@
+==============================================================================
+CODIGO: 04-044
+TITULO: Como soldar componentes eletrônicos
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: ferro de solda, solda de estanho, local ventilado
+REVISAO: 2026-11
+PALAVRAS-CHAVE: soldar, solda, estanho, ferro de solda, placa, fio
+==============================================================================
+
+OBJETIVO
+--------
+Unir fios e componentes em placa com solda firme e condutiva.
+
+QUANDO USAR
+-----------
+Quando um fio soltou de placa, interruptor ou conector.
+Quando for preciso trocar resistor, capacitor ou led queimado.
+Quando for montar ou reparar cabo, lanterna ou rádio simples.
+Quando um contato falha e mexer no fio resolve por instantes.
+
+NAO USE QUANDO
+--------------
+Em aparelho ligado na tomada, na bateria ou no painel energizado.
+Em placa com bateria de lítio estufada, quente ou vazando.
+Em local com gás, combustível ou poeira inflamável por perto.
+Se as mãos tremem muito ou a vista não alcança o ponto.
+
+MATERIAIS
+---------
+- Ferro de solda de 25 a 40 W com ponta fina.
+- Solda de estanho em fio com fluxo interno (aprox. 1 mm).
+- Suporte para o ferro quente (tijolo ou prato cerâmico).
+- Esponja vegetal úmida ou palha de aço para limpar a ponta.
+- Alicate de corte e alicate de bico (pinça como alternativa).
+- Fita isolante ou tubo termorretrátil para isolar a emenda.
+
+PROCEDIMENTO
+------------
+1. Desligue tudo e retire pilhas, baterias e plugue da tomada.
+2. Trabalhe em mesa firme, ventilada e longe de inflamáveis.
+3. Prenda a placa ou o fio para não se mover durante a solda.
+4. Ligue o ferro e espere aproximadamente 3 minutos aquecer.
+5. Limpe a ponta quente na esponja úmida antes de cada solda.
+6. Encoste a ponta ao mesmo tempo no fio e na trilha da placa.
+7. Encoste o fio de solda na junta, que é o ponto onde o fio toca a trilha.
+8. Deixe escorrer solda até formar um cone brilhante pequeno.
+9. Afaste primeiro o fio de solda e depois o ferro da junta.
+10. Deixe a junta parada até esfriar sem soprar nem mexer.
+11. Corte a sobra do terminal com alicate rente à solda.
+12. Desligue o ferro, guarde no suporte e isole a emenda exposta.
+
+ATENCAO
+-------
+Ferro e solda queimam: a ponta chega a aproximadamente 300 graus.
+Fumaça da solda irrita olhos e pulmão: ventile e não respire em cima.
+Solda com chumbo é tóxica: não coma nem beba soldando e lave as mãos.
+Nunca solde aparelho ligado: choque e curto podem ferir e causar fogo.
+Não segure o fio com os dedos perto da ponta: use alicate ou pinça.
+Junta fria, opaca e granulada trinca e solta: refaça com mais calor.
+Pare se a placa fuma, cheira queimado ou faisca: procure ajuda.
+
+SE NAO TIVER
+------------
+Sem suporte, apoie o ferro quente em tijolo ou cerâmica fria.
+Sem esponja, limpe a ponta em pano de algodão úmido torcido.
+Sem sugador, aqueça a junta e puxe o terminal com pinça.
+Sem solda, torça os fios e isole bem: dura pouco e oxida.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A solda forma cone liso, brilhante e sem bola nem buraco.
+O componente não se move ao puxar de leve com a pinça.
+O aparelho volta a funcionar sem falhar ao mexer no fio.
+
+FONTES
+------
+Prática consolidada de montagem e reparo em eletrônica, sem
+documento único.

@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 08-030
+TITULO: Como forjar ferramentas simples
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 120 minutos
+RISCO: alto
+EXIGE: carvão, fornalha com sopro, bigorna, martelo, pinça, óculos, luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: forjar, ferro, aço, carvão, martelo, bigorna, cinzel, gancho
+==============================================================================
+
+OBJETIVO
+--------
+Forjar com aço sucata um espeto, um cinzel plano e um gancho.
+
+QUANDO USAR
+-----------
+Quando uma ferramenta de metal quebrou e não há substituto.
+Quando falta ponta, gancho ou cinzel no acampamento.
+Quando há sucata de aço, carvão e um martelo.
+
+NAO USE QUANDO
+--------------
+Em recinto fechado sem chaminé: o fogo solta monóxido de carbono.
+Com metal galvanizado, pintado ou de origem desconhecida.
+Sem óculos de proteção, luvas e roupa de fibra natural.
+
+MATERIAIS
+---------
+- Aço macio limpo, sem tinta, zinco ou solda (vergalhão, barra).
+- Carvão vegetal ou coque (não use carvão de churrasco com acendedores).
+- Fornalha rasa de ferro (tambor de freio, tijolo, pedra).
+- Sopro: fole, soprador manual ou tubo ligado a bomba de ar.
+- Bigorna: bloco de aço maciço (trilho de trem, cabeça de marreta).
+- Martelo de 1 a 1,5 kg com cabo de madeira firme.
+- Pinça de ferro para segurar a peça quente.
+- Óculos de proteção com lente resistente a impacto.
+- Luvas grossas de couro, avental e roupa de algodão ou lã.
+- Balde com água, lixa ou pedra para limpar o metal.
+
+PROCEDIMENTO
+------------
+1. Vista roupa de algodão ou lã, óculos, luvas e avental antes de acender.
+2. Monte a fornalha ao ar livre, ou em recinto com chaminé e ventilação.
+3. Ponha carvão na fornalha e acenda sem gasolina ou líquido inflamável.
+4. Sopre por baixo até as brasas ficarem laranja-vivas e sem chama alta.
+5. Limpe o aço com lixa ou pedra; retire tinta, zinco e solda.
+6. Marque na peça a parte que vira ponta, gume ou dobra.
+7. Segure com a pinça e ponha a parte marcada no centro das brasas.
+8. Aqueça até brilhar laranja-claro ou amarelo, aproximadamente 1000 °C.
+9. Não deixe o metal ficar branco: sinal de que está queimando.
+10. Retire da brasa e bata na bigorna com golpes seguidos e controlados.
+11. Gire a peça um quarto de volta a cada três golpes.
+12. Volte ao fogo quando o brilho ficar vermelho-escuro.
+13. Para o espeto, bata só na extremidade quente até afinar em ponta.
+14. Para o cinzel, achate a extremidade quente na bigorna até formar gume.
+15. Para o gancho, aqueça a dobra e curve sobre o canto da bigorna.
+16. Repita aquecer e bater até a peça tomar a forma desejada.
+17. Afastado do fogo, mergulhe a ponta no balde e mova-a de lado a lado.
+18. Mantenha o rosto e o braço fora do caminho do vapor.
+19. Apague as brasas com água ou terra ao terminar.
+20. Confira que não ficou fogo antes de sair do local.
+
+ATENCAO
+-------
+O metal quente esfria sem mudar de forma: encoste nele só com a pinça.
+Cascas de óxido e fagulhas voam: use óculos e afaste quem estiver perto.
+O fogo de carvão solta monóxido de carbono, que não tem cheiro.
+Nunca forje em recinto fechado sem chaminé ou ventilação.
+Metal galvanizado ou pintado solta vapor de zinco: descarte essa peça.
+Não bata em aço vermelho-escuro ou frio: racha e pode estilhaçar.
+Água em metal muito quente gera vapor em explosão.
+Mergulhe de lado, com o braço estendido, longe do corpo.
+Pare se a peça rachar ou escorregar, ou se o fogo sair do controle.
+Apague o fogo e procure ajuda se não conseguir controlar a situação.
+
+SE NAO TIVER
+------------
+Sem bigorna, use trilho de trem ou cabeça de marreta presa num toco.
+Sem pinça, use alicate longo de ferro; nunca segure a peça com a mão.
+Sem carvão vegetal, faça carvão com madeira ou use coque.
+Sem sopro, construa fole de duas tábuas e couro com um tubo de ferro.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A ponta do espeto fica afunilada e sem rachadura depois de fria.
+O gume do cinzel fica plano, sem rebarba que solte na mão.
+O gancho mantém a curva ao esfriar e não abre quando é pressionado.
+
+FONTES
+------
+FM 3-05.70 (FM 21-76) Survival, Exército dos EUA, capítulo 12.
+ABANA, Guia de Segurança de Forja e Práticas de Martelamento.
+Universidade do Arizona, Extensão Cooperativa 4-H, Blacksmithing (2024).
+Corpo da Paz, How to Make Tools.
+USDA, Shopwork on the Farm, de Mack M. Jones.

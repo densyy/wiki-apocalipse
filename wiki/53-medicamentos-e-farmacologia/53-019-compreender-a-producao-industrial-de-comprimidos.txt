@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 53-019
+TITULO: Como compreender a produção industrial de comprimidos
+CATEGORIA: 53 - Produção de medicamentos e farmacologia
+TEMPO: 35 minutos
+RISCO: medio
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: comprimido, remédio, fábrica, mistura, compressão, qualidade
+==============================================================================
+
+OBJETIVO
+--------
+Entender como uma fábrica transforma pó em comprimidos controlados,
+sem aprender a fabricá-los em casa.
+
+QUANDO USAR
+-----------
+Ao ler a bula e entender o que é comprimido, drágea ou genérico.
+Ao ouvir falar em boas práticas de fabricação e controle de qualidade.
+Ao comparar comprimidos de marcas diferentes e duvidar da procedência.
+Ao entender por que remédios falsos são perigosos e ilegais.
+
+NAO USE QUANDO
+--------------
+Não use este texto para fabricar, falsificar ou manipular medicamentos.
+Não serve para substituir farmacopeia, bula, receita ou orientação técnica.
+Não ensina a improvisar comprimidos em casa; isso é perigoso e proibido.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Defina comprimido: forma sólida com dose medida de princípio ativo.
+2. Separe o ativo dos excipientes, que são os outros componentes.
+3. Explique o excipiente: ele dá volume, liga, desfaz e ajuda a engolir.
+4. Entenda a pesagem: cada lote recebe quantidades exatas e registradas.
+5. Descreva a mistura: os pós são unidos até ficarem uniformes.
+6. Explique a granulação: o pó vira grãos para fluir e não separar.
+7. Entenda a secagem: retira umidade que pode estragar o produto.
+8. Descreva a calibração: os grãos ganham tamanho regular para a prensa.
+9. Explique a compressão: a prensa dá forma e dureza ao comprimido.
+10. Entenda o revestimento: cobre para proteger ou facilitar a tomada.
+11. Distinga a drágea: é comprimido com camada doce ou protetora.
+12. Explique o controle de qualidade: testes conferem dose, peso e pureza.
+13. Cite os testes: dureza, desintegração, dissolução e teor do ativo.
+14. Entenda a rastreabilidade: cada lote tem registro e validade.
+15. Descreva a embalagem: blister ou frasco protege da umidade e da luz.
+16. Explique boas práticas: regras que evitam contaminação e erro de dose.
+17. Entenda a liberação: só o responsável técnico libera o lote.
+18. Relacione ao genérico: mesmo ativo e dose, com bioequivalência.
+
+ATENCAO
+-------
+Este texto é educativo; não habilita ninguém a produzir medicamentos.
+Fabricar remédio sem autorização é crime e coloca vidas em risco.
+Pó fino de ativo pode intoxicar quem o inala sem proteção.
+Umidade, calor e luz errados alteram a dose e estragam o comprimido.
+Pequeno erro de pesagem pode não tratar ou pode intoxicar.
+Remédio falso pode conter veneno, dose errada ou nenhum ativo.
+Evite compras sem procedência, sem lacre ou sem data de validade.
+Nunca abra, moa ou misture comprimidos sem orientação do farmacêutico.
+Após reação estranha a um remédio, pare e procure atendimento.
+
+SE NAO TIVER
+------------
+- Sem farmacopeia, leia bula e ficha técnica de fonte oficial.
+- Sem dados do lote, não confie no produto nem o use.
+- Sem orientação técnica, apenas entenda o processo, nunca faça.
+- Não use receita da internet nem vídeo como guia de fabricação.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- Você explica as etapas na ordem, da pesagem até a embalagem.
+- Você distingue princípio ativo de excipiente com exemplos.
+- Você aponta onde o controle de qualidade atua e o que testa.
+- Você entende por que falsificar ou improvisar remédio é perigoso.
+
+FONTES
+------
+Conhecimento consolidado de tecnologia farmacêutica e boas práticas.
+Anvisa: Boas Práticas de Fabricação de Medicamentos, RDC 658/2022.
+Farmacopeia Brasileira: comprimido e normas gerais de qualidade.
+OMS: Boas Práticas de Fabricação de produtos farmacêuticos.
+Resumo educativo; não substitui farmacopeia, bula ou orientação técnica.

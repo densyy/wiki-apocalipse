@@ -1,0 +1,75 @@
+============================================================================
+CODIGO: 85-015
+TITULO: Como reconstruir uma economia industrial em pequena escala
+CATEGORIA: 85 - História econômica e industrialização
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: caderno, levantamento de recursos locais, planilha simples
+REVISAO: 2026-11
+PALAVRAS-CHAVE: indústria, pequena escala, oficina, produção local
+============================================================================
+
+OBJETIVO
+--------
+Planejar a retomada produtiva com oficinas e fábricas pequenas.
+
+QUANDO USAR
+-----------
+Após colapso de cadeias longas ou perda de fornecedores.
+Quando a demanda local pode ser atendida pela produção próxima.
+Ao organizar oficinas com ferramentas e materiais disponíveis.
+
+NAO USE QUANDO
+--------------
+Não tente produzir tudo: priorize bens essenciais e viáveis.
+Não comece sem energia, ferramentas e mão de obra mínima.
+Não ignore custo, desperdício e manutenção dos equipamentos.
+
+MATERIAIS
+---------
+- Caderno e lápis para o levantamento.
+- Planilha de insumos, estoque e capacidade.
+- Inventário de ferramentas, máquinas e peças.
+- Lista de demandas prioritárias da comunidade.
+
+PROCEDIMENTO
+------------
+1. Liste as necessidades reais da comunidade, por prioridade.
+2. Faça o inventário de máquinas, ferramentas e peças existentes.
+3. Levante matérias-primas e insumos disponíveis na região.
+4. Verifique fontes de energia e consumo de cada processo.
+5. Escolha poucos produtos de alto valor e fácil escoamento.
+6. Projete um processo simples, com poucas etapas e reparável.
+7. Padronize peças para facilitar troca e manutenção.
+8. Defina quem faz cada tarefa e quem cuida dos equipamentos.
+9. Calcule custo de material, tempo e preço de venda justo.
+10. Produza um lote-piloto e meça tempo e perdas.
+11. Ajuste o processo com base no que foi aprendido.
+12. Registre os resultados e replaneje o próximo lote.
+
+ATENCAO
+-------
+Produzir em pequena escala exige disciplina de custos e qualidade.
+Máquina sem manutenção para e gera prejuízo rapidamente.
+Evite estoque excessivo de matéria-prima que pode se degradar.
+Respeite normas de segurança e descarte de resíduos.
+A venda depende de comprador real; não produza sem demanda.
+
+SE NAO TIVER
+------------
+Sem máquinas, comece com oficina manual e ferramentas básicas.
+Sem insumos locais, reduza o escopo e priorize reparos.
+Sem comprador, produza apenas para uso próprio e imediato.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Existe um lote-piloto produzido com insumos locais.
+Os custos e o tempo de produção estão registrados.
+Há demanda identificada e um plano de manutenção definido.
+
+FONTES
+------
+Princípios de produção enxuta e oficinas comunitárias;
+manuais de oficina e segurança industrial de alcance público;
+experiências documentadas de indústrias locais e cooperativas;
+guias de gestão de pequenos negócios e custos de produção.

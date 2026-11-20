@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 04-058
+TITULO: Como construir um biodigestor
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 3 horas
+RISCO: alto
+EXIGE: tubo de polietileno, esterco, água, tubos de PVC, local arejado
+REVISAO: 2026-11
+PALAVRAS-CHAVE: biogás, metano, esterco, gás, adubo, biodigestor, digestão
+==============================================================================
+
+OBJETIVO
+--------
+Construir um biodigestor que transforme esterco e resíduos em gás e adubo.
+
+QUANDO USAR
+-----------
+Quando há esterco de bovino, suíno ou aves e falta gás para cozinhar.
+Quando se quer aproveitar restos orgânicos da cozinha sem queimá-los.
+Quando se precisa de adubo líquido após maturação do material.
+Em sítio ou quintal com espaço arejado e longe de fontes de fogo.
+
+NAO USE QUANDO
+--------------
+Quando não houver local arejado, distante de casas, fogueiras e faíscas.
+Quando as emendas não puderem ser bem vedadas e inspecionadas.
+Quando o material contiver plástico, vidro, metal, óleo ou agrotóxico.
+Quando a temperatura for sempre baixa, abaixo de aproximadamente 15 graus.
+
+MATERIAIS
+---------
+- Tubo ou saco de polietileno resistente para o corpo do digestor.
+- Dois tubos de PVC para entrada e saída do líquido, com conectores.
+- Um tubo menor para a saída do gás, com torneira ou válvula.
+- Mangueira resistente para levar o gás até o queimador.
+- Fita vedante, silicone ou massa para vedar as emendas.
+- Esterco fresco de bovino, suíno ou aves e água limpa.
+- Lama de digestor ativo ou esterco fresco, para iniciar.
+- Luva, pá, peneira, balde e água com sabão para testar vazamentos.
+
+PROCEDIMENTO
+------------
+1. Escolha terreno plano, sombreado e arejado, longe de fogo e faíscas.
+2. Retire pedras e galhos e cave uma vala rasa do tamanho do tubo.
+3. Forre o fundo com terra fina ou areia para proteger o plástico.
+4. Abra as bocas de entrada e saída e fixe os tubos de PVC com vedação.
+5. Instale o tubo de gás no ponto mais alto e coloque a válvula.
+6. Ligue a mangueira ao queimador, com a ponta sempre ao ar livre.
+7. Misture esterco e água em partes aproximadamente iguais até virar lama.
+8. Peneire a mistura para retirar pedras, plástico e galhos.
+9. Acrescente o inóculo, se tiver, e mexa bem.
+10. Despeje a lama pela entrada até três quartos do tubo, aproximadamente.
+11. Deixe espaço no topo para o gás e vede a entrada e a saída.
+12. Passe água com sabão nas emendas; se borbulhar, vede de novo.
+13. Deixe o digestor parado entre aproximadamente 15 e 40 dias.
+14. Abra a válvula e queime o primeiro gás em tocha ao ar livre.
+15. Ligue o queimador, acenda com cuidado e mantenha a chama visível.
+16. Alimente o digestor uma vez por semana e retire o líquido pela saída.
+17. Deixe o líquido maturar antes de usar como adubo.
+
+ATENCAO
+-------
+O gás contém metano inflamável. Nunca acumule gás em local fechado.
+Metano e ar entre aproximadamente 5% e 15% explodem com faísca.
+O gás contém sulfeto de hidrogênio, tóxico. Nunca inale.
+Mantenha o local sempre arejado.
+Nunca teste vazamento com fogo nem fume perto do digestor.
+Use apenas água com sabão.
+Nunca feche a saída de gás sem válvula de alívio de pressão.
+A pressão pode romper o tubo e soltar gás.
+O esterco contém microrganismos que causam doença. Use luvas.
+Lave as mãos ao terminar.
+Não use o líquido fresco como adubo: deixe maturar e compostar.
+Muito nitrogênio, como esterco de aves puro, pode parar a produção.
+Dilua com água e restos vegetais.
+Se houver cheiro forte de gás perto de casas, pare e ventile.
+Corrija a vedação antes de continuar.
+Mantenha crianças e animais afastados do digestor e do queimador.
+
+SE NAO TIVER
+------------
+Sem tubo de polietileno, use um tambor plástico com tampa hermética.
+Não use recipiente metálico fechado: o gás pode acumular e explodir.
+Sem esterco, use restos de cozinha e folhas picadas; o gás demora mais.
+Sem inóculo, o processo começa mais devagar; espere mais tempo.
+Sem fogão a gás, queime o gás em tocha ao ar livre, longe de inflamáveis.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O tubo incha aos poucos, sinal visível de que o gás está sendo produzido.
+A chama do queimador fica azulada, estável e não solta fumaça.
+Não há cheiro de gás nas emendas nem no entorno do digestor.
+O gás continua a arder mesmo após várias reposições de esterco.
+
+FONTES
+------
+Prática consolidada de biodigestores de pequeno porte e digestão anaeróbia.
+Resumo operacional da literatura técnica sobre biogás e saneamento.
+Não substitui treinamento nem projeto de profissional.

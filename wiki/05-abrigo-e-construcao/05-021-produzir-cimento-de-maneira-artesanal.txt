@@ -1,0 +1,76 @@
+==============================================================================
+CODIGO: 05-021
+TITULO: Como produzir cimento de maneira artesanal
+CATEGORIA: 05 - Abrigo, construção e habitação
+TEMPO: 120 minutos
+RISCO: alto
+EXIGE: calcário, forno de barro, água, luvas e proteção para olhos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: cimento, cal, argamassa, pozolana, cinza, construir
+==============================================================================
+
+OBJETIVO
+--------
+Fazer um aglomerante simples de cal com pozolana para assentar e rebocar.
+
+QUANDO USAR
+-----------
+Quando acabou o cimento industrial e é preciso reparar parede.
+Quando precisa assentar tijolos de barro ou adobe no abrigo.
+Quando precisa rebocar base de fogão ou parede exposta à chuva.
+Quando há calcário, cinza e tempo para queimar e curar com calma.
+
+NAO USE QUANDO
+--------------
+Em viga, laje, pilar ou qualquer estrutura que sustenta peso.
+Em fossa, poço ou caixa de água para beber sem tratar depois.
+Quando não há como usar luvas, óculos e ventilar a área de trabalho.
+
+MATERIAIS
+---------
+- Pedra calcária quebrada em pedaços pequenos (pedra comum não serve).
+- Lenha seca para forno quente por horas (carvão vegetal rende mais).
+- Água limpa para apagar a cal e misturar a massa (sem barro).
+- Pozolana: cinza peneirada ou pó fino de telha e tijolo moído.
+- Areia grossa e limpa, peneirada sem folhas nem terra solta.
+- Balde de metal, pá, peneira, óculos, luvas grossas e máscara.
+
+PROCEDIMENTO
+------------
+1. Quebre o calcário em pedaços de aproximadamente 5 cm.
+2. Monte um forno de barro com entrada de ar e chaminé simples.
+3. Empilhe pedra e lenha em camadas e acenda o fogo com cuidado.
+4. Mantenha fogo forte por aproximadamente 4 horas sem abrir tudo.
+5. Retire as pedras claras e leves só depois que esfriarem sozinhas.
+6. Apague a cal aos poucos com água, de longe, com luvas e óculos.
+7. Espere a fervura passar e vire um pó fino peneirado sem pedras.
+8. Misture uma parte de cal com uma parte de pozolana seca.
+9. Some três partes de areia e misture tudo ainda a seco.
+10. Junte água aos poucos até virar massa firme de colher em pé.
+11. Use em até aproximadamente 2 horas e mantenha úmido por 7 dias.
+
+ATENCAO
+-------
+Cal viva queima pele e olhos e a água sobre ela ferve e espirra.
+Use luvas, óculos e máscara: poeira de cal e sílica agride o pulmão.
+Forno quente causa queimadura e fumaça presa intoxica em local fechado.
+Este cimento é fraco: nunca sustenta laje, viga ou pilar de casa.
+Se rachar, esfarelar ou sair pó, demula e refaça com mais cura úmida.
+Pare e procure ajuda se houver queimadura nos olhos ou falta de ar.
+
+SE NAO TIVER
+------------
+Sem calcário, não faça cimento: use barro com areia só para vedar.
+Sem cinza, use apenas pó fino de telha ou tijolo bem moído e peneirado.
+Sem óculos, não apague cal: improviso com pano não protege o olho.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A massa endurece em dias e não esfarela ao riscar com a unha.
+O reboco fica firme na parede e não solta pó ao passar a mão.
+
+FONTES
+------
+Prática consolidada de cal e argamassa com pozolana em construção
+(famílias de referência: Embrapa, manuais de construção rural e
+manual militar de sobrevivência civil). Resumo operacional, sem treino.

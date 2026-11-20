@@ -1,0 +1,93 @@
+==============================================================================
+CODIGO: 65-017
+TITULO: Como fabricar peças por compressão
+CATEGORIA: 65 - Engenharia de materiais e polímeros
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: molde metálico, prensa ou torno, fonte de calor, luvas, ventilação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: peça, molde, prensa, plástico, reciclagem, calor, compressão
+==============================================================================
+
+OBJETIVO
+--------
+Dar forma a uma peça sólida e resistente apertando plástico dentro de um
+molde quente.
+
+QUANDO USAR
+-----------
+Quando falta uma peça plástica rígida e não há como comprar outra.
+Quando há sobra de polietileno ou polipropileno para reaproveitar.
+Quando se precisa de uma peça espessa que não quebra com impacto.
+Quando existe um molde simples e uma prensa ou torno de bancada.
+
+NAO USE QUANDO
+--------------
+Quando o plástico estiver queimado, com cheiro forte ou de origem
+desconhecida.
+Quando não houver ventilação: plástico quente solta gases tóxicos.
+Para peças que apoiam peso em equipamento de segurança.
+Quando a peça for ficar em contato com alimentos ou com a pele.
+
+MATERIAIS
+---------
+- Duas placas de metal plano para as faces do molde.
+- Um aro ou moldura metálica com a espessura da peça (molde aberto).
+- Prensa de bancada, torno ou grampos de aperto forte.
+- Fonte de calor: fogão, forno ou braseiro com controle.
+- Luvas grossas de couro ou pano espesso.
+- Proteção dos olhos e máscara ou pano no nariz.
+- Papel de seda, óleo ou cera para desgrudar a peça.
+- Plástico termoplástico limpo: polietileno ou polipropileno.
+- Lima ou faca para retirar rebarbas.
+
+PROCEDIMENTO
+------------
+1. Limpe o plástico e retire rótulos, tinta e qualquer outro material.
+2. Pique ou corte o plástico em pedaços pequenos e uniformes.
+3. Monte o molde: uma placa de baixo, o aro no meio, a placa de cima.
+4. Unte as superfícies internas com óleo, cera ou papel de seda.
+5. Deixe uma pequena fenda de saída para o ar escapar ao fechar.
+6. Aqueça o molde vazio até ficar quente ao toque de uma luva grossa.
+7. Coloque o plástico picado dentro do aro, espalhado de forma uniforme.
+8. Feche a placa de cima e aperte devagar, sem golpes.
+9. Aumente a pressão até o plástico amolecer e preencher o molde.
+10. Mantenha a pressão firme e o molde quente por aproximadamente 5 min.
+11. Retire a fonte de calor e deixe o molde esfriar sem abrir.
+12. Espere até o molde ficar apenas morno antes de tocar.
+13. Abra o molde com cuidado e retire a peça com a luva.
+14. Retire as rebarbas com lima ou faca, com a peça já fria.
+
+ATENCAO
+-------
+O molde quente queima a pele fundo e rápido. Use luvas sempre.
+Plástico aquecido solta gases que irritam olhos e pulmões. Ventile o local.
+Nunca aqueça plástico até fumegar ou pegar fogo: nesse ponto ele se degrada.
+A pressão pode projetar peça quente ou estourar moldes mal fechados.
+Fique atrás do molde ao apertar e nunca coloque a mão entre as placas.
+Termofixos como resina epóxi curam por reação química e não derretem
+de novo. Neste tutorial use apenas termoplástico, que amolece com calor
+e endurece ao frio.
+Não use o procedimento para peças de segurança sem teste e conferência.
+
+SE NAO TIVER
+------------
+Sem prensa, use um torno de bancada ou dois grampos bem apertados.
+Sem molde metálico, use duas chapas lisas e um aro de lata resistente.
+Sem termoplástico limpo, não improvise com plástico de origem duvidosa.
+Sem luvas, não faça o procedimento: a queimadura é provável.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A peça saiu do molde com a forma do aro e superfície lisa.
+O material ficou rígido ao toque depois de frio e não flexiona fácil.
+Não há bolhas grandes, vazios ou partes que não preencheram o molde.
+A peça não desprende cheiro forte quando fria.
+
+FONTES
+------
+Prática consolidada de moldagem por compressão de polímeros. Referências
+técnicas: manual de processamento de polímeros da ASM International,
+guia de processo da Plenco para compostos termofixos, apostila de
+engenharia de polímeros do Instituto Federal do Rio Grande do Sul e
+texto de processamento de plásticos da Brigham Young University.

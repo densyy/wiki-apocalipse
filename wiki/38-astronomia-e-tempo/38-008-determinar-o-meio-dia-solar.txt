@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 38-008
+TITULO: Como determinar o meio-dia solar
+CATEGORIA: 38 - Astronomia e medição do tempo
+TEMPO: 15 minutos, distribuídos ao longo do dia
+RISCO: baixo
+EXIGE: haste reta, local nivelado e aberto, algo para marcar o solo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: meio-dia solar, sombra, sol, haste, norte, relógio
+==============================================================================
+
+OBJETIVO
+--------
+Ache o meio-dia solar usando apenas uma haste e a sombra dela.
+
+QUANDO USAR
+-----------
+Quando o relógio parou e é preciso estimar o meio do dia.
+Para conferir um relógio sem energia ou ajustar um horário improvisado.
+
+NAO USE QUANDO
+--------------
+Com céu nublado, sombra fraca ou terreno inclinado, a leitura falha.
+Perto do equador em certas datas, o sol quase não faz sombra.
+
+MATERIAIS
+---------
+- Haste reta de aproximadamente 1 metro (graveto, vara ou bastão).
+- Local nivelado e aberto, livre de sombra por algumas horas.
+- Pedra ou graveto para marcar pontos no solo (marcador).
+- Corda comprida, para o método da sombra igual (barbante).
+
+PROCEDIMENTO
+------------
+1. Escolha terreno plano onde a sombra da haste caia livremente.
+2. Enterre a haste reta no solo, firme e na vertical.
+3. Observe a ponta da sombra a cada 15 ou 20 minutos e marque-a.
+4. Escolha a marca mais próxima da base da haste.
+5. Esse é o meio-dia solar aproximado: a sombra mais curta do dia.
+6. Para mais precisão, marque a sombra da manhã com uma pedra.
+7. Prenda a corda na base e desenhe um arco até essa marca.
+8. Espere a sombra encurtar e voltar a crescer depois do meio-dia.
+9. Marque o ponto da tarde em que a sombra toca o mesmo arco.
+10. O meio da linha entre as duas marcas é o meio-dia solar.
+
+ATENCAO
+-------
+O meio-dia solar quase nunca coincide com as 12 horas do relógio.
+A diferença chega a dezenas de minutos, por fuso e equação do tempo.
+Sem o arco da manhã e da tarde, o resultado é só aproximado.
+A sombra muda devagar perto do meio-dia: várias marcas parecem iguais.
+Não meça com haste inclinada; se a sombra sumir, espere outro dia.
+
+SE NAO TIVER
+------------
+Sem haste, use qualquer objeto reto e fino preso na vertical.
+Sem corda, meça com um graveto a distância até a marca da manhã e
+repita-a à tarde.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A sombra encurtou até um mínimo e voltou a crescer depois dele.
+As duas marcas do arco ficam na mesma distância da base da haste.
+
+FONTES
+------
+NOAA Global Monitoring Laboratory: Solar Calculator e
+Solar Calculation Details; cálculos segundo Astronomical
+Algorithms, de Jean Meeus.
+FM 21-76, US Army Survival Manual: sombras para achar norte e hora.

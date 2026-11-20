@@ -1,0 +1,82 @@
+==============================================================================
+CODIGO: 51-025
+TITULO: Como utilizar estatística para monitorar epidemias
+CATEGORIA: 51 - Matemática aplicada à sobrevivência
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: papel, lápis, registro diário de casos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: epidemia, casos, incidência, letalidade, curva, surto
+==============================================================================
+
+OBJETIVO
+--------
+Montar um acompanhamento diário que mostre se o surto está crescendo.
+
+QUANDO USAR
+-----------
+- Quando aparecerem casos de uma mesma doença em poucos dias.
+- Quando o número de doentes parecer subir de um dia para o outro.
+- Para acompanhar o efeito de uma medida, como isolamento ou vacinação.
+- Para avisar a autoridade de saúde antes que o surto cresça.
+- Quando houver registro de casos em papel ou planilha simples.
+
+NAO USE QUANDO
+--------------
+Quando os dados forem chutes sem registro de data e de caso.
+Não use para substituir a notificação à autoridade de saúde.
+Não use para diagnosticar uma pessoa nem para decidir remédio ou dose.
+
+MATERIAIS
+---------
+- Papel, lápis e uma folha por semana (ou caderno).
+- Registro diário de casos com data de início dos sintomas.
+- População atendida ou sob vigilância (estimativa da autoridade).
+- Total de óbitos por mesma doença no mesmo período.
+- Definição de caso usada pela autoridade de saúde local.
+
+PROCEDIMENTO
+------------
+1. Anote, em uma coluna, a data de início dos sintomas de cada caso.
+2. Some os casos por dia e escreva o total em outra coluna.
+3. Anote a população sob vigilância e o total de óbitos do período.
+4. Some os casos dos últimos 7 dias e anote o total semanal.
+5. Compare esse total com o da semana anterior e marque se subiu.
+6. Calcule a incidência (casos novos por pessoa): casos / população.
+7. Multiplique por 1.000 e escreva: casos por mil pessoas vigiadas.
+8. Calcule a letalidade (óbitos por caso): óbitos / casos, vezes 100.
+9. Desenhe a curva epidêmica: uma barra por dia de início de sintoma.
+10. Marque o dia do pico e quantos dias seguidos o surto subiu.
+11. Repita no dia seguinte com a mesma fonte e o mesmo critério.
+12. Compare o total semanal com o limiar de alerta da autoridade local.
+13. Se passar do limiar, avise a autoridade de saúde no mesmo dia.
+
+ATENCAO
+-------
+Casos sem data de início não mostram tendência: registre sempre o dia.
+Mudar a definição de caso ou a fonte quebra a comparação semanal.
+Casos notificados com atraso fazem o pico parecer menor do que é.
+A letalidade com poucos casos ou muitos óbitos pendentes engana.
+População incerta torna a incidência incerta: marque-a como aproximada.
+Estes números não substituem a notificação à autoridade de saúde.
+Sem treinamento, peça apoio da vigilância para interpretar a curva.
+
+SE NAO TIVER
+------------
+Sem população exata, use a estimativa da autoridade e diga aproximado.
+Sem computador, faça as contas à mão com os 7 dias do total semanal.
+Sem registro diário, reconstrua com as fichas e marque datas incertas.
+Sem limiar local, compare com a semana anterior e avise qualquer subida.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A curva mostra barras em dias consecutivos com o pico marcado.
+A incidência e a letalidade estão escritas com a base usada.
+Os totais semanais batem com a soma das colunas diárias.
+Você consegue dizer se o número subiu ou caiu em relação à semana anterior.
+
+FONTES
+------
+OMS, vigilância em emergências e alerta precoce (EWARS).
+OMS, Disease Outbreak News e Regulamento Sanitário Internacional (2005).
+Prática consolidada de vigilância epidemiológica; resumo operacional.

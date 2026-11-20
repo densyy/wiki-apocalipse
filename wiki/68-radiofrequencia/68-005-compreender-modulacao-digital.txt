@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 68-005
+TITULO: Como compreender modulação digital
+CATEGORIA: 68 - Radiofrequência e telecomunicações
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: rádio, digital, modulação, símbolo, bit, onda, sinal, QAM
+==============================================================================
+
+OBJETIVO
+--------
+Entender como um rádio transforma bits em sinal e reconhecer a modulação
+digital e seus tipos mais comuns.
+
+QUANDO USAR
+-----------
+Quando precisa escolher rádio, modem ou antena para um enlace.
+Quando quer saber por que uma conexão fica lenta ou instável.
+
+NAO USE QUANDO
+--------------
+Não há contraindicacao conhecida para este procedimento. É leitura
+conceitual: não substitui projeto, medição nem regra de espectro.
+
+MATERIAIS
+---------
+- Papel e lápis para desenhar os pontos (opcional).
+
+PROCEDIMENTO
+------------
+1. Fixe a ideia central: modulação é variar uma onda para carregar dados.
+2. Reconheça as três grandezas que mudam: amplitude, frequência e fase.
+3. Amplitude é a altura; frequência é o número de ciclos por segundo.
+4. Fase é o deslocamento da onda no tempo em relação a uma referência.
+5. Reconheça ASK: amplitude muda; ligado e desligado representam 0 e 1.
+6. Reconheça FSK: frequência muda; um tom representa 0 e outro, 1.
+7. Reconheça PSK: fase muda; a onda inverte para representar os bits.
+8. Reconheça QAM: amplitude e fase mudam juntas, com mais bits por símbolo.
+9. Entenda símbolo: menor pedaço de sinal que representa um grupo de bits.
+10. Associe ao uso: Wi-Fi e TV digital usam QAM e OFDM; rádios simples, FSK.
+
+ATENCAO
+-------
+Entender o conceito não autoriza transmitir: emissão depende de faixa
+permitida e, quando exigida, de licença da autoridade de telecomunicações.
+Nunca opere em faixas de emergência, aviação ou serviços públicos.
+Interferir em comunicação de socorro é crime e pode matar quem pede ajuda.
+Este texto não ensina a construir transmissor nem a aumentar potência.
+Uma modulação eficiente não cria banda: aproveita melhor a banda disponível.
+
+SE NAO TIVER
+------------
+Sem papel, desenhe a constelação no chão ou memorize quatro pontos básicos.
+Sem instrumentos, use a imagem mental: altura é amplitude, espaçamento é
+frequência e deslocamento é fase.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você explica a diferença entre ASK, FSK e PSK com as próprias palavras.
+Você aponta, na constelação, qual ponto representa quais bits.
+Você justifica por que mais bits por símbolo aumenta a velocidade.
+
+FONTES
+------
+Conceitos consolidados de engenharia de telecomunicações e teoria da
+informação, sem documento único consultado nesta sessão. Modulação digital
+é tema padrão em literatura técnica de rádio e em normas da UIT (ITU).
+Resumo operacional, não substitui treinamento nem regras de espectro.

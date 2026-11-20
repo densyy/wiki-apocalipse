@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 28-012
+TITULO: Como calcular necessidades de água
+CATEGORIA: 28 - Logística e gestão de recursos
+TEMPO: 20 minutos
+RISCO: baixo
+EXIGE: papel, lápis ou caneta, recipientes de medida conhecidos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, necessidade, cálculo, litros, pessoas, dias, sede
+==============================================================================
+
+OBJETIVO
+--------
+Calcular quanta água o grupo precisa por dia e quanto estoque guardar.
+
+QUANDO USAR
+-----------
+Ao montar o estoque de emergência da casa.
+Ao planejar dias sem água corrente.
+Ao receber água doada e precisar repartir.
+Ao conferir se o estoque dura até a reposição.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Papel ou caderno.
+- Lápis ou caneta (ou carvão para marcar).
+- Lista das pessoas e dos animais do grupo.
+- Recipientes de medida conhecidos, como garrafa de 2 litros.
+
+PROCEDIMENTO
+------------
+1. Conte as pessoas que ficarão sob seus cuidados.
+2. Escolha o número de dias que o estoque precisa cobrir.
+3. Multiplique pessoas por dias e por aproximadamente 4 litros.
+4. Dobre a parcela de bebida se o clima for muito quente ou houver esforço.
+5. Some uma porção extra para bebês, doentes, mães amamentando e animais.
+6. Adicione 20% ao total como margem de perdas e atraso na reposição.
+7. Divida o total pelo tamanho do recipiente para saber quantos encher.
+8. Anote o resultado no papel e reparta a meta entre as pessoas.
+9. Confira o estoque a cada dia e desconte o que foi consumido.
+
+ATENCAO
+-------
+A base de 4 litros serve para beber e saneamento básico.
+Ela não cobre lavagem de roupa, rega ou cozinha para muitas pessoas.
+Em calor extremo a necessidade pode dobrar; nunca subestime.
+Não racione água potável por conta própria; siga as autoridades.
+A conta não torna a água segura: trate antes de beber, veja 01-001.
+Água guardada sem troca pode vencer; renove a cada seis meses.
+
+SE NAO TIVER
+------------
+Sem papel, marque os números no chão ou conte nos dedos.
+Sem garrafa medida, use qualquer recipiente que você conheça.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O total em litros está anotado no papel.
+A contagem de recipientes enche exatamente a quantidade planejada.
+
+FONTES
+------
+FEMA e Ready.gov, do Departamento de Segurança Interna dos Estados Unidos:
+orientação sobre um galão por pessoa por dia para beber e saneamento, com
+aumento em calor extremo e para crianças, doentes e mães amamentando.
+Fact sheets da OMS sobre água potável e saneamento.

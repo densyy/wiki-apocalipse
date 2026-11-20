@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 03-082
+TITULO: Como entender interações medicamentosas
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 20 minutos
+RISCO: alto
+EXIGE: lista dos remédios em uso, embalagens ou receitas, papel e caneta
+REVISAO: 2026-11
+PALAVRAS-CHAVE: interação, remédio, efeito, intoxicação, princípio ativo
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer sinais de interação entre remédios e saber quando buscar ajuda.
+
+QUANDO USAR
+-----------
+Quando começa um remédio novo e já toma outros.
+Quando a pessoa toma vários remédios por dia.
+Quando aparece sintoma novo após iniciar um remédio.
+Ao usar chá, suplemento ou remédio sem receita com um receitado.
+Quando um remédio parece ter perdido o efeito.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para este procedimento.
+Nunca use este texto para trocar, suspender ou mudar a dose de um
+remédio receitado: isso cabe a quem prescreveu.
+
+MATERIAIS
+---------
+- Lista dos remédios em uso, com o princípio ativo (ou embalagens).
+- Papel e caneta para anotar horários e sintomas.
+- Relógio para marcar quando o sintoma começou.
+
+PROCEDIMENTO
+------------
+1. Liste todo remédio, chá, suplemento e álcool em uso.
+2. Anote o princípio ativo de cada um, não só o nome da caixa.
+3. Anote o horário de cada tomada e a dose conforme prescrição.
+4. Marque se dois remédios dão o mesmo efeito, como sonolência.
+5. Marque se um remédio parece ter perdido o efeito.
+6. Anote todo sintoma novo e a data em que ele começou.
+7. Compare o sintoma com a data de início de cada remédio.
+8. Leve a lista e as embalagens a quem prescreveu antes de mudar algo.
+9. Em sinal grave, busque atendimento e leve as embalagens.
+
+ATENCAO
+-------
+Interação é quando um remédio muda o efeito de outro: pode somar,
+cancelar ou causar intoxicação, o efeito tóxico do remédio no corpo.
+Interação farmacodinâmica: os efeitos se somam ou se cancelam.
+Interação farmacocinética: um muda a absorção, a transformação ou
+a eliminação do outro. O risco cresce com o número de remédios.
+Anti-inflamatórios (ibuprofeno, diclofenaco) + varfarina ou AAS:
+aumentam sangramento: hematoma, gengiva sangrando, fezes pretas.
+Anti-inflamatório + fluoxetina ou citalopram: também sangra mais.
+Inibidor de ACE (captopril, enalapril) + espironolactona: potássio
+alto. Sinal: fraqueza, formigamento, batimento irregular.
+Eritromicina ou claritromicina + varfarina: mais sangramento.
+Claritromicina + digoxina: náusea, vômito, visão amarelada.
+Ciprofloxacino + teofilina: náusea, tremor, taquicardia.
+Fluoxetina ou citalopram + tramadol ou triptano: síndrome
+serotoninérgica: agitação, tremor, suor, rigidez e febre.
+AAS + ibuprofeno: o ibuprofeno reduz a proteção do AAS no coração.
+Leite, café, antiácido ou ferro com tetraciclina, ciprofloxacino
+ou levotiroxina: o remédio é absorvido menos e perde efeito.
+Toranja (grapefruit) com estatina ou remédio de pressão: aumenta
+a concentração do remédio no sangue.
+Álcool com sedativo: sono profundo, queda e dificuldade de respirar.
+Sinais de intoxicação: sonolência que não passa, confusão, vômito,
+tremor, convulsão, batimento irregular, pele ou olhos amarelados.
+Não há teste caseiro seguro para confirmar uma interação.
+Nunca ajuste dose por conta própria: use sempre conforme prescrição.
+Este texto não substitui quem prescreveu o remédio.
+
+SE NAO TIVER
+------------
+Sem lista escrita: use as embalagens ou fotos das caixas.
+Sem saber o princípio ativo: leia a caixa, nunca adivinhe.
+Sem papel: anote no celular ou decore a lista antes de sair.
+Sem acesso a quem prescreveu: vá a uma unidade de saúde e leve
+as embalagens.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Todos os remédios estão listados com o princípio ativo.
+Os horários e as datas de início estão anotados.
+O sintoma novo foi ligado ao remédio iniciado pouco antes.
+A suspeita chegou a um profissional antes de qualquer mudança.
+
+FONTES
+------
+Organização Mundial da Saúde, relatório Medication safety in
+polypharmacy (2019); FDA, Drug Interactions: What You Should Know;
+MedlinePlus (NIH), Drug Reactions; artigo revisado de Cascorbi I.,
+Drug Interactions: Principles, Examples and Clinical Consequences,
+Deutsches Ärzteblatt International, 2012.

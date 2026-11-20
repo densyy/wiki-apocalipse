@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 04-040
+TITULO: Como construir uma lanterna recarregável
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: powerbank com carga, lâmpada LED USB, pote translúcido com tampa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: lanterna, luz, LED, powerbank, apagar, recarregar
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma lanterna que ilumina o ambiente por horas e recarrega
+por USB sem depender da rede elétrica.
+
+QUANDO USAR
+-----------
+Quando faltar luz à noite para iluminar um cômodo.
+Quando for preciso cozinhar, ler ou cuidar de alguém no escuro.
+Quando houver powerbank ou painel solar USB disponível.
+
+NAO USE QUANDO
+--------------
+Em local com gás vazando ou cheiro forte de combustível.
+Com powerbank inchado, quente, molhado ou com cheiro estranho.
+
+MATERIAIS
+---------
+- Powerbank com carga e entrada USB.
+- Lâmpada LED USB de 1 a 5 watts (luminária USB como opção).
+- Pote plástico translúcido com tampa.
+- Cabo USB curto em bom estado e fita isolante.
+
+PROCEDIMENTO
+------------
+1. Seque as mãos e desligue tudo antes de montar.
+2. Teste a lâmpada LED USB no powerbank.
+3. Desligue a lâmpada e retire o cabo do powerbank.
+4. Lave o pote translúcido com água e sabão.
+5. Seque o pote por dentro e por fora com pano seco.
+6. Fixe a lâmpada no centro do pote com fita isolante.
+7. Passe o cabo pela lateral da tampa sem apertar o fio.
+8. Feche a tampa e conecte o cabo ao powerbank do lado de fora.
+9. Ligue a lâmpada e ajuste a posição para espalhar a luz.
+
+ATENCAO
+-------
+Bateria aberta ou improvisada pode causar queimadura e incêndio.
+Use apenas powerbank fechado de fábrica. Nunca abra a bateria.
+Curto-circuito esquenta rápido: se aquecer, desligue na hora.
+Não deixe a lanterna ligada sem vigia sobre pano ou papel.
+Luz fraca ou piscando indica carga baixa: recarregue antes de usar.
+
+SE NAO TIVER
+------------
+Sem lâmpada LED USB, use luminária USB ou fita LED USB pronta.
+Sem pote, use garrafa plástica limpa e seca como difusor da luz.
+Sem powerbank, use pilhas recarregáveis em suporte com saída USB.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A lâmpada acende firme, sem piscar, e ilumina o cômodo inteiro.
+O pote espalha luz suave sem esquentar o plástico ou o cabo.
+
+FONTES
+------
+Prática consolidada de iluminação de baixa tensão, sem documento
+único; orientação geral de segurança com baterias portáteis.

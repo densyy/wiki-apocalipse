@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 08-064
+TITULO: Como realizar manutenção de máquinas agrícolas
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: motor frio, chave retirada, manual, óculos e luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: trator, máquina agrícola, óleo, filtro, pneu, não liga
+==============================================================================
+
+OBJETIVO
+--------
+Conferir e ajustar os pontos básicos do trator e do implemento antes do uso.
+
+QUANDO USAR
+-----------
+Antes de ligar o trator no começo do dia de trabalho.
+Depois de o equipamento ficar dias parado ou rodar na chuva e na lama.
+
+NAO USE QUANDO
+--------------
+Com o motor quente, a tomada de força girando ou o implemento sem apoio.
+Com a luz de óleo acesa, barulho metálico ou vazamento sob pressão: pare.
+
+MATERIAIS
+---------
+- Manual do fabricante do trator e do implemento.
+- Vareta, pano limpo que não solte fiapos, funil e lata para o óleo usado.
+- Óleo e filtros do tipo indicado no manual (mesmo grau da última troca).
+- Bomba manual com manômetro, jogo de chaves, escova, luvas e óculos.
+
+PROCEDIMENTO
+------------
+1. Estacione em terreno plano, acione o freio e retire a chave.
+2. Abaixe o implemento no solo ou use cavalete antes de passar por baixo.
+3. Espere o motor esfriar; nunca abra a tampa do radiador quente.
+4. Olhe o chão sob a máquina em busca de óleo, diesel ou água.
+5. Confira o nível de óleo do motor com a vareta, com o trator nivelado.
+6. Complete com óleo do grau do manual, sem passar da marca da vareta.
+7. Confira o nível de combustível e abasteça somente com diesel.
+8. Confira o nível do líquido de arrefecimento só com o motor frio.
+9. Confira o nível de óleo hidráulico e complete com o tipo do manual.
+10. Limpe os terminais da bateria e aperte as conexões com a chave.
+11. Meça a pressão com manômetro; use o valor do manual e da lateral.
+12. Aperte as porcas das rodas no sentido cruzado, sem exagero.
+13. Examine a correia do ventilador; troque se estiver desfiada ou rachada.
+
+ATENCAO
+-------
+Diesel inflama fácil: não fume perto nem reabasteça com o motor quente.
+Tampa do radiador quente solta vapor: espere esfriar antes de abrir.
+Tomada de força e correias giram: nunca toque com o motor ligado.
+Nunca procure vazamento com a mão: óleo sob pressão fere a pele sem dor.
+
+SE NAO TIVER
+------------
+Sem manômetro, encha com bomba manual e peça a conferência em uma oficina.
+Sem filtro novo, limpe o antigo com escova; se estiver rasgado, não ligue.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A vareta marca o nível entre os limites, sem espuma nem cheiro de diesel.
+O motor parte fácil, não faz fumaça escura e não deixa óleo no chão.
+
+FONTES
+------
+Folhas HOSTA 4.6 e 4.6.1, Programa Nacional de Operação Segura de Tratores
+e Máquinas, Universidade Estadual da Pensilvânia (2004); NIOSH, segurança
+agrícola. Demais passos são prática consolidada; siga sempre o manual.

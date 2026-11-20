@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 03-004
+TITULO: Como utilizar um desfibrilador externo automático (DEA)
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 10 minutos
+RISCO: critico
+EXIGE: desfibrilador externo automático (DEA) com pás, celular
+REVISAO: 2026-11
+PALAVRAS-CHAVE: DEA, desfibrilador, choque, parada cardíaca, RCP, massagem
+==============================================================================
+
+OBJETIVO
+--------
+Usar o DEA com segurança na tentativa de restabelecer o ritmo cardíaco.
+
+QUANDO USAR
+-----------
+Pessoa desmaiada que não responde a gritos nem ao toque nos ombros.
+Pessoa que não respira, ou que solta apenas suspiros (respiração em agonia).
+Colapso súbito com suspeita de parada cardíaca; leigo não palpa o pulso.
+Há um DEA no local e já foi pedido socorro médico.
+
+NAO USE QUANDO
+--------------
+Não use em pessoa consciente, que respira normalmente ou com pulso.
+Não use em bebê com menos de 1 ano: faça RCP e siga o 192.
+Não use pás pediátricas em adulto: o choque seria insuficiente.
+
+MATERIAIS
+---------
+- Desfibrilador externo automático (DEA) com pás dentro da validade.
+- Celular para ligar para o 192 (ou outra pessoa para chamar).
+- Pano limpo ou gaze para secar o peito.
+- Luvas ou sacola plástica limpa (para remover adesivo de medicamento).
+- Barbeador do kit, se houver muito pelo no peito.
+
+PROCEDIMENTO
+------------
+1. Garanta que o local é seguro para você antes de tocar na pessoa.
+2. Chame a pessoa e toque os ombros por no máximo 10 segundos.
+3. Veja se ela respira normalmente; suspiros não são respiração normal.
+4. Grite por ajuda e peça a alguém para ligar 192 e trazer o DEA.
+5. Se estiver sozinho com celular, ligue 192 no viva-voz e comece a RCP.
+6. Comece compressões no centro do peito, 100 a 120 por minuto.
+7. Não pare a RCP enquanto o DEA é buscado.
+8. Ligue o DEA ao chegar (alguns ligam ao abrir a tampa) e siga a voz.
+9. Retire ou corte a roupa do peito e seque a pele com pano ou gaze.
+10. Tire a pessoa da água antes de secar o peito.
+11. Remova adesivo de medicamento com luvas ou sacola plástica.
+12. Cole as pás no peito nu seguindo o desenho das próprias pás.
+13. Ponha uma pá abaixo da clavícula direita e a outra na lateral esquerda.
+14. Em criança, use pás pediátricas, se houver no kit.
+15. Se o peito for estreito, cole uma pá na frente e outra nas costas.
+16. Encaixe o conector das pás no aparelho, se necessário.
+17. Grite "AFASTEM-SE" e confirme que ninguém encosta na pessoa.
+18. Deixe o DEA analisar o ritmo sem tocar na pessoa.
+19. Se indicar choque, afaste-se e aperte o botão de choque, se houver.
+20. Se o aparelho for automático, ele aplica o choque após o aviso.
+21. Volte às compressões na hora, após o choque ou se não houver choque.
+22. Repita ciclos de 2 minutos de RCP até nova análise do DEA.
+23. Continue até a pessoa respirar normal ou o 192 assumir.
+
+ATENCAO
+-------
+O choque pode matar ou lesionar quem encosta na pessoa.
+Nunca toque nela durante a análise nem no momento do choque.
+Grite "AFASTEM-SE" e olhe ao redor antes de apertar o botão.
+Nunca use em pessoa consciente, respirando ou com pulso.
+O DEA não substitui a RCP nem o atendimento médico: ligue 192.
+Não atrase a RCP para buscar ou instalar o DEA.
+Na água o choque se perde: retire a pessoa e seque o peito primeiro.
+Não cole a pá sobre adesivo de medicamento nem sobre o marca-passo visível.
+Em trauma com sangramento, priorize a RCP e siga o 192.
+Se a pessoa voltar a respirar, deixe as pás ligadas e espere o 192.
+
+SE NAO TIVER
+------------
+Sem DEA: continue só as compressões torácicas até o 192 chegar.
+Sem pás pediátricas: use pás de adulto, uma na frente e outra nas costas.
+Sem luvas: use sacola plástica limpa para retirar adesivo de medicamento.
+Sem barbeador: aperte bem as pás; nunca corte a pele com lâmina improvisada.
+Sem ajuda e sem celular: faça RCP por 2 minutos antes de pedir socorro.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O DEA liga, fala e as pás ficam grudadas no peito.
+O aparelho analisa e informa "choque indicado" ou "sem choque".
+A pessoa tosse, fala, abre os olhos ou volta a respirar normalmente.
+A equipe do 192 chega e assume o atendimento.
+
+FONTES
+------
+American Heart Association (AHA), diretrizes de RCP, 2025.
+Cruz Vermelha e NHS, guias de primeiros socorros sobre DEA.
+Manual MSD, Saúde para a Família: parada cardíaca e RCP.
+Anvisa, Cartilha de Segurança e Desempenho do DEA.
+Prefeitura de Porto Alegre, POP 63 de uso do DEA.
+Corpo de Bombeiros do DF, diretriz de uso do DEA.
+Resumo operacional; não substitui treinamento prático em RCP e DEA.

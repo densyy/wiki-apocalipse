@@ -1,0 +1,94 @@
+==============================================================================
+CODIGO: 04-064
+TITULO: Como aproveitar energia geotérmica em pequena escala
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 120 minutos
+RISCO: alto
+EXIGE: terreno, pá, tubos, termômetro e fonte de calor natural
+REVISAO: 2026-11
+PALAVRAS-CHAVE: geotermia, calor do solo, fonte termal, água quente, tubo
+==============================================================================
+
+OBJETIVO
+--------
+Aproveitar o calor natural do solo ou de fontes termais para aquecer,
+esfriar ou proteger água e ambientes sem depender de combustível.
+
+QUANDO USAR
+-----------
+Quando há fonte termal, água quente subterrânea ou solo aquecido perto.
+Quando é preciso evitar que a água congele sem queimar lenha.
+Quando se precisa esfriar água ou alimentos no calor intenso.
+Quando falta combustível, mas existe terreno disponível para escavar.
+
+NAO USE QUANDO
+--------------
+Não use em solo instável, encosta com risco de deslizamento ou área
+alagadiça. Não entre em água termal: pode queimar ou conter gases
+tóxicos. Não use se não houver onde descarregar a água sem contaminar
+a fonte de água potável.
+
+MATERIAIS
+---------
+- Pá e enxada para abrir vala (ou picareta em solo duro).
+- Tubo de plástico flexível ou mangueira resistente ao calor.
+- Termômetro que meça até 100 graus Celsius (ou fita de temperatura).
+- Balde ou recipiente limpo para testar a água.
+- Isolante: terra seca, palha, areia ou espuma (o que houver).
+- Corda e estacas para marcar o traçado (ou cordel improvisado).
+- Luvas grossas e calçados fechados.
+
+PROCEDIMENTO
+------------
+1. Determine a fonte: água termal natural ou solo a mais de 2 m de
+   profundidade, onde a temperatura varia pouco ao longo do dia.
+2. Meça a temperatura com o termômetro e registre o valor encontrado.
+3. Marque com estacas o traçado entre a fonte e o ponto de uso.
+4. Cave uma vala de 60 cm de largura até a profundidade marcada.
+5. Retire pedras do fundo e forre com areia ou palha grossa.
+6. Estenda o tubo sem dobrar em ângulo fechado, que trava a água.
+7. Se usar água termal, feche o tubo dentro dela: nunca misture a água
+   termal com a água de uso.
+8. Posicione a saída quente no ponto mais alto e o retorno no mais
+   baixo. A água quente sobe e a fria desce sem bomba.
+9. Encha o tubo fechado com água limpa e remova o ar da linha.
+10. Cubra o tubo com 20 cm de terra, compacte e repita até o nível.
+11. Observe a ponta de uso por 1 hora e meça a temperatura de novo.
+12. Interrompa se o tubo rachar, se a água ficar muito quente ou se
+    sentir cheiro de ovo podre no ambiente.
+
+ATENCAO
+-------
+Água termal queima em segundos: nunca entre nela nem toque o escoamento.
+O chão ao redor pode ser crosta fina sobre água superaquecida; não pise
+sem antes testar com um bastão. Gases tóxicos, como sulfeto de hidrogênio
+(cheiro de ovo podre), se acumulam em áreas termais. Com tontura ou
+ardor nos olhos, saia imediatamente para o ar livre. Valas fundas
+desabam: nunca trabalhe sozinho e sustente as paredes. Não descarregue
+anticongelante nem químico perto da água de beber. Este processo apenas
+move calor existente; não cria calor do nada.
+
+SE NAO TIVER
+------------
+Sem tubo flexível, use mangueira de irrigação ou mangueira de borracha.
+Sem termômetro, encoste a mão com um pano: se doer, está quente demais.
+Sem fonte termal, enterre o tubo fundo e use a temperatura estável do
+solo apenas para reduzir frio ou calor. Sem isolante, dobre a camada de
+terra. Não use material que solte cheiro ou gosto na água de uso.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água na ponta de uso ficou morna ao toque, sem ferver e sem cheiro.
+O termômetro mostrou aumento estável entre a entrada e a saída do tubo.
+A água de uso continua limpa, sem cheiro de ovo podre nem gosto de terra.
+A vala ficou firme, sem afundar, e o tubo não apresentou vazamento.
+
+FONTES
+------
+Departamento de Energia dos Estados Unidos, página sobre bombas de
+calor geotérmicas: temperatura do solo a cerca de 9 m fica entre 10 e
+15 graus Celsius durante o ano inteiro. Serviço Nacional de Parques
+dos Estados Unidos, orientações de segurança do parque de Yellowstone:
+queimaduras em fontes termais e gases tóxicos. Prática consolidada de
+uso direto de calor geotérmico de baixa temperatura. Resumo operacional,
+não substitui treinamento.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 27-018
+TITULO: Como criar sistemas de identificação e orientação acessíveis
+CATEGORIA: 27 - Visão, audição e necessidades especiais
+TEMPO: 2 horas
+RISCO: medio
+EXIGE: tinta ou fita de contraste, corda ou barbante, papel e caneta
+REVISAO: 2026-11
+PALAVRAS-CHAVE: placa, sinal, tátil, contraste, acessibilidade, braille
+==============================================================================
+
+OBJETIVO
+--------
+Criar marcas e placas que permitam encontrar caminhos e reconhecer lugares
+sem depender só da visão ou da audição.
+
+QUANDO USAR
+-----------
+Quando a energia acabou e não há sinalização eletrônica.
+Quando pessoas com baixa visão ou cegueira usam o abrigo.
+Quando pessoas surdas não ouvem os alarmes sonoros.
+
+NAO USE QUANDO
+--------------
+Quando não for possível manter o sistema atualizado: placa trocada ou
+desatualizada engana mais do que nenhuma placa. Confira antes de usar.
+
+MATERIAIS
+---------
+- Tinta, giz ou fita de cor forte para alto contraste (papel, carvão).
+- Corda, barbante ou estacas para marcar o caminho (pedras, pano).
+- Papel ou cartolina, caneta e algo para dar relevo (cola, linha grossa).
+
+PROCEDIMENTO
+------------
+1. Escolha a rota principal e os pontos de decisão do abrigo.
+2. Liste os pontos: entrada, saída, água, comida, sanitário e perigo.
+3. Defina um código com cor, símbolo e textura para cada tipo de ponto.
+4. Nunca use cor sozinha: combine com texto, símbolo ou relevo.
+5. Faça placas com fundo claro e letra escura, grandes, sem itálico.
+6. Escreva o nome do local em letra grande e, se souber, em Braille.
+7. Acrescente um relevo tocável à placa: linha, ponto ou forma.
+8. No piso, use linhas paralelas para guiar e pontos para alertar.
+9. Coloque os alertas antes de degraus, esquinas, saídas e perigo.
+10. Fixe as placas no mesmo lado, na altura dos olhos ou do peito.
+11. Para surdos, use aviso visual e fique de frente ao falar.
+12. Teste com olhos vendados e ouvidos tampados; corrija o que confundir.
+
+ATENCAO
+-------
+Cor sozinha não serve: quem é cego ou daltônico não a distingue.
+Placa desatualizada ou mal fixada engana mais do que nenhuma placa.
+Não faça relevo que pareça degrau ou buraco: teste antes de fixar.
+Sinalização não substitui acompanhamento em área de risco real.
+Se não puder testar com uma pessoa com deficiência, procure ajuda.
+
+SE NAO TIVER
+------------
+Sem tinta, use giz, carvão ou barro para fazer contraste.
+Sem material para relevo, use corda ou linha grossa colada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Uma pessoa com os olhos vendados segue as marcas até o destino certo.
+A placa é lida a um braço de distância, mesmo com luz fraca.
+
+FONTES
+------
+Prática consolidada de acessibilidade e orientação para cegos e surdos.
+Referências: ABNT NBR 9050 e OMS. Resumo operacional, não substitui treino.

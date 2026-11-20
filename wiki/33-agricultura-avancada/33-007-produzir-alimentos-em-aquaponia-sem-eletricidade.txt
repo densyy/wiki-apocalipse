@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 33-007
+TITULO: Como produzir alimentos em aquaponia sem eletricidade
+CATEGORIA: 33 - Agricultura avançada e autossuficiência rural
+TEMPO: 1 dia
+RISCO: medio
+EXIGE: tanques, cascalho, mangueira, peixes, ração, mudas, balde
+REVISAO: 2026-11
+PALAVRAS-CHAVE: aquaponia, peixes, alface, gravidade, cascata, biofiltro
+==============================================================================
+
+OBJETIVO
+--------
+Criar peixes e folhosas no mesmo circuito de água, sem bombas nem energia.
+
+QUANDO USAR
+-----------
+Quando não há eletricidade para bombas de aquário.
+Quando a água é escassa e precisa ser reaproveitada.
+
+NAO USE QUANDO
+--------------
+Quando não der para observar os peixes cada dia.
+Quando a água tiver cheiro de esgoto, óleo ou agrotóxico.
+Quando não houver sombra para os tanques em clima quente.
+
+MATERIAIS
+---------
+- Tanque de aproximadamente 1.000 L, sem resíduo químico.
+- Tanque elevado (cabeceira), balde e mangueira.
+- Mídia lavada: cascalho, seixos ou argila expandida.
+- Peixes de origem conhecida, ração, mudas, tela e água limpa.
+
+PROCEDIMENTO
+------------
+1. Escolha desnível para cabeceira, caixa decantadora, leito e tanque.
+2. Coloque o tanque no ponto mais baixo e cubra com tela e sombra.
+3. Encha o leito com a mídia até aproximadamente 30 cm.
+4. Ligue mangueiras da cabeceira à decantadora e ao leito, em cascata.
+5. Abra o dreno do leito e devolva a água ao tanque dos peixes.
+6. Encha com água limpa; água de rede fica parada 24 horas.
+7. Teste o fluxo por um dia e conserte vazamentos.
+8. Sem peixes, adicione ração por dia por aproximadamente 4 semanas.
+9. Encha a cabeceira com balde sempre que baixar, sem deixar a água parar.
+10. Plante as mudas no leito, com as raízes na mídia úmida.
+11. Coloque até aproximadamente 1 kg de peixe por 1.000 L.
+12. Dê aproximadamente 1% da massa em ração por dia, em duas vezes.
+13. Limpe a decantadora uma vez por semana.
+
+ATENCAO
+-------
+Se a cabeceira esvaziar, a água para e falta oxigênio.
+Peixes boqueando na superfície podem morrer em poucas horas.
+Muitos peixes estragam o sistema mais depressa que a falta de bomba.
+Sobra de ração apodrece e consome oxigênio: retire após meia hora.
+Nunca use tanque de óleo ou tinta; não coma peixe de água com cheiro podre.
+
+SE NAO TIVER
+------------
+Sem tanque elevado, suba água com balde e despeje em cascata no leito.
+Sem cascalho, use seixos ou brita grossa; nunca areia fina.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água desce sem parar, os peixes não boqueiam e as folhas ficam verdes.
+
+FONTES
+------
+FAO: Small-scale aquaponic food production, 2015; tradução FAO/RS, 2023.
+Embrapa: Boas práticas de manejo em aquaponia, 2018; Doc. 189, 2015.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 36-027
+TITULO: Como utilizar testes simples de identificação mineral
+CATEGORIA: 36 - Geologia, mineração e recursos naturais
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: placa de risca, faca, ímã, ácido diluído, óculos e luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: mineral, pedra, dureza, risca, ácido, ímã
+==============================================================================
+
+OBJETIVO
+--------
+Reduzir as possibilidades entre minerais comuns usando testes de campo.
+
+QUANDO USAR
+-----------
+Ao encontrar uma amostra e precisar separar as opções antes de decidir.
+Ao suspeitar de calcita, quartzo, hematita ou magnetita.
+
+NAO USE QUANDO
+--------------
+Quando a identificação exata importar para compra, venda ou segurança.
+Quando o mineral parecer conter chumbo, arsênio ou amianto e gerar pó.
+
+MATERIAIS
+---------
+- Placa de risca de porcelana não esmaltada (papel de caderno sem brilho).
+- Faca de aço de bolso (unha, moeda de cobre).
+- Ímã pequeno (bússola).
+- Ácido clorídrico diluído a 10% ou 15%, em frasco conta-gotas.
+- Óculos de proteção, luvas de borracha, pano, água e sabão.
+
+PROCEDIMENTO
+------------
+1. Limpe a amostra com água e seque com o pano.
+2. Observe o brilho na luz: metálico, como metal, ou não metálico.
+3. Esfregue a amostra na placa de risca e anote a cor do pó.
+4. Risque com a unha: se marcar, dureza aproximadamente 2,5 na escala Mohs.
+5. Risque com a moeda: se marcar, dureza aproximadamente 3,5.
+6. Risque com a faca: se marcar, dureza aproximadamente 5,5.
+7. Se a faca não marcar, o mineral passa de 5,5, como o quartzo.
+8. Observe a quebra: faces planas e paralelas indicam clivagem.
+9. Aproxime o ímã: atração forte indica magnetita; fraca, ilmenita.
+10. Calce óculos e luvas e pingue uma gota de ácido na amostra.
+11. Sem efervescência, risque o mineral e pingue no pó raspado.
+12. Efervescência imediata indica calcita; lenta no pó indica dolomita.
+
+ATENCAO
+-------
+O ácido diluído irrita pele e olhos: nunca manipule sem óculos e luvas.
+Não prepare ácido concentrado; use apenas a solução diluída pronta.
+Não inale o pó da risca; use máscara se o mineral for fibroso.
+A faca corta: apoie a amostra firme e risque sempre para fora do corpo.
+Estes testes só reduzem opções: lave tudo e leve a amostra a um museu.
+
+SE NAO TIVER
+------------
+Sem placa, use o fundo não esmaltado de um azulejo ou papel sem brilho.
+Sem ácido, faça só os testes físicos: vinagre não substitui o clorídrico.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A risca e o resultado da faca se repetem em duas amostras do mesmo mineral.
+A gota de ácido ferve na hora na calcita, ou só no pó na dolomita.
+
+FONTES
+------
+Testes e dureza: Geosciences LibreTexts cap. 56.1 e National Park Service.
+Limites do campo: USGS, FAQ sobre identificação de rochas e minerais.

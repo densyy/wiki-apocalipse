@@ -1,0 +1,92 @@
+==============================================================================
+CODIGO: 87-015
+TITULO: Como manter sistemas hidráulicos tradicionais
+CATEGORIA: 87 - Energia mecânica e hidráulica tradicionais
+TEMPO: 120 minutos
+RISCO: medio
+EXIGE: água corrente, ferramentas manuais, madeira e vedação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: hidráulica, comporta, roda d'água, calha, vazão, manutenção
+==============================================================================
+
+OBJETIVO
+--------
+Inspecionar e reparar calhas, comportas e rodas d'água para manter
+o fluxo e evitar perda de energia e vazamentos.
+
+QUANDO USAR
+-----------
+Na virada da estação seca, antes de usar o sistema todos os dias.
+Quando a roda girar mais devagar sem mudança na chegada de água.
+Se aparecer vazamento, umidade nova ou madeira mole nas calhas.
+Após chuva forte, temporais ou passagem de detritos pelo canal.
+Quando a comporta emperra, range ou não fecha por completo.
+
+NAO USE QUANDO
+--------------
+Não trabalhe dentro da calha com a água passando em volume alto.
+Não faça reparo com a comporta aberta sem travamento seguro.
+Não use se não houver ponto de corte e escoamento da água.
+Não entre em poço, caixa ou galeria subterrânea sem ventilação.
+
+MATERIAIS
+---------
+- Chave, alicate, martelo, formão e serra manual (ferramentas básicas).
+- Madeira tratada ou ripas novas para substituir peças apodrecidas.
+- Estopa, linho ou massa de vedação tradicional (vedante).
+- Pregos, parafusos e ferragens resistentes à umidade.
+- Escova, pano e balde para limpar lama e algas.
+- Óleo ou graxa adequada para as articulações e o eixo.
+- Corda e cunha para travar a comporta durante o serviço.
+
+PROCEDIMENTO
+------------
+1. Avise quem usa o sistema e feche a comporta de entrada.
+2. Espere a água escoar e confirme que a linha está parada.
+3. Caminhe pelo canal e anote onde há vazamento ou desmoronamento.
+4. Retire folhas, lama e pedras que obstruem a grade e a calha.
+5. Verifique a inclinação da calha: ela deve descer sem poças.
+6. Bata na madeira com o formão: som oco indica apodrecimento.
+7. Troque ripas moles e aperte as ferragens com folga.
+8. Refaça a vedação das juntas com estopa ou massa adequada.
+9. Limpe a comporta e retire a ferrugem com escova.
+10. Graxe as articulações e teste o movimento com a mão.
+11. Confira a roda d'água: pás quebradas e eixo com folga.
+12. Ajuste a passagem de água para bater no meio das pás.
+13. Reabra a comporta devagar e observe o enchimento da calha.
+14. Meça o fluxo em um ponto fixo e compare com o anterior.
+15. Anote os reparos e o que ficou pendente para a próxima visita.
+
+ATENCAO
+-------
+Água em movimento arrasta e derruba. Nunca entre na calha com a
+comporta aberta e travada de forma precária.
+Madeira molhada escorrega: use calçado com aderência e nunca trabalhe
+sozinho perto de queda d'água.
+Vedação mal feita desperdiça água e pode derrubar a calha; refaça
+a junta se ainda pingar depois de dez minutos.
+Não use produto químico desconhecido na água que serve para beber
+ou irrigar hortaliças.
+Se o eixo da roda vibrar, pare e procure apoio técnico antes de
+forçar o giro.
+
+SE NAO TIVER
+------------
+Sem estopa, use linho cru ou fibra vegetal limpa nas juntas.
+Sem graxa, use óleo vegetal na articulação por pouco tempo.
+Sem madeira tratada, use ripa seca e troque-a com mais frequência.
+Sem chave de boca, use alicate preso com cuidado e sem escorregar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A calha conduz água sem poças e sem vazamentos visíveis.
+A comporta abre e fecha com movimento livre, sem rangido.
+A roda gira firme, com as pás recebendo água no centro.
+O fluxo medido voltou ao valor anterior ao reparo.
+
+FONTES
+------
+Prática consolidada de manutenção de hidráulica tradicional e
+pequenas centrais rurais, sem documento único. Base: rotinas de
+inspeção de canais, comportas e rodas d'água difundidas por
+extensão rural e oficinas de engenharia hidráulica.

@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 04-037
+TITULO: Como fazer conexões elétricas seguras
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 30 minutos
+RISCO: critico
+EXIGE: circuito desligado, conectores isolados, fita isolante, alicate
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fio, emenda, conector, borne, isolante, choque
+==============================================================================
+
+OBJETIVO
+--------
+Unir fios ou ligar um fio a um borne com contato firme e isolado.
+Conexão é o ponto onde dois condutores se tocam e passa corrente.
+Condutor é o fio de metal que conduz a eletricidade.
+
+QUANDO USAR
+-----------
+Quando um fio de lanterna, rádio ou ventilador partiu e soltou.
+Quando um borne de bateria de 12 volts soltou e o sistema parou.
+Quando uma emenda antiga ficou frouxa, esquenta ou faz piscar.
+Quando for ligar um LED ou aparelho de baixa tensão já desligado.
+
+NAO USE QUANDO
+--------------
+Em tomada, interruptor, quadro de luz ou fio de rede energizado.
+Com as mãos molhadas, em piso molhado ou sob chuva.
+Com fio derretido, cheiro de queimado ou disjuntor que desarma.
+Se não for possível desligar a energia antes de mexer nos fios.
+
+MATERIAIS
+---------
+- Alicate de corte e bico com cabo isolado íntegro.
+- Decapador ou canivete (alicate com corte).
+- Conectores de torção ou bornes de parafuso isolados.
+- Fita isolante em bom estado (tubo termo retrátil).
+- Fio de cobre da mesma espessura do original (mesmo calibre).
+- Multímetro ou lâmpada de teste para conferir energia.
+
+PROCEDIMENTO
+------------
+1. Desligue toda a energia do circuito antes de tocar nos fios.
+2. Retire a bateria, desplugue o aparelho e abra o disjuntor.
+3. Confira que não há tensão com multímetro ou lâmpada de teste.
+4. Trabalhe em local seco, com as mãos secas e boa luz.
+5. Corte fora a parte queimada, derretida ou esverdeada do fio.
+6. Decape aproximadamente 1 cm de cada ponta com cuidado.
+7. Preserve os filamentos de cobre sem cortar nem afinar o feixe.
+8. Escolha conector ou borne do tamanho certo para o fio.
+9. Junte as pontas de cobre limpo sem deixar filamento solto.
+10. Torça as pontas no mesmo sentido até formar um feixe firme.
+11. Encaixe o feixe no conector e aperte até travar bem.
+12. Puxe de leve para confirmar que não escapa do conector.
+13. Confira que nenhum cobre nu ficou exposto para fora.
+14. Envolva a emenda com fita isolante em voltas sobrepostas.
+15. Passe a segunda camada de fita voltando no sentido contrário.
+16. Fixe os fios para não balançar nem encostar em metal.
+17. Religue a energia e observe por alguns minutos antes de guardar.
+
+ATENCAO
+-------
+Choque de rede elétrica mata por parada do coração e queimadura.
+Nunca faça emenda em fio energizado nem em rede da rua ou poste.
+Curto entre polos de bateria causa faísca, calor forte e incêndio.
+Emenda frouxa esquenta, derrete a isolação e pode incendiar a casa.
+Cobre nu exposto dá choque em quem encosta e fecha curto no metal.
+Fita velha, ressecada ou solta não isola: refaça com fita nova.
+Se sair cheiro, calor, fumaça ou estalo, desligue tudo e pare.
+Este procedimento não conserta tomada, quadro nem entrada de energia.
+
+SE NAO TIVER
+------------
+Sem conector isolado, interrompa o uso até conseguir um próprio.
+Sem fita nova, não use esparadrapo, sacola ou pano como isolante.
+Sem alicate isolado, não descasque fio com dente nem faca solta.
+Sem como desligar a energia, não mexa e chame ajuda qualificada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O aparelho liga firme e não pisca ao mexer de leve no fio.
+A emenda fica fria ao toque após alguns minutos ligada.
+Nenhum cobre nu aparece fora do conector ou da fita.
+Não há cheiro, calor, fumaça, estalo ou disjuntor desarmando.
+
+FONTES
+------
+Prática consolidada de instalações elétricas de baixa tensão,
+sem documento único.

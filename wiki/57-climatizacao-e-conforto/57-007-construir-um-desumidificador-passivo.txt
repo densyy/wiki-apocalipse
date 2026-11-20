@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 57-007
+TITULO: Como construir um desumidificador passivo
+CATEGORIA: 57 - Refrigeração, climatização e conforto
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: cloreto de cálcio, dois potes plásticos, pano fino, bandeja
+REVISAO: 2026-11
+PALAVRAS-CHAVE: umidade, desumidificador, cloreto de cálcio, mofo, armário
+==============================================================================
+
+OBJETIVO
+--------
+Montar aparelho sem energia que retira umidade do ar de um espaço fechado.
+
+QUANDO USAR
+-----------
+Quando um armário, despensa ou caixa fechada fica com cheiro de mofo.
+Quando papel, tecido ou ferramentas ficam úmidos ao toque.
+Quando há condensação em vidro ou parede dentro de um compartimento.
+Quando não há energia para um desumidificador elétrico.
+
+NAO USE QUANDO
+--------------
+Quando o ambiente for grande, aberto ou bem ventilado: o efeito é mínimo.
+Quando houver vazamento de água, infiltração ou mofo na parede.
+Quando a umidade vier de telhado, tubulação ou fundação com defeito.
+Quando crianças ou animais não puderem ser afastados do aparelho.
+
+MATERIAIS
+---------
+- Cloreto de cálcio em grãos ou flocos (sílica gel em sachês).
+- Dois potes plásticos que encaixem, um menor que o outro.
+- Pano fino, gaze ou papel filtro para cobrir o pote menor.
+- Elástico ou barbante para prender o pano.
+- Bandeja plástica para apoiar o conjunto.
+- Prego ou broca para fazer os furos.
+- Luvas e proteção para os olhos.
+
+PROCEDIMENTO
+------------
+1. Fure o fundo do pote menor com aproximadamente 6 furos pequenos.
+2. Coloque aproximadamente 250 g de cloreto de cálcio no pote menor.
+3. Cubra a boca desse pote com o pano e prenda com o elástico.
+4. Encaixe o pote menor sobre o maior, deixando espaço entre os dois.
+5. Apoie o conjunto sobre a bandeja plástica.
+6. Coloque a bandeja em prateleira alta, fora do alcance de crianças.
+7. Feche a porta do armário ou da despensa para vedar o espaço.
+8. Deixe o aparelho agir sem mexer por aproximadamente uma semana.
+9. Despeje a salmoura do pote maior no ralo, com muita água.
+10. Reponha o cloreto de cálcio quando os grãos se dissolverem.
+
+ATENCAO
+-------
+O cloreto de cálcio irrita olhos e pele e é nocivo se engolido.
+Use luvas, não inale o pó e lave as mãos depois do manuseio.
+A salmoura corrói metais e mancha madeira, tecido e pedra.
+Mantenha o aparelho na bandeja, longe de ferramentas e alimentos.
+O recurso só reduz a umidade do ar preso em espaço pequeno e fechado.
+Ele não seca parede molhada nem elimina a causa da umidade.
+Não mata o mofo já instalado: limpe a superfície e corrija a origem.
+Nunca use cal virgem: com água ela esquenta e pode causar queimadura.
+Se alguém engolir o sal ou a salmoura, procure atendimento médico.
+
+SE NAO TIVER
+------------
+Sem cloreto de cálcio, use sachês de sílica gel no espaço fechado.
+A sílica é inerte, mas não é alimento e oferece risco de asfixia.
+Quando saturar, regenere a sílica em forno a aproximadamente 120 graus.
+Mantenha-a no calor por aproximadamente 1 a 2 horas.
+Não reaqueça sachês com indicador de cor nem sachês de papel comum.
+Sem dessecante, aumentar a ventilação ajuda a reduzir a umidade.
+Ventilar não substitui o dessecante em armário totalmente fechado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Aparece líquido salino no pote maior depois de alguns dias.
+Os grãos de sal diminuem e se transformam em líquido.
+Com higrômetro, a umidade do espaço cai e fica abaixo de 60 por cento.
+Papel, tecido e vidro no local deixam de ficar úmidos ao toque.
+
+FONTES
+------
+Guia da EPA sobre mofo e umidade em casa: manter a umidade relativa abaixo
+de 60 por cento, de preferência entre 30 e 50 por cento.
+Fichas de dados de segurança do cloreto de cálcio e da sílica gel:
+irritação aos olhos, corrosão da salmoura e manuseio com luvas.
+Nota técnica TED Pella sobre dessecantes e regeneração por calor.
+Prática consolidada de dessecação em recipiente fechado.

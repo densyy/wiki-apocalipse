@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 31-004
+TITULO: Como conservar alimentos sem geladeira
+CATEGORIA: 31 - Refrigeração e conservação térmica
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: alimentos, sal, recipientes limpos, local fresco e escuro, pano limpo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: conservar, salga, desidratação, fermentação, sem geladeira
+==============================================================================
+
+OBJETIVO
+--------
+Conservar alimentos com segurança sem geladeira e evitar intoxicação.
+
+QUANDO USAR
+-----------
+Quando não há energia elétrica ou a geladeira parou.
+Quando o alimento excede a capacidade da geladeira.
+Em viagem, acampamento ou desastre sem refrigeração.
+Quando sobra comida pronta e não há onde guardá-la frio.
+Para guardar raízes, grãos e alimentos secos por mais tempo.
+
+NAO USE QUANDO
+--------------
+- Não conserve em vidro selado carne, peixe ou feijão: risco de botulismo.
+- Não use só sal e sol em carne ou peixe cru: há risco de intoxicação.
+- Não use o método se o alimento já tem cheiro, cor ou textura estranhos.
+- Não guarde comida pronta por mais de aproximadamente 2 horas fora do frio.
+
+MATERIAIS
+---------
+- Alimentos frescos e íntegros, sem machucados, mofo ou cheiro acre.
+- Sal grosso, para a salga.
+- Pano limpo, gaze ou tela fina contra poeira e insetos.
+- Recipientes limpos e secos, de vidro ou plástico próprio para alimentos.
+- Local fresco, escuro, seco e ventilado: despensa, caixa ouomo de terra.
+- Água potável e fogo para cozinhar.
+
+PROCEDIMENTO
+------------
+1. Separe os que duram sem frio: grãos, farinha, óleo e enlatados.
+2. Separe os perecíveis: carne, peixe, leite, ovos e comida cozida.
+3. Coma primeiro os perecíveis e os alimentos com prazo mais curto.
+4. Cozinhe os perecíveis por completo e coma tudo logo em seguida.
+5. Descarte a comida cozida após aproximadamente 2 horas fora do frio.
+6. Reduza para aproximadamente 1 hora se o calor do local for intenso.
+7. Para raízes e frutas firmes, retire só a terra e deixe secar ao ar.
+8. Não lave as raízes antes de guardar: a umidade apodrece.
+9. Guarde cebola, alho e batata separados, em local escuro e seco.
+10. Revise as raízes a cada dois dias e retire as que apodreceram.
+11. Para secar frutas, verduras, ervas ou peixe magro, corte fatias finas.
+12. Estenda as fatias em tela limpa, longe do chão, ao sol e com vento.
+13. Cubra com tela fina para afastar moscas sem tirar a ventilação.
+14. Vire as fatias a cada poucas horas e proteja da umidade da noite.
+15. Retire do sol quando as fatias estiverem secas e quebradiças.
+16. Guarde as fatias secas em recipiente tampado e escuro.
+17. Para salgar peixe ou carne magra, cubra cada peça com sal grosso.
+18. Deixe escorrer e seque ao ar, sempre protegido de moscas e poeira.
+19. Guarde o alimento salgado e seco em local fresco, tampado e escuro.
+20. Descarte qualquer alimento com mofo, cheiro acre ou textura pegajosa.
+
+ATENCAO
+-------
+A zona de crescimento bacteriano fica entre aproximadamente 5 °C e 60 °C.
+Sem geladeira, os perecíveis ficam nessa zona e estragam depressa.
+Carne, peixe, leite, ovos e comida cozida podem causar intoxicação grave.
+Não confie em cheiro ou aparência: alimento perigoso pode parecer normal.
+Na dúvida, descarte: melhor desperdiçar do que causar intoxicação.
+Sal, sol e secagem não matam todos os microrganismos. Coma em poucos dias.
+Não conserve em vidro selado carne, peixe ou feijão sem acidez.
+Nesses alimentos pode surgir botulismo, intoxicação que pode matar.
+Mofo em comida seca pode ter toxinas: descarte a peça e as que a tocaram.
+Crianças, idosos, gestantes e doentes: dê só comida recém-cozida.
+Lave as mãos e os utensílios com água potável. Separe cru e cozido.
+Com náusea, vômito, diarreia ou febre após comer, pare e busque ajuda.
+
+SE NAO TIVER
+------------
+Sem sal, use só a secagem ao sol com muita ventilação e coma em poucos dias.
+Sem sol, seque ao ar corrente e quente, nunca em local fechado e úmido.
+Sem pano ou tela, não exponha o alimento a moscas.
+Nesse caso, cozinhe e coma no mesmo dia, sem guardar sobra.
+Para ganhar tempo, use uma caixa térmica (veja 31-005) ou geladeira
+evaporativa (veja 31-006). Elas reduzem o calor, mas não eliminam o risco.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As raízes continuam firmes, sem mofo, machucado ou cheiro acre.
+O alimento seco quebra fácil e não gruda na mão ou no recipiente.
+O alimento salgado está seco, sem umidade escorrendo.
+A comida pronta foi consumida no mesmo dia, sem sobra fora do frio.
+Ninguém que comeu apresentou náusea, vômito ou diarreia.
+
+FONTES
+------
+Prática consolidada de segurança de alimentos sem refrigeração.
+Referências: USDA/FSIS e CDC (segurança e quedas de energia), OMS e
+Anvisa (higiene e conservação), Embrapa (produtos agrícolas).
+Fontes indisponíveis aqui; resumo operacional, não substitui treinamento.

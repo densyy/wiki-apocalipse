@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 09-007
+TITULO: Como montar uma estação de rádio amador
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: transceptor homologado, pilhas, antena, cabo, papel e lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: rádio amador, radioamador, estação, antena, licença, PX
+==============================================================================
+
+OBJETIVO
+--------
+Monte uma estação de rádio amador básica e faça o primeiro teste de voz
+com indicativo, dentro da faixa permitida ao operador.
+
+QUANDO USAR
+-----------
+Quando a internet e o celular falham e é preciso falar com quem está longe.
+Quando a Defesa Civil ou um clube pede apoio de comunicação em emergência.
+
+NAO USE QUANDO
+--------------
+Quando não há operador habilitado e estação licenciada: não transmita.
+Quando aparecer linha de energia no caminho da antena: desmonte.
+
+MATERIAIS
+---------
+- Transceptor amador homologado pela Anatel.
+- Antena e cabo indicados no manual do transceptor.
+- Pilhas, bateria ou fonte de alimentação do equipamento.
+- Caderno, lápis e cópia impressa da licença da estação.
+
+PROCEDIMENTO
+------------
+1. Passe no exame de habilitação de radioamador exigido pela Anatel.
+2. Peça a outorga do Serviço 302 (Radioamador) no sistema da Anatel.
+3. Licencie a estação no MMAR, receba o indicativo e guarde a licença.
+4. Leia o manual e escolha faixa e modo permitidos à sua habilitação.
+5. Coloque as pilhas ou ligue a bateria com o transceptor desligado.
+6. Conecte o cabo e a antena ao rádio e aperte os conectores com a mão.
+7. Fixe a antena firme, longe de fios de energia e de mãos.
+8. Ligue o rádio e ajuste volume e ruído conforme o manual.
+9. Sintonize a frequência escolhida e aperte o botão de falar.
+10. Diga o indicativo, solte o botão, escute e anote hora e frequência.
+
+ATENCAO
+-------
+Linha de energia e raio matam: mantenha a antena longe deles.
+Ao transmitir, afaste a antena do corpo e de outras pessoas.
+Sem habilitação e estação licenciada, não transmita: é irregular.
+Antena alta: peça ajuda; nunca abra a fonte nem toque em rede energizada.
+
+SE NAO TIVER
+------------
+Sem estação própria, peça para usar a estação licenciada de um clube.
+Sem habilitação, o PX (Rádio do Cidadão) exige cadastro simples na Anatel.
+Sem antena ou pilhas, não transmita: improviso pode dar choque.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O rádio recebe áudio claro e outro operador responde ao seu indicativo.
+Hora, frequência e estação que respondeu estão anotadas no caderno.
+
+FONTES
+------
+Anatel: Radioamadorismo e Passo 3 - Licenciamento de Estações.
+ARRL: What is Ham Radio, Getting Licensed e Newly licensed.
+Ready.gov/FEMA: Build A Kit (rádio a pilha ou manivela).

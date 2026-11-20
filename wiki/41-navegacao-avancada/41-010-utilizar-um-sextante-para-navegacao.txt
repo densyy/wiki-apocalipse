@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 41-010
+TITULO: Como utilizar um sextante para navegação
+CATEGORIA: 41 - Navegação avançada e técnicas de expedição
+TEMPO: 25 minutos
+RISCO: alto
+EXIGE: sextante com filtros, horizonte livre, tabela de declinação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: sextante, navegação, latitude, sol, medir ângulo
+==============================================================================
+
+OBJETIVO
+--------
+Medir a altitude do sol com sextante e obter a latitude aproximada do lugar.
+
+QUANDO USAR
+-----------
+Quando o GPS falhar e a rota depender de um reparo de posição.
+Quando o sol estiver visível e o horizonte livre, perto do meio do dia.
+Quando houver sextante, filtros e tabela de declinação do ano em mãos.
+
+NAO USE QUANDO
+--------------
+Quando o sol estiver encoberto ou o horizonte estiver neblinado.
+Quando não houver tabela de declinação: a leitura não vira latitude.
+Quando for preciso definir longitude: o método não mede o tempo.
+Quando não houver filtros solares: nunca observe o sol sem proteção.
+Quando o horizonte estiver bloqueado e não houver água parada.
+
+MATERIAIS
+---------
+- Sextante com arco graduado, braço móvel e dois espelhos.
+- Filtros solares do aparelho, um para cada espelho.
+- Tabela de declinação solar do ano (ou almanaque náutico impresso).
+- Caderno e lápis para anotar altitude, data, hora e latitude.
+- Vasilha rasa com água parada (horizonte artificial).
+
+PROCEDIMENTO
+------------
+1. Confira o erro do zero: coloque o braço na marca zero e olhe o horizonte.
+2. Una as duas linhas do horizonte com o parafuso de ajuste do espelho.
+3. Se não conseguir unir, anote a diferença: é o erro de índice do aparelho.
+4. Coloque os filtros solares nos dois espelhos antes de olhar para o sol.
+5. Segure o sextante pela alça, longe do arco graduado.
+6. Aponte o sextante para o sol e traga o horizonte para o mesmo campo.
+7. Solte o braço e mova-o até a borda inferior do sol tocar o horizonte.
+8. Oscile o sextante de lado a lado em torno do eixo da vista.
+9. Leia a altitude no ponto em que o sol fica mais baixo na oscilação.
+10. Leia os graus no arco e os minutos no tambor ou na escala de vernier.
+11. Corrija a leitura com o erro de índice anotado.
+12. Some o erro se a imagem refletida estava abaixo da direta no zero.
+13. Subtraia o erro se a imagem refletida estava acima da direta no zero.
+14. Repita a medição três vezes e use a média das três leituras.
+15. Acompanhe a altitude por alguns minutos para achar o meio do dia.
+16. Use o maior valor: altitude do sol ao passar pelo meridiano local.
+17. Ache a declinação do sol na tabela: norte é positivo, sul é negativo.
+18. Subtraia a altitude corrigida de 90 graus e some a declinação.
+19. O resultado é a latitude: positivo ao norte, negativo ao sul.
+20. Registre data, hora, altitude e latitude no caderno.
+
+ATENCAO
+-------
+Nunca observe o sol sem os filtros: a luz queima a retina sem dor.
+Filtro riscado, solto ou de vidro comum não protege a vista.
+Um minuto de arco vale aproximadamente uma milha náutica; um grau, 111 km.
+Sem declinação confiável na tabela, não calcule a latitude.
+Horizonte de montanha, árvore ou prédio falsifica a leitura.
+Sol muito baixo perto do nascer ou do poente dá erro grande por refração.
+Meça entre duas horas após o nascer e duas horas antes do poente.
+O método dá só a latitude: use mapa e bússola para voltar.
+Se as leituras divergirem mais de um grau, pare e procure um instrutor.
+
+SE NAO TIVER
+------------
+Sem horizonte, use uma vasilha rasa com água parada e sem vento.
+Meça o ângulo entre o sol e a reflexão na água e divida por dois.
+Sem filtro do sextante, não observe o sol: espere outro dia.
+Sem tabela de declinação, meça a Estrela Polar à noite no hemisfério norte.
+A altitude da Estrela Polar dá a latitude aproximada.
+O erro pode chegar a aproximadamente um grau.
+Sem sextante, use mapa e bússola; não improvise o ângulo com os dedos.
+Sem relógio, identifique o meio do dia pela altitude máxima do sol.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As três leituras diferem entre si em menos de aproximadamente um grau.
+A borda inferior do sol toca o horizonte no ponto mais baixo da oscilação.
+Com o braço no zero, as duas linhas do horizonte ficam una sobre a outra.
+A latitude calculada cai na faixa do mapa ou de rotas conhecidas.
+
+FONTES
+------
+Prática consolidada de navegação celeste com sextante, sem documento único.
+Referências: The American Practical Navigator (Bowditch),
+da Agência Nacional de Inteligência Geoespacial dos EUA;
+FM 21-76, manual de sobrevivência do Exército dos EUA;
+Navegação: A Ciência e a Arte, volume II, da Diretoria de
+Hidrografia e Navegação da Marinha do Brasil; resumo operacional.

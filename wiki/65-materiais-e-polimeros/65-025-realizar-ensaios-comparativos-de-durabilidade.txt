@@ -1,0 +1,91 @@
+==============================================================================
+CODIGO: 65-025
+TITULO: Como realizar ensaios comparativos de durabilidade
+CATEGORIA: 65 - Engenharia de materiais e polímeros
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: amostras iguais, caderno, local com luz e calor controlados
+REVISAO: 2026-11
+PALAVRAS-CHAVE: durabilidade, ensaio comparativo, envelhecimento, desgaste
+==============================================================================
+
+OBJETIVO
+--------
+Comparar duas ou mais amostras sob o mesmo esforco e escolher a que resiste
+melhor ao uso previsto.
+
+QUANDO USAR
+-----------
+Quando ha duas opcoes de material para a mesma peca.
+Quando um material falhou antes do previsto.
+Quando ha duvida entre reaproveitar e comprar material novo.
+Antes de usar material recuperado em peca que recebe carga.
+Quando o servico combina calor, umidade, sol e esforço repetido.
+
+NAO USE QUANDO
+--------------
+Nao use ensaio acelerado para prometer anos de vida util.
+O ensaio classifica materiais; nao fornece data de troca confiavel.
+Nao use para liberar peca critica de aeronave, guindaste ou freio.
+Se a falha da peca pode matar, troque por material certificado.
+
+MATERIAIS
+---------
+- Amostras iguais de cada material, no minimo tres de cada.
+- Caderno e lápis para registrar medida, data e condicao.
+- Régua, fita metrica ou paquimetro para medir a amostra.
+- Agua, sal e pano limpo para umidade e sujeira controladas.
+- Lampada de luz intensa ou local ensolarado (com protecao).
+- Peso conhecido ou mola para aplicar carga repetida (opcional).
+- Luvas e oculos de protecao; local ventilado.
+
+PROCEDIMENTO
+------------
+1. Defina o servico: esforco, calor, umidade e sol que a peca recebe.
+2. Escolha um sinal de falha: trinca, perda de massa ou deformacao.
+3. Corte todas as amostras com o mesmo tamanho e a mesma forma.
+4. Reserve uma amostra de referencia de desempenho conhecido.
+5. Meça e anote o valor inicial de cada amostra no caderno.
+6. Coloque todas as amostras no mesmo local e na mesma posicao.
+7. Mude apenas um fator por vez para achar a causa da diferenca.
+8. Aplique o mesmo esforco em todas: luz, calor, umidade ou carga.
+9. Repita o ciclo no mesmo horario e pela mesma duracao todos os dias.
+10. Meça o sinal de falha de cada amostra a cada intervalo fixo.
+11. Anote medida, data, condicao do dia e qualquer mudanca no caderno.
+12. Conte quantos ciclos cada amostra aguentou antes de falhar.
+13. Repita o ensaio com amostras novas para confirmar a ordem.
+14. Escolha a amostra que falhou mais tarde em todos os ensaios.
+
+ATENCAO
+-------
+Ensaio acelerado classifica materiais; nao promete anos de vida util.
+Calor e luz fortes podem criar falha que nunca aparece no uso real.
+Lampada de luz intensa fere olhos e pele; use oculos e luvas.
+Ozônio gerado por lampada precisa de ventilacao; nao inale.
+Pode haver risco de esmagamento com carga repetida; afaste as maos.
+Pare se aparecer fumaça, cheiro forte ou aquecimento anormal.
+Nao use resultado de ensaio caseiro para liberar peca de seguranca.
+Compare so amostras expostas no mesmo aparelho e no mesmo lote.
+
+SE NAO TIVER
+------------
+Sem estufa, use local ensolarado e protegido da chuva.
+Sem paquimetro, meça com régua e anote a limitacao do resultado.
+Sem carga controlada, compare apenas luz, calor e umidade.
+Sem tres amostras, repita o ensaio varias vezes; a confianca cai.
+Nao substitua carga por peso excessivo: muda o tipo de falha.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Todas as amostras passaram pelo mesmo numero de ciclos e condicoes.
+Os valores iniciais e finais estao anotados com data para cada amostra.
+Uma amostra falhou primeiro e as outras aguentaram mais ciclos.
+A ordem de resistencia se repetiu quando o ensaio foi refeito.
+
+FONTES
+------
+Pratica ASTM G155: exposicao em lampada de arco de xenonio, com amostra
+de referencia e no minimo tres repeticoes expostas ao mesmo tempo.
+Aviso da ASTM: condicoes diferentes mudam o resultado; compare so o que
+foi exposto junto. Pratica consolidada de engenharia de materiais.
+Resumo operacional; nao substitui norma nem analise de engenheiro.

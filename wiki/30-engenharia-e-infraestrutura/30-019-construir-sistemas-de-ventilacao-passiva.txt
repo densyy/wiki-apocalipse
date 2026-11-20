@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 30-019
+TITULO: Como construir sistemas de ventilação passiva
+CATEGORIA: 30 - Engenharia e infraestrutura básica
+TEMPO: 3 horas
+RISCO: medio
+EXIGE: trena, serra, madeira ou tubos, tela, pregos, acesso ao telhado
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ventilação, corrente de ar, chaminé, telhado, abafado
+==============================================================================
+
+OBJETIVO
+--------
+Renovar o ar de um abrigo sem energia, usando aberturas e o vento.
+
+QUANDO USAR
+-----------
+Quando o abrigo fica abafado e o ar parado incomoda.
+Quando se cozinha ou dorme em ambiente fechado com calor ou fumaça.
+Quando não há energia para ventilador ou ar-condicionado.
+
+NAO USE QUANDO
+--------------
+Quando o ar de fora estiver poluído, como em incêndio ou gás.
+Não use se o telhado estiver podre ou sem estrutura para o duto.
+
+MATERIAIS
+---------
+- Trena, serra ou faca para medir e cortar madeira, tubo ou chapinha.
+- Madeira, tubo de PVC ou chapinha para frestas e dutos.
+- Tela fina ou pano claro para barrar insetos.
+- Escada firme, cinto, pregos ou arame para fixar e subir com segurança.
+
+PROCEDIMENTO
+------------
+1. Meça a parede e marque com lápis o local de cada abertura.
+2. Escolha duas paredes opostas para criar corrente de ar cruzada.
+3. Abra uma fresta baixa no lado de onde vem o vento.
+4. Abra uma abertura maior no lado oposto e mais alta que a entrada.
+5. Pregue tela ou pano fino sobre cada abertura para barrar insetos.
+6. Marque no telhado o ponto mais alto para a saída do ar quente.
+7. Antes de cortar, confira que não há fios ou vigas no local marcado.
+8. Instale o duto no ponto marcado e proteja a saída da chuva com aba.
+9. Vede as bordas com chapinha ou massa para não entrar água.
+10. Abra a fresta baixa e a saída alta ao mesmo tempo.
+
+ATENCAO
+-------
+Trabalhar em telhado é perigoso: use escada firme, cinto e nunca sozinho.
+Uma queda pode ferir; sem segurança, faça só as frestas nas paredes.
+Nunca deixe fogão ou braseiro acesos sem chaminé própria.
+Fumaça, monóxido de carbono e calor se acumulam onde o ar não circula.
+Se alguém sentir tontura ou dor de cabeça ao entrar, saia e ventile.
+
+SE NAO TIVER
+------------
+Sem tela, use pano claro como filtro e troque quando sujar.
+Sem tubo, improvise a chaminé com madeira e papelão encerado.
+Sem escada segura, não suba: limite-se às frestas baixas nas paredes.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Uma fita de papel na entrada tremole para dentro e a fumaça suba e saia.
+Não haja goteiras nem umidade ao redor do duto no telhado.
+
+FONTES
+------
+Prática consolidada de ventilação natural em abrigos e construções rurais.
+Fontes: OMS (poluição do ar doméstico) e EPA (qualidade do ar interno).

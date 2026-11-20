@@ -1,0 +1,92 @@
+==============================================================================
+CODIGO: 41-008
+TITULO: Como utilizar sondas de profundidade manuais
+CATEGORIA: 41 - Navegação avançada e técnicas de expedição
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: corda resistente, peso, fita para marcas, colete salva-vidas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: sonda, profundidade, linha, peso, medir fundo, encalhe, vara
+==============================================================================
+
+OBJETIVO
+--------
+Medir a profundidade da água e reconhecer o fundo com uma linha com peso.
+
+QUANDO USAR
+-----------
+Quando navegar em rio, lago ou costa sem carta nem ecossonda.
+Quando o aparelho eletrônico falhar ou a bateria acabar.
+Quando precisar saber se há água suficiente antes de avançar ou atracar.
+Quando o fundo mudou após chuva, enchente ou assoreamento.
+Quando precisar escolher onde fundear sem correr risco de encalhar.
+
+NAO USE QUANDO
+--------------
+Quando não houver colete e apoio firme na borda da embarcação.
+Quando a corrente puder arrastar a embarcação para rochas ou cachoeira.
+Quando a água for rasa o bastante para medir com vara: use a vara.
+
+MATERIAIS
+---------
+- Corda resistente, com aproximadamente 45 m, sem nós (linha de pesca).
+- Peso de aproximadamente 2 a 4 kg com argola (pedra redonda bem amarrada).
+- Fita de pano em duas cores (tiras de camiseta).
+- Linha ou fio para prender as marcas (fita adesiva impermeável).
+- Gordura ou cera para untar a ponta do peso (sebo, opcional).
+- Colete salva-vidas e ponto firme para se segurar na borda.
+
+PROCEDIMENTO
+------------
+1. Entenda a braça: aproximadamente 1,8 m, a abertura das duas mãos.
+2. Marque a cada 2 braças, aproximadamente 3,6 m, com a primeira cor.
+3. Marque a cada 10 braças, aproximadamente 18 m, com a segunda cor.
+4. Prenda o peso na ponta da corda com nó duplo e puxe para conferir.
+5. Vista o colete e segure-se em ponto firme da borda antes de começar.
+6. Segure a corda solta entre os dedos, sem enrolar na mão ou no braço.
+7. Balance o peso e arremesse-o à frente da embarcação, por sobre a borda.
+8. Deixe a corda correr com leve tensão até o peso encostar no fundo.
+9. Sinta a folga súbita da corda: é o sinal de que o peso tocou o fundo.
+10. Puxe devagar e leia a última marca que passou pela sua mão.
+11. Some as marcas de 2 braças até a última marca de 10 braças.
+12. Anote o valor e repita em outro ponto se o fundo estiver irregular.
+13. Unte a ponta do peso com gordura antes de cada lançamento.
+14. Observe o que sobe: lama, areia ou cascalho; sem amostra, é rocha.
+15. Avance só após conferir que a profundidade não está diminuindo.
+
+ATENCAO
+-------
+Nunca enrolar a corda na mão, no braço ou no corpo: a corrente pode puxar.
+O colete é obrigatório; o risco maior é ao se inclinar para lançar a linha.
+A linha mede onde o peso toca o fundo, não onde a embarcação está.
+Corrente e vento inclinam a linha: a leitura pode sair maior que a real.
+Se a corda não firmar ou o peso não descer, repita em outro ponto.
+A sonda mostra só a profundidade: não vê rocha pontuda nem obstáculo.
+Se a profundidade cair depressa, pare e volte: risco de encalhe.
+A marcação com duas cores é simplificação da linha tradicional.
+Esta técnica não substitui carta náutica, ecossonda nem treinamento.
+
+SE NAO TIVER
+------------
+Sem peso de metal, use pedra pesada, presa com nó duplo e fita.
+Sem fita colorida, faça um nó a cada 2 braças e dois nós a cada 10.
+Sem corda longa, meça com vara marcada até aproximadamente 2 m.
+Sem gordura, não conclua o tipo de fundo: diga que não sabe.
+Sem colete, não se debruce: espere ajuda ou peça a outra pessoa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A corda fica frouxa de repente ao tocar o fundo.
+A última marca na mão confere com a profundidade anotada.
+A gordura traz lama, areia ou cascalho; limpa indica fundo de rocha.
+A embarcação avançou sem riscar, sem encalhar e sem perder a linha.
+
+FONTES
+------
+Prática consolidada de marinharia e navegação de pequenas
+embarcações, resumida aqui sem documento único. Fonte consultada
+diretamente: "The Lead Line - Construction and use", de Allen
+Mordica, sobre construção, marcas, lançamento e leitura da linha.
+Referências citadas no material de consulta: histórico de sondagem
+da NOAA ("Sounding Pole to Sea Beam") e Oxford Companion to Ships
+and the Sea. Este resumo não substitui treinamento nem carta náutica.

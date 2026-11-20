@@ -1,0 +1,84 @@
+==============================================================================
+CODIGO: 78-008
+TITULO: Como construir pontes de cordas
+CATEGORIA: 78 - Pontes, estradas e infraestrutura de transporte
+TEMPO: 150 minutos
+RISCO: alto
+EXIGE: corda resistente, vigas de ancoragem, tabuas, luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ponte, corda, suspensa, travessia, ancoragem, passadiço
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma travessia suspensa por cordas sobre um vao estreito ou barranco.
+
+QUANDO USAR
+-----------
+Para cruzar barrancos, grotas ou riachos com margens altas e firmes.
+Quando nao ha madeira para vigas longas, mas ha corda e pontos de apoio.
+Em trilhas de montanha com vao entre 3 e 15 metros.
+Como passagem de pedestres, nunca de veiculos.
+
+NAO USE QUANDO
+--------------
+Nao monte onde nao houver arvores ou estacas firmes para ancorar.
+Nao use corda velha, desfiada ou de fibra podre.
+Nao atravesse em vento forte, pois a ponte balanca muito.
+Nao use para cargas pesadas ou transito de animais grandes.
+
+MATERIAIS
+---------
+- Corda resistente, sem desfiar, para as duas laterais e o passadio.
+- Estacas grossas ou arvores saudaveis como pontos de ancoragem.
+- Tabuas leves e uniformes para o piso (bambu ou madeira).
+- Pedacos de manga de mangueira para proteger a corda na arvore.
+- Faca, alicate, luvas e capacete.
+- Cinta ou arame para prender e ajustar as emendas.
+
+PROCEDIMENTO
+------------
+1. Escolha duas ancoragens firmes, uma em cada margem, na mesma altura.
+2. Proteja a casca da arvore com manga de mangueira antes de passar a corda.
+3. Estique a primeira corda mestra de uma margem a outra, sem folga.
+4. Repita com a segunda corda mestra, paralela, a 80 cm da primeira.
+5. Prenda as duas cordas nas ancoragens com nos duplos ou cinta.
+6. Meça a flecha: o meio deve ficar cerca de 60 cm mais baixo que as pontas.
+7. Ajuste a tensao ate as duas cordas ficarem com a mesma flecha.
+8. Amarre as tabuas do piso as duas cordas, uma a uma, bem rentes.
+9. Deixe 1 cm de folga entre tabuas para drenar a agua da chuva.
+10. Prenda cada tabua com dois nos, um em cada corda lateral.
+11. Confira todos os nos e aperte os que estiverem frouxos.
+12. Instale, se possivel, uma terceira corda alta como mao corrente.
+13. Teste a ponte com uma pessoa por vez, no centro primeiro.
+
+ATENCAO
+-------
+A corda esticada sob tensao pode chicotear e ferir rosto e olhos.
+Use oculos e luvas ao manusear cordas sob carga.
+Nos mal feitos deslizam: refaca qualquer no que apresentar folga.
+A ponte balanca e gira; atravesse devagar e sem correr.
+Se uma corda mestra arrebentar, interdite a ponte imediatamente.
+Em cheia, a agua pode levar as tabuas: retire-as antes do periodo de chuva.
+Nunca ancore em arvore seca, torta ou de raiz rasa.
+
+SE NAO TIVER
+------------
+Sem corda adequada, use cabo de aco ou cinta de ancoragem (se houver).
+Sem tabuas, use varas de bambu amarradas transversalmente.
+Sem arvores, crave estacas grossas e ate-as com pedras na base.
+Sem manga de mangueira, use pano grosso ou folhas para proteger a casca.
+Sem mao corrente, segure as duas cordas laterais durante a travessia.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As duas cordas mestras estao paralelas, com flecha igual e nos firmes.
+As tabuas estao alinhadas, presas nas duas cordas e sem desnivel.
+A ponte suporta uma pessoa parada no centro sem torcer demais.
+As ancoragens nao cedem e nao danificam a arvore.
+
+FONTES
+------
+Pratica consolidada de passagens suspensas de pedestres, sem documento
+unico obrigatorio. Orientacoes gerais de construcao de travessias
+leves em trilhas e de seguranca com cordas em area rural.

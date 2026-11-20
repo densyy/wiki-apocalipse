@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 70-016
+TITULO: Como utilizar manuais e páginas de documentação offline
+CATEGORIA: 70 - Computação de baixo consumo e preservação digital
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: computador com documentos salvos, terminal, leitor de arquivos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: manual, documentação, offline, ajuda, buscar, man, kiwix
+==============================================================================
+
+OBJETIVO
+--------
+Encontrar e ler a instrução correta em manuais salvos, sem internet.
+
+QUANDO USAR
+-----------
+Quando a internet cair e ainda for preciso consultar como fazer.
+Quando um comando der erro e a resposta estiver no manual do aparelho.
+Quando o fabricante entregou o manual em arquivo salvo no computador.
+
+NAO USE QUANDO
+--------------
+Quando a dúvida envolver risco de vida, incêndio ou choque elétrico.
+Quando o manual for de outro modelo, versão ou sistema operacional.
+
+MATERIAIS
+---------
+- Computador ou celular com os documentos já salvos.
+- Páginas man e info do sistema, ou arquivos de ajuda do programa.
+- Leitor de PDF e navegador para HTML salvo (ou editor de texto).
+- Caderno para anotar o comando ou o passo encontrado.
+
+PROCEDIMENTO
+------------
+1. Anote o nome do programa ou a mensagem de erro.
+2. Abra a página man (ajuda do sistema) com man e o nome do comando.
+3. Confira no início se o nome e a função são os certos.
+4. Para navegar na página, use a barra para buscar palavras e q para sair.
+5. Se não souber o nome, digite man -k e uma palavra do assunto.
+6. Escolha da lista a página cuja descrição combina com a dúvida.
+7. Sem página man, digite info e o nome do programa.
+8. Abra manuais em PDF ou HTML salvo no leitor de arquivos do aparelho.
+9. Use a função localizar do leitor para achar a palavra no texto.
+10. Abra o arquivo ZIM (site salvo em arquivo) no leitor Kiwix.
+11. Anote no caderno o passo encontrado antes de fechar o leitor.
+12. Confira o modelo, a versão e a data do documento com o aparelho em mãos.
+
+ATENCAO
+-------
+Manual desatualizado pode mandar fazer o contrário do correto.
+Página man de outro sistema pode citar comandos que não existem aqui.
+Arquivo ZIM corrompido não abre: mantenha outra cópia do manual.
+Se houver risco de vida, incêndio ou choque, pare e busque ajuda presencial.
+
+SE NAO TIVER
+------------
+Sem página man, leia o arquivo de texto de ajuda na pasta do programa.
+Sem leitor de PDF, abra o HTML salvo no navegador do aparelho.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A página ou o documento abre e mostra o nome do comando ou do assunto.
+A palavra buscada aparece marcada e o passo foi anotado no caderno.
+
+FONTES
+------
+Páginas man e info do projeto man-db e do conjunto man-pages do Linux.
+Kiwix, organização sem fins lucrativos de acesso offline ao conhecimento.
+Manual de Preservação Digital da Digital Preservation Coalition (DPC).

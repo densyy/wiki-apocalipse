@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 35-016
+TITULO: Como reconstruir uma oficina mecânica
+CATEGORIA: 35 - Temas especiais que merecem enciclopédias próprias
+TEMPO: 2 dias
+RISCO: alto
+EXIGE: local coberto, ferramentas manuais, extintor, luva, óculos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: oficina, mecânica, ferramenta, bancada, conserto, garagem
+==============================================================================
+
+OBJETIVO
+--------
+Montar um local seguro e organizado para consertar máquinas e veículos
+sem energia elétrica nem suprimentos regulares.
+
+QUANDO USAR
+-----------
+Quando a oficina antiga foi destruída ou abandonada.
+Quando as ferramentas estão dispersas e é preciso concentrá-las.
+Quando um grupo vai dividir ferramentas e reparos.
+Quando há peças e veículos parados que precisam voltar a funcionar.
+
+NAO USE QUANDO
+--------------
+Quando não houver local coberto, seco e arejado.
+Quando houver vazamento de combustível, gás ou químico sem isolamento.
+Nunca monte a bancada sobre óleo derramado.
+Quando não houver extintor nem saída livre, não comece.
+
+MATERIAIS
+---------
+- Local coberto, seco e arejado (tenda, galpão ou varanda).
+- Bancada firme (tábua grossa sobre cavaletes).
+- Caixas ou prateleiras para guardar ferramentas.
+- Extintor de pó ABC (ou balde de areia seca; nunca use água em óleo).
+- Luva de couro, óculos de proteção e máscara contra poeira.
+- Lanterna ou luz a bateria (nunca vela perto de combustível).
+- Recipiente metálico fechado para óleo e resíduos.
+- Corda, fita e pregos para fixar a cobertura.
+
+PROCEDIMENTO
+------------
+1. Escolha terreno plano, firme e longe de depósitos de combustível.
+2. Afaste a área de fontes de fogo, calor e faíscas.
+3. Varra o chão e retire pregos, cacos de vidro e óleo derramado.
+4. Monte a cobertura com inclinação para a chuva escorrer.
+5. Deixe duas saídas livres; não bloqueie a porta com peças.
+6. Apoie a tábua nos cavaletes e prenda com corda ou parafuso.
+7. Fixe a bancada ao chão ou a um peso para não balançar.
+8. Separe as ferramentas por uso: corte, aperto e medição.
+9. Coloque as ferramentas mais usadas ao alcance da mão.
+10. Guarde óleo, graxa e solventes em recipientes fechados.
+11. Afaste esses recipientes da bancada e da luz direta do sol.
+12. Reserve um canto com divisórias para peças pequenas.
+13. Coloque extintor e areia perto da saída, não atrás da bancada.
+14. Teste a luz a bateria antes de iniciar qualquer reparo.
+15. Faça uma ficha do que falta e do que foi recuperado.
+16. Anote nela quem usa cada ferramenta ao fim do turno.
+
+ATENCAO
+-------
+Combustível, solvente e graxa inflamam com uma faísca.
+Nunca use chama aberta, vela ou cigarro dentro da oficina.
+Monóxido de carbono mata em lugar fechado: mantenha ventilação.
+Óleo no chão escorrega e alimenta incêndio; limpe na hora.
+Bancada frouxa e ferramenta solta causam lesão; firme antes de usar.
+Se sentir tontura ou cheiro de gás, saia e deixe o local ventilar.
+Com fogo fora de controle, abandone o local e peça ajuda.
+Este texto não substitui treinamento em máquinas nem em combate a fogo.
+
+SE NAO TIVER
+------------
+Sem bancada, use uma tábua firme apoiada em dois blocos.
+Sem extintor, mantenha areia seca e um balde por perto.
+Nunca substitua extintor por água quando houver óleo ou combustível.
+Sem luva, use pano grosso dobrado; pare se ele escorregar.
+Sem prateleira, empilhe caixas de madeira e prenda umas às outras.
+Sem luz a bateria, trabalhe apenas com luz do dia.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A bancada não balança quando se aplica força sobre ela.
+Cada ferramenta tem lugar definido e volta a ele após o uso.
+Óleo e resíduos ficam em recipientes fechados, fora do caminho.
+O extintor está visível e o caminho até a saída está livre.
+A ficha registra ferramentas e o nome de quem as usa.
+
+FONTES
+------
+NR-11, Transporte, movimentação, armazenagem e manuseio de materiais
+(Ministério do Trabalho e Previdência), consultada para guarda e
+manuseio seguro de materiais. Manual de sobrevivência das Forças
+Armadas dos Estados Unidos, edição civil, consultado para abrigo,
+fogo e organização de área. Prática consolidada de oficinas, sem
+documento único.

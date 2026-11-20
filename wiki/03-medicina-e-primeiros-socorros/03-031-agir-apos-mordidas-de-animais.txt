@@ -1,0 +1,86 @@
+==============================================================================
+CODIGO: 03-031
+TITULO: Como agir após mordidas de animais
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 20 minutos
+RISCO: critico
+EXIGE: água corrente, sabão, antisséptico, gaze ou pano limpo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: mordida, cachorro, animal, raiva, lavagem, vacina
+==============================================================================
+
+OBJETIVO
+--------
+Reduzir o risco de raiva e infecção após mordida ou arranhadura de animal.
+
+QUANDO USAR
+-----------
+Quando cão, gato ou outro mamífero morder ou arranhar a pele.
+Quando houver saliva em ferida aberta ou em olho, boca ou mucosa.
+Quando o animal for desconhecido, estiver fugindo ou parecer doente.
+Quando a mordida for de morcego, mesmo sem marca visível na pele.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para a lavagem da ferida.
+Não use a lavagem como único cuidado: ela não substitui a vacina.
+
+MATERIAIS
+---------
+- Água corrente limpa (água de beber engarrafada, se não houver torneira).
+- Sabão comum (sabonete ou detergente neutro).
+- Antisséptico: clorexidina ou povidona iodada.
+- Gaze ou pano limpo (pano novo ou passado a ferro).
+- Luvas descartáveis, se houver.
+- Saco plástico para separar a roupa contaminada.
+
+PROCEDIMENTO
+------------
+1. Saia do alcance do animal e vá para um lugar seguro.
+2. Lave a ferida com água corrente e sabão por pelo menos 15 minutos.
+3. Esfregue suavemente ao redor da mordida para remover saliva e terra.
+4. Enxágue com bastante água corrente ao final dos 15 minutos.
+5. Aplique clorexidina ou povidona iodada com gaze limpa.
+6. Deixe a ferida aberta, sem pontos, cola ou fita adesiva.
+7. Cubra com gaze limpa e solta, sem apertar a pele.
+8. Procure atendimento médico no mesmo dia para avaliar vacina antirrábica
+   e imunoglobulina, quando indicadas.
+9. Informe ao profissional a espécie, o comportamento e a vacinação do
+   animal, e se ele pode ser observado.
+10. Não capture o animal com as mãos; acione o responsável ou autoridade.
+
+ATENCAO
+-------
+A raiva quase sempre mata depois que aparecem os sintomas, e não tem cura.
+A vacina e a imunoglobulina aplicadas a tempo evitam a doença.
+Lavar bem reduz o risco, mas não dispensa o atendimento médico.
+Mordida de morcego exige atendimento mesmo sem ferida visível.
+Não ponha café, álcool, vinagre, cinza, pasta de dente ou pó na ferida.
+Não tome antibiótico por conta própria; quem decide é o profissional.
+Vá à urgência se o sangramento não parar, ou se houver dor forte,
+inchaço rápido, vermelhidão que avança, febre ou pus.
+
+SE NAO TIVER
+------------
+Sem água corrente, use água de beber engarrafada e despeje sobre a ferida.
+Sem sabão, lave só com água limpa e abundante, e arranje sabão depois.
+Sem antisséptico, cubra com gaze limpa e seca e vá ao atendimento.
+Não use álcool de limpeza, solvente ou bebida dentro da ferida.
+Sem gaze, use pano limpo, de preferência novo ou passado a ferro.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A ferida ficou visivelmente limpa, sem terra, saliva ou sangue seco.
+A pessoa recebeu a vacina antirrábica no serviço de saúde.
+Sem vermelhidão em expansão, inchaço, pus ou febre nos dias seguintes.
+
+FONTES
+------
+Organização Mundial da Saúde (OMS): ficha informativa "Rabies", de
+17 de setembro de 2026. Orienta lavar a ferida com água e sabão por pelo
+menos 15 minutos, classifica as exposições em I, II e III e descreve a
+profilaxia pós-exposição com vacina e imunoglobulina quando indicada.
+Centers for Disease Control and Prevention (CDC): página "Rabies" e a
+orientação "When to Seek Medical Care for Rabies" sobre atendimento
+após mordida de animal. Os passos de limpeza seguem prática consolidada
+de primeiros socorros.

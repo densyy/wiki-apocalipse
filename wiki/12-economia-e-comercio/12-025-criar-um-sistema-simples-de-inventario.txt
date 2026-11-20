@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 12-025
+TITULO: Como criar um sistema simples de inventário
+CATEGORIA: 12 - Economia, comércio e organização financeira
+TEMPO: 60 minutos
+RISCO: baixo
+EXIGE: papel, lápis, etiquetas, caixas ou prateleiras
+REVISAO: 2026-11
+PALAVRAS-CHAVE: estoque, inventário, lista, validade, reposição
+==============================================================================
+OBJETIVO
+--------
+Monte uma lista que mostra o que há no estoque, quanto há e quando
+vence, para saber o que usar e o que repor antes de faltar.
+QUANDO USAR
+-----------
+Quando o grupo guarda comida, água, remédios ou ferramentas em comum.
+Quando comida estragada aparece no armazenamento.
+Quando falta um item e ninguém sabia que o estoque acabou.
+Quando há pouco espaço e é preciso saber o que comprar primeiro.
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para este procedimento.
+MATERIAIS
+---------
+- Papel, caderno ou folhas soltas (caderno de capa dura se possível).
+- Lápis (caneta se não houver umidade).
+- Etiquetas de papel com cola ou fita adesiva.
+- Caixas, sacos ou prateleiras para agrupar os itens.
+- Marcador para escrever nas etiquetas.
+PROCEDIMENTO
+------------
+1. Escolha um lugar fixo e seco para guardar todos os itens do estoque.
+2. Separe por categoria: água, comida, remédios, ferramentas.
+3. Anote no papel uma linha para cada tipo de item guardado.
+4. Escreva o nome do item, a quantidade e a unidade em cada linha.
+5. Anote a data de validade impressa na embalagem de cada item.
+6. Cole uma etiqueta em cada caixa com nome, data de entrada e validade.
+7. Guarde os itens que vencem primeiro na frente dos demais.
+8. Marque na lista os itens sem validade como sem data.
+9. Defina uma quantidade mínima para cada item essencial na lista.
+10. Fixe a lista na parede perto do estoque, livre de umidade.
+11. Revise a lista uma vez por semana e anote entradas e saídas.
+12. Retire e descarte itens vencidos ou com embalagem danificada.
+ATENCAO
+-------
+Uma lista desatualizada e pior do que nenhuma: confira a prateleira
+antes de confiar no número escrito. Em dúvida, não consuma.
+Descarte alimento em embalagem estufada ou com cheiro estranho,
+mesmo que a data ainda não tenha vencido.
+Guarde comida em local fresco e seco. Troque a água não comercial
+a cada seis meses. Não exponha dados de saúde de pessoa vulnerável.
+SE NAO TIVER
+------------
+Sem etiquetas, escreva direto na tampa da caixa com marcador.
+Sem papel, escreva no verso de uma embalagem vazia.
+Sem prateleiras, empilhe caixas e deixe as mais antigas no topo.
+COMO SABER QUE DEU CERTO
+------------------------
+A lista informa a quantidade real conferida na prateleira.
+Todo item tem nome, quantidade e data de validade anotados.
+Os itens mais próximos do vencimento ficam na frente.
+Nenhum item da lista está vencido ou com embalagem danificada.
+FONTES
+------
+Prática consolidada de preparação e manejo de estoque doméstico:
+kit de emergência do Ready.gov/FEMA (local fresco e seco, trocar
+vencidos, revisar a cada ano) e guia de água do Ready.gov (trocar
+água não comercial a cada seis meses). Rotação dos mais antigos
+primeiro é prática comum de controle de estoque.

@@ -1,0 +1,83 @@
+==============================================================================
+CODIGO: 57-011
+TITULO: Como construir um sistema de resfriamento evaporativo
+CATEGORIA: 57 - Refrigeração, climatização e conforto
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: janela com ventilação, água, material poroso, sombra
+REVISAO: 2026-11
+PALAVRAS-CHAVE: evaporativo, refrescar, umidade, ventilação, clima seco
+==============================================================================
+
+OBJETIVO
+--------
+Esfriar o ar que entra pela janela usando evaporação de água e ventilação.
+
+QUANDO USAR
+-----------
+Em dias quentes e secos, com umidade relativa baixa e algum vento.
+Quando um quarto tem janelas opostas e permite ventilação cruzada.
+Para refrescar o local de dormir em clima seco durante a noite.
+Quando não há energia elétrica e sombra e vento já não bastam.
+
+NAO USE QUANDO
+--------------
+Em dias úmidos ou chuvosos: o aparelho só aumenta a umidade e o mofo.
+Em quarto fechado, sem segunda abertura para o ar sair.
+Onde a água parada não possa ser trocada e limpa todo dia.
+Perto de fiação ou tomadas expostas, se houver ventoinha elétrica.
+Para quem tem asma ou alergia grave a mofo, sem ventilação e limpeza.
+
+MATERIAIS
+---------
+- Moldura de madeira ou bambu do tamanho da janela (papelão resistente).
+- Manta porosa: aniagem, pano áspero ou tijolos empilhados (celulose).
+- Recipiente de água com furo pequeno ou pavio de pano (garrafa furada).
+- Bandeja ou pano absorvente para recolher a água que escorre.
+- Pano ou papelão para vedar as bordas da moldura.
+- Barbante ou arame para prender moldura e recipiente.
+- Água limpa.
+
+PROCEDIMENTO
+------------
+1. Escolha a janela à sombra que receba o vento predominante.
+2. Meça a abertura e construa a moldura um pouco maior que ela.
+3. Fixe a manta porosa na moldura, sem deixar buracos largos.
+4. Encaixe a moldura na janela e vede as bordas com pano ou papelão.
+5. Prenda o recipiente de água acima da manta, com segurança.
+6. Abra o furo ou molhe o pavio para a água escorrer na manta.
+7. Ajuste o gotejo: a manta deve ficar úmida, sem encharcar.
+8. Use aproximadamente 1 litro por hora para uma janela comum.
+9. Coloque a bandeja sob a manta para recolher o excesso de água.
+10. Abra uma segunda janela ou porta oposta para o ar circular.
+11. Observe o ar que sai da manta e ajuste gotejo e aberturas.
+
+ATENCAO
+-------
+O método só funciona em ar seco: com umidade alta ele piora o ambiente.
+Sem corrente de ar, a manta não esfria e a umidade dentro sobe.
+Água parada cria mosquito: troque a água e limpe a bandeja todo dia.
+Limpe a manta toda semana; mofo ou mau cheiro indicam que ela falhou.
+Prenda bem o recipiente: se cair sobre fio ou tomada, pode dar choque.
+Se usar ventoinha, mantenha água longe do motor e da fiação; choque mata.
+Quarto sem saída de ar acumula umidade; deixe outra abertura.
+
+SE NAO TIVER
+------------
+Sem aniagem, use pano áspero, barbante denso ou tijolos empilhados.
+Sem furo, use pavio de pano ou garrafa com furo de alfinete.
+Sem moldura, pendure o pano molhado na janela com corda e bandeja.
+Sem vento, use ventoinha puxando o ar pela manta, longe da água.
+Sem água, o método não serve: use sombra e ventilação.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O ar que passa pela manta está mais frio que o ar de fora ao termômetro.
+A manta fica úmida por igual e a bandeja recolhe um fio constante de água.
+Não há condensação nas paredes ou vidros e não aparece cheiro de mofo.
+
+FONTES
+------
+Prática consolidada de resfriamento evaporativo, sem documento único.
+Família de referência: psicrometria (ASHRAE) e orientações de calor e
+ventilação da OMS e da OPAS. Vazões e temperaturas aproximadas.

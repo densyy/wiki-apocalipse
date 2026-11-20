@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 17-005
+TITULO: Como construir um pluviômetro
+CATEGORIA: 17 - Meteorologia, clima e meio ambiente
+TEMPO: 45 minutos
+RISCO: alto
+EXIGE: pote cilíndrico, tesoura, luvas, régua, fita, estaca, caderno
+REVISAO: 2026-11
+PALAVRAS-CHAVE: chuva, pluviômetro, medir chuva, milímetros, garrafa
+==============================================================================
+
+OBJETIVO
+--------
+Medir em milímetros quanta chuva caiu no lugar onde o pote foi instalado.
+
+QUANDO USAR
+-----------
+Quando quiser saber quanto choveu na horta, no quintal ou no sítio.
+Quando o boletim da cidade não representar o seu bairro.
+Quando precisar decidir irrigação sem comprar um medidor pronto.
+Quando quiser guardar registros próprios de seca ou de excesso de chuva.
+
+NAO USE QUANDO
+--------------
+Quando houver alerta de tempestade, raio, vento forte ou enchente.
+Não instale nem leia o aparelho nessa hora.
+Quando o dado precisar valer para laudo, seguro ou Defesa Civil.
+Quando a água coletada for beber ou cozinhar: ela não é tratada.
+
+MATERIAIS
+---------
+- Pote de plástico com boca larga, paredes retas, fundo plano e tampa.
+- Tesoura ou estilete (faca de cozinha).
+- Luvas de couro ou de tecido grosso.
+- Régua com divisões de 1 milímetro (tira de papel marcada).
+- Fita adesiva impermeável (cordel).
+- Estaca ou haste firme (cabo de vassoura) para fixar o pote.
+- Caneta permanente e caderno.
+
+PROCEDIMENTO
+------------
+1. Lave o pote por dentro e retire rótulo e resíduo de gordura.
+2. Calce as luvas antes de usar a tesoura ou o estilete.
+3. Confira se as paredes do pote são retas e se o fundo é plano.
+4. Apoie a régua na parede externa, na vertical, com o zero no fundo.
+5. Prenda a régua com fita, sem cobrir a parte que será lida.
+6. Escolha terreno aberto, longe de telhado, muro, árvore e ar-condicionado.
+7. Finca a estaca e prenda o pote nela com fita ou cordel.
+8. Deixe a boca do pote aproximadamente 1 metro acima do solo.
+9. Confira se a boca ficou nivelada; se inclinou, refaça a fixação.
+10. Anote no caderno a data, a hora e o local da instalação.
+11. Retire a tampa quando a chuva começar.
+12. Após a chuva, leia a altura da água na régua sem tirar o pote.
+13. Anote os milímetros lidos e a hora da leitura no caderno.
+14. Esvazie o pote e limpe folhas e insetos antes da próxima chuva.
+15. Repita a leitura no mesmo horário a cada dia e some os valores.
+
+ATENCAO
+-------
+A tesoura ou o estilete podem causar ferida profunda: use luvas, corte
+sobre superfície firme e mantenha os dedos longe da lâmina.
+Não suba em telhado, muro ou árvore para instalar ou ler o aparelho.
+Uma queda pode causar lesão grave, mesmo com pouca altura.
+Nunca leia o pote durante raio, vento forte ou água correndo no terreno.
+Espere a chuva passar e o solo secar antes de se aproximar.
+Com vento forte, a chuva entra menos no pote e a leitura fica abaixo
+da chuva real. Trate o número como estimativa local.
+Folhas, poeira e insetos entopem a boca e mudam a leitura.
+A água coletada pode conter sujeira do ar: não beba nem cozinhe com ela.
+O aparelho caseiro não substitui alerta oficial nem dado de estação.
+Se a estaca inclinar, a régua soltar ou o pote rachar, refaça a medição.
+
+SE NAO TIVER
+------------
+Sem pote de paredes retas, use garrafa PET transparente de 2 litros.
+Corte o gargalo e vire a parte cortada para baixo, como funil.
+Nela a altura da água não é a chuva: é preciso calibrar.
+Marque o zero acima do fundo irregular da garrafa.
+Adicione água de 10 em 10 mililitros e marque cada nível.
+Meça o diâmetro da boca do funil e divida por dois para achar o raio.
+Multiplique o raio por ele mesmo e por 3,14, aproximação de pi.
+O resultado é a área da boca em centímetros quadrados.
+Divida os mililitros por essa área e multiplique por 10 para obter mm.
+Sem estaca, prenda o pote a um cabo de vassoura fincado no chão.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Após a chuva, a água aparece na régua e o nível sobe de forma uniforme.
+Duas chuvas iguais medidas com o pote nivelado dão valores próximos.
+O caderno mostra data, hora e milímetros de cada leitura.
+
+FONTES
+------
+Organização Meteorológica Mundial: Guide to Instruments and Methods of
+Observation (WMO-No. 8) e programa IMOP de padrões de medição.
+Serviço Nacional de Meteorologia dos EUA (NOAA/NWS): pluviômetro padrão
+de 8 polegadas, com funil e cilindro graduado.
+Prática consolidada de observação de precipitação em redes meteorológicas.

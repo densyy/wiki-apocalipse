@@ -1,0 +1,85 @@
+==============================================================================
+CODIGO: 87-008
+TITULO: Como construir um elevador mecânico de água
+CATEGORIA: 87 - Energia mecânica e hidráulica tradicionais
+TEMPO: 300 minutos
+RISCO: medio
+EXIGE: roda ou eixo motor, corrente com baldes, polia alta e reservatório
+REVISAO: 2026-11
+PALAVRAS-CHAVE: elevador, baldes, corrente, água, polia, noria, elevação
+==============================================================================
+
+OBJETIVO
+--------
+Elevar água com baldes presos a uma corrente movida por força mecânica.
+
+QUANDO USAR
+-----------
+Quando se precisa subir água a uma altura maior que a de uma bomba simples.
+Quando já existe roda d'água, moinho ou animal para acionar o eixo.
+Quando o volume necessário é moderado e a subida não é extrema.
+Quando se quer um sistema fácil de consertar com peças locais.
+
+NAO USE QUANDO
+--------------
+Não use para água com muita sujeira que entupa os baldes.
+Não use se não houver fonte de movimento para o eixo.
+Não use em locais onde a corrente possa congelar.
+
+MATERIAIS
+---------
+- Roda, eixo ou manivela que sirva como fonte de movimento.
+- Corrente de ferro, couro trançado ou corda resistente sem fim.
+- Baldes pequenos de metal, madeira ou lona costurada.
+- Polia alta no topo e polia baixa na água, ambas com sulco.
+- Suporte de madeira ou ferro para a polia alta.
+- Reservatório de recepção no ponto mais alto.
+- Graxa e pregos ou grampos para prender os baldes.
+
+PROCEDIMENTO
+------------
+1. Meça a altura total que a água precisa subir.
+2. Escolha a polia alta e fixe-a no topo com suporte firme.
+3. Coloque a polia baixa submersa no ponto de captação.
+4. Feche a corrente ou corda em volta das duas polias.
+5. Prenda os baldes na corrente com intervalo regular.
+6. Fura os baldes apenas se quiser derramar em altura menor.
+7. Encaixe a polia alta no eixo movido pela roda ou motor.
+8. Ajuste a tensão da corrente para não escorregar nos sulcos.
+9. Gire o eixo devagar e veja os baldes subirem cheios.
+10. Confira se os baldes despejam dentro do reservatório.
+11. Regule a posição da polia baixa para os baldes mergulharem.
+12. Lubrifique as polias e a corrente nos pontos de atrito.
+13. Aumente a velocidade e meça a água recolhida por minuto.
+14. Anote quantos baldes sobem a cada volta do eixo.
+
+ATENCAO
+-------
+A corrente e os baldes se movem sem parar: mantenha as mãos longe.
+Baldes soltos podem cair e machucar ou obstruir a captação.
+Se a corrente sair do sulco, pare e realinhe as polias.
+Corrente frouxa pula e desgasta os dentes da polia rapidamente.
+Não deixe a polia baixa bater no fundo ou em pedras.
+Limpe folhas e lama que grudam nos baldes e nas polias.
+Em vendaval, trave o eixo e prenda a corrente.
+
+SE NAO TIVER
+------------
+Sem corrente, use corda de fibra trançada com nós nos baldes.
+Sem baldes de metal, use metades de coco ou latas furadas.
+Sem polia alta, use uma roda de madeira com sulco.
+Sem eixo motor, use manivela manual em escala pequena.
+Sem graxa, esfregue sebo nas polias e na corrente.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os baldes sobem cheios e derramam dentro do reservatório.
+A corrente corre no sulco, sem saltar e sem apertos.
+O eixo gira contínuo, sem esforço excessivo nem estalos.
+A quantidade de água coletada atende ao uso diário.
+
+FONTES
+------
+Prática consolidada de elevadores de baldes e norias usadas na
+irrigação tradicional. Base em manuais de engenharia rural e em
+relatos de sistemas de elevação movidos a água ou animais.

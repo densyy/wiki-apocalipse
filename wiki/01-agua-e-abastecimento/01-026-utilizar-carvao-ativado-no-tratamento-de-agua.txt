@@ -1,0 +1,91 @@
+==============================================================================
+CODIGO: 01-026
+TITULO: Como utilizar carvão ativado no tratamento de água
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 25 minutos
+RISCO: alto
+EXIGE: carvão ativado granular, pano limpo, recipiente tampado
+REVISAO: 2026-11
+PALAVRAS-CHAVE: carvão ativado, filtro, água, adsorver, sabor, odor, cloro
+==============================================================================
+
+OBJETIVO
+---------
+Reduzir odor, sabor, cor e cloro da água com carvão ativado.
+
+QUANDO USAR
+-----------
+Quando a água já foi coada e ainda tem cheiro ou gosto ruim.
+Quando a água tratada com cloro ficou com sabor forte de cloro.
+Como etapa de acabamento depois de decantar, coar ou filtrar.
+Quando a água ficou amarelada depois da chuva ou da lama.
+
+NAO USE QUANDO
+--------------
+Quando a água não foi fervida: carvão não mata microrganismos.
+Quando houver suspeita de combustível, agrotóxico ou metal pesado.
+Quando houver suspeita de sal, arsênio ou nitrato na água.
+Quando o carvão tiver tinta, verniz, cola ou aditivos de churrasco.
+Quando não houver como ferver ou desinfetar a água depois.
+
+MATERIAIS
+---------
+- Carvão ativado granular de fonte confiável (carvão comum adsorve menos).
+- Pano limpo, peneira fina ou filtro de papel (tecido limpo).
+- Funil ou garrafa de boca cortada.
+- Recipiente limpo e tampado para recolher a água.
+- Água já coada e sem partículas visíveis.
+
+PROCEDIMENTO
+------------
+1. Deixe a água turva parada até a sujeira assentar no fundo.
+2. Despeje só a parte clara para outro recipiente limpo.
+3. Coe a água com pano limpo para reter as partículas visíveis.
+4. Lave o carvão com água limpa até a água da lavagem sair clara.
+5. Coloque o carvão no funil sobre o pano limpo ou filtro de papel.
+6. Despeje a água devagar sobre o carvão, sem jorrar.
+7. Espere a água escorrer em fio fino e recolha em recipiente tampado.
+8. Ferva a água filtrada por 1 minuto com bolhas grandes subindo.
+9. Acima de 2.000 m de altitude, ferva por 3 minutos.
+10. Desligue o fogo, tampe e espere esfriar antes de beber.
+
+ATENCAO
+-------
+Carvão ativado não desinfeta: não mata bactérias, vírus nem parasitas.
+Ferva sempre a água depois do carvão, mesmo com cheiro bom.
+Carvão não remove nitrato, flúor, sal, sódio nem dureza da água.
+Não transforma água salgada ou com agrotóxico em água potável.
+Filtro saturado ou parado por mais de 5 dias pode criar bactérias.
+Troque o carvão se o cheiro ou o gosto voltarem.
+Água turva entope o carvão e reduz a adsorção: coe antes.
+Carvão de churrasco com aditivos pode liberar químicos: não use.
+
+SE NAO TIVER
+------------
+Sem carvão ativado, use carvão vegetal limpo (veja 01-025); adsorve menos.
+Sem funil, use uma garrafa de boca cortada ou pano preso no recipiente.
+Sem pano, use filtro de papel, peneira fina ou meia limpa.
+Sem carvão, decantar e coar melhoram a cor, mas não matam germes: ferva.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água saiu sem cheiro de cloro e com gosto menos amargo.
+A cor ficou mais clara e não há partículas visíveis.
+A água escorreu em fio fino, sem jorrar e sem vazar pelos lados.
+Não há pó de carvão na água recolhida.
+
+FONTES
+------
+CDC Yellow Book 2026, capítulo sobre desinfecção de água para viajantes:
+carvão ativado granular adsorve químicos, melhora odor e sabor, mas não
+mata microrganismos.
+CDC, Como funciona o tratamento de água: filtros de carvão ativado
+removem maus cheiros; a desinfecção é uma etapa separada.
+EPA, Visão geral das tecnologias de tratamento de água potável: GAC
+remove compostos orgânicos voláteis.
+NDSU Extension WQ1029 (2022): carvão ativado não remove microrganismos,
+sódio, nitrato, flúor nem dureza; satura e precisa de troca; bactérias
+podem crescer no filtro.
+Funasa e artigos SciELO brasileiros: carvão ativado reduz gosto e odor
+em estações de tratamento.
+Prática consolidada; resumo operacional, não substitui treinamento.

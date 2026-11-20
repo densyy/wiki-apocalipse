@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 38-019
+TITULO: Como construir uma clepsidra
+CATEGORIA: 38 - Astronomia e medição do tempo
+TEMPO: 45 minutos
+RISCO: baixo
+EXIGE: recipiente alto, furador, água limpa, cera ou rolha, marcadouro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: clepsidra, relógio de água, água, tempo, furo, horário
+==============================================================================
+
+OBJETIVO
+--------
+Montar um relógio de água que marque intervalos de tempo aproximados.
+
+QUANDO USAR
+-----------
+Quando não há relógio, energia ou bateria disponível.
+Para medir esperas, turnos ou pausas repetidas sem aparelhos.
+
+NAO USE QUANDO
+--------------
+Quando for preciso precisão de minutos: remédio ou prazos críticos.
+Quando não houver água limpa ou recipiente que se possa furar.
+
+MATERIAIS
+---------
+- Recipiente alto de paredes retas ou afuniladas (lata ou garrafa).
+- Prego ou furador para abrir um furo fino na lateral.
+- Água limpa, sem areia, barro ou folhas.
+- Cera, rolha ou massa para tapar o furo (resina também serve).
+- Alfinete ou marcadouro para riscar a parede.
+
+PROCEDIMENTO
+------------
+1. Escolha um recipiente alto e estreito, de paredes retas ou afuniladas.
+2. Abra um furo pequeno perto do fundo, com aproximadamente 1 mm.
+3. Tape o furo com cera, rolha ou massa, por dentro e por fora.
+4. Encha com água limpa até perto da borda e marque a linha de partida.
+5. Apoie o recipiente sobre uma vasilha, com o furo voltado para baixo.
+6. Destape o furo e deixe a água escorrer sem mexer no recipiente.
+7. Se houver relógio ou relógio de sol, marque o nível após uma hora.
+8. Repita as marcas a cada hora seguinte, sem mover o recipiente.
+9. Sem referência, use o aparelho só para comparar intervalos iguais.
+10. Não suponha espaços iguais: o nível alto escoa mais depressa.
+11. Para medir de novo, tape o furo, encha até a partida e leia a marca.
+
+ATENCAO
+-------
+O furo escoa mais rápido com nível alto e mais devagar com nível baixo.
+As marcas não ficam igualmente espaçadas: calibre por observação.
+Areia, barro ou insetos entopem o furo: coe a água antes de encher.
+Calor, frio e evaporação mudam o ritmo: recalibre se o tempo mudar.
+Não use para remédio, dosagem ou prazo em que um minuto importe.
+
+SE NAO TIVER
+------------
+Sem cera, tape o furo com rolha, massa de pão ou o dedo molhado.
+Sem metal, use garrafa de vidro ou plástico duro.
+Sem marcadouro, risque com pedra, alfinete ou nó no barbante.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água escorre em fio contínuo e baixa de forma constante.
+Ao encher até a mesma marca, a queda até a marca seguinte se repete.
+
+FONTES
+------
+Prática consolidada: clepsidra de escoamento da relojoaria antiga.
+Encyclopaedia Britannica, verbete clepsydra (princípio e história).

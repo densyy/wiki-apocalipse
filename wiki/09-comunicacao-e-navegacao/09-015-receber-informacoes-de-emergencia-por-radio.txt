@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 09-015
+TITULO: Como receber informações de emergência por rádio
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 20 minutos
+RISCO: baixo
+EXIGE: rádio a pilha com FM, pilhas reservas, manual, caderno e lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: rádio, emergência, aviso, frequência, pilha, alerta
+==============================================================================
+
+OBJETIVO
+--------
+Receba avisos de emergência e boletins por rádio sem internet nem celular.
+
+QUANDO USAR
+-----------
+Quando a internet, o celular ou a energia elétrica falharem.
+Quando houver risco local de tempestade, enchente ou incêndio.
+Ao chegar a um lugar novo e precisar achar a emissora local.
+
+NAO USE QUANDO
+--------------
+Quando o celular tiver sinal: use-o para alertas e para pedir socorro.
+
+MATERIAIS
+---------
+- Rádio a pilha com faixa FM (ou rádio de emergência com faixa de tempo).
+- Pilhas reservas do mesmo tipo (ou carregador manual ou solar).
+- Manual do aparelho.
+- Caderno e lápis para anotar frequência, horário e aviso.
+
+PROCEDIMENTO
+------------
+1. Coloque as pilhas no compartimento, respeitando os polos.
+2. Use pilhas do mesmo tipo; nunca misture novas e velhas.
+3. Estenda o chicote da antena por inteiro, longe do corpo.
+4. Ligue o rádio com o volume no mínimo.
+5. Gire a sintonia da faixa FM devagar até ouvir uma voz.
+6. Suba o volume até a voz ficar clara, sem chiado forte.
+7. Anote no caderno a frequência, a emissora e o horário.
+8. Se o aparelho tiver faixa de tempo, selecione-a pelo botão próprio.
+9. Nos Estados Unidos, procure entre 162,400 e 162,550 MHz.
+10. Ouça o boletim até o fim e anote o local e a orientação.
+11. Se o sinal falhar, aproxime-se de uma janela e fique acima do térreo.
+12. Desligue o rádio ao terminar; mantenha pilhas reservas ao lado.
+
+ATENCAO
+-------
+Um rádio comum de FM não sintoniza a faixa de tempo dos Estados Unidos.
+A emissora pode sair do ar na crise: ouça mais de uma quando puder.
+Paredes, mata e relevo cortam o sinal; mudar poucos passos ajuda.
+Nunca encoste a antena em fios de energia elétrica.
+Um aviso de rádio não substitui a ligação de emergência.
+
+SE NAO TIVER
+------------
+Sem rádio a pilha, use o rádio do carro por pouco tempo, motor desligado.
+Sem sinal local, a faixa de ondas curtas é outra opção (09-003).
+
+COMO SABER QUE DEU CERTO
+------------------------
+O rádio liga, a voz se entende sem chiado forte e o boletim termina.
+A frequência e o horário da emissora ficam anotados no caderno.
+
+FONTES
+------
+NOAA/National Weather Service, NOAA Weather Radio All Hazards: frequências
+VHF, alcance aproximado de 40 milhas, receptor e dicas de recepção (2026).
+Prática consolidada de preparação para emergência com rádio a pilha.

@@ -1,0 +1,79 @@
+==============================================================================
+CODIGO: 52-010
+TITULO: Como compreender o princípio de Bernoulli
+CATEGORIA: 52 - Física aplicada e princípios fundamentais
+TEMPO: 20 minutos
+RISCO: baixo
+EXIGE: papel, canudo, duas latas vazias, mesa plana
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bernoulli, pressão, velocidade, ar, sustentação, papel
+==============================================================================
+
+OBJETIVO
+--------
+Entender por que o ar em movimento exerce menor pressão.
+
+QUANDO USAR
+-----------
+Quando quiser entender como a asa do avião produz sustentação.
+Quando vir duas latas se aproximarem ao soprar entre elas.
+Quando quiser prever a força do vento em frestas e corredores.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação para observar e compreender estes efeitos.
+Não use a forma simples da equação para dimensionar asas reais.
+
+MATERIAIS
+---------
+- Uma tira de papel de aproximadamente 20 cm por 3 cm (folha de caderno).
+- Um canudo de bebida reto ou flexível (soprar com a boca).
+- Duas latas vazias iguais (ou dois copos plásticos leves).
+- Uma mesa plana, sem vento e sem borda (ou uma tábua).
+- Uma bola de ping-pong opcional (ou papel amassado em bola).
+
+PROCEDIMENTO
+------------
+1. Segure a tira de papel pela ponta, logo abaixo dos lábios.
+2. Deixe a outra ponta cair livremente.
+3. Sopre forte e sem parar logo acima da tira.
+4. Observe a tira subir em direção ao jato de ar.
+5. Coloque as latas deitadas na mesa, paralelas, a aproximadamente 2 cm.
+6. Aponte o canudo para a frente das latas, na altura do centro delas.
+7. Sopre com força e sem interromper no espaço entre as duas latas.
+8. Observe as latas rolarem e se aproximarem uma da outra.
+9. Anote o padrão: onde o ar corre mais depressa, a pressão é menor.
+10. Anote: pressão estática + pressão dinâmica = pressão total constante.
+11. Anote: p + (1/2) x densidade x velocidade ao quadrado = constante.
+12. Reconheça: é o princípio de Bernoulli, do físico Daniel Bernoulli.
+
+ATENCAO
+-------
+O erro comum é achar que ar em movimento tem pressão maior; é o contrário.
+A tira sobe porque a pressão acima cai e a de baixo a empurra.
+O sopro não puxa o papel: é a diferença de pressão que o empurra.
+A sustentação da asa não se explica só por Bernoulli: a virada do ar conta.
+A ideia de que o ar leva o mesmo tempo acima e abaixo da asa é falsa.
+A equação simples vale só para escoamento lento, constante e sem atrito.
+Ela vale ao longo de uma linha de corrente; fora disso, o resultado erra.
+Se a bola cair do jato, pare: não a use perto de rostos ou vidros.
+
+SE NAO TIVER
+------------
+Sem canudo, sopre com a boca, mantendo o jato constante e rente à mesa.
+Sem latas, suspenda duas bolas leves por fios e sopre entre elas.
+Sem papel, use uma folha fina de caderno ou embalagem plástica.
+Sem mesa, faça a prova no chão limpo ou sobre uma tábua.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A tira de papel ficou levantada enquanto o sopro foi constante.
+As duas latas rolaram uma para a outra e pararam juntas.
+Você explica, sem olhar, que maior velocidade significa menor pressão.
+
+FONTES
+------
+NASA Glenn Research Center, guia introdutório de aeronáutica (equação de
+Bernoulli e suas restrições); OpenStax College Physics 2e, seção 12.2;
+atividades da NASA (Changing Pressure) e da NOAA JetStream. Prática
+consolidada de ensino de física, resumida sem URL e sem fonte inventada.

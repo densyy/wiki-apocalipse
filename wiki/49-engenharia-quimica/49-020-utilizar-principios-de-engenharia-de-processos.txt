@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 49-020
+TITULO: Como aplicar engenharia de processos em pequena oficina
+CATEGORIA: 49 - Engenharia química e processos industriais
+TEMPO: 45 minutos
+RISCO: medio
+EXIGE: papel, lápis, balança, registro de entradas e saídas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: processo, balanço, fluxograma, oficina, desperdício
+==============================================================================
+
+OBJETIVO
+--------
+Mapear o processo de uma pequena oficina com balanços de massa e
+energia simples para encontrar perdas e pontos de risco.
+
+QUANDO USAR
+-----------
+Ao iniciar uma oficina que transforma matéria-prima em produto.
+Quando o rendimento cai e a causa das perdas não é clara.
+Antes de ampliar a produção ou trocar um equipamento.
+Quando houver dúvida sobre consumo de insumos ou geração de resíduo.
+Ao investigar desperdício repetido de água, solvente ou material.
+
+NAO USE QUANDO
+--------------
+Quando a reação envolver substância que você não consegue identificar.
+Sem identificar os materiais, não aplique o método sozinho.
+Quando faltarem dados mínimos de entrada e saída para medir.
+Não substitua o mapeamento por análise química de laboratório.
+Em processo com risco de explosão, procure técnico antes de agir.
+
+MATERIAIS
+---------
+- Papel e lápis para desenhar o fluxo à mão.
+- Balança para pesar entradas e saídas (ou medidor de volume).
+- Registro de consumo de água, energia e insumos do período.
+- Cronômetro para medir o tempo de cada etapa (ou relógio).
+- Caderno para anotar medições e observações.
+- Equipamento de proteção do próprio processo, quando houver.
+
+PROCEDIMENTO
+------------
+1. Liste todas as etapas do processo da oficina em ordem.
+2. Desenhe cada etapa como uma caixa em uma folha de papel.
+3. Ligue as caixas com setas no sentido do material.
+4. Escreva em cada seta o que entra e o que sai da etapa.
+5. Meça a massa de cada entrada com a balança.
+6. Meça a massa de cada saída e do resíduo gerado.
+7. Anote os valores no fluxograma ao lado de cada seta.
+8. Aplique o balanço: entra mais do que sai indica acúmulo ou perda.
+9. Some as entradas e compare com a soma das saídas.
+10. Se as somas divergirem, meça de novo a etapa com maior diferença.
+11. Identifique a etapa com maior perda de material ou energia.
+12. Verifique se a perda vira resíduo, evaporação ou produto indesejado.
+13. Meça o tempo de cada etapa com o cronômetro.
+14. Calcule quanto insumo cada etapa consome por unidade de produto.
+15. Marque no desenho os pontos de calor, pressão e contato químico.
+16. Escreva uma medida simples para reduzir a maior perda encontrada.
+17. Refaça o balanço depois da mudança e compare os números.
+
+ATENCAO
+-------
+Este método organiza dados, não substitui projeto de engenharia.
+Uma medição errada gera balanço errado e decisão errada.
+Nunca confunda perda de massa com reação que consome o material.
+Se o material for tóxico, inflamável ou corrosivo, pare e peça ajuda.
+Não abra recipiente, tubulação ou reator para medir sem autorização.
+Não aqueça nem misture substância desconhecida para testar hipótese.
+Medição com balança inadequada pode subestimar perdas perigosas.
+Sinal de alerta: calor fora do normal, cheiro forte, fumaça ou vazamento.
+Nesse caso, interrompa a etapa, afaste as pessoas e procure ajuda.
+
+SE NAO TIVER
+------------
+Sem balança, meça volume com recipiente graduado e registre a estimativa.
+Marque volumes aproximados como aproximados.
+Sem cronômetro, conte os ciclos ou use o relógio do celular.
+Sem dados de consumo, meça o gasto de um único ciclo completo.
+Sem condição de medir, não invente número: anote o que não foi medido.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O fluxograma mostra todas as etapas com entradas e saídas escritas.
+As somas de entrada e saída fecham ou a diferença está explicada.
+A etapa de maior perda está identificada no desenho.
+Há uma mudança anotada e um novo balanço para comparar.
+
+FONTES
+------
+Prática consolidada de engenharia de processos em pequena escala.
+Conceitos de balanço de massa e energia e de fluxograma de processo
+derivados de manuais clássicos de engenharia química.
+Orientação de segurança do Center for Chemical Process Safety, CCPS.
+Norma ISO 10628 para diagramas de processo industrial.
+Este texto é resumo operacional e não substitui treinamento.

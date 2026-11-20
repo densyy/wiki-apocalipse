@@ -1,0 +1,82 @@
+==============================================================================
+CODIGO: 07-007
+TITULO: Como calcular o risco de exposição à radiação
+CATEGORIA: 07 - Guerra, radiação e catástrofes nucleares
+TEMPO: 15 minutos
+RISCO: critico
+EXIGE: papel, lápis, relógio ou celular
+REVISAO: 2026-11
+PALAVRAS-CHAVE: radiação, dose, risco, fallout, abrigo, tempo, distância
+==============================================================================
+
+OBJETIVO
+--------
+Estime sua faixa de risco após evento nuclear para decidir abrigo.
+
+QUANDO USAR
+-----------
+Após clarão, explosão ou aviso de ataque nuclear na região.
+Quando ficou ao ar livre durante queda de poeira suspeita.
+Quando precisa decidir entre ficar abrigado ou buscar abrigo.
+Quando precisa explicar o risco para a família sem aparelho.
+
+NAO USE QUANDO
+--------------
+Não use para contestar ordem de defesa civil ou socorrista.
+Não use para decidir remédio, iodo ou saída antes da hora.
+
+MATERIAIS
+---------
+- Papel e lápis (carvão e parede servem).
+- Relógio, celular ou meio de marcar hora.
+- Pano ou máscara para cobrir nariz e boca.
+
+PROCEDIMENTO
+------------
+1. Anote a hora da explosão ou do aviso e a hora atual.
+2. Anote quantos minutos ficou ao ar livre depois do evento.
+3. Marque a distância: perto com dano, bairro vizinho ou longe.
+4. Marque a blindagem: rua, casa simples, prédio firme ou porão.
+5. Lembre que dose é medida em mSv e energia absorvida em Gy.
+6. Lembre que fundo natural é de aproximadamente 3 mSv por ano.
+7. Saiba que abrigo é indicado a partir de aproximadamente 10 mSv.
+8. Saiba que corpo inteiro acima de aproximadamente 0,7 Gy adoece.
+9. Dê 2 pontos se ficou fora após aproximadamente 10 minutos com poeira.
+10. Dê 2 pontos se estava perto ou viu dano e fogo próximos.
+11. Dê 2 pontos se ficou na rua, carro ou barraco sem parede.
+12. Some os pontos: 0 baixo, 1 a 2 médio, 3 a 4 alto, 5 a 6 crítico.
+13. Se der alto ou crítico, entre em abrigo firme sem sair.
+14. Fique abrigado por aproximadamente 24 horas sem sair à toa.
+15. Repita o cálculo a cada hora e após mudar de abrigo.
+
+ATENCAO
+-------
+Papel não mede radiação. Só dosímetro mede dose real.
+Poeira sem cheiro nem gosto emite raio gama que atravessa roupa.
+Máscara segura poeira no pulmão mas não bloqueia o raio gama.
+Roupa e pano não protegem contra gama. Só parede grossa ajuda.
+Dose alta mata horas depois mesmo se a pessoa parece bem.
+Enjoo, vômito, tontura ou queimadura pedem socorro imediato.
+Não tome iodo por conta. Siga ordem da autoridade de saúde.
+Este cálculo não autoriza sair do abrigo antes da ordem oficial.
+
+SE NAO TIVER
+------------
+Sem papel, decore os três fatores: tempo, distância e blindagem.
+Sem relógio, conte horas pelo claro e escuro e anote traços.
+Sem máscara, cubra nariz e boca com pano seco em poeira.
+Sem abrigo firme, use miolo de prédio longe de janela e teto.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você cita tempo fora, distância e blindagem sem adivinhar dose.
+Você repete abrigo de 24 horas quando a soma dá alto ou crítico.
+Você obedece a ordem oficial mesmo se sua conta parece baixa.
+
+FONTES
+------
+Guia de planejamento para detonação nuclear da FEMA.
+Escala de perigo de radiação do CDC americano.
+Guias de ação protetora para emergência da EPA americana.
+Orientações de emergência em radiação do Ready.gov.
+Prática consolidada de tempo, distância e blindagem.

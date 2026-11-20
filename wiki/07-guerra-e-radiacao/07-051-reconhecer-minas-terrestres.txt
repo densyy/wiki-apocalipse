@@ -1,0 +1,86 @@
+==============================================================================
+CODIGO: 07-051
+TITULO: Como reconhecer minas terrestres
+CATEGORIA: 07 - Guerra, radiação e catástrofes nucleares
+TEMPO: 20 minutos
+RISCO: critico
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: mina, armadilha, fio, área minada, explosivo, perigo
+==============================================================================
+
+OBJETIVO
+--------
+Reconheça sinais de area minada e decida contornar sem se aproximar.
+
+QUANDO USAR
+-----------
+Ao entrar em area onde houve combate recente.
+Ao ver placa, fita ou estaca que avisa sobre minas.
+Ao encontrar objeto estranho no chao ou na beira da estrada.
+Ao notar animal morto ou vegetacao murcha sem causa.
+Antes de usar estrada, trilha ou casa abandonada.
+Ao ouvir de moradores que certo lugar e evitado.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Pare antes de entrar em area com sinal de perigo.
+2. Observe de longe: nao pise, nao toque e nao se aproxime.
+3. Procure placa vermelha, caveira, triangulo ou fita de aviso.
+4. Repare em cerca de arame, postes ou fita amarela ou vermelha.
+5. Observe pedras pintadas de vermelho ou galhos cruzados no chao.
+6. Olhe o solo: terra mexida, monte de terra ou terra mais escura.
+7. Veja se a vegetacao murchou, ficou amarela ou cresceu demais.
+8. Note fio fino esticado rente ao chao, preso a estaca ou arvore.
+9. Procure estacas de madeira ou metal de aproximadamente 30 cm.
+10. Observe cascas de municao, restos de combate e veiculos danificados.
+11. Repare em animal morto ou pessoa ferida sem causa visivel.
+12. Pergunte a moradores locais quais lugares evitam e por que.
+13. Compare: se ninguem usa a trilha, prefira caminho movimentado.
+14. Fique na parte pavimentada da estrada e evite o acostamento.
+15. Ao ver objeto suspeito, pare e avise quem esta por perto.
+16. Nao toque, nao pise, nao puxe fio e nao tente desarmar.
+17. Retire-se pelo mesmo caminho por onde veio, sem correr.
+18. Mande avisar desminadores ou defesa civil e espere em local seguro.
+
+ATENCAO
+-------
+Mina quase nunca se ve: fica enterrada, camuflada ou na grama.
+Falta de placa nao prova que a area e segura: placas caem ou somem.
+Onde ha uma mina, ha outras por perto.
+Nao toque, nao pise e nao puxe fio: ha armadilha contra quem manipula.
+Nao corra nem pule: o impacto pode acionar a mina.
+Cruz Vermelha orienta nao usar radio ou celular perto de mina suspeita.
+Mantenha aproximadamente 100 m de distancia antes de usar.
+Nao corra para socorrer ferido: voce pode ser a proxima vitima.
+Este texto nao ensina a desarmar, remover ou marcar minas.
+Procure desminadores ou defesa civil e siga a orientacao.
+
+SE NAO TIVER
+------------
+Sem placa, confie no comportamento local: area abandonada e suspeita.
+Sem morador para perguntar, use so estrada pavimentada e movimentada.
+Sem radio, envie alguem a pe para buscar ajuda a distancia.
+Sem caminho seguro, pare e espere orientacao em vez de arriscar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Voce citou pelo menos tres sinais sem pisar na area suspeita.
+Voce escolheu caminho movimentado em vez de trilha abandonada.
+Voce parou e avisou outros ao ver fio ou objeto estranho.
+Voce nao tocou nem tentou desarmar nenhum objeto.
+
+FONTES
+------
+Guia de seguranca da UNMAS sobre minas e restos explosivos (2015).
+Guia Stay Safe da Cruz Vermelha internacional (2023).
+Guia Staying Alive do Comite Internacional da Cruz Vermelha.
+Manuais de contraminas do exercito americano (FM 20-32 e ATP 3-21.8).

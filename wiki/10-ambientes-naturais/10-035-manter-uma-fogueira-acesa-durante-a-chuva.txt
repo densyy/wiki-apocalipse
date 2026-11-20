@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 10-035
+TITULO: Como manter uma fogueira acesa durante a chuva
+CATEGORIA: 10 - Sobrevivência em ambientes naturais
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: lona ou casca de árvore, lenha reserva, água e terra para apagar
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fogo, fogueira, chuva, brasas, abrigo, lenha, monóxido
+==============================================================================
+
+OBJETIVO
+--------
+Mantenha a fogueira acesa e estável durante a chuva, com lenha
+protegida e brasas vivas, até apagar o fogo com segurança.
+
+QUANDO USAR
+-----------
+- Quando a chuva começa e a fogueira já está acesa.
+- Quando a lenha molhada reduz a chama e as brasas esfriam.
+- Quando é preciso manter calor ou cozinhar sem interromper o fogo.
+- Quando os respingos caem sobre as brasas e a chama some.
+
+NAO USE QUANDO
+--------------
+- Quando houver aviso de incêndio, raio ou vendaval: apague e saia.
+- Quando não der para ventilar: nunca mantenha fogo em abrigo fechado.
+- Quando não houver água ou terra para apagar o fogo ao terminar.
+
+MATERIAIS
+---------
+- Lona, casca de árvore ou chapéu para cobrir sem encostar na chama.
+- Lenha reserva seca, gravetos finos e isca em saco impermeável.
+- Pedras secas ou troncos para a moldura e o anteparo ao vento.
+- Pá ou graveto comprido para mexer a cinza e água para apagar.
+- Abrigo natural ou lona inclinada protegendo o local da chuva.
+
+PROCEDIMENTO
+------------
+1. Afaste barraca e roupa a aproximadamente 5 metros do fogo.
+2. Monte a lona inclinada bem alto, com espaço para a fumaça subir.
+3. Fique de costas para o vento e a chuva ao mexer no fogo.
+4. Raspe o chão ao redor até tirar folhas e terra molhada solta.
+5. Forme uma moldura com pedras secas ou troncos, sem pedras molhadas.
+6. Empurre a lenha para o centro e deixe ar no meio das brasas.
+7. Mantenha o fogo pequeno: chama baixa seca a próxima carga.
+8. Acrescente gravetos secos antes da lenha maior e úmida.
+9. Encoste a lenha molhada na borda da fogueira só para secar.
+10. Vire cada acha de lenha para a face seca ficar voltada ao centro.
+11. Empurre as brasas para o meio e cubra com cinza se a chuva apertar.
+12. Deixe uma abertura pequena para entrada de ar sem apagar o fogo.
+13. Destape as brasas e sopre de leve quando a chuva diminuir.
+14. Retire a lona só depois que a chama voltar e a lenha secar.
+15. Nunca deixe a fogueira sozinha; uma pessoa fica de olho nela.
+16. Ao terminar, afogue com água, mexa a cinza e afogue de novo.
+
+ATENCAO
+-------
+O que mata aqui é o monóxido de carbono e o fogo fora de controle.
+Monóxido não tem cheiro: nunca mantenha fogo em barraca fechada.
+Não use gasolina, álcool ou líquido inflamável para reanimar a chama.
+Pedra molhada ou porosa pode estourar com o calor; use pedra seca.
+Fogo pequeno aguenta chuva; fogo alto desbalanceia e apaga mais fácil.
+Nunca vire as costas: uma rajada leva fagulhas para a vegetação.
+Lona baixa pega fogo; mantenha-a bem acima e longe da chama.
+Se entrar fumaça no abrigo ou alguém sentir tontura, apague e saia.
+Ao terminar, afogue com água, mexa a cinza e afogue de novo.
+Brasa quente pode voltar a pegar: confira com o dorso da mão.
+Se o fogo escapar para a mata, afaste-se e peça ajuda.
+
+SE NAO TIVER
+------------
+- Sem lona, use casca de árvore ou chapéu inclinado sobre a isca.
+- Sem pedras, use troncos secos ou terra batida para conter a cinza.
+- Sem lenha seca, raspe o miolo de galhos mortos presos ao tronco.
+- Sem pá, use um graveto comprido para mexer sem chegar perto.
+- Não improvise com gasolina, querosene, fios ou químicos desconhecidos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- A chama continua acesa e estável entre cada carga de lenha.
+- Há brasas vermelhas no centro mesmo com chuva caindo ao redor.
+- A fumaça sobe clara; fumaça escura e densa indica lenha molhada.
+- A lenha encostada na borda seca e pega fogo na próxima carga.
+
+FONTES
+------
+- Manual de sobrevivência do Exército dos EUA FM 3-05.70 (FM 21-76),
+  capítulo 7, Firecraft: triângulo do fogo, secar lenha úmida,
+  cobrir brasas, não usar pedras molhadas.
+- National Park Service e Smokey Bear (USDA Forest Service): fogo
+  pequeno, água e pá por perto, nunca sem vigilância; método
+  afogar-mexer-afogar do USDA.
+- Prática consolidada de fogueira em chuva e orientações do CDC sobre
+  monóxido de carbono; prática de secar lenha úmida perto do fogo.

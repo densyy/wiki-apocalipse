@@ -1,0 +1,90 @@
+==============================================================================
+CODIGO: 04-022
+TITULO: Como conectar baterias em paralelo
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: baterias iguais de mesma tensão, cabos grossos, local ventilado
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bateria, paralelo, energia, autonomia, cabo, tensão
+==============================================================================
+
+OBJETIVO
+--------
+Ligar duas ou mais baterias iguais para aumentar a autonomia
+mantendo a mesma tensão de saída.
+
+QUANDO USAR
+-----------
+Quando uma bateria sozinha acaba rápido demais para o uso.
+Quando for preciso alimentar lâmpada, rádio ou bomba por mais tempo.
+Quando houver duas ou mais baterias iguais de mesma tensão.
+Quando existir cabo grosso e local seco e ventilado para a ligação.
+
+NAO USE QUANDO
+--------------
+Quando as baterias têm tensões diferentes, como 6 V e 12 V.
+Quando as baterias são de tipos diferentes ou estão danificadas.
+Quando há bateria inchada, vazando, quente ou com cheiro forte.
+Quando os cabos estão finos, descascados ou sem isolamento.
+Quando o local é fechado, molhado ou perto de chama e faísca.
+
+MATERIAIS
+---------
+- Duas ou mais baterias iguais: mesmo tipo, tensão e capacidade.
+- Cabos grossos com terminais firmes (mesmo comprimento).
+- Multímetro ou voltímetro simples (emprestado, se possível).
+- Chave isolada para apertar os terminais.
+- Luvas de proteção e óculos simples.
+- Pano seco para limpar os terminais.
+
+PROCEDIMENTO
+------------
+1. Desligue todas as cargas e carregadores das baterias.
+2. Confira no rótulo se todas têm a mesma tensão e o mesmo tipo.
+3. Meça a tensão de cada bateria separada, se houver medidor.
+4. Não ligue baterias com tensões muito diferentes entre si.
+5. Coloque as baterias lado a lado sobre base firme e seca.
+6. Limpe os terminais com pano seco até ficarem firmes e limpos.
+7. Identifique o positivo com sinal de mais e o negativo com menos.
+8. Ligue o positivo de uma bateria ao positivo da outra.
+9. Ligue o negativo de uma bateria ao negativo da outra.
+10. Aperte bem cada terminal, sem forçar até espanar.
+11. Confira que nenhum cabo encosta no terminal oposto.
+12. Ligue primeiro a carga ao conjunto já conferido.
+13. Toque nos cabos no início: se aquecer, desligue na hora.
+
+ATENCAO
+-------
+Curto-circuito em bateria causa queimadura grave e incêndio.
+O que mata aqui é o arco, o cabo incandescente e o fogo.
+Nunca ligue o positivo de uma bateria no negativo da outra
+neste procedimento: isso muda a tensão e pode destruir o uso.
+Bateria solta gás que pode explodir perto de faísca ou chama.
+Ventile o local e nunca fume nem acenda fogo por perto.
+Retire anel, pulseira e corrente antes de mexer nos terminais.
+Metal no terminal fecha curto mesmo sem encostar nos dois polos.
+Ácido de bateria queima pele e olho: se vazar, não toque.
+Se sair fumaça, cheiro forte ou calor rápido, desligue tudo.
+Não tente salvar cabo quente com a mão: use pano seco e solte.
+Este procedimento não conserta bateria fraca nem estragada.
+
+SE NAO TIVER
+------------
+Sem multímetro, só ligue baterias de mesmo rótulo e mesma carga.
+Sem cabo grosso e com terminal firme, não improvise com fio fino.
+Fio fino esquenta, derrete o isolamento e causa incêndio.
+Sem luvas e óculos, redobre o cuidado e mantenha o rosto longe.
+Sem base seca, não faça a ligação em poça ou chão molhado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A tensão do conjunto fica igual à de uma bateria sozinha.
+A carga liga normal, sem faísca, fumaça ou cheiro estranho.
+Os cabos e terminais continuam frios após alguns minutos.
+A carga funciona por mais tempo que com uma bateria só.
+
+FONTES
+------
+Prática consolidada de segurança em eletricidade de baixa tensão,
+sem documento único.

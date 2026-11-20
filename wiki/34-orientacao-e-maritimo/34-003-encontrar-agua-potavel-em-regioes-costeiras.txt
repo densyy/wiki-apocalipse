@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 34-003
+TITULO: Como encontrar água potável em regiões costeiras
+CATEGORIA: 34 - Orientação, sobrevivência marítima e litoral
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: recipiente limpo com tampa, pá, pano limpo, plástico transparente
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, praia, mar, poço, chuva, sal, dessalinizar
+==============================================================================
+
+OBJETIVO
+--------
+Encontrar e coletar água doce no litoral, sem beber água do mar.
+
+QUANDO USAR
+-----------
+Quando a água tratada acabou ou a fonte da comunidade foi contaminada.
+Depois de naufrágio, em praia ou ilha sem rio visível.
+Em área de dunas e restinga, depois de chuva recente.
+Quando o único líquido disponível é água do mar ou água salobra.
+Ao acampar no litoral sem levar água suficiente.
+
+NAO USE QUANDO
+--------------
+Quando houver água tratada e protegida disponível: use-a primeiro.
+Quando a água cheirar a óleo, tinta, esgoto ou agrotóxico: não colete.
+
+MATERIAIS
+---------
+- Recipiente limpo com tampa (garrafa, balde ou caixa limpa).
+- Pá, enxada, cavadeira ou pedra afiada para cavar.
+- Pano limpo (ou folha limpa) para coar.
+- Plástico transparente ou lona limpa (saco limpo aberto serve).
+- Pedras para prender as bordas do plástico.
+
+PROCEDIMENTO
+------------
+1. Estenda plástico ou lona limpa inclinado para um recipiente limpo.
+2. Descarte a primeira água que escorre, por aproximadamente 1 minuto.
+3. Guarde a água da chuva restante no recipiente limpo e tampe.
+4. Afaste-se da praia para o interior, além da linha da maré alta.
+5. Procure a base de falésias, barrancos e depressões entre dunas.
+6. Escolha ponto com areia escura e úmida e vegetação verde por perto.
+7. Cave cova rasa de aproximadamente 50 cm acima da linha da maré alta.
+8. Deixe a água assentar e coe com pano limpo antes de guardar.
+9. Com crosta ou cheiro de sal, abandone o ponto e cave mais adiante.
+10. Para destilar água do mar, cave cova e ponha recipiente vazio no fundo.
+11. Despeje água do mar ao redor do recipiente, sem deixar entrar nele.
+12. Cubra a cova com plástico transparente e feche as bordas com areia.
+13. Coloque pedra no centro do plástico, bem acima do recipiente.
+14. Deixe sob sol forte por aproximadamente 4 horas.
+15. Retire o recipiente com a água destilada e tampe.
+
+ATENCAO
+-------
+Nunca beba água do mar: o sal faz o corpo perder mais água do que ganha.
+Água salobra de poço litorâneo não fica doce ao coar nem ao ferver.
+Não beba água com cheiro de óleo, tinta, esgoto ou agrotóxico.
+Coar e ferver não removem químicos; nesse caso, mude de fonte.
+Não cave na praia nem abaixo da maré alta: a água será salgada.
+A cova pode desabar com a maré e o sal corrói a pele e os olhos.
+Água parada e turva pode conter bactérias; trate antes (veja 01-001).
+O destilador rende pouca água: não dependa só dele.
+Com tontura, pouca urina e boca muito seca, pare e procure ajuda.
+
+SE NAO TIVER
+------------
+Sem pá, cave com pedra afiada, concha ou pedaço de madeira.
+Sem lona, use saco plástico limpo ou folhas largas para a chuva.
+Sem plástico transparente, não improvise destilador: rende quase nada.
+Sem pano, coe com folha limpa ou palha; isto retira só partículas grandes.
+Se só houver água do mar e não houver plástico, não beba: busque ajuda.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água coletada fica incolor, sem cheiro de sal e sem crosta salina.
+Não há partículas visíveis depois da coagem.
+O nível de água na cova se mantém e a areia ao redor continua úmida.
+No destilador, aparecem gotas no plástico e água no recipiente.
+
+FONTES
+------
+Ficha informativa "Drinking-water" da OMS, de 19/11/2026: contaminação
+microbiana, poços e nascentes desprotegidos, água superficial não tratada
+e químicos naturais em águas subterrâneas.
+Prática consolidada de sobrevivência litoral e de destilação solar,
+citada em manuais militares e policiais de sobrevivência em campo.
+Este texto é um resumo operacional e não substitui treinamento.

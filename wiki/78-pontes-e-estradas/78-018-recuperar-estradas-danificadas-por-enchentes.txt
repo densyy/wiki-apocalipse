@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 78-018
+TITULO: Como recuperar estradas danificadas por enchentes
+CATEGORIA: 78 - Pontes, estradas e infraestrutura de transporte
+TEMPO: 480 minutos
+RISCO: alto
+EXIGE: enxada, cascalho, madeira, drenagem, mao de obra
+REVISAO: 2026-11
+PALAVRAS-CHAVE: enchente, estrada, erosao, reparo, drenagem, cascalho
+==============================================================================
+
+OBJETIVO
+--------
+Recuperar um trecho de estrada danificado pela agua e prevenir novos danos.
+
+QUANDO USAR
+-----------
+Apos a agua baixar, quando a pista ficou com buracos ou erosao.
+Quando valetas entupiram e a agua correu por cima da estrada.
+Se a plataforma cedeu ou o cascalho foi levado pela enxurrada.
+Antes de liberar o transito, para nao agravar o dano.
+
+NAO USE QUANDO
+--------------
+Nao trabalhe com a agua ainda correndo ou o solo muito molhado.
+Nao execute se a erosao atingiu a base da ponte ou do bueiro.
+Nao libere transito pesado antes da compactacao e da drenagem.
+Nao improvise reparo em area onde o solo continua deslizando.
+
+MATERIAIS
+---------
+- Cascalho e pedra miuda para recompor o piso (brita).
+- terra compactada para preencher buracos e reconstruir a plataforma.
+- Enxada, pá, marreta, soquete ou rolo compactador (rolo de mao).
+- Madeira ou sacos de terra para contencao provisoria da borda.
+- Tubos ou pedras para limpar e refazer a drenagem (bueiros).
+- Capina e ferramentas para retirar lama e detritos da pista.
+- Botas, luvas e colete reflexivo.
+
+PROCEDIMENTO
+------------
+1. Espere a agua baixar por completo e o solo começar a secar.
+2. Percorra o trecho e marque os pontos de maior dano com estacas.
+3. Fotografe tudo antes de mexer, para registro e pedido de ajuda.
+4. Retire lama, galhos, lixo e detritos da pista e das valetas.
+5. Abra e limpe os bueiros, deixando a agua escoar novamente.
+6. Escave os buracos até encontrar solo firme e livre de lama.
+7. Preencha com terra compactada em camadas de 15 a 20 cm.
+8. Compacte bem cada camada com soquete ou rolo, ate ficar firme.
+9. Refaca a inclinacao da pista para escoar a agua para as laterais.
+10. Cubra com cascalho e pedra miuda, espalhando de forma uniforme.
+11. Compacte o cascalho com rolo ou passadas de veiculo leve.
+12. Reconstrua as valetas laterais com a queda correta para os bueiros.
+13. Proteja as bordas erodidas com pedra, sacos de terra ou gabiões.
+14. Verifique a ponte e os bueiros antes de liberar a passagem.
+15. Acompanhe o trecho na primeira chuva e refaca o que ceder.
+
+ATENCAO
+-------
+Enxurrada pode voltar rapido: tenha rota de saida e nao trabalhe sozinho.
+Solo encharcado nao compacta: espere secar ou o reparo afunda.
+Buraco mal limpo guarda lama e vira novo dano na primeira chuva.
+Nao desvie agua para a encosta: isso pode causar deslizamento.
+Dreno entupido e a causa mais comum de repeticao do dano.
+Nao libere transito pesado antes da compactacao completa.
+Se a base da ponte foi atingida, chame um engenheiro antes de usar.
+
+SE NAO TIVER
+------------
+Sem cascalho, use pedra miuda de rio ou brita de obra disponivel.
+Sem rolo compactador, use soquete de madeira ou pise em camadas.
+Sem tubo novo, desentupa o bueiro existente com arame e agua.
+Sem sacos de terra, use pedras empilhadas para proteger a borda.
+Sem equipe, priorize a drenagem e sinalize os buracos para os usuarios.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A agua escoa pelas valetas e bueiros sem correr sobre a pista.
+Os buracos estao preenchidos, compactados e no nivel do piso.
+O cascalho esta firme, sem trilhas ou desnivel que acumule agua.
+Apos a primeira chuva, o trecho nao apresenta nova erosao.
+
+FONTES
+------
+Pratica consolidada de conservacao e reparo de estradas vicinais apos
+enchentes, sem documento unico obrigatorio. Orientacoes gerais de
+drenagem, compactacao e recuperacao de plataformas rodoviarias rurais.

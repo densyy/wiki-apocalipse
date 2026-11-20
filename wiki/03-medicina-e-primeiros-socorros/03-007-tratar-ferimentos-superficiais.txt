@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 03-007
+TITULO: Como tratar ferimentos superficiais
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 10 minutos
+RISCO: medio
+EXIGE: água corrente limpa, sabão, pano limpo ou gaze, curativo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ferimento, corte, arranhão, limpeza, curativo, infecção
+==============================================================================
+
+OBJETIVO
+--------
+Limpar e proteger um corte pequeno para que cicatrize sem infecção.
+
+QUANDO USAR
+-----------
+Corte superficial que sangra pouco e para sozinho.
+Arranhão ou escoriação com terra ou areia por queda no chão.
+
+NAO USE QUANDO
+--------------
+Não use se o ferimento é profundo, aberto ou com bordas afastadas.
+Não use se há objeto encravado, como vidro, estaca ou metal.
+Não use em mordedura, rosto, olho, mão, genital ou articulação.
+
+MATERIAIS
+---------
+- Água corrente limpa ou água potável (ou soro fisiológico).
+- Sabão (ou sabonete comum).
+- Pano limpo ou gaze (ou camiseta limpa dobrada).
+- Curativo adesivo ou gaze com fita (ou pano preso com fita).
+
+PROCEDIMENTO
+------------
+1. Lave as mãos com água e sabão antes de tocar no ferimento.
+2. Se houver sangramento, comprima com pano limpo por alguns minutos.
+3. Lave o ferimento sob água corrente com sabão por cerca de 1 minuto.
+4. Retire terra ou areia solta com a ponta da pinça limpa.
+5. Não esfregue o ferimento com força nem com material áspero.
+6. Não despeje álcool, peroxido ou iodo dentro do ferimento.
+7. Seque ao redor com pano limpo, sem friccionar a área aberta.
+8. Cubra com gaze ou curativo limpo e prenda com fita.
+9. Troque o curativo uma vez ao dia, quando molhado, até a pele fechar.
+
+ATENCAO
+-------
+Serve só para ferimento superficial: não fecha corte fundo, não retira
+objeto encravado nem substitui atendimento. Sangue que não para: 03-001.
+Não use terra, cinza, café, urina, pasta de dente nem folha no ferimento.
+Procure atendimento se a borda abriu, há objeto preso, mordedura, sujeira
+que não sai na lavagem, ou se a vacina contra tétano não está em dia.
+Sinal de infecção: vermelhidão que aumenta, inchaço, calor, pus ou febre.
+
+SE NAO TIVER
+------------
+Sem água corrente: use água potável engarrafada ou soro fisiológico.
+Sem sabão: lave apenas com água corrente em abundância.
+Sem gaze ou curativo: dobre uma camiseta limpa e prenda com fita.
+Sem pinça: não desenterrar o que está preso; cubra e procure ajuda.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A sujeira visível saiu e o ferimento está limpo e coberto.
+O sangramento parou e a pele fecha sem vermelhidão que avança nem pus.
+
+FONTES
+------
+Prática consolidada de primeiros socorros e cuidado de feridas agudas
+(Cruz Vermelha, OMS e CDC). Resumo que não substitui avaliação clínica.

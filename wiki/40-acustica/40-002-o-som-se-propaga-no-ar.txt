@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 40-002
+TITULO: Como o som se propaga no ar
+CATEGORIA: 40 - Acústica e engenharia sonora
+TEMPO: 20 minutos
+RISCO: baixo
+EXIGE: espaço aberto, parede ou encosta para eco, cronômetro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: som, ar, propagação, velocidade, eco, vento, absorção
+==============================================================================
+
+OBJETIVO
+--------
+Observar como o som viaja pelo ar e medir sua velocidade pelo eco.
+
+QUANDO USAR
+-----------
+Quando precisar estimar distância contando o tempo do eco.
+Quando precisar entender por que um aviso sonoro não chega.
+Quando quiser estimar a distância de uma tempestade pelo trovão.
+
+NAO USE QUANDO
+--------------
+Quando o atraso do som puder ser confundido com falha de alarme.
+Este texto não substitui medidor certificado nem plano de evacuação.
+
+MATERIAIS
+---------
+- Espaço aberto com cerca de 100 m livres até uma superfície.
+- Parede, encosta ou fila de árvores que devolva eco.
+- Cronômetro ou relógio que marque segundos.
+
+PROCEDIMENTO
+------------
+1. Fique a cerca de 50 m da parede, em campo aberto.
+2. Bata palmas uma vez e identifique o som direto e o eco.
+3. Bata palmas em ritmo constante até o eco cair junto da batida.
+4. Anote o intervalo entre batidas: é o tempo de ida e volta.
+5. Meça a temperatura na sombra; sem termômetro, adote 20 graus.
+6. Multiplique por 0,6 e some 331: é a velocidade em m/s, aproximada.
+7. Multiplique o intervalo pela velocidade e divida por 2.
+8. Esse número é a distância aproximada até a superfície.
+9. Afaste-se até o som ficar fraco e anote onde parou.
+10. Ouça com vento a favor e contra o vento, na mesma distância.
+
+ATENCAO
+-------
+O som é onda de pressão e precisa de ar para se propagar.
+A velocidade é de 331 m/s a 0 graus e 343 m/s a 20 graus Celsius.
+A pressão do ar quase não muda a velocidade; a umidade muda pouco.
+O ar absorve agudos acima de 1.000 hertz antes dos graves.
+Em campo aberto, o nível cai cerca de 6 dB ao dobro da distância.
+Vento e camadas quentes ou frias curvam o som: contra o vento há sombra.
+O cálculo do eco é aproximado; pare se o teste exigir risco.
+
+SE NAO TIVER
+------------
+Sem parede, use encosta, galpão ou fila de árvores densas.
+Sem cronômetro, conte em voz alta: um e dois dura cerca de 1 segundo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O eco volta no instante da próxima batida de palmas.
+O som some contra o vento; os agudos somem antes que os graves.
+FONTES
+------
+OpenStax University Physics Volume 1, secao 17.2, velocidade do som.
+NASA Glenn Research Center, guia sobre a velocidade do som no ar.
+Physics LibreTexts, aproximação 331 mais 0,6 por grau Celsius.
+ISO 9613-1 e 9613-2, USDA Forest Service: absorção e propagação externa.

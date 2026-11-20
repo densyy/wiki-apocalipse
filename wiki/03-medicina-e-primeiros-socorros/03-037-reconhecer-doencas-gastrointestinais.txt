@@ -1,0 +1,78 @@
+==============================================================================
+CODIGO: 03-037
+TITULO: Como reconhecer doenças gastrointestinais
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 10 minutos
+RISCO: alto
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: diarreia, vômito, barriga, desidratação, cólera, sangue
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer sinais de doença gastrointestinal e decidir quando pedir ajuda.
+
+QUANDO USAR
+-----------
+Quando a pessoa tiver três ou mais evacuações líquidas em 24 horas.
+Quando aparecerem náusea, vômito, febre ou dor de barriga.
+Quando várias pessoas adoecerem após tomar a mesma água.
+Quando a água não foi tratada ou o alimento ficou sem refrigeração.
+Quando a pessoa for criança, idosa, gestante ou tiver imunidade baixa.
+
+NAO USE QUANDO
+--------------
+Não use este artigo para escolher remédios.
+Se a pessoa estiver inconsciente, busque ajuda imediata.
+
+MATERIAIS
+---------
+- Nenhum material. Basta observar e contar.
+
+PROCEDIMENTO
+------------
+1. Conte as evacuações de fezes líquidas ou amolecidas em 24 horas.
+2. Anote a hora em que os sintomas começaram.
+3. Observe se as fezes são aquosas, com muco ou com sangue.
+4. Pergunte sobre náusea, vômito, febre, dor de barriga e cólicas.
+5. Pergunte se outras pessoas que beberam a mesma água adoeceram.
+6. Observe o estado geral: ativa, irritada ou muito fraca.
+7. Olhe os olhos e a boca: olhos fundos, boca e língua secas.
+8. Veja se a pessoa bebe com sede ou não consegue beber.
+9. Observe se há lágrimas e se ela urinou pouco.
+10. Peça para ela levantar e andar alguns passos, se estiver acordada.
+11. Veja se ela fica tonta ao levantar ou se o pulso está fraco.
+12. Classifique como desidratação se houver dois sinais dos passos 6 a 11.
+13. Classifique como grave se ela não bebe ou está inconsciente.
+14. Suspeite de cólera se a diarreia for súbita, líquida e abundante.
+15. Suspeite de disenteria se houver sangue ou muco nas fezes.
+16. Encaminhe ao serviço de saúde diante de qualquer sinal de alerta.
+
+ATENCAO
+-------
+Sangue nas fezes ou febre alta exigem atendimento imediato.
+Vômitos repetidos impedem manter líquidos e podem causar desidratação grave.
+Crianças e idosos desidratam depressa e podem morrer em um ou dois dias.
+Não tome antibiótico por conta própria: o uso indevido causa resistência.
+Se houver pouca urina, boca muito seca ou confusão, procure ajuda imediata.
+Este artigo apenas reconhece sinais e não substitui avaliação médica.
+
+SE NAO TIVER
+------------
+A observação não exige material. Sem relógio, conte desde que acordou.
+Sem papel, repita os sinais em voz alta para quem estiver junto.
+Sem luz, confirme se a boca está seca com o dorso da mão.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você informa o número de evacuações em 24 horas e os sinais observados.
+A pessoa é encaminhada ao serviço de saúde se houver sinal de alerta.
+
+FONTES
+------
+Ministério da Saúde: Cartilha de Doenças Diarreicas Agudas.
+Ministério da Saúde: Manejo do Paciente com Diarreia, planos A, B e C.
+Ministério da Saúde: páginas sobre cólera e transmissão hídrica e alimentar.
+CDC: norovírus e intoxicação alimentar.
+NIDDK: gastroenterite viral e sinais de desidratação.

@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 63-014
+TITULO: Como identificar riscos de contaminação em água
+CATEGORIA: 63 - Microbiologia, parasitologia e contaminação
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: caderno, lápis, recipiente transparente, luz do dia
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, contaminação, risco, suspeita, poço, esgoto, cheiro
+==============================================================================
+
+OBJETIVO
+--------
+Mapear os sinais de risco desde a fonte até o copo e decidir quando
+descartar ou tratar a água.
+
+QUANDO USAR
+-----------
+Ao chegar a um lugar novo e precisar usar a água local.
+Depois de chuva forte, enchente ou derramamento de combustível.
+Quando a água mudou de cor, cheiro ou sabor.
+Quando alguém adoeceu depois de beber a água.
+Antes de usar poço ou cisterna parados.
+
+NAO USE QUANDO
+--------------
+Não use esta inspeção para afirmar que a água é potável.
+A ausência de sinal não prova ausência de contaminação.
+Com aviso oficial de contaminação, descarte a fonte sem inspecionar.
+Só análise laboratorial confirma a potabilidade.
+
+MATERIAIS
+---------
+- Caderno e lápis (papel e algo para escrever).
+- Recipiente transparente limpo (frasco de vidro ou plástico claro).
+- Pano branco limpo, sem sabão (filtro de papel).
+- Luz do dia (lanterna, se estiver escuro).
+
+PROCEDIMENTO
+------------
+1. Desenhe no caderno o caminho da água: fonte, captação, transporte,
+   armazenamento e consumo.
+2. Identifique o tipo de fonte: rio, lago, nascente, poço, chuva ou rede.
+3. Anote, em cada trecho, o que pode introduzir germes ou venenos.
+4. Procure no entorno fezes, esgoto, fossa, lixo, esterco e animal morto.
+5. Procure lavoura, indústria, aterro, mina e posto de combustível.
+6. Veja para onde escorre a água da chuva e se ela entra na fonte.
+7. Anote eventos recentes: enchente, obra, derramamento ou falha de bomba.
+8. Confira o poço: tampa, vedação, dreno e distância da fossa.
+9. Encha o recipiente e observe a cor e a turbidez contra a luz.
+10. Observe óleo, espuma persistente, mancha colorida e material boiando.
+11. Cheire sem inalar fundo; anote ovo podre, gasolina, solvente ou mofo.
+12. Evite provar a água se a cor ou o cheiro mudaram. Provar pode intoxicar.
+13. Pergunte se houve diarreia ou doença entre quem bebeu a água.
+14. Classifique cada trecho como suspeito ou sem sinal; na dúvida, marque
+    suspeito.
+15. Descarte a fonte se houver cheiro de combustível ou cor estranha.
+16. Separe a água suspeita, use outra fonte e avise a autoridade de saúde.
+17. Registre local, data e decisão. Repita após chuva ou nova mudança.
+
+ATENCAO
+-------
+Água clara, sem cheiro e sem gosto pode conter bactérias, vírus, nitrato,
+metais ou agrotóxicos. Os sentidos não provam segurança.
+Escherichia coli indica fezes recentes; só análise confirma sua presença.
+Ferver, filtrar ou clorar mata germes, mas não remove combustível, metal,
+agrotóxico nem material radioativo.
+Cheiro de gasolina: não beba, não cozinhe, não banhe; afaste-se.
+Não prove água suspeita para testar. O sabor bom não é prova de segurança.
+Em enchente, trate poço e cisterna como contaminados até análise.
+Se várias pessoas adoeceram, pare de usar e avise a vigilância sanitária.
+Esta inspeção reduz o risco, mas não substitui análise laboratorial.
+
+SE NAO TIVER
+------------
+Sem recipiente transparente, use vidro limpo que nunca guardou químico.
+Sem luz do dia, encoste a lanterna no recipiente.
+Sem caderno, decida no momento e anote depois. Na dúvida, descarte.
+Sem dados sobre a origem, trate a água como suspeita.
+Sem laboratório, use água engarrafada e peça orientação à saúde local.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você mapeou cada trecho e anotou os sinais encontrados.
+Cada fonte ficou classificada no caderno, com local e data.
+Nenhuma água com sinal químico foi bebida, cozida ou usada no banho.
+A fonte suspeita foi separada e substituída por outra fonte.
+
+FONTES
+------
+OMS: Plano de Segurança da Água (identificação de perigos e eventos) e
+Diretrizes para Qualidade da Água Potável (E. coli como indicador de
+contaminação fecal recente). CDC: avisos de água potável e orientações
+para encontrar água limpa em emergência. Ministério da Saúde e Funasa:
+Portaria GM/MS 888/2021, Manual Prático de Análise de Água e a matéria
+'Água transparente é sempre segura para beber?'. Senar: cartilha de
+saneamento rural sobre fossas e contaminação de poços. Resumo operacional;
+não substitui análise laboratorial.

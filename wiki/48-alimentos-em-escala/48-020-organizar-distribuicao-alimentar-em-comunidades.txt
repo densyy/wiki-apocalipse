@@ -1,0 +1,93 @@
+==============================================================================
+CODIGO: 48-020
+TITULO: Como organizar distribuição alimentar em comunidade isolada
+CATEGORIA: 48 - Produção de alimentos em escala comunitária
+TEMPO: 6 horas
+RISCO: alto
+EXIGE: caderno, lista de famílias, transporte, recipientes limpos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: distribuição, isolada, alimentos, entrega, registro, fome
+==============================================================================
+
+OBJETIVO
+---------
+Entregar alimentos seguros a todas as famílias da comunidade isolada.
+
+QUANDO USAR
+-----------
+Quando estradas, pontes ou rios impedem o acesso a mercado.
+Quando a comunidade fica sem produção própria por vários dias.
+Depois de enchente, deslizamento ou seca que isolou o lugar.
+Quando há idosos ou doentes que não podem buscar comida.
+Quando doações ou estoques precisam ser repartidos entre famílias.
+
+NAO USE QUANDO
+--------------
+Não use se os alimentos estiverem mofados, com cheiro estranho ou
+vencidos: comida estragada adoece quem recebe.
+Não use como substituto de atendimento médico para desnutrição grave.
+
+MATERIAIS
+---------
+- Caderno e caneta (ou papel e lápis) para o registro.
+- Lista das famílias com número de moradores (ou contagem porta a porta).
+- Recipientes limpos e tampados para medir e guardar os alimentos.
+- Balança (ou medida caseira conhecida, sempre a mesma para todos).
+- Meio de transporte que chegue até a comunidade (barco, animal, veículo).
+- Sacos ou caixas limpos para separar a ração de cada família.
+- Água potável e sabonete para lavar as mãos no ponto de entrega.
+
+PROCEDIMENTO
+------------
+1. Caminhe pela comunidade e anote quantas pessoas moram em cada casa.
+2. Marque no caderno quem é criança, idoso, doente ou gestante.
+3. Defina quanto cada pessoa recebe por dia, sem prometer o que não há.
+4. Some o total de pessoas e multiplique pela ração diária prevista.
+5. Confira se o estoque e o transporte cobrem a entrega até o fim.
+6. Escolha um ponto de entrega com sombra, seguro e perto das casas.
+7. Avise o dia e o horário com antecedência, porta a porta.
+8. Monte uma comissão com moradores, incluindo mulheres e idosos.
+9. Combine com a comissão quem recebe e em que ordem.
+10. Separe os alimentos por família em sacos ou caixas limpos.
+11. Escreva o nome da família e a quantidade em cada saco.
+12. Lave as mãos antes de manusear e entre uma entrega e outra.
+13. Entregue primeiro a quem não pode caminhar, levando até a casa.
+14. Peça ao receptor conferir a quantidade antes de marcar a entrega.
+15. Anote quem recebeu e quem faltou, para a próxima entrega.
+16. Guarde o que sobrou em lugar seco, limpo e fora do alcance de animais.
+17. Pergunte à comissão, ao fim, se houve reclamação ou erro.
+
+ATENCAO
+-------
+Comida estragada ou mal guardada pode intoxicar várias famílias de uma vez.
+Não prometa ração maior que o estoque: a entrega seguinte pode faltar.
+Líderes podem favorecer parentes; registre e publique a lista.
+Sem registro, a mesma família recebe duas vezes e outra fica sem nada.
+Comida deixada no sol ou na umidade apodrece rápido; proteja o estoque.
+Respeite o preparo local: o que a comunidade não come é desperdício.
+Com diarreia ou vômito em quem recebeu, pare e busque ajuda.
+Não exija trabalho ou favor em troca de comida em situação de emergência.
+
+SE NAO TIVER
+------------
+Sem balança, use uma medida caseira conhecida e sempre a mesma para todos.
+Sem sacos, use recipientes limpos da própria família, um de cada vez.
+Sem comissão formada, peça a duas pessoas de confiança que acompanhem.
+Sem transporte, entregue em lotes pequenos mais perto das casas.
+Se o estoque acabar, reduza a ração de todos de forma igual e avise.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O caderno mostra o nome de todas as famílias e quem recebeu.
+Nenhuma casa ficou sem entrega e nenhuma recebeu duas vezes.
+A comida foi recebida limpa, seca e dentro do prazo.
+A comissão relatou as reclamações e elas foram anotadas.
+
+FONTES
+------
+Manual Sphere, padrões 6.1 a 6.4: nutrição, qualidade, distribuição e uso
+de alimentos; Guia Operacional de Logística do Cluster de Logística
+(distribuição gerida pela comunidade, comissões e cartões de racionamento);
+cadeia de abastecimento do Programa Mundial de Alimentos; Manual de
+Operações de Campo do CRS (Catholic Relief Services). Resumo operacional;
+confirme a norma sanitária local. Não substitui treinamento.

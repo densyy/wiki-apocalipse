@@ -1,0 +1,94 @@
+==============================================================================
+CODIGO: 02-126
+TITULO: Como produzir farinha artesanal
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: grãos secos, moinho manual, peneira, pano, recipiente com tampa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: farinha, moagem, grãos, trigo, milho, peneira, moinho
+==============================================================================
+
+OBJETIVO
+--------
+Transformar grãos secos e sãos em farinha fina, pronta para cozinhar.
+
+QUANDO USAR
+-----------
+Quando houver grãos de trigo, milho ou arroz e faltar farinha em casa.
+Quando a farinha comprada acabar ou estiver cara.
+Quando quiser aproveitar a colheita própria sem depender de indústria.
+Quando houver moinho manual, pedra de moer ou moedor reserva.
+
+NAO USE QUANDO
+--------------
+Não use grãos mofados, escurecidos, murchos ou com cheiro de bolor.
+Não use grãos úmidos: acima de aproximadamente 16% de umidade cresce mofo.
+Não use grãos tratados com veneno ou sementes destinadas ao plantio.
+Não faça em lugar fechado e sem ventilação: a poeira prejudica o pulmão.
+
+MATERIAIS
+---------
+- Grãos inteiros secos e sãos de trigo, milho ou arroz.
+- Moinho manual, moinho de pedra ou moedor de café reserva.
+- Peneira fina (pano limpo bem apertado como substituto).
+- Pano limpo e seco para espalhar e limpar.
+- Tigela ou balde para selecionar os grãos.
+- Recipiente seco com tampa para guardar a farinha.
+
+PROCEDIMENTO
+------------
+1. Lave as mãos e limpe moinho, peneira, tigela e recipientes.
+2. Espalhe os grãos no pano e retire pedras, gravetos e cascas.
+3. Retire também os grãos quebrados e os de cor estranha.
+4. Descarte qualquer grão mofado, escuro, murcho ou com cheiro de bolor.
+5. Confira a secagem: o grão são quebra seco, com estalo, sem umidade.
+6. Se os grãos estiverem úmidos, espalhe ao sol em camada fina.
+7. Mexa a cada hora e deixe secar até o grão quebrar com estalo.
+8. Regule o moinho para moagem grossa e moa uma porção de teste.
+9. Despeje os grãos aos poucos, sem encher demais a câmara do moinho.
+10. Moa até não restarem pedaços grandes de grão inteiro.
+11. Peneire sobre a tigela e separe o farelo que ficar na peneira.
+12. Volte o farelo ao moinho e moa de novo para aproveitar o restante.
+13. Repita a peneiragem até a farinha ficar fina e sem pedaços duros.
+14. Guarde em recipiente seco e tampado, em lugar escuro e fresco.
+15. Limpe o moinho e a peneira com pano seco depois de usar.
+
+ATENCAO
+-------
+Grão mofado pode conter aflatoxina, toxina que resiste ao cozimento.
+O mofo as vezes não aparece: na duvida, descarte o lote inteiro.
+Poeira de grão e farinha prejudica o pulmão: cubra o nariz e ventile.
+Moinho manual pode prender os dedos: pare antes de destampar ou limpar.
+Farinha úmida ou guardada no calor cria mofo em poucos dias.
+Farinha de grão duvidoso não pode ser salva cozinhando: descarte.
+Dor no fígado, vômito ou febre depois de comer: procure atendimento.
+
+SE NAO TIVER
+------------
+Sem moinho, use duas pedras limpas e esfregue os grãos entre elas.
+Sem pedra, use moedor de café reserva, limpo e seco, aos poucos.
+Sem peneira, use pano limpo apertado e sacuda sobre a tigela.
+Sem recipiente com tampa, coma a farinha no mesmo dia e não guarde sobra.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A farinha fica fina, seca e sem pedaços duros ou grãos inteiros.
+A cor fica uniforme, sem pontos escuros, verdes ou esbranquiçados.
+O cheiro é de grão fresco, sem bolor, ranço ou terra.
+Depois de peneirar, quase nada sobra na peneira.
+
+FONTES
+------
+Embrapa, Ageitec: "Moagem" e "Milho para moagem a seco": grão seco e limpo,
+peneiragem e escolha do moinho conforme o produto.
+Embrapa, Ageitec: "Secagem" (trigo): umidade de armazenagem de cerca de
+13% e temperatura máxima da massa de grãos de 60 graus.
+Organização Mundial da Saúde: "Mycotoxins" (2023): inspecionar grãos e
+descartar os que estiverem mofados, descoloridos ou murchos.
+FDA: "Mycotoxins": aflatoxinas em grãos, risco de câncer de fígado e limite
+de 20 ppb em alimentos.
+USDA: "Grain Fungal Diseases and Mycotoxin Reference": risco de inalação de
+poeira de grão e farinha.
+Anvisa: Instrução Normativa 160/2022 e 463/2026, limites de micotoxinas.
+Prática consolidada de moagem doméstica com moinho manual e peneira.

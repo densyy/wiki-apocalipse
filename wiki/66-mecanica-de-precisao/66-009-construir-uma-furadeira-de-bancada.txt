@@ -1,0 +1,85 @@
+==============================================================================
+CODIGO: 66-009
+TITULO: Como construir uma furadeira de bancada
+CATEGORIA: 66 - Mecânica de precisão e instrumentos
+TEMPO: 4 horas
+RISCO: alto
+EXIGE: motor ou manivela, eixo com rolamentos, chapa, morsa, óculos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: furadeira de bancada, perfuratriz, furar, broca, mesa, eixo
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma furadeira de bancada firme para furar com precisão.
+
+QUANDO USAR
+-----------
+Quando é preciso furar em ângulo reto com a superfície da peça.
+Quando se repetem muitos furos iguais e a furadeira manual cansa.
+Quando o furo deve ser profundo e bem alinhado.
+
+NAO USE QUANDO
+--------------
+Quando não há como fixar a peça com morsa ou grampos.
+Quando o material for vidro, cerâmica ou concreto sem broca própria.
+Quando não houver óculos de proteção nem como proteger as mãos.
+
+MATERIAIS
+---------
+- Base pesada de chapa ou madeira compensada grossa.
+- Coluna de aço ou tubo reto para guiar a mesa.
+- Mesa com furo central para a broca passar.
+- Eixo com dois rolamentos e mandril para prender a broca.
+- Alavanca de avanço para mover o eixo para baixo.
+- Motor com polias e correia, ou manivela manual.
+- Tampa para cobrir correia e polias.
+- Morsa ou grampos para prender a peça.
+- Óculos de proteção.
+
+PROCEDIMENTO
+------------
+1. Fixe a base pesada ao banco com parafusos ou grampos.
+2. Monte a coluna na base, na vertical e bem travada.
+3. Prenda a mesa à coluna com braçadeira que permita subir e descer.
+4. Abra o furo central na mesa, alinhado com o eixo.
+5. Instale o eixo na cabeça com os dois rolamentos alinhados.
+6. Prenda o mandril no eixo e aperte a broca no mandril.
+7. Monte a alavanca de avanço no eixo.
+8. Instale o motor com polias e correia, ou a manivela.
+9. Cubra correia e polias com a tampa de proteção.
+10. Gire a broca à mão e confira o alinhamento com o furo da mesa.
+11. Prenda a peça na morsa. Nunca segure com as mãos.
+12. Ligue o motor e baixa a broca devagar sobre a peça.
+
+ATENCAO
+-------
+A broca e a correia em movimento cortam dedos e prendem roupas.
+Nunca segure a peça com as mãos; use sempre morsa ou grampos.
+Use óculos: lascas de metal e madeira voam em alta velocidade.
+Não use luvas, mangas largas, cordões nem cabelo solto perto do eixo.
+Desligue e espere o eixo parar antes de trocar broca ou ajustar a mesa.
+Sem tampa, a correia pode prender a mão e causar lesão grave.
+Se usar motor, isole a fiação, aterre a estrutura e evite umidade.
+Broca empenada ou frouxa pode quebrar e arremessar estilhaços.
+Se o motor travar ou aquecer, desligue e pare até entender o motivo.
+
+SE NAO TIVER
+------------
+Sem motor, acople uma manivela ao eixo para girar a broca.
+Sem rolamentos, use buchas de bronze com a menor folga possível.
+Sem chapa, faça base e mesa de madeira compensada bem grossa.
+Sem óculos, não use a máquina; improvise proteção ou espere.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A broca gira alinhada com o furo da mesa, sem tremer.
+A alavanca desce e sobe de forma suave.
+O furo sai redondo, no diâmetro da broca, sem queimar a peça.
+
+FONTES
+------
+Prática consolidada de marcenaria e mecânica de precisão na
+construção de furadeiras de bancada. As precauções de segurança
+seguem a prática geral com máquinas-ferramenta. Este texto é
+um resumo operacional, não substitui treinamento.

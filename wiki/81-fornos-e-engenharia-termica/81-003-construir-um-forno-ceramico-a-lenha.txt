@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 81-003
+TITULO: Como construir um forno cerâmico a lenha
+CATEGORIA: 81 - Engenharia térmica e fornos industriais
+TEMPO: 2 dias
+RISCO: alto
+EXIGE: tijolos refratários, barro, chaminé, lenha seca
+REVISAO: 2026-11
+PALAVRAS-CHAVE: forno, cerâmica, lenha, refratário, queima, chaminé
+==============================================================================
+
+OBJETIVO
+--------
+Construir um forno a lenha para queimar peças de cerâmica com calor regular.
+
+QUANDO USAR
+-----------
+Para queimar louça, tijolos e peças de barro com fogo de lenha.
+Quando se quer calor gradual e ambiente úmido na câmara.
+Ao substituir um forno que queima de forma desigual.
+Quando há lenha seca disponível e energia elétrica é incerta.
+
+NAO USE QUANDO
+--------------
+Não monte sobre solo úmido ou que absorva água.
+Não use madeira tratada, verniz ou restos de pintura como lenha.
+Não opere sem chaminé e sem proteção contra faíscas.
+Não queime esmaltes que liberem vapores tóxicos sem ventilação.
+
+MATERIAIS
+---------
+- Tijolos comuns para a base e a parte externa.
+- Tijolos refratários para o interior da câmara.
+- Barro ou argila refratária para assentar e revestir.
+- Chaminé com altura acima do telhado mais próximo (duto metálico).
+- Lenha seca de madeira não tratada (guardada e coberta).
+- Pá, enxada e balde de água.
+- Luvas, óculos e máscara simples.
+
+PROCEDIMENTO
+------------
+1. Escolha local afastado de vegetação, madeira e telhados baixos.
+2. Faça uma base firme e nivelada de alvenaria ou concreto.
+3. Desenhe a câmara, a porta e a saída de fumaça no papel.
+4. Assente a parede externa com tijolos comuns e barro.
+5. Revista o interior com tijolos refratários assentados rente.
+6. Deixe a grelha ou o plano de apoio das peças bem nivelado.
+7. Abra a entrada de ar na parte baixa da porta.
+8. Instale a chaminé com vedação e altura além do telhado.
+9. Impermeabilize o topo para a chuva não entrar na câmara.
+10. Seque a alvenaria devagar, protegida do sereno e da chuva.
+11. Faça um fogo brando inicial para retirar a umidade.
+12. Aumente o fogo aos poucos em duas ou três queimas.
+13. Coloque as peças apenas após a câmara estar seca e quente.
+14. Observe a cor da chama e a distribuição do calor na câmara.
+15. Anote os tempos de queima e o comportamento do forno.
+
+ATENCAO
+-------
+Lenha tratada solta vapores venenosos e contamina as peças.
+Fogo forte demais no início racha o revestimento e a peça crua.
+A câmara quente queima a pele: use luvas e nunca toque a parede.
+Faíscas podem incendiar telhado ou mato; mantenha a área limpa.
+Nunca deixe o fogo sem vigilância nem durma perto do forno aceso.
+Tenha água e areia por perto para sufocar faíscas.
+Se a fumaça entrar no ambiente, pare e revise a chaminé.
+
+SE NAO TIVER
+------------
+Sem tijolo refratário, use barro refratário em camada espessa e aceite
+desgaste rápido; nunca para queimas de alta temperatura.
+Sem chaminé metálica, improvise duto de barro com saída alta e aberta.
+Sem lenha, não use gasolina, álcool ou pneus: o fogo fica fora de controle.
+Sem termômetro, use cones de fusão para estimar o ponto da queima.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As peças saem queimadas por igual, sem trincas de choque térmico.
+O fogo não volta fumaça para o ambiente.
+O revestimento não apresenta rachaduras novas após várias queimas.
+A lenha queima de forma constante, sem apagar a cada instante.
+
+FONTES
+------
+Prática consolidada de olaria e fornos de cerâmica a lenha, sem documento
+normativo único. Referências correntes de queima controlada, secagem de
+peças e construção de fornos de alvenaria refratária.

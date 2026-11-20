@@ -1,0 +1,109 @@
+==============================================================================
+CODIGO: 55-020
+TITULO: Como manejar cupins em estruturas rurais
+CATEGORIA: 55 - Entomologia, apicultura e pequenos organismos
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: luvas nitrilicas, mascara com filtro, oculos, macacao, lanterna
+REVISAO: 2026-11
+PALAVRAS-CHAVE: cupim, termita, cupinzeiro, madeira seca, cupinicida
+==============================================================================
+
+OBJETIVO
+--------
+Identificar o tipo de cupim e conter o ataque as madeiras da construcao.
+
+QUANDO USAR
+-----------
+Ao ver galerias de terra subindo em parede, fundacao ou mao de forca.
+Ao achar graos secos sob movel, batente, viga ou caixa de madeira.
+Ao ouvir som oco ao bater em peca que parece intacta por fora.
+Apos revoada de cupins alados dentro ou perto da construcao.
+Ao ver cupinzeiro de monticulo no terreno junto a edificacao.
+Antes de reformar galpao, depósito ou cerca com madeira antiga.
+
+NAO USE QUANDO
+--------------
+Nao aplique inseticida sem produto registrado e rotulo legivel.
+Nao trate sozinho viga, telhado ou piso que sustente a estrutura.
+Nao queime cupinzeiro dentro ou perto da edificacao.
+Nao aplique com criancas, animais ou alimentos desprotegidos no local.
+
+MATERIAIS
+---------
+- Lanterna ou luz frontal para inspecionar cantos escuros (celular).
+- Formao ou chave de fenda para abrir galerias e testar a madeira.
+- Espatula ou colher para retirar a terra dos tuneis.
+- Luvas nitrilicas ou de neoprene (nunca use luvas de latex).
+- Oculos de protecao e mascara com filtro para vapores organicos.
+- Macacao de mangas longas e botas impermeaveis.
+- Cupinicida registrado para cupins, com rotulo e registro intactos.
+- Pincel ou seringa para aplicar o produto nos furos (pisseta).
+- Balde com agua e sabao para lavar maos e limpar ferramentas.
+- Caderno e lapis para marcar os pontos encontrados (celular).
+
+PROCEDIMENTO
+------------
+1. Vista macacao, luvas, oculos, mascara e botas antes do manuseio.
+2. Leia o rotulo e confirme que o produto e registrado para cupins.
+3. Ilumine fundacoes, rodapes, batentes, vigas e maos de forca.
+4. Procure galerias de terra na parede, no piso e junto a tubulacoes.
+5. Toque a galeria com a espatula; terra fresca e umida indica atividade.
+6. Bata na madeira com o formao; som oco indica que o miolo foi comido.
+7. Observe graos secos sob a peca; nao os confunda com serragem.
+8. Classifique: galeria de terra e umidade apontam para cupim subterraneo.
+9. Classifique: graos secos e furos redondos apontam para madeira seca.
+10. Retire a terra da galeria com a espatula ate achar a saida no solo.
+11. Abra com o formao os orificios das pecas de madeira seca.
+12. Aplique o cupinicida nos furos e galerias na dose do rotulo.
+13. Feche os orificios com cera, massa ou serragem misturada com cera.
+14. Retire e substitua por madeira tratada as pecas muito destruidas.
+15. Elimine vazamentos e a umidade que alimenta a colonia.
+16. Afaste madeira, papelao e entulho do contato direto com o solo.
+17. Mantenha a madeira estrutural a pelo menos 50 cm do solo.
+18. Faca aberturas de ventilacao de cerca de 20 cm2 por metro de parede.
+19. Ventile o vao sob o piso e aumente a circulacao de ar no deposito.
+20. Anote no caderno os pontos tratados e a data da revisao.
+21. Lave luvas, ferramentas e maos com agua e sabao ao terminar.
+22. Ventile o local e mantenha pessoas e animais fora ate a secagem.
+
+ATENCAO
+-------
+Cupinicidas podem intoxicar: nunca inale, ingira ou deixe cair na pele.
+Mascara comum contra poeira nao protege contra vapores de solvente.
+Nao aplique perto de chamas ou superficies quentes; ha produto inflamavel.
+Nao rosque viga ou telhado sem avaliar a perda de resistencia da madeira.
+Matar os cupins visiveis nao elimina a colonia: a rainha repoe operarios.
+Enquanto o ninho no solo nao for achado, o controle e paliativo.
+Nao enterre sobra de madeira, caixa ou papelao: isso alimenta novos ninhos.
+Nunca use gasolina, oleo queimado ou agrotoxico agricola sem registro.
+Se o produto cair nos olhos ou na pele, lave com agua em abundancia.
+Se inalado, saia para local ventilado e leve o rotulo ao atendimento.
+Se a revoada continuar ou a peca ceder, pare e chame empresa especializada.
+
+SE NAO TIVER
+------------
+Sem EPI completo, nao aplique: apenas inspecione, anote e peca ajuda.
+Sem produto registrado, retire a peca atacada e troque por madeira tratada.
+Sem seringa ou pisseta, use pincel nos furos com o produto do rotulo.
+Sem saber o tipo de cupim, trate primeiro a umidade e o contato com o solo.
+Sem poder mexer na estrutura, marque o ponto e observe depois.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A terra dos tuneis nao volta a aparecer nos dias seguintes.
+Nao ha graos secos novos sob a peca tratada.
+A madeira soa firme ao bater, sem som oco.
+Nao aparecem alados dentro da construcao na proxima revoada.
+A umidade junto a fundacao diminui e nao ha vazamento ativo.
+Os pontos marcados no caderno sao revisados sem novo sinal de ataque.
+
+FONTES
+------
+Resumo operacional de publicacoes da Embrapa Florestas e da Embrapa
+Meio-Norte sobre preservacao de madeira, cupins subterraneos e cupins
+em zonas urbanas; artigo revisado por pares da Escola Superior de
+Agricultura Luiz de Queiroz sobre deteccao e controle do cupim de
+madeira seca; orientacoes da Embrapa sobre uso seguro de defensivos
+e equipamentos de protecao; diretrizes da OMS sobre protecao pessoal
+na aplicacao de agrotoxicos.

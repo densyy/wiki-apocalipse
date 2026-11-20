@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 48-012
+TITULO: Como organizar processamento comunitário de carnes
+CATEGORIA: 48 - Produção de alimentos em escala comunitária
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: animais saudáveis, água potável, gelo, facas, local amplo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: carne, abate, comunitário, higiene, frio, resíduos
+==============================================================================
+
+OBJETIVO
+--------
+Definir funções, higiene e frio para processar carne em grupo com segurança.
+
+QUANDO USAR
+-----------
+- Quando várias famílias criam animais e dividem o serviço.
+- Quando não há frigorífico industrial acessível à comunidade.
+- Quando a carne precisa ser processada perto do local de criação.
+- Quando o grupo quer reduzir perdas por carne estragada.
+
+NAO USE QUANDO
+--------------
+- Não use para substituir abate inspecionado quando a lei local exigir.
+- Não processe animais doentes, mortos sem causa conhecida ou com febre.
+- Não faça sem água potável em quantidade nem sem meio de resfriar.
+- Não comece sem pessoas treinadas e sem um responsável designado.
+
+MATERIAIS
+---------
+- Água potável em quantidade (ou água tratada para beber).
+- Gelo ou câmara fria (ou caixa térmica com gelo).
+- Facas e tábuas de corte de plástico ou madeira lisa (não madeira rachada).
+- Pano limpo e sabão ou desinfetante.
+- Recipientes limpos com tampa para transportar a carne.
+- Sacos ou baldes para resíduos e sobras.
+- Caderno ou folha para registrar datas, animais e responsáveis.
+- Luvas e avental limpos (ou braços e roupas laváveis).
+
+PROCEDIMENTO
+------------
+1. Reúna o grupo e escolha um responsável por cada função.
+2. Separe três áreas: animais vivos, processamento e carne pronta.
+3. Defina quem recebe, quem limpa, quem corta e quem guarda a carne.
+4. Reserve um dia e um horário fixo para cada leva de animais.
+5. Verifique a saúde dos animais antes de receber cada um.
+6. Recuse animal doente, ferido, com febre ou morto sem causa conhecida.
+7. Prepare água potável e sabão em todas as áreas de trabalho.
+8. Lave as mãos, as facas, as tábuas e as superfícies antes de começar.
+9. Mantenha utensílios da carne crua separados dos da carne pronta.
+10. Eviscere com o animal pendurado; não toque o conteúdo intestinal.
+11. Lave a carcaça somente se houver água potável em abundância.
+12. Resfrie a carne rápido: coloque-a no gelo ou na câmara fria.
+13. Mantenha a carne abaixo de 5 graus ou acima de 60 graus.
+14. Cozinhe a carne que será distribuída pronta até 70 graus no centro.
+15. Acondicione a carne em recipientes limpos e tampados para o transporte.
+16. Registre no caderno a data, o animal, o responsável e o destino.
+17. Separe resíduos e sobras em baldes e descarte longe da área de corte.
+18. Limpe toda a área e os utensílios ao final de cada dia de trabalho.
+
+ATENCAO
+-------
+- Carne crua pode ter bactérias, vírus e parasitas que causam doença.
+- Sem cadeia de frio, bactérias crescem rápido entre 5 e 60 graus.
+- Não deixe carne cozida fora da geladeira por mais de 2 horas.
+- Não lave a carne se a água não for potável: piora a contaminação.
+- Feridas com faca e respingos de sangue abrem porta para infecção.
+- Este texto organiza o trabalho; não substitui treinamento nem inspeção.
+- Se alguém adoecer depois de comer, pare a distribuição e busque ajuda.
+
+SE NAO TIVER
+------------
+- Sem câmara fria, use caixa térmica com gelo e troque o gelo derretido.
+- Sem gelo, processe só o que será comido no dia e cozinhe tudo.
+- Sem água potável, ferva a água por 1 minuto antes de lavar.
+- Sem facas próprias, use as mais limpas e desinfete com água fervente.
+- Sem responsável treinado, reduza a escala e peça orientação local.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- Cada lote tem responsável, data e destino registrados no caderno.
+- Área limpa e área suja estão separadas e identificadas.
+- A carne resfriada está firme e a superfície não está pegajosa.
+- Não há cheiro azedo, corrimento escuro nem moscas na área de corte.
+- Toda a carne distribuída foi cozida ou está sob gelo até a entrega.
+
+FONTES
+------
+- Cinco Chaves para Alimentos Mais Seguros, da OMS: manter limpo,
+- separar cru e cozido, cozinhar a 70 graus, manter abaixo de 5
+- ou acima de 60 graus e usar água segura.
+- Código de Prática de Higiene para Carne, Codex CXC 58-2005, FAO/OMS.
+- Princípios Gerais de Higiene de Alimentos, Codex CXC 1-1969, FAO/OMS.
+- Orientações da FAO sobre higiene no abate e resfriamento de carcaças.
+- Boas Práticas de Produção e Portaria 365/2021 do MAPA, abate humanitário.

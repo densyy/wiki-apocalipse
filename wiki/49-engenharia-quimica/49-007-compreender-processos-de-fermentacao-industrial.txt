@@ -1,0 +1,79 @@
+==============================================================================
+CODIGO: 49-007
+TITULO: Como compreender processos de fermentação industrial
+CATEGORIA: 49 - Engenharia química e processos industriais
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: caderno, lápis, noção de microrganismo e de meio de cultura
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fermentação, biorreator, microrganismo, substrato, enzima
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer as partes de um processo de fermentação industrial e o que
+cada etapa faz.
+
+QUANDO USAR
+-----------
+Ao ler um fluxograma de uma planta que usa microrganismos.
+Ao entender como um produto como antibiótico, enzima ou álcool é obtido.
+Ao comparar fermentação com uma reação química comum.
+Ao diagnosticar por que uma fermentação não rendeu o esperado.
+
+NAO USE QUANDO
+--------------
+Não use para operar um biorreator ou manipular cepas sem treinamento.
+Não use para dimensionar vasos, agitação ou aeração.
+Não use para escolher ou manipular microrganismos desconhecidos.
+
+MATERIAIS
+---------
+- Caderno e lápis para desenhar as etapas.
+- Noção de que microrganismos são seres vivos muito pequenos.
+- Um exemplo simples, como iogurte, pão ou vinho, se houver.
+
+PROCEDIMENTO
+------------
+1. Escreva o nome do produto final no topo da folha.
+2. Identifique o microrganismo: bactéria, levedura ou fungo.
+3. Anote o substrato que ele consome, fonte de carbono e energia.
+4. Anote o meio: água, açúcar, nitrogênio e sais.
+5. Verifique se o meio e o ar foram esterilizados antes de começar.
+6. Classifique quanto ao oxigênio: aeróbio ou anaeróbio.
+7. Marque as fases: adaptação, crescimento e repouso.
+8. Anote temperatura, pH, agitação e aeração controlados.
+9. Decida o produto: biomassa, metabólito, enzima ou substrato alterado.
+10. Separe metabólito primário, do crescimento, do secundário, do repouso.
+11. Desenhe a separação e a purificação do produto no fim do fluxo.
+12. Anote o que o processo faz e o que não resolve sozinho.
+
+ATENCAO
+-------
+- Entender o princípio não habilita ninguém a operar uma planta.
+- Microrganismos desconhecidos podem produzir toxinas perigosas.
+- Meios e equipamentos não esterilizados permitem contaminação.
+- Contaminação pode destruir o lote e gerar produto imprevisível.
+- Nunca abra ou cheire vaso de fermentação sem treinamento e proteção.
+- Pressão, calor e agentes químicos da planta podem ferir ou intoxicar.
+- Se houver cheiro estranho, vazamento ou pressão subindo, saia e avise.
+
+SE NAO TIVER
+------------
+- Sem fluxograma, use um exemplo caseiro conhecido, como iogurte.
+- Sem saber o nome do microrganismo, anote apenas a função dele.
+- Sem dados de temperatura e pH, marque que são controladas.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você aponta o microrganismo, o substrato, as condições e o produto
+em cada etapa, e diz se o produto é primário ou secundário.
+
+FONTES
+------
+- Principles of Fermentation Technology, Stanbury, Whitaker e Hall.
+- Biochemical Engineering Fundamentals, Bailey e Ollis.
+- Industrial Fermentation: Principles, Processes and Products,
+  Humphrey e Lee.
+- Prática consolidada de ensino de fermentação industrial.
+  Resumo operacional, não substitui treinamento.

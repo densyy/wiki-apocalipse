@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 63-012
+TITULO: Como compreender a formação de biofilmes
+CATEGORIA: 63 - Microbiologia, parasitologia e contaminação
+TEMPO: 20 minutos
+RISCO: medio
+EXIGE: esquema das etapas, caderno, lápis, nenhum material biológico
+REVISAO: 2026-11
+PALAVRAS-CHAVE: biofilme, bactéria, placa, aderência, matriz, limo, cano
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer as etapas do biofilme e por que ele resiste à limpeza.
+
+QUANDO USAR
+-----------
+Quando encontrar limo escorregadio em tubo, pedra ou parede de tanque.
+Quando uma superfície limpa volta a ficar suja em poucos dias.
+Ao estudar placa dental, água parada ou infecção ligada a cateter.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para este procedimento.
+Este texto é só conceitual: não ensina a coletar nem a cultivar bactérias.
+
+MATERIAIS
+---------
+- Um esquema das cinco etapas, impresso ou desenhado à mão.
+- Caderno e lápis para registrar cada etapa observada.
+- Nenhum material biológico, amostra de água ou raspagem de superfície.
+
+PROCEDIMENTO
+------------
+1. Observe o esquema sem procurar amostra real alguma.
+2. Note a superfície nua antes de qualquer bactéria chegar.
+3. Identifique a película de proteínas: o filme de condicionamento.
+4. Marque a bactéria que encosta e volta para a água: aderência reversível.
+5. Marque a que fica presa e para de nadar: aderência irreversível.
+6. Reconheça os grupos pequenos que crescem: microcolônias, maturação um.
+7. Observe a matriz pegajosa: açúcares, proteínas e DNA protegem o grupo.
+8. Note os canais de água na camada: maturação dois, biofilme maduro.
+9. Entenda o quorum sensing: sinal químico que coordena o grupo.
+10. Identifique a dispersão: bactérias nadam para colonizar outro ponto.
+11. Escreva no caderno as cinco etapas em ordem.
+12. Relacione cada etapa com limo em cano, pedra ou placa dental.
+
+ATENCAO
+-------
+Bactérias em biofilme resistem mais a desinfetantes do que as soltas.
+A matriz é barreira: impede desinfetante e defesa do corpo de agir.
+Água parada, pouca limpeza e muito alimento favorecem o biofilme.
+Limpar só a visível deixa a base e o biofilme volta a crescer.
+Com infecção ou água suspeita, procure ajuda; não improvise químico.
+
+SE NAO TIVER
+------------
+Sem esquema, desenhe as cinco etapas no papel a partir desta descrição.
+Use a placa dental como exemplo; não colete água nem raspe cano.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você aponta as cinco etapas no esquema e as nomeia na ordem correta.
+Você explica por que a matriz protege as bactérias e cita um exemplo.
+
+FONTES
+------
+Visão geral da CDC sobre biofilmes e dispositivos; revisões do NIH
+sobre as cinco etapas; material da EPA sobre biofilmes em água potável.
+Prática consolidada de microbiologia, resumida sem substituir treinamento.

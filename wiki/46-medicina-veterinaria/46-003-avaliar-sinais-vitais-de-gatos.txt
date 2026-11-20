@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 46-003
+TITULO: Como avaliar sinais vitais de gatos
+CATEGORIA: 46 - Medicina veterinária e saúde animal
+TEMPO: 15 minutos
+RISCO: medio
+EXIGE: relógio com segundos, termômetro digital, gato calmo, luz
+REVISAO: 2026-11
+PALAVRAS-CHAVE: gato, bicho, temperatura, pulso, respiração, dor
+==============================================================================
+
+OBJETIVO
+--------
+Medir temperatura, batimentos, respiração e dor em um gato para decidir
+se ele precisa de atendimento veterinário.
+
+QUANDO USAR
+-----------
+Quando o gato fica quieto, escondido ou come menos que o normal.
+Com suspeita de febre, dor, queda ou no acompanhamento de um tratamento.
+
+NAO USE QUANDO
+--------------
+Não manipule gato com falta de ar, convulsão, colapso ou ferimento grave.
+Leve ao veterinário sem perder tempo medindo.
+
+MATERIAIS
+---------
+- Relógio com segundos e termômetro digital (o retal é o melhor).
+- Lubrificante à base d'água ou vaselina para a ponta do termômetro.
+- Papel, lápis, luz e toalha grossa para conter o gato.
+
+PROCEDIMENTO
+------------
+1. Observe o gato de longe por 30 segundos, sem tocá-lo.
+2. Conte o peito por 30 s e dobre: 20 a 30 respirações em repouso.
+3. Coloque a mão no peito esquerdo, atrás da pata dianteira.
+4. Conte os batimentos por 15 s e dobre por 4: 140 a 220 em repouso.
+5. Levante o lábio: a gengiva deve ser rosa e úmida.
+6. Pressione a gengiva por 1 s; a cor volta em 1 a 2 s.
+7. Lubrifique a ponta; aplique só no reto, sem forçar, até apitar.
+8. Anote a temperatura: em torno de 38 a 39 °C é o esperado.
+9. Observe a face por 30 s: orelhas, olhos, focinho, bigodes, cabeça.
+10. Dê 0, 1 ou 2 em cada item; soma de 4 ou mais sugere dor.
+
+ATENCAO
+-------
+Gatos escondem dor: aparência normal não afasta problema.
+Estresse, calor e exercício alteram os números; meça em repouso.
+Batimentos variam entre manuais: trate os valores como aproximados.
+Não force o termômetro se ele se debater; não dê remédio humano.
+Analgésico humano é tóxico. Boca aberta ou gengiva azul é emergência.
+Colapso, convulsão ou não urinar: vá ao veterinário já.
+Se for mordido, lave o local e procure um médico.
+
+SE NAO TIVER
+------------
+Sem termômetro, o encosto da mão só sente calor: não dá número. Sem
+relógio, conte no tempo que der e marque como aproximado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você anotou temperatura, batimentos, respiração, gengiva e face com data
+e hora, e sabe dizer qual valor saiu do esperado.
+
+FONTES
+------
+Manual Veterinário MSD; American Veterinary Medical Association e
+protocolos RECOVER; Cruz Vermelha e tabela de sinais vitais da UC Davis;
+Escala Facial de Dor Felina (WSAVA) e escala UNESP-Botucatu.

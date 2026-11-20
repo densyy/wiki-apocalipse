@@ -1,0 +1,78 @@
+==============================================================================
+CODIGO: 07-038
+TITULO: Como identificar fontes radioativas perigosas
+CATEGORIA: 07 - Guerra, radiação e catástrofes nucleares
+TEMPO: 15 minutos
+RISCO: critico
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: radiacao, fonte radioativa, trevo, orfa, fallout, aviso
+==============================================================================
+
+OBJETIVO
+--------
+Reconheca sinais de fonte radioativa perigosa sem tocar nem abrir.
+
+QUANDO USAR
+-----------
+Quando achar objeto metalico pesado com simbolo de trevo amarelo.
+Quando vir etiqueta com radioativo em sucata, galpao ou caminhao.
+Quando encontrar aparelho medico ou medidor industrial abandonado.
+Quando houver poeira estranha apos explosao ou alerta nuclear.
+Quando alguem perto tiver nausea e queimadura sem causa visivel.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Pare a aproximadamente 10 metros do objeto suspeito.
+2. Observe sem tocar, cheirar, abrir, chutar ou levar o objeto.
+3. Procure o trevo de tres pes pretos sobre fundo amarelo.
+4. Leia etiquetas com palavras como radioativo ou nuclear.
+5. Desconfie de cilindro metalico pesado com parede grossa.
+6. Desconfie de aparelho medico ou medidor industrial largado.
+7. Desconfie de po sem cheiro apos explosao ou alerta oficial.
+8. Afaste pessoas e animais para alem de 30 metros do local.
+9. Marque o ponto com pano ou galho sem voltar ao objeto.
+10. Anote formato, simbolo, local e hora aproximada do achado.
+11. Saia da direcao do vento que vem do objeto suspeito.
+12. Avise a defesa civil ou o corpo de bombeiros pelo telefone.
+13. Diga que pode ser fonte radioativa e passe o endereco exato.
+14. Aguarde isolado sem deixar ninguem se aproximar do local.
+
+ATENCAO
+-------
+Radiacao nao tem cheiro, gosto, cor nem calor que avise.
+Mascara segura poeira no pulmao mas nao bloqueia o raio gama.
+Roupa comum e pano no rosto nao protegem contra o raio gama.
+Fonte pequena e pesada pode matar em minutos se for ao bolso.
+Nunca abra, serre, queime nem derreta objeto com trevo amarelo.
+Taxa de aproximadamente 100 mSv por hora exige abrigo imediato.
+Dose de corpo inteiro acima de aproximadamente 4 Gy pode matar.
+Este texto nao mede radiacao nem trata enjoo de radiacao.
+Procure socorro se houver vomito, queimadura, tontura ou fraqueza.
+
+SE NAO TIVER
+------------
+Sem telefone, mande alguem avisar e vigie o local a distancia.
+Sem pano para marcar, memorize pontos de referencia do local.
+Sem mascara, respire pelo pano e saia da poeira contra o vento.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Voce cita simbolo, etiqueta, peso, local e hora sem ter tocado.
+Ninguem toca, abre ou leva o objeto suspeito para casa.
+A area fica marcada e isolada a cerca de 30 metros.
+
+FONTES
+------
+Guia da AIEA sobre fontes radioativas seladas e fontes orfas.
+Guia de planejamento para detonacao nuclear da FEMA.
+Pagina de emergencia de radiacao do CDC americano.
+Pratica consolidada de sobrevivencia civil em manual militar.

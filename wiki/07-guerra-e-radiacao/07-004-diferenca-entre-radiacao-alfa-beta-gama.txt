@@ -1,0 +1,79 @@
+==============================================================================
+CODIGO: 07-004
+TITULO: Como entender alfa, beta, gama e nêutrons
+CATEGORIA: 07 - Guerra, radiação e catástrofes nucleares
+TEMPO: 20 minutos
+RISCO: alto
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: radiação, alfa, beta, gama, nêutrons, blindagem, proteção
+==============================================================================
+
+OBJETIVO
+--------
+Diferenciar os quatro tipos de radiação e aplicar a proteção certa.
+
+QUANDO USAR
+-----------
+Após alerta de acidente nuclear ou explosão nuclear.
+Ao ler notícia sobre iodo, césio ou poeira radioativa.
+Ao escolher abrigo, máscara e distância da fonte.
+Ao explicar para a família por que cada abrigo protege.
+
+NAO USE QUANDO
+--------------
+Este texto não ensina a medir radiação com aparelho.
+Este texto não substitui ordem de evacuação oficial.
+Para tratar ferido irradiado, veja outro tutorial da pasta.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1 Chame de alfa a partícula pesada com 2 prótons e 2 nêutrons.
+2 Chame de beta o elétron lançado pelo núcleo instável.
+3 Chame de gama a onda sem massa e sem carga elétrica.
+4 Chame de nêutron a partícula sem carga que ativa materiais.
+5 Lembre que alfa para em papel e na pele intacta.
+6 Lembre que beta atravessa papel e para em alumínio fino.
+7 Lembre que gama atravessa o corpo e exige chumbo e concreto.
+8 Lembre que nêutron veloz exige água, terra e concreto grosso.
+9 Aplique tempo curto, distância máxima e blindagem entre você
+e a fonte.
+
+ATENCAO
+-------
+Alfa fora do corpo parece inofensiva, mas inalada causa dano
+grave por dentro.
+Beta queima pele e olhos mesmo sem dor na hora.
+Gama passa por roupa e parede fina e dá falsa proteção.
+Nêutron pode tornar objetos próximos radioativos por ativação.
+Este texto não protege sozinho. Afaste-se e siga ordem oficial.
+Se houver poeira, não coma, não beba e não toque sem proteção.
+
+SE NAO TIVER
+------------
+Se não tiver alumínio, use plástico grosso e roupa contra beta.
+Se não tiver chumbo, use concreto, terra e distância contra gama.
+Se não tiver abrigo pronto, fique no cômodo interno sem janela.
+Pano úmido no rosto reduz poeira, mas não barra gama e nêutron.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você explica sem consulta qual barreira segura cada tipo.
+Você não confunde roupa comum com proteção contra gama.
+Você escolhe distância e abrigo em vez de só máscara.
+
+FONTES
+------
+Orientação do CDC dos Estados Unidos sobre isótopos e segurança;
+Comissão de Regulamentação Nuclear dos Estados Unidos sobre
+tipos e blindagem de radiação;
+Agência de Proteção Ambiental dos Estados Unidos sobre noções
+de radiação;
+Comissão Nacional de Energia Nuclear do Brasil, apostilas sobre
+radioatividade;
+Instituto de Pesquisas Energéticas e Nucleares, noções de
+proteção radiológica.

@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 09-036
+TITULO: Como utilizar coordenadas geográficas
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 20 minutos
+RISCO: medio
+EXIGE: receptor GPS ou celular com GPS, mapa impresso, papel e lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: coordenadas, latitude, longitude, GPS, decimal, UTM, mapa
+==============================================================================
+
+OBJETIVO
+--------
+Leia e anote coordenadas para informar onde você está.
+Use-as para encontrar um ponto no mapa sem internet.
+QUANDO USAR
+-----------
+Quando precisar informar sua posição por rádio ou por escrito.
+Quando precisar chegar a um ponto marcado por outra pessoa.
+Quando for separar o grupo em area sem sinal de celular.
+Quando registrar a localização de água, abrigo ou perigo.
+NAO USE QUANDO
+--------------
+Quando houver risco imediato de vida: garanta abrigo, agua e socorro.
+Quando o unico dado recebido for uma latitude ou longitude solta.
+MATERIAIS
+---------
+- Receptor GPS ou celular com GPS e bateria (mapa impresso).
+- Mapa da região com grade de coordenadas (mapa desenhado à mao).
+- Papel, lápis e, se houver, régua ou palito para medir.
+PROCEDIMENTO
+------------
+1. Abra o GPS ou o mapa do celular e espere o sinal fixar.
+2. Leia a latitude e anote-a primeiro; depois anote a longitude.
+3. Use grau decimal (-22.9068) ou graus, minutos e segundos.
+4. Anote o sinal: menos é sul ou oeste; mais é norte ou leste.
+5. Com letras, use N ou S na latitude e E ou W na longitude.
+6. Confira o ponto no mapa impresso antes de confiar no numero.
+7. Para achar um lugar, digite latitude e longitude nessa ordem.
+8. Para converter -22.9068, multiplique 0.9068 por 60: 54 minutos.
+9. A sobra 0.408 x 60 da aproximadamente 24 segundos sul.
+10. Se usar UTM, anote a zona e os dois valores em metros.
+11. Caminhe ate o ponto e compare com a posição anotada.
+ATENCAO
+-------
+Latitude vem primeiro; trocar a ordem leva ao lado errado do planeta.
+O sinal importa: sem o menos, um ponto do sul vira ponto do norte.
+Um grau de latitude vale aproximadamente 111 km; um minuto, 1,85 km.
+O GPS funciona sem internet; salve os mapas detalhados antes de sair.
+Predios altos, mato e tempo fechado reduzem a precisão do sinal.
+Mesmo com bom sinal, o aparelho erra metros; não arrisque a vida por ele.
+UTM repete numeros entre zonas; informe sempre o numero da zona.
+No Brasil use SIRGAS2000, praticamente identico ao WGS 84 do GPS.
+SE NAO TIVER
+------------
+Sem GPS, meça no mapa impresso até a linha de grade mais proxima.
+Sem mapa, descreva o ponto e peça coordenadas por radio (09-001).
+Sem aparelho, nao invente numeros: marque o lugar e busque um GPS.
+COMO SABER QUE DEU CERTO
+------------------------
+O ponto informado aparece no mapa impresso onde o aparelho indicou.
+Ao digitar as coordenadas de volta, o aparelho aponta para o lugar certo.
+Duas pessoas no mesmo lugar obtêm a mesma latitude e longitude.
+FONTES
+------
+NOAA, National Ocean Service, textos sobre latitude e longitude (2024);
+USGS, FAQ sobre UTM em mapas topograficos e Fact Sheet 142-97 (UTM grid);
+IBGE, sistema SIRGAS2000, oficial desde 2015, equivalente ao WGS 84 do GPS;
+NWCG, manual 6.10 Latitude and Longitude, sobre graus, minutos e segundos.

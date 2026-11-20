@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 09-050
+TITULO: Como organizar uma wiki offline
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 60 minutos
+RISCO: baixo
+EXIGE: computador ou celular, arquivos de texto, papel e lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: wiki, offline, arquivos, pastas, indice, busca, apostila
+==============================================================================
+
+OBJETIVO
+--------
+Monte uma wiki (conjunto de artigos de consulta) em arquivos de texto
+que possam ser lidos sem internet, no celular ou impressos.
+
+QUANDO USAR
+-----------
+Quando a internet vai cair e você quer levar referência segura.
+Quando o grupo precisa de instruções no celular ou no papel.
+Quando não há sinal para consultar um artigo na hora de agir.
+
+NAO USE QUANDO
+--------------
+Quando o texto só abre na nuvem: isso não é wiki offline.
+Quando há só um recado curto: use papel, sem montar uma wiki.
+
+MATERIAIS
+---------
+- Computador ou celular com espaço livre.
+- Pasta fixa no aparelho para guardar os arquivos.
+- Papel e lápis para o índice impresso.
+- Arquivos de texto simples (UTF-8), sem imagem.
+
+PROCEDIMENTO
+------------
+1. Escolha uma pasta única e fixa no aparelho.
+2. Crie uma subpasta numerada por assunto (exemplo: 09-comunicacao).
+3. Nomeie cada arquivo com pasta, sequência e descrição.
+4. Escreva cada artigo em texto simples, sem imagem ou link.
+5. Comece cada artigo com oito campos, na mesma ordem.
+6. Use título que comece com Como e descreva a ação.
+7. Escreva um índice com código, título e pasta de cada artigo.
+8. Ordene o índice por número de pasta e de sequência.
+9. Anote as palavras-chave de cada artigo para busca manual.
+10. Cite outros artigos pelo código, nunca por link.
+11. Copie a pasta para celular, pen drive e papel.
+12. Abra três artigos no celular, sem internet, para testar.
+
+ATENCAO
+-------
+Arquivos na nuvem ou com link não abrem offline: mantenha tudo local.
+Índice desatualizado leva ao artigo errado: revise após cada inclusão.
+Sem fonte confiável, não copie: texto errado é pior que nenhum.
+
+SE NAO TIVER
+------------
+Sem computador, escreva os artigos à mão e numere as páginas.
+Sem impressora, copie o índice à mão e leve os artigos no celular.
+Sem pen drive, use outro celular ou envie os arquivos por Bluetooth.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O celular abre três artigos sem internet, pelo gerenciador de arquivos.
+O índice lista código e título que conferem com cada arquivo.
+
+FONTES
+------
+Prática consolidada: o padrão de formato da própria wiki
+(FORMATO-TUTORIAL) e o guia da pasta 09; sem fonte externa única.

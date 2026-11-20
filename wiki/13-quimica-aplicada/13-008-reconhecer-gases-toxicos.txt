@@ -1,0 +1,91 @@
+==============================================================================
+CODIGO: 13-008
+TITULO: Como reconhecer gases tóxicos
+CATEGORIA: 13 - Química e conhecimentos científicos aplicados
+TEMPO: 15 minutos
+RISCO: alto
+EXIGE: detector de monóxido de carbono, luz e acesso a ar fresco
+REVISAO: 2026-11
+PALAVRAS-CHAVE: gás, monóxido de carbono, ovo podre, esgoto, detector
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer sinais de gases tóxicos e decidir quando sair e pedir ajuda.
+
+QUANDO USAR
+-----------
+Ao entrar em porão, fossa, esgoto, tanque ou lugar sem ventilação.
+Quando houver cheiro forte de esgoto, alvejante, amônia ou peixe podre.
+Quando pessoas ou animais ficam tontos, com dor de cabeça ou náusea.
+Depois de incêndio, queimada ou uso de gerador, fogão ou churrasqueira.
+Ao misturar produtos de limpeza ou sentir ardência nos olhos e na garganta.
+
+NAO USE QUANDO
+--------------
+Não use o olfato como único teste: ele cansa e falha justamente no perigo.
+Não use este texto para entrar em espaço confinado sem equipamento.
+
+MATERIAIS
+---------
+- Detector de monóxido de carbono, se houver.
+- Lanterna ou luz de celular.
+- Pano úmido para cobrir nariz e boca ao sair.
+- Luvas, se houver risco de líquido corrosivo.
+
+PROCEDIMENTO
+------------
+1. Pare no limite do ambiente e não entre se sentir cheiro ou ardência.
+2. Observe o ar de fora e a reação de quem já está no local.
+3. Não aproxime o nariz da fonte: cheire apenas o ar ao redor.
+4. Reconheça cheiro de ovo podre: pode ser sulfeto de hidrogênio.
+5. Reconheça cheiro de alvejante: pode ser cloro de mistura de produtos.
+6. Reconheça cheiro de peixe podre ou urina forte: pode ser amônia.
+7. Mesmo sem cheiro, desconfie de fumaça, motor ligado ou braseiro.
+8. Monóxido de carbono não tem cheiro, cor nem irritação: use o detector.
+9. Ouça o alarme do detector e saia se ele soar.
+10. Observe as pessoas: dor de cabeça, tontura, náusea e confusão.
+11. Observe animais pequenos: adoecem e caem antes das pessoas.
+12. Se várias pessoas adoecem juntas, saia sem esperar confirmação.
+13. Note ardência nos olhos, tosse ou lacrimejamento: gás irritante.
+14. Abra portas e janelas de fora, sem entrar, se puder.
+15. Saia para ar fresco e leve as outras pessoas com você.
+16. Não acenda chama, fósforo nem interruptor se houver cheiro de gás.
+17. Não entre para socorrer alguém sem ar respirável e proteção.
+18. Chame os bombeiros e informe o cheiro, o local e o número de afetados.
+
+ATENCAO
+-------
+O olfato falha: o sulfeto de hidrogênio cansa o nariz em poucos minutos.
+O monóxido de carbono não avisa: pode matar enquanto a pessoa dorme.
+Um cheiro que desaparece não prova que o gás acabou.
+Nunca misture alvejante com amônia ou ácido: libera gás cloro.
+Gás mais pesado que o ar se acumula em porões, fossas e lugares baixos.
+Gás irritante pode atrasar problema pulmonar por horas após a exposição.
+Pano úmido ou lenço não filtra gás: não dão sensação de segurança real.
+Se alguém desmaiou, não entre: quem socorre também pode morrer.
+Com vários sintomas iguais no mesmo lugar, trate como emergência.
+
+SE NAO TIVER
+------------
+Sem detector, use o sinal das pessoas: vários sintomas iguais no local.
+Sem detector, observe aves e animais pequenos: caem antes das pessoas.
+Sem lanterna, use a luz do celular, sem acender chamas ou interruptores.
+Sem pano, cubra nariz e boca com a manga e saia depressa.
+Sem medidor, presuma risco e evacue: excesso de cuidado aqui é seguro.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As pessoas estão acordadas, respirando fundo e sem dor de cabeça nova.
+Ninguém mais tosse, lacrimeja ou reclama de ardência nos olhos.
+O alarme do detector parou depois que o ambiente foi ventilado.
+Você está em ar fresco e os sintomas melhoraram em minutos.
+A fonte foi desligada e o local ficou aberto e ventilado.
+
+FONTES
+------
+Ministério da Saúde, Nota Técnica 3/2025 sobre intoxicação por fumaça.
+Centers for Disease Control and Prevention, folhas sobre amônia e cloro.
+NIOSH, Guia de Bolso de Riscos Químicos: monóxido de carbono e sulfeto.
+ATSDR, ToxFAQs de sulfeto de hidrogênio.
+Prática consolidada de segurança: nunca misturar produtos de limpeza.

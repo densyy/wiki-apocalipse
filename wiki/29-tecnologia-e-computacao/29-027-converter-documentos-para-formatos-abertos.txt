@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 29-027
+TITULO: Como converter documentos para formatos abertos
+CATEGORIA: 29 - Tecnologia, computação e informática offline
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: computador com programa de escritório offline, documentos digitais
+REVISAO: 2026-11
+PALAVRAS-CHAVE: documento, formato aberto, odt, pdf, txt, converter, salvar
+==============================================================================
+
+OBJETIVO
+--------
+Converter documentos para formatos abertos que abrem sem programa
+proprietário e resistem ao tempo.
+
+QUANDO USAR
+-----------
+Quando um documento importante depende de um programa pago para abrir.
+Quando o arquivo precisa ser lido daqui a anos, sem internet.
+Quando o acervo precisa de uma cópia editável e outra de arquivo.
+
+NAO USE QUANDO
+--------------
+Quando o documento exige assinatura digital ou controle de versão ativo.
+Quando o original é a única cópia e não há onde conferir o resultado.
+
+MATERIAIS
+---------
+- Computador com LibreOffice instalado a partir de mídia local.
+- Documentos originais em qualquer formato.
+- Mídia externa para a segunda cópia: pendrive ou disco.
+
+PROCEDIMENTO
+------------
+1. Abra o documento original e confira texto, imagens e tabelas na tela.
+2. Escolha Arquivo > Salvar como e selecione ODF Text Document (.odt).
+3. Para planilha use .ods; para apresentação use .odp.
+4. Digite nome curto, sem acentos e sem espaços, na pasta de destino.
+5. Confirme a opção de manter o formato ODF quando perguntado.
+6. Escolha Arquivo > Exportar como PDF; marque PDF/A e salve.
+7. Abra o .odt e o PDF gerados e confira o conteúdo novamente.
+8. Copie original e convertidos para a mídia externa separada.
+
+ATENCAO
+-------
+A conversão pode perder negrito, imagens, tabelas e hiperlinks.
+Nao apague o original antes de abrir e conferir a cópia convertida.
+PDF/A serve para arquivar: não edite essa cópia; edite o .odt.
+Fonte não embutida pode gerar PDF/A com letras trocadas ou inválido.
+Documentos com senha ou criptografia podem não converter corretamente.
+
+SE NAO TIVER
+------------
+Sem LibreOffice, use o Apache OpenOffice, que também salva em ODF.
+Sem programa de escritório, salve como texto simples em UTF-8.
+Sem opção PDF/A, exporte PDF comum e mantenha também o .odt editável.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O .odt abre e mostra o mesmo texto e as mesmas imagens do original.
+As propriedades do PDF indicam conformidade PDF/A.
+A cópia na mídia externa tem os mesmos arquivos da pasta de destino.
+
+FONTES
+------
+Documentação do LibreOffice: salvar em ODF e exportar em PDF/A.
+Especificação OpenDocument, ISO/IEC 26300 da OASIS: padrão aberto.
+ISO 19005 (PDF/A) e o guia PDF/A in a Nutshell, da PDF Association.
+Prática consolidada de preservação digital em formatos abertos.

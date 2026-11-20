@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 39-010
+TITULO: Como construir uma câmera pinhole
+CATEGORIA: 39 - Óptica e instrumentos científicos
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: caixa opaca, agulha fina, alumínio, papel fotográfico, fita preta
+REVISAO: 2026-11
+PALAVRAS-CHAVE: pinhole, buraco de agulha, câmera escura, furo, foto
+==============================================================================
+
+OBJETIVO
+---------
+Construir uma câmera sem lente que registra uma imagem em papel ou filme.
+
+QUANDO USAR
+-----------
+Quando faltar lente ou objetiva para fotografar.
+Quando quiser nitidez parecida do primeiro plano ao fundo.
+
+NAO USE QUANDO
+--------------
+Sem papel fotográfico ou filme, e sem como revelá-los; cenas rápidas borram.
+
+MATERIAIS
+---------
+- Caixa opaca que feche por completo (lata de aveia, caixa de papelão).
+- Papel preto ou tinta preta para forrar o interior.
+- Folha fina de alumínio de aproximadamente 3 cm (papel-alumínio).
+- Agulha de costura fina (nº 10) e lixa d'água.
+- Fita preta, papel fotográfico ou filme e superfície firme.
+
+PROCEDIMENTO
+------------
+1. Forre o interior da caixa com papel preto ou tinta preta.
+2. Apoie a folha de alumínio sobre papelão firme.
+3. Aperte a agulha no centro e gire até furar o metal.
+4. Lixe as rebarbas do lado de trás com movimentos circulares.
+5. Repita o giro e a lixada até o furo ficar limpo e redondo.
+6. Fixe a folha no centro de uma face só com fita preta nas bordas.
+7. Cubra o furo com fita preta: essa fita é o obturador.
+8. No escuro, prenda o papel fotográfico na face oposta, voltado ao furo.
+9. Feche a caixa e leve até a cena com a fita ainda posta.
+10. Apoie a câmera em superfície firme e aponte para a cena iluminada.
+11. Destampte sem mover a câmera e conte aproximadamente 1 minuto.
+12. Recole a fita para fechar a exposição.
+13. Abra no escuro, retire o material e guarde para revelar (veja 39-012).
+
+ATENCAO
+-------
+A câmera só funciona se não entrar luz além do furo.
+A agulha e as bordas do metal cortam; lixe as rebarbas antes de manusear.
+Papel e filme estragam com luz: carregue e abra no escuro total.
+O tempo de exposição muda com a luz e o material; teste antes de usar.
+A revelação exige químicos; este texto apenas ensina a construir.
+
+SE NAO TIVER
+------------
+Sem papel fotográfico, use papel translúcido para ver a imagem ao vivo.
+Sem lupa, examine o furo contra a luz: deve ser um ponto limpo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Com papel translúcido no fundo, a cena aparece invertida e nítida.
+A imagem desaparece ao cobrir o furo e reaparece ao destampar.
+
+FONTES
+------
+Jornal da Universidade Federal de Goiás, "Câmera pinhole", 2011.
+FAQ do Dia Mundial da Fotografia Pinhole (WPPD): prática consolidada.

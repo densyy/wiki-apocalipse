@@ -1,0 +1,85 @@
+==============================================================================
+CODIGO: 76-018
+TITULO: Como construir cisternas adaptadas ao semiárido
+CATEGORIA: 76 - Conhecimento dos biomas brasileiros
+TEMPO: 180 minutos
+RISCO: alto
+EXIGE: terreno firme, material de construção, mão de obra, água
+REVISAO: 2026-11
+PALAVRAS-CHAVE: cisterna, semiárido, água da chuva, concreto, filtro
+==============================================================================
+
+OBJETIVO
+---------
+Construir uma cisterna segura para captar e guardar água da chuva
+no semiárido.
+
+QUANDO USAR
+-----------
+Quando a casa não tem fonte de água próxima e confiável.
+Antes da estação das chuvas, para aproveitar o primeiro volume.
+Ao ampliar a reserva existente para passar o verão.
+Quando a comunidade precisa de água para pessoas e animais.
+
+NAO USE QUANDO
+--------------
+Não construa em terreno instável, alagadiço ou muito próximo a fossa.
+Não comece obra sem definir como a água será limpa.
+Não use material de construção de origem desconhecida.
+Não faça a obra sozinho se o projeto exigir mais de uma pessoa.
+
+MATERIAIS
+---------
+- Cimento, areia limpa e pedra ou brita (argamassa pronta).
+- Tijolos ou blocos (pedra empilhada com argamassa).
+- Forma de madeira ou tanque pronto de plástico reforçado.
+- Tela fina, pano limpo, carvão e areia para filtragem.
+- Calhas e tubos de PVC para levar água do telhado (taquara oca).
+- pá, enxada, nível de mangueira e balde (régua e corda).
+- Tampa resistente e cadeado ou trava para proteger a abertura.
+
+PROCEDIMENTO
+------------
+1. Escolha local firme, alto e distante de fossa, curral e lixo.
+2. Confirme o espaço necessário e marque o contorno com corda.
+3. Cave o terreno até atingir solo firme e sem pedras soltas.
+4. Nivele o fundo e compacte bem a terra com um pau pesado.
+5. Assente uma base de pedra e argamassa nivelada.
+6. Levante as paredes com tijolo ou bloco, uma camada por vez.
+7. Rebocar por dentro e por fora para vedar fissuras e vazamentos.
+8. Instale a entrada de água com tela para folhas e insetos.
+9. Monte o filtro na entrada: pano, carvão e areia em camadas.
+10. Instale a torneira ou a tampa de retirada acima do fundo.
+11. Feche com tampa firme para evitar sujeira, mosca e queda.
+12. Espere a cura do cimento antes de encher completamente.
+13. Encha com água limpa, observe vazamentos e corrija fissuras.
+
+ATENCAO
+-------
+Cisterna mal vedada contamina a água e vira criadouro de mosquito.
+Parede sem reforço pode ceder e causar acidente grave.
+Nunca entre em cisterna sem ventilação e sem alguém vigiando.
+Água de telhado pode conter fezes de aves: sempre filtre e ferver.
+Fossa ou curral muito perto contamina a água armazenada.
+A tampa evita afogamento de crianças e animais: mantenha-a presa.
+
+SE NAO TIVER
+------------
+Sem cimento, use tanque de plástico reforçado enterrado ou apoiado.
+Sem tijolo, use pedra empilhada com argamassa de cal e areia.
+Sem tela, use pano limpo preso na entrada da calha.
+Sem carvão, use areia limpa e ferva sempre a água retirada.
+Sem calha, direcione a água do telhado com taquara aberta.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A cisterna enche com a chuva e não apresenta vazamento.
+A água retirada ficou clara, sem cheiro e sem folhas.
+A tampa fecha bem e impede entrada de sujeira e animais.
+A reserva durou o período seco sem acabar antes da próxima chuva.
+
+FONTES
+------
+Prática consolidada de construção de cisternas no semiárido e
+saberes de tecnologia social rural, com orientações gerais de
+órgãos de saneamento e extensão rural sobre captação de água da chuva.

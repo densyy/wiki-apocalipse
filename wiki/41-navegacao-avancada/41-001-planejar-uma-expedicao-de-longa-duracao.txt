@@ -1,0 +1,88 @@
+==============================================================================
+CODIGO: 41-001
+TITULO: Como planejar uma expedição de longa duração
+CATEGORIA: 41 - Navegação avançada e técnicas de expedição
+TEMPO: 120 minutos
+RISCO: alto
+EXIGE: mapa da região, caderno, lápis, dados de clima e água
+REVISAO: 2026-11
+PALAVRAS-CHAVE: expedição, rota, mapa, suprimentos, água, viagem longa
+==============================================================================
+
+OBJETIVO
+--------
+Montar um plano escrito e executável para uma expedição de vários dias.
+
+QUANDO USAR
+-----------
+Quando a expedição durar mais de um dia e sair de área conhecida.
+Quando o terreno não tem sinalização nem pontos de apoio.
+Quando houver risco de chuva, frio, calor extremo ou falta de água.
+Quando a rota depender de permissão, horário ou condição sazonal.
+Quando o grupo for carregar todo o suprimento nas costas.
+
+NAO USE QUANDO
+--------------
+Quando a pessoa não tem noções de navegação nem companhia experiente.
+Quando o destino estiver sob alerta de desastre, conflito ou bloqueio.
+Quando faltar informação mínima sobre água, clima e pontos de apoio.
+
+MATERIAIS
+---------
+- Mapa impresso com escala e norte (ou croqui desenhado).
+- Bússola (ou aparelho com mapa offline e bateria reserva).
+- Caderno e lápis.
+- Lista de suprimentos e de pesos.
+- Dados de clima, chuva e fontes de água da região.
+- Contato de uma pessoa fora da expedição.
+- Roupas e calçados adequados ao clima previsto.
+
+PROCEDIMENTO
+------------
+1. Defina por escrito a meta, o destino e a data de partida e retorno.
+2. Escolha a rota mais curta com água e abrigo acessíveis no mapa.
+3. Marque no mapa os pontos de água, abrigo, apoio e saída de emergência.
+4. Calcule a distância total e divida a rota em etapas diárias curtas.
+5. Anote o tempo de marcha de cada etapa e o horário limite de partida.
+6. Reserve uma margem de dias para atraso, mau tempo ou lesão.
+7. Liste água, comida, abrigo, fogo, luz, primeiros socorros e sinalização.
+8. Calcule a quantidade de água por pessoa e por dia, e some a reserva.
+9. Distribua o peso entre os integrantes e teste a mochila antes de sair.
+10. Escolha quem leva mapa, bússola e a lista de contatos.
+11. Deixe o plano escrito com uma pessoa de confiança fora do grupo.
+12. Combine horário de checagem, ponto de encontro e sinal de socorro.
+13. Verifique clima, avisos e regras de acesso no dia anterior.
+14. Decida a regra de retorno: uma checagem perdida dispara o socorro.
+15. Faça uma caminhada curta de teste com todo o equipamento.
+
+ATENCAO
+-------
+Um plano otimista é a causa mais comum de emergência em expedição longa.
+Superestime o tempo de marcha e subestime o peso da mochila.
+Sem água suficiente, a decisão de seguir pode matar em poucos dias.
+Frio e umidade matam mesmo em clima tropical; leve abrigo e camada seca.
+Nunca confie só no celular: bateria, sinal e tela falham.
+Se quem leva o mapa se perder, o grupo inteiro se perde.
+Com mau tempo, lesão ou água duvidosa, pare e volte; não negocie o limite.
+Este plano não substitui treinamento, vacinação nem orientação local.
+
+SE NAO TIVER
+------------
+Sem mapa impresso, desenhe um croqui com estradas, rios e pontos de água.
+Sem dados de clima, pergunte a quem vive na região e registre a resposta.
+Sem bússola, combine pontos de referência visíveis e caminhe em grupo.
+Sem aparelho de chamada, defina ponto de encontro e hora certa de retorno.
+Se faltar água prevista, encurte a expedição ou mude a rota.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O plano traz rota, etapas diárias, água, limites de horário e contato.
+A pessoa fora do grupo consegue localizar a rota e acionar o socorro.
+A mochila foi testada e o peso foi aceito por todos os integrantes.
+
+FONTES
+------
+Prática consolidada de planejamento de expedições, resumida aqui sem
+documento único. Referências consultadas: manual de sobrevivência civil
+FM 21-76 (capítulos de planejamento e de kits) e orientações de
+planejamento de emergência da FEMA (plano, rotas, comunicação e kit).

@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 02-072
+TITULO: Como preparar plantas silvestres para consumo seguro
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 60 minutos
+RISCO: critico
+EXIGE: dois guias regionais, água limpa, panela, fogo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: planta silvestre, identificação, cozimento, veneno, cigueta
+==============================================================================
+
+OBJETIVO
+--------
+Reduzir o risco de intoxicação ao colher, lavar e cozinhar plantas.
+
+QUANDO USAR
+-----------
+Quando faltar alimento e houver plantas silvestres conhecidas pelo nome.
+Quando a identificação foi confirmada por mais de uma fonte confiável.
+Quando a espécie tem parte comestível e forma de preparo documentadas.
+Antes de comer qualquer planta colhida na natureza.
+
+NAO USE QUANDO
+--------------
+Não use se a espécie não foi identificada com certeza absoluta.
+Não use se a fonte não nomeia a espécie e a parte comestível.
+Não use em plantas murchas, danificadas, com bolor ou cheiro estranho.
+Não use onde houve agrotóxico, esgoto, óleo, fumaça ou enchente.
+Não use para cogumelos: este procedimento não serve para fungos.
+
+MATERIAIS
+---------
+- Dois guias de campo da região, impressos ou salvos offline.
+- Água limpa para lavar e para cozinhar.
+- Pano limpo ou peneira.
+- Panela e fonte de calor.
+- Recipiente limpo para guardar uma amostra da planta.
+
+PROCEDIMENTO
+------------
+1. Observe a planta viva, inteira, com folhas, caule, flor e raiz.
+2. Confira a espécie em dois guias regionais, sem usar aplicativo.
+3. Peça confirmação a quem conheça a flora local, se houver alguém.
+4. Compare com as espécies venenosas parecidas antes de colher.
+5. Descarte o exemplar se restar qualquer dúvida sobre a espécie.
+6. Colha apenas a parte que as fontes dizem ser comestível.
+7. Colha em local limpo, longe de estrada, indústria e plantação tratada.
+8. Separe a parte comestível e retire folhas manchadas ou podres.
+9. Lave a parte comestível em água corrente limpa, esfregando bem.
+10. Troque a água se ela ficar turva e lave de novo.
+11. Coloque a parte limpa na panela com água limpa.
+12. Leve ao fogo e cozinhe até ficar bem quente e cozida, sem parte crua.
+13. Prove uma pequena quantidade da porção cozida e espere.
+14. Guarde uma amostra crua da planta, separada da comida.
+15. Pare de comer se o sabor for amargo, ardente ou diferente do esperado.
+
+ATENCAO
+-------
+Cozinhar, lavar, secar ou descascar não retira todas as toxinas.
+Algumas toxinas só causam sintomas horas depois, até cerca de 48 horas.
+O teste na pele, no lábio ou na língua não detecta muitos venenos.
+Cigueta tem caule com manchas arroxeadas e cheiro mofado; pode matar.
+Não confunda cenoura-silvestre com cigueta: pode parar a respiração.
+Não confunda aipo-silvestre com cicuta-aquática: esta é letal.
+Não confunda angélica com aconito: já houve morte por essa troca.
+Se houver formigamento, tremor, vômito, tontura ou falta de ar, pare.
+Procure ajuda médica na hora e leve a amostra guardada com você.
+
+SE NAO TIVER
+------------
+Sem dois guias, não coma a planta: a dúvida é motivo para descartar.
+Sem panela ou fogo, coma só a parte que as fontes dizem poder ser crua.
+Sem água limpa, não lave nem cozinhe: escolha outro alimento.
+Sem especialista por perto, coma menos e observe por mais tempo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A planta aparece com o mesmo nome e descrição nos dois guias consultados.
+A parte cozida não tem cheiro estranho nem sabor amargo ou ardente.
+Não aparece coceira, vermelhidão, náusea ou tontura depois de comer.
+A amostra guardada permite identificar a espécie se alguém adoecer.
+
+FONTES
+------
+Organização Pan-Americana da Saúde e OMS: alerta de 17 de novembro de 2026
+sobre coleta de cogumelos; não confiar em cor, cheiro ou forma e avisar que
+o cozimento não elimina todas as toxinas.
+CDC: Yellow Book 2026, capítulo de intoxicações, e boletim toxicológico;
+a identificação incorreta é o principal risco na coleta de plantas.
+CIATOX/SC, centro toxicológico de Santa Catarina: não existe
+teste seguro para distinguir planta comestível de tóxica; e o cozimento
+nem sempre elimina a toxicidade da planta.
+GOV.UK: orientações de coleta segura, 27 de janeiro de 2023; lavar bem,
+cozinhar até ficar bem quente, evitar áreas contaminadas e guardar amostra.
+Anses, agência francesa de segurança alimentar: confusão entre plantas
+comestíveis e tóxicas pode ser fatal; na dúvida, não consumir.

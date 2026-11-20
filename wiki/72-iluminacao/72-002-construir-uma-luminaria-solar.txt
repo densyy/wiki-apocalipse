@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 72-002
+TITULO: Como construir uma luminária solar
+CATEGORIA: 72 - Sistemas de iluminação e óptica aplicada
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: painel solar, bateria recarregável, LED, controlador de carga, fio
+REVISAO: 2026-11
+PALAVRAS-CHAVE: luz, lanterna, solar, painel, bateria, led, recarregar
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma luminária que carrega com o sol e acende à noite.
+
+QUANDO USAR
+-----------
+Quando não há rede elétrica no local.
+Para ler ou circular à noite sem vela, querosene ou fogo.
+Em acampamento, abrigo ou casa sem energia.
+
+NAO USE QUANDO
+--------------
+Não use se a bateria estiver inchada, quente ou com vazamento.
+Não monte nem carregue perto de gás, combustível ou chama aberta.
+Sem sol por vários dias, a luz acaba: tenha outra fonte de luz.
+
+MATERIAIS
+---------
+- Painel solar fotovoltaico (luz em energia) de cerca de 6 V.
+- Bateria recarregável 3,7 V (lítio) ou 2 NiMH de 1,2 V.
+- Controlador de carga (evita excesso de carga na bateria).
+- LED branco (diodo emissor de luz) com resistor limitador de corrente.
+- Interruptor, fios de cobre, fita isolante e caixa plástica com tampa.
+
+PROCEDIMENTO
+------------
+1. Reúna painel, bateria, controlador, LED, resistor, interruptor e caixa.
+2. Identifique os polos: vermelho é positivo (+), preto é negativo (-).
+3. Ligue a bateria ao controlador primeiro, nos polos certos.
+4. Ligue o painel ao controlador depois, nos polos certos.
+5. Ligue o resistor ao fio positivo do LED.
+6. Ligue a perna longa do LED ao positivo e a curta ao negativo.
+7. Ligue o LED com resistor na saída de luz do controlador.
+8. Coloque o interruptor no fio entre a bateria e o LED.
+9. Feche tudo na caixa e vede as emendas com fita isolante.
+10. Deixe o painel voltado ao sol, sem sombra, por um dia.
+
+ATENCAO
+-------
+Ligue a bateria antes do painel: a ordem errada queima o controlador.
+Nunca ligue o painel direto na bateria: pode haver curto e incêndio.
+Baterias de lítio inchadas ou quentes podem pegar fogo: pare e afaste.
+Sem sol por dias a luz acaba: mantenha vela ou pilha como reserva.
+
+SE NAO TIVER
+------------
+Sem controlador, use diodo e resistor só com NiMH; com lítio, pare.
+Sem caixa plástica, use recipiente rígido e seco; nunca use metal nu.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O LED acende à noite ao acionar o interruptor, sem piscar.
+Após um dia de sol a luz dura horas e a bateria não esquenta.
+
+FONTES
+------
+Prática consolidada de iluminação solar: painel, bateria, controlador e LED.
+Componentes vistos em enciclopédia aberta, só como pista; sem manual único.

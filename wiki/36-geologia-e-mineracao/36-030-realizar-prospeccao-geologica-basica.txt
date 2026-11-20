@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 36-030
+TITULO: Como realizar prospecção geológica básica
+CATEGORIA: 36 - Geologia, mineração e recursos naturais
+TEMPO: 3 horas
+RISCO: medio
+EXIGE: bota firme, bastão, pá pequena, bandeja, caderno, lupa, luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: prospecção, geologia, rocha, pedra, minério, bateia
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer rochas e indícios minerais e coletar amostras com segurança.
+
+QUANDO USAR
+-----------
+Quando precisar localizar argila, cascalho ou material de construção.
+Quando suspeitar de minério em rocha nua ou no leito de um córrego.
+
+NAO USE QUANDO
+--------------
+Em talude instável, mina abandonada ou área com deslizamento ativo.
+
+MATERIAIS
+---------
+- Bota firme e luvas (substituto: pano grosso nas mãos).
+- Bastão e pá pequena (substituto: colher de pedreiro).
+- Bandeja rasa de plástico (substituto: prato fundo).
+- Caderno, lápis, lupa e pano (substituto: carvão e luz do sol).
+
+PROCEDIMENTO
+------------
+1. Anote data, ponto de partida e área a percorrer no caderno.
+2. Observe de longe encostas, vales, cursos d'água e rocha nua.
+3. Caminhe em zigue-zague olhando o solo e os fragmentos soltos.
+4. Identifique a rocha pela cor e brilho; teste a dureza com unha e faca.
+5. Se a faca não riscar, a rocha é dura; anote essa informação.
+6. Procure afloramento, a rocha nua na superfície, e anote a posição.
+7. Retire um fragmento do tamanho de uma noz de cada ponto.
+8. Limpe a amostra, embrulhe em pano e anote número, local e hora.
+9. No córrego, pegue sedimento atrás de pedras e em depressões.
+10. Molhe na bandeja e gire em círculos até a areia clara subir.
+11. Observe os grãos escuros no fundo: minerais pesados, como magnetita.
+12. Repita em três pontos, compare e guarde as amostras etiquetadas.
+
+ATENCAO
+-------
+Não suba em talude íngreme ou molhado: escorregão é o acidente mais comum.
+Não golpeie rocha sem proteger os olhos: estilhaços ferem.
+Nunca use mercúrio, cianeto ou ácido: venenos que matam ou deixam sequela.
+Não entre em mina ou galeria abandonada: pode faltar oxigênio e haver gás.
+O procedimento mostra só indícios: não confirma minério nem valor econômico.
+Pare se o solo rachar ou a água turvar; não invada garimpo sem permissão.
+
+SE NAO TIVER
+------------
+Sem bandeja, use um prato fundo: molhe e gire até os grãos pesados descerem.
+Sem lupa, aproxime a amostra da luz do sol e teste com a unha e a faca.
+Se não souber identificar o material, não o use: registre a dúvida e siga.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ao terminar, você tem amostras etiquetadas com local, data e hora.
+Na bandeja, os grãos escuros ficam no fundo após a giragem da água.
+
+FONTES
+------
+Prática consolidada de mapeamento geológico e concentração de sedimentos.
+Referências: SGB/CPRM e USGS, publicação "Gold" (Kirkemo, Newman, Ashley).

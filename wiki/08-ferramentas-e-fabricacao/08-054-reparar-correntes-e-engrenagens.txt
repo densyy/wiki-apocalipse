@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 08-054
+TITULO: Como reparar correntes e engrenagens
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: corrente limpa, alicate de corrente, elo de emenda, óculos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: corrente, engrenagem, roda dentada, emenda, desgaste
+==============================================================================
+
+OBJETIVO
+--------
+Recuperar a corrente e trocar a roda dentada, engrenagem que guia os elos.
+
+QUANDO USAR
+-----------
+Quando a corrente de bicicleta, moto ou máquina manual quebrou ou travou.
+Quando a corrente sobe nos dentes, faz ruído ou a transmissão patina.
+Quando a roda dentada tem dentes afiados ou desgaste de um lado só.
+
+NAO USE QUANDO
+--------------
+Com máquina ligada, corrente sob tensão ou energia não isolada.
+Com dente quebrado ou roda rachada: troque a peça, não tente recuperar.
+
+MATERIAIS
+---------
+- Alicate de corrente ou extrator de pinos.
+- Elo de emenda (elo mestre) ou pino compatível; roda nova se gasta.
+- Pano, solvente, óleo lubrificante, régua reta, óculos de proteção.
+
+PROCEDIMENTO
+------------
+1. Desligue a máquina, isole a energia, solte a tensão e imobilize a roda.
+2. Apoie a corrente para não cair e retire terra e graxa velha com pano.
+3. Gire e ache o elo danificado: placa rachada, pino torto ou travado.
+4. Puxe a corrente: se sobe nos dentes, troque a corrente inteira.
+5. Retire o pino do elo danificado com o alicate de corrente.
+6. Retire o elo danificado; una ponta interna à placa externa da outra.
+7. Instale o elo de emenda na direção da seta de movimento, se houver.
+8. Feche o clipe com a parte fechada virada ao sentido de rotação.
+9. Sem elo de emenda, reaproveite o pino original: conserto temporário.
+10. Roda com dente em gancho ou desgaste lateral: troque-a.
+11. Alinhe as rodas com régua nas duas faces; eixos paralelos e nivelados.
+12. Ajuste a folga na parte frouxa: cerca de 4% da distância entre eixos.
+13. Lubrifique, gire algumas voltas e reinstale a proteção antes de testar.
+
+ATENCAO
+-------
+Corrente tensionada chicoteia e prende dedos: desligue antes de agir.
+O pino reaproveitado perde resistência: serve só para chegar até peça nova.
+Corrente alongada e dente em gancho não se consertam: troque o par.
+Desgaste lateral é desalinhamento; em eixo vertical, folga de cerca de 2%.
+
+SE NAO TIVER
+------------
+Sem alicate, retire o pino com punção e apoio firme, a golpes leves.
+Sem roda nova, use outra igual e confira número de dentes e passo.
+Sem óleo, unte com graxa derretida e retire o excesso com pano.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A corrente gira sem travar, sem ruído metálico e não sobe nos dentes.
+A emenda fica alinhada às placas vizinhas e a folga é a do passo 12.
+
+FONTES
+------
+Manuais técnicos de fabricantes de corrente: Tsubaki, Renold, Diamond Chain;
+guia de reparo da Park Tool; prática consolidada de manutenção.

@@ -1,0 +1,67 @@
+==============================================================================
+CODIGO: 08-007
+TITULO: Como fabricar uma serra manual
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: tira de aço, lima triangular, pedra de amolar, proteção ocular, luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: serra, dente, lima, aço, serrar, madeira, cortar, improvisar
+==============================================================================
+
+OBJETIVO
+--------
+Fabricar uma serra manual com dentes cortantes a partir de uma tira de aço.
+
+QUANDO USAR
+-----------
+Quando não há serra e é preciso cortar madeira.
+Quando se tem uma lâmina velha ou fita de aço e uma lima.
+
+NAO USE QUANDO
+--------------
+Quando o aço for duro demais para a lima e não houver como amolecê-lo.
+
+MATERIAIS
+---------
+- Tira de aço fina, aproximadamente 1 mm (lâmina velha ou fita de aço).
+- Lima triangular pequena, chamada lima de serra.
+- Pedra de amolar áspera com água.
+- Punção, prego ou chave de fenda para dobrar os dentes.
+- Pedaço de madeira dura para o cabo e corda ou arame.
+- Protetor ocular e luvas de pano grosso.
+
+PROCEDIMENTO
+------------
+1. Corte a tira com aproximadamente 40 a 60 cm de comprimento.
+2. Deixe aproximadamente 2 a 3 cm de largura na tira.
+3. Retire as rebarbas das bordas com a pedra de amolar.
+4. Prenda a tira firme entre duas tábuas, com uma borda livre.
+5. Marque um dente a cada aproximadamente 3 a 5 mm na borda livre.
+6. Limade cada marca com a lima triangular até formar uma vala funda.
+7. Mantenha todas as valas com a mesma profundidade e o mesmo tamanho.
+8. Dobre a ponta de um dente para a esquerda e a do próximo para a direita.
+9. Dobre apenas a ponta, nunca a base, para o dente não quebrar.
+10. Prenda a lâmina ao cabo de madeira com corda ou arame nas duas pontas.
+
+ATENCAO
+-------
+Dentes sem dobra lateral prendem a lâmina e a serra trava no corte.
+Lascas de aço voam ao limar: mantenha os olhos protegidos sempre.
+Dobra excessiva quebra os dentes; dobre pouco e aumente só se travar.
+Lâmina fina sem tensão entorta e deixa o corte torto; pare se rachar.
+
+SE NAO TIVER
+------------
+Sem lima, desgaste a borda na pedra até abrir valas rasas e irregulares.
+A serra ficará lenta, mas cortará madeira mole.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os dentes ficam alinhados e virados para lados alternados.
+A lâmina avança sem travar e deixa um corte mais largo que o corpo.
+
+FONTES
+------
+FM 21-76, manual de sobrevivência do Exército dos EUA, cap. 12.
+Crosscut Saw Manual, USDA (Miller, 1977, rev. 2003); prática consolidada.

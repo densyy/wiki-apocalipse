@@ -1,0 +1,92 @@
+============================================================================
+CODIGO: 79-014
+TITULO: Como projetar ventilação para abrigos subterrâneos
+CATEGORIA: 79 - Sobrevivência subterrânea
+TEMPO: 240 minutos
+RISCO: alto
+EXIGE: dutos, tela, grade, fita, companhia, lanterna
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ventilação, duto, ar fresco, gases, condensação, abrigo
+============================================================================
+
+OBJETIVO
+--------
+Dimensionar e instalar entradas e saídas de ar que renovem o ambiente
+de um abrigo enterrado sem trazer umidade, gases ou fogo para dentro.
+
+QUANDO USAR
+-----------
+Ao construir um abrigo enterrado ou uma adega nova.
+Quando o ar fica abafado e respirar exige esforço.
+Ao notar vapor nas paredes ou cheiro de terra molhada.
+Depois de usar fogo ou lampião dentro do abrigo.
+Quando o abrigo ficar fechado por muitas horas.
+
+NAO USE QUANDO
+--------------
+Não abra duto voltado para curral, fossa ou depósito de lixo.
+Não instale entrada de ar junto a chaminé ou fogueira.
+Não dependa de um único duto para entrar e sair ar.
+Não obstrua a saída com móveis, caixas ou terra.
+
+MATERIAIS
+---------
+- Tubos ou dutos de plástico, metal ou bambu oco.
+- Tela fina e grade para proteger as bocas dos dutos.
+- Fita adesiva, cal ou barro para vedar emendas.
+- Pedaço de pano leve para testar a corrente de ar.
+- Corda e fita para sinalizar a entrada do abrigo.
+- Companhia para ajudar a posicionar os dutos.
+
+PROCEDIMENTO
+------------
+1. Desenhe o abrigo no caderno, com portas e paredes.
+2. Marque o ponto mais baixo e o ponto mais alto do interior.
+3. Escolha a entrada de ar no lado mais baixo e protegido.
+4. Escolha a saída de ar no ponto mais alto, longe da entrada.
+5. Prefira dutos largos, sem estreitamentos ou curvas fechadas.
+6. Use dois dutos separados: um entra, outro sai.
+7. Incline o duto de entrada para baixo, fora do abrigo.
+8. Incline o duto de saída para cima, evitando água da chuva.
+9. Cubra as duas bocas com tela e grade presas com firmeza.
+10. Vede as emendas dos dutos com fita, cal ou barro.
+11. Deixe a boca de entrada longe de esterco, lixo e fogo.
+12. Coloque o duto de saída acima da altura das pessoas.
+13. Acenda um fio de fumaça ou pendure o pano na entrada.
+14. Confira se o pano inclina para dentro no duto de entrada.
+15. Confira se o ar sai pela boca alta, sem voltar.
+16. Ajuste a altura ou o tamanho dos dutos se o ar parar.
+17. Anote no caderno a posição e a data da instalação.
+18. Repita o teste do pano a cada semana.
+
+ATENCAO
+-------
+Um duto único não renova o ar: pode virar passagem de gases.
+Fumaça de fogo ou lampião dentro do abrigo pode matar sem aviso:
+ventile antes e nunca durma com braseiro aceso.
+Duto baixo e aberto pode puxar água da chuva para dentro.
+Tela solta permite a entrada de ratos, cobras e insetos.
+Se o ar ficar abafado mesmo com os dutos, saia e procure ajuda;
+a causa pode ser espaço pequeno ou gás acumulado no solo.
+Trabalhe sempre com outra pessoa avisada do que você faz.
+
+SE NAO TIVER
+------------
+Sem duto, use manga de pano presa em duas aberturas separadas.
+Sem tela, dobre pano fino sobre a boca e prenda com corda.
+Sem fita, use barro fresco para vedar as emendas.
+Sem duas aberturas, abra a porta e crie corrente com pano até
+que seja possível instalar o segundo duto.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O pano preso na entrada inclina para dentro do abrigo.
+O ar sai pela abertura alta e não retorna pela entrada.
+O cheiro de mofo e o vapor nas paredes diminuem com o tempo.
+Não há fumaça parada no interior após usar lampião.
+
+FONTES
+------
+Noções de ventilação de abrigos e de circulação de ar em espaços
+enterrados, resumidas de manuais de construção rural e de
+normas de segurança contra gases em recintos fechados.

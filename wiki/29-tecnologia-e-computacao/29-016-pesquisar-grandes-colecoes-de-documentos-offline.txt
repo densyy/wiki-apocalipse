@@ -1,0 +1,68 @@
+==============================================================================
+CODIGO: 29-016
+TITULO: Como pesquisar grandes coleções de documentos offline
+CATEGORIA: 29 - Tecnologia, computação e informática offline
+TEMPO: 25 minutos
+RISCO: baixo
+EXIGE: computador com os documentos, ferramenta de busca local
+REVISAO: 2026-11
+PALAVRAS-CHAVE: busca, documento, offline, índice, texto, arquivo, local
+==============================================================================
+
+OBJETIVO
+--------
+Localizar trechos em muitos documentos salvos no aparelho, sem internet.
+
+QUANDO USAR
+-----------
+Quando os documentos já estão salvos e não há conexão.
+Quando é preciso achar um termo em centenas de arquivos.
+Quando a busca do leitor só encontra o nome do arquivo.
+
+NAO USE QUANDO
+--------------
+Quando a decisão envolve saúde ou segurança: a busca acha texto,
+mas não confirma se a informação é correta. Valide a fonte.
+
+MATERIAIS
+---------
+- Computador ou celular com os documentos salvos.
+- Ferramenta de busca local (busca do sistema ou programa de índice).
+
+PROCEDIMENTO
+------------
+1. Reúna todos os documentos em uma única pasta.
+2. Renomeie cada arquivo com o assunto e a data.
+3. Confira se o arquivo contém texto e não apenas imagem.
+4. Se for imagem, aplique OCR antes: conversão de imagem em texto.
+5. Abra a busca local do leitor ou do gerenciador de arquivos.
+6. Digite a palavra exata no campo de busca.
+7. Escolha ignorar maiúsculas e minúsculas, se a opção existir.
+8. Filtre os resultados pelo tipo de arquivo.
+9. Abra cada resultado e leia o trecho onde a palavra aparece.
+
+ATENCAO
+-------
+A busca encontra a palavra, não confirma se a informação é correta.
+Sem OCR, imagens escaneadas não aparecem nos resultados.
+Índice desatualizado não mostra arquivos adicionados depois.
+Muitos resultados inutilizam a busca: use termos mais específicos.
+Se envolver saúde ou segurança, pare e confirme em fonte confiável.
+
+SE NAO TIVER
+------------
+Sem índice, use a busca por nome de arquivo: é mais lenta, mas funciona.
+Sem leitor com busca, use o terminal em computador.
+grep -rin "termo" pasta/ (ignora maiúsculas e mostra a linha).
+Sem OCR, procure uma versão em texto do mesmo documento.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O resultado mostra o nome do arquivo e o trecho com a palavra grifada.
+Ao abrir o arquivo, a palavra aparece no texto indicado.
+
+FONTES
+------
+Manual do GNU grep, da Free Software Foundation.
+Documentação da extensão FTS5 do SQLite sobre busca em texto.
+Prática consolidada de busca local, sem documento único.

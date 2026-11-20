@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 46-018
+TITULO: Como organizar um posto veterinário comunitário
+CATEGORIA: 46 - Medicina veterinária e saúde animal
+TEMPO: 3 horas
+RISCO: alto
+EXIGE: local coberto, água, luvas, desinfetante, caderno, pessoal treinado
+REVISAO: 2026-11
+PALAVRAS-CHAVE: posto, vet, animais, triagem, higiene, doença, vacina
+==============================================================================
+
+OBJETIVO
+--------
+Montar um posto seguro para atender animais da comunidade sem espalhar
+doenças entre os animais e para as pessoas.
+
+QUANDO USAR
+-----------
+Após desastre, quando os donos não conseguem levar os animais ao vet.
+Quando há muitos animais doentes em uma mesma vizinhança.
+Em criação comunitária sem acesso a serviço veterinário fixo.
+
+NAO USE QUANDO
+--------------
+Não monte o posto sem água, sem cobertura ou sem ventilação.
+Não atenda sem um veterinário responsável pelos atendimentos.
+Não use local onde vivam crianças pequenas ou pessoas imunossuprimidas.
+
+MATERIAIS
+---------
+- Local coberto, arejado, com água e longe de poços e de alimentos.
+- Luvas descartáveis (luvas de pano laváveis, se não houver descartáveis).
+- Água sanitária ou desinfetante registrado (sabão e água corrente).
+- Sabão, álcool em gel e papel toalha.
+- Bandeja rasa para desinfetar a sola dos sapatos na entrada.
+- Termômetro, estetoscópio, gaze, esparadrapo e tesoura.
+- Recipiente rígido com tampa para agulhas e material cortante.
+- Saco resistente para resíduos e carcaças.
+- Caderno, caneta e etiquetas para identificar cada animal.
+- Placa ou papel com a palavra ISOLAMENTO bem visível.
+
+PROCEDIMENTO
+------------
+1. Escolha local coberto, arejado e com água próxima.
+2. Afaste o posto de poços, rios, cozinhas e depósitos de alimento.
+3. Defina uma entrada única para animais e uma saída separada.
+4. Monte quatro áreas: espera, triagem, atendimento e isolamento.
+5. Coloque a placa ISOLAMENTO na área dos animais doentes.
+6. Guarde termômetro, luvas e gaze exclusivos para o isolamento.
+7. Coloque sabão e álcool em gel na entrada do posto.
+8. Coloque a bandeja com desinfetante na entrada do isolamento.
+9. Dilua a água sanitária conforme o rótulo do produto.
+10. Designe uma pessoa para receber, outra para triar e outra para anotar.
+11. Abra um registro por animal com nome do dono, espécie e queixa.
+12. Meça a temperatura e anote os sinais que o dono relatou.
+13. Pergunte se há outros animais doentes na vizinhança e anote.
+14. Envie o animal com febre, tosse ou diarreia direto ao isolamento.
+15. Atenda primeiro os animais sem sinais de doença.
+16. Troque de luvas e lave as mãos entre um animal e outro.
+17. Limpe a mesa e desinfete os instrumentos entre um animal e outro.
+18. Descarte agulhas em recipiente rígido, sem recapuchar.
+19. Avise a autoridade veterinária sobre caso suspeito de doença.
+20. Separe resíduos e carcaças em saco resistente e feche o saco.
+21. Feche o registro do dia e conte quantos animais foram atendidos.
+
+ATENCAO
+-------
+Doenças de animal para pessoa, como raiva e leptospirose, podem matar.
+Nunca toque animal suspeito sem luvas; lave as mãos ao terminar.
+Animal com dor morde e arranha: contenha antes de examinar (veja 46-005).
+Agulha recapuchada fura o dedo e espalha infecção: descarte sem tampar.
+Desinfetante puro queima olhos e pele: dilua e ventile o local.
+Avise a autoridade se surgir doença de notificação obrigatória, como raiva.
+Se vários animais adoecerem do mesmo jeito, feche o posto e chame a
+autoridade veterinária ou de saúde.
+Este texto não substitui atendimento veterinário; encaminhe casos graves.
+
+SE NAO TIVER
+------------
+Sem local próprio, peça uma sala coberta emprestada que possa ser lavada.
+Sem água encanada, use balde com torneira, nunca bacia compartilhada.
+Sem água sanitária, use sabão e água corrente; nunca misture produtos.
+Sem luvas, use saco plástico limpo como barreira e troque a cada animal.
+Sem pessoal treinado, apenas oriente e encaminhe; não aplique nada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Todo animal atendido tem registro escrito com dono, espécie e conduta.
+Animais com sinais de infecção ficaram separados desde a entrada.
+Nenhum animal de origem diferente dividiu o mesmo espaço de espera.
+Mãos, mesa e instrumentos foram limpos entre os atendimentos.
+Nenhum caso suspeito deixou de ser comunicado à autoridade.
+
+FONTES
+------
+Diretrizes da WOAH (antiga OIE, 2016) sobre desastres em saúde animal.
+Manual de Boas Práticas de Emergência da FAO (GEMP, 2021) e guia da FAO
+sobre intervenções com animais em emergências, baseado nas diretrizes LEGS.
+Diretrizes de Controle de Infecção da AAHA (2018) e da OAHN (2020).
+Prática consolidada de serviços veterinários; resumo operacional.

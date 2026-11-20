@@ -1,0 +1,75 @@
+==============================================================================
+CODIGO: 07-006
+TITULO: Como reconhecer sinais de uma detonação nuclear
+CATEGORIA: 07 - Guerra, radiação e catástrofes nucleares
+TEMPO: 10 minutos
+RISCO: alto
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: detonação, clarão, cogumelo, fallout, abrigo, bomba
+==============================================================================
+
+OBJETIVO
+--------
+Reconheça os sinais de uma detonação nuclear para se abrigar.
+
+QUANDO USAR
+-----------
+Quando vir um clarão branco muito forte sem trovão junto.
+Quando souber de alerta oficial de ataque nuclear na região.
+Quando sentir calor súbito junto com um estrondo distante.
+Quando vir uma nuvem em forma de cogumelo subindo no céu.
+Quando cair poeira grossa minutos depois de um estrondo.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Vire o rosto e feche os olhos ao ver o clarão branco.
+2. Conte os segundos entre o clarão e o estrondo sem olhar.
+3. Desconfie de trovão se o clarão veio sem chuva nem nuvem.
+4. Note se o estrondo chega em duas ondas com pausa curta.
+5. Sinta se o ar esquenta de repente e queima a pele exposta.
+6. Procure a bola de fogo subindo e virando nuvem de cogumelo.
+7. Observe vidros vibrando e objetos leves voando longe.
+8. Repare se luz, celular e rádio falham ao mesmo tempo.
+9. Observe poeira e areia grossa caindo do céu após o estrondo.
+10. Trate essa poeira sem cheiro como possível fallout.
+11. Entre no prédio firme mais próximo sem esperar confirmar.
+12. Feche portas, janelas e ventilação ao entrar no abrigo.
+
+ATENCAO
+-------
+Clarão cega por aproximadamente 1 minuto mesmo sem olhar direto.
+Onda quebra vidro a quilômetros e fere com estilhaço e queda.
+Fallout não tem cheiro nem gosto e continua emitindo radiação.
+Pano no rosto segura poeira mas não bloqueia a radiação gama.
+Nunca saia do abrigo para confirmar a nuvem com os próprios olhos.
+Explosão comum e trovão passam rápido e não derrubam eletrônicos.
+Este texto não trata queimadura nem enjoo de radiação, veja 07-001.
+Procure socorro se houver vômito, queimadura grande ou tontura.
+
+SE NAO TIVER
+------------
+Sem relógio, conte em voz alta um número por segundo.
+Sem janela para o céu, use calor, estrondo duplo e poeira.
+Sem rádio, espere ordem da defesa civil antes de sair do abrigo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você cita clarão, calor, estrondo duplo, cogumelo e poeira.
+Você descarta trovão quando não há chuva nem nuvem escura.
+Você entra no abrigo antes da poeira cair, sem voltar para olhar.
+
+FONTES
+------
+Guia de planejamento para detonação nuclear da FEMA.
+Perguntas frequentes sobre explosão nuclear do CDC americano.
+Ficha Be Prepared for a Nuclear Explosion da FEMA e Ready.gov.
+Prática consolidada de sobrevivência civil em manual militar.

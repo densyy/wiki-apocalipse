@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 87-014
+TITULO: Como construir um armazenador de energia gravitacional
+CATEGORIA: 87 - Energia mecânica e hidráulica tradicionais
+TEMPO: 240 minutos
+RISCO: alto
+EXIGE: pedra ou bloco pesado, corda, roldana, tambor, trava e suporte
+REVISAO: 2026-11
+PALAVRAS-CHAVE: gravidade, peso suspenso, roldana, corda, energia, tambor
+==============================================================================
+
+OBJETIVO
+--------
+Guardar trabalho erguendo um peso e liberá-lo depois para girar um eixo.
+
+QUANDO USAR
+-----------
+Quando se tem força ou vento em excesso num momento e falta depois.
+Para acionar uma bomba ou moagem pequena sem bateria nem combustível.
+Ao testar princípios de armazenamento mecânico com oficina simples.
+Quando um elevador de água precisa de partida manual temporária.
+
+NAO USE QUANDO
+--------------
+Não use onde pessoas ou animais passam sob o peso suspenso.
+Não use com corda desgastada, roldana rachada ou trava improvisada.
+Não use se o suporte não estiver fixo em fundamento firme.
+Não use em área de vento forte sem amarrar a carga.
+
+MATERIAIS
+---------
+- Bloco de pedra, saco de areia ou tambor cheio de água (peso).
+- Corda de fibra ou cabo de aço resistente (corrente).
+- Duas roldanas com rolamento ou buchas (carretel de madeira).
+- Tambor ou carretel para enrolar a corda (eixo com manivela).
+- Trava de dente ou cunha para prender o peso na altura.
+- Madeira ou ferro para o suporte alto (vigas e contraventos).
+- Parafusos, grampos e fita para proteger a corda.
+
+PROCEDIMENTO
+------------
+1. Escolha um lugar firme, nivelado e longe de passagem de pessoas.
+2. Calcule o peso que consegue erguer com folga, sem forçar as costas.
+3. Monte o suporte alto com vigas e contraventos bem travados.
+4. Fixe a roldana superior no topo e confira puxando forte.
+5. Prenda o peso na ponta da corda com nó duplo e fita de proteção.
+6. Passe a corda pela roldana e leve a outra ponta ao tambor.
+7. Enrole a corda no tambor e encaixe a manivela.
+8. Instale a trava antes de soltar qualquer carga.
+9. Ergue o peso devagar, mantendo a corda alinhada à roldana.
+10. Prenda a trava quando chegar na altura desejada.
+11. Solte a manivela devagar e veja se a trava segura o peso.
+12. Encaixe o eixo de saída no tambor para aproveitar a descida.
+13. Retire a trava só quando o mecanismo de saída estiver pronto.
+14. Acompanhe a descida e pare com a trava se o giro ficar irregular.
+15. Ao descer, verifique desgaste da corda e aperte os parafusos.
+16. Registre altura, peso e tempo de descida para medir o trabalho.
+
+ATENCAO
+-------
+Um peso suspenso pode matar se cair sobre alguém. Isole a área com
+corda e avise a todos antes de erguer ou liberar a carga.
+Nunca confie só na manivela: use sempre a trava para segurar o peso.
+Cordas de fibra envelhecem e perdem resistência; troque ao ver fiapos.
+Roldana empenada aquece a corda e pode rompê-la. Não use se rachou.
+Se o suporte balançar, descarregue e reforce a base antes de continuar.
+Não aumente o peso além do previsto no dimensionamento do suporte.
+Crianças não devem operar a manivela nem ficar perto da carga.
+
+SE NAO TIVER
+------------
+Sem roldana, passe a corda sobre um rolo de madeira bem lubrificado.
+Sem bloco de pedra, use um tambor cheio d'água com tampa presa.
+Sem trava de ferro, use uma cunha de madeira dura no dente do carretel.
+Sem cabo de aço, use corda de sisal dobrada e inspecione-a cada uso.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O peso fica parado quando a trava encosta, sem escorregar.
+A corda enrola e desenrola sem sair da roldana nem torcer.
+A descida gira o eixo de saída de forma constante.
+O suporte não treme e a corda não apresenta fiapos novos.
+
+FONTES
+------
+Prática consolidada de mecânica artesanal e demonstrações de
+armazenamento gravitacional de energia, sem documento único.
+Base: princípios de trabalho, alavanca e polia ensinados em oficinas
+e cursos técnicos de mecânica básica.

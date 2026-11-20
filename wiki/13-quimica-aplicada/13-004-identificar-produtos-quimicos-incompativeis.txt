@@ -1,0 +1,93 @@
+==============================================================================
+CODIGO: 13-004
+TITULO: Como identificar produtos químicos incompatíveis
+CATEGORIA: 13 - Química e conhecimentos científicos aplicados
+TEMPO: 20 minutos
+RISCO: alto
+EXIGE: rótulos legíveis, boa luz, luvas e óculos de proteção
+REVISAO: 2026-11
+PALAVRAS-CHAVE: produto, incompatível, misturar, rótulo, lixívia, amônia
+==============================================================================
+
+OBJETIVO
+--------
+Reconheça, pelo rótulo e pela embalagem, quais produtos não devem ser
+misturados ou guardados juntos.
+
+QUANDO USAR
+-----------
+Antes de misturar qualquer produto de limpeza em balde ou sanitário.
+Antes de guardar produtos novos no mesmo armário dos antigos.
+Quando o rótulo estiver ilegível ou o frasco não tiver identificação.
+Ao encontrar frascos sem nome em oficina, despensa ou depósito.
+Depois de uma enchente, quando caixas e rótulos se soltaram.
+
+NAO USE QUANDO
+--------------
+Não determine a compatibilidade misturando sobras para ver o que acontece.
+
+MATERIAIS
+---------
+- Rótulos e embalagens originais (fotografe se estiverem soltos).
+- Boa iluminação ou lanterna.
+- Luvas de borracha doméstica e óculos de proteção para manusear frascos.
+- Papel e lápis para anotar o nome e o lote de cada produto.
+- Fita adesiva e etiqueta para identificar frasco sem rótulo.
+
+PROCEDIMENTO
+------------
+1. Coloque luvas e óculos antes de manusear qualquer frasco suspeito.
+2. Leia em voz alta o nome do produto impresso na frente da embalagem.
+3. Procure no rótulo as palavras cuidado, atenção, perigo ou corrosivo.
+4. Observe os pictogramas (desenhos de alerta): chama, caveira, corrosão e
+   ponto de exclamação.
+5. Anote o nome exato e o princípio ativo, como hipoclorito de sódio.
+6. Separe os frascos em grupos: limpeza, ácidos e solventes ou óleos.
+7. Nunca misture água sanitária com amônia, vinagre ou limpa-vasos.
+8. Nunca misture água sanitária com ácido: isso pode liberar gás de cloro.
+9. Nunca misture ácido com base, como removedor de ferrugem e desinfetante.
+10. Guarde cada grupo em prateleira ou caixa separada dos outros.
+11. Mantenha cada produto na embalagem original, com a tampa fechada.
+12. Escreva o nome na fita e cole no frasco se o rótulo tiver caído.
+13. Isole o frasco em caixa separada se não souber o que ele contém.
+14. Faça uma lista dos produtos e deixe-a junto ao armário.
+
+ATENCAO
+-------
+Misturar água sanitária com amônia gera cloraminas, gases que queimam olhos
+e pulmões. Água sanitária com ácido, como vinagre ou limpa-vasos, libera
+cloro: em ambiente fechado o gás pode matar.
+Cheiro forte não é sinal de segurança: certos gases não se sentem antes
+de causar dano. Nunca cheire, prove ou misture para testar.
+Ao notar vapor ou cheiro estranho, saia, ventile e não entre de volta.
+Se houver tosse, queimação nos olhos ou falta de ar, procure atendimento.
+Frasco sem rótulo é risco: nunca despeje outro produto dentro dele.
+Nunca jogue produtos químicos no ralo ou no solo.
+
+SE NAO TIVER
+------------
+Sem rótulo, isole o frasco em saco ou caixa e marque "sem identificação".
+Sem luvas, use pano seco para manusear e lave as mãos com água e sabão.
+Sem etiqueta, anote o nome no papel e amarre no gargalo com barbante.
+Sem armário, use caixas plásticas distintas e mantenha-as afastadas.
+Se não souber o que é o produto, não use: leve a um ponto de coleta.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada frasco tem nome legível e está no seu grupo.
+Nenhum frasco de limpeza está encostado em ácido ou solvente.
+A lista no papel confere com os frascos que estão no armário.
+Nenhum par perigoso está na mesma caixa: lixívia com amônia ou ácido.
+
+FONTES
+------
+Centro de Controle e Prevenção de Doenças (CDC), "How to Safely Clean and
+Sanitize with Bleach": nunca misturar lixívia com amônia ou outros
+limpadores; usar luvas, proteção ocular e ventilação.
+Centro Canadense de Saúde Ocupacional e Segurança (CCOHS), "Bleach
+(Household chlorine) - Working Safely": lixívia é corrosiva e gera gases
+tóxicos com amônia, ácidos e limpa-vasos; não usar frasco sem rótulo.
+CCOHS, "Hazardous Waste Management": separar materiais incompatíveis no
+armazenamento e nunca misturar resíduos não aprovados.
+Administração de Segurança Ocupacional e Saúde (OSHA), Comunicação de
+Riscos (HCS/GHS): rótulos e fichas de segurança informam os perigos.

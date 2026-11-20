@@ -1,0 +1,84 @@
+==============================================================================
+CODIGO: 87-004
+TITULO: Como construir um sistema de transmissão por correias
+CATEGORIA: 87 - Energia mecânica e hidráulica tradicionais
+TEMPO: 120 minutos
+RISCO: medio
+EXIGE: duas polias, correia de couro ou fibra, eixos alinhados
+REVISAO: 2026-11
+PALAVRAS-CHAVE: correia, polia, transmissão, eixo, giro, couro, velocidade
+==============================================================================
+
+OBJETIVO
+--------
+Ligar dois eixos com correias para passar o giro de uma máquina a outra.
+
+QUANDO USAR
+-----------
+Quando o motor e a máquina estiverem separados por certa distância.
+Quando se quiser mudar a velocidade trocando o tamanho das polias.
+Quando o eixo de origem girar rápido e a máquina precisar girar devagar.
+Quando se precisar de transmissão silenciosa e de baixo custo.
+
+NAO USE QUANDO
+--------------
+Não use onde a correia ficará molhada, lamacenta ou exposta a óleo.
+Não use se os eixos não puderem ser alinhados com precisão.
+Não use para transmitir esforço muito pesado sem reforço.
+
+MATERIAIS
+---------
+- Duas polias de madeira torneada ou metal com sulco central.
+- Correia de couro cru, lona costurada ou fibra trançada.
+- Eixos com mancais firme s e suportes de madeira.
+- Parafusos, chaveta de madeira e cola de caseína.
+- Fita de medir, nível e régua para alinhar.
+- Cera ou graxa leve para tratar a correia.
+
+PROCEDIMENTO
+------------
+1. Defina qual eixo comanda e qual eixo recebe o movimento.
+2. Escolha o diâmetro das polias pela relação de velocidade desejada.
+3. Calcule o comprimento da correia medindo a volta das duas polias.
+4. Monte as polias nos eixos com chaveta e parafuso de aperto.
+5. Fixe os mancais dos dois eixos em suportes rígidos.
+6. Alinhe as polias para ficarem exatamente no mesmo plano.
+7. Verifique o alinhamento com uma régua encostada nas duas bordas.
+8. Passe a correia pelo sulco das duas polias sem torção.
+9. Ajuste a distância entre eixos até a correia ficar justa.
+10. Trate a correia com cera leve para evitar deslizamento.
+11. Gire o eixo motor com a mão e observe o giro da outra polia.
+12. Confira se a correia corre no centro do sulco, sem subir.
+13. Aumente a velocidade aos poucos e observe vibrações.
+14. Anote a relação de giros entre as duas polias.
+
+ATENCAO
+-------
+Correia, polia e eixo giram rápido: nunca encoste durante o giro.
+Roupas largas, mangas e cabelos podem ser puxados pela correia.
+Use proteção fixa de madeira ao redor das polias.
+Se a correia sair do sulco, pare e realinhe antes de continuar.
+Correia frouxa escorrega e queima: ajuste a tensão com cuidado.
+Nunca poupe graxa pesada na correia, pois ela apodrece o couro.
+Desligue e trave o eixo antes de fazer qualquer ajuste.
+
+SE NAO TIVER
+------------
+Sem couro, use tiras de lona costurada ou fibra trançada.
+Sem polias, torneie discos de madeira com sulco feito à mão.
+Sem chaveta, prenda a polia com parafuso e arruela larga.
+Sem cera, esfregue um pouco de sebo na face da correia.
+Sem duas polias, use uma polia e troca de marcha por correia cruzada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O eixo receptor gira no sentido previsto e sem solavancos.
+A correia permanece no centro do sulco, sem saltar.
+Não há ruído de atrito nem cheiro de couro queimado.
+A velocidade medida corresponde à relação das polias.
+
+FONTES
+------
+Prática consolidada de transmissão mecânica por correia em oficinas
+e moinhos rurais. Base em manuais de elementos de máquinas e na
+experiência de mecânicos que adaptam equipamentos com materiais locais.

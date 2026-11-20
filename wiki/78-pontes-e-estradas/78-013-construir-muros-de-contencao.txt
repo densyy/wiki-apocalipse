@@ -1,0 +1,85 @@
+==============================================================================
+CODIGO: 78-013
+TITULO: Como construir muros de contenção
+CATEGORIA: 78 - Pontes, estradas e infraestrutura de transporte
+TEMPO: 300 minutos
+RISCO: alto
+EXIGE: pedra ou bloco, cimento, areia, drenagem, enxada
+REVISAO: 2026-11
+PALAVRAS-CHAVE: muro, contencao, arrimo, talude, deslizamento, drenagem
+==============================================================================
+
+OBJETIVO
+--------
+Conter um talude de terra com um muro de arrimo que evita deslizamento.
+
+QUANDO USAR
+-----------
+Onde o talude ameaca deslizar sobre a estrada ou a casa.
+Para ganhar area plana em terreno inclinado, sustentando a terra.
+Apos deslizamento pequeno, para estabilizar a encosta.
+Quando ha espaco para a base do muro e para a drenagem.
+
+NAO USE QUANDO
+--------------
+Nao construa sem saber a altura que o muro precisara ter.
+Nao execute sobre solo mole, terra solta ou aterro nao compactado.
+Nao monte onde nao ha saida para a agua de drenagem.
+Nao construa muro alto sem orientacao tecnica de engenharia.
+
+MATERIAIS
+---------
+- Pedra, bloco de concreto ou tijolo macico para a alvenaria.
+- Cimento, cal e areia para a argamassa (ou cal hidraulica).
+- Cascalho e tubo de drenagem para o dorso do muro (bueirinho).
+- Terra compactada para o enchimento por tras do muro.
+- Enxada, pá, marreta, nivel, prumo e fita metrica.
+- Luvas, botas e capacete.
+
+PROCEDIMENTO
+------------
+1. Meça a altura do corte e a area que o muro deve sustentar.
+2. Marque a linha do muro no terreno com estacas e cordel.
+3. Escave a fundacao ate solo firme, com pelo menos 60 cm de profundidade.
+4. Associe a fundacao com pedra grande e argamassa, bem nivelada.
+5. Erga o muro em camadas, com juntas desencontradas e prumo exato.
+6. Deixe o dorso do muro com inclinacao leve para tras, se possivel.
+7. Instale tubos de drenagem atraves do muro a cada 2 metros.
+8. Cubra o dorso com cascalho para a agua escoar ate os tubos.
+9. Encha por tras com terra compactada em camadas de 20 cm.
+10. Compacte cada camada com soquete antes de por a proxima.
+11. Deixe a face do muro livre de terra solta e entulho.
+12. Confira o prumo e o alinhamento a cada duas camadas.
+13. Curta a argamassa por 7 dias, protegendo do sol e da chuva.
+14. Observe o muro apos as primeiras chuvas e corrija problemas.
+
+ATENCAO
+-------
+Muro mal drenado recebe pressao da agua e pode tombar.
+Nao encoste a terra no muro antes da argamassa ganhar resistencia.
+Fundacao rasa em solo mole afunda e abre rachaduras no muro.
+Nao fique na frente do muro durante o enchimento por tras.
+Se aparecer rachadura ou inclinacao, interdite a area imediatamente.
+Nao construa muro alto (acima de 2 m) sem calculo e orientacao.
+Agua represada no dorso e a causa mais comum de colapso.
+
+SE NAO TIVER
+------------
+Sem pedra, use bloco de concreto ou tijolo macico bem assentado.
+Sem cimento, use cal hidraulica com areia e agua limpa.
+Sem tubo de drenagem, deixe juntas abertas com pedra britada no dorso.
+Sem cascalho, use pedra miuda ou brita para a camada de drenagem.
+Sem soquete, compacte com pé ou com um pedaço de madeira pesada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O muro esta no prumo, sem rachaduras e com fundacao firme.
+A agua escoa pelos drenos e nao represa no dorso.
+A terra atras esta compactada, sem recalque visivel.
+Apos a chuva, nao ha deslocamento, abatimento ou vazamento de terra.
+
+FONTES
+------
+Pratica consolidada de muros de arrimo e estabilizacao de taludes
+rurais, sem documento unico obrigatorio. Orientacoes gerais de
+engenharia civil e drenagem de encostas em areas rurais.

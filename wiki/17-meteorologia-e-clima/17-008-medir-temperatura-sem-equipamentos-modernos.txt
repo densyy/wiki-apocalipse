@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 17-008
+TITULO: Como medir temperatura sem equipamentos modernos
+CATEGORIA: 17 - Meteorologia, clima e meio ambiente
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: frasco de vidro, canudo, líquido, massa, gelo, calor
+REVISAO: 2026-11
+PALAVRAS-CHAVE: temperatura, termômetro caseiro, graus, gelo, fervura, frio
+==============================================================================
+
+OBJETIVO
+--------
+Montar e calibrar termômetro caseiro e obter leituras aproximadas em graus.
+
+QUANDO USAR
+-----------
+Quando não há termômetro comercial e é preciso acompanhar o frio.
+Para comparar a temperatura entre a sombra, o abrigo e o exterior.
+Para registrar a variação da temperatura ao longo do dia.
+Para saber se plantio, animais ou alimentos correm risco de frio.
+
+NAO USE QUANDO
+--------------
+Para medir febre ou temperatura corporal: use termômetro clínico.
+Para garantir segurança de alimentos, remédios ou vacinas.
+Para medir abaixo de 0 °C se o líquido for água: ela congela.
+Para substituir a leitura oficial de temperatura do INMET.
+Quando não houver gelo nem água para calibrar: só mostrará variações.
+
+MATERIAIS
+---------
+- Frasco de vidro pequeno, de boca estreita (pote de vidro com tampa).
+- Canudo transparente fino e reto (tubo de caneta ou de refresco).
+- Álcool etílico ou isopropílico (ou água com corante alimentar).
+- Massa de modelar ou vedante mole (cera mole).
+- Gelo e água limpa (para o ponto zero).
+- Panela, água e fonte de calor (para o ponto de fervura).
+- Régua, palito para marcar e caderno (papel e lápis).
+
+PROCEDIMENTO
+------------
+1. Lave o frasco e o canudo com água limpa e seque.
+2. Encha o frasco até a boca com álcool (ou água com corante).
+3. Espete o canudo na massa de vedar.
+4. Encaixe a massa na boca do frasco.
+5. Empurre o canudo até a ponta ficar mergulhada no líquido.
+6. Aperte a massa ao redor do canudo, sem deixar entrar ar.
+7. Verifique se não há bolha de ar dentro do frasco; corrija.
+8. Prenda a régua ao lado do canudo, sem apertar o canudo.
+9. Coloque o frasco em tigela com gelo e água até cobri-lo.
+10. Espere o nível do líquido parar de subir ou descer.
+11. Marque na régua o nível e anote "0 °C".
+12. Retire o frasco do gelo e seque por fora.
+13. Leve água limpa à fervura na panela, ao nível do mar.
+14. Mergulhe o frasco na água quente, com cuidado com o vapor.
+15. Espere o nível estabilizar e marque "100 °C" na régua.
+16. Meça com a régua a distância entre as duas marcas.
+17. Divida essa distância em 100 partes iguais: cada parte é 1 °C.
+18. Anote no caderno o valor de uma parte, em milímetros.
+19. Coloque o frasco no local a medir, na sombra e longe do sol.
+20. Espere o nível estabilizar antes de ler.
+21. Conte as partes e obtenha a temperatura em graus.
+22. Repita no mesmo local e horário para comparar.
+
+ATENCAO
+-------
+Água em fervura e vapor causam queimaduras graves; use panela firme.
+Afaste crianças e animais do fogo durante a calibragem.
+Álcool é inflamável: nunca calibre perto de chama ou fogo aberto.
+O vidro pode rachar com o calor; use frasco resistente e luvas.
+Se o canudo entupir ou a massa ceder, a leitura falha; refaça.
+Sem as duas marcas, o aparelho só mostra variação, não graus.
+Acima de 2.000 m a água ferve abaixo de 100 °C; ajuste a marca.
+Com água, a expansão é irregular perto de 4 °C; não confie nessa faixa.
+
+SE NAO TIVER
+------------
+Sem álcool, use água com corante, mas não meça abaixo de 4 °C.
+Sem canudo, use o tubo transparente mais fino que encontrar.
+Sem gelo, não há calibragem confiável do zero: anote só variações.
+Sem régua, marque as duas referências numa tira de papel e divida.
+Sem panela, não faça a marca de 100 °C: registre apenas tendências.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A coluna de líquido sobe ao aquecer e desce ao esfriar.
+As marcas de 0 °C e 100 °C ficam distintas e separadas.
+A distância entre elas foi dividida em 100 partes iguais.
+Duas leituras no mesmo local, após estabilizar, dão valores próximos.
+
+FONTES
+------
+Escala Internacional de Temperatura de 1990 (ITS-90), do BIPM: pontos fixos.
+Prática clássica de calibragem de termômetro líquido-em-vidro: ponto do
+gelo (0 °C) e ponto do vapor d'água (100 °C ao nível do mar).
+Referência geral: NIST, laboratório de calibragem de termômetros.
+Prática consolidada de termometria caseira, sem documento único.

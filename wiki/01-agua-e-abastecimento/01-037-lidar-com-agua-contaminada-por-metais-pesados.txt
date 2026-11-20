@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 01-037
+TITULO: Como lidar com água contaminada por metais pesados
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 40 minutos
+RISCO: critico
+EXIGE: fonte alternativa segura ou filtro certificado, recipiente limpo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, metais, chumbo, arsênio, mercúrio, filtro, envenenada
+==============================================================================
+
+OBJETIVO
+---------
+Evitar intoxicação por metais pesados e decidir se a água pode ser bebida.
+
+QUANDO USAR
+-----------
+- Quando a fonte fica perto de mina, indústria, lixão ou oficina.
+- Quando torneiras ou encanamentos antigos podem conter chumbo.
+- Quando poços recebem água de área industrial ou agrícola.
+- Quando laudo ou autoridade alerta para arsênio, chumbo ou mercúrio.
+- Depois de enchente, vazamento industrial ou obra em encanamentos.
+
+NAO USE QUANDO
+--------------
+- Quando há laudo de potabilidade válido e recente: não há o que tratar.
+- Quando só houver tratamento improvisado: não o chame de seguro.
+
+MATERIAIS
+---------
+- Fonte alternativa testada, protegida ou engarrafada.
+- Filtro certificado para o metal suspeito (não serve filtro comum).
+- Recipiente limpo e tampado.
+- Laudo de laboratório ou kit de teste para o metal, se existir.
+- Luvas para manusear lodo ou cartucho contaminado.
+
+PROCEDIMENTO
+------------
+1. Pare de usar a água suspeita para beber, cozinhar e escovar os dentes.
+2. Guarde a água suspeita em recipiente identificado, longe de crianças.
+3. Anote a origem suspeita: poço, encanamento antigo, mina ou indústria.
+4. Busque outra fonte: água engarrafada ou fonte protegida.
+5. Se usar água da chuva, colete-a em telhado limpo.
+6. Coe e ferve a água da chuva antes de beber (veja 01-001).
+7. Use a fonte alternativa para cozinhar e lavar alimentos.
+8. Use a fonte alternativa para preparar fórmula infantil.
+9. Se houver laudo, compare com o limite: arsênio e chumbo até 0,01 mg/L.
+10. No mesmo laudo, mercúrio até 0,001 mg/L e cádmio até 0,005 mg/L.
+11. Se não houver laudo, trate a água suspeita como imprópria até análise.
+12. Se houver filtro certificado, use-o apenas na água de beber.
+13. Instale o filtro conforme o manual do fabricante.
+14. Troque o cartucho no prazo indicado, mesmo que a água pareça boa.
+15. Descarte lodo e cartucho usados como resíduo perigoso.
+16. Nunca jogue esse resíduo em rio, solo ou lixo comum.
+17. Encaminhe a atendimento quem bebeu a água e teve sintomas.
+
+ATENCAO
+-------
+- Ferver não remove metais pesados e pode concentrá-los ao evaporar a água.
+- Filtro de pano, areia, barro ou carvão comum não retira metal dissolvido.
+- Gosto, cheiro e cor não provam que a água está segura.
+- Muitos metais não mudam o gosto, o cheiro nem a cor da água.
+- Chumbo e arsênio acumulam no corpo; crianças e gestantes sofrem primeiro.
+- Não use a água suspeita em fórmula infantil nem em animais.
+- Não jogue o resíduo do filtro no rio nem no quintal.
+- O resíduo concentra o metal removido da água.
+- Com náusea, vômito, dor abdominal ou confusão, procure atendimento.
+- Formigamento nas mãos e pés também é sinal de alerta.
+
+SE NAO TIVER
+------------
+- Sem água engarrafada, use água da chuva ou de fonte protegida.
+- Ferva para matar microrganismos; a fervura não resolve metais.
+- Sem filtro certificado, não improvise com cinza ou carvão comum.
+- Substitutos caseiros sujam a água e dão falsa segurança.
+- Sem laudo, prefira não usar a fonte suspeita.
+- Sem fonte alternativa, peça ajuda à Defesa Civil ou ao posto de saúde.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- A água de beber veio de fonte alternativa ou de filtro certificado em dia.
+- A pessoa parou de usar a água suspeita para beber e cozinhar.
+- O laudo, quando houver, mostra valores dentro dos limites legais.
+- Ninguém na casa teve náusea ou vômito após a troca de fonte.
+
+FONTES
+------
+- OMS, Guia para a qualidade da água de bebida (4ª edição, 2017).
+- OMS, ficha informativa sobre arsênio (2022).
+- CDC, Chemicals That Can Contaminate Tap Water (2025).
+- CDC, boletins de aviso de não beber água com químicos.
+- EPA, Basic Information about Lead in Drinking Water.
+- EPA, Emergency Disinfection of Drinking Water.
+- Ministério da Saúde, Portaria 2.914/2011, Anexo VII (limites de metais).
+- HealthLink BC, orientação sobre arsênio na água de bebida.

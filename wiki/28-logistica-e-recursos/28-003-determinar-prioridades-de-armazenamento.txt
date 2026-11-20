@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 28-003
+TITULO: Como determinar prioridades de armazenamento
+CATEGORIA: 28 - Logística e gestão de recursos
+TEMPO: 45 minutos
+RISCO: medio
+EXIGE: caderno, lápis, lista do que possui, local de guarda
+REVISAO: 2026-11
+PALAVRAS-CHAVE: armazenamento, prioridade, estoque, guardar, essencial
+==============================================================================
+
+OBJETIVO
+--------
+Decidir o que guardar primeiro, pelo que a pessoa precisa de fato.
+
+QUANDO USAR
+-----------
+Quando o espaço de guarda é menor que o volume de suprimentos.
+Quando chega uma entrega maior do que a prevista.
+Quando é preciso escolher o que levar ao abandonar um lugar.
+Quando o local atual está úmido, quente ou desprotegido.
+
+NAO USE QUANDO
+--------------
+Não use para cortar água, comida ou remédio abaixo do mínimo de dois dias.
+O método organiza prioridades e não substitui a reserva de sobrevivência.
+
+MATERIAIS
+---------
+- Caderno e lápis.
+- Lista escrita do que existe, com quantidades e validade.
+- Noção clara de quantas pessoas dependem do estoque.
+- Local seco, fresco, escuro e fechado (caixa, armário ou depósito).
+
+PROCEDIMENTO
+------------
+1. Liste tudo o que possui, item por item, com quantidade e validade.
+2. Separe os itens em três grupos: essencial, importante e conforto.
+3. Marque como essencial o que sustenta a vida: água, comida e remédio.
+4. Marque o que estraga com calor, umidade ou luz para guardar primeiro.
+5. Calcule quantos dias cada item essencial dura para o grupo.
+6. Ordene os itens pela menor duração primeiro.
+7. Reserve o espaço mais seco e fresco para o grupo essencial.
+8. Guarde itens pesados embaixo e quebráveis em cima.
+9. Afaste do plano o que não cabe e não é essencial.
+10. Escreva a ordem no caderno e fixe-a no local de guarda.
+
+ATENCAO
+-------
+Guardar primeiro o que é conforto é erro comum e custa caro.
+Não descarte item vencido sem conferir de que tipo ele é.
+Água e comida mal fechadas atraem insetos e roedores.
+Combustível e produto de limpeza nunca ficam junto de comida.
+Se o local alagar ou esquentar, mova o essencial antes do resto.
+
+SE NAO TIVER
+------------
+Sem caderno, use papel qualquer e anote a lápis ou com carvão.
+Sem local fechado, empilhe sobre estrado e cubra com lona limpa.
+Sem como medir dias, priorize água e comida acima de tudo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Itens essenciais ficam visíveis, secos e ao alcance em um minuto.
+A lista do caderno confere com o que está guardado.
+
+FONTES
+------
+Prática consolidada de logística e gestão de estoques em emergência.
+Texto operacional resumido, sem documento normativo único.

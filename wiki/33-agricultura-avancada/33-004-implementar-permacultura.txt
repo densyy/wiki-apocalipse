@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 33-004
+TITULO: Como implementar permacultura
+CATEGORIA: 33 - Agricultura avançada e autossuficiência rural
+TEMPO: 120 minutos
+RISCO: medio
+EXIGE: quintal, papel, lápis, matéria orgânica, mudas, água
+REVISAO: 2026-11
+PALAVRAS-CHAVE: permacultura, horta, solo, cobertura morta, composto, água
+==============================================================================
+
+OBJETIVO
+--------
+Criar uma horta produtiva que mantenha o solo vivo com poucos insumos.
+
+QUANDO USAR
+-----------
+Quando se quer produzir alimento sem comprar insumos a cada safra.
+Quando o solo está compactado, perde terra ou a água é escassa.
+
+NAO USE QUANDO
+--------------
+Com suspeita de contaminação por combustível, agrotóxico ou metal pesado.
+Nunca cultive nesse solo sem análise; composto não remove o poluente.
+
+MATERIAIS
+---------
+- Papel, lápis e estacas para desenhar e marcar o terreno (caderno, pedras).
+- Palha, folhas secas ou poda triturada limpa, sem sementes.
+- Composto ou húmus (esterco curtido misturado a folhas).
+- Mudas ou sementes de espécies adaptadas à sua região.
+
+PROCEDIMENTO
+------------
+1. Observe o terreno por um dia antes de mexer na terra.
+2. Anote onde o sol bate mais e por onde a água escorre.
+3. Desenhe as áreas de uso intenso perto da casa e as raras longe dela.
+4. Marque com estacas o contorno de cada área antes de cavar.
+5. Afrouxe só o local da cova; não vire toda a terra.
+6. Espalhe composto e misture na camada superficial do solo.
+7. Cubra o solo exposto com palha, folhas ou poda triturada.
+8. Deixe espaço livre de cobertura junto ao caule de cada muda.
+9. Plante primeiro espécies rústicas e adaptadas à sua região.
+10. Intercale árvores, arbustos e hortaliças no mesmo canteiro.
+11. Abra sulcos para levar a água da chuva até as plantas.
+12. Comece por uma área só; deixe as outras para o ano seguinte.
+
+ATENCAO
+-------
+Cobertura com sementes pode infestar o canteiro; use palha limpa.
+Não encoste palha no caule: apodrece e atrai pragas.
+Não traga esterco de origem desconhecida para a horta.
+Se a muda murchar ou amarelecer, pare e corrija água e sombra.
+O sistema demora meses a estabilizar; não espere colheita no primeiro mês.
+
+SE NAO TIVER
+------------
+Sem composto, use folhas picadas e esterco bem curtido no solo.
+Sem palha, use aparas de grama secas ou restos de poda sem sementes.
+Sem espaço no solo, faça canteiros elevados com terra e matéria orgânica.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O solo fica coberto, escuro e úmido quando se abre a cobertura.
+As plantas criam folhas novas e não murcham no meio do dia.
+
+FONTES
+------
+Ética e princípios: Núcleo de Estudos em Permacultura da UFSC e Holmgren.
+Prática consolidada, sem documento único; cobertura morta: Embrapa e IPOEMA.

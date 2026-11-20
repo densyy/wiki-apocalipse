@@ -1,0 +1,78 @@
+==============================================================================
+CODIGO: 70-028
+TITULO: Como migrar dados entre gerações de armazenamento
+CATEGORIA: 70 - Computação de baixo consumo e preservação digital
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: dois suportes de armazenamento, computador, energia estável
+REVISAO: 2026-11
+PALAVRAS-CHAVE: migração, backup, armazenamento, preservação, cópia
+==============================================================================
+
+OBJETIVO
+--------
+Transferir todos os arquivos de um suporte antigo para um novo, sem perdas.
+
+QUANDO USAR
+-----------
+Quando o suporte atual está cheio ou começa a apresentar erros de leitura.
+Quando um formato antigo deixa de abrir em equipamentos ou sistemas novos.
+Quando aparece um dispositivo maior, mais rápido ou mais confiável.
+Quando se troca de computador ou de sistema operacional.
+
+NAO USE QUANDO
+--------------
+Quando não existe segunda cópia e o suporte de origem já apresenta erros.
+Pare e busque ajuda antes de migrar um suporte que está com falha.
+
+MATERIAIS
+---------
+- Suporte de origem com os arquivos que serão preservados.
+- Suporte de destino com espaço livre maior que o total dos dados.
+- Computador com portas ou leitor compatíveis (ou adaptador).
+- Fonte de energia estável (ou bateria carregada, se não houver rede).
+- Caderno e lápis para registrar a data e o resultado.
+- Ferramenta de código de verificação (checksum), se houver.
+
+PROCEDIMENTO
+------------
+1. Liste os arquivos da origem e anote a quantidade total no caderno.
+2. Confirme que o destino tem espaço livre maior que o total dos dados.
+3. Conecte os dois suportes ao computador sem remover nenhum deles.
+4. Copie todos os arquivos para o destino; nunca use mover ou recortar.
+5. Confira se a quantidade de arquivos no destino é igual à da origem.
+6. Abra no destino um arquivo de texto, uma imagem e uma planilha.
+7. Com ferramenta, gere o código de verificação nas duas cópias.
+8. Compare os códigos; se divergirem, copie o arquivo novamente.
+9. Mantenha a origem intacta por mais uma semana, sem apagar nada.
+10. Anote a data, os dois suportes e o resultado no caderno.
+
+ATENCAO
+-------
+Nunca apague a origem antes de conferir a cópia: é aqui que mais se erra.
+Copiar mantém o original; mover apaga o original.
+Nomes iguais podem ser sobrescritos: confirme antes de substituir.
+Suporte antigo pode falhar na leitura: pare se ouvir ruído ou erro.
+Formatos proprietários podem abrir vazios em sistema novo: teste a abertura.
+Sem segunda cópia, uma falha de gravação destrói o arquivo para sempre.
+
+SE NAO TIVER
+------------
+Sem computador, use leitor com cópia direta, se o aparelho tiver.
+Sem destino maior, migre em partes e mantenha a origem até terminar.
+Sem ferramenta de checksum, compare quantidade, tamanho e abertura.
+Sem adaptador compatível, não force a conexão: procure o leitor correto.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O destino mostra a mesma quantidade de arquivos anotada da origem.
+Texto, imagem e planilha abrem no destino sem mensagem de erro.
+Os códigos coincidem, quando foi possível calculá-los.
+A origem continua intacta e legível depois da cópia.
+
+FONTES
+------
+Manual de Preservação Digital (Digital Preservation Handbook), 2ª edição,
+Digital Preservation Coalition: migração, integridade e formatos de arquivo.
+Prática consolidada de preservação digital e cópias fora da rede.
+Resumo operacional; não substitui treinamento.

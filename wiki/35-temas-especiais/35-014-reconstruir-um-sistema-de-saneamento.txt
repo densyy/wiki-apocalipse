@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 35-014
+TITULO: Como reconstruir um sistema de saneamento
+CATEGORIA: 35 - Temas especiais que merecem enciclopédias próprias
+TEMPO: 1 dia
+RISCO: alto
+EXIGE: ferramenta de cavar, estacas, corda, lona limpa, água e sabão
+REVISAO: 2026-11
+PALAVRAS-CHAVE: saneamento, latrina, fossa, esgoto, fezes, água, sabão
+==============================================================================
+
+OBJETIVO
+--------
+Montar um sistema mínimo que mantenha fezes e resíduos longe da água
+que se bebe e das mãos.
+QUANDO USAR
+-----------
+Quando a rede de esgoto ou a latrina foi destruída.
+Quando não há tratamento e as fezes ficam a céu aberto.
+Quando há casos de diarreia, cólera ou disenteria no abrigo.
+NAO USE QUANDO
+--------------
+Não reconstrua a rede de esgoto da cidade sem equipe e autorização.
+Este texto ensina só o sistema mínimo para casa ou grupo pequeno.
+Não escave onde passam cabos, tubos ou galerias enterradas sem saber
+onde ficam, nem onde houver cheiro de combustível ou solvente no solo.
+MATERIAIS
+---------
+- Espada, pá ou enxada para cavar.
+- Estacas e corda para demarcar o terreno.
+- Lona ou saco limpo para forrar a fossa (substituição: tijolo ou pedra).
+- Madeira, tijolo ou palha para fechar a cabine.
+- Terra, cinza ou cal para cobrir as fezes.
+- Balde, garrafa furada ou torneira para lavar as mãos.
+- Sabão ou cinza (substituição: areia e água).
+- Papel, pano ou folhas para higiene.
+- Balde com tampa para recolher resíduos.
+PROCEDIMENTO
+------------
+1. Escolha o ponto mais baixo do terreno, a favor do vento.
+2. Marque a fossa a aproximadamente 30 metros ou mais da fonte de água,
+   do poço ou da cisterna, sempre morro abaixo deles.
+3. Confirme que não passam cabos, tubos ou galerias enterradas no ponto
+   marcado.
+4. Cave um buraco de aproximadamente 1,5 metro de profundidade e 1 metro
+   de largura para até cinco pessoas.
+5. Forre as paredes com tijolo, pedra, madeira ou lona para não desmoronar.
+6. Deixe um tubo de ventilação do fundo até acima do solo, com tela
+   na ponta.
+7. Monte a cabine sobre o buraco com madeira, lona ou palha, com porta.
+8. Abra na tampa um orifício que despeje as fezes dentro do buraco.
+9. Cubra com tampa firme, sem deixar o buraco exposto.
+10. Jogue terra, cinza ou cal sobre as fezes depois de cada uso.
+11. Mantenha a cabine arejada pelo tubo de ventilação.
+12. Abra uma vala rasa de desvio ao redor da fossa para a chuva não
+    escorrer para a água.
+13. Instale o lavatório: fure um balde, encha com água e pendure sabão
+    ou cinza ao lado.
+14. Cave uma vala separada para lixo orgânico, a aproximadamente 30
+    metros da água e da fossa.
+15. Enterre restos de comida e folhas; guarde plástico e metal para
+    recolha, sem queimar dentro de casa.
+16. Abra valas rasas ao redor das barracas para a água da chuva não
+    empocar perto da cozinha.
+17. Coe e ferva toda a água de beber antes de consumir (veja 01-001).
+ATENCAO
+-------
+Saneamento inseguro transmite cólera, disenteria, febre tifoide e vermes
+intestinais; a OMS atribui centenas de milhares de mortes por ano ao tema.
+Ferver a água não remove químico, metal ou agrotóxico: com cheiro de
+combustível ou solvente, não beba e busque outra fonte. Uma fossa mal
+localizada contamina o poço e a doença aparece dias depois, sem aviso.
+Não escave onde passam cabos ou tubos enterrados: há risco de choque.
+Não desça na fossa; se desmoronar, chame ajuda. Afaste crianças e animais
+até a tampa estar firme. Com diarreia com sangue, vômito ou olhos fundos,
+busque atendimento.
+SE NAO TIVER
+------------
+- Sem pá ou espada, use enxada, pico ou ferramenta de jardim.
+- Sem nada para cavar, use um balde com tampa e leve o conteúdo a um
+  ponto designado, até conseguir abrir a fossa.
+- Sem sabão, esfregue as mãos com cinza e água ou areia e água; água
+  sozinha não basta.
+- Sem lona ou tijolo, forre com sacos limpos e reforce as bordas com
+  terra; se desmoronar, mude de ponto.
+- Sem material para cabine, não deixe o buraco aberto: use o balde tampado.
+COMO SABER QUE DEU CERTO
+------------------------
+A fossa está tampada, sem cheiro forte e sem receber água da chuva.
+A fonte fica acima e afastada da fossa, sem escorrimento que as ligue.
+Há água e sabão ou cinza no lavatório, usados após cada ida à latrina.
+FONTES
+------
+Ficha informativa da OMS sobre saneamento, 5 de novembro de 2026.
+Ficha informativa da OMS sobre doença diarreica, 7 de março de 2024.
+Princípios consolidados de água, saneamento e higiene em emergências.
+Distâncias aproximadas; variam com o solo. Resumo operacional, sem
+substituir treinamento nem orientação local.

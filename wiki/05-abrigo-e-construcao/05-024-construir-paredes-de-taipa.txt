@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 05-024
+TITULO: Como construir paredes de taipa
+CATEGORIA: 05 - Abrigo, construção e habitação
+TEMPO: 8 horas
+RISCO: medio
+EXIGE: terra com barro, tábuas para fôrma, socador, terreno firme
+REVISAO: 2026-11
+PALAVRAS-CHAVE: taipa, parede, barro, terra socada, construção, abrigo
+==============================================================================
+
+OBJETIVO
+--------
+Levantar uma parede firme de terra socada para um abrigo simples.
+
+QUANDO USAR
+-----------
+Quando precisa de parede forte sem tijolo nem cimento.
+Quando o abrigo precisa durar meses em vez de dias.
+
+NAO USE QUANDO
+--------------
+Em terreno que alaga, brejo ou base que afunda.
+Sem ajuda: a fôrma e o socamento exigem mais de uma pessoa.
+
+MATERIAIS
+---------
+- Terra com barro e areia, úmida sem escorrer (terra de formigueiro).
+- Tábuas retas para a fôrma dos dois lados (portas velhas).
+- Sarrafos, corda ou arame para travar a fôrma (cipó).
+- Socador de madeira pesado, o pilão (tora com cabo).
+- Pedras para a base, lona ou palha para cobrir o topo.
+
+PROCEDIMENTO
+------------
+1. Escolha terreno alto, firme e seco para a parede.
+2. Cave uma vala rasa e encha com pedra para a base.
+3. Monte as tábuas em pé dos dois lados da parede.
+4. Trave as fôrmas com sarrafos para não abrir ao socar.
+5. Misture terra com barro e areia até ficar úmida e firme.
+6. Despeje uma camada de aproximadamente 15 cm na fôrma.
+7. Soque a camada com o pilão até ficar dura e sem som oco.
+8. Repita camada por camada até encher a fôrma até o topo.
+9. Desmonte a fôrma e monte adiante no trecho seguinte.
+10. Cubra o topo com lona ou palha contra a chuva.
+11. Deixe secar ao vento por vários dias antes de usar.
+
+ATENCAO
+-------
+Parede sem base de pedra puxa umidade e desmancha por baixo.
+Fôrma mal travada abre no socamento e a terra cai de golpe.
+Terra encharcada racha ao secar; terra seca demais esfarela.
+Parede fresca desaba com chuva forte: cubra sempre o topo.
+Se a parede inclinar ou trincar fundo, desmonte e recomece.
+
+SE NAO TIVER
+------------
+Sem tábuas, use portas velhas, troncos rachados ou esteiras duras.
+Sem pilão, soque com tora grossa com cabo amarrado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A parede fica dura ao toque e não esfarela com a unha.
+A faca risca sem afundar e o som ao bater é seco e firme.
+
+FONTES
+------
+Prática consolidada de construção com terra socada
+(referência: Embrapa e manual militar de sobrevivência civil).

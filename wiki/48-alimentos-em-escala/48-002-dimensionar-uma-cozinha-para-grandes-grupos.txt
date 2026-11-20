@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 48-002
+TITULO: Como dimensionar uma cozinha para grandes grupos
+CATEGORIA: 48 - Produção de alimentos em escala comunitária
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: caderno, fita métrica, número de pessoas e cardápio
+REVISAO: 2026-11
+PALAVRAS-CHAVE: cozinha, grupos, capacidade, fogão, água, higiene
+==============================================================================
+
+OBJETIVO
+---------
+Calcular espaço, equipamentos e equipe para alimentar um grupo definido.
+
+QUANDO USAR
+-----------
+Quando vai cozinhar para mais de 50 pessoas de uma vez.
+Quando precisa saber quantos fogões e panelas são necessários.
+Quando monta cozinha em abrigo, escola, acampamento ou evento.
+Quando o espaço é pequeno e precisa ser bem aproveitado.
+Quando o cardápio exige cozimento longo ou muito preparo.
+
+NAO USE QUANDO
+--------------
+Não use para linha de produção industrial com esteiras ou fornos túnel.
+Não use para substituir norma sanitária local ou projeto de engenheiro.
+Se não houver água potável suficiente, resolva isso antes de continuar.
+
+MATERIAIS
+---------
+- Caderno e caneta (ou papel e lápis).
+- Fita métrica (ou barbante medido com régua).
+- Calculadora (ou papel para fazer as contas).
+- Lista do número de pessoas por refeição.
+- Cardápio com o tempo de cozimento de cada prato.
+- Dados da fonte de água e do combustível disponíveis.
+
+PROCEDIMENTO
+------------
+1. Escreva quantas pessoas comem em cada refeição do dia.
+2. Some café, almoço e jantar para obter o total de refeições.
+3. Multiplique as refeições por aproximadamente 3 litros de água por pessoa.
+4. Some a água de cozimento e a de higienização ao total do passo 3.
+5. Meça o comprimento e a largura do espaço com a fita métrica.
+6. Multiplique comprimento por largura e anote a área em metros quadrados.
+7. Divida o espaço em áreas de recebimento, lavagem, preparo e cozimento.
+8. Reserve um lugar só para distribuir a comida pronta.
+9. Separe o fluxo do alimento cru do fluxo do alimento pronto.
+10. Escreva em quantos minutos a comida será servida no horário de pico.
+11. Divida o total de pratos pelos minutos para achar pratos por minuto.
+12. Conte quantas porções cabem em cada panela que você tem.
+13. Divida os pratos pelas porções de cada panela para contar panelas.
+14. Some o tempo de cozimento dos pratos e ajuste as bocas do fogão.
+15. Anote uma pessoa para lavar, outra para preparar e outra para cozinhar.
+16. Aumente a equipe se o tempo de preparo passar do tempo disponível.
+17. Confira se sobra espaço entre bancadas, fogão e área de água.
+
+ATENCAO
+-------
+Cozinha superlotada aumenta o risco de intoxicação em massa.
+Fogo e gás em ambiente fechado geram monóxido de carbono: ventile sempre.
+Nunca cozinhe em escala grande sem água potável em quantidade suficiente.
+Mantenha alimento cru separado do pronto para evitar contaminação cruzada.
+Panelas muito cheias transbordam, apagam o fogo e causam queimaduras.
+Comida em panela grande pode ficar crua no centro e causar doença.
+Pare e reduza o número de refeições se faltar equipe, água ou combustível.
+
+SE NAO TIVER
+------------
+Sem fita métrica, meça com passos ou barbante e marque o valor aproximado.
+Sem calculadora, faça as contas no papel, uma conta por linha.
+Sem fogão suficiente, cozinhe em lotes e mantenha a comida quente.
+Sem água corrente, use recipientes com tampa e troque a água com frequência.
+Com pouca equipe, reduza o cardápio a pratos de uma única panela.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os números anotados cabem no espaço medido.
+Todas as refeições saem no horário previsto, sem fila de panela.
+O alimento não fica cru no centro da panela.
+
+FONTES
+------
+Prática consolidada de planejamento de cozinhas coletivas e de emergência.
+Referência institucional: Anvisa, OMS e manual humanitário Sphere.
+Os documentos originais não foram acessados nesta redação.
+Confirme a norma sanitária local antes de aplicar.
+Este texto é um resumo operacional e não substitui treinamento.

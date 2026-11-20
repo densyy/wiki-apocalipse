@@ -1,0 +1,92 @@
+==============================================================================
+CODIGO: 13-026
+TITULO: Como identificar minerais comuns
+CATEGORIA: 13 - Química e conhecimentos científicos aplicados
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: amostra, lupa, placa de porcelana sem esmalte, faca, unha, vidro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: mineral, dureza, escala de Mohs, risco, quartzo, galena
+==============================================================================
+
+OBJETIVO
+---------
+Separe e nomeie minerais comuns com testes de dureza, risco e brilho.
+
+QUANDO USAR
+-----------
+Achei uma pedra brilhante e quero saber se é quartzo ou pirita.
+Preciso separar minérios suspeitos em área de mina abandonada.
+Quero escolher material para construção ou para acender fogo com sílex.
+Suspeito que a amostra seja tóxica e preciso decidir como manusear.
+
+NAO USE QUANDO
+--------------
+Se o resultado decidir venda ou compra cara, procure um laboratório.
+Quando a amostra sai de mina com pó solto ou odor: não manuseie; afaste-se.
+
+MATERIAIS
+---------
+- Amostra do mineral a identificar.
+- Placa de porcelana sem esmalte (fundo de cerâmica sem vidrado).
+- Faca de aço ou chave (dureza aproximada 5,5).
+- Moeda de cobre (dureza aproximada 3,5).
+- Unha (dureza aproximada 2,5).
+- Pedaço de vidro (dureza aproximada 5,5).
+- Lupa de bolso (opcional).
+- Luva de pano e máscara contra pó (para amostra suspeita).
+- Escova e água para limpar a amostra.
+
+PROCEDIMENTO
+------------
+1. Trabalhe em local ventilado; com amostra empoeirada, use luva e máscara.
+2. Limpe a amostra com água e escova e seque antes de testar.
+3. Observe a cor em boa luz e anote; não confie só na cor.
+4. Esfregue a amostra na placa e anote a cor do risco (pó deixado).
+5. Classifique o brilho: metálico (como metal) ou não metálico.
+6. Raspe com a unha: se riscar, a dureza é menor que aproximadamente 2,5.
+7. Raspe com a moeda de cobre: se riscar, dureza é aproximadamente 3,5.
+8. Tente riscar o vidro com a amostra, com cuidado.
+9. Se a amostra riscar o vidro, sua dureza passa de aproximadamente 5,5.
+10. Passe a faca na amostra e veja se ela risca.
+11. Se a faca riscar, a dureza fica abaixo de aproximadamente 5,5.
+12. Observe como a amostra quebra.
+13. Faces planas indicam clivagem; faces irregulares indicam fratura.
+14. Anote cor, risco, brilho, dureza e clivagem antes de comparar.
+15. Compare o conjunto com a tabela de referência do FONTES.
+16. Se restar dúvida, pare e trate a amostra como desconhecida.
+
+ATENCAO
+-------
+A cor engana: a mesma espécie pode ser branca, cinza ou preta.
+O risco (pó) costuma ser mais estável que a cor da superfície.
+O teste de risco só vale para mineral mais macio que a placa.
+Acima de aproximadamente 7 de dureza, o mineral não deixa marca.
+Nunca prove nem inale o pó: galena contém chumbo e cinábrio, mercúrio.
+Arsenopirita e realgar contêm arsênio; evite pó e fumaça.
+Não esmerile, corte nem queime amostra desconhecida.
+Pó e fumaça são as principais vias de exposição.
+Este método separa grupos comuns, não substitui análise química.
+Para certeza, é preciso difração de raios X ou análise em laboratório.
+Com odor, pó solto ou amostra de mina antiga, pare e afaste-se.
+
+SE NAO TIVER
+------------
+- Sem placa de porcelana, use o fundo sem vidrado de prato de cerâmica.
+- Sem moeda de cobre, use moeda comum e marque a dureza como aproximada.
+- Sem lupa, observe em boa luz; não teste o risco em mineral muito duro.
+- Sem máscara, não esfregue amostra que solta pó; embale e afaste.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- Risco vermelho na placa e cor cinza na amostra: hematita.
+- A amostra risca o vidro, não risca com unha e quebra irregular: quartzo.
+- Pirita parece ouro, mas deixa risco esverdeado-escuro.
+
+FONTES
+------
+Serviço Geológico dos Estados Unidos (USGS) e Serviço Geológico de Utah:
+propriedades físicas usadas na identificação de minerais.
+National Park Service: escala Mohs e objetos comuns de comparação.
+Washington Geological Survey: guia de minerais perigosos.
+Universidade Tulane: identificação sistemática por brilho e propriedades.

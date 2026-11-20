@@ -1,0 +1,84 @@
+==============================================================================
+CODIGO: 67-004
+TITULO: Como construir mecanismos automáticos utilizando molas
+CATEGORIA: 67 - Robótica, automação e controle
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: mola de ratoeira, base, braço, gatilho, óculos de proteção
+REVISAO: 2026-11
+PALAVRAS-CHAVE: mola, gatilho, automação, energia, ratoeira, braço
+==============================================================================
+
+OBJETIVO
+--------
+Montar um mecanismo que, com um leve toque no gatilho, libera a energia
+de uma mola e executa uma ação sozinho.
+
+QUANDO USAR
+-----------
+Quando precisar de um movimento único e rápido sem motor.
+Quando quiser acionar algo com um toque leve de dedo.
+Para mover um braço, fechar uma garra ou puxar uma linha curta.
+Em protótipos de automação onde não há eletricidade.
+
+NAO USE QUANDO
+--------------
+Quando o movimento precisa durar ou se repetir: a mola atua uma vez.
+Quando a carga for pesada ou exigir força controlada.
+Quando crianças forem manusear o mecanismo sem supervisão.
+
+MATERIAIS
+---------
+- Mola de torção de ratoeira (ou mola de tensor de bicicleta).
+- Base de madeira firme, maior que a mola.
+- Braço leve de madeira ou palito de madeira.
+- Parafuso com arruela e porca para o eixo da mola.
+- Gatilho de arame dobrado ou de palito preso com fita adesiva.
+- Linha resistente ou barbante fino.
+- Óculos de proteção e luvas.
+
+PROCEDIMENTO
+------------
+1. Coloque os óculos de proteção antes de manusear a mola.
+2. Fixe a base de madeira sobre a mesa com grampos ou peso.
+3. Aparafuse o eixo da mola no centro da base, com arruela e porca.
+4. Enfie o braço no eixo e gire até encostar na mola.
+5. Prenda uma ponta da mola na base e a outra no braço.
+6. Dobre o arame do gatilho em forma de gancho pequeno.
+7. Prenda o gatilho na base, perto da ponta do braço.
+8. Gire o braço devagar até tensionar a mola contra o gancho.
+9. Encare o gancho no braço para travar a energia.
+10. Amarre a linha na ponta livre do braço.
+11. Aponte o braço para longe de pessoas antes de soltar.
+12. Empurre o gatilho com o dedo para liberar o braço.
+
+ATENCAO
+-------
+A mola guarda energia mesmo parada: se escapar, o braço volta com força.
+Nunca aponte o braço armado para rosto, dedos ou outras pessoas.
+Use óculos de proteção; uma mola que estala pode ferir os olhos.
+Prenda bem a porca do eixo: se o braço sair, a mola chicoteia.
+Não use mola enferrujada, rachada ou de origem desconhecida.
+Se ouvir estalo ou vir a mola deformar, pare e desarme com cuidado.
+
+SE NAO TIVER
+------------
+Sem mola de ratoeira, use um elástico firme preso nas duas pontas.
+O elástico dá menos força e se desgasta; troque quando ficar frouxo.
+Sem arame, dobre um clipe de metal para fazer o gancho do gatilho.
+Não improvise com mola de colchão ou de máquina: a tensão é imprevisível.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ao tocar o gatilho, o braço dispara rápido e para sozinho no fim do curso.
+A linha presa ao braço puxa o objeto sem soltar da amarração.
+O mecanismo volta ao descanso sem quebrar nem soltar parafusos.
+
+FONTES
+------
+Extensão universitária da University of New Hampshire: princípios de
+energia em carrinhos de ratoeira, com a mola como reserva de energia.
+Centro Aeroespacial Alemão (DLR): junta robótica com mola linear.
+Congresso IEEE IROS: limitador de torque com mola e came para robôs.
+Prática consolidada de robótica educacional e engenharia amadora;
+resumo operacional, não substitui treinamento nem as normas da mola.

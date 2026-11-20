@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 64-016
+TITULO: Como compreender testes rápidos de doenças infecciosas
+CATEGORIA: 64 - Laboratório, diagnóstico e análises
+TEMPO: 25 minutos
+RISCO: medio
+EXIGE: resultado do teste, bula do kit, data de início dos sintomas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: teste rápido, exame, antígeno, falso negativo
+==============================================================================
+
+OBJETIVO
+--------
+Interpretar um teste rápido sem transformar probabilidade em certeza.
+
+QUANDO USAR
+-----------
+Ao receber um resultado e precisar decidir o que fazer.
+Quando o teste deu negativo, mas sintomas ou exposição continuam.
+Quando o teste deu positivo e é preciso saber se confirmar.
+Quando há dúvida sobre o que o teste detecta.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+Nao use esta leitura para recusar tratamento ou isolamento.
+
+MATERIAIS
+---------
+- Resultado do teste com a data da coleta.
+- Bula do fabricante com sensibilidade e janela imunológica.
+- Registro dos sintomas e da data de início.
+
+PROCEDIMENTO
+------------
+1. Confira a linha de controle; se faltar, repita com kit novo.
+2. Identifique o alvo na bula: antígeno indica infecção ativa.
+3. Entenda: anticorpo é resposta do corpo e demora a aparecer.
+4. Entenda: ácido nucleico é material genético, mais preciso.
+5. Leia a sensibilidade: percentual de doentes que o teste acerta.
+6. Sensibilidade baixa quer dizer muitos falsos negativos.
+7. Leia a especificidade: percentual de saudáveis que o teste acerta.
+8. Especificidade baixa quer dizer muitos falsos positivos.
+9. Anote a data de início dos sintomas ou da exposição.
+10. Entenda a janela imunológica: tempo até anticorpos detectáveis.
+11. Repita após aproximadamente 30 dias se a suspeita persistir.
+12. Compare resultado, sintomas e exposição antes de decidir.
+13. Confirme com método de referência quando a decisão for grave.
+
+ATENCAO
+-------
+Teste rápido não é diagnóstico definitivo mesmo com kit aprovado.
+Negativo não afasta doença se há sintomas ou exposição recente.
+Positivo pode ser falso se a doença for rara na região.
+Não suspenda isolamento nem recuse atendimento por causa do teste.
+
+SE NAO TIVER
+------------
+Sem a bula, não adivinhe sensibilidade: pergunte ao profissional.
+Sem teste, a decisão cabe à avaliação clínica; não invente resultado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A linha de controle apareceu e o resultado foi lido no tempo da bula.
+O resultado foi comparado com sintomas, exposição e janela imunológica.
+
+FONTES
+------
+Ministério da Saúde: guia de testes rápidos e Nota Técnica 16/2024.
+OMS: testes rápidos de diagnóstico; CDC: testes de influenza e COVID-19.

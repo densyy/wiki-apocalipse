@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 45-018
+TITULO: Como organizar postos de higiene comunitários
+CATEGORIA: 45 - Engenharia de saneamento e saúde pública
+TEMPO: 3 horas
+RISCO: alto
+EXIGE: água limpa, sabão, cloro, baldes, estacas, corda, equipe
+REVISAO: 2026-11
+PALAVRAS-CHAVE: higiene, posto, lavar as mãos, latrina, água, cloro, lixo
+==============================================================================
+
+OBJETIVO
+--------
+Montar pontos de higiene que reduzam doenças em abrigo ou comunidade.
+
+QUANDO USAR
+-----------
+Depois de enchente, seca ou deslocamento de moradores.
+Em abrigo, acampamento ou aglomerado de casas sem saneamento.
+Quando o posto de saúde fechar ou ficar longe.
+Quando aparecerem casos de diarreia ou vômito no grupo.
+
+NAO USE QUANDO
+--------------
+Não substitui tratamento de água, latrina segura nem atendimento médico.
+Se houver surto confirmado, avise a autoridade de saúde no mesmo dia.
+Não use ponto improvisado onde a água possa entrar ou transbordar.
+
+MATERIAIS
+---------
+- Baldes ou recipientes com tampa para água (garrafas cortadas).
+- Sabão ou detergente (cinza fria ou areia, se faltar sabão).
+- Cloro ou água sanitária sem perfume para tratar a água.
+- Estacas, corda, lona ou chapas para delimitar e cobrir.
+- Pá para cavar a fossa e o buraco do lixo.
+- Terra seca, cinza ou serragem para cobrir fezes.
+- Papel, carvão e caderno para placas e registro de casos.
+
+PROCEDIMENTO
+------------
+1. Escolha terreno alto, que não alague e com escoamento de água.
+2. Fique a aproximadamente 30 metros de poços e fontes de beber.
+3. Coloque os pontos abaixo do nível das casas e das fontes.
+4. Demarque com estacas e corda quatro áreas separadas.
+5. Reserve uma área para lavar as mãos, perto da cozinha.
+6. Reserve outra para latrinas, separada da água e do comer.
+7. Reserve uma para banho e lava-roupas, com escoamento.
+8. Reserve a última para lixo, longe das outras e ao vento.
+9. Monte a estação de mãos: balde com furo, sabão e bacia.
+10. Faça o furo escorrer para um buraco com pedras, não para a água.
+11. Instale a latrina com assento e tampa que feche por peso.
+12. Deixe terra seca ou cinza ao lado para cobrir após cada uso.
+13. Cave o buraco do lixo e cubra com terra após o descarte.
+14. Guarde vidro e metal cortante em recipiente fechado à parte.
+15. Trate a água de beber com cloro seguindo o rótulo do produto.
+16. Escreva placas indicando mãos, latrina, banho e lixo.
+17. Nomeie um responsável e um substituto para cada área.
+18. Faça escala de limpeza com horário e nome de cada pessoa.
+19. Distribua sabão e água em cada ponto antes de liberar o uso.
+20. Explique a cada pessoa onde fica o ponto e como usar.
+
+ATENCAO
+-------
+Fezes e água suja espalham cólera, disenteria e febre tifóide.
+O erro mais comum é colocar a latrina perto da água de beber.
+Mãos sem sabão contaminam comida, água e outras pessoas.
+Não misture cloro com outros produtos: solta gás que sufoca.
+Cloro em excesso queima pele e irrita olhos e garganta.
+Sem drenagem, a água parada cria criadouros e espalha doença.
+Pare o uso se houver vazamento para poço ou transbordo.
+Procure a autoridade de saúde se alguém adoecer após usar o ponto.
+Não improvise remédio nem diagnóstico para compensar falta de material.
+
+SE NAO TIVER
+------------
+Sem balde, use garrafa plástica furada presa a uma estaca.
+Sem sabão, use cinza fria ou areia para esfregar as mãos.
+Sem cloro, ferve a água antes de distribuir e mantenha tampada.
+Sem pá, use enxada ou ferramenta de jardim para cavar.
+Sem corda, marque as áreas com pedras, galhos ou cal.
+Sem lona, use palha ou folhas para cobrir a latrina.
+Não pule a lavagem das mãos para economizar água.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada ponto tem placa, sabão e água disponível no horário.
+A latrina tem tampa que fecha e não entra luz pelas laterais.
+Não há fezes expostas, lixo aberto nem água parada no entorno.
+A escala de limpeza está preenchida com nomes e horários.
+As pessoas usam os pontos sem precisar perguntar onde ficam.
+
+FONTES
+------
+Manual multiserviço de sobrevivência FM 21-76-1 (capítulo Saúde e
+Higiene, 1999), consultado para distâncias e regras de higiene.
+Prática consolidada de água, saneamento e higiene em emergências
+(referências: OMS, UNICEF e Sphere/IFRC). Distâncias e uso de
+cloro aqui são regras práticas; confirme com a autoridade local.

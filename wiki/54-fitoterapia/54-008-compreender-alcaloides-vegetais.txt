@@ -1,0 +1,81 @@
+==============================================================================
+CODIGO: 54-008
+TITULO: Como compreender alcaloides vegetais
+CATEGORIA: 54 - Fitoterapia e plantas medicinais
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: guia impresso de plantas, caderno, boa luz
+REVISAO: 2026-11
+PALAVRAS-CHAVE: alcaloide, toxica, amargo, dose, veneno, nitrogenio
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer o que é alcaloide, onde aparece e por que pode matar.
+
+QUANDO USAR
+-----------
+Ao colher planta para chá ou remédio caseiro.
+Ao ler rótulo de produto à base de plantas.
+Ao cuidar de quem tomou chá de planta desconhecida.
+Ao estudar espécie nova antes de qualquer uso.
+
+NAO USE QUANDO
+--------------
+Não use para liberar planta sem identificação segura.
+Não use para calcular dose de planta tóxica.
+Não substitua orientação de saúde por este texto.
+
+MATERIAIS
+---------
+- Guia impresso de plantas da região.
+- Caderno e lápis.
+- Lupa ou boa luz para ver folhas e sementes.
+- Luvas para manusear planta desconhecida.
+
+PROCEDIMENTO
+------------
+1. Identifique a planta pelo nome científico no guia.
+2. Confirme o nome em uma segunda fonte impressa.
+3. Anote a família botânica e o nome popular.
+4. Ache no guia a parte com alcaloides.
+5. Anote se é folha, semente, raiz, casca ou fruto.
+6. Anote o nome do alcaloide e a classe, se houver.
+7. Leia: alcaloide verdadeiro tem nitrogênio no anel;
+   protoalcaloide tem nitrogênio fora dele; pseudoalcaloide
+   vem de outro caminho, como a cafeína.
+8. Compare dose medicinal e dose tóxica só se o guia
+   trouxer os dois números; se faltar um, evite a planta.
+9. Anote os sinais de intoxicação descritos no guia.
+10. Decida por escrito: usar, evitar ou pedir orientação.
+
+ATENCAO
+-------
+Vários alcaloides matam em dose pequena.
+Estricnina, aconitina e colchicina podem ser fatais.
+Dose segura e dose venenosa podem ser muito próximas.
+A mesma planta muda de teor com a estação e a parte usada.
+Nunca prove a planta para testar o amargor.
+Pare o uso e busque atendimento se houver tremor, vômito,
+confusão, dormência ou dificuldade de respirar.
+Crianças e gestantes são mais sensíveis.
+
+SE NAO TIVER
+------------
+Sem guia impresso, não passe para o uso da planta.
+Anote o que observou e espere uma fonte confiável.
+Na dúvida, a instrução é não consumir.
+Um nome popular pode valer para duas espécies.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você diz o nome da planta, o alcaloide e a parte usada.
+Você distingue dose medicinal de dose tóxica.
+Você registrou um sinal de intoxicação para observar.
+
+FONTES
+------
+Prática consolidada de farmacognosia e botânica medicinal.
+Conceito e classes de alcaloides da farmacognosia clássica.
+Exemplos de alcaloides tóxicos e medicinais de manuais de
+farmacologia e toxicologia vegetal.

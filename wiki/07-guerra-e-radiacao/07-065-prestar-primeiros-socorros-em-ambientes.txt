@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 07-065
+TITULO: Como prestar primeiros socorros em ambientes de guerra
+CATEGORIA: 07 - Guerra, radiação e catástrofes nucleares
+TEMPO: 20 minutos
+RISCO: critico
+EXIGE: local seguro, pano limpo, torniquete se houver
+REVISAO: 2026-11
+PALAVRAS-CHAVE: sangramento, torniquete, ferida, desmaio, choque, guerra
+==============================================================================
+
+OBJETIVO
+--------
+Estabilize a vítima até chegar a um lugar seguro e à ajuda médica.
+
+QUANDO USAR
+-----------
+Quando houver tiroteio, explosão ou queda de prédio por perto.
+Quando alguém sangra muito depois de ferimento por estilhaço.
+Quando a pessoa está inconsciente ou respira com dificuldade.
+Quando o socorro médico vai demorar e é preciso agir agora.
+Quando é preciso decidir o que tratar primeiro em várias vítimas.
+
+NAO USE QUANDO
+--------------
+Não entre em área sob tiroteio, minas ou prédio cedendo para socorrer.
+Não use estes passos em exposição química, biológica ou por agente nervoso.
+Não mova a vítima com suspeita de fratura na coluna, salvo perigo de vida.
+
+MATERIAIS
+---------
+- Pano limpo ou gaze (pedaço de roupa limpa).
+- Torniquete pronto (faixa larga com bastão, apenas se treinado).
+- Luvas (pano limpo entre a mão e a ferida).
+- Cobertor ou casaco para aquecer.
+- Rádio ou celular para pedir ajuda, se houver sinal.
+
+PROCEDIMENTO
+------------
+1. Garanta sua segurança antes de chegar perto.
+2. Afaste a vítima do fogo ou de prédio instável, se puder sem risco.
+3. Peça ajuda e informe o local exato do ferimento.
+4. Observe sangue jorrando, poça de sangue ou curativo encharcado.
+5. Deite a vítima de costas, se não houver suspeita de fratura na coluna.
+6. Pressione a ferida com pano limpo sem retirar o pano se encharcar.
+7. Mantenha a pressão firme por aproximadamente 3 minutos sem soltar.
+8. Se o sangue continuar, coloque outro pano sobre o primeiro e pressione.
+9. Aplique torniquete no braço ou perna se a pressão não parar o sangue.
+10. Aperte até o sangramento parar e o pulso abaixo do torniquete sumir.
+11. Anote a hora e nunca afrouxe o torniquete depois de colocado.
+12. Para pescoço, axila ou virilha, encha a ferida com pano e pressione.
+13. Não retire faca, estilhaço ou objeto preso na ferida.
+14. Abra a via aérea (passagem do ar): incline a testa e puxe o queixo.
+15. Se houver dor no pescoço, segure a cabeça imóvel e não incline.
+16. Retire da boca só o que estiver visível e solto.
+17. Se não responde mas respira, coloque a vítima de lado.
+18. Cubra com pano limpo ferida no peito que suga ar ao respirar.
+19. Não dê água nem comida a quem está inconsciente ou em choque.
+20. Cubra a vítima com casaco ou cobertor para evitar frio.
+21. Imobilize membro deformado sem tentar endireitar.
+22. Leve ao hospital e informe o que foi feito e a hora do torniquete.
+
+ATENCAO
+-------
+Sua segurança vem primeiro: nunca entre em fogo cruzado para socorrer.
+O torniquete corta o sangue e pode custar o membro; use só em risco de vida.
+Depois de apertar o torniquete, nunca o afrouxe na rua.
+Não retire objeto encravado: ele pode estar tampando a ferida.
+Com suspeita de coluna, mantenha a cabeça imóvel e espere ajuda.
+Se a respiração piorar ao cobrir o peito, retire o pano e peça ajuda.
+Não dê água a quem está inconsciente: pode sufocar.
+Este texto não cobre feridas por químico, agente nervoso ou radiação.
+Use pano entre a mão e o sangue e lave as mãos depois.
+
+SE NAO TIVER
+------------
+Sem torniquete, pressione a ferida com pano limpo sem parar.
+Sem pano limpo, use a peça de roupa mais limpa disponível.
+Sem luvas, use um pano entre a mão e o sangue e lave as mãos depois.
+Sem maca, arraste pelo casaco sem puxar a cabeça se houver perigo no local.
+Sem água limpa, não lave a ferida: apenas cubra com pano limpo.
+Sem rádio, mande alguém a pé pedir socorro.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O sangue parou de escorrer e o pano permanece seco.
+Com torniquete, o pulso abaixo dele some e a ferida para de sangrar.
+A vítima responde a perguntas e respira sem ruído alto.
+A pele fica mais corada e a pessoa para de suar frio.
+A vítima chegou ao hospital com a hora do torniquete anotada.
+
+FONTES
+------
+Diretrizes clínicas de Tactical Combat Casualty Care do CoTCCC, 2026.
+Guia Primeiros socorros em emergência, Cruz Vermelha Internacional, 2025.
+Guia de bolso de primeiros socorros comunitários, OMS, 2025.
+Diretrizes internacionais de primeiros socorros da IFRC, 2025.
+Guia da Cruz Vermelha Internacional sobre torniquetes, 2023.

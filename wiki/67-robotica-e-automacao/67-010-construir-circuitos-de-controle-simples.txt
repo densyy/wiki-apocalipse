@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 67-010
+TITULO: Como construir circuitos de controle simples
+CATEGORIA: 67 - Robótica, automação e controle
+TEMPO: 45 minutos
+RISCO: medio
+EXIGE: bateria 9 V, transistor, relé 9 V, diodo, resistores, sensor, solda
+REVISAO: 2026-11
+PALAVRAS-CHAVE: controle, transistor, relé, sensor, chave, automação
+==============================================================================
+
+OBJETIVO
+--------
+Montar um circuito que liga e desliga uma carga quando um sensor muda.
+
+QUANDO USAR
+-----------
+Quando a luz ou o calor deve acionar algo sem ninguém por perto.
+Quando um sinal fraco precisa comandar uma carga maior.
+
+NAO USE QUANDO
+--------------
+Nunca ligue à rede de 110 ou 220 V. Use só bateria de baixa tensão.
+Não comande aquecedor, motor forte nem equipamento de segurança.
+Não substitua projeto de engenheiro nem norma elétrica.
+
+MATERIAIS
+---------
+- Bateria de 9 V com clip.
+- Transistor NPN, relé de 9 V e diodo comum 1N4007.
+- Resistor de 1 kΩ, resistor de 10 kΩ e sensor de luz ou calor.
+- Fios, ferro de solda, estanho ou placa de montagem.
+
+PROCEDIMENTO
+------------
+1. Desligue a bateria antes de fazer qualquer ligação.
+2. Ligue o emissor do transistor ao negativo da bateria.
+3. Ligue uma ponta da bobina do relé ao positivo da bateria.
+4. Ligue a outra ponta da bobina ao coletor do transistor.
+5. Soldo o diodo sobre a bobina, com a faixa ao positivo.
+6. Ligue o resistor de 1 kΩ entre a base e o ponto de sinal.
+7. Monte o divisor: sensor ao positivo, resistor de 10 kΩ ao negativo.
+8. Ligue o meio do divisor ao resistor da base.
+9. Ligue a carga aos contatos, conecte a bateria e tape o sensor.
+
+ATENCAO
+-------
+Use só bateria de baixa tensão. Nunca encoste na rede elétrica.
+A bobina gera pico ao desligar; sem o diodo, o transistor queima.
+A faixa do diodo vai no lado positivo da bobina.
+Perto do limite o relé tremeluz; afaste o ponto de disparo.
+Com cheiro de queimado ou faísca, desligue a bateria e pare.
+
+SE NAO TIVER
+------------
+Sem relé, use um LED de baixa corrente como carga de teste.
+Sem solda, use placa de montagem e fios presos por grampos.
+Sem diodo, não ligue a bobina: o transistor queima ao desligar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ao tapar o sensor, o relé clica e os contatos fecham.
+Ao destapar, ele clica de volta e os contatos abrem.
+
+FONTES
+------
+Prática consolidada de eletrônica de baixa tensão, sem documento único.
+Base: "The Art of Electronics" (Horowitz e Hill) e "Lessons in Electric
+Circuits" (Tony Kuphaldt, Open Book Project). Resumo operacional.
+Não substitui treinamento.

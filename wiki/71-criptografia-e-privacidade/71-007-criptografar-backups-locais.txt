@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 71-007
+TITULO: Como criptografar backups locais
+CATEGORIA: 71 - Criptografia, segurança da informação e privacidade
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: ferramenta mantida, frase-senha longa, local seguro para a frase
+REVISAO: 2026-11
+PALAVRAS-CHAVE: backup, criptografia, senha, chave, sigilo, restaurar
+==============================================================================
+
+OBJETIVO
+--------
+Proteger arquivos de backup para que ninguém os leia sem a frase-senha.
+
+QUANDO USAR
+-----------
+Quando o backup fica em disco externo, pendrive ou pasta sincronizada.
+Quando o computador que guarda o backup pode ser perdido ou roubado.
+Quando outras pessoas usam o mesmo computador ou a mesma rede.
+Quando o meio de armazenamento será guardado fora do seu controle.
+Antes de enviar o backup para qualquer serviço de armazenamento.
+
+NAO USE QUANDO
+--------------
+Quando você não consegue guardar a frase-senha com segurança.
+Quando outra pessoa precisar ler o backup sem você e não houver plano
+de acesso combinado.
+Quando o objetivo é apenas esconder o arquivo da visualização casual;
+use permissões de arquivo, não criptografia.
+
+MATERIAIS
+---------
+- Ferramenta de criptografia mantida e confiável (GnuPG, age ou similar).
+- Frase-senha longa e aleatória: 6 palavras ou 20 caracteres no mínimo.
+- Gerenciador de senhas para guardar a frase-senha.
+- Uma segunda cópia da frase-senha em papel, guardada à parte.
+- Pasta com os arquivos de backup originais.
+- Computador de confiança para testar a restauração.
+
+PROCEDIMENTO
+------------
+1. Escolha uma ferramenta de criptografia mantida e conhecida.
+2. Gere uma frase-senha com 6 palavras aleatórias ou 20 caracteres.
+3. Guarde a frase-senha no gerenciador de senhas.
+4. Anote a frase-senha em papel e guarde-a longe do backup.
+5. Reúna os arquivos do backup em uma única pasta.
+6. Compacte a pasta em um único arquivo, se a ferramenta exigir.
+7. Cifre o arquivo com a ferramenta em modo autenticado.
+8. Deixe a ferramenta gerar chave, salt e vetor de inicialização.
+9. Confirme que não houve aviso de configuração fraca.
+10. Anote o nome e a versão da ferramenta usada.
+11. Copie o arquivo cifrado para um segundo local físico.
+12. Decifre uma cópia em pasta temporária e abra os arquivos.
+13. Apague os originais sem criptografia só após o teste funcionar.
+
+ATENCAO
+-------
+Perder a frase-senha significa perder todos os dados do backup para
+sempre; ninguém consegue recuperá-los.
+Não guarde a frase-senha no mesmo lugar do arquivo cifrado.
+A criptografia não protege os arquivos enquanto o computador está
+desbloqueado e o backup está sendo criado.
+Um backup que nunca foi testado na restauração não é um backup.
+Se a ferramenta avisar erro ou falha de integridade, pare e não confie
+no arquivo.
+Mude a frase-senha se houver suspeita de vazamento.
+Não reutilize uma chave ou configuração que a ferramenta tenha gerado
+para outro backup.
+
+SE NAO TIVER
+------------
+Sem ferramenta mantida, não invente cifra própria nem use algoritmo
+antigo e quebrado.
+Sem gerenciador de senhas, use palavras aleatórias longas anotadas em
+papel e guardadas à parte.
+Se o computador não roda a ferramenta, cifre em outro equipamento de
+confiança antes de copiar o backup.
+Sem segundo local físico, o backup ainda tem um único ponto de falha;
+anote essa limitação.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Sem a frase-senha, o arquivo cifrado não mostra conteúdo legível.
+Com a frase-senha correta, a restauração gera arquivos que abrem.
+A ferramenta confirma que a verificação de integridade passou.
+Uma frase-senha errada é recusada pela ferramenta.
+
+FONTES
+------
+NIST SP 800-38D, modo autenticado GCM para cifra em bloco.
+NIST SP 800-57, Recommendation for Key Management.
+OWASP Cryptographic Storage Cheat Sheet: chaves, modos e armazenamento.
+Prática consolidada de segurança da informação; resumo operacional,
+não substitui treinamento.

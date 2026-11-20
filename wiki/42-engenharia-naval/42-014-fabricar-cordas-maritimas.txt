@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 42-014
+TITULO: Como fabricar cordas marítimas
+CATEGORIA: 42 - Engenharia naval e tecnologias marítimas
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: fibra natural, dois pontos fixos, torcedor de madeira, agua
+REVISAO: 2026-11
+PALAVRAS-CHAVE: corda, cordagem, torcer, cânhamo, sisal, maritima, trançar
+==============================================================================
+
+OBJETIVO
+--------
+Fabricar corda de tres cordoes com fibra natural para uso maritimo.
+
+QUANDO USAR
+-----------
+Quando faltar corda para amarrar ou fixar carga no barco.
+Quando ha fibra natural e nao ha corda comercial disponivel.
+
+NAO USE QUANDO
+--------------
+Para sustentar pessoas ou carga critica: nao tem resistencia certificada.
+
+MATERIAIS
+---------
+- Fibra natural longa: cânhamo, sisal, abacá (manila), juta ou algodao.
+- Agua limpa para umedecer levemente a fibra.
+- Dois ganchos ou estacas para prender os cordoes.
+- Torcedor de madeira com furo (ou os proprios dedos).
+- Barbante ou linha para amarrar a ponta final.
+
+PROCEDIMENTO
+------------
+1. Escolha fibra natural longa, sem apodrecimento, mofo ou cortes.
+2. Retire nós e residuos; alinhe os fios no mesmo sentido.
+3. Umedeca a fibra com agua limpa, sem encharcar.
+4. Divida a fibra em tres montes de tamanho igual.
+5. Torca o primeiro monte no sentido horario ate formar cordao firme.
+6. Repita com os outros dois montes, sempre no sentido horario.
+7. Prenda as tres pontas iniciais com um no forte.
+8. Prenda cada uma das outras tres pontas em um gancho separado.
+9. Torca os tres cordoes juntos no sentido anti-horario.
+10. Mantenha os cordoes esticados e separados ate o ponto de encontro.
+11. Desprenda os ganchos ao chegar perto deles e continue torcendo.
+12. Amarre a ponta final com barbante para nao desfiar.
+
+ATENCAO
+-------
+A corda artesanal nao tem carga de trabalho certificada.
+Nao a use para suspender pessoas nem para carga critica.
+Nunca use fibra molhada, mofada ou com cheiro de apodrecimento.
+Torcer fibra com as maos pode causar bolhas e feridas leves.
+Umedeca a fibra e pare se a pele comecar a doer.
+Nao deixe corda sob tensao sem supervisao: se romper, pode ferir.
+
+SE NAO TIVER
+------------
+Sem torcedor, use os dedos ou um bastao com furo.
+Sem fibra natural, use tiras de pano, mas reduza ainda mais a carga.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os tres cordoes aparecem como espirais regulares em toda a corda.
+
+FONTES
+------
+Bohr e Olsen, The ancient art of laying rope (EPL, 2010);
+Hearle, O'Hear e McKenna, Handbook of Fibre Rope Technology (2004);
+manual FM 5-125 do Exercito dos EUA. Resumo operacional.

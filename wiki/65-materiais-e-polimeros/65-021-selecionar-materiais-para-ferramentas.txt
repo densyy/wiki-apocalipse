@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 65-021
+TITULO: Como selecionar materiais para ferramentas
+CATEGORIA: 65 - Engenharia de materiais e polímeros
+TEMPO: 25 minutos
+RISCO: medio
+EXIGE: amostras dos materiais disponíveis, papel, caneta
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ferramenta, material, aço, madeira, dureza, tenacidade
+==============================================================================
+
+OBJETIVO
+--------
+Escolher o material adequado para cada ferramenta antes de fabricá-la.
+
+QUANDO USAR
+-----------
+Quando for fabricar uma ferramenta manual com material improvado.
+Quando o material original falta e é preciso substituí-lo.
+Quando a ferramenta quebra, lasca ou gasta rápido demais.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Papel e caneta para anotar a função e a escolha.
+- Amostras dos materiais disponíveis: aço, madeira e plástico.
+- Uma lima ou pedra áspera para testar dureza por risco.
+
+PROCEDIMENTO
+------------
+1. Anote a função: cortar, golpear, prender ou sustentar peso.
+2. Anote se o esforço é leve, médio ou com impacto.
+3. Separe as amostras por família: metal, madeira ou plástico.
+4. Descarte material que não pode ser trabalhado com as ferramentas.
+5. Compare a dureza (resistência a ser riscado) risando com a lima.
+6. Para aresta de corte, use material mais duro que o material a cortar.
+7. Para golpe, use material tenaz, que absorve impacto sem rachar.
+8. Se houver atrito e calor, prefira aço: o aço comum amolece em
+   aproximadamente 250 graus Celsius e perde o corte.
+9. Teste a amostra em material descartável antes do uso real.
+
+ATENCAO
+-------
+O erro mais comum é escolher apenas o material mais duro.
+Duro e quebradiço racha sob impacto e pode ferir os olhos.
+Dureza alta não é tenacidade, e este guia não testa composição.
+Em lugar úmido ou com sal, seque e cubra o material com óleo.
+Se rachar, esquentar ou soltar fragmentos, pare e procure ajuda.
+
+SE NAO TIVER
+------------
+Sem amostras, observe ferramentas antigas que funcionam na região.
+Sem lima, risque com pedra áspera ou com outro material conhecido.
+Se o único material for inadequado, procure outro ou ajuda.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A ferramenta cumpriu a função no teste sem rachar ou entortar.
+A aresta continuou cortando depois do uso de teste.
+
+FONTES
+------
+Material didático da UFSC sobre aços para ferramentas e matrizes.
+Material didático do CIMM sobre seleção de aços ferramenta.
+Artigos técnicos da Infomet e da Dayton Lamina sobre aços ferramenta.
+Este texto é resumo operacional, não substitui treinamento.

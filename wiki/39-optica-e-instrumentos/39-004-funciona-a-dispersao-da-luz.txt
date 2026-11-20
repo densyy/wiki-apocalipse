@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 39-004
+TITULO: Como funciona a dispersão da luz
+CATEGORIA: 39 - Óptica e instrumentos científicos
+TEMPO: 20 minutos
+RISCO: baixo
+EXIGE: luz branca forte, prisma de vidro ou copo com água, folha branca
+REVISAO: 2026-11
+PALAVRAS-CHAVE: luz, dispersão, prisma, cores, espectro, arco-íris, refração
+==============================================================================
+
+OBJETIVO
+--------
+Entender e demonstrar a separação da luz branca em cores.
+
+QUANDO USAR
+-----------
+Quando aparecer um arco-íris depois da chuva.
+Quando vir cores nas bordas de lentes, binóculos ou espelhos.
+Quando quiser montar um espectroscópio simples com material comum.
+
+NAO USE QUANDO
+--------------
+Não há contraindicacao conhecida para este procedimento observacional.
+
+MATERIAIS
+---------
+- Prisma de vidro (ou copo com água e espelho pequeno).
+- Luz branca forte (sol indireto ou lanterna de luz branca).
+- Papel branco ou parede clara para receber a imagem.
+- Papel com fenda estreita de aproximadamente 1 milímetro.
+
+PROCEDIMENTO
+------------
+1. Escolha um canto escuro com uma fenda estreita de luz branca entrando.
+2. Apoie o prisma sobre a mesa, com uma face virada para a fenda.
+3. Gire o prisma devagar até a luz sair projetada no papel branco.
+4. Observe a faixa: vermelho, laranja, amarelo, verde, azul e violeta.
+5. Anote qual cor desviou mais e qual desviou menos.
+6. Entenda: a luz mistura cores de aproximadamente 380 a 750 nanômetros.
+7. No vidro, cada cor muda de velocidade e dobra segundo a lei de Snell.
+8. A luz violeta dobra mais que a vermelha. Essa diferença é a dispersão.
+9. Inverta o prisma e confirme que a ordem das cores troca de lado.
+
+ATENCAO
+-------
+Nunca olhe direto para o Sol, nem através de lentes apontadas para ele.
+A luz solar direta pode queimar a retina sem causar dor imediata.
+Prisma e espelho têm bordas cortantes; manuseie com cuidado e sem pressa.
+Se o vidro quebrar, recolha os cacos e descarte com segurança.
+A separação depende do ângulo: sem o giro correto, a luz continua branca.
+
+SE NAO TIVER
+------------
+Sem prisma, encha um copo com água e incline um espelho dentro dele.
+Sem luz solar, use uma lanterna de luz branca forte.
+Sem material, observe um arco-íris: é a mesma dispersão nas gotas de chuva.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Aparece faixa contínua de cores no papel, com vermelho e violeta nas pontas.
+Ao girar o prisma, a faixa se move e a ordem das cores troca de lado.
+
+FONTES
+------
+Conceitos consolidados de óptica: "Principles of Optics", de Born e Wolf
+(Cambridge University Press), e "Opticks", de Isaac Newton.
+Dados de comprimento de onda, índice de refração e ângulos do arco-íris
+conforme literatura de referência consultada. Resumo operacional, não
+substitui treinamento.

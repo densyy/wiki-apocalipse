@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 35-008
+TITULO: Como funcionavam sistemas de abastecimento antigos
+CATEGORIA: 35 - Temas especiais que merecem enciclopédias próprias
+TEMPO: 40 minutos
+RISCO: baixo
+EXIGE: caderno, lápis, lanterna, bastão para sondar o solo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: aqueduto, água, cisterna, poço, sifão, gravidade, romano
+==============================================================================
+
+OBJETIVO
+--------
+Entender como sistemas antigos captavam, moviam e guardavam água.
+Reconhecer no terreno os sinais desses sistemas.
+
+QUANDO USAR
+-----------
+Ao encontrar arcos de pedra ou canais antigos no terreno.
+Ao avaliar se uma cisterna ou poço antigo ainda serve.
+Ao inspecionar uma captação antiga antes de reaproveitá-la.
+
+NAO USE QUANDO
+--------------
+Não beba água de cisterna, poço ou aqueduto antigo sem filtrar e ferver.
+Água parada por muito tempo pode causar doença.
+
+MATERIAIS
+---------
+- Caderno e lápis para anotar o percurso.
+- Lanterna para olhar canais cobertos.
+- Bastão para sondar o solo e medir profundidade.
+
+PROCEDIMENTO
+------------
+1. Localize a nascente ou o reservatório de onde a água saía.
+2. Observe o terreno e identifique o sentido natural da descida.
+3. Siga o canal subterrâneo procurando tampas de inspeção no solo.
+4. Meça a queda do canal: cerca de 30 a 40 cm por km em aquedutos.
+5. Note onde o canal passa sobre arcos de pedra para vencer um vale.
+6. Procure sifões: tubos que descem e sobem para cruzar depressões.
+7. Identifique tanques de decantação, onde a sujeira assentava.
+8. Encontre o tanque de distribuição no fim do percurso.
+9. Verifique cisternas e anote calcário e vazamentos no canal.
+10. Não entre em galerias sem avaliar a estabilidade da alvenaria.
+
+ATENCAO
+-------
+A água de um sistema antigo pode estar parada ou contaminada.
+Não beba sem filtrar e ferver; veja 01-001 para torná-la segura.
+Tubos de chumbo antigos podem liberar chumbo; nunca cozinhe com ela.
+Canais abandonados podem abrigar mosquitos; elimine focos perto deles.
+Alvenaria antiga pode desabar; entre só com companhia e após avaliar.
+Este texto descreve o passado, não garante que a estrutura ainda sirva.
+
+SE NAO TIVER
+------------
+Sem fita métrica, use um cordão com nós para estimar a queda.
+Sem lanterna, faça a inspeção apenas em plena luz do dia.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você aponta no terreno a nascente, o fluxo, os arcos e o tanque final.
+O desenho mostra captação, transporte, decantação e distribuição.
+
+FONTES
+------
+Prática consolidada de engenharia hidráulica antiga descrita por Vitruvius
+em De architectura (século I a.C.) e por Frontinus em De aquaeductu.
+Resumo operacional de levantamento histórico; não substitui estudo técnico.

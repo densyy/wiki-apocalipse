@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 28-005
+TITULO: Como aplicar o sistema FIFO em estoques de alimentos
+CATEGORIA: 28 - Logística e gestão de recursos
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: caderno, caneta, etiquetas, espaço de armazenamento
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fifo, estoque, comida antiga, validade, rotacao, data
+==============================================================================
+
+OBJETIVO
+--------
+Consumir primeiro os alimentos que entraram primeiro no estoque.
+
+QUANDO USAR
+-----------
+Quando chegar comida nova e ainda sobrar do lote anterior.
+Quando a despensa misturar datas de entrada diferentes.
+Quando os itens forem iguais e tiverem validade parecida.
+Quando se distribuir suprimentos para mais de uma pessoa.
+
+NAO USE QUANDO
+--------------
+Quando as validades divergirem: use primeiro o que vence antes.
+
+MATERIAIS
+---------
+- Caderno ou folha para anotar as datas de entrada.
+- Caneta ou lápis para escrever.
+- Etiqueta de papel e fita adesiva, se houver.
+- Prateleira, caixa ou recipiente limpo e seco para o estoque.
+
+PROCEDIMENTO
+------------
+1. Esvazie a prateleira sobre uma superfície limpa e seca.
+2. Separe os alimentos por tipo: grãos, enlatados, óleo e farinha.
+3. Leia a data de entrada escrita na embalagem ou no caderno.
+4. Anote hoje no caderno a data de entrada dos itens sem marca.
+5. Coloque na frente o alimento que entrou primeiro.
+6. Coloque atrás o alimento que entrou por último.
+7. Repita essa fila da frente para o fundo em cada prateleira.
+8. Escreva a data de entrada na etiqueta e cole na embalagem.
+9. Guarde cada alimento novo atrás dos que já estavam guardados.
+10. Retire sempre o primeiro item da fila quando for usar.
+
+ATENCAO
+-------
+FIFO (primeiro a entrar, primeiro a sair) vale para itens iguais.
+Se as validades divergirem, use primeiro o que vence antes.
+Rotacionar não torna seguro um alimento vencido: confira antes.
+Embalagem estufada, vazando, com mofo ou cheiro estranho vai fora.
+Sem data anotada, a fila vira palpite: marque sempre a entrada.
+
+SE NAO TIVER
+------------
+Sem etiqueta, escreva a data na própria embalagem com lápis.
+Sem prateleira, use caixas: a mais antiga na frente, a nova atrás.
+Sem data de entrada, use a validade: consuma o que vence antes.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ao olhar a prateleira, os itens mais antigos ficam na frente.
+O caderno confere com a fila: nada novo à frente do antigo.
+
+FONTES
+------
+Prática consolidada de rotação de estoques por ordem de entrada,
+sem documento único consultado. Resumo operacional, não treinamento.

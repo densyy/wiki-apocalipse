@@ -1,0 +1,77 @@
+==============================================================================
+CODIGO: 07-036
+TITULO: Como utilizar um contador Geiger
+CATEGORIA: 07 - Guerra, radiação e catástrofes nucleares
+TEMPO: 15 minutos
+RISCO: alto
+EXIGE: contador Geiger com pilhas, caderno, caneta
+REVISAO: 2026-11
+PALAVRAS-CHAVE: geiger, radiação, contaminação, medir, fundo, cpm
+==============================================================================
+
+OBJETIVO
+--------
+Meça a radiação do local e ache o ponto mais contaminado.
+
+QUANDO USAR
+-----------
+Depois de poeira suspeita cair sobre roupa, pele ou abrigo.
+Antes de entrar em um cômodo para comparar com o fundo.
+Quando precisar achar o ponto mais contaminado no corpo.
+Quando a defesa civil pedir triagem de pessoas e objetos.
+
+NAO USE QUANDO
+--------------
+Não use para liberar água ou comida só pelo aparelho.
+Não entre em área com leitura subindo só para medir.
+
+MATERIAIS
+---------
+- Contador Geiger com sonda e pilhas (pilhas reservas se houver).
+- Saco plástico fino ou luva para cobrir a sonda.
+- Caderno e caneta para anotar hora e leitura.
+- Fones de ouvido para ouvir cliques no barulho (se houver).
+
+PROCEDIMENTO
+------------
+1. Coloque pilhas novas com o lado certo e feche a tampa.
+2. Ligue o aparelho longe da área suspeita.
+3. Confira a bateria na posição BAT e troque se falhar.
+4. Inspecione cabo e janela da sonda sem forçar o conector.
+5. Ajuste para a escala mais sensível, vezes 1.
+6. Mude a resposta para S e meça o fundo por 60 segundos.
+7. Anote o fundo com hora e local da medição.
+8. Cubra a sonda com plástico fino sem encostar no objeto.
+9. Mude para F e varra a aproximadamente 2 cm sem encostar.
+10. Mova devagar, aproximadamente 2 cm por segundo.
+11. Pare no ponto de mais cliques e leia em S por 60 segundos.
+12. Multiplique o visor pela escala e anote com a unidade cpm.
+13. Trate como contaminado tudo acima do dobro do fundo.
+
+ATENCAO
+-------
+Aparelho apita sempre por causa do fundo natural.
+Contador só mede. Ele não protege nem descontamina.
+Fundo comum fica entre aproximadamente 20 e 200 cpm.
+Alguns aparelhos não veem alfa sob água, sangue ou sujeira.
+Se travar no máximo e depois cair, saiu da escala. Saia na hora.
+Não libere comida, água ou pessoa só por uma leitura baixa.
+
+SE NAO TIVER
+------------
+Sem fonte de teste, use fundo de aproximadamente 30 a 200 cpm.
+Sem plástico, use luva fina e troque a cada pessoa medida.
+Sem fone, observe a agulha ou número além dos cliques.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você tem fundo anotado com hora e local antes da varredura.
+Você acha o ponto de mais cliques e repete a leitura.
+Sua anotação traz valor, escala vezes 1 ou 10 e unidade cpm.
+
+FONTES
+------
+Treinamento do CDC americano sobre varredura com detector Geiger.
+Guia de detecção de radiação do REAC/TS americano.
+Página da NRC americana sobre o que é contador Geiger.
+Orientação da EPA americana sobre exposição e dose de radiação.

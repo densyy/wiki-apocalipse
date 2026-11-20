@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 60-013
+TITULO: Como planejar centros de saúde comunitários
+CATEGORIA: 60 - Arquitetura, urbanismo e assentamentos
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: caderno, lápis, estacas, corda ou giz, moradores e agente de saúde
+REVISAO: 2026-11
+PALAVRAS-CHAVE: saúde, posto, clínica, planejar, comunidade, triagem, água
+==============================================================================
+
+OBJETIVO
+--------
+Definir com a comunidade onde e como atender casos comuns com segurança.
+
+QUANDO USAR
+-----------
+Quando o assentamento cresce e não há onde atender feridos e doentes.
+Quando o posto existente é inseguro ou fica longe demais.
+Quando há suspeita de doença contagiosa e as pessoas se aglomeram.
+Quando precisar definir água, banheiro e lixo antes de montar o posto.
+Quando a comunidade vai reformar ou ocupar um prédio para saúde.
+
+NAO USE QUANDO
+--------------
+Não improvise centro de saúde em área de enchente, deslizamento ou
+  queda de árvore. Escolha outro terreno antes de qualquer obra.
+Sem profissional responsável, limite-se a orientar e encaminhar casos.
+Não prometa tratamento que exija remédio, equipo ou exame indisponível.
+Se houver conflito violento pela área, pare e busque mediação.
+
+MATERIAIS
+---------
+- Caderno e lápis para o desenho e as decisões.
+- Estacas ou galhos finos para marcar o terreno.
+- Corda, barbante, giz, pedras ou cinza para demarcar (o que houver).
+- Fita ou tinta para identificar entrada, espera e isolamento.
+- Moradores, um agente de saúde e quem cuida da água e do lixo.
+- Água tratada, sabão, balde com tampa e pano limpo para higiene.
+
+PROCEDIMENTO
+------------
+1. Observe o terreno em dias diferentes: sol, chuva, vento e escuridão.
+2. Descarte áreas alagadas, encostas, árvores mortas e depósito de lixo.
+3. Fique a pelo menos 30 m de rios, córregos ou água parada.
+4. Pergunte quantas pessoas atende e quais casos mais chegam.
+5. Desenhe uma só entrada de pessoas e uma saída separada para lixo.
+6. Marque no chão: recepção, espera, consulta, isolamento e água.
+7. Coloque a triagem na entrada, antes de qualquer atendimento.
+8. Deixe a espera ao ar livre, com sombra e ventilação dos dois lados.
+9. Reserve um canto afastado e arejado para quem chega com febre.
+10. Afaste esse canto da espera e do consultório.
+11. Deixe passagem livre de aproximadamente 1,5 m entre as zonas.
+12. Marque o caminho da água limpa e o do esgoto sem cruzá-los.
+13. Coloque água, sabão e lixeira com tampa na entrada e na consulta.
+14. Preveja banheiro separado para pacientes, equipe e isolamento.
+15. Nivele o piso e abra valas para a chuva escorrer para fora.
+16. Ilumine a entrada e o caminho com luz ou lanterna disponível.
+17. Leia o desenho em voz alta e fixe-o em local visível.
+
+ATENCAO
+-------
+Um posto mal localizado espalha doença e afasta quem precisa de ajuda.
+A espera apertada e sem ar é o erro que mais contamina: ventile sempre.
+Água suja, sem sabão ou lixo aberto causam diarreia no posto.
+Este plano não substitui profissional, remédio, exame nem vacina.
+Se houver febre com manchas, falta de ar ou caso grave, isole e encaminhe.
+
+SE NAO TIVER
+------------
+Sem estacas, use galhos finos espetados no chão.
+Sem corda ou giz, marque com pedras, cinza ou barbante.
+Sem banheiro, cave uma fossa pequena longe da água e do consultório.
+Sem profissional, não faça parto, suture nem aplique injeção: encaminhe.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Há uma entrada só, com triagem, água, sabão e lixeira visíveis.
+A espera fica arejada, com banco e sombra, e o isolamento é separado.
+O desenho está fixado e a equipe sabe para onde encaminhar cada caso.
+
+FONTES
+------
+Manual de preparação do hospital para epidemias da OMS (2016).
+Manual de centro de tratamento de infecções respiratórias da OMS (2020).
+Guia STAR-H da OPAS sobre risco em estabelecimentos de saúde.
+Manual Sphere: padrões mínimos de água, saneamento e saúde em emergência.

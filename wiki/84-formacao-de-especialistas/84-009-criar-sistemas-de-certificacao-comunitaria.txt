@@ -1,0 +1,83 @@
+==============================================================================
+CODIGO: 84-009
+TITULO: Como criar sistemas de certificação comunitária
+CATEGORIA: 84 - Educação avançada e formação de especialistas
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: grupo organizado, critérios escritos, registro de presença
+REVISAO: 2026-11
+PALAVRAS-CHAVE: certificação, comunidade, competência, avaliação, registro
+==============================================================================
+
+OBJETIVO
+--------
+Criar um modo claro de reconhecer e registrar o que cada pessoa sabe fazer.
+
+QUANDO USAR
+-----------
+Quando a comunidade quer reconhecer publicamente quem domina um ofício.
+Ao organizar uma lista de pessoas aptas a ensinar ou prestar serviço.
+Quando um serviço exige prova de habilidades para ser contratado.
+Ao substituir indicações informais por critérios escritos e conhecidos.
+Quando jovens precisam de uma meta visível para concluir a formação.
+
+NAO USE QUANDO
+--------------
+Não certifique competência que não foi realmente avaliada.
+Não emita certificado com nome de instituição que não autorizou.
+Não use o sistema para excluir quem não teve acesso ao treino.
+
+MATERIAIS
+---------
+- Papel e lápis para escrever os critérios (caderno).
+- Lista com os nomes de quem participa (papel ou celular).
+- Uma tarefa prática simples para servir de prova (material do ofício).
+- Local calmo para a avaliação (sala ou sombra).
+- Relógio para marcar o tempo da prova (celular).
+
+PROCEDIMENTO
+------------
+1. Reúna quem conhece o ofício e quem quer ser avaliado.
+2. Escreva em papel quais tarefas a pessoa precisa saber fazer.
+3. Escolha de três a cinco tarefas, das mais simples às mais difíceis.
+4. Escreva o que observar em cada tarefa, com palavras objetivas.
+5. Combine quanto tempo cada pessoa terá para executar a tarefa.
+6. Defina o que conta como "feito corretamente", antes de começar.
+7. Escolha duas pessoas da comunidade para observar e anotar.
+8. Peça a cada participante que execute as tarefas, uma por vez.
+9. Anote o que cada observador viu, sem opiniões pessoais.
+10. Compare as anotações dos dois observadores ao final.
+11. Se discordarem, repita a tarefa até chegarem a um acordo.
+12. Escreva o resultado em papel com nome, data e tarefas avaliadas.
+13. Entregue uma cópia escrita à pessoa avaliada.
+14. Guarde a lista de aprovados em local seco e de fácil consulta.
+15. Marque uma data para revisar os critérios e repetir a avaliação.
+
+ATENCAO
+-------
+Certificado não substitui prática nem autorização legal quando exigida.
+Deixe claro que o reconhecimento é da comunidade, não do governo.
+Critério vago gera disputa; escreva o que pode ser visto e medido.
+Nunca cobre dinheiro prometendo validade oficial que você não tem.
+Se alguém for reprovado, explique o motivo com calma e ofereça treino.
+
+SE NAO TIVER
+------------
+Sem papel, use um caderno emprestado ou papel reciclado limpo.
+Sem local fechado, faça a prova em área coberta e tranquila.
+Sem duas pessoas para observar, peça a um vizinho de confiança.
+Sem material de prova, use uma tarefa real do dia a dia da comunidade.
+Sem relógio, meça o tempo com contagem em voz alta.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os critérios estão escritos e qualquer pessoa da comunidade os entende.
+Cada avaliação tem duas anotações de observadores diferentes.
+A pessoa avaliada recebe o registro com nome, data e tarefas.
+Há uma lista guardada de quem foi reconhecido e de quem precisa treinar.
+
+FONTES
+------
+Prática consolidada de avaliação de competências em educação técnica.
+Inspirado em sistemas de certificação por competência usados por SENAI,
+SENAR e em processos participativos de reconhecimento de saberes.

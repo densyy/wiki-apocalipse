@@ -1,0 +1,91 @@
+==============================================================================
+CODIGO: 69-021
+TITULO: Como identificar componentes queimados
+CATEGORIA: 69 - Eletrônica analógica e componentes discretos
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: luz boa, lupa, multímetro, luvas, ventilação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: queimado, capacitor, resistor, curto, multímetro, cheiro
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer sinais visíveis de queima e confirmar a peça falha com teste.
+
+QUANDO USAR
+-----------
+Quando o aparelho parou de funcionar sem motivo claro.
+Quando há cheiro de queimado ou fumaça saindo da placa.
+Quando a placa foi molhada ou sofreu queda.
+Quando houve raio, surto ou ligação com tensão errada.
+Quando for preciso escolher qual peça substituir.
+
+NAO USE QUANDO
+--------------
+Não abra equipamento ligado na tomada: pode matar.
+Não use este texto para mexer em rede elétrica predial.
+Não cheire fumaça de perto nem a inale de propósito.
+Com faísca, estalo ou cheiro forte, desligue e procure ajuda.
+
+MATERIAIS
+---------
+- Luz boa ou lanterna, de preferência branca e forte.
+- Lupa ou ampliador de celular para ver peças pequenas.
+- Multímetro com escalas de continuidade, ohms e capacitor.
+- Luvas de algodão ou nitrilo para não tocar resíduos.
+- Papel e lápis para anotar posição e leituras.
+- Recipiente fechado para guardar a peça suspeita.
+
+PROCEDIMENTO
+------------
+1. Desligue o aparelho da tomada e remova baterias e cabos.
+2. Pressione o botão de ligar por aproximadamente 10 segundos.
+3. Coloque o aparelho em local aberto e arejado.
+4. Espere aproximadamente 10 minutos para a placa esfriar.
+5. Abra a tampa com cuidado e não toque nas peças ainda.
+6. Observe a placa inteira sob luz boa, sem tocá-la.
+7. Procure manchas escuras, fuligem e trilhas arroxeadas.
+8. Observe capacitores: corpos inchados, tampas abertas ou vazamento.
+9. Observe resistores: corpos rachados, escuros ou com tinta queimada.
+10. Observe circuitos integrados: rachaduras ou orifício queimado.
+11. Observe a solda: pontos ligados por ponte ou trilha derretida.
+12. Anote no papel a posição de cada peça suspeita.
+13. Retire a peça suspeita da placa para testar fora de circuito.
+14. Ajuste o multímetro para continuidade e teste os terminais.
+15. Inverta as pontas e repita o teste quando for diodo.
+16. Ajuste para ohms e meça resistores fora da placa.
+17. Ajuste para capacitor e compare a leitura com o valor impresso.
+18. Descarte peça com curto, aberto ou valor fora da tolerância.
+
+ATENCAO
+-------
+Capacitor guarda carga e pode dar choque mesmo com o aparelho desligado.
+Em TV, micro-ondas e flash de câmera, a tensão pode matar: não abra.
+Pressionar o botão não descarrega capacitor de alta tensão.
+Fumaça de placa queimada irrita olhos e pulmões: ventile e use máscara.
+Resíduo de capacitor eletrolítico é corrosivo: lave as mãos depois.
+Nunca religue o aparelho para testar: pode pegar fogo.
+Se o cheiro aumentar ou aparecer fumaça, pare e procure ajuda.
+
+SE NAO TIVER
+------------
+Sem lupa, use a câmera do celular com zoom e muita luz.
+Sem multímetro, limite-se à inspeção visual e não adivinhe valores.
+Sem luva, use pano seco e lave as mãos ao terminar.
+Sem ventilação, saia do ambiente e volte após o cheiro sumir.
+Na dúvida sobre qual peça falhou, não insista: procure orientação.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A peça suspeita mostra mancha, rachadura ou cheiro característico.
+O multímetro indica curto, aberto ou valor fora do esperado.
+Peças iguais na mesma placa medem valores próximos entre si.
+A posição anotada coincide com o dano encontrado na placa.
+
+FONTES
+------
+Prática consolidada de inspeção e teste em bancada de eletrônica.
+Modos de falha de capacitores e risco de recarga após descarga são
+descritos em literatura técnica de referência sobre capacitores.
+Resumo operacional; confirme a folha de dados do fabricante.

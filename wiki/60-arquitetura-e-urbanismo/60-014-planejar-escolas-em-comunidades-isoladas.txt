@@ -1,0 +1,81 @@
+==============================================================================
+CODIGO: 60-014
+TITULO: Como planejar escolas em comunidades isoladas
+CATEGORIA: 60 - Arquitetura, urbanismo e assentamentos
+TEMPO: 90 minutos
+RISCO: baixo
+EXIGE: caderno, lápis, moradores e autoridade local disponíveis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: escola, comunidade, isolada, planejar, professor, aluno
+==============================================================================
+
+OBJETIVO
+--------
+Definir com a comunidade onde e como a escola local funciona com segurança.
+
+QUANDO USAR
+-----------
+Quando a comunidade está longe de escolas e as crianças não podem ir.
+Quando o grupo vai montar assentamento novo e precisa prever a escola.
+Quando a escola atual fechou ou ficou pequena para o número de alunos.
+Quando o caminho até a escola mais próxima é longo ou perigoso.
+
+NAO USE QUANDO
+--------------
+Quando não há professor nem adulto para acompanhar as crianças.
+Quando o terreno tem risco ativo: enchente, deslizamento ou queda de
+árvore. Não instale a escola nesses locais.
+Um plano no papel não substitui projeto técnico nem professor formado.
+
+MATERIAIS
+---------
+- Caderno e lápis para anotar decisões e fazer o croqui.
+- Papel ou terra lisa para desenhar o terreno e o entorno.
+- Estacas ou galhos finos para marcar o local no chão.
+- Pais, moradores, autoridade local e lista das crianças com idades.
+
+PROCEDIMENTO
+------------
+1. Reúna pais, moradores e a autoridade local em local acessível.
+2. Liste quantas crianças precisam estudar e suas idades.
+3. Agrupe por idade e veja quantas turmas cabem em cada faixa.
+4. Pergunte quem pode ensinar e por quantas horas por dia.
+5. Defina o turno das aulas conforme a disponibilidade dos adultos.
+6. Caminhe pelo terreno com moradores e veja onde a água escorre.
+7. Descarte áreas de risco: leito de rio, encosta, árvore morta e fogo.
+8. Escolha ponto plano, alto, com saída livre em dois lados.
+9. Meça com passos: um passo é aproximadamente 0,7 m.
+10. Reserve área para sala, sombra, latrina e circulação.
+11. Marque o contorno e desenhe no croqui o caminho até as casas.
+12. Coloque a latrina a favor do vento, longe da sala e da água.
+13. Combine horários, regras, limpeza e quem acompanha as menores.
+14. Leia as decisões em voz alta e fixe o croqui em local visível.
+
+ATENCAO
+-------
+Escola mal localizada concentra calor, fumaça, aglomerado e risco.
+Não coloque sala junto de latrina ou fogo: a fumaça prejudica a aula e o
+fogo em ambiente fechado mata por monóxido de carbono.
+Este plano não cria professor, não entrega material e não garante
+transporte. Se houver risco de terreno ou violência no caminho, pare.
+
+SE NAO TIVER
+------------
+Sem papel, desenhe o croqui na terra e repita as decisões em voz alta.
+Sem estacas, use galhos finos ou pedras para marcar o contorno.
+Sem professor, organize leitura com voluntário e peça apoio ao órgão
+de educação. Não improvise aula em área com risco de enchente.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O local está marcado, alto, plano e longe das áreas de risco.
+O croqui mostra sala, latrina, sombra e o caminho até as casas.
+Há adultos definidos para ensinar e para acompanhar as crianças.
+
+FONTES
+------
+Prática consolidada de planejamento educacional em contextos remotos.
+Famílias de referência: UNICEF e UNESCO, em educação rural e isolada;
+INEE, rede interagências de educação em emergências; e, no Brasil,
+Ministério da Educação e FNDE, em escolas rurais e transporte escolar.
+Este texto é resumo operacional, não substitui treinamento nem projeto.

@@ -1,0 +1,86 @@
+==============================================================================
+CODIGO: 81-009
+TITULO: Como construir um forno solar concentrador
+CATEGORIA: 81 - Engenharia térmica e fornos industriais
+TEMPO: 1 dia
+RISCO: alto
+EXIGE: espelhos ou folha refletiva, estrutura, alvo escuro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: forno solar, concentrador, espelho, energia solar, calor
+==============================================================================
+
+OBJETIVO
+--------
+Construir um concentrador solar que gere calor sem queimar combustível.
+
+QUANDO USAR
+-----------
+Para aquecer pequenas cargas em dias de sol forte.
+Para cozinhar, secar ou aquecer água sem lenha.
+Quando há muita incidência de sol e poucos recursos.
+Para demonstrar concentração de energia solar na prática.
+
+NAO USE QUANDO
+--------------
+Não use com céu nublado ou sol fraco: não aquece o suficiente.
+Não deixe o foco refletido atingir olhos, pele ou material inflamável.
+Não monte onde pessoas ou animais passem na altura do foco.
+Não use sem proteção ocular ao ajustar os espelhos.
+
+MATERIAIS
+---------
+- Espelhos pequenos ou folha refletiva polida (chapas de alumínio).
+- Estrutura de madeira, metal ou compensado para fixar os espelhos.
+- Suporte com parafusos para ajustar o ângulo de cada espelho.
+- Alvo escuro de metal fosco ou panela preta no ponto focal.
+- Base firme que possa girar e inclinar (tripé ou mesa).
+- Óculos de sol escuros e luvas.
+- Termômetro para medir a temperatura no foco.
+
+PROCEDIMENTO
+------------
+1. Escolha local aberto, com sol direto e sem sombras.
+2. Monte a base de modo que o concentrador possa girar e inclinar.
+3. Fixe os espelhos na estrutura em fileiras regulares.
+4. Deixe cada espelho com parafuso de ajuste independente.
+5. Coloque o alvo escuro no ponto onde os raios devem convergir.
+6. Aponte o conjunto para o sol, sem olhar diretamente para ele.
+7. Comece alinhando o espelho central sobre o alvo.
+8. Ajuste os demais, um por vez, até refletirem no mesmo ponto.
+9. Use óculos escuros durante todo o alinhamento.
+10. Verifique se o brilho do foco está concentrado e pequeno.
+11. Acompanhe o sol e corrija o ângulo a cada hora.
+12. Meça a temperatura no alvo com o termômetro.
+13. Coloque a carga a aquecer somente após o foco estabilizar.
+14. Interrompa e cubra os espelhos quando o sol baixar.
+15. Guarde a estrutura protegida de chuva e poeira.
+
+ATENCAO
+-------
+O foco refletido pode queimar a retina em segundos: nunca olhe direto.
+A concentração de luz também acende papel, pano e madeira seca.
+Não deixe crianças ou animais perto do foco.
+O metal no foco fica quente o bastante para causar queimadura.
+Espelhos quebrados cortam: use luvas ao manusear as peças.
+Se alguém olhar para o foco e sentir a vista manchada, procure médico.
+Vento forte pode derrubar a estrutura: firme-a bem.
+
+SE NAO TIVER
+------------
+Sem espelhos, use papel-alumínio esticado sobre compensado liso.
+Sem suporte giratório, realinhe o conjunto a cada hora manualmente.
+Sem termômetro, observe o brilho e o aquecimento do alvo.
+Sem óculos escuros, não faça o alinhamento dos espelhos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os raios convergem num ponto pequeno e brilhante sobre o alvo.
+A temperatura no foco sobe claramente acima da ambiente.
+A carga aquece sem fumaça e sem consumo de combustível.
+O alvo não desloca do foco quando o sol se move devagar.
+
+FONTES
+------
+Prática consolidada de fornos solares e concentradores de baixo custo,
+sem documento normativo único. Referências correntes de óptica solar,
+concentração de radiação e segurança ocular em experimentos com espelhos.

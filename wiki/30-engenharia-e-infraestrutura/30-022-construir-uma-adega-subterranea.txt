@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 30-022
+TITULO: Como construir uma adega subterrânea
+CATEGORIA: 30 - Engenharia e infraestrutura básica
+TEMPO: 600 minutos
+RISCO: alto
+EXIGE: terreno firme e drenado, pá, madeira, pedra ou tijolo, ajuda
+REVISAO: 2026-11
+PALAVRAS-CHAVE: adega, porão, cava, armazenar, frio, escavar, desabamento
+==============================================================================
+
+OBJETIVO
+--------
+Construir um depósito subterrâneo fresco, escuro e protegido para guardar
+alimentos por meses sem energia.
+
+QUANDO USAR
+-----------
+Quando falta geladeira e há terra firme para escavar perto de casa.
+Quando a colheita precisa ficar fresca por semanas ou meses.
+Quando há outro adulto para ajudar na escavação e na cobertura.
+
+NAO USE QUANDO
+--------------
+Não escave onde há encosta instável, aterro solto, lençol de água alto,
+fossa, tubulação ou raízes de árvore.
+Não construa em área que alaga ou onde a terra desliza após chuva.
+Não use para carne, peixe, leite ou remédios: não substitui geladeira.
+Não trabalhe sozinho em buraco fundo, nem sem escorar as paredes.
+
+MATERIAIS
+---------
+- Pá, enxada, picareta e balde para tirar a terra (ou ferramenta similar).
+- Estacas, cordão e trena para marcar e medir a escavação.
+- Tábuas e sarrafos resistentes para escorar as paredes durante a obra.
+- Pedra, tijolo ou madeira tratada para revestir as paredes.
+- Vigas de madeira resistente e tábuas ou varas para cobrir o topo.
+- Cascalho e tubo ou dreno para escoar a água ao redor e no piso.
+- Tela de arame para as aberturas de ar e porta firme com isolamento.
+- Termômetro e higrômetro para medir temperatura e umidade.
+- Outra pessoa para ajudar a escavar, escorar e colocar as vigas.
+
+PROCEDIMENTO
+------------
+1. Escolha encosta voltada ao norte, sombreada, alta e longe de fossas.
+2. Cave um buraco de teste e veja se a água escoa em poucas horas.
+3. Marque no solo uma área de aproximadamente 2 por 3 metros.
+4. Retire a terra em camadas rasas e escorre as paredes com tábuas.
+5. Amontoe a terra a pelo menos 60 cm da borda da escavação.
+6. Não fique debaixo de parede sem escoramento; nunca trabalhe sozinho.
+7. Nivele o piso e espalhe cascalho para drenar a água que infiltrar.
+8. Revista as paredes com pedra, tijolo ou madeira tratada até o topo.
+9. Abra dreno no piso e canal que leve a água para longe da adega.
+10. Apoie as vigas do teto sobre as paredes revestidas, bem niveladas.
+11. Cubra as vigas com tábuas ou varas antes de jogar terra por cima.
+12. Coloque tela nas duas aberturas de ar: uma baixa e uma alta.
+13. Feche com porta firme, isolada e vedada contra luz, ar e roedores.
+14. Cubra o teto com terra em camadas e incline o solo para escoar chuva.
+15. Cubra o cascalho com terra batida para manter a umidade alta.
+16. Coloque termômetro, higrômetro e as caixas longe das paredes.
+
+ATENCAO
+-------
+Parede sem escoramento pode desabar e soterrar: escorre e não entre só.
+A terra de uma parede alta pesa toneladas; o teto mal dimensionado cede.
+Não empilhe terra ou material pesado perto da borda da escavação.
+Ao abrir após dias fechada, ventile: pode haver pouco oxigênio ou gás.
+Se aparecer água, rachadura ou deslizamento, saia e reforce a obra.
+Em caso de soterramento, não entre no buraco instável: chame ajuda.
+Nunca desça em poço ou cisterna abandonada para aproveitar a estrutura.
+A adega não congela alimentos nem elimina microrganismos: na dúvida,
+descarte o alimento que apodreceu ou que apresentou mofo.
+
+SE NAO TIVER
+------------
+Sem pedra ou tijolo, use madeira tratada para forrar as paredes.
+Sem vigas grossas, reduza o vão e use mais apoios intermediários.
+Sem tela, cubra as aberturas com pano firme preso por arame.
+Sem termômetro, observe se a terra fica fria e sem mofo; não confie só
+no tato, empreste um termômetro quando possível.
+Sem outra pessoa, não escave mais que a altura do joelho: chame ajuda.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As paredes revestidas não soltam terra e o teto não range nem afunda.
+A água escoa pelo dreno e o piso fica úmido, sem poças paradas.
+Interior escuro, sem mofo; temperatura aproximada de 0 a 5 graus.
+
+FONTES
+------
+Prática consolidada de armazenamento subterrâneo, sem documento único.
+Serviço de Extensão da Universidade do Alaska Fairbanks, HGA-00331:
+temperatura de 0 a 4 graus, umidade de 80 a 95 por cento e duto com tela.
+Extensão da Universidade do Missouri, publicação MP562.
+Canada Plan Service, Small Root Cellar, do Manual de Sistemas de
+Edificações Agrícolas: adega parcialmente enterrada, dutos e porta isolada.
+NIOSH/CDC e OSHA: segurança em escavações, risco de desabamento e
+escoramento. Departamento de Trabalho de Minnesota, ficha sobre valas.
+Resumo operacional; não substitui projeto de engenheiro para adega grande.

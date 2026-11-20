@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 06-008
+TITULO: Como construir um sistema de esgoto rudimentar
+CATEGORIA: 06 - Higiene, saneamento e resíduos
+TEMPO: 5 horas
+RISCO: critico
+EXIGE: terreno em declive, pa, enxadao, baldes, pedras e cal
+REVISAO: 2026-11
+PALAVRAS-CHAVE: esgoto, vala, drenagem, sumidouro, gordura, saneamento, agua
+==============================================================================
+
+OBJETIVO
+--------
+Afastar a agua servida do abrigo sem contaminar agua e comida.
+
+QUANDO USAR
+-----------
+Quando o abrigo nao tem rede de esgoto nem fossa funcionando.
+Quando a agua de pia, banho e lavagem empossa perto das barracas.
+Quando moscas e mau cheiro aumentam ao redor do ponto de agua.
+Quando varias pessoas dividem o mesmo local de banho e lavagem.
+
+NAO USE QUANDO
+--------------
+Quando o terreno alaga ou o lencol d agua esta raso. Com menos
+de aproximadamente 1,5 m ate a agua do subsolo, este sistema
+contamina pocos e nascentes. Use banheiro seco e procure ajuda.
+Quando nao ha como afastar aproximadamente 30 metros de pocos,
+nascentes, corregos e da cozinha. Sem distancia segura, nao cave.
+Quando o solo e rocha pura e nao permite cavar nem infiltrar.
+Agua parada vira criadouro de mosquito e espalha doenca.
+
+MATERIAIS
+---------
+- Pa e enxadao (facao ajuda a cortar raizes finas).
+- Baldes ou bacias para carregar terra e conduzir agua.
+- Pedras, cascalho ou tijolos quebrados para forrar a vala.
+- Bambu rachado, telha ou lona para calhas de conducao.
+- Cal virgem ou cinza de fogao para cobrir pontos de cheiro.
+- Estacas e corda ou barbante para marcar o tracado.
+
+PROCEDIMENTO
+------------
+1. Escolha o ponto mais baixo do terreno, fora do caminho diario.
+2. Confirme aproximadamente 30 metros de pocos e nascentes.
+3. Confirme que o ponto fica abaixo do abrigo e longe da cozinha.
+4. Marque com estacas o caminho da agua do abrigo ate o ponto.
+5. Cave a vala com aproximadamente 30 cm de largura e 40 cm de fundo.
+6. Mantenha o declive sempre descendo, sem degraus nem pocos.
+7. Forre o fundo da vala com pedras ou cascalho para infiltrar.
+8. Cave um buraco de aproximadamente 1 m de lado e 1 m de fundo seco.
+9. Encha o fundo do buraco com uma camada grossa de pedras.
+10. Ligue a vala ate o buraco e proteja a entrada com pedras maiores.
+11. Monte caixa de gordura com balde enterrado furado na lateral alta.
+12. Despeje na vala somente agua de pia, banho e lavagem de roupa.
+13. Jogue fezes e papel sujo na latrina ou fossa, nunca na vala aberta.
+14. Cubra trechos de vala perto do caminho com galhos e terra socada.
+15. Limpe a caixa diariamente, enterre o lodo e cubra o cheiro com cal.
+16. Lave as maos com agua e sabao depois de mexer no sistema.
+
+ATENCAO
+-------
+Esgoto contamina agua e comida e pode matar. Diarreia, colera,
+febre tifoide e hepatite se espalham por agua com fezes.
+Nunca beba agua de vala, de poco proximo ao esgoto nem de fonte
+com cheiro ou gosto estranho depois de montar o sistema.
+Nunca ligue a vala direto em corrego, poco ou caixa de agua.
+Vala aberta com fezes atrai moscas, ratos e contamina as maos.
+Se alguem tiver diarreia com sangue, vomito sem parar, febre
+alta ou sinais de desidratacao, procure ajuda de saude na hora.
+Em chuva forte o sistema pode transbordar. Afaste pessoas e
+animais da area alagada e refaca o declive quando secar.
+Este sistema nao trata esgoto, so afasta e infiltra. Ele nao
+resolve contaminacao quimica por combustivel ou agrotoxico.
+
+SE NAO TIVER
+------------
+Sem pa, cave com enxadao, facao ou madeira dura afiada.
+Sem pedras, use cacos de telha, tijolos ou galhos grossos.
+Sem bambu ou telha, cave a vala com laterais lisas e firmes.
+Sem cal, cubra os pontos de cheiro com terra seca e cinza.
+Sem balde para a caixa de gordura, use lata grande ou buraco
+pequeno revestido de barro antes do ponto de infiltracao.
+
+COMO SABER QUE DEU CERTO
+-------------------------
+A agua corre pela vala sem empossar e some no ponto de pedras.
+Nao ha mau cheiro forte nem enxame de moscas perto do abrigo.
+A area de banho e lavagem seca rapido depois do uso.
+Pocos e nascentes proximos seguem sem cheiro nem gosto estranho.
+
+FONTES
+------
+Pratica consolidada de saneamento de emergencia, com distancias
+e cuidados baseados em orientacoes da OMS e da OPAS, no Manual
+de Saneamento da Funasa e em orientacao do CDC sobre descarte
+de fezes. Este texto e um resumo operacional, nao substitui
+treinamento nem projeto tecnico.

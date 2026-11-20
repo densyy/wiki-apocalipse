@@ -1,0 +1,77 @@
+==============================================================================
+CODIGO: 51-010
+TITULO: Como calcular perímetros
+CATEGORIA: 51 - Matemática aplicada à sobrevivência
+TEMPO: 10 minutos
+RISCO: baixo
+EXIGE: papel, lápis, noções de soma e multiplicação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: perímetro, contorno, soma de lados, medida, comprimento
+==============================================================================
+
+OBJETIVO
+--------
+Somar os lados de uma figura para descobrir a medida do seu contorno.
+
+QUANDO USAR
+-----------
+Ao medir o comprimento de cerca ou muralha para um terreno.
+Ao calcular quanto arame, corda ou tinta precisa para cercar algo.
+Ao dimensionar fita, ripa ou vedação que envolve uma área.
+Ao conferir se uma peça cabe no espaço disponível.
+Ao repartir material entre vários cercados iguais.
+
+NAO USE QUANDO
+--------------
+Quando o que se quer é a área interna, e não o contorno.
+Quando o terreno tiver curvas irregulares difíceis de medir.
+Nesses casos, meça por partes e some, ou peça ajuda.
+
+MATERIAIS
+---------
+- Papel para anotar (ou superfície onde se escreva).
+- Lápis (ou carvão, giz, ou um graveto na terra).
+- Trena, corda ou barbante para medir (palmos como aproximação).
+- As medidas dos lados da figura.
+
+PROCEDIMENTO
+------------
+1. Identifique a forma: quadrado, retângulo, triângulo ou polígono.
+2. Escreva a medida de cada lado em uma linha do papel.
+3. Meça um lado por vez com a trena ou a corda esticada.
+4. Anote cada valor com a sua unidade, como metros ou centímetros.
+5. Se dois lados forem iguais, escreva o valor e a quantidade.
+6. Some a medida de cada lado: a soma é o perímetro.
+7. No quadrado, multiplique o lado por 4.
+8. No retângulo, some base e altura e multiplique por 2.
+9. Em polígono regular, multiplique o lado pelo número de lados.
+10. Escreva o resultado com a unidade de comprimento usada.
+11. Confira somando os lados na ordem inversa.
+
+ATENCAO
+-------
+Confunda perímetro com área e você comprará material demais ou de menos.
+Meça sempre na mesma unidade; misturar metros e centímetros erra a conta.
+Uma trena frouxa ou em diagonal superestima o comprimento do lado.
+Arame e corda precisam de sobra para amarrar: some uma folga.
+Terrenos irregulares pedem medição por partes, não fórmula pronta.
+Se a soma destoar da estimativa, meça de novo antes de comprar.
+
+SE NAO TIVER
+------------
+Sem trena, use corda com nós a cada palmo e depois conte os palmos.
+Sem papel, some os lados nos dedos ou marque na terra.
+Sem saber multiplicar, escreva o lado repetido e some tudo.
+Para contorno curvo, divida em retas curtas e some cada pedaço.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A soma dos lados escritos confere quando repetida em ordem inversa.
+O resultado usa a mesma unidade das medidas tomadas.
+O valor é maior que o maior lado e menor que a soma das medidas.
+
+FONTES
+------
+Prática consolidada de geometria básica ensinada em cursos de
+matemática elementar. Não há documento único; as fórmulas são
+regras padrão, não números ou limites inventados.

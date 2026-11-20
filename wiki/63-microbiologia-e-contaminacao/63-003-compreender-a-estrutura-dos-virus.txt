@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 63-003
+TITULO: Como compreender a estrutura dos vírus
+CATEGORIA: 63 - Microbiologia, parasitologia e contaminação
+TEMPO: 20 minutos
+RISCO: medio
+EXIGE: ilustração ou modelo de vírus, caderno, lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: vírus, capsídeo, envelope, genoma, contágio, microrganismo
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer as partes de um vírus e explicar a função de cada uma.
+
+QUANDO USAR
+-----------
+Quando precisar entender como um vírus atinge e infecta uma célula.
+Quando quiser saber por que alguns vírus resistem mais fora do corpo.
+Ao ler notícia, rótulo ou orientação de saúde sobre vírus.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para este procedimento.
+Este texto é só conceitual: não ensina a coletar nem a manusear vírus.
+
+MATERIAIS
+---------
+- Uma ilustração, modelo ou esquema de vírus (pode ser desenhado à mão).
+- Caderno e lápis para anotar o que encontrar.
+- Nenhum material biológico, amostra de sangue ou saliva de doente.
+
+PROCEDIMENTO
+------------
+1. Observe a figura de um vírus inteiro, sem buscar amostra real alguma.
+2. Identifique o centro: o genoma, que é DNA ou RNA, nunca os dois.
+3. Note se a fita genética é única ou dupla, reta ou fechada em anel.
+4. Localize a camada de proteína em volta do centro: o capsídeo.
+5. Observe que o capsídeo é feito de unidades pequenas, os capsômeros.
+6. Classifique a forma: tubo, bola com faces ou estrutura complexa.
+7. Verifique se existe uma camada externa de gordura: o envelope.
+8. Se houver envelope, note os espinhos de proteína na superfície.
+9. Escreva no caderno quais das três partes você conseguiu encontrar.
+10. Relacione cada parte com sua função: proteger, entrar, copiar-se.
+
+ATENCAO
+-------
+Vírus não são células: não têm órgãos nem se alimentam sozinhos.
+Não dá para ver vírus a olho nu: medem aproximadamente 20 a 300 nanômetros.
+Entender a estrutura não impede contágio; ainda valem higiene e vacina.
+Vírus com envelope resistem menos fora do corpo; os sem envelope, mais.
+Nunca manuseie amostra de pessoa doente achando que sabe lidar com vírus.
+Em caso de doença, procure profissional de saúde; este texto não trata.
+
+SE NAO TIVER
+------------
+Sem figura impressa, desenhe o esquema no papel a partir desta descrição.
+Sem modelo, pense no envelope como uma capa de gordura da própria célula.
+Não substitua isso por observar gota de saliva ou sangue: não é seguro.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você aponta no esquema o genoma, o capsídeo e, se existir, o envelope.
+Você explica com as próprias palavras por que o vírus precisa de uma célula.
+
+FONTES
+------
+Manual de Microbiologia Médica do NCBI; revisão "Virus Structure and
+Classification" (Essential Human Virology); visão geral do Merck Manual;
+NIH e Cleveland Clinic. Prática consolidada, resumida sem treinamento.

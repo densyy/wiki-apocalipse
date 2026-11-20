@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 29-020
+TITULO: Como diagnosticar falhas em discos rígidos
+CATEGORIA: 29 - Tecnologia, computação e informática offline
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: computador com bateria, disco em teste, leitor de SMART instalado
+REVISAO: 2026-11
+PALAVRAS-CHAVE: hd, disco rígido, smart, setor danificado, falha, backup
+==============================================================================
+
+OBJETIVO
+--------
+Identificar sinais de falha em um disco rígido antes de perder os dados.
+
+QUANDO USAR
+-----------
+Quando o computador fica lento ou trava ao abrir arquivos.
+Quando aparece ruído de clique, estalo ou arranhar no disco.
+Depois de queda, corte de energia ou calor excessivo.
+
+NAO USE QUANDO
+--------------
+Não abra a tampa do disco: a cabeça de leitura destrói os dados.
+Não ligue disco com cheiro de queimado, fumaça ou faíscas.
+
+MATERIAIS
+---------
+- Computador com bateria ou fonte estável (não desligue no teste).
+- Disco rígido a examinar, conectado por cabo firme.
+- Programa leitor de SMART já instalado (smartmontools, CrystalDiskInfo).
+- Unidade USB com espaço para a cópia e caderno para anotar.
+
+PROCEDIMENTO
+------------
+1. Copie os arquivos importantes para a unidade USB antes de testar.
+2. Abra alguns arquivos na cópia para confirmar que ela está correta.
+3. Conecte o disco com cabo firme e ligue o computador.
+4. Escute o disco ao iniciar: clique, estalo ou arranhar indicam alerta.
+5. Abra o leitor de SMART (sistema de avisos do próprio disco).
+6. Anote o estado geral e os valores 5, 187, 188, 197 e 198.
+7. Marque como suspeito se algum valor for maior que zero.
+8. Execute o teste curto e espere, aproximadamente 2 minutos.
+9. Pare os testes e troque o disco se houver aviso, valor alto ou falha.
+
+ATENCAO
+-------
+O diagnóstico não recupera dados, só avisa que o disco falha.
+Fazer a cópia depois do teste pode ser tarde se o disco parar.
+Repetir testes ou usar o teste longo estressa o disco danificado.
+Nunca abra a tampa: contato com a cabeça destrói os dados.
+Com clique forte ou cheiro de queimado, desligue e peça ajuda.
+
+SE NAO TIVER
+------------
+Sem leitor de SMART, use o utilitário de disco do sistema.
+Sem programa, observe ruído, lentidão e arquivos que não abrem.
+Sem USB, use outro disco; se não der, pare e procure ajuda.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O programa mostra estado OK e os cinco atributos em zero.
+O teste curto termina sem erro e a cópia abre os arquivos.
+O disco gira com ruído uniforme, sem cliques repetidos.
+
+FONTES
+------
+Estudo Failure Trends in a Large Disk Drive Population, Google,
+USENIX FAST 2007; padrão ATA/ACS da ANSI INCITS; smartmontools.
+Prática consolidada de diagnóstico; resumo operacional, não treinamento.

@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 08-047
+TITULO: Como funcionam motores de combustão interna
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: motor desligado e frio ou desenho esquemático, local ventilado
+REVISAO: 2026-11
+PALAVRAS-CHAVE: motor, combustão, pistão, gasolina, diesel, quatro tempos
+==============================================================================
+
+OBJETIVO
+--------
+Entender como a queima do combustível dentro do motor produz movimento.
+
+QUANDO USAR
+-----------
+Antes de operar gerador, motobomba, carro ou motosserra pela primeira vez.
+Quando o motor não pega, falha ou solta fumaça e você precisa interpretar.
+Quando for explicar o princípio de funcionamento a outra pessoa.
+Quando precisar escolher entre motor a gasolina e motor a diesel.
+
+NAO USE QUANDO
+--------------
+Não serve como manual de reparo: não ensina a abrir o motor, regular
+válvulas, consertar injeção, ignição ou escape. Para reparo, siga o manual
+do fabricante ou procure um mecânico.
+
+MATERIAIS
+---------
+- Motor acessível, desligado e frio, ou desenho esquemático de motor.
+- Caderno e lápis para anotar a ordem dos tempos.
+- Óculos de proteção, se for observar motor em funcionamento.
+- Local aberto e ventilado, longe de chamas, faíscas e material inflamável.
+
+PROCEDIMENTO
+------------
+1. Identifique o cilindro: tubo onde o pistão sobe e desce.
+2. Localize o pistão, a peça que desliza dentro do cilindro.
+3. Localize a biela, a haste que liga o pistão ao virabrequim.
+4. Localize o virabrequim, que transforma o vai e vem do pistão em giro.
+5. Observe a vela de ignição no motor a gasolina; ela dá a faísca inicial.
+6. Anote a ordem dos quatro tempos: admissão, compressão, explosão, escape.
+7. Veja a admissão: a válvula de entrada abre e o pistão desce, puxando
+   mistura de ar e combustível para dentro do cilindro.
+8. Veja a compressão: as duas válvulas fecham e o pistão sobe, apertando
+   a mistura.
+9. Veja a explosão: a vela dá a faísca, o combustível queima depressa e
+   empurra o pistão para baixo; é o único tempo que gera força.
+10. Veja o escape: a válvula de saída abre e o pistão sobe, expulsando
+    os gases queimados.
+11. Entenda que um ciclo completo leva quatro movimentos do pistão e duas
+    voltas do virabrequim.
+12. Note que no motor a diesel não há vela: o combustível inflama sozinho
+    no ar quente comprimido, injetado pelo bico.
+13. Mantenha mãos, cabelos e roupas longe de correias, ventoinha e tubo de
+    escape com o motor ligado; use óculos de proteção.
+
+ATENCAO
+-------
+O escapamento libera monóxido de carbono: gás incolor, sem cheiro, que mata
+sem aviso. Nunca ligue o motor em lugar fechado, garagem ou tenda.
+Combustível e vapores pegam fogo com facilidade: não fume nem aproxime chama
+ou faísca ao abastecer ou observar o motor.
+Correias, ventoinha e polias ferem; cabeçote e tubo de escape queimam.
+Desligue o motor e espere esfriar antes de tocar em qualquer peça.
+Dor de cabeça, tontura, fraqueza, náusea ou confusão perto do motor são
+sinais de intoxicação: saia para o ar livre e procure ajuda de imediato.
+Com cheiro forte de combustível, vazamento ou fumaça anormal, desligue e
+pare. O texto explica o princípio, não substitui o manual do fabricante.
+
+SE NAO TIVER
+------------
+Sem motor para observar, use um desenho esquemático ou represente o ciclo
+com palitos e uma caixa; isso mostra a ordem dos tempos, mas não substitui
+a observação de um motor real.
+Sem local ventilado, não ligue o motor: espere um lugar aberto.
+Sem óculos, não se aproxime de motor em funcionamento.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A pessoa aponta, na ordem, admissão, compressão, explosão e escape, e diz
+qual tempo gera força.
+A pessoa identifica pistão, biela, virabrequim e válvulas no motor ou no
+desenho, e explica que o ciclo leva duas voltas do virabrequim.
+A pessoa liga o motor só em lugar aberto, com o escape livre, longe de
+peças móveis e quentes.
+
+FONTES
+------
+Encyclopaedia Britannica: artigos "internal-combustion engine" e
+"gasoline engine" (ciclo de quatro tempos, componentes e emissões).
+Energy Education, Universidade de Calgary: "Four stroke engine" (ordem dos
+tempos e ciclo de Otto).
+CDC: "Carbon Monoxide (CO) Poisoning Basics" (risco, sintomas e prevenção
+do monóxido de carbono).

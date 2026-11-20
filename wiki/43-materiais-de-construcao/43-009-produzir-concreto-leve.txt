@@ -1,0 +1,91 @@
+==============================================================================
+CODIGO: 43-009
+TITULO: Como produzir concreto leve
+CATEGORIA: 43 - Produção de materiais de construção
+TEMPO: 50 minutos
+RISCO: alto
+EXIGE: cimento, agregado leve, agua, balde, luvas e mascara
+REVISAO: 2026-11
+PALAVRAS-CHAVE: concreto, leve, pedra-pomes, argila expandida, cimento
+==============================================================================
+
+OBJETIVO
+--------
+Produzir blocos de concreto mais leves, com melhor isolamento.
+
+QUANDO USAR
+-----------
+Quando os blocos precisam ser carregados e assentados com menos esforco.
+Quando se quer melhorar o isolamento termico de uma parede.
+Quando a base existente nao suporta o peso do concreto comum.
+Quando vai preencher vãos que nao sustentam carga.
+
+NAO USE QUANDO
+--------------
+Nao use em vigas, colunas ou lajes que sustentam peso, sem calculo de
+profissional. O concreto leve e mais fraco que o concreto comum.
+Nao use onde ha impacto forte, umidade constante ou contato com o solo.
+
+MATERIAIS
+---------
+- Cimento Portland comum, seco e sem grumos duros.
+- Agregado leve: pedra-pomes, tufo, escoria ou argila expandida.
+- Areia fina limpa (opcional, para dar consistencia a massa).
+- Agua limpa, a mesma que se usaria para beber.
+- Um balde unico para medir todas as partes.
+- Pa, enxada ou pedaco de madeira para misturar.
+- Luvas, mascara de pano e oculos de protecao.
+- Forma de madeira ou molde para os blocos.
+
+PROCEDIMENTO
+------------
+1. Escolha o agregado leve, como pedra-pomes ou argila expandida.
+2. Retire terra, galhos e pedras grandes do agregado.
+3. Passe agua sobre o agregado e escorra o excesso.
+4. Meça 1 balde de cimento e coloque-o na lona ou no misturador.
+5. Adicione 6 baldes do agregado leve umido.
+6. Misture a seco ate a cor ficar uniforme.
+7. Faca um buraco no centro e adicione agua aos poucos.
+8. Misture ate a massa ficar com consistencia de farofa umida.
+9. Se a massa desfizer, acrescente um pouco de agua.
+10. Se a massa escorrer, acrescente agregado leve.
+11. Preencha a forma com a massa em camadas finas.
+12. Aperte levemente cada camada, sem socar com forca.
+13. Deixe a massa descansar na forma por 24 horas.
+14. Desmolde as pecas com cuidado.
+15. Cubra as pecas com pano umido por 7 dias para curar.
+16. Empilhe as pecas secas em local arejado, fora do solo.
+
+ATENCAO
+-------
+O po de cimento queima a pele e os olhos e prejudica os pulmoes.
+Use luvas, mascara e oculos durante toda a mistura.
+Agregado leve seco suga a agua da massa e deixa o bloco fraco.
+Agua em excesso enfraquece o concreto e abre rachaduras ao secar.
+O concreto leve nao serve para carga estrutural sem projeto.
+Nao misture cimento em recipiente usado com combustivel, tinta ou veneno.
+Se a peca rachar muito ou desfizer ao toque, refaca a mistura.
+Nao misture cimento em local fechado sem ventilacao.
+
+SE NAO TIVER
+------------
+Sem pedra-pomes, use tufo ou escoria vulcanica como agregado leve.
+Sem agregado leve, serragem ou cavacos de madeira servem so em enchimento
+sem carga; a resistencia cai muito.
+Se quiser mais resistencia, troque 1 balde de agregado por 1 de areia fina;
+o bloco ficara mais pesado.
+Sem cimento, nao ha substituto caseiro confiavel para fazer concreto.
+Sem balde, use qualquer recipiente unico e mantenha a mesma proporcao.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A massa fica com aspecto de farofa umida e nao escorre.
+A peca desmoldada manteve a forma, sem rachaduras largas.
+Apos a cura, a superficie nao desfaz ao esfregar com a mao.
+O bloco pesa visivelmente menos que um bloco comum do mesmo tamanho.
+
+FONTES
+------
+Pratica consolidada de concreto com agregados leves, difundida em manuais
+de tecnologia do concreto. Resumo operacional, nao substitui calculo
+estrutural. Proporcoes aproximadas, ajustaveis ao material disponivel.

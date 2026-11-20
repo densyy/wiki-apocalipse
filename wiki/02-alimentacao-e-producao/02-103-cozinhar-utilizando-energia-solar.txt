@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 02-103
+TITULO: Como cozinhar utilizando energia solar
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 45 minutos
+RISCO: alto
+EXIGE: sol forte, coletor solar, panela escura com tampa, água limpa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: sol, cozinhar, energia solar, panela escura, forno solar
+==============================================================================
+
+OBJETIVO
+--------
+Cozinhar alimentos usando só o calor do sol, sem fogo, gás ou eletricidade.
+
+QUANDO USAR
+-----------
+Quando faltar gás, lenha ou eletricidade e houver sol forte.
+Quando o prato puder ficar tampado e não precisar de mexer.
+Quando houver tempo livre para esperar várias horas.
+Quando for preciso cozinhar arroz, feijão, legumes ou carne em uma panela.
+
+NAO USE QUANDO
+--------------
+Não use em dia nublado, chuvoso ou de sol fraco: não esquenta o suficiente.
+Não use para fritar nem para pratos que exigem mexer sem parar.
+Não use se não houver sol direto entre 10 e 14 horas.
+
+MATERIAIS
+---------
+- Caixa de papelão com tampa para servir de coletor solar.
+- Papel alumínio, papel preto, jornal, plástico transparente e fita.
+- Panela escura de metal, rasa e com tampa.
+- Termômetro de cozinha (ou garfo limpo para testar a maciez).
+- Alimento cortado em pedaços pequenos e água limpa.
+- Pano grosso para segurar a panela quente.
+
+PROCEDIMENTO
+------------
+1. Forre o fundo e as paredes da caixa com papel alumínio liso.
+2. Cubra o fundo com papel preto colado sobre o alumínio.
+3. Coloque jornal amassado entre duas caixas, uma dentro da outra.
+4. Recorte um quadrado na tampa e deixe uma borda como dobradiça.
+5. Cubra o quadrado com plástico transparente preso por dentro, sem frestas.
+6. Escolha lugar aberto e sem sombra, com sol direto das 10 às 14 horas.
+7. Coloque o alimento cortado pequeno na panela, com água limpa.
+8. Coloque os ingredientes de uma vez: não mexa depois de fechar.
+9. Encha a panela até no máximo uma altura de mão.
+10. Tampe a panela e coloque-a no centro do fundo preto da caixa.
+11. Feche a caixa e vire a aba de alumínio para o sol.
+12. Apoie a aba com um palito e gire a caixa a cada duas horas.
+13. Espere aproximadamente 3 a 4 horas para arroz e legumes.
+14. Espere aproximadamente 5 a 8 horas para feijão e carne.
+15. Meça o centro do alimento: deve passar de 70 graus Celsius.
+16. Retire a panela com pano grosso e sirva acima de 60 graus.
+
+ATENCAO
+-------
+Comida crua ou morna pode intoxicar: o centro deve passar de 70 graus.
+Panela, plástico e vidro ficam muito quentes: use pano grosso nas mãos.
+Não olhe direto para o reflexo do alumínio: a luz pode ferir os olhos.
+Comida entre 5 e 60 graus por mais de duas horas cria bactérias.
+Se nuvens baixarem a temperatura e a comida ficar morna, descarte.
+Sem como medir a temperatura, não cozinhe carne crua neste aparelho.
+
+SE NAO TIVER
+------------
+Sem termômetro, espete a carne: não pode haver cor rosa nem suco rosa.
+Sem segunda caixa, coloque jornal ao redor da caixa para isolar.
+Sem plástico, use saco de forno transparente preso com fita.
+Sem panela escura, use a panela de metal mais escura que houver.
+Sem sol direto, não tente cozinhar: coma alimento pronto, sem calor.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O centro do alimento passa de 70 graus no termômetro.
+A carne fica sem cor rosa e o suco sai claro.
+Arroz e feijão ficam macios ao espetar com um garfo.
+A comida sai quente, acima de 60 graus, no momento de servir.
+
+FONTES
+------
+OMS, Cinco chaves para alimentos mais seguros: cozinhar até 70 graus e
+manter acima de 60 graus, fora da faixa de 5 a 60 graus.
+OPAS/OMS: orientações sobre cocção completa e temperatura segura.
+CGIAR, guia Construction of solar cookers and driers: fornos tipo caixa
+e painel chegam a 120-150 graus; comida acima de 60 graus.
+Solar Cookers International, How to make, use and enjoy: panelas escuras
+e rasas com tampa e cozimento de uma a três vezes mais lento.

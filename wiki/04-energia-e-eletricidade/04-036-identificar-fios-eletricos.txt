@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 04-036
+TITULO: Como identificar fios elétricos
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 20 minutos
+RISCO: alto
+EXIGE: circuito desligado, lanterna, fita isolante e caneta
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fio, cabo, fase, neutro, terra, cor, disjuntor
+==============================================================================
+
+OBJETIVO
+--------
+Distinguir cada fio pela cor do isolamento e pela
+funcao antes de qualquer reparo, sem encostar em
+parte com energia.
+
+QUANDO USAR
+-----------
+Quando for trocar tomada, interruptor ou lampada.
+Quando encontrar fios soltos apos reforma ou queda.
+Quando abrir caixa de passagem com varios fios juntos.
+Quando precisar etiquetar fios para um reparo futuro.
+
+NAO USE QUANDO
+--------------
+Em fio desencapado, derretido, molhado ou com cheiro
+de queimado.
+Em poste, medidor, caixa do vizinho ou rede da rua.
+Se o disjuntor nao desliga ou nao ha como confirmar
+que o circuito esta sem energia.
+
+MATERIAIS
+---------
+- Lanterna (celular com bateria carregada).
+- Testador de tensao tipo caneta detectora.
+- Fita isolante colorida para marcar cada fio.
+- Caneta e papel para anotar cor e destino.
+- Oculos de protecao e luva de borracha seca.
+
+PROCEDIMENTO
+------------
+1. Desligue o disjuntor do circuito e avise na casa.
+2. Apague lampadas e desligue aparelhos desse circuito.
+3. Ilumine a caixa sem encostar em nenhum fio.
+4. Confirme ausencia de tensao com o testador em
+cada fio, seguindo o manual do testador.
+5. Observe a cor do isolamento de cada fio com calma.
+6. Considere azul-claro como neutro provavel.
+7. Considere verde ou verde-amarelo como terra
+provavel de protecao.
+8. Considere preto, marrom, cinza ou vermelho como
+fase provavel.
+9. Siga cada fio com os olhos ate o destino: tomada,
+interruptor, lampada, disjuntor ou barramento.
+10. Marque cada fio com fita e anote cor e destino
+no papel.
+11. Fotografe ou desenhe a caixa antes de fechar.
+12. Feche a caixa e so entao religue o disjuntor.
+
+ATENCAO
+-------
+Choque eletrico mata: nunca encoste em fio com
+energia nem trabalhe com mao molhada ou piso
+molhado.
+Cor ajuda, mas nao garante: instalacao antiga ou
+improvisada pode ter cor trocada ou fio sem cor.
+Nunca improvise emenda em rede energizada nem
+ligue fio sem saber a origem e o destino.
+Fio quente, faisca, estalo ou cheiro de queimado:
+pare, desligue o disjuntor geral e nao religue.
+Fogo em quadro eletrico: nao jogue agua; desligue
+a energia se for seguro e chame ajuda.
+Este procedimento nao autoriza mexer em medidor,
+poste ou rede da rua; isso e servico da
+concessionaria.
+
+SE NAO TIVER
+------------
+Sem testador, nao confirme fio pela cor: pare e
+espere ajuda com instrumento.
+Sem fita colorida, use tiras de papel amarradas e
+anote a posicao de cada uma.
+Sem lanterna, trabalhe de dia e nao use vela ou
+isqueiro perto da caixa eletrica.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada fio tem marca e anotacao de cor e destino.
+O testador indica sem tensao antes do manuseio e
+o circuito volta a funcionar apos fechar a caixa.
+
+FONTES
+------
+Pratica consolidada de instalacoes eletricas
+prediais, sem documento unico.

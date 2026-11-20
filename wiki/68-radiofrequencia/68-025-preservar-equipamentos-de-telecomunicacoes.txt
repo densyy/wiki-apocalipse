@@ -1,0 +1,88 @@
+==============================================================================
+CODIGO: 68-025
+TITULO: Como preservar equipamentos de telecomunicações
+CATEGORIA: 68 - Radiofrequência e telecomunicações
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: luvas isolantes, pano seco, sílica gel, sacos plásticos, multímetro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: rádio, conservar, umidade, bateria, guardar, corrosão
+==============================================================================
+
+OBJETIVO
+--------
+Conservar rádios e baterias para voltarem a funcionar após meses guardados.
+
+QUANDO USAR
+-----------
+Quando vai guardar equipamento por semanas ou meses.
+Quando o aparelho ficou exposto à umidade, poeira ou chuva.
+Quando aparece corrosão em contatos e conectores.
+Quando baterias antigas precisam ser armazenadas com segurança.
+Antes de desmontar uma estação de rádio para transporte.
+
+NAO USE QUANDO
+--------------
+Não manuseie equipamento ligado: desligue e retire a energia primeiro.
+Não use para reparar circuito com defeito ou queima.
+Não substitui limpeza técnica de aparelho crítico ou de alta potência.
+
+MATERIAIS
+---------
+- Pano limpo, seco e sem fiapos.
+- Sílica gel ou outro dessecante (carvão ativado seco).
+- Sacos plásticos com fecho ou recipientes com tampa (caixa selada).
+- Luvas isolantes.
+- Multímetro, medidor de tensão (testador de continuidade).
+- Escova de cerdas macias (pincel limpo).
+- Graxa dielétrica para contatos (vaselina pura).
+
+PROCEDIMENTO
+------------
+1. Desligue o equipamento e retire as baterias antes de guardar.
+2. Confira com o multímetro se não há tensão nos terminais.
+3. Retire cabos e conectores puxando pelo corpo, nunca pelo fio.
+4. Escove a poeira com a escova macia e depois com o pano seco.
+5. Retire baterias com vazamento usando luvas e descarte em local seguro.
+6. Passe camada fina de graxa dielétrica nos contatos metálicos expostos.
+7. Envolva cada aparelho em pano seco antes de colocar no saco.
+8. Coloque sílica gel junto ao aparelho dentro do saco plástico.
+9. Feche o saco ou recipiente expulsando o ar em excesso.
+10. Guarde em lugar seco, escuro e com temperatura estável, longe do chão.
+11. Deixe as baterias removidas com carga aproximadamente pela metade.
+12. Guarde as baterias separadas dos aparelhos e longe de calor.
+13. Revise cada aparelho a cada aproximadamente três meses.
+14. Anote em papel a data da revisão e o estado de cada equipamento.
+
+ATENCAO
+-------
+Eletricidade e baterias podem causar choque, curto ou incêndio.
+Nunca feche aparelho úmido no saco: espere secar antes.
+Baterias em curto podem aquecer, vazar ou explodir.
+Umidade e sal corroem contatos e antenas sem aviso.
+Nunca use solvente agressivo na placa ou nos plásticos.
+Não guarde baterias descarregadas: sulfatam e podem não voltar.
+Com cheiro de gás, calor ou vazamento, afaste-se e busque ajuda.
+
+SE NAO TIVER
+------------
+Sem sílica gel, use carvão ativado seco embrulhado em pano.
+Sem saco com fecho, use recipiente de tampa apertada com pano seco.
+Sem graxa dielétrica, mantenha os contatos apenas limpos e secos.
+Sem multímetro, trate todo aparelho como se estivesse energizado.
+Sem luvas, use pano seco e nunca toque terminais expostos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Contatos limpos, sem oxidação verde ou branca.
+Baterias sem vazamento e com tensão estável.
+Aparelhos secos ao tato e sem cheiro de mofo.
+Sacos e recipientes fechados com dessecante no interior.
+Aparelho liga e mantém a comunicação depois da revisão.
+
+FONTES
+------
+Prática consolidada de conservação de equipamentos eletrônicos e de rádio.
+Orientações de fabricantes sobre armazenamento de baterias recarregáveis.
+IPC/J-STD-033, manuseio e armazenamento de peças sensíveis à umidade.
+Manual de sobrevivência civil FM 21-76, conservação de material em campo.

@@ -1,0 +1,80 @@
+==============================================================================
+CODIGO: 51-029
+TITULO: Como converter unidades de medida
+CATEGORIA: 51 - Matemática aplicada à sobrevivência
+TEMPO: 20 minutos
+RISCO: baixo
+EXIGE: papel, lápis, superfície plana
+REVISAO: 2026-11
+PALAVRAS-CHAVE: unidade, conversão, metro, litro, quilo, polegada
+==============================================================================
+
+OBJETIVO
+--------
+Transformar um valor medido numa unidade em outra unidade equivalente.
+
+QUANDO USAR
+-----------
+Ao seguir uma receita que usa medidas diferentes das suas.
+Ao comparar preços por quilo, litro ou metro.
+Ao ler instruções de equipamento em polegadas ou libras.
+Ao converter temperatura para regular forno ou incubadora.
+Ao dividir suprimentos medidos em unidades distintas.
+
+NAO USE QUANDO
+--------------
+Não converta unidades para disfarçar erro de medição ou de dose.
+Em remédio, veneno ou mistura química, use a unidade da fonte.
+Se a conversão mudar uma dose crítica, confirme com alguém treinado.
+
+MATERIAIS
+---------
+- Papel limpo para as contas (verso de embalagem serve).
+- Lápis ou objeto que deixe marca (carvão, ponta de metal).
+- Superfície plana e firme para apoiar o papel.
+- A lista de fatores deste texto, copiada para conferência.
+
+PROCEDIMENTO
+------------
+1. Escreva o valor original com a sua unidade ao lado.
+2. Escolha o fator que liga a unidade atual à unidade desejada.
+3. Comprimento: 1 km = 1000 m; 1 m = 100 cm; 1 cm = 10 mm.
+4. Massa: 1 t = 1000 kg; 1 kg = 1000 g; 1 g = 1000 mg.
+5. Volume: 1 L = 1000 mL; 1 L = 1000 cm3; 1 m3 = 1000 L.
+6. Tempo: 1 h = 60 min; 1 min = 60 s.
+7. Medidas comuns: 1 polegada = 2,54 cm; 1 pé = 30,48 cm.
+8. 1 libra = 453,592 g (cerca de 454 g); 1 milha = 1,609 km.
+9. Para passar de maior para menor, multiplique pelo fator.
+10. Para passar de menor para maior, divida pelo fator.
+11. De Celsius para Fahrenheit: multiplique por 9/5 e some 32.
+12. De Fahrenheit para Celsius: subtraia 32 e multiplique por 5/9.
+13. Escreva o resultado com a unidade nova conferida no papel.
+
+ATENCAO
+-------
+Um erro de fator muda o resultado dez, cem ou mil vezes.
+Confira sempre se você multiplicou ou dividiu na direção certa.
+Polegada e polegada quadrada medem coisas diferentes; não confunda.
+Galão americano tem cerca de 3,79 L; o imperial, cerca de 4,55 L.
+Em dose de remédio ou mistura química, nunca troque a unidade sozinho.
+Arredonde apenas no final da conta, nunca no meio.
+Fadiga e pressa aumentam o erro; pare e refaça se duvidar.
+
+SE NAO TIVER
+------------
+Sem papel, escreva os fatores no chão com um graveto.
+Sem lápis, use carvão ou conte nos dedos para fatores simples.
+Se esquecer um fator, meça com régua e anote a relação encontrada.
+Na dúvida sobre o fator, mantenha a unidade original da fonte.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- A conta inversa devolve o valor original escrito no passo 1.
+- A unidade nova combina com a grandeza: comprimento, massa, volume.
+- O resultado é coerente: converter para unidade menor dá número maior.
+
+FONTES
+------
+Definições do Sistema Internacional de Unidades (SI) e fatores de
+conversão publicados pelo NIST. Prática consolidada de aritmética,
+sem documento único. Este texto é resumo operacional, não fonte.

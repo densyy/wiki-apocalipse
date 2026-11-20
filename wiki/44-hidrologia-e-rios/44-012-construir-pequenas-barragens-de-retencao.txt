@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 44-012
+TITULO: Como construir pequenas barragens de retenção
+CATEGORIA: 44 - Hidrologia, rios e gestão de bacias
+TEMPO: 4 a 8 horas
+RISCO: alto
+EXIGE: córrego raso, terra argilosa, pá, pedras, grama
+REVISAO: 2026-11
+PALAVRAS-CHAVE: barragem, represa, retenção, água, vertedouro, córrego
+==============================================================================
+
+OBJETIVO
+---------
+Reter água e sedimentos em um córrego raso com uma barragem baixa e segura.
+
+QUANDO USAR
+-----------
+Quando a água de um córrego raso escoa depressa após a chuva.
+Quando a enxurrada abre sulcos e carrega terra encosta abaixo.
+Quando o trecho é estreito, de queda suave, e há terra argilosa perto.
+Quando o local fica longe de casas, estradas e plantas de outras pessoas.
+
+NAO USE QUANDO
+--------------
+Quando o córrego enche muito ou já transbordou na última chuva.
+Quando há casas, estradas, pessoas ou animais logo abaixo do trecho.
+Quando o solo é arenoso, solto ou quando a encosta é muito inclinada.
+Quando chove forte ou há previsão de chuva intensa nas próximas horas.
+Quando a água desce com força e carrega pedras: não a contenha com terra.
+
+MATERIAIS
+---------
+- Pá, enxada ou pá de jardim.
+- Terra argilosa com pouca areia, limpa de raízes e folhas.
+- Pedras médias para proteger o lado de jusante (para onde a água escoa).
+- Grama ou palha para cobrir o solo exposto.
+- Balde ou recipiente para molhar a terra.
+- Estacas e corda para marcar a altura da água.
+- Cascalho para o vertedouro (saída do excesso de água).
+
+PROCEDIMENTO
+------------
+1. Observe o córrego depois da chuva e note até onde a água subiu.
+2. Escolha trecho estreito, com margens firmes e pouca queda.
+3. Confirme que a água represada não chegará a casas ou estradas.
+4. Confirme que não há plantações de outras pessoas abaixo do trecho.
+5. Marque com estacas os pontos onde a barragem encostará nas margens.
+6. Retire grama, folhas, raízes e terra solta de toda a área da base.
+7. Cave vala de aproximadamente 30 cm no leito e nas duas margens.
+8. Encha a vala com terra argilosa úmida e pise até ficar firme.
+9. Molhe a terra de construção até parecer massa de modelar.
+10. Espalhe terra em camadas de aproximadamente 15 cm.
+11. Pise cada camada antes de colocar a próxima.
+12. Eleve a crista (topo) até aproximadamente 1 metro acima do leito.
+13. Dê ao lado de jusante inclinação de aproximadamente 2 para 1.
+14. Cubra o lado de jusante com pedras ou grama.
+15. Abra o vertedouro na margem mais alta do terreno.
+16. Aprofunde o vertedouro aproximadamente 10 cm e forre com cascalho.
+17. Mantenha o vertedouro mais baixo que a crista.
+18. Observe a primeira chuva de lado, em terreno alto.
+19. Nunca fique na linha da água abaixo da barragem.
+20. Anote rachaduras, afundamentos e vazamentos na primeira hora.
+
+ATENCAO
+-------
+Uma barragem que rompe solta a água de uma vez e pode afogar quem está
+abaixo. Nunca fique nessa linha quando o nível estiver subindo.
+A água não pode passar por cima da crista: isso desfaz a terra depressa.
+O vertedouro serve para escoar o excesso sem atingir o topo.
+Vazamento com água turva, rachadura ou afundamento anuncia rompimento.
+Saia da área, avise quem está abaixo e não tente tapar com a água subindo.
+A água represada continua imprópria para beber: trate antes (veja 01-001).
+Não represe curso d'água que deságua em casa, estrada ou terra de outrem.
+
+SE NAO TIVER
+------------
+Sem terra argilosa, empilhe pedras e terra miúda, com base bem mais larga.
+Sem pedras, use grama e capim denso na face de jusante contra a erosão.
+Sem pá, cave com enxada, estaca pontuda ou as mãos protegidas.
+Sem recipiente para molhar, construa em época úmida e espere a chuva.
+Se o córrego for grande, desista e procure outra fonte de água.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água fica represada e escoa pelo vertedouro sem ultrapassar a crista.
+A face de jusante fica seca ou com umidade uniforme, sem fios d'água.
+Após a chuva, a terra assentou sem rachaduras nem afundamentos visíveis.
+Os sedimentos assentam no lado de cima e a água que sai fica mais clara.
+
+FONTES
+------
+Prática consolidada de conservação de solo e água. Consultadas: orientações
+da Embrapa sobre terraceamento; manual da USDA NRCS sobre lagoas e
+pequenas barragens de terra (Agriculture Handbook 590); orientações da EPA
+sobre check dams; manual do Serviço Florestal dos EUA sobre barragens de
+contenção em trilhas e sulcos. Resumo operacional, não substitui projeto.

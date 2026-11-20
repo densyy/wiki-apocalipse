@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 03-089
+TITULO: Como entender resistência bacteriana
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 20 minutos
+RISCO: medio
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bacteria, antibiotico, resistencia, remedio, infeccao
+==============================================================================
+
+OBJETIVO
+--------
+Entender por que bacterias resistem ao antibiotico e como evitar isso.
+
+QUANDO USAR
+-----------
+Quando surge a vontade de tomar antibiotico por conta propria.
+Quando sobra remedio de um tratamento anterior em casa.
+Quando voce cuida de doentes e quer evitar espalhar bacterias.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Entenda que antibiotico so age contra bacterias.
+2. Lembre que gripe e resfriado sao causados por virus.
+3. Lembre que antibiotico e o nome da classe de remedios.
+4. Entenda amoxicilina como exemplo de principio ativo.
+5. Entenda resistencia como bacteria que sobrevive ao remedio.
+6. Perceba que uso errado e interrupcao precoce pioram a resistencia.
+7. Nunca peça antibiotico sem avaliacao de profissional de saude.
+8. Use antibiotico somente conforme prescricao, ate o fim.
+9. Nunca use sobra de outro tratamento ou de outra pessoa.
+10. Lave as maos com agua e sabao antes de cuidar de feridas.
+11. Mantenha feridas limpas, cobertas e observe sinais de infeccao.
+
+ATENCAO
+-------
+Este texto nao receita remedio e nao substitui atendimento de saude.
+Antibiotico errado nao cura virus e seleciona bacterias mais fortes.
+Interacoes: mistura com outros remedios ou alcool pode cortar o
+efeito e causar enjoo, vomito, diarreia, tontura ou alergia na pele.
+Sinais de intoxicacao ou alergia: vomito forte, manchas, coceira,
+inchaco de labios ou olhos, falta de ar e desmaio.
+Nao aumente, diminua ou encurte o tratamento por conta propria.
+Procure atendimento com febre alta, piora rapida, falta de ar,
+dor forte, vomito que nao para ou ferida com pus e cheiro ruim.
+
+SE NAO TIVER
+------------
+Sem caderno: memorize tres regras: sem prescricao nao use, nao
+compartilhe sobras e complete o tratamento conforme prescricao.
+Sem sabao: lave as maos com agua limpa corrente e proteja a ferida.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Voce explica por que antibiotico nao serve para gripe.
+Voce recusa sobras e so aceita remedio conforme prescricao.
+
+FONTES
+------
+Orientacoes da OMS sobre resistencia antimicrobiana; Anvisa e
+Ministerio da Saude sobre uso de antimicrobianos; higiene das maos.

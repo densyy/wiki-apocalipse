@@ -1,0 +1,86 @@
+============================================================================
+CODIGO: 80-007
+TITULO: Como compreender a produção de biodiesel
+CATEGORIA: 80 - Produção de combustíveis e lubrificantes
+TEMPO: 50 minutos
+RISCO: alto
+EXIGE: ventilação, companhia, recipientes de vidro, caderno
+REVISAO: 2026-11
+PALAVRAS-CHAVE: biodiesel, óleo, glicerina, catalisador, lavagem, secagem
+============================================================================
+
+OBJETIVO
+--------
+Entender como o óleo vegetal vira combustível e quais cuidados evitam
+queimadura, intoxicação e resíduo perigoso no processo.
+
+QUANDO USAR
+-----------
+Ao usar óleo vegetal como alternativa de combustível.
+Quando houver óleo limpo e ambiente bem arejado.
+Ao avaliar se vale a pena processar o óleo antes de usá-lo.
+Quando precisar separar e descartar resíduos do processo.
+Somente com outra pessoa avisada e equipamento de proteção.
+
+NAO USE QUANDO
+--------------
+Não processe óleo com água, comida queimada ou cheiro rançoso.
+Não faça a mistura em ambiente fechado ou perto de chama.
+Não improvise catalisador com produto de limpeza desconhecido.
+Não despeje resíduo no solo, no rio ou no lixo comum.
+
+MATERIAIS
+---------
+- Óleo vegetal limpo, filtrado e sem água.
+- Álcool adequado e catalisador próprio para o processo.
+- Recipientes de vidro com tampa e bastão de mexer.
+- Luvas, óculos de proteção e pano para limpeza.
+- Caderno para registrar quantidades aproximadas e datas.
+
+PROCEDIMENTO
+------------
+1. Entenda que óleo puro é denso e não serve em motores comuns.
+2. O biodiesel vem da reação do óleo com álcool e catalisador.
+3. Use óleo limpo, sem água e sem restos de comida queimada.
+4. Filtre o óleo antes de qualquer processo.
+5. Aqueça o óleo apenas o suficiente para ficar fluido.
+6. Misture o álcool ao catalisador em recipiente aberto.
+7. Adicione essa mistura ao óleo aos poucos, mexendo sem parar.
+8. Mantenha o local arejado durante toda a mistura.
+9. Deixe a mistura descansar até separar em duas camadas.
+10. A camada inferior é glicerina; a superior é o biodiesel.
+11. Retire a glicerina com cuidado e guarde-a à parte.
+12. Lave o biodiesel com água limpa para retirar resíduos.
+13. Deixe o combustível secar por completo antes de usar.
+14. Filtre de novo e guarde em recipiente bem etiquetado.
+15. Anote no caderno o tipo de óleo e as quantidades usadas.
+
+ATENCAO
+-------
+Catalisador forte queima pele e olhos: use luvas e óculos.
+Álcool metílico é tóxico e inflamável: nunca inale o vapor.
+Não use metanol em ambiente fechado ou perto de chama.
+Óleo com água atrapalha a reação e estraga o resultado.
+Glicerina e resíduos não devem ir para rio, solo ou fogueira.
+Se houver cheiro forte ou irritação, saia e ventile o ambiente.
+Este texto explica o processo, não autoriza improviso em motor.
+
+SE NAO TIVER
+------------
+Sem catalisador próprio, pare e registre a limitação no caderno.
+Sem álcool adequado, não substitua por produto desconhecido.
+Sem balança, registre apenas proporções aproximadas em volume.
+Sem local arejado, abra portas e janelas antes de começar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A mistura separou em duas camadas bem definidas.
+O biodiesel ficou transparente e seco após a lavagem.
+O recipiente está etiquetado e longe de fontes de calor.
+Os resíduos foram separados para descarte correto.
+
+FONTES
+------
+Noções de transesterificação de óleos vegetais e de segurança no
+manuseio de álcool e catalisador, resumidas de apostilas de
+química aplicada e de manuais de segurança do trabalho.

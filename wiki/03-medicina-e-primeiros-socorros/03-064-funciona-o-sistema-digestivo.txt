@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 03-064
+TITULO: Como funciona o sistema digestivo
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 10 minutos
+RISCO: medio
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: digestão, estômago, intestino, enzimas, absorção, barriga
+==============================================================================
+
+OBJETIVO
+--------
+Entender como o corpo transforma alimento em nutrientes e elimina o resto.
+
+QUANDO USAR
+-----------
+Ao notar dor, inchaço ou azia depois de comer.
+Quando precisar ligar diarreia ou prisão de ventre a uma etapa do trajeto.
+Ao orientar uma alimentação simples em situação de crise.
+
+NAO USE QUANDO
+--------------
+Não use este texto para diagnosticar doença do estômago ou do intestino.
+Não use no lugar de orientação médica se houver dor forte ou sangue.
+
+MATERIAIS
+---------
+- Nenhum material. Basta conhecer o próprio corpo.
+- Opcional: papel e lápis para desenhar o trajeto.
+
+PROCEDIMENTO
+------------
+1. Entenda o trajeto: boca, esôfago, estômago, intestino delgado,
+   intestino grosso e reto.
+2. Na boca, mastigue: os dentes trituram e a saliva umedece o alimento.
+3. A saliva tem enzima que começa a quebrar o amido.
+4. Engula: a língua empurra o bolo alimentar para o esôfago.
+5. O esôfago é um tubo que desce por movimentos até o estômago.
+6. No estômago, o alimento é misturado com ácido e enzimas.
+7. O ácido destrói micro-organismos e digere proteínas; forma o quimo.
+8. No intestino delgado, agem a bile do fígado e as enzimas do pâncreas.
+9. A bile quebra gordura; as enzimas digerem açúcares e proteínas.
+10. As paredes absorvem nutrientes para o sangue pelas vilosidades.
+11. No intestino grosso, água e sais voltam para o corpo.
+12. Bactérias da flora ajudam a fermentar o que sobrou.
+13. O restante vira fezes e sai pelo reto e pelo ânus.
+
+ATENCAO
+-------
+Este texto é educativo: não substitui avaliação médica.
+Dor forte, vômito com sangue ou fezes pretas exigem atendimento.
+O ácido do estômago irrita a parede: assim surgem azia e úlcera.
+Diarreia e desidratação atrapalham a absorção e pedem reposição de líquido.
+Mudança brusca no hábito intestinal merece avaliação médica.
+
+SE NAO TIVER
+------------
+Sem papel: desenhe o trajeto no chão ou apenas decore a ordem.
+Sem lápis: aponte para o próprio corpo ao explicar cada etapa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você cita a ordem: boca, esôfago, estômago, delgado, grosso e reto.
+Você explica onde o alimento é triturado, digerido e absorvido.
+Você liga a azia ao ácido e a diarreia à absorção de água no intestino.
+
+FONTES
+------
+Manual MSD e MedlinePlus/NIH; resumo educativo, sem avaliação médica.

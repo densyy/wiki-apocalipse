@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 04-038
+TITULO: Como montar um circuito elétrico básico
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: 2 pilhas AA, lâmpada pequena de 3 V, fios e fita isolante
+REVISAO: 2026-11
+PALAVRAS-CHAVE: circuito, pilha, fio, lâmpada, interruptor, energia
+==============================================================================
+
+OBJETIVO
+--------
+Acender uma lâmpada pequena com pilhas, de forma controlada.
+
+QUANDO USAR
+-----------
+Quando precisar de luz fraca de teste usando só pilhas.
+Quando quiser aprender como a corrente passa por fios e lâmpada.
+Para testar se uma lâmpada pequena de lanterna ainda funciona.
+
+NAO USE QUANDO
+--------------
+Na rede de tomada, quadro, poste ou gerador. Nunca improvise ali.
+Com bateria de carro ou fonte maior que pilhas pequenas.
+Se houver fio molhado, emenda solta, faísca ou cheiro de queimado.
+
+MATERIAIS
+---------
+- 2 pilhas AA novas do mesmo tipo.
+- Suporte para 2 pilhas com fios (ou fita isolante firme).
+- Lâmpada pequena de lanterna de 3 V com soquete.
+- 2 fios curtos encapados, se o suporte não alcançar.
+- Fita isolante e interruptor simples (opcional).
+
+PROCEDIMENTO
+------------
+1. Trabalhe em mesa seca, longe de água e com as mãos secas.
+2. Confirme lâmpada de 3 V e 2 pilhas AA de 1,5 V do mesmo tipo.
+3. Deixe o interruptor desligado, se o circuito tiver um.
+4. Coloque as pilhas no suporte respeitando os sinais + e -.
+5. Ligue o fio positivo do suporte a um contato do soquete.
+6. Ligue o fio negativo ao outro contato do soquete.
+7. Encaixe a lâmpada no soquete e ligue o interruptor.
+8. Desligue tudo e retire as pilhas ao terminar o teste.
+
+ATENCAO
+-------
+Nunca use tomada, quadro de luz ou poste; a rede elétrica mata.
+Encostar o + direto no - causa curto: fio e pilha esquentam rápido.
+Se sair fumaça ou cheiro de queimado, desligue e retire as pilhas.
+Não use pilha estufada ou vazando; o líquido queima a pele.
+Este circuito serve só para teste e luz fraca, nada maior.
+
+SE NAO TIVER
+------------
+Sem suporte, prenda os fios nos polos com fita isolante firme.
+Sem soquete, encoste cada fio num contato só para testar e desligue.
+Sem interruptor, ligue e desligue afastando um dos fios.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A lâmpada acende firme, sem piscar, e os fios seguem frios.
+Ao desligar, ela apaga por completo e nada continua quente.
+
+FONTES
+------
+Material didático de eletricidade básica da USP (experimento de
+circuito simples e apostila do Instituto de Física de São Carlos);
+literatura técnica sobre segurança de baterias (NIST e IEC 61140).

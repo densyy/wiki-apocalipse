@@ -1,0 +1,81 @@
+==============================================================================
+CODIGO: 59-001
+TITULO: Fundamentos de segurança do trabalho
+CATEGORIA: 59 - Segurança industrial e riscos ocupacionais
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: caderno, caneta, acesso ao local de trabalho
+REVISAO: 2026-11
+PALAVRAS-CHAVE: segurança, risco, perigo, EPI, acidente, prevenção
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer perigos no trabalho e escolher a proteção correta.
+
+QUANDO USAR
+-----------
+Ao começar uma tarefa nova ou trocar de função.
+Ao entrar em um local de trabalho desconhecido.
+Depois de um acidente ou de um quase acidente.
+Quando surgir equipamento, produto ou processo novo.
+Antes de trabalho em altura, com máquinas ou com químicos.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+Ele nao substitui treinamento formal nem o programa da empresa.
+
+MATERIAIS
+---------
+- Caderno e caneta para anotar os achados.
+- Acesso ao local, as maquinas e os produtos envolvidos.
+- Relacao dos EPIs disponiveis e o manual do equipamento.
+- Pessoa responsavel pelo local para responder perguntas.
+
+PROCEDIMENTO
+------------
+1. Defina a tarefa: o que sera feito, onde e por quem.
+2. Caminhe pelo local e olhe acima, ao redor e no chao.
+3. Anote cada fonte de perigo: ruido, queda, corte, calor,
+   eletricidade, produto liquido, poeira ou maquina sem guarda.
+4. Para cada perigo, escreva quem pode se machucar e como.
+5. Classifique o risco: grave se pode matar ou deixar sequela;
+   leve se causa lesao pequena ou apenas retrabalho.
+6. Tente eliminar o perigo. Se nao der, substitua por algo
+   mais seguro, como produto menos toxico ou ferramenta menor.
+7. Isole o que sobrou com guarda, tampa, barreira ou ventilacao.
+8. Reduza a exposicao com rotina: rodizio, pausa, treino e sinal.
+9. Use EPI como ultima barreira. Confira se tem CA valido, serve
+   para aquele risco e esta em bom estado.
+10. Avise cada envolvido sobre o risco e a medida tomada.
+11. Revise a analise apos mudancas, acidentes ou a cada dois anos.
+
+ATENCAO
+-------
+Uma analise rapida nao substitui treinamento nem o PGR da empresa.
+Nunca confie so no EPI se der para eliminar ou isolar o perigo.
+EPI sem Certificado de Aprovacao valido pode nao proteger.
+Se o risco pode matar ou deixar sequela, pare e chame o responsavel.
+Cheiro forte, fumaca, faisca ou ruido ensurdecedor sao sinais de parar.
+Nao invente medida que nao entende. Na duvida, nao execute a tarefa.
+
+SE NAO TIVER
+------------
+Sem caderno, anote em qualquer papel ou comunique em voz alta.
+Sem EPI adequado, pare a tarefa. Pano ou luva comum nao protege.
+Sem responsavel disponivel, interrompa o trabalho e peca orientacao.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada perigo visto esta anotado, com a medida escolhida e o aviso feito.
+As medidas seguem a ordem: eliminar, substituir, isolar, mudar, EPI.
+Ninguem segue na tarefa sem saber o risco e o EPI que deve usar.
+
+FONTES
+------
+Norma Regulamentadora 1 e Norma Regulamentadora 6 do Ministerio do
+Trabalho e Emprego. Hierarquia de controles do NIOSH/CDC: eliminacao,
+substituicao, controles de engenharia, administrativos e EPI.
+Resumo operacional de pratica consolidada em seguranca e saude no
+trabalho. Nao substitui treinamento nem o programa oficial da empresa.

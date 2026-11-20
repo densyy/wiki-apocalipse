@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 10-030
+TITULO: Como produzir fogo por fricção
+CATEGORIA: 10 - Sobrevivência em ambientes naturais
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: madeira seca dura e macia, faca, corda, bloco duro, isco seco
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fogo, fricção, arco, broca, brasa, isco, madeira, acender
+==============================================================================
+
+OBJETIVO
+--------
+Produza uma brasa e transforme-a em chama usando só madeira, corda e atrito.
+
+QUANDO USAR
+-----------
+Quando acabaram os fósforos e o isqueiro e é preciso acender uma fogueira.
+Quando não há pedra de sílex nem aço para produzir faísca.
+Quando você está sem energia e precisa de calor ou de cozinhar.
+Quando a temperatura cai e aumenta o risco de hipotermia.
+
+NAO USE QUANDO
+--------------
+Quando há fósforos, isqueiro ou faísca: use o método mais fácil.
+Quando a madeira está molhada: a umidade impede a formação da brasa.
+Quando venta muito: o vento espalha o pó e apaga a brasa.
+Quando você não tem prática nem tempo: o método exige esforço e treino.
+
+MATERIAIS
+---------
+- Tábua de madeira macia e seca (base onde a brasa se forma).
+- Graveto reto de madeira mais dura e seca (broca, cerca de 25 cm).
+- Arco: graveto flexível com corda resistente presa nas duas pontas.
+- Bloco duro com uma pequena cova (pedra, osso ou madeira dura).
+- Faca ou outro objeto cortante para entalhar a tábua.
+- Isco seco e fibroso (palha, casca seca, folhas murchas bem secas).
+- Bandeja plana (casca ou folha grande) para receber a brasa.
+
+PROCEDIMENTO
+------------
+1. Escolha madeira seca presa à árvore, não caída no chão.
+2. Corte a tábua de madeira macia com cerca de 2 cm de espessura.
+3. Entalhe uma cova rasa na tábua, perto de uma borda.
+4. Faça um corte em V da borda da tábua até a cova.
+5. Coloque a bandeja plana sob o corte em V.
+6. Desbaste a broca com ponta arredondada em cima e romba embaixo.
+7. Amarre a corda firme entre as duas pontas do arco, sem folga.
+8. Enrole a corda uma vez ao redor da broca.
+9. Apoie a tábua no chão.
+10. Prenda a tábua com um pé.
+11. Encaixe a ponta romba da broca na cova da tábua.
+12. Coloque o bloco duro sobre a ponta de cima da broca.
+13. Pressione o bloco para baixo com uma mão.
+14. Puxe o arco para frente e para trás com a outra mão.
+15. Comece devagar, em movimento contínuo, sem parar.
+16. Aumente a velocidade e a pressão quando o giro ficar suave.
+17. Não pare ao ver fumaça fina: continue no ritmo máximo.
+18. Pare quando o pó na bandeja escurecer e fumegar.
+19. Retire a tábua com cuidado.
+20. Deixe a brasa sobre a bandeja.
+21. Coloque a brasa no centro do pacote de isco.
+22. Feche o pacote de isco sem apertar.
+23. Sopre de leve sobre o isco.
+24. Aumente o ar aos poucos até nascer a chama.
+25. Encoste o isco aceso na lenha pequena e alimente o fogo.
+
+ATENCAO
+-------
+O atrito gera calor intenso: a broca e a tábua ficam muito quentes.
+Não toque na ponta da broca ao parar: você pode se queimar.
+Fogo em ambiente fechado produz monóxido de carbono: ventile sempre.
+Nunca acenda fogo perto de vegetação seca, gasolina ou cilindro de gás.
+Se o arco chiar ou cantar, a madeira está polindo, não aquecendo.
+Nesse caso, risque a broca e a cova com a faca para aumentar o atrito.
+Madeira com resina ou cheiro forte pode travar: prefira madeira sem odor.
+Mantenha água ou terra por perto para apagar o fogo se sair do controle.
+Se a brasa não pegar após várias tentativas, troque a madeira.
+O método é cansativo e exige prática: não é garantia na primeira vez.
+
+SE NAO TIVER
+------------
+Sem corda, torza fibra vegetal ou tira de tecido para improvisar.
+Sem bloco duro, use uma pedra com cova, uma concha ou um osso.
+Sem tábua, use a face plana de um graveto maior de madeira macia.
+Sem faca, use uma pedra afiada ou uma borda de metal para entalhar.
+Se a madeira estiver úmida, procure galho morto preso à árvore, mais seco.
+Não improvise com gasolina, álcool ou plástico: o fogo foge do controle.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A broca gira suave e sai fumaça fina e contínua da cova.
+O pó na bandeja fica escuro, fumegante e com brilho vermelho.
+O pacote de isco solta fumaça e acende chama ao receber ar.
+
+FONTES
+------
+Manual de sobrevivência FM 21-76 do Exército dos Estados Unidos (método
+arco e broca); artigo da Universidade de Dayton sobre a física do fogo
+por fricção; prática consolidada de sobrevivência.

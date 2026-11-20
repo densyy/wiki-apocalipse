@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 50-001
+TITULO: Como funcionavam os aquedutos romanos de abastecimento
+CATEGORIA: 50 - História das tecnologias pré-industriais
+TEMPO: 15 minutos
+RISCO: medio
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: aqueduto, água, romanos, gravidade, decantação, encanamento
+==============================================================================
+
+OBJETIVO
+--------
+Entender como a gravidade e as obras levavam água até a cidade.
+
+QUANDO USAR
+-----------
+Ao estudar engenharia antiga ou história da água.
+Ao reconhecer ruínas de canais, arcos e tanques no terreno.
+Ao comparar o abastecimento antigo com sistemas atuais.
+Ao planejar captação de água por gravidade em terreno acidentado.
+
+NAO USE QUANDO
+--------------
+Quando o objetivo for obter água potável para beber hoje.
+Quando houver suspeita de contaminação na fonte.
+
+MATERIAIS
+---------
+- Nenhum material para compreender o princípio.
+- Papel e lápis para desenhar o percurso (caderno, folha ou terra).
+
+PROCEDIMENTO
+------------
+1. Identifique a captação: nascente, rio ou reservatório acima da cidade.
+2. Confirme que a fonte fica mais alta que o destino final.
+3. Desenhe o percurso e marque o desnível até a cidade.
+4. Trace declive suave e contínuo, sem trechos que subam.
+5. Anote onde o terreno exige túnel, muro ou ponte de arcos.
+6. Marque a decantação: tanques onde a sujeira assenta, após a captação.
+7. Indique o castellum, tanque de distribuição, na entrada da cidade.
+8. Distribua a água por canais menores a fontes, banhos e latrinas.
+9. Se um vale cortar o declive, use sifão invertido: canos descem e sobem.
+
+ATENCAO
+-------
+A água captada não era tratada como a de hoje; não beba sem ferver.
+Declive insuficiente interrompe o escoamento e a água para de correr.
+Trecho sem saída acumula água, transborda e encharca o terreno.
+Canos de chumbo e concreto antigo podem liberar metais na água.
+Se a origem for duvidosa, pare e procure orientação de saúde local.
+
+SE NAO TIVER
+------------
+Sem mapa, observe o terreno e desenhe o croqui a olho.
+Sem declive, a gravidade não move a água: procure fonte mais alta.
+Sem tanque de decantação, deixe a água parada para assentar a sujeira.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O desenho mostra queda contínua da captação até a distribuição.
+A água escoa sem subir acima da linha da nascente.
+O castellum recebe a água antes das fontes e dos banhos.
+
+FONTES
+------
+World History Encyclopedia, artigo Aqueduct, sobre sifão, arcos,
+decantação e distribuição. Prática consolidada descrita por Vitruvio
+em De Architectura e por Frontino em De aquaeductu, administrador
+dos aquedutos de Roma no século I. Resumo, não substitui hidráulica.

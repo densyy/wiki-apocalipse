@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 65-005
+TITULO: Como compreender resistência à tração
+CATEGORIA: 65 - Engenharia de materiais e polímeros
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: papel, lápis, régua, ficha do material, óculos de proteção
+REVISAO: 2026-11
+PALAVRAS-CHAVE: tração, resistência, tensão, escoamento, ruptura, rigidez
+==============================================================================
+
+OBJETIVO
+--------
+Ler a resistência à tração de um material e comparar dois materiais
+sem confundir resistência com rigidez.
+
+QUANDO USAR
+-----------
+Ao ler a ficha técnica de um metal, plástico ou fibra.
+Ao escolher fio, cabo ou peça que vai ser puxada.
+Ao entender por que uma peça deformou ou rompeu.
+
+NAO USE QUANDO
+--------------
+Como único critério para dimensionar uma peça. Não substitui cálculo
+de carga nem ensaio do material real. Não prevê impacto, fadiga ou calor.
+
+MATERIAIS
+---------
+- Papel e lápis para anotar.
+- Régua ou trena. (Opcional, para observar um fio.)
+- Ficha técnica ou relatório de ensaio de tração.
+- Óculos de proteção. (Se for puxar amostra até romper.)
+
+PROCEDIMENTO
+------------
+1. Localize na ficha a resistência máxima à tração do material.
+2. Confira a unidade. Use MPa. Um MPa é 1 N por milímetro quadrado.
+3. Leia o limite de escoamento, se o material for dúctil.
+4. Entenda a tensão: força dividida pela área original da seção.
+5. Compare escoamento e resistência máxima do mesmo material.
+6. Leia o alongamento na ruptura, em por cento, se estiver na ficha.
+7. Classifique: dúctil se alonga antes de romper, frágil se não.
+8. Meça um fio macio, puxe e solte. Voltando ao tamanho, foi elástico.
+9. Puxe mais até romper. Observe a estricção antes da ruptura.
+
+ATENCAO
+-------
+Resistência não é rigidez. Rigidez é a inclinação da curva no trecho
+elástico, o módulo de Young. Borracha alonga muito; vidro rompe sem aviso.
+A resistência máxima é o topo da curva. Depois dela vem a estricção e a
+força cai até a ruptura. Materiais frágeis não têm escoamento definido.
+Temperatura, velocidade do ensaio e defeitos mudam o valor publicado.
+Ao romper fio, use óculos de proteção e puxe longe do rosto. Nunca teste
+cabo sob tensão ou preso a carga.
+
+SE NAO TIVER
+------------
+Sem ficha, compare só materiais iguais em forma e tamanho. Escreva
+"desconhecido" se não houver dado, e peça o valor ao fornecedor.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você aponta qual material aguenta mais força por área e diz se a ruptura
+teve aviso visível ou foi súbita.
+
+FONTES
+------
+Conceitos de ensaio de tração das normas ABNT NBR ISO 6892-1 e ASTM E8/E8M.
+Resumo de Callister e Beer. Não substitui norma nem ensaio real.

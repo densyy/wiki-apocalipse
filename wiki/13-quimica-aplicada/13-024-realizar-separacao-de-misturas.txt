@@ -1,0 +1,91 @@
+==============================================================================
+CODIGO: 13-024
+TITULO: Como realizar separação de misturas
+CATEGORIA: 13 - Química e conhecimentos científicos aplicados
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: peneira, pano limpo ou filtro de café, recipientes, luvas e óculos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: mistura, filtração, decantação, evaporação, peneira, ímã
+==============================================================================
+
+OBJETIVO
+--------
+Separe os componentes de misturas comuns usando métodos físicos seguros.
+
+QUANDO USAR
+-----------
+Quando precisar limpar areia, sal ou grãos que vieram com terra e pedras.
+Quando quiser recuperar o sal dissolvido em água.
+Quando precisar tirar limalha de ferro de farinha ou de areia.
+Quando precisar separar água de óleo ou de líquido que não se mistura.
+Quando precisar clarear água com barro antes de tratá-la para beber.
+
+NAO USE QUANDO
+--------------
+Não use para tornar água potável: filtrar e decantar não matam germes.
+Não aqueça mistura com álcool, gasolina, solvente ou produto de limpeza.
+Não use se houver produto químico desconhecido ou rótulo ilegível.
+Não prove nem cheire de perto para identificar um componente.
+
+MATERIAIS
+---------
+- Peneira ou pano limpo (filtro de café).
+- Recipientes limpos, pelo menos 2 (potes de vidro ou plástico).
+- Colher limpa (ou mangueira limpa para sifonar).
+- Ímã de geladeira embrulhado em plástico ou saco.
+- Luvas e óculos de proteção.
+- Prato raso para espalhar o líquido e deixar evaporar.
+
+PROCEDIMENTO
+------------
+1. Observe a mistura em luz boa e retire pedaços grandes com as mãos.
+2. Passe o material pela peneira para separar terra e pedras dos grãos.
+3. Passe o ímã embrulhado sobre o material: a limalha gruda no plástico.
+4. Vire o ímã dentro de um saco para soltar o metal preso.
+5. Coloque sólido e água em um pote e espere o pó assentar no fundo.
+6. Incline o pote e despeje a água clara em outro, sem mexer no pó.
+7. Apoie o filtro de café em outro pote e coe a água devagar.
+8. Se a água sair turva, troque o filtro e coe de novo.
+9. Para recuperar sal, espalhe a água salgada no prato raso.
+10. Deixe evaporar ao sol ou com calor elétrico, nunca em chama aberta.
+11. Raspe os cristais de sal com a colher quando a água secar.
+12. Para água e óleo, deixe em repouso até formar duas camadas no pote.
+13. Retire a camada de cima com a colher ou com a mangueira-sifão.
+
+ATENCAO
+-------
+Filtrar e decantar retiram sólidos, mas não tiram germes nem veneno
+dissolvido. Nunca beba o líquido recuperado sem tratá-lo antes (01-001).
+Nunca aqueça mistura com álcool, gasolina, querosene, solvente ou
+alvejante: pode inflamar ou liberar gás tóxico.
+Use apenas calor elétrico ou banho-maria para evaporar; chama aberta causa
+incêndio. Não feche pote aquecido: o vapor pode estourá-lo.
+Não leve a evaporação até secar em fogo alto: respingos podem queimar.
+Lave mãos e utensílios ao terminar. Não jogue resíduo químico na água de
+beber. Se sentir cheiro forte, ardência ou tosse, vá para o ar livre e pare.
+
+SE NAO TIVER
+------------
+Sem peneira, use pano limpo, filtro de café ou tela de mosquiteiro.
+Sem filtro de café, dobre um pano limpo em quatro camadas.
+Sem ímã, separe os pedaços de ferro com a mão, um por um.
+Sem pote transparente, use qualquer recipiente limpo e observe na luz.
+Sem colher, use uma mangueira limpa como sifão para tirar a camada de cima.
+Sem sol e sem calor elétrico, deixe evaporar devagar ao ar livre.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água coada ficou límpida, sem grãos de areia no fundo do pote.
+O ímã retirou a limalha e o material não gruda mais nele.
+Formaram-se duas camadas distintas no pote de água e óleo.
+Restaram cristais secos de sal no prato após a evaporação.
+
+FONTES
+------
+Royal Society of Chemistry (RSC), artigo "Separation techniques" (2018):
+métodos baseados em propriedades físicas e decantação antes da filtração.
+American Chemical Society, "Safety in Academic Chemistry Laboratories"
+(2017): riscos de destilação e aquecimento de solventes inflamáveis.
+Sociedade Brasileira de Química, resumo de oficina sobre processos de
+separação de misturas com materiais de cozinha (34ª Reunião Anual, 2011).

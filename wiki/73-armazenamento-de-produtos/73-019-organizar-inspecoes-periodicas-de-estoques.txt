@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 73-019
+TITULO: Como organizar inspeções periódicas de estoques
+CATEGORIA: 73 - Armazenamento de produtos não alimentares
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: caderno, lápis, etiquetas, lista de produtos do depósito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: estoque, inspeção, verificação, validade, rodízio, depósito
+==============================================================================
+
+OBJETIVO
+--------
+Criar uma rotina que detecte danos, validade vencida e guarda inadequada
+antes que causem perda ou risco.
+
+QUANDO USAR
+-----------
+Quando o depósito guarda muitos produtos e ninguém sabe o que está lá.
+Quando produtos vencem ou estragam sem ninguém perceber.
+Depois de chuva, enchente ou queda de energia no depósito.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Caderno ou folhas para anotar (ou planilha impressa).
+- Lápis ou caneta (o lápis não borra com umidade).
+- Lista do que deveria estar no depósito, com quantidades.
+- Etiquetas ou fita para marcar data e estado.
+- Luva e pano seco para manusear produtos suspeitos.
+
+PROCEDIMENTO
+------------
+1. Faça uma lista do que o depósito deveria conter, com quantidades.
+2. Escolha um dia fixo por semana ou por mês para a inspeção.
+3. Defina quem responde por cada área do depósito.
+4. Percorra as prateleiras e caixas em ordem, sem pular lugares.
+5. Confira o nome e a quantidade de cada produto com a lista.
+6. Leia a data de validade ou de fabricação de cada item.
+7. Observe a embalagem: procure furos, vazamento, inchaço ou mofo.
+8. Verifique tampas fechadas e rótulos legíveis; sinta cheiro estranho.
+9. Olhe o chão e os cantos por água, respingos, insetos ou roedores.
+10. Anote o que faltou e marque a data; separe e descarte o que estiver
+    danificado.
+
+ATENCAO
+-------
+Não confie só na memória: sem registro, o mesmo erro se repete.
+Produtos vencidos ou com vazamento não voltem à prateleira.
+Ao encontrar cheiro forte ou líquido desconhecido, não manuseie sem luva.
+
+SE NAO TIVER
+------------
+Sem caderno, use folha solta guardada em saco plástico no depósito.
+Sem etiquetas, escreva a data em fita adesiva e cole na embalagem.
+Sem lista prévia, anote primeiro tudo o que existe na primeira inspeção.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Há registro escrito com data, nome de quem inspecionou e o que foi achado.
+Os produtos vencidos ou danificados saíram da prateleira.
+A quantidade encontrada bate com a lista, ou a diferença está anotada.
+
+FONTES
+------
+Prática consolidada de gestão de estoques e boas práticas de armazenagem.
+Resumo do princípio de rodízio: o primeiro que entra sai primeiro.

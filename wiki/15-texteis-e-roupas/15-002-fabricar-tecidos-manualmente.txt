@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 15-002
+TITULO: Como fabricar tecidos manualmente
+CATEGORIA: 15 - Têxteis, roupas e produção artesanal
+TEMPO: 120 minutos
+RISCO: alto
+EXIGE: fio, duas barras de madeira, corda, vara fina, pente ou taquara
+REVISAO: 2026-11
+PALAVRAS-CHAVE: tecido, tear, trama, urdume, liço, linha, fio, pano
+==============================================================================
+
+OBJETIVO
+--------
+Montar um tear simples e tecer um pano plano com madeira, corda e fio.
+
+QUANDO USAR
+-----------
+Quando o suprimento de roupa acabar e for preciso fazer pano novo.
+Quando houver fibra ou fio disponível, mas nenhuma máquina ou energia.
+
+NAO USE QUANDO
+--------------
+Quando houver feridas abertas nas mãos ou infecção de pele sem tratamento.
+Quando não houver ponto firme para prender o tear e a corda puder soltar.
+Quando a fibra estiver mofada, com espinhos ou de origem desconhecida.
+
+MATERIAIS
+---------
+- Fio de algodão, lã ou linha resistente (sobras de linha trançadas).
+- Duas barras de madeira retas, sem farpas, com aproximadamente 60 cm.
+- Uma vara fina para abrir o furo entre os fios (palito de madeira).
+- Outra vara fina para servir de liço (conjunto de laços que levanta fios).
+- Um pente de madeira ou taquara para apertar a trama (garfo de madeira).
+- Corda resistente e uma faixa ou cinto para prender na cintura.
+- Ponto fixo: poste, árvore, porta firme ou duas estacas.
+- Bobina, carretel ou agulha grande com olho para enrolar a trama.
+- Tesoura.
+
+PROCEDIMENTO
+------------
+1. Lixe as barras e a vara até tirar todas as farpas.
+2. Prenda uma barra a um poste, árvore ou porta firme.
+3. Amarre a corda da outra barra a uma faixa e prenda-a na cintura.
+4. Corte aproximadamente 40 fios de urdume, os fios que ficam esticados.
+5. Corte cada fio com aproximadamente o dobro do pano, mais 30 cm.
+6. Enrole os fios em volta das duas barras, cruzando-os no meio.
+7. Prenda a cruz com um laço de corda para manter a ordem dos fios.
+8. Afaste-se até o urdume ficar firme, sem folga e sem fios enrolados.
+9. Passe a vara entre os fios da camada de trás: é o furo.
+10. Prenda um laço de corda em cada fio da camada da frente.
+11. Amarre todos esses laços à segunda vara: é o liço.
+12. Apoie o pente de madeira sobre os fios, com os dentes virados para cima.
+13. Enrole a trama, o fio que cruza de lado a lado, na bobina ou agulha.
+14. Puxe o liço para abrir o furo entre as duas camadas de fio.
+15. Passe a bobina pelo furo, da esquerda para a direita, sem enroscar.
+16. Acerte o pente contra a trama que acabou de passar.
+17. Solte o liço e puxe a vara de abrir para trocar as camadas de fio.
+18. Passe a bobina pelo furo novo, da direita para a esquerda.
+19. Acerte o pente outra vez para assentar a trama junto à anterior.
+20. Repita os passos 14 a 19 até o pano atingir o tamanho desejado.
+21. Solte a faixa da cintura e afaste o urdume.
+22. Desamarre os laços das barras e retire o tear do pano.
+23. Dê um nó em cada ponta de urdume para o pano não desfiar.
+
+ATENCAO
+-------
+Lixe toda madeira antes de usar: farpa e lasca ferem a mão e infeccionam.
+A corda e o urdume ficam sob tensão; se arrebentarem, chicoteiam o rosto.
+Mantenha o rosto longe do urdume e use proteção nos olhos se houver.
+Não use arame, faca, vidro ou metal cortante como vara ou pente.
+Não use fibra com espinho, mofada ou tratada com agrotóxico ou solvente.
+A agulha e a bobina devem ficar com a ponta protegida quando parar.
+Inclinar o corpo para trás por muito tempo força a coluna: faça pausas.
+Pare na hora se sentir dor aguda, formigamento ou se um fio saltar solto.
+Lave o pano antes de vestir: fibra suja irrita a pele e os olhos.
+
+SE NAO TIVER
+------------
+Sem tear, estique o urdume entre duas estacas cravadas no chão.
+Sem pente, use um garfo de madeira ou os dedos para assentar a trama.
+Sem liço, levante os fios ímpares com a ponta de uma vara fina.
+Sem bobina, enrole a trama na ponta de um palito ou use agulha grande.
+Sem faixa, prenda a barra a um cinto ou a uma corda na cintura.
+Não substitua madeira por metal cortante: o risco de corte é real.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os fios do urdume ficam paralelos, com a mesma tensão e sem torções.
+A trama assenta rente à anterior, sem falhas nem laços frouxos.
+As bordas do pano ficam retas e os nós das pontas não se soltam ao puxar.
+
+FONTES
+------
+Prática consolidada de tecelagem manual em tear de cinta e tear de quadro.
+Partes do tear e movimentos de abrir, passar e apertar: Fine Arts Museums
+of San Francisco, Sam Noble Oklahoma Museum e manual do Textiles Committee,
+Ministério do Têxtil da Índia. Patrimônio imaterial: UNESCO (Alto Egito,
+Aklan). Fibras: Embrapa Algodão. Resumo; não substitui treinamento.

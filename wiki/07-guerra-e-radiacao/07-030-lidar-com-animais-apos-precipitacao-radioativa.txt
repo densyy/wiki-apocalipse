@@ -1,0 +1,82 @@
+==============================================================================
+CODIGO: 07-030
+TITULO: Como lidar com animais após precipitação radioativa
+CATEGORIA: 07 - Guerra, radiação e catástrofes nucleares
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: luvas, máscara, água, sabão, abrigo fechado
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fallout, animal, gado, cachorro, leite, poeira
+==============================================================================
+
+OBJETIVO
+--------
+Abrigue os animais e reduza a poeira radioativa neles sem se expor.
+
+QUANDO USAR
+-----------
+Quando cair poeira fina após explosão ou acidente nuclear.
+Quando o animal estava solto na hora da precipitação.
+Quando precisar tirar poeira do pelo antes de entrar em casa.
+Quando precisar alimentar gado sem usar pasto aberto.
+Quando houver animal morto e for preciso afastar o corpo.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Luvas impermeáveis (saco plástico grosso na mão)
+- Máscara ou pano úmido sobre nariz e boca
+- Água limpa guardada e sabão comum
+- Escova macia ou pano velho
+- Corda e lona ou telha para cobrir ração e água
+- Saco plástico para roupa e pano sujos
+
+PROCEDIMENTO
+------------
+1. Proteja você primeiro antes de ajudar qualquer animal.
+2. Recolha cães, gatos e galinhas para dentro de casa.
+3. Feche gado em curral coberto longe da poeira solta.
+4. Cubra ração e bebedouro com lona antes de servir.
+5. Não solte animal em pasto aberto nas primeiras horas.
+6. Escove a poeira do pelo para fora de casa e contra o vento.
+7. Lave o animal com água morna e sabão sem molhar os olhos.
+8. Enxágue do lombo para as patas até sair toda a espuma.
+9. Lave as mãos e troque a roupa depois de tocar no animal.
+10. Não beba leite fresco nem coma carne sem ordem oficial.
+11. Alimente você e o animal só com comida guardada e coberta.
+12. Isole animal com ferida, vômito ou queda de pelo dos outros.
+13. Enterre animal morto com luvas longe de poço e de casa.
+
+ATENCAO
+-------
+Poeira sem cheiro nem gosto emite raio gama que roupa não bloqueia.
+Banho tira poeira da pele mas não desfaz o raio já recebido.
+Leite fresco concentra iodo radioativo e faz mais mal a criança.
+Carne e víscera de animal exposto podem estar contaminadas por dentro.
+Cada minuto fora do abrigo aumenta a sua dose de radiação.
+Lavar demais com água quente fere a pele e piora a absorção.
+Pare e busque ajuda se tiver vômito, tontura ou queimadura na pele.
+Aguarde ordem da defesa civil antes de soltar o rebanho no pasto.
+
+SE NAO TIVER
+------------
+Sem luva, use saco plástico nas mãos e descarte depois do uso.
+Sem sabão, lave só com água corrente em abundância.
+Sem ração guardada, use o alimento coberto menos exposto à poeira.
+Sem curral, prenda o animal no cômodo mais fechado da casa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Animal abrigado com água e ração cobertas contra a poeira.
+Pelo sem poeira visível após escovar e lavar com sabão.
+Ninguém da casa bebeu leite fresco nem comeu carne nova.
+
+FONTES
+------
+Guia de planejamento para detonação nuclear da FEMA.
+Orientações do CDC americano sobre emergências de radiação.
+Orientações da EPA sobre ações de proteção após precipitação.
+Prática consolidada de sobrevivência civil em manual militar.

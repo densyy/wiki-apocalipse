@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 28-020
+TITULO: Como planejar reposição de recursos
+CATEGORIA: 28 - Logística e gestão de recursos
+TEMPO: 40 minutos
+RISCO: baixo
+EXIGE: caderno, lápis, lista de estoque, calendário
+REVISAO: 2026-11
+PALAVRAS-CHAVE: reposição, estoque, repor, consumo, validade, inventário
+==============================================================================
+
+OBJETIVO
+--------
+Definir quando e quanto repor cada item essencial antes que falte.
+
+QUANDO USAR
+-----------
+Quando o estoque de água, comida ou remédio estiver baixo.
+Ao revisar o estoque de emergência da casa.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Caderno e lápis (ou papel e carvão).
+
+PROCEDIMENTO
+------------
+1. Liste no caderno cada item essencial separadamente.
+2. Anote a quantidade disponível de cada item.
+3. Anote a data de validade de cada item.
+4. Escreva o consumo diário de cada item por pessoa.
+5. Multiplique o consumo diário pelo número de pessoas.
+6. Defina quantos dias de estoque deseja manter.
+7. Multiplique o consumo diário pelos dias definidos.
+8. Anote quantos dias a reposição leva para chegar.
+9. Some ao resultado o consumo dos dias de espera.
+10. Subtraia o estoque atual desse total para achar a falta.
+11. Reponha primeiro os itens com validade mais próxima.
+12. Guarde os itens novos atrás dos antigos na prateleira.
+13. Registre no caderno a data e a quantidade reposta.
+
+ATENCAO
+-------
+Este plano não cria suprimentos: só evita faltar sem aviso.
+Se água ou remédio acabar, a consequência pode ser grave.
+Nunca estenda a validade de alimento ou remédio vencido.
+Água preparada em casa deve ser trocada a cada seis meses.
+Pare e procure ajuda se faltar água ou remédio essencial.
+
+SE NAO TIVER
+------------
+Sem caderno, use qualquer papel e lápis, carvão ou tinta.
+Sem balança, conte unidades ou use copo e colher como medida.
+Não substitua remédio vencido sem orientação de profissional.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada item tem quantidade, validade e data de reposição anotadas.
+Nenhum item essencial está abaixo do mínimo anotado.
+
+FONTES
+------
+Orientações da FEMA/Ready.gov: trocar itens vencidos e rever
+o kit a cada ano; trocar a água preparada em casa a cada
+seis meses. Rotação de estoques e controle de consumo são
+prática consolidada, sem documento único.

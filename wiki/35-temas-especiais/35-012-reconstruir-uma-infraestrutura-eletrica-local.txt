@@ -1,0 +1,85 @@
+==============================================================================
+CODIGO: 35-012
+TITULO: Como reconstruir uma infraestrutura elétrica local
+CATEGORIA: 35 - Temas especiais que merecem enciclopédias próprias
+TEMPO: 60 minutos
+RISCO: critico
+EXIGE: luvas secas de borracha, calçado de borracha, lanterna a pilha
+REVISAO: 2026-11
+PALAVRAS-CHAVE: energia, eletricidade, disjuntor, fio caído, rede, gerador
+==============================================================================
+OBJETIVO
+--------
+Avaliar e reenergizar com segurança a rede elétrica de um abrigo sob seu
+controle, sem tocar em parte energizada.
+QUANDO USAR
+-----------
+Quando a energia cair e você precisar decidir se religa o quadro.
+Quando houver água, umidade ou cheiro de queimado no quadro.
+Quando aparecer fio caído ou pedaço de rede perto do abrigo.
+Antes de ligar um gerador ou outra fonte local ao quadro.
+NAO USE QUANDO
+--------------
+Não use para trabalhar na rede da rua ou na linha da concessionária.
+Não use com fio de alta tensão caído ao alcance das mãos.
+Não use se não for possível desligar a fonte na origem.
+Não use se o quadro estiver molhado ou faiscando.
+MATERIAIS
+---------
+- Luvas secas de borracha limpa (ou luvas isolantes).
+- Calçado com sola de borracha seca.
+- Lanterna a pilha, independente da rede.
+- Vara de madeira bem seca, para afastar fio sem tocar.
+- Caneta testadora ou multímetro, apenas se você souber usar.
+- Fusíveis de reserva do mesmo valor do original.
+- Fita isolante para cobrir ponta exposta de fio de baixa tensão.
+PROCEDIMENTO
+------------
+1. Pare o que está fazendo e afaste todas as pessoas do local.
+2. Olhe de longe: fio caído, faísca, cheiro de queimado, água no quadro.
+3. Mantenha distância de aproximadamente 10 metros de fio caído.
+4. Desligue o disjuntor geral da entrada se o quadro estiver seco.
+5. Não toque em fio, quadro ou tomada com as mãos ou pés molhados.
+6. Se vir faísca ou cheiro de queimado, não religue nada.
+7. Se o quadro estiver molhado, mantenha tudo desligado e espere secar.
+8. Seque o piso e o quadro por completo antes de qualquer tentativa.
+9. Desligue o gerador antes de conectar qualquer cabo ao quadro.
+10. Coloque as luvas secas e o calçado de borracha seca.
+11. Confira se cada fusível é do mesmo valor do que foi retirado.
+12. Troque apenas o fusível queimado por outro de mesmo valor.
+13. Nunca use moeda, arame ou papel-alumínio no lugar do fusível.
+14. Isole com fita a ponta de fio exposto antes de manusear.
+15. Ligue o disjuntor geral e observe estalo, calor ou cheiro.
+16. Ligue um circuito de cada vez e observe novamente.
+17. Desligue tudo se houver estalo, cheiro ou aquecimento.
+18. Teste uma tomada com aparelho que você sabe que funciona.
+ATENCAO
+-------
+A rede pode matar com um único toque, mesmo sem faísca visível.
+Fio caído pode estar energizado; trate todo fio caído como vivo.
+Água e umidade aumentam o risco de choque e de curto-circuito.
+Fusível improvisado com arame ou moeda retira a proteção e pode incendiar.
+Gerador ligado ao quadro com o geral fechado devolve energia à linha.
+Essa energia pode matar quem estiver trabalhando na rede da rua.
+Se o quadro estiver molhado, faiscando ou com cheiro de queimado, pare.
+Chame a concessionária, a defesa civil ou um eletricista habilitado.
+Este texto não substitui treinamento nem autoriza trabalho em rede viva.
+SE NAO TIVER
+------------
+Sem luvas isolantes, use luvas de borracha limpas e secas.
+Sem calçado de borracha, não manipule o quadro; espere ou peça ajuda.
+Sem testador, não teste com a mão, com a língua nem com fio na tomada.
+Sem fusível do valor correto, deixe o circuito desligado.
+Sem vara seca, não tente afastar fio caído; mantenha distância.
+COMO SABER QUE DEU CERTO
+------------------------
+O geral e os circuitos ficam ligados sem estalo, calor ou cheiro.
+A tomada de teste alimenta um aparelho que você sabe que funciona.
+Não há água, faísca nem fio exposto dentro do quadro.
+FONTES
+------
+Manual de primeiros socorros dos bombeiros, capítulo de choque elétrico:
+desligar a fonte, afastar com material seco, não tocar com as mãos nuas.
+FM 21-76, manual militar de sobrevivência civil, prática de campo.
+Prática consolidada de segurança em instalações elétricas prediais.
+Este resumo é operacional e não substitui treinamento nem norma técnica.

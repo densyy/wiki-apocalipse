@@ -1,0 +1,92 @@
+==============================================================================
+CODIGO: 53-022
+TITULO: Como compreender a produção de cápsulas
+CATEGORIA: 53 - Produção de medicamentos e farmacologia
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: cápsula, remédio, excipiente, encapsulamento, dose, pó
+==============================================================================
+
+OBJETIVO
+--------
+Entender como uma cápsula é feita, do pó à cápsula pronta, e o que
+garante que ela contenha a dose correta.
+
+QUANDO USAR
+-----------
+Ao ler a bula e entender por que o remédio vem em cápsula.
+Ao comparar cápsula dura, mole e de origem vegetal.
+Ao desconfiar de cápsula com pó solto, rachada ou com cheiro estranho.
+Ao entender por que cápsula não deve ser aberta sem orientação.
+Ao estudar como a dose chega inteira até o estômago.
+
+NAO USE QUANDO
+--------------
+Não use para fabricar cápsulas em casa nem para preparar remédio.
+Não substitui farmacopeia, bula, receita ou orientação farmacêutica.
+Não serve para calcular dose, escolher excipiente ou testar pureza.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Defina cápsula: forma sólida que fecha uma dose em invólucro solúvel.
+2. Separe os dois tipos: cápsula dura, de duas peças, e mole, selada.
+3. Observe o invólucro: gelatina é o mais comum; pode ser celulose.
+4. Entenda a cápsula dura: corpo e tampa encaixam após o enchimento.
+5. Entenda a cápsula mole: massa única enche e sela o remédio líquido.
+6. Identifique o princípio ativo: é o remédio, responsável pelo efeito.
+7. Identifique os excipientes: ajudam a dar forma, volume e fluidez.
+8. Diga o papel do diluente: dá volume à dose pequena ser manuseada.
+9. Diga o papel do desintegrante: faz a cápsula se abrir no estômago.
+10. Diga o papel do aglutinante: une o pó para formar grãos.
+11. Diga o papel do lubrificante: evita que o pó grude na máquina.
+12. Entenda a mistura: pó e excipientes são homogeneizados antes.
+13. Entenda o enchimento: a máquina doseia a mesma quantidade.
+14. Entenda o fechamento: as duas peças são encaixadas e travadas.
+15. Entenda a secagem: a cápsula mole é seca após a selagem.
+16. Relacione umidade e gelatina: calor e umidade deformam a casca.
+17. Entenda o controle de peso: cada cápsula é pesada na conferência.
+18. Entenda o teste de desintegração: deve abrir no tempo previsto.
+19. Entenda o teste de dissolução: o remédio se libera no líquido.
+20. Entenda as boas práticas: ambiente limpo e lote registrado.
+21. Evite contaminação cruzada: não misture sobras de lotes distintos.
+22. Cada etapa existe para a dose chegar correta e segura ao corpo.
+
+ATENCAO
+-------
+Este texto explica, não ensina a fabricar cápsulas.
+Não produza cápsulas em casa: erro de dose pode intoxicar ou matar.
+Pó de remédio pode ser tóxico ao inalar: não abra cápsula sem orientação.
+Umidade e calor estragam a gelatina: não guarde no banheiro.
+Cápsula rachada, mole ou com pó solto não garante a dose.
+Cápsula de liberação prolongada nunca deve ser aberta nem moída.
+Não confie em cápsula sem rótulo, sem lote ou de origem duvidosa.
+Se alguém engoliu cápsula estranha e passou mal, busque ajuda imediata.
+
+SE NAO TIVER
+------------
+Sem rótulo, não use a cápsula: procure a bula ou o farmacêutico.
+Sem bula, leia o que está impresso na embalagem original.
+Sem farmácia por perto, limite-se a observar e anotar o que vê.
+Não troque uma cápsula por pó de outra, mesmo parecendo igual.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue explicar a diferença entre cápsula dura e mole.
+Você sabe dizer para que servem diluente, desintegrante e lubrificante.
+Você entende que a dose depende do enchimento e do controle de peso.
+Você reconhece sinais de cápsula imprópria sem abrir nem usar.
+
+FONTES
+------
+Formulário Nacional da Farmacopeia Brasileira, Anvisa: definição de
+cápsulas, excipientes e limites de peso.
+Farmacopeia Brasileira, Anvisa: testes de desintegração e dissolução.
+OMS, Boas Práticas de Fabricação de Excipientes Farmacêuticos.
+Unesp, Laboratório de Farmacologia: funções dos excipientes.
+Resumo educativo; não substitui bula, prescrição nem orientação clínica.

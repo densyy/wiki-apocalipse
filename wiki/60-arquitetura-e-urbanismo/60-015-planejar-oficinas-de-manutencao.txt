@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 60-015
+TITULO: Como planejar oficinas de manutenção
+CATEGORIA: 60 - Arquitetura, urbanismo e assentamentos
+TEMPO: 3 horas
+RISCO: medio
+EXIGE: mapa, caderno, fita métrica, lista de ferramentas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: oficina, conserto, ferramentas, peças, segurança
+==============================================================================
+
+OBJETIVO
+---------
+Planejar oficina segura para manter e consertar ferramentas da comunidade.
+
+QUANDO USAR
+-----------
+Ao instalar assentamento que depende de ferramentas próprias.
+Quando ferramentas quebram e não há onde consertar.
+Quando equipamentos de água, energia ou transporte precisam de revisão.
+Antes da estação de chuva ou de um período de uso intenso.
+
+NAO USE QUANDO
+--------------
+Quando não há equipamento para manter: resolva primeiro o que manter.
+Quando falta peça ou conhecimento: faça antes uma oficina de treinamento.
+
+MATERIAIS
+---------
+- Mapa ou papel para croqui (caderno quadriculado).
+- Fita métrica ou corda com nós a cada metro.
+- Caderno, lápis e lista das ferramentas da comunidade.
+
+PROCEDIMENTO
+------------
+1. Liste ferramentas, máquinas e equipamentos que precisam de manutenção.
+2. Anote quem usa cada item, a frequência e o defeito mais comum.
+3. Classifique cada item em manutenção, conserto ou substituição.
+4. Identifique quem sabe consertar cada tipo de item.
+5. Escolha local coberto, seco, com luz e longe de dormitórios.
+6. Meça o espaço e desenhe o croqui no caderno.
+7. Deixe aproximadamente 60 cm entre bancadas e equipamentos.
+8. Mantenha corredores de aproximadamente 1 metro até a saída.
+9. Marque no croqui bancada, armário, área de limpeza e saída.
+10. Reserve canto tampado para inflamáveis, longe de fogo e faíscas.
+11. Abra passagens baixas de ar e altas para saída de calor e fumaça.
+12. Providencie extintor para incêndio inicial.
+13. Inventarie peças de reposição e lubrificantes disponíveis.
+14. Anote quais peças faltam e quais dá para conseguir localmente.
+15. Guarde ferramentas cortantes em armário fechado e fora do alcance.
+16. Nomeie responsáveis pela prevenção e responsáveis pelo conserto.
+17. Defina revisão a cada duas semanas e revisão geral a cada ano.
+18. Agende a primeira oficina prática no próprio local.
+19. Registre quem fez o serviço, a data e a peça usada.
+
+ATENCAO
+-------
+Sem ventilação, fumaça de solda, tinta ou poeira se acumula e intoxica.
+Saia se sentir tontura ou ardência nos olhos.
+Fio elétrico exposto pode matar: desligue antes de qualquer ajuste.
+Nunca guarde combustível perto de fogo: o incêndio fecha a saída.
+Sem peça ou conhecimento, não conserte água, gás ou energia: pare e peça
+ajuda.
+
+SE NAO TIVER
+------------
+Sem fita métrica, meça em passos ou com corda com nós.
+Sem armário, use caixa de madeira com tampa e cadeado.
+Sem extintor, tenha balde de água e areia; para óleo ou energia elétrica
+cubra com areia e corte a energia, nunca use água.
+Sem peça correta, adie o uso até conseguir a substituta.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O croqui mostra bancada, armário, saída e canto de inflamáveis separados.
+Há corredor livre até a saída e passagens de ar baixas e altas.
+Cada ferramenta tem lugar e cada item tem responsável, data e registro.
+
+FONTES
+------
+Diretrizes de segurança de oficinas da McGill University: espaço, ventilação
+e prevenção de incêndio. Lista de inspeção da University of Victoria e guia
+HSG129 do Health and Safety Executive britânico: ferramentas e guarda.
+Manual Harvesting the Heavens (UN-Habitat e Practical Action) e guia da
+Inter Aide sobre manutenção comunitária: oficinas, papéis e prevenção.
+Prática consolidada de planejamento de assentamentos; resumo operacional,
+não substitui projeto de engenharia nem treinamento técnico.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 08-004
+TITULO: Como fabricar uma pá
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 2 a 3 horas
+RISCO: medio
+EXIGE: madeira dura seca, serra, faca ou formão, cunha, corda, lixa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: pá, madeira, cavar, ferramenta, cabo, fabricar, improviso
+==============================================================================
+
+OBJETIVO
+--------
+Fabricar uma pá de madeira para cavar terra macia, areia ou neve.
+
+QUANDO USAR
+-----------
+Quando não há pá de metal e é preciso cavar sem ferramenta pronta.
+Quando o trabalho é leve e a pá pode ser feita no próprio local.
+
+NAO USE QUANDO
+--------------
+Quando o solo tem pedras, raízes grossas ou cascalho: a lâmina quebra.
+
+MATERIAIS
+---------
+- Tábua de madeira dura e seca, com aproximadamente 3 cm de espessura.
+- Pedaço reto de madeira seca para o cabo, com 1,2 m e 4 a 5 cm de diâmetro.
+- Serra (ou machado para fender).
+- Faca resistente ou formão.
+- Cunha de madeira dura (ou corda, tira de couro ou fibra vegetal).
+- Lixa ou pedra de lixar.
+
+PROCEDIMENTO
+------------
+1. Escolha madeira dura, seca e sem nós para a lâmina e o cabo.
+2. Marque a lâmina com aproximadamente 25 cm por 18 cm.
+3. Serre a lâmina no tamanho marcado.
+4. Desbaste uma ponta da lâmina até formar borda inclinada e romba.
+5. Lixe as arestas da lâmina para retirar farpas.
+6. Marque o centro da lâmina a aproximadamente 8 cm da borda.
+7. Faça entalhe longitudinal de aproximadamente 8 cm na ponta do cabo.
+8. Introduza a lâmina no entalhe até a marca.
+9. Bata a cunha no entalhe ao lado da lâmina até ficar firme.
+10. Amarre a junta com corda apertada se não houver cunha.
+11. Lixe o cabo inteiro até não soltar farpas.
+
+ATENCAO
+-------
+Teste a pá em terra macia antes de usar em solo mais duro.
+A lâmina quebra em solo pedregoso, com raízes ou congelado; madeira verde
+também quebra. Não alavance: o cabo racha e fere as mãos. Pare se rachar.
+Serra, faca e formão cortam fundo: apóie a peça e afaste as mãos do corte.
+
+SE NAO TIVER
+------------
+Sem serra, fenda com machado; sem formão, lasque com faca a favor da fibra.
+Sem cunha, amarre a lâmina com corda ou tira de couro bem apertada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A lâmina fica firme no entalhe e não gira quando você pressiona.
+A borda entra na terra sem lascar e sem entalar.
+A pá levanta terra sem soltar a lâmina do cabo.
+
+FONTES
+------
+Manual FM 21-76 do Exército dos EUA (ferramentas improvisadas).
+USDA Forest Service, Handtools for Trail Work (cabos e fibra reta).
+Prática consolidada de marcenaria; sem documento único para este desenho.

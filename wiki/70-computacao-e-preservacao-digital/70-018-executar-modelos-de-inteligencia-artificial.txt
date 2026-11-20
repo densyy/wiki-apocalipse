@@ -1,0 +1,71 @@
+==============================================================================
+CODIGO: 70-018
+TITULO: Como executar modelos de inteligência artificial localmente
+CATEGORIA: 70 - Computação de baixo consumo e preservação digital
+TEMPO: 45 minutos
+RISCO: medio
+EXIGE: computador com 8 GB de memória, internet antes, pen drive
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ia, modelo local, offline, chat, ollama, gguf, quantizacao
+==============================================================================
+
+OBJETIVO
+--------
+Rodar um modelo de linguagem no próprio computador, sem internet,
+e obter respostas escritas para tarefas simples.
+
+QUANDO USAR
+-----------
+Quando a internet vai cair e você quer ajuda para redigir textos.
+Quando as perguntas não podem sair do aparelho por sigilo.
+Quando há computador modesto, sem placa de vídeo.
+
+NAO USE QUANDO
+--------------
+Quando a resposta for decidir tratamento médico ou dose de remédio.
+Quando a pergunta envolver segurança, química ou eletricidade.
+Quando você não tem como conferir a resposta em fonte confiável.
+
+MATERIAIS
+---------
+- Computador com 8 GB de memória (modelos menores cabem em menos).
+- Internet antes, para baixar o programa e o modelo.
+- Pen drive para levar os arquivos a outro aparelho.
+
+PROCEDIMENTO
+------------
+1. Enquanto há internet, instale o Ollama no computador.
+2. Escolha modelo pequeno, quantizado, com poucos bilhões de parâmetros.
+3. Quantizado quer dizer comprimido para caber em pouca memória.
+4. Baixe o modelo: ollama pull nome-do-modelo
+5. Teste com internet: ollama run nome-do-modelo
+6. Faça pergunta simples e confira se a resposta faz sentido.
+7. Saia do chat digitando /bye
+8. Guarde a pasta de modelos no pen drive.
+9. No aparelho sem internet, aponte OLLAMA_MODELS para essa pasta.
+10. Inicie com: OLLAMA_NO_CLOUD=1 ollama serve
+11. Abra o chat: ollama run nome-do-modelo
+
+ATENCAO
+-------
+O modelo inventa respostas com certeza: é a alucinação.
+Confira fatos, números e nomes em fonte confiável.
+Nunca use a resposta para decidir remédio ou tratamento.
+Modelos grandes travam o computador e esvaziam a bateria.
+
+SE NAO TIVER
+------------
+Sem placa de vídeo, rode na CPU: demora mais, mas funciona.
+Sem 8 GB de memória, escolha modelo menor e mais quantizado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O comando ollama ps mostra o modelo em memória e PROCESSOR 100% CPU.
+O chat responde com a rede desligada e sem erro de conexão.
+
+FONTES
+------
+Documentação oficial do Ollama: comandos pull, run, serve e ps,
+pasta OLLAMA_MODELS e variável OLLAMA_NO_CLOUD.
+Documentação oficial do llama.cpp, projeto ggml: inferência local
+de modelos e arquivos quantizados GGUF.

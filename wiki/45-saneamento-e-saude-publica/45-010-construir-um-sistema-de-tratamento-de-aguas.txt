@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 45-010
+TITULO: Como construir um sistema de tratamento de águas cinzas
+CATEGORIA: 45 - Engenharia de saneamento e saúde pública
+TEMPO: 6 horas
+RISCO: alto
+EXIGE: tubulação separada, peneira, cascalho, areia, tanques com tampa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água cinza, reuso, saneamento, filtro, areia, descarga
+==============================================================================
+
+OBJETIVO
+--------
+Separe, filtre e reaproveite a água usada na pia e no chuveiro.
+
+QUANDO USAR
+-----------
+Quando faltar água tratada para a descarga do vaso sanitário.
+Quando a irrigação de plantas ornamentais consome água potável.
+Quando o sistema de esgoto estiver ausente ou sobrecarregado.
+Quando for preciso reduzir o volume de esgoto da casa.
+
+NAO USE QUANDO
+--------------
+Não use para beber, cozinhar, lavar alimentos ou escovar os dentes.
+Não use água de vaso sanitário, hospital, oficina ou lavanderia industrial.
+Não use se houver óleo combustível, solvente, tinta ou agrotóxico na água.
+
+MATERIAIS
+---------
+- Tubulação reservada só para pia, chuveiro e máquina de lavar.
+- Peneira ou cesto removível de malha fina.
+- Caixa de gordura com tampa.
+- Dois tanques plásticos com tampa para sedimentação.
+- Cascalho grosso, cascalho fino e areia lavada.
+- Tanque tampado de armazenamento com saída na parte baixa.
+- Luvas de borracha e sabão.
+
+PROCEDIMENTO
+------------
+1. Reserve uma tubulação exclusiva para pia, chuveiro e máquina de lavar.
+2. Nunca ligue o vaso sanitário nessa tubulação.
+3. Marque a tubulação com fita para ninguém conectá-la à água de beber.
+4. Instale uma peneira removível na saída de cada pia e da máquina de lavar.
+5. Limpe a peneira sempre que ela encher de cabelo ou fibra.
+6. Instale a caixa de gordura antes do primeiro tanque.
+7. Retire a gordura acumulada com colher e descarte no lixo.
+8. Monte dois tanques de sedimentação em série, ligados por tubo alto.
+9. Faça a água entrar baixa e sair alta no primeiro tanque.
+10. Monte o filtro em camadas num recipiente com fundo perfurado.
+11. Coloque aproximadamente 10 cm de cascalho grosso no fundo.
+12. Coloque aproximadamente 30 cm de areia lavada sobre o cascalho.
+13. Coloque aproximadamente 5 cm de cascalho fino por cima.
+14. Despeje a água clarificada sobre o filtro devagar, sem jorrar.
+15. Receba a água filtrada no tanque de armazenamento tampado.
+16. Ligue a saída do tanque à descarga do vaso ou à mangueira de irrigação.
+17. Enterre a mangueira sob cobertura morta de folhas ou palha.
+18. Não pulverize a água; evite inalar a névoa.
+19. Use a água armazenada em até 1 dia.
+20. Descarte no esgoto a água parada por mais de 1 dia.
+21. Lave as mãos com água potável e sabão ao terminar.
+
+ATENCAO
+-------
+Água cinza nunca é potável e pode conter fezes e microrganismos.
+O filtro reduz partículas, mas não desinfeta a água.
+Bactérias se multiplicam na água parada, especialmente no calor.
+Nunca conecte a saída à rede de água potável.
+Nunca use em hortaliças de folha, frutas ou alimentos que se comem crus.
+Não pulverize: a névoa pode levar microrganismos às vias aéreas.
+Com odor forte, espuma escura ou mudança de cor, descarte a água no esgoto.
+Mantenha as tampas presas: crianças e animais não devem acessar os tanques.
+Este texto não ensina doses de cloro. Não improvise química sem medir.
+Se houver diarreia ou infecção de pele, pare e procure ajuda.
+
+SE NAO TIVER
+------------
+Sem cascalho, use pedras pequenas bem lavadas no fundo do filtro.
+Sem areia lavada, não use terra de jardim: entope o filtro.
+Sem tanque plástico, use tambores com tampa firme e limpa.
+Sem caixa de gordura, adapte uma garrafa cortada na pia.
+Sem bomba, use gravidade: coloque o tanque acima do ponto de uso.
+Se não for possível separar a tubulação, não monte o sistema.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água no tanque está mais clara que a água da pia.
+Não há cheiro de esgoto no tanque tampado.
+A descarga enche com a água do tanque sem transbordar.
+A área irrigada recebe água sob cobertura morta, sem escorrer.
+
+FONTES
+------
+Diretrizes da OMS sobre uso seguro de águas residuais e cinzas.
+Guidelines for Water Reuse da EPA, edição de 2012.
+Compendium of Sanitation Systems and Technologies, Eawag, 2014.
+Prática consolidada de saneamento ecológico e reuso de águas cinzas.
+Este texto é resumo operacional e não substitui treinamento nem norma local.

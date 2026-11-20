@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 64-013
+TITULO: Como compreender glicemia
+CATEGORIA: 64 - Laboratório, diagnóstico e análises
+TEMPO: 15 minutos
+RISCO: medio
+EXIGE: resultado do exame de glicemia com unidade e faixa de referencia
+REVISAO: 2026-11
+PALAVRAS-CHAVE: glicemia, glicose, açúcar, jejum, diabetes, hipoglicemia
+==============================================================================
+
+OBJETIVO
+--------
+Entender o número da glicemia e saber quando procurar atendimento.
+
+QUANDO USAR
+-----------
+Quando você recebeu exame de glicemia e não entende o resultado.
+Quando o laboratório não informou a faixa, ou há sede e tremor.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Resultado do exame com a unidade: mg/dL ou mmol/L.
+- Faixa de referência do laboratório (ou o pedido médico).
+- Papel e caneta para anotar valor e data.
+- Relógio, se for medir a glicemia capilar em casa.
+
+PROCEDIMENTO
+------------
+1. Confira o nome: glicemia, glicose no sangue ou glicemia de jejum.
+2. Leia a unidade: mg/dL ou mmol/L; 1 mmol/L é aproximadamente 18 mg/dL.
+3. Identifique a coleta: em jejum (8 a 12 horas sem comer) ou aleatória.
+4. Compare seu valor com a faixa do laboratório e anote os dois.
+5. Em jejum: abaixo de 100 mg/dL é normal; 100 a 125 sugere jejum alterado.
+6. Em jejum: 126 mg/dL ou mais sugere diabetes; confirme com o médico.
+7. Com sintomas, glicemia aleatória de 200 mg/dL ou mais exige confirmação.
+8. Abaixo de 70 mg/dL é hipoglicemia; abaixo de 54 mg/dL é grave.
+9. Sinais de baixa: suor, tremor, fome e tontura.
+10. Sinais de alta: sede, urina frequente e visão turva.
+11. Anote valor, data e jejum; repita exame alterado sem sintomas.
+
+ATENCAO
+-------
+Este texto ensina a ler um resultado, não a diagnosticar nem prescrever.
+Não mude remédio por conta própria com base nestes números.
+Um exame alterado sem sintomas precisa ser repetido para confirmar.
+Fontes divergem: SBD/MS/ADA usam 100 mg/dL; OMS usa 110 mg/dL.
+Com convulsão, desmaio, vômito ou respiração profunda, procure emergência.
+
+SE NAO TIVER
+------------
+Sem faixa do laboratório, use os valores de referência deste texto.
+Sem como medir, não chute: procure exame; se o aparelho de casa divergir,
+   repita com as mãos limpas e procure o laboratório se a dúvida persistir.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue dizer se o valor é normal, alterado ou sugestivo de diabetes,
+se a coleta foi em jejum ou aleatória, e um sinal de alerta observado.
+
+FONTES
+------
+Sociedade Brasileira de Diabetes, diretriz de diagnóstico, edição 2026.
+Ministério da Saúde do Brasil, linha de cuidado do diabetes tipo 2.
+Organização Mundial da Saúde, critérios de diagnóstico de diabetes (2020).
+American Diabetes Association, Standards of Care in Diabetes (2026).

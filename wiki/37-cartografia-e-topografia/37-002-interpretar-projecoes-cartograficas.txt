@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 37-002
+TITULO: Como interpretar projeções cartográficas
+CATEGORIA: 37 - Cartografia, topografia e levantamento
+TEMPO: 20 minutos
+RISCO: baixo
+EXIGE: mapa em papel com legenda, régua, lápis, caderno
+REVISAO: 2026-11
+PALAVRAS-CHAVE: projeção, mapa, distorção, escala, meridiano, norte
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer a projeção de um mapa e saber o que ele deforma antes de medir.
+
+QUANDO USAR
+-----------
+Quando for usar um mapa em papel para se orientar no terreno.
+Quando precisar comparar tamanhos ou medir distâncias no mapa.
+Quando duas cartas da mesma região não batem uma com a outra.
+
+NAO USE QUANDO
+--------------
+Quando o mapa não tiver escala nem legenda: não dá para medir com segurança.
+Quando precisar de distância ou área exata para navegação de precisão.
+
+MATERIAIS
+---------
+- Mapa em papel com legenda e barra de escala.
+- Régua (papel dobrado serve de régua improvisada).
+- Lápis e caderno para anotar.
+
+PROCEDIMENTO
+------------
+1. Leia a legenda. Anote o nome da projeção, a escala e o paralelo padrão.
+2. Observe os meridianos, linhas que ligam o norte ao sul do mapa.
+3. Observe os paralelos, linhas que ligam o leste ao oeste do mapa.
+4. Retas em cruz indicam projeção cilíndrica, como a de Mercator.
+5. Meridianos que convergem indicam projeção cônica.
+6. Linhas em leque a partir de um ponto indicam projeção azimutal.
+7. Teste a escala em duas latitudes com a régua e a barra gráfica.
+8. Se a medida mudar, o mapa deforma distâncias; meça perto do padrão.
+9. Em Mercator, a reta dá rumo fixo, mas nunca compare tamanhos nela.
+10. Anote no caderno a projeção, a escala e onde o mapa mais distorce.
+
+ATENCAO
+-------
+Toda projeção distorce forma, área, distância ou direção; nenhuma é exata.
+O erro cresce longe do paralelo padrão indicado na legenda.
+Em Mercator, Groenlândia e África parecem iguais; a África é muito maior.
+Mapa sem escala não serve para medir, mesmo que pareça exato.
+Se o papel foi ampliado, a escala numérica não vale mais: use a barra.
+Se a projeção for desconhecida, trate toda medida como aproximada.
+
+SE NAO TIVER
+------------
+Sem legenda, use os passos 2 a 6 para deduzir a projeção.
+Sem régua, marque a barra de escala numa tira de papel e desloque-a.
+Sem distância conhecida, diga que a escala não foi conferida.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você diz o nome da projeção e aponta onde o mapa mais distorce.
+Duas medidas em latitudes diferentes divergem quando há distorção.
+
+FONTES
+------
+Prática consolidada de cartografia e leitura de mapas. Referências:
+"Map Projections: A Working Manual", de John P. Snyder, USGS, 1987;
+manual de sobrevivência civil FM 21-76, do Exército dos Estados Unidos.

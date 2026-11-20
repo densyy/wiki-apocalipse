@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 29-038
+TITULO: Como organizar uma biblioteca de manuais em PDF
+CATEGORIA: 29 - Tecnologia, computação e informática offline
+TEMPO: 45 minutos
+RISCO: baixo
+EXIGE: computador ou celular, os arquivos PDF, uma pasta de trabalho
+REVISAO: 2026-11
+PALAVRAS-CHAVE: pdf, manual, biblioteca, organizar, pastas, nomes, indice
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma biblioteca de PDFs que qualquer pessoa ache e abra sem internet.
+
+QUANDO USAR
+-----------
+Quando você reúne manuais técnicos baixados ou digitalizados.
+Quando há dezenas de PDFs soltos no celular ou computador.
+Quando o material precisa ser achado depressa, sem internet.
+
+NAO USE QUANDO
+--------------
+Quando os PDFs vêm de fonte desconhecida e não podem ser conferidos.
+Quando o objetivo for esconder informação: PDF não criptografa por si.
+
+MATERIAIS
+---------
+- Os arquivos PDF a organizar e uma pasta com espaço livre.
+- Gerenciador de arquivos do computador ou do celular.
+- Editor de texto simples para o catálogo (bloco de notas).
+- Meio de cópia separado, como pen drive ou outro aparelho.
+
+PROCEDIMENTO
+------------
+1. Crie uma pasta chamada biblioteca no aparelho com mais espaço livre.
+2. Crie subcarpastas por assunto, com prefixo numérico para fixar a ordem.
+3. Escolha o padrão: area-numero-descricao-curta, em minúsculas.
+4. Separe as palavras com hífen, sem espaços nem acentos no nome.
+5. Renomeie cada PDF para seguir o padrão escolhido.
+6. Mova cada PDF renomeado para a subcarpasta do seu assunto.
+7. Abra cada PDF e confira se a primeira página aparece.
+8. Crie um arquivo de texto chamado catalogo dentro de biblioteca.
+9. Anote no catálogo: código, título, assunto e pasta de cada PDF.
+10. Copie a pasta biblioteca para o meio separado e confira a quantidade.
+
+ATENCAO
+-------
+Renomear não muda o conteúdo: confira o PDF antes de apagar o original.
+Nomes com espaço, acento ou caractere estranho falham em aparelhos antigos.
+Não use um aparelho só: perda ou defeito apaga toda a biblioteca.
+Não crie muitas camadas de pastas: em celular fica difícil de achar.
+PDF de fonte duvidosa pode ter links ou scripts; abra só o que conhece.
+
+SE NAO TIVER
+------------
+Sem editor de metadados, use o nome do arquivo e o catálogo em texto.
+Sem pen drive, copie para outro celular, cartão ou nuvem local.
+Sem computador, use o gerenciador do celular para criar pastas e renomear.
+Sem espaço para tudo, priorize os manuais mais usados e anote os demais.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada PDF abre e mostra a primeira página.
+Nenhum número de sequência se repete dentro da mesma área.
+O catálogo tem um código por arquivo; a cópia tem a mesma quantidade.
+
+FONTES
+------
+Prática consolidada de arquivamento, sem documento único consultado.

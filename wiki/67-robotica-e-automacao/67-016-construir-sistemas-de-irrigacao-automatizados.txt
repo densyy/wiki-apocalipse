@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 67-016
+TITULO: Como construir sistemas de irrigação automatizados
+CATEGORIA: 67 - Robótica, automação e controle
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: reservatório elevado, válvula de boia, mangueira, calha nivelada
+REVISAO: 2026-11
+PALAVRAS-CHAVE: irrigação, boia, gravidade, gotejamento, automático, água
+==============================================================================
+
+OBJETIVO
+--------
+Montar um sistema que molha as plantas sozinho, mantendo a reserva de água
+sem depender da rede elétrica.
+
+QUANDO USAR
+-----------
+Quando há água em pote ou tanque, mas ninguém pode regar diariamente.
+Quando as plantas precisam de umidade constante, como hortaliças em
+canteiro.
+Quando existe um ponto mais alto onde apoiar o reservatório.
+Quando uma ausência prolongada de pessoas exigir rega automática.
+
+NAO USE QUANDO
+--------------
+Quando a água tiver cheiro de combustível, agrotóxico ou esgoto.
+Quando não houver nenhum ponto alto para apoiar o reservatório.
+Quando as plantas já sofrem com excesso de umidade ou apodrecimento de raiz.
+
+MATERIAIS
+---------
+- Reservatório com tampa (balde ou tanque) e saída na base.
+- Válvula de boia de caixa d'água (ou alavanca com boia improvisada).
+- Mangueira ou tubo do diâmetro da saída do reservatório.
+- Calha, canaleta ou tubo cortado ao meio, bem reto.
+- Pedras ou tijolos para dar altura e apoiar a calha.
+- Gotejadores (ou mangueira fina com furos de aproximadamente 2 mm).
+- Tela ou pano limpo para filtrar a água na saída.
+- Suporte firme (tijolos, caixotes) para elevar o reservatório.
+
+PROCEDIMENTO
+------------
+1. Escolha o ponto mais alto do canteiro para apoiar o reservatório.
+2. Empilhe tijolos ou caixotes até formar uma base firme e nivelada.
+3. Apoie o reservatório cheio sobre a base e confirme que não balança.
+4. Coloque a calha acima das plantas, com leve inclinação de aproximadamente
+   dois centímetros por metro.
+5. Prenda a calha com pedras ou arame para não deslocar.
+6. Encaixe a válvula de boia na entrada de água da calha.
+7. Ligue a mangueira da saída do reservatório até a válvula de boia.
+8. Coloque o filtro de tela ou pano dentro do reservatório, sobre a saída.
+9. Feche os gotejadores com os dedos e abra a torneira do reservatório.
+10. Deixe a calha encher até a boia subir e cortar a entrada de água.
+11. Solte os gotejadores e observe a água escorrer para as plantas.
+12. Ajuste a altura da boia para manter a calha quase cheia, sem
+    transbordar.
+13. Abra um gotejador de cada vez e regule até cada planta receber água.
+
+ATENCAO
+-------
+A boia pode travar com lama ou folhas; limpe a válvula e a tela
+a cada semana.
+Se a calha transbordar, abaixe a boia ou reduza a inclinação da calha.
+Água parada atrai mosquitos: tampe o reservatório e não deixe poças.
+Não use água suja ou contaminada direto nas folhas de hortaliças que se
+comem cruas; prefira levar a água à terra, perto da raiz.
+Se usar válvula elétrica, seja apenas de baixa tensão (por exemplo 12 V).
+Nunca ligue a válvula direto na rede elétrica nem deixe emenda molhada.
+Desligue a bateria antes de mexer na fiação e mantenha as conexões secas.
+Sem altura suficiente não há pressão: o reservatório precisa ficar acima
+da calha, mesmo que a mangueira seja longa.
+
+SE NAO TIVER
+------------
+Sem válvula de boia, use um pavio de pano: uma ponta na calha e a outra
+dentro do reservatório, mantendo a calha úmida por capilaridade.
+Sem mangueira, improvise com tubo de bambu ou mangueira de jardim velha.
+Sem gotejadores, fure a mangueira fina com alfinete quente, espaçando os
+furos de aproximadamente 30 centímetros.
+Sem bomba, conte só com a gravidade; não tente elevar água sem altura.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A calha enche, a boia sobe e a entrada de água para sem transbordar.
+Cada gotejador solta água de forma constante e a terra fica úmida, não
+encharcada. O reservatório demora a esvaziar e as folhas não murcham ao
+meio do dia.
+
+FONTES
+------
+Prática consolidada de irrigação por gravidade e controle de nível por boia,
+comum em caixas d'água e sistemas de irrigação; família de referência:
+manuais de irrigação da Embrapa e prática hidráulica corrente. Este é um
+resumo operacional, não substitui treinamento em instalações hidráulicas.

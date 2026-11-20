@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 09-059
+TITULO: Como recuperar dados de mídias antigas
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: computador, leitor da mídia, disco de destino com espaço livre
+REVISAO: 2026-11
+PALAVRAS-CHAVE: mídia, disquete, CD, HD, recuperação, dados perdidos
+==============================================================================
+
+OBJETIVO
+--------
+Recupere arquivos de mídia antiga sem danificar o original.
+
+QUANDO USAR
+-----------
+Quando um disquete, CD, DVD ou HD antigo não é mais reconhecido.
+Quando arquivos foram apagados por engano e nada foi gravado depois.
+Quando o computador antigo parou e os arquivos ficaram nele.
+
+NAO USE QUANDO
+--------------
+Quando o HD faz clique alto, range ou parou de girar: desligue e pare.
+Quando há cheiro de queimado, umidade ou água: procure serviço técnico.
+
+MATERIAIS
+---------
+- Computador com leitor da mídia (adaptador USB ou leitor de disquete).
+- Disco ou pendrive de destino com espaço livre (mídia maior).
+- Pano limpo e seco, sem fiapos; luvas ou mãos limpas.
+- Programa de recuperação já instalado e de fonte confiável.
+
+PROCEDIMENTO
+------------
+1. Pare de usar a mídia: não abra arquivos, não salve nada e não formate.
+2. Anote o tipo da mídia e os arquivos que estavam nela.
+3. Segure discos pela borda; limpe com pano seco do centro para a borda.
+4. Encoste em metal ligado à terra para tirar a estática do corpo.
+5. Conecte o disco de destino com espaço livre ao computador.
+6. Conecte a mídia pelo leitor; para HD, use adaptador externo.
+7. Se não for reconhecida, tente outra porta, outro cabo e outro leitor.
+8. Copie a mídia inteira para o destino como imagem (cópia bit a bit).
+9. Se a leitura falhar, repita: a imagem ignora setores ruins.
+10. Para arquivos apagados, busque na cópia e salve no destino.
+11. Para erro de sistema, verifique a cópia, nunca o original.
+
+ATENCAO
+-------
+Nunca abra um disco rígido: pó gruda nos pratos e destrói a leitura.
+A cabeça flutua a poucos nanômetros; só sala limpa resolve.
+Não troque a placa eletrônica: a calibração é única e o disco não calibra.
+HD com clique ou grito: cada tentativa piora o dano; pare e procure serviço.
+Nunca grave ou formate a original: isso apaga o que ainda se salva.
+
+SE NAO TIVER
+------------
+Sem leitor de disquete, use leitor USB ou PC antigo; senão, procure um.
+Sem destino ou programa, pare: gravar na original destrói os dados.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A imagem abre e mostra arquivos com nomes e tamanhos esperados.
+Arquivos salvos abrem e o conteúdo aparece legível, sem erro de leitura.
+
+FONTES
+------
+Biblioteca do Congresso dos EUA (Library of Congress), Personal Digital
+Archiving: guarda de mídias digitais e arquivos pessoais.
+Consenso técnico: copiar a imagem, não abrir o HD, não gravar na original.

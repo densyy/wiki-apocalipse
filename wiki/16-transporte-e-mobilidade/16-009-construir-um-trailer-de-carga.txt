@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 16-009
+TITULO: Como construir um trailer de carga
+CATEGORIA: 16 - Transporte e mobilidade
+TEMPO: 2 dias
+RISCO: alto
+EXIGE: eixo e rodas, tubo de aço, acoplador, soldador, luzes, correntes, EPI
+REVISAO: 2026-11
+PALAVRAS-CHAVE: reboque, trailer, carroça, engate, eixo, carga, solda, freio
+==============================================================================
+
+OBJETIVO
+--------
+Construir um reboque rebocável para levar carga volumosa fora do veículo.
+
+QUANDO USAR
+-----------
+Quando é preciso transportar madeira, água, ferramentas ou colheita.
+Quando a carga não cabe no porta-malas nem na caçamba.
+Quando a estrada é ruim e a carga precisa ficar baixa e bem presa.
+Quando o trajeto é curto e não há serviço de frete disponível.
+
+NAO USE QUANDO
+--------------
+Não use na via pública sem luzes, correntes e freios exigidos pela lei
+local. Não rebocar além da capacidade do veículo nem da peça de engate
+mais fraca. Não leve pessoas no reboque.
+
+MATERIAIS
+---------
+- Tubo de aço reto, sem rachadura e sem ferrugem profunda.
+- Eixo completo com rodas, pneus e rolamentos em bom estado.
+- Lança de engate com acoplador e pino de travamento.
+- Bola de engate do mesmo diâmetro do acoplador.
+- Luzes traseiras de freio, seta e lanterna.
+- Freios com interruptor de emergência se o peso passar de aproximadamente
+  700 kg carregado.
+- Duas correntes de segurança e cintas de amarração.
+- Soldador, esmeril, furadeira, chaves e torquímetro.
+- Capacete, luvas e óculos de proteção (EPI).
+
+PROCEDIMENTO
+------------
+1. Defina o peso máximo da carga. Anote esse limite no reboque.
+2. Desenhe o chassi retangular e marque no chão onde fica o eixo.
+3. Corte os tubos nas medidas do desenho. Retire as rebarbas.
+4. Monte o chassi sobre cavaletes e confira o esquadro antes de soldar.
+5. Prenda as travessas ao chassi com solda contínua em toda a junta.
+6. Fixe o eixo ao chassi com suportes e parafusos do kit do fabricante.
+7. Coloque as rodas e aperte as porcas conforme o manual do eixo.
+8. Prenda a lança ao chassi com solda nas laterais e por baixo.
+9. Instale o acoplador na ponta da lança e trave-o com pino.
+10. Confira se a bola do veículo tem o mesmo diâmetro do acoplador.
+11. Parafuse o piso e fixe as laterais ao chassi.
+12. Instale as luzes traseiras e ligue a fiação do veículo.
+13. Instale freios próprios e o interruptor que os aciona se o reboque
+    se soltar.
+14. Prenda uma corrente de segurança em cada lado da lança.
+15. Pinte o aço exposto para retardar a ferrugem.
+16. Calce as rodas, engate o acoplador e cruze as correntes por baixo.
+17. Deixe folga nas correntes para virar sem arrastar no chão.
+18. Confira luzes e freios antes de sair.
+
+ATENCAO
+-------
+Um reboque solto pode matar. A solda é a parte mais crítica: solda fria,
+ferrugem ou tubo fino podem quebrar com o peso.
+Nunca confie apenas na bola e no pino. As correntes cruzadas são a
+segunda barreira se o acoplador sair.
+O peso deve apertar a lança para baixo. Se o reboque balançar de lado,
+pare: a carga está atrás do eixo ou muito alta.
+A exigência legal de freios muda por localidade: fontes oficiais citam
+desde aproximadamente 700 kg até aproximadamente 1.400 kg. Respeite a
+regra do seu local.
+Não ultrapasse a menor capacidade entre bola, engate, pneu e veículo.
+Reduza velocidade, aumente a distância de frenagem e use observador ao
+dar ré. Pare a cada parada longa e reaperte cintas e parafusos.
+Desacople só em terreno plano e com as rodas calçadas.
+
+SE NAO TIVER
+------------
+Sem soldador ou sem eixo adequado, não improvise com madeira, corda ou
+roda de carroça: isso não suporta as forças da estrada. Use um carrinho
+de mão ou peça ajuda de oficina. Sem freios, reduza a carga e evite
+estradas com descendência longa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O chassi fica nivelado e as rodas giram livres sem folga.
+A lança pressiona o engate para baixo e o reboque não balança.
+Luzes acendem junto com as do veículo e os freios travam as rodas.
+Depois de alguns quilômetros, nenhuma solda, porca ou cinta afrouxou.
+
+FONTES
+------
+Prática consolidada de construção de reboques leves, sem documento
+único. Segurança de engate, carga, correntes e inspeção: Mississippi
+State University Extension (Trailer Safety, 2020 e 2023) e Purdue
+Extension (Keep the Trailer Connected to the Truck).

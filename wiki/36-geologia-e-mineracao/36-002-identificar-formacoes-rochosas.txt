@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 36-002
+TITULO: Como identificar formações rochosas
+CATEGORIA: 36 - Geologia, mineração e recursos naturais
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: lupa de bolso, martelo, lanterna, caderno, lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: rocha, pedra, ígnea, sedimentar, metamórfica, camadas
+==============================================================================
+
+OBJETIVO
+--------
+Diferenciar no campo rochas ígneas, sedimentares e metamórficas.
+
+QUANDO USAR
+-----------
+Ao escolher ponto para cavar poço ou buscar água subterrânea.
+Antes de abrir vala, fundação ou estrada em terreno desconhecido.
+Ao procurar areia, cascalho ou pedra para construir.
+Ao reconhecer encosta com risco de deslizamento após chuva.
+
+NAO USE QUANDO
+--------------
+Não use para decidir onde construir ou cavar poço; peça laudo técnico.
+
+MATERIAIS
+---------
+- Lupa de bolso (lente de aumento comum).
+- Martelo de geólogo (pedra presa em cabo firme).
+- Lanterna (ou luz do sol em dia claro).
+- Caderno, lápis e pano para limpar a pedra.
+
+PROCEDIMENTO
+------------
+1. Escolha um afloramento: pedra exposta em leito de rio ou talude.
+2. Limpe a face com o pano para ver a cor verdadeira.
+3. Observe se existem camadas ou faixas repetidas na pedra.
+4. Procure fósseis: conchas, folhas ou marcas de seres vivos.
+5. Olhe os grãos com a lupa: grandes, pequenos ou invisíveis.
+6. Bata com o martelo longe do rosto para expor face nova.
+7. Molhe a face nova; note bolhas (vesículas) e cor clara ou escura.
+8. Com camadas ou fósseis, anote sedimentar e o tamanho dos grãos.
+9. Grãos visíveis sem camadas: ígnea intrusiva, esfriou devagar.
+10. Grãos finos ou vidro sem camadas: ígnea vulcânica, esfriou rápido.
+11. Faixas achatadas ou dobradas sem fósseis: metamórfica.
+
+ATENCAO
+-------
+Um nome errado pode levar a poço seco, fundação fraca ou compra inútil.
+Não confunda pirita com ouro: brilho não prova minério de valor.
+Não prove nem cheire a rocha: alguns minérios são tóxicos.
+Não escale talude alto nem bata em corte com veículos passando.
+A cor da superfície engana: use sempre a face recém-quebrada.
+Pedra quente, com gás ou cheiro de enxofre: afaste-se e avise.
+
+SE NAO TIVER
+------------
+Sem lupa, use a visão a olho nu e registre só o que for evidente.
+Sem martelo, recolha um fragmento já solto no chão, sem quebrar a pedra.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A classe está anotada e três sinais foram vistos: camadas, grãos e cor.
+
+FONTES
+------
+Prática consolidada de identificação de rochas em campo, resumida de NPS
+(EUA): How Rocks are Classified e páginas de tipos de rocha; SGB (Brasil).

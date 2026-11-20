@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 50-012
+TITULO: Como funcionavam as oficinas de ferreiros antigos
+CATEGORIA: 50 - História das tecnologias pré-industriais
+TEMPO: 10 minutos
+RISCO: baixo
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ferreiro, forja, bigorna, fole, carvão, oficina, ferro
+==============================================================================
+
+OBJETIVO
+--------
+Entender como era montada e operada a oficina do ferreiro antigo.
+
+QUANDO USAR
+-----------
+Quando se estuda tecnologia antes da industrializacao.
+Quando se visita uma forja historica ou museu de metalurgia.
+Quando se explica a origem de ferramentas, pregos e ferraduras.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+Este texto descreve o passado; nao ensina a construir ou operar forja.
+
+MATERIAIS
+---------
+- Nenhum material. Texto descritivo, sem execucao pratica.
+
+PROCEDIMENTO
+------------
+1. Escolha o ponto da oficina, em geral no centro da vila.
+2. Construa a forja, a boca de fogo onde o metal e aquecido.
+3. Encha a forja com carvao vegetal, combustivel mais comum entao.
+4. Coloque o fole, bomba de ar manual, junto a lateral da forja.
+5. Acione o fole para soprar ar e avivar as brasas ate o fogo subir.
+6. Aqueça o ferro forjado na brasa ate brilhar em vermelho ou laranja.
+7. Retire a peca com pinzas e leve-a a bigorna, bloco de ferro macico.
+8. Martle para esticar, dobrar, recalcar ou furar a peca quente.
+9. Una duas pecas por soldagem por forja, aquecendo-as ate quase brancas.
+10. Retire a carepa com escova e alise as bordas com lima.
+
+ATENCAO
+-------
+O fogo da forja e o metal quente causam queimaduras graves.
+Nunca reconstrua ou opere uma forja sem conhecimento especializado.
+A carepa, camada de oxido escuro, se solta sob o martelo.
+Use protecao nos olhos: os fragmentos quentes podem ferir.
+O fole exige ritmo constante: sem ar, o fogo apaga e o trabalho para.
+
+SE NAO TIVER
+------------
+Sem carvao vegetal, usava-se carvao de madeira dura na forja.
+Sem fole, o fogo ficava fraco e o ferro nao alcançava o ponto de forja.
+Sem bigorna, usava-se uma pedra dura ou bloco de metal como apoio.
+Nao improvise: isto e explicacao historica, nao orientacao de oficina.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O ferro brilha em laranja na forja, dobra sob o martelo e guarda a forma.
+A peca sai da bigorna com o contorno desejado e sem rachaduras visiveis.
+
+FONTES
+------
+Resumo da literatura consolidada sobre metalurgia e ferreira antigas.
+Fonte primaria: De Re Metallica, de Georgius Agricola, de 1556.
+Fonte primaria: Encyclopedie de Diderot e d'Alembert, seculo XVIII.
+Manuais: The Blacksmith's Craft, de Charles McRaven, 1981; New Edge
+of the Anvil, de Jack Andrews, 1994; Metals Handbook, da ASM, 1998.

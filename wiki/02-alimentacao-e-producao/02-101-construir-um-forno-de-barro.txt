@@ -1,0 +1,97 @@
+==============================================================================
+CODIGO: 02-101
+TITULO: Como construir um forno de barro
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 2 dias
+RISCO: alto
+EXIGE: tijolo maciço, refratário, barro, areia, chaminé, lenha seca
+REVISAO: 2026-11
+PALAVRAS-CHAVE: forno, barro, forno de barro, adobe, chaminé, assar, lenha
+==============================================================================
+
+OBJETIVO
+--------
+Construir forno de barro com chaminé para assar pães com lenha.
+
+QUANDO USAR
+-----------
+Quando faltar gás ou eletricidade para assar pão e outros alimentos.
+Quando houver lenha e barro disponíveis no quintal ou no sítio.
+Quando for preciso assar vários pães ou tabuleiros de uma vez.
+Quando o fogo aberto gasta muita lenha e solta fumaça no ambiente.
+
+NAO USE QUANDO
+--------------
+Não construa dentro de casa sem chaminé que leve a fumaça para fora.
+Não construa sobre piso de madeira, nem perto de telhado ou folhas secas.
+Não use onde o solo fica encharcado ou a chuva bate sem cobertura.
+
+MATERIAIS
+---------
+- Tijolo maciço de barro cozido para a base e para a cúpula.
+- Tijolo refratário e massa refratária para o piso e a câmara.
+- Barro peneirado, areia sem sal, água e açúcar para a massa.
+- Chaminé de cerâmica ou metal resistente ao calor, com chapéu de chuva.
+- Cimento, nível, trena, pá, colher de pedreiro, peneira e telha.
+- Lenha seca, luvas longas, pá de metal e balde metálico com tampa.
+
+PROCEDIMENTO
+------------
+1. Escolha lugar externo, firme e plano, longe de madeira e inflamáveis.
+2. Reserve espaço livre acima do forno para a chaminé e a cobertura.
+3. Marque no chão um círculo de aproximadamente 1 metro de diâmetro.
+4. Levante a base com tijolo maciço até aproximadamente 90 centímetros.
+5. Encha a base com terra batida em camadas, socando cada camada.
+6. Deixe um vão na frente, sob o piso, para entrada de ar e cinzas.
+7. Assente o piso com tijolo refratário sobre massa refratária, nivelado.
+8. Misture barro peneirado, areia, água e açúcar até virar pasta grossa.
+9. Marque a porta na frente: abertura em arco, larga para tabuleiros.
+10. Levante paredes e cúpula com tijolos assentados na massa de barro.
+11. Incline os tijolos a cada fiada para fechar a cúpula no topo achatada.
+12. Apoie a porta com tijolos em arco; nunca use concreto no arco.
+13. Reserve a saída da fumaça no lado oposto à porta, rente ao piso.
+14. Encaixe a chaminé na saída e leve-a para fora, acima do telhado.
+15. Cubra a boca da chaminé com um chapéu para não entrar chuva.
+16. Aplique camadas de massa de barro por fora, esperando secar entre elas.
+17. Construa uma cobertura de telha sobre o forno para proteger da chuva.
+18. Deixe o forno secar por aproximadamente uma semana antes do fogo.
+
+ATENCAO
+-------
+Fogo e brasas soltam monóxido de carbono, gás incolor e sem cheiro que mata.
+Sem chaminé que leve a fumaça para fora, não use o forno perto de casa.
+Aquecer depressa racha a cúpula: a umidade presa vira vapor e abre trincas.
+Comece com fogos pequenos e aumente aos poucos, em dias seguidos.
+Nunca feche a porta com fogo aceso: pode explodir quando for aberta.
+Não jogue água no forno quente: racha o barro e queima com vapor.
+Queime só lenha seca; madeira tratada ou plástico solta fumaça tóxica.
+Nunca acenda com gasolina, álcool ou querosene: pegar fogo e explodir.
+Use luvas longas: a cúpula fica quente por horas e saem faíscas pela boca.
+Mantenha crianças e animais longe; nunca deixe fogo sem vigilância.
+Guarde cinzas só em recipiente metálico com tampa, depois de frias.
+Dor de cabeça, tontura ou náusea perto do fogo: saia e procure ajuda.
+
+SE NAO TIVER
+------------
+Sem tijolo refratário, use tijolo comum na cúpula e reforce o piso com
+massa de barro e açúcar; espere mais trincas com o uso.
+Sem barro com liga, não improvise: massa fraca desaba com o calor.
+Sem chaminé, não use dentro de casa; cozinhe ao ar livre e longe de tudo.
+Sem cobertura, não construa: a chuva dissolve o barro e desfaz o forno.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Depois da cura, a massa está dura e sem trincas que atravessem a parede.
+A fumaça sai só pela chaminé, sem vazar pela porta nem pelas juntas.
+Com o forno quente, a face interna da cúpula fica clara, não mais escura.
+O piso não cede ao peso do tabuleiro e o alimento assa por igual.
+
+FONTES
+------
+NR-14 do Ministério do Trabalho e Emprego: fornos devem ser sólidos,
+revestidos com material refratário e ter chaminé para livre saída dos gases.
+Apostila "A Antiga Arte de Construir Fornos de Barro", de João Guilherme
+Rolim: base, massa de barro com açúcar, cúpula, entrada de ar e cura lenta.
+Embrapa: uso do barro como revestimento e isolamento em fornos rurais.
+CDC/ATSDR: monóxido de carbono é incolor, sem cheiro e vem de fogo.
+Prática consolidada de fornos de barro e de terra, sem documento único.

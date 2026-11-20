@@ -1,0 +1,94 @@
+==============================================================================
+CODIGO: 03-065
+TITULO: Como funciona o sistema nervoso
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 10 minutos
+RISCO: critico
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: sistema nervoso, neurônio, cérebro, medula, nervos, avc
+==============================================================================
+
+OBJETIVO
+--------
+Entender como o sistema nervoso recebe sinais, processa informação e
+comanda o corpo, e reconhecer sinais de que ele está em perigo.
+
+QUANDO USAR
+-----------
+Quando quiser entender como o corpo sente dor, frio, calor ou susto.
+Ao observar que alguém perdeu força ou fala de repente.
+Depois de uma queda ou pancada na cabeça.
+Quando uma parte do corpo fica dormente ou com formigamento.
+Ao notar mudança de visão, equilíbrio ou memória.
+Ao explicar a uma criança por que ela retira a mão do que está quente.
+
+NAO USE QUANDO
+--------------
+Não use este texto para diagnosticar doença nem para decidir sozinho se
+alguém precisa de hospital.
+Não espere entender o mecanismo para agir diante de um sintoma súbito.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Separe o sistema nervoso em duas partes: central e periférico.
+2. Guarde no central o cérebro e a medula, protegidos por osso.
+3. Guarde no periférico os nervos que ligam essas partes ao corpo.
+4. Identifique o neurônio, a célula que transmite os sinais.
+5. Note que o neurônio tem corpo, dendritos e um axônio.
+6. Entenda que os dendritos recebem e o axônio envia o sinal.
+7. Saiba que o sinal viaja como impulso elétrico ao longo do axônio.
+8. Entenda que a mielina é uma camada que isola o axônio e acelera o sinal.
+9. Observe que, entre neurônios, o sinal passa pela sinapse.
+10. Saiba que a sinapse libera neurotransmissores para o próximo.
+11. Entenda que o córtex cerebral faz pensamento, memória e vontade.
+12. Saiba que o cerebelo ajusta movimento e equilíbrio.
+13. Entenda que o tronco encefálico controla respiração e batimentos.
+14. Observe que a medula conduz sinais e comanda reflexos rápidos.
+15. Saiba que nervos voluntários movem os músculos sob seu comando.
+16. Entenda que nervos automáticos regulam coração, intestino e suor.
+17. Note que os sinais cruzam: cada lado comanda o lado oposto.
+18. Observe um reflexo: ao tocar algo quente, a mão recua antes da dor.
+19. Repita o teste do AVC: peça sorriso, braços erguidos e frase curta.
+20. Ligue 192 se o sorriso ficar torto, um braço cair ou a fala enrolar.
+
+ATENCAO
+-------
+Este texto explica o funcionamento normal; não substitui avaliação médica.
+Um sintoma súbito não espera você entender o mecanismo: ligue 192 na hora.
+O cérebro sem oxigênio começa a sofrer em minutos; cada minuto conta.
+Boca torta, braço fraco, fala enrolada, visão dupla ou tontura forte são
+emergência, mesmo que melhore depois de minutos.
+Não dirija até o hospital: chame o socorro para receber ajuda no caminho.
+Anote a hora em que os sintomas começaram; isso muda o tratamento.
+Não dê comida, bebida ou remédio a quem está confuso ou com fala alterada.
+Não peça para a pessoa andar ou levantar para testar se ela está fraca.
+
+SE NAO TIVER
+------------
+Sem relógio: anote a hora aproximada em que os sinais apareceram.
+Sem celular: peça a outra pessoa que ligue 192 enquanto você fica com ela.
+Sem lanterna: observe o rosto e a fala na luz do dia.
+Sem saber o nome do remédio: informe o que a pessoa tomou e quando.
+Sem entender o termo: peça que a pessoa aponte o que sente.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você explica com suas palavras como o sinal vai do corpo ao cérebro.
+Você aponta as duas partes do sistema e a função de cada uma.
+Você realiza o teste do AVC e reconhece o que é anormal.
+Diante de um sinal suspeito, você liga 192 e informa a hora de início.
+Você não ficou parado esperando os sintomas passarem.
+
+FONTES
+------
+Instituto Nacional de Distúrbios Neurológicos e AVC (NINDS), 'Brain Basics:
+Know Your Brain', revisado em 2025: estrutura do cérebro, neurônios,
+mielina, sinapses e funções do tronco encefálico e do cerebelo.
+Centros para Controle e Prevenção de Doenças (CDC), 'Signs and Symptoms
+of Stroke', 2026: sinais de AVC e teste B.E.F.A.S.T.
+Texto operacional de primeiros socorros; não substitui treinamento.

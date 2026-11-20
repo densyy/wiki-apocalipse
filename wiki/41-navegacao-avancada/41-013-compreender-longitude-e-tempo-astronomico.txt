@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 41-013
+TITULO: Como compreender longitude e tempo astronômico
+CATEGORIA: 41 - Navegação avançada e técnicas de expedição
+TEMPO: 45 minutos
+RISCO: alto
+EXIGE: relógio em UTC, sextante, almanaque, sol e horizonte visíveis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: longitude, tempo, meio-dia, cronômetro, UTC, leste, oeste
+==============================================================================
+
+OBJETIVO
+--------
+Obter longitude aproximada comparando a hora do Sol com a hora universal.
+
+QUANDO USAR
+-----------
+Quando o GPS e o celular falham, mas resta um relógio ajustado em UTC.
+Quando é preciso saber se o destino fica a leste ou a oeste do ponto atual.
+Quando há sextante, almanaque náutico e horizonte livre para observar o Sol.
+Quando a carta pede a longitude para marcar a posição estimada.
+Quando se quer conferir uma posição obtida por estimativa de passos.
+
+NAO USE QUANDO
+--------------
+Quando não há relógio em UTC confiável: sem tempo não há longitude.
+Quando o céu está encoberto ou o horizonte some entre árvores ou névoa.
+Quando é preciso precisão em porto, atracação ou canal estreito.
+Quando há perigo imediato: resolva a emergência antes de observar o céu.
+
+MATERIAIS
+---------
+- Relógio ou cronômetro ajustado em UTC, a hora do meridiano de Greenwich.
+- Meridiano: linha imaginária norte-sul; Greenwich é a de zero graus.
+- Sextante (ou aparelho que meça o ângulo do Sol acima do horizonte).
+- Filtro solar do sextante para proteger os olhos.
+- Almanaque náutico com a equação do tempo para a data.
+- Equação do tempo: quanto o meio-dia do Sol difere das 12:00 do relógio.
+- Bússola para saber se o Sol fica ao sul ou ao norte ao meio-dia.
+- Caderno e lápis para anotar alturas e horários.
+- Horizonte visível e Sol livre perto do meio-dia.
+
+PROCEDIMENTO
+------------
+1. Ajuste o relógio na hora universal UTC antes da partida.
+2. Anote quanto o relógio adianta ou atrasa da hora exata.
+3. Determine o norte com a bússola e note a direção do Sol ao meio-dia.
+4. Comece a medir a altura do Sol 30 minutos antes do meio-dia.
+5. Use o filtro do sextante; nunca olhe o Sol direto.
+6. Repita a medição a cada minuto e anote altura e horário.
+7. Continue até a altura parar de subir e começar a descer.
+8. Escolha duas alturas iguais, uma na subida e outra na descida.
+9. Some os dois horários e divida por dois para achar o meio-dia local.
+10. Corrija esse horário com o erro do relógio anotado no passo 2.
+11. Leia no almanaque a equação do tempo para a data da observação.
+12. Aplique a correção indicada ao horário do meio-dia local.
+13. Subtraia 12:00 UTC do horário obtido.
+14. Multiplique a diferença em horas por 15 para obter graus.
+15. Multiplique os minutos de diferença por 15 e divida por 60.
+16. Some a parte inteira com a parte de minutos de arco.
+17. Escreva W se a diferença for positiva e E se for negativa.
+18. Marque a posição na carta e compare com a estimativa anterior.
+
+ATENCAO
+-------
+A longitude indica apenas leste e oeste; ela não informa a latitude.
+Um relógio sem referência UTC invalida o método; não invente a hora base.
+Perto do meio-dia a altura do Sol muda pouco; acertar o instante é difícil.
+Sem a equação do tempo do almanaque o erro pode passar de três graus.
+Quatro segundos de erro no relógio geram um minuto de arco de longitude.
+Ao meio-dia o Sol fica ao sul no hemisfério norte.
+No hemisfério sul ele fica ao norte.
+Trocar leste por oeste inverte a correção da posição na carta.
+Nunca observe o Sol sem filtro: a luz direta queima a retina.
+Se o resultado não bater com a carta, refaça a medição antes de avançar.
+O valor é aproximado; não serve para manobras em água rasa ou porto.
+
+SE NAO TIVER
+------------
+Sem sextante, meça a menor sombra de uma vara para achar o meio-dia.
+Sem almanaque, omita a equação do tempo: marque o resultado como aproximado.
+Sem filtro solar, não observe o Sol: espere outro dia ou use outro método.
+Sem relógio em UTC, pare; não há substituto para a hora de referência.
+Sem horizonte livre, afaste-se de árvores e prédios ou espere outro dia.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A altura subiu, ficou quase parada e tornou a descer em ordem regular.
+Duas alturas iguais deram horários diferentes, um antes e um depois do topo.
+A longitude calculada concorda com a carta ou com a estimativa anterior.
+O sinal W ou E combina com o lado em que o Sol apareceu em relação ao Sul.
+Repetindo o cálculo no dia seguinte, o resultado fica parecido.
+
+FONTES
+------
+NIST, artigo Everyday Time and Atomic Time: Part 4, de Judah Levine, 2021.
+The American Practical Navigator (Bowditch), capítulo 16, Time, edição 2019.
+Prática consolidada de navegação celeste; resumo operacional.
+Não substitui treinamento nem as fontes acima.

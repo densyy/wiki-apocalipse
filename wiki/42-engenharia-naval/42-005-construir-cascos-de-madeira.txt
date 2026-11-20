@@ -1,0 +1,88 @@
+==============================================================================
+CODIGO: 42-005
+TITULO: Como construir cascos de madeira
+CATEGORIA: 42 - Engenharia naval e tecnologias marítimas
+TEMPO: 180 minutos
+RISCO: alto
+EXIGE: machado, faca, corda ou vinhas, troncos secos, ajudante
+REVISAO: 2026-11
+PALAVRAS-CHAVE: casco, madeira, jangada, tronco, amarrar, flutuar, barco
+==============================================================================
+
+OBJETIVO
+--------
+Construir um casco flutuante simples de troncos amarrados para atravessar
+água ou manter equipamento seco.
+
+QUANDO USAR
+-----------
+Quando é preciso atravessar rio largo ou lago sem ponte.
+Quando há madeira seca disponível e tempo para cortar e amarrar.
+Quando o equipamento precisa passar para a outra margem sem molhar.
+Quando não há barco, jangada pronta ou outro meio de flutuação.
+
+NAO USE QUANDO
+--------------
+Não use em água muito fria, correnteza forte, mar aberto ou ondas.
+Não use se você não sabe nadar ou se está sozinho na travessia.
+Este casco sustenta equipamento, não o peso total de uma pessoa.
+
+MATERIAIS
+---------
+- Árvores secas, mortas e em pé (de preferência abeto).
+- Machado (serra manual).
+- Faca (lâmina de metal resistente).
+- Corda resistente (cipó, vinha ou tiras de casca trançadas).
+- Duas barras retas e grossas (troncos jovens).
+- Ajudante ou peso para imobilizar os troncos enquanto amarra.
+
+PROCEDIMENTO
+------------
+1. Escolha árvores secas, mortas e em pé, com casca firme.
+2. Rejeite madeira caída, escura, macia, com cogumelos ou que quebre fácil.
+3. Corte 5 troncos retos com aproximadamente 2 metros de comprimento.
+4. Retire os galhos e a casca solta com a faca.
+5. Atire um tronco na água e confirme que boia alto.
+6. Alinhe os troncos lado a lado no chão, com as pontas niveladas.
+7. Coloque uma barra transversal a aproximadamente 20 cm de cada ponta.
+8. Amarre a barra aos troncos dando duas voltas de corda em cada tronco.
+9. Puxe cada volta com força e feche com nó duplo.
+10. Coloque a segunda barra na outra ponta e repita as amarrações.
+11. Empurre as barras para baixo para apertar e travar os troncos.
+12. Empurre o casco para a água e teste só com o equipamento.
+13. Se entrar água, acrescente troncos e reaperte as amarrações.
+
+ATENCAO
+-------
+Ferramentas cortantes causam feridas graves: corte para longe do corpo.
+Troncos rolam e esmagam pés: imobilize antes de cortar.
+Este casco não sustenta o peso total de uma pessoa: não embarque nele.
+Água fria, correnteza e ondas podem levar o casco e causar afundamento.
+Madeira apodrecida, caída ou encharcada não sustenta: troque o tronco.
+Amarração frouxa desfaz o casco na água: reaperte antes de cada uso.
+Afogamento em água profunda pode matar: sem saber nadar, não atravesse.
+
+SE NAO TIVER
+------------
+Sem corda, use cipó, vinha ou tiras de casca trançadas e umedecidas.
+Sem machado, use serra manual ou faca grande; o trabalho fica mais lento.
+Sem barras, use troncos jovens retos como travessas.
+Sem ajudante, prenda os troncos com pedras antes de amarrar.
+Sem troncos secos, não construa: madeira verde ou apodrecida não serve.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os troncos ficam imóveis quando você empurra as barras com o pé.
+O casco boia com a maior parte dos troncos acima da água.
+As amarrações não cedem quando puxadas com força.
+O equipamento sobre o casco continua seco após alguns minutos.
+
+FONTES
+------
+Manual de sobrevivência FM 21-76 do Exército dos Estados Unidos:
+capítulo 17, "Water Crossings", seção "Log Raft"; capítulo 12,
+"Lashing and Cordage".
+Wood Handbook: Wood as an Engineering Material, Forest Products
+Laboratory, Serviço Florestal do USDA (Agriculture Handbook 72).
+Prática consolidada de jangadas de troncos; resumo operacional,
+não substitui treinamento.

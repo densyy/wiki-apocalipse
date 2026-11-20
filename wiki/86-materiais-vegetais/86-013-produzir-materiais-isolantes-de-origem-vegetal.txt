@@ -1,0 +1,80 @@
+==============================================================================
+CODIGO: 86-013
+TITULO: Como produzir materiais isolantes de origem vegetal
+CATEGORIA: 86 - Recursos naturais e materiais vegetais
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: fibra vegetal seca, aglutinante natural e molde
+REVISAO: 2026-11
+PALAVRAS-CHAVE: isolante, fibra, palha, casca, aglutinante, termico
+==============================================================================
+
+OBJETIVO
+---------
+Fabricar painel isolante com fibras vegetais e aglutinante natural.
+
+QUANDO USAR
+-----------
+Quando houver palha, serragem ou casca de arroz em excesso.
+Quando precisar isolar o calor de uma parede, de um telhado ou de um forno.
+Quando quiser reduzir o frio em um abrigo provisorio.
+
+NAO USE QUANDO
+--------------
+Nao use fibra mofada, umida ou com cheiro de pesticide.
+Nao instale isolante irregular perto de chama aberta ou fogo.
+Nao use aglutinante inflamavel em area de alta temperatura.
+
+MATERIAIS
+---------
+- Palha picada, serragem grossa ou casca de arroz seca.
+- Aglutinante natural: cola de amido, cal ou resina vegetal.
+- Agua limpa para preparar a massa e umedecer as fibras.
+- Molde retangular de madeira ou caixa de papelao resistente.
+- Pano limpo e peso para comprimir o painel durante a secagem.
+- Luvas e mascara de pano contra poeira fina.
+
+PROCEDIMENTO
+------------
+1. Pique a fibra vegetal em pedacos curtos e uniformes.
+2. Prepare o aglutinante com agua, conforme a receita escolhida.
+3. Umedeca as fibras com o aglutinante ate ficarem pegajosas.
+4. Misture bem com as maos ate todas as partes ficarem cobertas.
+5. Forre o molde com pano limpo antes de colocar a massa.
+6. Espalhe a mistura no molde e pressione com as maos.
+7. Cubra com outro pano e coloque um peso por cima.
+8. Deixe comprimir e secar em local arejado e sombreado.
+9. Retire o painel do molde apos a secagem completa.
+10. Verifique se nao ha partes soltas ou areas muito fracas.
+11. Instale o painel com fixacoes mecânicas, sem fogo proximo.
+12. Guarde as sobras de massa em recipiente fechado e use logo.
+
+ATENCAO
+-------
+Fibra vegetal seca e poeira fina sao inflamaveis e irritam as vias aereas.
+Use mascara, luvas e ventile o local durante a mistura.
+Nao deixe o painel em contato direto com chama ou brasa.
+Amido e cal atraem umidade; mantenha o painel longe de agua.
+Painel mal seco mofa e perde a funcao isolante com o tempo.
+Nao use cal em superficie que tocare a pele por muito tempo.
+Teste uma pequena area antes de cobrir toda a parede.
+
+SE NAO TIVER
+------------
+Sem cal, use cola de amido de milho cozido como aglutinante.
+Sem molde, monte uma caixa de papelao e forre com pano.
+Sem palha, use serragem grossa ou bagaco de cana seco.
+Sem peso, empilhe pedras limpas sobre o pano para comprimir.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O painel fica firme, com fibras bem distribuidas e sem falhas.
+Ao bater levemente, nao solta poeira nem pedacos soltos.
+A face oposta ao calor esquenta devagar ao longo de minutos.
+Nao ha cheiro de mofo nem manchas escuras depois de dias.
+
+FONTES
+------
+Pratica consolidada de isolantes artesanais de fibra vegetal, sem
+documento unico. Referencia a tecnicas rurais de uso de palha, casca
+de arroz e serragem como enchimento e barreira termica.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 01-003
+TITULO: Como identificar nascentes
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: caderno, lápis, calçado fechado, bastão de madeira para sondar
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, nascente, olho d'água, surgência, mina, umidade, vazão
+==============================================================================
+
+OBJETIVO
+--------
+Localizar no terreno o ponto onde a água subterrânea aflora.
+
+QUANDO USAR
+-----------
+Quando falta água encanada e é preciso procurar água no terreno.
+Quando o solo fica úmido e escuro depois de dias sem chuva.
+Quando a vegetação permanece verde enquanto o entorno seca.
+
+NAO USE QUANDO
+--------------
+Quando não houver permissão para entrar no terreno.
+Quando houver risco de deslizamento ou mina abandonada na área.
+
+MATERIAIS
+---------
+- Caderno e lápis para anotar o ponto e a data.
+- Calçado fechado com sola firme (bota de borracha serve).
+- Bastão comprido para sondar o solo (graveto grosso serve).
+- Pau ou pedra para marcar o lugar escolhido.
+
+PROCEDIMENTO
+------------
+1. Observe a encosta de cima para baixo após dias sem chuva.
+2. Procure solo escuro e úmido na parte média da encosta.
+3. Procure musgo e capim mais verde que o entorno.
+4. Toque o solo: identifique o ponto que fica frio e úmido ao sol.
+5. Espete o bastão até aproximadamente 20 cm no ponto escolhido.
+6. Retire o bastão e veja se a ponta sai molhada ou com lama escura.
+7. Repita em três pontos ao redor, a aproximadamente 1 m de distância.
+8. Volte no dia seguinte, de manhã cedo, e veja se o solo segue úmido.
+9. Siga qualquer fio d'água até o lugar onde ele sai da terra.
+10. Marque o ponto com pau ou pedra antes de mexer na terra.
+
+ATENCAO
+-------
+Nascente não é garantia de água potável. Água clara pode ter bactérias.
+Não beba sem tratar: use 01-001 antes de consumir.
+Água com cor de chá ou cheiro estranho exige cuidado extra.
+Uma nascente pode secar na estiagem. Observe em mais de um dia.
+Encostas molhadas deslizam. Não escave a base de barranco.
+Não urine nem use sabão perto da água; afaste-se aproximadamente 30 m.
+
+SE NAO TIVER
+------------
+Sem bastão, use um graveto e descarte as pontas afiadas.
+Sem corda, cercar com pedras ajuda a sinalizar e proteger o ponto.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Água aflora ou escorre do solo no ponto marcado.
+O lugar continua úmido no dia seguinte, sem chuva nova.
+
+FONTES
+------
+USGS e National Park Service: nascentes, aquífero e proteção do entorno.
+Revista Engenharia Sanitária e Ambiental, 2018: uso do solo e nascentes.
+Prática consolidada de busca de água em campo; resumo operacional.

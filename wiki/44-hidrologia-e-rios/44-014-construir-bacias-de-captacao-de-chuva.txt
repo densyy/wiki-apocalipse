@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 44-014
+TITULO: Como construir bacias de captação de chuva
+CATEGORIA: 44 - Hidrologia, rios e gestão de bacias
+TEMPO: 3 horas
+RISCO: medio
+EXIGE: pá, enxada, corda, estacas, terreno com declive suave
+REVISAO: 2026-11
+PALAVRAS-CHAVE: chuva, captação, bacia, reserva de água, irrigação, terra
+==============================================================================
+
+OBJETIVO
+--------
+Armazenar água da chuva em bacia rasa para irrigação e uso após tratamento.
+
+QUANDO USAR
+-----------
+Quando a chuva escoa sem aproveitamento no terreno.
+Quando a fonte secou ou ficou muito distante.
+
+NAO USE QUANDO
+--------------
+Em rocha, argila impermeável ou encosta com risco de deslizamento.
+Em solo que recebeu combustível, agrotóxico ou esgoto, ou junto a estrada.
+
+MATERIAIS
+---------
+- Pá (ou enxada).
+- Corda ou mangueira para medir (ou trena).
+- Estacas para marcar (ou gravetos).
+- Garrafa cheia d'água para nivelar (ou mangueira com água).
+
+PROCEDIMENTO
+------------
+1. Observe a chuva e identifique para onde a água escoa.
+2. Escolha declive suave a aproximadamente 5 metros de casa e estrada.
+3. Cave 30 cm: se a água sumir em aproximadamente 1 hora, o solo serve.
+4. Marque com estacas uma área de aproximadamente 2 por 3 metros.
+5. Retire a grama da área marcada com a enxada.
+6. Cave até aproximadamente 40 cm, com paredes inclinadas e sem degraus.
+7. Amontoe a terra na borda baixa: dique de aproximadamente 20 cm.
+8. Nivele o fundo com a garrafa cheia até a boca.
+9. Abra canal de entrada de aproximadamente 20 cm na parte alta.
+10. Faça vertedouro no lado oposto, a aproximadamente 5 cm acima do fundo.
+11. Cubra paredes e dique com grama ou palha contra erosão.
+
+ATENCAO
+-------
+Bacia funda afoga criança e animal: não passe de aproximadamente 50 cm.
+Nunca cave em encosta íngreme: a água pode erodir e deslizar terra.
+Não use solo que recebeu combustível, agrotóxico ou esgoto.
+Água parada cria mosquito: escoe após aproximadamente 7 dias sem uso.
+O dique pode romper na chuva forte; reforce com pedras e grama.
+
+SE NAO TIVER
+------------
+Sem pá, use enxada ou chapa firme presa a um cabo de madeira.
+Sem corda, meça com passos; sem nível, use garrafa cheia até a boca.
+Sem tela, empilhe pedras; não use pano que apodrece na água.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A bacia enche na chuva sem transbordar pela borda baixa.
+O vertedouro escoa sem cortar a terra do dique.
+A água fica sem cheiro de esgoto e sem folhas em excesso.
+
+FONTES
+------
+Prática consolidada de captação de chuva, sem documento único.
+Referência: FAO, USDA NRCS, CDC e agência ambiental do Reino Unido.

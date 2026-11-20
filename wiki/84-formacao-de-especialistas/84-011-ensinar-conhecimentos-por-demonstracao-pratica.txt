@@ -1,0 +1,83 @@
+==============================================================================
+CODIGO: 84-011
+TITULO: Como ensinar conhecimentos por demonstração prática
+CATEGORIA: 84 - Educação avançada e formação de especialistas
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: material da tarefa, local seguro, demonstrador, observadores
+REVISAO: 2026-11
+PALAVRAS-CHAVE: demonstração, prática, ensino, observação, erro, exemplo
+==============================================================================
+
+OBJETIVO
+--------
+Ensinar uma habilidade mostrando a tarefa sendo feita, passo a passo.
+
+QUANDO USAR
+-----------
+Quando a habilidade depende de movimento, e não só de palavras.
+Ao ensinar o uso de uma ferramenta ou máquina simples.
+Quando os alunos precisam ver o resultado antes de tentar.
+Ao corrigir um gesto que vem sendo feito de forma errada.
+Quando o grupo tem pouca leitura e aprende melhor observando.
+
+NAO USE QUANDO
+--------------
+Não demonstre algo perigoso sem proteção e sem supervisão.
+Não use demonstração para conteúdo que exige apenas leitura.
+Não faça a todos de uma vez se a tarefa exigir atenção individual.
+
+MATERIAIS
+---------
+- O material e as ferramentas usados na tarefa (os mesmos dos alunos).
+- Local com espaço e luz para todos verem (pátio ou oficina).
+- Proteção básica conforme a tarefa (luvas, óculos, pano).
+- Papel e lápis para anotar as dúvidas (caderno).
+- Um ajudante para apoiar quem vai tentar (outro instrutor).
+
+PROCEDIMENTO
+------------
+1. Combine o local e a hora com o grupo antes de começar.
+2. Prepare o material e confira se nada está faltando.
+3. Chame a atenção do grupo e diga o que será mostrado.
+4. Mostre o resultado final pronto antes de começar a tarefa.
+5. Execute devagar, um passo por vez, em voz alta.
+6. Diga o que você está fazendo enquanto faz, com frases curtas.
+7. Coloque-se de modo que todos vejam as mãos e o material.
+8. Repita uma segunda vez, mais devagar, sem pular passos.
+9. Mostre um erro comum e diga como evitá-lo.
+10. Peça a um aluno que repita o gesto diante do grupo.
+11. Corrija o gesto com calma, colocando sua mão sobre a dele.
+12. Deixe cada aluno tentar enquanto você observa de perto.
+13. Anote as dúvidas em papel e responda ao final da rodada.
+14. Peça que cada aluno mostre a tarefa completa uma vez.
+15. Recolha as ferramentas e guarde o material em local seguro.
+
+ATENCAO
+-------
+Demonstrar não é garantir que o aluno aprendeu; peça que ele repita.
+Ferramentas cortantes e fogo exigem proteção e distância dos curiosos.
+Não apresse a demonstração: pressa gera gestos mal copiados.
+Corrigir com a mão pode machucar se a ferramenta estiver ligada.
+Se alguém se ferir, pare a aula e trate o ferimento antes de continuar.
+
+SE NAO TIVER
+------------
+Sem material suficiente, faça rodas pequenas e compartilhe a ferramenta.
+Sem proteção, escolha uma tarefa segura ou suspenda a prática.
+Sem ajudante, reduza o número de alunos por rodada.
+Sem papel, anote as dúvidas na memória e responda na hora.
+Sem local coberto, escolha sombra e chão firme e seco.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada aluno executa a tarefa completa ao menos uma vez.
+O gesto é repetido sem que você precise corrigir a cada passo.
+O grupo consegue dizer qual erro foi mostrado e como evitá-lo.
+As ferramentas voltam guardadas e ninguém se feriu.
+
+FONTES
+------
+Prática consolidada de ensino por demonstração em oficinas técnicas.
+Inspirado na pedagogia oficinal e nos métodos de instrução prática
+usados por instrutores do SENAI e por mestres de ofício da comunidade.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 53-028
+TITULO: Como compreender a história das vacinas
+CATEGORIA: 53 - Produção de medicamentos e farmacologia
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: vacina, vacinação, varíola, jenner, imunização, pasteur
+==============================================================================
+
+OBJETIVO
+--------
+Entender como a vacina virou ciência e política de saúde, em marcos simples.
+
+QUANDO USAR
+-----------
+Ao explicar por que vacina protege e por que algumas doenças sumiram.
+Ao avaliar afirmações antigas sobre variola e remédios caseiros.
+Ao entender a diferença entre variolação, vacina e imunização.
+Ao perceber por que registro, campanha e confiança salvaram vidas.
+
+NAO USE QUANDO
+--------------
+Não use este resumo para decidir se toma ou aplica vacina.
+Não serve para substituir calendário oficial, bula ou orientação clínica.
+Este texto não ensina a produzir, extrair ou aplicar vacina alguma.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Comece pela variolação, prática antiga de expor pessoa sã à varíola.
+2. Registre 1721: Montagu trouxe a inoculação da Turquia para a Europa.
+3. Registre 1796: Jenner criou a vacina ao usar cowpox, varíola das vacas.
+4. Explique o nome: vacina vem do latim vacca, que significa vaca.
+5. Registre 1804: a vacina antivariólica chegou ao Rio de Janeiro.
+6. Note 1872: Pasteur fez a primeira vacina de laboratório, a das galinhas.
+7. Registre 1885: Pasteur salvou Joseph Meister com a vacina antirrábica.
+8. Chegue a 1904: a Revolta da Vacina mostrou medo e desconfiança no Rio.
+9. Registre 1955: Salk testou a vacina da pólio; Sabin a fez oral em 1960.
+10. Registre 1967: a OMS começou a erradicar a varíola, declarada em 1980.
+11. Registre 1973: o Brasil criou o PNI; a OMS criou o PAI em 1974.
+12. Chegue a 2020: vacinas de mRNA, ácido ribonucleico, contra a COVID-19.
+
+ATENCAO
+-------
+Este texto descreve fatos, não recomenda vacina, dose ou tratamento.
+Nunca use este resumo para decidir se vai tomar ou aplicar vacina.
+Vacinar é ato de saúde: siga calendário oficial e profissional de saúde.
+Datas antigas variam; trate os primeiros marcos como aproximados.
+
+SE NAO TIVER
+------------
+Sem livro ou aula, use este resumo como roteiro de leitura.
+Sem fonte primária, aceite só marcos muito citados, como 1796 e 1980.
+Não invente nome, data ou autor para preencher lacuna de memória.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue citar quatro marcos em ordem e explicar, com suas palavras,
+como a vacina saiu da prática empírica para a ciência e a saúde pública.
+
+FONTES
+------
+História consolidada da imunização. Marcos segundo a OMS, o CDC e os
+Cadernos de Saúde Pública (1999), com dados do Ministério da Saúde.
+Resumo operacional; não substitui estudo nem orientação clínica.

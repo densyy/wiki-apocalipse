@@ -1,0 +1,75 @@
+============================================================================
+CODIGO: 86-008
+TITULO: Como extrair óleos de plantas
+CATEGORIA: 86 - Recursos naturais e materiais vegetais
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: sementes ou folhas, prensa ou destilador, EPIs e ventilação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: óleo, extração, prensagem, destilação, semente
+============================================================================
+
+OBJETIVO
+--------
+Obter óleo de sementes ou folhas por prensagem ou destilação.
+
+QUANDO USAR
+-----------
+Quando há material vegetal oleoso limpo e maduro.
+Para uso culinário, cosmético, lubrificante ou em biomassa.
+Ao comparar rendimento entre métodos e matérias-primas.
+
+NAO USE QUANDO
+--------------
+Não extraia de plantas venenosas ou identificadas incorretamente.
+Não use material mofado ou com cheiro azedo.
+Nunca aqueça óleo em recipiente fechado ou sem ventilação.
+
+MATERIAIS
+---------
+- Sementes ou folhas limpas e secas.
+- Prensa manual ou alambique, conforme o método.
+- Recipientes limpos e tampados.
+- Luvas, óculos e avental.
+- Filtro de pano limpo e caderno de registro.
+
+PROCEDIMENTO
+------------
+1. Identifique a planta e a parte que contém o óleo.
+2. Limpe e seque bem o material vegetal.
+3. Para prensagem, triture levemente as sementes.
+4. Pressione aos poucos e recolha o óleo escorrido.
+5. Para destilação, coloque a planta no alambique com água.
+6. Aqueça de forma controlada e colete o destilado no condensador.
+7. Filtre o óleo em pano limpo para retirar impurezas.
+8. Deixe a água decantar, quando houver separação de fases.
+9. Guarde o óleo em frasco escuro, tampado e identificado.
+10. Anote método, planta, data e quantidade obtida.
+11. Limpe o equipamento ainda em condições seguras.
+
+ATENCAO
+-------
+Óleos e vapores podem ser inflamáveis: afaste fogo e faíscas.
+Aquecimento excessivo degrada o óleo e pode gerar fumaça tóxica.
+Nunca destile planta venenosa sem conhecimento técnico.
+Óleo rancoso ou mofado deve ser descartado, não consumido.
+Mantenha o equipamento estável para evitar derramamentos.
+
+SE NAO TIVER
+------------
+Sem prensa ou alambique, adie a extração para outro método.
+Sem filtro limpo, não embale o óleo com impurezas.
+Sem identificação da planta, não inicie a extração.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O óleo ficou limpo, sem impurezas visíveis ou cheiro anormal.
+O método, a planta e o rendimento foram registrados.
+Não houve fogo, fumaça excessiva ou derramamento.
+
+FONTES
+------
+Manuais de extração de óleos essenciais e vegetais da Embrapa;
+cartilhas do SENAR sobre produção de óleos e biotecnologia aplicada;
+normas de segurança para prensagem e destilação de materiais
+vegetais; referências sobre conservação e armazenamento de óleos.

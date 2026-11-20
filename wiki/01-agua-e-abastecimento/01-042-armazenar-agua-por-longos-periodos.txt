@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 01-042
+TITULO: Como armazenar água por longos períodos
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: recipientes próprios para água, água limpa, sabão, água sanitária
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, armazenar, reserva, recipiente, validade, cloro
+==============================================================================
+
+OBJETIVO
+--------
+Guardar água tratada por meses e mantê-la segura para beber em uma crise.
+
+QUANDO USAR
+-----------
+Quando o abastecimento pode faltar: seca, furacão ou obras na rede.
+Quando se vive longe de poço e é preciso comprar água em quantidade.
+
+NAO USE QUANDO
+--------------
+Não guarde água em recipiente que já teve combustível, agrotóxico ou
+cloro concentrado: o resíduo passa para a água.
+Não armazene onde a água pode congelar e rachar o recipiente.
+
+MATERIAIS
+---------
+- Recipiente de grau alimentício (feito para comida ou água) com tampa.
+- Água limpa e potável, de torneira ou de fonte conhecida.
+- Sabão, água corrente e colher de chá para a limpeza.
+- Água sanitária sem perfume (hipoclorito de sódio, 5% a 9% no rótulo).
+
+PROCEDIMENTO
+------------
+1. Escolha recipiente de grau alimentício com tampa que feche bem.
+2. Descarte recipiente que já guardou químico ou combustível.
+3. Lave o recipiente e a tampa com sabão e água corrente.
+4. Enxágue até não restar espuma nem sabão.
+5. Misture 1 colher de chá de água sanitária em 1 litro de água.
+6. Despeje no recipiente, tampe e agite para molhar todas as paredes.
+7. Espere pelo menos 30 segundos e despeje a solução fora.
+8. Deixe secar ao ar, destampado, antes de encher com água potável.
+9. Feche a tampa com força e etiquete com "água potável" e a data.
+10. Guarde em local fresco e escuro e troque a água a cada 6 meses.
+
+ATENCAO
+-------
+Água guardada sem tratamento pode causar doenças transmitidas pela água.
+Nunca misture água sanitária a outros produtos: pode liberar gás tóxico.
+Recipiente que já teve químico não serve, mesmo depois de lavado.
+Se ficar turva, com cheiro estranho ou com mofo, descarte sem beber.
+Fontes divergem sobre a troca: CDC sugere 6 meses; outras, 1 a 2 anos.
+
+SE NAO TIVER
+------------
+- Sem recipiente próprio, use garrafa de refrigerante de 2 L sem rachadura.
+- Não use garrafa de leite ou suco: resíduo de comida dificulta a limpeza.
+- Sem água sanitária, lave com sabão, enxágue bem e use só água potável.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O recipiente está limpo, seco, cheio e com a tampa firme.
+A etiqueta mostra a data e a água está límpida, sem cheiro estranho.
+Na data anotada, a água foi usada ou trocada por água nova.
+
+FONTES
+------
+Orientações do CDC sobre reserva de água de emergência, atualizadas em 2025.
+Orientações da Universidade do Estado de Utah sobre armazenamento de água.

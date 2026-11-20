@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 42-011
+TITULO: Como construir uma pequena embarcação à vela
+CATEGORIA: 42 - Engenharia naval e tecnologias marítimas
+TEMPO: 12 horas de trabalho
+RISCO: alto
+EXIGE: compensado, tambores plásticos, corda, lona, mastro, serra
+REVISAO: 2026-11
+PALAVRAS-CHAVE: barco, vela, casco, jangada, flutuador, compensado, veleiro
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma jangada com vela para água calma e vento de popa.
+
+QUANDO USAR
+-----------
+Quando precisar levar equipamento leve por água calma e rasa.
+Quando houver vento favorável e a terra de destino estiver à vista.
+Quando não houver barco pronto e o tempo permitir construir com cuidado.
+
+NAO USE QUANDO
+--------------
+Não use em mar aberto, correnteza forte, onda grande ou vento de lado.
+Não use sem colete salva-vidas, mesmo em água rasa.
+Não use se o tambor estiver rachado, furado ou com a tampa danificada.
+
+MATERIAIS
+---------
+- Quatro tambores plásticos de 200 litros com tampa e vedação íntegros.
+- Duas tábuas de compensado marítimo de aproximadamente 1,20 m por 2,40 m.
+- Duas ripas de madeira com aproximadamente 3 m de comprimento.
+- Corda resistente para amarrar os tambores e reforçar a vela (30 m).
+- Lona impermeável ou pano firme com aproximadamente 2 m por 2 m.
+- Mastro de madeira com aproximadamente 2,5 m e uma verga de 2 m.
+- Parafusos galvanizados ou corda extra para fixar o convés.
+- Serra, lixa, alicate e um colete salva-vidas para cada pessoa.
+
+PROCEDIMENTO
+------------
+1. Escolha terreno plano e seco, a pelo menos 10 m da beira da água.
+2. Tampe cada tambor e pressione com as mãos por 10 segundos.
+3. Descarte qualquer tambor que deixar passar ar ou entrar água.
+4. Lixe as áreas das ripas que ficarão em contato com os tambores.
+5. Arraste os quatro tambores para o terreno e deite-os lado a lado.
+6. Amarre os tambores em duas fileiras de dois com duas voltas de corda.
+7. Passe uma volta de corda no meio do conjunto e aperte com o alicate.
+8. Apoie uma ripa sobre cada fileira de tambores, no sentido do comprimento.
+9. Amarre cada ripa ao tambor em duas pontas e no meio.
+10. Apoie as duas tábuas de compensado sobre as ripas, formando o convés.
+11. Fixe cada tábua nas ripas com parafusos a cada 20 cm.
+12. Encaixe o mastro à frente do convés, sobre uma sapata de madeira.
+13. Amarre o mastro ao convés e prenda duas cordas de estai nas laterais.
+14. Reforce as quatro bordas da lona com corda, formando a vela quadrada.
+15. Prenda as duas pontas de cima da vela na verga, no topo do mastro.
+16. Segure as duas pontas de baixo da vela com as mãos, sem amarrá-las.
+17. Amarre um remo ou uma pá ao convés para usar como leme e como remo.
+18. Deixe a jangada vazia flutuar em água rasa por 30 minutos.
+19. Vista o colete e entre pelo centro, sem ficar de pé sobre o convés.
+20. Mantenha o peso baixo e distribua a carga dos dois lados do mastro.
+
+ATENCAO
+-------
+Uma rajada pode rasgar a vela, quebrar o mastro ou virar a jangada.
+Por isso, nunca amarre as pontas inferiores da vela.
+Sem quilha, a jangada não anda contra o vento.
+Vá apenas com vento de popa ou até aproximadamente 10 graus fora dele.
+O colete salva-vidas é obrigatório: afogamento não dá tempo de consertar.
+Se entrar água, saia e revise os tambores antes de seguir viagem.
+Pare e volte à praia se o vento aumentar ou se a jangada girar de lado.
+Esta construção não substitui um barco projetado e testado para navegar.
+
+SE NAO TIVER
+------------
+Sem compensado, use duas tábuas largas amarradas sobre as ripas.
+Sem tambores, use feixes de galhos verdes envolvidos em lona firme.
+Sem lona, use uma capa impermeável ou sacos plásticos reforçados.
+Sem mastro, use um remo preso ao centro dianteiro do convés.
+Sem nenhum desses materiais, não construa: procure um barco ou ajuda.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A jangada vazia flutua nivelada após 30 minutos sem entrar água.
+Os tambores não giram nem se soltam quando você empurra o convés.
+A vela enche com vento de popa e a jangada anda para a frente.
+Você fica seco e o convés não afunda sob o peso de uma pessoa.
+
+FONTES
+------
+Manual de sobrevivência FM 21-76 do Exército dos Estados Unidos,
+seções sobre jangadas, vela improvisada e precauções contra capotamento.
+Manual de reparo de barcos de madeira da Gougeon Brothers (WEST SYSTEM),
+sobre estrutura de casco, compensado e uso de epóxi.
+Prática consolidada de construção amadora de jangadas; este texto é
+um resumo operacional, não substitui projeto naval nem treinamento.

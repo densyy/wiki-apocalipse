@@ -1,0 +1,79 @@
+==============================================================================
+CODIGO: 52-017
+TITULO: Como compreender elasticidade e deformação
+CATEGORIA: 52 - Física aplicada e princípios fundamentais
+TEMPO: 25 minutos
+RISCO: baixo
+EXIGE: elástico, régua, clipe de metal, papel e lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: elasticidade, deformação, elástico, mola, tensão, módulo
+==============================================================================
+
+OBJETIVO
+--------
+Entender como materiais mudam de forma sob força e quando voltam ao normal.
+
+QUANDO USAR
+-----------
+Quando quiser saber por que uma mola volta ao tamanho original.
+Quando precisar distinguir deformação temporária de permanente.
+Quando for escolher material para algo que deve flexionar e voltar.
+Quando alguém confunde rigidez com resistência de um material.
+
+NAO USE QUANDO
+--------------
+Não use para dimensionar molas, vigas ou cabos de equipamentos de carga.
+Nesse caso procure um profissional ou cálculo com norma técnica.
+Não use para testar o limite de ruptura de materiais desconhecidos.
+
+MATERIAIS
+---------
+- Um elástico comum, sem rasgos (ou um cordão de sapato).
+- Uma régua ou trena para medir (ou uma moeda como referência).
+- Um clipe de metal ou arame fino para comparar.
+- Papel e lápis para anotar (ou apenas a memória).
+
+PROCEDIMENTO
+------------
+1. Estique o elástico um pouco e observe o formato.
+2. Solte o elástico e veja se volta ao tamanho original.
+3. Anote: deformação é a mudança de forma causada pela força.
+4. Defina tensão como a força aplicada dividida pela área.
+5. Defina deformação unitária: variação do comprimento sobre o original.
+6. Meça o comprimento original do elástico com a régua.
+7. Estique uma quantidade pequena e meça o novo comprimento.
+8. Anote: pela lei de Hooke, com pouco esforço a deformação é proporcional.
+9. Dobre essa força e confirme que o alongamento também dobra.
+10. Defina módulo de Young como tensão dividida pela deformação unitária.
+11. Entenda: módulo alto indica material rígido, que deforma pouco.
+12. Compare com um clipe de metal: dobre e solte com cuidado.
+13. Note que o clipe ficou dobrado: é deformação plástica, permanente.
+14. Defina limite elástico como o ponto além do qual a forma não volta.
+15. Anote: passado o limite elástico, o material pode romper.
+
+ATENCAO
+-------
+A lei de Hooke vale só para deformações pequenas.
+Além do limite elástico a deformação vira permanente: é plasticidade.
+Materiais frágeis, como vidro, rompem sem aviso pouco após o limite.
+Esticar elástico demais pode estourar e machucar a mão ou o rosto.
+Este texto ensina o conceito, não substitui cálculo de engenharia.
+
+SE NAO TIVER
+------------
+Sem elástico, estique um cordão de sapato e veja se volta.
+Sem régua, use uma moeda como referência de comprimento.
+Sem clipe, dobre um arame fino e veja se a dobra permanece.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você explica por que o elástico volta e o clipe ficou dobrado.
+Você define tensão como força por área e deformação unitária sem olhar.
+Você afirma que a lei de Hooke vale só dentro do limite elástico.
+
+FONTES
+------
+OpenStax College Physics, seção 5.3, Elasticidade: tensão e deformação.
+OpenStax University Physics 1, seção 12.4, Elasticidade e plasticidade.
+Encyclopaedia Britannica, artigos sobre limite elástico e elasticidade.
+IOPSpark, glossário: módulo de Young e limite de proporcionalidade.

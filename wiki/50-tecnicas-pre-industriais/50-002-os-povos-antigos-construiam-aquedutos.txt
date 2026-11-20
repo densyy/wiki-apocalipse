@@ -1,0 +1,83 @@
+==============================================================================
+CODIGO: 50-002
+TITULO: Como os povos antigos construíam aquedutos
+CATEGORIA: 50 - História das tecnologias pré-industriais
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: terreno com declive, terra, pedras, água corrente, corda
+REVISAO: 2026-11
+PALAVRAS-CHAVE: aqueduto, canal, declive, água, gravidade, romanos
+==============================================================================
+
+OBJETIVO
+--------
+Ser capaz de conduzir água de uma fonte até um destino usando só gravidade.
+
+QUANDO USAR
+-----------
+Quando é preciso levar água de uma nascente até a área de uso.
+Quando o terreno permite um caminho com queda suave e contínua.
+Quando não há bomba, energia ou encanamento disponível.
+Para estudar ou reconstruir uma técnica hidráulica pré-industrial.
+
+NAO USE QUANDO
+--------------
+Quando a fonte estiver contaminada: o aqueduto não purifica a água.
+Quando não houver declive: água parada não corre sem energia.
+Quando o terreno tiver risco de deslizamento ou erosão ativa.
+Quando não houver pessoas para a manutenção constante do canal.
+
+MATERIAIS
+---------
+- Terra e pedras do próprio local (tijolos ou blocos de pedra).
+- Argila ou cal para revestir e vedar o canal (lama espessa).
+- Água corrente da fonte de origem.
+- Corda e estacas para marcar o alinhamento (fio e gravetos).
+- Pá ou enxada (ferramenta de cavar improvisada).
+- Nível improvisado: recipiente com água e uma tábua reta.
+
+PROCEDIMENTO
+------------
+1. Escolha a nascente e o destino e meça a distância entre eles.
+2. Confirme que a nascente fica mais alta que o destino.
+3. Marque no solo o alinhamento com estacas e corda esticada.
+4. Defina a queda: aproximadamente 20 a 40 cm por cada 100 m.
+5. Cave o canal seguindo a linha marcada, com largura de um palmo.
+6. Nivele o fundo do canal para a água correr sem poças.
+7. Forre o fundo e as paredes com argila ou cal para vedar.
+8. Deixe o canal descoberto onde houver risco de entupimento.
+9. Quando o caminho cruzar um vale, apoie o canal em pilares.
+10. Assente os pilares em solo firme, até a camada estável.
+11. Ligue os trechos com juntas vedadas para não perder água.
+12. Abra a passagem na nascente e observe o fluxo até o destino.
+13. Ajuste o declive onde a água parar ou correr com força.
+
+ATENCAO
+-------
+Aqueduto não trata água: a nascente precisa estar limpa na origem.
+Declive muito pequeno cria poças; muito grande erode as paredes.
+Canal sem vedação perde água e pode desabar ao encharcar o solo.
+Pilares mal fundados cedem com o peso e a umidade.
+Não trabalhe sob canal elevado: pedra que cai causa lesão grave.
+Em chuva forte, desvie o excesso ou a margem vai romper.
+Valores de queda variaram muito; ajuste a inclinação no terreno.
+
+SE NAO TIVER
+------------
+Sem pedra, use terra compactada com grama para o canal.
+Sem cal, use argila fresca bem amassada para vedar.
+Sem vale a cruzar, siga o contorno da colina em vez de pilares.
+Sem declive suficiente, o aqueduto não funciona: mude o ponto.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água corre de forma contínua desde a nascente até o destino.
+Não há poças paradas nem vazamentos visíveis nas juntas.
+O destino recebe água em quantidade estável após alguns minutos.
+
+FONTES
+------
+Prática consolidada de engenharia hidráulica pré-industrial.
+Descrição clássica em Vitrúvio, De Architectura, livro VIII.
+Manuais de história da tecnologia e da engenharia romana.
+Valores de declive aqui são aproximados e variaram muito.

@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 03-036
+TITULO: Como reconhecer infecções respiratórias
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 15 minutos
+RISCO: alto
+EXIGE: termômetro, relógio, papel, caneta, boa luz
+REVISAO: 2026-11
+PALAVRAS-CHAVE: tosse, febre, falta de ar, pneumonia, gripe, resfriado
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer os sinais de infecção respiratória e os sinais de gravidade.
+
+QUANDO USAR
+-----------
+- Quando alguém apresenta tosse, febre, coriza ou dor de garganta.
+- Quando aparece falta de ar, chiado no peito ou respiração acelerada.
+- Quando uma gripe piora em vez de melhorar após alguns dias.
+- Ao cuidar de criança pequena, idoso ou pessoa com doença crônica.
+- Ao avaliar outra pessoa sem saber qual é a doença.
+
+NAO USE QUANDO
+--------------
+- Não use para dar diagnóstico: este texto só orienta quando buscar ajuda.
+- Não use para escolher antibiótico ou remédio novo por conta própria.
+- Não use para dispensar atendimento se houver sinal de gravidade.
+- Não use para substituir a avaliação de um profissional de saúde.
+
+MATERIAIS
+---------
+- Termômetro.
+- Relógio ou celular para contar o tempo.
+- Papel e caneta para anotar hora e sintomas.
+- Oxímetro de dedo, se houver (mede a saturação de oxigênio).
+- Luz boa, natural ou de lamparina, para ver a cor dos lábios.
+
+PROCEDIMENTO
+------------
+1. Garanta boa luz e peça à pessoa que fique sentada ou deitada.
+2. Pergunte quando os sintomas começaram e se foram súbitos ou lentos.
+3. Meça a temperatura com o termômetro e anote o valor e a hora.
+4. Observe o nariz: coriza, nariz entupido ou espirros frequentes.
+5. Observe a garganta: dor ao engolir ou voz alterada.
+6. Observe a tosse: seca ou com catarro amarelo, verde ou com sangue.
+7. Peça uma respiração funda e ouça chiado ou tosse ao inspirar.
+8. Observe o esforço para respirar por um minuto.
+9. Conte os movimentos do peito por um minuto e anote o número.
+10. Veja se as costelas afundam ou se as narinas se abrem ao respirar.
+11. Observe o peito: dor ou aperto que piora ao respirar ou tossir.
+12. Observe os lábios, as unhas e o rosto: fique atento a cor azulada.
+13. Observe o estado mental: confusão, sonolência ou desorientação.
+14. Se tiver oxímetro, meça a saturação e anote o valor.
+15. Anote tudo no papel com a hora de cada observação.
+16. Compare com o estado de antes: houve melhora ou piora?
+17. Se houver sinal de gravidade, vá à emergência sem esperar.
+18. Se os sinais forem leves, procure a unidade básica de saúde.
+
+ATENCAO
+-------
+- Este texto não diagnostica. Só um profissional pode dizer qual é a doença.
+- Febre alta é mais de 38 graus Celsius; meça sempre, não confie no tato.
+- Saturação de 94% ou menos é sinal de gravidade (Ministério da Saúde).
+- Fontes divergem: algumas usam 95%; na dúvida, trate como grave.
+- Criança com costelas afundando ou lábios azuis: emergência.
+- Bebê sem urina há 8 horas, que não mama ou está sonolento: emergência.
+- Idoso pode não ter febre e apresentar só confusão ou sonolência nova.
+- Febre e tosse que melhoram e voltam são sinal de complicação, não de cura.
+- Tosse com sangue, dor no peito ou falta de ar em repouso: emergência.
+- Não dê antibiótico, xarope ou remédio novo sem orientação profissional.
+- Não espere: pneumonia e SRAG podem agravar em poucas horas.
+
+SE NAO TIVER
+------------
+- Sem termômetro: não afirme febre pelo tato; procure ajuda na dúvida.
+- Sem relógio: use o celular ou conte em voz alta.
+- Sem oxímetro: observe cor dos lábios e esforço para respirar com atenção.
+- Sem papel: anote os horários na memória e repita à equipe de saúde.
+- Sem luz: leve a pessoa para perto de uma janela ou use lanterna.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- Os sinais observados foram anotados com hora e palavras simples.
+- A pessoa foi ao serviço certo: UBS para leve, emergência para grave.
+- Nenhum sinal de gravidade foi ignorado ou chamado de gripe comum.
+- A decisão foi registrada e pode ser repetida por outra pessoa.
+
+FONTES
+------
+- Ministério da Saúde: guia de síndrome gripal e SRAG, 2025; sinais de
+  gravidade e saturação de 94%.
+- Ministério da Saúde: página de bronquiolite e guia de manejo da
+  bronquiolite viral aguda, 2026; alertas em crianças menores de 2 anos.
+- Secretaria de Estado de Saúde de Minas Gerais: Alerta Respiratório; sinais
+  de gravidade em adultos, crianças e idosos.
+- CDC: páginas sobre doenças respiratórias, sintomas e sinais de emergência
+  em adultos e crianças.
+- American Lung Association e NHLBI: sinais e sintomas de pneumonia.

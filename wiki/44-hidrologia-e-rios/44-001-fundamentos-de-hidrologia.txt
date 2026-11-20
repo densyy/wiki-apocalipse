@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 44-001
+TITULO: Fundamentos de hidrologia
+CATEGORIA: 44 - Hidrologia, rios e gestão de bacias
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: caderno, lápis, carta topográfica (se houver)
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, chuva, ciclo, bacia, rio, nascente, afluente
+==============================================================================
+
+OBJETIVO
+--------
+Entenda de onde vem a água, para onde ela corre e como achar fontes.
+
+QUANDO USAR
+-----------
+Quando precisar escolher onde buscar água em região desconhecida.
+Quando precisar saber se um riacho corre perto de fonte poluída.
+Quando houver alerta de chuva e for preciso prever a passagem da água.
+
+NAO USE QUANDO
+--------------
+Nao use como prova de que a água é potável.
+Para beber, trate a água antes (veja 01-001).
+
+MATERIAIS
+---------
+- Caderno e lápis para anotar rumos e pontos observados.
+- Carta topográfica da região, se houver (ou desenho local).
+
+PROCEDIMENTO
+------------
+1. Observe o relevo: a água corre do ponto alto para o mais baixo.
+2. Identifique o divisor de águas: crista que separa duas bacias.
+3. Desça com o olhar pela encosta até um vale ou curso d'água.
+4. Note onde o solo fica escuro e úmido na base da encosta.
+5. Procure afloramentos nessa base: são as nascentes.
+6. Na carta, leia as curvas: linhas juntas indicam encosta íngreme.
+7. Ao cruzar um vale, a curva forma um V; a ponta aponta a montante.
+8. Marque no caderno o sentido do fluxo e os pontos de captação.
+9. Trate toda a água coletada antes de beber (veja 01-001).
+
+ATENCAO
+-------
+Agua corrente nao significa agua limpa: esgoto, agrotoxico e gado podem
+estar a montante. Nunca beba direto do rio.
+Solo ja encharcado nao absorve chuva: a cheia sobe rapido ate sem chuva
+no local onde voce esta. Nao acampe no leito seco de um corrego.
+Asfalto e telhado desviam chuva para drenagens e aumentam a vazao.
+Confirme a carta no terreno; mapas antigos podem estar desatualizados.
+
+SE NAO TIVER
+------------
+Sem carta, use o relevo: a água corre ao fundo do vale e a vegetação
+mais verde indica umidade. Nao substitua observação por palpite.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Voce aponta o fluxo, o divisor de águas e uma nascente provável.
+
+FONTES
+------
+Escola de Ciencias da Agua do USGS: ciclo da agua e bacias de drenagem.
+NOAA, Servico Nacional Oceanico: o que e uma bacia hidrografica.
+Curvas de nivel: capitulo do livro "Introduction to Historical
+Geology" (Maricopa Open Digital Press / Geosciences LibreTexts).
+Referencia institucional: Agencia Nacional de Aguas (ANA). Texto de
+fundamentos; nao substitui treinamento nem carta atualizada.

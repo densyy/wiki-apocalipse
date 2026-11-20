@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 70-005
+TITULO: Como construir um servidor de documentação offline
+CATEGORIA: 70 - Computação de baixo consumo e preservação digital
+TEMPO: 45 minutos
+RISCO: baixo
+EXIGE: computador com Python 3, pasta de documentos, rede local
+REVISAO: 2026-11
+PALAVRAS-CHAVE: servidor, offline, documentacao, python, rede local, kiwix
+==============================================================================
+
+OBJETIVO
+--------
+Publicar documentos para outras pessoas da rede, sem internet.
+
+QUANDO USAR
+-----------
+Quando a equipe precisa consultar manuais sem internet.
+Quando não há papel nem tinta para imprimir cópias.
+
+NAO USE QUANDO
+--------------
+Quando os arquivos trazem segredos ou dados pessoais.
+Quando a rede inclui pessoas de fora da equipe.
+Quando o conteúdo exige senha: este servidor não controla acesso.
+
+MATERIAIS
+---------
+- Computador com Python 3 instalado (ou computador emprestado).
+- Pasta única com os documentos em texto, PDF ou HTML.
+- Rede local com um segundo aparelho para testar.
+- Navegador no aparelho de teste.
+
+PROCEDIMENTO
+------------
+1. Crie uma pasta chamada documentos.
+2. Copie para ela os arquivos que serão publicados.
+3. Renomeie cada arquivo com nome curto, sem espaço e sem acento.
+4. Abra um terminal na pasta documentos e rode hostname -I.
+5. Anote o endereço e digite python3 -m http.server 8000.
+6. Aperte Enter e mantenha o terminal aberto durante o uso.
+7. No aparelho de teste, abra o navegador.
+8. Digite o endereço anotado, dois pontos e 8000.
+9. Confira a lista de arquivos e abra um arquivo de texto.
+
+ATENCAO
+-------
+O servidor embutido do Python faz apenas verificações básicas.
+Não exponha a porta 8000 à internet nem a redes que você não controla.
+Qualquer pessoa na mesma rede pode ler e baixar os arquivos da pasta.
+Não guarde ali senhas, dados pessoais ou arquivos de recuperação.
+
+SE NAO TIVER
+------------
+Sem Python 3, use o Kiwix Server na rede local, sem comandos.
+Prepare o arquivo ZIM em outro aparelho e transporte em disco.
+Em FAT32, arquivos acima de 4 gigabytes não cabem; use exFAT.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O navegador mostra a lista de arquivos da pasta documentos.
+Abrir um arquivo de texto mostra o conteúdo esperado.
+O terminal registra cada acesso com o endereço do leitor.
+
+FONTES
+------
+Documentação da biblioteca padrão do Python, módulo http.server,
+seção de segurança, consultada em 2026-11.
+Documentação do projeto Kiwix sobre Kiwix Server e arquivos ZIM,
+incluindo limite em FAT32, consultada em 2026-11.

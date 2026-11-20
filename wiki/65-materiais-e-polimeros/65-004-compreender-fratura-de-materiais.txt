@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 65-004
+TITULO: Como compreender fratura de materiais
+CATEGORIA: 65 - Engenharia de materiais e polímeros
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: lupa, luz forte, luvas, óculos de proteção, pano limpo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fratura, quebra, trinca, fadiga, dúctil, frágil, falha
+==============================================================================
+
+OBJETIVO
+--------
+Identificar a causa provável de uma quebra e uma ação para evitá-la.
+
+QUANDO USAR
+-----------
+Quando uma ferramenta ou peça quebrou durante o uso normal.
+Quando uma peça nova quebra antes do tempo esperado.
+Quando a quebra veio após muitos usos ou de um impacto forte.
+
+NAO USE QUANDO
+--------------
+Não use para liberar peças críticas: freios, amarras de carga,
+equipamentos de escalada ou vigas de uma estrutura.
+Nesses casos, substitua a peça e interrompa o trabalho.
+
+MATERIAIS
+---------
+- Luvas grossas e óculos de proteção.
+- Lupa de aumento (lente d'água ou zoom da câmera, se faltar).
+- Luz forte, de preferência inclinada sobre a superfície.
+- Pano limpo e seco, caderno e lápis.
+
+PROCEDIMENTO
+------------
+1. Interrompa o uso e reúna cada pedaço da peça.
+2. Calce luvas e óculos antes de tocar nas bordas cortantes.
+3. Limpe a superfície da fratura com o pano seco; não lixe.
+4. Ilumine de lado, com a luz quase rente à superfície.
+5. Olhe com a lupa e marque o ponto onde a trinca começou.
+6. Anote se a superfície é plana e brilhante, sem deformação: é frágil.
+7. Anote se é fosca e rugosa, com a borda deformada: é dúctil.
+8. Procure arcos ou anéis concêntricos: são marcas de fadiga.
+9. Anote o local da origem, o tipo de superfície e as marcas.
+10. Decida: trocar a peça, reduzir a carga ou evitar impacto repetido.
+
+ATENCAO
+-------
+Arestas de peças quebradas cortam: nunca toque sem luvas.
+A superfície pode ter estilhaços soltos; use óculos.
+Esta leitura é só uma pista: não prova que a peça é segura.
+Fadiga pode crescer sem aviso e a peça quebra de repente.
+Peça crítica: pare e procure quem possa substituí-la.
+
+SE NAO TIVER
+------------
+Sem lupa, use uma gota d'água sobre a superfície como lente.
+Sem luvas, use pano grosso dobrado; nunca pegue com a mão nua.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A pessoa aponta o local da origem e classifica a superfície
+em frágil, dúctil ou com marcas de fadiga, e cita uma ação.
+
+FONTES
+------
+Prática consolidada de engenharia de materiais e análise de falhas
+(família de referência: manuais de metalurgia e normas ASTM e ASM).
+Resumo operacional, não substitui ensaio de laboratório.

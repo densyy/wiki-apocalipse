@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 52-022
+TITULO: Como compreender radiação térmica
+CATEGORIA: 52 - Física aplicada e princípios fundamentais
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: radiação térmica, infravermelho, calor, sol, manta
+==============================================================================
+
+OBJETIVO
+--------
+Explicar como o calor viaja sem contato e como agir para ganhar ou
+perder menos calor.
+
+QUANDO USAR
+-----------
+Quando sentir o calor do sol mesmo com o ar frio.
+Quando sentir o calor do fogo sem tocar na chama.
+Quando escolher roupa clara ou escura para ficar no sol.
+Quando dormir ao ar livre e quiser perder menos calor para o céu.
+
+NAO USE QUANDO
+--------------
+Não há contraindicacao para compreender o princípio. Não use o texto
+para tratar hipotermia, queimadura ou insolação; procure atendimento.
+
+MATERIAIS
+---------
+- Nenhum material obrigatório.
+- Papel e lápis para desenhar a troca de calor (opcional).
+- Manta de alumínio para observar o efeito (opcional).
+
+PROCEDIMENTO
+------------
+1. Defina: todo corpo com temperatura acima do zero absoluto emite
+   radiação térmica, energia na forma de ondas eletromagnéticas.
+2. Reconheça que, em temperatura comum, essa energia é infravermelha:
+   invisível aos olhos, mas sentida como calor na pele.
+3. Compare os três modos: condução exige contato; convecção exige ar
+   ou líquido em movimento; radiação não exige meio e atravessa o vazio.
+4. Entenda o sol: sua energia chega por radiação através do espaço,
+   por isso aquece mesmo quando o ar está frio.
+5. Declare a regra: quanto mais quente, mais o corpo radia. A energia
+   por área cresce com a quarta potência da temperatura em kelvin.
+6. Aplique: ao dobrar a temperatura em kelvin, a radiação por área
+   aumenta aproximadamente 16 vezes.
+7. Declare a regra da cor: quanto mais quente, menor a onda emitida.
+   O sol irradia luz visível; o corpo humano, infravermelho.
+8. Note que um objeto muito quente começa a brilhar por volta de
+   500 graus Celsius; abaixo disso, só emite infravermelho.
+9. Defina corpo negro: superfície ideal que absorve e emite o máximo.
+   Nenhum corpo real emite mais que ela na mesma temperatura.
+10. Use a reciprocidade: quem absorve bem também emite bem. Metal
+    polido absorve e emite pouco; por isso reflete e isola.
+11. Corte o calor do fogo: vire as costas ou coloque uma barreira
+    opaca entre você e a chama.
+12. Reduza a perda à noite: fique sob teto, árvore ou lona, que
+    devolvem parte da radiação que o corpo perde para o céu frio.
+13. Use manta de alumínio: a face brilhante reflete a radiação e
+    reduz a troca de calor nos dois sentidos.
+
+ATENCAO
+-------
+Radiação é só uma forma de perder calor. Vento e solo frio retiram
+mais calor; bloquear só a radiação não impede hipotermia.
+Manta de alumínio não cria calor: só devolve parte do que já sai.
+O calor do fogo queima e inflama roupa; barreira opaca funciona
+melhor que distância.
+Cor clara ajuda sob sol; no escuro a cor quase não muda a perda.
+Queimadura solar é dano por ultravioleta, não por calor radiante.
+Este texto explica o princípio; não trata hipotermia ou queimadura.
+
+SE NAO TIVER
+------------
+Sem manta, use papel-alumínio limpo ou pano claro como barreira.
+Sem teto, vire as costas para o fogo e use mochila ou pedra.
+Sem isso, afaste-se da fonte e reduza o tempo de exposição.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você sente o calor no lado voltado ao fogo e nota que some ao
+girar as costas ou ao pôr a mão entre a pele e a chama.
+Você consegue dizer por que o sol aquece no frio e por que a
+manta brilhante reduz a perda de calor.
+
+FONTES
+------
+Física consolidada, sem documento único. Leis de Stefan-Boltzmann
+e Wien conferidas na enciclopédia Energy Education da Universidade
+de Calgary, página Stefan-Boltzmann Law, que cita Kutner e Krane.
+Conceitos de corpo negro e emissividade conferidos na página
+Thermal radiation da Wikipédia, usada só como pista para a fonte
+primária Thermal Radiation Heat Transfer (Howell, Siegel, CRC).
+Resumo operacional, não substitui treinamento.

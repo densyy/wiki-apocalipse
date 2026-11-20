@@ -1,0 +1,67 @@
+==============================================================================
+CODIGO: 30-002
+TITULO: Fundamentos de engenharia elétrica
+CATEGORIA: 30 - Engenharia e infraestrutura básica
+TEMPO: 45 minutos
+RISCO: medio
+EXIGE: caderno, lápis, fonte de baixa tensão, multímetro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: eletricidade, tensão, corrente, resistência, potência, ohm
+==============================================================================
+
+OBJETIVO
+--------
+Entender tensão, corrente, resistência e potência e usar a lei de Ohm.
+
+QUANDO USAR
+-----------
+Ao montar um circuito simples de baixa tensão.
+Ao escolher resistor, fio ou fonte para um projeto.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação para estudar estes conceitos. Não use em rede
+energizada: exige formação e autorização de profissional.
+
+MATERIAIS
+---------
+- Caderno, lápis e calculadora para anotar e calcular.
+- Fonte de baixa tensão, como pilha de 1,5 V (ou bateria de 9 V).
+- Multímetro para medir (ou outro medidor de tensão).
+- Resistor de valor conhecido (ou fio fino com resistência medida).
+
+PROCEDIMENTO
+------------
+1. Anote: tensão (V), corrente (A), resistência (ohm) e potência (W).
+2. Meça a tensão da pilha com o multímetro na escala de volts contínuos.
+3. Tensão é a pressão que empurra a corrente pelo circuito.
+4. Corrente é fluxo de carga; circula só com circuito fechado.
+5. Resistência é a oposição à corrente; quanto maior, menor ela.
+6. Lei de Ohm: I = V/R. Com 1,5 V e 100 ohm, I = 0,015 A (15 mA).
+7. Potência: P = V vezes I = 1,5 x 0,015 = 0,0225 W. Maior resistência
+   reduz a corrente pela metade se dobrada.
+
+ATENCAO
+-------
+O que mata é a corrente atravessando o corpo, sobretudo o peito; ela depende
+da tensão e da resistência do corpo, não da tensão só. Cerca de 30 mA
+no peito pode causar fibrilação; pele molhada aumenta a corrente.
+Nunca toque rede energizada (110/220 V); acima de 600 V o ar conduz.
+Desligue a fonte antes de tocar em quem levou choque; sem consciência,
+procure ajuda médica urgente.
+
+SE NAO TIVER
+------------
+Sem multímetro, não meça tensão: use apenas a etiqueta da fonte.
+Sem resistor conhecido, use fio longo e fino, mas meça a resistência.
+Não substitua fusível por arame nem improvise em circuito de 110 V/220 V.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você calculou I = V/R e P = V vezes I e conferiu os valores no caderno.
+A leitura na pilha ficou perto de 1,5 V e você explica a lei de Ohm.
+
+FONTES
+------
+Lei de Ohm (Georg Ohm, 1827) e unidades do SI, conforme NIST. Limiares:
+IEC 60479-1 e NIOSH/CDC. Resumo operacional; não substitui treinamento.

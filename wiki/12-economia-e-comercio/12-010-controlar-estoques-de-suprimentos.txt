@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 12-010
+TITULO: Como controlar estoques de suprimentos
+CATEGORIA: 12 - Economia, comércio e organização financeira
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: caderno, lápis, etiquetas ou papel, fita adesiva
+REVISAO: 2026-11
+PALAVRAS-CHAVE: estoque, suprimentos, inventário, validade, reposição
+==============================================================================
+
+OBJETIVO
+--------
+Saiba quanto de cada suprimento existe, onde está e quando vence,
+para não faltar nem desperdiçar.
+
+QUANDO USAR
+-----------
+Quando você guarda suprimentos novos e precisa registrá-los.
+Quando vai repor o estoque e precisa saber o que falta.
+Quando várias pessoas usam o mesmo estoque.
+
+NAO USE QUANDO
+--------------
+Quando você tem poucos itens e consegue ver todos de uma vez:
+nesse caso, anotar não muda nada.
+
+MATERIAIS
+---------
+- Caderno ou folhas de papel.
+- Lápis (caneta se não houver umidade).
+- Etiquetas de papel ou pedaços de papel com fita.
+- Caixas, prateleiras ou recipientes para guardar.
+
+PROCEDIMENTO
+------------
+1. Abra uma linha no caderno para cada tipo de suprimento.
+2. Anote o nome, a quantidade, a unidade e o local de guarda.
+3. Escreva as datas de entrada e de validade, se houver.
+4. Escreva nome e data de entrada em cada recipiente.
+5. Guarde os itens antigos na frente e os novos atrás.
+6. Consuma primeiro o item mais antigo de cada tipo.
+7. Ao usar ou receber, risque a linha e escreva a quantidade nova.
+8. Retire e descarte o item vencido ou estragado.
+9. Anote no caderno o que falta repor.
+10. Confira o caderno com a pilha uma vez por semana.
+
+ATENCAO
+-------
+Caderno molhado ou perdido deixa você sem registro: guarde-o seco.
+Se não houver validade, marque a entrada e use esses itens primeiro.
+Contar de memória erra a quantidade e faz faltar o essencial.
+Com cheiro estranho, mofo ou embalagem estufada, descarte sem provar.
+
+SE NAO TIVER
+------------
+Sem caderno, use folhas soltas presas na caixa com fita.
+Sem etiquetas, escreva a data na embalagem com lápis.
+Sem prateleiras, empilhe separando os itens por tipo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O número do caderno confere com a contagem dos itens guardados.
+O item mais antigo está na frente e é consumido primeiro.
+
+FONTES
+------
+Prática consolidada de gestão de estoques: inventário escrito e
+rotação FIFO (usar primeiro o que entrou antes), sem documento único.

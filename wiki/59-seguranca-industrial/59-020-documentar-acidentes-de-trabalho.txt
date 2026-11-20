@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 59-020
+TITULO: Como documentar acidentes de trabalho
+CATEGORIA: 59 - Segurança industrial e riscos ocupacionais
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: formulário, caneta, câmera ou celular, acesso ao local
+REVISAO: 2026-11
+PALAVRAS-CHAVE: acidente, registro, CAT, testemunha, foto, ocorrência
+==============================================================================
+
+OBJETIVO
+--------
+Registrar um acidente de trabalho com clareza para proteger a vítima.
+
+QUANDO USAR
+-----------
+Após acidente com lesão ou afastamento do trabalho.
+Depois de queda, corte, queimadura ou impacto.
+Quando a empresa exigir relatório de ocorrência ou a CAT.
+
+NAO USE QUANDO
+--------------
+Não comece o registro enquanto a vítima precisar de socorro urgente.
+Não há contraindicação para documentar após estabilizar a vítima.
+
+MATERIAIS
+---------
+- Formulário ou folha de papel (caderno se faltar impresso).
+- Caneta ou lápis (à prova d'água se houver umidade).
+- Câmera ou celular para fotos (com permissão do responsável).
+- Pasta ou envelope para guardar o original seco.
+
+PROCEDIMENTO
+------------
+1. Garanta o socorro da vítima e isole a área.
+2. Anote a data e o horário exatos do acidente.
+3. Anote nome, função e local exato do acidentado.
+4. Relate o ocorrido em ordem cronológica, com fatos concretos.
+5. Registre a lesão e a parte do corpo atingida.
+6. Relacione nome e contato das testemunhas.
+7. Fotografe o local e o equipamento sem mover a vítima.
+8. Anote luz, piso, ruído, clima e estado do equipamento.
+9. Registre quem socorreu e para onde a vítima foi levada.
+10. Preencha a CAT (Comunicação de Acidente de Trabalho) quando couber.
+11. Guarde o original e faça uma cópia em local separado.
+12. Encaminhe o registro ao encarregado de segurança no mesmo dia.
+
+ATENCAO
+-------
+Não mova a vítima para fotografar: você pode agravar a lesão.
+Registro impreciso perde valor de prova e prejudica a vítima.
+Não atribua culpa: registre só o que você viu e ouviu.
+A CAT tem prazo curto; peça ajuda ao encarregado para preenchê-la.
+
+SE NAO TIVER
+------------
+Sem formulário, use uma folha com data, hora, local e fatos.
+Sem câmera, faça um croqui simples do local e das posições.
+Não invente dado que não sabe: escreva "não observado".
+
+COMO SABER QUE DEU CERTO
+------------------------
+O registro traz data, hora, local, lesão, testemunhas e fotos.
+Testemunha assinou, responsável recebeu cópia e original foi guardado.
+
+FONTES
+------
+Prática consolidada de segurança do trabalho; CAT da Lei 8.213/91 (Brasil).
+Resumo operacional que não substitui o encarregado de segurança.

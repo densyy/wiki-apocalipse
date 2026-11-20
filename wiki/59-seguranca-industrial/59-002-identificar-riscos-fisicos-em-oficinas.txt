@@ -1,0 +1,78 @@
+==============================================================================
+CODIGO: 59-002
+TITULO: Como identificar riscos físicos em oficinas
+CATEGORIA: 59 - Segurança industrial e riscos ocupacionais
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: caderno, lápis, luz, autorização do responsável
+REVISAO: 2026-11
+PALAVRAS-CHAVE: risco físico, oficina, máquina, ruído, proteção, inspeção
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer e registrar os riscos físicos visíveis em uma oficina.
+
+QUANDO USAR
+-----------
+Ao entrar em uma oficina pela primeira vez.
+Antes de usar uma máquina que você não conhece.
+Depois de trocar uma ferramenta, um turno ou um operador.
+Quando alguém se machucou e o motivo não está claro.
+Ao revisar a oficina após uma limpeza ou reparo.
+
+NAO USE QUANDO
+--------------
+Não pare a máquina de outro operador sem autorização.
+Não faça inspeção com a máquina ligada se não foi treinado.
+Nunca substitua uma avaliação técnica por esta olhada.
+
+MATERIAIS
+---------
+- Caderno para anotar (papel solto serve).
+- Lápis ou caneta.
+- Lanterna ou luz portátil (a luz do teto pode falhar).
+- Autorização do responsável pela oficina.
+
+PROCEDIMENTO
+------------
+1. Peça autorização ao responsável antes de entrar na área.
+2. Ande pela oficina sem tocar em nada e sem correr.
+3. Observe cada máquina com as mãos afastadas das partes móveis.
+4. Anote se há peças girando, cortando ou esmagando sem proteção.
+5. Olhe engrenagens, correias, serras, discos e prensas descobertas.
+6. Verifique se há parada de emergência visível e não obstruída.
+7. Cheque se o piso está seco, nivelado e livre de óleo ou cabos.
+8. Note ruído forte, calor, vibração ou poeira excessiva.
+9. Observe se há fio elétrico exposto ou emenda improvisada.
+10. Registre o que achou com o código da máquina e a data.
+11. Comunique os achados ao responsável e peça a correção.
+12. Não tente consertar nem remover proteção você mesmo.
+
+ATENCAO
+-------
+Uma olhada não substitui a avaliação de um profissional habilitado.
+Aproximar a mão de peça em movimento pode causar amputação.
+Ruído alto danifica a audição sem dor imediata.
+Não confie só no que você vê: calor, vibração e radiação não aparecem.
+Se a máquina não tem proteção, não opere e avise o responsável.
+Se alguém está em risco imediato, afaste a pessoa e interrompa o uso.
+
+SE NAO TIVER
+------------
+Sem caderno, memorize os pontos e escreva ao sair.
+Sem luz, espere o local ser iluminado em vez de se arriscar no escuro.
+Sem autorização, espere: entrar sem permissão pode expor você ao risco.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você percorreu a oficina sem tocar em partes móveis.
+Você entregou uma lista escrita com máquina, risco e data.
+O responsável confirmou o recebimento e indicou o que será corrigido.
+
+FONTES
+------
+Norma Regulamentadora 12 do Ministério do Trabalho e Emprego, sobre
+segurança em máquinas e equipamentos, e seu manual de aplicação.
+Norma Regulamentadora 9, sobre exposição a agentes físicos.
+Prática consolidada de inspeção de segurança, resumida neste texto.

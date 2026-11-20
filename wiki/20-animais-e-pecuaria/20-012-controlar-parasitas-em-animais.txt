@@ -1,0 +1,90 @@
+==============================================================================
+CODIGO: 20-012
+TITULO: Como controlar parasitas em animais
+CATEGORIA: 20 - Animais domésticos e pecuária
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: água corrente, sabão, pinça fina, pano, luvas, saco para fezes
+REVISAO: 2026-11
+PALAVRAS-CHAVE: parasita, verme, carrapato, pulga, fezes, higiene, zoonose
+==============================================================================
+
+OBJETIVO
+--------
+Reduzir parasitas em animais domésticos e o risco de contágio às pessoas.
+
+QUANDO USAR
+-----------
+- Quando o animal tem pulgas, carrapatos ou piolhos visíveis.
+- Quando aparecem vermes nas fezes ou diarreia que não melhora.
+- Quando não há veterinário ou medicamento veterinário disponível.
+- Quando o animal convive com crianças, gestantes ou imunossuprimidos.
+
+NAO USE QUANDO
+--------------
+- Não serve para curar infecção instalada: só reduz a carga de parasitas.
+- Não use se houver bicheira (larvas na ferida): procure ajuda.
+- Não substitui veterinário se houver anemia, convulsão ou falta de ar.
+
+MATERIAIS
+---------
+- Água corrente e sabão para lavar as mãos e o animal.
+- Pinça fina ou pinça de sobrancelha para retirar carrapatos.
+- Pano limpo e saco resistente para fezes e parasitas.
+- Luvas (ou saco plástico na mão, se não houver luvas).
+- Escova ou pente para o pelo do animal.
+
+PROCEDIMENTO
+------------
+1. Lave as mãos com água corrente e sabão antes de tocar o animal.
+2. Coloque as luvas; se não houver, use um saco plástico na mão.
+3. Examine o pelo contra a luz: procure pulgas, piolhos e carrapatos.
+4. Escove o pelo sobre um pano claro, no sentido dos pelos.
+5. Retire cada carrapato com a pinça: prenda junto à pele e puxe reto.
+6. Coloque o carrapato no saco das fezes; nunca o esmague com os dedos.
+7. Lave o pelo do animal com água e sabão, enxágue e seque com pano.
+8. Recolha as fezes com o saco, feche e descarte longe de água e comida.
+9. Lave cama, mantas e utensílios com água e sabão, fora da cozinha.
+10. Lave as mãos com sabão ao terminar, mesmo com luvas.
+11. Mantenha o animal longe de crianças pequenas e gestantes por dias.
+
+ATENCAO
+-------
+Retirar e banhar reduzem pulgas e carrapatos, não matam vermes internos.
+NUNCA use inseticida agrícola, gasolina ou álcool no animal: queima e mata.
+NUNCA dê vermífugo sem orientação: dose errada intoxica o animal.
+NUNCA use antipulgas de cão em gato: pode matar o gato.
+Carrapatos transmitem doenças: retire com pinça e lave as mãos depois.
+Fezes de cães e gatos podem conter ovos de vermes; recolha sempre.
+Menores de 5 anos, idosos, imunossuprimidos e gestantes têm mais risco.
+Gestantes devem evitar trocar a caixa de areia do gato.
+Pare e procure ajuda se houver bicheira, gengivas pálidas ou convulsão.
+Também pare se houver diarreia com sangue ou falta de ar.
+Não banhe animal com ferida aberta nem o deixe molhado no frio.
+Não lave utensílios do animal na pia onde se prepara comida.
+
+SE NAO TIVER
+------------
+Sem pinça, não use os dedos: a boca do carrapato pode ficar na pele.
+Sem sabão, esfregue com água limpa: remove sujeira, não mata parasitas.
+Sem luvas, use saco plástico na mão; nunca toque fezes sem proteção.
+Sem água corrente, use água limpa de recipiente e seque com pano.
+Sem saco, cubra as fezes com terra, longe da água e da comida.
+Sem banho, escove e retire parasitas à mão: reduz, não elimina.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- Menos carrapatos e pulgas no pelo e no pano usado na escovação.
+- Fezes recolhidas e área de dormir limpa, sem parasitas visíveis.
+- Mãos lavadas com sabão após cada contato com o animal ou com fezes.
+- Animal com gengivas rosadas, que come e bebe e sem sinais de alerta.
+
+FONTES
+------
+- CDC, "Ways to Stay Healthy Around Animals", 2026: higiene das mãos,
+  vermifugação, controle de pulgas e carrapatos, coleta de fezes.
+- CDC, "What Causes Parasitic Diseases", 2024: animais transmitem
+  parasitas; filhotes são propensos a lombrigas e ancilostomos.
+- CDC, "People at Increased Risk for Illness from Animals", 2025:
+  maior risco para menores de 5 anos, idosos e gestantes.
+- Alertas químicos e de dose são prática consolidada, sem documento único.

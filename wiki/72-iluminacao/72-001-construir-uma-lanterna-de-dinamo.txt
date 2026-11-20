@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 72-001
+TITULO: Como construir uma lanterna de dínamo
+CATEGORIA: 72 - Sistemas de iluminação e óptica aplicada
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: motor de ímã permanente, ponte, capacitor, LED, fios, caixa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: luz, lanterna, dínamo, manivela, gerador, led, emergência
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma lanterna que gera luz ao girar uma manivela, sem pilhas.
+
+QUANDO USAR
+-----------
+- Quando não há pilhas nem energia elétrica.
+- Quando é preciso ler ou sinalizar durante a noite.
+
+NAO USE QUANDO
+--------------
+Não use perto de gás ou com o aparelho de origem na tomada.
+
+MATERIAIS
+---------
+- Motor DC de ímã permanente (brinquedo ou impressora).
+- Ponte retificadora de fonte quebrada (ou um diodo).
+- LED branco de 5 mm (ou LED de lanterna velha).
+- Capacitor eletrolítico de 10 a 100 microfarad.
+- Resistor de 100 a 330 ohm (ou fio fino enrolado).
+- Fios isolados, fita, interruptor, caixa e manivela.
+
+PROCEDIMENTO
+------------
+1. Desplugue o aparelho e retire o motor pequeno.
+2. Limpe os contatos do motor com lixa até brilharem.
+3. Ligue os dois fios do motor aos pinos de entrada da ponte.
+4. Ligue o pino positivo da ponte ao fio longo do capacitor.
+5. Ligue o mesmo pino positivo ao interruptor e ao resistor.
+6. Ligue o resistor ao fio longo do LED (ânodo).
+7. Ligue o fio curto do LED (perna curta) ao pino negativo da ponte.
+8. Ligue o pino negativo da ponte ao fio negativo do capacitor.
+9. Isole cada emenda com fita e prenda a manivela no eixo.
+10. Gire no mesmo sentido por aproximadamente 30 segundos.
+11. Feche o interruptor e ajuste até o LED acender com o giro.
+
+ATENCAO
+-------
+- Nunca ligue os fios à tomada: a tensão da rede pode matar.
+- Capacitor ao contrário pode estourar: o fio longo é o positivo.
+- LED sem resistor queima com o capacitor carregado.
+- Se o motor esquentar ou cheirar a queimado, pare e deixe esfriar.
+
+SE NAO TIVER
+------------
+- Sem ponte: use um diodo e gire só no mesmo sentido.
+- Sem capacitor: ligue o LED ao motor e gire sem parar.
+- Sem interruptor: encoste e afaste dois fios para ligar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- O LED acende ao girar e apaga quando o giro para.
+- Fios e motor não esquentam ao girar por 1 minuto.
+
+FONTES
+------
+Prática consolidada de eletrônica básica de baixa tensão e
+recuperação de peças. Manuais militares de sobrevivência civil
+descrevem luz de emergência. Resumo que não substitui treinamento.

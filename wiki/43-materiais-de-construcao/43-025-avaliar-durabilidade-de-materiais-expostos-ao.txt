@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 43-025
+TITULO: Como avaliar durabilidade de materiais expostos ao clima
+CATEGORIA: 43 - Produção de materiais de construção
+TEMPO: 45 minutos
+RISCO: medio
+EXIGE: caderno, lápis, lanterna, régua, água limpa, espátula, luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: durabilidade, material, clima, umidade, rachadura, teste
+==============================================================================
+
+OBJETIVO
+--------
+Classificar a resistência de uma peça ao clima do local com testes simples.
+
+QUANDO USAR
+-----------
+Ao receber lote novo de material produzido na oficina.
+Antes de usar material estocado sob chuva, sol ou umidade.
+
+NAO USE QUANDO
+--------------
+Peça com carga e rachadura que atravessa: pare e chame o responsável.
+Suspeita de amianto, chumbo ou agrotóxico: não raspe, não lixe, não molhe.
+
+MATERIAIS
+---------
+- Caderno e lápis para anotar data, local e resultado.
+- Lanterna ou luz do dia para ver superfícies escuras.
+- Régua e recipiente com água limpa e um pano.
+- Espátula ou moeda para raspagem leve; luvas para a mão.
+- Três peças do lote e uma testemunha guardada desde a fabricação.
+
+PROCEDIMENTO
+------------
+1. Anote material, data de fabricação e local de exposição da peça.
+2. Escolha 3 peças do lote: duas das pontas e uma do meio.
+3. Limpe o pó com pano seco sob luz forte.
+4. Anote manchas escuras ou esbranquiçadas na superfície.
+5. Raspe levemente: anote se sai pó, casca ou fibra.
+6. Meça a maior rachadura, veja se a unha entra e se atravessa a peça.
+7. Pingue água em 3 pontos; observe por aproximadamente 10 minutos.
+8. Repita os passos 3 a 7 na peça-testemunha.
+9. Boa: superfície firme e água escorre sem mudar a cor.
+10. Em observação: rachadura superficial, água penetra sem escurecer.
+11. Descartar: rachadura atravessa, sai pó ou a água escurece.
+
+ATENCAO
+-------
+Este método é triagem visual, não ensaio de laboratório nem laudo técnico.
+Madeira e terra escurecem com umidade: compare sempre com a testemunha.
+Água que escorre não prova impermeabilidade: pode haver poros fechados.
+Raspe com pressão leve; pare ao primeiro sinal de soltura.
+Peças boas e ruins coexistem; pare diante de rachadura que atravessa.
+
+SE NAO TIVER
+------------
+Sem testemunha, guarde uma peça do lote; sem régua, use um palito reto.
+Sem espátula, use a unha ou moeda; nunca faca afiada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada peça tem linha no caderno com data, local, material e classificação.
+A classificação veio de sinais vistos ou medidos, não de palpite.
+
+FONTES
+------
+Prática consolidada de inspeção visual e ensaios de campo. Referências:
+FEMA (Building Science) e NIST (Materials). Normas não verificadas.

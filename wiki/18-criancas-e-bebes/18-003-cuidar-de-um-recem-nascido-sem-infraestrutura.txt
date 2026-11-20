@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 18-003
+TITULO: Como cuidar de recém-nascido sem infraestrutura
+CATEGORIA: 18 - Crianças, bebês e cuidados familiares
+TEMPO: 20 minutos por sessao; cuidado continuo
+RISCO: alto
+EXIGE: pano limpo e seco, roupas em camadas, abrigo contra frio, agua
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bebe, recém-nascido, amamentação, umbigo, sono, perigo
+==============================================================================
+
+OBJETIVO
+--------
+Manter o recém-nascido aquecido, alimentado e seguro ate o atendimento.
+
+QUANDO USAR
+-----------
+Quando o bebê nasceu em casa ou longe de um hospital.
+Quando faltam energia, agua encanada ou equipamentos.
+Quando o deslocamento ate uma unidade de saude vai demorar.
+Nos primeiros dias de vida, antes da primeira consulta.
+
+NAO USE QUANDO
+--------------
+Nao substitui atendimento medico. Bebê doente ou prematuro precisa de
+avaliacao urgente. Nao tente reanimar sem treinamento: procure ajuda.
+
+MATERIAIS
+---------
+- Pano limpo e seco (toalha ou fralda de pano lavada e seca).
+- Roupas em camadas, incluindo gorro ou touca.
+- Fraldas limpas ou pano limpo para as trocas.
+- Agua morna e sabonete neutro, se houver, para o banho.
+- Bacia ou balde limpo para o banho.
+- Abrigo contra frio e corrente de ar.
+
+PROCEDIMENTO
+------------
+1. Receba o bebê em local limpo, seco e protegido do vento.
+2. Seque o bebê imediatamente com pano limpo e seco, inclusive a cabeça.
+3. Retire roupa molhada e vista o bebê com camadas secas e gorro.
+4. Coloque o bebê pele a pele no peito da mãe ou de outro cuidador.
+5. Cubra os dois com pano ou manta seca, deixando o rosto do bebê livre.
+6. Mantenha contato pele a pele sempre, inclusive durante o sono.
+7. Amamente na primeira hora de vida, se a mãe puder.
+8. Amamente em livre demanda, aproximadamente 8 a 12 vezes ao dia.
+9. Ofereca somente leite materno. Nao dê agua, cha, acucar ou leite animal.
+10. Troque fralda molhada ou suja assim que notar; mantenha a pele seca.
+11. Deite o bebê de barriga para cima para dormir, com boca e nariz livres.
+12. Use berco ou rede ao lado da cama; nao divida a cama com o bebê.
+13. Nao coloque travesseiro, almofada, coberta pesada ou pelucia no berco.
+14. Lave as mãos antes de tocar no coto do umbigo e mantenha-o limpo e seco.
+15. Nao coloque nada sobre o coto: sem faixa, moeda, po ou pomada.
+16. Adie o primeiro banho por pelo menos 24 horas se o bebê estiver bem.
+17. Se precisar antes, use agua morna (aproximadamente 37°C) e sem vento.
+18. Seque bem as dobras da pele e o umbigo e vista o bebê logo em seguida.
+19. Observe os sinais de perigo a cada troca de fralda e a cada mamada.
+20. Procure atendimento urgente se aparecer sinal listado em ATENCAO.
+
+ATENCAO
+-------
+O frio e o maior risco: bebê molhado ou em corrente de ar esfria rapido.
+A hipotermia pode matar em horas. Pés frios e sonolencia alertam.
+Procure ajuda urgente se o bebê nao mama, nao se move ou tem convulsao.
+Procure ajuda se respirar rapido (acima de 60 por minuto) ou com esforço.
+Procure ajuda com febre acima de 37,5°C ou temperatura abaixo de 35,5°C.
+Procure ajuda se a pele amarelecer nas primeiras 24 horas ou palmas e solas
+ficarem amarelas em qualquer idade.
+Nao dê remedio, cha ou gota sem orientacao de profissional de saude.
+Leite animal ou leite em po nao substituem o materno e aumentam infeccoes.
+Coto com mau cheiro, pus ou vermelhidao exige avaliacao urgente.
+Vacinas e triagens, como o teste do pezinho, exigem unidade de saude.
+Nao cubra o rosto do bebê nem o deite de barriga para baixo: ha risco de
+sufocacao.
+
+SE NAO TIVER
+------------
+Sem berco, use caixa ou cesto forrado com pano limpo, sem travesseiro.
+Sem fralda descartavel, use pano limpo e troque com frequencia.
+Sem termometro, observe pés frios, choro, pele arroxeada e sonolencia.
+Sem agua corrente, use alcol em gel ou agua limpa com sabao nas mãos.
+Sem leite materno disponivel, nao improvise com leite animal; procure ajuda.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O bebê fica com pés e mãos mornos e nao permanece arrepiado ou arroxeado.
+Mama com frequencia, faz xixi e cocô e ganha peso quando é pesado.
+Dorme de barriga para cima, com respiração calma e sem esforço.
+O coto do umbigo fica seco, sem mau cheiro nem vermelhidao que avance.
+
+FONTES
+------
+Recomendacoes da OMS sobre cuidados neonatais no pos-parto (2022):
+sinais de perigo, primeiro banho apos 24 horas e coto limpo e seco.
+Guia da OMS de protecao termica e cuidado canguru: contato pele a pele,
+ambiente aquecido e temperatura corporal de 36,5°C a 37,5°C.
+Caderneta da Criança e orientacoes do Ministerio da Saude sobre sono seguro,
+banho e cuidados com o umbigo.

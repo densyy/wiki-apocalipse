@@ -1,0 +1,85 @@
+==============================================================================
+CODIGO: 64-007
+TITULO: Como calibrar instrumentos de medição
+CATEGORIA: 64 - Laboratório, diagnóstico e análises
+TEMPO: 45 minutos
+RISCO: medio
+EXIGE: instrumento, padrão de referência, caderno, ambiente estável
+REVISAO: 2026-11
+PALAVRAS-CHAVE: calibração, medição, erro, padrão, rastreabilidade, aferir
+==============================================================================
+
+OBJETIVO
+--------
+Verificar e corrigir as indicações de um instrumento de medição.
+
+QUANDO USAR
+-----------
+Ao receber um instrumento novo ou que passou por reparo.
+Antes de uma campanha de medições importantes.
+Quando o resultado de uma medição gerar dúvida.
+Em intervalos definidos pelo fabricante ou pelo uso.
+Após queda, impacto ou exposição a umidade e calor.
+
+NAO USE QUANDO
+--------------
+Quando não houver padrão de referência confiável e rastreável.
+Quando o instrumento estiver danificado, corroído ou com tela ilegível.
+Nunca substitua a calibração por uma simples limpeza do aparelho.
+
+MATERIAIS
+---------
+- Instrumento a calibrar e seu manual do fabricante.
+- Padrão de referência com valor conhecido e rastreável.
+- Material de referência certificado, quando couber.
+- Caderno ou planilha para registrar os valores.
+- Ambiente com temperatura estável e sem vibração.
+- Pano limpo e, se necessário, fonte de alimentação estável.
+
+PROCEDIMENTO
+------------
+1. Identifique o instrumento e anote modelo, série e estado.
+2. Leia o manual e anote a faixa de medição e a resolução.
+3. Confirme que o padrão tem valor conhecido e certificado vigente.
+4. Deixe instrumento e padrão no ambiente por aproximadamente 30 minutos.
+5. Limpe as superfícies de medição com pano limpo e seco.
+6. Faça a checagem inicial: meça o padrão e anote o valor lido.
+7. Repita a leitura do mesmo ponto aproximadamente três vezes.
+8. Anote a média das leituras e compare com o valor do padrão.
+9. Calcule o erro: valor lido menos valor de referência.
+10. Repita nos pontos baixo, médio e alto da faixa de uso.
+11. Se o erro passar do limite aceitável, ajuste conforme o manual.
+12. Repita as leituras após o ajuste e anote o novo erro.
+13. Registre data, padrão usado, erros, ajustes e quem executou.
+14. Fixe etiqueta com a data e a próxima calibração prevista.
+15. Guarde o instrumento limpo, tampado e em local estável.
+
+ATENCAO
+-------
+A calibração não conserta um instrumento danificado.
+Um erro pequeno no padrão se propaga para as demais medições.
+Sem rastreabilidade, o resultado da calibração não tem validade.
+Não ajuste sem registrar: anote cada leitura antes de mudar o ajuste.
+Se o erro não diminuir após o ajuste, pare e busque assistência.
+Instrumentos de tensão, radiação ou temperatura extrema exigem procedimento
+específico e, na maioria dos casos, laboratório acreditado.
+SE NAO TIVER
+------------
+Sem padrão rastreável, faça apenas checagem de repetibilidade.
+Repita a mesma medição várias vezes e observe a dispersão.
+Isso detecta instabilidade, mas não substitui a calibração.
+Sem laboratório acreditado, envie o instrumento ao fabricante.
+Não use outro instrumento comum como padrão, pois ele também pode errar.
+COMO SABER QUE DEU CERTO
+------------------------
+As leituras ficaram próximas do valor do padrão em cada ponto.
+O erro calculado ficou dentro do limite definido para o uso.
+As leituras repetidas deram valores iguais ou muito próximos.
+A etiqueta e o registro estão legíveis, com data e próxima calibração.
+FONTES
+------
+Prática consolidada de metrologia e garantia da qualidade em laboratório.
+Referências: orientações do INMETRO sobre calibração e rastreabilidade;
+guia de boas práticas de laboratório do NIST; ABNT NBR ISO/IEC 17025.
+Este texto é um resumo operacional e não substitui treinamento técnico
+nem a calibração acreditada exigida para uso legal ou crítico.

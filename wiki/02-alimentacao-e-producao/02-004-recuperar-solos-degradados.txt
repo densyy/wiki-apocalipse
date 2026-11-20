@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 02-004
+TITULO: Como recuperar solos degradados
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 120 minutos
+RISCO: baixo
+EXIGE: composto orgânico, sementes, água limpa, enxada
+REVISAO: 2026-11
+PALAVRAS-CHAVE: solo, terra cansada, adubo verde, matéria orgânica, palha
+==============================================================================
+
+OBJETIVO
+--------
+Recuperar a fertilidade e a estrutura de um solo cansado para plantar.
+
+QUANDO USAR
+-----------
+Quando a terra produz pouco mesmo com água e cuidado.
+Quando o solo fica duro, rachado ou com crosta na superfície.
+Quando a chuva escorre e arrasta terra do canteiro.
+
+NAO USE QUANDO
+--------------
+Não cultive alimento onde houver esgoto, óleo, tinta, agrotóxico ou metal.
+Não espere recuperar só com adubo um solo salino ou contaminado.
+
+MATERIAIS
+---------
+- Composto orgânico pronto ou esterco curtido.
+- Palha, folhas secas ou serragem limpa.
+- Sementes de leguminosas, enxada e água limpa.
+
+PROCEDIMENTO
+------------
+1. Retire pedras, plástico e entulho da área escolhida.
+2. Marque o contorno do terreno com estacas e barbante.
+3. Abra sulcos pequenos seguindo esse contorno, nunca descendo a encosta.
+4. Revolva apenas a camada superficial com a enxada.
+5. Espalhe composto orgânico sobre a terra revolvida.
+6. Misture o composto à camada superficial com a enxada.
+7. Semee leguminosas de adubo verde, plantas que dão nitrogênio ao solo.
+8. Regue com água limpa até umedecer, sem formar poças.
+9. Cubra o solo entre as plantas com palha ou folhas secas.
+10. Corte as leguminosas antes de florirem.
+11. Deixe o material cortado sobre o solo.
+12. Alterne as espécies a cada ciclo para evitar pragas.
+
+ATENCAO
+-------
+Solo com esgoto, óleo, tinta ou agrotóxico passa veneno à planta.
+Não plante alimento nesse solo: ferver ou lavar não remove o veneno.
+Esterco fresco queima raízes; use apenas composto pronto ou curtido.
+Em encosta, sulco errado acelera a erosão; se houver deslizamento, pare.
+
+SE NAO TIVER
+------------
+Sem composto, use folhas picadas e restos de colheita sem doença.
+Sem semente de adubo verde, semee feijão comum como cobertura.
+Sem palha, use folhas secas ou serragem sem tinta nem químico.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A terra fica solta e a água da chuva infiltra sem escorrer em lama.
+Aparecem minhocas e as plantas de cobertura crescem verdes.
+
+FONTES
+------
+Embrapa Agrobiologia: recuperação com leguminosas, rizóbios e micorrízicos.
+Embrapa: Adubação verde na recuperação de solos degradados, 2023.
+Embrapa: Práticas de conservação do solo e recuperação de áreas degradadas.

@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 25-024
+TITULO: Como planejar alimentação durante escassez prolongada
+CATEGORIA: 25 - Alimentação, nutrição e fisiologia
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: papel, lápis, lista de alimentos e dados da família
+REVISAO: 2026-11
+PALAVRAS-CHAVE: escassez, fome, comida, calorias, ração, desnutrição
+==============================================================================
+
+OBJETIVO
+--------
+Montar um plano de alimentação que mantenha energia e evite desnutrição
+enquanto os alimentos durarem.
+
+QUANDO USAR
+-----------
+Quando o abastecimento estiver interrompido por várias semanas.
+Quando a renda ou o estoque não cobrir as necessidades da família.
+Quando pouca comida precisar ser dividida entre todas as pessoas.
+Quando houver crianças, gestantes, idosos ou doentes no grupo.
+Quando a ajuda alimentar estiver incerta ou demorar a chegar.
+
+NAO USE QUANDO
+--------------
+Não substitui avaliação médica nem tratamento de desnutrição grave.
+Não serve para decidir comer plantas ou animais desconhecidos.
+Não substitui a procura de ajuda quando aparecerem sinais de alerta.
+
+MATERIAIS
+---------
+- Papel e lápis (ou quadro e giz).
+- Lista dos alimentos disponíveis e das quantidades.
+- Dados do grupo: pessoas, idades, doenças e gestações.
+- Balança ou medidas caseiras já conhecidas (copo, colher, punhado).
+- Fita de medir ou cordão marcado (volta do braço de crianças).
+
+PROCEDIMENTO
+------------
+1. Liste cada pessoa do grupo com idade, peso e estado de saúde.
+2. Marque as de maior risco: crianças até 5 anos, gestantes,
+   idosos, lactantes e doentes.
+3. Some os alimentos disponíveis e anote a quantidade de cada um.
+4. Anote quantos dias o grupo precisa cobrir sem reposição.
+5. Adote aproximadamente 2100 calorias por adulto ao dia como meta.
+6. Reduza o esforço físico para diminuir o gasto de energia.
+7. Reserve água e combustível antes de fechar o cardápio.
+8. Distribua as calorias entre grãos, leguminosas e uma gordura.
+9. Reserve proteína e vitaminas e minerais para quem tem maior risco.
+10. Escolha alimentos que durem mais e não precisem de geladeira.
+11. Escreva cardápio de 7 dias com quantidade por pessoa e refeição.
+12. Separe reserva intocada para os últimos dias ou emergência.
+13. Consuma primeiro o que perece e os lotes antigos.
+14. Guarde os lotes novos para depois e anote a data de entrada.
+15. Revise o plano a cada 3 dias com o estoque restante.
+
+ATENCAO
+-------
+A meta de aproximadamente 2100 calorias é para trabalho leve,
+não prescrição individual.
+OMS e UNHCR usam 2100; revisão recente sugere cerca de 2080.
+Por isso o número está marcado como aproximado.
+Não tire comida de crianças, gestantes ou lactantes para poupar adultos.
+A fome prolongada reduz a imunidade: infecções podem matar primeiro.
+Em crianças de 6 a 59 meses, risco é braço abaixo de 115 mm, edema
+nas duas pernas ou peso muito baixo para a altura.
+Procure centro de saúde; não trate desnutrição grave só com comida.
+Sem variedade, podem aparecer escorbuto, pelagra e beribéri.
+Nunca coma alimento desconhecido, mofado ou de origem duvidosa.
+Não espere sinais graves para pedir ajuda.
+
+SE NAO TIVER
+------------
+Sem balança, use medidas caseiras anotadas uma vez e mantenha as mesmas.
+Sem dados de peso, use idade e volta do braço como referência.
+Sem alimentos variados, priorize calorias e proteína e anote a falta
+de vitaminas e minerais no plano.
+Sem ajuda próxima, reduza o esforço físico e aumente o descanso.
+Não substitua leite materno por fórmula diluída ou água com açúcar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O plano escrito traz quantidade por pessoa, refeição e dia.
+O estoque ainda cobre os dias marcados no calendário.
+As pessoas de maior risco comeram em todas as refeições registradas.
+Peso e volta do braço das crianças ficaram estáveis ou subiram.
+Não houve desmaio, infecção nova ou fome extrema na semana.
+
+FONTES
+------
+Orientações conjuntas OMS, UNHCR, UNICEF e WFP, 2004, sobre
+necessidades de alimentos e nutrição em emergências.
+Página da OMS sobre nutrição em emergências.
+Diretriz da OMS sobre desnutrição aguda grave em crianças, eLENA, 2023.
+Princípios da OMS para alimentar bebês em emergências, 2004.
+Materiais do Programa Mundial de Alimentos sobre desnutrição.
+Rodízio de estoques e cardápio semanal são prática consolidada,
+sem documento único.

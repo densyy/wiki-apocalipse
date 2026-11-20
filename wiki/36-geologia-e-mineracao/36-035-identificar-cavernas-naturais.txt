@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 36-035
+TITULO: Como identificar cavernas naturais
+CATEGORIA: 36 - Geologia, mineração e recursos naturais
+TEMPO: 2 horas
+RISCO: alto
+EXIGE: botina fechada, bastão, lanterna, caderno, fita de marcação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: caverna, gruta, dolina, sumidouro, carste, calcário, buraco
+==============================================================================
+
+OBJETIVO
+---------
+Reconhecer na superfície os sinais de uma caverna natural, sem entrar nela.
+
+QUANDO USAR
+-----------
+Quando o terreno é de calcário e você procura abrigo ou água.
+Quando há depressões fechadas no chão ou córregos que desaparecem.
+Ao mapear recursos naturais ou uma rota de fuga em terreno rochoso.
+Quando uma nascente brota e volta a sumir em poucos metros.
+Ao caminhar em região de carste depois de chuva.
+
+NAO USE QUANDO
+--------------
+Em chuva forte ou logo depois dela: sumidouros e cavernas alagam depressa.
+Quando a abertura exala ar quente ou cheiro de enxofre.
+Como substituto de avaliação de estabilidade ou de entrada na caverna.
+Quando não houver luz natural e você estiver sozinho.
+
+MATERIAIS
+---------
+- Botina fechada com sola firme.
+- Bastão ou pedra para testar o chão (galho grosso serve).
+- Lanterna com baterias reserva (tocha serve de dia).
+- Caderno e lápis para desenhar a posição dos sinais.
+- Fita de marcação ou pedras para marcar o ponto sem pisar na borda.
+- Corda de aproximadamente 10 metros (cinto ou corrente servem).
+
+PROCEDIMENTO
+------------
+1. Confirme a rocha: calcário, dolomito ou gipsita formam carste.
+2. Entenda carste: terreno de rocha solúvel que a água dissolve.
+3. Procure dolinas: depressões fechadas com fundo mais baixo que a borda.
+4. Veja se a água da chuva corre para o fundo da depressão.
+5. Siga o córrego até onde a água some no solo: é um sumidouro.
+6. Procure nascentes que brotam da rocha e somem em seguida.
+7. Note depressões e árvores secas alinhadas em linha reta no terreno.
+8. Pare a aproximadamente 10 metros da borda da depressão.
+9. Toque o chão com o bastão a 1 metro à sua frente antes de avançar.
+10. Sinta ar frio e úmido saindo de fenda ou da boca da gruta.
+11. Observe névoa ou vapor subindo da abertura em dia seco e frio.
+12. Compare a vegetação: plantas secas crescem em dolinas fundas.
+13. Marque o ponto com pedras e desenhe a posição no caderno.
+14. Meça de longe a boca da gruta e anote largura e altura aproximadas.
+15. Não entre, não desça e não jogue pedra dentro da abertura.
+
+ATENCAO
+-------
+A borda de uma dolina pode ceder sem aviso e causar queda grave.
+Nunca pise na beira nem desça em poço vertical sem equipamento.
+Dentro de cavernas pode haver pouco oxigênio, gás carbônico ou enxofre.
+Ar parado e cheiro estranho são sinal para sair e não entrar.
+Chuva a montante pode alagar a caverna em minutos, sem aviso local.
+Não entre em abertura que você não mediu nem inspecionou por luz.
+Se o bastão afundar mais que 10 cm, recue e marque o risco.
+Este tutorial só identifica sinais; não avalia estabilidade nem entradas.
+
+SE NAO TIVER
+------------
+Sem bastão, use um galho grosso para testar o solo à frente.
+Sem lanterna, observe só de dia e nunca se aproxime da boca.
+Sem caderno, desenhe o caminho com pedras empilhadas na volta.
+Sem botina, não atravesse dolinas: use outro dia e outro calçado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você achou dois sinais no mesmo lugar: depressão e sumidouro.
+O ponto foi marcado e ninguém pisou na borda da depressão.
+A abertura foi medida de fora, com largura e altura anotadas.
+
+FONTES
+------
+Prática consolidada de reconhecimento de carste e cavernas em campo.
+Fonte consultada: National Park Service, Caves and Karst (2025),
+que lista dolinas, água que some e nascentes como feições do carste.
+Este texto é um resumo operacional e não substitui treinamento de campo.

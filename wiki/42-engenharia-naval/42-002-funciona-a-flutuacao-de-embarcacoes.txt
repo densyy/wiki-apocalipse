@@ -1,0 +1,97 @@
+==============================================================================
+CODIGO: 42-002
+TITULO: Como funciona a flutuação de embarcações
+CATEGORIA: 42 - Engenharia naval e tecnologias marítimas
+TEMPO: 15 minutos
+RISCO: alto
+EXIGE: recipiente com água, pedra, madeira, garrafa plástica tampada
+REVISAO: 2026-11
+PALAVRAS-CHAVE: flutuação, empuxo, deslocamento, calado, afundar, virar
+==============================================================================
+
+OBJETIVO
+--------
+Entender por que o casco flutua e como reconhecer sobrecarga.
+
+QUANDO USAR
+-----------
+Ao observar o calado de um barco antes de embarcar.
+Ao distribuir peso ou carga em uma embarcação pequena.
+Ao notar que a embarcação aderna mais que o normal.
+Ao comparar o calado em água doce e em água salgada.
+Ao investigar por que certa carga faz a embarcação tombar.
+
+NAO USE QUANDO
+--------------
+Não use este texto para calcular carga máxima, estabilidade ou linha
+de carga de embarcação real. Ele não substitui o manual da embarcação,
+o certificado de linha de carga nem o cálculo de um profissional.
+Navegar com sobrecarga pode matar.
+
+MATERIAIS
+---------
+- Recipiente grande com água (balde ou caixa).
+- Pedra pequena.
+- Pedaço de madeira que caiba no recipiente.
+- Garrafa plástica com tampa.
+- Caneta ou fita para marcar o nível da água.
+- Opcional: sal para dissolver na água.
+
+PROCEDIMENTO
+------------
+1. Encha o recipiente com água até perto da borda.
+2. Coloque a pedra na água e veja o que acontece.
+3. Retire a pedra e coloque o pedaço de madeira.
+4. Observe que parte da madeira fica submersa e parte acima da água.
+5. Coloque a garrafa vazia e tampada na água.
+6. Observe que a garrafa flutua com pouca parte submersa.
+7. Retire a garrafa, encha-a com água, tampe e coloque de novo.
+8. Observe que a garrafa afunda ou fica quase toda submersa.
+9. Marque com caneta ou fita o nível da água na garrafa vazia.
+10. Incline a madeira e solte; observe se ela volta ao nível.
+11. Coloque a pedra no topo da madeira inclinada e observe.
+12. Dissolva sal na água, coloque a garrafa marcada e compare.
+
+ATENCAO
+-------
+O empuxo é a força da água para cima; o peso é a gravidade para baixo.
+O empuxo equivale ao peso da água deslocada pelo volume submerso:
+é o princípio de Arquimedes.
+A embarcação para de afundar quando o empuxo iguala o peso; esse
+peso é o deslocamento. Se o peso passar do volume estanque,
+a embarcação afunda.
+O volume estanque acima da linha d'água é a reserva de flutuabilidade.
+Sem ela, uma onda ou um furo podem afundar a embarcação.
+Peso colocado alto eleva o centro de gravidade e reduz a estabilidade.
+Tanque parcialmente cheio tem superfície livre e reduz a estabilidade.
+A linha de carga (marca de Plimsoll) é o limite legal de calado.
+Nunca ultrapasse a marca aplicável: ela garante bordo livre e reserva.
+Água salgada é mais densa que água doce; a embarcação flutua mais alto
+no mar e mais fundo em rio. Calado maior reduz o bordo livre.
+Este texto não substitui o manual da embarcação, o certificado de linha
+de carga nem orientação de quem conhece o barco. Em dúvida, não embarque.
+
+SE NAO TIVER
+------------
+Sem garrafa, use um pedaço de madeira ou uma caixa vazia e fechada.
+Sem sal, pule a comparação de densidade: o empuxo continua valendo.
+Sem caneta, use um fio amarrado ou a unha para marcar o nível.
+Nunca improvise boia com material que absorve água.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A pedra afunda; a madeira e a garrafa vazia flutuam com parte submersa;
+a garrafa cheia afunda; a marca na garrafa fica mais baixa na água
+salgada; a madeira inclinada volta ao nível.
+
+FONTES
+------
+Princípio de Arquimedes, deslocamento, centro de empuxo, centro de
+gravidade e metacentro: notas do curso En400 da Academia Naval dos
+Estados Unidos (USNA), capítulos 2 a 4.
+Bordo livre e linha de carga: Convenção Internacional sobre Linhas de
+Carga de 1966, da Organização Marítima Internacional (IMO).
+Artigo técnico da Sociedade Americana de Engenheiros Navais (ASNE),
+2026; artigo de engenharia naval da Encyclopaedia Britannica; notas
+de hidrodinâmica 13.012 do MIT.
+Texto operacional resumido; não substitui treinamento.

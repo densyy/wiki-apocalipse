@@ -1,0 +1,82 @@
+==============================================================================
+CODIGO: 52-015
+TITULO: Como compreender o funcionamento de engrenagens
+CATEGORIA: 52 - Física aplicada e princípios fundamentais
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: engrenagem, dente, pinhão, razão, torque, giro, módulo
+==============================================================================
+
+OBJETIVO
+--------
+Entender como engrenagens transmitem rotação e força entre dois eixos.
+
+QUANDO USAR
+-----------
+Quando escolher engrenagens para um mecanismo manual ou improvisado.
+Quando precisar aumentar a força ou a velocidade de rotação.
+Quando um par de engrenagens não encaixa ou não gira suave.
+Quando quiser prever para onde gira cada eixo de um trem de engrenagens.
+Quando comparar engrenagem com correia dentada ou corrente.
+
+NAO USE QUANDO
+--------------
+Não há contraindicacao para compreender o princípio. Não use o texto
+para abrir, reparar ou acionar máquina em movimento ou ligada à rede.
+
+MATERIAIS
+---------
+- Nenhum material obrigatório.
+- Papel e lápis para desenhar os círculos e contar dentes (opcional).
+- Duas engrenagens velhas para observar os dentes (opcional).
+
+PROCEDIMENTO
+------------
+1. Identifique os dentes: saliências iguais na borda da peça que gira.
+2. Chame de pinhão a menor e de roda a maior quando as duas engrazam.
+3. Entenda que os dentes não deslizam: cada dente entra no vão da outra.
+4. Desenhe o círculo primitivo: a volta onde os dentes se tocam.
+5. Declare a regra do encaixe: as duas precisam ter o mesmo módulo.
+6. Entenda o módulo: tamanho do dente; diferentes não encaixam.
+7. Observe o sentido: par externo gira em direções opostas.
+8. Aplique a razão: mais dentes, menos velocidade.
+9. Calcule: 10 dentes movem 40; a roda gira quatro vezes mais devagar.
+10. Entenda o troco: roda maior gira mais devagar e entrega mais torque.
+11. Reconheça a intermediária: muda o sentido, não muda a razão.
+12. Observe os tipos: dentes retos, helicoidais, cônicos, sem-fim e
+   cremalheira com pinhão.
+13. Entenda a cremalheira: barra reta com dentes que vira giro em avanço.
+14. Relacione o uso: motor rápido com pinhão pequeno move roda lenta e
+   forte.
+
+ATENCAO
+-------
+Entender o princípio não autoriza abrir, reparar ou tocar máquina ligada.
+Nunca encoste a mão num par em movimento: os dentes prendem dedos e roupa.
+Engrenagem sem proteção é ponto de esmagamento; desligue antes de agir.
+Dentes desgastados, sem óleo ou de módulos diferentes travam e quebram.
+Folga grande entre dentes causa ruído, impacto e desgaste rápido.
+Este texto explica o funcionamento, não ensina dimensionamento nem reparo.
+
+SE NAO TIVER
+------------
+Não há material ideal. Sem papel, desenhe os círculos mentalmente.
+Sem engrenagens, observe um relógio ou uma torneira: procure os dentes.
+Sem referência, lembre: mais dentes na saída, mais força e menos giro.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue dizer que dentes de mesmo módulo engrazam e que, num par
+externo, os sentidos de giro se opõem.
+Você aponta qual eixo gira mais devagar e qual entrega mais torque.
+
+FONTES
+------
+DOE Fundamentals Handbook, Mechanical Science (DOE-HDBK-1018/1-93
+e /2-93), seções sobre engrenagens e trens de engrenagens.
+Notas de aula de projeto de máquinas da UCSD (MAE 3) e do Carnegie
+Mellon (capítulo 7) sobre razão de velocidade, módulo e engrenagens
+intermediárias; apostila de Teoria das Máquinas do NIT Srinagar.
+Resumo operacional, não substitui treinamento.

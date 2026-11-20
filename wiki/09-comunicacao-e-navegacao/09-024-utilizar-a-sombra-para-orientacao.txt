@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 09-024
+TITULO: Como utilizar a sombra para orientação
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 10 minutos
+RISCO: medio
+EXIGE: luz solar, chão plano, bastão reto, algo para marcar o chão
+REVISAO: 2026-11
+PALAVRAS-CHAVE: sombra, sol, orientação, norte, sul, leste, oeste, bússola
+==============================================================================
+
+OBJETIVO
+--------
+Determine leste, oeste, norte e sul no terreno usando só a sombra do sol.
+
+QUANDO USAR
+-----------
+Quando não há bússola e o celular está sem bateria ou sem sinal.
+Quando o sol está visível e é preciso definir o rumo antes de andar.
+Quando o grupo se perdeu e precisa escolher um ponto de encontro.
+
+NAO USE QUANDO
+--------------
+Quando o céu está nublado e a sombra não fica nítida.
+Quando não há chão plano para fincar o bastão e marcar as pontas.
+
+MATERIAIS
+---------
+- Bastão reto de aproximadamente 1 metro (estaca ou galho sem curva).
+- Pedras ou gravetos para marcar a sombra (giz ou riscos na terra).
+- Chão plano, firme e limpo, com luz solar direta.
+
+PROCEDIMENTO
+------------
+1. Escolha chão plano, firme e sem sombra de árvore ou prédio.
+2. Faça a marcação perto do meio do dia, quando a sombra estiver curta.
+3. Crave o bastão no chão, o mais em pé que conseguir.
+4. Marque a ponta da sombra com uma pedra: é o ponto A, do oeste.
+5. Espere de 15 a 30 minutos sem mexer no bastão.
+6. Marque a nova ponta da sombra: é o ponto B, do leste.
+7. Trace uma linha reta no chão ligando o ponto A ao ponto B.
+8. Fique em pé sobre a linha, com o ponto A à esquerda e o B à direita.
+9. Olhe à frente: é o norte; atrás de você fica o sul.
+10. Confira: à direita está o leste e à esquerda está o oeste.
+
+ATENCAO
+-------
+O método dá direção aproximada, não um rumo preciso para navegar.
+O erro cresce se o intervalo for curto ou se o sol estiver baixo.
+Com nuvens ou sombra fraca, espere: sem marca nítida não há resultado.
+Chão inclinado, bastão torto ou marcas largas deslocam a linha.
+No Brasil, a sombra mais curta pode apontar para o sul, não para o norte.
+Se não houver sol ou chão para marcar, pare e procure ajuda.
+
+SE NAO TIVER
+------------
+Sem bastão, use um galho reto, uma estaca fina ou o cabo de uma ferramenta.
+Sem pedras, marque com gravetos, giz, cinza ou riscos na terra.
+Sem sol, espere. Não existe substituto caseiro confiável.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A ponta da sombra saiu da primeira marca e chegou à segunda, sobre a linha.
+Ao longo do dia, o sol nasce do lado leste e se põe do lado oeste marcados.
+
+FONTES
+------
+Prática consolidada de navegação sem instrumentos, registrada em
+manuais de sobrevivência e navegação de campanha. Resumo operacional.

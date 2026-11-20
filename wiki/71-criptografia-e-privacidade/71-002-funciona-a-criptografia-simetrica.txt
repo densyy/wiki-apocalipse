@@ -1,0 +1,81 @@
+==============================================================================
+CODIGO: 71-002
+TITULO: Como funciona a criptografia simétrica
+CATEGORIA: 71 - Criptografia, segurança da informação e privacidade
+TEMPO: 20 minutos
+RISCO: medio
+EXIGE: biblioteca de criptografia mantida, gerador de numeros aleatorios
+REVISAO: 2026-11
+PALAVRAS-CHAVE: criptografia, chave, segredo, cifrar, decifrar, aes
+==============================================================================
+
+OBJETIVO
+--------
+Entender como uma chave secreta protege os dados.
+
+QUANDO USAR
+-----------
+Quando precisar guardar arquivos ou mensagens em sigilo.
+Quando precisar enviar dados por canal que nao e confiavel.
+Quando o destinatario pode receber a mesma chave com seguranca.
+Quando o dispositivo nao tem como trocar chaves publicas.
+Quando precisar proteger backup salvo em meio removivel.
+
+NAO USE QUANDO
+--------------
+Quando nao houver canal seguro para entregar a chave.
+Quando for preciso provar a terceiros quem escreveu a mensagem.
+Quando a chave nao puder ser trocada depois de exposta.
+
+MATERIAIS
+---------
+- Chave secreta aleatoria de 128 bits ou mais (256 de preferencia).
+- Biblioteca de criptografia mantida e confiavel.
+- Gerador de numeros aleatorios seguro do sistema.
+- Modo autenticado disponivel, como GCM.
+- Canal separado para entregar a chave ao destinatario.
+
+PROCEDIMENTO
+------------
+1. Gere a chave secreta com gerador aleatorio seguro.
+2. Use 128 bits ou mais de chave; prefira 256 bits.
+3. Escolha o algoritmo AES em biblioteca mantida.
+4. Escolha modo autenticado, que confere integridade, como GCM.
+5. Gere um IV (vetor de inicializacao) novo e imprevisivel por mensagem.
+6. Cifre os dados com a chave, o IV e o modo escolhido.
+7. Guarde o IV junto do texto cifrado; ele nao e segredo.
+8. Entregue a chave por canal separado e seguro.
+9. Decifre com a mesma chave e o mesmo IV da mensagem.
+10. Aceite o resultado so se a autenticidade passar.
+11. Descarte a mensagem se a autenticidade falhar.
+12. Troque a chave se houver suspeita de vazamento.
+
+ATENCAO
+-------
+Nunca reutilize o mesmo IV com a mesma chave: quebra a seguranca.
+Nao use o modo ECB: ele revela padroes do texto original.
+Nao esconda a chave no codigo nem no mesmo arquivo dos dados.
+Se a verificacao falhar, nao confie no texto decifrado.
+Perder a chave significa perder o acesso aos dados para sempre.
+A chave e compartilhada, entao nao prova quem escreveu a mensagem.
+
+SE NAO TIVER
+------------
+Sem biblioteca mantida, nao existe substituto seguro: nao improvise.
+Sem canal seguro para a chave, nao cifre: chave exposta anula o sigilo.
+Sem gerador aleatorio, nao gere chave nem IV: saida previsivel falha.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O texto cifrado nao mostra palavras nem padroes do original.
+A mesma mensagem com IVs diferentes gera saidas diferentes.
+Com a chave e o IV corretos, o texto original volta.
+Alterar o texto cifrado faz a verificacao de autenticidade falhar.
+
+FONTES
+------
+NIST SP 800-38D, Recommendation for Block Cipher Modes of Operation:
+Galois/Counter Mode (GCM) and GMAC.
+OWASP Cryptographic Storage Cheat Sheet: algoritmos, modos e chaves.
+Pratica consolidada de seguranca da informacao; resumo operacional,
+nao substitui treinamento.

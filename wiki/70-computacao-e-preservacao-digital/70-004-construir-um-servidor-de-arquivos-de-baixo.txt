@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 70-004
+TITULO: Como construir um servidor de arquivos de baixo consumo
+CATEGORIA: 70 - Computação de baixo consumo e preservação digital
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: computador de baixo consumo, armazenamento, rede local, energia
+REVISAO: 2026-11
+PALAVRAS-CHAVE: servidor, arquivos, rede local, baixo consumo, compartilhar
+==============================================================================
+
+OBJETIVO
+--------
+Guardar e compartilhar arquivos na rede local com pouco consumo.
+
+QUANDO USAR
+-----------
+Quando vários aparelhos precisam dos mesmos arquivos sem internet.
+Quando a energia vem de bateria, painel solar ou fonte limitada.
+Quando os dados devem ficar em um ponto central e fácil de achar.
+
+NAO USE QUANDO
+--------------
+Quando os dados precisam de sigilo contra quem acessa a rede.
+Quando essa for a única cópia de arquivos insubstituíveis.
+
+MATERIAIS
+---------
+- Computador de baixo consumo (placa única, netbook ou máquina antiga).
+- Unidade SSD ou pendrive (disco rígido gasta mais energia).
+- Roteador ou switch local e cabo de rede, sem internet.
+- Sistema operacional leve e programa de compartilhamento de arquivos.
+
+PROCEDIMENTO
+------------
+1. Escolha o computador que servirá os arquivos.
+2. Ligue a unidade de armazenamento ao computador.
+3. Instale sistema operacional leve e remova o que não usa.
+4. Conecte o computador ao roteador por cabo e anote o endereço.
+5. Defina esse endereço como fixo na configuração de rede.
+6. Crie a pasta compartilhada e ative o serviço de arquivos.
+7. Crie usuário e senha e autorize escrita só nessa pasta.
+8. Desligue Bluetooth, tela e portas que não serão usadas.
+9. Abra a pasta em outro aparelho da mesma rede.
+
+ATENCAO
+-------
+A senha impede que outra pessoa da rede leia seus arquivos.
+Sem senha, qualquer aparelho conectado acessa a pasta.
+O servidor não substitui cópia de segurança: mantenha outra.
+Falha de energia ou do armazenamento pode apagar arquivos.
+Não exponha o servidor à internet e use criptografia se for sigiloso.
+
+SE NAO TIVER
+------------
+Sem placa única, use um computador antigo que já esteja parado.
+Sem SSD, use pendrive de boa qualidade; evite disco rígido.
+Sem roteador, use ponto de acesso local ou cabo entre aparelhos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O outro aparelho abre a pasta e vê os arquivos.
+O servidor responde após vários minutos em repouso.
+O arquivo copiado aparece inteiro no computador servidor.
+
+FONTES
+------
+Prática consolidada de servidores domésticos e redes locais, derivada
+de documentação de sistemas operacionais livres e manuais de computação
+de baixo consumo. Resumo operacional, não substitui treinamento.

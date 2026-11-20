@@ -1,0 +1,85 @@
+==============================================================================
+CODIGO: 03-049
+TITULO: Como reconhecer tétano
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 10 minutos
+RISCO: critico
+EXIGE: luz suficiente para observar, ambiente calmo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: tétano, trismo, boca travada, contratura, disfagia
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer os sinais do tétano e encaminhar a pessoa ao atendimento.
+
+QUANDO USAR
+-----------
+Pessoa com ferimento recente que começa a ter rigidez ou espasmos.
+Dificuldade para abrir a boca ou para engolir após um corte ou furo.
+Espasmos dolorosos desencadeados por barulho, luz ou toque.
+Ferimento com terra, poeira, fezes, água suja ou metal enferrujado.
+Pessoa sem vacina ou com reforço desatualizado que apresenta sintomas.
+Recém-nascido com dificuldade para mamar e choro constante.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Luz suficiente para observar (ou tela do celular).
+- Luvas descartáveis (ou sacola plástica limpa) se for tocar o ferimento.
+- Caderno ou celular para anotar a hora do início dos sinais.
+
+PROCEDIMENTO
+------------
+1. Garanta que o local é seguro antes de se aproximar.
+2. Peça à pessoa que abra a boca; observe se não consegue (trismo).
+3. Peça à pessoa que engula; observe se trava ou se dói (disfagia).
+4. Peça para virar a cabeça; observe se o pescoço fica rígido.
+5. Toque o abdome com leveza; observe se fica duro, em tábua.
+6. Peça para ficar de pé e andar; observe se trava ou cambaleia.
+7. Observe as costas; note se o tronco arqueia para trás (opistótono).
+8. Note o riso sardônico: sorriso forçado com sobrancelhas altas.
+9. Verifique se espasmos dolorosos surgem com barulho, luz ou toque.
+10. Pergunte se houve ferimento recente com terra, poeira ou água suja.
+11. Pergunte se houve furo profundo, queimadura ou objeto enferrujado.
+12. Anote a hora do início dos sinais e a situação vacinal, se souber.
+13. Mantenha a pessoa em lugar calmo, sem barulho nem luz forte.
+14. Encaminhe para atendimento urgente sem esperar os sinais piorarem.
+
+ATENCAO
+-------
+O tétano é uma emergência e pode matar mesmo com tratamento.
+Cerca de 1 em cada 10 casos evolui para morte, segundo o CDC.
+Não existe exame que confirme ou afaste o tétano: o diagnóstico é clínico.
+Quem tem tétano costuma ficar acordado e lúcido; isso não afasta o risco.
+Espasmos podem travar a respiração; não espere os sinais piorarem.
+Não trate em casa: o caso exige hospital, imunoglobulina e antibiótico.
+Sinais aparecem entre 3 e 21 dias após o ferimento, na maioria até 14.
+Fontes divergem: algumas descrevem 2 a 50 dias; na dúvida, considere.
+Não é contagioso de pessoa para pessoa; ajudar não transmite a doença.
+Meningite e intoxicação por estricnina podem parecer tétano.
+Não tente diagnosticar sozinho; encaminhe para avaliação.
+Recém-nascido que para de mamar e chora muito precisa de atendimento já.
+
+SE NAO TIVER
+------------
+Sem luz elétrica: use lanterna ou a tela do celular.
+Sem luvas para tocar o ferimento: use sacola plástica limpa nas mãos.
+Sem papel: memorize a hora e os sinais e repita ao profissional de saúde.
+Sem condição de levá-lo andando: peça ajuda para carregar sem sacudir.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A pessoa abre a boca e engole sem travar quando não há tétano.
+Trismo, disfagia ou abdome duro confirmam a suspeita de tétano.
+Espasmos ao menor barulho, luz ou toque reforçam a suspeita.
+A suspeita foi comunicada e o encaminhamento foi feito sem demora.
+
+FONTES
+------
+Ministério da Saúde do Brasil: Tétano Acidental e Nota Técnica Conjunta
+51/2024; ficha informativa da OMS sobre tétano; CDC, visão clínica e
+sinais clínicos do tétano. Prática de reconhecimento clínico consolidada.

@@ -1,0 +1,82 @@
+==============================================================================
+CODIGO: 77-007
+TITULO: Como construir um sistema de comunicação por bandeiras
+CATEGORIA: 77 - Comunicação anterior à eletricidade
+TEMPO: 45 minutos
+RISCO: baixo
+EXIGE: duas bandeiras, bastões, campo aberto e tabela de codigo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bandeira, semaforo, braco, letra, sinal, codigo, luz
+==============================================================================
+
+OBJETIVO
+--------
+Enviar mensagens curtas com a posição dos braços e das bandeiras.
+
+QUANDO USAR
+-----------
+Quando as duas pontas estiverem com vista livre e luz suficiente.
+Para trocar recados curtos entre torres ou pontos proximos.
+Quando o vento impedir fumaça e o sol estiver fraco.
+Ao treinar um grupo antes de precisar do sinal.
+
+NAO USE QUANDO
+--------------
+Nao use com neblina, chuva forte ou noite sem luz.
+Nao invente posicoes novas durante a mensagem.
+Nao coloque a bandeira onde possa enroscar em cerca ou arvore.
+Nao use bastao pontiagudo perto de outras pessoas.
+
+MATERIAIS
+---------
+- Duas bandeiras quadradas de cores contrastantes (pano ou papel).
+- Dois bastões leves presos as bandeiras (cabo de vassoura).
+- Tabela com as posicoes combinadas (papel ou caderno).
+- Pano de fundo escuro para aumentar o contraste (cobertor).
+- Relogio ou contador de tempo para marcar as pausas.
+
+PROCEDIMENTO
+------------
+1. Combine a tabela de posicoes com o outro ponto.
+2. Escolha lugar aberto com fundo escuro atrás de quem sinaliza.
+3. Segure uma bandeira em cada mao, com o braco estendido.
+4. Forme a primeira letra mantendo os bracos firmes por dois segundos.
+5. Volte os bracos a posicao de descanso entre as letras.
+6. Repita a letra duvidosa antes de seguir.
+7. Use um gesto combinado para separar palavras.
+8. Use outro gesto para indicar fim de mensagem.
+9. Escreva a mensagem antes de enviar, em poucas palavras.
+10. Peça ao outro ponto que repita o recebido.
+11. Confira a repeticao e corrija se algo mudou.
+12. Troque de lado quando o sol ficar de frente para o leitor.
+13. Guarde as bandeiras secas e sem dobras marcadas.
+14. Treine a tabela uma vez por semana.
+
+ATENCAO
+-------
+Bandeiras molhadas grudam no bastao e atrasam a leitura.
+Sol de frente ofusca quem lê: mude de posicao.
+Braco cansado treme e pode trocar uma letra por outra.
+Nao use lista longa sem pausa: o leitor perde a contagem.
+Se a repeticao divergir, pare e recomece a mensagem.
+Bastao pontiagudo pode ferir; use ponta arredondada.
+
+SE NAO TIVER
+------------
+Sem bandeira, use pano de cor forte preso ao antebraco.
+Sem bastao, segure o pano pela ponta com a mao.
+Sem tabela, combine quatro sinais basicos de memoria.
+Sem fundo escuro, use camisa escura como pano de fundo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As posicoes são lidas e repetidas sem troca de letra.
+A mensagem curta chega inteira ao outro ponto.
+Quem lê consegue distinguir as pausas entre palavras.
+As bandeiras estao secas e os bastoes sem ponta cortante.
+
+FONTES
+------
+Pratica consolidada de semaforo de bandeiras, sistema reconhecido
+de sinalizacao visual com duas bandeiras. As posicoes e os codigos
+usados devem ser combinados e treinados antes do uso.

@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 09-048
+TITULO: Como utilizar um celular Android completamente offline
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: celular Android, Google Maps, internet no preparo, carregador
+REVISAO: 2026-11
+PALAVRAS-CHAVE: celular, android, offline, mapas, sem sinal, navegação
+==============================================================================
+
+OBJETIVO
+--------
+Prepare o celular antes de perder o sinal e use mapas sem internet.
+
+QUANDO USAR
+-----------
+Quando a internet ou o sinal cair na região.
+Antes de viajar para área sem cobertura, ainda com internet.
+Quando a bateria estiver baixa e for preciso economizar.
+
+NAO USE QUANDO
+--------------
+Quando houver sinal e for preciso pedir socorro: use a ligação.
+Nao substitua o mapa de papel da região por este procedimento.
+
+MATERIAIS
+---------
+- Celular Android com Google Maps (outro app de mapas serve).
+- Internet no preparo e carregador ou bateria externa.
+- Papel e lápis para anotar pontos e contatos.
+
+PROCEDIMENTO
+------------
+1. Carregue o celular por completo antes de sair ou antes da tempestade.
+2. Abra o Google Maps com internet e entre na sua conta.
+3. Pesquise a cidade ou o ponto de destino.
+4. Na ficha do lugar, deslize para a direita e toque em Mais.
+5. Toque em Baixar mapa off-line e confirme o Download.
+6. Repita para cada área que o trajeto atravessar.
+7. Abra Mapas off-line no menu da foto de perfil e confira a lista.
+8. Fotografe documentos e salve contatos no aparelho; ative o modo avião.
+9. Desligue sincronização e atualizações automáticas que gastam bateria.
+10. Sem sinal, use o mapa baixado; prefira texto a ligação.
+
+ATENCAO
+-------
+Sem internet, não há rotas de ônibus, bicicleta ou a pé.
+Sem internet, não há trânsito nem rotas alternativas ao dirigir.
+Mapas baixados expiram: confira a validade e atualize em Wi-Fi.
+Alguns países não permitem baixar mapas off-line.
+Se houver sinal, ligue para pedir socorro; texto não substitui chamada.
+
+SE NAO TIVER
+------------
+Sem internet para baixar, use mapa de papel e anote o trajeto.
+Sem bateria externa, desligue o celular quando não for usá-lo.
+Sem Google Maps, use outro app de mapas com download de áreas.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A lista Mapas off-line mostra a área salva como disponível.
+Com modo avião, o mapa abre e guia a rota dentro da área baixada.
+
+FONTES
+------
+Ajuda do Google Maps: baixar áreas e navegar off-line no Android,
+artigo 6291838. FEMA: guias Get Tech Ready e Build A Kit
+(modo avião, baixo consumo, mensagens em rede instável, mapas locais).

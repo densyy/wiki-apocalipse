@@ -1,0 +1,92 @@
+==============================================================================
+CODIGO: 56-018
+TITULO: Como compreender polinização controlada
+CATEGORIA: 56 - Reprodução, genética e melhoramento
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: papel, caneta ou lápis, flores da cultura se houver
+REVISAO: 2026-11
+PALAVRAS-CHAVE: polinização, pólen, estigma, emasculação, híbrido
+==============================================================================
+
+OBJETIVO
+--------
+Entender o que é polinização controlada e como escolher os pais da semente.
+
+QUANDO USAR
+-----------
+Quando você quer guardar semente de uma planta desejada.
+Quando quer cruzar duas variedades e saber quem é o pai e quem é a mãe.
+Quando abelhas ou vento podem trazer pólen indesejado até a flor.
+Quando aparece planta diferente e você quer saber se o traço passa.
+Quando ouvir falar em híbrido, F1 ou linhagem pura.
+
+NAO USE QUANDO
+--------------
+Não use para prometer variedade estável logo no primeiro cruzamento.
+Não use para forçar cruzamento entre espécies incompatíveis.
+Não use como prova de que o traço é útil: exige teste de campo.
+
+MATERIAIS
+---------
+- Papel para desenhar a flor e anotar.
+- Caneta ou lápis.
+- Flores da cultura que você quer cruzar, se houver.
+- Saco de papel ou gaze e barbante, se for aplicar a técnica.
+
+PROCEDIMENTO
+------------
+1. Defina polinização como a passagem do pólen da antera ao estigma.
+2. Defina antera como a parte masculina da flor, que produz o pólen.
+3. Defina estigma como a ponta feminina da flor, que recebe o pólen.
+4. Explique autopolinização: a própria flor fecunda o seu estigma.
+5. Explique polinização cruzada: o pólen vem de outra planta.
+6. Defina polinização controlada: você escolhe quais plantas cruzar.
+7. Anote o objetivo: saber quem é o pai e quem é a mãe da semente.
+8. Escolha a planta mãe com a característica que você quer guardar.
+9. Escolha a planta pai com a característica que você quer acrescentar.
+10. Antes de a flor abrir, retire as anteras da flor mãe com cuidado.
+11. Explique que isso é a emasculação e evita a autopolinização.
+12. Cubra a flor mãe com saco de papel ou gaze e prenda com barbante.
+13. Anote que o saco barra o pólen levado por abelhas ou pelo vento.
+14. Espere o estigma da mãe ficar pegajoso: está receptivo.
+15. Colete pólen do pai quando as anteras dele se abrirem.
+16. Retire o saco, toque o pólen no estigma e recoloque o saco.
+17. Escreva no saco a data e o nome das duas plantas usadas.
+18. Deixe o fruto amadurecer no saco e colha a semente identificada.
+19. Guarde essa semente separada, junto com a etiqueta do cruzamento.
+20. Plante no ciclo seguinte e compare as plantas com os dois pais.
+
+ATENCAO
+-------
+Se a flor abrir antes da emasculação, descarte: pode autopolinizar.
+Saco molhado apodrece a flor: use papel seco e troque se molhar.
+Erro comum é emascular tarde, depois que as anteras soltaram pólen.
+Tocar o estigma com mão suja de pólen estranho contamina o cruzamento.
+Nem qualquer cruzamento gera semente: espécies podem ser incompatíveis.
+Híbrido F1 não é estável: na geração seguinte os traços se separam.
+Este texto não substitui orientação técnica de um melhorista.
+
+SE NAO TIVER
+------------
+Sem saco de papel, use gaze ou pano fino preso com barbante.
+Sem saber quando o estigma está receptivo, observe: ele fica pegajoso.
+Sem duas plantas, observe uma flor para entender a autopolinização.
+Sem condição de ensacar, aceite que o pai pode ser desconhecido.
+Sem laboratório, faça só cruzamentos visíveis e registre o que fez.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você explica a diferença entre os dois tipos de polinização.
+Você aponta na flor a antera e o estigma.
+Você diz por que a emasculação vem antes da abertura da flor.
+A semente colhida tem etiqueta com pai, mãe e data.
+Na plantação seguinte aparecem traços dos dois pais.
+
+FONTES
+------
+Prática consolidada de melhoramento vegetal e produção de sementes.
+Embrapa: referência brasileira sobre sementes, híbridos e qualidade.
+OpenStax, Concepts of Biology: reprodução de plantas e polinização.
+Learn.Genetics da Universidade de Utah: herança e cruzamentos.
+Este texto é um resumo operacional, não substitui treinamento.

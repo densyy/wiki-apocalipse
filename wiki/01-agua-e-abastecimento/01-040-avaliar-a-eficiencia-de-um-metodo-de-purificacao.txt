@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 01-040
+TITULO: Como avaliar a eficiência de um método de purificação
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: dois frascos limpos, etiquetas, caderno, testes de campo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, purificação, turbidez, coliformes, cloro, teste
+==============================================================================
+
+OBJETIVO
+--------
+Comparar a água antes e depois do tratamento e decidir se pode beber.
+
+QUANDO USAR
+-----------
+Depois de filtrar, ferver, clorar ou expor a água ao sol.
+Ao trocar de fonte de água ou de método de purificação.
+Ao limpar filtro de areia ou trocar vela de cerâmica.
+Quando a água tratada ficou turva, com cheiro ou gosto estranho.
+Antes de dar a água a crianças, idosos ou doentes.
+
+NAO USE QUANDO
+--------------
+Quando houver suspeita de combustível, agrotóxico ou metal na água.
+Os testes de cloro e coliformes nao detectam esses contaminantes.
+Nesse caso, nao beba. Procure outra fonte ou ajuda.
+
+MATERIAIS
+---------
+- Dois frascos limpos com tampa: um para "antes", outro para "depois".
+- Etiquetas ou papel e lápis para identificar cada amostra.
+- Caderno para anotar hora, resultado e decisao.
+- Luz forte ou fundo escuro para olhar a transparência.
+- Teste de cloro DPD com escala de cores, se houver.
+- Teste de coliformes para 100 ml, de kit ou laboratório, se houver.
+- Luvas e óculos se for manusear cloro concentrado.
+
+PROCEDIMENTO
+------------
+1. Escreva "antes" e "depois" nos frascos, com a data.
+2. Encha o frasco "antes" com água bruta, sem tocar na boca dele.
+3. Aplique o método de purificação escolhido na água bruta.
+4. Encha o frasco "depois" com a água já tratada.
+5. Anote a hora, o método e o tempo de contato usado.
+6. Coloque uma letra impressa atrás de cada frasco, na mesma luz.
+7. Observe se a letra fica legível através da água tratada.
+8. Meça a turbidez com tubo ou turbidímetro, se houver, em NTU.
+9. Se usou cloro, espere 30 minutos após a dose para testar.
+10. Adicione um tablete DPD à amostra "depois" e agite.
+11. Compare a cor rosa com a escala e anote o valor em mg/L.
+12. Repita o teste de cloro após o tempo de armazenamento.
+13. Teste a amostra "depois" para E. coli em 100 ml, se houver kit.
+14. Anote apenas "ausente" ou "presente" se o teste for assim.
+15. Se o teste der numero de colonias, anote antes e depois.
+16. Divida o numero "antes" pelo "depois" para obter a reducao.
+17. Converta em log: 10 vezes menos equivale a 1 log, ou 90%.
+18. Compare: sem E. coli em 100 ml e turbidez abaixo de 1 NTU.
+19. Se usou cloro, exija 0,2 a 0,5 mg/L de cloro livre.
+20. Repita a medição em outro dia antes de confiar no método.
+
+ATENCAO
+-------
+Turvação acima de 5 NTU protege germes e enfraquece a ação do cloro.
+Teste de presença e ausência não prova que a água está estéril.
+Um resultado negativo em 100 ml não cobre todo o volume guardado.
+Cloro livre zero: não há proteção contra recontaminação.
+Filtro de areia ou cerâmica sozinho não basta: desinfete depois.
+Nao beba água com cheiro de combustível ou gosto metálico.
+Lave as mãos antes de testar e não toque no interior dos frascos.
+Pare de usar o método e procure ajuda se alguém adoecer.
+
+SE NAO TIVER
+------------
+Sem teste de coliformes, não afirme que a água é segura.
+Use a transparência só como alerta, nunca como prova de segurança.
+Sem escala de cloro, refaça a dose e o tempo de contato.
+Sem turbidímetro, anote "turva" ou "límpida" pelo teste da letra.
+Nesses casos, ferver a água e buscar outra fonte é mais seguro.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A amostra "depois" não apresenta E. coli em 100 ml no teste usado.
+A letra atrás do frasco "depois" fica nítida e a água não tem cheiro.
+A turbidez ficou abaixo de 1 NTU e nunca passou de 5 NTU.
+O cloro livre ficou entre 0,2 e 0,5 mg/L após 30 minutos.
+Os mesmos resultados apareceram em dois dias diferentes.
+
+FONTES
+------
+Diretrizes de água potável da OMS: E. coli ausente em 100 ml e alvo de
+turbidez abaixo de 1 NTU. Nota Técnica 11 da OMS: cloro residual de 0,2
+a 0,5 mg/L. Regras de água potável da EPA: turbidez e redução de germes.
+CDC: teste de cloro livre com DPD. Compêndio SSWM sobre filtro de areia,
+baseado em manual CAWST e estudos de campo revisados.

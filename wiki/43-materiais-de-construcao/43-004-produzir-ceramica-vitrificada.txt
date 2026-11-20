@@ -1,0 +1,93 @@
+==============================================================================
+CODIGO: 43-004
+TITULO: Como produzir cerâmica vitrificada
+CATEGORIA: 43 - Produção de materiais de construção
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: forno de alta temperatura, lenha seca, argila, ventilação, luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: cerâmica, argila, forno, queima, vidro, impermeável, vaso
+==============================================================================
+
+OBJETIVO
+--------
+Produzir peças de argila duras e impermeáveis após queima em forno.
+
+QUANDO USAR
+-----------
+Quando precisar de vasos, telhas ou tijolos que não absorvam água.
+Quando houver forno de barro ou fornalha e lenha seca em quantidade.
+Quando a peça ficará exposta à chuva ou ao solo úmido.
+
+NAO USE QUANDO
+--------------
+Quando não houver forno que atinja alta temperatura e boa ventilação.
+Quando a peça vai guardar água potável ou alimentos sem esmalte atóxico.
+Quando a argila vier de solo contaminado por óleo, metal ou lixo.
+Quando não der para manter crianças e animais longe do fogo.
+
+MATERIAIS
+---------
+- Argila de olaria limpa, sem pedras, raízes ou resíduos (terra barrenta).
+- Água limpa para amassar.
+- Forno de barro ou fornalha de tijolo (veja 02-101 para construir).
+- Lenha seca ou carvão; nunca plástico, borracha, madeira pintada ou
+  tratada, que soltam vapores tóxicos.
+- Luvas grossas e secas, mangas longas e óculos de proteção.
+- Pano seco, areia ou extintor para apagar brasas.
+- Espátula, faca sem ponta ou pedra lisa para moldar.
+
+PROCEDIMENTO
+------------
+1. Retire pedras e raízes da argila com as mãos.
+2. Amasse a argila com água aos poucos até virar massa firme, sem grumos.
+3. Modele a peça com a espátula ou com as mãos, com paredes uniformes.
+4. Faça furos de ar se a peça for grande ou de paredes espessas.
+5. Seque a peça à sombra, em local arejado, por aproximadamente 3 dias.
+6. Vire a peça uma vez por dia para secar por igual e não empenar.
+7. Nunca apresse a secagem no fogo direto: a água presa estoura a peça.
+8. Carregue o forno com a peça seca, sem encostar nas paredes.
+9. Acenda o fogo com lenha miúda e mantenha a boca do forno aberta.
+10. Aumente o fogo aos poucos por aproximadamente 1 hora para expulsar
+    a umidade restante.
+11. Alimente o fogo até aproximadamente 900 a 1200 graus Celsius, faixa
+    que vitrifica a argila comum de olaria.
+12. Mantenha essa intensidade por aproximadamente 2 horas sem abrir.
+13. Use óculos e luvas secas; nunca toque a peça com pano úmido.
+14. Desligue o fogo e espere aproximadamente 12 horas para abrir.
+15. Retire com luvas secas e espere esfriar antes de tocar com as mãos.
+
+ATENCAO
+-------
+Fogo de forno queima a pele em segundos e pode ateigar roupas.
+Nunca acenda forno dentro de casa, barraca ou depósito fechado.
+Monóxido de carbono não tem cheiro e pode matar durante o sono: ventile.
+Nunca tampe a saída de fumaça nem use o forno para aquecer o ambiente.
+Lenha tratada, plástico ou borracha liberam vapores tóxicos no forno.
+Peça úmida ou com água presa pode estourar e projetar estilhaços quentes.
+Abrir a porta depressa causa choque térmico e racha a peça e o forno.
+Fundentes como sal ou cinza soltam vapores irritantes: não inale de perto.
+Se sentir tontura, dor de cabeça ou falta de ar, saia para o ar livre.
+Mantenha areia, água ou extintor perto e afaste folhas secas do forno.
+
+SE NAO TIVER
+------------
+Sem forno que atinja alta temperatura, não há vitrificação verdadeira.
+Queima em fogueira aberta com lenha seca endurece a peça, mas deixa poros:
+serve para vasos de plantas, não para guardar água.
+Não improvise com tambor de lixo, lata fechada ou forno dentro de casa.
+Se faltar lenha, pare a queima e espere; não use lixo como combustível.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A peça fria não absorve um pingo de água em alguns minutos.
+A superfície fica lisa, dura e levemente brilhante.
+A borda fina deixa passar um pouco de luz.
+Ao bater com a unha, o som é claro e metálico, não surdo.
+
+FONTES
+------
+Prática consolidada de olaria e cerâmica artesanal, sem documento único.
+Riscos de fogo e ventilação: FM 21-76, manual de sobrevivência civil do
+Exército dos EUA, e manual de combate a incêndio dos bombeiros.
+Para construir o forno de barro, leia 02-101 como leitura extra.

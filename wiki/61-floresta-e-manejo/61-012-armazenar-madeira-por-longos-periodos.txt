@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 61-012
+TITULO: Como armazenar madeira por longos períodos
+CATEGORIA: 61 - Agricultura florestal e manejo de ecossistemas
+TEMPO: 6 horas para montar a pilha
+RISCO: medio
+EXIGE: madeira serrada, terreno drenado, suportes, sarrafos, cobertura
+REVISAO: 2026-11
+PALAVRAS-CHAVE: madeira, estocar, guardar, secar, umidade, mofo, cupins
+==============================================================================
+
+OBJETIVO
+--------
+Conservar madeira serrada por meses sem mofo, apodrecimento ou cupins.
+
+QUANDO USAR
+-----------
+Ao guardar madeira serrada para uso futuro em obra, cerca ou móvel.
+Quando a madeira verde precisa secar antes de ser empregada.
+
+NAO USE QUANDO
+--------------
+Quando o terreno ficar alagado ou não houver lugar ventilado e elevado.
+Quando não houver como proteger a pilha da chuva e do sol direto.
+
+MATERIAIS
+---------
+- Madeira serrada, sem casca e sem sinais de fungo (toras descascadas).
+- Suportes de alvenaria, pedra ou madeira tratada para a base.
+- Sarrafos secos, retos e sem casca, de aproximadamente 2,5 cm.
+- Tábuas velhas, telha ou lona para cobrir a pilha.
+
+PROCEDIMENTO
+------------
+1. Escolha terreno seco, drenado, ventilado, longe de mato e de fogo.
+2. Retire tocos e restos de madeira; marque o contorno com estacas.
+3. Assente suportes nivelados e eleve as travessas a aproximadamente 40 cm.
+4. Apoie as travessas nos suportes, a cada aproximadamente 1,5 m.
+5. Separe peças com fungo ou furos de inseto das peças sadias.
+6. Coloque a primeira camada sobre as travessas, com 3 a 10 cm entre peças.
+7. Coloque sarrafos secos na direção oposta, alinhados uns sobre os outros.
+8. Apoie as extremidades de cada peça sobre um sarrafo e repita as camadas.
+9. Mantenha até aproximadamente 2,5 m de altura e 2 m de largura.
+10. Cubra o topo com telha ou lona inclinada que passe das bordas.
+
+ATENCAO
+-------
+Madeira acima de 20% de umidade alimenta fungos que a apodrecem.
+Abaixo de 20%, a madeira fica praticamente imune à maioria dos fungos.
+Nunca encoste madeira no solo: cupins chegam pela terra e por galerias.
+Lona plástica colada nas laterais prende umidade; deixe folga para o ar.
+
+SE NAO TIVER
+------------
+Sem medidor, mantenha os separadores e não declare a madeira seca.
+Sem sarrafos, use ripas retas e secas de igual espessura.
+Sem lona, cubra com tábuas velhas sobre ripas inclinadas.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A base fica firme e a madeira não toca o solo em nenhum ponto.
+Os sarrafos estão alinhados e a cobertura escoa a água para fora.
+Com medidor, o centro da pilha marca menos de 20% de umidade.
+Não há cheiro de mofo, manchas escuras, pó fino ou furos de insetos.
+
+FONTES
+------
+Embrapa, Processos Práticos para Preservar a Madeira, Colombo, 2004.
+USDA Forest Service, FPL, Air Drying of Lumber, FPL-GTR-117, 1999.
+LPF, Secagem de madeira serrada, 1988. Resumo operacional.

@@ -1,0 +1,97 @@
+==============================================================================
+CODIGO: 15-007
+TITULO: Como extrair fibras de bambu
+CATEGORIA: 15 - Têxteis, roupas e produção artesanal
+TEMPO: 120 minutos
+RISCO: alto
+EXIGE: colmo de bambu maduro, água limpa, faca, bastão, pente, luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bambu, fibra, maceração, retting, raspar, pentear, fio
+==============================================================================
+
+OBJETIVO
+--------
+Obter feixes de fibra do colmo de bambu para fiar, trançar ou amarrar.
+
+QUANDO USAR
+-----------
+Quando há bambu maduro disponível e falta material para trançar ou fiar.
+Quando o suprimento de corda, cesto ou tecido acabou.
+Para aproveitar sobras de colmo de cerca ou construção.
+
+NAO USE QUANDO
+--------------
+Não use bambu tratado com preservativo, tinta, verniz ou agrotóxico.
+Não use colmo verde novo, com menos de aproximadamente 3 anos.
+Não use bambu mofado, apodrecido ou com cheiro químico.
+Não use fibra sem lavar para tocar ferida aberta ou embalar comida.
+
+MATERIAIS
+---------
+- Um colmo de bambu maduro, com aproximadamente 3 anos.
+- Água limpa e balde ou tanque com pano para cobrir.
+- Faca resistente ou serra (podão ou faca de açougueiro).
+- Bastão liso para bater e pedra ou tábua para apoiar.
+- Pente de madeira ou plástico resistente (garfo de madeira).
+- Luvas de couro ou pano grosso (pedaço de camisa dobrada).
+- Corda ou barbante para amarrar o feixe de tiras.
+- Local sombreado, arejado e protegido da chuva para secar.
+
+PROCEDIMENTO
+------------
+1. Confirme a espécie e a idade do colmo antes de cortar.
+2. Corte o colmo acima da base e acima do primeiro nó com faca ou serra.
+3. Retire os nós com a ponta da faca, cortando sempre para fora do corpo.
+4. Apoie o colmo na pedra e abra-o em aproximadamente 8 lascas.
+5. Raspe a camada verde externa e a camada lisa interna de cada lasca.
+6. Corte cada lasca em tiras com aproximadamente 3 mm de espessura.
+7. Corte as tiras no comprimento do entrenó, entre dois nós seguidos.
+8. Amarre as tiras em feixe frouxo, sem apertar.
+9. Mergulhe o feixe em água limpa, em recipiente aberto e na sombra.
+10. Deixe macerar aproximadamente 3 dias e troque a água todos os dias.
+11. Retire o feixe quando as tiras começarem a soltar filamentos.
+12. Escorra o feixe sem torcer.
+13. Bata cada tira com o bastão sobre a pedra, de leve, para amolecer.
+14. Raspe a polpa restante com a faca, da base para a ponta.
+15. Penteie os filamentos do nó para a ponta, sem puxar com força.
+16. Repita o penteado até a fibra formar uma manga alinhada.
+17. Retire pedaços curtos, cascas e sujeira com os dedos.
+18. Enxágue a fibra em água limpa e escorra sem torcer.
+19. Estenda a fibra em camada fina na sombra até secar por completo.
+20. Enrole a fibra seca em novelo e prenda com barbante.
+
+ATENCAO
+-------
+A faca corta fundo: corte para fora do corpo e mantenha as luvas.
+A maceração apodrece: troque a água, nunca a beba e lave as mãos.
+O tempo varia: tiras finas levam aproximadamente 3 dias, mas colmos mais
+velhos e grossos levam até 24 dias; se virar polpa, passou do ponto.
+Sílica e farpas de bambu ferem pele e olhos: use luvas e raspe de leve.
+Fibra seca pega fogo fácil: mantenha-a longe de fogueira e brasa.
+Se a faca cortar, lave o ferimento e procure ajuda se o corte for fundo.
+
+SE NAO TIVER
+------------
+Sem faca, use serra pequena ou pedra afiada, com muito cuidado.
+Sem pente, passe um garfo de madeira ou os dedos entre os filamentos.
+Sem bastão, bata com a mão protegida por luva ou com graveto liso.
+Sem tanque, use balde velho reservado só para a maceração.
+Sem água corrente, reaproveite a água, mas troque se escurecer ou feder.
+Não use soda cáustica, ácido ou lixívia: queimam a pele e enfraquecem
+a fibra. Esses métodos exigem controle industrial e proteção química.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As tiras maceradas soltam filamentos ao serem puxadas com leveza.
+A fibra penteada forma manga contínua, sem grumos de polpa.
+A fibra seca não quebra ao ser puxada com força leve entre as mãos.
+A cor fica uniforme, sem manchas escuras de mofo.
+
+FONTES
+------
+Maceração em água e extração mecânica: Ramprasad et al., Optimization and
+Extraction of Natural Long Bamboo Fibers, IJLTEMAS, 2018, IPIRTI Bangalore.
+Revisão do método: Li et al., Evaluation of bamboo water-retting for fiber
+bundle extraction, Textile Research Journal, 2021. Contexto da fibra e uso
+têxtil: Embrapa, O potencial do bambu, Revista O Papel, 2015, e FAO, World
+bamboo resources, 2007. Resumo operacional; não substitui treinamento.

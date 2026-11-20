@@ -1,0 +1,88 @@
+==============================================================================
+CODIGO: 15-022
+TITULO: Como impermeabilizar tecidos
+CATEGORIA: 15 - Têxteis, roupas e produção artesanal
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: tecido de algodão ou lona limpo, cera em barra, sol forte, pano velho
+REVISAO: 2026-11
+PALAVRAS-CHAVE: tecido, impermeabilizar, cera, parafina, lona, encerar, água
+==============================================================================
+
+OBJETIVO
+--------
+Tornar um tecido de algodão ou lona resistente à água da chuva.
+
+QUANDO USAR
+-----------
+Quando uma capa, tenda, mochila ou jaqueta de algodão molha fácil.
+Quando não há impermeabilizante comprado disponível.
+Antes de guardar equipamento de pano para uso na chuva.
+Quando a cera aplicada antes já não faz a água escorrer.
+
+NAO USE QUANDO
+--------------
+Em tecido com membrana industrial, como casaco técnico impermeável.
+Em roupa de dormir, roupa íntima ou pano que precise respirar.
+Em tecido com resíduo de óleo, combustível, tinta ou solvente.
+Perto de fogo, forno, fogão ou calor forte.
+Na pele, em feridas ou em recipiente de água potável.
+
+MATERIAIS
+---------
+- Tecido de algodão ou lona, limpo e completamente seco.
+- Cera de abelha ou parafina em barra (cera de vela comum, sem perfume).
+- Superfície plana protegida com papelão, jornal ou pano velho.
+- Local ao ar livre, com sol forte e sem poeira.
+- Pano limpo e seco para retirar o excesso.
+- Papel ou pano para proteger as mãos do atrito.
+
+PROCEDIMENTO
+------------
+1. Lave o tecido e espere secar por completo antes de começar.
+2. Estenda o tecido sobre a superfície protegida, sem dobras.
+3. Esfregue a barra de cera em toda a face externa, com pressão.
+4. Cubra também as costuras e as bordas, onde a água entra primeiro.
+5. Vire a peça e esfregue cera na face interna se ela também molha.
+6. Leve o tecido ao sol forte por aproximadamente 1 hora.
+7. Toque com cuidado: a cera deve estar mole, mas não escorrer.
+8. Retire o excesso com o pano seco, sem tirar toda a cera.
+9. Deixe o tecido esfriar e endurecer antes de dobrar ou vestir.
+10. Esfregue de novo nas partes onde a água ainda penetra.
+
+ATENCAO
+-------
+Isto dá resistência à chuva, não impermeabilidade total.
+Não substitui membrana industrial nem resiste a pressão ou imersão.
+Costuras, zíperes e emendas continuam deixando água passar.
+Cera muito quente queima a pele e pode pegar fogo em panela aberta.
+Nunca derreta cera em fogo direto nem deixe cera derretida sem vigia.
+Panos com óleo de linhaça podem pegar fogo sozinhos quando amontoados.
+Nunca amontoe panos tratados, nem os guarde em saco plástico.
+O tratamento escurece o tecido: teste antes em uma parte pequena.
+A cera sai com lavagem, suor e calor e precisa ser renovada.
+Pare se sentir cheiro de queimado ou vir fumaça; afaste o material.
+
+SE NAO TIVER
+------------
+Sem sol, passe ferro morno, sem vapor, com pano limpo por cima da cera.
+Nunca encoste o ferro na cera: ela gruda, queima o tecido e pode inflamar.
+Sem cera, não use óleo de cozinha nem óleo de linhaça no lugar:
+em panos amontoados esses óleos podem entrar em combustão espontânea.
+Nesse caso, mantenha o tecido seco e procure cera antes de tratar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A face tratada ficou mais escura e com brilho leve e irregular.
+Pingos de água ficam arredondados na superfície, não encharcam.
+Inclinando o pano, a água escorre em gotas.
+A face interna fica seca depois de uma chuva leve.
+
+FONTES
+------
+Prática consolidada de enceramento de lona e algodão, sem documento único.
+Alerta de incêndio do Serviço Nacional de Parques dos Estados Unidos (2023)
+sobre combustão espontânea de panos embebidos em óleo de linhaça.
+Orientação do Corpo de Bombeiros de East Sussex (2025) sobre esse risco.
+Fichas de segurança de parafina da Sigma-Aldrich e Flinn Scientific.
+Resumo operacional; não substitui treinamento nem produto certificado.

@@ -1,0 +1,92 @@
+==============================================================================
+CODIGO: 60-008
+TITULO: Como planejar abastecimento de água de uma comunidade
+CATEGORIA: 60 - Arquitetura, urbanismo e assentamentos
+TEMPO: 4 horas
+RISCO: medio
+EXIGE: mapa, caderno, fita métrica, relógio, balde, lista de moradores
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, abastecimento, comunidade, poço, filtro, emergência
+==============================================================================
+
+OBJETIVO
+--------
+Dimensionar fontes, tratamento e reserva de água para atender uma comunidade
+sem rede pública.
+
+QUANDO USAR
+-----------
+Ao instalar um assentamento novo sem rede de água.
+Quando a fonte atual seca ou mostra sinal de contaminação.
+Antes da estação seca ou de um período de crise.
+Quando o número de moradores cresce e a captação atual não atende.
+Ao preparar abrigo coletivo para evacuados.
+
+NAO USE QUANDO
+--------------
+Quando há rede pública operando e com qualidade comprovada: não a substitua.
+Quando não há fonte de água acessível a pé: resolva primeiro o acesso.
+Este planejamento não substitui projeto de engenharia para obra permanente.
+
+MATERIAIS
+---------
+- Mapa da área ou papel para desenhar (caderno quadriculado).
+- Fita métrica ou corda com nós a cada metro.
+- Caderno e lápis.
+- Lista de moradores com o número de pessoas de cada casa.
+- Balde de 10 litros (ou garrafa de 1 litro) e relógio para medir vazão.
+
+PROCEDIMENTO
+------------
+1. Some as pessoas da lista, incluindo crianças, idosos e gestantes.
+2. Multiplique o total por aproximadamente 15 litros por pessoa ao dia.
+3. Percorra a área a pé e marque no mapa nascentes, rios, poços, cisternas
+   e pontos de captação de água da chuva.
+4. Anote a distância de cada fonte até o centro e o desnível do terreno.
+5. Descarte fontes a mais de aproximadamente 500 m de caminhada ou com
+   desnível grande: o esforço reduz o uso.
+6. Visite cada fonte na estação seca; se secar, classifique como sazonal.
+7. Observe cheiro, cor, espuma e animais mortos; suspeite de água perto de
+   latrinas, curral ou despejo.
+8. Escolha a fonte protegida mais próxima como principal e mantenha uma
+   secundária para quando a primeira falhar.
+9. Cronometre quanto tempo a fonte leva para encher o balde de 10 litros.
+10. Anote a vazão em litros por minuto e multiplique por 60 para o dia.
+11. Compare a vazão diária com a meta do passo 2; se faltar água, aumente
+    o número de pontos ou corte usos não essenciais.
+12. Marque a captação sempre acima e a montante das latrinas e do curral.
+13. Reserve áreas a jusante da fonte, nesta ordem: lavar roupas, banhar e
+    descarregar águas usadas.
+14. Preveja filtragem e fervura no próprio ponto, antes de qualquer uso.
+15. Guarde reserva tampada para pelo menos 2 dias de consumo.
+16. Nomeie responsáveis pela limpeza e pela ordem de uso do ponto.
+
+ATENCAO
+-------
+A meta de 15 litros é um mínimo humanitário, não uma garantia de saúde.
+Água abundante atrai animais e pode gerar conflito sem regra de uso.
+Nunca instale captação a jusante de latrinas, curral ou lixo: o escoamento
+leva fezes para a água. Ferver não remove combustível, agrotóxico, metal
+pesado nem sal; com suspeita química, mude de fonte. Sem vazão suficiente
+na estação seca o plano falha: reduza o atendimento ou ache outra fonte.
+
+SE NAO TIVER
+------------
+Sem fita métrica, meça em passos ou com corda com nós. Sem balde, use
+garrafa de 1 litro e multiplique. Sem mapa, desenhe o croqui no caderno.
+Sem fonte protegida, priorize água da chuva de telhado limpo e trate antes
+de beber. Não use água parada sem tratamento.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O croqui mostra todas as fontes com distância, vazão e riscos anotados.
+A soma da vazão das fontes escolhidas supera a meta diária calculada.
+Há reserva tampada, captação acima das latrinas e responsáveis nomeados.
+
+FONTES
+------
+Fichas temáticas da OMS sobre água potável e saneamento: água segura,
+suficiente e planos de segurança da água. Manual Sphere (Sphere Handbook),
+padrão humanitário de abastecimento de água: meta mínima diária e
+distância máxima do ponto de água. Prática consolidada de planejamento de
+assentamentos; resumo operacional, não substitui projeto de engenharia.

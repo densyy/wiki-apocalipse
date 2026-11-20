@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 51-028
+TITULO: Como construir tabelas de conversão
+CATEGORIA: 51 - Matemática aplicada à sobrevivência
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: papel, lápis, fatores de conversão conhecidos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: conversão, unidade, fator, tabela, medidas, polegada, litro
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma tabela própria que converte entre unidades sem calculadora.
+
+QUANDO USAR
+-----------
+Quando precisa converter medidas repetidas e não há tabela pronta.
+Ao adaptar receitas, rações ou medidas de construção entre unidades.
+Quando recebe polegadas, pés ou libras e precisa de cm, metros ou quilos.
+
+NAO USE QUANDO
+--------------
+Para dose de remédio, radiação ou química sem conferir por outra via.
+Quando o fator de conversão não for conhecido com certeza: não o invente.
+
+MATERIAIS
+---------
+- Papel e lápis.
+- Lista de fatores de conversão de fonte confiável.
+- Régua ou fita métrica para conferir (opcional).
+
+PROCEDIMENTO
+------------
+1. Escolha as duas unidades a relacionar, por exemplo polegada e centímetro.
+2. Escreva o fator no topo da folha (1 polegada = 2,54 cm, exato).
+3. Confirme o fator em uma segunda fonte confiável antes de continuar.
+4. Desenhe duas colunas rotuladas com o nome de cada unidade.
+5. Anote a primeira linha: 1 na coluna A e o fator na coluna B.
+6. Some 1 na coluna A em cada linha nova.
+7. Some o valor do fator na coluna B em cada linha nova.
+8. Para valores grandes, some o fator várias vezes e anote o total.
+9. Arredonde só no fim e escreva "aproximado" ao lado do resultado.
+10. Confira: divida a coluna B pela coluna A e veja se dá o fator.
+
+ATENCAO
+-------
+Um fator errado contamina toda a tabela: confira em duas fontes.
+Nunca use a tabela para dose, radiação ou química sem conferência.
+Arredondar cada linha acumula erro: arredonde somente no fim.
+Confundir unidades parecidas, como litro e galão ou libra e quilo, é grave.
+Se a conta inversa não devolver o fator, pare e refaça a tabela.
+Marque como aproximado todo valor que passou por arredondamento.
+
+SE NAO TIVER
+------------
+Sem segunda fonte, use só fatores de referência impressa confiável.
+Sem papel, risque as colunas em papelão e anote com lápis ou carvão.
+Sem saber o fator, não o invente: meça com régua ou fita conhecida.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada valor da coluna B dividido pela coluna A devolve o mesmo fator.
+A conta inversa converte o resultado de volta à unidade original.
+Outra pessoa usa a tabela sem precisar de explicação extra.
+
+FONTES
+------
+Prática consolidada de cálculo manual e conversão de unidades.
+Fatores de conversão são referências padronizadas em manuais técnicos.

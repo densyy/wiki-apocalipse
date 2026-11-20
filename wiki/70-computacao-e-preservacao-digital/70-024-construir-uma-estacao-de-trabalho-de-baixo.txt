@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 70-024
+TITULO: Como construir uma estação de trabalho de baixo consumo
+CATEGORIA: 70 - Computação de baixo consumo e preservação digital
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: placa única ou mini-PC, fonte compatível, armazenamento, dissipador
+REVISAO: 2026-11
+PALAVRAS-CHAVE: computador, baixo consumo, placa unica, energia, montagem
+==============================================================================
+
+OBJETIVO
+--------
+Montar um computador que execute tarefas leves com o menor gasto de energia.
+
+QUANDO USAR
+-----------
+Quando a energia é escassa ou cara.
+Quando o trabalho é texto, planilhas ou navegação leve.
+Quando o espaço é pequeno ou se quer menos calor e ruído.
+
+NAO USE QUANDO
+--------------
+Quando o trabalho exige renderização, jogos pesados ou edição de vídeo.
+Nesses casos, um computador maior pode ser mais adequado.
+
+MATERIAIS
+---------
+- Placa única (Raspberry Pi ou equivalente) ou mini-PC de baixo consumo.
+- Fonte compatível, com a voltagem e a corrente corretas.
+- Cartão de memória ou unidade de estado sólido para o sistema.
+- Dissipador de calor ou ventilador e gabinete ventilado.
+- Chave de fenda pequena e cabo de rede, se for usar rede cabeada.
+
+PROCEDIMENTO
+------------
+1. Descubra a voltagem e a corrente exigidas pela placa antes de ligar.
+2. Confira se a fonte fornece essa voltagem e corrente suficiente.
+3. Encoste o pulso em um objeto metálico aterrado para descarregar estática.
+4. Encaixe o dissipador sobre o processador, com pasta térmica fina.
+5. Fixe a placa no gabinete sem apertar demais os parafusos.
+6. Insira o cartão de memória ou a unidade de estado sólido no slot.
+7. Conecte a rede e os periféricos com a energia desligada.
+8. Ligue a fonte e veja se a placa inicia sem cheiro ou fumaça.
+9. Instale sistema leve, desative serviços inúteis e reduza o brilho.
+
+ATENCAO
+-------
+Fonte com voltagem errada queima a placa de forma irreversível.
+Corrente insuficiente causa reinícios e falhas aleatórias.
+Não toque nos contatos com as mãos suadas; obstruir a ventilação danifica.
+Não abra a fonte: dentro dela há tensão perigosa. Desligue antes de mexer.
+
+SE NAO TIVER
+------------
+Sem medidor, compare o tempo de bateria do equipamento.
+Sem dissipador, use placa de menor potência ou reduza o processamento.
+Não improvise fonte com voltagem diferente da exigida pela placa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A placa inicia, o sistema opera sem travar e a superfície fica morna.
+O consumo medido é menor que o de um computador de mesa comum.
+
+FONTES
+------
+Prática consolidada de montagem de computadores de baixo consumo e de
+segurança elétrica com equipamentos de baixa tensão. Este texto é um
+resumo operacional, não substitui treinamento. Confira as especificações.

@@ -1,0 +1,101 @@
+==============================================================================
+CODIGO: 02-113
+TITULO: Como conservar alimentos em salmoura
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 40 minutos
+RISCO: critico
+EXIGE: sal sem iodo, água, vidro com tampa, vinagre ou ácido, peso limpo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: salmoura, sal, conserva, picles, fermentação, botulismo
+==============================================================================
+
+OBJETIVO
+--------
+Conservar vegetais em salmoura com sal e acidez que afastam o botulismo.
+
+QUANDO USAR
+-----------
+Quando sobrar vegetais da colheita e não houver geladeira.
+Quando quiser guardar pepino, cebola ou cenoura por algumas semanas.
+Quando o alimento fresco apodrecer em poucos dias no calor.
+Quando houver sal, vinagre e vidro limpo, mas não houver freezer.
+Quando precisar de comida guardada para os dias sem colheita.
+
+NAO USE QUANDO
+--------------
+Não use vegetais mofados, feridos ou com cheiro podre.
+Não use sal iodado, sal com antiaglomerante ou sal de origem duvidosa.
+Não conserve em metal, saco de lixo ou pote que teve outro produto.
+Não use se não puder ferver a água nem medir o sal.
+Não faça salmoura fraca de tempero esperando conservação longa.
+Não use este metodo para carne ou peixe cru sem conhecimento especifico.
+
+MATERIAIS
+---------
+- Vegetais frescos, firmes e inteiros, sem mofo nem machucado.
+- Sal de cozinha sem iodo e sem antiaglomerante (sal de conserva).
+- Água limpa, de preferência fervida e fria.
+- Vinagre branco de 5% de acidez ou ácido cítrico (acidificante).
+- Potes de vidro com tampa que feche (ou vidro esterilizado).
+- Peso limpo para manter os pedaços submergidos (pedra limpa ou pote menor).
+- Colher de pau ou plástico, nunca de metal.
+- Panela para ferver a salmoura.
+
+PROCEDIMENTO
+------------
+1. Lave as mãos com água e sabão antes de começar.
+2. Lave os potes e as tampas com água quente e sabão.
+3. Ferva os potes e tampas por 10 minutos e deixe esfriar sem tocar dentro.
+4. Lave os vegetais em água limpa e corte em pedaços uniformes.
+5. Retire a ponta da flor do pepino, se usar, pois ela amolece a conserva.
+6. Dissolva 100 g de sal sem iodo em 1 litro de água (salmoura a 10%).
+7. Ferva a salmoura por 5 minutos e deixe esfriar até ficar morna.
+8. Acrescente 10 g de ácido cítrico ou 100 mL de vinagre branco por litro.
+9. Mexa com colher limpa até sal e acidificante dissolverem por completo.
+10. Coloque os vegetais nos potes até aproximadamente 2 cm da borda.
+11. Despeje a salmoura morna até cobrir todos os pedaços.
+12. Aperte os pedaços com o peso limpo para ficarem sempre submergidos.
+13. Tampe sem apertar por completo, para o gás da fermentação escapar.
+14. Deixe em local escuro a 21 a 24 graus por aproximadamente 3 semanas.
+15. Retire a espuma da superfície com colher limpa a cada poucos dias.
+16. Guarde os potes na geladeira depois de fermentados.
+17. Sem geladeira, pasteurize os potes a 80 graus por 10 minutos e lacre.
+
+ATENCAO
+-------
+Salmoura fraca ou sem acidez permite crescer o Clostridium botulinum.
+A toxina dessa bacteria pode matar e nao tem cheiro nem sabor.
+Conservas caseiras sao o principal veiculo de botulismo no Brasil.
+Nao reduza o sal nem a quantidade de vinagre: a seguranca depende disso.
+Nunca use metal, saco de lixo ou vidro que tenha guardado outro produto.
+Mofo, muco, cheiro podre ou tampa estufada: jogue tudo fora sem provar.
+Boca seca, visao dupla ou dificuldade de engolir: procure ajuda imediata.
+A toxina morre com 10 minutos acima de 80 graus.
+Nao confie nisso para salvar alimento duvidoso.
+Fermentacao nao dispensa frio: sem geladeira, coma em poucas semanas.
+
+SE NAO TIVER
+------------
+Sem acido citrico, use vinagre branco de 5%, nunca caseiro.
+Sem sal de conserva, use sal de cozinha sem iodo nem antiaglomerante.
+Sem pote de vidro, use outro vidro com tampa; nunca plastico de lixo.
+Sem peso, coloque um potinho limpo sobre os pedaços para mantelos cobertos.
+Sem geladeira ou pasteurizacao, faca pouco e coma em poucos dias.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A salmoura fica turva e com cheiro azedo de fermentacao, sem muco escuro.
+Os pedaços continuam submergidos, firmes e sem bordas moles.
+Nao ha bolhas estufando a tampa nem espuma escura na superficie.
+
+FONTES
+------
+Ministerio da Saude: "Botulismo" (conservas caseiras como principal veiculo,
+risco de morte, sintomas, toxina destruida a 80 graus por 10 minutos).
+Embrapa: "Conservas de cebola" (salmoura 10% com acido lactico 0,5%) e
+"Palmito de pupunha in natura e em conserva" (3% de sal e acidificacao a
+pH 4,3); pH abaixo de 4,5 inibe o Clostridium botulinum.
+USDA/NIFA: "Safely Fermenting Food at Home" (sal nao iodado, nao reduzir
+o sal, vidro sem metal, submergido, remover escuma, guardar refrigerado).
+University of Minnesota Extension: "Pickling produce" (pH 4,6 ou menos
+impede a toxina; evitar cobre, latao, ferro e metal galvanizado).

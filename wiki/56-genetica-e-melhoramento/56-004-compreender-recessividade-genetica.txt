@@ -1,0 +1,82 @@
+==============================================================================
+CODIGO: 56-004
+TITULO: Como compreender recessividade genética
+CATEGORIA: 56 - Reprodução, genética e melhoramento
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: papel, lápis, genótipos ou fenótipos dos pais
+REVISAO: 2026-11
+PALAVRAS-CHAVE: genética, recessivo, dominante, alelo, portador, herdado
+==============================================================================
+
+OBJETIVO
+--------
+Entender por que o traço recessivo aparece e calcular a chance.
+
+QUANDO USAR
+-----------
+Quando um traço aparece em filhos de pais que não o mostram.
+Quando se quer saber se um individuo é portador de um alelo recessivo.
+Ao planejar cruzamento em melhoramento animal ou vegetal.
+Ao interpretar um heredograma simples de uma familia.
+Quando alguém diz que o traço "pulou" uma geração.
+
+NAO USE QUANDO
+--------------
+Quando a característica depende de muitos genes ou do ambiente.
+Quando se trata de decisão médica, diagnóstico ou aconselhamento genético.
+Quando o alelo está no cromossomo X: aí as regras mudam.
+
+MATERIAIS
+---------
+- Papel para desenhar o quadrado (caderno ou folha solta).
+- Lápis para anotar os alelos.
+- Registro do fenótipo dos pais e dos filhos, se houver.
+
+PROCEDIMENTO
+------------
+1. Escolha uma característica controlada por um par de alelos.
+2. Anote o alelo de cada pai: A para o dominante, a para o recessivo.
+3. Classifique cada individuo em AA, Aa ou aa.
+4. Marque que só aa mostra o traço recessivo.
+5. Escreva os alelos de um pai na coluna e os da mae na linha.
+6. Preencha cada casa combinando um alelo de cada lado.
+7. Conte as casas: de Aa com Aa saem 1 AA, 2 Aa e 1 aa.
+8. Converta em percentual: 25% AA, 50% Aa e 25% aa.
+9. Leia o fenótipo: 75% mostram o dominante, 25% o recessivo.
+10. Refaça o calculo em cada cruzamento, sem reaproveitar o anterior.
+
+ATENCAO
+-------
+Valem so para um gene, dominancia completa e sem ligacao ao sexo.
+Muitas caracteristicas dependem de varios genes e do ambiente.
+Exemplo: producao de leite ou altura.
+Nao aplique a regra de 25% a essas caracteristicas.
+Um portador Aa nao mostra o traco, mas pode passar o alelo adiante.
+Por isso o traco parece pular geracoes.
+Pais sem o traco podem ter filho com ele; isso nao prova erro nem troca.
+Cada filho tem 25% de chance, mesmo apos outros filhos afetados.
+Uniao entre parentes proximos aumenta a chance de alelos recessivos iguais.
+Este texto e educativo; saude e reproducao exigem profissional habilitado.
+
+SE NAO TIVER
+------------
+Sem papel, desenhe o quadrado no chao com gravetos nas casas.
+Sem os genotipos, anote so o que você viu no fenótipo.
+Se conhecido apenas um pai, marque o outro como "?" e nao de percentual.
+Se o traço nao seguir 1:2:1, suspeite de mais de um gene e pare.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O quadrado tem quatro casas preenchidas e os percentuais somam 100%.
+A contagem de genótipos da 1:2:1 e a de fenótipos da 3:1.
+Você aponta o portador e explica o filho afetado de pais normais.
+
+FONTES
+------
+Embrapa: glossario de recursos geneticos e capitulo de melhoramento.
+Embrapa define alelo, dominancia completa e recessividade.
+StatPearls do NCBI, "Genetics, Autosomal Recessive": risco de 25%.
+NCBI Bookshelf, "Classic Mendelian Genetics": portadores e padrao recessivo.
+Resumo operacional de genetica mendeliana consolidada, sem documento unico.
+Nao substitui orientacao genetica profissional.

@@ -1,0 +1,91 @@
+==============================================================================
+CODIGO: 04-008
+TITULO: Como utilizar um controlador MPPT
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: controlador MPPT, bateria, painel solar, cabos e proteção
+REVISAO: 2026-11
+PALAVRAS-CHAVE: mppt, controlador, solar, bateria, carga, painel
+==============================================================================
+
+OBJETIVO
+--------
+Ligar o controlador MPPT entre o painel solar e a bateria para
+carregar com segurança e aproveitar melhor a energia do sol.
+MPPT é o ponto de máxima potência: mais carga com o mesmo painel.
+
+QUANDO USAR
+-----------
+Quando o sistema solar isolado carrega bateria de 12, 24 ou 48 V.
+Quando o painel tem tensão maior que a tensão da bateria.
+Quando a bateria carrega devagar com um controlador simples.
+Quando se amplia o sistema com mais painéis no mesmo banco.
+
+NAO USE QUANDO
+--------------
+Com tensão do arranjo acima do limite escrito no aparelho.
+Com bateria estufada, vazando, muito quente ou com cheiro forte.
+Em local fechado e sem ventilação junto de bateria que solta gás.
+Para ligar a saída do controlador na rede elétrica da casa.
+
+MATERIAIS
+---------
+- Controlador MPPT compatível com a tensão da bateria.
+- Bateria em bom estado, do tipo aceito pelo modelo.
+- Painel ou arranjo solar dentro do limite de tensão do aparelho.
+- Cabos de cobre na bitola indicada no manual do aparelho.
+- Fusível ou disjuntor de corrente contínua para bateria e painel.
+- Multímetro (emprestado serve).
+- Chave de fenda e chave de boca do tamanho dos bornes.
+- Local seco, ventilado e longe de material inflamável.
+
+PROCEDIMENTO
+------------
+1. Leia a etiqueta do aparelho e anote tensão máxima e corrente.
+2. Confirme que o arranjo respeita a tensão máxima do aparelho.
+3. Cubra o painel com pano escuro antes de mexer nos fios.
+4. Fixe o controlador na vertical, em parede firme e ventilada.
+5. Deixe espaço livre acima e abaixo para a saída do calor.
+6. Retire os fusíveis e abra os disjuntores antes de ligar os fios.
+7. Ligue primeiro os cabos da bateria nos bornes marcados BAT.
+8. Respeite a polaridade: positivo no positivo e negativo no negativo.
+9. Aguarde o visor acender e reconhecer a tensão da bateria.
+10. Ajuste no menu o tipo de bateria, conforme o manual do aparelho.
+11. Ligue depois os cabos do painel nos bornes marcados PV.
+12. Instale um fusível ou disjuntor perto da bateria e outro no painel.
+13. Ligue aparelhos de corrente contínua na saída de carga, se houver.
+14. Recoloque os fusíveis e observe a tela e as luzes do aparelho.
+15. Confira a tensão e a corrente com o multímetro no início da carga.
+
+ATENCAO
+-------
+Curto nos terminais da bateria provoca arco elétrico, fogo e explosão.
+O que mata aqui é o arco do curto e o gás inflamável da bateria.
+Bateria comum solta hidrogênio: ventile sempre e afaste faísca e fogo.
+Ácido de bateria queima pele e olhos; lave com água e procure ajuda.
+Painel gera eletricidade com qualquer luz do dia, mesmo desligado.
+Inversão de polaridade queima o aparelho e pode causar incêndio.
+Aparelho quente, com cheiro de queimado ou fumaça: desligue tudo.
+O controlador não recupera bateria morta nem conserta painel quebrado.
+Não mexa nos bornes com a mão molhada ou o corpo aterrado no chão.
+
+SE NAO TIVER
+------------
+Sem multímetro, leia tensão e corrente na tela do próprio aparelho.
+Sem fusível ou disjuntor de reposição, não ligue o sistema.
+Não substitua fusível por fio fino, arame ou papel alumínio.
+Sem o manual do modelo, use só as funções básicas e anote os limites.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A tela mostra o painel gerando e corrente entrando na bateria.
+A tensão da bateria sobe devagar durante as horas de sol.
+À noite a bateria mantém os aparelhos pelo tempo esperado.
+
+FONTES
+------
+Manuais de instalação de controladores MPPT de fabricantes usuais.
+Guias de operação e manutenção fotovoltaica do NREL dos EUA.
+Orientação do Departamento de Energia dos EUA sobre energia solar.
+Prática consolidada de eletricidade em corrente contínua.

@@ -1,0 +1,82 @@
+==============================================================================
+CODIGO: 55-005
+TITULO: Como identificar insetos transmissores de doenças
+CATEGORIA: 55 - Entomologia, apicultura e pequenos organismos
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: luz do dia, lanterna, caderno, lupa de mao, luva ou saco plastico
+REVISAO: 2026-11
+PALAVRAS-CHAVE: vetor, mosquito, barbeiro, dengue, malaria, leishmaniose
+==============================================================================
+
+OBJETIVO
+--------
+Distinguir os insetos que transmitem doenças e saber como agir.
+
+QUANDO USAR
+-----------
+Ao encontrar um inseto suspeito dentro de casa ou no quintal.
+Ao notar picadas deixadas durante a noite ou em áreas de mata.
+Antes de viajar para região com dengue, malária ou leishmaniose.
+Ao decidir quais medidas de proteção manter na casa e no quintal.
+
+NAO USE QUANDO
+--------------
+Nao use para identificar a espécie exata: este texto separa apenas grupos.
+Nao use como prova de que a casa esta livre de risco.
+
+MATERIAIS
+---------
+- Caderno e lápis para anotar local, horário e sinais.
+- Lupa de mão (opcional) e lanterna para observar à noite.
+- Luva grossa ou saco plástico e pote com tampa de rosca.
+- Camisa de manga longa e calça para reduzir picadas.
+
+PROCEDIMENTO
+------------
+1. Observe sem tocar. Fique a aproximadamente 1 metro de distância.
+2. Anote local, horário, tamanho, cor e se estava dentro de casa.
+3. Com duas asas e faixas brancas nas pernas, classifique como Aedes.
+4. Aedes pica de dia e pode transmitir dengue, zika e chikungunya.
+5. Com palpos compridos ao lado da boca e pouso em linha reta: Anopheles.
+6. Anopheles pica à noite e pode transmitir malária.
+7. Com corpo marrom uniforme e pouso curvado, classifique como Culex.
+8. Culex pica à noite e pode transmitir vírus como o do Nilo Ocidental.
+9. Muito pequeno, amarelado e de asas peludas: é flebotomíneo.
+10. O flebotomíneo, mosquito-palha, transmite leishmaniose.
+11. Com percevejo grande, achatado e de pernas longas, pense em barbeiro.
+12. Não esmague. Proteja a mão, prenda o inseto em pote com tampa.
+13. Leve o pote ao agente de saúde ou posto de identificação mais próximo.
+14. Sem asas e saltador em roupas ou camas, classifique como pulga.
+15. Pulgas podem transmitir peste e tifo; não manipule sem proteção.
+
+ATENCAO
+-------
+Identificar a olho nu é aproximado; só o laboratório confirma a espécie.
+A presença do inseto não prova infecção; a ausência não afasta o risco.
+Não dispense repelente, mosquiteiro, tela ou roupa de manga longa.
+Não aperte nem esmague barbeiro: fezes podem transmitir Chagas.
+Carrapato não é inseto, é aracnídeo, mas também transmite doenças.
+Com febre, manchas ou úlcera após picada, procure a unidade de saúde.
+
+SE NAO TIVER
+------------
+Sem lupa, observe a olho nu e anote apenas o grupo do inseto.
+Sem lanterna, espere o dia seguinte para os insetos diurnos.
+Sem pote, use saco plástico bem fechado; nunca use as mãos nuas.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você separou o inseto em um grupo pelos sinais que observou.
+Você anotou local, horário, tamanho, cor e comportamento.
+Você não tocou no inseto com as mãos nuas.
+Você sabe dizer qual doença o grupo pode transmitir.
+
+FONTES
+------
+CDC: guias sobre Aedes, Anopheles, Culex e doenças de mosquitos.
+Ministério da Saúde do Brasil: orientações sobre Chagas e triatomíneos.
+Fiocruz/IOC: guias sobre barbeiros, leishmanioses e flebotomíneos.
+OPAS/OMS: doença de Chagas e malária.
+Wellcome Sanger Institute e Target Malaria: como distinguir mosquitos.
+Arizona Department of Health Services: guia ilustrado de mosquitos (2017).

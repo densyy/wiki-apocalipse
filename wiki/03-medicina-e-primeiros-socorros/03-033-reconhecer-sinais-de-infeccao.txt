@@ -1,0 +1,90 @@
+==============================================================================
+CODIGO: 03-033
+TITULO: Como reconhecer sinais de infecção
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 5 minutos
+RISCO: alto
+EXIGE: boa luz para observar, papel e lápis para anotar
+REVISAO: 2026-11
+PALAVRAS-CHAVE: infecção, ferida, vermelhidão, inchaço, febre, pus, sepse
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer os sinais de infecção em feridas e no corpo e agir cedo.
+
+QUANDO USAR
+-----------
+Ferida que piora em vez de melhorar com os dias.
+Vermelhidão ao redor de corte, arranhão ou furo que avança.
+Calor e inchaço na área da ferida.
+Dor que aumenta ou lateja depois de diminuir.
+Pus, líquido amarelo ou cheiro forte saindo da ferida.
+Febre, calafrios ou mal-estar depois de se ferir.
+
+NAO USE QUANDO
+--------------
+Não há contraindicacao para observar os sinais de infecção.
+Não espere o quadro completo para procurar atendimento.
+
+MATERIAIS
+---------
+- Boa luz para ver a pele (ou lanterna).
+- Papel e lápis para anotar a hora e os sinais.
+- Luvas descartáveis (ou sacola plástica) se for tocar a ferida.
+- Termômetro digital, se houver.
+
+PROCEDIMENTO
+------------
+1. Lave as mãos com água e sabão antes de tocar na ferida.
+2. Garanta boa luz no local da observação.
+3. Olhe a cor da pele ao redor da ferida.
+4. Note se a vermelhidão avança ou aumenta de tamanho.
+5. Toque com o dorso da mão: a área está mais quente que o redor?
+6. Observe se a ferida ficou inchada.
+7. Pergunte se a dor aumentou ou passou a latejar.
+8. Veja se sai pus, líquido amarelo ou se há cheiro.
+9. Procure linha vermelha que sobe pelo braço ou pela perna.
+10. Meça a febre com termômetro, se houver.
+11. Pergunte sobre calafrios, suor frio e mal-estar.
+12. Observe se a pessoa está confusa ou muito sonolenta.
+13. Anote a hora em que cada sinal foi visto.
+14. Com sinais locais, procure atendimento no mesmo dia.
+15. Com febre, confusão ou linha vermelha, vá à emergência.
+
+ATENCAO
+-------
+Nem toda infecção causa febre, sobretudo no início.
+Falta de pus não afasta a possibilidade de infecção.
+Vermelhidão e calor surgem na inflamação normal; o alerta é o avanço.
+Ferida funda ou suja pode infectar com poucos sinais por fora.
+Bebês, idosos e pessoas com diabetes podem mostrar poucos sinais.
+Não aperte, não cutuque e não esprema a ferida para verificar.
+Não retire crostas nem use álcool na ferida só para inspecionar.
+Linha vermelha que sobe é sinal de que a infecção se espalha.
+Febre alta, confusão ou dor no peito podem indicar sepse: emergência.
+Não espere a ferida melhorar sozinha se os sinais avançam.
+
+SE NAO TIVER
+------------
+Sem termômetro: use calafrios, suor e febre relatada como sinais.
+Sem luvas: use sacola plástica limpa antes de tocar na ferida.
+Sem luz: peça a outra pessoa que ilumine com a tela do celular.
+Sem como medir: compare a área com o mesmo ponto do outro lado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os sinais foram procurados um a um, não apenas a dor.
+A hora de cada sinal observado ficou anotada.
+A ferida foi classificada: sinais locais ou sinais de gravidade.
+O atendimento foi buscado sem esperar o quadro completo.
+
+FONTES
+------
+MedlinePlus da Biblioteca Nacional de Medicina dos Estados Unidos:
+enciclopédia médica revisada sobre infecções de pele e de feridas.
+CDC: critérios de vigilância de infecção e sinais de infecção de ferida.
+Ministério da Saúde do Brasil: orientações de atenção básica sobre feridas
+e sinais de alerta que exigem encaminhamento.
+Organização Mundial da Saúde: documento sobre prevenção e controle de
+infecções e reconhecimento precoce de sinais de gravidade.

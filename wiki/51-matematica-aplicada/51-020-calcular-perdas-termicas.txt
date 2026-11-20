@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 51-020
+TITULO: Como calcular perdas térmicas
+CATEGORIA: 51 - Matemática aplicada à sobrevivência
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: caderno, lápis, fita métrica, termômetro, noções de multiplicação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: calor, perda térmica, isolamento, condução, frio, parede
+==============================================================================
+
+OBJETIVO
+--------
+Estimar quanto calor escapa por parede, teto, piso ou peça de roupa.
+
+QUANDO USAR
+-----------
+Quando quiser saber se um abrigo precisa de mais isolamento.
+Quando comparar dois materiais para isolar parede ou telhado.
+Quando quiser estimar o calor que o corpo perde para o frio.
+Quando precisar decidir onde gastar o pouco isolamento disponível.
+Quando quiser conferir se uma lona ou coberta já é suficiente.
+
+NAO USE QUANDO
+--------------
+Para dimensionar sistema de aquecimento, caldeira ou chaminé.
+Quando houver vento forte, umidade ou infiltração de ar.
+Quando não der para medir área, espessura e temperatura dos dois lados.
+Para abrigo em frio extremo sem orientação de quem tenha prática.
+
+MATERIAIS
+---------
+- Caderno e lápis (ou papel e qualquer instrumento de escrita).
+- Fita métrica ou régua para medir área e espessura.
+- Termômetro para medir a temperatura dentro e fora (ou estimar).
+- Tabela de condutividade do material, se houver (ou os valores abaixo).
+- Calculadora, se houver (ou faça a conta à mão).
+- Noções de multiplicação e divisão.
+
+PROCEDIMENTO
+------------
+1. Meça a área A da superfície: largura x altura, em metros quadrados.
+2. Meça a espessura s do material em metros (50 mm = 0,05 m).
+3. Meça a temperatura dos dois lados; subtraia para obter delta T.
+4. Anote a condutividade k do material, em W/(m.K).
+5. Use valores aproximados: palha 0,1; madeira 0,15; lã 0,04.
+6. Outros: concreto 1,7; ar parado 0,026; tijolo 0,7.
+7. Calcule a resistência de cada camada: R = s / k.
+8. Some as resistências das camadas: R total = R1 + R2 + ...
+9. Calcule a transmitância: U = 1 / R total.
+10. Calcule a perda: Ht = U x A x delta T, em watts.
+11. Exemplo: A = 10; s = 0,05; k = 0,04; delta T = 20.
+12. Nesse exemplo: R = 1,25; U = 0,8; Ht = 160 watts.
+13. Some as perdas de paredes, teto e piso para obter o total.
+14. Compare opções: maior R e menor U dão menos perda.
+
+ATENCAO
+-------
+A conta vale para condução em regime constante, sem vento e sem umidade.
+Vento e infiltração de ar retiram muito mais calor que a condução sozinha.
+Isolamento ou roupa molhada perde quase toda a capacidade de isolar.
+A condutividade muda com a temperatura; os valores são aproximados.
+Viga ou metal atravessando a parede cria perda extra não mostrada aqui.
+Erro na unidade da espessura (mm em vez de m) erra o resultado muito.
+O resultado é uma estimativa; não substitui orientação para frio extremo.
+
+SE NAO TIVER
+------------
+Sem termômetro, estime a diferença e marque o valor como aproximado.
+Sem tabela de k, use os valores aproximados deste texto.
+Sem calculadora, arredonde R e U para uma casa decimal.
+Sem medir a espessura, meça com régua ou cordão marcado antes de calcular.
+Sem isolamento seco, procure material antes de confiar na estimativa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A conta usa área em m2, espessura em m e diferença em graus.
+O resultado final está em watts.
+Dobrar a espessura dobra R e reduz U pela metade.
+Trocar concreto por lã, de k menor, reduz bastante a perda.
+
+FONTES
+------
+Conceito básico de física térmica: fluxo = U x A x diferença de temperatura.
+Transmitância U e resistência R: U = 1/R e R = espessura / condutividade.
+Tabelas de condutividade e de valores R e U de materiais de construção
+(Engineering ToolBox, referência técnica de transmitância térmica).
+Valores aproximados, que variam conforme a fonte e a temperatura.
+Prática consolidada, sem documento único; não substitui treinamento.

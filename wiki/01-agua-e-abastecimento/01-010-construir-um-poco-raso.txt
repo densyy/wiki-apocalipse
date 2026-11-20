@@ -1,0 +1,97 @@
+==============================================================================
+CODIGO: 01-010
+TITULO: Como construir um poço raso
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 180 minutos
+RISCO: alto
+EXIGE: pá, picareta, tijolos ou anéis, cimento, tampa, balde limpo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: poço, cacimba, cavar, lençol freático, água, tampa
+==============================================================================
+
+OBJETIVO
+--------
+Construir um poço raso revestido e tampado, com menos risco de contaminação.
+
+QUANDO USAR
+-----------
+Quando não há rede pública de água perto da casa.
+Quando o lençol freático é raso e há terreno livre de fossas.
+Quando é preciso ter água permanente perto da moradia.
+Quando há ferramentas e material para revestir e tampo o poço.
+
+NAO USE QUANDO
+--------------
+Quando a fossa, a pocilga ou o lixão estiver dentro das distâncias mínimas.
+Quando o terreno alaga com facilidade ou fica encharcado.
+Quando o solo é rocha faturada: a contaminação pode vir de muito longe.
+
+MATERIAIS
+---------
+- Pá e picareta.
+- Balde limpo e corda, ou bomba manual.
+- Tijolos com cimento e areia, ou anéis de concreto.
+- Cascalho limpo.
+- Laje ou tampa firme com uma abertura controlada.
+- Fita métrica ou corda marcada em metros.
+- Escova de cabo longo para limpar as paredes.
+
+PROCEDIMENTO
+------------
+1. Escolha o ponto mais alto do terreno, livre de inundação.
+2. Meça e marque pelo menos 15 metros de cada fossa seca ou sumidouro.
+3. Meça e marque pelo menos 45 metros de pocilgas, estábulos e lixões.
+4. Confirme que a fossa fica mais baixa no terreno que o poço.
+5. Peça autorização ao órgão local antes de cavar.
+6. Cave com pá e picareta um buraco de 0,8 a 1,5 metro de diâmetro.
+7. Incline as paredes ou coloque escoras para não desmoronar.
+8. Retire a terra com balde e corda, sem entrar no buraco.
+9. Pare quando a água entrar mais rápido do que o balde retira.
+10. Não ultrapasse 20 metros de profundidade.
+11. Revesta as paredes com tijolos rejuntados ou anéis de concreto.
+12. Vede com cimento os primeiros 3 metros de parede acima da água.
+13. Deixe a parede abaixo da água permeável, para a água entrar.
+14. Cubra o fundo com cascalho limpo de aproximadamente 15 centímetros.
+15. Levante a boca do poço aproximadamente 30 centímetros acima do solo.
+16. Faça um piso de pelo menos 1 metro ao redor, inclinado para fora.
+17. Cave uma valeta que desvie a chuva para longe da boca.
+18. Tampe com laje firme, deixando só a abertura do balde ou da bomba.
+19. Instale bomba manual ou guarde balde e corda limpos fora do poço.
+20. Limpe as paredes com escova de cabo longo, sem entrar no poço.
+21. Desinfete com hipoclorito de sódio a 2,5%: 2 ml por 20 litros.
+22. Espere aproximadamente 30 minutos e esvazie o poço uma vez.
+23. Deixe o poço encher de novo antes de retirar água para uso.
+24. Para beber, trate a água depois: veja 01-001.
+
+ATENCAO
+-------
+A parede pode desmoronar e soterrar quem estiver dentro do buraco.
+Nunca entre no poço: o fundo pode ter pouco oxigênio e gases sem cheiro.
+Gases como metano e gás sulfídrico podem matar em minutos.
+Se alguém cair, não entre para resgatar. Chame ajuda e ventile o poço.
+Resgate sem treino e sem equipamento já matou várias pessoas seguidas.
+A água rasa pode ter esgoto, agrotóxico ou sal. Ferver não tira químicos.
+Com cheiro de combustível ou solvente, não use a água.
+Não desinfete água muito turva: as partículas protegem os microrganismos.
+O cloro não elimina todos os parasitas. Trate a água antes de beber.
+
+SE NAO TIVER
+------------
+Sem tijolos ou anéis, use pedra com argamassa, vedando bem a parte alta.
+Sem bomba, use balde e corda limpos, guardados em local seco e fora do poço.
+Sem espaço livre das distâncias mínimas, não construa. Procure outra fonte.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A boca fica aproximadamente 30 centímetros acima do solo e o piso inclina.
+A tampa fecha a abertura e impede a entrada de insetos e animais.
+Depois da chuva, não há poças ao redor nem água entrando no poço.
+A água retirada não tem cheiro de esgoto, combustível ou solvente.
+
+FONTES
+------
+Funasa, Manual de Melhorias Sanitárias Domiciliares, 2014, item poço raso.
+Cartilha de Saneamento Básico da FAES/Senar: distâncias e proteção da boca.
+OMS, Dug well with hand pump e Technical Note 1: Cleaning hand-dug wells.
+EPA, Construction Features of Dug Wells.
+OSHA e NIOSH: entrada segura em espaço confinado.

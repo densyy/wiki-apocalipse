@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 81-013
+TITULO: Como construir um trocador de calor artesanal
+CATEGORIA: 81 - Engenharia térmica e fornos industriais
+TEMPO: 1 dia
+RISCO: alto
+EXIGE: tubos metálicos, chapa, solda, dutos e isolamento térmico
+REVISAO: 2026-11
+PALAVRAS-CHAVE: trocador de calor, tubos, transferência, eficiência, dutos
+==============================================================================
+
+OBJETIVO
+--------
+Montar um trocador simples para passar calor dos gases de um forno para
+água ou ar limpo, sem misturar os dois fluidos.
+
+QUANDO USAR
+-----------
+Quando a chaminé descarta gases ainda quentes.
+Para pré-aquecer a água de uso ou o ar da combustão.
+Quando o forno consome muito combustível para o mesmo trabalho.
+Ao aproveitar calor que antes ia direto para o ambiente.
+
+NAO USE QUANDO
+--------------
+Não instale onde gases tóxicos possam retornar para ambientes fechados.
+Não use em duto rachado, obstruído ou com vazamento de fumaça.
+Não recupere calor de gases com resina, tinta ou solvente sem filtro.
+Não obstrua a chaminé: a tiragem precisa continuar livre.
+
+MATERIAIS
+---------
+- Tubos de aço ou cobre resistentes ao calor (aço inox).
+- Chapa metálica para a caixa do trocador (aço carbono).
+- Dutos para ligar a saída do forno ao trocador (tubo de aço).
+- Solda e eletrodos próprios para metal quente (braçadeiras).
+- Isolamento para os dutos (lã de rocha ou manta cerâmica).
+- Luvas, óculos e máscara para a montagem.
+- Termômetros para conferir a entrada e a saída.
+
+PROCEDIMENTO
+------------
+1. Meça o diâmetro da saída de gases do forno.
+2. Defina o fluido limpo que será aquecido: água ou ar.
+3. Escolha tubos com diâmetro menor que o duto principal.
+4. Monte o feixe de tubos dentro da caixa metálica.
+5. Solde as placas de fechamento sem deixar frestas.
+6. Vede as emendas com material que resista ao calor.
+7. Encaixe a caixa no duto sem estreitar a passagem dos gases.
+8. Isole os dutos para não perder calor no caminho.
+9. Instale os termômetros antes e depois do trocador.
+10. Ligue o forno e observe se a tiragem continua estável.
+11. Faça passar o fluido limpo pelo lado separado dos tubos.
+12. Aumente o fluxo aos poucos e compare as temperaturas.
+13. Ajuste até ganhar calor sem esfriar o forno.
+14. Anote os valores e revise as vedações a cada uso.
+
+ATENCAO
+-------
+Gases de combustão podem conter monóxido de carbono: nunca deixe escapar.
+Obstruir a chaminé faz fumaça voltar e pode matar por asfixia.
+A caixa e os tubos ficam quentes o bastante para queimar a pele.
+Fuligem acumulada reduz a troca e pode pegar fogo: limpe com frequência.
+Nunca use o fluido que passou pelos gases para beber ou cozinhar.
+Solda mal feita abre caminho para gases tóxicos no ar limpo.
+Se a tiragem cair, pare e desobstrua antes de continuar.
+
+SE NAO TIVER
+------------
+Sem chapa para a caixa, use um tambor metálico limpo como envelope.
+Sem tubos de cobre, aproveite tubos de aço de sucata sem ferrugem.
+Sem isolamento, cubra os dutos com areia seca confinada.
+Sem termômetro, compare o tempo de aquecimento antes e depois.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A temperatura dos gases cai depois do trocador.
+O fluido limpo aquece sem contato com a fumaça.
+A chaminé continua com tiragem, sem fumaça de volta.
+O forno gasta menos combustível para o mesmo resultado.
+
+FONTES
+------
+Prática consolidada de recuperação de calor em fornos e caldeiras de
+pequeno porte, sem documento normativo único. Referências correntes de
+trocadores tubulares, vedação de alta temperatura e segurança em
+sistemas de exaustão de gases de combustão.

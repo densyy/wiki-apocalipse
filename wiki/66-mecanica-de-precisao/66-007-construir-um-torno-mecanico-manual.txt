@@ -1,0 +1,93 @@
+==============================================================================
+CODIGO: 66-007
+TITULO: Como construir um torno mecânico manual
+CATEGORIA: 66 - Mecânica de precisão e instrumentos
+TEMPO: 240 minutos
+RISCO: alto
+EXIGE: bancada firme, madeira ou perfis de aço, rolamentos, pedal e corda
+REVISAO: 2026-11
+PALAVRAS-CHAVE: torno, tornearia, pedal, fuso, contraponto, madeira, aço
+==============================================================================
+
+OBJETIVO
+---------
+Montar um torno de pedal que gira a peça e permite desbastar madeira ou
+metal mole com ferramenta manual apoiada.
+
+QUANDO USAR
+-----------
+Quando não há energia elétrica e é preciso tornear peças simples.
+Para fabricar pinos, cabos, buchas e peças cilíndricas de madeira.
+Para trabalhar metais moles como latão, alumínio ou cobre.
+Quando existe sucata de aço, madeira e rolamentos aproveitáveis.
+
+NAO USE QUANDO
+--------------
+Não use para usinagem de precisão, rosqueamento ou tolerâncias apertadas.
+Não use em aço duro, titânio ou peças desbalanceadas.
+Não use sem proteção ocular e sem o apoio da ferramenta.
+
+MATERIAIS
+---------
+- Base firme e pesada, sem folga (aproximadamente 1 m).
+- Dois trilhos retos e paralelos de madeira dura ou perfil de aço.
+- Fuso de aço com ponta de centro (eixo que gira a peça).
+- Dois mancais ou rolamentos com graxa para o fuso.
+- Volante ou polia grande para a corda do pedal.
+- Pedal de madeira, corda resistente e mola ou vara flexível.
+- Contraponto: bloco deslizante com centro que não gira.
+- Apoio de ferramenta ajustável e ferramentas de corte.
+- Parafusos, cunhas e arruelas para fixar e travar.
+
+PROCEDIMENTO
+------------
+1. Fixe a base em local firme, nivelado e com boa iluminação.
+2. Instale os dois trilhos retos e paralelos sobre a base, bem travados.
+3. Monte os mancais nas extremidades e encaixe o fuso com graxa.
+4. Prenda o volante no fuso e confira que gira livre, sem atrito.
+5. Instale o pedal na base e ligue a corda ao volante.
+6. Prenda a mola ou vara flexível que devolve o pedal para cima.
+7. Monte o contraponto deslizante alinhado ao eixo do fuso.
+8. Instale o apoio de ferramenta na frente da peça, abaixo do centro.
+9. Prenda a peça entre o centro do fuso e o centro do contraponto.
+10. Trave o contraponto e gire a peça com a mão para conferir folga.
+11. Calce o apoio de ferramenta rente à peça, sem tocá-la.
+12. Pise o pedal com ritmo constante e mantenha a peça girando.
+13. Apoie a ferramenta no suporte e avance aos poucos contra a peça.
+14. Desbaste em passes leves e retire cavacos com pincel ou pá de madeira.
+15. Pare o pedal antes de medir, apertar ou mudar a posição do apoio.
+
+ATENCAO
+-------
+- O risco é de corte grave, emaranhamento e projeção de cavacos.
+- Nunca use luvas, manga larga, cordões ou cabelo solto perto do fuso.
+- Use óculos de proteção: cavacos voam em alta velocidade.
+- Mantenha as mãos sempre atrás do apoio de ferramenta.
+- Nunca toque na peça girando nem tente travá-la com a mão.
+- Peça solta no fuso pode sair voando: conferir o aperto antes de cada uso.
+- Não ultrapasse a velocidade que o pedal permite controlar.
+- Se o volante ou a corda soltar, pare e conserte antes de continuar.
+- Não substitui torno industrial: não garante precisão nem segurança.
+
+SE NAO TIVER
+------------
+- Sem rolamentos, use mancais de madeira dura com graxa.
+- Mancais de madeira desgastam mais: troque e lubrifique com frequência.
+- Sem volante, aproveite uma roda de bicicleta ou polia de sucata.
+- Sem mola, use uma vara flexível presa acima do pedal.
+- Sem centro de aço, faça pontas cônicas em aço duro e fixe-as bem.
+- Se o material for duvidoso, não use: prefira sucata conhecida.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- A peça gira alinhada, sem oscilar e sem folga no contraponto.
+- O pedal retorna sozinho e o volante gira sem tremer.
+- A ferramenta retira cavacos regulares e a peça fica cilíndrica.
+
+FONTES
+------
+- Manual técnico do Exército dos EUA TC 9-524, capítulo sobre tornos.
+- Robert S. Woodbury, History of the Lathe to 1850.
+- Society for the History of Technology, 1961.
+- Prática consolidada de tornearia manual com torno de pedal e de arco.
+- Resumo operacional: não substitui treinamento nem projeto validado.

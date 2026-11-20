@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 49-006
+TITULO: Como realizar processos de secagem industrial
+CATEGORIA: 49 - Engenharia química e processos industriais
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: secador, calor, termômetro, balança, luvas, ventilação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: secagem, secador, umidade, ar quente, estufa, mofo, peso
+==============================================================================
+
+OBJETIVO
+--------
+Remover água de um material de forma controlada.
+Umidade é a quantidade de água que o material ainda contém.
+
+QUANDO USAR
+-----------
+Quando é preciso reduzir o peso e o volume do material.
+Quando o material úmido pode mofar ou apodrecer.
+Quando a etapa seguinte exige produto seco, como moagem ou mistura.
+Quando há água em excesso que atrapalha o armazenamento.
+
+NAO USE QUANDO
+--------------
+Quando o material libera vapores tóxicos ou inflamáveis sem controle.
+Quando não se sabe o que é o material: pode ser perigoso ao aquecer.
+Quando o material está contaminado com agrotóxico ou combustível.
+Quando não há como medir a temperatura nem garantir ventilação.
+
+MATERIAIS
+---------
+- Secador com circulação de ar quente (estufa de bandejas ou tambor).
+- Bandejas, peneiras ou grelhas para espalhar o material.
+- Fonte de calor controlável (resistência, lenha ou gás com exaustão).
+- Termômetro para medir a temperatura do ar.
+- Balança para acompanhar a perda de peso.
+- Luvas, óculos e máscara contra pó.
+- Local ventilado, longe de chamas e de material inflamável.
+
+PROCEDIMENTO
+------------
+1. Identifique o material e anote seu peso inicial.
+2. Escolha o secador conforme o material.
+3. Use bandejas para sólidos, tambor para grãos e atomização para líquidos.
+4. Espalhe o material em camada fina e uniforme nas bandejas.
+5. Regule o ar quente para aproximadamente 50 a 60 graus Celsius.
+6. Em sementes, ervas e remédios, use menos de aproximadamente 45 graus.
+7. Faça o ar circular ao redor de toda a carga e sair pela exaustão.
+8. Mexa ou vire a camada a cada aproximadamente 30 minutos.
+9. Pese uma amostra de tempo em tempo e anote o resultado.
+10. Pare quando duas pesagens seguidas mostrarem peso praticamente igual.
+11. Desligue o calor e deixe o material esfriar antes de retirar.
+12. Guarde o produto seco em recipiente limpo, seco e fechado.
+
+ATENCAO
+-------
+Pó fino suspenso no ar pode explodir. Não deixe pó se acumular.
+Mantenha chamas, faíscas e fontes de calor longe do secador.
+Calor alto demais destrói sementes, remédios e alimentos.
+Secagem incompleta permite mofo e toxinas no produto guardado.
+Secar demais deixa o produto quebradiço e com perda de valor.
+Embrulhar ainda quente gera condensação e devolve umidade ao produto.
+Se queimar, soltar fumaça ou cheiro estranho, desligue e ventile.
+Nunca use solvente inflamável sem ventilação e controle de faíscas.
+Não seque material desconhecido: pode liberar gás venenoso ao aquecer.
+
+SE NAO TIVER
+------------
+Sem secador, espalhe o material em camada fina sobre pano limpo.
+Deixe ao sol com sombra parcial e boa ventilação, virando várias vezes.
+Proteja da chuva, da poeira e dos insetos.
+O sol não atinge a umidade baixa do secador e pode contaminar.
+Forno doméstico serve só com calor baixo e porta entreaberta.
+Nunca use forno a lenha fechado: pode gerar monóxido de carbono.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O peso parou de cair em duas pesagens seguidas.
+O produto quebra, solta ou desgruda com facilidade.
+Não há umidade visível, gotas ou cheiro de mofo.
+O papel usado para testar a umidade continua seco.
+
+FONTES
+------
+Prática consolidada de engenharia química e de processamento
+de alimentos: secagem por convecção e controle de umidade.
+Orientações da OSHA sobre poeira combustível e prevenção de explosões.
+Este texto é resumo operacional e não substitui treinamento.

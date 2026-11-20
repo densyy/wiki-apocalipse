@@ -1,0 +1,97 @@
+==============================================================================
+CODIGO: 63-011
+TITULO: Como compreender a resistência de microrganismos no ambiente
+CATEGORIA: 63 - Microbiologia, parasitologia e contaminação
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: água, sabão ou detergente, desinfetante, pano limpo, álcool 70%
+REVISAO: 2026-11
+PALAVRAS-CHAVE: resistência, ambiente, contaminação, micróbio, vírus
+==============================================================================
+
+OBJETIVO
+--------
+Avaliar por quanto tempo um germe permanece ativo fora do corpo e escolher
+a barreira que reduz o contágio.
+
+QUANDO USAR
+-----------
+Ao encontrar fezes, vômito, sangue ou secreção em superfície ou água.
+Ao reutilizar recipiente, ferramenta ou superfície usada por doente.
+Ao decidir se basta limpar, se precisa desinfetar ou se deve descartar.
+Ao lidar com água, solo ou alimentos de origem duvidosa.
+
+NAO USE QUANDO
+--------------
+Este texto não substitui orientação médica nem diagnóstico.
+Não serve para escolher antibiótico: resistência a remédio é outro
+assunto. Se houver suspeita de doença grave, procure atendimento.
+
+MATERIAIS
+---------
+- Água corrente e sabão ou detergente neutro.
+- Pano ou escova limpa para esfregar (pano descartável, se houver).
+- Desinfetante: álcool 70% ou hipoclorito a 0,1% (1000 ppm).
+- Pano limpo separado para aplicar o desinfetante.
+- Álcool em gel 70% para as mãos (ou água e sabão).
+
+PROCEDIMENTO
+------------
+1. Observe a origem da sujeira: fezes, vômito, sangue ou secreção indicam
+   carga alta de germes e exigem mais cuidado.
+2. Identifique a superfície: lisa e não porosa (metal, plástico, vidro) ou
+   porosa (pano, papel, madeira, papelão).
+3. Estime o tempo decorrido e as condições: calor e sol reduzem a
+   sobrevivência; frio, escuro e umidade a prolongam.
+4. Lembre da regra dos grupos: esporos e vírus sem envelope resistem mais;
+   vírus com envelope e bactérias comuns cedem mais fácil.
+5. Retire o material visível com papel ou pano descartável.
+6. Lave a área com água, sabão ou detergente e esfregue. Limpar remove
+   germes e terra, mas não os mata.
+7. Enxágue e seque, se o produto exigir, antes de desinfetar.
+8. Aplique o desinfetante cobrindo toda a área, mantendo molhada por pelo
+   menos 1 minuto, ou o tempo indicado no rótulo.
+9. Para sangue ou fezes, use hipoclorito a 0,5% (5000 ppm).
+10. Lave as mãos com água e sabão, ou use álcool em gel 70%.
+11. Evite tocar olhos, nariz e boca até lavar as mãos.
+12. Para água e alimentos, ferver continua sendo a barreira mais segura.
+
+ATENCAO
+-------
+Aqui resistência quer dizer permanecer capaz de infectar fora do corpo, e
+não resistir a remédio. Saber o grupo do germe não diz quanto tempo ele
+sobreviveu ali: carga inicial, umidade, temperatura, superfície, luz e
+matéria orgânica mudam muito o resultado. Números de laboratório são
+limites máximos, não previsão para a sua casa. Seco não quer dizer seguro:
+esporos e vírus sem envelope permanecem ativos por dias a meses. Álcool
+não mata esporos nem todos os vírus sem envelope. Desinfetante aplicado
+sobre terra ou sangue pode falhar; limpe primeiro. Nunca misture produtos
+de limpeza. Se houve contato com sangue ou ferida, lave bem e procure
+orientação.
+
+SE NAO TIVER
+------------
+Sem desinfetante, lave com água e sabão e esfregue: remove carga, mas não
+mata todos os germes. Sem álcool, lave as mãos com água corrente e sabão
+por cerca de 20 segundos. Para água suspeita, ferver é a opção mais
+segura. Secar ao sol e ventilar a área ajudam, mas não substituem a
+limpeza e a desinfecção.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A sujeira visível desapareceu e a superfície ficou limpa, sem resíduo.
+O desinfetante cobriu toda a área e a manteve molhada pelo tempo certo.
+As mãos foram lavadas e não tocaram olhos, nariz ou boca depois disso.
+A água usada para beber foi fervida e guardada em recipiente tampado.
+
+FONTES
+------
+Resumo operacional de fontes públicas consultadas: orientação da OMS
+sobre limpeza e desinfecção de superfícies no contexto de COVID-19
+(2020); FAQ do Ministério da Saúde do Brasil sobre sobrevivência do
+coronavírus em superfícies; Manual de Limpeza e Desinfecção de
+Superfícies da Anvisa; orientações da CDC sobre transmissão ambiental e
+sobrevivência de patógenos; revisão sistemática da Clinical Microbiology
+Reviews (2024) e revisão do Journal of Hospital Infection (2024) sobre
+persistência de microrganismos em superfícies. Texto resumido, não
+substitui treinamento.

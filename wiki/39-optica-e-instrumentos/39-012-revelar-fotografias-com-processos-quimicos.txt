@@ -1,0 +1,97 @@
+==============================================================================
+CODIGO: 39-012
+TITULO: Como revelar fotografias com processos químicos tradicionais
+CATEGORIA: 39 - Óptica e instrumentos científicos
+TEMPO: 45 minutos
+RISCO: alto
+EXIGE: filme exposto, tanque vedado, químicos, água, luvas e óculos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: revelar, filme, fotografia, negativo, revelador, fixador
+==============================================================================
+
+OBJETIVO
+---------
+Transformar um filme exposto em negativos visíveis e estáveis à luz.
+
+QUANDO USAR
+-----------
+Quando há filme exposto e não existe laboratório comercial por perto.
+Quando a comunidade precisa guardar registros em papel ou filme.
+Quando há reagentes dentro da validade e água corrente disponível.
+
+NAO USE QUANDO
+--------------
+Quando faltar água corrente para lavar o filme após a fixação.
+Quando os reagentes estiverem vencidos ou sem identificação no rótulo.
+Quando não houver luvas, óculos de proteção e ventilação no local.
+Quando o filme ficou exposto à luz antes de ser carregado no tanque.
+
+MATERIAIS
+---------
+- Filme fotográfico já exposto (preto e branco, uso comum).
+- Tanque com tampa vedada à luz (saco de carregamento).
+- Revelador para filme preto e branco (diluição do rótulo).
+- Banho de parada (ácido acético diluído; água fria em emergência).
+- Fixador (tiossulfato de sódio ou amônio, conforme o rótulo).
+- Água corrente para a lavagem final.
+- Luvas de nitrilo e óculos com vedação lateral.
+- Cronômetro, termômetro, quatro recipientes, pinça e envelope.
+
+PROCEDIMENTO
+------------
+1. Confira validade e diluição de cada reagente no rótulo.
+2. Separe revelador, parada, fixador e água em recipientes.
+3. Calce luvas, coloque óculos e mantenha a ventilação ligada.
+4. Carregue o filme no carretel em escuro total, sem tocar na emulsão.
+5. Feche a tampa do tanque antes de acender qualquer luz.
+6. Prepare o revelador na temperatura indicada no rótulo.
+7. Despeje o revelador no tanque e inicie o cronômetro.
+8. Agite nos intervalos do rótulo, sempre com a tampa fechada.
+9. Mantenha a temperatura estável até o fim da revelação.
+10. Devolva o revelador ao recipiente e adicione o banho de parada.
+11. Agite a parada por aproximadamente 30 segundos.
+12. Descarte a parada, encha com fixador e agite pelo tempo do rótulo.
+13. Descarte o fixador e só então abra o tanque.
+14. Lave em água corrente por aproximadamente 10 minutos.
+15. Pendure para secar sem poeira, corte e guarde em envelope identificado.
+
+ATENCAO
+-------
+Revelador, parada e fixador irritam pele e olhos: use luvas e óculos.
+Nunca abra o tanque durante a revelação: a luz destrói o filme.
+Revelar demais escurece o negativo; por pouco deixa imagem fraca.
+Fixação curta deixa o negativo leitoso, que escurece com o tempo.
+Respingo nos olhos: lave com água corrente por vários minutos.
+Se a dor ou a vermelhidão persistirem, procure atendimento médico.
+Vapores de ácido e revelador irritam as vias respiratórias.
+Trabalhe com ventilação, nunca em quarto fechado.
+Não misture reagentes fora do tanque: liberam calor e vapores.
+Neutralize e descarte conforme a ficha; nunca em rio ou esgoto.
+Leia a ficha de segurança; este texto não a substitui.
+
+SE NAO TIVER
+------------
+Sem tanque vedado, use saco de carregamento.
+Nunca improvise com caixa que tenha frestas de luz.
+Sem banho de parada, use água corrente fria.
+Mantenha por aproximadamente 30 segundos; o contraste pode cair.
+Sem fixador, não existe substituto caseiro seguro: pare e consiga fixador.
+Sem termômetro, mantenha a solução em local fresco.
+Aceite resultado aproximado e anote essa limitação.
+Sem luvas ou óculos de proteção, não faça: garanta esses itens.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O negativo mostra imagem invertida com tons cinza distintos contra a luz.
+As partes que receberam mais luz aparecem escuras; as outras, claras.
+A superfície fica uniforme, sem leitosidade, manchas ou marcas de respingo.
+O filme seco não gruda e não passa cor para o envelope de papel.
+
+FONTES
+------
+Revelação em preto e branco é prática consolidada de câmara escura.
+Etapas: revelador, banho de parada, fixador e lavagem.
+Os tempos não vieram de documento consultado nesta sessão.
+Confirme diluição e tempo no rótulo do fabricante.
+Segurança química: NIOSH Pocket Guide to Chemical Hazards (CDC).
+Consultado nesta sessão: proteção de pele e olhos e lavagem imediata.

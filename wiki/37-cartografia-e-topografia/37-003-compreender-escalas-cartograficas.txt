@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 37-003
+TITULO: Como compreender escalas cartográficas
+CATEGORIA: 37 - Cartografia, topografia e levantamento
+TEMPO: 20 minutos
+RISCO: medio
+EXIGE: mapa com escala legível, régua, papel, lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: escala, mapa, distância, régua, carta, conversão, quilômetro
+==============================================================================
+
+OBJETIVO
+--------
+Converter distâncias medidas no mapa em distâncias reais no terreno.
+
+QUANDO USAR
+-----------
+Ao planejar uma rota e o tempo necessário para percorrê-la.
+Ao estimar a distância até água, abrigo ou povoado mais próximo.
+
+NAO USE QUANDO
+--------------
+Quando a escala estiver ilegível ou ausente.
+Em relevo acidentado, mede só a horizontal; folha ampliada muda a escala.
+
+MATERIAIS
+---------
+- Mapa com a escala impressa (ou carta planimétrica).
+- Régua milimetrada (ou tira de papel com centímetros marcados).
+- Papel, lápis e cordão para trechos curvos (opcional).
+
+PROCEDIMENTO
+------------
+1. Ache a escala na informação marginal, na borda da folha.
+2. Leia a numérica: 1:50.000 quer dizer que 1 cm no mapa vale 500 m.
+3. Anote a escala no papel antes de medir.
+4. Meça com a régua a linha reta entre dois pontos do mapa.
+5. Multiplique os centímetros por 500 e obtenha metros.
+   Exemplo: 4 cm no mapa equivalem a 2.000 m no terreno.
+6. Para trechos curvos, encoste um cordão ao caminho no mapa.
+7. Estique o cordão na régua e meça o comprimento total.
+8. Some aproximadamente 20 por cento à distância calculada.
+9. Anote a distância final ao lado do trecho da rota.
+
+ATENCAO
+-------
+A escala mede a horizontal, não a distância que os pés andam.
+Em subidas, a caminhada é sempre mais longa que a medida.
+Folhas ampliadas mudam o valor de 1 cm impresso: desconfie delas.
+Confundir 1:50.000 com 1:500.000 erra a distância por dez vezes.
+Confira os zeros da escala duas vezes antes de calcular.
+Se o resultado não bater com referências visíveis, pare e refaça.
+
+SE NAO TIVER
+------------
+Sem régua, marque numa tira de papel uma medida conhecida, como a
+largura do polegar, e compare com a barra gráfica do mapa.
+Com a escala gráfica (barra), encoste a tira e leia a distância direto.
+Sem mapa com escala, estime por referências visíveis e caminhe com
+folga de tempo e água.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Confere com um trecho visível, como uma ponte, e foi anotado em metros.
+
+FONTES
+------
+Manual de Sobrevivência das Forças Armadas dos Estados Unidos
+(capítulo de cartas geográficas, edição em português); verbete
+Map Scale da National Geographic Society (2023).

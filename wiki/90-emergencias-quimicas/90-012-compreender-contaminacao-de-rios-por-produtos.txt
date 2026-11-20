@@ -1,0 +1,80 @@
+==============================================================================
+CODIGO: 90-012
+TITULO: Como compreender contaminação de rios por produtos químicos
+CATEGORIA: 90 - Emergências químicas, industriais e ambientais
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: luvas, botas, recipiente para amostra e caderno de campo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: rio, água, efluente, descarga, peixe, amostra
+==============================================================================
+
+OBJETIVO
+---------
+Reconhecer sinais de contaminação química em rios e agir cedo.
+
+QUANDO USAR
+-----------
+Quando a água mudar de cor, cheiro ou espuma sem chuva recente.
+Ao ver descarte de efluente ou tubulação industrial no rio.
+Quando peixes morrerem em grande número ou boiarem na superfície.
+Depois de acidente com caminhão-tanque perto do curso d'água.
+Quando moradores reclamarem de irritação ao tomar banho no rio.
+
+NAO USE QUANDO
+--------------
+Não beba nem cozinhe com água do rio suspeito.
+Não entre na água se houver cheiro forte ou espuma persistente.
+Não colete amostra sem proteção em correnteza ou margem instável.
+
+MATERIAIS
+---------
+- Luvas de nitrilo e botas de borracha.
+- Recipiente limpo com tampa para coletar amostra de água.
+- Caderno e lápis para anotar local, hora, cor, cheiro e espuma.
+- Câmera ou celular para registrar a cena, se disponível.
+- Saco para guardar material recolhido da margem.
+
+PROCEDIMENTO
+------------
+1. Observe o rio de longe antes de se aproximar da margem.
+2. Anote cor, cheiro, espuma e presença de peixes mortos.
+3. Identifique dutos, valas ou descargas que desaguam no trecho.
+4. Coloque luvas e botas antes de manusear a água.
+5. Colete a amostra em recipiente limpo, de preferência na margem segura.
+6. Feche e identifique o recipiente com local, data e hora.
+7. Registre fotos do trecho e da possível fonte de descarga.
+8. Não toque em peixes mortos sem luvas.
+9. Avise moradores para não usar a água para banho ou consumo.
+10. Comunique imediatamente o órgão ambiental e a defesa civil.
+11. Encaminhe a amostra para análise, se houver coleta oficial.
+12. Acompanhe as orientações divulgadas pelos órgãos responsáveis.
+
+ATENCAO
+-------
+Mudança de cor, cheiro ou espuma pode indicar descarga recente e perigosa.
+Peixes mortos em número alto sinalizam toxicidade aguda da água.
+Contato com a água pode causar irritação na pele e nos olhos.
+Não confie em água clara: muitos contaminantes não têm cor nem cheiro.
+Correnteza pode arrastar o contaminante para jusante rapidamente.
+Crianças e animais que beberam a água devem ser avaliados.
+Nunca tente identificar a substância por cheiro aproximando o rosto.
+
+SE NAO TIVER
+------------
+Sem recipiente próprio, use garrafa limpa com tampa e identifique.
+Sem botas, mantenha distância da margem e observe de longe.
+Sem celular, descreva a cena por escrito com o máximo de detalhe.
+Sem órgão local, acione a emergência e informe o que foi observado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A ocorrência foi registrada com local, hora e sinais observados.
+Moradores foram avisados e o órgão ambiental foi acionado.
+A amostra foi identificada e encaminhada para análise oficial.
+
+FONTES
+------
+Resumo de procedimentos de vigilância de corpos d'água divulgados por órgãos
+ambientais e serviços de saúde. Registro de campo e acionamento do órgão
+competente são condutas consolidadas em manuais de monitoramento ambiental.

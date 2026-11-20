@@ -1,0 +1,79 @@
+==============================================================================
+CODIGO: 53-003
+TITULO: Como funciona a absorção de medicamentos no organismo
+CATEGORIA: 53 - Produção de medicamentos e farmacologia
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: absorção, remédio, biodisponibilidade, primeira passagem
+==============================================================================
+
+OBJETIVO
+--------
+Entender o caminho de um medicamento desde a administração até o sangue.
+
+QUANDO USAR
+-----------
+Ao entender por que um remédio oral demora mais que uma injeção.
+Ao compreender o significado de biodisponibilidade na bula.
+Ao questionar por que certos remédios devem ser tomados com água ou comida.
+Ao entender por que a via sublingual costuma agir rápido.
+
+NAO USE QUANDO
+--------------
+Não use para escolher remédio, dose ou via de administração.
+Não substitui bula, prescrição nem orientação do farmacêutico.
+Não serve para calcular dose infantil nem para preparar remédio caseiro.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Defina farmacocinética: é o que o corpo faz com o remédio.
+2. Separe as quatro etapas: absorção, distribuição, metabolismo e excreção.
+3. Defina absorção: passagem do fármaco intacto até a corrente sanguínea.
+4. Identifique a via: oral, sublingual, injetada, inalada ou pela pele.
+5. Siga um comprimido oral: ele chega ao estômago e se dissolve.
+6. Observe que o ácido e as enzimas podem degradar parte do fármaco.
+7. Acompanhe o restante até o intestino, onde a absorção se completa.
+8. Note que o duodeno absorve mais rápido por causa das vilosidades.
+9. Defina biodisponibilidade: fração da dose que chega ao sangue intacta.
+10. Tome a veia como referência: biodisponibilidade de 100 por cento.
+11. Entenda a primeira passagem: intestino e fígado consomem parte da dose.
+12. Compare: vias injetada e sublingual evitam a primeira passagem.
+13. Meça: Cmáx é o pico, Tmáx o tempo até ele, ASC a área sob a curva.
+14. Verifique o que muda a absorção: comida, fluxo, idade e outras drogas.
+15. Relacione: baixa biodisponibilidade pede mais, conforme prescrição.
+
+ATENCAO
+-------
+Este texto explica o processo; não indica remédio, dose nem tratamento.
+Nunca mude via, horário ou dose por conta própria.
+Alimentos e outros remédios podem aumentar ou reduzir a absorção.
+Tetraciclina e íons metálicos formam complexos; digoxina e resinas também.
+Sinais de intoxicação: náusea, vômito, tontura, confusão ou falta de ar.
+Biodisponibilidade varia: a dose de outro não serve para você.
+A absorção não garante efeito: depende também de distribuição e excreção.
+
+SE NAO TIVER
+------------
+Sem bula, leia a parte de farmacocinética de um manual de farmacologia.
+Sem professor, use o roteiro acima para seguir o caminho do comprimido.
+Não invente número de dose ou concentração para preencher lacuna de memória.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue descrever o caminho de um comprimido até a corrente sanguínea.
+Você sabe explicar por que a injeção na veia tem biodisponibilidade de 100%.
+Você consegue citar três fatores que mudam a absorção de um remédio.
+
+FONTES
+------
+Manuais MSD edição para profissionais: Visão geral da farmacocinética e
+Biodisponibilidade. StatPearls, NCBI Bookshelf: Drug Absorption, Drug
+Bioavailability e First-Pass Effect. Anvisa, Resolução RDC 749 de 2022.
+EUPATI Toolbox: biodisponibilidade e bioequivalência. Resumo operacional;
+não substitui estudo nem orientação clínica.

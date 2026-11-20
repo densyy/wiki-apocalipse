@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 71-010
+TITULO: Como criar cópias físicas de chaves criptográficas
+CATEGORIA: 71 - Criptografia, segurança da informação e privacidade
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: chave privada, frase-senha, papel, impressora, local trancado
+REVISAO: 2026-11
+PALAVRAS-CHAVE: chave, copia, papel, backup, recuperacao, senha, cofre
+==============================================================================
+
+OBJETIVO
+---------
+Guardar uma copia fisica da chave privada para recuperar o acesso.
+
+QUANDO USAR
+-----------
+Quando a chave protege dados que nao podem ser recriados.
+Antes de formatar um disco, trocar de aparelho ou viajar sem o computador.
+Quando a chave existe apenas em um dispositivo que pode falhar.
+
+NAO USE QUANDO
+--------------
+Nao use se nao houver um lugar privado e seguro para guardar o papel.
+A copia da chave privada da o mesmo acesso a qualquer leitor.
+
+MATERIAIS
+---------
+- Chave privada que se quer copiar e a sua frase-senha (senha longa).
+- Papel comum, sem marca d'agua, e impressora local (ou caneta).
+- Envelope opaco com lacre.
+- Local seco, trancado e longe de fogo e agua (cofre ou armario).
+
+PROCEDIMENTO
+------------
+1. Escolha apenas as chaves que protegem dados que nao podem ser refeitos.
+2. Confirme que a chave e sua e que sabe a frase-senha dela.
+3. Exporte a chave privada como texto legivel. No GPG, esse formato
+   e chamado ASCII-armored; comeca com BEGIN PGP PRIVATE KEY BLOCK.
+4. Imprima esse texto em papel limpo ou copie a mao, sem abbreviar nada.
+5. Confira cada linha: o papel deve igualar o texto original.
+6. Escreva a frase-senha em outro papel, nunca no mesmo da chave.
+7. Coloque cada papel em um envelope opaco e lacre os envelopes.
+8. Guarde os envelopes em locais separados e trancados.
+9. Teste: importe o texto do papel no programa e veja se a chave abre.
+
+ATENCAO
+-------
+A copia da chave privada vale tanto quanto a propria chave.
+Nao use impressora compartilhada, ela pode guardar o texto no disco.
+Papel queima e molha: guarde longe de fogo e agua e confira a legibilidade.
+Perder a copia e grave so se a original tambem sumir: perdem-se os dados.
+
+SE NAO TIVER
+------------
+Sem impressora, copie o texto a mao e confira duas vezes.
+Se a chave nao tiver frase-senha, trate o papel como dinheiro e guarde
+sempre sob chave.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O texto do papel, importado de volta no programa, abre a chave e mostra a
+mesma impressao digital (codigo curto que identifica a chave) da original.
+O papel esta legivel, seco e lacrado no local onde foi guardado.
+
+FONTES
+------
+NIST SP 800-57 Parte 1 Rev. 5, Recommendation for Key Management (2020);
+GNU Privacy Handbook (Manual do GnuPG); pratica de guarda em papel.

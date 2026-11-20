@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 69-010
+TITULO: Como compreender circuitos retificadores
+CATEGORIA: 69 - Eletrônica analógica e componentes discretos
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: diodos, papel, lápis, fonte de baixa tensão, multímetro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: retificador, diodo, alternada, contínua, ponte, capacitor
+==============================================================================
+
+OBJETIVO
+--------
+Entender como o diodo converte corrente alternada em corrente contínua.
+
+QUANDO USAR
+-----------
+Quando for montar uma fonte de alimentação de baixa tensão.
+Quando a fonte liga mas o aparelho não funciona.
+
+NAO USE QUANDO
+--------------
+Não use este texto para mexer na rede elétrica da tomada.
+A tensão da tomada pode matar. Desligue antes de medir.
+Use um transformador que isole e reduza a tensão antes de ligar.
+
+MATERIAIS
+---------
+- Um diodo retificador comum, ou quatro para uma ponte.
+- Papel e lápis para desenhar o circuito e anotar.
+- Fonte isolada de baixa tensão, como transformador de 6 V.
+- Resistor de 1 kohm e capacitor eletrolítico.
+- Multímetro com escala de tensão alternada e contínua.
+
+PROCEDIMENTO
+------------
+1. Desenhe no papel a fonte, o resistor e o diodo em série.
+2. Localize a faixa no diodo: marca o catodo, lado negativo.
+3. Vire o diodo com o anodo voltado ao polo positivo.
+4. Meça a entrada com o multímetro em tensão alternada.
+5. Mude para contínua e meça a saída do meio de onda.
+6. Em silício, a queda ao conduzir é aproximadamente 0,7 V.
+7. Monte uma ponte com quatro diodos: dois conduzem por ciclo.
+8. Ligue o capacitor em paralelo, na polaridade certa.
+9. Meça de novo: a ondulação cai e a tensão sobe.
+
+ATENCAO
+-------
+A tensão da tomada mata. Nunca ligue o circuito direto nela.
+Use apenas fonte isolada de baixa tensão antes do retificador.
+Diodo invertido ou com corrente alta queima e pode estourar.
+Respeite a corrente máxima e a tensão reversa do diodo.
+Capacitor ao contrário vaza ou estoura. Descarregue-o antes de tocar.
+
+SE NAO TIVER
+------------
+Sem diodo, não improvise com fio: fio não retifica.
+Sem capacitor, a saída fica pulsante; serve para poucos usos.
+Sem transformador isolado, não monte nada: use fonte segura.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A tensão contínua é maior na ponte que no meio de onda.
+Com capacitor, a ondulação cai e a tensão sobe.
+A polaridade da saída não inverte quando a entrada inverte.
+
+FONTES
+------
+Comportamento do diodo e fontes retificadoras: prática consolidada de
+eletrônica básica, sem documento único. Resumo, não substitui treinamento.

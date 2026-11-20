@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 40-015
+TITULO: Como preservar gravações de áudio
+CATEGORIA: 40 - Acústica e engenharia sonora
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: mãos limpas, local fresco e seco, aparelho de reprodução, computador
+REVISAO: 2026-11
+PALAVRAS-CHAVE: áudio, gravação, fita, preservar, digitalizar, WAV, cópia
+==============================================================================
+
+OBJETIVO
+--------
+Guardar fitas, discos e arquivos de áudio para que continuem acessíveis.
+
+QUANDO USAR
+-----------
+Quando chegam fitas ou discos antigos de familiares.
+Quando há fita com mais de 15 anos que nunca foi copiada.
+
+NAO USE QUANDO
+--------------
+Não tente consertar fita com cheiro de vinagre ou fita pegajosa em casa.
+Não use forno, secador ou sol para secar fita danificada.
+
+MATERIAIS
+---------
+- Mãos limpas e secas (luvas de algodão, se houver).
+- Caixa rígida limpa e seca (a original, se estiver boa).
+- Aparelho limpo, computador com entrada de áudio e sílica gel.
+
+PROCEDIMENTO
+------------
+1. Lave e seque as mãos antes de tocar na mídia.
+2. Retire fitas e discos do sótão, do porão e do chão.
+3. Leve tudo para local escuro, fresco, seco e de temperatura estável.
+4. Inspecione cada peça com a vista e o olfato, sem reproduzir.
+5. Separe peças com cheiro de vinagre, mofo, pó branco ou fita pegajosa.
+6. Guarde as suspeitas em saco fechado com sílica gel, à parte.
+7. Deixe a mídia aclimatar de 24 a 48 horas antes de reproduzir.
+8. Segure discos pela borda e etiqueta; fitas, pela carcaça.
+9. Nunca toque a superfície gravada com os dedos.
+10. Guarde discos e rolos em pé, na capa; fitas na caixa, longe de imãs.
+11. Mire umidade de 30% a 40% e temperatura de 10 °C a 18 °C.
+12. Grave em WAV a 48 kHz e 24 bits, sem MP3; faça duas cópias.
+13. Guarde as cópias em lugares diferentes; priorize fitas antigas.
+
+ATENCAO
+-------
+Umidade acima de 65% favorece mofo; abaixo de 15%, a fita resseca.
+Calor e oscilação de temperatura aceleram a quebra do material.
+Fita com cheiro de vinagre não tem cura: copie rápido e não asse.
+Fita pegajosa pode destruir o aparelho: não tente assar em casa.
+Peça ajuda profissional antes de tocar mídia com mofo visível.
+
+SE NAO TIVER
+------------
+Sem caixa de arquivo, use caixa plástica rígida, limpa e seca.
+Sem computador, mantenha a mídia no local fresco e seco e peça ajuda.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O arquivo WAV toca do início ao fim, sem chiado de fita suja.
+Há duas cópias em lugares diferentes e nenhum cheiro de mofo.
+
+FONTES
+------
+Biblioteca do Congresso dos EUA, guia de cuidado e guarda audiovisual.
+Arquivo Nacional dos EUA, orientação sobre guarda de áudio.
+IASA TC-04; Instituto Canadense de Conservação; UNESCO.

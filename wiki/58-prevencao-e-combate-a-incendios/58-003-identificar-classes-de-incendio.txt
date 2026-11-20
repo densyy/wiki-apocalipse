@@ -1,0 +1,78 @@
+==============================================================================
+CODIGO: 58-003
+TITULO: Como identificar classes de incêndio
+CATEGORIA: 58 - Prevenção e combate a incêndios
+TEMPO: 10 minutos
+RISCO: alto
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fogo, classes A B C D K, extintor, óleo, elétrico
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer a classe de um incêndio pelo material que está queimando.
+
+QUANDO USAR
+-----------
+Antes de escolher o extintor para um foco pequeno.
+Ao avaliar um cômodo para saber que tipos de fogo podem ocorrer.
+Quando houver dúvida sobre o material que está queimando.
+Ao orientar outras pessoas sobre qual agente extintor usar.
+
+NAO USE QUANDO
+--------------
+Não use este guia para combater fogo fora de um foco inicial.
+Se as chamas passam do tamanho de um balde ou o fogo atinge o teto,
+saia e acione o Corpo de Bombeiros. Não se aproxime de fumaça densa
+para identificar o material: retire-se e avise os bombeiros.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Olhe o fogo de uma distância segura antes de escolher o extintor.
+2. Note se o material é sólido, líquido, gás, metal ou gordura.
+3. Veja se sobra brasa ou cinza depois da queima, sem se aproximar.
+4. Classifique como A se for sólido comum que deixa brasa ou cinza.
+5. Classifique como B se for líquido ou gás inflamável sem resíduo.
+6. Classifique como C se houver equipamento elétrico energizado.
+7. Classifique como K se for óleo ou gordura de cozinha em panela.
+8. Classifique como D se for metal em pó, aparas ou lascas.
+9. Leia a etiqueta do extintor e veja quais classes ela cobre.
+10. Use o extintor só se a etiqueta cobrir a classe identificada.
+
+ATENCAO
+-------
+A água nunca vai em fogo de classe C: há risco de choque elétrico.
+Água em óleo ou gordura quentes faz o fogo espalhar e pode explodir.
+Não jogue água em metal pirofórico: a reação é violenta.
+Usar extintor errado pode piorar o fogo ou não apagar nada.
+Não tente combater fogo grande: saia e acione o Corpo de Bombeiros.
+Fogo em ambiente fechado produz monóxido de carbono: saia para o ar livre.
+Um foco apagado pode voltar a queimar; observe de longe.
+
+SE NAO TIVER
+------------
+Sem extintor, não improvise com água nas classes C, D e K.
+Em classe A, água em foco pequeno é o substituto usual.
+Em panela pequena de óleo, tampe com tampa ou pano úmido apenas
+se o fogo estiver bem contido e houver rota de fuga livre.
+Na dúvida, não improvise: saia e chame o Corpo de Bombeiros.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A letra da classe identificada aparece na etiqueta do extintor escolhido.
+O agente do extintor é não condutor quando a classe é C.
+Nenhum jato de água foi dirigido a óleo, gordura, metal ou fio energizado.
+Se não deu para identificar, o local foi evacuado.
+
+FONTES
+------
+Guia de procedimentos para o uso seguro de extintores do CBPF.
+Manual de prevenção e combate a incêndios da Defesa Civil do Paraná.
+Cartilha do Corpo de Bombeiros de São Paulo sobre classes de incêndio.
+Fact sheet sobre extintores da NFPA, baseado na norma NFPA 10.
+Instruções técnicas IT 03 e IT 21 do Corpo de Bombeiros de São Paulo.

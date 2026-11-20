@@ -1,0 +1,97 @@
+==============================================================================
+CODIGO: 69-023
+TITULO: Como reaproveitar componentes de sucata eletrônica
+CATEGORIA: 69 - Eletrônica analógica e componentes discretos
+TEMPO: 50 minutos
+RISCO: alto
+EXIGE: multímetro, ferro de solda, pulseira antiestática, óculos, luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: sucata, reaproveitar, resistor, capacitor, diodo, teste
+==============================================================================
+
+OBJETIVO
+--------
+Recuperar e testar peças de aparelhos descartados para reutilizá-las.
+
+QUANDO USAR
+-----------
+Quando faltar resistor, capacitor, diodo ou conector para uma montagem.
+Quando um aparelho velho foi descartado e ainda tem peças íntegras.
+Quando houver fonte isolada de baixa tensão para testar as peças.
+Quando houver multímetro e bancada isolada para medir cada peça.
+
+NAO USE QUANDO
+--------------
+Nunca abra equipamento ligado na tomada: a rede elétrica mata.
+Não reaproveite peça de aparelho que esteve na rede sem saber isolar.
+Não reutilize capacitor inchado, vazando ou com cheiro: pode estourar.
+Não recupere peça de aparelho com cheiro de queimado ou umidade.
+Não use peça de valor desconhecido em circuito de alimentação.
+
+MATERIAIS
+---------
+- Aparelho desligado, sem bateria e fora da tomada.
+- Chave de fenda e alicate com cabo isolado.
+- Ferro de solda de baixa potência e estanho.
+- Sugador de solda ou fita de dessoldagem.
+- Multímetro digital para medir resistência e continuidade.
+- Pulseira antiestática aterrada.
+- Óculos de proteção e luvas de pano ou couro.
+- Superfície isolada, seca, ventilada e longe de inflamáveis.
+- Álcool isopropílico e pano limpo.
+- Saco plástico, caixa com tampa, etiquetas e caneta.
+
+PROCEDIMENTO
+------------
+1. Desligue o aparelho da tomada e retire baterias e cabos.
+2. Descarregue capacitores com resistor de alto valor antes de tocar.
+3. Abra a tampa com chave isolada, sem forçar parte sob tensão.
+4. Anote ou fotografe a posição de cada fio e conector.
+5. Corte as travas plásticas com alicate, com as mãos protegidas.
+6. Aqueça cada solda com o ferro e use o sugador de solda.
+7. Retire a peça reta, sem torcer os terminais da placa.
+8. Limpe os terminais com álcool e pano, tirando a oxidação.
+9. Meça cada peça no multímetro antes de confiar nela.
+10. Para resistor, compare a medida com as faixas de cor.
+11. Para capacitor, meça a capacitância e descarte valor muito baixo.
+12. Para diodo, meça nos dois sentidos: um passa, outro bloqueia.
+13. Para transistor, teste as junções no modo diodo do multímetro.
+14. Descarte peça com valor aberto, em curto ou fora da tolerância.
+15. Etiquete cada peça com o valor medido e guarde em saco próprio.
+16. Separe a placa e as peças quebradas para coleta de resíduos.
+
+ATENCAO
+-------
+O que mata aqui é a rede elétrica: nunca abra aparelho ligado na tomada.
+Capacitor grande guarda carga após o desligamento e pode dar choque.
+Descarregue com resistor antes de tocar nos terminais.
+Tubo de imagem e fonte chaveada mantêm alta tensão mesmo desligados.
+Bordas de chapa e plástico quebrado cortam: use luvas e óculos.
+Solda de aparelho antigo contém chumbo: não inale o fumo e lave as mãos.
+Capacitor eletrolítico velho pode vazar ou estourar se ligado ao contrário.
+Estática danifica circuito integrado: toque em metal aterrado antes de agir.
+Com cheiro de queimado, fumaça ou fogo, saia e chame os bombeiros.
+
+SE NAO TIVER
+------------
+Sem pulseira antiestática, toque em metal aterrado a cada poucos minutos.
+Sem sugador, use fita de dessoldagem ou corte os terminais e retire depois.
+Sem multímetro, não confie em peça recuperada: meça ou pegue peça nova.
+Sem álcool, limpe só com pano seco e limpo, sem solvente desconhecido.
+Sem coleta de resíduos, guarde o lixo separado até achar um centro.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada peça tem valor medido e anotado na etiqueta.
+Resistor, capacitor e diodo passam no teste do multímetro.
+Nenhuma peça esquenta, cheira ou solta fumaça no primeiro teste.
+Placa e peças quebradas ficaram separadas para descarte correto.
+
+FONTES
+------
+Prática consolidada de recuperação e teste de componentes, sem documento
+único consultado. Regras de segurança elétrica adotadas nesta biblioteca:
+nunca trabalhar na rede energizada e descarregar capacitor antes de tocar
+(ver 69-001 e 69-002). Cuidados com solda de chumbo e descarga estática
+seguem prática comum de bancada. Descarte de resíduos eletrônicos segue
+orientação de coleta seletiva de resíduos sólidos.

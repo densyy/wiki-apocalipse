@@ -1,0 +1,68 @@
+==============================================================================
+CODIGO: 04-029
+TITULO: Como reduzir o consumo elétrico
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: acesso ao quadro, lampadas economicas, regua com chave
+REVISAO: 2026-11
+PALAVRAS-CHAVE: economia, consumo, energia, desligar, standby, conta
+==============================================================================
+
+OBJETIVO
+--------
+Reduzir o gasto de eletricidade sem cortar o uso essencial.
+
+QUANDO USAR
+-----------
+Quando a conta de luz subiu sem explicacao.
+Quando o gerador nao aguenta todos os aparelhos.
+Quando for preciso racionar energia em crise.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Lampadas economicas (lampadas de LED).
+- Regua com chave liga e desliga (extensao simples).
+- Caderno e caneta para anotar os vilões.
+- Etiquetas ou fita para marcar aparelhos.
+
+PROCEDIMENTO
+------------
+1. Liste os aparelhos que ficam ligados o dia todo.
+2. Desligue da tomada o que estiver em espera sem uso.
+3. Agrupe TV e acessorios em regua com chave.
+4. Desligue a chave da regua ao terminar de usar.
+5. Troque as lampadas antigas por LED onde der.
+6. Apague a luz ao sair de cada comodo.
+7. Reduza o tempo de banho quente eletrico.
+8. Lave roupa com carga cheia e agua fria.
+9. Ajuste a geladeira para abertura rapida e vedacao boa.
+10. Confira o medidor antes e depois de uma hora.
+11. Mantenha so um aparelho grande ligado por vez.
+
+ATENCAO
+-------
+Reduzir consumo nao autoriza mexer em fio energizado.
+Nunca abra o quadro nem improvise emenda para economizar.
+Aparelho quente, com cheiro de queimado ou faisca: pare.
+Desligue o aparelho suspeito e chame ajuda tecnica.
+Economia que apaga geladeira ou remédio refrigerado faz mal.
+
+SE NAO TIVER
+------------
+Sem regua com chave, tire o plugue da tomada ao terminar.
+Sem LED, use menos pontos de luz acesos por vez.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O medidor avanca mais devagar no mesmo periodo.
+Aparelhos em espera ficam sem luz acesa de espera.
+A casa mantem o essencial ligado por mais tempo.
+
+FONTES
+------
+Pratica consolidada de eficiencia energetica, sem documento unico.

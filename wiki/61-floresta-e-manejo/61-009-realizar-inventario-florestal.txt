@@ -1,0 +1,79 @@
+==============================================================================
+CODIGO: 61-009
+TITULO: Como realizar inventário florestal
+CATEGORIA: 61 - Agricultura florestal e manejo de ecossistemas
+TEMPO: 120 minutos
+RISCO: medio
+EXIGE: trena ou corda, caderno, lápis, estacas, roupas de proteção
+REVISAO: 2026-11
+PALAVRAS-CHAVE: inventário, floresta, árvore, DAP, parcela, medir, madeira
+==============================================================================
+
+OBJETIVO
+--------
+Medir as árvores de uma área e estimar a quantidade de madeira disponível.
+
+QUANDO USAR
+-----------
+Antes de planejar qualquer retirada de madeira da área.
+Para saber quantas árvores existem e qual o tamanho médio delas.
+Após uma intervenção, para conferir o que ficou de pé.
+Quando precisar estimar lenha sem cortar tudo de uma vez.
+
+NAO USE QUANDO
+--------------
+Quando o único objetivo for atravessar a floresta com pressa.
+Como autorização de corte: medir não permite derrubar árvores.
+Em terreno íngreme ou com árvores prestes a cair, sem avaliar antes.
+
+MATERIAIS
+---------
+- Trena de 10 m ou corda com nós a cada metro (corda marcada).
+- Corda fina ou fita para medir a volta do tronco (arame flexível).
+- Caderno e lápis (papel e carvão).
+- Estacas ou pedras para marcar os cantos da parcela.
+- Faca para limpar a vegetação no pé da árvore.
+- Botas, luvas, calça e manga longa, chapéu.
+
+PROCEDIMENTO
+------------
+1. Escolha um ponto seguro e representativo do conjunto da área.
+2. Meça um quadrado de 10 m por 10 m com a trena ou a corda marcada.
+3. Marque os quatro cantos com estacas ou pedras.
+4. Comece num canto e ande em linha reta até o canto oposto.
+5. A cada árvore, meça a volta do tronco a 1,30 m do chão.
+6. Essa altura define o diâmetro à altura do peito, chamado DAP.
+7. Anote a volta da árvore e o nome da espécie, se souber.
+8. Divida a volta por aproximadamente 3,14 para obter o DAP em cm.
+9. Descarte árvores com DAP menor que 10 cm do levantamento.
+10. Repita em pelo menos cinco pontos espalhados e afastados.
+11. Some as árvores e divida pelo número de parcelas medidas.
+12. Multiplique por 100 para estimar árvores por hectare.
+
+ATENCAO
+-------
+O inventário é uma estimativa, não uma contagem exata do que existe.
+Meça sempre na mesma altura: mudar a altura altera o DAP e o resultado.
+Não fique parado debaixo de galhos secos ou árvores muito inclinadas.
+Em área com cobras, insetos ou espinhos, use botas e luvas e observe.
+Inventariar não autoriza cortar: floresta nativa exige permissão legal.
+Para usar o número no manejo, meça mais parcelas para reduzir o erro.
+
+SE NAO TIVER
+------------
+Sem trena, use corda com nós a cada metro e anote como aproximado.
+Sem fita para o tronco, meça a volta com corda e depois com a trena.
+Não improvise relascópio sem treino: o erro pode ser muito grande.
+Sem entrar na floresta, observe de ponto fixo e diga o limite do dado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Todas as parcelas têm o mesmo tamanho e a mesma altura de medição.
+O caderno traz o número de árvores e a volta de cada parcela.
+O resultado informa árvores por hectare e o número de parcelas usadas.
+
+FONTES
+------
+Prática consolidada de mensuração florestal por parcelas fixas e DAP.
+Família de referência: manuais de silvicultura e órgãos florestais.
+Este texto é resumo operacional, não substitui treinamento técnico.

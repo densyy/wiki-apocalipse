@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 69-001
+TITULO: Como entender os fundamentos da eletrônica analógica
+CATEGORIA: 69 - Eletrônica analógica e componentes discretos
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: caderno, lapis, multimetro, pilha comum de 1,5 V
+REVISAO: 2026-11
+PALAVRAS-CHAVE: eletrônica, analógica, tensão, corrente, resistência, ohm
+==============================================================================
+
+OBJETIVO
+--------
+Entender o que são tensão, corrente e resistência e aplicar a lei de Ohm.
+
+QUANDO USAR
+-----------
+Quando for ler um esquema ou montar um circuito simples de baixa tensão.
+Quando um aparelho de baixa tensão não liga e você quer diagnosticar.
+
+NAO USE QUANDO
+--------------
+Não serve para trabalho em rede elétrica nem em equipamentos ligados
+à tomada. Para isso, procure um eletricista. Não substitui treinamento.
+
+MATERIAIS
+---------
+- Caderno e lápis para anotar os valores.
+- Multímetro com escala de volts, amperes e ohms.
+- Pilha comum de 1,5 V como fonte segura.
+- Resistor de valor conhecido entre 100 e 1.000 ohms.
+- Fios curtos com pontas isoladas.
+
+PROCEDIMENTO
+------------
+1. Anote no caderno o valor da pilha: 1,5 V em corrente contínua.
+2. Identifique os três conceitos: tensão é a força que empurra a
+   corrente; corrente é o fluxo de carga; resistência é a oposição.
+3. Escreva a lei de Ohm: U = I x R, em volts, amperes e ohms.
+4. Ligue o multímetro em escala de volts contínuos nos polos da pilha.
+5. Confira a leitura próxima de 1,5 V e anote.
+6. Monte o circuito: polo positivo, resistor, polo negativo da pilha.
+7. Meça a corrente em série com o resistor e anote o valor em amperes.
+8. Meça a resistência do resistor com a pilha desligada.
+9. Multiplique a corrente pela resistência e compare com a tensão.
+10. Identifique os componentes: resistor limita, capacitor guarda carga,
+    diodo deixa passar corrente em um só sentido, transistor amplifica.
+
+ATENCAO
+-------
+A corrente elétrica através do corpo pode matar.
+A tensão da rede elétrica da tomada é letal: nunca a toque.
+Nunca faça medições em fios desencapados nem em rede energizada.
+Não curtocircuite a pilha: ela esquenta e pode vazar.
+
+SE NAO TIVER
+------------
+Sem multímetro, limite-se a ler o valor impresso no resistor e a
+calcular U = I x R no papel. Não improvise medição com fio na tomada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A leitura de tensão ficou próxima de 1,5 V.
+O produto corrente vezes resistência aproximou-se da tensão medida.
+
+FONTES
+------
+Conceitos consolidados de física e engenharia elétrica. Referências:
+Sears e Zemansky, University Physics (Pearson); The Art of Electronics,
+de Horowitz e Hill; definições de unidades do NIST. Resumo operacional.

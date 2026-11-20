@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 48-016
+TITULO: Como produzir sal alimentar a partir de fontes adequadas
+CATEGORIA: 48 - Produção de alimentos em escala comunitária
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: fonte salgada segura, bandeja de plástico alimentício, pano, sol
+REVISAO: 2026-11
+PALAVRAS-CHAVE: sal, sal caseiro, salmoura, evaporação, iodado, salina
+==============================================================================
+
+OBJETIVO
+--------
+Obter cristais de sal de cozinha a partir de uma fonte salgada segura.
+
+QUANDO USAR
+-----------
+Quando o abastecimento de sal industrializado faltar na comunidade.
+Quando houver água do mar limpa ou fonte salina natural conhecida.
+Quando for preciso conservar alimentos por secagem ou salga.
+
+NAO USE QUANDO
+--------------
+Quando a água vier de indústria, mina, porto, marina, esgoto ou dreno
+agrícola. A evaporação concentra o contaminante junto com o sal.
+Quando a fonte tiver cheiro de óleo, solvente ou drenagem ácida.
+Quando não houver como manter o sal livre de poeira, chuva e animais.
+
+MATERIAIS
+---------
+- Água do mar limpa ou salmoura de fonte salina natural conhecida.
+- Bandeja rasa de plástico de uso alimentar (ou madeira sem tratamento).
+- Peneira de plástico ou pano limpo (ou arame sem ferrugem).
+- Utensílio de madeira sem tratamento ou de plástico alimentar.
+- Pano limpo e tampa para proteger da poeira.
+- Local ensolarado, arejado, longe de descargas e de animais.
+
+PROCEDIMENTO
+------------
+1. Confirme a origem da água salgada antes de começar. Use apenas água
+   do mar sem descargas conhecidas ou salmoura de fonte natural.
+2. Descarte qualquer água com cheiro químico, cor estranha ou espuma.
+3. Lave a bandeja com água limpa e sabão; enxague e deixe secar.
+4. Descarte recipientes que guardaram óleo, tinta, agrotóxico ou
+   combustível. Não use madeira pintada, tratada ou pneus.
+5. Despeje a água salgada na bandeja formando camada de aproximadamente
+   1 a 2 centímetros. Camada mais fina evapora mais depressa.
+6. Cubra com pano limpo preso nas bordas para reter poeira e insetos.
+   Deixe circular ar; não feche a bandeja de forma hermética.
+7. Exponha ao sol e ao vento até a água baixar e aparecerem cristais.
+8. Observe a superfície a cada poucas horas. Retire a camada de cristais
+   com o utensílio limpo quando ela atingir aproximadamente 2 centímetros.
+9. Deixe os cristais escorrerem sobre a peneira por alguns minutos.
+   A salmoura que escorre é amarga e não serve para consumo.
+10. Espalhe os cristais em camada fina sobre superfície limpa e seca.
+11. Vire os cristais a cada poucas horas até não umedecerem o pano.
+12. Peneire para retirar areia e impurezas visíveis.
+13. Guarde o sal seco em recipiente limpo, tampado e ao abrigo da umidade.
+14. Repita o ciclo com a salmoura restante até ela ficar amarga demais.
+
+ATENCAO
+-------
+A evaporação não remove metais pesados, arsênio, agrotóxicos nem
+combustíveis: ela os concentra no sal. Nunca colha água perto de
+indústria, mina, terminal portuário, marina, lixão ou rio poluído.
+Se a água ou o sal tiver cheiro de óleo, solvente ou mofo, descarte tudo.
+Não use fogo para acelerar a evaporação dentro de casa: além do risco de
+queimadura, o fogo em ambiente fechado produz monóxido de carbono.
+Sal artesanal não contém iodo. No Brasil, o sal destinado ao consumo
+humano deve ser iodado; usar apenas sal caseiro pode causar bócio e
+danos neurológicos em gestantes e crianças. Não tente iodar em casa:
+a dose exige laboratório. Mantenha sal iodado industrial como reserva.
+Estudos acharam coliformes em sal solar: lave as mãos e afaste animais.
+Pare e procure a unidade de saúde se alguém apresentar náusea, vômito,
+dor abdominal ou sintomas após consumir o sal produzido.
+
+SE NAO TIVER
+------------
+Sem bandeja de plástico alimentar, use madeira sem tratamento ou pedra
+lisa limpa; nunca recipiente de metal reativo ou que tenha guardado
+produtos químicos. Sem sol, o processo fica muito lento: não improviso
+forno ou fogueira em ambiente fechado. Sem fonte segura, não produza sal:
+guarde o sal iodado comprado e racione o uso.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Apareceram cristais brancos e secos, sem cheiro estranho, sem grãos de
+areia visíveis e sem umidade que molhe o pano ao apertar. O sal dissolve
+na água sem deixar resíduo oleoso na superfície.
+
+FONTES
+------
+Anvisa, Resolução RDC 28/2000 (boas práticas e iodação obrigatória do
+sal para consumo humano); OMS, diretriz de fortificação de sal com iodo
+(2014) e ficha sobre iodização do sal; World Food Programme,
+especificação técnica de sal iodado (2023), que define mar, depósitos
+de sal-gema e salmoura natural como origens aceitas e exclui o sal
+subproduto de indústria química; DGAV, regras de proveniência do sal
+alimentar; BCCDC, avaliação de risco do sal marinho (2016); MedArtSal,
+manual de boas práticas para salinas costeiras (IUCN, 2023).

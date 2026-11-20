@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 03-105
+TITULO: Como realizar higiene em ambientes coletivos
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: agua, sabao, pano limpo, balde, luvas ou sacolas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: higiene, limpeza, coletivo, abrigo, doenca, banheiro
+==============================================================================
+
+OBJETIVO
+--------
+Manter dormitorio, banheiro e cozinha limpos para reduzir doencas.
+
+QUANDO USAR
+-----------
+Abrigo ou alojamento com varias pessoas dividindo espaco.
+Banheiro coletivo com uso intenso durante o dia.
+Diarreia, gripe ou piolho atingindo mais de uma pessoa.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Agua limpa (ou agua tratada para enxaguar).
+- Sabao ou detergente (ou cinza peneirada para o piso).
+- Pano, esponja ou escova (ou camiseta velha rasgada).
+- Balde ou bacia (ou garrafa plastica cortada).
+- Luvas de borracha e saco de lixo (ou sacolas plasticas).
+
+PROCEDIMENTO
+------------
+1. Lave as maos com agua e sabao antes de comecar.
+2. Calce luvas ou cubra as maos com sacolas plasticas.
+3. Abra portas e janelas para ventilar o ambiente.
+4. Recolha todo o lixo e leve o saco fechado para fora.
+5. Lave mesas, pias e assentos com agua e sabao.
+6. Enxague o pano em balde separado e troque a agua suja.
+7. Seque mesas e assentos com pano limpo e seco.
+8. Estenda colchoes ao sol por aproximadamente 2 horas.
+9. Anote na parede o turno de limpeza e lave as maos.
+
+ATENCAO
+-------
+Higiene reduz o risco, mas nao elimina infeccao em grupo.
+Nao misture agua sanitaria com outros produtos de limpeza.
+A mistura libera gas que irrita olhos e pulmoes.
+Use agua sanitaria diluida so em vaso e piso, nunca no corpo.
+Se varias pessoas tiverem febre, vomito ou diarreia,
+separe os doentes e procure atendimento de saude.
+
+SE NAO TIVER
+------------
+Sem sabao: esfregue com agua e areia grossa limpa e enxague.
+Sem luvas ou vassoura: use sacolas nas maos e papelao firme.
+Sem saco de lixo: enterre restos de comida longe do abrigo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Chao sem lixo e superficies sem gordura e sem mau cheiro.
+Banheiro limpo, lixo fechado fora e maos lavadas ao final.
+
+FONTES
+------
+Pratica consolidada de higiene em abrigos coletivos
+(referencias: OMS, Manual Esfera e Cruz Vermelha).
+Resumo operacional, nao substitui profissional de saude.

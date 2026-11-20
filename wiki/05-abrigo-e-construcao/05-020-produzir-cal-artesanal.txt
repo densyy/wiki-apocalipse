@@ -1,0 +1,83 @@
+==============================================================================
+CODIGO: 05-020
+TITULO: Como produzir cal artesanal
+CATEGORIA: 05 - Abrigo, construção e habitação
+TEMPO: 8 horas
+RISCO: alto
+EXIGE: pedra calcária, forno simples, lenha seca, água, proteção
+REVISAO: 2026-11
+PALAVRAS-CHAVE: cal, calcário, caieira, argamassa, reboco, cal virgem
+==============================================================================
+
+OBJETIVO
+--------
+Transformar pedra calcária em cal para argamassa e reboco simples.
+
+QUANDO USAR
+-----------
+Quando falta cimento e é preciso assentar tijolos ou pedras.
+Quando o reboco da parede caiu e precisa refazer com cal.
+Quando há calcário disponível e forno simples pode ser montado.
+Quando a obra aceita argamassa fraca de cal e areia.
+
+NAO USE QUANDO
+--------------
+Se não há certeza de que a pedra é calcário verdadeiro.
+Em estrutura que sustenta peso, viga ou laje de concreto.
+Em local fechado sem ventilação por causa da fumaça do forno.
+
+MATERIAIS
+---------
+- Pedra calcária clara e dura (teste com vinagre: deve espumar).
+- Forno de barro e pedra, tambor metálico ou pilha tipo caieira.
+- Lenha seca grossa em grande quantidade e gravetos para acender.
+- Martelo ou pedra pesada para britar e peneira grossa.
+- Balde metálico, água limpa e pá ou enxada para mexer.
+- Proteção: óculos fechados, luvas grossas, máscara e roupa longa.
+
+PROCEDIMENTO
+------------
+1. Confirme o calcário pingando vinagre: espuma indica carbonato.
+2. Quebre as pedras em pedaços de aproximadamente 5 cm.
+3. Monte o forno em local aberto, longe de palha e de moradia.
+4. Alterne camadas de lenha grossa e pedra até encher o forno.
+5. Acenda com gravetos e mantenha fogo forte por horas seguidas.
+6. Alimente o fogo até as pedras ficarem brancas e mais leves.
+7. Deixe o forno esfriar sozinho antes de tocar nas pedras.
+8. Retire a cal virgem com pá, sem encostar a mão ou o rosto.
+9. Coloque a cal virgem no balde metálico em local ventilado.
+10. Jogue água aos poucos sobre a cal, de longe e com cuidado.
+11. Afaste-se do vapor quente até a fervura da extinção parar.
+12. Mexa a pasta com a pá e peneire para tirar pedras cruas.
+13. Guarde a cal hidratada em balde tampado e marque como corrosiva.
+
+ATENCAO
+-------
+Cal virgem e cal hidratada queimam pele, boca e olhos com gravidade.
+Poeira e vapor causam cegueira: use óculos, luvas e máscara sempre.
+A extinção com água ferve e espirra: jogue água aos poucos e de longe.
+Forno solta monóxido de carbono: nunca opere em local fechado.
+Este procedimento não serve para concreto estrutural nem laje.
+Obra com cal é fraca: não sustente peso nem suba em parede nova.
+Se queimar a pele, lave com água corrente por minutos e procure ajuda.
+
+SE NAO TIVER
+------------
+Sem vinagre, teste a pedra no fogo: calcário vira pó branco e leve.
+Sem tambor, empilhe pedra e lenha em monte cônico no chão batido.
+Sem peneira, cate à mão com luva os pedaços crus após hidratar.
+Sem máscara, use pano triplo úmido e trabalhe sempre a favor do vento.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A pedra calcinada sai branca, leve e esfarela com a mão de luva.
+Na água, a cal chia, esquenta e vira pasta branca sem pedras duras.
+Misturada com areia, a massa gruda na colher e não desmancha na hora.
+
+FONTES
+------
+Prática consolidada de caieiras e calcinação de calcário
+(famílias de referência: CETEM, Embrapa e manual militar de
+sobrevivência civil); segurança química da cal virgem e da cal
+hidratada (famílias de referência: CDC NIOSH e MSHA). Resumo
+operacional, sem treinamento.

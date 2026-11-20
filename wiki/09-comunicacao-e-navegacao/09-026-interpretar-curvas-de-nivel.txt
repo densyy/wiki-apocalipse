@@ -1,0 +1,68 @@
+==============================================================================
+CODIGO: 09-026
+TITULO: Como interpretar curvas de nível
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: mapa topográfico com curvas de nível, lápis, régua
+REVISAO: 2026-11
+PALAVRAS-CHAVE: curva de nível, mapa, altitude, declividade, vale, encosta
+==============================================================================
+
+OBJETIVO
+--------
+Leia um mapa topográfico e identifique altitudes, vales, morros e encostas.
+
+QUANDO USAR
+-----------
+Quando precisar escolher o caminho de menor esforço no terreno.
+Quando precisar achar vales, água corrente e passagens baixas no mapa.
+Quando o GPS falhar e sobrar apenas um mapa impresso.
+
+NAO USE QUANDO
+--------------
+Quando o mapa não tem curvas de nível ou falta a equidistância na legenda.
+Sem esses dados, não há como estimar altitude: use outro mapa.
+
+MATERIAIS
+---------
+- Mapa topográfico com curvas de nível e legenda (carta do IBGE ou similar).
+- Lápis (ou caneta que não borra).
+- Régua reta (ou palito, ou a borda de um papel).
+
+PROCEDIMENTO
+------------
+1. Anote a equidistância da legenda: a altitude entre curvas vizinhas.
+2. Localize as curvas índice: mais grossas, com números de altitude.
+3. Some ou subtraia a equidistância para achar a altitude de uma curva.
+4. Observe o espaçamento: juntas, encosta íngreme; afastadas, suave.
+5. Procure curvas em V: a ponta aponta para montante, de onde vem a água.
+6. Siga o V ao leito: ali há água corrente e passagem mais baixa.
+7. Identifique laços fechados: o interior é mais alto, é um morro.
+8. Veja se há hachuras no laço: marcas curtas indicam depressão.
+9. Compare a altitude atual com a do destino: sobe ou desce?
+10. Marque a rota que evita encostas com curvas mais juntas.
+
+ATENCAO
+-------
+Sem equidistância na legenda, não invente número de altitude.
+Curvas muito juntas podem ser penhasco: não desça direto por ali.
+Em espigões o V aponta para baixo, para fora da elevação, não para a água.
+Se o mapa discordar do que você vê, pare e confira a orientação.
+
+SE NAO TIVER
+------------
+Sem régua, compare distâncias com um palito ou a borda do dedo.
+Sem carta com curvas, peça uma a quem tiver ou a órgão de cartografia.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você aponta no mapa o vale, o morro e a encosta íngreme.
+Ao olhar o terreno, o que você viu confere com o mapa.
+Contando as curvas entre dois pontos, você informa a diferença de altitude.
+
+FONTES
+------
+USGS (Serviço Geológico dos Estados Unidos): mapas topográficos e curvas
+de nível do National Geospatial Program e do Colorado Water Science Center.
+Prática consolidada de cartografia: regra do V, regra do O, equidistância.

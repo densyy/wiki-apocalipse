@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 03-002
+TITULO: Como avaliar uma pessoa inconsciente
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 5 minutos
+RISCO: critico
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: inconsciente, desmaiado, respiração, via aérea, RCP
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer em segundos se a pessoa respira e decidir o próximo passo.
+
+QUANDO USAR
+-----------
+Pessoa caída que não responde quando você fala ou toca.
+Pessoa com respiração ruidosa ou com suspiros irregulares.
+Pessoa que desmaiou e não volta a si.
+Acidente, queda, afogamento ou choque elétrico com vítima imóvel.
+Qualquer situação em que a pessoa não reage a estímulos.
+
+NAO USE QUANDO
+--------------
+Não vire a pessoa de lado se houver suspeita de fratura na coluna.
+Não incline a testa se houver suspeita de lesão no pescoço.
+Não faça compressões no peito se a pessoa respira e responde.
+
+MATERIAIS
+---------
+- Nenhum material.
+- Celular, se houver, para ligar em viva-voz (ou peça a outra pessoa).
+
+PROCEDIMENTO
+------------
+1. Olhe ao redor e garanta que o local é seguro para você entrar.
+2. Ajoelhe-se ao lado da pessoa, sem sacudi-la.
+3. Toque os ombros e pergunte em voz alta: "Você está bem?".
+4. Espere uma resposta, um gesto ou um som por alguns segundos.
+5. Se não houver resposta, grite por ajuda.
+6. Peça a alguém para ligar para o SAMU (192) ou bombeiros (193).
+7. Se estiver sozinho, ligue em viva-voz e continue a avaliação.
+8. Abra a via aérea: incline a testa para trás e levante o queixo.
+9. Se houver suspeita de lesão no pescoço, não incline a testa.
+10. Nesse caso, puxe o queixo para frente com as duas mãos.
+11. Cheire, ouça e sinta o peito por até 10 segundos.
+12. Conte em voz baixa para não passar dos 10 segundos.
+13. Suspiros irregulares e espaçados não contam como respiração normal.
+14. Se não houver respiração normal, comece RCP imediatamente.
+15. Se houver respiração normal, vire a pessoa de lado com cuidado.
+
+Para a posição lateral de segurança:
+16. Estique o braço mais próximo de você no chão, palma para cima.
+17. Traga o outro braço sobre o peito e apoie a mão na bochecha.
+18. Puxe a perna mais distante por cima, com o joelho dobrado.
+19. Gire a pessoa para o seu lado, apoiando a mão na bochecha.
+20. Incline a cabeça um pouco para trás para manter a via aberta.
+21. Confirme que o peito continua subindo e descendo.
+
+ATENCAO
+-------
+Uma avaliação demorada custa a vida: limite cada checagem a 10 segundos.
+Nunca deixe a pessoa de costas se ela vomita ou tem secreção na boca.
+Suspiros irregulares no início de uma parada não são respiração normal.
+Se suspeitar de lesão na coluna, não gire o corpo: mantenha a via aberta
+com as mãos e espere o socorro.
+Não dê água, comida nem remédio a quem não responde.
+Não coloque de lado quem não está respirando: comece RCP.
+A avaliação não trata a causa: toda pessoa inconsciente precisa de ajuda.
+
+SE NAO TIVER
+------------
+Sem ajuda: use o celular em viva-voz e continue sem sair do lugar.
+Sem celular: peça a alguém que corra para chamar o socorro.
+Sem luz: use o tato no peito e o ouvido perto da boca para sentir o ar.
+Sem saber fazer RCP: faça apenas compressões no centro do peito.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A respiração é vista ou sentida, e você diz em voz alta o que encontrou.
+A pessoa virada de lado continua com o peito subindo e descendo.
+O socorro foi chamado e você informou que a pessoa não responde.
+
+FONTES
+------
+Orientação de primeiros socorros do St John Ambulance sobre avaliação
+inicial, abertura de via aérea, checagem de respiração e RCP, com
+revisão clínica em 2026. Texto operacional; não substitui treinamento.

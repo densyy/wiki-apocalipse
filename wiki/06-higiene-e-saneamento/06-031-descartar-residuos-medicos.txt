@@ -1,0 +1,86 @@
+==============================================================================
+CODIGO: 06-031
+TITULO: Como descartar resíduos médicos
+CATEGORIA: 06 - Higiene, saneamento e resíduos
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: luvas, caixa rígida com tampa, sacos plásticos resistentes
+REVISAO: 2026-11
+PALAVRAS-CHAVE: resíduo, médico, agulha, seringa, curativo, descarte
+==============================================================================
+
+OBJETIVO
+--------
+Separar o resíduo médico do lixo comum e travar o contato.
+
+QUANDO USAR
+-----------
+Quando há agulha, seringa, lâmina ou vidro de curativo.
+Quando há gaze, curativo ou pano com sangue, pus ou secreção.
+Quando há frasco de remédio, sobra de comprimido ou teste.
+Quando acabou o cuidado em casa e sobrou material usado.
+Quando a coleta parou e o material acumula no abrigo.
+
+NAO USE QUANDO
+--------------
+Para tinta, solvente, pilha, veneno ou combustível.
+Para pó químico desconhecido ou aparelho com radiação.
+Nesses casos embale separado, sinalize e guarde sem abrir.
+Não queime, não enterre e não misture com o resíduo médico.
+
+MATERIAIS
+---------
+- Luvas de borracha ou dois sacos firmes na mão (pano grosso).
+- Caixa rígida com tampa para perfurante (garrafa grossa, lata).
+- Sacos plásticos resistentes, de preferência vermelhos ou fortes.
+- Fita, corda ou tira de pano para fechar e marcar o pacote.
+- Água e sabão para lavar as mãos e limpar o local ao fim.
+- Pá ou enxada para cavar a cova de descarte (facão firme).
+
+PROCEDIMENTO
+------------
+1. Calce luvas antes de tocar em qualquer resíduo médico.
+2. Separe na origem em três montes sem misturar os tipos.
+3. Guarde o lixo comum longe para não virar resíduo médico.
+4. Coloque agulha e lâmina direto na caixa rígida sem recapar.
+5. Feche a caixa quando chegar a aproximadamente 3 quartos.
+6. Junte gaze e curativo com sangue dentro do saco resistente.
+7. Feche o saco com nó firme sem apertar e sem tirar o ar.
+8. Coloque o saco dentro de outro saco e feche com outro nó.
+9. Marque com risco vermelho e a palavra PERIGO bem visível.
+10. Guarde fechado e suspenso longe de criança e de animal.
+11. Enterre em cova de aproximadamente 1 m se não há coleta.
+12. Cave a cova a aproximadamente 30 m de poço e de rio.
+13. Cubra com aproximadamente 50 cm de terra e marque o ponto.
+
+ATENCAO
+-------
+Agulha usada transmite hepatite, tétano e HIV por uma furada.
+Nunca recape, entorte ou quebre agulha com a mão.
+Saco fino fura e contamina quem carrega e quem cata lixo.
+Este método só isola o perigo: não desinfeta nem trata doença.
+Queimar seringa e plástico solta fumaça tóxica: não queime.
+Remédio vencido contamina água: não jogue em rio ou fossa.
+Lave com água corrente e procure atendimento se furar a pele.
+
+SE NAO TIVER
+------------
+Sem caixa própria, use garrafa grossa com tampa presa com fita.
+Sem saco vermelho, use saco comum duplo e marque PERIGO.
+Sem luva, cubra cada mão com saco duplo e troque se rasgar.
+Sem pá, cave com enxada ou madeira dura em solo seco e alto.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ninguém precisa abrir o pacote para mover ou guardar.
+A caixa de perfurante está fechada e só até a marca.
+O pacote está rotulado, suspenso e longe de comida e criança.
+Não há agulha solta, cheiro forte ou animal no local.
+
+FONTES
+------
+Orientação da OMS sobre resíduos de serviços de saúde e
+manejo em emergências; norma da Anvisa sobre resíduos de
+serviços de saúde; guia do CDC sobre perfurocortantes e
+abrigo em desastres; prática de campo de Oxfam e IFRC.
+Resumo operacional, sem treinamento.

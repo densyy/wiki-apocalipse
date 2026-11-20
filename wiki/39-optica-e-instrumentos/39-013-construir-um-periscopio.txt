@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 39-013
+TITULO: Como construir um periscópio
+CATEGORIA: 39 - Óptica e instrumentos científicos
+TEMPO: 45 minutos
+RISCO: baixo
+EXIGE: tubo reto, dois espelhos pequenos, fita adesiva, estilete, régua
+REVISAO: 2026-11
+PALAVRAS-CHAVE: periscópio, espelho, reflexão, 45 graus, tubo, espiar
+==============================================================================
+
+OBJETIVO
+--------
+Montar um tubo com espelhos para ver sobre um obstáculo sem expor o rosto.
+
+QUANDO USAR
+-----------
+Quando for preciso observar por cima de um muro ou de uma multidão.
+Quando quiser demonstrar a reflexão da luz com material barato.
+
+NAO USE QUANDO
+--------------
+Quando for preciso ver a grande distância com nitidez: não há aumento.
+Com luz fraca a imagem fica escura e pouco útil.
+Não use espelhos de vidro onde crianças possam manusear o aparelho.
+
+MATERIAIS
+---------
+- Tubo reto de papelão, PVC ou madeira, com 30 a 50 cm (caixa rígida).
+- Dois espelhos planos pequenos, de preferência acrílicos.
+- Fita adesiva forte, régua, lápis e estilete ou serra.
+- Lixa para as bordas; papel preto para forrar o interior (opcional).
+
+PROCEDIMENTO
+------------
+1. Marque duas aberturas retangulares em faces opostas do tubo.
+2. Deixe cada abertura a aproximadamente 2 cm da extremidade.
+3. Corte as aberturas com estilete, apoiando o tubo em local firme.
+4. Passe lixa nas bordas até remover farpas que cortem os dedos.
+5. Coloque um espelho a 45 graus na abertura superior, virado para fora.
+6. Fixe o espelho com fita, sem cobrir a face refletiva.
+7. Coloque o segundo espelho a 45 graus, paralelo ao primeiro.
+8. Vire a face refletiva para a abertura de observação e fixe com fita.
+9. Confira se as faces refletivas ficaram paralelas e se encarando.
+10. Vede frestas com fita para bloquear a luz lateral.
+11. Aproxime o olho da abertura inferior e gire até o alvo aparecer.
+
+ATENCAO
+-------
+Espelho de vidro quebrado corta fundo; use acrílico perto de crianças.
+Não aponte o aparelho para o sol: o reflexo pode queimar a retina.
+Não tem aumento e o campo é estreito; não substitui a visão direta.
+Com luz fraca a imagem escurece; pare e use outro meio de observação.
+Se a imagem ficar dupla, pare, desfaça a fita e realinhe os espelhos.
+
+SE NAO TIVER
+------------
+Sem tubo, use uma caixa de papelão retangular rígida e bem fechada.
+Sem espelho, cole papel-alumínio liso em cartolina: a imagem fica escura.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ao olhar pela abertura inferior, vê-se o que está acima do obstáculo.
+A imagem fica parada e nítida quando os espelhos estão bem alinhados.
+
+FONTES
+------
+Demonstração de periscópio da Universidade do Colorado Boulder (6A10.39);
+princípio consolidado da reflexão em dois espelhos paralelos a 45 graus.

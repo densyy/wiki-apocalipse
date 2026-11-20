@@ -1,0 +1,68 @@
+==============================================================================
+CODIGO: 65-013
+TITULO: Como compreender elastômeros
+CATEGORIA: 65 - Engenharia de materiais e polímeros
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: caderno, lupa, amostras descartadas de borracha e plástico
+REVISAO: 2026-11
+PALAVRAS-CHAVE: elastômero, borracha, vulcanização, elasticidade, silicone
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer um elastômero e explicar por que ele estica e volta ao formato.
+
+QUANDO USAR
+-----------
+Quando precisa distinguir borracha de plástico numa peça sem etiqueta.
+Quando uma peça de borracha endureceu, rachou ou perdeu a elasticidade.
+Quando precisa escolher borracha ou silicone para uma vedação.
+
+NAO USE QUANDO
+--------------
+Não use para dimensionar peça que sustenta peso ou pressão.
+Não substitua ensaio, norma técnica ou cálculo de engenheiro.
+
+MATERIAIS
+---------
+- Caderno e lápis para anotar observações.
+- Lupa ou ampliador de bolso para ver a superfície.
+- Amostras descartadas de borracha, silicone e plástico.
+
+PROCEDIMENTO
+------------
+1. Observe a amostra com a lupa. Note cor, textura e brilho.
+2. Estique a amostra fina e solte. Borracha volta; plástico não.
+3. Dobre e solte outra vez. Elastômero recupera a forma; cera não.
+4. Aperte com o dedo. Elastômero cede e é macio; cerâmica não cede.
+5. Coloque na água. Borracha e silicone afundam; muitos plásticos flutuam.
+6. Use a flutuação só como pista, nunca como prova de composição.
+7. Aqueça a amostra com as mãos. Borracha amolece um pouco e volta.
+8. Entenda: elastômero é polímero com cadeias ligadas por pontes.
+9. Essas pontes, reticulações, impedem que as cadeias deslizem.
+10. Registre no caderno a família da amostra e o teste que a sustentou.
+
+ATENCAO
+-------
+Este texto é introdutório; não substitui ensaio nem norma técnica.
+Não dimensione vedação, pneu ou peça de segurança com base nele.
+Borracha envelhece com sol, calor, ozônio e óleo; racha sem aviso.
+Em dúvida sobre segurança, não use a peça e procure ajuda.
+
+SE NAO TIVER
+------------
+Sem lupa, observe contra luz forte. Sem água, use só esticar e dobrar.
+Sem amostras, use borracha descartada, como luva ou vedação velha.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você estica a amostra, solta e ela volta ao formato original.
+Você aponta no caderno a família e o teste que sustentou a conclusão.
+
+FONTES
+------
+Prática consolidada de ensino de ciência e engenharia dos materiais,
+presente em cursos universitários e compêndios de introdução aos polímeros.
+Definições de polímero e elastômero segundo a IUPAC.
+Este texto é um resumo operacional, não substitui treinamento.

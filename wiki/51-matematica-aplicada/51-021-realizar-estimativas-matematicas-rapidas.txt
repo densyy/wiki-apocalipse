@@ -1,0 +1,76 @@
+==============================================================================
+CODIGO: 51-021
+TITULO: Como realizar estimativas matemáticas rápidas
+CATEGORIA: 51 - Matemática aplicada à sobrevivência
+TEMPO: 10 minutos
+RISCO: baixo
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: estimativa, arredondar, aproximado, mente, checar, grandeza
+==============================================================================
+
+OBJETIVO
+--------
+Obter um número aproximado e confiável sem papel nem calculadora.
+
+QUANDO USAR
+-----------
+Ao conferir se uma conta combina com o esperado antes de agir.
+Ao planejar suprimento para vários dias ou várias pessoas.
+Ao conferir troco, preço total ou desconto em uma compra.
+Ao medir distância, área ou volume com dados aproximados.
+Ao decidir se um recurso dura até a próxima reposição.
+Ao checar depressa o resultado de uma conta feita no papel.
+
+NAO USE QUANDO
+--------------
+Quando o número exato afetar saúde, dose de remédio ou obra.
+Nesses casos, faça a conta por escrito e confirme com outra pessoa.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Defina antes que resposta você precisa: grandeza, soma ou taxa.
+2. Decida a ordem de grandeza esperada: dezenas, centenas ou milhares.
+3. Arredonde cada número para uma forma fácil: um, dois ou cinco.
+4. Mantenha o mesmo critério de arredondamento em todos os valores.
+5. Anote mentalmente quanto você aumentou ou diminuiu cada número.
+6. Faça a conta com os números arredondados, em voz baixa.
+7. Resolva primeiro as parcelas mais fáceis e some as outras depois.
+8. Troque a ordem da conta quando isso simplificar o cálculo.
+9. Compare o resultado com a ordem de grandeza do passo 2.
+10. Corrija: some ou subtraia o total dos arredondamentos do passo 5.
+11. Arredonde o resultado final para uma casa que faça sentido.
+12. Refaça a conta de trás para frente para conferir.
+
+ATENCAO
+-------
+Estimativa não substitui conta exata quando há risco à saúde ou obra.
+Arredondar para cima e para baixo ao mesmo tempo esconde o erro.
+Não use estimativa para dose de remédio, carga de corda ou altura.
+Com pressa, fome, frio ou cansaço, o erro mental aumenta muito.
+Sempre compare o resultado com a ordem de grandeza prevista.
+Se o resultado destoar da estimativa, pare e refaça no papel.
+Em decisão sobre dinheiro ou segurança, confirme com outra pessoa.
+
+SE NAO TIVER
+------------
+Sem papel, use os dedos para acompanhar quantas vezes somou.
+Sem prática, arredonde um número por vez e refaça a conta.
+Sem confiança, arredonde para valores redondos e aceite a folga.
+Sem calculadora, divida a conta em partes pequenas e some.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O resultado final fica próximo da ordem de grandeza prevista.
+A conta inversa devolve valor semelhante ao de partida.
+O erro somado ao resultado explica a diferença esperada.
+
+FONTES
+------
+Prática consolidada de aritmética mental e cálculo aproximado.
+Não há documento único; as regras são procedimentos padrão de
+arredondamento e ordem de grandeza, não números inventados.

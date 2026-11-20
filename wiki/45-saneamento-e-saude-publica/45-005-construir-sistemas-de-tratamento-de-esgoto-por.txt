@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 45-005
+TITULO: Como construir sistemas de tratamento de esgoto por etapas
+CATEGORIA: 45 - Engenharia de saneamento e saúde pública
+TEMPO: 360 minutos
+RISCO: alto
+EXIGE: pá, luvas, balde, cascalho, tubos, cimento, tijolo, tela e água
+REVISAO: 2026-11
+PALAVRAS-CHAVE: esgoto, fossa, séptica, sumidouro, latrina, fezes, cheiro
+==============================================================================
+
+OBJETIVO
+--------
+Montar um sistema que colete, assente e infiltre o esgoto do abrigo sem
+contaminar a água usada para beber.
+
+QUANDO USAR
+-----------
+Quando a rede de esgoto falhar após enchente ou desastre.
+Quando várias pessoas dividem abrigo ou casa sem sanitário.
+Quando uma latrina improvisada precisa virar sistema com tratamento.
+
+NAO USE QUANDO
+--------------
+Quando o serviço público de esgoto estiver funcionando e testado.
+Quando aparecer água subterrânea ou rocha rasa na escavação.
+Quando houver poço, nascente ou rio a menos de 30 metros do local.
+
+MATERIAIS
+---------
+- Pá e enxada (escavadeira manual).
+- Balde e corda com nós a cada metro (fita métrica).
+- Luvas de borracha e pano para limpar respingos.
+- Tijolo ou bloco com argamassa (barril plástico limpo vedado).
+- Cascalho ou brita lavada (pedras lavadas).
+- Tubo ou mangueira grossa de diâmetro constante.
+- Tampa resistente para a boca de visita e para a latrina.
+
+PROCEDIMENTO
+------------
+1. Escolha o ponto mais alto do terreno, longe de poços e nascentes.
+2. Marque pelo menos 30 metros entre o sistema e qualquer fonte de água.
+3. Defina a jusante, o sentido em que a água escorre no terreno.
+4. Cave a fossa do tanque no ponto marcado, com a boca acima do solo.
+5. Pare se aparecer água ou rocha; mude para um ponto mais alto.
+6. Nivele o fundo e cubra com cascalho ou brita lavada.
+7. Assente tijolos ou blocos com argamassa e vede as paredes internas.
+8. Instale a tampa com boca de visita acessível para a limpeza futura.
+9. Encaixe o tubo de entrada vindo da latrina, com inclinação ao tanque.
+10. Encaixe a saída no lado oposto, acima do lodo que vai se formar.
+11. Encha o tanque com água limpa até a metade e espere 1 hora.
+12. Corrija vazamentos antes de usar; nunca use tanque que perde água.
+13. Cave o sumidouro a jusante, até aproximadamente 1 metro de fundo.
+14. Preencha o sumidouro com cascalho e cubra com terra limpa.
+15. Ligue a saída do tanque ao sumidouro, sem dobras que represem.
+16. Cubra a fossa com terra, deixando só a boca de visita livre.
+17. Use apenas água, fezes e papel higiênico; nunca óleo ou químico.
+18. Mantenha a tampa da latrina fechada depois de cada uso.
+
+ATENCAO
+-------
+O tanque separa o lodo e a gordura; não torna o efluente potável.
+O sumidouro funciona só se o solo drenar; em argila, o esgoto brota.
+Não despeje o efluente em rio, córrego, vala ou terreno de cultivo.
+A distância de 30 metros é referência geral, não garantia de segurança.
+Em solo permeável ou com lençol de água alto, aumente a distância.
+A limpeza do lodo libera gases: ventile a boca antes de abrir e use luvas.
+Nunca misture desinfetante, ácido ou solvente no tanque; pode matar as
+bactérias que ajudam a decompor o lodo e gerar gás inflamável.
+Se o efluente aparecer na superfície ou o cheiro ficar forte, pare de usar.
+Com diarreia com sangue ou vômito no grupo, isole o sistema e peça ajuda.
+
+SE NAO TIVER
+------------
+Sem cimento ou tijolo, use barril plástico limpo enterrado e vedado, que
+nunca tenha guardado combustível, tinta ou agrotóxico.
+Sem cascalho, use pedras lavadas; nunca use terra sozinha no sumidouro.
+Sem tubo, use mangueira grossa com inclinação contínua e sem dobras.
+Sem espaço para 30 metros, escolha o ponto mais alto e distante possível.
+Sem condição de cavar, use latrina elevada sobre tambor vedado e peça
+remoção ao serviço de limpeza, sem despejar em lugar nenhum.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O nível da água no tanque não caiu durante o teste de 1 hora.
+O efluente desaparece no sumidouro sem brotar na superfície.
+Não há cheiro forte de esgoto nem moscas perto da latrina.
+A boca de visita está firme, tampada e acessível para a limpeza.
+Ninguém do grupo adoeceu depois do primeiro dia de uso.
+
+FONTES
+------
+Organização Mundial da Saúde (OMS), folha informativa Saneamento,
+5 de novembro de 2026, e Diretrizes para saneamento e saúde.
+Agência de Proteção Ambiental dos Estados Unidos (EPA), Como funcionam
+os sistemas sépticos, atualizado em 10 de junho de 2026.
+Centros de Controle e Prevenção de Doenças (CDC), Como prevenir a cólera,
+23 de julho de 2025. A distância de 30 metros é prática consolidada,
+sem documento único. Este resumo é operacional e não substitui treino.

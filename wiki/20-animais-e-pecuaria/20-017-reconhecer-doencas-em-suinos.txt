@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 20-017
+TITULO: Como reconhecer doenças em suínos
+CATEGORIA: 20 - Animais domésticos e pecuária
+TEMPO: 20 minutos
+RISCO: alto
+EXIGE: luz, caderno, luvas, termômetro retal (opcional)
+REVISAO: 2026-11
+PALAVRAS-CHAVE: suínos, porco, doença, febre, sintomas, isolamento
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer sinais de doença em suínos e saber quando isolar e agir.
+
+QUANDO USAR
+-----------
+Ao criar porcos em casa, sítio ou pequena propriedade.
+Ao notar um animal parado, sem comer ou com aspecto diferente.
+Ao receber animais novos no plantel.
+Quando houver mortes repentinas ou vários animais doentes ao mesmo tempo.
+Antes de comprar, vender ou transportar suínos.
+
+NAO USE QUANDO
+--------------
+Este texto não substitui diagnóstico veterinário nem exame laboratorial.
+Não tente tratar, vacinar ou abater animais doentes com base apenas aqui.
+Não use como autorização para consumir ou vender carne de animal doente.
+
+MATERIAIS
+---------
+- Luz suficiente para ver o animal (lanterna, se precisar).
+- Caderno e lápis para anotar o que viu.
+- Luvas descartáveis ou saco plástico para as mãos.
+- Termômetro retal (opcional) e lubrificante.
+- Local separado para isolar um animal doente.
+
+PROCEDIMENTO
+-------------
+1. Observe os porcos todos os dias, sempre nos mesmos horários.
+2. Olhe de longe primeiro, sem entrar no curral, para não assustar.
+3. Compare os animais entre si: conheça o aspecto normal do plantel.
+4. Verifique se todos se levantam, andam e procuram comida e água.
+5. Note animais amontoados, cabisbaixos, parados ou com fraqueza.
+6. Observe se há perda de apetite ou animal que não bebe água.
+7. Olhe os olhos: vermelhidão ou secreção (conjuntivite).
+8. Observe o andar: passos cambaleantes ou dificuldade de ficar em pé.
+9. Verifique fezes e urina: prisão de ventre seguida de diarreia.
+10. Olhe pele e orelhas: manchas vermelhas ou arroxeadas, sobretudo
+    nas orelhas, no ventre e na parte interna das coxas.
+11. Observe tosse, espirros e respiração ofegante.
+12. Note em fêmeas abortos, natimortos e leitões com tremores.
+13. Meça a temperatura retal com termômetro, se houver, e anote.
+14. Registre no caderno: data, animal, sinais e quantos estão doentes.
+15. Isole o animal doente em local separado, com água e comida próprias.
+16. Lave as mãos e desinfete calçados e ferramentas após o contato.
+17. Não alimente os porcos com sobras de comida que contenham carne.
+18. Avise o serviço veterinário oficial se houver mortes súbitas ou
+    vários doentes; não mova, venda ou abata os animais doentes.
+
+ATENCAO
+-------
+Febre, manchas arroxeadas e morte rápida podem indicar peste suína
+africana ou clássica: doenças graves e obrigatoriamente notificáveis.
+Sinais parecidos ocorrem em várias doenças; só exame laboratorial confirma.
+Não coma, venda ou doe carcaça de animal doente ou morto sem causa.
+Algumas doenças dos porcos, como gripe suína e brucelose, podem
+atingir pessoas: use luvas, lave as mãos e não manipule com feridas.
+Peste suína africana e clássica não infectam pessoas, mas o vírus
+sobrevive em roupas, calçados, veículos e produtos de carne crua.
+Isole o doente: um porco pode contaminar todo o plantel e silvestres.
+Se os sinais piorarem ou aparecerem mortes, pare de manusear e chame
+o veterinário ou a defesa agropecuária.
+
+SE NAO TIVER
+------------
+Sem termômetro, avalie febre pelo comportamento: animal parado,
+amontoado, com orelhas quentes e que não quer comer.
+Sem luvas, use saco plástico nas mãos e lave bem depois.
+Sem local de isolamento, mantenha o animal doente separado por cerca
+e com acesso exclusivo a água e comida, até chegar ajuda.
+Não improvise medicamentos, doses ou vacinas: isso pode piorar o
+quadro e espalhar a doença.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Descreve com data e número de animais quais sinais viu e em quais porcos.
+O animal doente está isolado, com água e comida próprias.
+O serviço veterinário foi avisado quando houve mortes ou vários doentes.
+Nenhum produto de animal doente foi consumido, vendido ou transportado.
+
+FONTES
+------
+Organização Mundial da Saúde Animal (WOAH): fichas sobre peste suína
+africana e peste suína clássica, com sinais clínicos e biossegurança.
+Serviço de Inspeção de Animais e Plantas do USDA (APHIS): orientações
+de biossegurança em suinocultura e restrição ao uso de sobras com carne.
+Prática consolidada de observação e isolamento na criação de suínos.
+Resumo operacional; não substitui atendimento veterinário nem exame.

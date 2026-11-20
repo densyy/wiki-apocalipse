@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 57-018
+TITULO: Como construir um aquecedor solar de água
+CATEGORIA: 57 - Refrigeração, climatização e conforto
+TEMPO: 6 horas
+RISCO: alto
+EXIGE: tanque, madeira, isolamento, vidro, tinta preta, tubos, sol
+REVISAO: 2026-11
+PALAVRAS-CHAVE: aquecedor, água quente, coletor, tanque preto, vidro, sol
+==============================================================================
+
+OBJETIVO
+--------
+Construir um aquecedor solar simples, sem bomba, para esquentar água
+para lavar, cozinhar e tomar banho.
+
+QUANDO USAR
+-----------
+Quando há sol forte e não há energia para aquecer água.
+Ao precisar de água morna para lavar louça, roupa ou o corpo.
+Em sítio ou acampamento, com a caixa d'água acima do aparelho.
+
+NAO USE QUANDO
+--------------
+Não use tanque fechado sem respiro: a pressão pode estourar o metal.
+Não use se a água ficar parada por dias sem consumo: passa de 80 °C.
+Não use em região de geada frequente sem poder drenar o coletor.
+Não use recipiente que tenha guardado químico, veneno ou combustível.
+
+MATERIAIS
+---------
+- Tanque metálico de 100 a 200 litros (barril ou tanque de água limpa).
+- Caixa de madeira ou compensado (caixote reforçado com isopor).
+- Isolamento: lã de vidro, isopor, serragem ou palha seca (50 mm).
+- Vidro comum ou policarbonato transparente (dupla camada).
+- Tinta preta fosca própria para exterior (esmalte preto fosco).
+- Tubos e conexões de água potável: PVC, PPR ou cobre (mangueira preta).
+- Torneira, válvula de alívio de pressão e tubo aberto de respiro.
+- Parafusos, pregos, calafete e massa para vedar as emendas.
+- Termômetro simples (opcional, para conferir a temperatura).
+
+PROCEDIMENTO
+------------
+1. Escolha um lugar com sol direto o dia todo, sem sombra de prédio.
+2. Vire a face de vidro para o norte no hemisfério sul, ou para o sul.
+3. Teste o tanque: encha com água, tampe e deixe uma noite em pé.
+4. Descarte o tanque se houver vazamento ou ferrugem que o atravessa.
+5. Lave o interior do tanque com água e sabão.
+6. Enxágue até não sair mais sabão pela torneira.
+7. Nunca use tanque que guardou químico, veneno, óleo ou combustível.
+8. Escove a parte externa do tanque para tirar ferrugem e poeira.
+9. Pinte toda a parte externa com tinta preta fosca e deixe secar.
+10. Construa uma caixa de madeira um pouco maior que o tanque.
+11. Forre fundo e paredes com aproximadamente 50 mm de isolamento.
+12. Coloque o tanque dentro com 30 a 50 mm de folga até a tampa.
+13. Fure a parte baixa do tanque para a entrada de água fria.
+14. Fure a parte alta do tanque para a saída de água quente.
+15. Instale o tubo de entrada na parte baixa do tanque.
+16. Instale a torneira de saída na parte alta do tanque.
+17. Deixe um respiro aberto no topo: nunca feche o tanque por completo.
+18. Coloque a válvula de alívio de pressão na linha de água quente.
+19. Cubra a caixa com o vidro e vede as bordas com calafete.
+20. Deixe uma fenda de alguns milímetros na borda baixa para drenar.
+21. Incline a caixa entre 20 e 30 graus, com o vidro voltado ao sol.
+22. Apoie tudo em base firme: 100 litros de água pesam 100 kg.
+23. Encha pela entrada baixa com a torneira aberta até sair água.
+24. Feche a torneira e deixe o sol agir por aproximadamente 6 horas.
+25. Abra a torneira devagar e encoste a mão na água antes de usar.
+
+ATENCAO
+-------
+Tanque fechado passa de 80 °C e pode estourar: mantenha o respiro livre.
+Água acima de 45 °C queima a pele: teste com a mão antes do banho.
+Crianças e idosos queimam mais rápido: misture sempre com água fria.
+Use válvula misturadora ou de alívio; sem ela a saída pode escaldar.
+Em noite de geada, drene tanque e tubos ou eles racham com o gelo.
+Pare se o tanque inchar ou sair vapor: deixe esfriar antes de abrir.
+
+SE NAO TIVER
+------------
+Sem vidro, use policarbonato ou plástico transparente resistente ao sol.
+Sem caixa de madeira, forre um caixote com isopor ou palha seca.
+Sem tinta preta, cubra o tanque com chapa ou pano preto bem escuro.
+Sem válvula de alívio, deixe um tubo aberto de respiro no topo.
+Sem isolamento, empilhe papelão, serragem ou palha em camadas grossas.
+Tanque plástico só se for próprio para água quente: senão amolece.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O termômetro na saída marca aproximadamente 40 a 60 °C após sol forte.
+Não aparece vazamento nas emendas nem jato de água no respiro.
+A face interna do vidro embaça e a água fica mais quente que o ar.
+
+FONTES
+------
+Embrapa CPAC, circular FL-04016/81, coletor solar de baixo custo.
+Manual da Celesc, Aquecedor solar com produtos descartáveis.
+Epagri, artigo sobre aquecedor solar ecológico de garrafas PET.
+Moraes e Harwood, Um aquecedor solar de água de baixo custo, SciELO 1987.
+ICC 900/SRCC 300 e guia do Departamento de Energia dos EUA sobre alívio.

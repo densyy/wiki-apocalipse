@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 08-029
+TITULO: Como trabalhar com ferro
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: sucata, brasa, bigorna, martelo, pinça, óculos, algodão, extintor
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ferro, aço, sucata, forja, calor, martelar, bigorna, pinça
+==============================================================================
+
+OBJETIVO
+--------
+Dar forma a sucata de ferro ou aço com calor e martelo, sem queimar nem
+intoxicar quem trabalha.
+
+QUANDO USAR
+-----------
+Quando faltar peça metálica pronta no acampamento.
+Quando uma barra ou peça de ferro está torta e precisa ser endireitada.
+Quando há sucata limpa e brasa forte para trabalho.
+
+NAO USE QUANDO
+--------------
+Ferro galvanizado, pintado, cromado ou com resíduo de solda: o revestimento
+solta vapor tóxico quando aquecido. Tubo fechado ou recipiente selado:
+o ar preso pode explodir. Não trabalhe em recinto fechado sem exaustão.
+
+MATERIAIS
+---------
+- Sucata de ferro maciço, sem tinta, zinco ou resíduo de combustível.
+- Bigorna, trilho ou bloco de aço firme sobre toco de madeira.
+- Martelo comum, com cabeça presa ao cabo e sem rachadura no cabo.
+- Pinça longa de aproximadamente 45 cm, com ponta que feche na peça.
+- Óculos de proteção com proteção lateral.
+- Camisa e calça de algodão ou lã, botas de couro e avental de couro.
+- Balde com água e extintor de pó ABC carregados ao alcance da mão.
+- Escova de arame ou pano áspero para limpar a peça.
+
+PROCEDIMENTO
+------------
+1. Trabalhe ao ar livre ou em galpão com duas aberturas para ventilação.
+2. Afaste palha, serragem, papel, gasolina e tudo que possa queimar.
+3. Fixe a bigorna no toco, na altura dos nós dos dedos com o braço caído.
+4. Confirme que o martelo está preso ao cabo e que a pinça fecha na peça.
+5. Calce óculos, algodão, botas e avental; prenda mangas e cabelos.
+6. Escove a sucata até tirar ferrugem solta e sujeira da superfície.
+7. Bata leve com o martelo: se rachar ou desfizer, descarte a peça.
+8. Acenda brasa de carvão vegetal na forja e espere o leito ficar firme.
+9. Coloque a peça na parte mais quente e vire para aquecer por igual.
+10. Observe a cor na sombra: retire quando a peça ficar laranja.
+11. Se ficar amarelo-claro com faíscas, está queimada: descarte.
+12. Retire com a pinça, com a ponta sempre apontada para o chão.
+13. Apoie a peça na bigorna e bata com golpes retos, nunca de lado.
+14. Vire a peça a cada poucos golpes para manter a forma regular.
+15. Quando a cor baixar para vermelho-fraco, pare e reaqueça.
+16. Nunca bata na bigorna sem peça entre o martelo e o ferro.
+17. Ao terminar, mergulhe a peça no balde de água, longe da brasa.
+18. Espere esfriar, retire com a pinça e escove a carepa solta.
+19. Passe óleo ou cera de abelha na peça fria para não enferrujar.
+20. Espalhe a brasa em local à prova de fogo e confirme que apagou.
+
+ATENCAO
+-------
+Ferro que parou de brilhar ainda queima: nunca pegue com a mão.
+Use a pinça em toda movimentação: o ferro quente gruda na pele.
+A carepa solta voa com o martelo e fere olho e pele: óculos sempre.
+A forja solta monóxido de carbono, sem cor e sem cheiro. Dor de cabeça,
+tontura ou náusea: saia para o ar livre e apague o fogo na hora.
+Nunca jogue água na brasa; use o extintor se o fogo sair do controle.
+Nunca aqueça peça galvanizada, pintada ou desconhecida: o vapor pode matar.
+Queimadura: água corrente fria, nunca gelo, por aproximadamente 20 minutos.
+Não passe pomada, manteiga ou pasta de dente; não fure bolha; cubra com
+pano limpo. Procure ajuda se for grande, funda, no rosto ou na mão.
+Se o fogo não apagar, deixe o local e chame os bombeiros.
+
+SE NAO TIVER
+------------
+Sem bigorna, use trilho, bloco de aço ou pedra grande e bem firme.
+Sem pinça, não mantenha peça quente na mão: espere esfriar.
+Sem martelo de ferreiro, use martelo comum de cabo inteiro e preso.
+Sem forja, use brasa forte de carvão vegetal em recipiente de ferro.
+Sem carvão, não improvise com gasolina, óleo ou plástico: o fogo escapa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A peça mudou de forma e manteve a nova forma depois de fria.
+Não há rachadura, furo ou marca de queimadura branca na peça.
+O ferro ficou laranja antes de cada batida e nunca chegou a faiscar.
+A brasa apagou e não há calor nem fumaça no local ao final.
+
+FONTES
+------
+Prática consolidada de forjaria artesanal. Manual FM 3-05.70 (FM 21-76)
+do Exército dos EUA, capítulo 12; guia de segurança da ABANA; pamphlet
+Metalwork da Scouting America (2024); 30 CFR 57.4532 (MSHA); guia
+Safety in School Workshops do Education Bureau de Hong Kong (2020);
+Cruz Vermelha brasileira e Ministério da Saúde, primeiros socorros para
+queimaduras.

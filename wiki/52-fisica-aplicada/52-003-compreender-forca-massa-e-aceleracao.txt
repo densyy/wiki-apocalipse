@@ -1,0 +1,76 @@
+==============================================================================
+CODIGO: 52-003
+TITULO: Como compreender força, massa e aceleração
+CATEGORIA: 52 - Física aplicada e princípios fundamentais
+TEMPO: 25 minutos
+RISCO: baixo
+EXIGE: dois objetos de massas diferentes, superfície plana
+REVISAO: 2026-11
+PALAVRAS-CHAVE: força, massa, aceleração, newton, peso, gravidade
+==============================================================================
+
+OBJETIVO
+--------
+Entender como força, massa e aceleração se relacionam na segunda lei.
+
+QUANDO USAR
+-----------
+Quando precisar prever como um objeto responde a um empurrão.
+Quando quiser distinguir massa de peso na prática.
+Quando for calcular o esforço para mover ou frear algo.
+Quando alguém pensa que objeto pesado acelera mais.
+
+NAO USE QUANDO
+--------------
+Não use para dimensionar cabos, freios, vigas ou equipamentos de carga.
+Nesse caso procure um profissional ou cálculo com norma técnica.
+
+MATERIAIS
+---------
+- Um objeto leve, como uma caixa de papel vazia.
+- Um objeto pesado, como uma caixa com livros (ou uma pedra).
+- Uma superfície plana e livre, como mesa ou chão.
+- Papel e lápis para anotar (ou apenas a memória).
+
+PROCEDIMENTO
+------------
+1. Coloque o objeto leve sobre a superfície plana.
+2. Empurre o objeto leve com a mão e observe o movimento.
+3. Repita o empurrão no objeto pesado com a mesma força.
+4. Compare: com a mesma força, o objeto pesado acelera menos.
+5. Empurre agora o objeto leve com mais força e observe.
+6. Confirme: com a mesma massa, mais força dá mais aceleração.
+7. Escreva a segunda lei: força resultante = massa vezes aceleração.
+8. Entenda força resultante como a soma de todas as forças no objeto.
+9. Anote a unidade: um newton é um kg vezes um m/s2.
+10. Calcule o peso do objeto leve: multiplicue a massa pela gravidade.
+11. Use a gravidade terrestre de aproximadamente 9,8 m/s2.
+
+ATENCAO
+-------
+A mão não é a única força: há peso, apoio e atrito atuando juntos.
+A segunda lei vale para a força resultante, não para uma força isolada.
+Empurrar objetos muito pesados pode machucar a mão ou o ombro.
+Não confunda massa com peso: a massa não muda com o lugar, o peso muda.
+A gravidade varia com a altitude, por isso o valor é aproximado.
+Objetos em carpete aceleram menos por causa do atrito maior.
+Este texto ensina o conceito, não substitui cálculo de segurança.
+
+SE NAO TIVER
+------------
+Sem dois objetos, compare empurrar a própria mão contra a mesa.
+Sem papel, repita os passos em voz alta até a relação ficar clara.
+Sem valor exato, use aproximadamente 10 m/s2 e diga que é aproximado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue dizer qual objeto acelera mais com a mesma força.
+Você consegue explicar por que a massa não muda e o peso muda.
+Você escreve a relação força = massa vezes aceleração sem olhar.
+
+FONTES
+------
+OpenStax College Physics, segunda lei de Newton e unidade newton.
+NASA, material massa versus peso e valor da gravidade terrestre.
+Encyclopaedia Britannica, definição da unidade newton.
+Institute of Physics, distinção entre massa e força da gravidade.

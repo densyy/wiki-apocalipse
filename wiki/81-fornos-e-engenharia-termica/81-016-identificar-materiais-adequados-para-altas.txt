@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 81-016
+TITULO: Como identificar materiais adequados para altas temperaturas
+CATEGORIA: 81 - Engenharia térmica e fornos industriais
+TEMPO: 45 minutos
+RISCO: medio
+EXIGE: amostras dos materiais, catálogo do fornecedor e caderno
+REVISAO: 2026-11
+PALAVRAS-CHAVE: material, alta temperatura, refratário, metal, cerâmica
+==============================================================================
+
+OBJETIVO
+--------
+Escolher o material correto para cada parte do forno conforme a
+temperatura que ela precisa suportar.
+
+QUANDO USAR
+-----------
+Ao construir ou reformar a câmara de um forno.
+Quando uma peça metálica derreteu ou entortou no uso.
+Ao trocar a grelha, o suporte ou a porta do forno.
+Quando o revestimento rachou depois de vários acendimentos.
+Antes de comprar material para uma zona de fogo direto.
+
+NAO USE QUANDO
+--------------
+Não use metal comum em contato direto com chama de alta temperatura.
+Não use plástico, borracha ou resina perto da zona quente.
+Não use material sem ficha técnica quando a temperatura for crítica.
+Não aproveite sucata de origem desconhecida em peças estruturais.
+
+MATERIAIS
+---------
+- Caderno e lápis para registrar cada material (celular).
+- Amostras dos materiais disponíveis na obra.
+- Catálogo ou ficha técnica do fornecedor (impresso ou celular).
+- Ímã para distinguir aços e ligas comuns.
+- Régua para medir espessura e dimensões.
+- Luvas e óculos para manusear amostras cortantes.
+
+PROCEDIMENTO
+------------
+1. Liste cada parte do forno e a temperatura que ela enfrenta.
+2. Separe as zonas: fogo direto, gases quentes e exterior.
+3. Confira na ficha técnica a temperatura máxima de cada material.
+4. Escolha refratário para a zona de fogo direto.
+5. Escolha aço inox ou liga para peças metálicas quentes, não aço comum.
+6. Use cerâmica ou grafite quando o metal não resistir.
+7. Teste o ímã: aço comum atrai, inox austenítico quase não atrai.
+8. Observe a cor e a textura da amostra para identificar o tipo.
+9. Verifique se o material aguenta choque térmico e umidade.
+10. Pergunte ao fornecedor sobre o uso em fornos antes de comprar.
+11. Anote a temperatura limite de cada material escolhido.
+12. Guarde a ficha técnica junto com o projeto do forno.
+13. Confira a peça instalada depois do primeiro acendimento.
+14. Registre falhas para corrigir a escolha na próxima obra.
+
+ATENCAO
+-------
+Metal comum perde resistência e pode derreter ou entortar em forno.
+Material sem ficha técnica pode conter metais pesados ou resina.
+Aço inox pode perder a resistência se for soldado de forma errada.
+Cerâmica e refratário racham com choque térmico ou umidade presa.
+Poeira de sílica e fibra irrita pulmão: use máscara ao cortar.
+Ficha técnica é guia, não substitui teste na temperatura real.
+Em dúvida sobre a zona de fogo, escolha o material mais resistente.
+
+SE NAO TIVER
+------------
+Sem ficha técnica, procure a ficha do fabricante na internet ou no celular.
+Sem índice de temperatura, comece com o material mais refratário disponível.
+Sem amostra, compre uma peça pequena para testar antes da obra.
+Sem catálogo, anote o que o fornecedor disser e confirme depois.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada parte do forno tem material compatível com sua temperatura.
+Nenhuma peça entortou ou rachou no primeiro acendimento.
+As fichas técnicas ficaram guardadas com o projeto.
+Você consegue explicar por que escolheu cada material.
+
+FONTES
+------
+Prática consolidada de seleção de materiais para fornos, sem documento
+normativo único. Referências correntes de refratários, ligas metálicas
+resistentes ao calor e cerâmicas técnicas, como apresentadas em catálogos
+de fornecedores e manuais de engenharia térmica.

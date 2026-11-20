@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 30-008
+TITULO: Como construir pontes de madeira simples
+CATEGORIA: 30 - Engenharia e infraestrutura básica
+TEMPO: 3 horas
+RISCO: alto
+EXIGE: toras retas, corda ou cipó, machado, estacas, água rasa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ponte, madeira, toras, viga, travessia, corda, córrego
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma ponte de toras sobre um córrego raso e atravessar com segurança.
+
+QUANDO USAR
+-----------
+Quando o córrego é estreito e raso e não há ponte.
+Quando a água está fria demais para atravessar a vau.
+Quando não há material para construir uma balsa.
+Quando as duas margens são firmes e permitem apoiar as toras.
+
+NAO USE QUANDO
+--------------
+Quando o curso é largo, fundo ou tem correnteza forte.
+Quando as margens estão erodidas, lamacentas ou sem firmeza.
+Quando choveu a montante ou há risco de cheia repentina.
+Quando não há madeira suficiente nem tempo para testar a ponte.
+
+MATERIAIS
+---------
+- Duas toras retas, secas e sem rachaduras (bambu ou madeira morta em pé).
+- Corda, cipó ou fibras vegetais trançadas.
+- Machado, faca ou serra.
+- Quatro estacas resistentes ou pedras pesadas.
+- Paus finos e retos para formar o tabuleiro.
+- Galhos e folhas para cobrir o tabuleiro.
+
+PROCEDIMENTO
+------------
+1. Observe o curso de um ponto alto antes de escolher o local.
+2. Escolha trecho reto, estreito e raso, com margens firmes.
+3. Meça a largura do leito com um pau ou em passos.
+4. Corte duas toras com aproximadamente 1 metro de sobra em cada margem.
+5. Teste cada tora: puxe, dobre e bata no chão; descarte as que racham.
+6. Teste a corda: puxe, torça e faça um nó; descarte se arrebentar.
+7. Apoie as duas toras paralelas nas margens, afastadas cerca de 60 cm.
+8. Prenda cada tora com estacas cravadas ou pedras para não rolar.
+9. Amarre as toras às estacas com corda dupla, duas voltas e nó firme.
+10. Coloque paus finos transversais sobre as toras, de ponta a ponta.
+11. Amarre cada pau transversal às toras de apoio com corda.
+12. Cubra o tabuleiro com galhos e folhas para dar firmeza.
+13. Empurre a ponte com um pau e depois apoie uma pedra no meio.
+14. Atravesse devagar, um pé de cada vez, sem pular nem correr.
+
+ATENCAO
+-------
+Uma ponte improvisada não substitui uma ponte construída.
+Toras apodrecidas ou rachadas quebram sem aviso; teste antes de usar.
+Corda fraca é a falha mais comum; teste o nó e descarte material duvidoso.
+Se cair em água fria, há risco de choque e hipotermia.
+Não atravesse sozinho.
+Cheia repentina leva a ponte; observe a chuva a montante.
+Saia da área se o nível da água subir.
+Se a tora rolar ou o tabuleiro deslocar, pare e refaça antes de pisar.
+Sobre barranco ou altura, ancore bem: queda pode causar lesão grave.
+
+SE NAO TIVER
+------------
+Sem corda, use cipós ou fibras de casca trançadas e teste antes.
+Sem machado, aproveite toras caídas já no comprimento certo.
+Sem estacas, prenda as toras com pedras pesadas nas margens.
+Sem toras longas o bastante, não faça a ponte; procure outro vau.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As toras não rolam quando você empurra com o pé.
+O tabuleiro não balança nem gira quando você apoia o peso.
+Os nós ficam firmes e a corda não escorrega.
+Você atravessou sem molhar os pés e sem a ponte ceder.
+
+FONTES
+------
+Manual de sobrevivência FM 21-76 do Exército dos EUA: capítulo de
+travessias improvisadas de água e seção de amarrações e cordas.
+Princípios de vigas e apoios do mesmo manual, seção de abrigos.
+Prática consolidada de travessias improvisadas, sem documento único.

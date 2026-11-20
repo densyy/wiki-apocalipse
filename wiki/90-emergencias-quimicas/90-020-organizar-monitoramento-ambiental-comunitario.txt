@@ -1,0 +1,86 @@
+==============================================================================
+CODIGO: 90-020
+TITULO: Como organizar monitoramento ambiental comunitário
+CATEGORIA: 90 - Emergências químicas, industriais e ambientais
+TEMPO: 45 minutos
+RISCO: medio
+EXIGE: lista de pontos, equipe treinada e registro confiável
+REVISAO: 2026-11
+PALAVRAS-CHAVE: monitoramento, comunidade, amostra, registro, água, alerta
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma rede simples de dados que avise a comunidade sobre riscos.
+
+QUANDO USAR
+-----------
+Depois de acidente químico ou industrial na região.
+Quando a água, o ar ou o solo mudam de aspecto ou cheiro.
+Perto de indústrias, aterros ou aplicação de agrotóxicos.
+Para acompanhar a recuperação de uma área afetada.
+Quando órgãos oficiais pedirem dados locais.
+Antes de liberar hortas, poços ou praias para uso.
+
+NAO USE QUANDO
+--------------
+Não substitua análise oficial por observação caseira.
+Não entre em área interditada para coletar amostra.
+Não publique dado sem conferir local, hora e quem coletou.
+Não use o monitoramento para acusar sem evidência.
+
+MATERIAIS
+---------
+- Mapa com pontos de coleta e moradores responsáveis (esquema).
+- Frascos limpos, etiquetas e lápis (garrafas e caneta).
+- Caderno ou planilha para data, hora e tempo (celular).
+- Luvas e óculos para quem coleta (proteção básica).
+- Meio de comunicação: rádio, telefone ou mural.
+- Referência do aspecto normal de água, ar e solo.
+- Relógio para padronizar os horários de coleta.
+
+PROCEDIMENTO
+------------
+1. Defina o que monitorar: água, ar, solo ou cheiro.
+2. Escolha pontos fixos, seguros e representativos no mapa.
+3. Nomeie um responsável por ponto e um suplente.
+4. Combine horários iguais de coleta para comparar os dados.
+5. Defina o que é normal e o que dispara alerta em cada ponto.
+6. Ensine a coletar com frasco limpo e etiqueta com hora.
+7. Registre cor, cheiro, turbidez e presença de resíduos.
+8. Anote chuva, vento e temperatura, que mudam os resultados.
+9. Guarde a amostra como orientar o laboratório parceiro.
+10. Envie o dado a cada coleta, mesmo sem mudança.
+11. Compare os registros ao longo do tempo para ver tendências.
+12. Comunique qualquer sinal forte de mudança de imediato.
+13. Revise o plano com a comunidade e com órgãos locais.
+
+ATENCAO
+-------
+Observação visual não prova presença de químico perigoso.
+Muitos contaminantes não têm cor, cheiro ou sabor.
+Coleta mal feita gera dado errado e decisão errada.
+Não exponha quem coleta: a segurança vem antes da amostra.
+Dado isolado assusta; a série de dados esclarece.
+Alerta falso tem custo: confirme antes de divulgar.
+Monitoramento comunitário apoia, não substitui, o trabalho oficial.
+
+SE NAO TIVER
+------------
+Sem laboratório, registre aspecto e cheiro e peça análise.
+Sem mapa, desenhe um esquema simples com os pontos.
+Sem frascos, use recipientes limpos e anote a limitação.
+Sem equipe, comece com poucos pontos e amplie aos poucos.
+Sem comunicação, combine aviso presencial no centro da comunidade.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os pontos são coletados em horários regulares e com registros completos.
+Mudanças são detectadas e comunicadas rapidamente.
+A comunidade sabe o que fazer quando o alerta soa.
+
+FONTES
+------
+Prática consolidada de monitoramento participativo e vigilância ambiental.
+Orientações de órgãos ambientais sobre coleta e registro de dados.
+Guias de defesa civil e universidades sobre participação comunitária.

@@ -1,0 +1,81 @@
+==============================================================================
+CODIGO: 58-001
+TITULO: Como entender os fundamentos da combustão
+CATEGORIA: 58 - Prevenção e combate a incêndios
+TEMPO: 20 minutos
+RISCO: alto
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fogo, combustão, triângulo, combustível, calor
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer os tres elementos que produzem fogo e saber qual remover para
+prevenir ou interromper uma combustão.
+
+QUANDO USAR
+-----------
+Antes de acender fogão, fogueira, vela ou churrasqueira.
+Ao sentir cheiro de gás dentro de casa.
+Ao guardar combustíveis, papéis, tecidos ou madeira.
+Ao avaliar o risco de fogo em terreno seco com vegetação.
+Ao decidir como agir diante de um princípio de incêndio.
+
+NAO USE QUANDO
+--------------
+Este entendimento nao habilita ninguém a combater incêndio estabelecido.
+Diante de fogo fora de controle, com fumaça ou que tenha alcançado o teto,
+retire-se e acione o Corpo de Bombeiros pelo 193. Nao insista sozinho.
+
+MATERIAIS
+---------
+- Nenhum material obrigatório para entender o assunto.
+- Papel e lápis opcionais para anotar os tres elementos.
+
+PROCEDIMENTO
+------------
+1. Identifique o combustível: madeira, papel, tecido, gasolina ou gás.
+2. Identifique o comburente: o oxigênio do ar, cerca de 21 por cento.
+3. Identifique o calor: chama, faísca, atrito ou superfície muito quente.
+4. Verifique se os tres estao juntos; faltando um, nao ha fogo.
+5. Observe a reação em cadeia: o calor aquece o combustível e mantém
+   a queima sem precisar de nova faísca.
+6. Observe a propagação: por condução no contato, por convecção no ar
+   quente que sobe, e por irradiação a distancia.
+7. Para prevenir, remova um elemento: afaste o combustível, corte o calor
+   ou reduza o oxigênio.
+8. Diante de cheiro de gás, nao acenda fósforo, isqueiro nem interruptor.
+9. Nesse caso, abra portas e janelas, saia e chame o Corpo de Bombeiros.
+
+ATENCAO
+-------
+Fogo em ambiente fechado produz monóxido de carbono, gás sem cheiro que
+mata. Nunca permaneça dentro de ambiente em chamas.
+A fumaça sufoca e pode matar antes das chamas chegarem. Fique baixo e
+perto da saída.
+Nunca jogue água sobre óleo ou gás em chamas: o fogo pode se espalhar.
+Nao tente apagar incêndio grande ou que já subiu ao teto; retire-se.
+Entender o fogo nao substitui extintor, alarme, rota de fuga nem aula.
+Perto de gás, uma centelha de interruptor pode causar explosão.
+Se a roupa pegar fogo, pare, deite-se e role no chão para sufocar.
+
+SE NAO TIVER
+------------
+Nao ha material que falte para este entendimento. Sem extintor, sufoque
+princípio de incêndio pequeno com terra ou areia. Se nao apagar em
+poucos segundos, saia e peça ajuda.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ao olhar uma situação concreta, você aponta o combustível, a fonte de
+calor e diz qual elemento remover. Perto de gás, você nao acende nada e
+sai para ventilar.
+
+FONTES
+------
+Manual de prevenção e combate a incêndios da Defesa Civil do Paraná
+(modulo 5, 2019); apostila de formação de brigadistas do Corpo de
+Bombeiros Militar do Espírito Santo; guia All About Fire da NFPA.
+Resumo operacional: nao substitui treinamento nem a orientação dos
+bombeiros.

@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 02-060
+TITULO: Como identificar cogumelos comestíveis
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 30 minutos
+RISCO: critico
+EXIGE: luz boa, caderno, lupa, saco de papel, câmera
+REVISAO: 2026-11
+PALAVRAS-CHAVE: cogumelo, comestível, venenoso, identificar, amanita, colher
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer se um cogumelo é seguro para comer ou se deve ser descartado.
+
+QUANDO USAR
+-----------
+Quando encontrar cogumelos no quintal, no mato ou depois de chuva.
+Quando alguém oferecer cogumelos colhidos por outra pessoa.
+Quando houver dúvida sobre cogumelos de vendedor ambulante.
+Quando criança ou animal pode ter colocado cogumelo na boca.
+
+NAO USE QUANDO
+--------------
+Não use esta leitura para autorizar cogumelo colhido na natureza.
+Não coma cogumelo cru, em chá ou em sopa caseira sem identificação.
+Não prove um cogumelo para tentar identificar: provar não é teste seguro.
+
+MATERIAIS
+---------
+- Luz boa (luz do dia ou lanterna).
+- Lupa (lente de aumento do celular).
+- Caderno e lápis.
+- Saco de papel (papel de embrulho limpo, nunca plástico).
+- Câmera (celular) para fotos.
+- Luvas (pano grosso).
+
+PROCEDIMENTO
+------------
+1. Pare qualquer preparo se o cogumelo foi colhido para comer.
+2. Coloque a amostra no saco de papel sem tocá-la com as mãos nuas.
+3. Anote no caderno o local, a data e a hora da coleta.
+4. Observe o chapéu: cor, tamanho, formato e presença de escamas.
+5. Observe a parte de baixo do chapéu: lâminas, poros ou rugas e cor.
+6. Observe o caule: altura, cor, anel e forma da base.
+7. Tire fotos do chapéu, da parte de baixo, do caule e do local.
+8. Descarte se as lâminas ficarem esverdeadas com o amadurecimento.
+9. Descarte se a base tiver bulbo ou bainha em forma de saco.
+10. Descarte se estiver velho, mole, danificado ou com cheiro ruim.
+11. Descarte se veio de lixo, esterco, gramado tratado ou beira de estrada.
+12. Ignore cor, cheiro, insetos ou prata como prova de comestibilidade.
+13. Leve a amostra e as fotos a especialista em toxinas ou micologia.
+14. Coma só cogumelo de mercado com controle sanitário.
+15. Só consuma outro cogumelo se especialista tiver identificado a espécie.
+16. Não confie no cozimento para tornar comestível um cogumelo duvidoso.
+
+ATENCAO
+-------
+Não existe regra visual simples que separe comestível de venenoso.
+Cogumelo venenoso pode ter cor discreta e sabor agradável.
+Cozimento, fritura, secagem e congelamento não eliminam as toxinas.
+Sintomas podem demorar de 6 a 24 horas, ou até 48 horas.
+Náusea leve pode ser o início de falência do fígado.
+Amatoxinas causam mais de 90% das mortes por cogumelo no mundo.
+Fontes divergem: OPAS e CDC dizem mais de 90%; Manual MSD cita 95%.
+Espécies perigosas: Amanita phalloides, A. ocreata, A. muscaria e Gyromitra.
+No Brasil, Chlorophyllum molybdites é confundida com Macrolepiota.
+Não induza vômito nem dê ovos crus, sal, vinagre ou suco cítrico.
+Se alguém comeu cogumelo duvidoso, procure atendimento mesmo sem sintomas.
+Guarde os restos em papel, nunca em plástico, e leve ao atendimento.
+
+SE NAO TIVER
+------------
+Sem lupa, use a lente do celular com boa luz.
+Sem saco de papel, use papel de embrulho limpo ou folha de jornal limpa.
+Nunca use saco plástico: ele apodrece a amostra e atrapalha a identificação.
+Sem especialista por perto, ligue para o centro de toxicologia mais próximo.
+Se não puder guardar a amostra, fotografe todos os lados do cogumelo.
+Sem orientação de especialista, mantenha o cogumelo fora da comida.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Nenhum cogumelo duvidoso entrou na comida.
+A amostra está em papel, com local e data anotados.
+As fotos mostram chapéu, parte de baixo, caule e base.
+A decisão de comer ou não veio de toxicologista ou micologista.
+O alimento servido veio de fonte com controle sanitário.
+
+FONTES
+------
+Alerta Epidemiológico da OPAS/OMS sobre coleta e consumo de cogumelos
+silvestres nas Américas, novembro de 2026.
+CIATox/SC, Secretaria de Estado da Saúde de Santa Catarina: orientações
+sobre plantas e cogumelos tóxicos e conduta na ingestão.
+Centro de Vigilância Epidemiológica da Secretaria de Saúde de São Paulo:
+"Toxinas dos cogumelos", Manual de Doenças Transmitidas por Alimentos.
+CDC, MMWR 2021: ingestão acidental de cogumelos venenosos.
+Manual MSD, edição profissional: "Intoxicação por cogumelos", 2026.

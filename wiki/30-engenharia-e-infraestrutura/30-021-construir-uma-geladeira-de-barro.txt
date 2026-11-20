@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 30-021
+TITULO: Como construir uma geladeira de barro
+CATEGORIA: 30 - Engenharia e infraestrutura básica
+TEMPO: 40 minutos
+RISCO: baixo
+EXIGE: dois vasos de barro, areia, água limpa, pano, sombra e ventilação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: geladeira de barro, areia úmida, resfriar, sem energia
+==============================================================================
+
+OBJETIVO
+--------
+Conservar frutas e verduras por mais dias sem energia elétrica.
+
+QUANDO USAR
+-----------
+Sem energia elétrica nem geladeira disponível.
+Em clima quente, seco e com ar circulando.
+
+NAO USE QUANDO
+--------------
+Em clima úmido: a água evapora pouco e o interior quase não esfria.
+Para carne, peixe, leite ou remédios: não substitui a geladeira.
+Se não houver água limpa e areia limpa todos os dias.
+
+MATERIAIS
+---------
+- Vaso de barro maior, cru e poroso, sem esmalte, de boca larga.
+- Vaso menor de barro, plástico ou metal que caiba dentro do maior.
+- Areia grossa peneirada, sem pedras e sem pó (peneira ou pano fino).
+- Água limpa e pano absorvente limpo, de juta, estopa ou algodão.
+
+PROCEDIMENTO
+------------
+1. Escolha o local sombreado, arejado e plano antes de montar.
+2. Tape com barro os furos de drenagem no fundo dos dois vasos.
+3. Despeje areia no fundo do vaso maior, cerca de 5 cm de altura.
+4. Encaixe o vaso menor no centro, apoiado na areia, sem tocar as paredes.
+5. Deixe a boca do vaso menor pelo menos 2 cm acima da boca do maior.
+6. Preencha o espaço entre os vasos com areia peneirada até 3 cm da borda.
+7. Regue a areia aos poucos até umedecer, sem flutuar o vaso menor.
+8. Coloque as frutas e verduras dentro do vaso menor, sem amassar.
+9. Cubra a boca com o pano limpo e mantenha o pano úmido.
+
+ATENCAO
+-------
+O resfriamento depende de ar seco e em movimento; em clima úmido falha.
+Não guarde carne, peixe, leite, iogurte nem remédios neste aparelho.
+Alimento que estraga pode causar intoxicação; na dúvida, não consuma.
+Use só água e areia limpas: contaminantes passam para o alimento.
+Se a areia secar, o efeito para: umedeça todos os dias.
+Se entrar água no vaso menor, drene e refaça a montagem.
+Mantenha longe de sol direto e de fogo; o calor vence o resfriamento.
+
+SE NAO TIVER
+------------
+Sem o vaso maior de barro, use bacia rasa de metal ou plástico.
+Como vaso menor, sirva-se de pote plástico ou metálico limpo.
+Sem juta, dobre pano de algodão limpo várias vezes.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A areia continua úmida no fim do dia e a parede externa está fria ao toque.
+O vaso menor está mais frio que o ar e as verduras não murcham.
+
+FONTES
+------
+Prática consolidada de resfriamento evaporativo, sem documento único.
+Orientações de montagem do MIT D-Lab, da CARE e da Practical Action.

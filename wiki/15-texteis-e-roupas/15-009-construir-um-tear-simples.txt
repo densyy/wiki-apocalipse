@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 15-009
+TITULO: Como construir um tear simples
+CATEGORIA: 15 - Têxteis, roupas e produção artesanal
+TEMPO: 150 minutos
+RISCO: alto
+EXIGE: madeira reta, corda, fio, vara fina, pente, faca, lixa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: tear, quadro, urdume, liço, trama, tecido, madeira, corda
+==============================================================================
+
+OBJETIVO
+--------
+Construir um tear de quadro com madeira e corda e deixá-lo pronto a tecer.
+
+QUANDO USAR
+-----------
+Quando faltar pano e houver fio, mas não houver máquina nem energia.
+Quando o tear precisar ficar montado em um lugar fixo.
+Quando o pano desejado for mais largo do que a mão alcança.
+
+NAO USE QUANDO
+--------------
+Quando a madeira estiver rachada, tratada com veneno ou cheia de farpas.
+Quando não houver apoio firme para manter o tear em pé.
+Quando houver feridas abertas nas mãos sem luva ou proteção.
+Quando o fio estiver mofado, com espinhos ou de origem desconhecida.
+
+MATERIAIS
+---------
+- Duas barras retas de aproximadamente 60 cm, sem rachaduras.
+- Duas barras retas de aproximadamente 40 cm, sem rachaduras.
+- Corda resistente para amarrar os cantos (tiras de pano trançadas).
+- Fio: urdume (esticado) e trama (cruza os fios de lado a lado).
+- Vara fina para abrir o furo, o espaço entre fios (palito liso).
+- Vara fina para o liço, conjunto de laços que levanta os fios.
+- Pente de madeira ou taquara para assentar a trama (garfo de madeira).
+- Bobina, carretel ou palito grande para enrolar a trama.
+- Faca ou serra para cortar (lâmina limpa).
+- Lixa, pedra áspera ou casca para retirar farpas.
+- Apoio firme: duas estacas cravadas, um poste ou uma parede.
+
+PROCEDIMENTO
+------------
+1. Escolha madeira seca, reta e sem nós nem rachaduras.
+2. Corte 2 barras de aproximadamente 60 cm e 2 de aproximadamente 40 cm.
+3. Lixe cada barra até retirar todas as farpas e pontas cortantes.
+4. Encoste as barras de 60 cm em pé, separadas por aproximadamente 40 cm.
+5. Coloque uma barra de 40 cm em cima e outra em baixo, fechando o quadro.
+6. Amarre cada canto com corda, cruzando a corda em X antes do nó.
+7. Pressione o quadro com as duas mãos: não pode entortar nem girar.
+8. Apoie as barras longas nas estacas ou incline o tear contra o poste.
+9. Amarre a barra inferior ao apoio para o tear não deslizar.
+10. Corte os fios do urdume com aproximadamente o dobro da altura do tear.
+11. Enrole cada fio em volta das barras horizontais, um ao lado do outro.
+12. Ajuste os nós até todos os fios ficarem paralelos e com a mesma tensão.
+13. Passe a vara do furo no alto, por baixo dos ímpares e sobre os pares.
+14. Amarre um laço de corda em cada fio ímpar, os que ficaram sob a vara.
+15. Prenda todos os laços à segunda vara, mais abaixo: é o liço.
+16. Enrole a trama na bobina, no carretel ou na ponta do palito.
+17. Puxe a vara do furo para abrir o primeiro furo entre os fios.
+18. Passe a bobina pelo furo, da esquerda para a direita, sem enroscar.
+19. Acerte o pente contra a trama para assentá-la junto à borda.
+20. Solte o furo e puxe o liço para abrir o furo contrário.
+21. Passe a bobina de volta, da direita para a esquerda.
+22. Refaça os laços soltos e repita os passes 17 a 21 mais duas vezes.
+
+ATENCAO
+-------
+Lixe toda a madeira antes de montar: farpa e lasca ferem e infeccionam.
+A corda e o urdume ficam sob tensão; se arrebentarem, chicoteiam o rosto.
+Mantenha o rosto fora da linha dos fios ao puxar o furo ou o liço.
+Não use arame, vidro ou faca como vara ou pente: cortam a mão.
+Não prenda o tear em apoio podre ou que balança: a estrutura pode cair.
+Se um fio saltar com força, pare e refaça o urdume antes de continuar.
+Pare se sentir dor aguda, formigamento ou cãibras nas mãos.
+
+SE NAO TIVER
+------------
+Sem madeira serrada, use varas de vassoura ou bambu reto, sem rachaduras.
+Sem corda, transe tiras de pano resistente para amarrar os cantos.
+Sem pente, use um garfo de madeira ou os dedos para assentar a trama.
+Sem estacas, incline o tear contra uma árvore firme e amarre a base.
+Não substitua madeira por metal cortante: o risco de corte é real.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O quadro não entorta quando pressionado com as duas mãos.
+Os fios do urdume ficam paralelos, sem torção e com a mesma tensão.
+Puxar o furo levanta uma metade dos fios; puxar o liço, a outra metade.
+A bobina passa pelo furo sem enroscar e a trama fica rente à anterior.
+
+FONTES
+------
+Partes e funcionamento do tear de cinta: Sam Noble Oklahoma Museum of
+Natural History, Universidade de Oklahoma, "Backstrap Looms", seção de
+Etnologia Maia. Montagem de tear de quadro e urdume: prática consolidada
+de tecelagem manual, sem documento único. Este texto é resumo operacional
+e não substitui treinamento.

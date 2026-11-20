@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 01-053
+TITULO: Como identificar vazamentos em sistemas hidráulicos
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: medidor de água visível, corante alimentar, chave de fenda
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, vazamento, encanamento, medidor, corante, umidade
+==============================================================================
+
+OBJETIVO
+--------
+Localizar vazamentos na instalação de água antes de perder água ou
+danificar a construção.
+
+QUANDO USAR
+-----------
+Quando a conta subir sem aumento no consumo.
+Quando se ouve água correr com as torneiras fechadas.
+Quando aparecer umidade, mancha ou poça sem chuva.
+
+NAO USE QUANDO
+--------------
+Com cheiro de gás ou cabo elétrico molhado perto do vazamento.
+Não use em tubulação de gás.
+
+MATERIAIS
+---------
+- Medidor de água com leitura visível.
+- Corante alimentar.
+- Lanterna e pano seco.
+- Chave de fenda com cabo isolado.
+
+PROCEDIMENTO
+------------
+1. Feche todas as torneiras, chuveiros e válvulas da casa.
+2. Anote a leitura do medidor e não use água por aproximadamente 2 horas.
+3. Leia de novo: se o número mudou, há vazamento.
+4. Feche a válvula principal de entrada de água.
+5. Chame a companhia de água se o medidor não parar ao fechar a válvula.
+6. Abra a válvula principal de novo antes de continuar.
+7. Passe o pano seco sob cada conexão: o ponto molhado marca o furo.
+8. Pingue corante no tanque do vaso e espere 10 minutos sem descarga.
+9. Confira a tigela: cor nela indica vazamento na válvula do tanque.
+10. Encoste a chave de fenda no tubo e o cabo no ouvido, em silêncio.
+11. Siga o som mais forte e marque o ponto com papel preso.
+
+ATENCAO
+-------
+Medidor que anda pode ser torneira mal fechada, não só vazamento.
+Dê a descarga depois do corante; não confunda o som com a descarga.
+Não abra vala nem quebre parede sem localizar o ponto antes.
+Perto de tomada ou cabo elétrico, corte a energia e pare.
+
+SE NAO TIVER
+------------
+Sem medidor, observe o relógio da companhia com as torneiras fechadas.
+Sem chave, use uma colher de pau; sem corante, café escuro no vaso.
+Se o vazamento for enterrado, não cave: chame a companhia de água.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O medidor fica parado com as torneiras fechadas.
+O pano passa seco nas conexões e a tigela fica sem cor.
+
+FONTES
+------
+EPA WaterSense: leitura do medidor, corante e inspeção de juntas.
+Escuta e localização: prática consolidada de manutenção predial.

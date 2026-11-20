@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 04-073
+TITULO: Como produzir energia a partir de resíduos orgânicos
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: sobras de comida, esterco fresco, água, balde vedado, mangueira
+REVISAO: 2026-11
+PALAVRAS-CHAVE: biogás, biodigestor, resíduos, metano, esterco, gás
+==============================================================================
+
+OBJETIVO
+--------
+Obter gás combustível de sobras de comida e esterco para cozinhar ao ar
+livre, sem depender de gás de botijão nem de eletricidade.
+
+QUANDO USAR
+-----------
+Quando sobram comida, cascas e esterco todos os dias.
+Quando faltam gás de cozinha ou lenha seca.
+Quando um resíduo apodrece e fede perto de casa.
+
+NAO USE QUANDO
+--------------
+Dentro de casa, barraca, garagem ou qualquer lugar fechado.
+Perto de chama, fumaça, fios elétricos ou onde alguém fuma.
+Em tempo frio, se não der para manter o recipiente aquecido.
+Se não houver água, esterco fresco e um lugar bem ventilado.
+
+MATERIAIS
+---------
+- Sobras de comida e cascas picadas, sem plástico nem vidro.
+- Esterco fresco de boi, cabra, ovelha ou cavalo, para iniciar o processo.
+- Água limpa.
+- Balde ou recipiente plástico com tampa que feche bem.
+- Mangueira ou tubo fino limpo para a saída do gás.
+- Fita adesiva forte ou massa de vedar as emendas.
+- Frasco com água para servir de armadilha contra retorno de chama.
+- Fogão ou bico simples, usado somente ao ar livre.
+- Detergente diluído para testar vazamentos.
+
+PROCEDIMENTO
+------------
+1. Escolha lugar externo, ensolarado, ventilado e longe de portas e janelas.
+2. Nunca use recipiente que tenha guardado óleo, pesticida ou químico.
+3. Fure a tampa e passe a mangueira, deixando a ponta de fora.
+4. Vede a emenda da mangueira com fita ou massa, sem deixar fresta.
+5. Ligue a mangueira ao frasco com água e depois ao fogão, em série.
+6. Amarre as conexões e teste cada uma com detergente diluído.
+7. Pique as sobras em pedaços pequenos para apodrecer mais depressa.
+8. Misture 1 parte de esterco fresco com 2 partes de água numa vasilha.
+9. Encha o recipiente com essa mistura e junte as sobras picadas.
+10. Complete com água até quase a borda, deixando pouco ar no topo.
+11. Feche a tampa e vede também a borda do recipiente.
+12. Teste de novo todas as emendas; bolhas indicam vazamento.
+13. Coloque ao sol; mantenha a mistura acima de aproximadamente 20 graus.
+14. Deixe a saída aberta ao ar nos primeiros dias, longe de chamas.
+15. Aguarde chama firme e contínua antes de usar o fogão ao ar livre.
+16. Adicione um punhado de sobras picadas por dia, no máximo.
+17. Não encha demais: excesso de comida azeda a mistura e corta o gás.
+18. Agite a mistura de leve a cada dois dias, sem abrir a tampa.
+19. Feche a saída ao terminar e deixe o frasco de água no lugar.
+
+ATENCAO
+-------
+O que mata é a explosão do metano, o gás sulfídrico e a falta de oxigênio.
+O metano pega fogo entre aproximadamente 5% e 15% do ar; chama, faísca ou
+cigarro perto do recipiente pode estourar tudo.
+O gás sulfídrico cheira a ovo podre e em dose alta pode matar sem aviso.
+Nunca use o gás dentro de casa: o gás carbônico também desloca o oxigênio.
+Nunca abra ou incline o recipiente perto de gente: o gás preso pode asfixiar
+ou envenenar quem estiver ao redor.
+Nunca guarde gás em garrafa: a pressão pode estourar o recipiente.
+A armadilha de água e a fita reduzem o risco, mas não eliminam o perigo:
+mantenha tudo ao ar livre e longe de qualquer fonte de fogo.
+Não ponha plástico, vidro, papel ou óleo em excesso, nem cascas de citrus:
+o sistema para e pode romper a vedação.
+Se alguém tossir, vomitar, ficar tonto ou desmaiar, afaste todos, ventile o
+local e procure ajuda; não volte para salvar o recipiente.
+
+SE NAO TIVER
+------------
+Sem esterco fresco, não comece: só com sobras o processo falha.
+Sem mangueira, use qualquer tubo limpo que não tenha levado químico.
+Sem frasco, não queime o gás: o retorno de chama é provável.
+Sem sol, não insista: abaixo de aproximadamente 20 graus o gás quase para.
+Sem tampa que vede, troque o recipiente: vazamento pode pegar fogo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ao abrir a saída, o gás queima com chama azul firme e não se apaga sozinho.
+Não há cheiro forte de ovo podre onde você cozinha.
+O nível da mistura baixa aos poucos conforme você adiciona sobras.
+O resíduo que sobra fica escuro e com cheiro de terra, não de podre.
+
+FONTES
+------
+Portal Embrapa de Agroenergia sobre biogás e biodigestores; manual de
+tecnologia de biogás da FAO; guias de segurança AgSTAR da EPA; Guia de Boas
+Práticas da Abiogas sobre segurança em plantas de biogás.

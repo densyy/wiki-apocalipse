@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 69-024
+TITULO: Como consultar datasheets sem internet
+CATEGORIA: 69 - Eletrônica analógica e componentes discretos
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: componente identificado, papel, lápis, arquivo de folhas de dados
+REVISAO: 2026-11
+PALAVRAS-CHAVE: datasheet, folha de dados, pinagem, limites, componente
+==============================================================================
+
+OBJETIVO
+--------
+Identifique um componente e confira pinos e limites usando só as folhas
+de dados guardadas no aparelho ou no papel.
+
+QUANDO USAR
+-----------
+Quando a internet cair e você precisar ligar um componente desconhecido.
+Quando for conferir limites e pinos antes de alimentar uma placa.
+
+NAO USE QUANDO
+--------------
+Não substitui o manual do equipamento nem treinamento em eletricidade.
+Não use valor típico quando o projeto exige valor garantido.
+
+MATERIAIS
+---------
+- O componente com inscrição legível (ou seu código anotado).
+- Folhas de dados salvas no celular, pendrive ou papel.
+- Um índice próprio que relacione código e nome do arquivo.
+- Papel, lápis e lupa para ler e anotar.
+
+PROCEDIMENTO
+------------
+1. Leia a inscrição com lupa e copie o código completo do componente.
+2. Inclua prefixos e sufixos: indicam invólucro e faixa de temperatura.
+3. Anote o fabricante e o código de data gravados na peça.
+4. No índice, localize o arquivo pelo código do componente.
+5. Abra o PDF no celular com leitor que funcione sem conexão.
+6. Confira a revisão do documento antes de confiar nos valores.
+7. Leia a descrição e confirme que a função serve ao seu caso.
+8. Na configuração de pinos, oriente a marca como no desenho da folha.
+9. Anote no papel a função de cada pino que vai usar.
+10. Leia os máximos absolutos e as condições operacionais recomendadas.
+11. Nunca projete no limite máximo; valor típico não é garantia.
+12. Veja o circuito de aplicação e o invólucro antes de soldar a peça.
+
+ATENCAO
+-------
+Máximo absoluto ultrapassado destrói o componente na hora.
+Valor típico não é garantia: não dimensione com ele.
+Um número só tem sentido com as condições de teste ao redor dele.
+Códigos parecidos podem ter pinagens diferentes; não adivinhe.
+
+SE NAO TIVER
+------------
+Sem o arquivo, busque a folha em outro aparelho ou em papel.
+Sem folha, meça continuidade e identifique o pino 1 pela marca; não
+presuma os demais.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você informa fabricante, revisão e função de cada pino consultado.
+
+FONTES
+------
+Folhas de dados de fabricantes como Texas Instruments, Analog Devices e
+STMicroelectronics; Horowitz e Hill, The Art of Electronics (Cambridge
+University Press); prática consolidada de técnicos em eletrônica.

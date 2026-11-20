@@ -1,0 +1,84 @@
+==============================================================================
+CODIGO: 52-013
+TITULO: Como compreender o funcionamento de alavancas
+CATEGORIA: 52 - Física aplicada e princípios fundamentais
+TEMPO: 25 minutos
+RISCO: baixo
+EXIGE: barra rígida, ponto de apoio firme, pesos leves, fita métrica
+REVISAO: 2026-11
+PALAVRAS-CHAVE: alavanca, fulcro, apoio, carga, força, vantagem mecânica
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma alavanca e explicar como ela multiplica força.
+
+QUANDO USAR
+-----------
+Quando precisar mover algo pesado com pouca força.
+Quando vir alavancas em alicate, tesoura, chave de fenda ou carriola.
+Quando quiser entender por que empurrar longe do apoio é mais fácil.
+Quando precisar soltar uma porca presa ou levantar uma tampa.
+
+NAO USE QUANDO
+--------------
+Não use para levantar pessoas nem peso acima da sua capacidade.
+Não use barra fina, podre ou rachada, que pode quebrar.
+Não use apoio liso, mole ou que deslize sob a barra.
+Não use no lugar de equipamento de içamento certificado.
+Não há contraindicação para observar o efeito com pesos leves.
+
+MATERIAIS
+---------
+- Barra reta e rígida de aproximadamente 1 m (ou cabo de vassoura).
+- Apoio firme e estreito, como um tijolo (ou uma pedra estável).
+- Dois pesos leves, como garrafas d'água ou pedras pequenas.
+- Fita métrica ou régua (ou barbante com marcas).
+
+PROCEDIMENTO
+------------
+1. Apoie o centro da barra sobre o apoio firme.
+2. Deixe a barra nivelada, sem encostar no chão.
+3. Coloque um peso leve em uma ponta: é a carga.
+4. Empurre a outra ponta com a mão: é o esforço.
+5. Meça do apoio até a carga e até a mão com a fita.
+6. Empurre longe do apoio e note que custa menos força.
+7. Aproxime a mão do apoio e note que custa mais força.
+8. Anote a regra: esforço vezes seu braço é igual à carga vezes o dela.
+9. Afastar a carga do apoio também exige mais esforço.
+10. Coloque o apoio entre a carga e a mão: primeira classe.
+11. Coloque a carga entre o apoio e a mão: segunda classe.
+12. Coloque a mão entre o apoio e a carga: terceira classe.
+13. Na segunda classe, a carga sobe com menos esforço.
+14. Na terceira classe, a carga sobe mais rápido, com mais esforço.
+15. Anote: a alavanca troca distância por força, não cria energia.
+
+ATENCAO
+-------
+A barra pode escorregar e a carga pode cair no pé.
+Apoie em superfície firme e mantenha os dedos longe do apoio.
+Peso demais em uma ponta pode quebrar a barra e ferir as mãos.
+A alavanca não cria energia: ganha força perdendo distância e velocidade.
+Se a barra rachar ou o apoio ceder, pare e troque o material.
+Não use esta experiência para içar carga real ou substituir técnico.
+
+SE NAO TIVER
+------------
+Sem barra própria, use um cabo de vassoura ou uma tábua firme.
+Sem apoio, use um tijolo, uma pedra ou um rolo de madeira preso.
+Sem pesos, use garrafas d'água ou pedras pequenas e conhecidas.
+Não improvise com vidro, barra rachada ou apoio que role.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você levanta a carga empurrando a ponta longa com menos força.
+Você mede que o lado com braço maior exige menos esforço.
+Você aponta o apoio, a carga e o esforço em cada classe.
+Você explica que a alavanca troca distância por força.
+
+FONTES
+------
+Princípio da alavanca: Encyclopaedia Britannica, verbete lever; Energy
+Education da Universidade de Calgary, verbete Lever. Lei do torque e
+classes de alavanca: mesma referência. Prática consolidada de ensino de
+física, sem documento único.

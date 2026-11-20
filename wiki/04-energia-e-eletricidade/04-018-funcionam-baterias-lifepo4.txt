@@ -1,0 +1,69 @@
+================================================================================
+CODIGO: 04-018
+TITULO: Como funcionam baterias LiFePO4
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bateria, lifepo4, litio, carga, energia, solar
+================================================================================
+
+OBJETIVO
+--------
+Entender como a bateria LiFePO4 guarda e entrega energia
+para escolher, ligar e conservar sem danificar o sistema.
+
+QUANDO USAR
+-----------
+Quando for montar reserva de energia com painel solar.
+Quando for escolher entre bateria de chumbo e de litio.
+Quando for ligar bateria em sistema de 12 ou 24 volts.
+
+NAO USE QUANDO
+--------------
+Quando a caixa estiver estufada, rachada ou vazando.
+Quando houver cheiro forte, calor anormal ou fumaca.
+Quando o local alaga ou fica sem ventilacao.
+
+MATERIAIS
+---------
+- Bateria LiFePO4 com rotulo legivel.
+- Multimetro com pontas boas (papel e caneta).
+- Carregador ou controlador proprio para LiFePO4.
+
+PROCEDIMENTO
+------------
+1. Leia o rotulo e anote tensao, capacidade em Ah e corrente.
+2. Lembre que cada celula tem cerca de 3,2 volts nominais.
+3. Conte 4 celulas para cerca de 12,8 volts no conjunto.
+4. Localize o BMS, que e o circuito interno de protecao.
+5. Ligue o positivo no positivo e o negativo no negativo.
+6. Aperte os terminais ate nao girar nem faiscar.
+7. Configure a carga somente no modo proprio para LiFePO4.
+8. Carregue ate cerca de 14 volts em sistema de 12 volts.
+9. Desligue a carga quando o BMS cortar por tensao baixa.
+10. Guarde com meia carga em local seco e ventilado.
+
+ATENCAO
+-------
+Curto-circuito em litio causa faisca, queimadura e incendio.
+Nunca abra a caixa nem fure a celula: o dano e permanente.
+Nunca carregue com modo de chumbo acido ou fonte improvisada.
+Nunca ligue baterias diferentes em serie sem orientacao.
+O BMS protege, mas nao corrige instalacao errada.
+Se aquecer, inchar ou soltar cheiro, afaste e nao use.
+
+SE NAO TIVER
+------------
+Sem multimetro, use so o rotulo e os sinais do BMS.
+Sem carregador proprio, nao carregue: espere o correto.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A tensao em repouso fica perto do valor nominal do rotulo.
+A carga sobe de forma estavel e o BMS nao desliga.
+
+FONTES
+------
+Pratica consolidada de armazenamento de energia, sem documento unico.

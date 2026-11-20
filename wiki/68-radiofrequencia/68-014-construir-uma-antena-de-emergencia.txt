@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 68-014
+TITULO: Como construir uma antena de emergência
+CATEGORIA: 68 - Radiofrequência e telecomunicações
+TEMPO: 45 minutos
+RISCO: alto
+EXIGE: fio de cobre, conector de antena, isolante, lugar alto e seguro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: antena, emergência, dipolo, fio, rádio, recepção, coaxial
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma antena simples com fio comum para melhorar a recepção do rádio.
+
+QUANDO USAR
+-----------
+Quando a antena original do rádio quebrou ou foi perdida.
+Quando o sinal está fraco e aproximar o rádio da janela não resolve.
+Quando não há antena pronta nem ferramentas de precisão disponíveis.
+Quando é preciso ouvir uma estação em frequência conhecida.
+
+NAO USE QUANDO
+--------------
+Quando não houver lugar seguro longe de fios de energia elétrica.
+Quando o rádio não tiver conector para ligar um fio externo.
+Quando houver risco de raio ou tempestade no local.
+
+MATERIAIS
+---------
+- Fio de cobre comum, cerca de 3 metros, para os dois braços.
+- Cabo coaxial ou cabo de dois fios para ligar o centro ao rádio.
+- Conector que encaixe no rádio, ou adaptador improvisado.
+- Dois isolantes pequenos, de plástico ou cerâmica, para o centro.
+- Corda ou linha forte para pendurar a antena.
+- Régua ou trena, caneta e tesoura ou alicate.
+
+PROCEDIMENTO
+------------
+1. Escolha a frequência de trabalho e anote o valor em MHz.
+2. Calcule o comprimento de onda: divida 300 pela frequência em MHz.
+3. Calcule o braço de cada lado: divida 71,5 pela frequência em MHz.
+   O resultado, em metros, é o comprimento aproximado de cada braço.
+4. Corte dois pedaços de fio com esse comprimento, medidos da ponta
+   até o centro onde será feita a ligação.
+5. Descasque alguns centímetros das pontas que vão se ligar ao centro.
+6. Prenda cada braço em um isolante, um de cada lado do centro.
+7. Ligue a ponta de um braço ao condutor central do cabo coaxial.
+8. Ligue a ponta do outro braço à malha externa do cabo coaxial.
+   Se o cabo for de dois fios, ligue um braço a cada fio.
+9. Isole as emendas com fita para os condutores não se encostarem.
+10. Ligue a outra ponta do cabo ao conector de antena do rádio.
+11. Amarre a corda no centro isolante e estenda os dois braços.
+12. Erga o centro o mais alto que puder, sem chegar perto de fios.
+13. Deixe os braços na horizontal ou em V invertido, com as pontas
+    mais baixas que o centro.
+14. Afaste toda a antena de fios de energia e de metal grande.
+
+ATENCAO
+-------
+Nunca encoste a antena em fio de energia elétrica. Isso pode matar
+quem segura o rádio ou o fio. Peça ajuda a quem entende de
+eletricidade antes de erguer perto de qualquer linha aérea.
+Ao subir em escada, peça a outra pessoa para segurar. Queda causa
+lesão grave. Use luvas: a ponta do fio fura a pele.
+Em tempestade, desligue o rádio, desconecte o cabo e afaste a antena.
+Uma antena de fio atrai raio.
+Os comprimentos são aproximados e servem só de ponto de partida.
+Para outra frequência, refaça o cálculo e corte os fios de novo.
+A antena melhora a recepção, mas não cria sinal onde não há cobertura.
+O resultado depende também do rádio, do cabo e da distância.
+
+SE NAO TIVER
+------------
+Sem cabo coaxial, use qualquer fio duplo, como fio de fonte ou
+cabo de alto-falante, ligando um braço a cada condutor.
+Sem conector, encoste o fio no terminal de antena e prenda com fita.
+Sem isolante, use plástico duro, madeira seca ou pedaço de mangueira.
+Sem lugar alto, pendure a antena na janela ou na parede, longe de fios,
+e aceite um sinal mais fraco. Nunca use fio de energia para ganhar altura.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O rádio passa a receber a estação com menos ruído do que antes.
+Ao mover ou girar os braços, a qualidade do som muda de forma clara.
+Os dois braços estão estendidos, firmes e sem tocar em nada.
+
+FONTES
+------
+Prática consolidada de construção de antenas de emergência, resumida
+de referências técnicas: Manual de Antenas da ARRL (ARRL Antenna Book)
+e Balanis, Modern Antenna Handbook. As fórmulas de comprimento são
+aproximadas e servem de ponto de partida, não de projeto final.
+As regras de distância de linhas de energia seguem a prática
+consolidada de segurança elétrica.

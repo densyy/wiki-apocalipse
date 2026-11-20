@@ -1,0 +1,91 @@
+==============================================================================
+CODIGO: 64-017
+TITULO: Como interpretar resultados laboratoriais
+CATEGORIA: 64 - Laboratório, diagnóstico e análises
+TEMPO: 25 minutos
+RISCO: alto
+EXIGE: laudo com resultados e faixas de referência, papel, caneta
+REVISAO: 2026-11
+PALAVRAS-CHAVE: exame, resultado, normal, alterado, referência, unidade
+==============================================================================
+
+OBJETIVO
+--------
+Ao terminar, a pessoa lê o laudo e separa o que exige atenção.
+
+QUANDO USAR
+-----------
+Quando chegar um laudo de sangue, urina ou outro exame.
+Quando um resultado vier marcado como alterado.
+Quando quiser comparar exames feitos em datas diferentes.
+Quando precisar decidir se procura atendimento médico.
+Quando acompanhar uma condição crônica com exames periódicos.
+
+NAO USE QUANDO
+--------------
+Não use esta leitura para trocar dose de remédio por conta própria.
+Não use para dispensar atendimento quando houver sintomas ou piora.
+Não use para comparar números de laboratórios diferentes.
+Não use para dar diagnóstico a outra pessoa sem avaliação médica.
+
+MATERIAIS
+---------
+- Laudo impresso ou na tela, com método e unidade de cada exame.
+- Faixa de referência impressa no próprio laudo (não a de outro lugar).
+- Papel e caneta para anotar data, exame, valor e pergunta.
+- Resultados antigos do mesmo laboratório, se houver (para comparar).
+
+PROCEDIMENTO
+------------
+1. Confira o nome, a data de coleta e o laboratório no laudo.
+2. Para cada exame, leia o valor, a unidade e a faixa de referência.
+3. Anote o valor em papel ao lado da faixa impressa no laudo.
+4. Marque como dentro da faixa, acima, abaixo ou sem faixa informada.
+5. Verifique se a faixa vale para você: idade, sexo, gravidez, jejum.
+6. Compare o valor com a faixa do mesmo laudo, nunca com outra fonte.
+7. Se houver resultado antigo, compare só exames do mesmo laboratório.
+8. Observe a variação entre exames: mudança pequena pode ser ruído.
+9. Separe os resultados com aviso de valor crítico para agir primeiro.
+10. Releia os valores limítrofes e os que não fazem sentido.
+11. Escreva no papel as perguntas que o laudo não responde.
+12. Leve o laudo e as anotações a um profissional de saúde.
+
+ATENCAO
+-------
+Um valor fora da faixa não é diagnóstico: cerca de uma em cada vinte
+pessoas saudáveis tem algum resultado fora dela.
+Um valor dentro da faixa também não afasta doença se houver sintomas.
+Cada laboratório usa método e unidade próprios; não compare laudos de
+laboratórios diferentes.
+Faixas mudam com idade, sexo, gravidez, hora do dia e jejum.
+Valor crítico é aviso de risco imediato: não espere o próximo exame.
+Erros de coleta, amostra mal conservada e atraso no transporte alteram
+resultados; se o valor não faz sentido, peça repetição.
+Nunca troque dose, suspenda remédio ou inicie tratamento só pelo laudo.
+Procure atendimento imediato se houver dor forte, falta de ar, febre
+alta, confusão, sangramento ou desmaio, mesmo com exame normal.
+
+SE NAO TIVER
+------------
+Sem faixa no laudo, peça a faixa ao laboratório antes de concluir.
+Sem exame antigo, comece a guardar os laudos do mesmo laboratório.
+Sem laudo impresso, anote os valores da tela com cuidado e confira.
+Sem acesso ao laboratório, trate qualquer valor crítico como urgente.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada exame ficou anotado com valor, unidade e faixa do próprio laudo.
+Os valores críticos foram separados e encaminhados primeiro.
+As perguntas sem resposta estão escritas para levar ao profissional.
+
+FONTES
+------
+MedlinePlus, da Biblioteca Nacional de Medicina dos Estados Unidos:
+guia para entender resultados de exames.
+Australian Prescriber: artigo sobre armadilhas na interpretação de
+resultados laboratoriais.
+CDC: orientações sobre faixas de referência e comunicação de valores
+críticos.
+Journal of the American Board of Family Medicine: artigo sobre valores
+normais e faixas de referência, 2025.
+Resumo operacional; não substitui avaliação de profissional de saúde.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 67-009
+TITULO: Como utilizar relés eletromecânicos
+CATEGORIA: 67 - Robótica, automação e controle
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: relé de baixa tensão, bateria, chave, fios isolados, diodo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: relé, reles, chave, bobina, contato, comando, automação
+==============================================================================
+
+OBJETIVO
+--------
+Usar um relé para ligar e desligar uma carga com um sinal fraco.
+
+QUANDO USAR
+-----------
+Quando um sinal de baixa corrente precisa comandar uma carga maior.
+Quando a carga e o comando devem ficar eletricamente separados.
+
+NAO USE QUANDO
+--------------
+Nunca ligue os contatos à rede de 110 ou 220 V neste tutorial.
+Não comande motor forte, aquecedor nem equipamento de segurança.
+Não substitua disjuntor, fusível nem projeto de engenheiro.
+
+MATERIAIS
+---------
+- Relé de 9 V com contato comum, NA (aberto) e NF (fechado).
+- Bateria de 9 V com clip e chave liga-desliga.
+- Carga de teste: LED com resistor ou lâmpada de baixa tensão.
+- Diodo 1N4007, fios isolados e placa de montagem.
+
+PROCEDIMENTO
+------------
+1. Desligue a bateria antes de fazer qualquer ligação.
+2. Identifique no corpo do relé os dois pinos da bobina.
+3. Ligue um pino da bobina ao positivo pela chave.
+4. Ligue o outro pino ao negativo da bateria.
+5. Soldo o diodo sobre a bobina, com a faixa ao positivo.
+6. Ligue o positivo da bateria ao contato comum do relé.
+7. Ligue a carga entre o contato NA e o negativo da bateria.
+8. Feche a chave e escute o clique da bobina.
+9. Abra a chave e veja a carga desligar.
+10. Mude a carga para o contato NF e repita os passos 8 e 9.
+
+ATENCAO
+-------
+Use só bateria de baixa tensão; nunca encoste na rede elétrica.
+A bobina gera um pico ao desligar; sem o diodo, a chave ou o
+transistor queima. A faixa do diodo vai no lado positivo.
+O relé não aumenta a corrente: respeite o limite dos contatos.
+Contatos grudam se a carga passar do limite do fabricante.
+Com cheiro de queimado, faísca ou aquecimento, desligue e pare.
+
+SE NAO TIVER
+------------
+Sem diodo, não comande a bobina com transistor: o pico queima.
+Sem relé, use chave manual para ligar a mesma carga de teste.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ao fechar a chave, o relé clica e a carga liga pelo contato NA.
+Ao abrir, o clique volta e a carga desliga.
+
+FONTES
+------
+Prática consolidada de automação e eletrônica de baixa tensão,
+sem documento único. Base: The Art of Electronics (Horowitz e
+Hill) e Lessons in Electric Circuits (Kuphaldt). Resumo operacional.

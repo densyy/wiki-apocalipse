@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 61-016
+TITULO: Como recuperar áreas florestais degradadas
+CATEGORIA: 61 - Agricultura florestal e manejo de ecossistemas
+TEMPO: 4 dias de trabalho ativo
+RISCO: medio
+EXIGE: mudas nativas, sementes, enxada, cerca, adubo organico, palhada
+REVISAO: 2026-11
+PALAVRAS-CHAVE: degradada, restauração, reflorestamento, solo, terra cansada
+==============================================================================
+
+OBJETIVO
+--------
+Devolver cobertura vegetal nativa e solo firme a uma area degradada.
+
+QUANDO USAR
+-----------
+Quando uma area foi desmatada e o solo ficou exposto a chuva e ao sol.
+Quando capim invasor impede o crescimento de mudas nativas.
+Quando houve queimada, erosao ou pisoteio de gado na area.
+Quando ha arvores porta-sementes por perto, mas a regeneracao e fraca.
+
+NAO USE QUANDO
+--------------
+Quando a area for APP ou Reserva Legal sem projeto aprovado pelo orgao
+ambiental.
+Quando o solo estiver alagado, contaminado por quimicos ou com voçoroca
+ativa sem controle.
+Quando nao houver agua para manter as mudas na estacao seca.
+Quando a especie escolhida for invasora ou exotica sem autorizacao.
+
+MATERIAIS
+---------
+- Mudas de especies nativas da regiao (ou sementes de arvores locais).
+- Enxada ou cavadeira para abrir covas de aproximadamente 20 cm.
+- Estacas e cordel para marcar linhas e pontos de plantio.
+- Cerca ou arame para impedir a entrada de gado e pessoas.
+- Adubo organico decomposto (ou composto caseiro de folhas e esterco).
+- Palhada ou cobertura morta para proteger o solo.
+
+PROCEDIMENTO
+------------
+1. Identifique o uso anterior da terra e o grau de degradacao da area.
+2. Conte mudas e rebrotas nativas em 10 pontos para medir a regeneracao.
+3. Isole a area com cerca para impedir a entrada de gado e pessoas.
+4. Abra um aceiro ao redor da area para conter fogo.
+5. Controle formigas cortadeiras com isca registrada, longe de agua.
+6. Roce ou capine o capim invasor nos pontos onde vai plantar.
+7. Escolha especies nativas da regiao, incluindo pioneiras e secundarias.
+8. Marque linhas paralelas com cordel e estacas, a 3 m uma da outra.
+9. Marque os pontos de plantio a 2 m uns dos outros sobre cada linha.
+10. Abra covas de aproximadamente 20 cm de lado, fundo e largura.
+11. Misture o adubo organico com a terra retirada do fundo de cada cova.
+12. Plante no inicio da estacao chuvosa, com o colo no nivel da terra.
+13. Cubra o solo ao redor de cada muda com palhada, sem encostar no colo.
+14. Replante as mudas mortas ate o terceiro mes.
+15. Meça o crescimento de 3 em 3 meses no primeiro ano.
+
+ATENCAO
+-------
+A recuperacao e lenta: nao espere floresta fechada em poucos meses.
+Solo compactado ou erodido dificulta o plantio; corrija antes de comecar.
+Especies exoticas invasoras travam a sucessao e devem ser evitadas.
+Fogo, gado e formigas cortadeiras podem destruir o trabalho em dias.
+Em APP ou Reserva Legal, exija orientacao do orgao ambiental antes de agir.
+Se mais da metade das mudas morrer no primeiro ano, procure ajuda tecnica.
+
+SE NAO TIVER
+------------
+Sem mudas compradas, produza mudas com sementes de arvores nativas locais.
+Sem adubo mineral, use composto organico decomposto misturado a terra.
+Sem cerca, faca aceiros e vigie a area para impedir a entrada de gado.
+Sem agua na estacao seca, nao plante: espere a proxima estacao chuvosa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O solo esta coberto por vegetacao e ha poucos trechos de terra exposta.
+As mudas nativas estao verdes, com brotos novos, apos a primeira chuva.
+Nao ha sinais de fogo, pisoteio ou ataque de formigas na area.
+
+FONTES
+------
+Pratica consolidada de restauracao ecologica e silvicultura no Brasil.
+Embrapa (Codigo Florestal, Agrobiologia): estrategias de recuperacao,
+espacamento de 3 m x 2 m, covas de aproximadamente 20 cm, adubacao
+verde e Manual Pratico de Restauracao Florestal na Amazonia.
+ICMBio (Guia de Restauracao Ecologica), Ibama (Normativa 14/2024) e
+Jardim Botanico do Rio de Janeiro (Manual Tecnico, 2013).
+Este texto e resumo operacional e nao substitui orientacao tecnica local.

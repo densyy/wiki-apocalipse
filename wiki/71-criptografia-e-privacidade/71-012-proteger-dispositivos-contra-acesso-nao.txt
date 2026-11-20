@@ -1,0 +1,91 @@
+==============================================================================
+CODIGO: 71-012
+TITULO: Como proteger dispositivos contra acesso não autorizado
+CATEGORIA: 71 - Criptografia, segurança da informação e privacidade
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: acesso às configurações, senha forte, caderno, backup separado
+REVISAO: 2026-11
+PALAVRAS-CHAVE: senha, bloqueio, criptografia, roubo, privacidade, chave
+==============================================================================
+
+OBJETIVO
+--------
+Reduzir o risco de alguém ler, alterar ou roubar os dados do dispositivo.
+
+QUANDO USAR
+-----------
+Quando o aparelho guarda senhas, documentos ou fotos importantes.
+Quando o dispositivo é levado em viagem ou usado fora de casa.
+Quando outras pessoas dividem o ambiente, a mesa ou a rede.
+Quando o aparelho ficará guardado por muito tempo sem uso.
+
+NAO USE QUANDO
+--------------
+Não mude senha nem ative criptografia sem antes guardar a chave de
+recuperação e fazer backup: sem isso você pode perder o acesso.
+Não altere aparelho gerenciado pela empresa sem autorização: a mudança
+pode violar a regra do lugar.
+
+MATERIAIS
+---------
+- Dispositivo com acesso às configurações de segurança.
+- Senha ou PIN longo e único (frase longa no lugar de palavra curta).
+- Caderno para anotar a chave de recuperação (arquivo offline).
+- Cópia de segurança dos dados em meio separado, guardada à parte.
+- Bloqueador de dados para USB público (carregador de tomada).
+
+PROCEDIMENTO
+------------
+1. Faça backup dos dados importantes em meio separado antes de começar.
+2. Abra as configurações de segurança, tela e privacidade do aparelho.
+3. Defina senha ou PIN longo e único, diferente de todos os outros.
+4. Ative o bloqueio automático da tela após 15 minutos de inatividade.
+5. Desative mensagens e senhas visíveis na tela bloqueada.
+6. Ative a criptografia do disco ou do armazenamento do aparelho.
+7. Anote a chave de recuperação e guarde-a em local fechado, longe dele.
+8. Exija senha ao ligar e ao despertar; desative o login automático.
+9. Ative atualizações automáticas do sistema e dos aplicativos.
+10. Revise as contas conectadas e remova as que você não usa mais.
+11. Trave a tela sempre que se afastar, mesmo por poucos minutos.
+12. Leve o aparelho com você; nunca o deixe em carro ou quarto de hotel.
+13. Não conecte mídia encontrada nem use USB público sem bloqueador.
+14. Desligue e ligue o aparelho e confirme que a senha é exigida.
+
+ATENCAO
+-------
+Senha curta, repetida ou com data de nascimento abre com facilidade.
+Sem a chave de recuperação guardada, esquecer a senha pode custar
+todos os dados: a criptografia não deixa atalho.
+Criptografar sem backup pode destruir arquivos se o processo falhar.
+Travar a tela não impede malware nem senha vista por cima do ombro.
+Carregar em USB público sem bloqueador pode transferir dados do aparelho.
+Aparelho sem atualização continua vulnerável mesmo com senha forte.
+Se aparecer conta ou senha trocada que você não fez, pare: troque as
+senhas dos serviços conectados e peça ajuda.
+
+SE NAO TIVER
+------------
+Sem bloqueador de dados, use carregador de tomada, não porta USB pública.
+Sem backup, não ative criptografia nem troque a senha: guarde o aparelho
+trancado e procure ajuda antes de mexer.
+Sem bloqueio automático, trave a tela na mão ao se afastar.
+Sem senha confiável, use frase longa que você lembre, sem dados pessoais.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ao ligar ou despertar, o aparelho pede senha ou PIN.
+Depois de 15 minutos parado, a tela aparece bloqueada.
+A tela bloqueada não mostra conteúdo de mensagens.
+Nas configurações, a criptografia aparece como ativa.
+O sistema informa que não há atualizações pendentes.
+
+FONTES
+------
+NIST SP 800-124 Rev. 2, Guidelines for Managing the Security of Mobile
+Devices in the Enterprise, 2023.
+CISA, Mobile Communications Best Practice Guidance, revisão de 2026.
+CISA, Project Upskill Topic 1.5 e Topic 1.1, segurança física e
+atualização de sistema.
+Prática consolidada de segurança da informação; resumo operacional,
+não substitui treinamento.

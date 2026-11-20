@@ -1,0 +1,91 @@
+==============================================================================
+CODIGO: 20-021
+TITULO: Como cultivar forragem
+CATEGORIA: 20 - Animais domésticos e pecuária
+TEMPO: 120 minutos
+RISCO: alto
+EXIGE: semente forrageira, enxada, pá, régua, luvas, botas, água limpa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: forragem, capim, braquiária, pastagem, plantio, pasto, ração
+==============================================================================
+
+OBJETIVO
+--------
+Implantar capim forrageiro para alimentar os animais com pasto fresco.
+
+QUANDO USAR
+-----------
+Quando falta ração comprada para bovinos, cabras, ovelhas ou coelhos.
+Quando há terra ociosa perto de água para manter a área verde.
+Quando o pasto natural está degradado e precisa de reforma.
+Quando se quer capim cortado para dar aos animais na estação seca.
+Quando é preciso produzir forragem para guardar como feno.
+
+NAO USE QUANDO
+--------------
+Não use em solo alagado ou contaminado por óleo, agrotóxico ou metal.
+Não use onde não houver água para manter as mudas vivas no começo.
+Não use em área de preservação permanente sem autorização.
+
+MATERIAIS
+---------
+- Semente de capim forrageiro adaptado à região (braquiária ou colonião).
+- Enxada ou pá para abrir sulcos e cobrir a semente.
+- Régua ou cordão com marcas a cada 30 cm.
+- Luvas e botas de borracha.
+- Balde ou regador com água limpa.
+- Estacas e cordel para delimitar e cercar o talhão.
+- Calcário e adubo, somente com análise de solo e orientação técnica.
+
+PROCEDIMENTO
+------------
+1. Escolha terreno plano, com boa drenagem e perto da água.
+2. Retire pedras, galhos e plantas daninhas com a enxada.
+3. Delimite a área com estacas e cordel.
+4. Faça análise de solo antes de aplicar calcário ou adubo.
+5. Abra sulcos com aproximadamente 70 cm entre linhas.
+6. Abra os sulcos com aproximadamente 2 a 4 cm de profundidade.
+7. Misture a semente com terra seca para espalhar de forma uniforme.
+8. Espalhe aproximadamente 1 kg de semente por cada 1.000 m².
+9. Cubra a semente com terra fina e pressione com a mão ou rolo.
+10. Regue com água limpa sem encharcar o solo.
+11. Isole o talhão com cerco para impedir a entrada dos animais.
+12. Regue quando a terra ficar clara, durante aproximadamente 30 dias.
+13. Meça a altura do capim com a régua antes de liberar o pasto.
+14. Libere o primeiro pastejo aos aproximadamente 30 cm de altura.
+15. Retire os animais quando o capim baixar a aproximadamente 15 cm.
+
+ATENCAO
+-------
+Não aplique herbicida sem orientação de engenheiro-agrônomo.
+Pode intoxicar quem aplica e queimar a forragem.
+Não use fogo sem autorização e meios de controle.
+O fogo pode sair do talhão e queimar a vizinhança.
+Não solte os animais antes dos 30 cm de altura.
+Eles arrancam a planta nova e o pasto pode morrer.
+Não deixe o capim cair abaixo de 15 cm de altura.
+Perde folha e demora a brotar de novo.
+Não dê capim com mofo, mancha escura ou cheiro estranho.
+Não ensaque forragem suspeita: fungos tóxicos ficam no feno.
+Se o animal salivar, tremer ou inchar, pare e procure ajuda.
+Não adube com nitrogênio sem análise de solo.
+O excesso acumula nitrato e pode intoxicar o animal.
+
+SE NAO TIVER
+------------
+Sem semente de capim, plante mudas de capim-elefante de área sadia.
+Sem régua, marque um cordão com nós a cada 30 cm e meça com ele.
+Sem água para irrigar, espere o início da estação chuvosa para plantar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Plântulas verdes nascem em linhas, sem falhas grandes.
+O capim atinge aproximadamente 30 cm e brota de novo após o corte.
+Os animais comem a forragem sem salivar, tremer ou inchar.
+
+FONTES
+------
+Prática consolidada de implantação e manejo de pastagens no Brasil.
+Embrapa: Circular Técnica 111 (Brachiaria decumbens), Circular Técnica 112
+(Brachiaria brizantha), artigo Manejo de pastos de Brachiaria brizantha,
+e Recomendações técnicas 799. Dados lidos em resumos oficiais da Embrapa.

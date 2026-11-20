@@ -1,0 +1,85 @@
+==============================================================================
+CODIGO: 89-011
+TITULO: Como organizar medicamentos de idosos
+CATEGORIA: 89 - Cuidados com idosos e assistência prolongada
+TEMPO: 35 minutos
+RISCO: alto
+EXIGE: lista atualizada, embalagens, água e coordenação com o profissional
+REVISAO: 2026-11
+PALAVRAS-CHAVE: medicamento, idoso, dose, horário, adesão, interação
+==============================================================================
+
+OBJETIVO
+--------
+Montar um sistema simples para dar os remédios certos, na dose e no
+horário corretos, reduzindo erros e esquecimento.
+
+QUANDO USAR
+-----------
+Quando a pessoa usar vários medicamentos ao mesmo tempo.
+Ao notar dose duplicada, esquecimento ou resistência em tomar remédio.
+Depois de consulta, internação ou mudança na prescrição.
+Se aparecerem tontura, náusea ou sonolência novas após tomar remédio.
+Sempre que o cuidador principal mudar ou a rotina for alterada.
+
+NAO USE QUANDO
+--------------
+Não invente dose, horário ou medicamento sem prescrição.
+Não suspenda remédio contínuo por conta própria, mesmo com efeito ruim.
+Não misture remédios sem saber se há interação, sobretudo com álcool.
+Não esconda comprimido na comida sem verificar se é permitido.
+
+MATERIAIS
+---------
+- Lista com nome, dose, horário e motivo de cada medicamento.
+- Embalagens originais com validade e nome do paciente legíveis.
+- Organizador semanal com compartimentos por dia e horário.
+- Copo de água, colher medidora e seringa para líquidos, se necessário.
+- Caderno de registro com data, hora e assinatura de quem administrou.
+- Contato da farmácia e do profissional prescritor.
+
+PROCEDIMENTO
+------------
+1. Reúna todas as embalagens e confira o nome impresso em cada uma.
+2. Anote dose, horário, via de uso e para que serve cada remédio.
+3. Descarte com segurança os medicamentos vencidos ou sem identificação.
+4. Preencha o organizador da semana com a ajuda de outra pessoa.
+5. Confira duas vezes o compartimento antes de oferecer cada dose.
+6. Identifique a pessoa pelo nome antes de dar qualquer medicamento.
+7. Ofereça com água suficiente, na posição sentada ou deitada de lado.
+8. Registre imediatamente a hora em que a dose foi dada.
+9. Se a dose foi esquecida, não dobre a seguinte sem orientação.
+10. Observe e anote efeitos estranhos após a administração.
+11. Guarde o organizador longe de calor, umidade e do alcance de crianças.
+12. Renove a lista e o organizador a cada mudança de prescrição.
+
+ATENCAO
+-------
+Muitos idosos tomam remédios que interagem entre si: álcool, chás e
+anti-inflamatórios podem causar sangramento, queda ou efeitos diversos.
+Tontura, confusão ou sonolência novas podem ser efeito de dose alta:
+avise o profissional e não ajuste a dose sozinho.
+Comprimidos com revestimento não devem ser amassados sem liberação.
+Se a pessoa recusar a dose, tente entender o motivo e comunique; não force.
+Nunca dê medicamento de outra pessoa, mesmo que o sintoma pareça igual.
+
+SE NAO TIVER
+------------
+Sem organizador, use copos ou saquinhos identificados por dia e horário.
+Sem lista escrita, tire foto das embalagens e mantenha o caderno atualizado.
+Sem água suficiente, priorize a higiene das mãos e ofereça o remédio com
+o líquido liberado pelo profissional.
+Sem orientação sobre esquecimento de dose, ligue para o prescritor.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada dose foi dada no horário e registrada com quem administrou.
+Não houve duplicidade nem dose esquecida sem comunicação.
+A pessoa não apresentou efeito novo relevante após os remédios.
+A lista e o organizador refletem a prescrição mais recente.
+
+FONTES
+------
+Resumo operacional de boas práticas de medicação: materiais do SUS sobre
+uso racional de medicamentos e saúde do idoso, orientações de farmácia
+clínica e cartilhas de cuidados domiciliares SENAR.

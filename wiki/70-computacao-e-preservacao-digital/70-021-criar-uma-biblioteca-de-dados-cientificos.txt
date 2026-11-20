@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 70-021
+TITULO: Como criar uma biblioteca de dados científicos offline
+CATEGORIA: 70 - Computação de baixo consumo e preservação digital
+TEMPO: 60 minutos
+RISCO: baixo
+EXIGE: computador, dois meios de guarda, caderno
+REVISAO: 2026-11
+PALAVRAS-CHAVE: dados, científico, biblioteca, offline, cópia, catálogo
+==============================================================================
+
+OBJETIVO
+--------
+Montar um acervo local de dados científicos que abre sem internet e
+que permite recuperar o original quando um meio de guarda falha.
+
+QUANDO USAR
+-----------
+Quando a conexão é instável e os dados precisam ser consultados na hora.
+Quando o trabalho de campo gera tabelas e medidas longe da internet.
+Quando o acervo precisa durar mais que o aparelho que o criou.
+
+NAO USE QUANDO
+--------------
+Quando os dados são sigilosos e o meio de guarda não tem proteção.
+Sem fonte confiável, guardar dado errado é pior que não guardar nada.
+
+MATERIAIS
+---------
+- Computador com sistema de arquivos e espaço livre.
+- Dois meios de guarda, como disco externo e pendrive.
+- Caderno e lápis para o catálogo manual.
+- Dados originais com a fonte e a data de cada arquivo anotadas.
+
+PROCEDIMENTO
+------------
+1. Crie uma pasta chamada dados-cientificos com subpastas por tema.
+2. Dê a cada arquivo um nome curto, sem acentos nem espaços.
+3. Copie o original para a subpasta do tema sem alterar o conteúdo.
+4. Anote no caderno o nome, a fonte, a data e o que o arquivo mede.
+5. Prefira formatos abertos e de texto, como CSV e TXT, quando possível.
+6. Gere um código de integridade de cada arquivo, se houver ferramenta.
+7. Anote esse código ao lado da linha correspondente no caderno.
+8. Copie a pasta para os dois meios de guarda e desconecte-os.
+9. Guarde um meio longe do outro e do computador.
+
+ATENCAO
+-------
+Código de integridade é um valor curto calculado do conteúdo do arquivo.
+Ele detecta mudança, mas não prova que o dado está correto.
+Uma só cópia no mesmo computador não protege contra falha do disco.
+Se o arquivo não abrir, pare e recupere a cópia antes de editar.
+
+SE NAO TIVER
+------------
+Sem ferramenta de integridade, use o caderno e reabra o arquivo.
+Sem segundo meio, guarde a cópia em outro aparelho, como um celular.
+Sem formato aberto, guarde também uma impressão do dado essencial.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada arquivo tem uma linha no caderno com fonte e data.
+Os dois meios abrem os mesmos arquivos do computador original.
+O código anotado confere com o cálculo feito de novo na cópia.
+
+FONTES
+------
+Digital Preservation Handbook, segunda edição, Digital Preservation
+Coalition (2015).
+NIST FIPS 180-4, Secure Hash Standard, agência NIST (2015).

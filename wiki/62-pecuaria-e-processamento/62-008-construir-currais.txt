@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 62-008
+TITULO: Como construir currais
+CATEGORIA: 62 - Pecuária, reprodução e processamento animal
+TEMPO: 3 dias de trabalho
+RISCO: medio
+EXIGE: terreno firme e seco, mourões, cascalho, trena, ferramentas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: curral, gado, vaca, brete, seringa, embarcadouro, cercado
+==============================================================================
+
+OBJETIVO
+--------
+Reunir, separar e embarcar bovinos em um curral seguro e funcional.
+
+QUANDO USAR
+-----------
+Ao começar a criação e ainda não há onde reunir o gado.
+Antes de vacinar, marcar, castrar ou pesar os animais.
+Para separar o rebanho por lote, idade ou destino.
+Antes de embarcar animais para venda ou transporte.
+Quando o curral antigo tem pontas, lama ou cercas fracas.
+
+NAO USE QUANDO
+--------------
+Quando o terreno alaga ou não escoa água: escolha outro lugar.
+Quando não houver água e sombra para os animais presos.
+Com gado bravo, não maneje sem tronco de contenção e sem experiência.
+
+MATERIAIS
+---------
+- Trena ou corda marcada (ou passos contados).
+- Mourões de madeira resistente (eucalipto tratado ou concreto).
+- Réguas de madeira resistente ao impacto (ipê ou itaúba).
+- Cordoalha de aço ou arame liso (nunca arame farpado no curral).
+- Cascalho e pedra para o piso (tijolo ou laje de pedra).
+- Cimento, areia, portões com fecho firme, pá, nível e alicate.
+
+PROCEDIMENTO
+------------
+1. Desenhe a planta baixa com espera, seringa, brete e embarcadouro.
+2. Escolha terreno firme, seco, plano e central, perto da água.
+3. Marque o maior eixo do curral no sentido leste-oeste.
+4. Reserve de 2 a 10 metros quadrados por animal adulto.
+5. Para manejo curto, preveja aproximadamente 2 metros quadrados por cabeça.
+6. Dê preferência ao formato circular ou elíptico para o conjunto.
+7. Marque os cantos com estacas e meça as cercas com a trena.
+8. Cave os buracos com aproximadamente 1 metro de profundidade.
+9. Enterre mourões de aproximadamente 3 metros de comprimento.
+10. Use seção quadrada de 15 cm por 15 cm ou diâmetro de 20 cm.
+11. Fixe os mourões com cimento e areia e deixe secar.
+12. Espaçe os mourões a aproximadamente 2 metros nas cercas do curral.
+13. Estique cordoalha de aço ou arame liso entre os mourões, sem farpas.
+14. Prenda as réguas com grampos e corte as pontas rente ao mourão.
+15. Cubra o piso com cascalho compactado e pedra ou concreto no brete.
+16. Dê ao piso inclinação de aproximadamente 3% para escoar a água.
+17. Monte seringa curva, brete e tronco com paredes cegas e sem vãos.
+18. Instale o embarcadouro no fim do corredor e o bebedouro no curral.
+19. Retire estacas, arame e pregos soltos antes de soltar os animais.
+
+ATENCAO
+-------
+Cerca baixa ou com farpas fere o couro e abre porta para infecção.
+Ponta de parafuso ou lasca saliente fere pessoas e animais.
+Piso sem drenagem vira lama na chuva e poeira na seca.
+Curral fraco deixa o gado escapar e pode ferir quem trabalha perto.
+Bovino é animal grande: não entre correndo nem grite no corredor.
+Sem água e sombra, animais presos sofrem no calor do dia.
+Mantenha o curral limpo e repare cercas e fechos antes de cada manejo.
+
+SE NAO TIVER
+------------
+Sem madeira resistente, use eucalipto tratado ou mourões de concreto.
+Sem cordoalha, use arame liso bem esticado com batentes.
+Sem cascalho, use pedra ou tijolo assentado no piso do brete.
+Sem tronco de contenção, maneje apenas animais mansos.
+Sem ajuda para os mourões, peça apoio a vizinhos antes de começar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A planta baixa confere com o curral montado no terreno.
+Os mourões ficam firmes, alinhados e sem pontas salientes.
+O piso escoa a água e não cria lama.
+Os portões fecham com o impacto e o corredor não prende o animal.
+
+FONTES
+------
+Publicações da Embrapa Gado de Corte sobre boas práticas na produção
+de bovinos de corte e instalações rurais (localização, piso, formato e
+componentes do curral). Circular técnica do CNPGC sobre construção de
+curral para bovinos de corte (mourões). Embrapa Agência de Informação
+Tecnológica, currais (área por animal e piso). Embrapa, Boas Práticas
+Agropecuárias: Ambiência e Bem-Estar Animal (seringa, área e bem-estar).
+Prática consolidada; texto resumo operacional, não substitui a
+assistência técnica rural.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 09-038
+TITULO: Como identificar constelações para navegação
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 20 minutos
+RISCO: medio
+EXIGE: céu limpo e escuro, horizonte visível
+REVISAO: 2026-11
+PALAVRAS-CHAVE: constelação, estrela polar, ursa maior, cruzeiro, norte, sul
+==============================================================================
+
+OBJETIVO
+---------
+Identifique as estrelas-guia no céu e ache o norte ou o sul sem bússola.
+
+QUANDO USAR
+-----------
+Quando a bússola não existe, quebrou ou está sem pilha.
+Quando o celular e o GPS falham e é preciso escolher a direção.
+Ao caminhar à noite em área aberta e sem pontos de referência.
+
+NAO USE QUANDO
+--------------
+Quando o céu estiver nublado, com chuva ou com luzes fortes por perto.
+Quando houver névoa cerrada ou o horizonte estiver escondido.
+
+MATERIAIS
+---------
+- Nenhum material.
+- Opcional: mapa, bússola ou caderno para anotar a direção.
+
+PROCEDIMENTO
+------------
+1. Saia para lugar aberto, longe de luzes e prédios altos.
+2. Deixe os olhos se adaptarem ao escuro por aproximadamente 15 minutos.
+3. No norte, ache a Ursa Maior: sete estrelas em forma de concha.
+4. Encontre as duas estrelas da borda mais longe da alça da concha.
+5. Trace a linha entre elas e estenda-a cerca de cinco vezes.
+6. A estrela brilhante no fim é a Estrela Polar, na Ursa Menor.
+7. Confira: ela quase não se move enquanto as outras giram.
+8. No sul, ache o Cruzeiro do Sul, quatro estrelas brilhantes em cruz.
+9. Use as duas estrelas brilhantes ao lado que apontam para a cruz.
+10. Estenda a linha do topo à base cerca de quatro vezes e meia.
+11. O ponto fica perto do polo sul celeste e indica o sul.
+12. Marque a direção no chão ou no caderno antes de caminhar.
+
+ATENCAO
+-------
+A Estrela Polar não é a mais brilhante; buscar a mais brilhante engana.
+Nuvens, lua cheia e luzes da cidade escondem as estrelas mais fracas.
+Não confunda o Cruzeiro com a Falsa Cruz, maior e sem estrelas-guia.
+A orientação pelas estrelas dá só a direção geral: não substitui mapa
+nem bússola. Se não vir as estrelas-guia com clareza, pare e espere.
+
+SE NAO TIVER
+------------
+Sem céu limpo, espere a lua baixar ou mude para um lugar mais escuro.
+Sem ver a Ursa Maior, use Cassiopeia, o W oposto, para achar o norte.
+Sem o cruzeiro, peça ajuda a quem conheça a região antes de seguir.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você aponta para a mesma direção em duas noites seguidas.
+As estrelas-guia ficam na posição prevista enquanto as outras giram.
+
+FONTES
+------
+Prática consolidada de navegação celeste e sobrevivência civil.
+Marcadores: Ursa Maior, Polaris e Cruzeiro do Sul, de uso clássico.
+Não foi consultado um documento único para este texto.

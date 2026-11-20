@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 35-021
+TITULO: Como criar tecnologias apropriadas para comunidades isoladas
+CATEGORIA: 35 - Temas especiais que merecem enciclopédias próprias
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: caderno, lápis, materiais da região, tempo da comunidade
+REVISAO: 2026-11
+PALAVRAS-CHAVE: tecnologia apropriada, comunidade, protótipo, conserto
+==============================================================================
+
+OBJETIVO
+---------
+Criar uma solução simples que a comunidade constrói, usa e conserta sozinha.
+
+QUANDO USAR
+-----------
+Quando a comunidade não recebe peças, energia ou assistência de fora.
+Quando um problema de água ou cozinha não tem solução comprada.
+Quando o dinheiro é escasso e a mão de obra local está disponível.
+
+NAO USE QUANDO
+--------------
+Com risco de morte, socorra e procure ajuda antes de desenhar.
+Quando depender de eletricidade, gás ou químicos sem saber manusear.
+
+MATERIAIS
+---------
+- Caderno e lápis para registrar o problema e as decisões.
+- Cordão com nós ou fita para medir o espaço.
+- Amostras dos materiais que existem na região.
+- Ferramentas que os moradores já sabem usar.
+
+PROCEDIMENTO
+------------
+1. Reúna quem usa e quem conserta o item na comunidade.
+2. Pergunte qual problema ocorre mais e em que momento do dia.
+3. Escreva o problema em uma frase curta no caderno.
+4. Liste os materiais da região e a quantidade de cada um.
+5. Defina o que a solução deve fazer e o que não precisa fazer.
+6. Desenhe no caderno a versão mais simples que resolve o problema.
+7. Escolha o desenho com menos peças e materiais locais.
+8. Construa um protótipo, versão de teste, com sobras.
+9. Peça a uma pessoa que não desenhou para usar o protótipo sozinha.
+10. Anote onde a pessoa hesita, erra ou pede ajuda.
+11. Mude o desenho e repita o teste até a pessoa usar sem ajuda.
+12. Registre no caderno os passos de construção e de reparo.
+
+ATENCAO
+-------
+Uma ideia bonita no papel falha na mão de quem não foi consultado.
+Não use material que a comunidade não consiga repor nem consertar.
+Protótipo com sobras esconde defeitos do material definitivo.
+Se o teste envolver fogo, corte ou peso, use proteção e supervisione.
+Pare se houver ferimento, calor ou contaminação; busque ajuda qualificada.
+
+SE NAO TIVER
+------------
+Sem material bom, use sobras, mas nunca entregue o teste como final.
+Sem tempo para testar, não publique; isto não substitui engenheiro.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Uma pessoa que não desenhou usa a solução sozinha, sem ajuda, duas vezes.
+O caderno registra como construir e consertar com ferramentas locais.
+FONTES
+------
+Prática consolidada: Small Is Beautiful, de E. F. Schumacher.
+Critérios da OCDE e design comunitário; resumo, não substitui treinamento.
+Practical Action e Engineering for Change.

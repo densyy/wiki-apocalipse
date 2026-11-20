@@ -1,0 +1,93 @@
+==============================================================================
+CODIGO: 17-012
+TITULO: Como prever geadas
+CATEGORIA: 17 - Meteorologia, clima e meio ambiente
+TEMPO: 15 minutos
+RISCO: alto
+EXIGE: termômetro, caderno, lápis, relógio
+REVISAO: 2026-11
+PALAVRAS-CHAVE: geada, gelo, frio, noite, orvalho, temperatura, plantio
+==============================================================================
+
+OBJETIVO
+--------
+Antecipar ao anoitecer se a noite pode trazer geada.
+
+QUANDO USAR
+-----------
+Ao anoitecer, no outono ou no inverno, antes de cobrir mudas e hortaliças.
+Quando a tarde foi seca, o céu ficou limpo e o vento parou.
+Quando o boletim pelo rádio indicar mínima entre 0 e 2 °C.
+
+NAO USE QUANDO
+--------------
+Não confie neste método com frente fria e vento forte.
+A geada de advecção, trazida por massa de ar frio,
+não obedece à regra do céu limpo.
+Não use a observação caseira para decidir a segurança de pessoas.
+Este texto dá tendência local, não substitui aviso da Defesa Civil.
+
+MATERIAIS
+---------
+- Termômetro que meça pelo menos 0 °C.
+- Caderno e lápis para anotar hora, temperatura e estado do céu.
+- Relógio.
+- Lanterna fraca, se a leitura noturna for necessária.
+
+PROCEDIMENTO
+------------
+1. Sai ao anoitecer, aproximadamente 30 minutos após o pôr do sol.
+2. Olhe o céu e anote se está limpo, com estrelas, ou coberto de nuvens.
+3. Fique parado um minuto e anote se sente vento no rosto.
+4. Coloque o termômetro na sombra, aproximadamente 1 metro acima do solo.
+5. Afaste o termômetro de parede, pedra ou telha que guardou calor do dia.
+6. Espere aproximadamente 2 minutos e anote a temperatura e a hora.
+7. Passe a mão nas folhas de uma planta baixa e anote se estão secas.
+8. Repita a leitura no mesmo lugar aproximadamente 2 horas depois.
+9. Se as folhas estavam secas, o céu limpo e o ar calmo,
+   espere queda acentuada até o amanhecer.
+10. Se apareceu orvalho, anote a temperatura medida:
+    ela aproxima o ponto de orvalho
+    (temperatura em que o vapor d'água do ar começa a virar orvalho).
+11. Trate como risco se a mínima ficar entre 0 e 2 °C; é a faixa de risco
+    moderado usada pelo INMET.
+12. Se o termômetro chegar a 0 °C, aja como se a geada fosse ocorrer.
+13. Ao amanhecer, procure cristais de gelo nas folhas e no solo.
+14. Anote a mínima observada para calibrar suas próximas leituras.
+
+ATENCAO
+-------
+Este método indica tendência, não previsão segura.
+Falha quando chega ar frio com vento, sem céu limpo.
+O termômetro mede o ar; a folha exposta esfria mais e pode gelar antes.
+Não espere ver o gelo para proteger mudas e hortaliças.
+Abaixo de 0 °C há risco de perda de plantação, segundo avisos do INMET.
+Não use este texto para hipotermia ou risco à saúde de pessoas.
+Em dúvida, cubra as plantas.
+Proteger sem necessidade custa menos que perder a colheita.
+
+SE NAO TIVER
+------------
+Sem termômetro, use os sinais do céu limpo, do vento calmo
+e do ar seco; a previsão fica menos confiável.
+Sem relógio, compare céu e orvalho em dois momentos da noite,
+sem hora exata.
+Sem lanterna, faça a leitura ao anoitecer e ao amanhecer, com luz natural.
+Se houver rádio, ouça o boletim do INMET.
+A observação caseira complementa, não substitui.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ao amanhecer, aparecem cristais brancos de gelo nas folhas
+ou no solo quando a mínima foi de 0 °C ou menos.
+Se você previu risco e não houve geada, registre a mínima real
+e ajuste as próximas leituras.
+
+FONTES
+------
+Embrapa: "Geada e métodos de controle", de Francisco Mandelli,
+Jornal da Fruta, 2006.
+Universidade Federal do Paraná: capítulo 6.1a "Orvalho e geada"
+da apostila de meteorologia agrícola.
+INMET: Mapas de Geadas e produto Risco de Geada do Sisdagro,
+com faixas de temperatura mínima e avisos de perda de plantações.

@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 29-015
+TITULO: Como utilizar bancos de dados locais
+CATEGORIA: 29 - Tecnologia, computação e informática offline
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: computador com bateria, arquivos locais, unidade USB ou papel
+REVISAO: 2026-11
+PALAVRAS-CHAVE: banco de dados, registros, planilha, sqlite, csv, cópia
+==============================================================================
+
+OBJETIVO
+--------
+Guardar e consultar registros no computador, sem internet e sem servidor.
+
+QUANDO USAR
+-----------
+Quando precisar anotar inventário, sementes, medicamentos ou contatos.
+Quando a internet cair e os dados precisarem ficar no aparelho.
+Quando os registros em papel precisarem de uma cópia organizada.
+
+NAO USE QUANDO
+--------------
+Quando os dados mudarem em vários aparelhos sem sincronismo.
+Quando a informação for sigilosa e o aparelho não tiver senha.
+
+MATERIAIS
+---------
+- Computador com bateria carregada (ou fonte estável).
+- Programa de planilha local já instalado (ou editor de texto).
+- Arquivo SQLite (banco em um só arquivo, sem servidor).
+- Unidade USB ou papel para guardar a cópia de segurança.
+
+PROCEDIMENTO
+------------
+1. Abra o programa de planilha ou o arquivo SQLite salvo no computador.
+2. Crie a pasta de trabalho no disco, fora de serviços de nuvem.
+3. Dê ao arquivo principal um nome com o ano, como registros-2026.
+4. Escreva as colunas: item, quantidade, local, data, observação.
+5. Preencha uma informação por célula, com uma ideia por linha.
+6. Repita a data da conferência em cada linha preenchida.
+7. Salve o arquivo a cada poucas linhas digitadas.
+8. Copie o arquivo salvo para a unidade USB ao terminar.
+9. Anote no papel os itens críticos e guarde a folha separada.
+
+ATENCAO
+-------
+Um arquivo corrompido pode apagar todos os registros de uma vez.
+Salvar só ao fechar arrisca perder a digitação se a energia cair.
+Copiar o arquivo enquanto o programa grava pode gerar cópia incompleta.
+Sem senha, qualquer pessoa com o aparelho lê os dados.
+O procedimento não protege contra roubo, incêndio ou falha do disco.
+
+SE NAO TIVER
+------------
+Sem computador, use caderno com uma linha por item e colunas fixas.
+Sem USB, copie os dados para papel e guarde em outro lugar.
+Sem programa de banco, uma planilha simples já organiza os registros.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O arquivo abre sem erro e mostra as colunas e as linhas esperadas.
+A cópia na USB abre e mostra o mesmo número de linhas do original.
+
+FONTES
+------
+Documentacao oficial do SQLite: "SQLite as an Application File Format"
+e "SQLite Backup API", 2025. Banco em um unico arquivo portatil; copias
+durante gravacao podem corromper. Pratica consolidada de copia local.

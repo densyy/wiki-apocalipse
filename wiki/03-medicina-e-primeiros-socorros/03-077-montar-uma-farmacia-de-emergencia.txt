@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 03-077
+TITULO: Como montar uma farmácia de emergência
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: caixa com tampa, sacos plásticos, papel, caneta, lista da família
+REVISAO: 2026-11
+PALAVRAS-CHAVE: farmácia, remédio, emergência, validade, reidratação
+==============================================================================
+
+OBJETIVO
+--------
+Reunir medicamentos e materiais de primeiros socorros em um só lugar,
+prontos para uso até chegar atendimento médico.
+
+QUANDO USAR
+-----------
+Antes de viagem longa para lugar sem farmácia por perto.
+Em casa, quando alguém tem alergia, asma ou doença crônica.
+Em desastre com energia cortada e comércio fechado.
+Quando uma pessoa depende de medicamento de uso contínuo.
+Ao cuidar de criança ou idoso que pode precisar de remédio depressa.
+
+NAO USE QUANDO
+--------------
+Não inclua remédio vencido, sem rótulo ou de outra pessoa.
+Não inclua antibiótico, corticoide ou injetável por conta própria.
+Não improvise mistura de substâncias dentro da caixa.
+Não use a farmácia para substituir atendimento médico.
+
+MATERIAIS
+---------
+- Caixa rígida com tampa e fecho (ou pasta de arquivo com zíper).
+- Sacos plásticos pequenos e etiquetas (ou papel e fita adesiva).
+- Papel e caneta para rótulos e lista (ou caderno).
+- Gaze esteril em pacote fechado e esparadrapo.
+- Luvas descartáveis e pinça.
+- Sachês de reidratação oral (reposição de eletrólitos; siga a embalagem).
+- Paracetamol (analgésico e antitérmico; uso conforme prescrição ou bula).
+- Antisséptico de pele, como clorexidina ou álcool 70% (uso externo).
+- Medicamentos de uso contínuo da família (conforme prescrição individual).
+- Lista com alergias, doenças e remédios em uso de cada morador.
+
+PROCEDIMENTO
+------------
+1. Escolha uma caixa rígida com tampa que feche bem.
+2. Limpe a caixa por dentro com pano seco.
+3. Forre o fundo com saco plástico para proteger da umidade.
+4. Separe gaze, esparadrapo, luvas e pinça em um saco menor.
+5. Coloque esse saco dentro da caixa.
+6. Deixe cada medicamento na embalagem original, com a bula.
+7. Escreva em cada item o princípio ativo e a classe do remédio.
+8. Escreva a data de validade de cada item de forma legível.
+9. Anote 'uso conforme prescrição ou bula' em cada medicamento.
+10. Não invente dose: use só prescrição ou bula.
+11. Relacione em papel alergias, doenças e remédios de uso contínuo.
+12. Dobre a lista e guarde dentro da caixa.
+13. Guarde os sachês na embalagem original, em saco separado.
+14. Feche a caixa e guarde em lugar seco, escuro e fresco.
+15. Guarde a caixa fora do alcance de crianças.
+16. Anote no calendário uma revisão a cada 3 meses.
+17. Na revisão, retire item vencido e reponha item usado.
+
+ATENCAO
+-------
+Esta farmácia não substitui atendimento médico; ela só ganha tempo.
+Nunca dê remédio a outra pessoa, mesmo com sintomas parecidos.
+Paracetamol em excesso danifica o fígado; não some dois produtos com o
+mesmo princípio ativo e evite bebida alcoólica junto com paracetamol.
+Sachê de reidratação: use água potável e siga a embalagem; água suja
+piora a diarreia.
+Antisséptico é só para uso externo; nunca engula; álcool 70% pega fogo.
+Sinais de intoxicação: enjoo, vômito, dor de barriga, tontura, sonolência,
+confusão, olhos ou pele amarelados, respiração lenta.
+Se aparecer sinal desses, pare o remédio e procure atendimento.
+Remédio vencido ou sem rótulo vai fora; não guarde a caixa ao sol.
+
+SE NAO TIVER
+------------
+Sem caixa rígida: use caixa de papelão forrada com saco plástico.
+Sem etiqueta: escreva no papel da embalagem e fixe com fita.
+Sem sachê de reidratação: não invente mistura de sal e açúcar de memória;
+use água potável e procure atendimento.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada item está na caixa, com princípio ativo e validade legíveis.
+Nenhum item está vencido ou com embalagem aberta.
+A lista de alergias e remédios está dentro da caixa.
+A caixa fecha, está seca, escura e fora do alcance de crianças.
+
+FONTES
+------
+Cruz Vermelha Britânica, Red Cross Training: orientações sobre conteúdo de
+kit de primeiros socorros, validade e não guardar remédios no kit,
+publicadas em 20/01/2025 e consultadas para este texto.
+Demais itens e advertências: prática consolidada de primeiros socorros e
+farmacologia, sem documento único consultado; doses ficam na prescrição.

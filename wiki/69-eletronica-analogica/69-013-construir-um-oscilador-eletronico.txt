@@ -1,0 +1,93 @@
+==============================================================================
+CODIGO: 69-013
+TITULO: Como construir um oscilador eletrônico
+CATEGORIA: 69 - Eletrônica analógica e componentes discretos
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: circuito 555, bateria de 9V, resistores, capacitor, protoboard
+REVISAO: 2026-11
+PALAVRAS-CHAVE: oscilador, 555, astável, pulsos, LED, frequência, bateria
+==============================================================================
+
+OBJETIVO
+--------
+Montar um oscilador astável com o circuito 555 e verificar seus pulsos.
+
+QUANDO USAR
+-----------
+Quando for preciso gerar pulsos sem cristal ou relógio externo.
+Quando for preciso piscar um LED de sinalização.
+Quando for preciso um sinal para acionar outro circuito.
+Quando houver bateria e componentes comuns disponíveis.
+
+NAO USE QUANDO
+--------------
+Quando a alimentação for a rede elétrica ou tensão acima de 9V.
+Quando for preciso frequência exata: o 555 varia com a temperatura.
+Quando for acionar cargas de alta corrente sem transistor de potência.
+
+MATERIAIS
+---------
+- Circuito integrado 555 (NE555 ou equivalente).
+- Resistor de 1 kohm (1000 ohm).
+- Resistor de 10 kohm (10000 ohm).
+- Resistor de 330 ohm para o LED.
+- Capacitor eletrolítico de 10 microfarad (observe a polaridade).
+- Capacitor cerâmico de 0,01 microfarad (opcional, pino 5).
+- LED de qualquer cor.
+- Bateria de 9V com conector (ou 4 pilhas de 1,5V em série).
+- Protoboard e fios de ligação (jumpers).
+- Multímetro (opcional, para medir a frequência).
+
+PROCEDIMENTO
+------------
+1. Retire a bateria do suporte antes de montar o circuito.
+2. Encaixe o circuito 555 no centro da protoboard.
+3. Identifique o pino 1 (GND) e o pino 8 (VCC) no integrado.
+4. Ligue o pino 8 ao polo positivo da bateria.
+5. Ligue o pino 1 ao polo negativo da bateria.
+6. Ligue o pino 4 (RESET) ao polo positivo da bateria.
+7. Ligue o pino 5 ao negativo pelo capacitor de 0,01 microfarad.
+8. Encaixe o resistor de 1 kohm entre o pino 8 e o pino 7 (DESC).
+9. Encaixe o resistor de 10 kohm entre o pino 7 e o pino 6.
+10. Ligue o pino 6 (LIMIAR) ao pino 2 (GATILHO) com um fio.
+11. Encaixe o capacitor de 10 microfarad entre o pino 2 e o negativo.
+12. Vire o capacitor com o polo positivo voltado ao pino 2.
+13. Ligue o resistor de 330 ohm ao pino 3 (SAÍDA).
+14. Ligue a outra ponta do resistor ao ânodo do LED.
+15. Ligue o cátodo do LED ao polo negativo da bateria.
+16. Reconecte a bateria observando a polaridade.
+17. Observe o LED piscar em intervalos regulares.
+
+ATENCAO
+-------
+Nunca ligue o circuito à rede elétrica; use apenas bateria de até 9V.
+Inverta a polaridade do capacitor eletrolítico e ele pode estourar.
+Curto entre VCC e GND aquece o integrado e esvazia a bateria.
+Retire a bateria antes de corrigir ligações na protoboard.
+A frequência real varia com a tolerância dos componentes e a temperatura.
+Com os valores dados, espere aproximadamente 7 pulsos por segundo.
+Este texto mostra como montar, não como projetar circuitos.
+
+SE NAO TIVER
+------------
+Sem protoboard, use placa com solda ou um soquete para as ligações.
+Sem bateria de 9V, use 4 pilhas de 1,5V em série (6V).
+Sem capacitor de 10 microfarad, use outro valor e aceite outra frequência.
+Sem LED, meça a tensão no pino 3 com multímetro: deve subir e descer.
+Sem resistor de 330 ohm, não ligue o LED direto: ele queima.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O LED acende e apaga em ritmo regular, sem parar.
+O pino 3 mede tensão que sobe e desce no multímetro.
+O integrado não esquenta ao toque depois de alguns minutos.
+Sem tocar, o LED continua piscando de forma constante.
+
+FONTES
+------
+Prática consolidada de eletrônica analógica sobre o circuito integrado 555.
+A configuração astável, os pinos de disparo, limiar, descarga e controle,
+e a relação da frequência com resistores e capacitor constam das folhas de
+dados de fabricantes do circuito 555 e da literatura técnica de referência.
+Este texto é um resumo operacional e não substitui a folha de dados.

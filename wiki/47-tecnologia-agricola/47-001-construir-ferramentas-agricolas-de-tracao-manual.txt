@@ -1,0 +1,83 @@
+==============================================================================
+CODIGO: 47-001
+TITULO: Como construir ferramentas agrícolas de tração manual
+CATEGORIA: 47 - Tecnologia agrícola e mecanização rural
+TEMPO: 120 minutos
+RISCO: medio
+EXIGE: cabo de madeira, barra de ferro, enxada, pregos, serra, martelo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: tração manual, enxada, riscador, cultivador, horta, solo
+==============================================================================
+
+OBJETIVO
+--------
+Construir um riscador de tração manual para abrir sulcos e capinar.
+
+QUANDO USAR
+-----------
+- Quando falta implemento para abrir sulcos de plantio.
+- Quando a horta ou a lavoura pequena precisa de capina.
+- Quando nao ha trator, animal de tracao ou combustivel.
+- Quando o solo esta macico o bastante para receber semente.
+
+NAO USE QUANDO
+--------------
+- Solo muito duro, pedregoso ou com raizes grossas: a lmina entorta.
+- Solo encharcado: o sulco desmorona e a terra compacta.
+- Declive forte: a ferramenta escapa e pode ferir o pe.
+
+MATERIAIS
+---------
+- Cabo de madeira resistente e reto, de 1 a 1,2 metro.
+- Barra de ferro chata, de aproximadamente 40 cm (sarrafo velho).
+- Uma enxada pequena ou pedaco de lmina de arado.
+- Dois parafusos com porca ou pregos grossos.
+- Serra, martelo, chave de fenda e lixa.
+- Luvas de couro e oculos de protecao.
+- Corda ou arame para reforcar a fixacao da lmina.
+
+PROCEDIMENTO
+------------
+1. Escolha a madeira: retire nos, rachaduras e pontas apodrecidas.
+2. Serre o cabo: em pe, ele deve chegar a altura do quadril.
+3. Lixe as duas pontas do cabo ate nao haver farpas.
+4. Corte a barra de ferro com aproximadamente 40 cm de comprimento.
+5. Dobre a barra em angulo reto na parte de baixo, formando um "L".
+6. Prenda a lmina da enxada na ponta da barra com os parafusos.
+7. Prenda a barra no cabo com dois parafusos ou pregos bem cravados.
+8. Amarre a lmina com corda por cima dos parafusos para reforcar.
+9. Teste sem forca: puxe o riscador sobre solo macio e observe.
+10. Ajuste o angulo da lmina ate o sulco sair reto e fundo o bastante.
+
+ATENCAO
+-------
+- A lmina corta: use luvas e nunca aponte a ponta para o pe.
+- Fique sempre atras da lmina, nunca a frente dela.
+- Estilhaços de metal ou farpas podem ferir os olhos: use oculos.
+- Se a barra entortar, pare: ferro dobrado pode quebrar no uso.
+- Nao use em solo com pedra grande: a lmina salta e pode ferir.
+- Pare se sentir dor na lombar e revise o comprimento do cabo.
+- Guarde com a ponta virada para baixo e fora do alcance de criancas.
+
+SE NAO TIVER
+------------
+- Sem barra de ferro, use um pedaco de madeira muito dura na haste.
+- Sem enxada, use uma lmina de arado velho ou de pa de terra.
+- Sem parafusos, amarre com corda ou arame bem apertado.
+- Amarrar com corda e menos seguro: revise a fixacao a cada uso.
+- Sem serra, quebre na marca e lixe bem a ponta antes de usar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- O riscador abre um sulco continuo, de largura uniforme.
+- A lmina fica firme: nao gira nem balanca quando puxada.
+- O cabo nao flexiona nem solta os parafusos durante o uso.
+- A capina corta a raiz da erva rente ao solo.
+
+FONTES
+------
+- Pratica consolidada de construcao de implementos manuais de baixo custo.
+- Embrapa: folder sobre tracao animal e circulares sobre implementos rurais.
+- FAO: Agricultural hand tools in emergencies.
+- FAO: New implements for small farmers of the semi-arid tropics.
+- Resumo operacional: nao substitui treinamento em oficina de serralheria.

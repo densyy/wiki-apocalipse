@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 29-002
+TITULO: Como instalar um sistema operacional sem internet
+CATEGORIA: 29 - Tecnologia, computação e informática offline
+TEMPO: 45 minutos
+RISCO: medio
+EXIGE: computador, mídia de instalação já preparada, fonte de energia
+REVISAO: 2026-11
+PALAVRAS-CHAVE: sistema, instalar, offline, usb, linux, sem internet, imagem
+==============================================================================
+
+OBJETIVO
+--------
+Instalar um sistema operacional usando apenas mídia local, sem internet.
+
+QUANDO USAR
+-----------
+Quando não houver internet para baixar o instalador.
+Quando a rede estiver fora e existir um USB ou DVD pronto.
+Quando for reinstalar um sistema com dados já salvos em outro disco.
+
+NAO USE QUANDO
+--------------
+Quando não houver mídia de instalação preparada antes de começar.
+Quando os dados do disco não foram copiados para outro lugar.
+
+MATERIAIS
+---------
+- Computador compatível com o sistema escolhido.
+- Mídia gravada: USB ou DVD com a imagem ISO (arquivo do instalador).
+- Fonte de energia estável (substituto: bateria carregada).
+- Cópia dos arquivos importantes em outro disco.
+
+PROCEDIMENTO
+------------
+1. Copie os arquivos importantes para outro disco antes de começar.
+2. Desligue o computador e conecte a mídia de instalação.
+3. Ligue o computador e observe a tela inicial, chamada de boot.
+4. Pressione a tecla do fabricante: F2, F12, Esc ou Delete.
+5. Escolha a mídia conectada como dispositivo de inicialização.
+6. Se o boot falhar, abra a UEFI e desative a Secure Boot.
+7. No instalador, escolha idioma, teclado e o disco de destino.
+8. Apague o disco só se os dados já estiverem copiados; é irreversível.
+9. Crie partições, áreas separadas do disco, como o instalador sugerir.
+10. Defina usuário e senha, grave o sistema e reinicie sem a mídia.
+
+ATENCAO
+-------
+Apagar o disco apaga todos os arquivos, sem recuperação.
+Confira o disco escolhido duas vezes antes de confirmar.
+Sem internet, não há atualizações, drivers nem programas na instalação.
+Mídia danificada pode falhar no meio e deixar o disco inutilizável.
+Pare e procure ajuda se outro disco for apagado por engano.
+
+SE NAO TIVER
+------------
+Sem mídia gravada, não instale: obtenha um USB ou DVD pronto antes.
+Sem USB, use um DVD se houver leitor; sem energia, não comece.
+Sem senha do sistema anterior, use a recuperação do instalador, se houver.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O computador inicia sem a mídia e mostra a tela de entrada do sistema.
+O nome do usuário criado aparece e a senha funciona.
+
+FONTES
+------
+Guia de Instalação do Debian (Debian Installer team).
+Consulta: backup, mídia USB, menu de boot e particionamento.
+Prática consolidada offline; resumo, não substitui treinamento.

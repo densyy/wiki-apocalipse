@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 34-015
+TITULO: Como realizar manutenção de barcos de madeira
+CATEGORIA: 34 - Orientação, sobrevivência marítima e litoral
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: luvas, óculos, máscara, escova, lixa, pano, verniz, ventilação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: barco, madeira, casco, verniz, podridão, ventilação
+==============================================================================
+
+OBJETIVO
+--------
+Inspecionar, limpar e proteger a madeira e as juntas do barco para
+prolongar a vida da embarcação.
+
+QUANDO USAR
+-----------
+Antes da temporada de uso, ao tirar o barco da água.
+Quando a tinta descasca, o verniz fica fosco ou a madeira escurece.
+Quando aparece vazamento nas juntas do casco ou do convés.
+Antes de guardar o barco por longo período.
+
+NAO USE QUANDO
+--------------
+Quando a madeira cede à pressão do dedo ou há fenda profunda: isso é
+reforma estrutural, não manutenção. Pare e procure um estaleiro.
+Quando o local de trabalho é fechado: não lixe nem pinte sem ventilação.
+
+MATERIAIS
+---------
+- Luvas de borracha, óculos de proteção e máscara com filtro para pó.
+- Escova de cerdas macias e escova de arame.
+- Lixa de grão médio e de grão fino.
+- Pano limpo, seco e que não solte fiapos.
+- Verniz ou tinta opaca própria para madeira de barco.
+- Vedante flexível para juntas de madeira (massa de calafetar).
+- Pote metálico com tampa para lixa e panos sujos de tinta.
+- Água doce e sabão neutro.
+- Local aberto, ventilado e longe de chamas.
+
+PROCEDIMENTO
+------------
+1. Escolha dia seco, arejado e sem sol forte direto sobre a obra.
+2. Retire cordas, velas, panos e objetos soltos do barco.
+3. Lave o casco com água doce e escove sal, lama e sujeira.
+4. Espere a madeira secar por completo antes de lixar ou pintar.
+5. Passe a escova nas juntas do casco e do convés, uma por uma.
+6. Espete os pontos suspeitos com alfinete ou chave de fenda fina.
+7. Marque com giz as áreas macias, escuras ou que cedem à pressão.
+8. Lixe só a tinta ou o verniz que já está solto ou descascado.
+9. Lixe no sentido da fibra: primeiro grão médio, depois grão fino.
+10. Use máscara durante todo o lixamento e não sopre o pó com ar.
+11. Varra e limpe o pó com pano seco e depois com pano úmido.
+12. Se a junta estiver aberta, aplique vedante flexível no sulco.
+13. Siga o tempo de cura do fabricante antes de pintar a junta.
+14. Pinte ou enverniz apenas madeira limpa, seca e sem gordura.
+15. Aplique camada fina de verniz ou tinta no sentido da fibra.
+16. Respeite o tempo de secagem entre camadas indicado no rótulo.
+17. Aplique a segunda camada fina e deixe secar fora do sol direto.
+18. Abra escotilhas, tampas e drenos para ventilar o interior.
+19. Retire água parada e restos de folhas da bilge do barco.
+20. Feche o pote com resíduos de tinta e lixa e guarde longe do fogo.
+
+ATENCAO
+-------
+Nunca lixe tinta antifouling sem máscara e sem recolher todo o pó.
+Essa tinta contém cobre e é tóxica; o pó não pode ir para a água.
+Não lixe, pinte ou enverniz em compartimento fechado: os vapores
+de solvente intoxicam e podem inflamar com uma faísca.
+Mantenha verniz, tinta e solventes longe de chamas, cigarro e fogo.
+Verniz ou resina exposta ao sol sem cobertura deteriora depressa.
+Madeira que cede ao alfinete está apodrecida: lixar e pintar não curam.
+Nunca pinte madeira úmida: a tinta descasca e prende água na junta.
+Interior úmido apodrece a estrutura mesmo com tinta nova por cima.
+Pare se surgir vazamento novo, cheiro de mofo ou parafuso solto.
+
+SE NAO TIVER
+------------
+Sem verniz, use tinta opaca própria para madeira na parte ao sol.
+Sem máscara, não lixe tinta antiga: lave com escova e espere ajuda.
+Sem vedante, não mexa em junta seca; mantenha o barco arejado.
+Sem lixa, use a escova de arame só para soltar tinta já solta.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A madeira está seca ao toque e não cede ao alfinete nos pontos marcados.
+As juntas ficaram fechadas, sem folga para passar um fio de papel.
+A camada de tinta ou verniz está uniforme, sem bolhas nem escorrimento.
+A bilge está seca e o ar circula pelas escotilhas abertas.
+
+FONTES
+------
+Manual técnico "Wooden Boat Restoration & Repair", Gougeon Brothers/
+WEST SYSTEM: inspeção, umidade, ventilação e proteção contra o sol.
+NY Sea Grant e New York Marine Pollution Program: preparação e pintura
+do fundo do casco e controle de resíduos de tinta antifouling.
+Prática consolidada de manutenção de embarcações de madeira em
+estaleiro; este texto é resumo operacional e não substitui treinamento.

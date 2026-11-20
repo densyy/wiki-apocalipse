@@ -1,0 +1,82 @@
+==============================================================================
+CODIGO: 73-009
+TITULO: Como armazenar combustíveis sem riscos de incêndio
+CATEGORIA: 73 - Armazenamento de produtos não alimentares
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: recipiente aprovado, local ventilado, tampa vedada
+REVISAO: 2026-11
+PALAVRAS-CHAVE: combustível, fogo, gasolina, vapor, recipiente, segurança
+==============================================================================
+
+OBJETIVO
+--------
+Guardar combustível sem deixar vazar vapor nem criar risco de incêndio.
+
+QUANDO USAR
+-----------
+Quando sobrar gasolina, diesel ou querosene depois de usar o gerador.
+Quando o combustível for ficar guardado por mais de um dia.
+Antes de levar combustível para perto de casa, depósito ou oficina.
+Quando houver crianças, animais ou fontes de calor no mesmo lugar.
+
+NAO USE QUANDO
+--------------
+Não guarde combustível dentro de casa, quarto, cozinha ou área de dormir.
+Não use recipiente de vidro, garrafa de refrigerante ou balde comum.
+Não guarde perto de chama, fogão, aquecedor ou tomada que solta faísca.
+Não misture gasolina, diesel e querosene no mesmo recipiente.
+
+MATERIAIS
+---------
+- Recipiente aprovado com tampa que vede (garrafa não serve).
+- Rótulo ou etiqueta para anotar o tipo e a data.
+- Local fresco, seco, ventilado e longe de fontes de calor.
+- Bandeja ou caixa para conter vazamento (pode ser caixa plástica).
+- Extintor próximo (ou areia seca para sufocar fogo pequeno).
+
+PROCEDIMENTO
+------------
+1. Escolha um lugar fresco, seco, ventilado e longe de quartos e cozinhas.
+2. Afaste o local de chamas, fogões, aquecedores e tomadas com faísca.
+3. Use só recipiente aprovado para combustível, com tampa que vede bem.
+4. Nunca use garrafa de vidro, de refrigerante ou balde sem tampa.
+5. Limpe o recipiente e o chão antes de encher.
+6. Encha até aproximadamente 95% para deixar espaço ao vapor.
+7. Feche a tampa com firmeza depois de cada uso.
+8. Escreva no rótulo o tipo de combustível e a data do enchimento.
+9. Guarde gasolina, diesel e querosene em recipientes separados.
+10. Deixe os cheios longe dos vazios e de produtos químicos.
+11. Ao transferir, encoste um recipiente no outro para evitar faísca.
+12. Não fume perto do lugar e não deixe chama por perto.
+
+ATENCAO
+-------
+O vapor da gasolina é mais pesado que o ar e pode descer até uma chama.
+Uma faísca de eletricidade ou de estática pode inflamar esse vapor.
+Não guarde dentro de casa: o vapor pode causar incêndio e morte.
+Nunca encha recipiente dentro de carro: a estática pode gerar faísca.
+Se sentir cheiro forte, não ligue luzes, interruptor nem motor.
+Saia, ventile o lugar e peça ajuda se o cheiro ou vazamento persistir.
+Não jogue combustível no ralo nem na terra; recolha com pano absorvente.
+Mantenha tudo longe de crianças e animais.
+
+SE NAO TIVER
+------------
+Sem recipiente aprovado, não improvise com garrafa ou balde.
+Consiga um galão próprio para combustível antes de guardar.
+Sem lugar ventilado, guarde só o que vai usar no dia.
+Sem extintor, tenha areia seca por perto para fogo pequeno.
+Se o fogo não apagar depressa, saia e chame ajuda.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Não há cheiro de combustível no lugar e as tampas estão firmes.
+Os recipientes estão rotulados, fechados e separados por tipo.
+Não há poça nem resíduo no chão e o extintor está visível.
+
+FONTES
+------
+Prática consolidada de prevenção a incêndio e manuseio de combustíveis.
+Orientações gerais usadas por bombeiros e órgãos de prevenção a incêndio.
+Este resumo operacional não substitui treinamento nem norma local.

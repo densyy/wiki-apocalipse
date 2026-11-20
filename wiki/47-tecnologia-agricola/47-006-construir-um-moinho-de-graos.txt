@@ -1,0 +1,92 @@
+==============================================================================
+CODIGO: 47-006
+TITULO: Como construir um moinho de grãos
+CATEGORIA: 47 - Tecnologia agrícola e mecanização rural
+TEMPO: 4 horas
+RISCO: medio
+EXIGE: duas pedras circulares, cinzel, marreta, madeira para a manivela
+REVISAO: 2026-11
+PALAVRAS-CHAVE: moinho, grãos, farinha, moer, pedra, manivela, trigo, milho
+==============================================================================
+
+OBJETIVO
+--------
+Construir moinho manual de pedras para transformar grãos secos em farinha.
+
+QUANDO USAR
+-----------
+Quando não há energia elétrica para moer grãos.
+Quando trigo, milho ou arroz precisam virar farinha ou farelo.
+Quando a comunidade precisa moer pequenas quantidades por dia.
+Quando não há moinho industrial nem moleiro disponível.
+
+NAO USE QUANDO
+--------------
+Quando houver poeira de grãos sem ventilação e sem máscara.
+Quando as pedras forem de calcário maciço ou arenito que se desfaz.
+Quando não houver madeira ou ferro firme para a manivela e o eixo.
+
+MATERIAIS
+---------
+- Duas pedras circulares de basalto ou granito, com 30 a 50 cm de diâmetro.
+- Cinzel e marreta para abrir os sulcos na pedra.
+- Pedra menor para desbastar e nivelar a superfície.
+- Cavilha de madeira ou eixo de ferro para o centro.
+- Barra de madeira ou ferro para servir de manivela.
+- Madeira para a base e para o funil de alimentação.
+- Pano ou peneira para separar o farelo da farinha.
+- Água para limpar as pedras e escova de cerdas duras.
+
+PROCEDIMENTO
+------------
+1. Escolha duas pedras duras, sem rachaduras e sem pedaços que soltem.
+2. Lave as pedras com água e escove para tirar terra e areia solta.
+3. Desbaste a face de cada pedra com a pedra menor até ficar plana.
+4. Abra sulcos rasos na face das pedras com o cinzel e a marreta.
+5. Faça os sulcos em leque, do centro para a borda, no mesmo sentido.
+6. Abra um furo central em cada pedra para passar a cavilha ou o eixo.
+7. Faça um funil de madeira encaixado no furo da pedra superior.
+8. Fixe a pedra inferior na base, com a face sulcada virada para cima.
+9. Encaixe a cavilha no furo da pedra inferior e apoie a pedra superior.
+10. Encaixe a manivela na pedra superior, perto da borda.
+11. Ajuste a altura até as duas faces ficarem quase se tocando.
+12. Gire a manivela alguns instantes para assentar as duas pedras.
+13. Despeje um pouco de grão seco no funil, aos poucos e sem encher.
+14. Gire a manivela de forma constante, sempre no mesmo sentido.
+15. Retire a farinha que sai pela borda e peneire para tirar o farelo.
+16. Alimente em pequenas porções até terminar o grão.
+17. Limpe os sulcos com escova seca ao trocar de tipo de grão.
+
+ATENCAO
+-------
+As pedras giram com força e podem prender dedos, mangas ou cabelos.
+Prenda o cabelo e não use manga larga perto da manivela.
+Poeira de grão em local fechado irrita os olhos e os brônquios.
+Trabalhe ao ar livre ou com ventilação e cubra a boca e o nariz.
+Pedra que solta partículas deixa areia na farinha e estraga o alimento.
+Use apenas basalto ou granito; evite arenito, calcário e pedra rachada.
+Se a manivela travar, pare e desfaça o bloqueio antes de girar de novo.
+Não force a manivela: a pedra pode rachar e a mão pode se ferir.
+Pare se sentir tontura ou falta de ar com a poeira e saia para arejar.
+
+SE NAO TIVER
+------------
+Sem duas pedras, use um pilão ou duas pedras menores para amassar o grão.
+O resultado é farelo grosso, não farinha fina, e exige mais tempo.
+Sem cinzel, desbaste a pedra com outra pedra mais dura, aos poucos.
+Sem madeira para o funil, use uma lata ou folha enrolada como funil.
+Não improvise eixo de ferro mole ou dobrado: ele pode quebrar e ferir.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A manivela gira sem travar e as pedras não raspam com atrito seco.
+Sai farinha ou farelo pela borda das pedras a cada volta da manivela.
+A farinha não tem areia visível nem pedaços de pedra ao peneirar.
+O funil esvazia de forma constante e o grão não fica preso no centro.
+
+FONTES
+------
+Prática consolidada de moagem manual com moinho de pedras, usada há
+milênios em diferentes culturas. Referências históricas: guias de
+moinharia e estudos sobre moinhos manuais de pedra (quern). Este texto
+é um resumo operacional, não substitui treinamento nem norma industrial.

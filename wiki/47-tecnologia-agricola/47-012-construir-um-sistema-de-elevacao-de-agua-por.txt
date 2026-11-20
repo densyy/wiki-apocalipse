@@ -1,0 +1,101 @@
+==============================================================================
+CODIGO: 47-012
+TITULO: Como construir um sistema de elevação de água por carneiro
+hidráulico
+CATEGORIA: 47 - Tecnologia agrícola e mecanização rural
+TEMPO: 300 minutos
+RISCO: alto
+EXIGE: queda d'água, tubo rígido, válvulas, câmara de ar, luvas, óculos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: carneiro, aríete, bomba, água, queda, irrigação
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma bomba sem motor que usa a queda de um córrego para elevar
+parte da água a um reservatório mais alto.
+
+QUANDO USAR
+-----------
+Quando há córrego ou nascente com queda de aproximadamente 0,5 a 12 m.
+Quando não há energia elétrica, combustível ou bomba comercial por perto.
+Quando a vazão da fonte é maior que a água necessária no ponto alto.
+Para levar água a horta, tanque de animais ou reserva contra a seca.
+
+NAO USE QUANDO
+--------------
+Quando a fonte não tem queda constante o ano inteiro, inclusive na seca.
+Quando a água contém areia, folhas, agrotóxico ou esgoto sem filtro.
+Quando não há espaço para a água usada pela válvula de escape escorrer.
+Quando o tubo de recalque não suporta a pressão ou não pode ser enterrado.
+
+MATERIAIS
+---------
+- Corpo do carneiro: peça em T de ferro, aço ou PVC rígido rosqueável.
+- Câmara de ar (campânula): recipiente rígido que acumula ar comprimido.
+- Duas válvulas de retenção (deixam a água passar só num sentido).
+- Válvula de escape (impulso) que abre e fecha a cada golpe de água.
+- Tubo de alimentação rígido, reto, com diâmetro maior que o de saída.
+- Tubo de recalque rígido, com diâmetro de 1/3 a 1/2 do de alimentação.
+- Tela fina e peneira para reter folhas, areia e insetos na captação.
+- Buchas, uniões, abraçadeiras, arruelas, resina e fita de vedação.
+- Base firme e nivelada de concreto, pedra ou madeira tratada.
+
+PROCEDIMENTO
+------------
+1. Meça a queda entre o nível da água na fonte e o lugar do carneiro.
+2. Confirme que a fonte tem água o ano inteiro e vazão constante.
+3. Confirme que a elevação até o tanque cabe de 2 a 8 vezes a queda.
+4. Escolha lugar firme, nivelado e abaixo do nível da fonte.
+5. Fixe o corpo do carneiro na base com parafusos e arruelas.
+6. Instale a válvula de escape na saída inferior do corpo.
+7. Instale a válvula de retenção na entrada da câmara de ar.
+8. Monte a câmara de ar rígida acima da válvula de retenção.
+9. Faça um furo de aproximadamente 2 mm na câmara para admitir ar.
+10. Prenda o tubo de alimentação na entrada do corpo do carneiro.
+11. Dê ao tubo de alimentação comprimento de 5 a 12 vezes a queda.
+12. Mantenha o tubo de alimentação reto, rígido e sem curvas.
+13. Mergulhe a ponta do tubo na fonte por aproximadamente 30 cm.
+14. Cubra a ponta com tela fina presa para reter areia e folhas.
+15. Prenda o tubo de recalque na saída da câmara de ar.
+16. Enterre o tubo de recalque e aperte todas as uniões.
+17. Ligue a descarga da válvula de escape para longe da base.
+18. Solte a água e observe o ritmo dos golpes da válvula de escape.
+19. Ajuste a válvula de escape até dar 60 a 80 golpes por minuto.
+20. Confira se a câmara de ar admite ar pelo furo a cada golpe.
+21. Reaperte uniões e abraçadeiras depois do primeiro dia de uso.
+
+ATENCAO
+-------
+O golpe de aríete gera sobrepressão: tubo solto ou rachado pode ferir.
+Nunca feche a saída da válvula de escape com a bomba em funcionamento.
+Água sob pressão perfura pele: não aproxime rosto de uniões e furos.
+Se a câmara ficar sem ar, o sistema para; limpe o furo com arame fino.
+Areia desgasta as válvulas e trava o ciclo; limpe a tela e a peneira.
+Sem queda constante, o sistema para na seca; preveja reserva de água.
+A água da válvula de escape não serve para beber sem tratamento.
+
+SE NAO TIVER
+------------
+Sem corpo metálico, use peça em T de PVC rígido com uniões rosqueáveis.
+Sem câmara de ar metálica, use garrafa pet rígida presa com abraçadeira.
+Sem válvula pronta, use arruela de borracha em disco furado.
+Sem queda natural, construa pequeno dique para criar o desnível.
+Sem tubo rígido, não improvise com mangueira mole: o golpe se perde.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A válvula de escape bate em ritmo regular, de 60 a 80 vezes por minuto.
+Sai água em pulsos pelo tubo de recalque e o tanque enche sem motor.
+A câmara de ar solta uma bolha a cada golpe e não fica sem ar.
+A água da válvula de escape escorre livre sem alagar a base.
+Depois de um dia, as uniões continuam firmes e sem vazamento.
+
+FONTES
+------
+Hydraulic Ram Pumps, EBAE 161-92, NC State Extension Service.
+Homemade Hydraulic Ram Pump for Livestock Water, Clemson University.
+Using A Hydraulic Ram to Pump Livestock Water, Colúmbia Britânica, Canadá.
+Manual de sistemas de bombagem com ariete, módulo 6, Action Contre la Faim.
+Embrapa Solos e Epagri: queda, golpes e diâmetros do carneiro.
+Resumo operacional; não substitui projeto nem treinamento.

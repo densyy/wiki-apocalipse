@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 81-006
+TITULO: Como construir um forno metalúrgico
+CATEGORIA: 81 - Engenharia térmica e fornos industriais
+TEMPO: 3 dias
+RISCO: alto
+EXIGE: refratários, isolamento, chaminé, fonte de calor controlada
+REVISAO: 2026-11
+PALAVRAS-CHAVE: forno, metalurgia, fusão, refratário, cadinho, chaminé
+==============================================================================
+
+OBJETIVO
+--------
+Montar um forno para aquecer e fundir metais com calor concentrado.
+
+QUANDO USAR
+-----------
+Para fundir sucata de metal em pequena escala.
+Para aquecer peças antes de forjar ou moldar.
+Quando se quer calor mais limpo e controlado que o fogo direto.
+Ao substituir um forno que não alcança o ponto de fusão.
+
+NAO USE QUANDO
+--------------
+Não construa sem refratários próprios e sem base firme.
+Não opere sem chaminé e sem ventilação do ambiente.
+Não funda metais desconhecidos que possam soltar vapores tóxicos.
+Não use sem proteção para rosto, olhos, mãos e vias respiratórias.
+
+MATERIAIS
+---------
+- Tijolos refratários de alta alumina (revestimento da câmara).
+- Argila refratária ou massa própria (barro comum não serve).
+- Isolamento térmico entre a câmara e a parede externa.
+- Chaminé vedada e alta (duto metálico isolado).
+- Cadinho de grafite ou cerâmica resistente (recipiente do metal).
+- Base de concreto nivelada e queimador ou entrada de ar controlada.
+- Luvas de couro grossas, máscara facial, óculos e avental.
+- Pinça longa e pá de metal para manusear o cadinho.
+
+PROCEDIMENTO
+------------
+1. Escolha local firme, ventilado e afastado de inflamáveis.
+2. Nivele a base e deixe curar antes de assentar tijolos.
+3. Desenhe a câmara e a posição do cadinho no papel.
+4. Assente a parede externa com tijolos comuns firmes.
+5. Aplique isolamento contínuo, sem vãos nem pontes de calor.
+6. Revista a câmara com tijolos refratários e juntas finas.
+7. Deixe entrada de ar regulável e saída de gases na altura certa.
+8. Instale a chaminé com vedação e saída acima do telhado.
+9. Seque a alvenaria devagar antes de qualquer queima.
+10. Faça queima branda inicial para curar a massa refratária.
+11. Coloque o cadinho vazio e aqueça aos poucos.
+12. Adicione o metal em pedaços pequenos e secos.
+13. Aumente o calor até o metal ficar líquido e brilhante.
+14. Retire impurezas da superfície com pinça e cuidado.
+15. Desligue, deixe esfriar e registre os tempos de fusão.
+
+ATENCAO
+-------
+Metal líquido respinga e gruda na pele: nunca se aproxime sem proteção.
+Qualquer umidade no cadinho ou no metal pode estourar ao aquecer.
+Vapores de metais como chumbo e zinco são venenosos: ventile e use máscara.
+Nunca derreta recipientes fechados: o ar preso explode.
+O forno atinge temperaturas que inflamam roupa comum a certa distância.
+Mantenha mato, madeira e líquidos inflamáveis longe da área de trabalho.
+Incêndio ou queimadura grave exige ajuda médica imediata.
+
+SE NAO TIVER
+------------
+Sem refratário, não tente fundir metal: use apenas aquecimento leve.
+Sem cadinho próprio, não improvise com lata comum: ela derrete e contamina.
+Sem chaminé, não opere em ambiente fechado sob nenhuma condição.
+Sem máscara e luvas, espere e consiga o equipamento antes de começar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O metal fica líquido, brilhante e sem pedaços sólidos no cadinho.
+A câmara mantém o calor sem rachar nem soltar massa.
+A fumaça sai pela chaminé, nunca para o rosto do operador.
+O cadinho pode ser retirado com segurança após o resfriamento.
+
+FONTES
+------
+Prática consolidada de fornos metalúrgicos de pequeno porte e fusão de
+metais, sem documento normativo único. Referências correntes de
+refratários, segurança em fundição e controle de gases de combustão.

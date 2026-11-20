@@ -1,0 +1,80 @@
+==============================================================================
+CODIGO: 88-010
+TITULO: Como mapear hospitais, escolas e instalações públicas
+CATEGORIA: 88 - Geografia humana e recursos estratégicos
+TEMPO: 60 minutos
+RISCO: baixo
+EXIGE: mapa impresso, papel, lápis, fontes locais confiáveis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: mapa, hospitais, escolas, instalações, offline
+==============================================================================
+
+OBJETIVO
+--------
+Mapear em papel hospitais, escolas e pontos públicos essenciais da região.
+
+QUANDO USAR
+-----------
+Ao chegar a uma cidade ou região que você pode precisar atravessar.
+Antes de uma crise, para registrar onde ficam postos de saúde e escolas.
+Quando a energia e a internet falham e faltam referências no celular.
+Ao planejar rotas para levar feridos ou buscar água e alimentos.
+Depois de mudanças no comércio ou no uso de prédios da sua área.
+
+NAO USE QUANDO
+--------------
+Não use o mapa para forçar entrada em prédios ou propriedades.
+Não dependa dele para navegar sem conferir antes no terreno.
+Não anote dados de pessoas; registre só o que é público e visível.
+
+MATERIAIS
+---------
+- Mapa impresso da região, mesmo simples (papel desenhado à mão).
+- Caderno de capa dura para anotações (folhas soltas em saco plástico).
+- Lápis e borracha (caneta que não borra com umidade).
+- Régua ou fita métrica de pano (barra de palito medindo um palmo).
+- Fita adesiva para fixar o mapa na parede (clipes de metal).
+- Fontes locais: moradores, funcionários, placas e editais.
+
+PROCEDIMENTO
+------------
+1. Defina a área que cabe em uma folha e desenhe as ruas principais.
+2. Marque o que você consegue ver: praça, igreja, mercado, posto.
+3. Pergunte a moradores antigos onde ficam hospital e posto de saúde.
+4. Anote cada informação com quem a deu e a data da anotação.
+5. Vá até o local a pé e confirme a fachada e a placa com os olhos.
+6. Desenhe o símbolo do ponto no mapa e escreva o nome ao lado.
+7. Use formas diferentes para saúde, ensino e abastecimento.
+8. Registre horários de funcionamento quando souber, com a data.
+9. Meça no mapa a distância entre pontos e anote em km aproximados.
+10. Marque rios, pontes e ladeiras que podem bloquear a passagem.
+11. Escreva no canto a data do mapa e a área que ele cobre.
+12. Guarde o original em plástico e faça uma cópia para a rua.
+
+ATENCAO
+-------
+Informação de morador pode estar desatualizada; confirme sempre no local.
+Um hospital pode estar fechado ou sem energia mesmo constando no mapa.
+Não entre em área privada para "conferir" um ponto marcado.
+Evite rotas por zonas que você não consegue avaliar com segurança.
+Mapas velhos podem indicar prédios que já não existem mais.
+Se a região estiver em conflito, não pare em prédio público para anotar.
+
+SE NAO TIVER
+------------
+Sem mapa impresso, desenhe o seu a partir do que vê nas ruas.
+Sem lápis, use carvão ou ponta de madeira queimada para marcar.
+Sem fonte local, observe placas e o movimento de pessoas na praça.
+Sem papel, risque o desenho no chão e decore os pontos antes de sair.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você encontra no terreno os pontos desenhados, no lado certo da rua.
+Outra pessoa consegue ir a um hospital usando só o seu mapa.
+A data e a área estão escritas e a cópia fica legível após guardada.
+
+FONTES
+------
+Prática consolidada de cartografia comunitária e de reconhecimento de
+terreno, comum em manuais de orientação e sobrevivência civil. Não há
+documento único; o procedimento reúne uso corriqueiro e verificável.

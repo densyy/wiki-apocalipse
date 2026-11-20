@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 38-010
+TITULO: Como construir um relógio de sol vertical
+CATEGORIA: 38 - Astronomia e medição do tempo
+TEMPO: 90 minutos
+RISCO: baixo
+EXIGE: Sol direto, parede ensolarada, tábua, estaca reta, relógio
+REVISAO: 2026-11
+PALAVRAS-CHAVE: relógio de sol, gnômon, sombra, hora solar, parede
+==============================================================================
+
+OBJETIVO
+--------
+Montar na parede um mostrador que dá a hora solar pela sombra.
+
+QUANDO USAR
+-----------
+Quando falta relógio, bateria ou energia no abrigo.
+Quando a parede recebe Sol direto ao meio-dia.
+
+NAO USE QUANDO
+--------------
+Quando o céu está nublado ou a parede fica na sombra.
+Quando é preciso horário exato: aqui se lê hora solar, não hora civil.
+
+MATERIAIS
+---------
+- Tábua ou papelão grosso para o mostrador (folha de metal).
+- Estaca ou barra reta para o gnômon, a peça que faz a sombra.
+- Pregos, parafusos ou fita para prender à parede.
+- Lápis ou carvão para marcar; fio com peso (prumo) para a vertical.
+
+PROCEDIMENTO
+------------
+1. Escolha parede com Sol direto ao meio-dia.
+2. Fixe a tábua nela, reta e firme.
+3. Trace uma vertical no centro com o prumo.
+4. Espete uma estaca reta em chão plano perto dali.
+5. Marque a ponta da sombra de manhã e à tarde, com o mesmo tamanho.
+6. Una as marcas: essa linha aponta leste-oeste.
+7. Trace a perpendicular pela estaca: é o eixo norte-sul.
+8. Prenda o gnômon na vertical, saindo da parede.
+9. Incline a aresta até sua altura igualar a latitude aproximada.
+10. Aponte a aresta ao polo: norte no hemisfério sul, sul no norte.
+11. Em dia claro, marque a sombra da aresta a cada hora cheia do relógio.
+12. Escreva o número da hora ao lado de cada marca.
+13. Una o pé da aresta a cada marca com uma reta: as linhas horárias.
+
+ATENCAO
+-------
+A hora solar pode diferir da civil até cerca de 16 minutos.
+A equação do tempo, a longitude e o horário de verão causam a diferença.
+Latitude errada desloca o estilo e entorta as linhas.
+Se a parede não olhar ao equador, confie nas marcas, não na linha vertical.
+Sem Sol direto não há sombra; nuvens e dias curtos limitam o uso.
+Nos trópicos, no verão o Sol vai ao norte e a parede norte escurece.
+
+SE NAO TIVER
+------------
+Sem relógio, marque só o meio-dia pela sombra mais curta e espere outro.
+Sem tábua, use papelão; sem prumo, pedra num barbante; ou a parede.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ao meio-dia a sombra cai na vertical; a cada hora toca o número marcado.
+
+FONTES
+------
+Prática consolidada de relógios de sol, sem documento normativo único.
+Referência consultada em 2026-11: North American Sundial Society.

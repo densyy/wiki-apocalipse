@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 01-046
+TITULO: Como instalar calhas improvisadas
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: escada firme, luvas, calha improvisada, reservatório limpo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, chuva, calha, captação, telhado, cisterna, descarte
+==============================================================================
+
+OBJETIVO
+--------
+Desviar a água da chuva para um reservatório, descartando a primeira suja.
+
+QUANDO USAR
+-----------
+Quando faltar água encanada e houver telhado disponível.
+Quando a calha original estiver quebrada, entupida ou ausente.
+
+NAO USE QUANDO
+--------------
+Em telhado com amianto, chumbo, alcatrão, tinta velha ou agrotóxico.
+Sem acesso seguro ao beiral, ou com vento forte e risco de raio.
+
+MATERIAIS
+---------
+- Calha pronta, tubo de PVC cortado ao meio ou lona; arame ou pregos.
+- Tela ou pano firme para reter folhas.
+- Tubo condutor, reservatório tampado e recipiente para o descarte.
+- Escada firme e luvas.
+
+PROCEDIMENTO
+------------
+1. Meça a área do telhado: comprimento vezes largura, em metros.
+2. Retire folhas e fezes da captação antes da chuva.
+3. Apoie a calha sob a borda, com a saída mais baixa que o início.
+4. Incline a calha aproximadamente 2 cm por metro de comprimento.
+5. Prenda a calha ao beiral com arame a cada aproximadamente 50 cm.
+6. Coloque a tela no tubo, encaixe-o na calha e apoie a ponta no descarte.
+7. Deixe a primeira água escorrer para o recipiente de descarte.
+8. Descarte aproximadamente 1 litro por metro quadrado de telhado.
+9. Encoste o tubo na boca do reservatório e tampe a entrada com tela.
+10. Retire folhas do coador e da calha ao fim da chuva.
+
+ATENCAO
+-------
+Subir ao telhado é o maior risco. Use escada firme e peça ajuda.
+Não pise em telha frágil ou escorregadia. Se o beiral ceder, pare.
+Nunca capte água de amianto, chumbo, alcatrão ou tinta velha.
+A primeira água lava fezes, poeira e fuligem. Nunca a guarde.
+A água captada não é potável. Ferva ou trate antes de beber; veja 01-001.
+
+SE NAO TIVER
+------------
+Sem calha, corte um tubo de PVC ao meio e use como canal.
+Sem tela, use pano preso com arame; sem reservatório, use balde limpo.
+Sem escada segura, não suba: trabalhe só no trecho alcançável do solo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água corre em fio contínuo pela calha e entra no tubo sem derramar.
+A primeira água vai ao descarte e a calha fica sem água parada.
+
+FONTES
+------
+Prática consolidada de captação de água em emergência, sem documento único.
+Manual de captação emergencial e uso doméstico de água de chuva, do IPT,
+Instituto de Pesquisas Tecnológicas; Embrapa, captação em cisterna;
+instruções SESAN do Programa Cisternas; OMS e CDC sobre água de chuva.

@@ -1,0 +1,106 @@
+==============================================================================
+CODIGO: 47-007
+TITULO: Como construir um triturador de vegetais
+CATEGORIA: 47 - Tecnologia agrícola e mecanização rural
+TEMPO: 3 horas
+RISCO: alto
+EXIGE: tábua ou chapa, 3 facas de aço, eixo, manivela, luvas, óculos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: triturador, vegetais, picador, forragem, facas, ração
+==============================================================================
+
+OBJETIVO
+--------
+Montar um triturador manual que corta vegetais em pedaços
+pequenos para ração ou compostagem, sem energia elétrica.
+
+QUANDO USAR
+-----------
+Quando há capim, cana, ramas ou sobras de horta para virar ração.
+Quando o material precisa reduzir de volume para compostar.
+Quando não há energia elétrica nem motor disponível.
+Quando o volume é pequeno e o corte pode ser feito aos poucos.
+
+NAO USE QUANDO
+--------------
+Não use para galhos grossos, madeira, pedra ou metal: as facas quebram.
+Não use sem a tampa sobre o tambor: a mão pode entrar na zona de corte.
+Não use se outra pessoa estiver empurrando o material junto com você.
+
+MATERIAIS
+---------
+- Tábua grossa ou chapa de aço para a caixa (caixa de madeira serve).
+- 2 ou 3 facas retas de aço duro, de 10 a 15 cm (lâminas de serra velhas).
+- 1 contralâmina: faca fixa de aço, um pouco mais curta que as do tambor.
+- 1 eixo de ferro redondo de 1,5 a 2 cm (vergalhão ou tubo).
+- 2 arruelas e 4 parafusos com porcas para o eixo e as facas.
+- 1 manivela: barra de ferro dobrada presa na ponta do eixo.
+- Pregos ou parafusos, serra, furadeira ou broca manual, chave de fenda.
+- Luvas grossas e óculos de proteção.
+- Óleo ou graxa para lubrificar o eixo.
+
+PROCEDIMENTO
+------------
+1. Monte uma caixa aberta de tábua com cerca de 40 cm de largura,
+   30 cm de altura e 30 cm de profundidade (medidas aproximadas).
+2. Deixe a frente da caixa aberta para servir de boca de entrada.
+3. Fure as duas paredes laterais na mesma altura, a 10 cm do fundo,
+   para passar o eixo.
+4. Enfie o eixo pelos furos e prenda as arruelas nas duas pontas,
+   sem apertar demais: o eixo precisa girar livre.
+5. Parafuse as facas no eixo, espaçadas de modo uniforme, com o
+   gume no sentido do giro. Esse conjunto é o tambor (rotor).
+6. Prenda a contralâmina na boca de entrada, na horizontal, com
+   o gume virado para as facas do tambor.
+7. Ajuste a distância entre as facas e a contralâmina para
+   aproximadamente 4 mm.
+8. Confira o ajuste com um palito: as facas passam rente, sem
+   encostar e sem folga grande.
+9. Fixe a manivela em uma ponta do eixo e aperte o parafuso.
+10. Pregue uma tampa de madeira sobre a caixa, deixando livre
+    somente a boca de entrada.
+11. Instale na frente uma calha inclinada (canal de entrada) com
+    a saída encostada na contralâmina.
+12. Pingue óleo nos furos do eixo e gire a manivela algumas vezes.
+13. Gire devagar e empurre um punhado de folhas pela calha, sem
+    enfiar os dedos na boca.
+14. Use um graveto para empurrar o restante até o tambor esvaziar.
+15. Avance o vegetal cerca de 2 cm a cada volta da manivela para
+    obter pedaços com aproximadamente esse comprimento.
+
+ATENCAO
+-------
+As facas cortam mesmo com a manivela parada se o tambor ainda gira.
+Mantenha as mãos fora da boca de entrada; empurre só com graveto.
+Se a tampa não estiver fixa, pare e monte a tampa antes de seguir.
+Faca cega exige força e pode saltar: afie as facas antes de cada uso.
+Se o eixo travar ou ouvir estalo, pare e desmonte para ver o que entrou.
+Não triture material com areia ou metal: quebra a lâmina e pode
+arremessar estilhaço.
+Use luvas e óculos na montagem, no teste e no uso.
+Mantenha crianças e animais afastados da zona de giro.
+
+SE NAO TIVER
+------------
+Sem facas de aço, use lâminas de serra manual presas com parafusos;
+não use faca de cozinha fina, que entorta.
+Sem eixo de ferro, use cabo de madeira reforçado só para folhas
+macias; para cana ou galhos, não improvise.
+Sem contralâmina, não use o aparelho: o vegetal enrola no eixo e
+a faca pode se soltar.
+Sem madeira, use caixa de chapa, mas reforce as bordas da boca.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O eixo gira livre com a manivela, sem apertar nem riscar a caixa.
+As facas passam rente à contralâmina sem encostar nela.
+O vegetal sai em pedaços curtos e não enrola no eixo.
+
+FONTES
+------
+Prática consolidada de picagem manual de forragem descrita pela
+Embrapa em circulares sobre sistemas de ensilagem e em publicações
+sobre produção de silagem, incluindo o ajuste da contralâmina.
+Princípios de segurança de trituradores forrageiros conforme manuais
+de fabricantes (Trapp e Tramontina) e material do SENAR.
+Resumo operacional; não substitui treinamento.

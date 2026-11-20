@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 10-004
+TITULO: Como sobreviver em florestas temperadas
+CATEGORIA: 10 - Sobrevivência em ambientes naturais
+TEMPO: Imediato e contínuo
+RISCO: alto
+EXIGE: mapa, bússola, apito, fósforos impermeáveis, lona e roupa de lã
+REVISAO: 2026-11
+PALAVRAS-CHAVE: floresta, perdido, abrigo, fogo, água, hipotermia, sinal
+==============================================================================
+
+OBJETIVO
+--------
+Mantenha-se vivo, quente e localizável até o resgate na floresta temperada.
+
+QUANDO USAR
+-----------
+Quando você se perdeu e não sabe voltar com segurança.
+Quando precisa passar a noite sem abrigo, com frio ou chuva.
+Quando a temperatura cai e aparecem tremores e confusão.
+Quando encontra água, plantas ou animais sem saber se são seguros.
+
+NAO USE QUANDO
+--------------
+Quando há incêndio, enchente ou perigo imediato: afaste-se e peça socorro.
+Quando você tem rota, horário e regime conhecidos: siga o plano original.
+
+MATERIAIS
+---------
+- Mapa e bússola (GPS com pilhas reservas).
+- Apito e espelho de sinalização.
+- Fósforos impermeáveis e vela (isqueiro com pilha).
+- Lona ou saco plástico grande (manta térmica).
+- Roupa de lã ou sintética; nunca algodão.
+- Faca, corda, recipiente metálico e filtro de água.
+- Comida não perecível e pasta purificadora (tabletes de cloro).
+- Manta térmica leve e lanterna com pilhas.
+
+PROCEDIMENTO
+------------
+1. Pare de andar no instante em que perceber que não sabe onde está.
+2. Sente-se, respire fundo e não corra: o pânico piora a situação.
+3. Aplique o método STOP: sente, pense, observe, planeje.
+4. Recorde referências e escute água corrente, estrada ou vozes.
+5. Permaneça no lugar: quem procura parte do último ponto conhecido.
+6. Só se mova se houver perigo; nunca vagueie e deixe marcas no chão.
+7. Monte o abrigo antes do anoitecer, em local plano e fora do vento.
+8. Nunca acampe no ponto mais alto nem no leito de córrego seco.
+9. Forre o chão com folhas secas e estenda a lona como cobertura.
+10. Troque roupa molhada por seca e mantenha o tronco aquecido.
+11. Cubra cabeça, pescoço e mãos com lã ou sintético, nunca algodão.
+12. Reúna pelo menos três vezes mais lenha do que acha necessário.
+13. Acenda fogo só em solo seguro e apague toda brasa antes de dormir.
+14. Colete água corrente em recipiente limpo, longe de acampamento.
+15. Filtre a água e ferva em fogo forte por um minuto.
+16. Acima de aproximadamente 2000 metros, ferva três minutos e esfrie.
+17. Não coma planta, fruta ou cogumelo sem identificação de especialista.
+18. Evite cogumelos brancos e plantas umbeladas parecidas com cenoura.
+19. Não alimente animais; guarde comida vedada e longe do abrigo.
+20. Faça ruído ao caminhar para não surpreender animais na mata fechada.
+21. Se vir urso, não corra, não grite e recue devagar; siga a regra local.
+22. Sinalize com três apitos curtos, repita e espere resposta.
+23. Pendure roupa colorida e desenhe SOS no chão com pedras.
+24. Use o espelho de dia e o apito à noite para economizar pilhas.
+
+ATENCAO
+-------
+Hipotermia mata mesmo acima de zero graus com chuva, suor ou vento.
+Tremor, confusão e mãos desajeitadas são alerta: pare e aqueça-se já.
+Se o tremor parar e a pessoa ficar sonolenta, é emergência: peça socorro.
+Fogo em floresta pode virar incêndio: nunca deixe brasa sem apagar.
+Cogumelos e plantas venenosas podem matar; cozinhar não retira o veneno.
+Aplicativos de identificação erram muito: na dúvida, não coma.
+Água parada ou turva pode ter parasitas: filtre e desinfecte sempre.
+Não beba água com cheiro químico ou espuma: ferver não resolve.
+Mover-se sem rumo afasta você da busca e gasta calor, água e força.
+A reação a um urso varia por espécie: siga a orientação local.
+
+SE NAO TIVER
+------------
+Sem lona, use saco plástico, folhas secas e casca caída de árvore.
+Sem fósforos, transporte brasa viva em cinzas dentro de recipiente.
+Sem filtro, deixe a água turva assentar, coe em pano limpo e ferve.
+Sem apito, bata três vezes numa árvore com um bastão.
+Sem manta térmica, encha a roupa de folhas secas para isolar o corpo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você está seco, sem tremor e com as mãos ainda capazes de trabalhar.
+Há abrigo montado, brasa apagada e água fervida pronta para beber.
+A cada volta de apito ou sinal, você ouve resposta ou vê movimento.
+
+FONTES
+------
+CDC e CDC Yellow Book: hipotermia e tratamento de água de campo.
+US Forest Service e NYSDEC: hipotermia, método STOP e kit básico.
+National Park Service: conduta com ursos, sinalização e água potável.
+CDC MMWR, CDPH e centros de controle de envenenamento: cogumelos e plantas.

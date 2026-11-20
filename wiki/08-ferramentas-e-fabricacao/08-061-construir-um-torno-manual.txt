@@ -1,0 +1,84 @@
+==============================================================================
+CODIGO: 08-061
+TITULO: Como construir um torno manual
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 180 minutos
+RISCO: alto
+EXIGE: madeira verde sã, corda, vara flexível, formão, visor, calçado
+REVISAO: 2026-11
+PALAVRAS-CHAVE: torno, tornearia, pedal, corda, formão, madeira verde
+==============================================================================
+
+OBJETIVO
+--------
+Montar um torno manual de pedal e vara flexível e tornear madeira verde.
+
+QUANDO USAR
+-----------
+Quando faltar energia e for preciso tornear pinos e cabos de madeira.
+Quando houver madeira verde e corda, mas nenhum torno motorizado.
+Quando for preciso fazer peças redondas para consertos no acampamento.
+
+NAO USE QUANDO
+--------------
+Sem visor ou óculos com proteção lateral, não opere o torno.
+Não use madeira seca, rachada, com nós ou apodrecida: a peça pode voar.
+Não torne com outras pessoas na frente ou ao lado da peça.
+
+MATERIAIS
+---------
+- Madeira verde, reta e sã para a peça (a mais fresca possível).
+- Duas vigas ou tábuas resistentes para a base (tronco fixo).
+- Dois suportes verticais com pontas de metal ou madeira dura.
+- Uma vara longa e flexível (barra elástica de madeira).
+- Corda resistente, sem nós e que não escorregue (couro trançado).
+- Formão ou cinzel bem afiado, com cabo firme.
+- Serra, faca, broca e cunhas.
+- Visor facial, óculos com proteção lateral e calçado fechado.
+
+PROCEDIMENTO
+------------
+1. Escolha madeira verde, reta, sem rachadura, nó ou podridão para a peça.
+2. Serre a peça com aproximadamente um palmo a mais que o desejado.
+3. Marque o centro das duas extremidades da peça com a faca.
+4. Crave uma ponta na extremidade marcada, de metal ou madeira dura.
+5. Fixe o primeiro suporte na base, com a ponta voltada para dentro.
+6. Fixe o segundo suporte de modo que deslize e trave no lugar.
+7. Encaixe a peça entre as pontas e aproxime o contraponto até travar.
+8. Monte o pedal na base, abaixo e à frente da peça, preso por dobradiça.
+9. Fixe a vara flexível atrás e acima da peça, inclinada para trás.
+10. Prenda a primeira ponta da corda na parte alta da vara.
+11. Dê uma volta completa da corda em torno da peça, entre as pontas.
+12. Amarre a outra ponta da corda ao pedal, com a corda firme.
+13. Fixe o apoio: barra rente à peça, à frente e abaixo do centro.
+14. Calce o visor e o calçado; afaste pessoas; tire anéis e mangas soltas.
+15. Pise o pedal e solte: a vara devolve o pedal e a peça gira.
+16. Apoie o formão na barra e toque a madeira só ao pisar, sem forçar.
+17. Pare se sentir vibração ou ruído diferente; revise pontas e corda.
+
+ATENCAO
+-------
+A peça pode sair atirada se houver rachadura, nó ou madeira seca.
+A corda estica e pode arrebentar: nunca passe a mão por trás dela.
+As lascas cortam olhos e rosto; use visor, não só óculos comuns.
+Mangas, anéis, pulseiras e cabelo solto enroscam e puxam a mão.
+O formão escorrega: apoie na barra e corte sempre para fora do corpo.
+Não torne cansado; pare se a peça vibrar ou a corda desfiar.
+
+SE NAO TIVER
+------------
+Sem vara flexível, use uma barra elástica de madeira presa no alto.
+Sem formão, use faca afiada presa em cabo curto, apoiada na barra.
+Sem visor nem óculos com proteção lateral, não opere o torno.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O pedal volta sozinho ao ser solto e a peça gira sem folga nas pontas.
+A peça fica cilíndrica e as lascas saem contínuas, sem marcas de salto.
+
+FONTES
+------
+Prática consolidada de tornearia manual com vara flexível e madeira verde.
+American Association of Woodturners, Lathe Safety Basics (2020);
+Association of Woodturners of Great Britain,
+Eye / Face Protection Guidance.

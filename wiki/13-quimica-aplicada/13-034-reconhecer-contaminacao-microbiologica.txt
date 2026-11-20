@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 13-034
+TITULO: Como reconhecer contaminação microbiológica
+CATEGORIA: 13 - Química e conhecimentos científicos aplicados
+TEMPO: 20 minutos
+RISCO: alto
+EXIGE: luz forte, frasco transparente, luvas, água corrente e sabão
+REVISAO: 2026-11
+PALAVRAS-CHAVE: contaminação, bactéria, mofo, água turva, cheiro, biofilme
+==============================================================================
+
+OBJETIVO
+--------
+Reconheça sinais de contaminação em água, alimentos e recipientes e
+decida quando tratar ou descartar com segurança.
+
+QUANDO USAR
+-----------
+Quando a água de poço, chuva ou torneira ficar turva ou com cheiro estranho.
+Quando um alimento apresentar mofo ou textura diferente do normal.
+Quando lata ou pacote estiver estufado, vazando ou sem vácuo.
+Quando o recipiente de água ficou parado ou sem limpeza por muito tempo.
+
+NAO USE QUANDO
+--------------
+Não use ausência de cor, cheiro ou sabor para afirmar que algo é seguro.
+Não prove nem inale amostra suspeita: o risco pode ser invisível.
+Não abra embalagem estufada nem manipule amostra com ferida na mão.
+
+MATERIAIS
+---------
+- Luz forte (sol, janela clara ou lanterna).
+- Frasco transparente com tampa (copo ou garrafa limpa).
+- Luvas descartáveis (saco plástico limpo na mão).
+- Pano limpo e papel toalha (pano seco).
+- Água corrente e sabão para lavar as mãos.
+
+PROCEDIMENTO
+------------
+1. Lave as mãos com água corrente e sabão antes de começar.
+2. Calce as luvas antes de tocar em amostra suspeita.
+3. Coloque a água no frasco transparente até a metade e agite uma vez.
+4. Observe contra a luz: turidez ou cor estranha são suspeitos.
+5. Observe a superfície: espuma ou bolhas que não somem são suspeitos.
+6. Cheire sem encostar o nariz: cheiro de terra ou mofo é suspeito.
+7. Não prove a água: sabor bom não prova ausência de micro-organismo.
+8. Anote a fonte, a data e a hora da coleta em um caderno.
+9. Passe o dedo enluvado na parede interna do recipiente de água.
+10. A camada escorregadia é biofilme: micro-organismos na superfície.
+11. Observe alimentos: mofo, cor diferente e textura mole são sinais.
+12. Observe embalagens: lata estufada, vazamento ou tampa solta são risco.
+13. Separe o alimento suspeito do bom, sem encostar um no outro.
+14. Descarte alimento mole com mofo, mesmo na parte que parece limpa.
+15. Lave mãos, luvas e bancada com água e sabão ao terminar.
+16. Se a água for suspeita, trate antes de beber: veja 01-001.
+
+ATENCAO
+-------
+Esta inspeção mostra sinais; não prova que água ou alimento é seguro.
+Micro-organismos patogênicos podem não ter cor, cheiro nem sabor.
+Água clara pode conter E. coli: só laboratório confirma potabilidade.
+Coliformes vivem no ambiente; E. coli indica fezes, mas nenhum é visível.
+Teste caseiro de cloro não detecta vírus nem parasitas: não é prova.
+Não inale mofo nem abra embalagem estufada: pode haver toxina sem cheiro.
+Diarreia com sangue, febre alta ou vômito sem parar: procure atendimento.
+
+SE NAO TIVER
+------------
+Sem frasco, use copo de vidro ou garrafa plástica bem limpa.
+Sem luz, use a luz do sol ou leve a amostra a uma janela clara.
+Sem luvas, use saco plástico limpo na mão e lave as mãos depois.
+Sem análise, trate a água como suspeita: coe, ferva ou desinfete.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água foi classificada como limpa, suspeita ou contaminada.
+A suspeita ficou registrada com fonte, data e hora no caderno.
+Material suspeito foi separado, descartado ou tratado antes do uso.
+
+FONTES
+------
+Funasa, artigo "Água transparente é sempre segura para beber?" (2026).
+Portaria GM/MS nº 888/2021, padrão bacteriológico de potabilidade.
+Guia de implementação da norma de água, Ministério da Saúde (2024); OMS,
+Diretrizes para água potável, 4ª edição, seções sobre armazenamento.
+CDC, Anvisa (RDC 724/2022), USDA e Penn State Extension, sinais de
+deterioração de alimentos.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 40-005
+TITULO: Como construir um estetoscópio simples
+CATEGORIA: 40 - Acústica e engenharia sonora
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: funil pequeno, tubo oco flexível, fita adesiva
+REVISAO: 2026-11
+PALAVRAS-CHAVE: estetoscópio, ausculta, funil, tubo, som, coração, ouvir
+==============================================================================
+
+OBJETIVO
+--------
+Montar um tubo acústico simples que conduz sons do corpo até o ouvido.
+
+QUANDO USAR
+-----------
+Quando não houver estetoscópio e for preciso ouvir sons do peito.
+Quando quiser demonstrar como um tubo oco conduz o som.
+
+NAO USE QUANDO
+--------------
+Não use para diagnosticar doença nem substituir profissional de saúde.
+Não use funil ou tubo com resíduo de combustível, solvente ou tinta.
+Não use se a borda do funil estiver cortante ou o tubo rachado.
+
+MATERIAIS
+---------
+- Funil pequeno de plástico ou metal com bocal estreito (cone de papel).
+- Tubo oco flexível com aproximadamente 60 cm (tubo de aquário ou soro).
+- Fita adesiva ou fita isolante para vedar a emenda.
+- Filme plástico fino de sacola e elástico (opcionais).
+- Tesoura para cortar o tubo e pano limpo para higienizar as peças.
+
+PROCEDIMENTO
+------------
+1. Limpe o funil e o tubo com o pano limpo e seco.
+2. Confira se não há resíduo de combustível, tinta ou produto químico.
+3. Encaixe o bocal estreito do funil em uma ponta do tubo.
+4. Ajuste o encaixe até ficar firme, sem folga.
+5. Vedete a emenda com fita adesiva.
+6. Encoste a ponta livre do tubo no ouvido, sem inseri-la.
+7. Aplique a boca do funil contra o peito da pessoa.
+8. Mantenha o tubo esticado, sem dobras, durante a escuta.
+9. Reposicione o funil até ouvir os sons com nitidez.
+
+ATENCAO
+-------
+O som é fraco; um estetoscópio comercial é sempre mais claro.
+Fenda ou folga na emenda deixa entrar ar e anula a transmissão.
+Dobra ou aperto no tubo bloqueia a passagem do som.
+Não compartilhe sem limpar as pontas: pode transmitir infecção.
+Não diagnostique: com falta de ar ou dor no peito, busque atendimento.
+
+SE NAO TIVER
+------------
+- Sem funil: enrole papel firme em cone e use como campânula.
+- Sem tubo de aquário: use manga de soro limpa ou canudo plástico.
+- Sem fita: amarre a emenda com barbante ou fita de pano.
+- Sem filme: deixe a boca aberta; o som fica mais grave.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ao bater de leve no funil, ouve-se estalo na ponta encostada ao ouvido.
+Colocado no peito, ouve-se ritmo regular ou o vai e vem da respiração.
+
+FONTES
+------
+- Princípios acústicos: campânula, tubo oco e vedação na orelha.
+- Resumo de prática artesanal; Roguin, 2006, Clinical Medicine & Research.

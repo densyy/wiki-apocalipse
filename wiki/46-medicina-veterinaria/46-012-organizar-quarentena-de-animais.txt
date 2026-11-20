@@ -1,0 +1,101 @@
+==============================================================================
+CODIGO: 46-012
+TITULO: Como organizar quarentena de animais
+CATEGORIA: 46 - Medicina veterinária e saúde animal
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: local separado, cerca ou gaiola, água, ração, caderno, luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: quarentena, isolamento, animal novo, doença, contágio
+==============================================================================
+
+OBJETIVO
+--------
+Manter animais novos separados até passarem pelo período de observação.
+
+QUANDO USAR
+-----------
+Ao comprar ou receber animal de outra criação.
+Quando o animal voltar de feira, exposição, viagem ou tratamento.
+Ao introduzir animais resgatados ou de origem desconhecida.
+Depois de um surto, antes de recompor o grupo.
+Quando houver suspeita de contato com animal doente.
+
+NAO USE QUANDO
+--------------
+Não substitui o veterinário: animal doente precisa de diagnóstico.
+Não serve para tratar doença; só impede a propagação.
+Não misture espécies diferentes no mesmo local de quarentena.
+Se não houver local separado, não improvise junto ao rebanho.
+
+MATERIAIS
+---------
+- Cerco, gaiola ou sala separada (ou o menor recinto disponível).
+- Cerca dupla ou barreira entre a quarentena e os demais animais.
+- Bebedouro e cocho exclusivos (ou balde e vasilha só para este grupo).
+- Ração, água limpa e sombra ou abrigo.
+- Roupa, calçados e luvas exclusivos (ou capa e sobressapatos descartáveis).
+- Escova, balde e desinfetante de uso animal (conforme o rótulo).
+- Caderno e lápis para anotar data, animal e sintomas.
+
+PROCEDIMENTO
+------------
+1. Escolha local a pelo menos 10 metros dos outros animais.
+2. Instale cerca dupla ou barreira sem contato direto com o rebanho.
+3. Coloque no local bebedouro e cocho que não sejam usados por outros.
+4. Reserve roupa, calçados e equipamentos exclusivos para a quarentena.
+5. Receba o animal novo direto no local, sem passar pelo rebanho.
+6. Observe o animal antes de descarregar; recuse o que parecer doente.
+7. Anote no caderno a data, a origem, a espécie e a identificação.
+8. Alimente e limpe o rebanho primeiro; os isolados ficam por último.
+9. Lave as mãos com água e sabão ao entrar e ao sair do local.
+10. Observe cada animal uma vez por dia, sem tocá-lo.
+11. Anote todo sintoma: tosse, corrimento, diarreia, mancar, não comer.
+12. Ofereça água e ração frescas todos os dias, sem compartilhar.
+13. Remova esterco, cama suja e sobras de ração todos os dias.
+14. Limpe com água e sabão antes de aplicar desinfetante no local.
+15. Mantenha o desinfetante molhado pelo tempo indicado no rótulo.
+16. Isole em recinto separado todo animal que apresentar sintoma.
+17. Mantenha o grupo isolado por pelo menos 30 dias.
+18. Chame o veterinário se aparecerem sintomas ou mortes.
+19. Só junte ao rebanho após 30 dias sem sintomas.
+
+ATENCAO
+-------
+Animais com aparência saudável podem transmitir germes às pessoas.
+Gripe aviária, salmonelose e brucelose adoecem pessoas e animais.
+Animais podem incubar doença sem mostrar sintomas por semanas.
+O período varia entre fontes: 21 a 30 dias; no Brasil, mínimo de 30.
+Use 30 dias ou mais, nunca menos que o indicado pelo veterinário.
+Não compartilhe cocho, bebedouro, utensílios nem roupa com o rebanho.
+Desinfetante sobre sujeira quase não age: limpe primeiro.
+Desinfetante concentrado queima pele e animais: siga o rótulo.
+Fezes de aves e roedores entram por frestas: feche os buracos.
+Se vários animais adoecerem ou morrerem, pare e chame ajuda.
+Quarentena reduz risco, mas não elimina: exames só com veterinário.
+
+SE NAO TIVER
+------------
+Sem sala separada, use o menor cerco ou gaiola, longe dos demais.
+Sem cerca dupla, aumente a distância e mantenha materiais próprios.
+Sem desinfetante, lave com água e sabão e deixe secar ao sol.
+Sem água corrente, use balde com água limpa trocada a cada uso.
+Sem veterinário, mantenha o isolamento e procure a autoridade agropecuária.
+Nunca improvise com agrotóxico ou combustível: queima e mata animais.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O animal passou os 30 dias sem tosse, diarreia, ferida ou morte.
+Comeu e bebeu normalmente todos os dias, sem perder o apetite.
+Bebedouro e cocho são exclusivos, sem fezes de outros animais.
+O caderno traz uma observação por dia, com data e sintoma.
+Ninguém entrou com a mesma roupa ou calçado do rebanho.
+
+FONTES
+------
+Manual de quarentena da Secretaria de Defesa Agropecuária do MAPA.
+Código Terrestre de Saúde Animal da WOAH (OIE), capítulo de biosseguridade.
+Boas práticas de biosseguridade da FAO e da Embrapa para criações.
+Práticas de controle de infecção do USDA APHIS e guias do CFSPH.
+Orientações do CDC sobre introdução e monitoramento de animais.
+Prática consolidada; resumo operacional que não substitui treinamento.

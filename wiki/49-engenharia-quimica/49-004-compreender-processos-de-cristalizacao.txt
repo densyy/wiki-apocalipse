@@ -1,0 +1,77 @@
+==============================================================================
+CODIGO: 49-004
+TITULO: Como compreender processos de cristalização
+CATEGORIA: 49 - Engenharia química e processos industriais
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: água, sal ou açúcar, copo de vidro, fonte de calor, colher, pano
+REVISAO: 2026-11
+PALAVRAS-CHAVE: cristalização, cristal, solução, saturação, dissolver, grão
+==============================================================================
+
+OBJETIVO
+---------
+Entender como um sólido se forma a partir de uma solução.
+
+QUANDO USAR
+-----------
+Quando um produto forma grãos ou crostas e você precisa explicar o motivo.
+Quando quer controlar o tamanho dos grãos em um processo.
+Quando precisa purificar uma substância dissolvida em água.
+Quando interpreta cristais em tanques, tubulações ou evaporadores.
+Quando estuda separação por solidificação.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação para a observação com sal ou açúcar em água.
+Não aplique o procedimento a substâncias tóxicas ou corrosivas.
+Não serve para operar equipamento industrial sem treinamento.
+
+MATERIAIS
+---------
+- Água.
+- Sal de cozinha (ou açúcar).
+- Copo de vidro transparente.
+- Fonte de calor.
+- Colher.
+- Pano limpo.
+- Lupa (opcional).
+
+PROCEDIMENTO
+------------
+1. Despeje água no copo até a metade.
+2. Adicione sal aos poucos e mexa até dissolver.
+3. Pare quando o sal ficar no fundo sem dissolver.
+4. Aqueça o copo sem deixar a água ferver.
+5. Adicione mais sal e mexa até dissolver por completo.
+6. Retire do calor e deixe esfriar em repouso.
+7. Observe os primeiros cristais nas paredes do copo.
+8. Deixe em repouso e veja os cristais crescerem.
+9. Anote quantos grãos apareceram e o tamanho deles.
+10. Repita com resfriamento mais rápido e compare.
+
+ATENCAO
+-------
+Água e copo quentes queimam; segure o copo com pano.
+Nunca aqueça copo fechado: a pressão pode estourá-lo.
+Não use substâncias desconhecidas, corrosivas ou inflamáveis.
+Respingos de solução quente irritam olhos e pele.
+Esta demonstração mostra o princípio, não reproduz uma planta industrial.
+Processos reais usam solventes, pressão e controle rigoroso de temperatura.
+
+SE NAO TIVER
+------------
+Sem calor, dissolva sal em água e deixe evaporar ao sol.
+Sem lupa, observe a olho nu; os grãos de sal são visíveis.
+Sem sal, use açúcar, que dissolve mais devagar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cristais aparecem nas paredes e no fundo do copo em repouso.
+O líquido fica mais límpido à medida que o sólido se forma.
+
+FONTES
+------
+Prática consolidada de ensino de química sobre cristalização: solução
+saturada, nucleação e crescimento de cristais. Este texto é um resumo
+operacional, não substitui treinamento.

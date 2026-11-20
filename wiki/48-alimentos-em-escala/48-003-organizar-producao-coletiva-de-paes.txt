@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 48-003
+TITULO: Como organizar produção coletiva de pães
+CATEGORIA: 48 - Produção de alimentos em escala comunitária
+TEMPO: 120 minutos
+RISCO: alto
+EXIGE: forno ou fogão, água tratada, farinha, recipientes limpos, equipe
+REVISAO: 2026-11
+PALAVRAS-CHAVE: pão, padaria, coletiva, forno, higiene, turnos, sobras
+==============================================================================
+
+OBJETIVO
+--------
+Organizar turnos, espaço e fluxo para assar pães para muitas pessoas
+com segurança e sem desperdício.
+
+QUANDO USAR
+-----------
+Quando um abrigo precisa de pão diário para dezenas de pessoas.
+Quando há farinha, água tratada e forno, mas não há padaria organizada.
+Quando o número de pessoas exige dividir tarefas entre várias mãos.
+Quando a distribuição de pão vai durar vários dias seguidos.
+
+NAO USE QUANDO
+--------------
+Quando não houver água tratada para a massa e para lavar as mãos.
+Quando o forno ou a chaminé estiverem rachados, obstruídos ou sem tiragem.
+Quando não houver ventilação para a fumaça sair da cocção.
+Quando a farinha estiver mofada, molhada ou com cheiro estranho.
+Nesses casos, não asse para o grupo; use alimento pronto e seguro.
+
+MATERIAIS
+---------
+- Farinha, sal e, se houver, açúcar ou gordura, em sacos fechados e secos.
+- Água tratada para a massa e para a higiene (fervida e coada, se preciso).
+- Fermento natural ativo ou fermento industrial dentro do prazo.
+- Balde com tampa, bancada lavável, formas, tabuleiros e pá limpa.
+- Forno ou fogão com chaminé limpa e saída de fumaça aberta.
+- Sabão, pano limpo e água sanitária diluída para desinfetar a bancada.
+- Touca, avental e luvas descartáveis para quem toca o pão pronto.
+- Caixas ou sacos limpos para o pão frio e caderno para anotar sobras.
+
+PROCEDIMENTO
+------------
+1. Escolha local com piso lavável, ventilação e saída de fumaça para fora.
+2. Separe três áreas e mantenha o cru longe do pão pronto.
+3. Nomeie um responsável por área e ensine a ele só a sua tarefa.
+4. Calcule os pães pelo total de presentes e pela capacidade do forno.
+5. Divida em turnos: um mistura, um assa, um embala, um distribui.
+6. Lave as mãos por 20 segundos antes de começar e a cada troca de tarefa.
+7. Use touca e avental limpos; cubra cortes com curativo impermeável.
+8. Meça farinha, água, sal e fermento com as mesmas colheres em todo lote.
+9. Amasse em porções pequenas, uma de cada vez, sem espalhar farinha.
+10. Cubra a massa e deixe crescer longe de fumaça, poeira e insetos.
+11. Aqueça o forno antes da primeira fornada, com a chaminé aberta.
+12. Asse em tabuleiros limpos, sem deixar o pão tocar a chama direta.
+13. Retire com pá limpa e esfrie em grade, nunca sobre o chão.
+14. Embale frio; entregue com pinça limpa, sem receber dinheiro.
+15. Anote quantidades e sobras; limpe utensílios, bancada e lixo ao fim.
+
+ATENCAO
+-------
+O risco é queimadura, incêndio e intoxicação de muitas pessoas de uma vez.
+Forno mal ventilado acumula monóxido de carbono, gás sem cor nem cheiro.
+Nunca acenda forno fechado sem saída de fumaça; mantenha a chaminé livre.
+Pó de farinha suspenso pode pegar fogo perto de chama; limpe-o.
+Pão quente mofa na embalagem; distribua no dia e descarte a sobra.
+Massa e pão prontos parados muito tempo abrigam micróbios.
+Não deixe manipular o pão quem tem ferida aberta, tosse ou febre.
+Com tontura, dor de cabeça ou náusea perto do forno, apague o fogo
+e vá para o ar livre; procure ajuda médica.
+Em incêndio de gordura ou de fio energizado, não jogue água.
+
+SE NAO TIVER
+------------
+Sem forno, asse em fogão com tampa ou panela de ferro sobre brasas,
+sempre ao ar livre ou com a chaminé aberta.
+Sem fermento industrial, use fermento natural ativo em vidro tampado.
+Sem balança, use sempre o mesmo copo para medir todo o lote.
+Sem sacos novos, forre caixas com pano limpo e seco, nunca com jornal.
+Sem água tratada, não faça pão para o grupo; trate a água antes.
+Sem trigo, teste mistura de milho ou mandioca antes de servir.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Há pão assado na quantidade planejada, com crosta firme e miolo cozido.
+A chaminé soltou fumaça para fora e o ambiente não ficou enfumaçado.
+As mãos foram lavadas no início e em cada troca de tarefa, com anotação.
+Não houve queimadura, tontura nem reclamação de cheiro de gás.
+As sobras foram contadas, descartadas ou guardadas como previsto.
+
+FONTES
+------
+Anvisa, Cartilha de Boas Práticas para Serviços de Alimentação
+(RDC 216/2004) e requisitos para eventos de massa (RDC 656/2022);
+OMS, Cinco Chaves para uma Alimentação Mais Segura e guia do
+Food Security Cluster sobre distribuição de refeições em emergências;
+HSE, ficha CAIS26 sobre monóxido de carbono em cozinhas comerciais;
+orientações de alimentação coletiva de Minnesota e Alaska. Prática
+consolidada de panificação comunitária, sem documento único.

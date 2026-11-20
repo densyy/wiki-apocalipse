@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 88-008
+TITULO: Como avaliar a capacidade de produção alimentar local
+CATEGORIA: 88 - Geografia humana e recursos estratégicos
+TEMPO: 180 minutos
+RISCO: baixo
+EXIGE: caderno, mapa, medidas aproximadas e dados de colheita
+REVISAO: 2026-11
+PALAVRAS-CHAVE: alimento, colheita, produção, terra, semente, estoque
+==============================================================================
+
+OBJETIVO
+--------
+Estimar quanto alimento a região consegue produzir e guardar para
+alimentar as pessoas durante um ano.
+
+QUANDO USAR
+-----------
+Ao saber se o grupo pode viver do que planta sem comprar comida.
+Antes de aumentar o número de pessoas em um assentamento.
+Quando se decide quais culturas merecem mais terra e mais água.
+Ao planejar o tamanho do estoque para a entressafra.
+Depois de uma colheita ruim, para medir o tamanho da perda.
+
+NAO USE QUANDO
+--------------
+Não use números de um único ano como regra fixa.
+Não conte com colheita que depende de insumo que você não tem.
+Não ignore perda depois da colheita: ela pode ser grande.
+Não use para dispensar reserva de emergência.
+
+MATERIAIS
+---------
+- Caderno e lápis para anotar áreas, colheitas e perdas.
+- Mapa ou esquema das roças e das áreas que podem ser cultivadas.
+- Fita de medir ou passos contados para medir a área plantada.
+- Balde ou caixa de volume conhecido para medir a produção.
+- Calendário de plantio e colheita da comunidade.
+- Perguntas sobre sementes, ferramentas e mão de obra disponível.
+
+PROCEDIMENTO
+------------
+1. Liste todos os alimentos que a região realmente produz.
+2. Meça a área plantada de cada cultura em passos ou metros.
+3. Anote quantas vezes ao ano cada cultura é colhida.
+4. Pergunte a produção de uma colheita normal em volume conhecido.
+5. Multiplique área e colheitas para estimar a produção anual.
+6. Desconte a perda no campo, no transporte e no armazenamento.
+7. Desconte a parte reservada para semente da próxima safra.
+8. Some a produção de grãos, tubérculos, hortaliças e frutas.
+9. Some a carne, o leite e os ovos produzidos no local.
+10. Estime a necessidade diária de alimento por pessoa.
+11. Multiplique pelo número de pessoas e por 365 dias.
+12. Compare produção com necessidade e anote a diferença.
+13. Verifique se a água e a mão de obra sustentam esse plano.
+14. Identifique o alimento que falta primeiro no ano.
+15. Escreva uma meta simples de área ou cultura a ampliar.
+16. Registre quem conferiu os números e em que data.
+
+ATENCAO
+-------
+Colheita boa em ano chuvoso não garante colheita na seca.
+Semente comprada todos os anos não é produção local independente.
+Perda por umidade, inseto e rato pode consumir boa parte do estoque.
+Terra disponível não basta se faltar água ou quem plante.
+Dietas muito restritas geram fome mesmo com volume suficiente.
+Se a produção ficar abaixo da necessidade, planeje redução de
+consumo ou alternativa antes da entressafra.
+
+SE NAO TIVER
+------------
+Sem medidas, use o número de passos e o tamanho médio do passo.
+Sem balde, use recipiente caseiro de volume já conhecido.
+Sem dados de colheita, colha uma amostra e extrapole com cuidado.
+Sem calendário, pergunte a quem planta e escreva com a origem.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Há uma tabela com produção, perda e necessidade por alimento.
+A comparação anual mostra se sobra ou falta e quanto.
+A cultura limitante está identificada com local e época.
+Duas pessoas conseguem conferir os números pelo caderno.
+
+FONTES
+------
+Prática consolidada de diagnóstico de segurança alimentar local e
+planejamento de safra em agricultura familiar, sem documento único.
+Base: estimativas de rendimento, perda pós-colheita e necessidade
+alimentar difundidas por extensão rural e órgãos de alimentação.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 39-020
+TITULO: Como reparar instrumentos ópticos
+CATEGORIA: 39 - Óptica e instrumentos científicos
+TEMPO: 45 minutos
+RISCO: medio
+EXIGE: local limpo e seco, soprador de borracha, papel de lente, luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: lente, limpeza, microscópio, telescópio, colimação, óptica
+==============================================================================
+
+OBJETIVO
+--------
+Limpar lentes e espelhos sujos e verificar o alinhamento do instrumento.
+
+QUANDO USAR
+-----------
+Quando a imagem fica borrosa ou com manchas visíveis.
+Quando há óleo seco na objetiva ou o instrumento foi transportado.
+
+NAO USE QUANDO
+--------------
+Se a lente estiver rachada, descolada ou com o revestimento gasto.
+Nunca desmonte lentes coladas ou a corretora de telescópios SCT.
+
+MATERIAIS
+---------
+- Soprador de borracha, pincel macio e papel de lente.
+- Água destilada, álcool isopropílico ou acetona e luvas.
+- Lupa e chave de fenda ou hexadecimal do instrumento.
+
+PROCEDIMENTO
+------------
+1. Desligue e retire o instrumento do suporte com cuidado.
+2. Trabalhe em local seco, sem poeira e com luz; calce luvas.
+3. Nunca toque a lente com os dedos; marque a posição das peças.
+4. Remova o pó com o soprador, sem pressão; use pincel se sobrar pó.
+5. Não use ar comprimido em lata nem sopre com a boca.
+6. Umedeça papel de lente com água destilada para manchas comuns.
+7. Limpe do centro à borda em círculo, com papel novo a cada passada.
+8. Para óleo ou gordura, use papel com álcool isopropílico ou acetona.
+9. Não deixe solvente escorrer à borda; não use acetona em plástico.
+10. Sem xileno ou amônia, seque com papel seco e veja na lupa.
+11. Aponte para céu claro ou parede branca, nunca ao sol; retire a ocular.
+12. Ajuste um parafuso por vez até centralizar os círculos.
+
+ATENCAO
+-------
+Lente riscada não tem conserto caseiro: a risca é permanente.
+Pó preso sob o papel risca o vidro; retire o pó antes de esfregar.
+Solvente na borda dissolve a cola e descola lentes coladas.
+Acetona destrói plástico; solventes são inflamáveis: longe do fogo.
+Xileno e limpadores de vidro com amônia danificam o revestimento.
+Se a imagem piorar ou aparecer risco, pare e procure um óptico.
+
+SE NAO TIVER
+------------
+Sem soprador, use pincel macio e seco; sem papel, algodão sem fiapos.
+Sem solvente, limpe só com água destilada; não use gasolina.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A lente não mostra manchas sob a lupa e a imagem está nítida.
+Ao olhar pelo tubo, os círculos dos espelhos ficam concêntricos.
+
+FONTES
+------
+Carl Zeiss, The Clean Microscope; Nikon, How to clean objectives.
+OMS, MM-SOP-12 de microscopia; Leica, Cleaning of Microscope Optics.
+Edmund Optics, Cleaning Optics; Sky and Telescope, colimação de refletor.

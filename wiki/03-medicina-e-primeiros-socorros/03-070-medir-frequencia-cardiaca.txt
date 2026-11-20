@@ -1,0 +1,67 @@
+==============================================================================
+CODIGO: 03-070
+TITULO: Como medir frequência cardíaca
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 2 minutos
+RISCO: medio
+EXIGE: relógio ou celular que marque segundos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: frequência cardíaca, pulso, batimentos, bpm, radial, coração
+==============================================================================
+OBJETIVO
+--------
+Contar os batimentos do coração por minuto sem equipamento médico.
+QUANDO USAR
+-----------
+Saber a frequência em repouso; acompanhar febre, desidratação ou
+recuperação de doença; checar o pulso antes de atividade física;
+verificar batimentos irregulares ou se o coração bombeia em
+emergência.
+NAO USE QUANDO
+--------------
+Não pressione o pescoço se houver ferimento ou suspeita de fratura
+cervical; nesse caso, use só o pulso do punho.
+MATERIAIS
+---------
+- Relógio, celular ou cronômetro com marcador de segundos.
+PROCEDIMENTO
+------------
+1. Deite ou sente a pessoa; peça que fique quieta e em silêncio por
+   10 minutos, sem falar nem se mover.
+2. Apoie a mão com a palma para cima e encoste a ponta do indicador
+   e do médio na face interna do punho, abaixo da base do polegar.
+3. Pressione com os dedos chatos até sentir o pulso claro, sem
+   apertar com força; nunca use o polegar, que tem pulso próprio.
+4. Comece a contar ao chegar a uma marca e conte cada batimento por
+   1 minuto; anote o valor: frequência em batimentos por minuto.
+5. Se não der 1 minuto, conte 30 segundos e multiplique por 2.
+6. Repita a medição uma vez e compare os dois valores.
+ATENCAO
+-------
+Em repouso, o normal em adultos é 60 a 100 batimentos por minuto;
+atletas treinados podem ter de 40 a 60.
+Uma medição isolada não diagnostica doença.
+Não aperte as duas artérias do pescoço juntas: pode reduzir o fluxo
+ao cérebro e causar desmaio.
+No pescoço, pressione com leveza: pressão forte desacelera o coração.
+Se o pulso ficar muito rápido, lento ou irregular de forma repetida,
+procure atendimento médico.
+Procure atendimento imediato se houver dor no peito, falta de ar,
+desmaio ou confusão.
+SE NAO TIVER
+------------
+Sem ponteiro de segundos: use o cronômetro do celular ou outro
+aparelho que marque segundos.
+Sem nenhum marcador, não invente o tempo: espere e meça depois.
+Sem sentir o pulso no punho: tente o pescoço, ao lado do pomo de
+Adão, com pressão leve e apenas um lado por vez.
+COMO SABER QUE DEU CERTO
+------------------------
+Você sente batimentos claros e contáveis sob os dedos.
+O valor fica entre 60 e 100 em repouso, ou entre 40 e 60 em atletas.
+Duas contagens seguidas dão valores próximos.
+FONTES
+------
+MedlinePlus (National Library of Medicine, National Institutes of Health),
+verbete "Pulse", revisado em 2025, baseado em Nelson Textbook of Pediatrics
+e Goldman-Cecil Medicine. Prática consolidada de aferição de sinais vitais.

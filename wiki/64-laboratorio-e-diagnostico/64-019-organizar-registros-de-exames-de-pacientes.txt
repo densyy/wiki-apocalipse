@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 64-019
+TITULO: Como organizar registros de exames de pacientes
+CATEGORIA: 64 - Laboratório, diagnóstico e análises
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: fichas ou caderno, caneta, pastas ou envelopes
+REVISAO: 2026-11
+PALAVRAS-CHAVE: exame, paciente, ficha, registro, arquivo, prontuário
+==============================================================================
+
+OBJETIVO
+--------
+Guardar e localizar cada exame sem trocar resultados entre pessoas.
+
+QUANDO USAR
+-----------
+Quando várias pessoas fazem exames no mesmo local.
+Quando folhas de resultado se acumulam e serão consultadas depois.
+Quando o atendimento acontece em turnos com pessoas diferentes.
+Quando é preciso comparar um exame antigo com o atual.
+Quando há risco de entregar o resultado de alguém a outra pessoa.
+
+NAO USE QUANDO
+--------------
+Quando não há identificação confiável do paciente. Sem nome completo
+e um segundo dado, não arquive: confirme a identidade antes.
+Este procedimento só organiza papéis; não interpreta resultado nem
+substitui o registro obrigatório do serviço de saúde.
+
+MATERIAIS
+---------
+- Fichas ou caderno para anotações (papel comum serve).
+- Caneta ou lápis.
+- Identificador por paciente: nome completo e um segundo dado, como
+  número de prontuário, data de nascimento ou nome da mãe.
+- Pasta, envelope ou caixa para guardar (papelão serve).
+- Tiras de papel para escrever o nome (etiquetas, se houver).
+- Local seco, limpo e com pouca movimentação.
+
+PROCEDIMENTO
+------------
+1. Defina o identificador de cada paciente: nome completo e um segundo
+   dado estável.
+2. Escreva o identificador no topo de toda folha de exame ao chegar.
+3. Anote em cada folha a data da coleta e o tipo de exame.
+4. Separe as folhas por paciente antes de guardar.
+5. Confira o identificador da folha com o da pasta antes de arquivar.
+6. Coloque as folhas de cada pessoa em uma pasta ou envelope próprio.
+7. Escreva o identificador na parte de fora da pasta, com letra grande.
+8. Guarde as pastas em ordem alfabética pelo sobrenome ou prontuário.
+9. Reserve um espaço para exames sem identificação e revise-o por turno.
+10. Registre no caderno a entrada e a saída de cada exame, com data
+    e o nome de quem recebeu.
+
+ATENCAO
+-------
+O erro mais grave é trocar o resultado de um paciente por outro.
+Nunca arquive uma folha sem identificador completo.
+Não use apenas o primeiro nome: outras pessoas podem ter o mesmo.
+Umidade, tinta e poeira borram a escrita e fazem perder o exame.
+Não guarde folhas de pessoas diferentes na mesma pasta.
+Se um resultado foi entregue à pessoa errada, avise o responsável
+de imediato e tente recuperar o papel.
+
+SE NAO TIVER
+------------
+Sem pasta, dobre a folha e prenda com clip ou barbante; escreva o nome
+na parte de fora, na dobra visível.
+Sem etiqueta, escreva direto na pasta com letra grande e legível.
+Sem caderno, use uma folha com colunas: nome, data, exame, destino.
+Se não souber o sobrenome, use o número de prontuário ou outro dado
+estável; nunca use somente o primeiro nome.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada pasta mostra um identificador legível sem abrir.
+Ao pedir um exame antigo, você encontra a pasta em poucos segundos.
+Nenhuma folha fica no espaço de "sem identificação" por mais de um
+turno.
+O caderno registra quem recebeu cada resultado e em que data.
+
+FONTES
+------
+Prática consolidada de arquivamento e identificação de pacientes.
+Referência de segurança do paciente da OMS. Este texto é resumo
+operacional e não substitui treinamento nem protocolo local.

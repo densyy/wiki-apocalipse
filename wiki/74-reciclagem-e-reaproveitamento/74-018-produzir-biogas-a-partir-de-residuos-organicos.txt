@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 74-018
+TITULO: Como produzir biogás a partir de resíduos orgânicos
+CATEGORIA: 74 - Economia circular e reaproveitamento
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: local arejado, luvas, recipiente com tampa, mangueira, água
+REVISAO: 2026-11
+PALAVRAS-CHAVE: biogás, metano, biodigestor, resíduos, fermentar, gás
+==============================================================================
+
+OBJETIVO
+--------
+Montar um biodigestor pequeno e obter gás combustível a partir de
+sobras vegetais, sem usar fogo nem energia elétrica.
+
+QUANDO USAR
+-----------
+Ao descartar sobras de vegetais, frutas e hortaliças todos os dias.
+Quando houver esterco de animal herbívoro para iniciar a fermentação.
+Em abrigo com área externa arejada, longe de fogos e de crianças.
+Para aproveitar resíduos que virariam lixo e gerariam mau cheiro.
+
+NAO USE QUANDO
+--------------
+Em ambiente fechado, sem ventilação: o gás desloca o oxigênio.
+Perto de fogão, fogueira, vela ou fagulha: o metano explode.
+Quando não der para manter a saída de gás sempre livre.
+Se só houver sobras de carne, gordura ou fezes de carnívoro.
+
+MATERIAIS
+---------
+- Recipiente rígido de aproximadamente 20 litros com tampa.
+- Mangueira de borracha ou silicone que caiba no furo da tampa.
+- Segundo recipiente cheio de água para coletar o gás.
+- Bacia com água para apoiar o coletor de gás.
+- Sobras vegetais picadas bem pequenas.
+- Água limpa para fazer a mistura.
+- Esterco de herbívoro ou terra que já fermentou (inóculo).
+- Luvas e pano para limpar as mãos.
+- Fita adesiva ou cola para vedar as emendas.
+
+PROCEDIMENTO
+------------
+1. Faça um furo na tampa do recipiente do tamanho da mangueira.
+2. Passe a mangueira pelo furo e vede a emenda com fita ou cola.
+3. Encha o coletor com água e mergulhe a boca dele na bacia.
+4. Enfie a outra ponta da mangueira no coletor, debaixo d'água.
+5. Pique as sobras em pedaços de aproximadamente 2 cm.
+6. Misture sobras e água em partes iguais, aproximadamente, até
+   virar uma papa grossa.
+7. Junte aproximadamente uma parte de esterco para dez de mistura.
+8. Coloque a papa no recipiente até aproximadamente dois terços.
+9. Feche a tampa com firmeza e confira se não há vazamento.
+10. Pressione leve o recipiente: bolhas na água mostram a vedação.
+11. Deixe o conjunto em local quente e sombreado, ao ar livre.
+12. Mantenha a mangueira sempre livre e o coletor sempre com água.
+13. Observe por vários dias: as bolhas começam em aproximadamente
+    uma semana.
+14. Descarte o primeiro gás para fora, longe de qualquer chama.
+
+ATENCAO
+-------
+- O metano é inflamável: nunca aproxime chama, fagulha ou cigarro.
+- Não acumule gás em recipiente rígido e fechado: pode estourar.
+- Trabalhe sempre ao ar livre ou em lugar muito arejado.
+- O gás desloca o oxigênio e pode asfixiar em local fechado.
+- O gás pode conter sulfeto de hidrogênio, que irrita e intoxica.
+- Nunca use fezes humanas, de cães ou de outros carnívoros.
+- Não use carne, gordura, leite ou óleo: apodrecem e atraem animais.
+- Nunca tampe a saída de gás: a pressão pode romper o recipiente.
+- O resíduo final ainda tem micro-organismos: lave as mãos e não o
+  use em hortaliças que serão comidas cruas.
+- Mantenha crianças e animais afastados do conjunto.
+
+SE NAO TIVER
+------------
+- Sem esterco, use terra debaixo de esterco velho ou lodo de lago.
+- Sem mangueira, use qualquer tubo flexível vedado com fita.
+- Sem bacia, pendure a garrafa coletora de ponta cabeça na água.
+- Sem sol, embrulhe o recipiente em pano escuro para aquecer.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- Aparecem bolhas constantes na água do coletor.
+- A garrafa coletora perde água e enche de gás.
+- O resíduo dentro do recipiente fica mais escuro e com cheiro de terra.
+- A mistura deixa de cheirar a sobra podre e passa a cheirar a terra.
+
+FONTES
+------
+Agência de Proteção Ambiental dos EUA (EPA), página Anaerobic
+Digestion e programa AgSTAR, sobre digestão anaeróbia e biogás.
+Detalhes de montagem e segurança são prática consolidada de
+biodigestores caseiros; números marcados como aproximados.

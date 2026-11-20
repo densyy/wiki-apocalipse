@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 49-019
+TITULO: Como utilizar trocadores de calor
+CATEGORIA: 49 - Engenharia química e processos industriais
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: trocador de calor, dois fluidos, termômetro, manômetro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: trocador, calor, fluido quente, resfriamento, pressão
+==============================================================================
+
+OBJETIVO
+--------
+Transferir calor entre dois fluidos sem misturá-los, com segurança.
+
+QUANDO USAR
+-----------
+Quando precisar resfriar um fluido quente antes de armazená-lo.
+Quando precisar aquecer um fluido usando calor residual de outro.
+Quando precisar condensar vapor em um processo de destilação.
+Quando for preciso controlar a temperatura de uma reação.
+
+NAO USE QUANDO
+--------------
+Quando os fluidos não puderem se contactar em caso de vazamento.
+Quando a pressão ou a temperatura passar do limite do equipamento.
+Quando o trocador estiver corroído, rachado ou com vazamento.
+Sem saber qual fluido circula em cada lado e em que direção.
+
+MATERIAIS
+---------
+- Trocador de calor, o equipamento que transfere calor entre fluidos.
+- Ele mantém os fluidos separados por paredes de tubos ou placas.
+- Termômetro para medir a entrada e a saída de cada fluido.
+- Manômetro para medir a pressão quando o equipamento permitir.
+- Válvulas de entrada e saída em cada um dos circuitos.
+- Luva térmica, óculos e pano para manusear linhas quentes.
+- Recipiente e drenagem para recolher eventuais vazamentos.
+
+PROCEDIMENTO
+------------
+1. Identifique os dois circuitos e a direção de cada fluido.
+2. Confirme que o trocador serve para esses fluidos e pressões.
+3. Feche todas as válvulas de entrada e saída antes de começar.
+4. Abra a saída do circuito frio e depois a entrada do fluido frio.
+5. Deixe o circuito frio circular e estabilizar por alguns minutos.
+6. Abra devagar a saída do circuito quente para evitar golpe térmico.
+7. Abra a entrada do fluido quente aos poucos, observando a pressão.
+8. Ajuste as vazões até atingir a temperatura de saída desejada.
+9. Nunca ultrapasse a pressão e a temperatura marcadas no equipamento.
+10. Meça e anote as temperaturas de entrada e saída de cada fluido.
+11. Verifique vazamentos nas juntas, conexões e drenos a cada inspeção.
+12. Para parar, feche primeiro a entrada do fluido quente.
+13. Feche a saída quente, espere esfriar e só depois feche o frio.
+14. Drene o equipamento se for ficar parado ou em clima frio.
+
+ATENCAO
+-------
+Linhas quentes queimam; nunca toque tubulação quente sem luva.
+Fluidos sob pressão podem jorrar e causar queimaduras graves.
+Nunca abra linha pressurizada nem remova tampas com o sistema cheio.
+Se o fluido for tóxico ou corrosivo, vazamento pode intoxicar.
+Abrir o fluido quente antes do frio pode trincar o equipamento.
+Nunca ultrapasse os limites de projeto, mesmo com a leitura estável.
+Se houver vazamento, cheiro forte ou queda de pressão, pare e isole.
+Sinal de emergência: jato, vapor, ruído estranho ou temperatura subindo.
+Nesse caso, feche a entrada quente, isole a área e procure ajuda.
+
+SE NAO TIVER
+------------
+Sem manômetro, não opere acima da pressão conhecida de projeto.
+Sem termômetro, use a medição mais simples disponível e anote.
+Sem trocador, não improvise com recipiente pressurizado caseiro.
+Prefira parar o processo a arriscar queimadura ou contaminação.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O fluido quente sai mais frio e o frio sai mais quente que na entrada.
+As temperaturas de saída ficam estáveis por vários minutos.
+Não há vazamento, jato, umidade ou cheiro nas juntas e conexões.
+
+FONTES
+------
+Prática consolidada de operação de equipamentos de engenharia química
+e processos industriais. Orientação de segurança derivada de normas
+gerais de pressão e temperatura aplicadas a equipamentos industriais.
+Este texto é um resumo operacional e não substitui treinamento.

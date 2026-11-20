@@ -1,0 +1,104 @@
+==============================================================================
+CODIGO: 59-017
+TITULO: Como prevenir amputações e esmagamentos
+CATEGORIA: 59 - Segurança industrial e riscos ocupacionais
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: autorização do responsável, máquina parada, luvas e óculos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: amputação, esmagamento, máquina, proteção, prensa, guarda
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer os pontos que podem amputar ou esmagar e mantê-los protegidos.
+
+QUANDO USAR
+-----------
+Ao começar a operar uma máquina que você não conhece.
+Antes de limpar, ajustar ou desentupir prensas, serras e rolos.
+Depois de trocar ferramenta, molde, operador ou turno.
+Quando uma proteção foi removida para reparo e vai ser recolocada.
+Ao ver alguém trabalhar com as mãos perto de partes em movimento.
+
+NAO USE QUANDO
+--------------
+Não opere máquina sem proteção para "testar rápido" ou acelerar o serviço.
+Não remova, desvie ou inutilize guarda, intertrava ou parada de emergência.
+Não substitua treinamento e avaliação técnica por este texto.
+
+MATERIAIS
+---------
+- Autorização do responsável pela máquina e pela área.
+- Luvas adequadas ao risco de corte (couro para peças cortantes).
+- Óculos de proteção contra partículas e respingos.
+- Ferramenta própria para alimentar e retirar peças (pinça ou empurrador).
+- Cadeado e etiqueta de bloqueio, se for fazer limpeza ou reparo.
+- Caderno para registrar o que faltou corrigir (papel solto serve).
+
+PROCEDIMENTO
+------------
+1. Peça autorização ao responsável antes de chegar à máquina.
+2. Desligue e bloqueie a máquina antes de inspecionar ou limpar.
+3. Confirme que não ficou energia presa no sistema.
+4. Acione o botão de partida com a máquina bloqueada.
+5. Identifique a zona de trabalho, onde a peça é cortada, prensada ou moída.
+6. Identifique os pontos de aperto: engrenagens e correias.
+7. Olhe também rolos, correntes, eixos e qualquer peça que gire.
+8. Identifique partes que vibram ou projetam lascas e faíscas.
+9. Confira se existe guarda fixa cobrindo cada zona de risco.
+10. Confira se a guarda está presa por parafusos firmes.
+11. Use fixação que a pessoa não consiga retirar com a mão.
+12. Confira se a parada de emergência é vermelha, visível e perto da mão.
+13. Confira se o pedal tem tampa contra queda de objeto.
+14. Confira se a máquina está fixada ao piso e não caminha durante o uso.
+15. Teste a intertrava: com a guarda aberta, a máquina não deve partir.
+16. Anote toda guarda faltando, quebrada ou desligada e avise o responsável.
+17. Recoloque e fixe toda proteção antes de ligar a máquina novamente.
+18. Afaste mãos e dedos das zonas de risco.
+19. Tire mangas largas, cabelo solto, anéis e luvas frouxas.
+20. Use pinça ou empurrador, nunca a mão, ao movimentar a peça.
+21. Use os dois comandos de mão se a máquina pedir acionamento bilateral.
+22. Pare a máquina antes de retirar peça presa, ajustar ou mudar de molde.
+23. Retire o bloqueio só após fechar as proteções e sair do risco.
+24. Não retome o serviço sem a confirmação do responsável.
+
+ATENCAO
+-------
+Uma guarda fora do lugar pode amputar dedos em fração de segundo.
+Prensa, serra, rolo e cisalha não perdoam distração nem pressa.
+Nunca introduza a mão na zona de trabalho com a máquina ligada.
+Nem por um segundo: o acidente acontece antes de você reagir.
+Bloquear sem conferir deixa energia presa e a máquina pode partir.
+Luvas frouxas, mangas largas e anéis podem ser puxados para dentro.
+Sensor ou cortina de luz não substitui a guarda física.
+Se a proteção falta ou foi desligada, não opere: pare e avise.
+Se um membro ficar preso, não puxe a pessoa.
+Bloqueie a máquina e peça ajuda médica de imediato.
+
+SE NAO TIVER
+------------
+Sem cadeado, não faça reparo: peça o bloqueio ao responsável.
+Sem ferramenta de alimentação, use um empurrador de madeira longo e firme.
+Sem luva adequada, suspenda o contato com peças cortantes e peça reposição.
+Sem guarda original, monte só barreira fixa que impeça o alcance.
+Nunca use fita, pano ou arame como proteção.
+Na dúvida, deixe a máquina parada até o encarregado de segurança decidir.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Toda zona de corte e aperto está coberta por proteção fixa e firme.
+Com a guarda aberta, a máquina não parte quando você testa o comando.
+A parada de emergência para o movimento ao ser acionada.
+Você alimentou e retirou as peças sem colocar as mãos na zona de risco.
+Você entregou ao responsável a lista de proteções que faltavam.
+
+FONTES
+------
+Norma Regulamentadora 12 do Ministério do Trabalho e Emprego, sobre
+segurança em máquinas e equipamentos. Norma Regulamentadora 9, sobre
+agentes físicos.
+Regra 1910.212 da OSHA sobre proteção de máquinas e pontos de operação.
+Regra 1910.217 da OSHA sobre prensas mecânicas e dispositivos de segurança.
+Resumo operacional de prática consolidada; não substitui treinamento nem a
+avaliação do encarregado de segurança.

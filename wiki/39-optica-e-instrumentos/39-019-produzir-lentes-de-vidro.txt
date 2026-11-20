@@ -1,0 +1,97 @@
+==============================================================================
+CODIGO: 39-019
+TITULO: Como produzir lentes de vidro
+CATEGORIA: 39 - Óptica e instrumentos científicos
+TEMPO: 2 a 4 horas
+RISCO: alto
+EXIGE: óculos com proteção lateral, máscara, luvas, disco de vidro, abrasivo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: vidro, lente, lupa, moer, polir, abrasivo, aumento
+==============================================================================
+
+OBJETIVO
+--------
+Obter uma lente convexa rudimentar que amplia imagens a partir
+de um disco de vidro comum.
+
+QUANDO USAR
+-----------
+Quando falta uma lupa para ler letras miúdas.
+Quando um instrumento simples precisa de aumento.
+Para a lente de um telescópio ou microscópio improvisado.
+
+NAO USE QUANDO
+--------------
+Quando o vidro precisar ser fundido: forno caseiro não controla a
+temperatura. Não tente.
+Para óculos corretivos: o grau exige equipamento de medição.
+Sem óculos e máscara: não inicie. Descarte vidro rachado ou com
+bolhas.
+
+MATERIAIS
+---------
+- Disco de vidro plano e sem rachaduras, com cerca de 5 cm.
+- Segundo disco igual para servir de ferramenta (azulejo).
+- Carborundum em pó: grãos 80, 120, 220, 400 e 600.
+- Óxido de cério em pó (ou óxido de ferro).
+- Óculos com proteção lateral, máscara, luvas e fita adesiva.
+- Balde com água, pincel velho e frasco tampado para a pasta.
+- Bancada firme na altura da cintura e pano limpo.
+
+PROCEDIMENTO
+------------
+1. Coloque óculos, máscara e luvas antes de começar.
+2. Envolva a borda do disco com fita para proteger os dedos.
+3. Umedeça a bancada. Mantenha vidro e ferramenta sempre molhados.
+4. Umedeça a ferramenta, espalhe carborundum 80 e adicione água.
+5. Coloque o disco sobre a ferramenta, com a face a trabalhar baixa.
+6. Empurre o disco para frente e para trás, com curso de até um
+   terço do diâmetro.
+7. Gire o disco um quarto de volta a cada 5 a 10 traços.
+8. Pressione com força no grão 80. Reduza a força nos grãos finos.
+9. Troque a pasta quando o som de moagem ficar fraco.
+10. Lave discos, mãos, balde e bancada ao trocar de grão.
+11. Repita os passos 4 a 10 com os grãos 120, 220, 400 e 600.
+12. Pare quando a face estiver fosca, uniforme e sem marcas fundas.
+13. Prepare pasta de óxido de cério com água em frasco limpo.
+14. Esfregue a lente sobre a ferramenta com essa pasta, sem pressão.
+15. Continue até a face ficar transparente, sem aspecto leitoso.
+16. Lave com água limpa, seque com pano limpo e teste a leitura.
+
+ATENCAO
+-------
+Lascas cortam fundo e podem alojar-se no olho: nunca as retire com
+os dedos.
+Trabalhe molhado e com máscara. Nunca moa a seco: a poeira é irritante
+e, inalada por muito tempo, pode causar silicose.
+Um grão grosso risca a lente e obriga a voltar ao grão anterior.
+Não derreta vidro em casa. O forno atinge temperatura alta, libera
+radiação infravermelha e pode queimar grave ou causar incêndio.
+Mantenha o rosto afastado da ferramenta. Se entrar vidro no olho,
+pare, não esfregue e busque atendimento. Limpe só com pano úmido.
+
+SE NAO TIVER
+------------
+Sem carborundum, use areia fina peneirada; fica mais fosco e lento.
+Sem óxido de cério, use óxido de ferro ou pasta de dente branca.
+Sem segundo disco, use um azulejo de cerâmica como ferramenta.
+Sem máscara ou óculos, não faça o procedimento: consiga proteção.
+Sem vidro plano, não use vidro temperado: desfaz-se em fragmentos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A face ficou transparente, sem aspecto leitoso nem riscos visíveis.
+A borda tem chanfro liso, sem lascas soltas.
+A lente amplia letras pequenas; a imagem é nítida no centro.
+
+FONTES
+------
+Stellafane, escola amadora de telescópios: guia de moagem fina de
+espelhos; trabalhar molhado para evitar poeira e silicose; sequência
+de grãos e limpeza entre cada um.
+Katie Schwertz, "An Introduction to the Optics Manufacturing Process",
+OPTI 521, University of Arizona, 2008: geração, moagem, polimento.
+Newport Glass Works, "Grinding, Polishing and Figuring": carborundum
+e polimento com óxido de cério.
+Bullseye Glass, "Safety in the Kiln-Glass Studio": óculos, máscara,
+luvas e limpeza úmida. Prática consolidada; resumo operacional.

@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 10-042
+TITULO: Como economizar combustível durante uma crise
+CATEGORIA: 10 - Sobrevivência em ambientes naturais
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: calibrador de pneus, etiqueta de pressão ou manual, caderno e lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: gasolina, economia, pneus, marcha lenta, monóxido, reserva
+==============================================================================
+
+OBJETIVO
+--------
+Reduza o gasto de combustível e faça a reserva durar mais, sem criar
+risco de incêndio ou intoxicação por monóxido de carbono.
+
+QUANDO USAR
+-----------
+- Quando os postos fecham, ficam sem energia ou o combustível falta.
+- Quando é preciso estender uma reserva limitada por vários dias.
+- Quando uma viagem longa depende de pouco combustível no tanque.
+
+NAO USE QUANDO
+--------------
+- Quando a viagem for emergência médica: não arrisque chegar sem
+  combustível para economizar alguns litros.
+- Quando a economia exigir descalibrar pneus ou desligar o motor em
+  movimento: isso custa mais do que rende.
+- Quando não houver reserva de segurança para voltar ou pedir ajuda.
+- Quando o recipiente for improvisado: não use garrafa nem balde.
+
+MATERIAIS
+---------
+- Calibrador de pneus (bomba manual ou calibrador de posto).
+- Etiqueta de pressão na porta do motorista ou manual do veículo.
+- Caderno e lápis para anotar quilometragem e litros.
+- Galão homologado para combustível (nunca garrafa ou balde).
+- Bomba manual de transferência (nunca sifonar com a boca).
+
+PROCEDIMENTO
+------------
+1. Anote a quilometragem e os litros de um abastecido cheio.
+2. Divida os km rodados pelos litros para achar o consumo atual.
+3. Calibre os quatro pneus com a pressão da etiqueta, com pneus frios.
+4. Confira o óleo e use o grau recomendado no manual do veículo.
+5. Retire do carro peso que não serve: ferramentas e caixas paradas.
+6. Junte recados e compras em uma única saída, com o motor quente.
+7. Ao partir, acelere suave: sem arrancadas nem pisões no acelerador.
+8. Mantenha velocidade constante e respeite o limite da via.
+9. Reduza a velocidade: acima de aproximadamente 80 km/h o gasto sobe.
+10. Em estrada plana, use o cruise control para não variar a velocidade.
+11. Antecipe semáforos e curvas: freie devagar, sem freadas bruscas.
+12. Desligue o motor em paradas acima de aproximadamente 30 segundos.
+13. Use o ar-condicionado só quando necessário.
+14. Em baixa velocidade, abra a janela em vez do ar.
+15. Mantenha sempre uma margem de combustível para chegar a um posto.
+16. Guarde a reserva extra em galão homologado, fora de casa e ao ar livre.
+17. Anote o novo consumo após cada abastecido e compare com o primeiro.
+
+ATENCAO
+-------
+O que mata aqui é o monóxido de carbono e o fogo.
+Monóxido não tem cheiro: nunca ligue o motor dentro de garagem ou abrigo,
+mesmo com a porta aberta (CDC).
+Nunca use gasolina, álcool ou querosene para acender fogo ou aquecer casa.
+Não sifone com a boca: gasolina é tóxica e inflamável; use bomba manual.
+Guarde galões longe de fogo e calor, nunca dentro do carro: sol e
+atrito geram vapor e estática.
+Pneu abaixo da pressão correta superaquece e pode estourar: não descalibre.
+Não desligue o motor em movimento: direção e frenagem podem falhar.
+Com cheiro de combustível ou vazamento, pare e desligue o motor.
+Com tontura, dor de cabeça ou náusea perto do motor ligado, saia ao ar
+livre e procure ajuda: pode ser intoxicação por monóxido.
+
+SE NAO TIVER
+------------
+Sem calibrador, peça calibragem em um posto e confira com pneus frios.
+Sem etiqueta, use o manual do fabricante; sem manual, peça orientação.
+Sem cruise control, mantenha o pé firme e olhe o velocímetro.
+Sem galão homologado, não improvise com garrafa: vaza e pega fogo.
+Sem condições de dirigir, use transporte coletivo, carona ou bicicleta.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O consumo ficou menor em km por litro na segunda anotação.
+Os quatro pneus batem com a pressão da etiqueta, medidos frios.
+O carro acelera e freia suave, sem solavancos.
+O motor desliga e religa fácil nas paradas.
+A reserva durou mais dias do que antes das mudanças.
+
+FONTES
+------
+U.S. Department of Energy, "Gas-Saving Tips" (Alternative Fuels Data
+Center) e "Consumer Guide to Fuel Economy": calibragem de pneus, direção
+suave, combinar trajetos, reduzir peso, evitar marcha lenta.
+U.S. EPA, "Discover Fuel-Saving Tips": dirigir com suavidade, manter o
+veículo e usar transporte coletivo, carona ou bicicleta.
+CDC, "Carbon Monoxide Poisoning Basics", e NIOSH Alert 96-118: risco de
+monóxido em motores fechados; prática consolidada de direção e reserva.

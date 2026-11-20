@@ -1,0 +1,78 @@
+==============================================================================
+CODIGO: 06-001
+TITULO: Como construir uma latrina de emergência
+CATEGORIA: 06 - Higiene, saneamento e resíduos
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: pá ou enxada, terreno permeável longe de água
+REVISAO: 2026-11
+PALAVRAS-CHAVE: latrina, fossa, banheiro, fezes, privada, esgoto
+==============================================================================
+
+OBJETIVO
+--------
+Cavar uma fossa simples com tampa que isola as fezes do contato.
+
+QUANDO USAR
+-----------
+Quando o banheiro parou por falta de água ou de esgoto.
+Quando há gente abrigada sem privada por dias ou semanas.
+Quando o acampamento precisa de um ponto fixo para fezes.
+Quando há risco de diarreia se espalhando pelo quintal.
+
+NAO USE QUANDO
+--------------
+Em terreno que alaga, brejo, margem de rio ou nascente.
+A menos de aproximadamente 30 m de poço, nascente ou rio.
+Onde a água do solo aparece a menos de 1 m de profundidade.
+Em pedra pura onde não dá para cavar a fossa com a pá.
+
+MATERIAIS
+---------
+- Pá ou enxada para cavar (facão ou madeira dura com cuidado).
+- Troncos, tábuas ou porta velha para a tampa com assento.
+- Lona, sacos plásticos ou palha para a cabine e a cobertura.
+- Terra solta, cinza ou cal para cobrir as fezes após usar.
+- Balde com água e sabão para lavar as mãos ao lado.
+
+PROCEDIMENTO
+------------
+1. Escolha ponto alto e seco a aproximadamente 30 m da água.
+2. Cave um palmo de teste e confirme que a terra drena.
+3. Cave a fossa com aproximadamente 1 m de fundo.
+4. Deixe a boca com aproximadamente 60 cm de lado.
+5. Firme as bordas com pedras ou troncos contra desabar.
+6. Monte a tampa de tábuas deixando só o buraco de uso.
+7. Levante a cabine de lona ou palha para ter privacidade.
+8. Jogue uma camada fina de terra ou cinza no fundo.
+9. Use sempre no buraco e cubra as fezes com terra depois.
+10. Tampe o buraco com tábua quando não estiver usando.
+11. Lave as mãos com água e sabão toda vez depois de usar.
+
+ATENCAO
+-------
+Fezes a céu aberto espalham diarreia, cólera e vermes pela água.
+Fossa perto de poço contamina a água sem mudar gosto ou cheiro.
+Este procedimento não trata a água nem cura doença já instalada.
+Pare e procure ajuda se houver diarreia com sangue ou fraqueza.
+Nunca jogue lixo químico, pilha ou remédio dentro da fossa.
+Cubra sempre: mosca pousada em fezes contamina comida e mão.
+
+SE NAO TIVER
+------------
+Sem pá, cave com enxada, facão ou pedaço de madeira dura.
+Sem tábua, cruze troncos finos e deixe só o vão de uso.
+Sem lona, cerque com cobertor velho, palha ou galhos juntos.
+Sem cinza ou cal, use só terra seca a cada uso sem falta.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Não há fezes nem papel espalhados fora da fossa tampada.
+O cheiro diminui e quase não há mosca sobre a tampa.
+A chuva não empoça dentro da fossa nem arrasta sujeira.
+
+FONTES
+------
+Prática consolidada de saneamento de emergência em desastres
+(famílias de referência: OMS, IFRC e manual militar de
+sobrevivência civil). Resumo operacional, sem treinamento.

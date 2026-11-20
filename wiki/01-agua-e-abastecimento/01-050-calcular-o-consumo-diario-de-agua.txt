@@ -1,0 +1,71 @@
+==============================================================================
+CODIGO: 01-050
+TITULO: Como calcular o consumo diário de água
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 15 minutos
+RISCO: baixo
+EXIGE: papel, lápis, número de pessoas, dias sem reposição, clima
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, consumo, litros, pessoa, dia, reserva, sede
+==============================================================================
+
+OBJETIVO
+--------
+Calcular quantos litros de água o grupo precisa por dia e por quantos dias.
+
+QUANDO USAR
+-----------
+Antes de uma viagem ou fuga a pé, para decidir quanto carregar.
+Ao montar uma reserva em casa sem previsão de reposição.
+Quando o clima for quente ou houver esforço físico.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para este procedimento.
+O cálculo não substitui o tratamento da água antes de beber.
+
+MATERIAIS
+---------
+- Papel e lápis (ou qualquer superfície onde anotar).
+- Contagem de pessoas, dias sem reposição e clima previsto.
+
+PROCEDIMENTO
+------------
+1. Conte as pessoas do grupo e anote o total.
+2. Conte os dias sem reposição de água e anote.
+3. Decida o uso: só beber e cozinhar, ou incluir higiene.
+4. Use 3 litros por pessoa por dia em clima ameno e sem esforço.
+5. Aumente para aproximadamente 4 litros com calor ou caminhada.
+6. Use 7,5 litros se precisar incluir higiene no primeiro dia.
+7. Use 15 litros se houver higiene e cozimento durante a emergência.
+8. Use 20 litros para necessidades domésticas com fonte segura.
+9. Multiplique a meta escolhida pelo número de pessoas.
+10. Multiplique o resultado pelo número de dias.
+11. Some uma reserva de aproximadamente 1 dia e anote o total final.
+12. Compare o total com os recipientes e o peso que podem carregar.
+13. Se não couber, reduza dias antes de cortar a água de beber.
+
+ATENCAO
+-------
+Os números são metas de planejamento, não medida exata do corpo.
+A necessidade sobe com calor, umidade, febre e amamentação.
+Crianças, idosos, gestantes e doentes podem precisar de mais.
+Calcular não cria água: confirme a fonte no destino antes de partir.
+
+SE NAO TIVER
+------------
+Sem papel, repita os números em voz alta e some nos dedos.
+Sem dados do clima, escolha a maior meta entre as plausíveis.
+Sem medidor, use um recipiente de capacidade conhecida para contar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O total anotado é pessoas vezes meta diária vezes dias, mais 1 dia.
+Os litros cabem nos recipientes ou no peso que o grupo consegue levar.
+
+FONTES
+------
+OMS, orientações sobre água em emergências humanitárias; CDC, guia de
+reserva de água para emergências.
+Revisão sistemática da Cruz Vermelha da Bélgica (PLoS One, 2015).
+Metas de 3 a 5 litros para beber e 15 a 20 litros para uso doméstico.

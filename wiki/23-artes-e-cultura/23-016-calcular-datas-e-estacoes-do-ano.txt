@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 23-016
+TITULO: Como calcular datas e estações do ano
+CATEGORIA: 23 - Artes, cultura e preservação da civilização
+TEMPO: 20 minutos
+RISCO: baixo
+EXIGE: papel, lápis, uma data cujo dia da semana você conheça
+REVISAO: 2026-11
+PALAVRAS-CHAVE: data, ano bissexto, dia da semana, estação, solstício
+==============================================================================
+
+OBJETIVO
+--------
+Descobrir o dia da semana de uma data, o ano bissexto e a estação.
+
+QUANDO USAR
+-----------
+Quando precisar saber se fevereiro tem 28 ou 29 dias em um ano.
+Quando precisar achar o dia da semana ou a estação de uma data.
+
+NAO USE QUANDO
+--------------
+Para datas anteriores a 1582, antes do calendário gregoriano, nem
+para outros calendários. O cálculo não dá a hora exata das estações.
+
+MATERIAIS
+---------
+- Papel e lápis (ou carvão); data cujo dia da semana você saiba.
+
+PROCEDIMENTO
+------------
+1. Anote dia, mês e ano da data alvo.
+2. Divida o ano por 4: com resto, é comum, 365 dias, fevereiro
+   com 28. Sem resto, divida o ano por 100.
+3. Com resto ao dividir por 100, é bissexto: 366 dias, fevereiro
+   com 29. Sem resto, só é bissexto se dividir por 400.
+4. Conte os dias: 30 em abril, junho, setembro e novembro; 28 ou
+   29 em fevereiro; 31 nos outros meses.
+5. Escreva uma data conhecida e o dia da semana dela.
+6. Avance ano a ano até o ano alvo, mantendo dia e mês: um dia
+   por ano e mais um por 29 de fevereiro atravessado.
+7. Ajuste dia e mês contando os dias corridos até a data alvo,
+   sem contar o inicial. Some os saltos, divida por 7 e aplique
+   o resto ao dia conhecido; subtraia se a data for anterior.
+8. No sul: outono por volta de 20 de março, inverno 20 ou 21 de
+   junho, primavera 22 de setembro e verão 21 de dezembro.
+
+ATENCAO
+-------
+O erro comum é tratar ano divisível por 4 como bissexto sempre;
+anos de século só são se divisíveis por 400: 1900 e 2100 não,
+1600 e 2000 são. Confira com uma data conhecida.
+As datas variam um ou dois dias, trocam de nome no norte e não
+dão a hora exata do equinócio ou do solstício.
+
+SE NAO TIVER
+------------
+Sem papel, conte nos dedos; sem data, use o dia de hoje.
+Sem tabela, use meses: verão dez-fev, outono mar-mai, inverno
+jun-ago, primavera set-nov; aproximado, sem hora exata.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O ano achado é múltiplo de 4 não centenário, ou múltiplo de 400.
+Aplicado a uma data já conhecida, o cálculo devolve o mesmo dia.
+
+FONTES
+------
+Instituto Nacional de Meteorologia, Estações do Ano; INPE,
+Estações do Ano; USNO, Leap Years; NIST; NRC Canada; prática consolidada.

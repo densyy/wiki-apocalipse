@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 49-002
+TITULO: Como compreender processos industriais de separação
+CATEGORIA: 49 - Engenharia química e processos industriais
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: caderno, lápis, noção de estado físico da matéria
+REVISAO: 2026-11
+PALAVRAS-CHAVE: mistura, destilação, extração, adsorção, filtro, solvente
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer como uma mistura é dividida em correntes mais puras na indústria.
+
+QUANDO USAR
+-----------
+Ao ler um fluxograma e identificar o que cada etapa faz.
+Ao escolher entre destilar, extrair, filtrar ou adsorver.
+Ao diagnosticar por que uma separação não atinge a pureza esperada.
+
+NAO USE QUANDO
+--------------
+Não use para operar equipamento industrial sem treinamento.
+Não use para dimensionar colunas, bombas ou vasos.
+
+MATERIAIS
+---------
+- Caderno e lápis para desenhar as correntes.
+- Noção de sólido, líquido e gás.
+- Amostra simples, se houver, como água com sal ou areia.
+
+PROCEDIMENTO
+------------
+1. Escreva o nome da mistura de entrada no topo da folha.
+2. Relacione os componentes que se quer separar.
+3. Identifique as fases presentes: sólido, líquido ou gás.
+4. Marque a propriedade que difere entre os componentes.
+5. Escolha o agente separador: calor, solvente, adsorvente ou membrana.
+6. Desenhe as correntes de saída e o destino de cada uma.
+7. Classifique a etapa como equilíbrio ou como taxa de transferência.
+8. Verifique se o agente separador pode ser recuperado.
+9. Anote o que a etapa faz e o que ela não resolve.
+
+ATENCAO
+-------
+- Entender o princípio não habilita ninguém a operar uma planta.
+- Calor e solventes industriais podem queimar, intoxicar ou explodir.
+- Nunca abra vaso pressurizado nem manipule químico sem treinamento.
+- Uma etapa de separação quase nunca entrega pureza total sozinha.
+- Recuperar o solvente é parte do processo, não detalhe opcional.
+- Se houver cheiro forte, vazamento ou pressão subindo, saia e avise.
+
+SE NAO TIVER
+------------
+- Sem amostra, use um fluxograma ou um desenho de exemplo.
+- Se faltar o nome do solvente, anote a função dele, não o nome.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue apontar, para cada etapa, a propriedade explorada e as duas
+correntes de saída, sem consultar o texto.
+
+FONTES
+------
+- Separation Technologies for the Industries of the Future, National
+  Research Council, 1998.
+- Materials for Separation Technologies, DOE/EERE, 2005.
+- Industrial Separation Processes, de Haan, Eral e Schuur, 2021.
+- Transport Processes and Separation Process Principles, Geankoplis.

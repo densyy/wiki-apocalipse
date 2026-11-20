@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 17-011
+TITULO: Como reconhecer sinais de tempestades tropicais
+CATEGORIA: 17 - Meteorologia, clima e meio ambiente
+TEMPO: 15 minutos
+RISCO: alto
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: tempestade, ciclone, furacao, vento, nuvem, mare, aviso
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer sinais visiveis de uma tempestade tropical em aproximacao e
+decidir quando entrar em abrigo.
+
+QUANDO USAR
+-----------
+Na estacao chuvosa, ao notar vento ou ceu incomuns.
+Quando a Previsao do Tempo ou a Defesa Civil emitirem aviso para a regiao.
+Ao avistar nuvens altas e escuras se formando no horizonte.
+Na costa, quando o mar ficar mais agitado sem motivo aparente.
+Ao ouvir relatos de vento forte em localidades proximas.
+
+NAO USE QUANDO
+--------------
+Nao use comportamento de animais, cheiro no ar ou a chamada "calma antes
+da tempestade" como sinal de seguranca. Esses sinais populares nao tem
+base institucional e podem atrasar a entrada no abrigo.
+
+MATERIAIS
+---------
+- Nenhum material.
+- Barometro, se houver (opcional).
+- Radio a pilha para receber avisos (opcional).
+
+PROCEDIMENTO
+------------
+1. Observe o ceu a cada 30 minutos enquanto houver risco na regiao.
+2. Note nuvens baixas e escuras avancando, com torres que crescem para cima.
+   Cumulonimbus e o nome da nuvem de tempestade; ela pode trazer raios,
+   granizo e rajadas fortes.
+3. Repare se o topo dessas nuvens fica achatado e se alarga. Isso indica
+   que a tempestade esta madura e pode liberar chuva e vento a qualquer
+   momento.
+4. Preste atencao ao vento: rajadas que aumentam e mudam de direcao sao
+   sinal de aproximacao.
+5. Se tiver barometro, meça a pressao duas vezes com uma hora de intervalo.
+   Queda sustentada reforca o sinal de aproximacao de area de baixa pressao.
+6. Na costa, observe a agua: ondas maiores e agua subindo em direcao a
+   terra, mesmo sem mare de lua cheia, indicam mare de tempestade.
+7. Ouça radio, sirenes, alertas no celular e avisos de vizinhos.
+8. Ao notar dois ou mais sinais, entre no abrigo antes de ouvir o trovao.
+   Nao espere a chuva comecar.
+9. Escolha o interior de uma construcao resistente, longe de janelas.
+10. Se estiver na costa e houver ordem de evacuacao, va para terreno alto.
+11. Nao fique sob arvores, em galpoes nem perto de postes e fios.
+12. Se nao houver construcao, agache-se em local protegido, longe de
+    arvores, fios e areas que alagam.
+
+ATENCAO
+-------
+A mare de tempestade e a principal causa de mortes em furacoes. A agua
+pode avancar varios quilometros para dentro por baias, rios e estuarios.
+A inundacao por chuva forte e a segunda causa de mortes e pode durar
+dias depois de a tempestade ter passado.
+Vento e granizo quebram arvores e telhados. Fique longe de janelas.
+Seis polegadas (aproximadamente 15 cm) de agua em movimento derrubam uma
+pessoa. Um pe (aproximadamente 30 cm) arrasta um carro. Nao entre na agua.
+Ondas e correntes de retorno podem ser perigosas a mais de 1000 milhas
+(aproximadamente 1600 km) do centro da tempestade, mesmo com ceu limpo.
+Nao espere ver a nuvem para agir: escuridao e vento forte podem chegar
+juntos. Se o aviso oficial contradizer sua observacao, siga o aviso.
+
+SE NAO TIVER
+------------
+Sem barometro, use vento, nuvens e mar como sinais. Sem radio, combine
+com os vizinhos um apito ou sino para avisar a rua. Nao confie so na
+visao: a chuva densa pode esconder a aproximacao da tempestade.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Voce percebeu pelo menos dois sinais antes do vento forte e chegou ao
+abrigo sem atravessar area alagada. O abrigo e uma construcao resistente,
+em ambiente interno e longe de janelas. Na costa, voce saiu da faixa de
+agua antes de a mare subir.
+
+FONTES
+------
+Servico Nacional de Meteorologia dos EUA (NWS): seguranca em tempestades
+severas, seguranca em furacoes, orientacoes durante tempo severo e
+programa SKYWARN de observadores de tempestades.
+Centro Nacional de Furacoes (NHC) da NOAA.
+Administracao Nacional Oceanica (NOAA), Servico Nacional Oceanico:
+"What is a hurricane?".
+Agencia Federal de Gerenciamento de Emergencias dos EUA (FEMA/Ready.gov):
+orientacoes antes e durante furacoes.
+Resumo operacional. Nao substitui avisos oficiais da Defesa Civil.

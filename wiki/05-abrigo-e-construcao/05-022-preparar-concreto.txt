@@ -1,0 +1,81 @@
+==============================================================================
+CODIGO: 05-022
+TITULO: Como preparar concreto
+CATEGORIA: 05 - Abrigo, construção e habitação
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: cimento, areia grossa, brita, água limpa, enxada e balde
+REVISAO: 2026-11
+PALAVRAS-CHAVE: concreto, cimento, massa, reparo, base, piso
+==============================================================================
+
+OBJETIVO
+--------
+Misturar um concreto simples para fixar, calçar ou remendar base.
+
+QUANDO USAR
+-----------
+Quando precisa fixar um poste, mourão ou estaca no chão.
+Quando precisa calçar a base de um abrigo ou de um fogão.
+Quando precisa remendar um piso ou uma fundação pequena.
+Quando precisa fazer um bloco ou uma tampa simples de passagem.
+
+NAO USE QUANDO
+--------------
+Em estrutura que sustenta laje, viga ou telhado grande.
+Em barragem, poço de água de beber ou fossa sem projeto.
+Com cimento empedrado, vencido ou contaminado com terra.
+
+MATERIAIS
+---------
+- Cimento Portland em saco seco e soltinho (sem substituto).
+- Areia grossa lavada e peneirada (sem terra nem barro).
+- Brita pequena ou cascalho limpo de aprox. 1 cm (seixo).
+- Água limpa e sem barro, de beber se possível (água de rio).
+- Balde ou lata de medida, enxada, pá e superfície dura.
+- Luvas, óculos de proteção e máscara contra poeira.
+
+PROCEDIMENTO
+------------
+1. Calce luvas, óculos e máscara antes de abrir o cimento.
+2. Meça 1 balde de cimento, 2 de areia e 3 de brita.
+3. Espalhe a areia sobre superfície dura, limpa e seca.
+4. Jogue o cimento por cima e misture a seco até unir a cor.
+5. Jogue a brita por cima e misture a seco mais uma vez.
+6. Faça um buraco no meio da mistura como um vulcão pequeno.
+7. Despeje meio balde de água limpa aos poucos no buraco.
+8. Puxe a mistura seca das bordas para dentro com a enxada.
+9. Mexa até virar uma massa úmida, firme e sem pó solto.
+10. Adicione água aos poucos se ficar seca e esfarelando.
+11. Pare quando a massa escorregar devagar da pá sem escorrer.
+12. Lance o concreto na forma ou no buraco em até 1 hora.
+13. Soque com vara ou colher para tirar bolhas de ar de dentro.
+14. Cubra com pano úmido ou plástico e molhe por 3 dias.
+
+ATENCAO
+-------
+Poeira de cimento queima olho e falta ar: use máscara e óculos.
+Massa com cimento queima a pele: lave logo se encostar nela.
+Não respire o pó do saco e trabalhe de costas para o vento.
+Concreto mole demais racha e fraco demais quebra com peso.
+Não use em viga, laje ou pilar: isso exige cálculo e engenheiro.
+Molhe a cura por dias: sol forte resseca e racha a peça nova.
+
+SE NAO TIVER
+------------
+Sem brita, use cascalho limpo e duro do mesmo tamanho.
+Sem balde, use a mesma lata para medir todas as partes.
+Sem máscara, use pano dobrado e trabalhe ao ar livre.
+Sem luvas, cubra as mãos com sacos plásticos e lave após.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A massa fica úmida, firme e mantém a forma na pá.
+Não há pó seco solto nem água escorrendo por cima.
+Após dias, a peça fica dura e não esfarela com a unha.
+
+FONTES
+------
+Prática consolidada de preparo de concreto em obra
+(famílias de referência: manuais de construção civil
+e orientação da FEMA para reparos de emergência).

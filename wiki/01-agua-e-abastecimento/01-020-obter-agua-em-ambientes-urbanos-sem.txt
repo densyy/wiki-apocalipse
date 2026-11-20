@@ -1,0 +1,85 @@
+==============================================================================
+CODIGO: 01-020
+TITULO: Como obter água em ambientes urbanos sem abastecimento
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: recipiente limpo e tampado, lanterna, luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, sem água, prédio, encanamento, aquecedor, gelo, chuva
+==============================================================================
+
+OBJETIVO
+--------
+Obter água usável no prédio quando a rede para de abastecer.
+
+QUANDO USAR
+-----------
+Quando a torneira secou por obra, falta de energia ou rompimento da rede.
+Quando o registro do prédio foi fechado por aviso da companhia.
+Quando não há água engarrafada guardada e alguém tem sede.
+Quando é preciso cozinhar ou limpar antes da volta da rede.
+
+NAO USE QUANDO
+--------------
+Quando houver aviso de esgoto, combustível ou agrotóxico na rede.
+Quando a água da rua invadiu o prédio: enchente contamina tudo.
+Não use água de radiador, calefação ou piscina para beber.
+
+MATERIAIS
+---------
+- Recipiente limpo e tampado, sem tinta, óleo ou combustível.
+- Lanterna.
+- Luvas e algo para proteger os olhos (óculos).
+- Chave ou alicate para girar registros emperrados.
+- Pano limpo para coar (filtro de papel de café).
+
+PROCEDIMENTO
+------------
+1. Ouça o rádio ou os vizinhos e confirme se a rede está contaminada.
+2. Se houver aviso de contaminação, feche o registro geral da entrada.
+3. Localize o aquecedor de água da torneira, não o tanque da calefação.
+4. Desligue a energia: desarme o disjuntor, ou coloque o gás em piloto.
+5. Feche a válvula de entrada de água fria no topo do aquecedor.
+6. Abra uma torneira de água quente no andar mais alto para entrar ar.
+7. Coloque o recipiente sob a válvula de descarga na base do tanque.
+8. Abra a descarga devagar; a água pode estar muito quente.
+9. Afaste o rosto e as mãos, use luvas e proteja os olhos do jato.
+10. Feche a descarga quando o recipiente encher.
+11. Abra a torneira do andar mais alto para esvaziar os canos.
+12. Colete água na torneira do andar mais baixo, pouco a pouco.
+13. Em prédio, combine com os vizinhos: o registro pode ser comum.
+14. Derreta cubos de gelo feitos com água limpa.
+15. Aproveite o líquido de latas de fruta ou legume não submersas.
+16. Se só restar água de chuva do telhado, colete em recipiente limpo.
+17. Descarte a primeira água que escorre e guarde o restante tampado.
+18. Coe e trate antes de beber; para tratar, veja 01-001.
+
+ATENCAO
+-------
+A água quente do aquecedor pode queimar; nunca abra a descarga com as mãos
+nuas. Não religue energia ou gás com o tanque vazio: pode quebrar o
+aquecedor. Gás só volta com profissional; não tente acender o piloto sem
+treino. Água parada em canos pode ter bactérias; ferver mata germes, não
+chumbo. Água de telhado pode conter chumbo e fezes de animais: use só em
+último caso. Com odor de combustível, cor escura ou espuma, pare e procure
+outra fonte.
+
+SE NAO TIVER
+------------
+Sem aquecedor, use a água dos canos e o gelo.
+Sem recipiente limpo, improvise com garrafa de refrigerante bem lavada.
+Sem condição de tratar, guarde a água para higiene e procure ajuda.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O recipiente encheu e a descarga foi fechada sem jato quente nas mãos.
+A torneira alta parou de dar água e a baixa passou a escorrer.
+A água coletada está clara, sem cor escura nem cheiro de combustível.
+
+FONTES
+------
+Orientações da CDC e da FEMA sobre fontes de água em emergência (2025).
+Guia da Cruz Vermelha americana e do Consórcio de Abastecedores de Água.
+Estudo revisado por pares sobre água de chuva de telhados urbanos.
+Resumo operacional; não substitui treinamento nem aviso da Defesa Civil.

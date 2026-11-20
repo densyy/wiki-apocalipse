@@ -1,0 +1,82 @@
+==============================================================================
+CODIGO: 71-011
+TITULO: Como preservar chaves de recuperação
+CATEGORIA: 71 - Criptografia, segurança da informação e privacidade
+TEMPO: 20 minutos
+RISCO: medio
+EXIGE: papel, caneta, envelope opaco
+REVISAO: 2026-11
+PALAVRAS-CHAVE: chave recuperação, código backup, papel, conta, senha
+==============================================================================
+
+OBJETIVO
+--------
+Guarde chaves que devolvem o acesso à conta se o celular falhar.
+
+QUANDO USAR
+-----------
+Quando você ativa verificação em duas etapas e recebe códigos de backup.
+Quando troca de celular, número de telefone ou e-mail de recuperação.
+Quando entra em viagem longa sem o aparelho de autenticação.
+Quando guarda contas que só você pode recuperar.
+Quando recebe uma frase de recuperação de carteira ou cofre digital.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+Não compartilhe nem exponha as chaves: isso anula a proteção.
+
+MATERIAIS
+---------
+- Papel limpo.
+- Caneta ou lápis.
+- Envelope opaco para guardar as folhas.
+- Local trancado ou pessoa de confiança para guardar o envelope.
+
+PROCEDIMENTO
+------------
+1. Abra a configuração de segurança da conta em aparelho de confiança.
+2. Procure códigos de backup, alternativos ou a chave de recuperação.
+3. Anote todos os códigos no papel, um por linha, sem rasurar.
+4. Confira cada código digitado antes de sair da tela.
+5. Escreva o nome da conta e a data ao lado, sem escrever a senha.
+6. Guarde a folha no envelope e feche o envelope.
+7. Deixe o envelope em local trancado, longe do aparelho que protege.
+8. Marque no envelope quem pode abrir em caso de emergência.
+9. Nunca fotografe, envie por e-mail ou salve na nuvem os códigos.
+10. Risque um código no papel só depois de usá-lo com sucesso.
+11. Se usar um dos códigos, gere conjunto novo e repita os passos.
+12. Guarde a frase de recuperação da mesma forma, sem arquivo de texto.
+
+ATENCAO
+-------
+Sem as chaves, o serviço pode não devolver o acesso à conta.
+Quem tiver os códigos entra na conta sem precisar da senha.
+Cada código serve uma vez: um código usado não vale mais.
+Gerar códigos novos costuma desativar o conjunto antigo.
+Não guarde as chaves no mesmo aparelho, mochila ou gaveta do celular.
+Não escreva a senha junto: se perder o papel, perde as duas coisas.
+Se o papel molhar, rasgar ou sumir, gere novos códigos e reescreva.
+
+SE NAO TIVER
+------------
+Sem papel, use um pedaço de papelão limpo ou uma etiqueta.
+Sem envelope, dobre a folha e guarde em lugar trancado.
+Sem local seguro, entregue o envelope fechado a pessoa de confiança.
+Sem condição de imprimir, copie os códigos à mão.
+Não guarde os códigos só na memória nem só no celular.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Todos os códigos estão legíveis no papel, um por linha.
+O envelope está fechado e guardado longe do aparelho protegido.
+Você sabe qual código já foi usado porque ele está riscado.
+
+FONTES
+------
+NIST SP 800-63B, Diretrizes de Identidade Digital, seção 5.1.2:
+chaves de recuperação são segredos de consulta guardados pelo usuário
+para o caso de perda ou falha de outro autenticador.
+Central de Ajuda do Google, página "Fazer login com códigos
+alternativos": imprimir e guardar em lugar seguro, não compartilhar,
+cada código vale uma vez e gerar conjunto novo se houver perda.

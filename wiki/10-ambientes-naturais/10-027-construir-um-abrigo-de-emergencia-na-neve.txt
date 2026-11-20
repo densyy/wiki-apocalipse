@@ -1,0 +1,85 @@
+==============================================================================
+CODIGO: 10-027
+TITULO: Como construir um abrigo de emergência na neve
+CATEGORIA: 10 - Sobrevivência em ambientes naturais
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: neve acumulada, algo para cavar, ramos ou lona, roupa impermeável
+REVISAO: 2026-11
+PALAVRAS-CHAVE: neve, abrigo, frio, hipotermia, ventilação, sobrevivência
+==============================================================================
+
+OBJETIVO
+--------
+Construa um abrigo de neve que bloqueie o vento e mantenha o corpo seco e
+isolado do solo até a tempestade passar ou chegar ajuda.
+
+QUANDO USAR
+-----------
+Quando você for surpreendido por neve forte longe de edifícios ou veículos.
+Quando a temperatura cair e o vento aumentar durante a noite.
+Quando não houver tenda, mas houver neve acumulada suficiente.
+Quando precisar esperar socorro em campo aberto coberto de neve.
+
+NAO USE QUANDO
+--------------
+Não construa em encosta com risco de avalanche, sob árvores mortas ou em
+leito de riacho seco. Não use se a neve for rasa demais para escavar.
+Se houver abrigo próximo, procure-o antes de gastar energia cavando.
+
+MATERIAIS
+---------
+- Neve acumulada com pelo menos aproximadamente 3 metros de profundidade.
+- Pá, machado, faca forte ou as mãos protegidas por luvas.
+- Ramos de árvores ou lona para forrar o chão (cobertura de plástico).
+- Luvas, gorro e roupa impermeável para trabalhar sem molhar.
+- Bastão ou estaca para marcar a entrada e o furo de ar.
+
+PROCEDIMENTO
+------------
+1. Escolha um monte de neve firme, alto e plano, longe de árvores mortas.
+2. Evite encostas íngremes, leitos de riacho e áreas de avalanche.
+3. Marque com a estaca o ponto da entrada, no lado oposto ao vento.
+4. Cave a entrada na base do monte até abrir um túnel baixo e estreito.
+5. Escave para dentro e para cima, formando uma cúpula no teto.
+6. Deixe o teto em arco para resistir e escorrer a água derretida.
+7. Deixe a cama mais alta que a entrada para a água escorrer para fora.
+8. Abra um pequeno sulco entre a cama e a parede para escoar a água.
+9. Faça um furo de ar no teto com o bastão e mantenha-o sempre aberto.
+10. Forre o chão com ramos ou lona antes de deitar; nunca durma na neve.
+11. Empurre neve solta para dentro e compacte as paredes com as mãos.
+12. Acumule neve em volta da entrada e deixe material para fechá-la.
+13. Entre rastejando e feche a entrada com neve compactada por dentro.
+
+ATENCAO
+-------
+Hipotermia mata: tremor, confusão e fala enrolada são sinais de alerta.
+Temperatura do corpo abaixo de 35 C é emergência: procure ajuda imediata.
+Construir o abrigo gasta energia e molha a roupa; troque peças úmidas.
+Nunca durma sem o furo de ar: chama dentro consome oxigênio e solta
+monóxido de carbono, sem cor nem cheiro, que pode matar sem aviso.
+Dor de cabeça, tontura ou lábios vermelho-cereja pedem ar fresco já.
+Não faça fogo dentro do abrigo; se acender algo, deixe a ventilação aberta.
+Neve derretida no teto pode cair e encharcar você; não superaqueça o abrigo.
+Se a neve rachar ou ceder, saia imediatamente e reforce ou mude de lugar.
+
+SE NAO TIVER
+------------
+Sem monte fundo, cave um poço junto ao tronco de uma árvore cheia de ramos.
+Forre o fundo com ramos e cubra o topo com mais ramos para reter o calor.
+Sem pá, use as mãos com luvas, um prato rígido ou um pedaço de madeira.
+Sem ramos nem lona, deite sobre neve bem compactada e mais grossa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O abrigo não deixa o vento entrar e o interior fica sem correntes de ar.
+A roupa e o chão forrado permanecem secos ao toque.
+O furo de ar deixa passar ar e a respiração não fica abafada dentro.
+A superfície interna do teto permanece firme, sem rachaduras ou gotas.
+
+FONTES
+------
+Manual de sobrevivência do Exército dos Estados Unidos FM 21-76 / FM 3-05.70
+(caverna de neve, abrigo de poço de árvore, drenagem, isolamento e risco de
+monóxido de carbono); orientações da Cruz Vermelha, do CDC e da FEMA sobre
+hipotermia, congelamento e segurança contra monóxido de carbono no frio.

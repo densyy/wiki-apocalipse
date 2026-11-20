@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 59-003
+TITULO: Como identificar riscos químicos em oficinas
+CATEGORIA: 59 - Segurança industrial e riscos ocupacionais
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: caderno, lápis, lanterna, luvas de borracha
+REVISAO: 2026-11
+PALAVRAS-CHAVE: risco químico, oficina, rótulo, fispq, pictograma, cheiro
+==============================================================================
+
+OBJETIVO
+--------
+Listar os produtos químicos da oficina e o risco de cada um.
+
+QUANDO USAR
+-----------
+Ao entrar em oficina que você não conhece.
+Quando chega produto novo e ninguém leu o rótulo.
+Quando há cheiro forte, poeira ou vapor no ar.
+Antes de guardar, misturar ou descartar algo sem nome.
+Depois de derramamento ou acidente com produto químico.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Caderno e lápis para anotar.
+- Lanterna para ler rótulos (luz do celular serve).
+- Luvas de borracha (pano seco serve para segurar o frasco).
+- FISPQ (ficha de segurança do produto) de cada produto, se houver.
+
+PROCEDIMENTO
+------------
+1. Percorra a oficina em dois horários e anote cada produto encontrado.
+2. Siga o caminho dos produtos: compra, recebimento, guarda, uso e descarte.
+3. Anote o nome comercial e copie a palavra de advertência do rótulo.
+4. Anote as frases de perigo e os pictogramas de cada produto.
+5. Escreva no caderno o que cada pictograma indica.
+6. Peça a FISPQ ao fornecedor de todo produto sem rótulo.
+7. Leia na FISPQ a seção 2 (perigos), a 8 (proteção) e a 11 (toxicidade).
+8. Anote por onde cada produto entra: vapor, poeira, pele, olhos ou boca.
+9. Observe se há pó ao pesar, vapor ao misturar e frasco aberto.
+10. Separe na lista os inflamáveis, corrosivos e tóxicos.
+
+ATENCAO
+-------
+Rótulo e FISPQ podem estar desatualizados; confirme com o fornecedor.
+Nunca cheire, prove ou abra frasco desconhecido para identificar.
+Este procedimento não mede concentração no ar nem substitui laudo técnico.
+Se houver vazamento, fogo ou sintomas, pare e acione a emergência.
+Misturar produtos sem saber a reação pode gerar gás tóxico ou incêndio.
+
+SE NAO TIVER
+------------
+Sem FISPQ, use o rótulo e ligue para o telefone de emergência impresso nele.
+Sem rótulo, marque o frasco como Produto Desconhecido e não o use.
+Sem lanterna, leia o rótulo perto da janela ou com a luz do celular.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Todo produto da oficina está na lista com nome e rótulo lido.
+Os inflamáveis, corrosivos e tóxicos estão destacados na lista.
+
+FONTES
+------
+Metodologia de avaliação qualitativa de riscos químicos da Fundacentro.
+ABNT NBR 14725, NR-15 do Ministério do Trabalho e padrão OSHA 1910.1200.

@@ -1,0 +1,82 @@
+==============================================================================
+CODIGO: 07-011
+TITULO: Como reduzir a exposição à radiação
+CATEGORIA: 07 - Guerra, radiação e catástrofes nucleares
+TEMPO: 15 minutos
+RISCO: critico
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: radiação, exposição, abrigo, blindagem, fallout, distância
+==============================================================================
+
+OBJETIVO
+--------
+Reduza a dose de radiação que seu corpo recebe após liberação.
+
+QUANDO USAR
+-----------
+Quando houver alerta de acidente nuclear ou explosão nuclear.
+Quando vir poeira estranha após clarão forte sem trovão junto.
+Quando precisar sair de área com poeira radioativa no ar.
+Quando cuidar de alguém que esteve em poeira radioativa.
+Quando precisar buscar água ou ajuda com radiação por perto.
+
+NAO USE QUANDO
+--------------
+Não saia do abrigo para buscar parentes ou bens na hora da poeira.
+Não use este procedimento para tratar ferido grave sem se proteger.
+Não entre em prédio em chamas para se proteger da radiação.
+
+MATERIAIS
+---------
+- Prédio firme de tijolo ou concreto com porão ou miolo sem janela.
+- Roupa que cubra corpo todo, sapato fechado, pano ou máscara.
+- Saco plástico para isolar roupa e calçado contaminados.
+- Água engarrafada e comida em pote fechado para o abrigo.
+
+PROCEDIMENTO
+------------
+1. Entre no prédio firme mais próximo sem correr para longe.
+2. Vá para o porão ou miolo, longe de parede externa e telhado.
+3. Feche portas, janelas e damper da lareira ao entrar.
+4. Desligue ventilador e ar que puxe ar de fora, se possível.
+5. Tire a roupa de fora antes de entrar na sala limpa, se puder.
+6. Coloque a roupa tirada em saco plástico e amarre bem.
+7. Lave com sabão as partes do corpo que ficaram sem cobertura.
+8. Vista roupa limpa e leve animal para dentro, se houver.
+9. Fique abrigado por aproximadamente 24 horas sem sair.
+10. Ouça rádio a pilha e só saia com ordem da defesa civil.
+11. Saia rápido ao liberar e ande longe de poeira e entulho.
+12. Jogue fora comida aberta ou com poeira sem provar.
+
+ATENCAO
+-------
+Poeira sem cheiro nem gosto emite raio gama que atravessa roupa.
+Máscara e pano seguram poeira no pulmão mas não param raio gama.
+Roupa comum e guarda-chuva dão sensação de segurança sem blindar.
+Dose de corpo inteiro acima de aproximadamente 4 Gy pode matar.
+Ficar fora na primeira hora recebe a dose mais alta do fallout.
+Ferver água não tira material radioativo e pode concentrar o mal.
+Não tome iodo estável por conta sem ordem de autoridade de saúde.
+Vômito rápido, queimadura sem fogo e tontura pedem socorro urgente.
+Este texto não trata queimadura nem enjoo de radiação.
+
+SE NAO TIVER
+------------
+Sem porão, use centro de prédio firme no térreo sem janela.
+Sem prédio firme, use carro só para chegar ao prédio mais próximo.
+Sem saco plástico, deixe roupa de fora longe da sala do abrigo.
+Sem água engarrafada, use água guardada antes da poeira chegar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você entrou em minutos e ficou longe de parede e janela.
+Você passou aproximadamente 24 horas sem sair do abrigo.
+Você tirou roupa de fora e lavou pele antes de ficar com outros.
+
+FONTES
+------
+Guia de abrigo no local para risco nuclear da FEMA.
+Página sobre entrar, ficar dentro e acompanhar do CDC americano.
+Página sobre proteção com tempo, distância e blindagem da EPA.
+Página sobre reduzir exposição da Comissão Nuclear americana.

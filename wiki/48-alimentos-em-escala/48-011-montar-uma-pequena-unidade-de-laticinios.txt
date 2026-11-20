@@ -1,0 +1,88 @@
+==============================================================================
+CODIGO: 48-011
+TITULO: Como montar uma pequena unidade de laticínios
+CATEGORIA: 48 - Produção de alimentos em escala comunitária
+TEMPO: 8 horas
+RISCO: alto
+EXIGE: leite de animais saudáveis, termômetro, calor, refrigeração
+REVISAO: 2026-11
+PALAVRAS-CHAVE: leite, laticínios, pasteurização, higiene, queijo, iogurte
+==============================================================================
+
+OBJETIVO
+--------
+Montar e operar um ponto de leite com pasteurização e higiene.
+
+QUANDO USAR
+-----------
+Quando o grupo cria animais leiteiros e quer processar o próprio leite.
+Quando o leite cru precisa ser tratado antes de chegar à comunidade.
+Quando se quer iogurte, queijo ou manteiga de forma regular e controlada.
+
+NAO USE QUANDO
+--------------
+Quando não houver termômetro confiável para medir a temperatura.
+Quando os animais estiverem doentes ou em uso de antibióticos.
+Quando não houver frio para guardar o produto depois do processamento.
+Quando a água disponível não for limpa e potável.
+
+MATERIAIS
+---------
+- Área coberta, arejada e fácil de lavar, longe dos animais.
+- Balde de aço inox para a ordenha (ou plástico de uso alimentar).
+- Peneira e pano limpo para coar o leite.
+- Termômetro de cozinha com escala até 100 °C.
+- Panela grande, fogão ou outra fonte de calor controlada.
+- Colher e concha de aço inox.
+- Frascos de vidro com tampa para guardar o leite.
+- Geladeira ou caixa térmica com gelo.
+- Água limpa corrente e sabão para higienizar.
+- Fermento lácteo e coalho, se for fazer iogurte ou queijo.
+
+PROCEDIMENTO
+------------
+1. Escolha um local coberto, arejado e com piso que possa ser lavado.
+2. Instale uma pia ou ponto de água limpa perto da área de trabalho.
+3. Separe o local dos animais e da ração e do esterco.
+4. Lave e desinfete superfícies e utensílios antes de usar.
+5. Esterilize frascos e tampas em água fervente e deixe secar tampados.
+6. Receba leite de animais saudáveis, sem sinais de infecção na mama.
+7. Descarte o primeiro jato de cada mama, que concentra bactérias.
+8. Coe o leite ainda morno com peneira e pano limpo.
+9. Aqueça o leite em banho-maria até 63 °C e mantenha por 30 minutos.
+10. Meça a temperatura sem encostar o termômetro no fundo da panela.
+11. Resfrie depressa em banho de água fria com gelo.
+12. Guarde em frascos limpos e tampados, sob refrigeração.
+13. Rotule cada frasco com a data e a origem do leite.
+14. Lave os utensílios com água quente e sabão após cada uso.
+
+ATENCAO
+-------
+Leite cru pode transmitir brucelose, tuberculose, salmonelose e listeriose.
+Sem termômetro, não há como confirmar que a pasteurização funcionou.
+Não use leite de animal doente ou em tratamento com antibióticos.
+Não distribua leite cru como se fosse pasteurizado.
+Leite pasteurizado fora do frio permite que bactérias cresçam de novo.
+Descarte leite com cheiro, cor ou textura estranhos.
+Se alguém adoecer após consumir o produto, pare e procure ajuda médica.
+
+SE NAO TIVER
+------------
+Sem termômetro, não pasteurize: consiga um antes de distribuir leite.
+Sem geladeira, use caixa térmica com gelo.
+Processe apenas o que for consumir no mesmo dia.
+Sem peneira, dobre um pano limpo em várias camadas.
+Sem fermento lácteo, não improvise iogurte com leite cru.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O leite ficou 30 minutos entre 62 e 64 °C, sem ferver, e foi resfriado.
+Os frascos estão tampados, rotulados e guardados em gelo ou geladeira.
+O leite pasteurizado tem cheiro e aspecto normais depois do resfriamento.
+
+FONTES
+------
+Prática consolidada de higiene na ordenha e no processamento de leite.
+Parâmetros: Grade A Pasteurized Milk Ordinance da FDA (revisão 2023).
+21 CFR 1240.61 define 63 °C por 30 minutos ou 72 °C por 15 s.
+Este texto é um resumo e não substitui capacitação em laticínios.

@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 61-004
+TITULO: Como construir um viveiro de árvores
+CATEGORIA: 61 - Agricultura florestal e manejo de ecossistemas
+TEMPO: 6 horas
+RISCO: medio
+EXIGE: terreno com água, estacas, tela de sombra, ferramentas de corte
+REVISAO: 2026-11
+PALAVRAS-CHAVE: viveiro, muda, árvore, canteiro, sombrite, água, drenagem
+==============================================================================
+
+OBJETIVO
+--------
+Montar um viveiro simples para produzir mudas de árvores até o plantio.
+
+QUANDO USAR
+-----------
+Quando for preciso produzir mudas perto do local de plantio.
+Quando não houver viveiro comercial acessível na região.
+Quando o plantio será feito em área degradada ou de difícil acesso.
+Quando se quer controlar a origem e o cuidado das mudas.
+
+NAO USE QUANDO
+--------------
+Quando não houver fonte de água limpa disponível o ano todo.
+Quando o terreno for muito íngreme, alagadiço ou sombreado o dia todo.
+Quando a espécie exigir tratamento de semente que você não domina.
+
+MATERIAIS
+---------
+- Estacas de madeira ou bambu para os cantos e o teto (estacas de metal).
+- Tela de sombreamento, chamada sombrite, com cerca de 50% de sombra.
+- Corda ou arame para amarrar a tela (abrasadeiras de plástico).
+- Lona ou palha para cobertura provisória (folhas de palmeira).
+- Madeira ou tijolos para os canteiros (pedras).
+- Pá, enxada e faca ou tesoura de poda.
+- Sacos ou recipientes para as mudas, com furos de drenagem no fundo.
+- Areia, terra de boa qualidade e matéria orgânica para o substrato.
+- Baldes ou mangueira para irrigação (regador).
+- Cerca ou material para proteger contra animais (cerca viva).
+
+PROCEDIMENTO
+------------
+1. Escolha um terreno plano ou com inclinação de 1% a 3%.
+2. Confirme que há água limpa no local durante todo o ano.
+3. Retire plantas invasoras, raízes, tocos e pedras da área.
+4. Marque o contorno com estacas e corda, deixando corredores largos.
+5. Abra valas de drenagem ao redor se a água parar no terreno.
+6. Monte os canteiros com 0,8 a 1,2 m de largura e até 15 m de comprimento.
+7. Eleve os canteiros de 10 a 20 cm acima dos corredores para escoar água.
+8. Espete as estacas de canto e prenda a tela de sombra no alto.
+9. Deixe a tela firme, sem rasgos, e incline-a para escoar a chuva.
+10. Instale a cerca ou a cortina quebra-vento a pelo menos 15 m do viveiro.
+11. Encha os sacos com substrato de terra, areia e matéria orgânica.
+12. Abra furos de 0,5 a 0,7 cm no fundo e na parte baixa de cada saco.
+13. Regue no início da manhã ou no início da tarde, nunca no fim do dia.
+14. Observe a umidade por uma semana e ajuste a drenagem antes de semear.
+
+ATENCAO
+-------
+Sombra em excesso e umidade alta favorecem fungos que matam mudas.
+Água parada nas raízes apodrece as mudas; nunca pule a drenagem.
+Regar no fim da tarde deixa folhas molhadas à noite e abre porta a fungos.
+Estacas e ferramentas cortam: use luvas e apoie a tela antes de fixar.
+Vento forte e animais podem destruir o viveiro em uma noite.
+Não use água com sal, óleo, agrotóxico ou muita lama.
+Se aparecerem mudas murchas ou com manchas, pare de regar e procure ajuda.
+
+SE NAO TIVER
+------------
+Sem sombrite, use palha ou folhas de palmeira sobre ripas de madeira.
+Sem estacas de metal, use bambu ou madeira resistente e bem fincada.
+Sem mangueira, regue com balde ou regador pela manhã.
+Sem terra fofa, misture areia grossa ao solo argiloso do canteiro.
+Não improvise com tela impermeável: ela impede a troca de ar e mata mudas.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água da irrigação escoa pelos corredores e não fica parada nos canteiros.
+A tela está firme, sem rasgos, e projeta sombra uniforme.
+Após regar, o substrato fica úmido mas não encharcado.
+As primeiras mudas brotam e ficam verdes depois da germinação.
+
+FONTES
+------
+Viveirismo florestal: Embrapa Roraima (Arco-Verde e Moreira, 1998);
+Embrapa Amapá (Góes, 2006); Manual para Pequenos Viveiros Florestais,
+Iniciativa Verde; manual da FAO sobre árvores tropicais. Resumo
+operacional, não substitui treinamento técnico.

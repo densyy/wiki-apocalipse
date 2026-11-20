@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 59-022
+TITULO: Como criar um sistema comunitário de prevenção de acidentes
+CATEGORIA: 59 - Segurança industrial e riscos ocupacionais
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: caderno, caneta, pessoas da comunidade, acesso aos locais
+REVISAO: 2026-11
+PALAVRAS-CHAVE: acidente, prevenção, comunidade, risco, brigada, aviso
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma rede que identifica perigos e evita acidentes no grupo.
+
+QUANDO USAR
+-----------
+Ao viver em grupo isolado, longe de socorro rapido.
+Depois de um acidente ou quase acidente no local.
+Quando ha maquinas, fogo, quimicos ou trabalho em altura.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+Nao substitui treinamento profissional nem a lei trabalhista.
+
+MATERIAIS
+---------
+- Caderno e caneta para registrar perigos e decisoes.
+- Quadro ou papel para avisos e contatos.
+- Acesso aos locais, maquinas e produtos do grupo.
+
+PROCEDIMENTO
+------------
+1. Defina a area: casas, oficinas e postos do sistema.
+2. Escolha coordenador, suplente e brigada para cada area.
+3. Caminhe em dupla e anote os perigos encontrados.
+4. Escreva quem pode se machucar e como, para cada perigo.
+5. Classifique: grave se mata ou deixa sequela; leve se causa lesao.
+6. Elimine o perigo: retire o inutil e conserte o quebrado.
+7. Isole o resto com guarda, tampa, cerca ou sinal.
+8. Reduza exposicao com rodizio, pausa e treino curto.
+9. Registre no caderno: perigo, medida, responsavel e prazo.
+10. Combine o sinal de aviso e o ponto de encontro.
+11. Teste o sistema com simulacro e anote as falhas.
+
+ATENCAO
+-------
+Sistema simples nao substitui bombeiros, hospital ou treinamento.
+Pessoa sem treino pode se machucar; nao de a ela resgate ou incendio.
+Fumaca, cheiro de gas ou faisca exigem parar e avisar todos.
+
+SE NAO TIVER
+------------
+Sem caderno, use qualquer papel e guarde com os avisos.
+Sem voluntarios, comec com o coordenador e cresca aos poucos.
+Sem protecao, pare a tarefa de risco e mude o metodo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada area tem responsavel nomeado e contato anotado.
+Cada perigo tem medida e prazo; a lista tem data de revisao.
+O simulacro mostrou que o aviso chegou a quem precisava.
+
+FONTES
+------
+Pratica consolidada de prevenção comunitaria de lesoes e de brigadas
+locais. Centro de Prevenção de Lesoes do CDC: lesoes e violencia
+sao evitaveis com parcerias com a comunidade. Nao substitui treino.

@@ -1,0 +1,84 @@
+==============================================================================
+CODIGO: 03-091
+TITULO: Como identificar medicamentos que exigem cadeia de frio
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 15 minutos
+RISCO: alto
+EXIGE: embalagem e bula do medicamento, boa luz para leitura
+REVISAO: 2026-11
+PALAVRAS-CHAVE: remédio, geladeira, refrigeração, vacina, insulina, bula
+==============================================================================
+
+OBJETIVO
+--------
+Separar os remédios que precisam de geladeira dos que não precisam.
+
+QUANDO USAR
+-----------
+Quando receber remédios de doação, posto ou farmácia sem orientação.
+Quando faltar energia e precisar decidir o que vai para o frio.
+Quando encontrar vacina, insulina ou frasco com cheiro de remédio.
+Quando a caixa estiver molhada, quente ou sem etiqueta legível.
+Quando for montar um estoque doméstico de remédios essenciais.
+
+NAO USE QUANDO
+--------------
+Nao use este procedimento para decidir doses ou trocar remédios.
+Nao use remédio com etiqueta apagada ou prazo vencido.
+Nao aplique injeção sem treinamento e sem prescrição vigente.
+
+MATERIAIS
+---------
+- Embalagem original e bula do medicamento (ou caixa com rótulo).
+- Caneta e papel para anotar nome e condição de guarda.
+- Lanterna ou boa luz para ler letras pequenas.
+- Saco plástico limpo para separar os grupos.
+
+PROCEDIMENTO
+------------
+1. Reúna todos os remédios com caixa, frasco e bula juntos.
+2. Leia o item de conservação da bula ou do rótulo primeiro.
+3. Marque como frio todo o que pedir entre 2 e 8 graus.
+4. Marque como frio todo o que disser manter refrigerado.
+5. Marque como frio todo o que disser não congelar nem aquecer.
+6. Trate como frio insulina e vacinas mesmo sem bula legível.
+7. Trate como frio colírios e xaropes reconstituídos com aviso.
+8. Separe em dois sacos: um de frio e um de temperatura ambiente.
+9. Anote no saco o nome, a validade e a condição de guarda.
+10. Guarde o grupo de frio em geladeira entre 2 e 8 graus.
+11. Descarte para avaliação o que passou de calor ou congelou.
+
+ATENCAO
+-------
+Remédio quente ou congelado pode perder o efeito sem mudar de cor.
+Remédio sem efeito mantém a doença ativa e atrasa o socorro.
+Nunca prove, cheire forte ou aplique remédio para testar se presta.
+Interações comuns: insulina com jejum, álcool e outros remédios
+para diabetes aumentam o risco de queda de açúcar no sangue.
+Sinais de intoxicação: tremor, suor frio, confusão, sonolência,
+respiração difícil, manchas na pele, vômito ou desmaio.
+Pare e procure atendimento diante de qualquer um desses sinais.
+Leve caixa, bula e resto do remédio quando buscar ajuda.
+Congelar estraga vacina e insulina mesmo que pareçam normais.
+Calor dentro de carro ou perto de fogão estraga em poucas horas.
+Este artigo não receitar: use apenas conforme prescrição vigente.
+
+SE NAO TIVER
+------------
+Sem bula: considere frio se a caixa pedir geladeira ou frio.
+Sem geladeira: use caixa térmica com gelo, sem encostar no gelo.
+Sem termômetro: troque o gelo antes de derreter por completo.
+Sem etiqueta legível: não use; separe para avaliação profissional.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os dois grupos ficam separados e identificados no saco.
+Todo frasco de frio tem nome e condição anotados.
+Nenhum remédio de frio fica fora da geladeira ou térmica.
+
+FONTES
+------
+Prática consolidada de conservação de medicamentos com leitura
+de bula e rótulo; orientações da OMS sobre cadeia de frio de
+vacinas; orientações da Anvisa e do Ministério da Saúde sobre
+armazenamento e conservação descritos em bula.

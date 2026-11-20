@@ -1,0 +1,93 @@
+==============================================================================
+CODIGO: 16-028
+TITULO: Como calcular autonomia de deslocamento
+CATEGORIA: 16 - Transporte e mobilidade
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: caderno, lápis, dados de consumo e reservas medidas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: autonomia, alcance, combustível, água, distância, carro
+==============================================================================
+
+OBJETIVO
+---------
+Calcular a distância máxima que o grupo percorre antes de esgotar a água
+ou o combustível.
+
+QUANDO USAR
+-----------
+Antes de sair com veículo para área sem postos conhecidos.
+Ao planejar caminhada de vários dias sem pontos de água.
+Para decidir entre seguir de carro, bicicleta ou a pé.
+Quando a reserva caiu e ainda falta muito para o ponto seguro.
+Antes de aceitar desvio que aumente a distância até o destino.
+
+NAO USE QUANDO
+--------------
+Quando a rota ainda não estiver definida: sem distância conhecida, o cálculo
+não orienta decisão alguma.
+Nunca use o resultado para viajar sem margem: o número não garante chegada.
+
+MATERIAIS
+---------
+- Caderno e lápis (papel e carvão).
+- Dados de consumo do veículo em km por litro (manual ou medição).
+- Combustível disponível, incluindo reservas (em litros).
+- Água disponível por pessoa, em litros.
+- Mapa com distâncias ou odômetro (conta de passos).
+- Relógio (ou conta de copos de água).
+
+PROCEDIMENTO
+------------
+1. Escolha um meio por vez: veículo ou caminhada.
+2. Some o combustível do tanque e das reservas em litros.
+3. Anote o consumo do veículo em km por litro, do manual ou de medição.
+4. Multiplique os litros pelo consumo em km por litro.
+5. Se o dado for em litros por 100 km, anote esse valor.
+6. Divida 100 pelo valor e multiplique pelos litros disponíveis.
+7. Reduza em aproximadamente 25% em lama, areia, serra ou com carga pesada.
+8. Para caminhada, some a água de todas as pessoas em litros.
+9. Planeje aproximadamente 1 copo de 240 ml a cada 15 a 20 minutos em calor.
+10. Isso equivale a aproximadamente 0,7 a 1 litro por hora.
+11. Divida a água total pelo gasto por hora para obter horas de marcha.
+12. Multiplique as horas por aproximadamente 3 a 4 km por hora em plano.
+13. Reduza em aproximadamente 30% por subidas, mochila pesada e paradas.
+14. Se misturar carro e caminhada, adote o menor resultado.
+15. Compare com a distância até o ponto seguro mais próximo antes de sair.
+
+ATENCAO
+-------
+O cálculo tende a superestimar a autonomia real.
+Consumo sobe com lama, areia, subida, vento contra, pneus murchos e carga.
+Sem água em calor há desidratação e golpe de calor; sem combustível, o grupo
+fica preso.
+Nunca chegue ao destino com a reserva zerada, mesmo após os descontos.
+A orientação do CDC é para calor; em frio o gasto cai, mas não elimine a
+reserva de água.
+Fontes divergem sobre o ritmo de marcha: use o menor valor e mantenha a
+margem de 30%.
+Tontura, dor de cabeça, urina escura ou falta de suor: pare e procure ajuda.
+
+SE NAO TIVER
+------------
+Sem manual do veículo, meça o consumo.
+Abasteça até a borda e anote a quilometragem.
+Rode até o próximo abastecimento e divida os km pelos litros gastos.
+Sem medidor, conte os recipientes e anote quantos litros cada um cabe.
+Sem relógio, use a contagem de copos de água como referência de tempo.
+Sem dados de marcha, comece com 3 km/h e 1 litro por hora por pessoa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O número calculado está anotado e é menor que a distância permitida.
+A distância até o ponto seguro, mais a margem, cabe na autonomia calculada.
+Na chegada, ainda sobra água ou combustível na reserva.
+
+FONTES
+------
+Orientação de hidratação do CDC/NIOSH para trabalho em calor: 1 copo a cada
+15 a 20 minutos, sem passar de 6 copos por hora.
+Economia de combustível e variação de consumo: fueleconomy.gov, da EPA e do
+Departamento de Energia dos Estados Unidos.
+Ritmo de marcha e margens: manuais militares de sobrevivência civil,
+prática consolidada sem documento único.

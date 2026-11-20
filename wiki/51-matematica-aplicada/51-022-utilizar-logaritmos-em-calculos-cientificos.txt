@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 51-022
+TITULO: Como utilizar logaritmos em cálculos científicos
+CATEGORIA: 51 - Matemática aplicada à sobrevivência
+TEMPO: 25 minutos
+RISCO: baixo
+EXIGE: tabela de logaritmos, papel, lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: logaritmo, log, potência, grandeza, pH, decibel, conta
+==============================================================================
+
+OBJETIVO
+--------
+Transformar multiplicações em somas para calcular grandezas extremas.
+
+QUANDO USAR
+-----------
+Ao multiplicar números com muitos zeros ou muitas casas decimais.
+Ao dividir uma grandeza muito pequena por outra muito grande.
+Ao ler escalas logarítmicas: pH, decibéis ou magnitude de tremor.
+Ao estimar crescimento ou decaimento exponencial sem calculadora.
+
+NAO USE QUANDO
+--------------
+Quando a calculadora estiver disponível e o valor exato for necessário.
+Para dose de remédio, radiação ou química sem conferir por outra via.
+
+MATERIAIS
+---------
+- Tabela de logaritmos base 10 (ou calculadora com a tecla log).
+- Papel e lápis para separar característica e mantissa.
+
+PROCEDIMENTO
+------------
+1. Escreva cada número como mantissa entre 1 e 10 vezes uma potência de 10.
+2. Anote os expoentes das potências de 10 em uma coluna.
+3. Para multiplicar, some os logaritmos das mantissas em outra coluna.
+4. Para dividir, subtraia o logaritmo da mantissa do divisor.
+5. Leia na tabela o logaritmo de cada mantissa, um valor entre 0 e 1.
+6. Some os logaritmos e separe a parte inteira da parte decimal.
+7. Some os expoentes do passo 2 à parte inteira: é a característica.
+8. Na tabela, ache a mantissa cujo log mais se aproxima da parte decimal.
+9. Multiplique essa mantissa por 10 elevado à característica.
+10. Escreva em notação científica e confira a ordem de grandeza.
+
+ATENCAO
+-------
+O logaritmo de zero e de número negativo não existe na base 10.
+Somar logaritmos só funciona para multiplicação, nunca para soma.
+Erro de uma casa na característica muda o resultado dez vezes.
+Valores de tabela são aproximados: nunca os use para dose ou radiação.
+Se o resultado destoar da estimativa do passo 10, pare e refaça.
+
+SE NAO TIVER
+------------
+Sem tabela, use log 2 = 0,301 aproximado; log 3 = 0,477; log 5 = 0,699.
+Use log 7 = 0,845 e log 10 = 1; valores aproximados, salvo o último.
+Sem calculadora, decomponha a mantissa em fatores 2, 3, 5 e 7.
+Se o número não puder ser decomposto, marque o resultado como aproximado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A característica final é igual à ordem de grandeza prevista.
+O logaritmo da mantissa volta à parte decimal do passo 6.
+A conta inversa devolve o número inicial com pequena folga.
+
+FONTES
+------
+Prática consolidada de cálculo com logaritmos base 10 e tabelas.
+Não há documento único: são identidades padrão de matemática.

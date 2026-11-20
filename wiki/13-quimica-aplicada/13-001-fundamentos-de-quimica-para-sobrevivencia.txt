@@ -1,0 +1,97 @@
+==============================================================================
+CODIGO: 13-001
+TITULO: Como aplicar fundamentos de química para sobrevivência
+CATEGORIA: 13 - Química e conhecimentos científicos aplicados
+TEMPO: 35 minutos
+RISCO: alto
+EXIGE: luvas, óculos de proteção, água, recipientes limpos e rótulos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: química, diluição, dissolução, ph, alvejante, rótulo
+==============================================================================
+
+OBJETIVO
+--------
+Use noções básicas de química para dissolver, diluir, separar e
+evitar misturas perigosas sem desperdiçar material.
+
+QUANDO USAR
+-----------
+Ao preparar uma solução fraca a partir de um produto concentrado.
+Ao dissolver sal, açúcar ou desinfetante em água.
+Ao separar sujeira grossa de um líquido por repouso e filtração.
+Ao decidir se dois produtos podem ser misturados.
+Ao cuidar de água suspeita quando não for possível ferver.
+
+NAO USE QUANDO
+--------------
+Quando o recipiente não tiver rótulo legível ou estiver vazando.
+Quando o produto tiver cheiro forte, cor estranha ou sedimentos.
+Quando a mistura já aquecer, borbulhar ou soltar gás.
+Não use este guia para fabricar substâncias químicas.
+Não use para limpar derramamento industrial ou água com solvente.
+
+MATERIAIS
+---------
+- Luvas de borracha ou nitrilo.
+- Óculos de proteção.
+- Água limpa em quantidade suficiente.
+- Recipientes limpos com tampa e marcação de volume.
+- Colher, conta-gotas e pano limpo ou filtro de papel.
+- Produto com rótulo legível e ficha de dados de segurança, se houver.
+
+PROCEDIMENTO
+------------
+1. Leia o rótulo antes de abrir; identifique nome, concentração e avisos.
+2. Calce luvas e óculos; trabalhe do lado de fora ou com janela aberta.
+3. Não prove, não cheire diretamente e não misture produtos sem rótulo.
+4. Despeje sempre o concentrado na água, nunca água sobre concentrado.
+5. Meça a água, meça o produto e mexa devagar com colher limpa.
+6. Para alvejante comum, use aproximadamente 2 gotas por litro de água.
+7. Dobre a dose se a água estiver turva e mexa de novo.
+8. Espere aproximadamente 30 minutos; deve haver cheiro leve de cloro.
+9. Se não houver cheiro, repita a dose e espere mais 15 minutos.
+10. Dissolva sal ou açúcar mexendo; pare quando o pó parar de sumir.
+11. Deixe a água turva repousar e despeje a parte clara por cima.
+12. Coe a parte clara por pano limpo para tirar o sólido restante.
+13. Meça o ph com papel: 7 é neutro, abaixo é ácido, acima é básico.
+14. Anote no recipiente o nome, a dose e a data da preparação.
+
+ATENCAO
+-------
+Ferver ou desinfetar não remove metais, sais nem a maioria dos químicos.
+Nunca misture alvejante com amônia, vinagre, limão ou ácido: o gás
+liberado pode ferir os pulmões.
+Nunca despeje água sobre ácido concentrado: pode ferver e respingar.
+Sem ventilação, vapores se acumulam e podem causar tosse ou desmaio.
+Não dilua ácido forte, soda cáustica ou solvente sem treino e equipamento.
+Lave respingos com água corrente por aproximadamente 15 minutos.
+Se surgir gás, calor ou espuma fora do esperado, pare e saia do local.
+Na dúvida, não use: uma gota desconhecida pode queimar.
+
+SE NAO TIVER
+------------
+Sem conta-gotas, não improvise com colher: não use o produto.
+Sem papel indicador, não adivinhe o ph por sabor e não prove.
+Sem luvas, não abra o produto; leia o rótulo à distância.
+Sem alvejante, ferve a água em ebulição forte por pelo menos 1 minuto.
+Acima de aproximadamente 1000 metros, ferve por 3 minutos.
+Sem filtro de papel, use pano limpo; nunca use pano sujo.
+Sem ficha de segurança, use apenas o que está impresso no rótulo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O pó dissolveu por completo ou parou de sumir sem excesso visível.
+A água desinfetada tem cheiro leve de cloro depois do repouso.
+A camada clara ficou separada da sujeira e passou pelo pano.
+O recipiente está fechado, com nome, dose e data escritos.
+Nada foi provado, cheirado de perto ou misturado sem rótulo.
+
+FONTES
+------
+Manual da EPA sobre desinfecção de emergência de água potável, 2026:
+dose de alvejante, repouso, ebulição de 1 a 3 minutos por altitude.
+Folha informativa da OMS sobre água potável, 2023: contaminação,
+arsênio, flúor e chumbo.
+Prática consolidada de laboratório e primeiros socorros: concentrado
+na água, nunca alvejante com amônia ou ácidos, lavar após respingo.
+Escala de ph e dissolução: conhecimento elementar de química geral.

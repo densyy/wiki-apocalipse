@@ -1,0 +1,82 @@
+==============================================================================
+CODIGO: 77-009
+TITULO: Como construir um sistema de comunicação por sinos
+CATEGORIA: 77 - Comunicação anterior à eletricidade
+TEMPO: 90 minutos
+RISCO: baixo
+EXIGE: sino, badajo, corda, suporte firme e codigo de toques
+REVISAO: 2026-11
+PALAVRAS-CHAVE: sino, toque, badajo, corda, aviso, horario, distancia
+==============================================================================
+
+OBJETIVO
+--------
+Montar um aviso sonoro que chega a quem estiver fora do alcance da voz.
+
+QUANDO USAR
+-----------
+Para chamar pessoas para refeicao, reuniao ou trabalho.
+Para avisar de chegada, incendio ou animal solto.
+Quando as casas estiverem espalhadas e a vista estiver bloqueada.
+Ao marcar horarios sem depender de relogio.
+
+NAO USE QUANDO
+--------------
+Nao toque sino rachado, que pode partir e ferir alguem.
+Nao puxe a corda com o corpo enrolado nela.
+Nao use toques demorados de noite se isso perturbar doentes.
+Nao invente codigo novo sem avisar toda a comunidade.
+
+MATERIAIS
+---------
+- Sino de metal sem rachaduras (campainha ou tubo metalico).
+- Badajo preso por corda ou corrente curta (pote de metal).
+- Corda resistente presa ao badajo (cipó ou cordao de pano).
+- Suporte de madeira ou vigia firme para pendurar o sino.
+- Tabela com o numero de toques e o significado de cada um.
+
+PROCEDIMENTO
+------------
+1. Escolha lugar alto e central, livre para o som circular.
+2. Verifique se o sino esta inteiro, sem borda cortante.
+3. Prenda o badajo com corda curta e no dupla.
+4. Pendure o sino no suporte com pino ou corda firme.
+5. Amarre a corda longa ao badajo e deixe-a ao alcance da mao.
+6. Fique de lado quando puxar, nunca embaixo do sino.
+7. Combine o significado de um, dois e tres toques.
+8. Reserve uma sequencia longa para aviso de perigo.
+9. Toque com intervalo regular para facilitar a contagem.
+10. Repita a sequencia quando o aviso for importante.
+11. Confira se o som chega ao ponto mais distante da comunidade.
+12. Escreva a tabela e deixe-a junto ao sino.
+13. Seque a corda e o pino apos cada chuva.
+14. Ensinem as criancas a nao puxar a corda por brincadeira.
+
+ATENCAO
+-------
+Sino rachado pode soltar pedaço e cortar: retire-o de uso.
+Corda molhada pesa e pode puxar o suporte para baixo.
+Pino enferrujado cede sem aviso: troque antes que isso aconteça.
+Toque de noite pode atrapalhar o sono de doentes e bebes.
+Codigo nao combinado gera confusao e pode causar dano.
+Se o suporte balancar, pare e reforce antes de tocar de novo.
+
+SE NAO TIVER
+------------
+Sem sino, use tubo metalico pendurado ou panela de ferro.
+Sem badajo, bata com pedra pequena presa em corda.
+Sem suporte, use galho firme de arvore resistente.
+Sem tabela, combine tres toques basicos e ensine a todos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O som e ouvido nos pontos mais distantes da comunidade.
+Cada sequencia de toques e entendida sem explicacao extra.
+A corda, o pino e o badajo estao firmes e secos.
+Ninguem ficou ferido ao puxar a corda.
+
+FONTES
+------
+Pratica consolidada de avisos por sino em comunidades rurais e
+religiosas, anterior a eletricidade. O significado dos toques
+e sempre uma combinacao local, registrada por escrito.

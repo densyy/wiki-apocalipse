@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 08-038
+TITULO: Como produzir pregos
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: varão de ferro, fogo, bigorna, martelo, pinça, placa furada, óculos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: prego, ferro, forjar, ponta, cabeça, varão, martelo
+==============================================================================
+
+OBJETIVO
+--------
+Fabricar pregos com ponta e cabeça, a partir de varão de ferro.
+
+QUANDO USAR
+-----------
+Quando faltarem pregos de loja para fixar madeira no acampamento.
+Quando houver varão de ferro e fogo forte para fazer os próprios pregos.
+
+NAO USE QUANDO
+--------------
+Ferro fundido ou aço duro racham e podem estilhaçar sob o martelo.
+Sem fogo, bigorna ou placa com furo, não faça.
+
+MATERIAIS
+---------
+- Varão ou arame de ferro macio, reto, sem ferrugem profunda.
+- Fogo de fornalha ou brasas fortes com sopro.
+- Bigorna ou bloco de aço maciço com face plana.
+- Martelo.
+- Pinça para segurar o metal quente.
+- Placa de ferro com furo do diâmetro do varão (cabeçalho de prego).
+- Óculos de proteção.
+
+PROCEDIMENTO
+------------
+1. Corte o varão em pedaços do comprimento do prego desejado.
+2. Aqueça um pedaço nas brasas até brilhar em amarelo-alaranjado.
+3. Apoie a extremidade quente sobre a bigorna.
+4. Bata em ângulo e gire o varão até afunilar a ponta.
+5. Reaqueça o pedaço até brilhar em amarelo-alaranjado.
+6. Enfie a extremidade grossa no furo da placa.
+7. Bata na ponta acima da placa para achatar a cabeça.
+8. Retire com a pinça e deixe esfriar sobre areia ou pedra.
+9. Repita com os demais pedaços.
+
+ATENCAO
+-------
+Metal quente queima: use a pinça e afaste o rosto da bigorna.
+Careta de óxido e fragmentos voam ao bater: use óculos de proteção.
+Pare se o metal rachar ou não voltar a brilhar depois de reaquecido.
+
+SE NAO TIVER
+------------
+Sem placa com furo, recalque a extremidade quente na bigorna para
+engrossá-la; a cabeça sai irregular, use só se o aperto não for crítico.
+Sem varão de ferro macio, não improvise com ferro fundido.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A ponta fica afunilada e a cabeça fica achatada, mais larga que o varão.
+A cabeça não tem folga e não se solta quando o prego é batido na madeira.
+
+FONTES
+------
+Prática consolidada de ferraria tradicional para fazer pregos à mão,
+sem documento único: aquecer o varão, afunilar a ponta e recalcar a
+cabeça em placa furada. Wikipedia (prego, ferraria) serviu só como
+pista para as referências; não substitui treinamento com ferreiro.

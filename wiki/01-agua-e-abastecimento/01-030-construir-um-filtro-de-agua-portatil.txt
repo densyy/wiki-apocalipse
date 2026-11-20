@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 01-030
+TITULO: Como construir um filtro de água portátil
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: garrafa plástica, areia, carvão, pano limpo, água para filtrar
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, filtro, areia, carvão, garrafa, purificar, coar
+==============================================================================
+
+OBJETIVO
+--------
+Montar um filtro portátil que clareia água turva antes da desinfecção.
+
+QUANDO USAR
+-----------
+Quando a água está turva, com lama ou partículas visíveis.
+Quando não há filtro de fábrica nem pastilhas desinfetantes.
+
+NAO USE QUANDO
+--------------
+Com cheiro de combustível ou agrotóxico, troque de fonte de água.
+
+MATERIAIS
+---------
+- Garrafa plástica de 1 ou 2 litros, limpa, sem resíduo químico.
+- Areia fina peneirada, cascalho lavado e pano limpo.
+- Carvão vegetal em pedaços, sem brasa nem cinza (ou carvão ativado).
+- Filtro de papel ou papel-toalha (no lugar do pano).
+- Faca ou tesoura; recipiente limpo e tampado.
+
+PROCEDIMENTO
+------------
+1. Lave a garrafa, as pedras, a areia e o pano com água limpa.
+2. Corte a garrafa ao meio; a borda fica cortante, tome cuidado.
+3. Vire o gargalo para baixo e prenda um pano limpo dobrado nele.
+4. Coloque aproximadamente 5 cm de areia fina sobre o pano.
+5. Coloque aproximadamente 3 cm de carvão e, por cima, 3 cm de cascalho.
+6. Despeje a água turva devagar, sem revolver as camadas.
+7. Deixe escorrer e recolha a água no recipiente limpo e tampado.
+8. Descarte o primeiro fio se sair areia ou cor escura.
+9. Ferva a água coletada por 1 minuto de ebulição forte antes de beber.
+10. Acima de 2.000 m de altitude, ferva por 3 minutos. Veja 01-001.
+
+ATENCAO
+-------
+O filtro retira lama e partículas, mas não elimina vírus, bactérias
+nem parasitas. Água clara não é potável: ferva ou desinfete depois.
+Não serve para químicos, metais, sal nem material radioativo.
+Areia suja entope e abriga micro-organismos: lave e refaça o filtro.
+CDC e EPA divergem sobre 3 minutos: 2.000 m ou 1.000 m. Na dúvida, use 3.
+Pare se aparecer diarreia forte, vômito ou febre.
+
+SE NAO TIVER
+------------
+Sem areia, use só pano limpo dobrado várias vezes.
+Sem carvão, pule a camada; não use cinza, brasa ou serragem.
+Sem garrafa, prenda um pano em forma de funil entre dois recipientes.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água coletada sai sem areia visível e mais clara que a de entrada.
+Após a fervura, esfriou tampada em recipiente limpo.
+
+FONTES
+------
+Orientações do CDC, da EPA e da OMS sobre água segura em emergência.
+Prática consolidada de filtros de areia e carvão, sem documento único.

@@ -1,0 +1,84 @@
+==============================================================================
+CODIGO: 74-014
+TITULO: Como recuperar componentes eletrônicos
+CATEGORIA: 74 - Economia circular e reaproveitamento
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: ferro de solda, sugador de solda ou malha, multímetro, ventilação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: componentes, peças, solda, dessoldar, reaproveitar, placa
+==============================================================================
+
+OBJETIVO
+--------
+Retirar peças úteis de placas descartadas sem quebrar os componentes.
+
+QUANDO USAR
+-----------
+Quando uma placa queimada ainda tem peças que servem em outro aparelho.
+Quando faltar um resistor, capacitor, conector ou LED para um reparo.
+Quando não houver peça nova disponível e for preciso reaproveitar.
+
+NAO USE QUANDO
+--------------
+Quando a placa estiver ligada à energia ou com bateria conectada.
+Quando houver suspeita de mercúrio, chumbo solto ou bateria inchada.
+Quando o componente estiver queimado, rachado ou com cheiro de queimado.
+Quando não houver ventilação para a fumaça da solda.
+
+MATERIAIS
+---------
+- Ferro de solda de ponta fina (ou ferro de solda a gasolina).
+- Sugador de solda ou malha de cobre para retirar o estanho.
+- Multímetro para testar continuidade e resistência.
+- Pinça metálica e chave de fenda pequena.
+- Óculos de proteção e luvas de algodão.
+- Pano ou papelão para apoiar a placa.
+- Ventilação abundante ou máscara contra fumaça de solda.
+
+PROCEDIMENTO
+------------
+1. Desligue o aparelho da tomada e retire todas as baterias.
+2. Espere a placa esfriar e descarregue os capacitores com resistor.
+3. Fixe a placa no apoio sem apertar as trilhas ou os componentes.
+4. Aqueça o ferro de solda e limpe a ponta com a esponja úmida.
+5. Aqueça uma das soldas do componente até o estanho derreter.
+6. Aplique o sugador ou a malha para retirar o estanho derretido.
+7. Repita nos outros pinos até o componente sair solto da placa.
+8. Puxe o componente com a pinça, sem forçar os pinos.
+9. Deixe o componente esfriar antes de manusear.
+10. Limpe os pinos com malha nova para retirar estanho excedente.
+11. Teste o componente no multímetro antes de guardar.
+12. Anote no componente ou em papel o valor lido no teste.
+
+ATENCAO
+-------
+A ponta do ferro queima a pele em segundos; nunca apoie a mão nela.
+A fumaça da solda de chumbo é tóxica: trabalhe sempre com ventilação.
+Não inale a fumaça e não coma nem beba perto da bancada.
+Capacitores grandes guardam carga e podem dar choque mesmo desligados.
+Fios e pinos cortados são cortantes: use luvas e óculos.
+Poeira de fibra de vidro da placa irrita pele e olhos; não sopre.
+Componentes sensíveis a descarga estática podem morrer sem aviso.
+Se sentir tontura ou cheiro forte, pare, saia para o ar livre e avalie.
+
+SE NAO TIVER
+------------
+Sem sugador, use malha de cobre limpa encostada na solda aquecida.
+Sem malha, encoste um fio de cobre nu na solda derretida e puxe.
+Sem multímetro, não declare que o componente serve: guarde como suspeito.
+Sem ventilação, não dessolde: leve a placa para local arejado.
+Não use maçarico nem fogo direto na placa: queima as trilhas e solta gás.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O componente saiu da placa com os pinos inteiros e sem trilhas rasgadas.
+O multímetro mostrou continuidade ou resistência estável nos pinos.
+A placa não soltou cheiro de queimado nem fumaça durante a retirada.
+
+FONTES
+------
+Prática consolidada de dessoldagem manual e reaproveitamento de
+componentes, sem documento único. Medidas de segurança contra chumbo,
+descarga estática e carga residual em capacitores são recomendações gerais
+de segurança elétrica e de manejo de resíduos eletrônicos.

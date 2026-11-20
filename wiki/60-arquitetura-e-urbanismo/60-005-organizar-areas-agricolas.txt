@@ -1,0 +1,83 @@
+==============================================================================
+CODIGO: 60-005
+TITULO: Como organizar areas agricolas
+CATEGORIA: 60 - Arquitetura, urbanismo e assentamentos
+TEMPO: 3 horas
+RISCO: medio
+EXIGE: caderno, lapis, estacas, corda, nivel de mangueira, enxada, palha
+REVISAO: 2026-11
+PALAVRAS-CHAVE: agricultura, talhao, declive, contorno, erosao, horta
+==============================================================================
+
+OBJETIVO
+--------
+Dividir e marcar o terreno em areas de cultivo que barrem a enxurrada.
+
+QUANDO USAR
+-----------
+Quando for iniciar uma horta ou lavoura em terreno novo.
+Quando a agua da chuva corre em sulcos e leva terra.
+Quando o terreno tem declive e o plantio morro acima desgasta o solo.
+Quando for preciso definir caminhos internos e onde escoar a agua.
+
+NAO USE QUANDO
+--------------
+Nao faca cortes, aterros ou terraceamento em encosta com deslizamento ativo,
+rachaduras ou erosao profunda. Nesse caso, nao mexa no solo e procure
+assistencia tecnica antes de qualquer movimento de terra.
+
+MATERIAIS
+---------
+- Caderno e lapis para desenhar o croqui.
+- Estacas de madeira para marcar os pontos.
+- Corda ou linha para alinhar as fileiras.
+- Nivel de mangueira transparente com agua (ou nivel de bolha).
+- Enxada ou cavadeira para abrir as valas de drenagem.
+- Palha, capim cortado ou folhas para cobrir o solo.
+
+PROCEDIMENTO
+------------
+1. Caminhe pelo terreno inteiro. Observe por onde a agua corre e onde para.
+2. Desenhe um croqui no caderno. Marque encostas, arvores e cursos d'agua.
+3. Escolha as areas mais planas e de melhor solo para comecar.
+4. Evite depressoes onde a agua fica parada e solos finos ou compactados.
+5. Divida a area em glebas (parcelas) do tamanho que consiga cuidar.
+6. Marque o contorno (linha de nivel): estacas na mesma altura, atraves do
+declive.
+7. Trace as fileiras de plantio sobre o contorno, nunca morro acima e morro
+abaixo.
+8. Abra valas de drenagem rasas, de aproximadamente 30 cm, ate a borda.
+9. Trace os carreadores (caminhos internos) entre as glebas, no sentido do
+declive suave.
+10. Espalhe palha, capim cortado ou folhas entre as fileiras.
+11. Em encosta, reforce o contorno com pedras, gravetos ou faixa de grama.
+12. Anote no croqui cada gleba, vala e carreador para os proximos anos.
+
+ATENCAO
+-------
+Plantar morro acima e morro abaixo acelera a enxurrada e leva o solo.
+O plantio em contorno barra a agua, mas nao resolve erosao em encosta forte.
+Nao improvise terraços em terreno muito inclinado sem orientacao: pode
+deslizar e causar perda de terra e de plantio.
+Vala mal feita junta agua e abre sulco. De saida sempre para fora da area.
+Sem cobertura de palha, a chuva bate direto no solo e a erosao volta.
+
+SE NAO TIVER
+------------
+Sem nivel de mangueira, use uma garrafa com agua e uma tabela reta para
+comparar alturas em cada estaca. Se nao houver como nivelar, mantenha as
+fileiras curtas e reforce com pedras e grama. Nao monte terraços as cegas.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As fileiras ficam na mesma altura, e a agua nao corre em sulcos entre elas.
+Apos a chuva, a agua escoa pelas valas sem levar terra nem abrir ravinas.
+As estacas e o croqui batem com o que esta marcado no terreno.
+
+FONTES
+------
+Pratica consolidada de planejamento e conservacao do solo. Referencias:
+Embrapa (Conhecendo o Estabelecimento Rural; Glebas: reorganizando o espaco;
+Terraceamento; Enxurrada) e FAO (Erosion control practices; Soil
+conservation: contour ploughing). Resumo operacional, nao substitui
+orientacao tecnica.

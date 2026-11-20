@@ -1,0 +1,75 @@
+==============================================================================
+CODIGO: 01-002
+TITULO: Como encontrar fontes naturais de água
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: mapa, caderno, roupa de caminhada
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, nascente, fonte, buscar, sede, córrego, chuva
+==============================================================================
+
+OBJETIVO
+--------
+Localizar água natural no terreno e escolher a fonte com menor risco.
+
+QUANDO USAR
+-----------
+Quando a torneira secou ou a água da rede não é segura.
+Quando não há água engarrafada nem estoque em casa.
+Ao chegar a lugar desconhecido sem água.
+
+NAO USE QUANDO
+--------------
+Não use o guia para afirmar que a água é potável. Trate antes (veja 01-001).
+Não colha água com cheiro de combustível ou agrotóxico: a fervura não
+remove químicos.
+
+MATERIAIS
+---------
+- Mapa ou carta topográfica (caderno com desenho do terreno).
+- Caderno, lápis, roupa de caminhada, calçado fechado e recipiente limpo.
+
+PROCEDIMENTO
+------------
+1. Anote no mapa vales, baixadas e o curso de rios e córregos.
+2. Pergunte a moradores onde há nascente, poço ou água corrente.
+3. Caminhe pelos vales e baixadas, de calçado fechado.
+4. Procure solo úmido, musgo e gotejamento; árvores verdes indicam água.
+5. Escolha água corrente: nascente e córrego vêm antes de lagoa ou poça.
+6. Numa nascente, ache o ponto exato onde a água sai do solo.
+7. Se o ribeiro some no solo logo acima, é água rasa e suja: mude de ponto.
+8. Após chuva, água barrenta indica enxurrada: espere assentar ou mude.
+9. Não use se houver pasto, latrina ou fossa a montante (antes da captação).
+10. Solo solto em aproximadamente 15 metros deixa água suja entrar.
+11. Recolha na saída, acima de onde animais bebem, com recipiente limpo.
+12. Tampe e trate a água antes de beber (veja 01-001).
+
+ATENCAO
+-------
+Toda água natural pode causar diarreia ou hepatite. Trate antes de beber.
+Água com cheiro de combustível ou agrotóxico nunca fica segura na fervura.
+Mude de fonte e avise as autoridades.
+Não beba água de enchente, de poço alagado ou salgada.
+Água corrente limpa também pode estar contaminada: a aparência engana.
+Sobre água da chuva: FEMA desaconselha; CDC permite, se tratada.
+Cuidado em margens escorregadias; não desça sozinho a poço ou gruta.
+Pare e procure ajuda se não achar água ou se houver químico na fonte.
+
+SE NAO TIVER
+------------
+Sem mapa, pergunte a moradores e desenhe vales e cursos d'água no caderno.
+Se não achar nascente, recolha chuva em lona limpa e trate (veja 01-001).
+Não use água de radiador, piscina ou poça como substituto para beber.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você encontrou uma fonte e marcou o lugar no mapa ou caderno.
+A água ficou em recipiente limpo e tampado, longe de pasto e latrina.
+A água foi tratada antes de beber.
+
+FONTES
+------
+CDC (como encontrar água limpa em emergência), OMS (água em emergências),
+FEMA (sobrevivência) e USGS (localização de água subterrânea); guia
+comunitário da Hesperian (proteção de nascentes); prática consolidada.

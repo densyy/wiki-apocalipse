@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 02-095
+TITULO: Como criar abelhas para produção de mel
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 180 minutos
+RISCO: alto
+EXIGE: colmeia com quadros, enxame, véu, luvas, cavaletes, fumegador
+REVISAO: 2026-11
+PALAVRAS-CHAVE: abelha, mel, colmeia, enxame, apiário, favo, fumegador
+==============================================================================
+
+OBJETIVO
+--------
+Instalar colmeias povoadas em um apiário e colher mel das abelhas.
+
+QUANDO USAR
+-----------
+Quando houver flores e água limpa perto e espaço afastado de pessoas.
+Quando faltar alimento doce ou uma fonte de renda no sítio.
+Quando houver enxame para capturar ou para comprar de apicultor local.
+Quando a vizinhança aceitar ter abelhas no local.
+
+NAO USE QUANDO
+--------------
+Não crie abelhas se alguém no local tiver alergia a picada de abelha.
+Não instale perto de escola, casa, curral ou estrada movimentada.
+Não instale onde haja pulverização de agrotóxico nas redondezas.
+Não crie sem flores e néctar num raio de aproximadamente 3 km.
+
+MATERIAIS
+---------
+- Colmeia com fundo, caixas, tampa e quadros com cera.
+- Enxame com rainha, comprado ou capturado em caixa-isca.
+- Cavalete firme de madeira ou metal para cada colmeia.
+- Macacão claro, véu facial, luvas e botas de cano alto.
+- Fumegador com fole e serragem de madeira sem tratamento.
+- Bebedouro com água limpa e palha ou pedras para pouso.
+- Espátula para soltar quadros e caderno para anotações.
+
+PROCEDIMENTO
+------------
+1. Escolha terreno plano, bem drenado, com flores e sombra parcial.
+2. Mantenha o apiário a pelo menos 3 km de lixão e de áreas com agrotóxico.
+3. Afaste o apiário de casas, currais e estradas movimentadas.
+4. Respeite 150 m de distância até 10 colmeias e 300 m em campo aberto.
+5. Limpe o terreno; retire entulho e material que abrigue formigas.
+6. Fixe um cavalete firme por colmeia, com o fundo a 40 a 50 cm do solo.
+7. Incline a colmeia para a frente para a água da chuva escorrer.
+8. Deixe aproximadamente 2 m entre colmeias, sem alinhar as entradas.
+9. Coloque água limpa a menos de 500 m, com palha ou pedras para pouso.
+10. Vista macacão claro, véu, luvas e botas antes de abrir a colmeia.
+11. Aproxime-se pela lateral ou por trás, nunca diante da entrada (alvado).
+12. Acenda o fumegador com serragem seca; use fumaça fria e sem fuligem.
+13. Aplique pouca fumaça na entrada e na tampa, nunca dentro dos favos.
+14. Retire a tampa e os quadros sem esmagar a rainha.
+15. Introduza o enxame na colmeia ao entardecer, com as abelhas recolhidas.
+16. Feche a colmeia e observe de longe, sem abrir nos primeiros dias.
+17. Mova colmeia povoada só menos de 2 m ou mais de 2 km.
+18. Entre 2 m e 2 km, as abelhas voltam ao lugar antigo e se perdem.
+19. Ofereça xarope de açúcar no alimentador durante a entressafra.
+20. Retire a sobra de xarope em até 2 dias, antes que fermente.
+21. Colha só quadros com pelo menos 90% dos alvéolos fechados por cera.
+22. Não colha quadros com cria, pólen ou mel úmido, chamado mel verde.
+23. Remova as abelhas do quadro e feche a melgueira de transporte.
+24. Colha em dia seco, entre 9 e 16 horas, sem deixar os quadros ao sol.
+
+ATENCAO
+-------
+Ferroadas múltiplas podem causar intoxicação grave mesmo sem alergia.
+Uma única ferroada pode matar quem é alérgico a veneno de abelha.
+Se houver falta de ar, inchaço na língua ou tontura, saia do apiário.
+Procure atendimento de urgência: a adrenalina é o tratamento da anafilaxia.
+Nunca use perfume ou roupa com cheiro forte: isso irrita as abelhas.
+Fogo no fumegador pode provocar incêndio; apague com terra antes de guardar.
+Agrotóxico perto do apiário mata as abelhas e contamina o mel.
+
+SE NAO TIVER
+------------
+Sem colmeia pronta, use caixa-isca para capturar enxame e depois transfira.
+Sem cavalete, use tijolos firmes e caibro, fora do solo.
+Sem serragem, use aparas de madeira sem tratamento, nunca plástico.
+Sem fumegador, não abra a colmeia se o enxame estiver agitado.
+Sem água corrente, mantenha bebedouro limpo, com água trocada todo dia.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As abelhas entram e saem sem agressividade em volta da colmeia.
+Há pólen nas patas das abelhas que voltam do campo.
+O fundo da colmeia fica seco, sem água acumulada.
+Os favos colhidos têm alvéolos fechados por cera e não escorrem.
+
+FONTES
+------
+Embrapa: "Criação de abelhas", ABC da Agricultura Familiar, 2016.
+Embrapa: "Como instalar colmeias", ABC da Agricultura Familiar, 2010.
+Embrapa: "Sistema de Produção de Mel", 2023; "Sistema 26", 2019.
+SENAR: cartilhas "Instalação de apiário" e "Manejo de apiário para mel".
+ASBAI: orientações sobre anafilaxia por ferroadas de himenópteros.

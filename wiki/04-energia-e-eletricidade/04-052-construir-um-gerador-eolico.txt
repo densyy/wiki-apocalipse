@@ -1,0 +1,82 @@
+==============================================================================
+CODIGO: 04-052
+TITULO: Como construir um gerador eólico
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 4 horas
+RISCO: alto
+EXIGE: local com vento constante, mastro firme e bateria de 12 volts
+REVISAO: 2026-11
+PALAVRAS-CHAVE: vento, gerador, eolico, energia, bateria, carregar
+==============================================================================
+
+OBJETIVO
+--------
+Montar um pequeno gerador a vento para carregar bateria de 12 volts
+fora da rede eletrica.
+
+QUANDO USAR
+-----------
+Quando houver vento constante em local aberto e alto.
+Quando for preciso carregar bateria pequena fora da rede.
+Quando houver motor de corrente continua disponivel para uso.
+Quando a torre puder ser fixada com seguranca no solo.
+
+NAO USE QUANDO
+--------------
+Em tempestade, raio, vendaval ou risco de queda de arvore.
+Em local fechado, proximo a rede eletrica ou a pessoas.
+Se o mastro balancar, rachar ou ameacar cair.
+Se houver crianca ou animal solto perto das pas em giro.
+
+MATERIAIS
+---------
+- Motor de corrente continua de impressora ou similar.
+- Tubo de PVC de aproximadamente 1 metro para as pas.
+- Mastro de madeira ou metal de aproximadamente 3 metros.
+- Fios eletricos isolados e fita isolante.
+- Diodo bloqueador para corrente continua (evita descarga).
+- Bateria recarregavel de 12 volts.
+- Parafusos, abracadeiras, cordas e estacas para fixar.
+- Multimetro ou lampada de teste de 12 volts (para conferir).
+
+PROCEDIMENTO
+------------
+1. Escolha local aberto, alto e longe de casas e fios eletricos.
+2. Fixe o mastro no solo com estacas e cordas em tres direcoes.
+3. Corte tres pas iguais de aproximadamente 50 centimetros no PVC.
+4. Fixe as pas em cruz no eixo do motor com parafusos firmes.
+5. Trave o motor no topo do mastro com abracadeiras e parafusos.
+6. Ligue um fio do motor ao diodo e depois a bateria de 12 volts.
+7. Isole todas as emendas com fita isolante sem deixar cobre a mostra.
+8. Levante o mastro com ajuda e estique as cordas ate ficar rigido.
+9. Aponte as pas para o vento dominante do local.
+10. Meca a saida com multimetro antes de ligar na bateria final.
+11. Desligue e amarre as pas quando houver tempestade ou manutencao.
+
+ATENCAO
+-------
+Pa em giro corta e pode causar lesao grave: nunca toque com vento.
+Queda de mastro mata: nao suba sozinho e nao monte em vendaval.
+Curto em bateria causa faisca, queimadura e incendio: isole tudo.
+Nunca ligue o gerador na rede da casa nem em fio energizado.
+Este gerador nao alimenta geladeira, chuveiro ou ferramenta grande.
+Se houver cheiro de queimado, fio quente ou faisca, pare e desligue.
+Em raio ou tempestade, amarre as pas e afaste pessoas da torre.
+
+SE NAO TIVER
+------------
+Sem motor de corrente continua, nao improvise com rede eletrica.
+Sem diodo, desligue a bateria com vento fraco para evitar descarga.
+Sem multimetro, use lampada de 12 volts so para teste rapido.
+Sem PVC, use madeira leve e lisa no mesmo tamanho aproximado.
+Sem bateria propria, nao ligue direto em celular ou aparelho caro.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As pas giram lisas sem bater, vibrar ou soltar parafuso.
+O multimetro mostra carga subindo na bateria com vento firme.
+A bateria mantem carga e acende lampada de 12 volts a noite.
+
+FONTES
+------
+Pratica consolidada de pequenos geradores eolicos, sem documento unico.

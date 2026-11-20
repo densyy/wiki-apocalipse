@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 02-070
+TITULO: Como identificar alimentos silvestres em regiões áridas
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 60 minutos
+RISCO: critico
+EXIGE: caderno, lápis, lupa, guia regional de plantas, luz natural
+REVISAO: 2026-11
+PALAVRAS-CHAVE: identificar, silvestre, comestível, venenosa, caatinga, guia
+==============================================================================
+
+OBJETIVO
+--------
+Decidir com segurança se uma planta do sertão pode virar alimento.
+
+QUANDO USAR
+-----------
+Quando faltar alimento e houver vegetação nativa por perto.
+Quando encontrar fruto, folha ou raiz que não conhece.
+Antes de coletar qualquer parte de uma planta para cozinhar.
+Quando precisar ensinar outra pessoa a não comer qualquer planta.
+
+NAO USE QUANDO
+--------------
+Não use para decidir sozinho o que comer sem conhecer a espécie.
+Não use se não houver guia regional ou pessoa experiente para conferir.
+Não use em área pulverizada, beira de estrada, esgoto ou lixo.
+Não use para identificar cogumelos. Este procedimento não identifica fungos.
+
+MATERIAIS
+---------
+- Caderno e lápis para anotar cada característica.
+- Lupa de bolso (ou vidro transparente que aumente a imagem).
+- Guia ilustrado de plantas da região (guia do Nema ou material da Embrapa).
+- Pessoa experiente da região para conferir a identificação.
+- Luvas de couro ou pano grosso para tocar sem ferir a pele.
+
+PROCEDIMENTO
+------------
+1. Pare antes de colher. Não leve à boca nada ainda não identificado.
+2. Observe a planta inteira sem arrancar: altura, formato e onde nasce.
+3. Observe a folha. Anote se a borda é lisa, dentada ou recortada.
+4. Anote se as folhas nascem opostas, alternadas ou em roseta na base.
+5. Observe caule, flor, fruto e semente. Anote cor e formato de cada um.
+6. Observe a raiz sem desenterrar: bulbo, raiz grossa, tubérculo ou rizoma.
+7. Descarte a planta se a seiva for leitosa ou de cor escura.
+8. Descarte se houver cheiro de amêndoa amarga no caule ou na folha.
+9. Descarte se houver espinhos, pelos finos, sabor amargo ou sabonoso.
+10. Descarte se as folhas lembrarem cenoura, endro, salsinha ou pastinaca.
+11. Descarte se as folhas crescerem em grupo de três.
+12. Descarte se os grãos tiverem esporões rosados, roxos ou pretos.
+13. Não prove para descobrir. Provar não identifica espécie alguma.
+14. Compare as anotações com o guia regional ilustrado da sua área.
+15. Confira folha, flor, fruto e semente ao mesmo tempo, não só a folha.
+16. Peça a pessoa experiente que diga o nome popular e o nome científico.
+17. Aceite como alimento só se duas fontes independentes nomearem a
+   mesma espécie como comestível.
+18. Se faltar uma das confirmações, não coma. Anote e siga em frente.
+19. Nunca coma cogumelos silvestres, mesmo depois de todos estes passos.
+
+ATENCAO
+-------
+- Errar aqui pode matar ou deixar sequela permanente.
+- A cicuta (poison hemlock) matou quem a confundiu com cenoura ou pastinaca.
+- Espécies parecidas podem ser comestíveis ou letais. A cor e o cheiro
+  enganam.
+- Muitas plantas são comestíveis só em certa época ou só em certa parte.
+  Folha, raiz e fruto têm riscos diferentes.
+- Plantas de beira de estrada ou esgoto podem ter veneno ou parasitas.
+- Seiva leitosa, cheiro de amêndoa e sabor amargo são sinais de descarte,
+  não de teste.
+- O teste de comestibilidade demora mais de um dia por parte da planta
+  e não substitui a identificação.
+- Se alguém comer planta desconhecida e tiver mal-estar, vômito, tontura
+  ou tremor, pare e procure atendimento médico na hora.
+
+SE NAO TIVER
+------------
+Sem lupa, use boa luz natural e anote só o que der para ver.
+Sem guia impresso, pergunte a morador antigo ou agente de saúde local,
+mas não coma apenas pela fala de uma pessoa.
+Sem pessoa experiente, limite-se a observar e registrar. Não coma nada.
+Sem guia e sem pessoa experiente, coma só alimento que plantou ou comprou.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A planta tem nome popular e nome científico anotados no caderno.
+Duas fontes independentes nomeiam a mesma espécie como comestível.
+As anotações de folha, flor, fruto e raiz batem com as fotos do guia.
+Nenhum critério de descarte se aplica à planta observada.
+Nenhuma planta duvidosa foi levada à boca.
+
+FONTES
+------
+Manual do Exército dos Estados Unidos FM 21-76, capítulo 9 "Survival use
+of plants": regras de identificação, critérios de descarte e aviso sobre
+cogumelos. Embrapa, site Ageitec, tema Bioma Caatinga - Flora.
+Universidade Federal do Vale do São Francisco (Univasf), Nema, "Guia de
+Propágulos e Plântulas da Caatinga", com fotos e usos de 19 espécies.

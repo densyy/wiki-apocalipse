@@ -1,0 +1,78 @@
+==============================================================================
+CODIGO: 03-039
+TITULO: Como reconhecer desinteria
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 10 minutos
+RISCO: alto
+EXIGE: luz suficiente para ver as fezes
+REVISAO: 2026-11
+PALAVRAS-CHAVE: desinteria, disenteria, sangue nas fezes, muco, diarreia
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer a disenteria (diarreia com sangue ou muco) e quando agir.
+
+QUANDO USAR
+-----------
+Alguém com diarreia e sangue ou muco visível nas fezes.
+Diarreia com cólicas, febre e esforço para evacuar sem sair fezes.
+Diarreia que continua por mais de três dias.
+Diarreia em criança pequena, idoso ou pessoa desnutrida.
+Diarreia depois de beber água ou comer alimento de origem duvidosa.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Luz suficiente para observar as fezes (luz natural ou lanterna).
+- Termômetro para medir a febre (ou mão na testa, sem precisão).
+- Papel e lápis para anotar as evacuações (opcional).
+
+PROCEDIMENTO
+------------
+1. Observe as fezes em local com luz.
+2. Conte quantas evacuações houve nas últimas 24 horas.
+3. Verifique se há sangue vermelho ou marrom nas fezes.
+4. Verifique se há muco: camada grossa e esbranquiçada.
+5. Pergunte se há dor ou cólicas na barriga.
+6. Pergunte se há vontade de evacuar sem sair nada (tenesmo).
+7. Meça a febre com termômetro, se houver.
+8. Observe se a pessoa está suada, quente ou com calafrios.
+9. Procure sinais de desidratação: boca seca e olhos fundos.
+10. Veja se a urina diminuiu ou se a criança chora sem lágrimas.
+11. Pergunte se há náusea ou vômito.
+12. Anote há quantos dias começou e as evacuações por dia.
+13. Trate como disenteria se houver sangue ou muco.
+14. Procure atendimento de saúde no mesmo dia.
+
+ATENCAO
+-------
+Sangue ou muco nas fezes sempre exige avaliação médica.
+Não use remédio que impede a diarreia (loperamida) nesse caso.
+A desidratação é a complicação mais perigosa: olhe urina, boca e olhos.
+Criança pequena, idoso e desnutrido pioram rápido.
+Febre alta, convulsão, confusão ou dor forte: procure emergência.
+Se a pessoa não consegue beber ou urinar, é emergência.
+Este texto só orienta o reconhecimento; não substitui atendimento.
+
+SE NAO TIVER
+------------
+- Sem termômetro: observe suor, calafrios e a testa da pessoa.
+- Sem luz: leve a amostra para perto de uma janela.
+- Sem papel: memorize o número de evacuações e os horários.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue dizer se há sangue ou muco e quantas evacuações por dia.
+Você identificou os sinais de desidratação, se estavam presentes.
+Você decidiu procurar atendimento ao ver sangue ou muco.
+
+FONTES
+------
+Ministério da Saúde: Doenças diarreicas agudas (DDA) e Manejo do
+paciente com diarreia. CDC: sinais e sintomas de infecção por Shigella
+e quando procurar atendimento. Manual MSD: sinais de alerta na
+diarreia infantil.

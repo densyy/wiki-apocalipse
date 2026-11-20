@@ -1,0 +1,94 @@
+==============================================================================
+CODIGO: 15-027
+TITULO: Como fabricar chapéus para proteção solar
+CATEGORIA: 15 - Têxteis, roupas e produção artesanal
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: tecido denso escuro, tesoura, agulha, linha, fita métrica, água
+REVISAO: 2026-11
+PALAVRAS-CHAVE: chapéu, aba, sol, proteção, uv, costura, tecido, nuca
+==============================================================================
+
+OBJETIVO
+--------
+Fabricar um chapéu de aba larga que cubra rosto, orelhas e nuca.
+
+QUANDO USAR
+-----------
+Quando o trabalho ou a caminhada ocorre sob sol forte.
+Quando não há protetor solar disponível.
+Quando o índice UV local é 3 ou mais.
+Quando o sol bate entre duas horas antes e duas horas depois do meio-dia.
+Quando um boné comum deixa orelhas e nuca expostas.
+
+NAO USE QUANDO
+--------------
+Não confie em chapéu de palha com furos ou em tecido fino transparente.
+Não use boné de viseira como proteção única: deixa orelhas e nuca expostas.
+Não use como permissão para ficar ao sol no horário de maior intensidade.
+
+MATERIAIS
+---------
+- Tecido denso de cor escura, sem furos (lona, jeans ou algodão grosso).
+- Tesoura (ou faca bem afiada, com cuidado).
+- Agulha e linha resistente (ou linha comum dobrada).
+- Fita métrica, régua ou cordão marcado.
+- Papel ou cartolina para molde (ou papel de embrulho limpo).
+- Alfinetes para prender o molde (ou grampos de roupa).
+- Água para testar o tecido.
+- Giz, sabão ou carvão para marcar.
+
+PROCEDIMENTO
+------------
+1. Molhe uma amostra do tecido e segure-a contra a luz.
+2. Descarte o tecido se a luz passar pelos poros ou pelos furos.
+3. Meça a volta da cabeça acima das orelhas com fita ou cordão.
+4. Anote a medida e some aproximadamente 4 cm de folga.
+5. Divida esse valor por 6 para obter o raio aproximado do topo.
+6. Desenhe no papel um círculo com esse raio para o topo da copa.
+7. Desenhe uma faixa de aproximadamente 10 cm de altura.
+8. Dê à faixa o comprimento do valor anotado mais aproximadamente 2 cm.
+9. Desenhe um círculo com raio maior em aproximadamente 8 cm para a aba.
+10. Recorte os três moldes de papel: topo, faixa e aba.
+11. Prenda cada molde ao tecido com alfinetes.
+12. Recorte as três peças deixando aproximadamente 1 cm de margem.
+13. Costure as duas pontas da faixa com ponto atrás para formar um anel.
+14. Costure o círculo do topo ao anel pela borda, com o direito para dentro.
+15. Costure o círculo da aba à base do anel, sobrepondo as bordas.
+16. Vire o chapéu para o lado direito.
+17. Costure uma linha reta a aproximadamente 2 cm da borda da aba.
+
+ATENCAO
+-------
+Chapéu de aba curta não protege nuca nem orelhas.
+Tecido claro, fino, molhado ou muito esticado deixa passar mais radiação UV.
+Palha com furos deixa a luz entrar e não serve como proteção.
+O chapéu não substitui sombra, roupa longa, óculos escuros e protetor solar.
+Não use o chapéu para prolongar o tempo ao sol: o dano é cumulativo.
+Seco o tecido antes de usar, pois tecido molhado protege menos.
+Guarde agulha e tesoura fora do alcance de crianças.
+Se houver vermelhidão, dor ou bolhas na pele, saia do sol e procure ajuda.
+
+SE NAO TIVER
+------------
+Sem fita métrica, use um cordão, marque o nó e meça com régua ou palmo.
+Sem alfinetes, prenda o molde com peso ou grampo de roupa.
+Sem tecido escuro, use o mais denso disponível e sobreponha duas camadas.
+Sem agulha ou linha, retire fios de uma roupa velha e use como amarração.
+Sem papel, desenhe o molde direto no tecido com giz ou carvão.
+Não improvise com sacola plástica: não filtra os raios UV e prende calor.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A aba cobre toda a volta da cabeça, incluindo nuca, orelhas e olhos.
+Ao olhar contra a luz, não aparecem pontos claros no tecido.
+A sombra da aba chega até a base do pescoço.
+O chapéu fica firme e não cai com vento leve.
+
+FONTES
+------
+Orientações da OMS sobre proteção contra radiação ultravioleta: pergunta e
+resposta "Radiation: Protecting against skin cancer", 16/07/2024.
+Ficha "Sun Safety Facts" dos CDC, 17/06/2026.
+A modelagem e a costura são prática consolidada artesanal; para reforçar
+pontos de costura, veja 15-011 como leitura extra, não como pré-requisito.

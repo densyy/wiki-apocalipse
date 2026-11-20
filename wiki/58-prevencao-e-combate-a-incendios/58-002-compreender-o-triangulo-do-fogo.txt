@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 58-002
+TITULO: Como compreender o triângulo do fogo
+CATEGORIA: 58 - Prevenção e combate a incêndios
+TEMPO: 15 minutos
+RISCO: medio
+EXIGE: local arejado; chama pequena e controlada vista a distância segura
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fogo, triângulo, combustível, oxigênio, calor, incêndio
+==============================================================================
+
+OBJETIVO
+--------
+Identificar os três elementos do fogo e usar essa ideia para prevenir
+incêndios e apagar chamas pequenas.
+
+QUANDO USAR
+-----------
+Quando quiser entender por que algo pega fogo e como evitar que pegue.
+Antes de acender vela, fogueira ou churrasqueira.
+Quando precisar decidir se uma chama pequena pode ser apagada.
+
+NAO USE QUANDO
+--------------
+Não use para combater incêndio grande ou fora de controle.
+Nesse caso, saia, feche a porta e acione o Corpo de Bombeiros.
+Este texto não substitui treinamento, extintor nem alarme de fumaça.
+
+MATERIAIS
+---------
+- Nenhum material. Uma chama pequena serve só de exemplo visual.
+
+PROCEDIMENTO
+------------
+1. Observe uma chama pequena a distância segura, sem chegar perto.
+2. Identifique o que arde: madeira, papel ou óleo. Isso é o combustível.
+3. Identifique o que aquece: chama, faísca ou superfície quente. É o calor.
+4. Note que o ar fornece o oxigênio, chamado de comburente.
+5. Confira três lados: combustível, calor e oxigênio. Sem um, não há fogo.
+6. Aplique à prevenção: mantenha o que queima longe do calor.
+7. Para apagar, retire calor, oxigênio ou combustível.
+8. Pare a observação e saia se a chama crescer ou se aparecer fumaça densa.
+
+ATENCAO
+-------
+O que mata em incêndio é a fumaça e o monóxido de carbono, não o fogo.
+A fumaça sufoca e pode matar antes de as chamas chegarem.
+Nunca se aproxime de fogo grande. Saia e chame o Corpo de Bombeiros.
+Água em óleo quente ou fio energizado espalha o fogo ou causa choque.
+Nunca improvise em rede elétrica energizada.
+Retire combustível só de fogo pequeno, cortando a origem.
+Com cheiro de gás, não acenda fósforo nem mexa em interruptores.
+Ventile e chame o bombeiro.
+
+SE NAO TIVER
+------------
+Sem chama, aplique a ideia a uma situação já vivida.
+Pergunte: o que ardia, o que aqueceu, de onde vinha o ar.
+O triângulo é uma ferramenta de raciocínio. Não acenda fogo só para testar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A pessoa nomeia os três lados e aponta qual falta quando o fogo não pega.
+Outra pessoa pode conferir a resposta.
+
+FONTES
+------
+Corpo de Bombeiros Militar do Distrito Federal, manual de combate a
+incêndio; bombeiros do Paraná e do Espírito Santo, apostilas de prevenção
+e combate; NFPA e OSHA, guias sobre o triângulo do fogo.

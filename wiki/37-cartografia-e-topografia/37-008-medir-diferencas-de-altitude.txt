@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 37-008
+TITULO: Como medir diferenças de altitude
+CATEGORIA: 37 - Cartografia, topografia e levantamento
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: um dos tres: carta topografica, mangueira com agua, altimetro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: altitude, desnivel, altura, curva de nivel, mapa, altimetro
+==============================================================================
+
+OBJETIVO
+--------
+Medir o desnivel entre dois pontos do terreno com o material disponivel.
+
+QUANDO USAR
+-----------
+Quando precisar saber quantos metros um ponto fica acima de outro.
+Para instalir canal, cisterna ou tomada de agua por gravidade.
+
+NAO USE QUANDO
+--------------
+Nao use o altimetro para desniveis de poucos centimetros: a leitura pode
+variar mais que o valor. Em borda ou encosta instavel, nao se aproxime.
+
+MATERIAIS
+---------
+- Carta topografica com o intervalo de contorno indicado na margem.
+- Mangueira transparente de 10 a 15 m com as duas pontas abertas.
+- Agua limpa, duas estacas, fita metrica, caderno e lapis.
+- Altimetro ou celular com leitura de altitude (opcional).
+
+PROCEDIMENTO
+------------
+1. Localize os dois pontos na carta topografica.
+2. Leia o intervalo de contorno na margem da carta.
+3. Conte as curvas entre os pontos e multiplique pelo intervalo.
+4. Some uma fracao do intervalo se um ponto cair entre curvas.
+5. Encha a mangueira com agua ate as pontas, sem deixar bolhas de ar.
+6. Tampe as pontas com os dedos e leve uma a cada ponto.
+7. Apoie cada ponta em uma estaca cravada no solo.
+8. Espere a agua parar de oscilar nas duas pontas.
+9. Meça a diferenca de altura entre as duas superficies de agua.
+10. Zere o altimetro em um ponto de altitude conhecida.
+11. Leia a altitude no primeiro ponto e depois no segundo, sem recalibrar.
+12. Subtraia as duas leituras e anote o desnivel aproximado.
+
+ATENCAO
+-------
+Uma curva de nivel liga pontos de igual altitude; o desnivel entre duas
+curvas e o intervalo impresso na margem. Fora da carta, o valor e estimado.
+A mangueira so funciona ate cerca de 15 m; perda de agua falseia a leitura.
+O altimetro mede pressao: tempo ou calor desloca a leitura.
+Nao confie no altimetro do celular sem um ponto de altitude conhecida.
+Pare se nao der para ficar em pe com seguranca e procure ajuda.
+
+SE NAO TIVER
+------------
+Sem carta, use a mangueira para desniveis curtos. Sem mangueira, use o
+altimetro, mas repita a leitura no mesmo ponto antes de decidir.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os metodos usados deram valores proximos e o caderno traz os numeros.
+
+FONTES
+------
+Cartas e conceito de curvas de nivel: USGS, Cartografia topografica.
+Nivel por tubo de agua: FAO, manual de nivelamento de terrenos.
+Altimetro de campo: USGS, descricao do altimetro topografico.

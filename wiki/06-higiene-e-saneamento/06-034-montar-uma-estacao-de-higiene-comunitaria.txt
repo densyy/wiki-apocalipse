@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 06-034
+TITULO: Como montar uma estação de higiene comunitária
+CATEGORIA: 06 - Higiene, saneamento e resíduos
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: balde com torneira, sabão, água limpa, pedras e suporte
+REVISAO: 2026-11
+PALAVRAS-CHAVE: higiene, mãos, sabão, estação, comunidade, lavar
+==============================================================================
+
+OBJETIVO
+--------
+Manter um ponto fixo onde todos lavam as mãos com sabão.
+
+QUANDO USAR
+-----------
+Quando várias famílias dividem quintal, abrigo ou acampamento.
+Quando há latrina coletiva ou cozinha comum por perto.
+Quando há casos de diarreia, gripe ou catapora no grupo.
+
+NAO USE QUANDO
+--------------
+Em barranco instável, beira de fossa ou onde alaga com chuva.
+Onde a água de lavagem escorre para poço, comida ou panela.
+Se a única água cheira a esgoto: busque outra fonte antes.
+
+MATERIAIS
+---------
+- Bombona ou balde com tampa e torneira (galão com furo).
+- Suporte firme: mesa, tripé de madeira ou bancada alta.
+- Sabão em barra ou líquido com corda para não sumir.
+- Balde vazio, pedras ou cascalho, caneca e pano limpo.
+
+PROCEDIMENTO
+------------
+1. Escolha ponto plano perto da latrina e da cozinha.
+2. Cave um buraco de aproximadamente 40 cm para a água suja.
+3. Encha o buraco com pedras ou ponha balde para aparar.
+4. Firme o suporte e trave o balde para não tombar com uso.
+5. Encha o balde só com água limpa e tampe para proteger.
+6. Amarre o sabão com corda curta ao lado da torneira.
+7. Abra um fio fino de água e molhe as duas mãos.
+8. Ensaboe por 20 segundos palma, dorso, dedos e unhas.
+9. Enxágue bem e seque com pano limpo só da estação.
+10. Defina quem enche, limpa e troca o sabão a cada dia.
+
+ATENCAO
+-------
+Água parada cria lama e mosquito: mantenha o dreno seco.
+Esta estação não torna a água boa para beber nem cozinhar.
+Mão com fezes ou graxa: tire o grosso antes de lavar.
+Pare e procure ajuda se houver diarreia com sangue ou febre.
+
+SE NAO TIVER
+------------
+Sem torneira, fure a tampa do galão e use como bica fina.
+Sem sabão em barra, use sabão líquido ou água com sabão.
+Sem cascalho, use areia grossa e troque o balde com frequência.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As pessoas usam sem fila e o balde nunca fica vazio de dia.
+Não há poça, mau cheiro ou copo sujo ao redor da estação.
+
+FONTES
+------
+Prática consolidada de lavagem das mãos em emergências
+(famílias: OMS, CDC, IFRC e UNICEF). Resumo operacional.

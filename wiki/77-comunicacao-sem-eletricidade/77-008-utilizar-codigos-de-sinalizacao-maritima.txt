@@ -1,0 +1,82 @@
+==============================================================================
+CODIGO: 77-008
+TITULO: Como utilizar códigos de sinalização marítima
+CATEGORIA: 77 - Comunicação anterior à eletricidade
+TEMPO: 40 minutos
+RISCO: baixo
+EXIGE: bandeiras ou luz, lista de codigos e linha de vista
+REVISAO: 2026-11
+PALAVRAS-CHAVE: maritimo, bandeira, codigo, luz, letra, numero, socorro
+==============================================================================
+
+OBJETIVO
+--------
+Usar um conjunto fixo de sinais para trocar mensagens curtas e claras.
+
+QUANDO USAR
+-----------
+Quando houver linha de vista entre barcos, margens ou torres.
+Para pedir ajuda, avisar de perigo ou combinar encontro.
+Quando o meio de comunicacao habitual parou de funcionar.
+Ao treinar o grupo para reconhecer os sinais combinados.
+
+NAO USE QUANDO
+--------------
+Nao use sinais que possam ser confundidos com socorro falso.
+Nao improvise codigo internacional sem ter a tabela completa.
+Nao sinalize com luz na direçao de olhos ou veiculos.
+Nao confie em codigo que nao foi combinado pelas duas pontas.
+
+MATERIAIS
+---------
+- Bandeiras de cores fortes, uma para cada sinal usado (pano).
+- Lanterna ou espelho para sinais de luz a noite (tocha).
+- Lista escrita com os codigos adotados (caderno impermeavel).
+- Haste ou corda para hastear as bandeiras (pau).
+- Quadro com claros curtos e longos do alfabeto de luz.
+
+PROCEDIMENTO
+------------
+1. Escolha um conjunto pequeno de sinais para o grupo.
+2. Escreva na lista o que cada bandeira ou claro significa.
+3. Combine a ordem em que as bandeiras sao hasteadas.
+4. Separe os sinais de aviso dos sinais de rotina.
+5. Reserve um sinal unico para pedido de ajuda.
+6. Ensine todos a reconhecerem esse sinal de socorro.
+7. Hasteie as bandeiras na ordem combinada e mantenh-as visiveis.
+8. Repita a sequencia três vezes quando o assunto for urgente.
+9. Com luz, use claros curtos e longos para as letras.
+10. Faça pausa maior entre uma letra e outra.
+11. Peça confirmacao do outro lado antes de agir.
+12. Anote a hora e o sinal recebido no caderno.
+13. Guarde as bandeiras e a lista longe da umidade.
+14. Reforce o treino sempre que alguem entrar no grupo.
+
+ATENCAO
+-------
+Sinal de socorro falso mobiliza gente e pode punir quem o envia.
+Bandeira com vento forte pode virar e esconder a cor.
+Luz fraca ou neblina faz o leitor confundir claros e pausas.
+Cada grupo deve usar a mesma lista, sem variantes locais.
+Somente use o sinal de ajuda quando houver risco real.
+Se houver duvida na leitura, peca repeticao antes de responder.
+
+SE NAO TIVER
+------------
+Sem bandeiras, use panos de cores distintas em haste improvisada.
+Sem lanterna, use espelho com luz do dia.
+Sem lista, memorize tres sinais e treine com o outro ponto.
+Sem haste, prenda o pano em galho alto ou corda esticada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O outro ponto repete o sinal com o mesmo significado.
+Nenhum sinal de socorro foi usado por engano.
+A lista escrita confere com a pratica do grupo.
+Todos reconhecem o sinal de ajuda sem consultar a lista.
+
+FONTES
+------
+Familia dos codigos de sinalizacao maritima por bandeiras e luz,
+de uso tradicional antes do radio. Cada grupo deve adotar uma
+lista escrita e treina-la, sem atribuir significados novos sozinho.

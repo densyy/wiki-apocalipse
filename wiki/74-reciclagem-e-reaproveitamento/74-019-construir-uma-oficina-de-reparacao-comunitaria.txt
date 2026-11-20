@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 74-019
+TITULO: Como construir uma oficina de reparação comunitária
+CATEGORIA: 74 - Economia circular e reaproveitamento
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: espaço coberto, mesa firme, ferramentas básicas, luvas, óculos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: reparação, conserto, oficina, comunidade, ferramentas
+==============================================================================
+
+OBJETIVO
+--------
+Montar um local onde vizinhos consertam objetos quebrados em conjunto.
+
+QUANDO USAR
+-----------
+Quando o bairro descarta objetos que ainda podem servir.
+Quando faltam oficinas e assistências técnicas na região.
+Quando a coleta pública parou e vizinhos querem reaproveitar.
+
+NAO USE QUANDO
+--------------
+Quando não houver lugar coberto, seguro e ventilado.
+Quando ninguém puder fiscalizar as ferramentas.
+Quando o conserto envolver rede elétrica ou gás encanado.
+
+MATERIAIS
+---------
+- Mesa firme e cadeiras (tábuas presas sobre cavaletes).
+- Ferramentas manuais: chaves, alicates, chave de fenda.
+- Luvas grossas e óculos de proteção.
+- Extintor, areia, caderno, lápis e placas com regras.
+
+PROCEDIMENTO
+------------
+1. Escolha um espaço coberto, seco, ventilado e iluminado.
+2. Delimite a área, longe de poços e cozinhas.
+3. Monte mesas firmes com tábuas e cavaletes.
+4. Separe um canto para objetos e outro para peças.
+5. Reúna ferramentas e retire as que estão rachadas.
+6. Calce luvas e óculos antes de manusear metal ou vidro.
+7. Escreva as regras em placa: observar, testar, não forçar.
+8. Defina horários e um responsável por turno.
+9. Registre no caderno o objeto, o dono e o resultado.
+10. Guarde as ferramentas trancadas ao fechar.
+
+ATENCAO
+-------
+Ferramentas cortam e lançam fragmentos: use luvas e óculos.
+Desligue aparelhos da tomada; nunca repare rede energizada.
+Pare se houver fumaça, faísca ou cheiro de gás.
+Sem destino combinado, o que sobra volta a ser lixo.
+
+SE NAO TIVER
+------------
+- Sem mesa, use tábuas presas em caixas firmes.
+- Sem ferramentas, peça empréstimo e anote quem emprestou.
+- Sem extintor, mantenha areia e cobertor de lã por perto.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As mesas estão firmes e as ferramentas, sem defeito.
+Objetos recebidos têm registro com dono e resultado.
+O que não tem conserto saiu para um destino combinado.
+
+FONTES
+------
+Prática consolidada de oficinas de reparação comunitárias e reuso.
+Base conceitual: EPA, Gerenciamento Sustentável de Materiais.

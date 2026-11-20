@@ -1,0 +1,91 @@
+==============================================================================
+CODIGO: 63-015
+TITULO: Como realizar coleta segura de amostras ambientais
+CATEGORIA: 63 - Microbiologia, parasitologia e contaminação
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: luvas, recipientes esterilizados, mascara, caderno
+REVISAO: 2026-11
+PALAVRAS-CHAVE: amostra, coleta, ambiente, agua, solo, luvas, esteril
+==============================================================================
+
+OBJETIVO
+--------
+Coletar amostras de agua, solo ou superficie sem se contaminar
+e sem contaminar o material que vai para analise.
+
+QUANDO USAR
+-----------
+Quando precisar verificar agua suspeita de contaminacao fecal.
+Ao investigar bolor, mofo ou cheiro estranho em um ambiente.
+Quando houver surto de doenca e for preciso amostrar o local.
+Ao monitorar fonte, pocao ou reservatorio antes de usar.
+
+NAO USE QUANDO
+--------------
+Nao use este texto para coletar sangue, tecido ou secrecao humana.
+Nao substitui protocolo de laboratorio nem analise de profissional.
+Nao entre em area com risco quimico, radioativo ou estrutural sem
+equipe especializada e autorizacao.
+
+MATERIAIS
+---------
+- Luvas descartaveis (pode usar luvas domesticas de borracha).
+- Mascara facial (pano limpo e respirador quando houver po).
+- Recipientes esterilizados com tampa (potes de vidro esterilizados).
+- Colher ou espatula limpa (pode usar colher de metal flambada).
+- Swap esteril (pode usar algodao limpo em palito) para superficies.
+- Caderno e caneta para identificar cada amostra.
+- Saco para lixo e agua com desinfetante para limpar depois.
+
+PROCEDIMENTO
+------------
+1. Defina o objetivo: anote o que procura e onde vai amostrar.
+2. Escolha o ponto: longe de perturbacao e sem corrida de ar.
+3. Vista luvas antes de tocar em qualquer material ou recipiente.
+4. Abra o recipiente so no momento da coleta e nao toque a borda.
+5. Nao apoie a tampa em nenhuma superficie; segure-a na mao.
+6. Para agua corrente, deixe correr por aproximadamente dois minutos.
+7. Para agua parada, colete a montante e sem mexer no sedimento.
+8. Preencha o pote ate quase a borda e deixe um pequeno espaco.
+9. Feche o pote sem encostar na parte interna da tampa.
+10. Para solo, retire a camada superficial com a colher limpa.
+11. Pegue uma porcao de baixo da superficie, sem folhas ou raizes.
+12. Para superficie, esfregue o swap em area definida e guarde.
+13. Rotule cada pote com local, data, hora e seu nome.
+14. Acondicione os potes fechados em caixa com gelo ou frio.
+15. Leve ao laboratorio ou ponto de analise no mesmo dia.
+16. Guarde os potes longe de luz e nao congele sem orientacao.
+17. Feche o saco de lixo, limpe a area e lave as maos com sabao.
+
+ATENCAO
+-------
+Trate toda amostra como se contivesse organismos que causam doenca.
+Nunca prove, cheire de perto nem respire po de amostra alguma.
+Materiais fecais e mofos podem liberar aerossóis perigosos.
+Se houver risco de po, trabalhe ao ar livre e use respirador.
+Luvas nao substituem lavagem de maos: lave sempre ao terminar.
+Nao toque olhos, boca ou feridas com as luvas contaminadas.
+Se o recipiente quebrar, isole a area e desinfete antes de recolher.
+Nao analise a amostra em casa sem treinamento e local proprio.
+
+SE NAO TIVER
+------------
+Sem pote esteril, use frasco de vidro limpo e flambado com cuidado.
+Nao use recipiente de produto quimico, mesmo depois de lavado.
+Sem gelo, leve a amostra ao laboratorio o mais rapido possivel.
+Sem mascara, nao manipule material com po ou mofo: peca ajuda.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada pote esta fechado, rotulado e intacto, sem vazamento.
+A amostra chegou fria e escura ao ponto de analise no mesmo dia.
+Nao houve contato da mao, da tampa ou de objeto sujo com o interior.
+Voce nao sentiu cheiro forte nem tossiu durante a coleta.
+
+FONTES
+------
+Orientacoes da OMS sobre qualidade da agua e planos de seguranca
+da agua (Guidelines for drinking-water quality e WASH FIT);
+pratica consolidada de bioseguranca na coleta de amostras
+ambientais, sem documento unico de referencia.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 52-029
+TITULO: Como compreender eletromagnetismo
+CATEGORIA: 52 - Física aplicada e princípios fundamentais
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: pilha, fio de cobre isolado, compasso, ímã, papel
+REVISAO: 2026-11
+PALAVRAS-CHAVE: eletricidade, magnetismo, ímã, corrente, campo, indução
+==============================================================================
+
+OBJETIVO
+--------
+Observar como corrente e magnetismo se geram e explicar a onda
+eletromagnética que aparece quando um campo varia.
+
+QUANDO USAR
+-----------
+Ao entender por que um compasso desvia perto de um fio com corrente.
+Ao investigar como um ímã em movimento gera corrente na bobina.
+
+NAO USE QUANDO
+--------------
+Quando faltarem pilha, fio e compasso: as observações não funcionam.
+Quando for mexer na rede elétrica: este texto não autoriza isso.
+
+MATERIAIS
+---------
+- Papel, lápis e tubo de papel vazio.
+- Pilha comum de 1,5 V (ou fonte de baixa tensão).
+- Fio de cobre isolado com aproximadamente 60 cm.
+- Compasso, ímã e medidor de corrente, se houver.
+
+PROCEDIMENTO
+------------
+1. Apoie o compasso na mesa, longe de metal e de ímãs.
+2. Espere a agulha parar e anote a direção indicada.
+3. Retire cerca de 2 cm de isolamento de cada ponta do fio.
+4. Estique o fio reto sobre o compasso, alinhado à agulha.
+5. Encoste o fio nos polos da pilha por um instante só.
+6. Observe a agulha girar e desencoste o fio em seguida.
+7. Inverta os polos e repita: o giro vai para o outro lado.
+8. Enrole o fio 20 vezes ao redor do tubo e retire o tubo.
+9. Ligue as pontas ao medidor e aproxime o ímã da bobina.
+10. Afaste o ímã e veja o ponteiro ir para o lado oposto.
+11. Escreva: corrente gera campo e campo que muda gera corrente.
+12. Anote: os dois campos se propagam juntos como onda de luz.
+
+ATENCAO
+-------
+Não deixe o fio na pilha: ele esquenta e pode queimar.
+Nunca ligue à tomada: rede energizada mata e não admite improviso.
+A corrente induzida é fraca; sem medidor, o efeito pode passar
+despercebido.
+
+SE NAO TIVER
+------------
+Sem medidor, enrolar a bobina no compasso pode mostrar um tremor; se
+não mostrar, fique só com a primeira observação.
+Sem tubo, enrolar o fio no próprio ímã também serve de bobina.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A agulha desvia ao encostar o fio e volta ao norte ao desencostar.
+Ao inverter a pilha, o desvio muda de lado.
+
+FONTES
+------
+OpenStax Physics, seção 20.3; IOP Practical Physics, campo do fio com
+corrente; NASA Science e NASA Goddard, ondas e campos eletromagnéticos.

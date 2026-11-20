@@ -1,0 +1,90 @@
+============================================================================
+CODIGO: 80-005
+TITULO: Como produzir carvão vegetal em fornos eficientes
+CATEGORIA: 80 - Produção de combustíveis e lubrificantes
+TEMPO: 480 minutos
+RISCO: alto
+EXIGE: forno ou tambor, lenha seca, terra, companhia, água
+REVISAO: 2026-11
+PALAVRAS-CHAVE: carvão, forno, carbonização, lenha, rendimento, fogo
+============================================================================
+
+OBJETIVO
+--------
+Transformar lenha seca em carvão vegetal com bom rendimento,
+controlando o ar e o tempo de resfriamento com segurança.
+
+QUANDO USAR
+-----------
+Quando houver lenha seca em excesso e falta de carvão para o fogo.
+Ao precisar de combustível leve e de alto calor para transportar.
+Antes de período longo sem possibilidade de cortar lenha.
+Quando a fumaça de fogueira aberta estiver causando incômodo.
+Ao querer aproveitar sobras de poda e de limpeza da terra.
+
+NAO USE QUANDO
+--------------
+Não carbonize madeira tratada, pintada ou com verniz.
+Não abra o forno antes de ele esfriar por completo.
+Não faça isso sozinho, sem água e sem outra pessoa por perto.
+Não inicie em dia de vento forte ou com mato seco ao redor.
+
+MATERIAIS
+---------
+- Forno de alvenaria ou tambor metálico com tampa.
+- Lenha seca, sem tratamento, de diâmetro uniforme.
+- Material miúdo e seco para iniciar o fogo.
+- Terra, cinza ou areia para vedar as aberturas.
+- Pá metálica, recipiente de metal e água por perto.
+- Companhia avisada para ajudar a controlar o fogo.
+
+PROCEDIMENTO
+------------
+1. Escolha lenha seca, sem tratamento, de diâmetro uniforme.
+2. Empilhe a lenha em pé dentro do forno ou tambor.
+3. Deixe uma passagem de ar controlada na parte baixa.
+4. Inicie o fogo só com material miúdo e seco.
+5. Aumente o fogo até a lenha começar a carbonizar.
+6. Observe a fumaça: no início é clara, depois fica amarela.
+7. Feche parcialmente as entradas de ar ao ver fumaça amarela.
+8. Mantenha o fogo constante, sem deixar virar fornalha aberta.
+9. Não abra o forno durante a carbonização.
+10. Quando a fumaça ficar escura e fina, inicie o resfriamento.
+11. Feche todas as entradas e saídas de ar com terra.
+12. Cubra o forno com terra e cinza para isolamento.
+13. Deixe esfriar por várias horas, de preferência à noite.
+14. Abra primeiro a tampa lateral, com cuidado com o calor.
+15. Retire o carvão com pá e coloque em recipiente metálico.
+16. Separe pedras e pedaços que não carbonizaram.
+17. Molhe levemente o carvão para evitar faíscas no transporte.
+18. Anote o peso da lenha e do carvão obtido.
+
+ATENCAO
+-------
+Forno mal vedado queima a lenha e produz cinza em vez de carvão.
+Abrir o forno cedo pode causar incêndio e queimadura grave.
+Gases da carbonização são inflamáveis e tóxicos: nunca inale.
+Trabalhe sempre com outra pessoa e com água por perto.
+Carvão quente pode ficar aceso por horas dentro da cinza.
+Nunca descarte carvão quente em lixo ou mato seco.
+Mantenha o tambor longe de cerca de madeira e de palha.
+
+SE NAO TIVER
+------------
+Sem forno, use tambor metálico com tampa e furos controlados.
+Sem terra, use cinza e areia para vedar as aberturas.
+Sem pá, use pedaço de metal resistente ao calor.
+Sem companhia, não inicie a carbonização: chame ajuda primeiro.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O carvão sai preto, leve e brilhante, sem pedaços de lenha crua.
+Não há chama aberta ao abrir o forno já frio.
+O rendimento anotado melhora a cada fornada.
+O carvão não solta fagulhas ao ser manuseado.
+
+FONTES
+------
+Prática consolidada de carbonização de madeira, resumida de manuais
+rurais de produção de carvão e de orientações de segurança contra
+incêndio em fornos e fogões artesanais.

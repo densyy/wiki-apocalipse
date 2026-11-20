@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 69-019
+TITULO: Como construir um circuito de proteção elétrica
+CATEGORIA: 69 - Eletrônica analógica e componentes discretos
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: fusível com suporte, fio isolado, bateria 12 V, chave, multímetro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fusível, proteção, sobrecorrente, circuito, curto, queima
+==============================================================================
+
+OBJETIVO
+--------
+Proteger um circuito de baixa tensão contra sobrecorrente com fusível.
+
+QUANDO USAR
+-----------
+Quando ligar uma carga nova em circuito de bateria ou painel solar.
+Quando uma carga pode travar e puxar corrente demais.
+Quando o circuito não tem proteção nenhuma contra curto.
+
+NAO USE QUANDO
+--------------
+Na rede elétrica da casa (110 V ou 220 V). Nunca abra instalação energizada.
+Para proteger pessoas de choque: isso cabe ao dispositivo diferencial (DR).
+Para proteger contra surto de tensão ou raio; o fusível não faz isso.
+Sem saber a capacidade de corrente do fio que será protegido.
+Em bateria inchada, com vazamento ou cheiro forte.
+
+MATERIAIS
+---------
+- Fusível de linha com valor nominal conhecido.
+- Suporte fechado (porta-fusível) para esse fusível.
+- Fio de cobre isolado, com capacidade de corrente conhecida.
+- Bateria ou painel solar de baixa tensão, com chave de desligamento.
+- Multímetro (ou testador de continuidade).
+- Fita isolante (ou tubo termocontrátil).
+- Chave de fenda e alicate.
+
+PROCEDIMENTO
+------------
+1. Desligue a chave de desligamento da fonte.
+2. Remova o borne negativo da bateria ou do painel.
+3. Confirme com o multímetro que não há tensão entre os fios.
+4. Escolha fusível com valor igual ou menor que a capacidade do fio.
+5. Se não souber a capacidade do fio, pare e não monte a proteção.
+6. Identifique o fio positivo que sai da fonte para a carga.
+7. Corte esse fio positivo perto da fonte, deixando pontas para o suporte.
+8. Encaixe o fusível no suporte fechado.
+9. Ligue o fio que vem da fonte em um lado do suporte.
+10. Ligue o fio que vai para a carga no outro lado do suporte.
+11. Isole as emendas com fita isolante ou tubo termocontrátil.
+12. Fixe o suporte onde não receba água, impacto ou atrito.
+13. Reconecte o borne negativo com a chave ainda desligada.
+14. Meça a continuidade através do suporte com o multímetro.
+15. Confirme apito ou valor perto de zero no aparelho.
+16. Ligue a chave com a carga desligada e observe por dois minutos.
+17. Ligue a carga normal e confirme que o circuito funciona sem aquecer.
+18. Desligue a chave e procure o curto se o fusível queimar.
+
+ATENCAO
+-------
+A rede elétrica da casa (110 V ou 220 V) pode matar. Nunca abra, emende
+ou instale fusível nela. Chame um eletricista.
+Um fusível não protege pessoas de choque; isso cabe ao DR.
+Nunca coloque moeda, papel-alumínio, arame ou fio no lugar do fusível.
+Isso retira a proteção e pode causar incêndio.
+Nunca use fusível de valor maior que o original. Se ele queimar de novo,
+há curto ou sobrecarga: desligue e encontre o defeito.
+Fio mais fino que a capacidade do fusível pode aquecer e pegar fogo antes
+do fusível atuar.
+Desligue a fonte e confirme com o multímetro antes de cortar ou emendar.
+Com a fonte ligada, não trabalhe.
+Se houver cheiro de queimado, fumaça ou fio quente, desligue a fonte e pare.
+Em caso de choque, não toque na pessoa; desligue e chame ajuda médica.
+
+SE NAO TIVER
+------------
+Não existe substituto seguro para o fusível.
+Sem a peça, não ligue o circuito.
+Sem suporte, não prenda o fusível com torção direta no fio; use um
+porta-fusível fechado de sucata equivalente.
+Sem multímetro, não confirme a ausência de tensão: peça um emprestado ou
+não monte a proteção.
+Sem chave de desligamento, desconecte o borne negativo da bateria antes
+de qualquer manipulação.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Com a fonte desligada, o multímetro apita ou marca perto de zero.
+Com a carga ligada, o suporte e o fio não aquecem nem cheiram a queimado.
+A carga funciona e o fusível não queima no uso normal.
+
+FONTES
+------
+CDC, orientações de segurança contra riscos elétricos após desastres e
+primeiros socorros em caso de choque elétrico (página revisada em 2026).
+Prática consolidada de proteção contra sobrecorrente com fusível em
+circuito de baixa tensão. Não existe documento único: este texto é um
+resumo operacional e não substitui treinamento.

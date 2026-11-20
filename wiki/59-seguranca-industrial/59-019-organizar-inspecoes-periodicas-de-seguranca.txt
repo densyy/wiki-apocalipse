@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 59-019
+TITULO: Como organizar inspeções periódicas de segurança
+CATEGORIA: 59 - Segurança industrial e riscos ocupacionais
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: caderno, caneta, lista de verificação, conhecimento do local
+REVISAO: 2026-11
+PALAVRAS-CHAVE: inspeção, segurança, checklist, risco, cipa, pgr
+==============================================================================
+
+OBJETIVO
+--------
+Montar e executar um calendário de inspeções que encontre riscos
+antes que eles causem acidentes.
+
+QUANDO USAR
+-----------
+Ao implantar inspeções na oficina ou no local de trabalho.
+Depois de mudança de lay-out, máquina ou acidente.
+Quando trabalhadores ou CIPA pedirem verificação.
+
+NAO USE QUANDO
+--------------
+Não substitui laudo técnico de risco químico ou elétrico.
+Não substitui a avaliação de riscos exigida pela NR-1.
+
+MATERIAIS
+---------
+- Caderno ou prancheta e caneta.
+- Lista de verificação (checklist) impressa ou copiada à mão.
+- Relatórios de inspeções e registros de acidentes, se houver.
+- Equipamento de proteção para circular na área.
+
+PROCEDIMENTO
+------------
+1. Defina quem comanda as inspeções e quem participa.
+2. Inclua um trabalhador experiente e, se houver, um membro da CIPA.
+3. Escolha a frequência por área e registre no planejamento do PGR.
+4. Faça rondas curtas e frequentes nas áreas de maior risco.
+5. Programe inspeção completa a cada mês ou a cada dois meses.
+6. Verifique piso, saídas, iluminação, máquinas e instalações elétricas.
+7. Anote cada problema com local, data e descrição curta.
+8. Classifique por gravidade e chance de lesão; dê responsável e prazo.
+9. Refaça após mudanças ou acidentes; guarde e confira as correções.
+
+ATENCAO
+-------
+A NR-1 não fixa frequência única; a empresa define o ritmo no PGR.
+Inspeção só serve se o problema for corrigido e verificado depois.
+Interrompa a atividade se houver risco de lesão grave.
+Se exigir laudo técnico, chame profissional habilitado.
+
+SE NAO TIVER
+------------
+Sem checklist, monte o seu com os riscos que você já conhece.
+Sem CIPA, associe um trabalhador experiente à inspeção.
+Sem tempo, faça ronda curta e registre o que viu.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Existe calendário com frequência por área, registrado no PGR.
+Cada inspeção tem relatório com local, data e problemas.
+Todo problema tem responsável, prazo e correção confirmada.
+
+FONTES
+------
+NR-1 do Ministério do Trabalho e Emprego: itens 1.5.4.4.6 e 1.5.5.3.2.
+Manual de interpretação da NR-1 (GRO e PGR) e guias da OSHA.
+Prática consolidada de segurança do trabalho; resumo operacional.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 46-002
+TITULO: Como avaliar sinais vitais de cães
+CATEGORIA: 46 - Medicina veterinária e saúde animal
+TEMPO: 15 minutos
+RISCO: medio
+EXIGE: cão calmo, termômetro digital, papel e lápis, luz
+REVISAO: 2026-11
+PALAVRAS-CHAVE: cachorro, sinais vitais, temperatura, pulso, respiração
+==============================================================================
+
+OBJETIVO
+--------
+Medir temperatura, pulso, respiração e gengiva para notar quando o
+cão precisa de atendimento.
+
+QUANDO USAR
+-----------
+Quando o cão estiver abatido, vomitando ou comendo menos.
+Depois de queda, briga, acidente ou calor intenso.
+
+NAO USE QUANDO
+--------------
+Quando o cão estiver agitado, com dor ou agressivo e não puder ser
+contido. Não substitui exame de veterinário: mostra só o estado
+no momento da medição.
+
+MATERIAIS
+---------
+- Termômetro digital (ou termômetro auricular para animais).
+- Papel e lápis (ou qualquer papel para anotar).
+- Coleira ou corda curta (ou ajuda de outra pessoa).
+
+PROCEDIMENTO
+------------
+1. Peça ajuda para segurar o cão, se houver outra pessoa.
+2. Observe o animal em repouso antes de tocar nele.
+3. Conte os movimentos do peito por 15 segundos.
+4. Multiplique por 4 e anote as respirações por minuto.
+5. Localize a artéria femoral: pulso na face interna da coxa traseira.
+6. Pressione com dois dedos até sentir a batida.
+7. Conte as batidas por 15 segundos e multiplique por 4.
+8. Pressione a gengiva sobre o dente canino por 2 segundos.
+9. Solte e conte os segundos até a gengiva voltar a rosa.
+10. Umedeça o termômetro e introduza aproximadamente 2 cm no reto.
+11. Espere o tempo do aparelho, leia, anote e limpe com água e sabão.
+
+ATENCAO
+-------
+Nunca use termômetro de vidro com mercúrio: pode quebrar e envenenar.
+Não force o termômetro; pare se sentir resistência.
+Gengiva azulada ou pálida, ofego forte ou respiração com esforço são
+emergência: pare e procure um veterinário.
+Valores variam por raça e repouso; alteração exige atendimento.
+
+SE NAO TIVER
+------------
+Sem termômetro, sinta o calor com o dorso da mão; não substitui o número.
+Sem papel, memorize os quatro números e repasse em voz alta.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Anotou respiração, pulso, gengiva em 1 a 2 segundos e temperatura.
+Em repouso: respiração aproximadamente 15 a 30 por minuto; pulso
+aproximadamente 60 a 140; temperatura retal aproximadamente 38 a 39,2 C.
+
+FONTES
+------
+Prática consolidada de avaliação clínica canina, sem documento único.
+As faixas variam por fonte, raça e idade; não substitui veterinário.

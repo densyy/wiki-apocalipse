@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 33-014
+TITULO: Como utilizar esterco como fertilizante com segurança
+CATEGORIA: 33 - Agricultura avançada e autossuficiência rural
+TEMPO: 2 horas de trabalho em 3 meses
+RISCO: alto
+EXIGE: esterco, palha ou capim, água, pá, luvas, barra de ferro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: esterco, adubo, composto, fertilizante, patógenos
+==============================================================================
+
+OBJETIVO
+--------
+Transformar esterco animal em adubo seguro para a horta, sem contaminar
+os alimentos com patógenos.
+
+QUANDO USAR
+-----------
+Quando há esterco de gado, galinha, cabra ou suíno de origem conhecida.
+Quando o solo está empobrecido e falta adubo.
+Antes do plantio, para incorporar o adubo ao solo com antecedência.
+
+NAO USE QUANDO
+--------------
+Não use esterco humano nem de animais carnívoros, como cães e gatos.
+Não use esterco de animais tratados com antiparasitários recentes.
+Não use esterco cru em folhosas, temperos ou cultivo de ciclo curto
+que será comido cru.
+Não use esterco de origem desconhecida, com cheiro químico ou com óleo.
+
+MATERIAIS
+---------
+- Esterco animal de criação conhecida e sadia (fresco ou seco).
+- Material fibroso rico em carbono (palha, capim seco, serragem, bagaço).
+- Água limpa.
+- Pá, enxada ou ancinho.
+- Luvas e máscara de pano.
+- Termômetro de composto (ou barra de ferro como substituto).
+- Local plano, sombreado, longe da horta e de cursos d'água.
+
+PROCEDIMENTO
+------------
+1. Escolha local plano, sombreado, com água perto e longe da horta.
+2. Misture 3 partes de material fibroso para 1 parte de esterco.
+3. Monte a pilha em camadas, começando e terminando com material fibroso.
+4. Dê à pilha aproximadamente 1,2 m de altura, 1 m de largura e
+   1,2 m de comprimento.
+5. Regue cada camada até ficar úmida, sem escorrer água na base.
+6. Espete a barra de ferro no centro; se sair seca, regue mais.
+7. Cubra a pilha com palha ou folhas para manter a umidade.
+8. Meça a temperatura no centro duas ou três vezes por semana.
+9. Mantenha aproximadamente 55 °C ou mais no centro por 15 dias.
+10. Revolva a pilha pelo menos 5 vezes nesses 15 dias, levando a
+    camada de fora para o centro.
+11. Revolva uma vez por semana depois desse período.
+12. Deixe a pilha curtir até completar aproximadamente 90 dias.
+13. Peneire o composto e separe os pedaços ainda não decompostos.
+14. Incorpore o composto pronto ao solo antes do plantio.
+15. Regue a área e lave as mãos e as luvas depois do uso.
+
+ATENCAO
+-------
+Esterco cru abriga Salmonella, E. coli, Campylobacter e ovos de vermes.
+O calor da compostagem mata esses patógenos; a pilha fria não.
+A camada de fora fica fria e abriga patógenos mesmo após o centro aquecer.
+Revolva trazendo o material externo para dentro.
+Nunca use esterco fresco como cobertura sobre plantas em crescimento.
+Gestantes, crianças e pessoas com imunidade baixa correm mais risco.
+Lave as mãos e as luvas e não leve terra da pilha para a cozinha.
+Com cheiro de amônia ou de apodrecido, recomposte o material.
+Fontes divergem: Embrapa sugere 4 reviramentos em 90 dias; a EPA exige 5
+reviramentos com 55 °C por 15 dias. Adote o mais rigoroso.
+Se usar esterco cru, espere 120 dias para culturas que tocam o solo e
+90 dias para as demais, antes da colheita.
+
+SE NAO TIVER
+------------
+Sem termômetro, use a barra de ferro: se não der para segurá-la por
+alguns segundos, a pilha está quente o bastante. É uma medida aproximada.
+Sem material fibroso, não monte a pilha: esterco puro compacta e não
+aquece por igual. Procure palha, capim seco ou serragem.
+Sem tempo para esperar 90 dias, não use o esterco na horta. Aplique-o
+em cultura forrageira ou de cobertura, sem contato com alimento.
+Não substitua a compostagem por apenas secar o esterco ao sol.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O composto pronto tem cor escura, cheiro de terra mofada e textura que
+se esfarela na mão.
+Centro em temperatura ambiente, sem cheiro de amônia nem moscas na pilha.
+
+FONTES
+------
+Folhetos da Embrapa sobre composto orgânico à base de esterco bovino e
+manejo de dejetos; Informe Técnico 84/2018 da UFSM; norma 40 CFR Part 503
+da EPA e regras do programa orgânico do USDA sobre redução de patógenos e
+intervalo de aplicação; NSW Food Authority sobre uso de esterco cru.
+Resumo operacional, não substitui treinamento.

@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 41-020
+TITULO: Como calcular capacidade de carga de uma embarcação
+CATEGORIA: 41 - Navegação avançada e técnicas de expedição
+TEMPO: 45 minutos
+RISCO: critico
+EXIGE: placa ou certificado, tabela hidrostática, marcas de calado, papel
+REVISAO: 2026-11
+PALAVRAS-CHAVE: carga, calado, deslocamento, embarcação, sobrecarga, lastro
+==============================================================================
+
+OBJETIVO
+--------
+Calcular o peso de carga que a embarcação ainda pode receber com segurança.
+
+QUANDO USAR
+-----------
+Ao distribuir carga, combustível e pessoas antes de uma travessia.
+Ao receber mercadorias ou passageiros em cais sem balança.
+Ao suspeitar que a embarcação está carregada além do limite.
+Ao trocar água salgada por doce, ou vice-versa, e notar mudança de calado.
+
+NAO USE QUANDO
+--------------
+Não substitui a placa de capacidade, o certificado de linha de carga
+nem a tabela hidrostática do fabricante: são o limite legal e real.
+Não use se a embarcação adernar, entrar água ou tiver avaria no casco.
+
+MATERIAIS
+---------
+- Placa de capacidade ou certificado da embarcação.
+- Tabela hidrostática da embarcação, se houver (dados do estaleiro).
+- Marcas de calado na proa, na popa e a meia-nau.
+- Papel e lápis para anotar os pesos.
+- Balança ou pesagem conhecida dos itens (estimativa quando não houver).
+
+PROCEDIMENTO
+------------
+1. Leia a placa de capacidade ou o certificado da embarcação.
+2. Anote o peso máximo permitido e quantas pessoas ele inclui.
+3. Se houver marca de carga (Plimsoll), identifique a marca válida.
+4. Use a marca S em água salgada de verão; F em água doce; W no inverno.
+5. Some o peso de todas as pessoas e da tripulação.
+6. Some o peso de combustível, água potável, lastro e mantimentos.
+7. Subtraia essa soma do peso máximo anotado no passo 2.
+8. O resultado é o peso de carga ainda disponível.
+9. Leia as marcas de calado na proa e na popa, dos dois lados do casco.
+10. Some proa e popa e divida por dois: é o calado médio.
+11. Compare o calado médio com a tabela hidrostática da embarcação.
+12. Confira se a linha d'água ficou abaixo da marca de carga válida.
+13. Distribua a carga para que proa e popa afundem de forma semelhante.
+14. Coloque os pesos pesados baixos e próximos ao centro da embarcação.
+15. Repita os passos 9 a 12 depois de carregar.
+
+ATENCAO
+-------
+Sobrecarga é causa comum de afundamento com perda de vidas.
+A marca de carga é o limite legal; se a água a tocar, pare de carregar.
+Em água doce a embarcação afunda mais; a marca F fica acima da marca S.
+A tabela hidrostática é de cada casco; nunca use a de outro barco.
+Carga alta e lateral reduz a estabilidade mesmo com peso total menor.
+Aproximações de peso se somam e podem esconder excesso; deixe margem.
+Em águas rasas o casco afunda mais ao navegar (efeito de sucção);
+a reserva de profundidade pode desaparecer sem aviso.
+Se o barco adernar, entrar água ou a linha d'água passar da marca, pare.
+
+SE NAO TIVER
+------------
+Sem tabela hidrostática, use só a placa de capacidade e a marca de carga.
+Sem placa nem marca, não estime: reduza a carga e procure outro meio.
+Sem balança, use referência conhecida e arredonde sempre para mais.
+Nunca substitua esses dados por uma regra geral de toneladas por metro.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A linha d'água ficou abaixo da marca de carga válida.
+O calado médio confere com o valor da tabela para o peso carregado.
+Proa e popa estão com alturas parecidas e a embarcação não aderna.
+
+FONTES
+------
+Convenção Internacional sobre Linhas de Carga de 1966, da Organização
+Marítima Internacional (IMO); definição de deadweight e deslocamento
+das convenções SOLAS e MARPOL; princípio de Arquimedes aplicado ao
+deslocamento; Manual do Marinheiro Mercante e Merchant Marine
+Officers' Handbook. Resumo operacional; não substitui treinamento nem
+a documentação da embarcação.

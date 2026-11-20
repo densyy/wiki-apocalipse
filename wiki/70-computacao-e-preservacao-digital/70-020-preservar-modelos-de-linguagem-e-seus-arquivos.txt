@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 70-020
+TITULO: Como preservar modelos de linguagem e arquivos de suporte
+CATEGORIA: 70 - Computação de baixo consumo e preservação digital
+TEMPO: 60 minutos
+RISCO: baixo
+EXIGE: computador, acesso inicial à internet, dois meios de guarda, caderno
+REVISAO: 2026-11
+PALAVRAS-CHAVE: modelo, linguagem, pesos, tokenizador, configuração, ia
+==============================================================================
+
+OBJETIVO
+--------
+Guardar o modelo e os arquivos que ele precisa para funcionar offline.
+
+QUANDO USAR
+-----------
+Quando o modelo será usado sem internet.
+Quando o aparelho pode ser formatado ou o modelo vai a outro computador.
+
+NAO USE QUANDO
+--------------
+Quando a licença proíbe cópia: leia o aviso do autor antes de guardar.
+Quando não há espaço livre para baixar e copiar o modelo.
+
+MATERIAIS
+---------
+- Computador com internet só para o download inicial.
+- Pasta exclusiva e dois meios de guarda, como disco e pendrive.
+- Caderno, lápis e programa que calcule sha256.
+
+PROCEDIMENTO
+------------
+1. Anote nome, data, versões do Python e da biblioteca e hash do commit.
+2. Liste arquivos e tamanhos com: hf download NOME --dry-run
+3. Baixe tudo com snapshot_download(repo_id=NOME, local_dir=PASTA).
+4. Confira config.json, tokenizer.json e generation_config.json.
+5. Confira tokenizer_config.json e special_tokens_map.json.
+6. Se o modelo usar vocab.json, guarde também merges.txt.
+7. Prefira pesos safetensors; guarde README e licença do modelo.
+8. Calcule e anote o sha256 de cada arquivo: sha256sum NOME
+9. Copie a pasta para dois meios; deixe um fora do local.
+10. Sem internet, abra com local_files_only=True e refaça o sha256.
+
+ATENCAO
+-------
+Arquivos .bin usam pickle e podem executar código ao abrir.
+Prefira safetensors; não ative trust_remote_code sem ler o código.
+Download interrompido deixa arquivo pela metade: refaça e confira.
+Se não abrir offline, faltou arquivo ou mudou a versão da biblioteca.
+Guarde a licença: sem ela o uso do modelo pode ser ilegal.
+
+SE NAO TIVER
+------------
+Sem safetensors, guarde o .bin, mas não abra fonte desconhecida.
+Sem sha256sum, use outro gerador de sha256 do sistema.
+Sem segundo meio, copie para outro aparelho e renove a cópia.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A pasta tem cada arquivo listado no caderno.
+O código sha256 de cada cópia é igual ao anotado.
+O modelo carrega e responde com a internet desligada.
+
+FONTES
+------
+Documentação oficial da Hugging Face: Transformers offline, safetensors
+e guia de download de repositórios de modelo.
+NIST FIPS 180-4: hash SHA-256 para checagem de integridade.
+Prática consolidada de preservação digital: três cópias, dois meios.

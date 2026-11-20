@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 54-022
+TITULO: Como reconhecer plantas que causam fotossensibilidade
+CATEGORIA: 54 - Fitoterapia e plantas medicinais
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: planta suspeita, guia impresso, luvas, boa luz, caderno
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fotossensibilidade, furocumarina, limão, figo, ruda, mancha
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer plantas que, com seiva na pele e luz solar, causam queimadura.
+
+QUANDO USAR
+-----------
+- Quando alguém manusear limão, figo, aipo ou ruda e for para o sol.
+- Quando aparecer vermelhidão em risquinhos após contato com seiva.
+- Quando aparecerem manchas escuras em faixas depois de colher vegetais.
+- Quando se prepara chá, banho ou cataplasma com planta de nome duvidoso.
+- Quando se trabalha com horta, pomar ou mato em dias de sol forte.
+
+NAO USE QUANDO
+--------------
+- Não prove, não mastigue e não esfregue a planta na pele para testar.
+- Se já há queimadura com bolhas, não espere: procure atendimento médico.
+- Este texto não substitui exame de pele nem identificação por especialista.
+
+MATERIAIS
+---------
+- Planta ou parte suspeita, sem tocar a seiva com as mãos nuas.
+- Guia impresso de plantas medicinais da região (ou lista da unidade).
+- Luvas (ou pano grosso) para manusear a planta.
+- Boa luz natural, sem sol direto (ou lanterna de luz branca).
+- Lupa de aumento (ou câmera do celular com foto nítida).
+- Caderno e lápis para anotar nome, parte usada e risco.
+
+PROCEDIMENTO
+------------
+1. Calce as luvas antes de tocar em planta desconhecida.
+2. Separe folha, caule, flor, fruto e seiva em local iluminado.
+3. Pergunte o nome popular e onde a planta foi colhida.
+4. Observe a folha: formato, borda, nervuras e textura.
+5. Observe a seiva: cor, cheiro e se gruda na pele.
+6. Abra o guia e compare um caractere de cada vez.
+7. Confira o nome científico em latim: gênero e espécie.
+8. Procure no guia a família da planta, não só o nome popular.
+9. Anote se a espécie tem fama de manchar a pele com sol.
+10. Verifique se o uso será em chá, banho ou cataplasma.
+11. Se for uso interno, confira a monografia oficial antes de medir dose.
+12. Se sobrar dúvida, marque como não identificada e não use.
+13. Lave a pele com água e sabão se houve contato com a seiva.
+14. Cubra a área com pano ou roupa antes de sair ao sol.
+
+ATENCAO
+-------
+- Aqui a reação é efeito tóxico direto: qualquer pessoa pode tê-la.
+- Não é alergia: não é preciso ter tido contato antes.
+- O dano vem de furocumarina (psoraleno) ativada pela luz UVA.
+- Basta seiva na pele mais sol para a lesão aparecer.
+- Em aproximadamente 24 a 48 horas: ardor, vermelhidão e bolhas.
+- O pico vem em aproximadamente 48 a 72 horas; a mancha pode durar meses.
+- Grupos de risco: limão e bergamota, figo, aipo, cherovia, salsinha, ruda.
+- O figo queima pela seiva da folha e do caule, não pela fruta madura.
+- Erva-de-são-joão (Hypericum) e ruda podem sensibilizar em uso interno.
+- Nunca use óleo de bergamota ou seiva de figo como protetor solar.
+- Não fure bolha: cubra com pano limpo.
+- Procure atendimento se houver bolha grande ou dor forte.
+- Vá ao atendimento se a área escorrer pus ou ficar muito quente.
+
+SE NAO TIVER
+------------
+- Sem guia, peça a lista de plantas seguras na unidade de saúde.
+- Sem luvas, use pano grosso: nunca a pele descoberta.
+- Sem boa luz, espere o dia seguinte: não decida no escuro.
+- Sem identificação da espécie, não improvise: não use.
+- Não use cheiro, cor ou "parece com" como prova de identificação.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- Você anotou o nome científico e três caracteres que batem no guia.
+- Você identificou a família e anotou se o uso é interno ou externo.
+- A pele foi lavada com água e sabão após o contato com a seiva.
+- A área ficou coberta antes da exposição ao sol.
+- Se sobrou dúvida, a planta foi descartada e ninguém a usou.
+
+FONTES
+------
+- DermNet, "Phytophotodermatitis", Ian Coulson, revisão 2021.
+- "New Insights Concerning Phytophotodermatitis Induced by
+  Phototoxic Plants", Life, 2024: revisão sobre furocumarinas e luz UVA.
+- Ministério da Saúde, monografia de Ruta graveolens, CBAF: furocumarinas
+  bergapteno, psoraleno e imperatorina.
+- Anvisa, Formulário de Fitoterápicos: monografia de Hypericum perforatum.
+- Prática consolidada de identificação segura de plantas medicinais.

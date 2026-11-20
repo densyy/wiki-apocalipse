@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 39-016
+TITULO: Como construir uma luneta
+CATEGORIA: 39 - Óptica e instrumentos científicos
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: três lentes convexas, tubos de papelão, papel branco, fita, lixa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: luneta, telescópio, binóculo, espiá, lente, foco
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma luneta com imagem de pé para ver objetos distantes na terra.
+
+QUANDO USAR
+-----------
+Quando quiser observar aves, animais ou sinais a grande distância.
+Quando houver lupas, mas nenhum binóculo ou aparelho pronto.
+
+NAO USE QUANDO
+--------------
+Nunca aponte para o Sol: a luz concentrada queima a retina sem dor.
+Não use se faltar a lente inversora: a imagem ficará de cabeça para baixo.
+
+MATERIAIS
+---------
+- Lente objetiva convexa grande, aproximadamente 5 cm (lupa grande).
+- Lente inversora convexa pequena, aproximadamente 2 cm (lupa pequena).
+- Lente ocular convexa pequena, aproximadamente 2 cm (outra lupa).
+- Dois tubos de papelão opaco que deslizem um dentro do outro.
+- Papel branco, fita adesiva, lixa e régua.
+
+PROCEDIMENTO
+------------
+1. Escolha um alvo distante e parado, a aproximadamente 50 m. Nunca o Sol.
+2. Projete o alvo no papel com a objetiva até focar e meça F_obj.
+3. Repita com a inversora e a ocular: anote F_inv e F_oc.
+4. Prenda a objetiva na frente do tubo externo, bem centralizada.
+5. Marque no tubo o ponto a F_obj da objetiva: imagem intermediária.
+6. Prenda a inversora a aproximadamente 2 x F_inv além dessa marca.
+7. Prenda a ocular a aproximadamente 2 x F_inv mais F_oc da inversora.
+8. Encaixe o tubo da ocular no da objetiva; olhe e deslize até focar.
+9. Ajuste até a imagem ficar de pé; fixe com fita e lixe as bordas.
+
+ATENCAO
+-------
+Nunca aponte a luneta para o Sol: a luz concentrada cega sem dor.
+Óculos escuros não protegem; não existe filtro caseiro seguro.
+Vidro e papelão cortam: use luvas, lixe bordas e recolha cacos.
+A imagem fica de pé só com a inversora no lugar; sem ela, inverte.
+Pare se os olhos doerem; limpe lentes com pano macio, sem esfregar.
+
+SE NAO TIVER
+------------
+Sem lente inversora, monte só objetiva e ocular: amplia, mas inverte.
+Sem tubo deslizante, enrol papelão e cole a ocular em papel vegetal.
+Sem lupa, aproveite lentes de óculos de leitura, ampliador ou brinquedo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ao olhar o alvo, a imagem aparece ampliada, nítida e de pé.
+Ao deslizar o tubo, o foco melhora e a imagem não gira nem inverte.
+
+FONTES
+------
+OpenStax College Physics, seção 26.5 (Telescópios); Museo Galileo de
+Florença; College of Optical Sciences da Universidade do Arizona.
+Resumo operacional de prática consolidada; não substitui treinamento.

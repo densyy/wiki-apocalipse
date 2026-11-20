@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 02-099
+TITULO: Como construir um fogão a lenha
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 2 dias
+RISCO: alto
+EXIGE: tijolo refratário, massa refratária, chapa de ferro, chaminé
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fogão, lenha, fogão a lenha, refratário, chaminé, cozinhar
+==============================================================================
+
+OBJETIVO
+--------
+Construir um fogão a lenha com câmara fechada e chaminé para
+cozinhar sem fumaça dentro de casa.
+
+QUANDO USAR
+-----------
+Quando faltar gás ou eletricidade para cozinhar.
+Quando houver lenha e for preciso cozinhar todos os dias.
+Quando a fumaça de fogão aberto irrita os olhos e a garganta.
+Quando for preciso reduzir o gasto com combustível de cozimento.
+
+NAO USE QUANDO
+--------------
+Em ambiente sem saída de fumaça para o exterior.
+Em piso ou parede de madeira sem proteção, nem perto de inflamáveis.
+Sob telhado ou forro inflamável sem afastamento seguro da chaminé.
+Sem material refratário para revestir a câmara de combustão.
+
+MATERIAIS
+---------
+- Tijolo refratário e massa refratária (argamassa de forno).
+- Chapa de ferro para o topo da câmara (chapa de forno ou aço).
+- Grelha de ferro para apoiar a lenha.
+- Chaminé de cerâmica ou metal, com juntas vedáveis.
+- Tijolo comum ou bloco de concreto para a base.
+- Cimento, areia, água, nível, trena, pá e colher de pedreiro.
+
+PROCEDIMENTO
+------------
+1. Escolha local junto a parede externa, com caminho livre para a chaminé.
+2. Assente a base em piso firme, plano e não inflamável.
+3. Marque no chão o retângulo da base e a saída da fumaça.
+4. Construa a base com tijolo comum ou bloco de concreto bem nivelado.
+5. Asse o fundo da câmara com tijolo refratário e massa refratária.
+6. Reserve a boca frontal para a lenha e uma entrada de ar na parte baixa.
+7. Apoie a grelha de ferro sobre a entrada de ar, dentro da câmara.
+8. Feche laterais e teto com tijolo refratário e massa refratária.
+9. Deixe uma abertura no teto da câmara ligando-a à chaminé.
+10. Assente a chapa sobre o teto e vede as bordas com massa refratária.
+11. Encaixe a chaminé de cerâmica ou metal na abertura do teto.
+12. Conduza a chaminé para fora, pela parede ou pelo telhado.
+13. Vede todas as juntas da chaminé com massa refratária.
+14. Estenda a chaminé aproximadamente 1 metro acima do telhado.
+15. Deixe a massa curar antes de acender o primeiro fogo.
+
+ATENCAO
+-------
+Fogão sem chaminé ou com chaminé entupida enche a casa de fumaça.
+Monóxido de carbono é incolor e sem cheiro: mata sem aviso.
+A chaminé é obrigatória para levar a fumaça para fora.
+Dor de cabeça, tontura ou náusea ao cozinhar: saia e apague o fogo.
+Tijolo comum e cimento comum racham com o calor; use refratário na câmara.
+Não queime madeira pintada, tratada ou plástico: a fumaça é tóxica.
+Mantenha inflamáveis longe da chapa: ela fica quente por horas.
+Chaminé com retorno de fumaça: pare de usar e refaça a vedação.
+Limpe a fuligem da chaminé; depósito acumulado pode pegar fogo.
+
+SE NAO TIVER
+------------
+Sem refratário, use tijolo comum só na base; nunca na câmara.
+Sem massa refratária, use argila com água como vedação provisória.
+Sem chapa de ferro, não improvise: chapa fina deforma com o calor.
+Sem chaminé, não use dentro de casa; cozinhe ao ar livre.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A chapa esquenta por igual e a água ferve sem fumaça no ambiente.
+A fumaça sai só pela chaminé, sem vazar pelas juntas ou pela boca frontal.
+A chama fica estável e a massa refratária não racha nos primeiros usos.
+
+FONTES
+------
+Embrapa: tecnologias sociais de eco-habitação.
+Fogão com tijolos refratários, chapa e chaminé.
+CDC e ATSDR: monóxido de carbono é incolor, sem cheiro, vindo de fogões.
+OMS: poluição do ar dentro de casa por fogões tradicionais afeta a saúde.
+Prática consolidada de fogões melhorados no semiárido, sem documento único.

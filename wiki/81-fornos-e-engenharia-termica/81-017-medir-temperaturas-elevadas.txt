@@ -1,0 +1,86 @@
+==============================================================================
+CODIGO: 81-017
+TITULO: Como medir temperaturas elevadas
+CATEGORIA: 81 - Engenharia térmica e fornos industriais
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: pirômetro ou termopar, luvas e óculos de proteção
+REVISAO: 2026-11
+PALAVRAS-CHAVE: temperatura, pirômetro, termopar, forno, medir
+==============================================================================
+
+OBJETIVO
+--------
+Medir com segurança a temperatura dentro de um forno quente e registrar
+o valor para controlar o processo.
+
+QUANDO USAR
+-----------
+Ao acompanhar a subida de temperatura de um forno.
+Quando a peça precisa atingir uma temperatura específica.
+Para saber se o forno está perdendo calor.
+Ao comparar o rendimento antes e depois de um ajuste.
+Quando a cor da chama não basta para decidir.
+
+NAO USE QUANDO
+--------------
+Não use termômetro comum de mercúrio dentro do forno.
+Não confie em pirômetro sem calibrar quando o valor for crítico.
+Não aproxime instrumento de plástico da zona de fogo.
+Não meça sem proteger olhos e mãos do calor radiante.
+
+MATERIAIS
+---------
+- Pirômetro de infravermelho ou termopar (ponto de contato).
+- Termômetro de contato para a face externa (opcional).
+- Luvas resistentes ao calor e óculos escuros de proteção.
+- Caderno e lápis para anotar (celular).
+- Tripé ou suporte para apoiar o sensor com segurança.
+
+PROCEDIMENTO
+------------
+1. Confira o alcance do instrumento antes de medir.
+2. Verifique se a faixa de medição cobre a temperatura do forno.
+3. Calibre o pirômetro com uma superfície de referência.
+4. Use óculos e luvas antes de abrir a porta do forno.
+5. Aponte o pirômetro para a peça, não para a chama direta.
+6. Mantenha a distância indicada pelo fabricante.
+7. Repita a leitura três vezes e anote a média.
+8. Com termopar, encoste a ponta na superfície desejada.
+9. Espere o valor estabilizar antes de registrar.
+10. Meça também a face externa para detectar perdas.
+11. Anote a hora, o ponto medido e o valor obtido.
+12. Compare com a temperatura desejada e ajuste o fogo.
+13. Limpe a lente do pirômetro após cada uso.
+14. Guarde o instrumento em local seco e sem impacto.
+
+ATENCAO
+-------
+Pirômetro de infravermelho lê a superfície, não o ar quente.
+Superfície brilhante pode dar leitura errada: pinte um ponto fosco.
+Fumaça ou vapor entre o sensor e a peça falsifica o valor.
+Termopar encostado na chama mede o fogo, não a peça.
+Luvas comuns não protegem contra calor radiante intenso.
+Nunca olhe diretamente para o interior muito brilhante sem óculos.
+Valor crítico deve ser conferido por dois instrumentos ou métodos.
+
+SE NAO TIVER
+------------
+Sem pirômetro, use a cor do metal como indicação aproximada.
+Sem termopar, meça a face externa para estimar perdas.
+Sem óculos próprios, use máscara de solda com lente escura.
+Sem suporte, peça a outra pessoa para segurar o instrumento longe do fogo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As leituras repetidas ficam próximas umas das outras.
+O valor medido corresponde ao esperado para aquele ponto.
+Você registrou hora, local e temperatura de cada medição.
+O instrumento continuou funcionando depois do uso.
+
+FONTES
+------
+Prática consolidada de medição de temperatura em fornos, sem documento
+normativo único. Referências correntes de pirômetros de infravermelho,
+termopares e segurança contra calor radiante, como apresentadas em
+manuais de instrumentação industrial e de segurança no trabalho.

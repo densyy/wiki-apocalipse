@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 07-042
+TITULO: Como montar um plano de evacuação
+CATEGORIA: 07 - Guerra, radiação e catástrofes nucleares
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: papel, caneta, mapa da região e contatos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: evacuação, fuga, rota, encontro, abrigo, mochila
+==============================================================================
+
+OBJETIVO
+--------
+Monte um plano escrito de fuga com rota, encontro e mochila.
+
+QUANDO USAR
+-----------
+Quando morar perto de alvo militar, usina ou zona de risco.
+Quando a Defesa Civil avisar que sua rua pode evacuar.
+Quando a familia nao fica junta durante o dia.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Papel e caneta (lapis e fita adesiva servem).
+- Mapa impresso da cidade e do bairro (desenho a mao serve).
+- Copias de documentos em saco plastico fechado.
+- Mochila de emergencia pronta por pessoa.
+- Lanterna e pilhas extras com radio a pilha junto.
+
+PROCEDIMENTO
+------------
+1. Liste todos da casa com nome, idade e necessidade especial.
+2. Marque no mapa dois destinos em direcoes opostas.
+3. Trace duas rotas de fuga a pe saindo de casa.
+4. Trace uma rota de carro evitando ponte e tunel estreito.
+5. Escolha um ponto de encontro perto de casa.
+6. Escolha um ponto de encontro fora do bairro.
+7. Escolha um contato fora da cidade para avisar todos.
+8. Anote telefones e enderecos em papel para cada pessoa.
+9. Defina quem ajuda crianca, idoso e animal na fuga.
+10. Deixe a mochila pronta em local alto e de facil acesso.
+11. Treine a fuga a pe com a familia duas vezes por ano.
+
+ATENCAO
+-------
+Plano no papel nao garante rua livre em ataque ou panico.
+Sair de carro sob poeira radioativa expoe sem proteger.
+Nao volte para buscar objetos apos ordem de evacuar.
+Este plano nao substitui a ordem da Defesa Civil na hora.
+
+SE NAO TIVER
+------------
+Sem mapa, desenhe rua, rio, ponte e abrigo a mao.
+Sem carro, combine carona com vizinho e mantenha rota a pe.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Voce cita de memoria as duas rotas e os dois encontros.
+Toda a familia completa a fuga de treino sem ajuda.
+
+FONTES
+------
+Pagina de evacuacao da FEMA no Ready americano.
+Pagina de evacuacao em emergencia quimica do CDC americano.
+Cartilha de plano familiar da Defesa Civil de Santa Catarina.

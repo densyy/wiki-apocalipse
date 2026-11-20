@@ -1,0 +1,81 @@
+==============================================================================
+CODIGO: 90-009
+TITULO: Como reconhecer contaminação por pesticidas
+CATEGORIA: 90 - Emergências químicas, industriais e ambientais
+TEMPO: 20 minutos
+RISCO: alto
+EXIGE: luvas, máscara, água corrente, sabão e rótulo do produto
+REVISAO: 2026-11
+PALAVRAS-CHAVE: pesticide, inseticida, raticida, residuo, alimento, sintoma
+==============================================================================
+
+OBJETIVO
+---------
+Reconhecer exposição a pesticidas em casa, hortas e alimentos e agir cedo.
+
+QUANDO USAR
+-----------
+Após aplicação de inseticida ou raticida em casa ou depósito.
+Quando alguém apresentar tontura, náusea ou suor após contato com veneno.
+Ao encontrar cheiro químico em alimentos, caixas ou embalagens.
+Depois de manejar sementes tratadas ou iscas para roedores.
+Quando criança ou animal tiver acesso a veneno guardado sem segurança.
+
+NAO USE QUANDO
+--------------
+Não manipule a isca ou o produto sem luvas.
+Não provoque vômito em pessoa sonolenta ou convulsionando.
+Não use o mesmo recipiente para veneno e para água ou comida.
+
+MATERIAIS
+---------
+- Luvas de nitrilo e máscara com filtro para vapores.
+- Água corrente e sabão para lavar pele e superfícies.
+- Recipiente identificado para guardar embalagens e sobras.
+- Rótulo ou fotografia do produto aplicado.
+- Caderno para anotar produto, hora, dose e sintomas.
+
+PROCEDIMENTO
+------------
+1. Afastar a pessoa do local onde o produto foi aplicado.
+2. Coloque luvas e máscara antes de manusear a embalagem.
+3. Retire a roupa contaminada sem sacudir e guarde-a separada.
+4. Lave a pele exposta com água corrente e sabão por 15 minutos.
+5. Enxágue os olhos com água corrente se houver ardência.
+6. Leia o rótulo e anote o princípio ativo e a concentração.
+7. Observe sinais: suor excessivo, saliva, tremor, tontura ou vômito.
+8. Identifique se houve ingestão, inalação ou contato na pele.
+9. Guarde o restante do produto em recipiente fechado e etiquetado.
+10. Lave frutas e hortaliças com água corrente antes do consumo.
+11. Procure atendimento médico e leve o rótulo ou a embalagem.
+12. Avise o serviço de vigilância se várias pessoas adoecerem.
+
+ATENCAO
+-------
+Muitos pesticidas absorvem pela pele e pelos pulmões sem cheiro perceptível.
+Sintomas podem surgir minutos ou horas depois da exposição.
+Falta de ar, convulsão ou perda de consciência exigem emergência.
+Raticidas podem causar sangramento tardio, mesmo após melhora inicial.
+Nunca dê leite, álcool ou óleo para neutralizar o produto ingerido.
+Não reaplique veneno para reforçar o efeito sem orientação técnica.
+Crianças confundem iscas com doces: mantenha fora do alcance.
+
+SE NAO TIVER
+------------
+Sem máscara, areje o ambiente e mantenha distância da área aplicada.
+Sem rótulo, fotografe a embalagem ou leve uma amostra ao serviço de saúde.
+Sem água corrente, use água limpa em abundância e sabão.
+Sem recipiente próprio, use frasco rígido com tampa e etiqueta.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A pele foi lavada e a roupa contaminada foi separada.
+O produto foi identificado e a exposição foi anotada com hora.
+A pessoa foi encaminhada para avaliação médica com o rótulo.
+
+FONTES
+------
+Resumo de fichas de segurança e orientações de vigilância em saúde sobre
+pesticidas domésticos e agrícolas. A remoção da roupa, a lavagem da pele e
+a identificação do produto são condutas consolidadas em protocolos de
+atendimento a intoxicações.

@@ -1,0 +1,80 @@
+==============================================================================
+CODIGO: 90-011
+TITULO: Como compreender contaminação do solo por metais pesados
+CATEGORIA: 90 - Emergências químicas, industriais e ambientais
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: luvas, máscara com filtro de partículas e recipiente para amostra
+REVISAO: 2026-11
+PALAVRAS-CHAVE: solo, metal, cádmio, zinco, horta, amostra
+==============================================================================
+
+OBJETIVO
+---------
+Entender como metais pesados chegam ao solo e reduzir o risco de exposição.
+
+QUANDO USAR
+-----------
+Quando houver indústria, mina ou sucateiro próximo à horta ou ao poço.
+Ao cultivar alimentos em solo urbano ou próximo a rodovia movimentada.
+Quando plantas apresentarem crescimento estranho sem praga aparente.
+Depois de derramamento de efluente ou de lama industrial no terreno.
+Quando o órgão ambiental emitir alerta para a região.
+
+NAO USE QUANDO
+--------------
+Não cultive hortaliças em solo suspeito sem análise prévia.
+Não revolva terra seca com pó sem máscara e sem umedecimento.
+Não descarte resíduo metálico no quintal ou em área de plantio.
+
+MATERIAIS
+---------
+- Luvas de nitrilo e máscara com filtro de partículas.
+- Pá ou espátula limpa para coletar amostra de solo.
+- Saco ou pote limpo e identificado para a amostra.
+- Pano úmido para limpar ferramentas e superfícies.
+- Caderno para anotar local, profundidade, data e usos do solo.
+
+PROCEDIMENTO
+------------
+1. Identifique fontes prováveis: indústria, tráfego, lixo, mineração.
+2. Delimite a área suspeita e sinalize para evitar o contato.
+3. Coloque luvas e máscara antes de mexer na terra.
+4. Umedeça o solo com água limpa para reduzir a poeira.
+5. Colete amostra superficial e outra mais profunda com espátula limpa.
+6. Coloque cada amostra em pote identificado com local e data.
+7. Limpe a ferramenta com pano úmido após a coleta.
+8. Lave as mãos com água corrente e sabão.
+9. Encaminhe as amostras a laboratório credenciado.
+10. Suspenda o consumo de hortaliças da área até o resultado.
+11. Anote os usos do solo e quem frequenta o local.
+12. Comunique o órgão ambiental se houver fonte identificável.
+
+ATENCAO
+-------
+Metais como cádmio, chumbo e zinco não se degradam e se acumulam no solo.
+A absorção pela planta pode levar o metal para a folha e o fruto.
+Ingestão prolongada pode afetar rins, ossos e sistema nervoso.
+Não use água contaminada para irrigar a horta.
+Poeira do solo é via de exposição para quem trabalha sem máscara.
+Resultado de análise é indispensável: cor e cheiro do solo não bastam.
+Crianças que brincam no terreno correm risco maior de ingestão.
+
+SE NAO TIVER
+------------
+Sem laboratório próximo, peça coleta ao serviço de vigilância municipal.
+Sem máscara, não revolva o solo: umedeça e chame equipe técnica.
+Sem pote próprio, use recipiente limpo com tampa e identifique.
+Sem fonte identificada, registre a ocorrência e peça investigação.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As amostras foram coletadas em potes identificados e enviadas para análise.
+O uso de hortaliças da área foi suspenso até o laudo.
+O órgão ambiental foi comunicado com local e data registrados.
+
+FONTES
+------
+Resumo de orientações de agências ambientais e de vigilância em saúde sobre
+metais pesados em solo urbano e agrícola. Coleta identificada e suspensão
+de consumo de hortaliças são medidas consolidadas em manuais de campo.

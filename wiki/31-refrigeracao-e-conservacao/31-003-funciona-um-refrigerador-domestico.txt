@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 31-003
+TITULO: Como funciona um refrigerador doméstico
+CATEGORIA: 31 - Refrigeração e conservação térmica
+TEMPO: 20 minutos
+RISCO: medio
+EXIGE: refrigerador em funcionamento, lanterna, caderno
+REVISAO: 2026-11
+PALAVRAS-CHAVE: geladeira, refrigerador, compressor, refrigerante, frio, gás
+==============================================================================
+
+OBJETIVO
+--------
+Ao terminar, a pessoa identifica as peças e explica o caminho do calor.
+
+QUANDO USAR
+-----------
+Quando o aparelho liga mas não esfria o suficiente.
+Quando se quer entender por que a parte de trás fica quente.
+
+NAO USE QUANDO
+--------------
+Não abra o circuito selado, corte tubos nem recarregue gás.
+O refrigerante fica sob pressão e pode ser inflamável.
+Isso exige técnico e ferramentas próprias.
+
+MATERIAIS
+---------
+- Refrigerador doméstico ligado e com comida dentro.
+- Lanterna para ver a parte de trás e a base.
+- Luvas grossas (ou pano) para proteger as mãos.
+
+PROCEDIMENTO
+------------
+1. Mantenha o aparelho ligado e a porta fechada.
+2. Localize o condensador atrás ou embaixo do aparelho.
+3. Note: nele o refrigerante quente libera calor e vira líquido.
+4. Localize o compressor na base traseira, sob tampa escura.
+5. Note: ele comprime o vapor e eleva pressão e temperatura.
+6. Abra a porta e ache o evaporador: tubos frios no congelador.
+7. Note: nele o líquido evapora e retira calor do interior.
+8. Localize o capilar; ele reduz pressão e temperatura do refrigerante.
+9. Siga a ordem: compressor, condensador, capilar, evaporador.
+10. Ajuste o termostato para mais frio, depois volte ao original.
+
+ATENCAO
+-------
+Nunca abra o circuito selado, corte tubos nem recarregue gás.
+O refrigerante fica sob pressão e pode causar queimadura por frio.
+Em modelos com gás inflamável, uma faísca pode provocar incêndio.
+Desligue da tomada antes de mover o aparelho ou limpar as serpentinas.
+Zumbido forte ou gelo demais indicam falha: pare e chame técnico.
+
+SE NAO TIVER
+------------
+Sem refrigerador, observe a unidade externa de um ar-condicionado.
+O ciclo é o mesmo; a condensação aparece numa lata gelada.
+Encoste uma lata gelada na mão: a umidade vem do ar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O compressor liga com estalo e zumbido baixo, depois para.
+O evaporador fica frio, com gelo ou umidade branca.
+O interior esfria e o termostato desliga o compressor.
+
+FONTES
+------
+Prática consolidada de refrigeração por compressão de vapor.
+Referências: EGEE 102 (Penn State), ASHRAE, Embraco, Danfoss, IOR.
+Resumo operacional; não substitui treinamento.

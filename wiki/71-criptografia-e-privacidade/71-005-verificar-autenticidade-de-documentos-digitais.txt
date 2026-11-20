@@ -1,0 +1,73 @@
+==============================================================================
+CODIGO: 71-005
+TITULO: Como verificar autenticidade de documentos digitais
+CATEGORIA: 71 - Criptografia, segurança da informação e privacidade
+TEMPO: 20 minutos
+RISCO: medio
+EXIGE: arquivo digital original, leitor de PDF, referencia confiavel previa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: assinatura, documento, pdf, certificado, golpe, falso
+==============================================================================
+
+OBJETIVO
+--------
+Reduzir a chance de aceitar um documento digital falso ou alterado.
+
+QUANDO USAR
+-----------
+Ao receber atestado, receituario, contrato ou autorizacao em PDF.
+Quando o documento vier de desconhecido ou por mensagem repassada.
+Antes de agir com base em documento que vale dinheiro ou acesso.
+Quando houver duvida entre original digital, copia impressa e foto.
+
+NAO USE QUANDO
+--------------
+Quando so existir copia impressa ou foto, sem o arquivo digital.
+Quando a decisao for irreversivel e nao houver tempo para conferir.
+
+MATERIAIS
+---------
+- Arquivo digital original do documento, de preferencia em PDF.
+- Leitor de PDF que mostre o painel de assinaturas.
+- Lista de certificados ou valor de resumo obtido antes, se houver.
+- Caderno e lapis para anotar o que foi conferido.
+
+PROCEDIMENTO
+------------
+1. Peca o arquivo original a quem emitiu; recuse foto ou impressao.
+2. Anote o nome do arquivo, o tamanho e a data do recebimento.
+3. Abra o arquivo em leitor de PDF que mostre assinaturas.
+4. Localize o painel de assinatura ou o simbolo de assinado digitalmente.
+5. Leia o nome do assinante e anote no caderno.
+6. Leia a data, a hora e a certificadora e anote.
+7. Verifique se o painel avisa alteracao apos a assinatura.
+8. Confira os dados com o emissor por canal combinado antes.
+9. Se houver resumo salvo, gere o resumo atual e compare.
+
+ATENCAO
+-------
+Painel de assinatura bonito nao prova autenticidade: pode ser imagem.
+Sem certificado do assinante ou internet, nada prova quem assinou.
+Assinatura digitalizada e foto de assinatura, nao e assinatura eletronica.
+Certificado vencido nao invalida a assinatura feita na vigencia.
+Revogacao do certificado pode invalidar a assinatura antiga.
+Se o painel acusar alteracao apos a assinatura, nao aceite como original.
+Nao tome decisao irreversivel com base apenas nesta conferencia.
+
+SE NAO TIVER
+------------
+Sem leitor que mostre assinaturas, use outro aparelho ou peca o PDF.
+Sem o arquivo original, pare: foto e impressao nao permitem conferir.
+Sem resumo salvo, diga que a comparacao nao foi possivel.
+Sem internet, use contato presencial ou por radio combinado antes.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O painel nomeia o assinante e a data e nao acusa alteracao.
+Os dados conferem com o que o emissor disse por outro canal.
+Se havia resumo salvo, os caracteres gerados sao iguais aos anotados.
+
+FONTES
+------
+Servico VALIDAR do ITI, Instituto Nacional de Tecnologia da Informacao.
+Regras ICP-Brasil, Portaria ITI 22/2023 e ISO-32000-1 (DocMDP em PDF).

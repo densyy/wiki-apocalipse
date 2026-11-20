@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 36-023
+TITULO: Como reconhecer rochas metamórficas
+CATEGORIA: 36 - Geologia, mineração e recursos naturais
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: amostra de rocha, luz forte, água, faca de aço, vinagre
+REVISAO: 2026-11
+PALAVRAS-CHAVE: pedra, foliação, ardósia, xisto, gnaisse, mármore, quartzito
+==============================================================================
+
+OBJETIVO
+--------
+Classificar uma rocha como metamórfica e nomear o tipo mais provável.
+
+QUANDO USAR
+-----------
+Quando encontrar uma rocha com camadas ou brilho diferente do comum.
+Quando precisar separar mármore de quartzito antes de usar como material.
+Quando estudar a sequência de uma encosta ou de um corte de estrada.
+
+NAO USE QUANDO
+--------------
+Quando a rocha puder ser meteorito ou ter minério de interesse.
+Quando a identificação for decidir compra, obra ou segurança estrutural.
+
+MATERIAIS
+---------
+- Amostra de rocha com superfície fresca (lascada, não intemperizada).
+- Luz forte e pano com água para limpar a superfície.
+- Faca de aço ou moeda de cobre, para teste de dureza.
+- Vinagre ou ácido diluído, para teste de carbonato.
+
+PROCEDIMENTO
+------------
+1. Limpe a amostra com água e pano.
+2. Observe a rocha em luz forte, de perto e de longe.
+3. Procure foliação: minerais achatados alinhados ou faixas de cores.
+4. Separe as rochas com foliação das rochas maciças, sem direção.
+5. Chame de ardósia se a foliação for fina e rachar em lâminas.
+6. Chame de xisto se houver escamas de mica e lâminas visíveis.
+7. Chame de gnaisse se houver faixas grossas claras e escuras.
+8. Chame de quartzito se for maciça e a faca não riscar.
+9. Pingue vinagre na superfície e observe se borbulha.
+10. Chame de mármore se borbulhar e de anfibolito se não borbulhar.
+
+ATENCAO
+-------
+A foliação é o alinhamento de minerais achatados, não só cor em camadas.
+Rochas intemperizadas enganam: a crosta esconde a textura verdadeira.
+Quartzito e mármore podem ter a mesma cor; use os dois testes juntos.
+Não bata na rocha com força: estilhaços podem ferir os olhos.
+Não use ácido forte sem luva nem ventilação; queima pele e olhos.
+Se houver veios metálicos ou cheiro estranho, pare e procure um geólogo.
+
+SE NAO TIVER
+------------
+Sem lupa, aproxime os olhos e use luz forte; sem faca, use moeda de cobre.
+Sem vinagre, teste só a dureza: mármore risca fácil, quartzito não risca.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A rocha mostra foliação visível ou é maciça em toda a amostra.
+Os testes repetidos dão o mesmo resultado em pelo menos dois pontos.
+
+FONTES
+------
+Prática consolidada de reconhecimento de rochas em campo. Referências:
+NPS, guia Metamorphic Rocks; classificação do British Geological Survey.

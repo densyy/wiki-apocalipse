@@ -1,0 +1,82 @@
+==============================================================================
+CODIGO: 51-030
+TITULO: Como criar medições padronizadas na comunidade
+CATEGORIA: 51 - Matemática aplicada à sobrevivência
+TEMPO: 3 horas
+RISCO: medio
+EXIGE: régua, recipiente de 1 litro, peso de referência, caderno, caneta
+REVISAO: 2026-11
+PALAVRAS-CHAVE: medição, padrão, unidade, litro, aferição, comunidade
+==============================================================================
+
+OBJETIVO
+--------
+Fazer com que todos meçam com as mesmas unidades e cheguem ao mesmo valor.
+
+QUANDO USAR
+-----------
+- Quando a comunidade troca bens e precisa de medidas iguais para todos.
+- Quando peças construídas por pessoas diferentes precisam encaixar.
+- Quando se distribui alimento ou remédio em quantidade igual.
+- Quando dois instrumentos discordam e é preciso saber qual está certo.
+
+NAO USE QUANDO
+--------------
+Não substitui aferição legal de balança ou medidor usado em comércio
+fiscalizado, nem laudo de perícia. Nesses casos, procure laboratório
+credenciado pelo Inmetro.
+
+MATERIAIS
+---------
+- Régua ou trena (ou barbante com marcas).
+- Recipiente de 1 litro (ou garrafa com marca conhecida).
+- Peso de referência, como 1 kg (ou pedra marcada após pesagem).
+- Caderno, caneta e etiquetas para os registros.
+- Superfície firme e nivelada.
+- Relógio ou forma de contar segundos.
+
+PROCEDIMENTO
+------------
+1. Escolha as unidades-base: metro, quilograma, litro e segundo.
+2. Escreva no caderno a lista de unidades e seus símbolos: m, kg, L, s.
+3. Adote um padrão mestre para cada grandeza.
+4. Guarde os padrões em local seco, separado do uso diário.
+5. Meça cada padrão com o instrumento de cada pessoa e anote o desvio.
+6. Combine o erro máximo aceitável para cada grandeza e registre-o.
+7. Ajuste ou retire os instrumentos que passarem do limite combinado.
+8. Faça cópias de trabalho dos padrões e distribua entre os usuários.
+9. Rotule cada instrumento com a unidade e o símbolo que ele mede.
+10. Anote no caderno quem recebeu cada cópia e a data da entrega.
+11. Refaça a conferência após queda, umidade ou reparo do instrumento.
+
+ATENCAO
+-------
+Um padrão mestre danificado contamina todas as cópias feitas a partir dele.
+Nunca use o padrão mestre no dia a dia; use sempre uma cópia de trabalho.
+Instrumentos podem concordar entre si e ainda estar errados.
+Só a comparação com o padrão mestre revela esse erro.
+Nunca misture unidades de sistemas diferentes, como polegada e centímetro,
+ou libra e quilograma: a conversão errada gera falha grave.
+Registro incompleto impede descobrir quando o desvio começou.
+Se a discordância persistir após o ajuste, procure assistência credenciada.
+
+SE NAO TIVER
+------------
+Sem peso de referência, use objeto de peso conhecido e confirme-o em
+balança de terceiros antes de adotá-lo como padrão.
+Sem trena, marque um barbante com segmento conhecido e repita a marca.
+Sem relógio, conte em voz alta com ritmo constante e marque como aproximado.
+Sem recipiente de 1 litro, use garrafa com capacidade impressa e
+verifique-a com água e balança.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Duas pessoas medindo o mesmo objeto obtêm o mesmo valor dentro do limite.
+Todos os instrumentos trazem a mesma unidade e o mesmo símbolo.
+O caderno lista os padrões, as cópias entregues e as datas.
+
+FONTES
+------
+Prática consolidada de metrologia e do Sistema Internacional de Unidades.
+Sistema Internacional de Unidades do BIPM e do NIST (SP 330 e SP 811).
+Material didático do Inmetro sobre o SI e a calibração de instrumentos.

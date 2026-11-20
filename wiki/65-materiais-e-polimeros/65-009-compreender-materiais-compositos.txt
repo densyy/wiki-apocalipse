@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 65-009
+TITULO: Como compreender materiais compósitos
+CATEGORIA: 65 - Engenharia de materiais e polímeros
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: luz forte, lupa, amostras de compósito e de metal
+REVISAO: 2026-11
+PALAVRAS-CHAVE: compósito, matriz, reforço, fibra, resina, laminado, vidro
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer um material compósito e explicar por que ele se comporta
+como se comporta, antes de escolher ou inspecionar uma peça.
+
+QUANDO USAR
+-----------
+Quando você quer saber se uma peça é compósito, metal ou plástico.
+Quando precisa entender por que a peça é leve e rígida em um sentido.
+Quando a peça sofreu impacto e você desconfia de dano interno.
+
+NAO USE QUANDO
+--------------
+Não substitua ensaio, norma técnica ou cálculo de engenheiro.
+Não dimensione peça que sustenta peso, pressão ou impacto.
+Não use em item de segurança: capacete, freio, amarração, aeronave.
+
+MATERIAIS
+---------
+- Luz forte, de dia ou lanterna.
+- Lupa ou lente do celular para ampliar.
+- Pano limpo e seco.
+- Amostras de compósito e de metal (peças descartadas servem).
+
+PROCEDIMENTO
+------------
+1. Limpe a peça com pano seco e observe com luz e lupa a trama de fios.
+2. Identifique o reforço: vidro é claro, carbono preto, aramida amarela.
+3. Identifique a matriz: resina plástica, cimento ou metal.
+4. Note a direção dos fios; nela a peça resiste mais à tração.
+5. Compare com metal: aço e alumínio resistem igual em toda direção.
+6. Reconheça o laminado: cada camada tem fios em ângulo diferente.
+7. Procure dano de impacto: amassado pode esconder delaminação.
+8. Bata de leve com o nó dos dedos: som oco indica camada solta.
+
+ATENCAO
+-------
+Compósito não é igual em todas as direções: resiste ao longo da fibra.
+Use luvas e óculos: fibra quebrada corta e resina irrita pele e olhos.
+Impacto pode esconder delaminação, que separa camadas e reduz resistência.
+Não dimensione peça estrutural: exige ensaio, norma e engenheiro.
+Se a peça segura peso ou pessoa e você duvida, retire de uso e peça ajuda.
+
+SE NAO TIVER
+------------
+Sem lupa, use a lente do celular e luz de lado; a leitura fica menos certa.
+Sem amostra, observe peças comuns: tanque, cano, capacete ou peça metálica.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você aponta matriz e reforço e distingue o compósito do metal.
+Você indica a direção dos fios e explica por que a peça resiste nela.
+
+FONTES
+------
+Prática consolidada de engenharia de materiais e polímeros.
+Referências: Composite Materials Handbook (CMH-17, antes MIL-HDBK-17),
+NASA e normas ASTM; resumo operacional, não substitui ensaio.

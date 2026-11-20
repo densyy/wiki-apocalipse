@@ -1,0 +1,86 @@
+==============================================================================
+CODIGO: 56-010
+TITULO: Como selecionar plantas resistentes a doenças
+CATEGORIA: 56 - Reprodução, genética e melhoramento
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: sementes locais, área com doença, caderno, etiquetas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: doença, resistência, seleção, semente, progênie, colheita
+==============================================================================
+
+OBJETIVO
+--------
+Selecionar e guardar sementes das plantas que resistem a doenças locais.
+
+QUANDO USAR
+-----------
+Quando uma doença aparece a cada ano na lavoura ou na horta.
+Quando parte das plantas adoece e parte fica sã no mesmo lugar.
+Quando sementes compradas falham contra uma doença conhecida.
+Quando variedades locais sobrevivem melhor do que as compradas.
+Quando você quer guardar sementes para a próxima safra.
+
+NAO USE QUANDO
+--------------
+Não selecione em área onde a doença nunca aparece: sem pressão da doença
+não há como reconhecer as plantas resistentes.
+Não use sementes de plantas com mofo, podridão ou grãos deformados.
+Não tome uma única planta sã como prova de resistência sem repetir o teste.
+
+MATERIAIS
+---------
+- Sementes de várias plantas da mesma espécie (locais ou guardadas).
+- Área onde a doença aparece a cada ano (ao menos algumas plantas adoecem).
+- Caderno e lápis para anotar linhas, datas e resultados.
+- Estacas ou etiquetas de papel para marcar cada planta escolhida.
+- Sacos de pano ou papel para guardar as sementes de cada planta.
+
+PROCEDIMENTO
+------------
+1. Escolha uma doença visível que aparece a cada ano na sua área.
+2. Plante várias sementes da mesma espécie em linhas numeradas no local
+   da doença.
+3. Deixe as plantas crescerem sem fungicida e sem remover as doentes.
+4. Observe as plantas no momento em que a doença costuma aparecer.
+5. Marque com estaca as plantas sem sintomas ou com sintomas leves.
+6. Anote no caderno a linha e a data de cada planta marcada.
+7. Descarte as plantas com manchas grandes, murcha ou morte.
+8. Colha separadamente as sementes de cada planta marcada.
+9. Guarde cada colheita em saco próprio com a etiqueta da planta.
+10. Na safra seguinte, plante cada saco em uma linha separada.
+11. Observe as plantas de cada linha no momento da doença.
+12. Marque as linhas cujas plantas permaneceram sem sintomas.
+13. Misture as sementes das melhores linhas em um só lote.
+14. Repita o ciclo por aproximadamente duas a três safras.
+15. Guarde o lote final seco, em recipiente tampado, longe de luz e umidade.
+
+ATENCAO
+-------
+Uma planta sem sintomas pode ter escapado da doença por acaso, e não ser
+resistente.
+Se a doença não aparecer na área, pare: sem pressão não há seleção.
+Resistência a uma doença não protege contra outras doenças.
+O patógeno muda com o tempo; uma variedade resistente pode falhar no futuro.
+Não guarde sementes de plantas com mofo, podridão ou grãos deformados.
+
+SE NAO TIVER
+------------
+Sem área com a doença, observe uma horta vizinha onde ela já ocorreu.
+Sem etiquetas, use pedaços de papel numerados trocados após cada chuva.
+Sem sacos, dobre folhas secas, amarre com barbante e plante em breve.
+Sem tempo para várias safras, selecione uma e mantenha o lote misto.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você tem sementes colhidas só das plantas que ficaram sem sintomas.
+Na safra seguinte, as linhas escolhidas adoecem menos que as demais.
+O lote final tem menos plantas doentes que o lote inicial na mesma área.
+
+FONTES
+------
+Prática consolidada de seleção fenotípica, seleção massal e teste de
+progênies, descrita em publicações da Embrapa: Documentos 376 (2016),
+sobre seleção de linhagens de soja resistentes a doenças, e 184 (2008),
+sobre seleção recorrente em plantas autógamas, e no capítulo de métodos
+de melhoramento de sorgo da Embrapa. Os números de safras são aproximados.

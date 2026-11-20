@@ -1,0 +1,72 @@
+==============================================================================
+CODIGO: 17-010
+TITULO: Como reconhecer sinais de tornados
+CATEGORIA: 17 - Meteorologia, clima e meio ambiente
+TEMPO: 5 minutos
+RISCO: alto
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: tornado, funil, redemoinho, detritos, rugido, sirene
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer sinais de tornado e agir sem esperar confirmação visual.
+
+QUANDO USAR
+-----------
+- Quando há tempestade forte com trovões e vento na região.
+- Quando o céu escurece depressa no meio da tempestade.
+- Quando se ouve rugido grave contínuo, parecido com trem de carga.
+- Quando se vê nuvem girando ou descendo em forma de funil.
+- Quando poeira, folhas ou detritos sobem perto do solo.
+- Quando sirenes ou alertas oficiais avisam tornado na área.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Interrompa atividades ao ar livre ao primeiro sinal de tempestade.
+2. Observe a base das nuvens na direção de onde vem o vento.
+3. Procure nuvem que gire em torno de si mesma.
+4. Confira se essa nuvem desce em forma de funil.
+5. Observe se poeira, folhas ou detritos sobem perto do solo.
+6. Ouça um rugido grave e contínuo, parecido com trem de carga.
+7. Trate o rugido ou a nuvem de detritos como tornado presente.
+8. Não espere ver o funil: chuva ou escuridão podem esconder o tornado.
+9. Vá depressa a cômodo interno e sem janelas no piso mais baixo.
+10. Proteja cabeça e pescoço com os braços e agache-se.
+11. Siga sirenes, rádio e alertas oficiais até o aviso terminar.
+
+ATENCAO
+-------
+Muitos tornados não mostram funil e podem vir à noite ou sob chuva.
+Não confie na cor do céu nem na ausência de funil para afastar o risco.
+O rugido pode ser confundido com trovão, tráfego ou vento forte.
+Detritos subindo perto do solo indicam tornado já em contato com o chão.
+Reconhecer o sinal não substitui aviso: sirenes exigem ação imediata.
+Não fique junto a janelas, nem saia para filmar ou observar o tornado.
+Com carro difícil de controlar, pare com segurança e mantenha o cinturão.
+
+SE NAO TIVER
+------------
+Sem visão do céu, confie em sons e alertas oficiais.
+Sem rádio ou celular, observe vento e nuvens; na dúvida, procure abrigo.
+Sem cômodo interno, agache-se atrás de móvel pesado, longe de janelas.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A nuvem giratória, os detritos subindo ou o rugido contínuo foram notados.
+O abrigo interno foi alcançado antes do vento violento chegar.
+
+FONTES
+------
+Orientações de segurança contra tornados da NWS/NOAA (Estados Unidos) e
+informações sobre sinais e ações imediatas do Ready.gov/FEMA.
+Resumo operacional; não substitui treinamento.

@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 36-016
+TITULO: Como identificar depósitos de quartzo
+CATEGORIA: 36 - Geologia, mineração e recursos naturais
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: lupa, faca de aço, vidro, martelo, caderno, luvas e óculos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: quartzo, veio, dureza, sílica, pedra branca, prospecção
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer quartzo no campo e separar depósito de rocha comum.
+
+QUANDO USAR
+-----------
+Quando aparecerem veios brancos ou cristais em rocha exposta.
+Quando se encontrar seixos translúcidos em leito de rio.
+
+NAO USE QUANDO
+--------------
+Para afirmar teor, pureza ou valor sem análise laboratorial.
+
+MATERIAIS
+---------
+- Lupa comum (lupa de bolso).
+- Faca de aço e pedaço de vidro limpo.
+- Martelo pequeno (martelo de geólogo), caderno, luvas e óculos.
+
+PROCEDIMENTO
+------------
+1. Observe o terreno. Não escale talude instável.
+2. Procure rocha exposta em corte de estrada, riacho ou morro.
+3. Limpe a face da rocha. Use superfície fresca, sem musgo ou terra.
+4. Observe o brilho. Quartzo tem brilho de vidro, sem reflexo metálico.
+5. Verifique a quebra. Quartzo rompe em curvas de concha, não em planos.
+6. Risque o vidro com a amostra. O vidro não deve riscar a amostra.
+7. Descarte calcita (faca risca) e feldspato (quebra em planos retos).
+9. Identifique o depósito: veio branco, cristais de seis lados ou drusas
+   (cristais pequenos forrando cavidade) e seixos no leito do rio.
+10. Anote largura, direção, cor e continuidade em três pontos.
+11. Colete uma amostra pequena, com autorização, e etiquete o local.
+
+ATENCAO
+-------
+A cor engana: quartzo pode ser incolor, branco, rosa, roxo ou preto.
+Quartzo quebra. Use óculos e luvas ao martelar, com moderação.
+Não confunda com calcita, feldspato ou vidro com bolhas.
+Campo não prova pureza, teor ou valor. Só laboratório responde.
+Coleta exige autorização. Evite mina abandonada; na dúvida, siga.
+
+SE NAO TIVER
+------------
+Sem lupa, use luz forte e olho desarmado em face fresca.
+Sem vidro, use a faca de aço: quartzo não é riscado por ela.
+Sem óculos e luvas, não use martelo. Apenas observe e anote.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A amostra risca o vidro, resiste à faca e quebra em curvas de concha.
+Os mesmos sinais aparecem no veio, cristais ou seixos do afloramento.
+
+FONTES
+------
+Propriedades do quartzo (Mohs 7, densidade 2,65, fratura conchoidal,
+brilho vítreo): USGS, guia de gemas minerais; Tulane University, notas
+de Mineralogia EENS 2110. Ocorrência em veios e sedimentos é prática
+consolidada de geologia de campo, sem documento único. Resumo operacional.

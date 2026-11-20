@@ -1,0 +1,97 @@
+==============================================================================
+CODIGO: 04-065
+TITULO: Como construir um sistema híbrido de energia
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 240 minutos
+RISCO: alto
+EXIGE: duas fontes de geracao, bateria, controladores, fusivel, multimetro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: energia hibrida, solar, vento, bateria, controlador, luz
+==============================================================================
+
+OBJETIVO
+--------
+Montar um sistema isolado que use duas ou mais fontes para carregar
+um banco de baterias e alimentar luz e aparelhos basicos.
+
+QUANDO USAR
+-----------
+Quando o local nao tem rede eletrica e o sol falha em dias nublados.
+Quando ha vento constante e tambem sol durante parte do dia.
+Quando se quer manter luz apos varios dias sem gerar energia.
+Quando um gerador manual serve de apoio para recarregar a bateria.
+
+NAO USE QUANDO
+--------------
+Quando o objetivo e injetar energia na rede publica da rua.
+Sem controlador de carga entre cada fonte e o banco de baterias.
+Sem espaco ventilado e seco para abrigar as baterias.
+Quando nao ha como interromper a geracao antes de mexer nos cabos.
+
+MATERIAIS
+---------
+- Painel solar com manual e suporte firme.
+- Aerogerador com freio e carga de descarga (ou gerador manual).
+- Banco de baterias de ciclo profundo de uma so tensao.
+- Um controlador de carga por fonte, compativel com o banco.
+- Chave geral e fusivel junto ao polo positivo da bateria.
+- Cabo de secao adequada, terminal e conector proprios.
+- Inversor com potencia acima da soma das cargas.
+- Fusivel para cada saida, multimetro e luva isolada.
+
+PROCEDIMENTO
+------------
+1. Desenhe no papel o caminho: fontes, controladores, banco, chave,
+   fusivel, inversor e cargas.
+2. Leia a tensao nominal de cada equipamento e anote no desenho.
+3. Confirme que todas as fontes e o banco usam a mesma tensao.
+4. Calcule o consumo diario em watt-hora e some 25 por cento de perdas.
+5. Dimensione o banco para pelo menos 2 dias sem geracao.
+6. Monte o banco em caixa ventilada, seca e afastada de fogo.
+7. Nao misture baterias de marca, idade ou capacidade diferentes.
+8. Instale o fusivel no polo positivo, junto da bateria.
+9. Instale a chave geral entre o banco e o barramento de energia.
+10. Ligue a bateria ao controlador antes de ligar qualquer fonte.
+11. Ligue cada fonte ao seu controlador e nunca direto na bateria.
+12. Ligue cada controlador ao barramento com fusivel proprio.
+13. No aerogerador use carga de descarga e freie as pas antes de subir.
+14. No gerador manual use retificador: nunca ligue direto na bateria.
+15. Aterre as estruturas metalicas e siga o manual do equipamento.
+16. Ligue o inversor ao barramento e coloque fusivel em cada saida.
+17. Feche a chave geral e meça a tensao no barramento com o multimetro.
+18. Teste uma fonte por vez e observe a corrente de carga subir.
+19. Desligue nesta ordem: fontes, inversor, chave geral, bateria.
+
+ATENCAO
+-------
+Eletricidade mata: nunca emende ou meça com o sistema energizado.
+Curto em bateria solta faisca, queima ferramenta e incendeia o abrigo.
+Bateria chumbo-acida libera gas inflamavel: ventile e afaste qualquer fogo.
+Aerogerador em vento forte pode quebrar e arremessar pedacos de pa.
+Gerador ligado direto na bateria ferve o eletrolito e pode estourar.
+Nunca realimente a rede publica: isso pode matar quem conserta a rede.
+Gerador a combustao solta monoxido sem cheiro: use somente ao ar livre.
+Com cheiro de queimado, faisca ou bateria quente, abra a chave geral,
+afaste as fontes, deixe esfriar e peca ajuda a quem entende.
+
+SE NAO TIVER
+------------
+Sem aerogerador, use painel solar e um gerador manual de apoio.
+Sem controlador proprio para cada fonte, reduza para uma fonte so.
+Sem caixa ventilada, nao monte o banco dentro de quarto fechado.
+Sem fusivel ou multimetro, nao energize o sistema.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A tensao do barramento fica proxima da tensao nominal do banco.
+Cada fonte faz a corrente de carga subir quando testada sozinha.
+A bateria nao esquenta, nao incha e nao solta gas em excesso.
+Lampada e radio funcionam sem piscar quando uma fonte e desligada.
+
+FONTES
+------
+Criterios da VeraSol para sistemas solares isolados de qualidade.
+Guias de sistemas isolados do Departamento de Energia dos EUA.
+Normas ABNT NBR 5410, NBR 16690 e NR-10 de seguranca eletrica.
+Manuais de fabricantes de controladores, inversores e aerogeradores.
+Pratica consolidada de montadores de sistemas isolados sem rede.

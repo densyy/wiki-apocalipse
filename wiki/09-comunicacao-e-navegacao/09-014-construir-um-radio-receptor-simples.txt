@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 09-014
+TITULO: Como construir um rádio receptor simples
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: fio esmaltado, diodo de germânio, fone sensível, antena, terra
+REVISAO: 2026-11
+PALAVRAS-CHAVE: rádio, receptor, cristal, antena, diodo, fone, sem pilha
+==============================================================================
+
+OBJETIVO
+--------
+Monte um receptor que capta emissoras AM sem pilha nem energia.
+
+QUANDO USAR
+-----------
+Quando o rádio a pilha parou e não há como recarregar.
+Quando é preciso ouvir avisos de uma emissora local.
+
+NAO USE QUANDO
+--------------
+Quando o rádio a pilha funciona ou perto de fios de alta tensão.
+
+MATERIAIS
+---------
+- Fio de cobre esmaltado fino, aproximadamente 20 metros, e lâmina.
+- Tubo de papelão de aproximadamente 4 cm de diâmetro (rolo de papel).
+- Diodo de germânio, por exemplo 1N34A (veja SE NAO TIVER).
+- Fone de alta impedância, de 2000 a 8000 ohm, ou fone piezoelétrico.
+- Fio de aproximadamente 10 metros, estaca de metal e clipe.
+
+PROCEDIMENTO
+------------
+1. Enrole aproximadamente 150 voltas no tubo, com 10 cm livres nas pontas.
+2. Raspe o esmalte das duas pontas e de uma faixa lateral com a lâmina.
+3. Enterre a estaca de metal no solo, longe de fios de energia.
+4. Ligue a ponta inferior da bobina à estaca com um pedaço de fio.
+5. Prenda o fio da antena no clipe.
+6. Encoste o clipe na faixa raspada da bobina.
+7. Estique a antena o mais alto e o mais comprido que o lugar permitir.
+8. Ligue a ponta superior da bobina a um terminal do diodo.
+9. Ligue o outro terminal do diodo a um terminal do fone.
+10. Ligue o outro terminal do fone à estaca de terra.
+11. Coloque o fone no ouvido.
+12. Deslize o clipe pela bobina até ouvir voz ou música.
+
+ATENCAO
+-------
+Fios de alta tensão matam por choque: afaste a antena de fios e postes.
+Em tempestade com raios, desconecte a antena antes de tocar no aparelho.
+Fone comum de celular pode não servir: use fone de alta impedância.
+O alcance é curto: só emissoras locais fortes, sem separar canais próximos.
+Lâmina e arame cortam; proteja os dedos e prenda a antena para não cair.
+
+SE NAO TIVER
+------------
+Sem diodo, use lâmina oxidada e grafite de lápis até ouvir chiado.
+Se nada soar com o diodo, inverta as pontas dele.
+Sem estaca, use cano d'água. Nunca use cano de gás como terra.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ouve-se voz ou música ao deslizar o clipe; o som fica nítido em um ponto.
+
+FONTES
+------
+Prática consolidada de rádio de cristal, receptor passivo sem pilha.
+Detector de lâmina e grafite é o rádio de trincheira de 1944, achado
+como pista em enciclopédia aberta. Medidas aproximadas, de prática amadora.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 09-016
+TITULO: Como identificar frequências de emergência
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: receptor de VHF ou scanner, pilhas, antena, papel e lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: frequência, emergência, rádio, VHF, scanner, NOAA, alerta
+==============================================================================
+
+OBJETIVO
+--------
+Identifique e sintonize a frequência de avisos de emergência da sua região.
+
+QUANDO USAR
+-----------
+Antes de viajar para área sem cobertura de celular.
+Quando o celular e a internet falham e você precisa de avisos.
+Depois de mudar de cidade ou de região.
+
+NAO USE QUANDO
+--------------
+Quando há perigo imediato: ligue para os serviços de emergência.
+Quando a região não tem serviço público de rádio de emergência.
+
+MATERIAIS
+---------
+- Receptor de rádio com faixa VHF ou scanner (rádio comum pode não captar).
+- Pilhas ou bateria reserva.
+- Antena do aparelho, ou antena externa para melhor recepção.
+- Papel e lápis para anotar a frequência.
+
+PROCEDIMENTO
+------------
+1. Confirme se a região tem serviço público de rádio de emergência.
+2. Consiga a lista de frequências desse serviço antes da crise.
+3. Exemplo documentado: o NOAA dos EUA usa 162,400 a 162,550 MHz.
+4. Sintonize 162,400; 162,425; 162,450 e 162,475 MHz, nessa ordem.
+5. Sintonize 162,500; 162,525 e 162,550 MHz, nessa ordem.
+6. Fique em ponto alto e aberto e estenda a antena ao máximo.
+7. Espere alguns segundos em cada frequência e escute com atenção.
+8. Anote a frequência com voz ou tom de aviso mais claro.
+9. Se houver SAME (filtro por região), entre o código da área e os avisos.
+10. Ative o alarme e confirme que ele toca ao receber um aviso.
+11. Refaça a busca ao mudar de cidade ou de região.
+
+ATENCAO
+-------
+Prédios, mato e montanhas cortam o sinal.
+Em terreno plano, o alcance é de aproximadamente 64 km.
+Pilhas fracas e antena curta dão falso "sem sinal": troque as pilhas.
+Sem o código SAME da área, o alarme toca para avisos de outras regiões.
+As frequências do NOAA são dos EUA; no seu país, confirme a lista local.
+
+SE NAO TIVER
+------------
+Sem scanner, use rádio de pilha com VHF e teste cada frequência.
+Sem lista, faça varredura (scan) de ponta a ponta na faixa VHF.
+Sem antena externa, estenda a antena do aparelho e suba a um ponto alto.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O receptor para em uma frequência com voz ou tom de aviso claro e contínuo.
+O alto-falante reproduz a identificação da estação e o texto do aviso.
+
+FONTES
+------
+NOAA Weather Radio All Hazards, do serviço meteorológico dos EUA.
+NOAA sobre SAME e FEMA sobre alertas de emergência.

@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 01-024
+TITULO: Como construir um filtro de cerâmica
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 3 horas de trabalho ativo
+RISCO: alto
+EXIGE: argila, casca de arroz ou serragem, forno, balde com torneira
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, filtro, cerâmica, argila, potável, casca de arroz
+==============================================================================
+
+OBJETIVO
+--------
+Construir um elemento de cerâmica poroso que retira sujeira e reduz
+bactérias e protozoários da água.
+
+QUANDO USAR
+-----------
+Quando não há filtro comprado e há argila, forno e casca de arroz.
+Quando a água está turva e precisa ser clareada antes da fervura.
+Quando várias casas precisam de filtros feitos com material local.
+
+NAO USE QUANDO
+--------------
+Quando houver suspeita de combustível, agrotóxico, metal ou sal.
+A cerâmica não remove esses contaminantes e dá falsa segurança.
+Quando não houver forno que mantenha alta temperatura por horas.
+Quando o elemento estiver rachado, com canal aberto ou mancha preta.
+Quando a água for para bebê ou doente e não puder ser fervida.
+
+MATERIAIS
+---------
+- Argila de oleiro, sem tinta, lixo ou resíduo químico.
+- Casca de arroz moída ou serragem fina de madeira limpa.
+- Água limpa para amassar a cerâmica.
+- Forno a lenha ou a gás com controle de calor.
+- Balde limpo com torneira para guardar a água filtrada.
+- Peneira, pano limpo, escova macia e termômetro de forno.
+
+PROCEDIMENTO
+------------
+1. Peneire a argila e a casca para tirar pedras e folhas.
+2. Meça em peso: aproximadamente 3 de argila e 1 de casca.
+3. Misture argila e casca até ficar tudo uniforme.
+4. Adicione água limpa aos poucos, amassando até formar massa firme.
+5. Amasse mais 10 minutos para retirar bolhas de ar da massa.
+6. Modele um vaso de parede fina e uniforme, com o fundo fechado.
+7. Alise a borda e o fundo; não deixe furos além dos poros da cerâmica.
+8. Deixe secar à sombra por aproximadamente 7 a 15 dias, sem sol.
+9. Confira a secura: o vaso não pode estar frio nem úmido ao toque.
+10. Aqueça o forno até aproximadamente 100 graus e mantenha 2 horas.
+11. Suba o calor devagar até aproximadamente 850 graus, em 1 hora.
+12. Mantenha essa temperatura por aproximadamente 8 horas.
+13. Desligue o fogo, feche as entradas de ar e espere 24 horas.
+14. Retire o vaso e bata levemente: som de sino indica boa queima.
+15. Descarte se o som for surdo, se rachar ou se aparecer carbono preto.
+16. Apoie o vaso no balde limpo, sem encostar na água filtrada.
+17. Coe a água com pano e despeje no vaso; deixe gotejar sem pressão.
+18. Meça o fluxo: o filtro bom passa aproximadamente 1 a 3 L por hora.
+19. Escove com água limpa quando o fluxo cair; nunca use sabão ou cloro.
+
+ATENCAO
+-------
+O forno quente queima e pode incendiar: use luvas e afaste crianças.
+Nunca abra o forno antes de esfriar completamente.
+Sem calor controlado, a cerâmica não vitrifica e o filtro engana.
+Filtro rachado, com carbono preto ou canal aberto não filtra: descarte.
+Não retira vírus, metais, agrotóxico, combustível, sal nem radioatividade.
+Mesmo filtrada, a água pode estar contaminada; ferver antes (veja 01-001).
+Água muito turva entope os poros: deixe assentar e coe antes de despejar.
+Sem teste de laboratório, use o filtro só como pré-filtração.
+Com diarreia, febre ou vômito após beber, pare de usar e procure ajuda.
+
+SE NAO TIVER
+------------
+Sem forno ou controle de calor, não improvise com fogueira aberta.
+A queima fica desigual: clareie a água e ferva antes de beber.
+Sem casca de arroz, use serragem fina de madeira limpa, sem verniz.
+Sem termômetro, observe: a cerâmica boa fica escura e soa como sino.
+Sem torneira, use dois potes com tampa e retire a água com concha limpa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O vaso seco soa como sino ao ser batido e não tem manchas pretas.
+A água escorre em gotas e sai mais clara que a água despejada.
+O fluxo fica entre aproximadamente 1 e 3 litros por hora.
+A borda e o fundo não soltam pó, não racham e não jogam água em jato.
+
+FONTES
+------
+Manual do RDIC, publicado por Potters Without Borders: mistura de
+argila e casca, secagem, queima e teste de vazão.
+Guia da OMS sobre tratamento de emergência da água no ponto de uso.
+Diretrizes da Wilderness Medical Society divulgadas pelo CDC sobre
+poro de filtro e limites da cerâmica.
+Ficha do programa Emergency WASH sobre filtração de cerâmica,
+manutenção e risco de recontaminação.
+Prática consolidada de olaria; não substitui treinamento nem teste.

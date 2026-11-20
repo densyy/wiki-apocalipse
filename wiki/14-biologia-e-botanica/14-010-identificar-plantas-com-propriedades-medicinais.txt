@@ -1,0 +1,97 @@
+==============================================================================
+CODIGO: 14-010
+TITULO: Como identificar plantas com propriedades medicinais
+CATEGORIA: 14 - Biologia, botânica e zoologia
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: luz boa, lupa, caderno, guia botânico da região
+REVISAO: 2026-11
+PALAVRAS-CHAVE: planta medicinal, identificar, nome científico, remédio
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer a espécie correta de uma planta medicinal antes de qualquer uso.
+
+QUANDO USAR
+-----------
+Quando alguém indicar uma planta como remédio e você precisar conferir.
+Quando o nome popular for o único dado disponível.
+Quando a planta vier de outra região ou de vendedor desconhecido.
+Quando for colher, comprar ou indicar uma planta a outra pessoa.
+Quando existir dúvida entre duas espécies parecidas.
+
+NAO USE QUANDO
+--------------
+Não use este guia para escolher dose, preparo ou tratamento de doença.
+Não use no lugar de orientação de farmacêutico ou profissional de saúde.
+Não use se a amostra estiver murcha, em pó ou sem folhas, flores ou frutos.
+Sem essas partes, a identificação fica inconfiável.
+
+MATERIAIS
+---------
+- Lupa de bolso (ou aproximação da câmera do celular).
+- Caderno e lápis para anotar e desenhar.
+- Guia botânico impresso da região (ou lista institucional impressa).
+- Luz do dia ou lanterna.
+- Lona limpa para apoiar a amostra sem misturar materiais.
+- Recipiente tampado e etiqueta para guardar uma amostra.
+
+PROCEDIMENTO
+------------
+1. Anote o nome popular informado e quem o indicou.
+2. Trate o nome popular como pista, nunca como prova.
+3. Observe a planta inteira no local, sem arrancar.
+4. Desenhe ou fotografe folha, caule, flor, fruto e raiz, se visíveis.
+5. Observe como as folhas se prendem ao caule: alternadas ou opostas.
+6. Observe a borda da folha: lisa, serrada ou recortada.
+7. Observe nervuras, pelos, cheiro e textura ao toque leve.
+8. Compare esses caracteres com o guia botânico da região.
+9. Confira o nome científico no guia: são duas palavras em latim.
+10. Confirme que o nome popular da região corresponde a essa espécie.
+11. Identifique qual parte é usada: folha, flor, fruto, raiz ou casca.
+12. Procure no guia as espécies parecidas e tóxicas da sua região.
+13. Compare a sua amostra com cada espécie parecida, uma por uma.
+14. Se restar dúvida, escreva "não identificado" no caderno.
+15. Não colha, não compre e não use uma amostra não identificada.
+16. Peça confirmação a farmacêutico, botânico ou agente de saúde local.
+17. Guarde a amostra etiquetada com data, local e nome científico.
+
+ATENCAO
+-------
+O mesmo nome popular pode designar espécies diferentes em cada região.
+Boldo, alecrim e erva-cidreira têm mais de uma espécie associada.
+Plantas tóxicas podem parecer medicinais para quem não tem treino.
+Uma foto, um pedaço de folha ou pó não bastam para identificar a espécie.
+Muitas plantas mudam de forma conforme a estação ou a fase de crescimento.
+A lista ReniSUS do Ministério da Saúde reúne espécies de interesse para
+estudo; não afirma que toda planta da lista seja segura ou eficaz.
+Planta natural pode intoxicar, danificar fígado e rins e interagir com
+medicamentos. Não use em gestantes, crianças ou idosos sem orientação.
+Pare e procure atendimento se aparecerem náusea, vômito, tontura,
+dormência, palpitação, manchas na pele ou dificuldade para respirar.
+Leve a amostra etiquetada ao atendimento.
+
+SE NAO TIVER
+------------
+Sem guia botânico, não tente identificar sozinho.
+Peça a uma pessoa conhecedora que informe o nome científico e anote quem
+confirmou. Sem lupa, use a aproximação da câmera, mas não a tome como prova.
+Na dúvida, prefira fitoterápico regularizado ou planta de farmácia viva,
+horto terapêutico ou ervanaria confiável, com orientação profissional.
+Nunca substitua a conferência por "parece com" ou "me disseram que é".
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você registrou nome científico, parte usada, local e data da amostra.
+A amostra confere com o guia e não confere com nenhuma espécie tóxica
+parecida. A decisão de usar ou não usar partiu dessa conferência.
+
+FONTES
+------
+Cartilha de orientações sobre o uso de fitoterápicos e plantas medicinais,
+Anvisa, 2022. Relação Nacional de Plantas Medicinais de Interesse ao SUS
+(ReniSUS), Ministério da Saúde. Guia prático de fitoterapia para
+farmacêuticos, Conselho Federal de Farmácia. Orientações da OMS sobre o
+uso seguro de medicamentos à base de plantas. Resumo operacional: na
+dúvida, não usar.

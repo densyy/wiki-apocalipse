@@ -1,0 +1,93 @@
+==============================================================================
+CODIGO: 47-005
+TITULO: Como construir uma debulhadora de milho
+CATEGORIA: 47 - Tecnologia agrícola e mecanização rural
+TEMPO: 3 horas
+RISCO: medio
+EXIGE: madeira, metal, eixo, manivela, parafusos, serra, furadeira
+REVISAO: 2026-11
+PALAVRAS-CHAVE: milho, debulhar, tirar grãos, espiga, tambor, manivela
+==============================================================================
+
+OBJETIVO
+--------
+Construir uma máquina manual que separa os grãos do milho da espiga.
+
+QUANDO USAR
+-----------
+Quando a colheita de milho for grande para debulhar à mão.
+Quando não houver energia elétrica nem máquina industrial por perto.
+Quando os grãos precisarem ser separados para secar, moer ou armazenar.
+
+NAO USE QUANDO
+--------------
+Quando o milho estiver muito úmido: os grãos não soltam e a máquina entope.
+Quando não houver espaço para fixar a caixa com segurança.
+Quando não houver ajuda para segurar a espiga com segurança.
+Quando as mãos ficarem perto demais do tambor em movimento.
+
+MATERIAIS
+---------
+- Tábuas de madeira para a caixa (caixotes ou restos de madeira).
+- Tambor de madeira ou cano (tronco cilíndrico ou rolo de madeira).
+- Dentes de metal (arruelas grandes, pregos sem ponta ou chapinha).
+- Barra de ferro para o eixo (verga reta que caiba no tambor).
+- Manivela de ferro (barra dobrada em L presa ao eixo).
+- Dois suportes de madeira ou metal para segurar o eixo (mancais).
+- Parafusos, arruelas e pregos.
+- Tela de arame ou peneira (tela de nylon firme).
+- Serra, furadeira com broca, martelo, chave e lixa.
+- Óleo ou graxa para lubrificar o eixo.
+- Luvas e óculos de proteção.
+
+PROCEDIMENTO
+------------
+1. Corte as tábuas e monte uma caixa retangular aberta em cima.
+2. Pregue ou aparafuse as laterais, deixando a frente e a trás abertas.
+3. Faça um furo no centro de cada face do tambor com a furadeira.
+4. Prenda os dentes de metal na superfície do tambor em fileiras.
+5. Espalhe os dentes de forma igual em volta do tambor inteiro.
+6. Passe a barra de ferro pelo furo central do tambor.
+7. Apoie as pontas da barra nos dois suportes presos à caixa.
+8. Confira se o tambor gira livre, sem roçar a madeira.
+9. Prenda a manivela numa das pontas da barra de ferro.
+10. Instale a tela inclinada sob o tambor, como peneira.
+11. Deixe uma fresta de aproximadamente 1 cm entre os dentes e a caixa.
+12. Ajuste a fresta: se estreita, quebra o grão; se larga, não debulha.
+13. Lubrifique o eixo nos suportes com óleo ou graxa.
+14. Gire a manivela devagar com uma espiga seca de teste.
+15. Empurre a espiga contra os dentes com um pedaço de pau.
+16. Observe se os grãos caem pela tela e o sabugo sai inteiro.
+
+ATENCAO
+-------
+O tambor gira com força e os dentes de metal cortam: mantenha as mãos longe.
+Nunca empurre a espiga com os dedos; use sempre um pedaço de pau.
+Pare o giro antes de ajustar a fresta ou limpar a tela.
+Pare também antes de retirar um sabugo preso nos dentes.
+Se o eixo travar, pare na hora e solte o bloqueio antes de girar de novo.
+Fresta muito apertada quebra os grãos; muito larga deixa grãos no sabugo.
+Milho úmido entope a tela e não debulha; use grãos secos e duros.
+Madeira rachada ou eixo torto pode quebrar e projetar pedaços: não use.
+Mantenha crianças e animais afastados enquanto a manivela estiver girando.
+
+SE NAO TIVER
+------------
+Sem chapinha, use arruelas grandes ou pregos sem ponta como dentes.
+Sem furadeira, abra o furo com a ponta de um ferro aquecido, com cuidado.
+Sem tela de arame, use um pano firme preso por baixo; ele dura pouco.
+Sem manivela pronta, dobre uma barra de ferro em L e prenda ao eixo.
+Sem madeira adequada, não use tábuas que estilhaçam: procure ajuda.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ao girar, os grãos caem pela tela e o sabugo sai inteiro pela frente.
+Os grãos ficam limpos, com poucos restos de sabugo e poucos grãos presos.
+O tambor gira sem travar e sem roçar as paredes da caixa.
+
+FONTES
+------
+Prática consolidada de mecanização rural artesanal e debulha manual
+de milho, transmitida por oficinas e uso local, sem documento único.
+Este texto é um resumo operacional, não substitui treinamento nem o manual
+do fabricante de uma debulhadora industrial.

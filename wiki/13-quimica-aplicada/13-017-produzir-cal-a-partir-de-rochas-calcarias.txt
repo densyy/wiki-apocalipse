@@ -1,0 +1,91 @@
+==============================================================================
+CODIGO: 13-017
+TITULO: Como produzir cal a partir de rochas calcárias
+CATEGORIA: 13 - Química e conhecimentos científicos aplicados
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: calcário, forno de alta temperatura, lenha, óculos, luvas, respirador
+REVISAO: 2026-11
+PALAVRAS-CHAVE: cal, cal virgem, calcário, óxido de cálcio, calcinar, forno
+==============================================================================
+
+OBJETIVO
+--------
+Obtenha cal virgem (óxido de cálcio) por calcinação, a queima da rocha.
+
+QUANDO USAR
+-----------
+Quando precisar de cal para corrigir solo ácido antes de plantar.
+Quando precisar de cal para reboco, argamassa ou caiação de parede.
+Quando precisar de cal para tratar água ou desinfetar superfície.
+Quando acabar o fornecimento e houver calcário, forno e lenha.
+
+NAO USE QUANDO
+--------------
+Não faça dentro de casa, galpão ou qualquer lugar sem ventilação.
+Não faça sem forno de aproximadamente 900 °C: abaixo disso não vira cal.
+Não faça perto de madeira, papel ou combustível: a cal pode incendiar.
+
+MATERIAIS
+---------
+- Calcário claro, limpo e sem terra (mármore, concha ou calcita).
+- Forno de alvenaria, forja ou forno industrial que chegue a 900 °C.
+- Lenha seca ou outro combustível disponível.
+- Óculos de proteção (ou óculos fechados, em último caso).
+- Luvas grossas de couro e camisa de manga longa.
+- Respirador com filtro de poeira (máscara N95).
+- Pá e pinça de metal para manusear a cal quente.
+- Recipiente metálico seco com tampa (nunca de alumínio).
+- Balde com água apenas para higienizar, nunca para apagar cal.
+
+PROCEDIMENTO
+------------
+1. Selecione pedras de calcário claro, sem terra e sem argila.
+2. Quebre as pedras em pedaços de aproximadamente 5 cm.
+3. Monte o forno em local aberto, seco e longe de combustíveis.
+4. Vista óculos, luvas, manga longa e respirador antes de acender.
+5. Acenda a lenha seca e espere brasa vermelha, sem fumaça escura.
+6. Disponha as pedras sobre a brasa, com espaço entre elas.
+7. Mantenha o fogo alimentado por aproximadamente 45 minutos.
+8. Não curve o rosto sobre o forno: o gás e a poeira sobem.
+9. Verifique uma pedra: a cal pronta fica branca, leve e quebra fácil.
+10. Devolva ao fogo as pedras com núcleo escuro e duro.
+11. Apague o fogo e retire a cal com pá, ainda quente e com luvas.
+12. Guarde a cal em recipiente metálico tampado, seco e ventilado.
+
+ATENCAO
+-------
+A cal virgem (óxido de cálcio) queima pele e olhos em segundos.
+Se cair nos olhos, lave com água corrente por pelo menos 15 minutos.
+Algumas fontes indicam 45 minutos: na dúvida, lave mais e busque ajuda.
+Na pele, retire o pó seco com pano antes de lavar com água.
+Nunca jogue água na cal: a reação libera calor e pode incendiar.
+Em incêndio com cal, não use água: use extintor de CO2 ou pó seco.
+O gás carbônico do forno não tem cheiro; em local fechado sufoca.
+O NIOSH define 2 mg/m³ de limite; sem medidor, trate a poeira como risco.
+A cal absorve umidade e perde força: armazene tampada e use logo.
+
+SE NAO TIVER
+------------
+Sem forno de 900 °C, não improvise: fogueira e braseiro não servem.
+Nesse caso, compre cal hidratada pronta e siga as instruções do rótulo.
+Sem respirador, dobre um pano grosso sobre nariz e boca, mas protege pouco.
+Sem óculos de proteção, não faça: o risco de cegueira não compensa.
+Sem pinça, use pá de metal com cabo longo para a cal quente.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A cal ficou branca ou cinza clara, leve, e quebra com a unha.
+Ao quebrar uma pedra, não há núcleo escuro e duro no centro.
+Uma gota de água numa amostra pequena esquenta e estala: é cal viva.
+O teste esquenta: faça com luvas, longe de papel e madeira.
+
+FONTES
+------
+CETEM (Centro de Tecnologia Mineral, Brasil): capítulo Calcinação,
+Rochas e Minerais Industriais, faixa de 900 a 1.000 °C para calcário.
+NIOSH/CDC (EUA): guia Calcium oxide, limites de exposição e socorro.
+UFU (Universidade Federal de Uberlândia): estudo do óxido de cálcio,
+temperatura em torno de 900 °C e cerca de 45 minutos de calcinação.
+Metso e sindicato da indústria da cal (FIEP/PR): etapas de produção.
+Boletins de segurança (SDS) de cal virgem: reação com água e incêndio.

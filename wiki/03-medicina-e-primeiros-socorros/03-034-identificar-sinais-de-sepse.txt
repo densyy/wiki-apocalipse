@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 03-034
+TITULO: Como identificar sinais de sepse
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 5 minutos
+RISCO: critico
+EXIGE: relógio ou celular para contar o tempo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: sepse, infecção generalizada, febre, confusão, pressão baixa
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer a sepse cedo e procurar atendimento de urgência sem demora.
+
+QUANDO USAR
+-----------
+Quando a pessoa tem infecção conhecida ou suspeita e piora.
+Quando há febre, calafrios ou ferida, tosse ou dor ao urinar.
+Quando aparece confusão, sonolência ou respiração acelerada de repente.
+Em idoso, criança pequena ou pessoa com defesa imunológica baixa.
+Quando a infecção não melhora ou volta a piorar depois de melhorar.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Relógio ou celular para cronometrar a respiração (opcional).
+- Termômetro, se houver (opcional).
+- Medidor de pressão arterial, se houver (opcional).
+- Papel e caneta para anotar sinais e hora (opcional).
+
+PROCEDIMENTO
+------------
+1. Confirme a infecção: ferida, tosse ou dor ao urinar.
+2. Note febre, calafrios ou dor abdominal.
+3. Meça a temperatura se houver termômetro.
+4. Note febre alta (em torno de 38 graus) ou baixa (em torno de 36).
+5. Conte os movimentos do peito por um minuto com o relógio.
+6. Marque como alerta 22 movimentos ou mais por minuto.
+7. Marque como alerta falta de ar ou respiração curta.
+8. Sinta o pulso no punho por um minuto.
+9. Marque como alerta pulso acima de 90 por minuto em repouso.
+10. Marque como alerta pulso fraco ou muito rápido.
+11. Meça a pressão arterial se houver aparelho.
+12. Marque como alerta pressão sistólica de 100 mmHg ou menos.
+13. Observe o estado mental: confusão ou fala estranha.
+14. Note sonolência excessiva ou dificuldade para acordar.
+15. Observe a pele: fria, suada, pálida ou com manchas.
+16. Observe a urina: pouca quantidade ou nenhuma.
+17. Pergunte sobre dor intensa ou mal-estar geral forte.
+18. Trate como emergência se houver infecção e um sinal de alerta.
+19. Trate como risco maior se respiração rápida e confusão aparecerem.
+20. Acione o serviço de emergência ou vá ao pronto-socorro já.
+21. Informe a infecção, os sinais e a hora em que começaram.
+22. Deite a pessoa e cubra-a enquanto o atendimento chega.
+23. Não ofereça comida ou bebida se ela estiver confusa.
+
+ATENCAO
+-------
+A sepse pode matar em horas. Cada hora sem tratamento aumenta o risco.
+Este texto não substitui avaliação e tratamento médico.
+Não espere aparecerem todos os sinais.
+Um sinal novo em quem tem infecção já é urgência.
+Febre isolada não prova sepse.
+Falta de febre não afasta o risco em idosos ou imunossuprimidos.
+Confusão ou sonolência nova em idoso com infecção é sinal de gravidade.
+Respiração rápida, confusão e pressão baixa juntas elevam o risco.
+Não dê antibiótico, remédio caseiro ou bebida alcoólica por conta própria.
+Se não responde, deite-a de lado e não ofereça comida ou bebida.
+Procure atendimento mesmo que os sinais pareçam discretos.
+Na dúvida, vá ao pronto-socorro.
+
+SE NAO TIVER
+------------
+Sem termômetro: toque a testa; o toque é impreciso, mas ajuda.
+Sem medidor de pressão: não adivinhe; confie nos outros sinais.
+Sem relógio: conte cerca de 15 segundos e multiplique por 4 (aproximado).
+Sem aparelho: compare com o habitual da pessoa. Mudança nova é sinal.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue dizer quais sinais viu e quando eles começaram.
+A decisão de buscar atendimento foi tomada sem esperar a pessoa piorar.
+A equipe de saúde recebeu a informação sobre a infecção logo na chegada.
+
+FONTES
+------
+CDC (Estados Unidos): "About Sepsis", 2025 e 2026.
+CDC: material de reconhecimento precoce para profissionais, 2025.
+Ministério da Saúde do Brasil: Dia Mundial da Sepse, 2022.
+Ministério da Saúde: Biblioteca Virtual em Saúde, Dia Mundial da Sepse.
+Sepsis-3 (JAMA, 2016): critérios qSOFA.
+qSOFA: respiração 22 ou mais por minuto, pressão 100 ou menos e confusão.
+Campanha Sobrevivendo à Sepse, diretrizes 2021.
+Reconhecimento e tratamento precoces; qSOFA não serve como rastreio único.
+Manual MSD (profissionais e família), 2026: sinais de sepse.

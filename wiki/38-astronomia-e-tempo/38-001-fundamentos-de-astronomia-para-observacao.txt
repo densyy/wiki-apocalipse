@@ -1,0 +1,84 @@
+==============================================================================
+CODIGO: 38-001
+TITULO: Fundamentos de astronomia para observação terrestre
+CATEGORIA: 38 - Astronomia e medição do tempo
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: céu limpo, vista livre para o horizonte, caderno, lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: céu, estrelas, lua, planetas, norte, observar, sol
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer os objetos do céu e observá-los sem ferir os olhos.
+
+QUANDO USAR
+-----------
+Sem relógio ou bússola, para estimar direção usando as estrelas.
+Em acampamento, quando a noite estiver escura, limpa e sem pressa.
+Ao ver uma luz forte no céu e precisar saber se é planeta ou estrela.
+Antes de uma caminhada noturna, para escolher o melhor ponto de observação.
+
+NAO USE QUANDO
+--------------
+Quando houver aviso oficial ou perigo imediato: proteja-se primeiro.
+Não use o céu para decidir travessia de água, serra ou rota crítica.
+Não observe o Sol a olho nu, com óculos comuns, binóculo ou telescópio.
+Não confie nesta leitura para navegação de precisão.
+
+MATERIAIS
+---------
+- Vista livre para o céu e para o horizonte.
+- Caderno e lápis para anotar (ou pedra e graveto para marcar no chão).
+- Opcional: binóculo, só para a Lua e o céu noturno, nunca para o Sol.
+
+PROCEDIMENTO
+------------
+1. Escolha um local seguro, aberto e longe de luzes fortes.
+2. Fique parado no escuro por aproximadamente 20 a 30 minutos.
+3. Se precisar de luz, use apenas luz vermelha fraca.
+4. Observe o céu: estrelas cintilam; planetas brilham firme, sem piscar.
+5. Note que as estrelas parecem girar devagar em torno de um ponto fixo.
+6. No hemisfério norte, ache as duas estrelas da ponta da Ursa Maior.
+7. Estenda a linha entre elas cerca de cinco vezes para achar a Polaris.
+8. No hemisfério sul, use a Cruz do Sul para estimar o sul.
+9. Localize a Lua e anote a forma que ela apresenta.
+10. A Lua muda de forma ao longo de aproximadamente 29,5 dias.
+11. A Lua cheia nasce no poente; a nova fica perto do Sol e não aparece.
+12. Repita a observação em outra noite e compare o que mudou.
+13. Para ver o Sol, use projeção: faça um furo pequeno em um papel.
+14. Vire as costas ao Sol e olhe só a imagem projetada no outro papel.
+15. Nunca olhe através do furo nem use binóculo sem filtro solar.
+
+ATENCAO
+-------
+Olhar direto para o Sol pode causar queimadura na retina e cegueira.
+Óculos escuros comuns não protegem: não servem para observar o Sol.
+Binóculo e telescópio sem filtro solar concentram a luz e ferem os olhos.
+Mesmo com óculos de eclipse, não use binóculo sem filtro na frente dele.
+Com nuvens, fumaça ou névoa, a orientação pelas estrelas falha.
+Frio, umidade e escuro cansam: se sentir risco, pare e volte ao abrigo.
+Estrelas e planetas não mudam de lugar depressa; luz que se move é avião.
+
+SE NAO TIVER
+------------
+Sem céu limpo, espere: nuvens passageiras podem abrir depois.
+Sem caderno, grave as formas na memória e repita no dia seguinte.
+Sem saber hemisfério, observe por duas noites qual lado as estrelas giram.
+Sem filtro solar, não observe o Sol: use apenas projeção por furo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você apontou para norte ou sul usando estrelas e conferiu no horizonte.
+Você distinguiu uma estrela cintilante de um planeta de luz firme.
+Você observou o Sol só pela imagem projetada, sem olhar direto.
+
+FONTES
+------
+Administração Nacional da Aeronáutica e Espaço (NASA): páginas Moon
+Phases, Solar System Exploration e Star Basics.
+Sociedade Astronômica Americana, NSF, NOAA e NASA: orientação conjunta
+de segurança ocular para observação solar.
+A localização da Polaris e o uso da Cruz do Sul são prática consolidada
+de navegação celeste, sem documento único consultado.

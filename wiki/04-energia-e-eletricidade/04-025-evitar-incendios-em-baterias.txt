@@ -1,0 +1,82 @@
+==============================================================================
+CODIGO: 04-025
+TITULO: Como evitar incêndios em baterias
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: carregador original, superficie dura, local ventilado
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bateria, incendio, litio, carregar, pilha, curto
+==============================================================================
+
+OBJETIVO
+--------
+Evitar que baterias e pilhas recarregaveis superaquecam e provoquem
+incendio em casa, no abrigo ou no ponto de carga.
+
+QUANDO USAR
+-----------
+Ao carregar celular, lanterna, radio, notebook ou ferramenta sem fio.
+Ao guardar pilhas e baterias sobressalentes em casa ou no abrigo.
+Ao montar um ponto de carga com painel solar, gerador ou bateria maior.
+Quando uma bateria esquentar mais que o normal durante o uso ou a carga.
+
+NAO USE QUANDO
+--------------
+Se a bateria estiver inchada, vazando, com cheiro forte ou fumaca.
+Se ja houver fogo ou fumaca densa: saia do local e chame os bombeiros;
+este procedimento previne incendio, nao apaga incendio aceso.
+
+MATERIAIS
+---------
+- Carregador original do aparelho ou aprovado pelo fabricante.
+- Superficie dura e nao combustivel: ceramica, pedra ou chapa de metal.
+- Fita isolante para cobrir os terminais de pilhas e baterias soltas.
+- Recipiente de metal com tampa para guardar baterias sobressalentes.
+- Balde de areia ou extintor por perto do ponto de carga.
+
+PROCEDIMENTO
+------------
+1. Carregue sempre sobre superficie dura e nao combustivel.
+2. Use apenas o carregador original ou aprovado pelo fabricante.
+3. Nunca carregue sobre cama, sofa, papel, pano ou dentro de gaveta.
+4. Mantenha o ponto de carga ventilado e longe de cortina e combustivel.
+5. Retire o aparelho da tomada quando a carga estiver completa.
+6. Nao deixe baterias carregando sem ninguem por perto.
+7. Guarde baterias sobressalentes longe de tudo que pode queimar.
+8. Cubra os terminais de pilhas soltas com fita isolante.
+9. Nao exponha baterias a sol direto nem as deixe em carro quente.
+10. Nao carregue em calor extremo nem em frio intenso.
+11. Pare de usar na hora se inchar, esquentar demais, cheirar ou vazar.
+12. Leve baterias velhas ou danificadas a um ponto de coleta.
+
+ATENCAO
+-------
+Bateria de litio danificada pode entrar em fuga termica: esquenta
+sozinha, solta gas toxico e pega fogo sem aviso.
+Nunca fure, amasse, dobre, molhe ou abra uma bateria.
+O gas e a fumaca da bateria queimando sao toxicos: nao respire.
+Com fumaca intensa ou labareda, nao tente salvar objetos: saia e
+chame os bombeiros pelo numero local de emergencia.
+Calor extremo, curto entre terminais e carregador errado sao as
+causas mais comuns de incendio em bateria domestica.
+Este procedimento nao apaga fogo ja iniciado; ele so previne.
+
+SE NAO TIVER
+------------
+Sem o carregador original, use outro de mesma tensao e boa
+procedencia, e nunca carregue sem supervisao.
+Sem recipiente de metal, guarde cada bateria separada, com os
+terminais cobertos de fita, longe de inflamaveis.
+Sem extintor, deixe um balde de areia ao lado do ponto de carga;
+areia abafa a chama melhor que pouca agua.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As baterias carregam sem passar de mornas, sem cheiro e sem ruido.
+Terminais cobertos e sobressalentes guardados longe de inflamaveis.
+
+FONTES
+------
+Orientacoes de seguranca com baterias da FEMA e da NFPA; pratica
+consolidada de prevencao de incendio, sem documento unico.

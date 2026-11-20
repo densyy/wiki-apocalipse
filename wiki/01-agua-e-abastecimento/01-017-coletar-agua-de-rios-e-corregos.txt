@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 01-017
+TITULO: Como coletar água de rios e córregos
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 20 minutos
+RISCO: medio
+EXIGE: recipientes limpos, corda, calçado firme
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, rio, córrego, coletar, correnteza, captação, potável
+==============================================================================
+
+OBJETIVO
+--------
+Coletar água de rio ou córrego sem cair e sem sujar o recipiente.
+
+QUANDO USAR
+-----------
+Quando não há água encanada nem outra fonte segura conhecida.
+Quando o rio ou córrego é a única fonte de água corrente por perto.
+
+NAO USE QUANDO
+--------------
+Quando há cheiro de combustível ou agrotóxico, espuma ou peixes mortos.
+Quando a correnteza está forte ou a margem está desmoronando.
+
+MATERIAIS
+---------
+- Recipiente limpo com tampa (garrafa ou balde sem resíduo químico).
+- Corda resistente (cinto ou tiras de pano trançadas).
+- Calçado firme que não escorrega (botina ou sandália presa ao pé).
+- Estaca ou bastão para testar o chão (graveto grosso).
+
+PROCEDIMENTO
+------------
+1. Identifique a montante (de onde vem a água) e a jusante (para onde vai).
+2. Escolha margem plana, firme, sem lama funda e sem despejo visível.
+3. Fique a montante do acampamento, das latrinas e dos animais.
+4. Calce o calçado firme e nunca entre na água.
+5. Amarre a corda no recipiente e segure a outra ponta.
+6. Toque o chão da margem com a estaca antes de se agachar.
+7. Enxague o recipiente e a tampa com água do próprio rio.
+8. Mergulhe o recipiente de lado, com a boca virada para a montante.
+9. Puxe o recipiente cheio para a margem com a corda.
+10. Tampe o recipiente assim que tirar da água.
+11. Guarde o recipiente tampado, na sombra, longe da margem.
+
+ATENCAO
+-------
+Água corrente pode parecer limpa e ainda conter germes de esgoto ou gado.
+Sem tratar, pode transmitir diarreia ou cólera; para tratar, veja 01-001.
+Se sentir cheiro de combustível ou agrotóxico, mude de trecho.
+Correnteza forte pode arrastar quem entra na água: nunca entre.
+Se escorregar, solte o recipiente e rasteje para terra firme.
+Não urine, não defeque nem lave roupa no ponto de captação.
+
+SE NAO TIVER
+------------
+Sem corda, amarre a camisa pela manga ou use um cinto.
+Sem estaca, empurre o chão com o pé antes de apoiar o peso.
+Sem recipiente, use garrafa de água ou suco; nunca galão de veneno.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O recipiente está cheio, tampado e guardado na sombra, longe da margem.
+
+FONTES
+------
+Orientações da CDC sobre encontrar água em emergência e sobre riscos em
+rios e córregos; manual FM 21-76 do Exército dos EUA (coletar a montante
+e purificar toda água); OMS, água potável e captações superficiais.

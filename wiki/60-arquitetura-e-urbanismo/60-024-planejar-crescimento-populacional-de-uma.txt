@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 60-024
+TITULO: Como planejar crescimento populacional de uma comunidade
+CATEGORIA: 60 - Arquitetura, urbanismo e assentamentos
+TEMPO: 180 minutos
+RISCO: medio
+EXIGE: mapa, lápis, fita métrica, lista de moradores, calculadora
+REVISAO: 2026-11
+PALAVRAS-CHAVE: crescimento, população, moradores, capacidade, água
+==============================================================================
+
+OBJETIVO
+--------
+Dimensionar espaço, água e terra para novos moradores sem passar do limite.
+
+QUANDO USAR
+-----------
+Quando novas famílias chegam e a comunidade precisa crescer com ordem.
+Antes de receber evacuados ou migrantes em um assentamento já instalado.
+Quando a água, o espaço ou as latrinas começam a faltar com mais gente.
+
+NAO USE QUANDO
+--------------
+Se o terreno livre passou do limite seguro, não adicione moradores.
+Se não há água para a população atual, resolva a água antes de crescer.
+Este plano não substitui projeto de engenharia nem avaliação técnica.
+
+MATERIAIS
+---------
+- Mapa da área ou papel para desenhar (caderno quadriculado).
+- Fita métrica ou corda com nós a cada metro.
+- Lista de moradores com o número de pessoas de cada casa.
+- Caderno, lápis e calculadora (ou conta feita à mão).
+
+PROCEDIMENTO
+------------
+1. Some as pessoas da lista, incluindo crianças, idosos e gestantes.
+2. Estime o crescimento: some 4% ao ano e inclua evacuados e migrantes.
+3. Desenhe a área livre, longe de encosta, várzea e banhado.
+4. Meça a área em metros quadrados: comprimento vezes largura.
+5. Reserve aproximadamente 45 m² por pessoa futura, com serviços.
+6. Multiplique a população futura por 45 e compare com o passo 4.
+7. Se faltar área, reduza o crescimento ou abra outra área.
+8. Multiplique cada pessoa por aproximadamente 20 litros ao dia.
+9. Compare com a vazão na seca; se faltar água, limite a entrada.
+10. Marque latrinas a pelo menos 30 m da fonte e das casas.
+11. Preveja ponto de água por 500 pessoas e latrina por 50 pessoas.
+12. Reserve terra para escola, posto e ampliação de lotes no croqui.
+
+ATENCAO
+-------
+A meta de 45 m² inclui serviços; abaixo de 30 m² por pessoa a densidade
+prejudica a saúde e aumenta fogo e conflito. Sem água, o plano falha:
+reduza o atendimento. Sem terra reservada, as casas não podem ampliar.
+
+SE NAO TIVER
+------------
+Sem calculadora, some e multiplique à mão. Sem fita, meça em passos de
+aproximadamente 0,7 m. Sem lista, conte as pessoas casa por casa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O croqui mostra a área futura com aproximadamente 45 m² por pessoa.
+A vazão na seca supera o consumo e há terra para escola e latrinas.
+
+FONTES
+------
+UNHCR, Princípios e Padrões de Planejamento de Assentamentos e guia de
+plano diretor: capacidade de carga, 45 m² por pessoa e crescimento de 3% a
+4% ao ano. Sphere Handbook, padrões de abrigo: área mínima e serviços.

@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 16-022
+TITULO: Como realizar manutenção básica de automóveis
+CATEGORIA: 16 - Transporte e mobilidade
+TEMPO: 45 minutos
+RISCO: alto
+EXIGE: piso plano, manual do proprietário, pano limpo, medidor de pressão
+REVISAO: 2026-11
+PALAVRAS-CHAVE: carro, automóvel, manutenção, óleo, pneus, freios, revisão
+==============================================================================
+
+OBJETIVO
+--------
+Conferir os itens básicos do carro e corrigir só o que o manual permite.
+
+QUANDO USAR
+-----------
+Antes de viagem longa ou ao retomar um carro parado há muito tempo.
+Quando acender luz de óleo, temperatura ou pressão dos pneus no painel.
+Após uso severo: poeira, lama, estrada de terra ou trânsito parado.
+Ao receber um carro usado sem registro das revisões anteriores.
+
+NAO USE QUANDO
+--------------
+Se houver vazamento de óleo, combustível ou líquido de arrefecimento.
+Se o pedal do freio afundar ou o carro puxar para um lado.
+Se a luz de óleo ou temperatura acender: pare e desligue o motor.
+
+MATERIAIS
+---------
+- Manual do proprietário do veículo.
+- Pano limpo e seco, sem fiapos (papel-toalha limpo).
+- Medidor de pressão de pneus (manômetro da bomba do posto).
+- Funil limpo para completar o óleo (garrafa com bico).
+- Lanterna para olhar sob o capô.
+
+PROCEDIMENTO
+------------
+1. Estacione em piso plano, com o motor frio e o freio de mão acionado.
+2. Desligue o motor, retire a chave e abra o capô.
+3. Apóie a vareta de sustentação do capô, se houver.
+4. Leia no manual o tipo de óleo e o intervalo das revisões.
+5. Procure a etiqueta de pressão no batente da porta dianteira.
+6. Retire a vareta de óleo e limpe-a com o pano limpo e seco.
+7. Enfique a vareta até o batente e retire-a de novo.
+8. Leia o nível: o óleo deve ficar entre "mín." e "máx.".
+9. Se estiver abaixo do mínimo, complete com o óleo indicado no manual.
+10. Despeje aos poucos, com funil, e meça de novo após cada acréscimo.
+11. Nunca ultrapasse a marca "máx." da vareta.
+12. Recoloque a vareta e aperte a tampa do óleo.
+13. Limpe com o pano qualquer óleo derramado no motor.
+14. Meça a pressão dos pneus frios, incluindo o reserva.
+15. Calibre cada pneu até o valor da etiqueta, com o pneu frio.
+16. Confira se há ranhuras visíveis em toda a banda de rodagem.
+17. Procure cortes, bolhas, pregos ou desgaste só de um lado.
+18. Localize o reservatório do arrefecimento conforme o manual.
+19. Confira o nível com o motor frio, entre as marcas do reservatório.
+20. Não abra a tampa do radiador com o motor quente.
+21. Confira o nível do líquido de freio, entre as marcas do reservatório.
+22. Pise no pedal do freio parado: deve resistir, sem chegar ao assoalho.
+23. Se o nível do freio estiver baixo, não dirija: procure uma oficina.
+24. Confira o nível do reservatório do limpador de para-brisa.
+25. Complete o limpador com o líquido indicado no manual.
+26. Confira faróis, setas, freio e ré com ajuda de outra pessoa.
+27. Acione os limpadores e veja se as palhetas não deixam faixas.
+28. Anote data, quilometragem e o que foi conferido.
+
+ATENCAO
+-------
+Nunca abra o radiador com o motor quente: o líquido pode queimar.
+Óleo em peça quente pode pegar fogo. Limpe antes de ligar o motor.
+Nível acima do máximo pode danificar motor e catalisador.
+Se o nível de óleo cair depressa, pare e procure uma oficina.
+Pouco óleo danifica o motor; pneu mole pode estourar em alta velocidade.
+Freio mole, carro puxando ou luz de óleo acesa exigem oficina: pare.
+As fontes divergem: seis meses ou um ano; ambas citam 10 mil km.
+Siga o intervalo do manual e não troque peças neste procedimento.
+
+SE NAO TIVER
+------------
+Sem medidor, use o manômetro da bomba do posto e pare na etiqueta.
+Sem manual, não complete nenhum nível: apenas observe e procure ajuda.
+Sem pano, limpe a vareta com papel-toalha limpo e seco.
+Sem ajuda, veja as luzes refletidas numa parede ou portão.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A vareta mostra óleo entre mínimo e máximo, sem derramamento no motor.
+Os pneus ficaram calibrados conforme a etiqueta e sem cortes visíveis.
+Todas as luzes acendem, os limpadores limpam e o pedal do freio resiste.
+
+FONTES
+------
+DNIT (Departamento Nacional de Infraestrutura de Transportes):
+orientações sobre manutenção preventiva de veículos.
+Manual do proprietário Chevrolet Onix 2023: calibragem com pneus frios
+e etiqueta de pressão no batente da porta.
+Manual do proprietário Renault Logan/Sandero: vareta de óleo e risco
+de incêndio por óleo em peça quente.

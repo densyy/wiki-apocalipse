@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 65-001
+TITULO: Como entender os fundamentos da ciência dos materiais
+CATEGORIA: 65 - Engenharia de materiais e polímeros
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: caderno, lupa, amostras de metal, plástico e cerâmica
+REVISAO: 2026-11
+PALAVRAS-CHAVE: material, metal, plástico, cerâmica, estrutura, falha
+==============================================================================
+
+OBJETIVO
+--------
+Entender por que um material se comporta como se comporta e escolher
+o material certo para uma reparação simples.
+
+QUANDO USAR
+-----------
+Quando um objeto quebrou e você precisa saber por que.
+Quando precisa escolher entre metal, plástico e cerâmica.
+Quando uma peça deforma, racha ou desgasta antes do esperado.
+Quando um substituto caseiro falhou e você quer evitar o erro.
+
+NAO USE QUANDO
+--------------
+Não substitua ensaio, norma técnica ou cálculo de engenheiro.
+Não dimensione peça que sustenta peso, pressão ou tensão elétrica.
+Não use em equipamento de segurança, ponte ou vaso de pressão.
+
+MATERIAIS
+---------
+- Caderno e lápis para anotar observações.
+- Lupa ou lente de óculos para ampliar.
+- Amostras de metal, plástico e cerâmica para comparar.
+- Ímã para distinguir metais ferrosos.
+
+PROCEDIMENTO
+------------
+1. Observe a peça com lupa. Note cor, brilho, textura e grãos.
+2. Aproxime o ímã: gruda é ferroso; não gruda pode ser alumínio.
+3. Raspe uma borda: metal brilha, cerâmica racha, plástico fica fosco.
+4. Dobrique amostra fina: metal dobra, cerâmica quebra, plástico volta.
+5. Aqueça uma ponta: plástico amolece, metal conduz, cerâmica resiste.
+6. Compare: metal tenaz conduz, cerâmica dura e frágil, polímero isola.
+7. Escolha o material da função e registre o motivo no caderno.
+
+ATENCAO
+-------
+Este texto é introdutório e não substitui ensaio ou norma técnica.
+Não dimensione peça estrutural, vaso de pressão ou parte elétrica.
+Aquecer metal pode queimar: use luva, proteção ocular e ventilação.
+Plástico derretido libera fumos tóxicos; não inale nem derreta em
+ambiente fechado. O ímã não detecta todo aço inox.
+Em dúvida sobre segurança, não use a peça e procure ajuda.
+
+SE NAO TIVER
+------------
+Sem lupa, observe contra a luz e sinta a textura com o dedo.
+Sem ímã, distinga metal por peso, frio ao toque e brilho.
+Sem amostras, use peça descartada; não derreta plástico sem ar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você aponta para cada amostra a família e a propriedade que explica
+por que ela serve ou não serve à função, sem palpite.
+
+FONTES
+------
+Prática consolidada de ensino de engenharia de materiais, presente em
+cursos universitários. Resumo operacional, não substitui treinamento.

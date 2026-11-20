@@ -1,0 +1,80 @@
+==============================================================================
+CODIGO: 51-017
+TITULO: Como calcular potência
+CATEGORIA: 51 - Matemática aplicada à sobrevivência
+TEMPO: 15 minutos
+RISCO: baixo
+EXIGE: papel, lápis, valores medidos de força, tempo, tensão ou corrente
+REVISAO: 2026-11
+PALAVRAS-CHAVE: potência, watt, força, velocidade, tensão, corrente, energia
+==============================================================================
+
+OBJETIVO
+--------
+Calcular a potência de um esforço ou de um aparelho em watts.
+
+QUANDO USAR
+-----------
+Quando precisar saber quanta energia um aparelho consome por segundo.
+Quando quiser dimensionar gerador, bateria ou painel para uma carga.
+Quando precisar comparar o esforço de duas máquinas ou de duas pessoas.
+Quando quiser estimar o trabalho que uma força faz por minuto.
+
+NAO USE QUANDO
+--------------
+Quando não houver dados confiáveis de força, tempo, tensão ou corrente.
+Quando a medição for chute: o resultado será apenas uma estimativa.
+Quando for dimensionar algo que pode ferir alguém, sem folga de segurança.
+
+MATERIAIS
+---------
+- Papel e lápis para as contas.
+- Valores medidos de força e deslocamento, ou de tensão e corrente.
+- Relógio para medir o tempo.
+- Calculadora, se houver; senão, faça a conta à mão.
+
+PROCEDIMENTO
+------------
+1. Decida: potência mecânica ou potência elétrica.
+2. Para potência mecânica, meça energia E em joules.
+3. Meça o tempo t em segundos.
+4. Divida P = E / t. O resultado está em watts.
+5. Se tiver força F em newtons, meça a velocidade v em m/s.
+6. Multiplique P = F x v para obter watts.
+7. Se tiver torque T em N.m, meça a rotação w em rad/s.
+8. Multiplique P = T x w para obter watts.
+9. Para potência elétrica, meça a tensão V em volts.
+10. Meça a corrente I em amperes.
+11. Multiplique P = V x I para obter watts.
+12. Se tiver a resistência R em ohms, use P = I x I x R.
+13. Escreva a unidade ao lado do número: W ou kW.
+14. Converta se precisar: 1 kW = 1000 W; 1 hp equivale a cerca de 746 W.
+
+ATENCAO
+-------
+A potência é taxa de energia por tempo, não quantidade total de energia.
+O resultado vale só para os números medidos.
+Erro na medição passa direto para a conta.
+A fórmula P = V x I vale para corrente contínua e cargas resistivas.
+Em corrente alternada com motor, a potência real pode ser menor que V x I.
+A conta ignora perdas de atrito e aquecimento; a potência útil é menor.
+Nunca use o resultado sozinho para dimensionar algo que sustente peso.
+Não toque em parte energizada para medir tensão ou corrente.
+
+SE NAO TIVER
+------------
+Sem instrumento, leia a etiqueta do aparelho: tensão e corrente.
+Sem relógio, conte os segundos em voz alta e marque no papel.
+Sem calculadora, arredonde os valores e diga que o resultado é aproximado.
+Para força sem dinamômetro, estime a massa em kg.
+Multiplique por aproximadamente 10 para obter newtons.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O resultado é um número seguido de watt e as unidades são consistentes.
+Você consegue explicar de onde veio cada valor usado na conta.
+
+FONTES
+------
+Sistema Internacional de Unidades, conforme NIST: watt é joule por segundo.
+Fórmulas de potência mecânica e elétrica são prática consolidada de física.

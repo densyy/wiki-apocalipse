@@ -1,0 +1,83 @@
+==============================================================================
+CODIGO: 61-007
+TITULO: Como realizar poda de árvores
+CATEGORIA: 61 - Agricultura florestal e manejo de ecossistemas
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: tesoura de poda, luvas, óculos, apoio firme no chão
+REVISAO: 2026-11
+PALAVRAS-CHAVE: poda, árvore, galhos, tesoura, ramo, podar, madeira
+==============================================================================
+
+OBJETIVO
+--------
+Retirar galhos mortos ou atrapalhantes com cortes que a árvore fecha.
+
+QUANDO USAR
+-----------
+Quando houver galho seco ou quebrado que pode cair em alguém.
+Quando galho baixo atrapalha a passagem ou encosta em construção.
+Quando uma árvore jovem precisa tomar forma.
+Quando um ramo doente precisa sair para não espalhar a praga.
+
+NAO USE QUANDO
+--------------
+Quando o galho encosta em fiação elétrica: não podar, chamar quem cuida
+da rede. Quando for precisar subir alto ou usar motosserra sem treino.
+Quando o tronco estiver inclinado ou a árvore for grande e madura:
+chamar profissional. Nunca podar com vento forte ou chuva.
+
+MATERIAIS
+---------
+- Tesoura de poda manual ou serra pequena, limpa e afiada.
+- Luvas grossas para as mãos.
+- Óculos de proteção para os olhos.
+- Pano com álcool para limpar a ferramenta.
+- Apoio firme no chão, ou trabalhar só ao alcance das mãos.
+
+PROCEDIMENTO
+------------
+1. Observe a árvore inteira e escolha só os galhos que vão sair.
+2. Espere dia seco, sem vento, com pessoas afastadas do local.
+3. Calce as luvas e os óculos e limpe a ferramenta com álcool.
+4. Comece pelos galhos mortos, quebrados ou com sinal de doença.
+5. Localize o colo do ramo: o inchaço onde o galho sai do tronco.
+6. Corte por baixo a aproximadamente 10 cm do tronco, um terço.
+7. Corte por cima, mais afastado, até o galho soltar e cair.
+8. Aparo o toco logo acima do colo, sem cortar o colo do ramo.
+9. Deixe o colo intacto: corte rente abre ferida que não fecha.
+10. Evite toco comprido: ele apodrece e abre entrada de pragas.
+11. Limpe a ferramenta com álcool antes de outra árvore.
+12. Junte os galhos caídos e deixe a passagem livre.
+
+ATENCAO
+-------
+Poda em altura e com motosserra pode matar: quedas e cortes graves.
+Nunca podar perto de fiação elétrica; a eletricidade mata sem aviso.
+Não suba em galho fino, molhado, nem em apoio instável.
+Vento, chuva e galho sob tensão derrubam a árvore de repente.
+Galho grande preso pode cair na cabeça: afaste as pessoas primeiro.
+Corte rente destrói o colo e a ferida pode não fechar, entrando praga.
+Se a árvore for alta, inclinada, ou exigir motosserra, pare e chame
+profissional treinado.
+
+SE NAO TIVER
+------------
+Sem tesoura de poda, use serra pequena e afiada nos mesmos cortes.
+Sem álcool, lave a ferramenta com água e sabão e enxugue bem.
+Sem apoio firme, podar só o que alcança do chão; deixe o resto para
+profissional. Nunca improvise apoio em galho, tijolo ou barril.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os cortes ficam limpos, logo acima do colo, sem toco longo e sem
+rasgo de casca. A árvore continua firme e não há galho pendente que
+possa cair.
+
+FONTES
+------
+Prática consolidada de poda de manutenção em arboricultura.
+Base: corte no colo do ramo e método dos três cortes, difundidos por
+sociedades de arboricultura e normas de poda, como ISA e ANSI A300.
+Este texto é resumo operacional e não substitui treinamento em poda
+de altura nem no uso de motosserra.

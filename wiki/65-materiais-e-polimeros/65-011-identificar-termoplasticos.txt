@@ -1,0 +1,85 @@
+==============================================================================
+CODIGO: 65-011
+TITULO: Como identificar termoplásticos
+CATEGORIA: 65 - Engenharia de materiais e polímeros
+TEMPO: 20 minutos
+RISCO: medio
+EXIGE: recipiente com água, fonte de calor, pinça, lugar ventilado
+REVISAO: 2026-11
+PALAVRAS-CHAVE: plástico, resina, termoplástico, código, flutuar
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer se o plástico é termoplástico e separar os tipos comuns.
+
+QUANDO USAR
+-----------
+Quando precisar separar peças para reaproveitar ou reciclar.
+Quando a peça vai ser aquecida e você não sabe se amolece.
+Quando a peça não traz código de identificação visível.
+Quando há mistura de plásticos de origem desconhecida.
+
+NAO USE QUANDO
+--------------
+Quando a peça vai tocar alimentos, água de beber ou feridas: este
+teste não prova que o plástico é seguro para esse uso.
+Quando o plástico tem cheiro forte, resíduo químico ou origem suspeita.
+Quando não há lugar ventilado para aquecer a amostra.
+
+MATERIAIS
+---------
+- Pedaço pequeno da peça, retirado de área escondida.
+- Recipiente transparente com água limpa.
+- Pinça ou arame para segurar a amostra.
+- Fonte de calor: chapa, ferro ou metal aquecido.
+- Lugar ventilado, de preferência ao ar livre.
+- Pano ou luva para proteger a mão.
+
+PROCEDIMENTO
+------------
+1. Observe a marcação da peça e ache o número dentro do triângulo.
+2. Registre o número: 1 PET, 2 HDPE, 3 PVC, 4 LDPE, 5 PP, 6 PS.
+3. Trate o número 7 como indistinto: pode ser outro tipo de resina.
+4. Corte um pedaço pequeno de área escondida da peça.
+5. Encha o recipiente com água limpa.
+6. Solte o pedaço na água e veja se flutua ou afunda.
+7. Interprete: se flutuar, é provavelmente PE ou PP.
+8. Se afundar, pode ser PET, PVC, PS ou outro tipo.
+9. Aqueça o metal em lugar ventilado, sem chama direta.
+10. Encoste o metal quente no pedaço por um instante.
+11. Retire, espere esfriar e repita no mesmo ponto.
+12. Se amoleceu e endureceu de novo, é termoplástico.
+13. Se não amoleceu e escureceu, é termofixo, que não derrete.
+14. Descarte o pedaço aquecido e lave as mãos.
+
+ATENCAO
+-------
+Plásticos ao aquecer liberam vapores: trabalhe ao ar livre.
+Não queime plástico para identificar: a fumaça pode ser tóxica.
+PVC aquecido pode liberar gases irritantes para os olhos.
+O teste de flutuação falha com espuma, enchimento e peças ocas.
+Este teste indica famílias prováveis, não o tipo exato de resina.
+Não use a peça para alimentos ou água depois do teste.
+Se sentir ardência nos olhos ou cheiro forte, pare e ventile.
+
+SE NAO TIVER
+------------
+Sem água, use outro líquido transparente em recipiente limpo.
+Sem fonte de calor, limite-se ao código e ao teste de flutuação.
+Sem pinça, segure o pedaço com arame ou garfo de metal.
+Sem código e sem calor, separe a peça como desconhecida.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você anotou o código da peça quando ele existia.
+O pedaço flutuou ou afundou de forma clara na água.
+O pedaço amoleceu com o calor e endureceu ao esfriar.
+Você separou a peça em PE, PP, PVC, PS, PET ou desconhecida.
+
+FONTES
+------
+Prática consolidada de identificação de plásticos em engenharia.
+Código de identificação de resina: norma ASTM D7611/D7611M.
+Definição de termoplástico e termofixo: ciência de polímeros.
+Resumo operacional; não substitui análise de laboratório.

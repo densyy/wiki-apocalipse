@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 03-094
+TITULO: Como realizar higiene corporal sem chuveiro
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 20 minutos
+RISCO: medio
+EXIGE: água limpa, sabão, pano limpo, toalha seca
+REVISAO: 2026-11
+PALAVRAS-CHAVE: higiene, banho, corpo, limpeza, pano, assadura
+==============================================================================
+
+OBJETIVO
+--------
+Limpar o corpo com pouca água para evitar mau cheiro e infecção.
+
+QUANDO USAR
+-----------
+Sem chuveiro por falta de água, energia ou deslocamento.
+Pessoa acamada que não pode ir ao banho.
+Após suor forte, poeira, lama ou contato com esgoto.
+
+NAO USE QUANDO
+--------------
+Não esfregue ferida aberta, queimadura ou pele com bolhas.
+Não use água suja em olho, boca e partes íntimas.
+
+MATERIAIS
+---------
+- Água limpa em bacia ou garrafa (ou fervida e esfriada).
+- Sabão neutro e dois panos limpos (ou camiseta limpa).
+- Toalha seca e roupa limpa para vestir depois.
+- Saco para juntar roupa suja e pano usado.
+
+PROCEDIMENTO
+------------
+1. Lave as mãos com água e sabão antes de começar.
+2. Separe água limpa para lavar e para enxaguar o pano.
+3. Comece pelo rosto, sem deixar sabão cair nos olhos.
+4. Lave pescoço, axilas, braços, barriga e costas com sabão.
+5. Enxágue o pano em água limpa antes de cada parte.
+6. Lave as pernas e os pés, com atenção entre os dedos.
+7. Lave as partes íntimas por último, com pano separado.
+8. Enxugue bem cada parte com a toalha seca e limpa.
+9. Vista roupa limpa e guarde a roupa suja em saco.
+
+ATENCAO
+-------
+Este banho tira sujeira e cheiro, mas não cura doença.
+Não use água turva, com mau cheiro ou vinda de esgoto.
+Não divida o pano entre pessoas sem lavar com sabão.
+Seque bem as dobras para evitar assadura e coceira.
+Procure ajuda se houver febre, pus ou dor ao urinar.
+
+SE NAO TIVER
+------------
+Sem sabão: limpe só com água e troque a água mais vezes.
+Sem pano: use camiseta limpa, fralda de pano ou meia limpa.
+Sem toalha: seque ao ar sem vento e vista roupa seca.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Pele sem sujeira visível, sem cheiro forte e seca ao toque.
+Dobras secas, sem ardor e sem vermelhidão nova.
+
+FONTES
+------
+Prática consolidada de higiene em emergência (referências:
+orientações da OMS sobre higiene e da Cruz Vermelha sobre
+cuidados básicos). Não substitui atendimento de saúde.

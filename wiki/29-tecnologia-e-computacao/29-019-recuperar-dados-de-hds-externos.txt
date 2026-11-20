@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 29-019
+TITULO: Como recuperar dados de HDs externos
+CATEGORIA: 29 - Tecnologia, computação e informática offline
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: computador, porta ou cabo de dados, midia com espaco livre
+REVISAO: 2026-11
+PALAVRAS-CHAVE: hd externo, disco, recuperar, dados, arquivo, copia, falha
+==============================================================================
+
+OBJETIVO
+--------
+Copiar arquivos legíveis de um disco externo com falha para outra midia.
+
+QUANDO USAR
+-----------
+Quando o disco externo parou de aparecer no computador.
+Quando arquivos nao abrem ou dao erro de leitura.
+Quando o disco foi desconectado durante uma gravacao.
+
+NAO USE QUANDO
+--------------
+Quando o disco emite estalos, zumbido ou nao para de girar. Nesse caso
+desligue e nao insista: pode haver dano fisico.
+
+MATERIAIS
+---------
+- Disco externo com problema.
+- Computador com porta livre e sistema funcionando.
+- Cabo de dados reserva e outro disco com espaco livre.
+- Local seco, fresco e sem poeira para trabalhar.
+
+PROCEDIMENTO
+------------
+1. Pare de usar o disco assim que notar a falha.
+2. Nao grave nele, nao copie para ele e nao o formate.
+3. Desconecte o disco com seguranca pelo sistema operacional.
+4. Espere o disco parar de girar antes de puxar o cabo.
+5. Reconecte o disco em outra porta do computador.
+6. Teste com outro cabo de dados, se tiver um reserva.
+7. Abra o gerenciador de arquivos e veja se o disco aparece.
+8. Se aparecer, copie primeiro os arquivos mais importantes.
+9. Copie os arquivos para o outro disco, um grupo por vez.
+10. Repita ate copiar tudo que o disco ainda permite ler.
+
+ATENCAO
+-------
+Nunca grave, formate ou execute reparo no disco com falha. Isso pode
+apagar dados para sempre.
+Nao abra o disco. Poeira e umidade destroem a superficie.
+Se faz estalos ou nao para de girar, desligue. Cada ligamento pode
+piorar o dano; limite as tentativas.
+Copie antes de confiar: um arquivo que abre pode estar corrompido.
+So recupera o que ainda pode ser lido. Dados sobrescritos nao voltam.
+
+SE NAO TIVER
+------------
+Sem cabo reserva, teste outra porta antes de buscar um novo.
+Sem disco livre, copie so os arquivos insubstitutiveis.
+Se nao ha como copiar, guarde o disco e procure ajuda.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O disco aparece no gerenciador com o nome esperado.
+Os arquivos copiados abrem e mostram o conteudo esperado.
+
+FONTES
+------
+Pratica consolidada de recuperacao de dados em disco, sem documento unico.

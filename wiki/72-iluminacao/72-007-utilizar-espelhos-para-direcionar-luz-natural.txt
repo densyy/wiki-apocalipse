@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 72-007
+TITULO: Como utilizar espelhos para direcionar luz natural
+CATEGORIA: 72 - Sistemas de iluminação e óptica aplicada
+TEMPO: 25 minutos
+RISCO: medio
+EXIGE: espelhos planos, luz solar direta, suporte, superfície clara
+REVISAO: 2026-11
+PALAVRAS-CHAVE: luz natural, espelho, refletir, iluminação, sol, clarear
+==============================================================================
+
+OBJETIVO
+--------
+Direcionar a luz do sol para dentro de um ambiente escuro, sem energia.
+
+QUANDO USAR
+-----------
+Quando o sol bate na janela, mas o cômodo continua escuro.
+Quando não há energia elétrica para acender uma lâmpada durante o dia.
+Quando é preciso ler ou trabalhar perto de uma janela sem luz direta.
+
+NAO USE QUANDO
+--------------
+Não use espelho côncavo ou curvo: ele concentra a luz e pode causar fogo.
+Não aponte o reflexo para os olhos de pessoas ou animais.
+Não use se não houver sol direto no local.
+
+MATERIAIS
+---------
+- Espelho plano (ou chapa metálica polida, ou plástico metalizado liso).
+- Suporte ou estaca para firmar o espelho (ou pedra, ou tijolo).
+- Pano macio para limpar o espelho (ou camiseta limpa).
+- Superfície clara que receba a luz (parede branca, papel ou pano claro).
+
+PROCEDIMENTO
+------------
+1. Limpe o espelho com o pano macio para tirar pó e manchas.
+2. Escolha o cômodo escuro e a janela que recebe sol direto.
+3. Apoie o espelho no parapeito da janela ou prenda-o no suporte.
+4. Incline o espelho devagar, sem olhar direto para o reflexo.
+5. Ajuste o ângulo até a luz cair na área que precisa de claridade.
+6. Prenda o espelho com a estaca ou pedra para o vento não mexer.
+7. Reposicione o espelho quando o sol mudar de posição.
+
+ATENCAO
+-------
+Nunca olhe para a luz refletida: pode causar cegueira temporária.
+A luz refletida tem ultravioletas e pode inflamar a córnea.
+É a fotoceratite, parecida com a cegueira da neve.
+Use só espelhos planos: curvos concentram a luz e podem causar fogo.
+Não dirija o reflexo para papel, pano, plástico ou combustível.
+O espelho pode cair e cortar: fixe bem e afaste de crianças.
+
+SE NAO TIVER
+------------
+Sem espelho, use chapa polida ou papel-alumínio esticado.
+Sem suporte, apoie o material em pedras ou prenda com barbante.
+Não improvise com espelho rachado perto de pessoas: as bordas cortam.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Uma mancha de luz clara aparece na parede ou no papel escolhido.
+O ponto onde a luz bate fica visivelmente mais iluminado.
+A mancha fica firme no lugar, sem tremer com o vento.
+
+FONTES
+------
+Orientação da OMS sobre radiação ultravioleta e raios refletidos.
+A técnica é prática consolidada de iluminação natural e sobrevivência,
+sem um documento único.

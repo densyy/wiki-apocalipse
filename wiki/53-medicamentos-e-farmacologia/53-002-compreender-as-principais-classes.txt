@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 53-002
+TITULO: Como compreender as principais classes de medicamentos
+CATEGORIA: 53 - Produção de medicamentos e farmacologia
+TEMPO: 25 minutos
+RISCO: alto
+EXIGE: papel, caneta, embalagens dos remédios
+REVISAO: 2026-11
+PALAVRAS-CHAVE: remédio, princípio ativo, classe, antibiótico, receita
+==============================================================================
+
+OBJETIVO
+--------
+Identificar a classe e o princípio ativo de cada remédio antes de
+usá-lo, para evitar erros e interações perigosas.
+
+QUANDO USAR
+-----------
+Quando aparecerem remédios sem receita e for preciso saber o que são.
+Quando o nome da caixa for diferente do nome do princípio ativo.
+Quando alguém toma vários remédios e pode haver interação entre eles.
+Quando sobrar antibiótico e surgir dúvida se ele serve para outro mal.
+Antes de guardar ou descartar medicamentos vencidos.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+Não use este texto para substituir receita, bula ou atendimento.
+
+MATERIAIS
+---------
+- Embalagens ou lista dos remédios disponíveis.
+- Papel e caneta para anotar.
+- Bulas dos remédios, se estiverem disponíveis (rótulo impresso).
+- Receita antiga, se houver (registro do que foi prescrito).
+
+PROCEDIMENTO
+------------
+1. Separe todos os remédios e embalagens sobre uma mesa limpa.
+2. Leia na caixa o nome do princípio ativo, não o nome comercial.
+3. Anote no papel o princípio ativo de cada remédio.
+4. Agrupe os remédios que têm o mesmo princípio ativo.
+5. Identifique a classe de cada grupo pelo efeito principal:
+6. Analgésicos e antitérmicos aliviam dor e febre: dipirona, paracetamol.
+7. Antibióticos agem só contra bactérias, nunca contra vírus.
+8. Antidiabéticos controlam o açúcar: insulina, metformina.
+9. Anti-hipertensivos baixam a pressão arterial.
+10. Diuréticos aumentam a urina e reduzem inchaço.
+11. Anti-histamínicos reduzem alergia: loratadina, difenidramina.
+12. Broncodilatadores abrem as vias aéreas na asma.
+13. Corticosteroides reduzem inflamação, mas baixam a defesa.
+14. Anticoagulantes evitam coágulos, mas aumentam sangramento.
+15. Anticonvulsivantes controlam convulsões; não pare sem ajuda.
+16. Sedativos acalmam, mas podem causar dependência e sonolência.
+17. Confira cada classe com a bula ou com a receita, se houver.
+18. Verifique se a pessoa usa dois remédios da mesma classe.
+19. Leia na bula as interações e as contraindicações do grupo.
+20. Deixe sem uso todo remédio que não foi identificado.
+21. Guarde a lista com nomes, classes e datas de validade.
+
+ATENCAO
+-------
+Nunca tome remédio de outra pessoa, mesmo que a classe pareça igual.
+Não compartilhe nem guarde antibiótico para uso futuro.
+Antibiótico não trata resfriado, gripe nem dor de garganta viral.
+Misturar classes pode causar arritmia, sangramento ou sedação exagerada.
+Álcool com sedativos ou ansiolíticos pode parar a respiração.
+Anti-inflamatórios e anticoagulantes podem causar úlcera ou sangramento.
+Parar anticonvulsivante pode causar crise; parar anti-hipertensivo,
+pode elevar a pressão.
+Sinais de intoxicação: náusea, vômito, tontura, manchas na pele, confusão.
+Se houver inchaço de lábios ou falta de ar, pare e busque ajuda imediata.
+Este texto não substitui prescrição, bula ou atendimento profissional.
+
+SE NAO TIVER
+------------
+Sem bula, leia só o rótulo da embalagem; sem princípio ativo, não use.
+Sem papel, escreva em qualquer superfície limpa; não confie na memória.
+Sem prescritor, apenas identifique o remédio; não use o desconhecido.
+Não substitua um remédio por outro da mesma classe por conta própria.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Todos os remédios da lista têm o princípio ativo anotado.
+Nenhum remédio sem identificação foi usado.
+A lista agrupa os remédios por classe e mostra duplicidades.
+As datas de validade foram conferidas e os vencidos separados.
+
+FONTES
+------
+Orientações da OMS sobre uso racional de medicamentos e resistência
+antimicrobiana (ficha temática, 2026).
+CDC: orientações sobre uso correto de antibióticos e efeitos
+colaterais (2025).
+As descrições de classes são farmacologia básica consolidada.
+Doses devem seguir a bula e a prescrição; este texto não as substitui.

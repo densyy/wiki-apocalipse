@@ -1,0 +1,76 @@
+==============================================================================
+CODIGO: 01-014
+TITULO: Como obter água da condensação
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: plástico transparente, recipiente limpo, pedra, pá, sol forte
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, condensação, orvalho, sereno, neblina, plástico
+==============================================================================
+
+OBJETIVO
+--------
+Obter água da umidade do ar por condensação em uma superfície fria.
+
+QUANDO USAR
+-----------
+Quando não há fonte de água perto e o ar fica úmido de madrugada.
+Quando amanhece com orvalho ou neblina na região.
+Quando há sol forte e sobra apenas plástico transparente.
+Para complementar a água guardada em tempo de seca.
+
+NAO USE QUANDO
+--------------
+Perto de indústria, rodovia, lixo ou aplicação de agrotóxico: a umidade
+carrega contaminantes do ar para a água.
+Como fonte única: o rendimento é baixo e incerto.
+
+MATERIAIS
+---------
+- Plástico transparente limpo, sem cheiro (saco, filme ou vidro).
+- Recipiente limpo e tampado (garrafa ou lata sem tinta interna).
+- Pedra ou peso pequeno (terra presa nas bordas).
+- Pá ou faca para cavar.
+- Pano limpo (peneira de tecido).
+
+PROCEDIMENTO
+------------
+1. Escolha ponto plano e ensolarado, longe de sombra.
+2. Afaste o ponto de fezes, lixo, combustível e indústria.
+3. Cave um buraco fundo o bastante para o recipiente e o cone do plástico.
+4. Coloque o recipiente limpo no fundo do buraco.
+5. Estenda o plástico sobre a abertura e prenda as bordas com terra.
+6. Ponha a pedra no centro do plástico, sobre o recipiente.
+7. Baixe o centro até aproximadamente 40 cm abaixo do nível do solo.
+8. Ajeite o plástico para não encostar nas paredes do buraco.
+9. Deixe o conjunto sob o sol por aproximadamente 24 horas, sem mexer.
+10. Retire a pedra e incline o plástico para a água cair no recipiente.
+11. Tampe o recipiente e trate a água antes de beber (veja 01-001).
+
+ATENCAO
+-------
+A água condensada não é potável: trate antes de beber (veja 01-001).
+A umidade do ar pode trazer micróbios e metais da poluição.
+Não monte perto de indústria, rodovia ou aplicação de agrotóxico.
+Não use plástico com cheiro de óleo, tinta ou agrotóxico.
+Não derrame água suja na borda onde o plástico encosta na terra.
+Cheiro estranho ou desmoronamento: pare e procure outra fonte.
+O rendimento é baixo: aproximadamente 0,5 a 1 litro por 24 horas.
+
+SE NAO TIVER
+------------
+Sem plástico grande, use um saco transparente limpo preso a um galho verde.
+Amarre a boca do saco, deixe no sol e incline para recolher a água.
+Sem saco, passe pano limpo no orvalho ao amanhecer e torça no recipiente.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Gotas aparecem na face interna do plástico e escorrem até o recipiente.
+A água no recipiente é límpida e não tem cheiro de plástico ou terra.
+
+FONTES
+------
+Manual de sobrevivência do Exército dos EUA (FM 21-76), capítulo 6.
+Orientações da CDC sobre água segura em emergência.
+Kaseke e Wang, GeoHealth (2018), sobre água de neblina e orvalho.

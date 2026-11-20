@@ -1,0 +1,73 @@
+==============================================================================
+CODIGO: 03-009
+TITULO: Como fazer curativos
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 15 minutos
+RISCO: medio
+EXIGE: gaze ou pano limpo, água e sabão, esparadrapo ou atadura, luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: curativo, ferida, gaze, bandagem, infecção, cicatrização
+==============================================================================
+
+OBJETIVO
+--------
+Cobrir uma ferida limpa para protegê-la enquanto ela cicatriza.
+
+QUANDO USAR
+-----------
+Depois de parar o sangramento e limpar a ferida.
+Corte superficial ou arranhão que pode sujar-se durante o dia.
+Troca de curativo que ficou sujo, molhado ou solto.
+
+NAO USE QUANDO
+--------------
+Não cubra ferida com objeto encravado: imobilize em volta e busque ajuda.
+Não use algodão direto na ferida: as fibras grudam e sangram ao tirar.
+
+MATERIAIS
+---------
+- Gaze esteril ou compressa (ou pano de algodão limpo e sem fiapos).
+- Luvas descartáveis (ou sacola plástica limpa nas mãos).
+- Água corrente, sabão suave e esparadrapo (ou atadura de pano).
+- Saco para jogar o curativo sujo.
+
+PROCEDIMENTO
+------------
+1. Lave as mãos com água e sabão por 20 segundos e seque com pano limpo.
+2. Calce luvas ou use sacola plástica limpa nas mãos.
+3. Se ainda sangrar, comprima com gaze limpa por 5 minutos sem espiar.
+4. Lave a ferida com água corrente e sabão suave.
+5. Retire sujeira visível com gaze limpa, sem esfregar com força.
+6. Não ponha álcool, iodo ou peróxido dentro da ferida.
+7. Seque com gaze limpa apenas a pele ao redor da ferida.
+8. Ponha gaze esteril sobre a ferida, sem tocar na face que encosta.
+9. Fixe com esparadrapo ou atadura na pele, sem apertar a ferida.
+10. Anote a hora da troca para saber quando revisar.
+
+ATENCAO
+-------
+Curativo apertado corta a circulação: afrouxe se o membro ficar frio.
+Sinais de infecção: vermelhidão que avança, calor, inchaço, pus ou febre.
+Com esses sinais, lave a ferida e procure atendimento nas próximas horas.
+Não toque na ferida sem luvas nem ponha fita suja sobre o curativo.
+Ferida funda, no rosto, com mordida ou suja precisa de avaliação
+e de vacina contra tétano.
+
+SE NAO TIVER
+------------
+Sem gaze: use pano de algodão limpo, sem fiapos, passado a ferro.
+Sem luvas: lave as mãos com água e sabão e use sacola plástica limpa.
+Sem esparadrapo: corte tira de camiseta limpa e amarre sem apertar.
+Sem água corrente: ferva a água, espere esfriar e só então lave.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A ferida fica coberta, seca e sem contato com sujeira.
+O curativo não escorrega e não aperta a pele ao redor.
+Não há vermelhidão nova, pus, calor nem dor que aumenta.
+
+FONTES
+------
+Manual de primeiros socorros da Cruz Vermelha (ICRC) e manual MSD de
+primeiros socorros para cortes e feridas. Orientações do Corpo de
+Bombeiros do Paraná e do SAMU de Umuarama. Resumo operacional.

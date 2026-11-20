@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 43-006
+TITULO: Como fabricar ladrilhos cerâmicos
+CATEGORIA: 43 - Produção de materiais de construção
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: argila plástica limpa, forno de olaria, luvas, óculos e ventilação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ladrilho, cerâmica, argila, azulejo, queima, forno, esmalte
+==============================================================================
+
+OBJETIVO
+--------
+Produzir ladrilhos de argila queimada para revestir piso ou parede.
+
+QUANDO USAR
+-----------
+Quando falta revestimento e há argila plástica e forno disponíveis.
+Para peças pequenas e uniformes, cortadas no mesmo molde de madeira.
+Quando o local recebe tráfego leve e não exige ladrilho industrial.
+
+NAO USE QUANDO
+--------------
+Sem forno que chegue a aproximadamente 900 °C, a peça não endurece.
+Não use argila com resíduo de óleo, tinta ou lixo industrial.
+Não use esmalte com chumbo em peça que encosta em água ou comida.
+Sem luvas, óculos e ventilação, não opere o forno.
+
+MATERIAIS
+---------
+- Argila plástica de olaria, limpa e sem pedras; peneira grossa e balde.
+- Chamote: argila já queimada e moída, para reduzir a retração.
+- Água limpa para amassar.
+- Duas ripas de madeira paralelas com aproximadamente 1 cm de altura.
+- Faca sem serra ou arame, e régua lisa para alinhar os cortes.
+- Placa de madeira lisa e pano para cobrir as peças.
+- Forno de olaria ou fornalha com pirômetro.
+- Luvas grossas de couro, óculos, avental e máscara de pó.
+- Esmalte cerâmico fosco, se quiser superfície lavável (opcional).
+
+PROCEDIMENTO
+------------
+1. Peneire a argila seca para tirar pedras e torrões grandes.
+2. Moa o chamote até virar grão fino e misture 1 parte para 5 de argila.
+3. Umedeça a mistura aos poucos até virar massa que não gruda na mão.
+4. Amasse com as mãos por aproximadamente 10 minutos, tirando bolhas.
+5. Enrole uma porção em bola e achate entre as duas ripas de madeira.
+6. Passe a régua por cima até a massa encostar nas ripas.
+7. Retire as ripas e corte quadrados alinhados com a régua.
+8. Coloque os ladrilhos na placa de madeira sem sobrepor as bordas.
+9. Cubra com pano e deixe secar na sombra, sem sol nem vento direto.
+10. Vire cada ladrilho a cada aproximadamente 12 horas para secar por
+    igual, até ficarem duros e sem flexar.
+11. Confira a secagem e carregue o forno com espaço entre as peças.
+12. Queime em aproximadamente 900 °C a 1000 °C para terracota, ou perto
+    de 1200 °C para piso mais denso, se o forno alcançar essa faixa.
+13. Mantenha a temperatura estável pelo tempo indicado para o forno.
+14. Desligue o fogo e deixe esfriar dentro do forno, sem abrir a porta.
+15. Espere o forno ficar frio ao toque antes de retirar os ladrilhos.
+16. Se quiser esmalte, aplique camada fina na peça seca com pincel.
+17. Faça uma segunda queima na temperatura indicada para o esmalte.
+
+ATENCAO
+-------
+Peça úmida no forno estoura: a água vira vapor e racha o ladrilho,
+projetando fragmentos quentes. Seque por completo antes de queimar.
+Forno e peças passam de 900 °C: contato direto causa queimadura grave.
+Abra a porta só com o forno frio: ar frio de uma vez racha a peça.
+Forno a lenha em ambiente fechado gera monóxido de carbono: use chaminé.
+Pó de argila e chamote irrita os pulmões: use máscara e molhe ao limpar.
+Esmalte com chumbo é tóxico: nunca use em prato, copo ou piso molhado.
+Ladrilho de terracota é poroso: mancha com água e não serve para
+circulação intensa, umidade constante ou área externa com geada.
+Pare e procure ajuda se faltar forno, proteção ou ventilação segura.
+
+SE NAO TIVER
+------------
+Sem chamote, use areia fina lavada na mesma proporção; a peça fica mais
+frágil e pode rachar mais na queima.
+Sem forno de cerâmica, não improvise com fogueira aberta: o calor fica
+irregular, a peça não vitrifica e o risco de incêndio aumenta.
+Sem pirômetro, observe a cor do interior do forno: vermelho-cereja indica
+aproximadamente 900 °C; laranja-claro indica temperatura maior.
+Sem esmalte, deixe a peça fosca e aceite que ela mancha com água.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Depois de frio, o ladrilho é duro e não se risca com a unha.
+Ao bater levemente, soa com tom limpo, não com som oco de peça crua.
+As bordas ficam retas e todas as peças têm a mesma espessura.
+
+FONTES
+------
+Prática consolidada de olaria e cerâmica artesanal: preparação da massa,
+secagem lenta e queima de terracota e grês. Faixas de temperatura da
+queima cerâmica segundo compêndios técnicos de ciência dos materiais
+(Ullmann's Encyclopedia of Industrial Chemistry, verbete "Ceramics").
+Resumo operacional, não substitui treinamento.

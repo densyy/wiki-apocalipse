@@ -1,0 +1,84 @@
+==============================================================================
+CODIGO: 64-021
+TITULO: Como compreender controle de qualidade laboratorial
+CATEGORIA: 64 - Laboratório, diagnóstico e análises
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: registro de controle, caderno, caneta, boa luz
+REVISAO: 2026-11
+PALAVRAS-CHAVE: controle de qualidade, CQ, carta, desvio, erro, laboratório
+==============================================================================
+
+OBJETIVO
+--------
+Entender o controle de qualidade laboratorial e saber ler seus registros.
+
+QUANDO USAR
+-----------
+Quando precisar saber se um resultado de exame é confiável.
+Ao revisar o registro de controle de um laboratório.
+Quando um resultado discorda do esperado para o paciente.
+Antes de usar um resultado em uma decisão importante.
+Ao montar uma rotina de checagem diária de equipamentos.
+
+NAO USE QUANDO
+--------------
+Não use para diagnosticar, prescrever ou mudar tratamento.
+Não use para liberar exames sem o profissional responsável.
+Não substitua as normas internas do laboratório nem a lei vigente.
+
+MATERIAIS
+---------
+- Registro ou laudo de controle de qualidade do laboratório.
+- Caderno e caneta para anotar os valores.
+- Boa luz para ler gráficos e números pequenos.
+- Manual do equipamento ou dos controles, quando houver.
+
+PROCEDIMENTO
+------------
+1. Identifique o exame, o equipamento e a data do registro.
+2. Material de controle é amostra de valor conhecido, analisada junto.
+3. Separe os níveis: um de valor normal e outro de valor alterado.
+4. Anote a média e o desvio padrão de cada material do registro.
+5. Desvio padrão mede quanto os valores se espalham em torno da média.
+6. Leia a carta de controle: gráfico dos valores ao longo dos dias.
+7. Compare cada valor com a média e com os limites do gráfico.
+8. Veja se os valores ficam dentro dos limites e sem tendência.
+9. Confira se os dois níveis, normal e alterado, estão coerentes.
+10. Anote todo valor fora dos limites e a data em que apareceu.
+11. Verifique calibração, troca de reagente ou manutenção nessa data.
+12. Registre a decisão tomada e quem a tomou no procedimento interno.
+
+ATENCAO
+-------
+Controle e calibração não são iguais. Calibração ajusta o equipamento.
+O controle verifica se os resultados seguem consistentes no tempo.
+Valor dentro do limite não prova acerto; mostra método estável.
+Valor fora do limite não é diagnóstico: pode ser reagente vencido ou erro.
+Valores de um mesmo lado da média formam tendência, mesmo dentro do limite.
+Não libere nem mude exame baseado só nesta leitura.
+Se exame entregue parecer errado, avise o profissional responsável.
+
+SE NAO TIVER
+------------
+Sem registro de controle, não julgue a confiabilidade sozinho.
+Sem material, repita a amostra e observe a dispersão; não substitui o CQ.
+Sem gráfico, monte tabela com data, valor e média para ver tendência.
+Sem manual, anote os valores e peça orientação ao responsável.
+Na dúvida, trate como não confiável e busque orientação profissional.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você diz qual exame e equipamento foram checados.
+Você localizou média, limites e valores de cada nível de controle.
+Você sabe se os valores ficaram no limite e se houve tendência.
+Todo valor fora do limite está anotado com data e decisão.
+Você não tomou decisão clínica baseada só nesta leitura.
+
+FONTES
+------
+Prática consolidada de garantia da qualidade em laboratório de análises.
+Referências: orientações da OMS sobre garantia da qualidade laboratorial.
+CDC: controle interno e testes de proficiência; NIST: boas práticas.
+ABNT NBR ISO/IEC 17025 e ISO 15189.
+Resumo operacional: não substitui treinamento nem normas do laboratório.

@@ -1,0 +1,92 @@
+==============================================================================
+CODIGO: 16-015
+TITULO: Como reparar embarcações simples
+CATEGORIA: 16 - Transporte e mobilidade
+TEMPO: 45 minutos
+RISCO: alto
+EXIGE: cunhas de madeira, tampões de madeira macia, borracha, arame, balde
+REVISAO: 2026-11
+PALAVRAS-CHAVE: barco, casco, vazamento, remendo, cunha, bote, furo
+==============================================================================
+
+OBJETIVO
+--------
+Fechar vazamentos pequenos no casco e manter o barco flutuando até a margem.
+
+QUANDO USAR
+-----------
+Quando o casco de madeira ou metal começa a entrar água.
+Quando um bote inflável perde ar por um furo pequeno.
+Quando uma tubulação de água vaza durante a viagem.
+Quando há água acumulando no fundo e é preciso manter o barco à tona.
+
+NAO USE QUANDO
+--------------
+Quando o buraco for grande ou o casco estiver rachado em vários pontos.
+Quando a água entrar mais rápido do que dá para retirar com o balde.
+Nesses casos, abandone a embarcação e peça ajuda.
+Não serve como reparo definitivo nem com cheiro forte de combustível.
+
+MATERIAIS
+---------
+- Cunhas de madeira dura (pedaços resistentes em forma de cunha).
+- Tampões cônicos de madeira macia (rolha de madeira apontada).
+- Folha de borracha ou lona impermeável (pedaço de câmara de ar).
+- Chapa fina de metal (lata cortada, sem bordas cortantes).
+- Arame ou corda resistente (fio de cobre ou linha forte).
+- Balde ou concha (qualquer recipiente grande para tirar água).
+- Faca ou canivete para apontar os tampões.
+
+PROCEDIMENTO
+------------
+1. Afastar o barco de margem rochosa, correnteza forte e outras embarcações.
+2. Mandar todos sentarem baixos, com o peso no centro do barco.
+3. Designar uma pessoa para tirar água sem parar, com balde ou concha.
+4. Passar a mão pelo casco por dentro e localizar onde a água entra.
+5. Retirar objetos cortantes e qualquer combustível do bote.
+6. Escolher um tampão de madeira macia um pouco maior que o furo.
+7. Apontar a ponta do tampão com a faca, mais estreita que o furo.
+8. Enfiar o tampão de dentro para fora, com a ponta voltada ao furo.
+9. Bater devagar até o fluxo parar, sem força excessiva.
+10. Parar se o furo alargar: força demais piora o vazamento.
+11. Aparar o tampão rente à superfície do casco com a faca.
+12. Para furo alongado, espetar cunhas de madeira dura ao redor do tampão.
+13. Cobrir a área com borracha, com sobra de aproximadamente 5 cm por lado.
+14. Apoiar a borracha com a chapa fina, sem deixar bordas cortantes.
+15. Passar o arame por dentro do casco e apertar por cima da chapa.
+16. Acrescentar outra cunha se a água continuar entrando.
+17. Tirar água sem parar até o fundo ficar visível e seco.
+18. Conduzir para a margem mais próxima sem interromper a retirada de água.
+
+ATENCAO
+-------
+Um reparo improvisado dura pouco e não substitui reparo permanente em terra.
+Se a água entrar mais rápido que o balde retira, pare e abandone o barco.
+Bater o tampão com força racha o casco e aumenta o vazamento.
+Nunca derrame gasolina ou óleo no bote: enfraquece borracha e cola.
+Em bote inflável, retire ar no calor e complete quando o tempo esfriar.
+Em água fria, saia da água e mantenha o corpo seco para evitar hipotermia.
+Use pano nas mãos para manusear chapa ou casco de metal com arestas.
+
+SE NAO TIVER
+------------
+Sem tampão de madeira macia, use cortiça ou pano enrolado e amarrado.
+Sem chapa de metal, dobre o arame em várias voltas sobre a borracha.
+Sem borracha, use lona, nylon ou plástico resistente preso com corda.
+Não use fita adesiva comum nem papelão: não vedam água sob pressão.
+Sem material algum, continue tirando água e vá direto para a margem.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água para de entrar pelo ponto remendado.
+O nível da água no fundo do barco começa a baixar.
+O bote mantém a mesma firmeza por aproximadamente 10 minutos.
+A borracha fica esticada, sem bolhas passando por baixo.
+
+FONTES
+------
+Manual FM 21-76 do Exército dos Estados Unidos, capitulo de botes: checagem
+de vazamentos, kit de reparo, retirada de agua e cuidado com combustivel.
+Manual FM 4-01.502 Army Watercraft Safety do Exército dos Estados Unidos,
+capitulo 4: cunhas, tampoes conicos e remendo macio com borracha e chapa.
+Resumo operacional de emergencia; nao substitui treinamento.

@@ -1,0 +1,86 @@
+==============================================================================
+CODIGO: 90-016
+TITULO: Como compreender os limites da proteção respiratória
+CATEGORIA: 90 - Emergências químicas, industriais e ambientais
+TEMPO: 25 minutos
+RISCO: alto
+EXIGE: máscara com filtro identificado, ficha do produto e treinamento
+REVISAO: 2026-11
+PALAVRAS-CHAVE: máscara, filtro, proteção, risco, vazamento, tempo de uso
+==============================================================================
+
+OBJETIVO
+--------
+Saber quando a máscara protege, quando falha e quando não serve.
+
+QUANDO USAR
+-----------
+Antes de entrar em área com poeira, vapor ou gás suspeito.
+Ao escolher o filtro para uma substância específica.
+Ao trocar o filtro ou conferir a vedação da máscara.
+Quando o cheiro atravessa a máscara ou você sente irritação.
+Ao planejar trabalho em espaço confinado ou com pouco oxigênio.
+Antes de confiar em máscara emprestada ou encontrada.
+
+NAO USE QUANDO
+--------------
+Não confie em máscara cirúrgica ou pano contra vapores químicos.
+Não entre em área com oxigênio baixo usando filtro comum.
+Não use filtro vencido, molhado ou sem identificação.
+Não reutilize filtro descartável depois de exposição pesada.
+
+MATERIAIS
+---------
+- Máscara com corpo e filtro identificados (máscara de proteção).
+- Ficha do fabricante com tipo de filtro e validade.
+- Ficha de segurança do produto químico, a FISPQ (ficha do produto).
+- Espelho para conferir a vedação (superfície refletora).
+- Relógio para controlar o tempo de uso do filtro.
+- Caderno e lápis para anotar trocas e incidentes (celular).
+
+PROCEDIMENTO
+------------
+1. Identifique a substância e o risco na ficha do produto.
+2. Confira se o filtro serve para aquele grupo de substância.
+3. Verifique a validade e o estado do filtro antes de calçar.
+4. Inspecione o corpo da máscara, as tiras e as válvulas.
+5. Calce a máscara e aperte as tiras de trás para frente.
+6. Tampe a saída e inspire: se entrar ar, aperte mais as tiras.
+7. Tampe a entrada e expire: se vazar ar, ajuste de novo.
+8. Anote a hora de início e o tempo previsto de troca.
+9. Saia da área se sentir cheiro, irritação ou falta de ar.
+10. Troque o filtro no tempo certo ou se o cheiro aparecer.
+11. Guarde a máscara limpa, seca e protegida de poeira.
+12. Registre no caderno cada uso, troca e problema encontrado.
+
+ATENCAO
+-------
+O filtro retira contaminantes do ar, mas não cria oxigênio.
+Em lugar com pouco oxigênio, use equipamento com ar próprio.
+Filtro saturado deixa passar o químico sem aviso de cheiro.
+Barba, cabelo ou óculos podem quebrar a vedação da máscara.
+Máscara rachada, com cheiro velho ou molhada não protege.
+Se alguém passa mal na área, saia e peça resgate: não entre sem ar próprio.
+Nunca confie em máscara sem filtro identificado e dentro da validade.
+
+SE NAO TIVER
+------------
+Sem filtro adequado, não entre: peça o equipamento certo.
+Sem ficha do produto, trate como desconhecido e use ar próprio.
+Sem máscara vedada, use pano úmido só na fuga, nunca no trabalho.
+Sem relógio, conte o tempo e troque antes do limite indicado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A máscara passa nos testes de vedação no começo de cada uso.
+O filtro é o correto, está válido e foi trocado no tempo.
+Nenhum cheiro ou irritação apareceu durante o trabalho.
+
+FONTES
+------
+Família de referências em segurança ocupacional: NIOSH e OSHA,
+guias de seleção de respiradores.
+Normas brasileiras de higiene ocupacional e manuais de
+fabricantes de máscaras.
+Prática consolidada de brigadas industriais e defesa civil,
+sem documento único.

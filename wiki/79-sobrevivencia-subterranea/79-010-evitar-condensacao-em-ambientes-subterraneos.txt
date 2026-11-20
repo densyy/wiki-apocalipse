@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 79-010
+TITULO: Como evitar condensação em ambientes subterrâneos
+CATEGORIA: 79 - Sobrevivência subterrânea
+TEMPO: 180 minutos
+RISCO: medio
+EXIGE: ventilação, barreira de vapor, vedação, pano seco, cal
+REVISAO: 2026-11
+PALAVRAS-CHAVE: condensacao, umidade, ventilacao, mofo, parede, orvalho
+==============================================================================
+
+OBJETIVO
+---------
+Reduzir o orvalho nas paredes e o mofo no interior de adegas e
+abrigos enterrados, controlando umidade e circulação de ar.
+
+QUANDO USAR
+-----------
+Quando as paredes ficam molhadas e escorrem água em dias quentes.
+Ao notar cheiro de mofo ou manchas escuras em madeira e alimentos.
+Depois de vedar a construção e perceber que o ar ficou abafado.
+Ao guardar sementes, grãos ou papel em espaço subterrâneo.
+
+NAO USE QUANDO
+--------------
+Não resolva condensação apenas secando a parede: trate a
+causa. Não ventile em dia de ar muito úmido ou de chuva,
+pois isso piora. Não use fogo ou braseiro para secar o ar
+em espaço fechado.
+
+MATERIAIS
+---------
+- Fita, lona ou plástico para barreira de vapor nas paredes.
+- Cal, barro seco ou material absorvente (palha seca, cinza).
+- Pano seco, esponja e balde para retirar a água visível.
+- Tela e grade para proteger as aberturas de ventilação.
+- Higrômetro simples, se disponível, ou pedra de sal como
+   indicador aproximado de umidade.
+- Escova para remover mofo das superfícies.
+
+PROCEDIMENTO
+------------
+1. Identifique quando a condensação aparece: dia, noite ou
+   depois da chuva.
+2. Compare a temperatura dentro e fora no momento do orvalho.
+3. Parede fria com ar quente e úmido é a causa mais comum.
+4. Abra as aberturas de ar nos horários mais secos do dia.
+5. Faça entrar ar frio pela parte baixa e sair pela alta.
+6. Instale barreira de vapor entre a parede fria e o interior.
+7. Sobreponha as emendas e vede as bordas com fita ou cal.
+8. Deixe um pequeno espaço entre a barreira e a parede, se
+   possível, para o ar circular.
+9. Vede frestas por onde entra ar úmido do solo.
+10. Cubra o piso de terra com cascalho, tábua ou lona.
+11. Retire com pano seco a água que escorre das paredes.
+12. Escove o mofo com cal ou solução de água e vinagre e
+   deixe secar.
+13. Reduza a quantidade de roupa e material úmido guardado.
+14. Separe alimentos das paredes em prateleiras afastadas.
+15. Anote horário e temperatura para acompanhar a melhora.
+16. Repita a ventilação nos dias secos por algumas semanas.
+
+ATENCAO
+-------
+Abrir tudo em dia chuvoso traz mais umidade para dentro.
+Barreira de vapor mal colocada prende umidade na parede e
+apodrece madeira.
+Mofo solta esporos e pode causar alergia e problema
+respiratório: limpe com pano e proteja nariz e boca.
+Cal e vinagre irritam pele e olhos: use luvas e ventile.
+Condensação constante indica drenagem ou vedação com problema:
+corrija essas causas primeiro.
+Se a parede estiver sempre encharcada, verifique vazamento
+antes de culpar apenas o ar.
+
+SE NAO TIVER
+------------
+Sem higrômetro, observe se o pano encostado na parede
+demora a secar.
+Sem lona, use camada de cal ou palha seca como barreira
+temporária.
+Sem duas aberturas, abra a entrada e use um corredor de ar
+com pano como manga.
+Sem vinagre, escove o mofo com cal e água e depois enxugue.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As paredes ficam secas ao toque na maior parte do dia.
+Não há cheiro de mofo nem manchas novas nos alimentos.
+O ar circula sem deixar o interior abafado.
+A umidade registrada no caderno diminuiu depois da ventilação.
+
+FONTES
+------
+Noções de controle de umidade em construções enterradas e de
+conservação de alimentos, resumidas de manuais de arquitetura
+bioclimática e de orientações rurais da Embrapa e do SENAR.
+A condensação é controlada por ventilação, barreira e drenagem
+em conjunto, nunca por uma única medida.

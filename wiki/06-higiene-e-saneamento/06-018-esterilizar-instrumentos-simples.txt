@@ -1,0 +1,82 @@
+==============================================================================
+CODIGO: 06-018
+TITULO: Como esterilizar instrumentos simples
+CATEGORIA: 06 - Higiene, saneamento e resíduos
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: panela com tampa, água limpa, fogo aceso, sabão
+REVISAO: 2026-11
+PALAVRAS-CHAVE: esterilizar, ferver, pinça, tesoura, desinfetar, curativo
+==============================================================================
+
+OBJETIVO
+--------
+Deixar tesoura, pinça e lâmina simples limpos e fervidos para uso seguro.
+
+QUANDO USAR
+-----------
+Quando vai limpar um corte pequeno ou tirar farpa e espinho da pele.
+Quando precisa cortar pano limpo para cobrir um ferimento.
+Quando a pinça ou a tesoura caiu no chão ou sujou de terra.
+Quando vai reutilizar agulha de costura ou lâmina simples e metal.
+
+NAO USE QUANDO
+--------------
+Em instrumento com parte de plástico que derrete no calor.
+Em aparelho elétrico, com bateria ou com fio acoplado.
+Quando o instrumento tem ferrugem solta, trinca ou fio quebrado.
+Quando o uso entra em barriga, olho ou veia: procure ajuda.
+
+MATERIAIS
+---------
+- Panela funda com tampa que aguente fervura (pressão é melhor).
+- Água limpa em quantidade que cubra os instrumentos com folga.
+- Sabão ou detergente neutro e escova dura reservada para isso.
+- Pano limpo, prato limpo e pinça comum para retirar sem tocar.
+- Fogo, fogão ou fogareiro firme, longe de criança e de vento.
+
+PROCEDIMENTO
+-------------
+1. Lave as mãos com água e sabão antes de tocar nos instrumentos.
+2. Abra pinças e tesouras e desmonte as partes que soltam.
+3. Esfregue tudo com escova, água e sabão até sair sangue e terra.
+4. Enxágue em água limpa até sair toda a espuma do sabão.
+5. Coloque os instrumentos na panela limpa com água cobrindo tudo.
+6. Tampe a panela e leve ao fogo até ferver forte, com bolhas.
+7. Conte aproximadamente 20 minutos depois que começou a ferver.
+8. Se usar panela de pressão, conte aproximadamente 30 minutos.
+9. Retire com pinça limpa sem tocar na ponta que encosta no ferido.
+10. Seque ao ar sobre pano limpo passado a ferro ainda quente.
+11. Guarde seco em pano limpo fechado e use o quanto antes.
+12. Se cair no chão ou molhar com sujeira, repita tudo da lavagem.
+
+ATENCAO
+-------
+Fervura não é esterilização completa: não elimina esporos resistentes.
+Instrumento fervido não serve para cirurgia, parto interno ou injeção.
+Água fervente e vapor queimam grave: use pano grosso e cabo longo.
+Este procedimento não tira ferrugem, veneno químico ou agrotóxico.
+Pare e procure ajuda se o ferimento tem pus, mau cheiro ou febre.
+Tétano mata: ferimento sujo de terra exige vacina e atendimento.
+
+SE NAO TIVER
+------------
+Sem panela de pressão, ferva em panela comum com tampa e complete.
+Sem escova, use bucha nova ou pano limpo reservado só para isso.
+Sem pano passado a ferro, seque ao ar sobre prato limpo escaldado.
+Nunca troque a fervura por álcool, cloro ou chama rápida: não basta.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Metal sem sujeira visível, sem sangue, sem gordura e sem terra.
+Água do enxágue saiu limpa e sem cheiro de podre ou de sabão.
+Seco por completo, sem gota presa em dobra, dente ou parafuso.
+Usado logo após secar, sem tocar a parte limpa com mão suja.
+
+FONTES
+------
+Prática consolidada de limpeza e desinfecção de alto nível por calor
+(famílias de referência: OMS, manual de colposcopia IARC-OMS, diretriz
+de desinfecção e esterilização do CDC e manuais do Ministério da
+Saúde e da Anvisa sobre processamento de artigos). Resumo
+operacional para emergência, sem treinamento.

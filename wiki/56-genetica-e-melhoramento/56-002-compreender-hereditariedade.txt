@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 56-002
+TITULO: Como compreender hereditariedade
+CATEGORIA: 56 - Reprodução, genética e melhoramento
+TEMPO: 40 minutos
+RISCO: baixo
+EXIGE: caderno, lápis, individuos de duas gerações para observar
+REVISAO: 2026-11
+PALAVRAS-CHAVE: hereditariedade, herança, genética, dominante, recessivo
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer quais traços passam dos pais aos filhos e prever sua aparência.
+
+QUANDO USAR
+-----------
+Quando for escolher sementes ou reprodutores para a próxima safra.
+Quando um traço apareceu nos filhos e nenhum dos pais o mostrava.
+Quando o mesmo lote dá resultados diferentes em dois lugares.
+
+NAO USE QUANDO
+--------------
+Não use regras simples para traços complexos como produtividade ou altura:
+muitos genes e o ambiente agem. Não use para decidir sobre saúde humana.
+Nesses casos, procure orientação de profissional qualificado.
+
+MATERIAIS
+---------
+- Caderno e lápis para registrar cada geração.
+- Etiquetas para identificar cada individuo (papel rasgado serve).
+- Plantas ou animais com pais e filhos conhecidos (sementes guardadas).
+
+PROCEDIMENTO
+------------
+1. Escolha um traço simples e visível, como cor da semente ou altura.
+2. Anote no caderno o traço de cada pai antes da reprodução.
+3. Cultive os filhos com luz, água e solo iguais para todos.
+4. Registre o traço de cada filho quando ele ficar visível.
+5. Conte quantos filhos têm o traço e quantos não têm.
+6. Repita em pelo menos duas gerações ou duas safras.
+7. Se o traço sumiu e voltou, os pais eram portadores dele.
+8. De dois portadores, espere aproximadamente 3 com o traço para 1 sem.
+9. Separe e identifique as sementes dos individuos com o traço desejado.
+
+ATENCAO
+-------
+Um traço visível não mostra o material genético: um portador esconde o
+traço recessivo e ainda pode transmiti-lo aos filhos.
+Luz, água, solo e alimentação mudam a aparência sem mudar os genes.
+Não conclua com poucos individuos; se afetar saúde, procure ajuda.
+
+SE NAO TIVER
+------------
+Sem caderno, use qualquer papel e marque as gerações com nomes claros.
+Sem dois lugares, observe o mesmo lote em épocas diferentes.
+Se não der para separar sementes, não selecione: mantenha o lote misto.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você tem anotações dos pais e dos filhos para o mesmo traço.
+Você consegue citar um traço que sumiu e voltou na geração seguinte.
+Você separou sementes dos individuos com o traço desejado.
+
+FONTES
+------
+Noções básicas de hereditariedade e leis de Mendel segundo OpenStax,
+Concepts of Biology e material de genética da Universidade de Utah.
+Herdabilidade e interação genótipo por ambiente segundo a Embrapa.

@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 41-012
+TITULO: Como calcular latitude pela altura do Sol
+CATEGORIA: 41 - Navegação avançada e técnicas de expedição
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: dia claro, bastão reto, fita métrica, mês e dia conhecidos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: latitude, sol, sombra, meio-dia, declinação, norte
+==============================================================================
+
+OBJETIVO
+--------
+Estimar a latitude do lugar pela sombra do Sol ao meio-dia solar.
+
+QUANDO USAR
+-----------
+Sem GPS, sem mapa e sem relógio ajustado.
+Depois de se perder, para saber a que distância está do equador.
+
+NAO USE QUANDO
+--------------
+Céu nublado no meio-dia, ou sem saber o dia e o mês de hoje.
+No inverno polar, ou quando precisar de posição exata para pedir ajuda.
+
+MATERIAIS
+---------
+- Bastão reto de altura conhecida, de 0,5 m a 2 m, e fita métrica.
+- Chão plano, pedras para marcar a sombra, papel e lápis, fio com peso.
+
+PROCEDIMENTO
+------------
+1. Comece 15 minutos antes do meio-dia em chão plano e firme.
+2. Enterre o bastão reto; confira a vertical com o fio e o peso.
+3. Marque a ponta da sombra no chão a cada 5 minutos.
+4. Escolha a marca mais perto do bastão: é o meio-dia solar.
+5. Meça L, do pé do bastão à marca, e H, a altura do bastão.
+6. Divida H por L e leia a altitude do Sol na tabela:
+  0,18=10 0,27=15 0,36=20 0,47=25 0,58=30 0,70=35 0,84=40 1,00=45
+  1,19=50 1,43=55 1,73=60 2,14=65 2,75=70 3,73=75 5,67=80 11,4=85
+7. Subtraia a altitude de 90: é a distância zenital z, em graus.
+8. Declinação é a latitude onde o Sol fica no alto. Leia a do mês:
+  Jan -21  Fev -13  Mar -3   Abr +9   Mai +19  Jun +23
+  Jul +21  Ago +14  Set +2   Out -9   Nov -19  Dez -23
+9. Se a sombra apontar para o norte, latitude = z + dec.
+10. Se apontar para o sul, latitude = dec - z. Positivo é norte.
+
+ATENCAO
+-------
+Nunca olhe direto para o Sol: use só a sombra no chão.
+Olhar o Sol pode queimar a retina sem causar dor na hora.
+O meio-dia do relógio quase nunca é o meio-dia solar.
+Bastão torto ou chão em declive estraga a altitude medida.
+A declinação da tabela é do dia 15; em outros dias erra até 2 graus.
+1 grau de latitude vale cerca de 111 km: espere erro de dezenas de km.
+
+SE NAO TIVER
+------------
+Sem trena, meça L em alturas de bastão e depois divida.
+Sem norte, use as sombras das 9 e 15 horas: ligam leste a oeste.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A sombra encurtou e tornou a crescer; a marca é a mais curta do ciclo.
+
+FONTES
+------
+Prática consolidada de navegação celestial pelo Sol do meio-dia.
+Base: NASA (David P. Stern), Cooper (1969) via PVEducation/Sandia, NOAA.

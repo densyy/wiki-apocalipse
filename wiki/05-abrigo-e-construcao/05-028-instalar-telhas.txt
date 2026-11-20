@@ -1,0 +1,75 @@
+==============================================================================
+CODIGO: 05-028
+TITULO: Como instalar telhas
+CATEGORIA: 05 - Abrigo, construção e habitação
+TEMPO: 120 minutos
+RISCO: alto
+EXIGE: escada firme, telhas inteiras, estrutura de madeira pronta
+REVISAO: 2026-11
+PALAVRAS-CHAVE: telha, telhado, cobertura, chuva, goteira, reparo
+==============================================================================
+
+OBJETIVO
+--------
+Fixar telhas sobre a estrutura e deixar o teto sem goteira.
+
+QUANDO USAR
+-----------
+Quando o telhado perdeu telhas com vento ou galho.
+Quando a cobertura nova de barracao precisa ser fechada.
+Quando ha goteira em ponto certo e a telha quebrou.
+Quando se troca telhado velho por telhas reaproveitadas.
+
+NAO USE QUANDO
+--------------
+Com chuva, vento forte, telhado molhado ou a noite.
+Se a estrutura de madeira esta podre, torta ou balanca.
+Se o telhado e alto e nao ha escada firme nem ajudante.
+
+MATERIAIS
+---------
+- Telhas ceramicas ou de fibrocimento inteiras (reaproveitadas).
+- Pregos galvanizados ou parafusos com arruela (arame).
+- Martelo e escada firme apoiada em chao plano (banquinho).
+- Ripas e caibros saos para apoio (tabuas, varas grossas).
+- Linha de pedreiro ou barbante para alinhar (fio comum).
+
+PROCEDIMENTO
+------------
+1. Confira a estrutura por baixo e troque ripa podre ou solta.
+2. Apoie a escada em chao firme e peca ajuda para segurar.
+3. Suba poucas telhas por vez amarradas para nao cair.
+4. Comece pela fileira de baixo, do beiral para a cumeeira.
+5. Encaixe a primeira telha alinhada com a borda do beiral.
+6. Sobreponha cada telha sobre a vizinha em aproximadamente 10 cm.
+7. Fixe telhas de beiral e de borda com prego ou parafuso.
+8. Suba as fileiras seguintes cobrindo os pregos da fileira.
+9. Mantenha o alinhamento com a linha esticada a cada fileira.
+10. Feche o topo com cumeeiras sobrepostas no sentido do vento.
+11. Desca, olhe de longe e refixe telha torta ou levantada.
+
+ATENCAO
+-------
+Queda de telhado mata. Telha molhada escorrega muito.
+Nao trabalhe sozinho, com pressa, cansado ou no escuro.
+Telha quebrada corta as maos. Use calcado fechado firme.
+Estrutura fraca cede com peso de gente e telha juntas.
+Este servico nao resolve viga podre nem parede torta.
+Se o telhado balanca ou a altura passa de um andar, pare.
+
+SE NAO TIVER
+------------
+Sem prego galvanizado, amarre com arame e confira apos vento.
+Sem cumeeira, vire telhas de capa sobre o topo sobrepostas.
+Sem linha, alinhe pelo fio da fileira de baixo ja assentada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As fileiras ficam retas e nenhuma telha balanca ao toque.
+A agua da chuva corre por cima e cai no beiral sem pingar.
+
+FONTES
+------
+Pratica consolidada de cobertura simples em construcao civil
+(familias de referencia: manuais de construcao e Defesa Civil).
+Resumo operacional, sem treinamento profissional.

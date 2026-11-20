@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 31-011
+TITULO: Como construir uma câmara fria de pequena escala
+CATEGORIA: 31 - Refrigeração e conservação térmica
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: caixa com tampa, isolamento seco, gelo, termômetro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: câmara fria, caixa térmica, cooler, gelo, isolamento, frio
+==============================================================================
+
+OBJETIVO
+---------
+Montar uma caixa isolada que mantém alimentos perecíveis a 4°C ou menos.
+
+QUANDO USAR
+-----------
+Quando não houver energia elétrica e os alimentos exigirem refrigeração.
+Quando for preciso transportar comida fresca por algumas horas.
+Quando o dia estiver quente e a despensa não mantiver os alimentos frios.
+Quando sobrar gelo ou garrafas congeladas após uma queda de energia.
+
+NAO USE QUANDO
+--------------
+Quando não houver gelo, garrafas congeladas nem outra fonte de frio.
+Quando os alimentos já estiverem com cheiro, cor ou textura suspeitos.
+Quando não houver termômetro e o armazenamento for prolongado.
+Quando o isolamento disponível estiver úmido ou mofado.
+
+MATERIAIS
+---------
+- Caixa rígida com tampa que feche bem (madeira, plástico ou isopor).
+- Isolante seco: isopor, serragem, palha seca ou jornal amassado.
+- Saco plástico ou revestimento impermeável para forrar o interior.
+- Gelo, garrafas de água congeladas ou bolsas de gelo.
+- Termômetro de alimentos ou de refrigerador.
+- Recipientes fechados para os alimentos.
+- Rolha ou tampa para o furo de dreno.
+
+PROCEDIMENTO
+------------
+1. Escolha um canto de sombra, com piso firme e longe de fogão ou sol.
+2. Verifique se a tampa encosta em toda a borda, sem frestas largas.
+3. Forre o fundo e as paredes com aproximadamente 5 cm de isolante seco.
+4. Cubra o isolante com o saco plástico, sem deixar furos ou dobras.
+5. Faça um furo pequeno na parte de baixo da caixa para escoar água.
+6. Tampe o furo com a rolha e abra só quando precisar drenar.
+7. Encha as garrafas com 2/3 de água e congele aproximadamente 4 horas.
+8. Retire o gelo do congelador e espere surgirem gotas na superfície.
+9. Envolva as garrafas com pano limpo para absorver a umidade.
+10. Acomode o gelo no fundo e encostado nas paredes internas.
+11. Coloque os alimentos em recipientes fechados com a data escrita.
+12. Separe carne e peixe crus dos alimentos prontos para consumir.
+13. Feche a tampa e abra a caixa no máximo uma vez a cada duas horas.
+14. Meça a temperatura com o termômetro e anote o valor.
+15. Escoe a água do dreno e reponha gelo quando as garrafas derreterem.
+16. Descarte perecíveis que passaram de 4°C por mais de duas horas.
+17. Acima de aproximadamente 32°C, o limite cai para uma hora.
+
+ATENCAO
+-------
+A câmara não produz frio: só retarda a entrada de calor. Sem gelo, esquenta.
+Gelo derretido vira água. Escoe pelo dreno e mantenha a comida fora da poça.
+Carne e peixe crus podem pingar em comida pronta. Embale e separe sempre.
+Não encha a caixa demais. O ar precisa circular entre gelo e recipientes.
+Gelo com geada pode congelar alimentos sensíveis.
+Aparência, cheiro e tato não indicam temperatura segura. Use o termômetro.
+Acima de 4°C por mais de duas horas, descarte os perecíveis.
+Acima de aproximadamente 32°C, esse tempo cai para uma hora.
+Sem termômetro, use a câmara por poucas horas e prefira alimentos estáveis.
+Procure ajuda se alguém comer da câmara e tiver vômito ou diarreia.
+
+SE NAO TIVER
+------------
+Sem isopor, use serragem ou palha bem secas dentro de um saco plástico.
+Sem saco plástico, forre com um recipiente de plástico menor e sem furos.
+Sem gelo, congele água em garrafas deixando espaço para a expansão.
+Sem como congelar, use a caixa só para sombra e reduza o tempo de guarda.
+Isso não substitui refrigeração: descarte perecíveis na dúvida.
+Sem termômetro, gelo sólido é sinal aproximado de frio; na dúvida, descarte.
+Sem caixa rígida, encaixe uma caixa de isopor em outra e amarre a tampa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O termômetro no interior marca 4°C ou menos.
+Ainda há gelo sólido nas garrafas após o período previsto.
+A tampa fecha e não há poça de água no fundo da caixa.
+Os alimentos estão em recipientes fechados, separados e com data escrita.
+
+FONTES
+------
+Administração de Alimentos e Medicamentos dos Estados Unidos (FDA), Are You
+Storing Food Safely?, 2023: refrigeração a 4°C ou menos e regra de 2 horas.
+Organização Pan-Americana da Saúde e OMS (OPAS), Centro de Recursos
+de Cadeia de Frio: faixa de 2°C a 8°C e condicionamento de gelo.
+Centros de Controle e Prevenção de Doenças dos Estados Unidos (CDC), The
+Vaccine Cold Chain, 2026: temperatura inadequada destrói a potência.
+Prática consolidada de conservação térmica, sem documento único.

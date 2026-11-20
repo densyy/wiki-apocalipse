@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 10-033
+TITULO: Como produzir fogo utilizando baterias de maneira controlada
+CATEGORIA: 10 - Sobrevivência em ambientes naturais
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: pilha de 9V, lã de aço fina, isca seca, água ou terra para apagar
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fogo, pilha, bateria, lã de aço, acender, incêndio
+==============================================================================
+
+OBJETIVO
+--------
+Acenda uma fogueira pequena usando uma pilha e lã de aço, sem isqueiro.
+
+QUANDO USAR
+-----------
+Quando o isqueiro e os fósforos molharam ou acabaram.
+Quando é preciso fogo para calor, cozinhar ou ferver água.
+Quando sobrou uma pilha de 9V e lã de aço na mochila.
+Quando está ventando ou chovendo e outros métodos falharam.
+
+NAO USE QUANDO
+--------------
+Quando houver aviso de incêndio ou tempo muito seco na região.
+Quando não der para ventilar: nunca acenda em barraca ou abrigo fechado.
+Quando houver cheiro de gás ou combustível no ar: a faísca pode inflamar.
+Quando só houver bateria de carro, lítio danificada ou pilha vazando.
+Quando não houver água, terra ou areia para apagar o fogo.
+
+MATERIAIS
+---------
+- Pilha de 9V nova (duas pilhas AA novas em série).
+- Lã de aço fina, grau 0000 ou 000, sem óleo (fio de nichrome).
+- Isca seca: algodão, fiapos de pano, papel, serragem ou casca seca.
+- Gravetos finos e lenha miúda para alimentar o fogo.
+- Pano seco ou luva para segurar a lã de aço.
+- Fita adesiva para cobrir os polos da pilha quando guardá-la.
+- Água, terra ou areia para apagar (pó de extintor, se houver).
+
+PROCEDIMENTO
+------------
+1. Escolha terreno plano, limpo e livre de poças, longe de arbustos.
+2. Afaste barraca, roupa e combustível a aproximadamente 5 metros do fogo.
+3. Limpe o chão num círculo de aproximadamente 1 metro de raio.
+4. Monte a fogueira: plataforma de gravetos no chão e isca seca no centro.
+5. Deixe gravetos finos e lenha ao lado, prontos para alimentar o fogo.
+6. Separe uma porção de lã de aço do tamanho de uma noz.
+7. Afofe a lã com os dedos protegidos para entrar ar entre os fios.
+8. Segure a lã só com pano seco ou luva: ela corta e queima.
+9. Coloque a lã sobre a isca, esticada para tocar os dois polos da pilha.
+10. Encoste os dois polos da pilha de 9V na lã: fica incandescente.
+11. Retire a pilha após aproximadamente 2 segundos, ao ver brilho vermelho.
+12. Não deixe a lã encostada na pilha depois de usar.
+13. Sopre de leve na base da isca até aparecer a primeira chama.
+14. Alimente primeiro com gravetos finos, depois com lenha maior.
+15. Mantenha o fogo pequeno até formar uma camada de brasas.
+16. Guarde a pilha com os polos cobertos por fita, longe da lã de aço.
+
+ATENCAO
+-------
+O que mata aqui é o fogo fora de controle e o monóxido de carbono.
+Monóxido não tem cheiro: nunca queime em barraca ou abrigo fechado.
+Nunca use tomada, rede elétrica ou carregador ligado na parede: só pilhas.
+Nunca use bateria de carro: libera gás hidrogênio explosivo e ácido.
+Nunca use bateria de lítio danificada, inchada ou quente: pode pegar fogo.
+A lã de aço corta e solta pedaços incandescentes que queimam pele.
+Guarde a pilha com fita nos polos: lã encostada nela acende sozinha.
+Não use gasolina, álcool ou líquido inflamável para acender.
+Não use pedras molhadas ou porosas no entorno: podem estourar.
+Não deixe o fogo sozinho, perto de crianças ou animais.
+Se entrar fumaça no abrigo ou alguém sentir tontura, apague e saia.
+Antes de dormir, afogue com água, mexa a cinza e afogue de novo.
+Se o fogo escapar para a vegetação, afaste-se e peça ajuda.
+
+SE NAO TIVER
+------------
+Sem lã de aço, use fio de resistência (nichrome) de um aquecedor velho.
+Sem nichrome, use a ponta de grafite de um lápis: pode falhar, teste antes.
+Sem pilha de 9V, use duas pilhas AA novas com lã de aço muito fina.
+Sem pilha, use pederneira ou isqueiro (veja 10-010).
+Não improvise com fios de tomada, rede energizada, gasolina ou químicos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A lã de aço brilha em vermelho ao encostar nos polos da pilha.
+A isca solta a primeira chama e os gravetos finos pegam fogo sem apagar.
+Depois de alguns minutos há brasas vermelhas sob a chama.
+A fumaça sobe clara; fumaça escura e densa indica isca úmida.
+
+FONTES
+------
+Prática consolidada de acendimento elétrico com pilha e lã de aço.
+Manual de sobrevivência do Exército dos EUA FM 3-05.70 (FM 21-76),
+capítulo de Firecraft, e manual básico da FAA, citados em 10-010.
+Demonstração da BBC sobre lã de aço e pilha de 9V.
+Orientações de segurança da NFPA sobre pilhas e risco de incêndio;
+prática consolidada de prevenção de incêndio florestal.

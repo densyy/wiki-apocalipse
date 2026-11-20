@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 36-003
+TITULO: Como identificar depósitos minerais
+CATEGORIA: 36 - Geologia, mineração e recursos naturais
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: botas firmes, luvas, lupa de bolso, caderno, lanterna
+REVISAO: 2026-11
+PALAVRAS-CHAVE: minério, depósito, prospecção, quartzo, ferrugem, bateia
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer no terreno sinais visíveis de possível depósito mineral e
+registrá-los sem entrar em áreas perigosas.
+
+QUANDO USAR
+-----------
+Ao caminhar em serra ou área de rocha exposta e notar cores incomuns.
+Ao examinar cortes de estrada, barrancos e pedreiras.
+Ao procurar indícios antes de decidir onde parar ou pernoitar.
+Ao documentar achados para mostrar depois a um geólogo.
+
+NAO USE QUANDO
+--------------
+Dentro de mina, poço, galeria ou túnel abandonado: nunca entre.
+Em área cercada, com placa de risco ou em propriedade sem autorização.
+Se houver cheiro de gás, ar viciado, poços abertos ou poças profundas.
+Quando o objetivo for extrair ou vender sem licença: é ilegal.
+
+MATERIAIS
+---------
+- Botas com sola firme e cano alto.
+- Luvas grossas de couro ou borracha.
+- Lupa de bolso (ou lente de aumento comum).
+- Caderno e lápis para anotar.
+- Lanterna.
+- Bateia (ou tigela rasa) para lavar cascalho de córrego.
+- Saco pequeno para uma amostra (opcional).
+
+PROCEDIMENTO
+------------
+1. Vista botas e luvas antes de sair do abrigo.
+2. Caminhe só por trilhas, cortes de estrada e barrancos estáveis.
+3. Afaste-se da boca de poços, túneis e escavações; não olhe para dentro.
+4. Observe a cor da rocha e do solo em toda a extensão do corte.
+5. Note manchas vermelhas, alaranjadas ou marrons de óxido de ferro.
+6. Essa "ferrugem" da rocha, chamada gossan, pode indicar sulfetos.
+7. Procure veios de quartzo: faixas brancas ou leitosas que cortam a rocha.
+8. Note manchas verdes ou azuis na rocha, indício de carbonatos de cobre.
+9. Observe grãos brilhantes, amarelos ou cinza-metálicos no cascalho.
+10. Não prove, não cheire e não inale pó desses grãos.
+11. No córrego, pegue cascalho do leito e lave na bateia com água corrente.
+12. Veja se sobram no fundo grãos escuros e pesados: são minerais pesados.
+13. Observe de fora antigas escavações e pilhas de rejeito, sem entrar.
+14. Anote no caderno o local, a cor, a rocha e o que encontrou.
+15. Se a luz falhar ou o solo parecer instável, pare e saia com calma.
+
+ATENCAO
+-------
+Nunca entre em mina, poço, galeria ou túnel abandonado. Ar viciado,
+gases tóxicos, falta de oxigênio, desabamentos, poços ocultos e
+explosivos deixados podem matar em minutos.
+Não prove, não cheire e não inale pó de minério. Arsênio, mercúrio,
+amianto e urânio podem estar presentes e causar intoxicação.
+Não se aproxime da borda de poços, barrancos ou pilhas de rejeito:
+o solo cede sem aviso.
+Não nade em poças ou lagos de mina. Água fria, afundamento e químicos
+matam mesmo quem nada bem.
+Respeite cercas, placas e propriedade. Prospecção e extração sem
+autorização são ilegais.
+Manchas de óxido, veios e grãos pesados são indícios, não prova.
+Confirme com geólogo ou órgão mineral antes de qualquer decisão.
+
+SE NAO TIVER
+------------
+Sem lupa, aproxime o olho com cuidado e use boa luz natural.
+Sem bateia, lave o cascalho numa tigela rasa com água do córrego.
+Sem luvas, evite tocar minerais suspeitos e registre só o que viu.
+Sem lanterna e com pouca luz, interrompa e volte quando clarear.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você anotou no caderno pelo menos um indício observado, com local
+aproximado.
+Nenhum passo exigiu entrar em escavação, provar amostra ou tocar
+mineral suspeito sem luva.
+Você deixou o local íntegro e sem aproximação de aberturas.
+
+FONTES
+------
+Prática consolidada de prospecção mineral de campo descrita em
+"Suggestions for Prospecting" (USGS) e no curso "Noções de Prospecção
+e Pesquisa Mineral" (CPRM/SGB).
+Indicadores de alteração, veios e minerais pesados em sedimentos
+conforme publicação da USGS sobre métodos geoquímicos de prospecção.
+Alerta "Stay Out of Abandoned Mines" (MSHA) sobre minas abandonadas.
+Resumo operacional: não substitui treinamento nem autorização legal.

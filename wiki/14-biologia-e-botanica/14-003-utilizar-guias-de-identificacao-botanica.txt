@@ -1,0 +1,88 @@
+==============================================================================
+CODIGO: 14-003
+TITULO: Como utilizar guias de identificação botânica
+CATEGORIA: 14 - Biologia, botânica e zoologia
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: guia da região, lupa, régua, caderno, ramo com folhas e flores
+REVISAO: 2026-11
+PALAVRAS-CHAVE: planta, identificar, chave, dicotômica, espécie, venenosa
+==============================================================================
+
+OBJETIVO
+--------
+Chegar ao nome de uma planta usando um guia ou uma chave impressa.
+
+QUANDO USAR
+-----------
+Quando encontrar planta desconhecida e precisar saber o que é.
+Quando precisar separar uma planta útil de uma parecida e perigosa.
+Quando houver guia de campo da região e tempo para conferir.
+Quando quiser registrar o que cresce perto do abrigo ou da roça.
+
+NAO USE QUANDO
+--------------
+Quando a planta estiver sem folhas, flores ou frutos: a chave pode travar.
+Quando o guia for de outra região: a lista de espécies não é a mesma.
+Quando a decisão servir para comer a planta ou fazer chá sem confirmação.
+
+MATERIAIS
+---------
+- Guia de campo ou chave dicotômica da região (guia botânico local).
+- Lupa de bolso (lente de aumento de vidro).
+- Régua ou fita de pano.
+- Caderno e lápis.
+- Ramo com folhas, caule e, se houver, flor ou fruto.
+- Papel limpo para acomodar o ramo.
+
+PROCEDIMENTO
+------------
+1. Escolha guia que cubra a região onde a planta foi encontrada.
+2. Leia as instruções iniciais: siglas, abreviaturas e unidades de medida.
+3. Consulte o glossário e anote o sentido de cada termo desconhecido.
+4. Observe a planta inteira antes da chave: porte, caule e disposição.
+5. Meça duas ou três folhas parecidas, não apenas uma.
+6. Anote o formato da borda da folha e a posição no caule.
+7. Observe flor, fruto e semente, se existirem.
+8. Abra o primeiro par de alternativas e leia as duas opções.
+9. Escolha a opção que melhor descreve o que você mediu e anotou.
+10. Siga o número indicado até o próximo par de alternativas.
+11. Repita a leitura das duas opções em cada par, sem pular etapas.
+12. Se o caráter não estiver visível, teste as duas opções em separado.
+13. Volte um ou dois pares quando nenhuma opção fizer sentido.
+14. Ao chegar a um nome, leia a descrição completa da espécie.
+15. Compare descrição e figuras com a planta que está na sua mão.
+16. Anote nome científico, nome popular, local e data no caderno.
+17. Prense o ramo entre papéis secos para conferir depois.
+
+ATENCAO
+-------
+Uma identificação por chave é hipótese, não garantia.
+Nunca coma ou use como remédio planta identificada só pela chave.
+Espécies comestíveis têm parecidas venenosas de difícil distinção.
+A chave depende de flor ou fruto; planta estéril pode ser impossível.
+Cor e tamanho mudam quando a planta seca: anote o que viu no campo.
+Aplicativos de foto servem como triagem, mas erram em espécies parecidas.
+Guia de outra região lista espécies diferentes e engana.
+Se sobrar dúvida, pare e procure quem entende do assunto.
+
+SE NAO TIVER
+------------
+Sem lupa, observe em boa luz e abra partes pequenas com um alfinete.
+Sem guia impresso, não invente o nome por semelhança com foto guardada.
+Sem flor ou fruto, espere a planta florir e refaça a chave depois.
+Sem especialista, mantenha a planta longe da comida e da bebida.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A descrição confere com caule, folhas, flor e fruto observados.
+O nome da espécie está na ficha, com local e data da observação.
+A checagem foi feita pela descrição, não só pelo caminho da chave.
+
+FONTES
+------
+Capitulo sobre uso de chaves, Universidade da Carolina do Norte (EUA).
+Texto "Como identificar plantas", Escola Superior Agraria de Braganca, IPB.
+Plant Identification Basics, extensao da Montana State University, 2025.
+Manual da Flora e Funga do Brasil, Jardim Botanico do Rio de Janeiro.
+Noções Morfológicas e Taxonômicas para Identificação Botânica, Embrapa.

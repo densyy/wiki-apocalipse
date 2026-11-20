@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 08-053
+TITULO: Como fabricar peças simples para bicicletas
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: chapa mole, arame, martelo, punção, lima, óculos de proteção
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bicicleta, peça, arruela, contrapino, cabo, improviso
+==============================================================================
+
+OBJETIVO
+--------
+Fazer arruela, contrapino e terminal de cabo com sucata e ferramentas.
+
+QUANDO USAR
+-----------
+Faltar arruela para prender bagageiro ou para-lama.
+Faltar contrapino ou terminal de cabo de câmbio.
+
+NAO USE QUANDO
+--------------
+A peça serve para freio, corrente, cubo, pedivela, guidão ou quadro.
+O metal está enferrujado, rachado ou resiste à lima.
+
+MATERIAIS
+---------
+- Chapa mole limpa (fundo de lata de conserva ou latão).
+- Arame de ferro ou cobre com aproximadamente 2 mm e fio de cobre fino.
+- Martelo, punção (prego com ponta lixada) e bloco de madeira dura.
+- Lima pequena, alicate, óculos de proteção e luvas.
+
+PROCEDIMENTO
+------------
+1. Marque um quadrado de aproximadamente 3 cm de lado na chapa.
+2. Apoie a chapa no bloco, use óculos e bata o punção no centro.
+3. Aumente o furo com o prego até o parafuso entrar sem força.
+4. Limpe a borda com a lima até a arruela ficar redonda, sem rebarba.
+5. Corte aproximadamente 5 cm de arame para o contrapino.
+6. Dobre o arame ao meio sobre o bloco e bata com o martelo.
+7. Encaixe o contrapino no furo do parafuso.
+8. Abra as duas pontas em V com o alicate, longe do pneu.
+9. Para o terminal, corte a ponta do cabo de câmbio com o alicate.
+10. Enrole fio de cobre fino na ponta por aproximadamente 1 cm.
+11. Dobre a sobra do fio para dentro e pressione com o martelo no bloco.
+
+ATENCAO
+-------
+A chapa corta e o punção salta: use óculos, luvas e bloco firme.
+Nunca bata em chapa apoiada em pedra ou concreto; a lasca voa.
+Arruela e contrapino improvisados não substituem peça de freio, corrente,
+cubo, guidão ou quadro: a falha pode causar queda.
+Pare se a chapa rachar, se a arruela sair ou se o metal voar: busque ajuda.
+
+SE NAO TIVER
+------------
+Sem punção, use prego de cabeça larga com a ponta lixada.
+Sem fio de cobre, não improvise terminal: preserve o cabo e troque-o.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A arruela gira no parafuso e não sai com puxão leve.
+O contrapino trava a porca e as pontas ficam afastadas do pneu.
+O terminal cobre a ponta desfiada e não solta ao puxar com os dedos.
+
+FONTES
+------
+Prática consolidada de oficina de bicicletas com ferramentas manuais.
+Referências consultadas: Sheldon Brown e John Allen, Chain Maintenance
+e Wheelbuilding (seção de ferramentas improvisadas).

@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 65-010
+TITULO: Como compreender materiais poliméricos
+CATEGORIA: 65 - Engenharia de materiais e polímeros
+TEMPO: 45 minutos
+RISCO: medio
+EXIGE: caderno, lupa, água, pinça, calor controlado e ventilação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: polímero, plástico, borracha, termoplástico, termofixo
+==============================================================================
+
+OBJETIVO
+---------
+Reconhecer um polímero, classificá-lo e prever como ele reage ao calor e
+ao esforço.
+
+QUANDO USAR
+-----------
+Quando precisa identificar um plástico sem etiqueta.
+Quando precisa decidir se uma peça pode ser aquecida ou colada.
+Quando uma peça de plástico racha, deforma ou fica mole no calor.
+Quando precisa escolher entre plástico, borracha e resina numa reparação.
+Quando um substituto de plástico falhou e você quer entender o motivo.
+
+NAO USE QUANDO
+--------------
+Não substitua ensaio, norma técnica ou cálculo de engenheiro por este
+texto. Não use para dimensionar peça que sustenta peso, pressão ou
+tensão elétrica. Não use para escolher material em capacete, cinto de
+segurança, mangueira de combustível ou isolamento elétrico.
+
+MATERIAIS
+---------
+- Caderno e lápis para anotar observações.
+- Lupa ou ampliador de bolso (lente de óculos serve).
+- Recipiente com água limpa para o teste de flutuação.
+- Ímã para separar polímeros de metais e peças com carga metálica.
+- Pinça de madeira ou metal para segurar a amostra no calor.
+- Fonte de calor fraco e local bem ventilado.
+- Amostras descartadas de plástico, borracha e resina endurecida.
+
+PROCEDIMENTO
+------------
+1. Observe a peça com a lupa. Note cor, brilho, transparência e textura.
+2. Encoste o ímã. Polímero puro não gruda; se grudar, há metal ou carga.
+3. Coloque uma amostra pequena na água. Se flutuar, a densidade é menor
+   que a da água, como no polietileno e no polipropileno.
+4. Se afundar, anote como pista de PET, PVC, vidro ou enchimento mineral.
+5. Dobre uma amostra fina. Borracha volta ao formato; plástico dobra e
+   fica deformado; resina racha ou quebra sem dobrar.
+6. Segure uma ponta com a pinça e aproxime do calor fraco, ventilado.
+7. Observe o que acontece. Termoplástico amolece e derrete; termofixo
+   não derrete e carboniza; borracha queima sem derreter.
+8. Mantenha o rosto afastado e não inale o fumo em nenhum momento.
+9. Raspe uma borda escondida. Polímero risca e fica fosco; vidro e
+   cerâmica não riscam com unha.
+10. Leia o número dentro do triângulo, quando houver, como pista do tipo
+    de resina, nunca como prova de composição.
+11. Classifique a amostra em uma das três famílias: termoplástico,
+    termofixo ou elastômero, usando o que você viu.
+12. Registre no caderno a família, o teste que a sustentou e a dúvida.
+
+ATENCAO
+-------
+Este texto é introdutório. Ele não substitui ensaio mecânico, norma
+técnica ou projeto de engenheiro. Não dimensione peça estrutural, vaso
+de pressão ou parte elétrica com base nele. Aquecer ou queimar plástico
+libera fumos tóxicos. Faça em local ventilado, com pinça e proteção nos
+olhos, e nunca inale. PVC e politetrafluoretileno liberam gases
+perigosos ao queimar; não queime em ambiente fechado. O teste de
+flutuação falha com peça oca, com enchimento mineral ou com parafuso;
+use-o só como pista. O número de resina não garante segurança para
+contato com alimento ou água. Peça envelhecida por sol, calor ou
+químico pode falhar sem aviso; inspecione antes de confiar nela. Em
+dúvida sobre segurança, não use a peça e procure ajuda.
+
+SE NAO TIVER
+------------
+Sem lupa, observe contra a luz forte. Sem água, use só os testes de
+dobra e de calor. Sem pinça, segure a amostra com um espeto de madeira.
+Sem amostras, use uma peça quebrada descartada. Não derreta plástico se
+não houver ventilação: apenas observe o que já existe.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue classificar cada amostra como termoplástico, termofixo ou
+elastômero e apontar qual teste sustentou a conclusão. A explicação usa
+o que foi visto, como derrete, volta ao formato ou flutua, não palpite.
+
+FONTES
+------
+Prática consolidada de ensino de ciência e engenharia dos materiais,
+presente em cursos universitários e compêndios de introdução aos
+polímeros. Definições de polímero e macromolécula segundo a IUPAC.
+Este texto é um resumo operacional, não substitui treinamento.

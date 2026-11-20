@@ -1,0 +1,75 @@
+==============================================================================
+CODIGO: 01-005
+TITULO: Como encontrar água em regiões áridas
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: mapa, caderno, calçado fechado, chapéu, garrafa limpa, pá
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, árido, deserto, semiárido, nascente, poço, sede
+==============================================================================
+
+OBJETIVO
+--------
+Localizar água no terreno seco e escolher o ponto com menor risco.
+
+QUANDO USAR
+-----------
+Quando a torneira secou e não há estoque nem água engarrafada.
+Ao atravessar área seca ou semiárida sem fonte conhecida.
+
+NAO USE QUANDO
+--------------
+Não use este guia para afirmar que a água é potável. Trate antes (01-001).
+Não beba água de enchente, poço alagado ou com cheiro de combustível.
+
+MATERIAIS
+---------
+- Mapa ou carta topográfica (caderno com desenho do terreno).
+- Caderno e lápis para marcar pontos.
+- Calçado fechado, chapéu, garrafa limpa com tampa.
+- Pá ou pedra pontuda para cavar.
+
+PROCEDIMENTO
+------------
+1. Saia no início da manhã ou no fim da tarde, nunca sob sol forte.
+2. Caminhe pelos vales e baixadas, não pelos cumes e encostas altas.
+3. Procure choupos, salgueiros e tamariscos em área seca: água rasa.
+4. Marque no mapa árvores verdes, trilhas de animais e bandos de aves.
+5. Vá à base de penhascos e procure solo escuro, úmido e gotejamento.
+6. Observe fendas na rocha; fezes de aves perto da fenda indicam água.
+7. Em leito de riacho seco, ache a borda externa de uma curva fechada.
+8. Verifique o céu: não cave se houver chuva na região ou risco de cheia.
+9. Cave aproximadamente 1 metro na borda externa da curva, devagar.
+10. Se aparecer areia úmida, aprofunde até a água infiltrar no buraco.
+11. Recolha com recipiente limpo, sem tocar na água com as mãos.
+12. Coe com pano limpo e ferva antes de beber (veja 01-001).
+
+ATENCAO
+-------
+Toda água natural pode causar diarreia ou hepatite. Trate antes de beber.
+Aparência limpa não prova segurança; cheiro de químico descarta a fonte.
+O maior risco é o calor: desidratação e insolação matam rápido.
+Se sentir tontura ou parar de suar, pare e procure sombra imediata.
+Leitos secos viram cheias súbitas: nunca cave neles se houver chuva.
+Margens de barro e poços rasos podem desabar; não desça sozinho.
+Ferver não remove combustível, agrotóxico, sal ou metal. Mude de ponto.
+Se não achar água em uma hora, peça ajuda a moradores ou autoridades.
+
+SE NAO TIVER
+------------
+Sem mapa, desenhe no caderno vales, cursos secos e árvores verdes.
+Sem pá, use uma pedra pontuda ou um pedaço de madeira para soltar o solo.
+Sem recipiente limpo, não recolha para beber; use lata sem ferrugem.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você achou solo úmido, gotejamento ou água parada no buraco cavado.
+O ponto foi marcado no mapa ou caderno, com referência para voltar.
+A água está em recipiente limpo e tampado, longe de pasto e latrina.
+
+FONTES
+------
+USGS (localização de água subterrânea: vales e plantas indicadoras); CDC
+(fontes de água em emergência); FM 21-76, capítulo 6 (pistas no terreno).
+Prática consolidada de sobrevivência no deserto; resumo operacional.

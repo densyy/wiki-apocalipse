@@ -1,0 +1,102 @@
+==============================================================================
+CODIGO: 70-030
+TITULO: Como organizar um arquivo digital de sobrevivência
+CATEGORIA: 70 - Computação de baixo consumo e preservação digital
+TEMPO: 60 minutos
+RISCO: baixo
+EXIGE: computador, duas unidades externas, caderno, lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: arquivo, organizar, preservação, backup, inventário
+==============================================================================
+
+OBJETIVO
+--------
+Montar um arquivo digital organizado, com inventário e cópias, que
+continua legível e localizável anos depois, sem internet.
+
+QUANDO USAR
+-----------
+Quando manuais, mapas e registros importantes estão espalhados.
+Quando arquivos antigos abrem em um aparelho e falham em outro.
+Quando se prepara uma biblioteca para uso sem internet.
+Quando outra pessoa precisa achar um documento sem perguntar.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+Este método não recupera arquivos já corrompidos: ele só evita
+perdas futuras. Se um arquivo não abre, pare e ache a cópia original.
+
+MATERIAIS
+---------
+- Computador com terminal ou gerenciador de arquivos.
+- Pasta única para o arquivo, com nome curto e sem acentos.
+- Duas unidades externas para as cópias (ou outro aparelho).
+- Caderno e lápis para o inventário em papel.
+- Programa que calcule sha256, como sha256sum.
+
+PROCEDIMENTO
+------------
+1. Crie a pasta raiz arquivo, com nome sem acentos nem espaços.
+2. Crie a subpasta 01-texto para manuais e documentos em texto.
+3. Crie a subpasta 02-imagem para fotos, mapas e diagramas.
+4. Crie a subpasta 03-audio para gravações e instruções faladas.
+5. Crie a subpasta 04-video para aulas e registros em movimento.
+6. Crie a subpasta 05-software para instaladores e ferramentas.
+7. Crie a subpasta 99-origem para originais e arquivos sem classe.
+8. Copie cada arquivo para a subpasta da sua categoria.
+9. Mantenha o original em 99-origem quando converter um arquivo.
+10. Renomeie cada cópia com data, tipo e descrição curta.
+11. Use o formato AAAAMMDD_tipo_descricao.ext nos nomes.
+12. Escreva em minúsculas e troque espaços por sublinhado.
+13. Evite acentos, barras e caracteres especiais no nome.
+14. Salve textos em UTF-8 e documentos em PDF/A quando possível.
+15. Salve imagens em PNG e tabelas em CSV, sem senha.
+16. Abra cada arquivo salvo e confira se o conteúdo está legível.
+17. Crie INVENTARIO.txt na raiz com uma linha por arquivo.
+18. Anote nome, origem, data e uma frase de descrição em cada linha.
+19. Crie LEIAME.txt explicando a ordem e o uso das subpastas.
+20. Gere os códigos com: sha256sum * > HASHES.txt
+21. Anote no caderno a data da checagem e o tamanho do arquivo.
+22. Copie a pasta arquivo inteira para a primeira unidade externa.
+23. Copie a mesma pasta para a segunda unidade ou outro aparelho.
+24. Guarde uma cópia em outro lugar, longe do computador.
+25. Anote no caderno o nome e a data de cada unidade usada.
+26. Desconecte as unidades depois de terminar a cópia.
+27. Repita os códigos a cada seis meses e renove as duas cópias.
+
+ATENCAO
+-------
+HASHES.txt protege contra mudança silenciosa, não contra apagamento:
+sem as cópias, um arquivo perdido some sem aviso.
+Um disco externo pode falhar sem sinal: nunca confie em uma só cópia.
+Copiar sobre uma unidade apaga a cópia antiga; confira o destino.
+A checagem sha256 detecta alteração, mas não conserta o arquivo.
+Se um arquivo não abre ou o código mudou, pare e restaure a cópia.
+Não coloque senhas neste arquivo: use papel separado e escondido.
+
+SE NAO TIVER
+------------
+Sem sha256sum, use outro gerador de código sha256 do sistema.
+Sem segunda unidade, copie para outro aparelho e renove a cópia.
+Sem unidade externa, use papel para o inventário e guarde em outro lugar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As sete subpastas existem e cada arquivo está na sua categoria.
+INVENTARIO.txt tem uma linha para cada arquivo da pasta.
+O comando sha256sum -c HASHES.txt responde "OK" para todos.
+As duas unidades externas abrem os mesmos arquivos do computador.
+
+FONTES
+------
+Digital Preservation Handbook, 2a edição, Digital Preservation
+Coalition: guia revisado por pares sobre gestão de recursos digitais
+ao longo do tempo e manutenção do acesso.
+National Archives dos Estados Unidos, programa de preservação
+digital e Digital Preservation Framework: riscos a arquivos e
+checagem de integridade (fixity).
+NIST FIPS 180-4, Secure Hash Standard: função de hash usada para
+detectar alteração em arquivos.
+Prática consolidada de preservação digital: várias cópias, meios
+diferentes e uma guardada fora do local.

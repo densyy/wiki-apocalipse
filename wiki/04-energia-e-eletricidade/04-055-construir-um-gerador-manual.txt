@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 04-055
+TITULO: Como construir um gerador manual
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: motor DC pequeno, base de madeira, suporte de pilhas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: gerador, manual, manivela, motor, carga, pilha
+==============================================================================
+
+OBJETIVO
+--------
+Montar gerador de manivela para carga pequena sem rede eletrica.
+
+QUANDO USAR
+-----------
+Quando faltar energia da rede por horas ou dias.
+Quando for preciso carregar pilha recarregavel ou lanterna.
+Quando houver motor DC pequeno aproveitavel de brinquedo.
+
+NAO USE QUANDO
+--------------
+Com chuva, mao molhada ou bancada molhada.
+Para ligar aparelho de tomada, geladeira ou ferramenta.
+Se a pilha estiver estufada, quente ou com cheiro forte.
+
+MATERIAIS
+---------
+- Motor DC pequeno de aproximadamente 3 a 12 volts.
+- Base firme de madeira ou caixa rigida.
+- Manivela: sarrafo, colher de pau ou manete de brinquedo.
+- Suporte de pilhas com fio positivo e negativo marcados.
+- Pilhas recarregaveis do tipo do suporte, descarregadas.
+- Fita isolante e abracadeira ou parafuso para fixar o motor.
+
+PROCEDIMENTO
+------------
+1. Trabalhe em bancada seca, com as maos secas e boa luz.
+2. Fixe o motor na base com abracadeira ou parafuso firme.
+3. Fixe a manivela no eixo do motor sem folga.
+4. Gire a manivela devagar e confirme giro liso e firme.
+5. Ligue os fios do motor aos bornes do suporte de pilhas.
+6. Isole cada emenda com fita isolante, sem cobre exposto.
+7. Coloque as pilhas recarregaveis no suporte na posicao certa.
+8. Gire a manivela em ritmo constante, sem trancos fortes.
+9. Encerre a carga quando a lanterna acender ou o uso resolver.
+
+ATENCAO
+-------
+O que machuca aqui e curto-circuito e pilha danificada, nao a manivela.
+Fio quente, cheiro forte ou fumaca: pare e desconecte as pilhas.
+Nunca ligue este gerador em tomada ou em rede energizada.
+Nunca abra pilha, lanterna ou celular para ligar fio direto.
+Este gerador gera pouco: serve para carga pequena, nao para casa.
+
+SE NAO TIVER
+------------
+Sem suporte de pilhas, use lanterna de dinamo pronta, sem adaptar.
+Sem manivela, use roda ou botao grande fixado firme no eixo.
+Sem fita isolante, nao monte: emenda exposta causa curto.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A lanterna acende com as pilhas carregadas na manivela.
+Fios e pilhas seguem frios, sem cheiro, fumaca ou calor forte.
+
+FONTES
+------
+Pratica consolidada de eletronica de baixa tensao, sem documento unico.

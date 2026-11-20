@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 03-024
+TITULO: Como tratar insolação
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 30 minutos
+RISCO: critico
+EXIGE: sombra, água fria, pano, alguém para ligar ao SAMU 192
+REVISAO: 2026-11
+PALAVRAS-CHAVE: insolação, golpe de calor, resfriar, confusão, SAMU
+==============================================================================
+
+OBJETIVO
+--------
+Resfriar a pessoa e manter a vida até chegar atendimento médico.
+
+QUANDO USAR
+-----------
+Pessoa em local muito quente, ao sol, ou após esforço forte com calor.
+Pele quente e seca, ou muito suada, com temperatura corporal alta.
+Confusão, fala arrastada, andar cambaleante ou agitação sem motivo.
+Convulsão, desmaio, ou pessoa que não responde quando chamada.
+Respiração e pulso rápidos, dor de cabeça forte ou vômito com calor.
+Criança, idoso ou pessoa doente que ficou quente e ficou mole ou quieta.
+
+NAO USE QUANDO
+--------------
+Não tente resolver só em casa: insolação é emergência médica.
+Não espere o termômetro para pedir socorro.
+Não dê líquido a quem não está bem acordado ou não engole direito.
+
+MATERIAIS
+---------
+- Sombra ou local fresco e ventilado (ou lona e galhos para sombra).
+- Água fria em balde, garrafa ou mangueira (ou o líquido frio que houver).
+- Pano, toalha ou camisa para molhar e cobrir a pessoa.
+- Alguém para ligar para o SAMU 192 e ficar junto da pessoa.
+- Gelo ou saco frio envolvido em pano, se houver.
+- Termômetro digital, se houver, sem atrasar o resfriamento.
+
+PROCEDIMENTO
+-------------
+1. Garanta que o local é seguro para você e para a pessoa.
+2. Peça a alguém para ligar ao SAMU 192 agora; sozinho, ligue você.
+3. Fique com a pessoa: nunca a deixe desacompanhada.
+4. Leve-a à sombra ou a local fresco, fora do sol e do calor.
+5. Se não puder movê-la, improvise sombra com lona, papelão ou galhos.
+6. Deite-a de costas, com a cabeça um pouco mais elevada.
+7. Se não responde mas respira, deite-a de lado, com a cabeça virada.
+8. Retire o excesso de roupa: tire casaco, cinto, botas e meias.
+9. Molhe a pele com água fria: borrife ou passe pano encharcado.
+10. Ponha pano frio e molhado na testa, pescoço, axilas e virilhas.
+11. Se houver gelo, envolva em pano e ponha nesses mesmos pontos.
+12. Abane a pessoa sem parar enquanto a pele estiver molhada.
+13. Se houver tanque, balde ou lona, imerja-a até o pescoço em água fria.
+14. Na imersão, segure a cabeça fora d'água e não a deixe afundar.
+15. Resfrie antes de transportar, se o socorro demorar a chegar.
+16. Ofereça água fria em gulos pequenos só se ela estiver acordada.
+17. Continue até a pele parar de ficar quente ao toque, ou até tremer.
+18. Pare antes que ela fique fria: não resfrie demais.
+19. Se não houver respiração nem pulso, inicie RCP até o resgate chegar.
+20. Observe respiração e consciência e informe o que fez ao resgate.
+
+ATENCAO
+-------
+Insolação pode matar em minutos ou deixar sequela permanente.
+Comece a resfriar na hora, sem atrasar o pedido de socorro.
+Se o resgate demorar, resfrie no local antes de transportar.
+Resfriar rápido protege o cérebro, os rins e o coração.
+Nunca dê água ou remédio a quem não está bem acordado: pode afogar.
+Não dê dipirona, paracetamol nem AAS para baixar a temperatura:
+eles não ajudam na insolação e podem fazer mal.
+Na imersão em água fria, segure a cabeça da pessoa fora d'água.
+Se ela ficar agitada, não force: afaste o que pode feri-la.
+Mesmo que melhore, procure atendimento: o dano pode aparecer depois.
+
+SE NAO TIVER
+------------
+Sem banheira: use tanque, balde, lona, saco plástico ou mangueira.
+Sem gelo: use a água mais fria disponível e troque os panos molhados.
+Sem pano: encharque a roupa da pessoa com água fria.
+Sem sombra: cubra com lona, papelão ou galhos.
+Sem ajuda: ligue ao 192 e use o viva-voz enquanto continua resfriando.
+Sem termômetro: pare quando a pele deixar de estar quente ao toque.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A pele deixou de estar muito quente ao toque.
+A pessoa responde melhor e não está mais agitada ou confusa.
+A fala ficou mais clara e ela consegue engolir sem dificuldade.
+A respiração e o pulso ficaram mais lentos e regulares.
+O SAMU 192 chegou e assumiu o atendimento.
+
+FONTES
+------
+Ministério da Saúde: insolação e primeiros socorros; SAMU 192.
+OMS e CDC/NIOSH: doenças por calor e primeiro atendimento.
+Cruz Vermelha britânica: resfriamento da insolação (2026).
+Wilderness Medical Society: diretriz 2024 de resfriamento por imersão.
+Prática consolidada: resfriar antes de transportar.
+Evitar antipiréticos: não ajudam e podem atrapalhar.

@@ -1,0 +1,74 @@
+==============================================================================
+CODIGO: 50-019
+TITULO: Como funcionavam os relógios mecânicos históricos
+CATEGORIA: 50 - História das tecnologias pré-industriais
+TEMPO: 20 minutos
+RISCO: baixo
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: relógio, mecânico, escape, pêndulo, peso, corda, hora
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer as peças de um relógio mecânico histórico e explicar como
+elas medem o tempo.
+
+QUANDO USAR
+-----------
+Ao observar um relógio de torre, de parede ou de bolso antigo.
+Ao descrever um mecanismo que veio sem manual.
+Ao explicar como se media o tempo antes da energia elétrica.
+Ao comparar relógios de peso, de corda e de pêndulo.
+
+NAO USE QUANDO
+--------------
+Não use este texto para consertar um relógio de valor. Manuseio
+incorreto quebra peças antigas e irrepetíveis. Peça um relojoeiro.
+
+MATERIAIS
+---------
+- Um relógio mecânico antigo ou uma ilustração dele.
+- Papel e lápis para anotar o nome das peças.
+- Nenhum material é obrigatório para apenas ler.
+
+PROCEDIMENTO
+------------
+1. Localize a fonte de energia do aparelho.
+2. Identifique se é um peso pendente ou uma mola enrolada.
+3. Note o trem de engrenagens que transmite a força.
+4. Procure o escape, peça que libera o movimento em pulsos.
+5. Observe o oscilador: pêndulo ou balanceiro com espiral.
+6. Veja como o escape empurra o oscilador a cada pulso.
+7. Verifique a sequência de ponteiros no eixo das horas.
+8. Relacione cada volta do oscilador ao avanço dos ponteiros.
+
+ATENCAO
+-------
+Relógio antigo não é brinquedo: algumas peças estão corroídas.
+Nunca force corda ou ponteiro, pois a mola pode estourar e ferir.
+Não abra a caixa sem saber fechar; entram pó e umidade.
+Peso pendente solto pode cair e machucar o pé.
+Mola de corda guarda energia mesmo com o relógio parado.
+Não limpe com solvente, que retira a lubrificação original.
+Se o mecanismo travar, pare e chame um relojoeiro.
+
+SE NAO TIVER
+------------
+Sem relógio para observar, use uma ilustração de livro de história
+da tecnologia. O desenho mostra as mesmas peças e os mesmos nomes.
+Sem ilustração, desenhe de memória: peso, engrenagens, escape,
+pêndulo e ponteiros. O objetivo é entender a cadeia de energia.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue apontar no objeto a fonte de energia, o trem de
+engrenagens, o escape, o oscilador e os ponteiros, e dizer qual
+peça depende da outra para o relógio andar.
+
+FONTES
+------
+Prática consolidada de história da tecnologia e de relojoaria.
+Referências gerais: cronologia do relógio de pêndulo e do escape
+de verga e foliote em manuais de história da ciência e da técnica.
+Este texto é um resumo operacional, não substitui estudo especializado.

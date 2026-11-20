@@ -1,0 +1,79 @@
+==============================================================================
+CODIGO: 65-008
+TITULO: Como compreender tenacidade
+CATEGORIA: 65 - Engenharia de materiais e polímeros
+TEMPO: 25 minutos
+RISCO: medio
+EXIGE: duas amostras de material, caderno, dado de ensaio de impacto
+REVISAO: 2026-11
+PALAVRAS-CHAVE: tenacidade, resistência, dureza, fragilidade, impacto, aço
+==============================================================================
+
+OBJETIVO
+--------
+Diferenciar tenacidade de dureza e julgar se o material aguenta impacto.
+
+QUANDO USAR
+-----------
+Ao escolher material para peça que recebe golpe ou carga repentina.
+Ao ler um laudo de ensaio de impacto com valor em joules.
+Ao investigar por que uma peça quebrou seca, sem deformar.
+Ao usar ferramenta em ambiente frio, onde o aço pode ficar frágil.
+Ao comparar dois materiais: um dobra, outro estilhaça.
+
+NAO USE QUANDO
+--------------
+Não serve para dimensionar peça estrutural nem calcular carga máxima.
+Não substitui ensaio de laboratório nem dado certificado do fabricante.
+Não serve para dizer que material é seguro só por parecer resistente.
+
+MATERIAIS
+---------
+- Amostra de metal dúctil, como arame de aço (ou clipe de metal).
+- Amostra de material frágil, como vidro ou cerâmica.
+- Caderno e lápis para anotar.
+- Opcional: laudo de ensaio de impacto com valor em joules.
+
+PROCEDIMENTO
+------------
+1. Defina tenacidade: energia que o material absorve até romper.
+2. Entenda que ser tenaz é diferente de ser duro ou resistente.
+3. Dobre o arame; ele deforma antes de quebrar, então é dúctil.
+4. Tente dobrar o vidro; ele quebra sem deformar, então é frágil.
+5. Anote: o arame absorve mais energia antes de romper que o vidro.
+6. Relacione tenacidade à área sob a curva tensão-deformação.
+7. Lembre que material muito duro, como vidro, pode ser frágil.
+8. Observe a fratura: superfície irregular é dúctil; lisa é frágil.
+9. Verifique a temperatura de uso: alguns aços ficam frágeis no frio.
+10. Note que entalhe, como risco ou furo, dispara fratura frágil.
+11. Para escolha real, exija resultado de ensaio de impacto.
+12. Confira se o valor em joules foi medido na temperatura de uso.
+
+ATENCAO
+-------
+Um ensaio de tração pode mostrar material dúctil que ainda quebra com
+golpe, frio ou entalhe: juntos, esses três fatores causam fratura frágil.
+Dureza alta não significa tenacidade alta; vidro é duro e quebra fácil.
+Este texto não fornece número de projeto nem substitui norma ou laudo.
+Se uma peça quebrou seca em serviço, pare de usar e troque por material
+com dado de impacto conhecido. Não confie só na aparência.
+
+SE NAO TIVER
+------------
+Sem amostras, use o que já sabe: metal costuma ser mais tenaz que vidro.
+Sem laudo de impacto, trate o material como tenacidade desconhecida.
+Nesse caso, evite golpe, frio extremo e entalhe na peça.
+Não existe teste caseiro que substitua o ensaio de impacto certificado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você diz qual amostra absorve mais energia antes de romper.
+Você aponta o valor em joules e a temperatura do ensaio ao justificar.
+Você reconhece fratura frágil pela superfície lisa e sem deformação.
+
+FONTES
+------
+Conceito consolidado de ciência dos materiais. Referências consultadas:
+Encyclopaedia Britannica (verbetes toughness e metallurgy); normas de
+ensaio de impacto Charpy ASTM E23 e ISO 148-1. Resumo operacional, não
+substitui treinamento nem norma de projeto.

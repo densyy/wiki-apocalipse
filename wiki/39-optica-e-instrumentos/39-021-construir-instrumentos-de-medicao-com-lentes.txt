@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 39-021
+TITULO: Como construir instrumentos de medição com lentes
+CATEGORIA: 39 - Óptica e instrumentos científicos
+TEMPO: 45 minutos
+RISCO: medio
+EXIGE: lente de aumento, régua, plástico transparente, caneta fina, fita
+REVISAO: 2026-11
+PALAVRAS-CHAVE: lente, medição, comparador, calibrar, régua, escala, medir
+==============================================================================
+
+OBJETIVO
+--------
+Montar um comparador de lente e escala para medir pequenos comprimentos.
+
+QUANDO USAR
+-----------
+Quando precisar medir fios, parafusos ou traços finos.
+Quando a régua comum não mostra divisões pequenas o bastante.
+Para medir detalhes em mapas, plantas ou fotografias.
+
+NAO USE QUANDO
+--------------
+Não serve para medir peso, volume, temperatura ou ângulos.
+Não dá precisão de micrômetro: a escala caseira erra mais.
+Não use sem referência conhecida nem para julgar água ou comida.
+
+MATERIAIS
+---------
+- Lente de aumento (lupa, lente de óculos ou lente de água).
+- Régua milimetrada ou referência de comprimento conhecido.
+- Plástico liso, caneta fina, fita, superfície plana e luz.
+
+PROCEDIMENTO
+------------
+1. Escolha uma referência de comprimento conhecida, como uma régua.
+2. Desenhe 20 marcas finas e paralelas numa tira de plástico transparente.
+3. Prenda a tira na lente com fita só nas bordas, centro livre.
+4. Apoie a referência na superfície plana e olhe pela lente.
+5. Ajuste a distância até as marcas da referência ficarem nítidas.
+6. Alinhe a marca zero da sua escala com uma marca da referência.
+7. Ache a marca mais à direita em que as duas escalas coincidem.
+8. Conte as marcas até a coincidência e meça o trecho na referência.
+9. Divida o trecho pelas marcas: valor de cada marca da escala.
+10. Para medir, alinhe o zero da escala a uma borda do objeto.
+11. Conte as marcas até a outra borda e some os valores.
+12. Repita a calibração ao trocar de lente, distância ou escala.
+
+ATENCAO
+-------
+A escala só mede depois de calibrada contra uma referência conhecida.
+Marca desigual ou traço grosso estraga a medição: refaça a escala.
+Olhe de cima, sem inclinar, para evitar erro de paralaxe.
+Nunca olhe pelo aparelho para o sol: a luz queima a retina.
+Pare se a escala se desprender ou se o vidro rachar.
+
+SE NAO TIVER
+------------
+Sem régua, use nota de dinheiro ou objeto com medida impressa.
+Sem lente, prenda uma gota de água entre dois filmes (39-005).
+
+COMO SABER QUE DEU CERTO
+------------------------
+Duas marcas distantes coincidem na calibração e o objeto mede em marcas.
+
+FONTES
+------
+Nikon MicroscopyU, 'Linear Measurements (Micrometry)' e 'Eyepiece
+Reticle Calibration'. CDC, 'Calibration of the Ocular Micrometer'.
+Princípio da escala de transferência: prática consolidada de óptica.

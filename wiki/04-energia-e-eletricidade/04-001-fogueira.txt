@@ -1,0 +1,77 @@
+==============================================================================
+CODIGO: 04-001
+TITULO: Como acender e manter uma fogueira para aquecer e cozinhar
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: local aberto, combustível seco, fonte de ignição, água e terra
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fogueira, fogo, aquecer, cozinhar, lenha, brasa
+==============================================================================
+
+OBJETIVO
+--------
+Obter calor controlado para cozinhar, ferver água e aquecer pessoas
+sem provocar incêndio.
+
+QUANDO USAR
+-----------
+Quando faltar eletricidade ou gás para cozinhar.
+Quando for preciso ferver água para consumo.
+Quando o frio exigir aquecimento de pessoas ao ar livre.
+
+NAO USE QUANDO
+--------------
+Em dia de vento forte ou em local com vegetação seca alta.
+Dentro de casa, barraca, garagem ou tenda.
+Em área onde fogo é proibido ou há risco de incêndio.
+
+MATERIAIS
+---------
+- Isca seca: capim seco, casca fina ou palha.
+- Gravetos finos e secos.
+- Lenha grossa.
+- Fósforo ou isqueiro (outra fonte de ignição).
+- Água em abundância e terra para cobrir as brasas.
+
+PROCEDIMENTO
+------------
+1. Escolha local aberto, longe de árvores, paredes, toldos e inflamáveis.
+2. Mantenha pelo menos 3 metros de folga de tudo que pode queimar.
+3. Limpe o chão até a terra.
+4. Em dia seco, abra um círculo de terra ao redor.
+5. Reúna isca, gravetos finos e lenha grossa: três tamanhos.
+6. Monte a lenha em pirâmide, com espaço de ar no centro.
+7. Acenda a isca por baixo.
+8. Alimente o fogo aumentando o tamanho da lenha aos poucos.
+9. Mantenha a entrada de ar desobstruída.
+10. Cozinhe sobre as brasas, não sobre chama alta.
+11. Apague com água em abundância e depois cubra com terra.
+12. Confirme que não há brasa quente ao toque nem fumaça.
+
+ATENCAO
+-------
+Nunca use álcool, gasolina, solvente ou propelente para acelerar o fogo.
+Nunca acenda fogueira dentro de casa, barraca, garagem ou tenda;
+monóxido de carbono mata sem cheiro e sem aviso.
+Não queime madeira pintada, tratada, compensado ou plástico.
+A fumaça desses materiais é tóxica.
+Brasa coberta pode reacender horas depois: apague com água e terra.
+Fumaça branca e densa: combustível úmido ou fogo abafado; aumente o ar.
+Em local fechado, o correto é não usar combustão alguma.
+
+SE NAO TIVER
+------------
+Se faltar isca seca, use a parte interna seca de galho morto ou papel.
+Sem lenha grossa, use mais gravetos: o fogo dura menos e exige atenção.
+Sem pedra para cercar, use terra úmida em volta da base.
+Sem água para apagar, cubra com terra até não sair fumaça.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A chama fica estável, a água ferve e a comida cozinha por igual.
+No fim, não há brasa quente ao toque nem fumaça.
+
+FONTES
+------
+Prática consolidada de prevenção de incêndio, sem documento único.

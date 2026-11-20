@@ -1,0 +1,85 @@
+==============================================================================
+CODIGO: 81-005
+TITULO: Como construir um forno para produção de carvão
+CATEGORIA: 81 - Engenharia térmica e fornos industriais
+TEMPO: 1 dia
+RISCO: alto
+EXIGE: madeira, tijolos ou barro, terra, água
+REVISAO: 2026-11
+PALAVRAS-CHAVE: carvão, madeira, carbonização, forno, pirólise, combustível
+==============================================================================
+
+OBJETIVO
+--------
+Construir um forno para transformar madeira em carvão com pouco ar.
+
+QUANDO USAR
+-----------
+Quando se precisa de carvão para grelhar, aquecer ou reduzir minério.
+Ao aproveitar madeira de desbaste ou sobras de poda.
+Quando o carvão comprado é caro ou de baixa qualidade.
+Para produzir carvão em pequena escala, perto da fonte de madeira.
+
+NAO USE QUANDO
+--------------
+Não faça em dia de vento forte ou com mato seco ao redor.
+Não use madeira tratada, vernizada ou com resina que solte vapores.
+Não opere sem água e terra por perto para sufocar o fogo.
+Não deixe o forno aceso sem vigilância em nenhum momento.
+
+MATERIAIS
+---------
+- Madeira seca cortada em pedaços de tamanho uniforme.
+- Tijolos comuns ou barro para erguer a parede do forno.
+- Terra seca e areia para vedar e abafar.
+- Chaminé ou saída de gases na altura do topo.
+- Pá, marreta e balde de água.
+- Luvas, óculos e máscara.
+
+PROCEDIMENTO
+------------
+1. Escolha local plano, limpo e longe de mato e telhados.
+2. Limpe a área ao redor e mantenha água por perto.
+3. Construa uma câmara circular baixa com tijolos ou barro.
+4. Deixe uma abertura pequena para acender e controlar o ar.
+5. Preveja uma saída de gases no topo, com tampa de terra.
+6. Empilhe a madeira em pé, bem justa, sem deixar vãos grandes.
+7. Cubra a pilha com terra e areia, vedando as laterais.
+8. Acenda o fogo pela abertura inferior, com fogo brando.
+9. Deixe a carbonização correr por horas, controlando a entrada de ar.
+10. Observe a fumaça: no início é clara, depois fica mais escura.
+11. Quando a fumaça clarear de novo, o carvão está quase pronto.
+12. Feche a entrada de ar e a saída com terra para abafar.
+13. Deixe esfriar por completo antes de abrir o forno.
+14. Retire o carvão com pá e separe os pedaços ainda com miolo de madeira.
+15. Guarde o carvão seco, longe de faíscas e do chão úmido.
+
+ATENCAO
+-------
+O fogo precisa de pouco ar: entrar ar demais queima a madeira e vira cinza.
+Gases da carbonização são inflamáveis e venenosos: nunca inspire.
+O forno parece apagado por fora, mas pode estar quente por dentro.
+Abrir cedo deixa o carvão pegar fogo novamente ao entrar ar.
+Tenha água e terra sempre à mão para abafar qualquer fuga de fogo.
+Não carbonize madeira tratada: os vapores ficam presos no carvão.
+Se o fogo sair do controle, abafe com terra e chame os bombeiros.
+
+SE NAO TIVER
+------------
+Sem tijolos, faça um monte de madeira coberto de terra, com saída de gases.
+Sem terra, use areia seca para vedar as laterais da pilha.
+Sem madeira seca, espere: madeira úmida gasta energia e gera mal carvão.
+Sem água por perto, não inicie a carbonização.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O carvão sai preto, leve e quebra com estalo seco.
+Ao bater em pedra, o pedaço não solta fumaça úmida.
+Não sobrou madeira com miolo claro no meio dos pedaços.
+O fogo apagou por completo depois de abafado.
+
+FONTES
+------
+Prática consolidada de carbonização artesanal de madeira em fornos e
+móveis de terra, sem documento normativo único. Referências correntes
+de pirólise de biomassa e segurança contra incêndio florestal.

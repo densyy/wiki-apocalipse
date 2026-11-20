@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 59-012
+TITULO: Como armazenar cilindros de gases comprimidos
+CATEGORIA: 59 - Segurança industrial e riscos ocupacionais
+TEMPO: 30 minutos
+RISCO: critico
+EXIGE: local ventilado, corrente ou cinta, capacete de proteção da válvula
+REVISAO: 2026-11
+PALAVRAS-CHAVE: cilindro, gás, armazenar, oxigênio, acetileno, capacete
+==============================================================================
+
+OBJETIVO
+--------
+Guardar cilindros de gás sem risco de queda, vazamento ou incêndio.
+
+QUANDO USAR
+-----------
+Ao receber cilindros cheios na oficina ou no canteiro.
+Ao guardar cilindros após o uso, mesmo os considerados vazios.
+Ao organizar o depósito antes de iniciar solda ou corte.
+Quando o local de trabalho muda de turno ou de responsável.
+Ao notar cilindro sem identificação ou com o capacete ausente.
+
+NAO USE QUANDO
+--------------
+Não armazene cilindro deitado, sem capacete ou sem rótulo do gás.
+Não guarde cilindro com vazamento ou válvula danificada no depósito.
+Não use este texto no lugar da ficha de segurança do fornecedor.
+
+MATERIAIS
+---------
+- Local coberto, seco, arejado e fora da passagem de pessoas.
+- Corrente ou cinta para prender cada cilindro (suporte do fornecedor).
+- Capacete de proteção da válvula para cada cilindro que o aceita.
+- Etiqueta ou rótulo com o nome do gás (identificação original).
+- Extintor adequado perto da área (orientação do fornecedor).
+- Luvas e calçado com biqueira de aço para movimentar.
+
+PROCEDIMENTO
+------------
+1. Leia o rótulo e confirme o gás de cada cilindro antes de guardar.
+2. Escolha local coberto, seco, arejado, com piso firme e nivelado.
+3. Nunca use porão, armário fechado ou local sem ventilação.
+4. Mantenha o cilindro na posição vertical, com a válvula para cima.
+5. Prenda cada cilindro com corrente ou cinta na altura do meio do corpo.
+6. Feche a válvula de todo cilindro, mesmo vazio, ao terminar o uso.
+7. Rosqueie o capacete de proteção da válvula com a mão, sem forçar.
+8. Separe os cilindros cheios dos vazios em áreas distintas e sinalizadas.
+9. Separe inflamáveis (acetileno, hidrogênio) de oxidantes (oxigênio).
+10. Afaste os dois grupos o máximo possível; na dúvida, use 8 metros.
+11. Use barreira corta-fogo vedada se não couber a distância.
+12. Afaste chamas, faíscas, calor e óleo ou graxa do depósito.
+13. Não fume nem aproxime equipamento que produza faísca do depósito.
+14. Sinalize a área com o nome dos gases e a classificação de risco.
+15. Deixe saídas livres, sem cilindros em corredor, escada ou porta.
+16. Avise o responsável sobre qualquer cilindro danificado ou sem rótulo.
+17. Isole cilindro com vazamento em área aberta e avise o fornecedor.
+
+ATENCAO
+-------
+Um cilindro que cai e quebra a válvula vira projétil e pode matar.
+Nunca guarde cilindro deitado: a válvula pode se romper e liberar gás.
+Nunca mova cilindro pelo capacete: ele não suporta o peso.
+Nunca estanque vazamento nem aperte conexão com pressão.
+Não repare a válvula com o cilindro carregado.
+Óleo e graxa em oxigênio podem causar incêndio ou explosão.
+A distância de 8 metros citada vem da NR-32, para serviços de saúde.
+Na indústria, siga a norma aplicável e a orientação do fornecedor.
+Fontes estrangeiras indicam cerca de 6 metros ou barreira corta-fogo.
+Na dúvida, adote a maior distância e peça orientação ao responsável.
+Se houver cheiro de gás, saia, isole a área e chame o fornecedor.
+Nunca entre em local fechado com suspeita de vazamento sem autorização.
+
+SE NAO TIVER
+------------
+Sem corrente, use cinta resistente fixada em suporte firme na parede.
+Sem capacete, peça outro ao fornecedor antes de guardar o cilindro.
+Sem local arejado, não improvise: procure depósito do fornecedor.
+Sem rótulo legível, não use o gás e devolva ao fornecedor.
+Sem barreira corta-fogo, aumente a distância entre os grupos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Todo cilindro está em pé, preso e não balança quando empurrado levemente.
+A válvula está fechada e o capacete está rosqueado no cilindro parado.
+Cheios e vazios estão em áreas separadas e com identificação visível.
+Inflamáveis e oxidantes estão distantes ou separados por barreira.
+Não há óleo, graxa, chama ou material inflamável junto ao depósito.
+As saídas estão livres e o responsável registrou a data e o controle.
+
+FONTES
+------
+NR-32, item 32.3.8.3, do Ministério do Trabalho: separação entre
+gases inflamáveis e oxidantes em serviços de saúde (8 metros).
+ABNT NBR 12790, 12791 e 11725, sobre cilindros de aço e conexões.
+NR-13, sobre caldeiras e vasos de pressão.
+OSHA 1910.101 e 1926.350 e CGA P-1, sobre cilindros e armazenamento.
+Checklist de gases comprimidos do NIOSH/CDC e normas de universidades.
+Prática consolidada de segurança industrial, resumida neste texto.

@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 04-050
+TITULO: Como proteger circuitos contra sobrecarga
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: quadro com disjuntores ou fusiveis integros, lanterna
+REVISAO: 2026-11
+PALAVRAS-CHAVE: sobrecarga, disjuntor, fusivel, circuito, fio, tomada
+==============================================================================
+
+OBJETIVO
+--------
+Evitar aquecimento e incendio mantendo cada circuito no limite
+seguro dos fios e das tomadas.
+
+QUANDO USAR
+-----------
+Quando o disjuntor desarma com frequencia.
+Quando fios, tomadas ou plugues esquentam em uso.
+Quando varios aparelhos potentes dividem a mesma tomada.
+Quando montar um circuito novo com gerador ou bateria e
+inversor.
+
+NAO USE QUANDO
+--------------
+Quando houver cheiro de queimado, faisca ou fumaca no quadro.
+Quando os fios estiverem derretidos, rigidos ou com capa
+rachada.
+Quando o quadro estiver molhado ou com agua por perto.
+Nesses casos desligue tudo e chame um eletricista.
+
+MATERIAIS
+---------
+- Lanterna a pilha para trabalhar com o quadro desligado.
+- Etiquetas e caneta para marcar cada circuito (fita adesiva).
+- Tabela de potencia dos aparelhos (etiqueta de cada aparelho).
+- Disjuntor ou fusivel reserva de igual valor (mesmo numero).
+- Tomadas e extensoes grossas e certificadas (cabo fino nao).
+
+PROCEDIMENTO
+------------
+1. Desligue o quadro geral antes de tocar em fio ou disjuntor.
+2. Liste os aparelhos ligados em cada circuito do quadro.
+3. Some as potencias aproximadas de cada circuito em watts.
+4. Compare com o limite do disjuntor e da bitola do fio.
+5. Separe os aparelhos potentes em circuitos diferentes.
+6. Ligue cada aparelho potente direto na tomada da parede.
+7. Elimine benjamins e extensoes finas em cascata.
+8. Troque fusivel queimado apenas por outro de igual valor.
+9. Etiquete cada disjuntor com o nome do comodo que atende.
+10. Religue o quadro e teste um circuito de cada vez.
+11. Toque a tomada apos dez minutos: morna demais e sinal de
+excesso.
+12. Se desarmar de novo, reduza a carga em vez de insistir.
+
+ATENCAO
+-------
+Choque eletrico mata. Nunca abra o quadro nem troque peca com
+a energia ligada.
+Sobrecarga aquece o fio por dentro da parede e pode causar
+incendio horas depois.
+Nunca troque o disjuntor por um de valor maior sem trocar o
+fio: o fio vira o fusivel e pega fogo.
+Fusivel refeito com arame, moeda ou papel aluminio nao
+protege nada e causa incendio.
+Cheiro de queimado, zumbido ou faisca: desligue o geral e nao
+religue ate revisao.
+Este procedimento nao conserta instalacao antiga ou
+subdimensionada; so reduz o risco ate ajuda tecnica.
+
+SE NAO TIVER
+------------
+Sem disjuntor reserva, reduza os aparelhos do circuito e aguarde.
+Sem etiqueta, escreva no quadro com lapis qual comodo desliga.
+Sem lanterna, trabalhe de dia e nunca com vela perto do quadro.
+Sem extensao grossa, mude o aparelho de lugar em vez de esticar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O disjuntor para de desarmar em uso normal.
+Tomadas, plugues e fios ficam frios ao toque apos o uso.
+Cada disjuntor tem nome e voce sabe o que ele desliga.
+
+FONTES
+------
+Pratica consolidada de instalacoes eletricas de baixa tensao,
+sem documento unico; orientacoes de prevencao de incendio da
+Defesa Civil e do Corpo de Bombeiros.

@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 13-023
+TITULO: Como compreender processos de destilação
+CATEGORIA: 13 - Química e conhecimentos científicos aplicados
+TEMPO: 25 minutos
+RISCO: alto
+EXIGE: papel, lápis, recipiente transparente com tampa, fonte de calor
+REVISAO: 2026-11
+PALAVRAS-CHAVE: destilação, vapor, condensação, ebulição, volátil, destilar
+==============================================================================
+
+OBJETIVO
+--------
+Explique como a destilação separa líquidos e reconheça o que ela remove,
+o que deixa passar e quando o destilado continua inseguro.
+
+QUANDO USAR
+-----------
+Quando precisar entender como funciona um destilador caseiro ou industrial.
+Quando comparar água destilada com água filtrada ou apenas fervida.
+Quando desconfiar que um líquido tem solvente, álcool ou gasolina misturado.
+Quando alguém disser que destilar sempre torna a água potável.
+Quando precisar decidir se o destilado serve para beber ou só para limpar.
+
+NAO USE QUANDO
+--------------
+Quando o líquido for desconhecido e puder ser inflamável: não aqueça.
+Quando não houver ventilação: vapores inflamáveis podem se acumular.
+Quando o destilado for para beber e a origem da água não foi verificada.
+A destilação não remove tudo: não beba sem saber o que havia na água.
+
+MATERIAIS
+---------
+- Papel e lápis para desenhar o caminho do vapor.
+- Recipiente transparente com tampa (frasco de vidro) para ver as gotas.
+- Panela com água e fonte de calor, apenas para observar à distância.
+- Luvas e pano seco para não tocar superfície quente.
+
+PROCEDIMENTO
+------------
+1. Identifique o líquido de partida e anote no papel o que ele contém.
+2. Desenhe o recipiente onde o líquido será aquecido.
+3. Aqueça o líquido: ele ferve quando a pressão do vapor iguala a do ar.
+4. Observe o vapor subir e deixar para trás sais e sólidos dissolvidos.
+5. Anote que o vapor é rico no componente que ferve primeiro (volátil).
+6. Conduza o vapor para uma superfície fria e veja ele virar gotas.
+7. Chame essas gotas de destilado e recolha-as em recipiente separado.
+8. Compare a temperatura do vapor com o ponto de ebulição da substância.
+9. Registre que a água ferve perto de 100 graus Celsius ao nível do mar.
+10. Explique que em altitude maior a água ferve em temperatura mais baixa.
+11. Se os pontos de ebulição forem próximos, use uma coluna com enchimento.
+12. Nela o vapor condensa e evapora de novo: destilação fracionada.
+13. Verifique se há solvente, álcool ou gasolina: eles fervem perto da água.
+14. Anote que esses voláteis sobem junto e condensam com a água.
+15. Descarte as primeiras gotas se houver suspeita de voláteis (meio litro).
+16. Nunca feche o sistema: aquecer recipiente fechado pode explodir.
+17. Guarde o destilado em recipiente limpo e tampado, longe do aparelho.
+18. Lave as mãos e limpe a superfície quente com pano seco ao terminar.
+
+ATENCAO
+-------
+O erro mais comum é supor que destilar sempre produz água potável.
+Substâncias com ponto de ebulição perto do da água (solventes, gasolina,
+álcool, alguns pesticides) vaporizam junto e voltam com o destilado.
+O destilado pode parecer limpo e claro e ainda conter esses voláteis.
+Não cheire nem prove vapor ou destilado de líquido desconhecido.
+Nunca aqueça um recipiente fechado: a pressão sobe e pode causar explosão.
+Trabalhe em local arejado; vapor inflamável pode pegar fogo.
+A fervura mata micro-organismos, mas a água pode ser recontaminada na saída.
+Água destilada tem gosto plano por perder minerais e oxigênio; não é risco.
+Se houver cheiro forte, fumaça ou destilado turvo, pare e descarte.
+
+SE NAO TIVER
+------------
+Sem termômetro, observe quando a água entra em ebulição e o vapor sobe.
+Sem coluna, aceite que pontos de ebulição próximos não se separam.
+Sem carbono ativo, descarte as primeiras gotas e reduza a promessa: observe.
+Sem fonte confiável que identifique o líquido, não destile: apenas desenhe.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você aponta no desenho onde o líquido ferve e onde o vapor esfria.
+Você indica onde o destilado cai e o que fica no recipiente.
+Você explica que sais e metais ficam e voláteis podem ir com o vapor.
+Você cita duas situações em que o destilado não é seguro para beber.
+Você nomeia altitude e pressão como fatores que mudam a ebulição.
+
+FONTES
+------
+Chemistry LibreTexts (Nichols, Organic Chemistry Lab Techniques, 2022):
+destilação simples e fracionada, ponto de ebulição e pressão.
+EBSCO Research Starters, Distillation: separação por diferença de ponto de
+ebulição e risco de aquecer sistema fechado.
+University of Nebraska-Lincoln Extension, G1493 (revisado 2013): o que a
+destilação remove e o que não remove, incluindo voláteis.
+EPA: compostos orgânicos voláteis em água e suas fontes.

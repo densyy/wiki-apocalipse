@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 75-007
+TITULO: Como realizar cultivo durante chuvas intensas
+CATEGORIA: 75 - Tecnologias apropriadas para regiões tropicais
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: pá ou enxada, palha ou folhas secas, mudas ou sementes, cesto
+REVISAO: 2026-11
+PALAVRAS-CHAVE: chuva, cultivo, drenagem, valeta, camalhão, horta, erosão
+==============================================================================
+
+OBJETIVO
+--------
+Criar canteiro que escoa a chuva e mantém as plantas vivas.
+
+QUANDO USAR
+-----------
+Quando a chuva diária deixa o solo da horta encharcado.
+Quando a água parada apodrece as raízes das mudas.
+Quando o plantio fica em terra baixa que represa água.
+
+NAO USE QUANDO
+--------------
+Quando a área fica submersa por mais de um dia após a chuva.
+Quando o terreno é encosta íngreme ou escorre lama.
+
+MATERIAIS
+---------
+- Pá ou enxada (ou bastão pontudo para abrir sulcos).
+- Palha seca, folhas ou capim cortado para cobrir o solo.
+- Mudas ou sementes do alimento desejado.
+
+PROCEDIMENTO
+------------
+1. Espere a chuva parar antes de entrar na área de plantio.
+2. Escolha o ponto mais alto e plano do terreno, longe de encostas.
+3. Marque com estacas a direção das valetas até a saída de água.
+4. Abra valetas com a pá, com aproximadamente 30 cm de largura.
+5. Amontoe a terra entre as valetas, formando camalhões.
+6. Deixe os camalhões com aproximadamente 20 cm de altura.
+7. Cubra os camalhões com palha, deixando espaço para cada muda.
+8. Plante no topo do camalhão, nunca dentro da valeta.
+9. Fixe a cobertura com um pouco de terra ou pedras pequenas.
+10. Limpe a saída das valetas depois de cada chuva forte.
+
+ATENCAO
+-------
+Não cultive em encosta íngreme durante chuva: o solo pode deslizar.
+Não entre em água funda: há risco de afundamento, choque e contaminação.
+Água de esgoto ou agrotóxico torna o alimento impróprio, mesmo lavado.
+Excesso de umidade apodrece raízes e atrai pragas e doenças nas folhas.
+Pare se o solo rachar, a água escurecer ou a lama escorrer: saia da área.
+
+SE NAO TIVER
+------------
+Sem pá, abra os sulcos com um bastão pontudo ou com a enxada.
+Sem palha, use folhas secas, capim cortado ou restos da colheita.
+Sem espaço para camalhões, use vasos furados ou sacos com terra.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Depois da chuva, a água corre pelas valetas e não fica sobre o camalhão.
+As mudas permanecem verdes, eretas, com terra firme e sem raízes expostas.
+
+FONTES
+------
+Prática consolidada de cultivo em regiões tropicais de chuva intensa.
+Embrapa, "Plantio Direto" (Ageitec): cobertura do solo e controle da erosão.
+Embrapa, publicações sobre drenagem superficial e sulco-camalhão em várzea:
+abertura de drenos e cultivo sobre camalhões entre sulcos.

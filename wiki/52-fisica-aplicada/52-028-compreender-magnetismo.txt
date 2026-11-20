@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 52-028
+TITULO: Como compreender magnetismo
+CATEGORIA: 52 - Física aplicada e princípios fundamentais
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: dois ímãs, uma bússola, clipes de metal, um prego de ferro, papel
+REVISAO: 2026-11
+PALAVRAS-CHAVE: magnetismo, ímã, polos, campo, bússola, ferro, atração
+==============================================================================
+
+OBJETIVO
+--------
+Entender por que o ímã atrai ferro e como agem seus polos e seu campo.
+
+QUANDO USAR
+-----------
+Quando um clipe ou prego gruda sem motivo aparente.
+Quando precisar entender o ponteiro de uma bússola.
+
+NAO USE QUANDO
+--------------
+Não use para calcular força ou projetar motor: isso exige cálculo e norma.
+Não use perto de implantes médicos ou aparelhos sensíveis.
+
+MATERIAIS
+---------
+- Dois ímãs (de geladeira, de brinquedo ou de barra).
+- Uma bússola (ou agulha de costura).
+- Dois clipes de metal e um prego de ferro.
+- Papel e lápis; limadura de ferro ou lã de aço, se houver.
+
+PROCEDIMENTO
+------------
+1. Aproxime uma extremidade do ímã de um clipe.
+2. Observe o clipe ser atraído sem tocar o ímã.
+3. Una polos iguais de dois ímãs e sinta a repulsão.
+4. Una polos opostos e sinta a atração.
+5. Anote: polos iguais repelem, opostos atraem.
+6. Deite a bússola longe do ímã e espere a agulha parar.
+7. Aproxime o ímã e veja a agulha girar; afaste e veja voltar.
+8. Espalhe limadura no papel sobre o ímã e veja as linhas curvas.
+9. Esfregue o prego no ímã, no mesmo sentido, umas 20 vezes.
+10. Aproxime o prego de um clipe: ele virou um ímã temporário.
+
+ATENCAO
+-------
+Domínios são regiões do ferro que agem como pequenos ímãs.
+Ao esfregar, os domínios se alinham; o ferro vira ímã.
+Calor ou batidas desalinham os domínios e o ferro perde o magnetismo.
+As linhas de campo saem do polo norte e entram no polo sul.
+Não há polo isolado: corte o ímã e cada pedaço terá norte e sul.
+Ímãs fortes afetam cartões e implantes; limadura entra no olho: use óculos.
+
+SE NAO TIVER
+------------
+Sem ímã de barra, use um de geladeira ou de brinquedo.
+Sem bússola, esfregue uma agulha no ímã e deixe-a flutuar na água.
+Sem limadura, use fios de aço curtos ou lã de aço picada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você prevê se dois polos se atraem ou repelem antes de aproximar.
+A agulha da bússola gira ao aproximar o ímã e volta ao afastar.
+
+FONTES
+------
+OpenStax College Physics, capítulo 22, seções 22.1 a 22.3.
+Encyclopaedia Britannica, verbete magnetismo, domínios e ferromagnetismo.

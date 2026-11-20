@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 68-021
+TITULO: Como compreender comunicação digital por rádio
+CATEGORIA: 68 - Radiofrequência e telecomunicações
+TEMPO: 35 minutos
+RISCO: baixo
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: rádio, digital, bits, sinal, modem, banda, ruído, dados
+==============================================================================
+
+OBJETIVO
+--------
+Entender como uma mensagem vira sinal de rádio e volta a ser dados
+legíveis na outra ponta.
+
+QUANDO USAR
+-----------
+Quando precisa escolher entre rádio analógico e digital para um enlace.
+Quando quer saber por que um dado chega com erro ou não chega.
+Quando quer entender termos de ficha: taxa, banda, ganho e erro.
+
+NAO USE QUANDO
+--------------
+Não há contraindicacao conhecida para este procedimento. É leitura
+conceitual: não substitui projeto, medição nem regra de espectro.
+
+MATERIAIS
+---------
+- Papel e lápis para desenhar as etapas (opcional).
+
+PROCEDIMENTO
+------------
+1. Fixe a cadeia: informação, bits, código, modulação, onda, antena, ar.
+2. Entenda: digital quer dizer informação em números, zero e um.
+3. Reconheça a origem: teclado, voz ou sensor viram sequência de bits.
+4. Code os bits: o código acrescenta redundância para detectar erro.
+5. Modele: a modulação transforma bits em variações de uma onda.
+6. Reconheça o modem: modula na saída e demodula na entrada (68-005).
+7. Entenda taxa de bits: quantos bits por segundo o enlace transmite.
+8. Diferencie baud: é símbolos por segundo; cada símbolo leva vários bits.
+9. Relacione com banda: mais taxa exige mais largura de banda no ar.
+10. Entenda ruído: interferência troca bits quando o sinal enfraquece.
+11. Use a correção: o código detecta e corrige bits trocados.
+
+ATENCAO
+-------
+Entender o conceito não autoriza transmitir: emissão depende de faixa
+permitida e, quando exigida, de licença da autoridade de telecomunicações.
+Nunca opere em faixas de emergência, aviação ou serviços públicos.
+Interferir em comunicação de socorro é crime e pode matar quem pede ajuda.
+Digital pode cair de repente; não presuma que o enlace está seguro.
+
+SE NAO TIVER
+------------
+Sem papel, memorize a cadeia em voz alta, do dado até a antena.
+Sem equipamento, leia a ficha técnica de um roteador ou rádio digital.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você explica a cadeia completa sem olhar e sem pular etapas.
+Você distingue taxa de bits de baud e diz qual afeta mais a banda.
+
+FONTES
+------
+Conceitos consolidados de engenharia de telecomunicações e teoria da
+informação, sem documento único consultado nesta sessão. O tema é padrão
+em literatura técnica de rádio e em normas da UIT (União Internacional
+de Telecomunicações), setor de radiocomunicação. Resumo operacional.

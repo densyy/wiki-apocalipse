@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 60-001
+TITULO: Como planejar um assentamento com fundamentos de urbanismo
+CATEGORIA: 60 - Arquitetura, urbanismo e assentamentos
+TEMPO: 120 minutos
+RISCO: medio
+EXIGE: papel, lápis, fita métrica e terreno livre para caminhar.
+REVISAO: 2026-11
+PALAVRAS-CHAVE: urbanismo, assentamento, vila, ruas, drenagem, croqui
+==============================================================================
+
+OBJETIVO
+--------
+Montar no papel um plano simples de assentamento que evita áreas de risco.
+
+QUANDO USAR
+-----------
+Quando um grupo vai ocupar um terreno e precisa definir onde cada um mora.
+Quando há suspeita de enchente ou erosão antes de abrir a primeira vala.
+
+NAO USE QUANDO
+--------------
+Quando há risco ativo de deslizamento ou inundação: não ocupe o terreno.
+Um croqui não substitui estudo técnico nem torna segura uma área perigosa.
+
+MATERIAIS
+---------
+- Papel, lápis e borracha (ou caderno e caneta).
+- Fita métrica ou corda marcada de metro em metro.
+- Nível de mangueira com água (ou observação do escoamento na chuva).
+- Croqui ou mapa do terreno com o norte (ou só a orientação).
+
+PROCEDIMENTO
+------------
+1. Caminhe por todo o terreno e veja para onde corre a água da chuva.
+2. Anote onde a água fica parada, onde há barranco e onde aflora rocha.
+3. Evite fundo de vale, ravina, encosta íngreme e solo que encharca.
+4. Abra um buraco de teste no ponto mais baixo e meça até aparecer água.
+5. Se a água aparecer a menos de 3 m, mude a área das moradias.
+6. Meça a inclinação com o nível de mangueira; prefira entre 2% e 4%.
+7. Acima de cerca de 10%, busque terreno mais plano ou ruas em zigue-zague.
+8. Desenhe no croqui as moradias, as ruas e os espaços comuns.
+9. Reserve metade para morar, 30% para ruas e 20% para uso comum.
+10. Trace a rua principal até o caminho ou estrada existente mais próxima.
+11. Ligue as ruas menores à principal sem criar muitas entradas nela.
+12. Acomode as ruas às curvas do terreno em vez de impor uma grelha rígida.
+13. Marque a fonte de água e proteja-a do gado e do esgoto.
+
+ATENCAO
+-------
+Água parada perto das casas cria mosquitos e pode contaminar a fonte.
+Rua em encosta íngreme vira canal de água e provoca erosão.
+Não instale fossa onde a água subterrânea está a menos de 3 m.
+Terreno com risco ativo exige avaliação da Defesa Civil antes de ocupar.
+
+SE NAO TIVER
+------------
+Sem fita métrica, conte passos; sem nível, observe o escoamento na chuva.
+Se o único terreno for ingreme, reduza o assentamento e peça ajuda técnica.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As ruas do croqui se ligam e a principal alcança o caminho existente.
+Áreas alagadas, barrancos e a fonte aparecem marcados fora das moradias.
+
+FONTES
+------
+UN-Habitat, Cinco Princípios de Planejamento de Bairro Sustentável e
+ACNUR, padrões de assentamentos; Ministério das Cidades, drenagem.

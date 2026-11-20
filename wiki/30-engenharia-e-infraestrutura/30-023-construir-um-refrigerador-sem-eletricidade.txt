@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 30-023
+TITULO: Como construir um refrigerador sem eletricidade
+CATEGORIA: 30 - Engenharia e infraestrutura básica
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: caixa com tampa, isolante, plástico limpo, gelo ou água fria, sombra
+REVISAO: 2026-11
+PALAVRAS-CHAVE: geladeira sem energia, caixa térmica, gelo, isolar, frio
+==============================================================================
+
+OBJETIVO
+--------
+Construa uma caixa isolada que guarda o frio do gelo, sem energia elétrica.
+
+QUANDO USAR
+-----------
+Sem energia elétrica, para transportar comida fria.
+Com gelo, neve ou água bem fria para renovar o frio.
+
+NAO USE QUANDO
+--------------
+Sem gelo ou água fria: a caixa não gera frio.
+Sem termômetro, não guarde carne, peixe, leite nem remédios por dias.
+
+MATERIAIS
+---------
+- Caixa de madeira com tampa e sem frestas (caixote de transporte).
+- Isolante seco: serragem, palha ou jornal amassado (lã de vidro).
+- Plástico impermeável e limpo (saco limpo, filme de cozinha).
+- Recipientes tampados para o gelo (garrafas, potes vedados).
+- Gelo ou água fria limpa e termômetro de alimentos, se houver.
+
+PROCEDIMENTO
+------------
+1. Escolha lugar sombreado, plano e arejado, longe de fogo e de sol.
+2. Forre fundo e paredes da caixa com plástico limpo, sem furos.
+3. Coloque aproximadamente 5 cm de isolante seco no fundo.
+4. Preencha as laterais com isolante até a borda, sem vazios.
+5. Cubra o isolante com outra camada de plástico limpo, sem rasgos.
+6. Encha os recipientes com gelo ou água fria e tampe bem.
+7. Acomode os recipientes no fundo, com espaço entre eles.
+8. Coloque os alimentos sobre os recipientes, sem encostar nas paredes.
+9. Feche a tampa firme e abra só para retirar alimento.
+10. Renove o gelo ao derreter, aproximadamente a cada 12 horas.
+
+ATENCAO
+-------
+A caixa não congela: só retém o frio que você coloca nela.
+Sem reposição de gelo, o interior esquenta e o alimento estraga.
+Use só água limpa: gelo sujo contamina o alimento e atrai insetos.
+Recipiente que vaza encharca o isolante e acaba com o isolamento.
+Sem termômetro, não guarde carne, peixe, leite nem remédios nela.
+Alimento acima de 4 graus Celsius por mais de 2 horas: descarte.
+
+SE NAO TIVER
+------------
+Sem caixa de madeira, use caixa de plástico rígida com tampa.
+Sem gelo, use garrafas de água fria trocadas com frequência.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O gelo continua muito frio ao toque após duas horas.
+O termômetro interno marca 4 graus Celsius ou menos.
+
+FONTES
+------
+Refrigeração e zona de perigo: USDA, Food Safety and Inspection Service.
+Caixa térmica com gelo e regra das 2 horas: orientações da FDA.
+Demais etapas: prática consolidada de caixas isoladas, sem documento único.

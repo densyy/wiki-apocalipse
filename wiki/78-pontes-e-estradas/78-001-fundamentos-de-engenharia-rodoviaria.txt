@@ -1,0 +1,77 @@
+==============================================================================
+CODIGO: 78-001
+TITULO: Como aplicar os fundamentos da engenharia rodoviária
+CATEGORIA: 78 - Pontes, estradas e infraestrutura de transporte
+TEMPO: 60 minutos
+RISCO: baixo
+EXIGE: observação do solo, da água e do fluxo, papel e lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: engenharia, rodovia, traçado, drenagem, solo, declínio
+==============================================================================
+
+OBJETIVO
+--------
+Entender as regras básicas para planejar e manter um caminho seguro.
+
+QUANDO USAR
+-----------
+Antes de abrir uma nova estrada ou trilha.
+Ao escolher o traçado entre dois pontos.
+Quando a água começa a cortar o caminho.
+Ao decidir onde reforçar talude ou drenagem.
+
+NAO USE QUANDO
+--------------
+Não confie só na teoria: observe o terreno antes de decidir.
+Não trace caminho em área alagada sem estudar a drenagem.
+Não ignore a legislação local ao abrir estrada nova.
+
+MATERIAIS
+---------
+- Papel e lápis para desenhar o traçado.
+- Corda ou fita para medir distâncias (passos contados).
+- Nível improvisado com garrafa ou mangueira com água.
+- Pequena pá ou enxada para abrir valas de teste.
+- Caderno para anotar solo, água e declínios observados.
+
+PROCEDIMENTO
+------------
+1. Caminhe o trecho e veja onde a água corre na chuva.
+2. Marque os pontos mais altos e os mais baixos do terreno.
+3. Desenhe o traçado no papel ligando os pontos altos.
+4. Evite curvas fechadas em descidas íngremes.
+5. Meça a largura necessária para pessoas, animais e cargas.
+6. Identifique o tipo de solo: argila, areia ou cascalho.
+7. Abra vala de teste para ver até onde a água infiltra.
+8. Planeje valetas laterais para tirar água da pista.
+9. Reforce as bordas com pedra ou vegetação quando necessário.
+10. Anote as decisões e revise o traçado após a primeira chuva.
+
+ATENCAO
+-------
+Água é a maior inimiga da estrada: sem drenagem, o caminho se desfaz.
+Argila incha e gruda quando molhada; cascalho drena melhor.
+Curva fechada em descida favorece acidente com carga.
+Talude sem proteção deslisa na primeira chuva forte.
+Solo muito mole cede sob peso: espalhe cascalho antes de usar.
+Observe sempre as marcas deixadas pela última chuva.
+
+SE NAO TIVER
+------------
+Sem nível, use garrafa com água para comparar alturas.
+Sem fita, conte passos para medir distâncias.
+Sem pá, use bastão para sondar o solo e achar água.
+Sem papel, desenhe o traçado na terra com pedras.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água escoa para as valetas e não corta a pista.
+O traçado evita os trechos mais baixos e alagadiços.
+Bordas e taludes continuam firmes após a chuva.
+O caminho suporta o peso de pessoas e animais sem afundar.
+
+FONTES
+------
+Princípios consolidados de engenharia rodoviária e drenagem básica,
+adaptados a técnicas construtivas simples. Cada terreno exige observação
+local; não substitua estudo técnico quando houver risco.

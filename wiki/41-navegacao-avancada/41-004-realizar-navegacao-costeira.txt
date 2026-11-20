@@ -1,0 +1,94 @@
+==============================================================================
+CODIGO: 41-004
+TITULO: Como realizar navegação costeira
+CATEGORIA: 41 - Navegação avançada e técnicas de expedição
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: carta náutica ou croqui, bússola, colete salva-vidas, costa visível
+REVISAO: 2026-11
+PALAVRAS-CHAVE: navegação costeira, costa, carta, bússola, maré, rumo
+==============================================================================
+
+OBJETIVO
+--------
+Conduzir a embarcação ao longo da costa sem se perder nem bater em rochas.
+
+QUANDO USAR
+-----------
+Quando a viagem acompanha a costa e a terra pode ficar à vista.
+Quando não há GPS, sinal de celular ou pontos de apoio no mar.
+Quando é preciso seguir de um cabo a outro em segurança.
+Quando a maré e a corrente mudam a cada hora.
+Quando o destino é um porto, uma praia ou uma enseada conhecida.
+
+NAO USE QUANDO
+--------------
+Quando não há colete salva-vidas para todos a bordo.
+Quando a costa estiver sob tempestade, neblina ou vento forte.
+Quando não se sabe nadar ou a embarcação não estiver em condição de navegar.
+Quando a maré estiver subindo e o destino ficar sem saída.
+
+MATERIAIS
+---------
+- Colete salva-vidas para cada pessoa (vestido o tempo todo).
+- Bússola (ou aparelho com bússola e bateria reserva).
+- Carta náutica da região (ou croqui feito à mão).
+- Caderno impermeável e lápis.
+- Relógio para controlar maré, corrente e tempo de marcha.
+- Tábua de marés local (ou horários obtidos com quem vive na costa).
+- Rádio ou celular em estojo impermeável para pedir ajuda.
+- Sinalizador ou pano claro para chamar atenção.
+- Remo ou propulsão reserva.
+
+PROCEDIMENTO
+------------
+1. Vista o colete salva-vidas antes de entrar na água.
+2. Verifique tempo, visibilidade, maré e corrente antes de partir.
+3. Marque na carta a partida, o destino e os pontos de apoio.
+4. Circule na carta recifes, bancos de areia e pedras submersas.
+5. Escolha rumos que liguem uma referência visível à seguinte.
+6. Aponte a bússola ao ponto de referência e anote o rumo em graus.
+7. Leia a profundidade na carta e evite as áreas rasas marcadas.
+8. Mantenha a costa sempre à vista e do mesmo lado.
+9. Afaste-se o suficiente para não bater em recife, sem perder a terra.
+10. Estime a posição pelo rumo, tempo navegado e velocidade.
+11. Confira a posição a cada 20 ou 30 minutos com nova referência.
+12. Navegue a favor da corrente; nunca enfrente maré contrária forte.
+13. Reduza a velocidade em enseada, canal e zona de ondas.
+14. Pare e procure abrigo se o vento ou a neblina aumentarem.
+15. Não navegue de noite; se impossível, diminua o rumo e pare ao escurecer.
+16. Chegue ao destino com a maré ainda favorável à atracação.
+
+ATENCAO
+-------
+Navegar sem colete é a causa mais comum de morte em acidente de água.
+A costa parece perto, mas recifes e ondas afundam embarcações pequenas.
+A maré que sobe fecha enseadas e a que desce deixa a embarcação encalhada.
+Corrente forte desvia o rumo: confira a posição com a terra sempre.
+Neblina e noite tiram as referências; pare e espere clarear.
+Bússola perto de metal ou celular erra a leitura; afaste-a desses objetos.
+Não confie só no celular: bateria, sinal e tela falham no mar.
+Este texto é resumo, não substitui treinamento nem carta oficial.
+
+SE NAO TIVER
+------------
+Sem carta, desenhe um croqui da costa com cabos, praias e recifes vistos.
+Sem bússola, use sol, estrelas e a própria linha da costa como direção.
+Sem tábua de maré, pergunte a quem pesca ou vive na região e anote.
+Sem rádio, leve sinalizador, espelho e pano claro para pedir ajuda.
+Sem referência visível, pare e não avance no escuro ou na neblina.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A costa permanece visível e reconhecível a cada checagem de rumo.
+Os pontos marcados na carta aparecem na ordem prevista.
+A posição estimada coincide com o ponto observado a cada 30 minutos.
+A embarcação chegou ao destino sem encalhar e com todos a bordo.
+
+FONTES
+------
+Prática consolidada de navegação de pequenas embarcações ao longo da
+costa, resumida aqui sem documento único. Referência consultada: manual
+de sobrevivência civil FM 21-76 (seções de sobrevivência no mar,
+travessias de água e determinação de direção no campo). Antes de navegar,
+obtenha a carta náutica e a tábua de marés oficiais da autoridade local.

@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 13-016
+TITULO: Como prevenir corrosão de metais
+CATEGORIA: 13 - Química e conhecimentos científicos aplicados
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: água, detergente, pano, escova, óleo ou graxa, tinta, luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ferrugem, corrosão, metal, óleo, graxa, tinta, umidade
+==============================================================================
+
+OBJETIVO
+--------
+Reduza a ferrugem de metal com limpeza, barreira e armazenamento seco.
+
+QUANDO USAR
+-----------
+Ao guardar ferramentas ou equipamentos por muitos dias.
+Quando o metal fica exposto à chuva, ao orvalho ou ao sal.
+Depois de usar o equipamento com fertilizante ou defensivo.
+Ao notar pontos de ferrugem, tinta descascada ou peça áspera.
+Em região litorânea ou muito úmida, onde a ferrugem aparece rápido.
+
+NAO USE QUANDO
+--------------
+Não conserta peça corroída nem devolve metal perdido.
+Não aplique tinta ou óleo sobre peça ainda quente.
+
+MATERIAIS
+---------
+- Água e detergente neutro (ou só água, se não houver detergente).
+- Pano limpo e escova dura (ou esponja, para peça pequena).
+- Lixa ou raspador para soltar ferrugem solta.
+- Óleo, graxa ou vaselina.
+- Tinta para metal com primer (ou tinta comum, barreira temporária).
+- Luvas, proteção para os olhos e blocos de madeira ou pedras.
+
+PROCEDIMENTO
+------------
+1. Calce as luvas e a proteção para os olhos. Areje o local.
+2. Retire terra e palha com a escova e com o pano seco.
+3. Lave a peça com água e detergente. Esfregue juntas e emendas.
+4. Enxágue bem. Retire todo o sabão, que também atrai umidade.
+5. Seque com pano limpo. Espere secar antes de untar ou pintar.
+6. Raspe a ferrugem solta com lixa. Retire o pó com o pano.
+7. Pinte a peça com primer e depois com tinta, se for peça grande.
+8. Cubra arranhões e bordas com tinta: enferrujam primeiro.
+9. Passe óleo ou graxa nas partes sem tinta: ferramentas e
+   parafusos. Cubra toda a superfície com camada fina.
+10. Engraxe rolamentos e partes móveis antes de guardar.
+11. Recolha mangueiras e retraia cilindros antes de armazenar.
+12. Apoie a peça sobre blocos de madeira ou pedras, longe do solo.
+13. Guarde em local coberto e seco. Sem cobertura, use lona
+    impermeável sem encostar na peça, para o ar circular.
+14. A cada duas semanas, inspecione e reaplique óleo ou graxa.
+
+ATENCAO
+-------
+A corrosão precisa de água, oxigênio e contato entre pontos do metal.
+Retirar a umidade é a medida que mais ajuda; sem água, a ferrugem para.
+Nunca pinte ou unte peça molhada, suja ou com sabão: a camada não adere
+e prende umidade por baixo, acelerando a corrosão.
+Não misture produtos de limpeza: podem liberar gases tóxicos.
+Evite contato entre metais diferentes, como cobre e alumínio: com
+umidade, acelera a corrosão galvânica. Isole com borracha.
+Mantenha óleo e solventes longe de chama; panos com óleo devem ser
+lavados ou postos em recipiente fechado.
+Não use aço com nitrato de amônio, nem alumínio ou aço inox com água
+salgada. Enxágue e seque após o contato.
+Se peça de segurança, como viga, escada ou freio, tiver furo ou perda
+de metal, pare de usar e procure ajuda técnica.
+Ânodo de sacrifício exige projeto: não improvise em tanque ou casco.
+
+SE NAO TIVER
+------------
+Sem tinta, use óleo, graxa ou cera: barreira temporária.
+Sem óleo ou graxa, use vaselina em ferramentas e peças pequenas.
+Óleo de cozinha serve uma vez, mas é barreira fraca e temporária.
+Sem lixa, use pedra ou o próprio pano para tirar ferrugem solta.
+Sem abrigo, cubra com lona e apoie em blocos; nunca encoste o
+metal na terra ou na grama.
+Sem água corrente, tire sal e lama com pano seco e escova, depois
+aplique óleo; lave completamente assim que possível.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A superfície está seca ao tato, sem lama, sal, sabão ou pó.
+A camada de óleo, graxa ou tinta é contínua, sem falhas ou bolhas.
+Não surgem pontos novos de ferrugem nas bordas nem nas juntas.
+A peça fica apoiada em blocos, coberta e sem tocar o solo.
+
+FONTES
+------
+NIST, Consumer Information Series 9, "Corrosion, facts for the
+consumer": pintura, graxa, óleo, cera e combinações a evitar.
+Bureau of Reclamation (EUA), guia de revestimentos: célula de
+corrosão e galvanização. AMPP (antiga NACE), guia de proteção.
+LSU AgCenter, "Busting Rust"; Caltrans, "Corrosion Guidelines"
+(2021); Departamento de Defesa dos EUA (WBDG), metais diferentes.

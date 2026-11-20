@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 44-013
+TITULO: Como construir reservatórios de infiltração
+CATEGORIA: 44 - Hidrologia, rios e gestão de bacias
+TEMPO: 3 horas
+RISCO: medio
+EXIGE: pá, enxada, estacas, cordel, cascalho ou pedras
+REVISAO: 2026-11
+PALAVRAS-CHAVE: infiltração, aquífero, água da chuva, drenagem, bacia
+==============================================================================
+
+OBJETIVO
+--------
+Construir uma bacia rasa que capte água da chuva e a devolva ao solo.
+
+QUANDO USAR
+-----------
+Quando a água da chuva escorre sem penetrar no solo.
+Quando o terreno é plano ou quase plano e o solo é permeável.
+Quando se quer recarregar o aquífero ou reduzir a erosão.
+
+NAO USE QUANDO
+--------------
+Quando o solo é argila e a água parada não escoa em um dia.
+Quando há poço de beber, latrina ou combustível por perto.
+Quando o terreno tem muita inclinação ou risco de deslizamento.
+
+MATERIAIS
+---------
+- Pá e enxada (ou cavadeira, ou as mãos para bacia pequena).
+- Estacas e cordel para marcar o contorno.
+- Cascalho ou pedras para o fundo; terra e grama para o dique.
+
+PROCEDIMENTO
+------------
+1. Escolha ponto plano, longe de poço, latrina e combustível.
+2. Mantenha aproximadamente 30 m de poços de água potável.
+3. Nunca coloque a bacia entre uma latrina e um poço.
+4. Teste o solo: cave um buraco de aproximadamente 30 cm.
+5. Encha com água; se o nível baixar em um dia, o solo serve.
+6. Marque com estacas um quadro de aproximadamente 2 m de lado.
+7. Retire a grama e guarde a terra de topo.
+8. Cave bacia rasa de aproximadamente 0,5 m, com fundo plano.
+9. Solte o fundo com a enxada e espalhe cascalho, se houver.
+10. Amontoe terra na borda de baixo para formar o dique.
+11. Abra entrada rasa na borda de cima e um canal de escoamento no dique.
+
+ATENCAO
+-------
+A água infiltrada não vira potável; não a beba sem tratar.
+Nunca use água de esgoto, curral ou oficina: contamina o aquífero.
+Não cave perto de poço, latrina ou depósito de combustível.
+Bacia funda sem suporte pode desmoronar; tenha alguém por perto.
+Água parada mais de dois dias cria mosquitos; melhore a drenagem.
+
+SE NAO TIVER
+------------
+Sem cascalho, use pedras ou tijolos quebrados no fundo.
+Se o solo for argila, cave outro ponto mais arenoso.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Após a chuva, a água entra e o nível baixa em um ou dois dias.
+Não há sulcos de erosão nem água vazando pelas bordas.
+
+FONTES
+------
+Prática consolidada de drenagem e recarga de aquíferos.
+Medidas aproximadas. Resumo operacional, não substitui projeto técnico.

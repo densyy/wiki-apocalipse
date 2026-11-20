@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 66-014
+TITULO: Como fabricar parafusos
+CATEGORIA: 66 - Mecânica de precisão e instrumentos
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: varão de aço, fieira com cabo, serra, lima, martelo, óleo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: parafuso, rosca, fieira, varão, cabeça, fenda, aço, fixação
+==============================================================================
+
+OBJETIVO
+---------
+Fabricar um parafuso de metal a partir de um varão, com cabeça e rosca.
+
+QUANDO USAR
+-----------
+Quando falta um parafuso comum para fixar uma peça.
+Quando há varão de aço e fieira da medida certa na oficina.
+
+NAO USE QUANDO
+--------------
+Não use em peça que sustenta peso, pressão, rotação ou impacto.
+Não substitua parafuso certificado ou de segurança.
+
+MATERIAIS
+---------
+- Varão de aço macio um pouco mais fino que a rosca desejada.
+- Fieira de rosca métrica e cabo próprio (cossinete com manivela).
+- Óleo de corte (querosene serve para alumínio e latão).
+- Serra manual, lima, martelo, bigorna, régua, lápis e porca.
+- Óculos de proteção, luvas de couro e pano limpo.
+
+PROCEDIMENTO
+------------
+1. Marque o comprimento no varão com régua e lápis.
+2. Corte o varão na marca com a serra, mantendo o corte reto.
+3. Lime a ponta em chanfro de aproximadamente 45 graus e retire rebarbas.
+4. Encaixe a fieira, que corta a rosca externa, no cabo e aperte.
+5. Unte a ponta e os dentes da fieira com óleo de corte.
+6. Apoie a ponta chanfrada na fieira com o varão na perpendicular.
+7. Gire o cabo no sentido horário com pressão firme e constante.
+8. A cada meia volta, gire um quarto de volta ao contrário.
+9. Retire o cavaco, unte com óleo e repita até a marca.
+10. Enrosque a porca de conferência: deve correr sem travar nem folgar.
+11. Lime a ponta oposta e aqueça até ficar vermelha, se houver braseiro.
+12. Apoie na bigorna e bata com martelo, virando a peça, até formar cabeça.
+13. Esfrie ao ar, abra a fenda funda e lime as bordas cortantes.
+
+ATENCAO
+-------
+- Cavaco e lima ferem olho: use óculos de proteção sempre.
+- Borda corta e metal quente queima: use luvas; não molhe quente.
+- Martelo esmaga dedo: apoie a peça na bigorna, nunca na mão.
+- Fieira torta faz rosca torta; sem óleo a rosca rasga. Pare se travar.
+
+SE NAO TIVER
+------------
+- Sem braseiro, prenda uma porca na ponta; sem bigorna, use bloco de aço.
+- Sem fieira, use lima triangular; sem óleo, óleo vegetal, nunca gasolina.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- A porca corre até o fim da rosca sem travar nem folgar.
+- A cabeça não gira e a chave aperta sem escorregar na fenda.
+
+FONTES
+------
+- Corte de rosca com fieira: prática consolidada de usinagem manual.
+- Rosca métrica ISO 68-1 e 261; Machinery's Handbook. Resumo operacional.

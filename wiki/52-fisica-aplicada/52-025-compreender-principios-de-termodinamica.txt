@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 52-025
+TITULO: Como compreender princípios de termodinâmica
+CATEGORIA: 52 - Física aplicada e princípios fundamentais
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: papel, lápis, bomba de bicicleta, água quente e fria, álcool
+REVISAO: 2026-11
+PALAVRAS-CHAVE: termodinâmica, calor, temperatura, energia, entropia, lei
+==============================================================================
+
+OBJETIVO
+--------
+Entender como calor, trabalho e energia se transformam na prática.
+QUANDO USAR
+-----------
+Quando quiser saber por que esfregar as mãos esquenta.
+Quando precisar entender por que a bomba de bicicleta esquenta.
+Quando quiser saber por que o calor vai do quente ao frio.
+Quando precisar compreender o limite de motores e geladeiras.
+NAO USE QUANDO
+--------------
+Quando precisar de cálculo de engenharia para projetar motor ou caldeira.
+Quando forem necessários valores exatos de eficiência sem instrumentos.
+Não substitui regra de segurança para vasos sob pressão.
+MATERIAIS
+---------
+- Papel e lápis para anotar as leis (qualquer superfície serve).
+- Uma bomba de bicicleta manual (ou seringa grande sem agulha).
+- Um recipiente com água quente e outro com água fria.
+- Uma colher de metal e um pouco de álcool em gel (ou água).
+PROCEDIMENTO
+------------
+1. Esfregue as mãos rápido por aproximadamente dez segundos.
+2. Sinta o calor que surgiu sem fonte externa: foi trabalho.
+3. Bombeie ar na bomba de bicicleta vinte vezes sem sair.
+4. Toque no corpo da bomba: o ar esquentou ao ser comprimido.
+5. Deixe o ar sair pela válvula e sinta o jato mais frio.
+6. Mergulhe a ponta da colher na água quente.
+7. Sinta o calor subir até o cabo: foi do quente ao frio.
+8. Encoste a mão na água fria e note o calor sair da pele.
+9. Aproxime os recipientes: o quente esfria e o frio aquece.
+10. Pingue álcool na mão e sinta o frio ao evaporar.
+11. Anote a primeira lei: energia interna muda com calor e trabalho.
+12. Anote a segunda lei: o calor vai do quente ao frio.
+ATENCAO
+-------
+Calor e temperatura não são iguais: calor é energia em trânsito.
+A bomba pode esquentar: não encoste na parte muito quente.
+Nunca aqueça ou comprima vaso fechado sem saída: pode estourar.
+Álcool é inflamável: mantenha longe de chama e não inale.
+Nenhuma máquina converte todo o calor em trabalho útil.
+SE NAO TIVER
+------------
+Sem bomba, esfregue as mãos ou use uma seringa sem agulha.
+Sem álcool, use água ou respire sobre a mão para sentir o frio.
+Sem água quente, use o sol ou o calor do próprio corpo.
+Sem papel, decore as duas leis e repita em voz alta.
+COMO SABER QUE DEU CERTO
+------------------------
+Você explica que esfregar as mãos aquece por trabalho, não por calor.
+Você afirma que o calor vai do mais quente ao mais frio até equilibrar.
+Você distingue temperatura, que se mede, de calor, que é energia que passa.
+FONTES
+------
+Conceitos consolidados de termodinâmica em manuais de física.
+OpenStax College Physics, capítulos de termodinâmica, 2012.
+Definições de joule e watt conforme o SI, segundo o NIST.
+Manual de termodinâmica do Departamento de Energia dos EUA.
+==============================================================================

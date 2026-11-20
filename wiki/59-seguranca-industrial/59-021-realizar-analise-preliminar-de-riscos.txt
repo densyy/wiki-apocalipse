@@ -1,0 +1,78 @@
+==============================================================================
+CODIGO: 59-021
+TITULO: Como realizar análise preliminar de riscos
+CATEGORIA: 59 - Segurança industrial e riscos ocupacionais
+TEMPO: 45 minutos
+RISCO: medio
+EXIGE: caderno, lápis, acesso ao local, executantes e responsável
+REVISAO: 2026-11
+PALAVRAS-CHAVE: risco, apr, perigo, tarefa, controle, epi, acidente
+==============================================================================
+
+OBJETIVO
+--------
+Identificar perigos da tarefa e definir controles antes de executá-la.
+
+QUANDO USAR
+-----------
+Antes de uma tarefa nova, diferente ou sem procedimento escrito.
+Ao entrar em local desconhecido ou ao trocar de função.
+Depois de acidente, quase acidente ou mudança no processo.
+Quando outra equipe trabalha no mesmo local ao mesmo tempo.
+Antes de trabalho em altura, com máquinas, químicos ou eletricidade.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+Ele não substitui o PGR da empresa nem a avaliação de um profissional.
+
+MATERIAIS
+---------
+- Caderno ou formulário de APR (papel solto serve).
+- Lápis ou caneta.
+- Acesso ao local, às máquinas, produtos e ferramentas da tarefa.
+- Executantes da tarefa e responsável pelo local.
+- Inventário de riscos do PGR e normas aplicáveis (se houver).
+
+PROCEDIMENTO
+------------
+1. Defina a tarefa: o que será feito, onde, com quê e por quem.
+2. Reúna executantes, supervisor e, se houver, profissional de segurança.
+3. Vá ao local e observe a tarefa antes de começar.
+4. Divida a tarefa em etapas, do início até a liberação da área.
+5. Para cada etapa, anote os perigos e a possível lesão.
+6. Escreva a causa de cada perigo e quem fica exposto.
+7. Inclua perigos externos previsíveis, como tráfego de veículos.
+8. Classifique o risco pela lesão possível e pela probabilidade.
+9. Use a matriz do PGR da empresa; não crie critério próprio.
+10. Escolha o controle: elimine, substitua, isole, mude a rotina, use EPI.
+11. Registre o que para a tarefa: chuva, vento, falta de luz, sem resgate.
+12. Leia a análise em voz alta no local e colete as assinaturas.
+13. Revise após mudanças ou incidentes e envie perigos novos ao PGR.
+
+ATENCAO
+-------
+Não confie na análise feita de mesa: vá ao local antes de decidir.
+Se o risco pode matar ou deixar sequela, pare e chame o responsável.
+Nunca use EPI como desculpa para manter perigo que pode ser eliminado.
+APR copiada de outra tarefa esconde perigos e engana a fiscalização.
+Não inicie a tarefa sem que todos tenham ouvido e assinado a análise.
+
+SE NAO TIVER
+------------
+- Sem formulário, use papel com colunas: etapa, perigo, lesão, controle.
+- Sem matriz do PGR, use três níveis: baixo, médio e alto.
+- Sem responsável ou executantes, interrompa e peça orientação.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada etapa da tarefa tem perigo, causa e controle anotados.
+A ordem dos controles foi seguida, do mais eficaz ao EPI.
+A equipe ouviu, assinou e sabe o que interrompe a tarefa.
+
+FONTES
+------
+Norma Regulamentadora 1 do Ministério do Trabalho e Emprego: gerenciamento
+de riscos, identificação de perigos, avaliação e prioridade dos controles.
+Publicação da OSHA sobre análise de perigos de tarefa; hierarquia do NIOSH.
+Prática consolidada de segurança e saúde no trabalho, resumida aqui.

@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 01-035
+TITULO: Como identificar contaminação química na água
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: copo de vidro, luz, papel branco, caderno, kit de teste opcional
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, químico, contaminação, cheiro, sabor, cor, teste
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer sinais de contaminação química na água.
+
+QUANDO USAR
+-----------
+Quando a água mudou de cor, cheiro ou sabor.
+Quando a fonte fica perto de lavoura, posto, indústria, aterro ou mina.
+Depois de enchente, derramamento ou acidente com combustível.
+Quando alguém adoeceu depois de beber a água.
+Antes de dar água de origem desconhecida a bebê, gestante ou doente.
+
+NAO USE QUANDO
+--------------
+Não use esta checagem para declarar que a água é potável.
+Ela só aponta sinais de alerta; não prova ausência de químico.
+Não libere água para bebê, gestante ou doente sem laudo.
+
+MATERIAIS
+---------
+- Copo ou pote de vidro transparente.
+- Luz do dia ou lanterna.
+- Papel branco para observar a cor.
+- Caderno e lápis para anotar.
+- Kit de teste de água com escala de cores (tiras ou reagentes), se houver.
+- Recipiente limpo e tampado, se for enviar amostra a laboratório.
+
+PROCEDIMENTO
+------------
+1. Encha o copo com água fresca da fonte até a metade.
+2. Observe a água contra a luz e contra o papel branco.
+3. Anote se ela aparece amarela, marrom, azul, esverdeada ou leitosa.
+4. Sacuda o copo e anote se a espuma demora a sumir.
+5. Aproxime o copo do nariz sem encostar e sem inalar fundo.
+6. Anote cheiro de gasolina, óleo, dissolvente, ovo podre ou terra.
+7. Pare na hora se sentir cheiro de gasolina, óleo ou dissolvente.
+8. Toque a ponta da língua e cospa se não houver cheiro nem cor suspeitos.
+9. Anote sabor metálico, salino, amargo ou doce.
+10. Observe se a água deixou mancha em louça, pia ou roupa.
+11. Anote se há lavoura, posto, indústria, aterro ou mina no entorno.
+12. Anote se houve fossa, obra, enchente ou derramamento recente.
+13. Se houver kit, umedeça a tira na água fria pelo tempo da embalagem.
+14. Compare a cor da tira com a escala e anote o valor lido.
+15. Considere o resultado do kit apenas como triagem, não como laudo.
+16. Pare de usar a água se aparecer qualquer sinal destes.
+17. Use água engarrafada ou de outra fonte segura até o laudo.
+18. Comunique a mudança ao responsável pelo abastecimento ou à saúde local.
+19. Envie amostra a laboratório credenciado com pedido de análise química.
+
+ATENCAO
+-------
+Água transparente, sem cheiro e sem gosto pode conter chumbo, arsênio,
+nitrato, fluoreto ou agrotóxico. Os sentidos não provam segurança.
+Ferver não remove químico. No nitrato, a evaporação concentra o
+contaminante. Não ferva água suspeita para tentar limpá-la.
+Não inale fundo o vapor de água com cheiro de gasolina ou dissolvente:
+o risco é também por inalação, no banho ou na cozinha.
+Não prove água com cheiro ou cor suspeita. Não dê água suspeita a bebê,
+gestante ou doente.
+Bebê com lábios ou pele arroxeados após beber: vá ao hospital na hora.
+Kit caseiro engana se a cor não desenvolver ou for lida fora do tempo.
+Se o sinal voltar ou aparecer em vários pontos, pare e avise a saúde.
+
+SE NAO TIVER
+------------
+Sem copo de vidro, use pote plástico limpo que nunca guardou combustível,
+tinta ou produto químico. Recipiente contaminado falsifica a amostra.
+Sem kit, limite-se aos sinais e ao entorno. Isso só dá alerta: não libera
+nem condena a água com certeza.
+Sem laboratório perto, use água engarrafada ou outra fonte segura e peça
+orientação ao órgão local de saúde.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A cor, o cheiro, o sabor e o entorno foram anotados no caderno.
+O kit, se usado, foi lido na escala dentro do tempo da embalagem.
+Com qualquer sinal, a água foi separada e substituída por outra fonte.
+O laudo trouxe mg/L. Compare com o padrão: nitrato 10 mg/L como N,
+nitrito 1,0 mg/L como N, arsênio 0,01 mg/L, chumbo 0,01 mg/L,
+fluoreto 1,5 mg/L. Acima disso, não use a água.
+
+FONTES
+------
+Ministério da Saúde e Funasa: matéria 'Água transparente é sempre segura
+para beber?' e padrão da Portaria GM/MS 888/2021.
+CDC: avisos de água potável e orientações para emergência.
+EPA: testes de água de poço e padrões de cor, cheiro e sabor.
+OMS: Diretrizes para qualidade da água potável.
+SFPUC: avaliação de kits caseiros de teste de água.

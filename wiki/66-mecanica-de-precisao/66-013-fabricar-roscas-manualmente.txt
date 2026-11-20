@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 66-013
+TITULO: Como fabricar roscas manualmente
+CATEGORIA: 66 - Mecânica de precisão e instrumentos
+TEMPO: 45 minutos
+RISCO: alto
+EXIGE: macho, dado, chaves, óleo de corte, óculos de proteção
+REVISAO: 2026-11
+PALAVRAS-CHAVE: rosca, macho, dado, roscar, atarraxar, filete
+==============================================================================
+
+OBJETIVO
+--------
+Cortar roscas internas e externas em metal com macho e dado, sem torno.
+
+QUANDO USAR
+-----------
+Quando um parafuso ou porca se perdeu e precisa de substituto.
+Quando a peça não cabe no torno ou não há energia elétrica.
+Quando são poucas peças e comprar uma máquina não compensa.
+Quando uma rosca danificada precisa ser refeita na oficina.
+
+NAO USE QUANDO
+--------------
+Quando a peça vai suportar carga estrutural, pressão ou vibração forte.
+Quando o material for endurecido, vidro, cerâmica ou plástico termofixo.
+Quando a peça não puder ser presa com segurança em morsa ou braçadeira.
+Quando a rosca exigir ajuste de precisão ou norma específica.
+
+MATERIAIS
+---------
+- Macho (ferramenta que corta a rosca interna do furo).
+- Dado (ferramenta que corta a rosca externa do cilindro).
+- Chave de macho e chave de dado (ou chaves de tubo que caibam).
+- Broca com diâmetro igual ao nominal menos o passo da rosca.
+- Óleo de corte (ou óleo de cozinha em emergência, com maior desgaste).
+- Lima plana, lima meia-cana, pano limpo e escova.
+- Óculos de proteção e luvas de couro.
+
+PROCEDIMENTO
+------------
+1. Escolha macho e dado com a mesma designação, por exemplo M8.
+2. Leia a designação gravada na ferramenta antes de começar.
+3. Confira: M indica rosca métrica e o número é o diâmetro em mm.
+4. O valor após x, quando existe, é o passo entre filetes em milímetros.
+5. Fixe a peça em morsa ou braçadeira com a ponta voltada para cima.
+6. Calce a peça com madeira ou cobre se a morsa tiver dentes.
+7. Para rosca externa, lima a ponta do cilindro com a lima plana.
+8. Forme um chanfro de aproximadamente 45 graus na ponta do cilindro.
+9. Encaixe o dado na chave e aperte os parafusos sem excesso de força.
+10. Passe óleo de corte na ponta do cilindro e nos dentes do dado.
+11. Apoie o dado reto no chanfro, perpendicular ao eixo do cilindro.
+12. Gire a chave no sentido horário com pressão leve e constante.
+13. Avance cerca de meia volta e recue um quarto de volta.
+14. Repita o vai e vem até o cavaco quebrar com um estalo seco.
+15. Retire o dado, limpe os canais com o pano e reaplique óleo.
+16. Continue até a rosca atingir o comprimento desejado e retire o dado.
+17. Para rosca interna, a broca mede o diâmetro nominal menos o passo.
+18. Para M8 de passo 1,25 mm, use broca de aproximadamente 6,8 mm.
+19. Limpe o furo com a escova e passe óleo de corte nas paredes.
+20. Encaixe na chave o macho de entrada, de chanfro mais longo.
+21. Alinhe o macho com o furo e gire meia volta no sentido horário.
+22. Recue um quarto de volta para quebrar o cavaco.
+23. Retire o macho, limpe os canais e reaplique óleo a cada poucas voltas.
+24. Repita até o macho chegar ao fundo do furo ou atravessar a peça.
+25. Se houver macho de acabamento, passe-o até a rosca atingir o fundo.
+26. Retire o macho, limpe a rosca com o pano e tire as rebarbas com a lima.
+
+ATENCAO
+-------
+Use óculos de proteção sempre. Cavacos de metal são afiados e quentes.
+Nunca sopre os cavacos com a boca nem encoste o rosto perto do furo.
+Se o macho travar, pare: força excessiva quebra a ferramenta no furo.
+Um macho quebrado é difícil de retirar e pode projetar estilhaços.
+Recuar é obrigatório. Sem quebrar o cavaco, os canais entopem.
+A GTZ ensina meia volta à frente e um quarto de volta atrás; outros manuais
+indicam recuo de cerca de um sexto de volta. O estalo confirma o recuo.
+O procedimento não substitui torno nem garante ajuste de precisão.
+
+SE NAO TIVER
+------------
+Sem chave de macho, prenda o quadrado da ferramenta em um torno de mão.
+Sem óleo de corte, use óleo de cozinha ou vaselina em emergência.
+Nesse caso a ferramenta desgasta mais e a rosca fica mais áspera.
+Sem dado do tamanho certo, não use outro diâmetro: não vai encaixar.
+Sem broca da medida, fure menor e retire material com a lima aos poucos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O macho e o dado avançam com esforço uniforme, sem travar.
+Uma porca de teste entra na mão e não cai por falta de aperto.
+Os filetes são contínuos, brilhantes e sem marcas de rasgo.
+Ao passar um pano limpo, não saem mais cavacos da rosca.
+
+FONTES
+------
+Curso de usinagem manual da GTZ (Deutsche Gesellschaft für Technische
+Zusammenarbeit), módulos Manual Thread Cutting e Thread Cutting by Dies
+and Taps. Prática consolidada de oficina mecânica, sem documento único,
+para segurança com cavacos e lubrificação de emergência.

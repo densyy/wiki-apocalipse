@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 30-004
+TITULO: Fundamentos de hidráulica
+CATEGORIA: 30 - Engenharia e infraestrutura básica
+TEMPO: 25 minutos
+RISCO: baixo
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, pressão, vazão, encanamento, sifão, altura, escoamento
+==============================================================================
+
+OBJETIVO
+--------
+Entender como a água se move e como pressão, altura e tubo afetam o fluxo.
+
+QUANDO USAR
+-----------
+Ao montar um encanamento por gravidade a partir de uma fonte mais alta.
+Ao entender por que a água para de correr em um tubo com ar.
+Ao escolher tubo largo ou estreito para levar água até um reservatório.
+Ao medir vazão com um recipiente e um relógio.
+
+NAO USE QUANDO
+--------------
+Não use estas regras para dimensionar barragens, tubulações pressurizadas
+nem sistemas cuja falha possa ferir pessoas; nesses casos, procure um
+engenheiro. Este texto não ensina a atravessar água corrente ou enchente.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Observe que a água parada procura sempre uma superfície horizontal.
+2. Note que a água desce quando a saída está mais baixa que a entrada.
+3. A pressão cresce com a altura: aproximadamente 1 bar a cada 10 m.
+4. Meça a vazão: encha 10 litros, cronometre e divida 10 pelo tempo.
+5. Tubo estreito e longo dá mais perda de carga e menos vazão.
+6. Cada curva ou válvula reduz a vazão; prefira traçado reto e curto.
+7. Faça sifão só com tubo cheio d'água, sem ar, e saída mais baixa.
+8. Encha o tubo antes de iniciar; bolha presa no alto pode parar o fluxo.
+9. Aumente a queda para ganhar vazão; encurte o tubo para perder menos.
+
+ATENCAO
+-------
+A pressão em tubo fechado pode ferir: alivie antes de abrir a linha.
+Um sifão pode trazer água suja de volta se a fonte ficar mais baixa.
+Bolha de ar ou impacto brusco pode romper tubo e machucar as mãos.
+Estimativa grosseira não substitui cálculo de engenheiro em estruturas.
+Água parada em tubo pode ficar insegura; trate antes de beber (veja 01-001).
+Pare e procure ajuda se o tubo estufar ou vazar sob pressão.
+
+SE NAO TIVER
+------------
+Sem balde, use qualquer recipiente de volume conhecido, como uma lata.
+Sem tubo, observe água escorrendo numa vala para entender a gravidade.
+Não improvise tubo pressurizado: use só gravidade e peças íntegras.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você mediu a vazão com recipiente e tempo e consegue explicar, ao observar
+o escoamento, por que a água desce e por que sifão exige saída mais baixa.
+
+FONTES
+------
+Princípios consolidados da hidráulica (Pascal, Bernoulli, continuidade e
+perda de carga). Water Measurement Manual, do U.S. Bureau of Reclamation;
+publicação de irrigação da FAO. Resumo operacional, não substitui treino.

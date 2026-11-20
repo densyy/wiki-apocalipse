@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 03-032
+TITULO: Como tratar ferimentos por objetos perfurantes
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 15 minutos
+RISCO: alto
+EXIGE: água corrente limpa, sabão, pano limpo, curativo adesivo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: perfuração, prego, objeto pontudo, limpar, infecção, tétano
+==============================================================================
+
+OBJETIVO
+--------
+Limpar e proteger uma ferida perfurante e saber quando buscar atendimento.
+
+QUANDO USAR
+-----------
+Quando um objeto pontudo atravessa a pele: prego, faca, anzol, espinho.
+Quando a ferida é pequena por fora, mas funda ou suja.
+Quando a pessoa pisou em algo pontudo.
+Depois de controlar o sangramento de uma perfuração leve.
+
+NAO USE QUANDO
+--------------
+Não trate em casa se o objeto ainda estiver preso na ferida.
+Não trate em casa se o sangue jorra ou não para com pressão.
+Não trate em casa se houver perda de movimento ou de sensibilidade.
+Nesses casos, vá à emergência; este texto só orienta até lá.
+
+MATERIAIS
+---------
+- Água corrente limpa e sabão.
+- Pano limpo ou gaze para secar sem esfregar.
+- Pomada antibacteriana, se houver.
+- Curativo limpo que não grude na ferida.
+- Luvas descartáveis, se houver.
+
+PROCEDIMENTO
+------------
+1. Lave as mãos com água e sabão antes de tocar na ferida.
+2. Se o sangue jorrar, pressione com pano limpo por 10 minutos sem tirar.
+3. Se o sangramento não parar, pare e procure emergência.
+4. Coloque a ferida sob água corrente limpa por aproximadamente 5 minutos.
+5. Lave ao redor da ferida com sabão e água corrente.
+6. Observe sem cutucar se há algum objeto dentro da ferida.
+7. Se houver objeto preso, não remova: imobilize a área e vá à emergência.
+8. Se parte do objeto causador ficou faltando, procure atendimento.
+9. Seque ao redor com pano limpo, sem esfregar a ferida.
+10. Espalhe pomada antibacteriana e cubra com curativo que não grude.
+11. Troque o curativo se ele sujar ou molhar.
+12. Observe a ferida nos dias seguintes para sinais de infecção.
+
+ATENCAO
+-------
+Perfuração parece pequena, mas pode atingir músculo, tendão ou osso.
+Objeto pontudo leva sujeira e bactérias para dentro do tecido.
+Bactérias do tétano crescem em feridas fundas e sujas; tétano pode matar.
+Não remova objeto preso, não cutuque e não aperte para tirar sujeira.
+Não sopre na ferida. Não lave ferida grave após controlar o sangramento.
+Mordedura, anzol, prego enferrujado e pisar em prego exigem atendimento.
+Tétano: reforço se a última dose foi há mais de 10 anos.
+Ferida suja ou funda exige avaliação mesmo com vacina em dia.
+Se houver calor, vermelhidão, inchaço, dor latejante, febre, linha vermelha
+ou pus, procure atendimento na hora.
+
+SE NAO TIVER
+------------
+Sem água corrente, use água limpa de recipiente tampado e sabão.
+Sem pomada, mantenha a ferida limpa e coberta com pano limpo e seco.
+Sem gaze, use pano limpo que não solte fiapos e fita adesiva.
+Não use álcool, gasolina, cinza, terra ou pasta de dente na ferida.
+Não feche a ferida com cola nem com pontos caseiros.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A ferida ficou visivelmente limpa, sem sujeira presa.
+O sangramento parou e o curativo ficou limpo e firme.
+A pessoa sente a área e a movimenta normalmente.
+Não surgem calor, inchaço, vermelhidão que avança nem pus depois.
+
+FONTES
+------
+MedlinePlus da Biblioteca Nacional de Medicina dos Estados Unidos:
+"Cuts and puncture wounds", enciclopédia médica revisada em 2025.
+CDC: "Clinical Guidance for Wound Management to Prevent Tetanus", 2026.
+O CDC classifica feridas perfurantes como sujas ou graves e orienta limpar,
+remover material estranho e avaliar a vacinação contra o tétano.

@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 03-038
+TITULO: Como lidar com diarreia aguda
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 30 minutos
+RISCO: critico
+EXIGE: água potável, açúcar, sal, colheres, copo limpo, sabão
+REVISAO: 2026-11
+PALAVRAS-CHAVE: diarreia, soro, desidratação, reidratação, urgência, bebê
+==============================================================================
+
+OBJETIVO
+--------
+Repor água e sais, reduzir a desidratação e reconhecer sinais de perigo.
+
+QUANDO USAR
+-----------
+Três ou mais fezes moles ou líquidas por dia, ou mais que o normal.
+Diarreia que começa de repente e dura horas ou poucos dias.
+Diarreia com sede, boca seca, urina escura ou pouca urina.
+Diarreia com cólicas, náusea ou vômito.
+Criança, idoso ou pessoa desnutrida com diarreia: leia ATENCAO primeiro.
+
+NAO USE QUANDO
+--------------
+Não dê líquido a quem não está acordado ou não engole: afoga.
+Não trate só em casa se houver sinal de desidratação grave.
+Não dê água pura em grande quantidade: dilui o sal do sangue.
+Não use antibiótico ou remédio "que para a diarreia" por conta própria.
+Isso vale sobretudo para crianças e quando há sangue nas fezes.
+Não dê refrigerante, suco industrial, álcool ou cafeína para repor líquidos.
+
+MATERIAIS
+---------
+- Água potável (a mesma usada para beber).
+- Açúcar (6 colheres de chá rasas por litro de água).
+- Sal (meia colher de chá rasa por litro de água).
+- Colheres de chá medidas, copo ou garrafa limpos.
+- Recipiente limpo com tampa para guardar o soro.
+- Sabão e água para lavar as mãos.
+- Alimento leve e, para bebês, leite materno.
+- Alguém para chamar o serviço de emergência se piorar.
+
+PROCEDIMENTO
+------------
+1. Lave as mãos com água e sabão antes de preparar qualquer coisa.
+2. Observe os sinais de perigo em ATENCAO antes de começar.
+3. Se houver sinal grave, peça ajuda de emergência (SAMU 192 no Brasil).
+4. Se a água não for potável, ferva por aproximadamente 5 minutos e esfrie.
+5. Despeje 1 litro de água limpa no recipiente limpo.
+6. Dissolva 6 colheres de chá rasas de açúcar na água.
+7. Junte meia colher de chá rasa de sal e mexa até dissolver.
+8. Prove: deve ficar doce com leve salgado, nunca amargo.
+9. Dê goles pequenos e frequentes de soro à pessoa acordada que engole.
+10. Se vomitar, espere aproximadamente 5 minutos e continue em goles.
+11. Continue alimentando: ofereça comida leve e leite materno ao bebê.
+12. Lave as mãos com sabão depois de trocar fralda ou usar o banheiro.
+13. Guarde o soro tampado e descarte o que sobrar depois de 24 horas.
+
+ATENCAO
+-------
+A maior ameaça da diarreia é a desidratação: perda de água e sais do corpo.
+Sinal grave de desidratação: não acorda, olhos fundos, não consegue beber.
+Sinal grave: pele demora mais de 2 segundos a voltar ao apertar.
+Sinal grave: mãos e pés frios, urina quase nenhuma.
+Com dois desses sinais, procure emergência sem esperar melhora.
+Sangue nas fezes, febre alta ou dor forte também exigem atendimento.
+Diarreia que dura 14 dias ou mais precisa de avaliação médica.
+Crianças pequenas, idosos e pessoas desnutridas pioram mais rápido.
+Nunca despeje líquido na boca de quem não está bem acordado: afoga.
+Sal ou açúcar em excesso piora a desidratação: meça as colheres.
+Água pura em excesso sem sal pode baixar o sódio e causar convulsão.
+
+SE NAO TIVER
+------------
+Sem sachê de SRO: prepare o soro caseiro de água, açúcar e sal.
+Sem colher medidora: use colher de chá comum, sempre rasa, nunca cheia.
+Sem açúcar: use a água do arroz cozido com uma pitada de sal.
+Sem água potável: não improvise com água parada; primeiro trate a água.
+Sem leite materno: use fórmula infantil preparada com água potável.
+Não use bebida esportiva, refrigerante ou suco: não têm sais na medida.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A urina fica mais clara e a pessoa urina com mais frequência.
+A pessoa fica mais tranquila e as fezes ficam mais consistentes.
+Não há vômitos repetidos depois de começada a reidratação.
+Os olhos deixam de parecer fundos e a pele volta mais rápido ao apertar.
+
+FONTES
+------
+Ficha "Diarrhoeal disease" da OMS, de 7 de março de 2024: definição de
+diarreia, sinais de desidratação, reidratação oral, alimentação contínua e
+procura de atendimento.
+Texto "Diarrhea" do NIDDK (NIH), revisado em setembro de 2024: diarreia
+aguda, reposição de líquidos e sais e retorno à dieta habitual.
+Proporção caseira do soro (6 colheres rasas de açúcar e meia colher de sal
+por litro de água limpa): prática consolidada recomendada por OMS e UNICEF.
+Em crianças, a OMS recomenda suplemento de zinco por 10 a 14 dias, conforme
+orientação de profissional de saúde. Não substitui atendimento médico.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 65-023
+TITULO: Como selecionar materiais para armazenamento de alimentos
+CATEGORIA: 65 - Engenharia de materiais e polímeros
+TEMPO: 15 minutos
+RISCO: medio
+EXIGE: luz boa, tempo para ler o número do plástico
+REVISAO: 2026-11
+PALAVRAS-CHAVE: alimento, plástico, vidro, inox, pote, código, segurança
+==============================================================================
+
+OBJETIVO
+--------
+Escolher recipientes que não passem substâncias nocivas para o alimento.
+
+QUANDO USAR
+-----------
+Quando for guardar comida seca, úmida ou gordurosa por vários dias.
+Quando for reaproveitar potes ou baldes encontrados na casa.
+
+NAO USE QUANDO
+--------------
+Não use recipiente que teve combustível, tinta, detergente ou agrotóxico.
+Não use plástico rachado, opaco ou com cheiro persistente.
+Não use isopor ou plástico fino para comida quente ou gordurosa.
+
+MATERIAIS
+---------
+- Pote de vidro com tampa (ou pote de aço inox com tampa).
+- Pote de plástico com número 2, 4 ou 5 (HDPE, LDPE ou PP).
+- Água e sabão, pano limpo e papel para anotar a data.
+
+PROCEDIMENTO
+------------
+1. Separe os recipientes em uma superfície limpa e seca.
+2. Escolha vidro ou inox para alimento quente, gorduroso ou ácido.
+3. Vire o pote de plástico e leia o número dentro do triângulo.
+4. Prefira os números 2, 4 e 5; o número 1 serve para uso único.
+5. Rejeite os números 3, 6 e 7, principalmente para comida quente.
+6. Confira se o rótulo diz próprio para alimentos.
+7. Recuse embalagem que teve limpador, óleo, tinta ou veneno.
+8. Lave com água e sabão, enxágue e seque por completo.
+9. Descarte pote rachado, arranhado, empenado ou com cheiro.
+10. Coloque o alimento, feche bem e anote a data.
+11. Guarde longe de calor, sol direto e produtos de limpeza.
+
+ATENCAO
+-------
+Substâncias do plástico podem passar para o alimento com calor e gordura.
+Isso se chama migração e aumenta com o tempo de contato.
+O número 3 (PVC) pode liberar ftalatos; o 6 amolece no calor; o 7 pode
+conter bisfenol A. Não esquente comida nesses recipientes.
+Nunca reutilize frasco de detergente, garrafa de óleo ou balde de tinta.
+
+SE NAO TIVER
+------------
+Sem vidro ou inox, use plástico número 2 ou 5 em bom estado.
+Se não houver número, rejeite o recipiente desconhecido para comida.
+Sem tampa, use pano limpo preso com cordão e não empilhe o alimento.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O pote está limpo, seco e sem cheiro; o alimento ficou bem fechado.
+
+FONTES
+------
+Anvisa: embalagens e materiais em contato com alimentos (RDC 91/01,
+Resolução 105/99, RDC 56/12 e RDC 326/19); orientações sobre bisfenol A.
+FDA: materiais em contato com alimento e códigos de resina.
+Singapore Food Agency e Centre for Food Safety: limites de temperatura.

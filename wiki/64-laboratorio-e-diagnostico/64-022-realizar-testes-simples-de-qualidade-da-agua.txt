@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 64-022
+TITULO: Como realizar testes simples de qualidade da água
+CATEGORIA: 64 - Laboratório, diagnóstico e análises
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: amostra recente, copo de vidro, fita de pH, kit DPD de cloro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, potabilidade, pH, cloro, turbidez, coliformes, teste
+==============================================================================
+
+OBJETIVO
+--------
+Avaliar aspecto, pH e cloro da água e reconhecer o limite do teste.
+
+QUANDO USAR
+-----------
+Ao receber água de poço, cisterna ou carro-pipa sem laudo recente.
+Após limpeza da caixa d'água ou reparo na rede.
+Ao conferir se a cloração deixou residual na água da torneira.
+
+NAO USE QUANDO
+--------------
+Com suspeita de combustível, agrotóxico, metal pesado ou solvente,
+estes testes não detectam químicos. Não dispensam exame microbiológico
+em água destinada a crianças, gestantes ou doentes.
+
+MATERIAIS
+---------
+- Copo de vidro transparente e limpo, com papel impresso para turbidez.
+- Água colhida recentemente em recipiente limpo.
+- Fita de pH com escala (papel de litmus serve só como aproximação).
+- Kit DPD de cloro livre, luvas, óculos, caderno e lápis.
+
+PROCEDIMENTO
+------------
+1. Colha a água direto na fonte, em recipiente limpo, sem tocar na borda.
+2. Anote data, hora e local da coleta no caderno.
+3. Observe cor e cheiro; registre odor de terra, mofo ou químico.
+4. Coloque papel com texto atrás do copo cheio.
+5. Olhe o texto pela água e anote se as letras ficam nítidas.
+6. Mergulhe a fita de pH, retire no tempo do fabricante e compare a cor.
+7. Anote o valor de pH e descarte a fita usada.
+8. Encha até a marca o recipiente do kit, adicione DPD, tampe e agite.
+9. Espere o tempo do fabricante, compare a cor e anote o cloro livre.
+
+ATENCAO
+-------
+Água transparente não prova potabilidade: micróbios ficam invisíveis.
+Estes testes não detectam bactérias, vírus, parasitas nem agrotóxicos.
+Turbidez acima de 5 uT, cloro fora de 0,2 a 5 mg/L ou pH fora de
+6,5 a 8,5 pedem repetir e tratar. Use luvas e óculos e lave as mãos.
+Não inale vapor suspeito: ventile e comunique a autoridade de saúde.
+
+SE NAO TIVER
+------------
+Sem fita calibrada, papel de litmus dá só indicação aproximada de pH.
+Sem kit DPD, não presuma cloro: ferver a água antes de beber.
+Sem papel impresso, use linha desenhada no copo; sem luvas, lave as mãos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As letras atrás do copo ficam legíveis e a água não tem cor nem odor.
+A fita e o DPD mudaram de cor, e cada valor foi anotado com data e local.
+
+FONTES
+------
+Ministério da Saúde: Portaria GM/MS 888/2021 e guia Vigilância e
+controle da qualidade da água. OMS: Diretrizes para água potável,
+4a edição. Funasa: água limpa e potável. Resumo, não substitui laudo.

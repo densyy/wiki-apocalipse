@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 33-018
+TITULO: Como criar um calendário agrícola
+CATEGORIA: 33 - Agricultura avançada e autossuficiência rural
+TEMPO: 60 minutos
+RISCO: baixo
+EXIGE: caderno, lápis, dados de chuva e temperatura da região
+REVISAO: 2026-11
+PALAVRAS-CHAVE: calendário, plantio, colheita, safra, chuva, ciclo
+==============================================================================
+
+OBJETIVO
+--------
+Montar um quadro com as épocas de plantio e colheita da sua área.
+
+QUANDO USAR
+-----------
+Quando for começar uma horta ou lavoura nova.
+Quando as safras falham por plantio fora de época.
+Quando quer planejar rotação e distribuir o trabalho no ano.
+
+NAO USE QUANDO
+--------------
+Sem dados locais de clima e de safras antigas, não invente épocas.
+Comece observando e anotando por um ciclo completo.
+
+MATERIAIS
+---------
+- Caderno ou folhas para o quadro. (papel improvisado serve)
+- Lápis. (caneta ou carvão)
+- Dados de chuva e temperatura da região. (anotações antigas)
+- Ciclo da cultura em dias, do plantio à colheita.
+
+PROCEDIMENTO
+------------
+1. Anote os meses de chuva, seca e geada da região.
+2. Descubra o ciclo da cultura em dias, do plantio à colheita.
+3. Marque a fase crítica: floração e enchimento de grãos.
+4. Escolha o plantio que ponha a fase crítica na chuva.
+5. Ajuste a data para a colheita evitar geada e chuva forte.
+6. Desenhe um quadro com 12 colunas, uma por mês.
+7. Escreva a cultura e a data de plantio em cada mês.
+8. Anote a data prevista de colheita ao lado.
+9. Escalone a mesma cultura em datas diferentes.
+10. Revise o quadro ao fim da safra com o que aconteceu.
+
+ATENCAO
+-------
+Copiar calendário de outra região pode errar por semanas.
+A fase crítica fora da chuva causa perda mesmo com solo bom.
+Chuva no fim da colheita germina grãos ou apodrece frutos.
+Este quadro não substitui observação local nem previsão do tempo.
+Se a chuva atrasar mais de duas semanas, reavalie o plantio.
+
+SE NAO TIVER
+------------
+Sem dados locais, use as anotações de safras dos vizinhos.
+Sem isso, plante áreas pequenas em épocas diferentes e anote.
+Não copie épocas de região distante sem adaptar: o clima muda.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O quadro mostra, para cada mês, o que plantar e o que colher.
+As fases críticas caem dentro do período de chuva esperado.
+
+FONTES
+------
+Prática consolidada de planejamento agrícola e zoneamento.
+Referências institucionais: Embrapa, INMET e FAO.
+Resumo operacional; não substitui orientação técnica local.

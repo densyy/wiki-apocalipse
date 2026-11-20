@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 43-007
+TITULO: Como fabricar telhas de alta durabilidade
+CATEGORIA: 43 - Produção de materiais de construção
+TEMPO: 180 minutos
+RISCO: alto
+EXIGE: argila plástica, molde, água, forno ou fogueira coberta, luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: telha, barro, argila, cerâmica, queima, forno, telhado
+==============================================================================
+
+OBJETIVO
+--------
+Produzir telhas de barro queimado que resistam à chuva e ao sol por anos.
+
+QUANDO USAR
+-----------
+Quando não há telhas compradas e existe argila no terreno.
+Quando o telhado atual vaza e precisa de cobertura nova.
+Quando há forno, lenha e tempo para secar e queimar as peças.
+
+NAO USE QUANDO
+--------------
+Quando a argila tiver sal, óleo, lixo ou resíduo químico visível.
+Quando não houver local seguro para queimar sem risco de incêndio.
+Telha crua, seca ao sol, dissolve na primeira chuva forte.
+
+MATERIAIS
+---------
+- Argila plástica, sem pedras, sal ou matéria orgânica.
+- Água limpa para umedecer a argila.
+- Molde de madeira ou de barro para dar o formato da telha.
+- Mesa ou prancha lisa para trabalhar.
+- Pano úmido para cobrir as peças durante a secagem.
+- Forno de alvenaria, forno de cerâmica ou fogueira coberta.
+- Lenha seca e palha ou serragem para iniciar o fogo.
+- Luvas grossas, óculos e pano para proteger o rosto.
+- Balde com água para apagar brasas.
+
+PROCEDIMENTO
+------------
+1. Retire pedras, raízes e detritos da argila com as mãos.
+2. Amasse a argila com água aos poucos até ficar homogênea.
+3. Role um cordão de argila de aproximadamente 2 cm de espessura.
+4. Amasse com água até o cordão dobrar nos dedos sem rachar.
+5. Unte o molde com água ou com cinza fina para não grudar.
+6. Achate uma porção de argila sobre o molde com as mãos.
+7. Alise a superfície com um pano úmido, sem deixar bolhas.
+8. Mantenha espessura uniforme de aproximadamente 2 cm na peça.
+9. Retire a telha do molde com cuidado e coloque na prancha.
+10. Cubra as peças com pano úmido e deixe à sombra, sem sol direto.
+11. Vire as telhas uma vez por dia durante aproximadamente 4 dias.
+12. Espere até a peça ficar dura e não ceder ao toque da unha.
+13. Coloque as telhas secas no forno, sem encostar umas nas outras.
+14. Aqueça devagar no início para não rachar com o vapor da umidade.
+15. Mantenha o fogo constante e alimente com lenha seca aos poucos.
+16. Observe a cor: a telha pronta fica vermelha por dentro e por fora.
+17. Retire uma peça de teste e bata nela: o som é metálico.
+18. Não interrompa a queima nem abra o forno durante o aquecimento.
+19. Desligue o fogo e deixe as telhas esfriarem dentro do forno.
+20. Espere o forno esfriar; aproxime a mão sem tocar, sem sentir calor.
+21. Guarde as telhas prontas em pilha seca, protegida da chuva.
+
+ATENCAO
+-------
+O fogo do forno queima grave e pode incendiar palha, madeira ou roupa.
+Nunca queime perto de depósito de lenha, gasolina ou tudo que pegar fogo.
+Use luvas e óculos: estilhaços e brasas saltam ao abrir o forno.
+Monóxido de carbono mata em ambiente fechado: queime ao ar livre.
+Aquecer rápido racha a telha, porque a água interna vira vapor.
+Telha escura ou com mancha preta ficou mal queimada e absorve água.
+Telha muito clara ainda está crua e vai se desfazer na chuva.
+Se alguma peça rachar na queima, descarte: não serve para telhado.
+Pare e procure ajuda se o fogo sair do controle ou se alguém se queimar.
+
+SE NAO TIVER
+------------
+Sem molde, use uma tábua curva ou uma metade de tubo como apoio.
+Sem forno, empilhe as telhas secas sobre pedras e cubra com argila.
+Acenda a fogueira por baixo e mantenha o fogo por várias horas.
+Essa queima improvisada dá menos uniformidade: teste cada peça.
+Sem argila plástica, não improvise com terra comum de jardim.
+Terra sem plasticidade produz telha que racha e vaza.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A telha fria tem cor vermelha uniforme e som metálico ao ser batida.
+A água jogada na superfície escorre em vez de ser absorvida na hora.
+A peça não racha ao ser batida levemente e não se desfaz na unha.
+
+FONTES
+------
+Prática consolidada de fabricação artesanal de cerâmica para construção.
+Manual "Ten Rules for Energy-Efficient, Cost-Effective Brick Firing",
+da Practical Action, sobre secagem e queima eficiente de cerâmica.
+Estudo "Durability of clay roofing tiles", de Raimondo e outros, no
+Journal of the European Ceramic Society, sobre durabilidade de telhas;
+estudo de Ikeda e outros sobre temperatura de queima e resistência ao frio.
+Este texto é um resumo operacional e não substitui treinamento.

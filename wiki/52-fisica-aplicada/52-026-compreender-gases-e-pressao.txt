@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 52-026
+TITULO: Como compreender gases e pressão
+CATEGORIA: 52 - Física aplicada e princípios fundamentais
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: balão, garrafa plástica com tampa, caderno, calor suave
+REVISAO: 2026-11
+PALAVRAS-CHAVE: gás, pressão, volume, temperatura, partículas, balão
+==============================================================================
+
+OBJETIVO
+--------
+Entender o que é gás, de onde vem a pressão e como calor e volume a mudam.
+
+QUANDO USAR
+-----------
+Quando um balão murcha no frio e incha no calor.
+Quando uma garrafa plástica amassada volta ao normal ao se abrir.
+Quando um recipiente fechado estala ao ser aquecido.
+Quando se lê a pressão de pneu ou de botijão no manômetro.
+Quando se sobe de altitude e um balão parece crescer.
+Quando se quer explicar por que o ar quente sobe.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação para observar e compreender estes efeitos.
+Não use este entendimento para abrir, consertar ou aquecer cilindro.
+Não substitua o rótulo do gás nem a orientação de quem manuseia botijão.
+
+MATERIAIS
+---------
+- Balão de borracha (ou saco plástico leve amarrado).
+- Garrafa plástica com tampa (ou pote com tampa de rosca).
+- Caderno e lápis (ou papel para anotar).
+- Fonte de calor suave: sol, mão ou água morna (nunca chama).
+- Tigela com água fria (ou lugar sombreado e arejado).
+- Manômetro de bicicleta ou de pneu, se houver (opcional).
+
+PROCEDIMENTO
+------------
+1. Encha o balão com ar e amarre a ponta com firmeza.
+2. Observe que ele mantém o formato em qualquer posição.
+3. Entenda: ar é um gás, feito de partículas que se movem sem parar.
+4. Entenda: a pressão é a força dessas partículas ao bater nas paredes.
+5. Aperte o balão com as duas mãos e sinta a pressão subir.
+6. Observe: o volume cai e a pressão sobe. Isso é a lei de Boyle.
+7. Deixe o balão ao sol ou na água morna por alguns minutos.
+8. Observe que ele incha: com volume livre, o calor aumenta o volume.
+9. Coloque o balão na água fria e observe que ele murcha.
+10. Anote: a temperatura da lei dos gases é a absoluta, em kelvin.
+11. Some 273,15 à temperatura em graus Celsius para obter kelvin.
+12. Feche a garrafa sem apertar e leve-a ao calor suave.
+13. Observe que a garrafa fica firme: volume fixo, pressão sobe.
+14. Anote: 1 atm é 101325 Pa, aproximadamente 101 kPa ou 760 mmHg.
+15. Anote: 1 atm equivale também a aproximadamente 14,7 psi.
+16. Anote: 1 mol de gás ocupa aproximadamente 22,4 litros nesse ponto.
+17. Meça um pneu com o manômetro e anote o valor lido.
+18. Some 1 atm ao valor: o manômetro desconta a atmosfera.
+
+ATENCAO
+-------
+Gás ocupa todo o recipiente; líquido mantém o próprio volume.
+A pressão sobe com mais partículas, mais calor ou menos volume.
+Não confunda pressão de manômetro com pressão absoluta.
+Nunca aqueça recipiente fechado com chama ou sol forte: pode estourar.
+Nunca abra, fure, aqueça ou conserte botijão, extintor ou cilindro.
+Cilindro pressurizado danificado pode virar projétil e matar.
+Escape de gerador ou braseiro produz monóxido de carbono: incolor,
+inodoro e letal em ambiente fechado, mesmo com janela aberta.
+Dor de cabeça, tontura ou confusão perto de motor pedem ar livre
+e ajuda médica imediata. Não continue no local.
+Os números marcados como aproximados mudam com clima e altitude.
+
+SE NAO TIVER
+------------
+Sem balão, amarre um saco plástico leve cheio de ar.
+Sem garrafa plástica, use pote com tampa que ceda um pouco.
+Sem água fria, use sombra ou corrente de ar, nunca gelo seco.
+Sem manômetro, compare o quanto a garrafa fica firme ao apertar.
+Sem tigela, use qualquer recipiente com água fria.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue dizer, com as próprias palavras, que a pressão vem do
+choque das partículas; que aquecer um recipiente fechado aumenta a
+pressão; e citar dois efeitos vistos, como o balão no calor e a
+garrafa firme.
+
+FONTES
+------
+Lei dos gases ideais, Boyle e Charles: HyperPhysics, Georgia State
+University.
+Unidades e conversões de pressão para pascal, atm, mmHg e psi: NIST,
+guia SP 811 e CODATA.
+Pressão ao nível do mar e queda com a altitude: NOAA JetStream e
+NOAA Diving Center.
+Risco de gases comprimidos e de monóxido de carbono: NIOSH e CDC.
+Prática consolidada de demonstrações de física; veja 52-006 para a
+pressão atmosférica.

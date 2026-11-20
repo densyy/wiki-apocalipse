@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 62-021
+TITULO: Como organizar registros de produção animal
+CATEGORIA: 62 - Pecuária, reprodução e processamento animal
+TEMPO: 60 minutos
+RISCO: baixo
+EXIGE: caderno com folhas datadas, lápis, brinco numerado ou tatuagem
+REVISAO: 2026-11
+PALAVRAS-CHAVE: registros, produção, rebanho, identificação, ficha, caderno
+==============================================================================
+
+OBJETIVO
+--------
+Montar e manter fichas que acompanham cada animal do nascimento à saída.
+
+QUANDO USAR
+-----------
+Ao começar a criação, antes de comprar o primeiro animal.
+Quando animais nascem, são comprados, vacinados ou vendidos.
+
+NAO USE QUANDO
+--------------
+Registro incompleto engana mais do que nenhum registro.
+Se não der para anotar no dia, mantenha menos animais.
+
+MATERIAIS
+---------
+- Caderno com folhas datadas (ou fichas soltas encadernadas).
+- Lápis ou caneta à prova d'água.
+- Brinco numerado, tatuagem ou marca a fogo para identificar cada animal.
+
+PROCEDIMENTO
+------------
+1. Escreva no caderno o nome do produtor e da propriedade.
+2. Dê número único em brinco, tatuagem ou marca, legível a distância.
+3. Abra uma ficha individual por animal com número, pelagem e nascimento.
+4. Reserve uma folha datada do caderno para cada dia de trabalho.
+5. Anote cada evento no próprio dia, com data e número do animal.
+6. Registre nascimento e desmama com data e peso de cada cria.
+7. Anote monta, cobertura ou inseminação e o diagnóstico de gestação.
+8. Anote o parto com data, tipo de parto e sexo da cria.
+9. Registre saída por venda ou morte com data, motivo e causa provável.
+10. Em venda, anote a guia de trânsito animal ou o número da nota.
+11. Anote em ficha coletiva vacinas, vermifugações e controle leiteiro.
+
+ATENCAO
+-------
+Confira o brinco antes de escrever: número errado perde o histórico.
+Dado anotado dias depois vira chute: anote menos, mas no dia.
+Registro não substitui vacinação, exame veterinário nem guia de trânsito.
+Guarde o caderno longe de chuva, sol e poeira: papel molhado perde a tinta.
+
+SE NAO TIVER
+------------
+Sem brinco, use tatuagem ou marca a fogo com número único.
+Sem balança, anote só as datas e compre uma balança depois.
+Sem caderno, use folhas soltas datadas e encaderne no fim do mês.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada animal tem número único e ficha com data de nascimento.
+As folhas trazem data e os eventos do dia correspondente.
+Saídas por venda ou morte constam com data e motivo.
+
+FONTES
+------
+Embrapa: controle zootécnico, escrituração e Boas Práticas Agropecuárias
+na Produção de Leite; Embrapa Caprinos e Ovinos sobre caderno datado. FAO:
+identificação e rastreabilidade animal. Ministério da Agricultura:
+Pecuária: Guia de Trânsito Animal. Resumo, não substitui a assistência.

@@ -1,0 +1,79 @@
+==============================================================================
+CODIGO: 07-015
+TITULO: Como armazenar água e alimentos em um abrigo nuclear
+CATEGORIA: 07 - Guerra, radiação e catástrofes nucleares
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: recipientes com tampa, sacos plásticos, pano limpo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, comida, abrigo, fallout, estoque, vedar
+==============================================================================
+
+OBJETIVO
+--------
+Manter água e comida vedadas no abrigo para passar 24 horas dentro.
+
+QUANDO USAR
+-----------
+Quando houver alerta de explosão nuclear na região.
+Quando já estiver abrigado após clarão ou ordem de abrigo.
+Quando precisar preparar o cômodo interno para 24 horas dentro.
+Quando a água da torneira puder estar contaminada por poeira.
+
+NAO USE QUANDO
+--------------
+Se houver incêndio, vazamento de gás ou desabamento, saia do abrigo.
+Não fique dentro para guardar comida com risco imediato de morte.
+
+MATERIAIS
+---------
+- Garrafas de água fechadas de fábrica (ou garrafa limpa com tampa).
+- Comida em lata e pacote fechado que dispensa geladeira e fogo.
+- Abridor manual de lata e utensílios limpos para servir.
+- Panos limpos e sacos plásticos com amarrio para vedar e limpar.
+- Fita adesiva larga e plástico grosso para vedar fresta (se houver).
+
+PROCEDIMENTO
+------------
+1. Calcule aproximadamente 4 litros de água por pessoa por dia.
+2. Separe estoque para vários dias dentro do abrigo.
+3. Planeje ficar dentro por 24 horas sem sair após a explosão.
+4. Guarde água em garrafas fechadas de fábrica sem abrir.
+5. Transfira água aberta só para garrafa limpa com tampa firme.
+6. Rotule cada garrafa com a data e troque em 6 meses.
+7. Escolha comida pronta que não precisa de geladeira nem fogo.
+8. Mantenha toda comida em embalagem fechada de fábrica.
+9. Coloque garrafas e comida no cômodo mais interno do abrigo.
+10. Afaste o estoque de porta, janela, fresta e saída de ar.
+11. Limpe a parte de fora da embalagem com pano úmido antes de abrir.
+12. Guarde o pano usado em saco plástico longe de gente e animal.
+13. Feche de novo toda garrafa e embalagem logo após usar.
+
+ATENCAO
+-------
+Fallout é poeira sem cheiro nem gosto que contamina água e comida.
+Comida ou água exposta ao ar de fora pode conter material radioativo.
+Ferver mata micróbio mas não remove poeira radioativa da água.
+Lata estufada, enferrujada ou amassada pode causar doença grave.
+Comida perecível fora da geladeira por 2 horas deve ser descartada.
+Este estoque não protege da radiação que atravessa parede e corpo.
+Se houver vômito, diarreia forte ou tontura, busque socorro.
+
+SE NAO TIVER
+------------
+Sem garrafa de fábrica, use garrafa limpa bem tampada.
+Sem comida pronta, separe o que a família come sem precisar de fogo.
+Sem pano, lave a embalagem com água limpa antes de abrir se possível.
+Sem saco plástico, afaste o lixo da comida e vede como puder.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Toda água e comida ficam fechadas dentro do cômodo interno.
+Você abre uma embalagem por vez e fecha logo após usar.
+A parte de fora da embalagem sai limpa antes de abrir.
+
+FONTES
+------
+Página de emergência nuclear e de abrigo da FEMA.
+Página de água e página de comida da FEMA.
+Orientação de descontaminação do CDC americano.

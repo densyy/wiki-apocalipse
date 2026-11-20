@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 62-022
+TITULO: Como avaliar condição corporal de animais
+CATEGORIA: 62 - Pecuária, reprodução e processamento animal
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: caderno, lápis, local iluminado, animais parados e calmos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: condição corporal, escore, gordura, costelas, magro, gordo
+==============================================================================
+
+OBJETIVO
+--------
+Atribuir uma nota que diga se cada animal está magro, no ponto ou gordo.
+
+QUANDO USAR
+-----------
+- Quando é preciso saber se o animal está magro ou no ponto.
+- Antes da monta, do parto ou da desmama.
+- Quando o rebanho para de ganhar peso ou de produzir leite.
+
+NAO USE QUANDO
+--------------
+Não substitui a pesagem nem o exame de um médico-veterinário.
+Não serve para filhotes com menos de um ano nem diagnostica doença.
+
+MATERIAIS
+---------
+- Caderno e lápis (ou papel e caneta) para anotar as notas.
+- Local com boa luz ou lanterna, e cerca firme para o animal ficar parado.
+- Não precisa de balança: o método usa o olho e a mão.
+
+PROCEDIMENTO
+------------
+1. Separe um lote pequeno e deixe os animais parados em local claro.
+2. Fique de lado ao animal, a aproximadamente dois passos de distância.
+3. Observe as costelas, o dorso, o quadril e a base da cauda.
+4. Passe a mão no dorso e apale os ossos com a ponta dos dedos.
+5. Dê nota 1 se os ossos estão salientes e não há gordura palpável.
+6. Dê nota 2 se os ossos aparecem, mas ainda há alguma musculatura.
+7. Dê nota 3 se as costelas quase não aparecem e a pele levanta.
+8. Dê nota 4 se os ossos são visíveis mas não saltam, com gordura.
+9. Dê nota 5 se não se vê nem se sente osso sob a gordura.
+10. Gado de corte: escala de 1 a 9; 1-3 magro, 4-6 no ponto, 7-9 gordo.
+11. Em ovinos e caprinos apale a lombar, entre última costela e quadril.
+12. Neles: espinha afiada é 1; firme ao toque é 3; sem sentir é 5.
+13. Anote a nota de cada animal com data e identificação, no caderno.
+14. Compare as notas com a média do lote e repita a cada fase de criação.
+
+ATENCAO
+-------
+A nota é subjetiva: use a mesma escala e o mesmo avaliador de sempre.
+Animais grandes chutam ou chifram: aproxime com calma e peça ajuda.
+Nota baixa pode ser doença; se o animal não levanta, chame o veterinário.
+
+SE NAO TIVER
+------------
+Sem caderno, anote em qualquer papel e passe para o caderno depois.
+Sem curral, use cerca firme no pasto, com o animal parado e sem pressa.
+Sem luz, use lanterna; nunca tente avaliar no escuro.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada animal tem uma nota anotada, com data e identificação.
+As notas são parecidas entre si e cabem na fase atual do rebanho.
+
+FONTES
+------
+Embrapa: Gado de Leite, Circular Técnica 57 e Comunicado sobre ovinos.
+Guias universitários e USDA/NRCS. Resumo, não substitui treinamento.

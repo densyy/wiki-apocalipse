@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 04-010
+TITULO: Como carregar um celular com energia solar
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 15 minutos
+RISCO: medio
+EXIGE: painel solar com saida USB, cabo compativel, sol direto
+REVISAO: 2026-11
+PALAVRAS-CHAVE: solar, celular, carregar, painel, bateria, usb
+==============================================================================
+
+OBJETIVO
+--------
+Carregar um celular com painel solar portatil sem danificar o aparelho.
+
+QUANDO USAR
+-----------
+Quando faltar energia da rede e houver sol direto.
+Quando precisar manter o celular ligado para emergencia.
+Quando houver painel solar portatil com saida USB.
+
+NAO USE QUANDO
+--------------
+Quando houver raios, chuva forte ou risco de molhar o aparelho.
+Quando o painel ou o cabo estiver com fio exposto ou quebrado.
+Quando o celular ou a bateria estiver inchado, quente ou com cheiro.
+
+MATERIAIS
+---------
+- Painel solar portatil com saida USB de 5 volts (banco de baterias).
+- Cabo USB compativel com o celular em bom estado.
+- Celular desligado ou em modo economia de energia.
+- Banco de baterias com entrada USB, se houver (para guardar carga).
+
+PROCEDIMENTO
+------------
+1. Coloque o painel em sol direto, inclinado para o sol do meio-dia.
+2. Limpe a superficie do painel com pano seco, sem agua.
+3. Conecte o cabo ao painel e depois ao celular ou ao banco.
+4. Deixe o celular na sombra, fora do sol direto.
+5. Desligue dados, tela e lanterna para acelerar a carga.
+6. Aguarde aproximadamente 2 a 3 horas para carga util.
+7. Confira a cada 30 minutos; se aquecer, retire e ponha na sombra.
+8. Desconecte o cabo do celular antes de guardar o painel.
+
+ATENCAO
+-------
+O que mata aqui nao e choque, e incendio por bateria danificada.
+Bateria inchada, quente ou com cheiro pode pegar fogo: pare tudo.
+Nunca carregue celular dentro de caixa fechada sob o sol.
+O calor excessivo estraga a bateria e pode deformar o aparelho.
+Este metodo nao resolve em dia nublado ou dentro de casa.
+Erro comum: cabo partido causa mau contato, aquecimento e perda.
+Se sair fumaca ou cheiro forte, afaste-se e nao jogue agua no aparelho.
+
+SE NAO TIVER
+------------
+Sem painel com USB, carregue um banco de baterias no sol e use depois.
+Sem cabo original, use cabo compativel em bom estado, sem emenda.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O simbolo de carga aparece e o percentual sobe com o tempo.
+O celular liga, faz chamada e mantem carga fora do painel.
+
+FONTES
+------
+Pratica consolidada de uso de painel solar portatil de baixa tensao,
+sem documento unico; orientacao geral de seguranca com baterias.

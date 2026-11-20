@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 10-021
+TITULO: Como sobreviver em ambientes de frio extremo
+CATEGORIA: 10 - Sobrevivência em ambientes naturais
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: roupas em camadas, abrigo, isolante e fonte de calor
+REVISAO: 2026-11
+PALAVRAS-CHAVE: frio, hipotermia, congelamento, abrigo, camadas, vento
+==============================================================================
+
+OBJETIVO
+--------
+Mantenha o corpo aquecido e reconheça hipotermia e congelamento cedo.
+
+QUANDO USAR
+-----------
+Quando a temperatura cai muito e o vento aumenta a perda de calor.
+Quando a energia acaba e o abrigo fica sem aquecimento.
+Quando é preciso ficar ao ar livre por horas com frio intenso.
+Quando aparecem tremor, fala arrastada ou dedos brancos e dormentes.
+Quando há idosos, crianças ou doentes no grupo.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Camada base justa ao corpo (camiseta seca, sem algodão molhado).
+- Camada isolante (lã, fleece, cobertor ou jornal amassado).
+- Capa corta-vento (lona, plástico ou jaqueta).
+- Gorro, luvas, meias secas e pano para cobrir o rosto (lenço).
+- Material de abrigo: lona, plástico, ramos e folhas secas (papelão).
+- Garrafa com água morna enrolada em pano (pedra quente enrolada em pano).
+- Água, alimento não perecível e apito para pedir socorro.
+
+PROCEDIMENTO
+------------
+1. Procure abrigo seco e fora do vento antes de ficar molhado.
+2. Vista a camada base justa ao corpo, sem deixar suor.
+3. Coloque a camada isolante por cima da base.
+4. Vista a capa corta-vento e feche punhos e gola.
+5. Cubra cabeça, pescoço, orelhas, mãos e pés: a pele exposta perde calor.
+6. Troque qualquer peça que molhar; roupa úmida retira calor do corpo.
+7. Isole o corpo do chão com papelão ou folhas secas antes de sentar.
+8. Monte o abrigo com lona ou plástico e incline a cobertura.
+9. Feche as laterais contra o vento com folhas, ramos ou terra.
+10. Aqueça primeiro o centro do corpo: peito, pescoço, cabeça e virilha.
+11. Beba água e coma algo: o corpo gasta energia para produzir calor.
+12. Mova-se em intervalos curtos e pare antes de suar.
+13. Fique dentro do carro até o resgate se a tempestade pegar você.
+14. Observe as pessoas do grupo em busca de tremor e fala arrastada.
+15. Procure confusão, mãos desajeitadas, perda de memória e sonolência.
+16. Ao notar hipotermia, leve a pessoa ao abrigo e retire roupa molhada.
+17. Aqueça o peito, o pescoço, a cabeça e a virilha da pessoa primeiro.
+18. Enrole a pessoa em cobertores, incluindo cabeça e pescoço.
+19. Ao notar congelamento, leve a pessoa para local quente.
+20. Mergulhe a parte afetada em água morna, nunca quente.
+21. Não massageie, não esfregue com neve e não use almofada térmica.
+22. Peça socorro se houver confusão ou temperatura corporal abaixo de 35 °C.
+
+ATENCAO
+-------
+Frio extremo com vento pode matar em minutos.
+O corpo perde calor mais rápido do que consegue produzir.
+Confusão e sonolência não são cansaço: são sinais de hipotermia.
+Não esfregue pele congelada com neve, não massageie e não use calor direto.
+Nunca use gerador ou grelha dentro do abrigo: risco de monóxido.
+O monóxido de carbono não tem cheiro e mata: use apenas ao ar livre.
+Mantenha gerador e grelha a aproximadamente 6 m de portas e janelas.
+Nunca aqueça o abrigo com fogão a gás.
+Se os sinais piorarem, interrompa e peça socorro.
+Este tutorial não substitui atendimento médico.
+
+SE NAO TIVER
+------------
+- Sem lona, use plástico, papelão, cobertores, ramos e folhas secas.
+- Sem garrafa térmica, aqueça uma pedra no fogo e enrole em pano.
+- Sem luvas, coloque as mãos junto ao peito ou nas axilas.
+- Sem água morna, use o calor do corpo de outra pessoa, sem esfregar.
+- Sem abrigo, aguarde em local fechado: não enfrente a tempestade a pé.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A pessoa responde rápido, fala com clareza e treme de forma uniforme.
+A pele recuperou a cor e não está mais branca nem firme como cera.
+As roupas estão secas e o abrigo não entra vento.
+Não há mais dedos brancos, fala arrastada nem confusão no grupo.
+
+FONTES
+------
+Ready.gov (FEMA/DHS), página sobre clima de inverno: sinais e cuidados de
+hipotermia e congelamento e segurança com geradores; NOAA/National Weather
+Service, página Cold Weather Safety, sobre risco de frio extremo e vento.

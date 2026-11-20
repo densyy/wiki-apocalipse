@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 30-024
+TITULO: Como construir sistemas de armazenamento térmico
+CATEGORIA: 30 - Engenharia e infraestrutura básica
+TEMPO: 3 horas
+RISCO: alto
+EXIGE: recipiente tampado, material isolante, fonte de calor ou frio
+REVISAO: 2026-11
+PALAVRAS-CHAVE: térmico, massa, água, isolamento, calor, frio, tanque
+==============================================================================
+
+OBJETIVO
+--------
+Guardar calor ou frio em massa térmica e liberá-lo horas depois.
+
+QUANDO USAR
+-----------
+- Quando o sol aquece a casa de dia e a noite é fria.
+- Quando sobra calor de fogueira depois de cozinhar.
+- Quando o frio da madrugada pode ser guardado para o dia.
+- Quando pode faltar combustível ou energia nas próximas horas.
+- Para reduzir a variação de temperatura de um compartimento.
+
+NAO USE QUANDO
+--------------
+- Para guardar água potável morna por dias sem tratá-la antes.
+- Em recipiente rígido cheio e totalmente fechado: pode estourar.
+- Em prateleira, parede ou solo que não suporte o peso da água.
+- Junto a material inflamável, se a fonte de calor for fogueira.
+
+MATERIAIS
+---------
+- Recipiente de água com tampa removível (barril, tanque ou galão).
+- Água limpa (ou pedras, tijolos e areia seca, como massa).
+- Isolante seco (palha, lã, serragem, papel ou caixa com ar).
+- Fonte de calor (sol, fogueira) ou de frio (ar da noite, gelo).
+- Suporte firme e nivelado para o recipiente.
+
+PROCEDIMENTO
+------------
+1. Escolha um local firme, nivelado e protegido da chuva.
+2. Apoie o recipiente sobre o suporte, nunca no chão úmido.
+3. Encha com água limpa, deixando espaço no topo (aproximadamente
+   um décimo do volume) para a dilatação.
+4. Feche com tampa removível que permita a saída de vapor; nunca
+   use tampa soldada ou travada à prova de pressão.
+5. Envolva laterais e fundo com isolante seco, deixando sem
+   cobertura a face que deve receber calor ou frio.
+6. Exponha a face livre ao sol durante o dia, ou ao calor da
+   fogueira sem encostar o isolante nas chamas.
+7. Cubra a face livre com isolante quando o sol baixar ou quando
+   apagar o fogo.
+8. Leve o conjunto ao lugar onde o calor ou o frio será usado e
+   mantenha a tampa fechada.
+9. Abra a tampa por pouco tempo para retirar calor ou frio.
+10. Para frio, encha com água fria da madrugada, isole e mantenha
+    na sombra; troque a água quando ela esquentar.
+
+ATENCAO
+-------
+- Água acima de aproximadamente 60 °C queima a pele em segundos.
+  Use pano ou luva e mantenha crianças afastadas.
+- Nunca aqueça recipiente fechado: o vapor pode arrebentar a tampa.
+- A água expande ao congelar; deixe espaço no topo no frio.
+- Tanque cheio: 200 litros pesam aproximadamente 200 kg; confira
+  o suporte antes de encher.
+- Água morna parada pode abrigar microrganismos; trate antes de
+  beber e não guarde a água morna por dias.
+- Sem isolante, a massa perde calor ou frio depressa e o sistema
+  não cumpre a função.
+- Se o recipiente rachar, vazar ou a tampa estufar, pare, esvazie
+  com segurança e só reutilize depois de trocar a peça.
+
+SE NAO TIVER
+------------
+- Sem tanque, use pedras, tijolos ou areia seca dentro de caixa
+  de madeira como massa térmica.
+- Sem isolante, empilhe palha seca, folhas ou papel ao redor;
+  mantenha seco e longe do fogo.
+- Sem termômetro, aproxime o dorso da mão da face do recipiente
+  e retire a mão se sentir ardência; não toque na água quente.
+- Sem sol, use o calor residual do fogão ou de fogueira protegida.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- A face isolada fica morna ou fria ao tato, enquanto o lado de
+  fora do isolante fica próximo da temperatura do ambiente.
+- A temperatura do compartimento varia menos entre dia e noite.
+- A água mantém calor ou frio por mais tempo que um recipiente
+  sem isolante nas mesmas condições.
+
+FONTES
+------
+- Departamento de Energia dos Estados Unidos (DOE), programa de
+  Armazenamento de Energia Térmica: calor ou frio guardados em
+  material para uso em outro momento.
+- Prática consolidada de construção solar passiva (massa térmica,
+  parede de água e isolamento), sem documento normativo único.
+- Este texto é resumo operacional e não substitui treinamento.

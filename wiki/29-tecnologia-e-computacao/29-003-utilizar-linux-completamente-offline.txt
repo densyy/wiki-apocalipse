@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 29-003
+TITULO: Como utilizar Linux completamente offline
+CATEGORIA: 29 - Tecnologia, computação e informática offline
+TEMPO: 40 minutos
+RISCO: baixo
+EXIGE: computador com Linux instalado e mídia local com pacotes
+REVISAO: 2026-11
+PALAVRAS-CHAVE: linux, offline, sem internet, pacote, man, computador
+==============================================================================
+
+OBJETIVO
+--------
+Usar o Linux sem internet para trabalhar e consultar documentação local.
+
+QUANDO USAR
+-----------
+Quando a internet cai e o computador continua ligado.
+Quando é preciso continuar um trabalho sem rede.
+Quando se quer consultar manuais salvos no computador.
+
+NAO USE QUANDO
+--------------
+Quando o Linux ainda não estiver instalado: veja 29-002 antes.
+Sem mídia local com pacotes não há como instalar programas novos.
+
+MATERIAIS
+---------
+- Computador com Linux instalado e mídia local com pacotes.
+- Documentação local: páginas man e arquivos em /usr/share/doc.
+- Editor de texto simples, como nano (ou qualquer editor instalado).
+
+PROCEDIMENTO
+------------
+1. Abra o terminal: pressione Ctrl+Alt+T ou procure "Terminal" no menu.
+2. Confirme que a rede está fora: o ícone aparece desconectado.
+3. Leia ajuda com "man nome": man é o manual do sistema.
+4. Digite "man cp", role com as setas e saia com a tecla q.
+5. Liste a documentação com "ls /usr/share/doc"; leia com "less arquivo".
+6. Pacote é programa em .deb; instale com sudo dpkg -i arquivo.deb.
+7. Dependência é programa auxiliar: se faltar, instale a biblioteca antes.
+8. Copie o arquivo de fontes do gerenciador antes de alterá-lo.
+9. Com "sudo nano", aponte o gerenciador só para a mídia local e salve.
+10. Atualize a lista local com "sudo apt update": sem rede, lê só a mídia.
+11. Retire a mídia com segurança e desligue pelo menu ou com sudo poweroff.
+
+ATENCAO
+-------
+Sem rede não há atualizações nem conexão: nenhuma etapa aqui cria internet.
+Ordem errada de pacotes quebra dependências e trava o gerenciador.
+Nunca force um pacote incompatível: isso pode corromper o sistema.
+Editar as fontes sem cópia pode impedir instalações futuras.
+Sem cópia, senhas e arquivos não voltam: mantenha backup em mídia separada.
+
+SE NAO TIVER
+------------
+Sem mídia com pacotes, use apenas os programas já instalados.
+Sem páginas man, leia os arquivos em /usr/share/doc.
+Sem senha, peça a quem administra: não tente burlar permissões.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O comando "man cp" mostra o manual e a tecla q o fecha.
+O documento editado reaparece com o conteúdo novo ao ser aberto.
+O programa instalado abre sem mensagem de erro com a rede fora.
+
+FONTES
+------
+Documentação oficial do Debian (Debian Reference) e páginas man do sistema.
+Arquivos em /usr/share/doc e prática consolidada de administração Linux.

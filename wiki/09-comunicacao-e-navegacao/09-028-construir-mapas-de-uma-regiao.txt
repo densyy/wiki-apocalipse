@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 09-028
+TITULO: Como construir mapas de uma região
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: papel, lápis, bússola, fita métrica ou corda marcada
+REVISAO: 2026-11
+PALAVRAS-CHAVE: mapa, cartografia, escala, legenda, bússola, norte, croqui
+==============================================================================
+
+OBJETIVO
+--------
+Desenhe um mapa com norte, escala e legenda para navegar sem internet.
+
+QUANDO USAR
+-----------
+Quando for preciso registrar rotas e pontos de referência sem mapa impresso.
+Quando o grupo vai se espalhar e precisa combinar um ponto de encontro.
+Quando o celular está sem bateria e não há sinal para navegar.
+
+NAO USE QUANDO
+--------------
+Quando houver mapa topográfico impresso da região: use-o antes de desenhar.
+
+MATERIAIS
+---------
+- Papel (caderno ou folha impermeável) e lápis.
+- Bússola (ou celular com bússola, enquanto houver bateria).
+- Fita métrica, trena, corda com nós a cada metro ou régua.
+
+PROCEDIMENTO
+------------
+1. Defina a área: escolha limites que caibam inteiros no papel.
+2. Ache o norte com a bússola e desenhe uma seta no alto do papel.
+3. Meça no terreno uma distância conhecida, como aproximadamente 100 passos.
+4. Defina a escala: por exemplo, 1 centímetro para 20 metros no terreno.
+5. Desenhe primeiro os elementos fixos: rios, estradas, cercas e muros.
+6. Marque pontos de referência: morros, árvores grandes e prédios.
+7. Anote onde ficam a água, o abrigo e o ponto de encontro.
+8. Escreva a legenda com o significado de cada símbolo usado.
+9. Desenhe a escala gráfica: uma barra com o valor de cada trecho.
+10. Caminhe pela área e corrija o desenho ao confirmar cada ponto.
+
+ATENCAO
+-------
+Um mapa errado é pior que nenhum mapa: confira cada ponto no terreno.
+Sem a seta do norte, a pessoa pode seguir a rota em direção contrária.
+A escala vale só para a área desenhada; não a use em outra região.
+Após enchente, desmatamento ou obra, o desenho pode ficar desatualizado.
+Em área de risco, não confie só no croqui: leve também bússola e apito.
+
+SE NAO TIVER
+------------
+Sem bússola, use o sol: ao meio-dia, no hemisfério sul, a sombra aponta
+aproximadamente para o sul e o norte fica do lado oposto.
+Sem trena, conte passos e anote quantos dão aproximadamente 100 metros.
+Sem papel, desenhe o croqui na terra ou em uma tábua com carvão.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A seta do norte e a barra de escala aparecem no mapa.
+Cada símbolo da legenda corresponde a algo visto no terreno.
+Outra pessoa chega a um ponto marcado usando só o mapa e a bússola.
+
+FONTES
+------
+Prática consolidada de cartografia e navegação terrestre: manuais de leitura
+de mapas e sobrevivência do Exército dos EUA e convenções de mapeamento
+topográfico da USGS.

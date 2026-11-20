@@ -1,0 +1,75 @@
+============================================================================
+CODIGO: 86-004
+TITULO: Como produzir terebintina e compreender seus riscos
+CATEGORIA: 86 - Recursos naturais e materiais vegetais
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: resina, destilação controlada, EPIs, ventilação e extintor
+REVISAO: 2026-11
+PALAVRAS-CHAVE: terebintina, destilação, solvente, inflamável, risco
+============================================================================
+
+OBJETIVO
+--------
+Obter terebintina por destilação da resina e conhecer seus perigos.
+
+QUANDO USAR
+-----------
+Quando há resina adequada e equipamento de destilação seguro.
+Para uso como solvente em vernizes, tintas e limpeza de pincéis.
+Ao estudar os riscos de solventes voláteis em oficinas.
+
+NAO USE QUANDO
+--------------
+Não destile sem equipamento próprio, ventilação e extintor.
+Não use terebintina em ambiente fechado ou perto de chamas.
+Não descarte resíduos em rios, solo ou rede de esgoto.
+
+MATERIAIS
+---------
+- Resina vegetal limpa e identificada.
+- Aparelho de destilação com condensador.
+- Fonte de calor controlada e extintor.
+- Luvas, óculos, avental e máscara adequada.
+- Frascos escuros e tampados para armazenar.
+
+PROCEDIMENTO
+------------
+1. Confira o equipamento antes de iniciar a destilação.
+2. Carregue a resina no recipiente, sem excesso.
+3. Aqueça de forma lenta e constante, nunca em fogo aberto.
+4. Observe a saída do líquido no condensador.
+5. Colete o destilado em frasco limpo e resistente.
+6. Controle a temperatura para evitar decomposição da resina.
+7. Interrompa se houver cheiro forte ou fumaça anormal.
+8. Desligue o calor e deixe o sistema esfriar completamente.
+9. Feche os frascos e identifique com data e conteúdo.
+10. Armazene em local fresco, escuro e bem ventilado.
+11. Registre quantidade obtida e resíduos gerados.
+
+ATENCAO
+-------
+Terebintina é altamente inflamável: mantenha longe de fogo e faíscas.
+Vapores causam dor de cabeça, tontura e irritação respiratória.
+Contato com a pele pode causar vermelhidão e ressecamento.
+Nunca inale os vapores de propósito e evite uso em ambientes fechados.
+Resíduos e frascos vazios exigem descarte seguro e separado.
+
+SE NAO TIVER
+------------
+Sem destilador, não improvise: compre solvente regularizado.
+Sem extintor e ventilação, não inicie a destilação.
+Sem EPIs completos, adie a atividade para condições seguras.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O destilado foi coletado em frasco identificado e tampado.
+Não houve vazamento, fogo ou exposição aos vapores.
+Os resíduos foram separados para descarte correto.
+
+FONTES
+------
+Normas de segurança química para solventes inflamáveis;
+fitas de dados de segurança de produtos à base de terebintina;
+manuais de destilação de óleos essenciais e resinas;
+orientações de órgãos ambientais sobre descarte de resíduos.

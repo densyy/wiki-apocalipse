@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 28-013
+TITULO: Como calcular necessidades de medicamentos
+CATEGORIA: 28 - Logística e gestão de recursos
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: número de pessoas, prazo, lista de remédios, estoque, papel, lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: remédio, medicamento, estoque, quantidade, reposição
+==============================================================================
+
+OBJETIVO
+--------
+Estimar quantos medicamentos comprar para um grupo e um período.
+
+QUANDO USAR
+-----------
+Ao montar a farmácia de emergência para um grupo.
+Ao repor estoque depois de consumo ou vencimento.
+
+NAO USE QUANDO
+--------------
+Para calcular dose individual: depende de prescrição.
+Para substituir orientação de médico ou farmacêutico.
+
+MATERIAIS
+---------
+- Número estimado de pessoas atendidas.
+- Prazo em dias que o estoque deve cobrir.
+- Lista de medicamentos pelo princípio ativo.
+- Papel e lápis, ou planilha simples.
+
+PROCEDIMENTO
+------------
+1. Anote o número de pessoas atendidas.
+2. Escreva o prazo em dias.
+3. Liste cada medicamento pelo princípio ativo.
+4. Anote o estoque atual de cada item.
+5. Retire da conta itens vencidos ou sem rótulo.
+6. Estime consultas por pessoa; marque se aproximadas.
+7. Estime a fração de consultas por medicamento.
+8. Multiplique pessoas, consultas e fração.
+9. Multiplique pelas doses e pelos dias de tratamento.
+10. Divida pelas doses em cada embalagem.
+11. Arredonde o resultado para cima.
+12. Some aproximadamente 20 por cento de margem.
+13. Subtraia o estoque e anote o que comprar.
+
+ATENCAO
+-------
+Este cálculo estima quantidades, não dose individual.
+Nunca use a conta para decidir quanto dar a alguém.
+Dose e duração devem vir de prescrição ou protocolo.
+Subestimar remédio essencial deixa gente sem tratamento.
+Procure profissional antes de comprar ou administrar.
+
+SE NAO TIVER
+------------
+Sem dados locais, use registro de surtos anteriores.
+Sem estoque confiável, trate tudo como falta a comprar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada item tem número de embalagens anotado.
+O estoque utilizável foi subtraído do total.
+
+FONTES
+------
+Prática consolidada de suprimentos médicos em emergência.
+Referência: kits de emergência da OMS e lista de medicamentos essenciais.

@@ -1,0 +1,93 @@
+==============================================================================
+CODIGO: 20-023
+TITULO: Como armazenar silagem
+CATEGORIA: 20 - Animais domésticos e pecuária
+TEMPO: 3 horas
+RISCO: alto
+EXIGE: forragem no ponto, silo ou bolsa, lona, trator ou pisoteio, pesos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: silagem, ensilagem, silo, compactar, vedar, capim, milho
+==============================================================================
+
+OBJETIVO
+--------
+Conservar forragem verde picada como alimento seguro por meses.
+
+QUANDO USAR
+-----------
+Quando sobra milho, sorgo ou capim e o pasto falta na seca.
+Quando é preciso guardar comida para o período de escassez.
+Quando os animais ficam confinados e comem todo dia.
+Quando a forragem foi cortada no ponto certo e precisa ser guardada.
+
+NAO USE QUANDO
+--------------
+Quando a forragem estiver mofada, com cheiro de álcool ou aguardente.
+Quando houver terra, pedras ou animais mortos misturados ao material.
+Quando não der para compactar e vedar o silo no mesmo dia.
+Quando a forragem estiver encharcada de chuva ou passou do ponto.
+
+MATERIAIS
+---------
+- Forragem cortada: milho, sorgo ou capim-elefante no ponto.
+- Silo de alvenaria, trincheira, bolsa de plástico ou silo de superfície.
+- Lona plástica de dupla face (ou lona preta com terra por cima).
+- Trator pesado, rolo ou soquete (ou pisoteio com pessoas e animais).
+- Palha seca para forrar o fundo do silo de superfície.
+- Sacos de areia, pneus ou terra para pesar a lona.
+- Foice, enxada ou facão para cortar a forragem.
+
+PROCEDIMENTO
+------------
+1. Colha milho ou sorgo com grãos farináceos, a 30% a 35% de matéria seca.
+2. Corte a 5 a 10 cm do chão com foice, enxada ou ensiladeira.
+3. Pique a forragem em pedaços de 2 a 3 cm.
+4. Se o capim estiver muito verde, deixe espalhado 4 a 5 horas para murchar.
+5. Limpe o silo e forre o fundo com palha seca, se for de superfície.
+6. Espalhe a forragem picada em camadas de aproximadamente 20 a 30 cm.
+7. Compacte cada camada com o trator passando várias vezes, sem pressa.
+8. Mantenha os pneus limpos: barro suja a silagem e estraga a fermentação.
+9. Nunca cubra uma camada frouxa com outra: a de baixo vai apodrecer.
+10. Encha o silo rápido: ideal até 3 dias, nunca mais de 5 dias.
+11. Deixe o topo abaulado, mais alto no meio, para a chuva escorrer.
+12. Cubra com a lona, escuro para baixo e claro para cima, sem bolhas.
+13. Enterre as bordas da lona em valeta e coloque pesos sobre ela.
+14. Feche as janelas do silo vertical conforme o material sobe.
+15. Espere aproximadamente 40 dias antes de dar aos animais.
+16. Abra e retire uma fatia reta de no mínimo 15 cm por dia.
+
+ATENCAO
+-------
+Sem ar, a forragem fermenta e conserva; com ar, ela apodrece.
+Forragem muito úmida gera chorume e perde nutrientes.
+Forragem muito seca não compacta e deixa ar na massa.
+Não dê aos animais silagem com mofo, cheiro de álcool ou cor escura.
+Silagem estragada pode causar botulismo, doença fatal em bovinos.
+Animal com paralisia ou passo cambaleante: chame o veterinário.
+Respiração difícil ou animal caído: procure ajuda urgente.
+Não deixe animais, roedores ou pessoas furarem a lona.
+Nunca ensile se não puder compactar e vedar bem no mesmo dia.
+
+SE NAO TIVER
+------------
+Sem trator, pise a forragem em camadas finas até ficar firme.
+Sem lona dupla face, use lona preta e cubra com terra, sem deixar buracos.
+Sem silo, cave uma trincheira ou use bolsa de plástico própria.
+Sem como vedar no dia, não ensile: guarde a forragem como feno.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A massa ficou firme ao pisar, sem bolsões de ar.
+A lona ficou colada à silagem e as bordas ficaram enterradas.
+Ao abrir, a silagem cheira a leite fermentado e tem cor verde-amarelada.
+Não há mofo, camadas pretas nem cheiro de álcool ou aguardente.
+
+FONTES
+------
+Embrapa: "Sete passos para uma boa ensilagem de milho", 2016;
+"Produção e uso de silagem", Infoteca-e, 2023; páginas Ageitec sobre
+colheita, compactação e fornecimento.
+Embrapa Gado de Corte: "Silos, silagem e ensilagem", 1995; nota sobre
+botulismo e silagem, 2017.
+Ciência Rural: surto de botulismo em bovinos por silagem
+mal acondicionada, 2025.

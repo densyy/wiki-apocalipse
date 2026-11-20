@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 13-028
+TITULO: Como identificar argilas adequadas para cerâmica
+CATEGORIA: 13 - Química e conhecimentos científicos aplicados
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: água, pote de vidro transparente com tampa, peneira, régua, caneta
+REVISAO: 2026-11
+PALAVRAS-CHAVE: argila, barro, cerâmica, plasticidade, teste do pote, fita
+==============================================================================
+
+OBJETIVO
+--------
+Separe o barro que modela e seca sem rachar do solo comum.
+
+QUANDO USAR
+-----------
+Encontrei um depósito de barro e não sei se serve para cerâmica.
+Preciso escolher entre dois ou três pontos de coleta próximos.
+A peça modelada racha muito ao secar e quero corrigir a massa.
+Quero saber se o barro tem areia demais ou matéria orgânica.
+
+NAO USE QUANDO
+--------------
+Não use argila de beira de rodovia, indústria, lixão ou cemitério
+em peças que vão guardar água ou alimento.
+
+MATERIAIS
+---------
+- Terra ou barro de cada ponto que quiser testar.
+- Água limpa.
+- Pote de vidro transparente com tampa (garrafa plástica cortada).
+- Peneira ou pano de algodão (coador de café).
+- Régua (palito com marcas) e caneta ou carvão para marcar o pote.
+- Tábua ou folha de plástico para secar a fita de teste.
+
+PROCEDIMENTO
+------------
+1. Peneire uma amostra seca para tirar pedras, folhas e raízes.
+2. Encha um terço do pote com a terra peneirada.
+3. Complete com água até perto da borda, deixando espaço para mexer.
+4. Tampe e agite até virar papa uniforme, sem grumos.
+5. Deixe em superfície nivelada e marque a areia do fundo após 1 minuto.
+6. Após aproximadamente 2 horas, marque o topo da camada do meio.
+7. Após aproximadamente 48 horas, marque o topo da camada de cima.
+8. A camada de cima é a argila, a mais fina; a do meio é o silte.
+9. Meça a altura das três camadas com a régua e anote cada uma.
+10. Divida a altura da argila pelo total das três e multiplique por 100.
+11. Repita com cada amostra e compare as porcentagens obtidas.
+12. Amasse a amostra mais argilosa com um pouco de água até ficar mole.
+13. Aperte entre polegar e indicador formando fita de aproximadamente
+    3 milímetros de espessura.
+14. Veja quantos centímetros a fita anda antes de quebrar.
+15. Fita de aproximadamente 2 a 5 centímetros indica plasticidade média.
+16. Fita acima de aproximadamente 5 centímetros indica argila muito
+    plástica, que encolhe bastante ao secar.
+17. Esfregue uma pitada úmida: textura lisa e pegajosa confirma argila.
+18. Textura arenosa ao esfregar indica excesso de areia na amostra.
+19. Modele uma fita fina e deixe secar ao ar, na sombra, por um dia.
+20. Observe se a fita racha ou encurta muito ao secar.
+
+ATENCAO
+-------
+Pó de argila seca contém sílica: umedeça antes de mexer e não inale.
+Estes testes medem textura e plasticidade, não provam que a peça
+aguenta queima; ferro, carbonato e matéria orgânica só aparecem no fogo.
+Argila muito plástica encolhe e racha: misture areia fina ou cinza de
+madeira peneirada e refaça o teste da fita antes de modelar.
+Não coma argila e não a coloque em feridas: o solo pode abrigar
+parasitas e bactérias.
+Argila de área contaminada pode concentrar metais pesados; não use
+em vasilhas de água ou comida sem fonte segura e queima correta.
+Barro com cheiro de podre ou restos escuros pode estourar ao queimar.
+Lave as mãos depois do teste e mantenha a poeira longe de crianças.
+Se a fita racha fundo mesmo após corrigir, descarte a amostra.
+Um resultado bom aqui não substitui teste de queima da peça real.
+
+SE NAO TIVER
+------------
+- Sem pote de vidro, use garrafa plástica transparente cortada.
+- Sem peneira, use pano de algodão limpo ou coador de café.
+- Sem régua, marque um palito com espaços de um centímetro.
+- Sem água limpa, não faça o teste: água suja altera a sedimentação.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- No pote aparecem três faixas: areia embaixo, silte no meio, argila acima.
+- A bola forma fita contínua que não se desfaz ao ser levantada.
+- A fita seca sem rachas que atravessam e encurta pouco.
+
+FONTES
+------
+Clemson University Cooperative Extension, ficha HGIC 1656: teste do
+pote para textura do solo e tempos de assentamento das camadas.
+Colorado State University Extension e NSW Department of Primary
+Industries: teste da fita (ribbon) para estimar textura e plasticidade.
+Embrapa Solos: argila como fração de solo menor que 0,002 milímetro.
+Prática consolidada de olaria: secagem da fita e correção com areia fina.

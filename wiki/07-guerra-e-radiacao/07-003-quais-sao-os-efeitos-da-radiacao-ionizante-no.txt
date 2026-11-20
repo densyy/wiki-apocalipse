@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 07-003
+TITULO: Como reconhecer efeitos da radiação no corpo
+CATEGORIA: 07 - Guerra, radiação e catástrofes nucleares
+TEMPO: 20 minutos
+RISCO: critico
+EXIGE: papel, caneta, relógio ou celular com hora
+REVISAO: 2026-11
+PALAVRAS-CHAVE: radiação, enjoo, vômito, abrigo, dose, pele, câncer
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer sinais de efeito da radiação no corpo e agir.
+
+QUANDO USAR
+-----------
+Depois de clarão forte, calor intenso ou explosão nuclear.
+Quando houver poeira ou chuva estranha após explosão.
+Quando muitas pessoas tiverem enjoo e vômito juntas.
+Quando a autoridade avisar sobre liberação radioativa.
+Quando você mexeu em fonte quebrada ou abandonada.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Papel e caneta (ou carvão e papelão para anotar).
+- Relógio ou celular para anotar a hora dos sintomas.
+- Água limpa, sabão e pano para lavar pele e cabelo.
+- Roupa limpa guardada em saco fechado para trocar.
+- Rádio a pilha (ou celular) para ouvir a autoridade.
+
+PROCEDIMENTO
+------------
+1. Entre no prédio mais firme e próximo e fique dentro.
+2. Desça ao porão ou fique no centro, longe de janela.
+3. Feche portas e janelas e desligue o que puxa ar de fora.
+4. Tire a roupa de fora sem chacoalhar e guarde em saco.
+5. Lave com água e sabão a pele e o cabelo expostos.
+6. Cubra cortes e arranhões com pano limpo antes de lavar.
+7. Anote a hora, o local e o que você viu e sentiu.
+8. Observe e anote enjoo, vômito e dor de cabeça com a hora.
+9. Observe e anote diarreia, cansaço forte e febre com a hora.
+10. Observe vermelhidão, coceira, inchaço e bolha na pele.
+11. Observe queda de cabelo nos dias seguintes e anote.
+12. Não coma nem beba nada que estava aberto do lado de fora.
+13. Procure atendimento assim que a autoridade liberar a saída.
+14. Leve suas anotações de hora e sintomas ao atendimento.
+
+ATENCAO
+-------
+Radiação ionizante não tem cheiro, gosto, som nem cor.
+Você pode receber dose perigosa sem sentir nada na hora.
+Enjoo e vômito juntos após exposição indicam dose alta.
+A melhora depois de 1 ou 2 dias pode ser falsa.
+A pessoa parece boa e depois piora muito em dias ou semanas.
+Dose de corpo todo de aproximadamente 1 Sv (1000 mSv)
+pode causar síndrome aguda da radiação, segundo a OMS.
+Acima disso, o risco de morte cresce com a dose recebida.
+Queda de cabelo, febre, diarreia com sangue e sangramento
+são sinais de gravidade e exigem atendimento urgente.
+Criança, gestante e idoso sofrem mais com a mesma dose.
+Lavar tira poeira da pele, mas não cura dano já recebido.
+Comprimido de iodo só protege a tireoide e só use com
+ordem da autoridade, na dose e hora que ela indicar.
+Não use remédio, chá ou bebida para tentar limpar o corpo.
+Não entre em local com fumaça ou poeira sem necessidade.
+Ficar sem abrigo por curiosidade é o que mais mata.
+
+SE NAO TIVER
+------------
+Sem água encanada, limpe a pele com pano úmido limpo.
+Troque o pano a cada passada e não reuse o lado sujo.
+Sem sabão, lave só com água corrente e esfregue de leve.
+Sem saco plástico, use balde com tampa ou pano amarrado.
+Sem papel, risque a hora e o sintoma na parede ou no braço.
+Sem rádio, siga a ordem escrita mais recente da autoridade.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você está dentro de abrigo firme, longe de janela e poeira.
+A pele e o cabelo expostos foram lavados e a roupa trocada.
+Cada sintoma tem hora anotada para mostrar no atendimento.
+Nenhum alimento aberto do lado de fora foi consumido.
+Você seguiu a ordem da autoridade para sair ou ficar.
+
+FONTES
+------
+Ficha da OMS sobre radiação ionizante e efeitos na saúde.
+Orientação do CDC sobre síndrome aguda da radiação.
+Orientação da FEMA sobre abrigo após detonação nuclear.
+Este texto é um resumo operacional e não substitui
+atendimento médico.

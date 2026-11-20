@@ -1,0 +1,76 @@
+==============================================================================
+CODIGO: 04-030
+TITULO: Como entender os fundamentos da eletricidade
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: eletricidade, tensao, corrente, potencia, choque, circuito
+==============================================================================
+
+OBJETIVO
+--------
+Entender tensão, corrente e potência para usar eletricidade
+com segurança e sem improviso em rede energizada.
+
+QUANDO USAR
+-----------
+Quando precisar entender a conta de luz ou a placa de um aparelho.
+Quando for somar pilhas ou baterias para um uso isolado.
+Quando for decidir o que pode ligar sem sobrecarregar o circuito.
+Quando precisar pedir ajuda a um eletricista com precisão.
+
+NAO USE QUANDO
+--------------
+Para abrir quadro de luz, trocar fiação ou mexer em rede ligada.
+Para consertar aparelho energizado ou com capacitor carregado.
+Em local alagado, com as mãos molhadas ou perto de fio caído.
+
+MATERIAIS
+---------
+- Papel e caneta para anotar valores (calculadora comum).
+- Etiquetas dos aparelhos com tensão e potência declaradas.
+- Conta de energia para ver a tensão e o consumo da casa.
+
+PROCEDIMENTO
+------------
+1. Leia a etiqueta e anote a tensão em volts e a potência em watts.
+2. Confira se a rede local é de 127 ou 220 volts.
+3. Lembre que corrente, em amperes, é o fluxo que passa no fio.
+4. Saiba que circuito é o caminho fechado da fiação até o aparelho.
+5. Some as potências dos aparelhos ligados ao mesmo circuito.
+6. Compare a soma com o limite do circuito ou do disjuntor.
+7. Saiba que pilhas e baterias fornecem corrente contínua.
+8. Saiba que a rede da casa entrega corrente alternada.
+9. Localize o disjuntor geral, que é a chave que desliga a casa.
+10. Desligue o geral antes de qualquer inspeção perto de fiação.
+11. Nunca abra quadro energizado nem emende fio energizado.
+12. Afaste-se de fio caído e chame a concessionária de energia.
+
+ATENCAO
+-------
+O que mata é a corrente atravessando o corpo, não o tamanho do fio.
+Corrente pequena já paralisa músculos e impede de soltar o fio.
+Nunca improvise em rede energizada: gambiarra causa choque e incêndio.
+Água e corpo molhado conduzem: não toque em parte elétrica molhada.
+Fio caído pode estar vivo: mantenha distância e avise a concessionária.
+Capacitor e bateria guardam carga mesmo desligados da tomada.
+Cheiro de queimado ou faísca: desligue o geral e chame ajuda.
+Choque com desmaio ou queimadura exige médico com urgência.
+
+SE NAO TIVER
+------------
+Sem etiqueta, use a conta de luz e o padrão de tensão da região.
+Sem eletricista, limite-se a desligar e observar; não abra nada.
+Sem saber a tensão, não ligue aparelho trazido de outra região.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você lê etiquetas, soma potências e evita sobrecarga do circuito.
+Você localiza e desliga o disjuntor sem tocar em parte viva.
+
+FONTES
+------
+Norma brasileira de instalações de baixa tensão, da ABNT;
+orientações de segurança elétrica do CDC e da OSHA dos EUA.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 37-012
+TITULO: Como medir inclinações de terrenos
+CATEGORIA: 37 - Cartografia, topografia e levantamento
+TEMPO: 25 minutos
+RISCO: baixo
+EXIGE: mangueira transparente, água, fita métrica, duas estacas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: inclinação, declividade, encosta, rampa, desnível, graus
+==============================================================================
+
+OBJETIVO
+--------
+Medir a declividade: inclinação da encosta em relação ao plano horizontal.
+
+QUANDO USAR
+-----------
+Ao escolher por onde subir ou descer com segurança.
+Ao instalar painel solar, canal ou tomada de água por gravidade.
+
+NAO USE QUANDO
+--------------
+Com fenda aberta, solo fofo ou risco de deslizamento: não se aproxime.
+Quando a decisão exigir precisão de engenharia ou dimensionamento de obra.
+
+MATERIAIS
+---------
+- Mangueira transparente de 10 a 15 m, com as duas pontas abertas.
+- Água limpa com corante (ou fundo branco para ler a coluna).
+- Fita métrica de 20 m, duas estacas, caderno e lápis.
+
+PROCEDIMENTO
+------------
+1. Escolha uma linha reta subindo a encosta, na direção de maior inclinação.
+2. Crave a estaca A no ponto baixo e a B no ponto alto da linha.
+3. Estenda a fita entre A e B e anote a distância como avanço.
+4. Encha a mangueira com água até as pontas, sem deixar bolhas de ar.
+5. Tampe as pontas com os dedos, leve uma a cada estaca e apoie-as.
+6. Espere a água parar de oscilar nas duas pontas.
+7. Meça a diferença entre as colunas. Anote como subida.
+8. Escreva subida e avanço na mesma unidade, de preferência em metros.
+9. Divida a subida pelo avanço, multiplique por 100 e anote em por cento.
+10. Repita em outra linha da encosta e compare os dois valores.
+
+ATENCAO
+-------
+A inclinação varia ao longo da encosta: meça na linha de maior subida.
+Bolha de ar na mangueira falsifica a subida; esvazie e refaça.
+Leia a coluna com os olhos no mesmo nível para evitar erro de paralaxe.
+Use a mesma unidade na subida e no avanço antes de dividir.
+A fita sobre o chão mede a encosta, não o avanço horizontal.
+Depois de chuva forte, em fenda ou solo fofo, meça de longe.
+
+SE NAO TIVER
+------------
+Sem mangueira, use clinômetro (37-011): 6 graus = aproximadamente 10%.
+11 graus = aproximadamente 20%; 17 graus = aproximadamente 30%.
+Sem fita, conte passos: cada passo é aproximadamente 0,75 m.
+Com carta topográfica, conte as curvas (37-008) e meça na escala.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As colunas pararam sem oscilar e não há bolhas visíveis na mangueira.
+Confira o cálculo: 2 m de subida em 20 m de avanço dão 10%.
+
+FONTES
+------
+SERC/Carleton College e Esri (Understanding slope): cálculo da declividade.
+Forest Measurements (DeYoung, OpenOregon) e American Trails (Schmid): campo.
+Resumo operacional; não substitui treinamento.

@@ -1,0 +1,103 @@
+==============================================================================
+CODIGO: 46-006
+TITULO: Como realizar curativos em animais
+CATEGORIA: 46 - Medicina veterinária e saúde animal
+TEMPO: 20 minutos
+RISCO: alto
+EXIGE: soro fisiológico, gaze limpa, atadura, luvas, focinheira ou colar
+REVISAO: 2026-11
+PALAVRAS-CHAVE: curativo, ferida, animal, cachorro, gato, soro, gaze
+==============================================================================
+
+OBJETIVO
+--------
+Proteger uma ferida superficial de um animal e conter sangramento leve ate
+o atendimento veterinario.
+
+QUANDO USAR
+-----------
+Quando o animal tem arranhao, corte ou ralado com sangramento leve.
+Quando a ferida esta suja de terra, grama ou pelo.
+Quando ha risco de o animal lamber, coçar ou arrancar a ferida.
+Quando o atendimento veterinario vai demorar e e preciso proteger a area.
+
+NAO USE QUANDO
+--------------
+Nao faca curativo definitivo em ferida profunda, mordida ou perfuracao.
+Nao tente fechar a ferida com ponto, grampo ou cola caseira.
+Nao use o curativo para esconder dor, febre ou apatia do animal.
+
+MATERIAIS
+---------
+- Soro fisiológico para lavar a ferida (agua limpa e sabao neutro).
+- Gaze limpa nao aderente (pano limpo sem fiapos).
+- Atadura de gaze ou faixa de pano limpo.
+- Fita adesiva ou fita autoaderente para fixar sem apertar.
+- Luvas descartaveis.
+- Focinheira ou colar elizabetano (pano preso no pescoco, sem apertar).
+- Tesoura de ponta arredondada.
+
+PROCEDIMENTO
+------------
+1. Lave as maos com agua e sabao e calce as luvas.
+2. Peça a outra pessoa que segure o animal. Nao abrace um animal ferido.
+3. Coloque a focinheira se o animal ameacar morder. Nunca focinhe se
+   ele estiver vomitando.
+4. Observe a ferida. Se houver objeto encravado, nao o retire.
+5. Se sangrar, pressione com gaze limpa por pelo menos 3 minutos sem
+   olhar. Se o sangue encharcar, acrescente outra gaze por cima.
+6. Retire a gaze sem esfregar, apenas levante uma borda.
+7. Corte os pelos ao redor da ferida com a tesoura de ponta arredondada.
+8. Lave a sujeira visivel com agua corrente e sabao neutro ao redor.
+9. Lave a ferida com jato suave de soro fisiológico ate retirar o debris.
+10. Seque com gaze limpa, sem esfregar e sem usar algodao solto.
+11. Aplique a primeira camada: gaze direto sobre a ferida.
+12. Aplique a segunda camada: gaze ou pano maco para absorver e acolchoar.
+13. Aplique a terceira camada: atadura por cima, firme mas sem apertar.
+14. Fixe a ponta com fita sem deixar a fita tocar a ferida.
+15. Coloque o colar elizabetano para impedir que o animal lamba.
+16. Leve o animal ao veterinario no mesmo dia, mesmo com curativo.
+
+ATENCAO
+-------
+Animal ferido tem dor e pode morder mesmo sendo manso. Mantenha o rosto
+longe da boca e das patas. Curativo apertado corta a circulacao e pode
+perder um membro; deixe espaco para um dedo passar sob a atadura.
+Nunca use alcool, agua oxigenada, detergente, Dettol, oleo de melaleuca
+ou oleo de eucalipto na ferida: sao toxicos se o animal lamber e atrasam
+a cicatrizacao. Nunca remova objeto perfurante; corte-o curto se necessario
+e deixe para o veterinario. Nao use pomada, antibiotico ou antiinflamatorio
+sem orientacao veterinaria. Pare e procure atendimento se aparecer pus,
+odor ruim, febre, apatia, lamber compulsivo ou ferida que aumenta.
+Sangue que encharca a gaze, membro frio ou inchado sao emergencia.
+As fontes divergem sobre o tempo de pressao: 20 segundos, 3 minutos e
+5 minutos. Use pelo menos 3 minutos e nao solte para conferir antes disso.
+Primeiros socorros nao substituem atendimento veterinario.
+
+SE NAO TIVER
+------------
+Sem soro fisiológico, use agua limpa corrente e sabao neutro para a sujeira
+visivel ao redor e agua limpa fervida e fria para a ferida.
+Se nao houver agua tratada, prepare salina caseira: 1 colher de chá rasa
+de sal em 600 mL de agua limpa morna. Nao use sal em excesso.
+Sem gaze, use pano limpo de algodao sem fiapos, lavado e seco ao sol.
+Sem atadura, use tira de pano limpo presa com nos, sem apertar.
+Nao substitua gaze por algodao solto, papel higienico ou esparadrapo
+colado direto na ferida.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O sangramento parou e a gaze de cima ficou limpa ou com pouco sangue.
+A ferida ficou coberta, sem sujeira visivel e com pelo cortado ao redor.
+A atadura esta firme, mas ainda passa um dedo por baixo.
+O animal nao consegue lamber nem arrancar o curativo.
+Os dedos ou a ponta do membro estao quentes e da mesma cor do outro lado.
+
+FONTES
+------
+Manual de primeiros socorros da AVMA (American Veterinary Medical
+Association) e Manual Veterinario Merck, versao para tutores, secao
+Wound Management e Initial Wound Management. Noes basicas de primeiros
+socorros em pequenos animais da Universidade Federal de Goias. AEC First
+Aid Booklet 2023 (Australian Emergency Center) para a salina caseira.
+Este texto e um resumo operacional e nao substitui treinamento.

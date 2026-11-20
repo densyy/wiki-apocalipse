@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 04-039
+TITULO: Como construir um circuito de iluminação LED
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: bateria de 9 V carregada, LEDs, resistores e fios
+REVISAO: 2026-11
+PALAVRAS-CHAVE: led, iluminação, circuito, bateria, resistor, luz
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma luz de LEDs com bateria para iluminar um cômodo pequeno.
+
+QUANDO USAR
+-----------
+Quando faltar energia da rede e for preciso iluminar à noite.
+Quando for preciso iluminar um abrigo, barraca ou cômodo.
+Quando houver bateria de 9 V, LEDs e resistores disponíveis.
+
+NAO USE QUANDO
+--------------
+Se a bateria estiver estufada, quente, vazando ou com cheiro forte.
+Em local com gás vazando, combustível aberto ou risco de faísca.
+Se a ideia for ligar na tomada ou na rede de 127 V ou 220 V.
+
+MATERIAIS
+---------
+- Bateria de 9 V alcalina carregada.
+- 1 a 3 LEDs de 5 mm brancos ou quentes.
+- 1 resistor de 470 ohms por LED.
+- Fios finos com pontas descascadas.
+- Interruptor simples ou garra jacaré como chave.
+- Fita isolante e base firme de papelão ou madeira.
+
+PROCEDIMENTO
+------------
+1. Trabalhe em mesa seca, com as mãos secas e a bateria desligada.
+2. Identifique o LED: perna longa é positivo e curta é negativo.
+3. Ligue uma perna do resistor à perna positiva do LED.
+4. Ligue um fio da outra ponta do resistor ao positivo da bateria.
+5. Ligue outro fio da perna negativa do LED ao negativo da bateria.
+6. Encoste as pontas por alguns segundos para testar o LED.
+7. Desligue e instale o interruptor no fio do lado positivo.
+8. Fixe bateria, fios e LEDs na base com fita isolante.
+9. Para mais luz, monte outro LED com resistor em paralelo.
+
+ATENCAO
+-------
+Nunca ligue este circuito na tomada ou na rede de 127 V ou 220 V.
+O que mata em eletricidade é a rede energizada, não esta bateria.
+Curto na bateria esquenta o fio e pode queimar a mão e a mesa.
+Se o fio esquentar ou sair cheiro, desligue tudo na hora.
+Sem resistor o LED queima na hora e pode estourar com faísca.
+
+SE NAO TIVER
+------------
+Sem resistor de 470 ohms, use outro entre 330 e 1.000 ohms.
+Sem interruptor, encoste e solte um fio para usar como chave.
+Sem solda, torça bem os fios e isole tudo com fita isolante.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O LED acende firme, sem piscar, e clareia para ler de perto.
+Os fios ficam frios ao toque depois de alguns minutos ligado.
+
+FONTES
+------
+Prática consolidada de eletrônica de baixa tensão, sem documento único.

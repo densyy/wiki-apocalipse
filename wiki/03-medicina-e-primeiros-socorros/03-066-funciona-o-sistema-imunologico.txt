@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 03-066
+TITULO: Como funciona o sistema imunológico
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 10 minutos
+RISCO: medio
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: defesa, imunidade, glóbulo branco, anticorpo, vacina, febre
+==============================================================================
+
+OBJETIVO
+--------
+Entender como o corpo se defende e reconhecer sinais de defesa ativa.
+QUANDO USAR
+-----------
+Antes de cuidar de alguém com febre, tosse ou ferimento infectado.
+Para explicar por que vacina e higiene protegem a todos.
+NAO USE QUANDO
+--------------
+Não serve para diagnosticar doença nem indicar remédio: só exame confirma.
+Não substitui vacinação, higiene nem tratamento prescrito.
+MATERIAIS
+---------
+- Nenhum material. Basta observar o próprio corpo.
+- Termômetro para medir febre (ou celular com termômetro).
+PROCEDIMENTO
+------------
+1. Entenda: o sistema imunológico é o conjunto de defesas do corpo
+   contra bactérias, vírus, fungos e parasitas.
+2. Reconheça a barreira inicial: pele e mucosas impedem a entrada.
+3. Saiba que as defesas inatas agem primeiro, rápidas e gerais.
+4. Reconheça os glóbulos brancos (leucócitos), células da defesa.
+5. Saiba que os macrófagos engolem e digerem o micróbio invasor.
+6. Entenda que o antígeno é a parte do micróbio que dispara a defesa.
+7. Saiba que a defesa adaptativa é lenta, mas específica e com memória.
+8. Reconheça os linfócitos B: fabricam anticorpos, proteínas que grudam
+   no antígeno e marcam o alvo.
+9. Reconheça os linfócitos T: matam células infectadas ou coordenam
+   a defesa.
+10. Entenda a memória: por isso algumas doenças não pegamos duas vezes.
+11. Relacione a vacina: ensina o sistema sem causar a doença.
+12. Observe febre, vermelhidão, inchaço e dor: sinais de defesa ativa.
+13. Saiba que estresse, fome e sono ruim enfraquecem as defesas.
+ATENCAO
+-------
+Texto educativo: não substitui avaliação nem tratamento médico.
+Febre alta persistente, confusão ou falta de ar são emergência: busque
+atendimento.
+Infecções frequentes, feridas abertas e emagrecimento pedem atendimento.
+Não tome antibiótico por conta própria: não age contra vírus e o abuso
+enfraquece as defesas.
+Não confie em "aumentar a imunidade" sem prova: sono, comida, higiene e
+vacina têm evidência.
+Quimioterapia, transplante e HIV baixam as defesas: redobre a higiene
+e busque orientação médica.
+SE NAO TIVER
+------------
+Sem água corrente: álcool em gel (70%) nas mãos, sem feridas.
+Sem vacina: mantenha distância de quem está doente e ventile o ambiente.
+COMO SABER QUE DEU CERTO
+------------------------
+Você explica a defesa inata e a adaptativa e cita pele, glóbulos
+brancos, anticorpos e memória como aliados.
+Você reconhece sinais de alerta e cita vacina, higiene, sono e alimentação.
+FONTES
+------
+Literatura padrão de imunologia (Manual MSD e MedlinePlus do NIH;
+orientações da OMS sobre higiene das mãos e vacinas). Resumo educativo.

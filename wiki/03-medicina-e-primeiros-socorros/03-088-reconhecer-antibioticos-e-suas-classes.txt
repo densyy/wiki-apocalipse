@@ -1,0 +1,88 @@
+==============================================================================
+CODIGO: 03-088
+TITULO: Como reconhecer antibióticos e suas classes
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 20 minutos
+RISCO: alto
+EXIGE: embalagem ou bula do remédio, luz boa para leitura
+REVISAO: 2026-11
+PALAVRAS-CHAVE: antibiótico, remédio, classe, bula, receita, infecção
+==============================================================================
+
+OBJETIVO
+--------
+Identificar se um remédio é antibiótico e de qual classe ele é.
+
+QUANDO USAR
+-----------
+Antes de guardar um remédio achado sem explicação clara.
+Para separar antibiótico de remédio de dor, febre ou alergia.
+Para conferir o que está escrito em receita ou bula antiga.
+Para organizar um estoque de remédios em casa ou abrigo.
+Para explicar a outra pessoa o que aquele remédio contém.
+
+NAO USE QUANDO
+--------------
+Não use este roteiro para escolher, iniciar ou trocar remédio.
+Antibiótico não trata gripe, resfriado, dor simples ou alergia.
+Só profissional de saúde decide se antibiótico é preciso.
+Em falta de ar, inchaço no rosto ou desmaio, busque ajuda.
+
+MATERIAIS
+---------
+- Embalagem original com rótulo legível (ou bula completa).
+- Lupa ou celular com zoom para ler letra pequena.
+- Caderno e lápis para anotar nome e validade (ou folha solta).
+- Luz boa para leitura.
+- Luvas ou saco plástico se o frasco estiver sujo.
+
+PROCEDIMENTO
+------------
+1. Lave as mãos e leia o rótulo com luz boa.
+2. Localize o princípio ativo abaixo do nome comercial.
+3. Anote nome, concentração, lote e validade no caderno.
+4. Abra a bula e ache classe ou grupo farmacológico.
+5. Confira terminações comuns sem decidir só por elas.
+6. Associe -cilina a penicilinas, como amoxicilina.
+7. Associe cef- a cefalosporinas, como cefalexina.
+8. Associe -micina a macrolídeos ou aminoglicosídeos.
+9. Associe -ciclina a tetraciclinas, como doxiciclina.
+10. Associe -floxacino e sulfa- a quinolonas e sulfas.
+11. Associe -nidazol a nitroimidazóis, como metronidazol.
+12. Guarde o remédio separado com etiqueta de antibiótico.
+13. Leve ao posto de coleta se estiver vencido ou sem rótulo.
+
+ATENCAO
+-------
+Este roteiro só identifica. Não autoriza usar ou indicar remédio.
+Dose é só conforme prescrição. Não existe dose segura de cabeça.
+Antibiótico errado não cura e pode agravar a infecção.
+Pode interagir com álcool, antiácidos, anticoagulantes e outros
+remédios de uso contínuo. Não misture por conta própria.
+Sinais de intoxicação ou alergia: coceira, manchas, inchaço de
+lábios e pálpebras, falta de ar, vômitos, diarreia forte e tontura.
+Pare e busque atendimento se surgir qualquer um desses sinais.
+Uso curto ou irregular favorece bactéria resistente e piora futura.
+Antibiótico não serve contra vírus e não previne doença.
+Guarde longe de criança, calor, umidade e misturado com outros.
+
+SE NAO TIVER
+------------
+Sem bula: não adivinhe pela caixa. Guarde separado como suspeito.
+Sem lupa: peça ajuda para ler ou fotografe com zoom e amplie.
+Sem rótulo legível: trate como desconhecido e leve para descarte.
+Sem caderno: escreva a etiqueta e cole no frasco com fita.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você diz se o produto é ou não antibiótico sem adivinhar.
+Você aponta o princípio ativo e a classe escritos na bula.
+O frasco fica etiquetado, separado e com validade anotada.
+Nenhum remédio sem rótulo fica misturado aos demais.
+
+FONTES
+------
+Prática consolidada de identificação de medicamentos
+(referências: OMS, Anvisa e Ministério da Saúde).
+Este texto é um resumo operacional e não substitui
+orientação de farmacêutico, médico ou bula oficial.

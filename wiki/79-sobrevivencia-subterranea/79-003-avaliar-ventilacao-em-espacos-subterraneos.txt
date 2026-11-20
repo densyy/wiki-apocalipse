@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 79-003
+TITULO: Como avaliar ventilação em espaços subterrâneos
+CATEGORIA: 79 - Sobrevivência subterrânea
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: fumaça de incenso ou papel, lanterna, fita, termômetro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ventilacao, corrente de ar, gas, oxigenio, abertura
+==============================================================================
+
+OBJETIVO
+---------
+Verificar se há troca de ar suficiente em uma cavidade antes de
+permanecer nela ou de nela fazer abrigo.
+
+QUANDO USAR
+-----------
+Ao chegar a uma gruta e decidir se é seguro entrar.
+Ao testar um abrigo parcialmente enterrado antes de ocupá-lo.
+Quando o ar parece abafado e a respiração fica difícil.
+Antes de armazenar alimentos ou material em espaço subterrâneo.
+
+NAO USE QUANDO
+--------------
+Não use chama aberta em cavidade com suspeita de gás inflamável.
+Não confie no teste de fumaça como prova de ar seguro: ele só
+mostra se há movimento. Não entre se o cheiro for estranho.
+
+MATERIAIS
+---------
+- Incenso, papel de seda ou pano leve para soltar fumaça.
+- Lanterna para observar a direção da fumaça.
+- Fita de pano ou barbante preso na entrada (pena ou galho).
+- Termômetro simples (ou a mão, comparando dentro e fora).
+- Caderno para anotar horário, temperatura e direção do ar.
+- Isqueiro usado só na entrada, com o rosto afastado.
+
+PROCEDIMENTO
+------------
+1. Conte as aberturas da cavidade: duas ou mais ajudam o ar.
+2. Fique na entrada e compare a temperatura com o exterior.
+3. Segure a fita leve na boca da gruta e veja se ela se move.
+4. Se a fita ficar parada, espere um minuto e observe de novo.
+5. Aproxime-se da entrada e acenda o incenso sem entrar.
+6. Solte a fumaça na altura do rosto e observe para onde vai.
+7. Fumaça que entra indica sucção; que sai indica exaustão.
+8. Repita o teste no chão: fumaça que desce e não sobe é alerta.
+9. Caminhe alguns passos e repita o teste em cada bifurcação.
+10. Anote onde a fumaça parou: ali o ar está parado.
+11. Compare: diferença de temperatura entre dentro e fora cria
+   corrente natural, que é boa ventilação.
+12. Se o ar não se move em nenhum ponto, limite a permanência.
+13. Se houver cheiro de gás, saia e não repita o teste com fogo.
+14. Registre a direção do vento no caderno para visitas futuras.
+
+ATENCAO
+-------
+Fumaça parada não significa ar puro: gases sem cheiro podem
+estar presentes. O teste mostra movimento, não composição.
+Nunca acenda fogo dentro de cavidade fechada ou suspeita.
+Fumaça de papel queima rápido e pode queimar os dedos.
+A direção do ar muda com o tempo e com a chuva: repita sempre.
+Ar frio que desce para bolsões baixos é sinal de acúmulo.
+Se alguém bocejar, sentir tontura ou ficar confuso, saiam todos.
+Em gruta com morcegos, evite ventilação forçada com motor.
+
+SE NAO TIVER
+------------
+Sem incenso, use pano leve ou galho com folhas presas na entrada.
+Sem termômetro, compare dentro e fora com o dorso da mão.
+Sem fita, observe a própria respiração e o movimento do cabelo.
+Sem nenhum teste, trate o ar como duvidoso e não permaneça.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A fita ou a fumaça se move de forma contínua na entrada.
+Há corrente que entra por um ponto e sai por outro.
+Você anotou a direção do ar e os pontos onde ele parou.
+Ninguém apresentou tontura ou falta de ar durante o teste.
+
+FONTES
+------
+Práticas de ventilação natural usadas em espeleologia e na
+construção de abrigos enterrados, resumidas de manuais de
+arquitetura bioclimática e de segurança em cavidades. O teste
+de fumaça é método tradicional; não substitui medidor de gases.

@@ -1,0 +1,83 @@
+==============================================================================
+CODIGO: 07-053
+TITULO: Como agir diante de artefatos explosivos suspeitos
+CATEGORIA: 07 - Guerra, radiação e catástrofes nucleares
+TEMPO: 15 minutos
+RISCO: critico
+EXIGE: meio de chamar a polícia (celular, rádio ou pessoa)
+REVISAO: 2026-11
+PALAVRAS-CHAVE: explosivo, bomba, suspeito, não tocar, afastar, 190
+==============================================================================
+
+OBJETIVO
+--------
+Reconheça um objeto suspeito, afaste-se sem tocá-lo e acione a autoridade.
+
+QUANDO USAR
+-----------
+Quando encontrar objeto estranho e sem dono em via pública ou terreno.
+Quando vir fios, peças eletrônicas ou cheiro estranho fora do lugar.
+Quando achar munição, granada ou restos de explosivo em área de conflito.
+Quando alguém deixar pacote ou mochila e não voltar para buscar.
+Quando receber ameaça de bomba no local onde você está.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Pare onde estiver e não dê mais nenhum passo em direção ao objeto.
+2. Não toque, não mova, não levante e não jogue nada no objeto.
+3. Observe de longe e anote formato, cor e tamanho aproximado.
+4. Note onde o objeto está e a hora em que você o viu.
+5. Vá embora pelo mesmo caminho por onde chegou, sem correr.
+6. Afaste-se até o objeto ficar fora de vista.
+7. Coloque um obstáculo sólido entre você e o objeto.
+8. Impeça que outras pessoas se aproximem sem encostar no objeto.
+9. Avise o responsável do local, um vizinho ou um agente de segurança.
+10. Ligue 190 e informe o que viu, o local e a hora.
+11. Se não houver telefone, peça a outra pessoa que avise a polícia.
+12. Não use rádio ou celular perto do objeto; afaste-se antes de ligar.
+13. Espere a equipe especializada chegar, mantendo as pessoas afastadas.
+
+ATENCAO
+-------
+Um artefato pode explodir com qualquer toque, movimento ou impacto.
+Objeto velho ou enferrujado pode ser mais instável, não mais seguro.
+Fios, baterias ou peças eletrônicas podem indicar artefato improvisado.
+Nunca leve o objeto para casa, para o carro ou para mostrar a alguém.
+Nunca tente desmontar, limpar, molhar ou desarmar o artefato.
+A distância segura depende do artefato: sem equipe, afaste-se o máximo.
+Pode haver mais de um artefato; não suponha que este seja o único.
+Se algo estiver queimando perto do objeto, não tente apagar.
+Este texto não ensina a neutralizar; isso cabe só à equipe antibombas.
+Pare qualquer contato e chame a polícia ao menor sinal de suspeita.
+Se houver feridos, atenda longe do objeto e peça socorro médico.
+
+SE NAO TIVER
+------------
+Sem celular, mande alguém avisar a polícia ou um posto próximo.
+Sem fita, use chapéu, pano ou galho para marcar a área de longe.
+Não improvise ferramenta para remover o objeto; isso aumenta o risco.
+Sem cobertura, aumente a distância em vez de se esconder atrás de vidro.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você não vê mais o objeto de perto e está atrás de cobertura.
+Nenhuma pessoa ficou perto do objeto.
+O objeto continua no lugar, sem que ninguém tenha mexido.
+Você informou local, hora e descrição ao atendente.
+A polícia ou a equipe antibombas confirmou o aviso.
+
+FONTES
+------
+Programa 3Rs de segurança contra explosivos, do DENIX (Defesa dos EUA).
+Orientação sobre itens suspeitos da CISA, agência de segurança dos EUA.
+Orientação do Ministério da Defesa do Canadá sobre munições não detonadas.
+Orientação da Polícia Militar do Brasil: não tocar, isolar e ligar 190.
+Doutrina do Exército Brasileiro sobre artefatos explosivos.

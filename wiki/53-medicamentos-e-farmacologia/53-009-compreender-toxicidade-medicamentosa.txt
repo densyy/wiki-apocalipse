@@ -1,0 +1,83 @@
+==============================================================================
+CODIGO: 53-009
+TITULO: Como compreender toxicidade medicamentosa
+CATEGORIA: 53 - Produção de medicamentos e farmacologia
+TEMPO: 35 minutos
+RISCO: medio
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: toxicidade, intoxicação, overdose, dose, antídoto, risco
+==============================================================================
+
+OBJETIVO
+--------
+Entender o que é toxicidade, como ela aparece e o que fazer diante dela.
+
+QUANDO USAR
+-----------
+Ao notar sonolência, náusea ou confusão depois de tomar um remédio.
+Ao suspeitar de dose dupla, de mistura com álcool ou de erro de horário.
+Ao cuidar de criança, idoso ou pessoa com doença renal ou hepática.
+Ao ler a bula e entender os avisos de superdose.
+Ao organizar o armário de remédios de casa com mais segurança.
+
+NAO USE QUANDO
+--------------
+Não use para escolher remédio, dose ou tratamento.
+Não substitui bula, prescrição nem orientação do farmacêutico.
+Não serve para calcular dose, preparar antídoto ou provocar vômito.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Defina toxicidade: dano causado por quantidade excessiva de fármaco.
+2. Compare com reação adversa: ela ocorre na dose normal, sem excesso.
+3. Entenda a margem terapêutica: faixa entre dose útil e dose tóxica.
+4. Separe as formas: aguda, após uma dose; crônica, após acúmulo.
+5. Identifique as causas: dose dupla, erro de horário ou automedicação.
+6. Inclua interações: álcool e outros remédios podem somar efeitos.
+7. Inclua acúmulo: rim ou fígado doente eliminam e metabolizam menos.
+8. Observe os sinais gerais: náusea, vômito, tontura e sonolência.
+9. Note o sinal do paracetamol: enjoo e dor na parte alta do abdome.
+10. Note o sinal do opioide: sonolência e respiração lenta ou rasa.
+11. Note o sinal anticolinérgico: boca seca, pele quente e confusão.
+12. Note o sinal do salicilato: zumbido e respiração acelerada.
+13. Lembre que o dano pode demorar: o fígado reage horas depois.
+14. Pare o remédio suspeito e anote nome, hora e quantidade ingerida.
+15. Ligue para emergência ou para o centro de informação toxicológica.
+16. Deite a pessoa de lado se ela perder a consciência, para não engasgar.
+17. Leve a embalagem, a bula e a lista de remédios ao atendimento.
+
+ATENCAO
+-------
+Este texto ensina a reconhecer, não a tratar a intoxicação.
+Nunca provoque vômito sem orientação: pode asfixiar ou queimar a garganta.
+Não dê comida, bebida, carvão ou antídoto por conta própria.
+Sonolência profunda, convulsão ou falta de ar pedem emergência imediata.
+Não calcule dose infantil de memória: use só a bula e o prescritor.
+Crianças e idosos sentem efeito com menos quantidade de remédio.
+Não misture remédio com álcool: o efeito pode ser imprevisível.
+
+SE NAO TIVER
+------------
+Sem bula, anote o nome impresso na embalagem do remédio.
+Sem centro de toxicologia perto, procure a unidade de saúde mais próxima.
+Sem saber qual remédio foi tomado, leve os frascos encontrados.
+Não troque atendimento por chá, leite ou repouso se houver gravidade.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue explicar a diferença entre reação adversa e toxicidade.
+Você sabe citar três sinais que pedem ajuda imediata.
+Você consegue listar o que fazer e o que não fazer diante de uma suspeita.
+
+FONTES
+------
+OMS, 5 Momentos para a Medicação Segura, de 2019.
+Anvisa, VigiMed, e guia da OMS e OPAS sobre segurança de medicamentos.
+Ministério da Saúde, orientações sobre intoxicações medicamentosas.
+StatPearls, NCBI Bookshelf: Acetaminophen, Opioid e Benzodiazepine Toxicity.
+Resumo educativo; não substitui bula, prescrição nem atendimento clínico.

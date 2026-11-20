@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 03-098
+TITULO: Como prevenir infecções respiratórias
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 20 minutos
+RISCO: medio
+EXIGE: agua, sabao, pano limpo, mascara ou pano para cobrir
+REVISAO: 2026-11
+PALAVRAS-CHAVE: gripe, resfriado, tosse, mascara, higiene, ventilacao
+==============================================================================
+
+OBJETIVO
+--------
+Reduzir o risco de pegar e espalhar gripes e resfriados no abrigo.
+
+QUANDO USAR
+-----------
+Quando muitas pessoas dormem no mesmo comodo.
+Quando alguem esta tossindo, espirrando ou com febre.
+Quando o ar fica parado, sem ventilacao.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+Ele nao substitui o tratamento de quem ja esta doente.
+
+MATERIAIS
+---------
+- Agua e sabao (ou cinza peneirada e agua).
+- Pano limpo ou mascara simples.
+- Copo, prato e talher de uso individual.
+- Pano umido para limpar piso e mesa.
+
+PROCEDIMENTO
+------------
+1. Lave as maos com agua e sabao varias vezes ao dia.
+2. Cubra tosse e espirro com o braco ou pano limpo.
+3. Use mascara ou pano limpo ao cuidar de doente.
+4. Abra portas e janelas todos os dias para ventilar.
+5. Separe a cama de quem tosse ou tem febre.
+6. Marque copo, prato e talher para cada pessoa.
+7. Limpe piso e mesa com pano umido todos os dias.
+8. Lave panos, mascaras e roupa de cama com frequencia.
+
+ATENCAO
+-------
+Prevencao reduz o risco, mas nao impede toda infeccao.
+Este cuidado nao cura gripe, pneumonia nem covid-19.
+O erro que mais espalha doenca e dividir copo e dormir junto.
+Troque pano e mascara quando umidecerem ou sujarem.
+Procure atendimento se houver falta de ar, febre alta que nao
+cede, dor no peito, confusao ou tosse com sangue.
+
+SE NAO TIVER
+------------
+Sem sabao: lave as maos com cinza peneirada e agua.
+Sem mascara: use pano limpo dobrado e troque com frequencia.
+Sem comodo extra: pendure pano para separar as camas.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ninguem divide copo, prato ou talher.
+O comodo ventila todos os dias, sem poeira acumulada.
+
+FONTES
+------
+Pratica consolidada de saude publica (referencias: OMS e
+Ministerio da Saude do Brasil). Resumo operacional, sem
+substituir orientacao profissional de saude.

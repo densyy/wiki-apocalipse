@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 57-004
+TITULO: Como compreender o ponto de orvalho
+CATEGORIA: 57 - Refrigeração, climatização e conforto
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: pote metálico, água, gelo, termômetro, carta psicrométrica
+REVISAO: 2026-11
+PALAVRAS-CHAVE: orvalho, ponto de orvalho, umidade, condensação, abafado
+==============================================================================
+
+OBJETIVO
+--------
+Entender o ponto de orvalho, temperatura em que o ar satura e começa a
+formar água, para prever condensação e desconforto.
+
+QUANDO USAR
+-----------
+Quando o ar parece abafado e falta saber se é calor ou umidade.
+Quando vidros e paredes frias suam por dentro.
+Ao guardar grãos, papel ou ferramentas em local fechado.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Pote ou lata de metal limpa (garrafa de vidro, se não houver).
+- Água em temperatura ambiente, gelo e termômetro comum.
+- Carta ou tabela psicrométrica impressa da região.
+
+PROCEDIMENTO
+------------
+1. Meça o ar na sombra, longe do pote, e anote a temperatura.
+2. Encha o pote com água em temperatura ambiente.
+3. Acrescente gelo aos poucos e mexa para igualar a temperatura.
+4. Observe a parede externa a cada acrescento de gelo.
+5. Meça a água quando a parede ficar opaca e úmida.
+6. Anote o valor: é o ponto do orvalho, aproximadamente.
+7. Compare com o ar. O orvalho nunca passa da temperatura do ar.
+8. A água aparece em toda superfície mais fria que esse valor.
+9. Quanto maior a diferença ar-orvalho, mais seco está o ar.
+10. Regra prática: 1 grau de diferença vale aproximadamente 5 pontos.
+11. Para conferir na carta, meça bulbo seco e úmido; veja 57-001.
+
+ATENCAO
+-------
+O método lê a água, não a parede; o valor é aproximado.
+A regra dos 5 pontos vale quando a umidade passa de 50 por cento.
+Umidade alta não quer dizer muita água: ar quente comporta mais vapor.
+Orvalho abaixo de aproximadamente 13 graus: seco; acima de 18: opressivo.
+Se o valor passar do ar, meça de novo. Com tontura, pare e busque ajuda.
+
+SE NAO TIVER
+------------
+Sem gelo, troque a água por água corrente bem fria.
+Sem pote de metal, use vidro limpo; o orvalho demora mais a aparecer.
+Sem termômetro, observe só se a parede embaça: não dá para dar o número.
+Sem carta, fique com a leitura do pote e a regra dos 5 pontos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A parede ficou opaca e úmida de uma vez, em temperatura estável.
+O valor anotado ficou menor ou igual ao da temperatura do ar na sombra.
+
+FONTES
+------
+"Dew Point vs. Humidity" e "Dew Point", da NOAA/NWS; manual ASHRAE.
+Artigo de Lawrence, Boletim da Sociedade Americana de Meteorologia, 2005.

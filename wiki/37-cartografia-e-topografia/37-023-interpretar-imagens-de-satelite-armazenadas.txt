@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 37-023
+TITULO: Como interpretar imagens de satélite armazenadas offline
+CATEGORIA: 37 - Cartografia, topografia e levantamento
+TEMPO: 40 minutos
+RISCO: baixo
+EXIGE: imagem já salva, visualizador de imagens, caderno, lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: satélite, imagem, mapa, foto aérea, offline, escala, norte
+==============================================================================
+
+OBJETIVO
+--------
+Ler água, vegetação, relevo e rotas em imagem salva, sem internet.
+
+QUANDO USAR
+-----------
+Quando a conexão cair e restar só a imagem baixada antes.
+Para planejar a rota com a imagem salva no celular, antes de sair.
+
+NAO USE QUANDO
+--------------
+Quando a imagem estiver desatualizada: ela mostra o passado, não o agora.
+Quando nuvem ou fumaça cobrir o solo: não se vê o que há embaixo.
+
+MATERIAIS
+---------
+- Imagem de satélite já salva no aparelho (cópia em papel, se houver).
+- Visualizador de imagens do aparelho (app de fotos).
+- Caderno e lápis (papel e graveto).
+
+PROCEDIMENTO
+------------
+1. Abra a imagem salva no aparelho, sem usar internet.
+2. Procure a barra de escala na borda e anote o valor dela.
+3. Procure a seta do norte na borda da imagem.
+4. Se não houver seta, anote que a orientação é desconhecida.
+5. Cor verdadeira: a que se vê a olho nu; água escura, mata verde.
+6. Se a mata aparecer vermelha, é falsa cor: leia a legenda antes de agir.
+7. Marque a água: manchas lisas e escuras, de bordas irregulares ou retas.
+8. Marque a mata: verde mais escuro indica vegetação mais densa.
+9. Marque o relevo: encosta clara de um lado, sombra escura do outro.
+10. Sombra longa indica encosta íngreme; sombra curta indica terreno plano.
+11. Marque caminhos: linhas claras que cortam a mata.
+12. Meça cada trecho com a barra de escala e anote a distância aproximada.
+13. Confira no terreno cada marca antes de agir sobre ela.
+
+ATENCAO
+-------
+A imagem mostra o que existia na data da captura, não o estado de agora.
+Nuvem, fumaça e poeira escondem o solo; não adivinhe o que está embaixo.
+Sem seta do norte ou escala, a imagem serve para ideia geral, não para rumo.
+Água escura pode ser lama, sombra ou asfalto molhado; confirme no terreno.
+Caminho visível pode estar fechado ou alagado; não mostra cerca.
+
+SE NAO TIVER
+------------
+Sem visualizador, use o app de fotos e amplie com os dedos.
+Sem barra de escala, compare com algo conhecido e marque como aproximado.
+Sem seta, não use a imagem para escolher rumo; procure mapa de papel.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você apontou na imagem, sem internet, água, caminho e sombra.
+
+FONTES
+------
+NASA Earth Observatory, "Why is that Forest Red and that Cloud Blue?"
+(14/03/2014, revisado em 08/12/2025). Prática consolidada
+de leitura de mapas: escala, norte e sombra.

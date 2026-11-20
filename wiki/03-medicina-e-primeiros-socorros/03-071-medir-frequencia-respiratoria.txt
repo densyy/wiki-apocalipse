@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 03-071
+TITULO: Como medir frequência respiratória
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 2 minutos
+RISCO: medio
+EXIGE: relógio com ponteiro de segundos ou celular com cronômetro, repouso
+REVISAO: 2026-11
+PALAVRAS-CHAVE: respiração, irpm, contar respirações, sinais vitais
+==============================================================================
+
+OBJETIVO
+--------
+Obter a frequência respiratória contando as respirações em um minuto.
+
+QUANDO USAR
+-----------
+Ao avaliar uma pessoa doente ou ferida e registrar os sinais vitais.
+Ao acompanhar febre, tosse, falta de ar ou respiração muito rápida.
+Ao monitorar crise de asma ou suspeita de pneumonia antes do atendimento.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para este procedimento.
+Não use o número com a pessoa agitada ou falando: repita em repouso.
+
+MATERIAIS
+---------
+- Relógio ou celular com cronômetro (ou qualquer marcador de 60 segundos).
+- Lugar com luz para ver o peito subir (ou lanterna fraca).
+
+PROCEDIMENTO
+------------
+1. Deite ou sente a pessoa em lugar tranquilo; espere cerca de 1 minuto.
+2. Explique que você vai observar a respiração, sem pedir mudanças.
+3. Coloque-se de lado ou de frente, perto o suficiente para ver o peito.
+4. Ajuste o cronômetro para 60 segundos.
+5. Inicie a contagem no instante em que o peito começa a subir.
+6. Conte cada subida do peito como uma respiração, não os suspiros.
+7. Pare ao completar 60 segundos e anote o total de respirações.
+8. Repita a contagem uma segunda vez e anote o segundo número.
+
+ATENCAO
+-------
+Esforço, febre, dor e ansiedade mudam a contagem: meça em repouso.
+Em repouso, o valor adulto fica aproximadamente entre 12 e 20;
+a faixa exata varia um pouco conforme a fonte consultada.
+Contar 30 segundos e dobrar é menos confiável: conte o minuto inteiro.
+Não atrase manobra de emergência para terminar a contagem.
+Acima de aproximadamente 20 ou abaixo de 12, com falta de ar, lábios
+arroxeados ou confusão, procure atendimento; o número não diagnostica.
+
+SE NAO TIVER
+------------
+Sem celular ou relógio, use qualquer marcador de 60 segundos,
+como relógio de parede, micro-ondas ou ampulheta.
+Sem marcador de tempo, espere conseguir um e repita a medição.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você contou um número inteiro de subidas em 60 segundos cronometrados.
+Duas contagens seguidas deram valores próximos, com diferença pequena.
+
+FONTES
+------
+Estudo revisado por pares: Simoes EA e cols., "Respiratory rate:
+measurement of variability over time and accuracy at different
+counting periods", Archives of Disease in Childhood, 1991 (PMC1793530).
+Faixa: Ganong's Review of Medical Physiology, 24a ed., 2012 (citada).
+Prática consolidada de medição de sinais vitais, sem documento único.

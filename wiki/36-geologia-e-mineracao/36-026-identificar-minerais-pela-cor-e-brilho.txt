@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 36-026
+TITULO: Como identificar minerais pela cor e brilho
+CATEGORIA: 36 - Geologia, mineração e recursos naturais
+TEMPO: 20 minutos
+RISCO: baixo
+EXIGE: boa luz, lupa, placa de porcelana sem esmalte
+REVISAO: 2026-11
+PALAVRAS-CHAVE: mineral, cor, brilho, riscado, pirita, ouro, dureza
+==============================================================================
+
+OBJETIVO
+--------
+Descrever cor, brilho e riscado para identificar um mineral.
+
+QUANDO USAR
+-----------
+Encontrou uma amostra sem etiqueta durante coleta de campo.
+Suspeita que pirita esteja sendo confundida com ouro.
+
+NAO USE QUANDO
+--------------
+Quando a identificacao depender de dureza, densidade ou prova quimica.
+Cor e brilho sozinhos nao nomeiam um mineral com seguranca.
+Quando for manusear mineral toxico suspeito sem protecao.
+
+MATERIAIS
+---------
+- Luz forte e pano seco para limpar a amostra.
+- Lupa simples (ou os olhos); papel e lapis para anotar.
+- Placa de porcelana sem esmalte para riscar.
+
+PROCEDIMENTO
+------------
+1. Limpe a amostra com o pano seco para retirar po e terra.
+2. Coloque a amostra sob luz forte, de preferencia luz do dia.
+3. Observe, anote a cor e gire a amostra sob a luz.
+4. Classifique o brilho em metalico ou nao metalico.
+5. Metalico: opaco, reflete como metal ate no po.
+6. Nao metalico: vitreo (vidro), fosco (terra), sedoso (fibra).
+7. Outros: nacarado (perola) e adamantino (diamante).
+8. Escolha face sem oxido, sem alteracao e sem sujeira.
+9. Riske a face na placa sem esmalte; o teste marca a amostra.
+10. Observe a cor do risco deixado: esse e o riscado.
+11. Repita em cada amostra e anote cor, brilho e riscado.
+
+ATENCAO
+-------
+A cor e a propriedade mais enganosa: impurezas e alteracao a mudam.
+O mesmo mineral pode ser branco, rosa ou roxo, como o quartzo.
+Brilho metalico opaco nao prova que a amostra seja ouro ou prata.
+Pirita e confundida com ouro: o riscado e verde-escuro, nao amarelo.
+Nao lamba, nao prove e nao inale po de mineral desconhecido.
+Galena tem chumbo e cinabrio tem mercurio: evite o po.
+
+SE NAO TIVER
+------------
+Sem placa de porcelana, use o verso de prato de louca sem esmalte.
+Sem lupa, use luz solar forte. Se nao riscar, nao force a amostra.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Voce consegue descrever a cor, o brilho e a cor do riscado.
+Duas amostras da mesma cor podem ter riscados diferentes.
+
+FONTES
+------
+Pratica consolidada de identificacao visual de minerais em campo e
+laboratorio (USGS e manuais de mineralogia). Resumo operacional,
+nao substitui treinamento.

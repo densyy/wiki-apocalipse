@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 16-025
+TITULO: Como reparar pneus em situações emergenciais
+CATEGORIA: 16 - Transporte e mobilidade
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: estepe ou kit de vedante, macaco, chave de rodas, triângulo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: pneu furado, estepe, macaco, vedante, pressão, emergência
+==============================================================================
+
+OBJETIVO
+--------
+Deixar o carro apto a sair com segurança após um furo.
+
+QUANDO USAR
+-----------
+Quando o pneu perde pressão e o carro precisa sair do lugar.
+Quando não há oficina, borracheiro ou socorro por perto.
+Quando o veículo está em via com tráfego e precisa sair da faixa.
+Quando o furo é pequeno e fica na banda de rodagem, não na lateral.
+
+NAO USE QUANDO
+--------------
+Quando o furo estiver na lateral do pneu ou na borda da roda.
+Quando a lateral estiver rasgada, aberta ou com bolha.
+Quando a roda estiver torta ou o pneu tiver saído do aro.
+Quando o vazamento for rápido e o pneu esvaziar em segundos.
+Quando houver cheiro de combustível, fumaça ou fogo no carro.
+Quando o local for curva, túnel ou ponte sem acostamento.
+
+MATERIAIS
+---------
+- Estepe inflado ou kit de vedante com compressor.
+- Macaco manual compatível com o peso do carro.
+- Chave de rodas (chave para as porcas da roda).
+- Triângulo refletivo (ou pisca-alerta).
+- Calço de madeira ou pedra grande.
+- Luvas de trabalho.
+- Lanterna ou luz de emergência.
+- Medidor de pressão (ou manômetro do compressor).
+
+PROCEDIMENTO
+------------
+1. Pare o carro no acostamento ou em lugar plano e firme.
+2. Acione o freio de estacionamento e engate a marcha ou o P.
+3. Desligue o motor e retire a chave da ignição.
+4. Acione o pisca-alerta e coloque o triângulo a cerca de 30 passos atrás.
+5. Calce a roda oposta ao pneu furado com pedra ou madeira.
+6. Retire o estepe e confira se ele está inflado.
+7. Afrouxe as porcas da roda furada sem retirá-las.
+8. Posicione o macaco no ponto indicado pelo fabricante.
+9. Levante o carro até a roda furada sair alguns centímetros do solo.
+10. Retire as porcas e guarde-as dentro do carro.
+11. Retire a roda furada e encaixe o estepe no lugar.
+12. Aperte as porcas com a mão em ordem cruzada (diagonal).
+13. Baixe o carro com o macaco e retire o macaco debaixo do carro.
+14. Aperte as porcas com a chave em ordem cruzada, sem excesso de força.
+15. Meça a pressão do estepe e ajuste conforme o manual do veículo.
+16. Guarde a roda furada, o macaco e as ferramentas no carro.
+17. Retire o triângulo com cuidado e guarde-o no carro.
+18. Dirija até um borracheiro em velocidade moderada e sem frear brusco.
+
+ATENCAO
+-------
+Um pneu em má condição pode estourar e causar perda de controle.
+Nunca entre embaixo do carro apoiado apenas no macaco.
+O macaco pode escorregar em solo mole, inclinado ou com cascalho.
+Apertar demais as porcas pode danificar a roda e os parafusos.
+Kit de vedante é temporário e não substitui o reparo definitivo.
+Não use vedante em furo na lateral, corte grande ou pneu sem pressão.
+Estepe temporário não serve para longa distância nem alta velocidade.
+Se o carro vibrar ou puxar para um lado, pare em lugar seguro.
+Se o pneu esvaziar de novo, pare e peça socorro.
+Em via movimentada, saia da faixa antes de qualquer reparo.
+Se não puder sair, acione o pisca-alerta e peça ajuda.
+
+SE NAO TIVER
+------------
+Sem estepe, use o kit de vedante só em furo pequeno na banda de rodagem.
+Sem macaco, peça reboque; não improvise com tijolos ou troncos.
+Sem triângulo, use o pisca-alerta e afaste o carro da faixa.
+Sem compressor, procure ar comprimido em posto ou bomba manual.
+Sem recurso algum, saia do carro e espere ajuda em lugar seguro.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A roda está firme, sem folga, e as porcas foram apertadas em cruz.
+O medidor mostra a pressão indicada no manual do veículo.
+O carro roda sem vibrar e sem puxar para um dos lados.
+A luz de pressão dos pneus, se houver, apagou após alguns minutos.
+
+FONTES
+------
+Prática consolidada de troca de pneu e reparo de emergência,
+sem documento único.
+Orientações da Campanha Nacional Ready (FEMA/DHS, EUA) sobre
+kit do carro e parada de emergência.
+Manual FM 21-76/MCRP 3-02F do Exército e do Corpo de Fuzileiros
+Navais dos EUA, sobre preparação de veículos para emergência.

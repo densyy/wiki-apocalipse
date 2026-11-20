@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 12-024
+TITULO: Como manter registros contábeis manualmente
+CATEGORIA: 12 - Economia, comércio e organização financeira
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: caderno, lápis, caneta, régua, saco plástico
+REVISAO: 2026-11
+PALAVRAS-CHAVE: contabilidade, registros, caderno, diário, razão, anotações
+==============================================================================
+
+OBJETIVO
+--------
+Registre entradas, saídas e dívidas no caderno, sem internet ou programa.
+
+QUANDO USAR
+-----------
+Quando o sistema bancário e as ferramentas digitais falharem.
+Quando trocar produtos ou serviços e precisar lembrar quem deve o quê.
+Quando administrar recursos de um grupo ou de uma despensa comum.
+
+NAO USE QUANDO
+--------------
+Sem como manter o caderno seco: papel molhado apaga os registros.
+
+MATERIAIS
+---------
+- Caderno com pelo menos 40 folhas (ou folhas amarradas com barbante).
+- Lápis, caneta e régua (o lápis não borra com umidade).
+- Saco plástico ou lona para proteger o caderno da umidade.
+
+PROCEDIMENTO
+------------
+1. Reserve um caderno só para as contas; não o use para outros fins.
+2. Escreva na primeira folha o mês e quem responde pelos registros.
+3. Trace quatro colunas: data, descrição, entradas e saídas.
+4. Abra o diário e anote no dia: data, troca, quem entregou e quem recebeu.
+5. Lance o valor na coluna de entradas ou na de saídas, nunca nas duas.
+6. Some entradas e saídas, anote o total e transporte-o à folha seguinte.
+7. Abra o razão: uma página para cada pessoa ou produto.
+8. Anote em cada página o que a pessoa deu, recebeu e o saldo.
+9. Circule a dívida aberta; risque ao anotar a data do pagamento.
+10. Faça o fluxo de caixa: o que entrou menos o que saiu no mês.
+11. Some o saldo de cada pessoa: deve fechar com o total do diário.
+
+ATENCAO
+-------
+Registro atrasado vira esquecimento: anote no momento da troca.
+Nunca apague erro; risque uma linha, escreva a correção ao lado e date.
+Se o razão não fechar com o diário, pare e releia antes de confiar.
+Papel molhado ou queimado apaga tudo: mantenha o caderno no saco.
+Não anote nomes de pessoas vulneráveis nem esconderijos no caderno.
+Este procedimento não substitui a escrituração fiscal oficial.
+
+SE NAO TIVER
+------------
+Sem caderno, use folhas numeradas e amarre com barbante.
+Sem lápis, use carvão em papel áspero; reforce os traços.
+Sem régua, dobre a folha para marcar as colunas.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada troca do dia aparece no diário, com data e descrição.
+Entradas menos saídas na última folha repetem o total da anterior.
+O saldo de cada pessoa bate com a última anotação do diário.
+
+FONTES
+------
+Prática consolidada de escrituração: diário, razão e fluxo de caixa.
+Nenhuma fonte institucional consultada; a conferência depende do caderno.

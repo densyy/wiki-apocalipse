@@ -1,0 +1,85 @@
+==============================================================================
+CODIGO: 03-046
+TITULO: Como reconhecer malária
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 10 minutos
+RISCO: critico
+EXIGE: boa luz, termômetro, relógio ou celular, papel e lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: malária, febre, calafrios, sudorese, maleita, mosquito
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer os sinais da malária e decidir quando procurar atendimento.
+
+QUANDO USAR
+-----------
+Febre com calafrios e suor em quem vive ou esteve na Amazônia.
+Febre que volta depois de alguns dias, com suor e calafrios.
+Febre em criança pequena, gestante ou viajante voltado de área de malária.
+Febre sem causa clara depois de picadas de mosquito à noite.
+Pessoa com febre e urina escura, olhos amarelados ou confusão.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para observar os sinais.
+Não use este guia para dispensar exame de sangue: só o teste confirma.
+
+MATERIAIS
+---------
+- Luz suficiente para observar a pele e os olhos (luz natural ou lanterna).
+- Termômetro para medir a febre (ou mão na testa, sem precisão).
+- Relógio ou celular para anotar os horários.
+- Papel e lápis para anotar os sinais (opcional).
+
+PROCEDIMENTO
+------------
+1. Pergunte há quantos dias a febre começou.
+2. Pergunte se houve picada de mosquito à noite ou ao amanhecer.
+3. Pergunte se a pessoa esteve na Amazônia ou em área de malária.
+4. Meça a febre com termômetro, se houver.
+5. Observe se há calafrios: tremor e dentes batendo, mesmo com calor.
+6. Observe sudorese: suor intenso depois da febre, com roupa encharcada.
+7. Pergunte se há dor de cabeça e dor no corpo.
+8. Pergunte se houve náusea, vômito, cansaço ou falta de apetite.
+9. Observe os olhos e a pele: amarelados indicam risco (icterícia).
+10. Observe a urina: escura ou com sangue é sinal de gravidade.
+11. Veja se há confusão, sonolência extrema ou convulsão.
+12. Veja se há dificuldade para respirar ou sangramento incomum.
+13. Anote os sinais, os horários e a temperatura.
+14. Trate como suspeita de malária se houver febre e calafrios.
+15. Procure atendimento de saúde no mesmo dia para fazer o teste.
+
+ATENCAO
+-------
+Febre com calafrios não é sempre malária: dengue, gripe e outras
+infecções podem causar o mesmo quadro. Só o exame de sangue confirma.
+A malária pode matar em poucas horas se não for tratada, principalmente
+a causada por Plasmodium falciparum. Não espere o quadro "clássico".
+Criança pequena, gestante, idoso e pessoa com HIV pioram mais rápido.
+Urina escura, olhos amarelados, confusão, convulsão ou falta de ar são
+sinais de malária grave: procure emergência na hora.
+Não tome remédio de farmácia sem diagnóstico; o tratamento depende da
+espécie do parasito e de exame.
+Este texto só orienta o reconhecimento; não substitui atendimento.
+
+SE NAO TIVER
+------------
+- Sem termômetro: observe suor, calafrios e a testa da pessoa.
+- Sem relógio: anote apenas a ordem dos sinais: febre, calafrio, suor.
+- Sem papel: memorize os sinais e há quantos dias começaram.
+- Sem luz natural: aproxime uma lanterna dos olhos e da pele.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue dizer há quantos dias começou a febre e os sinais vistos.
+Você identificou sinais de gravidade, se estavam presentes.
+Você decidiu procurar atendimento no mesmo dia para fazer o teste.
+
+FONTES
+------
+Ministério da Saúde do Brasil: malária — sintomas, transmissão e
+quadro grave; manual de vigilância da malária. Organização Mundial da
+Saúde (OMS): ficha informativa sobre malária — sintomas, início após
+10 a 15 dias da picada, progressão para grave e necessidade de teste.

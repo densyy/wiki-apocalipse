@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 09-058
+TITULO: Como converter documentos digitais em formatos duráveis
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: computador, editor de textos, disco ou pendrive de armazenamento
+REVISAO: 2026-11
+PALAVRAS-CHAVE: documento, formato, durável, pdf, texto, csv, tiff, cópia
+==============================================================================
+
+OBJETIVO
+--------
+Transforme arquivos em formatos abertos, legíveis anos depois.
+
+QUANDO USAR
+-----------
+Quando um documento importante depende de um programa pago ou raro.
+Quando você precisa guardar registros por muito tempo sem internet.
+Quando o arquivo pode ser aberto em outro computador ou celular.
+
+NAO USE QUANDO
+--------------
+Quando o arquivo é a única via de um documento legal: guarde o original
+e converta somente uma cópia.
+
+MATERIAIS
+---------
+- Editor de textos ou pacote de escritório (LibreOffice, gratuito).
+- Disco externo, pendrive ou cartão de memória para as cópias.
+- Papel e lápis para anotar formatos e data.
+
+PROCEDIMENTO
+------------
+1. Copie todos os arquivos antes de converter qualquer um deles.
+2. Anote no papel o formato atual e o de destino de cada arquivo.
+3. Abra o arquivo no programa que o criou e escolha Salvar como.
+4. Escolha o destino: .txt para texto, PDF/A para documento final, CSV,
+   TIFF para imagem e WAV para áudio; evite formatos de um só fabricante.
+5. Salve a cópia em pasta separada, sem apagar o original.
+6. Abra o convertido e confira se texto e imagens aparecem.
+7. Confira se o texto é selecionável e se os acentos estão certos.
+8. Se faltar texto ou aparecerem caracteres estranhos, refaça.
+9. Anote a data e os formatos e grave duas cópias em meios distintos.
+10. Regrave em meio novo aproximadamente uma vez por ano.
+
+ATENCAO
+-------
+A conversão pode perder formatação, links ou acentos; confira o resultado.
+Nunca apague o original antes de conferir a cópia convertida.
+Arquivo convertido não prova autenticidade: preserve o original.
+Formatos de arquivo podem sair com erros visuais; inspecione sempre.
+Se o documento for único, pare e faça duas cópias antes de converter.
+
+SE NAO TIVER
+------------
+Sem PDF/A, use PDF comum com fontes incorporadas e salve também em .txt.
+Sem pacote de escritório, use o comando Salvar do próprio programa.
+Sem pendrive, use outro meio; o essencial são duas cópias distintas.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O convertido abre em outro aparelho sem instalar programa novo.
+O texto é selecionável e os acentos são legíveis.
+
+FONTES
+------
+Prática consolidada de preservação digital: formatos recomendados por
+bibliotecas e arquivos nacionais; padrão ISO 19005 (PDF/A); OpenDocument.

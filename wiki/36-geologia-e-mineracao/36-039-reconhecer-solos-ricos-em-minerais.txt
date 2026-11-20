@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 36-039
+TITULO: Como reconhecer solos ricos em minerais
+CATEGORIA: 36 - Geologia, mineração e recursos naturais
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: pá pequena, luvas, peneira, bandeja, ímã, caderno
+REVISAO: 2026-11
+PALAVRAS-CHAVE: solo, minerais, laterita, óxidos de ferro, prospecção, cor
+==============================================================================
+
+OBJETIVO
+--------
+Identificar sinais visíveis de solos com concentração incomum de minerais.
+
+QUANDO USAR
+-----------
+Ao prospectar terreno novo sem mapa geológico.
+Ao escolher ponto para poço, corte de terra ou lavoura.
+Ao suspeitar de minério em solo vermelho ou amarelado.
+
+NAO USE QUANDO
+--------------
+Em área industrial, de aterro ou mineração ativa: a cor pode vir de
+poluição, não de mineral natural; cheiro de óleo ou solvente também.
+Para decidir compra, venda ou extração: a cor não prova o teor do minério.
+
+MATERIAIS
+---------
+- Pá pequena ou enxadeta.
+- Luvas e peneira grossa (tela ou pano firme).
+- Bandeja rasa e ímã comum envolto em plástico.
+- Caderno, lápis e frasco com tampa para a amostra.
+
+PROCEDIMENTO
+------------
+1. Escolha ponto alto e plano, longe de estrada e descarte de lixo.
+2. Retire folhas e raízes até aparecer terra mineral.
+3. Cave buraco de aproximadamente 60 cm de profundidade e 40 cm de largura.
+4. Anote a cor e a espessura de cada camada na parede do buraco.
+5. Anote a cor e a profundidade da camada mais vermelha ou amarela.
+6. Retire uma porção dessa camada e coloque na bandeja.
+7. Esfregue com luvas e observe se os dedos mancham de vermelho.
+8. Procure grãos redondos e duros, menores que uma ervilha: concreções.
+9. Passe o ímã na amostra seca e veja se algum grão gruda.
+10. Lave outra porção na bandeja; grãos escuros e pesados ficam no fundo.
+11. Guarde uma porção no frasco com rótulo de local e data.
+
+ATENCAO
+-------
+Cor vermelha ou amarela indica óxido de ferro, não prova minério.
+Sinais visuais são indícios; só laboratório confirma o mineral e o teor.
+Não prove nem inale o solo; use luvas e lave as mãos depois.
+Em área industrial, cor escura pode vir de óleo ou resíduo, não de mineral.
+Pare e busque ajuda se o buraco desabar ou houver cheiro químico.
+
+SE NAO TIVER
+------------
+Sem pá, use corte de barranco ou de estrada já exposto, sem cavar.
+Sem ímã, limite-se à cor, às concreções e ao peso dos grãos na bandeja.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As camadas ficaram descritas por escrito, com cor e profundidade anotadas.
+Concreções ou grãos presos ao ímã foram encontrados e registrados.
+
+FONTES
+------
+Prática consolidada de descrição de solos em campo. Base: World Reference
+Base for Soil Resources (IUSS, 2022) e manual de campo do USDA NRCS (2024).

@@ -1,0 +1,92 @@
+==============================================================================
+CODIGO: 03-006
+TITULO: Como reconhecer choque hemorrágico
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 5 minutos
+RISCO: critico
+EXIGE: luz para ver a pele, relógio para contar o pulso
+REVISAO: 2026-11
+PALAVRAS-CHAVE: choque, sangramento, hemorragia, pulso fraco, pele fria
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer os sinais de choque por perda de sangue e agir antes que a
+pressão arterial caia e o quadro se torne irreversível.
+
+QUANDO USAR
+-----------
+Depois de acidente com ferimento que sangra muito.
+Após queda ou trauma no peito, no abdômen ou na perna.
+Após parto, abortamento ou sangramento vaginal intenso.
+Quando a pessoa perdeu sangue e está pálida, fria ou confusa.
+Quando alguém fica doente de repente com fezes ou urina com sangue.
+Ao notar que a vítima de trauma piora enquanto você observa.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para este procedimento.
+Não espere reunir todos os sinais para agir: a falta deles não afasta
+o risco de choque.
+
+MATERIAIS
+---------
+- Luz para ver a cor da pele e dos lábios (lanterna ou tela do celular).
+- Relógio para contar o pulso (ou conte os batimentos em voz alta).
+- Cobertor ou casaco para manter o calor (opcional).
+
+PROCEDIMENTO
+------------
+1. Garanta que o local é seguro antes de se aproximar.
+2. Observe a cor da pele do rosto, das mãos e dos lábios.
+3. Veja se a pele está fria e úmida, com suor pegajoso.
+4. Pergunte o nome da pessoa e se ela sabe onde está.
+5. Observe se ela responde devagar, está confusa ou agitada.
+6. Note se a respiração está rápida e curta.
+7. Procure sangue na roupa, no chão ou escondido sob o corpo.
+8. Pergunte se ela sente sede intensa ou frio.
+9. Conte os batimentos no pescoço ou no braço por 15 segundos.
+10. Multiplique por 4 para ter os batimentos por minuto.
+11. Veja se o pulso está rápido e fraco, difícil de sentir.
+12. Trate como choque se houver dois ou mais sinais e chame ajuda.
+13. Não espere medir a pressão: pressão baixa é sinal tardio.
+
+ATENCAO
+-------
+A queda da pressão arterial é sinal tardio. Quando aparece, o choque já
+está avançado. Não espere por ela para agir.
+Sangramento interno não aparece. A pessoa pode estar em choque sem sangue
+visível, após trauma no abdômen, no peito ou na perna.
+Pele pálida, fria e suada com pulso rápido e confusão já bastam para agir.
+Não dê comida, bebida ou água. A pessoa pode vomitar ou precisar de
+cirurgia.
+Deite a pessoa de costas. Eleve as pernas se não houver trauma na perna
+ou na coluna. Cubra para manter o calor.
+Não deixe a pessoa andar nem se levantar.
+Controle o sangramento visível (veja 03-001) e chame ajuda de imediato.
+Todo choque por perda de sangue é emergência. Procure atendimento mesmo
+que os sinais melhorem.
+
+SE NAO TIVER
+------------
+Sem relógio: conte os batimentos em voz alta por alguns segundos e
+compare com o normal da pessoa.
+Sem lanterna: use a luz do dia ou a tela do celular.
+Sem aparelho de pressão: use os sinais da pele, do pulso e da
+consciência, que aparecem antes da queda da pressão.
+Sem ajuda por perto: envie alguém para chamar socorro e volte depressa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue listar o que observou: pele, pulso, respiração,
+consciência e sede.
+A pessoa foi deitada, coberta e o sangramento visível foi controlado.
+O socorro foi acionado e alguém ficou vigiando a vítima.
+Você não esperou a pressão cair para agir.
+
+FONTES
+------
+Prática consolidada de reconhecimento de choque hemorrágico em trauma e
+primeiros socorros (referências: ATLS, Cruz Vermelha e manuais de
+emergência). Este texto é um resumo operacional e não substitui
+treinamento prático.

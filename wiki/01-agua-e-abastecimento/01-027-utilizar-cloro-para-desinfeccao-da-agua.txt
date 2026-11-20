@@ -1,0 +1,92 @@
+==============================================================================
+CODIGO: 01-027
+TITULO: Como utilizar cloro para desinfecção da água
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 10 minutos
+RISCO: alto
+EXIGE: hipoclorito 2,5%, conta-gotas, balde limpo com tampa, pano limpo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, cloro, hipoclorito, desinfecção, água sanitária, gotas
+==============================================================================
+
+OBJETIVO
+---------
+Reduzir o risco de doenças transmitidas pela água quando não se pode ferver.
+
+QUANDO USAR
+-----------
+Quando não há fogo, combustível ou recipiente para ferver a água.
+Quando a água vem de poço, cisterna, chuva ou fonte desconhecida.
+Depois de enchente ou quebra da rede, se não houver água engarrafada.
+Quando a água tratada precisa ficar guardada por algumas horas.
+
+NAO USE QUANDO
+--------------
+Quando a água tem cheiro de combustível, solvente ou agrotóxico.
+Quando a água está muito barrenta e não pode ser coada nem filtrada.
+Quando o produto não é hipoclorito de sódio puro, sem perfume ou alvejante.
+Quando não há como esperar 30 minutos antes de beber.
+
+MATERIAIS
+---------
+- Hipoclorito de sódio a 2,5% (cloro líquido; água sanitária sem aditivos).
+- Conta-gotas limpo.
+- Pano limpo ou coador de papel.
+- Balde ou recipiente limpo com tampa, de plástico ou vidro.
+- Colher limpa de madeira ou plástico para mexer.
+
+PROCEDIMENTO
+------------
+1. Leia o rótulo e confirme o teor de cloro ativo entre 2,0% e 2,5%.
+2. Use apenas produto com hipoclorito de sódio como único ativo.
+3. Se a água estiver turva, deixe parada até a sujeira ir para o fundo.
+4. Coe a água com pano limpo para reter as partículas visíveis.
+5. Despeje a água clara no balde, deixando o sedimento no fundo.
+6. Conte 2 gotas de hipoclorito para cada 1 litro de água.
+7. Mantenha o rosto afastado ao pingar para não inalar o produto.
+8. Mexa com colher limpa de madeira ou plástico até misturar.
+9. Tampe o balde e espere 30 minutos antes de usar.
+10. Cheire de longe: deve haver cheiro leve de cloro.
+11. Sem cheiro, pingue mais 2 gotas por litro, mexa e espere 30 minutos.
+12. Guarde em recipiente limpo e tampado e use em até 24 horas.
+
+ATENCAO
+-------
+Nunca misture cloro com vinagre, amônia ou outros produtos de limpeza.
+A mistura libera gás tóxico e pode matar.
+Manuseie com luvas e em local ventilado.
+Não inale o produto concentrado.
+Outro teor exige outra dose: siga o rótulo do produto.
+As 2 gotas por litro valem só para 2,0% a 2,5%.
+Produto vencido perde força: não use para água de beber.
+Cloro não remove combustível, agrotóxico, metal, sal ou radioatividade.
+Com cheiro químico, procure outra fonte de água e ajuda.
+Cloro não elimina todos os parasitas, como Giardia e Cryptosporidium.
+Água muito turva consome o cloro e pode seguir contaminada.
+Água tratada deve ser bebida em até 24 horas; descarte o resto.
+Com ardência nos olhos ou falta de ar, vá ao ar livre e procure ajuda.
+Lave os olhos com água limpa se o produto respingar.
+Nunca beba o produto concentrado; se beber, busque atendimento médico.
+
+SE NAO TIVER
+------------
+Sem hipoclorito, prefira ferver a água (veja 01-001).
+Sem conta-gotas, não improvise a dose: use o medidor do rótulo.
+Sem rótulo legível, não use o produto para tratar água de beber.
+Sem cloro e sem fogo, coar e deixar parada não basta: busque outra fonte.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água ficou sem partículas visíveis após a coagem.
+Passaram-se 30 minutos entre o pingo e o primeiro gole.
+Há cheiro leve de cloro ao aproximar o nariz do recipiente.
+A água está em recipiente limpo, tampado e dentro das 24 horas.
+
+FONTES
+------
+Ministério da Saúde do Brasil: cartilha Cuidados com a água e os alimentos.
+Ministério da Saúde: água tratada em casa com hipoclorito a 2,5%.
+Funasa: protocolo de atuação em desastres, nota de higienização domiciliar.
+OMS: cloração em emergências, residual de 0,2 a 0,5 mg/L em 30 minutos.
+CDC e EPA: desinfecção de emergência com alvejante comum sem perfume.
+A dose de 2 gotas por litro vem do Ministério da Saúde do Brasil.

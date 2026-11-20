@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 56-005
+TITULO: Como compreender mutações
+CATEGORIA: 56 - Reprodução, genética e melhoramento
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: papel, caneta ou lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: mutação, gene, dna, herança, variedade, semente
+==============================================================================
+
+OBJETIVO
+--------
+Entender o que é mutação, como ela surge e quando passa aos filhos.
+
+QUANDO USAR
+-----------
+Quando aparece uma planta ou animal diferente dos demais na criação.
+Quando uma característica indesejada surge em linhagem uniforme.
+Quando alguém sugere radiação ou produto químico para criar variedade.
+Quando você precisa decidir se guarda semente da planta diferente.
+Quando ouvir falar em mutante, gene ou dna sem entender o que muda.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+Não use para induzir mutação: radiação e produto químico exigem controle.
+Não use para dizer que alimento mudado é seguro: aparência não prova.
+Não use para diagnosticar doença genética: procure um profissional.
+
+MATERIAIS
+---------
+- Papel para desenhar e anotar.
+- Caneta ou lápis.
+- Sementes, folhas ou animais da sua criação para observar, se houver.
+
+PROCEDIMENTO
+------------
+1. Defina gene como trecho de dna que guarda uma instrução da herança.
+2. Defina mutação como mudança no dna: uma parte trocada, perdida ou
+   acrescentada.
+3. Explique que o dna é copiado cada vez que a célula se divide.
+4. Anote que a cópia pode errar: esse erro é uma mutação espontânea.
+5. Liste o que aumenta o erro: radiação ultravioleta, raios x, certos
+   produtos químicos e alguns vírus.
+6. Separe a mutação em duas: no corpo (somática) e na célula reprodutora
+   (germinativa).
+7. Marque que só a germinativa passa aos filhos e à próxima geração.
+8. Relacione com a dominância: a mutação pode criar nova versão de gene.
+9. Observe o efeito: quase sempre não aparece nada; às vezes atrapalha;
+   raramente ajuda.
+10. Escreva que o ambiente não escolhe a mutação: ela vem primeiro, a
+    seleção vem depois.
+11. Anote numa folha uma característica desejada e uma que surgiu por acaso.
+12. Guarde semente ou animal com mudança útil; separe o que prejudica.
+13. Repita por duas gerações: a mudança só vira variedade estável se for
+    herdada e selecionada.
+
+ATENCAO
+-------
+Radiação e produto químico que causam mutação também ferem quem manuseia.
+Não tente induzir mutação em casa: não há controle nem medida segura.
+Mutação não é resposta à necessidade: mudar o ambiente não cria o traço
+que você quer.
+Aparência diferente não quer dizer melhor: pode ser fraqueza ou
+esterilidade.
+Mutação no corpo não passa aos filhos: não adianta selecionar por ela.
+Planta diferente pode ter mudado também o sabor ou a toxina: não coma sem
+conhecer a espécie.
+Com deformação, perda de produção ou esterilidade, isole o indivíduo e
+registre o que viu.
+Este texto não substitui exame nem orientação de profissional de saúde.
+
+SE NAO TIVER
+------------
+Sem planta ou animal para observar, use o próprio corpo como exemplo:
+pele, cabelo e unha mostram que células se renovam e podem errar a cópia.
+Sem papel, desenhe no chão com graveto e use pedras como marcas.
+Sem saber se a mudança é herdada, acompanhe duas gerações: se reaparece
+nos filhos, é herdada.
+Sem laboratório, não tente provar a causa: registre só o que foi visto.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você explica mutação como mudança no dna com as suas próprias palavras.
+Você aponta um exemplo que passa aos filhos e um que não passa.
+Você cita um agente que aumenta a mutação e um motivo para não usar
+radiação em casa.
+Você diz por que o ambiente não "pede" a mutação de que precisa.
+
+FONTES
+------
+Glossário de Termos Genéticos do NHGRI (National Human Genome Research
+Institute): definições de gene, dna, mutação e célula germinativa.
+Material educativo Learn.Genetics da Universidade de Utah: mutação e
+variação genética.
+Livro Concepts of Biology da OpenStax: capítulos sobre herança e variação
+genética.
+Prática consolidada de genética e melhoramento: este texto é um resumo
+operacional, não substitui treinamento.

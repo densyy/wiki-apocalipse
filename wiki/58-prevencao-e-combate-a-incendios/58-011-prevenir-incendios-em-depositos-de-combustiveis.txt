@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 58-011
+TITULO: Como prevenir incêndios em depósitos de combustíveis
+CATEGORIA: 58 - Prevenção e combate a incêndios
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: recipientes aprovados e fechados, local ventilado, extintor ABC
+REVISAO: 2026-11
+PALAVRAS-CHAVE: combustível, inflamável, vapor, gasolina, fogo, depósito
+==============================================================================
+
+OBJETIVO
+--------
+Armazenar combustíveis de modo a reduzir o risco de incêndio e explosão.
+
+QUANDO USAR
+-----------
+Ao guardar gasolina, diesel, álcool, óleo ou solventes em casa ou no campo.
+Ao montar depósito de combustível para gerador, bomba ou veículos.
+Ao receber combustível em galões e precisar estocá-lo por vários dias.
+Ao sentir cheiro de combustível ou vapor em área fechada.
+Antes de transportar ou transferir combustível entre recipientes.
+
+NAO USE QUANDO
+--------------
+Nao use recipientes improvisados, abertos ou de vidro para guardar
+combustível. O vapor inflamável pode alcançar chama ou centelha e explodir.
+Se já ha fogo, vazamento grande ou cheiro forte em ambiente fechado, saia,
+ventile e chame o Corpo de Bombeiros pelo 193. Nao entre no local.
+
+MATERIAIS
+---------
+- Recipientes aprovados para combustível, com tampa que veda e rótulo
+  legível (jamais garrafa, balde aberto ou vidro).
+- Local fresco, seco e ventilado, fora de áreas de convivência e dormitório.
+- Extintor de pó químico seco ou espuma, classe ABC, dentro da validade.
+- Areia, terra seca ou material absorvente para conter vazamentos.
+- Bandeja ou palete para apoiar os recipientes e revelar vazamentos.
+
+PROCEDIMENTO
+------------
+1. Escolha o local: fresco, seco, ventilado e com piso nivelado.
+2. Afaste os recipientes de chamas, fogões, aquecedores e motores.
+3. Nunca guarde combustível dentro de casa ou em porão sem ventilação.
+4. Use somente recipientes aprovados, com tampa que veda e rótulo legível.
+5. Mantenha os recipientes fechados sempre que não estiverem em uso.
+6. Não encha até a borda: deixe aproximadamente 5 por cento de espaço
+   para a expansão do líquido com o calor.
+7. Apoie os recipientes em bandeja ou palete, com a tampa para cima.
+8. Ao transferir combustível, desligue o motor e não fume por perto.
+9. Apoie o recipiente no chão e mantenha o bico encostado na abertura
+   para reduzir faísca por eletricidade estática.
+10. Guarde a quantidade mínima necessária; não acumule estoque grande.
+11. Mantenha o extintor por perto, com carga e selo intactos.
+12. Verifique periodicamente os recipientes quanto a vazamento, ferrugem
+    ou tampa danificada.
+
+ATENCAO
+-------
+O vapor, não o líquido, é o que queima. Gasolina libera vapor inflamável
+mesmo em dia frio; o vapor é mais pesado que o ar e se acumula no piso.
+Nunca fume, acenda fósforo ou acione interruptor perto do depósito.
+Uma centelha pode inflamar o vapor sem aviso.
+Não jogue água sobre combustível em chamas: o líquido pode flutuar e
+espalhar o fogo. Use extintor de pó, espuma ou areia.
+Fogo em ambiente fechado produz monóxido de carbono, gás sem cheiro que
+mata. Saia e ventile antes de qualquer outra coisa.
+Se sentir cheiro forte ou ouvir chiado, saia, não acione nada e chame o
+Corpo de Bombeiros pelo 193.
+Nunca use vidro, garrafa ou balde aberto: podem quebrar, derramar e
+espalhar vapor inflamável pelo local.
+A explosão de vapores pode matar. Este texto não substitui treinamento.
+
+SE NAO TIVER
+------------
+Sem recipiente aprovado, não improvise com vidro ou garrafa. Compre menos
+combustível e armazene por pouco tempo, na embalagem original.
+Sem extintor, tenha areia ou terra seca por perto para sufocar princípio
+de incêndio pequeno. Se não apagar em segundos, saia e peça ajuda.
+Sem local ventilado, não guarde combustível em compartimento fechado.
+Mantenha o recipiente ao ar livre, coberto da chuva e longe do calor.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os recipientes estão fechados, etiquetados, sem vazamento e apoiados em
+bandeja.
+O local tem ventilação, não há cheiro de vapor e não há fonte de calor
+por perto.
+O extintor está no local, dentro da validade, e você sabe onde ele fica.
+
+FONTES
+------
+Prática consolidada de prevenção em armazenamento de líquidos inflamáveis.
+Referências: NFPA 30 (líquidos inflamáveis e combustíveis), orientações de
+prevenção da Defesa Civil e do Corpo de Bombeiros, e normas de segurança
+ocupacional da OSHA para armazenamento de inflamáveis.
+Resumo operacional; não substitui treinamento nem a orientação dos
+bombeiros.

@@ -1,0 +1,84 @@
+==============================================================================
+CODIGO: 80-013
+TITULO: Como armazenar combustíveis em instalações apropriadas
+CATEGORIA: 80 - Produção de combustíveis e lubrificantes
+TEMPO: 120 minutos
+RISCO: alto
+EXIGE: tanque metálico, ventilação, aterramento, extintor
+REVISAO: 2026-11
+PALAVRAS-CHAVE: armazenar, tanque, ventilação, aterramento, derramamento
+==============================================================================
+
+OBJETIVO
+--------
+Guardar combustível sem perda, contaminação ou risco de incêndio.
+
+QUANDO USAR
+-----------
+Ao montar um estoque para gerador, veículo ou aquecimento.
+Ao receber tambor ou galão de combustível para reserva.
+Ao preparar abrigo para passar o inverno com fonte de energia.
+Ao identificar vazamento ou odor persistente no depósito.
+
+NAO USE QUANDO
+--------------
+Não armazene em porão, sótão ou quarto sem ventilação.
+Não use recipiente de vidro, garrafa ou balde aberto.
+Não coloque tanque junto a caldeira, fogão ou quadro elétrico.
+Não encha o tanque até a boca: deixe espaço para dilatação.
+
+MATERIAIS
+---------
+- Tanque metálico próprio para combustível, com tampa vedada.
+- Base nivelada de concreto ou suporte metálico firme.
+- Tubo de respiro com tela contra insetos e saída para fora.
+- Cabo de aterramento e conexão elétrica conferida.
+- Bandeja de contenção ou barreira com altura suficiente.
+- Extintor de pó, areia e pá (absorvente próprio).
+- Etiquetas com tipo de produto, data e responsável.
+
+PROCEDIMENTO
+------------
+1. Escolha local externo, coberto, fresco e bem ventilado.
+2. Nivele a base e afaste fontes de calor e faísca.
+3. Apoie o tanque na base e fixe contra tombamento.
+4. Conecte o respiro para fora, com a tela intacta.
+5. Aterre o tanque e a bomba com cabo contínuo.
+6. Verifique mangueiras, válvulas e soldas antes do enchimento.
+7. Encha devagar, com filtro no bocal e sem respingos.
+8. Deixe cerca de dez por cento do volume livre no topo.
+9. Feche a tampa e limpe qualquer resíduo na superfície.
+10. Rotule o tanque com produto, data e responsável.
+11. Registre quantidade e data em planilha ou caderno.
+12. Faça inspeção semanal de vazamento, umidade e corrosão.
+13. Drene água acumulada no fundo por válvula própria.
+14. Mantenha extintor e areia acessíveis e dentro do prazo.
+
+ATENCAO
+-------
+Vapores de gasolina são mais pesados que o ar e correm no chão.
+Uma faísca de estática pode inflamar o vapor durante a transferência.
+Nunca fume perto do tanque nem use telefone comum na área.
+Derramamento em solo atinge lençol freático e exige comunicação.
+Tanque subterrâneo exige norma específica e não cabe neste tutorial.
+Se sentir odor forte, interrompa o uso e ventile antes de agir.
+
+SE NAO TIVER
+------------
+Sem tanque próprio, use galão metálico aprovado, em área externa.
+Sem aterramento, não transfira combustível com bomba elétrica.
+Sem bandeja, improvise barreira com materiais inertes e impermeáveis.
+Sem extintor, tenha areia seca e pá ao alcance imediato.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Não há odor de combustível no entorno do tanque.
+Não aparecem manchas, goteiras ou corrosão na base.
+O registro de quantidade está atualizado após cada retirada.
+O extintor está carregado e a área permanece limpa e seca.
+
+FONTES
+------
+Normas de segurança contra incêndio e boas práticas de armazenamento
+de líquidos inflamáveis em instalações rurais e oficinas.
+Leitura complementar: 80-012 e 80-018.

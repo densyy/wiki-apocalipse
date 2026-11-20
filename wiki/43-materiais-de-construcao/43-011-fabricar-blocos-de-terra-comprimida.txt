@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 43-011
+TITULO: Como fabricar blocos de terra comprimida
+CATEGORIA: 43 - Produção de materiais de construção
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: terra sem húmus, areia, cimento, água, prensa manual, peneira, balde
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bloco de terra, solo-cimento, prensa manual, tijolo, cura
+==============================================================================
+
+OBJETIVO
+--------
+Obter blocos resistentes de terra, areia e cimento com prensa manual.
+
+QUANDO USAR
+-----------
+Quando falta tijolo comprado e há terra adequada no terreno.
+Para levantar parede de casa, depósito ou cerca em local isolado.
+
+NAO USE QUANDO
+--------------
+Quando a terra contém húmus, raízes ou esterco, ou é argila expansiva.
+Em fundações, áreas alagadas ou paredes sem proteção contra chuva.
+
+MATERIAIS
+---------
+- Terra de subsolo, sem húmus, raízes, sal ou lixo.
+- Areia limpa peneirada (use a fração arenosa da própria terra).
+- Cimento Portland comum (aproximadamente 7% do peso da terra seca).
+- Água limpa; peneira, pá, balde, régua, tábua plana e prensa manual.
+- Lona ou plástico, luvas, máscara e óculos de proteção.
+
+PROCEDIMENTO
+------------
+1. Retire o húmus e escave só o subsolo sem raízes.
+2. Quebre os torrões e peneire a terra e a areia.
+3. Misture terra e areia secas até a cor ficar uniforme.
+4. Adicione o cimento medido e misture seco até sumirem os grumos.
+5. Adicione água limpa aos poucos, mexendo sem parar.
+6. Pare quando um punhado apertado mantiver a forma sem escorrer água.
+7. Encha a forma da prensa até a borda e nivele com a régua.
+8. Acione a prensa com pressão constante até o curso completo.
+9. Retire o bloco e coloque sobre a tábua plana, na sombra.
+10. Cubra com lona por aproximadamente 7 dias; depois seque na sombra.
+
+ATENCAO
+-------
+Cimento e pó irritam pele, olhos e pulmões: use luvas, máscara e óculos.
+Nunca use húmus, folhas, raízes ou esterco: apodrecem e desfazem o bloco.
+Argila expansiva racha ao secar; se gruda na mão, acrescente areia.
+Massa seca desfaz na forma; massa molhada nunca ganha resistência.
+Bloco recém-feito não serve: espere a cura e não use em parede estrutural.
+
+SE NAO TIVER
+------------
+Sem prensa, faça adobe à mão com massa mais úmida e seque ao sol.
+Sem cimento, faça apenas adobe e proteja da chuva.
+Sem areia, use só a parte arenosa da própria terra peneirada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O bloco sai da forma inteiro, com arestas firmes e sem rachaduras.
+Após a cura, não desfaz ao manusear e não tem fissuras.
+
+FONTES
+------
+Prática consolidada de blocos de terra comprimida e solo-cimento.
+Família de referência: manuais de construção com terra do CRATerre e
+literatura técnica sobre blocos estabilizados com cimento; resumo.

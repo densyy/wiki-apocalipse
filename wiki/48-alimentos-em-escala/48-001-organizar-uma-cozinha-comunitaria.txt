@@ -1,0 +1,90 @@
+==============================================================================
+CODIGO: 48-001
+TITULO: Como organizar uma cozinha comunitária
+CATEGORIA: 48 - Produção de alimentos em escala comunitária
+TEMPO: 4 horas
+RISCO: alto
+EXIGE: espaço coberto, água potável, recipientes, material de limpeza
+REVISAO: 2026-11
+PALAVRAS-CHAVE: cozinha comunitária, higiene, alimentos, fluxo, limpeza
+==============================================================================
+
+OBJETIVO
+---------
+Deixar a cozinha pronta para preparar refeições seguras para o grupo.
+
+QUANDO USAR
+-----------
+Quando várias pessoas vão cozinhar e comer no mesmo lugar.
+Quando se prepara comida para um grupo, como abrigo ou escola.
+Depois de uma emergência, quando o abastecimento falha.
+Quando o espaço é improvisado e falta separação entre áreas.
+Antes de receber doações ou começar a produção diária.
+
+NAO USE QUANDO
+--------------
+Não use se não houver água potável para lavar mãos e utensílios.
+Não use onde não se possa separar a área suja da área limpa.
+
+MATERIAIS
+---------
+- Água potável em quantidade para lavar e cozinhar.
+- Sabonete, água sanitária e panos exclusivos para limpeza.
+- Recipientes fechados e prateleiras ou estrados para estoque.
+- Tábuas e facas separadas: uma para cru, outra para pronto.
+- Termômetro para medir a temperatura dos alimentos.
+- Lixeira com tampa e sacos para resíduos.
+- Avental, touca e lavatório exclusivo para as mãos.
+
+PROCEDIMENTO
+------------
+1. Defina áreas separadas: recebimento, preparo, cocção e distribuição.
+2. Reserve um canto só para material de limpeza, longe dos alimentos.
+3. Instale lavatório exclusivo para mãos dentro da área de preparo.
+4. Forre piso e paredes com material liso e lavável, sem rachaduras.
+5. Coloque prateleiras e estrados a 30 cm do chão e da parede.
+6. Guarde alimentos secos na despensa, longe de produtos de limpeza.
+7. Separe cru de pronto: use tábuas, facas e recipientes diferentes.
+8. Mantenha perecíveis refrigerados e protegidos do sol direto.
+9. Cozinhe carne, ovos e peixe até o centro chegar a 70 °C.
+10. Sirva quente acima de 60 °C ou resfrie rápido abaixo de 5 °C.
+11. Não deixe comida pronta mais de 2 horas em temperatura ambiente.
+12. Lave as mãos antes do preparo e após cada interrupção.
+13. Afaste do preparo quem tiver ferida, diarreia ou febre.
+14. Feche e etiquete os recipientes com data de preparo e validade.
+15. Recolha o lixo em saco fechado, fora da área de preparo.
+16. Limpe bancadas e utensílios após cada uso, com água e desinfetante.
+17. Registre em caderno a limpeza e a temperatura de cada dia.
+
+ATENCAO
+-------
+Uma cozinha suja pode adoecer dezenas de pessoas de uma só vez.
+Contaminação cruzada é o erro mais comum: frango cru na faca da salada.
+Ferver não elimina veneno químico; com cheiro de combustível, pare.
+Sem termômetro, não afirme que a comida atingiu temperatura segura.
+Comida deixada no calor por horas pode intoxicar mesmo reaquecida.
+Se surgir diarreia ou vômito em quem comeu, pare de servir e busque ajuda.
+Não improvise instalação elétrica nem use fogo em ambiente sem saída.
+
+SE NAO TIVER
+------------
+Sem termômetro, cozinhe até o caldo claro e a carne sem parte rosada.
+Sem geladeira, prepare porções pequenas e sirva logo após o cozimento.
+Sem lavatório, use balde com água potável e um recipiente para escoar.
+Sem material de limpeza, não manipule alimentos para o grupo.
+Se faltar água potável, interrompa o preparo e busque outra fonte.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Há áreas distintas e identificadas para cada etapa do trabalho.
+As mãos passam pelo lavatório antes de cada turno de preparo.
+Cru e pronto ficam em recipientes separados e fechados.
+O caderno mostra a limpeza e a temperatura registradas no dia.
+
+FONTES
+------
+Cartilha sobre Boas Práticas para Serviços de Alimentação da Anvisa,
+baseada na RDC 216/2004; manual Cinco Chaves para uma Alimentação
+Mais Segura da OMS; Roteiro de Implantação de Cozinhas Comunitárias
+do Ministério do Desenvolvimento Social. Resumo operacional, não
+substitui treinamento em boas práticas.

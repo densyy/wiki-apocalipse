@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 36-019
+TITULO: Como identificar depósitos de argila
+CATEGORIA: 36 - Geologia, mineração e recursos naturais
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: pá ou faca, água, recipiente pequeno, caderno, estaca
+REVISAO: 2026-11
+PALAVRAS-CHAVE: argila, barro, massinha, plasticidade, solo, depósito, fita
+==============================================================================
+
+OBJETIVO
+---------
+Localizar no campo um depósito de argila e confirmar sua plasticidade.
+
+QUANDO USAR
+-----------
+Quando precisar de barro para vedar fornos, paredes ou cisternas.
+Quando quiser fazer tijolos, cerâmica ou massa de revestimento.
+
+NAO USE QUANDO
+--------------
+Quando houver suspeita de contaminação por mina, indústria ou aterro.
+Não use este método para decidir uso estrutural sem análise: é só indício.
+
+MATERIAIS
+---------
+- Pá, enxada ou faca (pedaço de madeira pontiagudo).
+- Água limpa em garrafa e recipiente para a amostra (lata velha).
+- Caderno, lápis e estacas ou pedras para marcar os pontos.
+
+PROCEDIMENTO
+------------
+1. Procure baixadas, fundos de vale e pés de encosta com solo fino.
+2. Retire folhas e a camada escura de terra do ponto escolhido.
+3. Tire uma amostra a aproximadamente 10 cm de profundidade.
+4. Umedeça com água limpa até formar massa uniforme.
+5. Role a massa em cordão fino sobre uma pedra lisa.
+6. Veja se o cordão vira fita sem quebrar.
+7. Molde uma bola e pressione com o dedo.
+8. Note se mantém a forma e gruda levemente na pele.
+9. Deixe uma porção fina secar ao ar, longe do sol.
+10. Confirme se secou dura e rachada, e não virou pó.
+11. Marque o ponto bom com estaca.
+12. Anote no caderno o local, a cor e a profundidade.
+
+ATENCAO
+-------
+Argila inchada gruda e aumenta de volume com a água.
+Nunca escave a base de taludes altos ou molhados: pode deslizar.
+A olho nu não se sabe a pureza nem o tipo de mineral argiloso.
+Evite áreas de mina, fábrica ou aterro: pode haver metal sem cheiro.
+Se sentir cheiro de óleo ou solvente, saia e mude de ponto.
+
+SE NAO TIVER
+------------
+Sem água, umedça com saliva, apenas se o solo parecer limpo.
+Sem pá, use faca, pedra pontiaguda ou pau afiado.
+Sem caderno, marque a sequência dos pontos com pedras empilhadas.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A massa molhada formou fita ou bola que manteve a forma.
+O solo seco mostrou rachaduras poligonais ou superfície lisa.
+A porção ao ar endureceu e não virou pó ao ser esfregada.
+
+FONTES
+------
+Prática consolidada de prospecção; referências: USGS (Foley, 1999),
+manuais de solo do USDA NRCS e da Embrapa. Não substitui laboratório.

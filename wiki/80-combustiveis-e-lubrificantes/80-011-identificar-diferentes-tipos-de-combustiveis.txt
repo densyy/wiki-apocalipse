@@ -1,0 +1,82 @@
+==============================================================================
+CODIGO: 80-011
+TITULO: Como identificar diferentes tipos de combustíveis
+CATEGORIA: 80 - Produção de combustíveis e lubrificantes
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: recipientes transparentes, acetona, papel branco, ventilação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: combustível, gasolina, diesel, querosene, álcool
+==============================================================================
+
+OBJETIVO
+--------
+Separar amostras desconhecidas por família antes de qualquer uso.
+
+QUANDO USAR
+-----------
+Ao receber combustível sem rótulo ou com rótulo duvidoso.
+Ao escolher qual produto usar em gerador, fogão ou veículo.
+Ao conferir se um líquido é água, óleo ou solvente.
+Ao organizar estoque de materiais inflamáveis.
+
+NAO USE QUANDO
+--------------
+Não identifique por cheiro em local fechado: vários vapores são tóxicos.
+Não use chama direta para testar líquido desconhecido.
+Não misture amostras para "testar" rendimento.
+Não guarde amostra sem identificação depois do teste.
+
+MATERIAIS
+---------
+- Frascos transparentes com tampa e rótulo de identificação.
+- Papel branco absorvente e palito de madeira.
+- Pipeta ou seringa sem agulha (conta-gotas).
+- Água, acetona ou álcool isopropílico como referência.
+- Luvas nitrílicas, óculos e avental.
+- Detector de combustível inflamável ou detector de gás (se houver).
+
+PROCEDIMENTO
+------------
+1. Trate todo líquido desconhecido como inflamável e tóxico.
+2. Trabalhe ao ar livre, longe de fogo, faísca e tomada.
+3. Rotule cada frasco com origem, data e número da amostra.
+4. Observe a cor: gasolina é clara; diesel vai do claro ao âmbar.
+5. Observe a viscosidade: óleo escorre devagar; água escorre rápido.
+6. Pingue uma gota em papel branco e espere a evaporação.
+7. Gasolina e álcool evaporam depressa, sem mancha escura.
+8. Diesel e óleo deixam mancha translúcida que demora a sair.
+9. Misture uma gota da amostra com água em frasco separado.
+10. Se formar camada, anote se a amostra flutua ou afunda.
+11. Gasolina, diesel e óleo flutuam; álcool mistura-se com água.
+12. Repita a mistura com acetona para diferenciar óleo de silicone.
+13. Anote todos os resultados antes de descartar a amostra.
+14. Guarde a amostra identificada longe de calor e luz solar.
+
+ATENCAO
+-------
+Os testes são indícios, não laudo de laboratório.
+Nunca inale vapor de propósito: use ventilação e máscara adequada.
+Nunca determine octanagem ou cetano por teste caseiro.
+Líquido com cheiro adocicado pode ser anticongelante, que é venenoso.
+Gasolina muito volátil pode inflamar com faísca de estática.
+Descarte amostras em recipiente fechado, conforme regra local.
+
+SE NAO TIVER
+------------
+Sem acetona, use apenas água e o teste de evaporação no papel.
+Sem frascos, use tampas metálicas limpas e rotule com fita.
+Sem luvas, não manipule amostra: peça material ou espere.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você separou a amostra em uma das famílias: leve, média, pesada ou aquosa.
+Você registrou cor, evaporação e comportamento com água.
+Você não usou chama nem inalou vapor durante o teste.
+Cada frasco permanece identificado até o descarte.
+
+FONTES
+------
+Prática de identificação preliminar em oficinas e laboratórios de
+combustíveis, associada a normas de segurança para manuseio de líquidos
+inflamáveis. Leitura complementar: 80-012 e 80-015.

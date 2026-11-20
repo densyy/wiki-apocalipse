@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 39-008
+TITULO: Como construir um telescópio refrator básico
+CATEGORIA: 39 - Óptica e instrumentos científicos
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: lente objetiva convexa, ocular, tubo opaco, suporte, papel branco
+REVISAO: 2026-11
+PALAVRAS-CHAVE: telescópio, refrator, lupa, objetiva, ocular, aumento, foco
+==============================================================================
+
+OBJETIVO
+--------
+Montar um telescópio refrator simples que amplia objetos distantes.
+
+QUANDO USAR
+-----------
+Quando quiser observar a Lua, planetas ou aves de longe.
+Quando houver lentes e um tubo, mas nenhum aparelho pronto.
+
+NAO USE QUANDO
+--------------
+Nunca aponte para o Sol: a luz concentrada queima a retina sem dor.
+Não use se a lente for côncava: ela não forma imagem real nítida.
+
+MATERIAIS
+---------
+- Lente objetiva convexa, aproximadamente 5 cm (lupa grande).
+- Lente ocular convexa menor, aproximadamente 2 cm (lupa pequena).
+- Tubo opaco de papelão ou PVC, mais longo que a objetiva.
+- Papel branco, fita, lâmina, lixa e um suporte firme.
+
+PROCEDIMENTO
+------------
+1. Escolha um alvo distante, como uma árvore. Nunca use o Sol.
+2. Segure a lente objetiva voltada para o alvo.
+3. Coloque o papel branco atrás da lente, a aproximadamente 50 cm.
+4. Aproxime ou afaste o papel até a imagem ficar nítida.
+5. Meça da lente ao papel: é a distância focal da objetiva, F_obj.
+6. Repita com a ocular e anote F_oc, menor que F_obj.
+7. Some F_obj e F_oc: é o comprimento aproximado do tubo.
+8. Divida F_obj por F_oc: é o aumento aproximado da imagem.
+9. Corte o tubo nesse comprimento; a borda pode cortar.
+10. Lixe as bordas do tubo até não cortarem os dedos.
+11. Prenda a objetiva na frente do tubo, bem centralizada.
+12. Prenda a ocular atrás, de modo a deslizar para focar.
+13. Apoie no suporte, mire o alvo e deslize a ocular até focar.
+
+ATENCAO
+-------
+Nunca aponte o tubo para o Sol: a luz queima a retina sem dor.
+Vidro e tubo cortam: use luvas, lixe bordas e recolha cacos se quebrar.
+A imagem sai de cabeça para baixo; isso é normal, não é defeito.
+Aumento alto deixa a imagem escura e tremida; use aumento moderado.
+Pare se os olhos doerem. Limpe lentes com pano macio, sem esfregar.
+
+SE NAO TIVER
+------------
+Sem lente própria, use duas lupas: maior como objetiva, menor como ocular.
+Sem tubo, enrole papelão opaco; sem suporte, apoie em mesa firme.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ao olhar o alvo, a imagem aparece ampliada e nítida ao mover a ocular.
+A imagem fica invertida e a objetiva forma imagem nítida no papel.
+
+FONTES
+------
+Óptica geométrica consolidada: Hecht (Optics), HyperPhysics (Georgia State).
+Tabelas do NIST. Resumo operacional, não substitui treinamento.

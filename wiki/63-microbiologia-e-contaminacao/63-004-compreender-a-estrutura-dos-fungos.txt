@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 63-004
+TITULO: Como compreender a estrutura dos fungos
+CATEGORIA: 63 - Microbiologia, parasitologia e contaminação
+TEMPO: 25 minutos
+RISCO: baixo
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fungo, hifa, micélio, quitina, esporo, levedura, bolor
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer as partes básicas de um fungo e o que cada uma faz.
+
+QUANDO USAR
+-----------
+Quando encontrar bolor em alimento, parede ou tecido.
+Quando precisar entender como o fungo contamina e se espalha.
+Ao avaliar risco de contaminação em casa ou no campo.
+
+NAO USE QUANDO
+--------------
+Não use este texto para decidir se um fungo é comestível.
+A estrutura não diz se a espécie é segura ou tóxica.
+Não use para tratar infecção: procure atendimento de saúde.
+
+MATERIAIS
+---------
+- Nenhum material é necessário para ler e compreender.
+- Para observar: lupa (pode usar vidro d'água) e caderno.
+- Luvas se for manusear objeto com bolor (saco plástico).
+
+PROCEDIMENTO
+------------
+1. Entenda o corpo: hifas são filamentos que crescem na ponta.
+2. Observe o micélio: rede de hifas é a parte vegetativa oculta.
+3. Note a levedura: unicelular, brota e não forma hifas.
+4. Distinga hifas: com septos há paredes com poros entre células.
+5. Hifas sem septos são tubos contínuos com vários núcleos.
+6. Reconheça a parede: rígida, de quitina e glicanas, não celulose.
+7. A membrana tem ergosterol, alvo de vários antifúngicos.
+8. Entenda a nutrição: digere fora de si e absorve o alimento.
+9. Esporos dispersam o fungo; corpos de frutificação os produzem.
+10. Alguns fungos são dimórficos: mudam de forma com a temperatura.
+
+ATENCAO
+-------
+A forma do fungo não diz se ele é venenoso ou comestível.
+Nunca coma cogumelo ou bolor identificado só por este texto.
+Não inale pó de bolor: esporos causam alergia, asma ou infecção.
+Bolor em alimento pode ter micotoxinas; cortar a parte visível não basta.
+Descarte o alimento. Imunidade baixa aumenta o risco.
+
+SE NAO TIVER
+------------
+Sem lupa, observe o bolor a olho nu: cor e desenho em anel mostram
+o micélio crescendo do centro. Não cheire nem toque para conferir.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue apontar hifa, micélio, septos, parede de quitina e
+esporos, e explicar cada parte sem olhar o texto.
+
+FONTES
+------
+Introdução à Micologia, do livro Medical Microbiology (NCBI Bookshelf, NIH);
+capítulos sobre fungos de OpenStax Microbiology e Biology 2e; material de
+micologia da American Phytopathological Society e do UC Museum (Berkeley).

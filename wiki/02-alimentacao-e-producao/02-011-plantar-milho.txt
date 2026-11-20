@@ -1,0 +1,93 @@
+==============================================================================
+CODIGO: 02-011
+TITULO: Como plantar milho
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: semente de milho, terra preparada, enxada, adubo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: milho, plantio, semente, cova, solo, safra, cultivo
+==============================================================================
+
+OBJETIVO
+--------
+Instalar uma lavoura de milho com estande uniforme e boa chance de colheita.
+
+QUANDO USAR
+-----------
+Quando o solo estiver úmido e a estação chuvosa tiver começado.
+Quando a temperatura do solo estiver acima de 10 graus Celsius.
+Quando houver semente de milho de boa qualidade disponível.
+Quando a área estiver limpa de mato e com o solo corrigido.
+
+NAO USE QUANDO
+--------------
+Quando o solo estiver encharcado: a plântula pode morrer em poucos dias.
+Quando houver risco de geada ou de seca forte nos próximos meses.
+Quando a temperatura do solo estiver abaixo de 10 graus Celsius.
+Quando não houver umidade no solo nem água para irrigar.
+
+MATERIAIS
+---------
+- Semente de milho de cultivar adaptada à região (semente guardada do ano
+  anterior só se tiver vigor conhecido).
+- Enxada ou cavadeira para abrir covas.
+- Adubo recomendado para milho (esterco bem curtido ou adubo mineral).
+- Calcário e gesso se a análise de solo indicar.
+- Cordel e estacas para alinhar as fileiras (opcional).
+- Água para irrigar se a chuva faltar.
+
+PROCEDIMENTO
+------------
+1. Faça a análise do solo antes de plantar e siga a recomendação local.
+2. Aplique calcário pelo menos 1 mês antes da semeadura, se indicado.
+3. Limpe a área de mato e de restos de outras culturas.
+4. Espere o solo ficar úmido, sem encharcar, no início das chuvas.
+5. Confira a temperatura do solo: plante acima de 10 graus Celsius.
+6. Marque fileiras com 80 cm a 100 cm entre elas.
+7. Abra covas de 40 cm a 50 cm entre si sobre cada fileira.
+8. Escolha a profundidade conforme o solo: 3 cm a 5 cm em solo argiloso.
+9. Use 5 cm a 7 cm em solo arenoso ou leve, para alcançar umidade.
+10. Coloque 2 ou 3 sementes por cova, separadas entre si.
+11. Cubra com terra fina e pressione para encostar na umidade.
+12. Deixe o adubo cerca de 5 cm ao lado e abaixo da semente.
+13. Nunca encoste adubo na semente: pode queimar a plântula.
+14. Feche a cova com terra e retire o excesso de palha do local.
+15. Repita até completar a área, mantendo a mesma profundidade.
+16. Irrigue com água se não chover nos dias seguintes.
+
+ATENCAO
+-------
+Semente muito funda não emerge; semente muito rasa resseca.
+Profundidade diferente entre covas gera plantas dominadas, sem espiga.
+Adubo em contato com a semente queima a raiz e mata a plântula.
+Solo encharcado mata a plântula em poucos dias.
+Semente tratada com inseticida é tóxica: não deixe descoberta no solo.
+Use luvas ao manusear semente tratada e lave as mãos depois.
+Plante o mais cedo que a umidade permitir: plantio tardio reduz a safra.
+Em região sem geada, o milho irrigado pode ser plantado o ano todo.
+
+SE NAO TIVER
+------------
+Sem análise de solo, use esterco bem curtido e observe a cor da planta.
+Não improvise dose de adubo mineral sem recomendação para sua região.
+Sem cordel, marque as fileiras com estacas e passos medidos.
+Sem semente certificada, escolha grãos grandes e sem dano visível.
+Não use grãos de pipoca como semente de lavoura.
+Sem água e sem chuva, espere: semente em solo seco não germina.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As plântulas emergem cerca de 4 a 5 dias após o plantio, em solo quente.
+A emergência é uniforme, com falhas espaçadas entre as covas.
+As covas ficam com 2 ou 3 plantas bem distribuídas.
+O solo ao redor das covas permanece úmido e sem crosta grossa.
+
+FONTES
+------
+Embrapa Milho e Sorgo: circulares e manuais de semeadura e cultivo do
+milho, incluindo "Semeadura do milho" e "Boas Práticas Agrícolas: Milho".
+Portal Ageitec da Embrapa: páginas de espaçamento, densidade, semente,
+tratamento de sementes e características da planta.
+Recomendações de calagem e adubação para milho da Embrapa.
+Zoneamento Agrícola de Risco Climático do Ministério da Agricultura.

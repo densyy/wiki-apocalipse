@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 08-042
+TITULO: Como produzir moldes para fundição
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: areia, argila bentonita, água, modelo da peça, caixa de molde, tábua
+REVISAO: 2026-11
+PALAVRAS-CHAVE: molde, areia, fundição, argila, bentonita, modelo, caixa
+==============================================================================
+
+OBJETIVO
+--------
+Produzir um molde de areia em duas partes, pronto para metal fundido.
+
+QUANDO USAR
+-----------
+Quando precisar fundir uma peça simples em pequena quantidade.
+Quando não houver molde metálico nem máquina de moldar.
+Quando a peça tiver faces planas e nenhuma cavidade interna.
+Para aproveitar metal sucata em ferramentas e peças de reposição.
+
+NAO USE QUANDO
+--------------
+Peças com cavidades internas exigem núcleos (machos) e outro método.
+Não use areia grossa, sem argila, nem local com chuva ou umidade.
+Não use se não houver lugar coberto para secar o molde antes do vazamento.
+
+MATERIAIS
+---------
+- Areia fina, limpa e seca, sem pedras ou folhas.
+- Argila bentonita ou argila de olaria em pó (liga os grãos).
+- Água limpa, em pequena quantidade.
+- Modelo da peça, liso e sem rebarbas, em madeira ou metal.
+- Caixa de molde: duas molduras iguais que encaixem (baixo e cima).
+- Tábua lisa maior que a caixa e régua reta para raspar.
+- Peneira grosseira ou pano para peneirar a areia.
+- Pá pequena e pedaço de madeira para compactar.
+- Pó de talco (desmoldante: evita grudar no modelo).
+
+PROCEDIMENTO
+------------
+1. Use modelo liso, com faces levemente inclinadas para sair da areia.
+2. Misture areia e argila secas na proporção de aproximadamente 9 para 1.
+3. Adicione água aos poucos e amasse até segurar o punho sem pingar.
+4. Peneire a mistura para tirar pedras, torrões e folhas.
+5. Polvilhe talco na tábua e em todo o modelo.
+6. Coloque a caixa de baixo (drag) de cabeça para baixo sobre a tábua.
+7. Cubra o modelo com areia peneirada e compacte sem bater no modelo.
+8. Encha a caixa em camadas, compactando cada camada.
+9. Raspe o excesso com a régua até nivelar com a borda.
+10. Cubra com a segunda tábua e vire o conjunto.
+11. Retire a tábua e assente a caixa de cima (cope) sobre a de baixo.
+12. Espete dois pinos: entrada (sprue) e respiro (riser), longe do modelo.
+13. Polvilhe talco, encha a caixa de cima com areia e compacte em camadas.
+14. Raspe o excesso, nivele e puxe os pinos sem amassar os furos.
+15. Separe as caixas, dê leves batidas laterais e retire o modelo.
+16. Com a ponta da pá, abra um canal do furo de entrada até a cavidade.
+17. Reuna as duas caixas alinhadas e prenda com presilhas ou peso.
+18. Seque em lugar coberto e ventilado, longe de sol e chuva.
+19. Antes de vazar, confira que a cavidade está seca e sem areia solta.
+
+ATENCAO
+-------
+Metal fundido queima na hora: use óculos, luvas e manga longa.
+Nunca toque o molde logo após o vazamento nem jogue água nele.
+Umidade no molde vira vapor e espirra metal fundido: seque bem.
+Nunca despeje metal em molde molhado.
+Pó de sílica da areia fina prejudica o pulmão: molhe a areia ao mexer.
+Use máscara e trabalhe ao ar livre.
+Areia solta na cavidade estraga a peça: escove antes de fechar.
+Molde rachado: descarte e refaça.
+Metal desconhecido pode ter chumbo: não funda.
+
+SE NAO TIVER
+------------
+Sem bentonita, use argila de olaria em pó; teste a mistura antes de moldar.
+Sem talco, polvilhe cinza fina peneirada; se grudar, refaça o molde.
+Sem caixa própria, monte uma moldura de madeira em duas metades encaixáveis.
+Sem areia de fundição, use areia fina de rio, lavada e seca, sem sal.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A areia segura a forma do punho e não pinga água.
+O modelo sai deixando uma cavidade limpa, com bordas firmes.
+Os furos de entrada e respiro ficam abertos e ligados à cavidade.
+Depois de seco, o molde não quebra ao ser levantado com cuidado.
+
+FONTES
+------
+Prática consolidada de moldagem manual em areia, sem documento único.
+Via Wikipedia: Sand casting, Molding sand, Cope and drag e Flask.
+Esses artigos citam American Foundry Society e Cast Metals Federation.
+Citam também Beeley (Foundry Technology) e Davis (Cast Irons).
+Citam Degarmo, Black e Kohser (Materials and Processes in Manufacturing).
+Fontes primárias não acessadas diretamente.

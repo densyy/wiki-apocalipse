@@ -1,0 +1,85 @@
+==============================================================================
+CODIGO: 57-008
+TITULO: Como construir um sistema de ventilação cruzada
+CATEGORIA: 57 - Refrigeração, climatização e conforto
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: duas aberturas opostas, corrente de ar, pano ou papel
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ventilação, vento, corrente de ar, janela, calor
+==============================================================================
+
+OBJETIVO
+--------
+Criar corrente de ar que atravessa o ambiente e reduz calor e abafamento.
+
+QUANDO USAR
+-----------
+Quando o dia está quente e o ar dentro de casa está parado.
+Ao anoitecer, quando a temperatura de fora cai abaixo da de dentro.
+Ao cozinhar ou reunir pessoas e o cômodo fica abafado.
+Quando não há ar-condicionado ou a energia acabou.
+Para renovar o ar e reduzir umidade e odores em um cômodo.
+
+NAO USE QUANDO
+--------------
+Quando o ar exterior passa de aproximadamente 40 graus Celsius.
+Nesse caso o ventilador aquece o corpo em vez de refrescar.
+Com fumaça, poeira, gases ou ar poluído do lado de fora.
+Em vento forte, chuva lateral ou risco de objetos arremessados.
+Em abertura baixa sem grade, com crianças ou animais por perto.
+
+MATERIAIS
+---------
+- Duas aberturas em paredes opostas (janelas, portas ou vãos).
+- Ventilador (opcional, para reforçar a corrente de ar).
+- Pano leve, papel ou barbante para sentir o fluxo.
+- Tela ou grade, se houver risco de entrada de animais.
+- Cordão ou calço para prender a janela aberta na posição.
+
+PROCEDIMENTO
+------------
+1. Espere o ar de fora ficar mais frio que o de dentro, ao anoitecer.
+2. Abra uma janela ou porta de um lado do ambiente.
+3. Abra uma abertura na parede oposta, alinhada com a primeira.
+4. Note de onde vem o vento: esse lado é a entrada (barlavento).
+5. Deixe a entrada mais aberta que a saída para formar corrente.
+6. Retire cortinas, móveis e caixas que bloqueiem o caminho do ar.
+7. Coloque o ventilador na entrada, virado para dentro, se houver.
+8. Ligue o ventilador em velocidade baixa ou média.
+9. Use o ventilador só com ar abaixo de aproximadamente 40 graus.
+10. Segure um pano leve na saída e veja se ele balança para fora.
+11. Ajuste as aberturas até o pano balançar sem parar.
+12. Feche as aberturas ao amanhecer, antes que o sol esquente a parede.
+
+ATENCAO
+-------
+Acima de aproximadamente 40 graus, o ventilador aquece o corpo.
+Ele não refresca e pode aumentar o risco de insolação.
+Abra janelas só quando o ar de fora estiver mais frio que o de dentro.
+Ventilação cruzada dá frescor, mas não trata insolação nem desidratação.
+Com tontura, pele quente e seca ou confusão, pare e procure ajuda.
+Ventos fortes arremessam objetos: feche as aberturas se o vento subir.
+Proteja crianças e animais com grade ou tela nas aberturas baixas.
+
+SE NAO TIVER
+------------
+Sem segunda abertura, abra a janela e a porta do corredor.
+Sem ventilador, conte só com o vento e com aberturas bem alinhadas.
+Sem pano, use papel, barbante ou a mão para sentir o ar.
+Se o lado de fora estiver quente ou poluído, espere a noite.
+Sem grade, não abra aberturas baixas onde alguém possa cair.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O pano na saída balança sem parar na direção de fora.
+O ar entra por um lado e sai pelo outro, sem ficar parado.
+A sensação de abafamento diminui em alguns minutos.
+Ao fechar tudo de manhã, o interior fica fresco por mais tempo.
+
+FONTES
+------
+Folha informativa "Heat and health" da Organização Mundial da Saúde, 2026.
+Orientações da OMS Europa sobre calor e planos de ação (Keep Cool).
+Prática consolidada de ventilação natural em climatização de edificações.
+==============================================================================

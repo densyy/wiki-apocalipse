@@ -1,0 +1,81 @@
+==============================================================================
+CODIGO: 09-003
+TITULO: Como utilizar rádios de ondas curtas
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: rádio de ondas curtas, antena, pilhas ou bateria
+REVISAO: 2026-11
+PALAVRAS-CHAVE: rádio, ondas curtas, HF, antena, sintonia, emergência
+==============================================================================
+
+OBJETIVO
+--------
+Ouvir e, se autorizado, comunicar-se a longa distância sem internet.
+
+QUANDO USAR
+-----------
+Quando faltarem internet, telefonia e rádio local.
+Para receber avisos, boletins e a hora de estações distantes.
+Para tentar contato com outro grupo a centenas de quilômetros.
+Em isolamento, para saber o que acontece fora da região.
+
+NAO USE QUANDO
+--------------
+Não estenda antena externa durante tempestade com raios.
+Nunca coloque a antena em contato com fios de energia elétrica.
+
+MATERIAIS
+---------
+- Rádio de ondas curtas com pilhas ou bateria.
+- Antena de chicote ou fio de aproximadamente 5 a 10 metros.
+- Fone de ouvido, se o rádio aceitar (ajuda em sinais fracos).
+- Caderno e lápis para anotar frequências e horários.
+
+PROCEDIMENTO
+------------
+1. Coloque as pilhas respeitando os polos; não misture velhas e novas.
+2. Conecte a antena de chicote ou estenda o fio.
+3. Afaste a antena de fios de energia elétrica e de árvores altas.
+4. Se o rádio tiver entrada de terra, ligue-a a um tubo fincado no solo.
+5. Mantenha a antena afastada do corpo para não perder sinal.
+6. Ligue o rádio com o volume no mínimo.
+7. Ajuste o modo: AM para boletins e hora; SSB para radioamadores.
+8. Selecione uma faixa: tente aproximadamente 3,5; 7 ou 14 MHz.
+9. Gire a sintonia devagar e pare ao ouvir vozes ou música.
+10. Ajuste volume e ganho até o som ficar claro, sem chiado forte.
+11. Anote a frequência e o horário em que o sinal foi ouvido.
+12. Para ouvir a hora, sintonize aproximadamente 5; 10 ou 15 MHz.
+13. Para transmitir, só faça isso com autorização; use o botão de fala,
+   fale devagar e solte o botão para ouvir a resposta.
+14. Desligue o rádio e guarde-o seco quando terminar.
+
+ATENCAO
+-------
+Antena encostada na rede elétrica causa choque e pode matar.
+Nunca a encoste em fios, postes ou cercas de metal.
+Com raios, desconecte a antena e desligue o rádio: a antena atrai
+a descarga. Pilhas ao contrário ou misturadas vazam e danificam o
+aparelho. Transmitir sem autorização é ilegal na maioria dos países.
+No Brasil, transmissão de radioamador exige licença da Anatel.
+A propagação muda com o dia: 3,5 e 7 MHz ouvem melhor à noite;
+14 MHz, de dia. O procedimento só recebe: não garante resposta.
+
+SE NAO TIVER
+------------
+Sem chicote, use um fio de aproximadamente 5 a 10 metros no conector
+de antena. Sem fio, estenda o chicote por inteiro e aproxime o rádio
+de uma janela. Sem pilhas, não ligue direto a bateria de carro: pode
+queimar o aparelho; use uma fonte adequada ao rádio.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O rádio liga, o display acende e se ouvem sinais, vozes ou o tic-tac
+da hora. A sintonia para num ponto claro e o sinal se repete no caderno.
+
+FONTES
+------
+Prática consolidada de comunicação por ondas curtas em emergência.
+Definição de HF (3 a 30 MHz) da UIT; emissoras de hora WWV/WWVH do
+NIST; regulamentação de radioamadorismo da Anatel. Resumo operacional:
+não substitui treinamento nem a leitura das normas oficiais vigentes.

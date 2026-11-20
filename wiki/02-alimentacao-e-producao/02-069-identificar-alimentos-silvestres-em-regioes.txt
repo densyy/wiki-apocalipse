@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 02-069
+TITULO: Como identificar alimentos silvestres em regiões temperadas
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 60 minutos
+RISCO: critico
+EXIGE: guias de campo com fotos e nomes científicos, lupa, caderno, luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: silvestre, comida do mato, venenoso, cicuta, cogumelo, guia
+==============================================================================
+
+OBJETIVO
+--------
+Decidir se uma planta silvestre é segura para comer, ou não.
+
+QUANDO USAR
+-----------
+- Encontrou fruta, folha ou raiz desconhecida durante uma caminhada.
+- Faltou alimento e alguém sugeriu usar o que cresce ao redor.
+- Alguém ofereceu planta ou cogumelo colhido na região.
+- O alimento comprado acabou e resta apenas o que nasce no mato.
+- Está em região de clima temperado, com estações marcadas.
+
+NAO USE QUANDO
+--------------
+- Não use este texto como única prova de que algo é comestível.
+- Não coma nada identificado apenas por nome popular ou aparência.
+- Não use em região tropical: este texto cobre clima temperado.
+- Não coma planta de beira de estrada ou zona industrial.
+- Não coma nenhum cogumelo silvestre, mesmo parecido com um de mercado.
+
+MATERIAIS
+---------
+- Guias de campo impressos ou offline, com fotos e nomes científicos.
+- Lupa de bolso (ou aproximação da câmera).
+- Caderno e lápis (ou anotação no celular).
+- Luvas (ou pano limpo para manusear).
+- Recipiente separado para cada amostra (ou saco limpo).
+
+PROCEDIMENTO
+------------
+1. Anote o local exato onde a planta cresce: solo, sombra, água próxima.
+2. Fotografe a planta inteira antes de tocar ou arrancar qualquer parte.
+3. Observe em separado folhas, caule, flor, fruto e raiz.
+4. Anote a forma das folhas, a borda, os pelos e a posição no caule.
+5. Abra pelo menos três guias de campo diferentes e compare as imagens.
+6. Confirme o nome científico da espécie em cada guia consultado.
+7. Procure as espécies venenosas parecidas antes de concluir.
+8. Descarte se houver seiva leitosa ou cheiro de amêndoa.
+9. Descarte sabor amargo, de sabão, espinhos, fruto mofado ou podre.
+10. Descarte folhas em grupo de três e sementes dentro de vagem.
+11. Descarte se o local tiver agrotóxico, esgoto, lixo ou tráfego.
+12. Toque o pulso com a planta; se arder ou coçar, descarte a amostra.
+13. Não coma cogumelo silvestre, mesmo depois de comparar três guias.
+14. Se sobrar dúvida, guarde a amostra e peça ajuda a especialista local.
+15. Só coma se o especialista confirmar a espécie pelo nome científico.
+16. Confira em duas fontes independentes se aquela parte é comestível.
+17. Coma uma pequena quantidade primeiro e pare diante de qualquer sintoma.
+
+ATENCAO
+-------
+- Aparência, foto ou nome popular não provam que algo é comestível.
+- Cenoura selvagem (Daucus carota) é confundida com a cicuta venenosa.
+- Cicuta (Conium maculatum): caule liso, sem pelos, com manchas roxas.
+- Folhagem de cenoura, salsinha ou dill pode esconder parentes mortais.
+- Cogumelos Amanita matam. As amatoxinas resistem ao cozimento e o
+  dano ao fígado pode aparecer horas depois, quando ainda há tempo de agir.
+- Uma mesma espécie pode ter parte comestível e parte venenosa, ou só ser
+  comestível em certa estação. Não generalizar para a planta inteira.
+- O manual militar FM 21-76 descreve um teste universal de comestibilidade
+  para emergência. Extensionistas e centros de veneno alertam que ele não
+  substitui identificação certa: na dúvida, não coma.
+- Se aparecerem náusea, vômito, dor abdominal ou tontura após comer,
+  procure atendimento e leve a amostra ou a foto da planta.
+
+SE NAO TIVER
+------------
+- Sem guia de campo, não identifique: apenas anote, fotografe e pergunte.
+- Sem lupa, use o zoom da câmera, mas não decida só pela foto.
+- Sem especialista por perto, não coma; leve a amostra a quem conheça
+  as plantas da região.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- A espécie aparece com o mesmo nome científico em pelo menos três guias.
+- Nenhuma espécie venenosa parecida foi deixada sem conferência.
+- A amostra continua identificada no caderno, com local e data.
+- Se houve dúvida em algum ponto, a amostra não foi consumida.
+
+FONTES
+------
+- Mississippi State University Extension Service: publicação P4173,
+  "Forgotten Foods: Introduction to Wild Edible Plants", 2026.
+- Penn State Extension: "Poison Hemlock Identification", Liz Bosak.
+  Distingue cicuta de caule liso e manchado da cenoura selvagem peluda.
+- CDC, MMWR 75(20), 28 de maio de 2026: envenenamento por Amanita.
+  Amatoxinas resistem ao cozimento; houve mortes e transplantes.
+- Manual de sobrevivência FM 21-76 do Exército dos Estados Unidos,
+  capítulo 9: sinais para afastar plantas suspeitas e o teste universal.

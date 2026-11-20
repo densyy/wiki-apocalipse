@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 04-043
+TITULO: Como identificar componentes eletrônicos
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: aparelho desligado, luz boa, lupa simples
+REVISAO: 2026-11
+PALAVRAS-CHAVE: peça, resistor, capacitor, placa, eletrônica
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer os componentes comuns de uma placa desligada.
+
+QUANDO USAR
+-----------
+Quando desmontar rádio, TV, fonte ou brinquedo para reaproveitar.
+Quando precisar separar peças queimadas das peças boas no visual.
+Quando quiser montar um estoque de peças para reparos simples.
+
+NAO USE QUANDO
+--------------
+Em aparelho ligado na tomada, na bateria ou com pilhas dentro.
+Em tubo de imagem antigo, fonte grande ou capacitor estufado.
+Se houver cheiro forte, fumaça, vazamento ou placa quente.
+
+MATERIAIS
+---------
+- Placa ou aparelho desligado e frio ao toque.
+- Luz boa de teto ou lanterna (luminária de mesa).
+- Lupa simples ou óculos de aumento (olho treinado).
+- Papel e lápis para anotar marcas e posições.
+- Pincel seco para tirar poeira sem raspar a placa.
+
+PROCEDIMENTO
+------------
+1. Desligue tudo e retire pilhas, baterias e cabo da tomada.
+2. Espere esfriar e trabalhe em mesa seca, sem água por perto.
+3. Limpe a poeira com o pincel, sem forçar os terminais finos.
+4. Localize o resistor, peça que limita a corrente, pelas listras.
+5. Localize o capacitor, peça que guarda carga, pelo cilindro marcado.
+6. Localize o diodo, que conduz num só sentido; o LED tem lado achatado.
+7. Localize o transistor, chave pequena de três pernas para ampliar.
+8. Reconheça o circuito integrado, bloco preto com muitas pernas iguais.
+9. Localize bobina e transformador, fios de cobre enrolados em núcleo.
+10. Anote no papel o formato, as letras e os números de cada peça.
+
+ATENCAO
+-------
+Capacitor grande pode guardar carga e dar choque mesmo desligado.
+Não toque nos terminais metálicos; segure a placa pelas bordas.
+Não ligue a placa para testar; o guia é só visual e não garante peça boa.
+Peça estufada, rachada, vazando líquido ou com cheiro forte é lixo.
+Placa com fumaça ou faísca indica defeito grave; afaste e desligue.
+
+SE NAO TIVER
+------------
+Sem lupa, use a câmera do celular para ampliar a marca impressa.
+Sem pincel, sopre de leve e limpe com pano seco e limpo.
+Sem papel, fotografe a placa antes de remover qualquer peça.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você aponta cada peça na placa e diz o nome sem adivinhar.
+As marcas anotadas no papel conferem com o que está na placa.
+
+FONTES
+------
+Prática consolidada de eletrônica básica, sem documento único.

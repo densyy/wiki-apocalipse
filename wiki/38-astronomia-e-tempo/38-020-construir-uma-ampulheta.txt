@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 38-020
+TITULO: Como construir uma ampulheta
+CATEGORIA: 38 - Astronomia e medição do tempo
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: dois recipientes transparentes, areia fina seca, peneira, selante
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ampulheta, relogio de areia, areia, escoamento, calibrar
+==============================================================================
+
+OBJETIVO
+---------
+Construir um medidor de intervalos com areia entre duas ampolas.
+
+QUANDO USAR
+-----------
+Quando falta energia e é preciso contar um intervalo repetido.
+Para cozinhar, dosar turnos de vigia ou marcar pausas combinadas.
+Para medir o tempo de uma tarefa sem depender de relógio eletrônico.
+Quando o movimento de um barco atrapalha relógios de pêndulo ou de peso.
+
+NAO USE QUANDO
+--------------
+Quando é preciso saber a hora do dia: a ampulheta mede só um intervalo.
+Quando é preciso precisão de segundos ou horários de remédio.
+Sem areia seca e grãos uniformes para o escoamento.
+Sem condição de manter o aparelho na vertical e a junta vedada.
+
+MATERIAIS
+---------
+- Dois recipientes transparentes do mesmo tamanho (frascos ou garrafas).
+- Areia fina, seca e peneirada (pó de mármore ou de casca de ovo).
+- Peneira fina (pano limpo ou meia limpa).
+- Tampa, rolha ou bocal com um furo central pequeno.
+- Cera, resina, argila ou fita resistente para vedar a junta.
+- Suporte de madeira com duas travessas para prender as ampolas.
+- Alfinete ou furador para abrir o orifício central.
+
+PROCEDIMENTO
+------------
+1. Peneire a areia para tirar pedras e grãos grandes.
+2. Deixe a areia secar ao sol até não umedecer a mão.
+3. Fure o centro da tampa com alfinete e alargue o orifício com cuidado.
+4. Faça o orifício com cerca de cinco vezes o diâmetro dos maiores grãos.
+5. Encha um recipiente com areia até cerca da metade da sua capacidade.
+6. Encaixe a tampa furada na boca desse recipiente.
+7. Una o segundo recipiente pela boca, formando um par de ampolas.
+8. Vede toda a junta com cera, resina, argila ou fita bem apertada.
+9. Prenda o conjunto no suporte, com uma ampola exatamente sobre a outra.
+10. Deixe a ampola com areia na posição superior e solte o fio de areia.
+11. Meça com outro medidor quanto tempo a areia leva para passar toda.
+12. Vire o conjunto e meça de novo para conferir a repetição.
+13. Se o tempo ficou curto, acrescente areia ou reduza o orifício.
+14. Se o tempo ficou longo, retire areia ou alargue um pouco o furo.
+15. Refaça a vedação e repita as medições até o intervalo se repetir.
+
+ATENCAO
+-------
+Areia úmida forma grumos e entope o orifício: mantenha o interior vedado.
+Grãos desiguais e pedras travam o escoamento: peneire antes de encher.
+Orifício pequeno demais entope com pó; grande demais encurta o tempo.
+A ampulheta mede um intervalo fixo: vire-a logo quando a areia terminar.
+Alfinete e cera quentes queimam: use pano e afaste inflamáveis.
+Se derreter cera com fogo, ventile o lugar: fogo em ambiente fechado gera
+monoxido de carbono.
+Não espere precisão de segundos: meça antes de usar em tarefa crítica.
+Se a areia parar no meio, desmonte, limpe o furo e torne a vedar.
+
+SE NAO TIVER
+------------
+Sem peneira, passe a areia por pano limpo ou meia de algodão.
+Sem areia, use pó de mármore ou casca de ovo bem moída e peneirada.
+Sem frasco de vidro, use duas garrafas plásticas transparentes.
+Sem cera, use resina de árvore, argila ou fita apertada com pano por cima.
+Sem suporte de madeira, amarre o par de ampolas entre duas estacas firmes.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A areia desce em fio contínuo, sem paradas e sem grumos.
+O intervalo medido se repete em duas viradas seguidas.
+Não há umidade, pó preso ou folga na junta entre as ampolas.
+
+FONTES
+------
+Biblioteca do Congresso dos EUA, explicação sobre ampulheta, 2019: areia
+seca e uniforme, junta vedada, superfície nivelada e calibração.
+Encyclopaedia Britannica, verbete Hourglass, 2017: areia, mármore moído e
+casca de ovo como enchimento; princípio herdado da clepsidra.
+New Journal of Physics, escoamento em ampulheta, 2021; European Journal of
+Physics, Mechanics of the sandglass, 1996: vazão quase constante e orifício
+de cerca de cinco diâmetros de grão.
+Unicamp, guia Escoamento de areia, 2010: calibração por tentativa e erro
+com grãos secos e uniformes.
+Universidade Federal do Pará, Ampulhetas: base, recipiente transparente e
+areia fina e seca. Resumo operacional, não treinamento.

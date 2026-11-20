@@ -1,0 +1,87 @@
+============================================================================
+CODIGO: 80-006
+TITULO: Como produzir etanol por fermentação
+CATEGORIA: 80 - Produção de combustíveis e lubrificantes
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: levedura, matéria doce, recipiente, destilador, ventilação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: etanol, fermentação, levedura, destilação, álcool
+============================================================================
+
+OBJETIVO
+--------
+Obter álcool combustível a partir de matéria-prima doce, conduzindo
+a fermentação e a destilação sem risco de intoxicação ou incêndio.
+
+QUANDO USAR
+-----------
+Quando houver cana, mandioca ou açúcar disponível em excesso.
+Ao precisar de combustível para lampião ou pequeno gerador.
+Quando o álcool comercial faltar ou for caro demais.
+Ao querer aproveitar sobra de caldo ou de batata-doce.
+Somente com local arejado e longe de fontes de fogo.
+
+NAO USE QUANDO
+--------------
+Não beba nem ofereça o produto destilado em casa.
+Não destile em ambiente fechado ou sem ventilação.
+Não improvise destilador com tubo de plástico comum.
+Não use matéria-prima mofada ou com cheiro estranho.
+
+MATERIAIS
+---------
+- Cana, mandioca, batata-doce ou açúcar dissolvido em água.
+- Levedura de panificação ou fermento natural ativo.
+- Recipiente grande com tampa frouxa e pano de cobertura.
+- Destilador próprio, com resfriamento eficiente.
+- Caderno, lápis e recipientes de vidro ou metal para guardar.
+
+PROCEDIMENTO
+------------
+1. Escolha matéria-prima doce: cana, mandioca ou açúcar diluído.
+2. Lave e triture a matéria-prima para liberar o açúcar.
+3. Dissolva açúcar em água morna, não quente.
+4. Adicione levedura de panificação ou fermento natural ativo.
+5. Encha o recipiente até três quartos, deixando espaço para o gás.
+6. Cubra com pano e prenda com corda, deixando sair o gás.
+7. Mantenha o recipiente em local morno e escuro.
+8. Observe a fermentação: espuma e cheiro de álcool mostram atividade.
+9. Espere até a espuma diminuir e o líquido clarear.
+10. Coe o líquido para retirar sólidos antes da destilação.
+11. Destile em aparelho próprio, com resfriamento eficiente.
+12. Descarte as primeiras gotas, que podem ter impurezas voláteis.
+13. Colete o destilado em recipiente fechado e etiquetado.
+14. Anote data, matéria-prima e volume obtido no caderno.
+15. Guarde o produto longe de fogo, calor e luz solar.
+
+ATENCAO
+-------
+Álcool para combustível não é bebida: pode conter metanol.
+Metanol causa cegueira e morte mesmo em pequena quantidade.
+Nunca beba, nem ofereça a outra pessoa, o álcool destilado em casa.
+A fermentação solta gás carbônico: recipiente fechado pode estourar.
+Destilação exige fogo e vapor inflamável: nunca faça em ambiente fechado.
+O destilado é inflamável: mantenha longe de chamas e faíscas.
+Use apenas recipientes próprios para álcool, bem fechados.
+Se sentir tontura ou náusea ao manusear, saia e ventile o local.
+
+SE NAO TIVER
+------------
+Sem levedura, use fermento natural de massa mantido ativo.
+Sem destilador, não improvise com mangueira de plástico comum.
+Sem termômetro, controle o fogo observando o fluxo de vapor.
+Sem medidor, anote apenas o volume aproximado no caderno.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A fermentação produziu espuma e cheiro de álcool.
+O destilado é transparente e foi guardado em recipiente fechado.
+As primeiras gotas foram descartadas.
+O produto está etiquetado como combustível, sem risco de consumo.
+
+FONTES
+------
+Noções de fermentação alcoólica e destilação caseira, resumidas de
+manuais de tecnologia de alimentos e de orientações de segurança
+contra incêndio com líquidos inflamáveis. Uso restrito a combustível.

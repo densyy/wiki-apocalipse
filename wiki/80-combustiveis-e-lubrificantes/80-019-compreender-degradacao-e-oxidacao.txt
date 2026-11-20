@@ -1,0 +1,79 @@
+==============================================================================
+CODIGO: 80-019
+TITULO: Como compreender degradação e oxidação de combustíveis
+CATEGORIA: 80 - Produção de combustíveis e lubrificantes
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: oxidação, degradação, goma, água, bactéria, estabilidade
+==============================================================================
+
+OBJETIVO
+--------
+Entender por que o combustível estraga e como retardar o processo.
+
+QUANDO USAR
+-----------
+Ao encontrar goma, verniz ou cheiro acre no tanque.
+Ao guardar gerador ou veículo fora de uso por meses.
+Ao notar filtro entupido pouco depois da troca.
+Ao decidir entre usar ou descartar estoque antigo.
+
+NAO USE QUANDO
+--------------
+Não tente recuperar combustível muito degradado com aditivo caseiro.
+Não use combustível com presença de microrganismos visíveis.
+Não confie em prazo de validade impresso se o armazenamento foi ruim.
+Não misture lote duvidoso com combustível bom.
+
+MATERIAIS
+---------
+- Nenhum material. Este tutorial explica os mecanismos de estrago.
+- Frasco transparente para observar amostra antiga (opcional).
+- Caderno para registrar data de recebimento e de abertura.
+
+PROCEDIMENTO
+------------
+1. Reconheça a oxidação: o combustível reage com oxigênio do ar.
+2. Entenda que calor, luz e metal aceleram essa reação.
+3. Observe que a oxidação forma goma e verniz insolúveis.
+4. Relacione goma com filtro entupido e injetor sujo.
+5. Identifique a evaporação dos componentes mais leves.
+6. Note que a perda de leves dificulta a partida no frio.
+7. Entenda que a água entra por umidade do ar e respiro do tanque.
+8. Veja que a água se acumula no fundo, por ser mais densa.
+9. Reconheça que bactérias e fungos vivem na interface com a água.
+10. Observe o biofilme como lama escura ou cheiro de mofado.
+11. Entenda que o biofilme corrói tanque e entope filtro.
+12. Note que o etanol atrai água e agrava o problema.
+13. Relacione estabilidade ao tempo de armazenagem seguro.
+14. Registre a ordem: evitar água, calor e ar é o melhor remédio.
+
+ATENCAO
+-------
+Combustível degradado pode não queimar e deixar o motor parado.
+Goma e verniz não saem com filtragem simples.
+Biofilme é sinal de contaminação ativa: limpe o tanque.
+Aditivos antioxidantes ajudam, mas não recuperam produto estragado.
+Tanque com água corrói por dentro e solta ferrugem na linha.
+Descarte o resíduo conforme regra ambiental local.
+
+SE NAO TIVER
+------------
+Sem amostra, estude o mecanismo com o registro do estoque.
+Sem estabilizante, reduza o volume estocado e renove o estoque.
+Sem limpeza de tanque, não reutilize lote com biofilme.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você explica a diferença entre oxidação, evaporação e contaminação.
+Você aponta água no fundo e calor como causas aceleradoras.
+Você não mistura lote antigo duvidoso com estoque novo.
+Você registrou datas de recebimento e abertura de cada recipiente.
+
+FONTES
+------
+Conhecimento de química e tecnologia de combustíveis sobre estabilidade,
+oxidação e contaminação microbiana em tanques de armazenagem.
+Leitura complementar: 80-012 e 80-013.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 05-032
+TITULO: Como construir portas e janelas
+CATEGORIA: 05 - Abrigo, construção e habitação
+TEMPO: 120 minutos
+RISCO: medio
+EXIGE: madeira para folha e batente, pregos, ferramentas de corte
+REVISAO: 2026-11
+PALAVRAS-CHAVE: porta, janela, abrigo, madeira, vedar, dobradica
+==============================================================================
+
+OBJETIVO
+--------
+Fechar os vaos do abrigo com porta e janela simples contra vento.
+
+QUANDO USAR
+-----------
+Quando o abrigo ficou sem porta e entra vento e chuva.
+Quando a janela precisa de tampa que abre e fecha.
+Quando quer trancar a entrada com peca simples de madeira.
+
+NAO USE QUANDO
+--------------
+Quando a parede esta mole, torta ou pode cair com peso extra.
+Quando falta ferramenta de corte e nao da para medir e ajustar.
+
+MATERIAIS
+---------
+- Tabuas ou compensado para a folha (porta velha, tampo).
+- Sarrafos retos para batente e travamento (ripas, galhos).
+- Pregos ou parafusos curtos e longos (arame grosso, cipo).
+- Dobradicas simples ou tiras de couro e pano forte (cinto).
+- Trinco, ferrolho ou gancho com laco de corda (arame).
+- Serrote, martelo, trena ou barbante, lapis e cunhas.
+
+PROCEDIMENTO
+------------
+1. Meca altura e largura do vao em tres pontos com a trena.
+2. Anote a menor medida e desconte 1 cm de cada lado.
+3. Corte as tabuas no comprimento da altura do vao.
+4. Junte as tabuas lado a lado e pregue dois sarrafos na folha.
+5. Monte o batente ao redor do vao e fixe com pregos ou amarras.
+6. Prenda as dobradicas no batente e depois na folha.
+7. Pendure a folha e cale com cunhas ate abrir sem raspar.
+8. Fixe o trinco por dentro ao alcance da mao.
+9. Repita na janela menor e vede frestas com pano ou barro.
+
+ATENCAO
+-------
+Serrote e martelo cortam e esmagam dedos: prenda a peca.
+Folha pesada em parede fraca arranca o batente e cai.
+Nao trave a unica saida por dentro sem saida reserva.
+Se a estrutura ceder ou rachar, pare e escore a parede.
+
+SE NAO TIVER
+------------
+Sem dobradica, use tira de couro, cinto ou pano dobrado.
+Sem trinco, use gancho de arame com laco de corda por dentro.
+Sem tabua, use compensado, porta velha ou lona esticada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A porta abre e fecha sem raspar e sem forcar a mao.
+Com porta fechada, o vento e a chuva ficam do lado de fora.
+
+FONTES
+------
+Pratica consolidada de carpintaria simples e abrigo de
+emergencia em desastres (familias de referencia: FEMA, IFRC
+e manual militar de sobrevivencia civil). Resumo operacional.

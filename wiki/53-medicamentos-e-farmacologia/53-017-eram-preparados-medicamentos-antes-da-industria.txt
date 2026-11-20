@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 53-017
+TITULO: Como eram preparados medicamentos antes da indústria
+CATEGORIA: 53 - Produção de medicamentos e farmacologia
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: planta identificada, água potável, álcool etílico, frasco, calor
+REVISAO: 2026-11
+PALAVRAS-CHAVE: boticário, infusão, decocção, tintura, xarope, pomada, chá
+==============================================================================
+
+OBJETIVO
+--------
+Preparar remédios vegetais pelos métodos usados antes da indústria.
+
+QUANDO USAR
+-----------
+Quando faltam medicamentos industrializados e há plantas identificadas.
+Quando se quer reproduzir o trabalho dos antigos boticários.
+Quando o saber popular sobre plantas medicinais precisa ser registrado.
+Quando se prepara fitoterápico de uso imediato, no próprio dia.
+
+NAO USE QUANDO
+--------------
+Quando não for possível identificar a espécie da planta com certeza.
+Para substituir tratamento prescrito sem orientação de profissional.
+Para preparar injetáveis ou formas que exijam esterilidade.
+Quando a planta for tóxica ou vier de solo contaminado por agrotóxico.
+
+MATERIAIS
+---------
+- Planta medicinal identificada e seca (ou fresca, se a fonte indicar).
+- Água potável filtrada ou fervida.
+- Álcool etílico a 70% (ou vinho, se não houver álcool etílico).
+- Frasco de vidro âmbar com tampa (ou vidro escuro embrulhado em pano).
+- Pano limpo ou papel de filtro para coar.
+- Recipiente para ferver e fonte de calor brando.
+- Colher de medida ou balança simples.
+
+PROCEDIMENTO
+------------
+1. Identifique a espécie da planta antes de iniciar qualquer preparo.
+2. Descarte material sem identificação confiável.
+3. Lave a parte da planta em água corrente.
+4. Seque a planta à sombra, em local arejado, quando usar seca.
+5. Raspe ou triture a parte seca com utensílio limpo.
+6. Meça aproximadamente 1 a 2 g de folha seca por xícara.
+7. Aqueça água potável até ferver.
+8. Despeje aproximadamente 150 mL de água sobre a folha.
+9. Tampe o recipiente e espere aproximadamente 10 a 15 minutos.
+10. Coe com pano limpo e use no mesmo dia.
+11. Para decocção, meça 1 parte de casca ou raiz para 10 de água.
+12. Leve ao fogo brando e ferva por aproximadamente 5 a 15 minutos.
+13. Coe a decocção ainda quente com pano limpo.
+14. Para maceração, coloque a planta rasurada no frasco âmbar.
+15. Adicione álcool a 70% na proporção aproximada de 1 para 10.
+16. Tampe e deixe em local escuro por aproximadamente 20 dias.
+17. Agite o frasco uma vez por dia durante esse período.
+18. Filtre o líquido com papel de filtro ou pano limpo.
+19. Guarde a tintura em vidro âmbar, longe de chama e calor.
+20. Para xarope, dissolva açúcar em água quente, proporção 2 para 1.
+21. Junte a infusão coada e mexa até ficar uniforme.
+22. Para pomada, derreta gordura ou vaselina em banho-maria brando.
+23. Misture o pó da planta até obter massa homogênea.
+24. Acondicione a pomada em pote limpo e tampado.
+
+ATENCAO
+-------
+O erro mais grave é usar planta errada: isso pode intoxicar.
+Nomes populares diferentes designam espécies diferentes em cada região.
+Álcool etílico é inflamável: nunca aproxime a tintura do fogo.
+A decocção ferve; use recipiente estável e não tampe enquanto ferve.
+Preparo caseiro não tem dose padronizada nem controle de pureza.
+Suspenda e procure ajuda se houver náusea, tontura ou manchas na pele.
+Mulheres grávidas, crianças e alcoolistas não devem usar tinturas.
+Descarte preparo com cheiro estranho, mofo ou coloração alterada.
+
+SE NAO TIVER
+------------
+Sem frasco âmbar, use vidro escuro embrulhado em pano, longe da luz.
+Sem álcool etílico, não improvise com metanol: é letal.
+Sem balança, trabalhe com proporções aproximadas e anote a receita.
+Sem condição de identificar a planta, não prepare: compre o insumo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A infusão ficou com cor e odor característicos da planta usada.
+A decocção não deixou resíduo de casca na peneira.
+A tintura ficou límpida, sem partículas em suspensão.
+A pomada ficou uniforme, sem grumos nem separação de gordura.
+
+FONTES
+------
+Formulário de Fitoterápicos da Farmacopeia Brasileira, Anvisa
+(infusão, decocção, maceração e tintura). Boas práticas de
+processamento de plantas medicinais, OMS. História das boticas e
+das farmacopeias: capítulo acadêmico publicado pela SciELO e
+acervo do Museu do Universo da Farmácia. Prática consolidada
+sem documento único para xaropes e pomadas caseiros.

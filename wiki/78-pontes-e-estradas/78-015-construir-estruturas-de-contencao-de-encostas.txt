@@ -1,0 +1,85 @@
+==============================================================================
+CODIGO: 78-015
+TITULO: Como construir estruturas de contenção de encostas
+CATEGORIA: 78 - Pontes, estradas e infraestrutura de transporte
+TEMPO: 420 minutos
+RISCO: critico
+EXIGE: estacas, madeira ou gabiões, drenagem, enxada, prumo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: encosta, contencao, estaca, drenagem, deslizamento, talude
+==============================================================================
+
+OBJETIVO
+--------
+Estabilizar uma encosta com estruturas que impedem o deslizamento de terra.
+
+QUANDO USAR
+-----------
+Quando a encosta apresenta rachaduras, arvores inclinadas ou terra solta.
+Apos deslizamento pequeno, para evitar que a area atingida cresca.
+Onde a estrada ou a casa fica no pé do talude.
+Antes do periodo chuvoso, em encostas com historico de deslizamentos.
+
+NAO USE QUANDO
+--------------
+Nao trabalhe na encosta durante ou logo apos chuva forte.
+Nao execute se houver rachadura larga se abrindo ou agua jorrando.
+Nao confie em contenção simples em deslizamento grande e ativo.
+Nao inicie obra sem observar para onde a terra escorre e onde a agua sai.
+
+MATERIAIS
+---------
+- Estacas de madeira tratada ou vigas para escoras (troncos).
+- Gabiões, pedra ou sacos de terra para o peso de base (arrimo).
+- Tubo ou valeta de drenagem para desviar a agua da encosta.
+- Corda, arame ou cinta para amarrar as estruturas (2 a 3 mm).
+- Enxada, pá, marreta, prumo, nivel e fita metrica.
+- Capacete, botas e luvas.
+
+PROCEDIMENTO
+------------
+1. Observe a encosta de cima e de baixo antes de qualquer servico.
+2. Marque as rachaduras com estacas e acompanhe se aumentam.
+3. Desvie a agua da superficie para fora da area com valeta.
+4. Escave uma vala de drenagem no topo da encosta, com queda suave.
+5. Retire arvores podres e material solto da area de trabalho.
+6. Crave estacas na base do talude, espaçadas cerca de 1 metro.
+7. Enterre cada estaca pelo menos um terço do comprimento.
+8. Apoie vigas diagonais das estacas contra o solo do talude.
+9. Amarre as vigas as estacas com arame ou cinta, bem apertado.
+10. Coloque gabiões ou sacos de terra na base para dar peso.
+11. Cubra as rachaduras com terra impermeavel e compacte (argila).
+12. Instale drenos profundos se a agua brotar na face da encosta.
+13. Reveja as amarras e o prumo apos as primeiras chuvas.
+14. Registre com fotos ou croqui o estado inicial e as mudancas.
+
+ATENCAO
+-------
+Deslizamento ativo matou pessoas: nao trabalhe na frente da massa.
+Rachadura que cresce, agua turva e estalos são sinais de ruptura iminente.
+Se isso acontecer, saia da area e avise as autoridades locais.
+Nunca desvie agua para o topo de uma encosta ja instavel.
+Estaca mal cravada arranca e deixa a estrutura sem efeito.
+Obra em encosta alta exige projeto e acompanhamento tecnico.
+Nao confie apenas em sacos de terra em encosta muito inclinada.
+
+SE NAO TIVER
+------------
+Sem gabiões, empilhe pedras em sacos resistentes na base do talude.
+Sem madeira tratada, use estacas de lei seca e troque depois.
+Sem tubo de drenagem, abra valeta superficial de terra no topo.
+Sem prumo, use um fio com peso para conferir a verticalidade.
+Sem equipe para obra grande, interdite a area e peça ajuda tecnica.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A agua escoa pela valeta e nao penetra na face da encosta.
+As estacas e vigas estao firmes, alinhadas e bem amarradas.
+As rachaduras nao cresceram apos a primeira chuva.
+Nao ha terra nova escorrendo nem sinais de abatimento na base.
+
+FONTES
+------
+Pratica consolidada de estabilizacao de encostas e drenagem de taludes
+em areas rurais, sem documento unico obrigatorio. Orientacoes gerais
+de engenharia geotecnica e defesa civil para movimentos de massa.

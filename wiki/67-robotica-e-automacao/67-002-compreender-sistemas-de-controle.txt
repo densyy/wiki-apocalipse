@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 67-002
+TITULO: Como compreender sistemas de controle
+CATEGORIA: 67 - Robótica, automação e controle
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: papel, caneta, um exemplo simples como termostato ou chuveiro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: controle, realimentação, sensor, erro, PID, malha, feedback
+==============================================================================
+
+OBJETIVO
+---------
+Reconhecer as cinco partes de um sistema de controle e explicar como a
+realimentação mantém uma máquina no alvo.
+
+QUANDO USAR
+-----------
+Quando um termostato liga e desliga para manter a temperatura.
+Quando um motor para no lugar certo mesmo com carga variando.
+Quando uma bomba mantém o nível de um tanque.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Papel e caneta para desenhar a malha.
+- Um exemplo simples: termostato, chuveiro ou controle de velocidade.
+
+PROCEDIMENTO
+------------
+1. Escreva a grandeza a manter: temperatura, nível, posição ou velocidade.
+2. Anote o valor desejado. Esse é o alvo, ou ponto de ajuste.
+3. Ache o sensor: termômetro, boia ou codificador que mede a grandeza.
+4. Escreva o erro: valor desejado menos valor medido.
+5. Ache o controlador: a peça que lê o erro e decide a correção.
+6. Ache o atuador: motor, válvula ou resistência que age no processo.
+   Processo é o objeto a controlar.
+7. Se o erro diminui, é realimentação negativa. Se aumenta, é positiva.
+8. Desenhe a malha: alvo, comparação, controlador, atuador, processo,
+   sensor e volta até a comparação.
+
+ATENCAO
+-------
+A realimentação só corrige depois que o erro aparece.
+Atraso entre medir e corrigir faz o sistema oscilar.
+Correção forte demais ultrapassa o alvo e provoca oscilação.
+Sensor sujo engana o controlador e a correção sai errada.
+
+SE NAO TIVER
+------------
+Sem papel, decore a ordem: alvo, comparação, controlador, atuador,
+processo, sensor e volta.
+Sem equipamento, use o chuveiro: a pele é o sensor, a mão é o atuador
+e o conforto é o alvo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Aponte as cinco partes: alvo, sensor, controlador, atuador e processo.
+Preveja o que acontece se o sensor sujar ou a carga aumentar.
+Explique por que o sistema oscila quando o atraso cresce.
+
+FONTES
+------
+Prática consolidada de controle, sem documento único. Base: "Feedback
+Control Theory" (Universidade de Toronto); "Chemical Process Dynamics
+and Controls" (Michigan); NISTIR 4936 (NIST); "Fundamentals of PID
+Control" (ISA). Resumo, não substitui treinamento.

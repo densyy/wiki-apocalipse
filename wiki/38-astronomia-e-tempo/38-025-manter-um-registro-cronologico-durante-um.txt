@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 38-025
+TITULO: Como manter um registro cronológico no apagão prolongado
+CATEGORIA: 38 - Astronomia e medição do tempo
+TEMPO: 10 minutos por dia
+RISCO: baixo
+EXIGE: caderno, lápis, visão livre do céu
+REVISAO: 2026-11
+PALAVRAS-CHAVE: registro, calendário, dias, apagão, relógio, sol, caderno
+==============================================================================
+
+OBJETIVO
+--------
+Manter a contagem dos dias e a ordem dos fatos sem relógio nem energia.
+
+QUANDO USAR
+-----------
+Quando relógios e celulares pararam por falta de energia.
+Quando a data se perdeu e precisar anotar fatos por ordem.
+
+NAO USE QUANDO
+--------------
+Não serve quando o prazo exige minutos exatos, como dose de remédio.
+
+MATERIAIS
+---------
+- Caderno ou folhas (papel áspero serve).
+- Lápis (carvão ou haste de metal pontuda servem).
+- Palito reto para a sombra (galho fino serve).
+- Cordão ou pedrinhas para contar os dias.
+
+PROCEDIMENTO
+------------
+1. Escolha um lugar fixo com vista livre para o leste e o oeste.
+2. Marque no chão o ponto de observação do sol.
+3. Fince o palito reto no ponto marcado.
+4. Escreva no caderno a última data conhecida, mesmo que aproximada.
+5. Anote ao lado "dia 1" e o nascer do sol.
+6. A sombra mais curta marca o meio do dia solar: sol no ponto mais alto.
+7. Anote "manhã", "meio do dia" ou "tarde" pela sombra do palito.
+8. Faça uma marca no cordão a cada amanhecer.
+9. Escreva ao lado de cada marca o fato do dia, pela ordem.
+10. Guarde o caderno seco, no mesmo lugar, ao anoitecer.
+
+ATENCAO
+-------
+A sombra marca dias e partes do dia, nunca horas exatas.
+Nuvens escondem o sol; nesses dias apenas conte as marcas.
+Anote o fato no mesmo dia: a memória falha com o tempo.
+Não use caneta em papel molhado: a tinta borra e a data some.
+Não escreva perto de fogo: papel queima rápido.
+Se as pessoas discordam, comparem as marcas e adotem a contagem comum.
+
+SE NAO TIVER
+------------
+Sem caderno, risque uma linha por dia na parede com carvão.
+Sem palito, finque um galho fino no chão como relógio de sombra.
+Sem sol por vários dias, continue a contagem sem reiniciar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As marcas aparecem contínuas, uma por dia, sem buracos.
+Duas pessoas apontam a mesma data na contagem.
+
+FONTES
+------
+Prática consolidada de contagem de dias e registro sem relógio.
+Base: ciclo solar e meio-dia pela sombra, comum em diários de bordo.
+Resumo operacional, não substitui treinamento.

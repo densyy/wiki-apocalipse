@@ -1,0 +1,77 @@
+==============================================================================
+CODIGO: 49-009
+TITULO: Como compreender a produção industrial de cal
+CATEGORIA: 49 - Engenharia química e processos industriais
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: caderno, lápis, noções básicas de química
+REVISAO: 2026-11
+PALAVRAS-CHAVE: cal, calcário, cal virgem, cal hidratada, calcinação, forno
+==============================================================================
+
+OBJETIVO
+--------
+Entender, passo a passo, como o calcário se transforma em cal industrial.
+
+QUANDO USAR
+-----------
+Quando precisar interpretar a calcinação em uma planta industrial.
+Quando precisar distinguir cal virgem de cal hidratada antes de usar.
+Quando precisar explicar a origem da cal usada na construção civil.
+Quando precisar avaliar o risco de manusear cal em uma obra.
+
+NAO USE QUANDO
+--------------
+Como guia de fabricação caseira: este texto descreve o processo industrial e
+nao fornece equipamento, controle de temperatura nem protocolo de seguranca
+para produzir cal. Nao substitui treinamento tecnico.
+
+MATERIAIS
+---------
+- Caderno e lápis para anotar as etapas. (Folha de papel e caneta.)
+- Noções básicas de química: átomo, reação e fórmula. (Livro didático.)
+- Nenhum reagente químico e necessario para este estudo.
+
+PROCEDIMENTO
+------------
+1. Identifique o calcário: rocha rica em carbonato de cálcio, CaCO3.
+2. Anote outras fontes: giz, mármore, marga e oólito também servem.
+3. Escreva a reação central: CaCO3 aquecido gera CaO e CO2.
+4. Marque a condição: forno de cal, aproximadamente 900 graus Celsius.
+5. Nomeie o produto: cal virgem, o óxido de cálcio CaO.
+6. Registre: a cal virgem é cáustica e reage com água.
+7. Escreva a hidratação: CaO mais H2O gera Ca(OH)2.
+8. Nomeie o resultado: cal hidratada, hidróxido de cálcio.
+9. Distinga as formas: pouca água da pó; excesso da pasta.
+10. Descreva o ciclo: com CO2 do ar, a cal volta a calcário.
+11. Relacione os usos: argamassa, aço, açúcar e tratamento de água.
+
+ATENCAO
+-------
+A cal virgem (CaO) é corrosiva: queima pele e olhos.
+Nunca toque cal virgem com as mãos nuas.
+A hidratação libera calor; adicione água aos poucos, nunca de uma vez.
+O CO2 do forno é asfixiante em local fechado: exige ventilação.
+A cal hidratada também é alcalina e irrita a pele.
+Use óculos, luvas e máscara ao manusear qualquer forma de cal.
+A calcinação exige forno industrial; não tente reproduzi-la em casa.
+Este texto descreve o processo, não habilita a operar uma calcinadora.
+
+SE NAO TIVER
+------------
+Sem caderno, anote as etapas em qualquer papel disponível.
+Sem química, decore as fórmulas CaCO3, CaO e Ca(OH)2 antes de continuar.
+Não existe substituto para o forno na produção real: não improvise.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você escreve as duas reações e nomeia cada produto sem olhar o texto.
+Você distingue cal virgem de cal hidratada e explica o ciclo da cal.
+
+FONTES
+------
+Literatura técnica consolidada sobre produção de cal:
+Oates, Lime and Limestone (Wiley-VCH);
+capítulo Lime Calcination, Handbook of Environmental
+Engineering (Humana Press); USGS, Mineral Commodity
+Summaries. Resumo operacional, não substitui treinamento.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 08-052
+TITULO: Como reparar pneus e câmaras de ar
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: kit de remendos com cola, lixa, bomba, alavancas, água e pano
+REVISAO: 2026-11
+PALAVRAS-CHAVE: pneu, câmara de ar, furo, remendo, cola, bomba, vazamento
+==============================================================================
+
+OBJETIVO
+--------
+Localizar o furo, remendar a câmara de ar e recolocar o pneu em segurança.
+
+QUANDO USAR
+-----------
+Quando a roda perde ar devagar ou esvazia após passar sobre objeto cortante.
+Quando o furo é pequeno e fica na banda de rodagem (parte que toca o chão).
+
+NAO USE QUANDO
+--------------
+Corte na lateral, cordas expostas ou talão danificado: troque o pneu.
+Câmara rasgada, com vários furos ou vazando na válvula: troque a câmara.
+
+MATERIAIS
+---------
+- Kit de remendos com cola de borracha e lixa fina.
+- Bomba manual e duas alavancas de pneu (improviso pode furar a câmara).
+- Água, recipiente, pano limpo e retalho de pneu velho.
+
+PROCEDIMENTO
+------------
+1. Retire a roda e solte uma borda do pneu com as alavancas.
+2. Puxe a câmara para fora, sem torcer nem puxar pela válvula.
+3. Encha a câmara: ache o furo pelo assobio ou pelas bolhas na água.
+4. Seque a câmara com pano limpo antes de colar.
+5. Retire o objeto cortante preso na banda de rodagem do pneu.
+6. Lixe o ponto do furo até a borracha perder o brilho.
+7. Retire o pó com a mão seca e não toque na área lixada.
+8. Espalhe cola fina cobrindo toda a área do remendo.
+9. Espere a cola secar: fica fosca e não gruda no dedo.
+10. Retire a película e pressione o remendo do centro para as bordas.
+11. Espere aproximadamente 5 minutos antes de inflar a câmara.
+12. Com corte no pneu, coloque o reforço interno sobre o corte.
+13. Encaixe a válvula no aro e acomode a câmara sem torcer.
+14. Coloque a segunda borda com as mãos, sem alavanca nem câmara pinçada.
+15. Infle um pouco e gire a roda; se houver barriga, esvazie e reassente.
+16. Infle até a pressão da lateral e tampe a válvula.
+
+ATENCAO
+-------
+Cola é inflamável: não remende perto de fogo.
+A câmara estoura se inflada fora do pneu; barriga no pneu pode explodir.
+Não ande com pneu vazio: ele sai do aro e causa queda.
+
+SE NAO TIVER
+------------
+Sem kit de remendos, troque a câmara por uma reserva.
+Fita adesiva serve só como remendo temporário; não confie nela na estrada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Não há bolhas na câmara inflada e o remendo fica firme depois de inflar.
+A roda gira sem barriga, mantém a pressão e os freios não raspam.
+
+FONTES
+------
+Guia técnico de reparo de pneus de Sheldon Brown, revisado por John Allen;
+prática consolidada de remendo de câmaras de ar.

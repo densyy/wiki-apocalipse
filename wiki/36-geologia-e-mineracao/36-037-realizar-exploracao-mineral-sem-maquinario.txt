@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 36-037
+TITULO: Como realizar exploração mineral sem maquinário pesado
+CATEGORIA: 36 - Geologia, mineração e recursos naturais
+TEMPO: 2 horas
+RISCO: medio
+EXIGE: botas, luvas, caderno, pá pequena, bandeja rasa, água, mapa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: minério, prospecção, bandeja, córrego, quartzo, garimpo
+==============================================================================
+
+OBJETIVO
+--------
+Localizar indícios de minério usando só observação e ferramentas manuais.
+
+QUANDO USAR
+-----------
+Quando há afloramentos, veios ou cascalho no leito do córrego.
+Quando o acesso é a pé e existe relato de mineração antiga na região.
+
+NAO USE QUANDO
+--------------
+Em mina ativa, galeria, poço ou barragem de rejeito.
+Em área cercada, protegida ou de terceiros sem autorização.
+Quando chove forte ou quando o objetivo é vender mineral.
+
+MATERIAIS
+---------
+- Mapa topográfico ou geológico (ou croqui das estradas).
+- Caderno, lápis e fita de pano para marcar pontos.
+- Bandeja rasa de plástico (tigela ou tampa de balde).
+- Pá pequena (colher de pedreiro) e água levada em recipiente.
+- Botas firmes, luvas e roupa que cubra pernas e braços.
+
+PROCEDIMENTO
+------------
+1. Confirme que o acesso ao terreno é permitido.
+2. Marque no croqui a nascente e os córregos da área.
+3. Comece na parte alta e caminhe a jusante do córrego.
+4. Observe cortes de estrada e afloramentos expostos.
+5. Anote veios de quartzo e manchas vermelhas de óxido.
+6. Retire cascalho da curva interna do córrego com a pá.
+7. Lave na bandeja até sobrar grãos densos no fundo.
+8. Repita a lavagem em três pontos do mesmo córrego.
+9. Feche os buracos e anote a posição de cada ponto.
+
+ATENCAO
+-------
+Indício visual não prova minério, teor nem viabilidade econômica.
+Não entre em mina, poço ou talude: desabamento e falta de ar matam.
+Nunca use mercúrio, cianeto ou ácido para testar ou separar ouro.
+Use luvas e lave as mãos: sílica, arsênio e chumbo são tóxicos.
+Pare e saia da água se chover ou se o córrego subir de nível.
+Pesquisa e lavra dependem de autorização da ANM e do dono da terra.
+
+SE NAO TIVER
+------------
+Sem bandeja, use tigela rasa ou tampa de balde grande.
+Sem mapa, siga a drenagem a partir da nascente mais alta.
+Sem luvas, use pano grosso e nunca toque rejeito com as mãos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você registrou três pontos com grãos densos e cor da rocha.
+
+FONTES
+------
+Prática consolidada de prospecção mineral de superfície e lavagem de
+sedimentos. Consultado: USGS Mineral Resources Program (2026-11).
+Resumo operacional; não substitui laudo geológico nem autorização.

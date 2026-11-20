@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 04-015
+TITULO: Como construir um carregador solar improvisado
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: painel solar pequeno, modulo USB, sol direto
+REVISAO: 2026-11
+PALAVRAS-CHAVE: solar, carregador, painel, usb, celular, bateria
+==============================================================================
+
+OBJETIVO
+--------
+Montar carregador solar simples para celular ou bateria pequena.
+
+QUANDO USAR
+-----------
+Quando faltar energia da rede por horas ou dias.
+Quando houver sol direto e aparelho descarregado.
+Quando houver painel solar pequeno disponivel.
+
+NAO USE QUANDO
+--------------
+A noite, com chuva forte ou painel molhado e danificado.
+Para ligar geladeira, ferramenta ou aparelho de tomada.
+Se a bateria estiver estufada, quente ou com cheiro forte.
+
+MATERIAIS
+---------
+- Painel solar pequeno de aproximadamente 5 a 6 volts.
+- Saida USB pronta ou modulo regulador USB para painel solar.
+- Cabo USB em bom estado.
+- Celular, lanterna recarregavel ou bateria externa para carregar.
+- Pano seco para limpar o painel.
+
+PROCEDIMENTO
+------------
+1. Monte tudo em local seco antes de levar ao sol.
+2. Limpe o painel com pano seco, sem agua e sem solvente.
+3. Confira se cabo, painel e conector estao inteiros e secos.
+4. Ligue o painel ao modulo USB respeitando positivo e negativo.
+5. Leve o conjunto para sol direto, sem sombra parcial.
+6. Incline o painel de frente para o sol do meio-dia.
+7. Ligue o cabo USB primeiro no modulo e depois no aparelho.
+8. Aguarde o icone de carga aparecer na tela do aparelho.
+9. Proteja celular e bateria do sol direto com sombra e pano.
+10. Desligue o aparelho do USB antes de recolher o painel.
+
+ATENCAO
+-------
+O que mata aqui e bateria danificada e curto-circuito, nao o sol.
+Nunca abra bateria, power bank ou celular para ligar fio direto.
+Bateria estufada, muito quente ou com cheiro indica risco de fogo.
+Molhado nao carrega: recolha tudo em chuva e seque antes de usar.
+Nunca ligue painel em fio de tomada ou em rede energizada.
+
+SE NAO TIVER
+------------
+Sem modulo USB, use somente painel com saida USB de fabrica.
+Sem bateria externa, carregue o celular direto em modo economico.
+Com cabo ruim, troque o cabo; emenda improvisada causa calor.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O icone de carga aparece e a porcentagem sobe com o tempo.
+O fio segue frio, sem cheiro, fumaca ou aquecimento forte.
+
+FONTES
+------
+Pratica consolidada de eletronica de baixa tensao, sem documento unico.

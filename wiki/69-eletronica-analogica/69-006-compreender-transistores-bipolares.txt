@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 69-006
+TITULO: Como compreender transistores bipolares
+CATEGORIA: 69 - Eletrônica analógica e componentes discretos
+TEMPO: 25 minutos
+RISCO: medio
+EXIGE: transistor NPN e PNP, pilha de 9 V, resistores, LED, multímetro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: transistor, bjt, npn, pnp, base, emissor, coletor, chave
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer os terminais e usar a base para controlar a corrente do coletor.
+
+QUANDO USAR
+-----------
+Quando for identificar os terminais de um transistor fora do circuito.
+Quando precisar de uma chave eletrônica para ligar e desligar uma carga.
+
+NAO USE QUANDO
+--------------
+Quando o equipamento estiver ligado à tomada ou a fonte sem isolamento.
+Quando não houver folha de dados e o circuito exigir corrente exata.
+Quando o transistor estiver quente, inchado ou com cheiro de queimado.
+
+MATERIAIS
+---------
+- Transistor NPN e um PNP, pilha de 9 V isolada.
+- Resistor de 10 kΩ na base, de 1 kΩ no LED, e um LED.
+- Multímetro com escala de continuidade e de tensão contínua.
+
+PROCEDIMENTO
+------------
+1. Desligue a alimentação antes de tocar nos terminais.
+2. Leia a folha de dados para saber a ordem: base, coletor e emissor.
+3. No NPN, a seta do símbolo sai da base e aponta para o emissor.
+4. No PNP, a seta aponta do emissor para a base.
+5. Ligue o emissor do NPN ao negativo da pilha.
+6. Ligue o coletor ao LED e ao resistor de 1 kΩ, até o positivo da pilha.
+7. Ligue a base ao positivo da pilha pelo resistor de 10 kΩ.
+8. Encoste o fio da base no positivo: o LED acende.
+9. Retire o fio da base: o LED apaga.
+10. Repita com o PNP invertendo as polaridades da pilha.
+
+ATENCAO
+-------
+A tensão da rede elétrica pode matar. Nunca teste na tomada.
+Use resistor na base: sem ele, o transistor e o LED podem queimar.
+O ganho β (beta) varia entre 20 e 200 e muda com a temperatura.
+A tensão base-emissor do silício fica perto de 0,6 V e cai com o calor.
+Respeite os limites do fabricante de tensão, corrente e potência.
+
+SE NAO TIVER
+------------
+Sem folha de dados, ache a base no multímetro em continuidade: é o terminal
+comum às duas junções diodo, com o circuito desligado.
+Sem resistor de 10 kΩ, use o maior disponível, nunca ligue a base direto.
+Sem multímetro, use o LED para ver se a corrente passa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Com a base alimentada pelo resistor, o LED acende; ao retirar o fio, apaga.
+Sem corrente na base o transistor bloqueia; com corrente ele conduz.
+
+FONTES
+------
+HyperPhysics, Georgia State University: transistor de junção, amplificação
+de corrente, limites de operação e junção base-emissor. Electronics
+Tutorials (AspenCore): tutorial Bipolar Transistor. Prática consolidada.

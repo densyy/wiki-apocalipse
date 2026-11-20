@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 31-006
+TITULO: Como construir uma geladeira evaporativa
+CATEGORIA: 31 - Refrigeração e conservação térmica
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: dois vasos de barro cru, areia, pano limpo, água e sombra
+REVISAO: 2026-11
+PALAVRAS-CHAVE: evaporativa, barro, areia, água, sombra, geladeira
+==============================================================================
+
+OBJETIVO
+--------
+Montar geladeira sem energia que esfria pela evaporação da água.
+
+QUANDO USAR
+-----------
+Sem energia elétrica; clima quente e seco; com água, areia e sombra.
+
+NAO USE QUANDO
+--------------
+Ar úmido: a água não evapora e nada esfria.
+Sem água diária ou para carne crua, peixe, leite e remédios com frio.
+
+MATERIAIS
+---------
+- Dois vasos de barro cru sem esmalte, um menor que caiba no outro.
+- Areia limpa; pano limpo para forrar e cobrir o menor.
+- Água limpa; tijolos ou pedras para apoiar o vaso maior.
+- Lugar sombreado, arejado e protegido da chuva.
+
+PROCEDIMENTO
+------------
+1. Escolha dois vasos de barro cru, um menor que entre no maior.
+2. Lave os vasos e encaixe o menor no maior, sem encostar as bordas.
+3. Preencha o espaço entre eles com areia até perto da borda.
+4. Umedeça a areia com água limpa, sem encharcar.
+5. Forre o fundo do menor com o pano e coloque frutas ou hortaliças.
+6. Cubra a boca do menor com o pano e molhe sem encharcar.
+7. Apoie o maior sobre tijolos se o chão esquentar.
+8. Coloque na sombra, arejado, longe do sol e do fogo.
+9. Regue a areia uma vez por dia, mais em clima seco e quente.
+10. Remolhe o pano se estiver seco pela manhã.
+
+ATENCAO
+-------
+Não congela nem mata micro-organismos: não é geladeira elétrica.
+Não guarde carne crua, peixe, leite ou comida cozida que exija frio.
+Em ar úmido a água não evapora e o aparelho quase não esfria.
+Água parada atrai mosquitos: troque a água e mexa a areia.
+Nunca use água com combustível ou esgoto; contamina os alimentos.
+
+SE NAO TIVER
+------------
+Sem vaso de barro, use cerâmica; plástico esfria muito pouco.
+Sem areia, use serragem fina limpa ou palha, mantidas úmidas.
+Sem pano, use folha larga limpa ou papelão como cobertura.
+Sem sombra, cubra com pano deixando circular ar; não use água suja.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A parede do vaso externo fica fresca e úmida ao toque.
+O interior do menor está mais frio que o ar ao redor.
+As hortaliças ficam firmes e a areia segue úmida até o fim do dia.
+
+FONTES
+------
+Prática do vaso Zeer documentada pela FAO e Practical Action.
+UC Davis e Frontiers in Food Science and Technology (2019 e 2023).
+Este texto é resumo operacional e não substitui treinamento.

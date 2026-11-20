@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 70-029
+TITULO: Como preservar arquivos sem usar formatos proprietários
+CATEGORIA: 70 - Computação de baixo consumo e preservação digital
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: computador funcional, espaço em disco, duas mídias de armazenamento
+REVISAO: 2026-11
+PALAVRAS-CHAVE: preservação, arquivo, formato aberto, pdf, txt, csv, backup
+==============================================================================
+
+OBJETIVO
+--------
+Manter arquivos legíveis no futuro sem depender do programa que os criou.
+
+QUANDO USAR
+-----------
+Quando documentos foram salvos por programa pago ou fechado.
+Quando é preciso guardar registros por anos sem comprar atualizações.
+Quando o computador pode ser trocado, desligado ou perdido.
+
+NAO USE QUANDO
+--------------
+Quando o original é a única prova de um direito, processo ou fato.
+Converta só uma cópia; nunca apague ou altere o arquivo original.
+
+MATERIAIS
+---------
+- Computador que abra os formatos de origem.
+- Espaço livre em disco para as cópias.
+- Duas mídias diferentes (disco externo, pendrive, cartão).
+- Ferramenta de checksum (soma de verificação): md5sum ou sha256sum.
+
+PROCEDIMENTO
+------------
+1. Liste os arquivos em um caderno: nome, formato, tamanho e origem.
+2. Separe-os por tipo: texto, imagem, áudio, vídeo, planilha e banco.
+3. Escolha um formato aberto e documentado para cada tipo.
+4. Use texto UTF-8 ou PDF/A, planilha CSV, imagem PNG ou TIFF sem perda.
+5. Use áudio WAV ou FLAC sem perda e vídeo em formato aberto.
+6. Abra o original e use Salvar como ou Exportar para o formato escolhido.
+7. Não mude só a extensão do nome: isso não converte o arquivo.
+8. Abra a cópia e confira se texto, imagem e som são iguais ao original.
+9. Guarde o original sem alteração em pasta separada chamada originais.
+10. Copie as conversões para duas mídias diferentes, uma fora do local.
+11. Calcule o checksum SHA-256 de cada arquivo e anote o valor em texto.
+12. Repita o cálculo a cada seis meses; se divergir, use a cópia boa.
+
+ATENCAO
+-------
+Trocar só a extensão não converte: o arquivo continua no formato antigo.
+JPEG e MP3 descartam dados para sempre; use só como cópia de leitura.
+Checksum detecta mudança, mas não conserta: sem outra cópia não há volta.
+Se for registro legal, médico ou financeiro, pare e preserve o original.
+
+SE NAO TIVER
+------------
+Sem exportador, tente outro leitor; se nenhum abrir, mantenha o original.
+Sem ferramenta, use md5sum ou sha256sum; anote tamanho e data se não houver.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada cópia abre e mostra o mesmo conteúdo do original, lado a lado.
+A lista de checksums confere quando recalculada e há duas mídias legíveis.
+
+FONTES
+------
+Digital Preservation Handbook, 2a edição, Digital Preservation Coalition.
+Seções File formats and standards e Fixity and checksums do manual.
+Library of Congress e PRONOM, citados no manual; prática consolidada.

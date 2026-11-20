@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 45-015
+TITULO: Como criar um sistema de notificação de surtos
+CATEGORIA: 45 - Engenharia de saneamento e saúde pública
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: caderno, lápis, rádio ou mensageiro, duas pessoas definidas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: surto, vigilância, notificar, alerta, doença, aviso, papel
+==============================================================================
+
+OBJETIVO
+--------
+Montar um modo simples de perceber e avisar quando várias pessoas
+adoecem da mesma forma ao mesmo tempo.
+
+QUANDO USAR
+-----------
+Quando várias pessoas adoecem com os mesmos sintomas.
+Depois de enchente, mudança forçada ou falta de água tratada.
+Quando o grupo está longe de posto de saúde ou da autoridade.
+
+NAO USE QUANDO
+--------------
+Não substitui atendimento médico nem afirma que não há doença.
+O sistema só avisa. Se alguém está muito doente, procure ajuda na hora.
+
+MATERIAIS
+---------
+- Caderno ou folhas (papel limpo reserva).
+- Lápis ou caneta (carvão em papel, se faltar).
+- Rádio, telefone ou mensageiro (sinal combinado, se faltar).
+- Lista com o nome de cada pessoa ou casa do grupo.
+
+PROCEDIMENTO
+------------
+1. Escolha quem anota e quem avisa.
+2. Combine os sinais: febre, diarréia, vômito, manchas ou falta de ar.
+3. Anote todo dia, no mesmo horário, os casos de cada sinal.
+4. Escreva nome, idade e dia de início de cada caso.
+5. Compare a contagem com o que é normal no grupo.
+6. Trate qualquer aumento claro como sinal de alerta.
+7. Envie a ficha no mesmo dia ao posto de saúde ou à autoridade próxima.
+8. Guarde as folhas e repita a contagem todo dia, mesmo sem caso novo.
+
+ATENCAO
+-------
+Este sistema só avisa: não diagnostica, não trata e não substitui o posto.
+Lista atrasada esconde o surto e atrasa a resposta; anote todo dia.
+Não espere o nome da doença para avisar, nem exponha o doente.
+Com falta de ar, confusão ou desidratação, procure ajuda na hora.
+Se o rádio falhar, envie mensageiro; falso alarme é melhor que silêncio.
+
+SE NAO TIVER
+------------
+Sem rádio, envie mensageiro a pé ou de bicicleta com a ficha escrita.
+Sem papel, risque os nomes em madeira e avise de boca em boca.
+Sem voluntários, o líder acumula as funções e escolhe um substituto.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Há uma anotação por pessoa em cada dia.
+A pessoa que avisa confirmou que a mensagem chegou.
+Um aumento de casos gerou aviso no mesmo dia em que apareceu.
+
+FONTES
+------
+OMS, Vigilância em emergências; guia operacional EWAR (2023).
+OMS, diretrizes EWARN (2012); Regulamento Sanitário Internacional (2005).
+Resumo operacional; não substitui treinamento em vigilância epidemiológica.

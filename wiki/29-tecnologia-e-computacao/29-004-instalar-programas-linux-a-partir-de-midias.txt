@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 29-004
+TITULO: Como instalar programas Linux a partir de mídias externas
+CATEGORIA: 29 - Tecnologia, computação e informática offline
+TEMPO: 25 minutos
+RISCO: medio
+EXIGE: Linux, mídia externa com arquivos, acesso de administrador
+REVISAO: 2026-11
+PALAVRAS-CHAVE: instalar, programa, linux, pendrive, deb, rpm, appimage
+==============================================================================
+
+OBJETIVO
+--------
+Instalar programas em Linux sem internet usando mídia externa.
+
+QUANDO USAR
+-----------
+Quando o computador não tem internet.
+Quando o programa veio em pendrive, DVD ou disco rígido externo.
+Quando o sistema está sem repositório configurado.
+
+NAO USE QUANDO
+--------------
+Quando o arquivo veio de fonte desconhecida ou sem confirmação de origem.
+Quando o programa substitui arquivos essenciais do sistema.
+
+MATERIAIS
+---------
+- Computador com Linux e acesso de administrador (senha do root).
+- Pendrive, DVD ou disco externo com os arquivos do programa.
+- Arquivos de instalação: .deb, .rpm ou AppImage.
+- Cópia de segurança dos dados importantes.
+
+PROCEDIMENTO
+------------
+1. Identifique o tipo dos arquivos na mídia: .deb, .rpm ou AppImage.
+2. Desligue o computador e conecte a mídia externa.
+3. Ligue o computador e entre com usuário de administrador.
+4. Abra o gerenciador de arquivos e localize a mídia externa.
+5. Copie o arquivo AppImage para a pasta pessoal do usuário.
+6. Torne o AppImage executável: chmod a+x nome.AppImage
+7. Execute o AppImage: ./nome.AppImage
+8. Na pasta dos arquivos, instale: sudo dpkg -i arquivo.deb
+9. Na pasta dos arquivos, instale: sudo rpm -i arquivo.rpm
+10. Se faltar dependência, copie o pacote da mídia e instale-o primeiro.
+
+ATENCAO
+-------
+Pacote desconhecido pode conter código malicioso com acesso de root.
+Nunca use opções de força no dpkg: podem deixar o sistema inutilizável.
+O dpkg não resolve dependências; instale antes os pacotes faltantes.
+Se o sistema parar de iniciar, não insista: pare e procure ajuda.
+AppImage não altera o sistema, mas ainda executa código do arquivo.
+
+SE NAO TIVER
+------------
+- Sem acesso de administrador, use apenas AppImage na pasta do usuário.
+- Sem terminal, abra o arquivo .deb no gerenciador de arquivos.
+- Sem confirmação da origem, não instale.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- O programa aparece no menu e abre sem mensagem de erro.
+- O comando dpkg -l mostra o pacote como instalado.
+
+FONTES
+------
+- Guia do usuário do APT (Jason Gunthorpe) e manual dpkg(1), da Debian.
+- Documentação oficial do projeto AppImage.
+- Prática consolidada de instalação offline de RPM, sem documento único.

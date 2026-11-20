@@ -1,0 +1,83 @@
+==============================================================================
+CODIGO: 77-006
+TITULO: Como construir um sistema de semáforos mecânicos
+CATEGORIA: 77 - Comunicação anterior à eletricidade
+TEMPO: 120 minutos
+RISCO: medio
+EXIGE: mastro, braco movel, contrapeso, corda e ponto de observacao
+REVISAO: 2026-11
+PALAVRAS-CHAVE: semaforo, braco, contrapeso, corda, posicao, sinal, mastro
+==============================================================================
+
+OBJETIVO
+--------
+Montar um aparelho que muda de posicao para enviar sinais combinados.
+
+QUANDO USAR
+-----------
+Quando o ponto de observacao ficar entre duas comunidades.
+Para avisar de chegada, perigo ou mudança de plano.
+Quando bandeiras e fumaça nao funcionarem por causa do tempo.
+Em local onde o vento impede o uso de espelho.
+
+NAO USE QUANDO
+--------------
+Nao monte o aparelho onde o braco possa bater em pessoa.
+Nao use corda frouxa que enrosque na mao ou no corpo.
+Nao confie no aparelho sem antes testar com o outro ponto.
+Nao mantenha contrapeso pesado sobre a cabeça de ninguem.
+
+MATERIAIS
+---------
+- Mastro de madeira reta firmado no chao (tronco ou vigia).
+- Braco movel de madeira leve preso por pino (ripas).
+- Contrapeso de pedra amarrado na ponta curta (pedra pequena).
+- Corda resistente para puxar o braco (cipó ou cordao).
+- Roda ou pino de madeira para servir de eixo (pino de ferro).
+- Pano claro preso na ponta longa do braco.
+
+PROCEDIMENTO
+------------
+1. Escolha ponto alto com vista livre para o outro lado.
+2. Enterre o mastro e firme com pedras na base.
+3. Prenda o braco no topo com um pino que gire livre.
+4. Amarre o contrapeso na ponta curta do braco.
+5. Amarre a corda na ponta longa e deixe-a descer.
+6. Prenda a outra ponta da corda em estaca baixa.
+7. Prenda o pano claro na extremidade do braco.
+8. Puxe a corda para erguer o braco e solte para baixa-lo.
+9. Combine quatro posicoes: erguido, baixo, inclinado e parado.
+10. Dê a cada posicao um significado curto e fixo.
+11. Teste cada posicao e confirme a leitura do outro ponto.
+12. Repita a posicao duas vezes para indicar urgencia.
+13. Amarre a corda quando terminar para o braco nao balancar.
+14. Confira o pino e a corda uma vez por semana.
+
+ATENCAO
+-------
+O contrapeso pode cair e machucar: amarre com no dupla.
+Pino solto deixa o braco girar sem controle: troque de imediato.
+Corda molhada escorrega e cansa a mao: use luvas de pano.
+Nao deixe criancas perto do contrapeso durante o uso.
+Vento forte embaralha as posicoes: espere acalmar para ler.
+Se o braco cantar ou ranger, pare e reforce o eixo.
+
+SE NAO TIVER
+------------
+Sem contrapeso, use pedra menor presa com cipo.
+Sem pino de ferro, use pino de madeira dura e oleada.
+Sem corda, use cipo trançado ou tira de couro.
+Sem pano, amarre folha larga na ponta do braco.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O braco sobe e desce sem esforço excessivo.
+Cada posicao é lida corretamente pelo outro ponto.
+A corda fica presa e o contrapeso nao balanca solto.
+O mastro permanece firme depois de vento e chuva.
+
+FONTES
+------
+Pratica consolidada de semaforos e sinais mecânicos simples,
+usada antes da eletricidade em estradas, ferrovias e torres de vigia.
+Os significados das posicoes sao sempre combinados entre as pontas.

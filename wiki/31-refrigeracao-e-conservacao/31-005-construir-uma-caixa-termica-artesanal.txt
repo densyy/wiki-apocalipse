@@ -1,0 +1,94 @@
+==============================================================================
+CODIGO: 31-005
+TITULO: Como construir uma caixa térmica artesanal
+CATEGORIA: 31 - Refrigeração e conservação térmica
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: duas caixas encaixáveis, isolante, fita, papel-alumínio, faca
+REVISAO: 2026-11
+PALAVRAS-CHAVE: caixa térmica, isopor, gelo, conservar frio, cadeia de frio
+==============================================================================
+
+OBJETIVO
+---------
+Montar uma caixa isolada que retarda a entrada de calor e mantém gelo ou
+alimentos frios por mais tempo sem energia elétrica.
+
+QUANDO USAR
+-----------
+Quando não há geladeira ou energia elétrica disponível.
+Para transportar alimentos perecíveis em viagem ou evacuação.
+Para guardar gelo ou água congelada por mais tempo.
+Para levar remédios que exigem frio, depois de validar a caixa.
+
+NAO USE QUANDO
+--------------
+Não use gelo seco dentro de casa ou em ambiente fechado: ele libera gás
+carbônico e pode matar por asfixia.
+Não use para guardar combustível, agrotóxico ou produto químico que possa
+vazar e contaminar alimentos.
+Não confie nela para remédios de temperatura crítica sem medir antes.
+
+MATERIAIS
+---------
+- Duas caixas de papelão, plástico ou madeira, uma cabendo dentro da outra
+  (caixa de isopor).
+- Isopor em placas, serragem seca, palha, jornal amassado ou lã
+  (espuma de poliuretano).
+- Papel-alumínio para forrar a parede interna.
+- Fita adesiva larga (fita de pano, grampos ou cola quente).
+- Faca, estilete ou serra para cortar o isolante.
+- Luvas de pano ou couro para cortar sem ferir as mãos.
+- Pano limpo para embrulhar o gelo e forrar o fundo.
+- Gel ou garrafas de água congelada como fonte de frio.
+- Termômetro de alimentos (opcional, para conferir a temperatura).
+
+PROCEDIMENTO
+------------
+1. Confirme que a caixa menor cabe dentro da maior, com espaço ao redor.
+2. Calce as luvas e corte o isolante com a faca no tamanho das paredes.
+3. Forre o fundo da caixa maior com isolante de aproximadamente 5 cm.
+4. Encha o espaço lateral com isolante até a boca da caixa maior.
+5. Forre o interior da caixa menor com papel-alumínio, lado brilhante
+   para dentro, para reduzir a entrada de calor.
+6. Forre o fundo da caixa menor com o pano limpo.
+7. Coloque a caixa menor dentro da maior, centrada sobre o isolante.
+8. Preencha qualquer vazio entre as caixas com mais isolante.
+9. Coloque o gelo ou as garrafas congeladas embrulhados no pano.
+10. Acomode os alimentos sobre o gelo, sem contato direto com ele.
+11. Feche a tampa da caixa menor e depois a da caixa maior.
+12. Aperte as bordas com fita adesiva para vedar a entrada de ar.
+13. Guarde a caixa na sombra, fora do sol e longe do chão quente.
+
+ATENCAO
+-------
+A faca e o estilete cortam fácil: use luvas e corte sobre superfície firme.
+Poeira de isopor irrita olhos e pele; ventile e lave as mãos depois.
+A caixa não fabrica frio: só retarda o calor. Sem gelo, não esfria.
+Acima de aproximadamente 4 graus Celsius por 2 horas, descarte a comida.
+Em ambiente muito quente, o limite cai para aproximadamente 1 hora.
+Nunca use gelo seco em lugar fechado: o gás pode matar por asfixia.
+Abra a tampa o mínimo possível e sempre com as mãos limpas.
+
+SE NAO TIVER
+------------
+Sem isopor, use serragem seca, palha, jornal amassado ou folhas secas.
+Sem papel-alumínio, forre com plástico limpo; a eficiência cai um pouco.
+Sem garrafa própria, congele água em garrafas plásticas limpas.
+Sem caixa menor, forre apenas a caixa maior com isolante espesso e tape bem.
+Não use materiais com cheiro de químico, combustível ou tinta velha.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Depois de várias horas ainda há gelo sólido ou garrafa congelada dentro.
+Com termômetro, o interior fica abaixo de aproximadamente 4 graus Celsius.
+A comida não tem cheiro azedo, muco nem textura pegajosa.
+A tampa fecha firme, a fita não solta e não entra ar pelas bordas.
+
+FONTES
+------
+Prática consolidada de conservação térmica e cadeia de frio em emergência.
+Famílias de referência: OMS e OPAS (cadeia de frio de vacinas), USDA e FDA
+(refrigeração de perecíveis e limite de 2 horas), Embrapa (conservação
+pós-colheita e caixas isoladas). Este texto é resumo operacional, não
+substitui treinamento nem medição com termômetro.

@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 57-012
+TITULO: Como construir um sistema de ventilação subterrânea
+CATEGORIA: 57 - Refrigeração, climatização e conforto
+TEMPO: 240 minutos
+RISCO: alto
+EXIGE: tubos de plástico liso, pá, filtro de ar, dreno, ventilador
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ventilação, tubo de terra, poço canadense, dreno, radônio
+==============================================================================
+
+OBJETIVO
+--------
+Construir um poço canadense (tubos enterrados que trocam calor com o
+solo) para trazer ar fresco para dentro e reduzir o calor no verão.
+
+QUANDO USAR
+-----------
+- Quando o ar externo está quente e seco e o solo fica mais frio que ele.
+- Para renovar o ar de um abrigo sem abrir portas e janelas.
+- Quando o local é seco, com espaço e solo fundo para enterrar tubos.
+- Para reduzir poeira e fumaça de entrada usando filtro na tomada de ar.
+- Em clima temperado, a terra fica entre 10 e 23 graus, aproximadamente.
+
+NAO USE QUANDO
+--------------
+- Não use em clima úmido e quente, onde a terra fica perto da temperatura
+  do corpo; o tubo não resfria e vira fonte de umidade.
+- Não use se o lençol de água estiver alto ou houver rocha rasa.
+- Não use onde não houver espaço para enterrar tubos longos.
+- Não use se você sentir cheiro de terra, mofo ou gás na saída do ar.
+
+MATERIAIS
+---------
+- Tubos de plástico liso e rígido, com 100 a 200 milímetros de diâmetro
+  (sem tubo corrugado, que retém água e mofo).
+- Pá, enxada e régua ou trena para medir.
+- Filtro de ar removível na tomada externa (pano grosso limpo, se não
+  houver filtro industrial).
+- Ventilador de baixa rotação (ou chaminé solar, se não houver energia).
+- Cotovelos de 45 graus, selante, pedra e areia para o dreno.
+
+PROCEDIMENTO
+------------
+1. Escolha a tomada de ar externa, longe de privada, lixo e fogo.
+2. Confirme que não há rocha rasa nem água a menos de
+   aproximadamente 3 metros de profundidade.
+3. Cave uma vala com aproximadamente 1,5 a 3 metros de profundidade.
+4. Dê à vala uma inclinação de 2 a 3 graus até o ponto de dreno.
+5. Forre o fundo com areia e pedra para o dreno não entupir.
+6. Encaixe os tubos sem emendas ásperas; use dois cotovelos de 45 graus
+   em vez de um de 90 graus.
+7. Vede cada junta com selante para não entrar água nem gás do solo.
+8. Instale o filtro removível na tomada de ar antes do primeiro tubo.
+9. Coloque o dreno no ponto mais baixo, dentro de casa ou em poço fundo.
+10. Cubra os tubos com terra, sem pedras pontudas contra o plástico.
+11. Ligue a saída ao ambiente por duto selado, com registro.
+12. Ligue o ventilador ou a chaminé solar para puxar o ar de fora.
+13. Abra o registro até uma fita de pano na saída ficar esticada.
+14. Limpe o filtro e o dreno a cada poucas semanas.
+
+ATENCAO
+-------
+- Risco de soterramento: vala funda pode desabar. Não entre sozinho em
+  vala com mais de 1 metro; peça ajuda e apoie as paredes.
+- O radônio é gás radioativo do solo que causa câncer de pulmão e não tem
+  cheiro. Vede as juntas e teste o ar antes de usar o sistema.
+- Umidade e mofo crescem em tubo corrugado ou sem dreno. Use tubo liso,
+  incline bem e limpe o dreno; mofo pode causar doença respiratória.
+- Nunca puxe ar de perto de fogão, gerador ou chaminé: pode entrar
+  monóxido de carbono, que mata sem cheiro.
+- O sistema não resfria em clima úmido e pode piorar o conforto.
+- Água parada no tubo congela no frio e pode rachar o plástico.
+- Pare e procure ajuda se houver cheiro de gás, tontura ou ar com mofo.
+
+SE NAO TIVER
+------------
+- Sem ventilador, use chaminé solar: o ar quente sobe e puxa o ar do tubo.
+- Sem filtro industrial, use pano limpo e grosso preso na tomada de ar.
+- Sem tubo rígido, não improvise com mangueira corrugada: retém água e
+  mofo. Nesse caso, reduza a promessa e ventile só por janela.
+- Sem espaço para enterrar, não construa; use sombra e ventilação cruzada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- A fita de pano na saída fica esticada enquanto o ventilador liga.
+- Ao medir, o ar na saída fica mais frio que o externo em dia seco.
+- Não há gotas, cheiro de mofo nem terra na saída após alguns dias.
+- O dreno escoa água e a vala não afunda depois de chuva forte.
+
+FONTES
+------
+- Orientação da US EPA sobre radônio: gás do solo, sem cheiro, exige teste.
+- Documentos do DOE dos Estados Unidos sobre tubos de resfriamento de terra.
+- Ventilation Information Paper 11 (2006), do IEA Air Infiltration and
+  Ventilation Centre, sobre trocadores terra-ar.
+- Manual ASHRAE de fundamentos (psicrometria e ventilação).
+- Prática consolidada de ventilação passiva rural, sem documento único.

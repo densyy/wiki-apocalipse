@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 53-007
+TITULO: Como interpretar a meia-vida de medicamentos
+CATEGORIA: 53 - Produção de medicamentos e farmacologia
+TEMPO: 25 minutos
+RISCO: medio
+EXIGE: bula ou ficha técnica do medicamento, papel e caneta
+REVISAO: 2026-11
+PALAVRAS-CHAVE: meia-vida, remédio, eliminação, depuração, efeito, dose
+==============================================================================
+
+OBJETIVO
+---------
+Interpretar a meia-vida da bula para estimar por quanto tempo o remédio
+fica no corpo.
+
+QUANDO USAR
+-----------
+Ao ler "meia-vida de eliminação" no campo farmacocinético da bula.
+Ao estimar a espera entre tomadas e a saída do remédio do organismo.
+
+NAO USE QUANDO
+---------------
+Não use para escolher remédio, dose, horário ou troca de medicação.
+Não substitui bula, prescrição nem orientação do farmacêutico.
+
+MATERIAIS
+---------
+- Bula ou ficha técnica do medicamento (ou o folheto do fabricante).
+- Papel e caneta para anotar as contas.
+
+PROCEDIMENTO
+------------
+1. Localize na bula o campo "Propriedades farmacocinéticas".
+2. Encontre a meia-vida de eliminação e anote o valor e a unidade.
+3. Defina meia-vida: tempo para a quantidade no corpo cair pela metade.
+4. Conte uma meia-vida: resta 50% da quantidade inicial.
+5. Conte outra: resta 25%, cerca de um quarto.
+6. Some três meias-vidas: restam cerca de 12,5%, 6% e 3%.
+7. Entenda: após 4 a 5 meias-vidas, cerca de 94% a 97% saiu do corpo.
+8. Defina depuração (remoção) e volume de distribuição (espaço aparente).
+9. Relacione: meia-vida cresce se a depuração cair ou o volume crescer.
+10. Repetir a dose antes do equilíbrio acumula o remédio no corpo.
+11. O equilíbrio vem em cerca de 4 a 5 meias-vidas de uso regular.
+12. Verifique se há meia-vida terminal e metabólito ativo na bula.
+
+ATENCAO
+-------
+Meia-vida não é duração do efeito: metabólito ativo e tolerância mudam
+o resultado. Idade e doença renal ou hepática alteram a depuração.
+O valor da bula é média populacional; varia entre pessoas.
+Álcool e alguns remédios não têm meia-vida útil: eliminação constante.
+Nunca mude dose ou horário com este cálculo. Náusea, vômito ou confusão
+pedem atendimento.
+
+SE NAO TIVER
+------------
+Sem bula, peça a ficha técnica ao fabricante ou ao farmacêutico.
+Sem o valor informado, não invente: peça orientação.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você informa, pela meia-vida, quando resta um quarto da dose.
+Você explica que 4 a 5 meias-vidas eliminam cerca de 94% a 97%.
+
+FONTES
+------
+StatPearls, NCBI Bookshelf: Elimination Half-Life of Drugs. Manuais MSD:
+Visão geral da farmacocinética. Anvisa: Manual de bioequivalência. Resumo
+operacional; não substitui orientação clínica.

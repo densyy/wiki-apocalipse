@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 32-017
+TITULO: Como produzir peças de reposição simples
+CATEGORIA: 32 - Produção industrial e manufatura artesanal
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: ferramentas manuais, material sucateado, morsa, óculos de proteção
+REVISAO: 2026-11
+PALAVRAS-CHAVE: peça, reposição, conserto, lima, broca, suporte
+==============================================================================
+
+OBJETIVO
+--------
+Fabricar uma peça de reposição simples, como pino, arruela ou suporte,
+com ferramentas manuais e material recuperado, para consertar um objeto
+sem depender de loja ou energia.
+
+QUANDO USAR
+-----------
+Quando uma peça pequena quebrou e não há substituto comprado.
+Quando a peça é simples: pino, arruela, alça ou suporte plano.
+Quando há sucata de metal ou madeira adequada e ferramentas manuais.
+Quando parar o equipamento custa mais que fabricar a peça.
+
+NAO USE QUANDO
+--------------
+Quando a peça for sustentar pessoa, carga pesada ou movimento em altura.
+Quando o defeito estiver no projeto do objeto e não na peça.
+Quando faltar material com resistência conhecida para a função.
+Quando não houver tempo para medir, testar e conferir a peça.
+Quando a peça exigir rosca crítica ou vedação de alta precisão.
+
+MATERIAIS
+---------
+- Metal brando de sucata (verga, cantoneira ou chapa) ou madeira dura.
+- A peça quebrada, se existir, para servir de molde.
+- Óculos de proteção e luvas de couro ou pano grosso.
+- Morsa ou superfície firme para prender a peça.
+- Serra manual para metal ou formão, e jogo de limas.
+- Broca manual com brocas para metal, e lixa.
+- Régua, lápis ou riscador, e óleo ou tinta.
+
+PROCEDIMENTO
+------------
+1. Defina a função da peça: o que ela prende, apoia ou move.
+2. Meça a peça quebrada ou o espaço onde ela entra, em milímetros.
+3. Decida se vale a pena: se a necessidade não justificar o trabalho, pare.
+4. Escolha material brando conhecido: verga ou cantoneira de aço brando.
+5. Teste com a lima: se a lima morder, o material é trabalhável à mão.
+6. Prenda o material na morsa e copie o contorno com lápis ou riscador.
+7. Corte rente à marca, deixando sobra de aproximadamente 1 milímetro.
+8. Retire rebarbas e bordas cortantes com a lima plana.
+9. Abra os furos com broca manual, com a peça presa na morsa.
+10. Alargue o furo com lima redonda até pino ou parafuso entrar.
+11. Ajuste a forma com a lima, medindo a cada poucas passadas.
+12. Confira o encaixe antes de montar e passe óleo ou tinta na peça.
+
+ATENCAO
+-------
+Use óculos: limadura e serragem de metal voam e ferem os olhos.
+Bordas de chapa e limadura cortam a pele; use luvas e não apoie a mão
+na linha de corte.
+Nunca segure a peça com a mão enquanto fura: prenda na morsa.
+Peça de origem desconhecida pode ser aço duro ou liga frágil; se a lima
+não morder, não insista com força.
+Não use peça fabricada em freio, direção, elevador, polia de carga,
+escada ou qualquer coisa que sustente pessoa.
+A peça caseira não tem resistência garantida: teste com carga leve
+antes do uso real e repita o teste periodicamente.
+Se rachar, dobrar ou aquecer no uso, pare imediatamente e troque.
+Não confunda "cabe" com "serve": meça antes e depois de montar.
+
+SE NAO TIVER
+------------
+Sem morsa, aperte a peça entre dois pedaços de madeira com torniquete.
+Sem serra para metal, use lima e formão em chapa brando e fina.
+Sem lima, use lixa grossa presa em um pedaço de madeira para acertar.
+Sem broca, aqueça a ponta de um prego e queime o furo apenas em madeira;
+em metal isso não funciona, procure outra peça.
+Se só houver madeira, use-a apenas sem carga e sem umidade; nunca
+em substituição a pino de segurança.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A peça encaixa no lugar sem folga excessiva e sem precisar de força.
+O parafuso ou pino passa livre pelo furo e a porca aperta.
+A peça não tem rebarbas que cortem o dedo ao passar.
+Montada, cumpre a função com carga leve, sem rachar ou entortar.
+
+FONTES
+------
+Princípios de improviso do ATP 3-50x21, publicação do Exército dos EUA
+(2018): avaliar a necessidade antes de fabricar e inventariar recursos.
+Guia EO C490.02 de improviso de ferramentas em sobrevivência, dos
+Cadetes Reais da Força Aérea do Canadá, e material de oficina de
+ferramentas manuais da RMIT University. Prática consolidada de usinagem
+manual com ferramentas de mão. Este texto é resumo operacional e não
+substitui treinamento nem projeto de engenharia.

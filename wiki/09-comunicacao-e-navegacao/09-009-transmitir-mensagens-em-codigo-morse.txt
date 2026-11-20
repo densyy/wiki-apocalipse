@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 09-009
+TITULO: Como transmitir mensagens em código Morse
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: lanterna ou espelho, apito ou rádio, papel e lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: morse, código morse, ponto, traço, sos, luz, apito, socorro
+==============================================================================
+
+OBJETIVO
+--------
+Envie SOS e mensagens curtas com luz, som ou rádio quando a voz falhar.
+
+QUANDO USAR
+-----------
+Quando o grupo se separa e o rádio com voz não funciona.
+Quando luz ou som chega mais longe que a voz.
+Quando o rádio só liga e desliga um tom.
+
+NAO USE QUANDO
+--------------
+Quando o destinatário não conhece o código e não há tempo para combiná-lo.
+Quando há telefone ou rádio com voz: fale direto, é mais rápido.
+
+MATERIAIS
+---------
+- Lanterna, espelho de bolso ou tocha para enviar com luz.
+- Apito, corno ou rádio de tom para enviar com som.
+- Papel e lápis para escrever a mensagem antes de transmitir.
+
+PROCEDIMENTO
+------------
+1. Combine com o destinatário o meio: luz, som ou rádio.
+2. Combine o ritmo: ponto curto e traço três vezes mais longo.
+3. Envie o ponto com lampejo curto, apito curto ou tom curto.
+4. Envie o traço mantendo luz, apito ou tom por três pontos.
+5. Pause um ponto entre os sinais de uma mesma letra.
+6. Pause três pontos entre letras e sete pontos entre palavras.
+7. Use ponto de aproximadamente 0,1 segundo se estiver começando.
+8. Escreva a mensagem em maiúsculas, sem acento e com poucas palavras.
+9. Use E = ponto, T = traço, A = ponto-traço, N = traço-ponto.
+10. Use I = dois pontos, S = três pontos, O = três traços.
+11. Use R = ponto-traço-ponto e U = dois pontos e um traço.
+12. Envie SOS: três pontos, três traços, três pontos seguidos.
+13. Envie o resto da mensagem letra por letra, no ritmo combinado.
+14. Repita a mensagem duas vezes antes de esperar resposta.
+
+ATENCAO
+-------
+SOS é pedido de socorro: envie só quando houver risco real.
+Quem recebe SOS para de transmitir e fica atento à mensagem.
+Prédios, mato e neblina cortam luz e som; use ponto alto e aberto.
+Se ninguém responder, confira o meio e o ritmo antes de repetir.
+
+SE NAO TIVER
+------------
+Sem lanterna, use espelho voltado ao sol ou clarão de fogo.
+Sem apito ou rádio, bata em metal com batida curta e longa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O destinatário repete a mensagem em voz alta ou devolve os sinais.
+Os lampejos ou apitos param e recomeçam no ritmo combinado.
+
+FONTES
+------
+Recomendação ITU-R M.1677-1 (ITU) e guia de aprendizado da ARRL.
+Prática consolidada de sinalização de socorro com luz, espelho e som.

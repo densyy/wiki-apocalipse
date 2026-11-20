@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 60-007
+TITULO: Como planejar sistemas de drenagem urbana
+CATEGORIA: 60 - Arquitetura, urbanismo e assentamentos
+TEMPO: 180 minutos
+RISCO: alto
+EXIGE: caderno, caneta, fita metrica ou corda com nos, mapa simples
+REVISAO: 2026-11
+PALAVRAS-CHAVE: drenagem, esgoto, chuva, alagamento, enchente, vala, declive
+==============================================================================
+
+OBJETIVO
+--------
+Definir para onde escorre a agua da chuva e como tirar essa agua do
+assentamento sem alagar casas, erosionar o solo ou sujar a agua de beber.
+
+QUANDO USAR
+-----------
+Quando um grupo vai ocupar um terreno por semanas ou mais.
+Antes de distribuir lotes, abrir ruas ou marcar onde cada casa fica.
+Quando o terreno alaga ou a agua da chuva corre solta entre as casas.
+Depois de enchente que danificou valas, bueiros ou canais de escoamento.
+
+NAO USE QUANDO
+--------------
+Nao use como substituto de projeto aprovado por orgao publico quando
+houver exigencia legal. Nao planeje so no papel em terreno rochoso,
+muito inclinado ou alagadiço: isso exige profissional qualificado.
+
+MATERIAIS
+---------
+- Caderno e caneta para registrar decisoes, contas e responsaveis.
+- Fita metrica, trena ou corda com nos a cada metro.
+- Mapa simples do terreno, mesmo que desenhado a mao.
+- Estacas e barbante para marcar os caminhos da agua no chao.
+- Dados basicos: numero de casas, de moradores e pontos de agua.
+
+PROCEDIMENTO
+------------
+1. Conte as pessoas, as casas e os telhados do assentamento.
+2. Desenhe o terreno no caderno com casas, ruas, rios e pocos.
+3. Pergunte aos moradores onde a agua para e por quanto tempo fica.
+4. Marque no mapa as areas que alagam e os caminhos da agua da chuva.
+5. Observe para onde a agua escorre e por onde ela entra e sai.
+6. Escolha a area das casas em terra alta, acima do nivel de cheia.
+7. Evite leito de rio, vale estreito, ravina e terra que vira breu.
+8. Alineie ruas e lotes com as curvas do terreno, nao contra elas.
+9. Busque declive entre 2 e 4 por cento para escoar sem erosionar.
+10. Nao ultrapasse 10 por cento de declive para evitar erosao.
+11. Reserve espaco para as valas antes de distribuir os lotes.
+12. Nao deixe casa, cerca ou muro tampar o caminho natural da agua.
+13. Trace as valas no sentido do declive, da parte alta para a baixa.
+14. Defina primeiro a saida final: para onde a agua vai desaguar.
+15. Nao desague em pocos, nascentes ou rio usado para beber.
+16. Faca as valas mais largas e mais fundas na medida em que descem.
+17. Deixe declive suave e evite curvas bruscas que represam a agua.
+18. Coloque pedras ou degraus nas descidas para frear a correnteza.
+19. Separe a agua de lavar e a agua de privada das valas de chuva.
+20. Nao deixe agua parada perto das casas: cria mosca e doenca.
+21. Plante grama nas bordas das valas para segurar o solo.
+22. Cubra a entrada de bueiros e canos com grade ou tela.
+23. Escreva quem limpa as valas, quando limpa e onde poe o lixo.
+24. Mostre o mapa aos moradores e ajuste antes de abrir a vala.
+
+ATENCAO
+-------
+Drenagem mal planejada alaga casa, derruba cerca, lava o solo e suja
+a agua de beber. A agua ganha forca descendo e pode arrastar quem
+estiver na vala. Nunca jogue esgoto ou agua de lavar em rio, vala ou
+terra plantada. Nao encha de terra as areas baixas: elas guardam a
+agua da chuva forte; fechadas, o alagamento vai para outro lugar.
+Vala entupida devolve a agua para dentro das casas. Melhorar o
+escoamento em um ponto pode alagar o vizinho mais baixo. Se houver
+risco de deslizamento, pare e procure ajuda tecnica.
+
+SE NAO TIVER
+------------
+Sem fita metrica, use corda com nos de metro em metro. Sem mapa
+impresso, desenhe o terreno a mao no caderno. Sem dados de chuva,
+pergunte aos moradores sobre enchentes passadas e marque as manchas
+de agua vistas no terreno. Sem profissional para medir, use o nivel
+da agua em um poço proximo como referencia. Nao troque a saida
+segura por vala que desagua na agua de beber.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O mapa final mostra as valas descendo ate uma saida fora da area das
+casas e longe da agua de beber, com declive suave, pedras nas descidas
+e grama nas bordas. Ruas e lotes respeitam os caminhos da agua. Ha
+um nome escrito para a limpeza e um destino claro para a agua.
+
+FONTES
+------
+Principios e padroes de planejamento de assentamentos do ACNUR,
+incluindo o declive de 2 a 4 por cento e a saida da agua longe das
+fontes de beber. Manual de seguranca de abrigos da IFRC, parte sobre
+protecao contra enchentes e erosao. Compendio do ACNUR sobre risco
+de cheia em assentamentos humanitarios. Cairncross e Ouano, Drenagem
+superficial para comunidades de baixa renda. Guia de reducao de risco
+em areas de cheia da FEMA.

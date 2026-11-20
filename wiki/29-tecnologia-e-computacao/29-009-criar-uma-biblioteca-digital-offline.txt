@@ -1,0 +1,67 @@
+==============================================================================
+CODIGO: 29-009
+TITULO: Como criar uma biblioteca digital offline
+CATEGORIA: 29 - Tecnologia, computação e informática offline
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: computador, documentos digitais, midia externa de armazenamento
+REVISAO: 2026-11
+PALAVRAS-CHAVE: biblioteca, offline, livros, pdf, catalogo, busca
+==============================================================================
+
+OBJETIVO
+--------
+Montar um acervo digital que abre e é pesquisado sem internet.
+
+QUANDO USAR
+-----------
+Quando documentos de referência precisam ser lidos sem conexão.
+Quando a rede é instável e a consulta não pode esperar.
+
+NAO USE QUANDO
+--------------
+Quando o documento exige verificação online ou nao pode ser copiado.
+
+MATERIAIS
+---------
+- Documentos digitais de fontes confiáveis.
+- Midia externa: pendrive ou disco externo.
+- Kiwix: abre arquivos ZIM, que guardam sites inteiros em um arquivo.
+- calibre: organiza livros digitais e busca texto sem usar rede.
+
+PROCEDIMENTO
+------------
+1. Crie uma pasta chamada biblioteca no computador.
+2. Copie para ela so documentos que você pode guardar.
+3. Renomeie os arquivos com nome curto e sem acentos.
+4. Crie catalogo.txt com titulo, assunto e nome de cada arquivo.
+5. Abra o leitor e adicione a pasta biblioteca.
+6. Digite uma palavra do titulo no campo de busca do leitor.
+7. Abra o arquivo encontrado para confirmar a leitura sem rede.
+8. Copie a pasta biblioteca inteira para a midia externa.
+9. Abra um arquivo direto da midia externa para conferir a copia.
+10. Guarde a midia em local separado do computador.
+
+ATENCAO
+-------
+Uma copia nao conferida pode estar corrompida e abrir em branco.
+Nao confie em um so lugar: discos e pendrives falham sem aviso.
+Nao apague o original antes de abrir a copia em outro aparelho.
+Arquivos baixados sem fonte conhecida podem trazer erros ou furto de dados.
+Se o leitor nao abrir o arquivo, tente o outro leitor antes de desistir.
+
+SE NAO TIVER
+------------
+Sem leitor, use a busca de arquivos do proprio sistema operacional.
+Sem midia externa, guarde segunda copia em outra pasta do computador.
+Sem espaco, priorize os documentos que mais usa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A busca do leitor encontra o titulo digitado e o arquivo abre.
+A copia na midia externa tem o mesmo numero de arquivos da pasta original.
+
+FONTES
+------
+Documentacao oficial do Kiwix, manual do usuario do calibre e pratica
+consolidada de organizacao de acervos e copias de seguranca.

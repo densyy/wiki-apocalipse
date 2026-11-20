@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 24-005
+TITULO: Como construir sistemas de travamento mecânico
+CATEGORIA: 24 - Segurança pessoal e proteção comunitária
+TEMPO: 50 minutos
+RISCO: alto
+EXIGE: barra de madeira ou metal, serra, parafusos, óculos e luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: trava, ferrolho, tranca, cadeado, arrombamento, fuga, trilho
+==============================================================================
+
+OBJETIVO
+--------
+Construir trancas que atrasem a entrada e abram por dentro sem chave.
+
+QUANDO USAR
+-----------
+Quando a porta ou a janela de correr tiver tranca fraca ou nenhuma.
+Quando a casa ficar vazia por vários dias.
+Quando precisar de trava extra sem comprar fechadura nova.
+Para reforçar o batente e as dobradiças, veja 24-004 como leitura extra.
+
+NAO USE QUANDO
+--------------
+Quando a abertura for a única saída da casa.
+Quando quem mora não conseguiu soltar a trava com as mãos, no escuro.
+Quando houver fio elétrico ou tubo de gás no local da fixação.
+Quando criança ou pessoa com dificuldade de movimento não puder abrir.
+
+MATERIAIS
+---------
+- Barra redonda de madeira maciça ou tubo metálico limpo, sem ferrugem.
+- Tira de metal ou ripa de madeira seca para o ferrolho de superfície.
+- Haste de metal para o ferrolho (varão de cabo de vassoura).
+- Presilhas em U, arruelas e parafusos curtos e longos.
+- Serra ou estilete, furadeira com broca, chave de fenda.
+- Barbante para medir, óculos de proteção e luvas.
+- Pano seco e um pouco de óleo para as partes que deslizam.
+
+PROCEDIMENTO
+------------
+1. Feche a porta ou a janela de correr completamente.
+2. Meça com barbante a largura do trilho inferior onde a folha encosta.
+3. Corte a barra no comprimento medido, com folga pequena.
+4. Ajuste com a serra até a barra entrar sem força e não cair.
+5. Encoste a barra no trilho, atrás da folha, impedindo o deslizamento.
+6. Empurre a folha por fora: não deve deslizar e não deve levantar.
+7. Retire a barra com a mão, por dentro, em um único movimento.
+8. Repita a medida e o teste em cada porta ou janela de correr.
+9. Feche a folha e localize a parte superior do trilho.
+10. Aparafuse um parafuso curto no trilho superior, sobre a folha.
+11. Deixe a ponta saliente, sem tocar no vidro nem na moldura.
+12. Puxe a folha para cima: não deve sair do trilho.
+13. Escolha na face interna da porta um local longe de qualquer vidro.
+14. Aparafuse a tira metálica rente à borda da folha.
+15. Prenda duas presilhas na tira para guiar a haste do ferrolho.
+16. Encaixe a haste nas presilhas, com folga para deslizar.
+17. Feche a porta e marque no batente onde a ponta da haste encosta.
+18. Fixe a arruela no batente, exatamente no ponto marcado.
+19. Empurre a haste até entrar na arruela: a porta fica travada.
+20. Puxe a haste de volta com a mão, sem chave e sem ferramenta.
+21. Repita o ir e vir dez vezes, com a porta aberta e fechada.
+22. Passe óleo nas presilhas se a haste prender ou riscar.
+
+ATENCAO
+-------
+Nenhuma trava impede pessoa determinada: ela apenas atrasa a entrada.
+A regra é abrir por dentro sem chave, ferramenta ou conhecimento especial.
+Nunca prenda a barra por fora, com cadeado, solda ou pregos.
+Em incêndio, trava presa transforma a saída em armadilha.
+Parafuso longo pode atravessar fio elétrico ou tubo de gás.
+Pare se encontrar tubulação e chame ajuda qualificada.
+A serra e a furadeira causam cortes: use óculos e luvas.
+Não trabalhe em escada alta sem outra pessoa segurando.
+Barra muito folgada cai; barra muito apertada prende a folha.
+Não use arame farpado nem pregos expostos: eles ferem moradores.
+Não enfrente quem arrombar: saia e avise os vizinhos.
+
+SE NAO TIVER
+------------
+Sem barra de madeira, use tubo metálico leve e sem ferrugem.
+Sem tira de metal, use ripa de madeira seca, sem rachaduras.
+Sem presilha, dobre arame em U e prenda com parafuso curto.
+Sem arruela no batente, fixe uma tira de metal com dois parafusos.
+Se o substituto exigir chave por dentro, não use.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A barra entra no trilho com a mão e não cai sozinha.
+A folha não desliza e não levanta quando empurrada por fora.
+O ferrolho desliza e encaixa sem força, com uma mão só.
+Cada morador abriu e fechou todas as travas uma vez, no escuro.
+
+FONTES
+------
+Prática consolidada de segurança residencial e prevenção de furto.
+Orientação policial (Seattle, ACT): barra no trilho e parafuso anti-leve.
+Saída livre: NFPA 101, Código de Segurança contra Incêndio, 7.2.1.5.3.4.
+O Código permite trava extra em casa se ela abrir por dentro sem chave.
+Nenhum produto, marca ou número é endossado.

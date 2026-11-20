@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 38-021
+TITULO: Como construir um calendário perpétuo de papel
+CATEGORIA: 38 - Astronomia e medição do tempo
+TEMPO: 60 minutos
+RISCO: baixo
+EXIGE: papel, lápis, uma data de referência conhecida
+REVISAO: 2026-11
+PALAVRAS-CHAVE: calendário, perpétuo, ano bissexto, dia da semana, data
+==============================================================================
+
+OBJETIVO
+--------
+Montar em papel uma tabela que dá o dia da semana de qualquer data.
+
+QUANDO USAR
+-----------
+Quando faltar calendário e for preciso o dia da semana de uma data.
+Ao planejar viagem ou plantio, ou ao conferir um documento antigo.
+
+NAO USE QUANDO
+--------------
+Para datas antes de 1582, quando valia a regra juliana do bissexto.
+Para Páscoa e feriados móveis, que dependem também da Lua.
+
+MATERIAIS
+---------
+- Folha de papel e lápis (ou carvão, giz).
+- Uma data de referência que você conheça de memória.
+
+PROCEDIMENTO
+------------
+1. Bissexto: múltiplo de 4, exceto múltiplo de 100 não múltiplo de 400.
+2. Numere os dias de 0 a 6: dom=0, seg=1, ter=2, qua=3, qui=4, sex=5, sáb=6.
+3. Deslocamentos de jan a dez. Comum: 0 3 3 6 1 4 6 2 5 0 3 5.
+   Bissexto: 0 3 4 0 2 5 0 3 6 1 4 6.
+4. Desenhe 14 grades de 7 colunas: C0 a C6 (comum), B0 a B6
+   (bissexto). O número é o dia da semana de 1 de janeiro.
+5. Some o deslocamento ao número da grade; escreva o 1 nessa
+   coluna e conte até 28, 29, 30 ou 31, conforme o mês.
+6. Fixe 2000: 1 de janeiro cai em sábado (6).
+7. Avance um ano: some 1 se comum, 2 se bissexto, módulo 7;
+   anote o dia de 1 de janeiro e o código C ou B da grade.
+8. Para consultar, ache o ano, abra a grade e cruze mês e coluna.
+
+ATENCAO
+-------
+A exceção dos séculos é o erro mais comum: 1900 não foi bissexto,
+mas 2000 foi. Confira essa regra antes de preencher a tabela.
+Um erro em 1 de janeiro invalida o ano: confira com uma referência.
+Nos bissextos, janeiro e fevereiro usam os deslocamentos comuns;
+a mudança vale só a partir de março.
+A adoção gregoriana variou por país e a diferença chega a 13 dias.
+
+SE NAO TIVER
+------------
+Sem papel, risque as grades no chão ou numa parede; sem lápis, use giz.
+Sem ano de referência, comece de um aniversário e conte ano a ano.
+
+COMO SABER QUE DEU CERTO
+------------------------
+1 de janeiro de 2000 cai em sábado e o de 2001 em domingo.
+1 de janeiro de 2100 cai em sexta, pois 2100 não é bissexto.
+
+FONTES
+------
+Regra do bissexto e ciclo de 400 anos: Observatório Naval dos
+Estados Unidos, "Introduction to Calendars". Arranjo de 14 grades
+anuais: prática consolidada em tabelas como Smithsonian Physical
+Tables (1954).

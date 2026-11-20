@@ -1,0 +1,81 @@
+==============================================================================
+CODIGO: 80-017
+TITULO: Como selecionar lubrificantes para máquinas
+CATEGORIA: 80 - Produção de combustíveis e lubrificantes
+TEMPO: 45 minutos
+RISCO: medio
+EXIGE: manual da máquina, dados de carga e temperatura
+REVISAO: 2026-11
+PALAVRAS-CHAVE: lubrificante, viscosidade, SAE, ISO VG, carga, troca
+==============================================================================
+
+OBJETIVO
+--------
+Escolher o óleo ou a graxa corretos para cada máquina.
+
+QUANDO USAR
+-----------
+Ao trocar óleo de gerador, trator, bomba ou caixa de engrenagens.
+Ao substituir uma graxa que não está dando conta do serviço.
+Ao comprar lubrificante sem saber qual especificação pedir.
+Ao reduzir o número de produtos diferentes no estoque.
+
+NAO USE QUANDO
+--------------
+Não escolha apenas pelo preço ou pela marca.
+Não misture marcas ou bases diferentes sem verificar compatibilidade.
+Não use óleo de motor em caixa hidráulica e vice-versa.
+Não ultrapasse o intervalo de troca do fabricante.
+
+MATERIAIS
+---------
+- Manual da máquina com a especificação exigida (celular).
+- Etiquetas ou ficha com carga, rotação e temperatura de operação.
+- Frascos de óleo com viscosidade e classificação impressas.
+- Papel branco e dedo limpo para comparar aspecto.
+- Caderno para registrar troca, hora e quantidade.
+
+PROCEDIMENTO
+------------
+1. Leia a especificação no manual antes de qualquer escolha.
+2. Anote carga, rotação e temperatura de trabalho da máquina.
+3. Defina a viscosidade: SAE para motor, ISO VG para industrial.
+4. Carga alta e rotação baixa pedem óleo mais espesso.
+5. Rotação alta e carga leve pedem óleo mais fluido.
+6. Temperatura alta exige maior estabilidade e ponto de fulgor.
+7. Escolha a base: mineral, sintética ou vegetal, conforme o caso.
+8. Confira o pacote de aditivos indicado para o metal da peça.
+9. Verifique se a graxa tem consistência adequada ao rolamento.
+10. Compare o aspecto do óleo novo com o óleo em uso.
+11. Escuro com cheiro acre indica oxidação: antecipe a troca.
+12. Compre a menor quantidade que atende ao consumo previsto.
+13. Registre no caderno a data, o produto e a quantidade usada.
+14. Observe ruído, temperatura e consumo após a troca.
+
+ATENCAO
+-------
+Viscosidade errada causa aquecimento ou falta de película.
+Óleo muito fluido escorre e deixa metal contra metal.
+Óleo muito espesso gasta energia e atrasa a lubrificação na partida.
+Um lubrificante não corrige folga ou desgaste mecânico.
+Guardar tambor aberto contamina o produto com água e pó.
+Óleo usado é resíduo: colete e descarte conforme a regra local.
+
+SE NAO TIVER
+------------
+Sem manual, identifique modelo e ano e busque a especificação.
+Sem dados de carga, comece pela viscosidade média recomendada.
+Sem graxa adequada, prefira óleo com reaplicação mais frequente.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A máquina parte com ruído normal e não aquece além do costume.
+Não há vazamento nem consumo anormal de lubrificante.
+O registro de troca está completo e a etiqueta do frasco está legível.
+Após uma semana, o óleo não ficou leitoso nem com cheiro forte.
+
+FONTES
+------
+Critérios de seleção de lubrificantes presentes em manuais de
+manutenção industrial e em tabelas de viscosidade SAE e ISO VG.
+Leitura complementar: 80-015 e 80-016.

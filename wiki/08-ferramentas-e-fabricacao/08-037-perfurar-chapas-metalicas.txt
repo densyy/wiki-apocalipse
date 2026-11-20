@@ -1,0 +1,91 @@
+==============================================================================
+CODIGO: 08-037
+TITULO: Como perfurar chapas metálicas
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: furadeira, broca de metal, óculos, punção, suporte, apoio de madeira
+REVISAO: 2026-11
+PALAVRAS-CHAVE: metal, chapa, broca, furadeira, furo, perfurar, rebarba
+==============================================================================
+
+OBJETIVO
+--------
+Abrir furo limpo e redondo em chapa metálica sem ferir mãos nem olhos.
+
+QUANDO USAR
+-----------
+Quando for preciso passar parafuso, rebite ou arame através da chapa.
+Quando faltar uma peça já furada ou o furo existente estiver torto.
+Quando a chapa for fina e o risco de entortar for grande.
+
+NAO USE QUANDO
+--------------
+Não fure chapa com resíduo desconhecido, nem perto de fios escondidos ou
+de recipientes fechados. Nesses casos, pare e procure ajuda.
+
+MATERIAIS
+---------
+- Furadeira com mandril e chave de aperto.
+- Broca de aço rápido para metal, do diâmetro do furo.
+- Óculos de proteção.
+- Punção de centro e martelo.
+- Suporte com grampos e um pedaço de madeira maciça para apoio.
+- Óleo de corte (ou óleo de máquina).
+- Lima pequena para tirar a rebarba.
+
+PROCEDIMENTO
+------------
+1. Vista os óculos e prenda cabelo, mangas, anéis e colares.
+2. Confira o que há atrás do ponto: fios, mangueiras, pessoas ou peças.
+3. Fixe a chapa no suporte com grampos; nunca a segure com a mão.
+4. Coloque a madeira maciça sob o ponto, encostada na chapa.
+5. Marque o ponto com o punção e o martelo até formar uma pequena cova.
+6. Encaixe a broca de aço rápido no mandril e aperte com a chave.
+7. Regule a furadeira para rotação baixa em aço e chapa grossa.
+8. Em alumínio, aumente a rotação se a broca prender na entrada.
+9. Aponte a broca para a marca, na perpendicular da chapa.
+10. Segure a furadeira com as duas mãos e comece em rotação baixa.
+11. Aplique pressão firme e constante, sem forçar contra a chapa.
+12. Aplique óleo de corte na ponta se a broca esquentar.
+13. Retire a broca periodicamente para soltar aparas e esfriar.
+14. Ao sentir a broca atravessar, reduza a pressão e segure firme.
+15. Desligue e espere a broca parar antes de mexer na chapa.
+16. Retire a chapa do suporte e tire as aparas com pincel ou pano.
+17. Com a furadeira desligada, passe a lima na borda para tirar a rebarba.
+
+ATENCAO
+-------
+A broca girando enrola cabelo, manga, luva e colar e puxa a mão para a
+broca: afaste tudo antes de ligar. Nunca use luvas com a furadeira ligada.
+A apara sai quente e cortante e voa: use óculos sempre, não sopre com a
+boca nem toque na apara com as mãos. A chapa presa só pela mão gira junto
+e a broca pode furar a mão; por isso fixe-a sempre. Em chapa fina, a broca
+prende ao atravessar e a chapa pode girar como lâmina: reduza a pressão
+no fim. Confira o que há atrás da chapa antes de furar. Desligue se a
+broca travar, cheirar a queimado ou a furadeira esquentar. Pare se a chapa
+tiver resíduo desconhecido ou tinta velha: não fure nem lixe sem saber
+do que se trata.
+
+SE NAO TIVER
+------------
+Sem punção, faça a marca com um prego e martelo ou com a ponta de uma
+chave de fenda. Sem óleo de corte, reduza a rotação e faça pausas para
+esfriar; não improvise com graxa ou óleo de cozinha, que podem fumar.
+Sem suporte, prenda a chapa entre dois pedaços de madeira com grampos.
+Sem broca de metal, pare: broca de madeira quebra e superaquece nesse uso.
+Sem furadeira elétrica, use arco de pua com broca de metal em chapas
+finas, avançando devagar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O furo é redondo, sai no lugar marcado e atravessa sem entortar a chapa.
+A broca não esquentou a ponto de mudar de cor e a chapa não girou no apoio.
+A borda do furo não tem rebarba que corte o dedo ao passar.
+
+FONTES
+------
+Orientações de segurança de máquinas da OSHA (Machine Guarding eTool;
+29 CFR 1910.212 e 1910.133) e da HSE britânica (Introduction to
+machinery safety), consultadas em 2026-11. Técnica de perfuração manual:
+prática consolidada de oficina mecânica, sem documento único.

@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 46-010
+TITULO: Como reconhecer doenças infecciosas em rebanhos
+CATEGORIA: 46 - Medicina veterinária e saúde animal
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: caderno, lápis, lanterna, luvas descartáveis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: rebanho, doença, infecção, sinais, febre, animal doente
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer animais doentes no rebanho e agir antes que a doença se espalhe.
+
+QUANDO USAR
+-----------
+Quando um ou mais animais mudarem de comportamento de repente.
+Quando houver queda de leite, de apetite ou de peso no lote.
+Quando aparecerem bolhas na boca, no focinho ou entre os cascos.
+Quando animais mancarem, tossirem ou ficarem com corrimento.
+Quando houver morte recente, sobretudo em animais jovens.
+Ao receber animais novos, antes de misturá-los com o rebanho.
+
+NAO USE QUANDO
+--------------
+Não use este texto para dar diagnóstico, remedio ou dose. Ele só orienta o
+reconhecimento dos sinais e a notificação. Não substitui o
+médico-veterinário.
+
+MATERIAIS
+---------
+- Caderno e lápis para anotar datos, hora e numero de animais.
+- Lanterna para olhar a boca, os olhos e os cascos.
+- Luvas descartáveis ou barreira improvisada nas mãos.
+- Termômetro veterinário, limpo entre animais (opcional).
+- Local separado para isolar o animal suspeito.
+
+PROCEDIMENTO
+------------
+1. Observe o rebanho à distância, em silêncio, por alguns minutos.
+2. Fixe o que é o normal do grupo: como comem, andam e descansam.
+3. Marque os animais parados, com cabeça baixa ou orelhas caídas.
+4. Marque os que não se movem quando o resto do grupo se desloca.
+5. Note os que ficam sozinhos, deitados ou se arrastando.
+6. Aproxime-se primeiro dos animais saudáveis e por último dos suspeitos.
+7. Calce luvas antes de tocar qualquer animal suspeito.
+8. Olhe o focinho, a boca, a língua e os lábios do animal suspeito.
+9. Procure bolhas, feridas, saliva excessiva ou corrimento no nariz e olhos.
+10. Olhe os tetos e a pele, inclusive entre os cascos e acima deles.
+11. Observe se o animal manca ou evita apoiar uma das patas.
+12. Se usar termômetro, compare com animais saudáveis do mesmo lote.
+13. Conte quantos animais apresentam sinais e anote no caderno.
+14. Anote a data, a hora, o lote e o que você viu em cada animal.
+15. Isole o animal suspeito em local separado, com água e comida.
+16. Não leve animais, ração, utensílios ou veículos de um lote a outro.
+17. Avise no mesmo dia o médico-veterinário ou a autoridade sanitária local.
+18. Lave as mãos e desinfete botas e equipamentos ao terminar.
+
+ATENCAO
+-------
+Muitas doenças infecciosas passam para as pessoas, como brucelose, raiva e
+antraz. Use luvas e lave as mãos depois de cada contato.
+Doenças diferentes produzem sinais parecidos. Febre aftosa, estomatite
+vesicular e outras causam bolhas que só o laboratório distingue.
+Não tente nomear a doença apenas pelos sinais. Isso engana até experiente.
+Animais podem estar infectados sem mostrar sinais. Na febre aftosa o
+período de incubação é de aproximadamente 2 a 14 dias, segundo a WOAH.
+Não abra bolhas nem toque feridas com as mãos nuas.
+Não desloque um animal suspeito para outro lote: isso espalha a doença.
+Pare e procure ajuda se houver mortes súbitas, muitos animais doentes de
+uma vez, falta de ar ou sinais nervosos.
+Este texto não confirma nem trata doença. Ele só apoia o reconhecimento e
+a notificação precoce.
+
+SE NAO TIVER
+------------
+Sem termômetro, baseie-se nos sinais visíveis e compare com animais
+saudáveis do lote. Não invente temperatura.
+Sem luvas, use um saco plástico limpo como barreira e lave as mãos depois.
+Nunca toque bolhas rompidas ou feridas com as mãos nuas.
+Sem lanterna, faça a inspeção em luz natural forte.
+Sem local de isolamento, mantenha o animal afastado dos demais e avise a
+autoridade sanitária ainda hoje.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue apontar quais animais diferem do grupo e descrever os sinais
+de cada um, com data e hora anotadas.
+O animal suspeito ficou isolado e a autoridade sanitária foi avisada no
+mesmo dia, antes de qualquer movimentação de animais.
+
+FONTES
+------
+Ficha técnica da WOAH, Organização Mundial de Saúde Animal, sobre febre
+aftosa e sinais clínicos em rebanhos. Orientação da CDC sobre One Health e
+doenças que passam entre animais e pessoas. Prática consolidada de
+vigilância em sanidade animal. Resumo operacional, não substitui
+atendimento veterinário.

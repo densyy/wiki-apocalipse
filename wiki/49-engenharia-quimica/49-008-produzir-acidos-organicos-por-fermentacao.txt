@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 49-008
+TITULO: Como produzir ácidos orgânicos por fermentação
+CATEGORIA: 49 - Engenharia química e processos industriais
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: açúcar, fermento, recipiente tampado, termômetro, medidor de pH
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ácido, fermentação, bactéria, açúcar, ph, vinagre, leite
+==============================================================================
+
+OBJETIVO
+--------
+Obter uma solução ácida a partir de açúcar, usando microrganismos.
+
+QUANDO USAR
+-----------
+Quando houver melaço, suco de fruta ou soro de leite sem outro uso.
+Quando faltar acidificante para conservar alimentos ou limpar superfícies.
+Quando precisar de ácido lático, acético ou cítrico sem comprá-lo.
+Quando se quiser estudar fermentação industrial em pequena escala.
+
+NAO USE QUANDO
+--------------
+Sem medidor de pH e sem termômetro, não inicie o procedimento.
+Sem uma fonte de açúcar limpa e conhecida, não inicie.
+Se o recipiente não puder ser lavado e tampado, não inicie.
+Se aparecer mofo colorido ou cheiro podre, descarte todo o conteúdo.
+
+MATERIAIS
+---------
+- Açúcar comum, glicose, melaço ou suco de fruta sem conservante.
+- Iogurte natural com bactérias láticas vivas, ou fermento de vinagre.
+- Água limpa e potável.
+- Recipiente de vidro ou plástico alimentício com tampa.
+- Termômetro.
+- Medidor de pH ou fita de pH.
+- Carbonato de cálcio em pó, para controlar a acidez.
+- Pano limpo ou filtro de café.
+- Colher limpa e recipiente menor para o inoculo.
+
+PROCEDIMENTO
+------------
+1. Lave o recipiente, a tampa e a colher com água quente e sabão.
+2. Enxágue bem e deixe escorrer; não use pano de limpeza sujo.
+3. Dissolva aproximadamente 100 g de açúcar em 1 litro de água morna.
+4. Adicione aproximadamente 5 g de carbonato de cálcio e mexa.
+5. Aqueça a solução a aproximadamente 80 °C por 10 minutos.
+6. Esfrie a solução até aproximadamente 37 °C antes de inocular.
+7. Meça o pH; o valor inicial deve ficar entre 6,0 e 6,5.
+8. Adicione aproximadamente 2 colheres de sopa de iogurte natural e mexa.
+9. Tampe frouxamente, deixando uma fresta para a saída de gás.
+10. Mantenha entre aproximadamente 30 °C e 37 °C, fora da luz direta.
+11. Meça o pH a cada 12 horas e anote os valores em um papel.
+12. Se o pH cair abaixo de aproximadamente 5,0, adicione carbonato.
+13. Repita a medição por aproximadamente 3 dias, até o pH estabilizar.
+14. Coe o líquido com pano limpo para reter coagulos e impurezas.
+15. Guarde o líquido em recipiente limpo, tampado e identificado.
+
+ATENCAO
+-------
+O tipo de ácido depende do microrganismo e do material de partida.
+O iogurte tende a produzir ácido lático; o vinagre, ácido acético.
+Contaminação por mofo ou bactérias desconhecidas pode gerar toxinas.
+Com mofo colorido, cheiro podre ou gás em excesso, descarte tudo.
+Não use recipiente de ferro, alumínio ou cobre: o ácido corrói esses metais.
+Não feche hermeticamente: cepas que liberam gás podem estourar a tampa.
+O carbonato de cálcio controla o pH, mas não elimina contaminantes.
+O ácido formado não torna o líquido seguro para beber sem fervura.
+Em contato com olhos ou pele, lave com água corrente por 15 minutos.
+
+SE NAO TIVER
+------------
+Sem iogurte, use uma colher de fermento de vinagre ou fermento natural.
+Sem medidor ou fita de pH, não inicie: o controle da acidez é indispensável.
+Sem termômetro, use água morna que não incomode a mão; o resultado varia.
+Sem carbonato de cálcio, use bicarbonato de sódio em pitadas, com cautela.
+O bicarbonato muda o sabor e o teor de sódio do produto final.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O pH cai de aproximadamente 6,2 para menos de aproximadamente 4,5.
+O líquido fica turvo e com cheiro ácido, sem cheiro podre.
+Não há mofo visível, nem gás acumulado, nem sedimento estranho.
+A queda do pH estabiliza em aproximadamente 2 a 3 dias.
+
+FONTES
+------
+Prática consolidada de fermentação industrial de ácidos orgânicos.
+Referências consultadas: capítulo Lactic Acids da Ullmann's Encyclopedia
+of Industrial Chemistry, de Westhoff e Starr, 2012; capítulo Citric Acid
+da mesma enciclopédia, de Verhoff e Bauweleers, 2014; revisão de
+Abdel-Rahman, Tashiro e Sonomoto em Biotechnology Advances, 2013.
+Valores de pH, temperatura e tempo são aproximados, segundo tais fontes.
+Resumo operacional; não substitui treinamento de laboratório.

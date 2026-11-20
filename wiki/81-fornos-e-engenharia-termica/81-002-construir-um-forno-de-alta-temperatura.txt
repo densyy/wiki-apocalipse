@@ -1,0 +1,88 @@
+==============================================================================
+CODIGO: 81-002
+TITULO: Como construir um forno de alta temperatura
+CATEGORIA: 81 - Engenharia térmica e fornos industriais
+TEMPO: 3 dias
+RISCO: alto
+EXIGE: tijolos refratários, argila refratária, isolamento, chaminé
+REVISAO: 2026-11
+PALAVRAS-CHAVE: forno, alta temperatura, refratário, chaminé, isolamento
+==============================================================================
+
+OBJETIVO
+--------
+Montar um forno capaz de manter temperaturas muito altas com segurança.
+
+QUANDO USAR
+-----------
+Quando o trabalho exige calor acima do que um forno comum alcança.
+Para fundir metais, queimar cerâmica ou fazer tratamentos térmicos.
+Quando o forno atual racha ou perde calor antes de chegar ao ponto.
+Ao trocar o revestimento de um forno desgastado.
+
+NAO USE QUANDO
+--------------
+Não construa sem base firme e espaço livre ao redor.
+Não faça em madeira, plástico ou material que derreta ou pegue fogo.
+Não opere sem chaminé e sem saída de gases para fora do ambiente.
+Não use se não houver fonte de combustível controlada e água por perto.
+
+MATERIAIS
+---------
+- Tijolos refratários de alta alumina (tijolos de forno).
+- Argila refratária ou massa própria (barro comum não serve).
+- Isolamento térmico: lã de rocha ou placa cerâmica (areia seca, se leve).
+- Chaminé de metal ou cerâmica com altura suficiente (duto isolado).
+- Base de concreto ou alvenaria nivelada (laje firme).
+- Termômetro de alta faixa ou pirômetro (cones de fusão cerâmicos).
+- Luvas de couro, óculos e máscara para trabalho com refratários.
+- Água e areia para apagar princípio de incêndio.
+
+PROCEDIMENTO
+------------
+1. Escolha local plano, firme e afastado de madeira e telhados.
+2. Nivele a base e deixe-a curar antes de assentar tijolos.
+3. Defina o formato da câmara e a altura da chaminé no papel.
+4. Assente a camada externa de tijolos comuns, com juntas firmes.
+5. Aplique a camada de isolamento sem deixar vãos nem pontes de calor.
+6. Assente a camada interna de tijolos refratários com argila própria.
+7. Deixe juntas finas e uniformes entre os tijolos refratários.
+8. Reserve a abertura da porta e a entrada de ar na altura certa.
+9. Instale a chaminé com vedação e incline-a para evitar chuva.
+10. Deixe a alvenaria secar lentamente, sem pressa e sem fogo.
+11. Faça a primeira queima com fogo brando para curar a massa.
+12. Aumente a temperatura aos poucos, em etapas, vendo as juntas.
+13. Verifique rachaduras, pontos quentes externos ou fumaça na junta.
+14. Corrija as falhas antes de elevar o forno ao ponto de trabalho.
+15. Anote os tempos de secagem e de queima para as próximas operações.
+
+ATENCAO
+-------
+Tijolo comum não suporta alta temperatura: racha e pode desmoronar.
+Umidade presa na massa vira vapor e estoura a alvenaria na primeira queima.
+Nunca feche totalmente a entrada de ar: o fogo precisa de oxigênio.
+Gases de combustão são venenosos; a chaminé deve descarregar para fora.
+Use proteção para olhos, pele e vias respiratórias ao manusear refratários
+e ao abrir a porta do forno quente.
+Se a parede externa ficar quente demais, pare e reforce o isolamento.
+Incêndio na estrutura exige evacuação e chamada ao corpo de bombeiros.
+
+SE NAO TIVER
+------------
+Sem tijolo refratário, limites-se a baixa temperatura e aceite vida curta.
+Sem isolamento comercial, faça camada de areia seca entre as paredes.
+Sem pirômetro, use cones de fusão cerâmicos como referência aproximada.
+Sem chaminé metálica, construa duto de alvenaria com saída alta e aberta.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A câmara atinge e mantém a temperatura desejada sem rachaduras novas.
+A parede externa fica apenas morna ao toque.
+A fumaça sai pela chaminé, sem retorno para o ambiente.
+A porta abre e fecha sem travar depois do resfriamento.
+
+FONTES
+------
+Prática consolidada de construção e operação de fornos refratários, sem
+documento normativo único. Referências correntes de alvenaria refratária,
+secagem controlada de massas e segurança contra incêndio em fornos.

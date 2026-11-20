@@ -1,0 +1,88 @@
+==============================================================================
+CODIGO: 50-007
+TITULO: Como funcionavam as antigas técnicas de mineração
+CATEGORIA: 50 - História das tecnologias pré-industriais
+TEMPO: 60 minutos
+RISCO: critico
+EXIGE: companhia, caderno, bastão, lanterna, terreno conhecido
+REVISAO: 2026-11
+PALAVRAS-CHAVE: mineração, mina, minério, poço, fogo, água
+==============================================================================
+
+OBJETIVO
+--------
+Entender as etapas da extração manual de minério antes das máquinas.
+
+QUANDO USAR
+-----------
+Ao estudar como o minério era obtido sem máquinas nem explosivos.
+Ao comparar técnicas antigas com a mineração atual.
+Ao identificar marcas de mineração antiga no terreno.
+Ao reconstruir, em contexto histórico, o ciclo da extração manual.
+
+NAO USE QUANDO
+--------------
+Não desça a poço ou galeria sem treinamento e companhia.
+Não use fogo contra rocha com vento ou perto de vegetação seca.
+Não toque em minério com feridas nem inale pó de rocha.
+Esta descrição é histórica e não substitui orientação de segurança.
+
+MATERIAIS
+---------
+- Caderno e lápis para registrar o que foi observado.
+- Bastão para sondar o solo (ou faca de cabo longo).
+- Lanterna ou tocha (vela presa em recipiente).
+- Pá e picareta de cabo longo (ou enxada).
+- Balde e corda (ou cesto trançado).
+- Água para apagar fogo e controlar o pó.
+
+PROCEDIMENTO
+------------
+1. Observe o terreno em busca de veios expostos e pedras de cor diferente.
+2. Procure cascalho brilhante no leito de rios e córregos próximos.
+3. Siga o cascalho rio acima até encontrar a origem do minério.
+4. Abra valas rasas com pá para acompanhar o veio sob o solo.
+5. Retire a terra e as pedras soltas com picareta ou enxada.
+6. Para rocha dura, aqueça a face com fogo antes de jogar água.
+7. Atenção: a pedra estilhaça; afaste as pessoas e proteja os olhos.
+8. Escave um poço estreito seguindo o veio, com balde e corda.
+9. Forre as paredes do poço com madeira para impedir desabamento.
+10. Abra uma galeria no fundo do poço, alta para uma pessoa.
+11. Ventile a galeria com foles ou manga de pano antes de entrar.
+12. Drene a água com bomba de corrente ou vala de escoamento.
+13. Suba o minério com guindaste de corda ou roda hidráulica.
+14. Esmague o minério e lave em água corrente para separar o metal.
+
+ATENCAO
+-------
+O trabalho subterrâneo matava por desabamento, falta de ar e gases.
+O fogo contra rocha estilhaça pedras e pode causar incêndio e queimadura.
+Não entre em poço sem escoras: a parede cede sem aviso.
+Gases sem cheiro, como o monóxido de carbono, matam em minutos.
+Pó de rocha e minérios com arsênio ou sílica ferem pulmões e pele.
+Pare e saia se ouvir estalos, ver rachaduras ou sentir o ar ruim.
+Nunca trabalhe sozinho e não abra mina sem perícia: isto é história.
+
+SE NAO TIVER
+------------
+Sem picareta, use barra de ferro ou pedra lascada na rocha mole.
+Sem madeira para escoras, não abra poço: o teto pode ceder.
+Sem bomba, use balde e corda e renove o ar antes de descer.
+Sem água, não aqueça rocha com fogo: o fogo pode sair do controle.
+Se não houver companhia, apenas observe e registre; não escave.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O veio aparece contínuo nas paredes e o cascalho mostra o minério.
+A rocha rachou em blocos depois do aquecimento e do resfriamento.
+As escoras ficam firmes, sem terra nova caída ao redor.
+O ar permite respirar sem tontura nem ardência nos olhos.
+Após a lavagem, o concentrado mostra grãos ou lascas do metal.
+
+FONTES
+------
+Prática consolidada de mineração pré-industrial em tratados históricos.
+De Re Metallica, de Georgius Agricola (1556), descreve poços,
+galerias, escoras, fogo, bombas e ventilação.
+História Natural, de Plínio, o Velho, registro da lavagem
+hidráulica e da mineração romana.

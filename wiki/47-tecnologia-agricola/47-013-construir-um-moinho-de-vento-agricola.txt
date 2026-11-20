@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 47-013
+TITULO: Como construir um moinho de vento agrícola
+CATEGORIA: 47 - Tecnologia agrícola e mecanização rural
+TEMPO: 3 dias
+RISCO: alto
+EXIGE: catavento e torre, pedras de moinho, eixo, 2 pessoas, capacete
+REVISAO: 2026-11
+PALAVRAS-CHAVE: moinho de vento, catavento, moer grãos, farinha, eólico
+==============================================================================
+
+OBJETIVO
+--------
+Construir um moinho movido a vento que moe grãos secos em farinha.
+
+QUANDO USAR
+-----------
+Quando há vento constante e não há energia elétrica para moer grãos.
+Quando trigo, milho ou arroz precisam virar farinha ou farelo.
+Quando moer na mão consome tempo demais para a comunidade.
+Quando já existe catavento ou kit de rotor que pode ser aproveitado.
+
+NAO USE QUANDO
+--------------
+Quando não há duas pessoas, capacete e cinto para trabalhar em altura.
+Quando o rotor não tem frenagem nem cauda para sair do vento.
+Quando não há pedras duras, eixo firme e base bem ancorada.
+Quando houver poeira de grãos sem ventilação e sem máscara.
+
+MATERIAIS
+---------
+- Catavento multipás com cubo, pás, cauda e frenagem (ou kit pronto).
+- Torre metálica treliçada com base e estacas de ancoragem.
+- Duas pedras circulares de basalto ou granito, com 30 a 50 cm.
+- Eixo de ferro firme, mancais e cavilha central para as pedras.
+- Funil de madeira ou lata para alimentar os grãos.
+- Peneira ou pano limpo para separar o farelo da farinha.
+- Capacete, cinto de segurança, luvas, óculos e máscara de poeira.
+- Chaves, alicate, nível, fita métrica, cinzel, marreta e corda.
+
+PROCEDIMENTO
+------------
+1. Escolha ponto livre, sem prédios nem árvores muito próximos.
+2. Mantenha obstáculos a aproximadamente 150 metros do moinho.
+3. Nivele o solo e fixe a base com estacas e concreto.
+4. Monte a torre treliçada e confira se ficou bem vertical.
+5. Aperte todos os parafusos da torre e da base.
+6. Lave as pedras e desbaste as faces até ficarem planas.
+7. Abra sulcos rasos na face das pedras com cinzel e marreta.
+8. Faça os sulcos em leque, do centro para a borda, no mesmo sentido.
+9. Abra um furo central em cada pedra para passar o eixo.
+10. Fixe a cabeça do catavento no topo da torre.
+11. Instale a cauda e deixe o mecanismo de orientação girar livre.
+12. Teste a frenagem: em vento forte o rotor deve parar.
+13. Encaixe as pedras no eixo, com as faces sulcadas uma contra a outra.
+14. Ajuste a distância até as pedras ficarem quase se tocando.
+15. Fixe o funil acima do furo da pedra superior.
+16. Prenda o eixo do rotor ao eixo das pedras com acoplamento firme.
+17. Afaste as pessoas, solte a frenagem e observe o rotor girar.
+18. Despeje um pouco de grão seco no funil, aos poucos e sem encher.
+19. Retire a farinha que sai pela borda e peneire para tirar o farelo.
+20. Alimente em pequenas porções até terminar o grão.
+21. Freie o rotor antes de subir para ajustar ou limpar as pedras.
+
+ATENCAO
+-------
+Trabalho em altura pode matar: use capacete, cinto e nunca sozinho.
+Antes de subir, acione a frenagem: o rotor em movimento corta dedos.
+Prenda o cabelo e nunca use manga larga perto do eixo e das pás.
+Nunca fique sob a torre nem sob o rotor durante a montagem.
+Vento forte derruba torre mal ancorada: confira estacas e frenagem.
+Poeira de grão em local fechado irrita olhos e brônquios; use máscara.
+Pedra de arenito ou calcário solta areia na farinha e estraga o alimento.
+Se o eixo travar ou a torre vibrar, freie o rotor e pare na hora.
+Montar rotor e torre do zero exige cálculo; sem kit pronto, não improvise.
+
+SE NAO TIVER
+------------
+Sem catavento, use moinho manual até conseguir rotor e torre.
+Sem torre metálica, não improvise com madeira podre: risco de queda.
+Sem frenagem, amarre o rotor com corda antes de subir e troque a peça.
+Sem pedra de basalto, use granito; evite arenito e calcário maciço.
+Sem cinzel, desbaste as pedras com pedra mais dura, aos poucos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O rotor gira com vento fraco e para quando a frenagem é acionada.
+As pedras moem o grão e sai farinha pela borda a cada volta.
+A torre fica imóvel e nivelada depois de ventos fortes.
+O eixo gira sem travar nem ranger e o funil esvazia sem parar.
+A farinha não tem areia visível nem pedaços de pedra ao peneirar.
+
+FONTES
+------
+Prática consolidada de moinharia eólica e moagem manual de grãos,
+presente em guias de moinharia e manuais rurais de cataventos.
+Família de referência: Embrapa (eólica e moagem no semiárido) e
+USDA-NRCS (moinhos de vento), sem documento único consultado.
+Este texto é um resumo operacional, não substitui treinamento nem norma.

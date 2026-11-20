@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 44-005
+TITULO: Como identificar sinais de contaminação de aquíferos
+CATEGORIA: 44 - Hidrologia, rios e gestão de bacias
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: luz, copo transparente, caderno, lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, aquífero, contaminação, poço, odor, sabor, nitrato
+==============================================================================
+
+OBJETIVO
+---------
+Reconhecer sinais visíveis, de cheiro e de relato que apontam risco de
+contaminação no aquífero que abastece um poço ou uma nascente.
+
+QUANDO USAR
+-----------
+Quando a água de poço ou nascente mudar de cor, de cheiro ou de sabor.
+Depois de chuva forte, enchente ou seca prolongada na região.
+Quando houver fossa, curral, lavoura, lixão ou indústria perto do poço.
+Quando alguém que bebeu a água passar a ter diarreia ou vômito.
+Antes de usar água de poço desconhecido para beber ou cozinhar.
+
+NAO USE QUANDO
+--------------
+Esta rotina não substitui análise laboratorial nem laudo de potabilidade.
+Água com aparência normal pode conter arsênio, fluoreto ou nitrato
+dissolvidos, que não têm cor nem cheiro. Não prove a água para testar.
+
+MATERIAIS
+---------
+- Copo ou frasco transparente limpo (pote de vidro com tampa).
+- Luz do dia ou lanterna.
+- Caderno e lápis para anotar data, hora e local.
+- Luvas descartáveis (pano limpo) para tocar tampa e borda do poço.
+
+PROCEDIMENTO
+------------
+1. Pare de beber da fonte suspeita antes de começar a inspeção.
+2. Anote data, hora, local e o nome do poço ou da nascente.
+3. Encha o copo transparente com a água da fonte, sem derramar.
+4. Olhe o copo contra a luz do dia ou da lanterna.
+5. Registre se a água está turva, escura, amarelada ou avermelhada.
+6. Registre espuma persistente, óleo ou mancha brilhante na superfície.
+7. Cheire a água sem encostar o nariz na borda do copo.
+8. Anote cheiro de esgoto, terra, podre, gasolina, solvente ou mofo.
+9. Anote o relato de quem já bebeu: sabor salgado, metálico ou amargo.
+10. Observe a boca do poço: tampa quebrada, laje rachada, terra entrando.
+11. Procure fossa, curral, lavoura, lixão ou indústria no entorno.
+12. Note se a água muda de cor ou de cheiro após chuva forte.
+13. Observe animais, peixes ou plantas mortos perto da fonte.
+14. Anote se pessoas adoeceram depois de beber: diarreia, vômito ou febre.
+15. Não prove, não engula e não cozinhe com esta água sob suspeita.
+16. Feche o poço ou sinalize a nascente para evitar que alguém beba.
+17. Encaminhe uma amostra para análise ou procure o órgão local de saúde.
+
+ATENCAO
+-------
+Sinais de cor, cheiro e sabor são pistas, não prova de potabilidade.
+A EPA classifica cor e odor como padrões secundários: são só estéticos.
+Arsênio, fluoreto, nitrato e chumbo dissolvidos não têm cor nem cheiro.
+Só um laudo com valores em mg/L pode afirmar que a água é segura.
+Não prove a água suspeita: um gole já pode causar intoxicação.
+Cheiro de esgoto ou fezes indica risco microbiano, a maior causa de
+doença por água no mundo, segundo a OMS. Pare de beber na hora.
+Ferver não remove arsênio, nitrato, chumbo, sal ou agrotóxico; pode
+concentrar o contaminante. Para o risco microbiano, veja 01-001.
+Se alguém bebeu e teve diarreia com sangue, vômito ou febre, procure
+atendimento de saúde imediatamente. Água limpa não garante água segura.
+
+SE NAO TIVER
+------------
+Sem copo transparente, use frasco de vidro limpo e vazio.
+Não use recipiente que teve combustível, remédio ou tinta.
+Sem luz artificial, faça a inspeção ao ar livre, em dia claro.
+Sem luz nenhuma, espere o dia e não beba da fonte até decidir.
+Sem luvas, use pano limpo e lave as mãos com água e sabão depois.
+Sem acesso à análise, trate a água suspeita como imprópria e busque
+outra fonte segura. Ferver resolve só o risco microbiano, veja 01-001.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você anotou data, local e três observações: cor, cheiro e entorno.
+A fonte foi fechada ou sinalizada e ninguém continuou bebendo dela.
+Ninguém provou a água durante a inspeção.
+A amostra foi enviada para análise ou outra fonte segura foi adotada.
+
+FONTES
+------
+Ficha informativa da OMS sobre água potável, 2026: risco microbiano por
+fezes, arsênio e fluoreto em águas subterrâneas e chumbo por lixiviação.
+EPA, Drinking Water Regulations and Contaminants: diferença entre
+padrões primários (saúde) e secundários (cor, odor e sabor da água).
+USGS, Groundwater Quality Research: arsênio, nitrato, pesticidas e
+compostos orgânicos voláteis em aquíferos.
+Prática consolidada de inspeção sanitária de poços; resumo operacional,
+não substitui análise laboratorial nem orientação do órgão local.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 37-011
+TITULO: Como construir um clinômetro artesanal
+CATEGORIA: 37 - Cartografia, topografia e levantamento
+TEMPO: 40 minutos
+RISCO: baixo
+EXIGE: transferidor de 180 graus, fio, peso pequeno, fita, palito reto
+REVISAO: 2026-11
+PALAVRAS-CHAVE: clinômetro, ângulo, declividade, encosta, prumo, rampa
+==============================================================================
+
+OBJETIVO
+--------
+Construir um clinômetro, aparelho de ângulos, e medir a declividade.
+
+QUANDO USAR
+-----------
+Quando precisar comparar a inclinação de duas encostas antes de seguir.
+Quando precisar anotar a declividade de um talude num croqui.
+Quando precisar medir um ângulo sem aparelho comprado.
+
+NAO USE QUANDO
+--------------
+Quando a decisão exigir precisão de fração de grau, como em obras.
+Quando houver vento forte ou risco de deslizamento na encosta.
+
+MATERIAIS
+---------
+- Transferidor semicircular de 180 graus, com escala legível.
+- Fio de algodão ou linha de pesca com cerca de 30 cm.
+- Peso pequeno, como porca, arruela ou pedra redonda.
+- Fita adesiva e palito reto, canudo ou régua fina para mira.
+- Caderno e lápis para anotar as leituras.
+
+PROCEDIMENTO
+------------
+1. Prenda o fio no furo central da base reta do transferidor.
+2. Amarre o peso na ponta livre e deixe o fio pendurado.
+3. Apoie a base em chão plano: o fio deve marcar 90 graus.
+4. Ajuste o furo até o fio passar exatamente pela marca central.
+5. Prenda o palito à base reta, alinhado à linha de visão.
+6. Em pé, aponte o palito para um alvo na altura dos olhos.
+7. Mantenha o transferidor vertical e espere o peso parar.
+8. Leia o grau onde o fio cruza a escala e anote no caderno.
+9. Tire 90 da leitura e ignore o sinal: esse é o ângulo.
+
+ATENCAO
+-------
+O vento e o tremor da mão fazem o fio balançar; leia só quando parar.
+Refaça o zero antes de cada uso: escala barata pode estar torta.
+O aparelho lê ângulo, não distância; sem distância não há altura.
+Anote sempre o ponto de medição: 1 grau em 100 passos muda a estimativa.
+Não use para limites ou obras; em risco de deslizamento, meça de longe.
+
+SE NAO TIVER
+------------
+Sem transferidor, divida um arco de 180 graus em 18 partes: 10 graus cada.
+Sem peso, use pedra ou porca; sem fio, use fibra ou linha de costura.
+Sem palito, mire pela borda reta; sem fita, dê um nó no furo central.
+
+COMO SABER QUE DEU CERTO
+------------------------
+No chão plano o fio marca 90 graus; mirando o nível dos olhos, também.
+Duas leituras do mesmo alvo diferem em no máximo 1 grau.
+
+FONTES
+------
+Prática consolidada de topografia de campo: arco graduado com fio de prumo.
+Iowa State University: medição com clinômetro exige conferir o zero e medir
+a distância até o alvo. Texto operacional; não substitui treinamento.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 08-059
+TITULO: Como construir engrenagens simples
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 3 horas
+RISCO: medio
+EXIGE: madeira dura, serra, faca, furadeira, cavilhas, eixos, óculos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: engrenagem, dente, cavilha, disco, eixo, transmissão, força
+==============================================================================
+
+OBJETIVO
+--------
+Construa um par de engrenagens de madeira para transmitir giro entre eixos.
+
+QUANDO USAR
+-----------
+Quando precisar transmitir giro entre dois eixos paralelos sem correia.
+Quando quiser ganhar força de giro em mecanismo leve, com menos velocidade.
+
+NAO USE QUANDO
+--------------
+Não use para içar peso, mover carga pesada ou substituir peça de máquina.
+Se os dentes não tiverem o mesmo tamanho e o mesmo espaço, pare e refaça.
+
+MATERIAIS
+---------
+- Madeira dura, seca, sem nós nem rachaduras, para os dois discos.
+- Serra, faca e furadeira manual com broca (substituto: ferro quente).
+- Cavilhas de madeira da broca (substituto: pregos sem cabeça).
+- Dois eixos retos e suporte que os mantenha paralelos.
+- Corda ou compasso, lápis e óculos de proteção.
+
+PROCEDIMENTO
+------------
+1. Entenda: engrenagem é roda com dentes que empurra outra roda.
+2. Serra dois discos de madeira dura, mesma espessura, diâmetros diferentes.
+3. Fure o centro de cada disco; o eixo deve girar livre no furo.
+4. Regule o passo, distância entre dentes: largura da cavilha mais um vão.
+5. Use a mesma abertura nos dois discos: dentes desiguais travam.
+6. Caminhe com a medida na borda e marque os pontos com lápis.
+7. Se o último ponto não fechar, mude o diâmetro do disco, não o compasso.
+8. Conte os dentes de cada disco e anote os dois números.
+9. Fure cada marca com a broca das cavilhas, longe da borda do disco.
+10. Corte as cavilhas iguais e enfie uma em cada furo, na mesma altura.
+11. Monte os eixos paralelos; aproxime até a cavilha entrar no vão.
+12. Gire um disco: o outro gira oposto e mais devagar se for maior.
+13. Calcule a relação: dentes do maior divididos pelos dentes do menor.
+
+ATENCAO
+-------
+Dentes desiguais travam: use a mesma abertura de compasso nos dois discos.
+Madeira rachada solta a cavilha: descarte o disco e refaça o furo.
+Serve só para carga leve: não içe peso nem toque nos dentes em giro.
+A engrenagem troca velocidade por força; o atrito consome parte dela.
+
+SE NAO TIVER
+------------
+Sem furadeira, queime os furos com ferro quente e alargue com a faca.
+Sem cavilhas, corte pregos sem cabeça e retire a ponta com a lima.
+Sem madeira dura, não monte: madeira mole desgasta e os dentes quebram.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ao girar um disco, o outro gira sem travar e sem pular dente.
+As cavilhas entram nos vãos por inteiro e saem sem raspar.
+
+FONTES
+------
+OpenStax College Physics 9.5; UCSD MAE 3; CMU 39-245; prática consolidada.

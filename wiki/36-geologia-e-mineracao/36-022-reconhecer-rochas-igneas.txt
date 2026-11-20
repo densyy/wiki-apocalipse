@@ -1,0 +1,68 @@
+==============================================================================
+CODIGO: 36-022
+TITULO: Como reconhecer rochas ígneas
+CATEGORIA: 36 - Geologia, mineração e recursos naturais
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: lupa de bolso, amostra de rocha, luz forte, caderno
+REVISAO: 2026-11
+PALAVRAS-CHAVE: rocha, ígnea, granito, basalto, textura, grãos, vulcânica
+==============================================================================
+
+OBJETIVO
+---------
+Nomear uma rocha ígnea de forma provável pela cor e pelo tamanho dos grãos.
+
+QUANDO USAR
+-----------
+Quando encontra rocha desconhecida em afloramento ou cascalho de rio.
+Quando quer separar rocha ígnea de sedimentar ou metamórfica no campo.
+
+NAO USE QUANDO
+--------------
+Quando for preciso nome exato para laudo ou venda: aqui só há nome provável.
+Quando a rocha estiver em talude instável ou via de trânsito.
+
+MATERIAIS
+---------
+- Amostra com face limpa ou recém-quebrada e lupa de aproximadamente 10x.
+- Escova velha, pano seco, lanterna e caderno com lápis.
+
+PROCEDIMENTO
+------------
+1. Escove a amostra e escolha uma face recém-quebrada, sem crosta ou musgo.
+2. Observe a cor dessa face em luz forte: clara, cinza ou escura.
+3. Aproxime a lupa e procure cristais brilhantes na face limpa.
+4. Se vê grãos a olho nu, anote "grãos visíveis": esfriou devagar.
+5. Se não vê grãos com a lupa, anote "sem grãos": esfriou rápido.
+6. Se há cristais maiores, anote "porfirítica"; se há bolhas, "vesicular".
+7. Se parece vidro sem grãos, anote "vítrea".
+8. Nomeie: clara com grãos é granito; cinza com grãos é diorito; escura com
+   grãos é gabro; escura sem grãos é basalto; cinza sem grãos é andesito;
+   clara sem grãos é riolito, ou obsidiana se for vítrea. Anote no caderno.
+
+ATENCAO
+-------
+A cor da superfície engana: use sempre uma face recém-quebrada.
+Obsidiana é escura e é riolito; cor escura não quer dizer basalto.
+Cor sozinha não fecha o nome: some cor e tamanho dos grãos.
+Vulcânicas finas podem exigir análise em laboratório para nome exato.
+Não pingue ácido: o respingo fere os olhos. Ao quebrar, use óculos.
+
+SE NAO TIVER
+-----------
+Sem lupa, olhe a 20 cm em luz forte: granito e gabro mostram grãos.
+Sem face quebrada, limpe a pedra; sem amostra, observe cascalho de rio.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você diz em uma frase se esfriou devagar (grãos visíveis) ou rápido (sem
+grãos ou vidro), e o nome anotado segue a regra cor e grãos.
+
+FONTES
+------
+Serviço Nacional de Parques dos EUA (NPS), "Igneous Rocks", 2023:
+intrusivas e extrusivas, texturas fanerítica, afanítica e porfirítica;
+vesicular; granito, diorito, gabro, basalto, andesito, riolito e obsidiana.
+Sistema de classificação da União Internacional de Ciências Geológicas
+(IUGS), citado pela NPS. Prática de campo; não substitui análise química.

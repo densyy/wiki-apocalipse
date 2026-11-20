@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 09-037
+TITULO: Como utilizar latitude e longitude
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 25 minutos
+RISCO: medio
+EXIGE: mapa com grade de coordenadas, lápis e papel
+REVISAO: 2026-11
+PALAVRAS-CHAVE: latitude, longitude, coordenadas, mapa, posição, norte
+==============================================================================
+
+OBJETIVO
+--------
+Leia, marque e informe uma posição no mapa usando latitude e longitude.
+
+QUANDO USAR
+-----------
+Quando o GPS falha e só resta um mapa impresso com grade.
+Quando é preciso dizer ao socorro onde você está.
+
+NAO USE QUANDO
+--------------
+Quando o GPS funciona: leia a posição direto no aparelho.
+Quando o mapa não traz a grade de latitude e longitude.
+
+MATERIAIS
+---------
+- Mapa impresso com grade de coordenadas (carta ou mapa rodoviário).
+- Lápis e papel para anotar e marcar.
+
+PROCEDIMENTO
+------------
+1. Localize a grade de linhas na legenda do mapa.
+2. Reconheça as linhas horizontais: são as de latitude (paralelos).
+3. Reconheça as linhas verticais: são as de longitude (meridianos).
+4. Leia os valores das linhas nas bordas do mapa, em graus.
+5. Anote primeiro a latitude e depois a longitude, nessa ordem.
+6. Verifique o hemisfério: no Brasil, use latitude S e longitude W.
+7. Anote graus, minutos e segundos se o mapa os mostrar.
+8. Se o mapa usar graus decimais, não acrescente minutos nem segundos.
+9. Para marcar um ponto, cruze a linha de latitude com a de longitude.
+10. Um grau de latitude vale aproximadamente 111 km.
+11. Um minuto de latitude vale aproximadamente 1,85 km.
+12. Um segundo de latitude vale aproximadamente 30 m.
+13. A longitude encolhe com a latitude.
+14. Aos 60 graus, ela vale aproximadamente 55 km.
+15. Para pedir socorro, diga latitude, longitude e repita cada número.
+
+ATENCAO
+-------
+Inverter latitude e longitude aponta outro lugar: confira a ordem.
+Misturar graus decimais com graus, minutos e segundos muda a posição.
+Um grau de longitude não vale 111 km em toda parte.
+Se o mapa não tem grade, pare: não invente a posição.
+
+SE NAO TIVER
+------------
+Sem mapa com grade, guarde as coordenadas e entregue a quem tiver mapa.
+Sem lápis, memorize a latitude e repita em voz alta antes de seguir viagem.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O ponto marcado cai sobre um acidente que você reconhece no terreno.
+Outra pessoa, ao ler as coordenadas no mapa dela, aponta o mesmo lugar.
+
+FONTES
+------
+NOAA National Ocean Service: "What is Geodesy?" e "Global Positioning"
+(National Geodetic Survey). Prática consolidada de navegação terrestre.

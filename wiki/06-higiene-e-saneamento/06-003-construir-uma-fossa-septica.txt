@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 06-003
+TITULO: Como construir uma fossa séptica
+CATEGORIA: 06 - Higiene, saneamento e resíduos
+TEMPO: 8 horas
+RISCO: critico
+EXIGE: terreno permeavel, tijolos ou aneis, tubos e ferramentas de escavar
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fossa, septica, esgoto, fezes, banheiro, sumidouro, agua
+==============================================================================
+
+OBJETIVO
+--------
+Ao terminar, voce tem uma fossa simples que trata o esgoto do vaso.
+
+QUANDO USAR
+-----------
+Nao ha rede de esgoto e a familia precisa de destino seguro.
+O esgoto atual corre a ceu aberto perto da casa.
+Voce vai morar meses no mesmo terreno firme e seco.
+Ha agua para descarga e solo que absorve a agua da chuva.
+
+NAO USE QUANDO
+--------------
+Nao use em terreno que alaga, brejo ou rocha pura.
+Nao use a menos de aproximadamente 15 metros de poco ou rio.
+Nao use se ao cavar a terra ficar encharcada ou minar agua.
+Nao use sem espaco para a fossa e o sumidouro separados.
+
+MATERIAIS
+---------
+- Pa e picareta (enxadao se nao houver picareta)
+- Trena ou corda marcada (passos largos se nao houver trena)
+- Tijolos macicos ou aneis de concreto (pedra chapada se faltar)
+- Cimento, areia e brita (barro e pedra se faltar cimento)
+- Tubos de PVC de aproximadamente 100 mm (sem substituto seguro)
+- Tampa de concreto com visita (laje firme coberta com lona)
+- Cal hidratada para higienizar (cinza de fogao se faltar cal)
+- Luvas, botas e mascara simples (pano umido se faltar mascara)
+
+PROCEDIMENTO
+------------
+1. Escolha um ponto alto, seco e firme para a obra.
+2. Marque a fossa a aproximadamente 15 metros de pocos e rios.
+3. Afaste aproximadamente 1,5 metro de casas, muros e limites.
+4. Afaste aproximadamente 3 metros de arvores e tubos de agua.
+5. Marque no chao uma caixa de aproximadamente 2 metros por 1 metro.
+6. Cave ate aproximadamente 1,5 metro de fundo com paredes retas.
+7. Pare de cavar se a terra ficar encharcada ou minar agua.
+8. Compacte o fundo e espalhe aproximadamente 10 cm de brita.
+9. Levante as paredes com tijolos ou desca os aneis de concreto.
+10. Chapisque as paredes internas da fossa para vedar o esgoto.
+11. Concreta o fundo da fossa para impedir infiltracao direta.
+12. Marque o sumidouro a aproximadamente 3 metros da fossa.
+13. Cave o sumidouro com aproximadamente 1,5 metro de fundo.
+14. Espalhe aproximadamente 30 cm de brita no fundo do sumidouro.
+15. Levante a parede do sumidouro com juntas abertas para infiltrar.
+16. Assente o tubo de entrada no topo da fossa com leve caimento.
+17. Assente o tubo de saida da fossa para o topo do sumidouro.
+18. Vede com cimento as passagens dos tubos nas paredes.
+19. Instale um tubo vertical de ventilacao na tampa da fossa.
+20. Tampe a fossa e o sumidouro com laje firme e sem frestas.
+21. Cubra as tampas com aproximadamente 20 cm de terra socada.
+22. Ligue o vaso a fossa e despeje agua para testar o escoamento.
+
+ATENCAO
+-------
+Desmoronamento de vala soterra e pode matar em segundos.
+Nunca entre sozinho na vala e escore a parede se ela esfarelar.
+Gases do esgoto intoxicam e tiram o ar em poco fundo e fechado.
+Esgoto mal vedado contamina poco e rio e causa doenca grave.
+Esta fossa nao trata agua para beber e nao aceita lixo ou quimica.
+Se alguem desmaiar, vomitar muito ou tiver febre, busque ajuda.
+Se a agua do poco mudar de cheiro ou cor, pare de usar o poco.
+
+SE NAO TIVER
+------------
+Sem aneis de concreto, levante paredes de tijolos ou pedra chapada.
+Sem cimento, use barro bem socado, mas refaca a vedacao sempre.
+Sem tubo de PVC, nao use bambu ou lata, pois entope e contamina.
+Sem cal, use cinza de fogao para cobrir respingos de esgoto.
+Sem trena, meca com passos largos e confira duas vezes cada medida.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A descarga desce rapido e sem voltar pelo vaso ou pelo ralo.
+Nao ha mau cheiro forte nem poças de esgoto sobre a tampa.
+O chao sobre a fossa afunda menos e continua firme apos chuva.
+A agua do poco vizinho segue sem cheiro, sem cor e sem gosto.
+
+FONTES
+------
+Manual de saneamento da Funasa e pratica consolidada de obra simples.
+Orientacao da OMS sobre agua, saneamento e higiene em emergencia.
+Regras brasileiras de distancia e instalacao de tanques septicos.

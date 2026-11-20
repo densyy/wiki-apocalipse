@@ -1,0 +1,88 @@
+==============================================================================
+CODIGO: 68-017
+TITULO: Como compreender bandas de frequência
+CATEGORIA: 68 - Radiofrequência e telecomunicações
+TEMPO: 20 minutos
+RISCO: baixo
+EXIGE: papel, lápis, noções de frequência
+REVISAO: 2026-11
+PALAVRAS-CHAVE: banda, frequência, hertz, rádio, faixa, espectro, onda
+==============================================================================
+
+OBJETIVO
+--------
+Entender como o espectro é dividido em faixas e o que cada uma permite.
+
+QUANDO USAR
+-----------
+Quando lê a frequência de um rádio e quer saber a que faixa ela pertence.
+Quando escolhe equipamento de rádio para uma distância ou finalidade.
+Quando quer entender por que AM, FM e ondas curtas se comportam diferente.
+Quando uma faixa parece livre mas o sinal não chega como esperado.
+Quando estuda a escala de um receptor ou uma especificação de antena.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação para o entendimento em si.
+Não autoriza transmissão: transmitir exige autorização da Anatel.
+Não substitui o plano de frequências nem o projeto de um técnico.
+
+MATERIAIS
+---------
+- Papel e lápis (ou caderno).
+- Rádio com escala de frequência para observar (opcional).
+- Tabela de bandas da UIT ou do aparelho, se houver (opcional).
+
+PROCEDIMENTO
+------------
+1. Entenda banda como uma faixa contínua de frequências do espectro.
+2. Recorde: frequência são oscilações por segundo, em hertz (Hz).
+3. Anote: 1 kHz é 1000 Hz; 1 MHz é 1.000.000 Hz.
+4. Anote: 1 GHz é 1.000.000.000 Hz.
+5. Decore a regra das décadas: cada banda cobre uma faixa de dez vezes.
+6. Escreva a sequência em ordem: ELF, SLF, ULF, VLF, LF, MF, HF.
+7. Continue a sequência: VHF, UHF, SHF, EHF.
+8. Identifique pelo nome e número ITU: 3 a 30 MHz é HF, banda 7.
+9. Anote as bandas baixas: LF 30-300 kHz; MF 300 kHz-3 MHz.
+10. Anote o meio: HF 3-30 MHz; VHF 30-300 MHz.
+11. Anote as altas: UHF 300 MHz-3 GHz; SHF 3-30 GHz.
+12. Anote a última: EHF 30-300 GHz.
+13. Relacione: banda baixa tem onda longa; banda alta, onda curta.
+14. Associe usos: MF é AM; HF é onda curta; VHF é FM e emergência.
+15. Associe usos altos: UHF é celular e GPS; SHF é satélite.
+16. Leia a escala do rádio e diga o nome da banda em voz alta.
+17. Entenda: a divisão é por frequência, não por potência nem por país.
+
+ATENCAO
+-------
+Os limites de cada banda são convenção da UIT, não lei da natureza.
+Nomes de radar como L, S, C e Ku não são os da UIT.
+Confundir os dois sistemas é erro comum.
+Atribuição de uso muda por país e por serviço.
+A banda diz só a faixa, não o que é permitido.
+Acima de 30 GHz a atmosfera absorve o sinal e o alcance cai muito.
+Não transmita sem autorização: isto é conceito, não licença.
+Pare se quiser operar rádio: busque treinamento.
+Consulte também o plano de frequências da sua região.
+
+SE NAO TIVER
+------------
+Sem tabela, use a regra: multiplicar por dez sobe uma banda.
+De 3 a 30 MHz é HF; de 30 a 300 MHz é VHF; de 300 a 3000 MHz é UHF.
+Sem rádio com escala, o raciocínio serve para ler especificações.
+Para limites exatos, consulte a tabela de bandas da UIT.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você diz que 15 MHz é HF e 150 MHz é VHF, sem consultar.
+Você explica que HF tem ondas de 100 a 10 metros.
+Você aponta o nome da banda ao ler a escala de um rádio.
+Você sabe que banda não é licença para transmitir.
+
+FONTES
+------
+Regulamentos de Radiocomunicações da UIT, Artigo 2.
+Recomendação UIT-R V.431, nomenclatura de bandas.
+Federal Standard 1037C e MIL-STD-188, designações de faixas.
+IEEE Std 521, letras para bandas de radar.
+Conhecimento consolidado de telecomunicações. Resumo conceitual.

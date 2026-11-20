@@ -1,0 +1,85 @@
+==============================================================================
+CODIGO: 69-005
+TITULO: Como compreender diodos
+CATEGORIA: 69 - Eletrônica analógica e componentes discretos
+TEMPO: 25 minutos
+RISCO: medio
+EXIGE: diodos com faixa, luz boa, papel, lápis, multímetro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: diodo, ânodo, cátodo, retificação, silício, led, zener
+==============================================================================
+
+OBJETIVO
+---------
+Identificar um diodo e saber em qual sentido ele deixa passar corrente.
+
+QUANDO USAR
+-----------
+Quando precisar identificar as pontas de um diodo sem marcação clara.
+Quando for substituir um diodo queimado por outro equivalente.
+Quando precisar entender por que um circuito só funciona em um sentido.
+Quando for montar uma retificação: corrente alternada em contínua.
+Quando precisar distinguir diodo comum, Zener e LED.
+
+NAO USE QUANDO
+--------------
+Não use este texto para mexer em rede elétrica energizada.
+Circuito ligado na tomada pode matar; desligue antes de medir.
+Não invente a tensão de um diodo sem marcação: confirme com o multímetro.
+Se houver cheiro de queimado ou fumaça, pare e procure ajuda.
+
+MATERIAIS
+---------
+- Um ou mais diodos com corpo e faixa de identificação.
+- Papel e lápis para anotar polaridade e leituras.
+- Multímetro com escala de teste de diodo.
+- Luz boa ou lanterna para ver a faixa e o código impresso.
+
+PROCEDIMENTO
+------------
+1. Localize a faixa ou anel marcado no corpo do diodo.
+2. Anote: a ponta com a faixa é o cátodo; a outra é o ânodo.
+3. Entenda o sentido: a corrente convencional vai do ânodo ao cátodo.
+4. No símbolo, a barra vertical representa o cátodo, igual à faixa.
+5. Polarize o diodo: ânodo no positivo e cátodo no negativo para conduzir.
+6. Inverta as pontas: o diodo bloqueia e quase nenhuma corrente passa.
+7. Para silício, espere cerca de 0,7 V entre ânodo e cátodo ao conduzir.
+8. Para germânio, espere cerca de 0,3 V; Schottky, cerca de 0,3 V.
+9. Ajuste o multímetro para a escala de teste de diodo.
+10. Toque a ponta vermelha no ânodo e a preta no cátodo; leia a tensão.
+11. Inverta as pontas: o visor deve mostrar sobrecarga ou infinito.
+12. Compare as leituras: uma baixa e uma alta confirma o diodo.
+13. Se as duas leituras derem zero, o diodo está em curto.
+14. Se as duas derem sobrecarga, o diodo está aberto.
+15. No LED, a perna mais longa é o ânodo e a curta é o cátodo.
+16. No Zener, a faixa é o cátodo; ele regula tensão no sentido inverso.
+
+ATENCAO
+-------
+A corrente passa no sentido ânodo para cátodo; invertido, o diodo bloqueia.
+Confiar só na cor pode inverter a polaridade e queimar o circuito.
+A faixa pode estar apagada ou trocada em peça recondicionada.
+Um diodo comum rompe se a tensão reversa passar do limite da peça.
+Zener e LED têm regras próprias; nunca trate um como se fosse o outro.
+LED sem resistor limitador queima com a corrente da fonte.
+Nunca teste diodo em circuito energizado: fere e quebra o multímetro.
+
+SE NAO TIVER
+------------
+Sem multímetro, use a faixa do corpo para achar o cátodo.
+Se a faixa estiver ilegível, não adivinhe: meça ou descarte a peça.
+Sem teste de diodo, use ohms: baixa resistência indica o sentido.
+Na falta de diodo, não substitua por fio: isso não bloqueia nada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O multímetro mostra cerca de 0,7 V no sentido ânodo a cátodo.
+Ao inverter as pontas, o visor mostra sobrecarga ou infinito.
+A faixa do corpo coincide com a ponta que bloqueia a corrente.
+
+FONTES
+------
+Lei e uso do diodo de junção: conhecimento consolidado de eletrônica básica.
+Valores de tensão direta e teste com multímetro são práticas comuns em
+manuais de eletrônica e bancadas; confirme a folha de dados da peça.
+Resumo operacional; confirme sempre a folha de dados do fabricante.

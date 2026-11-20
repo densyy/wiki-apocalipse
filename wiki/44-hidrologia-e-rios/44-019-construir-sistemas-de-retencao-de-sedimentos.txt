@@ -1,0 +1,94 @@
+==============================================================================
+CODIGO: 44-019
+TITULO: Como construir sistemas de retenção de sedimentos
+CATEGORIA: 44 - Hidrologia, rios e gestão de bacias
+TEMPO: 3 horas
+RISCO: alto
+EXIGE: pedras ou cascalho, pá, corda, estacas, nível de mangueira
+REVISAO: 2026-11
+PALAVRAS-CHAVE: sedimento, barragem, dique, erosão, lama, bacia, retenção
+==============================================================================
+
+OBJETIVO
+---------
+Reduzir a erosão e reter lama e cascalho antes que cheguem ao rio.
+
+QUANDO USAR
+-----------
+Quando a chuva arrasta terra de encosta ou de estrada de terra.
+Quando o córrego próximo fica turvo depois de cada chuva.
+Quando sulcos rasos no solo crescem a cada chuva.
+Quando se quer proteger nascente, poço ou horta da lama.
+Quando solo exposto fica acima de casa, caminho ou área de plantio.
+
+NAO USE QUANDO
+--------------
+Em rio ou córrego com água corrente permanente, sem autorização.
+Em encosta íngreme, com risco de deslizamento de terra.
+Em área onde a cheia possa subir mais de aproximadamente 0,6 m.
+Em areia pura ou rocha nua, sem pedras para fixar a estrutura.
+Se não houver para onde a água escoar com segurança depois do dique.
+
+MATERIAIS
+---------
+- Pedras grandes e cascalho (ou sacos de areia, ou toras de madeira).
+- Pá e enxada.
+- Corda e estacas de madeira.
+- Mangueira transparente com água para servir de nível (ou nível de bolha).
+- Palha, capim seco ou manta de fibra para cobrir o solo.
+- Luvas e botas de borracha.
+
+PROCEDIMENTO
+------------
+1. Observe o terreno após a chuva e marque por onde a água corre.
+2. Marque onde a água para e deposita lama e cascalho.
+3. Escolha sulco ou canal com declividade de até aproximadamente 50%.
+4. Estenda a corda no ponto, perpendicular ao fluxo, e marque com estacas.
+5. Cave vala de aproximadamente 0,15 m na linha marcada para a base.
+6. Assente as maiores pedras na vala, bem justas umas nas outras.
+7. Empilhe pedras menores e cascalho até aproximadamente 0,5 m de altura.
+8. Não ultrapasse aproximadamente 0,6 m de altura total do dique.
+9. Deixe o centro aproximadamente 0,15 m mais baixo que as duas pontas.
+10. Enterre cada ponta aproximadamente 0,3 m dentro da margem do canal.
+11. Cubra o solo com palha e repita a cada aproximadamente 2 m de canal.
+12. Ajuste para a base do dique de cima ficar na crista do de baixo.
+13. Retire folhas e gravetos presos na frente dos diques após a chuva.
+
+ATENCAO
+-------
+Um dique mal assentado pode romper e soltar lama e pedras com força.
+Isso pode causar lesão grave ou afogamento em poço de lama.
+Nunca fique na frente ou logo abaixo do dique durante chuva forte.
+Não construa em córrego com água corrente permanente sem autorização.
+O dique não contém cheia grande nem deslizamento; só reduz a velocidade.
+Solo saturado, sem pedras de fixação, não segura o dique: mude de ponto.
+Inspecione após cada chuva forte e retire o que estiver preso no dique.
+Se houver fenda, desnivel ou água passando por baixo, desça e refaça.
+Água parada atrás do dique pode formar poço fundo; afaste crianças.
+
+SE NAO TIVER
+------------
+Sem pedras, use sacos de areia bem fechados, com as costuras para baixo.
+Sem sacos, use toras presas com corda e escoradas em estacas.
+Sem mangueira, use uma tábua reta apoiada nas duas margens como nível.
+Com apenas terra solta, não faça dique: plante capim e espere crescer.
+Dique de terra pura se desfaz na primeira chuva e vira lama solta.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Depois da chuva, a água que passa sai mais clara e com menos cascalho.
+Aparece faixa de lama e pedras depositada atrás de cada dique.
+O solo entre os diques não mostra sulcos novos nem raízes expostas.
+A água escoa pelo centro rebaixado, sem correr pelas margens do canal.
+
+FONTES
+------
+Prática consolidada de controle de erosão e sedimentos, conforme manuais
+de melhores práticas da Agência de Proteção Ambiental dos Estados Unidos
+(EPA) e do Serviço de Conservação de Recursos Naturais do USDA.
+Dimensões típicas segundo o manual de drenagem da Iowa Statewide Urban
+Design and Specifications (SUDAS) e o catálogo de BMP do Idaho Department
+of Environmental Quality.
+Uso em bacias hidrográficas segundo o FAO Watershed Management Field
+Manual, da Organização das Nações Unidas para a Alimentação e a Agricultura.
+Resumo operacional; não substitui projeto técnico nem autorização local.

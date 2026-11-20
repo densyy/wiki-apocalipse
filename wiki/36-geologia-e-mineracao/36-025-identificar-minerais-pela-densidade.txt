@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 36-025
+TITULO: Como identificar minerais pela densidade
+CATEGORIA: 36 - Geologia, mineração e recursos naturais
+TEMPO: 25 minutos
+RISCO: medio
+EXIGE: balança em gramas, copo graduado, água limpa, fio, amostra
+REVISAO: 2026-11
+PALAVRAS-CHAVE: pedra, mineral, densidade, peso específico, balança, água
+==============================================================================
+
+OBJETIVO
+--------
+Medir a densidade de uma amostra e comparar com minerais conhecidos.
+
+QUANDO USAR
+-----------
+Quando cor e brilho enganam, como pirita e ouro.
+Quando duas amostras parecidas precisam ser separadas.
+
+NAO USE QUANDO
+--------------
+Não use se o mineral for solúvel em água, tóxico ou radioativo.
+Não use com amostra menor que aproximadamente 1 cm.
+
+MATERIAIS
+---------
+- Balança em gramas, copo graduado em mL, papel e lápis.
+- Água limpa, fio fino e amostra limpa.
+
+PROCEDIMENTO
+------------
+1. Limpe a amostra com escova e retire terra e pó solto.
+2. Pese a amostra seca na balança e anote a massa M em gramas.
+3. Coloque água no copo e anote o nível inicial V1 em mL.
+4. Prenda a amostra ao fio, mergulhe-a e role para soltar bolhas.
+5. Sem tocar nas paredes, anote o nível final V2 em mL.
+6. Calcule o volume: V = V2 menos V1, em mL (o mesmo que cm³).
+7. Calcule a densidade: D = M dividido por V, em g/cm³.
+8. Repita e compare. Se divergir mais que aproximadamente 10 por cento,
+refaça com amostra maior e mais limpa.
+
+ATENCAO
+-------
+Galena tem chumbo; arsenopirita tem arsênio; cinábrio tem mercúrio.
+Não manipule com as mãos nuas, não lixe, não inale pó; lave as mãos.
+Uraninita e pechblenda são radioativas: não manuseie; peça ajuda.
+Bolhas de ar e erro da balança (cerca de 1 g) falseiam o resultado.
+Halita dissolve em água: o teste destrói a amostra e erra o resultado.
+A densidade sozinha não identifica: use cor, cor do pó, dureza e brilho.
+
+SE NAO TIVER
+------------
+Sem copo graduado, meça a subida do nível com uma régua; perde precisão.
+Sem balança, compare o peso na mão só para separar leve de pesado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Duas medições da mesma amostra deram valores parecidos.
+O valor caiu numa das faixas abaixo (densidade aproximada em g/cm³):
+A água vale 1 g/cm³; por isso D é também a gravidade específica.
+- Halita: 2,17; gipsita: 2,3.
+- Quartzo: 2,6 a 2,65; calcita: 2,71.
+- Pirita: 5,0; magnetita: 5,1 a 5,2; hematita: 5,3.
+- Galena: 7,2 a 7,6.
+
+FONTES
+------
+Banco Webmineral (David Barthelmy): dados de densidade, baseados em
+Sinkankas (1966) e Encyclopedia of Minerals (2a edicao, 1990).

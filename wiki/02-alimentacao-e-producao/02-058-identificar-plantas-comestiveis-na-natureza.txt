@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 02-058
+TITULO: Como identificar plantas comestíveis na natureza
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 60 minutos
+RISCO: critico
+EXIGE: guia de campo regional, segunda fonte escrita, caderno, luz natural
+REVISAO: 2026-11
+PALAVRAS-CHAVE: comestível, planta, identificação, veneno, mato, guia
+==============================================================================
+
+OBJETIVO
+--------
+Decidir se uma planta silvestre pode ser comida, sem apostar na aparência.
+
+QUANDO USAR
+-----------
+Quando faltam alimentos e há vegetação desconhecida por perto.
+Quando se quer aprender a reconhecer espécies antes de precisar delas.
+Quando alguém colheu planta do mato e precisa de uma decisão.
+
+NAO USE QUANDO
+--------------
+Não use para cogumelos nem fungos: identificação cabe só a especialista.
+Não use sem guia da região e segunda fonte que nomeiem a espécie.
+Não use para confirmar planta pelo sabor, cheiro ou simples contato.
+
+MATERIAIS
+---------
+- Guia de campo da região, impresso (ou ficha escrita antes da viagem).
+- Segunda fonte escrita que dê o nome científico da espécie.
+- Caderno e lápis para anotar os caracteres observados.
+- Lupa de bolso (ou aproximação dos olhos, sem tocar na planta).
+- Luvas para manusear planta desconhecida (ou pano grosso).
+- Água corrente e sabão para lavar as mãos.
+- Recipiente separado para guardar uma amostra da planta.
+
+PROCEDIMENTO
+------------
+1. Escolha uma única espécie para estudar por vez.
+2. Anote o nome científico dado pelo guia regional.
+3. Confirme a espécie em segunda fonte independente; se divergir, pare.
+4. Anote folhas, borda, nervuras, caule, flor, fruto e cheiro.
+5. Liste as espécies parecidas e perigosas antes de sair de casa.
+6. Observe a planta inteira no local, sem arrancá-la primeiro.
+7. Compare cada caractere com o guia, um por um.
+8. Se um único caractere não bater, pare e não colha.
+9. Descarte se houver seiva leitosa ou cheiro diferente do descrito.
+10. Não colha em beira de estrada, esgoto, fossa ou área com agrotóxico.
+11. Vista luvas e colha só a parte descrita como comestível.
+12. Colha pouco e mantenha a planta separada de qualquer outra.
+13. Guarde um ramo para conferência e peça a um experiente da região.
+14. Sem essa confirmação, não coma.
+15. Lave mãos e planta em água corrente e cozinhe antes de comer.
+
+ATENCAO
+-------
+Espécie errada pode matar: chapéu-de-napoleão, mamona, saia-branca e
+pinhão-de-purga têm registro de morte por ingestão.
+Não use teste de encostar, provar e esperar: venenos de ação lenta
+não dão sinal e matam. Nome popular também não identifica espécie.
+Cozimento não elimina todas as toxinas: ferver planta duvidosa não ajuda.
+Aplicativo de fotos erra muito e não substitui as duas fontes.
+Seiva leitosa de avelós e coroa-de-cristo irrita pele e olhos; use luvas.
+Em contato com seiva, lave com água corrente por 15 a 30 minutos.
+Após comer, queimação, náusea, vômito ou falta de ar exigem atendimento
+médico imediato. Não induza vômito; guarde a planta para identificação.
+Na dúvida, não coma.
+
+SE NAO TIVER
+------------
+Sem guia impresso, use ficha escrita com nome científico e caracteres.
+Sem segunda fonte, não coma: espere até conseguir a confirmação.
+Sem pessoa experiente, aprenda observando, sem colher para comer.
+Sem lupa, aproxime os olhos sem tocar; nunca decida por uma só folha.
+Sem luva, use pano grosso, lave as mãos e não toque no rosto.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A espécie tem o mesmo nome científico nas duas fontes consultadas.
+Cada caractere anotado bate com a descrição, sem exceção.
+A parte colhida é exatamente a parte descrita como comestível.
+A amostra guardada permite conferir a espécie depois.
+Nenhuma planta duvidosa foi ingerida.
+
+FONTES
+------
+CIATox/SC, Secretaria de Estado da Saúde de Santa Catarina, "Plantas
+e cogumelos tóxicos": não há regras ou testes seguros para distinguir
+plantas comestíveis das tóxicas; cozimento nem sempre elimina a
+toxicidade; espécies fatais; lavagem de pele; não induzir vômito.
+Sinitox, Ministério da Saúde, Programa Nacional de Informações sobre
+Plantas Tóxicas: não coma planta desconhecida; guarde a planta para
+identificação em caso de acidente.
+Anvisa, "Orientações sobre o uso de fitoterápicos e plantas medicinais"
+(2022): nome popular confunde espécies; colher só em terreno limpo.
+Universidade de Utah, Centro de Controle de Venenos (2023):
+aplicativos de identificação erram com frequência.

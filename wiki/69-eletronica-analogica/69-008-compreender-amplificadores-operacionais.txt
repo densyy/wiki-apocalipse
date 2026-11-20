@@ -1,0 +1,77 @@
+==============================================================================
+CODIGO: 69-008
+TITULO: Como compreender amplificadores operacionais
+CATEGORIA: 69 - Eletrônica analógica e componentes discretos
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: papel, lápis, noções de tensão e corrente, fonte de baixa tensão
+REVISAO: 2026-11
+PALAVRAS-CHAVE: amplificador, op-amp, ganho, realimentação, comparador
+==============================================================================
+
+OBJETIVO
+--------
+Prever a tensão de saída de um circuito com amplificador operacional.
+
+QUANDO USAR
+-----------
+Quando for analisar um circuito com chip amplificador operacional.
+Quando precisar montar um ganho de tensão com poucos componentes.
+
+NAO USE QUANDO
+--------------
+Não use este texto em rede elétrica energizada: pode matar.
+Use apenas fontes de baixa tensão, como pilhas ou fonte de bancada.
+Com fumaça ou cheiro de queimado, desligue tudo e pare.
+
+MATERIAIS
+---------
+- Papel e lápis para desenhar o circuito.
+- Um amplificador operacional comum, como LM358 ou TL081.
+- Algumas resistências para montar o ganho.
+- Noções de tensão, corrente e lei de Ohm.
+
+PROCEDIMENTO
+------------
+1. Identifique as duas entradas e a saída do chip.
+2. Marque a de menos como inversora e a de mais como não inversora.
+3. Alimente o chip dentro da faixa do datasheet.
+4. Se a saída volta à entrada inversora, há realimentação negativa.
+5. Com realimentação, trate as duas entradas com a mesma tensão.
+6. Trate a corrente de entrada como praticamente zero.
+7. No inversor, aterra a entrada não inversora.
+8. No inversor, ligue R1 ao sinal e R2 da saída à entrada inversora.
+9. No inversor, o ganho é menos R2 dividido por R1.
+10. No seguidor, ligue a saída à entrada inversora: ganho um.
+11. No não inversor, leve o sinal à entrada não inversora.
+12. No não inversor, ligue R2 da saída à entrada inversora.
+13. No não inversor, ligue R1 da entrada inversora ao terra.
+14. No não inversor, o ganho é um mais R2 dividido por R1.
+15. Sem realimentação, o chip é comparador: a saída satura.
+
+ATENCAO
+-------
+A regra das entradas iguais vale só com realimentação negativa.
+Sem ela, o chip vira comparador e a regra não se aplica.
+A saída não passa dos limites da alimentação; passar distorce.
+Chip ligado ao contrário ou sem alimentação pode queimar.
+Nunca ligue a saída direto ao terra ou à fonte: curto e dano.
+
+SE NAO TIVER
+------------
+Sem datasheet, use entre 5 e 12 volts em chips comuns de baixa tensão.
+Sem resistências, monte só o seguidor, que não precisa delas.
+Sem multímetro, limite-se a prever o sinal da saída no papel.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A tensão prevista no papel bate com a leitura do multímetro.
+As entradas mostram quase a mesma tensão com realimentação.
+
+FONTES
+------
+Princípios do amplificador operacional e da realimentação negativa:
+conhecimento consolidado de eletrônica analógica. As regras do modelo
+ideal e as configurações inversora, seguidor e comparador são padrão
+em cursos e manuais de eletrônica. Resumo operacional; não substitui
+o datasheet do componente usado.

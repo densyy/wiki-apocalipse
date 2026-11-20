@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 31-007
+TITULO: Como armazenar alimentos em temperaturas controladas
+CATEGORIA: 31 - Refrigeração e conservação térmica
+TEMPO: 25 minutos
+RISCO: alto
+EXIGE: termômetro de geladeira, recipientes tampados, gelo, caneta
+REVISAO: 2026-11
+PALAVRAS-CHAVE: geladeira, congelador, refrigeração, temperatura, perecível
+==============================================================================
+
+OBJETIVO
+--------
+Manter alimentos perecíveis fora da zona de perigo e reduzir o risco
+de intoxicação alimentar.
+
+QUANDO USAR
+-----------
+- Quando houver geladeira ou congelador funcionando.
+- Quando o fornecimento de energia for intermitente.
+- Depois de comprar ou preparar carne, peixe, leite ou comida pronta.
+- Ao guardar sobras para o dia seguinte.
+
+NAO USE QUANDO
+--------------
+- Quando o alimento já ficou mais de 2 horas acima de 32 °C: descarte.
+- Quando houver cheiro azedo, muco, cor estranha ou embalagem inchada.
+- Refrigeração não remove contaminação química: combustível ou agrotóxico.
+
+MATERIAIS
+---------
+- Termômetro de geladeira (ou termômetro de cozinha).
+- Recipientes limpos com tampa (ou sacos plásticos bem fechados).
+- Gelo, bolsa de gelo ou garrafas de água congelada.
+- Caixa de isopor ou caixa térmica (ou caixa de papelão forrada).
+- Pano limpo e detergente para limpar a geladeira.
+- Caneta e etiqueta ou fita adesiva para anotar a data.
+
+PROCEDIMENTO
+------------
+1. Meça a temperatura na prateleira do meio da geladeira.
+2. Ajuste o controle até marcar 4 °C ou menos (aproximadamente 40 °F).
+3. Meça o congelador e ajuste para -18 °C ou menos (aproximadamente 0 °F).
+4. Limpe a geladeira com água e detergente e seque com pano limpo.
+5. Coloque carnes cruas, aves e peixes em recipientes tampados.
+6. Guarde carnes cruas, aves e peixes nas prateleiras mais baixas.
+7. Guarde leite, iogurte e alimentos prontos nas prateleiras superiores.
+8. Tampe cada recipiente antes de colocá-lo na geladeira.
+9. Escreva a data no recipiente com caneta ou etiqueta.
+10. Coloque comida quente em recipiente raso e leve à geladeira
+    em até 2 horas.
+11. Se o ambiente estiver acima de 32 °C, reduza para 1 hora.
+12. Se a energia falhar, mantenha a porta da geladeira fechada.
+13. Considere aproximadamente 4 horas de frio na geladeira fechada.
+14. Considere aproximadamente 48 horas no congelador cheio
+    (24 horas se meio cheio).
+15. Descarte perecíveis se passaram de 4 °C por mais de 2 horas.
+
+ATENCAO
+-------
+- Entre aproximadamente 5 °C e 60 °C, bactérias causadoras de intoxicação
+  se multiplicam rápido: essa é a zona de perigo.
+- Alimento perecível não deve ficar mais de 2 horas nessa faixa;
+  acima de 32 °C, o limite é 1 hora.
+- Carne crua, aves e peixe pingam líquido: guardá-los acima de alimentos
+  prontos contamina o que será comido sem cozimento.
+- Refrigeração não mata bactérias, só desacelera o crescimento.
+  Comida estragada continua perigosa depois de gelada.
+- Geladeira lotada circula mal o ar e esquenta: deixe espaço livre.
+- Nunca prove alimento suspeito para decidir. Cheiro e aspecto não
+  garantem segurança.
+- Se o termômetro marcar acima de 4 °C por mais de 2 horas, descarte
+  carne crua, peixe, leite e comida pronta. Na dúvida, descarte.
+
+SE NAO TIVER
+------------
+- Sem termômetro, coloque um copo com água na prateleira do meio.
+  Se congelar, reduza o frio; se ficar morna, aumente.
+- Sem geladeira, use caixa térmica com gelo ou garrafas congeladas.
+  Troque o gelo quando derreter.
+- Sem gelo, compre porções menores e consuma no mesmo dia.
+  Não tente conservar carne crua fora do frio.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- O termômetro marca 4 °C ou menos na geladeira e -18 °C ou
+  menos no congelador.
+- Carnes cruas ficam na prateleira mais baixa, separadas dos
+  alimentos prontos.
+- Não há poças, cheiro azedo ou muco nos alimentos guardados.
+
+FONTES
+------
+- Prática consolidada de segurança de alimentos: diretrizes de
+  temperatura do USDA e da FDA; regras de zona de perigo e tempo de
+  exposição do CDC; Cinco chaves para alimentos mais seguros, da OMS.
+- Resumo operacional de prática consolidada; não substitui a
+  orientação da autoridade sanitária local.

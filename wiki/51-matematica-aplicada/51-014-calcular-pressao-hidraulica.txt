@@ -1,0 +1,79 @@
+==============================================================================
+CODIGO: 51-014
+TITULO: Como calcular pressão hidráulica
+CATEGORIA: 51 - Matemática aplicada à sobrevivência
+TEMPO: 25 minutos
+RISCO: medio
+EXIGE: caderno, lápis, fita métrica, noções de multiplicação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: pressão, hidráulica, água, profundidade, coluna, bar, vazão
+==============================================================================
+
+OBJETIVO
+--------
+Calcular a pressão que uma coluna de água exerce no fundo de um tanque.
+
+QUANDO USAR
+-----------
+Quando precisar dimensionar mangueira, tubo ou registro de um tanque.
+Quando quiser saber a pressão no fundo de um tanque, poço ou cisterna.
+Quando precisar comparar a força da água em duas alturas diferentes.
+Quando quiser estimar a velocidade da água saindo de um furo ou bico.
+
+NAO USE QUANDO
+--------------
+Quando a água estiver correndo: nesse caso há perda de pressão por atrito.
+Quando o líquido não for água doce: use a densidade do próprio líquido.
+Para dimensionar barragem, tubulação pressurizada ou obra que possa romper.
+
+MATERIAIS
+---------
+- Caderno e lápis (ou papel e qualquer instrumento de escrita).
+- Fita métrica ou régua para medir a altura da coluna de água.
+- Calculadora, se houver (ou faça a multiplicação à mão).
+- Noções de multiplicação e divisão.
+
+PROCEDIMENTO
+------------
+1. Meça a altura h da coluna de água, do fundo até a superfície, em metros.
+2. Anote a densidade da água doce: aproximadamente 1000 kg/m3.
+3. Anote a gravidade terrestre: aproximadamente 9,8 m/s2.
+4. Multiplique 1000 por 9,8: obtém aproximadamente 9800.
+5. Multiplique 9800 pela altura h: o resultado é a pressão em pascals.
+6. Divida por 1000 para obter quilopascais, kPa.
+7. Para bar, divida os kPa por 100; cada metro dá cerca de 0,1 bar.
+8. Para pressão absoluta, some aproximadamente 101 kPa da atmosfera.
+9. Exemplo: 3 m dão 9800 x 3 = 29400 Pa, ou 29,4 kPa, ou 0,29 bar.
+10. Regra rápida: cada 10 m de coluna adicionam aproximadamente 1 bar.
+
+ATENCAO
+-------
+A fórmula pressão = densidade x gravidade x altura vale para água parada.
+O resultado é pressão relativa, contada a partir da superfície livre.
+O resultado é relativo; para absoluto some a atmosfera, cerca de 101 kPa.
+A densidade muda com a temperatura e com sal ou lama dissolvidos na água.
+Nunca dimensione barragem ou tanque usando só este cálculo.
+Erro na altura ou na unidade muda o resultado; confira a conta.
+Este texto não substitui projeto de engenheiro para obra que possa romper.
+
+SE NAO TIVER
+------------
+Sem fita métrica, meça a altura com um cordão de 1 metro marcado no corpo.
+Sem calculadora, some 9800 pascals por metro: 2 m dão 19600 Pa.
+Sem densidade conhecida, use 1000 kg/m3 e marque o valor como aproximado.
+Sem medir a altura, não há cálculo confiável; procure quem saiba medir.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A conta usa metros na altura e termina em pascais ou em quilopascais.
+Cada metro de água resulta em aproximadamente 9,8 kPa.
+Uma coluna de aproximadamente 10 m resulta em aproximadamente 1 bar.
+O mesmo tanque medido de dois jeitos dá valores próximos.
+
+FONTES
+------
+Conceito básico de física e hidráulica: pressão hidrostática é densidade
+multiplicada pela gravidade e pela altura da coluna.
+Valores aproximados: água doce 1000 kg/m3, gravidade 9,8 m/s2.
+Atmosfera ao nível do mar: aproximadamente 101 kPa.
+Prática consolidada, sem documento único; não substitui treinamento.

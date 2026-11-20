@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 02-098
+TITULO: Como cozinhar sem eletricidade
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 60 minutos
+RISCO: critico
+EXIGE: fonte de calor externa, panela, combustível, água para apagar
+REVISAO: 2026-11
+PALAVRAS-CHAVE: cozinhar, fogo, lenha, fogareiro, brasas, sem luz, panela
+==============================================================================
+
+OBJETIVO
+--------
+Preparar alimentos com fogo ou brasas quando não há energia elétrica.
+
+QUANDO USAR
+-----------
+Quando a energia acabar e o fogão elétrico parar de funcionar.
+Quando houver lenha, carvão ou fogareiro e comida para preparar.
+Quando for preciso aquecer água ou cozinhar ao ar livre.
+Quando o prato puder ser feito em uma só panela.
+
+NAO USE QUANDO
+--------------
+Não acenda fogo ou brasas dentro de casa sem chaminé e ventilação.
+Não use churrasqueira, fogareiro a gás ou carvão em quarto fechado.
+Não cozinhe onde houver cheiro de gás ou de combustível.
+
+MATERIAIS
+---------
+- Fogão a lenha, fogareiro externo ou churrasqueira.
+- Lenha seca, carvão ou combustível do aparelho.
+- Panela com tampa que resista ao fogo.
+- Luvas ou pano grosso para segurar a panela.
+- Água, areia ou extintor para apagar o fogo.
+- Fósforos ou acendedo.
+- Alimento cortado e água limpa.
+
+PROCEDIMENTO
+------------
+1. Escolha lugar externo, aberto, longe de paredes, telhado e folhas.
+2. Afaste o fogo de mangueiras de gás, tanques e material inflamável.
+3. Deixe água, areia ou extintor ao alcance da mão antes de acender.
+4. Monte o fogo com lenha pequena e acenda com fósforo ou acendedo.
+5. Com carvão, espere virar brasas, que são pedaços quentes sem chama.
+6. Apoie a panela sobre a grelha ou tripé, firme, sem deixar tombar.
+7. Corte o alimento em pedaços pequenos para gastar menos combustível.
+8. Coloque água e alimento na panela e tampe.
+9. Cozinhe em fogo brando e mexa de vez em quando com colher de pau.
+10. Acrescente água quente aos poucos se o caldo secar.
+11. Retire a panela quando o alimento estiver macio ao garfo.
+12. Apague as brasas com água, mexa e confirme que ficaram frias.
+
+ATENCAO
+-------
+Fogo e brasas soltam monóxido de carbono, gás sem cor nem cheiro que mata.
+Nunca queime carvão, use fogareiro a gás ou ligue gerador dentro de casa.
+Nunca use o forno ou o fogão a gás para aquecer o ambiente.
+Fogo em lugar fechado pode matar enquanto a pessoa dorme: ventile sempre.
+Dor de cabeça, tontura, náusea ou confusão são sinais de intoxicação.
+Ao sentir isso, saia para o ar livre e procure atendimento médico.
+Mantenha crianças e animais longe: nunca deixe fogo sem vigilância.
+Se o fogo sair do controle, afaste-se e chame os bombeiros.
+
+SE NAO TIVER
+------------
+Sem lenha ou carvão, use fogareiro a álcool ou querosene só ao ar livre.
+Sem fogo seguro, prefira alimentos prontos: pão, frutas e conservas.
+Sem panela, use apenas recipiente de metal apoiado firme e vigie sem parar.
+Sem água para apagar, deixe areia ou terra seca ao lado do fogo.
+Não improvise combustível com gasolina ou solvente: queima e explode.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O alimento fica macio ao espetar com garfo e a água some ou vira caldo.
+A panela fica firme e o fogo continua dentro do espaço preparado.
+Depois de apagadas, as brasas ficam frias, cinzentas e sem fumaça.
+
+FONTES
+------
+CDC: noções básicas sobre intoxicação por monóxido de carbono, gás incolor
+e inodoro, seus sintomas e a regra de nunca usar carvão, fogareiro portátil
+ou gerador dentro de casa.
+FEMA/Ready.gov: orientações para quedas de energia - geradores e
+churrasqueiras apenas ao ar livre, a aproximadamente 6 metros de janelas
+e portas, e nunca usar fogão ou forno a gás para aquecer a casa.
+Prática consolidada de cozimento com lenha e brasas, sem documento único.

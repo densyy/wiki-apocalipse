@@ -1,0 +1,88 @@
+==============================================================================
+CODIGO: 08-044
+TITULO: Como produzir cerâmica artesanal
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 120 minutos
+RISCO: alto
+EXIGE: argila de olaria, lenha seca, serragem, água, óculos e luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: cerâmica, argila, olaria, queima, fogueira, vaso, artesanal
+==============================================================================
+
+OBJETIVO
+--------
+Modelar e queimar um pequeno vaso de argila com as mãos e uma fogueira.
+
+QUANDO USAR
+-----------
+Quando houver argila plástica e lenha e faltar um pote simples.
+Quando for preciso um recipiente para uso seco ou para cozinhar no fogo.
+Quando não houver torno de oleiro nem forno elétrico.
+Quando a peça puder ficar porosa e não precisar reter líquidos.
+
+NAO USE QUANDO
+--------------
+Quando a peça precisar guardar água sem vazar: sem esmalte ela é porosa.
+Quando a argila tiver tinta, óleo, lixo ou produto químico misturado.
+Quando chover, ventar forte ou houver risco de incêndio no terreno.
+Quando não houver água por perto para apagar o fogo.
+
+MATERIAIS
+---------
+- Argila de olaria plástica, sem pedras (argila natural limpa).
+- Água para umedecer a argila e apagar a fogueira.
+- Lenha seca e serragem (palha ou folhas secas picadas).
+- Pedras para cercar o buraco da queima.
+- Óculos de proteção e luvas grossas.
+- Pano limpo e esponja.
+
+PROCEDIMENTO
+------------
+1. Retire pedras da argila e amasse com água até dar ponto de massa.
+2. Amasse em bolas de aproximadamente 10 cm para tirar bolhas de ar.
+3. Abra o centro com o polegar e aperte a parede girando os dedos.
+4. Deixe a parede com aproximadamente 1 cm; arredonde fundo e borda.
+5. Alise a peça com o pano úmido e retire lascas soltas.
+6. Seque na sombra, em lugar arejado, por aproximadamente três dias.
+7. Vire a peça duas vezes ao dia para secar por igual.
+8. Espere até ficar opaca, fria ao toque e firme, sem umidade visível.
+9. Cave um buraco de aproximadamente 60 cm de fundo em terra sem folhas.
+10. Forre o fundo com aproximadamente 10 cm de serragem.
+11. Apoie a peça na serragem e coloque lenha miúda ao redor e por cima.
+12. Não use pedaços pesados que possam cair e esmagar a peça.
+13. Acenda com papel ou gravetos; nunca use gasolina, álcool ou solvente.
+14. Avive o fogo com lenha miúda por aproximadamente uma hora.
+15. Fique contra o vento, com a fumaça indo para o lado oposto.
+16. Use os óculos ao olhar o fogo; nunca incline o rosto sobre a peça.
+17. Deixe o fogo apagar e esfriar até o dia seguinte; não toque na peça.
+18. Retire a peça fria, escove a cinza e lave com água.
+
+ATENCAO
+-------
+O fogo queima: mantenha água por perto, use luvas e não incline o rosto.
+A queima libera monóxido de carbono: queime ao ar livre, fora da fumaça.
+Dor de cabeça, tontura ou náusea perto da fumaça: saia e procure ajuda.
+Peça úmida estoura no fogo: espere secar por completo antes de queimar.
+A argila racha fácil no aquecimento e no resfriamento; espere perdas.
+Madeira tratada, verniz ou plástico soltam vapor tóxico: não queime.
+Nunca use esmalte com chumbo: o chumbo passa para comida e bebida.
+A peça da fogueira fica porosa: não veda água sem esmalte e segundo forno.
+
+SE NAO TIVER
+------------
+Sem serragem, use palha seca picada ou folhas bem secas.
+Sem argila de olaria, use argila natural: retire pedras e amasse bastante.
+Sem lenha, use gravetos secos; não queime madeira tratada.
+Sem lugar seguro para o fogo, não queime: espere condição melhor.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A peça manteve a forma, não desfez e não solta lama ao molhar.
+A superfície ficou vermelha ou marrom e resiste ao passar do dedo.
+Depois de fria, a peça soa firme ao bater levemente com a unha.
+
+FONTES
+------
+Laboratório de Cerâmica Artística a Distância da UFRGS: secagem e queima.
+Diretrizes de segurança em cerâmica da Universidade de Utah.
+Prática consolidada de queima em fogueira (queima em cova do MIT).

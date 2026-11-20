@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 75-017
+TITULO: Como produzir alimentos adaptados ao clima tropical
+CATEGORIA: 75 - Tecnologias apropriadas para regiões tropicais
+TEMPO: 180 minutos
+RISCO: medio
+EXIGE: sementes resistentes, ferramenta de solo, agua, cobertura morta
+REVISAO: 2026-11
+PALAVRAS-CHAVE: alimento, tropico, mandioca, feijao, solo, chuva, sombra
+==============================================================================
+
+OBJETIVO
+--------
+Escolher culturas e preparar o solo para colher alimentos no clima tropical.
+
+QUANDO USAR
+-----------
+Ao morar em região quente, com chuvas fortes e verões secos.
+Quando o solo é pobre e a água falta parte do ano.
+Ao querer depender menos de alimentos comprados.
+Depois de perder uma safra por calor, seca ou chuva excessiva.
+Quando se tem pouco espaço, como quintal ou roça pequena.
+
+NAO USE QUANDO
+--------------
+Não plante em solo contaminado por lixo, esgoto ou mineração.
+Não cultive em encosta desprotegida sem antes conter a erosão.
+Não use área sombreada o dia todo para culturas que pedem sol.
+
+MATERIAIS
+---------
+- Sementes ou mudas resistentes (mandioca, batata-doce, feijão-caupi).
+- Enxada ou pá para abrir covas sem revolver todo o solo.
+- Composto ou esterco curtido para adubar cada cova.
+- Cobertura morta: palha, folhas secas ou capim cortado.
+- Balde ou regador com furo na tampa para molhar aos poucos.
+- Estacas e cordel para marcar as linhas de plantio.
+- Galhos ou palha para dar sombra às mudas novas.
+
+PROCEDIMENTO
+------------
+1. Escolha o local com mais sol e boa drenagem.
+2. Observe para onde escorre a água da chuva e evite áreas alagadas.
+3. Se o terreno for inclinado, abra curvas de nível ou terraços.
+4. Retire pedras, entulho e mato da área escolhida.
+5. Marque as linhas com estacas e cordel, mantendo espaço entre elas.
+6. Abra covas pequenas com a enxada, sem virar todo o solo.
+7. Misture composto ou esterco curtido à terra de cada cova.
+8. Plante no início da estação chuvosa, com o solo úmido.
+9. Cubra a terra ao redor das plantas com palha ou folhas secas.
+10. Proteja as mudas novas do sol forte com galhos ou palha.
+11. Capine os arredores sem arrancar a cobertura morta.
+12. Reponha a cobertura morta quando ela se decompor.
+13. Colha no ponto certo e seque os grãos antes de guardar.
+
+ATENCAO
+-------
+Solo descoberto perde água rápido e queima as mudas ao meio-dia.
+Não use esterco fresco: ele queima as raízes e atrai moscas.
+Em encostas, a terra desliza se a chuva correr solta no solo.
+Enxada e faca cortam: use luvas e mantenha as mãos secas.
+Nunca coma planta que não tenha identificado com certeza.
+Se a colheita aparecer mofada ou com manchas, descarte e busque ajuda.
+
+SE NAO TIVER
+------------
+Sem composto, use folhas secas e palha picada como cobertura.
+Sem regador, fure a tampa de um balde para gotas lentas.
+Sem sementes resistentes, peça mandioca ou batata-doce a vizinhos.
+Sem sombra artificial, plante sob árvores de sombra parcial.
+Sem enxada, use um bastão de madeira para abrir a cova.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As mudas brotam em poucos dias e ficam verdes.
+O solo continua úmido e solto sob a cobertura morta.
+Não aparecem sulcos de erosão depois da primeira chuva forte.
+A colheita traz tubérculos ou grãos firmes, sem apodrecimento.
+
+FONTES
+------
+Prática consolidada de agricultura tropical difundida pela Embrapa e
+por órgãos de extensão rural do Brasil. Culturas tolerantes à seca,
+como mandioca, batata-doce, feijão-caupi e sorgo, são apontadas pela
+Convenção das Nações Unidas de Combate à Desertificação (UNCCD).
+Técnicas de conservação de solo e água seguem orientações da FAO.
+Resumo operacional, não substitui assistência técnica local.

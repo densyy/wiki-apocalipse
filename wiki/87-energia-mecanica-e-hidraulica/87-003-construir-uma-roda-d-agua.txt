@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 87-003
+TITULO: Como construir uma roda d'água
+CATEGORIA: 87 - Energia mecânica e hidráulica tradicionais
+TEMPO: 240 minutos
+RISCO: medio
+EXIGE: córrego, madeira resistente, eixo e mancais
+REVISAO: 2026-11
+PALAVRAS-CHAVE: roda d'água, roda hidráulica, pás, eixo, córrego, energia
+==============================================================================
+
+OBJETIVO
+--------
+Construir uma roda que converta o movimento de um córrego em giro de eixo.
+
+QUANDO USAR
+-----------
+Quando se precisar de força mecânica para moer, serrar ou bombear.
+Quando houver córrego com fluxo constante e margem firme.
+Quando se quiser substituir trabalho manual por energia da água.
+Quando o desnível do terreno permitir instalar uma calha.
+
+NAO USE QUANDO
+--------------
+Não construa onde a água é escassa ou interrompida na estiagem.
+Não instale em leito de cheia violenta ou margem que desmorona.
+Não use em área onde a roda possa atrapalhar a passagem de peixes.
+
+MATERIAIS
+---------
+- Madeira resistente e seca para aros, raios e pás (ipê ou eucalipto).
+- Eixo de madeira ou ferro com dois mancais de apoio.
+- Tábuas para as pás e pregos ou parafusos galvanizados.
+- Corda ou arame para amarrar as pás aos aros.
+- Pedra, areia e cal para firmar os suportes.
+- Graxa vegetal ou sebo para os mancais.
+- Régua, nível e fita de medir.
+
+PROCEDIMENTO
+------------
+1. Escolha trecho reto do córrego com margem firme e queda suave.
+2. Decida o diâmetro da roda pelo espaço e pela queda disponíveis.
+3. Monte dois aros circulares com tábuas curvas ou duplas presas.
+4. Encaixe os raios entre o eixo e os aros, bem alinhados.
+5. Prenda as pás entre os aros com leve inclinação.
+6. Deixe as pás formando copos que segurem a água.
+7. Encaixe o eixo no centro e prenda os aros com cunhas.
+8. Cave os pilares até solo firme e encha com pedra e cal.
+9. Assente os mancais na altura que deixe a roda livre.
+10. Coloque a roda no lugar e lubrifique os mancais.
+11. Gire com a mão e corrija qualquer parte que arranhe.
+12. Abra a calha para levar a água ao topo das pás.
+13. Regule o fluxo com comporta até o giro ser constante.
+14. Ligou a máquina: aumente a carga só depois do giro firme.
+15. Observe uma volta completa e anote o tempo gasto.
+
+ATENCAO
+-------
+A roda tem grande força: nunca apoie as mãos nas pás em movimento.
+Mantenha crianças e animais longe do local de giro.
+Com cheia, a água pode passar do topo e travar a roda.
+Se ouvir estalo ou ver pás tortas, pare e desmonte a parte danificada.
+Use calçado firme: a madeira molhada escorrega com facilidade.
+Não apertar demais os mancais, senão o eixo aquece e trava.
+Verifique as amarrações das pás a cada semana de uso.
+
+SE NAO TIVER
+------------
+Sem madeira nobre, use toras de árvore comum com casca removida.
+Sem mancais de metal, use blocos de madeira dura com sebo.
+Sem calha, desvie parte da água com terra e pedras.
+Sem parafusos, use cavilhas de madeira e amarração de fibra.
+Sem graxa, esfregue sebo animal no eixo antes de girar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A roda gira sem tremer e sem ranger em cada volta.
+A água cai nas pás e escoa pela parte baixa sem respingo excessivo.
+O eixo transmite movimento contínuo à máquina ligada.
+As pás ficam intactas e bem presas após um dia de uso.
+
+FONTES
+------
+Prática consolidada de rodas hidráulicas de madeira, usada em
+moinhos e serrarias rurais tradicionais. Base em manuais de
+energia hidráulica de pequeno porte e em experiência de mestres
+construtores locais.

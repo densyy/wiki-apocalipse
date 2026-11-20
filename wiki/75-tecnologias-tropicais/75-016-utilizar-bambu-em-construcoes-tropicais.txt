@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 75-016
+TITULO: Como utilizar bambu em construções tropicais
+CATEGORIA: 75 - Tecnologias apropriadas para regiões tropicais
+TEMPO: 2 dias
+RISCO: alto
+EXIGE: bambu maduro, serra, luvas, óculos, preservativo de bórax, ajudante
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bambu, colmo, construção, tratamento, bórax, umidade
+==============================================================================
+
+OBJETIVO
+---------
+Construir com bambu de modo a reduzir apodrecimento, insetos e falhas.
+
+QUANDO USAR
+-----------
+Quando o clima é quente e úmido e a madeira é cara ou escassa.
+Para abrigos, cercas, telheiros, paredes e pisos elevados leves.
+Quando há bambu maduro disponível no local ou na região.
+Na reconstrução rápida, com materiais locais, após uma tempestade.
+Quando a obra é leve, de um pavimento e sem grandes cargas.
+
+NAO USE QUANDO
+--------------
+Em prédios de vários andares, pontes ou obras que exigem cálculo.
+Em contato direto com solo úmido, água parada ou água do mar.
+Bambu verde, jovem, rachado, furado por inseto ou mole: não use.
+Perto de fogo aberto ou em instalações elétricas.
+Sem tratamento e sem cobertura, em área de cupim ou umidade alta.
+Se faltar orientação técnica para um elemento estrutural portante.
+
+MATERIAIS
+---------
+- Colmos de bambu maduro, de 3 a 5 anos, secos e sem furos.
+- Preservativo à base de bórax ou borato (ou secagem tradicional).
+- Serra, faca, furadeira com broca de metal e lixa.
+- Luvas, óculos de proteção e máscara contra pó.
+- Parafusos ou pinos galvanizados (ou corda resistente).
+- Apoios de concreto, pedra ou madeira tratada para os colmos.
+- Cobertura de telha ou lona para proteger a obra da chuva.
+- Ajudante para levantar e posicionar as peças longas.
+
+PROCEDIMENTO
+------------
+1. Escolha colmos maduros, com 3 a 5 anos e cor mais escura.
+2. Corte na estação seca, logo acima de um nó, sem danificar o toco.
+3. Retire galhos e folhas com faca, sem ferir a casca do colmo.
+4. Empilhe os colmos em local coberto, arejado e fora do solo.
+5. Deixe secar por aproximadamente 6 a 12 semanas, até perder água.
+6. Trate com solução de bórax conforme as instruções do fabricante.
+7. Deixe o colmo secar de novo, em pé e coberto, cerca de uma semana.
+8. Fure os colmos com broca de metal, nunca com pregos, para não rachar.
+9. Faça os furos junto aos nós, onde o colmo é mais resistente.
+10. Una as peças com parafusos ou pinos galvanizados, sem apertar demais.
+11. Como alternativa, amarre com corda resistente em cruz nas juntas.
+12. Apoie cada colmo vertical sobre base de concreto, pedra ou madeira.
+13. Nunca entierre o pé do colmo diretamente na terra.
+14. Monte telhado com beiral largo e mantenha a obra ventilada.
+15. Inspecione juntas e colmos a cada seis meses e após chuvas fortes.
+
+ATENCAO
+-------
+Bambu cortado com ferramenta cega racha e solta farpas: use luvas.
+Use óculos: fragmentos de colmo e pó podem ferir os olhos.
+Colmo verde ou mal seco apodrece e pode ceder sem aviso: não use.
+Cupins, besouros e fungos destroem bambu úmido no clima tropical.
+A umidade é o maior inimigo: se o colmo ficar molhado por dias, troque-o.
+Trabalhar no telhado expõe a quedas: use apoio firme e nunca vá sozinho.
+Bambu não equivale a aço ou madeira tratada: limite-se ao uso leve.
+Não instale fiação elétrica em bambu e mantenha-o longe de fogo aberto.
+Se a estrutura balançar, rachar ou estalar, pare e busque ajuda técnica.
+Este texto não substitui cálculo estrutural nem orientação técnica.
+
+SE NAO TIVER
+------------
+Sem bórax, use só colmos muito maduros e secos, elevados e cobertos.
+Sem tratamento, a vida útil cai: espere trocar as peças mais cedo.
+Sem cobertura, não construa com bambu onde a chuva é forte e constante.
+Sem parafusos galvanizados, amarre com corda e reforce a cada inspeção.
+Sem ajudante, não levante peças longas sozinho: peça ajuda ou divida.
+Sem base de concreto, use pedra grande ou madeira tratada, nunca terra.
+Não reaproveite bambu apodrecido nem metal enferrujado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os colmos estão secos, leves, sem manchas escuras, furos ou pó de inseto.
+As juntas ficam firmes, sem folga, e os furos não racharam o colmo.
+A base fica acima da terra e a chuva escoa para longe da estrutura.
+A obra não balança, não range e não empena após a primeira chuva.
+
+FONTES
+------
+International Bamboo and Rattan Organization: "Designing and Building
+with Bamboo", Janssen, 2000; e "Post-Harvest Bamboo Treatment,
+Preservation and Storage Practices", 2022.
+FAO e INBAR: "World bamboo resources".
+Embrapa: "Bambus no Brasil: da biologia à tecnologia".
+Shelter Cluster: manual "Housing Now", colheita de colmos de 3 a 5 anos.
+Este texto é resumo operacional e não substitui treinamento nem cálculo.

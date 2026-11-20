@@ -1,0 +1,78 @@
+==============================================================================
+CODIGO: 03-054
+TITULO: Como reconhecer infarto
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 5 minutos
+RISCO: critico
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: infarto, ataque cardíaco, dor no peito, suor frio, SAMU
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer os sinais de um infarto e pedir ajuda médica sem demora.
+
+QUANDO USAR
+-----------
+Dor ou desconforto no centro ou no lado esquerdo do peito.
+Desconforto que dura mais de alguns minutos ou que vai e volta.
+Falta de ar, suor frio, náusea, vômito ou tontura súbita.
+Dor no braço, ombro, pescoço, mandíbula, costas ou estômago.
+Pessoa com pressão alta, diabetes, colesterol alto ou que fuma.
+Mulheres, idosos e diabéticos podem ter sintomas discretos.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Observe a pessoa e pergunte o que ela sente neste momento.
+2. Peça que diga onde dói e há quanto tempo começou.
+3. Procure dor ou desconforto no centro ou no lado esquerdo do peito.
+4. Note se é pressão, aperto, peso ou dor, e se vai e volta.
+5. Verifique se há falta de ar, mesmo sem dor no peito.
+6. Olhe para suor frio, pele pálida, náusea, vômito ou tontura.
+7. Procure dor no braço, ombro, pescoço, mandíbula, costas ou estômago.
+8. Pergunte sobre pressão alta, diabetes, fumo e colesterol alto.
+9. Se notar um ou mais sinais, trate como infarto até prova em contrário.
+10. Ligue de imediato para o serviço de emergência; no Brasil, 192.
+11. Informe idade, sintomas, hora de início e o local exato da pessoa.
+12. Mantenha a pessoa em repouso e observe até a ajuda chegar.
+13. Se parar de respirar, faça RCP (compressões no peito) e peça um DEA.
+
+ATENCAO
+-------
+Um infarto pode matar em minutos; quanto mais tempo passa, maior o dano.
+Nem todo infarto dói no peito: pode ser só falta de ar, náusea ou cansaço.
+Não espere o sintoma melhorar, não dirija e não vá andando ao hospital.
+Não dê comida, bebida ou remédio caseiro, e não massageie o peito.
+Não confunda com azia: as duas podem parecer iguais.
+Na dúvida, ligue para o serviço de emergência; o exame decide depois.
+O número muda conforme o país: 192 é o SAMU no Brasil; 112 na Europa.
+DEA é o aparelho que aplica o choque; veja 03-003 e 03-004 como fazer.
+
+SE NAO TIVER
+------------
+Sem celular: peça a outra pessoa para ligar ou chame um vizinho.
+Sem luz: use a lanterna do celular para ver a pele e o suor.
+Sem saber o número: no Brasil ligue 192; fora, use o número local.
+Sem transporte: acione bombeiros ou defesa civil para levar a pessoa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A ambulância chega e a pessoa começa a ser atendida rapidamente.
+A pessoa segue acordada, respirando e em repouso até a ajuda chegar.
+Você informou sintomas, horário de início e local com clareza.
+
+FONTES
+------
+American Heart Association, sinais de alerta de infarto (revisado em 2024).
+Centers for Disease Control and Prevention, sobre infarto (2024).
+Organização Mundial da Saúde, ficha sobre doenças cardiovasculares (2025).
+Prática consolidada de primeiros socorros diante de dor no peito.

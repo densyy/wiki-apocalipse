@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 08-063
+TITULO: Como fabricar rolamentos simples
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: madeira dura, eixo liso, broca, faca, lixa, óleo, óculos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: rolamento, bucha, mancal, eixo, madeira, óleo, desgaste
+==============================================================================
+
+OBJETIVO
+--------
+Fabricar uma bucha de madeira que deixe um eixo girar com pouco atrito.
+
+QUANDO USAR
+-----------
+Quando faltar rolamento de esferas para um eixo de rotação lenta.
+Em polias, alavancas e manivelas de baixa rotação e carga moderada.
+
+NAO USE QUANDO
+--------------
+Em eixo de alta rotação, carga pesada ou peça que sustente pessoas.
+Se o eixo estiver torto, enferrujado ou com sulcos profundos.
+
+MATERIAIS
+---------
+- Madeira densa e sã, sem nós (lignum vitae, ipê ou quebracho).
+- Eixo de metal liso, reto, sem ferrugem nem rebarbas.
+- Broca manual ou furadeira, com broca um pouco maior que o eixo.
+- Faca, lima e lixa grossa e fina.
+- Óleo ou graxa (água para madeira), óculos e algo para prender a peça.
+
+PROCEDIMENTO
+------------
+1. Escolha a madeira mais densa: a que afundar na água serve melhor.
+2. Marque um bloco com espessura igual ao dobro do diâmetro do eixo.
+3. Serre o bloco e prenda-o com firmeza antes de furar.
+4. Fure o centro com broca um pouco maior que o eixo; nunca exata.
+5. Alise o furo com lima ou lixa até o eixo entrar e girar sem folga.
+6. Abra um sulco raso no furo, no sentido do eixo, para espalhar óleo.
+7. Unte eixo e furo com óleo ou graxa; para madeira, use água limpa.
+8. Monte e alinhe o eixo antes de apertar os parafusos da base.
+9. Gire com a mão: tem de girar suave e sem aquecer; opere devagar.
+
+ATENCAO
+-------
+O eixo deve ser mais duro e liso que a bucha: a bucha é a peça que se
+desgasta e deve ser trocada. Nunca use em elevador, guindaste ou freio.
+Bucha metálica seca aquece, gripa no eixo e pode pegar fogo: pare se
+esquentar. Madeira mole ou empenada trava o eixo: use madeira firme e limpa,
+sem areia, e mantenha-a sempre seca ou sempre molhada, nunca alternando.
+
+SE NAO TIVER
+------------
+Sem broca, queime o furo com ferro em brasa e depois alise com lima.
+Sem madeira densa, use bronze ou latão, mais macios que o aço.
+Sem óleo, use sebo ou água; nunca use areia como lubrificante.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O eixo gira com um dedo, sem folga lateral, sem ruído e sem aquecer.
+A bucha não solta pó, não ronca e não abre sulcos novos no eixo.
+
+FONTES
+------
+Prática consolidada de mancais de deslizamento, sem documento único.
+Referências gerais: The Tribology Handbook (Neale, 1995) e Bearings and
+Bearing Metals (Industrial Press, 1921). Uso de lignum vitae em mancais a
+água: San Francisco Maritime National Park Association.

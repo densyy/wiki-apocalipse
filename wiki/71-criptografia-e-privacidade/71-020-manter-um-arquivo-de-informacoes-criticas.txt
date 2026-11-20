@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 71-020
+TITULO: Como manter informações críticas acessíveis à família
+CATEGORIA: 71 - Criptografia, segurança da informação e privacidade
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: papel e caneta, local trancado, meio portátil, pessoa de confiança
+REVISAO: 2026-11
+PALAVRAS-CHAVE: emergência, contatos, documentos, família, acesso, sigilo
+==============================================================================
+
+OBJETIVO
+--------
+A família acha as informações essenciais na crise sem depender de memória.
+
+QUANDO USAR
+-----------
+Ao preparar a saída de casa com pressa.
+Quando alguém tem alergia, doença ou remédio de uso contínuo.
+Quando outro familiar precisa achar seguros, contas ou documentos.
+
+NAO USE QUANDO
+--------------
+Não use para senhas ou códigos em texto aberto; veja 71-009.
+
+MATERIAIS
+---------
+- Papel resistente e caneta de tinta permanente (ou editor com senha).
+- Pasta opaca com lacre e segunda via (meio portátil).
+- Pessoa de confiança que saiba onde o arquivo fica.
+
+PROCEDIMENTO
+------------
+1. Escolha um único lugar para o arquivo e anote esse lugar na agenda.
+2. Liste documentos e onde ficam originais e cópias.
+3. Anote contatos: familiares, médico, banco, seguradora e advogado.
+4. Registre alergias, doenças, remédios e tipo sanguíneo de cada pessoa.
+5. Anote diretivas antecipadas e quem cuida de menores ou dependentes.
+6. Escreva onde ficam senhas e códigos, sem copiá-los neste arquivo.
+7. Numere as páginas e escreva a data da última revisão na capa.
+8. Coloque tudo na pasta opaca e lacre com tinta permanente.
+9. Guarde a pasta trancada, seca e longe de janelas.
+10. Diga aos autorizados só onde o arquivo está e como abri-lo.
+11. Guarde a segunda via em local distinto, fora da mesma casa.
+12. Teste o acesso a cada seis meses e após qualquer atualização.
+
+ATENCAO
+-------
+Texto aberto pode ser lido por qualquer pessoa com acesso ao aparelho.
+Não coloque senhas, códigos ou dados bancários completos no arquivo.
+Se o arquivo vazar, troque os acessos e refaça as cópias.
+Não guarde a segunda via junto da original: um incêndio leva as duas.
+Se um familiar deixar de ser autorizado, retire o acesso e atualize.
+
+SE NAO TIVER
+------------
+Sem local trancado, use a gaveta interna de uma mala fechada.
+Sem meio portátil, faça duas vias em papel e guarde em locais distintos.
+Não improvise com senha curta nem deixe os dados em nuvem aberta.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada pessoa autorizada acha a pasta sem precisar perguntar onde fica.
+O teste semestral recupera contatos usando só o que está no arquivo.
+
+FONTES
+------
+Orientações do Ready.gov/FEMA sobre documentos importantes da família
+e manutenção do kit. Prática consolidada de acesso restrito a
+informação sensível, sem documento único obrigatório.

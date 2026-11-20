@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 41-015
+TITULO: Como identificar padrões de ventos
+CATEGORIA: 41 - Navegação avançada e técnicas de expedição
+TEMPO: 20 minutos
+RISCO: baixo
+EXIGE: caderno, lápis, área aberta, referência de norte
+REVISAO: 2026-11
+PALAVRAS-CHAVE: vento, direção, padrão, brisa, nuvem, vegetação, navegação
+==============================================================================
+
+OBJETIVO
+--------
+Determinar a direção do vento e reconhecer seus padrões diários e sazonais.
+
+QUANDO USAR
+-----------
+Ao planejar travessia em terreno aberto ou sem previsão do tempo.
+Ao escolher onde montar acampamento ou acender fogo.
+
+NAO USE QUANDO
+--------------
+Em espaço confinado entre prédios ou mato: o vento não representa a região.
+Com risco de tempestade, raios ou vendaval: observar não protege do vento.
+
+MATERIAIS
+---------
+- Caderno e lápis para anotar hora, direção e força.
+- Referência de norte: bússola, mapa ou sombra ao meio-dia.
+- Indicador leve: folhas, grama, fumaça ou fita de pano.
+
+PROCEDIMENTO
+------------
+1. Vá para área aberta, longe de prédios, cercas e árvores isoladas.
+2. Solte folhas ou grama e veja para onde vão.
+3. Observe também a copa das árvores e a fumaça, se houver.
+4. Anote de onde o vento vem, não para onde ele vai.
+5. Use o norte para dar o nome: norte, leste, sul ou oeste.
+6. Repita em três horas: manhã, meio-dia e tarde.
+7. Anote a força pelo efeito: folhas paradas, em movimento, poeira no ar.
+8. Repita em dias de tempo diferente e compare as anotações.
+9. A direção mais repetida é o vento predominante da região.
+10. No litoral, note a brisa: de dia vem do mar, de noite vem da terra.
+11. Observe nuvens baixas à parte: podem vir de outra direção.
+12. Registre mudanças bruscas de direção como sinal de tempo instável.
+
+ATENCAO
+-------
+A direção é o lado de onde o vento sopra, não para onde ele vai.
+Entre obstáculos o vento é desviado e engana a leitura.
+Nuvens altas e baixas movem-se em alturas diferentes do vento no solo.
+Vento fraco muda de direção: repita a leitura antes de decidir.
+Mudança rápida de direção e rajadas no fim da tarde anunciam temporal;
+se o vento ficar perigoso, pare a travessia e procure abrigo.
+
+SE NAO TIVER
+------------
+Sem bússola, use a sombra ao meio-dia para achar o norte.
+Sem folhas, use fumaça, grama solta ou fita de pano leve.
+Sem área aberta, suba a ponto alto e livre, com cuidado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você tem leituras em horas e dias diferentes, com a direção predominante
+repetida, e sabe dizer de onde o vento vem e como ele muda no dia.
+
+FONTES
+------
+Manual de sobrevivência FM 21-76 do Exército dos Estados Unidos, seção de
+sinais de tempo; MetLink da Sociedade Meteorológica Real; INMET e Embrapa.

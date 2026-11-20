@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 23-014
+TITULO: Como construir relógios de sol
+CATEGORIA: 23 - Artes, cultura e preservação da civilização
+TEMPO: 90 minutos
+RISCO: baixo
+EXIGE: sol direto, base plana, haste reta, relógio, lápis e fita
+REVISAO: 2026-11
+PALAVRAS-CHAVE: relógio de sol, gnômon, sombra, hora solar, latitude, polo
+==============================================================================
+
+OBJETIVO
+--------
+Montar um relógio de sol que indique as horas por sombra, sem energia.
+
+QUANDO USAR
+-----------
+Quando faltar relógio, pilha ou energia para saber as horas.
+Para dividir o trabalho no campo e marcar o meio do dia.
+
+NAO USE QUANDO
+--------------
+Para cronometrar remédio, prazo curto ou turno exato.
+À noite, com céu nublado ou na sombra de árvores e telhados.
+
+MATERIAIS
+---------
+- Base plana e firme de madeira, papelão grosso ou pedra.
+- Haste reta ou lâmina fina para fazer a sombra (palito de madeira).
+- Papel, régua, lápis e fita para prender a haste à base.
+- Relógio ou celular para calibrar as marcas das horas.
+
+PROCEDIMENTO
+------------
+1. Escolha lugar aberto, com sol direto do nascer ao pôr.
+2. Apoie a base firme e deixe-a bem nivelada.
+3. Marque ao meio-dia a sombra mais curta feita pela haste.
+4. Trace a linha do centro até essa marca: é o eixo norte-sul.
+5. Procure a latitude aproximada do local em um mapa.
+6. Recorte um triângulo retângulo com ângulo igual à latitude.
+7. Prenda a haste no centro da base, sobre a linha traçada.
+8. Incline a haste até o ângulo do triângulo com a base.
+9. Vire a ponta inclinada para o lado do polo da linha.
+10. Marque e numere a ponta da sombra a cada hora cheia.
+
+ATENCAO
+-------
+O relógio marca a hora solar: fuso e horário de verão afastam as marcas.
+A equação do tempo soma até aproximadamente 15 minutos de diferença.
+Não cronometre remédio nem prazo exato com este relógio.
+A bússola marca o norte magnético; sem eixo real, a leitura falha.
+Haste sem lixar pode ferir as mãos. Sem sol, não há leitura.
+
+SE NAO TIVER
+------------
+Sem mapa da latitude, ajuste a inclinação até as marcas de um
+mesmo horário caírem no mesmo ponto em dois dias seguidos.
+Sem haste, use um palito reto; sem base, uma pedra plana.
+Sem relógio, meça só o meio-dia pela sombra mais curta.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A sombra mais curta do dia cai sobre a linha central da base.
+A ponta da sombra cai no número da hora em dois dias seguidos.
+
+FONTES
+------
+Circular do Bureau of Standards (NIST) e NASA Goddard, "The Sundial":
+gnômon na latitude, equação do tempo e hora solar.
+Folha de montagem da Universidade de Tecnologia de Queensland.

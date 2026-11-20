@@ -1,0 +1,79 @@
+==============================================================================
+CODIGO: 77-013
+TITULO: Como construir um sistema de tubos acústicos
+CATEGORIA: 77 - Comunicação anterior à eletricidade
+TEMPO: 120 minutos
+RISCO: medio
+EXIGE: tubos limpos e retos, emendas vedadas e bordas sem corte
+REVISAO: 2026-11
+PALAVRAS-CHAVE: tubo, som, voz, comunicação, emenda, bambu, acústica
+==============================================================================
+
+OBJETIVO
+--------
+Falar entre dois pontos usando tubos que conduzem o som.
+
+QUANDO USAR
+-----------
+Para conversar entre casas próximas sem sair de casa.
+Quando o vento ou a distância atrapalham a voz direta.
+Para avisar o outro lado de uma cerca ou quinteiro.
+Ao estudar som e comunicação com materiais simples.
+
+NAO USE QUANDO
+--------------
+Não use tubo com borda cortante ou ferrugem solta.
+Não use para mensagens longas: o som perde clareza.
+Não instale tubo onde possa ser pisoteado ou tropecar alguém.
+
+MATERIAIS
+---------
+- Tubos de metal ou bambu retos e sem furos (cano ou taquara).
+- Cotovelos ou curvas para ligar os trechos (joelhos de madeira).
+- Corda ou arame e pregos para prender ao muro (cipó).
+- Pano ou algodão para reduzir o eco nas emendas.
+- Fita adesiva ou breu para vedar as juntas.
+
+PROCEDIMENTO
+------------
+1. Escolha duas pontas com linha reta e livre entre elas.
+2. Meça a distância e corte os tubos no tamanho necessário.
+3. Lixe as bordas até não cortarem a mão nem a boca.
+4. Limpe o interior para remover terra e insetos.
+5. Monte os trechos com cotovelos nas curvas necessárias.
+6. Vede as juntas com fita ou breu para não perder som.
+7. Prenda o tubo ao muro com corda ou arame, sem apertar demais.
+8. Coloque pano nas emendas que ecoarem demasiado.
+9. Teste falando baixo em uma ponta e ouvindo na outra.
+10. Ajuste a posição da boca e do ouvido até o som ficar claro.
+11. Proteja as pontas com tela ou pano quando não estiver em uso.
+12. Revise as emendas depois de chuva forte ou vento.
+
+ATENCAO
+-------
+Tubo com borda afiada pode cortar lábios e mãos: lixe sempre.
+Ferrugem ou mofo no interior pode causar infecção ao inalar.
+Emenda aberta perde som e deixa entrar água e insetos.
+Tubo mal preso pode cair e ferir quem passa embaixo.
+Não use tubo de metal que tenha guardado produto químico.
+Se o som falhar, procure furo ou obstrução antes de gritar.
+
+SE NAO TIVER
+------------
+Sem tubo de metal, use bambu ou taquara oca e seca.
+Sem cotovelo, dobre a própria taquara com cuidado.
+Sem fita, use breu, resina ou pano molhado para vedar.
+Sem suporte, deixe o tubo apoiado em forquilhas de madeira.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Frases curtas são entendidas na outra ponta sem repetir.
+Nenhuma emenda assobia ou deixa passar ar.
+As bordas não cortam e as pontas estão protegidas.
+O tubo continua firme após chuva e vento.
+
+FONTES
+------
+Prática antiga de comunicação por tubos falantes, conhecida em escolas
+e oficinas. Use materiais limpos e sem resíduos; a montagem exata
+depende do material disponível em cada lugar.

@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 66-019
+TITULO: Como reparar fechaduras
+CATEGORIA: 66 - Mecânica de precisão e instrumentos
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: chave de fenda, chave hexagonal, grafite seco, pano limpo, luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fechadura, lingueta, cilindro, batente, grafite, emperrar
+==============================================================================
+
+OBJETIVO
+--------
+Diagnosticar e reparar fechadura de porta que emperra ou não tranca.
+
+QUANDO USAR
+-----------
+Quando a chave entra, mas gira com dificuldade.
+Quando a lingueta não entra no batente e a porta não fecha.
+Quando é preciso empurrar ou levantar a porta para trancar.
+
+NAO USE QUANDO
+--------------
+Não use em fechadura eletrônica, digital ou de cofre.
+Sem chave, chame um chaveiro; não altere o mecanismo de segurança.
+
+MATERIAIS
+---------
+- Chave de fenda e chave hexagonal de tamanho adequado.
+- Grafite seco para fechadura (pó de lápis serve).
+- Pano seco, luvas e lixa fina (lima pequena).
+- Parafusos de reposição e lanterna (a do celular).
+
+PROCEDIMENTO
+------------
+1. Abra a porta e mantenha-a aberta durante o teste.
+2. Limpe a chave com pano seco, inclusive as ranhuras.
+3. Esfregue grafite seco na lâmina, nunca óleo ou spray.
+4. Insira e retire a chave dez vezes para espalhar o grafite.
+5. Gire a chave com a porta aberta e observe a lingueta.
+6. Aperte com a mão os parafusos da maçaneta e da placa.
+7. Feche devagar e veja onde a lingueta encosta no batente.
+8. Se bater na borda, afrouxe a placa, desloque e reaporte.
+9. Se não entrar, alargue o furo com lima e lixa fina.
+10. Confira que o furo do batente tem pelo menos 25 milímetros.
+11. Se a mola não voltar, retire a fechadura e troque a peça.
+
+ATENCAO
+-------
+Nunca use óleo ou spray no cilindro: atraem pó e travam a peça.
+Se travar só com a porta fechada, o defeito é desalinhamento.
+Parafuso apertado demais entorta a placa e bloqueia a lingueta.
+Ao desmontar, apoie as peças em pano para não perder molas e pinos.
+
+SE NAO TIVER
+------------
+Sem grafite, raspe o pó de um lápis na lâmina da chave.
+Sem peça nova, use a mola de uma fechadura igual desmontada.
+Não improvise com arame no cilindro: quebra os pinos internos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A chave gira sem esforço e a lingueta volta sozinha.
+A porta fecha sem empurrar e fica travada com a chave.
+
+FONTES
+------
+Manuais de suporte da Kwikset sobre lingueta, cilindro e batente.
+Prática consolidada de manutenção predial. Não substitui treinamento.

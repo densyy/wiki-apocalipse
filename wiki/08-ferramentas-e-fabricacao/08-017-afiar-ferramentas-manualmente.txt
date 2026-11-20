@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 08-017
+TITULO: Como afiar ferramentas manualmente
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 25 minutos
+RISCO: medio
+EXIGE: pedra de afiar, lima plana, água ou óleo, pano limpo, luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: afiar, amolar, pedra, lima, gume, fio, rebarba, faca
+==============================================================================
+
+OBJETIVO
+--------
+Recuperar o gume de facas, enxadas e machados com pedra, lima e água.
+
+QUANDO USAR
+-----------
+Quando a ferramenta corta com esforço e amassa o material.
+Quando o fio bateu em pedra, osso ou metal e perdeu o corte.
+
+NAO USE QUANDO
+--------------
+Quando a lâmina estiver rachada, torta ou com a ponta solta: descarte-a.
+Quando o gume for serrilhado: precisa de afiação especial.
+
+MATERIAIS
+---------
+- Pedra de afiar com lado grosso e lado fino.
+- Lima plana para desbastar fio muito rombo.
+- Água limpa (ou óleo, se a pedra exigir), pano, luvas e papel.
+
+PROCEDIMENTO
+------------
+1. Calce as luvas e prenda a ferramenta em morsa ou apoio firme.
+2. Molhe a pedra em água aproximadamente 10 minutos; use óleo se exigir.
+3. Apoie a pedra em pano úmido, nivelada e sem balançar.
+4. Observe o bisel: é a face inclinada que termina no fio.
+5. Mantenha o ângulo original: aproximadamente 15 graus para corte fino.
+6. Faca: aproximadamente 20 graus. Machado: aproximadamente 22 graus.
+7. Use a pedra grossa se o fio estiver rombo; a fina se estiver cego.
+8. Apoie o calcanhar na pedra e passe até a ponta com pressão leve.
+9. Faça de 8 a 12 passadas seguidas, sempre no mesmo ângulo.
+10. Sinta a rebarba com a unha de lado, nunca ao longo do fio.
+11. Vire a ferramenta e repita até a rebarba passar para o outro lado.
+12. Troque para a pedra fina e alterne os lados até sumir a rebarba.
+13. Lave a lâmina e a pedra, enxugue e passe óleo para não enferrujar.
+
+ATENCAO
+-------
+Fio afiado corta sem força: nunca deslize a unha nele.
+Limalha fere olhos e pele: lave as mãos.
+Ferramenta solta fere: prenda-a antes de começar.
+Não use rebolo motorizado: o calor retira a dureza e o fio lasca. Mudar o
+ângulo no meio da passada deixa o fio redondo; pare se o aço esquentar.
+
+SE NAO TIVER
+------------
+Sem pedra, use pedra lisa de rio com água ou o dorso de prato de cerâmica.
+Sem morsa, segure com pano e apoie em madeira firme; nunca use concreto.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O fio prende levemente na unha quando passado de lado.
+Não há rebarba em nenhum ponto das duas faces da lâmina.
+O papel corta limpo, sem rasgar ou enganchar.
+
+FONTES
+------
+Guia Cadetes Gold Star, Canadá, EO M424.01; Knife Sharpening 101,
+Universidade de Nebraska-Lincoln; extensões de Oregon State e Michigan.

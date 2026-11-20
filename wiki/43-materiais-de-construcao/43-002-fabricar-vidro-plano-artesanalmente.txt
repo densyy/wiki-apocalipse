@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 43-002
+TITULO: Como fabricar vidro plano artesanalmente
+CATEGORIA: 43 - Produção de materiais de construção
+TEMPO: 120 minutos
+RISCO: alto
+EXIGE: forno muito quente, cadinho refratário, proteção e ventilação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: vidro, vidro plano, areia, barrilha, forno, fundir, janela
+==============================================================================
+
+OBJETIVO
+--------
+Obter pequenas placas de vidro plano para vedar aberturas ou trocar vidros.
+
+QUANDO USAR
+-----------
+Quando falta vidro para janela e não há como comprar um substituto.
+Quando há areia de sílica, barrilha e calcário e um forno muito quente.
+Quando é possível esperar várias horas pelo resfriamento lento da placa.
+Para placas pequenas de oficina, não para painéis grandes de parede.
+
+NAO USE QUANDO
+--------------
+Sem forno que atinja aproximadamente 1200 °C, a mistura não funde.
+Sem ventilação e sem proteção dos olhos e das mãos, não execute o serviço.
+Não produza vidro de segurança: não instale onde pode atingir pessoas.
+
+MATERIAIS
+---------
+- Areia de sílica fina, lavada e seca (aproximadamente 70 partes em peso).
+- Barrilha, carbonato de sódio (aproximadamente 15 partes): é o fundente.
+- Calcário moído, carbonato de cálcio (aproximadamente 10 partes).
+- Cadinho de argila refratária ou grafite para conter a massa fundida.
+- Forno ou fornalha com tiragem forçada, aproximadamente 1200 °C ou mais.
+- Pinça longa de ferro e rolo liso de metal, ambos preaquecidos.
+- Placa plana de metal ou pedra refratária, também preaquecida.
+- Óculos de lente escura, luvas grossas de couro, avental e máscara.
+- Areia seca, cinza ou lã de rocha para o resfriamento lento.
+
+PROCEDIMENTO
+------------
+1. Peneire a areia e lave-a para tirar sal e impurezas; seque-a bem.
+2. Moa o calcário até virar pó fino e peneire esse pó.
+3. Misture aproximadamente 70 partes de areia, 15 de barrilha e 10 de
+   calcário, em peso, até ficar uniforme.
+4. Aqueça o cadinho vazio devagar dentro do forno para não trincar.
+5. Coloque a mistura no cadinho quente, aos poucos, sem encher demais.
+6. Aqueça até aproximadamente 700 °C: a massa amolece e solta gás.
+7. Suba para aproximadamente 1200 °C ou o máximo do forno, até a massa
+   ficar líquida e brilhante, sem grãos de areia visíveis.
+8. Com a pinça longa, retire a espuma e as impurezas que vêm à tona.
+9. Apoie a placa e o rolo quentes sobre uma superfície refratária.
+10. Despeje o vidro fundido sobre a placa quente, em camada uniforme.
+11. Passe o rolo quente por cima imediatamente para achatar a camada.
+12. Deixe a placa esfriar até deixar de brilhar em vermelho.
+13. Cubra a placa com areia seca, cinza ou lã de rocha.
+14. Deixe esfriar lentamente por várias horas, sem tocar nem molhar.
+15. Depois de fria, retire da cobertura com cuidado: as bordas cortam.
+
+ATENCAO
+-------
+Vidro fundido passa de 1000 °C: contato causa queimadura grave na hora.
+Nunca jogue água no vidro ou nas ferramentas quentes: o vapor explode
+e projeta vidro fundido no rosto e nas mãos.
+Ferramenta ou placa fria no vidro fundido causa choque térmico, quebra
+a peça e respinga material incandescente: aqueça tudo antes de encostar.
+A queima dos carbonatos libera fumos que irritam olhos e vias respiratórias.
+Trabalhe ao ar livre ou com exaustão e use máscara e óculos.
+Forno a lenha em ambiente fechado produz monóxido de carbono: use chaminé.
+Resfriamento rápido gera tensões: a placa racha sozinha horas depois.
+Sem forno quente o suficiente, o vidro fica opaco, com bolhas, e não serve.
+Pare e procure ajuda se faltar proteção, ventilação ou forno adequado.
+
+SE NAO TIVER
+------------
+Sem barrilha, use cinza de madeira peneirada como fundente: o vidro fica
+mais escuro e absorve umidade, sirva só para teste, não para janela.
+Sem calcário, moa cascas de ovo ou conchas limpas como fonte de cálcio.
+Sem rolo de metal, use uma barra de ferro liso, sempre preaquecida.
+Sem forno que chegue a essa temperatura, não improvise com fogo aberto:
+a massa não funde e o risco de incêndio e queimadura aumenta.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A massa fundida escorre como mel espesso, sem grãos e com poucas bolhas.
+Depois de fria, a placa é transparente e soa como vidro ao toque da unha.
+A placa não apresenta rachaduras nem se quebra sozinha após horas.
+
+FONTES
+------
+Prática consolidada de vidraria artesanal: fundição e laminação de vidro
+plano com haveamento lento, conforme métodos tradicionais de vidro coroa
+e de vidro laminado. Composição e faixas de temperatura do vidro
+soda-cal-sílica segundo compêndios técnicos de ciência dos materiais
+(Ullmann's Encyclopedia of Industrial Chemistry, verbete "Glass"; e
+Corning Museum of Glass, "All About Glass"). Resumo operacional, não
+substitui treinamento.

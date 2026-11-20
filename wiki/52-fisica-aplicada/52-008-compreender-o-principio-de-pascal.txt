@@ -1,0 +1,83 @@
+==============================================================================
+CODIGO: 52-008
+TITULO: Como compreender o princípio de Pascal
+CATEGORIA: 52 - Física aplicada e princípios fundamentais
+TEMPO: 25 minutos
+RISCO: baixo
+EXIGE: duas seringas sem agulha, tubo de borracha, água
+REVISAO: 2026-11
+PALAVRAS-CHAVE: pascal, pressão, hidráulica, seringa, êmbolo, força, área
+==============================================================================
+
+OBJETIVO
+--------
+Entender que a pressão em fluido fechado se espalha por todos os pontos.
+
+QUANDO USAR
+-----------
+Quando se quer entender como funciona um macaco hidráulico.
+Quando se usa freio hidráulico, prensa ou elevador de carro.
+Quando se aperta uma seringa e o líquido sai na outra ponta.
+Quando se quer explicar por que força pequena levanta peso grande.
+Quando se estuda a relação entre força, área e pressão.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação para observar e compreender este efeito.
+Não use este entendimento para montar equipamento hidráulico de carga.
+Não teste com ar comprimido, gasolina nem óleo quente.
+
+MATERIAIS
+---------
+- Duas seringas sem agulha, de tamanhos diferentes (ou bomba de bicicleta).
+- Tubo de borracha que encaixe nas duas seringas (ou mangueira fina).
+- Água para encher o conjunto (ou óleo vegetal).
+- Barbante ou fita para prender as pontas do tubo (ou fita adesiva).
+- Caderno para anotar (ou papel).
+
+PROCEDIMENTO
+------------
+1. Encha uma seringa com água, sem deixar bolhas de ar.
+2. Encha o tubo com água e encaixe uma ponta na primeira seringa.
+3. Encaixe a outra ponta do tubo na segunda seringa, sem ar.
+4. Prenda as emendas com barbante para não vazar nem entrar ar.
+5. Segure a seringa menor e empurre o êmbolo devagar com uma mão.
+6. Observe o êmbolo da seringa maior subir com força maior.
+7. Empurre agora a seringa maior e veja a menor subir com mais folga.
+8. Anote: a pressão aplicada chega igual a todo o líquido e às paredes.
+9. Anote: pressão é força dividida pela área sobre a qual ela atua.
+10. Anote: na seringa maior, a mesma pressão atua em mais área.
+11. Conclua: força menor em área menor gera força maior em área maior.
+12. Repita com o êmbolo de baixo para cima e veja o mesmo resultado.
+
+ATENCAO
+-------
+O princípio vale para a variação de pressão, não para a pressão total.
+Em fluido em repouso, a pressão também cresce com a profundidade.
+Por isso as duas seringas devem ficar na mesma altura no experimento.
+Bolhas de ar estragam a medida: o ar comprime e a força some.
+Não use agulha: risco de ferimento e de entrada de ar na pele.
+Não use combustível, solvente ou óleo quente: risco de fogo e intoxicação.
+Não force o êmbolo até estourar a seringa: pode machucar as mãos.
+Vazamento e atrito reduzem a força; o mundo real não é ideal.
+Este experimento demonstra o princípio, não dimensiona equipamento real.
+
+SE NAO TIVER
+------------
+Sem seringas, use dois sacos plásticos fechados ligados por um tubo.
+Sem tubo, encoste as bocas das seringas e vede com fita.
+Sem água, use óleo vegetal; não use sal, que deixa resíduo.
+Sem seringa maior, compare empurrões com os dedos em superfícies lisas.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue dizer, com as próprias palavras, que a pressão aplicada a um
+líquido fechado chega igual a todas as partes; e que, em mais área, a mesma
+pressão produz maior força. Você viu o êmbolo maior subir.
+
+FONTES
+------
+Princípio de Pascal em livros universitários de física: OpenStax College
+Physics e University Physics Volume 1, capítulos sobre fluidos. Também
+NCERT Physics Part II. Prática consolidada de demonstrações com seringas;
+veja 52-006 para a relação entre pressão e altitude.

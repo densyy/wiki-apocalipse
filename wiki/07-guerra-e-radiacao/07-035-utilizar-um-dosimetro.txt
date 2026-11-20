@@ -1,0 +1,78 @@
+==============================================================================
+CODIGO: 07-035
+TITULO: Como utilizar um dosímetro
+CATEGORIA: 07 - Guerra, radiação e catástrofes nucleares
+TEMPO: 15 minutos
+RISCO: alto
+EXIGE: dosímetro com bateria, caderno e lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: dosímetro, radiação, dose, medir, alarme, mSv
+==============================================================================
+
+OBJETIVO
+--------
+Meça a dose de radiação que você recebe e saiba quando voltar.
+
+QUANDO USAR
+-----------
+Quando sair do abrigo depois de explosão ou vazamento nuclear.
+Quando fizer uma saída curta para buscar água ou ajudar alguém.
+Quando revezar turnos com outras pessoas fora do abrigo.
+Quando a defesa civil pedir o registro da sua dose recebida.
+
+NAO USE QUANDO
+--------------
+Não use a leitura para dizer se água, comida ou roupa estão limpas.
+O dosímetro mede a sua dose. Contaminação se mede de outro jeito.
+
+MATERIAIS
+---------
+- Dosímetro pessoal, de bolso ou eletrônico com alarme.
+- Bateria reserva do modelo que você tem.
+- Caderno pequeno e lápis para anotar dose e hora.
+- Saco plástico para proteger o caderno da poeira.
+
+PROCEDIMENTO
+------------
+1. Entenda que dosímetro mede dose. Ele não protege do raio gama.
+2. Leia a dose em milisievert, de símbolo mSv, no visor do aparelho.
+3. Confira a bateria e ligue o aparelho ainda dentro do abrigo.
+4. Zere a leitura seguindo as marcas do seu modelo.
+5. Combine antes de sair o valor de dose que manda voltar.
+6. Anote a hora de saída e a leitura inicial no caderno.
+7. Prenda o aparelho no meio do peito, por cima da roupa.
+8. Deixe o visor virado para você para ler sem tirar do peito.
+9. Leia o valor a cada aproximadamente 15 minutos e anote.
+10. Some as leituras para acompanhar a dose total recebida.
+11. Volte ao abrigo ao atingir o limite combinado antes de sair.
+12. Se o alarme tocar, pare o que faz e volte na mesma hora.
+13. Anote a hora de chegada e a leitura final no caderno.
+14. Limpe o aparelho por fora com pano úmido sem abrir a caixa.
+
+ATENCAO
+-------
+Dosímetro não protege. Ele só registra a dose que já entrou no corpo.
+Leitura baixa não libera água, comida, ar nem saída do abrigo.
+Poeira no aparelho falseia a medida e espalha contaminação.
+Bateria fraca ou queda pode zerar ou travar o visor sem avisar.
+Dose de corpo inteiro acima de aproximadamente 4 Gy pode matar.
+Contador de área mede o lugar. Só o dosímetro guarda a sua dose.
+Se houver vômito, tontura ou queimadura de pele, procure socorro.
+
+SE NAO TIVER
+------------
+Sem eletrônico, use o dosímetro de bolso tipo caneta com carregador.
+Sem dosímetro algum, faça saídas curtas e anote hora de ir e voltar.
+Sem caderno, anote dose e hora em qualquer papel firme, a lápis.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você sai com o aparelho ligado, zerado e preso no peito.
+Você tem dose inicial, parciais e final anotadas com a hora.
+Você volta ao atingir o limite, sem esperar passar mal.
+
+FONTES
+------
+Páginas de emergência radiológica do CDC americano.
+Noções básicas de radiação da EPA americana.
+Prática consolidada de sobrevivência civil em manual militar.

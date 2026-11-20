@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 28-016
+TITULO: Como transportar cargas sem veículos motorizados
+CATEGORIA: 28 - Logística e gestão de recursos
+TEMPO: 45 minutos
+RISCO: baixo
+EXIGE: corda resistente, lona ou pano, luvas, pelo menos duas pessoas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: transporte, carga, carregar, arrastar, corda, maca
+==============================================================================
+
+OBJETIVO
+--------
+Deslocar suprimentos a pé com segurança quando não há veículo disponível.
+
+QUANDO USAR
+-----------
+Quando a estrada está bloqueada e o combustível acabou.
+Quando a carga é pequena e o destino fica a poucos minutos de caminhada.
+Quando é preciso retirar água ou comida de um depósito danificado.
+
+NAO USE QUANDO
+--------------
+Quando a carga exige temperatura controlada e não há isolamento.
+Quando a rota tem risco de violência e não há escolta.
+Quando a carga for inflamável, ácida ou material radioativo.
+
+MATERIAIS
+---------
+- Corda resistente ou cinto forte (cadarço trançado, se faltar).
+- Lona ou pano grosso para embrulhar e arrastar (saco).
+- Luvas ou pano para proteger as mãos.
+- Prancha ou porta para apoio (varas presas com corda).
+- Carriola ou rolo de madeira, se houver, e duas pessoas para carga grande.
+
+PROCEDIMENTO
+------------
+1. Separe o que vai levar e deixe o resto no depósito.
+2. Divida a carga entre as pessoas sem sobrecarregar ninguém.
+3. Embrulhe a carga em lona e amarre com corda sem folga.
+4. Para carga pequena, leve nas costas com a corda passada no peito.
+5. Para carga volumosa, prenda a corda na frente e puxe com as duas mãos.
+6. Para carga pesada, apoie na prancha e arraste sem levantar do chão.
+7. Em lama ou barranco, coloque rolos de madeira sob a prancha.
+8. Caminhe em passos curtos, descanse antes de sentir esforço nas costas.
+
+ATENCAO
+-------
+Nunca levante com as pernas esticadas e a coluna curvada.
+Não puxe com o corpo inclinado para trás nem com a corda na cintura.
+Carga que escorrega e cai pode ferir o pé de quem vem atrás.
+Arrastar em pedra áspera desgasta a lona e solta o nó da corda.
+Se alguém sentir dor aguda nas costas, pare e redistribute a carga.
+
+SE NAO TIVER
+------------
+Sem corda, use cinto ou faixa de pano trançado.
+Sem lona, arraste a carga dentro de um saco ou pano dobrado.
+Sem carriola, use prancha apoiada em dois rolos de madeira.
+Não use arame fino, fio de cobre ou corda podre para puxar carga.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A carga chegou sem cair e ninguém parou por dor, corte ou esforço.
+
+FONTES
+------
+Prática consolidada de logística humanitária e transporte manual de cargas
+em emergências. Técnicas de arraste e maca improvisada conforme manual de
+primeiros socorros dos bombeiros e manual militar de sobrevivência FM 21-76.

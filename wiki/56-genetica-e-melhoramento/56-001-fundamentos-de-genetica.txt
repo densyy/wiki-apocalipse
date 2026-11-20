@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 56-001
+TITULO: Como entender os fundamentos da genética
+CATEGORIA: 56 - Reprodução, genética e melhoramento
+TEMPO: 25 minutos
+RISCO: baixo
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: genética, dna, gene, cromossomo, hereditariedade, traço
+==============================================================================
+
+OBJETIVO
+--------
+Entender como os traços passam dos pais aos filhos.
+
+QUANDO USAR
+-----------
+Quando for escolher reprodutores para melhorar uma criação ou lavoura.
+Quando um traço aparece em uma geração mas não na anterior.
+Quando alguém confunde traço herdado com efeito do ambiente.
+
+NAO USE QUANDO
+--------------
+Este resumo não substitui exame genético nem orientação médica.
+Não o use para decidir sobre doenças, paternidade ou consanguinidade.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Entenda: DNA é a molécula que guarda as instruções dos seres vivos.
+2. Entenda: gene é um trecho do DNA que comanda uma característica.
+3. Entenda: cromossomo é o DNA enrolado dentro do núcleo da célula.
+4. Entenda: cada filho recebe metade do DNA de cada pai.
+5. Entenda: alelo é cada versão diferente de um gene.
+6. Observe um traço visível no animal ou planta (cor, altura, forma).
+7. Anote se o traço aparece nos pais e nos avós.
+8. Anote se uma cópia do alelo basta para o traço aparecer: dominante.
+9. Anote se o traço só aparece com duas cópias iguais: recessivo.
+10. Compare com indivíduos criados no mesmo ambiente antes de concluir.
+
+ATENCAO
+-------
+Quase toda característica útil, como produção ou crescimento, é
+controlada por muitos genes de uma vez e também pelo ambiente.
+Não descarte um animal por causa de um único traço dominante.
+Um traço recessivo pode ficar escondido e voltar na geração seguinte.
+Não use estas noções para problemas de saúde humana sem profissional.
+
+SE NAO TIVER
+------------
+Sem caderno, anote os traços em papel ou memorizando.
+Sem registro dos pais, observe a família por duas gerações.
+Sem certeza do padrão, trate o traço como incerto e não aposte tudo nele.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue nomear o traço e dizer se ele é herdado ou do ambiente.
+Você consegue explicar que cada pai contribui com metade do DNA.
+Você prevê que um traço recessivo pode reaparecer em outra geração.
+
+FONTES
+------
+Conceitos de DNA, gene e cromossomo: folhas informativas do NHGRI
+(Instituto Nacional de Pesquisa do Genoma Humano, Estados Unidos).
+Padrões de herança: MedlinePlus Genetics, Biblioteca Nacional de
+Medicina dos Estados Unidos. Texto resumido, sem documento único.

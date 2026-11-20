@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 68-001
+TITULO: Como entender os fundamentos das ondas eletromagnéticas
+CATEGORIA: 68 - Radiofrequência e telecomunicações
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: papel, lápis, noções de divisão
+REVISAO: 2026-11
+PALAVRAS-CHAVE: onda, frequência, rádio, espectro, antena, micro-ondas
+==============================================================================
+
+OBJETIVO
+--------
+Entender o que é uma onda eletromagnética e calcular seu tamanho.
+
+QUANDO USAR
+-----------
+Quando um rádio mostra uma frequência e você quer o tamanho da onda.
+Quando precisa escolher antena do tamanho certo para uma frequência.
+Quando quer saber se uma onda é rádio, micro-ondas, luz ou raio X.
+Quando deve julgar o risco de ficar perto de um transmissor ligado.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+É só leitura e cálculo: não liga nem opera equipamento.
+
+MATERIAIS
+---------
+- Papel e lápis.
+- Uma frequência confiável: etiqueta do aparelho ou manual.
+
+PROCEDIMENTO
+------------
+1. Anote a frequência do sinal em hertz (Hz).
+2. Converta a frequência para hertz: 1 MHz = 1.000.000 Hz.
+3. Anote a velocidade no ar: aproximadamente 300.000.000 m/s.
+4. Comprimento de onda é a distância entre duas cristas seguidas.
+5. Divida a velocidade pela frequência para obter metros.
+6. Se der menos de 1 m, multiplique por 100 para ter centímetros.
+7. Classifique: até aproximadamente 300 GHz é rádio ou micro-ondas.
+8. Acima disso vem infravermelho, luz, ultravioleta, raios X e gama.
+9. Repita com outra frequência: maior frequência dá onda menor.
+
+ATENCAO
+-------
+A onda não precisa de ar: no vácuo vai a aproximadamente 300.000 km/s.
+O cálculo vale para o ar; em cabo, água ou concreto a onda encurta.
+Rádio e micro-ondas não ionizam, mas em alta potência aquecem e queimam.
+Ultravioleta, raios X e gama ionizam e danificam o corpo.
+Nunca toque na antena de um transmissor ligado.
+Não opere transmissor sem licença e treino.
+Com ardor ou vermelhidão perto de antena, afaste-se e busque ajuda.
+
+SE NAO TIVER
+------------
+Sem calculadora, use 300.000 km/s e arredonde: o resultado é aproximado.
+Sem etiqueta de frequência, não invente o número; veja o manual.
+Sem papel, guarde a regra: frequência maior, onda menor.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O resultado está em metros ou centímetros e cai quando a frequência sobe.
+Confira: 100 MHz de FM dá aproximadamente 3 m; 1.000 MHz, 30 cm.
+
+FONTES
+------
+NIST (EUA), valor CODATA da velocidade da luz no vácuo: 299.792.458 m/s.
+UIT (União Internacional de Telecomunicações), setor de radiocomunicação.
+Prática consolidada de física das ondas eletromagnéticas, resumida aqui.

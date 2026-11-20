@@ -1,0 +1,91 @@
+==============================================================================
+CODIGO: 44-020
+TITULO: Como identificar riscos de rompimento de barragens
+CATEGORIA: 44 - Hidrologia, rios e gestão de bacias
+TEMPO: 30 minutos
+RISCO: critico
+EXIGE: ponto alto seguro, caderno, lápis, rádio com pilha
+REVISAO: 2026-11
+PALAVRAS-CHAVE: barragem, rompimento, sinais, vazamento, rachadura, jusante
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer sinais de instabilidade em uma barragem e decidir quando sair.
+
+QUANDO USAR
+-----------
+Ao morar, trabalhar ou passar abaixo de uma barragem.
+Quando chove forte ou a água do reservatório sobe depressa.
+Ao ver água vazando pelo barranco ou escorrendo na encosta.
+Quando a barragem passa por obra, reparo ou descarga repentina.
+Após tremor de terra, deslizamento ou chuva muito intensa na região.
+
+NAO USE QUANDO
+--------------
+Não use para inspecionar se já houve aviso de evacuação ou se a água
+está subindo: nesse caso saia sem parar para observar.
+Não substitui o monitoramento técnico nem a ordem da Defesa Civil.
+
+MATERIAIS
+---------
+- Caderno e lápis para anotar hora e mudanças.
+- Ponto alto e firme, fora do leito do rio e da área de inundação.
+- Relógio para medir o tempo entre uma observação e outra.
+- Rádio com pilha para receber avisos, se houver.
+
+PROCEDIMENTO
+------------
+1. Fique a jusante, que é o lado para onde a água desce, em terreno alto.
+2. Nunca entre no leito do rio, na água ou na área baixa da barragem.
+3. Observe o nível da água no reservatório e compare com a margem.
+4. Anote a hora e repita a cada 30 minutos se a água estiver subindo.
+5. Procure água vazando no barranco, na base e nas duas laterais.
+6. Veja se a água que vaza sai turva, com terra ou cheiro de terra nova.
+7. Procure rachaduras novas no concreto, no solo ou no revestimento.
+8. Veja se a rachadura cresce ou se desloca entre uma olhada e outra.
+9. Observe poças, umidade ou pequenos deslizamentos no solo a jusante.
+10. Ouça estalos, estrondos ou água correndo onde antes não havia.
+11. Observe a comporta e o vertedouro, canal que escoa o excesso de água.
+12. Note se a água passa pelo topo ou pelo vertedouro sem controle.
+13. Se vir água turva vazando, rachadura crescendo ou água subindo pelo
+    barranco, saia da área imediatamente, sem voltar para buscar objetos.
+14. Avise quem está a jusante e ligue para a Defesa Civil ou bombeiros.
+15. Use o número de emergência da sua região e repita o aviso aos vizinhos.
+
+ATENCAO
+-------
+Água turva que vaza indica erosão interna: a água carrega terra de dentro
+do barranco e abre um caminho por baixo da estrutura.
+Rachadura que cresce, topo deslocado ou vazamento que aumenta indicam
+ruptura iminente; não espere confirmação para sair.
+A ruptura pode ocorrer em minutos, sem aviso e sem barulho forte.
+A onda atinge a jusante muito rápido e não dá tempo de reagir depois.
+Nunca suba na barragem para conferir: o topo pode ceder sob o peso.
+Não confie apenas na ausência de sinais: falha de comporta ou solo
+encharcado podem romper sem sinal visível.
+Se a água estiver subindo ou chovendo forte, saia antes de inspecionar.
+Esta leitura não substitui aviso técnico; se houver ordem de evacuação,
+cumpra-a de imediato e não volte até autorização.
+
+SE NAO TIVER
+------------
+Sem ponto alto, afaste-se para o lado, fora da faixa de inundação.
+Sem rádio, combine com um vizinho em lugar seguro para avisar a autoridade.
+Sem marca de nível, use a linha deixada por enchentes antigas em muros.
+Não improvise equipamento nem entre na água para medir ou conferir.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você anotou horários e mudanças sem entrar na área baixa.
+Você identificou sinais visíveis, ou confirmou que não havia sinal.
+Se houve sinal de alerta, você saiu e avisou a jusante antes da água chegar.
+
+FONTES
+------
+Prática consolidada de segurança de barragens e defesa civil: sinais de
+alerta, erosão interna e evacuação da jusante. Família de referência:
+Agência Nacional de Águas, Defesa Civil brasileira, FEMA e USGS.
+Nenhum documento único foi consultado nesta edição: as buscas externas
+não retornaram acesso. Orientação genérica; confirme com a autoridade local.
+Não substitui treinamento, monitoramento técnico nem socorro.

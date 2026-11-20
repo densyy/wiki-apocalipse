@@ -1,0 +1,81 @@
+==============================================================================
+CODIGO: 52-002
+TITULO: Como funcionam as leis de Newton
+CATEGORIA: 52 - Física aplicada e princípios fundamentais
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: newton, força, inércia, aceleração, massa, movimento, reação
+==============================================================================
+
+OBJETIVO
+--------
+Observar as tres leis de Newton com objetos comuns e prever o movimento.
+
+QUANDO USAR
+-----------
+Quando precisar prever como um objeto responde a uma forca aplicada.
+Quando quiser explicar por que algo para, acelera ou empurra de volta.
+Quando projetar uma ferramenta simples que dependa de peso e atrito.
+Quando ensinar os principios basicos do movimento a outra pessoa.
+
+NAO USE QUANDO
+--------------
+Quando o objeto se move perto da velocidade da luz.
+Nesse caso a relatividade substitui as leis de Newton.
+Quando o objeto for subatomico: use a mecanica quantica.
+Quando a forca ou o atrito nao puderem ser medidos nem estimados.
+
+MATERIAIS
+---------
+- Uma superficie plana e firme, como mesa ou chao.
+- Um objeto leve, como uma bola ou pedra pequena.
+- Um objeto mais pesado, como um livro grande.
+- Um pano ou papel liso para reduzir o atrito (opcional).
+
+PROCEDIMENTO
+------------
+1. Coloque o objeto leve parado sobre a superficie plana.
+2. Observe que ele fica parado enquanto nenhuma forca agir sobre ele.
+3. Empurre o objeto leve uma vez e solte.
+4. Veja que ele para por causa do atrito com a superficie.
+5. Repita o empuxo sobre o pano e compare a distancia percorrida.
+6. Note que com menos atrito o objeto desliza mais antes de parar.
+7. Empurre o objeto leve e depois o pesado com a mesma forca.
+8. Compare: o leve acelera mais, o pesado acelera menos.
+9. Relacione forca, massa e aceleracao pela formula F = m x a.
+10. Pressione a palma da mao contra uma parede firme.
+11. Sinta a parede empurrar a mao com a mesma forca e sentido oposto.
+12. Empurre um objeto com o pe e sinta o objeto empurrar o pe de volta.
+13. Anote qual das tres leis explica cada observacao.
+
+ATENCAO
+-------
+As leis descrevem o comportamento, nao a natureza da inercia ou da massa.
+A primeira lei so vale quando a soma das forcas e zero.
+No dia a dia o atrito e a gravidade mascaram o movimento ideal.
+Forca e aceleracao tem direcao: nao basta comparar intensidades.
+As leis falham perto da velocidade da luz e em escala subatomica.
+Nao empurre objetos pesados contra vidro, borda ou outras pessoas.
+Nao use superficie inclinada com objeto que possa cair sobre os pes.
+
+SE NAO TIVER
+------------
+Sem os objetos, use as maos ou dois itens com massas bem diferentes.
+Sem superficie plana, use o chao limpo e firme.
+Nao improvise com peso sobre vidro, pois pode quebrar e ferir.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Voce consegue apontar qual lei explica cada observacao.
+O objeto parado parte so quando uma forca age sobre ele.
+Com a mesma forca, o objeto leve acelera mais que o pesado.
+A parede devolve o empuxo com a mesma intensidade.
+
+FONTES
+------
+Leis do movimento do livro Principia, de Isaac Newton.
+Material educativo do NASA Glenn Research Center e do NASA Goddard.
+Encyclopedia Britannica, artigo sobre as leis de movimento.
+RMIT University Learning Lab, modulo de dinamica.

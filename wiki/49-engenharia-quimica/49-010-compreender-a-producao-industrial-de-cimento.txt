@@ -1,0 +1,91 @@
+==============================================================================
+CODIGO: 49-010
+TITULO: Como compreender a produção industrial de cimento
+CATEGORIA: 49 - Engenharia química e processos industriais
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: cimento, clínquer, calcário, forno, gesso, cal, concreto
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer as etapas que transformam calcário e argila em cimento.
+
+QUANDO USAR
+-----------
+Quando precisar entender como o cimento chega ao canteiro de obra.
+Quando for avaliar um fornecedor ou uma fabrica de cimento.
+Quando precisar explicar a origem do po de cimento no ambiente.
+Quando quiser compreender de onde vem o CO2 da fabricação.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento de leitura.
+Nao tente reproduzir a fabricacao em casa: o forno industrial exige
+tecnica, controle e protecao que nao existem fora da fabrica.
+
+MATERIAIS
+---------
+- Papel e caneta para anotar as etapas.
+- Uma planta, um diagrama ou uma descricao do processo.
+- Nenhum material se a observacao for feita apenas de memoria.
+
+PROCEDIMENTO
+------------
+1. Identifique a pedreira: calcario e argila sao extraidos do solo.
+2. Observe a britagem: as rochas viram pedras do tamanho de uma bola.
+3. Reconheca a moagem e a mistura: os fragmentos viram farinha e
+   recebem areia, xisto e mineral de ferro.
+4. Acompanhe o pre-aquecimento: a torre aproveita o calor do forno.
+5. Entenda o forno rotativo: tubo de aco inclinado que gira e queima a
+   mistura a aproximadamente 1.450 graus Celsius.
+6. Registre a calcinacao: o calcario perde CO2 e vira cal.
+7. Reconheca o clinquer: a cal reage com silica, alumina e ferro e forma
+   pelotas cinzas do tamanho de bolinhas de gude.
+8. Observe o resfriamento: o clinquer quente e resfriado rapido.
+9. Note o controle de emissões: filtros retiram poeira e tratam gases
+   durante todo o processo.
+10. Acompanhe a moagem final: o clinquer recebe um pouco de gesso e e
+    moido ate virar po fino.
+11. Relacione cada etapa com o resultado: esse po, com agua, areia e
+    pedra, vira concreto.
+12. Anote as entradas e saidas: entram calcario, argila e calor; saem
+    cimento, CO2 e poeira retida nos filtros.
+
+ATENCAO
+-------
+A fabricacao de cimento envolve calor extremo e po nocivo.
+Nunca entre em area de fabrica sem autorizacao e protecao.
+O po de cimento contem silica cristalina respiravel: inalada em
+excesso, causa silicose, doenca pulmonar irreversivel, e pode causar
+cancer de pulmao e doenca renal.
+O cimento umido e muito alcalino, com pH proximo de 13, e queima a pele
+e os olhos.
+Use mascara adequada, luvas e oculos se for manusear o po.
+A temperatura do forno e aproximada: cada fabrica ajusta o valor.
+Este texto explica o processo; nao ensina a fabricar cimento.
+
+SE NAO TIVER
+------------
+Sem planta ou diagrama, desenhe as etapas em papel a partir da lista.
+Se faltar um dado sobre a fabrica, marque como desconhecido.
+Nao substitua a leitura pela presenca fisica na fabrica: observar de
+longe ja basta para compreender as etapas.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Voce consegue nomear as etapas na ordem e dizer que o clinquer e o
+produto do forno e que o gesso entra na moagem final.
+Voce consegue explicar que o CO2 vem da calcinacao do calcario.
+
+FONTES
+------
+USGS (Servico Geologico dos Estados Unidos), informacoes sobre cimento:
+clinquer, calcario, argila, forno rotativo e gesso.
+American Cement Association (Portland Cement Association), How Cement
+Is Made: pedreira, britagem, moagem, pre-aquecimento, forno, clinquer,
+resfriamento, controle de emissões e moagem final.
+NIOSH/CDC, pagina sobre silica e saude do trabalhador: risco de
+silicose e de outras doencas pela poeira de cimento.

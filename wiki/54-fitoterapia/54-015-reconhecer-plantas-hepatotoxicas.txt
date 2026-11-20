@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 54-015
+TITULO: Como reconhecer plantas hepatotóxicas
+CATEGORIA: 54 - Fitoterapia e plantas medicinais
+TEMPO: 40 minutos
+RISCO: critico
+EXIGE: boa luz, guia impresso confiável, lupa, caderno, luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: hepatotóxica, fígado, veneno, chá, confrei, kava-kava
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer plantas hepatotóxicas, que prejudicam o fígado, e evitar o uso.
+
+QUANDO USAR
+-----------
+- Quando alguém colhe planta silvestre para fazer chá.
+- Quando o chá é comprado a granel ou de vendedor ambulante.
+- Quando a planta é indicada só pelo nome popular.
+- Quando o rótulo traz confrei, kava-kava ou espécie de Senecio.
+- Quando já existe doença de fígado na casa.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação para observar e anotar a planta.
+Nunca prove, mastigue ou faça chá para testar a planta.
+Se já houve ingestão com icterícia ou dor no lado direito,
+procure atendimento médico na hora.
+
+MATERIAIS
+---------
+- Boa luz natural, sem sol direto (ou lanterna de luz branca).
+- Lupa de aumento (ou câmera do celular com foto nítida).
+- Guia impresso de plantas da região (ou lista da unidade de saúde).
+- Caderno e lápis para anotar.
+- Luvas (ou pano) para manusear planta desconhecida.
+- Planta inteira com folha, caule e flor.
+
+PROCEDIMENTO
+------------
+1. Separe folha, caule, flor e raiz, se houver.
+2. Observe a folha: formato, borda, nervuras e textura.
+3. Observe a cor da flor e o porte da planta.
+4. Abra o guia e compare um caractere de cada vez.
+5. Confira o nome científico em latim: gênero e espécie.
+6. Verifique se o nome popular vale para mais de uma espécie.
+7. Procure no guia os grupos que prejudicam o fígado.
+8. Anote o nome científico, a parte usada e o motivo do risco.
+9. Confira se a espécie está na lista de restrição da Anvisa.
+10. Se sobrar qualquer dúvida, marque como não identificada.
+11. Não use, não faça chá e não dê a outra pessoa.
+12. Descarte o material fora do alcance de crianças e animais.
+
+ATENCAO
+-------
+Natural não é sinônimo de seguro: o erro pode matar.
+Alcaloides pirrolizidínicos (APs) causam lesão hepática crônica.
+O dano pode surgir meses depois e nem sempre tem cura.
+Grupos de risco: confrei (Symphytum officinale), flor-das-almas
+(Senecio brasiliensis), cinerária (Senecio cruentus), Heliotropium
+spp. e Crotalaria spp. Todos contêm APs.
+Kava-kava (Piper methysticum): causou hepatite grave e mortes.
+Mamona (Ricinus communis): a semente tem ricina; não use.
+Losna (Artemisia absinthium) e sálvia (Salvia officinalis) têm
+tujona; poejo (Mentha pulegium) tem pulegona: só com orientação.
+Sinais de intoxicação: icterícia, urina escura, dor no lado direito,
+náusea, inchaço abdominal e cansaço. Pare e procure atendimento.
+Não misture chá com álcool ou remédio: o risco aumenta.
+
+SE NAO TIVER
+------------
+- Sem guia, peça a lista de plantas medicinais na unidade de saúde.
+- Sem lupa, aproxime a câmera e tire foto nítida de cada parte.
+- Sem planta com flor, espere a floração antes de decidir.
+- Sem lista de restrições, anote o nome científico e não use.
+- Sem luz boa, espere o dia seguinte: não decida no escuro.
+- Nunca use cheiro ou sabor como prova de segurança.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- Você anotou o nome científico e três caracteres que batem no guia.
+- Você marcou no guia qual parte da planta é usada.
+- Você conferiu se a espécie aparece na lista da Anvisa.
+- Nenhum caractere observado contradiz a descrição do guia.
+- Se sobrou dúvida, a planta foi descartada e não foi usada.
+
+FONTES
+------
+- Instrução Normativa Anvisa nº 410, de 17 de dezembro de 2025:
+  proibições e restrições na composição de fitoterápicos.
+- Memento Fitoterápico da Farmacopeia Brasileira, Anvisa, 2016:
+  monografia do kava-kava e contraindicações hepáticas.
+- Plantas Medicinais, Secretaria Municipal do Verde e do Meio
+  Ambiente de São Paulo, 2010: plantas com alcaloides pirrolizidínicos.
+- EMA/HMPC: declaração sobre alcaloides pirrolizidínicos e
+  monografia do confrei (Symphytum officinale).
+- LiverTox, National Institutes of Health (EUA): monografias
+  Kava Kava e Comfrey sobre lesão hepática por plantas.
+- FDA, memorando científico sobre kava, 2020.

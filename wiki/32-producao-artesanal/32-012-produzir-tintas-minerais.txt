@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 32-012
+TITULO: Como produzir tintas minerais
+CATEGORIA: 32 - Produção industrial e manufatura artesanal
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: pigmento mineral, aglutinante, almofariz, máscara, pote
+REVISAO: 2026-11
+PALAVRAS-CHAVE: tinta, pigmento, mineral, ocre, moer, aglutinante, cor
+==============================================================================
+
+OBJETIVO
+---------
+Produzir uma pasta colorida com pó de mineral e aglutinante.
+
+QUANDO USAR
+-----------
+Quando faltar tinta comprada para madeira, papel ou tecido.
+Quando houver ocre, argila colorida ou carvão no terreno.
+
+NAO USE QUANDO
+--------------
+Quando o mineral for desconhecido ou vier de mina de chumbo,
+mercúrio, cádmio ou cromo. Sem máscara, não moa material seco.
+
+MATERIAIS
+---------
+- Ocre, óxido de ferro, carvão ou caulim (argila branca).
+- Goma arábica em pó (ou cola de farinha de trigo).
+- Água, pano, peneira, máscara e pote tampado.
+
+PROCEDIMENTO
+------------
+1. Confirme a origem: use só ocre, óxido de ferro, carvão ou caulim.
+2. Envolva a pedra em pano e quebre-a com martelo.
+3. Vista a máscara antes de moer, ao ar livre ou em local ventilado.
+4. Umedece os pedaços no almofariz com aproximadamente 1 colher de água.
+5. Moe em círculos por aproximadamente 20 minutos. Não deixe levantar pó.
+6. Peneire sobre um pote. Volte a moer o que ficar na peneira.
+7. Dissolva aproximadamente 1 colher de chá de goma em 4 de água morna.
+8. Junte o pó ao aglutinante aos poucos, mexendo sem parar.
+9. Ajuste com água até a pasta escorrer em fio fino da colher.
+10. Espalhe uma camada fina em papel e espere secar.
+11. Guarde a tinta em pote tampado, com etiqueta e data.
+12. Lave mãos, peneira e almofariz com água e sabão.
+
+ATENCAO
+-------
+A poeira de pedra pode ter sílica cristalina. Inalá-la causa silicose,
+câncer de pulmão, DPOC e doença renal, segundo a OSHA. Nunca moa seco.
+Mantenha o material úmido. Nunca use cinábrio, alvaiade, cromato,
+cádmio ou verde de Paris: são venenosos. Não use solventes perto de fogo,
+em brinquedos ou talheres. Com tosse ou falta de ar, pare e busque ajuda.
+
+SE NAO TIVER
+------------
+Sem almofariz, use duas pedras lisas, bem umedecidas, ao ar livre.
+Sem máscara, não moa: use pigmento já em pó ou desista.
+Sem goma, use cola de farinha; a tinta descasca e teme umidade.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O pó não levanta nuvem, a pasta escorre em fio e a camada seca sem rachar.
+
+FONTES
+------
+Prática consolidada de moagem de pigmentos, segundo "Artists' Pigments"
+(National Gallery of Art) e "The Artist's Handbook of Materials and
+Techniques" (Ralph Mayer). Poeira de sílica: OSHA.

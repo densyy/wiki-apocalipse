@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 48-019
+TITULO: Como organizar controle sanitário em cozinhas comunitárias
+CATEGORIA: 48 - Produção de alimentos em escala comunitária
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: água potável, termômetro, caderno, material de limpeza, responsável
+REVISAO: 2026-11
+PALAVRAS-CHAVE: higiene, sanitário, cozinha, registro, temperatura, água
+==============================================================================
+
+OBJETIVO
+---------
+Montar uma rotina de controle que mantém a comida segura para o grupo.
+
+QUANDO USAR
+-----------
+- Quando várias pessoas preparam e distribuem refeições no mesmo lugar.
+- Quando a cozinha funciona todos os dias e precisa de rotina repetida.
+- Quando a comida vai para crianças, idosos ou pessoas vulneráveis.
+- Quando há dúvida sobre água, temperatura ou higiene dos manipuladores.
+- Quando o grupo pede prova do que foi feito em cada turno.
+
+NAO USE QUANDO
+--------------
+- Não use para substituir treinamento em boas práticas nem inspeção oficial.
+- Não use se não houver água potável para lavar mãos e superfícies.
+- Não use para liberar alimento com suspeita de contaminação química.
+
+MATERIAIS
+---------
+- Água potável em quantidade (ou água fervida e resfriada).
+- Sabonete, desinfetante e panos exclusivos para limpeza.
+- Termômetro para medir temperatura de alimentos (ou de água com gelo).
+- Caderno ou folha para registrar verificações e horários.
+- Tábuas e facas separadas para cru e para pronto.
+- Lixeira com tampa, sacos e recipiente para resíduos.
+- Avental, touca e lavatório exclusivo para as mãos.
+- Relógio ou cronômetro para medir tempos.
+- Prateleiras ou estrados para afastar alimentos do chão.
+
+PROCEDIMENTO
+------------
+1. Escolha uma pessoa responsável pelo controle sanitário de cada turno.
+2. Defina os pontos críticos: água, cocção e resfriamento.
+3. Verifique a água antes de usar: limpa, sem cheiro e sem cor estranha.
+4. Lave as mãos com sabonete antes do preparo e após cada interrupção.
+5. Afaste do preparo quem tem ferida exposta, diarreia, febre ou vômito.
+6. Separe cru de pronto com tábuas, facas e recipientes distintos.
+7. Meça a temperatura no centro de carnes, ovos e peixes: mínimo 70 °C.
+8. Mantenha comida quente acima de 60 °C ou fria abaixo de 5 °C.
+9. Resfrie sobras rapidamente e não deixe pronta mais de 2 horas no calor.
+10. Anote no caderno a temperatura, o horário e o responsável.
+11. Limpe e desinfete bancadas e utensílios após cada uso.
+12. Faça uma rotina de limpeza diária e registre o que foi feito.
+13. Guarde alimentos secos fechados, longe de produtos de limpeza.
+14. Mantenha prateleiras a 30 cm do chão e da parede.
+15. Feche o lixo em saco e mantenha a lixeira fora da área de preparo.
+16. Observe sinais de pragas: fezes, moscas, roedores ou cheiro estranho.
+17. Reserve uma porção da refeição, refrigerada, por cerca de 48 horas.
+18. Revise o caderno ao fim do dia e corrija o que falhou no turno seguinte.
+
+ATENCAO
+-------
+- Uma falha de controle pode adoecer dezenas de pessoas de uma vez.
+- Sem termômetro, não afirme que o alimento atingiu temperatura segura.
+- Comida no calor por horas pode intoxicar mesmo depois de reaquecida.
+- Ferver não elimina veneno químico; com cheiro de combustível, pare.
+- Contaminação cruzada é o erro mais comum: frango cru na faca da salada.
+- Água limpa pode conter microrganismos; trate antes de beber.
+- Registro atrasado ou falso esconde o problema e atrasa a resposta.
+- Se surgir diarreia ou vômito em quem comeu, pare de servir e busque ajuda.
+
+SE NAO TIVER
+------------
+- Sem termômetro, cozinhe até o caldo claro e a carne sem parte rosada.
+- Sem geladeira, prepare porções pequenas e sirva logo após o cozimento.
+- Sem caderno, use qualquer papel e anote hora, temperatura e nome.
+- Sem lavatório, use balde com água potável e um recipiente para escoar.
+- Sem desinfetante, lave com água e sabão e seque com pano limpo.
+- Se faltar água potável, interrompa o preparo e busque outra fonte.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- O caderno mostra temperatura, horário e responsável de cada turno do dia.
+- Carnes e peixes chegaram ao centro sem parte rosada e com caldo claro.
+- Há áreas separadas e identificadas para cru, pronto e limpeza.
+- As mãos passam pelo lavatório antes de cada turno de preparo.
+- Não há moscas, fezes, cheiro azedo nem resíduo nas bancadas.
+- O lixo está fechado e fora da área de preparo.
+
+FONTES
+------
+- Cartilha de Boas Práticas para Serviços de Alimentação da Anvisa,
+  baseada na RDC 216/2004.
+- Cinco Chaves para uma Alimentação Mais Segura, da OMS.
+- Princípios Gerais de Higiene de Alimentos, Codex CXC 1-1969, FAO/OMS.
+- Roteiro de Implantação de Cozinhas Comunitárias do Ministério do
+  Desenvolvimento Social. Resumo operacional, não substitui treinamento.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 43-020
+TITULO: Como produzir revestimentos resistentes à umidade
+CATEGORIA: 43 - Produção de materiais de construção
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: cal hidratada, areia fina lavada, água, luvas, óculos, peneira
+REVISAO: 2026-11
+PALAVRAS-CHAVE: cal, reboco, umidade, impermeável, cinza, parede
+==============================================================================
+
+OBJETIVO
+--------
+Produzir reboco de cal que reduz a absorção de água da parede.
+
+QUANDO USAR
+-----------
+Quando a parede de terra, tijolo ou pedra absorve água da chuva.
+Quando o cômodo tem umidade constante, como cozinha ou banheiro.
+Quando a parede precisa respirar e não reter mofo.
+
+NAO USE QUANDO
+--------------
+Não use em peça estrutural, pilar, viga ou laje.
+Não use sobre tinta, óleo ou se não puder manter úmido.
+
+MATERIAIS
+---------
+- Cal hidratada fresca, sem grumos duros.
+- Areia fina lavada e peneirada, sem lama nem sal.
+- Cinza de lenha fina e peneirada, sem carvão (opcional).
+- Água limpa, sem sal ou óleo.
+- Balde, pá, peneira, espátula, pano, luvas e óculos.
+
+PROCEDIMENTO
+------------
+1. Calce luvas e óculos: cal úmida queima pele e olhos.
+2. Peneire a areia e a cinza para tirar pedras e carvão.
+3. Misture cal e areia secas até ficar uniforme.
+4. Comece com aproximadamente 1 balde de cal para 2 de areia.
+5. Junte cinza peneirada aos poucos, em pequena quantidade.
+6. Adicione água aos poucos até virar pasta que gruda na pá.
+7. Cubra a massa e descanse por aproximadamente 1 hora.
+8. Umedeça a parede e aplique camada de aproximadamente 1 cm.
+9. Mantenha úmida por aproximadamente 3 dias, sem sol direto.
+10. Aplique camada fina, alise e mantenha úmida por mais 3 dias.
+
+ATENCAO
+-------
+Cal úmida é cáustica: lave os olhos com água corrente se respingar.
+Cinza em excesso enfraquece a camada e escurece a superfície.
+Água demais encolhe, racha e reduz a resistência do reboco.
+Secar ao sol ou com vento forte impede a cura e abre fissuras.
+O reboco respira: não resiste a jatos de água nem a pressão.
+Proteja da chuva até curar; raspe e refaça se fissurar.
+
+SE NAO TIVER
+------------
+Sem cinza, use só cal e areia: ainda reduz a absorção.
+Sem cal hidratada, não improvise com cimento em parede de terra.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A massa gruda na pá e não abre poças de água.
+A camada seca fica firme, sem fissuras largas.
+
+FONTES
+------
+Prática consolidada de reboco de cal com cinza, sem documento único.
+Sem fonte institucional confirmada: teste antes de usar em área crítica.

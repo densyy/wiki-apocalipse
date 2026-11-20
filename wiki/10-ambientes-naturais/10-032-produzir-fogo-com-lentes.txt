@@ -1,0 +1,86 @@
+==============================================================================
+CODIGO: 10-032
+TITULO: Como produzir fogo com lentes
+CATEGORIA: 10 - Sobrevivência em ambientes naturais
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: sol forte direto, lente convergente, isca seca e escura
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fogo, lente, lupa, sol, foco, isca, incêndio, acender
+==============================================================================
+
+OBJETIVO
+--------
+Acenda uma brasa usando apenas luz solar concentrada por uma lente.
+
+QUANDO USAR
+-----------
+Quando não há fósforo, isqueiro nem pedra de fogo.
+Quando o sol está forte e o céu está limpo.
+Quando é preciso acender fogo sem gastar combustível.
+Quando há lente de lupa, óculos, binóculo ou câmera por perto.
+
+NAO USE QUANDO
+--------------
+Quando o sol está fraco, atrás de nuvens ou perto do pôr do sol.
+Quando não há isca seca o suficiente para receber a brasa.
+Quando a lente é côncava: ela espalha a luz e não forma foco.
+
+MATERIAIS
+---------
+- Lente convergente (lupa, óculos de leitura, binóculo ou câmera).
+- Lente de Fresnel de televisão ou projetor antigo (se houver).
+- Isca seca e escura (pano carbonizado, palha ou folha seca).
+- Saco plástico transparente e água (para improvizar uma lente).
+- Faca para desfiar e cortar a isca.
+- Recipiente não inflamável (pedra, lata ou barro) para apoiar a isca.
+
+PROCEDIMENTO
+------------
+1. Escolha lugar aberto, com sol direto e sem sombra.
+2. Espere o sol ficar alto, perto do meio-dia.
+3. Desfie a isca até ficar fina, seca e fofa.
+4. Use isca escura, de preferência pano carbonizado.
+5. Coloque a isca no recipiente não inflamável, em solo firme.
+6. Segure a lente entre o sol e a isca, com as duas mãos.
+7. Aproxime e afaste a lente até o ponto de luz ficar o menor possível.
+8. Mire o ponto de luz minúsculo no centro da isca.
+9. Mantenha a mão firme e o ponto parado sempre no mesmo lugar.
+10. Espere aparecer fumaça fina e cheiro de queimado.
+11. Sopre de leve e sem parar sobre o ponto para avivar a brasa.
+12. Quando a brasa crescer, coloque-a sobre mais isca seca.
+13. Sopre até a chama aparecer e junte gravetos aos poucos.
+14. Mantenha os olhos no foco até a brasa pegar com firmeza.
+
+ATENCAO
+-------
+O que mata aqui é o fogo descontrolado e o monóxido de carbono.
+Nunca acenda fogo dentro de barraca, cabana ou lugar sem ventilação.
+Fogo em ambiente fechado gera monóxido de carbono: ele não tem cheiro.
+A lente concentra luz também nos olhos: nunca olhe direto para o foco.
+Lente côncava não serve: ela espalha a luz e nunca acende a isca.
+Sem sol direto o método falha; nuvens finas já reduzem o calor.
+Vento derruba a brasa e espalha fogo: proteja a isca com as mãos.
+Isca úmida não pega; se não sair fumaça, troque por isca seca.
+Se o fogo sair do controle, apague com água, terra ou batendo com pano.
+
+SE NAO TIVER
+------------
+Sem lupa, encha um saco plástico transparente com água e amarre bem.
+Aproxime o saco da isca até formar o menor ponto de luz.
+A lente improvisada foca menos que uma lupa: espere mais tempo.
+Sem nenhuma lente, este método não funciona: use atrito de madeira.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O ponto de luz some e a isca solta fumaça fina.
+A isca ganha um ponto preto e brilhante que cresce ao soprar.
+A brasa passa para as fibras vizinhas e a chama aparece.
+
+FONTES
+------
+Prática consolidada de sobrevivência: acender fogo com lente
+convergente aparece em manuais militares de sobrevivência civil,
+como o FM 21-76 do Exército dos Estados Unidos. A lente de água
+é técnica difundida por instrução de sobrevivência. Nenhum
+documento único foi consultado para este texto.

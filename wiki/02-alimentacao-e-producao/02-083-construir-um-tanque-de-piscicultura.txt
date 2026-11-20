@@ -1,0 +1,83 @@
+==============================================================================
+CODIGO: 02-083
+TITULO: Como construir um tanque de piscicultura
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 2 dias
+RISCO: medio
+EXIGE: terra com argila, água limpa, pá, enxada, trena, tela de arame
+REVISAO: 2026-11
+PALAVRAS-CHAVE: tanque, viveiro, piscicultura, peixe, escavar, dique
+==============================================================================
+
+OBJETIVO
+--------
+Escavar e vedar um tanque pequeno que retenha água para criar peixes.
+
+QUANDO USAR
+-----------
+Quando se quer criar peixes para comer sem depender da pesca.
+Quando há terreiro com terra argilosa e água limpa disponível.
+Quando se pode dedicar alguns dias à obra antes de soltar os alevinos.
+
+NAO USE QUANDO
+--------------
+Não use em areia pura ou solo pedregoso: não retém água.
+Não use onde o solo tem contato com esgoto, óleo ou agrotóxico.
+Não use em área de alagamento, encosta íngreme ou leito de rio.
+
+MATERIAIS
+---------
+- Pá e enxada (ou picareta) para escavar.
+- Trena ou corda com nós de metro para medir.
+- Estacas e barbante para marcar o contorno.
+- Tela de arame ou pano firme para vedar entrada e saída d'água.
+- Argila ou barro (ou lona plástica) para vedar fundo e paredes.
+- Pedras para proteger a entrada d'água.
+
+PROCEDIMENTO
+------------
+1. Escolha terreno plano, perto de água limpa.
+2. Retire pedras, tocos, raízes e entulho da área escolhida.
+3. Marque com estacas um retângulo de aproximadamente 5 por 4 metros.
+4. Aperte um punhado úmido: a terra deve grudar e formar bola.
+5. Escave o interior até aproximadamente 1 metro de profundidade.
+6. Incline as paredes: a cada 1 metro de altura, afaste 1,5 metro.
+7. Faça o fundo com inclinação de 0,5% a 2% até o lado do dreno.
+8. Erga as bordas com a terra escavada, em camadas de 15 a 20 cm.
+9. Pise cada camada até ficar firme.
+10. Deixe a borda 30 centímetros acima do nível máximo da água.
+11. Abra a entrada no lado alto e proteja-a com pedras contra erosão.
+12. Coloque tela na entrada e abra o dreno no lado baixo com tela.
+13. Forre fundo e paredes com argila amassada.
+14. Encha devagar e observe por um dia antes de soltar os peixes.
+15. Se a água baixar sem evaporar, reforce o fundo antes de soltar peixes.
+
+ATENCAO
+-------
+Terra solta ou arenosa não segura água: o tanque esvazia.
+Dique mal compactado cede e causa perda total.
+Sem tela no dreno, os peixes fogem.
+Água suja ou parada mata os peixes: mantenha entrada e saída livres.
+Crianças e animais podem cair: nunca deixe o tanque sem proteção.
+
+SE NAO TIVER
+------------
+Sem trena, use passos: um passo é aproximadamente 70 centímetros.
+Sem argila, forre com lona plástica limpa, com emendas sobrepostas.
+Sem tela, use pano firme preso no dreno, sem deixar passar peixes.
+Sem pá, use enxada e balde; o trabalho demora mais.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O tanque fica cheio e o nível cai só pela evaporação em dia seco.
+As bordas ficam firmes, sem rachaduras ou água vazando.
+
+FONTES
+------
+FAO, manual "Pond construction for freshwater fish culture", capítulo 6:
+taludes de 1,5:1 a 3:1, borda livre de 0,25 a 0,30 m,
+compactação em camadas de 15 a 20 cm.
+Embrapa, Manual de piscicultura familiar em viveiros escavados:
+filtro na entrada, tela em saco no cano e proteção na queda d'água.
+Prefeitura de Uberlândia, instalação de tanques escavados:
+profundidade média de 1,20 a 1,50 m e declividade de 0,5% a 2%.

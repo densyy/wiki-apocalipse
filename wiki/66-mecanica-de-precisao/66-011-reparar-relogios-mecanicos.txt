@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 66-011
+TITULO: Como reparar relógios mecânicos
+CATEGORIA: 66 - Mecânica de precisão e instrumentos
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: abridor de caixa, pinça fina, chave de precisão, lupa, luz
+REVISAO: 2026-11
+PALAVRAS-CHAVE: relógio, mecânico, corda, coroa, ponteiro, limpeza, oficina
+==============================================================================
+
+OBJETIVO
+--------
+Diagnosticar e fazer a manutenção básica de um relógio mecânico parado.
+
+QUANDO USAR
+-----------
+Quando o relógio parou e não há relojoaria por perto.
+Quando a coroa gira no vazio e a corda não enrija.
+Quando um ponteiro está solto ou caiu.
+Quando o vidro rachou ou a pulseira quebrou.
+
+NAO USE QUANDO
+--------------
+Com ferrugem, óleo escuro ou peça quebrada: precisa de revisão completa.
+Em relógio antigo, caro ou com calendário: leve a um profissional.
+Não abra a caixa em lugar com poeira, umidade ou vento.
+
+MATERIAIS
+---------
+- Abridor de caixa ou chave do fabricante.
+- Pinça fina (palito de madeira para peças grandes).
+- Chave de fenda de precisão, lupa e luz forte.
+- Pano que não solte fiapos, escova macia e óculos de proteção.
+
+PROCEDIMENTO
+------------
+1. Limpe a caixa, a coroa e o vidro com o pano seco.
+2. Gire a coroa: sinta se a corda enrija ou gira no vazio.
+3. Anote o defeito: parado, atraso, ponteiro solto ou coroa mole.
+4. Se só a pulseira ou o vidro estiver danificado, troque essa peça.
+5. Apoie o relógio no pano e retire a tampa com o abridor.
+6. Trabalhe em superfície limpa, plana, sem vento e sem poeira.
+7. Com a lupa, procure parafusos ou pedaços de mola soltos.
+8. Se a mola principal estiver quebrada, retire os pedaços com a
+   pinça e não force o enrolamento.
+9. Remova pó e fiapos com a escova, sem arrastar as peças.
+
+ATENCAO
+-------
+A mola principal pode saltar e ferir os olhos: use óculos de proteção.
+Nunca abra a caixa com o relógio no pulso; a tampa pode cair e sujar.
+Peças minúsculas se perdem: trabalhe sobre o pano e nunca sopre.
+Não use óleo de cozinha, WD-40 ou óleo de motor: travam o mecanismo.
+
+SE NAO TIVER
+------------
+Sem abridor, use a chave do fabricante; moeda enrolada em pano é
+último recurso e pode riscar a tampa.
+Sem pinça, use um palito pontudo só em peças grandes, nunca na mola.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A tampa fechou nivelada e a coroa enrija a corda.
+O ponteiro volta a andar e não sobraram peças sobre o pano.
+
+FONTES
+------
+Prática consolidada de relojoaria, descrita em manuais de oficina e
+cursos de relojoeiros. Não substitui revisão profissional do mecanismo.

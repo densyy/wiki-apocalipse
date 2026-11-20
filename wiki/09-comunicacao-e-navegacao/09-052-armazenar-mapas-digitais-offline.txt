@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 09-052
+TITULO: Como armazenar mapas digitais offline
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: celular com GPS, aplicativo de mapas, carregador, capa impermeável
+REVISAO: 2026-11
+PALAVRAS-CHAVE: mapa, offline, gps, navegação, download, celular, papel
+==============================================================================
+
+OBJETIVO
+--------
+Deixe mapas baixados no celular que abrem e orientam sem internet.
+
+QUANDO USAR
+-----------
+Antes de entrar em área sem cobertura de celular.
+Quando a internet cair durante uma viagem.
+Ao montar o kit de emergência da casa.
+
+NAO USE QUANDO
+--------------
+Sem bateria no celular: nenhum mapa digital abre.
+Para trânsito ou desvios em tempo real: offline não mostra isso.
+Como único recurso: leve também mapa de papel e bússola.
+
+MATERIAIS
+---------
+- Celular com GPS e espaço livre (ou tablet).
+- Aplicativo de mapas com download (Google Maps, Apple Maps, Organic Maps).
+- Carregador, bateria externa e capa impermeável.
+- Mapa de papel da região (como reserva).
+
+PROCEDIMENTO
+------------
+1. Instale o aplicativo de mapas em casa, com internet, antes de precisar.
+2. Escolha a área que contenha toda a rota, o destino e os arredores.
+3. Aumente a área salva para incluir rotas alternativas de saída.
+4. Confira o tamanho do arquivo e libere espaço no celular.
+5. Baixe a área em Wi-Fi e espere o download terminar.
+6. Confirme que a área aparece como salva no aplicativo.
+7. Salve como favoritos: abrigo, água, posto, ponto de encontro.
+8. Desligue Wi-Fi e dados móveis e abra o mapa baixado.
+9. Trace uma rota curta na área salva e veja se surgem setas.
+10. Recarregue o celular a 100 por cento antes de sair.
+11. Guarde celular, carregador e bateria externa na capa impermeável.
+
+ATENCAO
+-------
+O GPS usa satélites e funciona sem internet, mas o desenho do mapa e a rota
+não: sem baixar, a tela fica em branco. A área salva cobre só o selecionado;
+se a rota sair dela, a navegação para. Alguns aplicativos não traçam rota a
+pé offline nem mostram trânsito ou desvios. Downloads expiram: atualize.
+Se o mapa não abrir no teste, use o mapa de papel e peça ajuda.
+
+SE NAO TIVER
+------------
+Sem aplicativo com download, use mapa de papel e bússola.
+Sem Wi-Fi, baixe em qualquer conexão estável antes de sair.
+Sem bateria externa, desligue o GPS quando não estiver navegando.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Com Wi-Fi e dados desligados, o mapa salvo abre e mostra ruas e setas.
+
+FONTES
+------
+Prática consolidada de preparação: Ready.gov e FEMA (kit com mapas locais);
+documentação de mapas offline de Google e Apple; projeto OpenStreetMap.

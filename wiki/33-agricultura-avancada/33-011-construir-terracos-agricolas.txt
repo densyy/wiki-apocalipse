@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 33-011
+TITULO: Como construir terraços agrícolas
+CATEGORIA: 33 - Agricultura avançada e autossuficiência rural
+TEMPO: 180 minutos
+RISCO: medio
+EXIGE: encosta estável, pá, enxada, pedras, nível de mangueira
+REVISAO: 2026-11
+PALAVRAS-CHAVE: terraço, degraus, encosta, erosão, curva de nível, drenagem
+==============================================================================
+
+OBJETIVO
+--------
+Construir degraus nivelados na encosta para frear a chuva e reter o solo.
+
+QUANDO USAR
+-----------
+Quando a chuva escorre rápido e forma sulcos ou ravinas na encosta.
+Quando a encosta perde terra fértil e nutrientes a cada chuva.
+Quando se quer cultivar em terreno de declividade moderada.
+
+NAO USE QUANDO
+--------------
+Em encosta com rachaduras, árvores inclinadas ou nascentes: pode deslizar.
+Em declividade muito alta ou solo instável, sem projeto técnico.
+Em canal de água ativo: desvie a água antes de construir.
+
+MATERIAIS
+---------
+- Pá, enxada e cavadeira (ou picareta).
+- Pedras ou terra firme para o muro de contenção.
+- Nível de mangueira (ou nível de bolha preso a uma ripa reta).
+- Estacas, barbante, soquete e capim ou palha para cobrir o talude.
+
+PROCEDIMENTO
+------------
+1. Escolha encosta moderada, sem rachaduras, e trabalhe do topo para baixo.
+2. Marque a primeira curva de nível seguindo o contorno da encosta.
+3. Com o nível de mangueira, mantenha a marca na mesma altura.
+4. Confirme com estacas e barbante a linha nivelada do início ao fim.
+5. Cave o sulco de fundação com aproximadamente 30 cm de profundidade.
+6. Assente pedras ou terra firme no sulco para formar o muro de contenção.
+7. Retire terra da parte alta e deposite atrás do muro, nivelando o degrau.
+8. Compacte a terra em camadas com soquete, do muro para trás.
+9. Cubra o talude com capim ou palha para reduzir erosão.
+10. Abra um canal lateral para conduzir o excesso de água com segurança.
+11. Repita a marcação e a construção nas faixas seguintes, encosta abaixo.
+
+ATENCAO
+-------
+Um terraço mal feito desmorona e pode soterrar quem estiver abaixo.
+Nunca escave a base da encosta: isso retira o suporte e causa deslizamento.
+Não trabalhe com chuva forte: solo encharcado escorrega e o muro cede.
+Medidas aproximadas: encostas íngremes ou grandes exigem projeto técnico.
+Use luvas e calçados firmes: pedras cortam e a pá pode ferir os pés.
+
+SE NAO TIVER
+------------
+Sem pedras, use terra firme compactada ou sacos de areia no sulco.
+Sem mangueira, improvise um nível de bolha preso a uma ripa reta.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os degraus ficam nivelados e retêm terra e água após a chuva.
+A água escorre pelo canal lateral, sem cortar o muro nem formar ravinas.
+
+FONTES
+------
+- Embrapa: terraceamento, curvas de nível e conservação de solo em encostas.
+- USDA NRCS: terraços, drenagem e estabilização de encostas.

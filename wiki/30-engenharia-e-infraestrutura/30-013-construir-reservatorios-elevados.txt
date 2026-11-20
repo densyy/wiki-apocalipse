@@ -1,0 +1,94 @@
+==============================================================================
+CODIGO: 30-013
+TITULO: Como construir reservatórios elevados
+CATEGORIA: 30 - Engenharia e infraestrutura básica
+TEMPO: 180 minutos
+RISCO: alto
+EXIGE: tanque com tampa, postes, travamento, nível, ajuda de outra pessoa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: reservatório, caixa d'água, gravidade, apoio, tampa, água
+==============================================================================
+
+OBJETIVO
+--------
+Ter um tanque elevado e estável que distribui água por gravidade.
+
+QUANDO USAR
+-----------
+Quando a água precisa chegar à torneira sem bomba.
+Quando a fonte fica mais baixa que o ponto de consumo.
+Quando o solo não permite enterrar o tanque.
+Quando se quer reserva para a noite ou para dias sem chuva.
+
+NAO USE QUANDO
+--------------
+Não construa sobre solo mole, aterro solto ou encosta sem contenção.
+Não erga tanque maior do que o apoio e a equipe conseguem controlar.
+Não monte onde vento forte possa derrubar a estrutura sem ancoragem.
+
+MATERIAIS
+---------
+- Tanque de plástico ou metal com tampa (barril de 200 L higienizado).
+- Quatro postes de madeira tratada ou tubos metálicos para apoio.
+- Travessas e travamento diagonal (ripas de madeira ou tubos).
+- Pregos, parafusos ou arame forte (cabo de aço, se houver).
+- Nível de bolha ou mangueira transparente com água para nivelar.
+- Pá, enxada, trena e torneira com arruela de vedação.
+- Duas ou mais pessoas para ajudar a erguer e encher.
+
+PROCEDIMENTO
+------------
+1. Escolha terreno firme e plano, mais alto que o ponto de consumo.
+2. Calcule a carga: cada litro de água pesa aproximadamente 1 kg.
+3. Some o peso da água, do tanque e do apoio antes de decidir o tamanho.
+4. Saiba que cada metro de altura dá aproximadamente 0,1 bar de pressão.
+5. Marque no solo os quatro pontos dos postes com estacas.
+6. Cave buracos de aproximadamente 50 cm e faça base de pedra ou tijolo.
+7. Enterre os postes e aperte a terra ao redor com a pá.
+8. Una os postes com travessas na altura prevista para o tanque.
+9. Prenda travamento diagonal em X entre os postes de cada lado.
+10. Confira o nível com o nível de bolha ou a mangueira d'água.
+11. Coloque o tanque vazio sobre as travessas e prenda com arame.
+12. Instale a torneira na saída inferior e aperte a arruela de vedação.
+13. Ligue a mangueira ou tubo da torneira até o ponto de uso.
+14. Tampe o tanque com tampa firme contra insetos, poeira e animais.
+15. Encha com água limpa aos poucos e observe o apoio a cada quarto cheio.
+16. Pare o enchimento se o apoio balançar, afundar ou ranger.
+
+ATENCAO
+-------
+Água pesa aproximadamente 1 kg por litro: 1.000 L são cerca de 1 tonelada.
+Nunca suba no apoio com o tanque cheio.
+Uma queda ou o colapso do apoio pode causar lesão grave ou morte.
+O travamento diagonal impede que o apoio entorte; não o omita.
+Vento forte derruba tanque vazio: ancore antes de encher.
+Tampa aberta deixa entrar mosquito, poeira e fezes de animais.
+Se o solo ceder ou a madeira ranger, esvazie e reconstrua antes de usar.
+Não use tanque que teve óleo, tinta, agrotóxico ou combustível.
+Mantenha fogo e solda longe do tanque de plástico e da madeira seca.
+Trate a água antes de beber (veja 01-001); a tampa não purifica.
+
+SE NAO TIVER
+------------
+Sem postes de madeira, use tubos de aço; nunca use madeira podre.
+Sem nível, use mangueira transparente com água: as pontas igualam a altura.
+Sem torneira, desvie a água por mangueira presa, mas feche bem a saída.
+Sem ajuda, não erga o tanque sozinho: chame duas pessoas ou desista.
+Se nada do que existe sustentar o peso, use apoio rente ao chão.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O tanque cheio não balança nem range quando empurrado com a mão.
+A torneira jorra água com pressão constante.
+O nível da água cai de forma uniforme durante o uso.
+Não há vazamento na saída nem afundamento dos postes no solo.
+A água fica limpa, sem insetos nem material flutuante na superfície.
+
+FONTES
+------
+Prática consolidada de engenharia básica e armazenamento seguro de água.
+Water Measurement Manual, do U.S. Bureau of Reclamation.
+USGS Water Science School: densidade da água, cerca de 1 kg por litro.
+OMS: ficha sobre água potável; recomenda tampar os recipientes de água.
+Relação pressão-altura vem da física básica e é aproximada.
+Resumo operacional; não substitui projeto de engenheiro para tanque grande.

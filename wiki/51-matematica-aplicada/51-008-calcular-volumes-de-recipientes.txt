@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 51-008
+TITULO: Como calcular volumes de recipientes
+CATEGORIA: 51 - Matemática aplicada à sobrevivência
+TEMPO: 15 minutos
+RISCO: baixo
+EXIGE: fita métrica, papel, lápis, calculadora
+REVISAO: 2026-11
+PALAVRAS-CHAVE: volume, litros, medir, caixa, barril, raio, tanque
+==============================================================================
+
+OBJETIVO
+--------
+Calcular quantos litros cabem em caixa, barril ou tanque.
+
+QUANDO USAR
+-----------
+Quando precisar saber a capacidade de um tanque ou reservatório de água.
+Quando for comparar dois recipientes antes de escolher o maior.
+Para planejar quantos litros guardar para os dias de crise.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Fita métrica ou trena (cordão com nós para medidas curtas).
+- Papel e lápis para anotar as medidas.
+- Calculadora (ou papel para fazer a conta à mão).
+- Balde ou garrafa de um litro para conferir (opcional).
+
+PROCEDIMENTO
+------------
+1. Escolha a fórmula pelo formato: caixa ou cilindro.
+2. Meça sempre por dentro, nunca pelas paredes de fora.
+3. Para caixa, meça comprimento, largura e altura em centímetros.
+4. Multiplique comprimento por largura e esse resultado pela altura.
+5. Para cilindro, meça o diâmetro interno e a altura em centímetros.
+6. Divida o diâmetro por dois para obter o raio.
+7. Multiplique 3,14 pelo raio, de novo pelo raio e pela altura.
+8. Se não alcançar o centro, meça a volta e divida por 6,28.
+9. Divida o total de centímetros cúbicos por mil para obter litros.
+10. Anote o resultado e identifique o recipiente medido.
+
+ATENCAO
+-------
+Meça por dentro: a parede ocupa espaço e o volume de fora engana.
+Fundo curvado ou saliências internas reduzem o volume real.
+O número pi foi arredondado para 3,14, então o resultado é aproximado.
+Um erro no raio atrapalha muito, pois ele entra ao quadrado ou ao cubo.
+Use centímetros para obter centímetros cúbicos e converta só no fim.
+Um litro vale mil centímetros cúbicos; um metro cúbico vale mil litros.
+Se o recipiente mistura formatos, some o volume de cada parte.
+
+SE NAO TIVER
+------------
+Sem trena, meça com cordão e depois meça o cordão com uma régua.
+Para forma irregular, encha com água e conte baldes de um litro.
+Para medir a volta sem alcançar o centro, use cordão ou fita de pano.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A conta termina em litros e usa medidas feitas por dentro.
+O resultado fica perto dos baldes de um litro que enchem o recipiente.
+
+FONTES
+------
+Geometria consolidada: volume de caixa e cilindro.
+Conferência por enchimento com balde de um litro, prática de medição.

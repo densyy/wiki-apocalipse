@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 66-012
+TITULO: Como fabricar engrenagens de precisão
+CATEGORIA: 66 - Mecânica de precisão e instrumentos
+TEMPO: 4 horas
+RISCO: alto
+EXIGE: torno ou fresadora, cabeça divisora, cortador, paquímetro, óculos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: engrenagem, dente, módulo, passo, cortador, folga
+==============================================================================
+
+OBJETIVO
+---------
+Cortar uma roda dentada com dentes iguais e que engrene sem travar.
+
+QUANDO USAR
+-----------
+Quando uma engrenagem quebrada precisa de substituta e não há outra.
+Quando se monta um mecanismo de relógio ou de transmissão manual.
+Quando o movimento deve ser regular e sem perda de giros.
+Quando se quer repetir várias rodas iguais com o mesmo passo.
+
+NAO USE QUANDO
+--------------
+Quando não houver máquina estável para girar o cortador sem tremer.
+Quando a peça for suportar grande torque e não houver como temperar.
+Quando não houver óculos ou proteção contra cavacos de metal.
+Quando o erro aceitável for menor do que a máquina consegue medir.
+
+MATERIAIS
+---------
+- Disco de aço ou latão para a roda, sem rachaduras (branco de torno).
+- Torno ou fresadora com eixo firme e sem folga.
+- Cabeça divisora com placa de furos (ou disco divisor improvisado).
+- Cortador de engrenagem do número de dentes da peça.
+- Paquímetro ou micrômetro para medir diâmetro.
+- Régua, transferidor e riscador para marcar.
+- Óleo de corte ou sabão para lubrificar o corte.
+- Óculos de proteção e luvas de raspa para manusear a peça.
+- Pasta de polir ou pedra de afiar para o acabamento.
+
+PROCEDIMENTO
+------------
+1. Escolha o módulo da engrenagem. Meça o diâmetro externo da peça antiga.
+2. Conte os dentes da peça antiga e anote esse número.
+3. Calcule o diâmetro externo: módulo vezes (número de dentes mais dois).
+4. Torne o disco até esse diâmetro, com a face plana e sem rebarbas.
+5. Fure o centro no torno, sem retirar a peça, para manter a concentração.
+6. Fixe a cabeça divisora na mesa e alinhe o eixo com o cortador.
+7. Escolha o cortador cuja faixa de dentes inclua o número da peça.
+8. Monte o cortador no eixo e aperte bem, com a face perpendicular.
+9. Ajuste a altura do cortador até a ponta tocar a circunferência do disco.
+10. Se a cabeça for de 40 para 1, gire 40 dividido pelo número de dentes.
+11. Use a placa de furos para acertar a fração de volta entre os dentes.
+12. Corte um dente com avanço curto e lubrificação constante.
+13. Recue o cortador, gire a cabeça um passo e corte o dente seguinte.
+14. Repita até fechar a volta completa e confira o último dente.
+15. Retire rebarbas com lima fina, sem tocar nas faces do dente.
+16. Esfregue pasta de polir nas faces e gire a roda com a contraparte.
+
+ATENCAO
+-------
+O cortador gira em alta velocidade e cava fundo; um deslize corta dedos.
+Nunca segure a peça com a mão: use morsa, placa ou braçadeira firme.
+Use óculos: cavacos de aço voam e ferem os olhos sem aviso.
+Não use luvas frouxas, mangas largas nem cabelo solto perto do eixo.
+Desligue a máquina antes de medir, trocar cortador ou limpar cavacos.
+Corte em passes curtos: forçar o avanço quebra o cortador e a peça.
+Se o cortador aquecer e mudar de cor, pare e deixe esfriar.
+Dentes desiguais travam a engrenagem e quebram o dente mais fraco.
+Sem medição, o que parece certo pode ter erro de décimos de milímetro.
+
+SE NAO TIVER
+------------
+Sem cabeça divisora, use um disco com furos iguais preso ao eixo.
+Sem cortador específico, use lima e molde, mas a precisão cai muito.
+Sem paquímetro, compare com a peça antiga sobreposta, mas meça depois.
+Sem torno, faça o disco com serra e lima e aceite menor precisão.
+Sem óleo de corte, use sabão com água e renove a lubrificação.
+Sem poder temperar, use latão ou aço macio para cargas leves.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Todos os dentes têm a mesma altura e o mesmo espaçamento.
+A roda gira sem balanço e sem raspão no eixo.
+A engrenagem contrária entra em cada vão sem folga excessiva.
+A marca de tinta passa uniformemente nas faces de todos os dentes.
+
+FONTES
+------
+Prática consolidada de mecânica de precisão e relojoaria,
+complementada por literatura de engenharia de manufatura e
+pela família de normas AGMA de terminologia e qualidade de
+engrenagens. Este texto é resumo operacional, não substitui
+treinamento nem a medição da peça real.

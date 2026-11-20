@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 13-013
+TITULO: Como medir o pH de uma solução
+CATEGORIA: 13 - Química e conhecimentos científicos aplicados
+TEMPO: 25 minutos
+RISCO: alto
+EXIGE: phmetro com eletrodo, tampões pH 4 e 7, água destilada, luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ph, acidez, alcalino, phmetro, fita, tampão, solução, medir
+==============================================================================
+
+OBJETIVO
+--------
+Meça o pH (grau de acidez, de 0 a 14) de uma solução aquosa (com água)
+e diga se ela é ácida, neutra ou alcalina.
+
+QUANDO USAR
+-----------
+Quando precisar saber se um líquido é ácido, neutro ou alcalino.
+Quando for preparar solução de limpeza ou desinfetante diluído.
+Quando monitorar água de aquário, hidroponia ou reservatório.
+Quando suspeitar que produto químico armazenado mudou de propriedade.
+Quando for classificar resíduo líquido antes de descartá-lo.
+
+NAO USE QUANDO
+--------------
+Quando a substância não tem água, como óleo ou álcool puro: pH só
+existe em solução aquosa.
+Quando o líquido estiver quente ou fumegando: espere esfriar.
+Quando o líquido for desconhecido e faltarem luvas e óculos.
+Quando a fita ou o tampão estiver vencido ou fora da validade.
+
+MATERIAIS
+---------
+- phmetro com eletrodo de vidro e pilhas (ou fita indicadora).
+- Soluções tampão de pH 4, 7 e 10 dentro da validade.
+- Água destilada ou deionizada para enxaguar o eletrodo.
+- Copo limpo de plástico ou vidro para a amostra.
+- Luvas de nitrilo e óculos de proteção.
+- Papel toalha para secar o eletrodo sem esfregar.
+- Caderno e lápis para anotar o valor e a temperatura.
+
+PROCEDIMENTO
+------------
+1. Coloque luvas e óculos antes de abrir qualquer frasco.
+2. Trabalhe em local ventilado, sobre superfície plana e limpa.
+3. Tire a tampa de proteção do eletrodo e guarde-a com o líquido
+   de conservação.
+4. Ligue o phmetro e espere o aparelho estabilizar por alguns minutos.
+5. Despeje um pouco de cada tampão (solução de pH conhecido) em
+   copos limpos e separados.
+6. Enxágue o eletrodo com água destilada e seque sem esfregar.
+7. Mergulhe o eletrodo no tampão de pH 7 e mexa devagar.
+8. Espere o número parar de mudar e ajuste o aparelho para 7,00.
+9. Enxágue e seque o eletrodo de novo.
+10. Mergulhe no tampão de pH 4 ou 10, o mais próximo do esperado.
+11. Espere estabilizar e ajuste para o valor impresso no frasco.
+12. Enxágue e seque o eletrodo uma última vez.
+13. Despeje a amostra no copo até cobrir a ponta do eletrodo.
+14. Mergulhe o eletrodo na amostra sem encostar no fundo do copo.
+15. Não mexa a amostra enquanto o aparelho lê.
+16. Espere o número parar de mudar por aproximadamente 30 segundos.
+17. Anote o pH e a temperatura da amostra no caderno.
+18. Enxágue o eletrodo, seque e guarde na solução de conservação.
+
+ATENCAO
+-------
+Ácidos e bases fortes queimam pele e olhos: nunca prove nem cheire
+diretamente. Nunca misture produtos de limpeza para testar pH: pode
+liberar gás tóxico. A cor e a turbidez enganam a fita, que dá só uma
+faixa aproximada. O pH não diz se a água é potável: não substitui
+filtragem, fervura ou exame microbiano. Tampão vencido ou reutilizado
+invalida a calibração: descarte depois de usar. Se o eletrodo estiver
+rachado ou a leitura oscilar sem parar, pare e troque o eletrodo. Se
+houver respingo nos olhos ou na pele, lave com água corrente por
+aproximadamente 15 minutos e procure ajuda.
+
+SE NAO TIVER
+------------
+Sem phmetro, use fita indicadora: mergulhe por um segundo, retire e
+compare a cor com a escala da embalagem. Ela dá só faixa aproximada.
+Sem tampão dentro da validade, não calibre e não confie no phmetro.
+Sem água destilada, enxágue com água de beber e registre a perda de
+precisão. Sem luvas nem óculos, não abra frasco de ácido ou base.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O phmetro repete o mesmo número em duas leituras da mesma amostra.
+O valor fica entre 0 e 14.
+Ao medir de novo o tampão de pH 7, o aparelho marca aproximadamente 7.
+A fita muda de cor de forma uniforme e a cor bate com a escala.
+
+FONTES
+------
+Procedimento de calibração de phmetros EQ-01-09 da Agência de Proteção
+Ambiental dos Estados Unidos (EPA); capítulo A6.4 "Measurement of pH" e
+página "pH and Water" do Serviço Geológico dos Estados Unidos (USGS);
+materiais de referência de pH do Instituto Nacional de Padrões e
+Tecnologia dos Estados Unidos (NIST).

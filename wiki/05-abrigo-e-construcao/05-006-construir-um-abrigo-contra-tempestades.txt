@@ -1,0 +1,83 @@
+==============================================================================
+CODIGO: 05-006
+TITULO: Como construir um abrigo contra tempestades
+CATEGORIA: 05 - Abrigo, construção e habitação
+TEMPO: 2 horas
+RISCO: alto
+EXIGE: local alto e firme, madeira, corda, lona e ferramenta de corte
+REVISAO: 2026-11
+PALAVRAS-CHAVE: abrigo, tempestade, vento, chuva, vendaval, temporal
+==============================================================================
+
+OBJETIVO
+--------
+Montar um abrigo baixo e firme que protege do vento e da chuva forte.
+
+QUANDO USAR
+-----------
+Quando houver aviso de tempestade, vendaval ou chuva forte.
+Quando o abrigo atual for alto, aberto ou instavel demais.
+Quando for preciso proteger pessoas e mantimentos por algumas horas.
+Quando houver tempo e material para reforcar antes da tempestade.
+
+NAO USE QUANDO
+--------------
+Em area de enchente, margem de rio ou baixada que alaga.
+Sob arvore isolada, alta ou com galhos mortos e rachados.
+Em encosta instavel com risco de deslizamento ou queda de pedra.
+Durante raios proximos, fora do abrigo: agache longe de metal.
+
+MATERIAIS
+---------
+- Lona plastica grande e resistente ou tecido impermeavel (saco).
+- Cordas fortes ou tiras de tecido torcido para amarrar.
+- Estacas de madeira firme para fixar a estrutura no solo.
+- Madeira, bambu ou varas para a armação baixa do abrigo.
+- Pedras pesadas para prender as bordas contra o vento.
+- Pa ou enxada para cavar vala de drenagem (facão).
+
+PROCEDIMENTO
+------------
+1. Escolha terreno alto, plano e firme, longe de agua acumulada.
+2. Afaste-se de arvores isoladas, muros altos e fios caidos.
+3. Corte varas firmes de aproximadamente 2 metros de comprimento.
+4. Monte uma armação baixa em triangulo, com o fundo contra o vento.
+5. Enterre as bases das varas em aproximadamente 20 cm no solo.
+6. Amarre cada cruzamento com corda firme e no duplo.
+7. Cubra a armação com a lona bem esticada, sem folga.
+8. Prenda as bordas da lona com estacas e pedras pesadas.
+9. Reforce a face do vento com camada dupla de lona ou galhos.
+10. Cave uma vala rasa de aproximadamente 15 cm ao redor.
+11. Abra uma saida para a agua escoar para o ponto mais baixo.
+12. Guarde dentro apenas o essencial, longe das paredes de lona.
+13. Sente-se baixo no centro e aguarde a tempestade passar.
+
+ATENCAO
+-------
+Estrutura alta vira vela no vento e pode voar ou quebrar.
+Lona frouxa bate, rasga e derruba a armação em rajada forte.
+Raios matam: metal, arvore isolada e campo aberto atraem descarga.
+Agua corrente de aproximadamente 30 cm derruba um adulto.
+Nunca atravesse enxurrada para salvar material ou voltar ao abrigo.
+Se a estrutura ranger ou mover, saia antes que ela desabe.
+Se houver cheiro de terra mexida, saia: pode ser deslizamento.
+
+SE NAO TIVER
+------------
+Sem lona, use camadas de galhos, folhas e terra sobre a armação.
+Sem corda, amarre com cipó verde, tira de pano ou raiz fina.
+Sem estacas, prenda as bordas com pedras grandes e troncos.
+Sem pa, abra a vala com facão, madeira dura ou lata velha.
+Sem madeira, use muro baixo ou veiculo como quebra-vento lateral.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A armação fica firme e não balança quando empurrada com força.
+A lona estica sem folga e a chuva escorre sem formar bolsa.
+A vala leva a agua para fora e o chão interno fica seco.
+
+FONTES
+------
+Orientações da FEMA para proteção contra tempestades severas;
+orientações da Defesa Civil brasileira para ventos fortes e chuvas
+intensas; prática consolidada de construção de abrigos improvisados.

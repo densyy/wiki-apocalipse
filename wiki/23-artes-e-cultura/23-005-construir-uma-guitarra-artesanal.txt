@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 23-005
+TITULO: Como construir uma guitarra artesanal
+CATEGORIA: 23 - Artes, cultura e preservação da civilização
+TEMPO: 360 minutos
+RISCO: baixo
+EXIGE: madeira seca, cola, cordas de nylon, serra, formão, lixa, grampos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: guitarra, violão, luthieria, madeira, cordas, ofício
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma guitarra manual simples com corpo, braço, cordas e cola.
+
+QUANDO USAR
+-----------
+Quando há madeira seca, cola e cordas e não há instrumento para tocar.
+Quando se quer manter o ofício e criar música com as próprias mãos.
+
+NAO USE QUANDO
+--------------
+Quando não há espaço seco e ventilado para colar e lixar.
+Quando a madeira está empenada ou é preciso tocar em poucas horas.
+
+MATERIAIS
+---------
+- Tampo: tábua leve e seca, sem nós (pinho ou cedro).
+- Fundo, laterais e braço: tábuas duras e secas (mogno ou madeira local).
+- Escala e cabeça: tábua fina, lisa e reta (pau-rosa ou madeira dura).
+- Cola de madeira (cola animal ou cola branca) e cordas de nylon.
+- Régua, lápis, serra, formão, lixa, grampos e pano limpo.
+
+PROCEDIMENTO
+------------
+1. Escolha tábuas secas, retas e sem rachaduras.
+2. Desenhe o corpo com lápis, usando um molde de papel.
+3. Serre o tampo, o fundo e as laterais seguindo o desenho.
+4. Lixe as bordas até encostarem sem folga.
+5. Aplique cola no fundo e nas laterais e prenda com grampos.
+6. Espere a cola secar pelo tempo indicado na embalagem.
+7. Cole o tampo nas laterais e mantenha os grampos até secar.
+8. Recorte o braço com comprimento aproximado de 65 cm.
+9. Cole a escala no braço e lixe até ficar lisa.
+10. Marque o nut no fim do braço e fixe a ponte no tampo.
+11. Prenda seis cordas na cabeça, passe pela ponte e estique aos poucos.
+12. Afine e pare se a madeira ceder; lixe os cantos e limpe a cola.
+
+ATENCAO
+-------
+Ferramentas cortantes dão cortes profundos: corte apoiado e longe do corpo.
+Cola e solventes irritam olhos e pele: use luvas e ventile o local.
+Corda tensionada pode estourar e ferir o rosto: nunca estire demais.
+Não tensione antes de a cola secar; se rachar, alivie e reforce a junta.
+
+SE NAO TIVER
+------------
+Sem grampos, amarre as juntas com corda ou pressione com pedras limpas.
+Sem cola de madeira, use cola branca; evite cola quente, que cede.
+Sem cordas de nylon, não use arame: ele corta os dedos e enferruja.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As juntas não têm folga e a cola secou firme.
+Ao afinar, cada corda mantém o tom e a madeira não cede.
+
+FONTES
+------
+Prática consolidada de luthieria e marcenaria, sem documento único.
+Tempos e medidas aproximados; sem fonte institucional única confirmada.

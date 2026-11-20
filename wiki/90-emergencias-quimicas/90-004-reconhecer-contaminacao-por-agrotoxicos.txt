@@ -1,0 +1,80 @@
+==============================================================================
+CODIGO: 90-004
+TITULO: Como reconhecer contaminação por agrotóxicos
+CATEGORIA: 90 - Emergências químicas, industriais e ambientais
+TEMPO: 20 minutos
+RISCO: alto
+EXIGE: luvas de nitrilo, máscara, água corrente e sabão neutro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: agrotóxico, veneno, contaminação, sintoma, lavagem, pele
+==============================================================================
+
+OBJETIVO
+---------
+Reconhecer sinais de exposição a agrotóxicos e agir cedo.
+
+QUANDO USAR
+-----------
+Após trabalho na lavoura com pulverização recente.
+Quando alguém tiver tontura, náusea ou suor excessivo após contato.
+Ao notar cheiro químico forte em roupa, pele ou alimentos.
+Depois de derramamento de calda ou de embalagem vazia sem cuidado.
+Quando criança ou animal tiver contato com área pulverizada.
+
+NAO USE QUANDO
+--------------
+Não espere aparecerem sintomas para lavar a pele exposta.
+Não tente neutralizar o veneno com outro produto caseiro.
+Não reentre na área pulverizada sem proteção para socorrer alguém.
+
+MATERIAIS
+---------
+- Luvas de nitrilo ou borracha (luvas de algodão não protegem).
+- Máscara com filtro para vapores químicos (pano úmido só em emergência).
+- Água corrente em abundância e sabão neutro.
+- Saco ou recipiente para guardar a roupa contaminada.
+- Caderno para anotar hora, produto e sintomas observados.
+
+PROCEDIMENTO
+------------
+1. Afaste a pessoa da área pulverizada para local arejado.
+2. Não toque a pele contaminada sem luvas.
+3. Retire roupa, chapéu e calçados contaminados sem sacudir.
+4. Coloque a roupa em saco separado, sem lavar junto com outras peças.
+5. Lave a pele e o cabelo com água corrente e sabão por 15 minutos.
+6. Enxágue bem os olhos com água corrente se houver ardência.
+7. Não esfregue com força para não ferir a pele.
+8. Anote o nome do produto, o rótulo e a hora da exposição.
+9. Observe tontura, náusea, vômito, suor, tremor ou saliva excessiva.
+10. Procure atendimento médico mesmo que os sintomas melhorem.
+11. Leve o rótulo ou a embalagem ao serviço de saúde.
+
+ATENCAO
+-------
+Agrotóxico absorve pela pele, pelos olhos e pela respiração.
+Sintomas podem demorar horas; a ausência deles não prova segurança.
+Tontura, falta de ar, tremor ou convulsão exigem atendimento imediato.
+Nunca dê leite, álcool ou remédio caseiro para neutralizar o veneno.
+Não provoque vômito se a pessoa estiver sonolenta ou confusa.
+Crianças, gestantes e animais são mais sensíveis: priorize-os.
+Suor e saliva excessivos podem indicar intoxicação por organofosforado.
+
+SE NAO TIVER
+------------
+Sem água corrente, use água limpa em abundância e sabão, nunca solvente.
+Sem máscara própria, vá para área arejada e mantenha distância da fonte.
+Sem saco, embrulhe a roupa em papel ou pano e lave as mãos depois.
+Sem identificar o produto, leve a embalagem, o rótulo ou uma amostra.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A pele foi lavada por 15 minutos e a roupa ficou separada.
+Os sinais foram anotados com hora e produto provável.
+A pessoa foi encaminhada para avaliação médica.
+
+FONTES
+------
+Resumo operacional de práticas de segurança com agrotóxicos difundidas por
+órgãos oficiais brasileiros de saúde e agricultura e por manuais de
+primeiros socorros em intoxicação. A lavagem da pele e a remoção da roupa
+são condutas consolidadas em protocolos de atenção a intoxicações.

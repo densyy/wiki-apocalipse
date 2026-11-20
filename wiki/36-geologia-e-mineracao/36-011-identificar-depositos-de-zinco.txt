@@ -1,0 +1,84 @@
+==============================================================================
+CODIGO: 36-011
+TITULO: Como identificar depósitos de zinco
+CATEGORIA: 36 - Geologia, mineração e recursos naturais
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: botas, luvas, lanterna, martelo, lupa, caderno, saco para amostra
+REVISAO: 2026-11
+PALAVRAS-CHAVE: zinco, esfalerita, smithsonita, calamina, galena, minério
+==============================================================================
+
+OBJETIVO
+---------
+Reconhecer sinais de zinco e separar esfalerita de outras rochas.
+
+QUANDO USAR
+-----------
+Quando houver afloramento escuro e denso em área de mineração.
+Quando aparecerem crostas brancas, amarelas ou verdes na rocha.
+Quando pirita, galena e quartzo ocorrem juntos no afloramento.
+Quando relato antigo citar "calamina" ou "blende" na região.
+
+NAO USE QUANDO
+---------------
+Nao use para decidir lavra ou compra de terra.
+Nao entre em mina, poço ou talude instável para coletar.
+
+MATERIAIS
+---------
+- Botas com sola resistente e luvas de couro.
+- Lanterna ou luz frontal.
+- Martelo de geólogo (ou martelo comum de cabo curto).
+- Lupa de bolso de 5 a 10 vezes (ou lente de aumento).
+- Caderno, lápis e saco de pano ou papel para a amostra.
+- Água e protetor solar.
+
+PROCEDIMENTO
+------------
+1. Avise alguém do destino antes de sair e leve água e lanterna.
+2. Observe a rocha: calcário, dolomito, xisto ou rocha vulcânica.
+3. Procure crostas brancas, amarelas ou verde-maçã na rocha.
+4. Anote cor e brilho: em grãos de uva, em rim ou terrosa.
+5. Teste a dureza com unha e com a ponta do martelo.
+6. Esfregue em porcelana branca e veja a cor do traço.
+7. Compare o peso na mão com pedra comum do mesmo tamanho.
+8. Procure galena cinza-chumbo, pirita e calcita na rocha.
+9. Lupa: quebra plana e regular indica esfalerita.
+10. Colete só fragmentos soltos, aproximadamente 200 g por ponto.
+11. Embrulhe e rotule cada amostra com data, local e número.
+12. Envie a laboratório credenciado ou à rede do SGB.
+
+ATENCAO
+-------
+A cor engana: esfalerita pode ser preta, marrom ou verde.
+Smithsonita e hemimorfita se parecem; ambas sao "calamina".
+Galena tem chumbo: nao moa, nao lixe, nao aspire po.
+Lave as maos depois de manusear amostra.
+Pirita gera ácido com ar e água; nao jogue em fonte.
+Nao entre em galeria ou poço: risco de queda e soterramento.
+Nao use teste quimico com reagente desconhecido.
+Visual nao prova teor; so laboratorio mede zinco e chumbo.
+Pare se houver cheiro de gas, pedra solta ou agua escura.
+
+SE NAO TIVER
+------------
+Sem martelo, use pedra menor, mas nao quebre cristal.
+Sem lupa, use boa luz do dia e compare o peso.
+Sem laboratorio, envie amostra por correio a credenciado.
+Nao funda minério em casa: fumaça tem enxofre e metais.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Brilho resinoso, traço claro, quebra regular e peso maior.
+Etiqueta com número igual ao do caderno em cada amostra.
+Laudo com zinco acima do normal para a rocha da região.
+
+FONTES
+------
+Prática consolidada de identificação visual em campo segundo
+a USGS (National Minerals Information Center; modelos SEDEX,
+MVT e VMS) e o Handbook of Mineralogy.
+Dados minerais tambem no Manual de Mineralogia de Dana.
+No Brasil: Serviço Geológico do Brasil (SGB/CPRM), area de
+Recursos Minerais e Rede LAMIN. Resumo operacional, nao laudo.

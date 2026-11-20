@@ -1,0 +1,82 @@
+==============================================================================
+CODIGO: 42-013
+TITULO: Como reparar rachaduras em cascos
+CATEGORIA: 42 - Engenharia naval e tecnologias marítimas
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: barco em terra, luva, óculos, ventilação, resina epóxi
+REVISAO: 2026-11
+PALAVRAS-CHAVE: casco, rachadura, epóxi, reparo, fibra, vedação, barco
+==============================================================================
+
+OBJETIVO
+--------
+Fechar rachaduras no casco e restaurar a vedação e a rigidez do barco.
+
+QUANDO USAR
+-----------
+Quando há rachadura fina no casco, sem entrada de água.
+Quando o barco bateu em algo e ficou com uma fenda.
+Quando aparece umidade no forro interno após navegar.
+Quando a embarcação vai ficar fora d'água para manutenção.
+
+NAO USE QUANDO
+--------------
+Não use se o barco estiver afundando ou entrando água sem parar.
+Não use se a rachadura atravessa o casco: exige reparo em estaleiro.
+Não use em casco metálico sem produto próprio para metal.
+
+MATERIAIS
+---------
+- Resina epóxi e endurecedor da mesma linha, na proporção do rótulo.
+- Luva de nitrilo ou borracha e óculos de proteção.
+- Raspador ou lixa grossa e fina.
+- Pano limpo e solvente indicado no rótulo para limpeza.
+- Massa epóxi ou fita de fibra de vidro para preencher a fenda.
+- Espátula e palito para misturar sem usar madeira solta.
+- Pincel para aplicar a camada final de vedação.
+
+PROCEDIMENTO
+------------
+1. Coloque a embarcação em terra, seca e apoiada de forma estável.
+2. Retire tinta solta e sujeira ao redor da fenda com o raspador.
+3. Limpe a área com pano e solvente, conforme o rótulo do produto.
+4. Lixe aproximadamente 2 cm de cada lado da fenda, até ficar fosco.
+5. Seque por completo; epóxi não adere em superfície molhada.
+6. Observe a origem: flexão do casco ou umidade presa na junta.
+7. Misture resina e endurecedor na proporção do rótulo, em pouco volume.
+8. Aplique a massa ou a fita de fibra sobre a fenda com a espátula.
+9. Cubra aproximadamente 2 cm além das bordas e pressione para tirar bolhas.
+10. Deixe curar conforme o rótulo; a cura total leva mais de duas semanas.
+11. Lixe o excesso após endurecer e passe uma camada de epóxi selante.
+12. Pinte ou enverniz a área para restaurar a barreira contra umidade.
+
+ATENCAO
+-------
+Endurecedor é corrosivo e sensibilizante: use luva e óculos sem falha.
+Para resina na pele, use limpador sem água; para endurecedor, sabão e água.
+Vapores e pó de lixamento sensibilizam: ventile e use máscara ao lixar.
+Potes grandes de epóxi em cura esquentam e podem pegar fogo: misture pouco.
+Se a rachadura cresce ou entra água, pare: procure um estaleiro.
+Contato nos olhos: lave com água corrente por 15 minutos e procure ajuda.
+Não navegue antes da cura: casco úmido abre a fenda de novo.
+
+SE NAO TIVER
+------------
+Sem epóxi, use massa de reparo para fibra, conforme o rótulo.
+Sem fibra de vidro, pano de algodão reforça a emenda, mas não a substitui.
+Sem luva ou óculos, não comece: o risco de queimadura química é real.
+Sem condição de secar e ventilar, adie o reparo para outro dia.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A rachadura desapareceu sob a massa curada e a superfície ficou lisa.
+Não há bolhas nem bordas soltas ao redor da emenda.
+Ao passar água na área, não aparece umidade nova do lado de dentro.
+
+FONTES
+------
+Manual WEST SYSTEM de restauração e reparo de barcos de madeira,
+da Gougeon Brothers: seções de reparo de rachaduras e de segurança
+com epóxi. Prática consolidada de manutenção de cascos.
+Resumo operacional; não substitui treinamento.

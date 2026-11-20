@@ -1,0 +1,92 @@
+==============================================================================
+CODIGO: 67-020
+TITULO: Como automatizar pequenos processos agrícolas
+CATEGORIA: 67 - Robótica, automação e controle
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: tambor com tampa, mangueira, suporte firme, furador, fita ou arame
+REVISAO: 2026-11
+PALAVRAS-CHAVE: automação, rega, gotejamento, gravidade, pavio, horta, água
+==============================================================================
+
+OBJETIVO
+--------
+Manter uma horta pequena regada por gravidade, sem bomba nem energia.
+
+QUANDO USAR
+-----------
+Quando a horta precisa de água todo dia e não há tempo para regar.
+Quando existe um ponto de água mais alto que o canteiro.
+Quando será preciso sair de casa por alguns dias.
+Quando a água é escassa e todo desperdício precisa ser evitado.
+Em mudas e canteiros rasos que secam depressa.
+
+NAO USE QUANDO
+--------------
+Não use água salgada, com combustível ou com agrotóxico: a rega leva o
+contaminante direto à raiz. Não use se não houver queda de nível entre o
+reservatório e a horta. Sem essa queda, a água não corre.
+
+MATERIAIS
+---------
+- Tambor ou balde com tampa, de 20 a 50 litros (barril ou caixa velha).
+- Suporte firme de tijolos, blocos ou madeira travada (degrau firme).
+- Mangueira ou tubo limpo que caiba no furo (seringa sem agulha).
+- Furador de metal ou prego.
+- Fita adesiva resistente à água ou arame (corda apertada).
+- Palitos finos para regular as gotas.
+- Peneira ou pano limpo para reter folhas e terra.
+
+PROCEDIMENTO
+------------
+1. Escolha o ponto mais alto perto da horta para apoiar o reservatório.
+2. Monte o suporte com tijolos, blocos ou madeira bem travada.
+3. Peça ajuda para erguer o tambor cheio e apoiá-lo no suporte.
+4. Tampe o tambor para manter poeira, folhas e insetos fora.
+5. Fure rente ao fundo com cuidado: o furador pode escorregar.
+6. Encaixe a mangueira no furo até entrar alguns centímetros.
+7. Vede a volta do furo com fita ou arame apertado.
+8. Dobre a ponta da mangueira e prenda: essa dobra serve de torneira.
+9. Estenda a mangueira ao longo da primeira fileira de plantas.
+10. Fure a mangueira a cada 20 a 30 centímetros com o furador.
+11. Coloque um palito dentro de cada furo para deixar a gota mais lenta.
+12. Solte a dobra e deixe a água correr até encher toda a mangueira.
+13. Observe as gotas. Ajuste a altura do tambor ou o número de furos.
+14. Reponha a água quando o nível cair pela metade do tambor.
+
+ATENCAO
+-------
+Um tambor com 50 litros pesa cerca de 50 kg. Nunca o erga sozinho.
+Suporte fraco ou torto pode tombar, molhar a terra e ferir os pés.
+Furo grande demais gasta água e afoga mudas pequenas. Comece pequeno.
+Água parada atrai mosquitos. Mantenha o tambor sempre tampado.
+O sistema apenas conduz água: não a limpa. Use água limpa e sem químico.
+Na chuva, feche a torneira para não encharcar o solo.
+Se a mangueira vazar, feche a torneira e repare antes de continuar.
+
+SE NAO TIVER
+------------
+Sem mangueira, use qualquer tubo limpo ou potes furados em sequência.
+Sem furador, use um prego aquecido. Cuidado com queimadura e fumaça.
+Sem suporte, apoie o reservatório em um degrau firme ou tronco travado.
+Para uma única muda, enterre um pavio de algodão na terra e ponha a
+outra ponta dentro de um copo com água. O pavio sobe água por capilaridade.
+Sem fita, amarre com arame ou corda bem apertada.
+Se só houver água salgada ou poluída, não automatize. Busque outra fonte.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A terra junto às plantas fica úmida e escura, sem poças nem escorrimento.
+Gotas caem em ritmo regular na maioria dos furos.
+O nível do reservatório baixa cerca de um dedo por dia.
+As folhas não murcham no meio do dia.
+
+FONTES
+------
+Prática consolidada de irrigação de pequena escala e automação de baixa
+tecnologia, sem documento único.
+Manual de manejo de água de irrigação da FAO: Brouwer, Goffeau e
+Heibloem, 1985.
+Diretrizes da FAO sobre necessidades hídricas das culturas: Allen, Pereira,
+Raes e Smith, 1998.
+Resumo operacional. Não substitui orientação técnica local.

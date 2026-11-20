@@ -1,0 +1,97 @@
+==============================================================================
+CODIGO: 52-023
+TITULO: Como compreender mudanças de estado físico
+CATEGORIA: 52 - Física aplicada e princípios fundamentais
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: papel, lápis, termômetro, água, recipiente, fonte de calor
+REVISAO: 2026-11
+PALAVRAS-CHAVE: derreter, ferver, mudança de fase, sublimação, calor latente
+==============================================================================
+
+OBJETIVO
+--------
+Identificar mudanças de estado em uma substância e dizer se o processo
+absorve ou libera calor.
+
+QUANDO USAR
+-----------
+Ao derreter gelo para obter água.
+Ao ferver água e notar que a temperatura para de subir.
+Ao ver o orvalho desaparecer com o sol.
+Ao conservar alimentos no gelo ou no freezer.
+Ao sentir o álcool evaporar e esfriar a pele.
+Ao entender por que o suor esfria o corpo.
+
+NAO USE QUANDO
+--------------
+Quando a substância se decompõe antes de mudar de fase: aqui não há
+dados para esse caso.
+Quando a pressão for muito diferente da atmosférica: os pontos de
+fusão e ebulição mudam e os valores aqui não valem.
+Quando a mistura for impura ou for uma solução: a faixa de
+temperatura da mudança se alarga.
+Quando precisar do valor exato de calor latente de um material:
+consulte uma tabela de propriedades em vez de estimar.
+
+MATERIAIS
+---------
+- Papel e lápis para anotar as observações.
+- Água, gelo e um recipiente.
+- Fonte de calor, como fogão ou sol.
+- Termômetro, se quiser medir a temperatura.
+- Noções de leitura de temperatura.
+
+PROCEDIMENTO
+------------
+1. Observe o estado inicial: sólido, líquido ou gasoso.
+2. Aplique calor ou retire calor de modo constante.
+3. Anote a temperatura a cada intervalo curto.
+4. Marque quando o estado começa a mudar.
+5. Continue fornecendo calor sem interromper a medição.
+6. Verifique se a temperatura fica constante na mudança.
+7. Registre o valor em que a mudança acontece.
+8. Repita retirando calor para ver o caminho inverso.
+9. Nomeie a mudança pelo par de estados:
+10. Identifique fusão: sólido vira líquido; o inverso é solidificação.
+11. Identifique vaporização: líquido vira gás; o inverso é condensação.
+12. Identifique sublimação: sólido vira gás; o inverso é deposição.
+13. Diga se o processo absorve ou libera calor no total.
+14. Escreva a conclusão com o nome do processo.
+
+ATENCAO
+-------
+Durante a mudança a temperatura fica constante: não pense que o calor
+parou de agir. Ele está sendo usado na transformação.
+Esse calor escondido chama-se calor latente e não aparece no
+termômetro enquanto a mudança ocorre.
+Não toque vapor ou recipiente quente: queimadura é o erro mais comum.
+Evite ferver em recipiente fechado: a pressão pode causar explosão.
+Não use a temperatura como prova única: impurezas e pressão deslocam
+o ponto de mudança.
+Se aparecer fumaça, cheiro estranho ou combustão, pare e afaste-se.
+
+SE NAO TIVER
+------------
+Sem termômetro, observe só o aspecto: gelo que brilha e vira água,
+bolhas que sobem, orvalho que aparece.
+Sem fonte de calor controlada, use o sol ou o calor das mãos.
+Sem papel, memorize a sequência em voz alta.
+Sem recipiente, use uma tampa limpa.
+Se faltar água, use cera ou manteiga para ver a fusão.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue nomear a mudança pelo par de estados observado.
+A temperatura ficou constante enquanto a fase mudou.
+A previsão de absorver ou liberar calor concorda com o observado.
+O gelo derreteu, a água ferveu ou o vapor condensou como previsto.
+
+FONTES
+------
+Conhecimento estabelecido de termodinâmica, resumido de forma
+operacional. Base consultada: DOE Fundamentals Handbook,
+Thermodynamics, Heat Transfer and Fluid Flow (DOE-HDBK-1012/1-92),
+para calor latente, fusão, vaporização e sublimação; e OpenStax,
+College Physics, capítulo sobre mudança de fase e calor latente.
+Texto resumido, não substitui treinamento.

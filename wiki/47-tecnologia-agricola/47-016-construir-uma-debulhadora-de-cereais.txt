@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 47-016
+TITULO: Como construir uma debulhadora de cereais
+CATEGORIA: 47 - Tecnologia agrícola e mecanização rural
+TEMPO: 180 minutos
+RISCO: alto
+EXIGE: madeira resistente, tambor, barras, manivela ou pedal, lona
+REVISAO: 2026-11
+PALAVRAS-CHAVE: debulha, debulhadora, cereais, grãos, trilha, manivela
+==============================================================================
+
+OBJETIVO
+--------
+Construir uma debulhadora manual para separar grãos de espigas e vagens.
+
+QUANDO USAR
+-----------
+Quando a colheita de cereais for grande para debulhar à mão.
+Quando faltar dinheiro para comprar uma máquina pronta.
+Quando houver madeira, metal e ferramentas básicas no local.
+Quando for preciso separar a palha do grão antes de armazenar.
+
+NAO USE QUANDO
+--------------
+Quando o grão estiver muito úmido: amassa e entope a máquina.
+Quando não houver como prender a máquina a um banco firme.
+Quando não houver ninguém com prática para supervisionar o uso.
+Quando for semente e o projeto não preservar o grão inteiro.
+
+MATERIAIS
+---------
+- Madeira resistente para a estrutura e as ripas do côncavo.
+- Tambor cilíndrico de madeira ou metal com duas tampas.
+- Barras de madeira ou pregos sem ponta para os dentes.
+- Eixo de metal ou madeira dura atravessando o tambor.
+- Manivela de metal ou pedal de madeira para girar o eixo.
+- Parafusos, arruelas e porcas para fixar eixo e ripas.
+- Lona ou pano resistente para recolher os grãos.
+- Peneira ou crivo para limpar o material debulhado.
+- Ferramentas: serra, martelo, chave, broca e lixa.
+
+PROCEDIMENTO
+------------
+1. Escolha um tambor com aproximadamente 30 cm de diâmetro.
+2. Corte o tambor com aproximadamente 40 cm de comprimento.
+3. Fixe duas tampas circulares nas pontas com parafusos.
+4. Passe o eixo pelo centro das tampas e aperte as porcas.
+5. Pregue fileiras de barras ao longo do tambor.
+6. Espace as barras de aproximadamente 5 cm entre si.
+7. Deixe as barras com aproximadamente 2 cm de altura.
+8. Lixe as pontas e as arestas cortantes das barras.
+9. Monte a caixa de madeira sob o tambor.
+10. Forre o fundo com ripas: é o côncavo.
+11. Ajuste a distância entre barras e ripas para aproximadamente 1 cm.
+12. Fixe a manivela ou o pedal no eixo, fora da caixa.
+13. Prenda a máquina a um banco pesado ou a estacas no chão.
+14. Estenda a lona sob a saída da caixa.
+15. Coloque poucas espigas ou vagens sobre o côncavo por vez.
+16. Gire a manivela ou pise o pedal de forma constante.
+17. Peneire o material da lona para tirar palha e pedras.
+
+ATENCAO
+-------
+O tambor em rotação prende dedos, mangas e cabelos.
+Nunca encoste as mãos no tambor com a máquina girando.
+Pare, retire o pedal e espere o tambor parar antes de desobstruir.
+Não use motor elétrico nesta construção: a rede e a umidade matam.
+Use óculos e luvas ao pregar barras e ao lixar madeira ou metal.
+Barras altas demais ou pouco espaço no côncavo quebram o grão.
+Espaço grande demais deixa grão preso na palha.
+Grão com umidade acima de aproximadamente 15% amassa e entope.
+Se a máquina vibrar ou prender material, pare com o eixo parado.
+Nunca deixe crianças perto da máquina em funcionamento.
+
+SE NAO TIVER
+------------
+Sem tambor de metal, use um rolo de madeira dura bem lixado.
+Sem manivela, improvise um pedal com alavanca de madeira no eixo.
+Sem ripas, use uma tábua com pregos rente à superfície e pontas lixadas.
+Sem lona, use pano limpo ou folha de plástico estendida no chão.
+Se não conseguir fixar a máquina, não opere: debulhe à mão com bastão.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O tambor gira livre, sem tocar nas ripas do côncavo.
+As espigas saem sem grãos presos e os grãos caem na lona.
+A maior parte dos grãos fica inteira, sem marcas de esmagamento.
+A máquina fica firme no banco ou nas estacas durante o uso.
+
+FONTES
+------
+Princípios de debulha manual e de tambor com dentes segundo o manual
+pós-colheita da FAO e o banco de conhecimento do IRRI.
+Orientações da Embrapa sobre construção simples, ponto de colheita e
+umidade em debulhadoras de pequeno porte (Circular Técnica 54).
+Resumo operacional; para medidas exatas, siga a publicação da Embrapa.

@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 72-003
+TITULO: Como construir uma luminária de LED de baixo consumo
+CATEGORIA: 72 - Sistemas de iluminação e óptica aplicada
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: LEDs, resistor, fonte DC de baixa tensão, fios, solda, caixa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: luz, led, luminária, bateria, resistor, emergência
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma luminária de LED de baixo consumo, sem rede elétrica.
+
+QUANDO USAR
+-----------
+- Quando não há energia elétrica e é preciso luz para ler ou caminhar.
+- Quando se tem pilhas, bateria ou power bank para aproveitar.
+- Quando é preciso sinalizar ou encontrar objetos à noite.
+- Quando a fonte de luz original queima e é preciso substituto barato.
+
+NAO USE QUANDO
+--------------
+- Nunca ligue a montagem à tomada ou a fonte de alta tensão.
+- Não use se não houver resistor: o LED queima na hora.
+- Não use com bateria inchada, furada ou com vazamento de líquido.
+- Não use perto de gás ou vapores: pode haver faísca nos contatos.
+
+MATERIAIS
+---------
+- LED branco de 5 mm (ou LED de lanterna velha).
+- Resistor de 220 ohm para fonte de 5 V (calcule para outra tensão).
+- Fonte DC de baixa tensão: pilhas, bateria ou power bank (nunca tomada).
+- Fios de cobre isolados e fita isolante.
+- Interruptor simples (ou dois fios que se encostam).
+- Caixa de plástico ou lata pequena com tampa.
+- Papel alumínio para forrar o interior e refletir a luz.
+- Ferro de solda e estanho (ou fita isolante para emendar).
+- Multímetro para medir tensão e corrente (opcional).
+
+PROCEDIMENTO
+------------
+1. Desligue tudo e nunca ligue os fios à tomada.
+2. Escolha a fonte DC: pilhas, bateria ou power bank de baixa tensão.
+3. Meça a tensão da fonte com o multímetro, se tiver.
+4. Calcule o resistor: (tensão da fonte menos 3 V) dividido pela corrente.
+5. Para 5 V e 10 mA, use resistor de aproximadamente 220 ohm.
+6. Identifique o LED: o pino longo é o positivo (ânodo).
+7. Solde uma ponta do resistor no pino longo do LED.
+8. Ligue a outra ponta do resistor ao polo positivo da fonte.
+9. Ligue o pino curto do LED ao polo negativo da fonte.
+10. Coloque o interruptor no fio positivo, antes do resistor.
+11. Isole cada emenda com fita isolante para evitar curto.
+12. Forre o interior da caixa com papel alumínio, brilhante para dentro.
+13. Prenda o LED na frente da caixa, com a luz voltada para fora.
+14. Feche a caixa deixando só a saída de luz e o interruptor expostos.
+15. Feche o interruptor e confira se o LED acende com luz firme.
+
+ATENCAO
+-------
+- Nunca ligue à rede elétrica: a tensão da tomada pode matar.
+- Sem resistor o LED queima na hora em que a corrente passa.
+- LED com os pinos trocados não acende; inverta a ligação.
+- Curto entre fios pode aquecer a bateria e causar fogo.
+- Resistor ou fio quente indica erro: desligue e refaça.
+- Solda quente queima a pele: use suporte e espere esfriar.
+- Luz de LED fraco não substitui iluminação certificada.
+
+SE NAO TIVER
+------------
+- Sem multímetro: use o resistor indicado e confira acendendo fraco.
+- Sem resistor de 220 ohm: some resistores em série até chegar perto.
+- Sem resistor nenhum: não ligue; use LED com resistor interno.
+- Sem interruptor: encoste e afaste dois fios para ligar e desligar.
+- Sem caixa: use uma lata forrada com papel alumínio como refletor.
+- Sem solda: torça os fios e cubra bem com fita isolante.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- O LED acende com luz firme, sem piscar, ao fechar o interruptor.
+- O resistor e os fios ficam frios depois de alguns minutos ligados.
+- A fonte dura horas acesa, mostrando que o consumo é baixo.
+
+FONTES
+------
+Prática consolidada de eletrônica de baixa tensão e montagem de fontes
+de luz de emergência para situações sem energia elétrica. Resumo
+operacional, que não substitui treinamento nem fonte de luz certificada.

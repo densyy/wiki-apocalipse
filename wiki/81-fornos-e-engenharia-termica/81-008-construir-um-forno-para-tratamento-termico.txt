@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 81-008
+TITULO: Como construir um forno para tratamento térmico de metais
+CATEGORIA: 81 - Engenharia térmica e fornos industriais
+TEMPO: 2 dias
+RISCO: alto
+EXIGE: refratários, isolamento, chaminé, termômetro de faixa alta
+REVISAO: 2026-11
+PALAVRAS-CHAVE: tratamento térmico, recozimento, têmpera, dureza, metal
+==============================================================================
+
+OBJETIVO
+--------
+Construir um forno para aquecer metais de forma controlada e uniforme.
+
+QUANDO USAR
+-----------
+Para recozer, normalizar ou aliviar tensões em peças de metal.
+Quando uma peça precisa de dureza e resistência diferentes.
+Para preparar metal antes de forjar ou usinar.
+Quando o aquecimento direto na chama deixa o metal desigual.
+
+NAO USE QUANDO
+--------------
+Não construa sem isolamento e sem controle de temperatura.
+Não trate peças com revestimento tóxico ou resina.
+Não opere sem chaminé e sem local ventilado.
+Não manuseie peça quente sem luva grossa e pinça longa.
+
+MATERIAIS
+---------
+- Tijolos refratários para a câmara interna.
+- Argila refratária e isolamento térmico.
+- Chaminé vedada (duto metálico ou alvenaria).
+- Termômetro de alta faixa ou pirômetro (cones de fusão como apoio).
+- Grelha de metal resistente para apoiar as peças.
+- Pinça longa, luvas grossas e óculos.
+- Balde com óleo ou água para a têmpera, quando prevista.
+- Caderno para anotar temperaturas e tempos.
+
+PROCEDIMENTO
+------------
+1. Escolha local firme, ventilado e afastado de inflamáveis.
+2. Faça base nivelada e deixe curar antes de assentar tijolos.
+3. Projete câmara com entrada de ar regulável e saída de gases.
+4. Assente parede externa e camada de isolamento sem falhas.
+5. Revista a câmara com refratários e juntas finas.
+6. Instale a grelha de apoio das peças bem nivelada.
+7. Instale chaminé alta e vedada.
+8. Deixe a alvenaria secar devagar antes de aquecer.
+9. Faça queima branda para curar a massa.
+10. Coloque as peças limpas na grelha, sem encostar na parede.
+11. Aqueça até a temperatura definida e espere estabilizar.
+12. Mantenha a temperatura o tempo necessário para a peça.
+13. Retire a peça com pinça e execute a têmpera, se prevista.
+14. Observe a cor da peça e registre os tempos de cada etapa.
+15. Deixe o forno esfriar antes de guardar ou limpar.
+
+ATENCAO
+-------
+Metal quente parece frio por alguns segundos: nunca toque para testar.
+Têmpera em óleo pode pegar fogo: tenha tampa e areia por perto.
+Aquecer demais muda a estrutura do metal e estraga a peça.
+Peça com umidade ou óleo pode estourar dentro do forno.
+Fumaça e gases quentes devem sair pela chaminé, nunca para o ambiente.
+Use óculos: o brilho do metal quente prejudica a visão.
+Tratamento mal feito pode quebrar a peça depois, em uso.
+
+SE NAO TIVER
+------------
+Sem termômetro, use cones de fusão ou a cor da peça como estimativa.
+Sem isolamento, o forno gasta muito e aquece desigual: reforce antes.
+Sem pinça e luvas, não retire peça quente de forma nenhuma.
+Sem chaminé, faça o tratamento apenas em área totalmente aberta.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A peça atinge a temperatura desejada e fica com cor uniforme.
+A têmpera ocorre no tempo previsto, sem fogo no óleo.
+Não há pontos frios nem marcas de superaquecimento na peça.
+Os registros permitem repetir o mesmo tratamento depois.
+
+FONTES
+------
+Prática consolidada de tratamento térmico de metais em fornos de oficina,
+sem documento normativo único. Referências correntes de haveamento,
+têmpera, controle de temperatura e segurança em fornos industriais.

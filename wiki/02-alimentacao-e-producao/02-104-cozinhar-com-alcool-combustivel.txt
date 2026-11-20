@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 02-104
+TITULO: Como cozinhar com álcool combustível
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 25 minutos
+RISCO: alto
+EXIGE: fogareiro de álcool, combustível, área externa, fósforo, panela
+REVISAO: 2026-11
+PALAVRAS-CHAVE: álcool, etanol, fogareiro, cozinhar, fogo, monóxido
+==============================================================================
+
+OBJETIVO
+--------
+Aquecer ou cozinhar alimentos com um fogareiro de álcool sem causar
+queimaduras, incêndio ou envenenamento.
+
+QUANDO USAR
+-----------
+Quando não houver gás, energia elétrica ou lenha disponível.
+Quando precisar de fogo pequeno e silencioso para aquecer água ou comida.
+Quando estiver acampado e o regulamento local permitir fogareiro de álcool.
+
+NAO USE QUANDO
+--------------
+Não use dentro de casa, tenda, cabine, carro ou qualquer lugar fechado.
+Não use em dias de vento forte ou onde haja risco de incêndio na mata.
+Não use com gasolina, diesel, querosene ou álcool 70.
+
+MATERIAIS
+---------
+- Fogareiro ou queimador próprio para álcool (ver SE NAO TIVER).
+- Álcool combustível, também chamado etanol, em recipiente fechado.
+- Fósforo ou isqueiro.
+- Panela ou caçarola com alça fria.
+- Terra, areia ou superfície plana e não inflamável para apoiar o fogareiro.
+- Tampa metálica, areia ou extintor para abafar o fogo.
+
+PROCEDIMENTO
+------------
+1. Escolha um local externo, plano, firme e bem ventilado.
+2. Afaste folhas, papel, tecido e plástico que possam pegar fogo.
+3. Apoie o fogareiro sobre terra, areia ou superfície plana e estável.
+4. Abra o recipiente de combustível longe de qualquer chama.
+5. Despeje álcool no depósito do fogareiro até, no máximo, dois terços.
+6. Feche o recipiente de combustível e afaste-o a pelo menos um metro.
+7. Acenda o pavio com fósforo ou isqueiro, mantendo rosto e mãos afastados.
+8. Observe a chama: ela é azul-clara e pode quase não aparecer ao sol.
+9. Coloque a panela sobre o fogareiro quando a chama estiver estável.
+10. Mexa ou vigie a comida sem deixar o fogo sem supervisão.
+11. Nunca incline ou mova o fogareiro com a panela cheia e o fogo aceso.
+12. Para apagar, cubra o queimador com a tampa metálica ou com areia.
+13. Nunca sopre a chama para apagá-la.
+14. Espere o fogareiro esfriar por completo antes de guardar ou reabastecer.
+15. Guarde o álcool em recipiente fechado, identificado e longe de calor.
+
+ATENCAO
+-------
+Nunca use em ambiente fechado: qualquer combustível queimado produz
+monóxido de carbono, gás incolor e sem cheiro que pode matar sem aviso.
+Nunca reabasteça o fogareiro aceso ou quente: o vapor de álcool inflama
+e provoca queimadura grave ou incêndio em segundos.
+A chama é clara e quase invisível na luz do sol; mantenha mãos, cabelos
+e roupas longe mesmo quando parecer que não há fogo.
+Use apenas álcool combustível próprio para fogareiro. Nunca use gasolina,
+diesel, querosene ou álcool 70 nesse equipamento.
+Se sentir dor de cabeça, tontura, náusea, fraqueza ou confusão, apague
+o fogo, vá para o ar livre e procure ajuda médica.
+Mantenha areia, tampa metálica ou extintor por perto. Se o fogo se
+espalhar e você não controlar, afaste-se e peça ajuda.
+Nunca cozinhe deitado no saco de dormir nem bloqueie a saída do local.
+
+SE NAO TIVER
+------------
+Sem fogareiro próprio, improvise um queimador com lata de metal e pavio
+de algodão, apoiado em areia ou terra, sempre do lado de fora e com pouco
+combustível. Nunca use vidro ou plástico como recipiente.
+Sem álcool combustível, não improvise com gasolina, diesel ou álcool 70:
+o substituto é inseguro e não deve ser usado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A chama fica azul-clara e estável sob a panela.
+A água ou a comida esquenta e sobe vapor.
+Ao cobrir o queimador, a chama apaga e não volta a pegar depois de frio.
+
+FONTES
+------
+Centros de Controle e Prevenção de Doenças dos Estados Unidos, CDC:
+orientações sobre envenenamento por monóxido de carbono — gás incolor e
+sem cheiro, sintomas e alerta contra queimar combustível em local fechado.
+British Mountaineering Council, Reino Unido, guia de segurança de
+fogareiros de acampamento: risco de incêndio e de monóxido de carbono em
+fogareiros de combustível líquido, uso apenas em local ventilado e
+verificação da cor da chama. Também prática consolidada de uso de
+fogareiro de álcool em acampamento, sem documento único.

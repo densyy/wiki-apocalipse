@@ -1,0 +1,68 @@
+==============================================================================
+CODIGO: 28-021
+TITULO: Como organizar cadeias de produção locais
+CATEGORIA: 28 - Logística e gestão de recursos
+TEMPO: 60 minutos
+RISCO: baixo
+EXIGE: papel, caneta, lista de necessidades e de produtores da região
+REVISAO: 2026-11
+PALAVRAS-CHAVE: produção local, cadeia, produtor, estoque, troca
+==============================================================================
+
+OBJETIVO
+--------
+Ligar quem produz perto a quem precisa, com menos perda e menos espera.
+
+QUANDO USAR
+-----------
+Quando falta um produto que ainda se produz na região.
+Quando o que vem de fora ficou raro, caro ou demorado.
+Quando há sobra em um lugar e falta em outro.
+
+NAO USE QUANDO
+--------------
+Quando o produto exige frio, esterilização ou controle sanitário
+que o grupo não mantém sem energia. Prefira fonte pronta e confiável.
+
+MATERIAIS
+---------
+- Papel e caneta (ou quadro e giz).
+- Lista do que o grupo consome e em que quantidade.
+- Lista de quem produz, onde e quanto pode entregar.
+- Nomes de quem transporta e de onde guardar.
+
+PROCEDIMENTO
+------------
+1. Liste o que o grupo precisa para os próximos sete dias.
+2. Anote quem produz cada item perto e a que distância.
+3. Marque quantos dias de estoque existem para cada item.
+4. Escolha o item que falta primeiro.
+5. Combine a quantidade e o dia da entrega com o produtor.
+6. Defina quem busca, quem recebe e quem confere a quantidade.
+7. Guarde o item em local seco, limpo e protegido de animais.
+8. Registre quem entregou, quem recebeu e a data de cada entrega.
+
+ATENCAO
+-------
+Um produtor pode prometer mais do que entrega; confirme antes de contar.
+Sem registro, sobras e faltas viram disputa entre vizinhos.
+Não guarde mais do que o grupo usa antes de o produto estragar.
+Produto de origem duvidosa pode causar doença; recuse se houver dúvida.
+Se só uma pessoa transporta, a cadeia para quando ela falta.
+
+SE NAO TIVER
+------------
+Sem lista de produtores, pergunte de porta em porta e anote.
+Sem transporte, concentre a entrega em um ponto alcançável a pé.
+Sem local de guarda, use caixa fechada sobre suporte, longe da umidade.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada item crítico tem produtor, dia de entrega e responsável anotados.
+Os registros mostram quem entregou e quem recebeu em cada rodada.
+
+FONTES
+------
+Prática consolidada de logística e gestão de recursos em situações de
+escassez. Não há documento único para estes passos. Este texto é um
+resumo operacional, não substitui treinamento em suprimentos.

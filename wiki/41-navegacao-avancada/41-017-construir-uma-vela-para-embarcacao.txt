@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 41-017
+TITULO: Como construir uma vela para embarcação
+CATEGORIA: 41 - Navegação avançada e técnicas de expedição
+TEMPO: 180 minutos
+RISCO: medio
+EXIGE: tecido resistente, linha forte, agulha, corda, superfície plana
+REVISAO: 2026-11
+PALAVRAS-CHAVE: vela, barco, costura, lona, navegação, vento, mastro
+==============================================================================
+
+OBJETIVO
+--------
+Confeccionar uma vela plana simples, costurada à mão, para barco pequeno.
+
+QUANDO USAR
+-----------
+Quando a vela original rasgou e não há substituto disponível.
+Quando o barco precisa de vela reserva em vento leve e água calma.
+
+NAO USE QUANDO
+--------------
+Não use em vento forte, mar agitado nem em embarcação grande.
+Pare se o mastro, a verga ou as amarras estiverem danificados.
+
+MATERIAIS
+---------
+- Lona de algodão ou lona sintética (lençóis em várias camadas).
+- Linha de poliéster ou náilon e agulha resistente com dedal.
+- Corda fina para reforçar as bordas e anéis para os cantos.
+- Giz, cordel, régua e superfície plana onde caiba a vela.
+
+PROCEDIMENTO
+------------
+1. Meça a altura e a largura da vela no barco.
+2. Desenhe o formato em tamanho real com giz.
+3. Marque as bordas do mastro, topo, traseira e base.
+4. Acrescente aproximadamente 5 cm em cada borda para a bainha.
+5. Alinhe as fibras do tecido com a borda de maior tração.
+6. Corte um painel por vez com tesoura afiada.
+7. Sobreponha painéis, dobre as bordas e costure duas fileiras.
+8. Costure a bainha e uma corda fina no mastro e na base.
+9. Reforce os cantos com remendos, cada um maior que o anterior.
+10. Costure um anel em cada canto e teste com peso pendurado.
+
+ATENCAO
+-------
+Quase toda a força do vento passa pelos cantos, não pelo centro.
+Cantos fracos rasgam na primeira saída mesmo com pano bom.
+Não use ponto zig-zague único: se ceder, a emenda abre por inteiro.
+Linha de algodão apodrece com umidade; use poliéster ou náilon.
+Nunca navegue com esta vela em vento forte ou mar agitado.
+Se o mastro ou a amarra estiverem danificados, pare e busque ajuda.
+
+SE NAO TIVER
+------------
+Sem lona, costure várias camadas de lençol limpo.
+Sem anéis, faça laços de corda firme costurados em cada canto.
+Sem máquina, costure à mão com pontos curtos e uniformes.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os cantos resistem ao peso do teste sem rasgar nem deformar.
+Ao hastear em vento fraco, a vela fica esticada, sem rugas.
+
+FONTES
+------
+Prática consolidada de costura de velas planas e velas de junk rig.
+Referências: SailSetc, texto de Jack Bowers e Good Old Boat.

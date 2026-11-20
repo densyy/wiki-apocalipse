@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 03-060
+TITULO: Como reconhecer sinais de doenças transmissíveis
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 5 minutos
+RISCO: alto
+EXIGE: boa luz para observar, papel e lápis para anotar
+REVISAO: 2026-11
+PALAVRAS-CHAVE: transmissível, contágio, febre, tosse, manchas, diarreia
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer cedo os sinais de doença que passa de pessoa para pessoa.
+
+QUANDO USAR
+-----------
+Febre que aparece de repente ou que dura mais de três dias.
+Tosse persistente, falta de ar ou dor de garganta em outra pessoa.
+Diarreia ou vômitos em mais de uma pessoa do mesmo lugar.
+Manchas na pele, olhos vermelhos ou pele amarelada.
+Dor de cabeça forte com pescoço rígido ou confusão.
+Sangramento sem causa clara ou febre que cai e a pessoa piora.
+
+NAO USE QUANDO
+--------------
+Este texto não confirma diagnóstico: só um profissional pode fazê-lo.
+Não serve para escolher remédio, dose ou antibiótico.
+Não substitui avaliação médica nem exame laboratorial.
+Não use a lista para dispensar atendimento se a pessoa estiver grave.
+
+MATERIAIS
+---------
+- Boa luz para ver a pele e os olhos (ou lanterna).
+- Papel e lápis para anotar os sinais e o dia de início.
+- Termômetro digital, se houver (ou o dorso da mão para sentir calor).
+- Relógio ou celular para contar os dias desde o início.
+- Luvas descartáveis (ou sacola plástica) se for tocar na pessoa.
+
+PROCEDIMENTO
+------------
+1. Garanta boa luz e peça à pessoa que fique parada.
+2. Pergunte quando os sintomas começaram e anote o dia.
+3. Meça a febre com termômetro, se houver, e anote o valor.
+4. Observe a respiração: tosse, falta de ar, respiração rápida.
+5. Olhe a pele: manchas vermelhas, pontos de sangue ou pele amarela.
+6. Veja os olhos: vermelhidão, secreção ou dor ao olhar para a luz.
+7. Pergunte sobre dor de garganta, dor no corpo e cansaço intenso.
+8. Pergunte sobre diarreia, vômitos e dor de barriga.
+9. Procure sinais de desidratação: boca seca, pouca urina, tontura.
+10. Pergunte sobre dor de cabeça forte, pescoço rígido e confusão.
+11. Note se há sonolência, dificuldade para acordar ou convulsão.
+12. Observe sangramento de nariz, gengiva, fezes escuras ou urina escura.
+13. Compare com o estado anterior: a pessoa está piorando?
+14. Anote cada sinal visto e a hora em que apareceu.
+15. Separe a pessoa das demais até saber se há contágio.
+16. Procure atendimento no mesmo dia se houver febre e outro sinal.
+17. Vá à emergência se houver falta de ar, confusão ou sangramento.
+
+ATENCAO
+-------
+Reconhecer cedo não substitui atendimento: algumas doenças matam rápido.
+Nem toda doença transmissível causa febre, sobretudo no início.
+Muitas infecções têm os mesmos sinais no começo; a lista não distingue.
+Febre mais mancha, tosse ou diarreia exige avaliação, não adivinhação.
+Sinais de gravidade: falta de ar, pele fria e suada, confusão, desmaio.
+Dor de cabeça com pescoço rígido, convulsão ou manchas que não somem
+ao pressionar são emergência.
+Bebês, idosos, grávidas e pessoas com imunidade baixa pioram mais rápido.
+Não dê antibiótico, antiviral ou remédio novo sem orientação.
+Não espere o quadro completo para procurar ajuda.
+Não toque em sangue, fezes ou secreção sem proteger as mãos.
+Lave as mãos com água e sabão depois de examinar a pessoa.
+
+SE NAO TIVER
+------------
+Sem termômetro: use calafrios, suor e calor na testa como sinais de febre.
+Sem luz: leve a pessoa perto de uma janela ou use a tela do celular.
+Sem papel: grave os sinais e os dias na memória e repita em voz alta.
+Sem luvas: use sacola plástica limpa nas mãos antes de tocar.
+Sem como medir: compare a respiração e a cor da pele com uma pessoa sadia.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os sinais foram procurados um a um, não apenas a queixa principal.
+O dia de início de cada sintoma ficou anotado.
+A pessoa foi classificada: sinais leves ou sinais de gravidade.
+A separação das demais pessoas foi feita antes de confirmar o contágio.
+O atendimento foi procurado no mesmo dia ou na hora, conforme o risco.
+
+FONTES
+------
+Prática consolidada de reconhecimento precoce e vigilância em saúde.
+Família de referência: orientações de OMS/OPAS, CDC e Ministério da Saúde
+do Brasil sobre sintomas, sinais de alerta e definições de caso.
+Resumo operacional; não substitui avaliação clínica nem exame laboratorial.

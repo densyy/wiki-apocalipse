@@ -1,0 +1,79 @@
+==============================================================================
+CODIGO: 90-005
+TITULO: Como agir diante de derramamentos de petróleo
+CATEGORIA: 90 - Emergências químicas, industriais e ambientais
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: luvas, botas, barreiras de contenção e material absorvente
+REVISAO: 2026-11
+PALAVRAS-CHAVE: petróleo, derramamento, óleo, contenção, absorvente, rio
+==============================================================================
+
+OBJETIVO
+---------
+Conter o derramamento e impedir que o óleo atinja a água e o solo.
+
+QUANDO USAR
+-----------
+Quando houver vazamento de óleo, diesel ou combustível no solo.
+Ao ver mancha de óleo se espalhando para rio, córrego ou bueiro.
+Depois de acidente com tanque, caminhão-tanque ou bomba de combustível.
+Quando o cheiro de combustível ficar forte em poço ou nascente.
+
+NAO USE QUANDO
+--------------
+Não entre na água para conter a mancha sem equipamento e sem apoio.
+Não use fogo, solvente ou dispersante caseiro sobre o derramamento.
+Não lave a mancha com água corrente, isso espalha o contaminante.
+
+MATERIAIS
+---------
+- Luvas de nitrilo ou borracha resistente a óleo.
+- Botas de borracha e óculos de proteção.
+- Barreiras de contenção ou mangueiras infláveis (terra e areia).
+- Material absorvente: serragem, palha seca, argila ou absorvente comercial.
+- Pá, balde e sacos resistentes para recolher o material.
+- Caderno para anotar hora, local e extensão da mancha.
+
+PROCEDIMENTO
+------------
+1. Afaste curiosos e animais da área derramada.
+2. Identifique o produto pelo rótulo, pela nota ou pelo cheiro.
+3. Interrompa a fonte se puder fechar a válvula com segurança.
+4. Não fume e não use chamas perto do vazamento.
+5. Circule a mancha com barreiras no sentido contrário ao escoamento.
+6. Proteja bueiros e drenagens com barreiras e pano absorvente.
+7. Cubra a mancha com material absorvente sem espalhá-la.
+8. Deixe o absorvente agir por alguns minutos.
+9. Recolha o material com pá para saco ou balde resistente.
+10. Limpe os restos com pano absorvente, sem usar muita água.
+11. Anote hora, local, produto e área atingida.
+12. Avise o órgão ambiental e a emergência sobre o derramamento.
+
+ATENCAO
+-------
+Petróleo e derivados são inflamáveis: mantenha longe de fagulhas e fogo.
+Vapores podem causar tontura e náusea; trabalhe em local arejado.
+O óleo adere à pele e pode causar irritação; lave com água e sabão.
+Óleo em água mata peixes e aves e pode contaminar poços.
+Não vedar bueiro sem saber para onde a drenagem leva.
+Se a mancha chegar a curso d'água, comunique a defesa civil de imediato.
+
+SE NAO TIVER
+------------
+Sem barreira, faça dique com terra, areia ou sacos de areia.
+Sem absorvente comercial, use serragem, palha seca ou argila.
+Sem pá, recolha com luvas e pano grosso protegendo as mãos.
+Sem equipe, mantenha distância, sinalize a área e peça ajuda.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A mancha parou de se espalhar e os bueiros foram protegidos.
+O material absorvente foi recolhido e a área foi sinalizada.
+O órgão ambiental foi avisado com hora e local registrados.
+
+FONTES
+------
+Resumo de procedimentos de contenção de derramamentos de óleo difundidos por
+agências ambientais e manuais de resposta a emergências com hidrocarbonetos.
+O uso de barreiras e absorventes é prática consolidada em respostas.

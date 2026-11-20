@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 30-016
+TITULO: Como construir uma bomba de ar manual
+CATEGORIA: 30 - Engenharia e infraestrutura básica
+TEMPO: 90 minutos
+RISCO: baixo
+EXIGE: tubo PVC, haste, vedação, 2 válvulas, serra, furadeira
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bomba, ar, pistão, válvula, pneu, encher, fole, pressão
+==============================================================================
+
+OBJETIVO
+--------
+Montar bomba manual de pistão para encher pneus e câmaras.
+
+QUANDO USAR
+-----------
+Quando falta bomba comercial para encher pneu de bicicleta.
+Quando é preciso injetar ar em câmara de bote ou colchão.
+Quando há tubo rígido, haste e borracha disponíveis.
+
+NAO USE QUANDO
+--------------
+Não bombeie gases inflamáveis, oxigênio, vapor ou químicos.
+Não pressurize vidro ou tanque fechado sem válvula de alívio.
+
+MATERIAIS
+---------
+- Tubo rígido de PVC com aproximadamente 25 cm e 4 a 5 cm de diâmetro.
+- Haste rígida que entre frouxa no tubo (cabo de vassoura).
+- Disco de madeira com vedação de couro ou borracha de câmara.
+- Duas válvulas de retenção (abas de borracha presas com parafuso).
+- Mangueira, bico de pneu, cola de PVC, serra, lixa e graxa.
+
+PROCEDIMENTO
+------------
+1. Corte o tubo com serra, com borda reta e sem rebarbas.
+2. Lixe a parede interna até a haste deslizar sem prender.
+3. Feche uma extremidade com o tampão e cole, formando a câmara.
+4. Faça dois furos no tampão: entrada de ar e saída de ar.
+5. Instale a entrada voltada para dentro e a saída para fora.
+6. Ligue a saída à mangueira e ao bico, com cola nas juntas.
+7. Prenda a vedação ao disco e lubrifique com graxa de silicone.
+8. Enfure a haste no tubo sem forçar e prenda um cabo na ponta.
+9. Puxe e empurre: ajuste as abas se o ar voltar ou a haste travar.
+
+ATENCAO
+-------
+- Ar comprimido lança sujeira: proteja os olhos e o rosto.
+- Não aponte o bico para pessoa alguma; ar preso pode ferir.
+- Sem vedação o pistão não comprime: refaça antes de insistir.
+- Se a haste prender, pare e desmonte; força quebra o tubo.
+- Nunca use em vidro, tanque fechado ou gás inflamável.
+
+SE NAO TIVER
+------------
+Sem válvula comprada, recorte abas de câmara e prenda com parafuso.
+Sem PVC, use tubo metálico liso, rígido e sem ferrugem.
+Sem graxa, use vaselina; evite óleo combustível na borracha.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ao puxar ouve-se sucção; ao empurrar, sai ar pelo bico e o pneu endurece.
+Tapando o bico com o dedo, a haste resiste ao empurrão.
+
+FONTES
+------
+Prática consolidada de bombas manuais de pistão e válvulas de retenção.
+ECHO, nota técnica TN61 (2010); FM 21-76, Exército dos EUA.

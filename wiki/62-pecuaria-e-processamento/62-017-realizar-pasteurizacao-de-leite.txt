@@ -1,0 +1,109 @@
+==============================================================================
+CODIGO: 62-017
+TITULO: Como realizar pasteurização de leite
+CATEGORIA: 62 - Pecuária, reprodução e processamento animal
+TEMPO: 45 minutos
+RISCO: alto
+EXIGE: termômetro, panela com tampa, água fria, gelo, vidro limpo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: leite, pasteurização, germes, ferver, geladeira, higiene
+==============================================================================
+
+OBJETIVO
+--------
+Reduzir os germes que causam doença no leite cru, deixando-o mais seguro
+para beber e para preparar outros alimentos.
+
+QUANDO USAR
+-----------
+Quando você tem leite cru fresco de vaca, cabra ou ovelha.
+Antes de beber o leite puro ou usá-lo no café, no mingau ou em bebidas.
+Antes de fazer iogurte, queijo ou qualquer produto com leite cru.
+Quando o leite vai ser guardado por mais de um dia.
+Quando há crianças pequenas, idosos ou doentes em casa.
+
+NAO USE QUANDO
+--------------
+Quando o animal está doente, com mastite ou tomando antibiótico.
+Quando o leite cheira podre, está coalhado, com sangue ou muito sujo.
+Quando há suspeita de agrotóxico, veneno, metal ou combustível.
+A pasteurização não retira venenos nem recupera leite estragado.
+Leite muito sujo pode conter toxinas que o calor não destrói.
+
+MATERIAIS
+---------
+- Leite cru fresco e limpo de animal sadio (vaca, cabra ou ovelha).
+- Termômetro de haste metálica (ou de cozinha, até 100°C).
+- Panela de fundo grosso com tampa (ou duas panelas para banho-maria).
+- Água limpa e gelo (ou água corrente bem fria).
+- Colher de metal limpa para mexer.
+- Recipientes de vidro limpos com tampa (ou garrafas de vidro).
+- Fonte de calor (fogão, fogueira ou braseiro).
+- Pano seco e limpo para segurar a panela quente.
+
+PROCEDIMENTO
+------------
+1. Lave as mãos, a panela, a colher, o termômetro e os vidros com sabão.
+2. Escolha leite fresco de animal sadio; descarte o de cheiro estranho.
+3. Despeje o leite na panela e prenda o termômetro na borda.
+4. Aqueça em fogo baixo, mexendo sem parar para o calor chegar a todas
+   as partes, inclusive a espuma.
+5. Leve o leite a 63°C; nunca deixe ferver.
+6. Mantenha entre 63°C e 64°C por 30 minutos, mexendo de vez em quando.
+7. Se a temperatura cair abaixo de 63°C, recomece a contagem dos 30 minutos.
+8. Retire a panela do fogo com pano seco e coloque-a em água fria com gelo.
+9. Mexa sem parar para esfriar depressa e por igual.
+10. Troque a água por gelo quando ela esquentar.
+11. Resfrie até 4°C ou menos, antes de guardar.
+12. Despeje o leite frio nos vidros limpos e tampe.
+13. Guarde na prateleira de baixo da geladeira, nunca na porta.
+
+ATENCAO
+-------
+Leite cru pode conter Salmonella, Listeria, E. coli, Campylobacter,
+Brucela e o bacilo da tuberculose. Pasteurizar reduz esses germes,
+mas não elimina todos.
+Leite pouco aquecido parece normal e ainda assim pode causar doença
+grave, sobretudo em crianças, grávidas, idosos e imunossuprimidos.
+Ferver não é pasteurizar: o leite fervido muda de sabor e perde
+propriedades, embora mate mais germes.
+A panela e o vidro quentes queimam. Use pano seco e não derrame.
+Garrafa muito cheia pode rachar ao aquecer; encha até quatro quintos.
+Depois de pasteurizado, o leite pode ser contaminado de novo por mãos,
+colheres, panos ou água suja. Nunca tampe com pano sujo.
+Se ficou sem refrigeração por mais de 2 horas, descarte.
+Grávidas, crianças pequenas, idosos e imunossuprimidos devem usar
+somente leite pasteurizado industrialmente.
+Diarréia, febre ou vômito depois de tomar leite cru exigem atendimento.
+
+SE NAO TIVER
+------------
+Sem termômetro, não há como saber se o leite chegou a 63°C.
+Não adivinhe a temperatura: leite morno demais continua perigoso.
+Sem termômetro, ferver o leite mata mais germes, mas muda o sabor e
+não é pasteurização. Beba na hora e não guarde o que sobrar.
+Sem banho-maria, use panela de fundo grosso em fogo muito baixo e
+mexa sem parar para não queimar no fundo.
+Sem gelo, troque a água morna por água corrente fria várias vezes.
+Sem geladeira, beba logo após esfriar e não guarde sobras.
+Sem vidro, use panela esmaltada limpa com tampa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O termômetro marcou entre 63°C e 64°C durante os 30 minutos.
+O leite não ferveu nem transbordou da panela.
+O leite ficou bem frio antes de ir para a geladeira.
+O leite mantém cheiro e sabor normais, sem grumos nem coalho.
+Não apareceu cheiro azedo ou podre depois de resfriado.
+
+FONTES
+------
+Grade A Pasteurized Milk Ordinance (PMO), FDA: combinações de tempo e
+temperatura 63°C por 30 minutos e 72°C por 15 segundos.
+21 CFR 1240.61, pasteurização obrigatória do leite para consumo direto.
+Ohio State University Extension, ficha HYG-5817: pasteurização caseira
+de leite cru em banho-maria, garrafas e resfriamento.
+Oregon State University Extension, SP 50-932: home pasteurization of
+raw milk. Codex Alimentarius, CXC 57-2004: código de práticas para
+leite e produtos lácteos. Resumo operacional; não substitui a
+orientação de profissional de saúde.

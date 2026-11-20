@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 09-008
+TITULO: Como utilizar códigos de comunicação por rádio
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 20 minutos
+RISCO: medio
+EXIGE: rádio em canal combinado, papel e lápis com a lista de códigos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: rádio, código, alfabeto, fonético, mayday, socorro, over
+==============================================================================
+
+OBJETIVO
+--------
+Entender e usar códigos e palavras curtas para falar com clareza no rádio.
+
+QUANDO USAR
+-----------
+Quando várias pessoas falam no mesmo canal e é preciso organizar a fala.
+Quando ruído ou bateria fraca tornam a voz difícil de entender.
+Quando é preciso pedir socorro ou avisar uma urgência por rádio.
+
+NAO USE QUANDO
+--------------
+Quando a outra pessoa não conhece os códigos: fale em linguagem clara.
+
+MATERIAIS
+---------
+- Rádio com o canal combinado e bateria carregada.
+- Lista escrita dos códigos combinados, presa ao rádio.
+- Papel e lápis para anotar o que foi ouvido.
+
+PROCEDIMENTO
+------------
+1. Combine com o grupo quais códigos usar e o significado de cada um.
+2. Escreva a lista no papel e prenda ao rádio.
+3. Pressione falar, espere um segundo, cheque o canal e chame a pessoa.
+4. Soletre pelo alfabeto fonético, uma palavra por letra: Alfa, Bravo.
+5. Continue: Charlie, Delta, Echo, Foxtrot, Golf, Hotel, India, Juliett.
+6. Continue: Kilo, Lima, Mike, November, Oscar, Papa, Quebec, Romeo.
+7. Termine: Sierra, Tango, Uniform, Victor, Whiskey, Xray, Yankee, Zulu.
+8. Fale números como zero, one, two, tree, fower, fife e niner.
+9. Termine com over se quiser resposta; com out se não quiser.
+10. Responda com roger ou copy se entendeu; diga say again se não entendeu.
+11. Diga stand by para aguardar; affirmative para sim e negative para não.
+12. Em perigo de vida, diga mayday três vezes: quem, onde, o que e quantos.
+13. Para urgência sem risco de vida, diga pan-pan três vezes e explique.
+14. Use códigos 10 (siglas numéricas) só com significado combinado antes.
+
+ATENCAO
+-------
+Mayday significa risco de vida e impõe silêncio no canal: use só de verdade.
+Pan-pan é urgência sem risco imediato; não substitui pedido de ajuda.
+Códigos 10 mudam conforme o serviço e a região: fale em linguagem clara.
+Nunca confie só no código para salvar vidas: diga o problema com palavras.
+
+SE NAO TIVER
+------------
+Sem a lista escrita, decore apenas os códigos que vai usar hoje.
+Sem código combinado, fale frases curtas e peça que repitam o que ouviram.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A outra pessoa repete a mensagem com os nomes e números corretos.
+Ao pedir socorro, alguém responde e pede a sua localização.
+
+FONTES
+------
+Procedimentos de socorro e urgência do Manual de Informações Aeronáuticas
+(AIM) da FAA: mayday e pan-pan repetidos três vezes. Alfabeto fonético
+internacional (OACI). O restante é prática consolidada, sem documento único.

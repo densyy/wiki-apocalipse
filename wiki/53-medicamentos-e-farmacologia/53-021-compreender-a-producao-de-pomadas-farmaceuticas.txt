@@ -1,0 +1,94 @@
+==============================================================================
+CODIGO: 53-021
+TITULO: Como compreender a produção de pomadas farmacêuticas
+CATEGORIA: 53 - Produção de medicamentos e farmacologia
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: papel, caneta, embalagens e bulas de pomadas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: pomada, unguento, princípio ativo, excipiente, base, lote
+==============================================================================
+
+OBJETIVO
+--------
+Entender as etapas de produção da pomada e a função de cada componente.
+
+QUANDO USAR
+-----------
+Ao receber pomada e querer saber como ela foi feita e controlada.
+Ao comparar pomada genérica e de marca e entender o que muda.
+Ao ler o rótulo e compreender a função de cada componente.
+Ao notar aspecto, cheiro ou textura estranhos na pomada.
+Ao estudar farmácia ou lidar com medicamentos tópicos.
+Antes de aceitar pomada improvisada, sem rótulo ou sem lote.
+
+NAO USE QUANDO
+--------------
+Não use este texto para fabricar pomada ou calcular dose.
+Não serve para preparar produto estéril nem tratar infecção.
+Não substitui bula, prescrição nem orientação farmacêutica.
+
+MATERIAIS
+---------
+- Papel e caneta para anotar etapas e componentes.
+- Embalagens e bulas de pomadas, se disponíveis (rótulo impresso).
+- Nenhum equipamento de produção é necessário para este texto.
+
+PROCEDIMENTO
+------------
+1. Defina pomada como preparação semi-sólida para uso tópico.
+2. Separe os dois grupos: ativo, que age, e veículo, que carrega.
+3. Entenda que o veículo, chamado base, dá textura e permite espalhar.
+4. Reconheça as três famílias: base gorda, de absorção e hidrossolúvel.
+5. Observe que a base gorda, como vaselina, não mistura com água.
+6. Note que a base gorda libera o ativo mais devagar que a hidrossolúvel.
+7. Observe que a base hidrossolúvel se lava com água e libera mais rápido.
+8. Inclua excipientes: conservantes impedem microrganismos no produto.
+9. Note que antioxidantes evitam que o ativo se degrade com o ar.
+10. Registre que umectantes evitam ressecamento da pomada.
+11. Anote que a formulação define a quantidade exata de cada componente.
+12. Entenda que cada componente é pesado em balança calibrada.
+13. Acompanhe: a base é aquecida em banho-maria até amolecer.
+14. Acompanhe: o ativo é incorporado à base em pequenas porções.
+15. Entenda a homogeneização: a mistura vira massa uniforme, sem grumos.
+16. Note o enchimento: a massa vai para bisnagas ou potes limpos.
+17. Leia o rótulo: ativo, concentração, lote, validade e fabricante.
+18. Controle: identidade, teor, uniformidade e limite microbiano.
+19. Guarde conforme o rótulo: local fresco, seco, sem luz e sem calor.
+20. Observe o prazo: pomada vencida ou mal guardada perde qualidade.
+
+ATENCAO
+-------
+Este texto ensina a compreender, não a fabricar pomadas.
+Não faça pomada em casa: sem esterilidade, dose e estabilidade controladas,
+o produto pode causar infecção, intoxicação ou queimadura.
+Pomada caseira não tem teor garantido: pode não agir ou intoxicar.
+Não use pomada sem rótulo, com lote ou validade ilegíveis.
+Não use pomada com cheiro, cor ou textura alterados.
+Pomada para olhos, feridas ou mucosas exige fórmula estéril própria.
+Não reutilize bisnaga ou pote: contamina o produto e a pessoa.
+Não aplique pomada de outra pessoa, mesmo para o mesmo sintoma.
+Se houver coceira, inchaço ou falta de ar, pare e busque ajuda.
+Não substitua atendimento por pomada improvisada em ferida ou queimadura.
+
+SE NAO TIVER
+------------
+Sem embalagem ou bula, leia apenas o rótulo do recipiente.
+Sem rótulo legível, não use a pomada e descarte com segurança.
+Sem balança ou controle, não tente reproduzir a formulação.
+Sem orientação farmacêutica, entenda o processo, não o execute.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue nomear as duas partes da pomada e a função de cada uma.
+Você explica por que a base gorda libera o ativo mais devagar.
+Você reconhece no rótulo o ativo, a concentração, o lote e a validade.
+Você aponta pelo menos três cuidados que tornam a pomada segura.
+
+FONTES
+------
+Farmacopeia Brasileira, edição vigente (Anvisa): formas semi-sólidas.
+Anvisa, guia de Boas Práticas de Fabricação de Medicamentos.
+OMS, boas práticas de fabricação de medicamentos (GMP).
+Prática consolidada de tecnologia farmacêutica; resumo educativo.
+Não substitui bula, prescrição nem fabricação autorizada.

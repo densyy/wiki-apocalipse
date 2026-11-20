@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 67-005
+TITULO: Como utilizar boias para controle automático de nível
+CATEGORIA: 67 - Robótica, automação e controle
+TEMPO: 45 minutos
+RISCO: medio
+EXIGE: boia com chave, tanque, bomba, noções básicas de eletricidade
+REVISAO: 2026-11
+PALAVRAS-CHAVE: boia, nível, tanque, bomba, chave, transbordo, automático
+==============================================================================
+
+OBJETIVO
+--------
+Instalar e ajustar uma boia para ligar e desligar uma bomba pelo nível.
+
+QUANDO USAR
+-----------
+Quando um tanque deve encher sozinho e parar no ponto certo.
+Quando a bomba precisa parar antes de secar e queimar.
+Quando o nível oscila e a bomba liga e desliga sem parar.
+
+NAO USE QUANDO
+--------------
+Não use em líquido corrosivo, quente ou com resíduo que grude na boia.
+Não use boia de mercúrio em água de beber.
+Não abra nem ligue a bomba com a energia ligada.
+
+MATERIAIS
+---------
+- Boia com chave elétrica: magnética, de haste ou de cabo.
+- Tanque ou caixa com o líquido e a bomba.
+- Suporte ou haste para fixar a boia na altura certa.
+- Noções básicas de eletricidade e luvas de proteção.
+
+PROCEDIMENTO
+------------
+1. Desligue a energia da bomba e confirme que não há tensão.
+2. Escolha a boia conforme o líquido: polipropileno para água limpa.
+3. Limpe o tanque e retire folhas, lama e espuma que prendam a boia.
+4. Defina os pontos: nível alto para desligar e baixo para ligar.
+5. Fixe a boia no suporte na altura do ponto de desligar.
+6. Deixe a boia se mover livre, sem encostar na parede do tanque.
+7. Se houver agitação, ponha a boia dentro de um poço tranquilo.
+8. Ligue a chave da boia em série com a bomba, com a energia cortada.
+9. Restaure a energia e encha o tanque até a boia subir.
+10. Confira se a bomba para no alto e volta no nível baixo.
+
+ATENCAO
+-------
+Água e eletricidade juntas podem matar. Corte a energia antes de tocar.
+Boia presa por sujeira deixa a bomba ligada e transborda o tanque.
+Sem histerese, a bomba liga e desliga depressa e queima o motor.
+Bomba sem água queima rápido; se não parar, corte e chame ajuda.
+
+SE NAO TIVER
+------------
+Sem boia pronta, use uma garrafa plástica presa numa haste como boia.
+Se parar tarde ou cedo, mova a boia no suporte e teste de novo.
+Não improvise ligação elétrica dentro da água.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A bomba para na marca alta e volta quando o nível cai à marca baixa.
+A boia sobe e desce livre, sem prender nem encostar na parede.
+
+FONTES
+------
+Prática consolidada de controle de nível, sem documento único.
+Famílias: Instrument Engineers' Handbook (CRC Press); chaves de nível
+da Water Environment Federation. Resumo, não substitui treinamento.

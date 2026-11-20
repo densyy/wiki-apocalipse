@@ -1,0 +1,91 @@
+==============================================================================
+CODIGO: 75-011
+TITULO: Como construir sistemas de drenagem para chuvas torrenciais
+CATEGORIA: 75 - Tecnologias apropriadas para regiões tropicais
+TEMPO: 2 dias
+RISCO: alto
+EXIGE: pá, enxada, nível de mangueira, cascalho, tela, grama
+REVISAO: 2026-11
+PALAVRAS-CHAVE: drenagem, chuva, valeta, vala, infiltração, enchente
+==============================================================================
+
+OBJETIVO
+--------
+Desviar e infiltrar a água da chuva antes que ela alague a casa.
+
+QUANDO USAR
+-----------
+Quando a chuva forte alaga o quintal ou chega perto da porta.
+Quando a água desce da encosta em direção à casa.
+Quando o telhado despeja muita água em um único ponto.
+Quando aparecem sulcos de erosão ou terra exposta após a chuva.
+Quando fica água parada que cria mosquitos no quintal.
+
+NAO USE QUANDO
+--------------
+Quando a água corrente estiver acima do joelho: saia da área, não drene.
+Quando a encosta estiver encharcada e deslizando: espere a chuva passar.
+Quando não houver terra baixa vegetada para onde o excesso possa escorrer.
+
+MATERIAIS
+---------
+- Pá, enxada e ancinho (ou pá de madeira).
+- Nível de mangueira ou régua com prumo (garrafa com água e linha).
+- Cascalho lavado ou pedra britada (pedregulho de rio).
+- Tela de sombreamento ou palha (folhas secas) para filtrar a terra.
+- Grama ou capim (mudas de braquiária) para cobrir as margens.
+- Estacas, cordão e fita para marcar o traçado.
+- Tubo perfurado ou mangueira com furos (opcional).
+
+PROCEDIMENTO
+------------
+1. Observe uma chuva forte e marque por onde a água entra e corre.
+2. Escolha o ponto mais alto como início e o mais baixo como saída.
+3. Marque com estacas o traçado atravessando a encosta, não descendo reto.
+4. Afaste a valeta da fundação e nunca a dirija para baixo da casa.
+5. Ajuste a queda com o nível: aproximadamente 1 cm por metro de valeta.
+6. Cave a valeta com aproximadamente 30 cm de largura e 20 cm de fundo.
+7. Jogue a terra retirada no lado de cima, nunca dentro da valeta.
+8. Forre o fundo com tela ou palha para a terra fina não entupir a pedra.
+9. Espalhe cascalho sobre a tela, com aproximadamente 5 cm de camada.
+10. Cubra as margens com grama e pressione a terra com as mãos.
+11. Monte barraginhas: pedras atravessadas a cada aproximadamente 3 m.
+12. Desvie a água do telhado para uma valeta de infiltração com cascalho.
+13. Faça o sumidouro de aproximadamente 60 cm por 50 cm com cascalho.
+14. Dê saída ao excesso para área baixa vegetada, nunca para o vizinho.
+15. Após a primeira chuva, limpe folhas e lama acumuladas na valeta.
+
+ATENCAO
+-------
+Nunca entre em água corrente acima do joelho: a força derruba a pessoa.
+Escave só com a chuva passada. Encosta encharcada pode deslizar e soterrar.
+Em valeta funda, apoie as paredes com tábuas: terra solta pode ceder.
+Não lance a água para o vizinho, para a rua ou para a fundação da casa.
+Não feche a drenagem natural sem saída: a água entrará na casa.
+Valeta sem cascalho ou sem grama entope e vira criadouro de mosquito.
+Água parada atrai o mosquito Aedes, que transmite dengue.
+Se a água subir ou entrar na casa, pare o trabalho e vá para lugar alto.
+
+SE NAO TIVER
+------------
+Sem cascalho, use pedra britada ou pedregulho lavado; nunca terra fina.
+Sem tela, use palha ou folhas secas entre a terra e a pedra.
+Sem nível, estique uma linha entre estacas e use garrafa com água.
+Sem tubo perfurado, faça só a valeta aberta com cascalho.
+Em encosta íngreme ou com água veloz, busque orientação técnica.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Depois da chuva, a água corre pela valeta sem alagar o quintal.
+Não ficam poças paradas nem sulcos fundos de erosão.
+O cascalho continua visível e a grama nasce nas margens.
+A água do telhado chega ao sumidouro e escoa sem jorrar na fundação.
+
+FONTES
+------
+Prática consolidada de drenagem rural e urbana em regiões tropicais, sem
+documento único: valetas de infiltração, drenos de cascalho e barraginhas.
+Família de referência: manuais de drenagem rodoviária e rural (Highways
+Agency, Reino Unido; Comissão Internacional de Irrigação e Drenagem).
+Risco de mosquito e dengue: orientações do CDC sobre o mosquito Aedes.
+Este texto é resumo operacional e não substitui projeto técnico.

@@ -1,0 +1,81 @@
+==============================================================================
+CODIGO: 54-019
+TITULO: Como preparar um herbário para consulta científica
+CATEGORIA: 54 - Fitoterapia e plantas medicinais
+TEMPO: 120 minutos
+RISCO: medio
+EXIGE: exsicatas secas, cartolina, etiquetas, envelope, lápis, armário
+REVISAO: 2026-11
+PALAVRAS-CHAVE: herbário, exsicata, etiqueta, família, tombo, consulta
+==============================================================================
+
+OBJETIVO
+--------
+Organizar exsicatas e fichas para que outra pessoa encontre cada amostra.
+
+QUANDO USAR
+-----------
+- Quando o herbário tem muitas exsicatas e ninguém encontra uma amostra.
+- Quando alguém precisa conferir a identificação de uma planta guardada.
+- Quando o material coletado vai servir de referência para estudos futuros.
+
+NAO USE QUANDO
+--------------
+- Não use exsicata mal identificada para decidir consumo ou dose de planta.
+- Não considere nome popular como identificação científica segura.
+- Não aceite para consulta material sem etiqueta, sem data ou sem coletor.
+
+MATERIAIS
+---------
+- Exsicatas já secas, presas em cartolina e com número de coleta.
+- Etiquetas de identificação e de determinação; envelopes de papel.
+- Lápis e caneta de nanquim preta.
+- Caderno ou planilha para o índice.
+- Armário fechado ou latas, e congelador.
+
+PROCEDIMENTO
+------------
+1. Confira se cada exsicata está seca, presa e sem partes soltas.
+2. Atribua um número de tombo sequencial a cada exsicata.
+3. Escreva a lápis na capa a família, o nome científico e o número.
+4. Cole a etiqueta no canto inferior direito da cartolina.
+5. Anote na etiqueta família, gênero, espécie, coletor e número de coleta.
+6. Registre local, data, hábito e nome popular; anote quem determinou.
+7. Coloque folhas, frutos e sementes soltos em envelope preso à cartolina.
+8. Escreva no envelope a sigla do herbário e o número da exsicata.
+9. Monte fichas com os mesmos dados da etiqueta.
+10. Orden as exsicatas por família, gênero e espécie.
+11. Faça um índice impresso com família, nome e número de tombo.
+12. Congele as exsicatas por aproximadamente 24 horas para matar insetos.
+13. Guarde as exsicatas em armário fechado, na ordem do índice.
+14. Registre no caderno quem consultou e o que foi alterado.
+15. Quando o nome mudar, escreva nova etiqueta e afixe-a acima da original.
+
+ATENCAO
+-------
+- Exsicata sem etiqueta quase não serve para consulta: não pule este passo.
+- Nunca cubra a etiqueta original: afixe a nova acima dela.
+- Nome popular troca de sentido entre regiões; não tome decisão por ele.
+- Partes soltas sem envelope se perdem e deixam a amostra incompleta.
+- O herbário não autoriza consumo: consulta científica não prova segurança.
+
+SE NAO TIVER
+------------
+- Sem etiqueta impressa, escreva à mão com nanquim preto.
+- Sem envelope, dobre papel branco e prenda com fita gomada na cartolina.
+- Sem armário, use latas fechadas ao abrigo de luz e umidade.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- Cada exsicata tem número de tombo único e aparece no índice.
+- A etiqueta traz família, nome científico, coletor, local e data.
+- As pastas ficam em ordem alfabética de família dentro do armário.
+- Outra pessoa encontra a amostra só com o número do índice.
+
+FONTES
+------
+Manual de Prática de Coleta e Herborização de Material Botânico,
+Embrapa Florestas, 2008; Manual do Herbário MFS, UEPA, 2013.
+Procedimentos de curadoria do Herbário FLOR, UFSC.
+Normas do Herbário ICN, UFRGS; regras do Herbário ESAL, UFLA.
+Prática consolidada de curadoria de herbários.

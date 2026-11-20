@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 53-011
+TITULO: Como compreender farmacodinâmica
+CATEGORIA: 53 - Produção de medicamentos e farmacologia
+TEMPO: 35 minutos
+RISCO: medio
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: farmacodinâmica, receptor, agonista, antagonista, remédio
+==============================================================================
+
+OBJETIVO
+--------
+Entender o que o remédio faz no corpo e como nasce o seu efeito.
+
+QUANDO USAR
+-----------
+Ao ler a parte de mecanismo de ação na bula de um remédio.
+Ao entender por que dois remédios "fortes" agem de forma diferente.
+Ao compreender a diferença entre dose pequena e efeito grande.
+Ao questionar a troca de remédio feita por conta própria.
+Ao cuidar de idoso, criança ou pessoa com doença renal ou hepática.
+
+NAO USE QUANDO
+--------------
+Não use para escolher remédio, dose ou tratamento.
+Não substitui bula, prescrição nem orientação do farmacêutico.
+Não serve para calcular dose, trocar via ou suspender remédio.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Defina farmacodinâmica: o que o remédio faz com o corpo.
+2. Compare com farmacocinética: o que o corpo faz com o remédio.
+3. Fixe a ideia central: efeito depende da ligação a um alvo.
+4. Defina receptor: parte da célula que recebe o sinal do remédio.
+5. Use a imagem da chave: o remédio se encaixa no receptor.
+6. Defina ligante: molécula que se liga ao alvo, inclusive hormônio.
+7. Separe duas propriedades: afinidade e eficácia intrínseca.
+8. Defina afinidade: força com que o remédio se liga ao alvo.
+9. Defina eficácia: resposta que a ligação consegue gerar.
+10. Entenda: alta afinidade não garante alto efeito.
+11. Defina agonista: ativa o receptor e produz resposta.
+12. Defina antagonista: ocupa o receptor sem ativar e bloqueia.
+13. Diferencie o bloqueio: competitivo disputa o mesmo sítio.
+14. Complete: no bloqueio competitivo, mais agonista pode vencer.
+15. Complete: no não competitivo, o efeito máximo cai.
+16. Defina agonista parcial: ativa pouco, mesmo ocupando muito.
+17. Defina agonista inverso: reduz atividade que já existia.
+18. Note a seletividade: quase nenhum remédio tem um alvo só.
+19. Leia a curva dose-resposta: efeito sobe com a dose e satura.
+20. Defina potência: dose menor para o mesmo efeito é mais potente.
+21. Defina eficácia máxima: o teto de efeito que o remédio alcança.
+22. Entenda: potência e eficácia são ideias diferentes.
+23. Defina índice terapêutico: folga entre dose útil e dose tóxica.
+24. Entenda: folga pequena exige mais cuidado com a dose.
+25. Inclua o contexto: idade, doença e outros remédios mudam a resposta.
+26. Aplique ao ler a bula: separe mecanismo, efeito e advertência.
+
+ATENCAO
+-------
+Este texto explica conceitos; não indica remédio, dose ou tratamento.
+Mais potente não quer dizer melhor nem mais seguro.
+Nunca aumente, repita ou suspenda dose por conta própria.
+Remédio de índice terapêutico pequeno pode intoxicar com pouca folga.
+Idoso e doente renal ou hepático respondem com menos margem.
+Sinais de intoxicação: náusea, tontura, confusão e falta de ar.
+Nesse caso, pare e procure atendimento, sem esperar o efeito passar.
+
+SE NAO TIVER
+------------
+Sem bula, leia o nome do princípio ativo impresso na embalagem.
+Sem manual de farmacologia, mantenha-se no conceito básico.
+Sem dado de segurança na bula, não invente número nem limite.
+Sem orientação do farmacêutico, não troque nem associe remédios.
+Para o caminho do remédio no corpo, leia 53-003 como leitura extra.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você explica a diferença entre farmacodinâmica e farmacocinética.
+Você distingue agonista de antagonista com um exemplo simples.
+Você explica por que potência e eficácia não são a mesma coisa.
+Você cita pelo menos duas situações que mudam a resposta ao remédio.
+
+FONTES
+------
+Manuais MSD, edição para profissionais: Visão geral da
+farmacodinâmica, Interações fármaco-receptor e Relações
+dose-resposta, revisão de 2025.
+EUPATI Toolbox: Princípios chave da farmacologia.
+StatPearls, NCBI Bookshelf: Pharmacodynamics.
+Resumo educativo; não substitui bula, prescrição nem atendimento.

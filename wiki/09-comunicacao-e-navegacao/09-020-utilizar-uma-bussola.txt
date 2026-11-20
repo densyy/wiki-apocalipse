@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 09-020
+TITULO: Como utilizar uma bússola
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 15 minutos
+RISCO: medio
+EXIGE: bússola, mapa impresso da região, papel, lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bússola, navegação, norte, azimute, rumo, mapa, declinação
+==============================================================================
+
+OBJETIVO
+--------
+Determine direções no terreno e siga um rumo até um ponto escolhido no mapa.
+
+QUANDO USAR
+-----------
+Quando a paisagem mudar e você perder a referência visual.
+
+NAO USE QUANDO
+--------------
+Quando houver perigo imediato: fogo, enchente, deslizamento ou perseguição.
+Saia do perigo e peça ajuda antes de parar para navegar.
+
+MATERIAIS
+---------
+- Bússola com agulha livre e escala giratória (ou bússola comum de bolso).
+- Mapa impresso da região, com o norte indicado.
+- Papel e lápis para anotar azimutes.
+
+PROCEDIMENTO
+------------
+1. Segure a bússola na horizontal, na altura do peito.
+2. Afasta-a de celular, rádio, chaves, faca e cerca de arame.
+3. Espere a agulha parar de oscilar.
+4. Identifique a ponta norte da agulha; em geral é a vermelha. O "N" está
+   na escala da bússola.
+5. Gire a escala até o "N" ficar sob a ponta norte da agulha.
+6. Leia e anote o azimute sob a seta: a direção em graus, de 0 a 360.
+7. Trace no mapa uma linha do ponto onde você está até o destino.
+8. Apoie a borda da bússola na linha, com a seta voltada ao destino.
+9. Gire a escala até o "N" apontar para o norte do mapa e leia o azimute.
+10. Ajuste a declinação se o mapa informar o valor: some se for leste e
+   subtraia se for oeste, de magnético para verdadeiro; para seguir a
+   agulha, faça o inverso.
+11. Gire a escala até o valor ajustado ficar sob a linha da seta.
+12. Caminhe na direção da seta até um alvo visível nessa linha.
+13. Repita a leitura a cada aproximadamente 100 passos.
+
+ATENCAO
+-------
+A agulha aponta para o norte magnético, não para o norte geográfico do mapa.
+A diferença é a declinação magnética e muda com o lugar e com o tempo.
+Metal e corrente desviam a leitura; se a agulha travar, mude de lugar.
+Um erro de poucos graus leva longe: se o terreno não bater com o mapa, pare.
+
+SE NAO TIVER
+------------
+Sem mapa, mantenha o rumo e volte pelo oposto: some ou subtraia 180 graus.
+Sem bússola, não adivinhe o norte: siga estrada ou rio e peça ajuda.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Duas leituras seguidas dão o mesmo azimute com a agulha parada.
+Ao chegar, o que você vê corresponde ao que o mapa mostra.
+
+FONTES
+------
+NOAA/NCEI: páginas sobre declinação magnética e FAQ de geomagnetismo.
+Demais passos são prática consolidada de navegação, sem documento único.

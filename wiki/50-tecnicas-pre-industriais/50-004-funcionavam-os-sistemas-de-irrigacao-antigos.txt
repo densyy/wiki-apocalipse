@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 50-004
+TITULO: Como funcionavam os sistemas de irrigação antigos
+CATEGORIA: 50 - História das tecnologias pré-industriais
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: irrigação, água, canais, shaduf, qanat, gravidade, Egito
+==============================================================================
+
+OBJETIVO
+--------
+Entender como sociedades antigas moviam e repartiam a água sem motores.
+
+QUANDO USAR
+-----------
+Ao estudar como se irrigava antes das bombas e dos motores.
+Ao interpretar ruínas de canais, diques, comportas e poços antigos.
+Ao entender por que regiões secas sustentavam lavouras e cidades.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+Este texto descreve mecanismos históricos; não é manual de obra.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Localize a fonte: rio, nascente ou lençol subterrâneo.
+2. Escave um canal com declividade suave; a água corre por gravidade.
+3. Segure a água em bacias rasas cercadas por diques baixos.
+4. Abra comportas para soltar a água para os sulcos das plantas.
+5. Use o shaduf para subir água: alavanca com contrapeso.
+6. Mergulhe o balde na água empurrando-o com o peso do corpo.
+7. Solte o balde: o contrapeso o ergue até o canal mais alto.
+8. Despeje a água no sulco e deixe a gravidade distribuí-la.
+9. Em clima seco, cave o qanat: galeria subterrânea com leve descida.
+10. Abra poços verticais a cada aproximadamente 20 a 35 metros.
+11. Deixe a água aflorar no ponto baixo e distribua em canais.
+12. Reparta a água por tempo, com marcas ou relógio de água.
+
+ATENCAO
+-------
+A origem do shaduf varia: Mesopotâmia, Egito ou Índia.
+Não pense que eram automáticos: exigiam manutenção constante.
+Canal com declividade errada assoreia, erode ou desaba.
+Galeria subterrânea (qanat) pode desabar e ter falta de ar.
+Irrigação sem drenagem saliniza o solo e já arruinou terras.
+Este texto não ensina a construir nem a restaurar: exige engenharia.
+
+SE NAO TIVER
+------------
+Sem comporta de madeira, use terra compactada para fechar o sulco.
+Sem pedra para contrapeso, use barro seco ou saco de areia.
+Sem galeria, a água evapora: irrigue de noite ou cubra o canal.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água chega às plantas e escoa sem transbordar nem ficar parada.
+No qanat, a água aflora na saída com fluxo constante.
+
+FONTES
+------
+Prática consolidada de irrigação antiga, sem documento único.
+Base: registros arqueológicos da Mesopotâmia e do Egito e o Qanat Persa
+(UNESCO, Patrimônio Mundial, 2016). Origens e datas variam entre fontes.

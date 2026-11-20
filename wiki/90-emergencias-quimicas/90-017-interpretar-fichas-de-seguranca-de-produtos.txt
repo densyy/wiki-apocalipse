@@ -1,0 +1,81 @@
+==============================================================================
+CODIGO: 90-017
+TITULO: Como interpretar fichas de segurança de produtos químicos
+CATEGORIA: 90 - Emergências químicas, industriais e ambientais
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: ficha do produto, rótulo legível e leitura atenta
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ficha, segurança, químico, rótulo, risco, FISPQ, precaução
+==============================================================================
+
+OBJETIVO
+--------
+Ler uma ficha e saber quais riscos, cuidados e socorros adotar.
+
+QUANDO USAR
+-----------
+Antes de usar um produto químico pela primeira vez.
+Ao receber, armazenar ou transportar o produto.
+Antes de misturar substâncias ou mudar o modo de uso.
+Ao planejar limpeza de derramamento ou descarte.
+Quando o rótulo estiver ilegível ou faltar.
+Ao treinar a equipe ou escrever um procedimento de trabalho.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Ficha de segurança do produto, a FISPQ (ficha do fabricante).
+- Rótulo e embalagem do produto.
+- Tradução da ficha, se o idioma for desconhecido.
+- Caderno e lápis para anotar os pontos principais (celular).
+- Luvas e óculos para manusear o produto, se for abrir a embalagem.
+
+PROCEDIMENTO
+------------
+1. Confira o nome do produto na ficha e no rótulo.
+2. Leia a identificação: fabricante, telefone e data da revisão.
+3. Leia a seção de riscos: classes, frases de perigo e símbolos.
+4. Anote os perigos para a saúde, o fogo e o meio ambiente.
+5. Confira a composição e o que é perigoso na mistura.
+6. Leia os primeiros socorros para inalação, pele, olhos e boca.
+7. Verifique os equipamentos de proteção indicados para o uso.
+8. Anote os limites de exposição e a concentração máxima no ar.
+9. Leia as medidas para derramamento, coleta e descarte.
+10. Confira armazenamento, incompatibilidades e prazo de validade.
+11. Compare ficha e rótulo: se divergirem, siga a mais restritiva.
+12. Guarde a ficha onde quem usa o produto possa consultar.
+
+ATENCAO
+-------
+Ficha desatualizada pode estar errada: confira a data da revisão.
+Frases de perigo mudaram de padrão; leia sempre o texto.
+"Risco desconhecido" não significa "pode usar sem cuidado".
+Limite de exposição é referência, não garantia de segurança.
+Nunca misture produtos só porque as fichas parecem seguras.
+Se rótulo e ficha discordam, pergunte ao fabricante antes de usar.
+Ficha não substitui treinamento nem equipamento de proteção.
+
+SE NAO TIVER
+------------
+Sem ficha, peça ao fabricante ou ao fornecedor antes de usar.
+Sem ficha e sem rótulo, trate como desconhecido e não abra.
+Sem tradução, procure quem leia o idioma antes de decidir.
+Sem ficha impressa, anote os dados do rótulo e peça a ficha.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você diz o perigo principal e o que fazer em cada exposição.
+Você sabe qual proteção usar e como descartar o produto.
+A ficha está guardada e legível para quem for usar o produto.
+
+FONTES
+------
+Família de referências: ABNT NBR 14725, que padroniza fichas
+e rótulos no Brasil.
+Sistema Globalmente Harmonizado de Classificação e Rotulagem,
+adotado em vários países.
+Orientações de fabricantes e da segurança ocupacional (OSHA, NIOSH).

@@ -1,0 +1,90 @@
+==============================================================================
+CODIGO: 04-035
+TITULO: Como utilizar um multímetro
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 20 minutos
+RISCO: alto
+EXIGE: multímetro com bateria boa, pontas de prova íntegras
+REVISAO: 2026-11
+PALAVRAS-CHAVE: multímetro, tensão, pilha, bateria, continuidade, teste
+==============================================================================
+
+OBJETIVO
+--------
+Medir tensão, continuidade e resistência para avaliar pilhas,
+baterias e fios com segurança.
+Tensão é a força elétrica entre dois pontos e se mede em volts.
+Continuidade indica se há caminho fechado para a corrente passar.
+
+QUANDO USAR
+-----------
+Quando lanterna, rádio ou controle parar de funcionar.
+Quando for preciso saber se uma pilha ainda tem carga.
+Quando for preciso saber se bateria de 12 volts ainda serve.
+Quando for preciso saber se um fio está partido por dentro.
+Quando for preciso conferir os polos antes de ligar um aparelho.
+
+NAO USE QUANDO
+--------------
+Em tomada, quadro de luz ou fio de rede energizado.
+Com mãos molhadas, pés descalços no molhado ou sob chuva.
+Com ponta de prova rachada, derretida ou com metal exposto.
+Com tampa da bateria aberta ou seletor solto e falhando.
+
+MATERIAIS
+---------
+- Multímetro digital com bateria boa.
+- Pontas de prova vermelha e preta íntegras.
+- Pilha ou bateria a testar.
+- Papel e lápis para anotar a leitura.
+
+PROCEDIMENTO
+------------
+1. Trabalhe em local seco, com as mãos secas e boa luz.
+2. Inspecione corpo, visor, bornes e pontas antes de ligar.
+3. Encaixe a ponta preta no borne marcado COM.
+4. Encaixe a ponta vermelha no borne marcado V com ohm.
+5. Gire o seletor para tensão contínua marcada V com traço.
+6. Escolha escala maior que o valor que espera encontrar.
+7. Segure as pontas apenas pelas partes isoladas.
+8. Encoste a ponta preta no polo negativo da bateria.
+9. Encoste a ponta vermelha no polo positivo da bateria.
+10. Leia o visor sem mover nem cruzar as pontas.
+11. Afaste primeiro a ponta vermelha e depois a preta.
+12. Gire o seletor para desligado depois de medir tensão.
+13. Para continuidade, desligue toda energia do circuito.
+14. Gire o seletor para o símbolo de som.
+15. Encoste as duas pontas entre si e confirme o apito.
+16. Encoste uma ponta em cada extremo do fio desligado.
+17. Para resistência, desligue a energia e isole a peça.
+18. Gire o seletor para ohm e leia o valor no visor.
+
+ATENCAO
+-------
+Tensão de rede mata por choque e queimadura grave.
+Nunca meça tomada, quadro de luz ou fio de entrada energizado.
+Nunca troque a escala com as pontas encostadas no circuito.
+Ponta rachada ou metal exposto dá choque em quem segura.
+Curto entre polos de bateria causa faísca, calor e incêndio.
+Leitura negativa só indica ponta invertida em tensão contínua.
+Se sair cheiro, calor, fumaça ou estalo, afaste as pontas e pare.
+Este teste não conserta rede nem autoriza abrir quadro ligado.
+
+SE NAO TIVER
+------------
+Sem multímetro, troque a pilha suspeita por pilha nova sabida.
+Sem ponta reserva, não improvise com fio solto ou clipe aberto.
+Sem bateria no aparelho, troque a bateria antes de qualquer teste.
+Sem leitura confiável, repita com outro aparelho antes de decidir.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Pilha alcalina AA cheia marca aproximadamente 1,5 volts.
+Bateria de 12 volts em repouso marca aproximadamente 12,6 volts.
+Fio bom e desligado apita no teste de continuidade.
+Fio partido não apita e mostra circuito aberto no visor.
+
+FONTES
+------
+Prática consolidada de uso de instrumentos de medição elétrica,
+sem documento único.

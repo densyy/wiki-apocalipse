@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 30-007
+TITULO: Como calcular cargas e esforços mecânicos
+CATEGORIA: 30 - Engenharia e infraestrutura básica
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: caderno, lápis, fita métrica, balança, tabela de pesos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: carga, esforço, tensão, peso, viga, compressão, flexão
+==============================================================================
+
+OBJETIVO
+--------
+Calcular o peso sobre uma peça e conferir se o esforço é seguro.
+
+QUANDO USAR
+-----------
+Antes de improvisar prateleira, mesa ou cama elevada.
+Antes de apoiar reservatório de água em vigas ou laje.
+Para escolher entre madeira, aço ou concreto para uma viga.
+Quando uma peça existente mostra rachadura ou flecha visível.
+Ao estimar quantas pessoas uma passarela provisória suporta.
+
+NAO USE QUANDO
+--------------
+Não libere ponte, passarela, escada ou andaime para uso de outras pessoas.
+Este texto dá apenas uma estimativa, não um projeto.
+Não use se a peça já tem rachadura, apodrecimento ou flecha grande.
+Não use quando faltar peso, vão ou seção da peça.
+
+MATERIAIS
+---------
+- Caderno e lápis.
+- Fita métrica ou trena (cordão com nós a cada 10 cm).
+- Balança (comparação com peso conhecido de saco ou recipiente).
+- Tabela de peso específico dos materiais (valores aproximados).
+- Calculadora (ou conta feita no papel).
+
+PROCEDIMENTO
+------------
+1. Desenhe a peça no caderno e marque os dois apoios.
+2. Meça o vão entre apoios e a seção da peça; anote tudo em metros.
+3. Anote os pesos permanentes: peça, paredes, telhado e acabamento.
+4. Anote os pesos temporários: pessoas, móveis, água, sacos e ferramentas.
+5. Pese cada item; se não puder, use volume vezes peso aproximado.
+6. Some em quilogramas e multiplique por aproximadamente 10 para newtons.
+7. Redobre o total como margem aproximada para erro e imprevisto.
+8. Classifique: compressão em pilar, tração em cabo, flexão em viga.
+9. Em pilar ou cabo, divida a força pela área em metros quadrados.
+10. O resultado é a tensão em pascal: um newton por metro quadrado.
+11. Para viga apoiada nas pontas, divida a força pelo vão para obter q.
+12. Calcule M = q vezes vão vezes vão / 8, em newton-metro.
+13. Calcule S = largura vezes altura vezes altura / 6, em metros cúbicos.
+14. Divida M por S para obter a tensão de flexão em pascal.
+15. Compare com o limite de resistência em tabela ou ficha do material.
+16. Se a tensão passar do limite, aumente a seção ou reduza a carga.
+17. Refaça até ficar abaixo do limite; sem limite confiável, não use a peça.
+18. Exemplo: viga de 0,10 m por 0,20 m, vão de 2,0 m e carga de 200 kg.
+19. Nesse exemplo a força é aproximadamente 2000 N, já com a margem.
+20. Calcule q = 2000 / 2,0 = 1000 N por metro.
+21. Calcule M = 1000 vezes 2,0 vezes 2,0 / 8 = 500 newton-metro.
+22. Calcule S = 0,10 vezes 0,20 vezes 0,20 / 6 = aproximadamente 0,00067.
+23. A tensão é 500 / 0,00067 = aproximadamente 750 mil pascal.
+24. Compare com a resistência real da peça antes de usar.
+
+ATENCAO
+-------
+Esta conta é uma estimativa. Não substitui projeto nem norma técnica.
+Nunca dimensione estrutura para pessoas sem verificação de engenheiro.
+O erro mais comum é esquecer o peso da própria peça e dos acabamentos.
+Outro erro é medir em centímetros e esquecer de converter para metros.
+A flecha da viga cresce com a quarta potência do vão: dobrar o vão é grave.
+Água pesa aproximadamente 1000 kg por metro cúbico: tanque cheio é pesado.
+Madeira varia muito de resistência; use só peça seca e sem defeito.
+Se surgir rachadura, estalo ou flecha que aumenta, pare e retire a carga.
+
+SE NAO TIVER
+------------
+Sem balança, compare com saco de peso conhecido ou com o seu próprio peso.
+Sem trena, use cordão com nós e meça o comprimento depois com régua.
+Sem tabela, encha recipiente conhecido, pese e marque como aproximado.
+Sem ficha do material, reduza a carga e use peça com resistência conhecida.
+Sem calculadora, faça a conta no papel e arredonde sempre para cima.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A lista de cargas está no caderno, item por item, com o total anotado.
+Todas as contas usam a mesma unidade: newton, metro e pascal.
+A margem aproximada foi aplicada antes da comparação com o limite.
+A tensão calculada ficou menor que o limite de resistência anotado.
+A peça em uso não mostra flecha que cresce, estalo nem rachadura nova.
+
+FONTES
+------
+University Physics Volume 1, seção 12.3, OpenStax/Rice University (2016):
+tensão como força por área, tração, compressão e cisalhamento.
+Classificação de carga permanente e temporária e cálculo de vigas:
+prática consolidada de engenharia estrutural, sem documento único.

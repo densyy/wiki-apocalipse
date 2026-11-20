@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 59-005
+TITULO: Como identificar riscos ergonômicos
+CATEGORIA: 59 - Segurança industrial e riscos ocupacionais
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: caderno, caneta, relógio ou cronômetro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ergonomia, postura, esforço, repetição, dor, lesão, trabalho
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer as condições do trabalho que podem causar lesão por esforço.
+
+QUANDO USAR
+-----------
+Ao começar uma tarefa nova ou mudar o modo de execução.
+Depois de queixa de dor ou formigamento em mãos, braços ou costas.
+Quando o ritmo de trabalho aumentar ou as pausas desaparecerem.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Caderno e caneta para registrar.
+- Relógio ou cronômetro para contar o tempo.
+
+PROCEDIMENTO
+------------
+1. Escolha uma tarefa com início e fim claros para observar.
+2. Mantenha distância de máquinas em movimento durante a observação.
+3. Observe a tarefa completa uma vez antes de anotar.
+4. Anote a posição do tronco, pescoço, ombros, braços, punhos e joelhos.
+5. Conte quantas vezes o mesmo gesto se repete em um minuto.
+6. Cronometre quanto tempo a pessoa mantém a mesma posição.
+7. Anote a altura e a distância do corpo no ponto de pega.
+8. Anote a altura e a distância no ponto de depósito da carga.
+9. Anote o peso e o volume da carga movimentada.
+10. Observe se a ferramenta exige força ou impacto repetido.
+11. Observe se a iluminação é fraca, se há ruído ou frio intenso.
+12. Pergunte onde a pessoa sente cansaço, dor ou formigamento.
+13. Verifique registros de queixas, acidentes e pausas da área.
+14. Priorize o que junta força, repetição e postura forçada.
+15. Registre cada risco com data e local da observação.
+16. Entregue o registro ao responsável da área.
+
+ATENCAO
+-------
+Esta triagem não substitui a avaliação ergonômica prevista na NR-17.
+Dor persistente, formigamento ou perda de força exigem avaliação de saúde.
+Não toque nem interrompa máquina em operação durante a observação.
+Uma só observação não basta: repita em outro dia e outro turno.
+
+SE NAO TIVER
+------------
+Sem cronômetro, conte os ciclos em um minuto com o relógio de pulso.
+Sem ficha impressa, use uma coluna do caderno para cada trabalhador.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O caderno traz, para cada tarefa, postura, repetição, tempo e queixa.
+Existe uma lista priorizada com data e local, entregue ao responsável.
+
+FONTES
+------
+NR-17 do Ministério do Trabalho e Emprego; guia da OMS sobre prevenção
+de distúrbios musculoesqueléticos; orientações do NIOSH e da EU-OSHA.

@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 05-016
+TITULO: Como aplicar fundamentos de construção civil
+CATEGORIA: 05 - Abrigo, construção e habitação
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: trena ou corda marcada, prumo simples, terreno firme e seco
+REVISAO: 2026-11
+PALAVRAS-CHAVE: construção, alicerce, nível, prumo, parede, telhado
+==============================================================================
+
+OBJETIVO
+--------
+Avaliar o terreno e levantar parede pequena firme, no nível e no prumo.
+
+QUANDO USAR
+-----------
+Quando precisa levantar parede pequena, mureta ou base de abrigo.
+Quando precisa fazer base simples para fogão, banco ou reservatório.
+Quando precisa escolher onde construir sem água e sem desabamento.
+
+NAO USE QUANDO
+--------------
+Em encosta íngreme, beira de barranco ou solo fofo que afunda.
+Para laje, telhado grande ou muro alto sem ajuda de profissional.
+
+MATERIAIS
+---------
+- Trena ou corda com nós a cada 1 m (vara marcada).
+- Prumo de barbante com peso e nível simples de pedreiro.
+- Blocos ou tijolos, areia, cimento ou barro, água limpa.
+- Colher de pedreiro, enxada, balde, estacas e linha.
+
+PROCEDIMENTO
+------------
+1. Escolha terreno alto, plano e firme, longe de água que sobe.
+2. Limpe mato e pedra solta e marque o contorno com estacas.
+3. Confira o esquadro, que é o canto reto, com lados de 3, 4 e 5 m.
+4. Cave a valeta da fundação, que é a base, de aproximadamente 30 cm.
+5. Compacte o fundo com socador e assente pedra grande e plana.
+6. Prepare argamassa, que é a massa que cola, firme e sem água solta.
+7. Assente a primeira fiada e confira o nível, que é a reta horizontal.
+8. Suba as fiadas cruzando as juntas como tijolos desencontrados.
+9. Confira prumo e nível a cada duas fiadas e corrija na hora.
+10. Proteja do sol forte e da chuva e deixe firmar por um dia.
+
+ATENCAO
+-------
+Fundação fraca racha, inclina e derruba a parede em semanas.
+Parede fora de prumo cai com vento e com peso do telhado.
+Argamassa mole escorre e seca fraca sem fixar os blocos.
+Se o solo ceder, trincar ou minar água, pare e mude o local.
+
+SE NAO TIVER
+------------
+Sem trena, use corda com nós ou vara marcada a cada passo.
+Sem prumo, use barbante com pedra e confira com nível de água.
+Sem cimento, use barro firme apenas para parede baixa e seca.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A parede fica reta, firme e sem balançar ao empurrar de leve.
+A água da chuva escorre para fora e a base segue seca e firme.
+
+FONTES
+------
+Prática consolidada de alvenaria simples e abrigo em desastres
+(famílias de referência: FEMA, Defesa Civil e manual militar de
+sobrevivência civil). Resumo operacional, sem treinamento.

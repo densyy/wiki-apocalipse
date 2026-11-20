@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 65-012
+TITULO: Como identificar termofixos
+CATEGORIA: 65 - Engenharia de materiais e polímeros
+TEMPO: 25 minutos
+RISCO: medio
+EXIGE: luz forte, agulha com cabo isolante, água, ventilação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: termofixo, plástico, resina, baquelite, epóxi, derreter
+==============================================================================
+
+OBJETIVO
+--------
+Distinguir termofixo de termoplástico para saber se a peça aguenta calor.
+
+QUANDO USAR
+-----------
+Quando você encontra plástico desconhecido e quer saber se aguenta calor.
+Quando precisa de isolante elétrico ou térmico improvisado.
+Antes de usar plástico descartado perto de fogo ou chapa quente.
+
+NAO USE QUANDO
+--------------
+Não use para liberar peça de segurança: capacete, cinto ou isolamento.
+Não queime plástico em ambiente fechado: os fumos são tóxicos.
+Não teste peça que precisa ficar intacta: a amostra é destruída.
+
+MATERIAIS
+---------
+- Luz forte ou lanterna e lupa ou lente do celular.
+- Agulha presa em cabo isolante.
+- Recipiente com água, pano, luvas e proteção ocular.
+
+PROCEDIMENTO
+------------
+1. Limpe a peça com pano seco; retire poeira e gordura.
+2. Observe com lupa: termofixo é opaco, com fibra ou pó mineral.
+3. Bata com metal: som metálico parecido com clink indica baquelite.
+4. Esfregue com a unha: termofixo risca pouco; termoplástico fica fosco.
+5. Coloque na água: se afundar, há carga mineral, comum em termofixos.
+6. Aqueça a ponta da agulha pelo cabo até ficar vermelha.
+7. Encoste na borda escondida por aproximadamente 2 segundos.
+8. Retire a agulha: fio que estica ao sair indica termoplástico.
+9. Marca escura sem fio indica termofixo. Repita e descarte a amostra.
+
+ATENCAO
+-------
+O teste destrói a amostra: use peça descartável ou borda escondida.
+Agulha e plástico quente queimam: use luva, nunca toque na ponta.
+Plástico quente libera fumos tóxicos: ventile e não inale a fumaça.
+Não use chama direta: fogo em plástico pode incendiar e soltar gases.
+Termofixo não derrete, mas racha e solta resina; não reaqueça.
+O teste separa famílias, não identifica a resina; na dúvida, descarte.
+
+SE NAO TIVER
+------------
+Sem agulha, use arame fino ou ponta de chave, sempre pelo cabo.
+Sem lupa, observe contra a luz e confie no som ao bater.
+Sem água, pule a densidade: é pista, não prova.
+Sem luva ou ventilação, faça só os testes visual e de som; não aqueça.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Sem fio na agulha, marca escura e material rígido confirmam o termofixo.
+
+FONTES
+------
+Prática consolidada de engenharia de materiais: ensaios por calor
+e densidade. Definição de termofixo do Compêndio de Terminologia
+Química da IUPAC, conforme revisão consultada. Resumo operacional.

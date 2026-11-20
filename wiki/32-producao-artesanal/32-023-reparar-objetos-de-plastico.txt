@@ -1,0 +1,83 @@
+==============================================================================
+CODIGO: 32-023
+TITULO: Como reparar objetos de plástico
+CATEGORIA: 32 - Produção industrial e manufatura artesanal
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: massa epóxi de duas partes, luvas, ventilação, pano limpo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: plástico, reparo, cola, epóxi, massa, rachadura, quebrado
+==============================================================================
+
+OBJETIVO
+--------
+Fechar rachaduras e quebras de objetos de plástico com massa epóxi.
+
+QUANDO USAR
+-----------
+Quando uma peça de plástico rachou ou quebrou em duas partes.
+Quando falta pedaço pequeno de peça que não suporta peso.
+Quando a peça é de uso doméstico e pode ficar parada até a cura.
+
+NAO USE QUANDO
+--------------
+Não use em peça que encosta em alimento, água potável ou boca.
+Não use em peça que sustenta peso, anda, gira ou fica sob tensão.
+Não use se a massa não aderir em teste feito numa sobra da peça.
+
+MATERIAIS
+---------
+- Massa epóxi de duas partes para plástico (adesivo epóxi de duas partes).
+- Luvas de nitrilo (ou o material indicado na embalagem do produto).
+- Água e sabão (álcool, se a embalagem do adesivo permitir).
+- Lixa fina.
+- Pano limpo e palito descartável para misturar.
+- Pregador ou fita (um peso pequeno) para manter a peça unida.
+- Local arejado, longe de fogo e de crianças.
+
+PROCEDIMENTO
+------------
+1. Retire a peça do uso e separe os pedaços soltos.
+2. Lave a peça com água e sabão para remover óleo e sujeira.
+3. Enxugue bem com o pano limpo.
+4. Lixe de leve as bordas da rachadura para a massa agarrar.
+5. Retire o pó da lixação com o pano seco.
+6. Vista as luvas e abra a embalagem no local arejado.
+7. Corte a quantidade necessária de cada uma das duas partes.
+8. Misture com o palito até a cor ficar uniforme, sem veios.
+9. Pressione a massa na rachadura até preencher o vazio por inteiro.
+10. Una os pedaços e prenda com pregador, fita ou peso.
+11. Retire o excesso que saiu antes de a massa endurecer.
+12. Deixe curar no local arejado pelo tempo da embalagem.
+13. Lixe o excesso depois da cura para alisar a superfície.
+14. Lave as mãos com água e sabão ao terminar.
+
+ATENCAO
+-------
+A massa epóxi só é segura depois de curada; antes disso irrita a pele.
+O contato repetido com resina não curada pode causar alergia permanente.
+Vapores e pós da lixação podem irritar olhos, nariz e pulmões.
+Nunca misture perto de fogo, chama ou motor ligado: há risco de incêndio.
+A cura esquenta; não aplique camada grossa de uma só vez.
+Pare e lave a pele se aparecer vermelhidão, coceira ou ardência.
+Não use a peça reparada para guardar comida ou água de beber.
+Peça quebrada sob peso pode soltar e machucar; descarte, não repare.
+A cura costuma levar aproximadamente 24 horas; siga o rótulo do produto.
+
+SE NAO TIVER
+------------
+Sem massa epóxi, use fita adesiva forte só como apoio temporário.
+Sem luvas, não faça o reparo; a resina pode sensibilizar a pele.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A rachadura ficou cheia e a peça não abre ao se apertar as pontas.
+Depois da cura a superfície está dura e não gruda no dedo.
+Não fica cheiro de resina na peça reparada.
+
+FONTES
+------
+Orientações do NIOSH/CDC sobre epóxis e resinas, inclusive o alerta
+"Hazard Alert: Epoxy Resin Systems" (CPWR/CDC Stacks, 2023).
+A sequência de limpar, lixar, misturar, prender e curar é prática
+consolidada de reparo com adesivo de duas partes, sem norma única.

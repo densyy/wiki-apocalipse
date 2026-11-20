@@ -1,0 +1,90 @@
+==============================================================================
+CODIGO: 60-011
+TITULO: Como planejar depósitos coletivos
+CATEGORIA: 60 - Arquitetura, urbanismo e assentamentos
+TEMPO: 1 dia
+RISCO: medio
+EXIGE: terreno seco, trena, caderno, pallets, cadeado
+REVISAO: 2026-11
+PALAVRAS-CHAVE: depósito, estoque, mantimentos, água, segurança, inventário
+==============================================================================
+
+OBJETIVO
+--------
+Montar um depósito comum que guarde mantimentos, água e ferramentas
+organizados, protegidos e fáceis de distribuir em uma crise.
+
+QUANDO USAR
+-----------
+Quando um grupo compartilha alimentos, água ou remédios e precisa de um
+ponto único de guarda.
+Quando doações chegam sem ordem e é preciso classificá-las.
+Quando o abrigo ou o assentamento reúne várias famílias.
+Quando é preciso controlar quem retira suprimentos e em que quantidade.
+
+NAO USE QUANDO
+--------------
+Não improvise depósito em terreno alagadiço, em área de enchente ou ao
+lado de fontes de calor, faísca ou combustível. Não guarde combustível,
+agrotóxico ou veneno no mesmo ambiente de alimentos.
+
+MATERIAIS
+---------
+- Terreno firme, seco e mais alto que o entorno (plataforma de terra
+  batida ou laje).
+- Cobertura impermeável (lonça, telha ou lona) e paredes que fechem.
+- Prateleiras ou pallets para afastar tudo do chão (tijolos e tábuas).
+- Caixas, sacos e potes com tampa e etiqueta.
+- Caderno, lápis e etiquetas para o inventário.
+- Cadeado e fecho na porta (tranca de madeira se não houver cadeado).
+
+PROCEDIMENTO
+------------
+1. Escolha o ponto mais alto, seco e protegido do vento dentro do abrigo.
+2. Meça o espaço disponível com a trena e desenhe a planta no caderno.
+3. Separe áreas: alimentos, água, ferramentas e remédios em cantos
+   distintos.
+4. Eleve tudo do chão com pallets, tijolos ou tábuas a aproximadamente
+   15 centímetros de altura.
+5. Instale a cobertura e as paredes para que a chuva não entre e o ar
+   circule.
+6. Coloque os alimentos em caixas tampadas e rotule com conteúdo e data.
+7. Guarde a água em recipientes próprios, separados de combustíveis.
+8. Anote no caderno cada item que entra, com quantidade e data.
+9. Anote cada retirada, com quantidade, data e quem retirou.
+10. Defina uma pessoa responsável para abrir e fechar o depósito.
+11. Faça a primeira contagem de estoque e guarde o caderno em local seco.
+
+ATENCAO
+-------
+Depósito mal localizado perde tudo em enchente, umidade ou incêndio.
+Nunca empilhe sacos encostados na parede: a umidade apodrece a base.
+Alimentos sem etiqueta de data vencem sem ninguém perceber.
+Ratos e insetos contaminam mantimentos; mantenha caixas fechadas e
+limpe ao redor. Não misture combustível, veneno ou agrotóxico com
+alimentos: a contaminação não aparece e pode intoxicar.
+Se houver cheiro estranho, mofo ou água parada, retire o lote e isole.
+Fogo em depósito fechado produz fumaça tóxica: nunca durma ao lado
+do depósito e mantenha sempre uma saída livre.
+
+SE NAO TIVER
+------------
+Sem prateleiras, use tijolos e tábuas como suporte. Sem caixas, use
+baldes e potes com tampa, bem fechados. Sem cadeado, use uma tranca de
+madeira e mantenha a chave com uma pessoa de confiança. Sem trena,
+meça com o antebraço e anote a medida aproximada. Se não houver lugar
+seco, construa primeiro uma plataforma elevada antes de guardar os
+suprimentos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O chão está seco, tudo fica sobre suporte e separado por tipo, cada caixa
+tem etiqueta legível com conteúdo e data, o caderno registra entradas e
+saídas e a porta fecha e tranca.
+
+FONTES
+------
+Prática consolidada de armazenagem e logística de emergência, alinhada
+à família de referência humanitária (Sphere, IFRC e Cruz Vermelha).
+Nenhum documento específico foi consultado diretamente nesta redação;
+confira o protocolo local antes de adotar como regra do grupo.

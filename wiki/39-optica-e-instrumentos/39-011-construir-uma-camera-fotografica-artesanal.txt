@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 39-011
+TITULO: Como construir uma câmera fotográfica artesanal
+CATEGORIA: 39 - Óptica e instrumentos científicos
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: caixa opaca, papel-alumínio, alfinete, filme ou papel fotográfico
+REVISAO: 2026-11
+PALAVRAS-CHAVE: câmera, pinhole, fotografia, câmara escura, filme, orifício
+==============================================================================
+
+OBJETIVO
+--------
+Construir uma câmera sem lente que registra imagens em filme.
+
+QUANDO USAR
+-----------
+Quando não houver câmera comercial e for preciso registrar uma cena.
+Quando houver filme ou papel fotográfico e tempo para exposições longas.
+
+NAO USE QUANDO
+--------------
+Quando não houver material sensível à luz: sem filme, não há registro.
+
+MATERIAIS
+---------
+- Caixa opaca, como caixa de papelão forrada com papel preto.
+- Papel-alumínio ou chapa fina de metal para o orifício.
+- Alfinete ou clipe de metal para furar o alumínio.
+- Filme ou papel fotográfico, fita opaca e tesoura.
+
+PROCEDIMENTO
+------------
+1. Forre o interior da caixa com papel preto ou tinta preta.
+2. Feche as frestas com fita e verifique se não entra luz.
+3. Abra um quadrado de aproximadamente 2 cm no centro de uma face.
+4. Cubra o quadrado com papel-alumínio e prenda com fita nas bordas.
+5. Fure o centro com alfinete até abrir orifício limpo e redondo.
+6. Confira o orifício: pequeno, redondo, sem rebarbas e sem rasgos.
+7. No escuro, prenda o filme na face oposta com fita nas bordas.
+8. Vire a camada sensível (emulsão) do filme para o orifício.
+9. Feche a caixa no escuro e não abra até a revelação.
+10. Cubra o orifício com fita para servir de obturador.
+11. Aponte a caixa para a cena, com o orifício voltado a ela.
+12. Destampe por aproximadamente 5 a 30 segundos em pleno sol.
+13. Tampe o orifício e retire o filme no escuro para guardar.
+
+ATENCAO
+-------
+A luz direta arruína o filme: manuseie o material só no escuro total.
+Um orifício grande ou com rebarbas deixa a imagem borrada.
+Qualquer fresta de luz na caixa vela o filme inteiro e perde a foto.
+A imagem registrada fica de cabeça para baixo e invertida.
+Não olhe diretamente para o Sol nem aponte a câmera para ele.
+
+SE NAO TIVER
+------------
+Sem papel-alumínio, use chapa fina de tampa de lata ou embalagem.
+Sem filme, use papel fotográfico, que também é sensível à luz.
+Sem local escuro, espere a noite e cubra a caixa com pano opaco.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A imagem no filme mostra a cena invertida, com contornos reconhecíveis.
+Com a caixa fechada, nenhuma luz aparece no interior.
+
+FONTES
+------
+Prática consolidada de câmera pinhole do projeto educacional do NASA JPL
+e nas demonstrações de óptica da Universidade do Colorado em Boulder.

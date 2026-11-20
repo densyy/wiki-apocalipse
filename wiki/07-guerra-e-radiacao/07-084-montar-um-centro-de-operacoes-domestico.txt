@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 07-084
+TITULO: Como montar um centro de operações doméstico
+CATEGORIA: 07 - Guerra, radiação e catástrofes nucleares
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: canto fixo em casa, caderno, rádio a pilha, pilhas, carregador
+REVISAO: 2026-11
+PALAVRAS-CHAVE: centro de operações, comando, emergência, rádio, contatos
+==============================================================================
+
+OBJETIVO
+--------
+Deixe um ponto fixo em casa para receber avisos, decidir e se comunicar.
+
+QUANDO USAR
+-----------
+Quando houver alerta de tempestade, conflito ou corte de energia.
+Quando luz e internet caírem e o celular virar a única ligação.
+
+NAO USE QUANDO
+--------------
+Em casa danificada ou sob ameaça direta, evacue em vez de montar o ponto.
+
+MATERIAIS
+---------
+- Caderno e lápis (folha solta e caneta)
+- Rádio a pilha (rádio de manivela)
+- Pilhas reservas e bateria externa (carregador de tomada)
+- Cópia de documentos em saco plástico (fotos no celular)
+- Mapa impresso da região (mapa desenhado à mão)
+
+PROCEDIMENTO
+------------
+1. Escolha um cômodo interno longe de janelas e da porta da rua.
+2. Reserve uma mesa ou prateleira fixa e diga a todos onde fica.
+3. Afixe nela a folha com telefones, pontos de encontro e rotas.
+4. Coloque o rádio a pilha e as pilhas reservas ao lado da folha.
+5. Guarde documentos e dinheiro em saco plástico dentro da mesa.
+6. Deixe lanterna, apito e bateria externa no mesmo lugar.
+7. Anote no caderno a data, a hora e cada aviso recebido.
+8. Combine quem liga o rádio, quem socorre e quem registra os avisos.
+9. Ensine todos a encontrar o ponto sem precisar perguntar.
+10. Teste o ponto e repita o teste a cada aproximadamente 6 meses.
+
+ATENCAO
+-------
+O centro não protege de bomba, tiro, incêndio ou gás vazando.
+Sem energia, celular e internet podem cair; o rádio a pilha manda.
+Não dependa só do celular: a rede satura quando muitos ligam.
+Não coloque o ponto junto de janela, fogão ou fio elétrico exposto.
+Com cheiro de gás, fogo ou prédio danificado, saia e não volte.
+
+SE NAO TIVER
+------------
+Sem mesa, use uma caixa com tampa encostada na mesma parede.
+Sem rádio, combine um horário fixo de escuta com vizinho ou parente.
+Sem mapa impresso, desenhe à mão as ruas e o ponto de encontro.
+Sem pilhas, deixe o celular carregado e em modo de baixo consumo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada pessoa aponta o ponto sem olhar e cita o contato fora da cidade.
+O rádio liga na primeira tentativa e a folha de contatos está legível.
+Documentos, pilhas e lanterna aparecem na mesa sem busca.
+
+FONTES
+------
+Guias Make a Plan, Build a Kit e Get Tech Ready do Ready.gov (FEMA/DHS).
+==============================================================================

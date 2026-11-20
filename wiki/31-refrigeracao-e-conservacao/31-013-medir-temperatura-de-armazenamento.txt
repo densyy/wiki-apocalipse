@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 31-013
+TITULO: Como medir temperatura de armazenamento
+CATEGORIA: 31 - Refrigeração e conservação térmica
+TEMPO: 15 minutos
+RISCO: medio
+EXIGE: termômetro de geladeira e freezer, copo d'água, caderno, lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: temperatura, geladeira, freezer, termômetro, alimentos
+==============================================================================
+
+OBJETIVO
+--------
+Verificar se a geladeira e o freezer mantêm alimentos em temperatura segura.
+QUANDO USAR
+-----------
+Ao ligar uma geladeira ou freezer pela primeira vez.
+Depois de queda de energia ou de porta aberta por muito tempo.
+Quando o alimento estraga antes do prazo indicado.
+Uma vez por semana, como checagem de rotina.
+NAO USE QUANDO
+--------------
+- Não use termômetro infravermelho para medir o centro do alimento.
+- Não confie no botão de posição: ele não mostra graus.
+- Não use este procedimento para salvar alimento com cheiro estranho.
+MATERIAIS
+---------
+- Termômetro de aparelho, um para a geladeira e um para o freezer.
+- Copo com água limpa para medir o ar da geladeira.
+- Caderno e lápis para anotar hora, local e valor lido.
+- Termômetro de sonda limpo, para medir o centro do alimento.
+PROCEDIMENTO
+------------
+1. Anote o alvo: geladeira até 4 °C e freezer a -18 °C ou menos.
+2. Coloque um termômetro na frente da geladeira, à vista.
+3. Coloque o outro no freezer, entre os pacotes congelados.
+4. Ponha água em um copo e o termômetro dentro dele.
+5. Deixe o copo na prateleira do meio, longe da porta e do ar frio.
+6. Feche a porta e espere de 5 a 8 horas sem abrir.
+7. Leia o valor e anote a hora e o local medidos.
+8. Se a geladeira passar de 4 °C, aumente o frio no controle.
+9. Espere de 5 a 8 horas e meça de novo até estabilizar.
+10. Se o freezer passar de -18 °C, ajuste e meça de novo.
+11. Limpe a sonda do termômetro com água potável.
+12. Enfie a sonda no centro da porção mais grossa e anote.
+13. Repita a leitura dos aparelhos uma vez por semana.
+ATENCAO
+-------
+A zona de crescimento rápido vai de aproximadamente 5 °C a 60 °C.
+Fontes divergem: 4 °C nos EUA e abaixo de 5 °C na Anvisa.
+Use 4 °C como alvo para ganhar margem de segurança.
+O ar muda de temperatura mais depressa que o alimento.
+Infravermelho lê só a superfície e pode esconder alimento quente.
+Comida acima de 4 °C por mais de 2 horas deve ser descartada.
+Se não souber o tempo fora do frio, descarte e busque ajuda.
+SE NAO TIVER
+------------
+Sem termômetro de aparelho, comprá-lo é a única forma segura.
+Sem termômetro, não confie no botão nem na presença de gelo.
+Sem sonda, meça o ar e registre que a leitura é do ar, não do alimento.
+COMO SABER QUE DEU CERTO
+------------------------
+A geladeira marca no máximo 4 °C e o freezer -18 °C ou menos.
+As leituras ficaram anotadas com hora e local.
+Após ajustar o controle, uma nova leitura confirmou o valor.
+FONTES
+------
+USDA/FSIS: orientações sobre termômetros de geladeira e freezer.
+FDA: geladeira a 4 °C, freezer a -18 °C e checagem semanal.
+Anvisa: RDC 216/2004 e orientações sobre termômetros de alimentos.

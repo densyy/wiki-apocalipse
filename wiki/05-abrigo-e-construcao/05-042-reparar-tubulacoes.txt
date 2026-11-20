@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 05-042
+TITULO: Como reparar tubulações
+CATEGORIA: 05 - Abrigo, construção e habitação
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: acesso ao registro, tubo aparente e pano seco
+REVISAO: 2026-11
+PALAVRAS-CHAVE: cano, vazamento, encanamento, água, conserto, vedar
+==============================================================================
+
+OBJETIVO
+--------
+Estancar um vazamento pequeno em tubo aparente de água fria.
+
+QUANDO USAR
+-----------
+Quando pinga em junta, curva ou furo pequeno de cano aparente.
+Quando a parede mancha de umidade perto de um tubo visível.
+Quando é preciso segurar o vazamento até o conserto definitivo.
+
+NAO USE QUANDO
+--------------
+Em tubo de gás: feche o registro, ventile e chame um técnico.
+Em tubo de água muito quente ou com jato forte sob pressão.
+Em coluna principal do prédio ou em rede da rua.
+Em cano de esgoto rompido: evite contato e só contenha por fora.
+
+MATERIAIS
+---------
+- Chave ajustável ou alicate comum.
+- Pano seco, balde e lixa grossa (palha de aço).
+- Pedaço de borracha flexível de aproximadamente 10 x 10 cm.
+- Duas abraçadeiras metálicas do diâmetro do tubo (arame grosso).
+
+PROCEDIMENTO
+------------
+1. Feche o registro do trecho e abra a torneira para esvaziar.
+2. Seque bem o tubo com o pano e ponha o balde sob o furo.
+3. Lixe de leve ao redor do furo para a borracha assentar.
+4. Corte a borracha maior que o furo em aproximadamente 3 cm.
+5. Cubra o furo com a borracha bem centrada sobre ele.
+6. Prenda com duas abraçadeiras, uma de cada lado do furo.
+7. Aperte aos poucos, alternando os lados, sem amassar o tubo.
+8. Abra o registro devagar e observe por aproximadamente 5 minutos.
+9. Se continuar pingando, feche de novo e reaperte o remendo.
+
+ATENCAO
+-------
+Remendo é provisório: troque o trecho furado assim que puder.
+Água em tomada e fiação dá choque: desligue a energia do local.
+Não beba água que passou por cano sujo ou remendo improvisado.
+Se o jato não cede ou a parede incha, feche o geral e pare.
+
+SE NAO TIVER
+------------
+Sem abraçadeira, amarre a borracha com arame bem apertado.
+Sem borracha, use várias voltas de fita ou tira de plástico.
+Sem registro do trecho, feche o geral da casa antes de mexer.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O pingo para e a junta segue seca com o registro aberto.
+Nenhuma mancha nova aparece na parede em um dia de uso.
+
+FONTES
+------
+Prática consolidada de reparo simples em água fria predial
+(famílias de referência: FEMA, IFRC e manual militar de
+sobrevivência civil). Resumo operacional, sem treinamento.

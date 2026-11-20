@@ -1,0 +1,2972 @@
+======================================================================
+INDICE RESUMIDO - pastas e tutoriais
+Total: 90 pastas, 2514 tutoriais
+======================================================================
+
+SUMARIO
+----------------------------------------------------------------------
+01. 01-agua-e-abastecimento/ (55)
+02. 02-alimentacao-e-producao/ (133)
+03. 03-medicina-e-primeiros-socorros/ (108)
+04. 04-energia-e-eletricidade/ (75)
+05. 05-abrigo-e-construcao/ (50)
+06. 06-higiene-e-saneamento/ (35)
+07. 07-guerra-e-radiacao/ (85)
+08. 08-ferramentas-e-fabricacao/ (65)
+09. 09-comunicacao-e-navegacao/ (59)
+10. 10-ambientes-naturais/ (46)
+11. 11-psicologia-e-convivencia/ (28)
+12. 12-economia-e-comercio/ (26)
+13. 13-quimica-aplicada/ (34)
+14. 14-biologia-e-botanica/ (30)
+15. 15-texteis-e-roupas/ (30)
+16. 16-transporte-e-mobilidade/ (30)
+17. 17-meteorologia-e-clima/ (28)
+18. 18-criancas-e-bebes/ (20)
+19. 19-saude-feminina-e-parto/ (20)
+20. 20-animais-e-pecuaria/ (28)
+21. 21-direito-e-documentacao/ (19)
+22. 22-educacao/ (20)
+23. 23-artes-e-cultura/ (20)
+24. 24-seguranca-e-protecao/ (20)
+25. 25-nutricao-e-fisiologia/ (25)
+26. 26-odontologia/ (15)
+27. 27-visao-e-audicao/ (19)
+28. 28-logistica-e-recursos/ (21)
+29. 29-tecnologia-e-computacao/ (40)
+30. 30-engenharia-e-infraestrutura/ (25)
+31. 31-refrigeracao-e-conservacao/ (14)
+32. 32-producao-artesanal/ (25)
+33. 33-agricultura-avancada/ (20)
+34. 34-orientacao-e-maritimo/ (19)
+35. 35-temas-especiais/ (25)
+36. 36-geologia-e-mineracao/ (40)
+37. 37-cartografia-e-topografia/ (25)
+38. 38-astronomia-e-tempo/ (25)
+39. 39-optica-e-instrumentos/ (22)
+40. 40-acustica/ (16)
+41. 41-navegacao-avancada/ (22)
+42. 42-engenharia-naval/ (20)
+43. 43-materiais-de-construcao/ (25)
+44. 44-hidrologia-e-rios/ (20)
+45. 45-saneamento-e-saude-publica/ (20)
+46. 46-medicina-veterinaria/ (20)
+47. 47-tecnologia-agricola/ (20)
+48. 48-alimentos-em-escala/ (20)
+49. 49-engenharia-quimica/ (20)
+50. 50-tecnicas-pre-industriais/ (25)
+51. 51-matematica-aplicada/ (30)
+52. 52-fisica-aplicada/ (30)
+53. 53-medicamentos-e-farmacologia/ (30)
+54. 54-fitoterapia/ (25)
+55. 55-abelhas-e-insetos/ (25)
+56. 56-genetica-e-melhoramento/ (20)
+57. 57-climatizacao-e-conforto/ (20)
+58. 58-prevencao-e-combate-a-incendios/ (20)
+59. 59-seguranca-industrial/ (25)
+60. 60-arquitetura-e-urbanismo/ (25)
+61. 61-floresta-e-manejo/ (20)
+62. 62-pecuaria-e-processamento/ (25)
+63. 63-microbiologia-e-contaminacao/ (25)
+64. 64-laboratorio-e-diagnostico/ (24)
+65. 65-materiais-e-polimeros/ (25)
+66. 66-mecanica-de-precisao/ (20)
+67. 67-robotica-e-automacao/ (20)
+68. 68-radiofrequencia/ (25)
+69. 69-eletronica-analogica/ (25)
+70. 70-computacao-e-preservacao-digital/ (30)
+71. 71-criptografia-e-privacidade/ (20)
+72. 72-iluminacao/ (15)
+73. 73-armazenamento-de-produtos/ (19)
+74. 74-reciclagem-e-reaproveitamento/ (20)
+75. 75-tecnologias-tropicais/ (20)
+76. 76-biomas-brasileiros/ (25)
+77. 77-comunicacao-sem-eletricidade/ (15)
+78. 78-pontes-e-estradas/ (20)
+79. 79-sobrevivencia-subterranea/ (14)
+80. 80-combustiveis-e-lubrificantes/ (20)
+81. 81-fornos-e-engenharia-termica/ (20)
+82. 82-governanca-e-sociedades/ (25)
+83. 83-psicologia-social/ (20)
+84. 84-formacao-de-especialistas/ (20)
+85. 85-historia-economica/ (15)
+86. 86-materiais-vegetais/ (20)
+87. 87-energia-mecanica-e-hidraulica/ (15)
+88. 88-geografia-e-recursos/ (15)
+89. 89-cuidados-com-idosos/ (15)
+90. 90-emergencias-quimicas/ (20)
+
+
+======================================================================
+01. 01-agua-e-abastecimento/
+======================================================================
+  01-001-ferver-agua.txt
+  01-002-encontrar-fontes-naturais-de-agua.txt
+  01-003-identificar-nascentes.txt
+  01-004-encontrar-agua-em-florestas.txt
+  01-005-encontrar-agua-em-regioes-aridas.txt
+  01-006-encontrar-agua-em-regioes-montanhosas.txt
+  01-007-encontrar-agua-em-periodos-de-seca.txt
+  01-008-identificar-sinais-de-agua-subterranea.txt
+  01-009-cavar-um-poco-manualmente.txt
+  01-010-construir-um-poco-raso.txt
+  01-011-construir-um-poco-artesiano-conceitos.txt
+  01-012-coletar-agua-da-chuva.txt
+  01-013-construir-um-coletor-de-orvalho.txt
+  01-014-obter-agua-da-condensacao.txt
+  01-015-construir-um-destilador-solar.txt
+  01-016-extrair-agua-de-plantas-com-seguranca.txt
+  01-017-coletar-agua-de-rios-e-corregos.txt
+  01-018-identificar-fontes-de-agua-contaminadas.txt
+  01-019-avaliar-visualmente-uma-fonte-de-agua.txt
+  01-020-obter-agua-em-ambientes-urbanos-sem.txt
+  01-021-encontrar-agua-em-edificios-abandonados.txt
+  01-022-filtrar-agua-com-materiais-naturais.txt
+  01-023-construir-um-filtro-de-areia-e-cascalho.txt
+  01-024-construir-um-filtro-de-ceramica.txt
+  01-025-fabricar-carvao-ativado.txt
+  01-026-utilizar-carvao-ativado-no-tratamento-de-agua.txt
+  01-027-utilizar-cloro-para-desinfeccao-da-agua.txt
+  01-028-utilizar-pastilhas-de-purificacao.txt
+  01-029-construir-um-sistema-de-filtragem-por-gravidade.txt
+  01-030-construir-um-filtro-de-agua-portatil.txt
+  01-031-dessalinizar-agua-do-mar.txt
+  01-032-destilar-agua-contaminada.txt
+  01-033-remover-sedimentos-da-agua.txt
+  01-034-armazenar-agua-tratada-sem-recontaminacao.txt
+  01-035-identificar-contaminacao-quimica-na-agua.txt
+  01-036-lidar-com-agua-contaminada-por-combustiveis.txt
+  01-037-lidar-com-agua-contaminada-por-metais-pesados.txt
+  01-038-tratar-agua-apos-enchentes.txt
+  01-039-tratar-agua-apos-contaminacao-biologica.txt
+  01-040-avaliar-a-eficiencia-de-um-metodo-de-purificacao.txt
+  01-041-construir-reservatorios-de-agua.txt
+  01-042-armazenar-agua-por-longos-periodos.txt
+  01-043-higienizar-recipientes-de-armazenamento.txt
+  01-044-construir-cisternas.txt
+  01-045-construir-um-sistema-de-captacao-de-chuva.txt
+  01-046-instalar-calhas-improvisadas.txt
+  01-047-construir-uma-torre-de-agua.txt
+  01-048-distribuir-agua-por-gravidade.txt
+  01-049-construir-um-sistema-de-irrigacao-por.txt
+  01-050-calcular-o-consumo-diario-de-agua.txt
+  01-051-racionar-agua-em-emergencias.txt
+  01-052-reaproveitar-agua-cinza.txt
+  01-053-identificar-vazamentos-em-sistemas-hidraulicos.txt
+  01-054-reparar-tubulacoes-sem-ferramentas.txt
+  01-055-construir-uma-bomba-manual-de-agua.txt
+
+======================================================================
+02. 02-alimentacao-e-producao/
+======================================================================
+  02-001-iniciar-uma-horta-do-zero.txt
+  02-002-preparar-o-solo-para-plantio.txt
+  02-003-identificar-solos-ferteis.txt
+  02-004-recuperar-solos-degradados.txt
+  02-005-produzir-composto-organico.txt
+  02-006-produzir-fertilizante-natural.txt
+  02-007-produzir-biofertilizante.txt
+  02-008-fazer-vermicompostagem.txt
+  02-009-plantar-batatas.txt
+  02-010-plantar-mandioca.txt
+  02-011-plantar-milho.txt
+  02-012-plantar-feijao.txt
+  02-013-plantar-arroz.txt
+  02-014-plantar-trigo.txt
+  02-015-plantar-abobora.txt
+  02-016-plantar-cenoura.txt
+  02-017-plantar-cebola.txt
+  02-018-plantar-alho.txt
+  02-019-plantar-tomate.txt
+  02-020-plantar-pimentas.txt
+  02-021-plantar-couve.txt
+  02-022-plantar-alface.txt
+  02-023-plantar-espinafre.txt
+  02-024-plantar-batata-doce.txt
+  02-025-plantar-amendoim.txt
+  02-026-cultivar-cogumelos-comestiveis.txt
+  02-027-cultivar-alimentos-em-pequenos-espacos.txt
+  02-028-cultivar-alimentos-em-vasos.txt
+  02-029-construir-uma-horta-vertical.txt
+  02-030-cultivar-alimentos-em-ambientes-internos.txt
+  02-031-produzir-alimentos-em-regioes-tropicais.txt
+  02-032-produzir-alimentos-em-regioes-frias.txt
+  02-033-produzir-alimentos-em-periodos-de-seca.txt
+  02-034-plantar-em-solos-arenosos.txt
+  02-035-fazer-irrigacao-manual-eficiente.txt
+  02-036-construir-uma-estufa-artesanal.txt
+  02-037-fazer-rotacao-de-culturas.txt
+  02-038-fazer-consorcio-de-plantas.txt
+  02-039-controlar-pragas-sem-pesticidas-industriais.txt
+  02-040-identificar-doencas-em-plantas.txt
+  02-041-produzir-mudas.txt
+  02-042-fazer-enxertia.txt
+  02-043-multiplicar-plantas-por-estaquia.txt
+  02-044-cultivar-arvores-frutiferas.txt
+  02-045-criar-um-pomar-de-subsistencia.txt
+  02-046-selecionar-sementes-para-plantio.txt
+  02-047-extrair-sementes-de-vegetais.txt
+  02-048-secar-sementes-corretamente.txt
+  02-049-armazenar-sementes-por-anos.txt
+  02-050-construir-um-banco-de-sementes.txt
+  02-051-testar-a-germinacao-de-sementes.txt
+  02-052-recuperar-sementes-antigas.txt
+  02-053-produzir-sementes-de-feijao.txt
+  02-054-produzir-sementes-de-milho.txt
+  02-055-preservar-variedades-tradicionais.txt
+  02-056-identificar-sementes-hibridas.txt
+  02-057-multiplicar-plantas-sem-comprar-sementes.txt
+  02-058-identificar-plantas-comestiveis-na-natureza.txt
+  02-059-identificar-plantas-venenosas.txt
+  02-060-identificar-cogumelos-comestiveis.txt
+  02-061-reconhecer-cogumelos-toxicos.txt
+  02-062-identificar-frutos-silvestres.txt
+  02-063-identificar-raizes-comestiveis.txt
+  02-064-identificar-folhas-comestiveis.txt
+  02-065-identificar-plantas-medicinais.txt
+  02-066-identificar-palmeiras-uteis.txt
+  02-067-identificar-plantas-alimenticias-nao.txt
+  02-068-identificar-alimentos-silvestres-em-regioes.txt
+  02-069-identificar-alimentos-silvestres-em-regioes.txt
+  02-070-identificar-alimentos-silvestres-em-regioes.txt
+  02-071-coletar-alimentos-sem-destruir-a-fonte.txt
+  02-072-preparar-plantas-silvestres-para-consumo-seguro.txt
+  02-073-reconhecer-plantas-toxicas-semelhantes.txt
+  02-074-pescar-em-rios-sem-equipamentos-modernos.txt
+  02-075-pescar-em-lagos.txt
+  02-076-pescar-no-mar.txt
+  02-077-fabricar-uma-vara-de-pesca.txt
+  02-078-fabricar-anzois-improvisados.txt
+  02-079-fabricar-linhas-de-pesca.txt
+  02-080-identificar-locais-com-peixes.txt
+  02-081-conservar-peixes-recem-capturados.txt
+  02-082-criar-peixes-em-pequenos-reservatorios.txt
+  02-083-construir-um-tanque-de-piscicultura.txt
+  02-084-criar-tilapias.txt
+  02-085-criar-galinhas-para-producao-de-ovos.txt
+  02-086-construir-um-galinheiro.txt
+  02-087-alimentar-galinhas-com-recursos-locais.txt
+  02-088-incubar-ovos.txt
+  02-089-criar-patos.txt
+  02-090-criar-codornas.txt
+  02-091-criar-coelhos.txt
+  02-092-criar-cabras.txt
+  02-093-criar-ovelhas.txt
+  02-094-criar-porcos.txt
+  02-095-criar-abelhas-para-producao-de-mel.txt
+  02-096-produzir-proteina-animal-em-pequena-escala.txt
+  02-097-avaliar-a-seguranca-sanitaria-de-animais.txt
+  02-098-cozinhar-sem-eletricidade.txt
+  02-099-construir-um-fogao-a-lenha.txt
+  02-100-construir-um-fogao-foguete.txt
+  02-101-construir-um-forno-de-barro.txt
+  02-102-construir-um-forno-solar.txt
+  02-103-cozinhar-utilizando-energia-solar.txt
+  02-104-cozinhar-com-alcool-combustivel.txt
+  02-105-cozinhar-com-biogas.txt
+  02-106-conservar-carne-sem-refrigeracao.txt
+  02-107-desidratar-alimentos.txt
+  02-108-secar-frutas-ao-sol.txt
+  02-109-secar-vegetais.txt
+  02-110-defumar-carnes.txt
+  02-111-defumar-peixes.txt
+  02-112-salgar-carnes.txt
+  02-113-conservar-alimentos-em-salmoura.txt
+  02-114-fazer-conservas-vegetais.txt
+  02-115-fazer-picles.txt
+  02-116-fazer-geleias.txt
+  02-117-produzir-vinagre.txt
+  02-118-produzir-queijo-artesanal.txt
+  02-119-produzir-manteiga.txt
+  02-120-fermentar-alimentos.txt
+  02-121-produzir-chucrute.txt
+  02-122-produzir-kefir.txt
+  02-123-produzir-iogurte.txt
+  02-124-fazer-pao-sem-fermento-industrial.txt
+  02-125-fazer-fermento-natural.txt
+  02-126-produzir-farinha-artesanal.txt
+  02-127-armazenar-graos-por-longos-periodos.txt
+  02-128-proteger-alimentos-contra-insetos.txt
+  02-129-proteger-alimentos-contra-roedores.txt
+  02-130-identificar-alimentos-estragados.txt
+  02-131-evitar-intoxicacao-alimentar.txt
+  02-132-montar-uma-despensa-de-emergencia.txt
+  02-133-calcular-reservas-alimentares-para-uma-familia.txt
+
+======================================================================
+03. 03-medicina-e-primeiros-socorros/
+======================================================================
+  03-001-controlar-sangramento.txt
+  03-002-avaliar-uma-pessoa-inconsciente.txt
+  03-003-realizar-ressuscitacao-cardiopulmonar-rcp.txt
+  03-004-utilizar-um-desfibrilador-externo-automatico-dea.txt
+  03-005-realizar-compressao-direta-em-ferimentos.txt
+  03-006-reconhecer-choque-hemorragico.txt
+  03-007-tratar-ferimentos-superficiais.txt
+  03-008-limpar-feridas-corretamente.txt
+  03-009-fazer-curativos.txt
+  03-010-improvisar-uma-tipoia.txt
+  03-011-imobilizar-um-membro-fraturado.txt
+  03-012-reconhecer-fraturas.txt
+  03-013-reconhecer-luxacoes.txt
+  03-014-tratar-entorses.txt
+  03-015-reconhecer-traumatismo-craniano.txt
+  03-016-reconhecer-lesoes-na-coluna.txt
+  03-017-transportar-uma-pessoa-ferida.txt
+  03-018-tratar-queimaduras-termicas.txt
+  03-019-tratar-queimaduras-quimicas.txt
+  03-020-tratar-queimaduras-eletricas.txt
+  03-021-reconhecer-hipotermia.txt
+  03-022-tratar-hipotermia.txt
+  03-023-reconhecer-hipertermia.txt
+  03-024-tratar-insolacao.txt
+  03-025-reconhecer-desidratacao.txt
+  03-026-tratar-desidratacao.txt
+  03-027-reconhecer-engasgo.txt
+  03-028-prestar-primeiros-socorros-em-engasgos.txt
+  03-029-tratar-picadas-de-insetos.txt
+  03-030-agir-apos-picadas-de-animais-peconhentos.txt
+  03-031-agir-apos-mordidas-de-animais.txt
+  03-032-tratar-ferimentos-por-objetos-perfurantes.txt
+  03-033-reconhecer-sinais-de-infeccao.txt
+  03-034-identificar-sinais-de-sepse.txt
+  03-035-reconhecer-pneumonia.txt
+  03-036-reconhecer-infeccoes-respiratorias.txt
+  03-037-reconhecer-doencas-gastrointestinais.txt
+  03-038-lidar-com-diarreia-aguda.txt
+  03-039-reconhecer-desinteria.txt
+  03-040-reconhecer-desidratacao-grave.txt
+  03-041-reconhecer-infeccoes-urinarias.txt
+  03-042-reconhecer-infeccoes-de-pele.txt
+  03-043-tratar-micoses-superficiais.txt
+  03-044-reconhecer-infestacoes-parasitarias.txt
+  03-045-reconhecer-verminoses.txt
+  03-046-reconhecer-malaria.txt
+  03-047-reconhecer-dengue.txt
+  03-048-reconhecer-leptospirose.txt
+  03-049-reconhecer-tetano.txt
+  03-050-reconhecer-raiva.txt
+  03-051-reconhecer-meningite.txt
+  03-052-reconhecer-apendicite.txt
+  03-053-reconhecer-acidente-vascular-cerebral-avc.txt
+  03-054-reconhecer-infarto.txt
+  03-055-reconhecer-crises-convulsivas.txt
+  03-056-reconhecer-reacoes-alergicas-graves.txt
+  03-057-reconhecer-anafilaxia.txt
+  03-058-lidar-com-crises-de-asma.txt
+  03-059-monitorar-febre-sem-equipamentos-sofisticados.txt
+  03-060-reconhecer-sinais-de-doencas-transmissiveis.txt
+  03-061-anatomia-humana-basica.txt
+  03-062-funciona-o-sistema-circulatorio.txt
+  03-063-funciona-o-sistema-respiratorio.txt
+  03-064-funciona-o-sistema-digestivo.txt
+  03-065-funciona-o-sistema-nervoso.txt
+  03-066-funciona-o-sistema-imunologico.txt
+  03-067-funciona-o-sistema-renal.txt
+  03-068-funciona-o-sistema-musculoesqueletico.txt
+  03-069-identificar-os-principais-orgaos-humanos.txt
+  03-070-medir-frequencia-cardiaca.txt
+  03-071-medir-frequencia-respiratoria.txt
+  03-072-medir-pressao-arterial.txt
+  03-073-medir-temperatura-corporal.txt
+  03-074-avaliar-o-estado-de-consciencia.txt
+  03-075-avaliar-sinais-vitais.txt
+  03-076-reconhecer-alteracoes-neurologicas.txt
+  03-077-montar-uma-farmacia-de-emergencia.txt
+  03-078-armazenar-medicamentos-corretamente.txt
+  03-079-identificar-medicamentos-vencidos.txt
+  03-080-interpretar-bulas-de-medicamentos.txt
+  03-081-identificar-principios-ativos.txt
+  03-082-entender-interacoes-medicamentosas.txt
+  03-083-calcular-doses-de-medicamentos-com-seguranca.txt
+  03-084-conservar-medicamentos-sem-refrigeracao.txt
+  03-085-reconhecer-intoxicacao-medicamentosa.txt
+  03-086-agir-em-casos-de-overdose.txt
+  03-087-organizar-um-inventario-de-medicamentos.txt
+  03-088-reconhecer-antibioticos-e-suas-classes.txt
+  03-089-entender-resistencia-bacteriana.txt
+  03-090-utilizar-corretamente-solucoes-de-reidratacao.txt
+  03-091-identificar-medicamentos-que-exigem-cadeia.txt
+  03-092-prevenir-doencas-infecciosas.txt
+  03-093-lavar-as-maos-corretamente.txt
+  03-094-realizar-higiene-corporal-sem-chuveiro.txt
+  03-095-cuidar-da-saude-bucal-sem-eletricidade.txt
+  03-096-prevenir-caries.txt
+  03-097-cuidar-de-feridas-na-boca.txt
+  03-098-prevenir-infeccoes-respiratorias.txt
+  03-099-controlar-piolhos.txt
+  03-100-controlar-sarna.txt
+  03-101-prevenir-doencas-transmitidas-por-mosquitos.txt
+  03-102-construir-uma-barreira-contra-insetos.txt
+  03-103-realizar-controle-de-vetores.txt
+  03-104-organizar-isolamento-de-pessoas-doentes.txt
+  03-105-realizar-higiene-em-ambientes-coletivos.txt
+  03-106-reconhecer-sinais-de-desnutricao.txt
+  03-107-prevenir-deficiencias-nutricionais.txt
+  03-108-identificar-alimentos-ricos-em-micronutrientes.txt
+
+======================================================================
+04. 04-energia-e-eletricidade/
+======================================================================
+  04-001-fogueira.txt
+  04-002-funciona-a-energia-solar-fotovoltaica.txt
+  04-003-instalar-um-painel-solar.txt
+  04-004-dimensionar-um-sistema-solar-isolado.txt
+  04-005-conectar-paineis-solares-em-serie.txt
+  04-006-conectar-paineis-solares-em-paralelo.txt
+  04-007-escolher-um-controlador-de-carga.txt
+  04-008-utilizar-um-controlador-mppt.txt
+  04-009-construir-um-sistema-solar-portatil.txt
+  04-010-carregar-um-celular-com-energia-solar.txt
+  04-011-carregar-baterias-com-paineis-solares.txt
+  04-012-calcular-a-autonomia-de-um-sistema-solar.txt
+  04-013-identificar-problemas-em-paineis-solares.txt
+  04-014-limpar-e-conservar-paineis-solares.txt
+  04-015-construir-um-carregador-solar-improvisado.txt
+  04-016-funcionam-baterias-de-chumbo-acido.txt
+  04-017-funcionam-baterias-de-litio.txt
+  04-018-funcionam-baterias-lifepo4.txt
+  04-019-escolher-baterias-para-sistemas-isolados.txt
+  04-020-calcular-capacidade-de-baterias.txt
+  04-021-conectar-baterias-em-serie.txt
+  04-022-conectar-baterias-em-paralelo.txt
+  04-023-armazenar-baterias-por-longos-periodos.txt
+  04-024-identificar-baterias-danificadas.txt
+  04-025-evitar-incendios-em-baterias.txt
+  04-026-construir-um-banco-de-baterias.txt
+  04-027-reaproveitar-baterias-com-seguranca.txt
+  04-028-monitorar-carga-e-descarga.txt
+  04-029-reduzir-o-consumo-eletrico.txt
+  04-030-fundamentos-de-eletricidade.txt
+  04-031-funciona-a-corrente-eletrica.txt
+  04-032-funciona-a-tensao-eletrica.txt
+  04-033-funciona-a-resistencia-eletrica.txt
+  04-034-funciona-a-potencia-eletrica.txt
+  04-035-utilizar-um-multimetro.txt
+  04-036-identificar-fios-eletricos.txt
+  04-037-fazer-conexoes-eletricas-seguras.txt
+  04-038-montar-um-circuito-eletrico-basico.txt
+  04-039-construir-um-circuito-de-iluminacao-led.txt
+  04-040-construir-uma-lanterna-recarregavel.txt
+  04-041-reparar-cabos-eletricos.txt
+  04-042-identificar-curtos-circuitos.txt
+  04-043-identificar-componentes-eletronicos.txt
+  04-044-soldar-componentes-eletronicos.txt
+  04-045-utilizar-um-ferro-de-solda.txt
+  04-046-reparar-placas-eletronicas-simples.txt
+  04-047-construir-uma-fonte-de-alimentacao.txt
+  04-048-construir-um-conversor-dc-dc.txt
+  04-049-construir-um-inversor-de-tensao.txt
+  04-050-proteger-circuitos-contra-sobrecarga.txt
+  04-051-construir-um-fusivel-improvisado-de-maneira.txt
+  04-052-construir-um-gerador-eolico.txt
+  04-053-construir-uma-turbina-hidraulica.txt
+  04-054-gerar-eletricidade-com-fluxo-de-agua.txt
+  04-055-construir-um-gerador-manual.txt
+  04-056-construir-um-dinamo-de-bicicleta.txt
+  04-057-escolher-lenha-para-fogueira.txt
+  04-058-construir-um-biodigestor.txt
+  04-059-acender-uma-fogueira-sem-fosforos.txt
+  04-060-manter-uma-chama-acesa-com-vento.txt
+  04-061-apagar-uma-fogueira-corretamente.txt
+  04-062-construir-um-fogao-de-biomassa-eficiente.txt
+  04-063-produzir-carvao-vegetal.txt
+  04-064-aproveitar-energia-geotermica-em-pequena-escala.txt
+  04-065-construir-um-sistema-hibrido-de-energia.txt
+  04-066-construir-uma-fogueira-segura.txt
+  04-067-produzir-biogas.txt
+  04-068-construir-um-refletor-de-calor-para-fogueiras.txt
+  04-069-utilizar-lenha-como-fonte-de-energia.txt
+  04-070-produzir-carvao-vegetal.txt
+  04-071-produzir-briquetes-de-biomassa.txt
+  04-072-transportar-brasas-com-seguranca.txt
+  04-073-produzir-energia-a-partir-de-residuos-organicos.txt
+  04-074-construir-uma-fogueira-dakota.txt
+  04-075-construir-uma-fogueira-refletora.txt
+
+======================================================================
+05. 05-abrigo-e-construcao/
+======================================================================
+  05-001-construir-um-abrigo-temporario.txt
+  05-002-construir-um-abrigo-utilizando-madeira.txt
+  05-003-construir-um-abrigo-utilizando-bambu.txt
+  05-004-construir-um-abrigo-utilizando-lona.txt
+  05-005-construir-um-abrigo-subterraneo.txt
+  05-006-construir-um-abrigo-contra-tempestades.txt
+  05-007-construir-um-abrigo-contra-frio-extremo.txt
+  05-008-construir-um-abrigo-em-regioes-quentes.txt
+  05-009-construir-um-abrigo-em-florestas.txt
+  05-010-construir-um-abrigo-em-regioes-montanhosas.txt
+  05-011-construir-um-abrigo-em-regioes-alagaveis.txt
+  05-012-escolher-um-local-seguro-para-acampamento.txt
+  05-013-proteger-um-abrigo-contra-animais.txt
+  05-014-impermeabilizar-um-abrigo.txt
+  05-015-construir-isolamento-termico-artesanal.txt
+  05-016-fundamentos-de-construcao-civil.txt
+  05-017-fabricar-tijolos-de-barro.txt
+  05-018-fabricar-blocos-de-adobe.txt
+  05-019-preparar-argamassa.txt
+  05-020-produzir-cal-artesanal.txt
+  05-021-produzir-cimento-de-maneira-artesanal.txt
+  05-022-preparar-concreto.txt
+  05-023-construir-paredes-de-alvenaria.txt
+  05-024-construir-paredes-de-taipa.txt
+  05-025-construir-paredes-de-madeira.txt
+  05-026-construir-paredes-de-bambu.txt
+  05-027-construir-um-telhado.txt
+  05-028-instalar-telhas.txt
+  05-029-construir-fundacoes-simples.txt
+  05-030-construir-uma-laje-simples.txt
+  05-031-construir-uma-escada.txt
+  05-032-construir-portas-e-janelas.txt
+  05-033-reparar-rachaduras-estruturais.txt
+  05-034-identificar-riscos-de-desabamento.txt
+  05-035-impermeabilizar-paredes.txt
+  05-036-construir-pisos-resistentes.txt
+  05-037-construir-uma-chamine.txt
+  05-038-construir-um-sistema-de-ventilacao-natural.txt
+  05-039-reparar-vazamentos-no-telhado.txt
+  05-040-reparar-portas-e-fechaduras.txt
+  05-041-reparar-janelas.txt
+  05-042-reparar-tubulacoes.txt
+  05-043-desentupir-encanamentos.txt
+  05-044-realizar-manutencao-de-fossas.txt
+  05-045-proteger-uma-casa-contra-umidade.txt
+  05-046-controlar-mofo.txt
+  05-047-melhorar-a-ventilacao-de-uma-casa.txt
+  05-048-manter-uma-casa-fresca-sem-ar-condicionado.txt
+  05-049-aquecer-uma-casa-sem-eletricidade.txt
+  05-050-proteger-uma-casa-contra-incendios.txt
+
+======================================================================
+06. 06-higiene-e-saneamento/
+======================================================================
+  06-001-construir-uma-latrina-de-emergencia.txt
+  06-002-construir-um-banheiro-seco.txt
+  06-003-construir-uma-fossa-septica.txt
+  06-004-construir-um-banheiro-compostavel.txt
+  06-005-tratar-dejetos-humanos-com-seguranca.txt
+  06-006-realizar-descarte-seguro-de-fezes.txt
+  06-007-realizar-descarte-seguro-de-urina.txt
+  06-008-construir-um-sistema-de-esgoto-rudimentar.txt
+  06-009-construir-um-sistema-de-drenagem.txt
+  06-010-evitar-contaminacao-de-fontes-de-agua-por-esgoto.txt
+  06-011-produzir-sabao-artesanal.txt
+  06-012-produzir-detergente-artesanal.txt
+  06-013-produzir-desinfetante-para-superficies.txt
+  06-014-produzir-solucoes-de-limpeza.txt
+  06-015-higienizar-roupas-sem-maquina-de-lavar.txt
+  06-016-lavar-roupas-sem-agua-corrente.txt
+  06-017-secar-roupas-em-ambientes-umidos.txt
+  06-018-esterilizar-instrumentos-simples.txt
+  06-019-higienizar-utensilios-de-cozinha.txt
+  06-020-realizar-higiene-intima-sem-chuveiro.txt
+  06-021-realizar-higiene-bucal-sem-produtos.txt
+  06-022-produzir-escovas-de-dentes-improvisadas.txt
+  06-023-controlar-odores-em-ambientes-fechados.txt
+  06-024-controlar-moscas-em-ambientes-insalubres.txt
+  06-025-controlar-baratas-sem-inseticidas-comerciais.txt
+  06-026-controlar-roedores.txt
+  06-027-construir-armadilhas-para-insetos.txt
+  06-028-separar-residuos-organicos-e-inorganicos.txt
+  06-029-compostar-residuos-domesticos.txt
+  06-030-descartar-materiais-contaminados.txt
+  06-031-descartar-residuos-medicos.txt
+  06-032-realizar-descontaminacao-de-ambientes.txt
+  06-033-construir-um-sistema-de-lavagem-das-maos.txt
+  06-034-montar-uma-estacao-de-higiene-comunitaria.txt
+  06-035-prevenir-epidemias-causadas-por-saneamento.txt
+
+======================================================================
+07. 07-guerra-e-radiacao/
+======================================================================
+  07-001-o-que-acontece-durante-uma-explosao-nuclear.txt
+  07-002-funcionam-as-armas-nucleares.txt
+  07-003-quais-sao-os-efeitos-da-radiacao-ionizante-no.txt
+  07-004-diferenca-entre-radiacao-alfa-beta-gama.txt
+  07-005-o-que-e-precipitacao-radioativa-fallout.txt
+  07-006-reconhecer-sinais-de-uma-detonacao-nuclear.txt
+  07-007-calcular-o-risco-de-exposicao-a-radiacao.txt
+  07-008-escolher-um-abrigo-contra-precipitacao.txt
+  07-009-construir-um-abrigo-antirradiacao.txt
+  07-010-improvisar-protecao-radiologica-com-materiais.txt
+  07-011-reduzir-a-exposicao-a-radiacao.txt
+  07-012-aplicar-os-principios-de-tempo-distancia.txt
+  07-013-calcular-o-tempo-seguro-de-permanencia-em-um.txt
+  07-014-preparar-um-kit-de-emergencia-nuclear.txt
+  07-015-armazenar-agua-e-alimentos-em-um-abrigo-nuclear.txt
+  07-016-o-que-fazer-ao-receber-um-alerta-de-ataque.txt
+  07-017-o-que-fazer-nos-primeiros-minutos-apos-uma.txt
+  07-018-se-proteger-da-onda-de-choque.txt
+  07-019-se-proteger-do-clarao-termico.txt
+  07-020-se-proteger-da-precipitacao-radioativa.txt
+  07-021-escolher-o-momento-seguro-para-sair-de-um-abrigo.txt
+  07-022-realizar-evacuacao-apos-um-evento-nuclear.txt
+  07-023-identificar-areas-potencialmente-contaminadas.txt
+  07-024-evitar-transportar-contaminacao-radioativa.txt
+  07-025-descontaminar-roupas-apos-exposicao-a-poeira.txt
+  07-026-descontaminar-a-pele-e-os-cabelos.txt
+  07-027-descontaminar-objetos-pessoais.txt
+  07-028-identificar-alimentos-potencialmente.txt
+  07-029-identificar-agua-potencialmente-contaminada.txt
+  07-030-lidar-com-animais-apos-precipitacao-radioativa.txt
+  07-031-organizar-uma-rotina-de-sobrevivencia-em-abrigo.txt
+  07-032-lidar-com-exposicao-prolongada-a-radiacao.txt
+  07-033-reconhecer-sintomas-de-sindrome-aguda.txt
+  07-034-prestar-primeiros-socorros-em-acidentes.txt
+  07-035-utilizar-um-dosimetro.txt
+  07-036-utilizar-um-contador-geiger.txt
+  07-037-interpretar-medicoes-de-radiacao.txt
+  07-038-identificar-fontes-radioativas-perigosas.txt
+  07-039-armazenar-materiais-potencialmente-contaminados.txt
+  07-040-lidar-com-acidentes-em-instalacoes-nucleares.txt
+  07-041-preparar-uma-familia-para-situacoes-de-guerra.txt
+  07-042-montar-um-plano-de-evacuacao.txt
+  07-043-montar-uma-mochila-de-emergencia.txt
+  07-044-escolher-rotas-de-fuga-seguras.txt
+  07-045-identificar-areas-de-conflito.txt
+  07-046-agir-durante-bombardeios.txt
+  07-047-se-proteger-de-estilhacos.txt
+  07-048-se-proteger-durante-tiroteios.txt
+  07-049-se-proteger-contra-incendios-causados-por.txt
+  07-050-agir-diante-de-explosivos-nao-detonados.txt
+  07-051-reconhecer-minas-terrestres.txt
+  07-052-reconhecer-municoes-abandonadas.txt
+  07-053-agir-diante-de-artefatos-explosivos-suspeitos.txt
+  07-054-sobreviver-ao-colapso-da-infraestrutura-urbana.txt
+  07-055-encontrar-abrigo-durante-conflitos-armados.txt
+  07-056-organizar-suprimentos-durante-um-cerco.txt
+  07-057-manter-contato-com-familiares-durante-uma-guerra.txt
+  07-058-atravessar-areas-urbanas-destruidas.txt
+  07-059-avaliar-a-seguranca-de-edificios-danificados.txt
+  07-060-agir-durante-evacuacoes-em-massa.txt
+  07-061-lidar-com-postos-de-controle-e-bloqueios.txt
+  07-062-se-preparar-para-deslocamentos-forcados.txt
+  07-063-organizar-documentos-para-uma-evacuacao.txt
+  07-064-preservar-alimentos-e-agua-durante-um-conflito.txt
+  07-065-prestar-primeiros-socorros-em-ambientes.txt
+  07-066-sobreviver-a-enchentes.txt
+  07-067-sobreviver-a-deslizamentos-de-terra.txt
+  07-068-sobreviver-a-terremotos.txt
+  07-069-sobreviver-a-tsunamis.txt
+  07-070-sobreviver-a-erupcoes-vulcanicas.txt
+  07-071-sobreviver-a-furacoes-e-ciclones.txt
+  07-072-sobreviver-a-tornados.txt
+  07-073-sobreviver-a-tempestades-severas.txt
+  07-074-sobreviver-a-incendios-florestais.txt
+  07-075-sobreviver-a-ondas-de-calor.txt
+  07-076-sobreviver-a-ondas-de-frio.txt
+  07-077-sobreviver-a-secas-prolongadas.txt
+  07-078-sobreviver-a-tempestades-de-areia.txt
+  07-079-sobreviver-a-avalanches.txt
+  07-080-sobreviver-a-tempestades-eletricas.txt
+  07-081-sobreviver-a-queda-de-arvores-e-estruturas.txt
+  07-082-identificar-riscos-apos-desastres-naturais.txt
+  07-083-montar-um-plano-familiar-para-catastrofes.txt
+  07-084-montar-um-centro-de-operacoes-domestico.txt
+  07-085-organizar-uma-comunidade-apos-uma-catastrofe.txt
+
+======================================================================
+08. 08-ferramentas-e-fabricacao/
+======================================================================
+  08-001-fabricar-ferramentas-basicas-de-madeira.txt
+  08-002-fabricar-um-martelo-artesanal.txt
+  08-003-fabricar-um-machado.txt
+  08-004-fabricar-uma-pa.txt
+  08-005-fabricar-uma-enxada.txt
+  08-006-fabricar-uma-faca-utilitaria.txt
+  08-007-fabricar-uma-serra-manual.txt
+  08-008-fabricar-uma-furadeira-manual.txt
+  08-009-fabricar-uma-morsa.txt
+  08-010-fabricar-uma-bancada-de-trabalho.txt
+  08-011-fabricar-uma-alavanca.txt
+  08-012-fabricar-cordas-com-fibras-naturais.txt
+  08-013-fabricar-barbantes.txt
+  08-014-fabricar-cestos.txt
+  08-015-fabricar-recipientes-de-madeira.txt
+  08-016-fabricar-ferramentas-de-bambu.txt
+  08-017-afiar-ferramentas-manualmente.txt
+  08-018-temperar-ferramentas-de-aco.txt
+  08-019-remover-ferrugem-de-ferramentas.txt
+  08-020-conservar-ferramentas-metalicas.txt
+  08-021-fundamentos-de-metalurgia.txt
+  08-022-identificar-diferentes-tipos-de-metais.txt
+  08-023-identificar-tipos-de-aco.txt
+  08-024-produzir-carvao-para-forja.txt
+  08-025-construir-uma-forja-artesanal.txt
+  08-026-construir-um-forno-de-fundicao.txt
+  08-027-fundir-aluminio-com-seguranca.txt
+  08-028-trabalhar-com-cobre.txt
+  08-029-trabalhar-com-ferro.txt
+  08-030-forjar-ferramentas-simples.txt
+  08-031-fazer-recozimento-de-metais.txt
+  08-032-realizar-tempera-em-aco.txt
+  08-033-realizar-revenimento-em-aco.txt
+  08-034-soldar-metais.txt
+  08-035-realizar-brasagem.txt
+  08-036-cortar-metais-manualmente.txt
+  08-037-perfurar-chapas-metalicas.txt
+  08-038-produzir-pregos.txt
+  08-039-produzir-arames.txt
+  08-040-reaproveitar-sucata-metalica.txt
+  08-041-identificar-metais-perigosos-ou-contaminados.txt
+  08-042-produzir-moldes-para-fundicao.txt
+  08-043-trabalhar-com-argila-refrataria.txt
+  08-044-produzir-ceramica-artesanal.txt
+  08-045-fabricar-tijolos-refratarios.txt
+  08-046-fundamentos-de-mecanica.txt
+  08-047-funcionam-motores-de-combustao-interna.txt
+  08-048-realizar-manutencao-basica-em-motores.txt
+  08-049-identificar-problemas-em-motores.txt
+  08-050-reparar-motores-pequenos.txt
+  08-051-realizar-manutencao-em-bicicletas.txt
+  08-052-reparar-pneus-e-camaras-de-ar.txt
+  08-053-fabricar-pecas-simples-para-bicicletas.txt
+  08-054-reparar-correntes-e-engrenagens.txt
+  08-055-construir-uma-bicicleta-de-carga.txt
+  08-056-reparar-bombas-hidraulicas.txt
+  08-057-reparar-ferramentas-mecanicas.txt
+  08-058-construir-polias.txt
+  08-059-construir-engrenagens-simples.txt
+  08-060-construir-sistemas-de-transmissao-mecanica.txt
+  08-061-construir-um-torno-manual.txt
+  08-062-construir-uma-prensa-mecanica.txt
+  08-063-fabricar-rolamentos-simples.txt
+  08-064-realizar-manutencao-de-maquinas-agricolas.txt
+  08-065-manter-equipamentos-mecanicos-por-decadas.txt
+
+======================================================================
+09. 09-comunicacao-e-navegacao/
+======================================================================
+  09-001-estabelecer-comunicacao-sem-internet.txt
+  09-002-utilizar-radios-comunicadores.txt
+  09-003-utilizar-radios-de-ondas-curtas.txt
+  09-004-construir-uma-antena-de-radio.txt
+  09-005-construir-uma-antena-dipolo.txt
+  09-006-construir-uma-antena-direcional.txt
+  09-007-montar-uma-estacao-de-radio-amador.txt
+  09-008-utilizar-codigos-de-comunicacao-por-radio.txt
+  09-009-transmitir-mensagens-em-codigo-morse.txt
+  09-010-construir-um-telegrafo-simples.txt
+  09-011-utilizar-comunicacao-por-sinais-luminosos.txt
+  09-012-utilizar-comunicacao-por-bandeiras.txt
+  09-013-estabelecer-uma-rede-de-comunicacao-comunitaria.txt
+  09-014-construir-um-radio-receptor-simples.txt
+  09-015-receber-informacoes-de-emergencia-por-radio.txt
+  09-016-identificar-frequencias-de-emergencia.txt
+  09-017-manter-equipamentos-de-comunicacao-funcionando.txt
+  09-018-construir-um-sistema-de-comunicacao-por-fio.txt
+  09-019-preservar-informacoes-importantes-em-papel.txt
+  09-020-utilizar-uma-bussola.txt
+  09-021-construir-uma-bussola-improvisada.txt
+  09-022-orientar-se-pelas-estrelas.txt
+  09-023-identificar-os-pontos-cardeais-pelo-sol.txt
+  09-024-utilizar-a-sombra-para-orientacao.txt
+  09-025-ler-mapas-topograficos.txt
+  09-026-interpretar-curvas-de-nivel.txt
+  09-027-utilizar-mapas-sem-gps.txt
+  09-028-construir-mapas-de-uma-regiao.txt
+  09-029-identificar-trilhas-seguras.txt
+  09-030-navegar-em-florestas-sem-gps.txt
+  09-031-navegar-em-regioes-montanhosas.txt
+  09-032-navegar-em-areas-deserticas.txt
+  09-033-identificar-rios-e-cursos-d-agua-em-mapas.txt
+  09-034-estimar-distancias-caminhando.txt
+  09-035-calcular-velocidade-e-tempo-de-deslocamento.txt
+  09-036-utilizar-coordenadas-geograficas.txt
+  09-037-utilizar-latitude-e-longitude.txt
+  09-038-identificar-constelacoes-importantes.txt
+  09-039-criar-um-mapa-de-rotas-de-evacuacao.txt
+  09-040-construir-uma-biblioteca-fisica-de-emergencia.txt
+  09-041-preservar-livros-contra-umidade.txt
+  09-042-preservar-documentos-por-decadas.txt
+  09-043-armazenar-conhecimento-em-hds-externos.txt
+  09-044-preservar-arquivos-digitais-offline.txt
+  09-045-criar-copias-de-seguranca-redundantes.txt
+  09-046-verificar-a-integridade-de-arquivos-digitais.txt
+  09-047-utilizar-computadores-sem-internet.txt
+  09-048-utilizar-um-celular-android-completamente.txt
+  09-049-manter-baterias-de-dispositivos-eletronicos.txt
+  09-050-organizar-uma-wiki-offline.txt
+  09-051-pesquisar-documentos-sem-mecanismos-de-busca.txt
+  09-052-armazenar-mapas-digitais-offline.txt
+  09-053-armazenar-enciclopedias-medicas-offline.txt
+  09-054-armazenar-manuais-tecnicos-offline.txt
+  09-055-preservar-fotografias-e-registros-historicos.txt
+  09-056-criar-um-indice-fisico-de-documentos.txt
+  09-057-criar-um-catalogo-de-arquivos-em-papel.txt
+  09-058-converter-documentos-digitais-em-formatos.txt
+  09-059-recuperar-dados-de-midias-antigas.txt
+
+======================================================================
+10. 10-ambientes-naturais/
+======================================================================
+  10-001-sobreviver-em-uma-floresta-tropical.txt
+  10-002-sobreviver-na-mata-atlantica.txt
+  10-003-sobreviver-na-amazonia.txt
+  10-004-sobreviver-em-florestas-temperadas.txt
+  10-005-construir-abrigos-em-florestas.txt
+  10-006-identificar-perigos-na-vegetacao.txt
+  10-007-atravessar-rios-com-seguranca.txt
+  10-008-evitar-animais-perigosos.txt
+  10-009-evitar-insetos-transmissores-de-doencas.txt
+  10-010-fazer-fogo-em-ambientes-umidos.txt
+  10-011-identificar-trilhas-de-animais.txt
+  10-012-evitar-se-perder-em-uma-floresta.txt
+  10-013-sair-de-uma-floresta-sem-gps.txt
+  10-014-sobreviver-em-regioes-deserticas.txt
+  10-015-sobreviver-em-regioes-polares.txt
+  10-016-sobreviver-em-regioes-de-alta-montanha.txt
+  10-017-sobreviver-em-regioes-costeiras.txt
+  10-018-sobreviver-em-ilhas-isoladas.txt
+  10-019-sobreviver-em-regioes-alagadas.txt
+  10-020-sobreviver-em-cavernas.txt
+  10-021-sobreviver-em-ambientes-de-frio-extremo.txt
+  10-022-sobreviver-em-ambientes-de-calor-extremo.txt
+  10-023-prevenir-hipotermia-durante-expedicoes.txt
+  10-024-prevenir-insolacao-durante-expedicoes.txt
+  10-025-atravessar-terrenos-dificeis.txt
+  10-026-improvisar-equipamentos-de-protecao-climatica.txt
+  10-027-construir-um-abrigo-de-emergencia-na-neve.txt
+  10-028-encontrar-agua-em-regioes-deserticas.txt
+  10-029-produzir-fogo-sem-fosforos.txt
+  10-030-produzir-fogo-por-friccao.txt
+  10-031-produzir-fogo-com-pederneira.txt
+  10-032-produzir-fogo-com-lentes.txt
+  10-033-produzir-fogo-utilizando-baterias-de-maneira.txt
+  10-034-preparar-materiais-para-iniciar-uma-fogueira.txt
+  10-035-manter-uma-fogueira-acesa-durante-a-chuva.txt
+  10-036-construir-uma-fogueira-para-aquecimento.txt
+  10-037-construir-uma-fogueira-para-cozinhar.txt
+  10-038-produzir-alcool-combustivel.txt
+  10-039-produzir-biodiesel-em-pequena-escala.txt
+  10-040-armazenar-combustiveis-com-seguranca.txt
+  10-041-identificar-combustiveis-contaminados.txt
+  10-042-economizar-combustivel-durante-uma-crise.txt
+  10-043-construir-um-sistema-de-iluminacao-a-oleo.txt
+  10-044-produzir-velas-artesanais.txt
+  10-045-produzir-pavios-para-iluminacao.txt
+  10-046-iluminar-ambientes-sem-eletricidade.txt
+
+======================================================================
+11. 11-psicologia-e-convivencia/
+======================================================================
+  11-001-lidar-psicologicamente-com-situacoes-extremas.txt
+  11-002-controlar-o-medo-durante-emergencias.txt
+  11-003-controlar-ataques-de-panico.txt
+  11-004-lidar-com-ansiedade-em-situacoes.txt
+  11-005-lidar-com-isolamento-prolongado.txt
+  11-006-lidar-com-luto-em-situacoes-de-catastrofe.txt
+  11-007-lidar-com-perdas-familiares.txt
+  11-008-preservar-a-saude-mental-em-abrigos.txt
+  11-009-manter-a-motivacao-em-situacoes-extremas.txt
+  11-010-desenvolver-resiliencia-psicologica.txt
+  11-011-tomar-decisoes-sob-pressao.txt
+  11-012-evitar-decisoes-impulsivas-durante-crises.txt
+  11-013-lidar-com-conflitos-familiares-em-situacoes.txt
+  11-014-organizar-grupos-de-sobrevivencia.txt
+  11-015-estabelecer-regras-para-uma-comunidade.txt
+  11-016-distribuir-tarefas-em-um-grupo.txt
+  11-017-organizar-turnos-de-trabalho-e-descanso.txt
+  11-018-resolver-conflitos-sem-violencia.txt
+  11-019-identificar-manipulacao-psicologica.txt
+  11-020-reconhecer-comportamentos-perigosos.txt
+  11-021-lidar-com-pessoas-em-estado-de-choque-emocional.txt
+  11-022-cuidar-de-criancas-durante-catastrofes.txt
+  11-023-conversar-com-criancas-sobre-situacoes.txt
+  11-024-preservar-rotinas-em-periodos-de-instabilidade.txt
+  11-025-organizar-atividades-educacionais-sem-escolas.txt
+  11-026-ensinar-conhecimentos-essenciais-a-outras.txt
+  11-027-transmitir-conhecimentos-entre-geracoes.txt
+  11-028-manter-a-cooperacao-em-comunidades-pequenas.txt
+
+======================================================================
+12. 12-economia-e-comercio/
+======================================================================
+  12-001-sobreviver-financeiramente-durante-um-colapso.txt
+  12-002-organizar-recursos-financeiros-em-situacoes.txt
+  12-003-administrar-dinheiro-durante-hiperinflacao.txt
+  12-004-lidar-com-o-desaparecimento-do-sistema-bancario.txt
+  12-005-realizar-trocas-sem-moeda-convencional.txt
+  12-006-estabelecer-um-sistema-de-escambo.txt
+  12-007-avaliar-o-valor-de-produtos-em-uma-economia.txt
+  12-008-criar-uma-moeda-comunitaria.txt
+  12-009-organizar-um-mercado-de-trocas.txt
+  12-010-controlar-estoques-de-suprimentos.txt
+  12-011-administrar-recursos-limitados.txt
+  12-012-estabelecer-prioridades-de-consumo.txt
+  12-013-calcular-custos-de-producao-artesanal.txt
+  12-014-organizar-uma-pequena-economia-comunitaria.txt
+  12-015-preservar-patrimonio-durante-crises.txt
+  12-016-identificar-fraudes-em-periodos-de-crise.txt
+  12-017-reconhecer-falsificacoes-de-dinheiro.txt
+  12-018-negociar-em-situacoes-de-escassez.txt
+  12-019-organizar-reservas-estrategicas-de-alimentos.txt
+  12-020-administrar-uma-despensa-comunitaria.txt
+  12-021-estabelecer-sistemas-de-distribuicao.txt
+  12-022-organizar-uma-cooperativa-de-producao.txt
+  12-023-organizar-uma-cooperativa-de-servicos.txt
+  12-024-manter-registros-contabeis-manualmente.txt
+  12-025-criar-um-sistema-simples-de-inventario.txt
+  12-026-organizar-uma-economia-de-subsistencia.txt
+
+======================================================================
+13. 13-quimica-aplicada/
+======================================================================
+  13-001-fundamentos-de-quimica-para-sobrevivencia.txt
+  13-002-identificar-substancias-quimicas-comuns.txt
+  13-003-interpretar-simbolos-de-perigo-quimico.txt
+  13-004-identificar-produtos-quimicos-incompativeis.txt
+  13-005-armazenar-produtos-quimicos-domesticos.txt
+  13-006-evitar-intoxicacoes-quimicas.txt
+  13-007-agir-em-acidentes-com-produtos-quimicos.txt
+  13-008-reconhecer-gases-toxicos.txt
+  13-009-agir-diante-de-vazamentos-de-gases.txt
+  13-010-identificar-riscos-de-monoxido-de-carbono.txt
+  13-011-detectar-atmosferas-potencialmente-perigosas.txt
+  13-012-entender-o-funcionamento-do-ph.txt
+  13-013-medir-o-ph-de-uma-solucao.txt
+  13-014-utilizar-indicadores-naturais-de-ph.txt
+  13-015-compreender-reacoes-de-oxidacao.txt
+  13-016-prevenir-corrosao-de-metais.txt
+  13-017-produzir-cal-a-partir-de-rochas-calcarias.txt
+  13-018-produzir-tintas-naturais.txt
+  13-019-produzir-pigmentos-minerais.txt
+  13-020-fabricar-adesivos-naturais.txt
+  13-021-fabricar-cola-de-origem-animal.txt
+  13-022-produzir-alcool-por-fermentacao.txt
+  13-023-compreender-processos-de-destilacao.txt
+  13-024-realizar-separacao-de-misturas.txt
+  13-025-realizar-filtracao-quimica.txt
+  13-026-identificar-minerais-comuns.txt
+  13-027-reconhecer-rochas-uteis-para-construcao.txt
+  13-028-identificar-argilas-adequadas-para-ceramica.txt
+  13-029-utilizar-microscopios-simples.txt
+  13-030-realizar-observacoes-cientificas-sem-laboratorio.txt
+  13-031-montar-um-laboratorio-basico-de-emergencia.txt
+  13-032-preservar-amostras-biologicas.txt
+  13-033-compreender-principios-basicos-de-microbiologia.txt
+  13-034-reconhecer-contaminacao-microbiologica.txt
+
+======================================================================
+14. 14-biologia-e-botanica/
+======================================================================
+  14-001-fundamentos-de-biologia-para-sobrevivencia.txt
+  14-002-identificar-especies-vegetais.txt
+  14-003-utilizar-guias-de-identificacao-botanica.txt
+  14-004-reconhecer-familias-de-plantas.txt
+  14-005-identificar-arvores-pela-casca.txt
+  14-006-identificar-arvores-pelas-folhas.txt
+  14-007-identificar-arvores-pelos-frutos.txt
+  14-008-identificar-plantas-toxicas-para-humanos.txt
+  14-009-identificar-plantas-toxicas-para-animais.txt
+  14-010-identificar-plantas-com-propriedades-medicinais.txt
+  14-011-cultivar-plantas-medicinais.txt
+  14-012-montar-um-jardim-de-plantas-uteis.txt
+  14-013-preservar-especies-vegetais-locais.txt
+  14-014-reconhecer-ciclos-de-vida-das-plantas.txt
+  14-015-entender-polinizacao.txt
+  14-016-atrair-polinizadores-para-uma-horta.txt
+  14-017-identificar-insetos-beneficos.txt
+  14-018-identificar-insetos-prejudiciais.txt
+  14-019-identificar-animais-peconhentos.txt
+  14-020-reconhecer-cobras-venenosas-brasileiras.txt
+  14-021-reconhecer-aranhas-perigosas-brasileiras.txt
+  14-022-reconhecer-escorpioes-perigosos.txt
+  14-023-reconhecer-animais-transmissores-de-doencas.txt
+  14-024-identificar-rastros-de-animais.txt
+  14-025-identificar-fezes-de-animais.txt
+  14-026-compreender-o-comportamento-de-animais-selvagens.txt
+  14-027-evitar-encontros-perigosos-com-animais.txt
+  14-028-resgatar-pequenos-animais-feridos-com-seguranca.txt
+  14-029-preservar-biodiversidade-em-ambientes-habitados.txt
+  14-030-identificar-especies-invasoras.txt
+
+======================================================================
+15. 15-texteis-e-roupas/
+======================================================================
+  15-001-produzir-roupas-com-recursos-naturais.txt
+  15-002-fabricar-tecidos-manualmente.txt
+  15-003-produzir-fibras-a-partir-de-plantas.txt
+  15-004-extrair-fibras-de-algodao.txt
+  15-005-extrair-fibras-de-bananeira.txt
+  15-006-extrair-fibras-de-sisal.txt
+  15-007-extrair-fibras-de-bambu.txt
+  15-008-produzir-fios-artesanalmente.txt
+  15-009-construir-um-tear-simples.txt
+  15-010-tecer-tecidos-manualmente.txt
+  15-011-costurar-roupas-a-mao.txt
+  15-012-fabricar-agulhas-improvisadas.txt
+  15-013-produzir-botoes.txt
+  15-014-reparar-roupas-rasgadas.txt
+  15-015-fabricar-calcados-simples.txt
+  15-016-reparar-solados-de-sapatos.txt
+  15-017-produzir-sandalias-artesanais.txt
+  15-018-fabricar-cobertores.txt
+  15-019-produzir-redes-de-descanso.txt
+  15-020-produzir-cordas-resistentes.txt
+  15-021-tingir-tecidos-com-pigmentos-naturais.txt
+  15-022-impermeabilizar-tecidos.txt
+  15-023-produzir-couro-artesanal.txt
+  15-024-curtir-peles-de-animais.txt
+  15-025-fabricar-bolsas-e-mochilas.txt
+  15-026-produzir-luvas-de-protecao.txt
+  15-027-fabricar-chapeus-para-protecao-solar.txt
+  15-028-fabricar-capas-de-chuva.txt
+  15-029-produzir-roupas-para-frio-extremo.txt
+  15-030-conservar-tecidos-por-longos-periodos.txt
+
+======================================================================
+16. 16-transporte-e-mobilidade/
+======================================================================
+  16-001-organizar-deslocamentos-a-pe-de-longa-distancia.txt
+  16-002-preparar-os-pes-para-caminhadas-prolongadas.txt
+  16-003-prevenir-bolhas-durante-caminhadas.txt
+  16-004-tratar-lesoes-nos-pes.txt
+  16-005-montar-uma-mochila-de-longa-duracao.txt
+  16-006-escolher-calcados-para-sobrevivencia.txt
+  16-007-construir-um-carrinho-de-transporte-manual.txt
+  16-008-construir-uma-carroca-artesanal.txt
+  16-009-construir-um-trailer-de-carga.txt
+  16-010-construir-uma-bicicleta-de-transporte.txt
+  16-011-reparar-bicicletas-sem-oficina.txt
+  16-012-construir-uma-jangada.txt
+  16-013-construir-uma-canoa-simples.txt
+  16-014-construir-um-barco-de-madeira.txt
+  16-015-reparar-embarcacoes-simples.txt
+  16-016-navegar-utilizando-remos.txt
+  16-017-navegar-em-rios-sem-motor.txt
+  16-018-atravessar-cursos-d-agua-com-seguranca.txt
+  16-019-transportar-agua-em-longas-distancias.txt
+  16-020-transportar-alimentos-sem-refrigeracao.txt
+  16-021-conservar-veiculos-durante-periodos-sem-uso.txt
+  16-022-realizar-manutencao-basica-de-automoveis.txt
+  16-023-identificar-problemas-no-sistema-de-freios.txt
+  16-024-identificar-problemas-no-sistema.txt
+  16-025-reparar-pneus-em-situacoes-emergenciais.txt
+  16-026-avaliar-combustivel-armazenado.txt
+  16-027-planejar-rotas-de-deslocamento-em-crises.txt
+  16-028-calcular-autonomia-de-deslocamento.txt
+  16-029-organizar-transporte-comunitario.txt
+  16-030-construir-um-sistema-de-transporte-por-tracao.txt
+
+======================================================================
+17. 17-meteorologia-e-clima/
+======================================================================
+  17-001-fundamentos-de-meteorologia-para-sobrevivencia.txt
+  17-002-interpretar-nuvens-para-prever-mudancas.txt
+  17-003-identificar-sinais-de-tempestades.txt
+  17-004-prever-chuva-observando-a-natureza.txt
+  17-005-construir-um-pluviometro.txt
+  17-006-construir-um-barometro-simples.txt
+  17-007-construir-um-anemometro.txt
+  17-008-medir-temperatura-sem-equipamentos-modernos.txt
+  17-009-identificar-mudancas-bruscas-de-pressao.txt
+  17-010-reconhecer-sinais-de-tornados.txt
+  17-011-reconhecer-sinais-de-tempestades-tropicais.txt
+  17-012-prever-geadas.txt
+  17-013-proteger-plantacoes-contra-geadas.txt
+  17-014-proteger-plantacoes-contra-calor-extremo.txt
+  17-015-identificar-sinais-de-seca-prolongada.txt
+  17-016-construir-sistemas-de-protecao-contra-vento.txt
+  17-017-identificar-riscos-de-enchentes.txt
+  17-018-mapear-areas-sujeitas-a-deslizamentos.txt
+  17-019-identificar-areas-seguras-para-habitacao.txt
+  17-020-compreender-mudancas-climaticas-locais.txt
+  17-021-reduzir-erosao-do-solo.txt
+  17-022-recuperar-areas-degradadas.txt
+  17-023-proteger-fontes-naturais-de-agua.txt
+  17-024-construir-barreiras-contra-erosao.txt
+  17-025-recuperar-vegetacao-nativa.txt
+  17-026-utilizar-arvores-para-protecao-climatica.txt
+  17-027-identificar-microclimas-favoraveis-ao-cultivo.txt
+  17-028-planejar-uma-propriedade-autossuficiente.txt
+
+======================================================================
+18. 18-criancas-e-bebes/
+======================================================================
+  18-001-preparar-uma-familia-para-emergencias.txt
+  18-002-montar-um-kit-de-emergencia-para-bebes.txt
+  18-003-cuidar-de-um-recem-nascido-sem-infraestrutura.txt
+  18-004-manter-a-higiene-de-bebes-sem-agua-corrente.txt
+  18-005-preparar-alimentos-infantis-com-seguranca.txt
+  18-006-conservar-leite-materno-em-situacoes.txt
+  18-007-manter-a-alimentacao-de-bebes-durante-crises.txt
+  18-008-cuidar-de-criancas-doentes-sem-acesso-imediato.txt
+  18-009-reconhecer-sinais-de-desidratacao-em-bebes.txt
+  18-010-reconhecer-sinais-de-emergencia-em-recem.txt
+  18-011-cuidar-de-criancas-durante-ondas-de-calor.txt
+  18-012-proteger-criancas-contra-frio-extremo.txt
+  18-013-improvisar-fraldas-de-pano.txt
+  18-014-higienizar-fraldas-reutilizaveis.txt
+  18-015-construir-um-espaco-seguro-para-criancas.txt
+  18-016-organizar-educacao-domiciliar-durante-crises.txt
+  18-017-ensinar-primeiros-socorros-para-criancas.txt
+  18-018-manter-criancas-ocupadas-em-abrigos.txt
+  18-019-preparar-criancas-para-evacuacoes.txt
+  18-020-manter-a-seguranca-de-criancas-em-deslocamentos.txt
+
+======================================================================
+19. 19-saude-feminina-e-parto/
+======================================================================
+  19-001-reconhecer-sinais-de-gravidez-de-risco.txt
+  19-002-acompanhar-uma-gestacao-com-recursos-limitados.txt
+  19-003-identificar-sinais-de-trabalho-de-parto.txt
+  19-004-reconhecer-sinais-de-emergencia-durante.txt
+  19-005-preparar-um-kit-de-parto-emergencial.txt
+  19-006-preparar-um-ambiente-limpo-para-o-parto.txt
+  19-007-reconhecer-sinais-de-complicacoes-durante.txt
+  19-008-reconhecer-hemorragia-pos-parto.txt
+  19-009-reconhecer-sinais-de-infeccao-apos-o-parto.txt
+  19-010-prestar-cuidados-imediatos-ao-recem-nascido.txt
+  19-011-realizar-cuidados-com-o-cordao-umbilical.txt
+  19-012-apoiar-a-amamentacao-em-situacoes-de-emergencia.txt
+  19-013-reconhecer-problemas-relacionados-a-amamentacao.txt
+  19-014-identificar-sinais-de-mastite.txt
+  19-015-reconhecer-sinais-de-depressao-pos-parto.txt
+  19-016-realizar-higiene-menstrual-sem-produtos.txt
+  19-017-produzir-absorventes-reutilizaveis.txt
+  19-018-higienizar-produtos-menstruais-reutilizaveis.txt
+  19-019-reconhecer-sinais-de-infeccoes-ginecologicas.txt
+  19-020-preservar-a-saude-reprodutiva-em-situacoes.txt
+
+======================================================================
+20. 20-animais-e-pecuaria/
+======================================================================
+  20-001-cuidar-de-caes-durante-situacoes-de-emergencia.txt
+  20-002-cuidar-de-gatos-sem-infraestrutura-veterinaria.txt
+  20-003-alimentar-caes-com-recursos-limitados.txt
+  20-004-alimentar-gatos-com-recursos-limitados.txt
+  20-005-construir-abrigos-para-animais-domesticos.txt
+  20-006-reconhecer-sinais-de-doencas-em-caes.txt
+  20-007-reconhecer-sinais-de-doencas-em-gatos.txt
+  20-008-prestar-primeiros-socorros-em-animais.txt
+  20-009-transportar-animais-durante-evacuacoes.txt
+  20-010-armazenar-alimentos-para-animais.txt
+  20-011-realizar-higiene-de-animais-domesticos.txt
+  20-012-controlar-parasitas-em-animais.txt
+  20-013-construir-um-galinheiro-sanitariamente-adequado.txt
+  20-014-prevenir-doencas-em-galinhas.txt
+  20-015-reconhecer-doencas-em-bovinos.txt
+  20-016-reconhecer-doencas-em-caprinos.txt
+  20-017-reconhecer-doencas-em-suinos.txt
+  20-018-realizar-manejo-sanitario-de-pequenos-rebanhos.txt
+  20-019-armazenar-racao-por-longos-periodos.txt
+  20-020-produzir-alimentacao-animal.txt
+  20-021-cultivar-forragem.txt
+  20-022-produzir-feno.txt
+  20-023-armazenar-silagem.txt
+  20-024-construir-bebedouros-para-animais.txt
+  20-025-organizar-reproducao-de-animais-de-criacao.txt
+  20-026-realizar-cuidados-basicos-com-animais-recem.txt
+  20-027-reconhecer-sinais-de-zoonoses.txt
+  20-028-prevenir-transmissao-de-doencas-entre-animais.txt
+
+======================================================================
+21. 21-direito-e-documentacao/
+======================================================================
+  21-001-organizar-documentos-pessoais-em-situacoes.txt
+  21-002-preservar-certidoes-e-documentos-importantes.txt
+  21-003-criar-copias-fisicas-de-documentos.txt
+  21-004-organizar-registros-familiares.txt
+  21-005-registrar-nascimentos-em-situacoes-de-crise.txt
+  21-006-manter-registros-de-obitos.txt
+  21-007-organizar-a-identificacao-de-pessoas.txt
+  21-008-preservar-registros-de-propriedade.txt
+  21-009-organizar-inventarios-de-bens.txt
+  21-010-entender-direitos-fundamentais-em-estados.txt
+  21-011-compreender-regras-de-evacuacao-civil.txt
+  21-012-organizar-uma-associacao-comunitaria.txt
+  21-013-estabelecer-acordos-comunitarios.txt
+  21-014-criar-regras-de-convivencia.txt
+  21-015-organizar-assembleias-comunitarias.txt
+  21-016-estabelecer-sistemas-de-resolucao-de-disputas.txt
+  21-017-organizar-trabalho-voluntario.txt
+  21-018-organizar-distribuicao-humanitaria.txt
+  21-019-preservar-registros-historicos-de-uma-comunidade.txt
+
+======================================================================
+22. 22-educacao/
+======================================================================
+  22-001-ensinar-leitura-e-escrita-sem-internet.txt
+  22-002-ensinar-matematica-basica-sem-recursos-digitais.txt
+  22-003-ensinar-ciencias-em-casa.txt
+  22-004-ensinar-agricultura-para-criancas.txt
+  22-005-ensinar-primeiros-socorros.txt
+  22-006-ensinar-construcao-civil-basica.txt
+  22-007-ensinar-eletricidade-basica.txt
+  22-008-ensinar-mecanica-basica.txt
+  22-009-ensinar-higiene-e-saneamento.txt
+  22-010-criar-uma-escola-comunitaria.txt
+  22-011-organizar-uma-biblioteca-comunitaria.txt
+  22-012-produzir-livros-artesanalmente.txt
+  22-013-fabricar-papel-artesanal.txt
+  22-014-fabricar-tinta-para-escrita.txt
+  22-015-produzir-lapis-e-instrumentos-de-escrita.txt
+  22-016-encadernar-livros-manualmente.txt
+  22-017-preservar-livros-em-ambientes-umidos.txt
+  22-018-criar-materiais-didaticos-ilustrados.txt
+  22-019-transmitir-conhecimentos-tecnicos-sem.txt
+  22-020-organizar-um-sistema-de-aprendizagem-por.txt
+
+======================================================================
+23. 23-artes-e-cultura/
+======================================================================
+  23-001-preservar-conhecimentos-tradicionais.txt
+  23-002-preservar-musicas-e-tradicoes-culturais.txt
+  23-003-construir-instrumentos-musicais-artesanais.txt
+  23-004-fabricar-cordas-para-instrumentos-musicais.txt
+  23-005-construir-uma-guitarra-artesanal.txt
+  23-006-fabricar-instrumentos-de-percussao.txt
+  23-007-preservar-partituras-e-tablaturas.txt
+  23-008-registrar-historias-oralmente.txt
+  23-009-criar-arquivos-historicos-comunitarios.txt
+  23-010-preservar-fotografias-fisicas.txt
+  23-011-preservar-pinturas-e-desenhos.txt
+  23-012-produzir-papel-e-tinta.txt
+  23-013-fabricar-materiais-para-desenho.txt
+  23-014-construir-relogios-de-sol.txt
+  23-015-construir-calendarios-agricolas.txt
+  23-016-calcular-datas-e-estacoes-do-ano.txt
+  23-017-preservar-conhecimentos-astronomicos.txt
+  23-018-reconstruir-tecnicas-artesanais-tradicionais.txt
+  23-019-preservar-idiomas-e-conhecimentos-locais.txt
+  23-020-organizar-atividades-culturais-em-comunidades.txt
+
+======================================================================
+24. 24-seguranca-e-protecao/
+======================================================================
+  24-001-avaliar-riscos-de-seguranca-em-ambientes-urbanos.txt
+  24-002-identificar-comportamentos-suspeitos.txt
+  24-003-proteger-uma-residencia-contra-invasoes.txt
+  24-004-reforcar-portas-e-janelas.txt
+  24-005-construir-sistemas-de-travamento-mecanico.txt
+  24-006-organizar-vigilancia-comunitaria.txt
+  24-007-estabelecer-protocolos-de-seguranca-domestica.txt
+  24-008-criar-sistemas-de-iluminacao-perimetral.txt
+  24-009-identificar-rotas-de-fuga-de-uma-residencia.txt
+  24-010-criar-pontos-de-encontro-familiares.txt
+  24-011-proteger-suprimentos-contra-deterioracao.txt
+  24-012-armazenar-ferramentas-perigosas-com-seguranca.txt
+  24-013-agir-diante-de-ameacas-sem-confronto-fisico.txt
+  24-014-reconhecer-situacoes-de-violencia-domestica.txt
+  24-015-proteger-pessoas-vulneraveis-durante-crises.txt
+  24-016-estabelecer-comunicacao-de-emergencia-entre.txt
+  24-017-organizar-abrigos-comunitarios-seguros.txt
+  24-018-avaliar-riscos-de-incendio-em-construcoes.txt
+  24-019-identificar-estruturas-comprometidas.txt
+  24-020-organizar-seguranca-em-depositos-de-alimentos.txt
+
+======================================================================
+25. 25-nutricao-e-fisiologia/
+======================================================================
+  25-001-fundamentos-de-nutricao-humana.txt
+  25-002-calcular-as-necessidades-caloricas-diarias.txt
+  25-003-calcular-necessidades-nutricionais-de-uma.txt
+  25-004-identificar-deficiencia-de-proteinas.txt
+  25-005-reconhecer-deficiencia-de-vitamina.txt
+  25-006-reconhecer-deficiencia-de-vitamina-b12.txt
+  25-007-reconhecer-deficiencia-de-vitamina-c.txt
+  25-008-reconhecer-deficiencia-de-vitamina-d.txt
+  25-009-reconhecer-deficiencia-de-ferro.txt
+  25-010-reconhecer-deficiencia-de-zinco.txt
+  25-011-reconhecer-deficiencia-de-iodo.txt
+  25-012-planejar-uma-dieta-com-recursos-limitados.txt
+  25-013-montar-uma-alimentacao-nutricionalmente.txt
+  25-014-combinar-alimentos-vegetais-para-obter-proteinas.txt
+  25-015-produzir-alimentos-ricos-em-calorias.txt
+  25-016-produzir-alimentos-ricos-em-proteinas.txt
+  25-017-identificar-fontes-naturais-de-gorduras.txt
+  25-018-extrair-oleos-de-sementes.txt
+  25-019-produzir-oleo-de-cozinha-artesanal.txt
+  25-020-identificar-sinais-de-desnutricao-infantil.txt
+  25-021-prevenir-desnutricao-em-idosos.txt
+  25-022-alimentar-pessoas-com-necessidades-nutricionais.txt
+  25-023-planejar-alimentacao-para-trabalhos-fisicos.txt
+  25-024-planejar-alimentacao-durante-escassez-prolongada.txt
+  25-025-evitar-deficiencias-nutricionais-em-dietas.txt
+
+======================================================================
+26. 26-odontologia/
+======================================================================
+  26-001-fundamentos-de-anatomia-dentaria.txt
+  26-002-prevenir-caries-em-situacoes-de-escassez.txt
+  26-003-realizar-higiene-bucal-sem-escova.txt
+  26-004-fabricar-escovas-de-dentes-artesanais.txt
+  26-005-identificar-infeccoes-dentarias.txt
+  26-006-reconhecer-abscessos-dentarios.txt
+  26-007-aliviar-temporariamente-uma-dor-de-dente.txt
+  26-008-reconhecer-problemas-nas-gengivas.txt
+  26-009-prevenir-doencas-periodontais.txt
+  26-010-cuidar-de-dentes-quebrados.txt
+  26-011-agir-apos-perda-de-um-dente.txt
+  26-012-conservar-proteses-dentarias.txt
+  26-013-higienizar-proteses-dentarias.txt
+  26-014-identificar-emergencias-odontologicas.txt
+  26-015-improvisar-materiais-de-higiene-bucal-seguros.txt
+
+======================================================================
+27. 27-visao-e-audicao/
+======================================================================
+  27-001-cuidar-de-pessoas-com-deficiencia-visual.txt
+  27-002-cuidar-de-pessoas-com-deficiencia-auditiva.txt
+  27-003-organizar-evacuacao-de-pessoas-com-mobilidade.txt
+  27-004-transportar-pessoas-com-limitacoes-fisicas.txt
+  27-005-produzir-bengalas-e-instrumentos-de-apoio.txt
+  27-006-fabricar-cadeiras-de-rodas-de-emergencia.txt
+  27-007-realizar-manutencao-de-cadeiras-de-rodas.txt
+  27-008-conservar-oculos-de-grau.txt
+  27-009-reparar-armacoes-de-oculos.txt
+  27-010-improvisar-solucoes-de-amplificacao-sonora.txt
+  27-011-preservar-aparelhos-auditivos.txt
+  27-012-organizar-medicamentos-de-pessoas-com-doencas.txt
+  27-013-cuidar-de-pessoas-com-diabetes-em-situacoes.txt
+  27-014-cuidar-de-pessoas-com-hipertensao-em-situacoes.txt
+  27-015-cuidar-de-pessoas-com-epilepsia-em-situacoes.txt
+  27-016-cuidar-de-pessoas-com-limitacoes-cognitivas.txt
+  27-017-adaptar-ambientes-para-pessoas-com-mobilidade.txt
+  27-018-criar-sistemas-de-identificacao-e-orientacao.txt
+  27-019-organizar-atendimento-de-pessoas-dependentes.txt
+
+======================================================================
+28. 28-logistica-e-recursos/
+======================================================================
+  28-001-montar-um-estoque-de-emergencia-para-uma-familia.txt
+  28-002-calcular-o-consumo-mensal-de-suprimentos.txt
+  28-003-determinar-prioridades-de-armazenamento.txt
+  28-004-organizar-estoques-por-validade.txt
+  28-005-aplicar-o-sistema-fifo-em-estoques-de-alimentos.txt
+  28-006-controlar-perdas-e-desperdicios.txt
+  28-007-organizar-um-deposito-de-suprimentos.txt
+  28-008-proteger-estoques-contra-umidade.txt
+  28-009-proteger-estoques-contra-pragas.txt
+  28-010-criar-um-inventario-manual.txt
+  28-011-calcular-necessidades-de-combustivel.txt
+  28-012-calcular-necessidades-de-agua.txt
+  28-013-calcular-necessidades-de-medicamentos.txt
+  28-014-distribuir-recursos-entre-familias.txt
+  28-015-organizar-centros-de-distribuicao-comunitarios.txt
+  28-016-transportar-cargas-sem-veiculos-motorizados.txt
+  28-017-armazenar-materiais-de-construcao.txt
+  28-018-organizar-ferramentas-coletivas.txt
+  28-019-estabelecer-reservas-estrategicas.txt
+  28-020-planejar-reposicao-de-recursos.txt
+  28-021-organizar-cadeias-de-producao-locais.txt
+
+======================================================================
+29. 29-tecnologia-e-computacao/
+======================================================================
+  29-001-utilizar-um-computador-sem-internet.txt
+  29-002-instalar-um-sistema-operacional-sem-internet.txt
+  29-003-utilizar-linux-completamente-offline.txt
+  29-004-instalar-programas-linux-a-partir-de-midias.txt
+  29-005-criar-um-servidor-local-sem-conexao.txt
+  29-006-montar-uma-rede-local-sem-internet.txt
+  29-007-compartilhar-arquivos-em-uma-rede-local.txt
+  29-008-configurar-um-roteador-sem-acesso-a-internet.txt
+  29-009-criar-uma-biblioteca-digital-offline.txt
+  29-010-utilizar-uma-wiki-sem-conexao-com-a-internet.txt
+  29-011-utilizar-kiwix-para-consultar-enciclopedias.txt
+  29-012-armazenar-a-wikipedia-offline.txt
+  29-013-armazenar-mapas-do-openstreetmap-offline.txt
+  29-014-armazenar-manuais-tecnicos-em-um-celular.txt
+  29-015-utilizar-bancos-de-dados-locais.txt
+  29-016-pesquisar-grandes-colecoes-de-documentos-offline.txt
+  29-017-criar-um-mecanismo-de-busca-local.txt
+  29-018-recuperar-arquivos-corrompidos.txt
+  29-019-recuperar-dados-de-hds-externos.txt
+  29-020-diagnosticar-falhas-em-discos-rigidos.txt
+  29-021-preservar-dados-em-ssds.txt
+  29-022-preservar-dados-em-cartoes-de-memoria.txt
+  29-023-criar-imagens-de-discos-para-backup.txt
+  29-024-verificar-arquivos-com-hashes-sha-256.txt
+  29-025-criar-arquivos-compactados-para-armazenamento.txt
+  29-026-escolher-formatos-de-arquivos-duraveis.txt
+  29-027-converter-documentos-para-formatos-abertos.txt
+  29-028-recuperar-arquivos-de-filesystems-danificados.txt
+  29-029-criar-um-catalogo-digital-pesquisavel.txt
+  29-030-criar-uma-biblioteca-de-manuais-em-pdf.txt
+  29-031-usar-aplicativos-android-offline.txt
+  29-032-transferir-arquivos-entre-celular-e-hd-externo.txt
+  29-033-alimentar-dispositivos-usb-com-energia-solar.txt
+  29-034-usar-o-celular-para-navegacao-offline.txt
+  29-035-preservar-informacoes-digitais-por-decadas.txt
+  29-036-recuperar-arquivos-de-sistemas-de-arquivos.txt
+  29-037-manter-um-catalogo-digital-de-recursos.txt
+  29-038-organizar-uma-biblioteca-de-manuais-em-pdf.txt
+  29-039-utilizar-aplicativos-android-sem-internet.txt
+  29-040-utilizar-um-celular-como-ferramenta.txt
+
+======================================================================
+30. 30-engenharia-e-infraestrutura/
+======================================================================
+  30-001-fundamentos-de-engenharia-civil.txt
+  30-002-fundamentos-de-engenharia-eletrica.txt
+  30-003-fundamentos-de-engenharia-mecanica.txt
+  30-004-fundamentos-de-hidraulica.txt
+  30-005-fundamentos-de-pneumatica.txt
+  30-006-calcular-estruturas-simples.txt
+  30-007-calcular-cargas-e-esforcos-mecanicos.txt
+  30-008-construir-pontes-de-madeira-simples.txt
+  30-009-construir-passarelas-sobre-pequenos-cursos-d.txt
+  30-010-construir-sistemas-de-drenagem-pluvial.txt
+  30-011-construir-canais-de-irrigacao.txt
+  30-012-construir-comportas-simples.txt
+  30-013-construir-reservatorios-elevados.txt
+  30-014-dimensionar-tubulacoes-de-agua.txt
+  30-015-construir-bombas-hidraulicas-artesanais.txt
+  30-016-construir-uma-bomba-de-ar-manual.txt
+  30-017-construir-sistemas-mecanicos-de-elevacao.txt
+  30-018-construir-guinchos-manuais.txt
+  30-019-construir-sistemas-de-ventilacao-passiva.txt
+  30-020-construir-sistemas-de-refrigeracao-evaporativa.txt
+  30-021-construir-uma-geladeira-de-barro.txt
+  30-022-construir-uma-adega-subterranea.txt
+  30-023-construir-um-refrigerador-sem-eletricidade.txt
+  30-024-construir-sistemas-de-armazenamento-termico.txt
+  30-025-construir-sistemas-de-aquecimento-solar-de-agua.txt
+
+======================================================================
+31. 31-refrigeracao-e-conservacao/
+======================================================================
+  31-001-fundamentos-de-transferencia-de-calor.txt
+  31-002-funciona-a-refrigeracao.txt
+  31-003-funciona-um-refrigerador-domestico.txt
+  31-004-conservar-alimentos-sem-geladeira.txt
+  31-005-construir-uma-caixa-termica-artesanal.txt
+  31-006-construir-uma-geladeira-evaporativa.txt
+  31-007-armazenar-alimentos-em-temperaturas-controladas.txt
+  31-008-utilizar-gelo-natural-para-conservacao.txt
+  31-009-produzir-gelo-com-recursos-limitados.txt
+  31-010-conservar-medicamentos-sensiveis-a-temperatura.txt
+  31-011-construir-uma-camara-fria-de-pequena-escala.txt
+  31-012-construir-isolamento-termico-com-materiais.txt
+  31-013-medir-temperatura-de-armazenamento.txt
+  31-014-evitar-deterioracao-de-alimentos-em-climas.txt
+
+======================================================================
+32. 32-producao-artesanal/
+======================================================================
+  32-001-fabricar-papel-a-partir-de-fibras-vegetais.txt
+  32-002-fabricar-papel-reciclado.txt
+  32-003-produzir-embalagens-de-papel.txt
+  32-004-fabricar-recipientes-de-ceramica.txt
+  32-005-fabricar-recipientes-de-vidro.txt
+  32-006-reciclar-vidro-com-seguranca.txt
+  32-007-fabricar-tijolos-ecologicos.txt
+  32-008-fabricar-telhas-artesanais.txt
+  32-009-fabricar-tubos-de-ceramica.txt
+  32-010-produzir-cal-hidratada.txt
+  32-011-fabricar-pigmentos-naturais.txt
+  32-012-produzir-tintas-minerais.txt
+  32-013-produzir-vernizes-naturais.txt
+  32-014-fabricar-colas-artesanais.txt
+  32-015-fabricar-pinceis.txt
+  32-016-fabricar-ferramentas-de-madeira.txt
+  32-017-produzir-pecas-de-reposicao-simples.txt
+  32-018-construir-moldes-artesanais.txt
+  32-019-utilizar-moldagem-em-areia.txt
+  32-020-reciclar-materiais-plasticos-de-forma-segura.txt
+  32-021-identificar-plasticos-reciclaveis.txt
+  32-022-trabalhar-com-borracha.txt
+  32-023-reparar-objetos-de-plastico.txt
+  32-024-reaproveitar-embalagens-industriais.txt
+  32-025-organizar-uma-oficina-comunitaria.txt
+
+======================================================================
+33. 33-agricultura-avancada/
+======================================================================
+  33-001-planejar-uma-propriedade-rural-autossuficiente.txt
+  33-002-calcular-a-area-necessaria-para-alimentar-uma.txt
+  33-003-criar-um-sistema-agroflorestal.txt
+  33-004-implementar-permacultura.txt
+  33-005-criar-um-sistema-de-aquaponia.txt
+  33-006-criar-um-sistema-de-hidroponia.txt
+  33-007-produzir-alimentos-em-aquaponia-sem-eletricidade.txt
+  33-008-construir-um-sistema-de-irrigacao-por-gravidade.txt
+  33-009-recuperar-areas-agricolas-abandonadas.txt
+  33-010-controlar-erosao-em-terrenos-inclinados.txt
+  33-011-construir-terracos-agricolas.txt
+  33-012-realizar-manejo-de-agua-em-propriedades-rurais.txt
+  33-013-produzir-adubo-a-partir-de-residuos-animais.txt
+  33-014-utilizar-esterco-como-fertilizante-com-seguranca.txt
+  33-015-produzir-racao-animal-na-propriedade.txt
+  33-016-organizar-uma-producao-agricola-diversificada.txt
+  33-017-planejar-colheitas-durante-o-ano-inteiro.txt
+  33-018-criar-um-calendario-agricola.txt
+  33-019-produzir-alimentos-em-ambientes-urbanos.txt
+  33-020-construir-uma-pequena-fazenda-de-subsistencia.txt
+
+======================================================================
+34. 34-orientacao-e-maritimo/
+======================================================================
+  34-001-sobreviver-apos-um-naufragio.txt
+  34-002-construir-um-abrigo-em-praias.txt
+  34-003-encontrar-agua-potavel-em-regioes-costeiras.txt
+  34-004-identificar-mares-perigosas.txt
+  34-005-identificar-correntes-de-retorno.txt
+  34-006-sobreviver-a-correntes-maritimas.txt
+  34-007-reconhecer-sinais-de-mudancas-no-mar.txt
+  34-008-coletar-agua-da-chuva-em-embarcacoes.txt
+  34-009-pescar-em-ambientes-costeiros.txt
+  34-010-identificar-frutos-do-mar-proprios-para-consumo.txt
+  34-011-reconhecer-organismos-marinhos-venenosos.txt
+  34-012-identificar-riscos-de-animais-marinhos.txt
+  34-013-construir-equipamentos-de-flutuacao.txt
+  34-014-realizar-primeiros-socorros-em-afogamentos.txt
+  34-015-realizar-manutencao-de-barcos-de-madeira.txt
+  34-016-preservar-alimentos-em-ambientes-maritimos.txt
+  34-017-utilizar-estrelas-para-navegacao-maritima.txt
+  34-018-construir-sinais-de-emergencia-maritima.txt
+  34-019-sobreviver-em-uma-ilha-sem-infraestrutura.txt
+
+======================================================================
+35. 35-temas-especiais/
+======================================================================
+  35-001-historia-das-grandes-epidemias-e-licoes.txt
+  35-002-historia-dos-grandes-apagoes-eletricos.txt
+  35-003-historia-dos-colapsos-de-civilizacoes.txt
+  35-004-historia-das-grandes-fomes.txt
+  35-005-historia-de-sobrevivencia-durante-guerras.txt
+  35-006-funcionavam-cidades-antes-da-eletricidade.txt
+  35-007-funcionavam-hospitais-antes-da-medicina-moderna.txt
+  35-008-funcionavam-sistemas-de-abastecimento-antigos.txt
+  35-009-funcionavam-sistemas-de-saneamento-antigos.txt
+  35-010-funcionavam-sistemas-agricolas-tradicionais.txt
+  35-011-reconstruir-uma-comunidade-apos-um-colapso.txt
+  35-012-reconstruir-uma-infraestrutura-eletrica-local.txt
+  35-013-reconstruir-uma-infraestrutura-de-agua.txt
+  35-014-reconstruir-um-sistema-de-saneamento.txt
+  35-015-reconstruir-uma-cadeia-de-producao-alimentar.txt
+  35-016-reconstruir-uma-oficina-mecanica.txt
+  35-017-reconstruir-uma-farmacia-comunitaria.txt
+  35-018-reconstruir-um-sistema-educacional.txt
+  35-019-reconstruir-uma-rede-de-comunicacao.txt
+  35-020-reconstruir-uma-economia-local.txt
+  35-021-desenvolver-tecnologias-apropriadas.txt
+  35-022-priorizar-tecnologias-essenciais.txt
+  35-023-preservar-conhecimentos-cientificos-durante.txt
+  35-024-organizar-uma-comunidade-autossuficiente.txt
+  35-025-planejar-a-reconstrucao-gradual.txt
+
+======================================================================
+36. 36-geologia-e-mineracao/
+======================================================================
+  36-001-compreender-a-formacao-geologica-de-uma-regiao.txt
+  36-002-identificar-formacoes-rochosas.txt
+  36-003-identificar-depositos-minerais.txt
+  36-004-reconhecer-minerais-metalicos.txt
+  36-005-reconhecer-minerais-nao-metalicos.txt
+  36-006-identificar-depositos-de-ferro.txt
+  36-007-identificar-depositos-de-cobre.txt
+  36-008-identificar-depositos-de-estanho.txt
+  36-009-identificar-depositos-de-aluminio.txt
+  36-010-identificar-depositos-de-chumbo.txt
+  36-011-identificar-depositos-de-zinco.txt
+  36-012-identificar-depositos-de-niquel.txt
+  36-013-identificar-depositos-de-manganes.txt
+  36-014-identificar-depositos-de-ouro.txt
+  36-015-identificar-depositos-de-prata.txt
+  36-016-identificar-depositos-de-quartzo.txt
+  36-017-identificar-depositos-de-calcario.txt
+  36-018-identificar-depositos-de-gipsita.txt
+  36-019-identificar-depositos-de-argila.txt
+  36-020-identificar-depositos-de-sal-mineral.txt
+  36-021-reconhecer-rochas-sedimentares.txt
+  36-022-reconhecer-rochas-igneas.txt
+  36-023-reconhecer-rochas-metamorficas.txt
+  36-024-identificar-minerais-pela-dureza.txt
+  36-025-identificar-minerais-pela-densidade.txt
+  36-026-identificar-minerais-pela-cor-e-brilho.txt
+  36-027-utilizar-testes-simples-de-identificacao-mineral.txt
+  36-028-utilizar-uma-lupa-geologica.txt
+  36-029-construir-uma-colecao-de-referencia-mineralogica.txt
+  36-030-realizar-prospeccao-geologica-basica.txt
+  36-031-identificar-terrenos-com-potencial-mineral.txt
+  36-032-reconhecer-sinais-de-atividade-vulcanica.txt
+  36-033-identificar-riscos-geologicos-em-terrenos.txt
+  36-034-reconhecer-areas-com-risco-de-subsidencia.txt
+  36-035-identificar-cavernas-naturais.txt
+  36-036-avaliar-a-estabilidade-de-cavernas.txt
+  36-037-realizar-exploracao-mineral-sem-maquinario.txt
+  36-038-realizar-peneiramento-de-sedimentos.txt
+  36-039-reconhecer-solos-ricos-em-minerais.txt
+  36-040-mapear-recursos-naturais-de-uma-propriedade.txt
+
+======================================================================
+37. 37-cartografia-e-topografia/
+======================================================================
+  37-001-fundamentos-de-cartografia.txt
+  37-002-interpretar-projecoes-cartograficas.txt
+  37-003-compreender-escalas-cartograficas.txt
+  37-004-calcular-distancias-em-mapas.txt
+  37-005-calcular-areas-em-mapas.txt
+  37-006-desenhar-mapas-manualmente.txt
+  37-007-realizar-levantamento-topografico-basico.txt
+  37-008-medir-diferencas-de-altitude.txt
+  37-009-construir-um-nivel-de-mangueira.txt
+  37-010-construir-um-nivel-de-bolha.txt
+  37-011-construir-um-clinometro-artesanal.txt
+  37-012-medir-inclinacoes-de-terrenos.txt
+  37-013-realizar-triangulacao-topografica.txt
+  37-014-medir-distancias-sem-trena.txt
+  37-015-determinar-a-posicao-de-um-ponto-por-observacoes.txt
+  37-016-identificar-limites-de-propriedades.txt
+  37-017-mapear-nascentes-e-cursos-d-agua.txt
+  37-018-mapear-terrenos-agricolas.txt
+  37-019-mapear-redes-subterraneas.txt
+  37-020-produzir-mapas-de-risco-de-uma-comunidade.txt
+  37-021-mapear-rotas-alternativas-de-abastecimento.txt
+  37-022-utilizar-fotografias-aereas-para-analise.txt
+  37-023-interpretar-imagens-de-satelite-armazenadas.txt
+  37-024-reconhecer-mudancas-na-paisagem.txt
+  37-025-documentar-alteracoes-geograficas-ao-longo.txt
+
+======================================================================
+38. 38-astronomia-e-tempo/
+======================================================================
+  38-001-fundamentos-de-astronomia-para-observacao.txt
+  38-002-identificar-planetas-a-olho-nu.txt
+  38-003-identificar-as-principais-estrelas.txt
+  38-004-identificar-constelacoes-do-hemisferio-sul.txt
+  38-005-identificar-constelacoes-do-hemisferio-norte.txt
+  38-006-utilizar-o-cruzeiro-do-sul-para-orientacao.txt
+  38-007-identificar-a-posicao-aproximada-do-sol-ao.txt
+  38-008-determinar-o-meio-dia-solar.txt
+  38-009-construir-um-relogio-de-sol-horizontal.txt
+  38-010-construir-um-relogio-de-sol-vertical.txt
+  38-011-construir-um-calendario-solar.txt
+  38-012-compreender-solsticios-e-equinocios.txt
+  38-013-determinar-a-duracao-aproximada-das-estacoes.txt
+  38-014-observar-fases-da-lua.txt
+  38-015-utilizar-as-fases-da-lua-em-calendarios.txt
+  38-016-prever-eclipses-utilizando-conhecimentos.txt
+  38-017-medir-o-tempo-utilizando-estrelas.txt
+  38-018-construir-um-relogio-mecanico-simples.txt
+  38-019-construir-uma-clepsidra.txt
+  38-020-construir-uma-ampulheta.txt
+  38-021-construir-um-calendario-perpetuo.txt
+  38-022-calcular-datas-sem-calendario-digital.txt
+  38-023-determinar-os-dias-da-semana-matematicamente.txt
+  38-024-compreender-os-diferentes-sistemas-de-calendario.txt
+  38-025-manter-um-registro-cronologico-durante-um.txt
+
+======================================================================
+39. 39-optica-e-instrumentos/
+======================================================================
+  39-001-fundamentos-de-optica.txt
+  39-002-funciona-a-refracao-da-luz.txt
+  39-003-funciona-a-reflexao-da-luz.txt
+  39-004-funciona-a-dispersao-da-luz.txt
+  39-005-construir-uma-lente-simples.txt
+  39-006-fabricar-uma-lupa-artesanal.txt
+  39-007-construir-um-microscopio-simples.txt
+  39-008-construir-um-telescopio-refrator-basico.txt
+  39-009-construir-um-telescopio-refletor-basico.txt
+  39-010-construir-uma-camera-pinhole.txt
+  39-011-construir-uma-camera-fotografica-artesanal.txt
+  39-012-revelar-fotografias-com-processos-quimicos.txt
+  39-013-construir-um-periscopio.txt
+  39-014-construir-um-espectroscopio-simples.txt
+  39-015-observar-microrganismos-com-microscopios.txt
+  39-016-construir-uma-luneta.txt
+  39-017-fabricar-prismas-opticos.txt
+  39-018-compreender-lentes-convergentes-e-divergentes.txt
+  39-019-produzir-lentes-de-vidro.txt
+  39-020-reparar-instrumentos-opticos.txt
+  39-021-construir-instrumentos-de-medicao-com-lentes.txt
+  39-022-utilizar-luz-solar-para-experimentos-cientificos.txt
+
+======================================================================
+40. 40-acustica/
+======================================================================
+  40-001-fundamentos-de-acustica.txt
+  40-002-o-som-se-propaga-no-ar.txt
+  40-003-o-som-se-propaga-na-agua.txt
+  40-004-construir-um-megafone-artesanal.txt
+  40-005-construir-um-estetoscopio-simples.txt
+  40-006-construir-um-instrumento-para-amplificar-sons.txt
+  40-007-melhorar-a-acustica-de-um-ambiente.txt
+  40-008-construir-isolamento-acustico-artesanal.txt
+  40-009-produzir-alarmes-sonoros-mecanicos.txt
+  40-010-construir-campainhas-mecanicas.txt
+  40-011-utilizar-ecos-para-estimar-distancias.txt
+  40-012-construir-instrumentos-de-medicao-sonora.txt
+  40-013-transmitir-mensagens-utilizando-sinais-acusticos.txt
+  40-014-construir-um-telefone-acustico-por-tubos.txt
+  40-015-preservar-gravacoes-de-audio.txt
+  40-016-construir-dispositivos-mecanicos-de-reproducao.txt
+
+======================================================================
+41. 41-navegacao-avancada/
+======================================================================
+  41-001-planejar-uma-expedicao-de-longa-duracao.txt
+  41-002-calcular-o-consumo-de-suprimentos-em-expedicoes.txt
+  41-003-realizar-navegacao-por-estimativa.txt
+  41-004-realizar-navegacao-costeira.txt
+  41-005-utilizar-cartas-nauticas.txt
+  41-006-interpretar-cartas-hidrograficas.txt
+  41-007-determinar-profundidades-utilizando-metodos.txt
+  41-008-utilizar-sondas-de-profundidade-manuais.txt
+  41-009-construir-um-sextante-artesanal.txt
+  41-010-utilizar-um-sextante-para-navegacao.txt
+  41-011-realizar-navegacao-astronomica-basica.txt
+  41-012-calcular-latitude-pela-altura-do-sol.txt
+  41-013-compreender-longitude-e-tempo-astronomico.txt
+  41-014-utilizar-correntes-maritimas-na-navegacao.txt
+  41-015-identificar-padroes-de-ventos.txt
+  41-016-utilizar-ventos-para-deslocamento-maritimo.txt
+  41-017-construir-uma-vela-para-embarcacao.txt
+  41-018-realizar-manutencao-de-velas-nauticas.txt
+  41-019-construir-remos.txt
+  41-020-calcular-capacidade-de-carga-de-uma-embarcacao.txt
+  41-021-planejar-travessias-de-rios.txt
+  41-022-organizar-expedicoes-terrestres-com-recursos.txt
+
+======================================================================
+42. 42-engenharia-naval/
+======================================================================
+  42-001-fundamentos-de-construcao-naval.txt
+  42-002-funciona-a-flutuacao-de-embarcacoes.txt
+  42-003-calcular-deslocamento-de-uma-embarcacao.txt
+  42-004-calcular-estabilidade-de-barcos.txt
+  42-005-construir-cascos-de-madeira.txt
+  42-006-impermeabilizar-embarcacoes-de-madeira.txt
+  42-007-construir-embarcacoes-de-bambu.txt
+  42-008-fabricar-remos-e-lemes.txt
+  42-009-construir-um-sistema-de-propulsao-manual.txt
+  42-010-construir-uma-roda-de-pas.txt
+  42-011-construir-uma-pequena-embarcacao-a-vela.txt
+  42-012-realizar-calafetagem-de-barcos.txt
+  42-013-reparar-rachaduras-em-cascos.txt
+  42-014-fabricar-cordas-maritimas.txt
+  42-015-construir-ancoras-artesanais.txt
+  42-016-utilizar-nos-nauticos.txt
+  42-017-reconhecer-sinais-de-corrosao-maritima.txt
+  42-018-preservar-metais-em-ambientes-salinos.txt
+  42-019-construir-boias-de-sinalizacao.txt
+  42-020-construir-estruturas-flutuantes.txt
+
+======================================================================
+43. 43-materiais-de-construcao/
+======================================================================
+  43-001-produzir-vidro-a-partir-de-materias-primas.txt
+  43-002-fabricar-vidro-plano-artesanalmente.txt
+  43-003-produzir-fibras-de-vidro.txt
+  43-004-produzir-ceramica-vitrificada.txt
+  43-005-produzir-porcelana.txt
+  43-006-fabricar-ladrilhos-ceramicos.txt
+  43-007-fabricar-telhas-de-alta-durabilidade.txt
+  43-008-produzir-concreto-de-alta-resistencia.txt
+  43-009-produzir-concreto-leve.txt
+  43-010-produzir-concreto-refratario.txt
+  43-011-fabricar-blocos-de-terra-comprimida.txt
+  43-012-produzir-paineis-de-construcao-com-fibras.txt
+  43-013-fabricar-paineis-de-madeira-prensada.txt
+  43-014-produzir-compensado-artesanal.txt
+  43-015-produzir-placas-de-isolamento-vegetal.txt
+  43-016-fabricar-la-mineral.txt
+  43-017-produzir-fibras-naturais-para-reforco-estrutural.txt
+  43-018-produzir-resinas-naturais.txt
+  43-019-fabricar-impermeabilizantes-minerais.txt
+  43-020-produzir-revestimentos-resistentes-a-umidade.txt
+  43-021-produzir-tintas-resistentes-ao-clima.txt
+  43-022-fabricar-materiais-refratarios.txt
+  43-023-construir-fornos-para-producao-de-materiais.txt
+  43-024-testar-resistencia-de-materiais-de-construcao.txt
+  43-025-avaliar-durabilidade-de-materiais-expostos-ao.txt
+
+======================================================================
+44. 44-hidrologia-e-rios/
+======================================================================
+  44-001-fundamentos-de-hidrologia.txt
+  44-002-compreender-o-ciclo-hidrologico.txt
+  44-003-identificar-areas-de-recarga-de-aquiferos.txt
+  44-004-compreender-o-funcionamento-de-aquiferos.txt
+  44-005-identificar-sinais-de-contaminacao-de-aquiferos.txt
+  44-006-mapear-uma-microbacia-hidrografica.txt
+  44-007-compreender-o-comportamento-de-rios.txt
+  44-008-medir-vazao-de-um-rio.txt
+  44-009-medir-velocidade-de-correnteza.txt
+  44-010-estimar-volume-de-agua-disponivel.txt
+  44-011-identificar-periodos-de-cheia-e-estiagem.txt
+  44-012-construir-pequenas-barragens-de-retencao.txt
+  44-013-construir-reservatorios-de-infiltracao.txt
+  44-014-construir-bacias-de-captacao-de-chuva.txt
+  44-015-restaurar-nascentes-degradadas.txt
+  44-016-proteger-margens-de-rios-contra-erosao.txt
+  44-017-recuperar-areas-de-mata-ciliar.txt
+  44-018-realizar-manejo-sustentavel-de-bacias.txt
+  44-019-construir-sistemas-de-retencao-de-sedimentos.txt
+  44-020-identificar-riscos-de-rompimento-de-barragens.txt
+
+======================================================================
+45. 45-saneamento-e-saude-publica/
+======================================================================
+  45-001-fundamentos-de-engenharia-sanitaria.txt
+  45-002-funciona-uma-estacao-de-tratamento-de-agua.txt
+  45-003-construir-uma-estacao-simplificada.txt
+  45-004-funciona-uma-estacao-de-tratamento-de-esgoto.txt
+  45-005-construir-sistemas-de-tratamento-de-esgoto-por.txt
+  45-006-construir-wetlands-artificiais.txt
+  45-007-utilizar-plantas-no-tratamento-de-aguas.txt
+  45-008-realizar-tratamento-biologico-de-efluentes.txt
+  45-009-compreender-o-funcionamento-de-biodigestores.txt
+  45-010-construir-um-sistema-de-tratamento-de-aguas.txt
+  45-011-tratar-residuos-organicos-comunitarios.txt
+  45-012-controlar-a-proliferacao-de-vetores.txt
+  45-013-organizar-vigilancia-epidemiologica-comunitaria.txt
+  45-014-realizar-monitoramento-de-doencas-em-comunidades.txt
+  45-015-criar-um-sistema-de-notificacao-de-surtos.txt
+  45-016-organizar-campanhas-de-vacinacao.txt
+  45-017-conservar-vacinas-quando-existe-cadeia-de-frio.txt
+  45-018-organizar-postos-de-higiene-comunitarios.txt
+  45-019-planejar-saneamento-em-assentamentos-temporarios.txt
+  45-020-prevenir-contaminacao-cruzada-em-abrigos.txt
+
+======================================================================
+46. 46-medicina-veterinaria/
+======================================================================
+  46-001-anatomia-basica-de-animais-domesticos.txt
+  46-002-avaliar-sinais-vitais-de-caes.txt
+  46-003-avaliar-sinais-vitais-de-gatos.txt
+  46-004-avaliar-sinais-vitais-de-animais-de-criacao.txt
+  46-005-realizar-contencao-segura-de-animais.txt
+  46-006-realizar-curativos-em-animais.txt
+  46-007-reconhecer-fraturas-em-animais.txt
+  46-008-reconhecer-desidratacao-em-animais.txt
+  46-009-reconhecer-intoxicacoes-em-animais.txt
+  46-010-reconhecer-doencas-infecciosas-em-rebanhos.txt
+  46-011-prevenir-surtos-em-criacoes-domesticas.txt
+  46-012-organizar-quarentena-de-animais.txt
+  46-013-realizar-controle-sanitario-de-rebanhos.txt
+  46-014-realizar-manejo-de-partos-em-animais-de-criacao.txt
+  46-015-reconhecer-disturbios-nutricionais-em-animais.txt
+  46-016-formular-dietas-para-pequenos-animais-de-criacao.txt
+  46-017-preservar-alimentos-veterinarios.txt
+  46-018-organizar-um-posto-veterinario-comunitario.txt
+  46-019-reconhecer-zoonoses-emergentes.txt
+  46-020-organizar-vigilancia-sanitaria-animal.txt
+
+======================================================================
+47. 47-tecnologia-agricola/
+======================================================================
+  47-001-construir-ferramentas-agricolas-de-tracao-manual.txt
+  47-002-construir-um-arado-artesanal.txt
+  47-003-construir-uma-semeadora-manual.txt
+  47-004-construir-um-cultivador-manual.txt
+  47-005-construir-uma-debulhadora-de-milho.txt
+  47-006-construir-um-moinho-de-graos.txt
+  47-007-construir-um-triturador-de-vegetais.txt
+  47-008-construir-uma-prensa-para-extracao-de-oleos.txt
+  47-009-construir-uma-prensa-para-frutas.txt
+  47-010-construir-uma-bomba-de-irrigacao-manual.txt
+  47-011-construir-uma-bomba-de-irrigacao-movida-a-vento.txt
+  47-012-construir-um-sistema-de-elevacao-de-agua-por.txt
+  47-013-construir-um-moinho-de-vento-agricola.txt
+  47-014-construir-um-moinho-hidraulico.txt
+  47-015-construir-um-secador-agricola-solar.txt
+  47-016-construir-uma-debulhadora-de-cereais.txt
+  47-017-construir-um-sistema-de-beneficiamento-de-arroz.txt
+  47-018-construir-um-sistema-de-armazenamento-de-graos.txt
+  47-019-realizar-manutencao-de-ferramentas-agricolas.txt
+  47-020-adaptar-maquinas-agricolas-para-operacao-sem.txt
+
+======================================================================
+48. 48-alimentos-em-escala/
+======================================================================
+  48-001-organizar-uma-cozinha-comunitaria.txt
+  48-002-dimensionar-uma-cozinha-para-grandes-grupos.txt
+  48-003-organizar-producao-coletiva-de-paes.txt
+  48-004-montar-uma-pequena-padaria-artesanal.txt
+  48-005-montar-uma-pequena-fabrica-de-farinha.txt
+  48-006-montar-uma-unidade-de-processamento-de-mandioca.txt
+  48-007-produzir-farinha-de-mandioca.txt
+  48-008-produzir-farinha-de-milho.txt
+  48-009-produzir-farinha-de-trigo-artesanal.txt
+  48-010-produzir-oleo-vegetal-em-escala-comunitaria.txt
+  48-011-montar-uma-pequena-unidade-de-laticinios.txt
+  48-012-organizar-processamento-comunitario-de-carnes.txt
+  48-013-montar-uma-unidade-de-desidratacao-de-alimentos.txt
+  48-014-organizar-uma-fabrica-comunitaria-de-conservas.txt
+  48-015-montar-uma-pequena-unidade-de-fermentacao.txt
+  48-016-produzir-sal-alimentar-a-partir-de-fontes.txt
+  48-017-construir-um-silo-de-armazenamento-de-graos.txt
+  48-018-preservar-grandes-volumes-de-alimentos.txt
+  48-019-organizar-controle-sanitario-em-cozinhas.txt
+  48-020-organizar-distribuicao-alimentar-em-comunidades.txt
+
+======================================================================
+49. 49-engenharia-quimica/
+======================================================================
+  49-001-fundamentos-de-engenharia-quimica.txt
+  49-002-compreender-processos-industriais-de-separacao.txt
+  49-003-realizar-destilacao-fracionada-em-contexto.txt
+  49-004-compreender-processos-de-cristalizacao.txt
+  49-005-realizar-processos-de-evaporacao.txt
+  49-006-realizar-processos-de-secagem-industrial.txt
+  49-007-compreender-processos-de-fermentacao-industrial.txt
+  49-008-produzir-acidos-organicos-por-fermentacao.txt
+  49-009-compreender-a-producao-industrial-de-cal.txt
+  49-010-compreender-a-producao-industrial-de-cimento.txt
+  49-011-compreender-a-producao-industrial-de-vidro.txt
+  49-012-compreender-a-producao-de-saboes-e-detergentes.txt
+  49-013-compreender-a-fabricacao-de-papel.txt
+  49-014-compreender-a-producao-de-biocombustiveis.txt
+  49-015-compreender-o-tratamento-industrial-de-agua.txt
+  49-016-compreender-processos-de-reciclagem-de-materiais.txt
+  49-017-realizar-controle-de-qualidade-em-processos.txt
+  49-018-construir-equipamentos-simples-de-processamento.txt
+  49-019-utilizar-trocadores-de-calor.txt
+  49-020-utilizar-principios-de-engenharia-de-processos.txt
+
+======================================================================
+50. 50-tecnicas-pre-industriais/
+======================================================================
+  50-001-funcionavam-os-sistemas-de-abastecimento.txt
+  50-002-os-povos-antigos-construiam-aquedutos.txt
+  50-003-funcionavam-os-moinhos-medievais.txt
+  50-004-funcionavam-os-sistemas-de-irrigacao-antigos.txt
+  50-005-eram-construidos-os-sistemas-de-ventilacao.txt
+  50-006-eram-preservados-alimentos-antes-da-refrigeracao.txt
+  50-007-funcionavam-as-antigas-tecnicas-de-mineracao.txt
+  50-008-eram-construidos-navios-antes.txt
+  50-009-funcionavam-os-sistemas-de-navegacao-antigos.txt
+  50-010-eram-produzidos-tecidos-antes.txt
+  50-011-eram-produzidos-medicamentos-tradicionais.txt
+  50-012-funcionavam-as-oficinas-de-ferreiros-antigos.txt
+  50-013-funcionavam-os-sistemas-de-producao-de-ceramica.txt
+  50-014-eram-construidos-fornos-de-alta-temperatura.txt
+  50-015-funcionavam-os-sistemas-de-correio-antes.txt
+  50-016-eram-organizadas-cidades-sem-eletricidade.txt
+  50-017-funcionavam-os-hospitais-antes-da-medicina.txt
+  50-018-funcionavam-os-sistemas-de-iluminacao-pre.txt
+  50-019-funcionavam-os-relogios-mecanicos-historicos.txt
+  50-020-eram-construidas-pontes-historicas.txt
+  50-021-funcionavam-os-sistemas-de-transporte-por.txt
+  50-022-funcionavam-as-tecnicas-tradicionais.txt
+  50-023-os-povos-antigos-produziam-papel.txt
+  50-024-funcionavam-as-antigas-tecnicas-de-fabricacao.txt
+  50-025-reconstruir-tecnologias-pre-industriais.txt
+
+======================================================================
+51. 51-matematica-aplicada/
+======================================================================
+  51-001-realizar-calculos-matematicos-sem-calculadora.txt
+  51-002-realizar-multiplicacoes-manualmente.txt
+  51-003-realizar-divisoes-manualmente.txt
+  51-004-calcular-porcentagens-mentalmente.txt
+  51-005-trabalhar-com-fracoes.txt
+  51-006-calcular-proporcoes.txt
+  51-007-utilizar-regra-de-tres.txt
+  51-008-calcular-volumes-de-recipientes.txt
+  51-009-calcular-areas-de-terrenos.txt
+  51-010-calcular-perimetros.txt
+  51-011-calcular-inclinacoes.txt
+  51-012-calcular-angulos-sem-instrumentos-digitais.txt
+  51-013-calcular-densidade-de-materiais.txt
+  51-014-calcular-pressao-hidraulica.txt
+  51-015-calcular-forca-mecanica.txt
+  51-016-calcular-torque.txt
+  51-017-calcular-potencia.txt
+  51-018-calcular-consumo-energetico.txt
+  51-019-calcular-eficiencia-de-maquinas.txt
+  51-020-calcular-perdas-termicas.txt
+  51-021-realizar-estimativas-matematicas-rapidas.txt
+  51-022-utilizar-logaritmos-em-calculos-cientificos.txt
+  51-023-utilizar-trigonometria-em-topografia.txt
+  51-024-utilizar-geometria-na-construcao-civil.txt
+  51-025-utilizar-estatistica-para-monitorar-epidemias.txt
+  51-026-calcular-probabilidades-em-situacoes-de-risco.txt
+  51-027-utilizar-tabelas-matematicas.txt
+  51-028-construir-tabelas-de-conversao.txt
+  51-029-converter-unidades-de-medida.txt
+  51-030-criar-sistemas-de-medicao-padronizados-para-uma.txt
+
+======================================================================
+52. 52-fisica-aplicada/
+======================================================================
+  52-001-fundamentos-de-mecanica-classica.txt
+  52-002-funcionam-as-leis-de-newton.txt
+  52-003-compreender-forca-massa-e-aceleracao.txt
+  52-004-compreender-trabalho-e-energia.txt
+  52-005-compreender-conservacao-de-energia.txt
+  52-006-compreender-pressao-atmosferica.txt
+  52-007-compreender-pressao-hidrostatica.txt
+  52-008-compreender-o-principio-de-pascal.txt
+  52-009-compreender-o-principio-de-arquimedes.txt
+  52-010-compreender-o-principio-de-bernoulli.txt
+  52-011-compreender-o-funcionamento-de-sifoes.txt
+  52-012-compreender-o-funcionamento-de-bombas.txt
+  52-013-compreender-o-funcionamento-de-alavancas.txt
+  52-014-compreender-o-funcionamento-de-roldanas.txt
+  52-015-compreender-o-funcionamento-de-engrenagens.txt
+  52-016-compreender-o-funcionamento-de-molas.txt
+  52-017-compreender-elasticidade-e-deformacao.txt
+  52-018-compreender-atrito-e-lubrificacao.txt
+  52-019-compreender-transferencia-de-calor.txt
+  52-020-compreender-conducao-termica.txt
+  52-021-compreender-conveccao-termica.txt
+  52-022-compreender-radiacao-termica.txt
+  52-023-compreender-mudancas-de-estado-fisico.txt
+  52-024-compreender-expansao-termica.txt
+  52-025-compreender-principios-de-termodinamica.txt
+  52-026-compreender-gases-e-pressao.txt
+  52-027-compreender-eletricidade-estatica.txt
+  52-028-compreender-magnetismo.txt
+  52-029-compreender-eletromagnetismo.txt
+  52-030-compreender-inducao-eletromagnetica.txt
+
+======================================================================
+53. 53-medicamentos-e-farmacologia/
+======================================================================
+  53-001-historia-da-farmacologia.txt
+  53-002-compreender-as-principais-classes.txt
+  53-003-funciona-a-absorcao-de-medicamentos-no-organismo.txt
+  53-004-funciona-a-distribuicao-de-medicamentos-no.txt
+  53-005-funciona-o-metabolismo-de-medicamentos.txt
+  53-006-funciona-a-eliminacao-de-medicamentos.txt
+  53-007-interpretar-a-meia-vida-de-medicamentos.txt
+  53-008-compreender-biodisponibilidade.txt
+  53-009-compreender-toxicidade-medicamentosa.txt
+  53-010-compreender-farmacocinetica.txt
+  53-011-compreender-farmacodinamica.txt
+  53-012-identificar-principios-ativos-em-formulacoes.txt
+  53-013-compreender-a-conservacao-de-substancias.txt
+  53-014-organizar-uma-farmacopeia-de-referencia.txt
+  53-015-consultar-uma-farmacopeia-oficial.txt
+  53-016-funcionavam-as-antigas-boticas.txt
+  53-017-eram-preparados-medicamentos-antes-da-industria.txt
+  53-018-identificar-riscos-de-preparacoes-medicinais.txt
+  53-019-compreender-a-producao-industrial-de-comprimidos.txt
+  53-020-compreender-a-producao-industrial-de-solucoes.txt
+  53-021-compreender-a-producao-de-pomadas-farmaceuticas.txt
+  53-022-compreender-a-producao-de-capsulas.txt
+  53-023-compreender-controle-de-qualidade-farmaceutico.txt
+  53-024-preservar-substancias-farmaceuticas-sensiveis.txt
+  53-025-identificar-falsificacao-de-medicamentos.txt
+  53-026-organizar-um-formulario-terapeutico.txt
+  53-027-compreender-a-historia-dos-antibioticos.txt
+  53-028-compreender-a-historia-das-vacinas.txt
+  53-029-compreender-a-descoberta-da-penicilina.txt
+  53-030-consultar-referencias-de-medicamentos.txt
+
+======================================================================
+54. 54-fitoterapia/
+======================================================================
+  54-001-historia-da-medicina-tradicional-brasileira.txt
+  54-002-historia-da-fitoterapia-em-diferentes.txt
+  54-003-construir-um-herbario-medicinal.txt
+  54-004-catalogar-plantas-utilizadas-tradicionalmente.txt
+  54-005-identificar-especies-medicinais-por.txt
+  54-006-identificar-especies-confundidas-com-plantas.txt
+  54-007-compreender-principios-ativos-vegetais.txt
+  54-008-compreender-alcaloides-vegetais.txt
+  54-009-compreender-flavonoides.txt
+  54-010-compreender-taninos.txt
+  54-011-compreender-oleos-essenciais.txt
+  54-012-compreender-saponinas.txt
+  54-013-compreender-compostos-fenolicos.txt
+  54-014-compreender-toxicidade-de-plantas-medicinais.txt
+  54-015-reconhecer-plantas-hepatotoxicas.txt
+  54-016-reconhecer-plantas-nefrotoxicas.txt
+  54-017-compreender-interacoes-entre-plantas.txt
+  54-018-preservar-plantas-medicinais-secas.txt
+  54-019-preparar-um-herbario-para-consulta-cientifica.txt
+  54-020-documentar-usos-tradicionais-de-plantas-sem.txt
+  54-021-reconhecer-plantas-com-potencial-irritante.txt
+  54-022-reconhecer-plantas-que-causam-fotossensibilidade.txt
+  54-023-compreender-a-diferenca-entre-extratos-infusoes.txt
+  54-024-identificar-riscos-de-oleos-essenciais.txt
+  54-025-pesquisar-evidencias-cientificas-sobre-plantas.txt
+
+======================================================================
+55. 55-abelhas-e-insetos/
+======================================================================
+  55-001-fundamentos-de-entomologia.txt
+  55-002-identificar-insetos-polinizadores.txt
+  55-003-identificar-insetos-decompositores.txt
+  55-004-identificar-insetos-predadores-de-pragas.txt
+  55-005-identificar-insetos-transmissores-de-doencas.txt
+  55-006-construir-hoteis-para-insetos-beneficos.txt
+  55-007-criar-abelhas-sem-ferrao.txt
+  55-008-criar-abelhas-apis-mellifera.txt
+  55-009-construir-caixas-para-abelhas-sem-ferrao.txt
+  55-010-realizar-manejo-basico-de-colmeias.txt
+  55-011-colher-mel-com-higiene.txt
+  55-012-extrair-cera-de-abelha.txt
+  55-013-produzir-velas-com-cera-de-abelha.txt
+  55-014-produzir-propolis-e-armazena-la.txt
+  55-015-criar-minhocas-para-compostagem.txt
+  55-016-criar-mosca-soldado-negra-para-reciclagem.txt
+  55-017-utilizar-insetos-como-fonte-de-proteina.txt
+  55-018-utilizar-composteira-para-reciclagem.txt
+  55-019-manejar-formigas-cortadeiras-em-horta.txt
+  55-020-manejar-cupins-em-estruturas-rurais.txt
+  55-021-manejar-brocas-de-madeira-em-moveis.txt
+  55-022-preservar-madeira-contra-ataque-de-insetos.txt
+  55-023-criar-bicho-da-seda.txt
+  55-024-produzir-seda-artesanal.txt
+  55-025-criar-insetos-para-alimentacao-animal.txt
+
+======================================================================
+56. 56-genetica-e-melhoramento/
+======================================================================
+  56-001-fundamentos-de-genetica.txt
+  56-002-compreender-hereditariedade.txt
+  56-003-compreender-dominancia-genetica.txt
+  56-004-compreender-recessividade-genetica.txt
+  56-005-compreender-mutacoes.txt
+  56-006-compreender-selecao-natural.txt
+  56-007-realizar-selecao-de-sementes.txt
+  56-008-realizar-melhoramento-genetico-convencional.txt
+  56-009-selecionar-plantas-resistentes-a-seca.txt
+  56-010-selecionar-plantas-resistentes-a-doencas.txt
+  56-011-preservar-diversidade-genetica-agricola.txt
+  56-012-evitar-cruzamentos-indesejados-em-hortas.txt
+  56-013-produzir-variedades-adaptadas-ao-clima-local.txt
+  56-014-realizar-selecao-de-animais-para-reproducao.txt
+  56-015-evitar-consanguinidade-em-rebanhos.txt
+  56-016-manter-registros-genealogicos-de-animais.txt
+  56-017-compreender-ciclos-reprodutivos-de-animais.txt
+  56-018-compreender-polinizacao-controlada.txt
+  56-019-realizar-conservacao-de-sementes-de-especies.txt
+  56-020-estabelecer-um-programa-comunitario.txt
+
+======================================================================
+57. 57-climatizacao-e-conforto/
+======================================================================
+  57-001-compreender-psicrometria.txt
+  57-002-medir-umidade-relativa-do-ar.txt
+  57-003-construir-um-higrometro-simples.txt
+  57-004-compreender-o-ponto-de-orvalho.txt
+  57-005-evitar-condensacao-dentro-de-habitacoes.txt
+  57-006-controlar-umidade-em-depositos.txt
+  57-007-construir-um-desumidificador-passivo.txt
+  57-008-construir-um-sistema-de-ventilacao-cruzada.txt
+  57-009-construir-uma-torre-de-vento.txt
+  57-010-construir-uma-chamine-solar.txt
+  57-011-construir-um-sistema-de-resfriamento-evaporativo.txt
+  57-012-construir-um-sistema-de-ventilacao-subterranea.txt
+  57-013-utilizar-massa-termica-para-estabilizar-temperatura.txt
+  57-014-construir-paredes-de-alta-inercia-termica.txt
+  57-015-construir-telhados-verdes-para-isolamento.txt
+  57-016-construir-um-sistema-de-aquecimento-solar-passivo.txt
+  57-017-construir-um-coletor-solar-de-ar.txt
+  57-018-construir-um-aquecedor-solar-de-agua.txt
+  57-019-identificar-perdas-termicas-em-construcoes.txt
+  57-020-dimensionar-ventilacao-para-ambientes-coletivos.txt
+
+======================================================================
+58. 58-prevencao-e-combate-a-incendios/
+======================================================================
+  58-001-fundamentos-de-combustao.txt
+  58-002-compreender-o-triangulo-do-fogo.txt
+  58-003-identificar-classes-de-incendio.txt
+  58-004-escolher-extintores-para-diferentes-incendios.txt
+  58-005-utilizar-extintores-portateis.txt
+  58-006-construir-uma-rota-de-fuga-contra-incendio.txt
+  58-007-realizar-evacuacao-de-edificios-em-chamas.txt
+  58-008-construir-barreiras-contra-propagacao.txt
+  58-009-identificar-riscos-de-incendio-em-instalacoes.txt
+  58-010-prevenir-incendios-em-sistemas-solares.txt
+  58-011-prevenir-incendios-em-depositos-de-combustiveis.txt
+  58-012-prevenir-incendios-em-cozinhas-improvisadas.txt
+  58-013-reconhecer-fumaca-toxica.txt
+  58-014-se-proteger-da-inalacao-de-fumaca.txt
+  58-015-utilizar-cobertores-antichamas.txt
+  58-016-realizar-primeiros-socorros-apos-inalacao.txt
+  58-017-organizar-brigadas-comunitarias-de-incendio.txt
+  58-018-criar-aceiros-em-propriedades-rurais.txt
+  58-019-proteger-construcoes-contra-incendios-florestais.txt
+  58-020-organizar-vigilancia-contra-incendios.txt
+
+======================================================================
+59. 59-seguranca-industrial/
+======================================================================
+  59-001-fundamentos-de-seguranca-do-trabalho.txt
+  59-002-identificar-riscos-fisicos-em-oficinas.txt
+  59-003-identificar-riscos-quimicos-em-oficinas.txt
+  59-004-identificar-riscos-biologicos.txt
+  59-005-identificar-riscos-ergonomicos.txt
+  59-006-utilizar-equipamentos-de-protecao-individual.txt
+  59-007-escolher-protecao-ocular.txt
+  59-008-escolher-protecao-respiratoria.txt
+  59-009-escolher-luvas-para-diferentes-atividades.txt
+  59-010-escolher-protecao-auditiva.txt
+  59-011-organizar-uma-oficina-segura.txt
+  59-012-armazenar-cilindros-de-gases-comprimidos.txt
+  59-013-reconhecer-riscos-de-espacos-confinados.txt
+  59-014-trabalhar-em-alturas-com-seguranca.txt
+  59-015-utilizar-ferramentas-eletricas-com-seguranca.txt
+  59-016-prevenir-acidentes-com-maquinas-rotativas.txt
+  59-017-prevenir-amputacoes-e-esmagamentos.txt
+  59-018-realizar-bloqueio-e-etiquetagem-de-equipamentos.txt
+  59-019-organizar-inspecoes-periodicas-de-seguranca.txt
+  59-020-documentar-acidentes-de-trabalho.txt
+  59-021-realizar-analise-preliminar-de-riscos.txt
+  59-022-organizar-um-sistema-comunitario-de-prevencao.txt
+  59-023-reconhecer-materiais-que-contem-amianto.txt
+  59-024-lidar-com-materiais-contendo-chumbo.txt
+  59-025-reconhecer-riscos-associados-ao-mercurio.txt
+
+======================================================================
+60. 60-arquitetura-e-urbanismo/
+======================================================================
+  60-001-fundamentos-de-urbanismo.txt
+  60-002-planejar-uma-comunidade-autossuficiente.txt
+  60-003-escolher-terrenos-para-assentamentos-permanentes.txt
+  60-004-organizar-areas-residenciais.txt
+  60-005-organizar-areas-agricolas.txt
+  60-006-planejar-ruas-e-caminhos-comunitarios.txt
+  60-007-planejar-sistemas-de-drenagem-urbana.txt
+  60-008-planejar-abastecimento-de-agua-de-uma-comunidade.txt
+  60-009-planejar-saneamento-para-pequenos-assentamentos.txt
+  60-010-planejar-espacos-publicos-comunitarios.txt
+  60-011-planejar-depositos-coletivos.txt
+  60-012-planejar-cozinhas-comunitarias.txt
+  60-013-planejar-centros-de-saude-comunitarios.txt
+  60-014-planejar-escolas-em-comunidades-isoladas.txt
+  60-015-planejar-oficinas-de-manutencao.txt
+  60-016-planejar-areas-de-producao-artesanal.txt
+  60-017-planejar-sistemas-de-transporte-interno.txt
+  60-018-organizar-areas-de-descarte-e-reciclagem.txt
+  60-019-planejar-protecao-contra-enchentes.txt
+  60-020-planejar-protecao-contra-incendios.txt
+  60-021-construir-habitacoes-bioclimaticas.txt
+  60-022-construir-assentamentos-em-regioes-tropicais.txt
+  60-023-construir-assentamentos-em-regioes-frias.txt
+  60-024-planejar-crescimento-populacional-de-uma.txt
+  60-025-planejar-a-expansao-de-infraestrutura.txt
+
+======================================================================
+61. 61-floresta-e-manejo/
+======================================================================
+  61-001-fundamentos-de-silvicultura.txt
+  61-002-identificar-especies-arboreas-de-interesse.txt
+  61-003-produzir-mudas-florestais.txt
+  61-004-construir-um-viveiro-de-arvores.txt
+  61-005-plantar-arvores-para-producao-de-madeira.txt
+  61-006-realizar-manejo-sustentavel-de-florestas.txt
+  61-007-realizar-poda-de-arvores.txt
+  61-008-realizar-desbaste-florestal.txt
+  61-009-realizar-inventario-florestal.txt
+  61-010-calcular-volume-de-madeira-em-arvores.txt
+  61-011-secar-madeira-corretamente.txt
+  61-012-armazenar-madeira-por-longos-periodos.txt
+  61-013-construir-uma-serraria-manual.txt
+  61-014-transformar-troncos-em-tabuas.txt
+  61-015-produzir-carvao-vegetal-a-partir-de-residuos.txt
+  61-016-recuperar-areas-florestais-degradadas.txt
+  61-017-produzir-biomassa-florestal.txt
+  61-018-utilizar-bambu-como-material-estrutural.txt
+  61-019-realizar-manejo-sustentavel-de-bambuzais.txt
+  61-020-produzir-madeira-de-reflorestamento.txt
+
+======================================================================
+62. 62-pecuaria-e-processamento/
+======================================================================
+  62-001-fundamentos-de-zootecnia.txt
+  62-002-planejar-uma-pequena-criacao-de-bovinos.txt
+  62-003-planejar-uma-pequena-criacao-de-caprinos.txt
+  62-004-planejar-uma-pequena-criacao-de-ovinos.txt
+  62-005-planejar-uma-criacao-de-suinos.txt
+  62-006-planejar-uma-criacao-de-aves.txt
+  62-007-construir-cercas-rurais.txt
+  62-008-construir-currais.txt
+  62-009-construir-apriscos.txt
+  62-010-construir-estabulos.txt
+  62-011-organizar-pastagens-rotacionadas.txt
+  62-012-recuperar-pastagens-degradadas.txt
+  62-013-realizar-manejo-de-pastagens-em-periodos-de-seca.txt
+  62-014-produzir-suplementos-minerais-para-rebanhos.txt
+  62-015-realizar-ordenha-higienica.txt
+  62-016-armazenar-leite-cru-com-seguranca.txt
+  62-017-realizar-pasteurizacao-de-leite.txt
+  62-018-produzir-derivados-lacteos.txt
+  62-019-reconhecer-mastite-em-animais.txt
+  62-020-reconhecer-problemas-reprodutivos-em-rebanhos.txt
+  62-021-organizar-registros-de-producao-animal.txt
+  62-022-avaliar-condicao-corporal-de-animais.txt
+  62-023-realizar-manejo-de-esterco.txt
+  62-024-planejar-abate-sanitario-em-instalacoes.txt
+  62-025-realizar-inspecao-sanitaria-de-produtos.txt
+
+======================================================================
+63. 63-microbiologia-e-contaminacao/
+======================================================================
+  63-001-historia-da-descoberta-dos-microrganismos.txt
+  63-002-compreender-a-estrutura-das-bacterias.txt
+  63-003-compreender-a-estrutura-dos-virus.txt
+  63-004-compreender-a-estrutura-dos-fungos.txt
+  63-005-compreender-protozoarios.txt
+  63-006-compreender-helmintos-parasitas.txt
+  63-007-diferenciar-bacterias-virus-e-fungos.txt
+  63-008-ocorre-a-transmissao-de-doencas-infecciosas.txt
+  63-009-compreender-ciclos-de-transmissao-de-parasitas.txt
+  63-010-identificar-reservatorios-naturais-de-patogenos.txt
+  63-011-compreender-a-resistencia-de-microrganismos-no.txt
+  63-012-compreender-a-formacao-de-biofilmes.txt
+  63-013-identificar-riscos-de-contaminacao-em-alimentos.txt
+  63-014-identificar-riscos-de-contaminacao-em-agua.txt
+  63-015-realizar-coleta-segura-de-amostras-ambientais.txt
+  63-016-compreender-metodos-de-esterilizacao.txt
+  63-017-compreender-metodos-de-desinfeccao.txt
+  63-018-compreender-metodos-de-antissepsia.txt
+  63-019-utilizar-indicadores-biologicos-de-esterilizacao.txt
+  63-020-compreender-contaminacao-cruzada.txt
+  63-021-organizar-uma-area-limpa-e-uma-area-contaminada.txt
+  63-022-realizar-limpeza-terminal-de-ambientes.txt
+  63-023-organizar-isolamento-sanitario-domestico.txt
+  63-024-reconhecer-infeccoes-emergentes.txt
+  63-025-interpretar-boletins-epidemiologicos.txt
+
+======================================================================
+64. 64-laboratorio-e-diagnostico/
+======================================================================
+  64-001-montar-um-laboratorio-basico-de-analises.txt
+  64-002-organizar-um-laboratorio-de-microbiologia.txt
+  64-003-utilizar-microscopios-opticos.txt
+  64-004-preparar-laminas-para-microscopia.txt
+  64-005-preparar-solucoes-de-laboratorio.txt
+  64-006-utilizar-pipetas-e-provetas.txt
+  64-007-calibrar-instrumentos-de-medicao.txt
+  64-008-realizar-medicoes-de-massa-e-volume.txt
+  64-009-utilizar-uma-balanca-de-precisao.txt
+  64-010-construir-uma-centrifuga-manual-segura.txt
+  64-011-compreender-exames-de-sangue-basicos.txt
+  64-012-compreender-hemograma.txt
+  64-013-compreender-glicemia.txt
+  64-014-compreender-exames-de-urina.txt
+  64-015-compreender-testes-de-gravidez.txt
+  64-016-compreender-testes-rapidos-de-doencas.txt
+  64-017-interpretar-resultados-laboratoriais.txt
+  64-018-coletar-amostras-biologicas-com-seguranca.txt
+  64-019-organizar-registros-de-exames-de-pacientes.txt
+  64-020-reconhecer-limitacoes-de-testes-diagnosticos.txt
+  64-021-compreender-controle-de-qualidade-laboratorial.txt
+  64-022-realizar-testes-simples-de-qualidade-da-agua.txt
+  64-023-realizar-analises-basicas-de-solo.txt
+  64-024-montar-um-laboratorio-escolar-com-recursos.txt
+
+======================================================================
+65. 65-materiais-e-polimeros/
+======================================================================
+  65-001-fundamentos-de-ciencia-dos-materiais.txt
+  65-002-compreender-propriedades-mecanicas-dos-materiais.txt
+  65-003-compreender-fadiga-de-materiais.txt
+  65-004-compreender-fratura-de-materiais.txt
+  65-005-compreender-resistencia-a-tracao.txt
+  65-006-compreender-resistencia-a-compressao.txt
+  65-007-compreender-dureza-dos-materiais.txt
+  65-008-compreender-tenacidade.txt
+  65-009-compreender-materiais-compositos.txt
+  65-010-compreender-materiais-polimericos.txt
+  65-011-identificar-termoplasticos.txt
+  65-012-identificar-termofixos.txt
+  65-013-compreender-elastomeros.txt
+  65-014-compreender-degradacao-de-plasticos.txt
+  65-015-reaproveitar-polimeros-sem-gerar-exposicao.txt
+  65-016-fabricar-pecas-por-moldagem-artesanal.txt
+  65-017-fabricar-pecas-por-compressao.txt
+  65-018-produzir-compositos-com-fibras-naturais.txt
+  65-019-produzir-paineis-com-residuos-agricolas.txt
+  65-020-testar-resistencia-de-materiais-artesanais.txt
+  65-021-selecionar-materiais-para-ferramentas.txt
+  65-022-selecionar-materiais-para-reservatorios-de-agua.txt
+  65-023-selecionar-materiais-para-armazenamento.txt
+  65-024-selecionar-materiais-resistentes-a-corrosao.txt
+  65-025-realizar-ensaios-comparativos-de-durabilidade.txt
+
+======================================================================
+66. 66-mecanica-de-precisao/
+======================================================================
+  66-001-fundamentos-de-mecanica-de-precisao.txt
+  66-002-compreender-tolerancias-dimensionais.txt
+  66-003-realizar-medicoes-com-paquimetro.txt
+  66-004-realizar-medicoes-com-micrometro.txt
+  66-005-utilizar-relogios-comparadores.txt
+  66-006-fabricar-instrumentos-de-medicao-simples.txt
+  66-007-construir-um-torno-mecanico-manual.txt
+  66-008-construir-uma-fresadora-artesanal.txt
+  66-009-construir-uma-furadeira-de-bancada.txt
+  66-010-construir-um-mecanismo-de-relogio.txt
+  66-011-reparar-relogios-mecanicos.txt
+  66-012-fabricar-engrenagens-de-precisao.txt
+  66-013-fabricar-roscas-manualmente.txt
+  66-014-fabricar-parafusos.txt
+  66-015-fabricar-porcas.txt
+  66-016-fabricar-molas-metalicas.txt
+  66-017-fabricar-dobradicas.txt
+  66-018-fabricar-fechaduras-mecanicas.txt
+  66-019-reparar-fechaduras.txt
+  66-020-construir-instrumentos-mecanicos-de-medicao.txt
+
+======================================================================
+67. 67-robotica-e-automacao/
+======================================================================
+  67-001-fundamentos-de-automacao-industrial.txt
+  67-002-compreender-sistemas-de-controle.txt
+  67-003-construir-um-sistema-de-controle-mecanico.txt
+  67-004-construir-mecanismos-automaticos-utilizando.txt
+  67-005-utilizar-boias-para-controle-automatico-de-nivel.txt
+  67-006-construir-valvulas-mecanicas-automaticas.txt
+  67-007-construir-um-regulador-mecanico-de-velocidade.txt
+  67-008-construir-um-regulador-centrifugo.txt
+  67-009-utilizar-reles-eletromecanicos.txt
+  67-010-construir-circuitos-de-controle-simples.txt
+  67-011-construir-sensores-de-temperatura.txt
+  67-012-construir-sensores-de-nivel-de-agua.txt
+  67-013-construir-sensores-de-pressao.txt
+  67-014-construir-sensores-de-umidade.txt
+  67-015-construir-sistemas-de-alarme-autonomos.txt
+  67-016-construir-sistemas-de-irrigacao-automatizados.txt
+  67-017-construir-mecanismos-de-alimentacao-automatica.txt
+  67-018-construir-temporizadores-mecanicos.txt
+  67-019-utilizar-controladores-logicos-programaveis.txt
+  67-020-automatizar-pequenos-processos-agricolas.txt
+
+======================================================================
+68. 68-radiofrequencia/
+======================================================================
+  68-001-fundamentos-de-ondas-eletromagneticas.txt
+  68-002-compreender-frequencia-e-comprimento-de-onda.txt
+  68-003-compreender-modulacao-de-amplitude.txt
+  68-004-compreender-modulacao-de-frequencia.txt
+  68-005-compreender-modulacao-digital.txt
+  68-006-compreender-propagacao-de-radio.txt
+  68-007-compreender-propagacao-ionosferica.txt
+  68-008-compreender-propagacao-por-linha-de-visada.txt
+  68-009-calcular-o-alcance-teorico-de-uma-antena.txt
+  68-010-construir-uma-antena-vertical.txt
+  68-011-construir-uma-antena-yagi.txt
+  68-012-construir-uma-antena-de-quadro.txt
+  68-013-construir-uma-antena-de-fio-longo.txt
+  68-014-construir-uma-antena-de-emergencia.txt
+  68-015-construir-uma-estacao-receptora-de-radio.txt
+  68-016-utilizar-receptores-de-ondas-curtas.txt
+  68-017-compreender-bandas-de-frequencia.txt
+  68-018-compreender-interferencia-eletromagnetica.txt
+  68-019-reduzir-ruidos-em-receptores-de-radio.txt
+  68-020-construir-filtros-eletronicos-simples.txt
+  68-021-compreender-comunicacao-digital-por-radio.txt
+  68-022-transmitir-dados-por-radiofrequencia-dentro.txt
+  68-023-construir-uma-rede-de-comunicacao-local.txt
+  68-024-compreender-comunicacao-via-satelite.txt
+  68-025-preservar-equipamentos-de-telecomunicacoes.txt
+
+======================================================================
+69. 69-eletronica-analogica/
+======================================================================
+  69-001-fundamentos-de-eletronica-analogica.txt
+  69-002-compreender-resistores.txt
+  69-003-compreender-capacitores.txt
+  69-004-compreender-indutores.txt
+  69-005-compreender-diodos.txt
+  69-006-compreender-transistores-bipolares.txt
+  69-007-compreender-transistores-mosfet.txt
+  69-008-compreender-amplificadores-operacionais.txt
+  69-009-compreender-circuitos-integrados.txt
+  69-010-compreender-circuitos-retificadores.txt
+  69-011-construir-uma-fonte-linear.txt
+  69-012-construir-um-regulador-de-tensao.txt
+  69-013-construir-um-oscilador-eletronico.txt
+  69-014-construir-um-amplificador-de-audio.txt
+  69-015-construir-um-pre-amplificador.txt
+  69-016-construir-um-carregador-de-baterias.txt
+  69-017-construir-um-indicador-de-carga-de-bateria.txt
+  69-018-construir-um-detector-de-tensao.txt
+  69-019-construir-um-circuito-de-protecao-eletrica.txt
+  69-020-diagnosticar-circuitos-eletronicos.txt
+  69-021-identificar-componentes-queimados.txt
+  69-022-recuperar-equipamentos-eletronicos-antigos.txt
+  69-023-reaproveitar-componentes-de-sucata-eletronica.txt
+  69-024-consultar-datasheets-sem-internet.txt
+  69-025-construir-um-estoque-de-componentes-eletronicos.txt
+
+======================================================================
+70. 70-computacao-e-preservacao-digital/
+======================================================================
+  70-001-construir-um-computador-de-baixo-consumo.txt
+  70-002-utilizar-computadores-de-placa-unica-offline.txt
+  70-003-utilizar-raspberry-pi-sem-internet.txt
+  70-004-construir-um-servidor-de-arquivos-de-baixo.txt
+  70-005-construir-um-servidor-de-documentacao-offline.txt
+  70-006-montar-uma-intranet-comunitaria.txt
+  70-007-configurar-um-servidor-web-local.txt
+  70-008-criar-um-sistema-de-busca-de-documentos.txt
+  70-009-criar-um-catalogo-de-conhecimento-com-sqlite.txt
+  70-010-armazenar-documentacao-tecnica-em-bancos.txt
+  70-011-criar-um-sistema-de-versionamento-de-documentos.txt
+  70-012-utilizar-git-sem-internet.txt
+  70-013-preservar-codigos-fonte-por-decadas.txt
+  70-014-armazenar-pacotes-de-software-para-instalacao.txt
+  70-015-construir-um-repositorio-local-de-pacotes-linux.txt
+  70-016-utilizar-manuais-e-paginas-de-documentacao.txt
+  70-017-configurar-um-ambiente-de-programacao-sem.txt
+  70-018-executar-modelos-de-inteligencia-artificial.txt
+  70-019-preparar-modelos-de-ia-para-uso-completamente.txt
+  70-020-preservar-modelos-de-linguagem-e-seus-arquivos.txt
+  70-021-criar-uma-biblioteca-de-dados-cientificos.txt
+  70-022-armazenar-dicionarios-e-tradutores-offline.txt
+  70-023-preservar-enciclopedias-multilingues.txt
+  70-024-construir-uma-estacao-de-trabalho-de-baixo.txt
+  70-025-administrar-energia-em-uma-infraestrutura.txt
+  70-026-identificar-corrupcao-silenciosa-de-dados.txt
+  70-027-realizar-verificacoes-periodicas-de-integridade.txt
+  70-028-migrar-dados-entre-geracoes-de-armazenamento.txt
+  70-029-preservar-arquivos-sem-depender-de-formatos.txt
+  70-030-organizar-um-arquivo-digital-para-sobrevivencia.txt
+
+======================================================================
+71. 71-criptografia-e-privacidade/
+======================================================================
+  71-001-fundamentos-de-criptografia.txt
+  71-002-funciona-a-criptografia-simetrica.txt
+  71-003-funciona-a-criptografia-assimetrica.txt
+  71-004-funcionam-funcoes-de-hash.txt
+  71-005-verificar-autenticidade-de-documentos-digitais.txt
+  71-006-proteger-arquivos-armazenados-em-hds.txt
+  71-007-criptografar-backups-locais.txt
+  71-008-criar-senhas-fortes-sem-gerenciadores-online.txt
+  71-009-armazenar-senhas-de-emergencia-com-seguranca.txt
+  71-010-criar-copias-fisicas-de-chaves-criptograficas.txt
+  71-011-preservar-chaves-de-recuperacao.txt
+  71-012-proteger-dispositivos-contra-acesso-nao.txt
+  71-013-identificar-arquivos-maliciosos.txt
+  71-014-reconhecer-tentativas-de-fraude-digital.txt
+  71-015-realizar-analise-basica-de-arquivos-suspeitos.txt
+  71-016-proteger-redes-locais.txt
+  71-017-configurar-permissoes-de-arquivos-linux.txt
+  71-018-preservar-a-privacidade-em-dispositivos.txt
+  71-019-criar-um-procedimento-de-recuperacao-digital.txt
+  71-020-manter-um-arquivo-de-informacoes-criticas.txt
+
+======================================================================
+72. 72-iluminacao/
+======================================================================
+  72-001-construir-uma-lanterna-de-dinamo.txt
+  72-002-construir-uma-luminaria-solar.txt
+  72-003-construir-uma-luminaria-de-led-de-baixo-consumo.txt
+  72-004-construir-um-sistema-de-iluminacao-centralizado.txt
+  72-005-distribuir-iluminacao-em-uma-habitacao-sem-rede.txt
+  72-006-construir-refletores-solares.txt
+  72-007-utilizar-espelhos-para-direcionar-luz-natural.txt
+  72-008-construir-tubos-solares-de-iluminacao.txt
+  72-009-fabricar-velas-de-sebo.txt
+  72-010-fabricar-velas-de-cera-vegetal.txt
+  72-011-produzir-pavios-de-algodao.txt
+  72-012-utilizar-lamparinas-tradicionais-com-seguranca.txt
+  72-013-melhorar-a-eficiencia-de-iluminacao-por.txt
+  72-014-evitar-intoxicacao-por-combustao-em-ambientes.txt
+  72-015-construir-iluminacao-de-emergencia-comunitaria.txt
+
+======================================================================
+73. 73-armazenamento-de-produtos/
+======================================================================
+  73-001-armazenar-sementes-em-ambientes-tropicais.txt
+  73-002-preservar-ferramentas-de-madeira.txt
+  73-003-preservar-ferramentas-metalicas.txt
+  73-004-armazenar-borracha-por-longos-periodos.txt
+  73-005-preservar-couro.txt
+  73-006-preservar-tecidos-naturais.txt
+  73-007-armazenar-medicamentos-em-diferentes-condicoes.txt
+  73-008-armazenar-produtos-de-limpeza-com-seguranca.txt
+  73-009-armazenar-combustiveis-sem-riscos-de-incendio.txt
+  73-010-preservar-papel-contra-insetos.txt
+  73-011-preservar-papel-contra-fungos.txt
+  73-012-proteger-documentos-contra-enchentes.txt
+  73-013-proteger-arquivos-digitais-contra-umidade.txt
+  73-014-construir-depositos-resistentes-a-roedores.txt
+  73-015-construir-depositos-subterraneos.txt
+  73-016-construir-armarios-de-conservacao.txt
+  73-017-criar-etiquetas-e-sistemas-de-rastreabilidade.txt
+  73-018-determinar-a-vida-util-de-materiais-armazenados.txt
+  73-019-organizar-inspecoes-periodicas-de-estoques.txt
+
+======================================================================
+74. 74-reciclagem-e-reaproveitamento/
+======================================================================
+  74-001-fundamentos-de-economia-circular.txt
+  74-002-organizar-um-centro-comunitario-de-reciclagem.txt
+  74-003-separar-residuos-por-tipo-de-material.txt
+  74-004-reaproveitar-madeira-descartada.txt
+  74-005-reaproveitar-metais-descartados.txt
+  74-006-reaproveitar-vidro.txt
+  74-007-reaproveitar-tecidos.txt
+  74-008-reaproveitar-couro.txt
+  74-009-reaproveitar-embalagens.txt
+  74-010-recuperar-ferramentas-descartadas.txt
+  74-011-recuperar-equipamentos-domesticos.txt
+  74-012-reaproveitar-motores-eletricos.txt
+  74-013-reaproveitar-transformadores.txt
+  74-014-recuperar-componentes-eletronicos.txt
+  74-015-reaproveitar-materiais-de-construcao.txt
+  74-016-transformar-residuos-agricolas-em-materiais.txt
+  74-017-produzir-composto-a-partir-de-residuos-organicos.txt
+  74-018-produzir-biogas-a-partir-de-residuos-organicos.txt
+  74-019-construir-uma-oficina-de-reparacao-comunitaria.txt
+  74-020-estabelecer-uma-cultura-de-reparacao-em-vez.txt
+
+======================================================================
+75. 75-tecnologias-tropicais/
+======================================================================
+  75-001-construir-habitacoes-adaptadas-ao-clima-tropical.txt
+  75-002-construir-telhados-adequados-a-chuvas-intensas.txt
+  75-003-construir-sistemas-de-ventilacao-para-calor.txt
+  75-004-proteger-construcoes-contra-cupins.txt
+  75-005-proteger-alimentos-contra-umidade-tropical.txt
+  75-006-conservar-sementes-em-clima-quente.txt
+  75-007-realizar-cultivo-durante-chuvas-intensas.txt
+  75-008-realizar-cultivo-durante-periodos-de-calor.txt
+  75-009-construir-cisternas-para-regioes-tropicais.txt
+  75-010-captar-agua-de-chuva-em-grande-escala.txt
+  75-011-construir-sistemas-de-drenagem-para-chuvas.txt
+  75-012-controlar-fungos-em-habitacoes-tropicais.txt
+  75-013-prevenir-doencas-tropicais-transmitidas-por.txt
+  75-014-organizar-armazenamento-de-alimentos-em-regioes.txt
+  75-015-escolher-materiais-de-construcao-resistentes.txt
+  75-016-utilizar-bambu-em-construcoes-tropicais.txt
+  75-017-produzir-alimentos-adaptados-ao-clima-tropical.txt
+  75-018-construir-abrigos-contra-calor-e-chuvas.txt
+  75-019-planejar-uma-propriedade-autossuficiente.txt
+  75-020-aproveitar-recursos-naturais-de-biomas.txt
+
+======================================================================
+76. 76-biomas-brasileiros/
+======================================================================
+  76-001-sobreviver-e-viver-na-mata-atlantica.txt
+  76-002-utilizar-recursos-naturais-da-mata-atlantica.txt
+  76-003-produzir-alimentos-em-regioes-de-mata-atlantica.txt
+  76-004-identificar-especies-uteis-da-mata-atlantica.txt
+  76-005-sobreviver-e-viver-na-amazonia.txt
+  76-006-identificar-recursos-alimentares-amazonicos.txt
+  76-007-identificar-riscos-biologicos-na-amazonia.txt
+  76-008-produzir-alimentos-em-areas-amazonicas.txt
+  76-009-utilizar-recursos-vegetais-amazonicos.txt
+  76-010-sobreviver-e-viver-no-cerrado.txt
+  76-011-identificar-plantas-uteis-do-cerrado.txt
+  76-012-produzir-alimentos-em-regioes-de-cerrado.txt
+  76-013-lidar-com-secas-no-cerrado.txt
+  76-014-sobreviver-e-viver-na-caatinga.txt
+  76-015-identificar-plantas-alimenticias-da-caatinga.txt
+  76-016-obter-agua-em-ambientes-de-caatinga.txt
+  76-017-produzir-alimentos-em-regioes-semiaridas.txt
+  76-018-construir-cisternas-adaptadas-ao-semiarido.txt
+  76-019-sobreviver-e-viver-no-pantanal.txt
+  76-020-lidar-com-periodos-de-cheia-no-pantanal.txt
+  76-021-identificar-riscos-com-animais-no-pantanal.txt
+  76-022-sobreviver-e-viver-nos-pampas.txt
+  76-023-produzir-alimentos-nos-pampas.txt
+  76-024-identificar-especies-vegetais-dos-pampas.txt
+  76-025-planejar-uma-propriedade-rural-adaptada-aos.txt
+
+======================================================================
+77. 77-comunicacao-sem-eletricidade/
+======================================================================
+  77-001-construir-um-sistema-de-comunicacao-por.txt
+  77-002-organizar-rotas-de-mensageiros-entre-comunidades.txt
+  77-003-construir-torres-de-sinalizacao.txt
+  77-004-utilizar-sinais-de-fumaca.txt
+  77-005-utilizar-espelhos-para-sinalizacao-a-distancia.txt
+  77-006-construir-um-sistema-de-semaforos-mecanicos.txt
+  77-007-construir-um-sistema-de-comunicacao-por.txt
+  77-008-utilizar-codigos-de-sinalizacao-maritima.txt
+  77-009-construir-um-sistema-de-comunicacao-por-sinos.txt
+  77-010-construir-um-sistema-de-alarmes-comunitarios.txt
+  77-011-estabelecer-codigos-de-emergencia-comunitarios.txt
+  77-012-organizar-uma-rede-de-comunicacao-por.txt
+  77-013-construir-um-sistema-de-tubos-acusticos.txt
+  77-014-transmitir-mensagens-utilizando-sinais-luminosos.txt
+  77-015-estabelecer-protocolos-de-comunicacao-entre.txt
+
+======================================================================
+78. 78-pontes-e-estradas/
+======================================================================
+  78-001-fundamentos-de-engenharia-rodoviaria.txt
+  78-002-construir-estradas-de-terra.txt
+  78-003-realizar-manutencao-de-estradas-de-terra.txt
+  78-004-construir-estradas-com-cascalho.txt
+  78-005-construir-caminhos-em-terrenos-alagadicos.txt
+  78-006-construir-sistemas-de-drenagem-rodoviaria.txt
+  78-007-construir-pontes-de-madeira.txt
+  78-008-construir-pontes-de-cordas.txt
+  78-009-construir-pontes-de-bambu.txt
+  78-010-construir-pontes-de-pedra.txt
+  78-011-construir-passagens-sobre-valas.txt
+  78-012-construir-bueiros.txt
+  78-013-construir-muros-de-contencao.txt
+  78-014-construir-gabioes.txt
+  78-015-construir-estruturas-de-contencao-de-encostas.txt
+  78-016-realizar-inspecao-de-pontes.txt
+  78-017-reconhecer-sinais-de-falha-estrutural-em-pontes.txt
+  78-018-recuperar-estradas-danificadas-por-enchentes.txt
+  78-019-construir-rampas-para-transporte-de-cargas.txt
+  78-020-organizar-manutencao-comunitaria-de-estradas.txt
+
+======================================================================
+79. 79-sobrevivencia-subterranea/
+======================================================================
+  79-001-identificar-cavernas-seguras-para-exploracao.txt
+  79-002-compreender-os-riscos-de-ambientes-subterraneos.txt
+  79-003-avaliar-ventilacao-em-espacos-subterraneos.txt
+  79-004-identificar-riscos-de-acumulo-de-gases.txt
+  79-005-compreender-circulacao-de-agua-em-cavernas.txt
+  79-006-construir-adegas-subterraneas.txt
+  79-007-construir-abrigos-parcialmente-enterrados.txt
+  79-008-impermeabilizar-construcoes-subterraneas.txt
+  79-009-realizar-drenagem-de-construcoes-subterraneas.txt
+  79-010-evitar-condensacao-em-ambientes-subterraneos.txt
+  79-011-controlar-mofo-em-ambientes-subterraneos.txt
+  79-012-organizar-armazenamento-subterraneo-de-alimentos.txt
+  79-013-avaliar-riscos-de-desabamento-subterraneo.txt
+  79-014-projetar-ventilacao-para-abrigos-subterraneos.txt
+
+======================================================================
+80. 80-combustiveis-e-lubrificantes/
+======================================================================
+  80-001-fundamentos-de-combustiveis-e-combustao.txt
+  80-002-compreender-o-funcionamento-dos-combustiveis.txt
+  80-003-compreender-o-funcionamento-dos-combustiveis.txt
+  80-004-produzir-briquetes-de-residuos-vegetais.txt
+  80-005-produzir-carvao-vegetal-em-fornos-eficientes.txt
+  80-006-produzir-etanol-por-fermentacao.txt
+  80-007-compreender-a-producao-de-biodiesel.txt
+  80-008-compreender-a-producao-de-biogas.txt
+  80-009-produzir-gas-de-sintese-e-compreender-seus.txt
+  80-010-compreender-a-gaseificacao-de-biomassa.txt
+  80-011-identificar-diferentes-tipos-de-combustiveis.txt
+  80-012-avaliar-qualidade-de-combustiveis.txt
+  80-013-armazenar-combustiveis-em-instalacoes.txt
+  80-014-compreender-combustiveis-utilizados-em-motores.txt
+  80-015-produzir-lubrificantes-de-origem-vegetal.txt
+  80-016-produzir-graxas-artesanais-para-aplicacoes.txt
+  80-017-selecionar-lubrificantes-para-maquinas.txt
+  80-018-realizar-manutencao-de-sistemas-de-combustivel.txt
+  80-019-compreender-degradacao-e-oxidacao.txt
+  80-020-desenvolver-alternativas-energeticas-a-partir.txt
+
+======================================================================
+81. 81-fornos-e-engenharia-termica/
+======================================================================
+  81-001-fundamentos-de-engenharia-termica.txt
+  81-002-construir-um-forno-de-alta-temperatura.txt
+  81-003-construir-um-forno-ceramico-a-lenha.txt
+  81-004-construir-um-forno-para-producao-de-cal.txt
+  81-005-construir-um-forno-para-producao-de-carvao.txt
+  81-006-construir-um-forno-metalurgico.txt
+  81-007-construir-um-forno-para-fabricacao-de-vidro.txt
+  81-008-construir-um-forno-para-tratamento-termico.txt
+  81-009-construir-um-forno-solar-concentrador.txt
+  81-010-construir-um-secador-termico-industrial.txt
+  81-011-construir-uma-estufa-de-secagem-de-madeira.txt
+  81-012-construir-um-sistema-de-recuperacao-de-calor.txt
+  81-013-construir-um-trocador-de-calor-artesanal.txt
+  81-014-compreender-combustao-eficiente-em-fornos.txt
+  81-015-compreender-isolamento-refratario.txt
+  81-016-identificar-materiais-adequados-para-altas.txt
+  81-017-medir-temperaturas-elevadas.txt
+  81-018-construir-um-pirometro-simples.txt
+  81-019-realizar-manutencao-de-fornos.txt
+  81-020-reduzir-consumo-energetico-em-processos-termicos.txt
+
+======================================================================
+82. 82-governanca-e-sociedades/
+======================================================================
+  82-001-fundamentos-de-organizacao-politica.txt
+  82-002-historia-dos-sistemas-de-governo.txt
+  82-003-organizar-uma-comunidade-autogerida.txt
+  82-004-estabelecer-regras-comunitarias.txt
+  82-005-criar-estatutos-comunitarios.txt
+  82-006-organizar-eleicoes-comunitarias.txt
+  82-007-estabelecer-mecanismos-de-representacao.txt
+  82-008-organizar-conselhos-comunitarios.txt
+  82-009-criar-mecanismos-de-prestacao-de-contas.txt
+  82-010-prevenir-concentracao-de-poder.txt
+  82-011-estabelecer-mecanismos-de-fiscalizacao.txt
+  82-012-organizar-mediacao-de-conflitos.txt
+  82-013-estabelecer-procedimentos-de-arbitragem.txt
+  82-014-criar-registros-de-decisoes-comunitarias.txt
+  82-015-organizar-propriedade-coletiva.txt
+  82-016-organizar-propriedade-privada-em-comunidades.txt
+  82-017-administrar-recursos-naturais-compartilhados.txt
+  82-018-estabelecer-regras-de-uso-da-agua.txt
+  82-019-organizar-distribuicao-de-terras.txt
+  82-020-estabelecer-mecanismos-de-protecao-de-direitos.txt
+  82-021-organizar-servicos-publicos-comunitarios.txt
+  82-022-criar-fundos-comunitarios.txt
+  82-023-organizar-sistemas-de-tributacao-comunitaria.txt
+  82-024-estabelecer-regras-de-comercio-entre-comunidades.txt
+  82-025-reconstruir-instituicoes-civis-apos-um-colapso.txt
+
+======================================================================
+83. 83-psicologia-social/
+======================================================================
+  83-001-fundamentos-de-psicologia-social.txt
+  83-002-compreender-o-comportamento-humano-em-crises.txt
+  83-003-compreender-o-comportamento-de-multidoes.txt
+  83-004-reconhecer-panico-coletivo.txt
+  83-005-prevenir-conflitos-durante-distribuicao.txt
+  83-006-compreender-formacao-de-grupos-sociais.txt
+  83-007-construir-confianca-entre-pessoas-desconhecidas.txt
+  83-008-estabelecer-normas-de-convivencia.txt
+  83-009-compreender-cooperacao-e-competicao.txt
+  83-010-lidar-com-disputas-por-recursos-escassos.txt
+  83-011-prevenir-exclusao-social-em-comunidades.txt
+  83-012-proteger-pessoas-vulneraveis-em-situacoes.txt
+  83-013-compreender-mecanismos-de-lideranca.txt
+  83-014-identificar-liderancas-abusivas.txt
+  83-015-organizar-processos-de-tomada-de-decisao.txt
+  83-016-compreender-o-impacto-psicologico-do-desemprego.txt
+  83-017-compreender-o-impacto-psicologico-do-isolamento.txt
+  83-018-compreender-traumas-coletivos.txt
+  83-019-apoiar-pessoas-apos-experiencias-traumaticas.txt
+  83-020-reconstruir-vinculos-sociais-apos-catastrofes.txt
+
+======================================================================
+84. 84-formacao-de-especialistas/
+======================================================================
+  84-001-criar-programas-de-formacao-tecnica-comunitaria.txt
+  84-002-formar-agricultores-sem-instituicoes-de-ensino.txt
+  84-003-formar-construtores.txt
+  84-004-formar-mecanicos.txt
+  84-005-formar-eletricistas.txt
+  84-006-formar-profissionais-de-saneamento.txt
+  84-007-formar-profissionais-de-saude-comunitaria.txt
+  84-008-formar-professores.txt
+  84-009-criar-sistemas-de-certificacao-comunitaria.txt
+  84-010-criar-manuais-de-treinamento-tecnico.txt
+  84-011-ensinar-conhecimentos-por-demonstracao-pratica.txt
+  84-012-organizar-aprendizagem-por-projetos.txt
+  84-013-construir-laboratorios-educacionais.txt
+  84-014-construir-oficinas-de-aprendizagem.txt
+  84-015-preservar-conhecimentos-especializados-escassos.txt
+  84-016-formar-sucessores-para-atividades-essenciais.txt
+  84-017-criar-programas-de-alfabetizacao-de-adultos.txt
+  84-018-organizar-educacao-cientifica-comunitaria.txt
+  84-019-organizar-educacao-tecnica-para-adolescentes.txt
+  84-020-desenvolver-uma-universidade-comunitaria.txt
+
+======================================================================
+85. 85-historia-economica/
+======================================================================
+  85-001-funcionava-a-economia-antes-da-revolucao.txt
+  85-002-ocorreu-a-revolucao-industrial.txt
+  85-003-funcionavam-as-primeiras-fabricas.txt
+  85-004-funcionavam-as-primeiras-maquinas-a-vapor.txt
+  85-005-ocorreu-a-eletrificacao-das-cidades.txt
+  85-006-surgiram-os-sistemas-modernos-de-abastecimento.txt
+  85-007-surgiram-os-sistemas-modernos-de-transporte.txt
+  85-008-funcionavam-as-economias-agricolas-tradicionais.txt
+  85-009-funcionavam-os-sistemas-comerciais-historicos.txt
+  85-010-funcionavam-as-antigas-rotas-comerciais.txt
+  85-011-surgiram-os-bancos-modernos.txt
+  85-012-funcionavam-os-sistemas-monetarios-historicos.txt
+  85-013-ocorreu-a-industrializacao-de-paises.txt
+  85-014-surgiram-as-cadeias-globais-de-producao.txt
+  85-015-reconstruir-uma-economia-industrial-em-pequena.txt
+
+======================================================================
+86. 86-materiais-vegetais/
+======================================================================
+  86-001-identificar-arvores-produtoras-de-resinas.txt
+  86-002-extrair-resinas-vegetais-de-forma-sustentavel.txt
+  86-003-produzir-breu.txt
+  86-004-produzir-terebintina-e-compreender-seus-riscos.txt
+  86-005-extrair-latex-de-seringueiras.txt
+  86-006-produzir-borracha-natural.txt
+  86-007-processar-fibras-vegetais.txt
+  86-008-extrair-oleos-de-plantas.txt
+  86-009-produzir-ceras-vegetais.txt
+  86-010-produzir-corantes-naturais.txt
+  86-011-produzir-taninos-vegetais.txt
+  86-012-extrair-fibras-para-fabricacao-de-papel.txt
+  86-013-produzir-materiais-isolantes-de-origem-vegetal.txt
+  86-014-produzir-adesivos-a-partir-de-recursos-naturais.txt
+  86-015-identificar-plantas-produtoras-de-seiva.txt
+  86-016-produzir-materiais-impermeabilizantes-naturais.txt
+  86-017-identificar-plantas-produtoras-de-madeira.txt
+  86-018-produzir-utensilios-a-partir-de-bambu.txt
+  86-019-produzir-recipientes-a-partir-de-cabacas.txt
+  86-020-mapear-recursos-vegetais-uteis-de-uma-regiao.txt
+
+======================================================================
+87. 87-energia-mecanica-e-hidraulica/
+======================================================================
+  87-001-construir-um-moinho-de-agua.txt
+  87-002-construir-um-moinho-de-vento.txt
+  87-003-construir-uma-roda-d-agua.txt
+  87-004-construir-um-sistema-de-transmissao-por-correias.txt
+  87-005-construir-uma-transmissao-por-engrenagens.txt
+  87-006-construir-um-sistema-de-bombeamento-por-roda-d.txt
+  87-007-construir-um-carneiro-hidraulico.txt
+  87-008-construir-um-elevador-mecanico-de-agua.txt
+  87-009-construir-um-sistema-de-moagem-movido-por.txt
+  87-010-construir-um-sistema-de-trituracao-movido-por.txt
+  87-011-construir-um-sistema-de-serragem-movido-por-agua.txt
+  87-012-utilizar-energia-eolica-em-tarefas-agricolas.txt
+  87-013-construir-um-sistema-mecanico-de-ventilacao.txt
+  87-014-construir-um-sistema-de-armazenamento.txt
+  87-015-realizar-manutencao-de-sistemas-hidraulicos.txt
+
+======================================================================
+88. 88-geografia-e-recursos/
+======================================================================
+  88-001-avaliar-a-capacidade-de-suporte-de-uma-regiao.txt
+  88-002-identificar-regioes-favoraveis-a-agricultura.txt
+  88-003-avaliar-disponibilidade-regional-de-agua.txt
+  88-004-avaliar-disponibilidade-regional-de-madeira.txt
+  88-005-avaliar-disponibilidade-regional-de-minerais.txt
+  88-006-avaliar-riscos-climaticos-regionais.txt
+  88-007-avaliar-riscos-de-isolamento-geografico.txt
+  88-008-avaliar-a-capacidade-de-producao-alimentar-local.txt
+  88-009-mapear-infraestrutura-essencial-de-uma-regiao.txt
+  88-010-mapear-hospitais-escolas-e-instalacoes-publicas.txt
+  88-011-identificar-regioes-sujeitas-a-desastres.txt
+  88-012-analisar-a-geografia-de-uma-rota-de-evacuacao.txt
+  88-013-identificar-gargalos-logisticos.txt
+  88-014-avaliar-a-sustentabilidade-de-assentamentos.txt
+  88-015-planejar-redes-de-assentamentos-autossuficientes.txt
+
+======================================================================
+89. 89-cuidados-com-idosos/
+======================================================================
+  89-001-organizar-cuidados-domiciliares-para-idosos.txt
+  89-002-reconhecer-sinais-de-fragilidade-em-idosos.txt
+  89-003-prevenir-quedas-em-idosos.txt
+  89-004-realizar-transferencia-segura-de-pessoas.txt
+  89-005-prevenir-lesoes-por-pressao.txt
+  89-006-cuidar-de-pessoas-acamadas.txt
+  89-007-realizar-higiene-de-pessoas-dependentes.txt
+  89-008-organizar-alimentacao-de-idosos.txt
+  89-009-reconhecer-sinais-de-demencia.txt
+  89-010-cuidar-de-pessoas-com-demencia-durante.txt
+  89-011-organizar-medicamentos-de-idosos.txt
+  89-012-adaptar-moradias-para-idosos.txt
+  89-013-preservar-mobilidade-em-idosos.txt
+  89-014-organizar-redes-de-cuidadores-comunitarios.txt
+  89-015-prestar-cuidados-paliativos-com-orientacao.txt
+
+======================================================================
+90. 90-emergencias-quimicas/
+======================================================================
+  90-001-reconhecer-acidentes-industriais.txt
+  90-002-reconhecer-vazamentos-de-substancias-perigosas.txt
+  90-003-identificar-riscos-em-instalacoes-industriais.txt
+  90-004-reconhecer-contaminacao-por-agrotoxicos.txt
+  90-005-agir-diante-de-derramamentos-de-petroleo.txt
+  90-006-compreender-contaminacao-por-mercurio.txt
+  90-007-compreender-contaminacao-por-chumbo.txt
+  90-008-compreender-contaminacao-por-arsenio.txt
+  90-009-reconhecer-contaminacao-por-pesticidas.txt
+  90-010-reconhecer-riscos-de-produtos-quimicos.txt
+  90-011-compreender-contaminacao-do-solo-por-metais.txt
+  90-012-compreender-contaminacao-de-rios-por-produtos.txt
+  90-013-avaliar-riscos-ambientais-apos-acidentes.txt
+  90-014-reconhecer-riscos-de-instalacoes.txt
+  90-015-organizar-evacuacao-diante-de-acidentes-quimicos.txt
+  90-016-compreender-os-limites-dos-equipamentos.txt
+  90-017-interpretar-fichas-de-seguranca-de-produtos.txt
+  90-018-compreender-descontaminacao-industrial.txt
+  90-019-preservar-fontes-de-agua-apos-acidentes-quimicos.txt
+  90-020-organizar-monitoramento-ambiental-comunitario.txt

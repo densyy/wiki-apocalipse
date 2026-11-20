@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 02-097
+TITULO: Como avaliar a segurança sanitária de animais silvestres
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 20 minutos
+RISCO: alto
+EXIGE: ponto seguro de observação, lanterna, caderno, água e sabão
+REVISAO: 2026-11
+PALAVRAS-CHAVE: silvestre, zoonose, raiva, hantavírus, bicho doente, carne
+==============================================================================
+
+OBJETIVO
+--------
+Decidir, por sinais que dá para ver, se um animal silvestre tem risco
+sanitário e se ele deve ser evitado.
+
+QUANDO USAR
+-----------
+Antes de caçar ou tentar capturar um animal.
+Quando um animal morto aparece perto de casa ou da horta.
+Quando um animal silvestre age de forma estranha.
+Depois de mordedura, arranhadura ou lambedura em ferida.
+Antes de aceitar carne de origem desconhecida.
+
+NAO USE QUANDO
+--------------
+Não use a boa aparência como prova de que a carne é segura.
+Não use para liberar carne de animal morto há muito tempo.
+Não use no lugar de vacina, atendimento médico ou exame de laboratório.
+Não use para autorizar consumo de morcegos, roedores ou carnívoros.
+
+MATERIAIS
+---------
+- Lanterna para observar sem chegar perto.
+- Caderno e lápis para anotar espécie, local, hora e sinais.
+- Água corrente e sabão (ou cinza e água) para lavar mãos e feridas.
+- Luvas grossas e pano para cobrir um animal morto.
+- Pano firme para delimitar a área sem tocar no animal.
+
+PROCEDIMENTO
+------------
+1. Fique a pelo menos 20 passos de distância do animal vivo.
+2. Observe com a lanterna sem apontar a luz nos olhos do animal.
+3. Anote a espécie aproximada, o local, a hora e o comportamento.
+4. Observe se há saliva excessiva, espuma ou baba.
+5. Observe se há tremores, convulsões ou andar cambaleante.
+6. Observe se há agressividade sem medo ou paralisia.
+7. Observe se o animal não foge de você ou fica prostrado.
+8. Observe se há feridas com pus, corrimento ou perda de pelo.
+9. Anote se é morcego, gambá, guaxinim, raposa, rato ou outro roedor.
+10. Marque como suspeito o animal com um ou mais desses sinais.
+11. Marque como suspeito o animal morto sem causa visível.
+12. Não toque, não alimente e não tente capturar um animal suspeito.
+13. Não coma, não cozinhe e não guarde carne de animal suspeito.
+14. Recue devagar se o animal se aproximar; nunca corra.
+15. Lave com água e sabão toda mordedura, arranhadura ou lambedura.
+16. Procure atendimento médico no mesmo dia se houve contato com saliva.
+17. Comunique a vigilância sanitária ou o órgão ambiental da região.
+
+ATENCAO
+-------
+Aparência saudável não prova ausência de doença: roedores podem levar
+hantavírus sem adoecer e contaminar com urina, fezes e saliva.
+A raiva é quase sempre fatal depois que os sintomas aparecem.
+Não espere o animal piorar para decidir.
+Não varra nem espire seco urina ou fezes de roedores: o pó contamina o ar.
+Não toque em morcegos nem em carcaças com as mãos desprotegidas.
+Febre ou falta de ar até 60 dias após contato com roedores exige médico;
+informe esse contato ao profissional de saúde.
+Lavar a ferida não substitui vacina nem atendimento urgente.
+Na dúvida, a decisão é não manusear e não consumir.
+
+SE NAO TIVER
+------------
+Sem lanterna, observe só em plena luz do dia e de longe.
+Sem luvas, não mova a carcaça: cubra-a com pano e peça ajuda.
+Sem sabão, lave a ferida com água corrente abundante por vários minutos.
+Sem máscara própria, não entre onde há urina ou fezes de roedores;
+pano comum não protege contra aerossóis.
+Sem autoridade próxima, isole a área e anote tudo no caderno.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você descreve espécie, local, hora e comportamento sem ter tocado no animal.
+Nenhum sinal de doença foi trocado por comportamento normal.
+A decisão está escrita, com "não consumir" sempre que houve dúvida.
+Mãos e feridas foram lavadas depois de qualquer contato.
+
+FONTES
+------
+OMS: folha informativa "Zoonoses", de 29 de julho de 2020.
+CDC: "About Rabies", de 27 de janeiro de 2026, sobre raiva em silvestres.
+CDC: "About Hantavirus", de 13 de maio de 2024, sobre roedores.
+Ministério da Saúde: página "Hantavirose", sobre reservatórios roedores,
+aerossóis e acompanhamento por até 60 dias após exposição.

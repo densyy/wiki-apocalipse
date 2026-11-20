@@ -1,0 +1,84 @@
+==============================================================================
+CODIGO: 07-037
+TITULO: Como interpretar medições de radiação
+CATEGORIA: 07 - Guerra, radiação e catástrofes nucleares
+TEMPO: 15 minutos
+RISCO: critico
+EXIGE: medidor de radiacao com pilha, caderno, lapis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: radiacao, medicao, dosimetro, geiger, microsievert, abrigo
+==============================================================================
+
+OBJETIVO
+--------
+Decida se continua abrigado a partir do numero do medidor.
+
+QUANDO USAR
+-----------
+Quando tiver um dosimetro ou contador Geiger ligado.
+Quando precisar comparar abrigo, quintal e rua.
+Quando precisar decidir se sai do abrigo apos fallout.
+Quando a defesa civil pedir para monitorar a area.
+Quando alguem disser que o local ja esta seguro.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Medidor de radiacao com pilha boa (dosimetro ou Geiger)
+- Manual ou tabela do fabricante do aparelho
+- Caderno, lapis e relogio para anotar hora e local
+
+PROCEDIMENTO
+------------
+1. Ligue o medidor longe do corpo e aguarde estabilizar.
+2. Leia qual unidade aparece no visor antes do numero.
+3. Anote a unidade junto do numero sem separar.
+4. Entenda que microsievert por hora mede efeito por hora.
+5. Entenda que milisievert e dose somada e vale 1000 microsievert.
+6. Entenda que gray mede energia absorvida no corpo.
+7. Entenda que contagens por minuto sao cliques e nao dose.
+8. Meca sempre a aproximadamente 1 metro do chao.
+9. Meca no mesmo ponto e anote hora, local e valor.
+10. Repita apos aproximadamente 1 hora no mesmo ponto.
+11. Compare se o valor esta subindo, estavel ou caindo.
+12. Considere perigoso valor alto ou que continua subindo.
+13. Fique abrigado se passar de aproximadamente 100 microsievert por hora.
+14. Some as horas para estimar a dose antes de sair.
+15. Obedeca a defesa civil mesmo se o numero parecer baixo.
+
+ATENCAO
+-------
+Numero baixo nao significa ausencia de risco acumulado.
+Contagens por minuto nao viram dose sem a tabela do fabricante.
+Aparelho sem calibrar erra e um erro aqui pode matar.
+Medidor nao protege e mascara nao bloqueia o raio gama.
+Poeira sem cheiro nem gosto continua emitindo radiacao.
+Este texto nao trata queimadura nem enjoo de radiacao.
+Fundo normal e de aproximadamente 0,1 microsievert por hora.
+Dose de aproximadamente 10 a 50 milisievert em 4 dias exige abrigo.
+Dose acima de aproximadamente 0,75 gray em poucas horas pode matar.
+Procure socorro se houver vomito, queimadura grande ou tontura.
+
+SE NAO TIVER
+------------
+Sem manual, use so microsievert por hora e ignore contagens.
+Sem caderno, risque hora e valor na parede com carvao.
+Sem medidor, nao estime numero e fique abrigado por ordem oficial.
+Sem pilha reserva, faca poucas medicoes curtas para economizar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Voce anota numero sempre com a unidade e a hora.
+Voce diz se a radiacao esta subindo ou caindo no ponto.
+Voce nao sai do abrigo com valor alto ou em subida.
+
+FONTES
+------
+Orientacao do CDC americano sobre emergencias de radiacao.
+Pagina de termos e unidades de radiacao da EPA americana.
+Pagina de efeitos da radiacao para a saude da EPA americana.
+Guia de abrigo em detonacao nuclear da FEMA americana.
+Pratica consolidada de sobrevivencia civil em manual militar.

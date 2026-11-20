@@ -1,0 +1,88 @@
+==============================================================================
+CODIGO: 52-009
+TITULO: Como compreender o princípio de Arquimedes
+CATEGORIA: 52 - Física aplicada e princípios fundamentais
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: água, recipiente fundo, papel-alumínio, pedra, palito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: arquimedes, empuxo, flutuar, afundar, densidade, água, peso
+==============================================================================
+
+OBJETIVO
+--------
+Entender por que uns objetos boiam e outros afundam na água.
+
+QUANDO USAR
+-----------
+Quando quiser entender por que um navio de aço flutua.
+Quando uma pedra afunda, mas uma bola de papel-alumínio boia.
+Quando precisar explicar o empuxo a outra pessoa.
+Quando quiser comparar densidades sem balança.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação para observar e compreender estes efeitos.
+Não use estas ideias para dimensionar carga real de embarcação.
+Não substitua cálculo de engenharia nem laudo técnico por esta leitura.
+
+MATERIAIS
+---------
+- Água em recipiente fundo, como balde ou tina (ou bacia).
+- Papel-alumínio (ou folha de plástico).
+- Pedra pequena (ou porca, ou arruela).
+- Palito de dente (ou fio de costura fino).
+- Copo transparente cheio até a borda (opcional).
+- Caderno para anotar (ou papel).
+
+PROCEDIMENTO
+------------
+1. Amasse uma folha de papel-alumínio em uma bola bem apertada.
+2. Coloque a bola na água e observe que ela afunda.
+3. Retire a bola, desamasse o papel e dê forma de barquinho.
+4. Coloque o barquinho na água e observe que ele flutua.
+5. Entenda: o mesmo material mudou por causa da forma e do volume.
+6. Segure a pedra com o palito e mergulhe-a devagar na água.
+7. Sinta a pedra pesar menos dentro da água do que fora dela.
+8. Observe que a água sobe de nível quando a pedra entra.
+9. Solte a pedra e veja que afunda: seu peso vence o empuxo.
+10. Empurre uma bola vazia para baixo e sinta a água empurrá-la.
+11. Solte a bola e veja que ela volta à tona.
+12. Anote: empuxo é a força do fluido que empurra o corpo para cima.
+13. Anote: empuxo = densidade x volume deslocado x gravidade.
+14. Anote: a gravidade é aproximadamente 9,8 m/s2.
+15. Anote: a água tem densidade aproximada de 1 g/cm3.
+16. Encha o copo até a borda e mergulhe a pedra devagar.
+17. Note que a água transborda: esse volume foi o deslocado.
+
+ATENCAO
+-------
+O empuxo existe mesmo para quem afunda: ele só não vence o peso.
+O empuxo depende do volume deslocado, não só do material da peça.
+Corpo afunda quando seu peso é maior que o empuxo.
+Corpo flutua quando o empuxo equaliza o peso antes de afundar.
+O princípio vale para gases: balões sobem pelo empuxo do ar.
+Números como 9,8 m/s2 e 1 g/cm3 são aproximados e variam com o calor.
+Não use vidro fino nem perto da borda: pode quebrar e ferir.
+Não molhe tomadas, fios nem equipamentos elétricos.
+
+SE NAO TIVER
+------------
+Sem papel-alumínio, use uma folha de plástico ou casca de noz.
+Sem pedra, use uma porca, um clipe grande ou um dente de alho.
+Sem balde, use uma bacia, um lavatório ou um copo grande.
+Sem palito, segure o objeto com um fio ou com os próprios dedos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue dizer, com as próprias palavras, que o empuxo é o peso
+do fluido deslocado pelo corpo.
+Você explica por que a bola amassada afunda e o barquinho flutua.
+Você aponta que a pedra pesa menos dentro da água.
+
+FONTES
+------
+Princípio de Arquimedes: OpenStax College Physics 2e, seção 11.7;
+Encyclopaedia Britannica; apostila de Física da UFRGS e artigo da
+Revista Brasileira de Ensino de Física. Prática consolidada de ensino
+de física, sem documento único.

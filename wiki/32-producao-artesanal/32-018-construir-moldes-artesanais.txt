@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 32-018
+TITULO: Como construir moldes artesanais
+CATEGORIA: 32 - Produção industrial e manufatura artesanal
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: argila refratária, modelo, água, forno, luvas e óculos térmicos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: molde, fundição, cera perdida, barro, padrão, vazar
+==============================================================================
+
+OBJETIVO
+--------
+Construir um molde de barro refratário para fundir peças pequenas de metal.
+
+QUANDO USAR
+-----------
+Quando precisar de peça metálica com detalhes e não houver fundição perto.
+Quando a peça for pequena e houver metal de baixo ponto de fusão.
+Quando houver forno, argila refratária e lugar arejado para trabalhar.
+Quando o molde de areia não der o acabamento necessário.
+
+NAO USE QUANDO
+--------------
+Sem local arejado e protegido de chuva, não queime nem vaze molde.
+Sem luvas térmicas e óculos, não manipule molde quente ou metal fundido.
+Quando a peça for sustentar carga, movimento ou peso de pessoa.
+Quando o metal for desconhecido, tóxico ou de ponto de fusão muito alto.
+
+MATERIAIS
+---------
+- Argila refratária ou massa de modelar sem aditivos (barro peneirado).
+- Areia fina de sílica ou farinha de sílica (areia de praia lavada).
+- Gesso de fundição (gesso comum, apenas para peças de baixa temperatura).
+- Modelo liso da peça, em madeira, argila ou cera.
+- Cera de abelha ou parafina para a casca (se usar cera perdida).
+- Óleo, vaselina ou talco para separar o modelo do molde.
+- Caixa rígida de madeira ou lata para conter a massa.
+- Bastão para o canal de vazamento e arame fino para respiradouros.
+- Régua, faca de moldar e pincel.
+- Forno ou braseiro com tampa, e lugar plano e livre para o trabalho.
+- Luvas térmicas, óculos de proteção e avental de couro.
+- Metal sucata limpo e seco, se for vazar a peça.
+
+PROCEDIMENTO
+------------
+1. Modele a peça em argila ou cera, lisa e sem cantos vivos.
+2. Faça o modelo com aproximadamente 2% de folga em cada dimensão.
+3. A contração vai de 1% a 5% conforme o metal; no alumínio, use mais.
+4. Unte o modelo com óleo ou vaselina, ou polvilhe talco.
+5. Envolva o modelo com argila refratária de 1 a 2 centímetros.
+6. Compacte a argila em camadas, sem bolhas de ar presas.
+7. Reserve a abertura do canal de vazamento na parte de cima.
+8. Espete respiradouros com arame fino até perto do modelo.
+9. Reforce o exterior com gesso ou com outra camada de argila.
+10. Deixe secar na sombra, em local arejado, por vários dias.
+11. Se houver cera, aqueça para escorrer; não passe de 90 °C na cera.
+12. Queime o molde no forno até parar de soltar fumaça e ficar duro.
+13. Aqueça o molde novamente antes de vazar o metal.
+14. Vaze metal limpo e seco em jato contínuo, sem interromper.
+15. Deixe esfriar sozinho, quebre o molde e retire a peça.
+
+ATENCAO
+-------
+Metal fundido mata: nunca use molde úmido, gesso molhado ou sucata molhada.
+Água presa no molde vira vapor de repente e projeta metal para os lados.
+Cera líquida perto de 90 °C pode pegar fogo; tenha areia para abafar.
+Queime em local arejado: argila e gesso soltam pó de sílica e fumaça.
+Use luvas, óculos e avental de couro; nunca vista tecido sintético.
+Respiradouros entupidos prendem gases e estouram a peça.
+Molde rachado vaza metal e causa queimadura grave.
+Se o molde pegar fogo, afaste-se e deixe esfriar; nunca jogue água no metal.
+Em queimadura com roupa grudada, não puxe: procure atendimento.
+
+SE NAO TIVER
+------------
+Sem argila refratária, use gesso de fundição; ele quebra com facilidade.
+Sem gesso, acrescente camadas de argila e reforce com arame.
+Sem cera, modele o padrão em argila e abra o molde em duas metades.
+Sem forno, seque por vários dias e queime em braseiro aberto e abrigado.
+Sem metal próprio, não funda sucata com tinta, óleo ou plástico.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O molde seco não gruda no dedo e soa duro ao toque da unha.
+Depois da queima, não solta fumaça e mantém os contornos do modelo.
+A peça sai com o formato do modelo e o canal cheio de metal.
+A peça não tem bolhas grandes nem falhas onde o metal devia chegar.
+
+FONTES
+------
+Apostila de fundição por cera perdida da UFPR, de Koch e Pinto (2015).
+Trabalho sobre fundição em areia verde e cera perdida da UFRB (2016).
+Guias FD3, FD5 e FD11 do Health and Safety Executive, Reino Unido (2022).
+Guia de saúde e segurança em fundições da WorkSafe Victoria (2017).
+Norma ASTM E2349 de segurança em operações de fundição de metais.
+Fact sheet 06 do The Jewellers Toolkit, Weston Beamor, sobre cera perdida.
+Resumo operacional; não substitui treinamento prático com metal fundido.

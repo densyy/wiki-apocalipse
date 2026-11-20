@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 45-009
+TITULO: Como compreender o funcionamento de biodigestores
+CATEGORIA: 45 - Engenharia de saneamento e saúde pública
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: luvas, máscara, lanterna, caderno, acesso ao biodigestor
+REVISAO: 2026-11
+PALAVRAS-CHAVE: biodigestor, biogás, gás de esterco, metano, bactérias
+==============================================================================
+
+OBJETIVO
+--------
+Entender como o biodigestor degrada resíduo sem oxigênio e reconhecer os
+sinais de que ele está funcionando.
+
+QUANDO USAR
+-----------
+Quando o abrigo gera resíduo orgânico e não há tratamento de esgoto.
+Quando existe biodigestor instalado e é preciso operá-lo sem treinamento.
+Quando o gás está fraco ou o líquido sai escuro e é preciso diagnosticar.
+Quando é preciso decidir se o efluente pode ir para a horta.
+
+NAO USE QUANDO
+--------------
+Quando o resíduo contém combustível, agrotóxico, metal, sal, solvente,
+remédio ou desinfetante: isso mata as bactérias e contamina o adubo.
+Quando a câmara não vedar: sem ausência de ar não se forma metano.
+Quando o líquido for beber ou cozinhar: o efluente nunca fica potável.
+Quando não houver destino seguro para o biofertilizante.
+
+MATERIAIS
+---------
+- Luvas de borracha (luvas grossas limpas, descartáveis se houver).
+- Máscara com filtro (não use apenas pano: o gás é tóxico).
+- Lanterna (luz de celular; nunca use chama ou fogo).
+- Caderno e lápis para anotar carga, dias e produção de gás.
+- Acesso ao biodigestor já instalado, à entrada e à saída.
+
+PROCEDIMENTO
+------------
+1. Identifique as três partes: caixa de entrada, câmara vedada e caixa
+   de saída.
+2. Confirme que a câmara está fechada: tampe emendas, tubos e bordas.
+3. Aprenda a ordem interna: hidrólise, acidogênese, acetogênese,
+   metanogênese.
+4. Observe a hidrólise: bactérias quebram o sólido em açúcares e
+   aminoácidos.
+5. Observe a acidogênese: bactérias fermentam isso em ácidos, gás
+   carbônico e amônia.
+6. Observe a acetogênese: bactérias transformam os ácidos em ácido
+   acético e hidrogênio.
+7. Observe a metanogênese: arqueias convertem o ácido acético em metano
+   e gás carbônico; essa mistura é o biogás.
+8. Verifique a umidade da carga: o material deve estar bem líquido, com
+   aproximadamente 90 a 95% de água.
+9. Equilibre a comida das bactérias: dejetos dão nitrogênio; restos
+   vegetais dão carbono.
+10. Controle a temperatura: abaixo de aproximadamente 15 °C ou acima de
+    aproximadamente 45 °C a produção para.
+11. Controle o pH: as arqueias trabalham melhor entre aproximadamente
+    6,5 e 8.
+12. Não despeje químico, óleo, remédio, desinfetante nem cal em excesso.
+13. Anote a carga de cada dia e meça a produção de gás no medidor.
+14. Entenda a saída: a cada volume que entra, sai igual volume de líquido.
+15. Guarde o efluente em tanque aberto por aproximadamente 30 dias antes
+    de usar no solo.
+
+ATENCAO
+-------
+O biogás é inflamável: nunca aproxime chama, fogo ou cigarro do gás.
+O gás contém metano e traços de sulfeto de hidrogênio, que é tóxico.
+Nunca inale o gás nem incline o rosto sobre a boca do tanque.
+Nunca entre na câmara: gás preso em espaço fechado asfixia.
+Ventile o local e afaste fontes de fogo antes de abrir para inspeção.
+Sem vedação, entra ar, as anaeróbias morrem e o gás vira gás carbônico.
+O efluente não é potável: nunca beba nem cozinhe com ele.
+
+SE NAO TIVER
+------------
+Sem medidor de gás, teste a chama do fogão: deve ser azul e estável.
+Sem termômetro, use a referência do clima local; no frio a produção cai.
+Sem caixa de saída, o líquido acumula e o sistema entope: peça ajuda.
+Sem material para vedar, não improvise: sem vedação não há metano.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O biogás queima com chama azul contínua no fogão.
+O nível de gás sobe nos dias seguintes à alimentação.
+O líquido da saída fica mais escuro e com menos cheiro que a entrada.
+A câmara permanece estanque: não há entrada de ar pelas emendas.
+Em batelada, a produção se mantém por aproximadamente 30 a 40 dias.
+
+FONTES
+------
+Prática consolidada de digestão anaeróbia e saneamento rural, sem
+documento único consultado nesta redação. Referências gerais do tema:
+Organização das Nações Unidas para a Alimentação e a Agricultura (FAO)
+e Empresa Brasileira de Pesquisa Agropecuária (Embrapa), projeto Fossa
+Séptica Biodigestora. Resumo operacional, não substitui treinamento.

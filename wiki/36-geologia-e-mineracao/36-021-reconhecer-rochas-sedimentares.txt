@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 36-021
+TITULO: Como reconhecer rochas sedimentares
+CATEGORIA: 36 - Geologia, mineração e recursos naturais
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: amostra de rocha, lupa, faca de aço, água, caderno
+REVISAO: 2026-11
+PALAVRAS-CHAVE: rocha, sedimentar, arenito, calcário, grãos, camadas
+==============================================================================
+
+OBJETIVO
+--------
+Distinguir rochas sedimentares e nomear tipos comuns por sinais visíveis.
+
+QUANDO USAR
+-----------
+Quando encontrar uma rocha e quiser saber se ela é sedimentar.
+Quando precisar escolher pedra para calçada, forno ou correção de solo.
+
+NAO USE QUANDO
+--------------
+Quando a conclusão servir para obra estrutural, mineração ou venda
+de minério. Nesse caso, procure geólogo e laudo técnico.
+Quando a amostra estiver em encosta instável, mina ou área sem permissão.
+
+MATERIAIS
+---------
+- Amostra com superfície limpa e quebrada recentemente.
+- Lupa de bolso ou lente de aumento (olho treinado em boa luz).
+- Faca de aço ou chave (moeda de cobre para comparação).
+- Água em frasco (garrafa) e caderno para anotar.
+
+PROCEDIMENTO
+------------
+1. Escolha uma amostra com superfície limpa e quebrada recentemente.
+2. Procure linhas de camadas sobrepostas, chamadas estratificação.
+3. Olhe com a lupa: procure grãos, fósseis ou marcas de ondas.
+4. Tente riscar com uma moeda de cobre e depois com a faca de aço.
+5. Compare: calcário (dureza 3 na escala de Mohs) risca com faca.
+6. Note se o arenito de quartzo (dureza 7) resiste à faca.
+7. Pingue uma gota de água e veja se ela absorve rápido.
+8. Separe em três grupos: grãos, lama ou cálcio.
+9. Anote cor, grão, dureza e absorção ao lado do grupo escolhido.
+
+ATENCAO
+-------
+A cor engana: intemperismo e minerais mudam a cor da mesma rocha.
+Rocha sedimentar pode parecer metamórfica; este texto não dá laudo.
+Grãos redondos e de tamanhos diferentes sugerem conglomerado.
+Lama endurecida em folhas finas é folhelho, não arenito.
+Não improvise teste químico com ácido, vinagre ou limão corrosivo.
+Lave as mãos depois de manusear pó de rocha e não inale o pó.
+
+SE NAO TIVER
+------------
+Sem lupa, use boa luz e uma superfície recém-quebrada.
+Sem faca, use uma chave de aço; sem chave, compare só unha e moeda.
+Sem água, observe a aspereza da superfície ao tato.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A rocha foi encaixada em um dos três grupos com dois sinais anotados.
+Outra pessoa, lendo as anotações, chega ao mesmo grupo.
+
+FONTES
+------
+Prática consolidada de identificação de rochas em campo e laboratório.
+Não foi possível consultar documento único nesta revisão.
+Escala de Mohs de dureza mineral, uso consolidado em mineralogia.

@@ -1,0 +1,101 @@
+==============================================================================
+CODIGO: 59-009
+TITULO: Como escolher luvas para diferentes atividades
+CATEGORIA: 59 - Segurança industrial e riscos ocupacionais
+TEMPO: 10 minutos
+RISCO: alto
+EXIGE: lista das tarefas e dos riscos do local, ficha do fabricante
+REVISAO: 2026-11
+PALAVRAS-CHAVE: luva, proteção das mãos, químico, corte, calor, elétrico
+==============================================================================
+
+OBJETIVO
+--------
+Escolher a luva adequada a cada tarefa para manter as mãos protegidas
+contra o risco realmente presente.
+
+QUANDO USAR
+-----------
+Ao iniciar tarefa com produtos químicos, corte, impacto ou calor.
+Ao trocar de atividade e o risco para as mãos mudar.
+Ao receber equipamento novo ou substituir luva danificada.
+Ao trabalhar com eletricidade, máquinas, ferramentas ou peças quentes.
+Ao haver contato com sangue, fluidos ou resíduos biológicos.
+
+NAO USE QUANDO
+--------------
+Nenhuma luva protege contra todos os riscos. Não use a mesma luva para
+todas as tarefas. Não use luva comum em trabalho elétrico, com solventes
+agressivos, cortes de alta energia ou chamas. Se o risco não foi
+identificado, pare e defina o risco antes de escolher.
+
+MATERIAIS
+---------
+- Lista das tarefas e dos riscos do local.
+- Ficha técnica ou embalagem das luvas disponíveis.
+- Tabela de resistência química do fabricante (quando houver químico).
+- Certificado de Aprovação (CA) do EPI, obrigatório no Brasil.
+- Fita métrica para medir a mão.
+- Luvas candidatas, limpas e dentro da validade.
+
+PROCEDIMENTO
+------------
+1. Identifique os riscos para as mãos na tarefa antes de escolher.
+2. Anote se o contato é respingo, imersão ou vapor, e por quanto tempo.
+3. Separe as tarefas que exigem mais de um tipo de proteção.
+4. Para corte e abrasão, use couro, malha de aço ou fibra resistente.
+5. Confira o nível de resistência ao corte e à abrasão na embalagem.
+6. Para químicos, escolha o material conforme o produto e a ficha.
+7. Use nitrilo para óleos e graxas; evite-o com solventes fortes.
+8. Use neoprene ou butila para ácidos e bases, conforme a ficha.
+9. Use PVC para respingos aquosos de baixa agressividade.
+10. Verifique o tempo de ruptura: tempo até o químico atravessar a luva.
+11. Para calor ou chama, use luva térmica classificada para a fonte.
+12. Para solda, use luva própria para solda, não couro comum.
+13. Para frio extremo, use luva isolante própria para baixa temperatura.
+14. Para eletricidade, use só luva isolante com classe de tensão válida.
+15. Cubra a luva isolante com couro contra cortes e impactos.
+16. Para risco biológico, use luva descartável íntegra e troque-a ao sair.
+17. Escolha tamanho que permita fechar a mão sem apertar e sem folgar.
+18. Confira compatibilidade com outros equipamentos usados na tarefa.
+19. Verifique o Certificado de Aprovação (CA) e a data de validade.
+20. Inspecione a luva antes de cada uso: furos, cortes e ressecamento.
+21. Guarde as luvas limpas, secas, longe de calor e luz direta.
+
+ATENCAO
+-------
+A luva certa para um produto pode falhar com outro. Nenhuma é universal.
+Luvas folgas podem ser puxadas por máquinas com peças em movimento.
+A luva química pode deixar passar o produto sem mostrar sinal algum.
+Se houver ardência, mancha ou odor na pele, pare, lave e troque a luva.
+Luvas elétricas perdem a proteção com o tempo. Não use fora da validade.
+A luva errada dá falsa sensação de segurança: o acidente ocorre na mão
+que parecia protegida.
+Pessoas alérgicas a látex podem ter reação grave. Use nitrilo sem pó.
+Na dúvida, não improvise: escolha maior proteção e peça orientação.
+
+SE NAO TIVER
+------------
+Sem a ficha do fabricante, não adivinhe. Trate a luva como desconhecida
+e não a use com produto químico agressivo.
+Sem luva adequada, interrompa o trabalho ou mude o método para eliminar
+o contato com as mãos.
+Nunca substitua luva elétrica, térmica ou química por algodão ou couro
+comum. Isso não protege e pode agravar a lesão.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A luva escolhida cobre exatamente os riscos listados para a tarefa.
+A embalagem ou a ficha confirma o tipo de proteção e o tempo de
+resistência quando o risco é químico.
+A mão abre e fecha os dedos sem escorregar dentro da luva.
+A luva está íntegra, limpa, com CA válido e dentro da validade.
+
+FONTES
+------
+Resumo operacional baseado na NR-6 do Ministério do Trabalho e Emprego
+e na portaria que define os ensaios de EPI, na norma OSHA 1910.138 e na
+publicação OSHA 3151 de 2023, além de orientações de segurança das
+universidades NCSU e Virginia Tech.
+Este texto é um resumo. Não substitui treinamento nem a ficha do
+fabricante da luva.

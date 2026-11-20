@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 04-011
+TITULO: Como carregar baterias com painéis solares
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: painel solar, controlador de carga, bateria, cabos e multimetro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bateria, carregar, painel solar, controlador, 12v, sol
+==============================================================================
+
+OBJETIVO
+--------
+Carregar uma bateria recarregavel com painel solar e controlador,
+sem sobrecarga e sem danificar a bateria.
+
+QUANDO USAR
+-----------
+Quando faltar energia da rede e houver sol durante o dia.
+Para recarregar bateria de sistema isolado, lampada ou radio.
+Para manter a carga de bateria estacionaria em uso leve.
+Quando painel e controlador sao compativeis com a bateria.
+
+NAO USE QUANDO
+--------------
+Se a bateria estiver estufada, rachada, vazando ou muito quente.
+Se o controlador nao aceita o tipo da sua bateria.
+Para carregar pilha comum que nao e recarregavel.
+Sem controlador de carga entre o painel e a bateria.
+Sob tempestade com raios proximos ou em local alagado.
+
+MATERIAIS
+---------
+- Painel solar com manual do fabricante.
+- Controlador de carga compativel com painel e bateria.
+- Bateria recarregavel de chumbo-acido ou propria para solar.
+- Cabos inteiros com conectores proprios, sem emenda exposta.
+- Multimetro para conferir tensao e polaridade (visor do kit).
+- Tecido opaco para cobrir o painel durante as ligacoes.
+- Local ventilado, firme e longe de chama e faisca.
+
+PROCEDIMENTO
+------------
+1. Cubra o painel com tecido opaco antes de tocar nos cabos.
+2. Coloque a bateria em local ventilado, firme e sem inflamaveis.
+3. Confira se painel, controlador e bateria usam a mesma tensao.
+4. Ajuste o controlador para o tipo da bateria conforme o manual.
+5. Ligue o positivo da bateria ao positivo de bateria do controlador.
+6. Ligue o negativo da bateria ao negativo de bateria do controlador.
+7. Confira no visor se o controlador reconheceu a bateria.
+8. Ligue o positivo do painel ao positivo solar do controlador.
+9. Ligue o negativo do painel ao negativo solar do controlador.
+10. Prenda os cabos longe de quinas, agua e passagem de pessoas.
+11. Descubra o painel e aponte para sol direto, sem sombra.
+12. Confira no visor se a carga comecou.
+13. Mantenha ventilacao na bateria durante toda a carga.
+14. Ao terminar, desligue na ordem inversa: painel primeiro.
+15. Feche os terminais e guarde cabos secos e organizados.
+
+ATENCAO
+-------
+O painel gera eletricidade com qualquer luz do dia, mesmo nublado.
+Nunca ligue o painel direto na bateria sem controlador; a bateria
+ferve, incha e pode explodir ou pegar fogo.
+Bateria de chumbo-acido solta gas que explode perto de faisca ou
+chama; nao fume, nao faca faisca e ventile sempre.
+Acido da bateria queima pele e olhos; se vazar, nao toque e afaste
+criancas e animais.
+Curto entre os polos esquenta, derrete cabo e causa queimadura;
+confira positivo e negativo no multimetro antes de ligar.
+Nunca desconecte cabo com o painel produzindo; abre arco eletrico
+que queima a pele e incendeia material proximo.
+Se a bateria esquentar muito, inchar ou cheirar forte, cubra o
+painel, desligue tudo e so volte com o sistema frio.
+
+SE NAO TIVER
+------------
+Sem multimetro, acompanhe a carga pelo visor do controlador.
+Sem tecido opaco, vire o painel para baixo ate terminar de ligar.
+Sem conector proprio, nao improvise com fio descascado e fita
+comum ao ar livre; refaca com peca propria assim que possivel.
+Sem local ideal, use sombra aberta e ventilada, nunca quarto,
+armario ou perto de fogao e botijao.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O controlador indica carga quando o sol bate no painel.
+A tensao da bateria sobe lentamente ao longo do dia.
+Aparelho pequeno ligado funciona sem oscilar.
+Cabos e conectores seguem frios, sem cheiro de queimado.
+
+FONTES
+------
+Requisitos de instalacoes de baixa tensao da ABNT NBR 5410 e de
+sistemas fotovoltaicos da ABNT NBR 16690; medidas de seguranca
+NR-10; orientacoes de seguranca com baterias da FEMA e do Corpo
+de Bombeiros dos Estados Unidos; guias de sistemas isolados do
+Departamento de Energia dos Estados Unidos; manuais de
+fabricantes de paineis, controladores e baterias.

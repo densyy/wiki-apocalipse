@@ -1,0 +1,84 @@
+==============================================================================
+CODIGO: 06-010
+TITULO: Como evitar contaminação de fontes de água por esgoto
+CATEGORIA: 06 - Higiene, saneamento e resíduos
+TEMPO: 60 minutos
+RISCO: critico
+EXIGE: pá, cal ou cinza, balde com tampa, sabão e cloro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, poço, esgoto, fossa, nascente, higiene
+==============================================================================
+
+OBJETIVO
+--------
+Manter poço, nascente e caixa d'água livres do esgoto próximo.
+
+QUANDO USAR
+-----------
+Quando a fossa ou a latrina ficam perto do poço ou nascente.
+Quando a água do poço muda de cor, cheiro ou gosto.
+Quando a chuva alaga a fossa ou espalha esgoto no quintal.
+Quando há diarreia ou vômito na casa ou na vizinhança.
+Quando se monta abrigo ou latrina nova no terreno.
+
+NAO USE QUANDO
+--------------
+Quando a água tem cheiro forte de químico ou combustível.
+Quando a enchente trouxe óleo, tinta ou veneno para o poço.
+Este tutorial cobre esgoto; químico exige ajuda técnica.
+
+MATERIAIS
+---------
+- Pá e enxada para abrir valas e cobrir fezes e lixo.
+- Cal virgem, cal hidratada ou cinza de fogão a lenha.
+- Terra seca e serragem para cobrir após cada uso.
+- Balde com tampa só para guardar água de beber.
+- Sabão, pano limpo e água com cloro para lavar as mãos.
+- Corda, estacas e lona para cercar e cobrir a fonte.
+
+PROCEDIMENTO
+------------
+1. Localize o poço, a nascente e a caixa d'água no terreno.
+2. Conte aproximadamente 30 passos do poço morro abaixo.
+3. Marque esse ponto como limite mínimo para fossa e esgoto.
+4. Cave fossa, latrina ou vala abaixo desse limite marcado.
+5. Não cave a fossa onde a água mina do fundo do buraco.
+6. Cerque o poço com corda e estacas contra animais e crianças.
+7. Tampe o poço e a caixa d'água com tampa firme e lona.
+8. Abra uma vala rasa ao redor do poço para desviar a enxurrada.
+9. Cubra as fezes com cal ou terra seca após cada uso.
+10. Lave as mãos com sabão após mexer em fossa ou esgoto.
+11. Ferva ou clore a água do poço antes de beber.
+12. Observe cor, cheiro e gosto da água todos os dias.
+
+ATENCAO
+-------
+Água com esgoto pode matar por diarreia, cólera e hepatite.
+Ferver e clorar não removem químico, óleo ou veneno da água.
+Enchente que cobre a fossa contamina o poço mesmo distante.
+Não beba água turva, com mau cheiro ou gosto de esgoto.
+A maioria do contágio vem da mão suja: lave sempre as mãos.
+Crianças, idosos e doentes passam mal primeiro: proteja-os.
+Normas divergem: Funasa admite 15 metros; emergência pede 30.
+Use sempre a maior distância que o terreno permitir.
+Com diarreia com sangue, febre alta ou fraqueza, busque socorro.
+
+SE NAO TIVER
+------------
+Sem cal, cubra fezes e esgoto só com terra seca ou cinza.
+Sem tampa firme, cubra o poço com tábuas e lona amarrada.
+Sem cloro, ferva a água por aproximadamente 1 minuto cheio.
+Sem sabão, lave as mãos com cinza e água corrente limpa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Água do poço clara, sem cheiro e sem gosto estranho.
+Fossa e esgoto longe, abaixo do poço, sem vazar na chuva.
+Poço tampado, cercado e sem sinal de animal por perto.
+Ninguém novo com diarreia, vômito ou febre na casa.
+
+FONTES
+------
+Prática consolidada de saneamento de emergência em desastres
+(famílias de referência: OMS, IFRC, Funasa e CDC). Resumo
+operacional, sem treinamento.

@@ -1,0 +1,78 @@
+==============================================================================
+CODIGO: 07-008
+TITULO: Como escolher um abrigo contra precipitação radioativa
+CATEGORIA: 07 - Guerra, radiação e catástrofes nucleares
+TEMPO: 15 minutos
+RISCO: critico
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: abrigo, fallout, poeira, porão, concreto, radiação, proteção
+==============================================================================
+
+OBJETIVO
+--------
+Escolher em minutos o abrigo que mais reduz a radiação do fallout.
+
+QUANDO USAR
+-----------
+Quando houver clarão forte ou aviso de explosão nuclear.
+Quando poeira parecida com areia começar a cair do céu.
+Quando precisar decidir entre ficar ou trocar de prédio.
+Quando estiver fora de casa e precisar entrar rápido.
+Quando for preparar a família antes de qualquer ataque.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+Ficar dentro de qualquer prédio e melhor que ficar fora.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Entre no prédio firme mais próximo sem correr para longe.
+2. Prefira porão, garagem subterrânea, metrô ou túnel.
+3. Sem lugar subterrâneo, vá ao miolo de prédio grande.
+4. Escolha prédio de concreto, tijolo ou cimento, se puder.
+5. Fique no meio do térreo ou em andar intermediário.
+6. Afaste-se de janela, porta, parede externa e telhado.
+7. Evite o último andar perto de telhado com poeira.
+8. Feche portas, janelas e desligue ventilação que puxa ar.
+9. Tire a roupa externa e limpe pele e cabelo se pegou poeira.
+10. Fique abrigado por aproximadamente 24 horas seguidas.
+11. Ouça rádio a pilha e só saia com ordem das autoridades.
+12. Se o prédio pegar fogo ou rachar, troque de abrigo.
+
+ATENCAO
+-------
+Fallout é poeira sem cheiro que emite raio gama pela roupa.
+Parede fina, casa de madeira térrea e carro não protegem.
+Porão de casa simples já reduz a dose em fator 10 ou mais.
+Máscara segura poeira no pulmão mas não bloqueia o raio gama.
+Sair antes de aproximadamente 24 horas pode causar dose mortal.
+Fogo, desabamento e falta de ar mandam trocar de abrigo.
+Não volte para buscar família; escola e abrigo protegem eles.
+Este texto não trata ferimento, queimadura nem resgate.
+
+SE NAO TIVER
+------------
+Sem porão, fique no centro do térreo longe de janela.
+Sem prédio de concreto, use o prédio firme mais próximo.
+Sem andar intermediário, fique longe de telhado e parede.
+Sem rádio, espere aproximadamente 24 horas antes de sair.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você está abaixo do solo ou no miolo de prédio firme.
+Você tem parede e teto grossos entre você e a poeira.
+Você fica dentro por aproximadamente 24 horas sem sair.
+
+FONTES
+------
+Guia de planejamento para detonação nuclear da FEMA.
+Manual de comunicação após detonação nuclear da FEMA.
+Página sobre entrar e ficar dentro do CDC americano.
+Página sobre proteção com tempo e blindagem da EPA.
+Guia REMM do governo dos Estados Unidos sobre fallout.

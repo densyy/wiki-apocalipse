@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 09-023
+TITULO: Como identificar os pontos cardeais pelo Sol
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 20 minutos
+RISCO: medio
+EXIGE: graveto reto de 1 metro, pedras para marcar, sol e solo plano
+REVISAO: 2026-11
+PALAVRAS-CHAVE: sol, sombra, norte, sul, leste, oeste, orientação, rota
+==============================================================================
+
+OBJETIVO
+--------
+Ache norte, sul, leste e oeste no terreno usando a sombra de um graveto.
+
+QUANDO USAR
+-----------
+Quando a bússola não existe, quebrou ou você perdeu a referência.
+Quando o celular ficou sem bateria e o GPS não funciona.
+Antes de sair do acampamento em direção já conhecida.
+
+NAO USE QUANDO
+--------------
+Quando não há Sol direto: nuvens densas, chuva, crepúsculo ou noite.
+Quando a decisão exige rumo exato: com mapa e bússola, use-os primeiro.
+
+MATERIAIS
+---------
+- Graveto reto com cerca de 1 metro (haste ou cabo de ferramenta).
+- Pedras ou gravetos para marcar (giz, cinza do fogo, punhado de terra).
+- Terreno plano, firme e sem mato (prancha, papelão ou tábua).
+
+PROCEDIMENTO
+------------
+1. Escolha lugar plano, firme e livre de mato onde o Sol bata direto.
+2. Firme o graveto na vertical; apoie-o com pedra se o solo estiver duro.
+3. Espere a sombra do graveto ficar nítida no chão.
+4. Marque com uma pedra a ponta da sombra; esse ponto é o oeste.
+5. Espere de 10 a 15 minutos até a sombra andar alguns centímetros.
+6. Marque com outra pedra a nova ponta da sombra; esse ponto é o leste.
+7. Trace uma linha reta entre as duas marcas: é a linha leste-oeste.
+8. Fique em pé com a primeira marca à esquerda e a segunda à direita.
+9. Olhe à frente: você está de frente para o norte; atrás fica o sul.
+10. Anote os quatro pontos no caderno antes de retirar as marcas.
+
+ATENCAO
+-------
+O Sol nasce e se põe perto do leste e do oeste, mas o ponto varia.
+Em quase todo o Brasil o Sol do meio-dia muda de lado: use só a sombra.
+O meio-dia solar pode não coincidir com o meio-dia do relógio.
+O método dá direção aproximada, não rumo exato: com mapa e bússola, use-os.
+Graveto inclinado inverte as marcas: refaça. Não olhe o Sol direto.
+
+SE NAO TIVER
+------------
+Sem pedras, use gravetos, folhas, cinza ou marque com giz no chão.
+Sem graveto de 1 metro, use qualquer haste reta que faça sombra visível.
+Sem Sol visível, este método não serve: espere o céu limpar ou use bússola.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As duas marcas alinhadas mostram a direção leste-oeste no chão.
+Em pé na linha, a marca da esquerda é o oeste; à frente fica o norte.
+
+FONTES
+------
+FM 21-76, Exército dos EUA, cap. 18: método da ponta da sombra.
+NOAA dos EUA: variação sazonal da posição do Sol e analema.
+INPE (Instituto Nacional de Pesquisas Espaciais): gnômon e meio-dia solar.
+UFJF (Universidade Federal de Juiz de Fora): movimento anual do Sol.

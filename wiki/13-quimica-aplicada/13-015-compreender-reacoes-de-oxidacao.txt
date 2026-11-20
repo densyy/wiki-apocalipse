@@ -1,0 +1,85 @@
+==============================================================================
+CODIGO: 13-015
+TITULO: Como compreender reações de oxidação
+CATEGORIA: 13 - Química e conhecimentos científicos aplicados
+TEMPO: 25 minutos
+RISCO: alto
+EXIGE: papel, lápis, objeto ou alimento para observar
+REVISAO: 2026-11
+PALAVRAS-CHAVE: oxidação, redox, ferrugem, ranço, elétrons, oxidante
+==============================================================================
+
+OBJETIVO
+--------
+Reconheça uma reação de oxidação no dia a dia e diga o que a acelera
+ou o que a freia.
+
+QUANDO USAR
+-----------
+Quando um metal enferruja ou perde o brilho.
+Quando gordura ou óleo fica com cheiro e gosto de ranço.
+Quando frutas cortadas escurecem depois de algum tempo.
+Quando algo queima, esquenta sozinho ou muda de cor depressa.
+Quando precisa guardar alimento, óleo ou peça por muito tempo.
+Quando há produto chamado oxidante perto de calor ou fogo.
+
+NAO USE QUANDO
+--------------
+Quando há cheiro forte, fumaça ou calor saindo de um recipiente:
+não abra, não cheire de perto e não tente provocar a reação.
+Quando o material estiver quente: não manipule antes de esfriar.
+
+MATERIAIS
+---------
+- Papel e lápis para anotar.
+- Objeto ou alimento para observar.
+- Pano ou luvas para não tocar direto.
+- Recipiente com tampa, se for guardar a amostra.
+
+PROCEDIMENTO
+------------
+1. Observe o que mudou: cor, cheiro, textura ou brilho.
+2. Anote o material original e o estado atual.
+3. Pergunte se houve contato com o ar (oxigênio).
+4. Verifique se havia água, calor ou luz no local.
+5. Note quem perdeu elétrons (carga negativa): esse material oxidou.
+6. Note quem ganhou esses elétrons: esse material reduziu.
+7. As duas coisas ocorrem juntas; chama-se redox.
+8. Compare com um caso conhecido: ferrugem, ranço ou queima.
+9. Classifique o que acelerou e o que poderia frear.
+10. Apenas observe; não misture, não aqueça e não cheire de perto.
+
+ATENCAO
+-------
+Oxidação e combustão liberam calor; material que oxida muito pode pegar
+fogo. Não cheire de perto nem incline o rosto sobre um recipiente com
+cheiro forte. Não misture oxidantes comuns (água sanitária, peróxido,
+permanganato) com outros produtos: pode soltar calor e vapores ruins.
+Não tente acelerar a reação para testar: isso pode causar incêndio ou
+queimadura. Este texto ensina a reconhecer e entender, não a produzir
+reações. Alimento rançoso pode causar mal-estar: na dúvida, não coma.
+Se houver fumaça, calor intenso ou cheiro irritante, saia e chame ajuda.
+
+SE NAO TIVER
+------------
+Sem papel, memorize os sinais: cor, cheiro, calor e tempo.
+Sem luvas, use um pano seco e lave as mãos depois.
+Sem recipiente, observe sem guardar; não guarde o que esquenta.
+Se não souber apontar o par, anote só o que viu e pare por aí.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você aponta a cor, o cheiro ou o brilho que mudou.
+Você nomeia o material que oxidou e o que reduziu.
+Você cita um fator que acelerou e um que freia.
+Você decide: guardar fechado e fresco, ou descartar.
+
+FONTES
+------
+NIST (glossário): oxidação como perda de elétrons e par redox.
+Britannica e Chemistry LibreTexts: oxidação, número de oxidação,
+ferrugem, combustão e ranço.
+Manual GCCF/WFLO de armazenagem (Rancidez e Antioxidantes, revisão
+2024): oxigênio, temperatura e antioxidantes na oxidação de gorduras.
+Prática consolidada de segurança: não manipular oxidantes comuns sem
+proteção.

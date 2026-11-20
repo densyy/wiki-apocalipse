@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 29-028
+TITULO: Como recuperar arquivos de sistemas de arquivos danificados
+CATEGORIA: 29 - Tecnologia, computação e informática offline
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: disco de destino com espaço, computador auxiliar, energia estável
+REVISAO: 2026-11
+PALAVRAS-CHAVE: recuperar, disco danificado, imagem, dados perdidos, fsck
+==============================================================================
+
+OBJETIVO
+--------
+Recuperar arquivos legíveis de um disco com sistema de arquivos danificado
+sem gravar nada no disco original.
+
+QUANDO USAR
+-----------
+Quando o disco não abre arquivos ou mostra erro de sistema de arquivos.
+Depois de queda de energia ou remoção sem ejetar com segurança.
+Quando arquivos foram apagados por engano e nada novo foi gravado.
+
+NAO USE QUANDO
+--------------
+Quando o disco faz clique, não gira ou foi molhado ou queimado:
+é dano físico; exige profissional em sala limpa, não abra o disco.
+Quando não houver outro disco com espaço para receber a cópia.
+
+MATERIAIS
+---------
+- Disco danificado, origem dos arquivos.
+- Disco de destino com espaço maior que o volume de dados.
+- Computador auxiliar e ferramenta de leitura já instalada em mídia local.
+
+PROCEDIMENTO
+------------
+1. Desligue o equipamento se o disco danificado ainda estiver em uso.
+2. Não execute reparo no disco original: o reparo pode apagar arquivos.
+3. Não salve nem instale nada no disco danificado.
+4. Conecte o disco danificado como secundário, nunca para inicializar.
+5. Conecte o disco de destino no mesmo computador.
+6. Faça imagem bit a bit, cópia exata dos setores, no disco de destino.
+7. Abra a imagem em modo somente leitura e recupere os arquivos dela.
+8. Salve o recuperado no destino e confira antes de apagar qualquer coisa.
+
+ATENCAO
+-------
+Gravar no disco danificado é o erro que mais destrói dados: abrir para
+escrita, reparar ou salvar pode sobrescrever o que se quer recuperar.
+Reparo com chkdsk /f ou fsck antes da cópia pode perder arquivos órfãos;
+a Microsoft documenta perda de dados em reparos de sistemas FAT.
+Disco com clique, cheiro de queimado ou que não gira tem dano físico:
+desligue e busque ajuda; abrir fora de sala limpa destrói o disco.
+Setores com erro podem ser lidos em outra tentativa; não há garantia.
+
+SE NAO TIVER
+------------
+Sem ferramenta de imagem, copie arquivos do disco em modo somente leitura
+para outro disco; é menos seguro, mas salva o que ainda é legível.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A imagem foi concluída, o disco original segue sem arquivos novos e os
+arquivos no destino abrem legíveis, com tamanho maior que zero.
+
+FONTES
+------
+Microsoft (documentação oficial do chkdsk: reparo /f, perda em FAT,
+imagem antes de /b) e documentação do kernel Linux sobre ext4.
+Prática consolidada de forense: cópia em modo somente leitura.

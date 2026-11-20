@@ -1,0 +1,84 @@
+==============================================================================
+CODIGO: 84-013
+TITULO: Como construir laboratórios educacionais
+CATEGORIA: 84 - Educação avançada e formação de especialistas
+TEMPO: 180 minutos
+RISCO: alto
+EXIGE: local ventilado, bancada firme, água, materiais, supervisão adulta
+REVISAO: 2026-11
+PALAVRAS-CHAVE: laboratório, bancada, segurança, experiência, água
+==============================================================================
+
+OBJETIVO
+--------
+Montar um espaço seguro onde o grupo possa observar e testar ideias.
+
+QUANDO USAR
+-----------
+Quando as aulas de ciências ficam só no quadro e não geram observação.
+Ao querer que os alunos meçam, comparem e registrem resultados.
+Quando houver espaço livre e materiais simples disponíveis.
+Ao preparar aulas de eletricidade, água ou materiais do cotidiano.
+Quando a comunidade pede testes simples de qualidade de água ou solo.
+
+NAO USE QUANDO
+--------------
+Não monte laboratório sem ventilação e sem saída de água por perto.
+Não permita trabalho com químicos fortes sem pessoa qualificada.
+Não use o espaço para experimentos com fogo ou explosivos.
+
+MATERIAIS
+---------
+- Bancada firme e nivelada, limpa e seca (mesa reforçada).
+- Água corrente ou balde com água e recipiente para descarte.
+- Recipientes transparentes, colheres, régua e cordão (material simples).
+- Luvas, óculos de proteção e pano limpo (proteção básica).
+- Papel e lápis para anotar o que foi observado (caderno).
+- Caixa fechada para guardar o material após o uso (armário).
+
+PROCEDIMENTO
+------------
+1. Escolha local com luz, ventilação e longe de fontes de fogo.
+2. Confira se há água por perto e para onde escoa o descarte.
+3. Monte a bancada firme e teste se ela não balança.
+4. Reserve um lado da bancada só para material limpo.
+5. Reserve o outro lado para as experiências e o descarte.
+6. Fixe uma folha com as regras de segurança na parede.
+7. Separe os materiais em caixas com nomes escritos.
+8. Rotule cada recipiente com o que ele contém.
+9. Explique as regras a todos antes da primeira experiência.
+10. Coloque óculos e luvas antes de qualquer manuseio.
+11. Faça uma experiência simples por encontro, com o grupo todo.
+12. Peça que cada pessoa anote o que viu, com números quando der.
+13. Compare as anotações e discuta por que os resultados diferem.
+14. Descarte o material usado no recipiente próprio, não no chão.
+15. Lave a bancada, guarde o material e feche a caixa ao final.
+
+ATENCAO
+-------
+Água e eletricidade juntas podem matar; mantenha tomadas longe da bancada.
+Nunca misture produtos de limpeza: a reação pode soltar gás tóxico.
+Óculos e luvas são obrigatórios mesmo em experiência simples.
+Não cheire nem prove nada do laboratório, por curiosidade.
+Se algo cair ou quebrar, pare e avise o responsável antes de limpar.
+
+SE NAO TIVER
+------------
+Sem água corrente, use balde com água e balde separado para descarte.
+Sem bancada, use mesa firme com tábua nivelada por cima.
+Sem óculos, suspenda a experiência até conseguir proteção.
+Sem recipientes próprios, use vidros limpos de uso doméstico, sem química.
+Sem local ventilado, faça apenas observações ao ar livre.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A bancada está firme, limpa e com as regras escritas à vista.
+Cada experiência gera anotações com o que foi visto e medido.
+O descarte vai para o recipiente certo e nada fica no chão.
+Ninguém se feriu e todo material volta guardado na caixa.
+
+FONTES
+------
+Prática consolidada de laboratórios didáticos de baixo custo.
+Inspirado em experimentos de ciências com materiais do cotidiano e
+nas normas básicas de segurança em laboratórios escolares.

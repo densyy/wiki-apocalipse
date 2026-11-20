@@ -1,0 +1,79 @@
+==============================================================================
+CODIGO: 90-008
+TITULO: Como compreender contaminação por arsênio
+CATEGORIA: 90 - Emergências químicas, industriais e ambientais
+TEMPO: 25 minutos
+RISCO: critico
+EXIGE: luvas, máscara com filtro, água potável e recipiente fechado
+REVISAO: 2026-11
+PALAVRAS-CHAVE: arsênio, água, solo, poço, pele, câncer
+==============================================================================
+
+OBJETIVO
+---------
+Entender como o arsênio contamina água e solo e reduzir o risco à saúde.
+
+QUANDO USAR
+-----------
+Quando o consumo de água de poço causar queixas digestivas ou de pele.
+Ao morar perto de mineração, fundição ou área com solo suspeito.
+Quando aparecerem manchas escuras ou descamação na pele sem causa clara.
+Depois de usar água de poço para cozinhar ou regar hortaliças.
+Quando houver derramamento de defensivo ou resíduo industrial com arsênio.
+
+NAO USE QUANDO
+--------------
+Não continue bebendo água de poço suspeito sem análise laboratorial.
+Não cozinhe com água de poço não testada.
+Não trate a suspeita só com filtro de carvão caseiro.
+
+MATERIAIS
+---------
+- Luvas de nitrilo e máscara com filtro de partículas.
+- Água potável engarrafada para consumo e preparo de alimentos.
+- Recipiente limpo e fechado para coletar amostra de água.
+- Saco resistente para resíduos e etiqueta de identificação.
+- Caderno para anotar poço, data, sintomas e número de pessoas afetadas.
+
+PROCEDIMENTO
+------------
+1. Interrompa o uso da água de poço para beber e cozinhar.
+2. Use água potável engarrafada para toda a preparação de alimentos.
+3. Coloque luvas e máscara se for manusear solo ou resíduo suspeito.
+4. Colete uma amostra de água em recipiente limpo e identifique-o.
+5. Encaminhe a amostra a laboratório credenciado para análise.
+6. Anote sintomas: dor abdominal, diarreia, vômito, manchas na pele.
+7. Observe também dormência em mãos e pés e fraqueza.
+8. Procure serviço de saúde e informe a fonte de água.
+9. Não lave hortaliças com a água suspeita; descarte-as se houver dúvida.
+10. Isole a área de resíduo e avise o órgão ambiental.
+11. Guarde o laudo e as anotações para acompanhamento.
+
+ATENCAO
+-------
+Arsênio em água pode não ter cor, cheiro ou sabor.
+Exposição prolongada está associada a lesões de pele e a certos cânceres.
+Diarreia intensa, vômito e dor abdominal exigem atendimento imediato.
+Crianças e gestantes devem ser priorizadas na troca da fonte de água.
+Não ferve a água: a fervura não remove arsênio e pode concentrá-lo.
+Filtros domésticos comuns não retiram arsênio de forma confiável.
+Só o laudo laboratorial confirma a contaminação.
+
+SE NAO TIVER
+------------
+Sem água engarrafada, use água de fonte testada ou de caminhão-pipa oficial.
+Sem máscara própria, evite mexer no solo e chame equipe especializada.
+Sem laboratório próximo, envie a amostra por órgão de saúde municipal.
+Sem laudo, mantenha a água suspeita fora do consumo até nova orientação.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água de poço deixou de ser usada para beber e cozinhar.
+A amostra foi enviada para análise e as pessoas foram orientadas.
+O órgão ambiental registrou a ocorrência.
+
+FONTES
+------
+Resumo de diretrizes de agências de saúde e órgãos ambientais sobre arsênio
+em água de poço. A suspensão do consumo e a análise laboratorial são
+recomendações consolidadas em manuais de vigilância em saúde.

@@ -1,0 +1,84 @@
+==============================================================================
+CODIGO: 73-004
+TITULO: Como armazenar borracha por longos períodos
+CATEGORIA: 73 - Armazenamento de produtos não alimentares
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: local fresco, escuro e seco; sacos plásticos; tábua limpa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: borracha, pneu, guardar, armazenar, ozônio, ressecamento
+==============================================================================
+
+OBJETIVO
+--------
+Guardar borracha por meses sem ressecar, rachar ou perder a forma.
+
+QUANDO USAR
+-----------
+Quando guardar pneus fora de uso por uma estação ou mais.
+Quando estocar mangueiras, juntas, anéis e vedações de reposição.
+Quando deixar veículos ou máquinas parados por muito tempo.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação para guardar borracha limpa e seca.
+Não use para recuperar peça já rachada: o dano é permanente.
+
+MATERIAIS
+---------
+- Sacos plásticos grandes e fecháveis (sacos de lixo resistentes).
+- Tábua ou prateleira limpa para apoiar as peças.
+- Água, sabão e pano limpo para a limpeza.
+- Papel e lápis para anotar data e posição de origem.
+- Fita adesiva para fechar os sacos.
+
+PROCEDIMENTO
+------------
+1. Limpe cada peça com água e sabão.
+2. Seque por completo antes de guardar.
+3. Retire pedras, pregos e lascas da banda de rodagem.
+4. Marque em cada pneu a posição em que estava montado.
+5. Escreva a data da guarda em um papel.
+6. Coloque o papel dentro do saco da peça.
+7. Envolva cada peça em saco plástico.
+8. Retire o ar excedente do saco.
+9. Feche o saco com fita adesiva.
+10. Escolha local coberto, seco, escuro e arejado.
+11. Mantenha o local longe da luz direta do sol.
+12. Afaste motores, geradores, compressores e carregadores do local.
+13. Nunca guarde perto de óleo, graxa, gasolina, solvente ou tinta.
+14. Apoie as peças sobre tábua limpa, nunca direto no piso.
+15. Guarde pneus sem aro em pé, apoiados na banda de rodagem.
+16. Guarde pneus com aro empilhados deitados ou pendurados pelo aro.
+17. Deixe juntas, anéis e mangueiras sem dobras nem compressão.
+18. Reduza a pressão dos pneus com aro sem esvaziá-los por completo.
+19. Vire os pneus sem aro de tempos em tempos para evitar pontos chatos.
+20. Inspecione as peças uma vez por ano antes de usá-las.
+
+ATENCAO
+-------
+O ozônio racha a borracha mesmo em quantidade pequena.
+Motores, geradores, compressores, sol e calor ressecam a borracha.
+Rachadura na lateral do pneu ou em vedação pode causar falha grave.
+Óleo, graxa e solvente incham a borracha e destroem vedações.
+Guardar não recupera peça endurecida: descarte a peça danificada.
+Se as rachaduras abrem ao dobrar, pare de usar a peça.
+
+SE NAO TIVER
+------------
+Sem saco plástico, cubra a peça com pano limpo e seco.
+Sem tábua, use papelão seco e troque-o de tempos em tempos.
+Sem local escuro, cubra com pano opaco; nunca deixe ao sol.
+Não use óleo, graxa ou vaselina para amaciar a borracha.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As peças estão secas, sem pó e sem cheiro de solvente.
+Não há rachaduras novas nas laterais nem marcas de umidade.
+Os pneus mantêm a forma e não mostram pontos chatos.
+
+FONTES
+------
+Norma ISO 2230, Produtos de borracha: diretrizes para armazenamento.
+Guias de guarda de pneus de Michelin e Continental.
+Literatura técnica sobre envelhecimento e rachadura por ozônio.

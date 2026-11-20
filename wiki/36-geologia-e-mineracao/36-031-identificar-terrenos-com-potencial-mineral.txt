@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 36-031
+TITULO: Como identificar terrenos com potencial mineral
+CATEGORIA: 36 - Geologia, mineração e recursos naturais
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: mapa geológico da região, caderno, bandeja, roupa de caminhada
+REVISAO: 2026-11
+PALAVRAS-CHAVE: minério, prospecção, quartzo, óxido, drenagem, terreno
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer sinais visuais de possível presença de minério no terreno.
+
+QUANDO USAR
+-----------
+Quando você precisa escolher áreas para buscar minérios.
+Quando há afloramentos ou cortes de estrada com cores incomuns.
+Quando córregos drenam região com rochas ígneas ou veios.
+
+NAO USE QUANDO
+--------------
+Quando houver suspeita de contaminação por metais pesados ou rejeitos.
+Quando a área for mina abandonada, talude instável ou sem autorização.
+
+MATERIAIS
+---------
+- Mapa geológico ou topográfico da região (ou mapa de estradas).
+- Caderno, lápis e bandeja plástica rasa (peneira grossa).
+- Água corrente do córrego.
+- Roupa de caminhada, calçado fechado e luvas.
+
+PROCEDIMENTO
+------------
+1. Consulte o mapa geológico da região antes de sair.
+2. Marque no caderno as áreas com rochas ígneas, contatos e falhas.
+3. Caminhe a jusante dos córregos que drenam essas áreas.
+4. Observe a cor do solo e da rocha: vermelho, amarelo e laranja indicam
+   óxidos de ferro.
+5. Procure veios de quartzo branco ou leitoso cortando a rocha.
+6. Observe minerais visíveis: pirita dourada, magnetita preta, hematita
+   vermelha.
+7. Retire cascalho do leito do córrego com a bandeja.
+8. Lave o cascalho em água corrente e deixe os grãos densos no fundo.
+9. Anote o ponto no caderno com a cor e a quantidade de grãos retidos.
+10. Repita a lavagem em pelo menos três pontos do mesmo córrego.
+
+ATENCAO
+-------
+Cor vermelha e veios de quartzo indicam possibilidade, nao prova de minério.
+Nao entre em minas ou galerias: podem desabar ou ter gases.
+Nao prove nem inale minerais: arsênio, chumbo e sílica são tóxicos.
+Nao use ácido, fogo ou explosivo para testar a rocha.
+A busca em área de terceiros exige autorização do dono e da ANM.
+Pare e saia se sentir cheiro de gás ou ver poço aberto ou talude instável.
+
+SE NAO TIVER
+------------
+Sem mapa geológico, use mapa topográfico e observe a drenagem.
+Sem bandeja, use peneira grossa ou as mãos; sem luz, espere o dia.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você registrou três pontos com grãos densos, local e cor da rocha.
+
+FONTES
+------
+Prática consolidada de prospecção visual e lavagem de sedimentos.
+Referências: SGB/CPRM e USGS; resumo que nao substitui laudo geológico.

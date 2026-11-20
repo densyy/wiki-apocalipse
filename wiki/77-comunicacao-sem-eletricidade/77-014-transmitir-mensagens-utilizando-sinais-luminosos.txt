@@ -1,0 +1,78 @@
+==============================================================================
+CODIGO: 77-014
+TITULO: Como transmitir mensagens utilizando sinais luminosos
+CATEGORIA: 77 - Comunicação anterior à eletricidade
+TEMPO: 60 minutos
+RISCO: baixo
+EXIGE: linha de vista livre, fonte de luz e sequências combinadas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: luz, espelho, clarão, sinal, noite, aviso, distância
+==============================================================================
+
+OBJETIVO
+--------
+Enviar recados curtos à noite ou a longa distância com luz.
+
+QUANDO USAR
+-----------
+Quando a distância impede o som, mas há linha de vista.
+Para avisar de perigo durante a noite.
+Para guiar alguém até o assentamento com segurança.
+Para confirmar que um sinal sonoro foi recebido.
+
+NAO USE QUANDO
+--------------
+Não aponte luz diretamente nos olhos de quem trabalha.
+Não use fogo perto de palha, madeira seca ou combustível.
+Não use sinal luminoso com névoa ou chuva forte.
+
+MATERIAIS
+---------
+- Espelho de metal ou vidro pequeno (tampa polida como alternativa).
+- Lanterna, tocha ou vela em recipiente de vidro fechado.
+- Suporte firme ou tripé de madeira para a fonte de luz.
+- Tabela com o significado de cada sequência de clarões.
+- Pano escuro para tampar e descobrir a luz.
+
+PROCEDIMENTO
+------------
+1. Escolha ponto alto com vista livre até o destinatário.
+2. Fixe a fonte de luz no suporte na altura dos olhos.
+3. Combine poucas sequências: um clarão para "estou aqui".
+4. Defina dois clarões para "perigo" e três para "preciso de ajuda".
+5. Escreva a tabela e entregue uma cópia a cada ponto.
+6. Tampe e descubra a luz com ritmo regular e pausas iguais.
+7. Repita a sequência três vezes para evitar erro de leitura.
+8. Combine um sinal de recebido para quem está do outro lado.
+9. Teste à noite com o destinatário antes de precisar de verdade.
+10. Guarde o espelho e a tabela em local seco e conhecido.
+11. Proteja a chama do vento com recipiente de vidro ou metal.
+
+ATENCAO
+-------
+Luz nos olhos cega por segundos e pode causar acidente.
+Fogo desprotegido pode incendiar palha ou roupa.
+Clarão sem pausa não dá tempo de contar e gera confusão.
+Névoa e chuva encurtam o alcance: avise também por mensageiro.
+Não confie só na luz: combine confirmação por outro meio.
+Se o destinatário não responder, envie mensageiro.
+
+SE NAO TIVER
+------------
+Sem espelho, use tampa de metal polida ou vidro de pote.
+Sem lanterna, use vela dentro de pote de vidro protegido.
+Sem tripé, apoie a luz em pedra ou forquilha de madeira.
+Sem tabela, combine três sequências e repita em reunião.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O destinatário lê a sequência e responde com o sinal de recebido.
+Cada clarão é contado sem dúvida na ponta de chegada.
+A chama permanece acesa e protegida até o fim do envio.
+Ninguém ficou cego ou se feriu com o fogo.
+
+FONTES
+------
+Prática consolidada de sinalização com espelhos e luz anterior à
+eletricidade. Sequências e significados são combinação local e devem
+ser escritas e ensaiadas antes do uso real.

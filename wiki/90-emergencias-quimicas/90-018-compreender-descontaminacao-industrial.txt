@@ -1,0 +1,86 @@
+==============================================================================
+CODIGO: 90-018
+TITULO: Como compreender descontaminação industrial
+CATEGORIA: 90 - Emergências químicas, industriais e ambientais
+TEMPO: 35 minutos
+RISCO: alto
+EXIGE: plano do local, fichas dos produtos e equipamento de proteção
+REVISAO: 2026-11
+PALAVRAS-CHAVE: descontaminação, indústria, lavagem, resíduo, risco, limpeza
+==============================================================================
+
+OBJETIVO
+--------
+Entender como remover contaminantes de pessoas e áreas com segurança.
+
+QUANDO USAR
+-----------
+Após derramamento ou vazamento de produto químico.
+Depois de trabalho com agrotóxicos, solventes ou metais pesados.
+Antes de tirar roupa e equipamento de uma área contaminada.
+Antes de reutilizar ferramentas, veículos ou tanques.
+Ao encerrar uma operação com substâncias perigosas.
+Antes de liberar uma área para o uso normal.
+
+NAO USE QUANDO
+--------------
+Não improvise a limpeza sem saber qual é o contaminante.
+Não use solvente ou gasolina para lavar a pele.
+Não jogue a água da lavagem em rio, solo ou esgoto sem orientação.
+Não reentre na área sem liberação dos responsáveis.
+
+MATERIAIS
+---------
+- Ficha de segurança do produto envolvido, a FISPQ (ficha do produto).
+- Água em quantidade, com mangueira e balde.
+- Sabão neutro ou solução de limpeza indicada.
+- Luvas, óculos, avental e máscara (equipamento de proteção).
+- Sacos ou recipientes para roupas e resíduos contaminados.
+- Papel toalha, escova e balde separado para cada etapa.
+- Caderno para registrar o que foi feito (celular).
+
+PROCEDIMENTO
+------------
+1. Identifique o contaminante e leia a ficha do produto.
+2. Isole a área e afaste quem não está envolvido.
+3. Coloque o equipamento de proteção antes de entrar.
+4. Monte a sequência de etapas, da área limpa para a suja.
+5. Retire roupas e equipamentos na entrada da área limpa.
+6. Lave a pele com água e sabão, do centro para as bordas.
+7. Lave olhos e rosto com água corrente após um respingo.
+8. Lave ferramentas e superfícies com a solução indicada.
+9. Junte roupas e resíduos em saco identificado.
+10. Separe a água da lavagem para tratamento, não descarte direto.
+11. Retire a proteção por último e higienize bem as mãos.
+12. Registre o que foi lavado e o que ficou retido.
+13. Só libere a área após medição ou confirmação do responsável.
+
+ATENCAO
+-------
+Água e sabão servem para muitos casos, mas não para todos.
+Alguns químicos reagem com água e pioram com a lavagem.
+Nunca use solvente, thinner ou álcool na pele para limpar.
+A água da lavagem é resíduo perigoso e precisa de destino.
+Roupa contaminada não vai para lavanderia comum.
+Se houver queimadura, dor ou irritação, procure atendimento médico.
+Sem saber o produto, trate como risco alto e peça apoio.
+
+SE NAO TIVER
+------------
+Sem ficha, isole tudo e peça a identificação ao fabricante.
+Sem água corrente, use panos úmidos na retirada inicial.
+Sem sabão indicado, use água corrente abundante por mais tempo.
+Sem saco próprio, use recipiente fechado e identificado.
+Sem apoio, limite a área e acione bombeiros ou defesa civil.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Pessoas e superfícies foram lavadas sem espalhar contaminação.
+Resíduos e água da lavagem estão separados e identificados.
+A área foi liberada por quem pode medir ou confirmar a limpeza.
+
+FONTES
+------
+Prática consolidada de higiene industrial e resposta a emergências químicas.
+Orientações de fabricantes, fichas de segurança e normas ocupacionais.
+Guias de defesa civil e bombeiros para acidentes com produtos químicos.

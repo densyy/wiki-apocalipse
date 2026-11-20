@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 13-014
+TITULO: Como utilizar indicadores naturais de pH
+CATEGORIA: 13 - Química e conhecimentos científicos aplicados
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: repolho roxo, água limpa, copos transparentes, colher, pano limpo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ph, repolho roxo, antocianina, ácido, base, cor
+==============================================================================
+
+OBJETIVO
+--------
+Prepare um indicador com repolho roxo e use a cor da antocianina,
+pigmento natural que muda com o pH, para classificar líquidos.
+
+QUANDO USAR
+-----------
+Quando não houver fita de pH ou papel de tornassol para testar um líquido.
+Para saber se água de chuva, poço ou rio é ácida ou básica.
+Para conferir o pH aproximado do solo antes de plantar.
+Para testar vinagre, suco, leite ou água com bicarbonato.
+Para acompanhar uma neutralização simples feita em casa.
+
+NAO USE QUANDO
+--------------
+Não use para dizer se uma água é potável: a cor não mostra germes nem cloro.
+Não use para decidir se um alimento está bom para comer.
+Não teste alvejante, água sanitária, desinfetante nem produto com cloro.
+Nunca misture esses produtos com ácido: pode liberar gás cloro tóxico.
+Não use se não houver luvas e copos limpos para cada amostra.
+
+MATERIAIS
+---------
+- Repolho roxo (couve-roxa) fresco, 3 ou 4 folhas.
+- Água limpa (filtrada ou mineral), aproximadamente 1 xícara de 240 mL.
+- Saco plástico com fecho (ou pote com tampa) para amassar as folhas.
+- Copos ou potes transparentes pequenos, pelo menos 3.
+- Colher de pau ou de plástico limpa.
+- Pano limpo (gaze ou filtro de café) para coar.
+- Luvas descartáveis e óculos de proteção (óculos comuns).
+- Papel branco (superfície clara), vinagre e bicarbonato (opcional).
+
+PROCEDIMENTO
+------------
+1. Coloque as luvas e os óculos antes de manusear qualquer amostra.
+2. Rasgue 3 ou 4 folhas de repolho roxo em pedaços pequenos.
+3. Coloque os pedaços no saco plástico com fecho.
+4. Adicione aproximadamente 1 xícara de água limpa em temperatura ambiente.
+5. Retire o ar do saco, feche-o e amasse as folhas com a mão.
+6. Amasse por aproximadamente 2 minutos, até a água ficar azul-escura.
+7. Coe o líquido com o pano limpo para um copo e descarte os pedaços.
+8. Despeje aproximadamente 1 colher de sopa do extrato em cada copo limpo.
+9. Pingue algumas gotas do líquido a testar em um copo com extrato.
+10. Mexa com a colher limpa e apoie o copo sobre o papel branco.
+11. Leia a cor: rosa ou vermelho é ácido; roxo ou azul é neutro.
+12. Leia a cor: verde ou amarelo é básico (alcalino).
+13. Repita com copo limpo e extrato novo para cada líquido testado.
+14. Confira o extrato: pingue vinagre em um copo e bicarbonato em outro.
+
+ATENCAO
+-------
+O indicador mostra apenas se o meio é ácido, neutro ou básico.
+Ele não fornece o número exato de pH.
+A cor muda com a luz, a idade do repolho e a quantidade de extrato.
+Observe sempre sobre fundo branco e compare com o extrato puro.
+Nunca teste alvejante, água sanitária, desinfetante ou produto com cloro.
+Se esses produtos encontrarem um ácido, liberam gás cloro: irritam os
+pulmões e podem matar. Nunca misture produtos de limpeza.
+Não beba o extrato nem os líquidos testados. Lave as mãos ao terminar.
+Respingos de ácido ou base irritam olhos e pele: use luvas e óculos.
+Ao sentir ardência nos olhos ou tosse, vá para o ar livre imediatamente.
+Lave os olhos e a pele com água corrente e procure ajuda médica.
+
+SE NAO TIVER
+------------
+Sem repolho roxo, use couve-roxa, mirtilo, hibisco ou casca de romã.
+Todas têm antocianina, mas a escala de cores pode ser diferente.
+Sem saco plástico, amasse as folhas na peneira com a colher e coe.
+Sem água limpa, não improvise com água suspeita: o resultado engana.
+Sem papel branco, use qualquer superfície clara e plana.
+Com cúrcuma (açafrão-da-terra), o amarelo vira vermelho em meio básico.
+A cúrcuma serve só para ácidos e bases fortes, não para a escala completa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O extrato puro ficou azul-escuro ou roxo antes dos testes.
+No copo com vinagre, a cor virou rosa ou vermelha.
+No copo com bicarbonato, a cor virou verde ou azul-clara.
+Cada amostra produziu uma cor estável, vista sobre o fundo branco.
+
+FONTES
+------
+American Chemical Society (ACS), atividade Red Cabbage Indicator: preparo
+do extrato em saco plástico e escala de cores, consultada nesta revisão.
+Sociedade Brasileira de Química, caderno QNEsc, e artigo de indicadores
+naturais de pH na revista Química Nova (SciELO): antocianinas do repolho.
+Centers for Disease Control and Prevention (CDC) e Washington State
+Department of Health: nunca misturar água sanitária com ácidos ou amônia.

@@ -1,0 +1,93 @@
+==============================================================================
+CODIGO: 68-022
+TITULO: Como transmitir dados por radiofrequência dentro das normas
+CATEGORIA: 68 - Radiofrequência e telecomunicações
+TEMPO: 45 minutos
+RISCO: alto
+EXIGE: transmissor, antena adequada, energia, acesso ao plano de frequências
+REVISAO: 2026-11
+PALAVRAS-CHAVE: rádio, dados, frequência, Anatel, licença, espectro
+==============================================================================
+
+OBJETIVO
+--------
+Transmitir dados por rádio dentro da faixa permitida e da autorização
+exigida, sem interferir outros serviços.
+
+QUANDO USAR
+-----------
+Quando precisa enviar dados por rádio sem cobertura de celular.
+Quando vai instalar um enlace de dados entre dois pontos fixos.
+Quando vai operar em faixa que exige autorização da Anatel.
+Quando precisa confirmar se a faixa escolhida permite transmissão de dados.
+Quando há rádios de emergência ou aviação nas proximidades.
+
+NAO USE QUANDO
+--------------
+Não use para implantar serviço de telecomunicações ou radiodifusão sem
+outorga formal.
+Não use em faixas de socorro, aviação, navegação, defesa ou serviço público.
+Não use para burlar limite de potência ou de banda do equipamento.
+Não use sem saber qual faixa e qual autorização valem no seu país.
+
+MATERIAIS
+---------
+- Transmissor de rádio com controle de frequência e de potência.
+- Antena adequada à faixa escolhida (a do próprio aparelho, se servir).
+- Fonte de energia estável (bateria ou alimentação do veículo).
+- Cópia atual do plano de frequências e das normas da Anatel.
+- Caderno e lápis para anotar frequência, potência e horário.
+- Receptor ou medidor para conferir o sinal (opcional).
+
+PROCEDIMENTO
+------------
+1. Defina o que vai enviar: volume de dados, distância e periodicidade.
+2. Anote a faixa de frequência que o equipamento consegue operar.
+3. Consulte o plano de frequências vigente da Anatel para essa faixa.
+4. Confirme se a faixa permite transmissão de dados no seu país.
+5. Verifique se a faixa é de uso livre ou exige autorização de estação.
+6. Se exigir autorização, obtenha a licença antes de ligar o transmissor.
+7. Escolha canal dentro da faixa permitida e anote a frequência central.
+8. Ajuste a potência no menor valor que completa o enlace.
+9. Respeite o limite de potência e de banda do equipamento e da norma.
+10. Conecte a antena adequada à faixa antes de energizar o transmissor.
+11. Faça um teste curto, com potência mínima, observando a faixa.
+12. Observe se rádios próximos apresentam chiado ou perda de sinal.
+13. Registre no caderno frequência, potência, data e horário do teste.
+14. Pare o teste se surgir qualquer interferência; reajuste e repita.
+15. Só inicie o envio dos dados após confirmar que nada foi interferido.
+
+ATENCAO
+-------
+Transmitir fora da faixa permitida é infração e sujeita a operador a sanção.
+Interferir em comunicação de socorro é crime e pode matar quem pede ajuda.
+Nunca opere em faixas de emergência, aviação, navegação ou defesa.
+Potência alta e antena errada aumentam o alcance e a interferência.
+O procedimento não substitui projeto técnico nem licença da Anatel.
+Normas e atribuições mudam: confirme a versão vigente antes de operar.
+Pare imediatamente se alguém relatar ruído em rádio de emergência.
+Procure a Anatel ou técnico habilitado se houver dúvida sobre a faixa.
+
+SE NAO TIVER
+------------
+Sem acesso ao plano de frequências, não transmita por conta própria.
+Use só equipamento de uso livre conforme o manual, na potência de fábrica.
+Sem autorização, limite-se a receptores ou a equipamentos dispensados dela.
+Sem medidor, use potência mínima e peça confirmação de outro rádio.
+Na dúvida, não opere: falta de informação não autoriza a transmissão.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A frequência e a potência anotadas conferem com a norma consultada.
+O receptor na distância pretendida recebe os dados sem erros.
+Nenhum rádio próximo apresenta ruído, chiado ou queda de sinal.
+Não houve aviso de interferência de emergência, aviação ou navegação.
+
+FONTES
+------
+Agência Nacional de Telecomunicações (Anatel): plano de frequências,
+autorização de estação e fiscalização do espectro, consultados em 2026-11.
+Regulamento de Radiocomunicações da União Internacional de Telecomunicações
+(UIT), proteção a serviços de socorro e radiocomunicações de emergência.
+Manual do fabricante do transmissor, para potência e banda do equipamento.
+Resumo operacional; não substitui a norma vigente nem treinamento.

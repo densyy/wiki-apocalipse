@@ -1,0 +1,85 @@
+==============================================================================
+CODIGO: 08-062
+TITULO: Como construir uma prensa mecânica
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 120 minutos
+RISCO: alto
+EXIGE: madeira dura, serra, broca, barra roscada com porca, alavanca, óculos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: prensa, parafuso, madeira, esmagar, óleo, suco, alavanca
+==============================================================================
+
+OBJETIVO
+--------
+Construir uma prensa de parafuso com moldura de madeira para esmagar frutas
+e sementes ou dobrar peças pequenas sem energia elétrica.
+
+QUANDO USAR
+-----------
+Quando precisar extrair suco de frutas ou óleo de sementes sem máquina.
+Quando faltar prensa para dobrar chapas finas ou assentar juntas.
+Quando o trabalho precisa de força gradual e controlada à mão.
+
+NAO USE QUANDO
+--------------
+Não use para levantar carga, tensionar molas ou prensar metal espesso.
+A madeira e a rosca não têm capacidade de carga calculada.
+
+MATERIAIS
+---------
+- Madeira dura, seca e sã: base, duas colunas, travessa e placa do êmbolo.
+- Barra roscada com porca e arruelas (ou parafuso de madeira entalhado).
+- Barra de ferro ou madeira dura para a alavanca de girar.
+- Serra, faca, broca ou cinzel, martelo e lixa.
+- Cesto rígido ou saco de pano resistente para o material.
+- Óculos de proteção e luvas.
+
+PROCEDIMENTO
+------------
+1. Serra a base com aproximadamente 40 cm de lado e 5 cm de espessura.
+2. Serra duas colunas com aproximadamente 50 cm de altura e 8 cm de seção.
+3. Fixe as colunas na base, uma em cada lado, com cavilhas ou parafusos.
+4. Serra a travessa com aproximadamente 50 cm e prenda no topo das colunas.
+5. Faça um furo passante no centro da travessa do diâmetro da barra.
+6. Encaixe a porca no furo da travessa, firme, sem poder girar.
+7. Serra a barra roscada com aproximadamente 60 cm de comprimento.
+8. Passe a barra pela porca, de cima para baixo.
+9. Faça um furo na ponta superior da barra e enfie a alavanca.
+10. Apoie a placa do êmbolo solta na ponta inferior, sem prender.
+11. Coloque o material centralizado sob o êmbolo, no cesto ou entre placas.
+12. Gire a alavanca devagar, com as mãos fora da área de esmagamento.
+13. Pare ao sentir resistência firme; nunca dê tranco para apertar mais.
+14. Recue a alavanca meia volta antes de retirar o material.
+
+ATENCAO
+-------
+A força da rosca esmaga dedos e mãos: nunca ponha as mãos sob o êmbolo.
+A barra, a porca ou a madeira podem quebrar e projetar pedaços; use óculos.
+Não use se a madeira estiver rachada, úmida ou podre, ou com rosca gasta.
+A prensa não tem capacidade de carga calculada: use só em trabalho leve.
+Nunca deixe a peça presa sob pressão sem vigilância; descarregue ao parar.
+Pare se a estrutura ranger, entortar ou a rosca travar; desmonte e refaça.
+Não prensar material volátil ou inflamável: atrito e pressão podem inflamar.
+
+SE NAO TIVER
+------------
+Sem barra roscada, entalhe parafuso de madeira dura com faca e cinzel.
+A força é menor e a rosca desgasta rápido: inspecione a cada uso.
+Sem serra, corte com faca e cunhas, deixando as peças mais robustas.
+Sem cesto, use um saco de pano resistente ou duas placas de madeira.
+Com alavanca curta, use uma barra de madeira dura mais longa para girar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A moldura fica imóvel e nivelada sob carga, sem rangidos ou entortamento.
+A placa do êmbolo desce reta, sem girar, e o material sai esmagado.
+A barra gira com esforço constante e a porca não solta do lugar.
+
+FONTES
+------
+Prática consolidada de prensas manuais de parafuso e alavanca; princípio da
+vantagem mecânica da rosca.
+FAO, Method to extract coconut oil: ram press (2006), sobre prensas
+manuais usadas para esmagar sementes.
+OSHA, Machine Guarding eTool: Mechanical Power Presses, sobre esmagamento,
+energia armazenada e proteção dos pontos de operação.

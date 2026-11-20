@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 03-053
+TITULO: Como reconhecer acidente vascular cerebral (AVC)
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 5 minutos
+RISCO: critico
+EXIGE: relógio ou celular para anotar a hora de início
+REVISAO: 2026-11
+PALAVRAS-CHAVE: avc, derrame, rosto caído, braço fraco, fala enrolada, 192
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer os sinais do AVC (acidente vascular cerebral) cedo e
+acionar o socorro nos primeiros minutos.
+
+QUANDO USAR
+-----------
+Quando os sintomas aparecem de repente, em minutos.
+Quando um lado do rosto cai ou um braço perde a força.
+Quando a fala fica enrolada ou a pessoa não entende o que você diz.
+Quando há visão dupla, perda de visão ou dor de cabeça muito forte.
+Quando a pessoa cambaleia, perde o equilíbrio ou fica confusa.
+Quando os sintomas melhoram sozinhos depois de minutos.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para este procedimento.
+Não espere os sintomas passarem para decidir.
+Não use este reconhecimento como substituto de atendimento médico.
+
+MATERIAIS
+---------
+- Relógio ou celular para anotar a hora de início.
+- Papel e caneta para registrar os sinais (opcional).
+- Lanterna ou luz do dia para ver o rosto (opcional).
+
+PROCEDIMENTO
+------------
+1. Garanta que o local é seguro antes de se aproximar.
+2. Observe se os sintomas começaram de repente.
+3. Anote a hora em que os sintomas começaram.
+4. Pergunte quando a pessoa foi vista bem pela última vez.
+5. Peça para a pessoa sorrir.
+6. Veja se um lado do rosto caiu ou ficou sem sensibilidade.
+7. Peça para estender os dois braços à frente.
+8. Veja se um braço desce sozinho ou não sobe.
+9. Peça para repetir uma frase curta, como "hoje faz sol".
+10. Veja se a fala fica enrolada, arrastada ou sem sentido.
+11. Pergunte se a pessoa entende o que você fala.
+12. Pergunte se ela vê bem dos dois olhos.
+13. Veja se apareceu visão dupla ou perda de visão de repente.
+14. Pergunte se sente formigamento, sensação de alfinetes.
+15. Pergunte se há fraqueza em um lado do corpo.
+16. Observe se ela cambaleia ou não consegue ficar em pé.
+17. Pergunte se a dor de cabeça é súbita, forte e sem causa.
+18. Ligue 192 (SAMU) ou 193 (Bombeiros) se houver qualquer sinal.
+19. Informe a hora de início e os sinais que você viu.
+20. Deite a pessoa de lado se ela vomitar ou perder a consciência.
+21. Se ela não respirar, inicie RCP (veja 03-002 e 03-003).
+
+ATENCAO
+-------
+AVC pode matar ou deixar sequela permanente. Cada minuto conta.
+Este texto ensina a reconhecer; ele não trata o AVC.
+Um único sinal já basta para ligar 192. Não espere reunir todos.
+Mesmo que os sintomas passem em minutos, procure atendimento:
+pode ser um AIT (acidente isquêmico transitório), aviso de AVC maior.
+Não dirija até o hospital. A ambulância inicia o atendimento no caminho.
+Não dê aspirina, outro remédio, comida ou bebida: o AVC pode ser
+hemorrágico e qualquer remédio pode piorar.
+Não fure o dedo, não massageie e não aplique pressão.
+Idosos, pessoas com diabetes e mulheres podem ter sinais discretos.
+Dor de cabeça súbita muito forte, fala enrolada ou perda de visão
+são emergência imediata.
+
+SE NAO TIVER
+------------
+Sem relógio: anote a hora aproximada e diga "cerca de".
+Sem celular: peça a outra pessoa para ligar 192 correndo.
+Sem ajuda: ligue e mantenha a pessoa deitada, sem comida ou bebida.
+Sem luz: use a luz do dia para ver se um lado do rosto caiu.
+Sem saber a hora: informe quando a pessoa foi vista bem por último.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue dizer quais sinais viu e quando eles começaram.
+O socorro foi acionado sem esperar os sintomas melhorarem.
+A hora de início foi informada ao atendimento.
+A pessoa não recebeu comida, bebida nem remédio.
+A respiração foi verificada e o socorro está a caminho.
+
+FONTES
+------
+Ministério da Saúde do Brasil: página "AVC" (Saúde de A a Z), sinais
+de alerta e orientação de ligar 192 ou 193.
+CDC (Estados Unidos): sinais de AVC e B.E. F.A.S.T., 2026.
+American Stroke Association: "Stroke Symptoms", B.E. F.A.S.T. e AIT, 2026.
+Texto operacional; não substitui treinamento ou avaliação médica.

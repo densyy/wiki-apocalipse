@@ -1,0 +1,74 @@
+==============================================================================
+CODIGO: 51-004
+TITULO: Como calcular porcentagens mentalmente
+CATEGORIA: 51 - Matemática aplicada à sobrevivência
+TEMPO: 10 minutos
+RISCO: baixo
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: porcentagem, percentual, por cento, desconto, juros, mente
+==============================================================================
+
+OBJETIVO
+--------
+Calcular porcentagens, descontos e taxas sem papel, calculadora ou internet.
+
+QUANDO USAR
+-----------
+Ao conferir troco e desconto na compra de suprimentos.
+Ao estimar juros, taxa ou imposto sobre um valor combinado.
+Ao calcular perda, rendimento ou proporcao de uma mistura.
+Ao dividir racao ou repartir custo entre varias pessoas.
+Ao conferir se o preco anunciado bate com o valor final cobrado.
+
+NAO USE QUANDO
+--------------
+Quando o valor exato afetar saude, dose de remedio ou seguranca de obra.
+Nesses casos, use papel, calculadora ou confirme o numero por escrito.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Entenda que por cento significa por cada cem partes.
+2. Para 10 por cento, divida o valor por 10, movendo a virgula.
+3. Para 1 por cento, divida o valor por 100, movendo a virgula duas vezes.
+4. Para 5 por cento, calcule 10 por cento e divida o resultado por 2.
+5. Para 50 por cento, divida o valor por 2; para 25 por cento, por 4.
+6. Para 20 por cento, some 10 por cento duas vezes.
+7. Some partes para obter outras taxas: 15 por cento e 10 mais 5.
+8. Troque a ordem quando ajudar: 8 por cento de 50 e 50 de 8.
+9. Arredonde o valor, calcule a taxa e depois corrija a diferenca.
+10. Para desconto, calcule a taxa e subtraia do valor total.
+11. Para aumento, calcule a taxa e some ao valor total.
+12. Confira o resultado com uma estimativa simples feita antes.
+
+ATENCAO
+-------
+Conta mental erra mais com pressa, fome, frio ou cansaço.
+Nao use estimativa para dose de remédio nem para medida de obra.
+Nao use para definir carga de corda, altura ou área de telhado.
+Arredondar demais pode afastar o resultado do valor real.
+Sempre confira o resultado com uma estimativa antes de agir.
+Se o numero mental destoar da estimativa, pare e refaca em papel.
+Em duvida sobre dinheiro ou seguranca, confirme com outra pessoa.
+
+SE NAO TIVER
+------------
+Sem papel, use os dedos para contar quantas vezes somou 10 por cento.
+Sem prática, comece sempre pelo 10 por cento e construa a partir dele.
+Sem confiança, arredonde o valor, calcule e depois ajuste a diferenca.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O resultado fica perto da estimativa feita antes do calculo.
+A conta inversa confirma: 10 por cento de 200 e 20, e 20 e 10 de 200.
+Somar o desconto ao valor pago devolve o valor original.
+
+FONTES
+------
+Prática consolidada de cálculo mental e aritmética básica.
+Não há documento único; os truques são regras aritméticas padrão,
+não números ou limites inventados.

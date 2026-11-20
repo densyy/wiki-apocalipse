@@ -1,0 +1,78 @@
+==============================================================================
+CODIGO: 71-004
+TITULO: Como funcionam funções de hash
+CATEGORIA: 71 - Criptografia, segurança da informação e privacidade
+TEMPO: 20 minutos
+RISCO: medio
+EXIGE: computador com ferramenta que calcule resumos criptográficos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: hash, resumo, sha, integridade, senha, sal, md5
+==============================================================================
+
+OBJETIVO
+--------
+Entender o que um hash calcula e distinguir uso seguro de uso inseguro.
+
+QUANDO USAR
+-----------
+- Quando precisa conferir se um arquivo chegou intacto.
+- Quando precisa guardar senhas sem guardar a senha em claro.
+- Quando precisa comparar dois textos longos sem mostrar o texto.
+- Quando precisa achar arquivos duplicados ou alterados.
+
+NAO USE QUANDO
+--------------
+- Para esconder conteúdo: hash não é cifra e não tem volta.
+- Para guardar senha com MD5, SHA-1 ou SHA-256 puro.
+- Para assinar sozinho, sem uma chave secreta.
+- Quando precisar recuperar o dado original a partir do resumo.
+
+MATERIAIS
+---------
+- Computador ou celular com ferramenta de resumo criptográfico.
+- O arquivo ou texto que será conferido.
+- O resumo esperado, enviado por quem entregou o arquivo.
+
+PROCEDIMENTO
+------------
+1. Aceite a regra: o mesmo texto gera sempre o mesmo resumo.
+2. Mude uma única letra e calcule de novo: o resumo muda todo.
+3. Escolha SHA-256 ou SHA-3 para conferir arquivos.
+4. Não use MD5 nem SHA-1 para conferência de segurança.
+5. Calcule o resumo do arquivo recebido na sua ferramenta.
+6. Compare com o resumo enviado, caractere por caractere.
+7. Se forem iguais, o arquivo não mudou no caminho.
+8. Para senha, não guarde o resumo simples do texto.
+9. Use PBKDF2 com sal e custo alto ao guardar senhas.
+10. Guarde o sal usado junto com cada resumo de senha.
+
+ATENCAO
+-------
+O resumo não é cifra: não esconde nem recupera o texto original.
+Hash de senha sem sal permite quebrar muitas senhas de uma vez.
+MD5 e SHA-1 têm colisões conhecidas: textos diferentes podem dar
+o mesmo resumo. NIST desaconselha SHA-1 desde 2011 e barrou seu uso
+em assinaturas digitais a partir de 2013.
+Se o resumo vier pelo mesmo canal do arquivo, a conferência prova
+pouco: quem alterou o arquivo pode alterar o resumo também.
+Guarde o sal de cada senha; sem ele a comparação não funciona.
+
+SE NAO TIVER
+------------
+Sem ferramenta de resumo, peça o arquivo por outro canal e confira
+de novo. Sem PBKDF2, use uma biblioteca de senhas reconhecida, não
+uma função caseira. Não substitua por MD5 para ganhar tempo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O resumo calculado é igual ao recebido, com o mesmo algoritmo.
+A senha ficou guardada como resumo com sal, nunca como texto puro.
+
+FONTES
+------
+NIST FIPS 180-4 (Secure Hash Standard) e FIPS 202 (SHA-3): definem
+a família SHA e as propriedades de resistência a colisão.
+NIST SP 800-63B (Digital Identity Guidelines, 2017, atualizado em
+2020), seção 5.1.1.2: sal e função lenta para guardar senhas.
+Esse documento foi superado por SP 800-63-4 em 2025; a orientação
+sobre hash de senha citada aqui é a do SP 800-63B consultado.

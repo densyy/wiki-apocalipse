@@ -1,0 +1,97 @@
+==============================================================================
+CODIGO: 61-002
+TITULO: Como identificar espécies arbóreas de interesse econômico
+CATEGORIA: 61 - Agricultura florestal e manejo de ecossistemas
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: caderno, lápis, lupa de 10 aumentos, faca, luvas, régua, corda
+REVISAO: 2026-11
+PALAVRAS-CHAVE: árvore, espécie, madeira, folha, casca, fruto, nome
+==============================================================================
+
+OBJETIVO
+--------
+Nomear uma árvore ou uma madeira com base em caracteres visíveis e
+reconhecer quando a identificação não é confiável.
+
+QUANDO USAR
+-----------
+Ao levantar as árvores de um terreno antes de decidir o que plantar.
+Ao escolher mudas ou sementes de espécies de valor para a região.
+Ao receber madeira e conferir se o nome comercial está correto.
+Ao procurar na vizinhança uma espécie nativa para coleta de sementes.
+Quando alguém oferecer fruto, resina ou casca de árvore desconhecida.
+
+NAO USE QUANDO
+--------------
+Não use este guia para decidir se fruto, folha ou casca são comestíveis.
+Não use para liberar corte de árvore nativa sem autorização ambiental.
+Não substitui chave técnica regional, exame de laboratório ou laudo.
+
+MATERIAIS
+---------
+- Caderno e lápis para anotar cada caractere observado.
+- Lupa de 10 aumentos e faca limpa para ver a casca interna.
+- Luvas grossas e pano para limpar a ferramenta.
+- Régua ou trena, e corda para medir a volta do tronco.
+- Chave de identificação impressa da região onde você está.
+
+PROCEDIMENTO
+------------
+1. Observe a árvore inteira de longe e anote porte e forma da copa.
+2. Anote se a folhagem é sempre-verde ou cai na estação seca.
+3. Meça a volta do tronco a 1,30 m do solo com a corda esticada.
+4. Anote a volta dividida por três como diâmetro aproximado.
+5. Observe a casca externa: cor, fissuras, placas ou espinhos.
+6. Calce as luvas antes de tocar seiva, resina ou fruto.
+7. Com a faca, faça um corte raso na casca a 1,30 m do solo.
+8. Observe a cor da casca interna e o cheiro da seiva; lave a faca.
+9. Observe as folhas: alternas, opostas ou em espiral.
+10. Verifique se a folha é simples ou dividida em folíolos.
+11. Meça uma folha madura: tamanho, formato e margem.
+12. Esfregue a folha com a luva e anote textura e cheiro.
+13. Procure fruto, flor ou semente na copa ou no chão.
+14. Anote o formato, o tamanho e a cor do que encontrou.
+15. Siga a chave regional só com o que você viu, sem adivinhar.
+16. Confira o nome em uma segunda fonte da mesma região.
+17. Anote nome, local, data e grau de certeza no caderno.
+18. Pare e escreva "não identificado" se duas características brigarem.
+
+ATENCAO
+-------
+Espécies diferentes têm folhas parecidas, e a mesma muda com a idade,
+o solo e a estação: uma característica só nunca basta.
+Nunca coma fruto, folha, casca ou seiva com base apenas neste guia.
+Seiva leitosa desconhecida pode ser tóxica; use luvas e proteja os olhos.
+Em contato com seiva ou resina, lave com água corrente por bastante tempo.
+Não corte árvore nativa sem autorização: a lei exige cadastro e permissão.
+Espécies raras ou imunes ao corte têm proteção legal; engano vira autuação.
+Nome comum não é identificação: o mesmo nome vale para espécies diferentes.
+Na dúvida entre duas espécies, pare e peça laudo a profissional.
+
+SE NAO TIVER
+------------
+Sem lupa, observe a olho nu e anote só o que estiver claro.
+Sem faca, use um galho já quebrado para ver a casca interna.
+Sem luvas, não toque seiva, resina nem fruto desconhecido.
+Sem chave da região, descreva a árvore e peça ajuda em viveiro ou
+herbário local.
+Sem régua, compare com a mão e marque a medida como aproximada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você anotou pelo menos quatro caracteres, entre folha, casca e fruto.
+As anotações conferem com a chave e com uma segunda fonte da região.
+O caderno traz nome, local, data e grau de certeza.
+Se faltar algum sinal, a identificação não está confirmada.
+
+FONTES
+------
+Coleção "Espécies Arbóreas Brasileiras", Paulo Ernani Ramalho Carvalho,
+Embrapa Florestas: porte, DAP a 1,30 m, casca, folhas, frutos e afins.
+Chave Interativa de Identificação de Madeiras Comerciais do Brasil,
+Serviço Florestal Brasileiro: caracteres macroscópicos e lupa de 10x.
+"Identificação macroscópica de madeiras: guia prático", Embrapa.
+Lei nº 12.651/2012, Código Florestal, e orientações do Ibama sobre
+autorização para explorar vegetação nativa.
+Resumo operacional: não substitui chave regional nem laudo técnico.

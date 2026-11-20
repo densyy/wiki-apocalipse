@@ -1,0 +1,90 @@
+==============================================================================
+CODIGO: 02-086
+TITULO: Como construir um galinheiro
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 2 dias
+RISCO: medio
+EXIGE: madeira ou estacas, telha ou palha, tela, pregos, serra, martelo, pá
+REVISAO: 2026-11
+PALAVRAS-CHAVE: galinheiro, aviário, galinha, ninho, poleiro, tela, cama
+==============================================================================
+
+OBJETIVO
+--------
+Montar abrigo seco, ventilado e fechado para galinhas dormirem e botarem.
+
+QUANDO USAR
+-----------
+Quando as aves dormem no chão, em árvores ou soltas no quintal.
+Quando não há proteção contra chuva, sol e predadores.
+
+NAO USE QUANDO
+--------------
+Não construa em área alagada, barranco ou encosta íngreme.
+Não use onde o solo tenha cheiro de esgoto, óleo ou agrotóxico.
+
+MATERIAIS
+---------
+- Estacas, madeira roliça ou tábuas para a estrutura.
+- Telha de cerâmica, palha de coqueiro ou lona para a cobertura.
+- Tela de arame de malha pequena, de aproximadamente 2,5 cm.
+- Pregos, arame ou corda; serra, martelo, pá e trena.
+- Palha seca, maravalha, serragem ou casca de arroz para a cama.
+- Tábua para ninhos, varas para poleiros, bebedouro e comedouro.
+
+PROCEDIMENTO
+------------
+1. Escolha terreno seco, arenoso, com leve declive e perto de água.
+2. Fique a aproximadamente 30 a 50 m da casa, fora da direção do vento.
+3. Alinhe o galinheiro no sentido leste-oeste, com a cumeeira nesse eixo.
+4. Reserve aproximadamente 1 metro quadrado para cada 5 galinhas adultas.
+5. Marque o retângulo com estacas e corda e levante o piso 10 a 20 cm.
+6. Fixe estacas e tábuas formando paredes e mureta de 30 cm na base.
+7. Prenda a tela acima da mureta até o telhado, sem deixar frestas.
+8. Enterre a borda inferior da tela onde predadores possam cavar.
+9. Cubra com telha ou palha e deixe beiral de aproximadamente 1 metro.
+10. Abra saídas laterais para ventilação e passe a portinhola do piquete.
+11. Espalhe cama de aproximadamente 5 a 8 cm de espessura sobre o piso.
+12. Prenda poleiros de 5 por 5 cm, topo arredondado, a 40 a 60 cm do piso.
+13. Deixe aproximadamente 25 cm de poleiro por galinha adulta.
+14. Monte um ninho para cada 4 aves, com aproximadamente 30 por 35 cm.
+15. Coloque borda de 10 a 15 cm, forre com palha e abra para fora.
+16. Pendure comedouro e bebedouro na altura do dorso das aves.
+17. Cerque o piquete: aproximadamente 1 m de tela e 3 m2 por galinha.
+
+ATENCAO
+-------
+Tela frouxa, emenda aberta ou espaço por baixo deixa predadores entrarem.
+Quatis, mão-peladas e gatos passam por frestas; raposas e cães cavam.
+Cama molhada gera amônia e doença respiratória: troque-a quando umedecer.
+Nunca deixe o bebedouro vazar sobre a cama nem as aves beberem de poças.
+Sem sombra e ventilação, as galinhas sofrem com o calor do meio-dia.
+Pregos e pontas de madeira ferem: dobre ou lixe as pontas antes de usar.
+Galpão lotado aumenta brigas e mortes: no máximo 7 aves por m2. As fontes
+divergem de 5 a 8 aves por metro quadrado; adote a mais espaçosa.
+
+SE NAO TIVER
+------------
+Sem tela, use varas de bambu bem amarradas, uma junto da outra.
+Feche as frestas: predador pequeno passa por espaço muito estreito.
+Sem telha, use palha de coqueiro ou lona com emendas sobrepostas.
+Sem maravalha, use casca de arroz, capim seco ou folhas secas limpas.
+Nunca use palha mofada ou material com cheiro de veneno.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O interior fica seco, sem poças e sem cheiro forte de amônia.
+A tela não tem buraco nem vão por baixo e a cama fica fofa.
+As galinhas entram à noite e botam dentro dos ninhos.
+
+FONTES
+------
+Embrapa Meio-Norte, "Aviários para Galinhas Caipiras", 2018: poleiro de
+23 a 25 cm por ave, ninho de 30 por 35 cm para 4 aves, mureta de 30 cm.
+Embrapa, "Criação de galinhas caipiras", 2007: local a 30 a 50 m da casa,
+terreno arenoso com declive, piso elevado, cerca de 3 m2 por ave.
+EMATER-Pará e EMATER-MG, manuais de avicultura caipira, 2023: ninho 1:4,
+poleiro a 40 a 60 cm, densidade de 5 a 8 aves por metro quadrado.
+Ministério da Agricultura, manual de bem-estar de poedeiras, 2021: tela
+no perímetro e cama seca. ICMBio-Cenap, guia de predadores: tela presa
+ao chão e sem frestas.

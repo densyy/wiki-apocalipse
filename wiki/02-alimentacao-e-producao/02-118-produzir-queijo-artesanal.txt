@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 02-118
+TITULO: Como produzir queijo artesanal
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: leite, fogo, termômetro, pano limpo, sal, coalho ou iogurte, frio
+REVISAO: 2026-11
+PALAVRAS-CHAVE: queijo, leite, coalho, pasteurizar, iogurte, soro, sal
+==============================================================================
+
+OBJETIVO
+--------
+Transformar leite pasteurizado em queijo fresco firme, salgado e seguro.
+
+QUANDO USAR
+-----------
+Quando houver leite fresco de vaca, cabra ou ovelha em quantidade.
+Quando o leite esteja prestes a azedar e precise ser aproveitado.
+Quando faltar comida durável e houver sal, fogo e um pote limpo.
+Quando houver geladeira ou local fresco para guardar o queijo.
+
+NAO USE QUANDO
+--------------
+Não use leite de animal doente, com cheiro, cor ou muco estranhos.
+Não use leite cru se não puder ferver e medir a temperatura.
+Não faça sem frio: queijo fresco estraga depressa no calor.
+Não use se não houver pano limpo e panela que possa ser fervida.
+Não tente guardar por semanas sem sal e sem geladeira.
+Não use leite com resíduo de antibiótico: o fermento não atua.
+
+MATERIAIS
+---------
+- Leite inteiro fresco de vaca, cabra ou ovelha (2 litros).
+- Sal de cozinha sem iodo (sal grosso moído na hora).
+- Coalho ou iogurte natural sem açúcar como fermento.
+- Termômetro de cozinha (colher limpa para testar o calor).
+- Panela funda de inox ou esmalte (nunca alumínio ou ferro).
+- Pano limpo de algodão ou gaze (pano de prato recém-lavado).
+- Peneira forrada com o pano limpo.
+- Colher de pau ou de inox e uma tigela limpa.
+- Recipiente limpo com tampa para guardar na geladeira.
+
+PROCEDIMENTO
+------------
+1. Lave as mãos com água e sabão antes de começar.
+2. Ferva a colher, a tigela e o pano por 5 minutos.
+3. Despeje o leite na panela e aqueça em fogo baixo, mexendo sempre.
+4. Leve o leite a aproximadamente 72 graus e mantenha por 15 segundos.
+5. Retire do fogo e esfrie até aproximadamente 35 a 40 graus.
+6. Dissolva o coalho ou o iogurte numa colher desse leite morno.
+7. Despeje o fermento na panela e mexa por alguns segundos.
+8. Tampe e deixe em local morno por aproximadamente 1 hora, sem mexer.
+9. Confira se virou coalhada firme com soro amarelado por cima.
+10. Corte a coalhada em cubos com a colher para o soro subir.
+11. Forre a peneira com o pano limpo e despeje a coalhada.
+12. Deixe escorrer por aproximadamente 30 minutos em local fresco.
+13. Polvilhe aproximadamente 15 g de sal por litro de leite usado.
+14. Misture o sal na massa com a colher limpa, sem apertar demais.
+15. Coloque no recipiente com tampa e guarde na geladeira.
+16. Coma em poucos dias; sem geladeira, coma no mesmo dia.
+
+ATENCAO
+-------
+Leite cru pode conter Listeria, Salmonella, E. coli e Brucella.
+A pasteurização mata esses germes; não pule essa etapa.
+Leite de animal com mastite passa bactérias e veneno para o queijo.
+Fermento caseiro pode estar contaminado: use iogurte industrial sem açúcar.
+Queijo fresco úmido e no calor cria mofo e bactérias em poucas horas.
+Soro escuro, cheiro podre, muco ou gás: jogue fora sem provar.
+Crianças menores de 5 anos, idosos, grávidas e doentes evitem leite cru.
+Diarréia, vômito ou febre após comer: procure atendimento médico.
+Não tente salvar queijo duvidoso cozinhando: algumas toxinas resistem.
+
+SE NAO TIVER
+------------
+Sem termômetro, aqueça até quase ferver e desligue antes das bolhas grandes.
+Sem coalho, use 2 colheres de iogurte natural sem açúcar por litro.
+Sem pano de algodão, use gaze limpa ou pano de prato recém-fervido.
+Sem geladeira, coma no mesmo dia e não guarde sobra alguma.
+Sem sal, não guarde: coma fresco e descarte o que sobrar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O leite forma coalhada firme que se corta e deixa soro amarelado.
+A massa fica branca, macia e sem cheiro azedo ou podre.
+Depois de escorrer, o queijo não pinga mais soro e aceita o sal.
+
+FONTES
+------
+CDC: "Raw Milk" (31 de janeiro de 2025): leite cru pode conter
+Campylobacter, Cryptosporidium, E. coli, Listeria, Brucella e Salmonella;
+crianças menores de 5 anos, idosos, grávidas e imunossuprimidos correm
+mais risco; conservar abaixo de 4 graus reduz o crescimento bacteriano.
+FDA: "The Dangers of Raw Milk" (2024): 202 surtos ligados a leite cru
+entre 1998 e 2018, com 2.645 casos e 228 hospitalizações; a pasteurização
+mata germes da listeriose, brucelose, febre tifóide e febre Q.
+Prática consolidada de queijaria caseira: coalhar com coalho ou iogurte,
+salgar e escorrer o soro. Temperaturas e tempos foram marcados como
+aproximados porque as fontes consultadas não trazem esses valores exatos.

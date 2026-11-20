@@ -1,0 +1,84 @@
+==============================================================================
+CODIGO: 04-005
+TITULO: Como conectar painéis solares em série
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: painéis iguais, cabos solares, controlador compatível
+REVISAO: 2026-11
+PALAVRAS-CHAVE: solar, painel, série, tensão, corrente, cabo
+==============================================================================
+
+OBJETIVO
+--------
+Somar a tensão de painéis iguais ligando um ao outro em cadeia.
+
+QUANDO USAR
+-----------
+Quando o controlador exigir tensão maior que a de um painel.
+Quando o inversor pedir tensão mínima mais alta para ligar.
+Quando os cabos forem longos e a perda precisar diminuir.
+Quando todos os painéis forem iguais e sem sombra parcial.
+
+NAO USE QUANDO
+--------------
+Se os painéis tiverem potência ou corrente diferentes.
+Se a soma das tensões passar do limite do controlador.
+Com conector molhado, cabo rachado ou painel quebrado.
+Sob chuva ou com as mãos molhadas nos conectores.
+
+MATERIAIS
+---------
+- Dois ou mais painéis iguais em potência e tensão.
+- Cabos solares para corrente contínua (4 mm2 aproximadamente).
+- Conectores compatíveis em bom estado (par sobressalente).
+- Multímetro ajustado para tensão contínua.
+- Controlador de carga ou inversor compatível.
+- Luvas isolantes secas e óculos de proteção (proteção).
+
+PROCEDIMENTO
+------------
+1. Cubra todos os painéis com pano opaco antes de tocar nos fios.
+2. Confira na etiqueta se tensão e corrente dos painéis são iguais.
+3. Some a tensão de circuito aberto de todos os painéis.
+4. Confirme que a soma fica abaixo do limite do controlador.
+5. Posicione os painéis lado a lado sem pisar sobre o vidro.
+6. Ligue o positivo de um painel ao negativo do painel seguinte.
+7. Repita a ligação até formar uma única cadeia em fila.
+8. Deixe uma ponta positiva e uma ponta negativa livres no fim.
+9. Confira se cada conector fez clique e está firme e seco.
+10. Leve as duas pontas livres até o controlador ainda desligado.
+11. Respeite a polaridade marcada na entrada do controlador.
+12. Descubra os painéis e meça a tensão total com o multímetro.
+13. Compare a medida com a soma aproximada das etiquetas.
+14. Cubra tudo de novo se houver faísca, cheiro ou aquecimento.
+
+ATENCAO
+-------
+Tensão somada pode dar choque grave e queimar a pele.
+Arco de corrente contínua não apaga sozinho e inicia fogo.
+Nunca solte ou ligue conector com o sistema gerando energia.
+Cabo fino, folgado ou emendado esquenta e pode incendiar.
+Painel gera energia mesmo com pouca luz; pano opaco protege.
+Se houver faísca, cheiro de queimado ou conector quente, pare.
+Este método não conserta painel quebrado, molhado ou queimado.
+
+SE NAO TIVER
+------------
+Sem multímetro, confira etiquetas e polaridade com atenção redobrada.
+Sem cabo solar, não use fio comum: ele resseca, funde e dá incêndio.
+Sem conector compatível, não emende com fita: refaça com peça certa.
+Sem painéis iguais, não faça a série: use só um painel por vez.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O multímetro mostra aproximadamente a soma das tensões.
+O controlador indica tensão de entrada dentro da faixa esperada.
+Nenhum conector esquenta, chia ou solta faísca ao sol pleno.
+
+FONTES
+------
+Manuais de instalação de módulos fotovoltaicos Elgin e Ronma Solar;
+manual do integrador fotovoltaico Fronius; requisitos de projeto de
+arranjos das normas ABNT NBR 16690 e IEC 62548; prática consolidada
+de segurança elétrica em corrente contínua.

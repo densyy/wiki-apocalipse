@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 05-017
+TITULO: Como fabricar tijolos de barro
+CATEGORIA: 05 - Abrigo, construção e habitação
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: barro argiloso, água, forma de madeira, sol para secar
+REVISAO: 2026-11
+PALAVRAS-CHAVE: tijolo, barro, adobe, construir, parede, forno
+==============================================================================
+
+OBJETIVO
+--------
+Fabricar tijolos de barro secos ao sol para erguer paredes simples.
+
+QUANDO USAR
+-----------
+Quando precisa de paredes baratas para abrigo, muro ou fogão.
+Quando há barro argiloso e sol forte por vários dias seguidos.
+NAO USE QUANDO
+-------------
+Em época de chuva seguida, sem dias de sol para a secagem.
+Para laje, viga ou base que sustenta peso: não aguenta carga.
+Em local alagadiço onde a parede fica com a base na água.
+
+MATERIAIS
+---------
+- Barro argiloso peneirado, sem pedras e raízes (terra comum).
+- Água limpa para amassar a massa (água de rio serve).
+- Areia grossa e palha seca picada para dar liga à massa.
+- Forma de madeira sem fundo de aproximadamente 20 x 10 x 8 cm.
+- Lona ou tábua limpa para moldar e secar os tijolos.
+
+PROCEDIMENTO
+------------
+1. Cave e descarte a camada escura com raízes da superfície.
+2. Peneire o barro e retire pedras, galhos e pedaços duros.
+3. Misture aproximadamente 3 partes de barro para 1 de areia.
+4. Junte um punhado de palha picada por balde de massa.
+5. Adicione água aos poucos e amasse até virar massa firme.
+6. Aperte um bolo na mão: deve manter a forma sem escorrer.
+7. Molhe a forma por dentro antes de cada moldagem.
+8. Encha a forma, aperte bem e nivele o topo com a mão.
+9. Desenforme com cuidado sobre a superfície plana de secagem.
+10. Seque ao sol por aproximadamente 7 dias, virando as peças.
+11. Recolha os tijolos só quando estiverem duros e sem umidade.
+
+ATENCAO
+-------
+Tijolo cru desmancha se molhar: nunca use sem secar por completo.
+Massa fraca esfarela e parede racha: refaça a mistura com liga.
+Trabalhe à sombra com água por perto e pare se passar mal.
+Tijolo de barro não sustenta laje nem viga: risco de desabamento.
+
+SE NAO TIVER
+------------
+Sem forma, molde com as mãos em blocos do mesmo tamanho.
+Sem palha, use capim seco picado ou esterco seco de gado.
+Sem lona, seque sobre tábuas, folhas secas ou chão varrido.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O tijolo sai duro, não esfarela e tilinta ao bater de leve.
+Derrubado de aproximadamente 1 m, ele não quebra nem trinca.
+
+FONTES
+------
+Prática consolidada de construção com terra crua e adobe
+(famílias de referência: FEMA, abrigo de emergência, Embrapa).

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 70-011
+TITULO: Como criar um sistema de versionamento de documentos
+CATEGORIA: 70 - Computação de baixo consumo e preservação digital
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: computador, dois meios de armazenamento, caderno
+REVISAO: 2026-11
+PALAVRAS-CHAVE: versão, documento, cópia, backup, integridade, arquivo
+==============================================================================
+
+OBJETIVO
+--------
+Guardar cópias numeradas de um documento para voltar a uma versão
+anterior quando a atual for apagada ou corrompida.
+
+QUANDO USAR
+-----------
+Quando listas, mapas ou registros importantes mudam com o tempo.
+Quando o computador pode desligar sem aviso ou ser compartilhado.
+Quando é preciso manter o histórico sem depender de internet.
+
+NAO USE QUANDO
+--------------
+Quando o documento é sigiloso e o meio de guarda não tem proteção.
+Sem um segundo meio, o sistema reduz perdas, mas não elimina o risco.
+
+MATERIAIS
+---------
+- Computador com o documento original e pasta exclusiva de versões.
+- Dois meios de guarda, como disco externo e pendrive.
+- Caderno e lápis para o registro manual.
+
+PROCEDIMENTO
+------------
+1. Crie uma pasta chamada versões dentro da pasta do documento.
+2. Dê ao documento um nome fixo, sem acentos nem espaços.
+3. Anote no caderno nome, data, número 001 e o que mudou.
+4. Copie o documento para a pasta de versões com esse número no nome.
+5. Use nome_v001.txt; aumente o número a cada mudança importante.
+6. Edite só o original; nunca altere uma cópia da pasta de versões.
+7. Gere um checksum local da cópia, se houver ferramenta, e anote-o.
+8. Copie a pasta de versões para os dois meios de guarda.
+9. Guarde um meio longe do outro e desconecte-os após copiar.
+10. Repita os passos 4 a 9 a cada nova versão do documento.
+
+ATENCAO
+-------
+Checksum é um código curto calculado a partir do conteúdo do arquivo.
+Ele detecta cópia corrompida, mas não prova autoria nem impede alteração.
+Uma só cópia no mesmo computador não protege contra falha do disco.
+Meios falham sem aviso: abra os arquivos e renove as cópias.
+
+SE NAO TIVER
+------------
+Sem checksum, use a numeração e o caderno; confira abrindo o arquivo.
+Sem segundo meio, guarde a cópia em outro aparelho, como um celular.
+Sem caderno, escreva o histórico em texto simples dentro da pasta.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A pasta tem arquivos com números crescentes e sem buracos.
+Cada número tem uma linha no caderno com data e descrição.
+Cada cópia externa abre e mostra o mesmo texto do original.
+
+FONTES
+------
+Prática consolidada de arquivamento e preservação digital. A regra das
+três cópias, dois meios e uma fora do local é difundida por agências
+de preservação; o código de integridade segue SHA, do NIST FIPS 180-4.

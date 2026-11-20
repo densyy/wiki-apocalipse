@@ -1,0 +1,91 @@
+==============================================================================
+CODIGO: 47-011
+TITULO: Como construir uma bomba de irrigação movida a vento
+CATEGORIA: 47 - Tecnologia agrícola e mecanização rural
+TEMPO: 2 dias
+RISCO: alto
+EXIGE: catavento e torre, bomba de pistão, caixa d água, 2 pessoas, capacete
+REVISAO: 2026-11
+PALAVRAS-CHAVE: catavento, bomba de água, vento, irrigação, poço, eólica
+==============================================================================
+
+OBJETIVO
+--------
+Montar e instalar um catavento que eleva água de poço ou cacimba
+para um reservatório, sem energia elétrica.
+
+QUANDO USAR
+-----------
+Quando há poço, cacimba ou açude com água e não há energia elétrica.
+Quando o terreno permite manter a caixa d água acima da área irrigada.
+Quando a região tem vento constante, mesmo fraco, na maior parte do ano.
+Para irrigar pequena área ou dar água a animais no período seco.
+
+NAO USE QUANDO
+--------------
+Quando não há duas pessoas, capacete e cinto para trabalhar em altura.
+Quando o catavento não tem frenagem ou mecanismo de viragem para o vento.
+Quando a água é salgada ou poluída: o catavento apenas move a água.
+
+MATERIAIS
+---------
+- Catavento multipás com cubo, pás, cauda e frenagem (ou kit pronto).
+- Torre metálica treliçada com base e estacas de ancoragem.
+- Bomba de pistão aspiro-premente com cilindro e válvulas.
+- Haste de bombeio e tubulação de subida com uniões.
+- Caixa d água elevada com registro e mangueira de distribuição.
+- Capacete, cinto de segurança, luvas e óculos.
+- Chaves, alicate, nível, fita métrica e corda.
+
+PROCEDIMENTO
+------------
+1. Meça a altura entre o nível da água e a boca da caixa d água.
+2. Confirme que a fonte tem água o ano inteiro, inclusive na seca.
+3. Escolha ponto livre, sem prédios nem árvores muito próximos.
+4. Mantenha obstáculos a aproximadamente 150 metros do catavento.
+5. Nivele o solo e fixe a base com estacas e concreto.
+6. Monte a torre treliçada e confira se ficou bem vertical.
+7. Aperte todos os parafusos e porcas da torre e da base.
+8. Fixe a cabeça do catavento no topo da torre.
+9. Instale a cauda e deixe o mecanismo de orientação girar livre.
+10. Teste a frenagem: em vento forte o rotor deve parar ou sair do vento.
+11. Desça o cilindro da bomba até ficar submerso, com filtro na ponta.
+12. Prenda a haste de bombeio ao virabrequim do catavento.
+13. Suba a tubulação até a caixa d água e aperte as uniões.
+14. Instale a caixa d água aproximadamente 6 metros acima do solo.
+15. Ligue a mangueira de saída ao registro da caixa d água.
+16. Afaste as pessoas, solte a frenagem e veja a água subir.
+17. Ajuste a mola da cauda até o rotor partir com vento fraco.
+
+ATENCAO
+-------
+Trabalho em altura pode matar: use capacete, cinto e nunca trabalhe sozinho.
+Antes de subir, acione a frenagem: o rotor em movimento corta dedos.
+Nunca fique sob a torre nem sob o rotor durante a montagem.
+Vento forte derruba torre mal ancorada: confira estacas e frenagem.
+O catavento não limpa a água; trate a água antes de beber (veja 01-001).
+Se a haste travar ou a caixa transbordar, freie o rotor e pare.
+Montar rotor e torre do zero exige cálculo; sem kit pronto, não improvise.
+
+SE NAO TIVER
+------------
+Sem catavento, bombeie com bomba manual até conseguir a peça.
+Sem torre metálica, não improvise com madeira podre: risco de queda.
+Sem caixa elevada, use reservatório no chão: a água não corre por
+gravidade e será preciso outro meio de distribuição.
+Sem frenagem, amarre o rotor com corda antes de subir e troque a peça.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O rotor gira com vento fraco e para quando a frenagem é acionada.
+Sai água pela tubulação e a caixa enche sem energia elétrica.
+A torre fica imóvel e nivelada depois de ventos fortes.
+A haste sobe e desce sem travar nem ranger.
+
+FONTES
+------
+Embrapa: cataventos no semiárido, vento mínimo e caixa elevada.
+USDA-NRCS: tabelas de capacidade e dimensionamento de moinhos de vento.
+Alberta Agriculture e governo da Colúmbia Britânica: torre e segurança.
+Windpump Handbook (TU Eindhoven/IRC): frenagem, torre e montagem.
+Manual de treinamento do Peace Corps sobre bombeamento eólico de água.

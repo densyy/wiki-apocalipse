@@ -1,0 +1,86 @@
+==============================================================================
+CODIGO: 53-015
+TITULO: Como consultar uma farmacopeia oficial
+CATEGORIA: 53 - Produção de medicamentos e farmacologia
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: farmacopeia oficial vigente, índice de monografias
+REVISAO: 2026-11
+PALAVRAS-CHAVE: farmacopeia, monografia, remédio, princípio ativo, pureza
+==============================================================================
+
+OBJETIVO
+--------
+Consultar a farmacopeia para confirmar identidade, pureza e teor do insumo.
+
+QUANDO USAR
+-----------
+Ao receber um lote de insumo e conferir se atende aos padrões de qualidade.
+Ao verificar a identidade de uma matéria-prima pelo nome e pela descrição.
+Ao checar os limites de impurezas e de metais pesados de um produto.
+Ao confirmar o teor do princípio ativo declarado no rótulo.
+Ao esclarecer um termo técnico de um ensaio farmacopeico.
+Ao comparar requisitos entre edições ou entre farmacopeias diferentes.
+
+NAO USE QUANDO
+--------------
+Não use para escolher remédio, dose ou tratamento de uma pessoa.
+Não substitui bula, prescrição nem orientação do farmacêutico.
+Não serve para calcular dose infantil nem preparar remédio em casa.
+Não use para provar eficácia: a farmacopeia julga qualidade, não cura.
+
+MATERIAIS
+---------
+- Farmacopeia oficial vigente, impressa ou em arquivo oficial.
+- Índice alfabético ou lista de monografias da obra.
+- Caderno para anotar o nome, a edição e os limites encontrados.
+- Caneta.
+
+PROCEDIMENTO
+------------
+1. Defina qual farmacopeia vale para o seu caso.
+2. No Brasil, use a Farmacopeia Brasileira da Anvisa.
+3. Confirme a edição vigente e procure erratas ou atualizações.
+4. Identifique o insumo: nome botânico, nome em latim ou princípio ativo.
+5. Abra o índice e localize a monografia pelo nome exato.
+6. Leia a parte geral antes da monografia: traz testes e requisitos gerais.
+7. Na monografia, anote a descrição e os sinônimos do insumo.
+8. Anote os ensaios de identificação, que confirmam a substância correta.
+9. Anote os ensaios de pureza: impurezas, umidade e metais pesados.
+10. Anote o doseamento, que mede o teor mínimo e máximo do ativo.
+11. Consulte os capítulos gerais citados para cada método de ensaio.
+12. Leia a monografia geral da forma farmacêutica, se houver.
+13. Compare cada resultado com o limite da monografia e da parte geral.
+14. Registre a edição e o número da monografia com cada resultado.
+15. Entenda que o produto atende só se cumprir todos os requisitos.
+
+ATENCAO
+-------
+A farmacopeia define padrão de qualidade, não dose nem tratamento.
+Uma monografia nunca se lê sozinha: depende dos métodos e requisitos gerais.
+Edições antigas mudam limites: use sempre a edição vigente.
+Não improvise ensaio químico em casa: muitos usam reagentes e equipamentos.
+Interpretar resultado fora de laboratório pode gerar conclusão errada.
+Em dúvida, procure um farmacêutico ou laboratório oficial.
+
+SE NAO TIVER
+------------
+Sem a nacional, use a Farmacopeia Internacional da OMS.
+Sem a edição mais recente, use a disponível e registre a data.
+Sem entender um método, leia o capítulo geral citado antes de concluir.
+Sem acesso ao texto oficial, não invente o limite: diga que não o conhece.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você localiza a monografia correta pelo nome do insumo.
+Você cita a edição e o ano da farmacopeia consultada.
+Você aponta onde estão os ensaios de identificação, pureza e teor.
+Você explica que o produto deve atender a todos os requisitos aplicáveis.
+
+FONTES
+------
+Farmacopeia Brasileira, 6ª edição, da Anvisa, e suas atualizações.
+The International Pharmacopoeia, da Organização Mundial da Saúde.
+Boas Práticas Farmacopeicas, OMS, Série de Relatórios Técnicos 996, 2016.
+European Pharmacopoeia, da EDQM, como exemplo de farmacopeia regional.
+Resumo educativo; não substitui a norma oficial nem orientação técnica.

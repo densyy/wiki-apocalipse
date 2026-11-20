@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 29-007
+TITULO: Como compartilhar arquivos em uma rede local
+CATEGORIA: 29 - Tecnologia, computação e informática offline
+TEMPO: 20 minutos
+RISCO: baixo
+EXIGE: dois aparelhos na mesma rede local, pasta com os arquivos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: arquivo, compartilhar, rede local, SMB, Windows, Samba
+==============================================================================
+
+OBJETIVO
+--------
+Permitir que outro aparelho copie arquivos da sua pasta pela rede local.
+
+QUANDO USAR
+-----------
+Quando dois aparelhos estão na mesma rede e não há internet.
+Quando várias pessoas precisam ler os mesmos documentos offline.
+
+NAO USE QUANDO
+--------------
+Quando os aparelhos não estão ligados à mesma rede local.
+Quando a rede é usada por desconhecidos e os arquivos são sigilosos.
+
+MATERIAIS
+---------
+- Dois aparelhos ligados ao mesmo roteador ou switch, por cabo ou Wi-Fi.
+- Uma pasta com os arquivos no aparelho que os guarda.
+- Compartilhamento SMB ativado, o protocolo de pastas em rede.
+
+PROCEDIMENTO
+------------
+1. Ligue os dois aparelhos ao mesmo roteador ou switch, por cabo ou Wi-Fi.
+2. Coloque os arquivos em uma pasta exclusiva no aparelho que os guarda.
+3. Anote o nome desse aparelho ou o endereço IP local dele.
+4. No aparelho que guarda os arquivos, abra as propriedades da pasta.
+5. Na aba Compartilhamento, compartilhe a pasta com a rede local.
+6. Dê permissão de leitura se os outros não precisarem alterar nada.
+7. No outro aparelho, abra o gerenciador de arquivos.
+8. Use duas barras invertidas, o nome do aparelho, barra e o nome da pasta.
+9. Exemplo: \\ARQUIVOS\DOCUMENTOS, com duas barras no início.
+10. Digite o caminho na barra de endereço e confirme com Enter.
+11. Copie os arquivos para uma pasta local do seu aparelho.
+12. Confira o tamanho dos arquivos antes de apagar os originais.
+
+ATENCAO
+-------
+Sem rede local entre os aparelhos, nada funciona; internet não é preciso.
+Permissão de escrita permite que qualquer pessoa da rede apague arquivos.
+Arquivos de mesmo nome podem ser sobrescritos sem aviso; faça cópia.
+Feche programas que estejam usando o arquivo se a cópia falhar.
+Se aparecer "acesso negado", confira nome, usuário e senha.
+Descompartilhe a pasta ao terminar para não deixá-la visível na rede.
+
+SE NAO TIVER
+------------
+Sem Windows, ative o Samba no Linux para criar a pasta compartilhada.
+Sem interface gráfica, use o comando rsync na linha de comando.
+Copie com: rsync -av origem/ usuario@APARELHO:/destino/
+
+COMO SABER QUE DEU CERTO
+------------------------
+O aparelho receptor mostra a pasta compartilhada e os arquivos nela.
+Os arquivos copiados abrem e têm o mesmo tamanho dos originais.
+
+FONTES
+------
+Manual smb.conf do Samba, visão geral de SMB da Microsoft e manual do rsync.

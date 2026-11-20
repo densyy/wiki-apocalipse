@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 09-027
+TITULO: Como utilizar mapas sem GPS
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: mapa topográfico da região, bússola de placa, lápis, papel
+REVISAO: 2026-11
+PALAVRAS-CHAVE: mapa, bússola, azimute, navegação, sem gps, passos
+==============================================================================
+
+OBJETIVO
+--------
+Oriente o mapa no terreno e chegue ao destino usando mapa, bússola e passos.
+
+QUANDO USAR
+-----------
+Quando o GPS não pega sinal, está sem bateria ou quebrou.
+Quando é preciso chegar a ponto combinado fora da estrada.
+
+NAO USE QUANDO
+--------------
+Quando o celular tem sinal e bateria: ligue para pedir socorro.
+Sem mapa da região, este procedimento não se aplica.
+
+MATERIAIS
+---------
+- Mapa topográfico ou carta da região (mapa rodoviário).
+- Bússola de placa com anel giratório, lápis, papel e régua (papel reto).
+
+PROCEDIMENTO
+------------
+1. Leia a legenda e anote a escala e a declinação magnética do mapa.
+2. A declinação é a diferença entre o norte da agulha e o norte do mapa.
+3. Nivele o mapa em superfície plana, longe de metal e do celular.
+4. Gire o mapa até o norte da legenda apontar para o norte da agulha.
+5. Corrija a declinação no anel da bússola conforme a legenda.
+6. Aponte a seta de direção para o primeiro ponto de checagem no mapa.
+7. Gire o anel até a agulha corrigida ficar paralela à seta de direção.
+8. Leia o azimute: direção em graus a partir do norte, no sentido horário.
+9. Meça a distância no papel e converta pela escala da legenda.
+10. Calibre o passo: ande 100 metros medidos e conte os passos.
+11. Caminhe até o ponto de checagem seguindo o azimute e contando passos.
+12. No ponto, confira o terreno e repita os passos 6 a 11.
+13. Ache sua posição: aponte para dois alvos do mapa e cruze as linhas.
+
+ATENCAO
+-------
+A declinação muda de lugar; ignorá-la gera erro que cresce com a distância.
+A agulha é atraída por metal: afaste celular, faca e arame. Mapas antigos
+não mostram estradas novas ou pontes caídas. Sem checar a bússola, a pessoa
+tende a andar em círculo: volte ao último ponto se o terreno não bater.
+Diante de rio caudaloso, penhasco ou tempestade, abrigue-se e peça ajuda.
+
+SE NAO TIVER
+------------
+Sem carta topográfica, use mapa rodoviário e confira escala e data.
+Sem bússola, finque um bastão, marque a sombra, espere cerca de 30 minutos
+e marque de novo: a primeira marca é oeste, a segunda é leste; é aproximado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A agulha para e o norte do mapa bate com a direção corrigida.
+O cruzamento mostra sua posição; os alvos aparecem na ordem marcada.
+
+FONTES
+------
+Prática consolidada de orienteering; "Compass Course", do Serviço Nacional
+de Parques dos EUA; Exército dos EUA e Polícia Federal do Brasil.

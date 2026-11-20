@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 53-006
+TITULO: Como funciona a eliminação de medicamentos
+CATEGORIA: 53 - Produção de medicamentos e farmacologia
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: eliminação, excreção, remédio, meia-vida, rim, depuração
+==============================================================================
+
+OBJETIVO
+--------
+Entender como o corpo remove um remédio e o que sobra dele.
+
+QUANDO USAR
+-----------
+Ao entender por que um remédio sai na urina e outro nas fezes.
+Ao compreender o que significa meia-vida na bula.
+Ao questionar por que a dose muda em idosos ou em doença renal.
+Ao entender por que certos remédios não devem ser tomados juntos.
+Ao compreender por que exame de creatinina orienta a dose.
+
+NAO USE QUANDO
+--------------
+Não use para escolher remédio, dose ou via de administração.
+Não substitui bula, prescrição nem orientação do farmacêutico.
+Não serve para ajustar a dose por conta própria na doença renal ou hepática.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Defina eliminação: é a retirada do remédio do corpo.
+2. Separe as duas partes: metabolismo e excreção.
+3. Defina metabolismo: o corpo transforma o remédio, quase sempre no fígado.
+4. Entenda o objetivo: virar substância mais solúvel em água.
+5. Defina excreção: a saída do remédio ou de seus restos do corpo.
+6. Identifique a via principal: os rins, pela urina.
+7. Note que só a parte livre do remédio passa pelo filtro do rim.
+8. Entenda a filtração: cerca de um quinto do plasma passa no glomérulo.
+9. Saiba que o glomérulo é o filtro do rim.
+10. Acompanhe o túbulo: água e sais voltam para o sangue.
+11. Observe que restos solúveis em água não voltam e saem na urina.
+12. Defina secreção ativa: o rim empurra certos remédios para o túbulo.
+13. Saiba que essa via tem limite e disputa entre remédios.
+14. Entenda o pH da urina: de 4,5 a 8,0 muda a saída de ácidos e bases.
+15. Siga a via biliar: o fígado envia restos à bile, que sai nas fezes.
+16. Cuidado: parte volta do intestino ao sangue, o ciclo enterohepático.
+17. Defina depuração: volume de plasma limpo do remédio por tempo.
+18. Defina meia-vida: tempo para a concentração no sangue cair à metade.
+19. Relacione: quatro meias-vidas retiram mais de 90 por cento do remédio.
+20. Liste o que altera a eliminação: idade, rim, fígado, drogas e fluxo.
+21. Observe que aos 80 anos a depuração costuma ser metade da dos 30 anos.
+22. Relacione: rim pior pede dose menor, conforme prescrição.
+23. Cite outras vias: saliva, suor, leite materno e ar exalado.
+
+ATENCAO
+-------
+Este texto explica o processo; não indica remédio, dose nem tratamento.
+Nunca mude horário, dose ou via por conta própria.
+Doença renal ou hepática pode acumular remédio e causar intoxicação.
+Sinais de intoxicação: náusea, vômito, tontura, confusão ou falta de ar.
+Remédios competem no rim; um pode elevar o outro no sangue.
+Antiácidos e bicarbonato mudam o pH da urina e alteram a excreção.
+Meia-vida de outra pessoa não serve para você.
+Eliminação lenta não quer dizer que o efeito acabou; pare e busque ajuda.
+
+SE NAO TIVER
+------------
+Sem bula, leia a parte de farmacocinética de um manual de farmacologia.
+Sem professor, use o roteiro acima para seguir o remédio até a saída.
+Não invente número de dose, meia-vida ou concentração para preencher lacuna.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue descrever as duas partes: metabolismo e excreção.
+Você sabe explicar por que a maioria dos remédios sai na urina.
+Você consegue citar três fatores que mudam a eliminação de um remédio.
+Você entende por que a dose deve ser ajustada quando o rim falha.
+
+FONTES
+------
+Manuais MSD edição para profissionais: Excreção de fármacos, Eliminação de
+fármacos e Visão geral da farmacocinética. StatPearls, NCBI Bookshelf:
+Elimination Half-Life of Drugs e Drug Distribution. Resumo operacional;
+não substitui estudo nem orientação clínica.

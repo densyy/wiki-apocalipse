@@ -1,0 +1,80 @@
+==============================================================================
+CODIGO: 05-002
+TITULO: Como construir um abrigo utilizando madeira
+CATEGORIA: 05 - Abrigo, construção e habitação
+TEMPO: 3 horas
+RISCO: alto
+EXIGE: madeira caída ou cortada, corda ou cipó, ferramenta de corte
+REVISAO: 2026-11
+PALAVRAS-CHAVE: abrigo, madeira, cabana, tapiri, acampamento, chuva
+==============================================================================
+
+OBJETIVO
+--------
+Montar um abrigo simples de madeira que proteja da chuva e do vento.
+
+QUANDO USAR
+-----------
+Quando precisar dormir fora de casa por uma ou mais noites.
+Quando houver madeira disponível perto do local do acampamento.
+Quando o abrigo atual não protege da chuva nem do vento frio.
+Quando for possível trabalhar com luz do dia e sem pressa.
+
+NAO USE QUANDO
+--------------
+Em encosta instável, barranco, leito de rio seco ou sob árvore morta.
+Com vento muito forte, raios próximos ou risco de queda de árvore.
+Se a estrutura ficar instável: desmonte e recomece em outro ponto.
+
+MATERIAIS
+---------
+- Dois pares de varas retas e firmes para as tesouras, de 2 m cada.
+- Uma vara longa e reta para a cumeeira (aproximadamente 3 m).
+- Varas menores para as laterais e para a cobertura.
+- Corda, barbante forte ou cipó resistente para amarrar.
+- Galhos com folhas, palha ou lona para cobrir o telhado.
+- Ferramenta de corte (facão, machado ou serrote).
+
+PROCEDIMENTO
+------------
+1. Escolha um terreno plano, alto e longe de água parada e formigueiros.
+2. Afaste-se de árvores mortas, galhos quebrados e barrancos instáveis.
+3. Monte duas tesouras cruzando dois pares de varas e amarre cada cruz.
+4. Finque as tesouras no chão, separadas por aproximadamente 2 m.
+5. Apoie a vara da cumeeira sobre os dois cruzamentos e amarre firme.
+6. Encoste varas menores na cumeeira dos dois lados, formando um A.
+7. Amarre cada vara lateral na cumeeira para não escorregar.
+8. Cubra os dois lados com galhos de baixo para cima, como telhas.
+9. Complete a cobertura com folhas, palha ou lona por cima dos galhos.
+10. Teste a estrutura empurrando com força antes de entrar para dormir.
+
+ATENCAO
+-------
+Troncos e galhos que caem podem causar lesão grave na cabeça.
+Nunca trabalhe sob árvore morta nem com vento forte ou raios.
+Ferramenta de corte exige atenção total: corte para longe do corpo.
+Estrutura instável desaba durante a noite: teste antes de dormir.
+Madeira verde e pesada deforma e afrouxa as amarras com o tempo.
+Este abrigo não protege contra raios, enchente nem frio extremo.
+Se a madeira estalar ou a estrutura inclinar, saia e reconstrua.
+
+SE NAO TIVER
+------------
+Sem corda, amarre com cipó, tiras de tecido ou raízes flexíveis.
+Sem ferramenta de corte, use só madeira caída e quebre pelo peso.
+Sem cobertura vegetal, estenda lona, plástico ou roupas sobre as varas.
+Se faltar madeira firme, faça um abrigo menor só para uma pessoa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A estrutura não balança ao ser empurrada com força pelos lados.
+A água da chuva escorre pela cobertura sem pingar dentro.
+Há espaço para deitar sem encostar nas paredes do abrigo.
+
+FONTES
+------
+Prática consolidada de abrigos de campanha em manuais militares
+de sobrevivência (referência: manual de campanha FM 21-76 do
+Exército dos Estados Unidos, capítulo sobre abrigos) e
+orientações de construção segura com madeira da Federação
+Internacional da Cruz Vermelha e da FEMA sobre abrigo seguro.

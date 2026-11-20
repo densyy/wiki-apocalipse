@@ -1,0 +1,79 @@
+==============================================================================
+CODIGO: 77-005
+TITULO: Como utilizar espelhos para sinalização a distância
+CATEGORIA: 77 - Comunicação anterior à eletricidade
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: espelho, sol, alvo visivel e codigo combinado
+REVISAO: 2026-11
+PALAVRAS-CHAVE: espelho, sol, sinal, clarao, distancia, codigo, olhos
+==============================================================================
+
+OBJETIVO
+--------
+Refletir a luz do sol para enviar sinais a quem estiver ao longe.
+
+QUANDO USAR
+-----------
+Quando o sol estiver firme e o alvo puder ser visto.
+Para chamar atenção de outro ponto sem fazer fogo ou ruido.
+Em dia limpo, com pouca névoa e sem nuvens passando.
+Quando a distancia for maior que a de um grito.
+
+NAO USE QUANDO
+--------------
+Nao aponte o reflexo para os olhos de quem estiver perto.
+Nao use perto de estrada, aeroporto ou caminho de veiculos.
+Nao tente sinalizar com sol baixo ou ceu encoberto.
+Nao confie no espelho como unico meio em emergencia.
+
+MATERIAIS
+---------
+- Espelho de vidro ou metal polido (disco de panela).
+- Pano para limpar poeira e agua do espelho (camurça).
+- Caderno com o codigo de claros curtos e longos.
+- Pano de cor forte para marcar o proprio ponto no chao.
+
+PROCEDIMENTO
+------------
+1. Combine o codigo com o outro ponto antes de precisar.
+2. Escolha lugar alto e livre, com vista para o alvo.
+3. Limpe o espelho e segure-o pela borda.
+4. Fique de costas para o sol e olhe o reflexo na mao.
+5. Aponte o clarao para a pessoa ou para o lugar combinado.
+6. Desloque o pulso devagar ate o reflexo incidir no alvo.
+7. Faca claros curtos para um sinal e longos para outro.
+8. Agrupe os claros com pausa curta entre eles.
+9. Repita a sequencia ate receber confirmacao.
+10. Troque de mao ou de angulo se o brilho sumir.
+11. Cubra o espelho com o pano quando parar.
+12. Guarde o caderno protegido da umidade.
+
+ATENCAO
+-------
+O reflexo pode cegar por alguns instantes: nunca mire em olhos.
+Evite apontar para veiculos ou aeronaves; isso é perigoso.
+Nuvem que passa corta o sinal sem aviso: repita a sequencia.
+Espelho rachado corta a mao; envolva a borda com pano.
+Se ninguem responde, verifique se o alvo é o lugar certo.
+Nao use o espelho para olhar o sol diretamente.
+
+SE NAO TIVER
+------------
+Sem espelho, use lataria polida ou tampa de metal limpa.
+Sem sol, espere o dia clarear ou use fumaça e bandeira.
+Sem codigo escrito, combine tres sinais basicos de memoria.
+Sem pano, limpe o espelho com a manga da camisa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O clarao aparece no alvo e o outro ponto devolve o sinal.
+A sequencia de claros curtos e longos foi entendida.
+Ninguem foi ofuscado por acidente durante a pratica.
+O espelho ficou guardado limpo e sem borda exposta.
+
+FONTES
+------
+Pratica consolidada de sinalizacao optica com espelho, conhecida
+como heliografo em usos militares e de exploração. O codigo
+de claros curtos e longos deve ser combinado antes do uso.

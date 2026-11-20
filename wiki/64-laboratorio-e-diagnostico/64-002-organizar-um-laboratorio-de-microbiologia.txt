@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 64-002
+TITULO: Como organizar um laboratório de microbiologia educacional
+CATEGORIA: 64 - Laboratório, diagnóstico e análises
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: ponto de água, desinfetante, luvas, frasco rígido de descarte
+REVISAO: 2026-11
+PALAVRAS-CHAVE: laboratório, microbios, biossegurança, descarte, cultura
+==============================================================================
+
+OBJETIVO
+--------
+Dispor o espaço, os materiais e as regras para manusear culturas
+sem contaminar pessoas, superfícies ou ambiente.
+
+QUANDO USAR
+-----------
+Ao montar a bancada de aulas práticas de microbiologia.
+Ao receber cepas de estudo para observação em sala.
+Ao preparar um lugar fixo para manejo de culturas conhecidas.
+Ao precisar separar a área limpa da área de culturas.
+Ao organizar o descarte do material que tocou culturas.
+
+NAO USE QUANDO
+--------------
+Não improvise laboratório para manipular amostras de pessoas, animais,
+esgoto ou solo de origem desconhecida. Esses materiais podem conter
+patógenos e exigem laboratório credenciado. Não use o espaço para
+culturas de agentes patogênicos conhecidos sem contenção e treinamento.
+
+MATERIAIS
+---------
+- Bancada lisa e lavável, sem frestas (painel plástico liso).
+- Ponto de água corrente com sabão (balde com torneira).
+- Luvas descartáveis de nitrilo (ou vinilo).
+- Desinfetante registrado ou água sanitária diluída.
+- Frasco rígido e tampado para pontas, lâminas e placas usadas.
+- Autoclave a vapor, ou serviço local de descarte de resíduos.
+- Papel toalha, caderno e caneta para registro.
+
+PROCEDIMENTO
+------------
+1. Escolha um cômodo com pia, ventilação e pouca circulação de pessoas.
+2. Separe duas áreas: uma limpa, outra de manejo das culturas.
+3. Cubra a bancada com material liso que possa ser desinfetado.
+4. Retire da bancada tudo que não serve ao procedimento.
+5. Deixe à mão só o material da etapa, em ordem de uso.
+6. Coloque o frasco de descarte junto à bancada, sempre tampado.
+7. Lave as mãos e calce luvas antes de tocar qualquer cultura.
+8. Troque as luvas ao tocar superfície suja ou ao mudar de cepa.
+9. Mantenha frascos e placas fechados quando não estiver manuseando.
+10. Desinfete a bancada antes e depois de cada sessão de trabalho.
+11. Descarte pontas, lâminas e placas no frasco rígido, nunca no lixo.
+12. Autoclave o material contaminado antes de descartá-lo.
+13. Lave as mãos ao tirar as luvas e ao final da sessão.
+14. Anote no caderno a data, a cepa, o que fez e qualquer incidente.
+
+ATENCAO
+-------
+Culturas podem causar infecção mesmo quando a cepa é dita não patogênica.
+Trate toda cultura como potencialmente infectante.
+Nunca coma, beba, fume ou toque o rosto dentro da área de manejo.
+Nunca pipete com a boca. Use sempre dispositivo mecânico.
+Perfurocortantes contaminados furam luvas e causam feridas infeccionadas.
+Não leve material da bancada para fora sem descontaminar antes.
+Se derramar, cubra com desinfetante, aguarde e limpe com papel toalha.
+Descarte o papel usado como resíduo contaminado.
+Se ferir com material contaminado, lave com água e sabão, deixe sangrar
+e procure atendimento médico.
+Sem autoclave, não descarte culturas vivas como lixo comum: inative
+antes por fervura ou desinfetante e avise o serviço local.
+
+SE NAO TIVER
+------------
+Sem bancada exclusiva, use bandeja rígida rasa sobre a mesa e desinfete
+a mesa antes e depois. Não trabalhe onde se prepara comida.
+Sem autoclave, não faça culturas vivas: inative com desinfetante ou
+fervura antes do descarte e procure serviço de esterilização.
+Sem luva, lave as mãos com água e sabão e evite tocar o rosto, mas saiba
+que isso reduz, não elimina, o risco. Não use luvas de pano.
+Sem pia, mantenha galão de água, sabão e balde para lavar as mãos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A bancada está limpa, seca e sem objetos sem uso.
+A área limpa e a área de culturas estão separadas e identificadas.
+O frasco de descarte está tampado e fora do alcance de outras pessoas.
+Há registro escrito da última limpeza e das cepas manuseadas.
+Não há pontas, lâminas ou placas soltas fora do recipiente rígido.
+Todas as pessoas lavaram as mãos ao sair da área.
+
+FONTES
+------
+Manual de Biossegurança de Laboratório da OMS, quarta edição (2020),
+cadernos de avaliação de risco, desenho e manutenção, proteção
+individual e descontaminação e manejo de resíduos.
+Prática consolidada de biossegurança em laboratórios de ensino.
+Este texto é resumo operacional e não substitui treinamento nem norma local.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 44-004
+TITULO: Como compreender o funcionamento de aquíferos
+CATEGORIA: 44 - Hidrologia, rios e gestão de bacias
+TEMPO: 40 minutos
+RISCO: baixo
+EXIGE: caderno, lápis, observação da paisagem sem entrar em poços
+REVISAO: 2026-11
+PALAVRAS-CHAVE: aquífero, água subterrânea, lençol, recarga, nascente, poço
+==============================================================================
+
+OBJETIVO
+--------
+Entender de onde vem, como corre e para onde vai a água abaixo do solo.
+
+QUANDO USAR
+-----------
+Quando nascente ou poço seca na seca e é preciso entender por quê.
+Ao comparar poços ou decidir onde cavar em busca de água.
+
+NAO USE QUANDO
+--------------
+Não substitui estudo geológico nem autoriza descer em poço ou escavação.
+Não use para decidir perfuração sem profissional.
+
+MATERIAIS
+---------
+- Caderno e lápis (papel improvável, como casca ou pedra, serve).
+- Marca visível de nível em poço, muro ou estaca (ou a falta dela).
+
+PROCEDIMENTO
+------------
+1. Entenda: aquífero guarda e deixa circular água em solo ou rocha porosa.
+2. Separe as zonas: acima do lençol freático há ar; abaixo, poros
+   cheios d'água.
+3. Localize o lençol freático: topo da zona saturada; em poço aberto,
+   altura em que a água para de subir.
+4. Observe a permeabilidade: areia passa água; argila e rocha densa,
+   quase não.
+5. Identifique a recarga: chuva infiltrada, entrada de água nova.
+6. Identifique a descarga: nascente, vazão em barranca, córrego ou poço.
+7. Trace o fluxo no caderno: da recarga à descarga, ladeira abaixo.
+   A água leva de dias a séculos conforme o material.
+8. Classifique: livre recebe chuva direta; confinado fica entre camadas
+   impermeáveis, tem pressão e pode jorrar sem bomba.
+9. Em poço com bomba, note a queda do nível: é o cone de depressão.
+10. Anote se o nível se recupera depois de horas sem bombear.
+
+ATENCAO
+-------
+Água subterrânea corre devagar: poucos metros por dia a poucos centímetros
+por século, conforme o material do aquífero.
+Bombeio maior que a recarga baixa o lençol, seca poços e afeta vizinhos.
+Entender o fluxo não prova potabilidade: pode haver arsênio, flúor ou sal.
+Trate a água antes de beber. Não desça em poço: falta de oxigênio mata.
+
+SE NAO TIVER
+------------
+Sem poço visível, use nascentes e barrancas úmidas como sinal do lençol.
+Sem marcas de nível, anote só se a água sobe ou desce; não invente números.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O caderno traz recarga, descarga e a direção do fluxo entre elas.
+A explicação usa recarga, permeabilidade e pressão, sem números inventados.
+
+FONTES
+------
+Water Science School da USGS: Aquifers and Groundwater e Groundwater
+Flows Underground (2026). Resumo operacional, não estudo de local.

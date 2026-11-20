@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 64-014
+TITULO: Como compreender exames de urina
+CATEGORIA: 64 - Laboratório, diagnóstico e análises
+TEMPO: 20 minutos
+RISCO: medio
+EXIGE: laudo do exame, valores de referência do laboratório
+REVISAO: 2026-11
+PALAVRAS-CHAVE: urina, exame, urinálise, laudo, proteína, sangue, glicose
+==============================================================================
+
+OBJETIVO
+--------
+Ler um exame de urina e separar o que é comum do que pede atenção.
+
+QUANDO USAR
+-----------
+Ao receber o laudo de urina tipo 1, urinálise ou sumário de urina.
+Ao investigar dor ao urinar, urina turva ou sangue na urina.
+Ao acompanhar diabetes, hipertensão ou doença renal.
+
+NAO USE QUANDO
+--------------
+Não use este texto para fechar diagnóstico nem decidir tratamento.
+Sem os valores de referência do laboratório, a leitura não é confiável.
+
+MATERIAIS
+---------
+- Laudo com a data da coleta.
+- Valores de referência do próprio laboratório.
+- Caderno para anotar os itens alterados e os medicamentos em uso.
+
+PROCEDIMENTO
+------------
+1. Confira a data da coleta e o nome do exame no laudo.
+2. Separe as três partes: aspecto, testes químicos e microscopia.
+3. Leia o aspecto: cor amarela, de clara a âmbar, e urina límpida.
+4. Anote o pH (4,5 a 8) e a densidade (1,005 a 1,030 em adultos).
+5. Verifique glicose, cetonas, proteína, sangue, bilirrubina e nitrito.
+6. Marque como alterado só o que estiver fora da referência do laudo.
+7. Confira a microscopia: hemácias, leucócitos, bactérias e cilindros.
+8. Anote sintomas e medicamentos; leve o laudo a um profissional de saúde.
+
+ATENCAO
+-------
+Os intervalos mudam entre laboratórios. Use a referência do próprio laudo.
+Nitrito negativo não afasta infecção: algumas bactérias não o produzem.
+Vitamina C e urina diluída podem esconder sangue ou glicose.
+Glicose na urina não confirma diabetes sozinha, e a ausência não afasta.
+Proteína baixa pode escapar da tira reagente; o exame de 24h é mais preciso.
+Urina avermelhada pode vir de beterraba ou de medicamentos.
+Com dor ao urinar, febre, dor lombar ou inchaço, procure atendimento.
+
+SE NAO TIVER
+------------
+Sem a referência do laboratório, não classifique os valores sozinho.
+Sem microscopia, peça a parte microscópica: a tira sozinha é incompleta.
+Sem laudo impresso, anote os valores ao receber o resultado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você aponta no laudo cada item alterado e o valor dele.
+Você separou variação comum do que precisa de avaliação.
+Você não transformou um número isolado em diagnóstico.
+
+FONTES
+------
+MedlinePlus (NIH) e Manual MSD, versão Saúde para a Família: urinálise,
+valores normais e interpretação. Material da SPSP sobre exame de urina.
+Resumo operacional; não substitui avaliação profissional.

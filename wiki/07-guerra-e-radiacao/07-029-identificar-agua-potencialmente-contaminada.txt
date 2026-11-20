@@ -1,0 +1,77 @@
+==============================================================================
+CODIGO: 07-029
+TITULO: Como identificar água potencialmente contaminada
+CATEGORIA: 07 - Guerra, radiação e catástrofes nucleares
+TEMPO: 15 minutos
+RISCO: critico
+EXIGE: recipiente transparente, pano claro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, contaminação, radiação, cheiro, cor, fallout
+==============================================================================
+
+OBJETIVO
+--------
+Separe a água suspeita da água mais segura antes de tratar e beber.
+
+QUANDO USAR
+-----------
+Quando a água vem de poça, rio ou caixa após explosão ou guerra.
+Quando há poeira, fuligem ou detrito caindo sobre a água aberta.
+Quando a água mudou de cor, cheiro ou gosto de repente.
+Quando houve enchente, esgoto ou produto químico perto da fonte.
+Quando vizinhos passam mal após beber da mesma fonte.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Copo ou garrafa transparente (pote de vidro limpo)
+- Pano branco ou claro (camiseta limpa)
+- Colher limpa para mexer sem beber
+
+PROCEDIMENTO
+------------
+1. Pergunte o que aconteceu perto da fonte nas últimas horas.
+2. Afaste-se de fonte perto de esgoto, lixo ou galão químico.
+3. Trate como suspeita toda água aberta sob poeira de explosão.
+4. Lembre que radiação não tem cor, cheiro nem gosto próprio.
+5. Encha o recipiente transparente até a metade sem beber.
+6. Observe a cor contra a luz: descarte se turva, leitosa ou escura.
+7. Procure espuma, óleo brilhando, poeira ou bicho boiando.
+8. Mexa com a colher e cheire: descarte se cheirar ovo, óleo ou remédio.
+9. Passe um pouco pelo pano claro e veja se mancha ou solta grão.
+10. Prove só um gole pequeno se passar em cor, cheiro e pano.
+11. Cuspa e descarte se o gosto for metálico, amargo ou químico.
+12. Marque o galão suspeito com carvão ou risco para ninguém beber.
+
+ATENCAO
+-------
+Radiação não avisa: água limpa aos olhos pode estar contaminada.
+Olhar, cheirar e provar não detectam veneno químico nem fallout.
+Fallout é a poeira radioativa que cai após explosão nuclear.
+Água sob fallout parece normal e mesmo assim pode fazer mal grave.
+Nunca beba volume grande para testar: um gole pequeno já basta.
+Este exame não limpa a água: filtre e ferva ou clore depois.
+Pare e procure ajuda se der náusea, vômito, tontura ou diarreia.
+Em zona de explosão, prefira água engarrafada ou de poço tampado.
+
+SE NAO TIVER
+------------
+Sem copo transparente, use tampa clara ou palma da mão bem lavada.
+Sem pano claro, deixe a água parada e veja o fundo assentar.
+Sem colher, agite o pote fechado e cheire ao abrir com cuidado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você separou a água turva, fedida ou com mancha da mais limpa.
+Você marcou o galão suspeito para ninguém beber por engano.
+Você trata toda água duvidosa antes de beber, mesmo a clara.
+
+FONTES
+------
+Orientação da OMS sobre água potável em emergências.
+Orientação do CDC americano sobre água segura em desastres.
+Guia da FEMA para o público após detonação nuclear.
+Prática consolidada de sobrevivência civil em manual militar.

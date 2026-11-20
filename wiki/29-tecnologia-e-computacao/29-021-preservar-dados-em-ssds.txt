@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 29-021
+TITULO: Como preservar dados em SSDs
+CATEGORIA: 29 - Tecnologia, computação e informática offline
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: computador com o SSD, duas mídias separadas, energia, caderno
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ssd, backup, dados, cópia, retenção, integridade, desgaste
+==============================================================================
+
+OBJETIVO
+--------
+Manter os arquivos de um SSD legíveis e recuperáveis por meses ou anos.
+
+QUANDO USAR
+-----------
+Quando o SSD guarda documentos, fotos ou registros insubstituíveis.
+Quando o aparelho ficará desligado por mais de dois meses.
+Quando o computador será guardado, vendido ou doado.
+
+NAO USE QUANDO
+--------------
+Quando o SSD apresenta erros ou some do sistema: pare e peça ajuda
+antes de copiar, para não agravar a perda.
+
+MATERIAIS
+---------
+- Computador com SSD (disco de estado sólido, sem peças móveis).
+- Duas mídias separadas do SSD (HD externo, outro SSD ou cartão de memória).
+- Caderno ou planilha para anotar datas, tamanhos e resultados.
+
+PROCEDIMENTO
+------------
+1. Liste os arquivos que não podem ser perdidos e some o tamanho total.
+2. Copie os arquivos para a primeira mídia, mantendo nomes e pastas.
+3. Copie os mesmos arquivos para a segunda mídia, em outro aparelho.
+4. Anote em cada mídia a data, o código do SSD e o tamanho total.
+5. Guarde uma cópia em outro cômodo ou casa de confiança.
+6. Abra arquivos de teste nas duas cópias e confirme que abrem sem erro.
+7. Guarde o SSD desligado em lugar seco, sem poeira e longe de calor.
+8. Anote no caderno a data em que o SSD foi guardado.
+9. Ligue o SSD a cada dois meses e meio por aproximadamente três semanas.
+
+ATENCAO
+-------
+Um SSD desligado perde aos poucos a carga das células de memória.
+A norma JEDEC garante só três meses de retenção no pior caso.
+O firmware (programa interno do SSD) só reforça a carga com o disco ligado.
+Guarde abaixo de aproximadamente 40 °C e longe de fontes de calor.
+Com erros de leitura, pare: insistir pode agravar a perda; peça ajuda.
+
+SE NAO TIVER
+------------
+Sem energia para manter ligado, leia todos os arquivos do SSD.
+Sem segunda mídia, use HD externo, cartão ou fita em outro aparelho.
+Sem nenhuma mídia separada, não há substituto seguro para as cópias.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As duas cópias abrem os arquivos de teste sem mensagem de erro.
+O tamanho total anotado bate com o mostrado nas duas mídias.
+O caderno registra a data da cópia e a de cada leitura de manutenção.
+
+FONTES
+------
+Guia do NIST NCCoE sobre proteção de dados e backups (abril de 2020).
+Documentação Dell PowerEdge, artigo 000198930 (maio de 2026), que cita
+as normas JEDEC JESD218 e JESD219 sobre retenção de SSD desligado.
+Norma JEDEC JESD218C.01 (2026); NIST SP 800-88 Rev.2 (2025).

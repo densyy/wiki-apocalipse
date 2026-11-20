@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 10-010
+TITULO: Como fazer fogo em ambientes úmidos
+CATEGORIA: 10 - Sobrevivência em ambientes naturais
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: faca, isqueiro ou fósforos à prova d'água, lona ou abrigo natural
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fogo, umidade, isca, gravetos, fósforos, pederneira, chuva
+==============================================================================
+
+OBJETIVO
+--------
+Acenda e mantenha uma fogueira pequena com chuva, orvalho ou lenha molhada.
+
+QUANDO USAR
+-----------
+Quando a chuva ou o orvalho molhou toda a madeira ao redor.
+Quando é preciso calor, cozinhar ou ferver água e não há abrigo seco.
+Quando a lenha caiu no chão e só o miolo dos galhos continua seco.
+Quando o isqueiro molhou e é preciso acender por outro meio.
+
+NAO USE QUANDO
+--------------
+Quando houver aviso de incêndio ou tempo seco na região: não acenda.
+Quando não der para ventilar: nunca acenda fogo em abrigo fechado.
+Quando não houver água ou terra para apagar o fogo antes de dormir.
+
+MATERIAIS
+---------
+- Faca resistente ou machado (pedra lascada para fazer raspas).
+- Isqueiro, fósforos à prova d'água ou pederneira de ferrocerério.
+- Isca seca guardada (algodão com vaselina, serragem, casca de bétula).
+- Lona, casca de árvore ou chapéu para proteger a área da chuva.
+- Madeira morta em pé, gravetos e galhos para alimentar o fogo.
+- Água, terra ou areia para apagar (pó de extintor, se houver).
+
+PROCEDIMENTO
+------------
+1. Escolha terreno alto, plano e livre de poças, longe de arbustos.
+2. Afaste barraca, roupa e gravetos a aproximadamente 5 metros do fogo.
+3. Limpe o chão num círculo de aproximadamente 3 metros de raio.
+4. Coloque uma lona inclinada bem alto acima do local, para calor e
+   faíscas subirem sem encostar na lona.
+5. Fique de costas para o vento e a chuva para proteger a primeira chama.
+6. Procure madeira morta ainda presa ao tronco, não no chão molhado.
+7. Quebre cada galho: estalo seco indica miolo seco; dobra indica umidade.
+8. Raspe a casca molhada com a faca até aparecer madeira clara e seca.
+9. Abra a madeira morta ao meio para expor o miolo seco.
+10. Faça gravetos de penacho: raspas finas presas à beira da madeira seca.
+11. Junte o dobro ou o triplo da isca e dos gravetos que usaria em dia seco.
+12. Aqueça a isca dentro da roupa por alguns minutos antes de acender.
+13. Monte uma plataforma de gravetos grossos no chão para isolar da umidade.
+14. Coloque a isca no centro da plataforma e apoie os gravetos de penacho.
+15. Proteja a isca com as mãos e acenda o isqueiro ou risque a pederneira.
+16. Sopre de leve na base da chama até as raspas pegarem fogo.
+17. Alimente primeiro com gravetos finos, depois com os mais grossos.
+18. Espere uma camada de brasas antes de acrescentar madeira maior e úmida.
+19. Mantenha o fogo pequeno; a chama seca a próxima carga antes de ela
+    queimar.
+
+ATENCAO
+-------
+O que mata aqui é o monóxido de carbono e o fogo fora de controle.
+Monóxido não tem cheiro: nunca queime dentro de barraca ou abrigo fechado.
+Não use gasolina, álcool ou outro líquido inflamável para acender.
+Não use pedras molhadas ou porosas na volta do fogo: podem estourar.
+Não acenda com madeira verde ou apodrecida: só produz fumaça e não aquece.
+Raspas e gravetos pegam fogo rápido; guarde o excesso longe da chama.
+Não deixe o fogo sozinho, perto de crianças ou animais.
+Se entrar fumaça no abrigo ou alguém sentir tontura, apague e saia para
+o ar livre.
+Antes de dormir, afogue com água, mexa a cinza e afogue de novo.
+Se o fogo escapar para a vegetação, afaste-se e peça ajuda.
+
+SE NAO TIVER
+------------
+Sem isqueiro nem fósforos, use pederneira: as faíscas funcionam molhadas.
+A isca, porém, precisa estar seca para pegar a faísca.
+Sem lona, use casca de árvore ou chapéu para abrigar a isca.
+Sem madeira morta em pé, raspe o miolo de um galho grosso caído que não
+apodreceu.
+Sem algodão com vaselina, use fiapos de pano seco, papel ou casca de
+bétula guardados.
+Não improvise com fios de tomada nem com produtos químicos desconhecidos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A isca gera chama estável e os gravetos finos pegam fogo sem apagar.
+Depois de alguns minutos há brasas vermelhas sob a chama e a madeira
+maior queima.
+A fumaça sobe clara; fumaça escura e densa indica madeira molhada ou verde.
+
+FONTES
+------
+Manual de sobrevivência do Exército dos EUA FM 3-05.70 (FM 21-76),
+capítulo 7, Firecraft.
+Manual básico de sobrevivência da FAA (Basic Survival Skills for Aviation).
+Orientações de segurança contra incêndio da Utah Emergency Management.
+National Park Service, Smokey Bear e CDC; prática consolidada em chuva.

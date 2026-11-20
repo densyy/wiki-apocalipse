@@ -1,0 +1,92 @@
+==============================================================================
+CODIGO: 17-003
+TITULO: Como identificar sinais de tempestades
+CATEGORIA: 17 - Meteorologia, clima e meio ambiente
+TEMPO: 15 minutos
+RISCO: alto
+EXIGE: vista livre para o céu, ouvidos atentos, algo para contar segundos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: tempestade, trovão, raio, nuvem, vento, sinais, abrigo
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer sinais de tempestade e decidir quando procurar abrigo.
+
+QUANDO USAR
+-----------
+Ao acampar, caminhar ou trabalhar ao ar livre sem previsão oficial.
+Ao ver nuvens crescendo ou o céu escurecendo no horizonte.
+Quando o vento mudar de rumo ou ficar mais forte de repente.
+Ao ouvir trovão ao longe, mesmo com o céu limpo sobre você.
+Antes de entrar na água, subir em serra ou atravessar campo aberto.
+Ao planejar secar roupa, guardar comida ou montar abrigo.
+
+NAO USE QUANDO
+--------------
+Para prever tempo de dias ou semanas: sinais locais mostram horas.
+Para substituir aviso da Defesa Civil: siga o aviso oficial.
+Para decidir atravessar rio, subir serra ou navegar: não use.
+Quando houver risco de raio, pare de observar e proteja-se.
+Quando névoa, fumaça ou escuridão impedirem a visão do céu.
+
+MATERIAIS
+---------
+- Vista livre para o céu e para o horizonte.
+- Relógio, sombra ou algo para contar os segundos (pedra, palmas).
+- Caderno e lápis para registrar a hora e a mudança (papel e carvão).
+- Ouvidos atentos para ouvir o trovão antes do clarão.
+
+PROCEDIMENTO
+------------
+1. Escolha um ponto com vista livre para o céu e para o horizonte.
+2. Fique de costas ao sol para não ofuscar a visão.
+3. Olhe o horizonte em volta, sem olhar direto para o sol.
+4. Procure nuvens com base plana e topo de couve-flor, chamadas cúmulos.
+5. Observe se o topo cresce depressa e fica escuro: é sinal de tempestade.
+6. Observe se o topo achata e vira bigorna: a tempestade já está ativa.
+7. Preste atenção ao vento: se mudar de rumo ou ficar mais forte, anote.
+8. Note se o ar ficou pesado, úmido e mais frio de repente.
+9. Olhe para o lado de onde vem o vento: a tempestade pode vir dali.
+10. Fique atento ao clarão e ao som: conte os segundos entre os dois.
+11. Divida o tempo por 3 para estimar a distância em km (aproximado).
+12. Se o intervalo for de 30 segundos ou menos, procure abrigo já.
+13. Ouviu trovão? Entre em abrigo mesmo vendo céu azul sobre você.
+14. Repita a observação após aproximadamente 15 minutos.
+15. Compare com o registro anterior: nuvem maior, vento forte, céu escuro.
+16. Com dois ou mais sinais de piora, interrompa e procure abrigo.
+17. Afaste-se de água, campo aberto, árvores isoladas e encostas.
+18. Só retome a atividade após aproximadamente 30 minutos sem trovão.
+
+ATENCAO
+-------
+Trovão significa risco de raio onde você está, mesmo com céu azul.
+Nenhum sinal da natureza é previsão segura: pode falhar.
+Não espere a nuvem chegar: o raio pode cair a mais de 10 km da tempestade.
+Não fique em campo aberto, na água, em barco ou sob árvore isolada.
+Se o céu escurecer ou o vento mudar rápido, pare e proteja-se.
+Se houver aviso oficial da Defesa Civil, ele prevalece sobre estes sinais.
+
+SE NAO TIVER
+------------
+Sem relógio, conte os segundos em voz alta; não invente a distância.
+Sem céu visível, use vento, som e temperatura: sinais mais fracos.
+Sem caderno, memorize a ordem: nuvem, vento, clarão, trovão.
+Sem condição de observar, aja como se a tempestade pudesse chegar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Registrou duas observações com intervalo aproximado de 15 minutos.
+Você identificou o sinal pelo que viu ou ouviu, não por palpite.
+A decisão de procurar abrigo veio antes do trovão e da chuva forte.
+Você contou os segundos entre clarão e trovão e estimou a distância.
+
+FONTES
+------
+Centros para Controle e Prevenção de Doenças (CDC), Diretrizes de segurança
+contra raios, 2026: nuvens cúmulo, bigorna, distância do raio.
+Serviço Nacional Meteorológico dos Estados Unidos (NOAA/NWS), material
+educacional JetStream e orientação: ao ouvir trovão, entre em abrigo.
+Agência Federal de Gerenciamento de Emergências (FEMA),
+orientações sobre tempestades e raios, atualizado em 2026.
+Este texto é resumo operacional e não substitui previsão oficial.

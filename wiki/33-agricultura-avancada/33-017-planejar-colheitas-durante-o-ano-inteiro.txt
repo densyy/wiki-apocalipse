@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 33-017
+TITULO: Como planejar colheitas durante o ano inteiro
+CATEGORIA: 33 - Agricultura avançada e autossuficiência rural
+TEMPO: 90 minutos
+RISCO: baixo
+EXIGE: caderno, lápis, calendário, dados locais de clima e das culturas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: colheita, plantio, calendário, safra, ciclo, sucessão
+==============================================================================
+
+OBJETIVO
+--------
+Distribuir a produção da horta ao longo dos 12 meses.
+
+QUANDO USAR
+-----------
+Ao começar uma horta ou pomar de subsistência.
+Quando sobra alimento de uma vez e falta em outro mês.
+
+NAO USE QUANDO
+--------------
+Quando não há água para a época seca e a cultura exige irrigação.
+O calendário não cria chuva nem substitui reserva de água.
+
+MATERIAIS
+---------
+- Caderno, lápis e calendário de parede com 12 meses.
+- Dados locais de geada, chuva e ciclo de cada cultura.
+- Sementes extras para mais de uma data de plantio.
+
+PROCEDIMENTO
+------------
+1. Liste no caderno os alimentos que a família mais come.
+2. Anote a quantidade necessária por mês para cada alimento.
+3. Desenhe 12 colunas no calendário, uma para cada mês.
+4. Marque os meses de chuva, seca, frio e risco de geada.
+5. Anote o ciclo de cada cultura, em dias do plantio à colheita.
+6. Escolha a data da colheita e subtraia o ciclo para achar o plantio.
+7. Repita o plantio em faixas menores, usando o ciclo do passo 5.
+8. Destine um canteiro para cada data de plantio.
+9. Troque de cultura após a colheita no mesmo canteiro.
+10. Guarde sementes extras para refazer um plantio perdido.
+11. Fixe o calendário à vista e revise ao fim de cada safra.
+
+ATENCAO
+-------
+O calendário não é garantia: seca, geada, praga e doença perdem safras.
+A época de colheita muda com a espécie, o ano e o local.
+Não copie datas de outra região sem conferir o clima local.
+Não plante a mesma cultura sempre no mesmo canteiro: o solo cansa.
+Comece com poucas culturas: escalonar sem água deixa canteiros vazios.
+Se duas colheitas falharem seguidas, pare e procure técnico agrícola.
+
+SE NAO TIVER
+------------
+Sem dados de ciclo, use as datas que vizinhos observam na região.
+Anote as datas reais e monte o calendário definitivo no ano seguinte.
+Sem sementes extras, priorize os alimentos que a família mais come.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Depois de 12 meses, cada mês tem uma colheita anotada e realizada.
+Nenhum mês ficou sem alimento da horta.
+
+FONTES
+------
+Embrapa: Calendário agrícola e Zoneamento Agrícola de Risco Climático.
+Embrapa: Circular Técnica 144, Coleta de Sementes Florestais Nativas.
+Sucessão e escalonamento de culturas são prática agronômica consolidada.

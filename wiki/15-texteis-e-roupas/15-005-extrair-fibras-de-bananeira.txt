@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 15-005
+TITULO: Como extrair fibras de bananeira
+CATEGORIA: 15 - Têxteis, roupas e produção artesanal
+TEMPO: 120 minutos
+RISCO: alto
+EXIGE: pseudocaule cortado, faca afiada, água limpa, bacia, luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bananeira, fibra, banana, pseudocaule, maceração, corda
+==============================================================================
+
+OBJETIVO
+---------
+Obter fibras do pseudocaule da bananeira para fazer corda, linha ou tecido.
+
+QUANDO USAR
+-----------
+Quando a bananeira foi cortada após a colheita e o pseudocaule sobrou.
+Quando faltam corda, linha de costura ou material para trançar.
+Quando há água limpa e tempo para esperar a maceração.
+Quando se quer aproveitar o resíduo da lavoura de banana.
+
+NAO USE QUANDO
+--------------
+Quando não houver água limpa para macerar e lavar a fibra.
+Quando o pseudocaule estiver apodrecido, com mofo ou cheiro azedo.
+Quando a planta foi tratada com agrotóxico de origem desconhecida.
+
+MATERIAIS
+---------
+- Pseudocaule de bananeira cortado (parte baixa do tronco falso).
+- Faca bem afiada ou raspador de metal (faca de cozinha sem serrilha).
+- Água limpa corrente (água de chuva limpa, se não houver encanamento).
+- Bacia ou balde limpo (recipiente de plástico sem resíduo químico).
+- Luvas ou pano limpo para proteger as mãos.
+- Pedra limpa para manter a fibra submersa (peso de metal limpo).
+- Local arejado e sombreado para secar (varal coberto com pano).
+
+PROCEDIMENTO
+------------
+1. Corte o pseudocaule rente ao solo com a faca, logo após a colheita.
+2. Retire as folhas secas e separe os 40 cm inferiores do pseudocaule.
+3. Corte em pedaços de aproximadamente 10 a 15 cm por 2 a 3 cm.
+4. Encoste a faca na base da bainha externa, entre ela e a seguinte.
+5. Segure a bainha externa e puxe-a para fora, da base para a ponta.
+6. Repita nas externas, cerca de 11; descarte as internas quebradiças.
+7. Raspe cada bainha com a faca, da base para a ponta, para tirar a polpa.
+8. Ferva os pedaços raspados em água por aproximadamente 30 minutos.
+9. Coloque a fibra na bacia com água limpa e fria até submergir.
+10. Aperte a fibra com a pedra limpa para mantê-la debaixo d'água.
+11. Mantenha submersa por aproximadamente 7 a 14 dias, em local sombreado.
+12. Troque a água se ela escurecer ou sentir cheiro forte.
+13. Retire a fibra quando os feixes soltarem; verifique a cada 2 dias.
+14. Lave a fibra em água corrente até sair a goma e o cheiro de maceração.
+15. Estenda em local arejado e sombreado por aproximadamente 2 dias.
+16. Vire a fibra uma vez durante a secagem.
+17. Separe os feixes secos com os dedos para retirar resíduos de polpa.
+18. Enrole a fibra seca e guarde em local seco por aproximadamente 3 meses.
+
+ATENCAO
+-------
+A faca corta fundo: corte para fora do corpo e afaste os dedos do fio.
+A maceração produz cheiro forte e atrai insetos; lave as mãos depois.
+Água parada pode irritar a pele e infectar feridas; não mergulhe cortes.
+Os tempos divergem entre fontes: 7 dias em estudos, 14 dias em outros.
+Observe a fibra, não o calendário: maceração longa deixa a fibra fraca.
+A fibra seca queima fácil; mantenha-a longe de fogo e de faíscas.
+Não use a fibra para filtrar água de beber: o processo não remove químicos.
+
+SE NAO TIVER
+------------
+Sem faca, use lasca de metal ou pedra afiada presa em cabo, com cuidado.
+Sem água corrente, use água de chuva limpa e troque-a com frequência.
+Sem bacia, use saco plástico limpo amarrado, com pedra para afundar.
+Sem tempo para macerar, a raspagem sozinha dá fibra áspera, mas serve.
+Não use soda cáustica, cal ou alvejante: são corrosivos e queimam a pele.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A fibra sai da bainha em feixes longos, com brilho e sem polpa presa.
+Depois da lavagem, a água escorre limpa e a fibra não tem cheiro azedo.
+A fibra seca é flexível: dobra sem arrebentar e resiste a um puxão leve.
+
+FONTES
+------
+Capítulo Banana Pseudo-Stem Fiber: Preparation, Characteristics, and
+Applications, de Subagyo e Chafidz, IntechOpen, 2018 (revisado por pares).
+Artigo sobre extração, tratamento e caracterização de fibras do
+pseudocaule de bananeira, IDOSR Journal of Biochemistry, Biotechnology
+and Allied Fields, 2024 (acesso aberto, revisado por pares).
+Revisão crítica sobre extração de fibra de pseudocaule de bananeira,
+Journal of Natural Fibers, Taylor & Francis, 2023.
+Estudo sobre maceração microbiana com bactérias Bacillus, Heliyon,
+ScienceDirect. Prática consolidada de extração manual de fibras
+vegetais por raspagem e maceração em água.

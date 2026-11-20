@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 08-040
+TITULO: Como reaproveitar sucata metálica
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: luvas, óculos de proteção, serra de arco, lima, morsa, água
+REVISAO: 2026-11
+PALAVRAS-CHAVE: sucata, metal, ferro-velho, reaproveitar, ferramenta, solda
+==============================================================================
+
+OBJETIVO
+--------
+Transformar sucata de metal em ferramentas e suportes utilizáveis.
+
+QUANDO USAR
+-----------
+Quando faltar ferramenta, suporte ou peça de reposição no acampamento.
+Quando houver sucata limpa de aço, ferro ou alumínio disponível.
+Quando for preciso consertar algo com parafusos, arame ou rebites.
+Quando o material tiver que servir antes de comprar um substituto.
+
+NAO USE QUANDO
+--------------
+Recipientes de combustível, óleo, agrotóxico, tinta ou solvente.
+Metal galvanizado, cadmiado ou com tinta antiga se for aquecer ou soldar.
+Fios, cabos ou equipamentos que possam estar energizados.
+Peças sob tensão, molas comprimidas ou recipientes pressurizados.
+
+MATERIAIS
+---------
+- Luvas grossas de couro ou raspa.
+- Óculos de proteção.
+- Serra de arco com lâmina para metal.
+- Lima plana e lima meia-cana.
+- Martelo e cinzel de mão.
+- Furadeira com brocas para metal, ou punção.
+- Parafusos, porcas, arruelas e arame de ferro, ou rebites.
+- Morsa ou sargento para prender a peça.
+- Escova de aço e pano limpo.
+- Recipiente com água para resfriar e apagar faíscas.
+
+PROCEDIMENTO
+------------
+1. Calce as luvas e coloque os óculos antes de tocar a sucata.
+2. Separe apenas peças de aço, ferro ou alumínio, sem resíduo químico.
+3. Deixe de fora recipientes fechados ou com cheiro de combustível ou tinta.
+4. Verifique se não há fio energizado, mola tensionada ou parte que salta.
+5. Escove ferrugem, tinta solta e sujeira na área que vai trabalhar.
+6. Prenda a peça na morsa ou com o sargento, firme e sem balanço.
+7. Marque o corte com giz ou com um risco da própria lima.
+8. Serre sobre a marca com a serra de arco, sem forçar a lâmina.
+9. Pare antes do fim do corte e quebre a sobra com o martelo.
+10. Passe a lima na borda até ela não prender na luva.
+11. Marque os pontos de fixação longe das bordas da peça.
+12. Fure os pontos marcados com a furadeira ou o punção.
+13. Encaixe a peça no lugar e alinhe os furos.
+14. Prenda com parafuso e porca, com arruela, ou com arame torcido.
+15. Dobre a peça com o martelo sobre um batente firme, se precisar de forma.
+16. Empurre a montagem com a mão: se soltar ou rachar, desmonte e refaça.
+
+ATENCAO
+-------
+Bordas de sucata cortam com pressão leve: nunca apoie a mão perto do corte.
+Não corte, lixe nem aqueça metal galvanizado, cadmiado ou com tinta antiga
+sem remover o revestimento e sem ventilação. Zinco e cádmio liberam um fumo
+que causa febre, calafrio, dor no corpo, náusea e vômito horas depois.
+Solda e corte a quente produzem fumo cancerígeno. Em lugar fechado, o
+monóxido de carbono e a falta de oxigênio podem matar sem aviso.
+Esmerilhadeira com disco errado, sem protetor ou com a peça solta projeta
+fragmentos que cegam ou ferem grave; use só com protetor e duas mãos.
+Nunca reaproveite recipiente de combustível, agrotóxico ou solvente: o
+resíduo pode explodir ou envenenar quem estiver por perto.
+Pare e saia do local se sentir tontura, se houver cheiro de gás ou se o
+corte não fechar. Procure ajuda se o ferimento for profundo.
+
+SE NAO TIVER
+------------
+Sem serra, use a lima em chapas finas ou dobre e quebre com o martelo.
+O corte ficará irregular: retire as rebarbas com mais cuidado.
+Sem morsa, prenda a peça com sargento, cinto ou corda sobre um cepo firme.
+Nunca segure a peça com a mão enquanto corta.
+Sem parafusos, dobre e torça arame de ferro para prender as peças.
+Não use arame de cobre macio em peça que vai suportar peso.
+Sem óculos, não use esmerilhadeira: fique só com a serra e a lima.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A borda limada não prende na luva de raspa quando passada por cima.
+A peça montada não se move quando empurrada com a mão.
+O parafuso entra no furo e a porca aperta sem travar.
+A peça pronta não tem cheiro de combustível, tinta ou solvente.
+
+FONTES
+------
+OSHA, publicação 3348 sobre reciclagem de sucata metálica e ficha de
+segurança sobre esmerilhadeiras.
+HSE e CCOHS, orientações sobre riscos à saúde na solda e no corte de metais.
+American Welding Society, ficha sobre febre dos fumos metálicos.

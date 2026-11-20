@@ -1,0 +1,97 @@
+==============================================================================
+CODIGO: 41-011
+TITULO: Como realizar navegação astronômica básica
+CATEGORIA: 41 - Navegação avançada e técnicas de expedição
+TEMPO: 15 minutos
+RISCO: alto
+EXIGE: terreno plano e limpo, graveto reto de 1 metro, pedras, céu limpo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: navegação, estrelas, sol, sombra, norte, sul, lua
+==============================================================================
+
+OBJETIVO
+--------
+Determinar as direções cardeais usando sol, sombra, lua e estrelas.
+
+QUANDO USAR
+-----------
+Quando não há bússola e é preciso saber onde ficam o norte e o sul.
+Quando o céu limpo permite ver sol, lua ou estrelas.
+Quando a bússola falha ou não há referência visível no terreno.
+Para conferir a direção de um ponto já conhecido de forma aproximada.
+
+NAO USE QUANDO
+--------------
+Quando o céu está fechado: névoa escura ou chuva forte impedem a leitura.
+Quando é preciso precisão para evitar precipício, fogo ou queda d'água.
+Quando se está perdido sem referência conhecida: pare e fique no local.
+Quando há perigo imediato: incêndio, cheia ou tempestade se aproximando.
+Quando a direção obtida leva a terreno desconhecido e sem saída.
+
+MATERIAIS
+---------
+- Graveto reto de aproximadamente 1 metro (ou estaca, ou bastão de tenda).
+- Terreno plano, firme e livre de mato, que receba sombra nítida.
+- Pedras, gravetos ou marcas no chão para assinalar pontos.
+- Céu limpo, com sol de dia ou estrelas à noite.
+
+PROCEDIMENTO
+------------
+1. Escolha local plano onde o graveto projete sombra nítida no chão.
+2. Fique de pé ao lado do graveto, sem fazer sombra sobre ele.
+3. Enterre o graveto reto de aproximadamente 1 metro no chão.
+4. Marque com pedra a ponta da sombra projetada no chão.
+5. Essa primeira marca aponta para o oeste, em qualquer lugar do planeta.
+6. Espere de 10 a 15 minutos até a ponta da sombra se deslocar.
+7. Marque com outra pedra a nova posição da ponta da sombra.
+8. Trace uma linha reta ligando as duas marcas: é a linha leste-oeste.
+9. Fique em pé com a primeira marca (oeste) à sua esquerda.
+10. Você estará olhando para o norte; atrás de você fica o sul.
+11. Ao meio-dia solar, observe o sol no ponto mais alto do céu.
+12. No Brasil, no hemisfério sul, esse sol do meio-dia aponta ao norte.
+13. No hemisfério sul as sombras giram no sentido anti-horário.
+14. À noite, no hemisfério sul, localize o Cruzeiro do Sul (Crux).
+15. Identifique as quatro estrelas brilhantes em forma de cruz inclinada.
+16. Note as duas estrelas do eixo longo da cruz, as estrelas-guia.
+17. Estenda o eixo por aproximadamente 5 vezes a distância entre elas.
+18. O ponto final indica o sul aproximado; escolha referência no horizonte.
+19. No hemisfério norte, ache a Estrela Polar usando a Ursa Maior.
+20. A linha da borda da concha aponta para a Estrela Polar.
+21. Estenda a linha por aproximadamente 5 vezes a distância entre elas.
+22. A Estrela Polar indica o norte real; projete a linha até o horizonte.
+23. Se só a lua estiver visível, use a parte iluminada como referência.
+24. Lua antes do pôr do sol: lado iluminado voltado ao oeste.
+25. Lua após a meia-noite: lado iluminado voltado ao leste.
+26. Marque a direção escolhida com estacas ou pedras antes de andar.
+
+ATENCAO
+-------
+Estes métodos dão direção aproximada, nunca posição exata.
+No Brasil, o sol do meio-dia marca o norte; no norte, o sul.
+A sombra exige de 10 a 15 minutos e sombra nítida; pressa gera erro.
+A lua dá só referência grosseira leste-oeste: não se guie só por ela.
+Nuvens, névoa e horizonte fechado invalidam a leitura de sol e estrelas.
+O Cruzeiro do Sul e a Ursa Maior giram: repita a leitura ao longo da noite.
+Se a direção calculada não bater com o terreno, pare e reavalie.
+Na dúvida sobre onde está, fique no local e espere ajuda.
+
+SE NAO TIVER
+------------
+Sem pedras, use gravetos, folhas ou arranhe o chão para marcar.
+Sem graveto de 1 metro, use qualquer bastão reto, bem vertical.
+Sem sol, use a lua ou as estrelas, se o céu estiver limpo.
+Sem céu limpo, não improvise: espere o tempo abrir ou fique no local.
+Sem ver o horizonte, suba a ponto alto seguro antes de marcar a direção.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A linha entre as duas marcas da sombra aponta leste-oeste de forma nítida.
+Ao meio-dia, o graveto quase não faz sombra e o sol indica o norte.
+O Cruzeiro do Sul fica reconhecível e a estaca aponta ao sul.
+
+FONTES
+------
+Manual de Sobrevivência do Exército dos Estados Unidos (FM 21-76),
+capítulo 18: sol e sombras, lua e estrelas para achar direção.
+Prática consolidada de navegação astronômica rudimentar.
+Resumo operacional; não substitui treinamento nem o uso de bússola.

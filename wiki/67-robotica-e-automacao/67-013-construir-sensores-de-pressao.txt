@@ -1,0 +1,93 @@
+==============================================================================
+CODIGO: 67-013
+TITULO: Como construir sensores de pressão
+CATEGORIA: 67 - Robótica, automação e controle
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: mangueira transparente, membrana flexível, baixa tensão, multímetro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: pressão, sensor, manômetro, diafragma, coluna, água, alarme
+==============================================================================
+
+OBJETIVO
+--------
+Construir um manômetro de coluna e um sensor de diafragma que avisam
+quando a pressão de um líquido ou gás sobe ou desce.
+
+QUANDO USAR
+-----------
+Quando precisa saber se uma linha d'água está com pressão.
+Quando quer acionar alarme ou bomba em certa pressão.
+Quando não há medidor comprado e é preciso improvisar com sucata.
+Quando precisa vigiar pressão em reservatório ou bomba manual.
+
+NAO USE QUANDO
+--------------
+Não use em caldeira, vaso de pressão ou linha de alta pressão.
+Não ligue o sensor de contato à rede elétrica nem a 220 V.
+Não substitua manômetro certificado em instalação industrial.
+Não use para medir gás inflamável sem equipamento próprio.
+
+MATERIAIS
+---------
+- Mangueira plástica transparente e flexível (cerca de 1 metro).
+- Água com corante ou óleo para a coluna.
+- Membrana flexível: câmara de pneu, borracha ou película de balão.
+- Microswitch ou dois contatos de metal limpo.
+- Fonte de pilhas de até 12 V e fio de cobre isolado.
+- Multímetro e fita isolante.
+- Adaptador, abraçadeira e recipiente rígido para a membrana.
+- Régua ou escala de papel para marcar a leitura.
+
+PROCEDIMENTO
+------------
+1. Monte o manômetro de coluna: dobre a mangueira em U.
+2. Prenda a mangueira na régua com fita, deixando as duas pontas livres.
+3. Encha com água corada até subir alguns centímetros nas duas pernas.
+4. Marque na escala a altura da coluna em repouso como zero.
+5. Ligue uma ponta da mangueira à linha que quer medir, com abraçadeira.
+6. Deixe a outra ponta aberta ao ar.
+7. Aumente a pressão e meça a diferença de altura entre as colunas.
+8. Anote a diferença: quanto maior, maior a pressão.
+9. Solte a pressão devagar antes de desconectar a mangueira.
+10. Monte o sensor: estique a membrana sobre a boca do recipiente.
+11. Prenda a membrana com abraçadeira, sem deixar vazamento.
+12. Fixe o microswitch diante da membrana, encostando nela.
+13. Ligue um fio do microswitch ao polo positivo da fonte de pilhas.
+14. Ligue o outro fio ao alarme ou ao multímetro e ao polo negativo.
+15. Isole as emendas com fita para não encostarem em água.
+16. Aplique pressão devagar até a membrana empurrar o microswitch.
+17. Anote o ponto em que o contato fecha: esse é o limite do alarme.
+18. Volte a pressão gradualmente e confirme que o contato abre.
+
+ATENCAO
+-------
+Pressão alta estoura mangueira e machuca: use só o que a mangueira aguenta.
+Água e eletricidade matam: desligue a fonte antes de mexer nos contatos.
+Nunca abra linha pressurizada sem aliviar a pressão antes.
+Gás comprimido pode explodir: meça só linhas de baixa pressão.
+Coluna de água congela e quebra a mangueira; use óleo no frio.
+Se sentir cheiro de gás ou ouvir chiado, pare e saia do local.
+
+SE NAO TIVER
+------------
+Sem mangueira transparente, use tubo de gelatina ou de soro limpo.
+Sem microswitch, use dois parafusos próximos que a membrana encoste.
+Sem multímetro, use um LED com resistor em série como indicador.
+Sem fonte de pilhas, use pilhas comuns; nunca ligue na tomada.
+Sem corante, use água limpa e leia contra um fundo claro.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A coluna sobe de um lado e desce do outro quando há pressão.
+Ao tirar a pressão, as duas colunas voltam à mesma altura.
+O alarme soa quando a membrana é empurrada e para quando volta.
+O multímetro marca continuidade só com a pressão no limite marcado.
+Não há vazamento nem chiado nas emendas.
+
+FONTES
+------
+Princípio do manômetro de coluna de líquido e do sensor de diafragma:
+prática consolidada de instrumentação e automação caseira.
+Leitura de pressão por coluna hidrostática, método clássico de medição.
+Resumo operacional; não substitui manômetro certificado nem treinamento.

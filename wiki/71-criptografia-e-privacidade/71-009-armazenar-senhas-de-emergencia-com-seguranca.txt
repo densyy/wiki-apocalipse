@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 71-009
+TITULO: Como armazenar senhas de emergência com segurança
+CATEGORIA: 71 - Criptografia, segurança da informação e privacidade
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: cofre de senhas, local trancado, pessoa de confiança
+REVISAO: 2026-11
+PALAVRAS-CHAVE: senha, cofre, recuperação, emergência, caderno, segredo
+==============================================================================
+
+OBJETIVO
+--------
+A pessoa consegue recuperar contas essenciais sem depender da memória.
+
+QUANDO USAR
+-----------
+Ao preparar um plano para sair de casa com pressa.
+Quando contas de banco, saúde ou comunicação são vitais.
+Antes de viagem, mudança ou período sem energia.
+Ao entregar a responsabilidade a um familiar de confiança.
+Quando o aparelho com as senhas pode ser perdido ou roubado.
+
+NAO USE QUANDO
+--------------
+Não use para senhas que você ainda não trocou após um vazamento.
+Não use se não houver nenhum local físico seguro e discreto.
+Não use para dividir senhas em grupo aberto ou compartilhado.
+
+MATERIAIS
+---------
+- Cofre de senhas com senha mestra (ou caderno de capa dura).
+- Senha mestra longa, criada agora e guardada só na memória.
+- Folha de papel resistente e caneta com tinta permanente.
+- Envelope opaco e lacre simples de papel.
+- Local trancado, seco e longe de janelas.
+- Pessoa de confiança que saiba onde o envelope fica.
+
+PROCEDIMENTO
+------------
+1. Liste as contas que não podem ser perdidas em uma crise.
+2. Inclua banco, saúde, documento, comunicação e acesso à casa.
+3. Crie uma senha mestra longa, com pelo menos quatro palavras.
+4. Anote a senha mestra apenas na folha, nunca em arquivo comum.
+5. Instale um cofre de senhas no aparelho que você leva consigo.
+6. Abra o cofre e cadastre cada conta da lista com senha única.
+7. Use senhas diferentes para cada conta, sem repetir nenhuma.
+8. Anote no papel o nome da conta, o usuário e a senha de cada uma.
+9. Anote também os códigos de recuperação da autenticação em duas etapas.
+10. Escreva à mão, com letra legível e tinta que não borra.
+11. Coloque a folha no envelope e lacre com a tinta permanente.
+12. Guarde o envelope no local trancado, seco e discreto.
+13. Diga à pessoa de confiança apenas onde o envelope está.
+14. Não envie a folha por mensagem, correio eletrônico ou nuvem aberta.
+15. Teste o acesso uma vez por mês, usando só o que está no envelope.
+16. Atualize a folha toda vez que uma senha mudar.
+
+ATENCAO
+-------
+Papel queimado, molhado ou perdido não pode ser recuperado.
+Um envelope sem lacre pode ser lido por qualquer pessoa da casa.
+Senha repetida em duas contas abre as duas se uma vazar.
+Não guarde a folha junto com o aparelho que ela protege.
+Não grave a senha mestra em bloco de notas ou arquivo de texto.
+Se alguém viu a folha, troque todas as senhas listadas.
+Pare e troque a senha mestra se o cofre for invadido.
+Este procedimento não protege contra furto do aparelho desbloqueado.
+
+SE NAO TIVER
+------------
+Sem cofre de senhas, use só o caderno trancado com senhas únicas.
+Sem local trancado, escolha o bolso interno de uma mala fechada.
+Sem papel resistente, dobre a folha duas vezes e guarde em saqueta.
+Sem pessoa de confiança, guarde duas cópias em locais distintos.
+Sem tinta permanente, use lápis, que não borra com umidade.
+Nunca improvise com senha curta, data de nascimento ou nome de filho.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você abre cada conta usando só o que está escrito no envelope.
+Nenhuma senha da lista aparece em outra conta.
+A pessoa de confiança encontra o envelope sem sua ajuda.
+Os códigos de recuperação funcionam quando solicitados no teste.
+
+FONTES
+------
+NIST SP 800-63B, diretrizes de autenticação e gerenciamento de segredos.
+OWASP Authentication Cheat Sheet, gerenciadores de senha e recuperação.
+Prática consolidada de preparação para emergências, sem documento único.

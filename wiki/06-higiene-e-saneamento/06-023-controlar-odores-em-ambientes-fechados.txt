@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 06-023
+TITULO: Como controlar odores em ambientes fechados
+CATEGORIA: 06 - Higiene, saneamento e resíduos
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: sacos plásticos, pano, água e sabão, fresta para ventilar
+REVISAO: 2026-11
+PALAVRAS-CHAVE: odor, cheiro, ventilação, mofo, lixo, limpeza
+==============================================================================
+
+OBJETIVO
+--------
+Reduzir o mau cheiro do cômodo tratando a fonte e o ar parado.
+
+QUANDO USAR
+-----------
+Quando o quarto, barraco ou abrigo fica com cheiro forte.
+Quando há cheiro de mofo, lixo, comida estragada ou banheiro.
+
+NAO USE QUANDO
+--------------
+Com cheiro forte de gás, químico estranho ou fumaça densa.
+Saia com todos e ventile antes de voltar nesses casos.
+
+MATERIAIS
+---------
+- Sacos plásticos com amarra para lixo e restos (jornal amarrado).
+- Pano, balde, água e sabão para limpar o foco do cheiro.
+- Terra seca, cinza ou carvão comum para cobrir e absorver.
+
+PROCEDIMENTO
+------------
+1. Pare e sinta se há gás, fumaça ou cheiro químico forte.
+2. Saia com todos se houver gás e só volte com o ar renovado.
+3. Ache a fonte do cheiro antes de perfumar o ambiente.
+4. Retire lixo, comida estragada e roupa molhada do cômodo.
+5. Amarre cada saco e leve para longe da porta e da janela.
+6. Lave com água e sabão o ponto onde estava a sujeira.
+7. Seque o local molhado e deixe o ponto arejar aberto.
+8. Abra portas e janelas opostas por aproximadamente 15 minutos.
+9. Cubra fezes e restos com terra seca até o cheiro baixar.
+10. Ponha um pote com carvão ou cinza perto do foco do cheiro.
+
+ATENCAO
+-------
+Perfume e incenso disfarçam o cheiro sem remover a causa.
+Gás vazando pode explodir; brasa e motor soltam gás sem cheiro.
+Nunca ligue gerador, carro ou fogareiro dentro do cômodo.
+Mofo com cheiro de terra dá tosse e falta de ar em criança.
+Este controle não resolve vazamento, esgoto entupido ou doença.
+Pare e busque ajuda se houver desmaio, vômito ou tontura.
+
+SE NAO TIVER
+------------
+Sem saco, embrulhe o lixo em jornal e amarre bem fechado.
+Sem sabão, esfregue com água e areia e enxágue depois.
+Sem carvão, use cinza ou terra seca em pote aberto.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O cheiro some na entrada e não volta após uma hora fechado.
+O ar circula e não há lixo, poça ou pano molhado à vista.
+Ninguém sente arder nos olhos, tosse ou dor de cabeça dentro.
+
+FONTES
+------
+Prática consolidada de higiene de abrigos e saneamento (famílias
+de referência: OMS, CDC e FEMA em guias de abrigo e ventilação).

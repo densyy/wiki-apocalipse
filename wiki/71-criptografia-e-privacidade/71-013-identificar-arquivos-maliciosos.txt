@@ -1,0 +1,79 @@
+==============================================================================
+CODIGO: 71-013
+TITULO: Como identificar arquivos maliciosos
+CATEGORIA: 71 - Criptografia, segurança da informação e privacidade
+TEMPO: 10 minutos
+RISCO: alto
+EXIGE: computador, extensões visíveis, antivírus atualizado se houver
+REVISAO: 2026-11
+PALAVRAS-CHAVE: arquivo malicioso, extensão dupla, vírus, anexo, phishing
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer sinais de um arquivo malicioso antes de abri-lo.
+
+QUANDO USAR
+-----------
+Quando chega um anexo inesperado por email ou mensagem.
+Quando o remetente insiste para abrir o arquivo com urgência.
+Quando o nome do arquivo tem duas extensões ou letras estranhas.
+Quando o arquivo vem de link recebido ou de site duvidoso.
+Quando o documento pede para ativar macros ou instalar programa.
+
+NAO USE QUANDO
+--------------
+Quando o arquivo já foi aberto e o sistema mostra sinais de infecção.
+Nesse caso, desconecte o equipamento da rede e procure ajuda.
+Esta inspeção reduz o risco, mas não prova que um arquivo é seguro.
+
+MATERIAIS
+---------
+- Sistema configurado para mostrar as extensões dos arquivos.
+- Antivírus atualizado, se disponível (sem ele, redobre a cautela).
+- Outro meio de falar com o remetente, se ele for conhecido.
+
+PROCEDIMENTO
+------------
+1. Não abra o arquivo antes de concluir a inspeção.
+2. Ative a opção de mostrar extensões no sistema.
+3. Leia o nome completo, inclusive o trecho após o último ponto.
+4. Observe se há duas extensões seguidas no nome.
+5. Compare a extensão real com o formato anunciado pelo remetente.
+6. Desconfie de extensões de programa, como exe, scr, hta ou lnk.
+7. Verifique se o tamanho combina com o tipo de arquivo.
+8. Repare em espaços extras ou caracteres de outros alfabetos no nome.
+9. Escaneie o arquivo com antivírus sem abrir, se houver antivírus.
+10. Confirme o envio com o remetente por outro canal, se possível.
+11. Diante de dúvida, apague o arquivo sem abrir.
+
+ATENCAO
+-------
+Mostrar extensões não elimina vírus: só revela o nome real do arquivo.
+Um arquivo sem sinais suspeitos ainda pode ser malicioso.
+Nunca abra anexo inesperado só porque o remetente é conhecido.
+A extensão pode ser falsificada; o conteúdo é que decide o risco.
+Planilhas com macros e atalhos merecem cuidado extra.
+Se o sistema travar ou mostrar mensagens estranhas após abrir algo,
+desconecte o equipamento da rede e procure ajuda.
+Não execute o arquivo para testar: isso é o que o atacante espera.
+
+SE NAO TIVER
+------------
+Sem antivírus, redobre a cautela e confirme o arquivo com quem o enviou.
+Se o sistema esconde extensões, veja as propriedades antes de decidir.
+Não substitua a inspeção por abrir o arquivo para testar.
+Sem confirmação do remetente, trate o anexo como suspeito.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue ler a extensão real e decidiu com base nela.
+O arquivo suspeito permanece fechado, apagado ou em quarentena.
+Nenhum programa foi instalado durante a inspeção.
+
+FONTES
+------
+CISA: orientações sobre phishing e quadro de extensão dupla.
+MITRE ATT&CK, técnica T1036.007: extensão dupla.
+Prática consolidada de segurança da informação.
+Este texto é resumo operacional e não substitui treinamento.

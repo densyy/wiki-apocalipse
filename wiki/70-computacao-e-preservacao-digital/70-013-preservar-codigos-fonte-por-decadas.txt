@@ -1,0 +1,83 @@
+==============================================================================
+CODIGO: 70-013
+TITULO: Como preservar códigos-fonte por décadas
+CATEGORIA: 70 - Computação de baixo consumo e preservação digital
+TEMPO: 60 minutos
+RISCO: baixo
+EXIGE: computador, dois meios de armazenamento, caderno, energia
+REVISAO: 2026-11
+PALAVRAS-CHAVE: código, fonte, preservação, backup, integridade, git
+==============================================================================
+
+OBJETIVO
+--------
+Guardar o código de um programa em formatos abertos e meios duráveis para
+recuperá-lo e reconstruí-lo anos depois, sem depender de serviços externos.
+
+QUANDO USAR
+-----------
+Quando um programa próprio precisa continuar funcionando por muitos anos.
+Quando sites, contas ou ferramentas usadas para guardar o código somem.
+Quando o código depende de bibliotecas antigas, sem manutenção.
+Quando o trabalho precisa ser auditado ou reconstruído muito tempo depois.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Computador com o código e um sistema de versões (Git) disponíveis.
+- Dois meios de guarda diferentes, como disco externo e pendrive.
+- Um terceiro meio em outro lugar, como a casa de alguém de confiança.
+- Caderno e lápis para o registro manual.
+- Ferramenta de hash (sha256sum ou equivalente do sistema).
+- Fonte de energia estável e um leitor de arquivos de texto.
+
+PROCEDIMENTO
+------------
+1. Reúna em uma pasta todos os arquivos de código e de montagem.
+2. Salve cada arquivo em texto simples UTF-8, sem BOM, com quebras LF.
+3. Escreva um LEIA-ME em texto simples com o que o programa faz.
+4. Anote no LEIA-ME como compilar e executar o programa.
+5. Anote versões do compilador, bibliotecas e sistema operacional.
+6. Crie um repositório Git e registre uma versão (commit) dos arquivos.
+7. Calcule um código curto (hash SHA-256) de cada arquivo e salve a lista.
+8. Copie a pasta para os dois meios locais e para o meio em outro lugar.
+9. Anote no caderno data, número da versão e o hash da lista.
+10. Desconecte os meios e guarde cada um em um lugar diferente.
+11. A cada mudança importante, repita os passos 6 a 10 com novo número.
+12. A cada ano aproximadamente, reconecte os meios e abra os arquivos.
+13. Recalcule os hashes e compare com o caderno; corrija diferenças.
+
+ATENCAO
+-------
+- Arquivos em formatos fechados podem ficar ilegíveis no futuro.
+- Um hash detecta mudança, mas não prova que o original estava correto.
+- Meios de guarda falham sem aviso e têm vida limitada.
+- O erro mais comum é apagar arquivos e confiar em uma só cópia.
+- Senhas e chaves no código vazam se a cópia cair em mãos erradas.
+- Se os hashes não baterem, pare e recupere a cópia de outro meio.
+
+SE NAO TIVER
+------------
+- Sem Git, numere os arquivos e anote cada versão no caderno.
+- Sem ferramenta de hash, confira abrindo e comparando tamanho e data.
+- Essa conferência é mais fraca: não detecta troca de conteúdo igual.
+- Sem meio distante, entregue uma cópia a pessoa de confiança.
+- Sem computador, imprima o código e guarde o papel em lugar seco.
+
+COMO SABER QUE DEU CERTO
+-------------------------
+- A pasta abre e os acentos aparecem corretos em todos os arquivos.
+- O programa compila e roda com as versões anotadas no caderno.
+- Os hashes recalculados são iguais aos anotados no caderno.
+- Cada meio abre e mostra o mesmo conteúdo da pasta original.
+
+FONTES
+------
+- Digital Preservation Handbook, Digital Preservation Coalition, 2a edicao.
+- NIST, FIPS 180-4 (Secure Hash Standard): o algoritmo SHA-256.
+- Software Heritage, do Inria com apoio da UNESCO: arquivo de codigo-fonte.
+- Chamada de Paris de 2019, UNESCO: codigo-fonte como patrimonio.
+- Regra das tres copias, dois meios e uma fora do local: pratica comum.

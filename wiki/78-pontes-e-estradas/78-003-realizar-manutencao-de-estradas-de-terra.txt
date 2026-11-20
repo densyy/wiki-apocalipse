@@ -1,0 +1,78 @@
+==============================================================================
+CODIGO: 78-003
+TITULO: Como realizar manutenção de estradas de terra
+CATEGORIA: 78 - Pontes, estradas e infraestrutura de transporte
+TEMPO: 120 minutos
+RISCO: medio
+EXIGE: ferramentas de terra, cascalho miúdo e sinalização do trecho
+REVISAO: 2026-11
+PALAVRAS-CHAVE: manutenção, buraco, valeta, erosão, cascalho, compactar
+==============================================================================
+
+OBJETIVO
+--------
+Manter a estrada passável e segura com reparos periódicos.
+
+QUANDO USAR
+-----------
+Depois de chuva forte, quando aparecem buracos e erosão.
+Antes da estação chuvosa, para limpar valetas.
+Quando a pista fica escorregadia ou com sulcos profundos.
+Ao notar vegetação invadindo a faixa de rolamento.
+
+NAO USE QUANDO
+--------------
+Não tampe buraco só com terra solta sem compactar.
+Não trabalhe na pista com veículos passando sem sinalização.
+Não descarte material de limpeza dentro das valetas.
+
+MATERIAIS
+---------
+- Enxada, pá e rastelo para abrir terra e limpar valetas.
+- Cascalho ou pedra miúda para preencher buracos.
+- Rolo de madeira ou pedra presa a corda para compactar.
+- Foice ou facão para cortar mato (com cuidado e luvas).
+- Estacas e pano colorido para sinalizar trecho em reparo.
+
+PROCEDIMENTO
+------------
+1. Percorra a estrada e anote buracos, sulcos e valetas entupidas.
+2. Sinalize o trecho em reparo com estaca e pano colorido.
+3. Retire folhas, lama e pedras que obstruem as valetas.
+4. Escave até a terra firme dentro de cada buraco.
+5. Preencha com cascalho miúdo em camadas finas.
+6. Compacte cada camada com rolo ou pisoteio firme.
+7. Raspe os sulcos e devolva o material ao leito da pista.
+8. Corte o mato que invade a faixa, rente ao solo.
+9. Reforce bordas erodidas com pedra ou capim assentado.
+10. Reabra a passagem de água onde a valeta foi interrompida.
+11. Anote os reparos e programe nova inspeção após a chuva.
+
+ATENCAO
+-------
+Buraco mal fechado volta a aparecer na primeira chuva.
+Valeta entupida é a causa mais comum de erosão da pista.
+Mato alto esconde buracos e reduz a visão de quem passa.
+Pedra grande solta na pista pode quebrar casco ou ferramenta.
+Use luvas ao manusear mato e ferramenta cortante.
+Pare o reparo se chover forte e retome com tempo seco.
+
+SE NAO TIVER
+------------
+Sem cascalho, use pedra miúda misturada com terra firme.
+Sem rolo, use pedra presa em corda e arraste sobre o trecho.
+Sem rastelo, use ramo de árvore para varrer folhas.
+Sem pano, sinalize com galhos do lado da pista em reparo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Não há poças nem sulcos fundos na faixa de rolamento.
+As valetas estão abertas e escoam água sem represar.
+O cascalho dos buracos permanece compactado após a chuva.
+A faixa está livre de mato alto e pedras soltas.
+
+FONTES
+------
+Prática consolidada de conservação de estradas de terra, baseada em
+inspeção após as chuvas e reparo imediato dos primeiros sinais de
+erosão. A periodicidade depende do clima e do movimento local.

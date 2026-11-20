@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 53-012
+TITULO: Como identificar princípios ativos em formulações
+CATEGORIA: 53 - Produção de medicamentos e farmacologia
+TEMPO: 25 minutos
+RISCO: medio
+EXIGE: embalagem do remédio, bula, boa luz
+REVISAO: 2026-11
+PALAVRAS-CHAVE: princípio ativo, fármaco, genérico, bula, remédio
+==============================================================================
+
+OBJETIVO
+--------
+Identificar o princípio ativo de um remédio pela embalagem e pela bula.
+
+QUANDO USAR
+-----------
+Ao comparar dois remédios com nomes de marca diferentes.
+Ao conferir se o remédio recebido é o mesmo que o prescrito.
+
+NAO USE QUANDO
+--------------
+Não use para escolher dose, horário ou duração do tratamento.
+Não substitui prescrição, bula nem orientação do farmacêutico.
+Não serve para tratar, diagnosticar ou trocar um medicamento.
+
+MATERIAIS
+---------
+- Embalagem do remédio (ou o frasco, se não houver caixa).
+- Bula que vem dentro da embalagem.
+- Papel e lápis para anotar o nome encontrado.
+
+PROCEDIMENTO
+------------
+1. Defina princípio ativo: a parte que produz o efeito no corpo.
+2. Entenda o excipiente: é o restante, sem efeito terapêutico.
+3. Pegue a embalagem e a bula do remédio.
+4. Leia o nome impresso na frente da embalagem.
+5. Na bula, ache o item chamado "Composição".
+6. Anote o nome que vem depois de "princípio ativo".
+7. Se não houver esse termo, leia a lista de componentes.
+8. Separe os excipientes: amido, lactose, corantes e conservantes.
+9. Confira a quantidade em mg por comprimido, cápsula ou mL.
+10. Repita para cada ativo se a bula listar mais de um.
+11. Anote a forma do sal, como cloridrato, sulfato ou citrato.
+12. Compare com o nome genérico impresso na embalagem.
+13. Escreva o nome exato, sem abreviação, antes de guardar.
+
+ATENCAO
+-------
+O nome de marca não diz qual é o princípio ativo.
+Não confunda o sal com o ativo: a dose muda conforme o sal.
+Se a bula estiver ilegível, não adivinhe pelo aspecto do comprimido.
+
+SE NAO TIVER
+------------
+Sem bula, leia o nome impresso na embalagem ou no frasco.
+Sem embalagem, pergunte ao farmacêutico antes de usar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue dizer o nome do ativo sem olhar a marca.
+Você separou o fármaco dos excipientes na lista da bula.
+Você anotou a quantidade e a forma do sal ao lado do nome.
+
+FONTES
+------
+Anvisa, Bulário Eletrônico de medicamentos e rotulagem de genéricos.
+Farmacopeia Brasileira, denominações e formas farmacêuticas.
+Resumo educativo; não substitui bula nem orientação farmacêutica.

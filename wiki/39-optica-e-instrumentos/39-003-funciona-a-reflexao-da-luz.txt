@@ -1,0 +1,68 @@
+==============================================================================
+CODIGO: 39-003
+TITULO: Como funciona a reflexão da luz
+CATEGORIA: 39 - Óptica e instrumentos científicos
+TEMPO: 15 minutos
+RISCO: baixo
+EXIGE: espelho pequeno, lanterna, papel branco, lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: luz, reflexão, espelho, ângulo, incidência, normal, brilho
+==============================================================================
+
+OBJETIVO
+--------
+Entender e demonstrar para onde vai a luz que bate em uma superfície.
+
+QUANDO USAR
+-----------
+Quando um espelho devolve uma imagem e você quer saber por quê.
+Quando precisa prever para onde um facho de luz será devolvido.
+Quando vai usar espelho para enviar sinal ou direcionar luz.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Espelho pequeno (tampa metálica polida de panela).
+- Lanterna (facho de sol entrando pela janela).
+- Papel branco e lápis (caderno e caneta).
+
+PROCEDIMENTO
+------------
+1. Apoie o espelho em pé sobre a mesa, voltado para a lanterna.
+2. Aponte a lanterna para o espelho formando um ângulo com a superfície.
+3. Veja no papel o ponto devolvido pelo espelho, em uma direção só.
+4. Desenhe no papel o contorno do espelho e o ponto de impacto.
+5. Marque a direção do facho que chega e do facho que sai.
+6. Trace uma reta perpendicular ao espelho no ponto de impacto.
+7. Essa reta é a normal, perpendicular à superfície no ponto de impacto.
+8. Compare os dois ângulos em relação à normal: são iguais.
+9. Incline mais a lanterna e confirme que os ângulos continuam iguais.
+10. Aponte a lanterna ao papel: luz espalhada, reflexão difusa.
+
+ATENCAO
+-------
+A reflexão devolve a luz; não a cria. Sem luz não há reflexão.
+A imagem no espelho fica atrás dele, à mesma distância em que você está.
+Espelho sujo, riscado ou embaçado espalha a luz e perde nitidez.
+Nunca aponte a luz refletida para os olhos de ninguém.
+Feixe intenso de sol ou laser refletido pode lesionar a vista.
+
+SE NAO TIVER
+------------
+Sem espelho, use tampa metálica polida, vidro escuro liso ou colher.
+Sem lanterna, use um facho de sol entrando pela janela.
+Sem papel, desenhe os raios no chão de terra ou numa tábua.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O ponto luminoso aparece do outro lado da normal.
+Os dois ângulos medidos em relação à normal são iguais.
+No papel a mancha é ampla e fraca; no espelho é estreita e forte.
+
+FONTES
+------
+OpenStax, College Physics 2e, seção 25.2 "The Law of Reflection" (2022).
+The Physics Classroom, tutoria "The Law of Reflection".

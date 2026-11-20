@@ -1,0 +1,93 @@
+==============================================================================
+CODIGO: 17-001
+TITULO: Como usar noções de meteorologia para sobreviver
+CATEGORIA: 17 - Meteorologia, clima e meio ambiente
+TEMPO: 15 minutos
+RISCO: alto
+EXIGE: vista livre para o céu
+REVISAO: 2026-11
+PALAVRAS-CHAVE: tempo, clima, nuvens, vento, tempestade, previsão, sinais
+==============================================================================
+
+OBJETIVO
+--------
+Antecipar mudanças do tempo e decidir quando proteger pessoas e material.
+
+QUANDO USAR
+-----------
+Sem rádio, internet ou previsão, ao acampar ou caminhar.
+Antes de montar abrigo, acender fogo ou guardar água e comida.
+Quando a fumaça mudar de direção ou o vento mudar de rumo.
+Ao ver nuvens crescendo ou escurecendo no horizonte.
+Em frio intenso, para decidir quando reforçar o abrigo antes da neve.
+
+NAO USE QUANDO
+--------------
+Quando houver aviso oficial da Defesa Civil: siga o aviso, não os sinais.
+Não use esta leitura para navegar, atravessar água ou subir serra.
+Sinais locais mostram tendência, não garantem o tempo que virá.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Escolha um ponto com vista livre para o céu e para o horizonte.
+2. Solte folhas ou grama e veja para onde o vento as leva.
+3. Repita a leitura do vento a cada 30 minutos e anote se o rumo mudou.
+4. Observe a fumaça: subindo reta indica tempo bom; baixa e achatada indica
+   tempestade.
+5. Observe as nuvens altas e finas, chamadas cirrus: em geral indicam tempo
+   bom, mas se aumentarem com vento frio constante, prepare-se para piora.
+6. Observe as nuvens brancas e fofas, chamadas cumulus: pequenas indicam bom
+   tempo; crescendo como montanha, podem virar tempestade.
+7. Observe as nuvens baixas e cinzentas, chamadas stratus: camada baixa e
+   uniforme no céu costuma indicar chuva.
+8. Observe a nuvem que se ergue em bigorna, chamada cumulonimbus: se vier
+   na sua direção, espere trovoadas.
+9. Observe o ar: pesado e úmido, com cheiros fortes e sons que chegam longe,
+   indica frente de baixa pressão e tempo ruim que pode durar dias.
+10. Observe aves e insetos: voo baixo e mais insetos em atividade indicam
+    chuva provável.
+11. Anote cada sinal com a hora e compare com a observação seguinte.
+12. Decida: com dois ou mais sinais de piora, reforce o abrigo, guarde o
+    material e afaste-se de encostas e leitos de rio antes da mudança.
+
+ATENCAO
+-------
+Sinais da natureza são tendência, não previsão confiável: podem falhar.
+Uma nuvem isolada não prova nada; use sempre dois ou mais sinais juntos.
+Vento que muda rápido indica instabilidade: não suba em serra nem atravesse
+água nessa condição.
+Fumaça baixa também pode virar de um fogo fraco: observe o conjunto.
+Nunca entre em área de raios, encosta ou leito de rio achando que o
+tempo vai melhorar.
+Se houver aviso oficial, ele prevalece sobre esta leitura.
+Com raios ou céu escurecendo, pare de observar e proteja-se primeiro.
+
+SE NAO TIVER
+------------
+Sem céu visível, por névoa ou mata fechada, use vento, fumaça, cheiro e som:
+são sinais secundários e menos confiáveis.
+Sem folhas, use grama, poeira ou a ponta de um pano leve para ver o vento.
+Sem fogo, não há fumaça para ler: reforce a observação de nuvens e vento.
+Se não conseguir observar, não adivinhe: aja como se o tempo pudesse piorar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você registrou pelo menos duas observações separadas no tempo e comparou a
+hora e o rumo do vento.
+Você reconheceu o tipo de nuvem pelo formato e pela altura aproximada.
+A decisão de proteger abrigo ou material veio antes da chuva ou do vento
+forte, não depois.
+
+FONTES
+------
+Manual de sobrevivência FM 21-76 do Exército dos Estados Unidos, de 1992:
+capítulo 15, "Weather Signs", e apêndice G, "Clouds: Foretellers
+of Weather".
+Material educacional JetStream do Serviço Nacional de Meteorologia dos
+Estados Unidos, seção "Clouds".
+Este texto é resumo operacional e não substitui treinamento nem previsão
+oficial.

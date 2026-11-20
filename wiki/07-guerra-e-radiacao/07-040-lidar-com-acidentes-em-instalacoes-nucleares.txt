@@ -1,0 +1,77 @@
+==============================================================================
+CODIGO: 07-040
+TITULO: Como lidar com acidentes em instalações nucleares
+CATEGORIA: 07 - Guerra, radiação e catástrofes nucleares
+TEMPO: 30 minutos
+RISCO: critico
+EXIGE: rádio a pilha, documentos, roupa fechada, saco plástico
+REVISAO: 2026-11
+PALAVRAS-CHAVE: usina, vazamento, abrigo, evacuação, sirene, iodo
+==============================================================================
+
+OBJETIVO
+--------
+Abrigue-se e siga a ordem oficial após vazamento em usina nuclear.
+
+QUANDO USAR
+-----------
+Quando ouvir sirene de usina ou alerta de vazamento nuclear.
+Quando a rádio falar em nuvem radioativa na sua região.
+Quando morar perto de usina com ordem de ficar dentro.
+Quando agente mandar sair por causa de vazamento próximo.
+
+NAO USE QUANDO
+--------------
+Não use para explosão com clarão e cogumelo. Veja 07-001.
+
+MATERIAIS
+---------
+- Rádio a pilha (celular com rádio FM).
+- Roupa fechada, calçado fechado e capa de chuva.
+- Saco plástico para roupa suja e pano úmido.
+- Água e comida lacradas para um dia.
+- Documentos e remédios de uso diário.
+
+PROCEDIMENTO
+------------
+1. Entre no prédio firme mais próximo sem demora.
+2. Feche portas, janelas e frestas com pano úmido.
+3. Desligue ventilador e ar que puxa ar de fora.
+4. Ligue o rádio a pilha e espere a ordem oficial.
+5. Fique no miolo do prédio longe de janela.
+6. Troque a roupa de fora por roupa limpa se veio da rua.
+7. Guarde a roupa suja em saco plástico fechado longe.
+8. Lave pele e cabelo com água e sabão sem esfregar.
+9. Não busque filho na escola. Ele está abrigado lá.
+10. Evacue somente se a autoridade mandar, pela rota dita.
+11. Leve documento, remédio, água e comida lacrada ao sair.
+12. Tome iodo somente se a autoridade mandar, na dose dita.
+
+ATENCAO
+-------
+Nuvem não tem cheiro nem cor e adoece dias depois.
+Sair sem ordem põe você dentro da nuvem mais forte.
+Máscara segura poeira no pulmão mas não para raio gama.
+Iodo por conta própria intoxica e não protege o corpo todo.
+Comida aberta e água de fora podem estar contaminadas.
+Este texto não trata ferido grave nem enjoo de radiação.
+Procure socorro se houver vômito, tontura ou queimadura.
+
+SE NAO TIVER
+------------
+Sem rádio, siga sirene, agente e vizinho informado.
+Sem saco plástico, use balde com tampa para roupa suja.
+Sem água lacrada, beba só o que estava fechado em casa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você ficou dentro até a ordem oficial de sair ou ficar.
+Você não saiu para buscar parente durante a nuvem.
+Ninguém comeu comida aberta vinda de fora do abrigo.
+
+FONTES
+------
+Página de emergências por radiação da FEMA no Ready.
+Página sobre emergências por radiação do CDC americano.
+Página de proteção contra radiação da EPA americana.
+Prática consolidada de sobrevivência civil em manual militar.

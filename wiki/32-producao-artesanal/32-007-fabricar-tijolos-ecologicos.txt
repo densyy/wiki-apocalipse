@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 32-007
+TITULO: Como fabricar tijolos ecológicos
+CATEGORIA: 32 - Produção industrial e manufatura artesanal
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: solo argiloso com areia, cimento, água, molde ou prensa, luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: tijolo, ecológico, solo, cimento, adobe, prensa, cura
+==============================================================================
+
+OBJETIVO
+--------
+Produzir tijolos sem queima, com solo local e cimento, para vedar paredes.
+QUANDO USAR
+-----------
+Quando faltam tijolos industrializados e existe solo argiloso no local.
+Quando não há lenha ou combustível para queimar tijolos.
+Quando é preciso vedar sem depender de entrega externa de material.
+NAO USE QUANDO
+--------------
+Quando o solo tiver raízes, lixo, sal ou material orgânico.
+Quando não houver água garantida para a cura dos primeiros sete dias.
+Quando for preciso suportar carga estrutural sem projeto e ensaio.
+MATERIAIS
+---------
+- Solo de subsolo com argila e areia, sem matéria orgânica nem sal.
+- Cimento Portland comum (CP II, se disponível).
+- Água limpa e peneira de malha de aproximadamente 3 mm.
+- Molde de madeira, molde metálico ou prensa manual de tijolos.
+- Luvas, óculos, pá, enxada, balde e lona para cobrir.
+PROCEDIMENTO
+------------
+1. Retire a camada superficial de terra com raízes e folhas.
+2. Escolha solo de subsolo com argila e areia, sem argila pura.
+3. Deixe o solo secar ao ar e peneire em malha de aproximadamente 3 mm.
+4. Meça dez partes de solo e uma parte de cimento, em volume.
+5. Misture solo e cimento secos até a cor ficar uniforme.
+6. Borrife água aos poucos, mexendo sem parar.
+7. Aperte um punhado: deve manter a forma sem soltar água.
+8. Encha o molde com a mistura, depositando em camadas finas.
+9. Compacte cada camada com pilão de madeira até ficar firme.
+10. Desmolde em superfície plana e empilhe em local coberto e arejado.
+11. Regue duas a quatro vezes ao dia nos primeiros sete dias.
+12. Deixe curar por aproximadamente 28 dias antes de assentar.
+ATENCAO
+-------
+O cimento em pó irrita pele e olhos: use luvas e óculos e lave as mãos.
+A poeira de cimento prejudica as vias respiratórias; misture ao ar livre.
+A secagem rápida nos primeiros dias reduz a resistência da peça.
+Solo com excesso de argila e de água racha e encolhe ao secar.
+Não use em parede de carga sem ensaio: este texto não dimensiona estrutura.
+SE NAO TIVER
+------------
+Sem peneira, esfregue o solo seco nas mãos e retire pedras.
+Sem prensa, use molde de madeira e compacte cada camada com pilão.
+Sem cimento, faça adobe de barro com palha picada e seque ao sol.
+Adobe resiste menos à água: não use em área úmida sem proteção.
+COMO SABER QUE DEU CERTO
+------------------------
+O punhado mantém a forma sem soltar água nem desfazer-se.
+A peça desmolda inteira, com bordas firmes e sem rachaduras.
+Após sete dias, o tijolo não se desfaz ao ser apertado com a mão.
+FONTES
+------
+Artigo "Comportamento estrutural de tijolos de solo-cimento" (revista
+Interações, 2019), que consolida as normas ABNT NBR 10834, 10836 e 12023
+e a dosagem da ABCP. Cura segundo o manual Solocimento na construção de
+escolas (MEC/CEBRACE, 1981). Prática consolidada de terra crua.

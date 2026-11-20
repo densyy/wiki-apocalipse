@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 51-024
+TITULO: Como utilizar geometria na construção civil
+CATEGORIA: 51 - Matemática aplicada à sobrevivência
+TEMPO: 45 minutos
+RISCO: baixo
+EXIGE: fita métrica, caderno, lápis, estacas e corda
+REVISAO: 2026-11
+PALAVRAS-CHAVE: geometria, esquadro, pitágoras, área, volume, rampa, medir
+==============================================================================
+
+OBJETIVO
+--------
+Traçar cantos em esquadro e calcular medidas de material antes de comprar.
+
+QUANDO USAR
+-----------
+Ao marcar os cantos de uma fundação antes de cavar.
+Ao calcular quantidade de piso, tinta, areia ou concreto.
+Ao definir o caimento de um piso até o ralo.
+
+NAO USE QUANDO
+--------------
+Como substituto de projeto estrutural: isto não dimensiona vigas ou pilares.
+Para substituir nível, prumo ou referência de engenheiro em obra grande.
+
+MATERIAIS
+---------
+- Fita métrica (ou corda com nós a cada metro).
+- Caderno e lápis (ou carvão para anotar sobre madeira).
+- Estacas de madeira (ou pregos, ou pedras para marcar pontos).
+- Corda fina (ou arame) para esticar e conferir alinhamentos.
+
+PROCEDIMENTO
+------------
+1. Marque com estaca o ponto de encontro dos dois lados do canto.
+2. Escolha uma unidade repetível: metro, palmo ou outro comprimento fixo.
+3. Meça 3 unidades em um lado e 4 no outro a partir da estaca.
+4. Marque cada ponto medido com uma estaca ou pedra no solo.
+5. Confira a distância entre os dois pontos: deve ser 5 unidades.
+6. Ajuste os lados até essa distância fechar 5 unidades.
+7. Para piso ou parede, meça os lados, multiplique e desconte os vãos.
+8. Para concreto, multiplique comprimento por largura por altura.
+9. Para caimento de 1%, preveja 1 cm de queda por metro até o ralo.
+
+ATENCAO
+-------
+Confira cada medida duas vezes: um erro no canto se repete na parede toda.
+A regra 3-4-5 exige unidades iguais; nunca misture metros com palmos.
+Não dimensiona vigas, pilares, lajes nem fundações: isso exige projeto.
+Volumes são aproximados: preveja aproximadamente 10% de perda.
+Caimento errado deixa água parada; confira a queda com a corda esticada.
+Obra grande ou dúvida estrutural: pare e busque um profissional.
+
+SE NAO TIVER
+------------
+Sem fita métrica, use corda com nós e conte os nós.
+Sem estaca, use pregos ou pedras fincadas no chão.
+Sem calculadora, faça a conta no caderno em partes menores.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A distância entre as duas estacas é exatamente 5 unidades.
+Os lados medidos e multiplicados cobrem as áreas anotadas.
+A corda mostra queda contínua de 1 cm por metro até o ralo.
+
+FONTES
+------
+Prática consolidada de medição e traçado na construção civil.
+Geometria elementar: Pitágoras e retângulo; sem documento único.

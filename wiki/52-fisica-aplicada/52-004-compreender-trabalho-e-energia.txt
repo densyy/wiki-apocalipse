@@ -1,0 +1,73 @@
+==============================================================================
+CODIGO: 52-004
+TITULO: Como compreender trabalho e energia
+CATEGORIA: 52 - Física aplicada e princípios fundamentais
+TEMPO: 20 minutos
+RISCO: baixo
+EXIGE: papel, lápis, algo cujo peso você consiga estimar
+REVISAO: 2026-11
+PALAVRAS-CHAVE: trabalho, energia, força, joule, potência, esforço, watt
+==============================================================================
+
+OBJETIVO
+---------
+Distinguir trabalho, energia e potência e prever o esforço para mover carga.
+
+QUANDO USAR
+-----------
+Quando precisar estimar o esforço para levantar ou arrastar uma carga.
+Quando escolher entre alavanca, roldana ou rampa para mover um peso.
+Quando comparar duas formas de executar a mesma tarefa.
+Quando quiser saber por que uma máquina facilita o trabalho.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para este procedimento.
+Não substitui cálculo de engenharia para cargas críticas ou estruturas.
+
+MATERIAIS
+---------
+- Papel e lápis para anotar grandezas (qualquer superfície serve).
+- Um objeto de peso conhecido ou estimado (pedra, balde com água).
+- Régua, trena ou passos contados para medir distância.
+
+PROCEDIMENTO
+-------------
+1. Escolha uma tarefa simples de levantar ou arrastar uma carga.
+2. Anote a força necessária, em newtons, ou estime o peso da carga.
+3. Meça a distância que a carga percorre, em metros.
+4. Multiplique força por distância: isso é o trabalho, em joules.
+5. Repita a medição usando outra forma de fazer a mesma tarefa.
+6. Compare os dois produtos força vezes distância.
+7. Anote o tempo gasto e divida trabalho por tempo: é a potência, em watts.
+8. Observe onde parte do esforço vira calor por atrito.
+
+ATENCAO
+-------
+Trabalho em física não é o esforço do dia a dia: segurar peso parado não
+conta como trabalho, porque não há deslocamento.
+Uma máquina reduz a força necessária, mas nunca reduz o trabalho total.
+Ganhar força com alavanca, roldana ou rampa exige mais distância.
+Nunca fique sob uma carga suspensa, mesmo com alavanca ou roldana.
+Atrito consome parte do esforço como calor; nenhuma máquina é cem por cento
+eficiente.
+Estimativas grosseiras não substituem cálculo para cargas críticas.
+
+SE NAO TIVER
+------------
+Sem régua, conte passos e adote aproximadamente 0,7 metro por passo.
+Sem balança, use a referência de que 1 litro de água pesa 1 quilograma.
+Sem lápis, decore a relação: trabalho é força vezes distância.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você explica por que uma rampa longa exige menos força que uma curta.
+Você afirma que joule mede trabalho e energia, e watt mede potência.
+Você percebe que, sem atrito, energia cinética mais potencial se conserva.
+
+FONTES
+------
+Conceitos consolidados de mecânica clássica em manuais de física.
+Definições de joule e watt conforme o SI, segundo o NIST.
+Também em livros universitários de física (OpenStax; Young e Freedman) e
+no manual de física clássica do Departamento de Energia dos Estados Unidos.

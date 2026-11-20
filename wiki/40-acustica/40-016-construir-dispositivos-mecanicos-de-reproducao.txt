@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 40-016
+TITULO: Como construir dispositivos mecânicos de reprodução sonora
+CATEGORIA: 40 - Acústica e engenharia sonora
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: caixa de madeira, tira de metal, cilindro, arame, pinos, alicate
+REVISAO: 2026-11
+PALAVRAS-CHAVE: caixa de música, pente, cilindro, pino, melodia, som, dente
+==============================================================================
+
+OBJETIVO
+--------
+Construir um mecanismo que repete uma sequência de notas sem eletricidade.
+
+QUANDO USAR
+-----------
+Quando não há pilha, rádio ou aparelho para tocar uma melodia curta.
+Para entreter crianças ou marcar rotina com o mesmo toque repetido.
+
+NAO USE QUANDO
+--------------
+Quando for preciso reproduzir vozes, avisos falados ou uma gravação.
+Sem tempo para afinar: o mecanismo repete só o que os pinos programaram.
+
+MATERIAIS
+---------
+- Caixa rasa de madeira firme, cerca de 20 cm (lata vazia).
+- Tira de aço flexível com 6 a 8 dentes (arame de clipe).
+- Cilindro oco de madeira ou papelão (rolo) e arame reto para eixo.
+- Pinos (alfinetes), dois pregos de suporte, alicate, faca e cera.
+
+PROCEDIMENTO
+------------
+1. Corte a tira de metal em 6 a 8 dentes de comprimentos diferentes.
+2. Fixe a base do pente na caixa com os dentes livres para vibrar.
+3. Passe o arame reto pelo centro do cilindro, alinhado ao eixo.
+4. Prenda o eixo nos dois pregos, deixando o cilindro girar sem apertar.
+5. Dobre a ponta do eixo em manivela para girar com a mão.
+6. Marque uma linha reta no cilindro, paralela ao eixo, sobre os dentes.
+7. Espete um pino por nota na linha, na ordem em que as notas devem soar.
+8. Ajuste cada pino para beliscar a ponta de um dente e soltar em seguida.
+
+ATENCAO
+-------
+Pregos e arame cortam e perfuram: use alicate, luvas e óculos se tiver.
+Lixe as pontas soltas antes de deixar a peça com crianças.
+Cortar o dente é irreversível: encurte aos poucos e teste entre cada corte.
+Pino muito alto trava o pente e entorta os dentes; abaixe antes de girar.
+Sem a caixa firme, o som fica fraco mesmo com a afinação correta.
+O aparelho não grava fala nem som externo: guarde a sequência só nos pinos.
+
+SE NAO TIVER
+------------
+Sem tira de metal, use um clipe de papel desdobrado como dente único.
+Sem cilindro de madeira, use rolo de papelão firme ou garrafa plástica.
+Sem pregos, prenda os pinos com cera, breu ou cola na posição marcada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ao girar uma volta, os dentes vibram e soam notas distinguíveis.
+A mesma sequência repete a cada volta; o dente curto soa mais agudo.
+
+FONTES
+------
+Encyclopaedia Britannica, verbete music box: pinos no cilindro
+beliscam os dentes do pente; a ordem dos pinos define a melodia.
+Demonstração 3D40.60, Universidade do Texas em Austin: dente longo soa
+mais grave e dente curto soa mais agudo. National Museum of American
+History (Smithsonian), caixas de cilindro e pente. Sem documento único.

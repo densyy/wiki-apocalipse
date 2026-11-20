@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 37-006
+TITULO: Como desenhar mapas manualmente
+CATEGORIA: 37 - Cartografia, topografia e levantamento
+TEMPO: 60 minutos
+RISCO: baixo
+EXIGE: papel, lápis, bússola, caderno, fita métrica ou passos calibrados
+REVISAO: 2026-11
+PALAVRAS-CHAVE: mapa, croqui, bússola, escala, norte, legenda, desenhar
+==============================================================================
+
+OBJETIVO
+--------
+Produzir um croqui legível de uma área pequena, com norte e escala.
+
+QUANDO USAR
+-----------
+Quando não houver mapa impresso nem GPS da região.
+Para registrar poços, trilhas e abrigos e planejar rotas a pé.
+
+NAO USE QUANDO
+--------------
+Não use como guia única em terreno perigoso ou com pouca visibilidade.
+Não desenhe curvas de nível sem medir altitudes: ficarão erradas.
+
+MATERIAIS
+---------
+- Papel limpo, liso ou com grade leve.
+- Lápis e borracha (caneta se o papel for protegido da umidade).
+- Bússola (ou bastão reto para achar o norte pela sombra).
+- Caderno para anotar distâncias e rumos.
+- Fita métrica, ou seus próprios passos calibrados.
+
+PROCEDIMENTO
+------------
+1. Defina a área e o propósito e fique num ponto alto com vista ampla.
+2. Ache o norte com a bússola, longe de metal e fios elétricos.
+3. Sem bússola, espete um bastão reto e marque a ponta da sombra.
+4. Espere cerca de 20 minutos e marque a nova ponta da sombra.
+5. A linha entre as marcas é leste-oeste; a primeira é oeste de manhã.
+6. Desenhe uma seta no topo do papel apontando para o norte.
+7. Calibre o passo: meça 100 m e conte quantos passos você dá.
+8. Escolha a escala: por exemplo, 1 cm no papel para 10 m no terreno.
+9. Desenhe o que é fixo: estradas, rios, cercas e edifícios.
+10. Vá a cada ponto, anote o rumo e a distância e marque no papel.
+11. Escreva legenda, título, data e autor na borda do papel.
+
+ATENCAO
+-------
+O croqui é aproximado: serve para orientar, não para substituir um mapa
+confiável. Bússola perto de metal ou fios erra o norte. Passos mal
+calibrados acumulam erro: recalibre ao mudar de terreno ou de ritmo.
+Não navegue só por este croqui em terreno perigoso ou com neblina.
+Se o rumo não fechar com o terreno, pare e refaça a medição.
+
+SE NAO TIVER
+------------
+Sem bússola, use a sombra do bastão para achar o norte.
+Sem fita métrica, conte os passos já calibrados.
+Sem papel, desenhe na terra lisa e copie para o caderno.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O norte, a escala, a legenda, o título e a data aparecem no croqui.
+Ao caminhar, cada feição desenhada coincide com o que está no terreno.
+
+FONTES
+------
+Prática consolidada de croqui e navegação terrestre: medir passos, rumo
+e escala. Conceito de mapa topográfico conforme material do USGS.

@@ -1,0 +1,86 @@
+==============================================================================
+CODIGO: 56-015
+TITULO: Como evitar consanguinidade em rebanhos
+CATEGORIA: 56 - Reprodução, genética e melhoramento
+TEMPO: 60 minutos
+RISCO: baixo
+EXIGE: caderno, registro de nascimentos e dos pais
+REVISAO: 2026-11
+PALAVRAS-CHAVE: consanguinidade, endogamia, rebanho, touro, parentesco
+==============================================================================
+
+OBJETIVO
+--------
+Evitar acasalamentos entre parentes e manter o rebanho variado.
+
+QUANDO USAR
+-----------
+Ao comprar um touro ou macho reprodutor para o rebanho.
+Antes de cada estação de monta ou época de acasalamento.
+Quando os registros mostrarem pai e filha ou irmãos cruzados.
+Quando a fertilidade ou o vigor das crias começar a cair.
+Ao fechar o rebanho por falta de pasto ou de dinheiro.
+Quando um defeito herdado aparecer com frequência nas crias.
+
+NAO USE QUANDO
+--------------
+Não use esta rotina para tentar fixar uma raça ou biótipo.
+Não a use como desculpa para manter animais doentes no rebanho.
+Este guia não substitui avaliação genética nem exame de um técnico.
+
+MATERIAIS
+---------
+- Caderno ou folhas para anotar cada animal.
+- Caneta ou lápis.
+- Registro de nascimentos, dos pais e da origem do macho.
+- Identificação visível dos animais, como brinco ou marca.
+- Área de pasto ou curral separada para dividir os lotes.
+
+PROCEDIMENTO
+------------
+1. Anote a genealogia de cada animal: pai, mãe e avós.
+2. Identifique cada animal com brinco ou marca legível.
+3. Separe as fêmeas em grupos de famílias conforme a mãe.
+4. Marque no caderno quais machos são pais de quais fêmeas.
+5. Nunca deixe o touro servir as próprias filhas.
+6. Não acasale irmãos, meio-irmãos, pai e filha, mãe e filho.
+7. Troque de macho reprodutor a cada dois anos aproximadamente.
+8. Escolha um macho de outra linhagem ou de outro rebanho.
+9. Verifique se o macho novo não é parente das fêmeas do lote.
+10. Registre cada acasalamento antes da monta, com data e par.
+11. Observe as crias e anote nascimento, peso e defeitos visíveis.
+12. Revise os registros e refaça o mapa de parentesco.
+
+ATENCAO
+-------
+O erro mais comum é deixar o touro com as próprias filhas.
+Um touro ruim acasala com muitas fêmeas e espalha o erro.
+Consanguinidade reduz fertilidade, vigor e resistência a doenças.
+Sem registro, o acasalamento entre parentes acontece sem aviso.
+Se aparecerem defeitos ou queda de produção, pare e busque um técnico.
+Não tente corrigir consanguinidade alta em uma única geração.
+
+SE NAO TIVER
+------------
+Sem caderno, use uma folha ou o dorso de uma embalagem.
+Sem brinco, marque com tinta ou com um corte na orelha.
+Sem registro dos pais, comece hoje e anote a origem de cada macho.
+Sem outro macho, troque com um vizinho de confiança.
+Sem condição de trocar, use o macho menos aparentado do rebanho.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada animal tem um número legível e um registro com os pais.
+Nenhum acasalamento repete pai e filha ou irmãos no caderno.
+O macho usado tem origem diferente da das fêmeas do lote.
+As crias nascem sem defeitos visíveis e com peso normal.
+A produção e a fertilidade se mantêm estáveis entre gerações.
+
+FONTES
+------
+Documentos técnicos da Embrapa sobre melhoramento genético de bovinos
+de corte e sobre a ferramenta de acasalamento Promebo.
+Cartilha de manejo reprodutivo de ovinos de corte, Embrapa.
+Estudo do INTA da Argentina sobre rotação de machos em ovinos.
+Orientações da FAO sobre taxa de consanguinidade em rebanhos.
+Pratica consolidada de manejo reprodutivo, sem documento unico.

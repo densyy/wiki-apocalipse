@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 29-011
+TITULO: Como utilizar Kiwix para consultar enciclopédias offline
+CATEGORIA: 29 - Tecnologia, computação e informática offline
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: celular ou computador, conexão no download, espaço livre no aparelho
+REVISAO: 2026-11
+PALAVRAS-CHAVE: kiwix, zim, wikipedia, offline, enciclopédia, baixar, leitor
+==============================================================================
+
+OBJETIVO
+--------
+Abrir e pesquisar uma enciclopédia salva no aparelho, sem conexão.
+
+QUANDO USAR
+-----------
+Quando a conexão cai ou é instável e você precisa consultar um assunto.
+Quando vai viajar para lugar sem sinal de internet.
+Quando quer levar livros e manuais de referência no celular.
+Antes de perder o acesso à rede, para deixar o conteúdo pronto.
+
+NAO USE QUANDO
+--------------
+Quando a informação precisa ser atualíssima: o arquivo é uma cópia antiga.
+Não serve para notícias, clima, cotações ou avisos de última hora.
+
+MATERIAIS
+---------
+- Aparelho com sistema compatível: celular, tablet ou computador.
+- Aplicativo Kiwix Reader, gratuito e sem anúncios.
+- Arquivo de conteúdo em formato ZIM.
+- Conexão disponível apenas no momento de baixar app e conteúdo.
+
+PROCEDIMENTO
+------------
+1. Instale o aplicativo Kiwix Reader no aparelho enquanto há conexão.
+2. Abra o aplicativo e entre na seção de catálogo ou downloads.
+3. Escolha o conteúdo desejado, por exemplo a Wikipédia em português.
+4. Confira o tamanho do arquivo e libere espaço se for preciso.
+5. Baixe o arquivo ZIM (pacote compactado que guarda um site inteiro).
+6. Espere o download terminar; não desligue o aparelho durante a cópia.
+7. Abra o arquivo ZIM no aplicativo para carregar o índice de busca.
+8. Digite uma palavra-chave no campo de busca e leia o artigo aberto.
+9. Desligue a conexão e confirme que a busca ainda funciona.
+
+ATENCAO
+-------
+O arquivo ZIM é uma cópia parada no tempo: não recebe atualizações.
+Não serve para notícias, clima, cotações ou avisos de última hora.
+Wikipédia e outras fontes podem conter erros; confirme dados críticos.
+Baixar arquivo grande pode esgotar dados móveis ou espaço do aparelho.
+Sem espaço livre, o download falha e o arquivo pode ficar corrompido.
+Se o aplicativo não abrir o arquivo ZIM, baixe-o de novo.
+
+SE NAO TIVER
+------------
+Sem conexão, peça o arquivo ZIM a quem já o tenha.
+Copie por cabo ou cartão de memória e abra no Kiwix Reader.
+Sem espaço, apague arquivos antigos antes de tentar de novo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O aplicativo lista o conteúdo baixado e abre artigos com a rede desligada.
+A busca devolve resultados e o texto do artigo aparece completo.
+
+FONTES
+------
+Documentação oficial do projeto Kiwix e da Associação Kiwix.
+Prática consolidada de leitura offline; este texto é resumo operacional.

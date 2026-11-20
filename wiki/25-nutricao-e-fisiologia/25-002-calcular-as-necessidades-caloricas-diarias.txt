@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 25-002
+TITULO: Como calcular as necessidades calóricas diárias
+CATEGORIA: 25 - Alimentação, nutrição e fisiologia
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: caderno, lápis, peso, altura, idade e sexo da pessoa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: calorias, energia, gasto basal, metabolismo, ração
+==============================================================================
+
+OBJETIVO
+--------
+Calcular as calorias diárias que uma pessoa precisa na crise.
+
+QUANDO USAR
+-----------
+Ao planejar a ração de uma pessoa ou de um grupo.
+Ao decidir quanto alimento comprar, guardar ou distribuir.
+Ao ajustar a ração no frio ou após aumento do trabalho.
+
+NAO USE QUANDO
+--------------
+Para bebês, crianças em crescimento, gestantes e pessoas com doença
+que muda o metabolismo. A conta não vale. Procure orientação de saúde.
+
+MATERIAIS
+---------
+- Caderno e lápis (papel qualquer).
+- Peso em kg, altura em cm, idade e sexo da pessoa.
+- Registro da atividade e da temperatura do ambiente.
+
+PROCEDIMENTO
+------------
+1. Anote peso em kg, altura em cm, idade e sexo da pessoa.
+2. Calcule o gasto em repouso: peso x 10 + altura x 6,25 - idade x 5.
+3. Some 5 se for homem. Subtraia 161 se for mulher.
+4. Escolha o fator de atividade conforme a semana da pessoa.
+5. Use 1,2 parado; aproximadamente 1,375 com caminhadas leves;
+6. aproximadamente 1,55 em pé; aproximadamente 1,725 carregando peso;
+7. aproximadamente 1,9 em trabalho braçal o dia inteiro.
+8. Multiplique o gasto em repouso pelo fator escolhido.
+9. Some aproximadamente 300 calorias em febre, frio ou trabalho extra.
+10. Some aproximadamente 300 no 2º trimestre e 450 no 3º de gravidez.
+11. Arredonde para baixo em 50 calorias e anote a ração necessária.
+
+ATENCAO
+-------
+A conta é estimativa: pode errar 10% ou mais em pessoas doentes ou idosas.
+Os fatores são aproximados; escolher errado muda muito o resultado.
+Subalimentar dias seguidos causa perda de músculo, tontura e infecção.
+Excesso não substitui proteína, vitaminas, minerais, água e sal na ração.
+Febre, diarreia e feridas aumentam o gasto. Com perda rápida de peso,
+procure ajuda. Em emergência, use 2.100 calorias por pessoa por dia.
+
+SE NAO TIVER
+------------
+Sem balança, use 2.100 calorias por adulto e ajuste pelo peso.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O caderno mostra gasto em repouso, fator e total em calorias por dia.
+O total fica entre 1.500 e 4.000 calorias; o peso estabiliza.
+
+FONTES
+------
+Relatório FAO, OMS e UNU sobre necessidades humanas de energia (2004);
+equação de Mifflin e colaboradores (Endotext/NCBI); diretrizes de energia
+da Academia Nacional de Medicina dos EUA; OMS, UNHCR, UNICEF e WFP,
+figura inicial de 2.100 calorias em emergência.

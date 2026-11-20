@@ -1,0 +1,72 @@
+==============================================================================
+CODIGO: 51-001
+TITULO: Como realizar cálculos matemáticos sem calculadora
+CATEGORIA: 51 - Matemática aplicada à sobrevivência
+TEMPO: 20 minutos
+RISCO: baixo
+EXIGE: papel, lápis, superfície plana
+REVISAO: 2026-11
+PALAVRAS-CHAVE: conta, soma, subtração, multiplicar, dividir, estimar
+==============================================================================
+
+OBJETIVO
+--------
+Fazer somas, subtrações, multiplicações e divisões sem calculadora.
+
+QUANDO USAR
+-----------
+Quando não houver calculadora, celular ou energia elétrica.
+Ao dividir ração, água ou suprimentos entre várias pessoas.
+Ao conferir troco, preço ou quantidade em uma compra.
+Ao estimar consumo diário para planejar o que falta.
+
+NAO USE QUANDO
+--------------
+Não use estimativa no lugar da conta exata quando o erro causar dano.
+Exemplos: dose de remédio, mistura química, veneno ou radioação.
+Nestes casos, procure fonte confiável ou alguém treinado antes de agir.
+
+MATERIAIS
+---------
+- Papel limpo para as contas longas (verso de embalagem serve).
+- Lápis ou outro objeto que deixe marca (carvão, ponta de metal).
+- Superfície plana e firme para apoiar o papel.
+
+PROCEDIMENTO
+------------
+1. Escreva os números um abaixo do outro, alinhando as unidades.
+2. Some da direita para a esquerda, uma coluna por vez.
+3. Quando a soma passar de 9, escreva o algarismo e vai um à esquerda.
+4. Subtraia na mesma ordem; se o de cima for menor, pegue emprestado.
+5. Para multiplicar, decompose: 47 por 6 vira 40 por 6 mais 7 por 6.
+6. Some as duas partes para obter o produto da multiplicação.
+7. Multiplique também por dezenas quando o outro fator tiver duas casas.
+8. Para dividir, multiplique o divisor por um palpite e subtraia.
+9. Baixe o próximo algarismo e repita; arredonde ao fim para conferir.
+
+ATENCAO
+-------
+Um erro de uma casa muda o resultado dez vezes; confira sempre.
+Ao dividir, o resto não se perde: é sobra ou descarte.
+Em ração e remédio, arredonde para cima e confirme com conta exata.
+Fadiga, frio e pressa aumentam o erro; pare e refaça se duvidar.
+Este método só organiza números que você tem: não substitui medição.
+
+SE NAO TIVER
+------------
+Sem papel, marque as contas no chão com um graveto.
+Sem lápis, use carvão, pedra que risca ou conte nos dedos.
+Sem prática, comece por números pequenos e aumente aos poucos.
+Se a conta for crítica, peça ajuda a alguém treinado em vez de chutar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A soma conferida por subtração devolve a parcela inicial.
+A estimativa arredondada ficou próxima do resultado exato.
+A multiplicação conferida pela divisão devolve o outro fator.
+
+FONTES
+------
+Prática consolidada de aritmética manual, sem documento único.
+Algoritmos escritos e decomposição são comuns em manuais escolares
+de aritmética básica. Este texto é resumo operacional, não fonte.

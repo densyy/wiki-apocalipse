@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 43-013
+TITULO: Como fabricar painéis de madeira prensada
+CATEGORIA: 43 - Produção de materiais de construção
+TEMPO: 3 horas
+RISCO: alto
+EXIGE: aparas secas, cola, peneira, tábuas, pesos, máscara, luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: painel, madeira prensada, aparas, serragem, cola, prensa
+==============================================================================
+
+OBJETIVO
+--------
+Produzir uma chapa plana e rígida com sobras de madeira e cola, para uso
+seco e sem carga estrutural.
+
+QUANDO USAR
+-----------
+Quando sobram aparas, serragem ou lascas de madeira limpa.
+Quando falta madeira maciça para prateleira, tampa ou molde.
+Quando é preciso aproveitar sobras de um corte ou de uma obra.
+Para formas, divisórias leves ou tamponamentos provisórios em local seco.
+
+NAO USE QUANDO
+--------------
+Para peças que sustentam peso, vigas, suportes de carga ou escadas.
+Em área externa, úmida ou em contato com água: o painel incha e desfaz.
+Perto de fogo, fogão ou fonte de calor: cola e serragem inflamam.
+Em ambiente fechado onde se use cola com formaldeído: libera gás tóxico.
+Se a madeira for tratada, pintada, envernizada ou com suspeita de químico.
+
+MATERIAIS
+---------
+- Aparas, lascas ou serragem de madeira limpa e seca.
+- Cola branca à base d'água (PVA) ou cola de caseína.
+- Peneira ou tela para separar os pedaços grandes.
+- Duas tábuas planas e rígidas para servir de molde.
+- Pesos, pedras ou grampos para manter a pressão (substituto: tijolos).
+- Saco plástico ou papel para forrar o molde e não grudar.
+- Balde ou vasilha e um pau para misturar.
+- Máscara de poeira e luvas (substituto: pano úmido no nariz, menos seguro).
+
+PROCEDIMENTO
+------------
+1. Separe apenas madeira limpa, seca e sem tinta, verniz ou tratamento.
+2. Peneire as aparas e retire pedaços grandes, cascalho e sujeira.
+3. Amasse as aparas grandes até ficarem do tamanho de grãos de arroz.
+4. Espalhe as aparas em camada fina ao sol por aproximadamente meio dia.
+5. Adicione cola branca ou de caseína e mexa até todas as aparas ficarem
+   levemente pegajosas, sem excesso que escorra.
+6. Forre a face interna das duas tábuas com saco plástico ou papel.
+7. Espalhe a mistura sobre uma tábua, nivelando com uma régua ou a mão.
+8. Cubra com a segunda tábua, alinhando bem as bordas.
+9. Empilhe pesos sobre a tábua de cima, distribuídos por toda a superfície.
+10. Mantenha a pressão em local seco e arejado por aproximadamente 24 horas.
+11. Retire os pesos, desmolde com cuidado e vire a chapa.
+12. Deixe secar ao ar, na sombra e ventilado, por aproximadamente 48 horas,
+    virando a cada 12 horas.
+13. Lixe as bordas e a face com papel lixa ou pedra áspera, usando máscara.
+
+ATENCAO
+-------
+A poeira fina de madeira irrita os pulmões e, com madeira de lei, pode
+causar câncer nasal: use máscara e trabalhe ao ar livre ou ventilado.
+Poeira fina suspensa pode pegar fogo ou explodir: não misture perto de
+chamas, faíscas ou fogão, e nunca jogue serragem no fogo.
+Nunca use cola com formaldeído, um conservante químico volátil, dentro de
+casa: libera gás cancerígeno por meses. Prefira cola branca PVA ou caseína.
+Cola e serragem são inflamáveis: mantenha longe de calor e não improvise
+prensa aquecida, que pode queimar e soltar vapores tóxicos.
+Madeira tratada, pintada ou envernizada libera químicos: descarte-a.
+A umidade é o maior inimigo: o painel incha, empena e desfaz se molhar.
+Este painel não substitui madeira estrutural: não o use em vigas ou cargas.
+A industria usa prensa aquecida e alta pressão; sem isso a chapa fica mais
+fraca e sensível à umidade. Pare se sentir tontura, ardência ou falta de ar.
+
+SE NAO TIVER
+------------
+Sem cola branca, use cola de caseína ou, como último recurso, pasta de
+farinha e água; ambas são mais fracas e temem umidade.
+Sem peneira, separe as aparas com as mãos e descarte as grandes.
+Sem tábuas, use duas chapas planas ou um fundo de caixa reto.
+Sem pesos, empilhe pedras, tijolos ou sacos de terra sobre o molde.
+Sem máscara, umedeça a serragem e trabalhe ao ar livre: é menos seguro.
+Se não houver cola nem substituto seguro, não faça o painel: use tábuas
+inteiras ou procure ajuda.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A chapa sai do molde com formato firme, sem desfazer nas bordas.
+A superfície fica plana, áspera e sem aparas soltas ao passar a mão.
+Um pedaço quebrado mostra aparas bem coladas, com pouca separação.
+Depois de seca, a chapa não cede a peso leve e não cheira a cola fresca.
+
+FONTES
+------
+Prática consolidada de painéis de madeira aglomerada, com prensagem
+e cura ao ar; parâmetros industriais não foram reproduzidos aqui.
+Segurança segundo a HSE (Health and Safety Executive, Reino Unido):
+poeira de madeira, adesivos e proteção. Resumo, não substitui treinamento.

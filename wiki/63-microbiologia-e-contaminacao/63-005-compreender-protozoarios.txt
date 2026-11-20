@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 63-005
+TITULO: Como compreender protozoários
+CATEGORIA: 63 - Microbiologia, parasitologia e contaminação
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: água ou alimento sob suspeita, recipiente transparente
+REVISAO: 2026-11
+PALAVRAS-CHAVE: protozoário, parasita, cisto, água, diarreia, giárdia
+==============================================================================
+
+OBJETIVO
+---------
+Entender os protozoários e reduzir o risco de infecção pela água.
+
+QUANDO USAR
+-----------
+Quando a água vem de rio, lago, poço raso ou nascente sem tratamento.
+Quando houve transbordo de esgoto ou chuva forte perto da captação.
+Quando há diarreia em pessoas ou animais perto da fonte de água.
+Quando a água servirá para cozinhar, lavar frutas ou escovar os dentes.
+
+NAO USE QUANDO
+--------------
+Não resolve contaminação química: com combustível ou metal, troque de fonte.
+
+MATERIAIS
+---------
+- Água ou alimento sob suspeita.
+- Recipiente transparente e pano limpos (tratamento em 01-001).
+- Caderno e lápis para anotar a origem da água.
+
+PROCEDIMENTO
+------------
+1. Separe água ou alimento suspeito em recipiente transparente limpo.
+2. Observe: água clara também pode conter parasitas invisíveis.
+3. Rastreie a origem: rio, lago, poço raso, nascente ou esgoto.
+4. Ligue a contaminação às fezes de pessoas ou animais próximos.
+5. Reconheça o cisto: forma do parasita, resistente e invisível ao olho.
+6. Recorde que o cloro sozinho não elimina protozoários da água.
+7. Coe a água com pano limpo para remover partículas visíveis.
+8. Ferva a água coada em ebulição forte por 1 minuto.
+9. Acima de aproximadamente 2.000 m, ferva por 3 minutos.
+10. Lave as mãos com sabão antes de comer e após defecar.
+11. Sem sanitário, enterre as fezes a aproximadamente 60 m da água.
+
+ATENCAO
+-------
+Água clara pode estar contaminada: o parasita não aparece a olho nu.
+Poucos cistos infectam; a dose de Giardia e Cryptosporidium é baixa.
+Cloro comum não elimina Giardia nem Cryptosporidium: coe e ferva antes.
+Com diarreia persistente, sangue nas fezes ou desidratação, procure ajuda.
+
+SE NAO TIVER
+------------
+Sem filtro, coe com pano limpo e depois ferva: a fervura mata parasitas.
+Sem calor, não há substituto caseiro seguro: procure outra fonte de água.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você aponta a origem suspeita e explica por que o cloro não basta.
+A água foi coada, ferveu e ficou tampada; as mãos foram lavadas.
+
+FONTES
+------
+Ministério da Saúde: giardíase e manual RAPHIC de tratamento de água.
+CDC: tratamento de água em viagem e prevenção da giardíase.
+Health Canada: diretriz de água potável para protozoários entéricos.
+OMS: referência sobre Giardia, 2025. Resumo; não substitui treinamento.

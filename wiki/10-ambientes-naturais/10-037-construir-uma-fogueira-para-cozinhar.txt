@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 10-037
+TITULO: Como construir uma fogueira para cozinhar
+CATEGORIA: 10 - Sobrevivência em ambientes naturais
+TEMPO: 45 minutos
+RISCO: alto
+EXIGE: terreno plano, água, pá, lenha seca, panela, fósforos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fogo, fogueira, cozinhar, panela, brasas, monóxido, ferver
+==============================================================================
+
+OBJETIVO
+--------
+Monte uma fogueira pequena, com brasas e apoio firme para a panela,
+para cozinhar alimentos e ferver água sem incendiar a vegetação.
+
+QUANDO USAR
+-----------
+- Quando é preciso cozinhar sem fogão, energia ou gás.
+- Quando a água precisa ferver antes de beber ou preparar alimentos.
+- Quando o grupo acampa e precisa de calor controlado para cozinhar.
+- Quando sobrou alimento cru que só fica seguro depois de cozido.
+
+NAO USE QUANDO
+--------------
+- Quando venta forte, o tempo está muito seco ou há aviso de incêndio.
+- Quando o lugar proíbe fogo aberto ou há restrição vigente.
+- Quando não há água ou terra por perto para apagar o fogo.
+- Quando não dá para vigiar o fogo até ele esfriar por completo.
+
+MATERIAIS
+---------
+- Água em balde ou garrafa e pá para apagar o fogo.
+- Pedras secas ou troncos curtos para cercar e apoiar a panela.
+- Grelha metálica (três pedras secas, se faltar).
+- Panela ou recipiente metálico com alça.
+- Isca seca, gravetos finos, lenha seca caída, isqueiro ou fósforos.
+
+PROCEDIMENTO
+------------
+1. Confira se fogo aberto é permitido e se não há restrição vigente.
+2. Observe o vento; não acenda se venta forte ou o tempo está muito seco.
+3. Escolha terreno plano e aberto, sem galhos secos ou fios acima.
+4. Afaste tendas, lonas e árvores a aproximadamente 5 m do fogo.
+5. Limpe grama e folhas até o solo nu numa área de aproximadamente 3 m.
+6. Coloque a água e a pá ao alcance da mão antes de acender.
+7. Junte apenas madeira seca caída; nunca corte árvore viva.
+8. Faça a base com isca seca e monte os gravetos em forma de tenda.
+9. Aproxime a chama da base sem gasolina, álcool ou acelerante.
+10. Deixe o fogo virar um leito de brasas com chama baixa.
+11. Acomode três pedras secas ou a grelha sobre as brasas, bem firmes.
+12. Apoie a panela no centro, com a alça voltada para fora do fogo.
+13. Cozinhe até o alimento estar bem cozido, sem partes cruas.
+14. Ferva a água em ebulição forte por 1 minuto; em altitude, 3 minutos.
+15. Alimente as brasas com gravetos aos poucos para manter o calor.
+16. Fique ao lado da fogueira; nunca deixe o fogo sozinho.
+17. Ao terminar, afogue com água, mexa a cinza e afogue de novo.
+18. Confirme com o dorso da mão que as cinzas estão frias.
+
+ATENCAO
+-------
+O fogo mata por queimadura, incêndio e monóxido de carbono, um gás sem
+cor e sem cheiro que mata sem aviso. Nunca cozinhe em tenda, cabana,
+carro ou abrigo fechado; nunca use carvão ou fogareiro ali. Dor de
+cabeça, tontura, fraqueza, enjoo, vômito, dor no peito e confusão
+indicam intoxicação: apague, saia ao ar livre e peça ajuda.
+Nunca use gasolina, álcool, plástico ou químicos: a chama sobe e queima.
+Não use pedra molhada ou porosa: pode estourar. Não enterre brasas.
+Vigie sempre: fogo sem vigilância incendeia a mata em segundos.
+Comida crua intoxica; descarte perecíveis após duas horas fora do
+frio (uma hora acima de aproximadamente 32 °C). Ferver mata germes,
+não químicos; acima de aproximadamente 2.000 m, ferva por 3 minutos.
+Se o fogo escapar, afaste-se e chame os bombeiros. Use a maior
+distância de tendas que o local permitir.
+
+SE NAO TIVER
+------------
+- Sem grelha, use três pedras secas ou troncos curtos como apoio.
+- Sem panela, use recipiente metálico com alça; nunca use plástico.
+- Sem balde, use garrafa; sem água, use terra ou areia para apagar.
+- Sem fósforos, use isqueiro ou pedra e aço: veja 10-029 e 10-031.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- Há brasas vermelhas e cinza clara no centro, com chama baixa.
+- A panela fica firme no apoio e não balança nem tomba.
+- A água borbulha sem parar e o alimento não está cru no centro.
+- A fumaça sobe clara; fumaça escura indica lenha molhada.
+- As cinzas ficam frias ao dorso da mão depois de molhar e mexer.
+
+FONTES
+------
+CDC (Centros de Controle e Prevenção de Doenças dos EUA): orientações
+sobre monóxido de carbono (gás sem cor e sem cheiro, sintomas e risco
+em locais fechados) e sobre avisos de água potável (ebulição forte por
+1 minuto, 3 minutos acima de aproximadamente 2.000 m). FDA
+(Administração de Alimentos e Medicamentos dos EUA): regra das duas
+horas para alimentos perecíveis e manuseio de alimentos crus.
+Prática consolidada: fogo pequeno, brasas, vigília e apagar com água.

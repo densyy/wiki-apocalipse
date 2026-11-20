@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 02-059
+TITULO: Como identificar plantas venenosas
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 45 minutos
+RISCO: critico
+EXIGE: guia regional, segunda fonte, luvas, caderno, luz natural
+REVISAO: 2026-11
+PALAVRAS-CHAVE: venenosa, tóxica, identificação, seiva, folha, fruto, guia
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer plantas tóxicas perto de casa e evitá-las sem se expor.
+
+QUANDO USAR
+-----------
+Quando crianças ou animais cheiram, mastigam ou comem plantas.
+Antes de podar, arrancar ou manusear planta desconhecida.
+Ao encontrar planta ornamental em quintal, cerca-viva ou beira de rua.
+Antes de preparar chá, remédio caseiro ou comida com planta do mato.
+Ao ensinar as pessoas da casa a não tocar em planta duvidosa.
+
+NAO USE QUANDO
+--------------
+Não use para decidir se uma planta é comestível; veja 02-058.
+Não use para cogumelos: só especialista identifica fungos.
+Não use para testar por sabor, cheiro ou contato.
+
+MATERIAIS
+---------
+- Guia de campo da região, impresso (ou ficha escrita antes da viagem).
+- Segunda fonte escrita com o nome científico da espécie.
+- Caderno e lápis para anotar folha, caule, flor, fruto e seiva.
+- Luvas grossas de borracha ou pano (ou saco plástico como barreira).
+- Água corrente e sabão para lavar as mãos e a pele.
+- Recipiente fechado para guardar uma amostra da planta.
+
+PROCEDIMENTO
+------------
+1. Observe a planta inteira de longe, sem arrancar nem tocar.
+2. Anote o nome popular e o nome científico dados pelo guia regional.
+3. Confirme a espécie na segunda fonte; se divergir, trate como duvidosa.
+4. Anote se a folha é larga, vermelha, espinhosa ou de cheiro forte.
+5. Compare cada caractere com o guia, um por um.
+6. Se um caractere não bater, pare e não manipule.
+7. Vista luvas grossas antes de qualquer poda ou contato com a planta.
+8. Para ver a seiva, corte uma ponta com palito e luvas, longe do rosto.
+9. Não incline o rosto sobre a planta ao podar; mantenha o corpo de lado.
+10. Não deixe galhos podados ao alcance de crianças ou animais.
+11. Recolha os restos em saco; lave ferramentas com água e sabão.
+12. Lave as mãos com água corrente e sabão ao terminar.
+13. Guarde um ramo em recipiente fechado, fora do alcance de crianças.
+14. Ensine as pessoas da casa a não levar partes da planta à boca.
+15. Se houve contato ou ingestão, pare e siga as instruções de ATENCAO.
+
+ATENCAO
+-------
+Não há regra caseira que distinga planta comestível de tóxica.
+O cozimento nem sempre elimina a toxina; ferver planta duvidosa não ajuda.
+Espécies fatais incluem mamona, chapéu-de-napoleão, saia-branca e pinhão.
+Nome popular confunde espécies: use sempre o nome científico do guia.
+A seiva leitosa de avelós e coroa-de-cristo queima pele e pode cegar.
+Após ingestão, remova restos da boca, guarde a amostra e busque ajuda.
+Não induza vômito nem dê ovo cru, sal, vinagre ou suco cítrico.
+Na pele: remova a roupa e lave com água corrente por 15 a 30 minutos.
+Nos olhos: lave com água corrente ou soro por 15 a 30 minutos sem parar.
+Despeje na testa e deixe escorrer; retire lentes, sem colírio.
+Queimação na boca, inchaço, vômito ou falta de ar exigem emergência.
+Tontura, confusão ou convulsão: procure emergência na hora.
+
+SE NAO TIVER
+------------
+Sem guia impresso, use ficha escrita com nome científico e caracteres.
+Sem segunda fonte, trate como desconhecida e não manipule.
+Sem luvas, use pano grosso ou saco plástico; nunca toque o rosto.
+Sem água corrente, use soro fisiológico nos olhos e procure ajuda.
+Sem recipiente, envolva a amostra em pano, longe de crianças.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O nome científico é o mesmo nas duas fontes consultadas.
+Cada caractere anotado bate com a descrição do guia.
+Nenhuma poda encostou seiva na pele, nos olhos ou na boca.
+Crianças e animais não tiveram acesso aos restos da planta.
+As mãos e as ferramentas foram lavadas depois do contato.
+
+FONTES
+------
+CIATox/SC, Secretaria de Estado da Saúde de Santa Catarina, 'Plantas e
+cogumelos tóxicos': espécies, sintomas, prevenção e primeiros socorros.
+CIATox/ES, Espírito Santo, material informativo 'Plantas Tóxicas': luvas
+e lavagem das mãos na poda de plantas que soltam seiva leitosa.
+CIATox/João Pessoa, UFPB, 'Cartilha Principais Plantas Tóxicas' (2023).
+Sinitox/Fiocruz, Sistema Nacional de Informações Tóxico-farmacológicas.

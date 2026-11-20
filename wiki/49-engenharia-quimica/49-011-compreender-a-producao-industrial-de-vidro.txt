@@ -1,0 +1,97 @@
+==============================================================================
+CODIGO: 49-011
+TITULO: Como compreender a producao industrial de vidro
+CATEGORIA: 49 - Engenharia química e processos industriais
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: vidro, float, sílica, estanho, recozimento, janela
+==============================================================================
+
+OBJETIVO
+--------
+Entender as etapas do processo float, o metodo industrial que produz a maior
+parte do vidro plano usado em janelas e vidros de automovel.
+
+QUANDO USAR
+-----------
+Quando precisar explicar como uma folha de vidro plano e fabricada.
+Quando precisar avaliar porque o vidro industrial e mais barato que o
+artesanal.
+Quando precisar dimensionar consumo de energia, materiais ou residuos.
+Quando precisar entender a origem de defeitos comuns em vidros planos.
+
+NAO USE QUANDO
+--------------
+Nao use este texto como procedimento operacional de fabrica. Ele descreve o
+processo, nao habilita ninguem a operar um forno ou um banho de estanho.
+Nao use para fabricar vidro em casa: as temperaturas e os materiais sao
+perigosos e exigem equipamento industrial.
+
+MATERIAIS
+---------
+- Nenhum material. Basta este texto, leitura e atencao.
+
+PROCEDIMENTO
+------------
+1. Reconheca a composicao basica: areia rica em silica, barrilha,
+   calcario, dolomita e sal de Glauber, mais uma parte de cullet.
+2. Entenda o papel de cada item: a silica da o corpo, a barrilha reduz o
+   ponto de fusao, o calcario e a dolomita estabilizam o vidro.
+3. Explique o cullet: vidro quebrado reaproveitado que reduz o consumo de
+   materiais e a energia necessaria para fundir a batelada.
+4. Descreva a dosagem: os materiais sao pesados e misturados em batelada
+   antes de entrar no forno.
+5. Identifique a fusao: a batelada entra no forno a aproximadamente
+   1.500 graus Celsius e se transforma em massa fundida.
+6. Observe a homogeneizacao: o vidro fundido fica em aproximadamente
+   1.200 graus Celsius para ter densidade uniforme antes de sair.
+7. Entenda o banho de estanho: o vidro fundido flutua sobre estanho liquido,
+   mais denso que o vidro, e forma uma fita plana com duas faces lisas.
+8. Note a atmosfera: nitrogenio e hidrogenio protegem o estanho da oxidacao,
+   que geraria dross e mancharia o vidro.
+9. Acompanhe o resfriamento no banho: de aproximadamente 1.100 graus ate
+   aproximadamente 600 graus, quando rolos retiram a fita do estanho.
+10. Relacione velocidade e espessura: mudar a velocidade de fluxo e dos
+    rolos altera a espessura e a largura da folha.
+11. Explique o recozimento: a fita passa por um forno de aproximadamente
+    100 metros e esfria aos poucos para nao rachar por tensao termica.
+12. Feche o ciclo: na extremidade fria, maquinas cortam o vidro no tamanho
+    final. O vidro float nao precisa de polimento das faces.
+
+ATENCAO
+-------
+Os numeros de temperatura, tamanho e tempo sao aproximados e variam por
+planta e por tipo de vidro. Nao trate nenhum deles como especificacao.
+O forno opera a aproximadamente 1.500 graus Celsius: contato, respingo ou
+falha de isolamento causam queimaduras graves e incendio.
+O vidro fundido, o estanho liquido e o dross sao perigosos e exigem
+protecao, ventilacao e procedimentos industriais.
+Ferver, misturar ou derreter materiais em casa nao reproduz o processo e
+pode liberar gases toxicos, especialmente compostos de enxofre e sodio.
+Nao confunda reducao de ponto de fusao com seguranca: a barrilha e o sal de
+Glauber sao corrosiveis e irritantes antes de fundirem.
+Se o objetivo e fabricar, procure um profissional e as normas de seguranca
+do setor. Este texto apenas explica o processo.
+
+SE NAO TIVER
+------------
+Sem acesso a planta industrial, use observacao indireta: identifique em uma
+janela as duas faces lisas e a espessura constante, marcas do processo
+float. Sem dados da fabrica, mantenha todos os numeros como aproximados e
+nao tente reproduzir etapas em escala domestica.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Voce consegue nomear as materias-primas principais, explicar por que o
+estanho e usado, descrever a funcao do cullet e do recozimento, e apontar
+uma caracteristica do vidro float que o distingue do vidro soprado.
+
+FONTES
+------
+Pratica consolidada de fabricacao de vidro plano pelo processo float,
+conhecido como processo Pilkington. Resumo operacional baseado em
+referencias tecnicas: Ullmann's Encyclopedia of Industrial Chemistry;
+Pilkington, Proceedings of the Royal Society, 1969; Groover, Fundamentals
+of Modern Manufacturing. Nao substitui treinamento industrial.

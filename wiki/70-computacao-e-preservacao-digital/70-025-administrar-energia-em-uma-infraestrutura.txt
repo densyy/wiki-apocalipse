@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 70-025
+TITULO: Como administrar energia em infraestrutura digital isolada
+CATEGORIA: 70 - Computação de baixo consumo e preservação digital
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: bateria ou painel solar, aparelhos, wattimetro, papel e lapis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: energia, bateria, solar, consumo, carga, desligar, autonomia
+==============================================================================
+
+OBJETIVO
+---------
+Manter os aparelhos essenciais ligados por mais tempo, gastando so a
+energia que a fonte isolada consegue repor.
+
+QUANDO USAR
+-----------
+Quando a rede eletrica cai e a operacao passa a depender de bateria.
+Quando sol, bateria e gerador precisam alimentar varios aparelhos.
+Quando ha aviso de varios dias de chuva e a geracao vai cair.
+Quando um servidor, um roteador e um disco dividem a mesma fonte.
+Quando e preciso decidir o que desligar antes que a bateria acabe.
+
+NAO USE QUANDO
+--------------
+Quando a energia da rede e abundante, estavel e sem risco de corte.
+Quando existe equipamento medico que nao pode ser desligado.
+Quando a tarefa exige mexer na fiacao com a energia ligada.
+Quando a fonte e desconhecida e nao ha como medir o consumo.
+
+MATERIAIS
+---------
+- Fonte de energia: bateria, painel solar ou gerador (o que existir).
+- Wattimetro de tomada ou medidor de corrente (ou a etiqueta do aparelho).
+- Aparelhos que serao alimentados, com as etiquetas legiveis.
+- Papel e lapis para anotar consumo e horarios (ou arquivo de texto).
+- Relogio ou cronometro para marcar os periodos.
+- Regua de tomadas com chave (ou chaves individuais).
+
+PROCEDIMENTO
+------------
+1. Liste no papel cada aparelho que precisa de energia.
+2. Leia na etiqueta a potencia e meça o consumo com o wattimetro.
+3. Some os watts de todos os aparelhos da lista.
+4. Classifique cada aparelho como critico, util ou opcional.
+5. Marque como criticos apenas o servidor, o armazenamento e a rede.
+6. Anote quantas horas por dia cada aparelho fica ligado.
+7. Multiplique watts por horas e some o total de watt-hora por dia.
+8. Leia na bateria a capacidade em watt-hora e anote o numero.
+9. Compare o consumo diario com a capacidade e com a geracao do dia.
+10. Defina o limite de energia que pode ser gasto ate a proxima carga.
+11. Conecte os aparelhos criticos em uma regua separada, sem chave.
+12. Conecte os aparelhos opcionais em regua com chave proprios.
+13. Desligue pela chave todo aparelho opcional que nao estiver em uso.
+14. Agende copias, indexacoes e atualizacoes para as horas de sol.
+15. Reduza brilho de tela e desative perifericos que nao sao usados.
+16. Ative o modo de repouso dos aparelhos que ficam parados.
+17. Meça o estado da bateria uma vez por dia e anote o valor.
+18. Reduza o limite de gasto se a geracao do dia ficar abaixo do previsto.
+19. Desligue pelo comando do sistema antes de cortar a energia.
+20. Anote no fim do dia o gerado, o gasto e as horas no ar.
+
+ATENCAO
+-------
+A eletricidade pode matar: nunca abra fonte ou quadro energizado.
+Nunca emende fios com energia: corte a fonte e use peca homologada.
+Bateria aquecida, inchada ou com cheiro estranho pode pegar fogo.
+Mantenha baterias ventiladas, longe de pano e longe do calor.
+Descarregar fundo encurta a vida da bateria e cega o sistema.
+Cortar energia sem desligar estraga cartao, disco e arquivos.
+Gerador a combustivel em ambiente fechado produz monoxido de carbono.
+Use gerador so ao ar livre, longe de portas e janelas.
+Com fumaca, cheiro de queimado ou fio quente, corte e busque ajuda.
+
+SE NAO TIVER
+------------
+Sem wattimetro, use a potencia da etiqueta como estimativa aproximada.
+Sem etiqueta legivel, desligue o aparelho e nao o inclua no orcamento.
+Sem papel, anote os numeros em um arquivo de texto no proprio servidor.
+Sem regua com chave, retire a ficha da tomada ao terminar o uso.
+Sem bateria, mantenha apenas a carga critica e adie todo o resto.
+Sem carregador original, nao carregue a bateria por fios improvisados.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os aparelhos criticos continuam ligados ao fim do periodo sem sol.
+O estado da bateria no fim do dia nao caiu abaixo do limite anotado.
+A soma de watt-hora gastos e menor que a energia disponivel no dia.
+Nenhum aparelho opcional ficou ligado sem estar em uso.
+O servidor desligou pelo comando, sem erro de cartao ou disco.
+
+FONTES
+------
+Pratica consolidada de sistemas isolados: inventario de cargas,
+orcamento em watt-hora, prioridade as cargas criticas e controle
+de carga e cuidados com baterias. Orientacoes gerais de seguranca
+eletrica e de sistemas fotovoltaicos autonomos publicadas por agencias
+de energia e de protecao contra incendio. Resumo operacional, nao
+treinamento: leia capacidade e consumo na etiqueta do equipamento.

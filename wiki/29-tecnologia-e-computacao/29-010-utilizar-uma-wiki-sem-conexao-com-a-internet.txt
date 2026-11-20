@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 29-010
+TITULO: Como utilizar uma wiki sem conexão com a internet
+CATEGORIA: 29 - Tecnologia, computação e informática offline
+TEMPO: 15 minutos
+RISCO: baixo
+EXIGE: celular com conteúdo baixado, ou wiki impressa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: sem internet, wiki, offline, kiwix, busca, celular, índice
+==============================================================================
+
+OBJETIVO
+--------
+Consultar uma wiki e achar artigos sem nenhuma conexão com a internet.
+
+QUANDO USAR
+-----------
+Quando a internet cair e você precisar de informação confiável.
+Quando o sinal for caro, instável ou bloqueado.
+Quando o conteúdo já estiver baixado ou guardado em papel.
+
+NAO USE QUANDO
+--------------
+Quando a informação precisar mudar agora, como avisos e mapas.
+Quando o conteúdo existir só na nuvem e não houver cópia local.
+
+MATERIAIS
+---------
+- Celular com bateria (ou leitor offline já instalado, como o Kiwix).
+- Conteúdo baixado antes ou wiki impressa.
+- Caderno e lápis para anotar códigos dos artigos.
+
+PROCEDIMENTO
+------------
+1. Identifique o tipo de cópia: leitor, arquivos salvos ou papel.
+2. Ative o modo avião no celular para poupar bateria.
+3. Reduza o brilho da tela ao mínimo confortável.
+4. Abra o leitor offline (lê conteúdo baixado), como o Kiwix.
+5. Escolha o conteúdo baixado na biblioteca do leitor.
+6. Digite a palavra-chave do assunto no campo de busca.
+7. Toque no resultado para abrir o artigo.
+8. Para HTML salvo, abra o arquivo inicial no navegador.
+9. Para wiki impressa, ache o tema no índice pelo código.
+10. Feche o leitor e desligue o dispositivo ao terminar.
+
+ATENCAO
+-------
+Conteúdo baixado não muda e pode estar desatualizado.
+A busca do leitor não acha o que não foi baixado.
+Sem cópia local, nenhum aplicativo cria informação.
+Modo avião poupa bateria, mas não recarrega o aparelho.
+Muitos leitores não abrem arquivos de outros formatos.
+
+SE NAO TIVER
+------------
+Sem leitor, abra os arquivos HTML salvos no navegador.
+Sem celular, use a wiki impressa e seu índice.
+Sem cópia nenhuma, anote as dúvidas e consulte só o que já sabe.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O leitor abriu o artigo e a busca achou o termo digitado.
+O texto apareceu com o celular em modo avião.
+
+FONTES
+------
+Prática consolidada de leitura de conteúdo fora da rede.
+Kiwix (associação de Lausanne, Suíça): leitor aberto e formato ZIM.
+Este resumo é operacional e não substitui treinamento.

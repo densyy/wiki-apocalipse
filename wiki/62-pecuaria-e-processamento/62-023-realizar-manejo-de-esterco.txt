@@ -1,0 +1,103 @@
+==============================================================================
+CODIGO: 62-023
+TITULO: Como realizar manejo de esterco
+CATEGORIA: 62 - Pecuária, reprodução e processamento animal
+TEMPO: 4 horas
+RISCO: alto
+EXIGE: luvas, pá, balde, palha seca, local alto e drenável
+REVISAO: 2026-11
+PALAVRAS-CHAVE: esterco, bosta, adubo, composto, compostagem, higienizar
+==============================================================================
+
+OBJETIVO
+--------
+Coletar, compostar e aplicar esterco sem adoecer pessoas ou animais e sem
+contaminar a água.
+
+QUANDO USAR
+-----------
+Quando os animais produzem esterco e ele se acumula no curral.
+Quando falta adubo e o esterco fresco queimaria as plantas.
+Quando o esterco atrai moscas ou espalha cheiro forte.
+Quando há terra degradada que precisa de matéria orgânica.
+
+NAO USE QUANDO
+--------------
+Em terreno alagadiço ou junto a poço, nascente e curso d'água.
+Quando o animal tomou antibiótico ou vermífugo há pouco tempo: o esterco
+pode conter resíduos e deve curtir mais tempo antes do uso.
+Nunca entre em fossa, tanque ou poço de esterco: o gás pode matar.
+
+MATERIAIS
+---------
+- Luvas grossas e máscara simples para proteger do pó.
+- Pá, enxada, garfo e balde ou carrinho de mão.
+- Material seco rico em carbono: palha, capim seco, serragem ou folhas.
+- Local plano, alto, drenável, sombreado e longe de poços e casas.
+- Água para umedecer e lona ou palha para cobrir a pilha.
+- Barra de ferro ou termômetro para medir o calor.
+
+PROCEDIMENTO
+------------
+1. Escolha local plano, alto e drenável, longe de poços, nascentes e
+   cursos d'água.
+2. Recolha o esterco fresco do curral com pá e carrinho.
+3. Misture 3 partes de material seco fibroso para 1 parte de esterco,
+   em volume.
+4. Pique palha, capim ou folhas em pedaços de 3 a 5 cm.
+5. Monte a pilha em camadas: comece e termine com material fibroso.
+6. Faça camadas de 30 cm de fibroso e 10 cm de esterco.
+7. Umedece cada camada até ficar úmida, sem escorrer água.
+8. Deixe a pilha com pelo menos 1,2 m de altura, 1 m de largura e
+   1,2 m de comprimento.
+9. Espete uma barra de ferro no centro para medir a temperatura.
+10. Verifique o calor uma vez por semana, puxando a barra.
+11. Revire a pilha quando a barra não puder ser segura na mão.
+12. Revire a pilha aos 15, 30, 45 e 60 dias, molhando se estiver seca.
+13. Cubra a pilha com palha ou lona, deixando as laterais arejadas.
+14. Deixe curtir de 90 a 120 dias, até escurecer e cheirar a terra.
+15. Peneire e separe o material ainda não decomposto para a próxima pilha.
+16. Aplique no solo e misture com a terra antes do plantio.
+17. Respeite o intervalo antes da colheita: 120 dias para hortaliças
+    que tocam a terra; 90 dias para as outras culturas.
+
+ATENCAO
+-------
+O esterco fresco contém bactérias, vírus, vermes e ovos de parasitas.
+Use luvas, lave as mãos e não coma nem beba durante o serviço.
+Nunca use esterco cru em hortaliças que serão colhidas em breve.
+A compostagem mal feita não mata patógenos: exige calor, umidade e ar.
+Calor acima de 65 °C mata os microrganismos que fazem a compostagem.
+Não jogue esterco em córrego: polui a água e pode matar peixes.
+Nunca entre em fossa, tanque ou poço de esterco: o gás acumulado mata.
+A agitação libera sulfeto de hidrogênio, que anestesia o olfato.
+Se alguém cair, não desça para socorrer: chame socorro especializado.
+
+SE NAO TIVER
+------------
+Sem palha, use serragem, folhas secas, bagaço ou capim cortado.
+Sem carrinho, use balde e mantenha a carga tampada no transporte.
+Sem termômetro, use a barra de ferro: se não aguentar segurá-la, revire.
+Sem local alto, monte a pilha sobre uma camada de brita ou cascalho.
+Sem condição de compostar, não aplique esterco cru em hortaliças.
+Guarde o esterco coberto até poder compostar ou busque ajuda técnica.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A pilha esquentou e a barra ficou quente na primeira semana.
+Depois de virar, a barra esfriou e voltou a esquentar.
+Ao fim, o material está escuro, solto, sem cheiro forte e frio ao centro.
+Apertando um punhado, não escorre água: a umidade está certa.
+A água do poço segue limpa, sem cheiro ou cor alterados.
+
+FONTES
+------
+Instrução Técnica 53 da Embrapa Semi-Árido sobre preparo de composto
+orgânico na pequena propriedade.
+Publicações da Embrapa Amapá e da Embrapa Gado de Leite sobre
+compostagem de esterco e cama de compostagem.
+Norma 7 CFR 205.203 do Departamento de Agricultura dos Estados Unidos
+sobre composto e esterco cru, com intervalos de 90 e 120 dias.
+Orientações do NIOSH e da OSHA sobre gases em fossas de esterco e
+espaço confinado.
+Prática consolidada; resumo operacional, não substitui assistência técnica.

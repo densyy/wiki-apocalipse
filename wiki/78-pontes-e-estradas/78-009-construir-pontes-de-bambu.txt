@@ -1,0 +1,83 @@
+==============================================================================
+CODIGO: 78-009
+TITULO: Como construir pontes de bambu
+CATEGORIA: 78 - Pontes, estradas e infraestrutura de transporte
+TEMPO: 120 minutos
+RISCO: medio
+EXIGE: bambu maduro, corda ou arame, apoios firmes, ferramentas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ponte, bambu, travessia, viga, tabuado, riacho
+==============================================================================
+
+OBJETIVO
+--------
+Construir passagem leve e rapida com bambu sobre um pequeno curso d'agua.
+
+QUANDO USAR
+-----------
+Para atravessar valas e riachos de ate 3 metros de largura.
+Quando ha bambu maduro disponivel no local ou nas redondezas.
+Em trilhas de uso leve, para pessoas e animais pequenos.
+Como passagem provisoria em epoca seca, antes das chuvas.
+
+NAO USE QUANDO
+--------------
+Nao use bambu verde, fendido, podre ou atacado por insetos.
+Nao monte em leito de cheia rapida ou correnteza forte.
+Nao permita transito de veiculos ou gado pesado.
+Nao use em local onde o bambu fique submerso por dias.
+
+MATERIAIS
+---------
+- Colmos de bambu maduro, retos e sem fendas (varias unidades).
+- Corda, arame ou cinta para amarrar os feixes (2 a 3 mm).
+- Pedras ou tocos para os apoios nas margens (madeira tratada).
+- Facao, serra, enxada e fita metrica.
+- Luvas e oculos para o corte do bambu.
+
+PROCEDIMENTO
+------------
+1. Escolha colmos maduros, com pelo menos 3 nos e sem fendas.
+2. Corte as vigas com 1 metro de folga em cada margem.
+3. Agrupe de 3 a 5 colmos para formar cada viga do feixe.
+4. Amarre o feixe em tres pontos: duas pontas e meio.
+5. Prepare um apoio de pedra nivelado em cada margem.
+6. Apoie os feixes paralelos, com 40 cm de distancia entre eles.
+7. Amarre cada feixe ao apoio para nao deslizar.
+8. Corte os colmos do piso no comprimento da largura da ponte.
+9. Achate levemente a base de cada colmo do piso, se possivel.
+10. Prenda os colmos do piso sobre os feixes, um por um.
+11. Deixe folga de 1 cm entre colmos para escoar a agua.
+12. Verifique o nivel e reforce as amarras frouxas.
+13. Teste com uma pessoa de cada vez, pisando no centro.
+
+ATENCAO
+-------
+Bambu fendido quebra de forma subita e sem aviso.
+O corte gera lascas afiadas: use luvas e oculos sempre.
+A umidade apodrece o bambu: refaca a ponte a cada estacao.
+Feixes mal amarrados abrem e o piso cai no vao.
+Se a viga ranger ou ceder no teste, reforce antes de usar.
+Nao atravesse com a ponte molhada e escorregadia sem precaucao.
+Em cheia, retire o piso para a agua nao carregar a estrutura.
+
+SE NAO TIVER
+------------
+Sem bambu maduro, use varas de madeira leve de diametro uniforme.
+Sem corda, use arame de cerca ou cimento de embalagem reforcada.
+Sem pedra para apoio, use troncos curtos enterrados na margem.
+Sem facao, use serra manual ou machado bem afiado.
+Sem colmos longos, emende dois colmos com amarras sobre o apoio.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os feixes estao nivelados, amarrados e apoiados nas duas margens.
+O piso e uniforme, sem colmo solto ou desnivel grande.
+A ponte suporta uma pessoa no centro sem ranger ou ceder.
+A estrutura fica acima da agua corrente, com folga para a cheia.
+
+FONTES
+------
+Pratica consolidada de construcao com bambu em areas rurais tropicais,
+sem documento unico obrigatorio. Orientacoes gerais de extensao rural
+sobre uso de bambu maduro em pequenas estruturas de travessia.

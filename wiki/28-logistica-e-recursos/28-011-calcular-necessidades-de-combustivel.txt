@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 28-011
+TITULO: Como calcular necessidades de combustível
+CATEGORIA: 28 - Logística e gestão de recursos
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: caderno, lápis, balança ou recipiente medidor, relógio
+REVISAO: 2026-11
+PALAVRAS-CHAVE: combustível, lenha, diesel, consumo, gerador, quanto preciso
+==============================================================================
+
+OBJETIVO
+--------
+Reservar o combustível necessário para cozinhar, aquecer e gerar energia.
+
+QUANDO USAR
+-----------
+Ao formar estoque antes de crise ou viagem sem postos.
+Ao decidir quanta lenha recolher e dividir o estoque entre famílias.
+
+NAO USE QUANDO
+--------------
+Com recipiente sem identificação ou cheiro de vazamento.
+Nunca use gasolina em gerador a diesel, fogão ou aquecedor.
+
+MATERIAIS
+---------
+- Caderno, lápis e relógio.
+- Balança de cozinha ou recipiente de volume conhecido.
+- Registro de consumo do veículo ou gerador (manual do fabricante).
+
+PROCEDIMENTO
+------------
+1. Liste no caderno cada uso e quantos dias o estoque deve cobrir.
+2. Pese a lenha antes e depois do preparo e anote a diferença.
+3. Repita por três dias e use a maior diferença como consumo diário.
+4. Para o gerador, anote a potência em quilowatts (kW) e as horas ligadas.
+5. Aplique a regra do Corpo de Engenheiros do Exército dos EUA para diesel.
+6. Multiplique aproximadamente 0,27 litro pelo kW e pelas horas de uso.
+7. Anote o resultado como consumo diário do gerador.
+8. Para o veículo, anote km rodados e litros gastos na última viagem.
+9. Divida os litros pelos km para obter o consumo por km.
+10. Multiplique esse consumo pela distância prevista em km.
+11. Some os consumos diários de lenha, gerador e veículo.
+12. Multiplique a soma pelo número de dias do período.
+13. Multiplique o total por 1,3 como margem aproximada de 30%.
+14. Subtraia o estoque atual e anote quanto ainda falta.
+
+ATENCAO
+-------
+Fogo e gerador em ambiente fechado produzem monóxido de carbono, que mata.
+Use em local arejado, nunca dentro de casa ou de tenda.
+Lenha úmida rende menos; seque ao ar livre antes de usar.
+Nunca queime plástico, pneu, solvente ou madeira tratada para cozinhar.
+Separe gasolina, diesel e querosene em recipientes identificados e fechados.
+Se faltar reserva para três dias, aumente o estoque antes de usar.
+
+SE NAO TIVER
+------------
+Sem balança, conte quantos recipientes cheios de lenha foram gastos no dia.
+Sem medição, use de aproximadamente 0,7 a 3 kg por pessoa por dia.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O caderno traz o consumo medido e a subtração final dá estoque positivo.
+
+FONTES
+------
+FEMA IS-0815, Corpo de Engenheiros do Exército dos EUA (gerador diesel).
+UNHCR, Emergency Handbook (2026); WFP e FAO, guias de lenha em emergência.

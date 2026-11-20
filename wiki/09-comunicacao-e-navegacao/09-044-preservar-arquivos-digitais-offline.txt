@@ -1,0 +1,68 @@
+==============================================================================
+CODIGO: 09-044
+TITULO: Como preservar arquivos digitais offline
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: computador com gravador, DVD-R ou M-DISC, disco externo, caderno
+REVISAO: 2026-11
+PALAVRAS-CHAVE: backup, cópia, guardar, dvd, mídia, integridade
+==============================================================================
+
+OBJETIVO
+--------
+Guarde três cópias de arquivos importantes em mídias diferentes, com uma
+fora de casa, legíveis sem internet.
+QUANDO USAR
+-----------
+Quando documentos, fotos ou registros existem só em um aparelho.
+Quando energia ou internet faltam e os arquivos devem abrir depois.
+Antes de mudança, viagem ou risco de perda do aparelho.
+Quando o armazenamento online não existe ou não é confiável.
+NAO USE QUANDO
+--------------
+Quando os arquivos mudam várias vezes ao dia: cópias paradas ficam velhas.
+MATERIAIS
+---------
+- Computador com gravador de discos ou porta USB para disco externo.
+- Discos DVD-R ou DVD+R de camada dourada; M-DISC se o gravador aceitar.
+- Disco rígido externo como segunda mídia.
+- Caixas rígidas para discos, caderno e lápis.
+- Programa de impressão digital (checksum), como sha256sum, para conferir.
+PROCEDIMENTO
+------------
+1. Reúna em uma pasta única os arquivos que não podem ser perdidos.
+2. Converta texto para .txt, planilhas para .csv e documentos para PDF/A.
+3. Use PDF/A, um PDF de preservação sem fontes ou programas externos.
+4. Anote em papel a lista de arquivos, os formatos e a data da cópia.
+5. Copie a pasta inteira para um disco rígido externo.
+6. Grave a mesma pasta em um DVD-R ou M-DISC em uma única sessão.
+7. Teste a leitura do disco em dois aparelhos diferentes.
+8. Escreva o conteúdo e a data na capa da caixa, nunca no disco.
+9. Guarde o disco na vertical, na caixa, longe de luz, calor e umidade.
+10. Guarde a terceira cópia em outro endereço, como a casa de um parente.
+11. Rode o programa na pasta e salve o resultado em papel.
+12. Anote no caderno a data da próxima verificação, daqui a um ano.
+ATENCAO
+-------
+Discos e pen drives não duram para sempre: um disco parado pode falhar em
+poucos anos. Discos regraváveis duram menos: use CD-R ou DVD-R. Gravar em
+várias sessões ou colar etiqueta reduz a vida do disco. A impressão digital
+só avisa que o arquivo mudou; não repara. Se um arquivo não abrir em dois
+aparelhos, refaça a cópia antes de jogar fora a original.
+SE NAO TIVER
+------------
+Sem gravador de DVD, use dois discos rígidos externos de marcas diferentes.
+Sem disco externo, use fita ou dois pen drives de marcas diferentes.
+Sem programa de impressão digital, compare o tamanho e abra os arquivos.
+COMO SABER QUE DEU CERTO
+------------------------
+Cada disco abre em dois leitores e todos os arquivos abrem sem erro.
+O tamanho total da pasta é igual nas três cópias.
+Os códigos de hoje são iguais aos da verificação seguinte.
+FONTES
+------
+NIST IR 8387 (2022), longevidade de mídias; NIST SP 500-252, guia de
+cuidado com CDs e DVDs. Biblioteca do Congresso dos EUA: regra 3-2-1 e
+PDF/A. Digital Preservation Coalition e National Archives do Reino Unido:
+checksums. Canadian Conservation Institute: guarda e testes de discos.

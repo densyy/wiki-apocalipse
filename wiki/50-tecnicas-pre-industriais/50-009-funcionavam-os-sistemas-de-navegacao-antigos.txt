@@ -1,0 +1,86 @@
+==============================================================================
+CODIGO: 50-009
+TITULO: Como funcionavam os sistemas de navegação antigos
+CATEGORIA: 50 - História das tecnologias pré-industriais
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: céu limpo, bastão reto, pedra para marcar
+REVISAO: 2026-11
+PALAVRAS-CHAVE: navegação, estrelas, bússola, astrolábio, latitude, navegar
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer como navegadores antigos achavam direção, latitude e rota sem
+aparelhos eletrônicos.
+
+QUANDO USAR
+-----------
+Quando quiser entender cartas, relatos e rotas antigas.
+Quando precisar se orientar sem aparelhos eletrônicos.
+Quando quiser reconstruir um método com materiais simples.
+Quando quiser avaliar a precisão da navegação histórica.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Céu limpo, sem nuvens densas (ou memorizar as etapas).
+- Bastão reto de cerca de 1 m para a sombra.
+- Pedra ou graveto para marcar pontos no chão.
+- Corda com nós para contar velocidade.
+- Ampulheta ou relógio para medir tempo.
+
+PROCEDIMENTO
+------------
+1. Espete o bastão reto em terreno plano e limpo.
+2. Marque com a pedra a ponta da sombra do bastão.
+3. Espere 10 a 15 minutos e marque a nova ponta da sombra.
+4. Trace uma linha entre as duas marcas: é o eixo aproximado leste-oeste.
+5. Fique com a primeira marca à esquerda e a segunda à direita: olha para
+   o norte.
+6. À noite, ache a Estrela Polar: una as duas estrelas da borda do Ursa
+   Major e estenda a linha cerca de cinco vezes.
+7. Meça a altitude da Estrela Polar com astrolábio, quadrante ou
+   balestilha: o ângulo sobre o horizonte dá a latitude aproximada.
+8. Ao meio-dia, meça a altitude do Sol e ajuste pela declinação da tabela
+   para obter a latitude.
+9. Alinhe a agulha magnética suspensa ou flutuando em água: ela aponta
+   norte-sul e mantém a rota.
+10. Conte os nós da corda que passam pela mão em cerca de 30 segundos para
+    estimar a velocidade.
+11. Anote em caderno direção, velocidade e tempo: isso é o cálculo
+    estimado da posição.
+12. Compare a hora local pelo Sol com a hora de um meridiano de referência
+    para estimar a longitude.
+13. Some ou subtraia 15 graus por hora de diferença entre os relógios.
+
+ATENCAO
+-------
+Ao meio-dia a sombra marca o norte no sul; no norte marca o sul.
+A Estrela Polar não fica exatamente sobre o polo: há pequeno erro na
+latitude. A agulha magnética aponta ao norte magnético, não ao geográfico,
+e desvia perto de minérios. Corda de nós e ampulheta dão velocidade
+aproximada; o erro se acumula ao longo da viagem. Antes do cronômetro
+marinho, a longitude no mar não podia ser medida com precisão. Nuvens,
+neblina e mar agitado impedem as medidas celestes: pare e espere.
+
+SE NAO TIVER
+------------
+Sem astrolábio, use um quadrante improvisado com corda e peso.
+Sem relógio de referência, abra mão da longitude e navegue por latitude
+e estimativa de distância. Sem céu limpo, espere: não invente a posição.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A linha entre as duas marcas da sombra fica na direção leste-oeste.
+A altitude da Estrela Polar repete o valor da latitude conhecida.
+A rota anotada leva o navegador de volta ao mesmo ponto de partida.
+
+FONTES
+------
+Manual de sobrevivência FM 21-76 do Exército dos Estados Unidos (sombra,
+Estrela Polar, Cruz do Sul, bússola improvisada). Os demais métodos são
+prática consolidada de navegação histórica, sem documento único citado.

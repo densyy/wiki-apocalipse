@@ -1,0 +1,91 @@
+==============================================================================
+CODIGO: 16-008
+TITULO: Como construir uma carroça artesanal
+CATEGORIA: 16 - Transporte e mobilidade
+TEMPO: 2 dias
+RISCO: alto
+EXIGE: madeira sã, eixo e rodas de sucata, machado, formão, broca
+REVISAO: 2026-11
+PALAVRAS-CHAVE: carroca, carro, rodas, eixo, madeira, transporte, carga
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma carroça de madeira com eixo e rodas de sucata para levar carga.
+
+QUANDO USAR
+-----------
+Quando é preciso levar lenha, água ou colheita em terreno firme.
+Quando o animal de tração substitui o esforço de carregar nas costas.
+Quando uma carroça velha ainda tem eixo e rodas aproveitáveis.
+Quando o caminho é curto, plano ou com pouca ladeira.
+
+NAO USE QUANDO
+--------------
+Não use em ladeira íngreme, barro fundo ou areia mole.
+Não use com eixo rachado, roda bamboleando ou cavilha frouxa.
+Não use para transportar pessoas.
+Não use com carga que você ou o animal não consigam parar.
+
+MATERIAIS
+---------
+- Duas longarinas de madeira sã e de grão reto (vigas de sucata).
+- Travessas e tábuas de piso (madeira de demolição sem podridão).
+- Eixo metálico reto, com suportes e parafusos (eixo de carroça velha).
+- Duas rodas com cubo, raios, aro e pneu ou banda metálica intactos.
+- Cavilhas de madeira ou parafusos com porca e arruela.
+- Machado, serra, formão, broca ou furadeira, marreta e chave.
+- Luvas, óculos de proteção e graxa para o cubo (ou óleo vegetal).
+
+PROCEDIMENTO
+------------
+1. Escolha madeira seca, sem rachadura, sem podridão e sem nó fundo.
+2. Corte as duas longarinas com o mesmo comprimento; marque antes.
+3. Marque o lugar de cada travessa nas duas longarinas com régua.
+4. Abra os encaixes com formão e marreta, no lugar marcado.
+5. Faça os encaixes com aproximadamente um terço da espessura.
+6. Encaixe as travessas e prenda cada uma com duas cavilhas.
+7. Pregue as tábuas do piso sobre as travessas, lado a lado.
+8. Pregue duas alças de tração na frente das longarinas.
+9. Empurre o corpo de um lado; corrija se ele entortar.
+10. Coloque o eixo por baixo, um pouco à frente do meio do corpo.
+11. Prenda o eixo com suportes e aperte os parafusos por igual.
+12. Monte as rodas nas pontas do eixo e trave com porcas ou pinos.
+13. Unte o cubo de cada roda com graxa; gire para espalhar.
+14. Apoie as duas rodas no chão e confira se o corpo ficou nivelado.
+
+ATENCAO
+-------
+Roda ou eixo quebrado sob carga pode esmagar pé ou mão; nunca confie em
+solda improvisada ou cavilha frouxa.
+Sem freio, a carroça desce a ladeira e atropela quem está na frente;
+calce as rodas com cunha a cada parada.
+Fazer rodas de madeira exige forno e banda de ferro quente: risco de
+queimadura grave e incêndio; não improvise sem oficina e treino.
+Formão, machado e marreta cortam fundo: use luvas e óculos e apoie a peça.
+Não passe da carga que você ou o animal consegue puxar e parar.
+Sobrecarga entorta o eixo e solta as travessas.
+Pare e procure ajuda se o eixo rachar, a roda bambolear ou o corpo
+desmontar ao sacudir.
+
+SE NAO TIVER
+------------
+Sem eixo de metal, use barra de ferro reta presa com braçadeiras.
+Sem rodas aproveitáveis, não invente rodas de madeira na primeira vez;
+use carrinho de mão ou arraste o peso com corda.
+Sem graxa, use óleo vegetal ou sebo e reaplique com mais frequência.
+Sem cavilhas, use parafusos com porca e aperte de novo após o primeiro uso.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As rodas giram livres, sem roçar o corpo, e a carroça anda em linha reta.
+O corpo não balança quando você empurra um lado.
+As travessas e as cavilhas ficam firmes ao sacudir a carroça vazia.
+Com carga, o eixo não ronca e o cubo não esquenta.
+
+FONTES
+------
+Museu Nacional da Irlanda, registro "Making a cart" (1972): corpo, eixo,
+cubo, raios, aro de ferro e montagem de carroça de burro.
+O restante é prática consolidada de marcenaria, sem manual único
+consultado; rodas feitas do zero exigem construtor de rodas.

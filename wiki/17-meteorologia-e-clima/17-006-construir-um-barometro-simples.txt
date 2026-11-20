@@ -1,0 +1,91 @@
+==============================================================================
+CODIGO: 17-006
+TITULO: Como construir um barômetro simples
+CATEGORIA: 17 - Meteorologia, clima e meio ambiente
+TEMPO: 20 minutos
+RISCO: alto
+EXIGE: pote de vidro, tubo transparente, água, régua, fita, massa, caderno
+REVISAO: 2026-11
+PALAVRAS-CHAVE: barômetro, pressão, tempestade, prever tempo, clima, água
+==============================================================================
+
+OBJETIVO
+--------
+Montar um medidor de mudanças na pressão do ar com material comum.
+Acompanhar a tendência do tempo sem energia ou internet.
+
+QUANDO USAR
+-----------
+Quando não houver previsão por rádio, TV ou internet.
+Quando quiser registrar a tendência do tempo na semana.
+Quando estiver acampado, em roça ou em viagem longa.
+
+NAO USE QUANDO
+--------------
+Quando houver aviso oficial de tempestade: obedeça o aviso.
+Quando a água não for potável e for preciso sugar o tubo.
+Quando o local tiver sol forte, vento ou risco de gelo.
+
+MATERIAIS
+---------
+- Pote de vidro ou copo de lados retos, com boca larga.
+- Tubo plástico transparente de aproximadamente 30 cm (canudo rígido).
+- Régua de plástico ou de papel.
+- Fita adesiva larga.
+- Massa de modelar ou goma de mascar sem açúcar.
+- Água potável e corante alimentício (opcional).
+- Caderno e lápis.
+
+PROCEDIMENTO
+------------
+1. Lave o pote e o tubo com água potável.
+2. Cole a régua na parede interna do pote, com os números visíveis.
+3. Cole o tubo na régua, na vertical, com a fita.
+4. Deixe a ponta de baixo suspensa, sem encostar no fundo.
+5. Encha o pote até a metade com água potável.
+6. Pingue uma ou duas gotas de corante e mexa.
+7. Mergulhe a ponta de baixo do tubo na água.
+8. Sugar a ponta de cima até a água subir a aproximadamente 2/3.
+9. Pince a ponta com a língua e retire o tubo da boca.
+10. Tampe a ponta de cima com massa, sem deixar entrar ar.
+11. Anote a altura da água na régua, com data e hora.
+12. Ponha o pote em superfície firme, nivelada e ao abrigo do vento.
+13. Afaste o pote de sol direto, fogão e janelas abertas.
+14. À mesma hora, meça e anote a altura por 5 a 10 dias.
+15. Anote o tempo visto: sol, nuvem, chuva ou vento.
+16. Compare com o dia anterior: coluna descendo indica pressão caindo.
+17. Coluna subindo indica pressão subindo e tempo melhorando.
+
+ATENCAO
+-------
+ESTE APARELHO NAO DA NUMERO DE PRESSAO E NAO SUBSTITUI ALERTA OFICIAL.
+Ele mostra só a tendência: sobe, desce ou parado.
+Queda rápida pode anunciar tempestade em aproximadamente 24 horas.
+NUNCA use a leitura para entrar em área de risco.
+Se houver aviso oficial, abrigue-se primeiro, sempre.
+O sol move a coluna duas vezes por dia; meça à mesma hora.
+Vento sobre o pote e calor mudam a leitura sem mudar o tempo.
+Coluna parada por dois dias pode significar selo furado.
+Refaça a massa antes de confiar de novo.
+NAO sugar se a água não for potável.
+No trópico, a queda de pressão é sinal fraco: observe também o céu.
+
+SE NAO TIVER
+------------
+Sem tubo transparente, use canudo de plástico rígido.
+Sem massa, use goma de mascar sem açúcar.
+Sem corante, a água limpa serve; a leitura fica mais difícil.
+Sem régua, desenhe marcas iguais num papel e cole na parede do pote.
+Nunca use tubo de vidro: pode quebrar e cortar a mão.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A coluna ficou presa no tubo depois da montagem.
+A água no tubo está mais alta que a água no pote.
+As anotações mostram subidas e descidas junto com mudanças de céu.
+
+FONTES
+------
+NOAA/National Weather Service, escola online JetStream: lições
+"The Wet Barometer" e "Air Pressure". Met Office do Reino Unido:
+guia de observação de pressão e atividade escolar "Make a barometer".

@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 02-123
+TITULO: Como produzir iogurte
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 25 minutos
+RISCO: medio
+EXIGE: leite, iogurte natural, panela, termômetro, pote com tampa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: iogurte, fermento, leite, fermentação, caseiro, coalhada
+==============================================================================
+
+OBJETIVO
+--------
+Transformar leite em iogurte firme com calor e fermento controlados.
+
+QUANDO USAR
+-----------
+Quando houver leite pasteurizado e um pouco de iogurte natural.
+Quando faltar alimento refrigerado ou ele ficar caro.
+Quando houver calor constante por varias horas seguidas.
+Quando for preciso aproveitar leite antes que ele vença.
+
+NAO USE QUANDO
+--------------
+Não use leite cru sem antes pasteurizá-lo.
+Não use leite com cheiro azedo, coalhado ou fora da validade.
+Não use iogurte com sabor, açúcar ou sem culturas vivas no rótulo.
+Não faça se não houver lugar morno onde o pote fique parado.
+
+MATERIAIS
+---------
+- 1 litro de leite integral pasteurizado (ou cru, pasteurizado antes).
+- 2 a 3 colheres de sopa de iogurte natural com culturas vivas.
+- Termômetro de cozinha (ou colher limpa para testar o morno).
+- Panela limpa e pote com tampa higienizado.
+- Pano limpo ou caixa de isopor para manter o calor.
+- Água morna para o banho em volta do pote.
+
+PROCEDIMENTO
+------------
+1. Lave as mãos com água e sabão.
+2. Lave panela, pote, tampa e colheres com água quente e detergente.
+3. Enxágue bem e deixe secar ao ar, sem pano sujo.
+4. Despeje o leite na panela e aqueça em fogo baixo, mexendo sempre.
+5. Leve a aproximadamente 83 graus Celsius e mantenha por 10 minutos.
+6. Retire do fogo e esfrie até aproximadamente 42 a 45 graus Celsius.
+7. Confira com o termômetro. Se passar de 50 graus, espere esfriar mais.
+8. Misture o iogurte natural em uma tigela com um pouco do leite morno.
+9. Despeje essa mistura no restante do leite e mexa devagar.
+10. Transfira para o pote limpo e tampe.
+11. Envolva o pote no pano limpo e coloque dentro da caixa de isopor.
+12. Coloque água morna em volta do pote, até metade da altura.
+13. Feche a caixa e deixe de 4 a 8 horas, sem abrir e sem mexer.
+14. Verifique o ponto a cada hora a partir da quarta hora.
+15. Leve o pote à geladeira assim que a massa firmar.
+16. Consuma em até 14 dias e separe 3 colheres para o próximo lote.
+
+ATENCAO
+-------
+Leite cru sem pasteurização pode causar intoxicação alimentar grave.
+Acima de aproximadamente 50 graus o calor mata as bactérias do fermento.
+Abaixo de aproximadamente 38 graus a fermentação para e o leite não coalha.
+Não acrescente açúcar, mel ou frutas antes da fermentação terminar.
+Mexer ou abrir o pote durante a fermentação deixa o iogurte mole e com soro.
+Cheiro podre, cor estranha ou bolor: descarte todo o lote, não prove.
+Se não firmar depois de 10 horas, descarte e recomece com fermento novo.
+
+SE NAO TIVER
+------------
+Sem termômetro, espere o leite ficar morno ao toque, sem queimar o dedo.
+Sem isopor, use forno desligado com a luz acesa ou garrafa térmica limpa.
+Sem iogurte natural, use fermento lácteo liofilizado conforme o fabricante.
+Sem geladeira, consuma no mesmo dia e não guarde o iogurte.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O leite forma massa firme que se solta da parede do pote em bloco.
+O cheiro é lácteo e levemente ácido, sem cheiro podre.
+Ao inclinar o pote, a coalhada se move inteira, não como líquido.
+
+FONTES
+------
+Embrapa, Portal de Informação Tecnológica, verbete "Iogurte", 2021.
+Embrapa Infoteca, "Produção de iogurte batido com leite de cabra", 2007.
+Ministério da Agricultura, Instrução Normativa 46, de 23 de outubro de 2007.
+Extensão da Universidade do Alaska, "Making Yogurt at Home", 2024.
+Prática consolidada de fermentação caseira em extensões universitárias.

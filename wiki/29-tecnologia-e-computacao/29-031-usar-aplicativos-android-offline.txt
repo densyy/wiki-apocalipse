@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 29-031
+TITULO: Como usar aplicativos Android offline
+CATEGORIA: 29 - Tecnologia, computação e informática offline
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: smartphone Android com os apps já instalados e carregado
+REVISAO: 2026-11
+PALAVRAS-CHAVE: android, offline, aplicativos, sem internet, mapas, baixar
+==============================================================================
+
+OBJETIVO
+--------
+Deixar apps e dados prontos no aparelho para uso offline, sem conexão.
+
+QUANDO USAR
+-----------
+Quando o sinal de celular ou o Wi-Fi cair durante o trajeto.
+Quando for entrar em área sem cobertura, como interior ou mata.
+Quando precisar consultar mapa, manual ou documento em campo.
+Quando quiser poupar bateria e evitar gasto de dados móveis.
+
+NAO USE QUANDO
+--------------
+Quando o app exige login, código por SMS ou confirmação em tempo real.
+Banco, mensagens, compras e busca na internet não funcionam sem sinal.
+
+MATERIAIS
+---------
+- Smartphone Android carregado, com os apps já instalados.
+- Carregador ou bateria externa (power bank).
+- Cartão de memória, se o aparelho aceitar, para guardar os arquivos.
+- Lista escrita dos dados que precisam estar disponíveis.
+
+PROCEDIMENTO
+------------
+1. Faça uma lista dos apps e dos dados que vai precisar sem internet.
+2. Instale os apps enquanto houver internet, na loja oficial do aparelho.
+3. Abra cada app conectado e conclua login e permissões iniciais.
+4. Guarde dentro do app o que for precisar: mapa, texto, música ou imagem.
+5. No app de mapas, toque em Mapas offline e salve a área da rota.
+6. Confira o espaço livre antes de baixar arquivos grandes.
+7. Na loja de apps, desative a atualização automática.
+8. Ative o modo avião e abra cada app para conferir o conteúdo salvo.
+9. Desligue o modo avião, carregue o aparelho e leve o carregador.
+10. Em campo, abra só o app necessário e feche os demais.
+
+ATENCAO
+-------
+O que foi salvo em um app não aparece em outro; baixe em cada um.
+Mapa offline mostra ruas, mas não mostra trânsito nem desvios.
+Sem sinal, login, mensagens e pagamentos falham; teste antes de sair.
+Baixar arquivo de fonte desconhecida pode trazer vírus; use a loja oficial.
+Anote em papel senhas e telefones: código por SMS exige cobertura.
+
+SE NAO TIVER
+------------
+Sem cartão de memória, use o armazenamento interno e apague downloads.
+Sem internet para baixar, anote em papel endereços, rotas e telefones.
+Sem bateria externa, baixe o brilho, desligue o GPS e abra só o necessário.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Com o modo avião ligado, o app abre e mostra o conteúdo salvo.
+O mapa salvo encontra o endereço digitado e mostra a área da rota.
+
+FONTES
+------
+Central de Ajuda do Google Play: atualização de apps e opções de rede.
+Central de Ajuda do Android: bateria e modo avião; prática consolidada.

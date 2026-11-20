@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 40-003
+TITULO: Como o som se propaga na água
+CATEGORIA: 40 - Acústica e engenharia sonora
+TEMPO: 20 minutos
+RISCO: baixo
+EXIGE: água rasa em recipiente, dois objetos duros, tubo oco
+REVISAO: 2026-11
+PALAVRAS-CHAVE: som, água, propagação, velocidade, frequência, onda, eco
+==============================================================================
+
+OBJETIVO
+--------
+Entender como o som viaja na água e por que chega mais longe que no ar.
+
+QUANDO USAR
+-----------
+Quando precisar entender por que um som debaixo d'água chega de longe.
+Quando quiser testar a propagação do som sem equipamento eletrônico.
+Quando precisar escolher o tom para sinalizar de longe dentro d'água.
+
+NAO USE QUANDO
+--------------
+Este texto é explicativo e não substitui treinamento de mergulho.
+Não encoste a cabeça na água sozinho, em correnteza ou em água profunda.
+
+MATERIAIS
+---------
+- Recipiente com água, tanque ou piscina rasa (30 a 60 cm de profundidade).
+- Duas pedras ou objetos duros que batam sem quebrar.
+- Tubo plástico ou de papelão para levar o som até a orelha.
+
+PROCEDIMENTO
+------------
+1. Coloque água no recipiente até aproximadamente 40 cm de altura.
+2. Mergulhe as duas pedras na água, uma em cada mão.
+3. Bata as pedras debaixo d'água e ouça o som.
+4. Repita o batimento fora d'água, na mesma altura, e compare.
+5. Encaixe uma ponta do tubo na orelha e a outra na água.
+6. Bata de novo e ouça pelo tubo: o som fica mais nítido.
+7. Bata devagar para um tom grave, depois rápido para um tom agudo.
+8. Afaste um passo de cada vez e note qual tom some primeiro.
+
+ATENCAO
+-------
+O som é onda de pressão: a água vibra, mas não viaja com o som.
+A água é densa e pouco compressível: o som nela corre mais rápido.
+Na água o som vai a aproximadamente 1.500 m/s; no ar, a 340 m/s.
+Calor, sal e profundidade aumentam a velocidade; graves chegam mais longe.
+Agudos somem antes; o teste não mede distâncias reais de mar aberto.
+Não ensina mergulho. Pare se sentir tontura ou alguém escorregar.
+
+SE NAO TIVER
+------------
+Sem tubo, encoste a orelha na parede do recipiente para ouvir.
+Sem recipiente, use poça funda ou a beira de um tanque.
+Sem água, não dá para testar; nunca ligue tubo à boca ou ao nariz.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A batida debaixo d'água soa mais clara pelo tubo que a batida no ar.
+O tom grave continua audível depois que o agudo já não se ouve.
+Você consegue explicar que a água conduz o som melhor que o ar.
+
+FONTES
+------
+Administração Nacional Oceânica e Atmosférica dos EUA (NOAA): folha
+"Basics of Underwater Sound" e "How far does sound travel in the ocean?".
+Discovery of Sound in the Sea, Universidade de Rhode Island; Introduction
+to Oceanography, P. Webb (LibreTexts); guia de som da NPL (Reino Unido).

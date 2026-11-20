@@ -1,0 +1,80 @@
+==============================================================================
+CODIGO: 36-033
+TITULO: Como identificar riscos geológicos em terrenos
+CATEGORIA: 36 - Geologia, mineração e recursos naturais
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: bastão de madeira, caderno, lanterna, calçado firme
+REVISAO: 2026-11
+PALAVRAS-CHAVE: deslizamento, rachadura, desmoronamento, encosta, solo mole
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer sinais de solo instável antes de acampar, cavar ou construir.
+
+QUANDO USAR
+-----------
+Antes de montar acampamento em encosta, barranco ou beira de ribeirão.
+Após chuva forte, tremor ou seca longa seguida de chuva.
+Antes de cavar poço, vala, latrina ou abrir trilha em terreno novo.
+Quando o solo mostrar rachaduras, afundamento ou água turva sem causa.
+Ao escolher lugar para guardar ferramentas ou estoque.
+
+NAO USE QUANDO
+--------------
+Não serve para prever o dia ou a hora exata de um deslizamento.
+Não substitui mapa de risco, sondagem técnica ou laudo de engenheiro.
+Não entre em área com movimento ativo para "confirmar" o diagnóstico.
+
+MATERIAIS
+---------
+- Caderno e lápis para anotar a posição aproximada dos sinais.
+- Calçado firme e bastão de madeira para sondar à frente dos pés.
+- Lanterna para ver sombras e relevo no fim do dia.
+
+PROCEDIMENTO
+------------
+1. Pare no alto da encosta e observe a forma do terreno antes de entrar.
+2. Procure rachaduras novas no solo, no topo e na base da encosta.
+3. Observe árvores inclinadas, postes tortos ou cercas deformadas.
+4. Verifique se paredes ou muros estão separados da fundação.
+5. Aproxime-se só da borda segura; nunca fique abaixo da área suspeita.
+6. Sonde à frente dos pés com o bastão; pare se o solo ceder.
+7. Note água turva, lamacenta ou água nova em ponto antes seco.
+8. Observe a drenagem: sulco novo ou água presa atrás de barramento.
+9. Olhe o barranco: corte vertical e solo sem vegetação erodindo.
+10. Anote no caderno cada sinal, a posição aproximada e a hora.
+11. Repita a observação após chuva forte, pois o solo muda em poucas horas.
+12. Com dois ou mais sinais juntos, marque a área como insegura e afaste-se.
+
+ATENCAO
+-------
+Um deslizamento pode correr mais rápido que uma pessoa e começar sem aviso.
+Fique sempre acima e de lado da área observada, nunca na base ou no vale.
+Rachadura que cresce, água turva ou árvore torta indicam movimento em curso.
+Não pise em solo que cedeu nem apoie peso na borda de buraco ou barranco.
+O método não detecta cavidades profundas nem falhas sem sinal na superfície.
+Com ronco, tremor do solo ou poeira subindo, saia já e avise os outros.
+Não tente escavar, drenar ou estabilizar a área sem orientação técnica.
+
+SE NAO TIVER
+------------
+Sem bastão, use um galho seco comprido para sondar à frente dos pés.
+Sem caderno, memorize a ordem dos sinais e repita a observação com luz.
+Sem lanterna, faça a vistoria só com luz do dia e boa visibilidade.
+Com chuva forte, neblina ou escuro, não inspecione: volte outro dia.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você listou por escrito quais sinais viu e em que ponto do terreno.
+A área ficou classificada como segura ou insegura por sinais observáveis.
+Nenhum passo exigiu entrar na zona de risco abaixo da encosta.
+
+FONTES
+------
+Prática consolidada de reconhecimento de riscos geológicos, resumida de:
+Programa de Riscos de Deslizamento do Serviço Geológico dos Estados Unidos
+(USGS): nota "Landslide Basics" (2024) e o "Landslide Handbook" (Highland e
+Bobrowsky, 2008); Serviço Geológico do Brasil (SGB/CPRM), área de Prevenção
+de Desastres e alerta SACE. Resumo operacional, não laudo técnico.

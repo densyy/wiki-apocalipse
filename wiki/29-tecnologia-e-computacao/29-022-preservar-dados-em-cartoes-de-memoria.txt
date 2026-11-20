@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 29-022
+TITULO: Como preservar dados em cartões de memória
+CATEGORIA: 29 - Tecnologia, computação e informática offline
+TEMPO: 20 minutos
+RISCO: medio
+EXIGE: cartão, leitor ou slot, outra mídia para cópia, etiqueta e caneta
+REVISAO: 2026-11
+PALAVRAS-CHAVE: cartão de memória, sd, microsd, backup, cópia, gravação
+==============================================================================
+
+OBJETIVO
+--------
+Manter os arquivos de um cartão de memória legíveis por muito tempo.
+
+QUANDO USAR
+-----------
+Quando o cartão guarda fotos, mapas ou documentos que não podem se perder.
+Antes de guardar o cartão por semanas ou meses sem uso.
+Antes de viajar para onde não haverá computador nem energia.
+
+NAO USE QUANDO
+--------------
+Não use um único cartão como cópia exclusiva de arquivo importante.
+Não grave mais dados em cartão que já mostra erro ou arquivo corrompido.
+
+MATERIAIS
+---------
+- Cartão de memória com os dados (SD, microSD ou equivalente).
+- Leitor de cartão ou dispositivo com slot funcionando.
+- Outra mídia: pendrive, disco ou outro cartão (disco é melhor).
+- Etiqueta, caneta e estojo seco (saqueta plástica serve).
+
+PROCEDIMENTO
+------------
+1. Identifique o cartão com etiqueta, nome e data da cópia.
+2. Conecte o leitor e espere o computador reconhecer o cartão.
+3. Abra os arquivos no cartão para confirmar que abrem.
+4. Copie os arquivos para outra mídia, sem mover os originais.
+5. Abra alguns arquivos na cópia para confirmar que não estão corrompidos.
+6. Faça uma segunda cópia em mídia diferente e guarde em outro lugar.
+7. Ative a chave de proteção contra gravação no cartão SD, se ele tiver.
+8. Deixe espaço livre no cartão: não o encha até o limite.
+9. Use "remover com segurança" antes de tirar o cartão.
+
+ATENCAO
+-------
+A memória flash (a mesma do pendrive) perde carga com o tempo sem energia.
+Cartão parado por anos pode não abrir mais: refaça a cópia periodicamente.
+A chave de proteção existe no SD comum; o microSD não tem essa chave.
+Ela só impede escrita acidental, não apagamento por comando do computador.
+A resistência à água varia por fabricante; cartão duvidoso falha sem aviso.
+
+SE NAO TIVER
+------------
+Sem leitor, use o slot do celular ou da câmera com cabo de dados.
+Sem segunda mídia, copie para o celular e depois para outro dispositivo.
+Sem chave de proteção, guarde o cartão fora do leitor quando não gravar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os arquivos abrem tanto no cartão quanto nas duas cópias.
+O tamanho e a quantidade de arquivos conferem entre original e cópia.
+A chave de proteção está travada, se o cartão a tiver.
+
+FONTES
+------
+SD Association (SD-3C LLC): FAQ do consumidor e página inicial.
+Vida útil de 10 anos ou mais, chave de proteção no SD comum, resistência
+à água varia por fabricante. Prática consolidada; resumo operacional.

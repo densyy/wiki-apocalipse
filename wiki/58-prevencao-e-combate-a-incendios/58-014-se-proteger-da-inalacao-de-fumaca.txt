@@ -1,0 +1,78 @@
+==============================================================================
+CODIGO: 58-014
+TITULO: Como se proteger da inalação de fumaça
+CATEGORIA: 58 - Prevenção e combate a incêndios
+TEMPO: 5 minutos
+RISCO: critico
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fumaça, inalação, incêndio, fogo, escapar, monóxido
+==============================================================================
+
+OBJETIVO
+--------
+Sair de um local com fumaça sem inalar gases tóxicos e chegar a salvo.
+
+QUANDO USAR
+-----------
+Quando o alarme de fumaça toca ou surge cheiro de queima.
+Quando a fumaça desce e dificulta a visão dentro de casa ou do prédio.
+Quando há fogo em ambiente fechado: casa, apartamento, loja ou veículo.
+Quando a saída principal está com fumaça ou bloqueada pelo fogo.
+Quando ficar no local significa continuar respirando fumaça.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Saia ao ouvir o alarme, ver fumaça ou sentir cheiro de queima.
+2. Não pare para vestir roupas, pegar objetos ou apagar o fogo.
+3. Ajoelhe-se e apoie as mãos no chão; mantenha o rosto rente ao piso.
+4. Cubra nariz e boca com um pano ao alcance, sem parar para procurar um.
+5. Siga tateando a parede até a saída mais próxima.
+6. Use a segunda saída se a primeira estiver com fogo ou fumaça densa.
+7. Encoste o dorso da mão na porta: se estiver quente, não abra.
+8. Feche a porta atrás de você ao deixar cada cômodo.
+9. Desça as escadas; nunca use o elevador.
+10. Vá ao ponto de encontro e ligue para os bombeiros; informe quem ficou.
+
+ATENCAO
+-------
+Fumaça e gases tóxicos matam mais pessoas do que as chamas.
+O monóxido de carbono não tem cor nem cheiro: pode causar desmaio e morte.
+Pano úmido não filtra gases tóxicos; serve só para reter poeira fina.
+Ficar baixo reduz a inalação, mas não substitui a saída rápida.
+A fumaça quente pode passar de 300 graus Celsius na altura dos olhos.
+Não volte para buscar objetos, animais ou pessoas: chame os bombeiros.
+Feche a porta e vede frestas com pano se não puder sair.
+Sinalize da janela e aguarde o resgate; não se esconda debaixo da cama.
+Tosse, ardência nos olhos ou tontura são sinal para sair e buscar ajuda.
+
+SE NAO TIVER
+------------
+- Sem pano, use a manga da roupa ou a palma da mão sobre nariz e boca.
+- Sem saída principal, use janela ou porta dos fundos do cômodo.
+- Sem saída, fique baixo, feche a porta e peça ajuda pela janela.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você está fora do prédio, no ponto de encontro, sem cheiro de fumaça.
+A tosse e a ardência diminuem depois de respirar ar limpo.
+Você informou aos bombeiros se alguém ficou preso e onde.
+Ninguém entrou de novo no local.
+
+FONTES
+------
+U.S. Fire Administration (USFA/FEMA): Learn About Fire, revisado em 2024.
+U.S. Fire Administration: Home Fire Escape Plans, revisado em 2025.
+U.S. Fire Administration: Prepare for Fire, revisado em 2023.
+CDC/NIOSH: página sobre incêndios em áreas silvestres, atualizada em 2026,
+sobre inalação de fumaça e exposição a monóxido de carbono.
+Prática consolidada de segurança contra incêndio; resumo operacional, não
+substitui treinamento nem o planejamento local de rotas de fuga.

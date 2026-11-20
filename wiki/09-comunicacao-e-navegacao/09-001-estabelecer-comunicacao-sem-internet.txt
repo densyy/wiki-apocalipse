@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 09-001
+TITULO: Como estabelecer comunicação sem internet
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 40 minutos
+RISCO: baixo
+EXIGE: rádios bidirecionais com pilhas, apito, papel e lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: rádio, walkie-talkie, comunicação, apito, plano, sinal
+==============================================================================
+
+OBJETIVO
+--------
+Estabeleça contato por rádio com o grupo e combine sinais e pontos
+de encontro quando a internet e o celular falharem.
+
+QUANDO USAR
+-----------
+Quando a internet cai e o celular fica sem sinal ou sem bateria.
+Quando o grupo se separa em área sem cobertura de celular.
+Quando é preciso receber avisos sem internet nem celular.
+
+NAO USE QUANDO
+--------------
+Quando o celular ainda tem sinal: use a ligação para pedir socorro.
+
+MATERIAIS
+---------
+- Par de rádios bidirecionais (walkie-talkies) com pilhas.
+- Pilhas reservas, carregador manual, apito, papel, lápis e mapa local.
+
+PROCEDIMENTO
+------------
+1. Combine o canal de rádio, o horário e o ponto de encontro com o grupo.
+2. Escreva no papel o canal, o horário, o ponto e um contato fora da área.
+3. Entregue o papel a cada pessoa e peça que repita em voz alta.
+4. Coloque as pilhas e ligue cada rádio.
+5. Ajuste o canal (via de transmissão) no mesmo número em todos.
+6. Gire o controle de ruído (squelch) até parar o chiado.
+7. Aperte o botão de falar, espere um segundo e diga "teste".
+8. Solte o botão e escute; se não responderem, confira canal e pilhas.
+9. Fale frases curtas e solte o botão para ouvir a resposta.
+10. Aproxime o rádio da boca ao falar e da orelha ao ouvir.
+11. Fale de ponto alto e aberto; prédios e mato cortam o sinal.
+12. Ligue o rádio a pilha ou manual e sintonize a emissora local.
+13. Combine o apito: três apitos curtos significam pedido de ajuda.
+
+ATENCAO
+-------
+Rádios de uso livre alcançam poucas centenas de metros na cidade; prédios,
+mato e relevo reduzem o alcance. Falar com o botão preso gasta bateria:
+fale pouco e leve pilhas reservas. Qualquer pessoa no mesmo canal escuta:
+nunca diga senhas ou a localização de pessoa vulnerável. Com sinal, ligue
+para pedir socorro. Se ninguém vier no horário, espere e cheque o ponto
+de encontro antes de sair procurando.
+
+SE NAO TIVER
+------------
+Sem rádios, use o apito e deixe recados no ponto de encontro.
+Sem pilhas, use rádio de manivela; sem os dois, o rádio não serve.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As pessoas escutam a voz clara no rádio ao testar cada aparelho.
+O rádio receptor traz áudio de emissora local com avisos.
+
+FONTES
+------
+Prática consolidada de preparação: FEMA e Ready.gov (plano familiar de
+comunicação e kit com rádio, apito e mapas); NOAA sobre rádio de emergência.

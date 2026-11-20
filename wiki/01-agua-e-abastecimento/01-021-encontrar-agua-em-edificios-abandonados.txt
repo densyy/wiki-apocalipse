@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 01-021
+TITULO: Como encontrar água em edifícios abandonados com segurança
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 40 minutos
+RISCO: critico
+EXIGE: lanterna, luvas, calçados fechados, recipiente limpo, prédio estável
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, prédio abandonado, caixa d'água, cano, privada, sede
+==============================================================================
+
+OBJETIVO
+---------
+Localizar e coletar água em prédio abandonado sem entrar em risco.
+
+QUANDO USAR
+-----------
+Quando a água encanada foi cortada e não existe fonte natural por perto.
+Quando há caixa d'água, aquecedor ou canos em prédio que parece inteiro.
+Quando o prédio está vazio, mas sem rachaduras nem cheiro de gás.
+Quando não há fios expostos, piso cedendo ou tambor químico.
+
+NAO USE QUANDO
+--------------
+Não entre se o prédio balança, tem rachaduras largas ou laje cedendo.
+Não entre se houver cheiro de gás, fios energizados ou paredes tortas.
+Não use água de radiador, caldeira, piscina, tanque com tratamento químico.
+Não use se não tiver como ferver ou desinfetar a água depois.
+
+MATERIAIS
+---------
+- Lanterna (ou celular com bateria).
+- Luvas grossas (ou pano enrolado nas mãos).
+- Calçados fechados (ou pés bem protegidos).
+- Recipiente limpo com tampa (ou garrafa de água vazia).
+- Pano limpo para coar (ou filtro de papel ou café).
+- Fonte de calor e panela para ferver depois.
+
+PROCEDIMENTO
+------------
+1. Observe o prédio por fora antes de entrar.
+2. Procure rachaduras largas, laje cedendo e paredes tortas.
+3. Sinta o cheiro de gás na entrada; se houver, saia e não entre.
+4. Não entre se houver fios expostos ou energia ligada.
+5. Abra a entrada e espere alguns minutos para o ar circular.
+6. Use a lanterna; nunca fósforo ou isqueiro dentro do prédio.
+7. Vá primeiro à caixa d'água no telhado, se houver acesso seguro.
+8. Verifique se a tampa está fechada e se não há cheiro de combustível.
+9. Abra a torneira mais alta do prédio para soltar o ar da tubulação.
+10. Abra a torneira mais baixa e deixe a água correr até ficar limpa.
+11. Encha o recipiente limpo com a água que sair.
+12. Se não houver torneira, localize o aquecedor de água no prédio.
+13. Confirme que o aquecedor está sem energia e sem chama antes de tocar.
+14. Espere o tanque esfriar por aproximadamente 30 minutos.
+15. Coloque o recipiente sob a válvula de descarga na base do tanque.
+16. Abra a válvula devagar e encha o recipiente.
+17. Feche a válvula e não volte a ligar o aquecedor.
+18. Como último recurso, use o tanque do vaso sanitário, nunca a bacia.
+19. Não use a água do tanque se houver odor químico ou cor estranha.
+20. Coe a água com pano limpo para remover partículas visíveis.
+21. Ferva a água em ebulição forte por 1 minuto.
+22. Acima de 2.000 m de altitude, ferva por 3 minutos.
+23. Desligue o fogo, tampe e espere esfriar antes de beber.
+24. Guarde a água fria em recipiente limpo e tampado.
+
+ATENCAO
+-------
+Entrar em prédio abandonado pode matar: desabamento, gás ou choque.
+Não use fogo, fósforo ou isqueiro: pode haver gás e explodir.
+Água parada em canos pode conter Legionella e outros germes.
+Ferver mata os germes, mas não remove combustível, agrotóxico ou sal.
+Água com cheiro de óleo ou solvente não serve: descarte.
+Não beba água de radiador, caldeira ou piscina.
+Se sentir tontura ou falta de ar, saia imediatamente e respire ar livre.
+Se a água tiver cor ou odor estranho, não beba; procure outra fonte.
+
+SE NAO TIVER
+------------
+Sem caixa d'água ou aquecedor, use só o tanque do vaso sanitário.
+Nunca use a água da bacia do vaso.
+Sem torneira, encha o recipiente na válvula do aquecedor.
+Sem como ferver, use água sanitária sem perfume conforme o rótulo.
+Se o prédio não estiver seguro, desista e procure outra fonte de água.
+Sem recipiente limpo, não colete; água suja em garrafa suja continua suja.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água saiu em fluxo contínuo da torneira ou da válvula e ficou límpida.
+Depois de fervida e tampada, a água esfriou sem poeira nem fumaça.
+
+FONTES
+------
+FEMA: orientações sobre localização de água potável após desastres.
+FEMA: fontes seguras de água em casa e tanque de aquecimento.
+CDC: como tornar a água segura em emergência.
+CDC: não usar água de radiadores ou caldeiras para beber.
+EPA: qualidade da água em edifícios sem uso e risco de Legionella.
+Prática consolidada de coleta em tanques e aquecedores.
+Este texto é resumo operacional e não substitui treinamento.

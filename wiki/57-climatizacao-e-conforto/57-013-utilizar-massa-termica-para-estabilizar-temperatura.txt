@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 57-013
+TITULO: Como utilizar massa térmica para estabilizar temperatura
+CATEGORIA: 57 - Refrigeração, climatização e conforto
+TEMPO: 60 minutos
+RISCO: baixo
+EXIGE: material denso, isolamento externo, aberturas, termômetro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: massa térmica, inércia, concreto, tijolo, calor, isolamento
+==============================================================================
+
+OBJETIVO
+--------
+Absorver calor de dia e devolvê-lo à noite para reduzir variações internas.
+
+QUANDO USAR
+-----------
+Quando o dia é quente e a noite é bem mais fria.
+Quando o sol de inverno aquece de dia e a casa esfria de madrugada.
+
+NAO USE QUANDO
+--------------
+Em clima quente e úmido com noites quentes: a massa não esfria.
+Quando a variação dia-noite for menor que aproximadamente 7 graus.
+Quando a parede ou o piso não puder ficar exposto ao ar do cômodo.
+
+MATERIAIS
+---------
+- Concreto, tijolo, pedra, cerâmica não esmaltada ou terra batida.
+- Isolante para a face externa da parede (lã mineral, EPS).
+- Sombra ou beiral para bloquear o sol (lona, esteira, vegetação).
+- Termômetro comum e aberturas que abram e fechem (janelas, venezianas).
+
+PROCEDIMENTO
+------------
+1. Meça a temperatura externa ao meio-dia e antes do amanhecer.
+2. Anote a diferença: se for pequena, a massa terá pouco efeito.
+3. Escolha piso ou parede densa que ocupe grande área do cômodo.
+4. Deixe essa superfície exposta ao ar, sem tapete ou madeira.
+5. Aplique o isolante na face externa da parede, nunca na face interna.
+6. Proteja a superfície do sol direto com beiral, sombra ou tela.
+7. Feche janelas e portas durante o dia quente.
+8. Abra as janelas à noite, quando o ar externo estiver mais frio.
+9. Dirija a brisa sobre a massa e feche tudo ao amanhecer.
+10. No inverno, deixe o sol bater na massa e feche ao anoitecer.
+
+ATENCAO
+-------
+Massa térmica não esfria o ar sozinha: só troca calor com o ar frio.
+Se o sol bater no piso de dia, ele vira forno e aquece a noite.
+Parede isolada por dentro quase não funciona: bloqueia a troca.
+Em região úmida, ventilar à noite pode trazer umidade e condensação.
+
+SE NAO TIVER
+------------
+Sem material denso, use baldes de água tampados como massa temporária.
+Sem isolante, mantenha a parede sombreada e aceite resultado aproximado.
+Sem ventilador, abra janelas em lados opostos para criar corrente de ar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A temperatura sobe mais devagar e a massa fica fria ao toque na madrugada.
+A diferença entre a maior e a menor temperatura interna diminuiu.
+
+FONTES
+------
+Guia de Projeto Solar Passivo e tecnologias passivas do DOE.
+Guia de Alta Massa Térmica e Resfriamento Noturno do Building America
+  Solution Center, PNNL; estratégias do ProjetEEE, MME.
+Nota técnica de massa térmica da CMHA e estudos de Givoni e Evans.

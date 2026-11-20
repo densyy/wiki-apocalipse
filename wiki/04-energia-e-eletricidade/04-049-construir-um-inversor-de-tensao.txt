@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 04-049
+TITULO: Como construir um inversor de tensão
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 60 minutos
+RISCO: critico
+EXIGE: módulo inversor comercial, bateria 12 V, fusível CC, cabos grossos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: inversor, tensão, 12v, 220v, bateria, energia, choque
+==============================================================================
+
+OBJETIVO
+--------
+Montar um conjunto com inversor comercial para obter 127 V ou
+220 V a partir de bateria de 12 V para aparelhos pequenos.
+
+QUANDO USAR
+-----------
+Quando faltar energia da rede e precisar ligar aparelho pequeno.
+Quando houver bateria de 12 V carregada e inversor compatível.
+Quando precisar de tomada comum longe da rede por pouco tempo.
+Quando o aparelho cabe na potência escrita no inversor.
+
+NAO USE QUANDO
+--------------
+Se o inversor estiver aberto, molhado, quente ou com cheiro.
+Em local fechado sem ar, perto de gás, gasolina ou palha seca.
+Para ligar chuveiro, ferro, forno, motor grande ou casa inteira.
+Se você não tem fusível, cabo grosso e local seco e ventilado.
+Para injetar energia na rede da casa pela tomada. Isso mata.
+
+MATERIAIS
+---------
+- Módulo inversor comercial 12 V para 127 V ou 220 V.
+- Bateria de 12 V carregada (automotiva ou estacionária).
+- Fusível CC junto ao polo positivo (valor do manual).
+- Cabos grossos curtos com terminais firmes (os do kit).
+- Chave e local seco, firme e ventilado para apoiar tudo.
+- Multímetro para conferir polaridade e tensão (emprestado).
+- Aparelho pequeno dentro da potência do inversor.
+
+PROCEDIMENTO
+------------
+1. Desligue a chave do inversor e deixe tudo desconectado.
+2. Apoie bateria e inversor em local seco, firme e ventilado.
+3. Afaste pano, papel, combustível e deixe ar ao redor.
+4. Confira no rótulo: bateria 12 V igual à entrada do inversor.
+5. Confira no rótulo: aparelho menor que a potência do inversor.
+6. Ligue o cabo terra da carcaça conforme o manual do inversor.
+7. Conecte o cabo negativo no terminal negativo do inversor.
+8. Conecte a outra ponta no polo negativo da bateria.
+9. Conecte o fusível CC no cabo positivo perto da bateria.
+10. Conecte o cabo positivo no terminal positivo do inversor.
+11. Conecte a outra ponta no polo positivo da bateria.
+12. Confira polaridade com multímetro antes de ligar a chave.
+13. Ligue a chave do inversor e observe luz e ventoinha.
+14. Ligue um aparelho pequeno e teste por pouco tempo.
+15. Desligue primeiro o aparelho, depois a chave do inversor.
+16. Desconecte o positivo da bateria e depois o negativo.
+
+ATENCAO
+-------
+A saída do inversor é 127 V ou 220 V e mata por choque elétrico.
+Ela continua viva mesmo com a rede da rua desligada.
+Nunca ligue a saída na tomada da casa. Isso mata quem conserta.
+Curto na bateria faz arco, funde metal, queima e pode explodir.
+Bateria solta gás que explode com faísca. Ventile e sem fumar.
+Polaridade trocada queima o inversor na hora e sem conserto.
+Cabo fino esquenta, derrete e pega fogo. Use cabo grosso curto.
+Se sair cheiro, fumaça ou calor forte, desligue tudo na hora.
+
+SE NAO TIVER
+------------
+Sem fusível CC não monte. O fio vira causa de incêndio.
+Sem multímetro, confira cor e símbolo duas vezes com calma.
+Sem cabo grosso, use aparelho menor e por menos tempo.
+Sem inversor de onda pura, não ligue aparelho sensível.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O inversor liga sem apito, sem cheiro e sem aquecer depressa.
+O aparelho funciona normal e os cabos seguem frios e firmes.
+
+FONTES
+------
+Orientação da FEMA sobre segurança com geradores e choque.
+Orientação da Cruz Vermelha sobre uso seguro de geradores.
+Norma ABNT NBR 5410 sobre instalações de baixa tensão.
+Manuais de instalação de inversores comerciais de 12 V.

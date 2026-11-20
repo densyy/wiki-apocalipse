@@ -1,0 +1,85 @@
+==============================================================================
+CODIGO: 71-015
+TITULO: Como realizar análise básica de arquivos suspeitos offline
+CATEGORIA: 71 - Criptografia, segurança da informação e privacidade
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: computador isolado sem rede, ferramenta de resumo criptográfico
+REVISAO: 2026-11
+PALAVRAS-CHAVE: arquivo suspeito, vírus, malware, análise, hash, isolar
+==============================================================================
+
+OBJETIVO
+--------
+Examinar um arquivo suspeito sem executá-lo e sem conectar à rede.
+
+QUANDO USAR
+-----------
+- Quando um arquivo chega por e-mail ou mensagem e causa dúvida.
+- Quando o arquivo vem de mídia removível encontrada.
+- Quando há suspeita de vírus antes de abrir algo no computador.
+- Quando precisa decidir se um arquivo é seguro para o grupo.
+
+NAO USE QUANDO
+--------------
+- Para abrir ou executar o arquivo só para ver o que acontece.
+- Em computador com dados importantes, conectado à rede ou à internet.
+- Para afirmar sozinho que o arquivo é definitivamente seguro.
+- Quando outra máquina já foi infectada: isole-a e peça ajuda.
+
+MATERIAIS
+---------
+- Computador separado, sem rede, sem privilégios e sem dados valiosos.
+- Gerador de resumo criptográfico, como SHA-256.
+- Visor hexadecimal para ler os primeiros bytes do arquivo.
+- Bloco de notas para registrar cada achado por escrito.
+- Ferramenta strings para listar texto embutido, se disponível.
+
+PROCEDIMENTO
+------------
+1. Desconecte o computador isolado de cabo, Wi-Fi e Bluetooth.
+2. Use conta comum, sem senha de administrador, para manusear o arquivo.
+3. Copie o arquivo para o computador isolado, nunca para o principal.
+4. Anote nome exato, tamanho em bytes e data de modificação.
+5. Calcule o resumo SHA-256 (impressão digital) e anote o valor.
+6. Leia os primeiros bytes do arquivo com um visor hexadecimal.
+7. Confira a assinatura: os primeiros bytes mostram o formato real.
+8. Compare essa assinatura com a extensão do nome do arquivo.
+9. Observe extensão dupla, como "foto.jpg.exe", e nomes estranhos.
+10. Liste o texto legível embutido com a ferramenta strings.
+11. Anote endereços e comandos vistos no texto legível.
+12. Compare o resumo com listas locais de arquivos conhecidos.
+13. Não execute, não instale e não abra o arquivo em nenhum momento.
+14. Guarde o arquivo isolado, sem apagar nem reenviar evidência.
+
+ATENCAO
+-------
+- Um arquivo suspeito pode executar código ao ser apenas aberto.
+- Nunca dê duplo clique, nunca execute e nunca instale o arquivo.
+- Análise básica não prova que o arquivo é seguro: só reduz a dúvida.
+- Extensão e ícone podem mentir: foram escolhidos por quem fez o arquivo.
+- Um resumo SHA-256 novo não é sinal de segurança, apenas de novidade.
+- Desconecte a rede antes de tudo: malware pode enviar dados ao exterior.
+- Se o computador isolado agir estranho, desligue e peça ajuda.
+- Não apague nem reenvie o arquivo: preserve cópia para quem analisar.
+
+SE NAO TIVER
+------------
+- Sem computador isolado, não faça a análise: peça ajuda a quem tem.
+- Sem gerador de resumo, anote nome, tamanho e data e pare por aí.
+- Sem visor hexadecimal, registre o que o sistema mostrar e pare.
+- Nunca use o computador principal com cuidado: o risco continua.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- O arquivo permanece fechado e o isolado continua sem rede.
+- O valor SHA-256 foi anotado e pode ser conferido depois.
+- Os primeiros bytes foram lidos e registrados por escrito.
+- Nenhum programa foi executado e nenhum dado saiu do computador.
+
+FONTES
+------
+NIST SP 800-83 Rev. 1 (2013), Guia de Prevenção e Tratamento de Incidentes
+de Malware em Desktops e Laptops; NIST SP 800-61 Rev. 2 (2012), Guia de
+Tratamento de Incidentes de Segurança. Prática consolidada de análise
+estática sem documento único. Não substitui treinamento formal.

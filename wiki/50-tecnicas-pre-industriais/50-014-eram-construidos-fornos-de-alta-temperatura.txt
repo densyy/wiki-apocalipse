@@ -1,0 +1,84 @@
+==============================================================================
+CODIGO: 50-014
+TITULO: Como construir fornos tradicionais de alta temperatura
+CATEGORIA: 50 - História das tecnologias pré-industriais
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: terreno firme, material refratário, madeira, água e espaço aberto
+REVISAO: 2026-11
+PALAVRAS-CHAVE: forno, refratário, chaminé, tiro, cerâmica, arco
+==============================================================================
+
+OBJETIVO
+---------
+Reconhecer e montar as partes de um forno tradicional de alta temperatura.
+
+QUANDO USAR
+-----------
+Quando for preciso queimar cerâmica, cal ou minério com calor intenso.
+Quando se reconstrói um forno antigo para estudar o processo.
+Quando o material precisa endurecer por queima, e não apenas secar.
+
+NAO USE QUANDO
+--------------
+Quando houver apenas tijolo comum, concreto ou pedra comum junto ao fogo.
+Quando o local for fechado, sem saída de fumaça para o exterior.
+Quando não houver material refratário nem substituto aceitável.
+
+MATERIAIS
+---------
+- Pedra ou tijolo comum para a fundação e a parede externa.
+- Tijolo refratário (pedra refratária) para o interior da câmara.
+- Argila fina para assentar o refratário, com cinza e areia.
+- Barro, areia e cinza para o isolamento entre as paredes.
+- Madeira, carvão ou casca de arroz como combustível.
+- Tábuas e corda para a forma do arco e para marcar a base.
+
+PROCEDIMENTO
+-------------
+1. Escolha terreno firme, nivelado e aberto, longe de telhados e árvores.
+2. Marque o contorno da base no solo com estacas e corda.
+3. Assente a fundação de pedra ou tijolo comum até ficar nivelada.
+4. Abra a fornalha na parte baixa, com a boca voltada para o vento.
+5. Monte a grelha de tijolos com pequenos espaços para o ar subir.
+6. Erga as paredes da câmara com tijolo refratário e argila fina.
+7. Apoie os tijolos da abóbada em uma forma de madeira em arco.
+8. Feche o arco com tijolos refratários e deixe a forma até secar.
+9. Preencha o espaço entre as paredes com barro, areia e cinza.
+10. Abra o canal de tiro na parte alta e ligue-o à chaminé.
+11. Suba a chaminé bem acima da câmara para formar o tiro.
+12. Teste o tiro com um pedaço de papel solto antes de acender.
+13. Deixe a obra secar por aproximadamente uma semana.
+14. Aqueça aos poucos na primeira queima, com fogo brando no início.
+
+ATENCAO
+-------
+Paredes e peças atingem temperaturas que causam queimaduras graves.
+Mantenha crianças e animais afastados durante a queima e o resfriamento.
+Tijolo comum, concreto e pedra comum racham ou estouram junto ao fogo.
+A abóbada desaba se a forma sair antes da argamassa secar.
+Fogo em lugar fechado gera monóxido de carbono, sem cheiro, que pode matar.
+Se a chaminé entope, a fumaça e o fogo voltam pela boca de alimentação.
+Alguns fornos antigos passavam de aproximadamente 900 graus Celsius.
+A temperatura exata depende do combustível, do tiro e do material.
+Isto resume princípios históricos, não é projeto de engenharia.
+Não substitui cálculo estrutural nem orientação de quem constrói fornos.
+
+SE NAO TIVER
+------------
+Sem tijolo refratário, use pedra refratária ou barro refratário.
+Sem chaminé, use uma encosta com canal; o tiro fica mais fraco.
+Sem arco, faça cobertura plana, mas vigas de ferro comum dilatam e derrubam
+a abóbada; prefira sempre a forma em arco.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A chaminé puxa a fumaça e a chama fica clara e constante.
+O interior brilha vermelho sem rachar e a argamassa não se solta.
+O material queimado sai endurecido e com a cor esperada.
+
+FONTES
+------
+Prática consolidada de construção de fornos, reunida em arqueologia
+experimental e manuais de cerâmica. Síntese operacional de referências
+gerais; não substitui treinamento nem projeto de engenharia.

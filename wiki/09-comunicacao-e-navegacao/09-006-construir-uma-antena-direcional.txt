@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 09-006
+TITULO: Como construir uma antena direcional
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: duas chapas ou telas metálicas, fio, coaxial, suporte, trena
+REVISAO: 2026-11
+PALAVRAS-CHAVE: antena, direcional, refletor, dipolo, rádio, tv, sinal
+==============================================================================
+
+OBJETIVO
+--------
+Construa um refletor que concentra o sinal do rádio em uma direção.
+
+QUANDO USAR
+-----------
+Quando o rádio recebe sinal fraco de uma direção conhecida.
+Quando interferências de outras direções atrapalham a recepção.
+
+NAO USE QUANDO
+--------------
+Perto de fios de energia ou linhas de transmissão: risco de morte.
+Com raios, ou em telhado sem proteção contra queda.
+Quando é preciso ouvir em todas as direções.
+
+MATERIAIS
+---------
+- Duas chapas ou telas metálicas retas (grade, chapa de zinco).
+- Fio de cobre reto, sem emendas, para o dipolo (arame de cerca).
+- Isoladores: um central e dois para as pontas (plástico, cerâmica).
+- Cabo coaxial com conector, suporte firme, trena, luvas e fita.
+
+PROCEDIMENTO
+------------
+1. Anote a frequência de trabalho do rádio, em MHz.
+2. Calcule a onda: 300 dividido pela frequência em MHz, em metros.
+3. Corte o fio do dipolo: aproximadamente 143 dividido pela frequência.
+4. Divida em duas pernas iguais e prenda cada ponta em um isolador.
+5. Corte duas chapas com aproximadamente uma onda de lado cada.
+6. Una as chapas em ângulo de 90 graus, com as bordas encostadas.
+7. Prenda as pernas no isolador central, uma de cada lado.
+8. Ponha o dipolo no meio do ângulo, a aproximadamente meia onda da quina.
+9. Prenda o conjunto no suporte com isoladores, longe das chapas.
+10. Ligue o coaxial ao dipolo e ao rádio com o aparelho desligado.
+11. Aponte a abertura ao emissor e gire até o chiado diminuir.
+
+ATENCAO
+-------
+Fios de energia matam: nunca monte perto ou sob a rede elétrica.
+Chapas cortam: use luvas e dobre as bordas antes de montar.
+Com raios, desligue o rádio e baixe a antena; altura causa queda.
+O refletor não cria sinal: sem emissor na direção, não adianta.
+
+SE NAO TIVER
+------------
+Sem chapas, use telas ou grades presas em armação de madeira.
+Sem tela, estique arames paralelos com no máximo 0,06 de onda entre eles.
+Sem trena, meça com corda marcada: o ajuste aceita folga.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ao girar o refletor, o sinal sobe em uma direção e cai atrás.
+O rádio capta mais estações ou com menos chiado que o fio sozinho.
+
+FONTES
+------
+Projeto do refletor de canto: John D. Kraus (QST, 1940) e The ARRL Antenna
+Book (American Radio Relay League). Ângulo e espaçamento segundo Stutzman e
+Thiele, Antenna Theory and Design (Wiley, 2012), conferidos em resumo.

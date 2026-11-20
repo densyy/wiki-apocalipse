@@ -1,0 +1,90 @@
+==============================================================================
+CODIGO: 09-030
+TITULO: Como navegar em florestas sem GPS
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: mapa topográfico da região, bússola, relógio, papel, lápis, apito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: floresta, navegação, bússola, mapa, azimute, perder-se, rumo
+==============================================================================
+
+OBJETIVO
+--------
+Saia de um ponto conhecido e chegue a outro usando mapa, bússola e
+pontos de referência, sem depender de celular ou GPS.
+
+QUANDO USAR
+-----------
+Quando o celular está sem bateria, sem sinal ou sem GPS.
+Quando a trilha some em mato fechado, neblina ou escuridão.
+Quando é preciso chegar a água, estrada ou abrigo em terra desconhecida.
+Quando é preciso voltar ao ponto de partida pelo mesmo caminho.
+
+NAO USE QUANDO
+--------------
+Não tente rota reta em mata desconhecida sem mapa e sem bússola.
+Sem os dois, fique onde está, sinalize e espere ajuda.
+
+MATERIAIS
+---------
+- Mapa topográfico da região com escala e legenda (impresso ou do celular).
+- Bússola de bolso com agulha livre (bússola de celular só com bateria).
+- Papel, lápis e relógio.
+- Apito e bastão para contar passos.
+
+PROCEDIMENTO
+------------
+1. Abra o mapa e leia a escala na legenda; em 1:50.000, 1 cm vale 500 m.
+2. Leia na legenda a declinação magnética: a diferença entre o norte do
+   mapa e o norte indicado pela agulha.
+3. Coloque a bússola plana sobre o mapa, longe de metal e de celular.
+4. Gire o mapa até a agulha coincidir com a linha do norte da legenda.
+5. Identifique no mapa um morro, rio ou clareira visível à frente.
+6. Se o ponto bater com o terreno, marque no mapa a posição atual.
+7. Desenhe no mapa uma linha da posição atual até o destino.
+8. Meça o ângulo dessa linha com a borda da bússola.
+9. Anote o ângulo: é o azimute lido no mapa.
+10. Se a declinação for leste, subtraia o valor da declinação do azimute.
+11. Se a declinação for oeste, some o valor; anote o resultado no papel.
+12. Gire o anel da bússola até o resultado ficar sob a seta de marcha.
+13. Olhe para frente e escolha uma árvore ou rocha alinhada com a seta.
+14. Caminhe até esse alvo sem olhar para a agulha a cada passo.
+15. Ao chegar ao alvo, repita o passo 13 com novo ponto visível.
+16. Conte os passos entre alvos e anote no papel para controlar a distância.
+17. A cada parada, revise o mapa e os pontos de referência visíveis.
+18. Ao encontrar um rio ou uma crista, confirme no mapa antes de seguir.
+
+ATENCAO
+-------
+Sem a declinação corrigida, o erro cresce com a distância e pode desviar
+centenas de metros em uma hora de caminhada. Metal, celular e ímãs
+desviam a agulha: afaste a bússola deles antes de cada leitura. Não
+caminhe olhando só para a agulha: tropeços e quedas acontecem assim.
+Nunca caminhe de noite em mato desconhecido: o risco de se perder sobe
+muito. Se perder o rumo, pare na hora, não continue andando. Fique no
+lugar, apite três vezes e espere. Se decidir andar, siga a jusante de um
+riacho até a borda da floresta, com cuidado em barrancas e quedas d'água.
+O sol não define o norte com segurança: a posição muda com a hora e a
+estação do ano. Use o sol só como pista aproximada, nunca como rumo.
+
+SE NAO TIVER
+------------
+Sem mapa, ande só por trilhas marcadas e pontos largos: rios, estradas e
+cristas. Sem bússola, não invente rota reta na mata: siga cursos d'água
+e marcos visíveis. Sem os dois, fique parado e sinalize com apito, pano
+claro ou fogo seguro. Bússola de celular sem bateria não serve.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A agulha fica estável depois de girar o anel e a seta aponta para o alvo.
+O ponto escolhido aparece no mapa na posição marcada.
+A distância contada em passos bate com a escala do mapa.
+O destino é alcançado ou o ponto de referência esperado aparece.
+
+FONTES
+------
+Prática consolidada de navegação terrestre com mapa e bússola, usada em
+manuais militares de sobrevivência e em orienteering. Nantahala Outdoor
+Center, guia "Navigating the Wild: Basic Wilderness Navigation
+Techniques" (2025), consultado nesta revisão.

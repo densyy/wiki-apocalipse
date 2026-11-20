@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 81-007
+TITULO: Como construir um forno para fabricação de vidro
+CATEGORIA: 81 - Engenharia térmica e fornos industriais
+TEMPO: 3 dias
+RISCO: alto
+EXIGE: refratários, isolamento, chaminé, material de sílica
+REVISAO: 2026-11
+PALAVRAS-CHAVE: vidro, sílica, fusão, forno, refratário, reciclagem
+==============================================================================
+
+OBJETIVO
+--------
+Montar um forno para fundir sílica e fabricar vidro em pequena escala.
+
+QUANDO USAR
+-----------
+Para fundir areia de sílica com fundente e obter vidro.
+Para reaproveitar cacos de vidro limpos em novas peças.
+Quando se quer trabalhar vidro quente perto da oficina.
+Ao substituir um forno que não alcança o ponto de fusão da sílica.
+
+NAO USE QUANDO
+--------------
+Não construa sem refratários de alta qualidade e base firme.
+Não opere sem chaminé e sem proteção dos olhos e do rosto.
+Não funda vidro com tinta, chumbo ou resina desconhecida.
+Não use sem luvas grossas e avental resistente ao calor.
+
+MATERIAIS
+---------
+- Areia de sílica limpa (ou cacos de vidro transparente moídos).
+- Fundente, como barrilha ou cinza de madeira peneirada.
+- Tijolos refratários de alta alumina para a câmara.
+- Argila refratária e isolamento térmico.
+- Chaminé vedada e alta (duto metálico).
+- Cadinho de cerâmica resistente ou refratário próprio.
+- Luvas grossas, óculos de proteção, máscara e avental.
+- Pinça longa, pá e água para resfriamento controlado.
+
+PROCEDIMENTO
+------------
+1. Escolha local firme, ventilado e sem materiais inflamáveis.
+2. Nivele a base e deixe-a curar antes de assentar tijolos.
+3. Projete câmara com entrada de ar e saída de gases.
+4. Assente parede externa e camada de isolamento contínua.
+5. Revista o interior com tijolos refratários de alta alumina.
+6. Instale chaminé vedada, mais alta que o telhado próximo.
+7. Deixe a construção secar antes da primeira queima.
+8. Faça queima branda para curar a massa refratária.
+9. Misture areia de sílica com fundente em proporção definida.
+10. Coloque a mistura seca no cadinho já aquecido.
+11. Aumente o calor até a massa ficar pastosa e brilhante.
+12. Verifique se não sobraram grãos sem fundir.
+13. Retire o vidro com pinça e modele sobre superfície limpa.
+14. Resfrie devagar para evitar trincas por choque térmico.
+15. Anote tempos e proporções para repetir a operação.
+
+ATENCAO
+-------
+A sílica pura funde em temperatura alta: use fundente e refratário próprio.
+Vidro líquido gruda na pele e causa queimadura profunda.
+Cinzas e fundentes podem liberar pó irritante: use máscara.
+Nunca coloque vidro úmido no cadinho quente: estoura e respinga.
+O brilho do vidro fundido ofusca a vista: use óculos escuros de proteção.
+Nunca toque a peça recém-feita com as mãos nuas.
+Mantenha o rosto afastado ao abrir a porta do forno.
+
+SE NAO TIVER
+------------
+Sem refratário de alta alumina, não tente fundir sílica pura.
+Sem cadinho próprio, use apenas cacos já fundidos em forno adequado.
+Sem óculos de proteção, não se aproxime do vidro em fusão.
+Sem fundente, a fusão fica lenta e gasta muito mais combustível.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A massa fica transparente e sem grãos de areia visíveis.
+A peça sai sem bolhas grandes nem trincas depois de fria.
+O cadinho e a câmara não apresentam erosão anormal.
+O vidro pode ser retirado e trabalhado com segurança.
+
+FONTES
+------
+Prática consolidada de fabricação artesanal de vidro e fusão de sílica,
+sem documento normativo único. Referências correntes de refratários para
+vidrarias, segurança em fornos quentes e manuseio de vidro quente.

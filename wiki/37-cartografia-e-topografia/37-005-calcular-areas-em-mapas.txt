@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 37-005
+TITULO: Como calcular áreas em mapas
+CATEGORIA: 37 - Cartografia, topografia e levantamento
+TEMPO: 40 minutos
+RISCO: baixo
+EXIGE: mapa com escala, régua, lápis, caderno, papel quadriculado
+REVISAO: 2026-11
+PALAVRAS-CHAVE: área, mapa, escala, hectare, quadrícula, medição, croqui
+==============================================================================
+
+OBJETIVO
+--------
+Calcular a área de uma região no mapa e converter o resultado para hectares.
+
+QUANDO USAR
+-----------
+Ao dimensionar uma roça ou horta a partir de um croqui.
+Ao estimar a área de captação de água de uma vertente antes de cavar.
+
+NAO USE QUANDO
+--------------
+Quando o mapa não tiver escala numérica ou gráfica legível.
+Quando o contorno mudou no terreno: desmatamento, alagamento ou erosão.
+Quando precisar da área real de uma encosta íngreme.
+
+MATERIAIS
+---------
+- Mapa ou croqui com escala legível.
+- Régua, lápis, caderno e papel quadriculado (ou palito medido).
+- Calculadora (ou papel para a conta).
+
+PROCEDIMENTO
+------------
+1. Leia a escala impressa no mapa e anote-a no caderno.
+2. Converta 1 centímetro do mapa em metros no terreno.
+3. Em 1:10.000, 1 cm vale 100 m. Em 1:24.000, 240 m. Em 1:50.000, 500 m.
+4. Eleve esse valor ao quadrado para converter áreas.
+5. Em 1:10.000, 1 cm2 vale 10.000 m2, ou 1 hectare.
+6. Em 1:24.000, 1 cm2 vale 57.600 m2. Em 1:50.000, vale 250.000 m2.
+7. Desenhe o contorno da área no mapa com o lápis.
+8. Para retângulo, meça largura e comprimento em centímetros e multiplique.
+9. No triângulo, meça base e altura; divida por 2 o produto.
+10. Na forma irregular, divida em figuras simples e some as áreas.
+11. No contorno recortado, conte quadrados de papel quadriculado.
+12. Conte dois parciais como um inteiro e some ao total.
+13. Multiplique pelo passo 4 e anote o resultado em m2 e hectares.
+
+ATENCAO
+-------
+A escala é linear; para área, eleve o fator ao quadrado.
+Usar o fator linear é o erro mais comum e pode dar área 100 vezes menor.
+O mapa mede a área plana, não a superfície real de encostas íngremes.
+Mapa antigo pode omitir desmatamento, alagamento ou erosão recente.
+Marque o resultado como aproximado: medir no papel sempre tem erro.
+
+SE NAO TIVER
+------------
+Sem papel quadriculado, desenhe uma grelha no caderno com a régua.
+Sem calculadora, multiplique no papel e confira a conta duas vezes.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O fator de área foi elevado ao quadrado antes da conversão.
+O resultado em hectares é coerente com o contorno visto no mapa.
+
+FONTES
+------
+Área por escala e quadrícula: prática consolidada, sem documento único.
+Escalas de mapas topográficos: Serviço Geológico dos EUA (USGS).

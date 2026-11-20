@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 33-002
+TITULO: Como calcular a área necessária para alimentar uma família
+CATEGORIA: 33 - Agricultura avançada e autossuficiência rural
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: papel, lápis, dados de produtividade da sua região
+REVISAO: 2026-11
+PALAVRAS-CHAVE: área, hectare, kcal, produtividade, família, plantio
+==============================================================================
+
+OBJETIVO
+--------
+Calcule a área de lavoura que alimenta uma família por um ano.
+
+QUANDO USAR
+-----------
+- Ao planejar uma roça ou horta de subsistência.
+- Antes de comprar sementes ou definir o tamanho da área.
+- Quando a terra disponível é pouca e é preciso saber se alcança.
+
+NAO USE QUANDO
+--------------
+- Quando se desconhece a produtividade local: o cálculo perde valor.
+- Quando a meta for dieta completa: aqui se conta só calorias.
+
+MATERIAIS
+---------
+- Papel e lápis (ou caderno e caneta).
+- Dados de produtividade da região: Conab, Embrapa ou vizinhos.
+- Tabela de energia dos alimentos em kcal por kg.
+
+PROCEDIMENTO
+------------
+1. Some a energia diária: some as necessidades de cada pessoa da família.
+2. Use 2.100 kcal por adulto por dia como mínimo da FAO e da OMS.
+3. Acrescente 200 kcal por dia para cada gestante ou lactente.
+4. Multiplique a energia diária da família por 365 para obter kcal por ano.
+5. Escolha as culturas base: milho, feijão e mandioca, por exemplo.
+6. Anote a produtividade local de cada cultura em kg por hectare.
+7. Sem dado local, use milho 6.000, feijão 1.100 e mandioca 12.000 kg/ha.
+8. Anote a energia: milho 3.600, feijão 3.400 e mandioca 1.600 kcal/kg.
+9. Multiplique produtividade por energia para obter kcal por hectare.
+10. Divida as kcal anuais da família pelas kcal por hectare de cada cultura.
+11. Some os hectares e aumente 30% para perdas e falha de safra.
+12. Converta hectares em metros quadrados: multiplique por 10.000.
+
+ATENCAO
+-------
+A referência de 2.100 kcal é mínimo de sobrevivência, não dieta completa.
+Conta só calorias: não garante proteínas, vitaminas nem minerais.
+A produtividade de tabela é média; na sua terra pode ser bem menor.
+Semente, pragas e seca reduzem a colheita: aumente a margem de área.
+Se a área não couber na terra, busque alimento ou reduza o consumo.
+
+SE NAO TIVER
+------------
+Sem dados locais, use as médias nacionais e plante mais.
+Meça a colheita e corrija a área no ano seguinte.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A soma das áreas com a margem cabe na terra disponível.
+A produção estimada atende às kcal anuais da família.
+
+FONTES
+------
+Energia: OMS/FAO, Food and Nutrition Needs in Emergencies (2002); FEWS NET.
+Produtividade: Conab, safra 2025/2026, e Embrapa (Cerrado, 2020).
+Energia dos alimentos: tabelas de composição, prática consolidada.

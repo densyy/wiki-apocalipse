@@ -1,0 +1,97 @@
+==============================================================================
+CODIGO: 30-006
+TITULO: Como calcular estruturas simples
+CATEGORIA: 30 - Engenharia e infraestrutura básica
+TEMPO: 60 minutos
+RISCO: critico
+EXIGE: trena, caderno, lápis, calculadora, tabela de vão (se houver)
+REVISAO: 2026-11
+PALAVRAS-CHAVE: viga, carga, vão, flecha, madeira, obra, apoio, calcular
+==============================================================================
+
+OBJETIVO
+--------
+Estimar a carga e a altura de uma viga antes de montar a estrutura.
+
+QUANDO USAR
+-----------
+Quando for montar prateleira, passarela, esteira ou cobertura leve.
+Quando precisar escolher entre duas vigas disponíveis no local.
+Quando a estrutura for apoiar peso conhecido e distribuído.
+Quando não houver tabela de vão nem projeto para consultar.
+
+NAO USE QUANDO
+--------------
+Quando a estrutura sustentar pessoas em altura ou sobre água profunda.
+Quando houver carga pontual: pilar, tanque ou peso parado no meio do vão.
+Quando o vão passar de aproximadamente 4 metros.
+Quando houver vento forte, neve intensa, terremoto ou impacto.
+Quando a madeira estiver úmida, fendida ou com sinal de apodrecimento.
+Nesses casos, procure engenheiro ou construção especializada.
+
+MATERIAIS
+---------
+- Trena ou corda para medir (fita improvisada).
+- Caderno e lápis para anotar as contas.
+- Calculadora (ou conta feita à mão).
+- Saco ou peso conhecido para comparar cargas.
+- Tabela de vão de madeira do fornecedor, se existir.
+
+PROCEDIMENTO
+------------
+1. Meça o vão: a distância livre entre os dois apoios da viga.
+2. Anote o vão em metros e em centímetros.
+3. Meça a distância até a viga vizinha de cada lado.
+4. Some as duas metades para obter a largura tributária da viga.
+5. Liste o peso fixo: madeira, telha, terra, parede e ferragens.
+6. Liste o peso variável: pessoas, móveis, água, neve e ferramentas.
+7. Some os dois pesos para obter a carga por metro quadrado.
+8. Multiplique essa carga pela largura tributária da viga.
+9. O resultado é a carga em quilogramas por metro linear da viga.
+10. Estime a altura: aproximadamente o vão dividido por 16.
+11. Arredonde a altura para cima e escolha a viga mais alta disponível.
+12. Verifique a flecha: limite aproximado é o vão por 360 no piso.
+13. Para cobertura, use o limite aproximado do vão por 240.
+14. Confira se a viga escolhida respeita o limite de flecha.
+15. Apoie a viga sobre base firme, nivelada e sem solo mole.
+16. Fixe os apoios para a viga não sair do lugar sob carga.
+17. Descarregue a viga antes de fazer qualquer reforço.
+
+ATENCAO
+-------
+Isto é uma estimativa grosseira, não é projeto de engenheiro.
+A regra do vão dividido por 16 serve só como ponto de partida.
+Ela não substitui tabela de vão nem cálculo da resistência da madeira.
+Carga pontual não está incluída e pode causar erro grande.
+Vento, impacto, terremoto, umidade e apodrecimento não entram na conta.
+Viga subdimensionada pode ceder sem aviso e matar quem estiver abaixo.
+Estalo, fenda nova ou flecha que cresce exigem sair de baixo na hora.
+Descarregue a estrutura antes de reforçar ou corrigir qualquer apoio.
+Nunca confie numa estimativa quando houver pessoas embaixo da viga.
+
+SE NAO TIVER
+------------
+Sem tabela de vão, use a regra aproximada e escolha a maior altura.
+Maior altura aumenta a margem, mas não elimina o risco de colapso.
+Sem trena, meça com corda e meça a corda depois com régua conhecida.
+Sem calculadora, arredonde todas as cargas para cima.
+Sem peso conhecido, exagere: conte cada pessoa com aproximadamente 70 kg.
+Para cargas e esforços com mais detalhe, veja 30-007.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A viga não balança quando se aplica peso no meio do vão.
+A flecha medida é menor que o limite calculado no passo 12.
+Não há fenda nova, estalo ou deslocamento nos apoios.
+Os apoios continuam nivelados e firmes depois da carga.
+
+FONTES
+------
+Universidade de Massachusetts Amherst: artigos de Paul Fisette sobre
+cálculo de cargas e dimensionamento de vigas (2005 e 2003; o site alerta
+que algumas informações podem estar desatualizadas). American Wood Council:
+Wood Structural Design Data, tabelas genéricas de carga para vigas e
+colunas de madeira. City Tech / City University of New York, ARCH1231,
+Material Spans and Rules of Thumb: regras de polegar são aproximadas.
+Manual militar FM 21-76: uso de vigas em abrigos. Prática consolidada
+de construção com madeira. Resumo operacional; não substitui engenheiro.

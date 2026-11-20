@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 02-102
+TITULO: Como construir um forno solar
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 2 horas
+RISCO: medio
+EXIGE: caixa de papelão, alumínio, papel preto, tampa clara, sol, cola
+REVISAO: 2026-11
+PALAVRAS-CHAVE: forno solar, cozinhar, sol, alumínio, caixa, energia solar
+==============================================================================
+
+OBJETIVO
+--------
+Montar um forno que usa o sol para cozinhar sem fogo nem combustível.
+
+QUANDO USAR
+-----------
+Quando houver sol forte e faltar gás, lenha ou eletricidade.
+Quando o prato puder ficar tampado e não precisar de mexer.
+
+NAO USE QUANDO
+--------------
+Não use em dia nublado, chuvoso ou de sol fraco: não esquenta.
+Não use sem tampa transparente: o calor escapa e a comida fica crua.
+
+MATERIAIS
+---------
+- Caixa de papelão com tampa (caixa de pizza ou de sapato).
+- Papel alumínio para forrar paredes e aba da tampa.
+- Papel preto para o fundo (papelão pintado de preto).
+- Folha de vidro ou plástico transparente (saco de forno).
+- Jornal amassado, panela escura com tampa, fita, cola e tesoura.
+
+PROCEDIMENTO
+------------
+1. Forre fundo e paredes da caixa com papel alumínio bem liso.
+2. Cubra o fundo com papel preto colado sobre o alumínio.
+3. Coloque jornal amassado entre duas caixas, uma dentro da outra.
+4. Desenhe um quadrado menor que a caixa na face da tampa.
+5. Recorte três lados e deixe um como dobradiça.
+6. Forre a face interna da aba com alumínio liso.
+7. Corte o plástico transparente um pouco maior que o quadrado.
+8. Fixe o plástico por dentro da tampa, sem frestas.
+9. Coloque a panela escura com comida no centro do fundo preto.
+10. Tampe a panela, feche a caixa e vire a aba para o sol.
+11. Apoie a aba com o palito inclinada para dentro e gire a cada duas horas.
+12. Abra com cuidado e teste a comida com um garfo.
+
+ATENCAO
+-------
+Panelas e vidro ficam muito quentes: use pano grosso nas mãos.
+Não olhe direto para o reflexo: luz refletida pode ferir os olhos.
+Comida precisa passar de aproximadamente 60 graus para matar bactérias.
+Comida morna por muito tempo pode intoxicar: descarte se houver dúvida.
+
+SE NAO TIVER
+------------
+Sem segunda caixa, encha de jornal o espaço ao redor da caixa.
+Sem vidro, use saco de forno de plástico preso com fita.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O interior esquenta e a panela fica quente em aproximadamente 30 minutos.
+A comida fica macia ao garfo e o plástico embaça por dentro.
+
+FONTES
+------
+CGIAR, guia "Construction of solar cookers and driers": caixa com fundo
+preto, alumínio e vidro, 120 a 150 graus; comida acima de 60 graus.
+Florida Solar Energy Center e extensão 4-H da Universidade de Connecticut.

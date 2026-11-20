@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 60-009
+TITULO: Como planejar saneamento para pequenos assentamentos
+CATEGORIA: 60 - Arquitetura, urbanismo e assentamentos
+TEMPO: 120 minutos
+RISCO: alto
+EXIGE: caderno, caneta, fita metrica ou corda com nos, mapa simples
+REVISAO: 2026-11
+PALAVRAS-CHAVE: saneamento, assentamento, latrina, privada, agua, esgoto
+==============================================================================
+
+OBJETIVO
+--------
+Definir onde e como o assentamento vai coletar e descartar fezes,
+urina, agua usada e lixo sem contaminar a agua de beber.
+
+QUANDO USAR
+-----------
+Quando um grupo vai ocupar um terreno por semanas ou mais.
+Quando nao existe sistema de esgoto nem agua tratada no local.
+Depois de enchente, incendio ou deslocamento que danificou o
+saneamento.
+Quando o numero de moradores vai crescer e o sistema nao atende.
+Antes de distribuir lotes ou marcar onde cada familia vai morar.
+
+NAO USE QUANDO
+--------------
+Nao use como substituto de projeto aprovado por orgao publico
+quando houver exigencia legal de licenciamento. Nao planeje so
+no papel se a terra for rochosa, alagadiça ou muito inclinada:
+isso exige avaliacao de profissional qualificado.
+
+MATERIAIS
+---------
+- Caderno e caneta para registrar decisoes e contas.
+- Fita metrica, trena ou corda com nos a cada metro.
+- Mapa simples do terreno, mesmo que desenhado a mao.
+- Estacas e barbante para marcar distancias no chao.
+- Dados basicos: numero de moradores e pontos de agua.
+
+PROCEDIMENTO
+------------
+1. Conte as pessoas e anote quantas dormem no assentamento.
+2. Desenhe o terreno, as casas, os rios e os poços de beber.
+3. Marque para onde escorre a agua da chuva e o vento principal.
+4. Escolha a area das privadas a pelo menos 30 metros de pocos,
+   nascentes e cursos dagua usados para beber.
+5. Aumente a distancia em solo de pedra fendida ou cascalho.
+6. Coloque as privadas abaixo das moradias e das fontes de agua.
+7. Mantenha cada privada entre 6 e 50 metros das casas que atende.
+8. Afasta as privadas a pelo menos 50 metros de cozinhas e comida.
+9. Reserve uma privada para cada 20 pessoas, no minimo.
+10. Deixe espaco para abrir novas fossas quando as atuais encherem.
+11. Cave um buraco de prova: o fundo da fossa fica a pelo menos
+    1,5 metro acima do nivel mais alto da agua no solo.
+12. Se o solo alagar ou a agua subir rapido, use privada elevada.
+13. Anote onde ficarao os pontos de lavar as maos com agua e sabao.
+14. Defina quem limpa, quem esvazia e com que frequencia.
+15. Escreva o destino do conteudo das fossas quando encherem.
+16. Mostre o mapa aos moradores e ajuste antes de abrir a fossa.
+
+ATENCAO
+-------
+Fezes perto da agua de beber espalham colera e diarreia. Uma
+privada mal localizada contamina um poço que parece limpo. A
+distancia de 30 metros nao basta em pedra fendida, onde a agua
+corre rapido. Nunca jogue o esvaziamento das fossas em rio, vala
+ou terra usada para plantar. Se houver risco de alagamento, nao
+abra fossa: a agua entra e espalha o conteudo. Privada longe nao
+e usada; perto demais causa cheiro e incomoda a casa. Mulheres,
+criancas, idosos e pessoas com deficiencia precisam de acesso
+seguro e privacidade. Se a comunidade nao chegar a acordo, pare
+e procure ajuda tecnica.
+
+SE NAO TIVER
+------------
+Sem fita metrica, use corda com nos de metro em metro. Sem mapa
+impresso, desenhe o terreno a mao no caderno. Sem profissional
+para medir o nivel da agua, cave um buraco de prova e observe:
+se a agua subir rapido, prefira privada elevada. Nao substitua
+a distancia minima por olho medido perto da agua de beber.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O mapa final mostra as privadas a pelo menos 30 metros da agua,
+entre 6 e 50 metros das casas, uma para cada 20 pessoas, com
+espaco para novas fossas e ponto de lavar as maos ao lado. Ha
+um nome escrito para a limpeza e um destino para o esvaziamento.
+
+FONTES
+------
+Orientacoes da OMS sobre saneamento em emergencias e nota tecnica
+14 da OMS sobre disposicao de excreta. Padroes de qualidade de
+saneamento em emergencias do IFRC e manual da UNHCR sobre
+excreta em emergencias. Diretrizes do Ministerio da Saude e da
+Funasa para saneamento em areas rurais e assentamentos.

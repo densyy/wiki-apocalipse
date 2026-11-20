@@ -1,0 +1,72 @@
+==============================================================================
+CODIGO: 51-027
+TITULO: Como utilizar tabelas matemáticas
+CATEGORIA: 51 - Matemática aplicada à sobrevivência
+TEMPO: 25 minutos
+RISCO: baixo
+EXIGE: tabelas impressas de logaritmos e senos, papel, lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: tabela, logaritmo, seno, raiz, interpolação, conta
+==============================================================================
+
+OBJETIVO
+--------
+Obter valores de funções e raízes sem calculadora, usando tabelas impressas.
+
+QUANDO USAR
+-----------
+Ao calcular sem energia, sem calculadora e sem celular carregado.
+Ao conferir uma conta feita de memória ou apenas estimada.
+Ao medir alturas e distâncias com triângulos e ângulos.
+Ao multiplicar números muito grandes ou tirar raiz quadrada.
+
+NAO USE QUANDO
+--------------
+Quando houver calculadora confiável e o valor exato for exigido.
+Para dose de remédio, radiação ou química sem conferir por outra via.
+
+MATERIAIS
+---------
+- Tabela de logaritmos base 10 (ou de logaritmos naturais).
+- Tabela de senos, cossenos e tangentes em graus.
+- Tabela de raízes quadradas e cúbicas (opcional, ajuda).
+- Papel e lápis para anotar linhas, colunas e resultados.
+
+PROCEDIMENTO
+------------
+1. Identifique a função necessária: logaritmo, seno ou raiz.
+2. Localize na tabela a linha da parte inteira ou do ângulo inteiro.
+3. Localize a coluna do próximo dígito ou do minuto desejado.
+4. Leia o valor na interseção da linha com a coluna, sem arredondar.
+5. Para valor entre duas entradas, interpole: some a fração da diferença.
+6. Em logaritmos, separe a característica da mantissa antes de somar.
+7. Some logaritmos para multiplicar e subtraia para dividir.
+8. Some os expoentes de 10 à característica para obter a ordem final.
+9. Em senos e raízes, confira a unidade e marque o resultado aproximado.
+
+ATENCAO
+-------
+Valores de tabela são aproximados: nunca os use para dose ou radiação.
+Erro de uma casa na característica muda o resultado dez vezes.
+Confundir graus com radianos gera valores completamente errados.
+Interpolar mal entre duas linhas é a causa mais comum de erro.
+Se o resultado destoar da estimativa, pare e refaça a leitura da tabela.
+
+SE NAO TIVER
+------------
+Sem tabela de logaritmos, use log 2 = 0,301, log 3 = 0,477 e log 5 =
+0,699 (aproximados) e decomponga o número nesses fatores.
+Sem tabela de senos, use triângulos 3-4-5 e 1-1-raiz de 2 como referência.
+Sem tabela de raízes, teste um valor, eleve ao quadrado e ajuste.
+Nunca substitua a conferência por "parece certo": marque como aproximado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A característica corresponde à ordem de grandeza estimada antes da conta.
+A conta inversa devolve o número inicial com pequena folga.
+A linha e a coluna lidas conferem com a interpolação anotada.
+
+FONTES
+------
+Prática consolidada de cálculo manual com tabelas matemáticas impressas.
+Tabelas de logaritmos e de senos são referências comuns de engenharia.

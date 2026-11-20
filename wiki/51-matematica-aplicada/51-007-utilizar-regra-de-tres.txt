@@ -1,0 +1,71 @@
+==============================================================================
+CODIGO: 51-007
+TITULO: Como utilizar regra de três
+CATEGORIA: 51 - Matemática aplicada à sobrevivência
+TEMPO: 10 minutos
+RISCO: baixo
+EXIGE: papel, lápis, noções de multiplicação e divisão
+REVISAO: 2026-11
+PALAVRAS-CHAVE: regra de três, proporção, razão, calcular, dose, conversão
+==============================================================================
+
+OBJETIVO
+--------
+Calcular um valor desconhecido quando se conhecem outras duas
+grandezas proporcionais a ele.
+
+QUANDO USAR
+-----------
+Quando falta converter unidades e não há tabela por perto.
+Quando se sabe o preço de uma quantidade e se quer o de outra.
+Quando se ajusta receita, ração ou material para mais pessoas.
+
+NAO USE QUANDO
+--------------
+Quando as grandezas não forem proporcionais entre si.
+Quando houver valor fixo somado, como taxa ou sobra constante.
+Para dose de remédio sem protocolo, use só como conferência.
+
+MATERIAIS
+---------
+- Papel para anotar (ou superfície onde se escreva).
+- Lápis (ou carvão, giz, ou um graveto na terra).
+- Os três valores conhecidos do problema.
+
+PROCEDIMENTO
+------------
+1. Leia o problema e identifique as duas grandezas que variam.
+2. Desenhe uma tabela com duas colunas e duas linhas.
+3. Escreva o par conhecido na primeira linha: a e b.
+4. Escreva, na linha de baixo, o valor c da coluna de a.
+5. Escreva x na célula vazia.
+6. Decida: se as duas crescem juntas, a regra é direta.
+7. Se uma cresce e a outra diminui, a regra é inversa.
+8. Direta: multiplique b por c e divida por a para achar x.
+9. Inversa: multiplique a por b e divida por c para achar x.
+10. Escreva o resultado com a unidade de x e confira.
+
+ATENCAO
+-------
+A regra de três só vale se as grandezas forem realmente proporcionais.
+Se houver valor fixo somado, como taxa ou sobra, a conta falha.
+Não use o resultado como dose de remédio sem protocolo de saúde.
+Confira as unidades: misturar litros com ml erra a conta.
+Se o resultado fugir do esperado, refaça a tabela antes de usar.
+
+SE NAO TIVER
+------------
+Sem papel, anote na terra ou na palma da mão.
+Sem lápis, use carvão, giz ou um graveto.
+Se não souber multiplicar, some o valor repetidas vezes.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ao dividir as duas razões da tabela, os quocientes são iguais.
+O número encontrado faz sentido e usa a unidade da grandeza perguntada.
+
+FONTES
+------
+Prática consolidada de aritmética básica ensinada em cursos de
+matemática elementar. Este texto é um resumo operacional e não
+substitui instrução formal. Nenhuma fonte externa específica foi consultada.

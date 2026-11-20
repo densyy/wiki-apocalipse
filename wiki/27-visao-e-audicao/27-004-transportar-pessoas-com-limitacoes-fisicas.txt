@@ -1,0 +1,88 @@
+==============================================================================
+CODIGO: 27-004
+TITULO: Como transportar pessoas com limitações físicas
+CATEGORIA: 27 - Visão, audição e necessidades especiais
+TEMPO: 15 minutos
+RISCO: alto
+EXIGE: dois ajudantes, cadeira de rodas ou maca, cobertor, cinto largo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: transporte, mobilidade, cadeira, carregar, maca, ajudante
+==============================================================================
+
+OBJETIVO
+--------
+Deslocar com segurança uma pessoa que não consegue andar sozinha.
+
+QUANDO USAR
+-----------
+Quando a pessoa usa cadeira de rodas e o caminho tem obstáculo.
+Quando ela não consegue se levantar ou dar passos sem ajuda.
+Quando é preciso tirar a pessoa de um local com risco.
+Quando o trajeto é curto e não existe maca disponível.
+Quando a pessoa precisa ir para outro cômodo ou para um veículo.
+
+NAO USE QUANDO
+--------------
+Com suspeita de fratura na coluna, pescoço ou quadril, não carregue.
+Imobilize a pessoa e chame resgate: SAMU 192 ou bombeiros 193.
+Só desloque se houver risco de vida imediato, em linha reta.
+
+MATERIAIS
+---------
+- Cadeira de rodas da pessoa (cadeira emprestada, se a dela falhar).
+- Maca ou prancha rígida (cobertor firme em duas madeiras, se faltar).
+- Cobertor ou manta para aquecer e firmar a pessoa.
+- Cinto ou faixa larga para prender a pessoa na maca.
+- Luvas ou pano grosso para proteger as mãos de quem carrega.
+- Dois ajudantes com força para dividir o peso.
+- Calçado firme e fechado para quem carrega.
+
+PROCEDIMENTO
+------------
+1. Pergunte à pessoa o que sente e o que consegue fazer sozinha.
+2. Observe ferimentos, dor ao toque ou suspeita de fratura.
+3. Com suspeita de fratura na coluna, pare e chame resgate.
+4. Escolha o meio: cadeira, maca ou carrego, conforme o trajeto.
+5. Tranque os freios da cadeira antes de assentar a pessoa.
+6. Posicione dois ajudantes, um de cada lado da pessoa.
+7. Apoie o tronco e as pernas ao retirar a pessoa da cadeira.
+8. Deite a pessoa na maca e prenda com cinto ou faixa larga.
+9. Cubra a pessoa com cobertor e deixe o rosto descoberto.
+10. Para trajeto curto, use o carrego com dois ajudantes.
+11. Um ajudante segura o tronco e o outro segura as pernas.
+12. Levante com as pernas dos ajudantes, sem curvar a coluna.
+13. Caminhe devagar, com passos curtos, avisando antes de virar.
+14. Para subir um degrau, um ajudante lidera e o outro segura os pés.
+15. Ao depositar a pessoa, confira se ela ficou estável e coberta.
+
+ATENCAO
+-------
+- Não segure só pelos braços: pode deslocar o membro.
+- Com suspeita de fratura na coluna, não dobre nem gire a pessoa.
+- Se for inevitável movê-la, arraste em linha reta, sem rolar.
+- Não use elevador em incêndio: a energia pode falhar e prender todos.
+- O ajudante pode se machucar: dobre os joelhos e mantenha as costas retas.
+- Pare se a pessoa tiver dor aguda ou formigamento novo.
+- Não carregue sozinho por distância longa: chame outro ajudante.
+
+SE NAO TIVER
+------------
+- Sem maca, use prancha rígida ou cobertor preso a duas madeiras.
+- Sem cadeira, peça uma cadeira de transporte emprestada.
+- Sem ajudante, não faça carrego longo: chame outra pessoa.
+- Sem cinto, prenda com faixa de pano larga ou corda grossa.
+- Para organizar a rota de saída, veja 27-003.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- A pessoa ficou firme na maca ou bem apoiada, sem escorregar.
+- Nenhum ajudante sentiu dor nas costas ao levantar.
+- A pessoa chegou ao destino consciente, sem dor nova.
+- O rosto ficou livre e a respiração continuou normal.
+
+FONTES
+------
+Manual de primeiros socorros do Corpo de Bombeiros: manipulação e
+transporte do ferido. Prática consolidada de carrego com dois
+carregadores. Referências de preparação para emergências de pessoas
+com deficiência da CDC e da NFPA constam em 27-003.

@@ -1,0 +1,80 @@
+==============================================================================
+CODIGO: 51-005
+TITULO: Como trabalhar com frações
+CATEGORIA: 51 - Matemática aplicada à sobrevivência
+TEMPO: 25 minutos
+RISCO: baixo
+EXIGE: papel, lápis, algo que possa ser dividido em partes iguais
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fração, numerador, denominador, dividir, parte, proporção
+==============================================================================
+
+OBJETIVO
+--------
+Dividir alimentos, medir proporções e comparar partes de um todo.
+
+QUANDO USAR
+-----------
+- Ao repartir ração igual entre várias pessoas.
+- Ao seguir mistura dada em partes, como 1 de cal para 4 de água.
+- Ao reduzir ou aumentar receita sem errar as proporções.
+- Ao comparar duas quantidades com denominadores diferentes.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para este procedimento.
+Não use frações para calcular dose de remédio: siga a receita.
+
+MATERIAIS
+---------
+- Papel e lápis para anotar (ou areia lisa e um graveto).
+- Objeto divisível em partes iguais (pão, corda, folha de papel).
+
+PROCEDIMENTO
+------------
+1. Escreva a fração com um número sobre o outro, separados por barra.
+2. O número de baixo é o denominador: em quantas partes se divide o todo.
+3. O número de cima é o numerador: quantas partes você tem ou precisa.
+4. Simplifique: divida os dois números pelo mesmo valor, nunca só um.
+5. Para achar fração de uma quantidade, divida pelo denominador.
+6. Multiplique o resultado pelo numerador para obter a parte.
+7. Exemplo: 2/3 de 12 biscoitos. 12 por 3 = 4. 4 por 2 = 8.
+8. Para comparar frações com denominador igual, compare os numeradores.
+9. Com denominadores diferentes, multiplique em cruz e compare os produtos.
+10. Para somar ou subtrair, iguais os denominadores e some os numeradores.
+11. Mantenha o denominador ao somar ou subtrair frações.
+12. Para converter em porcentagem, divida numerador pelo denominador.
+13. Multiplique por 100 e escreva o sinal de por cento no resultado.
+
+ATENCAO
+-------
+Uma fração só faz sentido se as partes forem iguais; partes desiguais
+invalidam o cálculo e enganam quem come ou usa a medida.
+Nunca some ou subtraia frações com denominadores diferentes sem antes
+igualá-los; o resultado errado parece correto e é difícil de notar.
+Ao simplificar, divida sempre os dois números pelo mesmo valor.
+Em ração e remédio, erro de fração causa falta de alimento ou dose errada:
+confira duas vezes antes de distribuir ou aplicar.
+Não use fração para definir dose medicamentosa; isso exige receita.
+Se o resultado não fizer sentido, pare e refaça do início no papel.
+
+SE NAO TIVER
+------------
+Sem papel, use areia lisa e um graveto para escrever e apagar.
+Sem lápis, use carvão, giz ou qualquer ponta que deixe marca.
+Para dividir sem régua, dobre papel ou corda em partes iguais.
+Com denominadores diferentes, use a multiplicação em cruz mesmo sem
+calculadora: é só multiplicar e comparar dois produtos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A soma das partes obtidas reconstrói o todo sem sobra ou falta.
+A fração simplificada não pode ser dividida de novo pelo mesmo valor.
+Nas frações equivalentes, os produtos da multiplicação em cruz são iguais.
+
+FONTES
+------
+Prática consolidada de aritmética básica, ensinada em cursos de
+matemática elementar. Sem documento único: regras universais de
+operações com frações. Este texto é um resumo operacional, não
+substitui treinamento.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 37-013
+TITULO: Como realizar triangulação topográfica
+CATEGORIA: 37 - Cartografia, topografia e levantamento
+TEMPO: 40 minutos
+RISCO: baixo
+EXIGE: mapa da região, bússola, lápis, dois pontos visíveis no mapa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: triangulação, topografia, mapa, bússola, localizar, rumo
+==============================================================================
+
+OBJETIVO
+---------
+Marcar no mapa um ponto distante com rumos de dois pontos conhecidos.
+
+QUANDO USAR
+-----------
+Quando o alvo está visível, mas não aparece no mapa.
+Quando não é seguro chegar perto do ponto observado.
+Quando se quer conferir a própria posição com referências do terreno.
+
+NAO USE QUANDO
+--------------
+Quando o alvo não pode ser visto dos dois pontos escolhidos.
+Quando o mapa não tem norte indicado ou faltam pontos reconhecíveis.
+
+MATERIAIS
+---------
+- Mapa da região com o norte indicado.
+- Bússola (ou transferidor e régua para desenhar os ângulos no papel).
+- Lápis e papel.
+- Dois pontos no mapa que também estejam visíveis no terreno.
+
+PROCEDIMENTO
+------------
+1. Escolha no mapa dois pontos visíveis, como um morro e uma torre.
+2. Vá ao primeiro ponto e fique parado.
+3. Aponte a bússola para o alvo e leia o grau.
+4. Anote o rumo (ângulo medido a partir do norte).
+5. Desenhe no mapa uma linha do primeiro ponto com esse rumo.
+6. Vá ao segundo ponto e fique parado.
+7. Aponte a bússola ao mesmo alvo, leia e anote o grau.
+8. Desenhe a segunda linha e marque o cruzamento: é o alvo.
+
+ATENCAO
+-------
+Precisão máxima perto de 90 graus; ângulo pequeno aumenta o erro.
+Mantenha a bússola longe de metal: desvia a agulha.
+Se o mapa usar norte verdadeiro, corrija a declinação magnética.
+Pontos e alvo na mesma circunferência invalidam o cruzamento.
+Pare e refaça se o alvo se moveu ou a visão ficou duvidosa.
+
+SE NAO TIVER
+------------
+Sem bússola, use transferidor e régua no papel.
+Sem norte de referência, não invente rumos.
+Sem mapa, desenhe os pontos antes de traçar as linhas.
+Sem duas medições confiáveis, não marque o alvo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As duas linhas traçadas cruzam-se em um único ponto nítido.
+O cruzamento coincide com o que se vê no terreno e com acidentes do mapa.
+Medido de um terceiro ponto, o novo rumo passa pela mesma marca.
+
+FONTES
+------
+Prática consolidada de triangulação e ressecção em topografia
+e navegação terrestre, com mapa e bússola. Apoio: manuais de
+levantamento topográfico e geodesia. Resumo operacional.

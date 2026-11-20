@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 08-019
+TITULO: Como remover ferrugem de ferramentas
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: vinagre, recipiente, escova de aço, óculos, luvas, pano e óleo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ferrugem, vinagre, ácido cítrico, escova, enferrujado
+==============================================================================
+
+OBJETIVO
+--------
+Remover ferrugem superficial de ferramentas de aço e evitar que ela volte.
+
+QUANDO USAR
+-----------
+Quando a ferramenta tem manchas de ferrugem, mas o metal ainda é sólido.
+Quando a peça ficou molhada ou foi guardada úmida.
+
+NAO USE QUANDO
+--------------
+Quando o metal está furado ou a ponta se desfaz: não há como recuperar.
+Quando a peça tem cabo de madeira, couro, plástico ou cola: não a mergulhe.
+Quando o metal pode ter contato com combustível, agrotóxico ou veneno.
+
+MATERIAIS
+---------
+- Vinagre branco (substituto: ácido cítrico em água morna).
+- Recipiente de plástico ou vidro com tampa; nunca use metal.
+- Escova de aço, lixa, óculos de proteção, luvas, pano, água e óleo.
+
+PROCEDIMENTO
+------------
+1. Confira o metal: se furar ou a ponta se desfazer, pare e descarte a peça.
+2. Desmonte o cabo de madeira, couro ou plástico, se a peça permitir.
+3. Calce óculos de proteção e luvas.
+4. Escove a ferramenta seca para tirar terra e ferrugem solta.
+5. Coloque a peça no recipiente e cubra com vinagre branco.
+6. Deixe submergida por aproximadamente 12 a 24 horas.
+7. Escove a peça ainda úmida até a ferrugem mole sair.
+8. Esfregue os cantos com lixa fina, no sentido do corte.
+9. Se ainda houver ferrugem, repita a imersão por aproximadamente 12 horas.
+10. Enxágue com água limpa para retirar todo o ácido.
+11. Seque com pano limpo e deixe secar ao ar, longe de umidade.
+12. Passe óleo ou graxa em camada fina em todo o metal.
+13. Guarde a ferramenta em lugar seco.
+
+ATENCAO
+-------
+O ácido irrita olhos e pele: se respingar, lave com água corrente.
+Nunca misture vinagre ou ácido cítrico com água sanitária: libera gás cloro.
+Escovar projeta partículas: use óculos e mantenha outras pessoas afastadas.
+O ácido não devolve metal perdido: lâmina comida continua fraca.
+
+SE NAO TIVER
+------------
+Sem vinagre, use ácido cítrico em água morna ou limão com sal.
+Sem óleo nem graxa, seque muito bem e guarde em lugar bem seco.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A superfície fica sem manchas vermelhas, fosca e uniforme.
+Depois de seca e oleada, a peça não deixa ferrugem no pano limpo.
+
+FONTES
+------
+Prática consolidada de oficina: imersão em ácido fraco e escovação.
+ATSDR/CDC, Declaração de Saúde Pública sobre Cloro.
+National Park Service, Conserve O Grams sobre conservação de metais.

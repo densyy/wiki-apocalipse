@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 44-009
+TITULO: Como medir velocidade de correnteza
+CATEGORIA: 44 - Hidrologia, rios e gestão de bacias
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: fita métrica, flutuador, cronômetro, duas estacas, caderno
+REVISAO: 2026-11
+PALAVRAS-CHAVE: correnteza, velocidade, vazão, flutuador, rio, córrego
+==============================================================================
+
+OBJETIVO
+--------
+Obter a velocidade média da água de um rio ou córrego em metros por segundo.
+
+QUANDO USAR
+-----------
+Quando precisar estimar a força da água antes de captar em um córrego.
+Quando quiser comparar a correnteza antes e depois de uma chuva.
+
+NAO USE QUANDO
+--------------
+Não meça durante cheia, chuva forte ou água turva e revolta.
+Não entre em água escura, profunda ou de correnteza forte.
+
+MATERIAIS
+---------
+- Fita métrica (ou barbante com nós a cada 1 metro).
+- Flutuador: casca de laranja, pedaço de madeira ou rolha.
+- Cronômetro (ou relógio com ponteiro de segundos).
+- Estacas, pedras, caderno e lápis para marcar e anotar.
+
+PROCEDIMENTO
+------------
+1. Escolha um trecho reto de 5 a 10 metros, sem redemoinhos.
+2. Marque duas linhas com estacas ou pedras nas margens.
+3. Meça a distância entre as marcas e anote em metros.
+4. Confira se a largura é parecida nas duas pontas do trecho.
+5. Solte o flutuador 2 m acima da primeira marca, no meio do rio.
+6. Acione o cronômetro quando ele passar na primeira marca.
+7. Pare e anote o tempo quando ele passar na segunda marca.
+8. Repita a medição mais duas vezes.
+9. Some os três tempos e divida por três para obter a média.
+10. Divida a distância pelo tempo médio.
+11. O resultado é a velocidade de superfície, em m/s.
+12. Multiplique por aproximadamente 0,8 para achar a velocidade média.
+
+ATENCAO
+-------
+O flutuador mede só a superfície, mais rápida que o fundo.
+O fator 0,8 é aproximado: em rio raso pode ficar entre 0,8 e 0,9.
+Não pise em pedra escorregadia nem avance com água acima dos joelhos.
+Correnteza forte arrasta a pessoa: use calçado firme e nunca vá sozinho.
+Pare e saia da água se o nível subir ou se ela ficar turva.
+
+SE NAO TIVER
+------------
+Sem cronômetro, conte em voz alta e anote o total de contagens.
+Sem fita, use barbante com nós; sem flutuador, casca de fruta.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os três tempos ficaram próximos, com pequena diferença entre eles.
+Distância e tempo anotados e velocidade média em m/s calculada.
+
+FONTES
+------
+Prática consolidada de medição de correnteza por flutuador (USGS, ANA).
+Coeficiente 0,8 aproximado; resumo operacional, não substitui treinamento.

@@ -1,0 +1,93 @@
+==============================================================================
+CODIGO: 72-005
+TITULO: Como distribuir iluminação em casa sem rede elétrica
+CATEGORIA: 72 - Sistemas de iluminação e óptica aplicada
+TEMPO: 20 minutos
+RISCO: alto
+EXIGE: fontes de luz, base estavel, area ventilada, longe de cortinas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: luz, iluminacao, lanterna, vela, escuridao, sem energia
+==============================================================================
+
+OBJETIVO
+--------
+Distribuir luz em casa sem rede elétrica sem provocar incêndio nem
+intoxicação.
+
+QUANDO USAR
+-----------
+Quando a energia falha e a casa fica escura.
+Quando é preciso circular à noite sem tropeçar.
+Quando uma atividade precisa de luz em um cômodo específico.
+Quando uma única fonte não ilumina o cômodo inteiro.
+
+NAO USE QUANDO
+--------------
+Quando houver cheiro de gás, fumaça ou risco de explosão. Nesse caso,
+saia e não acenda nada. Não improvise iluminação com fogo em local com
+vazamento de combustível.
+
+MATERIAIS
+---------
+- Lanterna de pilha, aplicativo de luz ou lâmpada solar (vela ou lampião
+  só como último recurso).
+- Prato, bandeja ou lata grande de metal para apoiar a fonte.
+- Base firme e nivelada, de metal, cerâmica ou pedra.
+- Pano branco ou parede clara para refletir a luz.
+- Água ou areia para apagar o fogo.
+
+PROCEDIMENTO
+------------
+1. Escolha fontes que não tenham chama: lanterna de pilha, luz solar ou
+   bastão químico. Use fogo só se não houver alternativa.
+2. Defina um cômodo compartilhado como área central de luz.
+3. Coloque a fonte sobre base firme, nivelada e não inflamável.
+4. Apoie velas e lampiões dentro de prato ou lata de metal.
+5. Mantenha a chama longe de cortinas, roupas, papel, madeira e cama.
+6. Deixe aproximadamente 1 metro livre ao redor de qualquer chama.
+7. Posicione a luz baixa, perto do chão, sem bloquear a passagem.
+8. Aponte a luz para parede ou pano branco para espalhar com menos fogo.
+9. Não deixe a luz sobre tapete, esteira ou superfície que balance.
+10. Ventile o cômodo se houver qualquer fonte a fogo ou a combustível.
+11. Apague toda chama antes de dormir ou de sair do cômodo.
+12. Nunca use fogão a gás, churrasqueira ou gerador dentro de casa para
+    iluminar. Gerador só do lado de fora, a aproximadamente 6 metros de
+    portas e janelas.
+
+ATENCAO
+-------
+Fogo em casa mata por queimadura e por incêndio. Uma vela tombada pode
+incendiar cortina ou cama em segundos.
+Queimar combustível em ambiente fechado gera monóxido de carbono, gás
+incolor e sem cheiro que pode matar durante o sono.
+Sintomas de intoxicação são dor de cabeça, tontura, fraqueza, náusea e
+confusão. Ao notar isso, apague tudo, saia e busque ajuda.
+Nunca durma com chama acesa no quarto.
+Crianças e animais derrubam fontes de luz: prefira lanterna de pilha.
+Se houver cheiro de gás ou combustível, não acenda nem apague nada que
+faça faísca; saia e chame ajuda.
+
+SE NAO TIVER
+------------
+Sem lanterna de pilha, use lâmpada solar ou bastão químico.
+Sem base de metal, use prato de cerâmica ou pedra plana; nunca papelão.
+Sem prato, enterre a vela em areia dentro de uma lata.
+Se a única opção for fogo, reduza a uma vela central, vigie sem parar
+e mantenha a chama baixa e cercada de material não inflamável.
+Não improvise combustível com álcool, gasolina ou querosene em recipiente
+aberto dentro de casa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O cômodo fica com luz suficiente para circular sem tropeçar.
+Nenhuma fonte está tombada, inclinada ou encostada em tecido.
+Não há cheiro de queima nem fumaça, e a chama (se houver) está firme.
+Todas as pessoas conseguem ver o chão e as saídas.
+
+FONTES
+------
+Orientações do CDC sobre monóxido de carbono e da FEMA sobre segurança
+em cortes de energia (EUA). Recomendação da NFPA sobre segurança com
+velas. Prática consolidada de iluminação de emergência sem documento
+único: posicionar a luz baixa, estável, longe de inflamáveis e com
+ventilação. Este texto é resumo operacional, não substitui treinamento.

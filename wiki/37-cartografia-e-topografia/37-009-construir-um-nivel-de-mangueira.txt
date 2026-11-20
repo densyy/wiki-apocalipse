@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 37-009
+TITULO: Como construir um nível de mangueira
+CATEGORIA: 37 - Cartografia, topografia e levantamento
+TEMPO: 40 minutos
+RISCO: baixo
+EXIGE: mangueira transparente, água, duas hastes com escala, corante
+REVISAO: 2026-11
+PALAVRAS-CHAVE: nível, mangueira, água, vasos comunicantes, altura, medir
+==============================================================================
+
+OBJETIVO
+--------
+Construir um nível de mangueira e comparar a altura de dois pontos.
+
+QUANDO USAR
+-----------
+Quando precisar transferir um nível sem linha de visão entre os pontos.
+Quando for marcar a altura de fundação, piso ou canal.
+Quando não houver nível de bolha nem equipamento topográfico.
+
+NAO USE QUANDO
+--------------
+Quando for preciso medir com erro menor que alguns milímetros.
+
+MATERIAIS
+---------
+- Mangueira transparente e flexível, sem rachaduras ou dobras.
+- Água limpa, de preferência destilada, e corante alimentar.
+- Duas hastes retas com marcas de centímetro (ou réguas).
+- Fita adesiva para prender a mangueira às hastes.
+
+PROCEDIMENTO
+------------
+1. Escolha mangueira transparente, flexível e sem dobras internas.
+2. Corte no comprimento que liga os dois pontos a comparar.
+3. Encaixe cada ponta em uma haste, deixando cerca de 10 cm livres.
+4. Prenda a mangueira com fita, sem apertar nem entupir o tubo.
+5. Mergulhe uma ponta em água com corante alimentar.
+6. Levante a outra ponta e despeje água devagar, com o líquido subindo.
+7. Pare quando cada coluna estiver com cerca da metade da altura visível.
+8. Mantenha as bocas abertas ao ar e coloque a primeira haste no ponto.
+9. Leia a altura da água nas duas hastes, com os olhos no nível da coluna.
+10. Subtraia a menor da maior e repita no sentido inverso.
+
+ATENCAO
+-------
+Bolhas de ar no tubo quebram a coluna e falsificam a leitura.
+Encha com o líquido subindo; se aparecerem bolhas, esvazie e refaça.
+Sujeira ou óleo estreitam o tubo e geram erro nas leituras.
+Vento e pressão diferente entre os pontos desnivelam as colunas.
+Leia com os olhos no nível da água para evitar erro de paralaxe.
+O método só compara alturas; não substitui topografia de precisão.
+
+SE NAO TIVER
+------------
+Sem mangueira transparente, use trechos transparentes nas pontas.
+Sem corante, leia a coluna contra um fundo branco.
+Sem água destilada, coe a mais limpa; nunca use solvente ou combustível.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Com as hastes no mesmo ponto, as colunas param na mesma altura.
+A diferença repetida no sentido inverso é igual, sem bolhas visíveis.
+
+FONTES
+------
+Manual "Communicating Water Level 77", Wyler AG (Suíça): vasos
+comunicantes, enchimento e leitura. Artigo BINP/SLAC, Workshop de
+Alinhamento, KEK, 2008. Prática consolidada; sem norma brasileira.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 40-010
+TITULO: Como construir campainhas mecânicas
+CATEGORIA: 40 - Acústica e engenharia sonora
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: base de madeira, lata metálica, elástico, cordão, pregos, furador
+REVISAO: 2026-11
+PALAVRAS-CHAVE: campainha, sino, gongo, martelo, cordão, elástico, porta
+==============================================================================
+
+OBJETIVO
+--------
+Construir uma campainha sem energia que toque ao puxar um cordão.
+
+QUANDO USAR
+-----------
+Quando não há eletricidade ou pilhas para uma campainha comum.
+Quando se quer avisar quem está dentro de casa sem gritar.
+
+NAO USE QUANDO
+--------------
+Quando se precisa de alarme, segurança ou aviso à prova de falha.
+Quando a porta tem fios elétricos embutidos no ponto do furo.
+
+MATERIAIS
+---------
+- Lata metálica vazia para servir de gongo (tampa de panela ou chapa).
+- Base de madeira firme, cerca de 20 cm, para fixar as peças.
+- Alavanca de madeira ou arame rígido, pregos, parafusos e arruelas.
+- Elástico forte de câmara de bicicleta ou mola de compressão.
+- Cordão resistente e furador ou prego aquecido para abrir o furo.
+
+PROCEDIMENTO
+------------
+1. Prenda a lata na base com um prego central frouxo, para vibrar livre.
+2. Enterre um prego na base como eixo, a aproximadamente 8 cm da lata.
+3. Encaixe a alavanca de madeira no eixo, deixando-a girar sem apertar.
+4. Amarre uma porca pequena na ponta da alavanca, voltada para a lata.
+5. Prenda o elástico entre a base e a alavanca, puxando a porca à lata.
+6. Ajuste o elástico até a porca parar a aproximadamente 1 cm da lata.
+7. Monte a base de modo que puxar o cordão afaste a porca da lata.
+8. Faça um furo na porta até o lado de fora, na altura do peito.
+9. Amarre o cordão na ponta da alavanca onde está a porca.
+10. Passe o cordão pelo furo e puxe; solte para a porca bater na lata.
+
+ATENCAO
+-------
+Latas e arame cortam: lixe as bordas e use pano ou luva ao montar.
+Não estique o elástico demais: se romper, pode ferir o rosto.
+Prenda a lata só pelo centro; se ficar rígida, o som sai fraco.
+Antes de furar, confira se não há fios elétricos dentro da porta.
+A campainha só avisa: não substitui tranca, cadeado ou vigilância.
+
+SE NAO TIVER
+------------
+Sem elástico, use barbante com pedra pendurada como peso de retorno.
+Sem lata, use tampa de panela ou tubo; nunca use vidro, que quebra.
+Sem alavanca de madeira, dobre um arame grosso e amarre a porca.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ao soltar o cordão, ouve-se um toque claro e curto, não um estalo surdo.
+A porca bate uma vez e a alavanca volta sozinha à posição inicial.
+
+FONTES
+------
+- Princípio do martelo no gongo: material didático da PUC-Rio e
+apostila de Máquinas Simples do IFUSP. Prática consolidada,
+sem documento único. Resumo operacional, não substitui treinamento.

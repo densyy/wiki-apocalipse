@@ -1,0 +1,97 @@
+==============================================================================
+CODIGO: 35-013
+TITULO: Como reconstruir uma infraestrutura de água
+CATEGORIA: 35 - Temas especiais que merecem enciclopédias próprias
+TEMPO: 4 horas
+RISCO: alto
+EXIGE: luvas, óculos, água sanitária rotulada, balde, tubos limpos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, encanamento, reservatório, cloro, conserto, saneamento
+==============================================================================
+
+OBJETIVO
+--------
+Restabelecer um sistema local que capta, limpa e distribui água sem
+contaminar quem a bebe.
+
+QUANDO USAR
+-----------
+Quando o abastecimento parou após enchente, deslizamento ou vento.
+Quando uma tubulação rompeu e há água parada ou vazamento visível.
+Quando o reservatório recebeu lama, esgoto ou água de chuva.
+Quando a comunidade precisa de um ponto de água provisório seguro.
+
+NAO USE QUANDO
+--------------
+Quando houver cheiro de combustível, agrotóxico ou solvente na água.
+Quando a fonte recebe esgoto ou efluente industrial sem tratamento.
+Quando a bomba ou a rede elétrica estiver sem isolamento seguro.
+Quando faltarem luvas, água sanitária rotulada ou recipientes limpos.
+Nesses casos, procure ajuda; não improvise a rede.
+
+MATERIAIS
+---------
+- Luvas de borracha e óculos de proteção.
+- Água sanitária com rótulo que informe hipoclorito de sódio.
+- Balde, escova e pano limpos, reservados para esta tarefa.
+- Tubos e conexões limpos, nunca usados com combustível ou agrotóxico.
+- Cinta de vedação, abraçadeira e chave (substituição: arame limpo).
+- Peneira ou pano limpo para coar a água.
+- Recipientes limpos e tampados para guardar a água tratada.
+- Válvula de retenção, se o sistema tiver bomba.
+
+PROCEDIMENTO
+------------
+1. Desligue a bomba e corte a energia antes de tocar nos tubos.
+2. Isole a área com estaca ou fita e afaste crianças e animais.
+3. Percorra o caminho da água da captação até a torneira.
+4. Desenhe o caminho num papel e marque os trechos danificados.
+5. Feche as válvulas dos trechos marcados antes de abrir tubos.
+6. Retire lama e folhas do reservatório com balde e escova.
+7. Lave as paredes internas com água e detergente e enxague.
+8. Enxague de novo até a água sair limpa, sem cheiro de detergente.
+9. Encha o reservatório com água limpa até a metade.
+10. Dilua água sanitária em um balde com água limpa antes de usar.
+11. Use 1/8 colher de chá de produto de 5,25% a 6% por galão.
+12. Um galão tem aproximadamente 3,8 litros; mexa e espere 30 minutos.
+13. Despeje a solução no reservatório e mexa com bastão limpo.
+14. Troque os trechos rompidos por tubo limpo e aperte as conexões.
+15. Envolva vazamento pequeno com cinta e aperte a abraçadeira.
+16. Instale a válvula de retenção na saída, se houver bomba.
+17. Tampe o reservatório e cubra a entrada com peneira ou tela.
+18. Mantenha a drenagem afastada do reservatório e da tampa.
+19. Abra as válvulas devagar e deixe correr até sair água sem lama.
+20. Encha um recipiente limpo na torneira e tampe-o.
+
+ATENCAO
+-------
+Água com contaminação química não melhora com desinfecção; ferver pode
+concentrar o contaminante. Água sanitária sem rótulo legível pode não
+desinfetar. Nunca misture água sanitária com amônia, vinagre ou
+limpa-vidros: libera gás tóxico. Saia ao ar livre se o odor irritar.
+Use luvas e óculos: tubo rompido e lama podem conter vidro e fezes.
+Nunca toque em bomba, fio ou quadro energizado; corte a energia.
+Com cheiro forte de cloro, descarte a água e refaça a desinfecção.
+Com diarreia, vômito ou irritação após beber, pare e busque atendimento.
+
+SE NAO TIVER
+------------
+Sem água sanitária de rótulo legível, não desinfete: busque outra fonte.
+Sem tubo novo, mantenha o trecho danificado fechado.
+Distribua a água em recipientes limpos e tampados.
+Sem válvula de retenção, mantenha o reservatório acima dos pontos de uso.
+Para tratar a água antes de beber, veja 01-001.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água sai sem lama e com leve odor de cloro, não com cheiro forte.
+Não há vazamento: o solo ao redor das conexões permanece seco.
+A tampa está firme e a entrada está coberta por peneira ou tela.
+O reservatório está fechado e o ponto de coleta está limpo.
+
+FONTES
+------
+Orientações da OMS sobre água potável e contaminação por fezes.
+Orientações da FEMA sobre tratamento de água após desastres.
+Prática consolidada de saneamento de emergência, sem documento único.
+Resumo operacional; não substitui treinamento técnico local.

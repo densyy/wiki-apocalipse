@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 40-013
+TITULO: Como transmitir mensagens utilizando sinais acústicos
+CATEGORIA: 40 - Acústica e engenharia sonora
+TEMPO: 20 minutos
+RISCO: baixo
+EXIGE: apito, tambor ou objeto que bata; combinado prévio com o receptor
+REVISAO: 2026-11
+PALAVRAS-CHAVE: sinal, apito, tambor, morse, mensagem, toques, código, som
+==============================================================================
+
+OBJETIVO
+--------
+Enviar uma mensagem combinada usando sons curtos e longos.
+
+QUANDO USAR
+-----------
+Quando não há rádio, celular nem energia para comunicar à distância.
+Quando o grupo combina avisos curtos: perigo, parar, vir buscar.
+Quando escuridão, fumaça ou vento impedem gestos e sinais visuais.
+
+NAO USE QUANDO
+--------------
+Sem código combinado antes, toque não transmite nenhuma palavra.
+Quando o som pode revelar sua posição a quem você quer evitar.
+Quando o receptor não ouve: vento forte, chuva ou máquina ligada.
+
+MATERIAIS
+---------
+- Apito, sino ou tambor (ou pedra batida em madeira ou lata).
+- Código escrito e ensaiado com quem vai receber a mensagem.
+- Ponto de escuta combinado: quem ouve, onde fica e como responde.
+
+PROCEDIMENTO
+------------
+1. Combine com o receptor o sentido de cada sequência de sons.
+2. Defina o som curto como uma unidade e o longo como três.
+3. Espere uma unidade entre sons, três entre letras, sete entre palavras.
+4. Reserve três curtos, três longos, três curtos para pedir socorro (SOS).
+5. Ensaie o código com o receptor antes de precisar dele.
+6. Vá a ponto alto e livre, de frente para quem vai ouvir.
+7. Confirme que o receptor está parado e atento ao som.
+8. Emita a sequência com o apito, o sino ou o tambor, sem pressa.
+9. Repita três vezes, pause e espere a confirmação do receptor.
+
+ATENCAO
+-------
+O som não transmite palavra: só o combinado antes é entendido.
+Sem ensaio, o receptor confunde som curto com som longo.
+O som revela sua posição: evite se alguém pode localizar você.
+Vento, chuva e ruído de máquina desfazem a contagem dos tempos.
+Som forte junto ao ouvido pode causar perda auditiva; afaste a fonte.
+Se não houver confirmação, pare; repetir sem limite gera dúvida.
+
+SE NAO TIVER
+------------
+Sem apito, bata com pedra em madeira ou em lata vazia.
+Sem tambor, use palmas: um toque é curto, três seguidos valem longo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O receptor responde com o som de confirmação combinado.
+A mensagem recebida bate com o que foi enviado no ensaio.
+
+FONTES
+------
+Código Morse internacional: recomendação ITU-R M.1677-1 da UIT.
+Tempos relativos: curto 1, longo 3, pausas de 1, 3 e 7 unidades.
+SOS: três curtos, três longos, três curtos, nesse padrão.
+Prática consolidada de sinalização sonora; resumo operacional.

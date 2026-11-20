@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 46-016
+TITULO: Como formular dietas para pequenos animais de criação
+CATEGORIA: 46 - Medicina veterinária e saúde animal
+TEMPO: 50 minutos
+RISCO: alto
+EXIGE: balança, recipiente de medida, caderno, alimentos identificados
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ração, dieta, volumoso, concentrado, energia, sal, coelhos
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma dieta segura com alimentos locais para animais de criação.
+
+QUANDO USAR
+-----------
+- Quando acabar a ração comercial e restarem alimentos locais.
+- Quando o pasto estiver escasso na seca.
+- Para complementar a alimentação de animais em crescimento.
+- Em gestação ou lactação, quando a exigência aumenta.
+- Para aproveitar restos de colheita sem desperdiçar.
+
+NAO USE QUANDO
+--------------
+- Não formule dieta para animal doente, com apatia ou febre.
+- Não use plantas desconhecidas ou com cheiro de mofo.
+- Não ofereça mandioca brava verde: o ácido cianídrico pode matar.
+- Não substitua orientação veterinária quando houver sinal de doença.
+
+MATERIAIS
+---------
+- Balança ou medida caseira fixa (pote ou punhado).
+- Recipiente limpo para misturar (balde ou saco limpo).
+- Caderno e lápis para anotar a receita.
+- Alimentos locais identificados: grãos, farelos, capim ou feno.
+- Sal mineral (ou sal comum iodado).
+- Água limpa em bebedouro.
+
+PROCEDIMENTO
+------------
+1. Identifique a espécie e a fase do animal.
+2. Anote se está em crescimento, manutenção, gestação ou lactação.
+3. Separe os alimentos disponíveis em três grupos.
+4. Coloque no grupo energético os grãos e a mandioca seca.
+5. Coloque no grupo proteico os farelos e as leguminosas.
+6. Coloque no grupo volumoso o capim, o feno e as folhagens secas.
+7. Descarte alimento mofado, fermentado ou desconhecido.
+8. Para cabras e ovelhas, comece com metade volumoso e metade concentrado.
+9. Mantenha essa proporção por aproximadamente 3 a 5 dias.
+10. Aumente o concentrado aos poucos, por aproximadamente 14 dias.
+11. Para aves e coelhos, use pouca fibra: grãos e farelos moídos.
+12. Dê feno seco de boa qualidade aos coelhos, nunca mofado.
+13. Ofereça sal mineral em cocho separado, à vontade.
+14. Ofereça água limpa em bebedouro limpo, todos os dias.
+15. Misture tudo em recipiente limpo e sirva em cocho limpo.
+16. Anote no caderno a receita e a reação dos animais.
+
+ATENCAO
+-------
+- Excesso de concentrado em ruminantes causa acidose ruminal.
+- Também pode causar timpanismo e inflamação dos cascos.
+- Sem adaptação, o animal reduz o consumo.
+- Pode perder produção e até morrer.
+- Nunca dê mandioca brava verde: o ácido cianídrico pode ser fatal.
+- Leucena em dieta exclusiva intoxica os animais.
+- Não ultrapasse aproximadamente 20% de leucena no volume.
+- Aves exigem pouca fibra: excesso de capim reduz o ganho de peso.
+- Mudança rápida de ração causa diarreia; faça em aproximadamente 14 dias.
+- Animais doentes precisam de veterinário: esta dieta não trata doenças.
+
+SE NAO TIVER
+------------
+- Sem sal mineral pronto, use sal comum iodado em cocho separado.
+- Mistura: 50% sal comum e 49% farinha de ossos calcinada.
+- Acrescente aproximadamente 1% de micronutrientes.
+- Se não houver farinha de ossos, use apenas sal comum iodado.
+- Sem feno, seque folhagens de capim ou guandu ao sol, nunca mofadas.
+- Sem balança, use sempre o mesmo pote ou punhado como medida.
+- Não use restos de colheita que não consiga identificar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- O animal come a ração sem hesitar todos os dias.
+- As fezes são formadas, sem diarreia nem muco.
+- O peso fica estável ou aumenta.
+- Cabras e ovelhas ruminam em repouso, com movimentos de mastigação.
+- Aves mantêm os ovos e coelhos mantêm o apetite.
+
+FONTES
+------
+- Embrapa Meio-Norte, Sistemas de Producao (2003):
+- capitulos de alimentacao de caprinos e galinhas caipiras.
+- Embrapa, noticia Dieta de alto concentrado para caprinos e ovinos.
+- EDUCAPES/CAPES, Manual de formulacao de racao para coelhos (2019).

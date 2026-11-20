@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 57-017
+TITULO: Como construir um coletor solar de ar
+CATEGORIA: 57 - Refrigeração, climatização e conforto
+TEMPO: 3 horas
+RISCO: medio
+EXIGE: madeira, chapa preta, vidro, isolamento, vedante, ferramentas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: coletor, ar quente, aquecedor, absorvedor, vidro, isolante
+==============================================================================
+
+OBJETIVO
+--------
+Construir uma caixa que aquece o ar com o sol e levar esse ar quente para
+dentro de um ambiente.
+
+QUANDO USAR
+-----------
+Para aquecer um comodo durante o dia sem energia eletrica.
+Para secar graos, frutas ou roupa em clima frio ou umido.
+Quando ha sol forte e a noite e fria.
+Para reduzir o gasto de lenha em regioes frias.
+Para aquecer o ar que entra em um abrigo.
+
+NAO USE QUANDO
+--------------
+Nao use como fonte unica de calor onde ha risco de hipotermia.
+Nao use em ambiente totalmente vedado, sem entrada e saida de ar.
+Nao continue se a cobertura de plastico derreter ou liberar odor.
+Nao instale em telhado sem fixacao que resista ao vento.
+
+MATERIAIS
+---------
+- Madeira ou chapas para montar a caixa (caixa pronta, se houver).
+- Chapa de metal ou papelao para o absorvedor.
+- Tinta preta fosca (carvao moido com oleo, se nao houver tinta).
+- Isolamento: la de vidro, la de rocha, palha seca ou espuma.
+- Cobertura transparente: vidro, acrilico ou plastico resistente.
+- Vedante: silicone ou massa de vedar (papel engomado, se faltar).
+- Parafusos ou pregos, serra, furadeira e lixa.
+- Dutos ou mangueiras para a entrada e a saida de ar.
+
+PROCEDIMENTO
+------------
+1. Escolha um ponto ensolarado, livre de sombra durante o dia.
+2. Vire a frente da caixa para o norte no Brasil (para o sul no hemisferio
+   norte).
+3. Monte a caixa com madeira, deixando a frente aberta para a cobertura.
+4. Forre o fundo e as laterais com isolamento, sem deixar frestas.
+5. Lixe a chapa do absorvedor e pinte-a com tinta preta fosca.
+6. Espere a tinta secar antes de fechar a caixa.
+7. Prenda o absorvedor dentro da caixa, a aproximadamente 5 cm do fundo.
+8. Abra uma entrada de ar na parte baixa e uma saida na parte alta.
+9. Encaixe os dutos na entrada e na saida.
+10. Vede as bordas dos dutos e todas as frestas da caixa com vedante.
+11. Coloque a cobertura transparente na frente e fixe com parafusos.
+12. Incline a caixa de aproximadamente 30 a 45 graus, de frente ao sol.
+13. Ligue a saida ao comodo e a entrada ao ar externo ou do propio comodo.
+14. Abra os dutos com sol e cubra o coletor a noite e em dia nublado.
+
+ATENCAO
+-------
+A chapa e a cobertura ficam quentes: use luvas e nao toque com maos nuas.
+Sem vedacao, o ar quente escapa e o coletor quase nao aquece.
+A noite e em dia nublado o fluxo inverte e o coletor pode esfriar o comodo.
+Plastico comum pode derreter ou soltar odor quando quente: prefira vidro.
+Nunca use como unico aquecedor onde o frio pode causar hipotermia.
+Fixe a caixa contra o vento: uma caixa solta pode cair e ferir alguem.
+
+SE NAO TIVER
+------------
+Sem chapa de metal, use papelao preto, madeira pintada de preto ou zinco.
+Sem tinta preta, passe carvao vegetal moido misturado com oleo.
+Sem vidro, use plastico transparente resistente ao calor; troque-o.
+Sem isolamento, use palha seca, jornal amassado ou serragem bem secos.
+Sem dutos, use mangueira de jardim ou tubo de papelao forrado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Com sol, o ar na saida fica aproximadamente 10 a 25 graus mais quente.
+A cobertura transparente esquenta e o absorvedor preto fica quente.
+Sente o ar quente saindo do duto alto e o ar entrando pela parte baixa.
+
+FONTES
+------
+Pratica consolidada de construcao de aquecedores solares de ar por placa
+plana. Principios de ganho de calor por efeito estufa e absorcao em
+superficie escura. Orientacoes gerais de arquitetura solar passiva
+difundidas por extensao rural e manuais de construcao.

@@ -1,0 +1,85 @@
+==============================================================================
+CODIGO: 87-006
+TITULO: Como construir um sistema de bombeamento por roda d'água
+CATEGORIA: 87 - Energia mecânica e hidráulica tradicionais
+TEMPO: 300 minutos
+RISCO: medio
+EXIGE: roda d'água, eixo, manivela, pistão e tubulação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bomba, roda d'água, pistão, manivela, água, bombeamento
+==============================================================================
+
+OBJETIVO
+--------
+Usar o giro de uma roda d'água para bombear água para um reservatório.
+
+QUANDO USAR
+-----------
+Quando se precisa elevar água do córrego para tanques ou lavouras.
+Quando a roda d'água já estiver disponível no local.
+Quando não houver energia elétrica ou combustível para bombear.
+Quando o desnível a vencer for moderado e a vazão constante.
+
+NAO USE QUANDO
+--------------
+Não tente se a altura de elevação for maior que a da roda permitir.
+Não use se a roda parar na estiagem ou congelar no inverno.
+Não bombee água suja para dentro de reservatório de água potável.
+
+MATERIAIS
+---------
+- Roda d'água com eixo e mancais já montados.
+- Manivela ou braço excêntrico preso ao eixo da roda.
+- Pistão com cilindro e duas válvulas de retorno.
+- Tubos de sucção e de recalque com diâmetro compatível.
+- Madeira, ferro ou bronze para as peças do mecanismo.
+- Graxa, estopa e cinto de couro para vedar o pistão.
+
+PROCEDIMENTO
+------------
+1. Meça a altura entre o nível da água e o reservatório.
+2. Confira quantas voltas da roda são precisas por minuto.
+3. Fixe a manivela no eixo da roda com chaveta firme.
+4. Monte o braço excêntrico que move o pistão em vai e vem.
+5. Encaixe o pistão no cilindro com estopa e graxa na vedação.
+6. Coloque a válvula de sucção na entrada do cilindro.
+7. Coloque a válvula de recalque na saída do cilindro.
+8. Ligue o tubo de sucção até abaixo do nível da água.
+9. Ligue o tubo de recalque até o reservatório elevado.
+10. Gire a roda devagar e observe o movimento do pistão.
+11. Confira se as válvulas abrem e fecham no tempo certo.
+12. Ajuste o curso do braço para o volume de água desejado.
+13. Encha o cilindro com água para criar a vedação inicial.
+14. Abra a comporta da roda e deixe o sistema trabalhar.
+15. Meça a vazão no reservatório e anote o resultado.
+
+ATENCAO
+-------
+O braço e a manivela giram com força: mantenha as mãos afastadas.
+Use proteção nas partes móveis e roupa justa.
+Se o pistão travar, feche a comporta antes de desmontar.
+Válvulas entupidas param a bomba e podem romper o tubo.
+Não deixe o tubo de sucção sugar ar, senão a bomba perde o priming.
+Em cheia, proteja o mecanismo da água e dos detritos.
+Lubrifique o pistão e as válvulas a cada semana de uso.
+
+SE NAO TIVER
+------------
+Sem válvulas de retorno, use válvulas de couro com pesos.
+Sem cilindro de metal, use um tubo de madeira bem vedado.
+Sem estopa, use fibra vegetal com graxa para vedar o pistão.
+Sem manivela, use um disco com pino preso no eixo.
+Sem tubo de recalque, use mangueira de couro costurado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água sobe pelo tubo e cai no reservatório a cada golpe do pistão.
+As válvulas não deixam a água voltar quando o pistão recua.
+O pistão se move livre, sem travar e sem vazar muito.
+A vazão medida atende ao uso previsto no local.
+
+FONTES
+------
+Prática consolidada de bombas acionadas por roda d'água em sistemas
+rurais tradicionais. Base em manuais de bombeamento mecânico e na
+experiência de quem adapta rodas hidráulicas para elevar água.

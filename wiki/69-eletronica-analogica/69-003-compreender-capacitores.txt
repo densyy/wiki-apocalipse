@@ -1,0 +1,71 @@
+==============================================================================
+CODIGO: 69-003
+TITULO: Como compreender capacitores
+CATEGORIA: 69 - Eletrônica analógica e componentes discretos
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: capacitor, eletrolítico, multímetro, pilha de 1,5 V, resistor
+REVISAO: 2026-11
+PALAVRAS-CHAVE: capacitor, carga, dielétrico, farad, guardar carga
+==============================================================================
+
+OBJETIVO
+--------
+Entender como um capacitor guarda e devolve energia elétrica e como
+manuseá-lo com segurança.
+
+QUANDO USAR
+-----------
+Quando um aparelho continua com tensão depois de desligado.
+Quando vai escolher valor e polaridade de um capacitor de reposição.
+
+NAO USE QUANDO
+--------------
+Não use este texto na rede elétrica, em fontes chaveadas ou em
+equipamento com tensão letal. Ele não habilita a reparar aparelhos.
+
+MATERIAIS
+---------
+- Um capacitor cerâmico ou de filme, de baixa tensão.
+- Um capacitor eletrolítico comum, para observar a polaridade.
+- Um multímetro para medir tensão.
+- Uma pilha de 1,5 V e um resistor de 1000 ohms.
+- Dois fios curtos com pontas isoladas.
+
+PROCEDIMENTO
+------------
+1. Observe as pernas metálicas e o dielétrico, o isolante entre elas.
+2. Leia o valor: a capacitância é medida em farad, carga por tensão.
+3. Reconheça microfarad, nanofarad e picofarad como frações do farad.
+4. Guarde a regra: a carga é capacitância vezes tensão.
+5. Não passe da tensão máxima marcada no corpo do capacitor.
+6. Veja a polaridade: a perna mais longa costuma ser o positivo.
+7. A faixa com sinal de menos marca o polo negativo.
+8. Ligue a pilha de 1,5 V ao capacitor pelo resistor por 5 segundos.
+9. Meça a tensão: sobe devagar de zero para perto de 1,5 V.
+10. Retire a pilha e ligue o resistor: a tensão cai devagar a zero.
+11. Descarregue sempre pelo resistor antes de tocar nas pernas.
+
+ATENCAO
+-------
+Um capacitor guarda carga mesmo depois de o aparelho ser desligado.
+Em capacitor grande ou de alta tensão, descarregue antes de tocar.
+A carga pode voltar sozinha após a descarga, por absorção.
+Nunca ultrapasse a tensão marcada: pode romper, estourar ou pegar fogo.
+Nunca inverta as pernas de um eletrolítico: pode aquecer, vazar ou explodir.
+
+SE NAO TIVER
+------------
+Sem multímetro, trate todo capacitor como se estivesse carregado.
+Sem resistor, use outro de alguns milhares de ohms; sem pilha, leia o corpo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você vê a tensão subir ao ligar a pilha e cair ao ligar o resistor.
+Você aponta no corpo o valor, a tensão máxima e a polaridade.
+
+FONTES
+------
+HyperPhysics, Georgia State University: capacitância C igual a Q/V.
+Teoria consolidada de circuitos resistor-capacitor e de segurança com carga
+residual, sem documento único; resumo, não substitui treinamento.

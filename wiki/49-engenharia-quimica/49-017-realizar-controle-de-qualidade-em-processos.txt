@@ -1,0 +1,93 @@
+==============================================================================
+CODIGO: 49-017
+TITULO: Como realizar controle de qualidade em processos artesanais
+CATEGORIA: 49 - Engenharia química e processos industriais
+TEMPO: 45 minutos
+RISCO: medio
+EXIGE: caderno, caneta, amostras do produto, medidor ou balança simples
+REVISAO: 2026-11
+PALAVRAS-CHAVE: qualidade, artesanal, amostra, lote, higiene, defeito
+==============================================================================
+
+OBJETIVO
+--------
+Verificar se um lote atende ao padrão antes de ser entregue ou consumido.
+
+QUANDO USAR
+-----------
+Ao iniciar cada novo lote de produção artesanal.
+Ao receber matéria-prima de fornecedor novo ou diferente do habitual.
+Ao mudar de receita, de equipamento ou de pessoa responsável.
+Antes de armazenar, transportar ou vender o produto.
+Quando aparecer reclamação ou dúvida sobre um lote já feito.
+
+NAO USE QUANDO
+--------------
+Quando a matéria-prima estiver com odor, cor ou textura estranhos.
+Quando houver suspeita de contaminação química, biológica ou por agrotóxico.
+Quando não houver forma de medir ou comparar o produto com um padrão.
+Nesses casos, isole o lote e procure orientação técnica.
+
+MATERIAIS
+---------
+- Caderno ou ficha para registrar cada lote.
+- Caneta ou lápis.
+- Recipiente limpo e tampado para cada amostra.
+- Colher ou espátula limpa para retirar amostras.
+- Medidor simples: balança, copo medidor ou régua.
+- Padrão de referência: amostra de lote anterior considerado bom.
+- Água limpa e pano limpo para higienizar utensílios.
+
+PROCEDIMENTO
+------------
+1. Defina antes de começar o que é aceitável para o produto.
+2. Anote no caderno a cor, o odor, a textura e o peso esperados.
+3. Separe o lote: todo material feito sob as mesmas condições.
+4. Numere o lote com data, hora e responsável no caderno.
+5. Inspecione a área e os utensílios antes de manusear o produto.
+6. Lave as mãos e higienize a bancada com água e pano limpos.
+7. Retire aproximadamente três amostras de partes diferentes do lote.
+8. Use colher limpa em cada retirada para não contaminar a amostra.
+9. Observe cada amostra quanto a cor e odor, comparando com o padrão.
+10. Meça peso ou volume de cada amostra e anote o valor.
+11. Registre no caderno o resultado de cada amostra.
+12. Compare os valores com o padrão anotado no passo 2.
+13. Aprove o lote se todas as amostras estiverem dentro do padrão.
+14. Reprove o lote se qualquer amostra apresentar defeito fora do padrão.
+15. Isole o lote reprovado em recipiente tampado e identificado.
+16. Guarde uma amostra de cada lote aprovado como referência futura.
+17. Descarte a amostra com defeito no destino seguro do produto.
+
+ATENCAO
+-------
+Controle de qualidade reduz risco, mas não elimina contaminação invisível.
+Aparência e odor normais não provam que o produto é seguro.
+Teste caseiro não substitui análise de laboratório de produto vendido.
+Suspeita de contaminação química ou biológica: pare e isole o lote.
+Não prove nem distribua produto duvidoso para testar.
+Lote mal identificado não pode ser rastreado em caso de problema.
+Amostra contaminada ou mal guardada gera resultado enganoso.
+Ao surgir reclamação de indisposição após consumo, pare e busque ajuda.
+
+SE NAO TIVER
+------------
+Sem balança, use copo medidor ou compare volumes com recipiente conhecido.
+Sem padrão anterior, use a primeira amostra boa como referência e anote.
+Sem caderno, improvise ficha em papel e guarde junto com o lote.
+Sem medidor, limite o controle à observação e registre a limitação.
+Não substitua medição por palpite quando o produto será vendido.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada lote tem registro com data, responsável e resultado das amostras.
+As amostras analisadas estão dentro do padrão anotado.
+O lote aprovado está identificado e separado do lote reprovado.
+Existe uma amostra guardada para consulta futura.
+
+FONTES
+------
+Prática consolidada de boas práticas de fabricação e controle de qualidade
+em produção artesanal de pequena escala. Família de referência: normas de
+Boas Práticas de Fabricação da Anvisa e orientações do Codex Alimentarius
+(FAO/OMS). Este texto é um resumo operacional, não substitui treinamento
+nem o cumprimento da norma específica aplicável ao produto.

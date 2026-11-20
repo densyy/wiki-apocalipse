@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 38-018
+TITULO: Como construir um relógio mecânico simples
+CATEGORIA: 38 - Astronomia e medição do tempo
+TEMPO: 120 minutos
+RISCO: medio
+EXIGE: madeira ou metal, faca ou lima, corda, peso, furador
+REVISAO: 2026-11
+PALAVRAS-CHAVE: relógio, mecânico, escapamento, foliot, peso, tempo
+==============================================================================
+
+OBJETIVO
+--------
+Montar um relógio com peso e escape que marque o tempo de forma aproximada.
+
+QUANDO USAR
+-----------
+Quando falta energia e é preciso medir o tempo com meios locais.
+Para demonstrar relojoaria ou servir como contador aproximado.
+
+NAO USE QUANDO
+--------------
+Quando é preciso precisão de minutos: remédio, turnos ou navegação.
+Sem ferramenta de corte para fazer rodas e eixos com precisão.
+
+MATERIAIS
+---------
+- Madeira dura, metal ou papelão encerado para a roda e o suporte.
+- Corda resistente e um peso: pedra ou pedaço de metal.
+- Faca, serra, lima ou raspador para talhar dentes e paletas.
+- Furador ou broca e pinos finos para abrir furos e servir de eixo.
+
+PROCEDIMENTO
+------------
+1. Monte um suporte firme com dois montantes verticais e uma base.
+2. Talhe a roda de coroa: 20 a 30 dentes pontudos voltados para o lado.
+3. Prenda a roda num eixo horizontal nos montantes, com um tambor ao lado.
+4. Enrole a corda no tambor e prenda o peso na ponta, sem nó que escorregue.
+5. Faça o verge: haste vertical com duas paletas, a cerca de 90 graus.
+6. Posicione o verge: as paletas devem encostar nos dentes da coroa.
+7. Prenda o verge no topo do suporte para girar livre, sem folga lateral.
+8. Prenda a barra horizontal (foliot) no verge, com um peso em cada ponta.
+9. Solte o peso devagar: a roda avança um dente e o foliot oscila.
+10. Afaste os pesos do foliot para atrasar; aproxime para adiantar o ritmo.
+11. Repita o ajuste até a oscilação ficar regular.
+
+ATENCAO
+-------
+Faca, serra e lima cortam: mantenha as mãos longe do fio.
+O peso pode cair e ferir o pé; use nó firme, nunca deixe peso solto.
+Rodas e paletas exigem precisão: dentes tortos travam o mecanismo.
+O erro pode passar de 15 minutos por dia: é só um contador aproximado.
+Não use em horários críticos: remédio ou turnos exigem outra referência.
+Se a corda arrebentar ou travar, pare e conserte antes de continuar.
+
+SE NAO TIVER
+------------
+Sem peso de metal, use uma pedra presa num saco de pano na ponta da corda.
+Sem foliot, não há regulação: o mecanismo acelera; não use molas.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A roda avança um dente de cada vez e o foliot oscila sem parar.
+As oscilações mantêm ritmo regular e o peso desce devagar.
+
+FONTES
+------
+Prática consolidada de relojoaria histórica: escape de coroa e foliot.
+É o mecanismo mecânico mais antigo. Resumo operacional, não treinamento.

@@ -1,0 +1,77 @@
+==============================================================================
+CODIGO: 78-006
+TITULO: Como construir sistemas de drenagem rodoviária
+CATEGORIA: 78 - Pontes, estradas e infraestrutura de transporte
+TEMPO: 300 minutos
+RISCO: medio
+EXIGE: valetas com declínio, saídas de água e material de proteção
+REVISAO: 2026-11
+PALAVRAS-CHAVE: drenagem, valeta, escoamento, água, erosão, passagem
+==============================================================================
+
+OBJETIVO
+--------
+Tirar a água da pista e evitar que a estrada se desfaça.
+
+QUANDO USAR
+-----------
+Quando a água corta ou empoça na pista após a chuva.
+Ao abrir estrada nova em terreno com declínio.
+Quando a valeta lateral não dá mais conta do volume.
+Antes da estação chuvosa, como prevenção.
+
+NAO USE QUANDO
+--------------
+Não lance água da valeta para terreno de alguém sem combinado.
+Não destrua drenagem natural sem planejar alternativa.
+Não obstrua passagem de água com terra ou entulho.
+
+MATERIAIS
+---------
+- Enxada, pá e picareta para abrir valetas (ferramentas de lavoura).
+- Pedras ou tijolos para proteger as margens da valeta.
+- Nível improvisado com mangueira ou garrafa com água.
+- Grama ou capim para fixar o solo nas bordas.
+- Estacas para marcar o sentido do fluxo da água.
+
+PROCEDIMENTO
+------------
+1. Observe por onde a água corre naturalmente no terreno.
+2. Marque com estacas o sentido do escoamento.
+3. Abra valeta rasa e contínua junto à borda da pista.
+4. Dê declínio suave à valeta para a água correr sem parar.
+5. Proteja as margens com pedra ou capim assentado.
+6. Faça saídas de água em cada trecho baixo da valeta.
+7. Instale passagem de pedra ou madeira onde a valeta cruza o caminho.
+8. Desvie a água para local seguro, longe da pista e de moradias.
+9. Limpe folhas e lama da valeta depois de cada chuva.
+10. Verifique o sistema na primeira chuva e corrija represamentos.
+
+ATENCAO
+-------
+Valeta sem declínio vira poço e cria criadouro de insetos.
+Água jogada contra talude desliza a terra e destrói a pista.
+Saída entupida represa água e inunda o caminho.
+Valeta funda demais pode derrubar animal ou pessoa.
+Nunca desvie água para casa ou roça alheia sem aviso.
+Trabalhe com calçado firme após chuva: margem escorrega.
+
+SE NAO TIVER
+------------
+Sem nível, use mangueira com água para comparar alturas.
+Sem pedra, proteja a margem com capim e terra compactada.
+Sem pá, abra a valeta com enxada e bastão.
+Sem saída natural, direcione a água para área combinada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água corre pela valeta e não atravessa a pista.
+Não há poços nem represamento ao longo da valeta.
+As margens continuam firmes e com capim ou pedra assentada.
+A pista permanece seca e passável após a chuva.
+
+FONTES
+------
+Princípios consolidados de drenagem de estradas, adaptados a valetas
+abertas e materiais simples. O traçado depende do terreno: observe a
+água natural e nunca desvie o fluxo para propriedade alheia sem acordo.

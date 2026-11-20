@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 68-006
+TITULO: Como compreender propagação de rádio
+CATEGORIA: 68 - Radiofrequência e telecomunicações
+TEMPO: 20 minutos
+RISCO: baixo
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: rádio, propagação, alcance, antena, ionosfera, sinal
+==============================================================================
+
+OBJETIVO
+--------
+Entender por que o sinal de rádio chega longe ou falha perto.
+
+QUANDO USAR
+-----------
+Quando for escolher a frequência para uma ligação de rádio.
+Quando um rádio não alcança outro mesmo com potência suficiente.
+Quando o sinal some em certos horários ou com determinado tempo.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Identifique a faixa de frequência do rádio que pretende usar.
+2. Calcule o comprimento de onda em metros: 300.000.000 / frequência em Hz.
+3. Compare esse comprimento com o tamanho dos obstáculos próximos.
+4. Classifique o modo: onda terrestre, onda ionosférica ou visão direta.
+5. Acima de 30 MHz, assuma a visão direta como modo principal.
+6. Abaixo de 3 MHz, espere onda terrestre que contorna o relevo.
+7. Entre 3 e 30 MHz, espere reflexão na ionosfera em longa distância.
+8. Meça a altura das duas antenas em metros, do solo até a antena.
+9. Estime o horizonte: aproximadamente 4,12 vezes a raiz da altura.
+10. Some os dois horizontes para o alcance aproximado em quilômetros.
+11. Verifique se serra, prédio ou árvore bloqueia a linha entre antenas.
+12. Ao dobro da distância, a potência recebida cai para um quarto.
+
+ATENCAO
+-------
+O alcance é aproximado: umidade e inversão térmica mudam o resultado.
+Em VHF e UHF, um obstáculo entre as antenas pode cortar a ligação.
+A onda ionosférica varia com o dia, a estação e a atividade solar.
+Alcance não é qualidade: sinal fraco pode ser ouvido mas não entendido.
+
+SE NAO TIVER
+------------
+Não há material ideal a substituir: o procedimento usa só observação.
+Se não souber a frequência, leia o rótulo do aparelho ou o manual.
+Se não medir a altura, trate o alcance calculado como aproximado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue citar o modo provável e estimar o alcance aproximado.
+Você aponta o obstáculo ou a condição que pode interromper a ligação.
+
+FONTES
+------
+Prática consolidada de engenharia de radiofrequência.
+Referências: recomendações ITU-R da série P sobre propagação;
+ARRL Handbook for Radio Communications, capítulo de propagação;
+Reference Data for Radio Engineers, editoria Westman;
+Federal Standard 1037C, MIL-STD-188 e Haslett, Cambridge.
+Resumo explicativo: não substitui treinamento nem medição.

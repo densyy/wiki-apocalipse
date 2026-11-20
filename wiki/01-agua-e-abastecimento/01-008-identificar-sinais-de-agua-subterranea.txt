@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 01-008
+TITULO: Como identificar sinais de água subterrânea
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 40 minutos
+RISCO: baixo
+EXIGE: caderno, lápis, roupa de caminhada, dia sem chuva
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, subterrânea, lençol, poço, vegetação, água escondida
+==============================================================================
+
+OBJETIVO
+---------
+Reconhecer sinais de água subterrânea perto da superfície na paisagem.
+
+QUANDO USAR
+-----------
+Quando não há rio, nascente ou poço conhecido por perto.
+Em tempo seco, antes de cavar, para escolher onde investigar.
+
+NAO USE QUANDO
+--------------
+Para confirmar se a água é potável: sinal visual não prova qualidade.
+Perto de lixo, curral, oficina, cemitério ou tanque de combustível.
+Em área com risco de desmoronamento ou poço aberto sem tampa.
+
+MATERIAIS
+---------
+- Caderno e lápis para anotar os pontos (papel emprestado).
+- Roupa firme, calçado e estaca de marcar (três pedras empilhadas).
+- Pessoa experiente da região, quando houver (vizinho mais velho).
+
+PROCEDIMENTO
+------------
+1. Pergunte a quem mora perto onde ficam poços e nascentes.
+2. Anote a profundidade da água nos poços e a direção deles.
+3. Caminhe no fim da estiagem, quando os sinais ficam claros.
+4. Priorize fundo de vale, base de encosta e terra escura que não seca.
+5. Procure árvores verdes em meio à vegetação seca e juncos no chão úmido.
+6. Procure água brotando do solo, em barranco ou em poça permanente.
+7. Veja onde a rocha aflora e a umidade aparece logo abaixo.
+8. Volte ao amanhecer e note onde o vapor baixo insiste em ficar.
+9. Marque com estaca os pontos com três sinais diferentes.
+10. Compare os pontos e anote a data e o tempo de cada um.
+
+ATENCAO
+-------
+Vegetação verde indica água rasa, mas não prova quantidade nem qualidade.
+Água subterrânea pode ter sal, sobretudo no Semiárido brasileiro.
+Pode receber esgoto, agrotóxico ou combustível pelo solo.
+Ferver não remove sal nem químico; para tratar, veja 01-001.
+Um sinal isolado engana: planta verde pode ter raiz funda ou irrigação.
+Pare se o chão ceder ou houver cheiro de esgoto; não desça em poço.
+
+SE NAO TIVER
+------------
+Sem caderno, memorize os pontos e marque cada um com pedras.
+Sem estaca, empilhe três pedras no lugar escolhido.
+Sem dias secos, espere o solo secar antes de repetir a observação.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Há pontos marcados que podem ser encontrados de novo no terreno.
+Em cada um aparecem planta verde, terra escura e vale ou rocha aflorada.
+
+FONTES
+------
+Prática consolidada de procura de água subterrânea, sem documento único.
+USGS (Water Science School; Plants as indicators of ground water, 1927).
+FAO (Ground water occurrence) e Embrapa (água subterrânea no Semiárido).

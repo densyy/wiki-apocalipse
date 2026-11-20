@@ -1,0 +1,97 @@
+==============================================================================
+CODIGO: 59-008
+TITULO: Como escolher proteção respiratória
+CATEGORIA: 59 - Segurança industrial e riscos ocupacionais
+TEMPO: 35 minutos
+RISCO: critico
+EXIGE: identificação do agente, acesso ao responsável, ficha do equipamento
+REVISAO: 2026-11
+PALAVRAS-CHAVE: máscara, FFP2, N95, filtro, gás, vedação, EPI
+==============================================================================
+
+OBJETIVO
+--------
+Escolher o tipo de proteção respiratória adequado ao risco presente.
+
+QUANDO USAR
+-----------
+Antes de entrar em área com poeira, fumo, vapores ou gases.
+Ao trocar de tarefa, de produto químico ou de ambiente de trabalho.
+Quando houver aviso de risco respiratório no local.
+Ao comprar ou receber máscara, filtro ou cartucho novo.
+Antes de usar equipamento emprestado ou de outra pessoa.
+
+NAO USE QUANDO
+--------------
+Não escolha máscara sem saber qual agente está no ar.
+Não use máscara filtrante em lugar com pouco oxigênio.
+Não use máscara filtrante contra gases, vapores ou fumaça de incêndio.
+Não use máscara cirúrgica, de pano ou de elástico na orelha como
+proteção respiratória. Não substitua avaliação técnica por esta escolha.
+
+MATERIAIS
+---------
+- Ficha do produto ou do agente (rótulo, ficha de segurança).
+- Acesso ao responsável pela segurança do trabalho.
+- Máscaras e filtros de tamanhos diferentes para provar o ajuste.
+- Espelho ou colega para conferir a vedação.
+- Caderno para anotar a escolha e a data (papel solto serve).
+
+PROCEDIMENTO
+------------
+1. Pergunte ao responsável qual agente está no ar e em que quantidade.
+2. Leia o rótulo ou a ficha de segurança do produto antes de escolher.
+3. Ventile, umedeça a poeira ou troque o produto para reduzir o risco.
+4. Se houver pouco oxigênio, ar desconhecido ou risco de morte, pare.
+5. Nesses casos, use só equipamento que leve ar próprio ao usuário.
+6. Para poeira e fumo metálico, use filtro FFP2 (N95) ou superior.
+7. Para gases ou vapores, use cartucho químico: filtro que retém gases.
+8. Máscara de partículas não filtra gases: não a use para solventes.
+9. Se o agente irrita os olhos, use máscara facial completa.
+10. Experimente vários tamanhos até encontrar um que vede o rosto.
+11. Mantenha a área de vedação do rosto sem barba, bigode ou pelo.
+12. Teste a vedação (vazamento no rosto) antes de cada uso.
+13. Siga o manual do modelo para o teste positivo e o negativo.
+14. Anote modelo, filtro, tamanho e a data da escolha no caderno.
+15. Troque filtro ou cartucho conforme o manual e ao primeiro odor.
+16. Ao sentir odor, irritação ou falta de ar, saia e troque o filtro.
+
+ATENCAO
+-------
+Escolha errada pode matar ou deixar sequela permanente.
+Máscara filtrante não cria oxigênio: nunca use em espaço fechado sem
+ventilação, em tanque, silo, mina ou incêndio.
+Máscara de partículas não protege contra gases, vapores ou solventes.
+Barba, bigode, cabelo na vedação ou tamanho errado anulam a proteção
+mesmo com filtro bom.
+Máscara cirúrgica, de pano ou com elástico na orelha não veda o rosto.
+Cartucho saturado deixa passar o agente sem aviso claro: ao sentir
+odor ou irritação, saia imediatamente e troque o filtro.
+Pessoas com problema de coração ou pulmão precisam de avaliação de
+saúde antes de usar máscara com filtro.
+Esta escolha não substitui treinamento, teste de ajuste ou programa de
+proteção respiratória do local de trabalho.
+
+SE NAO TIVER
+------------
+Sem ficha do produto, não entre: peça a informação ao responsável.
+Sem máscara adequada, saia do ambiente ou espere o equipamento certo.
+Sem teste de ajuste, trate a máscara como incapaz de proteger.
+Não improvise filtro com pano, papel, algodão ou garrafa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você identificou o agente e escolheu filtro ou cartucho compatível.
+A máscara vedou no rosto limpo, sem barba na linha de contato.
+O teste de vedação positiva e negativa passou sem vazamento.
+Você anotou modelo, filtro, tamanho e data para a próxima troca.
+
+FONTES
+------
+Norma Regulamentadora 6, do Ministério do Trabalho e Emprego, sobre
+equipamento de proteção individual.
+Norma Regulamentadora 9, sobre agentes químicos e físicos no trabalho.
+Lógica de seleção de respiradores do NIOSH e requisito de teste de
+ajuste da OSHA 29 CFR 1910.134.
+Classes FFP1, FFP2 e FFP3 da norma europeia EN 149 e equivalentes.
+Prática consolidada de proteção respiratória, resumida neste texto.

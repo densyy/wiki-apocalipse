@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 04-007
+TITULO: Como escolher um controlador de carga
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: etiqueta do painel solar, tensao e tipo da bateria
+REVISAO: 2026-11
+PALAVRAS-CHAVE: controlador, carga, solar, bateria, mppt, pwm, painel
+==============================================================================
+
+OBJETIVO
+--------
+Escolher o controlador de carga certo para proteger a bateria
+do sistema solar contra sobrecarga e descarga excessiva.
+
+QUANDO USAR
+-----------
+Quando for montar um sistema solar com painel e bateria.
+Quando for trocar um controlador queimado ou fraco.
+Quando for ampliar o sistema com mais paineis solares.
+
+NAO USE QUANDO
+--------------
+Quando o sistema e ligado direto na rede publica.
+Quando for mexer em quadro energizado ou rede da rua.
+Quando a carga exige projeto assinado sem apoio tecnico.
+
+MATERIAIS
+---------
+- Etiqueta do painel: potencia, Voc, Isc e Vmp (foto legivel).
+- Tensao do banco: 12 V, 24 V ou 48 V.
+- Tipo da bateria: chumbo-acida, selada ou litio (do manual).
+
+PROCEDIMENTO
+------------
+1. Anote a tensao do banco de baterias em volts.
+2. Anote a corrente de curto-circuito (Isc) da etiqueta.
+3. Se houver paineis em paralelo, some os valores de Isc.
+4. Multiplique a corrente total por 1,25 para ter folga.
+5. Escolha corrente nominal do controlador acima do resultado.
+6. Some o Voc dos paineis em serie e exija folga de 20 por cento.
+7. Confira se o controlador suporta esse Voc maximo de entrada.
+8. Use PWM so em sistema pequeno de 12 V com Vmp proximo.
+9. Use MPPT nos demais casos e com Vmp maior que a bateria.
+10. Confira tipo de bateria aceito e protecao contra curto.
+
+ATENCAO
+-------
+Controlador fraco esquenta, queima os cabos e pode causar incendio.
+Curto em bateria solta faisca forte e pode queimar maos e olhos.
+Bateria de chumbo solta gas inflamavel: ventile e afaste o fogo.
+Este artigo so ajuda a escolher; a montagem exige pessoa habilitada.
+
+SE NAO TIVER
+------------
+Sem etiqueta, use o manual e marque o valor como aproximado.
+Sem catalogo, leve os dados a um tecnico e peca proposta escrita.
+Nunca ligue o painel direto na bateria sem controlador.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A corrente nominal supera a corrente dos paineis com folga.
+A tensao do controlador cobre o banco e o Voc dos paineis.
+O manual lista o tipo da sua bateria como compativel.
+
+FONTES
+------
+Guias do Departamento de Energia dos EUA sobre energia solar.
+Pratica consolidada de instaladores de sistemas isolados.

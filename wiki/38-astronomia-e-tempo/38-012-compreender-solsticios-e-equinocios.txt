@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 38-012
+TITULO: Como compreender solstícios e equinócios
+CATEGORIA: 38 - Astronomia e medição do tempo
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: caderno, lápis, bastão reto, horizonte livre
+REVISAO: 2026-11
+PALAVRAS-CHAVE: solstício, equinócio, estação, eixo, sombra, dia, noite
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer solstícios e equinócios pela sombra e pelo nascer do Sol.
+
+QUANDO USAR
+-----------
+- Quando precisar saber qual estação vem a seguir sem consultar calendário.
+- Quando quiser identificar o dia mais longo e o mais curto do ano.
+- Quando o relógio falhar e só restar observar o céu.
+
+NAO USE QUANDO
+--------------
+- Quando houver eclipse em andamento: não tente observar o Sol.
+- Quando o horizonte estiver fechado por nuvens, serra ou prédios.
+
+MATERIAIS
+---------
+- Caderno e lápis (papel improvisado e carvão).
+- Bastão reto com cerca de 1 metro (qualquer haste reta e conhecida).
+- Pedra ou estaca para manter o bastão aprumado no chão.
+- Terreno plano com horizonte livre a leste e a oeste.
+
+PROCEDIMENTO
+------------
+1. Escolha um lugar aberto, com horizonte visível a leste e a oeste.
+2. Fixe o bastão reto no chão, bem aprumado, sobre terreno plano.
+3. Anote no caderno a data e o local da observação.
+4. Anote o ponto do horizonte leste onde o Sol nasce, sem fixar o disco.
+5. Repita a marcação no mesmo lugar uma vez por semana.
+6. Compare as marcas: o nascer mais ao norte é por volta de 21 de junho.
+7. O nascer mais ao sul, por volta de 21 de dezembro, fecha os solstícios.
+8. Meça a sombra ao meio-dia solar, hora em que o Sol fica mais alto.
+9. Repita: sombra curta é verão, longa é inverno, média é equinócio.
+
+ATENCAO
+-------
+Nunca olhe diretamente para o Sol: a retina pode queimar sem dor imediata.
+Observe só o horizonte e a sombra no chão, nunca o disco solar.
+O meio-dia solar não é o do relógio; use a sombra mínima como guia.
+Nuvens e prédios deslocam o ponto de nascer e falseiam a marcação.
+Datas variam um pouco por causa do ano bissexto; trate-as como aproximadas.
+No sul, verão é em dezembro. O dia mais longo não é o mais quente.
+
+SE NAO TIVER
+------------
+- Sem bastão, use a sombra de qualquer objeto reto de altura conhecida.
+- Sem caderno, risque marcas no chão com um graveto.
+- Sem horizonte livre, observe só a sombra e acompanhe a tendência.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As marcas do nascer caminham de um extremo a outro e voltam no ano seguinte.
+Perto dos equinócios, o nascer fica junto do leste e a sombra é média.
+
+FONTES
+------
+NOAA NESDIS, "What Is a Solstice?" e "Changing of the Seasons": eixo de
+23,5 graus, trópicos, solstícios e equinócios. NOAA NCEI, "Meteorological
+Versus Astronomical Seasons" (2016, atualizado em 2023). MCTI, nota de 2025.

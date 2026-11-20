@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 51-013
+TITULO: Como calcular densidade de materiais
+CATEGORIA: 51 - Matemática aplicada à sobrevivência
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: balança, régua, recipiente com água, caderno
+REVISAO: 2026-11
+PALAVRAS-CHAVE: densidade, massa, volume, medir, água, deslocamento, g/cm3
+==============================================================================
+
+OBJETIVO
+--------
+Calcular a densidade de um material dividindo sua massa pelo volume.
+
+QUANDO USAR
+-----------
+Quando precisar identificar um material pela densidade.
+Quando quiser saber se uma peça é maciça ou oca.
+Quando for escolher material para flutuar ou afundar.
+
+NAO USE QUANDO
+--------------
+Quando o material se dissolve, reage ou incha na água.
+Quando não houver balança ou forma segura de medir volume.
+
+MATERIAIS
+---------
+- Balança, mesmo a de cozinha (ou forma de comparar peso).
+- Régua ou fita métrica para medir comprimentos.
+- Copo medidor com marcações de volume.
+- Água limpa e caderno para anotar.
+- Cordão fino, se a peça precisar ser mergulhada.
+
+PROCEDIMENTO
+------------
+1. Anote a massa da peça seca na balança, em gramas.
+2. Meça altura, largura e comprimento se a peça for regular.
+3. Multiplique as tres medidas para obter o volume em cm3.
+4. Para cilindro, use 3,14 x raio x raio x altura.
+5. Para peça irregular, anote o volume inicial da água em mililitros.
+6. Mergulhe a peça toda e anote o novo volume no copo.
+7. Subtraia o inicial do final; 1 mililitro equivale a 1 cm3.
+8. Divida a massa pelo volume para obter a densidade.
+9. Escreva o resultado em gramas por centímetro cubico, g/cm3.
+
+ATENCAO
+-------
+A densidade muda com a temperatura; anote a condição da medição.
+Bolhas de ar na peça aumentam o volume e baixam a densidade.
+Peça flutuando nao mede certo; pressione-a ate submergir.
+Se a peça se dissolve ou incha na agua, o resultado nao vale.
+Nao use o metodo em material radioativo, toxico ou corrosivo.
+
+SE NAO TIVER
+------------
+Sem balança, compare com material de densidade conhecida.
+Sem copo medidor, improvise marcações e use a régua.
+Sem condições de mergulhar, meça só peças regulares.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A divisão massa por volume fica perto do valor esperado.
+A mesma peça medida duas vezes dá valores quase iguais.
+
+FONTES
+------
+Conceito basico de fisica: densidade é massa dividida pelo volume.
+Deslocamento de água e principio de Arquimedes, pratica consolidada.
+Referência de 1 g/cm3 para a água é valor aproximado.

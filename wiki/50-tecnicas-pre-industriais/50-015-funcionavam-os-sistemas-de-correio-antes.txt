@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 50-015
+TITULO: Como funcionavam os correios antes da eletricidade
+CATEGORIA: 50 - História das tecnologias pré-industriais
+TEMPO: 10 minutos
+RISCO: baixo
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: correio, carta, corretor, diligencia, telgrafo optico, selo
+==============================================================================
+
+OBJETIVO
+--------
+Entender como cartas e encomendas circulavam antes do telgrafo eletrico.
+
+QUANDO USAR
+-----------
+Quando se estuda a historia da comunicacao a distancia.
+Quando se visita museu postal ou torre de telgrafo optico.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+Este texto descreve o passado; nao ensina a montar servico postal.
+
+MATERIAIS
+---------
+- Nenhum material. Texto descritivo, sem execucao pratica.
+
+PROCEDIMENTO
+------------
+1. Escreva a carta em papel e dobre o papel sobre si mesmo.
+2. Feche a dobra com cera derretida e carimbe com selo de lacre.
+3. Entregue a carta ao corretor ou leve-a ao ponto de coleta.
+4. Pague a taxa ao posto; ela variava com peso e distancia.
+5. Receba o carimbo ou o selo que marca o pagamento do porte.
+6. O corretor reune as cartas em sacola e as leva ao centro de troca.
+7. Monte o cavalo ou a diligencia e siga a rota com paradas marcadas.
+8. Em cada estacao, troque a montaria e passe a sacola ao proximo corretor.
+9. No centro, separe as cartas por destino e monte novos maços.
+10. Leve cada maço ao ultimo trecho e entregue ao destinatario.
+
+ATENCAO
+-------
+A carta podia se perder, molhar, rasgar ou ser aberta por curiosos.
+Assaltantes atacavam correios isolados, sobretudo a noite.
+Chuva, neve, rios cheios e estradas ruins atrasavam a entrega por dias.
+O porte era caro; muitas pessoas nao sabiam ler nem escrever.
+O telgrafo optico exigia linha de vista e tempo bom; neblina o cegava.
+Mensagens confidenciais podiam ser lidas por quem controlava a rota.
+Nao reconstrua rotas, lacres ou torres sem conhecimento especializado.
+
+SE NAO TIVER
+------------
+Antes do correio publico, mensagens iam com mercadores, peregrinos,
+soldados, monges ou parentes de confiaca.
+Sinais com tambor, corneta, fogo e bandeira levavam avisos curtos.
+O telgrafo optico, com torres e brasoes moveis, transmitia mensagens
+rapidas antes do telgrafo eletrico, mas so em linha de vista.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A carta chegou ao destinatario com o lacre intacto e o carimbo legivel.
+As estacas de troca registraram a passagem e a hora da sacola.
+
+FONTES
+------
+Resumo da literatura consolidada sobre a historia postal, a partir de
+praticas documentadas de correios reais, servicos nacionais de correio,
+museus postais e relatos sobre diligencias; sem documento unico.

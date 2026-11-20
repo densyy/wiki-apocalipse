@@ -1,0 +1,86 @@
+==============================================================================
+CODIGO: 75-010
+TITULO: Como captar água de chuva em grande escala
+CATEGORIA: 75 - Tecnologias apropriadas para regiões tropicais
+TEMPO: 180 minutos
+RISCO: medio
+EXIGE: telhado limpo, calhas, cisterna tampada, tela fina, tubos, escada
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, chuva, captação, cisterna, calha, tanque, filtro
+==============================================================================
+
+OBJETIVO
+--------
+Captar e armazenar água da chuva de telhados para uso não potável.
+
+QUANDO USAR
+-----------
+Quando chove muito e a fonte de água é distante ou insuficiente.
+Quando o telhado é de metal, cerâmica ou fibra, sem pintura tóxica.
+Para irrigar hortas, limpar pátios e dar água aos animais.
+Quando a comunidade precisa de reserva para o tempo seco.
+
+NAO USE QUANDO
+--------------
+Não beba a água sem antes filtrar e ferver por completo.
+Não capte de telhado com amianto, chumbo ou pintura antiga de chumbo.
+Não use onde há poluição industrial ou chuva ácida frequente.
+
+MATERIAIS
+---------
+- Telhado de metal, cerâmica ou fibra (nunca amianto nem chumbo).
+- Calhas e tubos de descida (PVC ou metal sem ferrugem).
+- Tela de malha fina (peneira ou nylon) para a boca da calha.
+- Separador de primeira água (garrafa cortada ou tubo com torneira).
+- Cisterna tampada (tanque plástico atóxico ou alvenaria revestida).
+- Torneira ou registro na saída da cisterna.
+- Escada firme e cinto para quem for ao telhado.
+- Balde, escova e água para limpar telhado e calhas.
+
+PROCEDIMENTO
+------------
+1. Limpe o telhado e as calhas com escova e água antes da estação chuvosa.
+2. Coloque a tela fina na boca de cada calha para reter folhas.
+3. Fixe as calhas com queda de aproximadamente 3 cm por metro.
+4. Leve a calha até o tubo de descida e conecte-o ao separador.
+5. Instale o separador de primeira água antes da entrada da cisterna.
+6. Regule o separador para desviar aproximadamente 2 mm de chuva.
+7. Cubra a entrada da cisterna com tela para barrar mosquitos.
+8. Tampe a cisterna, deixando só a entrada tubulada e a torneira.
+9. Fixe a torneira firme, acima do chão, fora de água parada.
+10. Desvie a primeira chuva para fora, sem guardar essa água.
+11. Confira vazamentos nas emendas antes de encher a cisterna.
+12. Esvazie o separador pela torneira de dreno após cada chuva.
+13. Limpe calhas e tela a cada duas semanas na estação chuvosa.
+
+ATENCAO
+-------
+A água de telhado não é potável: pode ter fezes de aves, poeira e
+resíduos do telhado. Beba só depois de filtrar e ferver.
+A água parada cria mosquitos: mantenha a cisterna sempre tampada.
+A água pesa muito: 1.000 litros são aproximadamente 1 tonelada.
+Apoie a cisterna em base firme e plana para não rachar ou tombar.
+Quem sobe ao telhado corre risco de queda: use cinto e escada firme.
+Não permita retorno de água suja da cisterna para a calha.
+Se cheiro ou sabor mudarem, esvazie e limpe toda a cisterna.
+
+SE NAO TIVER
+------------
+Sem cisterna, use tambores ou baldes de plástico atóxico bem tampados.
+Sem separador, desvie o tubo para fora nos primeiros minutos de chuva.
+Sem tela, dobre pano limpo na calha e troque-o com frequência.
+Sem calhas, incline uma lona limpa para um recipiente tampado.
+Nunca improvise com amianto, pneu ou embalagem que teve óleo ou veneno.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água chega sem folhas, lama ou insetos visíveis à cisterna.
+A cisterna enche sem vazamento e a tampa fecha por completo.
+A torneira dá água sem cheiro estranho e sem partículas.
+Não há água parada nem larvas de mosquito perto da cisterna.
+
+FONTES
+------
+Prática consolidada de captação de água da chuva em regiões tropicais,
+difundida por órgãos de saneamento e extensão rural: OMS, CDC e Embrapa.
+Resumo operacional: não substitui projeto técnico nem treinamento.

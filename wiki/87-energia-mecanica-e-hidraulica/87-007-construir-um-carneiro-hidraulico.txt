@@ -1,0 +1,86 @@
+==============================================================================
+CODIGO: 87-007
+TITULO: Como construir um carneiro hidráulico
+CATEGORIA: 87 - Energia mecânica e hidráulica tradicionais
+TEMPO: 240 minutos
+RISCO: medio
+EXIGE: queda d'água, tubo de adução, válvula de golpe e câmara de ar
+REVISAO: 2026-11
+PALAVRAS-CHAVE: carneiro hidráulico, golpe de ariete, válvula, água, bomba
+==============================================================================
+
+OBJETIVO
+--------
+Construir uma bomba que use o golpe da água para elevá-la sem motor.
+
+QUANDO USAR
+-----------
+Quando houver um córrego com queda e água corrente o ano inteiro.
+Quando se precisar levar água a um ponto mais alto sem energia.
+Quando a manutenção precisa ser simples e barata.
+Quando o consumo de água for moderado e contínuo.
+
+NAO USE QUANDO
+--------------
+Não use sem queda suficiente entre a água e o local da bomba.
+Não use onde a água tenha muita areia ou folhas que entupam válvulas.
+Não use se o local ficar sujeito a congelamento da tubulação.
+
+MATERIAIS
+---------
+- Tubo de adução descendo do córrego até a bomba.
+- Corpo da bomba em ferro fundido, bronze ou tubo de PVC reforçado.
+- Válvula de admissão de abertura rápida (válvula de pé ou borboleta).
+- Válvula de retorno na saída para a tubulação de recalque.
+- Câmara de ar para amortecer o golpe e regular o fluxo.
+- Tubo de recalque até o reservatório elevado.
+- Vedantes de borracha, parafusos e suportes de concreto.
+
+PROCEDIMENTO
+------------
+1. Escolha ponto com queda livre entre o córrego e a bomba.
+2. Meça a altura de água disponível e a altura de recalque.
+3. Assente a bomba sobre base firme de concreto ou pedra.
+4. Ligue o tubo de adução da captação até a entrada da bomba.
+5. Instale a válvula de admissão na entrada do corpo da bomba.
+6. Coloque a válvula de retorno na saída do recalque.
+7. Monte a câmara de ar imediatamente após a válvula de retorno.
+8. Ligue o tubo de recalque até o reservatório mais alto.
+9. Abra a água devagar e encha todo o tubo de adução.
+10. Regule o peso ou a mola da válvula de admissão.
+11. Aguarde os golpes ritmados que empurram a água para cima.
+12. Ajuste a câmara de ar até o golpe ficar constante.
+13. Meça a vazão no reservatório e anote o rendimento.
+14. Confira apertos e vazamentos em todas as ligações.
+15. Proteja o conjunto com tampa e drenagem para a limpeza.
+
+ATENCAO
+-------
+O golpe de água é violento: nunca abra a tampa com a bomba em marcha.
+A câmara de ar precisa de ar; se ela encher de água, o golpe enfraquece.
+Use óculos e luvas ao regular a válvula sob pressão.
+Se o golpe parar, feche a entrada e verifique as válvulas.
+Areia e folhas desgastam as válvulas: instale um filtro na captação.
+Em congelamento, esvazie e proteja a tubulação.
+Nunca use a bomba para água potável sem filtragem e desinfecção.
+
+SE NAO TIVER
+------------
+Sem válvula de admissão, use uma válvula de bola adaptada com peso.
+Sem câmara de ar, use um reservatório de ar de metal ou PVC.
+Sem tubo de recalque, use mangueira reforçada presa com braçadeiras.
+Sem concreto, fixe a bomba sobre madeira presa com estacas.
+Sem filtro, use pano ou tela de arame na entrada de captação.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os golpes ocorrem em ritmo regular, sem falhas longas.
+A água chega ao reservatório elevado em fluxo contínuo.
+A câmara de ar mantém o golpe firme e sem trancos secos.
+Não há vazamentos nas ligações nem desgaste rápido das válvulas.
+
+FONTES
+------
+Prática consolidada do carneiro hidráulico (ariete hidráulico),
+difundida por manuais de engenharia rural e agrotecnologia desde o
+século XIX. Base em documentos de extensão rural sobre bombas sem motor.

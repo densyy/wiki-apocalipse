@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 64-023
+TITULO: Como realizar análises básicas de solo
+CATEGORIA: 64 - Laboratório, diagnóstico e análises
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: pote de vidro com tampa, água, papel de pH, luvas, caderno
+REVISAO: 2026-11
+PALAVRAS-CHAVE: solo, textura, ph, acidez, matéria orgânica, drenagem
+==============================================================================
+
+OBJETIVO
+--------
+Avaliar textura, acidez, matéria orgânica e drenagem do solo.
+
+QUANDO USAR
+-----------
+Antes de plantar hortaliças ou árvores em terreno que você não conhece.
+Quando as plantas crescem mal apesar de água e luz suficientes.
+Para decidir se o solo precisa de cal, composto ou drenagem.
+Para comparar cantos do terreno antes de escolher o local da horta.
+
+NAO USE QUANDO
+--------------
+Com suspeita de chumbo, agrotóxico ou combustível, estes testes não medem
+contaminantes: não os use para liberar solo para alimentos sem laudo.
+
+MATERIAIS
+---------
+- Pá, espátula ou colher de metal limpa.
+- Pote de vidro transparente com tampa (garrafa plástica cortada).
+- Água limpa.
+- Papel indicador de pH com escala (litmus dá só aproximação).
+- Peneira ou pano limpo (coe com as mãos).
+- Luvas (saco plástico é barreira fraca; lave as mãos depois).
+- Caderno, lápis e recipiente pequeno com tampa para a amostra.
+
+PROCEDIMENTO
+------------
+1. Escolha de 5 a 10 pontos espalhados, longe de lixo, muro e estrada.
+2. Raspe 5 cm da superfície em cada ponto e descarte essa camada.
+3. Cave até aproximadamente 15 cm e retire uma porção de cada ponto.
+4. Junte as porções em recipiente limpo e misture: é a amostra composta.
+5. Retire pedras, raízes e insetos; quebre os torrões com as mãos.
+6. Separe uma parte úmida e deixe outra secando ao ar, na sombra.
+7. Coloque aproximadamente 1 xícara de terra seca no pote de vidro.
+8. Encha com água até três quartos do pote e tampe.
+9. Agite forte por 1 minuto para desfazer os torrões.
+10. Deixe assentar aproximadamente 1 minuto e marque a areia no fundo.
+11. Agite de novo, espere aproximadamente 2 horas e marque o silte.
+12. Espere 24 horas ou mais e marque a camada de argila no topo.
+13. Compare as camadas: a maior define areia, silte ou argila.
+14. Aperte terra úmida: sem bola é areia; com bola é franco; grudou,
+    esticou e ficou lisa é argila.
+15. Coloque 2 colheres de terra seca em recipiente pequeno.
+16. Adicione água até formar pasta mole, aproximadamente 2 colheres.
+17. Espere 10 minutos e encoste o papel de pH na pasta.
+18. Compare a cor com a escala; anote valor, data e local.
+19. Repita em 3 pontos da amostra e anote os 3 valores.
+20. Observe a terra seca: escura tem mais matéria orgânica; clara, menos.
+21. Cheire a terra recém-virada: odor de mofo ou podre indica umidade
+    excessiva.
+22. Aperte uma porção úmida: gruda e não pinga é bom; pinga é encharcado;
+    desfaz é seco.
+23. Cave um buraco de aproximadamente 20 cm e encha de água.
+24. Meça o tempo de infiltração: menos de 1 hora é drenagem rápida;
+    acima de 4 horas é lenta.
+
+ATENCAO
+-------
+Solo pode abrigar fungos, bactérias e parasitas: use luvas e lave as mãos.
+Não inale pó: umedeça o solo antes de mexer e trabalhe longe de gente.
+Evite amostrar perto de estrada, indústria, depósito ou madeira pintada.
+A cor e o tato dão só estimativa; não substituem laudo de laboratório.
+Papel de pH barato varia; leia na luz do dia e anote a escala usada.
+Se aparecer odor químico forte, cor estranha ou espuma, pare e afaste.
+Não use esta análise para autorizar consumo de alimentos do local.
+
+SE NAO TIVER
+------------
+Sem papel indicador, use suco de repolho-roxo: vira vermelho no ácido e
+azul ou esverdeado no alcalino; é só aproximação, não dá valor de pH.
+Sem pote de vidro, use garrafa plástica transparente cortada e tampada.
+Sem peneira, coe com pano limpo ou retire as pedras com as mãos.
+Sem luvas, use saco plástico como barreira fraca e lave as mãos depois.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A terra seca deu camadas visíveis e o tato confirmou a textura anotada.
+O papel mudou de cor e pelo menos 2 dos 3 valores de pH ficaram próximos.
+O caderno traz data, local e uma descrição clara: textura, pH e drenagem.
+
+FONTES
+------
+Prática consolidada de análise básica de solo difundida por extensão
+agrícola e por fabricantes de kits caseiros de pH e nutrientes.
+Pista inicial: artigo de revisão sobre testes de solo (Soil test), que cita
+orientações de amostragem e de contaminação por chumbo da Extensão da
+Universidade de Minnesota e da Iowa State University. Valores aproximados;
+resumo de campo, sem laboratório e sem substituir treinamento.

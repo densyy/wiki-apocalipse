@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 09-040
+TITULO: Como construir uma biblioteca física de emergência
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 90 minutos
+RISCO: baixo
+EXIGE: pasta ou caixa, sacos seláveis, papel, caneta, impressora
+REVISAO: 2026-11
+PALAVRAS-CHAVE: biblioteca, manuais, mapas, documentos, socorros, papel
+==============================================================================
+
+OBJETIVO
+---------
+Monte um conjunto portátil de papel com manuais, mapas e documentos úteis.
+
+QUANDO USAR
+-----------
+Quando a internet e o celular falham e surge dúvida de como agir.
+Quando a energia cai e não há como abrir arquivos digitais.
+Antes de evacuar, para levar referências e documentos consigo.
+
+NAO USE QUANDO
+--------------
+Com celular e internet ativos, confira a fonte digital primeiro:
+ela pode estar mais atualizada que o papel.
+
+MATERIAIS
+---------
+- Pasta ou caixa pequena que caiba na mochila e feche bem.
+- Sacos plásticos seláveis, papel, caneta e lápis.
+- Impressora (ou cópias feitas em papelaria).
+- Manual de primeiros socorros, mapa local, plano e contatos.
+
+PROCEDIMENTO
+------------
+1. Escolha uma pasta ou caixa resistente que feche bem.
+2. Liste o que entra: manual, mapa, plano, contatos e documentos.
+3. Imprima o material e confira se está legível.
+4. Escreva à mão o plano e os contatos, sem depender da impressora.
+5. Coloque cada assunto em um saco plástico e rotule a frente.
+6. Guarde os originais em local seguro; leve só cópias na pasta.
+7. Anote a data em cada folha e o código dos tutoriais de referência.
+8. Guarde a pasta fechada em local seco; revise a cada seis meses.
+
+ATENCAO
+-------
+Papel desatualiza: um mapa ou manual antigo pode induzir a erro.
+Não leve documentos originais na pasta portátil: use cópias.
+Umidade, calor e água destroem o papel: mantenha tudo selado e seco.
+Manual de primeiros socorros não substitui treinamento nem médico.
+Se o papel divergir de orientação de autoridade de saúde, prefira
+a mais recente e anote a dúvida.
+
+SE NAO TIVER
+------------
+Sem impressora, copie à mão contatos, plano e passos essenciais.
+Sem saco selável, dobre o papel dentro de garrafa plástica seca.
+Sem mapa impresso, desenhe ruas, pontos de encontro e rotas de saída.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Itens da lista presentes, legíveis, dentro dos sacos e na pasta fechada.
+Uma pessoa acha o assunto em menos de um minuto, sem ligar aparelho.
+
+FONTES
+------
+Prática consolidada: FEMA e Ready.gov (material de referência, mapas e
+documentos em recipiente portátil à prova d'água); Cruz Vermelha
+Canadiana e Portuguesa (manual de primeiros socorros e plano em papel).

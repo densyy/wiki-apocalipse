@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 29-030
+TITULO: Como criar uma biblioteca de manuais em PDF
+CATEGORIA: 29 - Tecnologia, computação e informática offline
+TEMPO: 90 minutos
+RISCO: baixo
+EXIGE: computador, manuais em pdf, mídia externa de armazenamento
+REVISAO: 2026-11
+PALAVRAS-CHAVE: manual, pdf, biblioteca, catálogo, busca, offline, cópia
+==============================================================================
+
+OBJETIVO
+--------
+Montar um conjunto de manuais em pdf organizado e aberto sem internet.
+
+QUANDO USAR
+-----------
+Quando vários manuais precisam ser encontrados depressa sem rede.
+Quando o trabalho acontece longe de internet e de energia.
+
+NAO USE QUANDO
+--------------
+Não serve para manuais que só abrem com conta ou conexão online.
+Não substitui a leitura do manual nem o treinamento prático.
+
+MATERIAIS
+---------
+- Computador com espaço livre e leitor de pdf local.
+- Arquivos dos manuais em pdf, de preferência com texto selecionável.
+- Mídia externa: pendrive ou disco externo.
+- calibre: organiza livros digitais e busca texto sem rede (opcional).
+- Bloco de notas ou arquivo catalogo.txt para servir de índice.
+
+PROCEDIMENTO
+------------
+1. Crie uma pasta chamada Manuais no computador.
+2. Dentro dela, crie subpastas por tema, como elétrica e ferramentas.
+3. Copie cada manual para a subpasta do tema correspondente.
+4. Renomeie o arquivo com nome curto, tema e versão, sem acentos.
+5. Anote em catalogo.txt o nome, o tema e a fonte de cada manual.
+6. Abra cada pdf e confira se mostra texto e não só imagem.
+7. Adicione a pasta Manuais ao calibre, se ele estiver disponível.
+8. Preencha título e etiquetas de cada manual no calibre.
+9. Digite uma palavra do título na busca e confira o resultado.
+10. Copie a pasta Manuais inteira para a mídia externa.
+11. Abra um manual direto da mídia externa para conferir a cópia.
+
+ATENCAO
+-------
+Pdf de imagem ocupa espaço e não permite busca; prefira pdf com texto.
+Cópia não conferida pode estar corrompida e abrir em branco.
+Não confie em um só lugar: discos e pendrives falham sem aviso.
+
+SE NAO TIVER
+------------
+Sem calibre, use a busca de arquivos do próprio sistema operacional.
+Sem mídia externa, guarde segunda cópia em outra pasta do computador.
+Sem espaço, priorize os manuais que mais usa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A busca encontra o título digitado e o pdf abre com texto legível.
+A mídia externa tem o mesmo número de arquivos da pasta original.
+
+FONTES
+------
+Manual do usuário do calibre, de Kovid Goyal, sobre bibliotecas e busca.
+NIST IR 8387 e guia do NIST sobre integridade de arquivos por checksum.
+Biblioteca do Congresso dos EUA: preservação de pdf e do formato pdf/a.
+Prática consolidada de organização de acervos e cópias de segurança.

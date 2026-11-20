@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 09-033
+TITULO: Como identificar rios e cursos d'água em mapas
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: mapa impresso com legenda, lápis, bússola ou norte conhecido
+REVISAO: 2026-11
+PALAVRAS-CHAVE: rio, córrego, curso d'água, mapa, legenda, azul, navegação
+==============================================================================
+
+OBJETIVO
+--------
+Reconheça rios e córregos no mapa e descubra o sentido da correnteza.
+
+QUANDO USAR
+-----------
+Quando precisa encontrar água sem internet nem GPS.
+Quando vai caminhar até um rio ou atravessá-lo.
+Quando escolhe onde acampar perto de um curso d'água.
+Quando precisa decidir por onde seguir em terreno desconhecido.
+
+NAO USE QUANDO
+--------------
+Quando o mapa não tiver legenda: cores e sinais variam por editora.
+Quando a decisão depende de água potável: o mapa não mostra qualidade.
+
+MATERIAIS
+---------
+- Mapa impresso com legenda (carta topográfica de preferência).
+- Lápis para marcar o trecho escolhido.
+- Bússola (ou sol e sombra para achar o norte).
+- Papel para anotar o nome do rio e a data do mapa.
+
+PROCEDIMENTO
+------------
+1. Abra a legenda do mapa e localize o símbolo de água corrente.
+2. Confira a cor: rios e córregos aparecem em azul no mapa topográfico.
+3. Leia o traço: linha azul contínua é água o ano todo.
+4. Leia o traço tracejado: é curso intermitente, que corre só parte do ano.
+5. Siga a linha azul com o dedo, do ponto mais fino para o mais largo.
+6. Note onde a linha engrossa: a jusante (para onde vai a água) ela cresce.
+7. Ache as curvas de nível: linhas que unem pontos de igual altitude.
+8. Veja onde as curvas cruzam a linha azul: formam um "V".
+9. Olhe a ponta do V: ela aponta para montante (de onde vem a água).
+10. Confirme o fluxo: a água corre no sentido oposto à ponta do V.
+
+ATENCAO
+-------
+Linha tracejada pode estar seca: não conte com ela para beber.
+Mapa antigo pode mostrar rio que mudou de curso ou que secou.
+Azul no mapa indica água, não potabilidade: trate antes de beber.
+Se o mapa não tiver legenda, pare: não adivinhe o símbolo.
+
+SE NAO TIVER
+------------
+Sem legenda, compare com mapa da mesma região de editora conhecida.
+Sem topográfico, use mapa rodoviário: mostra rios, omite córregos.
+Sem bússola, use o sol: ele nasce a leste e se põe a oeste.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você aponta a linha azul e indica o sentido da água sem hesitar.
+A ponta do V das curvas fica voltada para o trecho mais alto do rio.
+
+FONTES
+------
+Publicação "Topographic map symbols", do USGS (2005), sobre símbolos.
+Prática consolidada: drenagem em azul e curvas em V ao cruzar rios.

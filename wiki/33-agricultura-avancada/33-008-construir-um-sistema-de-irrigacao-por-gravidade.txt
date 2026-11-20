@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 33-008
+TITULO: Como construir um sistema de irrigação por gravidade
+CATEGORIA: 33 - Agricultura avançada e autossuficiência rural
+TEMPO: 120 minutos
+RISCO: medio
+EXIGE: fonte elevada, mangueira ou calha, enxada, nivel improvisado
+REVISAO: 2026-11
+PALAVRAS-CHAVE: irrigação, gravidade, sulco, calha, água, horta, regar
+==============================================================================
+
+OBJETIVO
+--------
+Conduzir água de uma fonte elevada até a horta, sem bomba e sem energia.
+
+QUANDO USAR
+-----------
+Existe fonte de água permanente mais alta que a horta.
+O terreno tem declive suave e contínuo até a área plantada.
+Não há energia para bombas e regar com balde custa muito trabalho.
+
+NAO USE QUANDO
+--------------
+Fonte mais baixa que a horta: a gravidade não faz a água subir.
+Declive acima de aproximadamente 0,5% erode; água suja atinge folhas.
+
+MATERIAIS
+---------
+- Fonte elevada e mangueira ou calha (bambu, PVC ou madeira).
+- Enxada, estacas e nível improvisado (garrafa com água).
+- Pedras, terra, pano ou tela e balde.
+
+PROCEDIMENTO
+------------
+1. Escolha fonte permanente mais alta que a horta.
+2. Confirme com mangueira cheia de água que a saída é mais baixa.
+3. Marque o caminho da calha com estacas, sem curvas fechadas.
+4. Instale a calha com declive de aproximadamente 0,1% a 0,5%.
+5. Nivele os apoios com pedras e terra até correr sem poças.
+6. Coloque pano ou tela na entrada para reter folhas.
+7. Abra sulcos em V, no declive, com aproximadamente 0,15 m de fundo.
+8. Para feijão, deixe aproximadamente 0,9 a 1,2 m entre sulcos.
+9. Regule a vazão até a água não arrastar terra dos sulcos.
+10. Cronometre o enchimento de um balde e anote o tempo.
+11. Irrigue até umedecer o fim do sulco, feche e tampe a entrada.
+
+ATENCAO
+-------
+Declive acima de aproximadamente 0,5% erode e arrasta mudas.
+Vazão forte arrasta sementes; fraca deixa o fim do sulco seco.
+O sistema não trata a água: fonte suja contamina folhas e frutos.
+Calha destampada cria larvas de mosquito: tampe ou esvazie após o uso.
+Sulco longo encharca o início e deixa o fim seco; encurte se preciso.
+
+SE NAO TIVER
+------------
+- Sem mangueira, use calha de bambu, PVC cortado ou tábua com bordas.
+- Sem nível, use garrafa e mangueira com água: as pontas igualam-se.
+- Sem torneira, dobre a mangueira; sem declive, eleve o reservatório.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água corre em fio contínuo, sem poças nem transbordo na calha.
+Toda a extensão do sulco fica úmida, sem escorrimento para fora.
+
+FONTES
+------
+Prática consolidada; resumo operacional, não substitui assistência.
+Embrapa, Ageitec, Irrigação por sulcos; Comunicado Técnico 165.
+FAO, Irrigation and Drainage Paper 56 (1998): necessidades hídricas.

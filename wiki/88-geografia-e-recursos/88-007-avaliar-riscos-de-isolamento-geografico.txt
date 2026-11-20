@@ -1,0 +1,86 @@
+==============================================================================
+CODIGO: 88-007
+TITULO: Como avaliar riscos de isolamento geográfico
+CATEGORIA: 88 - Geografia humana e recursos estratégicos
+TEMPO: 120 minutos
+RISCO: medio
+EXIGE: mapa, caderno, relógio e informação sobre rotas e ajuda
+REVISAO: 2026-11
+PALAVRAS-CHAVE: isolamento, acesso, estrada, ponte, evacuação, ajuda
+==============================================================================
+
+OBJETIVO
+--------
+Descobrir quão difícil é entrar, sair e receber ajuda na região,
+antes de depender das rotas existentes.
+
+QUANDO USAR
+-----------
+Ao escolher onde morar ou guardar suprimentos de longo prazo.
+Quando uma ponte ou estrada foi danificada e você precisa de rota.
+Ao planejar a evacuação de uma comunidade em caso de emergência.
+Antes de enviar alguém sozinho a uma área distante.
+Quando o grupo cresce e a capacidade de socorro fica incerta.
+
+NAO USE QUANDO
+--------------
+Não confie em rota que só funciona com bom tempo.
+Não atravesse área alagada, deslizamento ou ponte sem conservação.
+Não use como substituto de aviso oficial de interdição de estrada.
+Não planeje socorro contando com uma única pessoa ou veículo.
+
+MATERIAIS
+---------
+- Mapa rodoviário ou esquema desenhado com estradas e trilhas.
+- Caderno, lápis e relógio para cronometrar os trechos.
+- Lista de pontos críticos: pontes, travessias, serras e rios.
+- Informações sobre postos de saúde, delegacia e telefone ou rádio.
+- Perguntas para moradores sobre o que acontece na chuva forte.
+
+PROCEDIMENTO
+------------
+1. Desenhe no mapa todos os caminhos que ligam a área ao exterior.
+2. Marque o tempo de cada trecho a pé, a cavalo ou de veículo.
+3. Identifique pontes, balsas, vaus e travessias de rio.
+4. Pergunte o que acontece com cada trecho na estação chuvosa.
+5. Anote quantas horas a ajuda leva para chegar até o local.
+6. Verifique se existe sinal de rádio, telefone ou internet no local.
+7. Marque onde o sinal some ao longo do caminho.
+8. Relacione a distância até o posto de saúde mais próximo.
+9. Anote se há transporte próprio e quem pode dirigir ou guiar.
+10. Verifique se a rota tem alternativa em caso de bloqueio.
+11. Observe se o relevo impede evacuação rápida de idosos e crianças.
+12. Pergunte sobre acidentes recentes e onde eles aconteceram.
+13. Escreva uma nota de risco para cada trecho crítico.
+14. Defina um plano simples com rota principal e rota reserva.
+15. Registre quem sabe guiar cada rota e como avisar essa pessoa.
+
+ATENCAO
+-------
+Uma ponte única transforma qualquer dano em isolamento total.
+Vau de rio pode subir em minutos e levar pessoas e animais.
+Falta de sinal impede pedir ajuda mesmo com gente por perto.
+Rota longa exige mais comida, água e descanso do que o previsto.
+Evacuação de ferido depende de veículo e de estrada transitável.
+Respeite a decisão de autoridade que interdita trecho ou rodovia.
+
+SE NAO TIVER
+------------
+Sem mapa, desenhe as rotas de memória e confirme com quem viaja.
+Sem relógio, meça o trecho pelo tempo de caminhada conhecido.
+Sem informação sobre socorro, presuma o pior e aumente a reserva.
+Sem rota alternativa, evite depender de isolamento prolongado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você tem no mapa a rota principal, a reserva e os pontos críticos.
+O tempo de chegada da ajuda está anotado com folga.
+Cada trecho crítico tem um plano simples de contorno.
+Pelo menos duas pessoas sabem guiar a rota de saída.
+
+FONTES
+------
+Prática consolidada de análise de acessibilidade rural e planejamento
+de evacuação comunitária, sem documento único. Base: noções de
+logística de socorro, rotas de fuga e comunicação difundidas por
+defesa civil e organizações de proteção civil.

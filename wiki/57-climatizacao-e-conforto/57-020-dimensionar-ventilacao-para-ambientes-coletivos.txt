@@ -1,0 +1,74 @@
+==============================================================================
+CODIGO: 57-020
+TITULO: Como dimensionar ventilação para ambientes coletivos
+CATEGORIA: 57 - Refrigeração, climatização e conforto
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: fita métrica, papel, lápis, relógio, saco plástico grande
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ventilação, vazão, trocas de ar, ar fresco, sala, pessoas
+==============================================================================
+
+OBJETIVO
+--------
+Calcular quanta renovação de ar uma sala com muitas pessoas precisa.
+
+QUANDO USAR
+-----------
+Ao preparar sala de aula, refeitório ou abrigo coletivo.
+Quando o ar fica abafado, úmido ou com odor forte.
+
+NAO USE QUANDO
+--------------
+Quando o ar exterior estiver poluído, com fumaça, gás ou poeira.
+Renovar o ar nesse caso pode trazer mais dano do que alívio.
+
+MATERIAIS
+---------
+- Fita métrica ou cordão com nós a cada metro.
+- Papel, lápis e relógio para anotar e cronometrar.
+- Saco plástico grande, de capacidade impressa ou medida.
+- Ventilador, se houver.
+- Tira de papel leve para sentir o fluxo.
+
+PROCEDIMENTO
+------------
+1. Meça comprimento, largura e altura da sala, em metros.
+2. Multiplique as três para obter o volume em metros cúbicos.
+3. Conte o maior número de pessoas presentes ao mesmo tempo.
+4. Fixe a meta: pelo menos 5 trocas de ar por hora.
+5. Multiplique o volume pela meta para achar a vazão necessária.
+6. Multiplique as pessoas por 18 metros cúbicos por hora em aula,
+   ou por 9 em escritório, para conferir a vazão mínima.
+7. Escolha a maior das duas vazões como meta da sala.
+8. Prenda o saco na saída do ventilador e cronometre o enchimento.
+9. Divida a capacidade do saco pelo tempo e multiplique por 3,6.
+10. Some as vazões, compare com a meta e abra mais aberturas se faltar.
+
+ATENCAO
+-------
+Cinco trocas por hora reduzem partículas, mas não garantem ar seguro.
+Ambientes ocupados ou com pessoas vulneráveis precisam de mais ar.
+Para risco de contágio, CDPH e Lancet sugerem cerca de 50 metros
+cúbicos por hora por pessoa, valor maior que o mínimo destas contas.
+Acima de aproximadamente 40 graus, ventilador não refresca o corpo.
+Com tontura, pele quente e seca ou confusão, pare e procure ajuda.
+
+SE NAO TIVER
+------------
+Sem fita, meça com passos e anote o comprimento do passo.
+Sem saco, use balde de capacidade conhecida e cronometre o enchimento.
+Se o lado de fora estiver quente ou poluído, espere e não insista.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A vazão medida é igual ou maior que a meta anotada.
+A tira de papel presa na saída balança sem parar.
+O abafamento e o odor diminuem depois de alguns minutos.
+
+FONTES
+------
+CDC/NIOSH: pelo menos 5 trocas de ar por hora em ambientes ocupados.
+ASHRAE 62.1: 2,5 litros por segundo em escritório e 5 em sala de aula.
+CDPH e Lancet: 30 pés cúbicos por minuto por pessoa.
+Medição com saco: prática consolidada de campo.

@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 60-023
+TITULO: Como construir assentamentos em regiões frias
+CATEGORIA: 60 - Arquitetura, urbanismo e assentamentos
+TEMPO: 5 dias
+RISCO: critico
+EXIGE: mapa da região, caderno, fita de medição, bastão de nível, termômetro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: frio, assentamento, abrigo, aquecimento, geada, neve
+==============================================================================
+
+OBJETIVO
+--------
+Montar assentamento seguro e aquecido para frio prolongado.
+
+QUANDO USAR
+-----------
+Quando a região fica abaixo de zero por meses seguidos.
+Quando neve, vento forte ou geada duram toda a estação.
+Quando o grupo vai morar no local por mais de uma estação.
+
+NAO USE QUANDO
+--------------
+Nao use para substituir projeto de engenheiro em permafrost.
+Nao use em encosta com risco de deslizamento sem vistoria.
+Nao use se não houver fonte de calor e ventilação seguras.
+
+MATERIAIS
+---------
+- Mapa da região (desenho feito no local).
+- Caderno e lápis para anotar medidas e relatos.
+- Fita de medição de 20 m (corda com nós a cada metro).
+- Bastão de nível (régua ou mangueira transparente com água).
+- Termômetro de máxima e mínima (termômetro comum).
+- Material isolante local (palha seca, lã, papelão ou terra seca).
+- Lona impermeável (plástico grosso).
+
+PROCEDIMENTO
+------------
+1. Pergunte a moradores sobre a estação mais fria e a neve mais alta.
+2. Consulte o mapa de risco da Defesa Civil antes de marcar o local.
+3. Escolha terra firme acima do nível conhecido de enchente e de neve.
+4. Evite vale estreito e base de encosta, onde o ar frio se acumula.
+5. Meça a declividade; rejeite mais de aproximadamente 10 por cento.
+6. Identifique a direção do vento dominante no inverno.
+7. Erga quebra-vento de árvores ou estacas a favor do vento.
+8. Vire a entrada das moradias para o lado oposto ao vento.
+9. Trace valas de drenagem pelas curvas do terreno, nunca pela encosta.
+10. Reserve aproximadamente 4,5 metros quadrados cobertos por pessoa.
+11. Limite o pé-direito a aproximadamente 2 metros para aquecer menos ar.
+12. Agrupe as moradias e deixe passagem para valas e caminhos.
+13. Cave a fundação abaixo da profundidade de congelamento do local.
+14. Em permafrost, peça orientação de engenheiro antes de cavar.
+15. Coloque isolamento sob o piso e junto à borda da fundação.
+16. Vede frestas de porta, janela e piso com material isolante.
+17. Cubra a cobertura com lona e incline-a para escoar a neve.
+18. Instale fogão ou aquecedor com chaminé vedada e saída para fora.
+19. Nunca queime lenha, carvão ou gerador dentro de tenda sem chaminé.
+20. Instale detector de monóxido de carbono em cada moradia.
+21. Mantenha geradores a pelo menos 6 metros de portas e janelas.
+22. Deixe abertura de ventilação alta em cada moradia aquecida.
+23. Guarde lenha e combustível secos em depósito coberto e longe das camas.
+24. Isole a tubulação de água ou enterre-a abaixo da linha de geada.
+25. Teste aquecimento e ventilação por uma noite antes de ocupar o local.
+
+ATENCAO
+-------
+Monóxido de carbono não tem cheiro e pode matar em minutos.
+Nunca use fogo, grelha ou gerador dentro de tenda fechada.
+Hipotermia e congelamento matam: tremor e confusão são sinais de emergência.
+Procure atendimento imediato ao notar esses sinais.
+Fundação em solo que congela pode rachar e derrubar a casa na primavera.
+Neve acumulada pode desabar a cobertura; retire sem objeto cortante.
+
+SE NAO TIVER
+------------
+Sem fita, use corda com nós a cada metro.
+Sem termômetro, pergunte a data da primeira geada a moradores antigos.
+Sem isolante comprado, use palha seca, lã, papelão ou terra seca em camadas.
+Sem detector, não use aquecedor a combustão dentro de casa.
+Sem chaminé, não improvise fogo interno: use cobertores e abrigo comum.
+Sem engenheiro, não construa em permafrost nem em encosta cortada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A temperatura interna ficou acima de zero em noite de geada.
+Paredes e piso não têm fresta com entrada de ar.
+A chaminé não devolve fumaça para dentro da moradia.
+As valas escoam a neve derretida sem poças ao redor das casas.
+Nenhum morador apresentou tremor ou dor de cabeça na primeira noite.
+
+FONTES
+------
+ACNUR, Manual de Emergências: Emergency Shelter Solutions and Standards
+(aproximadamente 4,5 a 5,5 metros quadrados por pessoa no frio;
+pé-direito de aproximadamente 2 metros), Sustainable shelter construction,
+indoor climate, do mesmo ACNUR.
+CMHC do Canadá: Insulated slab-on-grade foundations, guia de fundações
+protegidas contra geada com isolamento.
+CDC: Safety Guidelines: During & After a Winter Storm (monóxido de carbono).

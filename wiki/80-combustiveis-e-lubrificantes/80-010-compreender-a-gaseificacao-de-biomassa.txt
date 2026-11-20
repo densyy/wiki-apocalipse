@@ -1,0 +1,78 @@
+==============================================================================
+CODIGO: 80-010
+TITULO: Como compreender a gaseificação de biomassa
+CATEGORIA: 80 - Produção de combustíveis e lubrificantes
+TEMPO: 35 minutos
+RISCO: medio
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: gaseificação, biomassa, pirólise, redução, tar, rendimento
+==============================================================================
+
+OBJETIVO
+--------
+Entender como a biomassa vira gás combustível dentro de um reator.
+
+QUANDO USAR
+-----------
+Ao escolher entre queimar madeira diretamente ou gaseificá-la.
+Ao dimensionar um forno, uma caldeira ou um gerador a gás.
+Ao investigar por que um reator produz fumaça em vez de gás.
+Ao comparar resíduos vegetais como fonte de energia.
+
+NAO USE QUANDO
+--------------
+Não tome esta leitura como projeto de engenharia completo.
+Não substitua cálculo térmico por regra empírica em instalação grande.
+Não aplique os valores a resíduos com plástico ou tratamento químico.
+
+MATERIAIS
+---------
+- Nenhum material. Este tutorial é de compreensão do processo.
+- Papel e lápis para anotar as quatro etapas (celular).
+- Amostra seca de madeira ou casca para observação (opcional).
+
+PROCEDIMENTO
+------------
+1. Reconheça a primeira etapa: secagem, até cerca de 100 graus.
+2. Observe que a água da madeira sai como vapor antes da queima.
+3. Identifique a pirólise, a partir de cerca de 200 a 300 graus.
+4. Entenda que a pirólise libera gases, alcatrão e carvão sólido.
+5. Localize a zona de oxidação, onde parte do carvão queima.
+6. Note que essa queima fornece o calor das outras etapas.
+7. Estude a redução, em cerca de 700 a 900 graus.
+8. Veja que o vapor e o dióxido reagem com o carbono quente.
+9. Registre os produtos: monóxido de carbono e hidrogênio.
+10. Compare os agentes: ar dá gás fraco; vapor dá mais hidrogênio.
+11. Entenda que o tar é indesejado e deve ser filtrado.
+12. Relacione umidade alta com mais fumaça e menos gás útil.
+13. Observe que pedaços grandes dificultam a passagem do gás.
+14. Resuma: secar, pirolisar, oxidar e reduzir, nessa ordem.
+
+ATENCAO
+-------
+As temperaturas citadas são aproximadas e variam com o material.
+Gaseificação não é o mesmo que queima completa: o oxigênio é limitado.
+Reator mal vedado queima o gás dentro dele e só solta fumaça.
+Biomassa úmida gasta calor para evaporar água e rende menos.
+O gás gerado contém monóxido: nunca o acumule em ambiente fechado.
+Tar e partículas danificam filtros, mangueiras e queimadores.
+
+SE NAO TIVER
+------------
+Sem forno, desenhe as quatro zonas em papel e estude o fluxo.
+Sem termômetro, use a cor da chama como indicação grosseira.
+Sem amostra, observe uma fogueira e identifique fumaça e brasas.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue nomear as quatro etapas na ordem correta.
+Você explica por que o vapor aumenta o teor de hidrogênio.
+Você aponta a umidade como causa comum de baixo rendimento.
+Você distingue gás combustível de fumaça e de alcatrão.
+
+FONTES
+------
+Conceitos de engenharia térmica e de tecnologia de gaseificação de
+biomassa, comuns em manuais de bioenergia e em literatura universitária
+sobre conversão termoquímica. Leitura extra: 80-009.

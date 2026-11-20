@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 24-004
+TITULO: Como reforçar portas e janelas
+CATEGORIA: 24 - Segurança pessoal e proteção comunitária
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: parafusos longos, chave ou furadeira, serra, óculos e luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: porta, janela, reforço, arrombamento, tranca, batente, fuga
+==============================================================================
+
+OBJETIVO
+--------
+Dificultar a abertura forçada de portas e janelas sem fechar a rota de fuga.
+
+QUANDO USAR
+-----------
+Quando a porta de entrada tiver frestas ou batente de madeira fraco.
+Quando a fechadura ou as dobradiças estiverem com parafusos curtos.
+Quando janelas ou portas de correr ficarem sem tranca no trilho.
+Depois de arrombamento, tentativa de arrombamento ou vandalismo.
+Antes de deixar a casa desocupada por vários dias.
+
+NAO USE QUANDO
+--------------
+Quando a abertura for a única saída e não houver outra rota de fuga.
+Quando quem mora na casa não conseguir abrir a tranca por dentro.
+Quando houver fio elétrico ou tubo de gás embutido no batente.
+
+MATERIAIS
+---------
+- Parafusos longos, de aproximadamente 8 cm, para madeira (ou cavilhas).
+- Placa de metal para reforçar a placa da fechadura no batente.
+- Fechadura suplementar de superfície, se a porta permitir (tranca).
+- Barra de madeira maciça ou tubo de metal para o trilho da janela.
+- Chave de fenda ou furadeira com broca de madeira.
+- Serra ou estilete para cortar a barra.
+- Óculos de proteção, luvas e fita medidora (barbante ou corda).
+- Pano seco para limpar a área de trabalho.
+
+PROCEDIMENTO
+------------
+1. Abra e feche a porta várias vezes e observe onde aparece folga.
+2. Confira se a lingueta da fechadura encosta no batente sem bater atrás.
+3. Retire um parafuso curto de cada vez da fechadura e das dobradiças.
+4. Antes de substituir, confirme que não há fio ou tubo no batente.
+5. Coloque parafuso longo no lugar de cada parafuso curto retirado.
+6. Aperte os parafusos até a cabeça ficar rente à madeira.
+7. Aparafuse a placa de metal reforçada sobre a placa da fechadura.
+8. Feche a porta e confirme que a lingueta entra na placa sem folga.
+9. Instale a fechadura suplementar na altura indicada pelo fabricante.
+10. Meça o comprimento do trilho da janela ou da porta de correr.
+11. Corte a barra no tamanho exato medido, sem sobra que atrapalhe.
+12. Encoste a barra no trilho, sem parafusá-la nem prendê-la por fora.
+13. Feche a folha e empurre: a barra deve impedir o deslizamento.
+14. Retire a barra com a mão, de dentro, em um único movimento.
+15. Repita a medida e o teste em cada janela que abre.
+16. Limpe o piso e guarde as aparas de madeira e os parafusos soltos.
+17. Ensine cada morador a abrir e a fechar o reforço sem chave.
+18. Deixe a chave da fechadura suplementar em local conhecido por todos.
+
+ATENCAO
+-------
+Parafuso longo pode atravessar fio elétrico ou tubo de gás no batente.
+Confira o que há antes de furar e pare se encontrar qualquer tubulação.
+A serra e a furadeira causam cortes profundos: use óculos e luvas.
+Não trabalhe em escada alta sem outra pessoa segurando.
+Barra presa por fora, cadeado ou solda transforma a janela em armadilha.
+Em incêndio, a pessoa precisa abrir a saída com as próprias mãos.
+Nunca use armadilhas, arame farpado ou pregos expostos: ferem moradores.
+Reforço algum impede pessoa determinada; ele só atrasa a entrada.
+Não enfrente quem tentar arrombar: saia e avise os vizinhos.
+Se aparecer cheiro de gás ou faísca, pare e chame ajuda qualificada.
+
+SE NAO TIVER
+------------
+Sem parafuso longo, aperte os existentes e reforce com cavilhas.
+Sem placa de metal, use uma tira de ferro limpa, sem ferrugem.
+Sem barra de metal, use madeira maciça seca, não compensado mole.
+Sem ferramenta, não improvise com faca: pare e peça ajuda.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A porta fecha sem folga e a lingueta entra na placa de metal.
+Nenhuma cabeça de parafuso ficou saliente ou soltou ao apertar.
+Cada barra impede o deslizamento e sai do trilho com a mão, por dentro.
+Todos os moradores abriram a saída uma vez, sem chave e sem ajuda.
+
+FONTES
+------
+Prática consolidada de segurança residencial e prevenção de arrombamento.
+Rotas de fuga: orientação da NFPA sobre plano de fuga residencial.
+Nesta edição não foi possível consultar texto institucional integral.
+Por isso o texto ensina apenas medidas simples e reversíveis.
+Nenhum produto, marca ou número é endossado.

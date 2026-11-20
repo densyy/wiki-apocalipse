@@ -1,0 +1,85 @@
+==============================================================================
+CODIGO: 43-024
+TITULO: Como testar resistência de materiais de construção
+CATEGORIA: 43 - Produção de materiais de construção
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: corpos de prova curados, pesos ou sacos de areia, capacete, óculos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: resistência, compressão, ensaio, bloco, concreto, quebra
+==============================================================================
+
+OBJETIVO
+--------
+Verificar se blocos ou concreto caseiros aguentam a carga prevista na obra.
+
+QUANDO USAR
+-----------
+Ao terminar um lote de blocos, tijolos ou concreto e antes de usá-lo.
+Quando quiser comparar duas misturas ou dois dias de produção.
+Quando o material recebido veio de origem desconhecida.
+Antes de assentar parede, piso ou viga que vai sustentar peso.
+Quando o material ficou molhado, congelou ou foi exposto a calor forte.
+
+NAO USE QUANDO
+--------------
+Não use em peça já instalada que sustenta carga: o ensaio quebra a peça.
+Não use para obter número de projeto. Ensaio de campo só compara lotes.
+Não use sem espaço isolado onde a quebra não atinja ninguém.
+
+MATERIAIS
+---------
+- Pelo menos 3 corpos de prova iguais por lote.
+- Pesos, sacos de areia ou pedras de massa conhecida.
+- Duas pranchas rígidas para apoiar e cobrir o corpo de prova.
+- Régua ou trena para medir altura e deformação.
+- Capacete, óculos de proteção e luvas grossas.
+- Etiqueta e caderno para identificar e anotar cada ensaio.
+- Local plano, firme e isolado para a quebra.
+
+PROCEDIMENTO
+------------
+1. Espere a cura: 7 dias para leitura inicial, 28 dias para referência.
+2. Escolha 3 corpos de prova do mesmo lote e identifique cada um.
+3. Meça e anote largura, comprimento e altura de cada corpo.
+4. Coloque o corpo sobre uma prancha, no centro, em local plano.
+5. Apoie a segunda prancha sobre o corpo, nivelada.
+6. Calce o capacete, os óculos e as luvas antes de aplicar carga.
+7. Coloque o primeiro saco ou peso sobre a prancha superior.
+8. Some peso aos poucos, um saco por vez, com pausa de alguns segundos.
+9. A cada carga, meça a altura com a régua e anote no caderno.
+10. Continue até o corpo rachar, deformar ou quebrar.
+11. Anote a carga total na falha e o tipo de quebra observado.
+12. Repita com os outros corpos e com o lote de comparação.
+13. Compare as cargas de falha: maior carga indica material mais resistente.
+
+ATENCAO
+-------
+A quebra é súbita: estilhaços e pesos podem cair. Mantenha o rosto afastado.
+Use capacete e óculos sempre. Nunca teste com o peso apoiado sobre o pé.
+Este ensaio é comparativo. Não dá o valor de resistência de projeto.
+Normas de laboratório controlam taxa de carga e cura; aqui é aproximado.
+Umidade e temperatura mudam o resultado. Repita antes de concluir.
+Corpos diferentes dão valores diferentes. Use pelo menos 3 por lote.
+Se nada quebrar, anote o limite e pare. Não use carga além do seguro.
+Pare se aparecerem rachaduras em paredes ou apoios próximos. Busque ajuda.
+
+SE NAO TIVER
+------------
+Sem sacos, use flexão: apoie a peça em dois pontos.
+Pendure pesos no centro e meça a flecha (afundamento) com a régua.
+Esclerômetro só compara superfícies; exige calibração.
+Sem peso, bater com martelo dá só indício, nunca medida.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os 3 corpos do mesmo lote quebraram com cargas próximas entre si.
+O lote mais resistente aguentou carga visivelmente maior antes de falhar.
+As anotações trazem carga de falha, tipo de quebra e medidas de cada corpo.
+Nenhum estilhaço atingiu ninguém e a área ficou isolada durante o ensaio.
+
+FONTES
+------
+Família de referência: normas ASTM C39, C109 e C805 (esclerômetro).
+Publicação NRMCA CIP 35 sobre resistência à compressão do concreto.
+Prática consolidada de campo; resumo, não substitui ensaio de laboratório.

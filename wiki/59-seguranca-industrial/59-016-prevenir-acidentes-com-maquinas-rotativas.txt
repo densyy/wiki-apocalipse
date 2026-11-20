@@ -1,0 +1,88 @@
+==============================================================================
+CODIGO: 59-016
+TITULO: Como prevenir acidentes com máquinas rotativas
+CATEGORIA: 59 - Segurança industrial e riscos ocupacionais
+TEMPO: 50 minutos
+RISCO: alto
+EXIGE: autorização do responsável, EPIs, manual da máquina
+REVISAO: 2026-11
+PALAVRAS-CHAVE: máquina que gira, proteção, correia, eixo, emaranhamento
+==============================================================================
+
+OBJETIVO
+--------
+Evitar que peças girantes prendam, cortem ou atinjam o corpo.
+
+QUANDO USAR
+-----------
+Ao operar torno, fresadora, serra, esmeril ou máquina com eixo.
+Antes de ligar uma máquina que você não conhece.
+Ao trocar correia, disco, broca ou ferramenta de corte.
+Depois de uma manutenção ou de um quase acidente.
+Ao aproximar as mãos de uma peça em movimento.
+
+NAO USE QUANDO
+--------------
+Não remova guarda nem opere máquina com proteção retirada.
+Não ajuste, limpe ou troque ferramenta com o eixo em movimento.
+Este texto não substitui treinamento formal nem a NR-12 da empresa.
+
+MATERIAIS
+---------
+- Máquina com manual do fabricante ou placa de identificação.
+- Proteções da máquina: tampas, capas, grades e anteparos.
+- Dispositivo de travamento e etiqueta para sinalizar o quadro.
+- EPIs exigidos para a tarefa: óculos e proteção auditiva.
+- Autorização do responsável pela área para agir na máquina.
+
+PROCEDIMENTO
+------------
+1. Peça autorização ao responsável antes de agir na máquina.
+2. Leia o manual e identifique as partes que giram: eixo, correia,
+   polia, engrenagem, disco e mandril.
+3. Desligue a máquina e espere o eixo parar por completo.
+4. Aplique o travamento e a etiqueta para impedir religamento.
+5. Retire anéis, relógio, colares e tudo que possa prender.
+6. Prenda cabelo longo e vista roupa justa, sem mangas soltas.
+7. Confira se toda parte girante tem tampa, grade ou anteparo.
+8. Verifique se a proteção só sai com ferramenta.
+9. Confira se a parada de emergência está visível e ao alcance.
+10. Acione a parada de emergência com o responsável por perto.
+11. Nunca ponha a mão na zona de corte ou de emaranhamento.
+12. Use empurrador ou pinça para peça curta, nunca o dedo.
+13. Mantenha as mãos afastadas até a peça parar totalmente.
+14. Só retire o travamento quando o responsável autorizar.
+
+ATENCAO
+-------
+Peças girantes prendem cabelo, roupa, luva e joia em segundos.
+Um emaranhamento pode amputar ou matar antes de alguém parar a máquina.
+Nunca use luva larga, manga solta ou pano perto de eixo em movimento.
+Não confie só na parada de emergência: ela falha se estiver obstruída.
+Não remova proteção nem pule etapa para ganhar tempo.
+Se ouvir ruído estranho ou ver faísca, pare e chame o responsável.
+Se alguém ficar preso, acione a parada e chame socorro sem puxar.
+
+SE NAO TIVER
+------------
+Sem manual, observe a máquina desligada e peça orientação ao responsável.
+Sem proteção na máquina, não opere: peça a instalação da guarda.
+Sem travamento, mantenha a chave consigo e sinalize o quadro.
+Sem empurrador, use régua ou pinça de madeira, nunca a mão.
+Sem EPI adequado, pare a tarefa até o responsável fornecer o equipamento.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Toda parte que gira está coberta por guarda firme, sem abertura de alcance.
+A parada de emergência foi acionada e a máquina parou.
+O travamento foi aplicado e ninguém religou a máquina no serviço.
+As mãos e a roupa ficaram longe da zona de corte o tempo todo.
+
+FONTES
+------
+Norma Regulamentadora 12 do Ministério do Trabalho e Emprego, sobre
+segurança em máquinas e equipamentos, e seu manual de aplicação.
+Norma Regulamentadora 6, sobre equipamentos de proteção individual.
+Regra de proteção de máquinas da OSHA, 29 CFR 1910.212, e orientação
+do NIOSH sobre prevenção de acidentes com partes móveis.
+Resumo operacional de prática consolidada em segurança industrial.

@@ -1,0 +1,68 @@
+==============================================================================
+CODIGO: 29-035
+TITULO: Como preservar informações digitais por décadas
+CATEGORIA: 29 - Tecnologia, computação e informática offline
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: computador, duas mídias de armazenamento, caderno
+REVISAO: 2026-11
+PALAVRAS-CHAVE: dados, backup, cópias, formatos, checksum, migração, arquivo
+==============================================================================
+
+OBJETIVO
+--------
+Guardar arquivos importantes de modo que continuem legíveis e íntegros
+por décadas, mesmo sem internet.
+
+QUANDO USAR
+-----------
+Quando documentos, fotos ou registros precisam sobreviver por anos.
+Quando há risco de incêndio, roubo, umidade ou falha do computador.
+
+NAO USE QUANDO
+--------------
+Sem uma segunda mídia, o metodo nao garante preservacao; arranje uma.
+
+MATERIAIS
+---------
+- Computador com os arquivos e energia para copiá-los.
+- Duas mídias de armazenamento de tipos diferentes.
+- Caderno para anotar o conteúdo, o local das cópias e as senhas.
+
+PROCEDIMENTO
+------------
+1. Liste os arquivos prioritários e onde estão.
+2. Converta os mestres para formatos abertos: TXT, PNG ou WAV.
+3. Copie o conjunto para a primeira mídia.
+4. Copie o mesmo conjunto para a segunda mídia, de outro tipo.
+5. Guarde uma cópia em outro local e deixe uma offline.
+6. Gere o checksum SHA-256 de cada arquivo com sha256sum.
+7. Anote os checksums e as senhas no caderno.
+8. Confira os checksums a cada seis meses.
+9. Substitua qualquer arquivo divergente pela cópia boa.
+10. Migre para mídia e formato novos antes que os atuais falhem.
+
+ATENCAO
+-------
+Backup recente não é preservação: não detecta corrupção silenciosa.
+Cópias no mesmo HD, no mesmo lugar ou na mesma nuvem falham juntas.
+Checksum detecta mudança, mas não conserta: precisa de cópia boa.
+Formatos com perda, como JPEG e MP3, já descartam dados para sempre.
+Senha perdida torna o arquivo inacessível; anote-a ou não a use.
+
+SE NAO TIVER
+------------
+Sem segunda mídia, arranje outra o mais rápido possível.
+Sem checksum, abra cada arquivo e compare tamanho e data de alteração.
+Isso detecta menos erros, mas mostra arquivos vazios ou faltando.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Existem duas cópias completas em mídias ou locais diferentes.
+Uma cópia fica offline e ainda abre em pelo menos um dispositivo.
+Checksums atuais são iguais aos anotados na última revisão.
+
+FONTES
+------
+Digital Preservation Handbook, DPC, 2a ed., 2015: armazenamento,
+formatos e checksums; NDSA Levels; Library of Congress; NIST FIPS 180-4.

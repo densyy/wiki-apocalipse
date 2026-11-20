@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 28-010
+TITULO: Como criar um inventário manual
+CATEGORIA: 28 - Logística e gestão de recursos
+TEMPO: 45 minutos
+RISCO: baixo
+EXIGE: caderno reservado, lápis, etiquetas de papel, fita adesiva
+REVISAO: 2026-11
+PALAVRAS-CHAVE: inventário, estoque, contagem, ficha, falta, suprimentos
+==============================================================================
+
+OBJETIVO
+--------
+Registrar por escrito o que existe no estoque e a quantidade de cada item.
+
+QUANDO USAR
+-----------
+Quando chega um lote e ninguém anotou o que entrou.
+Antes de distribuir água, alimento ou remédio para várias pessoas.
+Quando outra pessoa mexeu no depósito e não registrou a saída.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+O inventário não recupera o que nunca foi anotado no dia da movimentação.
+
+MATERIAIS
+---------
+- Caderno reservado só para o estoque e lápis (caneta, se o local for seco).
+- Etiquetas de papel e fita adesiva (papel preso com barbante).
+
+PROCEDIMENTO
+------------
+1. Escolha um horário em que ninguém esteja retirando itens.
+2. Divida o depósito em áreas: uma pilha, caixa ou prateleira por área.
+3. Numere cada área com etiqueta presa na frente dela.
+4. Escreva na etiqueta o nome do item e o lote, se houver.
+5. Abra a caixa antes de contar; não confie só no rótulo.
+6. Conte as unidades da área e anote o número e o lugar no caderno.
+7. Conte de novo em ordem contrária; se divergir, repita até dar igual.
+8. Separe embalagens danificadas e itens vencidos.
+9. Separe itens que vencem em menos de três meses.
+10. Relacione os separados em lista própria, com quantidade e motivo.
+11. Escreva a data no alto da página, assine e guarde o caderno seco.
+
+ATENCAO
+-------
+Número errado é pior que nenhum: alguém distribui item inexistente.
+Confira embaixo das caixas, dentro dos sacos e atrás das pilhas.
+Itens vencidos ou danificados não entram na contagem de itens usáveis.
+Não corrija divergência escolhendo o maior número; recomece a contagem.
+Pare se faltar caixa inteira de água, alimento ou remédio.
+
+SE NAO TIVER
+------------
+Sem caderno, use folhas numeradas e presas; nunca deixe soltas.
+Sem etiqueta, escreva na fita adesiva e cole na frente da pilha.
+Sem segunda pessoa, conte duas vezes em ordens diferentes.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada área tem etiqueta legível e linha correspondente no caderno.
+A soma anotada bate com as unidades vistas nas pilhas.
+Data e assinatura estão legíveis no alto da página.
+
+FONTES
+------
+Logistics Cluster (WFP): guia de armazenagem física e contagem de estoque.
+Catholic Relief Services: Manual de Campo de Operações de Emergência.
+DanChurchAid: Manual de Logística, 3a edição, ficha e conferência.

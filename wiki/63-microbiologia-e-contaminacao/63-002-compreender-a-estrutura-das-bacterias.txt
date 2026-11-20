@@ -1,0 +1,90 @@
+==============================================================================
+CODIGO: 63-002
+TITULO: Como compreender a estrutura das bactérias
+CATEGORIA: 63 - Microbiologia, parasitologia e contaminação
+TEMPO: 25 minutos
+RISCO: baixo
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bactéria, parede, peptidoglicano, cápsula, flagelo
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer as partes básicas de uma bactéria e o que cada uma faz.
+
+QUANDO USAR
+-----------
+Quando ouvir falar de bactéria, infecção ou contaminação.
+Quando precisar entender como ela gruda, nada ou resiste.
+Quando estudar higiene, água suja ou alimento estragado.
+Ao avaliar risco em casa, no campo ou no trabalho.
+
+NAO USE QUANDO
+--------------
+Não use este texto para identificar a espécie pela forma.
+A estrutura não revela se a bactéria causa doença.
+Não use para decidir remédio: procure atendimento de saúde.
+
+MATERIAIS
+---------
+- Nenhum material é necessário para ler e compreender.
+- Para observar: microscópio ou figura (desenho também serve).
+- Caderno para anotar as partes (papel qualquer).
+
+PROCEDIMENTO
+------------
+1. Entenda o tipo: bactéria é célula procariótica, sem núcleo
+   fechado por membrana; o DNA fica solto no citoplasma.
+2. Note o tamanho: a maioria mede aproximadamente 1 a 5
+   micrômetros, visível só ao microscópio.
+3. Reconheça a membrana: camada de gordura (fosfolipídios) que
+   controla o que entra e sai da célula.
+4. Localize a parede celular: camada rígida de peptidoglicano que
+   dá forma e impede que a célula estoure.
+5. Distinga os grupos pela parede: Gram positivo tem parede
+   espessa com ácidos teicoicos; Gram negativo tem parede fina e
+   membrana externa com lipopolissacarídeo (LPS).
+6. Entenda o LPS: é a endotoxina do Gram negativo, solta quando a
+   bactéria morre; pode provocar febre e inflamação.
+7. Observe a cápsula: camada de açúcares fora da parede; ajuda a
+   grudar e protege da secura e da defesa do corpo.
+8. Separe as projeções: fímbrias são curtas e fixam a célula; o
+   flagelo é longo e move a bactéria no líquido.
+9. Veja o interior: ribossomos 70S fabricam proteínas e o DNA
+   fica em uma região chamada nucleoide.
+10. Reconheça plasmídeos: anéis pequenos de DNA separados, que
+   podem levar genes de resistência a antibióticos.
+11. Entenda o endósporo: forma de resistência que algumas
+   bactérias criam para sobreviver ao calor e à secura; não é
+   forma de reprodução.
+
+ATENCAO
+-------
+A forma e a cor não dizem se a bactéria é perigosa.
+Nunca cheire, prove ou toque algo para "testar" uma bactéria.
+Bactéria Gram negativa pode soltar endotoxina ao morrer; isso
+não se vê pela aparência.
+Endósporos resistem ao calor e a desinfetantes comuns; ferver
+pode não eliminá-los em situação de risco.
+Este texto é só compreensão, não é diagnóstico nem tratamento.
+
+SE NAO TIVER
+------------
+Sem microscópio, use uma figura para localizar as partes; não
+substitua a observação por cheirar ou provar.
+Sem condição de observar, leia as seções e memorize as funções.
+Não tente criar bactérias em casa para "ver" a estrutura.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você aponta, numa figura, membrana, parede, cápsula, flagelo,
+nucleoide, plasmídeos e endósporo, e explica o que cada um faz
+sem olhar o texto.
+
+FONTES
+------
+Conhecimento consolidado de microbiologia celular. Referências:
+OpenStax Microbiology, Medical Microbiology (NCBI Bookshelf, NIH)
+e materiais de microbiologia dos CDC. Resumo para compreensão,
+não substitui treinamento.

@@ -1,0 +1,90 @@
+==============================================================================
+CODIGO: 03-023
+TITULO: Como reconhecer hipertermia
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 5 minutos
+RISCO: critico
+EXIGE: boa luz para observar, termômetro digital se houver
+REVISAO: 2026-11
+PALAVRAS-CHAVE: hipertermia, golpe de calor, insolação, confusão, suor
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer os sinais de hipertermia e agir antes que vire emergência.
+
+QUANDO USAR
+-----------
+Pessoa exposta ao sol, ao calor intenso ou em local abafado.
+Alguém que fez esforço físico no calor e parou de suar de repente.
+Pessoa em veículo fechado sob o sol ou em ambiente sem ventilação.
+Alguém com dor de cabeça, tontura e confusão depois de calor forte.
+Bebê, idoso ou pessoa doente em dia de calor extremo, mole e sonolento.
+Pessoa com pele quente e vermelha e fala arrastada após insolação.
+
+NAO USE QUANDO
+--------------
+Não há contraindicacao para observar os sinais de hipertermia.
+Nunca espere o termômetro ou um resultado para pedir socorro.
+
+MATERIAIS
+---------
+- Boa luz para ver a pele e os olhos (ou lanterna).
+- Termômetro digital (opcional; meça apenas se não houver atraso).
+- Luvas descartáveis (ou sacola plástica) se for tocar a pessoa.
+- Papel e lápis para anotar a hora e os sinais observados.
+
+PROCEDIMENTO
+------------
+1. Garanta que o local é seguro para você antes de chegar perto.
+2. Afasta a pessoa do sol e leve-a para sombra ou lugar ventilado.
+3. Observe o estado de consciência: a pessoa responde ao chamado?
+4. Toque a pele com o dorso da mão: está quente e seca ou suada?
+5. Olhe a pele: vermelha, quente, seca ou com manchas arroxeadas.
+6. Peça para ela falar o nome e ouça se a fala está arrastada.
+7. Note se ela erra palavras, parece confusa ou muda de comportamento.
+8. Veja se está agitada, sonolenta ou com dificuldade de andar.
+9. Observe a respiração: rápida, difícil ou suspirando.
+10. Pergunte sobre dor de cabeça, tontura, náusea e visão embaçada.
+11. Com confusão e pele quente, suspeite de golpe de calor.
+12. Com confusão, convulsão ou desmaio, trate como caso grave.
+13. Meça a temperatura se houver termômetro e não houver atraso.
+14. Acima de 40 graus com confusão, confirme a suspeita de golpe de calor.
+15. Anote a hora em que os sinais foram vistos.
+16. Peça socorro médico imediatamente ao suspeitar de hipertermia.
+
+ATENCAO
+-------
+Pele seca não é regra: no golpe de calor por esforço a pessoa pode suar.
+Falta de confusão não afasta o risco se houver calor extremo e fraqueza.
+Termômetro axilar pode subestimar; valor baixo não afasta a suspeita.
+A pessoa pode não perceber o próprio risco e insistir em continuar.
+Não dê água, bebida alcoólica nem comida se ela não estiver acordada.
+Não espere melhorar: o dano a cérebro, rins e coração cresce com o tempo.
+Convulsão, coma ou pele muito quente exigem socorro imediato.
+O golpe de calor pode matar em minutos; peça ajuda antes de resfriar.
+
+SE NAO TIVER
+------------
+Sem termômetro: reconheça pelos sinais e peça socorro na mesma hora.
+Sem luvas: use sacola plástica limpa antes de tocar a pele da pessoa.
+Sem luz: peça a outra pessoa que ilumine com a tela do celular.
+Sem celular: envie alguém para pedir ajuda e fique com a pessoa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os sinais foram ligados ao calor e à exposição recente.
+A pessoa foi classificada: com confusão, com convulsão ou sem resposta.
+O socorro foi pedido antes de qualquer outra medida.
+A hora dos sinais ficou anotada para quem chegar.
+
+FONTES
+------
+Ministério da Saúde: "Insolação" e "Ondas de calor", portal Gov.br.
+Nota Técnica Conjunta 38/2023 do Ministério da Saúde sobre onda de calor.
+Plano de Contingência para Calor Extremo da Secretaria Municipal de Saúde
+do Rio de Janeiro (2024).
+CDC: "Heat-Related Illnesses" e "Heat and Cold Illness in Travelers",
+Yellow Book 2026.
+Manual MSD (edição profissional): "Golpe de calor".
+Diretrizes da National Weather Service dos Estados Unidos sobre calor.

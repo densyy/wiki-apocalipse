@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 39-002
+TITULO: Como funciona a refração da luz
+CATEGORIA: 39 - Óptica e instrumentos científicos
+TEMPO: 25 minutos
+RISCO: baixo
+EXIGE: copo transparente, lápis, papel, transferidor, luz
+REVISAO: 2026-11
+PALAVRAS-CHAVE: luz, refração, água, lente, índice, Snell, raio
+==============================================================================
+
+OBJETIVO
+--------
+Explicar e observar como a luz muda de direção entre dois meios.
+
+QUANDO USAR
+-----------
+Quando um objeto submerso parece quebrado ou deslocado.
+Quando o fundo de um copo parece subir com água.
+Para entender imagens em lentes, olho, prisma ou fibra.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Copo transparente com água (qualquer recipiente transparente).
+- Lápis ou caneta (palito ou fio).
+- Papel, lápis e transferidor (papel dobrado em quatro).
+
+PROCEDIMENTO
+------------
+1. Encha o copo com água até a metade.
+2. Apoie o lápis inclinado atravessando a superfície.
+3. Olhe de lado, na altura da água.
+4. Veja o lápis parecer quebrado na superfície.
+5. Desenhe uma linha reta: a superfície.
+6. Desenhe a normal, perpendicular à superfície.
+7. Trace um raio do ar até a superfície.
+8. Marque o ângulo com a normal no ar.
+9. Trace o raio na água mais perto da normal.
+10. Meça os ângulos: o da água é menor que o do ar.
+
+ATENCAO
+-------
+A refração é a mudança de direção da luz ao trocar de meio.
+A luz muda de velocidade, mas não de cor nem de frequência.
+O índice mede quanta a luz desacelera: ar 1, água 1,33.
+A lei de Snell liga os ângulos: n1 sen A1 vale n2 sen A2.
+Meça o ângulo sempre em relação à normal, nunca à superfície.
+Se o ângulo interno for grande, a luz não sai: reflete toda.
+Valores são aproximados; o índice muda com a cor da luz.
+
+SE NAO TIVER
+------------
+Sem transferidor, compare os ângulos só olhando o desenho.
+Sem copo, use qualquer recipiente transparente com água.
+Sem lápis, use um palito, um fio ou uma colher.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O lápis parece quebrado exatamente na linha da água.
+No desenho, o raio na água ficou mais perto da normal.
+Os ângulos obedecem aproximadamente à lei de Snell.
+
+FONTES
+------
+Óptica geométrica consolidada: HyperPhysics (Georgia State
+University) e Encyclopaedia Britannica. Índices aproximados.

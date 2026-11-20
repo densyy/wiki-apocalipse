@@ -1,0 +1,93 @@
+==============================================================================
+CODIGO: 54-025
+TITULO: Como pesquisar evidências científicas de plantas medicinais
+CATEGORIA: 54 - Fitoterapia e plantas medicinais
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: nome científico, caderno, acesso a biblioteca ou base de dados
+REVISAO: 2026-11
+PALAVRAS-CHAVE: planta medicinal, evidência, busca, revisão, ensaio, chá
+==============================================================================
+
+OBJETIVO
+--------
+Localizar e julgar estudos científicos sobre uma planta antes de usá-la.
+
+QUANDO USAR
+-----------
+- Quando alguém indica uma planta para tratar um problema de saúde.
+- Antes de tomar chá, extrato ou fitoterápico para uma doença.
+- Quando rótulo ou bula cita estudo sem dizer qual foi.
+- Quando a mesma planta aparece com nomes populares diferentes.
+- Quando a indicação veio de feira, vizinho ou rede social.
+
+NAO USE QUANDO
+--------------
+- Este texto avalia fontes; não substitui orientação profissional.
+- Não use para indicar planta, dose ou tratamento a outra pessoa.
+- Não use para trocar remédio prescrito por uma planta.
+
+MATERIAIS
+---------
+- Nome científico da planta, ou guia que permita confirmá-lo.
+- Caderno e lápis para registrar a busca e as conclusões.
+- Acesso a biblioteca, universidade ou base de dados científica.
+- Lista da doença em questão e dos remédios já em uso.
+- Tempo disponível para ler resumos e artigos com atenção.
+
+PROCEDIMENTO
+------------
+1. Escreva a pergunta: planta, parte usada, doença e quem vai usar.
+2. Confirme o nome científico da espécie no guia ou fonte botânica.
+3. Anote nomes populares e sinônimos usados para a mesma espécie.
+4. Monte os termos de busca com nome científico, nome popular e doença.
+5. Busque revisão sistemática, estudo que reúne e julga vários estudos.
+6. Se não houver revisão, procure ensaio clínico, teste feito em pessoas.
+7. Consulte bases confiáveis: PubMed, SciELO, BVS e Biblioteca Cochrane.
+8. Leia o resumo antes do artigo inteiro e anote o tipo de estudo.
+9. Classifique: revisão, ensaio, observacional, relato, opinião.
+10. Verifique se houve comparação com placebo, tratamento falso sem efeito.
+11. Anote quantas pessoas participaram e por quanto tempo.
+12. Confira se o estudo nomeia a espécie, a parte da planta e a dose.
+13. Veja quem financiou e se os autores declaram conflito de interesse.
+14. Compare o achado com a bula e com a lista oficial da Anvisa.
+15. Registre no caderno: planta, estudo, resultado, força e limite.
+16. Leve o resumo ao profissional de saúde antes de usar a planta.
+
+ATENCAO
+-------
+- Planta pouco estudada não é prova de que funciona.
+- Estudo em animal ou em tubo de ensaio não prova efeito em pessoas.
+- Nome popular engana: confirme a espécie antes de confiar no estudo.
+- Artigo sem dose, parte da planta ou tempo de uso ajuda pouco.
+- Estudo com poucas pessoas ou sem comparação tem baixa confiança.
+- Viés, erro que favorece um resultado, pode inflar o efeito relatado.
+- Revisão mal feita pode reunir estudos ruins; julgue a qualidade.
+- Financiamento de quem vende o produto pode favorecer conclusão positiva.
+- Nunca troque remédio prescrito por conclusão de artigo.
+- Com sintoma novo após usar planta, pare e procure atendimento.
+
+SE NAO TIVER
+------------
+- Sem internet, use biblioteca pública, universidade ou serviço de saúde.
+- Sem acesso ao artigo, peça o resumo na biblioteca ou ao profissional.
+- Sem nome científico, identifique a espécie antes de buscar.
+- Sem fonte confiável, suspenda o uso até receber orientação.
+- Não substitua artigo científico por blog, fórum, rede social ou vídeo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- Você escreveu planta, parte usada, doença e quem vai usar.
+- Você confirmou o nome científico da espécie no guia.
+- Você encontrou estudo com autor, ano e tipo de desenho identificados.
+- Você anotou a força da evidência e as limitações no caderno.
+- Você levou o resumo ao profissional antes de decidir sobre o uso.
+
+FONTES
+------
+- Manual Cochrane para revisões sistemáticas, capítulo de busca de estudos.
+- Sistema GRADE do Ministério da Saúde, manual de graduação da evidência.
+- Medicina baseada em evidências, CONASS.
+- Farmacopeia Brasileira e Formulário de Fitoterápicos, Anvisa.
+- Mapa de evidências de plantas medicinais, Fiocruz e BVS.
+- Prática consolidada de busca estruturada em bases científicas.

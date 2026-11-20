@@ -1,0 +1,97 @@
+==============================================================================
+CODIGO: 20-025
+TITULO: Como organizar reprodução de animais de criação
+CATEGORIA: 20 - Animais domésticos e pecuária
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: caderno, lápis, marcação dos animais, luvas e máscara
+REVISAO: 2026-11
+PALAVRAS-CHAVE: reprodução, cria, estação de monta, cio, touro, parto
+==============================================================================
+
+OBJETIVO
+--------
+Planejar e registrar acasalamentos para ter crias quando houver
+comida e cuidado suficientes.
+
+QUANDO USAR
+-----------
+Ao começar ou retomar criação de bovinos, caprinos, ovinos ou suínos.
+Quando machos e fêmeas ficam juntos o ano inteiro.
+Quando pasto e ração faltam em certa época do ano.
+Depois de perder crias por nascimento em época de escassez.
+
+NAO USE QUANDO
+--------------
+Não substitui exame, vacinação nem tratamento veterinário.
+Não force cópula em animal doente, ferido ou muito magro.
+Não tente corrigir parto difícil sem quem tenha experiência.
+
+MATERIAIS
+---------
+- Caderno e lápis (ou papel e carvão).
+- Marca visível: brinco, tinta, fita ou corte na orelha.
+- Luvas, máscara, roupa e calçado exclusivos para o parto.
+- Cerco ou baia para separar machos e fêmeas.
+- Cama seca, pá, saco e local para destinar placenta e cama usada.
+
+PROCEDIMENTO
+------------
+1. Conte os animais e separe machos, fêmeas e jovens.
+2. Decida quantas crias pode alimentar até a desmama com a comida
+   disponível; não ultrapasse esse número.
+3. Marque a monta aproximadamente nove meses antes do parto em
+   bovinos, cinco em caprinos e ovinos, quatro em suínos.
+4. Defina estação de monta de aproximadamente 60 a 90 dias, com
+   macho e fêmea juntos somente nesse período.
+5. Mantenha os machos separados das fêmeas fora da estação.
+6. Separe fêmeas jovens, primíparas (que pariu uma vez) e adultas.
+7. Use só animais saudáveis, sem febre, diarreia, ferida ou peso baixo.
+8. Não acasale fêmea jovem antes do porte adulto da raça.
+9. Observe o cio: inquietação, busca do macho e aceitação da monta.
+   Sem prenhez, ele volta a cada 18 a 24 dias.
+10. Encaminhe a fêmea ao macho entre 4 e 12 horas após o início do cio.
+11. Anote identidade da fêmea, data do cio, da cópula e o macho usado.
+12. Dê mais ração e água a prenhes e lactantes; mude a dieta aos poucos.
+13. Peça exame de prenhez após aproximadamente 45 dias do fim da
+    monta; sem exame, observe o retorno ao cio e o ventre.
+14. Separe as vazias: tente de novo, engorde para abate ou fique sem cria.
+15. Prepare cama seca e abrigo contra vento e chuva dias antes do parto.
+16. Acompanhe de longe; chame pessoa experiente se houver dificuldade.
+17. Use luvas, máscara e roupa exclusiva no parto e ao tocar placenta.
+18. Retire placenta e cama molhada, enterre ou queime longe de água.
+19. Lave as mãos com água e sabão e registre parto, crias, mãe e macho.
+
+ATENCAO
+-------
+Parto, placenta e fluidos podem transmitir febre Q e brucelose a pessoas.
+Gestantes, imunossuprimidos e cardiopatas devem ficar longe do parto.
+Nunca toque feto abortado ou placenta com as mãos desprotegidas.
+Machos e fêmeas agitados podem ferir: mantenha distância e peça ajuda.
+Fêmea muito magra pode não emprenhar ou abortar; não insista na monta.
+Nascimento na seca gera crias fracas; reduza o número de crias.
+Este texto não ensina a corrigir parto difícil, dar hormônio ou inseminar.
+Com aborto em massa ou morte, pare de mover animais e avise a sanidade.
+
+SE NAO TIVER
+------------
+Sem cerco, prenda o macho em baia separada com água e sombra.
+Sem brinco, marque com tinta ou corte e registre o código no caderno.
+Sem veterinário, procure assistência técnica antes de iniciar a monta.
+Sem máscara, não ajude no parto: mantenha distância e chame outra pessoa.
+Para quarentena de animais novos, veja 20-018.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada animal tem marca única e aparece no caderno.
+Machos e fêmeas ficaram separados fora do período definido.
+O caderno traz cio, cópula, parto, mãe e macho de cada cria.
+Os partos concentraram-se na época de pasto ou ração farta.
+Não houve cio repetido, aborto ou cria nascida magra.
+
+FONTES
+------
+Manejo reprodutivo: Embrapa, Boas Práticas Agropecuárias Bovinos e
+Bubalinos de Corte (2022), e FAO, reprodução de ruminantes nos trópicos.
+Riscos no parto: CDC, febre Q; OSHA e USDA-APHIS, biossegurança animal.
+Resumo operacional; não substitui orientação veterinária.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 67-001
+TITULO: Como entender os fundamentos da automação industrial
+CATEGORIA: 67 - Robótica, automação e controle
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: caderno, lápis, noções básicas de eletricidade
+REVISAO: 2026-11
+PALAVRAS-CHAVE: automação, clp, sensor, atuador, controle, malha, máquina
+==============================================================================
+
+OBJETIVO
+--------
+Entender como uma máquina percebe, decide e age, e ler um sistema simples.
+
+QUANDO USAR
+-----------
+Quando precisa entender uma máquina automatizada que vai operar.
+Quando vai conversar com quem programa ou mantém uma máquina.
+Quando um sistema falha e você quer descrever o problema com clareza.
+
+NAO USE QUANDO
+--------------
+Não substitua treinamento técnico, norma ou projeto de engenheiro.
+Não programe nem modifique equipamento sem autorização.
+Não interfira em painel energizado nem em circuito de segurança.
+
+MATERIAIS
+---------
+- Caderno e lápis para desenhar a cadeia de sinal.
+- Noções básicas de eletricidade: o que são tensão e corrente.
+- Uma máquina simples para observar, como esteira ou bomba, se houver.
+
+PROCEDIMENTO
+------------
+1. Observe a máquina: o que ela controla e o que mede, como posição.
+2. Para cada grandeza, anote o sensor que a vira sinal elétrico.
+3. Note onde o sinal entra: no CLP, o controlador lógico programável.
+4. Anote a decisão do controlador: ligar, desligar ou regular a saída.
+5. Identifique o atuador, peça que move: motor, válvula ou cilindro.
+6. Veja se a máquina mede o resultado e o devolve ao controlador.
+7. Se mede e corrige, é malha fechada; se não mede, é malha aberta.
+8. Desenhe no caderno: sensor, entrada, lógica, saída, atuador, carga.
+9. Anote o valor desejado, o ponto de ajuste, e compare com o medido.
+10. Escreva uma frase explicando como a máquina reage ao erro.
+
+ATENCAO
+-------
+Este texto é introdutório e não substitui treinamento técnico.
+O CLP executa lógica, temporização e contagem sobre as entradas.
+Nunca abra painel energizado nem altere programa sem autorização.
+Circuito de segurança e parada de emergência não são experimento.
+Sensores e atuadores podem usar tensão perigosa; em dúvida, peça ajuda.
+
+SE NAO TIVER
+------------
+Sem máquina, desenhe no caderno os seis elementos da cadeia de sinal.
+Sem noção de eletricidade, aprenda o que são tensão e circuito fechado.
+Não improvise ligação elétrica para aprender na prática.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você aponta, numa máquina, o sensor, a entrada do CLP, a lógica, a saída
+e o atuador, e diz se a malha é aberta ou fechada, sem ler a etiqueta.
+
+FONTES
+------
+Definição de controlador lógico programável do NIST. Norma IEC
+61131-3, que padroniza as linguagens de programação de CLP.
+Prática consolidada de ensino técnico de automação industrial.

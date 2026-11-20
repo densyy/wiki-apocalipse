@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 73-013
+TITULO: Como proteger arquivos digitais contra umidade
+CATEGORIA: 73 - Armazenamento de produtos não alimentares
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: pote vedado, sílica gel, caixas originais, lugar fresco e escuro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: umidade, pendrive, cartão, dvd, mofo, sílica, cópia
+==============================================================================
+
+OBJETIVO
+---------
+Manter íntegros os arquivos em mídia removível em clima quente e úmido.
+
+QUANDO USAR
+-----------
+Quando pendrives, cartões ou DVDs ficam em lugar abafado.
+Quando a estação das chuvas umedece paredes, armários ou o chão.
+Quando é preciso guardar documentos e fotos sem internet.
+
+NAO USE QUANDO
+--------------
+Não vede mídia molhada ou com mofo: o fungo se espalha para as outras.
+Se a mídia saiu do frio, espere antes de fechar; o ar úmido condensa.
+
+MATERIAIS
+---------
+- Pendrives, cartões, CDs ou DVDs com os arquivos (ou cópias).
+- Pote de vidro com tampa vedante (ou saco de alumínio com fecho).
+- Sílica gel seca em saquinho (ou carvão vegetal bem seco).
+- Estojo plástico para cada disco (caixa original do pendrive).
+- Papel e lápis para rotular (não use caneta que borra com umidade).
+
+PROCEDIMENTO
+------------
+1. Escolha a prateleira alta, fresca, escura e seca, longe do chão.
+2. Nunca use sótão, garagem nem porão com umidade sem controle.
+3. Enxugue o pote e limpe o pó da mídia com pano seco, sem tocar na face.
+4. Se a mídia veio do frio, espere até ficar em temperatura ambiente.
+5. Guarde cada disco em estojo, na posição vertical, sem empilhar.
+6. Coloque a sílica no fundo do pote, sem encostar na mídia.
+7. Feche a tampa e vede a borda com fita se a vedação for fraca.
+8. Rotule o pote com data e faça uma cópia em outro lugar.
+
+ATENCAO
+-------
+Umidade e calor juntos destroem mídia e apagam arquivos sem aviso.
+Não seque mídia no forno, no sol ou com secador: o calor destrói dados.
+Mídia molhada ou com mofo não entra no pote: o fungo se espalha.
+Uma cópia única não é backup: se o pote molhar, os arquivos se perdem.
+Com mofo, cheiro azedo ou mídia não reconhecida, pare e procure ajuda.
+
+SE NAO TIVER
+------------
+Sem sílica, use carvão vegetal bem seco em pedaços e troque a cada 3 meses.
+Sem pote vedado, use saco de alumínio com fecho e dois saquinhos de sílica.
+Sem recipiente, use a caixa original dentro de saco plástico bem fechado.
+Não use jornal ou pano úmido: isso aumenta o mofo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Mídia reconhecida, arquivos que abrem sem erro, pote seco e segunda cópia.
+
+FONTES
+------
+NARA, 'Audio Guidance: Condition of Materials and Storage' (2023).
+A página indica guias do NIST e da Library of Congress sobre mídia óptica.
+Faixas gerais, não garantia para um arquivo específico.

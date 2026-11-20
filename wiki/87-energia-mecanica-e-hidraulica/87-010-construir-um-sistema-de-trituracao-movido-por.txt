@@ -1,0 +1,85 @@
+==============================================================================
+CODIGO: 87-010
+TITULO: Como construir um sistema de trituração movido por água
+CATEGORIA: 87 - Energia mecânica e hidráulica tradicionais
+TEMPO: 300 minutos
+RISCO: medio
+EXIGE: roda d'água, eixo, facas ou martelos e calha de alimentação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: trituração, água, facas, martelos, forragem, picador
+==============================================================================
+
+OBJETIVO
+--------
+Triturar forragem ou resíduos vegetais com máquina movida pela água.
+
+QUANDO USAR
+-----------
+Quando se precisa picar capim, palha ou talos para ração.
+Quando há córrego com queda constante perto do local de uso.
+Quando o trabalho manual de picar consome muito tempo.
+Quando se quer aproveitar a roda d'água já instalada.
+
+NAO USE QUANDO
+--------------
+Não use se a água interrompe na estiagem ou congela.
+Não tente triturar pedras, metais ou madeira muito dura.
+Não use sem proteção nas facas e no eixo em movimento.
+
+MATERIAIS
+---------
+- Roda d'água com eixo e mancais prontos.
+- Disco ou tambor com facas e contrafacas de ferro afiado.
+- Carcaça de madeira ou metal envolvendo o tambor.
+- Calha inclinada para levar o material até as facas.
+- Correia ou engrenagem ligando a roda ao tambor.
+- Parafusos, chavetas e graxa para os mancais.
+- Peneira ou gaiola para controlar o tamanho do picado.
+
+PROCEDIMENTO
+------------
+1. Confira a roda d'água e a queda disponível no córrego.
+2. Monte o tambor com as facas em posição alternada.
+3. Afixe as contrafacas na carcaça com folga pequena e regular.
+4. Prenda a carcaça sobre base firme ao lado da roda.
+5. Ligue a roda ao tambor com correia ou engrenagem.
+6. Abra a calha inclinada até a boca de alimentação.
+7. Ajuste a altura da calha para o material entrar sem entupir.
+8. Coloque a peneira ou gaiola na saída do material picado.
+9. Gire a roda com a mão e confira o giro livre das facas.
+10. Abra a comporta e deixe a roda alcançar o giro normal.
+11. Alimente o material aos poucos, sem empurrar com as mãos.
+12. Use um pau para empurrar o que ficou preso na boca.
+13. Observe o tamanho do picado e ajuste as contrafacas.
+14. Desligue, trave a roda e limpe a carcaça ao final.
+
+ATENCAO
+-------
+As facas cortam com muita força: nunca enfie as mãos na carcaça.
+Use pau ou garfo para empurrar o material, nunca os dedos.
+Roupas largas podem ser puxadas pela correia ou pelo tambor.
+Se o tambor travar, feche a comporta antes de abrir a tampa.
+Facas cegas exigem mais força e aquecem o eixo.
+Nunca triture material com terra ou pedras misturadas.
+Use luvas, óculos e calçado firme durante a operação.
+
+SE NAO TIVER
+------------
+Sem facas de ferro, use lâminas de aço recuperadas e bem fixadas.
+Sem contrafacas, use duas travessas de madeira endurecida.
+Sem correia, use engrenagem de madeira ou corrente de bicicleta.
+Sem peneira, use uma tela de arame na saída do material.
+Sem roda pronta, monte primeiro uma roda d'água simples.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O material sai picado em pedaços do tamanho desejado.
+O tambor gira sem tremer, sem estalos e sem aquecer.
+A calha alimenta sem entupir e sem espalhar material.
+As facas continuam firmes e alinhadas após o uso.
+
+FONTES
+------
+Prática consolidada de picadores e trituradores de forragem
+acionados por água em propriedades rurais tradicionais. Base em
+manuais de mecanização rural e na adaptação de rodas hidráulicas.

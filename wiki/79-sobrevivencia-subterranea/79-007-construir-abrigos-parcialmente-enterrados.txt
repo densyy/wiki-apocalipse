@@ -1,0 +1,93 @@
+==============================================================================
+CODIGO: 79-007
+TITULO: Como construir abrigos parcialmente enterrados
+CATEGORIA: 79 - Sobrevivência subterrânea
+TEMPO: 900 minutos
+RISCO: alto
+EXIGE: terreno drenado, pá, madeira ou pedra, terra, drenagem
+REVISAO: 2026-11
+PALAVRAS-CHAVE: abrigo, enterrado, semi-enterrado, terra, encosta, teto
+==============================================================================
+
+OBJETIVO
+---------
+Construir um abrigo com parte da estrutura sob a terra, usando
+a inércia do solo para reduzir calor, frio e vento.
+
+QUANDO USAR
+-----------
+Quando há encosta ou elevação natural para aproveitar.
+Em região de muito calor ou de frio intenso e vento forte.
+Ao precisar de abrigo permanente com poucos materiais.
+Quando a proteção contra intempéries é mais urgente que espaço.
+
+NAO USE QUANDO
+--------------
+Não construa em encosta que desliza ou em solo que encharca.
+Não escave onde passe água de chuva concentrada.
+Não faça teto de terra sem estrutura capaz de sustentá-la.
+Não ocupe o abrigo antes de secar e ventilar bem.
+
+MATERIAIS
+---------
+- Pá, picareta, enxada e carriola para mover terra.
+- Madeira para vigas, estacas e forma do teto (pedra ou bloco).
+- Terra argilosa para cobrir e vedar o teto.
+- Pedra e cascalho para drenagem e muros de arrimo.
+- Lona ou barro para impermeabilizar a cobertura.
+- Tela ou grade para proteger aberturas de ar.
+- Corda, nível e estacas para marcar o contorno.
+
+PROCEDIMENTO
+------------
+1. Escolha encosta suave com solo firme e saída de água natural.
+2. Observe para onde escorre a chuva e fique acima dessa linha.
+3. Marque no chão a área do abrigo com estacas e corda.
+4. Escave a parte enterrada em degraus, sem tirar toda a terra.
+5. Deixe a frente mais baixa livre para entrada e ventilação.
+6. Coloque cascalho no piso e faça valeta para escoar água.
+7. Levante paredes de pedra, tijolo ou madeira bem travada.
+8. Monte vigas resistentes apoiadas nas paredes laterais.
+9. Cubra com tábuas, galhos ou laje antes de colocar terra.
+10. Espalhe terra em camadas sobre o teto e compacte levemente.
+11. Dê inclinação suave ao teto para a água escorrer para fora.
+12. Vede juntas com barro ou lona, deixando uma entrada de ar.
+13. Proteja a abertura de ar com tela contra ratos e insetos.
+14. Reforce a borda da entrada com pedra para não desmoronar.
+15. Faça valeta externa que desvie a chuva do teto e da entrada.
+16. Ventile por um dia antes de dormir dentro do abrigo.
+17. Revise vigas e teto após cada chuva forte.
+
+ATENCAO
+-------
+Terra molhada pesa muito: teto fraco pode ceder sem aviso.
+Apoio de viga em madeira podre falha com o tempo.
+Encosta sem drenagem vira lama e empurra a parede para dentro.
+A entrada é a parte mais frágil: nunca a enfraqueca escavando
+abaixo dela.
+Fogo dentro de abrigo enterrado consome oxigênio: use só com
+abertura de ar e nunca dorma com braseiro aceso.
+Se o teto rachar ou a terra ceder, saia e reconstrua.
+Não ocupe abrigo recém-feito se houver cheiro de mofo forte.
+
+SE NAO TIVER
+------------
+Sem vigas de madeira, use troncos retos e bem apoiados.
+Sem pedra, faça paredes de terra socada com reforço de galhos.
+Sem lona, use barro fresco em camadas para vedar o teto.
+Sem espaço para entrar, construa contra a encosta e use só
+a frente aberta como muro de terra.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O teto não goteja e a valeta leva a água para longe da entrada.
+As vigas não cedem nem rangem quando você apoia o peso.
+O interior fica mais estável em temperatura que o exterior.
+Há entrada de ar protegida e a abertura não está obstruída.
+
+FONTES
+------
+Noções construtivas de arquitetura de terra e abrigos
+semi-enterrados, aliadas à prática de construção rural com
+materiais locais. As medidas são aproximadas e devem ser
+adaptadas ao solo e à chuva de cada região.

@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 63-019
+TITULO: Como utilizar indicadores biológicos de esterilização
+CATEGORIA: 63 - Microbiologia, parasitologia e contaminação
+TEMPO: 20 minutos
+RISCO: alto
+EXIGE: indicador biológico comercial válido, autoclave, incubadora, registro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: indicador biológico, esporos, autoclave, teste de esporos
+==============================================================================
+
+OBJETIVO
+--------
+Verificar se um ciclo de esterilização matou os germes mais resistentes.
+
+QUANDO USAR
+-----------
+Ao testar autoclave nova, após mudança, reparo ou falha do equipamento.
+Ao monitorar o equipamento em uso, pelo menos uma vez por semana.
+Quando a autoclave faz várias cargas por dia: teste a cada dia.
+Quando a carga contém implante ou material que entra no corpo.
+Quando há dúvida se o ciclo realmente esterilizou o material.
+
+NAO USE QUANDO
+--------------
+Sem indicador comercial válido, autoclave e incubadora, não improvise.
+Não serve para desinfetar superfícies nem para tratar água.
+Não prova, sozinho, que um objeto específico ficou estéril.
+
+MATERIAIS
+---------
+- Indicador biológico comercial dentro da validade, compatível com o método.
+- Indicador do mesmo lote como controle positivo, sem exposição ao ciclo.
+- Autoclave ou equipamento de esterilização calibrado.
+- Incubadora que mantenha a temperatura indicada pelo fabricante.
+- Pacote de teste ou material para acondicionar o indicador na carga.
+- Caderno e caneta para registrar data, lote, ciclo e resultado.
+
+PROCEDIMENTO
+------------
+1. Confira validade, lote e integridade da embalagem do indicador.
+2. Escolha o indicador conforme o método do equipamento.
+3. Para vapor, use indicador de G. stearothermophilus.
+4. Para calor seco ou óxido de etileno, use B. atrophaeus.
+5. Separe um indicador do mesmo lote como controle positivo, sem expor.
+6. Coloque o indicador no ponto mais difícil da carga: parte frontal,
+   inferior, perto do ralo.
+7. Acondicione o indicador em pacote de teste ou junto ao material.
+8. Execute o ciclo completo de esterilização com a carga real.
+9. Retire o indicador com as mãos limpas e identifique com data e lote.
+10. Ative o indicador conforme o fabricante: quebre a ampola de vidro.
+11. Incube o indicador exposto e o controle na temperatura indicada.
+12. Use 55 a 60 °C para G. stearothermophilus.
+13. Use 35 a 37 °C para B. atrophaeus.
+14. Mantenha a incubação pelo tempo do fabricante, em geral 24 a 48 horas.
+15. Leia o resultado: sem crescimento no indicador exposto e com
+    crescimento no controle.
+16. Repita em três ciclos seguidos antes de liberar o equipamento para uso.
+17. Anote data, lote, ciclo, temperatura, tempo e resultado.
+
+ATENCAO
+-------
+O indicador biológico mede o poder de matar do ciclo, não substitui a
+limpeza nem o ciclo correto de esterilização.
+Um resultado negativo não prova que cada objeto está estéril; prova que o
+ciclo matou os esporos de teste mais resistentes.
+O indicador químico mostra que houve ciclo, mas não prova esterilidade.
+Se o controle positivo não crescer, o teste é inválido: os esporos ou o
+meio podem estar mortos. Repita com indicador válido.
+Se o indicador exposto crescer, repita o teste. Se crescer de novo, pare de
+usar o equipamento e procure manutenção antes de reutilizá-lo.
+Em óxido de etileno ou baixa temperatura, trate toda a carga como não
+estéril até o problema ser resolvido.
+Indicador de vapor comum não serve para esterilização rápida (flash).
+Falso positivo pode vir de erro no teste, armazenamento errado ou
+contaminação; não descarte o resultado como falso sem analisar tudo.
+Não abra o frasco depois da incubação e descarte o material como pede a
+orientação local.
+
+SE NAO TIVER
+------------
+Sem indicador biológico comercial, não existe teste caseiro equivalente.
+Indicador químico mostra que houve ciclo, não se os germes morreram.
+Não improvise cultura de esporos em casa: o resultado não é confiável.
+Sem equipamento validado, prefira material descartável e busque serviço.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O indicador exposto não cresceu: o meio ficou com a cor original, sem
+turvação.
+O controle positivo cresceu: houve mudança de cor ou turvação no meio.
+Os três ciclos de verificação seguidos deram resultado negativo.
+O registro anotou data, lote, ciclo, temperatura, tempo e resultado.
+
+FONTES
+------
+Diretriz de Desinfecção e Esterilização em Serviços de Saúde do CDC (2008),
+seções Monitoramento e Práticas de Esterilização.
+Protocolos AAMI de pacote de teste e monitoramento citados pela diretriz.
+Resumo operacional; não substitui treinamento nem o manual do fabricante.

@@ -1,0 +1,79 @@
+==============================================================================
+CODIGO: 50-005
+TITULO: Como eram construídos os sistemas de ventilação natural
+CATEGORIA: 50 - História das tecnologias pré-industriais
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: vento, tijolo ou barro, pátio, água, trabalho em altura
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ventilação, vento, badgir, pátio, chaminé, clerestório
+==============================================================================
+
+OBJETIVO
+--------
+Ser capaz de ventilar e refrescar um edifício usando só vento e calor.
+
+QUANDO USAR
+-----------
+Quando o clima é quente e seco e há vento predominante.
+Quando se quer refrescar sem energia elétrica nem máquinas.
+Quando existe um pátio ou água corrente junto ao edifício.
+Para estudar ou reconstruir a torre de vento persa (badgir).
+
+NAO USE QUANDO
+--------------
+Quando o clima for úmido: resfriar com água aumenta o mofo.
+Quando não houver vento nem diferença de calor para mover o ar.
+Quando o solo não sustentar uma torre alta e segura.
+
+MATERIAIS
+---------
+- Tijolos ou blocos de barro seco (pedra ou terra compactada).
+- Argila ou cal para assentar e revestir (lama espessa).
+- Madeira para tampas e divisórias internas (tecido resistente).
+- Água corrente ou reservatório para resfriar o ar (pedra fria).
+- Pátio ou canal subterrâneo junto à base da torre (qanat).
+
+PROCEDIMENTO
+------------
+1. Observe a direção do vento no local por vários dias.
+2. Marque a torre no ponto mais alto e livre da edificação.
+3. Se o vento vier de um lado só, abra uma boca voltada a ele.
+4. Se o vento mudar, divida a torre em canais com paredes internas.
+5. Abra uma boca lateral em cada canal, para lados diferentes.
+6. Dê seção quadrada à torre para aumentar a sucção do ar.
+7. Erga a torre alta para captar vento mais forte e limpo.
+8. Ligue a base da torre a um pátio ou canal subterrâneo.
+9. Passe o ar por água ou pedra fria antes de entrar no cômodo.
+10. Abra uma saída no lado oposto para o ar atravessar o ambiente.
+11. Deixe o ar quente subir e sair pelo topo por convecção.
+12. Feche as bocas no inverno com tampa de madeira ou pano.
+
+ATENCAO
+-------
+O desenho depende do clima; copiar torre de outra região pode falhar.
+Torres estreitas reduzem o fluxo e podem não ventilar bem.
+A torre não filtra fumaça, poeira ou insetos sem tela ou plantio.
+Em clima úmido, resfriar com água aumenta a umidade e o mofo.
+Sem saída no topo, o ar quente volta a descer e esquenta o cômodo.
+Trabalhar em altura sem apoio seguro pode causar queda grave.
+Torre mal fixada pode desabar: fundamente bem a base no solo.
+
+SE NAO TIVER
+------------
+Sem torre, abra janelas altas opostas para criar corrente de ar.
+Sem água, use paredes grossas de barro como reserva de frio.
+Sem tela, filtre o ar com pano úmido ou plantio junto à boca.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O ar entra pela parte baixa e escapa visivelmente pelo topo.
+Tiras de pano presas nas bocas mostram o fluxo do ar.
+O interior fica mais fresco que o exterior nos dias quentes.
+
+FONTES
+------
+Prática construtiva consolidada, sem documento normativo único.
+Referências apontadas por síntese enciclopédica: revisão de
+Saadatian (2012), Fathy (1986) e Vitrúvio, De architectura.
+Valores e detalhes variaram muito entre regiões e épocas.

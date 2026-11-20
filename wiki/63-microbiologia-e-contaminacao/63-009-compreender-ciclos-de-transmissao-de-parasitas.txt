@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 63-009
+TITULO: Como compreender ciclos de transmissão de parasitas
+CATEGORIA: 63 - Microbiologia, parasitologia e contaminação
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: caderno, lápis, água potável, luvas para inspeção
+REVISAO: 2026-11
+PALAVRAS-CHAVE: parasita, transmissão, ciclo, vetor, fezes, água, vermes
+==============================================================================
+
+OBJETIVO
+--------
+Mapear como o parasita sai do hospedeiro, passa pelo ambiente ou por um
+vetor e chega a outra pessoa, para escolher onde quebrar o ciclo.
+
+QUANDO USAR
+-----------
+Quando aparecem casos de diarréia, vermes ou febre após contato com água.
+Quando o grupo bebe água de fonte sem tratamento conhecido.
+Quando há insetos que picam dentro de casa ou perto do dormitório.
+Quando se cultiva ou come verdura crua sem saber como foi irrigada.
+Quando alguém anda descalço em solo úmido ou lamacento.
+
+NAO USE QUANDO
+--------------
+Não use este mapa para substituir exame, diagnóstico ou tratamento.
+Não use para decidir dose de remédio. Parasitose confirmada precisa de
+avaliação de profissional de saúde.
+
+MATERIAIS
+---------
+- Caderno e lápis para desenhar o caminho do parasita.
+- Luvas para manusear solo, fezes ou lixo (pano grosso se não houver).
+- Água potável e sabão ou cinza para lavar as mãos ao final.
+- Lanterna para olhar frestas e quintal à noite.
+
+PROCEDIMENTO
+------------
+1. Defina o parasita suspeito pelos sinais observados.
+2. Escreva o hospedeiro de origem: pessoa, animal ou ambos.
+3. Identifique a saída: fezes, sangue da picada ou leite materno.
+4. Identifique o veículo: solo, água, alimento, inseto ou objeto.
+5. Marque a forma infectante: ovo, larva ou parasita no inseto.
+6. Escreva a porta de entrada: boca, pele, ferida ou picada.
+7. Desenhe setas da origem ao veículo, à entrada e ao novo hospedeiro.
+8. Repita o desenho em outra folha para cada parasita suspeito.
+9. Escolha o elo mais fraco, onde a intervenção é barata e possível.
+10. Quebre o elo: trate a água, lave mãos e alimentos, use calçado.
+11. Controle o vetor: camas, mosquiteiros, frestas e inseticida.
+12. Anote a data e o elo escolhido para comparar com o resultado.
+
+ATENCAO
+-------
+Fezes de uma pessoa infectada podem conter ovos invisíveis ao olho.
+Ovos de lombriga e de verme chicote precisam de aproximadamente 3 semanas
+no solo para se tornarem infectantes; fezes frescas não infectam direto.
+Larvas de ancilostomídeos penetram a pele: andar descalço em solo úmido
+é a via mais comum.
+Insetos vetores picam à noite e defecam perto da picada; coçar espalha
+o parasita para os olhos e a boca.
+Água e alimento contaminados podem transmitir Chagas, giardíase e
+amebíase, além de vermes.
+Este mapa não substitui exame de fezes nem tratamento. Procure unidade
+de saúde se houver sangue nas fezes, desidratação, febre alta, mancha
+no olho ou se a pessoa for criança, gestante ou imunossuprimida.
+
+SE NAO TIVER
+------------
+Sem caderno, desenhe o ciclo na terra ou organize as etapas em voz alta.
+Sem luvas, use pano grosso e lave as mãos com água potável e sabão ou
+cinza logo depois; não toque feridas com as mãos sujas.
+Sem lanterna, inspecione frestas e quintal apenas durante o dia.
+Sem saber o nome do parasita, anime o mapa com o sinal que você viu.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O desenho mostra uma seta contínua da origem até a entrada no novo
+hospedeiro, com pelo menos um ponto de intervenção marcado.
+A água foi tratada, as mãos foram lavadas e o calçado foi usado após
+a inspeção.
+
+FONTES
+------
+Fichas técnicas da OMS sobre helmintíases transmitidas pelo solo e sobre
+doença de Chagas; página "About Parasites" dos CDC. Este texto é um
+resumo operacional, não substitui treinamento nem orientação médica.

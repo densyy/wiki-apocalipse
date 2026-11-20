@@ -1,0 +1,83 @@
+==============================================================================
+CODIGO: 01-006
+TITULO: Como encontrar água em regiões montanhosas
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: mapa ou caderno, bastão de caminhada, recipiente limpo com tampa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, montanha, nascente, fonte, manancial, sede
+==============================================================================
+
+OBJETIVO
+--------
+Localizar água em encostas e vales de montanha e coletá-la sem correr
+risco evitável.
+
+QUANDO USAR
+-----------
+Quando a água levada acabou e o mapa não indica fonte próxima.
+Quando a trilha corta encosta íngreme com poucos cursos d'água visíveis.
+Quando o tempo seco secou os riachos pequenos.
+Quando é preciso escolher o próximo ponto de abastecimento antes de subir.
+
+NAO USE QUANDO
+--------------
+Quando houver risco de avalanche, deslizamento ou cheia relâmpago.
+Quando a água tiver cheiro de combustível ou agrotóxico: não a use.
+Não escave em margem com correnteza forte nem em barranco que cede.
+
+MATERIAIS
+---------
+- Mapa topográfico da região (ou caderno para um croqui).
+- Bastão ou cajado para apoiar o passo e testar o solo.
+- Recipiente limpo com tampa.
+- Pano limpo para coar a água.
+- Lápis para marcar o ponto encontrado.
+
+PROCEDIMENTO
+------------
+1. Leia o mapa e identifique o fundo do vale e as ravinas.
+2. Marque no caderno as manchas de vegetação verde intensa.
+3. Desça ao fundo do vale pela trilha, sem cortar talude íngreme.
+4. Procure musgo, folhas viçosas, pedras lisas e solo escuro na encosta.
+5. Olhe a base de penhascos e de depósitos de pedras soltas.
+6. Siga trilhas de animais que convergem para o mesmo ponto.
+7. Cave um buraco na areia a aproximadamente 1 m da margem do córrego.
+8. Retire a água infiltrada com o recipiente e coe com o pano.
+9. Marque o ponto no caderno ou no mapa antes de sair.
+10. Não beba a água bruta: trate antes.
+
+ATENCAO
+-------
+Em montanha o maior risco não é a sede: é cair ou ser atingido por pedra.
+Nunca desça sozinho por encosta com pedras soltas; aponte os pés.
+Evite ravinas e leitos secos se o céu escurecer: a cheia não avisa.
+Água clara de nascente pode ter microrganismos. Trate: veja 01-001.
+Água com cheiro químico, cor metálica ou espuma não fica segura ao ferver.
+Descarte essa água e procure outra fonte.
+Não coma neve nem gelo: derreta e trate antes de beber.
+Comer neve abaixa a temperatura do corpo.
+Se o ponto ficar a mais de uma hora de caminhada, pare e peça ajuda.
+
+SE NAO TIVER
+------------
+Sem mapa, pergunte a quem conhece a serra e desenhe um croqui do vale.
+Sem bastão, use um galho firme, mas não se apoie em rocha molhada.
+Sem recipiente, use garrafa plástica limpa; nunca embalagem de agrotóxico.
+Sem pano, deixe a água parar e retire a parte clara de cima.
+Sem nascente, use água de chuva ou de poço manual, sempre tratada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água escorre clara depois da coagem e não tem cheiro nem espuma.
+O ponto encontrado está marcado e pode ser localizado de novo.
+A pessoa chegou sem pisar em pedra solta nem descer talude íngreme.
+
+FONTES
+------
+Prática consolidada de busca de água em terreno montanhoso, segundo o
+manual de sobrevivência do Exército dos Estados Unidos, FM 21-76.
+Orientações da CDC sobre fontes de água em emergência e da USGS sobre
+nascentes e água subterrânea em terreno montanhoso.
+Guia de abastecimento de água em emergências da Practical Action.

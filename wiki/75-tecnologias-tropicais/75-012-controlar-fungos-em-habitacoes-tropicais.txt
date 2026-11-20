@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 75-012
+TITULO: Como controlar fungos em habitações tropicais
+CATEGORIA: 75 - Tecnologias apropriadas para regiões tropicais
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: pano, detergente, água, escova, luvas, ventilação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fungo, mofo, bolor, umidade, ventilação, limpeza
+==============================================================================
+
+OBJETIVO
+--------
+Reduzir o crescimento de fungos em casa e remover o mofo instalado.
+
+QUANDO USAR
+-----------
+Quando aparecem manchas escuras ou esbranquiçadas em paredes ou tetos.
+Quando há cheiro de mofo após chuvas ou em casa fechada e úmida.
+
+NAO USE QUANDO
+--------------
+Quando a área passa de cerca de 1 metro quadrado: busque ajuda.
+Quando há água de esgoto, químicos ou pessoa com asma na casa.
+
+MATERIAIS
+---------
+- Pano limpo, escova de cerdas duras e detergente diluído em água.
+- Luvas, máscara ou pano para nariz e boca, e balde com água limpa.
+- Janela aberta ou ventilador; saco plástico para o lixo contaminado.
+
+PROCEDIMENTO
+------------
+1. Abra janelas e portas para ventilar o ambiente.
+2. Corrija a fonte de umidade: vazamento, goteira ou condensação.
+3. Coloque luvas e cubra nariz e boca com máscara ou pano limpo.
+4. Umedeça o pano em detergente diluído em água.
+5. Esfregue a mancha com a escova, da borda para o centro.
+6. Enxague com água limpa e seque a superfície com pano seco.
+7. Descarte em saco, fora de casa, material poroso que não limpar.
+8. Não pinte sobre mofo: limpe e seque antes.
+9. Repita a limpeza semanal até controlar a umidade.
+
+ATENCAO
+-------
+- Mofo pode causar tosse, espirro, irritação nos olhos e crise de asma.
+- Nunca misture detergente com alvejante ou outros produtos químicos.
+- Não esfregue mofo extenso sem proteção: solta esporos no ar.
+- Pessoas com asma, alergia ou defesa baixa devem sair do ambiente.
+- Secar e ventilar importa mais que qualquer produto de limpeza.
+
+SE NAO TIVER
+------------
+- Sem detergente, use apenas água e escova, esfregando e secando bem.
+- Sem máscara, use pano limpo sobre nariz e boca, trocando-o sempre.
+- Sem ventilador, abra janelas opostas para criar corrente de ar.
+- Sem como descartar, retire o material e seque ao sol; ainda pode
+abrigar esporos, então não reutilize em área fechada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- A mancha escura desapareceu ou clareou muito após a escovação.
+- O cheiro de mofo diminuiu e a superfície ficou seca ao toque.
+- Não há goteiras nem condensação: a fonte de umidade foi corrigida.
+
+FONTES
+------
+Orientações da EPA sobre controle de umidade e limpeza de mofo em casa
+("A Brief Guide to Mold, Moisture and Your Home") e da OMS (2009)
+sobre umidade e mofo em ambientes internos. Resumo operacional.

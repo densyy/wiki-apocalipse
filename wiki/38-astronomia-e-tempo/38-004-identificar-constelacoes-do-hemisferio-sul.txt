@@ -1,0 +1,67 @@
+==============================================================================
+CODIGO: 38-004
+TITULO: Como identificar constelações do hemisfério sul
+CATEGORIA: 38 - Astronomia e medição do tempo
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: céu limpo, local escuro, vista desobstruída para o sul
+REVISAO: 2026-11
+PALAVRAS-CHAVE: constelação, estrela, céu, Cruz do Sul, Centauro, orientação
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer a Cruz do Sul, as estrelas Ponteeiras e constelações vizinhas.
+
+QUANDO USAR
+-----------
+Quando a energia acabar e não houver navegação eletrônica.
+Para se orientar para o sul ao acampar ou caminhar à noite.
+No Brasil, entre abril e junho, quando a Cruz do Sul fica alta.
+
+NAO USE QUANDO
+--------------
+Com céu nublado, chuvoso, com névoa ou lua muito forte.
+Não serve para navegação de precisão nem substitui bússola, mapa ou GPS.
+
+MATERIAIS
+---------
+- Céu limpo e escuro (ou quintal com as luzes apagadas).
+- Vista desobstruída para o sul (sem prédios ou árvores altas).
+- Roupa quente e calçado fechado para ficar parado no escuro.
+
+PROCEDIMENTO
+------------
+1. Espere o anoitecer e escolha um ponto aberto para o sul.
+2. Fique parado no escuro por aproximadamente 15 minutos.
+3. Olhe para o sul e localize duas estrelas muito brilhantes e próximas.
+4. Reconheça as Ponteeiras: Alpha e Beta Centauri, no Centauro.
+5. Prolongue a linha das Ponteeiras até encontrar quatro estrelas em cruz.
+6. Confirme o Cruzeiro do Sul: Acrux é a mais brilhante, na ponta baixa.
+7. Veja Gacrux, avermelhada, na ponta oposta, e a Mosca logo ao sul.
+8. Prolongue Gacrux até Acrux cerca de 4 vezes e meia: está o polo sul.
+
+ATENCAO
+-------
+Não confunda com a Cruz Falsa, maior e mais fraca, em Carina e Vela.
+A identificação serve como aproximação; não dá norte ou sul exato.
+A precessão desloca as estrelas ao longo de séculos e muda a referência.
+Nunca olhe direto para o sol antes do anoitecer para testar a visão.
+Em terreno irregular, pare de caminhar e observe só de lugar seguro.
+Se não vir estrelas, interrompa e espere outra noite: não invente a cruz.
+
+SE NAO TIVER
+------------
+Sem céu limpo, espere outra noite; nuvens e lua apagam estrelas fracas.
+Sem escuridão, apague as luzes do quintal e aguarde a adaptação dos olhos.
+Sem ver as Ponteeiras, comece pela cruz e use-as depois como confirmação.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você vê duas estrelas brilhantes apontando para quatro estrelas em cruz.
+A cruz tem uma ponta avermelhada e uma ponta azul-branca muito brilhante.
+
+FONTES
+------
+NOIRLab, programa 88 Constellations, páginas Crux e Centaurus.
+Prática consolidada de orientação celeste no hemisfério sul.

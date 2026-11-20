@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 07-056
+TITULO: Como organizar suprimentos durante um cerco
+CATEGORIA: 07 - Guerra, radiação e catástrofes nucleares
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: suprimentos, recipientes tampados, caderno, lugar fresco e seco
+REVISAO: 2026-11
+PALAVRAS-CHAVE: suprimentos, estoque, reserva, água, comida, validade, cerco
+==============================================================================
+
+OBJETIVO
+--------
+Levantar, guardar e distribuir o estoque de água, comida e remédios.
+
+QUANDO USAR
+-----------
+Quando o cerco impedir a entrada de suprimentos.
+Quando a água ou a energia forem cortadas.
+Quando a família viver só do que está guardado.
+
+NAO USE QUANDO
+--------------
+Não guarde onde haja fumaça, poeira, combustível ou agrotóxico.
+Retire os suprimentos dali. Este texto não cria água nem comida.
+
+MATERIAIS
+---------
+- Suprimentos: água, alimentos não perecíveis, remédios.
+- Recipientes limpos e tampados (garrafas, baldes).
+- Caderno, lápis e etiquetas (papel e fita).
+- Local fresco, seco e escuro, longe de fogo.
+- Abridor de latas manual (faca firme, com cuidado).
+
+PROCEDIMENTO
+------------
+1. Retire todos os suprimentos do local de guarda.
+2. Coloque tudo sobre superfície limpa e seca.
+3. Separe em três grupos: água, comida, remédios e higiene.
+4. Rejeite comida com cheiro estranho ou lata inchada ou amassada.
+5. Rejeite água de recipiente aberto ou com sujeira que não assenta.
+6. Anote no caderno cada item, a quantidade e a validade.
+7. Estime os dias: aproximadamente 3,8 litros de água por pessoa ao dia.
+8. Guarde a água em recipientes fechados, em lugar escuro e fresco.
+9. Guarde comida seca e enlatada em recipientes fechados, longe do calor.
+10. Coloque na frente os itens que vencem primeiro.
+11. Etiquete cada recipiente com o conteúdo e a data.
+
+ATENCAO
+-------
+Comida ou água mal guardadas apodrecem e causam diarreia e vômito.
+Nesse caso, pare de consumir e procure ajuda.
+Lata inchada ou com cheiro estranho pode ter toxina que o fogo não remove.
+Siga ordem de autoridade sobre distribuição de água e comida.
+
+SE NAO TIVER
+------------
+Sem caderno, anote em papel limpo e guarde junto do estoque.
+Sem recipiente, use garrafa tampada; nunca use embalagem química.
+Sem etiqueta, escreva a data na tampa. Sem lugar fresco, use canto escuro.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Há lista escrita com item, quantidade e validade conferida.
+Cada recipiente está fechado, identificado e sem alimento vencido na frente.
+
+FONTES
+------
+Guia Montar um Kit do Ready.gov (FEMA e Segurança Interna dos EUA).
+Prática consolidada de despensa, sem documento único.

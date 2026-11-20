@@ -1,0 +1,79 @@
+==============================================================================
+CODIGO: 88-013
+TITULO: Como identificar gargalos logísticos
+CATEGORIA: 88 - Geografia humana e recursos estratégicos
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: mapa de rotas, dados de abastecimento, lápis e caderno
+REVISAO: 2026-11
+PALAVRAS-CHAVE: logística, gargalo, rota, abastecimento, estoque, transporte
+==============================================================================
+
+OBJETIVO
+--------
+Encontrar os pontos onde o fluxo de pessoas ou suprimentos trava.
+
+QUANDO USAR
+-----------
+Quando chega pouca comida ou água apesar de haver estoque no caminho.
+Ao notar filas longas ou demora repetida em um mesmo ponto da rota.
+Quando um veículo ou carregador demora mais que o normal a voltar.
+Ao organizar a distribuição de suprimentos entre vários grupos.
+Depois que uma ponte, estrada ou passagem foi danificada ou fechada.
+
+NAO USE QUANDO
+--------------
+Não culpe pessoas sem observar o fluxo antes.
+Não mude toda a logística por um único atraso isolado.
+Não intercepte ou desvie carga sem combinarem antes com o responsável.
+
+MATERIAIS
+---------
+- Mapa com as rotas e os pontos de entrega (desenho próprio serve).
+- Caderno para anotar tempos e quantidades (papel separado por dia).
+- Lápis para marcar os pontos de parada no mapa.
+- Relógio para medir quanto tempo cada trecho leva (conta de passos).
+- Dados simples: o que chega, o que sai e quando (anotações de estoque).
+
+PROCEDIMENTO
+------------
+1. Liste no caderno cada trecho do caminho dos suprimentos.
+2. Anote o que entra e o que sai de cada ponto por dia.
+3. Meça o tempo que cada trecho leva em condições normais.
+4. Observe onde as pessoas ou cargas param e se acumulam.
+5. Verifique se a paragem é por falta de veículo, de gente ou de passagem.
+6. Note se o atraso acontece sempre no mesmo horário ou lugar.
+7. Compare a quantidade que chega com a que foi enviada.
+8. Marque no mapa os trechos com maior tempo de espera.
+9. Pergunte a quem trabalha no ponto o que costuma travar o fluxo.
+10. Separe gargalos de culpa: registro o fato, não o nome de ninguém.
+11. Proponha uma mudança pequena para o pior gargalo e teste por um dia.
+12. Meça de novo e anote se o tempo de espera caiu.
+
+ATENCAO
+-------
+Um atraso pode vir de clima, falha mecânica ou falta de mão de obra.
+Não confunda estoque parado com estoque perdido; confira a validade.
+Mudar vários pontos ao mesmo tempo impede saber o que funcionou.
+Respeite a cadeia de comando: combine alterações antes de aplicá-las.
+Se a comida ou a água estiverem acabando, avise o responsável de imediato.
+Este método encontra sinais; não substitui um plano de logística completo.
+
+SE NAO TIVER
+------------
+Sem mapa, desenhe as rotas e os pontos de entrega numa folha.
+Sem relógio, conte passos ou use o tempo de uma caminhada conhecida.
+Sem dados de estoque, anote o que chega nos próximos dois dias.
+Sem acesso ao ponto de entrega, observe de longe e pergunte a quem sai.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você aponta no mapa o trecho com maior espera e sabe por que ele trava.
+Depois da mudança pequena, o tempo de espera no trecho caiu.
+Os dados anotados permitem a outra pessoa refazer a medição.
+
+FONTES
+------
+Prática consolidada de logística e gestão de fluxo, adaptada a contexto
+de recursos escassos. Não há manual único; use os registros locais
+como base e confira cada número antes de decidir.

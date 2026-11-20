@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 14-004
+TITULO: Como reconhecer famílias de plantas
+CATEGORIA: 14 - Biologia, botânica e zoologia
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: caderno, lupa, amostra com folha e flor, guia botânico da região
+REVISAO: 2026-11
+PALAVRAS-CHAVE: planta, família, folha, flor, caule, graminha, venenosa
+==============================================================================
+
+OBJETIVO
+--------
+Agrupar uma planta desconhecida numa família provável.
+
+QUANDO USAR
+-----------
+Quando aparecer planta comum ou o nome popular não explicar nada.
+Quando precisar escolher qual chave de identificação usar depois.
+Quando quiser registrar a planta antes de procurar ajuda.
+
+NAO USE QUANDO
+--------------
+Não use para dizer se a planta é comestível ou medicinal.
+Não use com amostra sem folha, sem caule e sem flor ou fruto.
+Não use se a planta estiver murcha, queimada ou comida por pragas.
+
+MATERIAIS
+---------
+- Caderno e lápis.
+- Lupa de bolso (ou lente de aumento do celular).
+- Amostra com folha, caule e, se houver, flor ou fruto.
+- Guia botânico da região (ou chave de famílias impressa).
+- Faca ou tesoura limpa (ou as mãos, se a planta for pequena).
+
+PROCEDIMENTO
+------------
+1. Pare antes de tocar e observe onde a planta cresce.
+2. Anote o local, a data e o nome popular usado na região.
+3. Observe se as folhas são alternadas ou opostas no ramo.
+4. Verifique se a folha é simples ou composta.
+5. Procure a gema na base do pecíolo, o pequeno cabo da folha.
+6. Examine os nervos da folha: paralelos ou em rede.
+7. Confira se a folha tem bainha que abraça o caule.
+8. Procure a lígula, membrana entre a bainha e a lâmina da folha.
+9. Associe bainha, lígula e nervos paralelos a Poaceae, as gramíneas.
+10. Sinta o caule: quadrangular, com nós, oco ou com espinhos.
+11. Veja se escorre látex, líquido branco, ao ferir levemente o caule.
+12. Amasse uma folha entre os dedos e note o cheiro; não leve à boca.
+13. Associe caule quadrangular, folhas opostas e cheiro a Lamiaceae.
+14. Conte as pétalas da flor e veja se são livres ou soldadas.
+15. Associe quatro pétalas em cruz a Brassicaceae.
+16. Observe a inflorescência, o agrupamento das flores na planta.
+17. Note se as flores saem de um ponto, como um guarda-chuva.
+18. Associe esse desenho a Apiaceae; o caule oco reforça a suspeita.
+19. Note se muitas florzinhas formam uma cabeça única.
+20. Associe essa cabeça a Asteraceae, como a margarida.
+21. Observe o fruto: vagem, grão, cápsula, baga ou com pelos que voam.
+22. Associe vagem e flor em borboleta a Fabaceae, o grupo do feijão.
+23. Compare cada caractere com as descrições do guia da região.
+24. Escreva a família provável e os caracteres que bateram.
+25. Escreva "família não confirmada" se faltar flor, fruto ou confiança.
+
+ATENCAO
+-------
+Uma marca isolada engana. Caule quadrangular e cheiro forte apontam
+Lamiaceae, mas plantas de outras famílias também podem ter cheiro.
+Use sempre vários caracteres juntos e confirme no guia da região.
+Apiaceae reúne plantas comestíveis e plantas muito venenosas.
+Reconhecer a família nunca autoriza comer, chupar ou fazer chá.
+Látex branco e cheiro amargo são sinais para parar.
+Não prove nada para testar. Não esfregue a planta nos olhos.
+Se houver salivação, queimação na boca, vômito ou tontura após
+contato, pare e procure atendimento médico. Leve a amostra.
+Nome popular varia entre regiões e não serve como prova.
+
+SE NAO TIVER
+------------
+Sem lupa, use a lente do celular e muita luz.
+Sem guia impresso, peça a lista de famílias em herbário ou universidade.
+Sem flor ou fruto, escreva "sem estrutura reprodutiva" no caderno.
+Sem faca limpa, colha só o que solta fácil; não arranque a raiz.
+Sem ninguém para confirmar, mantenha a família como provável.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O caderno traz local, data, nome popular e pelo menos quatro caracteres.
+A família escrita aparece no guia da região com esses caracteres.
+Os caracteres que não bateram também ficaram anotados.
+Se faltou alguma conferência, o caderno diz "família não confirmada".
+
+FONTES
+------
+Noções Morfológicas e Taxonômicas para Identificação Botânica, da Embrapa.
+Flora e Funga do Brasil, do Instituto de Pesquisas Jardim Botânico do Rio
+de Janeiro. Material de apoio de Poaceae da UFRRJ e do Instituto de
+Botânica de São Paulo. Estudos em Biologia Vegetal: Famílias Botânicas,
+da UFRA. Compêndio de famílias da Rutgers University (Lena Struwe, 2016).

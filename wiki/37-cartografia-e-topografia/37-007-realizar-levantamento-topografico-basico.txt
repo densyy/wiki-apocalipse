@@ -1,0 +1,68 @@
+==============================================================================
+CODIGO: 37-007
+TITULO: Como realizar levantamento topográfico básico
+CATEGORIA: 37 - Cartografia, topografia e levantamento
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: caderno, lápis, fita métrica, bússola, estacas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: topografia, levantamento, bússola, nível, mapa, croqui
+==============================================================================
+
+OBJETIVO
+--------
+Medir distâncias, rumos e desníveis de um terreno pequeno e desenhar
+um croqui utilizável no caderno.
+
+QUANDO USAR
+-----------
+Quando precisar de um croqui para cercar, construir ou dividir um terreno.
+Quando um mapa antigo não mostra os detalhes do lugar.
+
+NAO USE QUANDO
+--------------
+Quando o terreno tiver acesso perigoso, como barrancas, minas ou águas
+profundas. Nestes casos, meça só a partir de lugar seguro.
+
+MATERIAIS
+---------
+- Fita métrica de 10 m ou 20 m (corda com nós a cada 1 m).
+- Bússola (aplicativo com sensor, se o celular tiver).
+- Estacas para marcar os pontos.
+- Mangueira transparente com água e fita de 2 m (régua ou bastão).
+
+PROCEDIMENTO
+------------
+1. Escolha ponto fixo e visível, finque a estaca P0 e anote data e local.
+2. Aponte a bússola para o norte, afaste metal e ímãs e anote a leitura.
+3. Meça de P0 a P1 com a fita esticada; anote a distância em metros.
+4. Meça o rumo de P0 a P1 com a bússola; anote o ângulo em graus.
+5. Repita os passos 3 e 4 para P2, P3 e os demais pontos.
+6. Encha a mangueira com água, sem bolhas, e segure as pontas com ajuda.
+7. Anote o desnível entre a água e a marca, com sinal + ou -.
+8. Some os desníveis para obter a cota de cada ponto em relação a P0.
+9. Desenhe o croqui em escala: 1 cm no papel para 1 m no terreno.
+10. Confira medindo P0 a P1 de novo; se divergir, repita a medição.
+
+ATENCAO
+-------
+Rumo é o ângulo medido no sentido horário a partir do norte; cota é a
+altitude do ponto em relação a um nível de referência. Anote a unidade.
+Bússolas perto de metal, ímãs ou fios energizados erram a leitura.
+A fita frouxa subestima a distância; a mangueira exige ausência de bolhas.
+Pare e procure ajuda se o lugar oferecer risco de queda ou afundamento.
+
+SE NAO TIVER
+------------
+Sem bússola, use a sombra ao meio-dia para achar o norte aproximado.
+Sem fita, meça com passos conhecidos e marque "aproximado" no caderno.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O croqui tem todos os pontos nomeados, com distância, rumo e cota.
+Ao medir P0 a P1 pela segunda vez, o valor repete ou varia pouco.
+
+FONTES
+------
+Prática consolidada de cartografia e topografia básica de campo.
+Resumo operacional; não substitui treinamento nem levantamento legal.

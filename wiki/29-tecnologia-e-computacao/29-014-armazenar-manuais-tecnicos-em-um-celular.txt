@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 29-014
+TITULO: Como armazenar manuais técnicos em um celular
+CATEGORIA: 29 - Tecnologia, computação e informática offline
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: celular com espaço livre, carregador, arquivos em pdf, leitor local
+REVISAO: 2026-11
+PALAVRAS-CHAVE: manual, pdf, offline, celular, guardar, leitor, copia
+==============================================================================
+
+OBJETIVO
+--------
+Guardar manuais técnicos no celular e abri-los sem internet.
+
+QUANDO USAR
+-----------
+Quando os manuais precisam estar disponíveis sem rede.
+Quando o trabalho acontece longe de internet e de energia.
+Quando o celular será a única referência técnica em uma viagem.
+
+NAO USE QUANDO
+--------------
+Não serve para manuais que só abrem na internet ou com conta online.
+Não resolve a falta de energia: sem bateria o celular não abre nada.
+
+MATERIAIS
+---------
+- Celular com espaço livre e bateria carregada.
+- Arquivos dos manuais em pdf ou epub com texto (não só imagem).
+- Leitor de arquivos que abra sem internet.
+- Cabo de dados, cartão microSD ou transferência por bluetooth.
+
+PROCEDIMENTO
+------------
+1. Verifique o espaço livre em Configurações, Armazenamento.
+2. Apague arquivos inúteis para liberar espaço.
+3. Reúna os manuais em pdf ou epub com texto selecionável.
+4. Renomeie cada arquivo com nome curto e o tema no início.
+5. Crie uma pasta chamada Manuais na memória do celular.
+6. Transfira os arquivos por cabo, cartão microSD ou bluetooth.
+7. Abra o leitor e confirme que os manuais aparecem na pasta.
+8. Ative o modo avião para simular a falta de internet.
+9. Abra cada manual no modo avião e confira se o texto aparece.
+10. Copie a pasta Manuais para outro aparelho ou cartão.
+
+ATENCAO
+-------
+Arquivos corrompidos podem não abrir; teste um por um antes de confiar.
+Leitor que exige conta ou nuvem falha sem internet; use leitor local.
+Pdf de imagem ocupa mais espaço e não permite busca; prefira pdf com texto.
+Sem bateria o celular não abre nada; leve carregador ou bateria externa.
+Sem segunda cópia, perder o celular perde todos os manuais.
+
+SE NAO TIVER
+------------
+Sem cabo, use cartão microSD com adaptador ou transferência por bluetooth.
+Sem leitor de pdf, use o gerenciador de arquivos do próprio celular.
+Sem computador, baixe os manuais no celular enquanto houver internet.
+
+COMO SABER QUE DEU CERTO
+------------------------
+No modo avião, cada manual abre e mostra texto legível.
+A pasta Manuais aparece com arquivos e nenhum está com tamanho zero.
+
+FONTES
+------
+Prática consolidada de arquivamento pessoal e preservação digital offline.
+Referências: Biblioteca do Congresso dos EUA, NIST e UNESCO, na área de
+preservação digital. Resumo operacional, não substitui treinamento.

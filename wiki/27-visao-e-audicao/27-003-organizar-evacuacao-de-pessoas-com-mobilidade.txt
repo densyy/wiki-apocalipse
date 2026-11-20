@@ -1,0 +1,94 @@
+==============================================================================
+CODIGO: 27-003
+TITULO: Como organizar evacuação de pessoas com mobilidade reduzida
+CATEGORIA: 27 - Visão, audição e necessidades especiais
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: papel, caneta, celular, fita adesiva, ajudantes treinados
+REVISAO: 2026-11
+PALAVRAS-CHAVE: evacuação, mobilidade, cadeira de rodas, ajudante, refúgio
+==============================================================================
+
+OBJETIVO
+--------
+Montar um plano de saída segura para quem tem mobilidade reduzida.
+
+QUANDO USAR
+-----------
+Quando a pessoa não sobe ou desce escada sem ajuda.
+Quando alguém usa cadeira de rodas, bengala ou andador.
+Quando o prédio tem andares e a rota de saída não é acessível.
+Quando o alarme é só sonoro e a pessoa não ouve.
+Quando a pessoa usa aparelho que depende de energia elétrica.
+Antes de simulacro ou de risco conhecido, como enchente ou incêndio.
+
+NAO USE QUANDO
+--------------
+Não use como substituto de resgate profissional. Com suspeita de
+fratura na coluna, não mova a pessoa salvo risco de vida imediato.
+
+MATERIAIS
+---------
+- Papel e caneta para desenhar a rota e anotar contatos.
+- Fita adesiva ou giz para marcar o caminho (pano claro, se faltar).
+- Celular carregado com os números de emergência salvos.
+- Cadeira de rodas manual reserva, se a pessoa usa cadeira elétrica.
+- Bengala ou andador reserva (pano forte, apenas em último caso).
+- Bateria reserva e carregador do aparelho (banco de energia).
+- Cartão impresso com nome, necessidade e forma de comunicação.
+- Ajudantes treinados e um suplente para cada um.
+
+PROCEDIMENTO
+------------
+1. Pergunte à pessoa o que ela faz sozinha e o que exige ajuda.
+2. Anote o tipo de cadeira, andador ou bengala e como montá-los.
+3. Desenhe a rota do local da pessoa até a saída mais próxima.
+4. Marque a área de refúgio: local protegido onde esperar socorro.
+5. Verifique rampa, largura da porta e piso firme; anote os obstáculos.
+6. Escolha dois ajudantes para cada pessoa que precisa de apoio.
+7. Escolha um suplente para cada ajudante, com horário diferente.
+8. Combine como avisar a pessoa: voz, toque no ombro ou cartão.
+9. Combine o ponto de encontro e o limite de tempo de espera.
+10. Deixe o plano escrito com a pessoa, os ajudantes e a portaria.
+11. Ensine os ajudantes a abrir portas e a empurrar a cadeira com cuidado.
+12. Treine a rota com a pessoa em dia normal e repita a cada mês.
+13. Mantenha a cadeira reserva, a bateria e o cartão junto da pessoa.
+14. Ao soar o alarme, avise a pessoa e confirme que ela entendeu.
+15. Desloque pela rota marcada; nunca use elevador em incêndio.
+16. Se a pessoa não usar escada, leve-a à área de refúgio e chame ajuda.
+17. Ligue para os bombeiros (193 no Brasil); informe andar e local exato.
+18. Leve a cadeira, o andador e os remédios junto com a pessoa.
+
+ATENCAO
+-------
+Não carregue a pessoa pelo braço nem pelo ombro: pode deslocar o membro.
+Nunca use elevador em incêndio: a energia pode falhar e prender a pessoa.
+Com suspeita de fratura de coluna, não arraste; imobilize e chame resgate.
+Área de refúgio não garante resgate rápido; combine limite de espera.
+Se o ajudante faltar, a pessoa fica presa; tenha suplentes.
+Não separe a pessoa da cadeira, dos remédios ou do aparelho de comunicação.
+Rota bloqueada: pare e chame os bombeiros, sem atalho improvisado.
+Não teste o plano pela primeira vez durante a emergência.
+
+SE NAO TIVER
+------------
+Sem fita, use giz ou pano claro para marcar a rota.
+Sem cadeira reserva, combine uma cadeira de transporte com o ajudante.
+Sem ajudante, peça a duas pessoas que levem a pessoa à área de refúgio.
+Não improvise carrego de escada sem treino: risco de queda e lesão grave.
+Sem cartão, escreva em papel com letra grande e prese na cadeira.
+Sem transporte acessível, peça ajuda aos bombeiros.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A pessoa saiu pela rota marcada e chegou ao ponto externo com seu aparelho.
+O plano escrito ficou com a pessoa e com pelo menos dois ajudantes.
+No simulacro, ninguém ficou para trás e o limite de espera foi cumprido.
+
+FONTES
+------
+Guia de evacuação de emergência para pessoas com deficiência da NFPA
+(National Fire Protection Association, 2016).
+Orientações da CDC sobre preparação para emergências de pessoas com
+deficiência e do programa Ready do Departamento de Segurança Interna
+dos Estados Unidos.

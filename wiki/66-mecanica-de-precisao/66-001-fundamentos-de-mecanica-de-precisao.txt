@@ -1,0 +1,71 @@
+==============================================================================
+CODIGO: 66-001
+TITULO: Como entender os fundamentos da mecânica de precisão
+CATEGORIA: 66 - Mecânica de precisão e instrumentos
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: paquímetro ou micrômetro, superfície plana, pano limpo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: precisão, tolerância, medida, paquímetro, micrômetro, erro
+==============================================================================
+
+OBJETIVO
+---------
+Medir e avaliar peça com precisão, entendendo tolerância, dilatação e erro.
+
+QUANDO USAR
+-----------
+Quando precisa conferir se a peça atende à medida pedida.
+Quando duas peças precisam encaixar com folga controlada.
+Quando vai medir peça que esteve exposta ao calor.
+
+NAO USE QUANDO
+--------------
+Não substitua norma, calibração certificada ou cálculo de engenheiro.
+Não dimensione peça que sustenta peso, pressão ou rotação alta.
+Não defina com este texto a segurança de freio ou vaso de pressão.
+
+MATERIAIS
+---------
+- Paquímetro ou micrômetro (régua milimetrada só para desbaste).
+- Superfície plana e estável (placa plana ou vidro).
+- Pano limpo, seco e sem fiapos; caderno e lápis para anotar.
+- Peça de referência já medida e estável (bloco padrão).
+
+PROCEDIMENTO
+------------
+1. Aclimate peça e instrumento no ambiente por aproximadamente 30 minutos.
+2. Limpe peça, apoio e contatos do instrumento com pano limpo.
+3. Retire rebarbas das bordas a medir com lima ou lixa leve.
+4. Feche no zero e confira contra a peça de referência já medida.
+5. Use instrumento com divisão pelo menos dez vezes menor que a tolerância.
+6. Apoie a peça na superfície plana, sem força que a deforme.
+7. Assente a face do instrumento na peça, sem inclinar.
+8. Leia a escala com os olhos na perpendicular, para evitar paralaxe.
+9. No micrômetro, aperte só até o catraco estalar; não force.
+10. Repita três vezes, anote os valores e compare com a tolerância.
+
+ATENCAO
+-------
+Metal dilata: peça quente mede maior que a fria.
+Aço cresce aproximadamente 0,012 mm por metro a cada 1 °C.
+Meça perto de 20 °C; calor da mão e do sol engana a medição.
+Sujeira, rebarba e folga no instrumento passam fácil da tolerância.
+Zero fora mede errado; força excessiva entorta peça e estraga o micrômetro.
+
+SE NAO TIVER
+------------
+Sem micrômetro, use paquímetro; não confie nele abaixo de 0,1 mm.
+Sem bloco padrão, use peça já medida e estável como referência.
+Sem placa plana, use vidro plano; nunca apoie em madeira mole.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Três medições seguidas dão o mesmo valor dentro da menor divisão.
+O zero fecha, a referência confere e a decisão está anotada no caderno.
+
+FONTES
+------
+Prática consolidada de metrologia e oficina mecânica, presente em manuais
+de instrumentos de medição e cursos profissionais. Inclui a regra prática
+de 10 para 1 e a dilatação aproximada do aço. Não substitui treinamento.

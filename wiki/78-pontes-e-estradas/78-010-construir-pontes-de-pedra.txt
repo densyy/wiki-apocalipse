@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 78-010
+TITULO: Como construir pontes de pedra
+CATEGORIA: 78 - Pontes, estradas e infraestrutura de transporte
+TEMPO: 360 minutos
+RISCO: alto
+EXIGE: pedras grandes, argamassa, cimento, enxada e nivel
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ponte, pedra, abobada, apoio, argamassa, travessia
+==============================================================================
+
+OBJETIVO
+--------
+Construir uma travessia duravel em pedra sobre um riacho ou vala estreita.
+
+QUANDO USAR
+-----------
+Para passagens permanentes em riachos de leito rochoso e firme.
+Quando ha pedra abundante e mao de obra para o servico pesado.
+Em caminhos rural de transito constante que exige durabilidade.
+Onde vigas de madeira nao resistem a umidade ou ao fogo.
+
+NAO USE QUANDO
+--------------
+Nao construa sobre solo mole, aluviao profundo ou margem erodivel.
+Nao use pedra fendida, porosa em excesso ou sem face plana.
+Nao execute sem conhecer a altura maxima da cheia no local.
+Nao monte onde falte agua para preparar a argamassa.
+
+MATERIAIS
+---------
+- Pedras grandes para os apoios e o encontro das margens (blocos).
+- Pedras menores e brita para o enchimento da abobada (cascalho).
+- Cimento e cal para a argamassa (cal hidraulica).
+- Areia limpa e agua em quantidade.
+- Enxada, pá, marreta, cesto, nivel de mangueira e fita metrica.
+- Madeira para a forma da abobada, se for o caso (tábuas).
+- Luvas, botas e capacete.
+
+PROCEDIMENTO
+------------
+1. Meça a largura do vao e a altura maxima da cheia no local.
+2. Marque no solo o limite dos dois apoios, fora do leito da agua.
+3. Escave ate encontrar solo firme nos dois lados (base de rocha).
+4. Assente a primeira camada de pedra com argamassa, bem nivelada.
+5. Erga os apoios em camadas, com juntas desencontradas.
+6. Verifique o prumo e o nivel a cada duas camadas.
+7. Deixe a abertura do vao livre e com as laterais paralelas.
+8. Monte a forma de madeira com o arco desejado, se for abobada.
+9. Assente as pedras da abobada da borda para o centro, com argamassa.
+10. Encha o topo da abobada com pedra miuda e argamassa.
+11. Cubra com terra compactada ate nivel da pista (cerca de 40 cm).
+12. Curta a argamassa por pelo menos 7 dias, mantendo umidade.
+13. Reforce as margens com pedra solta para proteger os apoios.
+14. Retire a forma so depois que a argamassa endurecer.
+15. Libere o transito apenas apos a cura completa.
+
+ATENCAO
+-------
+Pedra e argamassa pesam muito: nunca trabalhe sob carga suspensa.
+Use capacete e luvas; esmagamento de dedos e comum no servico.
+Se a base nao alcançar solo firme, a ponte afunda e racha.
+Argamassa seca rapido no calor: molhe as pedras antes de assentar.
+Nao retire a forma da abobada antes da cura, ou ela desaba.
+Aguas de cheia com muita velocidade minam a base dos apoios.
+Nao use cimento com agua suja ou areia com terra, pois enfraquece.
+
+SE NAO TIVER
+------------
+Sem cimento, use cal hidraulica ou argamassa de cal e areia.
+Sem pedra grande, use blocos de concreto ou tijolos macicos.
+Sem forma de madeira, faca abobada com pedra disposta em avanco.
+Sem nivel de mangueira, use regua nivelada com liquido em gasela.
+Sem agua suficiente, espere o periodo chuvoso para o servico.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os apoios estao em solo firme, no prumo e acima da cheia maxima.
+A abobada esta fechada, com juntas preenchidas e sem pedra solta.
+O topo esta nivelado com a pista e coberto por terra compactada.
+Apos a cura, nao ha rachaduras nem recalque nos apoios.
+
+FONTES
+------
+Pratica consolidada de alvenaria de pedra e pequenas pontes rurais,
+sem documento unico obrigatorio. Orientacoes gerais de engenharia
+civil de baixa complexidade e de conservacao de estruturas de pedra.

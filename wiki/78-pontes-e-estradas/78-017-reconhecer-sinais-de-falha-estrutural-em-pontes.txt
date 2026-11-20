@@ -1,0 +1,85 @@
+==============================================================================
+CODIGO: 78-017
+TITULO: Como reconhecer sinais de falha estrutural em pontes
+CATEGORIA: 78 - Pontes, estradas e infraestrutura de transporte
+TEMPO: 30 minutos
+RISCO: critico
+EXIGE: observação atenta, lanterna, prancheta e distância segura
+REVISAO: 2026-11
+PALAVRAS-CHAVE: falha, ponte, fissura, rachadura, afundamento, risco
+==============================================================================
+
+OBJETIVO
+--------
+Identificar sinais de que uma ponte pode entrar em colapso e agir a tempo.
+
+QUANDO USAR
+-----------
+Ao atravessar uma ponte desconhecida ou depois de cheia e temporal.
+Quando a ponte faz barulho, treme ou o piso afunda sob os pes.
+Se aparecer rachadura nova, ferrugem forte ou concreto esfarelando.
+Antes de permitir que outras pessoas ou veiculos atravessem.
+
+NAO USE QUANDO
+--------------
+Nao se aproxime se a ponte estiver balancando de forma visivel.
+Nao entre em area interditada por autoridade ou placa de risco.
+Nao tente reparo improvisado em falha estrutural: saia e avise.
+Nao confie apenas na aparencia externa para liberar o transito.
+
+MATERIAIS
+---------
+- Lanterna para ver a face inferior e os apoios (faroletro).
+- Prancheta, papel e caneta para anotar e desenhar o sinal.
+- Camara fotografica para registrar a evolucao (celular).
+- Fita metrica para medir a abertura de fissuras (regua).
+- Cetim ou fita de sinalizacao para demarcar area de risco.
+- Capacete e colete reflexivo.
+
+PROCEDIMENTO
+------------
+1. Pare a uma distancia segura e observe a ponte por inteiro.
+2. Veja se o tabuleiro esta nivelado ou inclinado para um lado.
+3. Observe os encontros com a margem: ha terra caindo ou vao aberto?
+4. Olhe as vigas e os apoios com a lanterna, sem pisar em area fragil.
+5. Identifique fissuras: note a largura, o comprimento e o local.
+6. Diferencie fissura fina superficial de rachadura larga e profunda.
+7. Ouça estalos, gemidos ou rangeres ao passar peso leve (com cuidado).
+8. Verifique se o piso afunda ou devolve o movimento ao caminhar.
+9. Note concreto esfarelando, ferrugem exposta ou armadura a vista.
+10. Confira se ha agua escorrendo juntas ou apodrecimento da madeira.
+11. Compare com fotos antigas, se houver registro anterior.
+12. Classifique: sinal leve (acompanhar), medio (reparo) ou urgente (parar).
+13. Fotografe, anote a data e comunique a autoridade responsavel.
+14. Se for urgente, interdite a passagem e mantenha pessoas afastadas.
+
+ATENCAO
+-------
+Nao existe sinal unico de colapso: a mudanca rapida e o pior indice.
+Fissura crescente, barulho e afundamento juntos sao alerta maxima.
+Se a ponte treme sob peso leve, nao insista na verificacao.
+Nunca fique sob a ponte durante a observacao.
+Interdicao e comunicação a autoridade vem antes de qualquer reparo.
+Este guia ensina a reconhecer sinais, nao a fazer laudo tecnico.
+Na duvida, trate como risco e chame um profissional habilitado.
+
+SE NAO TIVER
+------------
+Sem lanterna, observe so a parte visivel e registre a limitacao.
+Sem registro anterior, fotografe agora e acompanhe nos dias seguintes.
+Sem fita de sinalizacao, use pedras ou galhos para marcar o afastamento.
+Sem celular, desenhe o sinal no papel com medidas aproximadas.
+Sem autoridade local, avise o proprietario e as pessoas da regiao.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os sinais foram identificados, medidos, fotografados e datados.
+O caso foi classificado em leve, medio ou urgente com seguranca.
+A comunicação chegou a quem pode interditar e reparar a ponte.
+A area foi sinalizada se houve qualquer risco de colapso.
+
+FONTES
+------
+Pratica consolidada de reconhecimento de danos em pontes e alerta
+de colapso, sem documento unico obrigatorio. Orientacoes gerais de
+vistoria visual e seguranca estrutural em obras viarias rurais.

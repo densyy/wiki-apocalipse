@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 44-003
+TITULO: Como identificar áreas de recarga de aquíferos
+CATEGORIA: 44 - Hidrologia, rios e gestão de bacias
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: mapa topográfico, caderno, lápis, roupa de caminhada
+REVISAO: 2026-11
+PALAVRAS-CHAVE: aquífero, recarga, infiltração, nascente, poço, lençol
+==============================================================================
+
+OBJETIVO
+--------
+Identificar onde a chuva infiltra e recarrega um aquífero.
+
+QUANDO USAR
+-----------
+Quando precisar escolher onde cavar ou perfurar um poço.
+Quando quiser proteger a área que abastece uma nascente ou poço.
+Quando uma fonte secou e você precisa entender o motivo.
+
+NAO USE QUANDO
+--------------
+Quando houver suspeita de contaminação química no solo: agrotóxico,
+combustível ou lixiviado de lixão. A recarga espalha o contaminante.
+
+MATERIAIS
+---------
+- Mapa topográfico da região (ou croqui desenhado no caderno).
+- Caderno, lápis, bússola (ou sombra) e pá, com autorização do dono.
+- Roupa de caminhada, calçado firme e proteção contra sol e chuva.
+
+PROCEDIMENTO
+------------
+1. Chame de aquífero a rocha porosa que guarda água e a deixa passar.
+2. Chame de recarga a entrada da água da chuva nessa rocha.
+3. Marque no mapa os pontos altos e as encostas da região.
+4. Note onde a rocha porosa aflora: areia, cascalho, arenito, calcário.
+5. Marque depressões e fundos de vale que recebem água da chuva.
+6. Anote nascentes, brejos e árvores de água, como álamo, em região seca.
+7. Abra uma trincheira de aproximadamente 30 cm no solo permeável.
+8. Despeje aproximadamente 1 litro de água e meça o tempo para sumir.
+9. Repita em três pontos e marque no mapa o de infiltração mais rápida.
+
+ATENCAO
+-------
+Infiltração rápida não prova que há aquífero produtivo: o teste mostra
+só a permeabilidade da camada superficial do solo.
+Solo permeável pode cobrir argila impermeável; a água não desce.
+Água poluída chega ao aquífero pela mesma via da recarga. Não escave
+perto de fossa, lixão ou lavoura com agrotóxico sem analisar a água.
+Em terreno íngreme não escave; pare se a água escurecer ou espumar.
+
+SE NAO TIVER
+------------
+Sem mapa, desenhe um croqui com morros, vales e o escoamento da chuva.
+Sem bússola, use a sombra ao meio-dia; sem água, observe o solo:
+areia e cascalho soltos indicam mais permeabilidade que argila.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você tem um croqui com três pontos e anotou o tipo de solo e o tempo
+de infiltração em cada um; o maior fica em rocha porosa que recebe chuva.
+
+FONTES
+------
+Prática consolidada de hidrogeologia de campo, resumida das publicações
+da USGS Water Science School: "Aquifers and Groundwater" e "How Do
+Hydrologists Locate Groundwater". Resumo operacional, não substitui
+estudo hidrogeológico nem treinamento.

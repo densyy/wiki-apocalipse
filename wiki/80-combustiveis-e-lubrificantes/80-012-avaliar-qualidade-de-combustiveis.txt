@@ -1,0 +1,82 @@
+==============================================================================
+CODIGO: 80-012
+TITULO: Como avaliar qualidade de combustíveis
+CATEGORIA: 80 - Produção de combustíveis e lubrificantes
+TEMPO: 50 minutos
+RISCO: alto
+EXIGE: frasco transparente, papel filtro, balança, ventilação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: qualidade, umidade, impurezas, fulgor, octanagem, cinza
+==============================================================================
+
+OBJETIVO
+--------
+Verificar sinais de contaminação antes de usar um combustível.
+
+QUANDO USAR
+-----------
+Ao abrir um tambor ou tanque que ficou parado por meses.
+Depois de transporte, chuva ou entrada de água no estoque.
+Antes de abastecer gerador, veículo ou fogão a querosene.
+Ao receber doação de combustível de origem desconhecida.
+
+NAO USE QUANDO
+--------------
+Não use prova de fogo para medir qualidade de gasolina.
+Não confie apenas na cor: aditivos mudam a aparência.
+Não use se o recipiente estiver corroído ou com cheiro ácido.
+Não descarte resíduo contaminado em solo ou curso d'água.
+
+MATERIAIS
+---------
+- Frasco de vidro transparente com tampa, limpo e seco.
+- Papel filtro ou pano branco fino (café ou algodão).
+- Balança de cozinha e colher de metal.
+- Água, soda caustica diluída apenas com orientação (opcional).
+- Luvas nitrílicas, óculos e extintor por perto.
+- Termômetro e detector de inflamáveis, se disponíveis.
+
+PROCEDIMENTO
+------------
+1. Rotule o frasco com origem, data e tipo declarado.
+2. Deixe a amostra descansar e observe a formação de camadas.
+3. Água no fundo indica infiltração: separe com pipeta.
+4. Pingue uma gota em papel filtro e observe a mancha.
+5. Mancha com halo escuro indica impureza ou oxidação.
+6. Filtre uma pequena quantidade e compare o resíduo no papel.
+7. Resíduo granular sugere ferrugem, areia ou sujeira.
+8. Pese o filtro antes e depois para estimar o sólido retido.
+9. Agite o frasco e observe bolhas que sobem devagar.
+10. Bolhas persistentes podem indicar água emulsificada.
+11. Compare a viscosidade com amostra de referência conhecida.
+12. Anote cheiro ácido ou de solvente forte como sinal de alerta.
+13. Separe a parte duvidosa e não a misture ao estoque bom.
+14. Registre os achados e repita a inspeção a cada recebimento.
+
+ATENCAO
+-------
+Estes testes detectam sinais grosseiros, não especificações de norma.
+Ponto de fulgor, octanagem e cetano exigem equipamento próprio.
+Combustível com água pode parar o motor e corroer tanque e bomba.
+Combustível oxidado deixa goma e entope filtro e injetores.
+Nunca use fogo aberto para "queimar" a amostra e testar.
+Se houver dúvida sobre a origem, descarte o lote com segurança.
+
+SE NAO TIVER
+------------
+Sem papel filtro, use pano branco limpo e observe a mancha.
+Sem balança, compare duas colheres cheias de amostras diferentes.
+Sem detector, redobre ventilação e evite qualquer faísca.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A amostra apresenta uma fase só, sem água no fundo.
+O papel filtro sai quase limpo, sem grãos escuros.
+A viscosidade é parecida com a de uma amostra de referência.
+Você registrou data, origem e resultado da inspeção.
+
+FONTES
+------
+Procedimentos usuais de inspeção visual em postos, oficinas e estoques
+de combustíveis, aliados a noções de controle de contaminação.
+Leitura complementar: 80-011 e 80-019.

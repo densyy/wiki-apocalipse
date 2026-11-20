@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 08-025
+TITULO: Como construir uma forja artesanal
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 120 minutos
+RISCO: alto
+EXIGE: recipiente metálico, massa refratária, tubo de aço, fole, carvão
+REVISAO: 2026-11
+PALAVRAS-CHAVE: forja, ferreiro, carvão, fogo, fole, brasa, metal, ar
+==============================================================================
+
+OBJETIVO
+--------
+Construir uma forja a carvão simples para aquecer metal até ficar maleável.
+
+QUANDO USAR
+-----------
+Quando for preciso martelar metal e não houver forja pronta.
+Quando faltar energia elétrica para usar um soprador.
+Quando for preciso fabricar ou consertar ferramentas no acampamento.
+Quando o trabalho exigir calor localizado em peça pequena.
+
+NAO USE QUANDO
+--------------
+Dentro de casa, garagem, barraca ou galpão sem saída de fumaça.
+Em terreno com palha seca, lenha, tanque de combustível ou grama alta.
+Sem água e areia ou extintor ao alcance da mão.
+
+MATERIAIS
+---------
+- Recipiente metálico raso de aço, sem galvanização (tambor de freio, grelha
+  ou caixa de chapa).
+- Tijolos refratários (ou pedra seca e densa, com massa refratária).
+- Massa refratária: argila de olaria com areia limpa e palha picada.
+- Tubo de aço com aproximadamente 3 cm de diâmetro, nunca galvanizado.
+- Fole manual ou soprador (fole de couro ou bomba manual servem).
+- Carvão vegetal em pedaços, sem briquetes de churrasco.
+- Balde com água e outro com areia seca para apagar o fogo.
+- Luvas de couro, óculos de proteção e avental de algodão grosso ou couro.
+- Tenazes longas e uma bigorna (bloco de aço ou pedra densa servem).
+
+PROCEDIMENTO
+------------
+1. Escolha local plano e firme, ao ar livre, longe de lenha e palha.
+2. Retire grama e folhas num círculo de pelo menos 1 metro de diâmetro.
+3. Observe o vento e deixe a fumaça ir para longe de pessoas e construções.
+4. Descarte pedras molhadas, porosas ou rachadas: estouram com o calor.
+5. Apoie o recipiente metálico sobre tijolos, na altura da cintura.
+6. Forre o fundo com massa refratária em camada de aproximadamente 2 cm.
+7. Vede a parede interna até aproximadamente 5 cm de altura.
+8. Espere a massa secar antes de acender qualquer fogo.
+9. Abra um furo lateral no recipiente, a aproximadamente 5 cm do fundo.
+10. Encaixe o tubo de aço no furo com a ponta rente à parede interna.
+11. Vede com massa refratária a fresta ao redor do tubo.
+12. Empilhe tijolos refratários nas laterais para segurar o carvão e a peça.
+13. Deixe a frente aberta para colocar e retirar metal com as tenazes.
+14. Ligue o fole ou soprador ao tubo e comece com ar fraco.
+15. Ponha carvão vegetal em pedaços até aproximadamente 10 cm de altura.
+16. Acenda o carvão pelo lado de onde vem o vento (barlavento).
+17. Aumente o ar pouco a pouco; o carvão deve ficar vermelho-vivo.
+18. Ponha a peça de metal sobre as brasas, à frente da saída do tubo.
+19. Vire a peça com tenazes longas até ficar vermelho-cereja e maleável.
+20. Alimente o fogo só com carvão; nunca use briquete, gasolina ou álcool.
+21. Corte o ar e apague todas as brasas com água ou areia ao terminar.
+22. Despeje a cinza fria em balde metálico com tampa, longe de madeira.
+
+ATENCAO
+-------
+Use luvas, óculos e tenazes: o metal quente parece igual ao frio.
+O monóxido de carbono é incolor, inodoro e mata sem aviso. Nunca queime
+carvão dentro de casa, garagem, barraca ou galpão fechado.
+Dor de cabeça, tontura ou náusea perto do fogo: saia para o ar livre.
+Nunca use tubo galvanizado: a zincagem libera fumaça tóxica sob calor.
+Pedra molhada ou porosa estoura com o calor; tijolo comum racha e vira pó.
+Nunca use gasolina, álcool ou briquete: o fogo sobe e a fumaça fica tóxica.
+Nunca deixe a forja acesa sem vigilância; tenha água e areia por perto.
+Resfrie queimadura com água corrente fria; se for grande ou profunda,
+procure ajuda.
+
+SE NAO TIVER
+------------
+Sem tijolo refratário, use argila de olaria com areia e palha na parede.
+Sem soprador, use fole manual de couro; nunca sopre o fogo com a boca.
+Sem carvão, use pedaços de madeira dura e seca: o calor será menor.
+Sem balde metálico, espere a cinza esfriar e enterre-a longe de madeira.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A massa secou sem rachaduras e o tubo ficou firme e vedado.
+O carvão brilha vermelho-vivo, com chama curta e pouca fumaça.
+A peça fica vermelho-cereja e dobra sob o martelo sem rachar.
+
+FONTES
+------
+Manual do Exército dos EUA FM 3-05.70 Survival (2002), capítulo 7 do fogo.
+CDC, noções básicas sobre envenenamento por monóxido de carbono, 2026.
+NR-14 do Ministério do Trabalho e Emprego: forno sólido, revestimento
+refratário e saída dos gases.
+A montagem da forja a carvão é prática consolidada de ferraria, sem
+documento único.

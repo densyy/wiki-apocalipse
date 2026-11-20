@@ -1,0 +1,77 @@
+==============================================================================
+CODIGO: 78-004
+TITULO: Como construir estradas com cascalho
+CATEGORIA: 78 - Pontes, estradas e infraestrutura de transporte
+TEMPO: 600 minutos
+RISCO: medio
+EXIGE: cascalho limpo, leito nivelado e valetas abertas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: cascalho, revestimento, leito, compactar, camada, drenagem
+==============================================================================
+
+OBJETIVO
+--------
+Revestir um caminho com cascalho para suportar chuva e peso.
+
+QUANDO USAR
+-----------
+Quando a terra pura vira lama no inverno ou na chuva.
+Para dar firmeza a trecho de muito movimento.
+Ao preparar base para passagem de animais e cargas.
+Quando há cascalho ou pedra miúda disponível perto.
+
+NAO USE QUANDO
+--------------
+Não use cascalho com muita terra ou lama misturada.
+Não aplique camada grossa de uma só vez sem compactar.
+Não descarregue cascalho dentro das valetas.
+
+MATERIAIS
+---------
+- Cascalho lavado ou pedra britada miúda (areia grossa como reforço).
+- Enxada, pá e rastelo para espalhar o material.
+- Rolo de pedra ou madeira preso a corda para compactar.
+- Mangueira ou balde com água para umedecer a camada.
+- Corda ou estacas para manter a largura uniforme.
+
+PROCEDIMENTO
+------------
+1. Limpe e nivele o leito de terra antes de espalhar cascalho.
+2. Confirme que as valetas laterais estão abertas e funcionando.
+3. Espalhe uma primeira camada fina de cascalho por todo o leito.
+4. Umedeça a camada com água em quantidade moderada.
+5. Compacte com rolo passando várias vezes no mesmo trecho.
+6. Repita em camadas finas até atingir a espessura desejada.
+7. Corrija sulcos e partes moles antes da próxima camada.
+8. Misture areia grossa onde o cascalho for muito grosso.
+9. Cubra as bordas com pedra maior para evitar que se espalhe.
+10. Revise o revestimento após a primeira chuva e recompacte.
+
+ATENCAO
+-------
+Cascalho com terra em excesso retém água e vira lama.
+Camada grossa sem compactação afunda sob o peso.
+Pedra grande na superfície cansa animais e fere pés.
+Cascalho solto pode ser levado pela água se não houver valeta.
+Umedecer demais atrasa a compactação e cria lama.
+Trabalhe em trechos curtos para controlar a qualidade.
+
+SE NAO TIVER
+------------
+Sem cascalho, use pedra miúda de riacho seco com areia grossa.
+Sem rolo, prenda pedra pesada em corda e arraste sobre a camada.
+Sem mangueira, umedeça com balde e pano molhado.
+Sem estacas, use corda esticada para guiar a largura.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O cascalho forma camada firme e não afunda ao caminhar.
+A água escoa para as valetas sem arrastar o revestimento.
+A superfície não fica escorregadia nem com pedras grandes soltas.
+O trecho permanece passável após chuva moderada.
+
+FONTES
+------
+Prática consolidada de revestimento de caminhos com cascalho, comum em
+obras rurais e manutenção de estradas. A espessura e o material variam
+com o solo e o movimento; compactar em camadas finas é o ponto essencial.

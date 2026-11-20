@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 01-022
+TITULO: Como filtrar água com materiais naturais
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: pano limpo, areia, cascalho, carvão de madeira, calor para ferver
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, filtro, areia, cascalho, carvão, pano, coar, turva
+==============================================================================
+
+OBJETIVO
+--------
+Reduzir a sujeira visível e o cheiro da água antes da desinfecção.
+
+QUANDO USAR
+-----------
+Quando a água está turva, com terra ou folhas em suspensão.
+Quando a água tem cheiro ou sabor de terra, mofo ou fumo.
+Quando a fonte é rio, lago, poço raso ou água da chuva coletada.
+
+NAO USE QUANDO
+--------------
+Quando houver suspeita de combustível, agrotóxico, metal, sal ou material
+radioativo. Areia e carvão não removem esses contaminantes com segurança.
+Quando a água vier de esgoto ou tiver cheiro forte de podre: busque outra.
+
+MATERIAIS
+---------
+- Pano de algodão limpo, sem furos (outro tecido limpo e fechado).
+- Balde ou pote com saída no fundo (torneira, bico ou mangueira curta).
+- Areia fina lavada, sem pedras nem lixo.
+- Cascalho ou pedregulho lavado, do tamanho de um feijão ou maior.
+- Carvão de madeira limpa, triturado e lavado (sem gasolina, tinta ou lixo).
+- Recipiente limpo e tampado para guardar a água.
+- Fonte de calor para ferver a água depois.
+
+PROCEDIMENTO
+------------
+1. Deixe a água parada por aproximadamente 2 dias para a sujeira assentar.
+2. Coe com pano limpo, lavado a cada uso, para reter terra e larvas.
+3. Teste o pano: se a sujeira passar, use outro tecido mais fechado.
+4. Lave areia, cascalho e carvão até a água da lavagem sair limpa.
+5. Coloque aproximadamente 10 cm de cascalho no fundo do balde.
+6. Cubra com aproximadamente 30 cm de areia fina lavada.
+7. Adicione aproximadamente 5 cm de carvão triturado e lavado.
+8. Despeje a água coada no topo sem levantar a areia.
+9. Abra a saída e deixe um fio fino e constante, sem pressão.
+10. Ferva a água filtrada por 1 minuto de ebulição forte.
+11. Se estiver acima de 2.000 m de altitude, conte 3 minutos.
+12. Desligue o fogo e tampe o recipiente.
+13. Guarde a água fria em recipiente limpo e tampado.
+
+ATENCAO
+-------
+Filtro caseiro não torna a água potável. Mesmo clara, ela pode conter
+vírus e parasitas pequenos que passam pelo pano e pela areia.
+Nunca beba água filtrada crua. Ferva antes de beber ou cozinhar.
+Areia, cascalho e pano não removem com segurança combustível, agrotóxico,
+metal, sal ou material radioativo. Com suspeita química, troque de fonte.
+O carvão melhora sabor e cheiro, mas não desinfeta e pode soltar
+microrganismos na água. Não conte o carvão como desinfecção.
+Filtro entupido ou com canais, em que a água corre rápido por um lado,
+deixa passar sujeira. Lave os materiais e refaça as camadas.
+Descarte as primeiras porções até clarear; guarde tampado, sem tocar.
+Se beber e tiver diarreia, vômito ou olhos amarelados, pare de usar a
+água e procure atendimento médico. Para ferver, veja 01-001.
+
+SE NAO TIVER
+------------
+Sem pano de algodão, use outro tecido limpo e fechado, que não deixe
+passar terra. Não use pano sujo.
+Sem cascalho, use pedras pequenas lavadas no fundo do recipiente.
+Sem carvão, pule a camada: a água fica com sabor pior, mas a areia
+continua filtrando. Não use cinza, serragem ou carvão com química.
+Sem areia fina, não use terra, cinza ou serragem no lugar: não filtram
+de forma confiável e podem deixar a água pior.
+Sem balde com saída, use outro recipiente limpo com furo pequeno no fundo.
+Nunca substitua a fervura por repouso, pano, sol ou carvão para beber.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água sai clara, sem terra, em fio fino e constante; a areia não sobe.
+O pano retém terra quando você o usa.
+A água foi fervida e ficou em recipiente limpo e tampado.
+
+FONTES
+------
+Organização Mundial da Saúde: Notas técnicas de água, saneamento e
+higiene em emergências, numero 5, Tratamento de água potável no ponto
+de uso (2013); Diretrizes para a qualidade da água potável, quarta
+edição; Avaliação de opções de tratamento domiciliar de água (2011).
+Cruz Vermelha: Tratamento e armazenamento seguro de água em emergências.
+CDC: Tratamento domiciliar de água - filtro lento de areia.
+Funasa: Manual de saneamento, capítulo Abastecimento de água.
+Prática consolidada; resumo operacional, não substitui treinamento.

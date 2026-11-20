@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 43-008
+TITULO: Como produzir concreto de alta resistência
+CATEGORIA: 43 - Produção de materiais de construção
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: cimento fresco, areia, brita, água limpa, balde, pá
+REVISAO: 2026-11
+PALAVRAS-CHAVE: concreto, alta resistência, cimento, areia, brita, cura
+==============================================================================
+
+OBJETIVO
+--------
+Produzir concreto denso e resistente com pouca água e cura controlada.
+
+QUANDO USAR
+-----------
+Quando a peça vai suportar carga, como pilar, viga ou laje.
+Quando se precisa de menor permeabilidade e maior durabilidade.
+Quando há cimento Portland fresco e agregados limpos disponíveis.
+Quando a obra pode manter a peça úmida nos primeiros dias.
+
+NAO USE QUANDO
+--------------
+Não use em peça estrutural sem projeto e acompanhamento de profissional.
+Não use se o cimento estiver com grumos duros, úmido ou vencido.
+Não use com água salgada, areia com sal ou agregado com matéria orgânica.
+Não use se não for possível manter a cura úmida por pelo menos 7 dias.
+
+MATERIAIS
+---------
+- 1 balde de cimento Portland fresco e seco (sem grumos duros).
+- 1 e 1/2 baldes de areia fina limpa (peneirada, sem lama).
+- 2 e 1/2 baldes de brita ou pedra britada limpa (8 a 20 mm).
+- Água potável ou limpa, sem sal, óleo ou matéria orgânica.
+- Balde, pá, recipiente plano para misturar e soquete ou vibrador.
+- Lona, pano ou serragem para cobrir e manter a umidade.
+- Aditivo redutor de água e sílica ativa, se disponíveis (opcionais).
+
+PROCEDIMENTO
+------------
+1. Confira se o cimento está seco e sem grumos; descarte o que endureceu.
+2. Lave a areia e a brita se houver lama, sal ou pó; escorra antes de usar.
+3. Meça com o mesmo balde: 1 de cimento, 1 e 1/2 de areia.
+4. Meça 2 e 1/2 baldes de brita com o mesmo balde.
+5. Despeje areia e cimento no recipiente e misture seco até ficar uniforme.
+6. Acrescente a brita e misture seco por aproximadamente 1 minuto.
+7. Prepare aproximadamente 0,4 balde de água por balde de cimento.
+8. Adicione a água aos poucos, misturando sem parar, até ficar uniforme.
+9. Se usar aditivo redutor de água, siga a dose da embalagem; não improvise.
+10. Não acrescente água extra, mesmo se a massa parecer seca.
+11. Adense com soquete ou vibrador para retirar bolhas de ar da massa.
+12. Encha a forma em camadas de aproximadamente 20 cm e adense cada camada.
+13. Cubra a peça com lona, pano úmido ou serragem logo após a moldagem.
+14. Mantenha a superfície úmida por aproximadamente 7 dias, sem sol direto.
+15. Proteja do frio intenso e do vento forte nos primeiros dias.
+16. Só retire a forma e carregue a peça após aproximadamente 28 dias.
+
+ATENCAO
+-------
+Cimento fresco queima pele e olhos; use luvas, óculos e evite inalar o pó.
+Água em excesso é o erro mais comum: cada balde extra reduz a resistência.
+Mistura seca demais não escorre; molhada demais segrega e forma bolhas.
+Ar preso, cura seca e calor intenso reduzem a resistência e geram fissuras.
+A resistência cresce com o tempo: não carregue a peça antes de 28 dias.
+Não use esta mistura em ponte ou edifício sem cálculo de um profissional.
+Se aparecerem fissuras largas ou segregação, descarte todo o lote misturado.
+Pare e procure ajuda se a peça estiver em local com risco de colapso.
+
+SE NAO TIVER
+------------
+Sem brita, use pedra britada de tamanho similar, lavada e sem pó.
+Sem aditivo, mantenha a água no mínimo e aceite mistura mais seca.
+Sem sílica ativa, respeite a dosagem e reforce a cura.
+Sem lona, use pano limpo e úmido, terra úmida ou serragem molhada.
+Não substitua cimento por cal, cinza ou argila em peça estrutural.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A massa sai uniforme da pá, sem grumos secos nem poças de água.
+A superfície da peça fica lisa, sem ninhos de pedra nem bolhas visíveis.
+A peça permanece úmida e firme ao toque durante os 7 dias de cura.
+Após 28 dias, a peça não apresenta fissuras largas nem se desfaz ao toque.
+
+FONTES
+------
+Prática consolidada de tecnologia do concreto, sem documento único.
+Referência institucional: American Concrete Institute (ACI).
+Cura e dosagem: resumo operacional, não substituem engenheiro.

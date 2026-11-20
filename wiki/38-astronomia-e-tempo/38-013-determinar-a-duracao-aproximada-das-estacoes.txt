@@ -1,0 +1,68 @@
+==============================================================================
+CODIGO: 38-013
+TITULO: Como determinar a duração aproximada das estações
+CATEGORIA: 38 - Astronomia e medição do tempo
+TEMPO: 15 minutos por semana
+RISCO: baixo
+EXIGE: calendário, caderno, bastão reto, local com sol livre
+REVISAO: 2026-11
+PALAVRAS-CHAVE: estação, solstício, equinócio, sombra, estação do ano
+==============================================================================
+
+OBJETIVO
+---------
+Estimar, sem internet, quantos dias dura cada estação do ano.
+
+QUANDO USAR
+-----------
+Quando o calendário não mostra a data de início das estações.
+Quando precisar planejar plantio, colheita ou guarda de alimentos.
+
+NAO USE QUANDO
+--------------
+Quando precisar de data exata para prazo legal ou contrato.
+No interior tropical, onde chuva e seca importam mais que solstícios.
+
+MATERIAIS
+---------
+- Calendário ou caderno com os dias do ano numerados.
+- Bastão reto de aproximadamente 1 m (estaca ou cabo de vassoura).
+- Pedras para manter o bastão na vertical.
+- Local plano, com sol livre entre 10 e 14 horas.
+
+PROCEDIMENTO
+------------
+1. Fixe o bastão na vertical em local plano e livre de sombras.
+2. Ao meio-dia, meça a sombra do bastão e anote a data.
+3. Repita a medição uma vez por semana, sempre no mesmo horário.
+4. Marque as datas da sombra mais curta e da mais longa do ano.
+5. Marque as datas em que o dia e a noite duram cerca de 12 horas.
+6. No Hemisfério Sul, a sombra mais curta marca o início do verão.
+7. A sombra mais longa marca o início do inverno.
+8. As datas de 12 horas marcam o outono e a primavera.
+9. Conte os dias entre datas seguidas para obter a duração aproximada.
+10. Use de 89 a 93 dias por estação como faixa de referência.
+
+ATENCAO
+-------
+A mudança de estação não muda o tempo de um dia para outro.
+As datas variam cerca de um dia de um ano para outro.
+A órbita da Terra não é circular: as estações duram de 89 a 93 dias.
+Não confunda com estações meteorológicas, que usam meses cheios.
+No Hemisfério Norte, verão e inverno trocam de lugar nas datas.
+
+SE NAO TIVER
+------------
+- Sem sol, use datas fixas no Hemisfério Sul: verão 21/12, outono 20/03.
+- Inverno 21/06 e primavera 22/09; são datas aproximadas.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As datas marcadas formam quatro intervalos de aproximadamente 90 dias.
+A sombra mais curta e a mais longa ocorrem com aproximadamente seis meses.
+
+FONTES
+------
+Infográfico da NOAA sobre estações meteorológicas e astronômicas, 2024.
+NOAA NCEI, Meteorological Versus Astronomical Seasons, 2016 e 2023.
+Serviço Earth's Seasons do Observatório Naval dos EUA.

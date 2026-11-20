@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 38-024
+TITULO: Como compreender os diferentes sistemas de calendário
+CATEGORIA: 38 - Astronomia e medição do tempo
+TEMPO: 40 minutos
+RISCO: baixo
+EXIGE: caderno, lápis, calendário impresso, tabela de fases da Lua
+REVISAO: 2026-11
+PALAVRAS-CHAVE: calendário, solar, lunar, lunissolar, bissexto, lua, data
+==============================================================================
+
+OBJETIVO
+--------
+Distinguir calendários solares, lunares e lunissolares e ler suas datas.
+
+QUANDO USAR
+-----------
+Ao receber uma data escrita em calendário desconhecido.
+Ao comparar uma festa religiosa com o calendário civil.
+Ao conferir se um ano é bissexto sem usar celular.
+
+NAO USE QUANDO
+--------------
+Quando precisar de data exata para prazo legal, remédio ou viagem.
+Quando a data depender de avistar a lua: a regra só dá aproximação.
+
+MATERIAIS
+---------
+- Calendário impresso de um ano e tabela de fases da Lua.
+- Caderno e lápis para anotar regras e exemplos.
+
+PROCEDIMENTO
+------------
+1. Escreva no caderno os doze meses e seus dias.
+2. Compare o dia 1 de cada mês com a fase da Lua da tabela.
+3. Se o dia 1 não acompanha a Lua, marque: calendário solar.
+4. Se cada dia 1 fica junto da lua nova, marque: calendário lunar.
+5. Se há mês extra para seguir a Lua, marque: lunissolar.
+6. Some os dias do ano: 365 ou 366 confirma calendário solar.
+7. Anote 354 ou 355 dias: isso indica calendário lunar.
+8. Divida o ano por 4 e veja se o resto é zero.
+9. Se o ano termina em 00, divida também por 400.
+10. Aplique a regra: múltiplo de 4 é bissexto, menos os múltiplos de 100.
+11. Recupere os múltiplos de 400: 2000 é bissexto; 1900 não é.
+12. Anote que o calendário juliano aceita todo múltiplo de 4.
+13. Conte 12 luas no calendário islâmico: cerca de 354 dias.
+
+ATENCAO
+-------
+O ano solar tem cerca de 365 dias e 6 horas; daí o dia bissexto.
+A regra gregoriana dá 365,2425 dias por ano, perto do ano das estações.
+Doze luas somam cerca de 354 dias, cerca de 11 a menos que o ano solar.
+O ano islâmico recua cerca de 11 dias por ano; o ciclo dura 33 anos.
+No lunissolar, 19 anos solares trazem 235 luas (ciclo metônico).
+
+SE NAO TIVER
+------------
+Sem tabela de fases, observe o céu por algumas noites seguidas.
+Sem calendário impresso, desenhe os meses no caderno e conte os dias.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O tipo marcado no caderno coincide com a soma dos dias e com a lua.
+Os anos bissextos escolhidos seguem a regra de 4, 100 e 400.
+
+FONTES
+------
+USNO, Introduction to Calendars e Leap Years: regras solares e bissexto.
+USNO, The Islamic Calendar: 12 luas, 354 dias, recuo de 11 dias por ano.
+NIST, A Walk Through Time - Ancient Calendars: solar, lunar e bissexto.

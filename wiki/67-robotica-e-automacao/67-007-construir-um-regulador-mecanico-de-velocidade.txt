@@ -1,0 +1,91 @@
+==============================================================================
+CODIGO: 67-007
+TITULO: Como construir um regulador mecânico de velocidade
+CATEGORIA: 67 - Robótica, automação e controle
+TEMPO: 180 minutos
+RISCO: alto
+EXIGE: eixo, duas esferas, braços, manga deslizante, alavanca, correia
+REVISAO: 2026-11
+PALAVRAS-CHAVE: regulador, velocidade, centrífugo, esferas, acelerador
+==============================================================================
+
+OBJETIVO
+---------
+Montar um regulador centrífugo que mantém a rotação de uma máquina
+pequena dentro de uma faixa, sem usar energia elétrica.
+
+QUANDO USAR
+-----------
+Quando uma roda d'água ou cata-vento acelera além do seguro.
+Quando a carga na máquina varia e a velocidade sobe e desce.
+Quando não há energia elétrica para um controle eletrônico.
+Quando um gerador ou bomba precisa girar quase sempre na mesma rotação.
+
+NAO USE QUANDO
+--------------
+Em máquina de alta rotação sem proteção e sem conhecimento de mecânica.
+Quando a velocidade exata for crítica: a faixa não basta.
+Em caldeira ou vaso de pressão sem válvula de segurança independente.
+
+MATERIAIS
+---------
+- Eixo vertical de aço ou ferro para o fuso (barra de 10 a 12 mm).
+- Duas esferas ou pesos iguais de metal (aproximadamente 150 g cada).
+- Dois braços superiores e dois braços inferiores de metal rígido.
+- Manga deslizante que deslize no eixo com folga pequena.
+- Alavanca de metal para ligar a manga à válvula de entrada.
+- Base rígida com suporte, bucha ou rolamento para o eixo.
+- Polia e correia para ligar o eixo à máquina.
+- Válvula, comporta ou registro que controle a entrada do fluido.
+- Parafusos, porcas e arruelas de travamento.
+- Óculos de proteção e guarda para as partes girantes.
+
+PROCEDIMENTO
+------------
+1. Fixe a base e instale o suporte com bucha ou rolamento.
+2. Encaixe o eixo vertical e gire à mão; confirme a ausência de folga.
+3. Instale a polia na base do eixo e ligue-a à máquina com correia.
+4. Fixe no topo do eixo duas articulações opostas, na mesma altura.
+5. Prenda um braço superior em cada articulação, com uma esfera na ponta.
+6. Confira se as esferas pesam igual; peso desigual vibra o eixo.
+7. Encaixe a manga deslizante no eixo, abaixo das articulações.
+8. Ligue cada esfera à manga com um braço inferior, formando um losango.
+9. Instale a alavanca: uma ponta encosta na manga, a outra na válvula.
+10. Ajuste a alavanca: com esferas paradas, a válvula fica aberta.
+11. Gire o eixo devagar à mão: as esferas devem subir e afastar-se.
+12. Confirme que a manga sobe e, pela alavanca, fecha a válvula.
+13. Acione a máquina em rotação baixa e aumente aos poucos.
+14. Ajuste o ponto da alavanca até a rotação estabilizar na faixa desejada.
+15. Coloque a guarda ao redor das esferas antes da rotação normal.
+
+ATENCAO
+-------
+Peças que giram podem soltar-se e ferir: use guarda e óculos sempre.
+Nunca incline o regulador: ele usa a gravidade para baixar as esferas.
+Regulador simples mantém faixa de velocidade, nunca um valor exato.
+Sem válvula de segurança independente, uma falha pode acelerar a máquina.
+Pare na hora se ouvir batida metálica ou se uma esfera se soltar.
+Não use em caldeira ou vaso de pressão sem dispositivo de segurança.
+
+SE NAO TIVER
+------------
+Sem esferas de metal, use porcas grandes iguais presas com arame firme.
+Sem bucha ou rolamento, use um furo lubrificado em madeira dura e troque-o.
+Sem alavanca pronta, dobre uma chapa de metal resistente.
+Se a manga emperrar, limpe e lubrifique o eixo com a máquina parada.
+Não improvise eixo mole nem esferas desiguais: a vibração quebra tudo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As esferas ficam afastadas e a manga estável em uma altura constante.
+Ao aumentar a carga, as esferas baixam e a válvula abre.
+Ao reduzir a carga, as esferas sobem e a válvula fecha.
+A rotação, medida por contagem de voltas, oscila pouco ao redor do alvo.
+Não há batida metálica nem vibração anormal no eixo.
+
+FONTES
+------
+Princípio do regulador centrífugo, dito regulador de Watt: prática
+consolidada de engenharia mecânica para controle por realimentação.
+Referência clássica: J. C. Maxwell, "On Governors", 1868.
+Resumo operacional; não substitui projeto de engenharia nem treinamento.

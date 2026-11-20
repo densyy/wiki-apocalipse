@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 69-004
+TITULO: Como compreender indutores
+CATEGORIA: 69 - Eletrônica analógica e componentes discretos
+TEMPO: 20 minutos
+RISCO: medio
+EXIGE: componente desenergizado; para medir, multímetro de indutância
+REVISAO: 2026-11
+PALAVRAS-CHAVE: indutor, bobina, enrolamento, indutância, henry, filtro
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer um indutor, ler seu valor e explicar o que ele faz no circuito.
+
+QUANDO USAR
+-----------
+Quando precisar identificar um indutor numa placa ou sucata.
+Quando precisar saber se um componente é indutor ou resistor.
+Quando quiser entender por que um relé ou motor gera faísca ao desligar.
+
+NAO USE QUANDO
+--------------
+Não manuseie circuito ligado à tomada, bateria ou com capacitor carregado.
+Não abra equipamento de alta tensão; observe sem tocar e peça ajuda.
+
+MATERIAIS
+---------
+- Indutor ou placa desenergizada para observar.
+- Multímetro com escala de resistência (ohmímetro).
+- Marcação do componente ou anotação do valor lido (se houver).
+
+PROCEDIMENTO
+------------
+1. Desligue o equipamento da tomada e da bateria antes de tocar.
+2. Espere. Se houver capacitor, descarregue-o com resistor antes de medir.
+3. Observe a forma do componente: fio enrolado, toro ou conta de ferrite.
+4. Veja também o bloco retangular cinza ou preto em placas pequenas.
+5. Distinga de resistor: meça a resistência com o ohmímetro.
+6. Indutor comum mostra poucos ohms; resistor mostra o valor marcado.
+7. Leia o valor impresso no corpo ou as faixas de cor do indutor axial.
+8. Anote a unidade impressa: H (henry), mH (milésimo) ou µH (milionésimo).
+9. Com escala de indutância, meça e compare com o valor anotado.
+10. Explique: ele guarda energia em campo magnético e resiste a mudanças.
+11. Em contínua passa como fio; em alternada, dificulta a corrente.
+
+ATENCAO
+-------
+Indutor ligado não se toca: o pico de tensão dá choque e quebra o aparelho.
+Nunca meça resistência ou indutância com o circuito energizado.
+Faísca em chave de motor ou relé é esse pico; não ignore.
+O ohmímetro não dá o valor do indutor; mostra só a resistência do fio.
+Marcação e cor podem estar erradas; confirme sempre por medição.
+
+SE NAO TIVER
+------------
+Sem multímetro, identifique pela forma e pela inscrição no corpo.
+Um pedaço de fio enrolado não substitui indutor de valor conhecido.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você aponta o componente e diz seu valor com a unidade correta.
+O ohmímetro mostra poucos ohms, próximo de curto, para o indutor.
+Você explica que ele passa corrente contínua e resiste a mudanças rápidas.
+
+FONTES
+------
+Prática consolidada de eletrônica; referências de ensino de circuitos.
+Consultado: Electronics Tutorials, série de tutoriais sobre indutores.

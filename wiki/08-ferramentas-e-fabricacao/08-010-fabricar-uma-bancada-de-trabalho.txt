@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 08-010
+TITULO: Como fabricar uma bancada de trabalho
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 360 minutos
+RISCO: medio
+EXIGE: serra, martelo, esquadro, fita métrica, pregos ou cavilhas, madeira
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bancada, banco de trabalho, madeira, montar, carpintaria
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma mesa firme de madeira para apoiar, prender e cortar peças.
+
+QUANDO USAR
+-----------
+Quando faltar superfície plana e firme para cortar, lixar ou montar.
+Quando for preciso prender a peça e usar as duas mãos livres.
+
+NAO USE QUANDO
+--------------
+Não use madeira úmida, apodrecida ou com pregos e arame embutidos.
+Ela pode rachar, soltar farpas ou ceder sob peso.
+
+MATERIAIS
+---------
+- Madeira seca e reta para pernas e travessas (2x4 ou vigas).
+- Tábuas largas para o tampo (compensado de aproximadamente 2 cm).
+- Pregos, parafusos ou cavilhas de madeira dura, com cola se houver.
+- Serra manual, martelo, esquadro e fita métrica.
+- Óculos de proteção, luvas, lixa ou faca.
+
+PROCEDIMENTO
+------------
+1. Com o braço ao lado do corpo, meça do chão até a palma da mão.
+2. Desconte a espessura do tampo e marque o comprimento das 4 pernas.
+3. Marque as travessas: 2 longas e 2 curtas, aproximadamente 150 e 60 cm.
+4. Serre as 4 pernas e as 4 travessas nas marcas.
+5. Serre as tábuas do tampo com aproximadamente 5 cm de sobra por lado.
+6. Una 2 pernas com travessas curtas em cima e embaixo: faça 2 quadros.
+7. Confira o esquadro dos 2 quadros antes de fixar as juntas.
+8. Fixe as juntas com pregos ou cavilhas; use cola se houver.
+9. Una os quadros com as travessas longas, uma em cima e outra embaixo.
+10. Pregue uma ripa diagonal em cada lateral para travar a estrutura.
+11. Apoie o tampo e pregue cada tábua, com sobra uniforme.
+12. Se balançar, coloque cunhas sob a perna mais curta.
+13. Remova farpas com lixa ou faca e arredonde as quinas.
+
+ATENCAO
+-------
+Corte para longe do corpo e mantenha as mãos atrás da lâmina.
+Prenda a peça com grampo antes de serrar: nunca a segure com a mão.
+Use óculos: serragem e pregos podem atingir os olhos.
+Bancada mal travada tomba; teste aos poucos antes de apoiar peso.
+
+SE NAO TIVER
+------------
+Sem pregos, use cavilhas com cola e fure antes para a madeira não rachar.
+Sem serra, procure madeira já cortada: não improvise lâmina.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A bancada não balança quando se empurra o tampo de lado.
+As 4 pernas apoiam no chão e as juntas não abrem sob peso.
+
+FONTES
+------
+Prática consolidada de carpintaria, sem documento único; manuais de
+extensão da Universidade de Minnesota (4-H), Ohio State e Oregon State.

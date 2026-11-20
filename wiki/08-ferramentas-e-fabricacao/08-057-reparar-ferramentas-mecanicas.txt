@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 08-057
+TITULO: Como reparar ferramentas mecânicas
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 45 minutos
+RISCO: medio
+EXIGE: óculos de proteção, morsa, martelo, cunha, lima, lixa e óleo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ferramenta, reparo, cabo, cabeça solta, cunha, rebite, pino
+==============================================================================
+
+OBJETIVO
+--------
+Reencaixar cabeças, trocar cabos e firmar pinos de ferramentas manuais.
+
+QUANDO USAR
+-----------
+Quando a cabeça do martelo ou do machado balança ao usar.
+Quando o cabo rachou, soltou ou quebrou rente à cabeça.
+Quando parafusos, porcas ou pinos de uma ferramenta estão frouxos.
+
+NAO USE QUANDO
+--------------
+Cabeça rachada, com borda em cogumelo ou cabo apodrecido: descarte a peça.
+Não repare motores nem peças giratórias; para motores, veja 08-050.
+
+MATERIAIS
+---------
+- Óculos de proteção e luvas.
+- Morsa ou dois blocos de madeira para prender a cabeça.
+- Martelo e cunha de madeira seca e dura (ou cunha metálica).
+- Lima, lixa média, formão ou punção, rebite e óleo de linhaça.
+
+PROCEDIMENTO
+------------
+1. Calce óculos de proteção e luvas antes de começar.
+2. Prenda a cabeça na morsa com a lâmina virada para fora.
+3. Retire o toco: faça furos na madeira presa e arranque-a com o punção.
+4. Limpe o encaixe com a lixa até sair toda a madeira solta.
+5. Lixe a ponta do cabo novo até entrar com leve pressão, sem folga.
+6. Meça a profundidade do encaixe e marque-a no cabo com lápis.
+7. Bata a ponta oposta do cabo em bloco de madeira até o fundo da marca.
+8. Abra um rasgo na ponta do cabo com aproximadamente meia profundidade.
+9. Encaixe a cunha de madeira e bata até nivelar com a face da cabeça.
+10. Para cabeça com rebite, alinhe os furos e encaixe o rebite.
+11. Apoie a cabeça em metal firme e bata na ponta do rebite até achatar.
+12. Aperte parafusos e porcas frouxos; troque os que estiverem danificados.
+13. Passe óleo na cabeça e na ponta do cabo; retire o excesso com pano.
+
+ATENCAO
+-------
+Cabeça que solta voa e fere: nunca use a ferramenta se ainda houver folga.
+A cunha e o rebite saltam: use óculos e afaste outras pessoas.
+Martelo de metal racha cabeça de ferro fundido: pare se aparecer trinca.
+Não resolve cabeça empenada ou gume rombo; veja 08-017 para afiar.
+
+SE NAO TIVER
+------------
+Sem morsa, prenda a cabeça entre dois blocos de madeira ou sob o pé.
+Sem cunha de madeira, use uma de metal; nunca improvise com prego comum.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A cabeça não balança ao puxar e girar; a cunha fica nivelada.
+O rebite fica achatado e firme, sem folga entre os furos.
+
+FONTES
+------
+Prática consolidada de oficina; The Conservation Volunteers, Toolcare
+Handbook (2024); N.C. Cooperative Extension (2023).

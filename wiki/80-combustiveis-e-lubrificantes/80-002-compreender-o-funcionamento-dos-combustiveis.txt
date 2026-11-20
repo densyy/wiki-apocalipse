@@ -1,0 +1,82 @@
+============================================================================
+CODIGO: 80-002
+TITULO: Como compreender o funcionamento dos combustíveis líquidos
+CATEGORIA: 80 - Produção de combustíveis e lubrificantes
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: recipiente transparente, água, óleo, caderno
+REVISAO: 2026-11
+PALAVRAS-CHAVE: liquido, vapor, densidade, ponto de fulgor, gasolina, oleo
+============================================================================
+
+OBJETIVO
+--------
+Entender como os combustíveis líquidos queimam, se comportam e devem
+ser guardados para não causar incêndio.
+
+QUANDO USAR
+-----------
+Antes de abastecer lampião, gerador ou fogão a combustível.
+Ao escolher onde guardar gasolina, álcool ou óleo.
+Quando houver derramamento de líquido inflamável.
+Ao comparar produtos diferentes no mesmo recipiente.
+Antes de transportar combustível em veículo ou mochila.
+
+NAO USE QUANDO
+--------------
+Não use gasolina para acender fogo em fogão ou churrasqueira.
+Não abasteça aparelho com a chama acesa por perto.
+Não misture produtos desconhecidos para mudar o rendimento.
+Não despeje combustível na terra, na água ou no ralo.
+
+MATERIAIS
+---------
+- Recipiente transparente para observar as camadas.
+- Água e pequena quantidade de óleo para a comparação.
+- Pano absorvente, terra seca ou areia para derramamentos.
+- Luvas e caderno para anotar as observações.
+
+PROCEDIMENTO
+------------
+1. Observe que o líquido não queima: queima o vapor acima dele.
+2. Note que líquido com cheiro forte solta vapor com facilidade.
+3. Compare densidade: óleo flutua na água, álcool se mistura.
+4. Entenda que vapor mais pesado que o ar corre pelo chão.
+5. Desligue o fogo antes de completar o tanque de qualquer aparelho.
+6. Abasteça lampião com combustível próprio, longe da chama.
+7. Guarde o líquido em recipiente rígido, com tampa e etiqueta.
+8. Mantenha o recipiente longe de calor e luz direta do sol.
+9. Limpe derramamento com terra ou areia, nunca com água corrente.
+10. Ventile o local antes de voltar a acender qualquer chama.
+11. Não despeje óleo ou gasolina no solo ou na água.
+12. Anote o tipo de combustível e a data em cada recipiente.
+13. Confira a tampa depois de usar, antes de guardar.
+
+ATENCAO
+-------
+Gasolina e solventes pegam fogo com uma faísca pequena.
+O vapor pode acender a vários metros do recipiente aberto.
+Recipiente plástico pode acumular estática e dar faísca.
+Não aproxime o nariz da abertura para sentir cheiro.
+Álcool queima com chama quase invisível: cuidado ao apagar.
+Derramamento em pele ou olho exige lavar com água e buscar ajuda.
+
+SE NAO TIVER
+------------
+Sem recipiente próprio, use garrafa rígida bem fechada e etiquetada.
+Sem areia, use terra seca ou cinza para absorver o derramamento.
+Sem etiqueta, escreva o nome do líquido com lápis numa fita.
+Sem lugar fresco, mantenha o recipiente na sombra e sinalizado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O recipiente está fechado, etiquetado e longe do calor.
+Não há cheiro de combustível no local onde ele fica.
+Você sabe qual líquido flutua e qual se mistura com água.
+Nenhum derramamento foi deixado sem limpeza.
+
+FONTES
+------
+Noções de segurança no manuseio de líquidos inflamáveis, resumidas
+de manuais de brigada de incêndio e de boas práticas de abastecimento
+em áreas rurais. Texto conceitual, sem norma específica.

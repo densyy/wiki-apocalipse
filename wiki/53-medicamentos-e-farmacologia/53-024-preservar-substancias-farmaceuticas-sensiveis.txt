@@ -1,0 +1,94 @@
+==============================================================================
+CODIGO: 53-024
+TITULO: Como preservar substâncias farmacêuticas sensíveis
+CATEGORIA: 53 - Produção de medicamentos e farmacologia
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: bula ou rótulo, termômetro, recipiente fechado, caixa térmica
+REVISAO: 2026-11
+PALAVRAS-CHAVE: sensível, geladeira, calor, luz, umidade, cadeia fria
+==============================================================================
+
+OBJETIVO
+--------
+Guardar substâncias sensíveis ao calor, luz e umidade sem perder efeito.
+
+QUANDO USAR
+-----------
+Ao guardar insulina, vacinas ou antibióticos que pedem geladeira.
+Ao receber produto de cadeia de frio e ficar sem energia elétrica.
+Ao separar remédios fotossensíveis da luz forte ou do sol.
+Ao morar em clima úmido ou guardar medicamentos no banheiro.
+Ao transportar substância sensível em viagem sem refrigeração.
+
+NAO USE QUANDO
+--------------
+Não use para decidir dose, horário ou escolha de medicamento.
+Não substitui bula, prescrição nem orientação do farmacêutico.
+Não serve para recuperar produto vencido, congelado ou alterado.
+Não use para guardar substância controlada sem as regras legais dela.
+
+MATERIAIS
+---------
+- Bula ou rótulo com as condições de guarda do produto.
+- Termômetro de ambiente (não há substituto caseiro confiável).
+- Recipiente fechado e opaco, de preferência o original (frasco âmbar).
+- Caixa térmica ou isopor para transporte (bolsa térmica de mercado).
+- Sílica ou secante de pacote, para umidade (não use arroz cru).
+- Etiqueta ou papel para anotar a data de abertura.
+
+PROCEDIMENTO
+------------
+1. Leia o rótulo e o item da bula sobre armazenamento antes de guardar.
+2. Separe os produtos em três grupos: calor, luz e umidade.
+3. Guarde os que pedem geladeira entre aproximadamente 2 e 8 graus.
+4. Coloque-os na prateleira do meio, longe da porta e do gelo.
+5. Nunca congele insulina e vacinas, salvo se a bula permitir.
+6. Mantenha os demais em local fresco, aproximadamente 15 a 25 graus.
+7. Proteja do sol e da luz: deixe no recipiente original fechado.
+8. Se o frasco for transparente, cubra com pano opaco ou papel.
+9. Feche bem o frasco após cada uso para afastar a umidade.
+10. Guarde em local seco, com umidade até aproximadamente 60 por cento.
+11. Não guarde no banheiro, perto do fogão nem dentro do carro.
+12. Anote a data de abertura; depois de aberto o prazo pode cair.
+13. Use o produto mais antigo primeiro e deixe o novo atrás.
+14. Meça a temperatura com termômetro e anote uma vez por dia.
+15. No transporte, use caixa térmica com bolsa fria, sem gelo direto.
+16. Ao chegar, guarde na geladeira e anote o tempo fora dela.
+17. Descarte com segurança o que congelou, venceu ou mudou de aspecto.
+
+ATENCAO
+-------
+Produto fora da faixa da bula pode perder efeito sem mudar de aparência.
+Não confie em cheiro, cor ou sabor para decidir se ainda serve.
+Gelo encostado pode congelar e destruir insulina e vacinas.
+Porta da geladeira e interior do carro oscilam mais a temperatura.
+Se ficou fora da faixa por tempo desconhecido, pergunte ao fabricante.
+Não recoloque na geladeira produto que escorreu ou ficou turvo.
+
+SE NAO TIVER
+------------
+Sem geladeira, use caixa térmica e troque a bolsa fria com cuidado.
+Sem bolsa fria, mantenha na sombra e procure geladeira ou unidade de saúde.
+Sem termômetro, não improvise: compre um ou peça ao farmacêutico.
+Sem frasco original, use recipiente fechado e opaco e anote o conteúdo.
+Sem saber se congelou, descarte: não tente descongelar para usar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O termômetro marca a faixa da bula e o registro diário mostra estabilidade.
+Os frascos estão fechados, opacos e na embalagem original.
+A insulina está límpida, sem grumos e nunca encostou no gelo.
+A data de abertura está visível e o mais antigo foi usado primeiro.
+
+FONTES
+------
+Anvisa, RDC 430/2020, Boas Práticas de Distribuição e Armazenamento de
+Medicamentos, sobre cadeia de frio e exposição à temperatura ambiente.
+Anvisa, webinar sobre cuidados de conservação de medicamentos, sobre
+umidade e degradação por hidrólise.
+OMS, TRS 1025, Anexo 7, Boas Práticas de Armazenamento e Distribuição:
+faixas de temperatura e de umidade para conservação.
+Farmacopeia dos Estados Unidos (USP), capítulo 659, Requisitos de Embalagem
+e Armazenamento: proteção contra umidade, frio, calor e luz.
+Resumo educativo; não substitui bula, prescrição nem orientação clínica.

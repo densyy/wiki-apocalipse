@@ -1,0 +1,93 @@
+==============================================================================
+CODIGO: 52-030
+TITULO: Como compreender indução eletromagnética
+CATEGORIA: 52 - Física aplicada e princípios fundamentais
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: ímã, bobina de fio de cobre, galvanômetro ou bússola, fio de ligação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: indução, eletromagnetismo, Faraday, Lenz, ímã, bobina
+==============================================================================
+
+OBJETIVO
+--------
+Observar corrente sem pilha e entender a indução eletromagnética.
+
+QUANDO USAR
+-----------
+Quando quiser entender como um ímã pode gerar corrente em um fio.
+Quando precisar explicar o princípio de geradores e dínamos.
+Quando quiser distinguir eletricidade estática de corrente induzida.
+Quando ensinar a Lei de Faraday e a Lei de Lenz com uma prova simples.
+Quando precisar entender por que mexer um ímã perto de fio gera tensão.
+
+NAO USE QUANDO
+--------------
+Quando o ímã estiver parado: não aparece corrente induzida.
+Quando precisar de valores exatos de tensão sem medidor calibrado.
+Quando a bobina estiver ligada à rede elétrica: não experimente.
+Quando houver contato direto com pilha: isso não é indução.
+
+MATERIAIS
+---------
+- Um ímã de barra ou de ferradura (ou um ímã de geladeira forte).
+- Uma bobina de fio de cobre esmaltado com várias voltas.
+- Um galvanômetro ou medidor de corrente sensível (ou uma bússola).
+- Dois fios de ligação com pontas descascadas.
+- Um pedaço de papel e um lápis para anotar os sentidos.
+- Um suporte para prender a bobina (ou a mão firme).
+
+PROCEDIMENTO
+------------
+1. Enrole o fio de cobre em várias voltas ao redor de um tubo de papel.
+2. Retire o tubo e deixe a bobina com as pontas livres.
+3. Descasque aproximadamente dois centímetros das pontas do fio.
+4. Ligue as duas pontas da bobina ao galvanômetro.
+5. Deixe o ponteiro do medidor parar no zero.
+6. Aproxime o polo norte do ímã da abertura da bobina.
+7. Observe o ponteiro desviar para um lado enquanto o ímã se move.
+8. Pare o ímã dentro da bobina e veja o ponteiro voltar ao zero.
+9. Retire o ímã da bobina e veja o ponteiro desviar para o outro lado.
+10. Aproxime o polo sul e compare com o sentido do polo norte.
+11. Movimente o ímã mais depressa e observe o desvio maior.
+12. Repita com o ímã parado e confirme que nada acontece.
+13. Anote no papel os movimentos que fizeram o ponteiro desviar.
+
+ATENCAO
+-------
+A corrente aparece só quando o fluxo magnético pela bobina muda.
+Fluxo magnético é a quantidade de linhas de campo que cruzam a área.
+Tensão é o que empurra a corrente pelo fio do circuito.
+A Lei de Faraday diz que a tensão cresce com a rapidez da mudança.
+Quanto mais voltas na bobina, maior a tensão no mesmo movimento.
+A Lei de Lenz diz que a corrente induzida se opõe à mudança de fluxo.
+Por isso o ponteiro desvia de um lado ao entrar e do outro ao sair.
+Ímã parado, mesmo dentro da bobina, não produz corrente alguma.
+Gerador é a máquina que transforma movimento em corrente por indução.
+Não ligue a bobina a tomada, pilha ou fonte: isto não é indução.
+Se usar bússola, mantenha-a longe do ímã para não influenciar a agulha.
+Corrente induzida pode surpreender: não toque em circuitos desconhecidos.
+
+SE NAO TIVER
+------------
+Sem galvanômetro, uma bússola pequena pode servir, mas o desvio é pequeno.
+A agulha gira quando a corrente passa, mostrando o mesmo efeito.
+Sem ímã de barra, use um ímã forte de geladeira ou de alto-falante.
+Sem bobina pronta, enrole o fio você mesmo em torno de um tubo.
+Sem medidor sensível, aumente as voltas e mova o ímã mais rápido.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O ponteiro desvia quando o ímã entra e desvia ao contrário quando sai.
+O ponteiro fica no zero quando o ímã está parado dentro da bobina.
+Movendo o ímã mais depressa, o desvio do ponteiro fica maior.
+A pessoa consegue explicar que a corrente nasce da mudança de fluxo.
+A pessoa consegue dizer que a corrente se opõe à mudança que a gerou.
+
+FONTES
+------
+Capítulo 23 de College Physics 2e da OpenStax (Rice University),
+seção 23.2 sobre a Lei de Faraday e a Lei de Lenz.
+Capítulo 10 do curso 8.02 do MIT OpenCourseWare, sobre a Lei de
+Faraday, fluxo magnético e indução.
+Prática consolidada de ensino de física, sem documento único.

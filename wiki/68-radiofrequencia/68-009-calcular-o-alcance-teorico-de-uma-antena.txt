@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 68-009
+TITULO: Como calcular o alcance teórico de uma antena
+CATEGORIA: 68 - Radiofrequência e telecomunicações
+TEMPO: 25 minutos
+RISCO: medio
+EXIGE: caderno, lápis, altura das antenas em metros
+REVISAO: 2026-11
+PALAVRAS-CHAVE: alcance, antena, rádio, horizonte, visada, altura
+==============================================================================
+
+OBJETIVO
+--------
+Calcular o limite teórico de distância entre duas antenas em linha reta.
+
+QUANDO USAR
+-----------
+Ao planejar um enlace de rádio entre dois pontos.
+Ao estimar se duas estações conseguem se ouvir.
+Ao dimensionar uma rede de comunicação local de emergência.
+
+NAO USE QUANDO
+--------------
+Quando houver montanhas, prédios ou árvores entre as antenas.
+Quando precisar de cobertura garantida: é só o limite teórico.
+Não substitui medição em campo nem projeto de engenharia.
+
+MATERIAIS
+---------
+- Caderno e lápis.
+- A altura de cada antena acima do terreno, em metros (ou fita métrica).
+- Uma calculadora, se houver (ou faça as contas à mão).
+
+PROCEDIMENTO
+------------
+1. Chame de h1 a altura da primeira antena acima do solo, em metros.
+2. Chame de h2 a altura da segunda antena acima do solo, em metros.
+3. Tire a raiz quadrada de cada altura. Arredonde para baixo.
+4. Some as duas raízes.
+5. Multiplique a soma por aproximadamente 4,12 e obtenha km.
+6. Anote: alcance em km = 4,12 vezes (raiz de h1 + raiz de h2).
+7. Se houver só uma antena, use 4,12 vezes a raiz da altura.
+8. Exemplo: 9 m e 4 m. Raízes 3 e 2. Soma 5. Alcance 20,6 km.
+9. Compare o resultado com o terreno, marque como teórico e teste.
+
+ATENCAO
+-------
+O número é o horizonte de rádio, não o alcance real.
+Horizonte é onde a curva da Terra esconde a antena.
+Altura é do solo até a antena; não suba em torre para medir.
+O modelo de 4/3 do raio da Terra é aproximado, não exato.
+Fresnel é o espaço livre ao redor da linha reta; obstáculos o cortam.
+Potência e ganho não entram na conta: teste antes de confiar.
+Não transmita fora da faixa permitida com base neste número.
+
+SE NAO TIVER
+------------
+Sem calculadora, arredonde: raiz de 9 é 3, de 4 é 2, de 16 é 4.
+Sem altura confiável, meça com fita; se não der, anote a dúvida.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você tem duas alturas em metros, duas raízes e o resultado em km.
+O número está marcado como aproximado e teórico no caderno.
+
+FONTES
+------
+Convenção do horizonte de rádio com raio terrestre efetivo de 4/3,
+prática consolidada de engenharia de radiopropagação.
+Resumo operacional; não substitui treinamento nem medição em campo.

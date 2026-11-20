@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 48-004
+TITULO: Como montar uma pequena padaria artesanal
+CATEGORIA: 48 - Produção de alimentos em escala comunitária
+TEMPO: 1 dia
+RISCO: alto
+EXIGE: forno, água limpa, superfícies laváveis, fermento, farinha, lenha
+REVISAO: 2026-11
+PALAVRAS-CHAVE: pão, padaria, fermento, forno, farinha, massa, higiene
+==============================================================================
+
+OBJETIVO
+--------
+Montar um ponto pequeno, limpo e seguro de produção de pão para o grupo.
+
+QUANDO USAR
+-----------
+Quando a comunidade precisa de pão fresco e não há padaria comercial.
+Quando há farinha, água e combustível, mas falta um lugar organizado.
+Quando se quer produzir mais pão do que uma cozinha doméstica permite.
+
+NAO USE QUANDO
+--------------
+Quando não há água limpa para lavar mãos, utensílios e superfícies.
+Quando o local não tem saída de fumaça para o exterior.
+Quando não dá para manter lenha e papel longe do forno aceso.
+Quando faltam água ou fermento por vários dias seguidos.
+
+MATERIAIS
+---------
+- Forno de alvenaria, barro ou metal, com saída de fumaça (tambor
+  metálico adaptado quando não houver forno).
+- Lenha ou carvão secos, guardados longe do pão e das brasas.
+- Farinha de trigo guardada seca e tampada.
+- Fermento (seco comercial ou massa-mãe mantida ativa).
+- Água limpa para a massa e para a limpeza.
+- Duas bacias grandes: uma para a massa, uma para a limpeza.
+- Tábua ou bancada lisa, sem rachaduras e que possa ser lavada.
+- Pano limpo, escova e sabão.
+- Caixas tampadas para guardar o pão frio.
+- Balde com tampa para resíduos.
+
+PROCEDIMENTO
+------------
+1. Escolha um local seco, arejado e longe de lixo e animais.
+2. Monte o forno sobre base firme de pedra ou tijolo nivelado.
+3. Leve a saída de fumaça para fora, longe de telhado de palha.
+4. Mantenha lenha, papel e tecido a pelo menos 1 metro do forno aceso.
+5. Reserve um canto só para lavar as mãos com água e sabão.
+6. Separe a área de massa da área de pão pronto e do lixo.
+7. Lave bancada, tábuas e bacias com água, sabão e pano limpo.
+8. Teste o forno vazio uma vez, com fogo baixo, antes de assar.
+9. Misture farinha, água e fermento até obter massa homogênea.
+10. Cubra a massa com pano limpo e deixe crescer em lugar morno.
+11. Lave as mãos e modele os pães sobre a tábua limpa.
+12. Deixe os pães crescerem uma segunda vez antes de assar.
+13. Acenda o forno com antecedência e espere o calor estabilizar.
+14. Asse até dourar e até o pão soar oco ao bater de leve.
+15. Retire com pano ou luva seca, nunca com as mãos nuas.
+16. Guarde o pão frio em caixa tampada, longe do chão e de insetos.
+17. Limpe bancada e utensílios ao fim de cada turno.
+
+ATENCAO
+-------
+Forno e fogo causam queimadura e incêndio: mantenha lenha e papel longe
+das brasas e tenha água ou areia para apagar faíscas.
+Fumaça em lugar fechado acumula monóxido de carbono, que mata sem aviso:
+deixe a saída de fumaça sempre livre para o exterior.
+Massa e pão mal higienizados podem causar intoxicação alimentar: lave
+as mãos ao trocar de tarefa e nunca tampe pão ainda quente.
+Descarte massa com mofo, cheiro azedo estranho ou fermento vencido.
+Este texto é resumo operacional: proporções de farinha, água e fermento
+e o ponto exato de assar dependem do ingrediente local disponível.
+Aprenda com um lote pequeno antes de produzir para o grupo todo.
+Se faltar água limpa ou houver suspeita de contaminação, pare e busque
+orientação da autoridade de saúde local.
+
+SE NAO TIVER
+------------
+Sem forno de alvenaria, use tambor metálico com saída de fumaça, nunca
+um recipiente fechado sem ventilação.
+Sem fermento comercial, mantenha massa-mãe: misture farinha e água,
+alimente a sobra todos os dias e descarte se aparecer mofo.
+Sem lenha, use carvão ou galhos secos, nunca plástico nem borracha.
+Sem água suficiente, reduza a produção ou pare: não há improviso seguro
+para higiene com água suja.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O pão cresceu, soa oco ao bater e não está cru no centro.
+A bancada e os utensílios ficam limpos e secos ao fim do turno.
+Não há cheiro de queimado, mofo ou azedo estranho no pão guardado.
+O local não acumula fumaça e não há lenha perto das brasas.
+
+FONTES
+------
+Prática consolidada de panificação artesanal e higiene de alimentos.
+Família de referência: orientações de OMS e Anvisa sobre segurança de
+alimentos. Nenhum documento específico foi consultado nesta edição.
+Este texto é resumo operacional e não substitui treinamento presencial.

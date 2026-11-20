@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 57-010
+TITULO: Como construir uma chaminé solar
+CATEGORIA: 57 - Refrigeração, climatização e conforto
+TEMPO: 120 minutos
+RISCO: alto
+EXIGE: acesso ao telhado, madeira, material escuro, cobertura transparente
+REVISAO: 2026-11
+PALAVRAS-CHAVE: chaminé solar, ventilação, tiragem, ar quente, refrescar
+==============================================================================
+
+OBJETIVO
+---------
+Construir uma chaminé solar que ventila o ambiente sem energia elétrica.
+
+QUANDO USAR
+-----------
+Quando o ambiente fica abafado e não há ventilação natural.
+Ao procurar renovar o ar sem usar ventilador nem energia.
+Em dias de sol, quando o telhado recebe calor o dia todo.
+Ao tentar reduzir o calor interno de um cômodo com telhado.
+Quando se quer renovar o ar sem abrir portas para poeira ou insetos.
+
+NAO USE QUANDO
+--------------
+Não use em telhado sem acesso seguro, sem proteção contra queda.
+Não use se a entrada de ar vier de esgoto, fumaça ou local contaminado.
+Não use para retirar fumaça de incêndio ou gases de aquecedor.
+Não use em região de vendavais frequentes sem reforço na fixação.
+
+MATERIAIS
+---------
+- Madeira ou perfil metálico para a estrutura (tubo de PVC rígido).
+- Chapa metálica escura ou madeira pintada de preto fosco (absorvedor).
+- Vidro ou filme plástico transparente (cobertura do lado do sol).
+- Material isolante para as faces sem sol (lã, palha, isopor).
+- Parafusos, pregos, fita vedante e tinta preta fosca.
+- Ferramentas de corte e fixadores para madeira ou metal.
+
+PROCEDIMENTO
+------------
+1. Escolha no telhado o lado que mais recebe sol durante o dia.
+2. Defina o vão da chaminé: aproximadamente 30 a 50 cm de largura.
+3. Marque a altura: aproximadamente 2 a 3 m acima do telhado.
+4. Monte a estrutura com madeira ou perfil metálico, bem travada.
+5. Forre a face voltada ao sol com chapa escura ou madeira preta.
+6. Cubra a face com vidro ou plástico transparente.
+7. Deixe folga de alguns centímetros entre a cobertura e a chapa.
+8. Isole as outras faces com material isolante.
+9. Abra uma passagem no teto que ligue a base ao cômodo.
+10. Instale entrada de ar limpo em ponto baixo e sombreado.
+11. Vede as emendas com fita vedante para não perder sucção.
+12. Deixe a saída superior livre e proteja com tela e capa de chuva.
+13. Fixe a estrutura ao telhado com parafusos e reforços contra o vento.
+14. Abra a entrada de ar e observe a subida do ar na saída.
+
+ATENCAO
+-------
+Trabalhar em telhado exige cinto de segurança e plataforma firme.
+Nunca trabalhe sozinho nem em telhado molhado ou escorregadio.
+Chapas escuras e vidro exposto ao sol queimam: use luvas e mangas.
+Mantenha plástico e madeira distantes de fios elétricos e fontes de fogo.
+Se a entrada de ar puxar fumaça ou esgoto, pare e corrija a tomada de ar.
+A chaminé não retira monóxido de carbono; não ventile fogo com ela.
+Em vendaval, reforce a fixação ou desmonte a estrutura.
+Se o teto não suportar o peso, pare e procure ajuda técnica.
+
+SE NAO TIVER
+------------
+Sem vidro, use plástico transparente esticado.
+Sem chapa escura, pinte madeira ou metal com tinta preta fosca.
+Sem acesso ao telhado, adapte a chaminé em parede alta voltada ao sol.
+Sem material isolante, use palha seca ou tecido entre as faces.
+Não use plástico escuro derretido: solta vapores e deforma com o calor.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Com sol, sinta ar subindo na saída superior da chaminé.
+Uma fita leve na entrada de ar fica puxada para dentro do cômodo.
+O ar que entra pela abertura inferior está mais fresco que o ar externo.
+Com termômetro, o cômodo fica mais frio que a sombra externa.
+
+FONTES
+------
+Princípio consolidado da ventilação por tiragem térmica.
+Descrito em manuais de construção sustentável e arquitetura solar passiva.
+Sem documento único consultado: prática tradicional de efeito chaminé.

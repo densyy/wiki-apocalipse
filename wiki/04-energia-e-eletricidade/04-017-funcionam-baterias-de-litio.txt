@@ -1,0 +1,78 @@
+==============================================================================
+CODIGO: 04-017
+TITULO: Como funcionam baterias de lítio
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: bateria íntegra, carregador compatível, local ventilado
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bateria, lítio, recarregar, celular, energia, carga
+==============================================================================
+
+OBJETIVO
+--------
+Entender como a bateria de lítio guarda e libera energia para usar
+sem causar curto, superaquecimento ou incêndio.
+
+QUANDO USAR
+-----------
+Quando usar celular, lanterna, rádio ou ferramenta a bateria.
+Quando precisar recarregar banco de energia ou bateria reserva.
+Quando precisar guardar baterias por semanas ou meses.
+Quando precisar identificar bateria inchada ou danificada.
+
+NAO USE QUANDO
+--------------
+Quando a bateria estiver inchada, quente, vazando ou com cheiro forte.
+Quando a capa estiver rasgada ou o contato amassado e exposto.
+Quando o aparelho molhou e ainda não secou por completo.
+
+MATERIAIS
+---------
+- Bateria ou aparelho com bateria de lítio.
+- Carregador próprio do aparelho (carregador universal compatível).
+- Multímetro (indicador de carga do aparelho).
+- Local firme, ventilado e longe de material inflamável.
+
+PROCEDIMENTO
+------------
+1. Leia o rótulo: mAh e Wh indicam a energia armazenada.
+2. Localize os polos positivo e negativo marcados na bateria.
+3. Entenda a carga como íons indo de um lado ao outro da célula.
+4. Entenda a descarga como o caminho inverso alimentando o aparelho.
+5. Meça a tensão se tiver multímetro e souber usar.
+6. Compare com a faixa aproximada: cheia com aproximadamente 4,2 V.
+7. Considere vazia perto de aproximadamente 3,0 V por célula.
+8. Carregue somente com carregador próprio para lítio.
+9. Mantenha a bateria sobre base firme e ventilada na carga.
+10. Afaste papel, tecido e combustível durante a carga.
+11. Toque de tempos em tempos para sentir aquecimento anormal.
+12. Desligue o carregador ao completar a carga indicada.
+13. Guarde por longo tempo com aproximadamente metade da carga.
+
+ATENCAO
+-------
+Bateria de lítio furada, amassada ou em curto pode pegar fogo.
+O fogo pode recomeçar sozinho mesmo após apagar a chama visível.
+A fumaça é tóxica: afaste pessoas e ventile antes de voltar.
+Nunca abra, fure, amasse, solde ou jogue a bateria no fogo.
+Nunca carregue sem supervisão nem sobre cama, sofá ou papel.
+Carga com carregador errado causa superaquecimento e incêndio.
+Bateria inchada ou muito quente: pare de usar e isole longe de tudo.
+
+SE NAO TIVER
+------------
+Sem multímetro, use o indicador de carga do próprio aparelho.
+Sem carregador próprio, não improvise: aguarde o carregador certo.
+Sem local ideal, use piso frio e limpo longe de inflamáveis.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O aparelho liga e mantém a carga pelo tempo habitual.
+A carga completa sem calor excessivo, cheiro ou fumaça.
+A tensão medida fica dentro da faixa aproximada esperada.
+
+FONTES
+------
+Prática consolidada sobre baterias de íons de lítio, sem documento único.
+Orientações públicas de prevenção de incêndio em baterias de lítio.

@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 01-039
+TITULO: Como tratar água após contaminação biológica
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 20 minutos
+RISCO: alto
+EXIGE: recipiente limpo, pano limpo, fonte de calor, hipoclorito a 2,5%
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água suja, desinfecção, ferver, cloro, hipoclorito
+==============================================================================
+
+OBJETIVO
+--------
+Tornar a água com suspeita de contaminação biológica segura para beber.
+
+QUANDO USAR
+-----------
+Depois de enchente, quando a água pode ter recebido fezes ou esgoto.
+Quando o poço, a fonte ou a caixa d'água recebeu material biológico.
+Quando a água ficou turva ou com cheiro estranho após um desastre.
+Quando houve casos de diarreia ou cólera na região sem água tratada.
+
+NAO USE QUANDO
+--------------
+Nunca trate para beber água com suspeita de contaminação química:
+combustível, agrotóxico, metal pesado, sal ou material radioativo.
+Ferver ou clorar não remove esses contaminantes. Troque de fonte.
+
+MATERIAIS
+---------
+- Pano limpo, peneira ou filtro de café para coar (pano limpo dobrado).
+- Recipiente limpo de boca larga para a sujeira assentar.
+- Recipiente metálico limpo e fonte de calor (panela, fogão ou fogueira).
+- Hipoclorito de sódio a 2,5%, sem perfume e sem outros produtos.
+- Colher limpa ou conta-gotas e recipiente limpo com tampa.
+
+PROCEDIMENTO
+------------
+1. Separe a água suspeita em recipiente limpo de boca larga.
+2. Deixe a água parada por aproximadamente 2 horas para a sujeira descer.
+3. Coe a água com pano limpo, peneira ou filtro de café.
+4. Retire a água clara do topo sem revolver o fundo do recipiente.
+5. Prefira a fervura: despeje a água coada em recipiente metálico limpo.
+6. Leve ao fogo e conte 5 minutos de ebulição com bolhas grandes
+   (10 minutos em região de montanha).
+7. Desligue o fogo, tampe e deixe a água esfriar.
+8. Transfira a água fria para recipiente limpo com tampa, sem tocar na água.
+9. Se não der para ferver, meça 2 gotas de hipoclorito a 2,5% por litro
+   de água limpa.
+10. Adicione as gotas ao recipiente e mexa bem com colher limpa.
+11. Tampe e espere 30 minutos antes de beber.
+12. Guarde tampado em local fresco e ao abrigo da luz.
+13. Consuma a água tratada em até 24 horas.
+
+ATENCAO
+-------
+A água de enchente pode parecer limpa e ainda conter fezes e parasitas.
+Ferver ou clorar não remove combustível, agrotóxico, metal, sal nem
+material radioativo. Com suspeita química, procure outra fonte.
+O hipoclorito é corrosivo. Use só produto próprio para tratar água,
+sem perfume, corante ou alvejante. Nunca misture com amônia ou limpadores.
+As autoridades divergem sobre o tempo de fervura: Ministério da Saúde,
+5 minutos (10 em altitude); CDC, 1 minuto (3 em altitude). Na dúvida,
+use o tempo maior e siga a orientação local.
+O cloro não mata bem Cryptosporidium nem giárdia; prefira a fervura.
+Água muito turva protege microrganismos do cloro. Clarifique ou troque
+a fonte.
+Fervura e cloração não impedem recontaminação por mãos ou utensílios sujos.
+Pare e procure ajuda se, depois de beber, aparecerem diarreia forte,
+vômito, febre ou sangue nas fezes.
+
+SE NAO TIVER
+------------
+Sem hipoclorito, use só a fervura. Não use água sanitária perfumada,
+alvejante ou produto com outros aditivos como substituto.
+Sem pano ou filtro, deixe a água assentar mais tempo e retire só a
+parte clara do topo.
+Sem tampa, use pote limpo com pano limpo preso por cima.
+Sem calor e sem cloro, não existe desinfecção caseira confiável:
+procure outra fonte de água segura ou ajuda.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água ficou sem partículas visíveis depois da coagem.
+Na fervura, houve bolhas grandes e constantes pelo tempo indicado.
+Na cloração, a água ficou com leve cheiro de cloro após 30 minutos.
+Sem cheiro, repita a dose e espere mais 15 minutos.
+A água esfriou, foi guardada tampada e consumida em até 24 horas.
+
+FONTES
+------
+Ministério da Saúde do Brasil: prevenção da cólera e cartilha "Água
+tratada em casa" (2 gotas de hipoclorito a 2,5% por litro, 30 minutos;
+fervura de 5 minutos, 10 em altitude).
+OMS: notas técnicas de tratamento de água no ponto de uso em emergências.
+CDC: "How to Make Water Safe in an Emergency". US EPA: "Emergency
+Disinfection of Drinking Water". Oxfam WASH: guia de cloração.
+Resumo operacional; não substitui treinamento nem orientação local.

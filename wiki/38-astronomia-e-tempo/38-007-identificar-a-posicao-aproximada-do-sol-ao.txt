@@ -1,0 +1,85 @@
+==============================================================================
+CODIGO: 38-007
+TITULO: Como identificar a posição aproximada do Sol ao longo do ano
+CATEGORIA: 38 - Astronomia e medição do tempo
+TEMPO: 20 minutos
+RISCO: alto
+EXIGE: bastão reto, local aberto, caderno, lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: sol, estação, solstício, equinócio, sombra, nascer, pôr
+==============================================================================
+
+OBJETIVO
+--------
+Estimar em que região do céu o Sol fica em cada estação do ano.
+
+QUANDO USAR
+-----------
+Quando precisar prever onde o Sol fica para orientar-se no terreno.
+Quando quiser saber se está perto do verão ou do inverno sem relógio.
+Quando for escolher o lado de uma encosta para plantio ou para abrigo.
+Quando precisar estimar a duração aproximada do dia.
+
+NAO USE QUANDO
+--------------
+Não use para navegação de precisão, nem para calcular horários exatos.
+Não use sob nuvens, névoa ou fumaça que escondam o horizonte.
+Não use para olhar diretamente para o Sol: isso pode lesionar os olhos.
+
+MATERIAIS
+---------
+- Bastão reto e fino, de aproximadamente 1 m (estalete ou graveto).
+- Pedra ou estaca para marcar o ponto no chão.
+- Caderno e lápis para anotar (papel improvisado serve).
+- Bússola, se houver (ajuda a conferir o norte).
+
+PROCEDIMENTO
+------------
+1. Escolha um lugar aberto, com horizonte visível a leste e a oeste.
+2. Fique de pé ao lado do bastão, sem olhar diretamente para o Sol.
+3. Observe por onde o Sol aparece no horizonte ao amanhecer.
+4. Anote se ele surgiu mais à esquerda ou mais à direita do leste.
+5. Repita a observação ao entardecer e anote onde ele desaparece.
+6. Espete o bastão vertical no chão, apoiado em pedra, sem inclinar.
+7. Marque no chão a ponta da sombra meia hora antes do meio-dia solar.
+8. Marque a ponta da sombra meia hora depois do meio-dia solar.
+9. O meio-dia solar é quando a sombra do bastão fica mais curta no dia.
+10. Meça a sombra do meio-dia solar usando o próprio bastão como régua.
+11. Sombra curta indica Sol alto no céu, típico do verão.
+12. Sombra longa indica Sol baixo no céu, típico do inverno.
+13. No Brasil, a sombra do meio-dia aponta, em geral, para o norte.
+14. Repita as marcas em datas diferentes e compare as anotações.
+15. Nascer ao sudeste e pôr ao sudoeste indicam verão no hemisfério sul.
+16. Nascer ao nordeste e pôr ao noroeste indicam inverno no hemisfério sul.
+17. Nascer quase no leste e pôr quase no oeste indicam equinócio.
+18. Anote a data de cada observação para reconhecer o padrão anual.
+
+ATENCAO
+-------
+Nunca olhe diretamente para o Sol, mesmo no nascer ou no pôr do sol.
+A luz solar pode queimar a retina sem causar dor imediata.
+Use a sombra do bastão para localizar o Sol sem encarar a fonte de luz.
+Nuvens, fumaça e poeira deslocam o ponto aparente no horizonte.
+O nascer e o pôr aparentes são adiantados pela refração atmosférica.
+Duas observações em dias nublados não bastam para definir a estação.
+Esta técnica dá apenas uma posição aproximada, não um horário exato.
+
+SE NAO TIVER
+------------
+Sem bastão, use a sombra de uma árvore, de um poste ou de um galho fincado.
+Sem caderno, marque os pontos com pedras e repita no dia seguinte.
+Sem céu limpo, espere outro dia em vez de adivinhar a posição.
+Sem bússola, tome o leste do nascer do Sol em dia de equinócio.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As marcas da sombra no meio-dia solar formam uma linha norte-sul no chão.
+A sombra de dezembro é claramente mais curta que a de junho.
+As notas mostram o Sol mudando de lado ao longo do horizonte.
+
+FONTES
+------
+Glossário e calculadora solar do Laboratório de Monitoramento Global da NOAA
+(definições de azimute, elevação, declinação, equinócio, solstício e
+meio-dia solar). A orientação de não olhar diretamente para o Sol é
+prática consolidada de segurança ocular em observação solar.

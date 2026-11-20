@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 38-011
+TITULO: Como construir um calendário solar
+CATEGORIA: 38 - Astronomia e medição do tempo
+TEMPO: 5 minutos por dia, durante um ano
+RISCO: baixo
+EXIGE: vara reta, terreno plano, pedra, caderno, lápis, corda
+REVISAO: 2026-11
+PALAVRAS-CHAVE: calendário, sol, sombra, gnômon, solstício, equinócio, ano
+==============================================================================
+
+OBJETIVO
+--------
+Montar um calendário das estações usando só a sombra do sol.
+
+QUANDO USAR
+-----------
+Quando não houver relógio, celular ou calendário impresso.
+Quando precisar prever o início das estações para plantio e colheita.
+Quando quiser conferir se um calendário recebido está desatualizado.
+
+NAO USE QUANDO
+--------------
+Quando precisar de data civil exata, prazo legal ou dose de remédio.
+Este método marca as estações, não o dia do calendário civil.
+
+MATERIAIS
+---------
+- Vara reta de 1 a 2 metros, sem ponta inclinada (bambu ou estaca).
+- Pedra ou tijolo para manter a vara firme e vertical.
+- Terreno plano, livre de sombra de árvores ou prédios.
+- Caderno e lápis para anotar os dias e os comprimentos.
+- Corda ou fita para medir o comprimento da sombra.
+
+PROCEDIMENTO
+------------
+1. Escolha um local plano que receba sol no meio do dia.
+2. Enterre a vara até ficar firme e perfeitamente vertical.
+3. Confira a verticalidade com um prumo: pedra presa em barbante.
+4. Marque no chão, com uma pedra, o ponto onde a vara toca o solo.
+5. Espere o momento em que a sombra atinge o menor tamanho do dia.
+6. Meça esse comprimento com a corda e anote o dia no caderno.
+7. Repita todos os dias claros durante um ano inteiro.
+8. Marque o dia de sombra mais curta e o de sombra mais longa.
+9. Conte os dias entre dois dias de sombra mais curta: são cerca de 365.
+10. Some os dias e escreva o total: esse é o seu ano solar.
+
+ATENCAO
+-------
+Compare sempre no menor comprimento do dia; a sombra muda com a hora.
+Nuvens e poeira atrapalham a leitura; repita no dia seguinte.
+O ano solar tem aproximadamente 365 dias e 6 horas, não 365 exatos.
+Por isso o calendário civil acrescenta um dia a cada 4 anos.
+Um ano de observação não dá precisão; repita por vários anos.
+
+SE NAO TIVER
+------------
+Sem vara, use um bastão de madeira ou um cabo de vassoura.
+Sem caderno, risque marcas numa pedra e conte os dias.
+Sem corda, meça em palmos; nunca use uma vara inclinada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A sombra encurta e alonga em ciclo regular ao longo do ano.
+O dia mais curto se repete depois de aproximadamente 365 dias.
+
+FONTES
+------
+Prática consolidada: medir o ano solar pela sombra de uma vara vertical
+(gnômon), usada desde a Antiguidade. Apoio: Astronomical Almanac do USNO.

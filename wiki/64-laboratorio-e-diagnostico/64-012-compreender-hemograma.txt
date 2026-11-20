@@ -1,0 +1,74 @@
+==============================================================================
+CODIGO: 64-012
+TITULO: Como compreender hemograma
+CATEGORIA: 64 - Laboratório, diagnóstico e análises
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: exame impresso com faixa de referência, caneta, papel
+REVISAO: 2026-11
+PALAVRAS-CHAVE: sangue, hemograma, hemoglobina, anemia, plaquetas
+==============================================================================
+
+OBJETIVO
+--------
+Localizar as linhas principais do hemograma e saber quando buscar ajuda.
+
+QUANDO USAR
+-----------
+Ao receber o resultado de um exame de sangue.
+Ao ouvir um termo do exame que não ficou claro.
+Ao acompanhar um tratamento indicado por profissional.
+
+NAO USE QUANDO
+--------------
+Não use para trocar conduta indicada pelo médico.
+Não use para começar ou suspender remédio por conta própria.
+Não use em gestantes, recém-nascidos ou crianças sem orientação.
+
+MATERIAIS
+---------
+- Resultado do exame com a faixa de referência do laboratório.
+- Caneta para circular os valores e papel para anotar dúvidas.
+- Idade e sexo da pessoa, para escolher a faixa correta.
+
+PROCEDIMENTO
+------------
+1. Separe o resultado e a faixa de referência do laboratório.
+2. Confira o nome da pessoa e a data da coleta no topo da folha.
+3. Anote a idade e o sexo ao lado da faixa de referência.
+4. Ache "Hemoglobina" (Hb) no grupo dos glóbulos vermelhos.
+5. Compare o valor de Hb com a faixa impressa para aquele sexo.
+6. Abaixo de aproximadamente 13 g/dL em homens, marque possível anemia.
+7. Abaixo de aproximadamente 12 g/dL em mulheres, marque possível anemia.
+8. Ache "Hematócrito" (Ht) e "Hemácias" e compare com a faixa.
+9. Ache "Leucócitos" (glóbulos brancos) e leia neutrófilos e linfócitos.
+10. Ache "Plaquetas" e compare com a faixa impressa.
+11. Circule cada valor fora da faixa e escreva a dúvida ao lado.
+12. Leve a folha marcada ao profissional na próxima consulta.
+
+ATENCAO
+-------
+Um valor fora da faixa não é diagnóstico; a faixa do laboratório vale mais.
+Hemoglobina baixa pode vir de sangramento, dieta pobre ou outra doença.
+Leucócitos altos podem vir de infecção, estresse ou uso de remédio.
+Plaquetas muito baixas ou muito altas exigem avaliação profissional.
+Se houver falta de ar, palidez ou sangramento, busque atendimento.
+
+SE NAO TIVER
+------------
+Sem a faixa impressa, peça os valores ao laboratório e anote a origem.
+Sem entender o número, não deduza a doença; leve o exame ao profissional.
+Não substitua essa leitura por tabela decorada ou palpite.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada linha principal foi localizada e comparada com a faixa impressa.
+Os valores fora da faixa estão circulados, com a dúvida ao lado.
+A folha marcada foi levada ao profissional, que confirmou a leitura.
+
+FONTES
+------
+OMS, documento técnico sobre hemoglobina e diagnóstico da anemia, 2011.
+OMS, folha informativa sobre anemia, 2025.
+Prática consolidada de leitura de exames de sangue.
+Este texto é resumo operacional e não substitui treinamento.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 07-057
+TITULO: Como manter contato com familiares durante uma guerra
+CATEGORIA: 07 - Guerra, radiação e catástrofes nucleares
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: papel, caneta, celular carregado, carregador, rádio a pilha
+REVISAO: 2026-11
+PALAVRAS-CHAVE: contato, família, guerra, ponto de encontro, rádio, sinal
+==============================================================================
+
+OBJETIVO
+--------
+Deixe combinado como avisar e encontrar familiares quando a rede cair.
+
+QUANDO USAR
+-----------
+Quando houver alerta de conflito ou ordem de evacuação na região.
+Quando o celular estiver sem sinal ou a internet cair.
+Quando a família estiver separada em lugares diferentes.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Papel e caneta (para anotar o plano).
+- Celular com carregador (tomada ou bateria externa).
+- Rádio a pilha (para ouvir avisos oficiais).
+
+PROCEDIMENTO
+------------
+1. Reúna a família antes da crise ou escreva o plano sozinho.
+2. Anote no papel o nome, o telefone e o endereço de cada pessoa.
+3. Escolha uma pessoa de fora da região para centralizar as notícias.
+4. Anote o telefone dela e certifique-se de que todos o saibam.
+5. Combine dois pontos de encontro: um perto de casa e um fora do bairro.
+6. Combine um horário fixo de checagem e uma frase curta de "estou bem".
+7. Envie primeiro mensagem de texto curta, não chamada de voz.
+8. Tente a chamada de voz só depois do texto, se ainda houver sinal.
+9. Se não chegar mensagem, vá ao ponto de encontro no horário fixo.
+10. Guarde uma cópia escrita do plano com cada pessoa da família.
+11. Carregue celular, bateria externa e rádio antes de qualquer alerta.
+12. Ouça o rádio a pilha e siga só avisos de autoridades e defesa civil.
+
+ATENCAO
+-------
+A rede pode cair ou ficar lenta quando muita gente liga ao mesmo tempo.
+Mensagem pode chegar atrasada: silêncio não prova que alguém se machucou.
+Não atravesse combate nem ande sozinho à noite para cumprir o plano.
+Se alguém faltar ao encontro, avise a pessoa de fora e a defesa civil.
+
+SE NAO TIVER
+------------
+Sem celular, siga o plano escrito e compareça ao ponto no horário fixo.
+Sem rádio, confirme notícias com a pessoa de fora da região quando possível.
+Sem papel, memorize o telefone dela e os dois pontos de encontro.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada pessoa diz de memória o telefone da pessoa de fora da região.
+Cada pessoa sabe os dois pontos de encontro e o horário de checagem.
+A pessoa de fora da região confirma ter notícia de todos.
+
+FONTES
+------
+Campanha Make a Plan do Ready.gov (FEMA/DHS).
+Orientações Get Tech Ready do Ready.gov (FEMA) sobre texto e bateria.
+Prática consolidada de planejamento familiar e contato após separação.

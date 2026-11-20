@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 57-002
+TITULO: Como medir umidade relativa do ar
+CATEGORIA: 57 - Refrigeração, climatização e conforto
+TEMPO: 15 minutos
+RISCO: baixo
+EXIGE: dois termômetros iguais, gaze, água limpa, tabela psicrométrica
+REVISAO: 2026-11
+PALAVRAS-CHAVE: umidade, ar, psicrômetro, bulbo seco, bulbo úmido, tabela
+==============================================================================
+
+OBJETIVO
+--------
+Obter a umidade relativa do ar em porcentagem com dois termômetros.
+
+QUANDO USAR
+-----------
+Quando o ar parecer muito seco e irritar os olhos ou a garganta.
+Ao guardar alimentos, sementes ou remédios que temem umidade.
+Ao acompanhar o conforto térmico ou a condensação em uma casa.
+
+NAO USE QUANDO
+--------------
+Com chuva, neblina ou orvalho: o ar está saturado e a leitura é 100%.
+Sem tabela para a altitude do local ou com termômetro quebrado.
+
+MATERIAIS
+---------
+- Dois termômetros iguais, de álcool ou digital (evite mercúrio).
+- Gaze, algodão ou musselina limpa e água limpa para umedecer.
+- Tabela psicrométrica para a faixa de temperatura do local.
+- Ponto de sombra com corrente de ar; caderno para anotar.
+
+PROCEDIMENTO
+------------
+1. Escolha ponto de sombra, longe do sol, de paredes quentes e de pessoas.
+2. Mantenha os termômetros longe do corpo e de costas para o sol.
+3. Envolva o bulbo de um termômetro com gaze limpa, sem apertar.
+4. Umedeça a gaze com água limpa; deixe molhada, não encharcada.
+5. Gire o conjunto no ar por 1 a 2 minutos para ventilar os bulbos.
+6. Pare e leia sem demora: seco, úmido e seco; anote os dois.
+7. Subtraia a leitura do úmido da do seco: é a depressão do bulbo.
+8. Ache a temperatura do seco na linha da tabela e a depressão no topo.
+9. Leia a interseção em porcentagem e repita a medição para conferir.
+
+ATENCAO
+-------
+Girar perto de pessoas ou vidros pode causar lesão; afaste-se.
+Termômetro de mercúrio quebrado libera vapor tóxico: não use em campo.
+Ler ao sol, perto do corpo, com gaze suja ou sem vento erra o resultado.
+Em altitude alta, a tabela comum perde precisão; marque como aproximado.
+
+SE NAO TIVER
+------------
+Sem tabela, use higrômetro digital calibrado, se houver.
+Sem gaze, use algodão limpo; nunca pano com sabão ou óleo.
+Sem os dois termômetros, não invente o número: registre que não mediu.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O bulbo úmido marcou temperatura igual ou menor que a do seco.
+O número ficou entre 0% e 100%, com data e horário anotados.
+Como referência: seco 22 °C e diferença 3 °C dão aproximadamente 75%.
+
+FONTES
+------
+INMET (Instituto Nacional de Meteorologia), glossário de umidade relativa.
+Organização Meteorológica Mundial, Guia WMO-No. 8, capítulo 4 (umidade).
+Guia 53 da USP sobre umidade relativa; notas de meteorologia da UFPR.
+==============================================================================

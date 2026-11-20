@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 15-011
+TITULO: Como costurar roupas à mão
+CATEGORIA: 15 - Têxteis, roupas e produção artesanal
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: agulha fina, linha, tesoura, pano limpo, boa luz
+REVISAO: 2026-11
+PALAVRAS-CHAVE: costura, agulha, linha, consertar, remendo, ponto, bainha
+==============================================================================
+
+OBJETIVO
+--------
+Fechar costuras, prender botões e refazer bainhas com agulha e linha.
+
+QUANDO USAR
+-----------
+Quando uma costura abriu e não há máquina de costura.
+Quando um botão caiu ou ficou frouxo.
+Quando a bainha da calça ou da camisa desfez.
+Quando há um furo pequeno que precisa de remendo.
+Quando o reparo precisa ser feito sem energia elétrica.
+
+NAO USE QUANDO
+--------------
+Quando o tecido está apodrecido ou muito fino: a agulha rasga de novo.
+Quando a peça é de malha e o furo corre: o ponto atrás não segura nela.
+Para fechar ferida na pele: agulha de costura não é instrumento médico.
+
+MATERIAIS
+---------
+- Agulha fina, que passe sem alargar o furo do tecido.
+- Linha de costura (fio de nylon ou linha de pesca).
+- Tesoura pequena (faca bem afiada).
+- Dedal (tampinha de plástico ou pedaço de couro).
+- Pano limpo para apoiar a peça.
+- Cera de abelha (opcional, para a linha deslizar e não enrolar).
+
+PROCEDIMENTO
+------------
+1. Corte um pedaço de linha não maior que o seu antebraço.
+2. Passe a ponta cortada pelo olho da agulha.
+3. Dê um nó nessa mesma ponta cortada.
+4. Esconda o nó entre as camadas do tecido, no lado de dentro.
+5. Aproxime as duas bordas da costura aberta com os dedos.
+6. Prenda as bordas com alfinetes ou com alinhavo.
+7. Entenda o alinhavo: pontos longos e frouxos, tirados depois.
+8. Fira a agulha de baixo para cima a aproximadamente 3 mm da borda.
+9. Volte a agulha de cima para baixo no lugar onde ela saiu.
+10. Traga a agulha de baixo para cima aproximadamente 3 mm à frente.
+11. Repita os passos 9 e 10 até passar da ponta da abertura.
+12. Dê dois pontos curtos sobre o último ponto.
+13. Corte a linha rente ao tecido, sem deixar sobra.
+14. Use o ponto atrás, o mais forte, nas costuras que puxam.
+15. Entenda o ponto atrás: a agulha volta sobre o caminho já feito.
+16. Para prender botão, use linha dobrada com nó na ponta.
+17. Atravesse os furos do botão e o tecido com a agulha.
+18. Deixe aproximadamente 2 mm de folga se o botão não tiver haste.
+19. Repita o vaivém seis vezes em cada par de furos.
+20. Enrole a linha entre o botão e o tecido três vezes.
+21. Dê o nó final no lado de dentro da peça.
+22. Para a bainha, dobre a borda para dentro e alinhave.
+23. Pegue um fio do tecido com a ponta da agulha.
+24. Pegue um fio da dobra logo em seguida.
+25. Alterne os dois lados a cada aproximadamente 5 mm.
+26. Puxe a linha sem apertar, para o ponto não marcar o lado de fora.
+
+ATENCAO
+-------
+A picada da agulha é o erro que mais machuca neste procedimento.
+Nunca deixe a agulha solta na mão ou espetada na roupa ao parar.
+Se furar o dedo, lave com água e sabão e observe nos dias seguintes.
+Pare e procure ajuda se aparecer vermelhidão, inchaço ou dor que aumenta.
+O ponto corrido, agulha entrando e saindo em linha reta, é frouxo.
+Não use ponto corrido em costura que vai puxar: ela abre de novo.
+Não aperte a linha: o tecido enruga e o ponto estoura.
+Sem luz boa, não comece: o risco de furar os dedos é alto.
+
+SE NAO TIVER
+------------
+Sem agulha, feche a abertura com alfinete de segurança por enquanto.
+Sem linha, desfie a barra de outra peça e use esse fio.
+Sem dedal, coloque uma tampinha de plástico no dedo médio.
+Sem cera, passar a linha pelo cabelo reduz o enrolamento por pouco tempo.
+Sem tesoura, arrebente a linha esticando-a contra uma borda lisa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A abertura ficou fechada e não aparece fio solto no lado de fora.
+Ao puxar de leve as duas bordas, os pontos não cedem.
+O botão não balança e a peça não fica marcada na frente.
+A bainha não aparece no lado direito e o tecido não enrugou.
+
+FONTES
+------
+Prática consolidada de reparo de roupas, sem documento único.
+Base institucional: Oregon State University Extension, 4-H 320-13,
+"Hand-Sewing Skills" (2014); University of Tennessee Extension,
+"Repair Your Clothes" (2022); Ohio State University,
+"Stitches, Seams, and Garment Finishes"; University of New Brunswick (2022).

@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 65-016
+TITULO: Como fabricar peças por moldagem artesanal
+CATEGORIA: 65 - Engenharia de materiais e polímeros
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: gesso, resina, luvas, óculos, desmoldante, ventilação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: molde, resina, gesso, fundição, peça, luva
+==============================================================================
+OBJETIVO
+--------
+Fazer uma peça rígida em resina usando um molde simples feito à mão.
+
+QUANDO USAR
+-----------
+Quando falta uma peça plástica pequena e não existe reposição.
+Quando é preciso copiar uma peça sem usar máquinas ou metal.
+Quando se tem gesso e resina, mas não há oficina.
+Quando a peça não vai suportar peso, calor ou contato com alimentos.
+
+NAO USE QUANDO
+--------------
+Quando a peça for suportar carga ou calor acima do limite da resina.
+Quando a peça for encostar em alimento, água potável ou chama.
+Quando não houver ventilação no local de trabalho.
+Quando a resina não tiver rótulo, validade ou proporção conhecida.
+Sem luvas e óculos, não faça este procedimento.
+
+MATERIAIS
+---------
+- Peça original limpa, para servir de modelo.
+- Gesso de moldagem (ou massa de modelar).
+- Resina com endurecedor, com rótulo e validade.
+- Vaselina ou filme plástico, como desmoldante.
+- Luvas de nitrilo e óculos de proteção.
+- Recipiente descartável e palito de madeira.
+- Caixa rasa de papelão ou madeira, com fundo firme.
+- Papel de lixa e pano úmido.
+
+PROCEDIMENTO
+------------
+1. Limpe a peça original e retire ferrugem ou soltura.
+2. Coloque a peça no fundo da caixa, com a face a copiar virada para cima.
+3. Fixe a peça com fita ou massa para não se mover.
+4. Pincele vaselina na peça e na parede interna da caixa.
+5. Cubra com filme plástico se não houver vaselina.
+6. Misture gesso e água no recipiente até virar creme espesso.
+7. Despeje o gesso sobre a peça até cobrir toda a superfície.
+8. Espere o gesso endurecer por completo antes de mexer.
+9. Retire a caixa e tire a peça original do molde de gesso.
+10. Deixe o molde secar com a cavidade virada para baixo.
+11. Pincele vaselina na cavidade do molde já seco.
+12. Misture resina e endurecedor na proporção indicada no rótulo.
+13. Despeje a resina na cavidade até a borda.
+14. Bata levemente a lateral do molde para subir as bolhas de ar.
+15. Espere a cura completa indicada no rótulo sem tocar na resina.
+16. Retire a peça do molde com cuidado.
+17. Lixe as bordas com papel de lixa e pano úmido.
+
+ATENCAO
+-------
+Resina e endurecedor líquidos irritam pele e olhos.
+A exposição repetida pode causar alergia permanente.
+Nunca toque resina líquida sem luvas de nitrilo.
+Se houver contato, lave com água corrente e sabão.
+A mistura esquenta durante a cura; não prepare quantidade grande.
+Resina em cura dentro de recipiente fechado pode romper o recipiente.
+Misture apenas o que vai usar e descarte o restante conforme o rótulo.
+Vapores de resina poliéster irritam as vias respiratórias.
+Trabalhe ao ar livre ou com ventilação constante.
+Pó de gesso e de lixamento irrita olhos e pulmões.
+Umedeça a poeira antes de limpar e use máscara de pano.
+Pare e procure ajuda se houver queimadura ou ardência nos olhos.
+Se houver falta de ar, saia do local e busque ajuda.
+
+SE NAO TIVER
+------------
+Sem gesso, use massa de modelar comum ou argila para o molde.
+Sem vaselina, use filme plástico bem esticado como desmoldante.
+Sem luvas e óculos, trabalhe apenas com gesso e não com resina.
+Sem resina, faça a peça de gesso puro e aceite que ela é frágil.
+Sem palito de madeira, use uma haste descartável qualquer.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O molde de gesso endureceu e a peça original sai sem deixar resíduo.
+A resina endureceu por completo e não gruda na luva ao tocar.
+A peça saiu do molde com a forma original e bordas sem rebarbas.
+A peça não cheira a resina líquida depois da cura.
+
+FONTES
+------
+Prática consolidada de moldagem artesanal com gesso e resina.
+Cura em temperatura ambiente, sem forno ou prensa.
+Referência: Manual Técnico da OSHA, Seção III, Capítulo 1.
+Trata de sistemas de resina, cura, exposição dérmica e exotermia.
+Proporções e tempos de cura mudam conforme o produto.
+Siga sempre o rótulo e a ficha de segurança do fabricante.
+Este texto é um resumo operacional e não substitui treinamento.

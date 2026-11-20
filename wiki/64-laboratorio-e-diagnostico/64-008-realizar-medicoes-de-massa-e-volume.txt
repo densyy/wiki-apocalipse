@@ -1,0 +1,78 @@
+==============================================================================
+CODIGO: 64-008
+TITULO: Como realizar medições de massa e volume
+CATEGORIA: 64 - Laboratório, diagnóstico e análises
+TEMPO: 20 minutos
+RISCO: medio
+EXIGE: balança com pesos, proveta ou copo medidor, água, superfície plana
+REVISAO: 2026-11
+PALAVRAS-CHAVE: medir, massa, peso, volume, balança, proveta, deslocamento
+==============================================================================
+
+OBJETIVO
+---------
+Medir massa e volume de sólidos e líquidos com balança e proveta.
+
+QUANDO USAR
+-----------
+Quando precisar separar uma quantidade exata de pó ou líquido.
+Quando precisar conferir o volume de um recipiente sem marcação.
+Quando precisar medir o volume de um objeto de forma irregular.
+Quando não houver balança digital nem energia elétrica.
+
+NAO USE QUANDO
+--------------
+Não meça substância corrosiva, inflamável ou muito quente sem treinamento.
+Não use a medição para dose de remédio ou reagente sem protocolo citado.
+
+MATERIAIS
+---------
+- Balança de dois pratos com pesos conhecidos (ou balança de mola).
+- Proveta ou copo com marcas de volume (ou xícara medidora de cozinha).
+- Recipiente limpo e seco para conter o material.
+- Água limpa e fio fino para medir volume por deslocamento.
+- Caderno para anotar os valores.
+
+PROCEDIMENTO
+------------
+1. Apoie a balança em superfície plana e firme.
+2. Zere a balança com os pratos vazios até o ponteiro ficar no centro.
+3. Coloque o recipiente vazio em um prato e anote sua massa.
+4. Coloque o material no recipiente e anote a massa total.
+5. Subtraia a massa do recipiente da massa total para obter a massa limpa.
+6. Se usar balança de mola, leia com o objeto pendurado e a mola parada.
+7. Coloque a proveta em pé sobre superfície plana.
+8. Despeje o líquido até perto da marca desejada.
+9. Espere o líquido parar de balançar.
+10. Coloque os olhos na altura do nível do líquido.
+11. Leia no fundo da curva para a maioria dos líquidos; no topo se convexa.
+12. Anote o valor da marca mais próxima, sem inventar casas decimais.
+13. Para objeto irregular, anote o volume inicial de água na proveta.
+14. Amarre o objeto com fio e mergulhe por completo, sem tocar as paredes.
+15. Anote o volume final e subtraia o inicial para obter o volume do objeto.
+
+ATENCAO
+-------
+Balança torta ou não zerada dá massa errada; sempre verifique o zero.
+Ler a proveta acima ou abaixo do nível deforma a leitura.
+Objeto com bolha de ar presa ou que flutua falseia o deslocamento.
+Não pese substância que possa derramar e danificar a balança.
+Se o material for perigoso, pare e procure quem tenha treinamento.
+
+SE NAO TIVER
+------------
+Sem proveta, use xícara medidora de cozinha e aceite menor precisão.
+Sem pesos, use uma balança de mola calibrada com peso conhecido.
+Sem balança, não invente massa: informe que não foi possível medir.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A balança ficou zerada antes de pesar e os valores foram anotados.
+A leitura foi feita na altura dos olhos, no fundo da curva do líquido.
+O volume por deslocamento repetido deu o mesmo resultado duas vezes.
+
+FONTES
+------
+Prática consolidada de medição em laboratório, sem documento único.
+Baseada no princípio de Arquimedes para volume por deslocamento e em
+manuais de laboratório. Resumo operacional, não substitui treinamento.

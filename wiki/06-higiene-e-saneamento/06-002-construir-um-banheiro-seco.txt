@@ -1,0 +1,81 @@
+==============================================================================
+CODIGO: 06-002
+TITULO: Como construir um banheiro seco
+CATEGORIA: 06 - Higiene, saneamento e resíduos
+TEMPO: 3 horas
+RISCO: alto
+EXIGE: balde com tampa, sacos plasticos fortes, cinza ou serragem seca
+REVISAO: 2026-11
+PALAVRAS-CHAVE: banheiro seco, fezes, saneamento, higiene
+==============================================================================
+
+OBJETIVO
+--------
+Montar um banheiro sem agua que guarda fezes em balde para descarte seguro.
+
+QUANDO USAR
+-----------
+Quando a descarga parou por falta de agua ou rede quebrada.
+Quando o abrigo so tem fossa cheia ou banheiro interditado.
+Quando o terreno e rochoso ou alagado e nao da para cavar fossa.
+Quando e preciso um banheiro dentro de casa sem esgoto.
+
+NAO USE QUANDO
+--------------
+Nao use para lixo quimico, pilha, remedio ou resto de obra.
+Nao use se nao ha como lavar as maos com sabao apos o uso.
+Nao use com balde furado ou sem tampa que feche bem.
+
+MATERIAIS
+---------
+- Balde de aproximadamente 20 litros com tampa (ou caixa firme)
+- Sacos plasticos fortes, dois por vez (ou saco duplo comum)
+- Material secante: cinza, serragem ou terra seca (um balde cheio)
+- Banco com abertura ou assento de vaso sem agua (ou madeira firme)
+- Pa pequena, sabao e agua tratada para lavar as maos
+- Local fechado para guardar o saco ate o descarte (ou abrigo seco)
+
+PROCEDIMENTO
+------------
+1. Escolha local seco e ventilado a aproximadamente 30 metros da agua.
+2. Forre o balde com dois sacos plasticos fortes e abra bem as bordas.
+3. Coloque aproximadamente dois dedos de material secante no fundo do saco.
+4. Monte o assento sobre o balde, firme e sem frestas, com tampa que feche.
+5. Deixe ao lado o secante, a pa e o sabao para lavar as maos.
+6. Use o banheiro com o saco aberto e o assento firme no lugar.
+7. Cubra as fezes com uma caneca de secante apos cada uso, sem jogar agua.
+8. Tampe o balde apos cada uso para bloquear moscas e mau cheiro.
+9. Separe a urina em outro recipiente quando possivel para reduzir o cheiro.
+10. Amarre o saco no fim do dia e guarde em local fechado longe de criancas.
+11. Enterre o conteudo com aproximadamente 25 cm de terra por cima.
+12. Lave as maos com sabao e agua tratada apos usar e apos mexer no saco.
+
+ATENCAO
+-------
+Fezes transmitem diarreia, vermes, hepatite A, colera e febre tifoide.
+Nunca toque nas fezes e lave as maos sempre apos usar o banheiro.
+Nao jogue o saco em rio, poco, rua ou terreno alheio, pois contamina a agua.
+Nao use fezes frescas como adubo, pois ovos de vermes vivem por meses.
+Guarde o material por aproximadamente 12 meses antes de usar na terra.
+Procure ajuda se houver diarreia com sangue, febre alta ou desidratacao.
+Mantenha criancas longe do balde e supervisione o uso por criancas pequenas.
+
+SE NAO TIVER
+------------
+Sem balde com tampa, use lata grande ou caixa firme forrada com saco duplo.
+Sem serragem ou cinza, use terra seca, folha seca triturada ou cal.
+Sem assento, use duas tabuas firmes com abertura sobre o balde.
+Sem sabao, lave com cinza e agua tratada e esfregue bem as maos.
+
+COMO SABER QUE DEU CERTO
+-------------------------
+O balde fica tampado, sem moscas e com cheiro fraco.
+As fezes ficam sempre cobertas por material seco apos o uso.
+Nenhum resto de fezes alcanca agua, comida ou as maos.
+
+FONTES
+------
+Orientacao do CDC sobre saneamento em emergencias.
+Guia de banheiro de emergencia de King County.
+Relatorio tecnico da Oxfam sobre banheiros secos com desvio de urina.
+Manual de Saneamento da Funasa.

@@ -1,0 +1,68 @@
+==============================================================================
+CODIGO: 52-018
+TITULO: Como compreender atrito e lubrificação
+CATEGORIA: 52 - Física aplicada e princípios fundamentais
+TEMPO: 25 minutos
+RISCO: baixo
+EXIGE: dois objetos para arrastar, superfície plana, um pouco de óleo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: atrito, lubrificação, coeficiente, desgaste, escorregar
+==============================================================================
+
+OBJETIVO
+---------
+Entender o que é o atrito, quando ele ajuda e como a lubrificação o reduz.
+
+QUANDO USAR
+-----------
+Quando um objeto não desliza e você quer saber por que.
+Quando algo escorrega e você quer aumentar a aderência.
+Quando uma peça range ou aquece e você quer reduzir o desgaste.
+
+NAO USE QUANDO
+--------------
+Não use para dimensionar freios, embreagens ou rolamentos de máquina.
+Nesse caso procure cálculo com norma técnica e um profissional.
+
+MATERIAIS
+---------
+- Um bloco pequeno, como uma caixa de madeira (ou um livro).
+- Um objeto mais pesado para comparar (ou uma pedra).
+- Superfície plana e um pouco de óleo ou graxa (ou papel liso).
+
+PROCEDIMENTO
+------------
+1. Coloque o bloco sobre a superfície plana.
+2. Empurre sem mover e sinta a resistência do atrito estático.
+3. Aumente o empurrão até o bloco andar e note o esforço menor.
+4. Entenda a resistência durante o deslizamento como atrito cinético.
+5. Repita com o objeto pesado: com mais peso custa mais para mover.
+6. Escreva a relação: força de atrito = coeficiente vezes força normal.
+7. Entenda a força normal como a força perpendicular que a mesa faz.
+8. Aço seco: coeficiente aproximado de 0,6 parado e 0,3 andando.
+9. Espalhe óleo entre o bloco e a mesa e repita os passos 2 e 3.
+10. Com óleo, o aço cai para aproximadamente 0,05 e 0,03.
+11. Entenda a lubrificação como camada que separa as superfícies.
+
+ATENCAO
+-------
+O atrito não é sempre inimigo: sem ele você não caminha nem freia.
+A força de atrito é paralela à superfície e oposta ao movimento.
+Os coeficientes são aproximados e mudam com umidade e desgaste.
+Óleo derramado deixa o chão escorregadio: limpe antes de andar.
+
+SE NAO TIVER
+------------
+Sem óleo, use um papel ou pano liso entre o bloco e a mesa.
+Sem bloco, arraste a mão sobre a mesa antes e depois de umedecer.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue dizer por que o parado exige mais força que o andando.
+Você observa o bloco deslizar mais longe depois de lubrificado.
+Para ligar isso à segunda lei, veja 52-003 como leitura extra.
+
+FONTES
+------
+OpenStax College Physics: atrito, coeficientes e lubrificação.
+Encyclopaedia Britannica: atrito, coeficiente de atrito e lubrificação.

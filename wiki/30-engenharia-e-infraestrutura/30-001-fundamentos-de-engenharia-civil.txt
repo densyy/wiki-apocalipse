@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 30-001
+TITULO: Como aplicar fundamentos de engenharia civil
+CATEGORIA: 30 - Engenharia e infraestrutura básica
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: caderno, lápis, trena, nível de bolha, estacas, pá pequena
+REVISAO: 2026-11
+PALAVRAS-CHAVE: engenharia civil, fundação, carga, solo, drenagem, obra
+==============================================================================
+
+OBJETIVO
+--------
+Avaliar terreno, carga, fundação e drenagem de uma obra pequena.
+
+QUANDO USAR
+-----------
+Ao escolher o lugar de uma casa, galpão ou depósito.
+Quando surgirem rachaduras novas nas paredes ou no piso.
+Quando o piso afundar ou ficar úmido depois da chuva.
+Antes de reparar viga, coluna, muro ou telhado sem projeto.
+Antes de abrir vala, fossa ou base de máquina.
+
+NAO USE QUANDO
+--------------
+Como substituto de projeto, cálculo ou licença de profissional.
+Em prédio, ponte, barragem ou obra que sustente muitas pessoas.
+Em solo com suspeita de contaminação ou inundação recente.
+
+MATERIAIS
+---------
+- Caderno e lápis para desenhar o terreno e anotar medidas.
+- Trena ou corda com nós a cada metro (substituto: passos calibrados).
+- Nível de bolha ou mangueira transparente com água.
+- Bastão reto de madeira para conferir prumo e esquadro.
+- Estacas e barbante para marcar os cantos.
+- Pá pequena para os buracos de teste (substituto: cavadeira).
+
+PROCEDIMENTO
+------------
+1. Desenhe no caderno o terreno e o lugar da construção.
+2. Marque com estacas o ponto exato de cada canto.
+3. Observe para onde escorre a água da chuva e anote no desenho.
+4. Cave três buracos de aproximadamente 30 cm nos cantos marcados.
+5. Anote o solo: argila pegajosa, areia solta ou terra escura.
+6. Pressione o solo com o bastão; se afundar, considere mole.
+7. Escolha o solo firme e seco para apoiar a construção.
+8. Cave a base até solo firme e abaixo da linha de gelada local.
+9. Nivele a base com a mangueira: as pontas ficam na mesma altura.
+10. Confira o esquadro: as duas diagonais medidas são iguais.
+11. Confira o prumo das paredes antes de subir a estrutura.
+12. Trace o caminho da carga: telhado, vigas, paredes, base, solo.
+13. Apoie cada viga em coluna alinhada com a base, nunca no vazio.
+14. Incline o terreno e abra vala para tirar a água da base.
+15. Ancore a estrutura contra o vento com tirantes enterrados.
+16. Feche os buracos com terra.
+17. Compacte em camadas de aproximadamente 10 cm.
+18. Reavalie depois da chuva: procure rachadura e umidade nova.
+
+ATENCAO
+-------
+Assentamento diferencial é o afundamento desigual da base.
+Ele abre rachaduras e pode derrubar a parede.
+Solo argiloso incha com água e encolhe com seca.
+Nunca apoie a base sobre terra vegetal.
+Água parada junto à base apodrece madeira e corrói metal.
+Ela também enfraquece o solo de apoio.
+Viga ou parede sem apoio alinhado pode ceder sem aviso.
+Não confie em obra feita apenas "no olho".
+Nunca escave abaixo da base de obra existente sem escoramento.
+O solo pode ceder e derrubar a construção.
+Não construa em faixa de inundação, encosta que desliza ou duto.
+Se a rachadura aumentar ou a porta emperrar, pare a obra.
+Chame engenheiro ou defesa civil antes de continuar.
+
+SE NAO TIVER
+------------
+Sem trena, use corda com nós a cada metro e calibre o passo.
+Sem nível, use mangueira com água: as pontas ficam na mesma altura.
+Sem solo firme, espalhe a carga em área maior ou mude de lugar.
+Se só houver solo mole, não improvise com entulho solto.
+Nesse caso, busque orientação técnica antes de construir.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As estacas ficam alinhadas e as diagonais medidas são iguais.
+A base está nivelada e assenta em solo firme, sem água parada.
+Depois da chuva, não há umidade encostada na base nem rachadura nova.
+
+FONTES
+------
+Prática consolidada de engenharia civil e construção rural, sem
+documento único consultado: noções de mecânica dos solos, fundações
+e drenagem. Resumo operacional; não substitui projeto nem avaliação
+de profissional habilitado.

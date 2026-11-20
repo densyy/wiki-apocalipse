@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 02-100
+TITULO: Como construir um fogão foguete
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 180 minutos
+RISCO: alto
+EXIGE: tijolos refratários, argila, tubo de metal, luvas, óculos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fogão foguete, fogão, lenha, chaminé, cozinhar, fogo
+==============================================================================
+
+OBJETIVO
+--------
+Construir um fogão a lenha de alto rendimento com câmara isolada e chaminé.
+
+QUANDO USAR
+-----------
+Quando faltar energia e for preciso cozinhar com lenha diariamente.
+Quando a lenha for escassa e for preciso gastar menos para ferver água.
+Quando houver espaço externo para montar um fogão fixo e ventilado.
+Quando o fogo aberto soltar muita fumaça para dentro da cozinha.
+
+NAO USE QUANDO
+--------------
+Não monte dentro de casa, garagem ou tenda sem chaminé que saia para fora.
+Não use onde houver cheiro de gás ou tanque de combustível por perto.
+Não construa em solo que ceda, com chuva forte ou vento que traga fumaça.
+
+MATERIAIS
+---------
+- Tijolos refratários (ou tijolos comuns forrados com argila refratária).
+- Argila refratária ou cimento refratário para forrar a câmara.
+- Tubo metálico para a chaminé (ou lata grande sem fundo presa com arame).
+- Tijolos ou pedra para a base firme e nivelada.
+- Luvas de couro e óculos de proteção.
+- Água, areia ou extintor para apagar o fogo.
+- Panela com tampa e tira de metal para fazer a saia ao redor da panela.
+- Fósforos ou acendedo e gravetos de lenha seca, pequenos e sem química.
+
+PROCEDIMENTO
+------------
+1. Escolha lugar externo e aberto, longe de paredes e material inflamável.
+2. Afaste mangueiras de gás, tanques e folhas secas do local escolhido.
+3. Deixe água, areia ou extintor ao alcance da mão antes de acender.
+4. Assente uma base firme e nivelada de tijolos ou pedra no local.
+5. Empilhe tijolos deixando um duto vertical de aproximadamente 12 cm.
+6. Forre o duto por dentro com argila refratária de aproximadamente 2 cm.
+7. Faça uma entrada horizontal na base do duto, de aproximadamente 10 cm.
+8. Faça o duto de alimentação inclinado, com aproximadamente 25 cm.
+9. Encaixe o tubo metálico no topo como chaminé, com aproximadamente 40 cm.
+10. Deixe a argila curar por aproximadamente 24 horas, protegida da chuva.
+11. Apoie a panela sobre a câmara, com aproximadamente 2 cm de folga.
+12. Envolva a base da panela com a tira de metal, sem tampar a entrada.
+13. Introduza gravetos secos pelo duto e acenda com fósforo ou acendedo.
+14. Alimente a lenha aos poucos, em pedaços pequenos, sem encher o duto.
+15. Se a fumaça não subir, aumente a abertura de ar na base do duto.
+16. Retire a panela com pano grosso e apague as brasas com água.
+
+ATENCAO
+-------
+A câmara, a chaminé e a panela ficam muito quentes e causam queimaduras
+graves: use luvas e nunca toque nas paredes durante o uso.
+Fumaça e monóxido de carbono matam: nunca opere sem chaminé levando a
+fumaça para fora e sem ventilação no ambiente.
+O monóxido de carbono não tem cor nem cheiro. Dor de cabeça, tontura,
+náusea e confusão são sinais de intoxicação.
+Ao sentir esses sinais, saia para o ar livre e procure atendimento médico.
+Nunca use gasolina, álcool ou solvente para acender: queima e explode.
+Se a chaminé entupir ou a fumaça espalhar, pare, apague e desobstrua.
+Mantenha crianças e animais afastados e nunca deixe o fogo sem vigilância.
+Se o fogo sair do controle, afaste-se e chame os bombeiros.
+
+SE NAO TIVER
+------------
+Sem tijolos refratários, use tijolos comuns com parede interna de argila;
+a vida útil é menor e a câmara precisa de reparo mais cedo.
+Sem tubo metálico, use uma lata grande sem fundo como chaminé, presa com
+arame, e aumente a vigilância para não tombar.
+Sem cimento refratário, use argila pura bem amassada e reforce a cada uso.
+Não improvise a câmara com plástico, madeira tratada ou recipiente de
+tinta: solta vapor tóxico.
+Sem chaminé e sem ventilação, não use o fogão: prefira fogo pequeno ao ar
+livre.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A chama sobe em coluna concentrada pela câmara e a fumaça sai só pela
+chaminé, sem voltar pela entrada de lenha.
+A panela esquenta e a água ferve em menos tempo que no fogo aberto.
+As paredes internas ficam vermelhas, sem rachar nem desfazer.
+Depois de apagadas, as brasas ficam frias, cinzentas e sem fumaça.
+
+FONTES
+------
+Aprovecho Research Center: princípios do fogão foguete: câmara isolada,
+entrada pequena, chaminé curta, saia ao redor da panela e lenha em pedaços
+pequenos para queimar com menos fumaça.
+Organização Mundial da Saúde: poluição do ar doméstico por biomassa,
+necessidade de ventilação e risco de queimaduras e monóxido de carbono.
+Prática consolidada de fogões de lenha melhorados, sem documento único.

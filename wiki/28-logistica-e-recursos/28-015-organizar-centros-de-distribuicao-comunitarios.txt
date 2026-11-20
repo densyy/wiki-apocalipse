@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 28-015
+TITULO: Como organizar centros de distribuição comunitários
+CATEGORIA: 28 - Logística e gestão de recursos
+TEMPO: 180 minutos
+RISCO: medio
+EXIGE: local coberto, estrados, caderno, equipe
+REVISAO: 2026-11
+PALAVRAS-CHAVE: distribuição, centro comunitário, estoque, fila, senha
+==============================================================================
+
+OBJETIVO
+--------
+Montar ponto de distribuição comunitária segura, organizada e justa.
+
+QUANDO USAR
+-----------
+Quando várias famílias dependem de um mesmo ponto de doação.
+Quando chegam doações e é preciso repartir alimentos, água ou remédios.
+Quando é preciso registrar quem recebeu o quê para evitar duplicidade.
+
+NAO USE QUANDO
+--------------
+Não monte o centro em área alagada, encosta instável ou sem saída.
+Não o use como depósito único sem registro: procure a Defesa Civil.
+
+MATERIAIS
+---------
+- Local coberto, seco e com piso firme (lona ou galpão).
+- Estrados ou caixas para manter a carga fora do chão (paletes).
+- Caderno e lápis para registro de entrada, saída e recebedor.
+- Etiquetas para identificar lote e validade (papel rasgado).
+- Fita ou giz para demarcar áreas e fila.
+
+PROCEDIMENTO
+------------
+1. Escolha local coberto, seco e com entrada e saída separadas.
+2. Afaste o centro de córregos e de áreas que alagam.
+3. Delimite com fita quatro áreas: recebimento, estoque, kits e entrega.
+4. Instale estrados para manter a carga a 10 cm do piso.
+5. Cubra a carga com lona, sem encostar a lona nos alimentos.
+6. Receba cada doação, conte as unidades e anote a validade do lote.
+7. Arrume os lotes por validade: o que vence primeiro fica na frente.
+8. Monte kits iguais com a mesma medida de concha ou copo por família.
+9. Entregue senhas numeradas e chame uma de cada vez, em voz alta.
+10. Anote a saída no caderno no ato da entrega e feche o estoque.
+
+ATENCAO
+-------
+Não misture alimentos com combustível, agrotóxico ou produto de limpeza.
+Mantenha a carga fora do chão e coberta: umidade e pragas estragam tudo.
+Não deixe o público no estoque: acesso livre causa furto e briga.
+Item vencido, aberto ou mofado não se doa: descarte com segurança.
+Se houver empurra-empurra, pare e reforce as senhas; peça ajuda.
+
+SE NAO TIVER
+------------
+Sem prateleiras, use caixas firmes ou tijolos como estrados.
+Sem fita, demarque áreas com giz ou pedras.
+Sem lona, use pano limpo; nunca plástico com cheiro de tinta ou combustível.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Há quatro áreas demarcadas e a carga está seca, coberta e sobre estrados.
+O caderno registra cada entrada e saída com nome do recebedor.
+
+FONTES
+------
+Prática consolidada de logística e gestão de estoques em emergência.
+Sem documento único; resumo operacional, não substitui treinamento.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 60-017
+TITULO: Como planejar sistemas de transporte interno
+CATEGORIA: 60 - Arquitetura, urbanismo e assentamentos
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: caderno, lápis, fita métrica ou corda, croqui do assentamento
+REVISAO: 2026-11
+PALAVRAS-CHAVE: transporte, caminho, carriola, rampa, ponte, evacuação
+==============================================================================
+
+OBJETIVO
+--------
+Definir como pessoas e cargas circulam com segurança no assentamento.
+
+QUANDO USAR
+-----------
+Ao organizar assentamento novo ou reformar o traçado de um existente.
+Quando água, lenha ou alimento são trazidos de longe a pé ou em carriola.
+Ao preparar rotas de evacuação e acesso a socorro.
+
+NAO USE QUANDO
+--------------
+Não planeje trajeto em encosta instável ou leito de rio sem avaliar.
+Não use este plano para substituir projeto de ponte ou rampa grande.
+
+MATERIAIS
+---------
+- Caderno, lápis e croqui do assentamento.
+- Fita métrica, corda ou passos contados para medir.
+- Estacas ou pedras para marcar o terreno e moradores para apontar riscos.
+
+PROCEDIMENTO
+------------
+1. Liste o que circula: pessoas, água, lenha, alimento e resíduo.
+2. Marque no croqui onde cada fluxo começa e onde termina.
+3. Anote como cada carga é movida: carriola, animal ou nas costas.
+4. Desenhe o trajeto mais curto entre a origem e o destino de cada fluxo.
+5. Reserve faixa livre de aproximadamente 2 m, ou 3 m para carriola.
+6. Dê até 1 para 12 (aproximadamente 8%) de inclinação na rampa de carga.
+7. Reduza para 1 para 20 (aproximadamente 5%) onde passa cadeirante.
+8. Faça travessia elevada onde o caminho corta vala ou córrego.
+9. Deixe aproximadamente 1,5 m livres na ponte e coloque guarda-corpo.
+10. Marque o traçado no terreno com estacas ou pedras.
+11. Revise o plano com a comunidade antes de abrir o solo.
+
+ATENCAO
+-------
+Rampa íngreme faz carriola desgovernada e machuca quem carrega.
+Caminho sem drenagem vira vala e corta a passagem na chuva.
+Não estreite a faixa com depósito ou cerca: bloqueia o socorro.
+Se aparecer rachadura ou afundamento na ponte, pare e peça avaliação.
+
+SE NAO TIVER
+------------
+Sem fita métrica, meça com passos: um passo é aproximadamente 0,7 m.
+Sem croqui, desenhe no caderno moradias, água, depósitos e saídas.
+Sem carriola, use sacos ou baldes e reduza a distância por viagem.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O croqui mostra cada fluxo com origem e destino ligados.
+No terreno, as estacas formam linha contínua até a saída.
+Carriola cheia sobe a rampa sem deslizar nem bater nas laterais.
+
+FONTES
+------
+Prática consolidada de planejamento de assentamentos e mobilidade interna.
+Diretrizes da OMS sobre acessibilidade no transporte de pessoas.
+Resumo operacional; não substitui projeto técnico nem avaliação local.

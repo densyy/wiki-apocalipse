@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 13-033
+TITULO: Como compreender princípios básicos de microbiologia
+CATEGORIA: 13 - Química e conhecimentos científicos aplicados
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: papel, lápis, lupa ou lente, luvas, recipiente com tampa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: microbiologia, bactéria, vírus, fungo, germe, contágio
+==============================================================================
+
+OBJETIVO
+--------
+Reconheça os quatro grupos de microrganismos e nomeie as condições que
+permitem sua propagação e as ações que a reduzem.
+
+QUANDO USAR
+-----------
+Quando água parada, comida ou lixo atrai moscas, cheiro ou bolor.
+Quando alguém adoece depois de comer ou beber algo suspeito.
+Quando precisar decidir entre ferver, descartar ou guardar um alimento.
+Quando aparece bolor em pão, fruta ou parede e você quer saber o risco.
+Quando ouvir falar em "germe", "infecção" ou "contágio" sem entender.
+Quando precisar explicar por que lavar as mãos ou cobrir uma ferida.
+
+NAO USE QUANDO
+--------------
+Não identifique a espécie exata a olho nu: só o laboratório faz isso.
+Não use para afirmar que algo é seguro: aparência e cheiro enganam.
+Não cultive, não alimente e não inale amostra para "testar" em casa.
+Não use no lugar de vacina, tratamento ou orientação de saúde pública.
+
+MATERIAIS
+---------
+- Papel e lápis para anotar o que foi visto.
+- Lupa ou lente, se houver (a olho nu servem os sinais grandes).
+- Luvas descartáveis (pano seco serve em parte, não substitui higiene).
+- Recipiente transparente com tampa para observar sem abrir.
+- Boa luz para ver cor, textura e movimento.
+- Água corrente e sabão para lavar as mãos ao terminar.
+
+PROCEDIMENTO
+------------
+1. Coloque uma pequena porção do material suspeito no recipiente.
+2. Feche o recipiente antes de aproximar o rosto; nunca abra perto da boca.
+3. Observe sem cheirar: veja cor, brilho, textura e pontos ou filamentos.
+4. Anote o que mudou desde que o material foi guardado ou coletado.
+5. Defina microrganismo (germe): ser visível só com lente.
+6. Classifique bactéria: célula única microscópica, invisível ao olho nu.
+7. Classifique vírus: menor que bactéria, só se multiplica em células.
+8. Classifique fungo: bolor visível, com filamentos e cheiro de mofo.
+9. Classifique protozoário: célula única comum em água parada e lenta.
+10. Trate o invisível como presente: não tem cor, cheiro ou forma.
+11. Verifique as condições: havia água, calor, alimento, tempo e ar?
+12. Anote qual condição faltou: sem água ou sem frio, a propagação diminui.
+13. Relacione a fonte: fezes, solo, água parada e restos de comida.
+14. Decida a ação: ferver água, descartar alimento com bolor, lavar as mãos.
+15. Cubra ferida com gaze limpa se houver contato com material suspeito.
+16. Não prove, não cheire de perto e não cultive: encerre a observação aqui.
+17. Lave as mãos com água corrente e sabão ao terminar.
+
+ATENCAO
+-------
+Água limpa e sem cheiro pode conter bactéria, vírus ou protozoário.
+Bolor visível é só a parte aérea; as raízes ficam no alimento.
+Não incline o rosto sobre a amostra: inalar esporos pode irritar pulmões.
+Não cultive germe em casa: você pode concentrar um agente que adoece.
+Este texto não identifica espécie e não substitui exame de laboratório.
+Bactéria não responde a antiviral; vírus não responde a antibiótico.
+Não use antibiótico sem prescrição: germe resistente pode surgir.
+Com febre, vômito, diarreia com sangue ou ferida com pus, busque ajuda.
+Em alimento macio com bolor, descarte inteiro; não corte a parte mofada.
+
+SE NAO TIVER
+------------
+Sem lupa, observe só sinais grandes: cor, bolor, cheiro e textura.
+Sem luvas, use pano seco e lave as mãos depois; nunca toque ferida suja.
+Sem recipiente com tampa, observe de longe e não manuseie a amostra.
+Sem luz boa, leve o recipiente até a janela, nunca ao sol direto.
+Se não souber classificar, anote só o que viu e aplique a precaução:
+ferva a água ou descarte o alimento, sem experimentar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você aponta um sinal visível e um sinal que não dá para ver.
+Você nomeia os quatro grupos e um local comum para cada um.
+Você cita duas condições que aceleram a propagação e duas que a freiam.
+Você decide uma ação concreta: ferver, descartar, lavar ou cobrir.
+
+FONTES
+------
+CDC (Centros de Controle e Prevenção de Doenças dos Estados Unidos):
+definição de germes, bactérias, fungos, parasitas e vírus; alerta sobre
+resistência a antimicrobianos (página "About Antimicrobial Resistance").
+MedlinePlus (Biblioteca Nacional de Medicina dos Estados Unidos):
+"Infectious Diseases": quatro tipos de germes e formas de contágio.
+OMS (Organização Mundial da Saúde): "Drinking-water" (2023) e
+"Diarrhoeal disease" (2024): água contaminada por fezes, transmissão
+por comida e água, e prevenção com água segura, saneamento e sabão.
+Prática consolidada de segurança de alimentos: descartar alimento com bolor.

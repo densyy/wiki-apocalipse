@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 37-022
+TITULO: Como utilizar fotografias aéreas para análise territorial
+CATEGORIA: 37 - Cartografia, topografia e levantamento
+TEMPO: 45 minutos
+RISCO: baixo
+EXIGE: fotografias aéreas com data conhecida, lupa, régua, caderno, lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: foto aérea, escala, relevo, croqui, uso do solo, drone
+==============================================================================
+
+OBJETIVO
+--------
+Ler uma foto aérea e registrar em croqui as informações do terreno.
+QUANDO USAR
+-----------
+Quando não há mapa recente da área.
+Quando é preciso localizar água, estradas ou área de cultivo.
+Ao planejar rota ou registrar mudanças no terreno.
+
+NAO USE QUANDO
+--------------
+Quando a foto não tem data e a paisagem muda depressa.
+Quando a decisão depende de limite de propriedade ou medida legal.
+Quando a imagem está manchada, desfocada ou sem contraste.
+MATERIAIS
+---------
+- Fotografia aérea impressa ou arquivo salvo no aparelho.
+- Lupa de bolso (ou lente ampliadora de leitura).
+- Régua milimetrada (ou fita métrica, para medir a impressão).
+- Caderno, lápis e papel vegetal para transferir traços.
+
+PROCEDIMENTO
+------------
+1. Anote a data e a escala (relação entre a foto e o terreno).
+2. Se não houver escala, escreva "escala desconhecida" no caderno.
+3. Determine o norte com um mapa ou com um ponto conhecido da paisagem.
+4. Leia o tom, que é o claro ou o escuro de cada área.
+5. Marque a água: rios e lagoas aparecem escuros e de bordas suaves.
+6. Leia a textura, que é o padrão de rugosidade da superfície.
+7. Marque a mata, de textura irregular, e o cultivo, de padrão regular.
+8. Leia a forma: estrada é alongada; lote e prédio são retangulares.
+9. Meça com a régua e multiplique pelo denominador da escala, se houver.
+10. Anote cada achado com número, descrição e medida aproximada.
+
+ATENCAO
+-------
+Foto sem data pode mostrar estradas ou rios que não existem mais.
+Foto oblíqua, tirada com a câmera inclinada, distorce distâncias.
+Em foto vertical, objetos altos deslocam-se e o relevo muda a escala.
+A foto não mostra o que está sob mata fechada, nem limites de propriedade.
+Não escolha travessia ou abrigo só pela foto; confirme no terreno.
+
+SE NAO TIVER
+------------
+Sem lupa, amplie o arquivo; não invente detalhe onde o pixel não existe.
+Sem escala, compare com objeto conhecido e marque a medida como aproximada.
+Sem duas fotos sobrepostas, deixe de lado a leitura de relevo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A data e a escala da foto estão anotadas no caderno.
+Água, vias e cobertura do solo foram marcadas na imagem ou no croqui.
+Toda medida está acompanhada da escala usada ou do aviso de aproximada.
+
+FONTES
+------
+Prática consolidada de fotointerpretação, sem documento único; resumo.
+Base: USGS, Remote Sensing Tutorial da NASA e Remote Sensing Core Curriculum
+da Universidade de Maryland. Não substitui treinamento em fotogrametria.

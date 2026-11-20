@@ -1,0 +1,94 @@
+==============================================================================
+CODIGO: 08-034
+TITULO: Como soldar metais
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: forja, martelo, bigorna, tenazes, óculos, luvas, área externa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: solda, soldar, forja, ferro, aço, martelo, calor, união
+==============================================================================
+
+OBJETIVO
+--------
+Unir duas peças de ferro ou aço comum por calor e martelo, sem equipamento.
+
+QUANDO USAR
+-----------
+Quando faltar solda elétrica ou maçarico para consertar peça de ferro.
+Quando for preciso fechar uma argola, uma alça ou uma ponta de barra.
+Quando houver forja a carvão, martelo e bigorna no acampamento.
+Quando a peça não vai sustentar peso nem girar em alta velocidade.
+
+NAO USE QUANDO
+--------------
+Em recipiente fechado ou que guardou combustível, tinta ou solvente.
+Em metal galvanizado, pintado, emborrachado ou com resina e óleo.
+Em ferro fundido, aço inoxidável, alumínio ou liga desconhecida.
+Em freio, suspensão, cordoalha, escada ou peça que sustente peso.
+Em lugar fechado, sem ventilação, sem óculos e sem luvas.
+
+MATERIAIS
+---------
+- Duas peças de ferro ou aço comum, sem zinco, tinta ou ferrugem grossa.
+- Forja a carvão ou braseiro com carvão vegetal limpo (veja 08-025).
+- Bigorna ou bloco de aço firme; pedra densa serve.
+- Martelo de ferreiro com cabo firme e sem rachadura.
+- Tenazes longas para segurar metal quente.
+- Lixa, pedra de amolar ou faca para limpar as bordas.
+- Escova de aço ou pano seco para retirar a casca.
+- Óculos com escudo lateral e luvas de couro com punho fechado.
+- Avental de algodão grosso ou couro e botina fechada.
+- Balde de areia seca e balde com água para apagar o fogo.
+
+PROCEDIMENTO
+------------
+1. Escolha apenas ferro ou aço comum, sem tinta, zinco ou resina.
+2. Descarte peça rachada, oca ou de ferro fundido.
+3. Lime as bordas que vão se unir até encostarem por toda a extensão.
+4. Retire ferrugem e óleo até aparecer metal brilhante nas duas bordas.
+5. Vista óculos, luvas e avental antes de acender a forja.
+6. Aqueça as duas peças lado a lado, sobre brasa limpa e sem chama alta.
+7. Vire as peças com as tenazes para aquecerem por igual.
+8. Retire do fogo quando as bordas estiverem amarelo-claro, quase brancas.
+9. Coloque as bordas quentes sobre a bigorna e retire a casca com a escova.
+10. Encoste as duas bordas quentes, alinhadas, sobre a bigorna.
+11. Bata uma vez, forte e seco, no centro da união com o martelo.
+12. Vire a peça com as tenazes e bata do outro lado para assentar.
+13. Se não unir, reaqueça e repita; nunca bata em metal escuro.
+14. Deixe a peça esfriar ao ar ou em areia seca; não mergulhe em água.
+15. Apague as brasas com água ou areia ao terminar.
+
+ATENCAO
+-------
+Metal quente parece igual ao frio: use luvas, tenazes e óculos sempre.
+Casca e faísca quente cegam; nunca aproxime o rosto da bigorna.
+Fumo de metal e monóxido de carbono matam em lugar fechado: ventile.
+Nunca solde peça galvanizada, pintada ou com resina: a fumaça é tóxica.
+Nunca solde recipiente fechado ou que guardou combustível: pode explodir.
+Dor de cabeça, tontura ou náusea perto do fogo: saia para o ar livre.
+A união não tem resistência garantida: não use em peça de segurança.
+Se a borda não ficar amarelo-claro, pare; união fria não segura.
+Em queimadura, resfrie com água corrente; se for grande, busque ajuda.
+
+SE NAO TIVER
+------------
+Sem bigorna, use bloco de aço firme ou pedra densa que não se move.
+Sem escova, retire a casca com pano seco; nunca com as mãos.
+Sem condição de limpar as bordas até o metal brilhante, não tente soldar.
+Sem óculos ou luvas, não faça a solda; não existe substituto seguro.
+Sem forja, não improvise solda com fogo de chão alto nem com gasolina.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As bordas formam uma linha contínua, sem fenda visível.
+Depois de fria, a peça não separa ao receber batida leve na bigorna.
+A linha de união não tem casca presa, bolha nem ponto solto.
+
+FONTES
+------
+Prática consolidada de soldagem por forja em ferraria, sem documento único.
+OSHA, Solda, corte e brasagem, 29 CFR 1910.252, e folha OSHA 3647 (2013).
+NIOSH, publicação 88-110, critérios para solda, brasagem e corte térmico.
+NIOSH, fumos de solda e manganês, página atualizada em 2026.
+AWS/ANSI Z49.1, Segurança em solda e processos correlatos, citado pela OSHA.

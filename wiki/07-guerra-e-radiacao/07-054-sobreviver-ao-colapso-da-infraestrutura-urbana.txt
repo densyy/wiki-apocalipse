@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 07-054
+TITULO: Como sobreviver ao colapso da infraestrutura urbana
+CATEGORIA: 07 - Guerra, radiação e catástrofes nucleares
+TEMPO: Contínuo, enquanto durar a crise
+RISCO: alto
+EXIGE: rádio a pilha, lanterna, pilhas, água armazenada, documentos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: colapso, cidade, sem luz, sem água, esgoto, rádio, abrigo
+==============================================================================
+
+OBJETIVO
+--------
+Mantenha água, comida e segurança sem energia, água corrente ou comércio.
+
+QUANDO USAR
+-----------
+Quando a energia cair na vizinhança e não voltar.
+Quando a água da torneira parar ou ficar turva.
+Quando o esgoto transbordar na rua ou em casa.
+Quando transporte, comércio e bancos pararem.
+Quando celular e internet ficarem sem cobertura.
+Quando a Defesa Civil emitir alerta para a região.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+Se houver ordem oficial de evacuação, a ordem vem primeiro.
+
+MATERIAIS
+---------
+- Rádio a pilha ou de manivela.
+- Lanterna e pilhas (vela só com supervisão).
+- Água armazenada e recipiente com tampa.
+- Pano limpo ou filtro de café.
+- Documentos em papel e dinheiro em espécie.
+- Sacos de lixo e fita adesiva.
+
+PROCEDIMENTO
+------------
+1. Ouça o rádio a pilha para saber se deve evacuar ou ficar.
+2. Fique em casa se não houver ordem de saída e o prédio estiver firme.
+3. Desligue energia, gás e água no quadro geral ao sentir cheiro de gás.
+4. Feche o registro de entrada se a água ficar turva ou parar.
+5. Encha recipientes limpos com a água que ainda sair da torneira.
+6. Ferva água suspeita em fogo forte por aproximadamente 1 minuto.
+7. Espere esfriar e guarde em recipiente com tampa.
+8. Não beba água com cheiro de gasolina ou óleo: ferver não a limpa.
+9. Coma primeiro os perecíveis e depois os enlatados e secos.
+10. Descarte comida que tocou água de alagamento ou ficou 4 horas sem gelo.
+11. Use lanterna; evite vela para não provocar incêndio.
+12. Mantenha gerador, fogão a lenha e churrasqueira só do lado de fora.
+13. Afaste gerador e churrasqueira a aproximadamente 6 metros de janelas.
+14. Não use fogão a gás para aquecer o ambiente.
+15. Não toque em fio caído; fique a aproximadamente 10 metros dele.
+16. Não entre em água de alagamento nem atravesse rua alagada.
+17. Guarde urina e fezes em balde com tampa, longe da água de beber.
+18. Cubra o balde com terra ou tampa após cada uso.
+19. Lave as mãos com água tratada e sabão antes de comer.
+20. Feche portas e janelas e tape frestas se houver poeira ou fumaça.
+21. Combine com vizinhos um ponto de encontro e horário de checagem.
+22. Saia para pedir socorro só se houver ferido grave ou risco de incêndio.
+
+ATENCAO
+-------
+Gerador, fogão ou churrasqueira dentro de casa produz monóxido de carbono.
+O monóxido não tem cheiro nem cor; saia ao ar livre se sentir tontura.
+Fio caído pode eletrificar água, terra e metal mesmo sem faísca visível.
+Água com combustível ou químico não fica segura ao ferver; use outra fonte.
+Água de alagamento pode conter esgoto e causar diarreia ou leptospirose.
+Fogo em ambiente fechado consome oxigênio; mantenha uma saída livre.
+Siga a Defesa Civil antes deste guia; se o prédio ameaçar cair, evacue.
+Não confie em mensagem não oficial; confirme no rádio ou na Defesa Civil.
+
+SE NAO TIVER
+------------
+Sem rádio, pergunte a vizinhos e ouça sirenes e carros de som.
+Sem água corrente, use a caixa d'água, o reservatório ou o gelo derretido.
+Sem fogão, ferve em panela metálica sobre fogo aceso ao ar livre.
+Sem sabão, use álcool em gel com pelo menos 60% de álcool.
+Sem dinheiro, combine ajuda com vizinhos e parentes; cartão pode falhar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Há água fervida ou tratada em recipiente tampado para a família beber.
+Os disjuntores foram desligados e não há cheiro de gás no ambiente.
+Nenhum gerador ou churrasqueira fica dentro de casa.
+Você sabe onde ficam a saída, a caixa d'água e o quadro de energia.
+Você recebeu informação por rádio ou da Defesa Civil hoje.
+
+FONTES
+------
+Orientações sobre falta de energia da Cruz Vermelha americana.
+Guia para tornar água segura em emergência do CDC americano.
+Recomendações de água, saneamento e higiene em desastres da OMS.
+Orientações de autoproteção da Defesa Civil Nacional para alagamentos.

@@ -1,0 +1,94 @@
+==============================================================================
+CODIGO: 01-016
+TITULO: Como extrair água de plantas com segurança
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: saco transparente, barbante, planta conhecida, pedra, fogo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, planta, transpiração, saco, cacto, veneno, ferver
+==============================================================================
+
+OBJETIVO
+--------
+Obter água de folhas de plantas conhecidas e tratá-la antes de beber.
+
+QUANDO USAR
+-----------
+Quando não há água perto e há sol sobre árvores de folhas largas.
+Quando a planta foi identificada como não tóxica com certeza.
+Quando há saco plástico transparente e barbante.
+Quando a água coletada pode ser coada e fervida em seguida.
+
+NAO USE QUANDO
+--------------
+Quando a planta não foi identificada com certeza ou pode ser tóxica.
+Quando a planta tem seiva leitosa, cheiro acre ou espinhos.
+Quando o saco é opaco, sujo ou já guardou combustível ou agrotóxico.
+Quando não há como ferver ou desinfetar a água depois.
+
+MATERIAIS
+---------
+- Saco plástico transparente e limpo, sem furos (não use saco preto).
+- Barbante ou fita resistente para amarrar.
+- Pedra pequena e limpa, do tamanho de uma noz.
+- Pano limpo ou filtro de pano para coar.
+- Recipiente limpo e tampado.
+- Fonte de calor e recipiente metálico para ferver.
+
+PROCEDIMENTO
+------------
+1. Identifique a planta com certeza antes de qualquer coleta.
+2. Use apenas espécie conhecida como não tóxica.
+3. Escolha galho com folhas verdes, secas e sem insetos ou fezes.
+4. Retire gravetos e espinhos que possam furar o saco.
+5. Coloque a pedra limpa dentro do saco transparente.
+6. Vista o saco sobre o galho até cobrir todas as folhas.
+7. Amarre a boca do saco no galho, formando vedação apertada.
+8. Amarre a ponta do galho e deixe-a mais baixa que a boca do saco.
+9. Deixe o sol bater no saco por aproximadamente 3 horas.
+10. Solte a amarração com cuidado e despeje a água no recipiente.
+11. Pegue a água do ponto mais baixo, sem tocar nas folhas.
+12. Coe a água com o pano limpo para reter folhas e insetos.
+13. Ferva por 1 minuto de ebulição forte; acima de 2.000 m, 3 minutos.
+14. Tampe, deixe esfriar e guarde em recipiente limpo e tampado.
+
+ATENCAO
+-------
+A água do saco não é estéril: pode ter bactérias e fezes.
+Ferva sempre antes de beber. Vegetação venenosa dá líquido venenoso.
+Nunca use oleandro, cicuta, comigo-ninguém-pode ou planta desconhecida;
+a fervura não remove as toxinas dessas plantas.
+Não esmague cactos para beber: o suco é ácido, tem alcaloides e pode
+causar vômito, diarreia e alucinações, piorando a desidratação.
+Não use saco que tenha guardado produto químico; resíduos passam
+para a água e a fervura não os elimina.
+A seiva de algumas plantas irrita pele e olhos; evite contato e lave
+a pele se houver contato.
+Se aparecerem náusea, vômito, diarreia, tontura, dormência ou batimento
+irregular depois de beber, pare na hora e procure atendimento médico.
+O método rende pouca água: não substitui uma fonte segura.
+
+SE NAO TIVER
+------------
+Sem saco transparente, use plástico claro e limpo; saco escuro não serve.
+Sem barbante, torça a abertura do saco ou use fibra vegetal limpa.
+Sem pedra, dobre o canto do saco e prenda a dobra com a própria amarra.
+Sem fogo, exponha a água clara em garrafa transparente ao sol por 4 a 6
+horas; esse método é menos seguro que ferver.
+Na dúvida sobre a planta, não use: não existe substituto seguro.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Água límpida se juntou no ponto mais baixo do saco.
+A água coada não tem folhas, insetos nem sedimento visível.
+A água ferveu forte pelo tempo indicado e ficou guardada tampada.
+Ninguém que bebeu teve náusea, vômito, diarreia ou tontura depois.
+
+FONTES
+------
+Manual de campo militar de sobrevivência, capítulo de obtenção de água
+(saco de transpiração e alerta contra vegetação venenosa). Diretrizes
+clínicas da Wilderness Medical Society (2024) e da CDC sobre tratamento
+de água. Extensão da University of Arkansas e lista de plantas venenosas
+da North Carolina State University.

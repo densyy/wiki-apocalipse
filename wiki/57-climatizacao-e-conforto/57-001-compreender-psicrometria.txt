@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 57-001
+TITULO: Como compreender psicrometria
+CATEGORIA: 57 - Refrigeração, climatização e conforto
+TEMPO: 40 minutos
+RISCO: baixo
+EXIGE: termômetro comum, pano limpo, água, carta ou tabela psicrométrica
+REVISAO: 2026-11
+PALAVRAS-CHAVE: psicrometria, bulbo seco, bulbo úmido, umidade, orvalho
+==============================================================================
+
+OBJETIVO
+--------
+Entender a psicrometria (estudo da mistura de ar e vapor de água) para ler
+calor e umidade e decidir como refrescar, ventilar ou secar o ambiente.
+
+QUANDO USAR
+-----------
+Quando o ar parece abafado e falta saber se é calor ou umidade.
+Ao secar roupa, grãos ou alimentos ao ar livre.
+Ao escolher entre ventilação e resfriamento por evaporação.
+Quando paredes ou vidros frios suam e você teme condensação.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Termômetro comum (psicrômetro, se houver).
+- Pano limpo, gaze ou papel e água limpa.
+- Carta ou tabela psicrométrica impressa da região.
+
+PROCEDIMENTO
+------------
+1. Meça o ar na sombra com termômetro comum, longe de fogo ou sol.
+2. Anote a leitura: é a temperatura de bulbo seco (TBS), o calor do ar.
+3. Envolva o bulbo com pano limpo umedecido em água limpa.
+4. Ventile o bulbo úmido com o próprio aparelho ou com ventilador.
+5. Espere aproximadamente 1 minuto, até a leitura parar de descer.
+6. Anote a nova leitura: é a temperatura de bulbo úmido (TBU).
+7. Subtraia TBU de TBS. O resultado é a diferença psicrométrica.
+8. Quanto menor a diferença, mais úmido está o ar. Se for zero, saturado.
+9. Na carta, use TBS e a diferença para ler a umidade relativa em por cento.
+10. A umidade relativa diz quanta água o ar tem comparado ao limite dele.
+11. Siga a linha de umidade constante até a curva de saturação.
+12. Leia a temperatura nesse ponto: é o ponto de orvalho.
+
+ATENCAO
+-------
+A leitura do bulbo úmido exige ventilação; sem ela, o valor sobe e engana.
+A carta comum serve para o nível do mar. Em altitude, use tabela corrigida.
+Muita umidade relativa não é muita água: ar quente comporta mais vapor.
+A diferença entre bulbos não detecta gases tóxicos, fumaça nem falta de ar.
+Com tontura ou pele quente e seca, pare e busque sombra e ajuda.
+
+SE NAO TIVER
+------------
+Sem carta, use só a diferença: grande = ar seco; pequena = ar úmido.
+Sem pano, use gaze ou papel limpo. Não use líquido corrosivo no bulbo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A leitura do bulbo úmido estabilizou e ficou menor ou igual à do seco.
+A umidade lida ficou entre zero e 100 por cento e o orvalho abaixo da TBS.
+
+FONTES
+------
+Capítulo 1 de psicrometria do Manual ASHRAE; Princípios de Secagem de
+Alimentos da Embrapa; guia da Extensão da Universidade de Nebraska.

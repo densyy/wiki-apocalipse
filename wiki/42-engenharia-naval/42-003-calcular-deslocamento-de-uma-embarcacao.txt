@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 42-003
+TITULO: Como calcular deslocamento de uma embarcação
+CATEGORIA: 42 - Engenharia naval e tecnologias marítimas
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: caderno, lápis, fita métrica, balança ou dinamômetro, calculadora
+REVISAO: 2026-11
+PALAVRAS-CHAVE: deslocamento, embarcação, calado, flutuação, peso, água
+==============================================================================
+
+OBJETIVO
+--------
+Obter a massa da embarcação com carga, por pesagem ou volume imerso.
+
+QUANDO USAR
+-----------
+Ao receber carga e conferir se o limite de peso foi ultrapassado.
+Ao comparar o barco vazio e carregado antes de uma viagem.
+
+NAO USE QUANDO
+--------------
+Quando o casco estiver adernado, com entrada d'água ou em ondas fortes.
+Quando o objetivo for lotação máxima: use a placa do fabricante.
+
+MATERIAIS
+---------
+- Caderno, lápis e fita métrica (corda com nós de 1 metro, calibrada).
+- Balança de cais ou gancho com dinamômetro (se houver).
+- Calculadora ou papel para as contas.
+
+PROCEDIMENTO
+------------
+1. Anote: deslocamento é a massa de água empurrada pelo casco na flutuação.
+2. Some em kg casco, motor, combustível, água, pessoas e carga.
+3. Se houver balança, confira a soma com a leitura da balança ou do gancho.
+4. Sem balança, espere água parada e barco nivelado antes de medir o volume.
+5. Meça comprimento e largura na linha d'água, onde a água toca o casco.
+6. Meça o calado: da linha d'água até a quilha, o fundo do casco, em metros.
+7. Multiplique comprimento por largura por calado: volume em m³.
+8. Reduza esse volume: casco comum ocupa aproximadamente 0,6 do retângulo.
+9. Multiplique por 1.000 na água doce ou 1.025 na salgada: resultado em kg.
+10. Divida por 1.000 para toneladas e anote a condição de carga usada.
+
+ATENCAO
+-------
+O deslocamento muda com carga e pessoas; meça na condição de interesse.
+Na água salgada o barco afunda menos, mas a massa deslocada é a mesma.
+O volume retangular superestima cascos afunilados: o erro pode passar de
+30 por cento. Onda, casco inclinado ou corda frouxa estragam a medição.
+Não confunda deslocamento com arqueação, que é volume interno, não peso.
+Com entrada d'água ou adernamento, pare: há risco de afundar e a medição não
+vale. Nunca use este cálculo para exceder o limite do fabricante.
+
+SE NAO TIVER
+------------
+Sem tabela hidrostática, aceite a aproximação do retângulo reduzido.
+Sem fita, use corda com nós de 1 metro conferidos antes em trena ou régua.
+Sem como medir nada, escreva "desconhecido"; não chute um número.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Quando há balança, o volume calculado fica dentro de 30 por cento da massa
+pesada. A medição repetida na mesma condição devolve número próximo.
+
+FONTES
+------
+Princípio de Arquimedes ou da flutuação, de Arquimedes de Siracusa.
+Principles of Naval Architecture (SNAME) e Reeds Marine Engineering,
+capítulo de Hidrostática; apostila do Marine Institute (Memorial).

@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 39-001
+TITULO: Como observar e usar os fundamentos da óptica
+CATEGORIA: 39 - Óptica e instrumentos científicos
+TEMPO: 40 minutos
+RISCO: baixo
+EXIGE: luz do sol, espelho, lente de aumento, recipiente com água
+REVISAO: 2026-11
+PALAVRAS-CHAVE: luz, óptica, reflexão, refração, lente, espelho, foco
+==============================================================================
+
+OBJETIVO
+---------
+Observar como a luz se comporta e usar isso para enxergar e sinalizar,
+concentrar calor.
+
+QUANDO USAR
+-----------
+Quando um objeto parece quebrado dentro d'água ou ao usar espelho.
+Quando for juntar luz do sol com lente para achar o ponto de fogo.
+
+NAO USE QUANDO
+--------------
+Não faça os testes olhando direto para o sol ou para o reflexo: a luz
+concentrada queima a retina sem causar dor na hora.
+
+MATERIAIS
+---------
+- Luz do sol forte ou uma lanterna.
+- Espelho pequeno (ou papel-alumínio liso e sem amassados).
+- Lente de aumento (ou gota d'água, ou fundo de garrafa transparente).
+- Recipiente transparente com água; papel branco, escuro, e um palito.
+
+PROCEDIMENTO
+------------
+1. Coloque o palito em pé sobre o papel branco, sob a luz do sol.
+2. Aproxime a luz: a sombra cresce; afaste: a sombra encolhe.
+3. Aponte a luz ao espelho e incline até o feixe acertar o papel.
+4. Mergulhe o palito na água e olhe de lado pela lateral do recipiente.
+5. Observe o palito partir na superfície: é a refração da luz.
+6. Mire um objeto no fundo da água e tente tocá-lo: mire mais fundo.
+7. Segure a lente entre o sol e o papel escuro, começando bem perto.
+8. Afaste o papel até a mancha ficar pequena; esse ponto é o foco.
+
+ATENCAO
+-------
+Nunca olhe direto para o sol pela lente ou espelho: a luz concentrada
+queima a retina sem dor imediata; pare se os olhos arderem.
+A lente concentra calor: não deixe o foco em material inflamável.
+A água desvia a luz: seu índice de refração é aproximadamente 1,33,
+maior que o do ar; por isso o palito parece quebrado na superfície.
+No ar a luz anda reta; no espelho o ângulo de chegada é o de saída.
+Se a visão manchar após olhar o sol, procure ajuda médica.
+
+SE NAO TIVER
+------------
+Sem lente, prenda uma gota d'água num arame ou use garrafa cheia d'água.
+Sem espelho, estique papel-alumínio: amassados espalham o feixe.
+Sem sol, faça os testes com uma lanterna forte em lugar escuro.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A sombra muda de tamanho ao mover a luz, e o palito parece quebrado.
+A lente forma uma mancha pequena e quente no papel no ponto de foco.
+
+FONTES
+------
+Óptica geométrica: reflexão, lei de Snell e refração são princípios
+consolidados em manuais como Optics, de Hecht, e tabelas do NIST.

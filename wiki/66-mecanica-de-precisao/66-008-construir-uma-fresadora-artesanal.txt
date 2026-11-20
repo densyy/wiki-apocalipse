@@ -1,0 +1,90 @@
+==============================================================================
+CODIGO: 66-008
+TITULO: Como construir uma fresadora artesanal
+CATEGORIA: 66 - Mecânica de precisão e instrumentos
+TEMPO: 6 horas
+RISCO: alto
+EXIGE: furadeira de bancada, base rígida, fresas, óculos de proteção
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fresadora, usinagem, fresa, furadeira, bancada, metal
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma máquina de bancada que usa fresa giratória para desbastar e dar
+forma a peças metálicas pequenas.
+
+QUANDO USAR
+-----------
+Quando é preciso plainar uma peça metálica sem máquina industrial.
+Quando é preciso abrir um rasgo, uma canaleta ou um assento em uma peça.
+Quando se precisa de uma superfície plana em peça pequena.
+Quando há furadeira de bancada aproveitável e tempo para montar a bancada.
+
+NAO USE QUANDO
+--------------
+Quando não houver óculos de proteção e modo firme de prender a peça.
+Quando a peça for grande ou pesada demais para a bancada improvisada.
+Quando a fresa estiver gasta, rachada, sem afiação ou com defeito.
+Quando não houver prática e ninguém experiente puder supervisionar.
+
+MATERIAIS
+---------
+- Furadeira de bancada com eixo firme, ou motor com eixo para girar a fresa.
+- Base plana, pesada e rígida: chapa de aço ou madeira dura espessa.
+- Coluna ou suporte rígido para fixar a furadeira sobre a base.
+- Mesa com dois eixos de deslocamento para prender e mover a peça.
+- Fresas íntegras e afiadas, de aço rápido ou de metal duro.
+- Grampos, torno de bancada ou braçadeiras para prender a peça.
+- Óculos de proteção e, se houver, protetor facial.
+- Interruptor de ligação fácil de alcançar sem encostar na fresa.
+- Capa improvisada de metal ou plástico resistente sobre a fresa.
+
+PROCEDIMENTO
+------------
+1. Fixe a furadeira de bancada na coluna com parafusos e porcas apertados.
+2. Monte a coluna sobre a base com o eixo da fresa na posição vertical.
+3. Teste a folga do eixo: segure a fresa e tente movê-la para os lados.
+4. Se houver folga, aperte os mancais ou troque o rolamento antes de usar.
+5. Instale a mesa móvel sobre a base, alinhada sob o eixo da fresa.
+6. Prenda a peça na mesa com grampo ou torno, com a área de corte livre.
+7. Ajuste a altura da mesa para a fresa encostar de leve na peça.
+8. Coloque os óculos e ajuste a capa de proteção sobre a fresa.
+9. Ligue e confirme rotação estável, sem trepidação nem ruído anormal.
+10. Avance a peça contra o sentido de rotação da fresa, devagar e sem força.
+11. Desligue e espere a fresa parar antes de medir ou soltar a peça.
+
+ATENCAO
+-------
+A fresa gira em alta velocidade e causa corte profundo em segundos.
+A apara de metal voa com violência: use óculos sempre, mesmo só olhando.
+Nunca use luvas, mangas largas, cabelo solto ou anéis perto do eixo.
+Prenda a peça com firmeza: peça solta é arremessada pela fresa.
+Não force o avanço: fresa presa ou quebrada vira projétil.
+Nunca toque na fresa em movimento nem tente freá-la com a mão.
+Desligue e espere parar por completo antes de qualquer ajuste.
+Sem proteção e sem prática, não opere: procure oficina ou instrução.
+
+SE NAO TIVER
+------------
+Sem furadeira de bancada, não segure furadeira manual na mão para fresar:
+o esforço lateral pode travar a broca e ferir a mão.
+Sem mesa móvel, use base fixa só para cortes retos curtos, reposicionando
+a peça sempre com a máquina desligada.
+Sem óculos, não opere: não existe substituto caseiro seguro.
+Sem fresa, não use broca comum no lugar: ela não corta de lado e quebra.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A fresa gira sem trepidação e sem ruído de atrito metálico anormal.
+A peça sai com superfície plana, sem marcas de vibração e sem rebarbas.
+As aparas saem curtas e uniformes, não em fita longa e quente.
+A peça não esquentou a ponto de queimar e não saiu do grampo.
+
+FONTES
+------
+Prática consolidada de usinagem e construção de máquinas-ferramenta de
+bancada, sem documento único. Segurança: norma brasileira NR-12, de
+segurança em máquinas e equipamentos, e orientações gerais de fabricantes
+de máquinas-ferramenta sobre proteções, óculos e fixação da peça.
+Este texto é resumo operacional e não substitui treinamento.

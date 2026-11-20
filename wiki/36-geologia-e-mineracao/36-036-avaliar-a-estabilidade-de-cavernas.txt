@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 36-036
+TITULO: Como avaliar a estabilidade de cavernas
+CATEGORIA: 36 - Geologia, mineração e recursos naturais
+TEMPO: 40 minutos
+RISCO: critico
+EXIGE: capacete, duas lanternas, caderno, lápis, fita métrica, companhia
+REVISAO: 2026-11
+PALAVRAS-CHAVE: caverna, gruta, desabamento, teto, rocha, rachadura, carste
+==============================================================================
+
+OBJETIVO
+--------
+Decidir, por sinais observaveis, se uma caverna e segura.
+Registre a decisao de entrar, adiar ou evitar a entrada.
+
+QUANDO USAR
+-----------
+Antes de entrar em caverna ou gruta desconhecida.
+Depois de chuva forte, terremoto ou explosao nas proximidades.
+Ao notar pedras caidas, poeira ou rachaduras novas na entrada.
+Antes de usar cavidade como abrigo, esconderijo ou deposito.
+Ao precisar escolher entre duas entradas da mesma caverna.
+
+NAO USE QUANDO
+--------------
+Nunca entre em caverna com cheiro de gas ou enxofre no ar.
+Nao entre se houver previsao de chuva ou agua subindo na entrada.
+Nao entre em cavidade que desabou ha pouco tempo.
+Este metodo so classifica sinais visiveis; nao garante que o teto aguente.
+
+MATERIAIS
+---------
+- Capacete de espeleologia ou de construcao (de bicicleta protege pouco).
+- Duas fontes de luz independentes, com pilhas reserva.
+- Caderno e lapis para anotar data, hora e medidas.
+- Fita metrica ou corda com nos a cada 10 centimetros.
+- Companhia: nunca avalie caverna sozinho.
+- Calcas, camisa de manga longa e botas com tornozelo firme.
+
+PROCEDIMENTO
+------------
+1. Pare a distancia segura da entrada e nao pise na borda.
+2. Observe o terreno acima: rachaduras e arvores inclinadas.
+3. Veja se ha blocos de rocha soltos ou recem-caidos perto da boca.
+4. Observe se a entrada tem lama fresca, poeira ou marcas de agua recente.
+5. Sinta o ar: corrente forte, calor ou cheiro estranho sao alerta.
+6. Anote no caderno a data, a hora e o tempo desde a ultima chuva.
+7. Se choveu nas ultimas 24 horas, adie a entrada para outro dia.
+8. Peça a um companheiro que fique olhando a entrada de fora.
+9. Coloque o capacete e acenda uma lanterna antes de se aproximar.
+10. Olhe o teto da primeira galeria com a luz de lado, rente a parede.
+11. Procure fissuras na abobada, especialmente onde a luz faz sombra.
+12. Meça a abertura de cada fissura com a fita e anote o valor.
+13. Marque a ponta da fissura com lapis ou massa de modelar.
+14. Observe se pedras pequenas caem do teto durante a observacao.
+15. Ouça por alguns segundos: estalos indicam movimento de rocha.
+16. Verifique se ha estalactites quebradas no chao, com ponta fresca.
+17. Se houver duas ou mais desses sinais, saia e desista da entrada.
+18. Caminhe de volta sem correr e sem tocar em blocos soltos.
+19. Repita a medicao das fissuras apos algumas horas, no mesmo ponto.
+20. Se alguma marca aumentou, a caverna esta ativa: nao entre mais.
+
+ATENCAO
+-------
+Teto de caverna pode cair sem aviso, mesmo depois de parecer firme.
+Bater com pedra no teto pode soltar a placa que se quer testar.
+Fratura escondida e comum em carste, mesmo sem sinais visiveis.
+Chuva enche passagens rapidamente e pode fechar a saida em minutos.
+Nunca entre sozinho, mesmo para dar apenas uma olhada na entrada.
+Nao use fogo dentro: falta de oxigenio e gas matam sem aviso.
+Nao retire pedras de apoio nem escave a base de colunas de rocha.
+Se ouvir estalo ou ver poeira caindo, saia imediatamente.
+Se alguem ficar preso, chame socorro sem tentar resgate sozinho.
+Nao tente resgate sem equipe treinada: mantenha a saida livre.
+Esta avaliacao nao substitui mapa, treinamento ou permissao local.
+
+SE NAO TIVER
+------------
+Sem fita metrica, use a largura do dedo e registre por escrito.
+Sem capacete, nao entre: pegue um emprestado ou adie a visita.
+Sem companhia, limite-se a observar a entrada de fora, a varios passos.
+Sem lanterna reserva, nao avance mais que alguns passos para dentro.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O caderno traz data, hora, medidas das fissuras e a decisao tomada.
+As marcas nas fissuras continuam do mesmo tamanho apos algumas horas.
+Nao houve queda de pedras, estalo ou poeira durante a observacao.
+Todos os participantes voltaram ao ponto externo sem incidente.
+
+FONTES
+------
+Pratica consolidada de espeleologia e geologia de carste:
+observacao de sinais de instabilidade e regras basicas de seguranca.
+Instituicoes de referencia: National Speleological Society,
+British Cave Rescue Council, National Cave Rescue Commission
+e Union Internationale de Spéléologie.
+Texto operacional resumido; nao substitui treinamento ou mapa local.

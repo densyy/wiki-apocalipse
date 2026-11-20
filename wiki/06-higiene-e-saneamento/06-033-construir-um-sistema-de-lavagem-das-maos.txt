@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 06-033
+TITULO: Como construir um sistema de lavagem das mãos
+CATEGORIA: 06 - Higiene, saneamento e resíduos
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: garrafa plastica de 5 L, sabao, agua limpa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: maos, higiene, tippy tap, sabao, pia, diarreia
+==============================================================================
+
+OBJETIVO
+--------
+Montar um ponto fixo que solta agua corrente com sabao para lavar as maos.
+
+QUANDO USAR
+-----------
+Quando nao ha pia nem torneira funcionando no local.
+Quando ha abrigo, acampamento ou cozinha coletiva improvisada.
+Depois de usar latrina, antes de cozinhar e antes de comer.
+
+NAO USE QUANDO
+--------------
+Quando a unica agua disponivel esta visivelmente suja ou com esgoto.
+Quando a agua tem espuma quimica, cheiro de combustivel ou de tinta.
+
+MATERIAIS
+---------
+- Garrafa plastica de 5 L com tampa (galao ou bombona com torneira).
+- Corda, barbante ou arame fino de aproximadamente 2 m.
+- Sabao em barra ou liquido com suporte furado para pendurar.
+- Prego aquecido, cano fino ou faca para furar a garrafa.
+- Bacia, balde velho ou buraco com pedra para aparar a agua suja.
+
+PROCEDIMENTO
+------------
+1. Lave a garrafa por dentro com agua limpa antes de montar.
+2. Faca um furo de aproximadamente 3 mm perto da tampa da garrafa.
+3. Encha a garrafa com agua limpa e feche bem a tampa.
+4. Pendure a garrafa pelo gargalo em galho firme a 1 m do chao.
+5. Pendure o sabao com corda curta ao lado da garrafa.
+6. Coloque a bacia embaixo para aparar a agua usada.
+7. Incline a garrafa ate sair um fio continuo de agua.
+8. Molhe as maos sem encostar na garrafa e passe o sabao.
+9. Esfregue palmas, dedos e unhas por aproximadamente 20 segundos.
+10. Enxague no fio de agua e jogue a sobra longe de poco e cozinha.
+
+ATENCAO
+-------
+Agua suja na garrafa espalha diarreia em vez de proteger.
+Este ponto nao desinfeta ferida nem torna agua suja potavel.
+Troque a agua todo dia e lave a garrafa a cada recarga.
+Pare e procure ajuda se houver diarreia com sangue ou febre alta.
+
+SE NAO TIVER
+------------
+Sem garrafa grande, use duas garrafas de 2 L amarradas juntas.
+Sem sabao, lave so com agua corrente e busque sabao sem demora.
+Sem corda, amarre com tira de pano ou sacola plastica trancada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Sai um fio de agua que molha as duas maos sem encostar na garrafa.
+A agua usada cai na bacia e nao empoca no chao ao redor.
+
+FONTES
+------
+Orientacoes de higiene das maos da OMS e do CDC com agua e sabao.
+Manual de saneamento da Funasa sobre higiene e prevencao de diarreia.

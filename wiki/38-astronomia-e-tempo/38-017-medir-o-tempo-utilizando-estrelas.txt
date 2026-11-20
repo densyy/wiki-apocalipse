@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 38-017
+TITULO: Como medir o tempo utilizando estrelas
+CATEGORIA: 38 - Astronomia e medição do tempo
+TEMPO: 20 minutos
+RISCO: baixo
+EXIGE: céu limpo, norte visível, caderno, lápis, estaca ou pedra
+REVISAO: 2026-11
+PALAVRAS-CHAVE: estrelas, tempo, hora, noite, ursa maior, polaris, relógio
+==============================================================================
+
+OBJETIVO
+--------
+Estimar o tempo decorrido e a hora aproximada pelo giro das estrelas.
+
+QUANDO USAR
+-----------
+Quando o relógio parou e não há energia.
+Quando se quer saber quanto durou uma caminhada noturna.
+
+NAO USE QUANDO
+--------------
+Quando houver relógio funcionando, rádio ou fonte de hora confiável.
+Quando o céu estiver nublado ou o norte estiver bloqueado.
+
+MATERIAIS
+---------
+- Céu limpo e escuro, sem lua forte.
+- Visão desobstruída da direção norte.
+- Caderno e lápis (estaca, pedra ou nó no barbante).
+
+PROCEDIMENTO
+------------
+1. Localize a Ursa Maior: sete estrelas em forma de concha.
+2. Ligue as duas estrelas da borda da concha, Dubhe e Merak.
+3. Estenda essa linha aproximadamente 5 vezes a distância entre elas.
+4. A estrela brilhante nesse ponto é a Estrela Polar.
+5. Escolha uma estrela brilhante perto da Polaris, mas não a Polaris.
+6. Alinhe uma estaca, pedra ou marca do caderno com essa estrela.
+7. Anote a posição da estrela em relação à marca fixa.
+8. Espere o intervalo que deseja medir.
+9. Observe de novo a estrela em relação à mesma marca.
+10. Estime o ângulo; o punho fechado cobre aproximadamente 10 graus.
+11. Divida o ângulo por 15: cada 15 graus valem 1 hora.
+12. Some o intervalo a uma hora de referência conhecida, se houver.
+
+ATENCAO
+-------
+A Estrela Polar indica o norte, mas não marca a hora.
+A medição com o punho é aproximada: o erro pode passar de meia hora.
+Uma volta leva aproximadamente 23 horas e 56 minutos, não 24 exatas.
+No hemisfério sul não há estrela polar. Nuvens e lua atrapalham.
+Não use a estimativa para remédios, dosagens ou prazos críticos.
+
+SE NAO TIVER
+------------
+Sem a Ursa Maior, use outra estrela brilhante e uma marca no solo.
+Sem caderno, use estaca, pedra ou nó no barbante como referência.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A estrela mudou de posição em relação à marca fixa.
+Duas estrelas deram intervalos parecidos, com pequena diferença.
+
+FONTES
+------
+Navegação celeste: Encyclopaedia Britannica, verbete celestial
+navigation, que cita o Almanaque Náutico do Observatório Naval
+dos Estados Unidos. Astronomia básica: prática consolidada.

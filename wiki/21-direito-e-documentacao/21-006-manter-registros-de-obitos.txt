@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 21-006
+TITULO: Como manter registros de óbitos
+CATEGORIA: 21 - Direito, documentação e organização civil
+TEMPO: 25 minutos
+RISCO: baixo
+EXIGE: caderno, caneta, envelope seco, relógio
+REVISAO: 2026-11
+PALAVRAS-CHAVE: óbito, morte, registro, certidão, cartório, declarante
+==============================================================================
+
+OBJETIVO
+--------
+Reunir os dados da morte em papel e guardá-los até o registro no cartório.
+
+QUANDO USAR
+-----------
+Quando o cartório estiver fechado ou sem expediente.
+Quando não houver médico no lugar para emitir atestado.
+Quando a morte ocorrer longe do cartório ou durante deslocamento.
+
+NAO USE QUANDO
+--------------
+Este papel não substitui a certidão emitida pelo cartório.
+Não dispensa comunicação à polícia em morte violenta ou suspeita.
+
+MATERIAIS
+---------
+- Caderno de folhas presas ou pasta de papel.
+- Caneta à prova d'água (lápis, se não houver caneta).
+- Segunda folha ou papel carbono para uma cópia.
+- Envelope ou saco plástico vedado para guardar as folhas.
+
+PROCEDIMENTO
+------------
+1. Anote o dia, o mês, o ano e a hora do falecimento.
+2. Escreva "hora aproximada" se a hora for duvidosa.
+3. Anote o lugar exato: rua, número, cidade e estado.
+4. Escreva nome completo, sexo, idade, naturalidade e profissão.
+5. Copie um número de documento: CPF, RG ou certidão de nascimento.
+6. Anote cônjuge, pais e filhos, com a idade de cada filho.
+7. Escreva "morte natural" ou "morte violenta" e quem atestou.
+8. Anote a causa apenas com atestado médico ou testemunha presencial.
+9. Escreva "causa não apurada" se ninguém puder atestar.
+10. Anote o local do sepultamento e quem o realizou.
+11. Peça a outra pessoa que leia e assine como testemunha.
+12. Assine como declarante e guarde uma via no envelope.
+13. Leve a outra via ao cartório e peça a primeira certidão.
+
+ATENCAO
+-------
+Papel não tem fé pública. Registro incompleto atrasa inventário.
+Em morte violenta ou corpo encontrado, chame a polícia e não mova o corpo.
+Não invente a causa. Escreva "causa não apurada" e o que foi visto.
+
+SE NAO TIVER
+------------
+Sem caneta, use lápis e passe a tinta quando surgir material.
+Sem testemunha, anote quem viu e diga que não pode assinar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As folhas trazem data, lugar, identificação, causa e assinaturas legíveis.
+Uma via ficou guardada e a outra foi entregue ao cartório.
+
+FONTES
+------
+Lei 6.015, de 1973, artigos 30 e 77 a 83, da Presidencia da Republica.
+OMS, registro civil e estatisticas vitais, 2024.
+CDC, Sistema Nacional de Estatisticas Vitais dos Estados Unidos.

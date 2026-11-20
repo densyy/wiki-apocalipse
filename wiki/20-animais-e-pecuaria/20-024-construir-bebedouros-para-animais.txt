@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 20-024
+TITULO: Como construir bebedouros para animais
+CATEGORIA: 20 - Animais domésticos e pecuária
+TEMPO: 120 minutos
+RISCO: alto
+EXIGE: tanque ou balde, base firme, água limpa, escova, material de limpeza
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bebedouro, água, animal, tanque, limpeza, afogamento, beber
+==============================================================================
+
+OBJETIVO
+---------
+Montar um bebedouro firme, limpo e seguro para dar água aos animais.
+
+QUANDO USAR
+-----------
+Quando os animais bebem de lagoa, riacho ou balde sem controle.
+Quando o rebanho não tem acesso diário a água limpa.
+Quando os animais bebem pouco mesmo com água disponível.
+Quando filhotes ou animais pequenos correm risco de cair na água.
+Em seca ou calor, quando a fonte natural seca ou esquenta.
+
+NAO USE QUANDO
+--------------
+Quando a água tiver suspeita de combustível, agrotóxico, nitrato, metal
+ou sal. Limpar o tanque não a torna segura. Veja 01-001 como leitura
+extra. Quando não houver como manter a limpeza: bebedouro sujo é pior
+que água corrente.
+
+MATERIAIS
+---------
+- Tanque, balde ou caixa sem resíduo de tinta, óleo ou agrotóxico.
+- Base firme de concreto ou cascalho áspero (terra batida e drenada).
+- Rampa de escape: tábua rugosa ou pedra áspera (lona áspera presa).
+- Pedra ou tijolo para elevar e nivelar o tanque.
+- Escova, pano e água limpa para a limpeza.
+- Água sanitária comum, sem perfume e sem gel, com 5 a 6% de cloro ativo.
+- Sombra ou cobertura (toldo, tela ou árvore).
+
+PROCEDIMENTO
+------------
+1. Escolha solo firme e drenado, a aproximadamente 45 m de cochos de ração.
+2. Limpe a área e retire pedras, folhas e restos que possam cair na água.
+3. Faça uma base firme e nivelada, mais larga que o tanque.
+4. Assente o tanque sobre a base e nivele com pedra ou tijolo.
+5. Ajuste a borda na altura do peito do animal que vai beber.
+6. Confira que caibam só as patas dianteiras, sem espaço para o animal
+   se virar de costas para o bebedouro.
+7. Fixe uma rampa áspera dentro do tanque, da borda ao fundo.
+8. Dê à rampa declividade de no máximo 45 graus e superfície rugosa.
+9. Se houver filhotes, cordeiros ou cabritos, acrescente rampa rasa ou
+   segundo bebedouro mais baixo.
+10. Se houver abastecimento, instale válvula boia para manter o nível.
+11. Proteja a válvula e os cantos para o animal não machucar ou quebrar.
+12. Coloque sombra sobre o tanque, sem folhas que caiam dentro dele.
+13. Encha com água limpa, sem cor, odor ou algas na superfície.
+14. Esvazie, remova detritos e escove o tanque antes de encher de novo.
+15. Desinfete com 1 parte de água sanitária 5 a 6% para 9 partes de água.
+16. Deixe a solução agir por 15 minutos em todas as paredes do tanque.
+17. Enxágue duas vezes com água limpa e só então encha o tanque.
+
+ATENCAO
+-------
+O bebedouro não limpa a água: nitrato, agrotóxico, sal, metal e algas
+tóxicas não saem com escovação. Descubra a origem da água antes de usar.
+Filhotes, cordeiros, cabritos e animais pequenos afogam em tanque fundo
+sem rampa. A rampa também salva aves e animais silvestres que caem.
+Piso liso causa queda e lesão. Use concreto ou cascalho áspero, nunca
+terra mole, que afunda e faz o tanque entornar.
+Não use água sanitária concentrada, em gel ou perfumada. Excesso de
+cloro faz o animal parar de beber e pode intoxicá-lo.
+Nunca desinfete com animal bebendo: esvazie, enxágue duas vezes e só
+depois encha. Tanque que vira prende ou afoga o animal; fixe a base.
+Água parada sem reposição aquece, cria algas e concentra contaminantes.
+Se não puder limpar, esvazie o tanque quando não estiver em uso.
+
+SE NAO TIVER
+------------
+Sem concreto, use cascalho ou pedra assentada como piso firme e áspero.
+Sem rampa pronta, prenda tábua rugosa ou pedra áspera da borda ao fundo.
+Sem isso, use balde mais raso e esvazie quando não estiver em uso.
+Sem água sanitária, escove bem e troque a água com mais frequência.
+Não use outro químico sem orientação: pode intoxicar os animais.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O tanque está nivelado, firme e não balança quando o animal encosta.
+A água está clara, sem odor e sem algas cobrindo a superfície.
+Os animais bebem sem hesitar, não caem e a rampa está presa e áspera.
+
+FONTES
+------
+Embrapa, Água na pecuária: requerimento animal e gerenciamento das fontes.
+USDA Natural Resources Conservation Service, norma 614 de instalações de
+abastecimento (rampa de escape, válvula boia, proteção de válvulas).
+University of Georgia Cooperative Extension, Circular 1264 (limpeza e
+desinfecção de bebedouros, distância do cocho e sombra).
+FAO, manual Water for animals (acesso livre e contínuo à água limpa).

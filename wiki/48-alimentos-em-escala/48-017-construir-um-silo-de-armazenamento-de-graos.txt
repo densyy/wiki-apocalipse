@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 48-017
+TITULO: Como construir um silo de armazenamento de grãos
+CATEGORIA: 48 - Produção de alimentos em escala comunitária
+TEMPO: 3 dias
+RISCO: alto
+EXIGE: grãos secos, terreno firme, vedação, ajuda de outras pessoas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: silo, grãos, armazenar, secar, umidade, mofo, ratos, aeração
+==============================================================================
+
+OBJETIVO
+--------
+Construir e operar um silo que mantenha os grãos secos, limpos e protegidos.
+
+QUANDO USAR
+-----------
+Quando o grupo colhe mais grãos do que consegue consumir na hora.
+Quando é preciso guardar alimento ou semente para a entressafra.
+Quando se quer uma reserva para seca, enchente ou crise.
+Quando os grãos precisam ficar fora do alcance de chuva, ratos e insetos.
+
+NAO USE QUANDO
+--------------
+Quando os grãos estiverem úmidos ou recém-colhidos e sem secagem.
+Quando o terreno alagar, ficar encharcado ou não tiver base firme.
+Quando não for possível vedar a entrada de água e de animais.
+Quando não houver pessoas para ajudar a erguer e fixar a estrutura.
+
+MATERIAIS
+---------
+- Terreno alto e firme, ou base de tijolos para erguer o silo.
+- Chapas de aço, tambores metálicos ou barris de plástico de uso alimentar.
+- Tijolos ou blocos para fazer a base elevada.
+- Lona plástica ou chapa lisa para forrar o interior.
+- Tela metálica fina para cobrir as aberturas (ou pano resistente).
+- Pregos, parafusos ou arame para prender chapas e tampa.
+- Peneira e pano limpo para limpar os grãos.
+- Medidor de umidade ou termômetro, se houver.
+- Escada firme e ajuda de pelo menos duas pessoas.
+
+PROCEDIMENTO
+------------
+1. Escolha o ponto mais alto e seco do terreno, longe de esterco e plantas.
+2. Demarque uma área plana maior que a base do silo em toda a volta.
+3. Retire pedras, grama e material orgânico da área demarcada.
+4. Levante uma base de tijolos com aproximadamente 30 cm de altura.
+5. Nivele a base e deixe espaços entre os tijolos para a água escorrer.
+6. Monte as paredes com chapas ou tambores limpos, sem ferrugem nem tinta.
+7. Prenda as chapas ou tambores à base com pregos, parafusos ou arame.
+8. Forre o interior com lona ou chapa limpa, sem emendas que soltem.
+9. Deixe uma saída baixa de descarga, fechada por uma tampa firme.
+10. Instale uma cobertura que escoe a chuva para fora do silo.
+11. Cubra as aberturas de ventilação com tela metálica fina.
+12. Confira se não há frestas por onde entrem água, luz, ratos ou insetos.
+13. Peneire os grãos para tirar pó, pedras e grãos quebrados.
+14. Meça a umidade e guarde só grãos com aproximadamente 13% ou menos.
+15. Separe grãos com cheiro de mofo, manchas escuras ou que estejam quentes.
+16. Encha em camadas de aproximadamente 20 cm, acomodando cada camada.
+17. Feche a tampa e a descarga logo após terminar o enchimento.
+18. Inspecione a cada mês: cheiro, cor, umidade e presença de insetos.
+19. Retire os grãos com calor ou cheiro estranho.
+20. Seque esses grãos de novo antes de guardar.
+21. Mantenha a área em volta limpa, sem grãos derramados que atraiam ratos.
+
+ATENCAO
+-------
+Grãos úmidos apodrecem, esquentam e podem criar fungos com toxinas.
+Aflatoxinas são venenos produzidos por fungos e resistem à cocção.
+Grãos mofados não servem para consumo nem para ração: descarte.
+Nunca entre em silo com grãos: o grão pode desmoronar e sufocar a pessoa.
+Poeira de grãos pode explodir com fogo ou faísca; não fume perto do silo.
+Base fraca ou mal presa pode ceder e ferir quem estiver por perto.
+Use escada firme e nunca trabalhe sozinho.
+Quedas de altura causam lesões graves.
+Com cheiro de mofo ou calor, pare e busque assistência técnica.
+
+SE NAO TIVER
+------------
+Sem chapas de aço, use tambores metálicos ou barris de plástico limpos.
+Sem tijolos, apoie o silo sobre madeira tratada e deixe espaço para drenar.
+Sem tela metálica, use pano resistente, mas troque-o quando rasgar.
+Sem medidor de umidade, seque uma amostra ao sol.
+Pese a amostra antes e depois: o peso deve cair e estabilizar.
+Se os grãos não secarem, guarde pouco e consuma primeiro.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A base está nivelada, o silo não balança e a chuva escoa para fora.
+A tampa e as telas fecham bem, sem frestas visíveis nem luz entrando.
+Os grãos estão secos, soltos, com cheiro e cor normais.
+Depois de um mês, não há grãos quentes, mofados, em pó ou com insetos vivos.
+
+FONTES
+------
+Manual da FAO "Towards integrated commodity and pest management in grain
+storage" (1992), seções sobre armazenagem segura, aeração e perdas.
+Prática consolidada de armazenagem comunitária de grãos em áreas rurais.
+Este texto é um resumo operacional e não substitui assistência técnica.

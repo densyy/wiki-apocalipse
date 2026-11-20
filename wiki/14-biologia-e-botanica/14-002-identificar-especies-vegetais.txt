@@ -1,0 +1,88 @@
+==============================================================================
+CODIGO: 14-002
+TITULO: Como identificar espécies vegetais
+CATEGORIA: 14 - Biologia, botânica e zoologia
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: caderno, lupa, amostra da planta, guia botânico da região
+REVISAO: 2026-11
+PALAVRAS-CHAVE: planta, espécie, folha, flor, nome popular, venenosa
+==============================================================================
+
+OBJETIVO
+--------
+Chegar ao nome provável de uma planta e registrar o que o sustenta.
+
+QUANDO USAR
+-----------
+Quando encontrar uma planta desconhecida e precisar decidir o que fazer.
+Quando duas plantas parecidas precisam ser distinguidas antes do uso.
+Quando o único dado disponível é o nome popular usado na região.
+Quando a planta precisa ser mostrada depois a quem entende do assunto.
+
+NAO USE QUANDO
+--------------
+Não use para decidir se a planta é comestível. Este método não prova isso.
+Não use se a planta estiver murcha, quebrada ou sem folhas, flor e fruto.
+Não use quando houver suspeita de espécie tóxica e ninguém puder confirmar.
+
+MATERIAIS
+---------
+- Caderno e lápis.
+- Lupa de bolso (ou lente de aumento do celular).
+- Faca ou tesoura limpa (ou as mãos, se a planta for pequena).
+- Jornal ou saco de papel (ou saco plástico, por pouco tempo).
+- Guia botânico da região (ou chave de identificação impressa).
+- Amostra com folha, caule e, se houver, flor ou fruto.
+
+PROCEDIMENTO
+------------
+1. Pare antes de tocar na planta e observe onde ela cresce.
+2. Anote o local, a data e o nome popular usado na região.
+3. Observe como as folhas se distribuem no ramo: alternadas ou opostas.
+4. Verifique se a folha é simples ou composta. Procure a gema na base.
+5. Observe borda, ponta, base, pelos, espinhos e textura da folha.
+6. Observe o caule: cor, pelos, espinhos, textura e se é mole ou duro.
+7. Se houver flor ou fruto, anote cor, forma e cheiro. Não prove.
+8. Fotografe a planta inteira, a folha por cima, por baixo e o caule.
+9. Colete uma amostra pequena com folha e caule. Use faca limpa.
+10. Siga a chave do guia da região. Responda uma pergunta por vez.
+11. Escreva o nome encontrado e as características que bateram.
+12. Anote o que não bateu e o que ficou sem explicação.
+13. Se sobrar dúvida, escreva "não identificado" e procure um herbário.
+
+ATENCAO
+-------
+Nome popular engana: a mesma planta muda de nome entre regiões e um nome
+pode designar plantas diferentes. Não use o nome popular como prova.
+Não há regra caseira, teste de sabor, cheiro ou cozimento que prove que
+uma planta é comestível. O cozimento nem sempre elimina a toxicidade.
+Plantas venenosas podem parecer comestíveis. Na dúvida, não coma,
+não chupe, não faça chá e não esfregue a planta na pele.
+Sem flor ou fruto a identificação é provisória. Pragas, seca e idade
+mudam a aparência. Aplicativos erram: nunca sejam a fonte única.
+Se houver salivação, queimação na boca, vômito ou tontura após contato,
+pare e procure atendimento médico. Leve a amostra e o nome anotado.
+
+SE NAO TIVER
+------------
+Sem lupa, use a lente do celular e muita luz.
+Sem guia impresso, peça a lista de espécies em herbário ou universidade.
+Sem flor ou fruto, escreva "sem estrutura reprodutiva" no caderno.
+Sem papel, envolva a amostra em jornal e leve no mesmo dia.
+Sem ninguém para confirmar, não use a planta para comer, beber ou remediar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A amostra tem folha e caule, e o caderno diz se havia flor ou fruto.
+O registro traz local, data, nome popular e cada característica observada.
+O nome escrito veio de guia ou chave confiável, não de palpite.
+Se faltou alguma conferência, o caderno diz "não identificado".
+
+FONTES
+------
+Guia prático de coleta de material botânico, do Instituto Nacional da Mata
+Atlântica e do ICMBio. Cartaz Plantas Tóxicas, da Vigilância Sanitária do
+Ministério da Saúde. Noções Morfológicas e Taxonômicas para Identificação
+Botânica, da Embrapa. Chaves de identificação e Flora e Funga do Brasil,
+do Jardim Botânico do Rio de Janeiro. Apoio técnico: Mata Nativa (2023).

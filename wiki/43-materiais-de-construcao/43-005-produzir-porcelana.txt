@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 43-005
+TITULO: Como produzir porcelana
+CATEGORIA: 43 - Produção de materiais de construção
+TEMPO: 120 minutos
+RISCO: alto
+EXIGE: caulim, feldspato, quartzo, água, forno de alta temperatura, máscara
+REVISAO: 2026-11
+PALAVRAS-CHAVE: porcelana, caulim, feldspato, quartzo, louça, cerâmica
+==============================================================================
+
+OBJETIVO
+--------
+Moldar e queimar uma peça de pasta dura com caulim, feldspato e quartzo.
+
+QUANDO USAR
+-----------
+Quando se tem caulim, feldspato e quartzo e um forno de calor intenso.
+Quando é preciso louça branca, dura e resistente ao calor para uso diário.
+
+NAO USE QUANDO
+--------------
+Quando não houver forno que atinja temperatura muito alta: o resultado
+será cerâmica comum, não porcelana.
+Quando não houver caulim: sem esse mineral não se faz porcelana verdadeira.
+Quando a peça for guardar alimento e o esmalte contiver chumbo.
+
+MATERIAIS
+---------
+- Caulim (argila branca de alta temperatura) seco e limpo.
+- Feldspato (rocha fundente) moído.
+- Quartzo ou areia de sílica moído.
+- Água limpa.
+- Forno de alvenaria refratária que atinja calor intenso (não forno de
+  cozinha nem fogueira aberta).
+- Tijolos refratários ou barro refratário para forrar o forno.
+- Máscara contra poeira, luvas grossas e óculos de proteção.
+- Pano, esponja e mesa limpa para moldar.
+
+PROCEDIMENTO
+------------
+1. Separe o caulim, o feldspato e o quartzo em pilhas distintas.
+2. Moa cada material por separado até virar pó fino.
+3. Umedeça o pó com pano úmido durante a moagem para não levantar poeira.
+4. Coloque a máscara: a poeira de sílica e caulim prejudica os pulmões.
+5. Misture aproximadamente 5 partes de caulim, 2 de feldspato e 2 de
+   quartzo em volume; ajuste a proporção conforme o material.
+6. Acrescente água limpa aos poucos, mexendo até formar massa moldável.
+7. Amasse e soca a massa para retirar as bolhas de ar.
+8. Enrole a massa em pano úmido e deixe descansar 1 dia em lugar fresco.
+9. Modele a peça com as mãos, com paredes de espessura uniforme.
+10. Deixe a peça secar devagar, à sombra e sem corrente de ar, por 3 dias.
+11. Faça a primeira queima, chamada biscuit: aqueça até aproximadamente
+    1000 graus Celsius e mantenha por aproximadamente 1 hora.
+12. Desligue o fogo e deixe a peça esfriar dentro do forno.
+13. Se desejar, cubra a peça com esmalte sem chumbo, por completo.
+14. Faça a segunda queima: aqueça até aproximadamente 1300 graus Celsius
+    e mantenha por aproximadamente 1 hora.
+15. Desligue o fogo e deixe esfriar lentamente, sem abrir a porta do forno.
+
+ATENCAO
+-------
+Forno e peça ficam a centenas de graus: use luvas, mangas longas e
+óculos; nunca toque na peça quente com as mãos nuas.
+Fogo em ambiente fechado produz monóxido de carbono: mantenha o forno
+ao ar livre ou com exaustão e nunca queime dentro de casa.
+Afaste madeira, gasolina e combustíveis do forno: há risco de incêndio.
+A poeira de quartzo e caulim causa doença pulmonar: moa com pano úmido
+e use máscara; não levante pó seco.
+Não use esmalte com chumbo em peça que vai guardar comida ou água: o
+chumbo pode contaminar e intoxicar.
+Com calor insuficiente a peça não vitrifica, isto é, não vira massa
+vítrea; se absorver água, é cerâmica comum, não porcelana.
+A queima não corrige rachadura nem bolha de ar: refaça a modelagem.
+Abra o forno só depois de frio; abrir quente quebra a peça e queima.
+Cada matéria-prima é diferente: as proporções e temperaturas são
+aproximadas e exigem testes e anotações locais.
+
+SE NAO TIVER
+------------
+Sem caulim: não dá para fazer porcelana; use argila branca comum e
+aceite peça porosa, ou procure caulim.
+Sem feldspato: a massa não vitrifica bem; cinza de madeira peneirada
+pode servir de fundente, mas o resultado é incerto e pode escurecer.
+Sem forno de alta temperatura: não insista; faça cerâmica de baixa
+temperatura e chame o resultado pelo nome correto.
+Sem máscara: não moa o quartzo seco; umedeça o pó ou espere outro dia.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A peça ficou branca e soa com som claro quando batida de leve.
+Uma gota de água não é absorvida e permanece na superfície.
+Na borda fina a luz passa: a peça é levemente translúcida.
+O esmalte cobriu toda a peça, sem bolhas, rachaduras ou partes secas.
+
+FONTES
+------
+Prática consolidada de fabricação de porcelana de pasta dura, que usa
+caulim, feldspato e quartzo e queima em alta temperatura. Referência
+geral consultada: Encyclopaedia Britannica, verbete "porcelain".

@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 81-018
+TITULO: Como construir um pirômetro simples
+CATEGORIA: 81 - Engenharia térmica e fornos industriais
+TEMPO: 2 horas
+RISCO: medio
+EXIGE: tubo metálico, lente, sensor de temperatura e isolamento
+REVISAO: 2026-11
+PALAVRAS-CHAVE: pirômetro, temperatura, infravermelho, sensor, forno
+==============================================================================
+
+OBJETIVO
+--------
+Montar um medidor de temperatura sem contato, barato e simples, para
+acompanhar um forno artesanal.
+
+QUANDO USAR
+-----------
+Quando não houver pirômetro comercial disponível.
+Para comparar temperatura entre diferentes pontos do forno.
+Ao acompanhar a queima de cerâmica ou metal em pequena escala.
+Quando a peça não pode ser tocada pelo sensor.
+Em oficinas onde se quer entender o princípio do infravermelho.
+
+NAO USE QUANDO
+--------------
+Não use como instrumento de segurança ou de calibração oficial.
+Não confie nele em temperatura crítica ou em forno industrial.
+Não use perto de fogo direto sem proteção no corpo do aparelho.
+Não aponte para superfície brilhante sem antes escurecer o ponto.
+
+MATERIAIS
+---------
+- Sensor de temperatura infravermelho de baixo custo (módulo MLX).
+- Tubo metálico ou de PVC rígido para o corpo (tubo de cobre).
+- Lente de vidro ou acrílico transparente ao infravermelho (opcional).
+- Fio, conector e fonte de baixa tensão (pilha ou bateria).
+- Display ou microcontrolador para ler o sinal (painel de LED).
+- Isolamento térmico e luvas para a montagem.
+
+PROCEDIMENTO
+------------
+1. Leia a folha de dados do sensor antes de montar.
+2. Confira a faixa de temperatura que o sensor suporta.
+3. Corte o tubo no comprimento desejado para o corpo.
+4. Fixe o sensor em uma extremidade, com a lente voltada para fora.
+5. Isole as laterais do sensor para não receber calor do tubo.
+6. Ligue os fios do sensor ao display ou microcontrolador.
+7. Alimente o conjunto com baixa tensão, nunca com a rede.
+8. Feche a outra extremidade do tubo com vedação.
+9. Aponte o aparelho para uma superfície de referência fria.
+10. Compare a leitura com um termômetro confiável.
+11. Anote a diferença encontrada como erro do aparelho.
+12. Repita a comparação em uma superfície quente conhecida.
+13. Use o valor corrigido nas medições do forno.
+14. Guarde o aparelho longe de umidade e impacto.
+
+ATENCAO
+-------
+Pirômetro artesanal não substitui instrumento calibrado.
+Sensor barato pode errar vários graus e mudar com a temperatura ambiente.
+A lente de acrílico comum bloqueia o infravermelho: confira o material.
+Superfície brilhante reflete e falsifica a leitura: use um ponto fosco.
+Nunca abra o forno com o rosto perto da abertura.
+Fio exposto pode derreter e causar curto: isole bem as emendas.
+Se o valor mudar sem motivo, pare e recalibre antes de decidir.
+
+SE NAO TIVER
+------------
+Sem módulo de infravermelho, monte um termopar com display simples.
+Sem display, use um microcontrolador com leitura no computador.
+Sem lente, deixe o sensor descoberto e proteja-o do contato.
+Sem termômetro de referência, compare com a fusão de metais conhecidos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A leitura repete o mesmo valor em condições iguais.
+O aparelho acompanha a subida de temperatura do forno.
+O erro contra o termômetro de referência foi anotado.
+Nenhum fio ou peça derreteu durante o uso.
+
+FONTES
+------
+Prática consolidada de instrumentação caseira e medição por
+infravermelho, sem documento normativo único. Conceitos correntes de
+radiação térmica, sensores de infravermelho e calibração caseira, como
+apresentados em folhas de dados de fabricantes e cursos de eletrônica.

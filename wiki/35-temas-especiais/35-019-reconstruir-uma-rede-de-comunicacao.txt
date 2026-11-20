@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 35-019
+TITULO: Como reconstruir uma rede de comunicação
+CATEGORIA: 35 - Temas especiais que merecem enciclopédias próprias
+TEMPO: 60 minutos
+RISCO: baixo
+EXIGE: rádios bidirecionais, caderno, lápis, pilhas, ponto de encontro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: comunicação, rádio, emergência, mensageiro, contato
+==============================================================================
+
+OBJETIVO
+--------
+Restabelecer contato do grupo quando celular e internet falham.
+
+QUANDO USAR
+-----------
+Quando o sinal de celular cair em toda a região.
+Quando faltar energia e a internet por horas ou dias.
+Quando o grupo estiver espalhado entre prédios ou ruas.
+
+NAO USE QUANDO
+--------------
+Não substitua os canais oficiais de emergência por esta rede local.
+Com risco de vida imediato, procure ajuda presencial e autoridades.
+
+MATERIAIS
+---------
+- Rádios bidirecionais com pilhas ou celular com rádio integrado.
+- Caderno e lápis para anotar nomes, canais, horas e respostas.
+- Rádio a pilha para ouvir avisos oficiais e notícias locais.
+- Relógio e um ponto de encontro fixo conhecido por todos.
+
+PROCEDIMENTO
+------------
+1. Reúna pelo menos duas pessoas dispostas a participar.
+2. Escolha um ponto de encontro seguro e fácil de achar.
+3. Combine um horário fixo de checagem, a cada duas horas.
+4. Teste a voz entre dois pontos próximos com os rádios.
+5. Escolha um canal livre e anote o número no caderno.
+6. Defina quem fala, quem escuta e quem leva recados escritos.
+7. Combine uma frase curta de ajuda e outra de tudo bem.
+8. Repita a mensagem importante para conferir o que foi ouvido.
+9. Anote quem recebeu, a hora e atualize a lista a cada troca.
+
+ATENCAO
+-------
+Rádio aberto é ouvido por qualquer pessoa na mesma frequência.
+Não diga nomes completos, endereços nem dados de saúde no ar.
+Pilhas acabam: leve sobressalentes e teste antes de precisar.
+Um rádio só não forma rede; pontos sem rádio ficam isolados.
+Se ninguém responder, vá ao ponto de encontro antes de sair.
+
+SE NAO TIVER
+------------
+Sem rádio, use mensageiros a pé ou de bicicleta entre pontos.
+Sem pilhas, deixe recados escritos no ponto de encontro combinado.
+Sem rádio e sem mensageiro, combine sinais com pano ou espelho.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Todos responderam no horário combinado e confirmaram a mensagem.
+O caderno mostra quem recebeu cada recado e a hora.
+Nenhum ponto ficou sem contato por duas checagens seguidas.
+
+FONTES
+------
+Prática consolidada de comunicação em emergência, sem documento único.
+Plano de comunicação do Ready.gov e alertas por rádio do IPAWS da FEMA.

@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 31-014
+TITULO: Como evitar deterioração de alimentos em climas tropicais
+CATEGORIA: 31 - Refrigeração e conservação térmica
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: água potável, sabão, recipientes tampados, sal e fonte de calor
+REVISAO: 2026-11
+PALAVRAS-CHAVE: alimento, calor, umidade, secagem, salga, comida estragada
+==============================================================================
+
+OBJETIVO
+--------
+Reduzir a perda de alimentos e o risco de intoxicação em calor e umidade.
+
+QUANDO USAR
+-----------
+Quando o clima é quente e úmido e a comida estraga em poucas horas.
+Quando não há geladeira ou a energia falha com frequência.
+Quando sobra comida cozida e ela precisa ser guardada com segurança.
+Quando frutas, legumes ou grãos são comprados a granel.
+Quando o transporte até a casa demora mais de uma hora sob o sol.
+
+NAO USE QUANDO
+--------------
+Descarte, não tente salvar, alimento com bolor, cheiro podre ou
+textura pegajosa. O cozimento não remove as toxinas do bolor.
+Não use salga ou secagem em alimento que já está estragado.
+
+MATERIAIS
+---------
+- Água potável e sabão (ou cinza e água para lavar as mãos).
+- Recipientes limpos com tampa (ou potes de vidro com tampa).
+- Pano limpo e tábua separada para carne crua.
+- Sal próprio para alimentos (nunca sal de estrada ou industrial).
+- Gaze ou tela fina para cobrir e proteger dos insetos.
+- Termômetro de cozinha (opcional; sem ele, observe a ebulição).
+
+PROCEDIMENTO
+------------
+1. Lave as mãos com água potável e sabão antes de tocar nos alimentos.
+2. Lave frutas e legumes com água potável, mesmo que vá descascar.
+3. Separe carne, peixe e ovos crus dos alimentos prontos para comer.
+4. Use faca e tábua diferentes para cru e cozido; lave entre os usos.
+5. Cozinhe sopas e guisados até 70 °C no centro, com ebulição forte.
+6. Coma a comida cozida logo ou mantenha acima de 60 °C até servir.
+7. Se não for comer agora, esfrie em recipiente raso e guarde abaixo
+   de 5 °C.
+8. Acima de 32 °C, não deixe comida perecível fora por mais de 1 hora.
+9. Em clima mais ameno, o limite é 2 horas; depois descarte.
+10. Nunca descongele ao sol; descongele na parte baixa da geladeira.
+11. Para sobrar frutas, legumes ou peixe, fatie fino e seque ao sol
+    sobre tela limpa.
+12. Cubra com gaze, vire as fatias e guarde só quando estiverem secas.
+13. Para carne ou peixe, esfregue sal próprio para alimentos até
+    cobrir toda a superfície.
+14. Guarde o salgado e o seco em recipiente tampado, em local arejado.
+15. Guarde grãos e farinha em saco seco, fechado e suspenso do chão.
+16. Descarte sem provar qualquer alimento com bolor ou cheiro estranho.
+
+ATENCAO
+-------
+Alimento estragado pode causar intoxicação, diarreia forte e vômitos.
+Bolor produz toxinas que o cozimento não elimina: descarte o alimento
+inteiro, não apenas a parte com bolor.
+Nunca prove alimento suspeito para decidir se está bom.
+Cozinhar não salva carne ou peixe que ficou muito tempo no calor: as
+toxinas podem resistir ao calor.
+Acima de 32 °C o tempo seguro cai para 1 hora, conforme o USDA; no
+calor tropical use sempre o limite menor.
+Sal e secura não matam todos os microrganismos. A FAO recomenda manter
+peixe salgado abaixo de 8 °C e usar apenas sal próprio para alimentos.
+A secagem ao sol falha se o ar estiver muito úmido; nesse caso não
+confie no resultado.
+Com febre, vômito ou diarreia depois de comer, procure atendimento.
+
+SE NAO TIVER
+------------
+Sem geladeira, compre e cozinhe porções pequenas e coma no mesmo dia.
+Sem sal, use a secagem ao sol, mas descarte se aparecer bolor.
+Sem tela, cubra com pano limpo preso por cima e troque se ele molhar.
+Para tratar água suspeita antes de lavar os alimentos, veja 01-001.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A comida cozida ferveu e foi comida ou guardada dentro do tempo limite.
+Frutas e legumes secos quebram sem soltar umidade e não têm pontos moles.
+Os potes ficam fechados, sem insetos, e o alimento não tem cheiro estranho.
+Os grãos estão secos, sem grãos ardidos nem teia de insetos.
+
+FONTES
+------
+Prática consolidada de higiene e conservação de alimentos em clima quente.
+Referências: Cinco Chaves para uma Alimentação mais Segura, da OMS;
+controle de temperatura e orientações de salga e secagem da FAO;
+secagem e desidratação da Embrapa; regra das 2 horas e do limite de
+1 hora acima de 32 °C do USDA. Resumo operacional, não substitui
+treinamento.

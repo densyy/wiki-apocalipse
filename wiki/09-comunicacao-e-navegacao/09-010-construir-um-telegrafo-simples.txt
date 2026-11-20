@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 09-010
+TITULO: Como construir um telégrafo simples
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: bateria de 3 a 9 V, fio de cobre isolado, prego e lâmina de ferro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: telégrafo, morse, eletroímã, chave, bateria, clique, fio
+==============================================================================
+
+OBJETIVO
+--------
+Construa um aparelho que transforma fechar e abrir um circuito em cliques.
+
+QUANDO USAR
+-----------
+Quando quiser aprender o ritmo do código Morse com um clique real.
+Quando houver material de sobra e tempo para montar e testar.
+
+NAO USE QUANDO
+--------------
+Quando houver gás ou combustível por perto: a chave pode dar faísca.
+Quando for preciso falar com outro posto: só produz clique local.
+
+MATERIAIS
+---------
+- Prego de ferro grande, de 5 a 8 cm, sem ferrugem.
+- Fio de cobre fino isolado, com aproximadamente 2 metros.
+- Bateria de 3 a 9 V com suporte ou fita para prender os fios.
+- Lâmina de ferro ou tira de lata fina para servir de armadura.
+- Base de madeira ou papelão, duas tiras de metal e fita adesiva.
+
+PROCEDIMENTO
+------------
+1. Enrole o fio de cobre no prego, 50 a 100 voltas no mesmo sentido.
+2. Deixe aproximadamente 10 cm de fio livre nas duas pontas.
+3. Raspe o isolamento das duas pontas até aparecer cobre nu.
+4. Prenda o prego na base, com a ponta saliente e livre.
+5. Fixe a lâmina a aproximadamente 2 mm da ponta do prego, só numa ponta.
+6. Monte a chave: duas tiras de metal separadas por aproximadamente 5 mm.
+7. Encoste uma tira na outra só ao pressionar; é a chave telegráfica.
+8. Ligue uma ponta da bobina a um polo da bateria.
+9. Ligue a outra ponta da bobina a uma tira da chave.
+10. Ligue o outro polo da bateria à segunda tira da chave.
+11. Pressione e solte a chave; ajuste a distância até o clique ficar claro.
+12. Envie ponto com pressão curta e traço com pressão três vezes mais longa.
+
+ATENCAO
+-------
+Use só bateria, nunca a tomada; solte a chave entre os testes.
+Fio e prego esquentam se a chave ficar pressionada: desligue e espere.
+Se esquentar, use duas pilhas de 1,5 V e confira os contatos.
+Fio nu encostando em outro cria curto e descarrega a bateria.
+Faísca pode inflamar gás ou combustível: mantenha longe de fogo.
+
+SE NAO TIVER
+------------
+Sem fio isolado, use fio nu com papel ou fita entre as voltas.
+Sem lâmina, use tira de lata limpa; sem bateria, não funciona.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ao pressionar, a lâmina bate no prego e faz um clique; ao soltar, outro.
+
+FONTES
+------
+Prática consolidada de telegrafia elétrica. HyperPhysics (Georgia State
+University): solenoide e núcleo de ferro; referências de engenharia elétrica
+sobre chave e receptor sonoro telegráfico.

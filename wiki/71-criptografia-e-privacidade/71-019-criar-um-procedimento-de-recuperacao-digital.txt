@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 71-019
+TITULO: Como criar um procedimento de recuperação digital
+CATEGORIA: 71 - Criptografia, segurança da informação e privacidade
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: papel, caneta, cofre ou envelope lacrado, acesso às contas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: recuperação, backup, códigos, senha, conta, acesso, chave
+==============================================================================
+
+OBJETIVO
+--------
+Criar um plano escrito para recuperar o acesso a contas e arquivos.
+
+QUANDO USAR
+-----------
+- Antes de trocar de celular ou computador.
+- Ao criar uma conta importante ou um gerenciador de senhas.
+- Quando outra pessoa precisa assumir o acesso em caso de ausência.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação para planejar a recuperação. Não faça porém
+os passos em aparelho infectado ou rede pública: outro pode ler o plano.
+
+MATERIAIS
+---------
+- Papel e caneta (ou texto salvo em mídia separada do aparelho).
+- Cofre, envelope opaco lacrado ou pasta trancada.
+- Lista das contas e dispositivos que precisam de recuperação.
+- Acesso atual às contas, para gerar os códigos.
+
+PROCEDIMENTO
+------------
+1. Liste em papel as contas importantes e o e-mail de recuperação.
+2. Abra as configurações de segurança de cada conta.
+3. Gere os códigos de recuperação que o serviço oferece.
+4. Anote cada código no papel, sem atalhos nem abreviações.
+5. Compare os códigos anotados com os da tela, um a um.
+6. Guarde o papel no cofre ou envelope lacrado, fora do aparelho.
+7. Anote onde está o cofre e quem pode abri-lo em caso de ausência.
+8. Copie os arquivos importantes para a segunda mídia.
+9. Guarde a mídia em local diferente do cofre dos códigos.
+
+ATENCAO
+-------
+Códigos de recuperação são como senhas: quem os lê entra na conta.
+Nunca guarde no aparelho que eles protegem, fotografe ou envie por mensagem.
+Plano desatualizado falha: revise-o e refaça as cópias ao trocar senha.
+Perdeu o acesso? Use o código guardado antes de tentar outra coisa.
+
+SE NAO TIVER
+------------
+- Sem cofre, lacre um envelope opaco e guarde em gaveta trancada.
+- Sem segunda mídia, escreva os passos em papel separado.
+- Se o serviço não oferece códigos, registre o caminho do recurso de
+  recuperação e teste-o enquanto ainda tem acesso.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- O papel traz a lista das contas e os códigos anotados.
+- Os códigos anotados batem com os da tela.
+- Outra pessoa consegue seguir o plano lendo apenas o papel.
+
+FONTES
+------
+Prática consolidada de segurança da informação e continuidade de acesso.
+Orientações da família de diretrizes NIST SP 800-63B sobre autenticadores
+e recuperação de contas, e da regra 3-2-1 de cópias de segurança.

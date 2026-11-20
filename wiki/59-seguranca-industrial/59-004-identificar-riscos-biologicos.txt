@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 59-004
+TITULO: Como identificar riscos biológicos
+CATEGORIA: 59 - Segurança industrial e riscos ocupacionais
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: caderno, lapis, lanterna, luvas descartaveis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: biológico, sangue, agulha, mofo, contágio, doença
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer no local de trabalho fontes de exposição a agentes biológicos.
+
+QUANDO USAR
+-----------
+- Ao começar em um novo local de trabalho ou em uma nova função.
+- Antes de manusear sangue, secreções ou materiais cortantes.
+- Antes de limpar áreas com mofo, resíduos orgânicos ou animais.
+- Após acidente com agulha, lâmina ou respingo de fluido corporal.
+
+NAO USE QUANDO
+--------------
+Não há contraindicacao conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Caderno e lápis para anotar o que encontrar.
+- Lanterna para ver cantos escuros.
+- Luvas descartáveis para inspecionar sem tocar diretamente.
+- Máscara descartável se houver poeira ou mofo visível.
+
+PROCEDIMENTO
+------------
+1. Peça ao responsável o mapa de riscos e a lista de tarefas.
+2. Caminhe pela área com a lanterna e observe sem tocar em nada.
+3. Procure sangue, secreções, excrementos, saliva ou animais.
+4. Observe se há agulhas, lâminas ou vidros cortantes usados.
+5. Verifique mofo, umidade e resíduos orgânicos acumulados.
+6. Note se os resíduos estão em recipientes fechados e identificados.
+7. Pergunte aos colegas sobre cortes, picadas e doenças recentes.
+8. Confira água corrente, sabão, álcool 70% e uso de EPI.
+9. Anote cada achado com local, tarefa e classe de risco.
+10. Comunique os achados ao responsável antes de começar a tarefa.
+
+ATENCAO
+-------
+Agulhas e lâminas contaminadas podem transmitir HIV e hepatites.
+Nunca recolha material cortante com as mãos, mesmo com luvas.
+Mofo e esporos podem causar alergia e infecção respiratória.
+Este procedimento apenas identifica riscos: não remove nem desinfeta.
+Se houver corte ou respingo, lave com água e sabão e busque atendimento.
+
+SE NAO TIVER
+------------
+Sem lanterna, espere a luz do dia para inspecionar.
+Sem luvas, apenas observe e não mova nada com as mãos.
+Sem máscara, evite entrar em áreas com mofo visível.
+Na dúvida sobre um material, trate como risco e afaste-se.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você anotou cada achado com local, tarefa e classe de risco.
+Os achados foram entregues ao responsável antes do início do trabalho.
+
+FONTES
+------
+Prática consolidada de segurança e saúde no trabalho (NR-1 e NR-32).
+Orientações da OMS e do CDC sobre precauções padrão no trabalho.

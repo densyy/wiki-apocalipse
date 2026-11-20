@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 30-010
+TITULO: Como construir sistemas de drenagem pluvial
+CATEGORIA: 30 - Engenharia e infraestrutura básica
+TEMPO: 6 horas
+RISCO: medio
+EXIGE: pá, enxada, cascalho, tubo perfurado, tela de filtro, duas pessoas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: drenagem, água da chuva, vala, dreno francês, alagamento
+==============================================================================
+
+OBJETIVO
+--------
+Desviar a água da chuva para longe de fundações, paredes e hortas.
+
+QUANDO USAR
+-----------
+Quando a água corre para a parede ou alaga o quintal.
+Quando o solo ao redor de casa fica encharcado e demora a secar.
+
+NAO USE QUANDO
+--------------
+Durante chuva forte: espere a água baixar e o solo secar.
+Quando não houver para onde escoar sem alagar vizinho ou curso d'água.
+
+MATERIAIS
+---------
+- Pá, enxada e cavadeira (ou pá de corte).
+- Cascalho lavado, sem terra (pedras de 1 a 3 cm).
+- Tubo perfurado (ou tubo com furos feitos a broca).
+
+PROCEDIMENTO
+------------
+1. Observe a chuva e marque por onde a água corre.
+2. Escolha a saída no ponto baixo, longe da casa e do vizinho.
+3. Espere a chuva passar e o solo secar antes de cavar.
+4. Trace a vala com estacas e corda, do alto até a saída.
+5. Dê ao fundo declividade de aproximadamente 1 cm por metro.
+6. Cave a vala de aproximadamente 30 cm e ponha a terra do lado de cima.
+7. Limpe raízes e nivele o fundo com nível de bolha ou mangueira d'água.
+8. Forre fundo e paredes com a tela de filtro.
+9. Espalhe cascalho de aproximadamente 5 cm sobre a tela.
+10. Assente o tubo com os furos para baixo e para os lados.
+11. Cubra o tubo com cascalho, dobre a tela e tampe com terra.
+12. Cubra com grama e teste com balde: a água deve escoar.
+
+ATENCAO
+-------
+Nunca abra vala nem trabalhe no dreno com chuva ou enchente.
+Água correndo fundo arrasta terra e pode prender ou afogar a pessoa.
+Vala sem saída só transfere o alagamento para o vizinho.
+Cascalho com terra entope o dreno; lave o material antes de usar.
+Sem declividade a água para, apodrece e vira criadouro de mosquito.
+Não despeje o dreno em poço, cisterna ou manancial de água de beber.
+
+SE NAO TIVER
+------------
+Sem tubo perfurado, use só cascalho e tela: vira dreno francês.
+Sem tela, use pano resistente; palha serve só por pouco tempo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Depois do balde, não sobra poça nem água parada na vala.
+A água sai pelo ponto escolhido e não volta para a parede.
+
+FONTES
+------
+Prática consolidada de drenagem superficial em engenharia civil e
+conservação de solo. Resumo operacional, sem documento único; não
+substitui projeto técnico nem orientação da defesa civil local.

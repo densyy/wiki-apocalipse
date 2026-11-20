@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 73-015
+TITULO: Como construir depósitos subterrâneos
+CATEGORIA: 73 - Armazenamento de produtos não alimentares
+TEMPO: 3 horas
+RISCO: alto
+EXIGE: pá, enxada, trena, lona impermeável, madeira para escorar
+REVISAO: 2026-11
+PALAVRAS-CHAVE: depósito, poço, cavar, subterrâneo, drenar, vedar, escorar
+==============================================================================
+
+OBJETIVO
+--------
+Ter um depósito enterrado, seco e escuro, capaz de guardar suprimentos por
+meses longe da chuva, do calor, do frio e dos roedores.
+
+QUANDO USAR
+-----------
+Quando não há construção segura para guardar ferramentas, peças ou panos.
+Quando calor, frio ou umidade estragariam o que ficaria exposto.
+Quando se quer proteger reservas de furto, vandalismo ou animais.
+Quando o terreno é próprio, alto e bem drenado.
+
+NAO USE QUANDO
+--------------
+Não cave onde a água da chuva escorre, onde há encosta instável ou solo
+alagadiço. Não construa se não houver outra pessoa para ajudar e vigiar.
+Não use em lençol freático alto, solo rochoso raso ou área de mineração.
+Não enterre nada que precise de inspeção diária ou secagem constante.
+
+MATERIAIS
+---------
+- Pá e enxada (ou escavador manual).
+- Trena ou corda com nós a cada 1 metro.
+- Tábuas, tijolos ou pedras para escorar as paredes.
+- Lona plástica, betume ou argila para vedar.
+- Dois tubos de ventilação: PVC, bambú oco ou mangueira, com tela.
+- Tampa de madeira, concreto ou tanque adaptado, com trinco.
+- Palha ou folha seca para forrar.
+- Balde e corda para retirar a terra.
+- Lanterna de bateria. Nunca use chama dentro do poço.
+
+PROCEDIMENTO
+------------
+1. Escolha terreno alto, plano ou com leve declive, longe de árvores e de
+   cursos d'água.
+2. Marque aproximadamente 2 por 2 metros com estacas e corda.
+3. Cave em degraus com a pá até aproximadamente 1,5 metro de profundidade.
+   Pare se aparecer água ou rocha.
+4. Escore as paredes com tábuas ou tijolos ao passar de 1 metro.
+5. Nunca desça sozinho. Peça a outra pessoa para segurar a corda do lado de
+   fora.
+6. Abra um ralo raso no piso, encha com pedras e cubra com pano.
+7. Forre piso e paredes com pedra ou tijolo e vede com lona, betume ou
+   argila bem amassada.
+8. Instale um tubo de ar rente ao piso e outro junto ao teto, os dois com
+   tela na ponta.
+9. Feche com tampa firme apoiada em batente e trinco do lado de fora.
+10. Cubra a tampa com aproximadamente 30 cm de terra e grama.
+11. Forre o chão com palha seca e apoie os objetos em estrado, sem encostar
+    nas paredes.
+12. Coloque apenas objetos secos e embalados: ferramentas, peças, tecidos e
+    documentos em saco vedado.
+13. Feche a tampa e confira a vedação depois da primeira chuva forte.
+
+ATENCAO
+-------
+Parede de terra desaba sem aviso: escore sempre e nunca entre sozinho.
+Se aparecer água ao cavar, pare e mude de lugar; poço alagado apodrece
+tudo e pode afundar a tampa.
+Sem os dois tubos o ar fica parado, com umidade e cheiro de mofo.
+Nunca use fogo, vela ou lanterna a óleo dentro do depósito: só bateria.
+A terra estabiliza a temperatura, mas não esteriliza nem elimina umidade.
+Não guarde alimento fresco aqui sem orientação específica de conservação.
+Se a tampa ceder ou entrar água, retire tudo e refaça a vedação.
+
+SE NAO TIVER
+------------
+Sem trena, meça com corda com nós a cada 1 metro.
+Sem lona ou betume, use argila bem amassada como vedante e reforce a cada
+chuva.
+Sem tubo de PVC, use bambú oco ou mangueira com tela na ponta.
+Sem tijolo, forre com pedra e compacte bem a terra, reforçando com tábuas.
+Sem madeira para a tampa, adapte uma tampa de tanque de concreto.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Depois da chuva o interior está seco, sem poças, goteiras ou cheiro de mofo.
+Uma tira de pano presa na saída de ar se move com a correnteza.
+Os objetos não encostam na parede e estão secos ao toque.
+A tampa trava por fora e a terra sobre ela não afundou.
+
+FONTES
+------
+Prática consolidada de depósitos enterrados e câmaras de armazenamento
+rural. Resumo operacional inspirado nas orientações gerais de conservação
+e armazenamento da FAO e do USDA e no manual de sobrevivência civil
+FM 21-76. Para conservar sementes nesse depósito, veja 73-001 como leitura
+extra. Este texto é um resumo doméstico, não substitui engenheiro nem
+treinamento.

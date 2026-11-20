@@ -1,0 +1,94 @@
+==============================================================================
+CODIGO: 08-055
+TITULO: Como construir uma bicicleta de carga
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 4 horas
+RISCO: alto
+EXIGE: bicicleta, 2 rodas com eixo, tubos, compensado, parafusos, furadeira
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bicicleta, carga, reboque, carroça, carretinha, engate
+==============================================================================
+
+OBJETIVO
+--------
+Montar um reboque que transforma bicicleta em veículo de carga.
+
+QUANDO USAR
+-----------
+Quando for preciso levar água, lenha ou alimentos que não cabem na mochila.
+Quando a bicicleta for o único meio de transporte disponível.
+Quando o trajeto for curto e o chão for plano ou de leve subida.
+
+NAO USE QUANDO
+--------------
+Em descida longa, estrada com veículos rápidos ou terreno muito acidentado.
+Se a bicicleta estiver com freio, pneu ou quadro em mau estado.
+Para transportar pessoas: o reboque não tem freio, assento nem proteção.
+
+MATERIAIS
+---------
+- Bicicleta funcional, com freio e pneu em bom estado.
+- Duas rodas iguais com eixo e porca (roda de sucata).
+- Tubos de aço retos ou cantoneira de ferro, sem ferrugem que fure o metal.
+- Compensado ou tábuas grossas para o assoalho (chapa de madeira).
+- Parafusos com porca e arruela, de dois comprimentos (parafuso de roda).
+- Furadeira com broca para metal e chaves de boca.
+- Corda ou cinta para prender a carga.
+- Óculos de proteção e luvas.
+
+PROCEDIMENTO
+------------
+1. Escolha duas rodas iguais com eixo que caiba nos tubos.
+2. Monte um retângulo com dois tubos longos e três travessas.
+3. Prenda os cantos com cantoneira e parafuso; aperte com porca e arruela.
+4. Parafuse uma diagonal de canto a canto para o retângulo não torcer.
+5. Fure os tubos a aproximadamente um quarto da frente.
+6. Passe o eixo das rodas pelos furos e prenda com arruela e porca.
+7. Aperte as porcas sem deixar a roda com folga para o lado.
+8. Parafuse o compensado sobre a estrutura para formar o assoalho.
+9. Prenda a barra na frente com parafuso e porca sem aperto.
+10. Fixe a outra ponta abaixo do selim, livre da roda e da perna.
+11. Confira se a bike vira sem a barra bater na roda.
+12. Coloque a carga no assoalho, com o peso mais baixo e no meio da largura.
+13. Deixe o centro da carga um pouco à frente do eixo das rodas do reboque.
+14. Amarre a carga ao assoalho com corda ou cinta, sem deixar peça solta.
+15. Teste em terreno plano, sem carga e devagar, antes de sair com peso.
+
+ATENCAO
+-------
+Carga atrás do eixo traseiro pode levantar a roda dianteira da bicicleta.
+Nunca coloque peso além do eixo traseiro.
+Freio comum não foi feito para peso extra: a parada demora mais.
+Freie cedo e com suavidade.
+Curva rápida ou buraco pode tombar o reboque.
+Reduza a velocidade antes de virar.
+Parafuso frouxo pode soltar a roda; aperte e revise antes de cada saída.
+Use óculos ao furar metal, pois lascas ferem os olhos.
+Nunca leve pessoas no reboque.
+Se ouvir ruído novo ou a bike puxar para o lado, pare e revise.
+
+SE NAO TIVER
+------------
+Sem tubo de aço, use cantoneira; madeira serve só para carga leve.
+Sem furadeira, use peças de sucata já furadas.
+Não faça furos em metal com fogo.
+Sem compensado, prenda tábuas paralelas sobre as travessas.
+Sem segunda roda, reduza a carga ou use carroça de duas rodas.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O reboque roda alinhado atrás da bicicleta, sem puxar para um lado.
+Com carga, a roda dianteira continua encostada no chão.
+A carga não desliza quando se freia com força em terreno plano.
+Nenhum parafuso afrouxa e a estrutura não range após uma volta curta.
+
+FONTES
+------
+Prática consolidada de fabricação artesanal de reboques de bicicleta.
+Estudo de Paudel e Yap sobre carga em bicicletas, Heliyon, 2024.
+Bicicleta adaptada: no máximo cerca de 15 kg no bagageiro traseiro.
+Carga na frente não é recomendada; mantenha o centro de gravidade baixo.
+Manual "The Design of Bicycle Trailers", Intermediate Technology
+Publications, 1986: centro da carga logo à frente do eixo.
+DEKRA Accident Research, ensaio de frenagem de bicicletas de carga,
+2025: a carga aumenta a distância de frenagem.

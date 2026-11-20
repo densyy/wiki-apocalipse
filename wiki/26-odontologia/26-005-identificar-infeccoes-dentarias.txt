@@ -1,0 +1,88 @@
+==============================================================================
+CODIGO: 26-005
+TITULO: Como identificar infecções dentárias
+CATEGORIA: 26 - Odontologia e saúde bucal
+TEMPO: 20 minutos
+RISCO: alto
+EXIGE: luz firme, espelho, papel e lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: dente, dor de dente, gengiva inchada, abscesso, febre, pus
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer os sinais de infecção dentária e decidir o grau de urgência.
+
+QUANDO USAR
+-----------
+Quando alguém relata dor de dente sem acesso imediato a dentista.
+Quando aparece inchaço na gengiva, na bochecha ou no maxilar.
+Quando há pus, febre ou dificuldade para abrir a boca.
+Antes de viajar ou ficar sem serviço de saúde por vários dias.
+Ao acompanhar uma pessoa que não consegue descrever bem a dor.
+
+NAO USE QUANDO
+--------------
+Este texto não faz diagnóstico nem substitui exame de dentista.
+Não o use para decidir drenar, extrair ou medicar um dente.
+Se houver falta de ar, vá direto ao hospital sem aplicar estes passos.
+
+MATERIAIS
+---------
+- Luz firme, de dia ou de lanterna.
+- Espelho que mostre a boca (ou peça a outra pessoa que observe).
+- Papel e lápis para anotar os sinais e o horário.
+- Termômetro, se houver (ou pergunte sobre febre e calafrios).
+
+PROCEDIMENTO
+------------
+1. Lave as mãos com água e sabão antes de tocar perto da boca.
+2. Sente a pessoa diante da luz firme.
+3. Peça que abra a boca e aponte o dente que dói.
+4. Observe a face: procure inchaço na bochecha, no maxilar ou no olho.
+5. Observe a gengiva: procure vermelhidão, inchaço ou ponto com pus.
+6. Observe o dente: procure buraco escuro, rachadura ou lasca.
+7. Pergunte se a dor é constante ou vem só com frio, calor ou doce.
+8. Pergunte se a dor some logo após retirar o frio, o calor ou o doce.
+9. Pergunte se a dor aumenta ao mastigar.
+10. Peça que abra a boca ao máximo e veja se consegue sem esforço.
+11. Pergunte se dói ao engolir e se a língua está levantada.
+12. Se houver termômetro, meça a temperatura.
+13. Anote o horário, o dente, os sinais e as respostas.
+14. Com sinal de alarme, encaminhe ao hospital imediatamente.
+15. Com inchaço local, pus ou dor constante, procure dentista hoje.
+16. Sem inchaço e só com sensibilidade, mantenha a higiene e observe.
+
+ATENCAO
+-------
+Febre, dor de cabeça, confusão ou visão dupla são sinais de alarme.
+Inchaço sob a língua, língua erguida e dor ao engolir são sinais de
+alarme: a via aérea pode fechar e a pessoa pode morrer.
+Inchaço ao redor de um olho também exige hospital imediato.
+Febre não é comum na infecção dentária local; sua presença sugere
+que a infecção se espalhou para além do dente.
+Nunca fure, corte, esquente ou aperte a gengiva dentro da boca.
+Não aplique fogo, agulha, alicate ou álcool no dente ou na gengiva.
+A dor que passa não prova que a infecção acabou: a causa pode continuar.
+Este texto não drena abscesso, não prescreve antibiótico e não extrai dente.
+Diabetes ou imunossupressão exigem encaminhamento mais rápido.
+
+SE NAO TIVER
+------------
+Sem espelho, peça a outra pessoa que olhe e descreva a boca.
+Sem luz artificial, use a luz do dia junto a uma janela.
+Sem termômetro, pergunte sobre febre e calafrios e diga que não mediu.
+Sem dentista por perto, procure posto de saúde, urgência ou hospital.
+Não provoque dor com comida quente ou gelada para testar o dente.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você informa o dente, o horário, os sinais e se há sinal de alarme.
+A decisão tomada corresponde aos sinais: hospital, dentista ou observação.
+
+FONTES
+------
+Manual MSD de Odontologia: dor de dente e infecção, emergências dentárias.
+CDC: cáries dentárias e risco de abscesso e morte.
+OMS: folha informativa sobre saúde bucal.
+Protocolo de Urgências Odontológicas da SES-DF e orientações da SMS-SP.

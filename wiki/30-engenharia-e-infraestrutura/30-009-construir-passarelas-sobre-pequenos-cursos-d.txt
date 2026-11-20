@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 30-009
+TITULO: Como construir passarelas sobre pequenos cursos d'água
+CATEGORIA: 30 - Engenharia e infraestrutura básica
+TEMPO: 4 horas
+RISCO: alto
+EXIGE: madeira tratada, serra, martelo, pregos galvanizados, duas pessoas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: passarela, ponte, riacho, água, madeira, travessia, margem
+==============================================================================
+
+OBJETIVO
+--------
+Montar passarela baixa de madeira sobre riacho raso e correnteza fraca.
+
+QUANDO USAR
+-----------
+Quando é preciso atravessar um riacho raso com água corrente.
+Quando molhar pés ou carga causaria perda de mantimento ou remédio.
+Quando a água está baixa e há madeira e duas pessoas para ajudar.
+
+NAO USE QUANDO
+--------------
+Quando a água está alta, turva ou corre forte após chuva.
+Quando a margem é terra solta, erodida ou com árvores caídas.
+Quando o leito é fundo ou lamacento e não se vê o fundo.
+Quando não há madeira tratada nem tempo para fixar bem os apoios.
+
+MATERIAIS
+---------
+- Madeira tratada para vigas e tábuas (seca, sem fungo ou apodrecimento).
+- Dois dormentes, vigas grossas assentadas em cada margem.
+- Três longarinas, vigas que vão de uma margem à outra.
+- Tábuas para o piso, de corte uniforme.
+- Pregos ou parafusos galvanizados (resistem à umidade).
+- Estacas e corda para prender e alinhar as peças.
+- Serra, martelo, luvas, chapa fina e tábua reta para nivelar.
+
+PROCEDIMENTO
+------------
+1. Observe o riacho e identifique a linha da última cheia.
+2. Marque essa linha com estacas nas duas margens.
+3. Escolha o trecho mais estreito e reto, com margens firmes e planas.
+4. Afaste a ponte da linha da cheia; nunca apoie na beira da margem.
+5. Meça com corda a distância livre entre as duas margens (o vão).
+6. Corte as vigas com sobra em cada ponta para apoiar nos dormentes.
+7. Cave um assento nivelado em cada margem e encaixe um dormente.
+8. Apoie a tábua reta nos dois dormentes e confira se está horizontal.
+9. Assente as três longarinas nos dormentes, paralelas e bem espaçadas.
+10. Prenda as longarinas externas aos dormentes com ferragem galvanizada.
+11. Coloque a chapa fina sobre o topo das longarinas para escoar a água.
+12. Fixe as tábuas do piso atravessadas sobre as longarinas, lado a lado.
+13. Faça o piso ultrapassar as longarinas em aproximadamente 15 cm.
+14. Prenda cada tábua com dois parafusos galvanizados em cada longarina.
+15. Enterre contraparede atrás de cada dormente para proteger a madeira.
+16. Estique a contraparede além da ponte, aproximadamente 30 cm.
+17. Prenda os dormentes ao solo com estacas inclinadas bem cravadas.
+18. Levante corrimão de corda ou tábuas nas duas laterais, preso a estacas.
+19. Cubra as aproximações com cascalho, pedras ou tábuas.
+20. Teste a passarela: pise no meio e veja se não balança nem range.
+
+ATENCAO
+-------
+O que mata aqui é a queda na água corrente e o afogamento.
+Nunca construa nem cruze durante cheia ou depois de chuva forte.
+Se a margem erodir, o dormente cai e a ponte inteira vira. Pare e refaça.
+Madeira sem tratamento apodrece rápido e a ponte pode ceder sem aviso.
+Pregos comuns enferrujam e soltam; use apenas ferragem galvanizada.
+A passarela serve só para pessoas a pé, não para veículo ou carga pesada.
+Se não der para fixar os dormentes com segurança, não cruze.
+Procure outro caminho ou ajuda antes de arriscar a travessia.
+Crianças e pessoas com equilíbrio fraco devem usar o corrimão.
+
+SE NAO TIVER
+------------
+- Sem madeira tratada, use madeira seca, sem fungo ou sinal de inseto.
+- Sem parafusos galvanizados, use pregos galvanizados; nunca pregos comuns.
+- Sem chapa, dobre uma lata limpa ou plástico duro sobre as longarinas.
+- Sem estacas de metal, use estacas de madeira grossa bem cravadas.
+- Sem corda para corrimão, use varas finas amarradas com fibras vegetais.
+- Se o riacho for fundo ou a margem instável, mude de rota e peça ajuda.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os dormentes ficam nivelados e enterrados, sem folga ao pisar na ponte.
+O piso fica firme, sem tábua solta.
+A água escorre pela frente e não desce pelas laterais das longarinas.
+Ao pular no meio, a passarela não range, não gira e não afunda.
+
+FONTES
+------
+Tech Tip 1223-2316P-MTDC, "Innovative design for short-span timber
+all-terrain vehicle trail bridges", USDA Forest Service, Missoula
+Technology and Development Center (Barrow e Groenier), com a FHWA.
+Forest Service Timber Bridge Manual, cap. 5, USDA Forest Service.

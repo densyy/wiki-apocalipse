@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 66-005
+TITULO: Como utilizar relógios comparadores
+CATEGORIA: 66 - Mecânica de precisão e instrumentos
+TEMPO: 20 minutos
+RISCO: medio
+EXIGE: relógio comparador, suporte rígido, peça ou padrão de referência
+REVISAO: 2026-11
+PALAVRAS-CHAVE: comparador, relógio medidor, ponteiro, zero, leitura
+==============================================================================
+
+OBJETIVO
+--------
+Comparar a altura de duas superfícies e ler a diferença no mostrador.
+
+QUANDO USAR
+-----------
+Quando conferir se uma peça está dentro da tolerância do desenho.
+Quando ajustar a altura da ferramenta de corte na máquina.
+Quando suspeitar de empeno em superfície que deve ser plana.
+
+NAO USE QUANDO
+--------------
+Quando a peça, a ponta ou a base estiver com pó, óleo ou rebarba.
+Quando a peça e o padrão estiverem em temperaturas diferentes.
+Quando não houver apoio rígido: sem suporte firme a leitura oscila.
+
+MATERIAIS
+---------
+- Relógio comparador com haste e ponta esférica.
+- Suporte rígido com base magnética ou morsa de bancada.
+- Padrão de referência: bloco padrão ou peça de medida conhecida.
+- Pano limpo e luva para não sujar ou aquecer a peça.
+
+PROCEDIMENTO
+------------
+1. Limpe a ponta, a peça e a base do suporte com pano limpo.
+2. Fixe o relógio no suporte e aperte a haste; confirme que nada folga.
+3. Alinhe a haste na direção da medida; não incline o aparelho.
+4. Coloque o padrão de referência sob a ponta de contato.
+5. Recue a haste aproximadamente um quarto do curso no padrão.
+6. Gire o anel do mostrador até o zero alinhar com a agulha.
+7. Retire o padrão e coloque a peça sob a ponta sem erguer a haste.
+8. Leia o contador de voltas (mostrador pequeno) e some à agulha.
+9. Anote o sentido: giro horário indica peça maior; anti-horário, menor.
+
+ATENCAO
+-------
+A haste inclinada lê menos que o real: é o erro de cosseno. Alinhe sempre.
+Nunca solte a haste de uma vez; o impacto danifica o mecanismo interno.
+Não ultrapasse o curso: passar do fim do mostrador entorta a haste.
+Pó ou óleo cria leitura falsa; limpe. Se a agulha oscilar, pare e refaça.
+
+SE NAO TIVER
+------------
+Sem base magnética, prenda o suporte em morsa ou braçadeira firme.
+Sem bloco padrão, use uma peça de medida conhecida como referência.
+Sem comparador, use paquímetro apenas para medidas de tolerância larga.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ao recolocar o padrão no mesmo ponto, a agulha volta ao zero.
+Três leituras seguidas no mesmo ponto dão o mesmo valor.
+A haste desliza suave, sem trancos, e não folga no suporte.
+
+FONTES
+------
+Prática consolidada de metrologia em oficina, registrada em manuais de
+uso e conservação de instrumentos da Mitutoyo e em literatura de tecnologia
+mecânica (A Técnica de Ajustagem, Editora Hemus, 2004). Resumo operacional.

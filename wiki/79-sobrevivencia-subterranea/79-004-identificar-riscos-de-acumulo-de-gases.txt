@@ -1,0 +1,93 @@
+==============================================================================
+CODIGO: 79-004
+TITULO: Como identificar riscos de acúmulo de gases
+CATEGORIA: 79 - Sobrevivência subterrânea
+TEMPO: 30 minutos
+RISCO: critico
+EXIGE: lanterna, caderno, fumaça de teste, parceiro na entrada
+REVISAO: 2026-11
+PALAVRAS-CHAVE: gas, dioxido de carbonio, metano, radonio, ar, risco
+==============================================================================
+
+OBJETIVO
+---------
+Perceber sinais de gases perigosos em cavidades e decidir quando
+sair, sem depender de aparelhos caros.
+
+QUANDO USAR
+-----------
+Ao descer em poço, mina, cisterna ou gruta de entrada única.
+Quando o ar parece pesado e a respiração fica curta.
+Ao entrar em porão, adega ou vala funda depois de dias fechados.
+Antes de ocupar abrigo subterrâneo com pouca ventilação.
+
+NAO USE QUANDO
+--------------
+Não confie no nariz: vários gases não têm cheiro e outros
+cansam o olfato rapidamente. Não faça teste com chama dentro
+de cavidade: pode inflamar metano. Não continue se alguém
+sentir tontura, mesmo que os outros estejam bem.
+
+MATERIAIS
+---------
+- Lanterna própria e reserva.
+- Incenso ou papel para testar corrente de ar na entrada.
+- Corda e arnês se houver descida vertical.
+- Caderno e lápis para anotar cheiro, horário e local.
+- Parceiro na entrada, com instrução de não descer atrás.
+- Pano umedecido para cobrir nariz e boca em fuga curta.
+
+PROCEDIMENTO
+------------
+1. Pare na entrada e respire fundo o ar de fora.
+2. Cheire o ar que vem de dentro: ovo podre indica sulfeto.
+3. Cheiro doce ou de amêndoa indica risco e exige recuo.
+4. Observe onde o ar sai: gás pesado acumula no chão.
+5. Agache na entrada e veja se o ar de baixo é mais abafado.
+6. Solte fumaça na altura do rosto e depois no chão.
+7. Se a fumaça parar e descer, desconfie de bolsão de gás.
+8. Teste a corrente em cada curva antes de avançar.
+9. Anote em qual trecho a respiração ficou mais difícil.
+10. Bocejo, dor de cabeça e confusão são sinais de falta de ar.
+11. Se qualquer sinal aparecer, saia em linha reta para a
+   entrada, sem correr e sem voltar para buscar objeto.
+12. Avise o parceiro e deixe a área ventilar antes de tentar
+   de novo, com mais aberturas.
+13. Para poço ou cisterna, ventile por bastante tempo antes
+   de descer e nunca desça sozinho.
+14. Registre os sinais para não repetir a entrada sem melhoria.
+
+ATENCAO
+-------
+Dióxido de carbono é incolor e inodoro e mata por asfixia.
+Metano é inflamável: nunca use isqueiro nem fogo dentro.
+Sulfeto de hidrogênio cheira a ovo podre, mas logo anestesia
+o olfato e a pessoa deixa de sentir o perigo.
+Radônio não tem cheiro e só é medido com equipamento próprio.
+Pano umedecido não filtra gases: serve só para poeira e fumaça.
+Se alguém cair, o resgate improvisado costuma matar mais
+uma pessoa. Chame socorro e ventile antes de agir.
+Nunca entre em cisterna ou mina com suspeita de gás só por
+curiosidade.
+
+SE NAO TIVER
+------------
+Sem medidor, trate ar parado e fundo de poço como perigosos.
+Sem incenso, use pano leve preso na entrada para ver corrente.
+Sem parceiro, não desça: combine alguém que possa chamar ajuda.
+Sem ventilação natural, abra a entrada por muito tempo ou
+desista do espaço.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você identificou cheiros, corrente e pontos de ar parado.
+Nenhum participante relatou tontura ou dor de cabeça.
+A decisão de entrar ou sair foi tomada antes de ficar difícil.
+O local ficou marcado no caderno com os sinais observados.
+
+FONTES
+------
+Orientações de segurança de defesa civil e de higiene ocupacional
+para espaços confinados, aliadas à prática de espeleologia.
+A identificação por cheiro e fumaça é apenas triagem: só
+medidores calibrados atestam a concentração de gases.

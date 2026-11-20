@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 03-008
+TITULO: Como limpar feridas corretamente
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 10 minutos
+RISCO: medio
+EXIGE: água potável corrente, sabão, pano limpo ou gaze, curativo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ferida, limpar, higienizar, infecção, curativo, sabão
+==============================================================================
+
+OBJETIVO
+--------
+Remover sujeira e bactérias de uma ferida e cobri-la para reduzir infecção.
+
+QUANDO USAR
+-----------
+Corte, arranhadura ou escoriação com sujeira visível.
+Ferida que tocou terra, ferrugem ou água suja.
+
+NAO USE QUANDO
+--------------
+Não lave com jato forte se houver objeto encravado: estabilize e cubra.
+Não lave ferida profunda no crânio, tórax ou abdome: cubra e busque ajuda.
+Não use álcool, água oxigenada ou corantes dentro da ferida aberta.
+
+MATERIAIS
+---------
+- Água potável corrente (ou água fervida e fria).
+- Sabão comum (ou sabonete neutro).
+- Gaze estéril ou pano limpo (ou camiseta limpa) para cobrir.
+- Luvas descartáveis (ou sacola plástica limpa).
+
+PROCEDIMENTO
+------------
+1. Lave as mãos com água e sabão antes de tocar na ferida.
+2. Calce luvas ou use sacola plástica limpa nas mãos.
+3. Controle o sangramento primeiro, com pressão firme e contínua.
+4. Coloque a ferida sob água corrente potável em volume abundante.
+5. Deixe a água correr de 5 a 10 minutos para retirar terra e cascalho.
+6. Esfregue suavemente a pele ao redor com sabão e as pontas dos dedos.
+7. Não esfregue o interior; retire só sujeira solta com pinça limpa.
+8. Enxugue ao redor com gaze limpa e cubra com curativo ou pano limpo.
+
+ATENCAO
+-------
+Álcool, água oxigenada e corantes danificam tecido e atrasam a cura.
+Não use algodão solto nem toque a ferida com dedos sujos.
+Se o sangramento voltar, comprima por 10 minutos sem levantar para espiar.
+Procure atendimento se a ferida for profunda, abrir, for de mordida ou
+estiver no rosto ou genital, ou se houver vermelhidão que avança, pus,
+febre ou dor que piora. Ferida com ferro enferrujado pode exigir tétano.
+
+SE NAO TIVER
+------------
+Sem água corrente: use água potável de garrafa ou água fervida e fria.
+Sem gaze: use pano limpo passado no ferro ou camiseta limpa.
+Sem sabão: lave apenas com água corrente abundante.
+Sem luvas: lave bem as mãos e use sacola plástica limpa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A ferida fica visivelmente limpa, sem terra nem cascalho.
+O sangramento parou e a pele ao redor está seca.
+
+FONTES
+------
+Prática consolidada de primeiros socorros e higiene de feridas (família
+de referências: Cruz Vermelha e OMS). Este texto é um resumo operacional
+e não substitui treinamento prático nem avaliação profissional.

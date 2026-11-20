@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 42-006
+TITULO: Como impermeabilizar embarcações de madeira
+CATEGORIA: 42 - Engenharia naval e tecnologias marítimas
+TEMPO: 180 minutos
+RISCO: alto
+EXIGE: casco seco, costuras limpas, estopa ou epóxi marítimo, colete
+REVISAO: 2026-11
+PALAVRAS-CHAVE: calafetagem, estopa, breu, epóxi, costura, casco, vedar
+==============================================================================
+
+OBJETIVO
+--------
+Fechar as costuras do casco e reduzir a entrada de água na embarcação.
+
+QUANDO USAR
+-----------
+Quando o casco de madeira deixa entrar água pelas juntas das tábuas.
+Quando a estopa velha saiu, secou ou apodreceu.
+Depois de trocar tábua, lixar o casco ou abrir a costura para reparo.
+Antes de guardar a embarcação fora d'água por muito tempo.
+Quando é preciso vedar sem esperar a madeira inchar na água.
+
+NAO USE QUANDO
+--------------
+Quando a madeira está podre, mole ou rachada no meio da tábua.
+Quando há água entrando em quantidade: bombeie e saia da água antes.
+Quando os pregos e as cavilhas estão frouxos ou faltando.
+Em casco de aço, alumínio ou fibra: este procedimento é só para madeira.
+Quando não há tempo para secar a madeira antes de aplicar epóxi.
+
+MATERIAIS
+---------
+- Estopa de algodão ou cânhamo (substituto: cordão de algodão cru).
+- Breu ou massa marítima (substituto: vedante elástico marítimo).
+- Ferro de calafetar e marreta leve (substituto: chata de madeira dura).
+- Raspador, serra fina ou lima para abrir e limpar a costura.
+- Epóxi marítimo de dois componentes, quando for usar epóxi.
+- Ripa de madeira da mesma espécie do casco, quando for usar epóxi.
+- Pincel ou rolo pequeno, pano limpo, luvas e óculos de proteção.
+- Água e sabão para limpar as ferramentas.
+- Colete salva-vidas para cada pessoa no teste.
+
+PROCEDIMENTO
+------------
+1. Retire a embarcação da água e apoie o casco em suportes largos e firmes.
+2. Espere a madeira secar: seco, o casco abre as costuras.
+3. Marque com giz as costuras onde passa água ou luz.
+4. Raspe as costuras marcadas até aparecer madeira limpa nos dois lados.
+5. Retire o breu velho, o pó e a umidade com pano limpo.
+6. Escolha: estopa e breu se o casco flexiona; epóxi se é firme.
+7. Casco que flexiona precisa de vedante flexível, não epóxi rígido.
+8. Para estopa: torça um cordão fino e embeba em breu ou massa de calafetar.
+9. Enfie o cordão com o ferro e bata com a marreta até ficar firme.
+10. Cubra a costura com massa fina e alise com a espátula.
+11. Para epóxi: misture resina e endurecedor conforme o rótulo.
+12. Pincele a costura e a ripa, pressione e deixe sobrar massa.
+13. Deixe curar pelo tempo do rótulo, sem molhar e sem manusear a peça.
+14. Cubra a face externa com epóxi se colou as costuras com epóxi.
+15. Regra: se colou as tábuas, revista por fora; se revestiu, cole.
+16. Ventile o interior para reduzir umidade e inchamento da madeira.
+17. Vede empenos, cavilhas e passagens de água com o mesmo material.
+18. Lave as ferramentas antes que a massa ou o epóxi endureça.
+19. Faça o teste em água rasa e parada, com colete para cada pessoa a bordo.
+
+ATENCAO
+-------
+Um casco que afunda mata por afogamento: nunca navegue com vazamento.
+Calafetar não conserta madeira podre nem tábua rachada: troque primeiro.
+Estopa acompanha o flex do casco; epóxi é rígido e exige secura.
+Nunca aplique epóxi sobre madeira molhada, oleosa ou com breu velho.
+Resina e endurecedor irritam pele e olhos: use luvas, óculos e ventilação.
+Não aperte a estopa a ponto de estufar a tábua nem deixe fenda sem massa.
+Se a água entrar mais rápido que a bomba retira, saia e peça ajuda.
+
+SE NAO TIVER
+------------
+Sem estopa, use cordão de algodão cru limpo; não use fibra sintética lisa.
+Sem breu, use vedante elástico marítimo; não use silicone de banheiro.
+Sem epóxi, use calafetagem com estopa e reforce a manutenção.
+Sem ferro de calafetar, use uma chata de madeira dura com borda romba.
+Sem suporte firme, não bata na costura: a madeira pode rachar.
+Sem tempo de secagem, não aplique epóxi: a umidade apodrece a madeira.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A costura ficou cheia, firme e sem fenda visível em todo o comprimento.
+A massa ou a ripa ficou nivelada com a madeira ao redor.
+Depois da cura, não aparece umidade nova na face interna do casco.
+No teste em água parada, não há bolhas nem fio de água nas costuras.
+O interior continua seco depois de algumas horas de flutuação.
+
+FONTES
+------
+Manual de reparo de embarcações com epóxi da WEST SYSTEM, seções sobre
+limpeza de costuras, colagem de ripas e revestimento externo do casco.
+Prática consolidada de calafetagem tradicional com estopa, algodão, breu
+e piche, sem documento único. Resumo operacional; não substitui treinamento
+nem vistoria de profissional.

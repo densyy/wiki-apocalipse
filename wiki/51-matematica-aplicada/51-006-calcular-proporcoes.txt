@@ -1,0 +1,71 @@
+==============================================================================
+CODIGO: 51-006
+TITULO: Como calcular proporções
+CATEGORIA: 51 - Matemática aplicada à sobrevivência
+TEMPO: 15 minutos
+RISCO: baixo
+EXIGE: papel, lápis, os valores conhecidos do problema
+REVISAO: 2026-11
+PALAVRAS-CHAVE: proporção, regra de três, razão, escala, dose, multiplicar
+==============================================================================
+
+OBJETIVO
+--------
+Calcular uma quantidade desconhecida a partir de uma razão conhecida.
+
+QUANDO USAR
+-----------
+Ao aumentar ou reduzir uma receita ou mistura.
+Ao adaptar uma quantidade indicada em rótulo para outra quantidade.
+Ao medir distância em mapa que tem escala.
+Ao dividir suprimentos em partes proporcionais.
+
+NAO USE QUANDO
+--------------
+Não substitua a dose de remédio ou agrotóxico indicada em rótulo.
+O mesmo vale para combustível: siga a instrução do rótulo.
+A conta de proporção é apenas auxiliar nesses casos.
+
+MATERIAIS
+---------
+- Papel e lápis (ou qualquer superfície para anotar).
+- Os valores conhecidos do problema.
+- A razão de referência, escrita ou lembrada com segurança.
+
+PROCEDIMENTO
+------------
+1. Escreva a razão (comparação de duas quantidades) como fração: A/B.
+2. Marque com uma letra a incógnita, o valor que falta descobrir.
+3. Escreva a segunda razão com a incógnita no lugar do valor desconhecido.
+4. Monte a igualdade: razão conhecida igual à razão com a incógnita.
+5. Multiplique em cruz: o de cima de uma razão pelo de baixo da outra.
+6. Divida o produto conhecido pelo número que acompanha a incógnita.
+7. Escreva o resultado com a unidade correta e veja se faz sentido.
+
+ATENCAO
+-------
+A conta só vale se as razões compararem as mesmas grandezas na mesma ordem.
+Trocando a ordem dos termos, o resultado sai errado.
+Não use o resultado como dose de remédio ou químico sem conferir a fonte.
+Números aproximados geram resultados aproximados; arredonde com critério.
+Se o denominador for zero, a conta não existe: revise os dados medidos.
+Quando a situação real não foi medida, pare e meça antes de calcular.
+
+SE NAO TIVER
+------------
+Sem papel, faça a conta em voz alta ou com graveto na terra.
+Sem lápis, use carvão ou pedra.
+Sem a razão original, não dá para calcular.
+Meça os valores ou pergunte a referência antes.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ao trocar a incógnita pelo resultado, as duas razões ficam iguais.
+O valor tem a unidade e o sentido esperados.
+
+FONTES
+------
+Prática consolidada de matemática básica: proporcionalidade e regra de três,
+parte do currículo de matemática elementar.
+Este texto é um resumo operacional e não substitui treinamento
+nem instruções específicas de segurança.

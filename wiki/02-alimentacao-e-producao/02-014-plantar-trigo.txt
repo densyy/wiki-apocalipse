@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 02-014
+TITULO: Como plantar trigo
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: semente de trigo, terra preparada, enxada, adubo, água limpa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: trigo, plantar, semente, semeadura, cereal, farinha, safra
+==============================================================================
+
+OBJETIVO
+--------
+Instalar uma lavoura de trigo com estande uniforme e boa chance de colheita.
+
+QUANDO USAR
+-----------
+Quando o solo estiver úmido, solto e sem encharcar, de maio a julho no Sul.
+Quando houver semente de boa procedência e área limpa de mato.
+
+NAO USE QUANDO
+--------------
+Quando o solo encharcar: a semente apodrece e a plântula morre.
+Quando houver risco de geada no espigamento ou na floração.
+Onde houver esgoto, óleo, agrotóxico ou seca sem água para irrigar.
+
+MATERIAIS
+---------
+- Semente certificada, limpa, sem mofo (guardada só com vigor conhecido).
+- Enxada ou semeadora; adubo e calcário conforme análise de solo.
+- Água limpa; cordel e estacas para alinhar fileiras (opcional).
+
+PROCEDIMENTO
+------------
+1. Faça análise de solo e corrija o pH com calcário se abaixo de 6,0.
+2. Limpe a área de mato e espere o solo ficar úmido, sem encharcar.
+3. Trate a semente com fungicida para trigo se o vigor for baixo.
+4. Marque fileiras de 17 cm a 20 cm com cordel e estacas.
+5. Abra sulco de 2 cm a 5 cm: 2 a 3 cm no argiloso e 5 cm no solo leve.
+6. Distribua cerca de 300 sementes aptas por metro quadrado, ou 120 kg/ha.
+7. Aplique 15 kg a 20 kg de nitrogênio por hectare e deixe o adubo 5 cm ao
+   lado da semente, sem encostar nela, para não queimar a plântula.
+8. Cubra com terra fina, pressione e retire o excesso de palha da linha.
+9. Aplique o restante do nitrogênio em cobertura 30 a 45 dias após brotar.
+10. Irrigue se não chover nos dias seguintes; mantenha úmido, sem poças.
+
+ATENCAO
+-------
+Solo encharcado apodrece a semente e favorece o mosaico-comum-do-trigo.
+Adubo na semente queima a raiz; profundidade irregular causa falhas.
+Geada na floração mata a espiga: siga o zoneamento e escalone o plantio.
+Semente tratada é tóxica: use luvas e lave as mãos ao terminar.
+
+SE NAO TIVER
+------------
+Sem análise, use composto curtido e observe a planta; não improvise dose.
+Sem semeadora, abra sulcos com enxada e espalhe a semente à mão.
+Sem água e sem chuva, espere. Sem fungicida, evite área com doença.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Brotas verdes surgem em aproximadamente 5 a 10 dias, em solo úmido e fresco.
+A emergência é uniforme, com cerca de 300 plantas por metro quadrado.
+
+FONTES
+------
+Embrapa Trigo, Semeadura: 300 a 330 sementes por metro quadrado, fileiras de
+17 a 20 cm e profundidade de 2 a 5 cm; folheto Cultivares de Trigo (2013).
+Embrapa, Calagem e Adubação: 15 a 20 kg de N por hectare na semeadura e
+restante em cobertura; Mapa, ZARC trigo; Embrapa, tratamento de sementes.

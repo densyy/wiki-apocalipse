@@ -1,0 +1,94 @@
+==============================================================================
+CODIGO: 17-019
+TITULO: Como identificar áreas seguras para habitação
+CATEGORIA: 17 - Meteorologia, clima e meio ambiente
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: caderno, lápis, mapa local, estacas, lanterna
+REVISAO: 2026-11
+PALAVRAS-CHAVE: terreno, casa, encosta, enchente, deslizamento, rachadura
+==============================================================================
+
+OBJETIVO
+--------
+Escolher um lugar para morar com menos risco de deslizamento,
+enchente, incêndio e colapso de estruturas.
+
+QUANDO USAR
+-----------
+Ao trocar de moradia depois de chuva forte ou desastre.
+Ao montar abrigo improvisado em área desconhecida.
+Ao escolher o terreno para reconstruir uma casa.
+Antes de aceitar um terreno oferecido ou ocupado.
+
+NAO USE QUANDO
+--------------
+Não use para decidir moradia definitiva sem avaliação técnica.
+Não use em área interditada ou com ordem de saída da Defesa Civil.
+Não use para substituir mapa oficial, carta geotécnica ou laudo.
+Não invada área de preservação ou terra de terceiros.
+
+MATERIAIS
+---------
+- Caderno e lápis para desenhar o terreno e anotar sinais.
+- Mapa local ou carta geotécnica, se houver (pedir na prefeitura
+  ou na Defesa Civil).
+- Estacas ou pedras para marcar pontos; fita ou corda para medir.
+- Lanterna para ver o solo ao entardecer e rádio para avisos.
+
+PROCEDIMENTO
+------------
+1. Procure o mapa de risco do município antes de ir ao terreno.
+2. Pergunte à Defesa Civil e a moradores antigos se o local já
+   alagou, rachou ou deslizou.
+3. Vá ao terreno em dia seco e, se possível, depois de chuva forte.
+4. Olhe o terreno de cima, de baixo e dos dois lados.
+5. Descarte fundo de vale e margem de rio, córrego ou dreno.
+6. Descarte área onde a água da chuva corre para o terreno
+   ou fica parada em poças depois da chuva.
+7. Descarte encostas íngremes, com solo exposto ou sem vegetação.
+8. Procure rachaduras no solo, nas paredes e no piso.
+9. Observe árvores inclinadas, postes tortos e cercas deformadas.
+10. Observe muros rachados ou empurrados para baixo.
+11. Afaste-se de árvore grande, poste e linha de energia.
+12. Afaste-se de depósito de lixo, aterro, mina e indústria.
+13. Marque com estaca a água parada e as rachaduras.
+14. Desenhe no caderno o terreno, as marcas e a direção da água.
+15. Volte no dia seguinte; se aparecer rachadura nova, saia.
+16. Escolha o ponto mais alto, plano e seco entre os candidatos.
+
+ATENCAO
+-------
+Nenhuma observação caseira garante que um terreno é seguro.
+A água pode subir depressa e uma encosta pode ceder sem aviso.
+O solo pode estar oco por baixo, mesmo com grama por cima.
+Não confie só em muro, dique ou dreno: eles podem falhar.
+Rachadura que cresce ou água turva pede saída imediata.
+Em risco de deslizamento ou enchente, saia; não fique observando.
+Crianças e idosos devem ficar fora da área na avaliação.
+
+SE NAO TIVER
+------------
+Sem mapa, pergunte a quem mora no local há mais anos.
+Sem rádio, ouça avisos de vizinhos e da autoridade local.
+Sem estaca, use pedras ou galhos para marcar os pontos.
+Sem fita, meça com passos e diga que a medida é aproximada.
+Sem lanterna, faça a inspeção com luz do dia.
+Se não houver outro terreno, procure abrigo coletivo ou ajuda.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O ponto ficou seco depois da chuva, longe da margem d'água
+e de encosta, sem rachadura nova ou sinal de movimento do solo.
+O desenho mostra a água correndo para longe e os perigos marcados.
+A autoridade local confirmou que o local não está interditado.
+
+FONTES
+------
+USGS, Programa de Riscos de Deslizamento: "Landslide Basics"
+(2024) e "The Landslide Handbook" (Highland e Bobrowsky, 2008).
+FEMA: "Know Your Flood Risk", sobre mapas e zonas de inundação.
+Defesa Civil do Estado de São Paulo: Cartas Geotécnicas e
+o sistema de alertas SP Sempre Alerta.
+Prática consolidada de inspeção visual; resumo operacional,
+não substitui avaliação técnica.

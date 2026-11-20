@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 42-001
+TITULO: Como aplicar os fundamentos da construção naval
+CATEGORIA: 42 - Engenharia naval e tecnologias marítimas
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: caderno, lápis, fita métrica, água rasa e parada para o teste
+REVISAO: 2026-11
+PALAVRAS-CHAVE: casco, flutuabilidade, estabilidade, lastro, jangada
+==============================================================================
+
+OBJETIVO
+--------
+Ao terminar, o leitor consegue dimensionar e conferir uma embarcação
+simples quanto a flutuabilidade, estabilidade e borda livre.
+
+QUANDO USAR
+-----------
+Quando for construir uma jangada, bote ou plataforma flutuante.
+Quando precisar definir o tamanho do casco para uma carga conhecida.
+Quando a embarcação improvisada adernar ou parecer instável.
+Quando for distribuir pessoas e suprimentos dentro do casco.
+Quando precisar conferir o casco antes de entrar na água.
+
+NAO USE QUANDO
+--------------
+Quando a navegação for em mar aberto, correnteza, vento forte ou
+ondas. Estes fundamentos não substituem cálculo de projeto,
+certificação, ensaio de estabilidade nem colete salva-vidas.
+
+MATERIAIS
+---------
+- Caderno e lápis para anotar pesos, medidas e conceitos.
+- Fita métrica ou corda com nós (substituto: palmo da mão).
+- Referência de peso conhecida (substituto: lata de um litro de água).
+- Pedras ou areia em sacos para lastro.
+- Tábuas ou lona para dividir o interior em compartimentos.
+- Água rasa, parada e colete salva-vidas para cada pessoa.
+
+PROCEDIMENTO
+------------
+1. Some em quilogramas o peso do casco vazio, das pessoas e dos suprimentos.
+2. Divida o peso total por aproximadamente 1000 para obter metros cúbicos.
+3. Esse valor é o volume mínimo de água que o casco precisa deslocar.
+4. Projete o casco maior que o mínimo, para sobrar borda livre.
+5. Anote: borda livre é a faixa seca entre a linha d'água e a borda.
+6. Prefira casco largo e raso a casco estreito e alto.
+7. Anote: metacentro é onde o empuxo atua quando o casco aderna.
+8. Mantenha o centro de gravidade baixo: ponha lastro no fundo e no centro.
+9. Anote: centro de gravidade é onde o peso total do casco atua.
+10. Amarre cada peso ao casco para impedir que deslize na inclinação.
+11. Encha os recipientes internos por completo ou deixe-os vazios.
+12. Anote: superfície livre é líquido solto que corre ao lado baixo.
+13. Divida o interior em compartimentos com anteparas estanques.
+14. Anote: antepara estanque impede a água de passar entre compartimentos.
+15. Teste em água rasa e parada, com colete salva-vidas para cada pessoa.
+16. Sente-se no centro e incline o tronco devagar para um lado.
+17. Observe se a borda afunda e volta sozinha; se não voltar, pare o teste.
+18. Corrija antes de navegar: baixe pesos, reduza carga ou alargue o casco.
+
+ATENCAO
+-------
+Um casco mal dimensionado pode afundar e matar por afogamento.
+Estes fundamentos não substituem cálculo de engenheiro nem ensaio real.
+Nunca navegue em correnteza, vento forte ou ondas com casco improvisado.
+Carga solta, pessoas em pé e líquido meio cheio deslocam o centro de
+gravidade e podem tombar a embarcação.
+Se o casco adernar e não voltar, deite-se no centro e descarte peso alto.
+Use colete salva-vidas sempre, inclusive no teste em água rasa.
+Se entrar água no casco, saia imediatamente e procure ajuda.
+
+SE NAO TIVER
+------------
+Sem fita métrica, use palmos ou um cordão com nós e anote a medida.
+Sem balança, use latas de um litro cheias de água como peso de referência.
+Sem lastro, encha sacos de areia ou pedras e prenda-os no fundo.
+Sem tábuas para anteparas, não deixe líquido solto em compartimento algum.
+Sem água calma para testar, não navegue: procure ajuda ou outro meio.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Com a carga completa, a borda do casco continua seca em todo o contorno.
+O casco flutua na horizontal, sem adernar para nenhum lado.
+Ao inclinar o tronco, a borda afunda e volta sozinha à posição original.
+A água não entra pelas bordas nem passa entre os compartimentos.
+Os pesos e o lastro continuam presos e imóveis após a inclinação.
+
+FONTES
+------
+Encyclopaedia Britannica, artigo Naval architecture: seções Weight and
+buoyancy, Metacentric stability, Freeboard e Subdivision.
+Organização Marítima Internacional: Código Internacional de Estabilidade
+sem Avarias de 2008 e Convenção sobre Linhas de Carga de 1966.
+Princípio de Arquimedes e densidade da água: referência consolidada.
+Resumo operacional; não substitui treinamento em arquitetura naval.

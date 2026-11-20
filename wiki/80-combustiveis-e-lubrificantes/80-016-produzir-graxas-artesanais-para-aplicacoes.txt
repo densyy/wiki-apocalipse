@@ -1,0 +1,81 @@
+==============================================================================
+CODIGO: 80-016
+TITULO: Como produzir graxas artesanais para aplicações simples
+CATEGORIA: 80 - Produção de combustíveis e lubrificantes
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: óleo vegetal, cera ou sabão, recipiente resistente ao calor
+REVISAO: 2026-11
+PALAVRAS-CHAVE: graxa, cera de abelha, sabão, rolamento, consistência
+==============================================================================
+
+OBJETIVO
+--------
+Preparar uma graxa-consistência para rolamentos e peças de baixa rotação.
+
+QUANDO USAR
+-----------
+Em rolamentos de roda de carriola e de portão.
+Em manivelas, parafusos de ajuste e trilhos expostos.
+Quando o óleo escorre e não permanece no local de contato.
+Para vedar e lubrificar ao mesmo tempo em peças pequenas.
+
+NAO USE QUANDO
+--------------
+Não use em rolamento de alta rotação nem em caixa selada quente.
+Não use em freio, embreagem ou superfície de atrito de segurança.
+Não use graxa caseira em equipamento com garantia ou norma exigida.
+Não prepare perto de chama livre: a mistura é inflamável.
+
+MATERIAIS
+---------
+- Óleo vegetal limpo ou óleo mineral leve (80-015).
+- Cera de abelha pura ou sabão de toucinho sem perfume.
+- Recipiente metálico de parede grossa e colher de metal.
+- Fonte de calor indireta: banho-maria ou placa elétrica.
+- Termômetro de cozinha e pano de algodão.
+- Pote com tampa para guardar e etiqueta.
+
+PROCEDIMENTO
+------------
+1. Escolha a proporção inicial: uma parte de cera para quatro de óleo.
+2. Derreta a cera em banho-maria, sem fogo direto.
+3. Adicione o óleo aos poucos, mexendo sem parar.
+4. Aqueça até a mistura ficar líquida e uniforme.
+5. Não ultrapasse cerca de 120 graus para não queimar.
+6. Se usar sabão, acrescente um pouco e dissolva bem.
+7. Retire do calor e continue mexendo até começar a engrossar.
+8. Despeje em pote limpo ainda morno e fluido.
+9. Deixe esfriar sem mexer para firmar a textura.
+10. Feche o pote quando estiver completamente frio.
+11. Rotule com data, composição e aplicação permitida.
+12. Aplique uma camada fina na peça limpa e sem óleo velho.
+13. Gire a peça para distribuir e retire o excesso com pano.
+14. Repita a aplicação conforme o desgaste da peça.
+
+ATENCAO
+-------
+Cera e óleo são inflamáveis: nunca aqueça em chama aberta.
+Calor excessivo escurece a graxa e cria cheiro desagradável.
+Graxa muito dura não lubrifica; muito mole escorre e suja.
+Sabão em excesso pode corroer metais e atrair umidade.
+Não misture graxas de bases diferentes sem teste prévio.
+A graxa caseira tem vida curta: descarte se mudar de cheiro.
+
+SE NAO TIVER
+------------
+Sem cera, use sabão natural puro como espessante.
+Sem banho-maria, aqueça em fogo muito baixo com vigilância total.
+Sem termômetro, observe: não deixe a mistura fumar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A graxa fica uniforme, sem grãos nem camadas separadas.
+Ela permanece no local aplicado após alguns minutos.
+A peça gira com menos atrito e sem ruído de metal seco.
+Não há cheiro queimado nem escurecimento da mistura.
+
+FONTES
+------
+Prática artesanal de formulação de graxas com espessantes naturais e
+noções de manutenção mecânica de baixa carga. Leitura extra: 80-015.

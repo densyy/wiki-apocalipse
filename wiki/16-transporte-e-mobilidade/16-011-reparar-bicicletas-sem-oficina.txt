@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 16-011
+TITULO: Como reparar bicicletas sem oficina
+CATEGORIA: 16 - Transporte e mobilidade
+TEMPO: 45 minutos
+RISCO: alto
+EXIGE: kit de remendo, alavancas de pneu, bomba, chave sextavada
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bicicleta, pneu furado, remendo, freio, válvula, reparo
+==============================================================================
+
+OBJETIVO
+--------
+Consertar um pneu furado e conferir os freios na rua, sem oficina.
+
+QUANDO USAR
+-----------
+Quando o pneu fica mole após passar sobre objeto cortante.
+Quando a bicicleta ficou parada muito tempo e os pneus perderam ar.
+Quando o freio está mole, raspando ou fazendo ruído antes de uma saída.
+Quando não há oficina por perto e é preciso chegar até a casa.
+
+NAO USE QUANDO
+--------------
+Quando o pneu estiver rasgado, a roda empenada ou o quadro rachado.
+Não tente endireitar quadro, soldar garfo ou ajustar freio hidráulico.
+Se aparecer rachadura no quadro ou no garfo, pare e não continue montando.
+
+MATERIAIS
+---------
+- Kit de remendo com adesivo e remendos (ou câmara nova).
+- Duas alavancas de pneu.
+- Bomba de ar com bico para o tipo de válvula da câmara.
+- Pano, água e giz ou caneta para marcar o furo.
+- Chave sextavada e chave de boca para os parafusos do freio.
+
+PROCEDIMENTO
+------------
+1. Apoie a bicicleta de lado, com a roda afetada para cima.
+2. Afrouxe as porcas do eixo ou abra o fecho rápido para tirar a roda.
+3. Esvazie a câmara até não sair mais ar, pressionando o bico da válvula.
+4. Empurre a borda do pneu para o centro da roda, de ambos os lados.
+5. Enfique uma alavanca sob a borda do pneu e puxe em direção aos raios.
+6. Enfique a segunda alavanca a cerca de 3 cm da primeira e puxe as duas.
+7. Solte uma alavanca, desloque-a e repita até a borda sair por completo.
+8. Retire a câmara de dentro do pneu, começando pelo lado oposto à válvula.
+9. Encha a câmara até ficar com o dobro da largura normal para achar o furo.
+10. Ouça a câmara ou passe-a na água e veja onde saem bolhas.
+11. Marque quatro pontos ao redor do furo, sem tocar nele.
+12. Lixe levemente a área ao redor do furo com a lixa do kit.
+13. Limpe a área com pano limpo e espere secar por completo.
+14. Retire o remendo da película sem tocar na face adesiva.
+15. Centralize o remendo sobre o furo e pressione do centro para as bordas.
+16. Mantenha a pressão por mais de um minuto, apertando bem as bordas.
+17. Confira se todas as bordas do remendo ficaram coladas.
+18. Coloque a câmara dentro do pneu com a válvula no furo da roda.
+19. Ajuste a válvula reta, apontando para o centro da roda.
+20. Encaixe uma borda do pneu de cada vez, com as mãos, sem forçar.
+21. Confira se a câmara não ficou presa entre a borda e a roda.
+22. Encha até a pressão indicada na lateral do pneu, sem passar do limite.
+23. Gire a roda e veja se o pneu assentou por igual dos dois lados.
+24. Pressione cada alavanca: deve haver resistência antes do guidão.
+25. Confira se as pastilhas tocam a faixa de frenagem e não o pneu.
+26. Gire a roda e puxe o freio: ela deve parar reta, sem raspão.
+27. Reinstale a roda e aperte as porcas ou o fecho rápido com firmeza.
+
+ATENCAO
+-------
+Um remendo mal colado pode soltar e deixar a roda sem ar de novo.
+Não teste o remendo enchendo a câmara fora do pneu: o adesivo pode ceder.
+Não use chave de fenda, faca ou objeto cortante para tirar o pneu.
+Pastilha gasta, cabo frouxo ou roda empenada não se resolve na rua.
+Se o freio não travar a roda com firmeza, não monte: procure uma oficina.
+Rachadura no quadro, no garfo ou na roda exige oficina e peça nova.
+Pressão baixa belisca a câmara e gera outro furo.
+
+SE NAO TIVER
+------------
+Sem câmara nova, use o kit de remendo: é provisório, troque a câmara depois.
+Sem bomba, use inflador de posto e pare na pressão da lateral do pneu.
+Sem alavancas, tire o pneu com as mãos; se não sair, pare e não use faca.
+Sem água, ache o vazamento pelo ouvido ou pela pele sensível do lábio.
+Sem cola do kit, não use cola comum ou fita: o remendo pode soltar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A câmara não perde ar depois de enchida e a roda gira reta, sem saltos.
+As duas alavancas de freio oferecem resistência antes de encostar no guidão.
+Ao girar a roda e puxar o freio, ela para reta, sem raspão.
+
+FONTES
+------
+Prática consolidada de manutenção de bicicletas em situação de emergência.
+Referência consultada: guia de reparo Park Tool, artigos sobre remendo
+de câmara, remoção e instalação de pneu e ajuste de freios.

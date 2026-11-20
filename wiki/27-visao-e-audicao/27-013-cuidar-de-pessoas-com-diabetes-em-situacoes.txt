@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 27-013
+TITULO: Como cuidar de pessoas com diabetes em situações extremas
+CATEGORIA: 27 - Visão, audição e necessidades especiais
+TEMPO: 20 minutos
+RISCO: alto
+EXIGE: insumos da pessoa, medidor de glicemia, água e alimento
+REVISAO: 2026-11
+PALAVRAS-CHAVE: diabetes, glicemia, insulina, hipoglicemia, açúcar, crise
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer e agir nas emergências do diabetes quando faltam energia,
+geladeira ou atendimento imediato.
+
+QUANDO USAR
+-----------
+Quando faltar energia, geladeira ou medidor de glicemia.
+Quando a pessoa usa insulina ou remédio que baixa o açúcar.
+Quando houver calor intenso, frio extremo ou desidratação.
+Quando a pessoa estiver doente, vomitando ou com diarreia.
+Quando o atendimento médico estiver demorando a chegar.
+
+NAO USE QUANDO
+--------------
+Não use no lugar de atendimento médico. Não mude dose de insulina
+nem trate perda de consciência apenas com este texto.
+
+MATERIAIS
+---------
+- Insulina e agulhas da pessoa, sem compartilhar com ninguém.
+- Medidor de glicemia e fitas (se faltarem, use só os sinais e a fala).
+- Água potável e alimento que não precise de geladeira.
+- Açúcar, mel, suco de fruta ou tablete de glicose (o que houver).
+- Glucagon, se a pessoa tiver e alguém souber usar.
+- Caderno e lápis para anotar valores e horários.
+- Pano limpo e recipiente com água para os pés.
+- Lista escrita com remédios, doses, alergias e contatos.
+
+PROCEDIMENTO
+------------
+1. Pergunte o tipo de diabetes, os remédios e a dose habitual da pessoa.
+2. Confira última dose, última refeição e último valor medido.
+3. Meça a glicemia se houver medidor e anote o valor com o horário.
+4. Observe sinais de açúcar baixo: tremor, suor, tontura, fome,
+   palidez, confusão ou irritabilidade.
+5. Trate como hipoglicemia se houver sinais ou glicemia abaixo de 70 mg/dL.
+6. Dê aproximadamente 15 g de carboidrato de ação rápida: tablete
+   de glicose, açúcar ou mel dissolvido em água, ou suco de fruta.
+7. Espere 15 minutos e meça ou observe de novo.
+8. Repita uma vez se os sinais continuarem ou o valor ainda estiver baixo.
+9. Não dê nada pela boca a quem não acorda ou não engole.
+10. Vire a pessoa de lado e peça ajuda médica imediata nesse caso.
+11. Se houver glucagon e souber aplicar, use conforme orientação.
+12. Se não acordar, ligue ao SAMU (192) e informe diabetes.
+13. Ofereça água em goles, sem forçar, se estiver acordada.
+14. Continue os remédios prescritos nos horários habituais.
+15. Nunca dobre nem pule dose de insulina sem orientação médica.
+16. Mantenha a insulina em lugar fresco e sombreado, longe do sol e do fogo.
+17. Não use insulina que congelou ou ficou exposta a calor intenso.
+18. Lave e seque os pés todo dia e cubra qualquer corte com pano limpo.
+
+ATENCAO
+-------
+A hipoglicemia pode levar ao coma em minutos; trate ao primeiro sinal.
+Nunca dê alimento ou líquido pela boca a quem não engole: risco de engasgo.
+Dose errada de insulina pode causar hipoglicemia grave; não improvise.
+Calor, febre, vômito e desidratação alteram a glicemia; vigie mais de perto.
+Insulina congelada ou superaquecida pode perder o efeito; não use.
+Ferida no pé pode infeccionar sem dor; inspecione todos os dias.
+Nunca compartilhe agulhas: risco de infecção.
+Confusão, vômito, respiração ofegante ou desmaio: busque atendimento.
+
+SE NAO TIVER
+------------
+Sem medidor, trate pelos sinais e pelo que a pessoa relatar.
+Sem tablete de glicose, use açúcar, mel ou suco disponíveis.
+Sem geladeira, guarde a insulina em local fresco, nunca congelada.
+Sem glucagon, acione ajuda médica; não substitua por alimento se a
+pessoa estiver inconsciente.
+Sem ajuda por perto, organize transporte até o atendimento mais próximo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A glicemia medida volta para a faixa combinada com a pessoa.
+Tremor, suor e confusão desaparecem em cerca de 15 minutos
+após o açúcar rápido.
+A pessoa volta a engolir e a responder com clareza.
+Os pés ficam limpos, secos e sem ferida aberta.
+
+FONTES
+------
+American Diabetes Association, página sobre hipoglicemia: glicemia
+abaixo de 70 mg/dL, regra 15/15 (15 g de carboidrato rápido, reavaliar
+em 15 minutos) e glucagon na forma grave. As demais orientações são
+prática consolidada de cuidado em emergências, sem documento único
+consultado. Resumo operacional, não substitui treinamento médico.

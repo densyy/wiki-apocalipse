@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 04-021
+TITULO: Como conectar baterias em série
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: baterias iguais, cabos grossos, multímetro, luvas e óculos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bateria, série, tensão, 12v, 24v, cabo, multímetro
+==============================================================================
+
+OBJETIVO
+--------
+Somar a tensão de baterias iguais ligadas em cadeia.
+Série é essa ligação em cadeia: as tensões se somam.
+
+QUANDO USAR
+-----------
+Quando o aparelho exigir 24 V e houver duas baterias de 12 V.
+Quando o inversor ou controlador pedir tensão maior que a de uma
+bateria.
+Quando for montar um banco de baterias para um sistema isolado.
+Quando todas as baterias forem iguais em tipo, tensão e
+capacidade.
+
+NAO USE QUANDO
+--------------
+Se as baterias tiverem tensão, capacidade, tipo ou idade
+diferentes.
+Com bateria inchada, rachada, vazando ou com polo derretido.
+Em local fechado sem ventilação ou perto de chama e faísca.
+Com cabo fino, rachado, emendado ou terminal folgado.
+Sob chuva ou com as mãos molhadas nos terminais.
+
+MATERIAIS
+---------
+- Duas ou mais baterias iguais em tipo, tensão e capacidade.
+- Cabos grossos de corrente contínua com terminais firmes.
+- Chave do tamanho das porcas dos polos com cabo isolado.
+- Multímetro ajustado para tensão contínua.
+- Luvas isolantes secas e óculos de proteção.
+- Água limpa e pano para limpar respingo de ácido.
+
+PROCEDIMENTO
+------------
+1. Desligue todas as cargas e o carregador antes de começar.
+2. Calce luvas isolantes e óculos de proteção.
+3. Retire anéis, relógio, correntes e pulseiras de metal.
+4. Confira na etiqueta a tensão e a capacidade de cada bateria.
+5. Use só baterias do mesmo tipo, tensão, capacidade e idade.
+6. Posicione as baterias lado a lado em local firme e ventilado.
+7. Identifique o polo positivo (+) e o negativo (-) de cada uma.
+8. Ligue o negativo (-) de uma bateria ao positivo (+) da
+seguinte.
+9. Repita a ligação até formar uma única fila de baterias.
+10. Deixe um positivo livre na primeira e um negativo na última.
+11. Aperte cada terminal até ficar firme, sem forçar além disso.
+12. Meça a tensão entre as duas pontas livres com o multímetro.
+13. Compare a medida com a soma aproximada das etiquetas.
+14. Ligue as duas pontas livres à carga respeitando a polaridade.
+15. Confira se nada esquenta, chia ou solta faísca em uso.
+
+ATENCAO
+-------
+Curto entre polos derrete metal, causa queimadura grave e fogo.
+Nunca encoste ferramenta metálica nos dois polos ao mesmo tempo.
+Bateria libera hidrogênio, gás sem cheiro que explode com faísca.
+Nunca fume nem aproxime chama, faísca ou calor das baterias.
+Ácido de bateria queima pele e olhos; não toque em vazamento sem
+luvas.
+Em contato com ácido, lave com água corrente em abundância.
+Ligação em série não aumenta a capacidade em amperes-hora.
+Se houver cheiro forte, aquecimento ou inchaço, desligue tudo e
+afaste-se.
+Este método não conserta bateria danificada ou descarregada.
+
+SE NAO TIVER
+------------
+Sem multímetro, confira etiquetas e polaridade com atenção
+redobrada.
+Sem cabo grosso, não use fio fino comum: ele esquenta e incendeia.
+Sem luvas isolantes, use pano bem seco e ferramenta isolada.
+Sem baterias iguais, não faça a série: use uma bateria só por vez.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O multímetro mostra aproximadamente a soma das tensões.
+O aparelho alimentado liga e funciona na tensão esperada.
+Nenhum terminal esquenta, chia ou solta faísca em uso.
+
+FONTES
+------
+Guia de ligações de bancos de baterias da fabricante Discover
+Battery; manual técnico de baterias solares da fabricante Moura;
+manuais de baterias estacionárias da fabricante Intelbras; ficha
+de segurança de bateria chumbo-ácida das Indústrias Tudor;
+orientações de configuração em série da fabricante Power-Sonic;
+prática consolidada de segurança elétrica em corrente contínua.

@@ -1,0 +1,92 @@
+==============================================================================
+CODIGO: 17-014
+TITULO: Como proteger plantações contra calor extremo
+CATEGORIA: 17 - Meteorologia, clima e meio ambiente
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: tela de sombreamento, cobertura morta, água
+REVISAO: 2026-11
+PALAVRAS-CHAVE: calor, sombra, cobertura morta, rega, murcha, hortaliça
+==============================================================================
+
+OBJETIVO
+--------
+Reduzir o estresse térmico e proteger a colheita em ondas de calor.
+
+QUANDO USAR
+-----------
+Quando a previsão indicar dias de calor intenso e pouca chuva.
+Quando as folhas murcham no meio do dia, mesmo com solo úmido.
+Quando o plantio cai em época naturalmente quente.
+Quando a horta fica exposta ao sol direto por muitas horas.
+
+NAO USE QUANDO
+--------------
+Não cubra solo encharcado com palha: isso favorece apodrecimento.
+Não molhe folhas em pleno sol: agrava a queima e gasta água.
+Não use sombreamento denso em plantas de sol pleno sem retirar aos poucos.
+
+MATERIAIS
+---------
+- Tela de sombreamento ou pano claro, sem plástico escuro.
+- Palha, folhas secas, serragem ou aparas para a cobertura morta.
+- Estacas e corda para sustentar a tela.
+- Regador ou mangueira com água limpa.
+- Recipiente tampado para guardar água extra.
+- Termômetro de ar ou de solo, se houver.
+
+PROCEDIMENTO
+------------
+1. Meça a temperatura do ar ao meio-dia, na sombra, por três dias.
+2. Anote a hora em que as folhas começam a murchar.
+3. Cubra o solo ao redor das plantas com palha ou folhas secas.
+4. Deixe uma faixa de solo livre junto ao caule.
+5. Estique a tela acima das plantas, sem encostar nas folhas.
+6. Prenda a tela nas estacas com folga para o ar circular por baixo.
+7. Regue no início da manhã ou no fim da tarde, nunca sob sol forte.
+8. Molhe o solo junto às raízes, não as folhas.
+9. Guarde água extra em recipiente tampado para os dias mais quentes.
+10. Colha cedo e mantenha o produto fora do sol até guardá-lo.
+11. Observe folhas e botões todos os dias durante a onda de calor.
+12. Retire a tela aos poucos quando a temperatura normalizar.
+
+ATENCAO
+-------
+A maioria das hortaliças prefere entre 18 °C e 25 °C, segundo a Embrapa.
+Acima disso, tomate e pimentão podem parar de florir e de frutificar.
+Folhosas como alface e couve queimam mais rápido pela grande área de folha.
+Calor intenso aumenta a evaporação, a demanda de água e o risco
+de salinização do solo.
+Regar no meio do dia queima folhas e gasta água.
+Regue só em horas frescas.
+Palha seca perto de fogo pode pegar fogo: mantenha longe de chamas.
+Sombra demais reduz a floração e deixa as plantas fracas.
+Use tela que deixe passar luz e retire aos poucos.
+Se as folhas ficarem queimadas, secas ou enroladas por vários dias,
+a colheita pode ser perdida.
+Procure orientação técnica local se o calor persistir ou aparecerem pragas.
+
+SE NAO TIVER
+------------
+Sem tela, improvise sombra com pano claro, esteira, palha ou galhos.
+Não use plástico escuro: ele esquenta e pode cozinhar as folhas.
+Sem palha, use folhas secas, serragem limpa ou papel sem tinta.
+Sem água corrente, reutilize água de lavar alimentos, sem sabão.
+Se não houver sombra nem água, reduza as plantas e priorize as folhosas.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O solo sob a cobertura fica úmido por mais tempo depois da rega.
+As folhas ficam eretas no início da manhã, sem bordas queimadas.
+A temperatura sob a tela é menor que a do solo descoberto ao meio-dia.
+Há botões florais e frutos pequenos se formando durante o calor.
+
+FONTES
+------
+Embrapa Hortaliças: diretrizes de adaptação da olericultura ao El Niño
+e ao calor extremo (2026).
+FAO: "The heat is on", exemplos práticos contra calor extremo
+na agricultura (2026).
+FAO: material de cobertura e telas de sombreamento no cultivo protegido.
+Prática consolidada de horticultura; este resumo não substitui
+orientação técnica local.

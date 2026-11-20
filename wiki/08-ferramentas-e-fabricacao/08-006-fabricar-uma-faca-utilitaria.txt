@@ -1,0 +1,92 @@
+==============================================================================
+CODIGO: 08-006
+TITULO: Como fabricar uma faca utilitária
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 2 a 3 horas
+RISCO: alto
+EXIGE: lima plana de aço carbono, esmeril, pedra de afiar, óculos, luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: faca, lima, aço, gume, afiar, laminar, corte, esmeril
+==============================================================================
+
+OBJETIVO
+--------
+Obter faca de lâmina fixa com gume para cortar corda, madeira e alimento.
+
+QUANDO USAR
+-----------
+Quando não houver faca utilitária e existir sucata de aço carbono.
+Quando for preciso cortar corda, tecido, madeira ou alimento.
+Quando houver esmeril ou pedra de amolar e pedra de afiar.
+Quando houver tempo para fazer a lâmina com cuidado.
+
+NAO USE QUANDO
+--------------
+Quando o metal for aço doce ou ferro: não segura gume.
+Quando não houver como proteger os olhos e as mãos.
+Quando a lâmina servir de alavanca, cinzel ou arma de arremesso: quebra.
+Quando crianças estiverem por perto sem supervisão.
+
+MATERIAIS
+---------
+- Lima plana de aço carbono, sem rachaduras (mola de feixe serve).
+- Esmeril, moedor ou pedra de amolar manual.
+- Pedra de afiar com água ou óleo.
+- Couro ou papelão grosso para alinhar o gume.
+- Luvas de couro e óculos de proteção.
+- Corda, fita de pano ou arame para o cabo.
+- Giz ou riscador para marcar.
+- Pedaço de madeira para duas capas do cabo (opcional).
+
+PROCEDIMENTO
+------------
+1. Teste o aço no esmeril: faíscas claras e ramificadas indicam carbono.
+2. Descarte o aço se as faíscas forem curtas e sem ramificar.
+3. Enrole com pano a ponta da lima que será o cabo.
+4. Calce luvas e óculos. Afaste inflamáveis do esmeril.
+5. Marque o desenho: ponta reduzida e um lado reto para o gume.
+6. Desgaste a ponta e o contorno no esmeril, seguindo a marcação.
+7. Resfrie em água com frequência, antes de ficar quente ao toque.
+8. Nunca deixe o aço ficar vermelho durante o desgaste.
+9. Abra o bisel do gume com ângulo baixo e constante dos dois lados.
+10. Desgaste até sobrar borda de aproximadamente 1 mm; alterne os lados.
+11. Pare e resfrie se o aço mudar de cor; azul mostra perda de dureza.
+12. Afie na pedra molhada, com o mesmo ângulo, umas 20 passadas por lado.
+13. Passe o gume no couro ou papelão 10 vezes de cada lado.
+14. Enrole o cabo com corda ou fita apertada, da lâmina para trás.
+15. Com madeira, prenda duas capas com arame e enrole por cima.
+16. Guarde em bainha de couro ou madeira, com a ponta coberta.
+
+ATENCAO
+-------
+O esmeril lança fagulhas e pó de metal: use óculos e afaste inflamáveis.
+O pó de metal é cortante e fere olhos e pele; lave as mãos depois.
+Aquecer até ficar marrom ou azul destrói a dureza da lima; resfrie.
+O gume é duro, mas quebradiço: lasca ao bater em osso, pedra ou metal.
+Nunca use como alavanca, cinzel ou martelo: a lâmina pode quebrar e ferir.
+Corte sempre com a lâmina apontando para longe do corpo e dos dedos.
+Pare e descarte a peça se aparecer qualquer rachadura na lâmina.
+Não substitui ferramenta industrial; sem proteção ocular, não fabrique.
+
+SE NAO TIVER
+------------
+Sem esmeril, use pedra de amolar manual molhada; o trabalho fica mais lento.
+Sem pedra de afiar, use pedra lisa com água ou dorso de prato de cerâmica.
+Sem couro, alinhe o gume em papelão grosso ou na palma da luva.
+Sem lima plana, use mola de feixe de caminhão, já endurecida de fábrica.
+Não use vergalhão de construção nem aço doce: não mantêm o gume.
+Sem corda, prenda o cabo com arame ou fita de pano bem apertada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O gume prende levemente na unha sem arrastar solto.
+A lâmina não mostra rachaduras nem manchas marrom ou azul por calor.
+O cabo não gira nem solta quando a faca é segurada com firmeza.
+A faca corta corda de algodão com movimento de serra, sem amassar.
+
+FONTES
+------
+Prática consolidada de fabricação de facas por remoção de material.
+Afiação de aço carbono. Referências: literatura de metalurgia do aço
+(ASM International) e o manual "How to Make Knives" (Barney e Loveless).
+Este texto é resumo operacional, não substitui treinamento.

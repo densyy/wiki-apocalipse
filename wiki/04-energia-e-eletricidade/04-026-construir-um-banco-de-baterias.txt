@@ -1,0 +1,90 @@
+==============================================================================
+CODIGO: 04-026
+TITULO: Como construir um banco de baterias
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 120 minutos
+RISCO: alto
+EXIGE: baterias iguais novas, cabos grossos, fusivel e local ventilado
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bateria, banco, serie, paralelo, autonomia, fusivel, tensao
+==============================================================================
+
+OBJETIVO
+--------
+Montar um conjunto seguro de baterias iguais que guarda energia
+para uso em 12, 24 ou 48 volts.
+
+QUANDO USAR
+-----------
+Quando ampliar a autonomia de um sistema solar isolado.
+Quando chegar a 24 ou 48 volts com baterias de 12 volts.
+Quando guardar mais energia mantendo a mesma tensao.
+Quando substituir um banco velho por um conjunto novo e igual.
+
+NAO USE QUANDO
+--------------
+Se houver vazamento, inchaco, cheiro forte ou borne derretido.
+Se for preciso misturar tipo, tamanho ou idade diferente.
+Em local fechado sem ventilacao ou perto de fogo e faisca.
+Com o sistema ligado ou com as maos molhadas nos bornes.
+
+MATERIAIS
+---------
+- Baterias novas de mesma marca, tipo, tensao e capacidade.
+- Suporte firme e nivelado que aguente o peso (estrado de madeira).
+- Cabos grossos de cobre para corrente continua (nao use fio fino).
+- Fusivel ou disjuntor para corrente continua (obrigatorio).
+- Multimetro para tensao continua (outro medidor simples).
+- Chaves com cabo isolado, luvas secas e oculos (protecao).
+- Bicarbonato e agua limpa para lavar acido (pano e balde).
+- Capacidade em Ah: ampere-hora, quantidade de carga guardada.
+
+PROCEDIMENTO
+------------
+1. Desligue todo o sistema e retire aneis e pulseiras.
+2. Defina a tensao do banco: 12, 24 ou igual a do inversor.
+3. Use so baterias iguais em marca, tipo, tensao e idade.
+4. Escolha local firme, seco, sombreado e com ar circulando.
+5. Monte o suporte nivelado e deixe espaco entre as baterias.
+6. Posicione as baterias sem ligar nenhum cabo ainda.
+7. Limpe os bornes e confira a polaridade marcada em cada uma.
+8. Ligue em serie para subir a tensao: positivo com negativo.
+9. Ligue os positivos entre si para somar a capacidade guardada.
+10. Ligue os negativos entre si com cabos do mesmo comprimento.
+11. Use cabos curtos e grossos e aperte os bornes com firmeza.
+12. Instale o fusivel no cabo positivo junto ao borne do banco.
+13. Leve os cabos de saida ate o controlador desligado.
+14. Confira a tensao total com o multimetro antes de ligar.
+15. Ajuste o controlador para o tipo de bateria usado.
+16. Ligue o sistema e observe aquecimento, cheiro ou faisca.
+
+ATENCAO
+-------
+Curto-circuito em bateria causa queimadura grave, fogo e explosao.
+Nunca encoste ferramenta nos dois bornes nem inverta os polos.
+Bateria de chumbo solta gas que explode perto de faisca ou fogo.
+Mantenha ventilacao, nao fume e nao faca fogo ao lado do banco.
+Acido queima pele e olhos: nao abra, nao vire e nao fure a caixa.
+Litio inchado, quente ou com cheiro forte pode pegar fogo sozinho.
+Se aquecer, inchar ou soltar cheiro, desligue tudo e afaste pessoas.
+Este banco nao conserta bateria danificada nem dispensa fusivel.
+
+SE NAO TIVER
+------------
+Sem multimetro, confira etiquetas, polaridade e aperto com atencao.
+Sem bateria nova igual, nao misture usada com nova: monte menor.
+Sem cabo grosso ou sem fusivel, nao ligue o banco: pare o servico.
+Sem local ventilado, nao use chumbo-acido: troque de lugar.
+Para escolher o tipo de bateria, veja 04-019.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O multimetro mostra aproximadamente a tensao esperada do banco.
+Os aparelhos funcionam e o controlador indica carga normal.
+Nenhum cabo, borne ou fusivel esquenta, chia ou solta faisca.
+
+FONTES
+------
+Manual tecnico Moura Solar de baterias estacionarias; manual de projeto
+e instalacao Victron Energy para armazenamento; primer DOE-HDBK-1084-95
+sobre baterias de chumbo-acido; pratica consolidada de sistemas isolados.

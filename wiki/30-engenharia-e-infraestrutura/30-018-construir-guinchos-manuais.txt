@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 30-018
+TITULO: Como construir um guincho manual
+CATEGORIA: 30 - Engenharia e infraestrutura básica
+TEMPO: 180 minutos
+RISCO: alto
+EXIGE: madeira ou tubo, eixo, corda, cavilhas, ferramentas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: guincho, corda, tambor, catraca, tracao, carga, cabo
+==============================================================================
+
+OBJETIVO
+--------
+Construir um guincho manual para puxar ou levantar cargas com travamento.
+
+QUANDO USAR
+-----------
+Quando é preciso puxar um veículo atolado sem motor.
+Quando é preciso deslocar um objeto pesado poucos metros.
+Quando falta energia e só existe força humana disponível.
+Quando é preciso tensionar uma corda ou cabo com controle.
+
+NAO USE QUANDO
+--------------
+Nunca para levantar, suspender ou transportar pessoas.
+Não use se a carga exceder o que a estrutura e a corda suportam sem teste.
+Não use para suspender carga sobre pessoas ou areas de passagem.
+Não use se a corda estiver desfiada, torcida, com nós ou mofada.
+
+MATERIAIS
+---------
+- Dois suportes fortes de madeira ou tubo (vigas ou troncos sem rachadura).
+- Um tambor cilíndrico com duas flanges nas pontas (carretel de madeira).
+- Um eixo de ferro ou madeira dura que atravesse o tambor (varão).
+- Manivela: duas barras fixas no eixo (alavanca de ferro).
+- Trava: cavilha e furos na flange, ou catraca e trinco (pino de metal).
+- Corda ou cabo de fibra em bom estado (cabo de aço quando houver).
+- Base firme e cavilhas ou parafusos (estacas de madeira dura).
+- Luvas de couro e óculos de proteção.
+- Furadeira, serra e chave (ferramentas basicas).
+
+PROCEDIMENTO
+------------
+1. Escolha um local plano e firme, longe da passagem de pessoas.
+2. Fixe os dois suportes na base com cavilhas ou parafusos firmes.
+   Deixe entre eles a largura do tambor mais aproximadamente 5 cm.
+3. Fure o centro de cada flange com o diâmetro exato do eixo.
+4. Passe o eixo pelo tambor e apoie as pontas nos suportes; gira livre.
+5. Prenda a manivela no eixo com solda ou chaveta, com aperto firme.
+6. Instale a trava: fure flange e suporte na mesma posição.
+   Encaixe a cavilha a cada giro para travar o tambor.
+7. Enrole a corda no tambor no sentido que puxa a carga.
+   Deixe aproximadamente tres voltas enroladas no tambor.
+8. Prenda a carga na ponta livre da corda com nó ou cinta.
+   Nunca prenda a carga diretamente no tambor.
+9. Alinhe a corda com o centro do tambor e do eixo antes de forçar.
+10. Para ganhar força, prenda uma roldana móvel à carga.
+    Passe a corda pela roldana antes de enrolar no tambor.
+11. Gire a manivela com movimentos lentos e contínuos; não dê trancos.
+12. Encaixe a trava e apoie a carga antes de soltar a manivela.
+13. Inspecione corda, trava e suportes antes de cada uso.
+
+ATENCAO
+-------
+Guincho improvisado não tem carga certificada, não é industrial.
+Nunca levante nem transporte pessoas; guincho caseiro não é feito para isso.
+Nunca fique sob carga suspensa nem permita que outra pessoa fique.
+Corda sob tensão pode chicotear se romper ou se a trava ceder.
+Use luvas: a corda queima as mãos e o tambor pode lascar farpas.
+Trava e ponto de ancoragem devem suportar o peso total.
+Teste com carga pequena, a aproximadamente 5 cm do solo.
+Nunca use cavilha torta, pino danificado ou madeira rachada.
+Mantenha a corda alinhada; acima de aproximadamente 45 graus a tensão sobe.
+Não deixe carga suspensa sem supervisão.
+
+SE NAO TIVER
+------------
+Sem catraca, use cavilha em furos alinhados na flange e no suporte.
+Sem tambor de metal, use um carretel ou tronco de madeira sem rachaduras.
+Sem cabo de aço, use corda de fibra nova e seca e reduza a carga.
+Sem chaveta, dobre a ponta do eixo em ângulo reto para formar a manivela.
+Nunca substitua a trava por apoiar o peso na mão ou no pé: é inseguro.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O tambor gira livre e a manivela transmite força sem escorregar.
+A cavilha encaixa e impede o tambor de girar para trás com a carga.
+A carga se move sem solavancos e para quando a manivela para.
+A corda enrola em fileiras regulares, sem cruzar nem sair do tambor.
+
+FONTES
+------
+Prática consolidada de içamento e amarração, resumida a partir
+da norma OSHA 1926.251, do guia de segurança de içamento da
+Hird baseado no código da LEEA, das diretrizes de içamento e
+amarração da Princeton EHS e do manual de sobrevivência FM
+21-76 do Exército dos EUA. Resumo operacional, não substitui
+treinamento nem certificação.

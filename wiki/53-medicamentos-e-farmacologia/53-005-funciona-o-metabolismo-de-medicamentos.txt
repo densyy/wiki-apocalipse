@@ -1,0 +1,82 @@
+==============================================================================
+CODIGO: 53-005
+TITULO: Como funciona o metabolismo de medicamentos
+CATEGORIA: 53 - Produção de medicamentos e farmacologia
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: metabolismo, remédio, fígado, enzima, meia-vida, interação
+==============================================================================
+
+OBJETIVO
+--------
+Entender como o corpo transforma um remédio e o que muda no efeito dele.
+
+QUANDO USAR
+-----------
+Ao entender por que um remédio oral perde parte da dose antes de agir.
+Ao compreender a diferença entre fase I e fase II do metabolismo.
+Ao questionar por que duas pessoas respondem diferente ao mesmo remédio.
+Ao entender por que certos remédios não devem ser tomados juntos.
+
+NAO USE QUANDO
+--------------
+Não use para escolher remédio, dose ou via de administração.
+Não substitui bula, prescrição nem orientação do farmacêutico.
+Não serve para calcular dose infantil nem para preparar remédio caseiro.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Defina metabolismo: transformação química do fármaco no corpo.
+2. Identifique o fígado como o principal local de metabolismo.
+3. Entenda o objetivo: tornar o fármaco mais fácil de eliminar.
+4. Note que o metabólito pode ser inativo, ativo ou tóxico.
+5. Defina pró-fármaco: substância inativa que gera metabólito ativo.
+6. Separe as duas fases: fase I e fase II.
+7. Identifique a fase I: oxidação, redução e hidrólise.
+8. Nomeie a enzima principal: citocromo P450, que modifica grupos.
+9. Identifique a fase II: conjugação com substância do corpo.
+10. Cite conjugações: glucuronidação, sulfatação e acetilação.
+11. Observe que a fase II aumenta a solubilidade em água.
+12. Entenda que nem todo fármaco passa pelas duas fases.
+13. Relacione a primeira passagem: intestino e fígado reduzem a dose oral.
+14. Defina inibição: outra droga bloqueia a enzima e o nível sobe.
+15. Defina indução: outra droga aumenta a enzima e o nível cai.
+16. Cite inibidores: claritromicina, itraconazol, suco de toranja.
+17. Cite indutores: rifampicina, carbamapezina, fenitoína.
+18. Defina meia-vida: tempo para o nível no sangue cair pela metade.
+19. Estime: após aproximadamente cinco meias-vidas, quase tudo sai.
+20. Primeira ordem cai por fração; ordem zero, por quantidade.
+21. Conclua: o metabolismo muda efeito, duração e risco do remédio.
+
+ATENCAO
+-------
+Este texto explica o processo; não indica remédio, dose nem tratamento.
+Nunca mude via, horário ou dose por conta própria.
+Metabolismo lento pode causar intoxicação; rápido pode reduzir o efeito.
+Álcool, tabaco e suco de toranja mudam a atividade das enzimas.
+Sinais de intoxicação: náusea, vômito, tontura, confusão ou falta de ar.
+Doença hepática e idade extrema mudam o metabolismo; leia 53-003.
+
+SE NAO TIVER
+------------
+Sem bula, leia a parte de farmacocinética de um manual de farmacologia.
+Sem professor, use o roteiro acima para seguir o caminho do fármaco.
+Não invente número de dose ou concentração para preencher lacuna de memória.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue explicar a diferença entre as fases I e II.
+Você consegue citar dois fatores que mudam a taxa de metabolismo.
+Você sabe explicar por que inibir uma enzima pode causar intoxicação.
+
+FONTES
+------
+Manual MSD edição para profissionais: Metabolismo de fármacos, revisado
+em 2026. FDA: tabela de substratos, inibidores e indutores de CYP, de 2023.
+Resumo operacional; não substitui estudo nem orientação clínica.

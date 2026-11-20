@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 02-110
+TITULO: Como defumar carnes
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 3 horas
+RISCO: alto
+EXIGE: lenha seca, carne fresca, fogo externo, grelha, termômetro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: defumar, defumação, fumaça, carne, monóxido, botulismo
+==============================================================================
+
+OBJETIVO
+--------
+Cozinhar e defumar carne com fumo de madeira sem intoxicar quem prepara.
+
+QUANDO USAR
+-----------
+Quando houver carne fresca e lenha, mas faltar gás ou geladeira.
+Quando o excedente de um abate precisar ser consumido nos próximos dias.
+Quando houver quintal ou área externa longe de portas e janelas.
+
+NAO USE QUANDO
+--------------
+Não defume dentro de casa, tenda, galpão ou qualquer lugar sem ventilação.
+Não defume perto de janela, porta, respiradouro ou onde alguém dorme.
+Não use carne com muco, cheiro azedo, mancha verde ou bicho.
+Não use madeira pintada, tratada, envernizada, com pregos ou com resina.
+Não queime plástico, papel, pneu, tecido ou serragem de origem duvidosa.
+
+MATERIAIS
+---------
+- Carne fresca de origem conhecida, em peças com até aproximadamente 5 cm.
+- Lenha seca sem tratamento (lascas ou serragem limpa).
+- Fogão a lenha, forno, defumador ou buraco com grelha de ferro.
+- Grelha, arame ou varal para suspender a carne longe das brasas.
+- Termômetro de carne (se houver na casa).
+- Sal grosso para temperar.
+- Luvas, faca, tábua, pano limpo e recipiente metálico com tampa.
+- Água e sabão para lavar as mãos e os utensílios.
+
+PROCEDIMENTO
+------------
+1. Lave as mãos, a faca, a tábua e a grelha com água e sabão.
+2. Corte a carne em peças com até aproximadamente 5 cm de espessura.
+3. Esfregue sal grosso e deixe descansar aproximadamente 30 minutos.
+4. Monte o fogo ao ar livre, longe da casa, de janelas e de inflamáveis.
+5. Acenda a lenha seca; nunca use gasolina, álcool ou querosene.
+6. Deixe a lenha virar brasas e espere parar de soltar chamas.
+7. Espalhe lascas ou serragem limpa sobre as brasas para criar fumo.
+8. Pendure a carne na grelha, sem encostar nas brasas nem na chama.
+9. Cubra parcialmente o defumador, deixando sempre uma saída de fumo.
+10. Mantenha brasas e fumo constantes, sem fogo alto direto na carne.
+11. Vire as peças na metade do tempo para defumar os dois lados.
+12. Se houver termômetro, espete o centro da maior peça, longe do osso.
+13. Retire quando o centro estiver quente e a carne firme por inteiro.
+14. Prove o suco: deve sair claro, sem cor de sangue, inclusive nas aves.
+15. Sirva na hora ou mantenha acima de aproximadamente 60 graus Celsius.
+16. Se sobrar, esfrie e guarde abaixo de aproximadamente 4 graus Celsius.
+
+ATENCAO
+-------
+Brasas e fumo soltam monóxido de carbono: gás incolor e sem cheiro.
+O monóxido mata sem aviso; não se vê, não se cheira, não se sente.
+Nunca defume em lugar fechado: o gás se acumula e derruba sem aviso.
+Dor de cabeça, tontura, náusea ou fraqueza perto do fogo: saia e apague.
+Não confie só na cor da carne para dizer que ela está segura.
+Sal e fumo não matam os micro-organismos que causam botulismo.
+A toxina do botulismo não tem cheiro, cor nem gosto: uma gota pode matar.
+Carne defumada não é alimento de prateleira: coma no dia ou refrigere.
+Não guarde carne morna em panela tampada: é o que o bicho prefere.
+Se houver dúvida sobre a carne, jogue fora; não prove para testar.
+Nunca deixe o fogo sem vigilância, perto de crianças ou animais.
+Use luvas: a grelha e a tampa ficam quentes por muito tempo.
+Madeira tratada ou envernizada solta fumaça tóxica para a carne.
+
+SE NAO TIVER
+------------
+Sem termômetro, cozinhe até o centro firmar e o suco ficar claro.
+Nesse caso, coma tudo no mesmo dia e não guarde sobras.
+Sem defumador, use um buraco forrado com pedra e uma grelha de ferro.
+Sem tampa, defume ao ar livre e abandone a ideia de guardar a carne.
+Sem lenha adequada, não improvise com papel ou plástico: a fumaça envenena.
+Sem geladeira, coma tudo no mesmo dia e não faça carne para amanhã.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O fumo é claro e contínuo, sem chamas altas nem cheiro de queimado.
+O centro da peça está quente, firme e sem parte rosada.
+O suco que escorre ao cortar é transparente.
+Ninguém perto do fogo sentiu dor de cabeça, tontura ou náusea.
+
+FONTES
+------
+CDC: monóxido de carbono é incolor, sem cheiro e mata sem aviso;
+nunca queime carvão ou mantenha fogo não ventilado dentro de casa.
+CDC: botulismo vem de toxina que não se vê, cheira ou prova;
+carnes e peixes são alimentos de baixa acidez, com risco de toxina.
+FDA: Bad Bug Book, manual de agentes de doença transmitida por alimentos.
+Prática consolidada de defumação caseira com fogo de lenha.
+Sem documento único; temperaturas de conservação segundo o CDC.

@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 43-001
+TITULO: Como produzir vidro a partir de matérias-primas naturais
+CATEGORIA: 43 - Produção de materiais de construção
+TEMPO: 120 minutos
+RISCO: alto
+EXIGE: forno de alta temperatura, cadinho refratário, areia, cinza e cal
+REVISAO: 2026-11
+PALAVRAS-CHAVE: vidro, areia, sílica, cinza, forno, fundir, janela
+==============================================================================
+
+OBJETIVO
+--------
+Obter uma pequena peça de vidro fundindo areia de quartzo com cinza e cal.
+
+QUANDO USAR
+-----------
+Quando precisar de um recipiente rígido, uma placa ou uma lente.
+Quando houver forno que atinja temperatura muito alta e material limpo.
+Quando a peça ficar longe de impacto, fogo direto e frio repentino.
+
+NAO USE QUANDO
+--------------
+Quando o forno não atinge temperatura muito alta.
+Fogueira comum e fogão não fundem vidro.
+Quando não houver proteção para olhos, mãos e vias respiratórias.
+Quando a peça for guardar comida, bebida ou remédio.
+Quando precisar de vidro de segurança, resistente a impacto.
+
+MATERIAIS
+---------
+- Areia de quartzo limpa, peneirada e lavada (sílica, o corpo do vidro).
+- Cinza de madeira limpa e peneirada (fonte de álcali, o fundente).
+- Calcário moído ou conchas moídas (fonte de cal, dá durabilidade).
+- Cadinho de argila refratária (ou cadinho de grafite).
+- Forno de lenha, carvão ou queimador de alta temperatura.
+- Haste de ferro para mexer e pinça longa para segurar.
+- Molde de argila refratária ou chapa de ferro plana.
+- Óculos de proteção, luvas grossas de couro e máscara de pano.
+- Água limpa para lavar a areia e o pó das matérias.
+
+PROCEDIMENTO
+------------
+1. Peneire a areia de quartzo para tirar pedras e gravetos.
+2. Lave a areia em água limpa até a água escorrer sem lama.
+3. Queime madeira sem tinta nem verniz e peneire a cinza fina.
+4. Moa o calcário ou as conchas até virar pó sem grãos grandes.
+5. Misture aproximadamente 3 partes de areia, 1 de cinza e 1 de cal.
+6. Coloque a mistura no cadinho até dois terços da altura.
+7. Aqueça devagar para secar a umidade da mistura.
+8. Aumente o fogo até aproximadamente 1000 a 1200 graus Celsius.
+9. Mantenha o calor até a massa brilhar e escorrer sem grãos sólidos.
+10. Mexa com a haste de ferro para soltar bolhas de ar presas.
+11. Despeje o vidro fundido no molde ou sobre a chapa de ferro.
+12. Deixe a peça esfriar sem vento e sem contato com superfície fria.
+13. Espere o resfriamento completo antes de tocar na peça.
+
+ATENCAO
+-------
+O cadinho e o vidro fundido causam queimaduras graves em segundos.
+Use óculos, luvas e máscara; cinza e cal irritam olhos e pulmões.
+A umidade na carga pode estourar e respingar vidro líquido no rosto.
+Nunca use lata, panela ou recipiente comum: derrete e contamina.
+Mantenha o forno longe de inflamáveis e nunca use gasolina.
+Em ambiente fechado, o fogo gera monóxido de carbono e pode matar.
+Pare se o cadinho rachar ou se o fogo sair do controle.
+Vidro caseiro não serve para comida, bebida, remédio ou janela.
+
+SE NAO TIVER
+------------
+Sem cinza, use barrilha (carbonato de sódio) como fundente, se houver.
+Sem calcário, use conchas moídas, giz ou cascas de ovo lavadas e moídas.
+Sem cadinho refratário, não tente: recipiente comum derrete ou racha.
+Sem forno de alta temperatura, não improvise: não há substituto caseiro.
+Sem óculos e luvas, não inicie: a queimadura é grave e permanente.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A massa fundida brilha, escorre e não mostra grãos de areia.
+Depois de fria, a peça é dura, transparente ou translúcida.
+A peça não se dissolve em água e risca com dificuldade.
+
+FONTES
+------
+Dados de composição do vidro soda-cal e da fusão da sílica foram
+conferidos em enciclopédia de acesso livre, usada apenas como pista.
+Não foi consultada fonte institucional única nesta redação.
+O restante vem de prática consolidada de vidraria artesanal.
+Este texto é resumo operacional, não substitui treinamento prático.

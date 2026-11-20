@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 30-014
+TITULO: Como dimensionar tubulações de água
+CATEGORIA: 30 - Engenharia e infraestrutura básica
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: balde de 20 litros, cronômetro, fita métrica, caderno, calculadora
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, tubulação, diâmetro, vazão, pressão, tubo, encanamento
+==============================================================================
+
+OBJETIVO
+--------
+Escolher o diâmetro do tubo e conferir se a água chega com pressão ao ponto
+mais distante e mais alto.
+
+QUANDO USAR
+-----------
+Quando for instalar ou trocar os tubos de uma rede de água.
+Quando a água chega fraca ou não sobe até o ponto mais alto.
+
+NAO USE QUANDO
+--------------
+Com suspeita de químico na água, trocar o tubo não a torna segura.
+Quando o projeto envolver rede pública ou bomba elétrica: exige engenheiro.
+
+MATERIAIS
+---------
+- Balde de 20 litros (ou recipiente de volume conhecido).
+- Cronômetro (relógio com marcador de segundos).
+- Fita métrica (ou corda marcada de metro em metro).
+
+PROCEDIMENTO
+------------
+1. Encha o balde de 20 litros na fonte e cronometre o tempo gasto.
+2. Divida 20 pelo tempo: obtenha a vazão Q em litros por segundo.
+3. Multiplique Q por 0,001 para obter metros cúbicos por segundo.
+4. Meça a distância até o ponto distante e a altura até o ponto alto.
+5. Adote velocidade alvo de aproximadamente 1 metro por segundo.
+6. Divida a vazão pela velocidade: obtenha a área em metros quadrados.
+7. Multiplique a área por 4, divida por 3,14 e tire a raiz quadrada.
+8. Multiplique por 1000 para obter o diâmetro interno em milímetros.
+9. Escolha o diâmetro comercial imediatamente superior ao calculado.
+10. Use C de Hazen-Williams: plástico novo aproximadamente 140 a 150.
+11. Eleve a vazão a 1,852 e multiplique pelo coeficiente A do manual.
+12. Some a perda à diferença de altura medida no passo 4.
+13. Se passar da pressão disponível, aumente um diâmetro e refaça.
+
+ATENCAO
+-------
+Diâmetro pequeno demais dá pouca vazão no ponto distante e alto.
+Diâmetro grande demais custa mais e pode deixar água parada no tubo.
+A velocidade de 1 metro por segundo é aproximada: não substitui norma.
+Tubo velho é mais rugoso: use C menor ou aumente o diâmetro.
+Feche válvulas devagar; o golpe de água pode estourar a tubulação.
+
+SE NAO TIVER
+------------
+Sem calculadora: para 1 litro por segundo, diâmetro aproximado de 36 mm.
+Sem o diâmetro calculado, use o imediatamente superior, nunca o inferior.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Com as torneiras distante e alta abertas, o jato é contínuo e sem batidas.
+
+FONTES
+------
+Manual do usuário EPANET 2.2 e FAQ EPANET 2.2, da EPA: perda de carga,
+coeficientes C por material, vazão da fonte e demanda média e máxima.
+Velocidade e regra de 36 mm: prática consolidada aproximada.

@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 69-016
+TITULO: Como construir um carregador de baterias
+CATEGORIA: 69 - Eletrônica analógica e componentes discretos
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: fonte isolada, diodos, resistor, capacitor, multímetro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: carregador, bateria, carregar, diodo, corrente, tensão
+==============================================================================
+
+OBJETIVO
+--------
+Montar um carregador de baixa tensão para recarregar uma bateria pequena.
+
+QUANDO USAR
+-----------
+Quando o carregador original quebrou ou desapareceu.
+Quando houver fonte isolada de baixa tensão e peças avulsas.
+Quando precisar carregar bateria pequena de 6 V ou 12 V longe da rede.
+Quando a energia falha e sobra apenas uma fonte de baixa tensão.
+
+NAO USE QUANDO
+--------------
+Nunca ligue este circuito direto na tomada ou na rede elétrica.
+A tensão da tomada mata: use só fonte isolada e certificada.
+Não use em bateria de lítio sem a placa de proteção do fabricante.
+Não use se a bateria estiver inchada, quente, vazando ou com cheiro.
+Sem multímetro e sem saber a tensão da bateria, não monte.
+
+MATERIAIS
+---------
+- Fonte isolada e certificada de baixa tensão, acima da tensão da bateria.
+- Transformador com secundário isolado ou fonte DC de baixa tensão.
+- Ponte retificadora pronta de quatro diodos, se a fonte for AC.
+- Capacitor eletrolítico de filtro, com tensão nominal maior que a fonte.
+- Regulador de tensão ou módulo com limite de corrente ajustável.
+- Resistor de potência para limitar a corrente, conforme o manual.
+- Diodo de bloqueio para evitar descarga da bateria no circuito.
+- Multímetro para medir tensão e corrente.
+- Bateria recarregável pequena, com rótulo ou manual legível.
+- Superfície seca, isolante, ventilada e longe de inflamáveis.
+
+PROCEDIMENTO
+------------
+1. Desligue tudo e retire a fonte da tomada antes de montar.
+2. Leia o rótulo da bateria: anote tensão e corrente de carga.
+3. Confira se a fonte isolada tem tensão maior que a da bateria.
+4. Se a fonte for AC, use ponte retificadora pronta de quatro diodos.
+5. Identifique na ponte os terminais AC, o positivo e o negativo.
+6. Ligue o capacitor em paralelo na saída, na polaridade correta.
+7. Ajuste o regulador para a tensão de carga indicada no manual.
+8. Coloque o resistor limitador em série, calculado para essa corrente.
+9. Se não souber calcular o resistor, use módulo com corrente limitada.
+10. Ligue o diodo de bloqueio em série, no sentido da carga.
+11. Confira todas as polaridades no multímetro antes de energizar.
+12. Ligue a fonte isolada e meça a tensão na saída do regulador.
+13. Ajuste até a tensão medida igualar o valor do manual da bateria.
+14. Ligue positivo com positivo e negativo com negativo.
+15. Meça a corrente e mantenha dentro do limite indicado no manual.
+16. Fique por perto e veja se a bateria fica no máximo morna.
+17. Ao terminar, desligue a fonte e retire os cabos da bateria.
+
+ATENCAO
+-------
+O que mata aqui é a rede elétrica: nunca abra a tomada nem improvise nela.
+Use apenas fonte isolada e certificada, sem contato com a rede.
+Bateria em curto esquenta, solta gás e pode explodir ou pegar fogo.
+Bateria de chumbo-acido libera hidrogênio: longe de faísca e chama.
+Nunca carregue bateria de lítio sem a proteção original do fabricante.
+Polaridade invertida queima regulador, diodo e bateria.
+Capacitor ligado ao contrário vaza ou estoura; descarregue antes de tocar.
+Se a bateria esquentar, inchar ou cheirar forte, desligue tudo e pare.
+Com fogo ou fumaça, saia e chame os bombeiros: não salve peças.
+
+SE NAO TIVER
+------------
+Sem diodo de bloqueio, não deixe o conjunto ligado sem vigilância.
+Sem resistor calculado, use módulo regulador com corrente limitada.
+Sem capacitor, a saída fica pulsante e pode danificar a bateria.
+Sem manual da bateria, não adivinhe a tensão: pare e ache o manual.
+Sem fonte isolada, não monte: arranje uma fonte certificada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A tensão medida na saída bate com o valor do manual da bateria.
+A corrente fica abaixo do limite e não sobe sozinha com o tempo.
+A bateria carrega sem passar de morna, sem cheiro e sem estufar.
+Diodos, resistor e regulador não esquentam além do normal.
+
+FONTES
+------
+Prática consolidada de carregamento de baterias e de fontes de baixa
+tensão, sem documento único consultado. Medidas de segurança adotadas
+nesta biblioteca: ABNT NBR 5410 e orientações de FEMA e NFPA sobre
+risco de incêndio em baterias (ver 04-011 e 04-025).

@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 60-003
+TITULO: Como escolher terrenos para assentamentos permanentes
+CATEGORIA: 60 - Arquitetura, urbanismo e assentamentos
+TEMPO: 2 dias
+RISCO: critico
+EXIGE: caderno, mapa da região, fita de medição, bastão de nível
+REVISAO: 2026-11
+PALAVRAS-CHAVE: terreno, assentamento, enchente, deslizamento, drenagem
+==============================================================================
+
+OBJETIVO
+--------
+Escolher terreno seguro e durável para moradia permanente.
+
+QUANDO USAR
+-----------
+Quando for preciso fundar uma vila ou um assentamento novo.
+Quando a família vai construir casa para morar anos no mesmo lugar.
+Quando chuvas fortes atingiram a região e é preciso reconstruir.
+
+NAO USE QUANDO
+--------------
+Nao use para substituir vistoria da Defesa Civil em area de risco conhecido.
+Nao use para dispensar engenheiro em encosta cortada ou com muro de arrimo.
+
+MATERIAIS
+---------
+- Caderno e lápis para anotar medidas e relatos.
+- Mapa da região (cartografia da prefeitura ou desenho feito no local).
+- Fita de medição de 20 m ou corda com nós a cada metro.
+- Bastão de nível (régua ou mangueira transparente com água).
+
+PROCEDIMENTO
+------------
+1. Pergunte a moradores antigos onde houve enchente ou deslizamento.
+2. Consulte o mapa de risco da Defesa Civil antes de visitar o terreno.
+3. Descarte área onde a água já subiu ou onde o solo já rachou.
+4. Meça a distância até o rio ou córrego mais próximo com a fita.
+5. Marque uma faixa de 50 m sem construir ao redor de cada curso d'água.
+6. Descubra o nível da maior enchente conhecida e marque-o no bastão.
+7. Escolha o ponto de construção acima desse nível, em terra firme.
+8. Evite encosta íngreme, vale estreito e ravina.
+9. Meça a declividade: suba 10 m e veja quantos metros o terreno desceu.
+10. Prefira declividade de aproximadamente 2 a 4 por cento.
+11. Rejeite terreno com mais de aproximadamente 10 por cento de declividade.
+12. Observe para onde escoa a água da chuva e marque o caminho no mapa.
+13. Trace ruas e valas seguindo as curvas do terreno.
+14. Jogue um balde d'água no solo e veja se a poça some em minutos.
+15. Rejeite solo rochoso, impermeável ou que fica encharcado.
+16. Cave um poço teste de aproximadamente 1 m de profundidade.
+17. Meça a distância da água até a superfície do terreno.
+18. Rejeite o local se a água estiver a menos de 3 m da superfície.
+19. Confirme água potável próxima, protegida e disponível o ano inteiro.
+20. Não conte com poço futuro como única fonte de água.
+21. Mantenha grama e árvores no terreno; elas seguram o solo.
+22. Afaste o assentamento por pelo menos 1 km de lixão comum.
+23. Afaste-o por pelo menos 5 km de depósito de resíduos perigosos.
+24. Afaste-o por pelo menos 15 km de área protegida ou reserva.
+25. Visite o terreno na estação chuvosa ou pergunte como ele fica então.
+26. Confirme que a estrada de acesso aguenta chuva forte.
+27. Percorra o terreno em busca de minas, estacas ou lixo perigoso.
+28. Pare e chame a Defesa Civil se encontrar artefato suspeito.
+29. Confira o documento de posse da terra antes de qualquer obra.
+30. Peça a um engenheiro ou à Defesa Civil que revise a escolha.
+
+ATENCAO
+-------
+Enchente e deslizamento podem matar; nenhum terreno é seguro sem vistoria.
+O erro mais comum é olhar o terreno só na seca e ignorar relatos antigos.
+Não confie em muro de arrimo sem projeto: ele pode ceder e soterrar.
+Não desmate a encosta nem jogue água de chuva ou esgoto nela.
+Com rachaduras, árvores inclinadas ou água brotando na base, saia.
+Em risco conhecido, procure a Defesa Civil e um profissional habilitado.
+
+SE NAO TIVER
+------------
+Sem fita de medição, use corda com nós a cada metro.
+Sem mapa, desenhe o terreno no caderno com rio, estrada e encostas.
+Sem bastão de nível, use mangueira transparente com água nas duas pontas.
+Sem poço teste, pergunte a profundidade da água em poços vizinhos.
+Sem relato de enchente, espere a vistoria em vez de decidir sozinho.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O terreno ficou acima da enchente conhecida, em terra firme.
+A declividade medida ficou entre aproximadamente 2 e 10 por cento.
+A água da chuva escoa sem poças e sem correr para a encosta.
+O poço teste mostrou água a pelo menos 3 m de profundidade.
+
+FONTES
+------
+Orientações do ACNUR sobre princípios e padrões
+de planejamento de assentamentos.
+Documento do ACNUR sobre a abordagem de plano diretor
+para assentamentos (2019).
+Cartilha de deslizamentos da Defesa Civil do Rio de Janeiro.
+Orientações técnicas da Defesa Civil de Juiz de Fora
+para construção em encosta.

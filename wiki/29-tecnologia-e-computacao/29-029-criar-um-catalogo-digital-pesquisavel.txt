@@ -1,0 +1,78 @@
+==============================================================================
+CODIGO: 29-029
+TITULO: Como criar um catálogo digital pesquisável
+CATEGORIA: 29 - Tecnologia, computação e informática offline
+TEMPO: 50 minutos
+RISCO: baixo
+EXIGE: computador ou celular, editor de texto, lista dos arquivos do acervo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: catálogo, busca, índice, arquivos, pesquisa, acervo, offline
+==============================================================================
+
+OBJETIVO
+--------
+Montar um catálogo em arquivo de texto que permite achar qualquer item
+do acervo digitando uma palavra, sem internet.
+
+QUANDO USAR
+-----------
+Quando há dezenas de arquivos e o nome sozinho não basta para achar.
+Quando o acervo será usado por outra pessoa que não conhece os nomes.
+Quando não há conexão e a busca do aparelho só lê o nome do arquivo.
+
+NAO USE QUANDO
+--------------
+Não use para guardar o arquivo em si: o catálogo só descreve o recurso.
+Não registre senhas, chaves ou dados pessoais no catálogo.
+Não espere que ele recupere um arquivo apagado ou corrompido.
+
+MATERIAIS
+---------
+- Computador ou celular com os arquivos do acervo.
+- Editor de texto simples que salve arquivos .txt (bloco de notas).
+- Lista dos arquivos existentes (gerenciador de arquivos ou papel).
+
+PROCEDIMENTO
+------------
+1. Reúna os arquivos do acervo em uma única pasta.
+2. Anote o nome exato de cada arquivo em uma lista.
+3. Crie um arquivo de texto chamado catalogo.txt no editor.
+4. Escreva uma linha por recurso no catálogo.
+5. Separe os campos da linha por ponto e vírgula.
+6. No primeiro campo, escreva um número único e sequencial.
+7. No segundo, escreva o título do recurso.
+8. No terceiro, escreva o assunto e três palavras de busca.
+9. No quarto, escreva a pasta e o nome exato do arquivo.
+10. No quinto, escreva formato e origem; use "desconhecida" se não souber.
+11. Salve o arquivo em UTF-8 para preservar os acentos.
+12. Abra a busca do editor e digite uma palavra do assunto.
+13. Confira se a linha do recurso aparece nos resultados.
+14. Faça o mesmo com uma palavra de outro recurso.
+15. Copie o catálogo para uma segunda mídia.
+
+ATENCAO
+-------
+O catálogo não contém o arquivo: apagar o original não é recuperável.
+Nome de arquivo errado é o erro mais comum: a linha abre e nada aparece.
+Número repetido faz duas linhas apontarem para recursos diferentes.
+Sem acentos salvos, palavras como "informática" não são encontradas.
+Não anote senhas, chaves ou dados pessoais no catálogo.
+Se um arquivo estiver corrompido, pare e reconstrua pela cópia.
+
+SE NAO TIVER
+------------
+- Sem editor de texto, use caderno: uma linha por recurso, mesmos campos.
+- Sem segunda mídia, escreva uma cópia em papel e guarde separada.
+- Sem busca no editor, abra o arquivo no terminal e use grep -i "palavra".
+
+COMO SABER QUE DEU CERTO
+------------------------
+- Cada arquivo tem uma linha com número único e nome exato.
+- Ao digitar "informática" na busca, aparece a linha do recurso certo.
+- Ao abrir o caminho indicado, o arquivo abre.
+
+FONTES
+------
+Prática consolidada de catálogos de acervo, sem documento único.
+Campos segundo Dublin Core (ISO 15836-1, RFC 5013, DCMI).
+Busca em texto segundo a documentação da extensão FTS5 do SQLite.

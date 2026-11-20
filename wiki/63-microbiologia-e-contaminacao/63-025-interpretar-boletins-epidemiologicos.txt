@@ -1,0 +1,74 @@
+==============================================================================
+CODIGO: 63-025
+TITULO: Como interpretar boletins epidemiológicos
+CATEGORIA: 63 - Microbiologia, parasitologia e contaminação
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: boletim impresso ou arquivo, caderno, lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: boletim, vigilância, casos, óbitos, surto, alerta
+==============================================================================
+
+OBJETIVO
+--------
+Ler um boletim epidemiológico e extrair os dados que apoiam uma decisão.
+
+QUANDO USAR
+-----------
+Quando chega um boletim de saúde do município, estado ou país.
+Quando você quer saber se um surto está crescendo ou diminuindo.
+Quando precisa explicar os números ao grupo sem exagerar.
+
+NAO USE QUANDO
+--------------
+Não serve para diagnosticar uma pessoa nem para indicar remédio.
+Não substitui a orientação do posto de saúde ou da vigilância.
+Um boletim não mede o risco individual de uma pessoa.
+
+MATERIAIS
+---------
+- Boletim impresso ou arquivo salvo (pedaço de papel serve).
+- Caderno e lápis para anotar datas, fontes e números.
+- Boletins anteriores da mesma fonte, se houver, para comparar.
+
+PROCEDIMENTO
+------------
+1. Identifique quem emitiu o boletim e anote o nome da instituição.
+2. Anote a data de publicação e o período que os dados cobrem.
+3. Confira a área: bairro, município, estado ou país.
+4. Leia a definição de caso usada no texto.
+5. Separe casos suspeitos, prováveis e confirmados.
+6. Trate "confirmado" como caso com exame de laboratório positivo.
+7. Separe o número de casos do número de óbitos.
+8. Anote se o valor é absoluto ou taxa por população.
+9. Compare com o boletim anterior da mesma fonte e período.
+10. Registre se a tendência é de alta, queda ou estabilidade.
+11. Verifique se há atraso de notificação nos dados mais recentes.
+12. Leia os alertas e recomendações no fim do boletim.
+
+ATENCAO
+-------
+Boletim é retrato de um momento; os números recentes podem mudar.
+Atraso na notificação faz o último período parecer menor.
+Caso provável não é caso confirmado; mantenha essa distinção.
+Não compare boletins de fontes ou períodos diferentes.
+Boletim de área maior pode não mostrar o que acontece no seu bairro.
+
+SE NAO TIVER
+------------
+Sem boletim anterior, guarde os dados atuais como primeira referência.
+Sem o original, peça uma cópia no posto de saúde.
+Sem dados locais, use o boletim regional e diga qual é a área.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você anotou fonte, data, área e período do boletim.
+Separou suspeitos, prováveis, confirmados e óbitos.
+Consegue explicar os números ao grupo sem inventar nada.
+
+FONTES
+------
+Prática consolidada de vigilância em saúde e leitura de boletins.
+Base consultada: Disease Outbreak News da OMS, que divulga eventos
+confirmados e potenciais de interesse de saúde pública. Resumo
+operacional; não substitui treinamento nem orientação local.

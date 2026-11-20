@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 04-062
+TITULO: Como construir um fogão de biomassa eficiente
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 180 minutos
+RISCO: alto
+EXIGE: tijolos, barro, chapa limpa, chaminé, lenha seca, água e terra
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fogão, biomassa, lenha, chaminé, fumaça, cozinhar
+==============================================================================
+
+OBJETIVO
+--------
+Construir um fogão a biomassa que cozinhe com menos lenha e menos fumaça.
+
+QUANDO USAR
+-----------
+Quando faltar gás ou eletricidade para cozinhar todos os dias.
+Quando a lenha for escassa e o fogo aberto consumir muito combustível.
+Quando a fumaça do fogo aberto incomodar quem cozinha.
+Quando houver resíduos secos, como sabugo de milho, para usar como lenha.
+
+NAO USE QUANDO
+--------------
+Dentro de casa, barraca ou garagem sem chaminé para fora do ambiente.
+Em dia de vento forte ou com risco de incêndio na vegetação.
+Perto de palha, mato seco, tanque de gás ou depósito de combustível.
+Sem água e terra por perto para apagar o fogo.
+
+MATERIAIS
+---------
+- 10 a 15 tijolos refratários (ou tijolos comuns, que duram menos).
+- Barro argiloso e areia (ou cinza peneirada) para assentar e vedar.
+- Chapa metálica limpa, sem tinta, de aproximadamente 30 cm.
+- Tubo metálico limpo para chaminé, com aproximadamente 1 metro.
+- Gravetos secos e lenha seca em pedaços pequenos (ou sabugo seco).
+- Luvas grossas e pano para manusear peças quentes.
+- Água em abundância e terra solta.
+
+PROCEDIMENTO
+------------
+1. Escolha local aberto com 3 metros de folga de tudo que pode queimar.
+2. Limpe o chão até a terra e deixe água e terra ao alcance da mão.
+3. Assente a primeira camada de tijolos no chão nivelado, em quadrado.
+4. Levante a câmara com tijolos e barro, deixando 15 cm de vão interno.
+5. Deixe uma abertura de aproximadamente 5 cm na base da parede frontal.
+6. Ajuste a chapa móvel sobre essa abertura para regular a entrada de ar.
+7. Preencha o espaço entre a câmara e a parede externa com cinza seca.
+8. Feche o topo da câmara com tijolos, deixando furo para a panela.
+9. Encaixe o tubo na saída lateral alta e vede as juntas com barro.
+10. Incline a chaminé para cima e proteja lona ou telhado com chapa.
+11. Apoie a panela sobre o furo, sem folga entre panela e tijolos.
+12. Acenda gravetos secos dentro da câmara pela abertura da base.
+13. Alimente com pedaços pequenos de lenha, sem passar da metade da câmara.
+14. Abra a chapa da base se a chama enfraquecer.
+15. Feche parcialmente a chapa se a fumaça ficar escura.
+16. Mantenha a chaminé livre: nunca tape a saída de fumaça.
+17. Ao terminar, deixe o fogo apagar por si mesmo.
+18. Cubra as brasas com terra e apague com água.
+19. Confirme que não há brasa quente ao toque nem fumaça.
+
+ATENCAO
+-------
+O que mata aqui é o monóxido de carbono e o fogo descontrolado.
+Nunca use o fogão sem chaminé que descarte a fumaça para fora do ambiente.
+Fumaça em lugar fechado mata sem cheiro e sem aviso.
+Não queime madeira pintada, tratada, plástico nem resíduo químico.
+A fumaça desses materiais é tóxica e contamina a comida.
+A chaminé quente pode incendiar lona, telhado ou madeira próxima.
+A câmara queima a pele: use luvas e afaste crianças.
+Fumaça branca e densa indica lenha úmida ou ar preso; pare e corrija.
+Se alguém tossir muito, sentir tontura ou desmaiar, saia e procure ajuda.
+O fogão reduz fumaça e lenha, mas não elimina o risco de incêndio.
+
+SE NAO TIVER
+------------
+Sem tijolos refratários, use tijolos comuns e troque-os quando racharem.
+Sem barro, use cinza peneirada e umedecida para vedar as juntas.
+Sem tubo pronto, enrole chapa limpa e prenda com arame, sem deixar frestas.
+Sem chapa para o registro, regule o ar com um tijolo na entrada.
+Sem lenha, use sabugo de milho seco ou casca seca de arroz.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A chama fica amarela e estável, sem fumaça escura.
+A água ferve e a comida cozinha mais depressa que no fogo aberto.
+Toda a fumaça sai pela chaminé, sem vazar pelas juntas.
+Depois de apagado, não há brasa quente ao toque nem fumaça.
+
+FONTES
+------
+Orientações da OMS sobre poluição do ar doméstico e fogões a biomassa.
+Programa Burn Wise da EPA sobre queima eficiente e fumaça de lenha.
+Notícia técnica da Embrapa sobre fogão gaseificador de biomassa.
+Prática consolidada de fogões melhorados, sem documento único.

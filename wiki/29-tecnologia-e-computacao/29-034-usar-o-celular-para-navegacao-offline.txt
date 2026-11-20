@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 29-034
+TITULO: Como usar o celular para navegação offline
+CATEGORIA: 29 - Tecnologia, computação e informática offline
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: celular com GPS, aplicativo de mapas offline, internet no download
+REVISAO: 2026-11
+PALAVRAS-CHAVE: navegação, offline, celular, gps, mapa, osmand, rotas
+==============================================================================
+
+OBJETIVO
+--------
+Traçar rotas e se orientar com o celular, sem internet, usando mapas e GPS.
+
+QUANDO USAR
+-----------
+Quando a viagem passa por áreas sem sinal de celular.
+Quando os dados móveis acabam ou o roaming é caro.
+Em trilhas ou ajuda a desastres, sem rede.
+
+NAO USE QUANDO
+--------------
+Quando for preciso trânsito em tempo real, acidentes ou fechamentos.
+O mapa offline não mostra obras nem rotas dinâmicas.
+
+MATERIAIS
+---------
+- Celular com GPS e bateria carregada.
+- Aplicativo de navegação offline (OsmAnd, Organic Maps).
+- Internet no download, de preferência Wi-Fi.
+- Cartão de memória com espaço livre (se o aparelho aceitar).
+- Carregador ou bateria externa.
+
+PROCEDIMENTO
+------------
+1. Instale o aplicativo de mapas enquanto ainda houver internet.
+2. Abra o aplicativo e escolha baixar mapas ou regiões.
+3. Baixe a região exata da viagem, não o país inteiro.
+4. Baixe os dados de busca de endereços e de cálculo de rotas.
+5. Confira o tamanho e baixe tudo por Wi-Fi até terminar.
+6. Mova os mapas para o cartão de memória, se permitido.
+7. Ative o modo avião e confirme que as ruas aparecem.
+8. Marque o destino e trace a rota em modo avião.
+9. Ligue o GPS e inicie a navegação com indicação de voz.
+
+ATENCAO
+-------
+O mapa fica desatualizado; baixe a versão nova antes de sair.
+Baixar a região errada é o erro comum: confira o nome antes de sair.
+Sem os dados de rota, o mapa abre mas não calcula o caminho.
+O GPS não usa torre de celular, mas consome bateria depressa.
+Sem bateria o celular não navega: leve carregador ou bateria externa.
+Se a rota falhar, pare e use o mapa de papel como reserva.
+
+SE NAO TIVER
+------------
+Sem cartão, baixe só uma região pequena e apague mapas antigos.
+Sem aplicativo, salve imagens ou PDF de mapas no celular.
+Sem internet, use mapa de papel preparado antes da viagem.
+
+COMO SABER QUE DEU CERTO
+------------------------
+No modo avião, o mapa abre e mostra ruas da região baixada.
+A seta de posição acompanha o deslocamento com o GPS ligado.
+
+FONTES
+------
+Wiki do OpenStreetMap, página "OsmAnd": navegação e rotas offline.
+Site oficial do Organic Maps: mapas baixados, busca e navegação sem rede.

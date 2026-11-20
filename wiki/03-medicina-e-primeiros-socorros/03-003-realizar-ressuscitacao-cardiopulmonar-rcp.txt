@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 03-003
+TITULO: Como realizar ressuscitação cardiopulmonar (RCP)
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: Continua até o socorro chegar
+RISCO: critico
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: RCP, reanimação, massagem cardíaca, parada cardíaca, DEA
+==============================================================================
+
+OBJETIVO
+--------
+Manter o sangue circulando até o socorro chegar, após o coração parar.
+
+QUANDO USAR
+-----------
+Pessoa que não responde e não respira, ou respira só com suspiros.
+Pessoa desmaiada sem pulso perceptível em 10 segundos.
+Colapso súbito em casa, na rua ou no trabalho.
+Afogamento, choque elétrico ou suspeita de overdose com parada.
+Vítima de acidente que parou de respirar.
+
+NAO USE QUANDO
+--------------
+Não faça compressões se a pessoa respira e responde normalmente.
+Não faça compressões em pessoa acordada, mesmo que esteja com dor.
+Não gaste tempo com pulso se a pessoa não respira: comece as compressões.
+
+MATERIAIS
+---------
+- Nenhum material.
+- Celular, se houver, para ligar em viva-voz (ou peça a outra pessoa).
+- Pano ou gaze, se quiser dar respirações (ou use só compressões).
+
+PROCEDIMENTO
+------------
+1. Garanta que o local é seguro para você antes de entrar.
+2. Toque os ombros e pergunte em voz alta se a pessoa está bem.
+3. Se não houver resposta, grite por ajuda.
+4. Peça a alguém para ligar para o SAMU (192) ou bombeiros (193).
+5. Se estiver sozinho com celular, ligue em viva-voz e comece.
+6. Cheire, ouça e sinta o peito por até 10 segundos.
+7. Se não houver respiração normal, comece as compressões.
+8. Deite a pessoa de costas sobre superfície firme, como o chão.
+9. Ajoelhe-se ao lado da pessoa.
+10. Apoie o calcanhar de uma mão no centro do peito.
+11. Coloque a outra mão por cima e entrelace os dedos.
+12. Mantenha os braços estendidos e os ombros sobre as mãos.
+13. Comprima o peito de 5 a 6 cm de profundidade.
+14. Faça de 100 a 120 compressões por minuto.
+15. Deixe o peito voltar por completo após cada compressão.
+16. Não apoie o peso do corpo no peito entre as compressões.
+17. Faça 30 compressões e, se souber, dê 2 respirações.
+18. Dê cada respiração em cerca de 1 segundo, até o peito subir.
+19. Repita o ciclo de 30 e 2 sem parar.
+20. Se não souber dar respirações, faça só compressões contínuas.
+21. Siga as instruções do DEA se alguém trouxer o aparelho.
+22. Troque de socorrista a cada 2 minutos, se houver outra pessoa.
+23. Continue até o socorro chegar ou a pessoa voltar a respirar.
+
+ATENCAO
+-------
+RCP errada pode matar ou deixar sequela: ajude, mas com cuidado.
+Não espere para ver se melhora: cada minuto sem compressão reduz a chance.
+Compressão fraca, lenta ou interrompida não faz o sangue circular.
+Compressão acima de 6 cm pode quebrar costela e lesionar órgão.
+Não sopre com força: excesso de ar estufa o estômago e atrapalha o coração.
+Não pare para checar pulso a cada momento: limite a checagem a 10 segundos.
+Nunca pare as compressões por mais de 10 segundos, exceto se o DEA mandar.
+Não dê água, comida ou remédio a quem não responde.
+Se a pessoa vomitar, vire a cabeça de lado, limpe a boca e continue.
+Mesmo após a recuperação, toda pessoa precisa de atendimento médico.
+
+SE NAO TIVER
+------------
+Sem ajuda: use o celular em viva-voz e continue compressões enquanto fala.
+Sem celular: peça a alguém que corra para chamar o SAMU (192).
+Sem treino para boca a boca: faça só compressões contínuas.
+Sem pano: faça apenas compressões, sem perder tempo.
+Sem DEA: continue as compressões até o socorro chegar.
+Sem superfície firme: comece onde a pessoa está, sem perder tempo a mudá-la.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O peito sobe e desce a cada compressão e volta por completo.
+A pessoa volta a respirar, tosse ou se move.
+A cor da pele melhora e o pulso volta a ser sentido.
+O socorro chegou e assumiu o atendimento.
+
+FONTES
+------
+Orientações de suporte básico de vida da American Heart Association (AHA)
+e do European Resuscitation Council (ERC), mais o protocolo de RCP da
+Secretaria da Saúde de Sorocaba (Brasil). Texto operacional; não substitui
+treinamento prático.

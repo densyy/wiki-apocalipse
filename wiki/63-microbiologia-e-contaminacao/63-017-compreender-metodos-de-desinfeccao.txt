@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 63-017
+TITULO: Como compreender métodos de desinfecção
+CATEGORIA: 63 - Microbiologia, parasitologia e contaminação
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: desinfecção, desinfetante, cloro, álcool, calor, germe
+==============================================================================
+
+OBJETIVO
+--------
+Diferenciar limpeza, desinfecção e esterilização e escolher o método que
+reduz germes sem criar risco novo.
+
+QUANDO USAR
+-----------
+Ao decidir como tratar água, superfícies, objetos ou mãos.
+Ao escolher entre ferver, usar cloro, álcool ou só lavar com sabão.
+Ao lidar com fezes, vômito, sangue ou objeto de pessoa doente.
+
+NAO USE QUANDO
+--------------
+Não use este texto para escolher remédio, dose ou tratar ferida aberta.
+Não substitui orientação médica em caso de doença grave ou febre alta.
+
+MATERIAIS
+---------
+- Nada é preciso para ler; para aplicar, use os itens abaixo.
+- Água, sabão, pano limpo e desinfetante registrado (álcool 70% ou cloro).
+- Luvas e ventilação ao manusear cloro ou água sanitária.
+
+PROCEDIMENTO
+------------
+1. Defina o alvo: água, superfície lisa, tecido, objeto ou pele.
+2. Retire sujeira visível com água e sabão antes de desinfetar.
+3. Escolha a via: calor (ferver), química (cloro, álcool) ou luz solar.
+4. Para água, ferver 1 minuto; acima de 2.000 m, ferver 3 minutos.
+5. Sem fogo, use cloro na dose do rótulo e respeite o tempo indicado.
+6. Em superfície lisa, use hipoclorito a 0,1% (1.000 ppm) por 1 minuto.
+7. Para sangue ou fezes, use hipoclorito a 0,5% (5.000 ppm).
+8. Nas mãos, use álcool 70%; mantenha a área molhada no tempo de contato.
+
+ATENCAO
+-------
+Limpar remove germes; desinfetar mata a maioria, mas não mata esporos.
+Esterilizar (autoclave) mata tudo; não é método caseiro. Limpe antes:
+terra e sangue protegem germes e inativam cloro. Álcool 70% não mata
+esporos nem todos os vírus sem envelope. Nunca misture cloro com amônia
+ou vinagre: libera gás tóxico. Use luvas e ventile. Não remove toxinas.
+
+SE NAO TIVER
+------------
+Sem desinfetante, lave com água e sabão: reduz carga, não mata todos.
+Sem cloro, ferver é a opção mais segura para água e objetos.
+Sem álcool, lave as mãos com água e sabão por cerca de 20 segundos.
+SODIS (garrafa ao sol) exige horas e não substitui a fervura.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A sujeira visível desapareceu antes da aplicação do desinfetante.
+A área ficou molhada no tempo do rótulo; a água ferveu com bolhas fortes.
+As mãos foram lavadas e não tocaram olhos, nariz ou boca depois.
+
+FONTES
+------
+Resumo de fontes públicas consultadas: folhas da OMS sobre água potável e
+saneamento; orientação da CDC sobre higiene das mãos (20 segundos de sabão;
+álcool a partir de 60%). Concentrações de cloro seguem prática consolidada.

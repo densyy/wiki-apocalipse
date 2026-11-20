@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 45-013
+TITULO: Como organizar vigilância epidemiológica comunitária
+CATEGORIA: 45 - Engenharia de saneamento e saúde pública
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: caderno, caneta, lista de moradores, apoio de uma liderança local
+REVISAO: 2026-11
+PALAVRAS-CHAVE: vigilância, surto, doença, notificação, casos, alerta
+==============================================================================
+
+OBJETIVO
+--------
+Montar um registro de doenças na comunidade para detectar surtos cedo.
+
+QUANDO USAR
+-----------
+Depois de enchente, seca ou deslocamento de pessoas.
+Quando o posto de saúde fechar ou ficar muito longe.
+Quando várias pessoas adoecem no mesmo lugar.
+Quando há suspeita de água ou alimento contaminado.
+Ao organizar abrigo, acampamento ou aglomerado de moradias.
+
+NAO USE QUANDO
+--------------
+Não use este procedimento para diagnosticar, dar remédio ou substituir
+o posto de saúde. Ele apenas observa e registra sinais.
+Se o surto já estiver confirmado, avise a autoridade de saúde.
+
+MATERIAIS
+---------
+- Caderno ou folhas soltas (papel resistente à umidade, se houver).
+- Caneta ou lápis (carvão em situação extrema).
+- Lista de moradores com nome, idade e local (memória da liderança).
+- Termômetro (se não houver, registre só febre relatada).
+- Relógio ou algo para contar os dias.
+- Caixa, lata ou pasta seca para guardar os registros.
+
+PROCEDIMENTO
+------------
+1. Escolha uma pessoa responsável pelo registro e uma substituta.
+2. Defina a área coberta: ruas, quarteirão, abrigo ou grupo de casas.
+3. Faça a lista de moradores com nome, idade e local de cada um.
+4. Defina os sinais vigiados: febre, diarreia, vômito, tosse, manchas.
+5. Escreva no caderno o que conta como caso para cada sinal.
+6. Combine com os moradores quem avisa e como avisar a pessoa escolhida.
+7. Pergunte a cada morador da sua área sobre os sinais toda manhã.
+8. Anote cada caso com data, nome, idade, local e sinal observado.
+9. Conte os casos de hoje e anote o número na mesma folha.
+10. Compare o total de hoje com o total dos dias anteriores.
+11. Marque como alerta o dobro de casos em um dia ou um sinal novo.
+12. Avise a liderança local no mesmo dia em que surgir um alerta.
+13. Guarde as folhas secas, fora do alcance de outras pessoas.
+14. Repita a contagem todos os dias, sempre no mesmo horário.
+
+ATENCAO
+-------
+Este sistema dá um aviso cedo; ele não faz diagnóstico nem substitui
+atendimento médico.
+Um alerta pode ser falso. Confirme com a liderança antes de espalhar
+a notícia.
+Não acuse nem exponha pessoas. Registre casos, não culpados.
+O erro mais grave é deixar de registrar por dias ou ignorar um sinal novo.
+Proteja o caderno da chuva e do fogo. Perder registros reinicia o trabalho.
+Se houver morte, muitas pessoas doentes em um dia ou sinal desconhecido,
+procure a autoridade de saúde no mesmo dia.
+Não decida isolamento, remédio ou vacina sem orientação de profissional
+de saúde.
+O limite de alerta usado aqui é uma regra prática, não um limite oficial.
+
+SE NAO TIVER
+------------
+Sem caderno, use papéis soltos presos com barbante dentro de uma lata seca.
+Sem lista de moradores, recomece pelo que a liderança souber de memória.
+Sem termômetro, anote apenas "febre relatada" e não meça pela mão.
+Sem moradores disponíveis, reduza a área a poucas famílias.
+Não improvise teste, remédio ou diagnóstico por falta de material.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A lista de moradores existe e foi atualizada na semana.
+Cada dia tem uma linha com data, total de casos e sinais observados.
+A pessoa responsável diz quantos casos novos apareceram nas últimas
+24 horas.
+Pelo menos um alerta foi discutido com a liderança local.
+
+FONTES
+------
+Organização Mundial da Saúde (OMS), página "Surveillance in emergencies",
+sobre vigilância em saúde em emergências.
+OMS, "Early warning alert and response (EWAR) in emergencies: an
+operational guide", 2023.
+OMS, "Outbreak surveillance and response in humanitarian emergencies:
+WHO guidelines for EWARN implementation", 2012.
+Definições de caso e limites de alerta aqui são regras práticas
+adaptadas. Confirme sempre com a autoridade de saúde local.

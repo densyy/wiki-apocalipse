@@ -1,0 +1,97 @@
+==============================================================================
+CODIGO: 15-026
+TITULO: Como produzir luvas de proteção
+CATEGORIA: 15 - Têxteis, roupas e produção artesanal
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: couro ou lona grossa, linha encerada, agulha grossa, papelão
+REVISAO: 2026-11
+PALAVRAS-CHAVE: luva, luvas, proteção, mãos, couro, costura, EPI, oficina
+==============================================================================
+
+OBJETIVO
+--------
+Confeccionar uma luva de trabalho com couro ou lona grossa para reduzir
+arranhões, abrasão, calor moderado e frio nas mãos.
+
+QUANDO USAR
+-----------
+Ao carregar madeira, pedra ou ferramentas sem corte vivo.
+Ao manusear panelas mornas ou superfícies quentes moderadas.
+Ao trabalhar com frio intenso, por baixo de outra luva impermeável.
+Quando não houver luva certificada e o risco for pequeno.
+
+NAO USE QUANDO
+--------------
+Não use com produtos químicos, solventes, agrotóxicos ou combustível.
+Não use com facas afiadas, serras, vidro ou chapas com corte vivo.
+Não use com eletricidade, chama aberta, forno quente ou soldagem.
+Não use com sangue, fezes, urgência médica ou resíduos infectados.
+Nessas situações, use somente EPI certificado com CA no Brasil.
+
+MATERIAIS
+---------
+- Couro curtido firme ou lona grossa (ou duas camadas de jeans resistente).
+- Linha encerada ou linha grossa (ou barbante de algodão encerado).
+- Agulha grossa de costura manual (ou agulha própria para couro).
+- Papelão fino ou papel grosso para o molde.
+- Tesoura bem afiada (ou faca de lâmina curta).
+- Giz de alfaiate ou lápis para marcar.
+- Régua ou fita de pano para medir.
+
+PROCEDIMENTO
+------------
+1. Lave e seque as mãos antes de medir.
+2. Trace o contorno da mão aberta no papelão, com os dedos afastados.
+3. Desenhe outra linha ao redor, com aproximadamente 1 cm de folga.
+4. Marque o pulso e prolongue o traço aproximadamente 5 cm na manga.
+5. Trace o polegar em contorno separado, com a mesma folga de 1 cm.
+6. Recorte o molde com a tesoura, longe dos dedos da outra mão.
+7. Apoie o molde no couro com a face lisa voltada para fora.
+8. Contorne o molde com giz e recorte a peça da palma.
+9. Vire o molde e recorte a peça do dorso da mão.
+10. Recorte duas peças de polegar para cada mão.
+11. Alinhe a borda da peça do polegar com a borda da palma.
+12. Costure o polegar à palma com ponto atrás e linha encerada.
+13. Atenção: a agulha fere; nunca puxe a linha rumo ao rosto.
+14. Reforce a emenda do polegar com uma segunda carreira de pontos.
+15. Costure a peça do dorso ao redor do polegar e da borda da palma.
+16. Deixe a manga aberta no pulso para calçar e tirar a luva.
+17. Costure duas carreiras de pontos paralelos na borda da manga.
+18. Vire a luva e retire os fios soltos que ficaram por dentro.
+19. Repita os passos para a outra mão, invertendo o molde.
+
+ATENCAO
+-------
+Esta luva improvisada NÃO é EPI certificado e não tem CA.
+Ela reduz arranhões e abrasão, mas não protege contra corte profundo.
+Nenhum tecido caseiro é barreira confiável contra produtos químicos.
+Couro molhado perde resistência e pode apodrecer com o tempo.
+A luva aperta a mão e cansa; pare se houver formigamento ou dormência.
+Não reutilize a luva após contato com sangue ou resíduo suspeito.
+Em dúvida, pare a tarefa e procure EPI certificado ou ajuda.
+
+SE NAO TIVER
+------------
+Sem couro, use lona grossa ou duas camadas de jeans sem rasgos.
+Sem linha encerada, use barbante de algodão passado por cera ou vela.
+Sem papelão, use papel de embrulho dobrado ou trace a própria mão.
+Sem agulha grossa, não improvise com arame: ele quebra e fere a mão.
+Se o material for fino, sobreponha duas camadas e costure-as juntas.
+Para químico, eletricidade ou corte grave, não há substituto caseiro.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A luva cobre palma, dorso, polegar e parte do pulso sem apertar os dedos.
+As costuras ficam firmes, sem pontos saltados, ao puxar levemente.
+Ao esfregar a palma em tecido áspero, não abrem furos nem soltam fiapos.
+A mão entra e sai da luva sem rasgar a manga.
+
+FONTES
+------
+NR-6, do Ministério do Trabalho e Emprego, sobre EPI e Certificado de
+Aprovação. Norma 29 CFR 1910.138 da OSHA sobre proteção das mãos. Manual
+Técnico da OSHA, seção VIII, capítulo 1, sobre roupas de proteção química.
+Orientações do NIOSH sobre seleção de roupas de proteção. A confecção em
+si é prática consolidada de costura manual, sem documento único. Este
+texto é resumo operacional, não substitui treinamento.

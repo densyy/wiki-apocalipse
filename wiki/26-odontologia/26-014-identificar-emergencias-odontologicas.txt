@@ -1,0 +1,86 @@
+==============================================================================
+CODIGO: 26-014
+TITULO: Como identificar emergências odontológicas
+CATEGORIA: 26 - Odontologia e saúde bucal
+TEMPO: 10 minutos
+RISCO: alto
+EXIGE: luz, espelho, luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: dor de dente, inchaço, dente quebrado, febre, pus, trauma
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer os sinais de emergência odontológica e decidir quem precisa de
+atendimento imediato.
+
+QUANDO USAR
+-----------
+Dor de dente forte, constante, que não cessa.
+Inchaço na face, na gengiva ou no pescoço.
+Dente arrancado, quebrado ou deslocado após trauma.
+Sangramento na boca que não para com pressão.
+Febre ou pus junto com dor de dente.
+Dificuldade para engolir, respirar ou abrir a boca.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para este procedimento.
+Este texto apenas classifica sinais e não substitui o dentista.
+
+MATERIAIS
+---------
+- Luz forte (lanterna ou luz do sol).
+- Espelho pequeno (ou uma colher limpa).
+- Luvas descartáveis (na falta, lave as mãos com água e sabão).
+- Papel e lápis para anotar sinais e horários.
+
+PROCEDIMENTO
+------------
+1. Acenda a luz e peça à pessoa para sentar.
+2. Peça para abrir a boca e apontar a área que dói.
+3. Observe se há inchaço na face, na gengiva ou no pescoço.
+4. Observe se há pus ou gengiva muito vermelha.
+5. Pergunte se a dor é constante e impede comer ou dormir.
+6. Verifique se houve trauma e se algum dente falta ou quebrou.
+7. Meça a temperatura se a pessoa estiver quente ou com calafrios.
+8. Verifique se a pessoa consegue respirar, engolir e abrir a boca.
+9. Marque como sinal grave o inchaço com febre.
+10. Marque como grave a dificuldade de respirar, engolir ou abrir a boca.
+11. Marque como sinal urgente a dor forte ou o dente arrancado ou quebrado.
+12. Marque como sinal urgente o sangramento que não para com pressão.
+13. Procure atendimento imediato se houver qualquer sinal grave.
+14. Procure atendimento no mesmo dia se houver sinal urgente.
+15. Anote a hora de início e os sinais observados para o profissional.
+
+ATENCAO
+-------
+Inchaço na face com febre pode indicar infecção que se espalha.
+Dificuldade para respirar ou engolir exige atendimento imediato.
+Não corte, não fure nem tente drenar pus com objeto improvisado.
+Não coloque comprimido, sal ou álcool direto na gengiva.
+Dor sem inchaço também pode ser grave; não descarte o sinal.
+Este texto só classifica sinais: não trata e não medica.
+Não substitui o dentista.
+Na dúvida, classifique como grave e procure atendimento.
+
+SE NAO TIVER
+------------
+Sem lanterna, use a luz do sol ou a lanterna de outra pessoa.
+Sem espelho, peça a outra pessoa para olhar e descrever a área.
+Sem luvas, lave as mãos com água e sabão antes de tocar na boca.
+Sem termômetro, não adivinhe a febre.
+Com calafrios e mal-estar, trate como grave.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A classificação cobre inchaço, febre, dor, trauma, sangramento e respiração.
+Cada achado foi marcado como grave, urgente ou não urgente.
+A decisão de procurar ajuda foi tomada se havia sinal grave.
+A hora de início e os sinais foram anotados para o profissional.
+
+FONTES
+------
+Prática consolidada de triagem em saúde bucal de emergência, sem documento
+único. Referência da área: OMS, OPAS e Ministério da Saúde. Este texto é
+resumo operacional e não substitui treinamento nem avaliação profissional.

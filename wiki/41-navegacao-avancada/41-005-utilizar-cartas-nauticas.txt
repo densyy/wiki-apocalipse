@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 41-005
+TITULO: Como utilizar cartas náuticas
+CATEGORIA: 41 - Navegação avançada e técnicas de expedição
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: carta náutica da área, bússola, régua ou compasso, lápis, caderno
+REVISAO: 2026-11
+PALAVRAS-CHAVE: carta, náutica, navegação, profundidade, boia, mapa do mar
+==============================================================================
+
+OBJETIVO
+--------
+Ler uma carta náutica e traçar uma rota que evite os perigos da área.
+
+QUANDO USAR
+-----------
+Ao planejar uma travessia em água profunda ou desconhecida.
+Ao entrar em porto, baía ou canal com boias e faróis.
+Ao conferir a posição durante a navegação.
+Ao escolher onde fundear com segurança.
+
+NAO USE QUANDO
+--------------
+Quando a carta estiver desatualizada, sem data de edição ou com correções
+pendentes. Quando não houver carta da área, não navegue por memória nem por
+aplicativo de mapas comum.
+
+MATERIAIS
+---------
+- Carta náutica atualizada da área (ou visão eletrônica da mesma origem).
+- Bússola magnética.
+- Régua ou compasso para medir distâncias.
+- Lápis e caderno.
+- Tabela de marés da região, quando houver maré.
+
+PROCEDIMENTO
+------------
+1. Confira a data da edição e a área que a carta cobre.
+2. Leia o título e anote a unidade das profundidades: metros, pés ou
+   braças (uma braça equivale a seis pés).
+3. Anote o nível de referência das profundidades, chamado datum, e a data
+   da última correção.
+4. Observe a escala e escolha a carta de maior escala disponível da área.
+5. Localize a rosa dos ventos e anote a variação magnética e o ano dela.
+6. Leia as notas de cautela e o diagrama de fontes antes de traçar a rota.
+7. Marque os perigos: recifes, bancos de areia, naufrágios e obstruções.
+8. Observe as cores: azul mostra água rasa; branco, fundo livre; magenta,
+   luzes e áreas regulamentadas.
+9. Identifique boias e faróis na carta e confira cada um no caminho.
+10. Meça a distância na escala de latitude: um minuto vale uma milha
+    náutica.
+11. Meça os rumos na rosa dos ventos e corrija a variação para o ano atual.
+12. Desenhe a rota com lápis, contornando as áreas de pouca profundidade.
+13. Compare a profundidade indicada com a calagem (parte do casco submersa)
+    da embarcação e com a maré do dia.
+14. Confira a posição no decorrer do caminho usando pontos fixos em terra.
+
+ATENCAO
+-------
+A carta não mostra maré, corrente, vento nem obstruções recentes.
+As profundidades são referidas ao datum, em geral a maré baixa: na maré
+baixa a água real pode ser mais rasa que o número impresso.
+As sondagens são valores medidos em pontos; entre elas o fundo pode subir.
+Um número sublinhado mostra a altura de uma rocha que aparece na baixa-mar,
+não uma profundidade.
+Boias e luzes flutuantes se deslocam, apagam ou afundam: nunca confie só
+nelas.
+A variação magnética muda a cada ano; use a data impressa na rosa.
+Em carta de pequena escala, perigos são omitidos: use a maior escala.
+Se a rota passar perto de recife, naufrágio ou levantamento antigo, pare e
+procure um navegador experiente.
+
+SE NAO TIVER
+------------
+Sem carta impressa, use a visão eletrônica da mesma origem oficial, com as
+camadas de perigos ligadas.
+Sem carta atualizada, não invente profundidades: fique em águas conhecidas.
+Sem tabela de marés, trate cada profundidade como o mínimo possível e
+aumente a margem de segurança.
+Um mapa de celular não substitui carta náutica: não mostra recifes,
+sondagens nem boias.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A rota desenhada passa só por águas mais fundas que a calagem somada à
+margem de segurança.
+Os rumos estão anotados com a variação corrigida para o ano atual.
+A posição conferida no caminho coincide com os pontos fixos observados.
+
+FONTES
+------
+NOAA National Ocean Service, tutorial All About Nautical Charts e nota
+What do the numbers mean on a nautical chart; U.S. Chart No. 1, da NOAA e
+da NGA; U.S. Coast Pilot, capítulo de informações gerais. Resumo
+operacional, não substitui treinamento de navegação.

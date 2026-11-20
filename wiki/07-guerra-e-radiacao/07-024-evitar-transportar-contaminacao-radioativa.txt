@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 07-024
+TITULO: Como evitar levar contaminação radioativa para casa
+CATEGORIA: 07 - Guerra, radiação e catástrofes nucleares
+TEMPO: 20 minutos
+RISCO: critico
+EXIGE: saco plástico, sabão, água, roupa limpa guardada
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fallout, poeira, descontaminação, roupa, casa, abrigo
+==============================================================================
+
+OBJETIVO
+--------
+Impeça que poeira radioativa da roupa e corpo entre na casa.
+
+QUANDO USAR
+-----------
+Quando voltar de fora após explosão nuclear ou alerta nuclear.
+Quando vir poeira parecida com areia caindo do céu.
+Quando precisar entrar em casa após passar por área com poeira.
+Quando receber em casa alguém que estava fora na poeira.
+Quando tirar da rua animal, objeto ou compra com poeira.
+
+NAO USE QUANDO
+--------------
+Não atrase socorro a ferido grave para descontaminar primeiro.
+Não saia do abrigo no pico da poeira para limpar área externa.
+Não jogue fora documento ou remédio preso à roupa sem conferir.
+
+MATERIAIS
+---------
+- Saco plástico grande com amarrilho (saco de lixo, fronha).
+- Sapato fechado reserva e roupa limpa guardada em armário.
+- Sabão comum e xampu sem condicionador (sabão neutro).
+- Água morna da torneira, pano limpo ou lenço umedecido.
+- Luvas impermeáveis e pano para nariz e boca (máscara).
+- Local de transição: varanda, garagem ou porta de entrada.
+
+PROCEDIMENTO
+------------
+1. Pare na varanda ou garagem antes de entrar na sala limpa.
+2. Cubra nariz e boca com pano antes de mexer na roupa.
+3. Tire sapato e deixe fora da sala com sola para baixo.
+4. Tire a camada externa com cuidado sem sacudir nem encostar.
+5. Coloque a roupa tirada em saco plástico e amarre bem.
+6. Deixe o saco em canto longe de gente e animal, fora da sala.
+7. Limpe focinho e pata de animal com pano úmido antes de entrar.
+8. Lave mãos, rosto e parte sem cobertura com sabão e água.
+9. Assoe o nariz e limpe pálpebra, cílio e orelha com pano úmido.
+10. Tome banho morno com sabão e xampu sem esfregar a pele.
+11. Não passe condicionador nesta lavagem para não fixar poeira.
+12. Mantenha corte e arranhão cobertos durante a lavagem.
+13. Vista roupa limpa guardada e feche portas e janelas da casa.
+
+ATENCAO
+-------
+Poeira sem cheiro nem gosto emite raio gama que atravessa roupa.
+Tirar a roupa externa remove aproximadamente 90 por cento do mal.
+Sacudir roupa espalha poeira no ar e leva poeira ao pulmão.
+Máscara e pano seguram poeira no pulmão mas não param raio gama.
+Água quente, bucha e unha ferem a pele e abrem porta ao mal.
+Condicionador fixa poeira no cabelo e dificulta a limpeza.
+Ferver água não tira material radioativo e pode concentrar o mal.
+Dose de corpo inteiro acima de aproximadamente 4 Gy pode matar.
+Vômito rápido, queimadura sem fogo e tontura pedem socorro urgente.
+Este texto não limpa casa toda nem trata enjoo de radiação.
+
+SE NAO TIVER
+------------
+Sem saco plástico, deixe roupa de fora longe da sala do abrigo.
+Sem varanda, troque de roupa na porta e limpe o chão depois.
+Sem chuveiro, lave mão e rosto na pia com sabão e água.
+Sem pia, limpe pele com pano úmido e assoe o nariz.
+Sem roupa limpa, bata roupa fora, vista de novo e lave pele.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você entrou na sala limpa só de roupa limpa e sapato limpo.
+Saco com roupa de fora está fechado longe de gente e animal.
+Pele e cabelo foram lavados e poeira visível saiu do corpo.
+Casa segue com porta e janela fechadas e ventilação desligada.
+
+FONTES
+------
+Página sobre autodescontaminação após emergência do CDC americano.
+Guia de comunicação após detonação nuclear da FEMA.
+Guia de planejamento para detonação nuclear da FEMA.
+Página sobre entrar e ficar dentro do CDC americano.
+Instrução de acompanhamento para evento radiológico do REMM.

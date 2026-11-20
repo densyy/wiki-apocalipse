@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 01-049
+TITULO: Como construir um sistema de irrigação por gotejamento
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 2 horas
+RISCO: medio
+EXIGE: caixa d'água, mangueira gotejadora, filtro, conexões, suporte alto
+REVISAO: 2026-11
+PALAVRAS-CHAVE: gotejamento, irrigação, horta, gotejador, mangueira, filtro
+==============================================================================
+
+OBJETIVO
+--------
+Montar um sistema que leva água gota a gota até a raiz de cada planta.
+
+QUANDO USAR
+-----------
+Quando a água for escassa e precisar chegar só às raízes.
+Quando a horta tiver até aproximadamente 500 m² e não houver energia.
+
+NAO USE QUANDO
+--------------
+Não use com água barrenta ou sem ponto mais alto que a horta para a caixa.
+
+MATERIAIS
+---------
+- Caixa d'água tampada de 200 a 1.000 litros (balde ou barril).
+- Mangueira gotejadora: tubo com furos (gotejadores) que pingam água.
+- Mangueira de polietileno de 20 mm para a linha principal.
+- Registro de esfera, filtro de discos (ou tela), conexões e tampas.
+- Suporte firme de 1,5 a 2 metros (tijolos, madeira ou cavalete).
+
+PROCEDIMENTO
+------------
+1. Escolha o ponto mais alto perto da horta para apoiar a caixa.
+2. Monte o suporte firme e eleve a caixa de 1,5 a 2 metros do solo.
+3. Tampe a caixa para manter poeira, insetos e algas fora da água.
+4. Encaixe o registro de esfera na saída da caixa.
+5. Encaixe o filtro logo depois do registro, para reter a sujeira.
+6. Estenda a mangueira de 20 mm do filtro até a entrada da horta.
+7. Estenda uma mangueira gotejadora por fileira; use duas em solo arenoso.
+8. Feche as pontas com tampas e prenda as mangueiras com estacas.
+9. Abra o registro. Deixe correr até sair água limpa na última mangueira.
+
+ATENCAO
+-------
+- Gotejadores entopem fácil com água barrenta. Limpe o filtro sempre.
+- Embrapa: 1,5 a 2 m de altura; FAO: 1 a 1,5 m em tanques grandes.
+- Cartilha da Embrapa pede 7 m de desnível para gotejador comum;
+  aqui se usa gotejador de baixa vazão. Não troque o tipo sem ajustar.
+- Caixa cheia pesa uma tonelada: assente o suporte em terra firme.
+
+SE NAO TIVER
+------------
+- Sem caixa, use balde ou barril tampado, desde que caiba na altura.
+- Sem mangueira gotejadora, fure uma mangueira comum com agulha quente
+  a cada aproximadamente 0,30 m (o furo artesanal entope mais fácil).
+- Sem filtro de discos, use tela limpa; sem tela, não use água suja.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- A água pinga em gotas regulares em todos os furos, sem vazamentos.
+- O solo ficou úmido em faixa estreita, sem poças nem escorrimento.
+
+FONTES
+------
+- Embrapa Semiárido, Sistema de gotejamento por gravidade para a
+  irrigação de hortas (Instrução Técnica, 2015).
+- Embrapa Mandioca e Fruticultura, Cartilha de Manejo da Irrigação,
+  2ª edição, 2017; FAO, Pressurized Irrigation Techniques, caps. 14 e 15.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 39-018
+TITULO: Como compreender lentes convergentes e divergentes
+CATEGORIA: 39 - Óptica e instrumentos científicos
+TEMPO: 25 minutos
+RISCO: baixo
+EXIGE: lente de aumento, papel branco, luz indireta
+REVISAO: 2026-11
+PALAVRAS-CHAVE: lente, convergente, divergente, convexa, lupa, imagem
+==============================================================================
+
+OBJETIVO
+--------
+Distinguir a convergente da divergente e prever a imagem de cada uma.
+
+QUANDO USAR
+-----------
+Quando precisar escolher lupa, óculo ou lente de projeção.
+Quando quiser saber por que uma imagem fica ampliada, menor ou invertida.
+
+NAO USE QUANDO
+--------------
+Não use para prescrever óculos, nem com lente rachada ou suja.
+
+MATERIAIS
+---------
+- Lente de aumento comum, de vidro ou plástico.
+- Papel branco liso para servir de tela.
+- Texto impresso pequeno e fonte de luz indireta: janela ou lâmpada.
+- Lente divergente de óculos para miopia, se houver.
+
+PROCEDIMENTO
+------------
+1. Observe de lado o centro e a borda da lente.
+2. Classifique como convergente se o centro for mais grosso que a borda.
+3. Classifique como divergente se o centro for mais fino que a borda.
+4. Coloque um texto pequeno sobre a mesa, em lugar iluminado.
+5. Aproxime a convergente do texto e afaste até ele ficar nítido e maior.
+6. Note que essa imagem é direita e virtual: não aparece no papel.
+7. Repita com a divergente e veja o texto ficar menor e direito.
+8. Fique a cerca de 2 metros de uma janela clara, de costas para a luz.
+9. Segure a lente convergente entre a luz e o papel branco.
+10. Mova o papel até aparecer imagem nítida e invertida: é uma imagem real.
+11. Repita com a divergente e confirme que nenhuma imagem nítida aparece.
+
+ATENCAO
+-------
+Nunca aponte a lente para o Sol nem olhe para o Sol através dela.
+A lente concentra luz e pode queimar a retina sem dor imediata.
+A luz concentrada também pode queimar papel, pano ou plástico.
+Não confunda lente com espelho: a lente deixa a luz passar.
+Lente suja ou riscada dá imagem borrada e conclusão errada.
+Pare se os olhos doerem e procure ajuda.
+
+SE NAO TIVER
+------------
+Sem lente divergente, use um copo d'água: a imagem costuma ficar menor.
+Sem papel branco, use parede clara ou folha de caderno.
+Sem janela clara, use lâmpada difusa; não improvise com vidro de garrafa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A lente grossa no centro amplia o texto e projeta imagem invertida no papel.
+A lente fina no centro reduz o texto e não projeta imagem.
+
+FONTES
+------
+Óptica geométrica: raios principais e equação das lentes delgadas.
+Material didático do Physics Classroom: Refraction and Lenses.
+Resumo operacional; não substitui treinamento em óptica.

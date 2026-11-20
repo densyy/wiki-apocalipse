@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 01-041
+TITULO: Como construir reservatórios de água
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 120 minutos
+RISCO: medio
+EXIGE: tanque de plástico com tampa, base firme, torneira, água sanitária
+REVISAO: 2026-11
+PALAVRAS-CHAVE: reservatório, tanque, cisterna, armazenar, água, chuva
+==============================================================================
+
+OBJETIVO
+--------
+Montar um reservatório fechado que guarda água sem recontaminar.
+
+QUANDO USAR
+-----------
+Quando a fonte de água é intermitente e é preciso acumular água.
+Quando se capta água da chuva do telhado para usar depois.
+
+NAO USE QUANDO
+--------------
+Não use recipiente que guardou combustível, agrotóxico ou produto químico.
+Não use sem tampa: mosca, poeira e fezes de animal entram na água.
+
+MATERIAIS
+---------
+- Tanque de plástico próprio para água, com tampa e tela na entrada.
+- Base firme e nivelada de blocos, tijolo ou terra compactada.
+- Torneira ou válvula para a saída na parte baixa.
+- Água sanitária sem cheiro, com 5% a 9% de hipoclorito de sódio.
+
+PROCEDIMENTO
+------------
+1. Escolha lugar plano, firme, perto de casa e longe de esgoto e gasolina.
+2. Nivele a base; o tanque deve apoiar por igual, sem pedra pontuda.
+3. Lave o tanque com sabão e água limpa e enxágue bem.
+4. Prepare 5 mL de água sanitária para cada litro de água.
+5. Despeje no tanque, tampe e agite para molhar toda a parede interna.
+6. Espere pelo menos 30 segundos e descarte a solução.
+7. Enxágue com água tratada e deixe secar ao ar.
+8. Coloque o tanque na base e instale a torneira na parte baixa.
+9. Prenda a tela na boca de entrada e mantenha a tampa fechada.
+10. Desvie a primeira água da chuva antes de deixar entrar no tanque.
+11. Encha com água limpa ou tratada, sem mergulhar mãos ou balde dentro.
+12. Escreva "água para beber" e a data no tanque.
+
+ATENCAO
+-------
+O reservatório não trata a água: trate antes de guardar, veja 01-001.
+A tampa e a tela impedem mosca e poeira; sem elas a água recontamina.
+Nunca use tambor de óleo, gasolina ou agrotóxico: resíduo passa à água.
+Base desnivelada racha o tanque; nunca apoie em pedra aguda.
+Tampa solta deixa criança cair: fixe bem e afaste crianças do tanque.
+
+SE NAO TIVER
+------------
+Sem tanque de plástico, use tambor metálico novo ou cisterna rebocada.
+Sem tela, prenda pano limpo na boca e troque quando sujar.
+Sem água sanitária, lave com sabão, enxágue e trate a água antes de beber.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O tanque está firme, sem balanço, com torneira baixa e tampa presa.
+A água sai limpa, sem cheiro químico, sem inseto ou folha dentro.
+
+FONTES
+------
+CDC: armazenamento seguro de água em recipiente limpo e fechado.
+Embrapa, cartilha da cisterna de placas: coberto, base firme e calçada.

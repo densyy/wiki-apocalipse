@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 43-003
+TITULO: Como produzir fibras de vidro
+CATEGORIA: 43 - Produção de materiais de construção
+TEMPO: 120 minutos
+RISCO: alto
+EXIGE: forno muito quente, cadinho refratário, proteção e ventilação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: vidro, fibra, filamento, lã de vidro, fundir, reforço
+==============================================================================
+
+OBJETIVO
+--------
+Obter fios finos de vidro para reforçar resina, vedar ou isolar.
+
+QUANDO USAR
+-----------
+Quando falta fibra de vidro para reforçar resina ou fazer compósito.
+Quando há forno muito quente, areia, barrilha e calcário ou cacos de vidro.
+Para filamento contínuo, lã de vidro, fita, tecido ou enchimento.
+
+NAO USE QUANDO
+--------------
+Sem forno que atinja aproximadamente 1200 °C, a mistura não funde.
+Sem óculos, máscara, luvas ou exaustão, não execute o serviço.
+Não use a fibra artesanal onde a resistência é crítica: andaimes ou cabos.
+
+MATERIAIS
+---------
+- Areia de sílica fina, lavada e seca (ou cacos de vidro limpos, sem tinta).
+- Areia (70 partes), barrilha (15, fundente) e calcário (10), em peso.
+- Cadinho de argila refratária ou grafite para a massa fundida.
+- Forno ou fornalha com chaminé, aproximadamente 1200 °C ou mais.
+- Vara de ferro limpa e pinça longa para manejar a massa.
+- Carretel giratório com manivela para enrolar o filamento.
+- Disco giratório de metal, apenas se quiser lã de vidro.
+- Óculos de lente escura, luvas grossas, mangas longas, avental e máscara.
+
+PROCEDIMENTO
+------------
+1. Peneire a areia, lave-a para tirar sal e impurezas e seque-a bem.
+2. Moa o calcário até virar pó fino e peneire esse pó.
+3. Misture aproximadamente 70 partes de areia, 15 de barrilha e 10 de
+   calcário, em peso, até ficar uniforme. Se usar cacos, pule esta etapa.
+4. Aqueça o cadinho vazio devagar dentro do forno para não trincar.
+5. Coloque a carga no cadinho quente, aos poucos, sem encher demais.
+6. Suba para aproximadamente 1200 °C ou o máximo do forno, até a massa
+   ficar líquida e brilhante, sem grãos de areia visíveis.
+7. Com a pinça longa, retire a espuma e as impurezas que vêm à tona.
+8. Mergulhe a ponta da vara na massa e recolha uma gota de vidro.
+9. Encoste a gota no carretel girando e puxe: nasce um filamento contínuo.
+10. Enrole o fio no carretel; gire mais rápido para obter fio mais fino.
+11. Para lã de vidro, despeje a massa sobre o disco giratório e recolha
+    os filamentos curtos com a pinça, nunca com as mãos nuas.
+12. Desligue o fogo e deixe o cadinho esfriar antes de manusear.
+13. Guarde o fio enrolado em saco ou papel, sem amassar nem molhar.
+
+ATENCAO
+-------
+Vidro fundido passa de 1000 °C: contato causa queimadura grave na hora.
+Nunca jogue água no vidro ou nas ferramentas quentes: o vapor explode
+e projeta vidro fundido no rosto e nas mãos.
+Aqueça toda ferramenta que vai tocar a massa: objeto frio causa choque
+térmico, quebra a peça e respinga material incandescente.
+O filamento fino quebra e crava na pele, nos olhos e nos pulmões: provoca
+coceira, olhos irritados, tosse e rouquidão.
+Use luvas, óculos e máscara; lave a pele exposta com água e sabão, sem
+esfregar, para não embutir os cacos de fibra.
+Trabalhe ao ar livre ou com exaustão: as fibras respiráveis finas são o
+maior risco deste serviço, mesmo quando não coçam.
+A queima dos carbonatos libera fumos que irritam olhos e vias aéreas.
+Forno a lenha em ambiente fechado produz monóxido de carbono: use chaminé.
+Proteja os olhos do brilho intenso do forno com óculos de lente escura.
+A fibra artesanal tem bolhas e diâmetro irregular: não serve onde a
+resistência é crítica, como andaimes, cabos ou peças de carga.
+Pare e procure ajuda se faltar proteção, ventilação ou forno adequado.
+
+SE NAO TIVER
+------------
+Sem barrilha, use cinza de madeira peneirada como fundente: o vidro fica
+mais escuro e absorve umidade, sirva só para teste.
+Sem calcário, moa cascas de ovo ou conchas limpas como fonte de cálcio.
+Sem carretel com manivela, prenda um bastão de madeira e enrolar o fio à
+mão; o filamento fica mais irregular.
+Sem disco giratório, estique a massa com duas pinças e corte em pedaços
+para obter fibra curta.
+Sem forno quente, não use fogo aberto: não funde e arrisca incêndio.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A massa fundida escorre como mel espesso, sem grãos e com poucas bolhas.
+O filamento sai contínuo, transparente e flexível, sem nós nem gotas.
+Ao enrolar com luvas, a fibra não se desfaz em pó ao leve toque.
+
+FONTES
+------
+Prática de vidraria e fabricação de fibras: fundição e estiramento do
+filamento, conforme Ullmann's Encyclopedia of Industrial Chemistry
+(verbetes "Glass" e "Fibers, 5. Synthetic Inorganic"). Risco segundo
+IARC, NIOSH e OSHA, verbete "Fiberglass". Resumo, não substitui treino.

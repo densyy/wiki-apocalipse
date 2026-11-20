@@ -1,0 +1,76 @@
+==============================================================================
+CODIGO: 68-003
+TITULO: Como compreender modulação de amplitude
+CATEGORIA: 68 - Radiofrequência e telecomunicações
+TEMPO: 40 minutos
+RISCO: baixo
+EXIGE: rádio com faixa AM, caderno, lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: am, modulação, portadora, banda lateral, rádio, som
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer a modulação de amplitude e explicar como a informação viaja
+em uma onda de rádio AM.
+
+QUANDO USAR
+-----------
+Ao ouvir rádio AM e querer entender por que o som sofre com interferência.
+Ao escolher entre AM e FM para uma comunicação de voz.
+Ao estudar o desenho de um transmissor ou receptor simples.
+Ao interpretar um medidor de modulação em um transmissor.
+
+NAO USE QUANDO
+--------------
+Quando for preciso projetar ou ajustar um transmissor de potência.
+Este texto explica o conceito; não habilita intervenção em equipamento
+energizado nem substitui treinamento em radiofrequência.
+
+MATERIAIS
+---------
+- Aparelho de rádio com recepção AM (ou receptor de galena).
+- Caderno e lápis para anotar o que observar.
+
+PROCEDIMENTO
+------------
+1. Sintonize uma estação AM com voz, em frequência estável.
+2. Identifique o tom contínuo de fundo, chamado portadora.
+3. Observe que o volume acompanha a voz, não a frequência.
+4. Compare a altura da onda com o volume da voz ouvida.
+5. Aproxime uma lâmpada ou fonte de interferência da antena.
+6. Anote como o ruído entra no AM mesmo com sinal forte.
+7. Troque para uma estação FM próxima.
+8. Compare o ruído do AM com o da FM.
+9. Desenhe a onda: eixo central fixo e altura variando com o som.
+
+ATENCAO
+-------
+A portadora não carrega a informação; ela só serve de referência.
+A informação está nas bandas laterais, acima e abaixo da portadora.
+Se a modulação passar de cem por cento, a envoltória é cortada e o som
+fica distorcido. Isso se chama sobremodulação.
+O AM é sensível a ruído elétrico: raios, motores e lâmpadas entram junto.
+Não abra equipamento energizado para observar os sinais internos.
+Não aumente a potência de um transmissor para melhorar a recepção.
+
+SE NAO TIVER
+------------
+Sem rádio AM, use desenho: trace uma senoide de altura constante e
+depois uma cuja altura muda com o som. Sem estação no ar, compare dois
+arquivos de áudio, um com tom puro e outro com voz.
+Não use transmissor improvisado para testar; isso pode interferir em
+comunicações reais e é proibido sem licença.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue apontar a portadora e as duas bandas laterais no desenho.
+Você explica que o som está na variação de altura, não na de frequência.
+Você percebe mais ruído no AM do que no FM nas mesmas condições.
+
+FONTES
+------
+Prática consolidada de engenharia de telecomunicações. O conceito de
+portadora, bandas laterais e índice de modulação é ensinado em manuais
+de radiocomunicações e nas designações de emissão da UIT (A3E).
+Resumo operacional; não substitui treinamento formal.

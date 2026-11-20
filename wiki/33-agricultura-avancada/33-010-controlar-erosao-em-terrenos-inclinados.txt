@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 33-010
+TITULO: Como controlar erosão em terrenos inclinados
+CATEGORIA: 33 - Agricultura avançada e autossuficiência rural
+TEMPO: 180 minutos
+RISCO: medio
+EXIGE: encosta descoberta, mangueira, estacas, enxada, palha, mudas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: erosão, encosta, terraço, curva de nível, palha, enxurrada
+==============================================================================
+
+OBJETIVO
+--------
+Reduzir a perda de solo e nutrientes em uma encosta cultivada.
+
+QUANDO USAR
+-----------
+Quando a chuva abre sulcos ou leva terra morro abaixo.
+Quando o solo fica exposto entre colheita e novo plantio.
+
+NAO USE QUANDO
+--------------
+Não use em encosta com rachaduras ou deslizamento ativo.
+Nesses casos saia da área e procure ajuda, obra manual não resolve.
+
+MATERIAIS
+---------
+- Mangueira cheia de água (nível improvisado).
+- Estacas de cerca de 80 cm (gravetos ponteagudos).
+- Trena ou corda com nós de metro em metro.
+- Enxada ou pá e palha ou capim cortado.
+- Mudas de capim-vetiver, capim-elefante ou feijão-de-porco.
+
+PROCEDIMENTO
+------------
+1. Marque com estaca os pontos onde a água correu após a chuva.
+2. Trabalhe do topo para baixo, nunca no sulco molhado.
+3. Encha a mangueira e prenda uma ponta no ponto mais alto.
+4. Caminhe de lado e finque estacas onde a água parar nas pontas.
+5. Repita até formar uma linha nivelada através da encosta.
+6. Marque a linha seguinte mais abaixo, a aproximadamente 8 metros.
+7. Cave um sulco raso seguindo uma linha de estacas.
+8. Amontoe a terra abaixo do sulco em cordão de aproximadamente 30 cm.
+9. Pise o cordão para fechar fendas e deixá-lo firme.
+10. Espalhe palha entre os cordões em camada de aproximadamente 5 cm.
+11. Plante as mudas sobre os cordões, a aproximadamente 20 cm entre si.
+12. Plante a lavoura sempre no sentido das linhas de estaca.
+13. Abra um desvio no topo para a água não descer sobre o solo mexido.
+
+ATENCAO
+-------
+Cordão mal nivelado vira caminho de água e piora a erosão.
+Não trabalhe com chuva forte nem em solo muito encharcado.
+Terraço em solo pedregoso ou muito raso não funciona.
+Cobertura morta sozinha não segura enxurrada em rampa longa.
+Se o barranco avançar ou aparecer rachadura, pare e peça ajuda.
+
+SE NAO TIVER
+------------
+Sem mangueira, use um nível de pedreiro ou régua com prumo.
+Sem mudas, use capim cortado e galhos finos como cordão temporário.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Após a chuva, a água corre ao longo dos cordões e não abre sulcos.
+
+FONTES
+------
+- Embrapa: terraceamento, curvas de nível, cobertura morta.
+- USDA NRCS: cultivo em contorno, terraços e faixas vegetadas.

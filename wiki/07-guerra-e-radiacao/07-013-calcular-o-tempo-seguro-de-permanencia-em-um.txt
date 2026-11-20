@@ -1,0 +1,82 @@
+==============================================================================
+CODIGO: 07-013
+TITULO: Como calcular o tempo seguro de permanência em um abrigo
+CATEGORIA: 07 - Guerra, radiação e catástrofes nucleares
+TEMPO: 20 minutos
+RISCO: critico
+EXIGE: relógio, rádio a pilha, papel e lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: abrigo, fallout, tempo, sair, radiação, 24 horas, esperar
+==============================================================================
+
+OBJETIVO
+--------
+Defina a hora mínima para sair do abrigo sem pegar o pico do fallout.
+
+QUANDO USAR
+-----------
+Quando já estiver abrigado após explosão nuclear próxima.
+Quando o fallout já estiver caindo fora do abrigo.
+Quando precisar decidir se pode sair para buscar ajuda.
+Quando o rádio estiver mudo e não houver ordem oficial.
+Quando precisar explicar o prazo de espera para a família.
+
+NAO USE QUANDO
+--------------
+Não use este cálculo para escolher sair antes de 24 horas.
+Não use se houver fogo, gás, desabamento ou ferido grave.
+Nesses casos saia do ponto atual e busque outro abrigo.
+
+MATERIAIS
+---------
+- Relógio, celular ou marcação de hora (papel serve).
+- Rádio a pilha ou celular com bateria (para ordem oficial).
+- Papel e lápis para anotar hora e recados.
+
+PROCEDIMENTO
+------------
+1. Anote a hora da explosão no papel assim que entrar no abrigo.
+2. Some aproximadamente 24 horas e marque como saída mínima.
+3. Fique no ponto mais protegido até essa hora sem sair.
+4. Ligue o rádio a pilha e escute a defesa civil a cada hora.
+5. Obedeça à ordem oficial mesmo se já passou das 24 horas.
+6. Lembre que em aproximadamente 7 horas cai para cerca de 10%.
+7. Lembre que em aproximadamente 48 horas cai para cerca de 1%.
+8. Lembre que em aproximadamente 2 semanas resta cerca de 1% ou menos.
+9. Conte o tempo sempre a partir da hora da explosão anotada.
+10. Saia só para emergência e volte rápido para o protegido.
+11. Ao sair liberado, ande rápido e evite poeira, poça e entulho.
+12. Para tratar água depois de sair, veja 01-001.
+
+ATENCAO
+-------
+Sair na primeira hora pega dose aproximadamente 45 vezes maior.
+Poeira sem cheiro nem gosto emite raio gama que atravessa roupa.
+Máscara segura poeira no pulmão mas não bloqueia o raio gama.
+Cálculo de cabeça não substitui medição oficial com aparelho.
+Este método não protege contra fome, sede, frio ou falta de ar.
+Ficar além do limite do corpo também mata; ventile e ração água.
+Sinais de dose alta: vômito, tontura, queimadura e cansaço forte.
+Procure socorro se houver vômito, queimadura grande ou tontura.
+
+SE NAO TIVER
+------------
+Sem relógio, marque traços na parede a cada sono e refeição.
+Sem rádio, espere ordem gritada ou batida da defesa civil.
+Sem papel, risque a hora na parede ou grave na memória em voz alta.
+Sem abrigo bom, vá ao melhor porão perto em até 30 minutos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você tem a hora da explosão anotada e a hora mínima marcada.
+Você fica 24 horas inteiras sem saída desnecessária.
+Você cita que 7 horas dão 10% e 48 horas dão 1%.
+Você só sai com ordem oficial ou rota segura indicada.
+
+FONTES
+------
+Guia de planejamento para detonação nuclear da FEMA.
+Perguntas frequentes sobre emergências de radiação do CDC.
+Página de emergências de radiação do Ready.gov americano.
+Página de explosão nuclear da Cruz Vermelha americana.
+Prática consolidada de sobrevivência civil em manual militar.

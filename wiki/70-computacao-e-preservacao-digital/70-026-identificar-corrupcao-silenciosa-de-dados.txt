@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 70-026
+TITULO: Como identificar corrupção silenciosa de dados
+CATEGORIA: 70 - Computação de baixo consumo e preservação digital
+TEMPO: 25 minutos
+RISCO: baixo
+EXIGE: computador, arquivo original íntegro, registro anterior do checksum
+REVISAO: 2026-11
+PALAVRAS-CHAVE: corrupção, integridade, checksum, arquivo, bit rot, dados
+==============================================================================
+
+OBJETIVO
+--------
+Detectar mudanças invisíveis em arquivos guardados, comparando o código
+de integridade atual com o registrado quando o arquivo ainda era íntegro.
+
+QUANDO USAR
+-----------
+Quando um arquivo importante abre, mas pode ter mudado sem aviso.
+Quando dados ficam guardados por meses em disco, pendrive ou cartão.
+Depois de copiar arquivos entre aparelhos ou meios de guarda.
+Quando há suspeita de falha do meio, queda ou desligamento brusco.
+
+NAO USE QUANDO
+--------------
+Quando não há registro do código feito antes da suspeita de corrupção.
+Sem valor anterior, a comparação não detecta dano passado.
+
+MATERIAIS
+---------
+- Computador com ferramenta de checksum (sha256sum ou equivalente).
+- Registro do código de integridade anotado quando o arquivo era íntegro.
+- Cópia de referência confiável em outro meio, se existir.
+- Caderno para anotar nome, data, código e resultado da conferência.
+
+PROCEDIMENTO
+------------
+1. Localize o arquivo suspeito e anote nome, tamanho e data de guarda.
+2. Recupere o código de integridade registrado quando ele era íntegro.
+3. Use a mesma ferramenta e o mesmo algoritmo usados no registro.
+4. Calcule o código atual do arquivo com sha256sum ou certutil.
+5. Compare os dois códigos caractere por caractere, sem pular nenhum.
+6. Se divergirem, separe o arquivo e não o use como referência.
+7. Repita nas outras cópias; escolha a que bate com o registro antigo.
+8. Substitua a cópia falha pela boa, recalcule e anote a data no caderno.
+
+ATENCAO
+-------
+Corrupção silenciosa não avisa: o arquivo abre normal e está danificado.
+Checksum detecta mudança, mas não corrige o arquivo nem aponta a causa.
+Código registrado depois da suspeita não é referência confiável. Nunca
+apague a única cópia boa; se nenhuma bater, pare e peça ajuda.
+
+SE NAO TIVER
+------------
+Sem ferramenta própria, use a do sistema; o princípio é o mesmo.
+Sem registro anterior, compare com outra cópia em que você confie.
+Não trate abrir sem erro como prova de integridade.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O código calculado bate com o registrado, caractere por caractere.
+Todas as cópias têm o mesmo código e o caderno traz a data da checagem.
+
+FONTES
+------
+NIST FIPS 180-4, Secure Hash Standard: digests detectam mudanças.
+Digital Preservation Coalition, Manual de Preservação Digital: checksum,
+fixity check e renovação de mídia. Prática consolidada; resumo operacional.

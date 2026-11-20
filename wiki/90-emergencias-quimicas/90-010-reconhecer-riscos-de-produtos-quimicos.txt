@@ -1,0 +1,80 @@
+==============================================================================
+CODIGO: 90-010
+TITULO: Como reconhecer riscos de produtos químicos domésticos
+CATEGORIA: 90 - Emergências químicas, industriais e ambientais
+TEMPO: 15 minutos
+RISCO: medio
+EXIGE: luvas, ventilação, rótulos legíveis e recipientes identificados
+REVISAO: 2026-11
+PALAVRAS-CHAVE: limpeza, água sanitária, amônia, mistura, gás, veneno
+==============================================================================
+
+OBJETIVO
+---------
+Identificar riscos de produtos de limpeza e evitar misturas perigosas.
+
+QUANDO USAR
+-----------
+Antes de misturar produtos de limpeza em balde ou superfície.
+Ao sentir cheiro forte ou irritação nos olhos durante a limpeza.
+Quando produto estiver sem rótulo, vencido ou em recipiente de comida.
+Ao guardar venenos, solventes e combustíveis no mesmo armário.
+Quando criança ou animal tiver acesso a produtos domésticos.
+
+NAO USE QUANDO
+--------------
+Não misture água sanitária com amônia, ácido ou vinagre.
+Não use produto sem rótulo ou com cheiro suspeito.
+Não faça limpeza em ambiente fechado sem ventilação.
+
+MATERIAIS
+---------
+- Luvas de borracha ou nitrilo.
+- Máscara com filtro para vapores, se disponível.
+- Rótulos legíveis e fita adesiva para identificar recipientes.
+- Água corrente e sabão para lavar a pele.
+- Caderno para anotar produto, validade e ocorrência.
+
+PROCEDIMENTO
+------------
+1. Leia o rótulo e o princípio ativo de cada produto antes de usar.
+2. Separe produtos incompatíveis em armários diferentes.
+3. Nunca misture água sanitária com amônia ou com ácidos.
+4. Nunca misture produtos diferentes sem orientação do rótulo.
+5. Ventile o ambiente abrindo portas e janelas.
+6. Coloque luvas antes de manusear produtos corrosivos.
+7. Use somente a dose indicada no rótulo.
+8. Não transfira produto para garrafa de refrigerante ou de comida.
+9. Etiquete qualquer recipiente com o nome do produto e a data.
+10. Feche bem as tampas e guarde longe de alimentos.
+11. Guarde fora do alcance de crianças e animais.
+12. Anote validade e descarte produto vencido conforme orientação local.
+
+ATENCAO
+-------
+A mistura de água sanitária com amônia libera gás cloramínico irritante.
+A mistura com ácido pode liberar cloro, que queima olhos e pulmões.
+Sintomas incluem tosse, ardência, falta de ar, náusea e dor no peito.
+Saia para o ar livre e procure atendimento se surgirem esses sinais.
+Não tente neutralizar com outro produto caseiro.
+Nunca despeje solvente ou veneno na pia ou no ralo.
+Em caso de ingestão, não provoque vômito: procure orientação médica.
+
+SE NAO TIVER
+------------
+Sem máscara, aumente a ventilação e reduza o tempo de exposição.
+Sem rótulo, não use o produto: identifique ou descarte com segurança.
+Sem armário separado, guarde em caixa fechada e etiquetada.
+Sem recipiente próprio, mantenha o produto na embalagem original.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os produtos estão identificados, separados e fora do alcance de crianças.
+Nenhuma mistura incompatível foi feita e o ambiente foi arejado.
+O descarte de vencidos seguiu a orientação do serviço local.
+
+FONTES
+------
+Resumo de fichas de segurança e campanhas de órgãos de saúde sobre produtos
+de limpeza doméstica. A proibição de misturar hipoclorito com amônia ou
+ácidos é recomendação consolidada em manuais de segurança doméstica.

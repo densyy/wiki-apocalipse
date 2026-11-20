@@ -1,0 +1,91 @@
+==============================================================================
+CODIGO: 16-024
+TITULO: Como identificar problemas no sistema de arrefecimento
+CATEGORIA: 16 - Transporte e mobilidade
+TEMPO: 25 minutos
+RISCO: alto
+EXIGE: motor frio, chave de fenda, pano, lanterna, luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: radiador, líquido, superaquecimento, motor quente, vazamento
+==============================================================================
+
+OBJETIVO
+--------
+Identificar sinais de falha no arrefecimento do motor.
+
+QUANDO USAR
+-----------
+Quando o ponteiro da temperatura sobe acima do normal.
+Quando aparece vapor saindo do capô ou do radiador.
+Quando o nível do líquido está abaixo da marca MIN.
+Quando há cheiro doce persistente perto do motor.
+Quando o aquecedor do interior não esquenta.
+Antes de viagem longa com o veículo parado há muito tempo.
+
+NAO USE QUANDO
+--------------
+Nao abra a tampa do radiador com o motor quente.
+O líquido está pressurizado e pode queimar gravemente.
+Não faça a inspeção em via movimentada sem parar em local seguro.
+
+MATERIAIS
+---------
+- Lanterna (pode ser a do celular).
+- Chave de fenda (pode ser uma moeda para soltar a tampa).
+- Pano limpo e luvas.
+- Água limpa para completar o nível na ausência do líquido correto.
+
+PROCEDIMENTO
+------------
+1. Estacione em local plano e seguro, com o motor desligado.
+2. Acione o freio de mão e espere aproximadamente 30 minutos.
+3. Calce as luvas e ilumine o motor com a lanterna.
+4. Localize o reservatório plástico do líquido de arrefecimento.
+5. Leia o nível nas marcas MIN e MAX da parede do reservatório.
+6. Anote se o nível está abaixo do MIN ou se vem caindo.
+7. Aperte cada mangueira grossa com a mão, com o motor frio.
+8. Note se alguma mangueira está rachada, inchada ou ressecada.
+9. Procure manchas úmidas ou cristais coloridos sob o motor.
+10. Siga o rastro de umidade até a peça de onde ele sai.
+11. Olhe o radiador: veja se as aletas estão entupidas de barro ou folhas.
+12. Confira a tampa do radiador: a borracha de vedação deve estar íntegra.
+13. Feche a tampa, ligue o motor e observe a ventoinha.
+14. Acompanhe o ponteiro da temperatura por aproximadamente 10 minutos.
+15. Desligue o motor se aparecer vapor ou se o ponteiro entrar no vermelho.
+16. Desligue o motor e, já frio, releia o nível do reservatório.
+
+ATENCAO
+-------
+Nunca abra a tampa do radiador com o motor quente: o vapor pressurizado
+queima grave. Espere aproximadamente 30 minutos com o capô aberto.
+O líquido de arrefecimento é tóxico: não deixe cair na boca ou nos olhos.
+Recolha o derramado com pano e lave as mãos depois de manusear.
+Nunca complete com óleo, gasolina ou outro líquido desconhecido.
+Se o ponteiro entrar no vermelho, pare e desligue na hora: dirigir assim
+pode fundir o motor e deixar o veículo imobilizado.
+Radiador que ferveu pode ter causado dano interno mesmo após esfriar.
+Se houver vazamento grande, não insista: rebocar é mais seguro.
+
+SE NAO TIVER
+------------
+Sem lanterna, faça a inspeção em plena luz do dia.
+Sem luva, use pano seco para apertar mangueiras.
+Nunca toque em peça quente.
+Sem líquido correto, complete com água limpa só para chegar à oficina.
+Sem medidor, use as marcas MIN e MAX do reservatório como referência.
+Não desentupa o radiador com objeto cortante: danifica as aletas.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O nível fica entre as marcas MIN e MAX com o motor frio.
+Não há manchas úmidas novas sob o veículo.
+As mangueiras estão firmes, sem rachaduras ou inchaço.
+A ventoinha gira e o ponteiro se estabiliza na faixa normal.
+O ar do aquecedor esquenta com o motor em temperatura normal.
+
+FONTES
+------
+Prática consolidada de diagnóstico automotivo, sem documento único.
+Não foi obtida fonte institucional primária nesta redação. Os sinais
+descritos são de conhecimento técnico difundido e devem ser conferidos
+no manual da marca e do modelo do veículo.

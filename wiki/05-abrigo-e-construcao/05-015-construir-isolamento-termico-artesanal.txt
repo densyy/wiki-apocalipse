@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 05-015
+TITULO: Como construir isolamento térmico artesanal
+CATEGORIA: 05 - Abrigo, construção e habitação
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: papelão, jornal, palha seca, sacos plásticos, fita ou corda
+REVISAO: 2026-11
+PALAVRAS-CHAVE: isolamento, térmico, frio, calor, abrigo, palha
+==============================================================================
+
+OBJETIVO
+--------
+Isolar paredes, teto e chão do abrigo com material simples.
+
+QUANDO USAR
+-----------
+Quando o abrigo de lona ou madeira fica frio à noite.
+Quando o telhado de metal esquenta demais durante o dia.
+Quando o chão frio rouba o calor do corpo ao dormir.
+
+NAO USE QUANDO
+--------------
+Em parede ou teto colado em fogão, vela ou lamparina.
+Em local com mofo forte, esgoto ou água parada constante.
+
+MATERIAIS
+---------
+- Papelão em placas (caixas dobradas, tapetes velhos).
+- Jornal e papel picado para encher frestas (folhas secas).
+- Palha, capim seco ou folhas secas em fardos (serragem seca).
+- Sacos plásticos ou lona fina contra a chuva (cortina velha).
+- Fita larga, corda fina ou tiras de pano para prender tudo.
+
+PROCEDIMENTO
+------------
+1. Seque todo o material ao sol antes de usar na parede.
+2. Limpe as paredes e o teto de pregos soltos e umidade.
+3. Forre primeiro o chão com plástico e depois papelão duplo.
+4. Cubra as paredes por dentro com placas de papelão sobrepostas.
+5. Encha frestas e vãos com jornal amassado ou palha seca.
+6. Prenda as placas com fita, corda ou ripas pregadas.
+7. Cubra o isolamento com plástico ou pano do lado da chuva.
+8. Deixe uma fresta de ventilação alta em dois lados opostos.
+9. Mantenha ao menos 1 m entre o isolamento e qualquer fogo.
+10. Troque o material molhado ou mofado assim que possível.
+
+ATENCAO
+-------
+Papel, papelão e palha pegam fogo rápido perto de chama.
+Nunca use vela, lamparina ou fogareiro colado na parede isolada.
+Isolamento molhado apodrece, cria mofo e piora o frio.
+Mofo causa tosse e alergia: ventile e troque material manchado.
+Abrigo vedado demais acumula fumaça: mantenha ar circulando.
+
+SE NAO TIVER
+------------
+Sem papelão, use roupas velhas, cobertores ou tapetes em camadas.
+Sem fita, amarre com cipó, barbante ou tiras de pano trançadas.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A parede fica sem fresta visível e sem corrente de ar entrando.
+O chão isolado parece morno ao toque e o abrigo esfria devagar.
+
+FONTES
+------
+Prática consolidada de isolamento simples em abrigos de emergência
+(referências: FEMA, IFRC e manual militar de sobrevivência civil).

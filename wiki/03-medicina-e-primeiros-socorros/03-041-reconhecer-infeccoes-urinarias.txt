@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 03-041
+TITULO: Como reconhecer infecções urinárias
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 10 minutos
+RISCO: critico
+EXIGE: boa luz, privacidade, papel e lápis, água limpa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: infecção urinária, arder ao urinar, urinar muito, febre, rim
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer os sinais de infecção urinária e separar casos leves de casos
+que exigem atendimento urgente.
+
+QUANDO USAR
+-----------
+Pessoa que reclama de dor ou ardência ao urinar.
+Alguém que vai ao banheiro muito mais vezes que o normal.
+Pessoa com febre, calafrios ou dor na parte baixa das costas.
+Urina com sangue, turva ou com cheiro forte.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação para observar os sinais de infecção urinária.
+Não espere exame de urina para pedir socorro se houver sinal grave.
+
+MATERIAIS
+---------
+- Boa luz para ver a urina e a pele (ou lanterna).
+- Papel e lápis para anotar a hora e os sinais vistos.
+- Água limpa para oferecer em goles pequenos.
+- Recipiente limpo (ou copo) se precisar ver a urina.
+- Luvas descartáveis (ou sacola plástica) se for tocar a pessoa.
+
+PROCEDIMENTO
+------------
+1. Garanta privacidade e segurança antes de chegar perto da pessoa.
+2. Pergunte se dói ou arde ao urinar.
+3. Pergunte se ela vai ao banheiro mais vezes que o normal.
+4. Pergunte se sente vontade súbita de urinar, mesmo com a bexiga vazia.
+5. Pergunte quando urinou pela última vez e quantas vezes hoje.
+6. Peça para descrever a urina: turva, com cheiro forte ou com sangue.
+7. Observe a cor da urina: rosa, vermelha ou marrom indica sangue.
+8. Pergunte se há pressão ou dor no baixo ventre.
+9. Pergunte se há febre, frio ou calafrios.
+10. Toque a testa ou meça a temperatura se houver termômetro.
+11. Pergunte se dói na lateral baixa das costas, perto da última costela.
+12. Pergunte se há náusea ou vômito.
+13. Pergunte se ela está cansada, fraca ou com dor de cabeça.
+14. Anote a hora de cada sinal e a ordem em que apareceu.
+15. Classifique: dor ao urinar e idas frequentes ao banheiro, sem febre,
+   apontam cistite (infecção da bexiga).
+16. Classifique: febre, calafrios e dor baixa nas costas apontam
+   pielonefrite (infecção do rim), que é mais grave.
+17. Observe se há confusão, sonolência ou fala estranha.
+18. Observe se a pele está fria, pálida ou com suor frio.
+19. Observe se a respiração está rápida ou se a pessoa está muito fraca.
+20. Em criança, note febre, irritabilidade, pouco apetite ou nova
+   urgência em molhar a cama.
+21. Em idoso ou pessoa com demência, note confusão nova ou queda recente.
+22. Em gestante, homem, diabético ou usuário de cateter, trate qualquer
+   sinal como alerta.
+23. Peça atendimento no mesmo dia se houver sinal de infecção do rim.
+24. Peça socorro imediato se houver confusão, sonolência ou respiração
+   rápida.
+25. Ofereça água limpa em goles pequenos se a pessoa estiver acordada.
+26. Não dê antibiótico sem prescrição de um profissional de saúde.
+
+ATENCAO
+-------
+Infecção do rim sem tratamento pode virar sepse e matar.
+Sangue na urina, febre alta ou calafrios fortes exigem atendimento urgente.
+Confusão ou sonolência em idoso pode ser o único sinal de infecção.
+Bebê e criança pequena podem só ter febre; não espere queixas de dor.
+Gestante, homem, diabético e usuário de cateter precisam de avaliação.
+Urina turva ou com cheiro forte sozinha não prova infecção.
+Não dê antibiótico sem prescrição: dose errada piora a resistência.
+Dor no peito, falta de ar ou desmaio: chame socorro imediato.
+
+SE NAO TIVER
+------------
+Sem termômetro: toque a testa e compare com a sua; observe calafrios.
+Sem recipiente limpo: veja a cor no vaso antes de dar a descarga.
+Sem papel: memorize a hora dos sinais e repita ao profissional de saúde.
+Sem água limpa: ferve a água antes de oferecer em goles pequenos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os sinais foram anotados com hora e ordem de aparecimento.
+A pessoa foi classificada: suspeita de bexiga, de rim ou de complicação.
+Quem tem sinal de rim ou de sepse foi encaminhado no mesmo dia.
+
+FONTES
+------
+"Urinary Tract Infection Basics", CDC, atualizado em setembro de 2026.
+"Urinary tract infections (UTIs)", NHS, revisado em julho de 2025.
+Ambas distinguem cistite de pielonefrite e listam sinais de alerta.
+Prática consolidada de reconhecimento em primeiros socorros.

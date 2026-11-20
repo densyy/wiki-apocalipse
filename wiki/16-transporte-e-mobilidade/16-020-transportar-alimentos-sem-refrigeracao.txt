@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 16-020
+TITULO: Como transportar alimentos sem refrigeração
+CATEGORIA: 16 - Transporte e mobilidade
+TEMPO: 25 minutos
+RISCO: alto
+EXIGE: caixa térmica, gelo ou bolsas de gelo, termômetro, alimentos secos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: comida, transporte, caixa térmica, gelo, perecíveis
+==============================================================================
+
+OBJETIVO
+--------
+Levar comida de um lugar a outro sem deixar perecíveis ficarem inseguros.
+
+QUANDO USAR
+-----------
+Quando a viagem não tem geladeira nem energia elétrica.
+Quando o destino fica a mais de 2 horas de caminhada ou de carro.
+Quando se transporta carne, peixe, leite, ovos ou sobras cozidas.
+Quando o calor do dia passa de aproximadamente 32 graus Celsius.
+Quando se leva comida para um abrigo ou para outra família.
+
+NAO USE QUANDO
+--------------
+Quando o alimento já ficou mais de 2 horas fora de refrigeração (1 hora
+acima de aproximadamente 32 graus Celsius). Não transporte: descarte.
+Quando a comida tem cheiro estranho, limo, bolor ou embalagem estufada.
+Quando não há gelo, bolsa de gelo ou caixa térmica para perecíveis. Nesse
+caso, leve apenas alimentos secos e enlatados.
+
+MATERIAIS
+---------
+- Caixa térmica com tampa que feche (caixa de isopor com tampa).
+- Gelo em cubos ou bolsas de gelo congeladas (garrafas de água congeladas).
+- Termômetro de caixa ou de alimentos (opcional, mas recomendado).
+- Sacos plásticos limpos e bem fechados.
+- Alimentos secos e enlatados para a maior parte da carga.
+- Pano limpo para envolver a caixa e proteger do sol.
+
+PROCEDIMENTO
+------------
+1. Separe os alimentos em dois grupos: perecíveis e não perecíveis.
+2. Descarte qualquer perecível que já tenha passado do limite de 2 horas
+   fora do frio (1 hora se o ar estiver acima de aproximadamente 32 graus).
+3. Congele as bolsas de gelo ou as garrafas de água com antecedência.
+4. Coloque as bolsas de gelo no fundo da caixa térmica.
+5. Acondicione carne, peixe, leite e ovos em sacos bem fechados.
+6. Coloque esses sacos sobre o gelo, agrupados uns contra os outros.
+7. Encha os espaços vazios com mais gelo ou com alimentos secos.
+8. Feche a tampa antes de iniciar a viagem e não abra durante o trajeto.
+9. Coloque a caixa na sombra, longe do sol direto e do calor do motor.
+10. A cada parada, confira o termômetro sem abrir a tampa demais.
+11. A caixa deve estar a 4 graus Celsius ou menos.
+12. No destino, guarde os perecíveis em refrigeração imediatamente.
+13. Se não houver refrigeração no destino, cozinhe e coma na mesma hora.
+
+ATENCAO
+-------
+Bactérias crescem rápido entre aproximadamente 4 e 60 graus Celsius.
+Essa faixa é a zona de perigo. Nela, o número de bactérias pode dobrar
+em cerca de 20 minutos. Cozinhar depois não elimina o risco: algumas
+bactérias produzem toxinas que o calor não destrói.
+Não confie em cheiro ou aparência: comida contaminada pode parecer normal.
+Carne, peixe, leite, ovos e sobras são os alimentos que mais machucam.
+Crianças pequenas, idosos, gestantes e doentes correm risco maior.
+Se alguém vomitar, tiver diarreia, febre ou dor abdominal depois de comer,
+procure atendimento médico e informe a suspeita de alimento contaminado.
+Se o gelo derreter por completo e o termômetro passar de 4 graus Celsius,
+descarte os perecíveis. Não tente salvar com mais gelo depois disso.
+
+SE NAO TIVER
+------------
+Sem caixa térmica, use uma caixa de isopor com tampa bem ajustada.
+Sem gelo, congele garrafas de água e use como bolsas de gelo.
+Sem nenhum desses, não transporte perecíveis: leve apenas alimentos secos,
+enlatados e firmes, como arroz, feijão, farinha, biscoito e conservas.
+Caixa de papelão, saco de pano e sombra sozinha não seguram o frio. Não
+substituam a caixa térmica em viagem longa ou com calor forte.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O termômetro dentro da caixa marca 4 graus Celsius ou menos na chegada.
+Ainda há gelo sólido ou cristais nas bolsas congeladas.
+A caixa chegou fechada, seca e sem respingo de gelo nos alimentos.
+Os perecíveis ficaram dentro da caixa por menos de 2 horas (1 hora se o
+ar estava acima de aproximadamente 32 graus Celsius).
+
+FONTES
+------
+Orientações da FDA sobre segurança de alimentos em quedas de energia e
+sobre caixa térmica: gelo na caixa, caixa na sombra, limite de 4 graus
+Celsius e regra das 2 horas (1 hora acima de aproximadamente 32 graus).
+Orientações do USDA/FSIS sobre embalar a caixa com gelo e descartar
+perecíveis após 2 horas fora do frio. Resumo operacional; não substitui
+treinamento em segurança de alimentos.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 61-003
+TITULO: Como produzir mudas florestais
+CATEGORIA: 61 - Agricultura florestal e manejo de ecossistemas
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: sementes, recipientes com dreno, substrato, agua, sombra
+REVISAO: 2026-11
+PALAVRAS-CHAVE: muda, viveiro, semente, substrato, germinacao, recipiente
+==============================================================================
+
+OBJETIVO
+--------
+Obter mudas de árvores a partir de sementes, prontas para o plantio.
+
+QUANDO USAR
+-----------
+Quando há sementes maduras de espécie identificada e local com sombra.
+Quando é preciso recompor área degradada, produzir lenha ou madeira.
+Quando o plantio direto no solo falha por seca ou por animais.
+
+NAO USE QUANDO
+--------------
+Sem sementes identificadas, sem água diária ou sem sombra, não comece.
+Não cole sementes de espécies protegidas sem autorização ambiental.
+
+MATERIAIS
+---------
+- Sementes maduras e secas, de espécie identificada, sem mofo ou furos.
+- Sacos plásticos 13 cm x 15 cm furados ou tubetes com mais de 170 cm3.
+- Terra de superfície limpa ou mistura 3:1 de terra e húmus curtido.
+- Hipoclorito de sódio a 0,6%, água limpa e local com sombra.
+
+PROCEDIMENTO
+------------
+1. Colete sementes maduras direto da árvore ou do chão, no início da queda.
+2. Descarte sementes com mofo, furos de inseto ou cheiro de apodrecido.
+3. Limpe as sementes em peneira e retire polpa e restos vegetais.
+4. Seque na sombra, em camada fina, até as sementes ficarem secas ao toque.
+5. Lave os recipientes novos com água e sabão.
+6. Para reutilizar, mergulhe 24 horas em hipoclorito de sódio a 0,6%.
+7. Prepare o substrato: terra limpa ou 3 partes de terra para 1 de húmus.
+8. Encha os recipientes até perto da borda, sem compactar o substrato.
+9. Semee uma semente por recipiente e cubra com camada fina de terra.
+10. Regue até umedecer, sem arrastar a semente.
+11. Coloque os recipientes na sombra, protegidos de vento e animais.
+12. Regue cada dia e mantenha o substrato úmido, nunca encharcado.
+
+ATENCAO
+-------
+Não reutilize substrato de lotes antigos: ele pode guardar fungos e pragas.
+Adubo mal curtido junto à raiz queima a muda; misture bem ao substrato.
+Água demais apodrece a raiz; falta de água mata a muda.
+Hipoclorito irrita olhos e pele: use luvas e lave as mãos ao terminar.
+
+SE NAO TIVER
+------------
+Sem hipoclorito, lave os recipientes com água e sabão e deixe secar ao sol.
+Sem terra limpa, use húmus de folhas misturado com terra de área sadia.
+Sem sacos, use copos plásticos com furo no fundo para escoar a água.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As sementes germinam e surgem mudas verdes com caule firme.
+O substrato fica úmido, mas não escorre água quando apertado na mão.
+
+FONTES
+------
+Manual de viveiro e produção de mudas nativas do Cerrado (Embrapa, 2016);
+Ageitec/Embrapa, recipientes e substratos; Embrapa Hortaliças, 2007.

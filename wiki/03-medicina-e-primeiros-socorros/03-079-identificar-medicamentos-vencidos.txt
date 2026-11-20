@@ -1,0 +1,78 @@
+==============================================================================
+CODIGO: 03-079
+TITULO: Como identificar medicamentos vencidos
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 10 minutos
+RISCO: alto
+EXIGE: boa luz, embalagem do medicamento, caderno para anotar
+REVISAO: 2026-11
+PALAVRAS-CHAVE: medicamento, validade, vencido, data, lote, remédio
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer quando um medicamento não deve mais ser usado.
+
+QUANDO USAR
+-----------
+Ao encontrar remédios guardados há muito tempo em casa.
+Antes de tomar qualquer medicamento em situação de crise.
+Quando a embalagem estiver danificada, molhada ou com a tinta borrada.
+Ao receber medicamentos doados ou de origem desconhecida.
+Quando o produto ficou exposto a calor, umidade ou luz.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Boa luz (ou lanterna).
+- A embalagem e o rótulo originais do medicamento.
+- Caderno e lápis para anotar a data e o lote.
+- Luvas descartáveis (ou sacola plástica), se houver vazamento.
+
+PROCEDIMENTO
+------------
+1. Coloque o medicamento em local com boa luz.
+2. Leia a data de validade na embalagem ou no rótulo.
+3. Identifique o mês e o ano após "validade" ou "vencimento".
+4. Compare essa data com a data de hoje.
+5. Anote a data de validade e o número do lote no caderno.
+6. Examine a embalagem por rasgos, umidade ou tinta ilegível.
+7. Abra a embalagem e observe o aspecto do produto.
+8. Observe comprimidos quanto a cor, rachaduras e odor.
+9. Observe líquidos quanto a turbidez, depósito e separação.
+10. Observe pomadas quanto a separação e ressecamento.
+11. Descarte se a data passou, o aspecto mudou ou a embalagem danificou.
+12. Separe o produto suspeito dos demais.
+13. Mantenha o produto separado fora do alcance de crianças e animais.
+
+ATENCAO
+-------
+A data só vale se o produto foi guardado como orientado.
+Calor, umidade e luz estragam o produto antes da data impressa.
+Um produto vencido pode ter perdido efeito; não confie nele.
+Não use insulina, antibióticos ou anticonvulsivantes vencidos.
+Não use medicamento de outra pessoa, mesmo que pareça igual.
+Não prove para testar: o gosto não diz se o produto está seguro.
+Na dúvida, descarte e procure orientação de um profissional de saúde.
+Leve o produto a uma farmácia ou unidade de saúde para descarte.
+
+SE NAO TIVER
+------------
+Sem rótulo legível: não use o produto; descarte.
+Sem luz: use a luz do dia ou uma lanterna.
+Sem caderno: anote a data e o lote em qualquer papel.
+Sem ponto de coleta: guarde o produto separado e identificado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A data de validade e o lote foram lidos e anotados.
+Todo produto vencido ou alterado foi separado dos demais.
+Nenhum medicamento duvidoso ficou junto dos que serão usados.
+
+FONTES
+------
+Prática de farmácia; orientações de Anvisa, FDA e OMS sobre validade.
+Resumo operacional; não substitui orientação de profissional de saúde.

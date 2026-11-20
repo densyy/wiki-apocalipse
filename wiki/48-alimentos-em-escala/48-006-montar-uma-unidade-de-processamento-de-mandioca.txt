@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 48-006
+TITULO: Como montar uma unidade de processamento de mandioca
+CATEGORIA: 48 - Produção de alimentos em escala comunitária
+TEMPO: 8 horas
+RISCO: alto
+EXIGE: raízes de mandioca, ralador, prensa, peneira, forno, água limpa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: mandioca, farinha, cianeto, prensa, torra, manipueira
+==============================================================================
+
+OBJETIVO
+--------
+Montar e operar um centro comunitário que transforma mandioca em farinha
+seca com segurança.
+
+QUANDO USAR
+-----------
+Quando a comunidade colhe mandioca brava e processa perto da lavoura.
+Quando a raiz fresca não pode esperar: ela apodrece rápido após a colheita.
+Quando o grupo quer farinha para consumo e para vender no mercado local.
+
+NAO USE QUANDO
+--------------
+Quando não houver água limpa para lavar raízes e limpar equipamentos.
+Quando não houver forno ou calor para secar a massa até virar farinha.
+Quando a raiz estiver mofada, apodrecida ou com cheiro estranho.
+Quando o grupo não puder separar e descartar a manipueira com segurança.
+
+MATERIAIS
+---------
+- Raízes de mandioca colhidas há no máximo 48 horas.
+- Água limpa e cloro para desinfetar a lavagem.
+- Ralador-triturador de mandioca (ralador manual ou picadeira).
+- Sacos de ráfia limpos (sacos de pano resistentes) para prensar.
+- Prensa mecânica (prensa manual de alavanca).
+- Peneira de malha fina e escova de cerdas rígidas.
+- Forno rotativo ou forno à lenha com pás (forno de barro com mexedor).
+- Baldes plásticos, balança e sacos limpos e secos para ensacar.
+- Luvas, avental, botas e proteção dos olhos para quem opera o forno.
+
+PROCEDIMENTO
+------------
+1. Receba as raízes e inicie o processamento em até 48 horas.
+2. Pese as raízes e registre a quantidade recebida de cada produtor.
+3. Lave as raízes com água limpa para tirar terra e resíduos.
+4. Remova a casca com faca ou com descascador rotativo.
+5. Lave de novo as raízes descascadas em água com cloro adicionado.
+6. Retire cascas e sobras da área e leve para compostagem.
+7. Coloque as raízes no ralador-triturador até formar massa uniforme.
+8. Recolha a massa em baldes e coloque-a nos sacos de ráfia.
+9. Feche os sacos e prense até a massa perder de 20% a 30% do volume.
+10. Recolha a manipueira em baldes. Manipueira é o líquido da prensa, rico
+    em ácido cianídrico: nunca beba nem use crua na comida.
+11. Esfarele a massa prensada na peneira com a escova.
+12. Devolva ao ralador os pedaços grandes que ficarem na peneira.
+13. Espalhe a massa esfarelada no forno aquecido e mexa sem parar.
+14. Torre até a farinha ficar seca, com no máximo 13% de umidade.
+15. Desligue o fogo e mantenha as pás girando até a farinha esfriar.
+16. Peneire a farinha fria e retire os grãos maiores.
+17. Coloque a farinha fria em sacos limpos e secos.
+18. Feche os sacos e armazene em local seco, sobre pallets.
+
+ATENCAO
+-------
+A mandioca brava tem compostos cianogênicos que liberam ácido cianídrico.
+Comer massa ou farinha mal processada pode causar intoxicação grave e morte.
+A manipueira é tóxica: não beba, não cozinhe com ela e não dê aos animais.
+Raiz mofada ou apodrecida deve ser descartada, nunca aproveitada.
+O forno e a pá queimam: use luvas, avental e proteção dos olhos.
+Farinha acima de 13% de umidade fermenta, mofa e apodrece dentro do saco.
+Não ensacar quente: o vapor condensa e cria bolor na farinha.
+Se alguém tiver tontura, falta de ar, náusea, confusão ou convulsão depois
+de comer o produto, pare a distribuição e leve a pessoa ao atendimento
+de urgência na hora.
+
+SE NAO TIVER
+------------
+Sem prensa, deixe a massa escorrer em saco de pano suspenso
+por algumas horas.
+O resultado fica mais úmido e exige torra mais longa.
+Sem forno rotativo, use forno de barro ou chapa de metal sobre o fogo,
+mexendo sem parar com pá de madeira limpa.
+Sem medidor de umidade, torre até a farinha escorrer da pá e quebrar
+facilmente entre os dedos.
+Sem cloro, lave com água corrente limpa e escove bem cada raiz.
+Não troque a torra por secagem ao sol se o produto for ficar armazenado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A massa ralada ficou uniforme e a prensa escorreu manipueira.
+A farinha sai do forno seca, solta da pá e sem cheiro ácido.
+Depois de fria, a farinha não forma vapor dentro do saco e fica solta.
+
+FONTES
+------
+Manual de processamento de farinha e fécula de mandioca, Embrapa,
+Centro Comunitário de Produção. Cartilha Cultivo, processamento e uso
+da mandioca, Embrapa e EBDA. Orientação do Ministério da Saúde sobre
+intoxicação aguda por cianeto.

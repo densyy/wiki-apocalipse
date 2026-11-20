@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 39-017
+TITULO: Como fabricar prismas ópticos
+CATEGORIA: 39 - Óptica e instrumentos científicos
+TEMPO: 25 minutos
+RISCO: medio
+EXIGE: filme plástico transparente, água limpa, fita adesiva, papel branco
+REVISAO: 2026-11
+PALAVRAS-CHAVE: prisma, luz, dispersão, espectro, arco-íris, água, cores
+==============================================================================
+
+OBJETIVO
+---------
+Fabricar um prisma de água que separa a luz branca em cores visíveis.
+
+QUANDO USAR
+-----------
+Quando precisar de prisma para separar luz em cores sem comprar um.
+Para demonstrar a dispersão da luz em aula, oficina ou casa.
+
+NAO USE QUANDO
+--------------
+Para olhar o sol ou luz intensa: a luz concentrada queima a retina.
+Com óleo, álcool ou líquido desconhecido: risco de fogo ou intoxicação.
+Como prisma de medição: a montagem caseira não tem precisão.
+
+MATERIAIS
+---------
+- Tira de filme plástico transparente e liso (celofane ou saco limpo).
+- Água limpa em recipiente (gelatina incolor, se preferir).
+- Fita adesiva ou linha e um triângulo extra de filme.
+- Tesoura, régua, papel com fenda de aproximadamente 1 milímetro.
+
+PROCEDIMENTO
+------------
+1. Corte uma tira de filme de aproximadamente 24 por 8 centímetros.
+2. Dobre a tira em três partes iguais e una as bordas em tubo triangular.
+3. Confira o triângulo: os três lados devem medir o mesmo.
+4. Sele a emenda com fita adesiva em toda a extensão.
+5. Sele uma ponta triangular com filme e fita, sem deixar furo.
+6. Apoie o tubo em pé sobre uma face, com a ponta vedada para baixo.
+7. Encha com água limpa até aproximadamente 1 centímetro da borda.
+8. Retire bolhas de ar e sele a última ponta sem espremer a água.
+9. Encoste papel branco na parede, no lado oposto à luz.
+10. Gire o prisma devagar até a luz se abrir em faixa de cores.
+
+ATENCAO
+-------
+Nunca aponte o prisma ao sol nem olhe através dele para o sol.
+A luz concentrada queima a retina sem causar dor imediata.
+Bolhas de ar ou filme enrugado embaralham as cores; refaça se preciso.
+Se vazar, seque e reforce a fita: água perto de tomada causa curto.
+Não use vidro quebrado: as bordas cortam e o pó fere os olhos.
+
+SE NAO TIVER
+------------
+Sem filme, una duas lâminas de vidro limpo em ângulo com fita.
+Sem fita, amarre com linha e vede as emendas com cera.
+Sem água, dissolva gelatina incolor em água quente e deixe firmar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água fica presa no tubo, sem vazamentos.
+Ao girar na luz, aparece faixa com vermelho e violeta nas pontas.
+
+FONTES
+------
+Conceitos de óptica: "Opticks", de Newton, e verbete "prism" da Britannica.
+Prisma de água é prática consolidada de ensino, sem documento único.
+Resumo operacional, não substitui treinamento.

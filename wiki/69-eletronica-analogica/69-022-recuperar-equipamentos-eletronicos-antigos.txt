@@ -1,0 +1,86 @@
+==============================================================================
+CODIGO: 69-022
+TITULO: Como recuperar equipamentos eletrônicos antigos
+CATEGORIA: 69 - Eletrônica analógica e componentes discretos
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: multímetro, chave de fenda isolada, óculos, pilhas novas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: eletrônica, restauração, rádio, capacitor, fusível, contato
+==============================================================================
+
+OBJETIVO
+--------
+Recuperar um aparelho eletrônico antigo de baixa tensão com inspeção,
+limpeza e testes seguros, sem ligar na tomada.
+
+QUANDO USAR
+-----------
+Quando um rádio a pilha antigo não liga ou tem contato sujo.
+Quando o aparelho ficou guardado e você quer avaliar o estado.
+Quando há oxidação visível nos contatos ou nas pilhas.
+Quando o aparelho usa apenas baixa tensão e baterias.
+
+NAO USE QUANDO
+--------------
+Não use em aparelho ligado à tomada ou à rede elétrica.
+Não use em televisores de tubo (CRT), micro-ondas ou fontes chaveadas:
+a tensão interna mata mesmo depois de desligado.
+Não use se houver cheiro de queimado, faísca ou vazamento.
+Não substitui um técnico qualificado nesses casos.
+
+MATERIAIS
+---------
+- Multímetro com escala de continuidade e volts contínuos.
+- Chave de fenda isolada e pinça plástica.
+- Óculos de proteção.
+- Pilhas novas do mesmo tipo das originais.
+- Álcool isopropílico e cotonete para limpar contatos.
+- Caderno para anotar o que foi encontrado.
+
+PROCEDIMENTO
+------------
+1. Desligue o aparelho e retire as pilhas ou baterias antes de abrir.
+2. Nunca abra nada que esteja ligado à tomada.
+3. Espere alguns minutos após desligar para os capacitores descarregarem.
+4. Abra a tampa com a chave isolada sem tocar nas placas.
+5. Observe a placa com os óculos: procure oxidação, fios soltos e cheiro.
+6. Desenhe a posição original de cada fio antes de mexer.
+7. Limpe os contatos oxidados com cotonete e álcool isopropílico.
+8. Meça a continuidade do fusível com o aparelho desligado.
+9. Se o fusível estiver aberto, troque por um de mesmo valor.
+10. Reaperte os parafusos dos terminais com a chave isolada.
+11. Feche a tampa e coloque pilhas novas do mesmo tipo.
+12. Coloque pilhas novas, ligue o aparelho e observe por segundos.
+13. Se aquecer, cheirar a queimado ou faiscar, desligue na hora.
+14. Anote no caderno o que foi trocado e o resultado do teste.
+
+ATENCAO
+-------
+A rede elétrica da tomada mata: nunca abra aparelho ligado nela.
+Capacitores guardam carga letal por minutos após o desligamento.
+Tubos de imagem (CRT) podem implodir e têm tensão letal interna.
+Nunca use água nem solvente agressivo na placa.
+Nunca ponte o fusível com fio ou papel-alumínio.
+Se sentir choque, parar ou ver faísca, pare e leve a um técnico.
+Este guia cobre só aparelhos a pilha ou bateria de baixa tensão.
+
+SE NAO TIVER
+------------
+Sem multímetro, limite-se à limpeza e à troca de pilhas. Não ligue.
+Sem álcool isopropílico, use cotonete seco para remover pó.
+Sem chave isolada, use uma de plástico; nunca ferramenta metálica nua.
+Sem pilhas novas, não insista em ligar o aparelho.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O contato limpo aparece com brilho uniforme, sem pó verde.
+O multímetro apita ou marca zero quando as pontas se tocam.
+O aparelho liga e mantém o som ou a luz estável por alguns segundos.
+Não há cheiro de queimado nem aquecimento incomum na tampa.
+
+FONTES
+------
+Prática consolidada de restauração de eletrônica de baixa tensão.
+Segurança elétrica: OSHA 29 CFR 1910, Subpart S; NFPA 70E.
+Referências de segurança consultadas no guia de eletricidade da OSHA.

@@ -1,0 +1,80 @@
+==============================================================================
+CODIGO: 05-039
+TITULO: Como reparar vazamentos no telhado
+CATEGORIA: 05 - Abrigo, construção e habitação
+TEMPO: 90 minutos
+RISCO: critico
+EXIGE: escada firme, ajuda de outra pessoa, tempo seco
+REVISAO: 2026-11
+PALAVRAS-CHAVE: telhado, goteira, vazamento, telha, chuva, lona, calha
+==============================================================================
+
+OBJETIVO
+--------
+Estancar a goteira e manter o interior seco até o reparo final.
+
+QUANDO USAR
+-----------
+Quando pinga do teto ou escorre pela parede durante a chuva.
+Quando falta telha, quebra telha ou trinca na cumieira.
+Quando a calha entope e a água volta para baixo do telhado.
+Quando aparece mancha escura e úmida no forro ou no madeiramento.
+
+NAO USE QUANDO
+--------------
+Com chuva forte, vento forte, raios ou telhado ainda molhado.
+Quando o madeiramento afunda, range ou parece podre ao pisar.
+Quando há fio elétrico encostando no telhado ou na água.
+Quando sentir tontura, medo de altura ou estiver sozinho em casa.
+
+MATERIAIS
+---------
+- Telhas sobressalentes do mesmo tipo (telha usada inteira).
+- Lona plástica forte de aproximadamente 2 x 3 m (cobertor grosso).
+- Pregos para telhado, martelo e arame liso (barbante grosso).
+- Massa de calafetar ou cimento rápido (barro com cola branca).
+- Escada firme, balde, vassoura, pano seco e lanterna.
+- Corda para amarrar a cintura e calçado com sola de borracha.
+
+PROCEDIMENTO
+------------
+1. Espere a chuva passar e trabalhe só com telhado seco e claro.
+2. Peça a outra pessoa para segurar a escada o tempo todo.
+3. Apoie a escada em chão firme e amarre o topo se possível.
+4. Suba devagar e pise só sobre as ripas e as partes fortes.
+5. Localize a falha pela telha quebrada, corrida ou fora do lugar.
+6. Limpe folhas, barro e limo ao redor do ponto de vazamento.
+7. Troque a telha quebrada por outra inteira do mesmo encaixe.
+8. Reposicione telhas corridas e encaixe cada uma na anterior.
+9. Feche trinca pequena com massa de calafetar ou cimento rápido.
+10. Cubra o remendo com lona e prenda as bordas com tijolos.
+11. Limpe a calha com a mão e jogue a sujeira no balde.
+12. Desça devagar, guarde ferramentas e confira o forro por dentro.
+
+ATENCAO
+-------
+Queda de telhado mata: telha molhada escorrega como sabão.
+Nunca suba à noite, com vento, com chuva ou com pressa.
+Madeiramento podre quebra com o peso e abre buraco sem aviso.
+Fio encostado no telhado molhado dá choque e pode matar.
+Não pise no meio da telha: pise só no apoio firme da ripa.
+Se a estrutura ceder, desça na hora e não tente salvar telha.
+Remendo com lona não aguenta tempestade: revise após cada chuva.
+
+SE NAO TIVER
+------------
+Sem telha nova, cubra o furo com lona dobrada em duas camadas.
+Sem massa, vede trinca fina com barro socado e pano por dentro.
+Sem escada, faça o reparo por dentro do forro com balde e lona.
+Sem ajuda, não suba: faça só proteção interna e espere ajuda.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Na próxima chuva, nenhum pingo cai dentro daquele ponto.
+O forro e a parede seguem secos horas depois da chuva.
+
+FONTES
+------
+Prática consolidada de reparo emergencial de telhados
+(famílias de referência: FEMA, Defesa Civil e IFRC).
+Resumo operacional, sem treinamento especializado.

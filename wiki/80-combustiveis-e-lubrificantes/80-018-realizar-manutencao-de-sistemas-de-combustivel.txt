@@ -1,0 +1,82 @@
+==============================================================================
+CODIGO: 80-018
+TITULO: Como realizar manutenção de sistemas de combustível
+CATEGORIA: 80 - Produção de combustíveis e lubrificantes
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: chaves, filtro novo, pano, recipiente para resíduo, ventilação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: filtro, mangueira, carburador, bomba, vazamento, manutenção
+==============================================================================
+
+OBJETIVO
+--------
+Manter a alimentação de combustível limpa, vedada e com vazão.
+
+QUANDO USAR
+-----------
+Quando o motor falha, engasga ou perde potência em carga.
+Ao trocar filtro por recomendação de horas de uso.
+Depois de abastecer com combustível de origem duvidosa.
+Antes de longo período de armazenamento do equipamento.
+
+NAO USE QUANDO
+--------------
+Não trabalhe com motor quente nem com fogo por perto.
+Não use solvente corrosivo em mangueira ou borracha.
+Não aperte conexão com força excessiva: quebra a rosca.
+Não reutilize filtro entupido nem junta amassada.
+
+MATERIAIS
+---------
+- Chaves e chave de fixa do tamanho das conexões.
+- Filtro de combustível novo e juntas substitutas.
+- Mangueira de combustível compatível e abraçadeiras.
+- Recipiente metálico para recolher resíduo e respingos.
+- Pano limpo, escova macia e ar comprimido opcional.
+- Luvas nitrílicas, óculos e extintor por perto.
+
+PROCEDIMENTO
+------------
+1. Desligue o motor, espere esfriar e ventile o local.
+2. Feche a válvula de combustível ou desconecte a bateria.
+3. Cubra o chão e posicione o recipiente abaixo da peça.
+4. Solte o filtro antigo com cuidado e deixe escorrer.
+5. Observe o resíduo: água, ferrugem ou borra explicam falhas.
+6. Limpe a sede do filtro com pano limpo e sem fiapos.
+7. Instale o filtro novo na mesma posição e sentido de fluxo.
+8. Aperte as abraçadeiras sem cortar a mangueira.
+9. Inspecione todas as mangueiras quanto a rachaduras e ressecamento.
+10. Substitua trecho danificado por mangueira apropriada.
+11. Limpe o bujão de drenagem do tanque e remova água acumulada.
+12. Se houver carburador, limpe a cuba e o gicleur com ar.
+13. Reconecte, abra a válvula e verifique vazamentos com papel.
+14. Dê a partida e observe marcha lenta e aceleração.
+
+ATENCAO
+-------
+Combustível derramado em motor quente pode incendiar na hora.
+Gasolina solta vapor inflamável mesmo com o motor desligado.
+Nunca sopre com a boca linha de combustível: risco de ingestão.
+Filtro entupido pode ser sintoma de tanque sujo: investigue a origem.
+Troque plástico ressecado por equivalente, nunca por genérico duvidoso.
+Se o vazamento persistir, pare e procure profissional.
+
+SE NAO TIVER
+------------
+Sem filtro novo, limpe o antigo com ar e reinstale provisoriamente.
+Sem mangueira própria, interrompa o uso até conseguir a peça.
+Sem recipiente, não abra a linha: evite derramamento no solo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Não há goteira nem cheiro de combustível após a partida.
+O motor mantém marcha lenta estável e acelera sem engasgo.
+O filtro novo está assentado e as abraçadeiras firmes.
+O resíduo recolhido foi descartado em recipiente fechado.
+
+FONTES
+------
+Procedimentos de manutenção preventiva de sistemas de alimentação
+em manuais de oficina e em boas práticas de segurança contra fogo.
+Leitura complementar: 80-012 e 80-013.

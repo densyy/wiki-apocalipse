@@ -1,0 +1,97 @@
+==============================================================================
+CODIGO: 36-008
+TITULO: Como identificar depósitos de estanho
+CATEGORIA: 36 - Geologia, mineração e recursos naturais
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: bandeja rasa, pá, água, lupa, luvas, botina, caderno, bastão
+REVISAO: 2026-11
+PALAVRAS-CHAVE: estanho, cassiterita, minério, garimpo, bateia, pesado
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer sinais de cassiterita, o minério de estanho, em campo.
+
+QUANDO USAR
+-----------
+Quando a região tem granito, pegmatita ou garimpo antigo de estanho.
+Quando há cascalho na margem interna da curva de um córrego.
+Quando aparece um grão escuro e muito pesado na bateia.
+Quando a correnteza desce de área granítica e você quer achar a origem.
+
+NAO USE QUANDO
+--------------
+Em mina, poço ou galeria abandonada: risco de desabamento e gases.
+Sem autorização legal, em terra indígena ou unidade de conservação.
+Com correnteza forte ou margem escorregadia: espere a água baixar.
+
+MATERIAIS
+---------
+- Bandeja rasa de plástico ou metal (bateia, peneira ou prato fundo).
+- Pá pequena ou enxada (colher de pedreiro).
+- Lupa de bolso (lente de vidro).
+- Recipiente com água limpa e pote para guardar as amostras.
+- Caderno, lápis e estaca para marcar os pontos.
+- Luvas de couro (luvas de pano grosso) e botina fechada.
+
+PROCEDIMENTO
+------------
+1. A montante (rio acima), procure granito ou pegmatita de grãos grandes.
+2. Localize cascalho na margem interna das curvas do córrego.
+3. Retire sedimentos com a pá a cada aproximadamente 20 passos.
+4. Molhe uma porção na bandeja e gire em círculos para lavar a terra.
+5. Repita até sobrarem poucos grãos escuros no fundo da bandeja.
+6. Encoste a ponta do bastão nos grãos e observe com a lupa ao sol.
+7. Pese na mão: cassiterita pesa aproximadamente 7 vezes a água.
+8. Riscos os grãos com a faca: a cassiterita (dureza 6 a 7) risca o aço.
+9. Esfregue um grão em cerâmica branca: o traço vai do branco ao marrom.
+10. Observe a cor: preta, marrom-avermelhada ou amarela.
+11. O brilho adamantino lembra o do diamante: grãos muito reluzentes.
+12. Anote cada ponto no caderno e marque com estaca.
+13. Com grãos suspeitos, suba aproximadamente 10 a 20 metros pelo córrego.
+14. Repita a lavagem rio acima até encontrar de onde vem o cascalho.
+15. Limite-se ao sedimento superficial: nunca escave poços nem galerias.
+
+ATENCAO
+-------
+Grãos escuros e pesados não são sempre estanho: ilmenita, hematita,
+magnetita e volframita enganam na bateia.
+Pirita muito brilhante é o ouro de tolo e não contém estanho.
+A arsenopirita, comum nos veios de estanho, tem arsênio: nunca inale
+pó nem manipule amostras sem luvas e máscara.
+Não entre em mina ou galeria antiga: pode haver desabamento, gases
+e falta de oxigênio.
+Correnteza e margem escorregadia podem arrastar você: use botina e
+bastão e nunca trabalhe sozinho.
+A identificação visual não substitui laudo de laboratório: leve a
+amostra a um geólogo antes de investir tempo ou dinheiro.
+Pare e saia da área se sentir cheiro de alho, se a água subir ou se
+o céu fechar para chuva.
+
+SE NAO TIVER
+------------
+Sem bandeja, use prato fundo de plástico ou peneira forrada com pano.
+Sem lupa, observe ao sol aproximando bem os olhos do grão.
+Sem pá, use colher de pedreiro ou pedaço de madeira pontiagudo.
+Sem água corrente, leve o sedimento em balde e lave ali mesmo.
+Sem autorização legal, apenas observe e anote: não colete nem escave.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Sobram poucos grãos escuros na bandeja, muito pesados para o tamanho.
+O grão riscou a lâmina de aço e deixou traço branco a marrom-claro.
+Os pontos com mais grãos ficam rio acima, rumo a um afloramento de granito.
+Você marcou os pontos com estaca e consegue voltar a eles.
+
+FONTES
+------
+USGS (Serviço Geológico dos Estados Unidos), Centro Nacional de
+Informação Mineral, "Tin Statistics and Information": a cassiterita
+(SnO2) é o único minério comercial de estanho; quase todo vem de
+placeres, os depósitos aluvionais.
+Handbook of Mineralogy (Anthony, Bideaux, Bladh e Nichols, 2005):
+dureza 6 a 7, densidade aproximadamente 7, traço branco a marrom,
+brilho adamantino. Manual of Mineralogy (Hurlbut e Klein, 1985).
+Prática consolidada de prospecção aluvional; resumo operacional,
+não substitui laudo de laboratório.

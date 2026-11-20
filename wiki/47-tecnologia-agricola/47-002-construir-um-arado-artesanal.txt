@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 47-002
+TITULO: Como construir um arado artesanal
+CATEGORIA: 47 - Tecnologia agrícola e mecanização rural
+TEMPO: 180 minutos
+RISCO: medio
+EXIGE: madeira dura, ferro, parafusos, serra, machado, broca, luvas, oculos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: arado, aracao, tracao animal, relha, aiveca, sulco, solo
+==============================================================================
+
+OBJETIVO
+--------
+Construir um arado simples de tração animal para abrir sulcos de plantio.
+
+QUANDO USAR
+-----------
+- Quando falta arado para preparar a área de plantio.
+- Quando há animal de tração treinado e disponível.
+- Quando o solo é maciço ou de dureza média, sem pedras grandes.
+- Quando não há trator, combustível ou oficina por perto.
+- Quando a área é pequena, de até poucos hectares.
+
+NAO USE QUANDO
+--------------
+- Solo muito duro, pedregoso ou com raízes grossas: a relha entorta.
+- Solo encharcado: o sulco desmorona e a terra compacta.
+- Declive forte: o arado escapa e pode atingir o pé ou o animal.
+- Sem animal treinado e sem condutor experiente: não puxe à mão.
+
+MATERIAIS
+---------
+- Viga de madeira dura e reta, de aproximadamente 2 metros.
+- Pedaço de madeira dura para o corpo, de aproximadamente 40 cm.
+- Relha de ferro ou ponta de arado velho, de aproximadamente 40 cm.
+- Cabo de madeira para a manivela, de aproximadamente 60 cm.
+- Quatro parafusos com porca ou pregos grossos.
+- Arame ou corda resistente para reforçar a fixação.
+- Serra, machado, formão, broca, chave de fenda, martelo e lixa.
+- Luvas de couro, óculos de proteção e botina fechada.
+- Cugo ou jugo e arreio em bom estado para o animal.
+
+PROCEDIMENTO
+------------
+1. Escolha a viga: retire nós, rachaduras e pontas apodrecidas.
+2. Marque e serre a viga com aproximadamente 2 metros de comprimento.
+3. Aplaine o corpo de madeira com o formão até tirar todas as farpas.
+4. Lixe as pontas da viga e do cabo até não restar farpa.
+5. Corte a relha de ferro com aproximadamente 40 cm. Use luvas e óculos.
+6. Desbaste a ponta da relha em bisel com o formão ou na pedra de amolar.
+7. Prenda a relha no corpo de madeira com os parafusos ou pregos.
+8. Reforce a fixação com arame ou corda bem apertada por cima.
+9. Fure a viga e encaixe a manivela vertical, apertando com uma cunha.
+10. Afrouxe os parafusos e incline a relha a aproximadamente 25 graus.
+11. Prenda a ponta da viga ao centro do cugo com corda ou pino de madeira.
+12. Ajuste o ponto de tração até o arado andar alinhado ao animal.
+13. Teste sem animal: puxe o arado sobre solo macio e observe o sulco.
+14. Repita o teste até o sulco sair reto, com 10 a 15 cm de profundidade.
+15. Com animal treinado e condutor experiente, faça a primeira passada.
+16. Ande atrás do arado e apoie a manivela para manter a profundidade.
+
+ATENCAO
+-------
+- A relha corta: use luvas, óculos e botina; nunca aponte a ponta ao pé.
+- Fique sempre atrás do arado, nunca à frente ou entre animal e arado.
+- Animais podem disparar ou chutar: use cugo e arreio bem ajustados.
+- Arreio apertado ou torto fere o animal: pare e reajuste se notar atrito.
+- Não use em solo com pedra grande: a relha salta, entorta ou pode ferir.
+- Se a viga rachar ou a relha soltar, pare antes de continuar o trabalho.
+- Não tente temperar a ponta no fogo sem prática: há risco de queimadura.
+- Guarde com a ponta virada para baixo e fora do alcance de crianças.
+
+SE NAO TIVER
+------------
+- Sem ferro, use madeira muito dura na relha, mas ela desgasta rápido.
+- Sem parafusos, prenda com arame ou corda e revise a fixação a cada uso.
+- Sem broca, abra o furo com um formão e firme a manivela com cunha.
+- Sem cugo próprio, não amarre corda no pescoço: busque arreio adequado.
+- Sem animal treinado, não insista: peça ajuda a quem saiba conduzir.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- O arado abre um sulco contínuo, de largura uniforme.
+- A relha fica firme: não gira nem balança quando puxada.
+- O sulco tem aproximadamente 10 a 15 cm de profundidade.
+- A viga não flexiona nem solta os parafusos durante o uso.
+- O animal caminha alinhado, sem puxar mais para um lado.
+
+FONTES
+------
+- Prática consolidada de construção de implementos de tração animal.
+- Embrapa: folder sobre tração animal e Comunicado Técnico 17.
+- Embrapa: Informe Agropecuário sobre mecanização com tração animal.
+- FAO: Draught Animal Power, an Overview; produção local de implementos.
+- Manual de construção de arado a tração animal (ISF/IAI, Camp Perrin).
+- Resumo operacional: não substitui treinamento em oficina de serralheria.

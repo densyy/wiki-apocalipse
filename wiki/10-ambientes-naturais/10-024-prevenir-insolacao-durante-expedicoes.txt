@@ -1,0 +1,91 @@
+==============================================================================
+CODIGO: 10-024
+TITULO: Como prevenir insolação durante expedições
+CATEGORIA: 10 - Sobrevivência em ambientes naturais
+TEMPO: 15 minutos
+RISCO: alto
+EXIGE: água, chapéu de aba larga, roupa leve, sombra ou abrigo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: insolação, calor, hidratação, sombra, golpe de calor
+==============================================================================
+
+OBJETIVO
+--------
+Planeje e conduza uma expedição sob calor sem deixar o corpo superaquecer.
+
+QUANDO USAR
+-----------
+Ao caminhar ou trabalhar sob sol forte por várias horas.
+Quando o calor e a umidade estiverem altos.
+Ao carregar carga pesada em terreno aberto e sem sombra.
+Quando o grupo inclui crianças, idosos ou pessoas com doenças crônicas.
+Ao atravessar campos, praias, desertos ou serras sem cobertura vegetal.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para as medidas de prevenção.
+Elas não tratam insolação instalada: veja 03-024 e busque ajuda médica.
+
+MATERIAIS
+---------
+- Água potável para toda a caminhada (garrafa, cantil ou bolsa térmica).
+- Chapéu de aba larga ou boné com proteção na nuca (pano dobrado).
+- Roupa leve, larga e clara (camisa fina de manga longa).
+- Protetor solar (pano e chapéu quando não houver).
+- Pano, toalha ou bandana para umedecer e cobrir cabeça e nuca.
+- Sais de reidratação ou bebida com eletrólitos, se houver.
+- Lona, ramos ou barraca para sombra (árvore ou rocha).
+- Relógio ou marca no sol para controlar o tempo de caminhada.
+
+PROCEDIMENTO
+------------
+1. Consulte a previsão do tempo e evite dias de calor extremo.
+2. Marche entre o amanhecer e as 10h ou depois das 16h.
+3. Beba água antes de sair, mesmo sem sentir sede.
+4. Leve água em excesso e divida a quantidade com o grupo.
+5. Comece devagar e aumente o ritmo nos primeiros dias de expedição.
+6. Beba cerca de 200 ml de água a cada 15 a 20 minutos de esforço.
+7. Vista roupa leve, larga e clara; cubra braços e pernas com tecido fino.
+8. Coloque chapéu de aba larga e proteja a nuca do sol.
+9. Aplique protetor solar e reaplique a cada duas horas, se tiver.
+10. Faça pausas frequentes; aumente a duração delas conforme o calor sobe.
+11. Descanse sempre na sombra: árvore, rocha, barraca ou lona.
+12. Umedeça um pano com água e ponha sobre a cabeça e a nuca ao descansar.
+13. Reduza carga e ritmo em terreno aberto ou sem vento.
+14. Combine um sistema de dupla: cada pessoa vigia os sinais da outra.
+15. Pare se sentir tontura, fraqueza, dor de cabeça, náusea ou cãibras.
+
+ATENCAO
+-------
+A insolação pode matar: acima de 40 °C o corpo falha em se regular.
+Não espere a sede: ela aparece depois que o corpo já perdeu água.
+Evite álcool, cafeína e açúcar: aumentam a perda de água.
+Não ultrapasse cerca de 6 xícaras de água por hora, mesmo com muito calor.
+O sol direto pode deixar o ar 10 a 15 °C mais quente que a sombra.
+Ventilador só ajuda com ar mais frio que o corpo; acima de 40 °C aquece.
+Cãibras, tontura e náusea: pare, descanse na sombra e beba água.
+Pele quente e seca, confusão ou desmaio: busque ajuda médica urgente.
+Convulsão e perda de consciência são emergência: acione ajuda imediata.
+Nunca dê aspirina ou paracetamol para tratar insolação.
+
+SE NAO TIVER
+------------
+Sem chapéu, dobre um pano ou camisa sobre a cabeça e prenda com um nó.
+Sem protetor solar, priorize sombra, roupa cobrindo a pele e pausas.
+Sem cantil, use recipiente limpo e trate a água antes de beber (01-001).
+Sem sombra, monte abrigo com lona ou ramos e deite no chão fresco.
+Sem sais, beba água e coma alimentos salgados; nunca beba água do mar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A urina fica clara ou amarela clara, e não escura e concentrada.
+O grupo termina o trecho sem tontura, dor de cabeça, náusea ou cãibras.
+A pele continua suando e a fala e o pulso permanecem normais na caminhada.
+Todos bebem água em cada pausa, antes de sentir sede forte.
+
+FONTES
+------
+Organização Mundial da Saúde: "Heatwaves: How to stay cool" (2024) e
+"Health advice for hot weather" (2026).
+CDC e NIOSH: orientações sobre calor, trabalho externo e hidratação.
+OSHA: campanha "Water. Rest. Shade.".

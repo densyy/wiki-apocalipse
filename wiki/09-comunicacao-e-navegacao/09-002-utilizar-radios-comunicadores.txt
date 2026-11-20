@@ -1,0 +1,68 @@
+==============================================================================
+CODIGO: 09-002
+TITULO: Como utilizar rádios comunicadores
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 15 minutos
+RISCO: medio
+EXIGE: dois rádios comunicadores, baterias carregadas, manual do aparelho
+REVISAO: 2026-11
+PALAVRAS-CHAVE: rádio, walkie-talkie, canal, antena, bateria, alcance
+==============================================================================
+
+OBJETIVO
+--------
+Falar com o grupo por voz, com canal, alcance e bateria sob controle.
+
+QUANDO USAR
+-----------
+Quando o celular ficar sem sinal ou a rede cair.
+Quando o grupo se separar em busca, vigilância ou resgate.
+Quando for preciso avisar risco a quem está fora de vista.
+
+NAO USE QUANDO
+--------------
+Para falar com quem está fora do alcance; o rádio não substitui telefone.
+Quando o país exigir licença e o operador não a tiver.
+
+MATERIAIS
+---------
+- Dois ou mais rádios da mesma faixa e com os mesmos canais.
+- Baterias carregadas e carregador do fabricante (ou fonte solar).
+- Caderno e lápis para anotar canal e código combinados.
+
+PROCEDIMENTO
+------------
+1. Confira se todos usam a mesma faixa e os mesmos canais.
+2. Carregue as baterias antes de sair; bateria fraca reduz o alcance.
+3. Aperte o PTT (botão de falar) e escute; se houver voz, mude de canal.
+4. Ajuste volume e squelch (corta o ruído) até sumir o chiado de fundo.
+5. Combine com o grupo o canal, o código e a ordem de fala antes de separar.
+6. Segure o rádio na vertical, com a antena estendida e longe do corpo.
+7. Espere um segundo após PTT para o transmissor estabilizar.
+8. Fale curto e claro: quem chama, para quem, a mensagem e câmbio.
+9. Solte o botão, ouça e diga fim; não interrompa quem responde.
+10. Ao trocar de canal, escute antes; ao terminar, desligue o rádio.
+
+ATENCAO
+-------
+O alcance da caixa é otimista: prédios, mata e relevo cortam o sinal.
+Código de privacidade não dá sigilo: só filtra chiado; outros ouvem.
+Não modifique a antena: isso fere a regra local e causa interferência.
+Use só o carregador do fabricante; bateria danificada pode pegar fogo.
+
+SE NAO TIVER
+------------
+Sem canal livre, combine outro canal com o grupo.
+Sem bateria, use pilhas do mesmo tipo; nunca misture novas e velhas.
+Sem rádio, marque horários e pontos de encontro e envie alguém a procurar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O outro aparelho responde ao chamado e a voz chega clara, sem cortes.
+Ao soltar o botão, o chiado some; só se ouve voz quando alguém fala.
+A bateria sustenta a mensagem inteira, sem desligar no meio da fala.
+
+FONTES
+------
+FCC, Family Radio Service e General Mobile Radio Service, 47 CFR Parte 95.
+FEMA, comunicações de emergência. Regras de canal e licença variam por país.

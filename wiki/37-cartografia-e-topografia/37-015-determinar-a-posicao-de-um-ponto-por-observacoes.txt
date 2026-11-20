@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 37-015
+TITULO: Como determinar a posição de um ponto por observações
+CATEGORIA: 37 - Cartografia, topografia e levantamento
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: mapa impresso, bússola, caderno, lápis, dois marcos visíveis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: posição, localização, visada, azimute, mapa, bússola
+==============================================================================
+
+OBJETIVO
+--------
+Marcar no mapa a posição aproximada de um ponto distante e inacessível.
+
+QUANDO USAR
+-----------
+Quando o alvo é visível, mas não se pode chegar até ele.
+Quando é preciso localizar no mapa um alvo, uma nascente ou um abrigo.
+
+NAO USE QUANDO
+--------------
+Quando nenhum marco do mapa puder ser visto e identificado com certeza.
+Quando o mapa estiver desatualizado ou o terreno tiver mudado.
+
+MATERIAIS
+---------
+- Mapa impresso da região com marcos identificáveis no terreno.
+- Bússola com agulha que gira livre (ou bússola de celular offline).
+- Caderno e lápis.
+- Dois pontos conhecidos no mapa e visíveis no terreno.
+
+PROCEDIMENTO
+------------
+1. Escolha no mapa dois pontos conhecidos visíveis no terreno.
+2. Confirme cada marco no terreno antes de usar; se houver dúvida, troque.
+3. Fique exatamente sobre o primeiro marco e mantenha a bússola nivelada.
+4. Mire o alvo com a bússola nivelada.
+5. Leia o azimute: ângulo medido do norte no sentido horário.
+6. Anote o azimute, de 0 a 360 graus, e o nome do marco usado.
+7. Vá ao segundo marco e repita os passos 3 a 6.
+8. No mapa, trace uma reta a partir de cada marco na direção anotada.
+9. Marque o cruzamento das retas: é a posição aproximada do alvo.
+
+ATENCAO
+-------
+O resultado é aproximado: depende do mapa e da bússola.
+Visadas muito alinhadas aumentam o erro; escolha marcos bem separados.
+Um marco identificado errado gera posição errada: confirme antes de medir.
+Metais, motores e cabos de energia desviam a agulha; afaste-se para ler.
+Se as retas divergirem muito, pare e procure ajuda.
+
+SE NAO TIVER
+------------
+Sem bússola, use a direção de um marco visível no mapa como referência.
+O resultado a olho é grosseiro: trate a posição como aproximada.
+Sem segundo marco visível, espere a visibilidade melhorar ou peça ajuda.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As duas retas se cruzam num único ponto ou num triângulo pequeno.
+O ponto cai em terreno coerente com o que se vê, não dentro de um rio.
+A posição permite nomear o alvo sem contradizer os marcos próximos.
+
+FONTES
+------
+Prática consolidada de navegação terrestre e levantamento elementar,
+sem documento único consultado nesta edição. Resumo operacional;
+não substitui treinamento.

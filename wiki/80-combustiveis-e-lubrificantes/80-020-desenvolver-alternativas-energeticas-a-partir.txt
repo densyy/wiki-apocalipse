@@ -1,0 +1,81 @@
+==============================================================================
+CODIGO: 80-020
+TITULO: Como desenvolver alternativas energéticas renováveis
+CATEGORIA: 80 - Produção de combustíveis e lubrificantes
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: inventário de recursos, dados de consumo, calculadora
+REVISAO: 2026-11
+PALAVRAS-CHAVE: energia renovável, biomassa, biogás, solar, eficiência
+==============================================================================
+
+OBJETIVO
+--------
+Montar um plano de energia usando recursos renováveis disponíveis.
+
+QUANDO USAR
+-----------
+Ao planejar uma casa, sítio ou posto isolado da rede elétrica.
+Ao reduzir dependência de combustível transportado de longe.
+Ao aproveitar resíduos vegetais e esterco que sobram no local.
+Ao comparar custo e manutenção de várias fontes.
+
+NAO USE QUANDO
+--------------
+Não dimensione sistema elétrico sem cálculo de carga e proteção.
+Não instale gerador, painel ou turbina sem seguir norma local.
+Não queime resíduo tratado ou plástico como biomassa.
+Não prometa autonomia sem medir consumo real primeiro.
+
+MATERIAIS
+---------
+- Inventário de recursos: área, madeira, resíduo, esterco, água e sol.
+- Registro de consumo de energia dos últimos meses (celular).
+- Calculadora, papel e lápis para estimar demandas.
+- Lista de equipamentos disponíveis e necessários.
+- Caderno para anotar decisões, custos e manutenção.
+
+PROCEDIMENTO
+------------
+1. Liste todas as necessidades: luz, calor, bombeamento e comunicação.
+2. Anote potência e horas de uso de cada aparelho.
+3. Some o consumo diário em watt-hora ou equivalente térmico.
+4. Registre o que o terreno oferece durante o ano inteiro.
+5. Avalie biomassa: restos de poda, palha e bagaço secos.
+6. Considere biogás a partir de esterco e resíduos orgânicos.
+7. Avalie solar térmico para aquecer água com menos madeira.
+8. Considere painel fotovoltaico para cargas elétricas leves.
+9. Verifique queda d'água ou vento constante antes de escolher turbina.
+10. Compare cada opção por custo, manutenção e vida útil.
+11. Prefira combinar fontes em vez de depender de uma só.
+12. Dimensione armazenamento: bateria, tanque ou pilha de madeira.
+13. Planeje a manutenção de filtros, baterias e tubulações.
+14. Comece com um piloto pequeno e meça resultados por um mês.
+
+ATENCAO
+-------
+Nenhuma fonte é contínua: sempre preveja reserva ou alternativa.
+Biomassa exige secagem e armazenamento sem umidade.
+Biogás contém metano e sulfeto: exige vedação e ventilação.
+Painel e bateria exigem proteção contra surto e sobrecarga.
+Calcular consumo é mais barato que comprar equipamento excedente.
+Instalações elétricas e de gás devem seguir norma e mão de obra habilitada.
+
+SE NAO TIVER
+------------
+Sem medição de consumo, acompanhe o uso por duas semanas.
+Sem dados de vento ou água, priorize biomassa e solar.
+Sem orçamento para bateria, reduza carga e use armazenamento térmico.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você tem o consumo diário estimado por escrito.
+Você listou pelo menos duas fontes renováveis viáveis no local.
+O piloto funciona por um mês sem falta nos horários críticos.
+Você registrou custo, manutenção e ajustes necessários.
+
+FONTES
+------
+Princípios de planejamento energético e de tecnologias apropriadas
+para comunidades isoladas, presentes em manuais de bioenergia e
+energia solar. Leitura extra: 80-010 e 80-013.

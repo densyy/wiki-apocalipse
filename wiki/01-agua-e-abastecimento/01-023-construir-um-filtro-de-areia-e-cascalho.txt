@@ -1,0 +1,91 @@
+==============================================================================
+CODIGO: 01-023
+TITULO: Como construir um filtro de areia e cascalho
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: recipiente limpo, areia fina, cascalho, pano limpo, água
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, filtro, areia, cascalho, filtrar, turva, potável
+==============================================================================
+
+OBJETIVO
+--------
+Montar um filtro que deixe a água turva mais clara e com menos germes.
+
+QUANDO USAR
+-----------
+Quando a água disponível estiver turva, com lama ou partículas visíveis.
+Quando a fonte de água não tiver tratamento conhecido.
+Quando for precisar de água por vários dias no mesmo lugar.
+Quando houver areia, cascalho e um recipiente limpo disponíveis.
+
+NAO USE QUANDO
+--------------
+Não use com suspeita de combustível, agrotóxico, metal pesado,
+sal ou radioatividade: o filtro não remove esses contaminantes.
+Não use se não houver água limpa para lavar areia e cascalho.
+Não use se não puder ferver ou desinfetar a água depois.
+
+MATERIAIS
+---------
+- Recipiente plástico alto, limpo, sem tinta e com tampa (ou concreto).
+- Areia fina lavada, sem terra (grãos de aproximadamente 0,2 mm).
+- Cascalho miúdo e cascalho maior, ambos bem lavados.
+- Pano limpo ou prato para espalhar a água sem mexer na areia.
+- Balde limpo para coletar a água filtrada.
+- Água limpa para lavar a areia e o cascalho.
+- Tubo ou furo na parede do recipiente para a saída da água.
+
+PROCEDIMENTO
+------------
+1. Lave o recipiente com água e sabão e enxágue bem.
+2. Lave a areia em água limpa, mexendo, até a água sair clara.
+3. Lave os dois cascalhos até tirar terra e pó.
+4. Peneire a areia com pano ou peneira; use só os grãos finos.
+5. Coloque o recipiente em local plano, onde não será movido.
+6. Faça a saída na parede, aproximadamente 5 cm acima do topo da areia.
+7. Coloque 5 cm de cascalho maior no fundo, cobrindo a saída.
+8. Coloque 5 cm de cascalho miúdo sobre o cascalho maior.
+9. Adicione areia fina até formar cerca de 45 cm de camada.
+10. Deixe o topo da areia aproximadamente 5 cm abaixo da saída.
+11. Espalhe o pano ou prato sobre a areia.
+12. Despeje água devagar sobre o pano até cobrir a areia.
+13. Mantenha aproximadamente 5 cm de água sobre a areia entre os usos.
+14. Despeje no máximo 10 a 12 litros por vez, sempre da mesma fonte.
+15. Colete a água que sai em balde limpo e tampe.
+
+ATENCAO
+-------
+O filtro reduz turbidez, parasitas e parte dos germes, mas não desinfeta.
+A camada biológica é uma película de microrganismos na areia.
+Ela leva semanas ou meses para formar; no início remove poucos germes.
+Nas primeiras semanas, ferve a água filtrada antes de beber (veja 01-001).
+Não despeje água clorada: o cloro mata a camada biológica.
+Não remove combustível, agrotóxico, metal pesado, sal nem radioatividade.
+Com suspeita química, use outra fonte: filtrar não a torna segura.
+Se a água estiver muito turva, deixe assentar e coe com pano antes.
+Pare e procure ajuda se a água filtrada sair turva ou com cheiro estranho.
+Pare também se alguém adoecer depois de beber a água filtrada.
+
+SE NAO TIVER
+------------
+Sem peneira, use pano limpo: molhe a areia, mexa e espere os grãos
+grandes assentarem antes de retirar os finos.
+Sem cascalho, use pedras pequenas lavadas, sem terra e sem resíduo químico.
+Sem balde próprio, use um balde plástico limpo, sem tinta e com tampa.
+Sem material limpo, não improvise: use outra fonte ou ferva (veja 01-001).
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água que sai está mais clara que a água despejada.
+A água escorre pela saída em fio contínuo, não em jorro.
+A superfície da areia fica intacta após despejar a água.
+Fica aproximadamente 5 cm de água parada sobre a areia entre os usos.
+
+FONTES
+------
+Ficha técnica do CDC sobre filtração lenta em areia (2014).
+Compêndio Emergency WASH, filtro biosand, com referências a OMS e CAWST.
+Orientações do CDC sobre tratamento domiciliar de água (2024).
+Prática consolidada de tratamento de água em emergência, aqui resumida.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 36-001
+TITULO: Como compreender a formação geológica de uma região
+CATEGORIA: 36 - Geologia, mineração e recursos naturais
+TEMPO: 2 horas
+RISCO: medio
+EXIGE: caderno, lápis, mapa ou imagem aérea, roupa de caminhada
+REVISAO: 2026-11
+PALAVRAS-CHAVE: geologia, pedra, camadas, formação, relevo, mapa, rocha
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma história simples de como a região se formou, usando o que
+aparece nas rochas expostas e no relevo.
+
+QUANDO USAR
+-----------
+Antes de cavar poço, assentar casa ou abrir estrada.
+Ao observar cortes de estrada, pedreiras e margens de rio.
+
+NAO USE QUANDO
+--------------
+Não substitui laudo técnico, sondagem ou mapa geológico oficial.
+Não observe de perto mina abandonada, corte instável ou encosta rachada.
+
+MATERIAIS
+---------
+- Caderno e lápis (ou papel e carvão).
+- Mapa da região ou imagem aérea impressa (ou croqui feito no local).
+- Fita métrica ou corda com nós a cada metro (ou medidas em palmos).
+- Roupa de caminhada e calçado firme.
+
+PROCEDIMENTO
+------------
+1. Escolha um ponto alto e seguro, com vista ampla e longe de bordas.
+2. Observe o relevo: morros arredondados, vales em V ou em U, planícies.
+3. Desenhe cada corte exposto no caderno, do pé ao topo.
+4. Estime a espessura das camadas e marque o valor como aproximado.
+5. Aplique a superposição: a camada de baixo é a mais antiga.
+6. Verifique a horizontalidade: camadas curvas foram mexidas depois.
+7. Veja se um corpo corta outro: quem corta é mais novo (relação de corte).
+8. Nomeie a rocha: sedimentar em camadas, ígnea, metamórfica com faixas.
+9. Relacione areia e cascalho à água corrente; argila, à água parada.
+10. Escreva a sequência do mais antigo ao mais recente.
+
+ATENCAO
+-------
+Se as camadas viraram, a mais antiga pode estar em cima.
+Não confunda cor com idade: umidade e oxidação mudam a cor da rocha.
+Não entre em mina abandonada, poço ou túnel: falta ar e há desabamento.
+Não fique na beira de corte alto: pedra solta e queda podem matar.
+Pare e peça ajuda à Defesa Civil se aparecerem rachaduras novas no solo.
+
+SE NAO TIVER
+------------
+Sem mapa, desenhe um croqui com os pontos de observação.
+Sem fita, meça em palmos e escreva que a espessura é aproximada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O desenho mostra camadas numeradas da base ao topo.
+A sequência vai do mais antigo ao mais recente, com uma razão por passo.
+
+FONTES
+------
+Princípios de estratigrafia de Nicolas Steno: superposição e
+horizontalidade original; sucessão faunística; relações de corte.
+Uniformitarismo de Hutton e Lyell: o presente é a chave do passado.
+Síntese de manuais de geologia física; não substitui laudo técnico.

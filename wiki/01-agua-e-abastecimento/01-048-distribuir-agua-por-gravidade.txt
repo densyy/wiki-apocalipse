@@ -1,0 +1,85 @@
+==============================================================================
+CODIGO: 01-048
+TITULO: Como distribuir água por gravidade
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: tanque elevado firme, tubo ou mangueira, torneira, desnível
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, gravidade, desnível, mangueira, torneira, tanque
+==============================================================================
+
+OBJETIVO
+--------
+Levar água de um reservatório alto até uma torneira mais baixa, sem bomba.
+
+QUANDO USAR
+-----------
+Quando a fonte ou o tanque fica mais alto que o ponto de uso.
+Quando não há energia elétrica nem combustível para bombear água.
+Quando é preciso levar água para uma cozinha ou um ponto comum.
+Quando o terreno tem descida suave até o lugar onde a água é usada.
+
+NAO USE QUANDO
+--------------
+Não use se o tanque ficar na mesma altura ou abaixo da torneira.
+Não distribua água suspeita sem tratar: a gravidade não limpa a água.
+Não use sem base firme: tanque cheio pode cair e ferir alguém.
+
+MATERIAIS
+---------
+- Reservatório fechado com tampa (tanque, tambor novo ou caixa-d'água).
+- Base firme e nivelada para o reservatório (blocos ou terra compactada).
+- Tubo de PVC ou mangueira de polietileno própria para água.
+- Torneira ou registro para a saída (torneira de jardim).
+- Tela ou pano limpo para cobrir a entrada (tela de mosquiteiro).
+- Pedras ou estacas para apoiar o tubo ao longo do percurso.
+
+PROCEDIMENTO
+------------
+1. Escolha o ponto mais alto do terreno para apoiar o reservatório.
+2. Meça o desnível, diferença de altura da saída até a torneira.
+3. Deixe pelo menos 1 metro de desnível entre a saída e a torneira.
+4. Trace o percurso do tubo sempre descendo, sem trechos que subam.
+5. Nivele a base e coloque o tanque cheio sem balanço nem pedra aguda.
+6. Lave o tanque, o tubo e a torneira com água limpa antes de ligar.
+7. Ligue o tubo na saída baixa do tanque e aperte bem a emenda.
+8. Prenda a tela na entrada e mantenha a tampa do tanque fechada.
+9. Estenda o tubo com descida constante; evite curvas fechadas.
+10. Apoie o tubo em pedras ou estacas ao longo do percurso.
+11. Instale a torneira no ponto mais baixo, com o bico virado para baixo.
+12. Abra a torneira e deixe correr até sair água sem ar e sem sujeira.
+13. Feche a torneira e confira se nenhuma emenda goteja.
+14. Trate a água antes de beber, conforme 01-001.
+
+ATENCAO
+-------
+A gravidade só move a água: não a torna potável. Trate antes, veja 01-001.
+Tanque elevado cheio pesa muito: use base firme ou ele pode cair e ferir.
+Tubo com subida no meio prende ar e para o fluxo: mantenha descida contínua.
+Quanto mais longo o tubo, maior a perda de pressão: aumente o desnível.
+Com cheiro, cor ou insetos na água, feche a torneira e limpe o sistema.
+Nunca mergulhe a ponta do tubo em água suja: pode sugar contaminação.
+Em queda grande, a pressão estoura emendas: use tubo próprio para água.
+
+SE NAO TIVER
+------------
+Sem tubo de PVC, use mangueira nova de polietileno própria para água.
+Sem torneira, use um registro de jardim apertado na ponta do tubo.
+Sem tanque, use tambor novo; nunca recipiente de óleo ou agrotóxico.
+Não use mangueira velha com gosto de borracha: pode contaminar a água.
+Sem desnível, não improvise bomba: mude o tanque de lugar ou peça ajuda.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ao abrir a torneira, a água sai em fio contínuo, sem ar e sem engasgos.
+Com a torneira fechada, nenhuma emenda goteja ou fica úmida.
+A água chega limpa, sem folhas, insetos, cheiro ou cor estranha.
+
+FONTES
+------
+WaterAid, Gravity-flow water systems: tubo com descida contínua.
+eCompendium Emergency WASH, ficha S.7: desnível e perda de pressão.
+Oxfam, Distribution Manual: tanque elevado e torneiras por gravidade.
+MSF, Guia de cólera 7.4: distribuição por gravidade desde tanque alto.
+Funasa, Caderno Sustentar: adução por gravidade e proteção da rede rural.

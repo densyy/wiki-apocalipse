@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 05-004
+TITULO: Como construir um abrigo utilizando lona
+CATEGORIA: 05 - Abrigo, construção e habitação
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: lona impermeável, corda, árvores ou estacas firmes
+REVISAO: 2026-11
+PALAVRAS-CHAVE: lona, abrigo, toldo, chuva, vento, acampamento
+==============================================================================
+
+OBJETIVO
+--------
+Montar um abrigo simples de lona contra chuva e vento.
+
+QUANDO USAR
+-----------
+Quando precisa de proteção rápida contra chuva em deslocamento.
+Quando vai pernoitar fora com poucas ferramentas disponíveis.
+Quando monta acampamento temporário antes do abrigo definitivo.
+
+NAO USE QUANDO
+--------------
+Sob árvores mortas, galhos quebrados ou barranco instável.
+Em leito seco de rio, baixada ou área sujeita a enxurrada.
+Com raios por perto: abrigo aberto de lona não protege de raio.
+Com vento muito forte que arranque estacas e arraste a lona.
+
+MATERIAIS
+---------
+- Lona impermeável de aproximadamente 3 x 4 m (plástico grosso).
+- Corda fina resistente (tiras de tecido ou fita plástica).
+- Duas estacas firmes ou mourões de madeira (vergalhões grossos).
+- Pedras pesadas para travar bordas e estacas (tijolos).
+
+PROCEDIMENTO
+------------
+1. Escolha terreno alto, plano e longe de água corrente.
+2. Limpe pedras, galhos e formigueiros do local escolhido.
+3. Fixe o lado alto entre duas árvores com corda firme.
+4. Amarre as pontas pelos ilhoses sem forçar o tecido.
+5. Estique o lado baixo oposto preso em estacas no chão.
+6. Deixe inclinação forte para a chuva escorrer depressa.
+7. Cave uma valeta rasa ao redor contra a água empoçada.
+8. Trave as bordas laterais contra o vento com pedras.
+9. Jogue água sobre a lona e ajuste os pontos frouxos.
+
+ATENCAO
+-------
+A lona não aquece: frio com umidade pode causar hipotermia.
+Queda de galho, estaca solta e corda esticada podem ferir.
+Nunca faça fogo dentro ou encostado na lona plástica.
+Enxurrada e vento forte derrubam o abrigo: saia se piorar.
+A lona condensa por dentro: deixe uma fresta para ventilar.
+
+SE NAO TIVER
+------------
+Sem ilhoses, enrole uma pedra na ponta e amarre a corda nela.
+Sem corda, use tiras de tecido, cipó flexível ou fita plástica.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água escorre pela inclinação sem empoçar nem gotejar dentro.
+A lona fica esticada, sem bater, e resiste a puxão moderado.
+
+FONTES
+------
+Prática consolidada de abrigos improvisados com lona em ações
+de emergência (FEMA, IFRC e manual de campanha FM 21-76).

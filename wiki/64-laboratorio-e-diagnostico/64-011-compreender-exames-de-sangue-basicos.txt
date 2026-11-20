@@ -1,0 +1,81 @@
+==============================================================================
+CODIGO: 64-011
+TITULO: Como compreender exames de sangue básicos
+CATEGORIA: 64 - Laboratório, diagnóstico e análises
+TEMPO: 20 minutos
+RISCO: medio
+EXIGE: laudo impresso, caneta, caderno, boa luz
+REVISAO: 2026-11
+PALAVRAS-CHAVE: sangue, exame, hemograma, laudo, glicemia, referência
+==============================================================================
+
+OBJETIVO
+--------
+Ler um laudo de exame de sangue básico e saber o que cada valor significa
+e quando procurar atendimento.
+
+QUANDO USAR
+-----------
+Quando receber um laudo de hemograma ou glicemia e não entender os valores.
+Quando precisar acompanhar um tratamento já indicado por um profissional.
+Quando quiser levar os resultados organizados a uma consulta.
+Quando houver um valor marcado como alterado no laudo.
+
+NAO USE QUANDO
+--------------
+Não use este texto para diagnosticar doenças ou decidir dose de remédio.
+Não use para substituir a leitura do profissional que pediu o exame.
+Não substitua atendimento de urgência por interpretação do laudo.
+
+MATERIAIS
+---------
+- Laudo impresso do laboratório (ou o papel entregue na coleta).
+- Caneta e caderno para anotar.
+- Boa luz para ler os números pequenos.
+
+PROCEDIMENTO
+------------
+1. Confira no laudo o nome do exame e a data da coleta.
+2. Separe o laudo em grupos: hemograma, glicemia e outros exames pedidos.
+3. Para cada valor, ache a faixa de referência impressa ao lado.
+4. Leia a unidade de medida indicada antes do número.
+5. Compare o valor com a faixa: abaixo, dentro ou acima dela.
+6. Marque no caderno o nome do item, o valor e a faixa do laboratório.
+7. Repita a comparação para cada linha do laudo, sem pular nenhuma.
+8. Anote os termos que não entende para perguntar na consulta.
+9. Guarde o laudo e as anotações para mostrar ao profissional.
+
+ATENCAO
+-------
+A faixa de referência muda de um laboratório para outro. Use sempre a
+faixa impressa no seu próprio laudo, nunca a de outra pessoa.
+Um valor fora da faixa não é diagnóstico. Jejum, hidratação, remédios,
+exercício e hora do dia mudam os números.
+Nunca comece, aumente ou pare remédio por conta própria com base no laudo.
+Não compare seus números com os de parentes ou amigos.
+Procure atendimento imediato se houver dor no peito, desmaio, confusão,
+sangramento forte ou febre alta, mesmo com laudo normal.
+Hemoglobina é a proteína que leva oxigênio no sangue; hematócrito é a parte
+do sangue ocupada pelas hemácias; leucócitos defendem o corpo; plaquetas
+ajudam a coagular. Um valor isolado quase nunca explica sintoma algum.
+
+SE NAO TIVER
+------------
+Sem laudo impresso, peça uma cópia ao laboratório antes da consulta.
+Sem a faixa de referência, não tente adivinhar o que é normal.
+Sem boa luz, leia perto de uma janela ou peça a outra pessoa para ajudar.
+Sem entender um termo, anote a palavra exata do laudo e pergunte depois.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada valor está anotado com nome, número e faixa do laboratório.
+Os itens fora da faixa estão marcados e não foram usados para automedicação.
+Você sabe quais perguntas levar à consulta.
+
+FONTES
+------
+Noções gerais de hemograma e leitura de laudo: MedlinePlus e National
+Heart, Lung, and Blood Institute dos Estados Unidos.
+Faixas de referência variam por laboratório; este texto ensina a ler o
+laudo, não a fixar valores. Resumo operacional, não substitui orientação
+de profissional de saúde.

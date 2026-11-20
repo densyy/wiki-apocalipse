@@ -1,0 +1,84 @@
+==============================================================================
+CODIGO: 08-033
+TITULO: Como realizar revenimento em aço
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: aço temperado, brasas ou maçarico, água, óculos, luvas, extintor
+REVISAO: 2026-11
+PALAVRAS-CHAVE: aço, revenimento, têmpera, dureza, quebradiço, óxido, cor
+==============================================================================
+
+OBJETIVO
+--------
+Reduzir a fragilidade do aço já endurecido, sem perder dureza em excesso.
+
+QUANDO USAR
+-----------
+Quando uma ferramenta de aço lasca ou quebra ao receber impacto.
+Quando a peça temperada ficou dura demais e estilhaça com uso.
+Quando faca, cinzel ou chave precisa suportar impacto sem quebrar.
+Quando o aço foi endurecido e agora precisa ganhar tenacidade.
+
+NAO USE QUANDO
+--------------
+Quando o aço nunca foi endurecido por têmpera: revenimento não cria dureza.
+Quando a peça exige dureza máxima e não sofre impacto, como uma lima.
+
+MATERIAIS
+---------
+- Peça de aço já endurecida por têmpera, limpa e sem óleo.
+- Lixa ou pedra para deixar a superfície brilhante.
+- Brasas de carvão, forja ou maçarico.
+- Pinça ou luva grossa para segurar a peça quente.
+- Recipiente com água para resfriar.
+- Óculos de proteção, luvas de couro e extintor ou balde com tampa.
+
+PROCEDIMENTO
+------------
+1. Lixe uma faixa da peça até aparecer metal brilhante, sem óleo ou sujeira.
+2. Prepare a água e deixe extintor e tampa ao alcance da mão.
+3. Acenda as brasas ou o maçarico em local ventilado, longe de inflamáveis.
+4. Segure a peça com pinça e aqueça-a devagar e por igual sobre as brasas.
+5. Evite chama concentrada: ela passa da cor antes de você notar.
+6. Observe a cor do óxido na faixa lixada e mova a peça ao aquecer.
+7. Faca, raspador ou broca: retire no amarelo-claro, aproximadamente 180 °C.
+8. Cinzel, martelo ou punção: retire no marrom, aproximadamente 260 °C.
+9. Chave de fenda ou alicate: retire no azul-escuro, aproximadamente 310 °C.
+10. Retire um pouco antes da cor chegar ao fio ou à borda da peça.
+11. Mergulhe na água ou deixe esfriar ao ar para parar o revenimento.
+12. Se usar óleo, tenha a tampa pronta; nunca jogue água em óleo em chamas.
+
+ATENCAO
+-------
+Revenimento não endurece: sem têmpera prévia, não adianta.
+A peça queima mesmo sem brilhar vermelho; nunca toque com a mão nua.
+Se passar da cor, a dureza se perde e só volta refazendo a têmpera.
+A cor muda com a luz e a liga do aço: é guia, não medida exata.
+Peça grossa esquenta só na superfície; espere a cor aparecer por igual.
+Fogo e óleo: afaste inflamáveis e abafe com tampa se o óleo pegar fogo.
+Fogo em lugar fechado gera monóxido de carbono: trabalhe ao ar livre.
+Para a etapa de endurecimento, veja 08-032 como leitura extra.
+Em queimadura, resfrie com água corrente; procure ajuda se aparecer bolha.
+
+SE NAO TIVER
+------------
+Sem lixa, use pedra ou tijolo até aparecer metal brilhante.
+Sem pinça, segure com luva grossa e aqueça a parte oposta ao fio.
+Sem água, deixe esfriar ao ar; resulta o mesmo, só mais devagar.
+Sem maçarico, use brasas de carvão bem quentes, nunca chama de fogueira.
+Sem saber o tipo de aço, comece pelo amarelo-claro: preserva mais dureza.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A faixa lixada mostra a cor escolhida de forma uniforme.
+A borda fica inteira, sem cor cinza ou preta de superaquecimento.
+A peça não lasca num impacto leve contra madeira.
+
+FONTES
+------
+Prática consolidada de ferraria e tratamento térmico de aço.
+Referências: John D. Verhoeven, Steel Metallurgy for the Non-Metallurgist,
+ASM International, 2007; Jack Andrews, New Edge of the Anvil, 1994;
+Percy W. Blandford, Practical Blacksmithing and Metalworking, 1988.
+Resumo operacional; não substitui treinamento.

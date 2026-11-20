@@ -1,0 +1,88 @@
+==============================================================================
+CODIGO: 79-005
+TITULO: Como compreender circulação de água em cavernas
+CATEGORIA: 79 - Sobrevivência subterrânea
+TEMPO: 45 minutos
+RISCO: alto
+EXIGE: lanterna, bastão, caderno, botas, parceiro, cordão
+REVISAO: 2026-11
+PALAVRAS-CHAVE: agua, caverna, riacho, inundacao, drenagem, goteira
+==============================================================================
+
+OBJETIVO
+---------
+Ler os sinais deixados pela água na caverna e entender por onde
+ela corre, onde enche e quando a cavidade pode alagar.
+
+QUANDO USAR
+-----------
+Ao explorar gruta com riacho, poça ou piso úmido.
+Ao escolher ponto para acampar ou guardar material dentro.
+Depois de chuva, para avaliar se o nível está subindo.
+Ao planejar drenagem de abrigo ou adega subterrânea.
+
+NAO USE QUANDO
+--------------
+Não entre em caverna com riacho em época de cheia.
+Não caminhe em água corrente com mais de joelhos.
+Não acampe no leito de riacho subterrâneo, mesmo seco.
+Não beba água de poça sem filtrar e ferver antes.
+
+MATERIAIS
+---------
+- Lanterna principal e reserva.
+- Bastão para sondar o piso e medir a profundidade da água.
+- Caderno e lápis para desenhar o sentido da correnteza.
+- Botas com sola firme e meias reservas.
+- Cordão ou fita para marcar o nível da água na parede.
+- Relógio para medir quanto tempo a poça leva a subir.
+
+PROCEDIMENTO
+------------
+1. Na entrada, observe para onde a água escorre depois da chuva.
+2. Note a cor da água: barrenta indica cheia recente.
+3. Olhe as paredes por faixas escuras ou marcas de lama.
+4. Essas marcas mostram até onde a água já subiu.
+5. Amarre um cordão ou marque a parede no nível atual.
+6. Identifique o sentido da correnteza pela inclinação do piso.
+7. Solte uma folha ou graveto na água e veja para onde vai.
+8. Observe goteiras no teto: indicam água infiltrando de cima.
+9. Sonda com o bastão antes de pisar em piso coberto d'água.
+10. Evite áreas onde a água desaparece em fenda: pode haver
+   sumidouro que suga durante a cheia.
+11. Compare o nível marcado após alguns minutos.
+12. Se a água subir ou ficar barrenta, saia imediatamente.
+13. Desenhe no caderno o riacho, as poças e os pontos de subida.
+14. Marque um local alto e seco como refúgio dentro da cavidade.
+
+ATENCAO
+-------
+Caverna com riacho pode encher em minutos com chuva longe dali.
+Água barrenta esconde buracos e desnivelamento no piso.
+Correnteza forte arrasta pedras e quebra os ossos da perna.
+Goteira constante umedece teto e pode soltar blocos.
+Água parada abriga bactérias: nunca beba sem tratar.
+Se a saída ficar alagada, suba para o ponto mais alto e
+espere: não tente nadar em correnteza subterrânea.
+Nunca tape sumidouro ou mude o curso da água sem projeto.
+
+SE NAO TIVER
+------------
+Sem cordão, marque o nível com pedra empilhada na parede.
+Sem bastão, use galho comprido e firme para sondar o piso.
+Sem botas adequadas, não entre em trecho com água corrente.
+Sem relógio, conte os minutos em voz alta com o grupo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você sabe para onde a água corre e onde ela já subiu antes.
+As marcas na parede não mudaram durante a visita.
+O grupo conhece o ponto alto de refúgio e a rota de saída.
+Ninguém pisou em trecho fundo sem sondar antes.
+
+FONTES
+------
+Prática de espeleologia e de hidrogeologia de campo, resumida de
+manuais de clubes de espeleologia e de estudos de cavernas
+cársticas. A leitura das marcas de água é método tradicional
+de avaliação de risco de inundação, não previsão exata.

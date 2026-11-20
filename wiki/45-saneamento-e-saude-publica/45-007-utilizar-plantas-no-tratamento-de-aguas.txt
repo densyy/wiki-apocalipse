@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 45-007
+TITULO: Como utilizar plantas no tratamento de águas residuais
+CATEGORIA: 45 - Engenharia de saneamento e saúde pública
+TEMPO: 180 minutos
+RISCO: alto
+EXIGE: lona, cascalho, areia grossa, tubos, mudas de plantas locais, luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: esgoto, plantas, leito plantado, banhado, fitoremediacao
+==============================================================================
+
+OBJETIVO
+--------
+Montar leito plantado que reduza sólidos, odor e nutrientes do esgoto.
+
+QUANDO USAR
+-----------
+Quando há esgoto ou água de pia sem tratamento e espaço no terreno.
+Quando o objetivo é reduzir odor e sólidos antes de descarregar a água.
+Quando não há energia elétrica para uma estação de tratamento.
+Quando a água de saída servirá só para irrigar plantas não comestíveis.
+
+NAO USE QUANDO
+--------------
+Quando a água contém combustível, solvente, agrotóxico ou metal pesado: o
+leito não a torna segura e as plantas acumulam o veneno.
+Quando o objetivo é obter água potável: o leito não elimina todos os
+microrganismos causadores de doença.
+Quando não for possível manter crianças e animais afastados do local.
+
+MATERIAIS
+---------
+- Lona plástica impermeável (ou argila bem compactada, ou concreto).
+- Cascalho graudo lavado (ou pedra britada lavada).
+- Areia grossa lavada.
+- Tubo de entrada e tubo de saída (ou mangueiras).
+- Balde ou fossa rasa para decantar o esgoto antes do leito.
+- Mudas de plantas aquáticas nativas: taboa (Typha), junco (Juncus).
+- Luvas, botas e capa.
+
+PROCEDIMENTO
+------------
+1. Escolha terreno plano, longe de poços, nascentes e área de brincadeira.
+2. Decante o esgoto no balde ou na fossa para remover sólidos e gordura.
+3. Cave uma vala com aproximadamente 60 cm de profundidade.
+4. Forre o fundo e as paredes com a lona, sem furos, deixando as bordas
+   dobradas para fora da vala.
+5. Coloque o tubo de entrada numa extremidade e o de saída na outra, ambos
+   envoltos por cascalho.
+6. Encha a vala com cascalho até aproximadamente 10 cm abaixo da borda.
+7. Cubra o cascalho com uma camada de areia grossa de aproximadamente 5 cm.
+8. Plante as mudas em linhas, com aproximadamente 30 cm entre cada uma.
+9. Ligue a saída da fossa ao tubo de entrada e regule o fluxo devagar.
+10. Mantenha a água sempre abaixo da superfície do cascalho, sem poças
+    abertas.
+11. Conduza a água de saída para irrigação de plantas não comestíveis ou
+    para área de infiltração afastada. Nunca a destine ao consumo.
+12. Quando as plantas cobrirem toda a superfície, corte o excesso e
+    jogue as partes cortadas no lixo, sem usar como alimento ou adubo.
+
+ATENCAO
+-------
+A água que sai do leito não é potável. Não beba, não cozinhe com ela e não
+lave alimentos com ela.
+O leito reduz sólidos, nutrientes e parte dos microrganismos, mas não
+elimina todos os vírus, bactérias e ovos de vermes.
+Plantas erradas podem ser tóxicas ou invasoras. Use só espécies conhecidas
+da região e nunca coma as plantas que cresceram no leito.
+Não trate efluente industrial, combustível, solvente ou agrotóxico: as
+partes cortadas viram resíduo contaminado e precisam de descarte seguro.
+Se a água aparecer na superfície, surgirem mosquitos ou o cheiro ficar
+forte, pare de alimentar o leito e corrija a drenagem antes de continuar.
+Use luvas e botas ao manusear o esgoto e lave as mãos ao terminar.
+Não construa perto de poço ou nascente usada para beber: o esgoto pode
+infiltrar e contaminar a fonte.
+
+SE NAO TIVER
+------------
+Sem cascalho, use pedra britada bem lavada. Sem lona, use argila compactada
+ou concreto; vedação ruim deixa esgoto infiltrar no solo.
+Sem mudas identificadas, não arranque plantas desconhecidas: espere mudas
+de espécie conhecida ou peça orientação a quem conhece a região.
+Sem espaço afastado de fontes de água, não improvise o leito perto de casa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água escoa pelos tubos e fica abaixo da superfície do cascalho, sem
+acumular poças abertas.
+As mudas criam raízes e brotam novas folhas.
+A água de saída fica menos turva e com menos cheiro do que a de entrada.
+Não há mosquitos se reproduzindo sobre o leito.
+
+FONTES
+------
+Prática consolidada de saneamento: leitos plantados de fluxo subsuperficial,
+descritos em manuais técnicos (GIZ, Eawag, USEPA) e
+no Projeto Global de Patógenos na Água da UNESCO. Resumo operacional; não
+substitui projeto de engenheiro nem treinamento.

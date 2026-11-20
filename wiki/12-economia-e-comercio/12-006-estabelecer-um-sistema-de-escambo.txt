@@ -1,0 +1,67 @@
+==============================================================================
+CODIGO: 12-006
+TITULO: Como estabelecer um sistema de escambo
+CATEGORIA: 12 - Economia, comércio e organização financeira
+TEMPO: 60 minutos
+RISCO: baixo
+EXIGE: papel, lápis, espaço combinado e seguro entre vizinhos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: escambo, troca, permuta, vizinhos, feira, valores, trocar
+==============================================================================
+
+OBJETIVO
+--------
+Monte com os vizinhos um sistema de trocas com valores acordados e
+regras claras, sem usar dinheiro.
+
+QUANDO USAR
+-----------
+Quando o dinheiro falta ou perde o valor e os vizinhos ainda produzem.
+Quando sobram alimentos ou ferramentas e faltam outros bens.
+Quando o comércio formal fecha e a vizinhança precisa se abastecer.
+
+NAO USE QUANDO
+--------------
+Quando há moeda confiável e comércio aberto: a venda direta é mais simples.
+Quando não há confiança: sem acordos, a troca gera conflito.
+
+MATERIAIS
+---------
+- Papel e lápis para registrar acordos e saldos (substituição: papelão).
+- Quadro ou cartaz para a tabela de valores em local visível.
+- Espaço combinado e seguro para as trocas (substituição: praça conhecida).
+
+PROCEDIMENTO
+------------
+1. Reúna os vizinhos interessados em local e horário combinados.
+2. Liste os bens e serviços que cada um pode oferecer.
+3. Escolha um bem de referência, como arroz ou feijão, para medir valores.
+4. Atribua valores em relação ao bem de referência e anote em papel.
+5. Escreva a tabela em um cartaz e fixe no local das trocas.
+6. Registre em papel quem entrega e quem recebe cada bem.
+7. Anote o saldo de cada pessoa em relação ao bem de referência.
+8. Confira os saldos em voz alta antes de encerrar o encontro.
+9. Acordem por escrito o que acontece se alguém não entregar o prometido.
+
+ATENCAO
+-------
+Tabela mal acordada gera conflito: registre sempre os valores no papel.
+Sem registro, alguém pode acumular saldo e não entregar o bem prometido.
+Bens perecíveis perdem valor: troque alimento antes de estragar.
+Se a desconfiança crescer, suspenda as trocas e volte ao comércio formal.
+
+SE NAO TIVER
+------------
+Sem papel, anote os acordos em uma pedra lisa ou em pedaço de papelão.
+Sem bem de referência, use o alimento mais comum entre os vizinhos.
+Sem local fixo, marque o encontro em praça conhecida e avise todos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os vizinhos entregam e recebem bens no horário marcado, sem conflito.
+A tabela de valores e os saldos ficam legíveis no cartaz e no papel.
+
+FONTES
+------
+Prática consolidada sem documento único. Escambo e troca direta são
+antigas e universais. Nenhuma fonte institucional foi consultada aqui.

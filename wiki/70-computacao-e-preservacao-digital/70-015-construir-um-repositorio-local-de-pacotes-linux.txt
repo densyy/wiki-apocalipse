@@ -1,0 +1,88 @@
+==============================================================================
+CODIGO: 70-015
+TITULO: Como construir um repositório local de pacotes Linux
+CATEGORIA: 70 - Computação de baixo consumo e preservação digital
+TEMPO: 40 minutos
+RISCO: baixo
+EXIGE: computador com Debian ou Ubuntu, arquivos .deb e disco livre
+REVISAO: 2026-11
+PALAVRAS-CHAVE: pacote, repositório, apt, offline, instalação, deb
+==============================================================================
+
+OBJETIVO
+--------
+Instalar e reinstalar pacotes .deb sem internet, usando um repositório
+local guardado em pasta, pendrive ou disco externo.
+
+QUANDO USAR
+-----------
+Quando o computador não tem acesso à internet.
+Quando vários computadores precisam dos mesmos pacotes.
+Quando se quer guardar instaladores para reinstalar após uma falha.
+Quando os servidores de pacotes oficiais estão fora do ar.
+
+NAO USE QUANDO
+--------------
+Quando o pacote vem de fonte desconhecida ou não confiável.
+Quando o sistema é diferente daquele que gerou o pacote.
+Um repositório local não substitui atualização de segurança online.
+
+MATERIAIS
+---------
+- Computador com Debian ou Ubuntu e terminal disponível.
+- Arquivos .deb obtidos de fonte confiável.
+- Pasta em disco, pendrive ou hd externo com espaço livre.
+- Pacote apt-utils, que traz o comando apt-ftparchive.
+- Permissão de escrita na pasta escolhida.
+
+PROCEDIMENTO
+------------
+1. Crie a pasta raiz do repositório em /media/repo.
+2. Crie as pastas de trabalho com os comandos:
+   mkdir -p /media/repo/dists/stable/main/binary-amd64
+   mkdir -p /media/repo/pool/main
+3. Copie os arquivos .deb para /media/repo/pool/main.
+4. Entre na pasta de índice:
+   cd /media/repo/dists/stable/main/binary-amd64
+5. Gere o índice dos pacotes com:
+   apt-ftparchive packages /media/repo/pool/main > Packages
+6. Compacte o índice com:
+   gzip -9c Packages > Packages.gz
+7. Volte à raiz com cd /media/repo.
+8. Gere o arquivo de liberação com:
+   apt-ftparchive release dists/stable > dists/stable/Release
+9. No cliente, crie /etc/apt/sources.list.d/repo-local.list.
+10. Escreva nesse arquivo a linha:
+    deb [trusted=yes] file:/media/repo stable main
+11. Atualize a lista com apt update.
+12. Instale com apt install nome-do-pacote.
+
+ATENCAO
+-------
+Sem assinatura GPG, o apt avisa que o repositório não é confiável.
+A opção trusted=yes silencia o aviso, mas confia em todo pacote da pasta.
+Use apenas pacotes de fontes confiáveis e guarde a origem de cada .deb.
+Nunca edite o sources.list principal: crie sempre um arquivo separado.
+Se o repositório sair do caminho, apt update falha até você removê-lo.
+Arquiteturas diferentes exigem pastas binary diferentes.
+Este método é para Debian e Ubuntu. Em Fedora e RHEL use createrepo.
+
+SE NAO TIVER
+------------
+Sem apt-ftparchive, instale o pacote apt-utils antes de continuar.
+Como alternativa, use dpkg-scanpackages para gerar o Packages.
+Em sistema RPM, use createrepo na pasta com os .rpm.
+Sem espaço em disco, grave o repositório em pendrive e monte em /media.
+
+COMO SABER QUE DEU CERTO
+------------------------
+apt update termina sem erros e mostra o repositório local na lista.
+apt-cache policy nome-do-pacote mostra o repositório como origem.
+O pacote instala e abre sem pedir download algum.
+
+FONTES
+------
+Prática consolidada de administração de sistemas Debian e Ubuntu.
+Ferramentas padrão apt-ftparchive, dpkg-scanpackages e createrepo.
+Texto escrito de memória operacional, sem consulta a documento único.
+Confira a documentação da sua distribuição antes de uso em produção.

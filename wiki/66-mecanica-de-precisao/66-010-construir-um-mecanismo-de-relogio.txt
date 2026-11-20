@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 66-010
+TITULO: Como construir um mecanismo de relógio
+CATEGORIA: 66 - Mecânica de precisão e instrumentos
+TEMPO: 180 minutos
+RISCO: medio
+EXIGE: prancha, hastes, corda, peso pequeno, arame, estilete, cola
+REVISAO: 2026-11
+PALAVRAS-CHAVE: relógio, escapamento, pêndulo, roda, peso, engrenagem
+==============================================================================
+
+OBJETIVO
+--------
+Montar um modelo que transforma a queda de um peso em batidas ritmadas.
+
+QUANDO USAR
+-----------
+Quando quiser demonstrar como um relógio transforma força em tempo.
+Quando quiser ver escapamento, roda de escape e pêndulo funcionando.
+
+NAO USE QUANDO
+--------------
+Não serve para medir horas com precisão.
+Não substitua relógio de quartzo, mecanismo certificado ou calibração.
+
+MATERIAIS
+---------
+- Prancha de madeira ou papelão rígido e duas hastes retas como eixos.
+- Discos de papelão ou madeira para a roda de escape e o tambor.
+- Corda resistente e peso pequeno (pedra ou arruela grande).
+- Arame fino para a âncora e o pêndulo.
+- Estilete, régua, lápis, cola, fita e pano para as mãos.
+
+PROCEDIMENTO
+------------
+1. Desenhe na prancha onde ficam o tambor, a roda e o pêndulo.
+2. Fixe as hastes como eixos paralelos, com folga para girarem livres.
+3. Recorte o tambor e a roda com dentes inclinados para fora.
+4. Enfie a roda no eixo, cole e confira que gira sem atritar.
+5. Enrole a corda no tambor e pendure o peso na ponta.
+6. Dobre o arame em âncora com duas paletas curvas nas pontas.
+7. Prenda a âncora sobre a roda, com as paletas encostando nos dentes.
+8. Prenda o pêndulo na âncora e ajuste o comprimento da haste.
+9. Solte o peso e empurre o pêndulo; ouça as batidas.
+10. Ajuste as paletas até a roda avançar um dente por batida.
+
+ATENCAO
+-------
+Peso em queda machuca pé ou mão: use peso pequeno e prenda bem a corda.
+Arame e estilete cortam: proteja as mãos e corte para fora do corpo.
+Corda enrolada no eixo prende dedo: nunca enrole corda na mão.
+Este modelo apenas demonstra o princípio; não mantém as horas.
+Dentes desiguais travam a roda: refaça os dentes com paciência.
+
+SE NAO TIVER
+------------
+Sem prancha de madeira, dobre papelão em várias camadas.
+Sem arame, endireite um clipe ou use grampo de cabelo.
+Sem peso próprio, prenda uma pedra ou arruela com fita.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A roda avança um dente a cada batida do pêndulo.
+As batidas são regulares, sem travar e sem correr solto.
+O peso desce devagar e o mecanismo continua em movimento.
+
+FONTES
+------
+Prática consolidada de relojoaria mecânica: escapamento de âncora
+e pêndulo desde o século XVII. Resumo de oficina; não substitui treinamento.

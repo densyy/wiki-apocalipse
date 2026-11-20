@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 68-019
+TITULO: Como reduzir ruídos em receptores de rádio
+CATEGORIA: 68 - Radiofrequência e telecomunicações
+TEMPO: 45 minutos
+RISCO: medio
+EXIGE: rádio, antena, cabo coaxial íntegro, ferrite, ponto de terra
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ruído, interferência, rádio, terra, ferrite, chiado
+==============================================================================
+
+OBJETIVO
+---------
+Reduzir o chiado e a interferência que atrapalham a recepção de rádio.
+
+QUANDO USAR
+-----------
+Quando o rádio chiado mesmo com a antena bem posicionada.
+Quando fontes comutadas, motores ou luminárias de LED criam ruído.
+Quando a recepção piora ao ligar algum aparelho próximo.
+Quando há zumbido, estalos ou chiado no áudio do receptor.
+Quando a antena foi movida e o sinal ficou sujo.
+
+NAO USE QUANDO
+--------------
+Quando não houver sinal algum da emissora na região: nenhum filtro cria
+sinal onde não existe. Mude de antena, de horário ou de frequência primeiro.
+Quando o defeito for interno ao rádio: procure conservação especializada.
+
+MATERIAIS
+---------
+- Cabo coaxial com blindagem íntegra, para ligar a antena ao rádio.
+- Anéis de ferrite, para passar o cabo e cortar ruído de alta frequência.
+- Fita isolante e abraçadeiras, para prender o cabo e os ferrites.
+- Haste metálica e fio de cobre, ou ponto de terra da instalação.
+- Conectores em bom estado, sem oxidação, folga ou emenda exposta.
+- Pano seco para limpar contatos oxidados.
+- Caderno e caneta para anotar o que melhora ou piora.
+
+PROCEDIMENTO
+------------
+1. Desligue o rádio e os aparelhos próximos antes de mexer nas ligações.
+2. Inspecione o cabo coaxial: procure cortes, amassos, emendas expostas e
+   conectores oxidados ou frouxos.
+3. Troque qualquer cabo com blindagem danificada por cabo íntegro.
+4. Aperte os conectores com a mão, sem força excessiva, até firmarem.
+5. Limpe os contatos oxidados com pano seco e troque conectores corroídos.
+6. Ligue o rádio e sintonize uma estação fraca conhecida como referência.
+7. Aproxime o cabo da fonte de ruído e veja se o chiado aumenta; afaste até
+   o chiado cair, mantendo o sinal da estação.
+8. Afaste o rádio e a antena de motores, carregadores, fontes comutadas e
+   luminárias de LED, a pelo menos 1 metro de distância.
+9. Passe o cabo coaxial uma ou duas vezes por um anel de ferrite, perto do
+   rádio.
+10. Prenda o ferrite com fita, afaste-o um pouco do rádio e compare o ruído.
+11. Ligue o terminal de terra do rádio a uma haste fincada em solo úmido ou
+    ao ponto de terra da instalação. Nunca use cano de gás como terra.
+12. Desligue os aparelhos próximos um de cada vez e anote qual some com o
+    ruído.
+13. Anote cada mudança e mantenha somente a que reduziu o ruído sem tirar
+    o sinal.
+
+ATENCAO
+-------
+Nunca abra o rádio com o cabo de energia ligado: choque pode matar.
+Nunca use cano de gás como terra: pode gerar faísca e incêndio.
+Aterramento mal feito pode trazer ruído em vez de reduzir; se piorar,
+desfaça a ligação e peça ajuda a quem entende de eletricidade.
+Não remova o aterramento original do aparelho para "testar": é perigoso.
+Filtro e ferrite não aumentam sinal: confundir as duas coisas faz perder
+tempo. Se a estação não entra, o problema é de sinal, não de ruído.
+Interferência gerada por aparelho vizinho pode exigir que o dono resolva.
+
+SE NAO TIVER
+------------
+Sem anel de ferrite, enrolar o cabo em metal comum não tem o mesmo efeito:
+prefira afastar a fonte de ruído e encurtar o cabo exposto.
+Sem haste de terra, use o ponto de terra da tomada da instalação, somente
+se estiver em bom estado e você souber que é seguro.
+Sem cabo coaxial novo, reaperte as emendas e reforce a blindagem com fita
+de alumínio, sem encostar no fio central.
+Se nada reduzir o ruído, troque a antena de lugar ou de tipo: reaprenda a
+sintonia antes de culpar o rádio.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O chiado de fundo cai e a voz ou a música fica inteligível.
+O zumbido some quando se desliga determinado aparelho próximo.
+O sinal da estação de referência continua presente após cada ajuste.
+Não aparecem estalos novos ao se mexer no cabo ou no conector.
+
+FONTES
+------
+Prática consolidada de supressão de interferência eletromagnética em
+receptores, resumida do Manual do Radioamador da ARRL (ARRL Handbook) e de
+referências de compatibilidade eletromagnética. As regras de aterramento e
+segurança elétrica seguem prática consolidada. Este texto é um resumo
+operacional, não substitui treinamento nem conservação por profissional.

@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 36-005
+TITULO: Como reconhecer minerais não metálicos
+CATEGORIA: 36 - Geologia, mineração e recursos naturais
+TEMPO: 25 minutos
+RISCO: medio
+EXIGE: amostra, unha, moeda de cobre, faca de aço, placa fosca
+REVISAO: 2026-11
+PALAVRAS-CHAVE: mineral, não metálico, dureza, traço, brilho, pedra
+==============================================================================
+
+OBJETIVO
+--------
+Separar minerais não metálicos comuns usando testes simples e seguros.
+
+QUANDO USAR
+-----------
+Quando aparece uma pedra ou fragmento de origem desconhecida.
+Quando é preciso separar quartzo, calcita e feldspato sem laboratório.
+
+NAO USE QUANDO
+--------------
+Suspeita de amianto, urânio, chumbo ou mercúrio: pare e peça ajuda.
+Não moa, não lixe e não inale pó de nenhuma amostra desconhecida.
+
+MATERIAIS
+---------
+- Amostra com face limpa, sem terra, ferrugem ou pintura.
+- Escova de cerdas duras (pano seco).
+- Unha, moeda de cobre, faca de aço e placa de porcelana fosca.
+
+PROCEDIMENTO
+------------
+1. Escolha uma face fresca da amostra, sem terra, ferrugem ou pintura.
+2. Limpe a face com a escova seca; não molhe sal nem argila.
+3. Observe a cor sob luz natural e registre, sem decidir só por ela.
+4. Observe o brilho: vítreo (vidro), nacarado (pérola), sedoso (fibra).
+5. Anote resinoso (resina), graxo (óleo) ou adamantino (diamante).
+6. Classifique como não metálico se a face não parecer metal polido.
+7. Esfregue a amostra na placa e observe a cor do pó, chamado traço.
+8. Arrane a face com a unha; se entrar, a dureza é até 2.
+9. Arrane com a moeda de cobre; se entrar, a dureza é até 3.
+10. Arrane com a faca de aço; se entrar, até 5; se não entrar, acima de 5.
+11. Procure planos retos e repetidos: são a clivagem; conte as direções.
+12. Se não houver planos, registre a fratura: curva lisa é conchoidal.
+13. Pese na mão: quartzo e feldspato parecem leves; barita parece pesada.
+
+ATENCAO
+-------
+Cor não identifica: o quartzo pode ser claro, branco, preto, rosa ou roxo.
+Confunda pó com risco: se o material riscado apaga, repita o teste inverso.
+Nunca use ácido caseiro, não moa, não lixe e não inale o pó da amostra.
+Minerais fibrosos podem ser amianto; alguns minerais de urânio são amarelos.
+Diante de dúvida, pare e procure um laboratório ou profissional de geologia.
+
+SE NAO TIVER
+------------
+Sem placa de porcelana, use o verso de um ladrilho fosco para o traço.
+Sem faca de aço, pare no teste da moeda e informe apenas até 3.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você anotou brilho, traço, dureza, clivagem e peso para cada amostra.
+Amostras de cor diferente mostraram traço ou dureza diferentes.
+
+FONTES
+------
+Manual EENS 2110 da Tulane University (Stephen A. Nelson).
+FAQ do USGS e SGB/CPRM; prática consolidada de campo e laboratório.

@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 48-005
+TITULO: Como montar uma pequena fábrica de farinha
+CATEGORIA: 48 - Produção de alimentos em escala comunitária
+TEMPO: 180 minutos
+RISCO: alto
+EXIGE: grão seco e limpo, moinho, peneiras, recipientes secos, equipe
+REVISAO: 2026-11
+PALAVRAS-CHAVE: farinha, moinho, moagem, grãos, trigo, milho, comunitária
+==============================================================================
+
+OBJETIVO
+--------
+Montar a moagem e produzir farinha limpa e seca para o grupo.
+
+QUANDO USAR
+-----------
+Quando o grupo tem grão em quantidade e precisa de farinha para pão.
+Quando comprar farinha ficou impossível e há moinho manual ou de pedra.
+Quando várias pessoas vão moer junto e é preciso dividir tarefas.
+
+NAO USE QUANDO
+--------------
+Quando o grão estiver mofado, com cheiro de mofo ou úmido.
+Quando houver grãos escuros e duros sem condição de separá-los.
+Quando o local for fechado, sem ventilação ou com chama livre por perto.
+Quando o moinho estiver sem proteção nas partes móveis.
+Nesses casos, não moa para o grupo; use alimento pronto e seguro.
+
+MATERIAIS
+---------
+- Grão seco, sem mofo, sem cheiro estranho e sem corpos escuros.
+- Moinho manual, de pedra ou de martelo com proteção nas partes móveis.
+- Peneiras de malha grossa e fina (ou pano limpo e firme).
+- Balde com tampa, sacos limpos e secos e prateleiras longe do chão.
+- Local ventilado, com piso limpo e sem fogo, chama ou faísca perto.
+- Pano úmido e aspirador próprio para pó (ou pano e pá, sem soprar).
+- Máscara ou pano limpo sobre nariz e boca, luvas e touca.
+- Água tratada e sabão para lavar as mãos e limpar os equipamentos.
+- Caderno e lápis para anotar lote, data e quantidade.
+
+PROCEDIMENTO
+------------
+1. Escolha local arejado, com piso limpo, longe de fogão e de fagulha.
+2. Antes de usar, confira se as proteções das partes móveis estão firmes.
+3. Separe o grão: retire os mofados, os amassados e os corpos escuros.
+4. Retire pedras, terra, palha e sementes de outras plantas na peneira.
+5. Meça o lote e anote no caderno a data e a origem do grão.
+6. Confira a secura: o grão deve quebrar com estalo e não grudar no dente.
+7. Coloque máscara ou pano limpo sobre nariz e boca antes de moer.
+8. Ligue o moinho vazio por um instante e escute; pare se houver atrito.
+9. Despeje o grão sem pressa, sem encher demais e sem usar as mãos.
+10. Nunca introduza vara, pedra ou metal no moinho em funcionamento.
+11. Pare e desligue o moinho antes de desobstruir ou ajustar qualquer peça.
+12. Peneire: a malha fina retém o farelo e deixa passar a farinha.
+13. Limpe o pó com pano úmido; nunca sopre com ar comprimido.
+14. Se houver motor, deixe o moinho esfriar: rolamento quente inflama o pó.
+15. Ensacue a farinha fria em saco limpo, seco e bem fechado.
+16. Guarde em prateleira alta e seca, longe de insetos, e anote o lote.
+
+ATENCAO
+-------
+O pó de grão e farinha inflama e pode explodir perto de fogo ou faísca.
+Nunca moa perto de chama, fogão, solda ou motor que solte faísca.
+Pedra ou metal no moinho gera faísca; retire esses objetos antes de moer.
+Poeira acumulada é combustível: limpe com pano úmido e nunca soprando.
+Micotoxinas de grão mofado não saem na cocção; não moa grão mofado.
+O esporão, corpo escuro e duro, passa para a farinha e intoxica.
+Não cheire grão mofado: o pó dos esporos pode causar doença pulmonar.
+Peças móveis prendem dedos e roupas: desligue antes de desobstruir.
+Com tontura, dor de cabeça ou formigamento após comer, pare e busque ajuda.
+Farinha úmida mofa rápido; descarte se aparecer cheiro ou mancha.
+
+SE NAO TIVER
+------------
+Sem moinho, use pedra de moer ou pilão limpo e peneire depois o farelo.
+Sem peneira, estique pano limpo e firme sobre a boca do balde.
+Sem máscara, aperte pano limpo e seco sobre nariz e boca.
+Sem medidor de umidade, morda o grão: quebrar seco é sinal de grão bom.
+Sem local ventilado, não moa dentro de casa; moa ao ar livre, longe do fogo.
+Sem grão bom, não produza farinha para o grupo; busque alimento pronto.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A farinha é seca, sem grumos, sem cheiro de mofo e sem corpos escuros.
+O grão virou pó fino na peneira e o farelo ficou retido.
+Não ficou pó acumulado no chão nem nas prateleiras após a limpeza.
+Os sacos ficaram fechados, identificados e em local seco e alto.
+Ninguém teve queimadura, corte ou tontura durante o turno.
+
+FONTES
+------
+OSHA, norma 1910.272 sobre grãos e diretriz CPL 03-00-008 de pó combustível;
+HSE, guia Preventing dust explosions in the food industry;
+FAO, manuais On-farm mycotoxin control in food and feed grain e Appropriate
+seed and grain storage systems for small-scale farmers;
+Anvisa, Instrução Normativa 160/2022, limites de micotoxinas em alimentos;
+Embrapa e Abitrigo, cartilha Micotoxinas no Trigo; Secretaria da Agricultura
+do Rio Grande do Sul, orientações sobre giberela em trigo. Prática
+consolidada de moagem comunitária, sem documento único.

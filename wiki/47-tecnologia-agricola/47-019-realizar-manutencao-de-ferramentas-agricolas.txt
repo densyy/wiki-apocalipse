@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 47-019
+TITULO: Como realizar manutenção de ferramentas agrícolas
+CATEGORIA: 47 - Tecnologia agrícola e mecanização rural
+TEMPO: 45 minutos
+RISCO: medio
+EXIGE: pano, escova, lima ou pedra de afiar, oleo, luvas, oculos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: manutenção, ferramentas, afiar, ferrugem, limpeza, enxada
+==============================================================================
+
+OBJETIVO
+--------
+Limpar, afiar e proteger ferramentas manuais para durar mais e cortar bem.
+
+QUANDO USAR
+-----------
+- Depois de usar enxada, pa, ancinho, facao ou foice em solo ou planta.
+- Antes de guardar por varios dias ou quando aparecer ferrugem.
+
+NAO USE QUANDO
+--------------
+- Lmina rachada, ponta quebrada ou cabo apodrecido: descarte a peca.
+- Nunca afie maquina ligada nem com o motor em movimento.
+
+MATERIAIS
+---------
+- Pano seco, pano com oleo e escova de cerdas duras (palha de aco).
+- Lima de ferro (pedra de rio de grao fino).
+- Agua, sabao, luvas de couro e oculos de protecao.
+- Chave de fenda ou alicate e oleo de linha (oleo vegetal).
+
+PROCEDIMENTO
+------------
+1. Coloque a ferramenta sobre mesa firme ou apoie o cabo no chao.
+2. Calce luvas e oculos antes de tocar na lmina.
+3. Raspe a terra seca com a escova, do cabo para a ponta.
+4. Lave a lmina com agua e sabao e seque com pano seco.
+5. Passe a escova ou a palha de aco nas manchas de ferrugem.
+6. Afie o corte com a lima, sempre no angulo original da lmina.
+7. Passe a lima do cabo para a ponta e retire as rebarbas.
+8. Aperte parafusos, porcas e a fixacao do cabo com a chave.
+9. Passe pano com oleo em toda a parte de ferro e no corte.
+10. Guarde em local seco, com a lmina virada para baixo.
+
+ATENCAO
+-------
+- A lmina corta mesmo suja: nunca passe a mao pelo fio de corte.
+- Afiar tira metal: nao exagere, ou a ferramenta perde corpo.
+- Nao guarde molhada: a ferrugem volta em poucos dias.
+- Nao use oleo em excesso onde a mao segura: fica escorregadio.
+- Se a lmina rachar ou o cabo soltar, pare e troque a peca.
+
+SE NAO TIVER
+------------
+- Sem lima, use pedra de rio de grao fino ou pedra de afiar.
+- Sem oleo de linha, use oleo vegetal e enxugue o excesso.
+- Sem oculos de protecao, nao afie: espere ter protecao nos olhos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- A lmina nao tem terra, seiva nem mancha solta de ferrugem.
+- O fio de corte passa na unha sem arrastar ou prender.
+- Parafusos e cabo nao balancam quando a ferramenta e sacudida.
+
+FONTES
+------
+- Pratica consolidada de conservacao de ferramentas agricolas manuais.
+- Embrapa: circulares sobre implementos e conservacao rural.
+- FAO: manual sobre ferramentas manuais para pequenos produtores.

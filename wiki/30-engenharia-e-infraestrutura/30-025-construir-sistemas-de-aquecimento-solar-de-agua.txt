@@ -1,0 +1,90 @@
+==============================================================================
+CODIGO: 30-025
+TITULO: Como construir sistemas de aquecimento solar de água
+CATEGORIA: 30 - Engenharia e infraestrutura básica
+TEMPO: 1 dia
+RISCO: alto
+EXIGE: coletor, tanque isolado, tubos, válvula de alívio, suporte firme
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água quente, solar, coletor, tanque, aquecedor, encanamento
+==============================================================================
+
+OBJETIVO
+--------
+Montar um aquecedor solar que aquece água sem bomba nem combustível.
+
+QUANDO USAR
+-----------
+Quando há sol e falta lenha, gás ou energia para aquecer água.
+Quando se precisa de água morna para banho, louça ou limpeza.
+Quando há material para montar um coletor e um tanque isolado.
+Quando o tanque pode ficar acima do coletor, sem bomba.
+
+NAO USE QUANDO
+--------------
+Quando a água pode congelar no coletor e não há como drená-lo.
+Quando não há válvula de alívio e respiro no tanque.
+Quando o suporte não aguenta o tanque cheio de água.
+Quando se pretende misturar anticongelante na água de banho.
+
+MATERIAIS
+---------
+- Coletor de placa plana (ou caixa com fundo preto fosco e tampa).
+- Tanque com tampa e isolante (ou barrica atóxica para água potável).
+- Tubos de cobre ou PEX para água potável (ou tubo atóxico).
+- Isolante para os tubos quentes (ou lã de vidro amarrada).
+- Válvula de alívio de pressão e respiro (sem substituto).
+- Válvula de mistura na saída quente (ou torneira de água fria).
+- Dreno no ponto mais baixo do coletor (ou torneira de escoamento).
+- Suportes, parafusos, arruelas e vedantes resistentes ao calor.
+- Termômetro para medir a saída do tanque (opcional).
+
+PROCEDIMENTO
+------------
+1. Instale o coletor voltado ao norte no hemisfério sul.
+2. Dê ao coletor inclinação aproximadamente igual à latitude do lugar.
+3. Fixe o tanque com a base acima do topo do coletor, sobre suporte firme.
+4. Encha o tanque com água potável e tampe.
+5. Ligue o topo do coletor à entrada superior do tanque com tubo isolado.
+6. Ligue a saída inferior do tanque à entrada inferior do coletor.
+7. Instale o respiro e a válvula de alívio no ponto mais alto do tanque.
+8. Instale a válvula de mistura na saída de água quente.
+9. Instale o dreno no ponto mais baixo do coletor.
+10. Abra as torneiras e deixe o ar sair pelas conexões.
+11. Confira cada junta com papel seco e aperte as que molharem.
+12. Deixe o sistema em carga por aproximadamente 1 dia antes de usar.
+13. Abra o dreno se a temperatura cair abaixo de 0 °C.
+
+ATENCAO
+-------
+- Água acima de 60 °C queima a pele; use a válvula de mistura.
+- Nunca tampe o respiro nem obstrua o alívio: o vapor pode romper o tanque.
+- Cada litro de água pesa 1 kg: confira a carga antes de montar no alto.
+- Sem dreno, a água parada congela e estoura os tubos no frio.
+- Nunca misture anticongelante na água de banho: etilenoglicol é tóxico.
+- Não use tubo ou solda de chumbo na linha de água potável.
+- Água entre 20 e 50 °C abriga bactérias; mantenha o tanque acima de 60 °C.
+- Com sol forte, não toque no coletor nem nos tubos expostos.
+- Com vazamento ou pressão alta, pare e chame um encanador.
+
+SE NAO TIVER
+------------
+- Sem coletor, use caixa isolada com fundo preto fosco e tampa de vidro.
+- Sem válvula de mistura, misture água fria em balde antes do banho.
+- Sem tanque metálico, use barrica atóxica com tampa e isolante.
+- Não substitua tubo potável por mangueira de jardim: pode liberar chumbo.
+- Sem acesso seguro ao alto, monte no chão sobre suporte firme.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- A água quente chega primeiro na torneira depois de algumas horas de sol.
+- O termômetro na saída do tanque marca aproximadamente 40 °C ou mais.
+- Não há gotejamento nas juntas nem ruído de ar na tubulação.
+- A linha inferior volta fria ao coletor: a circulação está funcionando.
+
+FONTES
+------
+- Prática consolidada de aquecimento solar e instalações hidráulicas.
+- Resumo operacional de prática consolidada, sem documento único.
+- Não foi consultada fonte institucional; isto não substitui norma local.
+- Para projeto e normas, procure profissional ou órgão local de saneamento.

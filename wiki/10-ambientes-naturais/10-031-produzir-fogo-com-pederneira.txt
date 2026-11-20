@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 10-031
+TITULO: Como produzir fogo com pederneira
+CATEGORIA: 10 - Sobrevivência em ambientes naturais
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: pederneira de pedra ou ferrocerério, aço carbono, isca seca
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fogo, pederneira, sílex, ferrocerério, faísca, isca, estopa
+==============================================================================
+
+OBJETIVO
+--------
+Acender uma chama só com faíscas de pederneira, sem fósforos nem isqueiro.
+
+QUANDO USAR
+-----------
+Quando os fósforos ou o isqueiro acabaram, molharam ou pararam de funcionar.
+Quando há uma pedra dura e um pedaço de aço, mas não há fósforos.
+Quando a pederneira de ferrocerério faz parte do seu kit de sobrevivência.
+Quando frio, umidade ou vento atrapalham os outros meios de acender.
+
+NAO USE QUANDO
+--------------
+Quando houver aviso de incêndio ou vegetação muito seca ao redor.
+Quando não der para ventilar: nunca acenda fogo em abrigo fechado.
+Quando não houver isca seca: faísca sem isca seca não acende fogo.
+Quando não houver água ou terra para apagar o fogo antes de dormir.
+
+MATERIAIS
+---------
+- Pederneira de pedra com borda afiada (sílex, quartzo ou pedra dura) ou
+  barra de ferrocerério com seu raspador.
+- Aço carbono para riscar: lima, faca comum ou pedaço de aço (aço inox
+  não produz boa faísca).
+- Estopa carbonizada: pano de algodão queimado em lata fechada (papel,
+  serragem fina ou casca de bétula raspada).
+- Isca seca extra: algodão, fiapos de pano, palha ou aparas de madeira.
+- Gravetos finos e secos, lascas e lenha em tamanhos crescentes.
+- Água, terra ou areia para apagar (pó de extintor, se houver).
+
+PROCEDIMENTO
+------------
+1. Escolha terreno plano e limpo, livre de arbustos secos.
+2. Afaste barraca, roupa e gravetos a cerca de 5 metros.
+3. Monte a fogueira antes de riscar: isca no centro, gravetos finos
+   em cone e lenha ao lado.
+4. Prepare a estopa: queime algodão em lata com furo, apoiada em brasas,
+   até ficar preto e quebradiço; espere esfriar antes de abrir.
+5. Desfie a isca em fiapos e forme ninho com afundamento no meio;
+   coloque a estopa carbonizada dentro do afundamento.
+6. Segure a pederneira firme, borda afiada para cima, sobre a isca.
+7. Apoie a estopa na borda, segure com o polegar sem tampar a batida.
+8. Segure o aço na outra mão e desfira batida seca e oblíqua
+   contra a borda, dirigindo as faíscas para a estopa.
+9. Repita batidas curtas e firmes até surgir brasa vermelha;
+   batidas apressadas só desgastam a pedra.
+10. Com ferrocerério, encoste a barra na isca e raspe o raspador
+    ao longo dela, sempre para baixo.
+11. Pare ao brilhar; leve a estopa ao ninho, feche as mãos sem
+    apertar e sopre de baixo, sopradas longas, não no centro.
+12. Quando o ninho pegar fogo, leve-o à fogueira montada.
+13. Alimente com gravetos finos, depois lenha maior, até estabilizar.
+
+ATENCAO
+-------
+Monóxido não tem cheiro e mata: nunca queime em abrigo fechado.
+Aço inox não dá faísca boa: use aço carbono, lima ou faca comum.
+Não use pedra molhada ou porosa: pode estourar.
+Faísca dura pouco: isca úmida não pega; se a brasa esfriou, recomece.
+Sopro curto e forte apaga a brasa; sopre de leve e de baixo.
+Não use gasolina, álcool ou outro líquido inflamável para acender.
+Mantenha roupa, cabelo e mãos longe das faíscas; use óculos se houver.
+Antes de dormir, afogue com água, mexa a cinza e afogue de novo.
+
+SE NAO TIVER
+------------
+Sem pederneira, use ferrocerério: faíscas quentes, mas isca seca.
+Sem estopa, use algodão com vaselina, fiapos secos, serragem fina,
+casca de bétula raspada ou miolo de madeira morta.
+Sem aço carbono, tente uma lima ou o dorso de uma faca comum;
+não insista com aço inox.
+Sem pedra adequada, procure sílex, quartzo ou pedra bem dura que corte o
+aço e tenha borda sem arredondar.
+Não improvise com fios de tomada nem com produtos químicos desconhecidos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A estopa mostra um ponto vermelho que permanece depois da batida.
+O ninho solta fumaça fina e depois abre uma chama pequena e estável.
+Os gravetos finos pegam fogo sem apagar e surgem brasas sob a chama.
+A fumaça sobe clara; fumaça escura e espessa indica isca ou madeira úmida.
+
+FONTES
+------
+Manual de sobrevivência do Exército dos EUA, FM 21-76, cap. 7 (Firecraft).
+Outdoor Survival Guide, Randy Gerke (Human Kinetics), fogo com pederneira.
+Prática consolidada de sobrevivência e segurança contra incêndio, com
+orientações de defesa civil para fogueiras ao ar livre.

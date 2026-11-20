@@ -1,0 +1,97 @@
+==============================================================================
+CODIGO: 14-001
+TITULO: Como aplicar fundamentos de biologia para sobrevivência
+CATEGORIA: 14 - Biologia, botânica e zoologia
+TEMPO: 35 minutos
+RISCO: alto
+EXIGE: caderno, lápis, lupa de bolso, sabão, água limpa, pote transparente
+REVISAO: 2026-11
+PALAVRAS-CHAVE: biologia, célula, germe, planta, fotossíntese, veneno
+==============================================================================
+
+OBJETIVO
+--------
+Use noções básicas de biologia para observar seres vivos, evitar contágio e
+decidir com segurança o que é seguro comer ou tocar.
+
+QUANDO USAR
+-----------
+- Ao encontrar planta, fruto ou cogumelo e decidir se dá para comer.
+- Ao não ter água corrente e precisar reduzir o risco de contágio.
+- Ao preparar ou armazenar comida sem geladeira.
+- Ao ver mosquito ou mosca e precisar proteger água e comida.
+
+NAO USE QUANDO
+--------------
+- Quando não der para observar o ser vivo por completo: não decida.
+- Quando não der para nomear a planta com certeza: não coma.
+- Quando a água estiver turva: trate antes de usar.
+- Não use este guia para curar doença ou picada venenosa.
+
+MATERIAIS
+---------
+- Caderno e lápis para anotar o que foi observado.
+- Lupa de bolso (lente de leitura) para ver detalhes.
+- Sabão, água limpa e álcool com pelo menos 60% de álcool.
+- Pote transparente para observar sem tocar.
+- Faca e tábua separadas para comida crua; termômetro (opcional).
+
+PROCEDIMENTO
+------------
+1. Observe o ser vivo por completo antes de tocar: folha, flor, fruto.
+2. Anote no caderno a forma da folha, a borda, os pelos e a cor.
+3. Aproxime o nariz sem esfregar a folha na pele e anote o cheiro.
+4. Decida se é planta, animal, fungo ou microrganismo pelo jeito de viver.
+5. Lembre: a planta verde fabrica seu alimento com luz, ar e água.
+6. Lembre: animal e fungo não fabricam alimento; vivem de outros seres.
+7. Aplique a regra de ouro: sem certeza do nome, não coma.
+8. Deixe cogumelo silvestre de lado: mesmo quem estuda se engana.
+9. Rejeite comida com mofo ou muco; lave fruta e verdura com água limpa.
+10. Lave as mãos com sabão e água corrente por aproximadamente 20 segundos.
+11. Repita antes de comer, após o banheiro e após tocar animal ou terra.
+12. Sem água e sabão, use álcool 70% se as mãos não estiverem sujas.
+13. Separe comida crua de cozida; use faca e tábua diferentes.
+14. Coza carne, ovo e peixe até o centro atingir cerca de 70 graus Celsius.
+15. Mantenha comida pronta acima de aproximadamente 60 graus Celsius.
+16. Descarte sobra com mais de aproximadamente 2 horas sem calor.
+17. Afaste-se de planta que solta seiva e coce a pele; não a queime.
+18. Anote o que comeu; pare e busque ajuda se surgir náusea ou falta de ar.
+
+ATENCAO
+-------
+Plantas venenosas imitam comestíveis: cicuta parece cenoura e nabo.
+Ciguta-aquática e cicuta matam em pequena quantidade: não prove.
+Cogumelo é traiçoeiro: cores e cheiro não provam que é seguro.
+Seiva de certas plantas queima a pele com luz; lave e fuja do sol.
+Água turva ou com cheiro abriga germes: trate antes de usar.
+Ferver mata germes, mas não retira químicos nem metais da água.
+Sintoma pode demorar: vômito ou sonolência após comer exigem ajuda.
+Na dúvida, não coma: um erro com planta pode ser fatal.
+
+SE NAO TIVER
+------------
+- Sem lupa, observe em boa luz e não manipule planta desconhecida.
+- Sem sabão, esfregue com água corrente por aproximadamente 20 segundos.
+- Sem água, use álcool 70% só se as mãos não estiverem com terra.
+- Sem termômetro, verifique se o centro da carne não está rosado.
+- Sem geladeira, mantenha a comida bem quente ou descarte a sobra.
+- Sem guia confiável, não coma nada silvestre.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- As mãos estão sem terra visível antes de tocar comida ou ferida.
+- O centro da carne está opaco, sem cor rosa, e o caldo saiu claro.
+- Nenhum alimento silvestre foi comido sem nome confirmado.
+- O caderno registra o que foi visto, comido e a hora.
+- Após comer, não surgiram náusea, tremor, suor frio ou falta de ar.
+
+FONTES
+------
+- CDC: higiene pessoal em emergência; lavar as mãos com sabão e água por
+  aproximadamente 20 segundos; álcool com pelo menos 60% de álcool.
+- OMS: Cinco chaves para alimentos seguros: limpar, separar, cozinhar a
+  70 graus Celsius, manter abaixo de 5 ou acima de 60 graus, usar água.
+- USDA ARS, U.S. Fish and Wildlife Service e CDC: plantas venenosas e
+  espécies parecidas (cicuta, cicuta-aquática, cogumelos).
+- NIH/NCBI (Alberts, Molecular Biology of the Cell) e OpenStax Biology 2e:
+  célula, metabolismo e fotossíntese como base da vida.

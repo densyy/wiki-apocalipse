@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 02-096
+TITULO: Como produzir proteína animal em pequena escala
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: água limpa, terra para escavar, alevinos, ração, luvas e botas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: peixe, piscicultura, viveiro, proteína, alevino, comida
+==============================================================================
+
+OBJETIVO
+--------
+Criar peixes em viveiro pequeno e obter carne para a família.
+
+QUANDO USAR
+-----------
+Quando há água limpa e abundante durante o ano.
+Quando se tem barro ou argila para escavar um viveiro.
+Quando não há energia para aerar a água.
+
+NAO USE QUANDO
+--------------
+Quando a água tiver cheiro de esgoto, combustível ou veneno.
+Peixes acumulam contaminantes e podem causar intoxicação.
+Quando não houver água para manter o nível do viveiro na seca.
+Este texto cobre só peixes; aves e suínos exigem outro manejo.
+
+MATERIAIS
+---------
+- Água limpa, sem cheiro de esgoto, combustível ou veneno.
+- Alevinos uniformes de 3 a 5 cm de fornecedor conhecido.
+- Ração flutuante para peixes (substituto: farelo umedecido).
+- Calcário agrícola (sem substituto seguro).
+- Luvas, botas, máscara, pá, corda, estacas, peneira e prato branco.
+
+PROCEDIMENTO
+------------
+1. Escolha terreno plano com barro, longe de fossas e agrotóxico.
+2. Marque um retângulo de aproximadamente 20 m², como 5 por 4 m.
+3. Cave até aproximadamente 1 m, com paredes inclinadas.
+4. Retire lama e folhas. Compacte o fundo com a pá.
+5. Deixe secar ao sol por aproximadamente 5 a 7 dias.
+6. Espalhe calcário agrícola se o solo for ácido: aproximadamente
+   2 a 6 kg para 20 m².
+7. Encha com água limpa até aproximadamente 50 cm.
+8. Espere aproximadamente 4 dias até a água ficar esverdeada.
+9. Use aproximadamente 20 alevinos por 20 m² para peixes de 1 kg.
+10. Deixe os sacos flutuando por aproximadamente 10 minutos para
+    igualar a temperatura.
+11. Abra os sacos, adicione água do viveiro aos poucos por
+    aproximadamente 5 minutos e solte com peneira. Jogue a água
+    do saco fora do viveiro.
+12. Alimente com ração flutuante depois das 8 horas, duas vezes
+    ao dia, em dois ou mais pontos.
+13. Ofereça aos poucos e pare quando os peixes não correrem mais
+    para a ração. Não deixe sobra no fundo.
+14. Reduza a ração em dias nublados. Pare se os peixes boquejarem
+    na superfície.
+15. Meça a transparência com o prato branco uma vez por semana.
+16. Retire as vísceras, lave e cozinhe os peixes no mesmo dia.
+    Sem gelo, não guarde peixe cru.
+
+ATENCAO
+-------
+A cal virgem e a cal hidratada queimam pele e olhos. Use luvas,
+botas e máscara se aplicar, e nunca com peixes na água.
+Peixes de água contaminada causam intoxicação. Evite esgoto e
+lavoura pulverizada.
+Sem oxigênio, o viveiro morre em horas. Se o peixe boquejar
+ao amanhecer, pare de alimentar e não mexa na água.
+Não exceda os alevinos: mais peixes trazem menos oxigênio e
+mortalidade.
+A Embrapa (2024) indica oxigênio acima de 4 mg/L, pH de 6,5 a 8
+e 26 a 32 °C; o SENAR indica 24 a 32 °C. Use os da Embrapa.
+Peixe apático ou com manchas: isole e procure assistência.
+
+SE NAO TIVER
+------------
+Sem ração, use farelo de arroz ou trigo umedecido como
+complemento, mas o crescimento será mais lento.
+Sem calcário, adie o povoamento. Não use cal virgem no lugar.
+Sem termômetro ou kit de pH, observe a cor da água e o
+comportamento dos peixes ao amanhecer.
+Sem prato, use qualquer disco claro preso em corda.
+Sem condições de escavar, use açude existente com água limpa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água fica esverdeada moderada e o peixe sobe para a ração em
+horário fixo.
+A perda fica abaixo de aproximadamente 10 por cento.
+Na pesca, o tamanho é uniforme e a carne é firme.
+
+FONTES
+------
+Manual de piscicultura familiar em viveiros escavados, Embrapa
+Pesca e Aquicultura, 2024, segunda edição.
+Piscicultura: fundamentos da produção de peixes, Coleção SENAR
+nº 195, Confederação da Agricultura e Pecuária do Brasil.

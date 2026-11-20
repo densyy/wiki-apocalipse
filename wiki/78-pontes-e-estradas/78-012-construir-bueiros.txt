@@ -1,0 +1,85 @@
+==============================================================================
+CODIGO: 78-012
+TITULO: Como construir bueiros
+CATEGORIA: 78 - Pontes, estradas e infraestrutura de transporte
+TEMPO: 180 minutos
+RISCO: medio
+EXIGE: tubos ou pedra, cimento, terra compactada, enxada
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bueiro, drenagem, tubo, valeta, escoamento, estrada
+==============================================================================
+
+OBJETIVO
+--------
+Instalar uma passagem de agua sob a estrada para evitar erosao e alagamento.
+
+QUANDO USAR
+-----------
+Onde a valeta de drenagem atravessa o leito da estrada (caixa d'agua).
+Em baixadas onde a agua se acumula e encharca a pista.
+Apos erosao da pista causada por escoamento superficial.
+Antes do periodo chuvoso, para proteger a plataforma da estrada.
+
+NAO USE QUANDO
+--------------
+Nao instale onde nao ha queda suficiente para a agua escoar.
+Nao use tubo rachado, furado ou de diametro pequeno demais.
+Nao execute com a valeta cheia ou o solo muito encharcado.
+Nao tampe bueiro existente: limpe e amplie, se for o caso.
+
+MATERIAIS
+---------
+- Tubos de concreto ou plastico, com diametro adequado (60 cm ou mais).
+- Pedra e argamassa para bueiros de alvenaria (opcional).
+- Grelha de ferro ou tela para a entrada (grade).
+- Terra compactada e cascalho para o enchimento sobre o tubo.
+- Enxada, pá, marreta, nivel de mangueira e fita metrica.
+- Luvas, botas e capacete.
+
+PROCEDIMENTO
+------------
+1. Identifique o ponto mais baixo da pista e a passagem da valeta.
+2. Confira a direcao da agua e a queda disponivel no trecho.
+3. Escave a vala ate a profundidade necessaria para assentar o tubo.
+4. Retire pedras pontiagudas do fundo e nivel o leito.
+5. Assente o tubo com a entrada um pouco mais alta que a saida.
+6. Deixe a inclinacao de cerca de 2% para a agua correr.
+7. Centralize o tubo perpendicular a estrada, na direcao do fluxo.
+8. Emende os tubos com argamassa ou anel de vedacao.
+9. Proteja a entrada com grelha para nao entrar folhas e animais.
+10. Encha os lados do tubo com terra compactada em camadas finas.
+11. Cubra o tubo com pelo menos 40 cm de terra compactada.
+12. Compacte cada camada com soquete ou pisoteio firme.
+13. Refaca a valeta de entrada e saida para ligar ao bueiro.
+14. Verifique se a agua escoa sem represar na entrada.
+
+ATENCAO
+-------
+Bueiro entupido represa agua e enfraquece a base da estrada.
+Tubo mal inclinado acumula lama e perde a vazao.
+Terra compactada mal feita recalca e quebra o tubo por cima.
+Nao trabalhe dentro da escavacao sem verificar a estabilidade das paredes.
+Em escava profunda, use escoramento para nao haver desmoronamento.
+A entrada sem grelha pode sugar animais e deixar o tubo obstruido.
+Nao jogue entulho, lixo ou madeira dentro do bueiro.
+
+SE NAO TIVER
+------------
+Sem tubo de concreto, use tubo de plastico resistente ou bambu grande.
+Sem grelha, use tela de arame ou estacas cruzadas na entrada.
+Sem nivel, meça a queda com mangueira cheia d'agua.
+Sem terra compactada, use cascalho miudo bem pisoteado.
+Sem argamassa, use anel de borracha ou cinta vedante nas emendas.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A agua entra e sai do bueiro sem represar na entrada.
+O tubo esta firme, inclinado e coberto por terra compactada.
+A pista permanece seca e sem sinais de erosao apos a chuva.
+A grelha esta presa e livre de folhas e detritos.
+
+FONTES
+------
+Pratica consolidada de drenagem de estradas vicinais e bueiros rurais,
+sem documento unico obrigatorio. Orientacoes gerais de conservacao
+de rodovias e de medidas de drenagem superficial em caminhos rurais.

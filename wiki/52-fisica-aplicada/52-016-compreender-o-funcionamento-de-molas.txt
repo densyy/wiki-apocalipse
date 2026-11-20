@@ -1,0 +1,83 @@
+==============================================================================
+CODIGO: 52-016
+TITULO: Como compreender o funcionamento de molas
+CATEGORIA: 52 - Física aplicada e princípios fundamentais
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: mola ou elástico, ponto firme, régua, papel e lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: mola, elástico, lei de Hooke, constante k, energia
+==============================================================================
+
+OBJETIVO
+--------
+Entender como uma mola guarda energia e devolve força ao ser deformada.
+
+QUANDO USAR
+-----------
+Quando quiser saber por que a mola empurra de volta ao ser comprimida.
+Quando precisar comparar uma mola dura com uma mola mole.
+Quando observar algo vibrando e quiser entender o movimento.
+Quando for explicar o funcionamento de balança, suspensão ou fecho.
+
+NAO USE QUANDO
+--------------
+Não use para dimensionar molas de carga, suspensão ou segurança.
+Não substitui cálculo com norma técnica nem projeto de engenharia.
+Não mexa em mola tensionada sem saber o que a mantém presa.
+
+MATERIAIS
+---------
+- Uma mola helicoidal ou um elástico largo (mola de caneta serve).
+- Um objeto pequeno e leve para pendurar, como uma porca.
+- Uma régua ou fita métrica (ou o palmo da mão).
+- Um ponto firme para prender a ponta, como um gancho.
+- Papel e lápis para anotar (opcional).
+
+PROCEDIMENTO
+------------
+1. Meça o comprimento da mola solta, sem carga; anote como L0.
+2. Prenda uma ponta em lugar firme e deixe a mola pendurada.
+3. Puxe a outra ponta e sinta a força que puxa de volta.
+4. Solte e veja a mola voltar ao comprimento L0 e parar.
+5. Chame a força de volta de restauradora: ela aponta para o repouso.
+6. Escreva a lei de Hooke: F = -k.x, em que x é o quanto a mola saiu de L0.
+7. Entenda o sinal menos: a força da mola vai contra o deslocamento.
+8. Anote a unidade de k: N/m. Quanto maior k, mais dura é a mola.
+9. Puxe cerca do dobro e compare: em mola ideal a força também dobra.
+10. Puxe além do limite elástico e observe: a mola não volta mais.
+11. Nomeie isso de deformação plástica: a mola ficou estragada.
+12. Escreva a energia elástica: E é metade de k vezes x ao quadrado.
+13. Solte de novo: a energia vira movimento e a mola oscila.
+14. Em paralelo, lado a lado, as molas somam força e ficam mais duras.
+15. Em série, uma atrás da outra, esticam mais e ficam mais moles.
+
+ATENCAO
+-------
+Mola tensionada pode soltar e acertar os olhos; nunca aponte para o rosto.
+Não passe do limite elástico: se não voltar ao tamanho inicial, estragou.
+A lei de Hooke vale só para deformação pequena, antes do limite.
+Mola enferrujada ou com ponta cortada fere a mão; use luvas ou troque.
+Este texto explica o princípio, não ensina a projetar nem a reparar molas.
+
+SE NAO TIVER
+------------
+Sem mola de metal, use um elástico largo ou uma faixa de borracha.
+Sem régua, meça com o palmo da mão e diga que a medida é aproximada.
+Sem peso, puxe com os dedos e compare o esforço de cada esticada.
+Se o substituto não voltar ao formato, descarte: perdeu a elasticidade.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você mede o tamanho em repouso e diz para onde a força age ao soltar.
+Ao puxar o dobro, o esforço medido é cerca do dobro em mola ideal.
+Depois de soltar, a mola volta ao comprimento inicial e para.
+Você explica: F = -k.x e E é metade de k vezes x ao quadrado.
+
+FONTES
+------
+OpenStax College Physics 2e, seção 16.1: lei de Hooke e energia elástica.
+DOE Fundamentals Handbook, Classical Physics, DOE-HDBK-1010-92, capítulo
+sobre energia e trabalho armazenados em mola.
+Physics LibreTexts, Hooke's law, energia elástica e limite elástico.
+Idaho State University e University of Alberta, molas em série e paralelo.

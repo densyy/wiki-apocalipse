@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 41-009
+TITULO: Como construir um sextante artesanal
+CATEGORIA: 41 - Navegação avançada e técnicas de expedição
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: régua reta, transferidor, barbante, peso, horizonte livre e céu limpo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: sextante, altitude, latitude, sol, transferidor, medir sol
+==============================================================================
+
+OBJETIVO
+--------
+Medir a altitude do sol e estimar a latitude com instrumento feito à mão.
+
+QUANDO USAR
+-----------
+Quando não houver sextante nem GPS e a rota depender da latitude.
+Quando o sol estiver visível e o horizonte livre, perto do meio do dia.
+Quando for preciso conferir a posição estimada após dias sem reparo.
+Quando se quiser treinar a leitura de altura antes de confiar no aparelho.
+
+NAO USE QUANDO
+--------------
+Quando o céu estiver coberto, com névoa, chuva ou sol muito baixo.
+Quando não houver horizonte livre, como em floresta fechada ou vale fundo.
+Quando for preciso definir longitude: este aparelho não mede o tempo.
+Quando não houver como usar a sombra: nunca olhe diretamente para o sol.
+
+MATERIAIS
+---------
+- Régua de madeira reta, com pelo menos 16 cm (ou tábua estreita e lisa).
+- Transferidor de 180 graus, de plástico ou papel (ou arco desenhado à mão).
+- Barbante ou linha de costura firme com aproximadamente 30 cm.
+- Peso pequeno: arruela, parafuso ou três clipes de papel.
+- Fita adesiva (ou linha para amarrar em duas voltas).
+- Lápis e papel para anotar as leituras.
+
+PROCEDIMENTO
+------------
+1. Escolha uma régua reta com pelo menos 16 cm de comprimento.
+2. Prenda o transferidor na régua com fita, borda reta sobre a régua.
+3. Deixe o centro do transferidor a aproximadamente 2 cm de uma das pontas.
+4. Amarre o barbante no centro do transferidor, na marca 90 da escala.
+5. Amarre o peso na ponta livre do barbante.
+6. Segure a régua na horizontal e veja se o barbante passa na marca 90.
+7. Se não passar, refaça as etapas 2 e 4 antes de continuar.
+8. Vá a local com horizonte livre e céu limpo, perto do meio do dia.
+9. Aponte a borda da régua para o sol usando somente a sombra do barbante.
+10. Mantenha o rosto de lado; nunca olhe diretamente para o sol.
+11. Ajuste até a sombra do barbante cair sobre a linha da régua.
+12. Prenda o barbante com o dedo e leia onde ele cruza a escala interna.
+13. Subtraia esse número de 90 para obter a altitude do sol em graus.
+14. Repita as etapas 9 a 13 três vezes e anote a maior altitude.
+
+ATENCAO
+-------
+Olhar para o sol pode queimar a retina sem dor e causar cegueira.
+Use apenas a sombra do barbante como guia e mantenha o rosto de lado.
+O aparelho lê graus inteiros: o erro pode passar de um grau de altitude.
+Um grau de latitude corresponde a aproximadamente 111 km no terreno.
+Sem a declinação do sol em tabela confiável, não calcule a latitude.
+Névoa, horizonte inclinado e régua torta falsificam qualquer leitura.
+Com a régua nivelada, se o barbante não voltar à marca 90, refaça a fixação.
+
+SE NAO TIVER
+------------
+Sem transferidor, desenhe um arco de 90 graus e marque cada 10 graus.
+Sem barbante, use linha de pesca ou fio de costura bem firme.
+Sem peso, amarre uma pedra pequena ou um parafuso na ponta do fio.
+Sem fita, prenda o transferidor à régua com linha em duas voltas.
+Sem sol visível, espere o próximo dia claro; não invente a leitura.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Com a régua nivelada, o barbante passa exatamente pela marca 90.
+Apontando para o zênite, o barbante passa pela marca 0.
+As três leituras do sol diferem entre si em poucos graus.
+No hemisfério norte, a altitude da Estrela Polar é próxima da latitude.
+
+FONTES
+------
+Prática consolidada de navegação astronômica, resumida sem documento único.
+Fontes: 'Build a Simple Sextant', do Centro Goddard de Voo Espacial
+da NASA; 'Make a Sextant', do Museu Canadense da História da Guerra;
+'Navegação: A Ciência e a Arte, Volume II', da Diretoria de Hidrografia e
+Navegação da Marinha do Brasil; The American Practical Navigator (Bowditch),
+da Agência Nacional de Inteligência Geoespacial dos EUA; e artigo sobre
+altitude meridiana do Journal of Navigation, da Universidade de Cambridge.

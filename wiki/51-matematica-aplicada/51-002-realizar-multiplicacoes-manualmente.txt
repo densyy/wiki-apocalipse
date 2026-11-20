@@ -1,0 +1,73 @@
+==============================================================================
+CODIGO: 51-002
+TITULO: Como realizar multiplicações manualmente
+CATEGORIA: 51 - Matemática aplicada à sobrevivência
+TEMPO: 10 minutos
+RISCO: baixo
+EXIGE: papel, algo para escrever, superfície plana
+REVISAO: 2026-11
+PALAVRAS-CHAVE: multiplicar, multiplicação, conta, coluna, produto, soma
+==============================================================================
+
+OBJETIVO
+--------
+Multiplicar dois números inteiros usando apenas papel e algo para escrever.
+
+QUANDO USAR
+-----------
+Quando não houver calculadora, celular ou energia elétrica.
+Quando for preciso somar várias parcelas iguais de uma vez.
+Ao calcular áreas, quantidades ou rações sem aparelho.
+Quando a conta precisar ser conferida com calma depois.
+
+NAO USE QUANDO
+--------------
+Não há contraindicacao de segurança para este procedimento.
+Para contas com muitas casas, estime primeiro e confirme depois.
+
+MATERIAIS
+---------
+- Papel limpo (ou qualquer superfície onde se possa escrever).
+- Lápis ou caneta (ou graveto, pedra ou carvão).
+- Superfície plana e firme para apoiar o papel.
+
+PROCEDIMENTO
+------------
+1. Escreva os dois números em colunas, com as unidades alinhadas.
+2. Escolha o número de menos algarismos para ficar embaixo.
+3. Multiplique o algarismo de cima mais à direita pelo de baixo.
+4. Anote só a unidade do resultado na linha de baixo.
+5. Some o resto ao próximo algarismo de cima; isso é o vai-um.
+6. Repita da direita para a esquerda até acabarem os algarismos.
+7. Escreva essa primeira linha de resultado parcial.
+8. Multiplique agora pelo próximo algarismo de baixo.
+9. Desloque a nova linha parcial uma casa para a esquerda.
+10. Repita até usar todos os algarismos de baixo.
+11. Some todas as linhas parciais coluna por coluna.
+12. O total dessa soma é o produto dos dois números.
+
+ATENCAO
+-------
+Desalinhar as colunas é o erro mais comum e o mais caro.
+Um vai-um esquecido invalida toda a linha de resultado.
+Confira o deslocamento das linhas parciais antes de somar.
+O método funciona para inteiros; com decimais, some as casas depois.
+Não use o resultado sem conferir em contas de dose, área ou ração.
+Se o produto parecer absurdo, refaça a conta do início.
+
+SE NAO TIVER
+------------
+Sem papel, escreva na terra, na cinza ou sobre uma tábua.
+Sem lápis, use graveto, pedra, unha ou carvão.
+Sem onde escrever, some o mesmo número vezes iguais.
+Exemplo: 7 x 8 é sete somas de 8, que dão 56.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O último algarismo do produto bate com o das unidades multiplicadas.
+Arredondando os fatores e multiplicando, o resultado fica próximo.
+
+FONTES
+------
+Prática consolidada de aritmética manual, o algoritmo da multiplicação
+em colunas ensinado nas escolas, sem documento único específico.

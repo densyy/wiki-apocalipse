@@ -1,0 +1,71 @@
+==============================================================================
+CODIGO: 68-024
+TITULO: Como compreender comunicação via satélite
+CATEGORIA: 68 - Radiofrequência e telecomunicações
+TEMPO: 25 minutos
+RISCO: baixo
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: satélite, comunicação, órbita, transponder, uplink, antena
+==============================================================================
+
+OBJETIVO
+--------
+Entender como um sinal de rádio sobe ao satélite e volta à Terra.
+
+QUANDO USAR
+-----------
+Quando uma antena aparece apontada para o céu e falta saber para quê.
+Quando telefone, TV ou modem funciona longe de torres terrestres.
+Ao escolher entre TV por satélite, rádio, internet e telefonia.
+Ao entender o atraso da ligação e a exigência de céu limpo.
+
+NAO USE QUANDO
+--------------
+Este texto explica o funcionamento, não a instalação de equipamentos.
+Não substitui manual do fabricante nem serviço de um técnico habilitado.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Identifique as duas pontas: uma estação no solo e o satélite no espaço.
+2. Chame de uplink o trecho que sobe da estação terrestre ao satélite.
+3. Chame de downlink o trecho que desce do satélite ao receptor.
+4. Observe que ondas de rádio viajam em linha reta e não contornam a Terra.
+5. Entenda que o satélite repete o sinal: recebe, amplifica e reenvia.
+6. Chame de transponder o aparelho de bordo que faz essa repetição.
+7. Desenhe o caminho: emissor, subida, satélite, descida, receptor.
+8. Recorde que a órbita geostacionária fica a aproximadamente 35.786 km.
+9. Anote que nela o satélite parece parado no céu e a antena pode ser fixa.
+10. Recorde que a órbita baixa fica entre aproximadamente 160 e 2.000 km.
+11. Anote que nela o satélite cruza o céu em aproximadamente 90 minutos.
+12. Entenda que órbita baixa exige muitas unidades para cobertura contínua.
+13. Compare: órbita baixa tem menos atraso e pede menos potência.
+14. Verifique que só há link quando emissor e satélite têm visão direta.
+
+ATENCAO
+-------
+A informação é conceitual: não autoriza mexer em antena ou transmissor.
+Antena e cabos não devem ser instalados perto de rede elétrica energizada.
+Chuva forte e nuvens densas atenuam algumas frequências, sobretudo as altas.
+O atraso em órbita geostacionária é perceptível em voz e em jogos.
+Fontes divergem alguns quilômetros na altitude da órbita geostacionária.
+
+SE NAO TIVER
+------------
+Sem desenho, use os dedos para representar solo, subida, satélite e descida.
+Sem termos técnicos, pense em um espelho que devolve o sinal do outro lado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A pessoa aponta para onde o sinal sobe, onde ele é repetido e onde desce.
+A pessoa explica com as próprias palavras por que a antena fica imóvel.
+
+FONTES
+------
+Conceitos consolidados de telecomunicações espaciais, sem documento único.
+Faixas e serviços: União Internacional de Telecomunicações.
+Altitudes e órbitas: referência técnica geral de comunicações por satélite.

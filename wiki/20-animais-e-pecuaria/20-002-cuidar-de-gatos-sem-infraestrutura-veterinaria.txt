@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 20-002
+TITULO: Como cuidar de gatos sem infraestrutura veterinária
+CATEGORIA: 20 - Animais domésticos e pecuária
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: caixa de transporte, água, comida, pano, sabão, saco, jornal
+REVISAO: 2026-11
+PALAVRAS-CHAVE: gato, gatinho, água, comida, areia, mordedura, raiva
+==============================================================================
+
+OBJETIVO
+--------
+Manter o gato hidratado, alimentado, limpo e seguro até chegar ajuda.
+
+QUANDO USAR
+-----------
+Quando a clínica veterinária fechou ou não há veterinário na região.
+Depois de enchente, incêndio, queda de energia ou evacuação.
+Quando o gato ficou ferido, assustado ou parou de comer.
+Quando falta ração, água limpa ou caixa de areia.
+Quando é preciso transportar o gato para um abrigo.
+
+NAO USE QUANDO
+--------------
+Não use como substituto de atendimento veterinário.
+Não ensina a injetar, suturar ou dar remédio sem prescrição.
+
+MATERIAIS
+---------
+- Caixa de transporte resistente (caixa de papelão reforçada com fita).
+- Água limpa em recipiente (garrafa descartável cortada).
+- Ração ou alimento úmido (arroz e carne cozidos sem tempero).
+- Pano limpo (papel toalha).
+- Sabão e água corrente.
+- Saco plástico e jornal para caixa de areia improvisada.
+- Coleira com identificação (pano com o nome escrito).
+- Cobertor ou camiseta usada para acalmar.
+
+PROCEDIMENTO
+------------
+1. Deixe a caixa de transporte aberta em lugar calmo, com cobertor.
+2. Coloque petiscos perto da caixa um dia antes de precisar dela.
+3. Feche portas e janelas antes de manusear o gato.
+4. Aproxime-se devagar, sem correr, sem gritar e sem olhar fixo nos olhos.
+5. Coloque o gato na caixa de costas, sem apertar o pescoço.
+6. Feche a tampa e cubra a caixa com um pano escuro.
+7. Deixe água limpa em recipiente raso e estável, sempre disponível.
+8. Ofereça ração ou comida cozida sem tempero em porções pequenas.
+9. Nunca dê leite, cebola, alho, chocolate, café ou álcool ao gato.
+10. Prepare caixa de areia com jornal picado em recipiente raso.
+11. Troque o jornal todo dia e lave o recipiente com água e sabão.
+12. Feche fezes e restos em saco plástico, longe da água e da comida.
+13. Lave feridas superficiais com água corrente e sabão por 15 minutos.
+14. Enxugue com pano limpo; não use álcool nem pomada sem prescrição.
+15. Controle o gato com a caixa ou cobertor, nunca com as mãos nuas.
+16. Anote onde o gato se esconde para encontrá-lo se precisar sair.
+
+ATENCAO
+-------
+Gato assustado morde e arranha, mesmo sendo dócil.
+Ferida de mordedura infecciona fundo e exige avaliação médica.
+Raiva infecta gatos e passa pela saliva em mordedura ou arranhadura.
+Após mordedura, lave com água e sabão por 15 minutos.
+Procure atendimento médico humano na hora, mesmo sem sintomas.
+Não espere sinais no gato: a raiva é fatal após o início dos sintomas.
+Sem veterinário, não tente tratar fratura, parto preso ou convulsão.
+Dificuldade para urinar e intoxicação também exigem ajuda urgente.
+Não dê remédio humano nem antibiótico sem prescrição: dose errada mata.
+Não deixe o gato solto na evacuação: ele se perde ou é atropelado.
+Não force água ou comida na boca de gato inconsciente: ele pode sufocar.
+
+SE NAO TIVER
+------------
+- Sem caixa de transporte, use caixa de papelão com furos e tampa presa.
+- Sem jornal, use palha seca, folhas secas ou papel picado como cama.
+- Sem ração, dê arroz e carne cozidos sem sal, tempero ou osso.
+- Sem água limpa, ferve a água e esfrie antes de oferecer (veja 01-001).
+- Sem coleira, escreva o nome em fita de pano e prenda com nó frouxo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O gato bebe água e come ao menos duas vezes ao dia.
+O gato urina e defeca na caixa improvisada, sem sujar o chão.
+Sem sangue na urina, vômito repetido, baba, tremor ou respiração ofegante.
+A caixa de transporte fica seca, arejada e sem cheiro forte de urina.
+Depois da mordedura, a ferida ficou limpa, seca e sem inchaço crescente.
+
+FONTES
+------
+Orientações da OMS sobre raiva e profilaxia pós-exposição.
+Ficha informativa da OMS de setembro de 2026.
+Guia Prepare Your Pets for Disasters, do programa Ready da FEMA.
+Atualizado em março de 2026: plano, kit, transporte e higiene.
+Demais cuidados vêm de prática consolidada de manejo básico,
+sem documento único. Este resumo não substitui treinamento.

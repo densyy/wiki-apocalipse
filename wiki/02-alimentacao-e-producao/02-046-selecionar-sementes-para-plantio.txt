@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 02-046
+TITULO: Como selecionar sementes para plantio
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: sementes, papel toalha, água limpa, recipiente com tampa, boletim
+REVISAO: 2026-11
+PALAVRAS-CHAVE: semente, escolher, germinação, pureza, procedência, boletim
+==============================================================================
+
+OBJETIVO
+--------
+Escolher sementes de boa procedência e conferir se vão germinar.
+
+QUANDO USAR
+-----------
+Quando for comprar sementes para a horta.
+Quando as sementes ficaram guardadas de uma safra para outra.
+
+NAO USE QUANDO
+--------------
+Não use sementes sem identificação da espécie e da cultivar.
+Não use sementes mofadas, com cheiro podre ou com sementes verdes.
+
+MATERIAIS
+---------
+- Sementes do lote e boletim do vendedor, quando houver.
+- Papel toalha branco, sem perfume (papel de filtro ou mata-borrão).
+- Água limpa e recipiente raso com tampa (saco plástico fechado).
+
+PROCEDIMENTO
+------------
+1. Leia o rótulo e confirme o nome da espécie e da cultivar.
+2. Verifique a data da análise no boletim do vendedor.
+3. Descarte boletim com mais de seis meses da data da análise.
+4. Confira no boletim a germinação, a pureza e a qualidade sanitária.
+5. Observe as sementes e separe as verdes, mofadas ou quebradas.
+6. Retire pedras, terra e sementes de outras espécies.
+7. Conte 50 sementes do lote, ao acaso, sem escolher as maiores.
+8. Umedeça duas folhas de papel toalha com água limpa, sem encharcar.
+9. Espalhe as 50 sementes sobre uma folha, bem separadas umas das outras.
+10. Cubra com a segunda folha e coloque no recipiente.
+11. Feche o recipiente e mantenha em local sombreado e arejado.
+12. Umedeça o papel uma vez ao dia, sem deixar poças.
+13. Aguarde aproximadamente 7 a 14 dias; varia conforme a espécie.
+14. Conte e anote as mudas com raiz e folha sãs de cada 50 sementes.
+
+ATENCAO
+-------
+Boletim vencido não garante a germinação atual do lote.
+Papel muito molhado apodrece as sementes e falseia a contagem.
+Se menos da metade germinar, não plante esse lote de alimento.
+
+SE NAO TIVER
+------------
+Sem boletim, faça o teste com 50 sementes e use o resultado.
+Sem papel toalha, use papel de filtro ou papel mata-borrão.
+Sem tampa, use um saco plástico bem fechado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A maioria das 50 sementes apresenta raiz e folha verdes ao fim do teste.
+
+FONTES
+------
+Embrapa, Ageitec: "Qualidade da semente" — boletim de análise, germinação,
+pureza, qualidade sanitária, sementes verdes e validade de seis meses.
+MAPA: Regras para Análise de Sementes, RAS 2025, capítulo 4 — teste em
+rolo de papel com 50 sementes.

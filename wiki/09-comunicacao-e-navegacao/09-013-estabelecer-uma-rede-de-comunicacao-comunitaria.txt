@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 09-013
+TITULO: Como estabelecer uma rede de comunicação comunitária
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: rádios bidirecionais com pilhas, apito, papel, lápis e mapa local
+REVISAO: 2026-11
+PALAVRAS-CHAVE: rádio, rede, comunicação, apito, sinal, vizinhança
+==============================================================================
+
+OBJETIVO
+--------
+Criar uma rede de avisos entre vizinhos sem internet nem celular.
+
+QUANDO USAR
+-----------
+Quando a internet e o sinal de celular podem cair na região.
+Quando o bairro precisa avisar vizinhos sobre risco, água ou falta de luz.
+Quando há moradores idosos ou doentes que precisam ser alcançados.
+
+NAO USE QUANDO
+--------------
+Quando o celular ainda tem sinal: use a ligação para pedir socorro.
+Para chamar bombeiros ou ambulância, ligue: a rede não substitui o socorro.
+
+MATERIAIS
+---------
+- Rádios bidirecionais de uso livre com pilhas (ou rádios licenciados).
+- Apito, papel, lápis e mapa local.
+- Caixa fechada para guardar os rádios no ponto de encontro.
+
+PROCEDIMENTO
+------------
+1. Reúna os vizinhos participantes no ponto de encontro.
+2. Escolha um responsável e um suplente por rua ou quarteirão.
+3. Anote nome, endereço e telefone de cada participante no papel.
+4. Defina um ponto fixo, fácil de achar e fora de área alagável.
+5. Escolha o canal de rádio e o horário do teste semanal.
+6. Escreva no papel o canal, o horário, o ponto e o sinal de apito.
+7. Entregue uma cópia a cada participante e peça que repita em voz alta.
+8. Coloque pilhas nos rádios e entregue um ao responsável de cada rua.
+9. Ajuste o mesmo canal em todos os aparelhos.
+10. Aperte o botão de falar, espere um segundo e diga "teste".
+11. Solte o botão e peça que cada rua responda com seu número.
+12. Combine o sinal: três apitos curtos significam pedido de ajuda.
+13. Guarde os rádios reservas na caixa, no ponto de encontro.
+
+ATENCAO
+-------
+Rádios de uso livre alcançam poucas centenas de metros; prédios, mato e
+relevo cortam o sinal.
+Qualquer pessoa no mesmo canal escuta: nunca diga senhas ou dados pessoais.
+Use só rádios de uso livre ou licenciados; não improvise transmissor.
+
+SE NAO TIVER
+------------
+Sem rádios, use o apito e deixe recados no ponto de encontro.
+Sem pilhas, use rádio de manivela; sem os dois, reforce os horários.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Todos os pontos respondem ao teste com voz clara e dizem seu número.
+Cada participante repete de memória o canal, o horário e o sinal de apito.
+
+FONTES
+------
+Prática consolidada de preparação comunitária: FEMA (programa CERT e guia
+da Ready.gov) e ARRL (Amateur Radio Emergency Service, ARES).

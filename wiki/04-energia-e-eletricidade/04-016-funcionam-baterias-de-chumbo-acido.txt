@@ -1,0 +1,86 @@
+==============================================================================
+CODIGO: 04-016
+TITULO: Como funcionam baterias de chumbo-ácido
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 20 minutos
+RISCO: alto
+EXIGE: bateria rotulada, multimetro, oculos de protecao e luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bateria, chumbo, acido, carro, carga, tensao, seguranca
+==============================================================================
+
+OBJETIVO
+--------
+Entender como a bateria de chumbo-acido guarda e entrega energia
+para usar com seguranca sem abrir a bateria.
+
+QUANDO USAR
+-----------
+Quando precisar entender por que a bateria do carro funciona.
+Quando precisar decidir se a bateria aceita recarga.
+Quando precisar ligar lampada ou radio em bateria de carro.
+Quando precisar guardar uma bateria parada por semanas.
+
+NAO USE QUANDO
+--------------
+Em bateria estufada, rachada, vazando ou muito quente.
+Em local fechado sem ventilacao durante a recarga.
+Se houver faisca, chama ou cigarro por perto.
+Se a bateria nao for de chumbo-acido.
+
+MATERIAIS
+---------
+- Bateria de chumbo-acido com rotulo legivel.
+- Multimetro com pontas de prova (papel e caneta).
+- Oculos de protecao e luvas de borracha.
+- Local ventilado, longe de chama e faisca.
+- Pano seco e bicarbonato de sodio (areia seca).
+
+PROCEDIMENTO
+------------
+1. Calce oculos e luvas antes de tocar na bateria.
+2. Leia o rotulo e confirme que e de chumbo-acido.
+3. Identifique a tensao nominal no rotulo: 6 V ou 12 V.
+4. Localize o terminal positivo e o terminal negativo.
+5. Procure rachadura, vazamento, cheiro forte ou calor.
+6. Entenda a celula: chumbo e dioxido de chumbo em acido.
+7. Lembre que cada celula entrega aproximadamente 2 V.
+8. Some as celulas: 6 celulas em serie dao 12 V.
+9. Entenda a descarga: o acido vira agua e forma sulfato.
+10. Entenda a recarga: a corrente reverte a reacao.
+11. Ajuste o multimetro para tensao continua acima de 20 V.
+12. Encoste a ponta vermelha no positivo e a preta no negativo.
+13. Leia a tensao parada: cheia marca aproximadamente 12,7 V.
+14. Considere descarregada se marcar aproximadamente 11,8 V.
+15. Desligue os aparelhos antes de medir ou guardar.
+16. Recarregue somente com carregador proprio e ventilacao.
+
+ATENCAO
+-------
+O acido sulfurico queima pele e olhos e pode cegar.
+A recarga solta hidrogenio, que explode com faisca ou chama.
+O curto entre os terminais causa faisca, queimadura e incendio.
+Nunca abra a bateria nem complete com acido na crise.
+Chumbo e toxico: lave as maos e nao leve a boca.
+Se vazar, inchar ou aquecer, afaste e nao recarregue.
+Este entendimento nao conserta placa danificada nem curto interno.
+Em ambiente fechado, carregue somente com ventilacao constante.
+
+SE NAO TIVER
+------------
+Sem multimetro, observe partida fraca e luz fraca como descarga.
+Sem oculos e luvas, nao toque em bateria vazando ou suja.
+Sem carregador proprio, nao improvise com fonte desconhecida.
+Sem local ventilado, nao recarregue por causa do gas explosivo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A leitura fica estavel e compativel com o rotulo da bateria.
+Voce diferencia cheia de descarregada pela tensao medida.
+Voce aponta onde esta o risco: acido, gas e curto-circuito.
+
+FONTES
+------
+Guia de bolso do NIOSH sobre acido sulfurico e ficha da OSHA.
+Orientacao da OSHA sobre riscos na fabricacao de baterias.
+Pratica consolidada de uso e recarga de bateria automotiva.

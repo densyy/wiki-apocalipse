@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 02-114
+TITULO: Como fazer conservas vegetais
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 60 minutos
+RISCO: critico
+EXIGE: vegetais frescos, vidros com tampa, água potável, sal, vinagre, calor
+REVISAO: 2026-11
+PALAVRAS-CHAVE: conserva, picles, vegetais, botulismo, vinagre, vidro
+==============================================================================
+
+OBJETIVO
+--------
+Conservar vegetais frescos em vidro por meses sem risco de botulismo.
+
+QUANDO USAR
+-----------
+Quando houver colheita maior que a capacidade de consumo imediato.
+Quando o alimento fresco estiver prestes a apodrecer.
+Quando for preciso guardar comida para a entressafra.
+Quando houver vidros, tampa em bom estado e fonte de calor.
+
+NAO USE QUANDO
+--------------
+Não faça conserva de despensa sem vinagre de acidez conhecida.
+Não faça conserva de despensa sem panela com manômetro.
+Não use vegetais mofados, machucados ou com cheiro podre.
+Não use vidros rachados ou tampas que não vedam.
+Não conserve vegetais crus em óleo sem receita validada.
+
+MATERIAIS
+---------
+- Vegetais frescos e firmes.
+- Vidros com tampa nova que vede (pote de vidro com tampa de rosca).
+- Água potável.
+- Sal de cozinha sem iodo (sal de conserva).
+- Vinagre de acidez de 4% a 6% no rótulo (de álcool ou de maçã).
+- Panela de pressão com manômetro (autoclave) ou panela para banho-maria.
+- Pano limpo, concha e pinça para manusear os vidros.
+- Rótulo e caneta para anotar a data.
+
+PROCEDIMENTO
+------------
+1. Lave as mãos com água potável e sabão antes de começar.
+2. Lave vidros e tampas com água potável e detergente, e enxágue bem.
+3. Descarte vidro rachado ou tampa que não feche hermeticamente.
+4. Lave os vegetais em água potável e corte as partes danificadas.
+5. Cozinhe os vegetais até ficarem al dente, se a receita pedir.
+6. Escolha uma das duas vias abaixo antes de encher os vidros.
+7. Via acidificada (picles): use receita com vinagre de acidez conhecida.
+8. Via acidificada: não reduza o vinagre nem aumente o vegetal.
+9. Via acidificada: encha os vidros e cubra com a salmoura da receita.
+10. Via acidificada: deixe o espaço livre indicado na receita.
+11. Via acidificada: feche e processe em banho-maria pelo tempo da receita.
+12. Via de baixa acidez: use manômetro e siga a receita; nunca banho-maria.
+13. Retire os vidros com pinça, sem inclinar, e ponha sobre pano limpo.
+14. Não aperte a tampa de novo nem pressione o centro dela.
+15. Espere de 12 a 24 horas e anote a data no rótulo.
+16. Guarde em lugar escuro, fresco e seco, longe de calor e luz.
+17. Antes de comer, ferva o conteúdo por 10 minutos sem provar antes.
+
+ATENCAO
+-------
+O botulismo pode matar: a toxina não tem cheiro, cor nem sabor.
+Uma pequena prova de alimento contaminado pode ser fatal.
+Nunca prove a conserva para testar se está boa.
+Vegetais têm baixa acidez; sem ácido ou pressão, cresce a bactéria.
+Ferver destrói a toxina, mas não os esporos da bactéria.
+Por isso a esterilização sob pressão é necessária na via de baixa acidez.
+Banho-maria serve só para conservas acidificadas com receita validada.
+A OMS usa pH 4,6 e a Anvisa usa pH 4,5 como limite de acidez.
+Descarte se a tampa estufar, o vidro vazar ou houver cheiro, mofo ou espuma.
+Descarte em local onde pessoas ou animais não comam o conteúdo.
+Visão dupla, pálpebras caídas ou fala difícil após comer: busque urgência.
+
+SE NAO TIVER
+------------
+Sem vinagre de acidez conhecida, não faça conserva de despensa.
+Sem panela com manômetro, guarde na geladeira e coma em poucos dias.
+Sem vidros próprios, use pote que vede e processe como picles acidificado.
+Na dúvida, congele ou desidrate os vegetais em vez de encovidá-los.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A tampa fica rebaixada e não estufa depois de fria.
+Ao abrir, não há cheiro estranho, espuma, mofo nem mudança de cor.
+O líquido fica claro e o vegetal firme, sem desfazer.
+
+FONTES
+------
+Ministério da Saúde: botulismo, calor acima de 80°C por 10 minutos.
+OMS: botulismo, pH abaixo de 4,6 e toxina destruída a 85°C.
+CDC e USDA: conservas caseiras, baixa acidez exige pressão.
+CDC e USDA: ferver a conserva 10 minutos antes de comer.
+Anvisa, RDC 352/2002: boas práticas para conservas de hortaliças.
+Anvisa: pH de equilíbrio igual ou menor que 4,5.
+Embrapa: Hortaliças em conserva e picles de pepino.
+Embrapa: vinagre de 4% a 6% de acidez.

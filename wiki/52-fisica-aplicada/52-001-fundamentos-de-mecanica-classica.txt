@@ -1,0 +1,93 @@
+==============================================================================
+CODIGO: 52-001
+TITULO: Fundamentos de mecânica clássica
+CATEGORIA: 52 - Física aplicada e princípios fundamentais
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: papel, lápis, noções básicas de multiplicação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: física, força, movimento, newton, alavanca, equilíbrio
+==============================================================================
+
+OBJETIVO
+--------
+Avaliar forças, equilíbrio e movimento em uma situação concreta
+usando as leis de Newton e a conservação de energia.
+
+QUANDO USAR
+-----------
+Quando precisar prever se uma carga vai ficar parada ou se mover.
+Quando escolher alavanca, roldana ou plano inclinado para erguer algo.
+Ao estimar o esforço necessário para empurrar ou suspender um peso.
+Ao entender por que um objeto acelera, desacelera ou gira.
+Ao conferir se uma estrutura está equilibrada antes de confiar nela.
+
+NAO USE QUANDO
+--------------
+Quando a velocidade se aproximar da velocidade da luz: use a
+relatividade, não a mecânica clássica.
+Quando o objeto for tão pequeno que o efeito quântico importar.
+Quando não houver dados de massa, força ou atrito: não invente números.
+Quando a carga for crítica em equipamento certificado: siga a
+especificação do fabricante em vez deste resumo.
+
+MATERIAIS
+---------
+- Papel e lápis para desenhar o esquema.
+- Os valores de massa, força e distância que tiver medido ou estimado.
+- Noções de multiplicação e divisão.
+
+PROCEDIMENTO
+------------
+1. Defina a pergunta: o objeto fica parado, acelera ou gira.
+2. Isole o objeto no papel e desenhe-o sozinho.
+3. Liste as forças que agem sobre ele: peso, apoio, atrito e tração.
+4. Desenhe uma seta para cada força, com direção e sentido.
+5. Escolha um eixo e some as forças com sinal positivo e negativo.
+6. Se a soma der zero, anote equilíbrio: o objeto não acelera.
+7. Se sobrar força resultante, divida-a pela massa do objeto.
+8. O resultado é a aceleração na direção da força resultante.
+9. Para movimento de rotação, some os momentos em torno do eixo.
+10. Confira com a conservação de energia se o atrito for desprezível.
+11. Escreva a resposta com unidade e marque o que for aproximado.
+
+ATENCAO
+-------
+A mecânica clássica falha em velocidades próximas à da luz e em escala
+atômica. Não aplique estas leis nesses regimes sem outro modelo.
+O erro mais comum é o desenho: esquecer uma força invalida a conclusão
+mesmo com a conta correta.
+Ação e reação da terceira lei atuam em corpos diferentes e por isso
+não se cancelam no mesmo objeto.
+Atrito, vento e deformação reduzem a previsão; fora do laboratório os
+números raramente são exatos.
+Nunca troque uma medição por palpite se a carga puder ferir alguém.
+Pare e procure ajuda de quem tenha treinamento nesse caso.
+Se a carga for crítica, siga a especificação do equipamento.
+
+SE NAO TIVER
+------------
+Sem papel, desenhe o esquema no chão, um objeto por vez.
+Sem valores de massa, compare apenas grandezas relativas e diga que
+se trata de estimativa.
+Sem condição de medir, reduza a promessa: explique a tendência e não
+o número exato.
+Se faltar confiança no cálculo, não dimensione suporte de peso;
+procure quem tenha treinamento.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O esquema mostra uma seta para cada força que realmente atua.
+A soma das forças usou sinais opostos em direções opostas.
+A previsão de parado, acelerando ou girando concorda com o observado.
+A resposta traz unidade e está marcada como aproximada quando couber.
+
+FONTES
+------
+Conhecimento estabelecido da mecânica newtoniana, resumido de forma
+operacional. Base consultada: Isaac Newton, Philosophiae Naturalis
+Principia Mathematica (1687), para as três leis do movimento;
+DOE Fundamentals Handbook, Classical Physics (DOE-HDBK-1010-92),
+para momento e conservação de energia; e material do NASA Glenn
+Research Center sobre as leis de Newton. Texto resumido, não
+substitui treinamento.

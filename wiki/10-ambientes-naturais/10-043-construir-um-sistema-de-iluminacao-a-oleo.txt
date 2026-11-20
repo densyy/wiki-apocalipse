@@ -1,0 +1,97 @@
+==============================================================================
+CODIGO: 10-043
+TITULO: Como construir um sistema de iluminação a óleo
+CATEGORIA: 10 - Sobrevivência em ambientes naturais
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: lata metálica, óleo, pavio de algodão, fogo, lugar arejado
+REVISAO: 2026-11
+PALAVRAS-CHAVE: lâmpada, óleo, pavio, lata, luz, querosene, fogo
+==============================================================================
+
+OBJETIVO
+--------
+Construa uma lâmpada improvisada com lata, óleo e pavio para ter luz
+quando não há energia elétrica.
+
+QUANDO USAR
+-----------
+Quando a energia acaba e é preciso luz para ler, cozinhar ou circular.
+Quando não há lanterna, vela ou pilhas disponíveis.
+Ao montar acampamento ou abrigo depois do anoitecer.
+Para manter uma luz fixa e barata no abrigo por várias horas.
+
+NAO USE QUANDO
+--------------
+Não use em lugar fechado, tenda ou cabana sem ventilação.
+Não use perto de papel, tecido, palha, madeira ou combustível.
+Não use se houver cheiro de gás ou vazamento de combustível.
+Não use quando não houver ninguém acordado para vigiar a chama.
+Não use gasolina, álcool, thinner ou solvente como combustível.
+
+MATERIAIS
+---------
+- Lata metálica rasa e sem resina (pote de café, lata de leite).
+- Óleo vegetal, azeite, gordura animal ou querosene.
+- Pavio de algodão: tira de pano limpo (linha de algodão trançada).
+- Arame ou clipe de metal para prender o pavio (grampo).
+- Prato ou pedra plana para apoiar a lata (tampa de panela).
+- Fósforos ou isqueiro (pedra e aço).
+- Água ou areia para apagar o fogo (pano úmido).
+
+PROCEDIMENTO
+------------
+1. Limpe e seque a lata por dentro; retire rótulo e resina.
+2. Coloque a lata sobre o prato ou a pedra, em lugar firme e nivelado.
+3. Encha a lata com óleo até aproximadamente dois terços da altura.
+4. Corte uma tira de algodão de aproximadamente 15 cm por 1 cm.
+5. Mergulhe a tira inteira no óleo até ficar bem encharcada.
+6. Dobre a tira sobre a borda: uma ponta dentro do óleo, outra fora.
+7. Prenda a tira com o arame para ela não cair para dentro da lata.
+8. Ajuste a ponta externa a aproximadamente 1 cm da borda.
+9. Afaste papel, tecido e palha a aproximadamente 30 cm da lata.
+10. Aproxime o fósforo aceso da ponta de fora e acenda; afaste o rosto.
+11. Mantenha a lata em local arejado, nunca debaixo de lona fechada.
+12. Cubra a chama com tampa de metal para apagar; nunca sopre.
+13. Apague sempre antes de dormir ou de sair do abrigo.
+
+ATENCAO
+-------
+O fogo consome oxigênio e produz monóxido de carbono, um gás sem cor
+e sem cheiro que pode matar em minutos dentro de lugar fechado.
+Dor de cabeça, tontura, confusão, náusea e sonolência são sinais de
+intoxicação: apague a chama, vá para ar livre e procure ajuda.
+Óleo quente pode derramar e pegar fogo: não mova a lata acesa e não
+encha até a borda; nunca derrame óleo perto da chama.
+A chama incendia tecido, papel, palha e madeira: mantenha distância e
+nunca deixe a lâmpada sem vigilância.
+Gasolina, álcool e solventes inflamam depressa e podem explodir; use
+somente óleo vegetal, gordura ou querosene em lugar ventilado.
+Não sopre a chama para apagar e tenha água ou areia por perto.
+Se a lata rachar ou o fogo sair do pavio, apague e descarte a lata.
+
+SE NAO TIVER
+------------
+Sem lata, use pote de barro ou concha de metal que resista ao calor.
+Sem pano, use linha de algodão trançada ou algodão limpo de remédio.
+Nunca use plástico, nylon ou fibra sintética: derretem e soltam
+fumaça tóxica.
+Sem óleo vegetal, use gordura animal derretida ou azeite.
+Evite óleo usado com restos de comida: solta fumaça e cheiro forte.
+Sem fósforo, use isqueiro, pedra e aço ou lupa com sol.
+Sem prato, apoie a lata em pedra plana ou em areia.
+Sem combustível seguro ou pavio, não improvise: fique no escuro.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A chama fica amarela, baixa e firme, sem fumaça preta.
+O pavio continua encharcado e a lata não derrama óleo.
+A luz permite ver as mãos e ler texto próximo sem esforço.
+Não há cheiro de queimado, fumaça no abrigo nem olhos lacrimejando.
+
+FONTES
+------
+Prática consolidada de iluminação de campanha; manual de sobrevivência
+do Exército dos EUA (FM 21-76); orientações da USFA/FEMA sobre
+iluminação de emergência e incêndio; NIOSH/CDC sobre monóxido de
+carbono.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 37-025
+TITULO: Como documentar alterações geográficas ao longo do tempo
+CATEGORIA: 37 - Cartografia, topografia e levantamento
+TEMPO: 45 minutos
+RISCO: baixo
+EXIGE: caderno, lápis, câmera, estacas, corda ou fita métrica
+REVISAO: 2026-11
+PALAVRAS-CHAVE: mapa, croqui, foto, ponto fixo, erosão, mudança, paisagem
+==============================================================================
+
+OBJETIVO
+--------
+Registrar mudanças no terreno para compará-las em visitas futuras.
+
+QUANDO USAR
+-----------
+Quando quiser acompanhar o recuo de uma margem de rio ou de uma praia.
+Quando notar erosão ou desmatamento e precisar medir o avanço no tempo.
+
+NAO USE QUANDO
+--------------
+Não use para afirmar a causa de uma mudança só pela foto; o registro mostra
+o que mudou, não o motivo. Evite áreas de risco sem a Defesa Civil.
+
+MATERIAIS
+---------
+- Caderno e lápis (caneta à prova d'água serve).
+- Câmera e relógio (celular serve, com a data conferida).
+- Estacas para marcar pontos (rocha com marca serve).
+- Corda com nós a cada metro e estaca graduada (fita métrica serve).
+
+PROCEDIMENTO
+------------
+1. Escolha o trecho a observar: margem, encosta, praia ou vegetação.
+2. Escreva no caderno o nome do trecho e o alvo a acompanhar.
+3. Crave uma estaca em ponto firme, seguro e com vista livre.
+4. Descreva o ponto por marcas fixas: rocha ou canto de muro.
+5. Anote data, hora, estação, chuva recente e nível do rio.
+6. Fique no mesmo ponto e altura; aponte para o mesmo alvo.
+7. Enquadre um marco fixo e a estaca graduada; tire a foto.
+8. Meça da estaca até a borda com a corda e anote a distância.
+9. Desenhe o croqui com norte, pontos, marcos e área observada.
+10. Repita os passos 5 a 9 em cada visita ao mesmo ponto.
+11. Guarde as fotos por número de ponto, em ordem de data.
+12. Compare com a foto antiga; anote o que mudou e o que ficou.
+
+ATENCAO
+-------
+Não troque de ponto entre visitas: sem o mesmo ponto a comparação não vale.
+Não compare fotos de estações diferentes sem registrar chuva, seca e nível.
+Não atribua causa à mudança pela foto; registre apenas o que foi visto.
+Não entre em área de risco de deslizamento ou enchente só para fotografar.
+Se o ponto foi destruído, marque outro e anote a ligação com o antigo.
+
+SE NAO TIVER
+------------
+Sem câmera, desenhe o croqui e escreva a descrição no caderno.
+Sem estaca ou corda, use marcas naturais e conte passos como aproximados.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As fotos de um mesmo ponto mostram os marcos nos mesmos lugares.
+O caderno traz, por visita, número do ponto, data, condições e medida.
+
+FONTES
+------
+Prática consolidada de pontos fixos e fotos repetidas, sem documento único.
+Pista: publicações do US Geological Survey e o manual Repeat Photography
+(Webb, Boyer e Turner), não consultados na íntegra. Resumo operacional.

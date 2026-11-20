@@ -1,0 +1,83 @@
+==============================================================================
+CODIGO: 71-014
+TITULO: Como reconhecer tentativas de fraude digital
+CATEGORIA: 71 - Criptografia, segurança da informação e privacidade
+TEMPO: 15 minutos
+RISCO: medio
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fraude, golpe, phishing, engano, senha, link, desconfiar
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer os sinais de uma mensagem fraudulenta antes de informar dados.
+
+QUANDO USAR
+-----------
+Quando receber aviso de problema em conta que voce nao abriu.
+Quando uma oferta promete dinheiro facil ou premio inesperado.
+Quando alguem conhecido pede senha, codigo ou transferencia por mensagem.
+Quando o banco ou uma loja pede pagamento adiantado por mensagem.
+Quando um link chega por SMS, e-mail ou aplicativo de conversa.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+
+MATERIAIS
+---------
+- A mensagem suspeita, sem abrir links nem anexos.
+- Numero ou endereco oficial da empresa, de fonte que voce ja conhece.
+- Outro meio de contato, como telefone ou conversa presencial.
+- Um minuto de calma para nao responder no impulso.
+
+PROCEDIMENTO
+------------
+1. Pare antes de clicar em qualquer link ou anexo da mensagem.
+2. Leia o remetente por inteiro, nao apenas o nome exibido.
+3. Observe se o texto cobra resposta rapida, sigilo ou medo.
+4. Desconfie de saudacao generica e de erros de ortografia.
+5. Desconfie de premio alto ou de pagamento adiantado prometido.
+6. Pergunte porque voce, entre tantas pessoas, foi escolhido.
+7. Nao clique no link que veio dentro da mensagem.
+8. Digite o endereco oficial da empresa direto no navegador.
+9. Confira o cadeado e o certificado antes de informar qualquer dado.
+10. Ligue para a empresa usando numero que voce ja conhece.
+11. Nao use telefone ou endereco que vieram da propria mensagem.
+12. Nao informe senha, codigo de SMS nem dados bancarios por telefone.
+13. Desconfie de perfil de conhecido que pede dinheiro: confirme.
+14. Se ja informou dados, troque a senha e avise o banco na hora.
+15. Guarde a mensagem e denuncie na plataforma onde ela chegou.
+
+ATENCAO
+-------
+Um link pode abrir uma copia falsa do site, com nome parecido.
+O cadeado no navegador indica conexao criptografada, nao site legitimo.
+O nome do remetente pode ser falsificado para parecer conhecido.
+Mensagem de pessoa conhecida pode vir de perfil clonado ou invadido.
+Nao responda ao remetente: isso confirma que seu contato esta ativo.
+Se entregou senha ou codigo, troque a senha e avise o banco de imediato.
+
+SE NAO TIVER
+------------
+Sem numero oficial anotado, procure em documento ou cartao que recebeu.
+Sem como verificar o site, nao informe dados: espere e pergunte.
+Sem tempo para conferir, nao decida: a pressa ajuda o golpista.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Voce consegue apontar pelo menos um sinal de suspeita na mensagem.
+O endereco no navegador e o oficial, nao o que veio no link.
+A empresa confirmou pelo canal proprio que nao fez o pedido.
+Nenhuma senha, codigo ou dado bancario foi informado.
+
+FONTES
+------
+Cartilha de Seguranca para Internet, CERT (servico do NIC e do CGI),
+secao Dicas Rapidas, itens Golpes e Fraudes e aplicativos de mensagens;
+pagina atualizada em 2023.
+Comissao Federal de Comercio dos Estados Unidos, guia sobre como
+reconhecer e evitar golpes de phishing, publicado em 2022.
+Pratica consolidada de seguranca da informacao; resumo operacional,
+nao substitui treinamento nem orientacao juridica.

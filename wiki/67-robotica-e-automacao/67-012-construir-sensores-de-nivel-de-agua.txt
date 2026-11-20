@@ -1,0 +1,76 @@
+==============================================================================
+CODIGO: 67-012
+TITULO: Como construir sensores de nível de água
+CATEGORIA: 67 - Robótica, automação e controle
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: fonte de baixa tensão, multímetro, fios e eletrodos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, nível, sensor, boia, sonda, condutividade, alarme
+==============================================================================
+
+OBJETIVO
+--------
+Construir uma boia e uma sonda que avisam quando a água sobe ou desce.
+
+QUANDO USAR
+-----------
+Quando precisa vigiar o nível de um reservatório ou caixa d'água.
+Quando quer acionar bomba ou alarme ao chegar a certa altura.
+Quando não há sensor comprado e é preciso improvisar com sucata.
+
+NAO USE QUANDO
+--------------
+Não use tensão de rede nem 220 V dentro d'água.
+Não use como único controle de bomba em sistema que pode transbordar.
+Não substitua sensor certificado em instalação industrial.
+
+MATERIAIS
+---------
+- Fonte de pilhas ou fonte de até 12 V.
+- Multímetro e fio de cobre isolado com fita.
+- Duas hastes de aço inox ou parafusos zincados.
+- Boia de rolha ou garrafa, com ímã e reed switch.
+- Fio de nylon e um recipiente com água para testar.
+
+PROCEDIMENTO
+------------
+1. Escolha: boia liga em um ponto; sonda mede vários pontos.
+2. Coloque o ímã dentro da rolha ou da garrafa vazia.
+3. Prenda a boia em fio de nylon para subir e descer.
+4. Fixe o reed switch na parede na altura desejada.
+5. Ligue o reed switch à fonte e ao alarme com fio isolado.
+6. Isole as emendas com fita para não tocarem na água.
+7. Corte duas hastes de inox de tamanhos distintos.
+8. Fixe as hastes paralelas, separadas e sem se tocarem.
+9. Ligue a haste longa ao polo negativo como referência.
+10. Ligue as hastes curtas ao medidor ou a um indicador.
+11. Mergulhe as pontas na água e meça a continuidade.
+12. Anote a altura em que a continuidade aparece ou some.
+
+ATENCAO
+-------
+Use só baixa tensão, até cerca de 12 V, nunca a rede elétrica.
+Água e eletricidade matam: desligue a fonte antes de mexer.
+Corrente contínua corrói os eletrodos; meça rápido e limpe depois.
+Água salgada ou suja conduz mais e muda a leitura; recalibre.
+Se sentir choque ou ver faísca, pare e peça ajuda a quem entende.
+
+SE NAO TIVER
+------------
+Sem reed switch, use microswitch pressionado pela boia.
+Sem aço inox, use parafusos zincados e troque-os com frequência.
+Sem multímetro, use um LED com resistor em série como indicador.
+Sem fonte, use pilhas; nunca ligue direto na tomada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A boia sobe e o alarme soa na altura marcada.
+O medidor marca continuidade só quando a água toca as hastes.
+Ao esvaziar, o circuito abre e o alarme para.
+
+FONTES
+------
+Tipos de medidor de nível segundo o National Ocean Service da NOAA.
+Documentação Arduino: leitura analógica e sensor ultrassônico.
+Prática consolidada de automação caseira, sem documento único.

@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 32-008
+TITULO: Como fabricar telhas artesanais
+CATEGORIA: 32 - Produção industrial e manufatura artesanal
+TEMPO: 2 dias de trabalho ativo
+RISCO: alto
+EXIGE: argila plástica, molde, grade, forno externo, lenha seca, luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: telha, barro, argila, cerâmica, molde, secagem, queima
+==============================================================================
+
+OBJETIVO
+--------
+Produzir telhas de barro queimado para cobrir um abrigo sem comprar peças.
+
+QUANDO USAR
+-----------
+Quando a cobertura de palha ou lona apodreceu e precisa ser trocada.
+Quando não há telha comprada nem dinheiro para comprar.
+Quando há argila e lenha no local e falta cobertura para o abrigo.
+
+NAO USE QUANDO
+--------------
+Quando o forno precisar ficar dentro de casa, galpão fechado ou tenda.
+Quando houver palha seca, mata seca ou vento forte perto do fogo.
+Quando a armação do telhado não suportar o peso das telhas cerâmicas.
+
+MATERIAIS
+---------
+- Argila plástica, sem pedras, raízes ou restos vegetais.
+- Água limpa.
+- Molde de madeira com o formato da telha (aro de cipó forrado).
+- Grade de madeira com frestas (prateleira ou estrado).
+- Lona ou palha para cobrir a grade sem fechar as laterais.
+- Forno de pedra ou alvenaria com chaminé, ao ar livre.
+- Lenha seca picada em pedaços pequenos (galhos secos, serragem).
+- Luvas grossas de couro ou pano para proteger as mãos.
+- Arame de latão ou cobre para prender a telha à armação.
+
+PROCEDIMENTO
+------------
+1. Retire pedras, raízes e restos vegetais da argila.
+2. Amasse a argila com água aos poucos até a massa não grudar na mão.
+3. Dobre uma porção da massa: se rachar, acrescente água e amasse de novo.
+4. Molhe o molde com água para a massa não grudar.
+5. Pressione massa no molde com as mãos até cobrir todo o fundo.
+6. Alise com a mão molhada, tire o excesso e faça o furo na borda.
+7. Vire o molde sobre a grade e solte a telha devagar.
+8. Repita até completar o lote que o forno comporta.
+9. Deixe as telhas em uma camada só, sem encostar umas nas outras.
+10. Cubra a grade com lona ou palha e deixe as laterais abertas.
+11. Vire cada telha uma vez por dia.
+12. Espere até a telha não ceder ao toque antes de levar ao fogo.
+13. Acenda o forno ao ar livre, longe de palha, madeira e folhas secas.
+14. Alimente o fogo com lenha seca picada, pouco de cada vez.
+15. Aumente o calor aos poucos; não jogue muita lenha de uma vez.
+16. Mantenha o fogo até a peça ficar vermelha por igual.
+17. Apague o fogo e espere o forno esfriar por completo antes de abrir.
+18. Bata levemente numa telha fria: o som deve ser claro, sem estalos.
+19. Retire as telhas frias e empilhe em local seco, sobre madeira.
+20. Prenda cada telha à armação com arame nos furos da moldagem.
+
+ATENCAO
+-------
+O fogo e o forno quente causam queimaduras graves e incêndio.
+O monóxido de carbono é incolor, inodoro e mata sem aviso.
+Nunca queime dentro de casa, galpão fechado, tenda ou barraca.
+Use o forno ao ar livre ou com chaminé que leve a fumaça para longe.
+Dor de cabeça, tontura, náusea ou confusão durante a queima são perigo.
+Saia para o ar fresco e procure ajuda se aparecer um desses sinais.
+Telha úmida estoura no calor e pode lançar estilhaços e brasas.
+Secagem rápida, sol direto ou vento irregular causam trincas em V.
+Fumaça preta indica excesso de lenha ou falta de ar: use pedaços pequenos.
+Em fornos industriais a queima fica entre 900 °C e 950 °C.
+Sem termômetro, a cor não prova resistência: teste o primeiro lote.
+Telha cerâmica é pesada: reforce a armação antes de cobrir o telhado.
+
+SE NAO TIVER
+------------
+Sem forno, não improvise dentro de casa: construa forno externo de pedra.
+Se não houver lugar seguro para o fogo, não faça telha queimada.
+Sem molde de madeira, use um aro de cipó forrado com pano e barro.
+Sem termômetro, use a cor e o som, mas trate o primeiro lote como teste.
+Sem argila plástica, o barro comum serve se não se desfizer ao molhar.
+Nunca troque a queima por secagem ao sol: a telha crua se desfaz na chuva.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A telha fria é dura, tem cor vermelha uniforme e não racha ao pressionar.
+O som ao bater de leve é claro, sem estalos de trinca interna.
+Não há trincas em forma de V nem bordas empenadas.
+Uma peça de teste umedecida não amolece nem se desfaz.
+
+FONTES
+------
+Coleção Boas Práticas e Tecnologias na Cerâmica Vermelha, do INT/MCTI.
+Orientações da CDC sobre intoxicação por monóxido de carbono.
+Sidac, Blocos e telhas cerâmicos.
+Manual de Construções Rurais, da UFPR.

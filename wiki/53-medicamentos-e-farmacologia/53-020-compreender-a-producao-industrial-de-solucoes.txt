@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 53-020
+TITULO: Como compreender a fabricação de soluções farmacêuticas
+CATEGORIA: 53 - Produção de medicamentos e farmacologia
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: solução, remédio líquido, água, filtro, controle, estéril
+==============================================================================
+
+OBJETIVO
+--------
+Entender como uma solução farmacêutica é feita em escala industrial e quais
+controles garantem dose exata, esterilidade e segurança do produto.
+
+QUANDO USAR
+-----------
+Ao ler a bula de um xarope, colírio ou injetável.
+Ao conferir lote, validade e aspecto de um frasco recebido.
+Ao estudar tecnologia farmacêutica ou trabalhar em controle de qualidade.
+Ao entender por que solução caseira não substitui remédio industrializado.
+
+NAO USE QUANDO
+--------------
+Não use para fabricar medicamento em casa nem em pequena escala.
+Não substitui Boas Práticas de Fabricação nem procedimento interno.
+Não serve para esterilizar, recompor ou salvar produto vencido.
+Não define dose, via de uso nem se um lote está aprovado para consumo.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Entenda solução: ativo dissolvido em veículo como água, álcool ou óleo.
+2. Diferencie suspensão: o pó não dissolve e pede agitação antes do uso.
+3. Diferencie emulsão: dois líquidos que não se misturam são dispersos.
+4. Separe as formas comuns: oral, injetável, oftálmica e tópica.
+5. Entenda a formulação: ela fixa ativo e excipientes de cada lote.
+6. Reconheça excipientes: conservante, ajuste de pH, adoçante e corante.
+7. Note que a água é a matéria-prima mais usada e a mais crítica.
+8. Oral usa água purificada; injetável usa água para injetáveis.
+9. Água para injetáveis vem de destilação ou osmose inversa, monitorada.
+10. Acompanhe a pesagem: cada insumo é pesado e registrado.
+11. Dissolva o ativo no veículo em tanque com agitação controlada.
+12. Entenda que ordem de mistura e temperatura mudam a solubilidade.
+13. Entenda o ajuste de pH: mantém o ativo estável e reduz irritação.
+14. Injetáveis e colírios pedem tonicidade próxima à do corpo.
+15. Conservantes impedem crescimento microbiano em frasco multidose.
+16. Filtros de membrana retêm partículas e bactérias da solução.
+17. Filtro de aproximadamente 0,22 micrometros retém bactérias.
+18. Autoclave usa vapor saturado a aproximadamente 121 graus Celsius.
+19. Produto termolábil, sensível ao calor, é esterilizado por filtração.
+20. Encha ampolas ou frascos em sala limpa com ar controlado.
+21. Feche a ampola por fusão e o frasco com rolha e lacre.
+22. Inspecione cor, partículas e vedação de cada unidade.
+23. Ensaios: aspecto, pH, teor, esterilidade e endotoxinas.
+24. Endotoxina é resíduo bacteriano que pode causar febre.
+25. O lote rastreia insumos, equipamentos e datas de produção.
+26. O controle libera o lote só após aprovar cada ensaio.
+27. Separe embalagem primária, que toca o produto, da caixa rotulada.
+28. Aplique Boas Práticas: higiene, calibração, registros e desvios.
+
+ATENCAO
+-------
+Este texto ensina a compreender, não a fabricar medicamento.
+Produzir solução estéril exige equipamento, sala limpa e pessoal treinado.
+Solução caseira pode conter bactérias, endotoxinas ou dose errada.
+Aparência limpa não prova esterilidade nem teor correto do ativo.
+Nunca tente esterilizar em casa produto para injetar ou aplicar no olho.
+Em caso de febre, dor ou reação após uso de injetável, procure atendimento.
+
+SE NAO TIVER
+------------
+Sem bula, leia rótulo, lote e validade do recipiente antes de usar.
+Sem dados de lote, não use o produto.
+Sem acesso ao laudo de controle, pergunte ao farmacêutico responsável.
+Sem formação em farmácia, limite-se a compreender o processo, não a
+reproduzi-lo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você explica a diferença entre solução, suspensão e emulsão.
+Você aponta por que a água para injetáveis precisa de monitoramento.
+Você cita duas formas de esterilizar uma solução farmacêutica.
+Você reconhece que lote e laudo de qualidade são necessários para liberar
+um produto.
+
+FONTES
+------
+Prática consolidada da tecnologia farmacêutica e das Boas Práticas de
+Fabricação de medicamentos; família OMS, Anvisa e farmacopeias oficiais.
+Resumo educativo; não substitui bula, prescrição nem orientação do
+farmacêutico responsável.

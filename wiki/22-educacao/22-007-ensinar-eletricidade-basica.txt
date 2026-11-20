@@ -1,0 +1,92 @@
+==============================================================================
+CODIGO: 22-007
+TITULO: Como ensinar eletricidade básica
+CATEGORIA: 22 - Educação e transmissão de conhecimento
+TEMPO: 45 minutos
+RISCO: alto
+EXIGE: pilhas de 1,5 V, fios isolados, lâmpada de baixa tensão, mesa seca
+REVISAO: 2026-11
+PALAVRAS-CHAVE: eletricidade, ensinar, pilha, circuito, choque, segurança
+==============================================================================
+
+OBJETIVO
+--------
+Ensinar os conceitos básicos usando apenas pilhas e fios isolados.
+
+QUANDO USAR
+-----------
+Quando precisar explicar a uma criança ou ajudante como funciona uma pilha.
+Quando houver tempo parado e a energia da casa estiver cortada.
+Quando alguém precisar entender por que não deve mexer em fio exposto.
+Quando for preciso formar multiplicadores de segurança elétrica no grupo.
+Quando a única fonte de luz disponível for uma lanterna de pilha.
+
+NAO USE QUANDO
+--------------
+Não use esta aula como preparo para reparar a rede elétrica.
+Não faça demonstrações com tomada, quadro de luz ou fios expostos.
+Não use pilha vazada, inchada ou aquecida.
+Não use se não houver fio com isolamento íntegro.
+
+MATERIAIS
+---------
+- Duas pilhas de 1,5 V, inteiras e sem vazamento (uma reserva).
+- Dois pedaços de fio de cobre isolado (fio de lanterna ou de telefone).
+- Uma lâmpada pequena de baixa tensão, própria para pilha (de lanterna).
+- Uma superfície seca de madeira ou plástico para apoiar o circuito.
+- Papel e lápis para desenhar o circuito (carvão e pedra, se faltar).
+- Fita isolante para firmar as ligações (fita de pano limpo, se faltar).
+
+PROCEDIMENTO
+------------
+1. Escolha uma mesa seca, longe de tomadas, quadros de luz e fios expostos.
+2. Retire as pilhas de qualquer aparelho ligado antes de começar a aula.
+3. Descubra aproximadamente 1 cm de cobre em cada ponta dos dois fios.
+4. Enrole a ponta de um fio no polo positivo da pilha e prenda com fita.
+5. Enrole a ponta do outro fio no polo negativo da pilha e prenda com fita.
+6. Aproxime as duas pontas livres dos contatos da lâmpada: ela acende.
+7. Afaste uma ponta do contato: a lâmpada apaga e o circuito fica aberto.
+8. Peça ao aluno que repita os passos 6 e 7 e diga o que observou.
+9. Desenhe no papel a pilha, os fios e a lâmpada em caminho fechado.
+10. Explique tensão como a pressão da pilha que empurra a corrente.
+11. Explique corrente elétrica como o fluxo que percorre o fio e a lâmpada.
+12. Explique isolamento como a capa que mantém o fluxo dentro do cobre.
+13. Explique choque como a passagem de corrente pelo corpo, até o coração.
+14. Diga que a rede da casa tem força para matar e nunca deve ser tocada.
+15. Pergunte o que fazer diante de fio exposto: afastar, cortar a energia,
+    avisar a pessoa responsável e nunca puxar o fio com a mão.
+16. Retire a fita, desconecte os fios e guarde as pilhas fora do alcance.
+
+ATENCAO
+-------
+O choque elétrico pode matar quando a corrente passa pelo peito.
+A rede da casa e os cabos externos matam; pilha de 1,5 V não tem essa força.
+Nunca faça a aula com tomada, quadro de luz ou fio energizado por perto.
+Desligue a energia e trave a fonte antes de qualquer ajuste no circuito.
+Quem trabalha na rede energizada usa EPI: luvas isolantes e calçado próprio.
+Pessoa sem qualificação não deve tocar em parte energizada, mesmo com EPI.
+Afaste o grupo de linhas aéreas e de cabos caídos no chão.
+Pilha aquecida, inchada ou vazada: separe e descarte com cuidado.
+Se alguém levar choque, não toque na pessoa: corte a energia e chame ajuda.
+
+SE NAO TIVER
+------------
+Sem lâmpada, desenhe o circuito e explique com as pilhas desconectadas.
+Sem fio isolado, não improvise com cobre desencapado: apenas desenhe.
+Sem fita, segure os fios só pela capa isolante e apoie em madeira seca.
+Sem pilha, faça só a explicação verbal; não invente outro experimento.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A lâmpada acende ao fechar o circuito e apaga ao afastar uma ponta.
+O aluno repete as explicações com as próprias palavras, sem olhar o papel.
+O aluno aponta o isolamento e diz por que não se toca na parte de cobre.
+O aluno responde que, diante de fio exposto, deve afastar e avisar.
+
+FONTES
+------
+Orientações da OSHA (Electrical - Overview): choque, incêndio e explosão
+e da NIOSH/CDC (Electrical Safety in the Workplace, 2026) sobre
+desenergizar, travar a energia, verificar com testador, manter distância de
+partes energizadas e usar EPI só quando qualificado. O método de ensino é
+prática consolidada, sem documento único.

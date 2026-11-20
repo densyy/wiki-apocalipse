@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 79-008
+TITULO: Como impermeabilizar construções subterrâneas
+CATEGORIA: 79 - Sobrevivência subterrânea
+TEMPO: 360 minutos
+RISCO: medio
+EXIGE: barro, cal, lona ou betume, pincel, drenagem, cascalho
+REVISAO: 2026-11
+PALAVRAS-CHAVE: impermeabilizar, umidade, vedacao, barro, adega, parede
+==============================================================================
+
+OBJETIVO
+---------
+Reduzir a entrada de água em paredes, piso e teto enterrados,
+mantendo o interior seco e seguro para pessoas e alimentos.
+
+QUANDO USAR
+-----------
+Em adegas, porões e abrigos que apresentam umidade ou goteiras.
+Antes de revestir paredes de terra ou de pedra já limpas.
+Quando a água aparece em frestas após a primeira chuva.
+Ao construir espaço subterrâneo novo, desde a fundação.
+
+NAO USE QUANDO
+--------------
+Não tente vedar apenas por dentro se a água vem de fora sob
+pressão: a parede pode estourar. Não impermeabilize sobre
+superfície com mofo sem limpar e secar antes. Não use produto
+químico sem saber como ele reage com o material da parede.
+
+MATERIAIS
+---------
+- Barro argiloso bem amassado ou massa de cal e areia.
+- Lona plástica, polietileno ou betume para barreira (tinta
+   impermeabilizante).
+- Pincel, rolo ou escova para aplicar a camada.
+- Pá, enxada e balde para preparar a argamassa.
+- Cascalho e pedra para camada drenante externa.
+- Régua e cordão para conferir a inclinação do piso.
+- Espátula para preencher rachaduras e juntas.
+
+PROCEDIMENTO
+------------
+1. Identifique por onde a água entra: teto, parede ou piso.
+2. Observe depois da chuva e marque os pontos com pedra.
+3. Retire terra, mofo e material solto da área afetada.
+4. Escove a superfície até ficar firme e limpa.
+5. Abra as rachaduras com espátula para receber a massa.
+6. Umedeça a parede antes de aplicar argamassa de barro ou cal.
+7. Preencha frestas com massa e alise com a espátula.
+8. Deixe secar conforme o material e repita se ainda houver
+   retração.
+9. Aplique lona ou barreira impermeável na face externa da
+   parede, quando possível.
+10. Sobreponha as emendas da lona em alguns centímetros.
+11. Proteja a barreira com cascalho ou pedra antes de cobrir
+   com terra.
+12. Faça valeta externa para desviar a água da fundação.
+13. Coloque cascalho sob o piso e dê inclinação para um ralo.
+14. Vede também a junção entre parede e piso, ponto comum de
+   vazamento.
+15. Cubra o teto com camada impermeável antes da terra de
+   cobertura.
+16. Espere a cura completa antes de guardar alimentos no local.
+17. Reinspecione após a primeira chuva forte.
+
+ATENCAO
+-------
+Impermeabilizar só por dentro pode empurrar a umidade para
+outra parede e criar mofo escondido.
+Lona exposta ao sol apodrece rápido: cubra sempre com terra
+ou pedra.
+Argamassa aplicada sobre superfície molhada não adere.
+Barro racha ao secar se a camada for muito espessa.
+Ralo entupido devolve água para o piso: limpe com frequência.
+Se a água entrar sob pressão, procure drenar antes de vedar.
+Não use betume em lugar com fogo ou calor intenso sem
+ventilação.
+
+SE NAO TIVER
+------------
+Sem lona, use camadas de barro argiloso bem socado e renove.
+Sem cal, prepare massa de barro com areia e palha picada.
+Sem cascalho, use pedra miúda para a camada drenante.
+Sem ralo, faça valeta rasa que leve a água para fora.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Não há goteiras nem manchas novas após a chuva.
+As paredes internas estão secas ao toque e sem mofo.
+A valeta externa escoa e o ralo não entope.
+As juntas e rachaduras permanecem preenchidas e firmes.
+
+FONTES
+------
+Prática construtiva de impermeabilização de construções
+enterradas, resumida de manuais de construção rural e de
+técnicas tradicionais com barro, cal e drenagem. Para obra
+grande ou água sob pressão, procure orientação técnica.

@@ -1,0 +1,91 @@
+==============================================================================
+CODIGO: 69-011
+TITULO: Como construir uma fonte linear
+CATEGORIA: 69 - Eletrônica analógica e componentes discretos
+TEMPO: 3 horas
+RISCO: critico
+EXIGE: transformador isolado, multímetro, ferro de solda, dissipador
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fonte, linear, regulador, tensão, solda, carregador
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma fonte que gera tensão contínua baixa e estável.
+
+QUANDO USAR
+-----------
+Quando o aparelho precisa de tensão contínua estável e não há fonte.
+Quando há transformador isolado e regulador linear disponíveis.
+Para alimentar circuitos de baixa potência em bancada de serviço.
+Quando ruído de fontes chaveadas atrapalha o circuito.
+
+NAO USE QUANDO
+--------------
+Quando faltar transformador com isolamento entre a rede e a saída.
+Quando a corrente pedida passar do limite do regulador e do transformador.
+Para motores, aquecedores ou aparelhos de alta potência.
+Sem multímetro para medir a tensão antes de ligar a carga.
+
+MATERIAIS
+---------
+- Transformador de rede com isolamento; secundário de 9 V ou 12 V CA.
+- Fusível no primário, de valor compatível com o transformador.
+- Ponte retificadora ou quatro diodos de corrente suficiente.
+- Capacitor eletrolítico de filtro, com tensão acima do secundário.
+- Regulador linear 78xx ou LM317; confira a tensão no datasheet.
+- Capacitores pequenos de 0,33 uF na entrada e 0,1 uF na saída.
+- Dissipador de calor para o regulador.
+- Multímetro, ferro de solda, estanho, fios isolados e caixa plástica.
+- Interruptor, ficha de entrada e conector de saída.
+
+PROCEDIMENTO
+------------
+1. Desligue a tomada e confirme com o multímetro que não há tensão.
+2. Confira a pinagem do regulador no datasheet do fabricante.
+3. Use transformador de 9 V para 5 V ou 12 V para 12 V, aproximadamente.
+4. Prenda o transformador e o dissipador dentro da caixa plástica.
+5. Ligue fusível e interruptor em série com o primário do transformador.
+6. Passe os fios do primário até a ficha e isole cada emenda com fita.
+7. Ligue os fios do secundário à entrada CA da ponte retificadora.
+8. Ligue a saída CC da ponte ao capacitor de filtro, com o sinal certo.
+9. Ligue o capacitor de 0,33 uF entre a entrada do regulador e o terra.
+10. Ligue o capacitor de 0,1 uF entre a saída do regulador e o terra.
+11. Ligue entrada, terra e saída do regulador conforme a pinagem.
+12. Prenda o regulador ao dissipador com arruela isolante.
+13. Ligue o conector de saída e confira a polaridade dos eletrolíticos.
+14. Feche a caixa e só então ligue a fonte sem nenhuma carga.
+15. Meça a tensão de saída com o multímetro antes de ligar o aparelho.
+
+ATENCAO
+-------
+O contato com a tensão da rede, 110 V ou 220 V, pode matar por choque.
+Nunca abra a caixa nem toque no primário com a fonte ligada.
+Desligue e espere os capacitores descarregarem antes de reajustar; meça.
+Eletrolítico invertido pode estourar e espirrar líquido quente.
+O regulador e o dissipador esquentam: não toque e deixe ventilação.
+Sem fusível, ou com fusível errado, a fonte pode pegar fogo.
+Fonte sem transformador não tem isolamento: nunca construa nem use.
+Tensão de saída errada queima o aparelho; meça sempre antes de ligar.
+
+SE NAO TIVER
+------------
+Sem regulador, a tensão oscila: não alimente circuito sensível.
+Sem dissipador, reduza a corrente; se esquentar, pare.
+Sem transformador isolado, não improvise: use uma fonte comercial.
+Sem multímetro, não energize; peça um emprestado antes de continuar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Sem carga, o multímetro mostra a tensão prevista e firme.
+Ao ligar a carga prevista, a tensão não cai de forma visível.
+Regulador e transformador esquentam, mas não cheiram a queimado.
+Nenhuma parte externa da caixa apresenta tensão ao multímetro.
+
+FONTES
+------
+Prática consolidada de montagem de fontes lineares, sem documento único.
+Pinagem e filtragem seguem os datasheets de 78xx e LM317.
+Consultar o datasheet do componente antes de soldar é obrigatório.
+Regras de isolamento e fusível vêm de práticas de segurança elétrica.
+Resumo operacional: não substitui treinamento nem o datasheet.

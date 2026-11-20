@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 04-014
+TITULO: Como limpar e conservar painéis solares
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: inversor desligado, escada firme, dia seco e sem vento forte
+REVISAO: 2026-11
+PALAVRAS-CHAVE: painel solar, placa solar, limpeza, sujeira, geração
+==============================================================================
+
+OBJETIVO
+--------
+Recuperar a geração dos painéis com limpeza segura e inspeção
+simples, sem danificar o vidro nem os cabos.
+
+QUANDO USAR
+-----------
+Quando a geração cair e houver poeira visível sobre o vidro.
+Após poeira de obra, queimada, pólen ou fezes de aves.
+Quando a chuva fraca não removeu a sujeira acumulada.
+Na revisão de rotina, aproximadamente uma ou duas vezes por ano.
+
+NAO USE QUANDO
+--------------
+Sob chuva, com raios, com vento forte ou com telhado molhado.
+Com vidro trincado, cabo exposto, conector queimado ou cheiro
+de queimado.
+Se for preciso pisar sobre os painéis ou se apoiar neles.
+À noite sobre telhado alto, sem iluminação e sem ajuda.
+
+MATERIAIS
+---------
+- Água limpa em balde (água de chuva decantada ou filtrada).
+- Esponja macia ou pano de microfibra (escova macia de cerdas).
+- Rodo de borracha com cabo longo (pano seco e limpo).
+- Sabão neutro diluído, só para sujeira grudada (só água).
+- Luvas de borracha e calçado fechado antiderrapante.
+- Escada firme e óculos de proteção.
+
+PROCEDIMENTO
+------------
+1. Desligue o sistema no inversor e no disjuntor da geração solar.
+2. Faça a limpeza de manhã cedo ou no fim da tarde, com painel frio.
+3. Observe de baixo: procure trinca, mancha escura, cabo solto ou ninho.
+4. Firme a escada em piso plano e peça ajuda para segurá-la.
+5. Molhe o vidro com água limpa, sem jato forte e sem alta pressão.
+6. Passe a esponja macia em linha reta, sem esfregar com força.
+7. Para sujeira grudada, use pouco sabão neutro e enxágue bem.
+8. Puxe a água com o rodo de borracha, do alto para baixo.
+9. Seque as bordas e limpe a moldura sem molhar conectores e cabos.
+10. Retire folhas e galhos de baixo dos painéis com a mão enluvada.
+11. Ligue o sistema e anote a geração para comparar nos dias seguintes.
+12. Registre trincas e pontos quentes para reparo técnico depois.
+
+ATENCAO
+-------
+O painel com luz gera eletricidade mesmo com o inversor desligado.
+Queda de telhado pode matar: não suba sozinho nem sem escada firme.
+Água com cabo danificado dá choque grave: pare se vir faísca ou
+sentir cheiro de queimado.
+Nunca use jato de alta pressão, água quente em vidro quente ou
+material abrasivo: o vidro trinca e o selo estraga.
+Nunca pise nem se apoie nos painéis: o vidro quebra e não
+aguenta o peso de uma pessoa.
+Limpeza não conserta trinca, infiltração nem inversor parado;
+nesses casos desligue e chame ajuda técnica.
+
+SE NAO TIVER
+------------
+Sem esponja, use pano de algodão limpo e macio, sem botão ou zíper.
+Sem rodo, enxágue bem e deixe secar no fim da tarde.
+Sem sabão neutro, use só água e repita a passada suave.
+Sem escada segura, limpe só o que alcança do chão com cabo longo.
+Não use palha de aço, solvente nem limpador de vidro forte.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Vidro limpo, sem manchas, sem fiapos e sem água presa na moldura.
+Geração volta a subir em dia de sol parecido, sem falha no inversor.
+Sem trinca nova, sem cabo molhado e sem cheiro de queimado.
+
+FONTES
+------
+Práticas de operação e manutenção fotovoltaica do NREL;
+orientações gerais de fabricantes de módulos; prática consolidada
+de segurança em eletricidade e trabalho em altura.

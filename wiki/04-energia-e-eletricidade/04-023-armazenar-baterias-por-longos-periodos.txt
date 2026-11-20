@@ -1,0 +1,81 @@
+==============================================================================
+CODIGO: 04-023
+TITULO: Como armazenar baterias por longos períodos
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: local fresco e seco, fita isolante, caixa plastica
+REVISAO: 2026-11
+PALAVRAS-CHAVE: baterias, pilhas, armazenar, conservar, carga, vazamento
+==============================================================================
+
+OBJETIVO
+--------
+Manter pilhas e baterias guardadas por meses sem vazamento,
+incendio ou perda total da carga.
+
+QUANDO USAR
+-----------
+Quando for guardar pilhas alcalinas e recarregaveis por meses.
+Quando for guardar bateria de lanterna, radio ou controle.
+Quando for guardar bateria de celular ou notebook sem uso.
+Quando for guardar bateria de carro ou de sistema solar.
+
+NAO USE QUANDO
+--------------
+Em bateria estufada, rachada, quente ou com cheiro forte.
+Em bateria com vazamento de liquido ou po branco nos terminais.
+Em local com risco de alagamento ou perto de fonte de calor.
+
+MATERIAIS
+---------
+- Fita isolante ou fita adesiva comum.
+- Caixa plastica com tampa e sem partes metalicas (pote plastico).
+- Saco plastico com fecho para separar por tipo.
+- Pano seco e luvas de borracha (saco plastico na mao).
+- Etiqueta e caneta para marcar data e carga.
+
+PROCEDIMENTO
+------------
+1. Retire as baterias dos aparelhos antes de guardar.
+2. Limpe os contatos com pano seco ate tirar poeira e umidade.
+3. Separe por tipo: alcalina, recarregavel, litio e chumbo-acida.
+4. Cubra os terminais com fita isolante para evitar curto.
+5. Guarde litio com aproximadamente metade da carga, nunca cheia.
+6. Guarde alcalinas com carga total em local fresco e seco.
+7. Coloque cada tipo em saco separado com etiqueta de data.
+8. Acomode sem empilhar peso sobre as baterias.
+9. Afaste de moedas, chaves, pregos e ferramentas metalicas.
+10. Revise a carga aproximadamente a cada 3 meses.
+11. Recarregue as recarregaveis quando estiverem quase vazias.
+12. Leve a bateria estufada ou vazando para coleta propria.
+
+ATENCAO
+-------
+Curto entre terminais pode causar calor intenso e incendio.
+Nunca guarde baterias soltas com objetos de metal no mesmo pote.
+Bateria estufada, quente ou com cheiro pode incendiar: isole e
+afaste de material inflamavel sem furar ou apertar.
+Acido de bateria queima pele e olhos; use luvas e nao toque no
+liquido vazado sem protecao.
+Nao carregue bateria danificada nem tente recuperar bateria morta.
+Este procedimento nao ressuscita bateria esgotada, so conserva a
+carga de bateria boa por mais tempo.
+
+SE NAO TIVER
+------------
+Sem fita isolante, cubra cada terminal com fita adesiva comum.
+Sem caixa plastica, use caixa de papelao seca longe de umidade.
+Sem etiqueta, escreva data e tipo em papel preso com fita.
+Sem luvas, use saco plastico na mao e lave as maos apos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os terminais seguem limpos, sem po branco ou ferrugem.
+As baterias funcionam no aparelho apos meses guardadas.
+Nao ha cheiro forte, calor, estufamento ou vazamento.
+
+FONTES
+------
+Pratica consolidada de conservacao de pilhas e baterias, sem
+documento unico.

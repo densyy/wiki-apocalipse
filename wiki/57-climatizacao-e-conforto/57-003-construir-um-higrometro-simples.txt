@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 57-003
+TITULO: Como construir um higrômetro simples
+CATEGORIA: 57 - Refrigeração, climatização e conforto
+TEMPO: 40 minutos
+RISCO: baixo
+EXIGE: dois termômetros iguais, algodão, água limpa, prancha, cordão
+REVISAO: 2026-11
+PALAVRAS-CHAVE: higrômetro, umidade, ar, psicrômetro, termômetro
+==============================================================================
+
+OBJETIVO
+--------
+Montar um higrômetro de bulbo seco e úmido (psicrômetro) para estimar a
+umidade relativa do ar sem aparelho pronto.
+
+QUANDO USAR
+-----------
+Quando precisar saber se o ar está seco ou úmido antes de secar grãos.
+Quando não houver aparelho pronto e houver dois termômetros disponíveis.
+
+NAO USE QUANDO
+--------------
+Quando os termômetros não forem iguais ou não puderem ser lidos juntos.
+Com temperatura abaixo de 0 graus Celsius, a água do algodão congela.
+
+MATERIAIS
+---------
+- Dois termômetros iguais, com a mesma escala.
+- Algodão limpo e linha de algodão para enrolar um dos bulbos.
+- Água limpa, de preferência destilada, em recipiente pequeno.
+- Prancha rígida de madeira ou papelão e cordão para girar.
+- Tabela psicrométrica, se quiser a umidade em porcentagem.
+
+PROCEDIMENTO
+------------
+1. Confira se os dois termômetros marcam a mesma temperatura na sombra.
+2. Prenda os dois na prancha, um ao lado do outro, com a escala legível.
+3. Enrole algodão limpo no bulbo de um deles e prenda com a linha.
+4. Molhe o algodão com água limpa, sem deixar escorrer sobre a escala.
+5. Coloque a prancha na sombra, longe de sol, fogo e paredes quentes.
+6. Espere alguns minutos até as duas leituras pararem de mudar.
+7. Gire a prancha pelo cordão por aproximadamente 1 a 3 minutos.
+8. Pare sem tocar nos bulbos e leia os dois termômetros logo em seguida.
+9. Anote a temperatura do ar e a do bulbo úmido; calcule a diferença.
+10. Com tabela psicrométrica, cruze as duas leituras e leia a umidade.
+
+ATENCAO
+-------
+Mantenha o algodão molhado: se secar, o ar parece mais úmido do que é.
+Use água limpa, de preferência destilada; água salgada erra a medição.
+Não toque nos bulbos: o calor do corpo altera a leitura.
+Leia na sombra e com ar em movimento; sem ventilação o bulbo não esfria.
+A tabela muda com a altitude; use a da sua altitude ou a mais próxima.
+
+SE NAO TIVER
+------------
+Sem o segundo termômetro, não monte este aparelho: use outro instrumento.
+Sem tabela psicrométrica, fique só com a comparação entre as duas leituras.
+Sem água destilada, use a mais limpa e marque a leitura como aproximada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Com o algodão molhado, o termômetro úmido marca igual ou menos que o seco.
+Depois de girar, o úmido fica mais frio que o seco quando o ar é seco.
+
+FONTES
+------
+Prática consolidada de medição com psicrômetro de bulbo seco e úmido.
+Referências: Circular 512, Bureau of Standards, Guia da OMM, NOAA e GLOBE.

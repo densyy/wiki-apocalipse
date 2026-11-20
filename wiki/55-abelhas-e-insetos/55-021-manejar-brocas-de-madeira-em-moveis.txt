@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 55-021
+TITULO: Como manejar brocas de madeira em móveis
+CATEGORIA: 55 - Entomologia, apicultura e pequenos organismos
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: lanterna, lupa de mão, pano, luva, borato, saco plástico
+REVISAO: 2026-11
+PALAVRAS-CHAVE: broca, móveis, caruncho, furo, serragem, borato, umidade
+==============================================================================
+
+OBJETIVO
+--------
+Avaliar e controlar brocas de madeira em peças de móvel.
+
+QUANDO USAR
+-----------
+Ao achar furos redondos e pó fino em móvel de madeira maciça.
+Ao ouvir ruído de raspagem dentro da madeira na primavera.
+Ao comprar móvel usado ou antiquário com furos suspeitos.
+Ao notar serragem fresca debaixo de uma peça de madeira.
+
+NAO USE QUANDO
+--------------
+Nao use em vigas, assoalho ou madeira estrutural: chame profissional.
+Nao use para afirmar que a casa esta livre de brocas.
+Nao use fumigação caseira nem inseticida agrícola dentro de casa.
+
+MATERIAIS
+---------
+- Lanterna e lupa de mão (opcional) para ver os furos.
+- Pano seco e escova para recolher o pó.
+- Saco plástico e luva para manusear a peça e o pó.
+- Produto à base de borato (tratamento) ou verniz (vedação).
+- Higrômetro para medir a umidade do local (opcional).
+
+PROCEDIMENTO
+------------
+1. Afaste a peça da parede e ilumine com a lanterna.
+2. Meça os furos: redondos, de aproximadamente 0,8 a 3 mm.
+3. Passe o pano e limpe todo o pó ao redor dos furos.
+4. Espere aproximadamente duas semanas e observe se o pó volta.
+5. Pó fresco que reaparece indica infestação ativa.
+6. Anote a quantidade de furos e onde eles estão na peça.
+7. Reduza a umidade do ambiente com ventilação ou desumidificador.
+8. Para peça pequena, congele a aproximadamente -18 C por 72 horas.
+9. Para peça que cabe no forno, aqueça a aproximadamente 55 C por 6 horas.
+10. Retire verniz ou tinta da parte atacada antes de aplicar borato.
+11. Aplique o borato na madeira crua seguindo o rótulo do produto.
+12. Use luva e máscara; mantenha crianças e animais afastados.
+13. Deixe secar e vedo a superfície com verniz ou tinta depois.
+14. Se a infestação for grande, descarte a peça em aterro sanitário.
+
+ATENCAO
+-------
+A presença de pó sozinha nao prova que as brocas ainda estao ativas.
+O pó pode continuar caindo meses depois de a infestação ter parado.
+Aguarde antes de tratar: as larvas demoram a crescer e a emergir.
+Borato é veneno: nao use em superfície de preparo de alimentos.
+Nunca improvise dose de inseticida; siga o rótulo do produto.
+Fumigação mata brocas, mas exige profissional e nao protege depois.
+Calor pode rachar a madeira e danificar verniz; teste em parte escondida.
+Fontes divergem sobre temperatura e tempo de calor e de frio.
+Se o ataque atingir vigas ou assoalho, pare e chame profissional.
+
+SE NAO TIVER
+------------
+Sem borato, remova a peça infestada e leve ao aterro sanitário.
+Sem freezer ou forno, procure tratamento térmico ou fumigação.
+Sem lupa, observe a olho nu e anote o tamanho aproximado dos furos.
+Sem higrômetro, ventile o local e evite contato da madeira com o solo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Depois da limpeza, nao aparece pó fresco novo nos furos.
+Nao surgem furos novos apos o periodo de observação.
+A umidade do local caiu e a madeira foi vedada.
+Nao se ouve mais ruído de raspagem dentro da peça.
+
+FONTES
+------
+Iowa State University Extension: powderpost beetles e manejo.
+University of Maryland Extension: wood-boring beetles em móveis.
+Penn State Extension e Wisconsin Extension: powderpost beetles.
+Texas A&M AgriLife e NC State Extension: controle de brocas da madeira.
+UC IPM (University of California): tratamento térmico e congelamento.
+U.S. EPA: rótulo de borato para tratamento de madeira.

@@ -1,0 +1,72 @@
+==============================================================================
+CODIGO: 51-016
+TITULO: Como calcular torque
+CATEGORIA: 51 - Matemática aplicada à sobrevivência
+TEMPO: 25 minutos
+RISCO: baixo
+EXIGE: força aplicada, distância do eixo, caderno, lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: torque, momento, força, alavanca, braço, newton, aperto
+==============================================================================
+
+OBJETIVO
+--------
+Calcular o torque que uma força exerce ao redor de um eixo ou apoio.
+
+QUANDO USAR
+-----------
+Quando precisar saber se uma alavanca é longa o bastante para girar algo.
+Quando quiser comparar o aperto de duas chaves ou de dois parafusos.
+Quando precisar equilibrar cargas em uma barra apoiada em um ponto.
+
+NAO USE QUANDO
+--------------
+Quando o resultado for base única para içar pessoa ou carga sobre outras
+pessoas; nesse caso use equipamento certificado.
+Quando não houver forma de medir a força nem a distância até o eixo.
+
+MATERIAIS
+---------
+- Caderno e lápis para anotar as contas.
+- Fita métrica ou régua para medir o braço da alavanca.
+- Valor da força em newtons, conhecido ou calculado pela massa.
+
+PROCEDIMENTO
+------------
+1. Escreva a fórmula: T = F x d, torque é força vezes braço de alavanca.
+2. Escolha o eixo de rotação ou o ponto de apoio da alavanca.
+3. Meça d, do eixo até o ponto onde a força é aplicada, em metros.
+4. Anote F, a força em newtons, abreviado N.
+5. Se a força for perpendicular à alavanca, use o valor medido de d.
+6. Se não for, multiplique pelo seno: T = F x d x seno do ângulo.
+7. Use senos aproximados: 90 graus vale 1; 60 graus, 0,87; 45 graus, 0,71.
+8. Multiplique F por d pelo seno: o resultado é o torque em newton-metro.
+9. Exemplo: 20 N a 0,5 m dão 10 N.m com força perpendicular.
+10. Para equilíbrio, iguale os torques que giram em sentidos opostos.
+11. Para aumentar o torque sem mudar a força, aumente o braço da alavanca.
+
+ATENCAO
+-------
+Errar o braço ou a unidade muda o resultado e pode romper a alavanca.
+Newton-metro não é newton: o torque inclui a distância; confira a conta.
+Se a linha de força passa pelo eixo, o torque é zero mesmo com força grande.
+A fórmula vale para força constante e alavanca rígida, sem atrito.
+Não dimensione equipamento de segurança só por este cálculo; use margem.
+
+SE NAO TIVER
+------------
+Sem fita, meça o braço com um cordão de 1 metro marcado no corpo.
+Sem newtons, multiplique a massa em kg por 9,8 (veja 51-015).
+Sem seno, use só força perpendicular e marque o valor como estimado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A conta terminou em newton-metro, não em newton nem em quilograma.
+O resultado é a força multiplicada pela distância perpendicular ao eixo.
+Dobrando o braço com a mesma força, o torque dobra.
+
+FONTES
+------
+Conceito básico de física: torque, ou momento de força, é força vezes braço
+de alavanca; a unidade newton-metro é definida no Sistema Internacional.
+Prática consolidada, sem documento único; não substitui treinamento.

@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 72-004
+TITULO: Como construir iluminação centralizada em corrente contínua
+CATEGORIA: 72 - Sistemas de iluminação e óptica aplicada
+TEMPO: 150 minutos
+RISCO: alto
+EXIGE: fonte CC, fios de cobre, fusíveis, LED, caixa, multímetro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: luz, iluminação, corrente contínua, cc, fusível, led
+==============================================================================
+
+OBJETIVO
+--------
+Montar um quadro que alimenta várias luminárias LED com uma fonte CC.
+
+QUANDO USAR
+-----------
+Quando não há rede elétrica e existe bateria ou painel solar.
+Quando vários ambientes precisam de luz vinda de uma só fonte.
+Quando se quer desligar e proteger cada ambiente separadamente.
+
+NAO USE QUANDO
+--------------
+Quando não houver fonte CC isolada e de baixa tensão disponível.
+Quando houver gás inflamável ou vapor no ambiente: faísca pode inflamar.
+Quando não for possível medir a tensão com multímetro antes de ligar.
+
+MATERIAIS
+---------
+- Fonte CC de baixa tensão: bateria ou painel com controlador.
+- Caixa plástica rígida com tampa para servir de quadro.
+- Fusíveis CC: um geral e um para cada ramal.
+- Bornes ou barramento de cobre para as conexões.
+- Fios de cobre isolados, com bitola para a corrente de cada ramal.
+- Interruptores simples, um para cada ambiente.
+- Luminárias LED próprias para baixa tensão.
+- Resistor em série, se o LED não tiver resistor próprio.
+- Terminais, fita isolante, abraçadeiras e parafusos.
+- Multímetro para medir tensão e continuidade.
+
+PROCEDIMENTO
+------------
+1. Desconecte a fonte antes de começar qualquer montagem.
+2. Meça a tensão da fonte com o multímetro e anote o valor.
+3. Fixe a caixa do quadro na parede, longe de umidade e calor.
+4. Parafuse os bornes ou o barramento dentro da caixa.
+5. Coloque o fusível geral no polo positivo da fonte.
+6. Ligue o polo positivo da fonte na entrada do fusível geral.
+7. Ligue a saída do fusível geral ao barramento positivo.
+8. Ligue o polo negativo da fonte ao barramento negativo.
+9. Some a corrente dos LED de um ambiente para achar a do ramal.
+10. Coloque um fusível por ramal no barramento positivo.
+11. Escolha o fio do ramal com bitola para aquela corrente.
+12. Passe o fio do ramal até o interruptor do ambiente.
+13. Ligue o interruptor no fio positivo do ramal.
+14. Ligue a saída do interruptor até o ponto de luz.
+15. Ligue o LED ao positivo e ao negativo do ramal.
+16. Coloque o resistor em série se o LED não tiver resistor.
+17. Fixe a luminária com suporte firme, longe de papel e tecido.
+18. Isole cada emenda com fita, sem cobre exposto.
+19. Feche a tampa do quadro, deixando os interruptores acessíveis.
+20. Reconecte a fonte e meça a tensão no barramento.
+21. Feche um interruptor por vez e veja cada LED acender.
+
+ATENCAO
+-------
+- Baixa tensão CC raramente dá choque, mas curto gera calor e incêndio.
+- Nunca ligue este sistema à rede elétrica: use só fonte isolada.
+- Fusível errado não protege: ele deve desarmar antes do fio esquentar.
+- Fio fino com corrente alta derrete a isolação e pode pegar fogo.
+- Polaridade invertida queima o LED e pode danificar a bateria.
+- Bateria de chumbo-ácido libera gás inflamável: ventile e evite faísca.
+- Desconecte a fonte antes de mexer em qualquer emenda.
+- Se fio ou quadro esquentar, cheirar a queimado ou soltar fumaça,
+  desligue tudo e não volte a usar até encontrar o defeito.
+
+SE NAO TIVER
+------------
+- Sem fusível: reduza o número de LED e use fio mais grosso, mas saiba
+  que isso não substitui a proteção do fusível.
+- Sem caixa própria: use caixa plástica rígida com tampa firme.
+- Sem multímetro: não ligue; peça ajuda a quem saiba medir tensão.
+- Sem LED de baixa tensão: não adapte lâmpada da rede elétrica.
+- Sem bateria: use fonte CC certificada e isolada de baixa tensão.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- O multímetro mostra a tensão esperada no barramento com tudo ligado.
+- Cada interruptor acende e apaga só a luminária do seu ambiente.
+- Fios, fusíveis e quadro permanecem frios após 10 minutos de uso.
+- Nenhum LED pisca quando outro ramal é ligado ou desligado.
+
+FONTES
+------
+Prática consolidada de instalação elétrica de baixa tensão em corrente
+contínua e de recuperação de peças. Normas de instalações elétricas de
+baixa tensão e manuais militares de sobrevivência civil descrevem
+quadros de distribuição e proteção por fusível. Resumo operacional,
+que não substitui treinamento nem instalação feita por profissional.

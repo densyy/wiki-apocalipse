@@ -1,0 +1,88 @@
+==============================================================================
+CODIGO: 87-002
+TITULO: Como construir um moinho de vento
+CATEGORIA: 87 - Energia mecânica e hidráulica tradicionais
+TEMPO: 420 minutos
+RISCO: medio
+EXIGE: local ventoso, torre, hélice, eixo e transmissão
+REVISAO: 2026-11
+PALAVRAS-CHAVE: moinho, vento, hélice, torre, moagem, cata-vento
+==============================================================================
+
+OBJETIVO
+--------
+Construir um moinho que transforme o vento em movimento para moer grãos.
+
+QUANDO USAR
+-----------
+Quando o local recebe vento constante e sem obstruções altas.
+Quando não há córrego com queda para um moinho de água.
+Quando se quer moer grãos sem combustível nem água corrente.
+Quando a torre pode ser erguida em terreno firme e aberto.
+
+NAO USE QUANDO
+--------------
+Não construa onde o vento sopra só de vez em quando.
+Não construa perto de árvores altas, prédios ou morros que barram o vento.
+Não erga torre alta em solo mole, alagado ou sujeito a vendavais.
+
+MATERIAIS
+---------
+- Madeira para a torre, a caixa e os suportes da hélice.
+- Tábuas leves ou lona resistente para as velas da hélice.
+- Eixo principal e dois mancais de madeira dura ou metal.
+- Rodas dentadas ou correntes para transmitir o giro.
+- Pedras de moer com furo central combinado.
+- Pregos, parafusos, corda de fibra e graxa vegetal.
+- Estacas e pedras para firmar os pés da torre.
+
+PROCEDIMENTO
+------------
+1. Observe o vento por vários dias e marque a direção mais constante.
+2. Escolha ponto aberto, longe de árvores e prédios altos.
+3. Cave e encha com pedra os quatro pés da base da torre.
+4. Erga a torre com quatro pernas inclinadas e travessas.
+5. Prenda cada pé com estaca e pedra para resistir ao vento.
+6. Confira a torre com nível e corrija qualquer empeno.
+7. Monte a caixa no topo e fixe-a com travessas diagonais.
+8. Encaixe o eixo principal nos mancais da caixa.
+9. Monte a hélice com pás leves inclinadas como uma hélice de barco.
+10. Prenda as velas com corda para poder regulá-las depois.
+11. Enganche a transmissão do eixo até a pedra de moer.
+12. Gire a hélice com a mão para conferir se nada arranha.
+13. Solte as velas e observe o sentido de rotação da hélice.
+14. Ajuste a inclinação das pás até o giro ficar regular.
+15. Despeje grãos no funil e verifique a saída de farinha.
+16. Regule a distância entre as pedras para o grão desejado.
+17. Anote a direção do vento e o rendimento de cada dia.
+
+ATENCAO
+-------
+A hélice gira sem aviso quando o vento aumenta: mantenha distância.
+Antes de subir à torre, trave a hélice com corda ou cunha de madeira.
+Use cinto de segurança e nunca suba com vento forte ou chuva.
+Roupas largas e cabelos podem enrolar no eixo e ferir a pessoa.
+Se a torre balançar ou estalar, desça e reforce as travessas.
+Em vendaval, trave a hélice e esvazie o funil de grãos.
+Nunca deixe a torre sem manutenção por muito tempo.
+
+SE NAO TIVER
+------------
+Sem pedras de moer, use mós de pedra de rio com face áspera.
+Sem engrenagens, use duas rodas com correia de couro cru.
+Sem lona para velas, use tábuas finas de madeira leve.
+Sem mancais de metal, use madeira dura com graxa de sebo.
+Sem torre alta, monte o moinho sobre um telhado reforçado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A hélice gira suave e vira para o vento sem ajuda.
+O eixo transmite o giro sem estalos e sem aquecer.
+A farinha sai uniforme quando o vento está constante.
+A torre não balança além de um leve movimento normal.
+
+FONTES
+------
+Prática consolidada de moinhos de vento de madeira usados em
+comunidades rurais e ilhas. Base em manuais de energia eólica de
+pequeno porte e em relatos de cata-ventos tradicionais.

@@ -1,0 +1,107 @@
+==============================================================================
+CODIGO: 63-022
+TITULO: Como realizar limpeza terminal de ambientes
+CATEGORIA: 63 - Microbiologia, parasitologia e contaminação
+TEMPO: 45 minutos
+RISCO: alto
+EXIGE: luvas, avental, máscara, desinfetante, panos, saco de lixo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: limpeza terminal, desinfecção, quarto, germe, contágio
+==============================================================================
+
+OBJETIVO
+--------
+Remover e matar germes de um quarto depois que a pessoa doente saiu,
+para que outra pessoa entre com menos risco de contágio.
+
+QUANDO USAR
+-----------
+Depois da alta, transferência ou morte de pessoa em isolamento.
+Depois de sintomas de doença contagiosa em casa ou em ala.
+Ao preparar leito, quarto ou banheiro para novo ocupante.
+Após procedimento que respingou sangue ou secreção no ambiente.
+Antes de reocupar área usada por pessoa com infecção resistente.
+
+NAO USE QUANDO
+--------------
+Não use para limpeza de rotina diária sem caso suspeito.
+Não substitui esterilização de instrumentos cirúrgicos.
+Se houver po, mofo intenso ou risco químico, não entre sem equipe.
+Pessoa com alergia ou doença respiratória não deve manipular hipoclorito.
+Não use desinfetante em couro, madeira sem tratamento ou tecido delicado.
+
+MATERIAIS
+---------
+- Luvas descartáveis (ou luvas domésticas de borracha).
+- Avental ou capa de pano limpo (camisa velha reservada serve).
+- Máscara facial e óculos ou protetor facial se houver respingo.
+- Panos limpos descartáveis ou de algodão reservados para desinfetar.
+- Detergente neutro e água corrente.
+- Hipoclorito de sódio pronto a 0,1% (1000 ppm) ou álcool 70%.
+- Hipoclorito a 0,5% (5000 ppm) para sangue, fezes ou esporos.
+- Saco de lixo, pinça para recolher resíduo e recipiente tampado.
+- Roupas de cama e toalhas limpas para substituir as usadas.
+
+PROCEDIMENTO
+------------
+1. Isole o ambiente: feche a porta e impeça a entrada de outras pessoas.
+2. Vista luvas, avental, máscara e óculos antes de tocar em qualquer coisa.
+3. Abra portas e janelas para ventilar; não use ventilador que sopre po.
+4. Retire lixo, roupa de cama e toalhas usadas sem sacudi-las.
+5. Coloque resíduo com sangue ou fezes em saco separado e feche.
+6. Retire o material visível com papel ou pano descartável.
+7. Lave a superfície com água, detergente e pano ou escova.
+8. Esfregue do alto para baixo e do mais limpo para o mais sujo.
+9. Enxágue com pano limpo e úmido para retirar o detergente.
+10. Aplique desinfetante em toda a superfície, sem deixar ponto seco.
+11. Mantenha molhado por pelo menos 1 minuto, ou siga o tempo do rótulo.
+12. Use hipoclorito a 0,5% em sangue, fezes, vômito ou suspeita de esporos.
+13. Troque de pano ao passar de uma área para outra, como o banheiro.
+14. Desinfete maçanetas, interruptores, corrimãos, controles e torneiras.
+15. Limpe o banheiro por último: pia, vaso, chão e ralos.
+16. Troque a roupa de cama e as toalhas por peças limpas.
+17. Deixe o ambiente secar ao ar antes de permitir a entrada.
+18. Feche o saco de lixo, retire as luvas e lave as mãos com água e sabão.
+19. Guarde os panos usados para lavar ou descarte; não leve a outra área.
+20. Anote data, local e produto usado no registro da unidade.
+
+ATENCAO
+-------
+Limpar tira sujeira; desinfetar mata germes. Faça as duas etapas.
+Desinfetante sobre sangue, fezes ou terra pode falhar: limpe primeiro.
+Nunca misture hipoclorito com amônia, ácido ou vinagre: libera gás tóxico.
+Use produto pronto: não calcule diluição sem saber a concentração.
+Hipoclorito irrita olhos e pulmões: ventile e use máscara e óculos.
+Não borrifue desinfetante: o respingo pode atingir olhos e boca.
+Pano contaminado espalha germe; troque-o entre áreas e nunca use no rosto.
+Se respingo de sangue cair em ferida ou olho, lave com água corrente e
+procure ajuda.
+Se aparecerem tosse, dor no peito ou queimação nos olhos, saia, ventile e
+procure ajuda.
+Este texto não substitui protocolo da unidade nem orientação profissional.
+
+SE NAO TIVER
+------------
+Sem hipoclorito, use álcool 70% em superfície limpa e sem matéria orgânica.
+Álcool não mata esporos: para fezes, sangue ou esporos, peça outro produto.
+Sem pano descartável, use pano de algodão lavável e reservado só para isso.
+Sem máscara ou óculos, não manipule hipoclorito nem material com respingo.
+Sem desinfetante, água e sabão reduzem a carga de germes, mas não eliminam.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Não há sujeira, sangue ou secreção visível em nenhuma superfície.
+As superfícies ficaram molhadas pelo tempo indicado e secaram ao ar.
+Maçanetas, interruptores, torneiras e corrimãos estão sem resíduo.
+Roupa de cama e toalhas foram trocadas e o lixo foi fechado e retirado.
+As mãos foram lavadas depois das luvas, sem tocar olhos, nariz ou boca.
+A área está seca, ventilada e liberada para o próximo ocupante.
+
+FONTES
+------
+Resumo operacional de fontes públicas consultadas: Guidelines for
+Environmental Infection Control in Health-Care Facilities (CDC, 2003);
+orientação da OMS sobre prevenção e controle de infecção em serviços de
+saúde (referência WHO 2019-nCoV IPC 2020.4, 2021); prática consolidada
+de limpeza e desinfecção terminal, sem documento único. Texto resumido,
+não substitui treinamento.

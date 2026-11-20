@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 37-014
+TITULO: Como medir distâncias sem trena
+CATEGORIA: 37 - Cartografia, topografia e levantamento
+TEMPO: 20 minutos
+RISCO: medio
+EXIGE: caderno, lápis, trecho conhecido de 100 m em terreno plano
+REVISAO: 2026-11
+PALAVRAS-CHAVE: distância, passo, medir, trena, caderno, aproximado
+==============================================================================
+
+OBJETIVO
+--------
+Obter distâncias aproximadas no terreno contando passos calibrados.
+
+QUANDO USAR
+-----------
+Quando não houver trena, fita métrica ou aparelho de medição.
+Quando precisar medir horta, cerca ou área de acampamento.
+Quando o trajeto permite caminhar em linha reta com segurança.
+
+NAO USE QUANDO
+--------------
+Quando um erro de poucos metros trouxer risco: travessia, barranca
+ou inundação. Não use estimativa em percurso obstruído ou perigoso.
+
+MATERIAIS
+---------
+- Caderno e lápis (qualquer papel e algo para marcar).
+- Trecho reto de 100 m conhecido: marco de quilômetro ou pista oficial.
+- Cordão sem elasticidade e sem nós (fio de sapato serve).
+
+PROCEDIMENTO
+------------
+1. Abra o caderno e vá ao trecho de 100 m em terreno plano.
+2. Conte um passo duplo cada vez que o pé esquerdo tocar o chão.
+3. Caminhe em ritmo normal, sem correr e sem exagerar na passada.
+4. Repita a contagem três vezes e anote os três números.
+5. Some os três números e divida por três para obter a média.
+6. Divida 100 pela média e anote: metros por passo duplo.
+7. Caminhe a distância desconhecida contando passos no mesmo ritmo.
+8. Multiplique o número de passos pelo valor anotado no passo 6.
+9. Escreva o resultado no caderno seguido da palavra "aproximado".
+10. Em curvas, use cordão marcado com nós a cada passo.
+
+ATENCAO
+-------
+Passo calibrado no plano encurta em subida, lama, areia e escuridão.
+Cada pessoa tem passo diferente; mochila e cansaço o mudam: recalibre.
+Erro comum: contar cada pisada e confundir com passo duplo; escolha um.
+O resultado é aproximado: não serve para limites legais ou cercas exatas.
+Se aparecer risco de queda ou afundamento, pare e meça de lugar seguro.
+
+SE NAO TIVER
+------------
+Sem 100 m, use pista ou marco conhecido e divida essa distância pela média.
+Sem caderno, amarre um nó no cordão a cada 10 passos duplos.
+Sem trecho conhecido, não invente calibragem: anote "sem calibragem".
+
+COMO SABER QUE DEU CERTO
+------------------------
+As três contagens de calibragem ficam próximas umas das outras.
+Ao medir de novo o trecho de 100 m, o erro é pequeno.
+
+FONTES
+------
+USGS, "Finding Your Way with Map and Compass", 2001: escala e medição.
+Universidade de Kentucky, FOR-47 "Compass & Pacing", Dra. Deborah B.
+Hill: calibragem do passo em percurso medido e contagens repetidas.
+Prática consolidada de navegação; resumo, não substitui treinamento.

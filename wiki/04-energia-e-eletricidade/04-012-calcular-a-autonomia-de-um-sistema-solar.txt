@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 04-012
+TITULO: Como calcular a autonomia de um sistema solar
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: papel, lápis, dados da bateria e das cargas ligadas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: solar, bateria, autonomia, consumo, energia, conta
+==============================================================================
+
+OBJETIVO
+--------
+Estimar por quantas horas um sistema solar mantém cargas ligadas
+sem sol, a partir da bateria e do consumo.
+
+QUANDO USAR
+-----------
+Quando for preciso saber quanto tempo a carga dura à noite.
+Quando houver corte de energia e for preciso racionar o uso.
+
+NAO USE QUANDO
+--------------
+Não use o resultado para equipamento que mantém a vida.
+Com bateria danificada, não calcule: resolva sem mexer energizado.
+
+MATERIAIS
+---------
+- Papel e lápis (calculadora de celular).
+- Dados da bateria: tensão em V e capacidade em Ah.
+- Lista das cargas com a potência em W de cada uma.
+
+PROCEDIMENTO
+------------
+1. Anote a potência em W de cada carga: W indica o consumo.
+2. Some as potências das cargas que ficam ligadas juntas.
+3. Multiplique a potência total pelas horas ligadas por dia.
+4. Leia na bateria a tensão em V e a capacidade em Ah.
+5. Multiplique V por Ah: o resultado em Wh é a energia guardada.
+6. Aplique a margem útil: aproximadamente metade em chumbo-ácido.
+7. Em lítio, use aproximadamente quatro quintos da energia total.
+8. Divida a energia útil em Wh pela potência total em W.
+9. Anote as horas de autonomia e reserve margem em dia nublado.
+
+ATENCAO
+-------
+Eletricidade mata: faça esta conta no papel, sem abrir caixa
+energizada e sem improvisar em fio ligado à rede.
+Erro de conta deixa o sistema sem carga e estraga alimento
+refrigerado: confirme os números antes de confiar.
+Bateria de chumbo descarregada até o fim perde vida útil;
+respeite a margem útil dos passos 6 e 7.
+Bateria inchada, quente ou vazando: não use o sistema.
+A conta ignora dia nublado e painel sujo ou sombreado:
+a autonomia real é sempre menor que a calculada.
+
+SE NAO TIVER
+------------
+Sem etiqueta, use valor aproximado do fabricante com margem maior.
+Sem dados da bateria, procure a etiqueta: não estime de memória.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O valor em horas é coerente com o uso real em noite sem sol.
+A bateria amanhece dentro da margem útil, sem esgotar.
+
+FONTES
+------
+Prática consolidada de dimensionamento de sistemas
+fotovoltaicos isolados, sem documento único.

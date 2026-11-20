@@ -1,0 +1,93 @@
+==============================================================================
+CODIGO: 43-022
+TITULO: Como fabricar materiais refratários
+CATEGORIA: 43 - Produção de materiais de construção
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: argila refratária, grog, molde, forno, ventilação, luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: refratário, tijolo de forno, argila, grog, lareira, fogo
+==============================================================================
+
+OBJETIVO
+--------
+Produzir tijolos refratários artesanais para revestir fornos e lareiras.
+
+QUANDO USAR
+-----------
+Quando for preciso revestir a câmara de um forno ou de uma lareira.
+Quando uma chaminé ou duto quente precisa de isolamento contra o fogo.
+Quando trocar tijolos danificados for mais barato que comprar novos.
+Quando se constrói um forno de barro ou um forno de cozer pão.
+
+NAO USE QUANDO
+--------------
+Não use como tijolo estrutural: refratário não substitui alvenaria.
+Não use com escória, sal ou química agressiva sem especificação.
+Não use se não houver local externo e ventilado para a queima.
+Não use em contato com alimentos se a argila tiver resíduo desconhecido.
+
+MATERIAIS
+---------
+- Argila refratária (fire clay; em falta, argila de cerâmica limpa).
+- Grog, que é cerâmica moída em grãos (substituto: areia fina lavada).
+- Água limpa.
+- Molde rígido de madeira ou metal, forrado com pano.
+- Pano úmido e espátula ou colher de pau.
+- Forno, fogueira controlada ou chaminé com boa tiragem.
+- Luvas de couro, óculos e manga longa.
+- Local externo, seco e ventilado para secar e queimar.
+
+PROCEDIMENTO
+------------
+1. Separe a argila e retire pedras, raízes e resíduos visíveis.
+2. Misture aproximadamente 3 partes de argila para 1 de grog.
+3. Adicione água aos poucos até a massa ficar firme e não grudar.
+4. Amasse por aproximadamente 10 minutos para eliminar bolhas de ar.
+5. Umedeça o molde com pano úmido e coloque a massa sem vazios.
+6. Pressione os cantos com a espátula e corte o excesso.
+7. Desenforme com cuidado sobre superfície plana e firme.
+8. Repita até ter o número de tijolos necessário.
+9. Seque à sombra, em local ventilado, por aproximadamente 48 horas.
+10. Vire os tijolos a cada 12 horas para secar os dois lados.
+11. Nunca apresse a secagem ao sol forte ou junto ao fogo: racham.
+12. Coloque os tijolos secos no forno sobre leito de areia fina.
+13. Aqueça devagar no início para não estourar a peça com vapor preso.
+14. Mantenha fogo forte e constante por aproximadamente 4 horas.
+15. Nunca faça essa queima dentro de casa ou em local fechado.
+16. Desligue o fogo e deixe esfriar no forno por aproximadamente 12 horas.
+17. Abra a porta aos poucos, de costas, com luvas e óculos.
+18. Retire os tijolos frios e teste um antes de usar todos.
+
+ATENCAO
+-------
+Fogo em ambiente fechado gera monóxido de carbono, gás sem cor e sem cheiro.
+Nunca queime refratários dentro de casa, tenda ou garagem fechada.
+Se alguém sentir dor de cabeça, tontura ou náusea, saia ao ar livre já.
+Tijolos quentes queimam muito depois que o fogo apaga: use luvas.
+Secagem rápida racha a peça; queima rápida estoura a peça.
+Argila comum sem grog encolhe e racha: não substitua sem testar.
+Não use estes tijolos em fornos industriais sem orientação técnica.
+Este método produz refratário comum, não material industrial certificado.
+
+SE NAO TIVER
+------------
+Sem argila refratária, use argila de cerâmica com grog.
+Sem grog, use areia fina lavada e peneirada, em menor quantidade.
+Sem forno, use fogueira controlada ao ar livre, com tiragem e sem chuva.
+Sem molde, faça tijolos à mão e espere mais variação de tamanho.
+Se não houver ventilação segura, não queime: compre tijolos prontos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O tijolo sai do molde com arestas firmes, sem rachaduras nem bolhas.
+Depois de frio, soa firme ao bater levemente e não desfaz ao riscar.
+Ao ser aquecido de novo, não solta pó, não fuma e não racha.
+
+FONTES
+------
+Prática consolidada de fabricação artesanal de refratários de argila.
+Ceramics Monthly, da American Ceramic Society: ventilação e fumos de fornos.
+Guia técnico de queima de refratários da Firebird New Material.
+FM 21-76, manual militar: monóxido de carbono em abrigos fechados.
+Este texto é resumo operacional e não substitui treinamento em cerâmica.

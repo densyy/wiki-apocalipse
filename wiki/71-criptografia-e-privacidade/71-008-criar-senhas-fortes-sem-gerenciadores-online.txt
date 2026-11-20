@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 71-008
+TITULO: Como criar senhas fortes sem gerenciadores online
+CATEGORIA: 71 - Criptografia, segurança da informação e privacidade
+TEMPO: 15 minutos
+RISCO: medio
+EXIGE: papel, caneta, dicionário impresso, dado de seis lados
+REVISAO: 2026-11
+PALAVRAS-CHAVE: senha, senha forte, frase-senha, vazamento, reusar, anotar
+==============================================================================
+
+OBJETIVO
+--------
+Criar senhas longas e únicas, guardadas em papel, sem serviços online.
+
+QUANDO USAR
+-----------
+Quando uma conta importante pede senha nova.
+Quando a senha é a mesma em vários sites, após vazamento ou sem internet.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para este procedimento.
+Em contas de alto valor, ative também a verificação em duas etapas.
+
+MATERIAIS
+---------
+- Papel limpo para anotar (caderno ou folha dobrada).
+- Caneta ou lápis.
+- Dicionário impresso e dado de seis lados (ou moeda).
+- Envelope ou caixa com tampa para guardar o papel.
+
+PROCEDIMENTO
+------------
+1. Separe papel, caneta, dicionário e dado longe de outras pessoas.
+2. Jogue o dado e abra a página do dicionário que o número indicar.
+3. Escolha uma palavra comum e concreta nessa página.
+4. Repita os passos 2 e 3 até ter três palavras diferentes.
+5. Escreva as três juntas, sem espaço: "solmesabarco".
+6. Use uma combinação diferente para cada conta, sem repetir.
+7. Anote a senha e um nome curto da conta que só você entenda.
+8. Guarde o papel trancado; destrua o rascunho com o nome da conta.
+9. Troque a senha só se houver suspeita de vazamento.
+
+ATENCAO
+-------
+Senha curta ou reutilizada é a causa mais comum de conta invadida.
+Programas quebram "123456", dicionários e trocas como "a" por "4".
+Evite nome de parente, pet, cidade, time, data e o nome do serviço.
+Se o papel for achado, a conta está perdida: esconda-o e não o fotografe.
+Sites falsos e keyloggers roubam senhas; confira o endereço ao digitar.
+
+SE NAO TIVER
+------------
+Sem dado, aponte três páginas do dicionário com os olhos fechados.
+Sem dicionário, pense em três palavras comuns, sem ligação com você.
+Sem papel, memorize as palavras; não as guarde em arquivo ou mensagem.
+Não deixe a senha em papel solto no bolso nem em etiqueta no monitor.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A senha tem três palavras juntas e mais de doze caracteres.
+Cada conta tem uma combinação diferente, e o papel está escondido.
+Ao digitar no dia seguinte, a senha entra corretamente.
+
+FONTES
+------
+NIST SP 800-63B, seção 5.1.1 e Apêndice A: segredos longos, sem regras
+de complexidade e sem troca por prazo. NCSC do Reino Unido: três palavras
+aleatórias e o risco de reutilizar. Resumo, não substitui treinamento.

@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 08-005
+TITULO: Como fabricar uma enxada
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: cabeça de enxada, cabo de madeira reta, cunha, lima, luvas, óculos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: enxada, aço, cabo, cunha, afiar, solo, plantar, ferramenta
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma enxada funcional com cabeça de aço e cabo de madeira.
+
+QUANDO USAR
+-----------
+Quando a cabeça da enxada está boa, mas o cabo quebrou.
+Quando se encontra uma cabeça de enxada velha sem cabo.
+Quando é preciso abrir terra para plantar sem comprar ferramenta.
+Quando o solo está duro e uma pá não dá conta.
+
+NAO USE QUANDO
+--------------
+Quando a cabeça estiver rachada, torta ou muito corroída.
+Quando o metal estiver com furo, fissura ou ponta gasta demais.
+Quando o solo for muito rochoso: use picareta, não enxada.
+Quando não houver cabeça metálica íntegra. Não use chapa fina.
+
+MATERIAIS
+---------
+- Cabeça de enxada de aço, inteira, com furo (olhal) para o cabo.
+- Cabo de madeira reta e seca, sem nós, com cerca de 1 metro.
+- Cunha de madeira dura ou de plástico para fixar a cabeça.
+- Lima para metal e faca ou serra para a madeira.
+- Luvas grossas e óculos de proteção.
+- Pedra de afiar e óleo de linhaça, se houver.
+
+PROCEDIMENTO
+------------
+1. Confira a cabeça. Descarte se houver rachadura ou ferrugem profunda.
+2. Limpe o olhal com a lima. Retire ferrugem, terra e rebarbas.
+3. Escolha o cabo. Use madeira reta, seca, sem nós e de grão contínuo.
+4. Serre o cabo com cerca de 1 metro. Deixe sobra acima da cabeça.
+5. Desbaste a ponta do cabo com faca ou lima, aos poucos.
+6. Encaixe a cabeça de leve. Retire madeira até a cabeça assentar.
+7. Bata a cabeça no chão. Ela deve ficar firme e alinhada ao cabo.
+8. Marque a altura final. Faça um sulco raso para a cabeça encostar.
+9. Lixe ou lime a madeira logo abaixo da cabeça para não lascar.
+10. Abra a fenda no topo do cabo, se a cabeça tiver fenda para cunha.
+11. Coloque a cunha de madeira ou plástico. Bata até a cabeça firmar.
+12. Afie a borda com a lima. Mantenha o ângulo original da lâmina.
+13. Se não vir o ângulo, use aproximadamente 45 graus.
+14. Passe a pedra de afiar na borda para tirar rebarbas.
+15. Passe óleo de linhaça no cabo, se tiver, e deixe secar.
+16. Teste com golpes curtos e rasos em terra mole. Reaperte se afrouxar.
+
+ATENCAO
+-------
+Uma cabeça rachada ou muito corroída pode estilhaçar e ferir. Descarte.
+Use luvas e óculos. Lascas de metal e pedra voam ao bater e afiar.
+Nunca use cunha de metal. Ela esmaga a madeira e o cabo pode quebrar.
+Afie com cuidado. Retirar metal demais enfraquece a lâmina.
+Não use esmeril elétrico sem molhar a lâmina. O calor destrói o têmpera.
+Se a cabeça sair do cabo durante o uso, pare e refaça o encaixe.
+Este texto não ensina a forjar lâmina do zero. Isso exige forja e
+tratamento térmico controlado. Use sempre uma cabeça já pronta.
+
+SE NAO TIVER
+------------
+Sem cunha de madeira, use cunha de plástico. Nunca use metal.
+Sem lima, use pedra de afiar áspera. O serviço fica mais lento.
+Sem cabeça de enxada, aproveite a cabeça íntegra de outra ferramenta.
+Não faça lâmina com chapa fina ou metal macio. Não vai aguentar o impacto.
+Sem óleo de linhaça, mantenha o cabo seco e confira o encaixe cada uso.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A cabeça não se move quando você bate o cabo no chão.
+A lâmina entra na terra com golpes curtos, sem encravar.
+A borda não solta lascas de metal quando passa a pedra.
+
+FONTES
+------
+Prática consolidada de encabamento e afiação de ferramentas de solo.
+Referência principal: USDA Forest Service, manual Handtools for Trail Work
+(2005), seções sobre ferramentas de grubbing, afiação e rehandling.
+Referência geral: FM 21-76, manual de sobrevivência do Exército dos EUA.
+Resumo operacional. Não substitui treinamento nem prática supervisionada.

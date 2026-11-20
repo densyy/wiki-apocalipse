@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 29-036
+TITULO: Como recuperar arquivos de sistemas de arquivos danificados
+CATEGORIA: 29 - Tecnologia, computação e informática offline
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: disco de destino com espaço, computador auxiliar, energia estável
+REVISAO: 2026-11
+PALAVRAS-CHAVE: recuperar, disco danificado, imagem, dados perdidos, fsck
+==============================================================================
+
+OBJETIVO
+--------
+Recuperar arquivos legíveis sem gravar no disco danificado.
+
+QUANDO USAR
+-----------
+Quando o disco não abre arquivos ou mostra erro de sistema de arquivos.
+Depois de queda de energia ou remoção sem ejetar com segurança.
+Quando arquivos foram apagados por engano e nada novo foi gravado.
+
+NAO USE QUANDO
+--------------
+Quando o disco faz clique, não gira, foi molhado ou queimado: é dano físico.
+Nesse caso, não abra o disco; procure profissional em sala limpa.
+Quando não houver outro disco com espaço para receber a cópia.
+
+MATERIAIS
+---------
+- Disco danificado, origem dos arquivos.
+- Disco de destino com espaço maior que os dados (outro HD ou SSD).
+- Computador auxiliar com energia estável.
+- Ferramenta de leitura em mídia local (programa já instalado).
+
+PROCEDIMENTO
+------------
+1. Desligue o equipamento se o disco danificado ainda estiver em uso.
+2. Não execute reparo no disco original: o reparo pode apagar arquivos.
+3. Não salve nem instale nada no disco danificado.
+4. Conecte o disco danificado como secundário, nunca para inicializar.
+5. Conecte o disco de destino no mesmo computador.
+6. Faça imagem bit a bit, cópia exata dos setores, no disco de destino.
+7. Abra a imagem em modo somente leitura, sem gravar nela.
+8. Recupere os arquivos da imagem para o disco de destino.
+9. Confira os arquivos no destino antes de apagar qualquer coisa.
+
+ATENCAO
+-------
+Gravar no disco danificado é o erro que mais destrói dados.
+Reparo com chkdsk do Windows ou fsck do Linux antes da cópia
+pode perder arquivos órfãos, sem entrada no índice do disco.
+A documentação da Microsoft alerta perda de dados em reparos FAT.
+Disco com clique ou que não gira tem dano físico: desligue e
+procure ajuda; abrir fora de sala limpa destrói o disco.
+
+SE NAO TIVER
+------------
+Sem ferramenta de imagem, copie os arquivos em modo somente leitura.
+Copie para outro disco; é menos seguro, mas salva o que ainda é legível.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A imagem concluiu sem erro e o disco original segue sem arquivos novos.
+Os arquivos no destino abrem legíveis, com tamanho maior que zero.
+
+FONTES
+------
+Documentação oficial da Microsoft sobre chkdsk: reparo /f, perda em FAT
+e uso de /b após imagem; prática forense: imagem bit a bit e leitura
+somente leitura antes de reparo.

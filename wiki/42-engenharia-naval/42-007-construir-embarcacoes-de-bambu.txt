@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 42-007
+TITULO: Como construir embarcações de bambu
+CATEGORIA: 42 - Engenharia naval e tecnologias marítimas
+TEMPO: 180 minutos
+RISCO: alto
+EXIGE: culmos de bambu secos, corda ou cipó, faca, duas pessoas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bambu, jangada, balsa, flutuador, amarrar, rio, navegação
+==============================================================================
+
+OBJETIVO
+--------
+Construir uma jangada de bambu para atravessar água calma com uma
+pessoa e carga leve.
+
+QUANDO USAR
+-----------
+Quando é preciso atravessar um rio largo e raso sem ponte.
+Quando há carga que não pode molhar e a água está calma.
+Quando o bambu maduro é o único material flutuante disponível.
+
+NAO USE QUANDO
+--------------
+Quando há correnteza forte, corredeiras ou cachoeira perto.
+Quando a água está muito fria: o choque pode imobilizar a pessoa.
+Quando o bambu está verde, rachado ou com os nós furados.
+
+MATERIAIS
+---------
+- 8 a 12 culmos (caules ocos) de bambu maduro e seco, de diâmetro
+  parecido e sem rachaduras.
+- Corda, cipó ou fibra vegetal para amarrar.
+- 4 pedaços curtos de bambu ou madeira para travessas.
+- Faca ou facão.
+- Flutuador pessoal: colete, câmara de ar ou saco plástico cheio de ar
+  e bem fechado.
+- Vara longa para empurrar em água rasa.
+
+PROCEDIMENTO
+------------
+1. Escolha um lugar plano e firme na margem, acima da linha da cheia.
+2. Corte os culmos rente ao nó, sem lascar as pontas.
+3. Confira cada culmo: os nós (divisões fechadas do caule) devem estar
+   inteiros. Descarte os que estiverem furados ou rachados.
+4. Coloque um culmo na água para testar. Espere alguns minutos.
+   Se afundar ou virar de lado, descarte esse culmo.
+5. Apoie dois culmos no chão, paralelos, com uma ponta voltada à água.
+6. Deite os outros culmos em cima, lado a lado, bem alinhados.
+7. Alterne as emendas: a ponta grossa de um ao lado da ponta fina do
+   seguinte. Isso evita um ponto fraco no meio da jangada.
+8. Cruze uma travessa sobre as duas pontas e amarre em cada culmo.
+9. Dê duas voltas com a corda e aperte com força. Repita no meio e
+   na outra ponta.
+10. Amarre uma travessa reforçada na frente e outra atrás.
+11. Prenda uma corda de reboque em cada ponta da jangada.
+12. Coloque a carga sobre as travessas, bem no centro e baixa.
+13. Arraste a jangada para a água sem passar por pedras afiadas.
+14. Deite a jangada na água por alguns minutos e observe.
+    Se afundar de um lado, volte e reforce as amarras.
+15. Segure a jangada com as duas mãos e entre na água devagar.
+16. Empurre com a vara em água rasa. Use um remo em água funda.
+17. Fique junto à margem e atravesse na diagonal, contra a corrente.
+
+ATENCAO
+-------
+Uma jangada improvisada pode não sustentar o peso inteiro do corpo.
+Use-a como flutuador: segure-se a ela e mantenha a carga presa nela.
+Prenda o flutuador pessoal ao corpo antes de entrar na água.
+Nunca tente atravessar corredeiras, cachoeiras ou mar com ondas.
+Redemoinhos e água muito fria podem puxar a pessoa para baixo.
+Se a jangada girar, afundar ou as amarras cederem, solte a carga e
+volte para a margem mais próxima imediatamente.
+
+SE NAO TIVER
+------------
+Sem corda, use cipó, fibra de folha, cinto ou tiras de pano trançadas.
+Sem bambu, use madeira leve testada antes na água: muitas madeiras
+tropicais afundam, incluindo a palmeira.
+Sem flutuador, encha dois sacos plásticos com ar e feche bem. Isso
+ajuda a manter o rosto fora da água, mas não substitui o colete.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A jangada flutua nivelada, sem afundar de um lado, após alguns minutos
+na água. As amarras ficam firmes e as travessas não soltam.
+A carga permanece seca sobre as travessas durante a travessia.
+
+FONTES
+------
+Manual de sobrevivência do Exército dos EUA, FM 21-76 (capítulo de
+travessias de água): bambu leve e resistente, teste de flutuação antes
+do uso, cuidado com correntes e água fria. Manual FM 3-05.70 e ATP
+3-50.21 (travessias expedientes): vara em água rasa, remo em água
+funda, evitar cachoeiras e redemoinhos. Relatório técnico 20 do INBAR
+(Designing and Building with Bamboo): culmos ocos com nós fechados e
+uso tradicional de jangadas de bambu. Resumo operacional, não
+substitui treinamento.

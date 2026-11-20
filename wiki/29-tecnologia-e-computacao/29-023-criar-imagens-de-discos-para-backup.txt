@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 29-023
+TITULO: Como criar imagens de discos para backup
+CATEGORIA: 29 - Tecnologia, computação e informática offline
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: computador com Linux, disco de origem, destino com espaco livre
+REVISAO: 2026-11
+PALAVRAS-CHAVE: imagem de disco, backup, dd, ddrescue, salvar dados, copia
+==============================================================================
+
+OBJETIVO
+--------
+Criar copia exata de um disco inteiro em arquivo, para restaurar depois.
+
+QUANDO USAR
+-----------
+Quando for guardar copia completa antes de formatar ou trocar de disco.
+Quando nao houver internet e so existir midia local.
+Quando o disco comecar a apresentar erros de leitura.
+
+NAO USE QUANDO
+--------------
+Quando o destino nao tiver espaco livre para a imagem completa.
+Quando a origem estiver montada gravando dados, ou fizer estalos: pare.
+
+MATERIAIS
+---------
+- Computador com Linux e terminal (substituto: outro computador com Linux).
+- Disco de origem com os dados a guardar.
+- Disco ou particao de destino com espaco livre maior que a origem.
+- Energia estavel (substituto: bateria carregada).
+
+PROCEDIMENTO
+------------
+1. Identifique a origem: lsblk mostra discos e particoes.
+2. Anote o nome da origem, como /dev/sdb, e confira pelo tamanho.
+3. Desmonte cada particao da origem com sudo umount /dev/sdb1.
+4. Conecte o destino e anote o nome com lsblk.
+5. Confira o espaco livre do destino com df -h.
+6. Copie: sudo dd if=/dev/sdb of=/mnt/d.img bs=4M status=progress
+7. Em if= vai a origem; em of= vai o arquivo destino; nunca inverta.
+8. Gere os hashes: sha256sum /dev/sdb e sha256sum /mnt/d.img.
+9. Compare os hashes; se iguais, guarde a imagem e anote a data.
+
+ATENCAO
+-------
+Inverter if= e of= apaga a origem sem recuperacao; dd nao pede confirmacao.
+Se o destino for um disco, todos os dados dele sao apagados.
+Desmonte a origem antes de copiar; disco montado gera imagem corrompida.
+Espaco insuficiente no destino interrompe a copia e deixa imagem inutil.
+Pare e procure ajuda se o disco fizer estalos ou parar de responder.
+
+SE NAO TIVER
+------------
+Sem espaco no destino, use outro disco maior antes de comecar.
+Sem Linux, use um computador emprestado que tenha sistema Linux.
+Com erros de leitura, use ddrescue, que registra o progresso em um mapa.
+Rode sudo ddrescue /dev/sdb /mnt/d.img /mnt/mapa.log; repita para retomar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O comando termina sem erro e mostra o total de bytes copiados.
+O arquivo de imagem existe e tem tamanho aproximadamente igual ao do disco.
+Os dois hashes sha256 sao iguais.
+
+FONTES
+------
+Manual do comando dd, GNU Coreutils; manual do GNU ddrescue.
+Pratica consolidada de imagem de disco em Linux; resumo operacional.

@@ -1,0 +1,97 @@
+==============================================================================
+CODIGO: 42-012
+TITULO: Como realizar calafetagem de barcos
+CATEGORIA: 42 - Engenharia naval e tecnologias marítimas
+TEMPO: 120 minutos
+RISCO: alto
+EXIGE: estopa, ferros de calafetar, macete, breu ou massa vedante
+REVISAO: 2026-11
+PALAVRAS-CHAVE: calafetagem, estopa, breu, casco, vazamento, calafate
+==============================================================================
+
+OBJETIVO
+--------
+Vedar as juntas das tábuas do casco para reduzir a entrada de água.
+
+QUANDO USAR
+-----------
+Quando o casco de madeira goteja ou entra água pelas costuras.
+Quando a calafetagem antiga ficou seca, mole ou caiu.
+Ao trocar uma tábua do forro ou reparar o convés.
+Antes de lançar um barco de madeira novo ou reformado.
+
+NAO USE QUANDO
+--------------
+Quando a tábua está apodrecida, rachada ou com parafusos frouxos.
+Nesse caso reforce a estrutura antes; calafetar não conserta madeira podre.
+Quando a costura é mais larga que cerca de um centímetro.
+Nesse caso a emenda precisa de tábua ou massa estrutural, não de estopa.
+
+MATERIAIS
+---------
+- Estopa de cânhamo ou juta, ou algodão de calafetar.
+- Ferros de calafetar de duas espessuras (chave de fenda larga serve).
+- Macete de calafate (martelo de madeira ou de plástico).
+- Gancho de calafate para tirar o material velho (gancho de arame curvo).
+- Régua ou arame para medir a profundidade da costura.
+- Breu ou pez, ou massa vedante marítima flexível (massa de calafetar).
+- Pote para aquecer o breu em banho-maria ou sobre brasas.
+- Espátula para espalhar a massa (talhadeira de madeira).
+- Lona para cobrir a área e proteger do sol.
+- Luvas de couro e óculos de proteção.
+- Balde com água e pano úmido perto do fogo.
+- Óleo de linhaça para umedecer a estopa (água serve).
+
+PROCEDIMENTO
+------------
+1. Amarre o barco em local calmo e firme, fora da água se possível.
+2. Cubra com lona a área que não vai trabalhar para evitar ressecamento.
+3. Retire o calafeto velho com o gancho, puxando ao longo da costura.
+4. Limpe o pó e os fragmentos com escova; não deixe resíduo na fenda.
+5. Meça a largura e a profundidade da costura com o arame ou a régua.
+6. Se a costura estiver apertada, abra-a levemente com o ferro mais fino.
+7. Enrole a estopa num cordão fino, do diâmetro da costura.
+8. Umedeça o cordão com óleo de linhaça, se a estopa estiver seca.
+9. Encaixe o cordão na costura com os dedos, formando alças pequenas.
+10. Bata no ferro com o macete, em golpes leves, ao longo da alça.
+11. Repita até a costura ficar cheia até cerca da metade da profundidade.
+12. Recalque com o ferro mais largo para compactar sem afundar demais.
+13. Pare se o ferro ricochetear ou a madeira rachar: excesso de estopa.
+14. Aqueça o breu em banho-maria ou brasas, nunca em chama direta.
+15. Mantenha o balde de água ao lado e nunca deixe o breu sem vigilância.
+16. Despeje o breu na costura com a espátula, ainda quente.
+17. Alise com a espátula até nivelar com a superfície da tábua.
+18. Limpe o excesso com o pano úmido depois que o breu esfriar.
+19. Repita numa costura por vez; não destape o casco todo de uma vez.
+20. Molhe o casco e observe a costura por um dia antes de navegar.
+
+ATENCAO
+-------
+Ferros e macete esmagam dedos. Use luvas e não ponha as mãos no golpe.
+O breu quente queima e pega fogo. Nunca aqueça em chama direta.
+Vapores de breu irritam olhos e respiração. Trabalhe ao ar livre.
+Zarcão e massas com chumbo são tóxicos. Não use em área de comida.
+Calafetar demais racha a tábua e abre o vazamento que se queria fechar.
+Retirar todas as costuras de uma vez resseca a madeira.
+Com madeira podre ou costura muito larga, pare e chame um carpinteiro naval.
+
+SE NAO TIVER
+------------
+Sem ferro de calafetar, use uma chave de fenda larga, sem ponta afiada.
+Sem macete, use martelo comum, mas com golpes mais leves.
+Sem estopa, use algodão cru de calafetar, nunca enchimento de farmácia.
+Sem breu, use massa marítima flexível; não use cola de madeira comum.
+Sem nada disso, não lance o barco na água: o vazamento pode afundá-lo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A costura fica cheia por igual, sem vãos nem estopa na superfície.
+A massa ou o breu fica nivelado e não gruda na mão depois de frio.
+Depois de molhar, a costura não goteja e a água no porão não sobe.
+
+FONTES
+------
+MGN 628, parte 7, seção 7.25, da agência marítima britânica MCA.
+TCC Carpintaria Naval em Itamoari, Universidade Federal do Pará, 2024.
+A carpintaria naval do nordeste paraense, Andrade e Santos, ActaFish, 2017.
+Prática consolidada em estaleiros de madeira; resumo operacional.

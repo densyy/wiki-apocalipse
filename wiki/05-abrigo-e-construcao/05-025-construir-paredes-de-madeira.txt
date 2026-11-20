@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 05-025
+TITULO: Como construir paredes de madeira
+CATEGORIA: 05 - Abrigo, construção e habitação
+TEMPO: 120 minutos
+RISCO: medio
+EXIGE: madeira, martelo, pregos ou parafusos, serrote
+REVISAO: 2026-11
+PALAVRAS-CHAVE: parede, madeira, abrigo, tapume, cabana, vento
+==============================================================================
+
+OBJETIVO
+--------
+Levantar uma parede simples de madeira que veda vento e chuva.
+
+QUANDO USAR
+-----------
+Quando o abrigo tem estrutura e falta fechar as laterais.
+Quando precisa trocar lona rasgada por vedacao mais firme.
+Quando vai fechar um quarto seco dentro de galpao aberto.
+
+NAO USE QUANDO
+--------------
+Em estrutura fraca que nao aguenta o peso da madeira.
+Em parede que sustenta telhado pesado sem ajuda tecnica.
+
+MATERIAIS
+---------
+- Tabuas, ripas ou troncos finos e retos (pallets desmontados).
+- Caibros ou varas grossas para base e montantes (bambu grosso).
+- Pregos grandes ou parafusos (arame e cipo para amarrar).
+- Martelo ou pedra firme para bater (cabo de machado).
+- Serrote, serra ou machado para cortar e aparar.
+
+PROCEDIMENTO
+------------
+1. Marque no chao a linha da parede com barbante esticado.
+2. Corte base e topo no comprimento da parede.
+3. Corte montantes verticais na altura desejada.
+4. Fixe a base no chao com estacas ou pedras firmes.
+5. Pregue os montantes na base com um palmo entre eles.
+6. Confira o prumo olhando de lado antes de travar.
+7. Pregue a travessa de topo ligando os montantes.
+8. Pregue as tabuas na horizontal, de baixo para cima.
+9. Sobreponha cada tabua sobre a de baixo contra a chuva.
+10. Pregue uma diagonal por dentro contra o balanco.
+
+ATENCAO
+-------
+Martelo erra a mao e prego torto rasga: bata com calma.
+Madeira solta cai sobre gente: trave antes de soltar as maos.
+Serrote escapa e corta fundo: prenda a peca antes de cortar.
+Parede sem diagonal balanca e desaba com vento forte.
+
+SE NAO TIVER
+------------
+Sem pregos, amarre tabuas nos montantes com arame ou cipo.
+Sem serrote, use pecas inteiras e complete vaos com ripas.
+Sem caibros, use troncos finos e retos como montantes.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A parede fica em pe sem balancar ao empurrar com a mao.
+Nao passa vento forte e a chuva escorre sem entrar direto.
+
+FONTES
+------
+Pratica consolidada de construcao simples em madeira
+(familias de referencia: FEMA, IFRC e manual militar de
+sobrevivencia civil). Resumo operacional, sem treinamento.

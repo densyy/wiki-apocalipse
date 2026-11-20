@@ -1,0 +1,97 @@
+==============================================================================
+CODIGO: 03-062
+TITULO: Como funciona o sistema circulatório
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 10 minutos
+RISCO: medio
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: circulação, coração, sangue, pulso, artéria, veia
+==============================================================================
+
+OBJETIVO
+--------
+Entender como o coração bombeia o sangue e observar se a circulação
+de uma pessoa está funcionando.
+
+QUANDO USAR
+-----------
+Quando quiser entender por que o pulso e a cor da pele mostram o estado
+de uma pessoa.
+Antes de ajudar alguém com ferimento, choque ou desidratação.
+Ao observar uma pessoa ferida e checar se o sangue está circulando bem.
+Quando alguém estiver pálido, frio ou com pulso estranho.
+Quando precisar explicar por que controlar sangramento e manter o calor
+salvam vidas.
+
+NAO USE QUANDO
+--------------
+Não use este texto para diagnosticar doença do coração ou das veias:
+só exame médico confirma.
+Não use no lugar dos procedimentos de primeiros socorros.
+Se a pessoa estiver inconsciente ou sem pulso, procure ajuda de imediato
+e aplique RCP (veja 03-003).
+
+MATERIAIS
+---------
+- Nenhum material. Basta observar e conhecer o próprio corpo.
+- Relógio para contar o pulso (ou celular).
+- Luz para ver a cor da pele (lanterna ou tela do celular).
+
+PROCEDIMENTO
+------------
+1. Entenda o trajeto: o coração bombeia o sangue ao corpo e o sangue
+   volta ao coração.
+2. Saiba que o lado direito do coração envia sangue aos pulmões.
+3. Saiba que o lado esquerdo envia sangue ao resto do corpo.
+4. Reconheça as artérias: levam sangue com oxigênio do coração ao corpo.
+5. Reconheça as veias: trazem o sangue de volta ao coração.
+6. Entenda que o sangue leva oxigênio e alimento aos tecidos e retira
+   gás carbônico e resíduos.
+7. Saiba que o sangue passa pelos pulmões para pegar oxigênio e soltar
+   gás carbônico.
+8. Coloque dois dedos no pescoço, ao lado da traqueia, para sentir
+   o pulso.
+9. Conte os batimentos por 15 segundos e multiplique por 4 para ter
+   batimentos por minuto.
+10. Observe a cor da pele e dos lábios: rosada indica boa circulação.
+11. Note se a pele está pálida, fria ou azulada: são sinais de alerta.
+12. Pressione a unha por um segundo e solte: a cor volta depressa
+    quando a circulação está boa.
+13. Compare o pulso e a cor da pele com o normal da pessoa.
+14. Repita a observação se algo mudar, sem perder tempo se houver
+    sinal de alerta.
+
+ATENCAO
+-------
+Sem oxigênio, o cérebro sofre dano em poucos minutos: pulso e
+respiração são sinais vitais.
+Pulso rápido e fraco com pele fria e pálida pode ser choque: procure
+ajuda (veja 03-006).
+Lábios ou unhas azulados indicam falta de oxigênio: é emergência.
+Sangramento grave reduz o volume de sangue e a circulação para:
+controle o sangramento (veja 03-001).
+Não confie só no pulso: pressão baixa é sinal tardio de choque.
+Frio, desidratação e dor intensa alteram o pulso e a cor da pele.
+Este texto é educativo: não substitui avaliação nem treinamento médico.
+
+SE NAO TIVER
+------------
+Sem relógio: conte os batimentos em voz alta e compare com o normal
+da pessoa.
+Sem lanterna: use a luz do dia ou a tela do celular para ver a cor.
+Sem pulso no pescoço: tente na dobra do cotovelo ou na virilha.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue explicar o trajeto: coração, pulmões, artérias, corpo,
+veias e volta ao coração.
+Você localiza o pulso e conta os batimentos por minuto.
+Você observa pele, lábios e unhas e compara com o normal da pessoa.
+Você reconhece sinais de circulação comprometida e sabe buscar ajuda.
+
+FONTES
+------
+Literatura padrão de anatomia e fisiologia humanas (Manual MSD e
+MedlinePlus/NIH). Este texto é um resumo educativo e não substitui
+avaliação ou treinamento médico.

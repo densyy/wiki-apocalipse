@@ -1,0 +1,92 @@
+==============================================================================
+CODIGO: 66-017
+TITULO: Como fabricar dobradiças
+CATEGORIA: 66 - Mecânica de precisão e instrumentos
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: duas tiras de metal, pino redondo, martelo, alicate, lima, parafusos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: dobradiça, charneira, pino, ferragem, porta, dobrar, metal
+==============================================================================
+
+OBJETIVO
+---------
+Fabricar uma dobradiça de duas folhas unidas por um pino.
+Serve para unir e girar uma porta ou tampa leve.
+
+QUANDO USAR
+-----------
+Quando uma porta ou tampa perdeu a dobradiça original.
+Quando precisa fixar uma tampa em caixa, armário ou painel.
+Quando há sucata de chapa metálica e um pedaço de varão.
+Quando não há ferragem pronta e é preciso improvisar a peça.
+
+NAO USE QUANDO
+--------------
+Não use em porta pesada, portão ou peça que sustente carga.
+Não use se o metal estiver corroído, rachado ou muito fino.
+Não substitua dobradiça de segurança, rolamento ou peça certificada.
+
+MATERIAIS
+---------
+- Duas tiras de chapa metálica do mesmo tamanho (aço macio ou latão).
+- Um pino redondo de metal que caiba nas dobras (varão ou prego sem ponta).
+- Um varão de apoio do mesmo diâmetro do pino, para dobrar os tubos.
+- Martelo, alicate de bico e lima de metal.
+- Régua e lápis de marcar para medir.
+- Furadeira com broca ou punção para os furos dos parafusos.
+- Parafusos e chave de fenda (ou rebites e martelo).
+- Óculos de proteção e luvas de couro.
+
+PROCEDIMENTO
+------------
+1. Escolha duas tiras de chapa com o mesmo comprimento e largura.
+2. Meça e marque as duas tiras com a régua e o lápis.
+3. Corte as tiras no tamanho marcado com serra manual ou lima.
+4. Lime as bordas cortadas até remover as rebarbas cortantes.
+5. Divida a borda de cada tira em três partes iguais com o lápis.
+6. Apoie o varão na primeira marca da primeira tira.
+7. Dobre a tira ao redor do varão com o alicate, formando um tubo.
+8. Repita na terceira marca da primeira tira.
+9. Apoie o varão na marca do meio da segunda tira e dobre um tubo.
+10. Retire o varão com cuidado, sem desfazer os tubos.
+11. Encaixe as duas tiras: o tubo do meio fica entre os outros dois.
+12. Alinhe os três tubos na mesma linha reta.
+13. Enfie o pino pelos três tubos até a cabeça encostar.
+14. Gire as folhas com a mão e confirme que giram sem travar.
+15. Marque com lápis os pontos de fixação de cada folha.
+16. Fure esses pontos com broca ou punção.
+17. Fixe cada folha com parafusos ou rebites.
+18. Dobre a ponta do pino com o martelo para ele não sair.
+
+ATENCAO
+-------
+- Rebarba de metal corta dedo: lime as bordas antes de manusear.
+- Cavaco de lima e de broca fere olho: use óculos de proteção.
+- Martelo pode esmagar dedo: segure a peça com o alicate, não na mão.
+- Tubo mal alinhado trava a dobradiça; confira antes de fixar.
+- Chapa fina ou corroída abre e rasga: troque o material.
+- Esta dobradiça improvisada não suporta porta pesada nem impacto.
+- Pare se o pino não entrar: alinhe os tubos, não force com martelo.
+
+SE NAO TIVER
+------------
+- Sem varão de apoio, use um prego sem ponta ou arame rígido.
+- Sem alicate, dobre a tira sobre um canto de madeira com martelo.
+- Sem broca, faça o furo com punção e martelo.
+- Sem parafuso, use rebites; se não houver rebite, dobre a ponta do pino.
+- Sem chapa de aço, use latão ou alumínio: dobrem mais fácil, mas são moles.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- Os três tubos ficam alinhados e o pino passa sem esforço.
+- As folhas giram uma em relação à outra sem travar nem folgar.
+- A tampa abre e fecha apoiada só na dobradiça que você fez.
+- Nenhuma borda corta o dedo ao passar um pano por ela.
+
+FONTES
+------
+- Prática consolidada de ferraria e mecânica artesanal.
+- A dobradiça de topo com folhas, charneiras e pino é desenho tradicional.
+- Sem documento normativo único: este é um resumo operacional.
+- Não substitui treinamento nem peça industrial certificada.

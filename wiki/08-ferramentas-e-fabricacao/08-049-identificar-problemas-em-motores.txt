@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 08-049
+TITULO: Como identificar problemas em motores
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: motor frio, chave de vela, testador de faísca, pano, ambiente aberto
+REVISAO: 2026-11
+PALAVRAS-CHAVE: motor, não liga, vela, gasolina, faísca, compressão, falha
+==============================================================================
+
+OBJETIVO
+--------
+Descobrir se a falha está no combustível, na ignição ou na compressão.
+
+QUANDO USAR
+-----------
+O motor não liga depois de dias parado.
+O motor liga e morre, ou falta força ao trabalhar.
+A ferramenta a motor está parada no acampamento.
+
+NAO USE QUANDO
+--------------
+Motor quente, com peças em movimento ou em lugar fechado: espere esfriar
+e leve ao ar livre. Com cheiro de gasolina ou vazamento, não tente ligar.
+
+MATERIAIS
+---------
+- Chave de vela ou soquete.
+- Testador de faísca (ou vela reserva) e pano limpo.
+- Medidor de compressão (opcional) e óculos de proteção.
+
+PROCEDIMENTO
+------------
+1. Desligue o motor, espere esfriar e trabalhe ao ar livre.
+2. Com o motor em pé, veja o óleo pela vareta e o combustível no tanque.
+3. Abra a torneira, se houver, e retire o filtro de ar entupido de poeira.
+4. Retire a vela com a chave, limpe a ponta e examine com o pano.
+5. Observe a vela molhada: excesso de combustível ou falta de faísca.
+6. Observe a vela seca: o combustível não está chegando.
+7. Encaixe o testador entre o fio da vela e o bloco do motor.
+8. Acione o arranque: faísca azul e constante indica ignição boa.
+9. Verifique fio, interruptor e sensor de óleo se não houver faísca.
+10. Drene o tanque e limpe o carburador se a vela estiver seca.
+11. Rosque o medidor no furo da vela e puxe o arranque até parar.
+12. Interprete leitura baixa como folga de válvula, junta ou anéis gastos.
+13. Recoloque vela, filtro e tampas; limpe o combustível derramado.
+
+ATENCAO
+-------
+A faísca acende vapor de gasolina: nunca teste perto de chama ou com
+combustível derramado. A ignição tem alta tensão: não toque no fio da vela.
+Nunca use o arranque elétrico com a vela fora; o vapor pode pegar fogo.
+Motor em lugar fechado libera monóxido de carbono, que mata sem cheiro:
+pare e procure ajuda se houver fio desencapado ou se o motor travar.
+
+SE NAO TIVER
+------------
+Sem testador, use vela reserva apoiada no bloco, com o fio afastado
+por pano seco e longe de vapor. Sem medidor, compare a puxada do cordão.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A vela retirada mostra ponta clara, sem fuligem nem umidade.
+O testador acende faísca azul a cada puxada do cordão.
+
+FONTES
+------
+Manuais Briggs & Stratton (serviço de motores e Small Engine Problem
+Solving Tips, 2026) e manual do gerador Cummins/Onan P9500DF.

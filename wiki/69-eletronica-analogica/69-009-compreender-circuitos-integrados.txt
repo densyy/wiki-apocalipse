@@ -1,0 +1,85 @@
+==============================================================================
+CODIGO: 69-009
+TITULO: Como compreender circuitos integrados
+CATEGORIA: 69 - Eletrônica analógica e componentes discretos
+TEMPO: 25 minutos
+RISCO: medio
+EXIGE: circuito integrado comum, lupa, papel e lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: circuito integrado, chip, CI, pinos, silício, datasheet
+==============================================================================
+
+OBJETIVO
+--------
+Entender o que é um circuito integrado e ler seu corpo e seus pinos.
+
+QUANDO USAR
+-----------
+Quando encontrar um chip e precisar saber o que ele faz.
+Quando for substituir um componente em uma placa.
+Quando precisar ligar um CI sem inverter a alimentação.
+Quando quiser distinguir um CI analógico de um digital.
+Quando for guardar peças e precisar identificá-las depois.
+
+NAO USE QUANDO
+--------------
+Não use este texto para projetar um circuito novo nem calcular valores.
+Não abra, lixe ou tente reparar o interior de um chip: isso o destrói.
+
+MATERIAIS
+---------
+- Um circuito integrado comum, como um 555 ou um LM358.
+- Uma lupa ou lente de aumento.
+- Papel e lápis para desenhar o chip (ou apenas observar).
+- Superfície plana, seca e sem poeira para apoiar a peça.
+
+PROCEDIMENTO
+------------
+1. Observe o corpo do chip com a lupa, sem tocar nos pinos com os dedos.
+2. Reconheça o invólucro: o DIP tem duas fileiras de pinos laterais.
+3. Encontre a marca de referência: um entalhe circular ou um ponto.
+4. Segure o chip com o entalhe voltado para cima e os pinos para baixo.
+5. Note que a numeração começa no pino junto ao entalhe.
+6. Conte os pinos em sentido anti-horário, seguindo a borda do chip.
+7. Escreva no papel o número de pinos e a posição do entalhe.
+8. Leia a inscrição gravada: nome do fabricante e número da peça.
+9. Anote o código da peça; é ele que identifica o componente.
+10. Procure o código de data: normalmente quatro algarismos.
+11. Entenda: circuito integrado, ou CI, é um circuito inteiro feito
+   junto numa única pastilha de silício.
+12. Saiba que transistores, resistores e capacitores são criados dentro
+   da pastilha e ligados por caminhos de metal.
+13. Classifique o CI: analógico trabalha com sinais contínuos.
+14. Classifique o CI: digital trabalha com níveis de ligado e desligado.
+15. Classifique o CI: misto reúne as duas funções no mesmo corpo.
+16. Anote a função típica: o 555 gera pulsos, o LM358 amplifica sinais.
+17. Guarde o chip em tubo ou espuma condutiva, nunca em isopor comum.
+
+ATENCAO
+-------
+A eletricidade estática da pele pode destruir um CI sem aviso visível.
+Toque primeiro em metal aterrado e segure sempre pela borda do chip.
+Nunca encoste os dedos nos pinos nem apoie a peça em tecido ou plástico.
+Inverter a polaridade da alimentação queima o componente na hora.
+Um CI não pode ser aberto nem reparado: danificado, ele é substituído.
+Não toque nos pinos de um circuito ligado; pode dar curto e choque.
+
+SE NAO TIVER
+------------
+Sem lupa, aproxime a inscrição da luz e leia com cuidado.
+Sem manual do fabricante, anote o código gravado e consulte depois.
+Sem espuma condutiva, envolva o chip em papel-alumínio dobrado.
+Nunca use isopor: ele acumula carga estática e danifica o componente.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você aponta o entalhe e indica o pino 1 sem errar.
+Você lê o número da peça e diz se o CI é analógico ou digital.
+Você explica que o CI é um circuito completo numa pastilha de silício.
+
+FONTES
+------
+JEDEC, definição de circuito integrado; Horowitz e Hill, The Art of
+Electronics (Cambridge University Press); ASML, The basics of microchips.
+Prática consolidada de manuseio de componentes sensíveis a descarga
+eletrostática.

@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 08-036
+TITULO: Como cortar metais manualmente
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: óculos de proteção, luvas, arco de serra, morsa, lima
+REVISAO: 2026-11
+PALAVRAS-CHAVE: metal, cortar, serra, arco de serra, lâmina, lima, chaparia
+==============================================================================
+
+OBJETIVO
+--------
+Cortar barras, tubos e chapas de metal com serra manual, sem rebarbas.
+
+QUANDO USAR
+-----------
+Quando faltar esmerilhadeira, maçarico ou corte industrial.
+Quando precisar cortar parafuso, barra roscada ou tubo no acampamento.
+Quando o corte precisa ser feito longe de energia elétrica.
+Quando for preciso abrir chapa fina para fazer peça ou reparo.
+
+NAO USE QUANDO
+--------------
+Quando o metal estiver sob tensão, pressão ou carga: pode soltar e ferir.
+Quando não houver óculos de proteção: lascas de metal ferem os olhos.
+Quando a peça for mais espessa que a lâmina permite: a lâmina quebra.
+
+MATERIAIS
+---------
+- Óculos de proteção com proteção lateral.
+- Luvas de couro ou lona grossa.
+- Arco de serra (serra manual para metal) com lâmina montada.
+- Lâminas reservas: 14 a 18 dentes por polegada para metal espesso.
+- Para chapa e tubo fino: 24 a 32 dentes por polegada.
+- Morsa de bancada ou grampo para fixar a peça.
+- Lima para remover rebarbas.
+- Lápis ou régua para marcar o corte.
+
+PROCEDIMENTO
+------------
+1. Coloque os óculos e as luvas antes de começar.
+2. Use lâmina com no mínimo três dentes tocando o metal de uma vez.
+3. Monte a lâmina no arco com os dentes voltados para frente.
+4. Tensione a lâmina até ficar firme, sem torção.
+5. Fixe a peça na morsa, com a linha de corte rente às mordentes.
+6. Marque a linha de corte com lápis e régua.
+7. Apoie a serra com as duas mãos, alinhada à marca.
+8. Faça a primeira passada leve para abrir o sulco, sem forçar.
+9. Aperte só no empurrão; na volta, solte a pressão sem levantar a lâmina.
+10. Use todo o comprimento da lâmina em cada passada, em ritmo regular.
+11. Se travar ou aquecer, pare, espere esfriar e corte com passadas curtas.
+12. Quando faltar pouco, segure a sobra com a mão luva para ela não cair.
+13. Retire a peça e passe a lima na borda cortada para tirar rebarbas.
+14. Junte a limalha com escova ou pano, nunca com as mãos, e lave as mãos.
+
+ATENCAO
+-------
+Lascas de metal voam e ferem os olhos: use óculos sempre, em todo corte.
+A borda cortada é afiada: nunca passe a mão sem luva; o corte infecta.
+Lâmina torta ou força excessiva quebra: troque-a, não insista.
+Peça presa pode soltar: fixe firme e segure a sobra para não cair nos pés.
+Metal com tinta velha ou origem desconhecida pode ter resíduo tóxico.
+Não inale a poeira; corte em local ventilado e lave as mãos.
+Pare se a lâmina travar, aquecer muito ou a peça escorregar.
+Com ferimento, lave, cubra e procure ajuda.
+
+SE NAO TIVER
+------------
+Sem morsa, prenda a peça entre duas madeiras com grampo.
+Nunca segure a peça com a mão durante o corte.
+Sem arco de serra, tesoura de chaparia corta chapa fina.
+Para barra grossa não há substituto manual seguro.
+Talhadeira e martelo lascam metal, mas a lasca voa: só com óculos.
+Sem óculos de proteção, não corte: arranje proteção antes de começar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O corte sai reto e acompanha a marca, sem sulcos fundos na lâmina.
+A peça separa sem empeno e a borda fica sem rebarbas cortantes após a lima.
+A lâmina não entorta nem queima, e nenhuma lasca ficou presa na peça.
+
+FONTES
+------
+Prática consolidada de corte manual de metais, difundida por guias
+técnicos de fabricantes de lâminas e manuais de ferramentas manuais.
+Inclui a regra dos três dentes, o corte no empurrão e a fixação da peça.
+Proteção ocular e facial contra partículas e metal fundido: norma OSHA
+1910.133 (Estados Unidos).

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 04-034
+TITULO: Como funciona a potência elétrica
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 20 minutos
+RISCO: medio
+EXIGE: papel, lápis e acesso às etiquetas dos aparelhos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: potência, watt, volt, ampere, consumo, gerador
+==============================================================================
+
+OBJETIVO
+--------
+Entender o que é potência em watts e somar cargas sem sobrecarregar.
+
+QUANDO USAR
+-----------
+Quando precisar saber se o gerador aguenta os aparelhos.
+Quando a bateria acaba rápido demais e você quer entender por quê.
+Quando precisar priorizar o que ligar primeiro na falta de luz.
+
+NAO USE QUANDO
+--------------
+Quando houver fio derretido, cheiro de queimado ou disjuntor que desarma.
+Quando o quadro elétrico estiver molhado ou com a tampa aberta.
+Para religar a rede da rua ou abrir quadro energizado.
+
+MATERIAIS
+---------
+- Papel e lápis para anotar os valores.
+- Etiqueta ou manual dos aparelhos com o valor em watts.
+- Calculadora simples ou conta manual (substituto do celular).
+
+PROCEDIMENTO
+------------
+1. Leia na etiqueta de cada aparelho a potência em watts.
+2. Anote a tensão em volts e a corrente em amperes quando houver.
+3. Entenda a regra central: watts medem a velocidade do consumo.
+4. Use a conta básica: potência é igual a tensão vezes corrente.
+5. Some os watts dos aparelhos que vão funcionar juntos.
+6. Compare a soma com o limite da fonte ou do gerador.
+7. Mantenha folga: não passe de aproximadamente 80 por cento do limite.
+8. Desligue um aparelho antes de ligar outro se a soma estourar.
+9. Teste na prática com um aparelho por vez no início.
+
+ATENCAO
+-------
+Potência errada causa sobrecarga: fio esquenta, derrete e pega fogo.
+Choque elétrico mata. Não abra quadro nem emende fio energizado.
+Nunca improvise ligação na rede da rua ou no relógio de luz.
+Gerador ligado em local fechado mata por monóxido sem cheiro.
+Se o disjuntor desarma sempre, pare e chame um eletricista.
+Este artigo não ensina conserto elétrico: só leitura e conta.
+
+SE NAO TIVER
+------------
+Sem etiqueta, use o manual ou anote o modelo para ver depois.
+Sem calculadora, some em partes no papel com calma.
+Sem painel no gerador, trate o limite como aproximado e use folga.
+Nunca chute o limite para cima: subestimar a carga é o erro que queima.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você prevê quanto cada aparelho puxa e a soma fica abaixo do limite.
+O gerador trabalha estável, sem aquecer fio nem desarmar proteção.
+
+FONTES
+------
+Definição de watt do NIST; orientações sobre geradores da FEMA;
+prática consolidada de ensino de eletricidade básica, sem documento único.

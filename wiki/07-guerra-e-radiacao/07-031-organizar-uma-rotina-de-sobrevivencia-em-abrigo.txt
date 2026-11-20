@@ -1,0 +1,91 @@
+==============================================================================
+CODIGO: 07-031
+TITULO: Como organizar uma rotina de sobrevivência em abrigo nuclear
+CATEGORIA: 07 - Guerra, radiação e catástrofes nucleares
+TEMPO: 60 minutos
+RISCO: critico
+EXIGE: rádio a pilha, água engarrafada, comida lacrada, sacos plásticos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: abrigo, fallout, rotina, água, comida, rádio, higiene
+==============================================================================
+
+OBJETIVO
+--------
+Manter o grupo protegido no abrigo por aproximadamente 24 horas.
+
+QUANDO USAR
+-----------
+Quando entrar no abrigo após clarão ou aviso nuclear.
+Quando a poeira radioativa já estiver caindo lá fora.
+Quando precisar esperar ordem oficial para sair.
+Quando houver criança, idoso ou animal no abrigo.
+Quando o grupo precisar de turnos para comer e dormir.
+
+NAO USE QUANDO
+--------------
+Se o prédio estiver em chamas ou risco de desabar, saia.
+Se a autoridade mandar evacuar, siga a ordem na hora.
+
+MATERIAIS
+---------
+- Rádio a pilha com pilha reserva (ou rádio de manivela).
+- Água engarrafada e comida em lata ou pacote fechado.
+- Sacos plásticos fortes para roupa suja, lixo e privada.
+- Balde com tampa, pano, sabão e papel para higiene.
+- Lanterna a pilha, remédio de uso diário e cobertor.
+- Máscara simples ou pano para cobrir boca e nariz.
+
+PROCEDIMENTO
+------------
+1. Feche portas, janelas e registro da lareira do abrigo.
+2. Desligue ventilador e ar que puxam ar de fora.
+3. Leve todos para o porão ou miolo longe de janela.
+4. Marque a entrada para tirar roupa e sapato sujos.
+5. Tire a roupa usada fora e feche em saco longe do grupo.
+6. Lave rosto, mãos e cabelo se tocou poeira de fora.
+7. Separe cantos para dormir, comer, lixo e privada.
+8. Guarde água e comida lacrada no miolo do abrigo.
+9. Limpe mesa e vasilha com pano úmido antes de comer.
+10. Sirva água e comida em horários fixos a cada turno.
+11. Use balde com saco como privada e amarre após usar.
+12. Feche lixo em saco e deixe longe de gente e animal.
+13. Monte turnos curtos para rádio, porta e cuidado.
+14. Ouça o rádio a pilha e anote a ordem com hora e data.
+15. Mantenha criança, idoso e animal sempre dentro.
+16. Fique dentro por aproximadamente 24 horas sem sair.
+17. Abra fresta para ventilar somente após poeira assentar.
+18. Saia somente com ordem oficial ou perigo imediato.
+
+ATENCAO
+-------
+Poeira radioativa não tem cheiro, gosto nem cor de aviso.
+Roupa e máscara seguram poeira mas não bloqueiam raio gama.
+Só parede grossa, terra e distância reduzem o raio gama.
+Ferver água não tira material radioativo da água.
+Coma somente comida lacrada ou guardada dentro do abrigo.
+Fogo dentro de local fechado solta gás que mata sem cheiro.
+Saída antes de aproximadamente 24 horas aumenta a dose.
+Procure socorro se houver vômito, tontura ou queimadura.
+
+SE NAO TIVER
+------------
+Sem rádio, espere ordem da defesa civil antes de sair.
+Sem água engarrafada, use água guardada em tanque e aquecedor.
+Sem balde, use saco duplo dentro de lata para privada.
+Sem máscara, cubra boca e nariz com pano seco e limpo.
+Sem remédio reserva, avise no resgate na primeira chance.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O grupo fica dentro por aproximadamente 24 horas.
+Ninguém sai para buscar gente, comida ou animal fora.
+Comida e água seguem em turnos sem acabar na primeira noite.
+Lixo e privada ficam fechados longe do canto de dormir.
+Você repete a ordem do rádio com hora sem dúvida.
+
+FONTES
+------
+Guia de planejamento para detonação nuclear da FEMA.
+Orientação sobre ficar dentro de casa do CDC americano.
+Orientação sobre comida, água e remédio em emergência do CDC.
+Orientação sobre explosão nuclear da Cruz Vermelha americana.

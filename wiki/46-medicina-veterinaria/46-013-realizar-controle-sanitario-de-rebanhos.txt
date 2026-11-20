@@ -1,0 +1,108 @@
+==============================================================================
+CODIGO: 46-013
+TITULO: Como realizar controle sanitário de rebanhos
+CATEGORIA: 46 - Medicina veterinária e saúde animal
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: água, sabão, desinfetante, calçados exclusivos, caderno, cercas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: rebanho, isolamento, quarentena, vacinação, higiene
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma rotina que reduz a entrada e a propagação de doenças no rebanho.
+
+QUANDO USAR
+-----------
+Ao iniciar ou ampliar uma criação de animais.
+Quando animais novos ou vindos de feiras voltam para o rebanho.
+Quando aparecem animais doentes ou mortes acima do normal.
+Antes e depois de vacinação, vermifugação ou mudança de pasto.
+Quando visitantes, vizinhos ou animais silvestres chegam perto dos animais.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação para observar, isolar e limpar.
+Não aplique vacinas, vermífugos ou remédios sem orientação do
+médico-veterinário: dose errada pode intoxicar ou matar os animais.
+
+MATERIAIS
+---------
+- Água limpa e sabão ou detergente para lavar as mãos.
+- Balde com solução desinfetante e pedilúvio (hipoclorito a 10%).
+- Roupa e calçados exclusivos para a área dos animais.
+- Equipamentos separados para animais sadios e doentes.
+- Cercas e um local de isolamento afastado do rebanho.
+- Caderno para anotar datas, animais, sintomas e tratamentos.
+- Guia de Trânsito Animal e carteira de vacinação, quando houver.
+
+PROCEDIMENTO
+------------
+1. Observe todos os animais uma vez por dia, de perto.
+2. Anote no caderno nascimentos, mortes, compras e manejo sanitário.
+3. Exija a Guia de Trânsito Animal na entrada e na saída de animais.
+4. Isole animais novos ou vindos de feiras antes de misturá-los ao rebanho.
+5. Coloque os isolados em local separado, sem contato com o rebanho.
+6. Mantenha o isolamento por 28 dias ou mais, conforme a orientação local.
+7. Observe os isolados todos os dias: tosse, coriza, diarreia ou mancar.
+8. Note também queda de apetite, feridas na pele e sinais nervosos.
+9. Trate parasitas externos e internos dos isolados antes de liberá-los.
+10. Lave as mãos com água e sabão antes e depois de manusear animais.
+11. Use roupa e calçados exclusivos da área dos animais.
+12. Coloque pedilúvio com solução desinfetante na entrada da instalação.
+13. Mantenha botas e pneus em contato com a solução por cerca de 10 minutos.
+14. Cuide primeiro dos animais sadios e dos doentes por último.
+15. Não compartilhe agulhas, baldes ou cochos entre os dois grupos.
+16. Limpe e desinfete equipamentos e veículos antes de usá-los no rebanho.
+17. Ofereça água limpa em bebedouros e mantenha os cochos limpos.
+18. Guarde a ração em recipientes fechados contra roedores e insetos.
+19. Mantenha as cercas em bom estado.
+20. Impeça contato com animais de vizinhos e com animais silvestres.
+21. Controle roedores, moscas e outros insetos na instalação.
+22. Retire animais mortos depressa e descarte-os longe da água e do rebanho.
+23. Siga o calendário de vacinação e vermifugação do médico-veterinário.
+24. Comunique doença suspeita ou morte ao serviço veterinário oficial.
+
+ATENCAO
+-------
+Animais com aparência sadia podem transmitir doenças; por isso o isolamento.
+O tempo de quarentena varia por espécie e doença: de 14 a 60 dias.
+Na dúvida, siga o serviço veterinário oficial e amplie o isolamento.
+Vacina ou vermífugo em dose errada pode intoxicar ou matar os animais.
+Nunca improvise dose, via ou produto sem orientação do médico-veterinário.
+Raiva, brucelose e tuberculose passam para pessoas. Use luvas e máscara.
+Não manipule animal morto com as mãos nuas nem permita que outros o comam.
+Desinfetante como hipoclorito irrita olhos e pele e solta vapor em local
+fechado: ventile o ambiente e proteja os olhos.
+Febre aftosa, brucelose, tuberculose e raiva exigem comunicação oficial.
+Não tente esconder a doença nem tratar por conta própria.
+Se aparecerem vários doentes, mortes rápidas ou sinais nervosos, pare o
+manejo, isole os afetados e procure o serviço veterinário oficial.
+Este procedimento reduz riscos, mas não substitui o médico-veterinário.
+
+SE NAO TIVER
+------------
+Sem desinfetante, lave com água e sabão e use sol; a proteção será menor.
+Sem local de isolamento, use o ponto mais afastado que existir.
+Sem documento de origem, não introduza o animal novo no rebanho.
+Sem veterinário, limite-se a observar, isolar e comunicar aos oficiais.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Todo animal foi visto no dia e anotado no caderno.
+Animais novos passaram o isolamento sem apresentar sinais de doença.
+Não houve contato direto entre isolados e o resto do rebanho.
+Bebedouros e cochos estão limpos e a ração está protegida.
+Não surgiram novos casos nem mortes acima do normal.
+
+FONTES
+------
+Organização Mundial de Saúde Animal (WOAH): Código Sanitário para Animais
+Terrestres, capítulo de biossegurança e recomendações de vigilância.
+Ministério da Agricultura e Pecuária (MAPA): Boas Práticas Agropecuárias
+para Bovinos e Instrução Normativa 56/2007 sobre controle sanitário.
+Embrapa: recomendações sobre quarentena e biosseguridade em suínos,
+bovinos e caprinos, incluindo isolamento e exames laboratoriais.
+Serviços oficiais de sanidade animal (USDA e GOV.UK): higiene de pessoas,
+veículos e equipamentos, observação diária e descarte de animais mortos.

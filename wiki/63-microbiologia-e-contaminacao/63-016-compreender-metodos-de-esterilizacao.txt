@@ -1,0 +1,76 @@
+==============================================================================
+CODIGO: 63-016
+TITULO: Como compreender métodos de esterilização
+CATEGORIA: 63 - Microbiologia, parasitologia e contaminação
+TEMPO: 20 minutos
+RISCO: alto
+EXIGE: caderno, caneta
+REVISAO: 2026-11
+PALAVRAS-CHAVE: esterilização, matar germes, autoclave, vapor, esporos
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer o que a esterilização faz e escolher o método seguro para
+cada material.
+
+QUANDO USAR
+-----------
+Quando precisar saber se um método realmente mata todos os germes.
+Quando decidir como tratar objeto que encosta em ferida ou sangue.
+Quando comparar autoclave, calor seco, químicos e radiação.
+Quando houver dúvida entre apenas desinfetar e realmente esterilizar.
+
+NAO USE QUANDO
+--------------
+Quando houver suspeita de material radioativo ou químico perigoso.
+Quando o objeto for eletrônico, de plástico que derrete ou de papel.
+Nesses casos o calor e os químicos destruem o objeto sem garantia.
+
+MATERIAIS
+---------
+- Caderno para anotar o método escolhido.
+- Caneta.
+
+PROCEDIMENTO
+------------
+1. Defina o alvo: matar toda forma de vida microbiana, inclusive esporos.
+2. Separe os objetos em resistentes ao calor e sensíveis ao calor.
+3. Escolha vapor sob pressão, em autoclave, para metal, vidro e tecido.
+4. Controle os quatro parâmetros: vapor, pressão, temperatura e tempo.
+5. Em autoclave gravitacional, use 121°C por pelo menos 30 minutos.
+6. Em autoclave com pré-vácuo, use 132°C por pelo menos 4 minutos.
+7. Use calor seco só para óleos e pós: 160°C por pelo menos 2 horas.
+8. Reserve químicos e radiação para material que não tolera calor.
+9. Confirme o ciclo com indicador químico e, se possível, biológico.
+10. Guarde o objeto esterilizado embrulhado, seco e tampado.
+
+ATENCAO
+-------
+Ferver, passar álcool e usar luz ultravioleta não esterilizam instrumentos.
+Vapor sob pressão queima e pode estourar se a válvula ou vedação falhar.
+Calor seco exige temperatura alta e tempo longo; não serve para uso geral.
+Óxido de etileno é inflamável, tóxico e exige aeração antes do uso.
+Indicador químico mostra que houve ciclo, não prova esterilidade.
+Embalagem molhada, rasgada ou caducada significa objeto contaminado de novo.
+Sem equipamento calibrado e sem treino, não improvise: procure ajuda.
+
+SE NAO TIVER
+------------
+Sem autoclave, não use panela comum em instrumentos que encostam em ferida.
+Ferver reduz germes, mas não mata esporos e não substitui a esterilização.
+Sem método validado, prefira material descartável ou procure ajuda.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O indicador mudou de cor conforme o ciclo programado.
+A embalagem saiu seca, íntegra e com data e registro anotados.
+No teste biológico, não há crescimento de microrganismos.
+
+FONTES
+------
+Diretriz de Desinfecção e Esterilização em Serviços de Saúde do CDC (2008).
+Kit de procedimentos da OMS para monitoramento e qualidade de autoclave.
+Manual de Reprocessamento de Materiais da OMS (2016).
+Anvisa, RDC 210/2003: preferir calor quando possível e praticável.
+Resumo operacional; não substitui treinamento nem protocolo do fabricante.

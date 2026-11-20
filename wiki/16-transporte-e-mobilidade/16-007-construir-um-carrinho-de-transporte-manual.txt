@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 16-007
+TITULO: Como construir um carrinho de transporte manual
+CATEGORIA: 16 - Transporte e mobilidade
+TEMPO: 120 minutos
+RISCO: alto
+EXIGE: madeira ou bambu, corda, roda com eixo, faca, serrote
+REVISAO: 2026-11
+PALAVRAS-CHAVE: carrinho, transporte, carga, roda, arrastar, mão, eixo
+==============================================================================
+
+OBJETIVO
+--------
+Construir carrinho de mão para mover carga pesada sem usar os braços.
+
+QUANDO USAR
+-----------
+Quando for preciso levar água, lenha ou alimento por longa distância.
+Quando a carga pesar mais do que se consegue carregar nos braços.
+Quando houver caminho plano ou ladeira suave, livre de buracos.
+Quando houver madeira, corda e uma roda aproveitável.
+
+NAO USE QUANDO
+--------------
+Em ladeira íngreme, lama, areia fofa ou degraus: a roda afunda ou tomba.
+Quando a carga for líquido sem tampa ou material que corte ou derrame.
+Para levar pessoa ferida sem cinto e apoio: use antes um arraste estável.
+Quando faltar corda ou amarração firme: não use gravetos soltos.
+
+MATERIAIS
+---------
+- Duas ripas retas de aproximadamente 1,2 m (ou galhos firmes).
+- Duas travessas curtas de aproximadamente 50 cm (ou galhos mais finos).
+- Uma roda com pneu ou disco e cubo (ou roda de bicicleta velha).
+- Um eixo de metal ou madeira dura que atravesse o cubo (ou parafuso).
+- Corda, cinto de pano trançado ou fibra vegetal para amarrar.
+- Faca, serrote ou outro instrumento de corte.
+- Tábua, lona ou saco resistente para o leito (ou papelão duplo).
+- Pano ou pedaço de couro para proteger as mãos.
+
+PROCEDIMENTO
+------------
+1. Escolha duas ripas retas, sem rachadura, de aproximadamente 1,2 m.
+2. Corte as duas travessas com aproximadamente 50 cm cada uma.
+3. Assente as duas ripas paralelas no chão.
+4. Coloque uma travessa na frente e outra atrás, formando um retângulo.
+5. Amarre cada canto com corda, dando duas voltas e apertando o nó.
+6. Passe um cordel nas duas diagonais e ajuste até ficarem iguais.
+7. Encaixe a roda entre as ripas, na frente, com o eixo atravessando o cubo.
+8. Amarre o eixo às ripas por cima e por baixo para não sair.
+9. Prenda a tábua ou lona ao retângulo com amarrações nas quatro bordas.
+10. Amarre uma travessa entre as pontas traseiras para servir de alça.
+11. Levante as alças e empurre vazio alguns passos em terreno plano.
+12. Aperte toda amarração que afrouxar ou deslocar.
+13. Coloque pouca carga primeiro e aumente aos poucos.
+14. Deixe o peso sobre a roda, nunca na ponta das alças.
+15. Amarre a carga ao leito com corda antes de sair do lugar.
+
+ATENCAO
+-------
+Eixo torto ou roda frouxa tombam o carrinho e podem esmagar mãos e pés.
+Não use roda com pneu rasgado, cubo rachado ou eixo com folga.
+Nunca se apóie no carrinho em ladeira: ele desliza e a carga cai.
+Não carregue mais do que consegue empurrar com as costas retas.
+Pare e revise as amarrações após cada trecho de pedra solta.
+Se sentir dor aguda nas costas, descarregue, pare e procure ajuda.
+A montagem específica do carrinho não vem de um único documento.
+O manual militar sustenta a amarração e o quadro, não este desenho.
+
+SE NAO TIVER
+------------
+Sem roda, arraste duas ripas atadas em V com corda nas pontas.
+Sem corda, desfaca um cinto de pano ou torça fibra de casca de árvore.
+Não use arame fino como corda: ele corta a mão sob carga.
+Sem madeira, use bambu ou tubo de metal; não use madeira podre.
+Sem eixo resistente, não improvise com prego: ele dobra e a roda sai.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O retângulo fica firme, sem torção, e as amarrações não soltam com o peso.
+A roda gira livre, alinhada, sem ranger nem encostar nas ripas.
+O carrinho anda em linha reta com as mãos nas alças e o leito nivelado.
+
+FONTES
+------
+Manual de sobrevivência do Exército dos EUA, FM 21-76 e FM 3-05.70:
+cordagem, amarração, quadros de bambu e planejamento de carga.
+Prática consolidada de carrinhos e carretos manuais, sem documento único.
+Resumo operacional; não substitui treinamento.

@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 10-038
+TITULO: Como produzir álcool combustível
+CATEGORIA: 10 - Sobrevivência em ambientes naturais
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: levedura, açúcar, água, alambique, condensador, ventilação, extintor
+REVISAO: 2026-11
+PALAVRAS-CHAVE: álcool, etanol, combustível, fermento, destilação, metanol
+==============================================================================
+
+OBJETIVO
+--------
+Obter etanol para queima em lampião ou fogareiro, nunca para beber.
+
+QUANDO USAR
+-----------
+Quando houver açúcar, melaço ou caldo de cana e faltar combustível.
+Quando for preciso combustível para lampião, fogareiro ou aquecimento.
+Quando a rede de energia acabar e sobrar material doce para fermentar.
+
+NAO USE QUANDO
+--------------
+Quando o local for fechado: o CO2 da fermentação e o vapor inflamável matam.
+Quando não der para manter chamas e faíscas longe do alambique.
+Quando o produto for para beber: metanol causa cegueira e morte.
+Quando o aparelho não tiver saída de vapor: a pressão pode estourá-lo.
+
+MATERIAIS
+---------
+- Açúcar, melaço ou caldo de cana.
+- Água limpa.
+- Levedura (fermento de padeiro ou fermento natural).
+- Vaso de fermentação com tampa frouxa que deixe o gás sair.
+- Alambique com saída de vapor e condensador.
+- Fonte de calor indireto (banho-maria ou resistência).
+- Termômetro para medir a temperatura do vapor na saída.
+- Extintor ou balde de areia.
+- Frasco escuro com tampa e rótulo dizendo COMBUSTÍVEL.
+
+PROCEDIMENTO
+------------
+1. Dissolva aproximadamente 1 parte de açúcar em 5 partes de água morna.
+2. Espere a mistura amornar a aproximadamente 30 °C antes do fermento.
+3. Adicione a levedura e mexa até dissolver.
+4. Cubra com pano ou tampa frouxa; nunca feche o vaso hermeticamente.
+5. Deixe fermentar de 3 a 7 dias em lugar morno e escuro, sem mexer.
+6. Não incline o rosto sobre o vaso: o CO2 não tem cheiro e afoga.
+7. Transfira o líquido fermentado para o alambique, enchendo até 2/3.
+8. Monte o condensador e confirme que a saída de vapor está livre.
+9. Aqueça por calor indireto; mantenha chamas e faíscas longe do aparelho.
+10. Descarte os primeiros 10% (aproximadamente) do destilado: têm metanol.
+11. Colete o etanol enquanto a temperatura na saída ficar perto de 78 °C.
+12. Pare a coleta quando a saída passar de aproximadamente 85 °C.
+13. Desligue o calor, ventile o ambiente e espere o aparelho esfriar.
+14. Guarde o destilado em frasco escuro, rotulado COMBUSTÍVEL, longe de
+crianças.
+
+ATENCAO
+-------
+O que mata aqui é fogo, explosão, asfixia e metanol.
+Vapor de etanol inflama a partir de aproximadamente 13 °C e é mais
+pesado que o ar: corre rente ao chão até uma chama e volta (retorno de
+chama). Nunca use fogo aberto perto do alambique; use calor indireto e
+mantenha o condensador longe de qualquer fonte de ignição.
+Nunca destile em recipiente fechado: a pressão estoura o aparelho e
+espalha líquido em chamas.
+O CO2 da fermentação é incolor, sem cheiro e mais pesado que o ar; em
+local fechado ou fundo de poço, 10% no ar já causa desmaio e morte.
+Nunca entre em tanque, poço ou porão onde houve fermentação sem ventilar
+e testar o ar antes.
+Produto caseiro não tem controle de qualidade: metanol causa cegueira e
+morte. Nunca beba, mesmo depois de descartar a cabeça.
+Se sentir cheiro de solvente, vir vapor ou perder o controle do calor,
+desligue, saia e ventile. Em queimadura ou ingestão, busque atendimento.
+
+SE NAO TIVER
+------------
+Sem alambique, não improvise com radiador de carro ou canos de chumbo:
+metais e soldas podem contaminar o combustível.
+Sem fermento de padeiro, use fermento natural (massa mãe), mas a
+fermentação fica mais lenta e incerta.
+Sem termômetro, descarte a cabeça com folga e aceite qualidade incerta.
+Sem calor indireto, não destile: o risco de incêndio é grande demais.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O mosto borbulha nos primeiros dias e para de borbulhar ao fim.
+O destilado sai límpido, com cheiro alcoólico e sem turbidez.
+A temperatura na saída sobe quando o etanol acaba e só água passa.
+O líquido restante no alambique fica com aspecto de água.
+
+FONTES
+------
+Manual Técnico da OSHA (seção IV, capítulo 5) sobre incêndio e explosão
+na destilação de etanol; boletim da OSHA e Guia do NIOSH sobre asfixia
+por dióxido de carbono; alertas da FDA e do CDC sobre metanol em álcool
+contaminado; artigo de pesquisa sobre produção de etanol no Brasil
+(Embrapa/FAPESP).

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 33-012
+TITULO: Como realizar manejo de água em propriedades rurais
+CATEGORIA: 33 - Agricultura avançada e autossuficiência rural
+TEMPO: 6 horas
+RISCO: medio
+EXIGE: trena, estacas, arame, pá, bebedouro com boia, tanque tampado
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, nascente, cisterna, barraginha, bebedouro, seca
+==============================================================================
+
+OBJETIVO
+--------
+Mapear, proteger e distribuir a água da propriedade para reduzir perdas.
+
+QUANDO USAR
+-----------
+Quando a propriedade tem nascente, poço ou açude sem proteção.
+Quando os animais bebem direto em rio, lagoa ou açude.
+Quando a enxurrada leva terra e a lavoura sofre com a seca.
+
+NAO USE QUANDO
+--------------
+Quando a fonte cheira a combustível ou há suspeita de agrotóxico,
+metal pesado ou esgoto. Não capte para consumo sem análise.
+
+MATERIAIS
+---------
+- Caderno, lápis e trena ou corda com nós a cada metro.
+- Estacas, arame, enxada, pá e cavadeira.
+- Bebedouro com boia e mangueira para enterrar.
+- Tanque tampado para a água de chuva.
+
+PROCEDIMENTO
+------------
+1. Desenhe no caderno nascentes, poços, açudes e curvas de nível.
+2. Marque os caminhos por onde a enxurrada desce.
+3. Delimite a nascente com estacas até 15 metros de raio da APP.
+4. Cerque a área com arame; por cautela, alcance 50 metros de raio.
+5. Retire lixo e planta invasora sem mexer no olho da nascente.
+6. Cubra a margem com mudas nativas para frear a erosão.
+7. Instale bebedouro com boia fora da cerca e leve a mangueira até ele.
+8. Enterre a mangueira a aproximadamente 80 cm de profundidade.
+9. Mantenha o bebedouro na sombra e limpe-o toda semana.
+10. Escave barraginhas nos caminhos de enxurrada, em curva de nível.
+11. Faça cada bacia com aproximadamente 20 m de diâmetro e rampas suaves.
+12. Capte água de chuva do telhado para tanque tampado e meça o consumo.
+
+ATENCAO
+-------
+Não permita animais na nascente: pisoteio e fezes sujam a água.
+Não escave em leito de córrego, APP, voçoroca ou encosta acima de 12%.
+Barraginha mal dimensionada transborda e pode causar dano na chuva forte.
+Água de nascente não é potável sem tratamento; para beber, veja 01-001.
+Captação em rio ou poço pode exigir outorga do órgão estadual ou da ANA.
+
+SE NAO TIVER
+------------
+Sem arame, use cerca de madeira; sem mudas, deixe a vegetação crescer.
+Sem tanque, use recipientes tampados, mas limpe com mais frequência.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Nascente cercada, limpa, com mudas e bebedouro ativo fora da cerca.
+Após a chuva, a barraginha guarda água e a enxurrada não leva terra.
+
+FONTES
+------
+Embrapa e SENAR: manejo da água na agropecuária, proteção de nascentes,
+barraginhas e conservação de solo; ANA: outorga de uso da água.

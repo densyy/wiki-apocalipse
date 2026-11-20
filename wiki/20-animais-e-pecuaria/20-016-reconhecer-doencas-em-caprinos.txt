@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 20-016
+TITULO: Como reconhecer doenças em caprinos
+CATEGORIA: 20 - Animais domésticos e pecuária
+TEMPO: 20 minutos
+RISCO: alto
+EXIGE: luz boa, caderno, lápis, distância segura do animal
+REVISAO: 2026-11
+PALAVRAS-CHAVE: caprino, cabra, doença, apatia, verminose, notificar
+==============================================================================
+
+OBJETIVO
+--------
+Identificar sinais de doença em cabras e bodes e decidir quando agir.
+
+QUANDO USAR
+-----------
+Ao notar um animal diferente do resto do rebanho.
+Ao encontrar um caprino caído, mancando ou sem apetite.
+Depois de chuva forte, quando aumentam verminoses e infecções.
+Antes de comprar ou introduzir um animal no rebanho.
+Quando aparecerem abortos, secreção nasal ou feridas na boca.
+
+NAO USE QUANDO
+--------------
+Não use para dar diagnóstico definitivo nem para escolher remédio.
+Exame laboratorial e veterinário são necessários para confirmar.
+Se houver suspeita de raiva, não aproxime a mão nem tente conter o animal.
+
+MATERIAIS
+---------
+- Caderno e lápis para anotar sinais, data e identificação do animal.
+- Luz boa, de dia ou lanterna (fogo ou luz de celular).
+- Cercado ou passeio para observar sem encostar (bastão longo).
+- Luvas descartáveis para contato com secreções (pano limpo).
+
+PROCEDIMENTO
+------------
+1. Observe o rebanho à distância, sem entrar no cercado.
+2. Compare cada animal com os demais: quem está parado ou isolado.
+3. Verifique o apetite: o animal doente come menos ou para de comer.
+4. Olhe os olhos: pálpebra e gengiva brancas indicam anemia (verminose).
+5. Observe o pelo: áspero, arrepiado e sem brilho sinaliza doença crônica.
+6. Note se há inchaço abaixo do queixo, o "papo inchado" da verminose.
+7. Procure mancar ou ficar deitado; pode ser artrite ou problema de casco.
+8. Observe a respiração: tosse ou dificuldade sugerem pneumonia.
+9. Cheque focinho, língua e boca: bolhas ou feridas sugerem febre aftosa.
+10. Veja se há secreção nasal, lacrimejamento ou febre.
+11. Note tremores, andar em círculo ou cegueira, mais comuns em jovens.
+12. Inspecione gânglios: inchaço na espátula ou atrás da orelha.
+13. Verifique tetos e úbere: inchado, quente ou com feridas é mamite.
+14. Anote abortos, nascidos fracos ou testículos inchados nos machos.
+15. Isole o animal suspeito dos demais, se puder fazer sem risco.
+16. Chame o veterinário ou a defesa sanitária ao notar febre aftosa.
+17. Não vacine, não dê remédio e não movimente o animal sem orientação.
+
+ATENCAO
+-------
+Febre aftosa, PPR, varíola caprina e brucelose são de notificação
+obrigatória no Brasil; em caprinos os sinais podem ser leves e passar
+despercebidos. Brucelose e raiva passam para pessoas: use luvas e não
+manipule feto, placenta, saliva ou animal com sinais nervosos.
+Não diagnostique sozinho: verminose, CAE e aftosa têm sinais parecidos;
+remédio errado agrava o quadro e pode contaminar o rebanho.
+Não mate nem descarte animal suspeito sem orientação oficial.
+Leite e carne de animal doente não devem ser consumidos nem vendidos.
+Se o animal piorar rápido ou não levantar, pare e busque ajuda.
+
+SE NAO TIVER
+------------
+Sem lanterna, faça a inspeção em plena luz do dia.
+Sem luvas, evite contato: observe, anote e chame quem tenha proteção.
+Sem veterinário próximo, acione a defesa sanitária do município.
+Não substitua exame laboratorial por chá, remédio caseiro ou palpite.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você anotou os sinais, isolou o suspeito e acionou o veterinário ou a
+defesa sanitária antes de qualquer tratamento ou movimentação.
+
+FONTES
+------
+Embrapa, Boletim de Defesa Sanitária Animal nº 22 (2024), doenças de
+caprinos e ovinos de notificação obrigatória; Ministério da Agricultura
+e Pecuária, ficha técnica de febre aftosa (2025); WOAH e OMS, brucelose;
+Aged (Maranhão), Programa Nacional de Sanidade de Caprinos e Ovinos.
+Resumo operacional; não substitui exame ou orientação veterinária.

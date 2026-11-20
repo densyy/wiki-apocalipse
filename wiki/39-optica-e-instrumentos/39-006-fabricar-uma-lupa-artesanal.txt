@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 39-006
+TITULO: Como fabricar uma lupa artesanal
+CATEGORIA: 39 - Óptica e instrumentos científicos
+TEMPO: 20 minutos
+RISCO: baixo
+EXIGE: arame fino, filme plástico transparente, água limpa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: lupa, ampliar, lente, água, gota, aumentar, leitura
+==============================================================================
+
+OBJETIVO
+--------
+Fabricar uma lente simples com água para ampliar texto e detalhes pequenos.
+
+QUANDO USAR
+-----------
+Quando precisar ler letra miúda sem lupa comprada.
+Quando precisar inspecionar sementes, tecido ou marcas pequenas.
+Quando não houver lente de vidro disponível.
+
+NAO USE QUANDO
+--------------
+Quando a leitura envolver risco: dose de remédio ou aviso de perigo.
+A lente caseira distorce e pode induzir a erro.
+
+MATERIAIS
+---------
+- Arame fino ou clip de metal para formar um aro.
+- Filme plástico transparente e fita adesiva ou linha.
+- Água limpa em recipiente pequeno.
+- Palito ou conta-gotas para pingar a água.
+- Cabo de madeira ou arame extra para segurar o aro.
+
+PROCEDIMENTO
+------------
+1. Dobre o arame formando círculo de aproximadamente 3 cm de diâmetro.
+2. Deixe uma ponta reta do arame para servir de cabo.
+3. Estique o filme plástico sobre o círculo, sem rugas.
+4. Prenda as bordas do filme com fita ou linha.
+5. Segure o aro na horizontal, com o filme voltado para cima.
+6. Pingue uma gota de água limpa no centro do filme.
+7. Confira se a gota ficou arredondada, sem escorrer.
+8. Aproxime o aro do texto até a letra aparecer maior.
+9. Ajuste a distância até o texto ficar nítido.
+
+ATENCAO
+-------
+A gota d'água amplia pouco e distorce as bordas do texto.
+Não substitui lente de vidro nem óculos de leitura.
+Não use para ler dose de remédio ou aviso de perigo.
+Nunca olhe para o sol através da lente, mesmo por pouco tempo.
+Mantenha o aro nivelado; se a gota escorrer, limpe e pingue outra.
+Não desbaste vidro ou pedra em casa: aresta corta e pó fere olhos.
+
+SE NAO TIVER
+------------
+Sem filme, pingue a gota sobre vidro limpo; não use papel.
+Sem arame, faça um furo no papelão e prenda o filme sobre ele.
+Sem água limpa, não improvise com saliva, urina ou líquido desconhecido.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Uma gota arredondada fica presa no centro do filme.
+Ao aproximar do papel, as letras aparecem maiores e nítidas.
+
+FONTES
+------
+Prática consolidada de demonstração escolar de óptica: gota d'água sobre
+filme transparente funciona como lente convexa. Sem documento único.

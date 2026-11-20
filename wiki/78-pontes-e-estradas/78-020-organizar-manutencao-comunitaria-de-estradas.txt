@@ -1,0 +1,91 @@
+==============================================================================
+CODIGO: 78-020
+TITULO: Como organizar manutenção comunitária de estradas
+CATEGORIA: 78 - Pontes, estradas e infraestrutura de transporte
+TEMPO: 120 minutos
+RISCO: medio
+EXIGE: reunião da comunidade, ferramentas, cronograma, sinalização
+REVISAO: 2026-11
+PALAVRAS-CHAVE: estrada, manutencao, comunidade, mutirao, valeta, buraco
+==============================================================================
+
+OBJETIVO
+---------
+Criar uma rotina compartilhada de cuidados com a estrada, com
+responsáveis, turnos e tarefas definidas por todos.
+
+QUANDO USAR
+-----------
+Quando a estrada do assentamento começa a criar buracos e valas.
+Antes da estação chuvosa, para limpar a drenagem e preveni-los.
+Depois de enchentes, deslizamentos ou passagem de veículos pesados.
+Quando o conserto depende de várias famílias e ninguém assume.
+
+NAO USE QUANDO
+--------------
+Não substitua reparo estrutural por mutirão: pontes podres exigem
+profissional. Não organize o mutirão sem acordo sobre quem participa.
+Não faça trabalho pesado sem sinalizar a via para quem transita.
+
+MATERIAIS
+---------
+- Enxadas, pás, picaretas, rastelos e carriolas (ferramentas comuns).
+- Cascalho, pedra miúda e terra argilosa para os reparos.
+- Estacas, fita ou bandeiras para sinalizar a área de trabalho.
+- Caderno ou quadro para o cronograma e a lista de tarefas.
+- Botas, luvas e coletes ou camisas claras para os participantes.
+- Rádio, apito ou sino para avisar a equipe (celular, se houver).
+
+PROCEDIMENTO
+------------
+1. Convoque uma reunião com moradores e usuários da estrada.
+2. Caminhe pelo trecho todo e anote os problemas em ordem.
+3. Classifique cada problema: buraco, valeta entupida, erosão ou
+   ponto de atoleiro.
+4. Meça prioridade pelo risco: bloqueio de acesso vem primeiro.
+5. Liste quem pode trabalhar e em quais dias da semana.
+6. Escolha um responsável por trecho, com nome e contato.
+7. Defina turnos curtos para não parar a produção de ninguém.
+8. Agende o primeiro mutirão e anote no quadro do grupo.
+9. Sinalize as duas pontas do trecho antes de começar.
+10. Limpe valetas e bueiros primeiro, para a água escoar.
+11. Limpe o mato das bordas que segura umidade e esconde erosão.
+12. Para buraco: retire a lama, encha com pedra e compacte.
+13. Complete com cascalho e deixe o topo levemente alto.
+14. Abra valas de escoamento onde a água atravessa a pista.
+15. Registre no caderno o que foi feito e o que ficou pendente.
+16. Refaça a caminhada uma semana depois para conferir o serviço.
+17. Repita a inspeção antes e depois de cada chuva forte.
+
+ATENCAO
+-------
+Buraco mal fechado volta pior na primeira chuva e engana o motorista.
+Nunca trabalhe sem avisar quem usa a estrada: risco de atropelo.
+Valeta entupida represa água e corta a pista ou derruba a ponte.
+Mutirão sem responsável nomeado acaba na primeira semana.
+Não faça trabalho pesado em dia de chuva: o solo vira lama.
+Se aparecer rachadura larga ou afundamento, isole e peça engenheiro.
+Respeite o acordo de turnos: faltas desanimam o grupo inteiro.
+
+SE NAO TIVER
+------------
+Sem cascalho, use pedra miúda e terra argilosa bem compactada.
+Sem quadro, anote o cronograma em caderno e deixe na casa do
+responsável.
+Sem ferramentas suficientes, organize rodízio entre as famílias.
+Sem consenso, comece com um trecho curto e mostre o resultado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A estrada fica transitável após a chuva, sem atoleiros novos.
+As valetas escoam e os bueiros estão desobstruídos.
+Cada trecho tem um responsável nomeado e um turno no quadro.
+As pendências da reunião anterior foram conferidas na caminhada.
+
+FONTES
+------
+Prática consolidada de manutenção rural participativa e de estradas
+de terra, derivada de manuais do DNIT, do SENAR e de projetos de
+manutenção comunitária. A organização em mutirão é adaptada à
+realidade local; não substitui projeto de engenharia quando
+necessário.

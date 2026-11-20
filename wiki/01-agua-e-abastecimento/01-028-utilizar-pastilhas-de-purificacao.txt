@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 01-028
+TITULO: Como utilizar pastilhas de purificação
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 10 minutos
+RISCO: medio
+EXIGE: pastilhas de purificação, recipiente limpo com tampa, pano limpo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, pastilha, purificação, cloro, iodo, desinfetar
+==============================================================================
+
+OBJETIVO
+--------
+Desinfetar água suspeita com pastilhas para reduzir o risco de doenças.
+
+QUANDO USAR
+-----------
+Quando não há fogo, energia ou recipiente para ferver a água.
+Quando a água vem de fonte sem tratamento conhecido.
+Em acampamento, caminhada ou abrigo de emergência.
+
+NAO USE QUANDO
+--------------
+Com suspeita de combustível, agrotóxico, metal pesado ou radioatividade.
+Com iodo: não use na gravidez, com tireoide ou sensibilidade ao iodo.
+Quando a água estiver muito turva e não puder ser clarificada primeiro.
+
+MATERIAIS
+---------
+- Pastilhas de purificação (cloro, iodo ou dióxido de cloro) válidas.
+- Recipiente limpo, com tampa, sem resíduo de tinta, químico ou combustível.
+- Pano limpo (filtro de papel ou de café) para coar água turva.
+
+PROCEDIMENTO
+------------
+1. Leia o rótulo: tipo de pastilha, volume de água e tempo de contato.
+2. Coe a água com pano limpo se ela estiver turva.
+3. Despeje a água clara no recipiente limpo.
+4. Adicione a dose do rótulo para aquele volume de água.
+5. Use o dobro da dose se a água estiver muito fria ou ainda turva.
+6. Tampe e agite até a pastilha dissolver por completo.
+7. Deixe em repouso tampada pelo tempo do rótulo, no mínimo 30 minutos.
+8. Aumente o tempo na água fria: dobre a cada 10 °C abaixo de 25 °C.
+9. Guarde em recipiente limpo e tampado, sem tocar na água.
+
+ATENCAO
+-------
+Cloro e iodo não matam Cryptosporidium; dióxido de cloro exige mais tempo.
+Não removem metais, agrotóxicos, combustível, sal nem radioatividade.
+Com suspeita química ou radioativa, mude de fonte; ferver não resolve.
+Com iodo: não use na gravidez, com tireoide ou sensibilidade ao iodo.
+Não use iodo por muito tempo; com diarreia ou vômito, pare e procure ajuda.
+
+SE NAO TIVER
+------------
+Sem pastilhas, ferver é a alternativa mais segura (veja 01-001).
+Sem fogo, água sanitária sem perfume pode desinfetar; siga o rótulo.
+Sem pano, deixe assentar e use a parte clara; sem tampa, beba na hora.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A pastilha dissolveu por completo, sem resíduo no fundo.
+Passaram-se os minutos de contato, no mínimo 30.
+A água está clara, tampada e, com cloro, tem leve cheiro.
+
+FONTES
+------
+Orientações da OMS sobre emergências e Guia da OMS para água potável.
+CDC, Como tornar a água segura em uma emergência, e Livro Amarelo do CDC.
+EPA, Desinfecção de emergência da água; FEMA; prática consolidada.

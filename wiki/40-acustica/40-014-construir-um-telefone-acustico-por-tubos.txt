@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 40-014
+TITULO: Como construir um telefone acústico por tubos
+CATEGORIA: 40 - Acústica e engenharia sonora
+TEMPO: 40 minutos
+RISCO: baixo
+EXIGE: tubo rigido e liso, dois funis, fita adesiva, vedacao
+REVISAO: 2026-11
+PALAVRAS-CHAVE: tubo, acústico, telefone, falante, voz, funil, som
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma conversa por tubo, sem energia, entre dois pontos.
+
+QUANDO USAR
+-----------
+Quando falar com outro compartimento sem luz ou sem eletricidade.
+Quando o ruido ambiente impedir a conversa em voz alta.
+
+NAO USE QUANDO
+--------------
+Quando o tubo tiver de atravessar ambiente com gas, fumaca ou agua.
+O tubo comunica os ambientes e pode levar gas toxico ao ouvinte.
+
+MATERIAIS
+---------
+- Tubo rigido, liso e continuo (mangueira lisa sem dobras).
+- Dois funis, um para falar e outro para ouvir (cone de papelao).
+- Fita adesiva ou pano e corda para vedar as emendas.
+- Lixa ou faca para remover arestas cortantes.
+
+PROCEDIMENTO
+------------
+1. Escolha um tubo reto, rigido, sem rachaduras ou obstrucoes.
+2. Use diametro interno de aproximadamente 4 centimetros ou mais.
+3. Corte o tubo no comprimento desejado, com cortes retos.
+4. Lixe as duas extremidades ate nao haver aresta cortante.
+5. Encaixe um funil em cada extremidade do tubo.
+6. Vede toda a folga da emenda com fita adesiva apertada.
+7. Confirme que nao entra ar nas juntas passando a mao por fora.
+8. Evite curvas fechadas; dobre o tubo em arco amplo.
+9. Fale com voz clara, boca junto ao funil, um assunto por vez.
+10. Encoste o ouvido no outro funil e tampe o ouvido livre.
+
+ATENCAO
+-------
+O tubo liga os ambientes: conduz gas, fumaca, poeira e agua.
+Nao instale entre compartimentos com risco de inundacao ou fogo.
+Nao use tubo que tenha transportado combustivel, solvente ou toxico.
+Aresta de tubo cortado fere boca e ouvido: lixe sempre as pontas.
+Emenda mal vedada perde quase todo o som; refaca se falhar.
+Curva fechada, funil amassado e tubo entupido cortam a voz.
+
+SE NAO TIVER
+------------
+Sem funil, use cone de papel grosso ou a boca na abertura.
+Sem tubo rigido, use mangueira lisa; evite a corrugada.
+Sem fita, enrole pano nas emendas e amarre com corda.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O outro lado entende as palavras sem que seja preciso gritar.
+Ao tampar o funil receptor, o som some e volta ao destampar.
+
+FONTES
+------
+Prática consolidada de tubos falantes, usada em navios e edifícios
+desde o século XIX e independente de energia elétrica. O som se
+propaga no ar preso no tubo; tubo mais largo perde menos som.

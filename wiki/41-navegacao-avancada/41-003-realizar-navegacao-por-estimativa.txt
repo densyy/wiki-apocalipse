@@ -1,0 +1,90 @@
+==============================================================================
+CODIGO: 41-003
+TITULO: Como realizar navegação por estimativa
+CATEGORIA: 41 - Navegação avançada e técnicas de expedição
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: bússola, caderno, lápis, cordel com nós, ponto de partida conhecido
+REVISAO: 2026-11
+PALAVRAS-CHAVE: estimativa, passos, azimute, rumo, bússola, caderno
+==============================================================================
+
+OBJETIVO
+--------
+Chegar ao destino registrando direção e distância, sem ver o alvo.
+
+QUANDO USAR
+-----------
+Quando o destino está fora do campo de visão ou há névoa.
+Quando não há carta, mas partida e destino são conhecidos.
+Quando o terreno é plano, aberto ou monótono, sem referências.
+Quando é preciso voltar ao ponto de partida pelo mesmo caminho.
+Quando a noite ou o mau tempo esconde os pontos de referência.
+
+NAO USE QUANDO
+--------------
+Quando se está perdido e sem direção conhecida: pare e fique no local.
+Quando partida e destino são desconhecidos, ao menos de forma aproximada.
+Quando há perigo imediato: incêndio, cheia, tempestade ou queda.
+
+MATERIAIS
+---------
+- Bússola (ou norte conhecido por outro método dominado).
+- Caderno e lápis (ou folha de papel e algo para escrever).
+- Cordel com nós (ou seixos num bolso, ou contador manual).
+- Folha de papel para desenhar a rota em escala.
+- Ponto de partida e de destino conhecidos de forma aproximada.
+- Relógio (opcional, para anotar o tempo de cada trecho).
+
+PROCEDIMENTO
+-------------
+1. Determine o norte com a bússola.
+2. Marque o norte no caderno com uma seta.
+3. Desenhe a partida e o destino na folha, um em relação ao outro.
+4. Escolha uma escala que caiba todo o trajeto em uma folha.
+5. Meça dez passos normais em terreno plano.
+6. Divida o comprimento medido por dez para obter o passo médio.
+7. Anote o passo médio, que costuma ser aproximadamente 76 cm.
+8. Aponte a bússola ao primeiro trecho e leia o azimute em graus.
+9. Anote esse azimute ao lado da partida.
+10. Caminhe contando os passos; a cada cem, dê um nó no cordel.
+11. Ao mudar de direção, pare e conte quantas centenas andou.
+12. Anote a contagem e marque a posição na folha na escala escolhida.
+13. Leia e anote o azimute do trecho novo.
+14. Repita os passos 10 a 13 em cada trecho até chegar ao destino.
+15. Escolha um alvo visível na direção e caminhe até ele.
+16. Confirme a direção com a bússola a cada poucos minutos.
+
+ATENCAO
+-------
+A estimativa dá posição aproximada; o erro cresce a cada trecho.
+Passos contados são aproximados, mesmo depois de muita prática.
+Encostas alargam o passo na descida e encurtam na subida.
+Vento de frente, areia, lama, neve e fadiga encurtam o passo.
+Metal perto da bússola falseia a leitura; afaste-a antes de medir.
+Se a posição calculada não bater com o terreno, pare e reavalie.
+Na dúvida sobre onde está, fique no local e espere ajuda.
+De noite, confirme estrelas com a bússola: elas mudam de lugar.
+Não troque a rota segura pela mais fácil só por causa da estimativa.
+
+SE NAO TIVER
+------------
+Sem bússola, use um norte conhecido do terreno.
+Confirme essa direção com marcas visíveis no chão a cada trecho.
+Sem cordel, conte nos dedos ou guarde um seixo a cada cem passos.
+Sem caderno, desenhe a escala em papel ou no chão.
+Sem medir o passo, adote aproximadamente 76 cm e aumente a margem.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A posição marcada na folha coincide com o destino visto ou conhecido.
+A soma das centenas anotadas corresponde ao trecho realmente andado.
+Olhando de volta, o azimute aponta para o trecho anterior.
+O desvio final entre estimativa e destino é pequeno e explicável.
+
+FONTES
+------
+Manual de Sobrevivência (The U.S. Armed Forces Survival Manual,
+John Boswell), capítulos Estimativas e Em Marcha.
+Prática consolidada de navegação terrestre militar.
+Resumo operacional; não substitui treinamento.

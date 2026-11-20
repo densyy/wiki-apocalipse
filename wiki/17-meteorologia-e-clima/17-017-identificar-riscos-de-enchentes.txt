@@ -1,0 +1,85 @@
+==============================================================================
+CODIGO: 17-017
+TITULO: Como identificar riscos de enchentes
+CATEGORIA: 17 - Meteorologia, clima e meio ambiente
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: enchente, alagamento, rio, chuva, enchente relâmpago, nível
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer os sinais de que uma enchente está começando ou é iminente.
+
+QUANDO USAR
+-----------
+- Quando chove forte e contínuo na região.
+- Quando a água do rio ou córrego começa a subir.
+- Quando chega alerta de chuva forte ou previsão de temporais.
+- Ao chegar em área baixa, fundo de vale ou margem de rio.
+- Quando bueiros e galerias começam a transbordar.
+- Em área de barragem, após aviso de aumento de vazão.
+
+NAO USE QUANDO
+--------------
+Se já existe ordem de evacuação, saia imediatamente: não pare para observar.
+Este texto identifica sinais, mas não substitui o alerta oficial.
+
+MATERIAIS
+---------
+- Nenhum material. Basta observar de uma posição segura.
+- Rádio a pilha, se houver, para ouvir alertas (sem rádio, use os sinais).
+
+PROCEDIMENTO
+------------
+1. Afaste-se da margem do rio antes de observar.
+2. Observe a chuva: registre se ela é forte, contínua ou em torrentes.
+3. Note trovões e nuvens escuras vindas de rio acima (montante).
+4. Compare o nível do rio com marcas conhecidas: margem, ponte, degraus.
+5. Observe a cor da água: turva, escura ou com espuma indica correnteza.
+6. Observe correnteza rápida, redemoinhos e ruído de água: sinal de risco.
+7. Olhe bueiros e galerias: água parada ou transbordando indica saturação.
+8. Observe ruas e quintais: poças que não baixam indicam alagamento.
+9. Identifique sua posição: fundo de vale, baixada e margem alagam primeiro.
+10. Em área de barragem, atente a avisos de aumento de vazão ou ruptura.
+11. Se houver rádio, ouça alertas da Defesa Civil, INMET ou previsão local.
+12. Entenda: enchente relâmpago é água que chega rápido após chuva.
+13. Desconfie mesmo com céu limpo no seu ponto de observação.
+14. Se a água subir ou a correnteza aumentar, saia da área baixa já.
+15. Não entre em água corrente: aproximadamente 15 cm derrubam uma pessoa.
+16. Não dirija em área alagada: aproximadamente 30 cm arrastam um carro.
+17. Vá para terreno alto, longe do rio, e avise vizinhos em área baixa.
+
+ATENCAO
+-------
+Enchente e água corrente podem matar; este texto apenas identifica sinais.
+A água de enchente pode conter esgoto, químicos e animais: evite contato.
+Aproximadamente 15 cm de água corrente derrubam uma pessoa.
+Aproximadamente 30 cm de água corrente arrastam um carro.
+Não confie no céu limpo: a chuva pode estar caindo rio acima.
+Bueiros transbordando e poças persistentes escondem buracos e fios vivos.
+Com ordem de evacuação da Defesa Civil, saia já e não pare para observar.
+Nunca atravesse ponte sobre água corrente forte: pontes cedem sem aviso.
+
+SE NAO TIVER
+------------
+Sem rádio ou alerta, use os sinais locais: nível do rio, cor da água.
+Observe também a correnteza, os bueiros e as poças que não baixam.
+Na dúvida, saia da área baixa: observar de longe é mais seguro.
+Não existe substituto para terreno alto e longe da água corrente.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você reconheceu pelo menos dois sinais: nível subindo, água turva,
+correnteza forte, bueiros transbordando ou poças que não baixam.
+E você está em terreno alto, longe do rio e da água corrente.
+
+FONTES
+------
+Orientações de segurança contra enchentes do National Weather Service,
+serviço meteorológico dos EUA (NOAA), e da agência federal de emergências
+FEMA, campanha "Turn Around, Don't Drown". Monitoramento hidrológico e
+alertas do CEMADEN/MCTI e do Sistema Nacional de Proteção e Defesa Civil
+(MIDR). Resumo operacional; não substitui treinamento nem alerta oficial.

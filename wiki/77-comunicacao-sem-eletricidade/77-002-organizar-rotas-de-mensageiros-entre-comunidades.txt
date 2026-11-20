@@ -1,0 +1,82 @@
+==============================================================================
+CODIGO: 77-002
+TITULO: Como organizar rotas de mensageiros entre comunidades
+CATEGORIA: 77 - Comunicação anterior à eletricidade
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: lista de comunidades, pessoas voluntarias, agua e caderno
+REVISAO: 2026-11
+PALAVRAS-CHAVE: rota, mensageiro, comunidade, agua, distancia, turno, ponto
+==============================================================================
+
+OBJETIVO
+--------
+Ligar comunidades com caminhos conhecidos e mensageiros prontos.
+
+QUANDO USAR
+-----------
+Ao criar uma rede nova de mensageiros entre duas ou mais comunidades.
+Quando uma rota antiga deixou de ser segura ou ficou muito longa.
+Antes da estacao das chuvas, quando alguns trechos alagam.
+Quando uma comunidade ficar isolada por falta de energia.
+
+NAO USE QUANDO
+--------------
+Nao trace rota por area que a comunidade nao conhece.
+Nao exija travessia de rio cheio ou area com animais perigosos.
+Nao coloque um ponto de parada onde nao haja agua ou sombra.
+Nao mude a rota sem avisar todas as pessoas envolvidas.
+
+MATERIAIS
+---------
+- Caderno para o mapa e os turnos (papel grosso).
+- Lapis e cordel para medir no croqui (passos).
+- Estacas ou pedras para marcar os pontos de parada.
+- Garrafa de agua e calçado firme para o mensageiro.
+- Pano de cor combinada para identificar o ponto de parada.
+
+PROCEDIMENTO
+------------
+1. Liste as comunidades que precisam trocar recados.
+2. Desenhe um croqui com os lugares uns em relacao aos outros.
+3. Meça cada trecho em tempo de caminhada, nao em quilometros.
+4. Marque as fontes de agua e os locais de sombra no croqui.
+5. Marque os trechos alagados, escorregadios ou inseguros.
+6. Escolha o caminho mais curto que evite os trechos ruins.
+7. Defina pontos de parada a cada duas horas de caminhada.
+8. Escolha duas pessoas por trecho, uma titular e uma reserva.
+9. Combine o turno de saida de cada comunidade.
+10. Determine o que fazer se o mensageiro nao chegar no horario.
+11. Combine um sinal visivel para indicar que a parada esta ativa.
+12. Escreva no caderno os nomes e os horarios de cada trecho.
+13. Teste a rota completa antes de enviar recado importante.
+14. Revise o croqui depois da primeira chuva forte.
+
+ATENCAO
+-------
+Tempo de caminhada muda com chuva, lama e peso da mochila.
+Rio cheio pode subir depressa: prefira outra travessia.
+Se um ponto de parada for abandonado, a rota inteira para.
+Nao obrigue ninguem a viajar de noite sem conhecimento do caminho.
+Mensageiro cansado erra recado: respeite os turnos e o descanso.
+Se houver ameaca na regiao, suspenda a rota e avise todos.
+
+SE NAO TIVER
+------------
+Sem papel, desenhe o croqui na terra com gravetos.
+Sem cordel, conte os passos e anote em horas de sol.
+Sem reserva de pessoa, reduza o numero de recados por dia.
+Sem agua no caminho, escolha parada junto a fonte conhecida.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O recado chega dentro do tempo combinado entre as pontas da rota.
+Todos os pontos de parada tem agua, sombra e pessoa responsavel.
+A reserva entra em acao quando o titular falta.
+O croqui e os turnos estao atualizados no caderno.
+
+FONTES
+------
+Pratica consolidada de redes de correio por etapas, usada em rotas
+de terra antes da eletricidade. Pontos de parada e reserva sao
+procedimentos tradicionais de sistema de mensageiros.

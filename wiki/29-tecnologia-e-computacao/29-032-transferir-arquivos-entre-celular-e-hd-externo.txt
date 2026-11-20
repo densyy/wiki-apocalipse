@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 29-032
+TITULO: Como transferir arquivos entre celular e HD externo
+CATEGORIA: 29 - Tecnologia, computação e informática offline
+TEMPO: 20 minutos
+RISCO: baixo
+EXIGE: celular com OTG, HD externo ou pen drive, cabo ou adaptador
+REVISAO: 2026-11
+PALAVRAS-CHAVE: arquivo, celular, hd externo, otg, usb, pendrive, copiar
+==============================================================================
+
+OBJETIVO
+--------
+Copiar arquivos do celular para um HD externo e de volta sem computador.
+
+QUANDO USAR
+-----------
+Quando o celular aceita OTG e o disco é pen drive ou tem fonte própria.
+Quando é preciso tirar fotos e vídeos do celular para liberar espaço.
+
+NAO USE QUANDO
+--------------
+Quando o HD faz ruído anormal, trava ou perde arquivos: pare e peça ajuda.
+Quando o cabo ou o adaptador está danificado.
+
+MATERIAIS
+---------
+- Celular com suporte a OTG (recurso de host USB).
+- HD externo ou pen drive USB com espaço livre.
+- Cabo ou adaptador USB compatível com o celular.
+- Gerenciador de arquivos (app de arquivos do próprio celular).
+- Hub USB com fonte própria, se o HD não ligar só com o cabo.
+
+PROCEDIMENTO
+------------
+1. Confira no fabricante se o celular suporta OTG (host USB).
+2. Confira o sistema de arquivos do HD em um computador.
+3. Em NTFS, salve os arquivos em outro lugar e formate em exFAT no PC.
+4. Conecte o adaptador OTG e o cabo do HD; ligue a fonte se houver.
+5. Abra o gerenciador de arquivos do celular.
+6. Toque no dispositivo de armazenamento USB para abrir o HD.
+7. Vá até a pasta de origem e selecione os arquivos.
+8. Toque em "Copiar" ou "Mover" e depois em "Colar" no destino.
+9. Espere a barra de progresso chegar ao fim sem mexer no cabo.
+10. Toque em "Ejetar", desconecte e abra um arquivo copiado.
+
+ATENCAO
+-------
+Desconectar durante a cópia corrompe arquivos: nunca desconecte no meio.
+Disco mecânico pode não receber energia do celular: use hub com fonte.
+FAT32 limita arquivo único a aproximadamente 4 GB; NTFS pode não gravar.
+Use exFAT para arquivos grandes e para gravar pelo celular.
+Se o celular aquecer ou a bateria cair, pare e use fonte própria.
+Não apague o original antes de abrir a cópia no HD.
+
+SE NAO TIVER
+------------
+Sem OTG, ligue o celular ao PC por cabo e copie os arquivos.
+No PC, copie para o HD e confira antes de desligar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O HD aparece no gerenciador como dispositivo de armazenamento USB.
+A barra de progresso chega ao fim sem mensagem de erro.
+Os arquivos aparecem com o mesmo nome e tamanho na pasta de destino.
+
+FONTES
+------
+Documentação da Android sobre modo host USB e armazenamento USB.
+Especificação exFAT da Microsoft e prática consolidada de cópia.

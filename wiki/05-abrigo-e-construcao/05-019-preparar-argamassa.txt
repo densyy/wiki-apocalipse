@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 05-019
+TITULO: Como preparar argamassa
+CATEGORIA: 05 - Abrigo, construção e habitação
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: cimento, areia média, água limpa, balde e enxada
+REVISAO: 2026-11
+PALAVRAS-CHAVE: argamassa, cimento, areia, tijolo, reboco, assentar
+==============================================================================
+
+OBJETIVO
+--------
+Misturar argamassa firme para assentar tijolos e blocos.
+
+QUANDO USAR
+-----------
+Quando precisa assentar tijolos de um muro ou parede.
+Quando precisa rebocar um buraco ou falha em parede.
+Quando precisa fixar bloco de base simples ou fogão.
+
+NAO USE QUANDO
+--------------
+Em estrutura que sustenta laje, viga ou telhado pesado.
+Em reparo com risco de desabamento ou rachadura grave.
+
+MATERIAIS
+---------
+- Cimento comum de aproximadamente 5 kg (cal hidratada).
+- Areia média lavada de aproximadamente 15 litros.
+- Água limpa de aproximadamente 3 litros.
+- Balde, enxada ou colher de pedreiro e piso liso.
+
+PROCEDIMENTO
+------------
+1. Peneire a areia e retire pedras, folhas e torrões.
+2. Misture a seco 1 parte de cimento para 3 de areia.
+3. Mexa até a cor ficar uniforme em todo o monte.
+4. Abra um buraco no meio como um vulcão pequeno.
+5. Despeje água aos poucos no centro do monte.
+6. Puxe a mistura seca das bordas para dentro da água.
+7. Mexa com a enxada até virar pasta grossa sem grumos.
+8. Levante um pouco na colher: deve grudar sem escorrer.
+9. Use em até aproximadamente 2 horas após misturar.
+10. Lave as ferramentas com água logo após terminar.
+
+ATENCAO
+-------
+Poeira de cimento irrita olhos, nariz e pulmão: use pano.
+Cimento molhado queima a pele: lave as mãos e use luva.
+Massa mole demais racha e muro fraco pode cair.
+Não reuse massa de ontem: dura não cola e engana.
+Se a parede sustenta peso, pare e chame pedreiro.
+
+SE NAO TIVER
+------------
+Sem cimento, amasse barro com areia para reparo sem peso.
+Barro não aguenta chuva nem parede que sustenta carga.
+Sem colher, espalhe com pedaço de madeira lisa e firme.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A massa gruda na colher virada e não escorre água.
+O tijolo assentado não afunda nem desliza para o lado.
+
+FONTES
+------
+Prática consolidada de alvenaria e construção rural
+(famílias de referência: FEMA, IFRC e manuais de
+construção simples). Resumo operacional, sem treinamento.

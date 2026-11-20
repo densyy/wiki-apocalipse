@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 02-001
+TITULO: Como iniciar uma horta do zero
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 90 minutos
+RISCO: baixo
+EXIGE: ponto com sol, água limpa, sementes, adubo, ferramenta de escavar
+REVISAO: 2026-11
+PALAVRAS-CHAVE: horta, plantio, canteiro, semente, adubo, hortaliça
+==============================================================================
+
+OBJETIVO
+--------
+Montar um canteiro produtivo e começar a cultivar hortaliças em casa.
+
+QUANDO USAR
+-----------
+Quando houver quintal, varanda ou terreiro com sol.
+Quando faltar alimento fresco ou ele ficar caro.
+
+NAO USE QUANDO
+--------------
+Não use onde o solo tenha contato com esgoto, óleo, tinta ou agrotóxico.
+Não cultive em área com sombra permanente.
+
+MATERIAIS
+---------
+- Sementes ou mudas de hortaliças de boa procedência.
+- Adubo orgânico (composto pronto ou esterco curtido).
+- Água limpa para irrigar.
+- Enxada ou pá para revolver a terra.
+- Estacas e barbante para marcar o canteiro.
+- Palha ou folhas secas para cobrir o solo.
+
+PROCEDIMENTO
+------------
+1. Observe o quintal e escolha o ponto com mais horas de sol.
+2. Escolha local com sol direto o dia todo, ou pelo menos 4 horas.
+3. Retire pedras, plástico e entulho da área escolhida.
+4. Marque um retângulo com estacas e barbante no ponto escolhido.
+5. Revolva a terra com enxada até ficar solta e sem torrões.
+6. Espalhe adubo orgânico e misture bem à terra revolvida.
+7. Faça sulcos nas bordas para escoar a água da chuva.
+8. Plante sementes ou mudas em linhas, com espaço entre elas.
+9. Cubra o solo entre as plantas com palha ou folhas secas.
+10. Regue pela manhã com água limpa, sem deixar poças.
+
+ATENCAO
+-------
+Solo com esgoto, óleo ou agrotóxico passa veneno para a planta.
+Não use esterco fresco: queima as raízes e traz patógenos.
+Água suja contamina hortaliças que serão comidas cruas.
+Se aparecerem manchas estranhas ou cheiro podre, pare e peça ajuda.
+
+SE NAO TIVER
+------------
+Sem terreno, plante em vasos ou caixas com terra e adubo.
+Sem adubo, use compostagem de folhas. Evite terra de beira de estrada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As mudas ficam verdes e firmes depois de uma semana.
+O solo fica úmido, sem poças nem cheiro de podre.
+
+FONTES
+------
+Prática consolidada de horticultura doméstica no Brasil.
+Embrapa: "Como implantar e conduzir uma horta de pequeno porte",
+de Jorge, Jard e Vaz. Embrapa Tabuleiros Costeiros: "Horta doméstica"
+com sol direto, adubo orgânico e rega sem encharcar.

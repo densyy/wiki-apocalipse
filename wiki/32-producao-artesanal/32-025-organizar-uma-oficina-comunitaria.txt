@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 32-025
+TITULO: Como organizar uma oficina comunitária
+CATEGORIA: 32 - Produção industrial e manufatura artesanal
+TEMPO: 180 minutos
+RISCO: medio
+EXIGE: espaço coberto, ferramentas manuais, papel, caneta
+REVISAO: 2026-11
+PALAVRAS-CHAVE: oficina, comunitária, ferramentas, mutirão, segurança
+==============================================================================
+
+OBJETIVO
+--------
+Montar um espaço compartilhado de reparo e fabricação com uso seguro.
+
+QUANDO USAR
+-----------
+- Quando varias pessoas dividem as mesmas ferramentas.
+- Quando ha reparos a fazer e ninguem tem oficina propria.
+- Quando o grupo quer produzir pecas em conjunto.
+
+NAO USE QUANDO
+--------------
+- Quando o local nao tiver permissao de uso.
+- Quando nao houver responsavel por conferir as ferramentas.
+
+MATERIAIS
+---------
+- Espaço coberto, seco e ventilado (lona esticada como substituto).
+- Bancada firme ou mesa resistente.
+- Ferramentas manuais basicas e painel de guarda.
+- Luvas, oculos, papel, caneta e balde de areia.
+
+PROCEDIMENTO
+------------
+1. Escolha um local coberto, seco e com saida livre.
+2. Peça permissao ao dono ou a autoridade do lugar.
+3. Limpe o piso e retire entulho e objetos cortantes.
+4. Apoie a bancada em superficie nivelada e firme.
+5. Separe as ferramentas em grupos por tipo.
+6. Numere cada ferramenta e anote em papel.
+7. Distribua luvas e oculos antes de cada uso.
+8. Guarde as ferramentas e feche o local ao terminar.
+
+ATENCAO
+-------
+- Nao ocupe o espaço sem permissao do responsavel.
+- Ferramentas cortantes mal guardadas ferem as maos.
+- Nao deixe criancas perto de serras e esmeris.
+- Poeira de madeira e metal irrita olhos e pulmao; ventile.
+- Ferramenta quebrada deve sair da bancada e ser sinalizada.
+- Se houver corte grave, pare e procure atendimento.
+
+SE NAO TIVER
+------------
+- Sem bancada, use mesa firme ou tabuleiro em cavaletes.
+- Sem balde de areia, use extintor; se nao houver, nao use fogo.
+- Sem oculos, nao corte nem lixe: espere protecao ou mude de tarefa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- A lista de ferramentas esta legivel na entrada.
+- Toda ferramenta esta de volta apos o uso.
+- Ninguem relatou corte ou irritacao nos olhos.
+
+FONTES
+------
+Programa CERT e treinamento da FEMA; orientacoes de preparacao
+do Ready.gov (Departamento de Seguranca Interna dos EUA); pratica
+consolidada de oficinas. Resumo operacional, nao substitui treinamento.

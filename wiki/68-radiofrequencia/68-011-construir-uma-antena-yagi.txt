@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 68-011
+TITULO: Como construir uma antena Yagi
+CATEGORIA: 68 - Radiofrequência e telecomunicações
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: tubos metálicos, lança, cabo coaxial, parafusos, altura segura
+REVISAO: 2026-11
+PALAVRAS-CHAVE: antena, yagi, direcional, dipolo, reflector, diretor, radio
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma antena direcional que concentre a recepção em uma direção.
+
+QUANDO USAR
+-----------
+Quando o sinal desejado vem de uma direção conhecida.
+Quando sinais indesejados chegam de outras direções.
+Quando o sinal é fraco e uma antena comum não alcança.
+
+NAO USE QUANDO
+--------------
+Quando não houver lugar seguro longe de fios de energia elétrica.
+Quando a frequência desejada mudar muito: a Yagi cobre uma faixa estreita.
+Quando faltarem ferramentas para prender as peças com firmeza.
+
+MATERIAIS
+---------
+- Tubos retos de alumínio ou latão, para os elementos.
+- Barra guia reta de metal ou madeira, chamada de lança.
+- Cabo coaxial com dois condutores internos, para ligar ao rádio.
+- Parafusos, arruelas e porcas, ou solda e estanho, para fixar.
+- Fita isolante e abraçadeiras para prender o cabo na lança.
+- Régua ou trena e caneta para medir.
+- Suporte e mastro firmes para erguer o conjunto.
+
+PROCEDIMENTO
+------------
+1. Escolha a frequência central de trabalho e anote o valor em MHz.
+2. Calcule o comprimento de onda: divida 300 pela frequência em MHz.
+   O resultado, em metros, é o comprimento de onda, chamado de lambda.
+3. Corte três pares de tubos com estes comprimentos aproximados,
+   medidos da ponta de um tubo à ponta do outro tubo de cada par:
+   - reflector, atrás: aproximadamente 0,55 do comprimento de onda;
+   - elemento excitado, centro: aproximadamente 0,48 do comprimento de onda;
+   - diretor, frente: aproximadamente 0,45 do comprimento de onda.
+4. Marque o centro de cada par com a caneta antes de fixar na lança.
+5. Prenda o reflector na lança, na posição mais atrás.
+6. Prenda o elemento excitado na lança, aproximadamente 0,2 do
+   comprimento de onda à frente do reflector.
+7. Prenda o diretor na lança, aproximadamente 0,15 do comprimento
+   de onda à frente do elemento excitado.
+8. Alinhe os três pares no mesmo plano, bem retos e paralelos entre si.
+9. No reflector e no diretor, prenda o centro direto na lança metálica.
+10. No elemento excitado, isole o centro da lança com fita ou peça
+    plástica: as duas metades não podem encostar na lança metálica.
+11. Ligue cada metade do elemento excitado a um condutor do cabo coaxial.
+12. Isole as emendas com fita e prenda o cabo na lança com abraçadeira.
+13. Aponte o lado dos diretores para a estação e ergua o conjunto.
+
+ATENCAO
+-------
+Nunca erga a antena perto de fios de energia elétrica. Uma Yagi de metal
+que encosta em fio energizado pode matar quem a segura. Mantenha distância
+segura de qualquer linha aérea e peça ajuda a quem entende de eletricidade.
+Ao erguer em altura, use escada firme e peça outra pessoa para segurar.
+Queda de altura causa lesão grave. As pontas dos tubos cortam: use luvas.
+A antena atrai raios: desconecte o rádio e afaste o cabo em tempestade.
+Os comprimentos aqui são aproximados e servem só de ponto de partida.
+A Yagi funciona bem apenas em uma faixa estreita de frequência, perto do
+valor escolhido. Fora dela, o ganho cai e o sinal piora. Ajustar os tubos
+melhora o resultado, mas exige medição e paciência. Construir a antena não
+garante recepção: o sinal também depende do rádio, do cabo e da distância.
+
+SE NAO TIVER
+------------
+Sem tubos de alumínio, use arame rígido ou hastes com núcleo de metal.
+Sem lança metálica, use madeira seca, que já isola o elemento excitado.
+Sem solda, use parafuso com arruelas para fixar as peças e o cabo.
+Se não houver lugar seguro e alto, aponte a antena da janela ou do chão,
+longe de fios, e aceite um sinal mais fraco. Nunca encoste a antena em
+fio de energia para "ganhar altura": isso pode matar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ao girar a lança, o sinal fica mais forte quando o lado dos diretores
+aponta para a estação e mais fraco quando aponta para trás.
+As três peças estão retas, paralelas e firmes, sem balanço.
+O elemento excitado está isolado da lança metálica.
+
+FONTES
+------
+Prática consolidada de construção de antenas Yagi, resumida de referências
+técnicas: nota técnica 688 do National Bureau of Standards (hoje NIST),
+sobre projeto de antenas Yagi; Manual de Antenas da ARRL; Balanis,
+Modern Antenna Handbook. As medidas acima são aproximadas e servem de
+ponto de partida, não de projeto final. As regras de distância de linhas
+de energia seguem a prática consolidada de segurança elétrica.

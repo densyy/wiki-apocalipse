@@ -1,0 +1,91 @@
+==============================================================================
+CODIGO: 64-006
+TITULO: Como utilizar pipetas e provetas
+CATEGORIA: 64 - Laboratório, diagnóstico e análises
+TEMPO: 25 minutos
+RISCO: medio
+EXIGE: pipetas, proveta, bulbo ou pipetador, luvas, óculos de proteção
+REVISAO: 2026-11
+PALAVRAS-CHAVE: pipeta, proveta, volume, bulbo, menisco, pipetar
+==============================================================================
+
+OBJETIVO
+--------
+Medir e transferir pequenos volumes de líquido com pipetas e provetas,
+sem contaminar a amostra e sem risco para quem manipula.
+
+QUANDO USAR
+-----------
+Quando precisar medir um volume pequeno de líquido para uma análise.
+Quando for preparar diluições ou reagentes em quantidades exatas.
+Quando o resultado de um teste depender da quantidade medida.
+
+NAO USE QUANDO
+--------------
+Quando não houver bulbo, pipetador ou ponta descartável adequada.
+Nunca use a boca para puxar líquido para dentro da pipeta.
+Quando o líquido for corrosivo ou infectante e você não tiver proteção.
+
+MATERIAIS
+---------
+- Pipeta volumétrica (uma só medida) ou graduada (várias medidas).
+- Micropipeta com pontas descartáveis para volumes abaixo de 1 mL.
+- Bulbo, pipetador ou bomba manual. Nunca use a boca.
+- Proveta graduada apoiada em superfície nivelada.
+- Luvas de nitrilo e óculos de proteção.
+- Cartão branco com faixa escura para enxergar o menisco.
+
+PROCEDIMENTO
+------------
+1. Coloque luvas e óculos. Use cabine para amostra infectante.
+2. Inspecione a pipeta. Descarte se a ponta estiver rachada.
+3. Use volumétrica para volume fixo e graduada para volumes variados.
+4. Enxágue com três porções do próprio líquido para não diluir.
+5. Acople o bulbo ou pipetador à extremidade larga da pipeta.
+6. Mergulhe a ponta no líquido e mantenha-a submersa ao puxar.
+7. Puxe até um pouco acima da marca, sem deixar entrar no bulbo.
+8. Retire a pipeta e enxugue a parte de fora com pano limpo.
+9. Ajuste na marca: encoste a ponta na parede seca e gire devagar.
+10. Leia o menisco na altura dos olhos, pela parte mais baixa da curva.
+11. Apoie a proveta nivelada e leia na altura dos olhos.
+12. Solte encostando a ponta na parede, devagar, sem soprar ar.
+13. Dois anéis: sopre a última gota. Uma marca: deixe escorrer.
+14. Com micropipeta, use ponta limpa, não deite e solte o êmbolo devagar.
+15. Descarte pontas e vidro quebrado em recipiente próprio. Lave as mãos.
+
+ATENCAO
+-------
+Pipetar com a boca causa infecção e intoxicação em laboratório.
+Nunca faça isso, nem com água que pareça limpa.
+Não puxe de recipiente quase vazio: o ar entra e o líquido pode
+subir de uma vez para dentro do bulbo.
+Nunca aponte a pipeta ou o bulbo para você ou para outra pessoa.
+Não solte ar para dentro da solução: isso cria respingo e aerossol.
+A proveta erra cerca de 1 mL em 100 mL. Para medida exata, use
+pipeta volumétrica. Líquidos escuros escondem o menisco: leia pela
+borda e anote a limitação. Nunca invente o número.
+Se houver respingo em olho, boca ou pele ferida, lave com água
+corrente por vários minutos e procure atendimento médico.
+
+SE NAO TIVER
+------------
+Sem bulbo, não improvise com a boca. Seringa limpa sem agulha serve
+só para líquidos não corrosivos e não infectantes. Descarte-a depois.
+Sem proveta, use a pipeta graduada. Sem pipeta, não meça com colher
+ou tampa: o erro é grande e pode invalidar o teste.
+Se o material estiver rachado, substitua antes de medir.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O menisco parou na marca, lido na altura dos olhos.
+A gota final foi tratada conforme o tipo de pipeta.
+Não há líquido no bulbo nem respingo na bancada.
+
+FONTES
+------
+Diretrizes dos CDC para laboratórios diagnósticos (MMWR, 2012);
+regras da OSHA sobre pipetagem bucal.
+Manual Chemistry 2A, Universidade da Califórnia em Davis;
+guias de pipetagem de Waterloo e do City College of San Francisco.
+Prática consolidada de vidraria volumétrica em manuais universitários.
+==============================================================================

@@ -1,0 +1,74 @@
+==============================================================================
+CODIGO: 72-006
+TITULO: Como construir refletores solares
+CATEGORIA: 72 - Sistemas de iluminação e óptica aplicada
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: placa rígida, material refletor, fita, suporte, tesoura ou estilete
+REVISAO: 2026-11
+PALAVRAS-CHAVE: refletor, luz solar, iluminação, espelho, papel alumínio
+==============================================================================
+
+OBJETIVO
+--------
+Construir um painel que desvia luz do sol para dentro de um ambiente escuro.
+
+QUANDO USAR
+-----------
+Quando o ambiente tem uma janela ou abertura com luz difusa.
+Quando se quer iluminar sem vela, lampada ou gerador.
+Quando o sol bate na fachada mas nao entra pela janela.
+
+NAO USE QUANDO
+--------------
+Quando o reflexo puder atingir os olhos de quem trabalha perto.
+Quando nao houver como fixar o painel com segurança.
+
+MATERIAIS
+---------
+- Placa rígida de papelão, madeira ou isopor (tampo de caixa).
+- Material refletor: papel alumínio liso ou espelho acrílico.
+- Fita adesiva, cola ou grampos para prender o refletor na placa.
+- Suporte: arame, corda ou madeira para inclinar o painel.
+- Tesoura ou estilete e uma régua.
+
+PROCEDIMENTO
+------------
+1. Meça a abertura que vai receber a luz e anote largura e altura.
+2. Corte a placa com área um pouco maior que a abertura.
+3. Limpe a face da placa que vai receber o material refletor.
+4. Cole o papel alumínio com o lado brilhante para fora, sem rugas.
+5. Alise o alumínio com um pano para tirar dobras e ondulações.
+6. Se usar espelho, cole a face prateada na placa e proteja as bordas.
+7. Prenda o material com fita nas bordas para não soltar com o vento.
+8. Fixe o suporte na parte de trás para dar inclinação ao painel.
+9. Coloque o painel do lado de fora, inclinado para o sol.
+10. Ajuste o ângulo até o reflexo cair no chão ou na parede interna.
+11. Confira que o reflexo não aponta para olhos de pessoas ou animais.
+12. Verifique a fixação depois de cada mudança de vento.
+
+ATENCAO
+-------
+Luz concentrada pode ofuscar e machucar os olhos. Nunca olhe direto para
+o reflexo do painel. Bordas de espelho e de placa cortam a pele: use luvas
+e cubra as bordas com fita. O reflexo também pode aquecer superfícies e
+iniciar incêndio se cair sobre papel, pano ou palha. Não use perto de
+materiais inflamáveis. Em vento forte, retire o painel para não voar.
+Se alguém sentir dor nos olhos, desvie o reflexo e interrompa o uso.
+
+SE NAO TIVER
+------------
+Sem papel alumínio, use espelhos presos com fita na placa, protegendo
+as bordas. Sem placa, use uma tampa grande ou cartolina dobrada. Se só
+houver material opaco, não improvise: sem superfície brilhante o painel
+não reflete luz útil.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ao iluminar o painel com o sol, aparece uma mancha clara e móvel na
+parede ou no chão interno. A mancha desaparece quando o painel é tapado.
+
+FONTES
+------
+Prática consolidada de iluminação natural e construção de refletores
+solares artesanais. Resumo operacional: não substitui treinamento.

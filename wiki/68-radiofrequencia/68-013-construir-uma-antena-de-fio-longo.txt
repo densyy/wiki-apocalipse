@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 68-013
+TITULO: Como construir uma antena de fio longo
+CATEGORIA: 68 - Radiofrequência e telecomunicações
+TEMPO: 2 horas
+RISCO: alto
+EXIGE: fio de cobre, isoladores, ponto alto seguro, receptor de rádio
+REVISAO: 2026-11
+PALAVRAS-CHAVE: antena, fio longo, rádio, onda curta, aterramento, raio
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma antena de fio longo para melhorar a recepção de rádio em
+ondas curtas, sem encostar a fio de energia elétrica.
+
+QUANDO USAR
+-----------
+Quando o rádio com antena curta não capta estações distantes.
+Quando houver árvore, muro ou poste próprio para prender a ponta.
+Quando for preciso ouvir comunicações de emergência em ondas curtas.
+
+NAO USE QUANDO
+--------------
+Quando não houver ponto alto longe de fio de energia elétrica.
+Quando a linha de energia passa por cima ou ao lado do local.
+Quando não for possível manter o fio fora do alcance de pessoas.
+
+MATERIAIS
+---------
+- Fio de cobre ou cobre revestido de aço, com 1 a 2 mm de espessura.
+- Dois isoladores de cerâmica ou plástico para as pontas.
+- Corda de nylon ou fibra para esticar e prender (não use metal).
+- Receptor de rádio com entrada de antena.
+- Fio para aterramento e estaca metálica fincada no solo.
+- Escada de fibra estável (escada de metal só longe de energia).
+
+PROCEDIMENTO
+------------
+1. Escolha a frequência que mais quer ouvir, em MHz.
+2. Divida 150 pela frequência em MHz. O resultado é o comprimento
+   ideal, em metros, de meia onda para essa frequência.
+3. Corte o fio com esse comprimento, mais aproximadamente 1 metro
+   de sobra em cada ponta para prender os isoladores.
+4. Observe a área. Nunca passe o fio por baixo, por cima ou perto
+   de fio de energia elétrica. Mantenha alguns metros de distância
+   de qualquer linha de alta ou baixa tensão.
+5. Prenda um isolador em cada ponta do fio.
+6. Amarre a corda de nylon a um isolador e lance por cima do ponto
+   alto, sem subir onde não houver apoio seguro.
+7. Estique o fio mantendo-o afastado de paredes, galhos e cercas
+   de metal. Não deixe o fio encostar em nada metálico.
+8. Prenda a outra ponta em árvore, muro ou poste de madeira firme.
+9. Ligue a ponta do rádio na entrada de antena do receptor.
+10. Ligue o fio de aterramento à estaca fincada no solo úmido
+    e à entrada de terra do rádio, se houver.
+11. Ajuste a sintonia do rádio e procure estações fracas.
+12. Desconecte a antena do rádio quando terminar de ouvir.
+
+ATENCAO
+-------
+Fio de energia elétrica mata. Nunca encoste a antena em uma linha
+de energia, nem deixe que ela caia sobre uma. Se isso acontecer,
+não toque em nada: afaste pessoas, mantenha distância e chame a
+concessionária ou o socorro.
+Ao erguer a antena, nunca use escada de metal perto de energia.
+Use escada de fibra e não trabalhe sozinho em altura.
+Raios caem em antenas altas. Desligue o fio do rádio e aterre a
+linha antes de qualquer tempestade. Não use o rádio durante raios.
+O fio corta e pode ferir quem passa. Mantenha-o alto, visível e
+fora do alcance de crianças e animais.
+Esta antena é só para recepção. Não ligue transmissor sem licença
+e sem saber o que faz; isso é proibido e interfere em outras pessoas.
+
+SE NAO TIVER
+------------
+Sem estaca de terra, use um fio longo esticado no chão como
+contrapeso, ligado à entrada de terra do rádio.
+Sem isoladores, dobre o fio sobre si mesmo e amarre com linha de
+nylon, mantendo a dobra fora do alcance da umidade.
+Sem ponto alto, estique o fio entre duas árvores ou pela janela,
+desde que fique longe de fio de energia e de pessoas.
+Sem cobre, use qualquer fio condutor limpo; aceita menos sinal,
+mas funciona para escutar. Nunca use fio de energia improvisado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O rádio capta mais estações e com menos chiado do que com a antena
+original. Ao girar a direção do fio, algumas estações ficam mais
+fortes. Nenhuma parte do fio encosta em metal ou em fio de energia.
+Ajuste a sintonia no ouvido: o cálculo dá o ideal, não o exato.
+
+FONTES
+------
+Prática consolidada de radioamadorismo e engenharia de telecomunicações
+para antenas de fio longo alimentadas por uma ponta e com aterramento.
+Segurança contra raios: orientação do Serviço Nacional de Tempo dos
+Estados Unidos (National Weather Service / NOAA): entrar em abrigo,
+afastar-se de metal e aguardar trinta minutos após o último trovão.
+Resumo operacional; não substitui treinamento em radiofrequência.

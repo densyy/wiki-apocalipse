@@ -1,0 +1,106 @@
+==============================================================================
+CODIGO: 61-014
+TITULO: Como transformar troncos em tábuas
+CATEGORIA: 61 - Agricultura florestal e manejo de ecossistemas
+TEMPO: 1 dia de trabalho ativo
+RISCO: alto
+EXIGE: motosserra, capacete, viseira, luvas, perneiras, botas, cunhas, serra
+REVISAO: 2026-11
+PALAVRAS-CHAVE: tronco, tabua, madeira, serrar, motosserra, serraria, corte
+==============================================================================
+
+OBJETIVO
+--------
+Abrir um tronco em tabuas retas, com espessura uniforme e bordas seguras.
+
+QUANDO USAR
+-----------
+Quando ha tronco derrubado e se quer madeira para prateleiras ou formas.
+Quando a serraria mais proxima fica longe e o transporte custa caro.
+Quando se quer aproveitar madeira de poda ou de arvore que caiu.
+Quando ha serra de fita ou serraria portatil disponivel para o corte.
+
+NAO USE QUANDO
+--------------
+Quando o tronco esta preso, inclinado, suspenso ou mal apoiado.
+Quando ha fio eletrico, pedra ou metal no tronco: pare e chame profissional.
+Quando o tronco tem podrao, inseto ou fenda profunda que atravessa o miolo.
+Quando nao ha equipamento de protecao ou treino com motosserra.
+Quando o local e inclinado, molhado, escuro ou com vento forte.
+
+MATERIAIS
+---------
+- Motosserra afiada, com freio de corrente funcionando (ou serra manual).
+- Capacete, viseira ou oculos, protetores de ouvido e luvas grossas.
+- Perneiras ou calca anti-corte e botas com bico de aco.
+- Cunhas de madeira ou plastico para abrir a fenda e prender a serra.
+- Serra de fita, serra circular ou serraria portatil para abrir as tabuas.
+- Trena, esquadro, lapis e cinta de marcar para medir e alinhar os cortes.
+- Cavaleiros, vigas ou suportes para apoiar o tronco fora do chao.
+- Local plano, firme, seco e com espaco livre ao redor.
+- Kit de primeiros socorros e agua para limpar os cortes.
+
+PROCEDIMENTO
+------------
+1. Escolha tronco reto, sem podrao, com diametro de aproximadamente 20 cm.
+2. Coloque o tronco sobre cavaleiros ou vigas, firme e nivelado.
+3. Apoie o tronco com cunhas ou estacas para nao rolar durante o corte.
+4. Afaste pessoas e animais da area e deixe um caminho livre para recuar.
+5. Em terreno inclinado, trabalhe sempre do lado de cima do tronco.
+6. Confira a corrente, o freio e o combustivel antes de ligar.
+7. Abasteça a motosserra a aproximadamente 3 m de fogo, faisca ou cigarro.
+8. Ligue a motosserra no chao, com o freio acionado e as duas maos.
+9. Calce capacete, viseira, protetores de ouvido, luvas, perneiras e botas.
+10. Observe onde o tronco apoia e identifique a face que fecha a fenda.
+11. Comece o corte pela face oposta, onde a madeira esta sob tracao.
+12. Enfie a cunha na fenda ao cortar, para nao prender a serra.
+13. Corte a tora por inteiro sem usar a ponta da barra, que causa recuo.
+14. Meça e marque toras de aproximadamente 2 a 4 m, conforme o uso.
+15. Retire a casca com raspador manual ou faca de descascar, se necessario.
+16. Fixe a tora na serra e trace uma linha reta de lapis na face de corte.
+17. Abra as tabuas com espessura constante de aproximadamente 2,5 cm.
+18. Vire a tora de quarto em quarto ate o miolo, sem forcar a serra.
+19. Empilhe as tabuas com separadores e peso por cima, ao abrigo da chuva.
+20. Espere a secagem por semanas e retire farpas das bordas antes de usar.
+
+ATENCAO
+-------
+A motosserra pode causar corte grave ou matar: nunca use sem treino.
+O recuo da barra atira a maquina contra o corpo: nao corte com a ponta.
+Tronco sob tensao prende a serra e pode lancar pedacos: use cunha sempre.
+Tronco que rola esmaga: cale a tora e nunca fique na linha de queda.
+Nunca corte perto de fio eletrico: a eletricidade mata sem aviso.
+Nunca use motosserra com uma mao, em escada ou acima da cabeca.
+Combustivel e serragem inflamaveis exigem area ventilada e sem fogo.
+Se a serra prender, desligue antes de puxar: nunca puxe com o motor ligado.
+Tabua verde empena e abre: nao use em estrutura antes de secar.
+Pare e chame profissional se o tronco estiver suspenso, preso ou inclinado.
+
+SE NAO TIVER
+------------
+Sem motosserra, use serra manual de dois homens, com o mesmo cale e cunhas.
+Sem serraria, abra as tabuas com serra de fita ou serra circular presa.
+Sem perneiras, use pano grosso como camada extra: nao substitui a protecao.
+Sem cunhas, use pedacos de madeira dura da propria tora para abrir a fenda.
+Sem cavaleiros, apoie em vigas grossas e firme com estacas.
+Sem protecao ocular e de pernas, nao corte: o risco nao compensa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As tabuas saem com espessura uniforme e faces paralelas.
+As bordas ficam retas, sem farpas grandes nem fendas que atravessam a tabua.
+As toras tem o comprimento marcado e os cortes ficam perpendiculares.
+A pilha fica nivelada, com separadores e peso, sem contato com o solo.
+A madeira seca sem empeno visivel nem sinal de mofo ou de inseto.
+
+FONTES
+------
+Norma OSHA 1910.266, operacoes de madeireira: EPI, freio de corrente,
+abastecimento seguro e trabalho no lado de cima em terreno inclinado.
+USDA Forest Service, "Saws That Sing": forcas de tensao e compressao no
+tronco, lado seguro de corte e rotas de fuga.
+USDA Forest Service, GTR-NRS-130, sobre corte e rendimento de madeira.
+"Sawing Guidelines for Small-Scale Timber Processing": medicao de toras,
+descascamento e espessura de tabuas em pequena escala.
+Pratica consolidada de serraria portatil; este texto e resumo operacional e
+nao substitui treinamento em motosserra nem orientacao tecnica local.

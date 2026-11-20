@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 42-010
+TITULO: Como construir uma roda de pás
+CATEGORIA: 42 - Engenharia naval e tecnologias marítimas
+TEMPO: 4 horas
+RISCO: medio
+EXIGE: madeira seca, serra, pregos, eixo reto, suportes
+REVISAO: 2026-11
+PALAVRAS-CHAVE: roda de pás, pá, barco, eixo, madeira, correnteza
+==============================================================================
+
+OBJETIVO
+---------
+Construir uma roda de pás de madeira para mover um barco leve.
+
+QUANDO USAR
+-----------
+Quando for preciso propelir um barco leve sem motor.
+Quando houver correnteza e se quiser extrair força da água.
+
+NAO USE QUANDO
+--------------
+Quando faltar madeira seca, eixo reto ou suportes firmes.
+Quando o casco não tiver reforço para prender a roda com segurança.
+
+MATERIAIS
+---------
+- Tábuas secas para aros, raios e pás (caixote ou sarrafo).
+- Eixo de madeira reto ou tubo metálico (barra de ferro).
+- Dois suportes furados para o eixo (blocos de madeira dura).
+- Pregos, parafusos ou corda, graxa e corda para medir.
+
+PROCEDIMENTO
+------------
+1. Escolha madeira seca, sem nós grandes, rachaduras ou apodrecimento.
+2. Desenhe dois aros iguais com corda presa a um prego central.
+3. Serre os aros e confirme que têm o mesmo diâmetro.
+4. Marque oito pontos iguais na face interna de cada aro.
+5. Serre os raios medindo a distância entre os dois aros.
+6. Pregue os raios de um aro ao outro, sem empenar a estrutura.
+7. Fixe um cubo furado no centro de cada aro e passe o eixo.
+8. Pregue as pás inclinadas no sentido do giro, face larga para a água.
+9. Deixe pequeno espaço entre as pontas das pás e o casco ou a margem.
+10. Apoie o eixo nos suportes e lubrifique os furos com graxa ou sabão.
+11. Prenda os suportes ao casco, reforce e gire com a mão no eixo.
+
+ATENCAO
+-------
+- Prego saliente ou pá solta pode ferir as mãos e rasgar a pele.
+- Nunca gire a roda com os pés nem apoie o peso do corpo nela.
+- Roda desequilibrada vibra, solta as fixações e se desfaz em giro.
+- Sem lubrificação o eixo aquece, desgasta e trava; pare e lubrifique.
+- Mantenha mãos, cabelos e roupas soltas longe das pás em movimento.
+
+SE NAO TIVER
+------------
+Sem serra, use tábuas cortadas e ajuste com faca e lima.
+Sem graxa, esfregue sabão seco no furo do suporte.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A roda gira com um empurrão leve e continua por alguns instantes.
+Nenhuma pá roça no casco, na margem ou nas demais pás.
+O eixo não treme nos suportes nem faz barulho de atrito.
+
+FONTES
+------
+Prática consolidada de marcenaria e construção de rodas de pás.
+National Park Service (EUA): barcos de casco de madeira com roda de
+pás a vapor, chamados sidewheelers e sternwheelers.

@@ -1,0 +1,78 @@
+==============================================================================
+CODIGO: 05-037
+TITULO: Como construir uma chaminé
+CATEGORIA: 05 - Abrigo, construção e habitação
+TEMPO: 180 minutos
+RISCO: alto
+EXIGE: fogão a lenha ou lareira pronta, tubo metálico ou tijolos, barro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: chaminé, fogão a lenha, fumaça, telhado, incêndio, fuligem
+==============================================================================
+
+OBJETIVO
+--------
+Instalar saída vertical que leva a fumaça do fogão para fora do abrigo.
+
+QUANDO USAR
+-----------
+Quando o fogão a lenha joga fumaça para dentro do abrigo.
+Quando vai instalar fogão ou lareira em abrigo de obra.
+Quando a chaminé antiga rachou e precisa de saída nova.
+Quando precisa aquecer sem encher o abrigo de fumaça.
+
+NAO USE QUANDO
+--------------
+Em barraca de lona, plástico ou teto baixo que pega fogo.
+Se não há tubo metálico nem tijolos firmes para o duto.
+Se o telhado não permite passagem vedada e presa ao vento.
+
+MATERIAIS
+---------
+- Tubos metálicos grossos ou tijolos maciços e barro.
+- Chapa metálica para o anel de passagem no telhado.
+- Arame grosso, pedras e ferramentas: pá, faca, martelo.
+- Água para amassar o barro até o ponto de vedação.
+- Balde com água ou areia para emergência perto do fogão.
+
+PROCEDIMENTO
+------------
+1. Use somente fogão a lenha ou lareira já pronta e estável.
+2. Escolha saída vertical pelo ponto mais alto do telhado.
+3. Afaste o duto de madeira, palha, lona e tecido em tudo.
+4. Monte base firme de tijolos ou chapa sob o tubo.
+5. Encaixe os tubos firmes, sem folga, e trave as juntas.
+6. Suba reto na vertical, sem curva ou desvio no caminho.
+7. Atravesse o telhado com folga e anel de chapa ao redor.
+8. Vede a passagem com barro, sem deixar fresta aberta.
+9. Deixe a boca aproximadamente 60 cm acima do telhado.
+10. Prenda o tubo com arames em três lados contra o vento.
+11. Acenda fogo pequeno e veja se a fumaça sai por cima.
+12. Apague e ajuste a vedação se vazar fumaça para dentro.
+
+ATENCAO
+-------
+Fumaça dentro do abrigo intoxica e pode matar sem aviso.
+Monóxido de carbono não tem cheiro: tontura e dor de cabeça.
+Tubo quente queima a mão e incendeia parede, teto e lona.
+Fuligem grudenta dentro do tubo pega fogo com o uso.
+Barro rachado e junta solta deixam brasa e fumaça escapar.
+Se entrar fumaça, apague o fogo e saia para o ar livre.
+Este guia não serve para caldeira, forja ou cano plástico.
+
+SE NAO TIVER
+------------
+Sem tubo, empilhe tijolos em torre reta e vede com barro.
+Sem chapa, use tampa metálica com furo justo no tubo.
+Sem barro, adie o uso: pano e terra solta não vedam fogo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A fumaça sai só pela boca de cima, sem vazar dentro.
+A chama fica firme e o abrigo não enche de fumaça.
+O tubo segue preso no vento e o barro não racha.
+
+FONTES
+------
+Orientações da FEMA dos Estados Unidos sobre fogão a lenha,
+lareira, chaminé e monóxido de carbono; prática consolidada de
+alvenaria simples e duto metálico em abrigo de emergência.

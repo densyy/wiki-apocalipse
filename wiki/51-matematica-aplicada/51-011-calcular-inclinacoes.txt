@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 51-011
+TITULO: Como calcular inclinações
+CATEGORIA: 51 - Matemática aplicada à sobrevivência
+TEMPO: 25 minutos
+RISCO: medio
+EXIGE: fita métrica, nível ou corda, papel e lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: inclinação, rampa, graus, percentual, distância
+==============================================================================
+
+OBJETIVO
+--------
+Calcular a inclinação de um terreno ou de uma rampa com medidas simples.
+
+QUANDO USAR
+-----------
+Ao planejar uma rampa para empurrar carga ou permitir acesso.
+Ao dar declividade a um canal de drenagem ou de irrigação.
+Ao verificar se um telhado escoa a água da chuva.
+Ao avaliar o risco de deslizamento em uma encosta.
+
+NAO USE QUANDO
+--------------
+Não dimensione sozinho estrutura que sustente peso sem projeto técnico.
+
+MATERIAIS
+---------
+- Fita métrica ou trena.
+- Nível de bolha, régua com bolha ou corda bem esticada.
+- Estacas ou pedras para marcar os pontos.
+- Calculadora, se souber usá-la; senão, faça a conta no papel.
+
+PROCEDIMENTO
+------------
+1. Escolha o trecho reto cuja inclinação você quer medir.
+2. Meça a distância horizontal entre os dois pontos; é a base.
+3. Meça a altura entre os mesmos pontos; é a subida.
+4. Anote as duas medidas na mesma unidade, por exemplo em metros.
+5. Divida a subida pela base para obter a razão da inclinação.
+6. Multiplique essa razão por 100 para obter o percentual.
+7. Obtenha o ângulo: é o arctan da razão, em tabela ou calculadora.
+8. Escreva a razão na forma 1 para n, dividindo a base pela subida.
+9. Confira o sinal: subida positiva é encosta; negativa é descida.
+
+ATENCAO
+-------
+A base é a distância horizontal, não a medida sobre o terreno.
+Meça sempre na mesma unidade, senão a divisão não faz sentido.
+A inclinação percentual não é o ângulo em graus: são medidas distintas.
+Uma rampa de 10 por cento tem cerca de 5,7 graus, não 10 graus.
+Atenção em solo instável: não suba em encosta suspeita sozinho.
+Pare e peça ajuda se medir exigir ficar em beira de barranco.
+
+SE NAO TIVER
+------------
+Sem fita, conte passos e anote o tamanho médio do seu passo.
+Sem nível, estique uma corda e compare com o horizonte visível.
+Se não conseguir medir com segurança, não improvise: mude de ponto.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os três resultados batem entre si: razão, percentual e ângulo.
+Dobrando a subida com a mesma base, o percentual também dobra.
+
+FONTES
+------
+Definições consolidadas de geometria e topografia: declividade como
+razão entre subida e base, em percentual, em ângulo ou em razão 1 para n.
+Prática comum; texto resumido, não substitui projeto de engenharia.

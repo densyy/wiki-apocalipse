@@ -1,0 +1,88 @@
+==============================================================================
+CODIGO: 03-019
+TITULO: Como tratar queimaduras químicas
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 25 minutos
+RISCO: critico
+EXIGE: água corrente em abundância, luvas, pano limpo, gaze
+REVISAO: 2026-11
+PALAVRAS-CHAVE: queimadura, química, ácido, água, olho, luva, emergência
+==============================================================================
+
+OBJETIVO
+--------
+Reduzir a lesão na pele atingida por produto químico até o atendimento.
+
+QUANDO USAR
+-----------
+Ácido ou álcali (corrosivo como soda cáustica) em contato com a pele.
+Produto de limpeza, bateria ou fertilizante que vazou sobre a pele.
+Inseticida ou solvente respingado no corpo.
+Produto químico que entrou nos olhos.
+Pó ou líquido desconhecido que causou ardência imediata.
+
+NAO USE QUANDO
+--------------
+Não jogue água em cal virgem (óxido de cálcio).
+Não jogue água em sódio, potássio, magnésio, fósforo ou lítio.
+Nunca tente neutralizar o produto com outro produto químico.
+
+MATERIAIS
+---------
+- Água corrente limpa em abundância (ou água engarrafada).
+- Luvas de plástico ou borracha (ou sacola plástica limpa).
+- Pano seco ou escova macia para produto em pó.
+- Gaze ou pano limpo e seco para cobrir a área.
+- Cobertor ou casaco para manter o calor.
+
+PROCEDIMENTO
+------------
+1. Afaste a pessoa do produto e impeça novo contato.
+2. Proteja-se com luvas; sem luvas, use sacola plástica nas mãos.
+3. Peça a alguém para chamar ajuda médica imediata.
+4. Retire roupa e joias que tocaram no produto.
+5. Se estiverem grudadas na pele, corte ao redor sem puxar.
+6. Se o produto estiver seco em pó, escove-o com pano seco, sem esfregar.
+7. Evite que o pó chegue aos seus olhos ou aos da pessoa.
+8. Se for cal virgem ou metal reativo, não use água.
+9. Retire o restante com pano seco e cubra a área.
+10. Nos outros casos, lave com água corrente fresca em abundância.
+11. Continue lavando por pelo menos 20 minutos, sem parar.
+12. Se o produto entrar nos olhos, lave o olho com água corrente.
+13. Mantenha a lavagem do olho por pelo menos 15 minutos.
+14. Cubra a área com gaze ou pano limpo e seco, sem apertar.
+15. Mantenha a pessoa coberta e acalmada até a ajuda chegar.
+
+ATENCAO
+-------
+Toda queimadura química precisa de avaliação médica, mesmo pequena.
+A água reage com cal virgem e metais reativos e piora a queimadura.
+Nunca use vinagre, soda ou outro produto para neutralizar: pode gerar calor.
+Não passe pomada, creme, óleo, manteiga ou pasta de dente na área.
+Não estoure bolha nem retire pele morta.
+Área grande ou profunda, rosto, olhos, genitais ou mãos: busque emergência.
+Dificuldade para respirar, convulsão ou desmaio: chame emergência.
+Não deixe a pessoa sozinha nesses casos.
+Fontes divergem sobre o tempo: 15 minutos (MedlinePlus), 20 minutos
+(NHS) e cerca de 1 hora para químicos (NHS). Lave 20 minutos ou mais.
+
+SE NAO TIVER
+------------
+Sem água corrente: use água engarrafada e jogue em abundância.
+Sem luvas: use sacola plástica limpa nas mãos.
+Sem gaze: use pano limpo, lenço ou camiseta limpa dobrada.
+Sem escova: empurre o pó com papel ou cartão, sem tocar na pele.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A ardência diminui ou para depois da lavagem.
+Não há mais produto visível na pele.
+A pele está limpa, sem pó e sem cheiro do produto.
+A pessoa está acordada e respira normalmente.
+A área segue coberta por pano limpo até o atendimento.
+
+FONTES
+------
+MedlinePlus, Biblioteca Nacional de Medicina dos EUA: "Chemical burn or
+reaction". NHS do Reino Unido: "Acid and chemical burns" e "Burns and
+scalds". Os tempos de lavagem divergem entre 15 e 60 minutos.

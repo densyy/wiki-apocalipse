@@ -1,0 +1,85 @@
+==============================================================================
+CODIGO: 90-019
+TITULO: Como preservar fontes de água após acidentes químicos
+CATEGORIA: 90 - Emergências químicas, industriais e ambientais
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: mapa das fontes, material de contenção e aviso à população
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, poço, rio, contaminação, contenção, captação, aviso
+==============================================================================
+
+OBJETIVO
+--------
+Impedir que o químico chegue à água usada por pessoas e animais.
+
+QUANDO USAR
+-----------
+Logo após vazamento perto de rio, poço, cisterna ou córrego.
+Quando houver cheiro ou cor estranha na água.
+Antes de usar água para beber, cozinhar ou irrigar.
+Ao receber aviso de contaminação de manancial.
+Depois de chuva que arraste resíduo para a drenagem.
+Quando animais beberem em área suspeita.
+
+NAO USE QUANDO
+--------------
+Não beba nem cozinhe com água suspeita para testar.
+Não jogue o produto no rio para diluir.
+Não tente neutralizar químico na água sem orientação técnica.
+Não abra poço ou cisterna para arejar sem saber o que entrou.
+
+MATERIAIS
+---------
+- Mapa simples com poços, cisternas, rios e pontos de captação.
+- Fita, corda ou barreira flutuante improvisada (contenção).
+- Baldes, mangueira e material absorvente (papel, serragem, terra).
+- Tampas e lonas para cobrir poços e cisternas.
+- Frascos limpos e identificados para amostras (garrafas).
+- Meios de aviso: cartazes, rádio ou mensagens (mural).
+- Caderno para anotar horas, locais e decisões (celular).
+
+PROCEDIMENTO
+------------
+1. Localize a fonte e para onde a água escoa.
+2. Avise imediatamente a comunidade e as autoridades locais.
+3. Isole a área e impeça que pessoas e animais bebam ali.
+4. Interrompa a captação de água no ponto afetado.
+5. Coloque barreira ou absorvente antes da entrada no rio.
+6. Cubra poços e cisternas com tampa ou lona limpa.
+7. Desvie a água da lavagem para recipiente separado.
+8. Colete amostras em frascos com local e hora anotados.
+9. Registre o aspecto da água em cada ponto de coleta.
+10. Indique uma fonte alternativa para beber e cozinhar.
+11. Não libere o uso até análise ou orientação oficial.
+12. Acompanhe depois da chuva, quando o risco pode reaparecer.
+
+ATENCAO
+-------
+Água de aspecto limpo pode conter produto invisível.
+Cheiro ou cor estranha são sinais fortes de problema.
+Ferver a água mata micróbios, mas não remove muitos químicos.
+Filtro comum de carvão satura e deixa passar contaminante.
+Animais bebem em pontos que as pessoas não usam.
+Produto mais denso afunda; mais leve fica na superfície.
+Se alguém bebeu água suspeita, procure atendimento médico.
+
+SE NAO TIVER
+------------
+Sem barreira, use terra, saco de areia ou troncos para conter.
+Sem frasco, use garrafa limpa e identifique hora e local.
+Sem análise, mantenha a fonte interditada e use outra água.
+Sem comunicação, avise porta a porta e fixe um mural.
+Sem água alternativa, racione o consumo e peça abastecimento.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ninguém continua bebendo da fonte suspeita.
+O produto foi contido antes de entrar no manancial.
+Amostras foram coletadas e a liberação depende de análise.
+
+FONTES
+------
+Prática consolidada de proteção de mananciais e emergências ambientais.
+Orientações de órgãos ambientais e de saneamento sobre captação de água.
+Guias de defesa civil e agências ambientais para derramamentos.

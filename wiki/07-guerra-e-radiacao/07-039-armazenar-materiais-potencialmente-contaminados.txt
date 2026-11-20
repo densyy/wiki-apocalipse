@@ -1,0 +1,81 @@
+==============================================================================
+CODIGO: 07-039
+TITULO: Como armazenar materiais potencialmente contaminados
+CATEGORIA: 07 - Guerra, radiação e catástrofes nucleares
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: sacos plásticos vedáveis, luvas ou saco na mão, etiqueta e caneta
+REVISAO: 2026-11
+PALAVRAS-CHAVE: contaminação, guardar, roupa, saco, fallout, isolado
+==============================================================================
+
+OBJETIVO
+--------
+Guarde roupa e objetos suspeitos selados e longe de gente.
+
+QUANDO USAR
+-----------
+Quando tirar roupa com poeira de fallout após se abrigar.
+Quando um objeto esteve exposto à poeira sem proteção.
+Quando separar o que é limpo do que pode estar sujo.
+Quando aguardar ordem da defesa civil sobre o descarte.
+
+NAO USE QUANDO
+--------------
+Não guarde alimento aberto nem água exposta para usar depois.
+Não guarde lixo comum junto com material possivelmente sujo.
+
+MATERIAIS
+---------
+- Sacos plásticos resistentes com amarrilho ou fecho (saco de lixo).
+- Luvas impermeáveis ou saco plástico na mão (pano grosso).
+- Etiqueta ou pedaço de papel com fita e caneta (carvão).
+- Local afastado fora do abrigo, longe de comida e água.
+
+PROCEDIMENTO
+------------
+1. Lave as mãos e vista luva antes de tocar no material suspeito.
+2. Não sacuda roupa nem bata objeto para tirar a poeira.
+3. Coloque cada peça ou objeto em um saco separado sem apertar.
+4. Feche o saco com nó duplo ou fecho sem deixar ar escapar.
+5. Coloque o saco fechado dentro de um segundo saco limpo.
+6. Feche o segundo saco do mesmo modo e confira o vedamento.
+7. Escreva na etiqueta dono, data, local e o que tem dentro.
+8. Cole a etiqueta por fora do saco sem abrir de novo.
+9. Leve o saco para fora do abrigo a aproximadamente 10 metros.
+10. Deixe o saco sobre plástico ou lona longe de passagem.
+11. Afaste os sacos entre si por aproximadamente 1 metro.
+12. Mantenha comida, água e roupa limpa longe dos sacos.
+13. Troque a luva ou lave as mãos após manusear cada saco.
+14. Não abra o saco até a autoridade liberar ou mandar descartar.
+
+ATENCAO
+-------
+Material guardado continua emitindo radiação que atravessa roupa.
+Saco plástico segura a poeira mas não bloqueia o raio gama.
+Sacudir a roupa espalha poeira no ar que pode ser inalada.
+Guardar dentro do abrigo contamina o ar e quem dorme perto.
+Juntar muitos sacos no mesmo ponto cria um ponto mais forte.
+Este procedimento reduz o espalhamento mas não descontamina.
+Não queime nem enterre o material sem ordem da autoridade.
+Procure socorro se houver vômito, tontura ou queimadura na pele.
+
+SE NAO TIVER
+------------
+Sem segundo saco, use um saco só bem fechado com nó duplo.
+Sem luva, cubra a mão com saco plástico e descarte depois.
+Sem etiqueta, escreva no próprio saco com carvão ou risco.
+Sem lona, use plástico aberto ou jornal grosso sob os sacos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada saco está fechado, etiquetado e sem rasgo visível.
+Os sacos estão fora do abrigo e longe de comida e água.
+Suas mãos e o piso do abrigo ficaram sem poeira aparente.
+
+FONTES
+------
+Orientação de autodescontaminação após emergência do CDC americano.
+Algoritmo de contaminação externa do REMM do governo americano.
+Procedimento modelo de descontaminação do DOE americano.
+Guia de proteção e isolamento de materiais da EPA americana.

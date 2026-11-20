@@ -1,0 +1,101 @@
+==============================================================================
+CODIGO: 68-010
+TITULO: Como construir uma antena vertical
+CATEGORIA: 68 - Radiofrequência e telecomunicações
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: fio de cobre, cabo coaxial, conector, isolante, lugar alto e seguro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: antena, vertical, monopolo, radiais, plano de terra, rádio
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma antena vertical com radiais para melhorar a recepção do rádio.
+
+QUANDO USAR
+-----------
+Quando a antena original do rádio quebrou ou foi perdida.
+Quando o sinal está fraco e aproximar o rádio da janela não resolve.
+Quando se quer receber estações em várias direções sem apontar a antena.
+Quando não há antena pronta nem ferramentas de precisão disponíveis.
+
+NAO USE QUANDO
+--------------
+Quando não houver lugar seguro longe de fios de energia elétrica.
+Quando o rádio não tiver conector ou terminal para ligar um fio externo.
+Quando houver risco de raio ou tempestade no local.
+
+MATERIAIS
+---------
+- Fio de cobre comum, cerca de 3 metros, para o elemento vertical.
+- Cabo coaxial com dois condutores internos, para ligar ao rádio.
+- Três ou quatro fios iguais, para os radiais do plano de terra.
+- Conector que encaixe no rádio, ou adaptador improvisado.
+- Isolante pequeno, de plástico ou cerâmica, para a base.
+- Fita isolante e abraçadeiras para prender o cabo e as emendas.
+- Corda ou linha forte, mastro firme, régua ou trena, caneta e alicate.
+
+PROCEDIMENTO
+------------
+1. Escolha a frequência de trabalho e anote o valor em MHz.
+2. Calcule o comprimento de onda: divida 300 pela frequência em MHz.
+3. Calcule o fio vertical: aproximadamente 71,5 dividido pela
+   frequência em MHz. O resultado, em metros, é o elemento.
+4. Calcule cada radial: aproximadamente 75 dividido pela frequência,
+   ou seja, um quarto do comprimento de onda, em metros.
+5. Corte o fio vertical com esse comprimento, medido da base até a ponta.
+6. Corte três ou quatro radiais com o comprimento calculado no passo 4.
+7. Descasque as pontas da base do fio vertical e dos radiais.
+8. Prenda a base do fio vertical no isolante, deixando-o bem reto.
+9. Ligue a base do fio vertical ao condutor central do cabo coaxial.
+10. Ligue cada radial à malha externa do cabo coaxial, no mesmo ponto.
+    Se o cabo for de dois fios, ligue os radiais ao segundo fio.
+11. Isole as emendas com fita para os condutores não se encostarem.
+12. Espalhe os radiais ao redor da base, em ângulos iguais entre si.
+13. Deixe os radiais na horizontal ou levemente inclinados para baixo.
+14. Prenda o cabo coaxial ao mastro com abraçadeira e ligue ao rádio.
+15. Erga o conjunto o mais alto que puder, longe de fios e de metal grande.
+
+ATENCAO
+-------
+Nunca encoste a antena em fio de energia elétrica. Isso pode matar quem
+segura o rádio ou o fio. Mantenha distância de qualquer linha aérea e peça
+ajuda a quem entende de eletricidade antes de erguer a antena.
+Ao subir em escada, peça a outra pessoa para segurar. Queda causa lesão
+grave. Use luvas: a ponta do fio fura a pele.
+Em tempestade, desligue o rádio, desconecte o cabo e afaste a antena.
+Uma antena de fio atrai raio.
+Os comprimentos são aproximados e servem só de ponto de partida. Para
+outra frequência, refaça o cálculo e corte os fios de novo.
+Sem radiais bons, o plano de terra falha e o sinal cai muito. Em solo
+seco, molhe a terra ao redor dos radiais enterrados.
+A antena melhora a recepção, mas não cria sinal onde não há cobertura.
+O resultado depende também do rádio, do cabo e da distância.
+
+SE NAO TIVER
+------------
+Sem cabo coaxial, use fio duplo, ligando o vertical a um fio e os radiais
+ao outro condutor.
+Sem conector, encoste o fio no terminal de antena e prenda com fita.
+Sem isolante, use plástico duro, madeira seca ou pedaço de mangueira.
+Sem espaço para estender os radiais, enterre-os pouco abaixo da terra,
+preferindo solo úmido.
+Sem lugar alto, pendure a antena na janela ou na parede, longe de fios,
+e aceite um sinal mais fraco. Nunca use fio de energia para ganhar altura.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O rádio passa a receber a estação com menos ruído do que antes.
+Ao mover os radiais ou girar o conjunto, a qualidade do som muda.
+O fio vertical está reto, na vertical e firme, e os radiais não tocam
+em metal nem em fios de energia.
+
+FONTES
+------
+Prática consolidada de construção de antenas verticais de quarto de onda
+com plano de terra, resumida de referências técnicas: Manual de Antenas
+da ARRL (ARRL Antenna Book) e Balanis, Modern Antenna Handbook. As fórmulas
+de comprimento são aproximadas e servem de ponto de partida, não de
+projeto final. As regras de distância de linhas de energia seguem a
+prática consolidada de segurança elétrica.

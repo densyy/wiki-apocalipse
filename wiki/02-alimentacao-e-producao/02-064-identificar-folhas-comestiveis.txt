@@ -1,0 +1,93 @@
+==============================================================================
+CODIGO: 02-064
+TITULO: Como identificar folhas comestíveis
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 60 minutos
+RISCO: critico
+EXIGE: guia botânico impresso da região, lupa, caderno, lápis, luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: folha comestível, planta venenosa, cicuta, salsa, colher
+==============================================================================
+
+OBJETIVO
+--------
+Decidir com segurança se uma folha silvestre pode ser comida.
+
+QUANDO USAR
+-----------
+Quando você acha uma planta com folhas que parecem alimento.
+Quando precisa separar uma comestível de uma parecida venenosa.
+Quando outra pessoa indicou uma folha como comestível e há dúvida.
+Quando vai coletar folhas sem fornecimento de alimentos.
+
+NAO USE QUANDO
+--------------
+Sem guia impresso da região ou pessoa experiente para conferir.
+Quando a planta cresce junto a estrada, casa, área pulverizada ou água suja.
+Quando a folha está murcha, com bolor, pragas ou danos.
+Cogumelos ficam de fora: a identificação é mais difícil.
+
+MATERIAIS
+---------
+- Guia botânico impresso da região (ou desenho de quem conhece a planta).
+- Lupa de bolso (ou boa luz natural).
+- Caderno e lápis para anotar e desenhar cada parte.
+- Luvas (ou pano limpo) para tocar a planta sem absorver a seiva.
+- Água corrente para lavar as mãos ao terminar.
+
+PROCEDIMENTO
+------------
+1. Pare antes de tocar e observe a planta inteira no lugar onde ela nasceu.
+2. Anote o ambiente: sombra, umidade, solo, perto de água ou estrada.
+3. Observe a posição das folhas: alternas, opostas ou em roseta.
+4. Observe formato, borda, nervuras e ponta de cada folha.
+5. Observe o caule: cor, pelos, se é oco e se tem manchas arroxeadas.
+6. Observe flores, frutos e sementes, se existirem; anote cor e formato.
+7. Com luva, amasse levemente uma folha e anote o cheiro.
+8. Desenhe no caderno a folha, o caule, a flor e o local da planta.
+9. Abra o guia e compare cada característica, não só o nome popular.
+10. Confira a identificação em uma segunda fonte impressa independente.
+11. Compare com as plantas venenosas parecidas do guia; se bater, pare.
+12. Descarte se houver seiva leitosa ou cheiro de amêndoa nas folhas.
+13. Não prove, não masque, não engula e não cozinhe para testar.
+14. Só colha se as duas fontes coincidirem e nenhuma parecida bater.
+15. Lave as mãos e limpe as luvas depois de manusear a planta.
+
+ATENCAO
+-------
+Uma folha errada pode matar: a cicuta (Conium maculatum) tem folhas
+parecidas com salsa, cenoura-brava, funcho e aipo; já causou mortes.
+Ela tem caule oco com manchas arroxeadas e cheiro desagradável ao amassar.
+A seiva, a raiz e as sementes são as partes mais venenosas da cicuta.
+Não existe regra única: um traço só não basta para reconhecer veneno.
+Sintomas podem demorar; uma prova pequena pode não mostrar nada e uma
+porção maior pode ser letal. Nunca teste provando.
+O teste universal de comestibilidade (encostar, provar, esperar) não pega
+venenos de ação lenta ou cumulativa: não use.
+Se houver dúvida, não coma. Descarte a planta inteira.
+Se alguém comer folha desconhecida e tiver salivação, vômito, tontura,
+formigamento, fraqueza ou falta de ar, procure atendimento e leve a planta.
+Não colha junto a estrada, casa, área pulverizada ou água suja.
+
+SE NAO TIVER
+------------
+Sem guia impresso da região, não identifique: espere obter o guia.
+Sem lupa, use luz natural forte; não encoste os olhos na planta.
+Sem caderno, desenhe em qualquer papel; não confie só na memória.
+Sem luvas, use pano limpo e lave as mãos; nunca prove por curiosidade.
+Sem confirmação segura, a única escolha é não comer.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A planta foi identificada pelo nome científico em duas fontes impressas.
+Cada característica observada coincide com as duas descrições.
+Nenhuma planta venenosa parecida coincide com o que foi visto.
+Você tem o desenho e as anotações no caderno.
+Se restou dúvida, a folha foi descartada e não foi comida.
+
+FONTES
+------
+Monografia PIM 144, Conium maculatum L., do International Programme
+on Chemical Safety (IPCS/OMS), revisada por pares em 1990; manual FM 21-76
+de sobrevivência do Exército dos Estados Unidos, capítulos 9 e 10.
+Este texto é um resumo operacional e não substitui treinamento.

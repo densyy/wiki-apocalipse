@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 01-012
+TITULO: Como coletar água da chuva
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: telhado limpo, calha, tela fina, balde ou barril com tampa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, chuva, calha, barril, primeira água, filtro, balde
+==============================================================================
+
+OBJETIVO
+--------
+Captar água da chuva em recipiente limpo, pronta para tratamento.
+
+QUANDO USAR
+-----------
+Quando o abastecimento regular falta ou foi cortado.
+Quando não há fonte de água segura por perto.
+Quando chove e é preciso guardar água para os dias secos.
+
+NAO USE QUANDO
+--------------
+Quando o telhado tem amianto, tinta com chumbo ou madeira tratada.
+Quando há fumaça forte, cinzas ou poeira de agrotóxico no ar.
+Quando a água será bebida sem antes ferver ou tratar (veja 01-001).
+
+MATERIAIS
+---------
+- Telhado de telha, zinco ou alumínio, limpo e sem tinta velha.
+- Calha que deságue em um ponto (tubo de PVC cortado).
+- Tela fina de nylon ou polipropileno (coador de café).
+- Balde ou barril com tampa, sem resíduo de químico ou tinta.
+
+PROCEDIMENTO
+------------
+1. Limpe o telhado e a calha com escova antes da chuva.
+2. Retire folhas, galhos e fezes de animais da superfície.
+3. Prenda a tela fina na entrada do balde ou barril.
+4. Apoie o recipiente em pedra, nivelado e longe da poeira.
+5. Desvie a primeira água da chuva para fora do recipiente.
+6. Descarte aproximadamente 2 litros por metro quadrado de telhado.
+7. Deixe entrar água só quando ela correr limpa, sem folhas.
+8. Tampe o recipiente e mantenha a tela presa na entrada.
+9. Retire a água com concha limpa, sem tocar com as mãos.
+10. Ferva ou trate a água antes de beber (veja 01-001).
+
+ATENCAO
+-------
+A primeira água lava o telhado e leva fezes de aves e poeira.
+Água clara pode ter germes; não beba sem ferver ou tratar.
+Ferver não remove chumbo, amianto, veneno ou combustível.
+Não misture água de chuva com água de torneira ou garrafa.
+Tampe contra mosquitos; pare se houver cheiro químico.
+
+SE NAO TIVER
+------------
+Sem calha, use lona limpa inclinada presa com pedras nas bordas.
+Sem tela, use nylon limpo; nunca algodão, que apodrece e cria fungo.
+Sem barril, use balde tampado ou garrafa limpa de boca larga.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água corre clara, sem folhas, e o recipiente ficou tampado.
+O descarte inicial chegou a aproximadamente 2 litros por metro quadrado.
+
+FONTES
+------
+Manual de captação emergencial de água da chuva, do IPT.
+Diretrizes da OMS e orientação da CDC sobre coleta de água da chuva.

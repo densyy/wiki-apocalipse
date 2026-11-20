@@ -1,0 +1,90 @@
+==============================================================================
+CODIGO: 47-020
+TITULO: Como adaptar máquinas agrícolas para operar sem eletricidade
+CATEGORIA: 47 - Tecnologia agrícola e mecanização rural
+TEMPO: 2 horas
+RISCO: alto
+EXIGE: manual da máquina, ferramentas básicas, mecânico qualificado
+REVISAO: 2026-11
+PALAVRAS-CHAVE: trator, sem eletricidade, partida manual, correia, diesel
+==============================================================================
+
+OBJETIVO
+--------
+Deixar a máquina trabalhar sem bateria, partida elétrica ou controles.
+
+QUANDO USAR
+-----------
+Quando falta energia para recarregar a bateria da máquina.
+Quando o motor de partida ou a bomba elétrica de combustível falhou.
+Quando a máquina depende de controles eletrônicos para funcionar.
+Quando é preciso manter o preparo da terra e o transporte em atividade.
+
+NAO USE QUANDO
+--------------
+Quando o motor não tem partida manual prevista pelo fabricante.
+Quando o sistema elétrico está ligado: nunca improvise com a bateria.
+Quando o motor tem defeito mecânico ou vazamento de óleo e combustível.
+Quando não há manual, peças ou mecânico qualificado disponíveis.
+Em máquinas cuja segurança depende de controles eletrônicos insubstituíveis.
+
+MATERIAIS
+---------
+- Manual do fabricante ou ficha técnica do motor.
+- Chaves, alicates e chave de fenda com isolamento.
+- Manivela ou corda de partida original do fabricante, se prevista.
+- Alavanca e cabo para acionar o acelerador na bomba, se o modelo permitir.
+- Tanque elevado para alimentação por gravidade, se o sistema aceitar.
+- Correias, polias e protetores para a transmissão mecânica.
+- Lanterna a pilha ou refletor preso à máquina.
+- Luvas, óculos de proteção e calçado fechado.
+
+PROCEDIMENTO
+------------
+1. Desligue a máquina e retire a chave de ignição.
+2. Aguarde o motor esfriar e confirme que nenhuma peça está em movimento.
+3. Desconecte o borne negativo da bateria antes de qualquer intervenção.
+4. Leia o manual e confirme se o motor tem partida manual de fábrica.
+5. Se não houver partida manual prevista, pare e procure um mecânico.
+6. Instale a partida manual original do fabricante conforme o manual.
+7. Retire a bateria somente depois de comprovada a partida manual.
+8. Ligue o acelerador por alavanca ou cabo direto à bomba, se permitido.
+9. Use alimentação por gravidade só se o manual indicar que a bomba aceita.
+10. Peça a um mecânico a troca da bomba elétrica por bomba mecânica.
+11. Troque motores elétricos por correia ou tomada de força.
+12. Fixe protetores sobre correias, polias e eixos expostos antes de ligar.
+13. Troque a iluminação elétrica por lanterna a pilha ou refletor preso.
+14. Faça o teste de partida com a máquina parada e sem carga.
+15. Verifique vazamentos de combustível e óleo antes de cada uso.
+
+ATENCAO
+-------
+Nunca mexa na elétrica com bateria ligada: curto causa faísca e incêndio.
+Peças em movimento prendem mãos e roupas: pare o motor antes de ajustar.
+Combustível em motor quente pode incendiar; limpe e não fume perto.
+Acelerador mal adaptado pode travar a rotação: mantenha como parar o motor.
+Nunca remova protetores de correias ou polias com o motor ligado.
+Se o motor não der partida manual, pare e chame um mecânico.
+Alterações no motor e na bomba exigem técnica: improviso destrói o motor.
+
+SE NAO TIVER
+------------
+Sem partida manual, use tração animal com implementos de arrasto.
+Sem bomba mecânica, use tanque elevado só se o manual permitir.
+Sem correias, acione o implemento pela tomada de força ou à mão.
+Sem lanterna, trabalhe apenas durante o dia.
+Sem mecânico ou peças, não altere o motor: mantenha a máquina parada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O motor parte com manivela ou corda e gira de forma estável sem bateria.
+O acelerador responde à alavanca e a rotação volta ao mínimo ao soltar.
+Não há vazamento de combustível, óleo ou água depois do teste.
+Correias e polias giram sem ruído de atrito e com protetores fixos.
+O implemento trabalha sem nenhuma ligação à rede elétrica.
+
+FONTES
+------
+Prática consolidada de mecanização rural e segurança de máquinas agrícolas.
+Resumo operacional de princípios gerais de motores diesel e transmissão.
+Não substitui o manual do fabricante nem a orientação de um mecânico.

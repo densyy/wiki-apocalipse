@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 66-002
+TITULO: Como compreender tolerâncias dimensionais
+CATEGORIA: 66 - Mecânica de precisão e instrumentos
+TEMPO: 20 minutos
+RISCO: baixo
+EXIGE: desenho com tolerância, paquímetro ou micrômetro, papel, lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: tolerância, ajuste, furo, eixo, limite, folga, medir
+==============================================================================
+
+OBJETIVO
+---------
+Ao terminar, você consegue ler a tolerância de um desenho e decidir se uma
+peça medida está dentro do permitido.
+
+QUANDO USAR
+-----------
+Quando recebe uma peça e quer conferir o tamanho conforme o desenho.
+Quando a medida vem escrita como 20 ±0,05 ou 20 +0,02/0 mm.
+Quando precisa saber se um eixo entra em um furo com folga ou com aperto.
+Quando aparece código como H7, h6 ou H7/h6 no desenho.
+
+NAO USE QUANDO
+--------------
+Não use para liberar peça que sustenta peso ou protege pessoas sem a
+aprovação de quem projetou.
+
+MATERIAIS
+---------
+- Desenho ou anotação com a tolerância (cópia impressa ou caderno).
+- Paquímetro ou micrômetro (régua milimetrada só para tolerância larga).
+- Papel, lápis e tabela ISO 286 (esta última só para códigos como H7).
+
+PROCEDIMENTO
+------------
+1. Leia no desenho a medida nominal da peça, por exemplo 20 mm.
+2. Identifique como a tolerância está escrita ao lado dessa medida.
+3. Para 20 ±0,05, anote limite maior 20,05 mm e limite menor 19,95 mm.
+4. Para 20 +0,02/0, anote limite maior 20,02 mm e menor 20,00 mm.
+5. Para código H7 ou h6, consulte a tabela ISO 286 e anote os limites.
+6. Limpe a superfície da peça e a ponta do instrumento de medição.
+7. Meça a peça no ponto indicado no desenho com paquímetro ou micrômetro.
+8. Repita em três pontos da superfície e anote os três resultados no papel.
+9. Compare cada resultado com os limites anotados nos passos 3 a 5.
+10. Aprove se os três resultados ficarem entre o limite menor e o maior.
+11. Separe a peça se qualquer resultado ficar fora dos limites.
+
+ATENCAO
+-------
+Uma medida dentro da tolerância não prova que a peça serve: forma e posição
+também importam. O paquímetro comum erra alguns centésimos de milímetro;
+use micrômetro abaixo de 0,05 mm. Não meça sobre rebarba ou sujeira, e
+meça perto de 20 graus. Peça de segurança exige conferir o projeto.
+
+SE NAO TIVER
+------------
+Sem paquímetro, use régua milimetrada só acima de 0,5 mm e trate o resultado
+como aproximado. Sem tabela ISO, peça os limites a quem fez o desenho.
+Sem desenho, não recupere a tolerância pela aparência da peça.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você tem dois limites anotados, três medições comparadas e uma decisão
+registrada: aprovar ou separar a peça.
+
+FONTES
+------
+ISO 286-1 e ISO 286-2, códigos de tolerância para tamanhos lineares;
+ASME Y14.5, dimensionamento em desenhos; prática de metrologia de oficina.

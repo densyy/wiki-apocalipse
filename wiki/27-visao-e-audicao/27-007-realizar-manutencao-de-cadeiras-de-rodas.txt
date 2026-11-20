@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 27-007
+TITULO: Como realizar manutenção de cadeiras de rodas
+CATEGORIA: 27 - Visão, audição e necessidades especiais
+TEMPO: 45 minutos
+RISCO: alto
+EXIGE: chave de fenda, chave de boca, bomba com manômetro, pano, óleo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: cadeira de rodas, cadeirante, freio, pneu, parafuso
+==============================================================================
+
+OBJETIVO
+--------
+Deixar a cadeira de rodas firme, segura e pronta para uso sem tombos.
+
+QUANDO USAR
+-----------
+Antes de cada uso, faça uma checagem rápida de freios e rodas.
+Uma vez por semana, revise parafusos, pneus e encaixes.
+Depois de terreno irregular, chuva, queda ou batida forte.
+Quando a cadeira range, puxa para um lado ou fica mole.
+Ao receber uma cadeira doada, usada ou montada às pressas.
+
+NAO USE QUANDO
+--------------
+Não use se o quadro estiver rachado, se um freio não travar ou se a roda
+estiver solta. Leve à oficina antes de usar novamente.
+
+MATERIAIS
+---------
+- Chave de fenda (chave de boca serve para porcas).
+- Chave de boca para porcas e parafusos.
+- Bomba manual com manômetro (bomba de bicicleta com manômetro serve).
+- Pano limpo e seco.
+- Óleo lubrificante leve (óleo de máquina de costura serve).
+- Água com detergente neutro para limpeza.
+- Escova de cerdas macias (escova de dentes velha serve).
+- Luvas de pano ou borracha.
+
+PROCEDIMENTO
+------------
+1. Coloque a cadeira em chão plano e firme, com os freios travados.
+2. Retire a pessoa da cadeira antes de apertar qualquer parafuso.
+3. Passe a mão no quadro procurando rachaduras, amassados ou ferrugem.
+4. Marque com fita qualquer rachadura e pare o uso se houver dúvida.
+5. Teste os freios: empurre a cadeira com força e veja se ela não anda.
+6. Aperte os parafusos do freio com a chave, sem exagerar na força.
+7. Encha os pneus com a bomba até a pressão marcada na lateral do pneu.
+8. Gire cada roda e observe se ela não oscila nem toca no quadro.
+9. Aperte as porcas do eixo e das rodas com a chave de boca.
+10. Retire cabelos e sujeira enrolados nos rolamentos e nas rodinhas.
+11. Limpe o quadro com pano úmido e detergente neutro, depois seque bem.
+12. Pingue uma ou duas gotas de óleo nos rolamentos e articulações.
+13. Retire o excesso de óleo com pano seco para não grudar poeira.
+14. Ajuste as cintas de apoio e confira se não estão desgastadas.
+15. Sente na cadeira, freie e veja se nada range, folga ou desalinha.
+
+ATENCAO
+-------
+Freio frouxo ou roda solta pode causar queda com lesão grave.
+Parafuso apertado demais pode romper a rosca ou rachar o quadro.
+Óleo em excesso atrai poeira que acelera o desgaste.
+Nunca use a cadeira com o quadro rachado, mesmo após solda improvisada.
+Não troque peças estruturais por peças de bicicleta sem orientação.
+Pneu murcho dificulta o empurrar e desgasta a câmara de ar.
+Se houver dor, instabilidade ou rangido forte, pare e procure ajuda.
+
+SE NAO TIVER
+------------
+Sem manômetro, encha até o pneu ficar firme ao apertar com o polegar.
+Sem chave de boca, use chave de fenda só em parafusos de fenda.
+Sem óleo lubrificante, não improvise com gordura animal ou combustível.
+Sem bomba, leve a cadeira a um posto que tenha bomba de bicicleta.
+Sem peça original, interrompa o uso até conseguir a peça correta.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os freios travam e a cadeira não se move quando empurrada.
+As rodas tocam o chão e a cadeira rola em linha reta.
+Não há folga, rangido ou parafuso que gire à mão.
+Os pneus estão firmes e sem cortes.
+Depois de sentar, nada desalinha ou cede.
+
+FONTES
+------
+Prática consolidada de manutenção de cadeiras de rodas manuais.
+Não foi possível consultar documentos institucionais nesta sessão.
+Este texto é resumo operacional cautelar, não substitui avaliação de
+profissional de reabilitação nem treinamento prático supervisionado.

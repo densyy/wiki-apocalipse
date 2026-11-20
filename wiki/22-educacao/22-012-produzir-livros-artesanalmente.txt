@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 22-012
+TITULO: Como produzir livros artesanalmente
+CATEGORIA: 22 - Educação e transmissão de conhecimento
+TEMPO: 60 minutos
+RISCO: baixo
+EXIGE: papel seco, linha, agulha, cola, superfície plana e luz
+REVISAO: 2026-11
+PALAVRAS-CHAVE: livro, caderno, encadernar, costura, folhas, cola, linha
+==============================================================================
+
+OBJETIVO
+--------
+Montar um caderno resistente, costurando folhas dobradas à mão.
+
+QUANDO USAR
+-----------
+Quando não houver energia, gráfica ou impressora por perto.
+Quando papéis soltos precisam virar um caderno de anotações.
+
+NAO USE QUANDO
+--------------
+Não use papel úmido, mofado ou quebradiço: a agulha rasga a dobra.
+Não serve para documentos oficiais que exigem integridade certificada.
+
+MATERIAIS
+---------
+- Folhas de papel secas e limpas (papel de caderno sem uso).
+- Linha de algodão ou linho (linha de costura resistente).
+- Agulha de costura limpa, sem ponta quebrada.
+- Duas tiras de pano ou papel firme de aproximadamente 2 cm.
+- Capa de papelão ou papel grosso (pasta de caixa limpa).
+- Cola de pasta de farinha ou cola de papel.
+- Régua, lápis e superfície plana (mesa limpa e com luz boa).
+
+PROCEDIMENTO
+------------
+1. Dobre cada folha ao meio, alinhando bem as bordas.
+2. Agrupe de 4 a 8 folhas dobradas: isso é uma signatura.
+3. Empilhe as signaturas em ordem, com a dobra virada para você.
+4. Identifique a lombada, a dobra que vira o dorso do livro.
+5. Marque dois pontos na lombada, a aproximadamente 6 mm de cada ponta.
+6. Encoste uma tira de pano em cada ponto e fure com a agulha.
+7. Costure de um furo ao outro, por dentro da dobra, até a última signatura.
+8. Dê duas voltas no último furo, faça nó e corte a linha rente.
+9. Corte a capa com aproximadamente 1,5 cm de sobra em cada lado.
+10. Dobre a capa ao meio, passe cola fina na lombada e pressione.
+11. Dobre a sobra da capa, alise e deixe secar aproximadamente 1 hora.
+
+ATENCAO
+-------
+Grampos e arame enferrujam com o tempo e rasgam o papel: prefira linha.
+Cola em excesso enruga as folhas e pode mofar se o lugar for úmido.
+Furos muito perto da borda rasgam; se rasgar, pare e troque a signatura.
+A ponta da agulha fere: nunca deixe a agulha solta entre as folhas.
+
+SE NAO TIVER
+------------
+Sem linha, use barbante encerado ou fio de pano trançado.
+Sem agulha, não improvise com arame: enferruja e fere. Obtenha uma.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O livro abre reto e nenhuma signatura solta quando puxada levemente.
+A capa ficou colada sem bolhas e a lombada não apresenta rasgos.
+
+FONTES
+------
+Norma ANSI/NISO/LBI Z39.78, adotada por Serviços Públicos do Canadá.
+Folheto 7.1 do NEDCC e guia de encadernação da Universidade de Toronto.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 38-015
+TITULO: Como utilizar as fases da Lua em calendários agrícolas
+CATEGORIA: 38 - Astronomia e medição do tempo
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: tabela de fases, caderno, calendário, dados de clima local
+REVISAO: 2026-11
+PALAVRAS-CHAVE: lua, fases, plantio, calendário, crescente, safra
+==============================================================================
+
+OBJETIVO
+---------
+Montar calendário de plantio com fases da Lua, sem trocar clima por lua.
+
+QUANDO USAR
+-----------
+Quando a família guarda sementes e quer comparar a safra com as luas.
+Quando o almanaque traz datas de lua cheia, nova e minguante.
+
+NAO USE QUANDO
+--------------
+Quando a lua escolher a época da cultura no lugar de chuva e calor.
+Quando a espera pela lua certa atrasar o plantio.
+
+MATERIAIS
+---------
+- Caderno com os meses e os dias do ano.
+- Tabela das fases da Lua do ano, de preferência do INMET.
+- Ou observação direta do céu, sem tabela impressa.
+- Dados de chuva e temperatura, ou a época local de plantio.
+
+PROCEDIMENTO
+------------
+1. Anote no caderno os meses e os dias do ano em curso.
+2. Copie da tabela as datas de lua nova, crescente, cheia e minguante.
+3. Marque cada data no calendário com o nome da fase.
+4. Some aproximadamente sete dias antes e sete depois de cada data.
+5. Escreva a cultura e a época correta dela na sua região.
+6. Escolha a janela que cai dentro da época correta da cultura.
+7. Se nenhuma janela cair na época, plante nela e ignore a lua.
+8. Registre a data, o tempo e o resultado final na colheita.
+
+ATENCAO
+-------
+A lua não faz a semente germinar e não aumenta a colheita.
+Revisão de mais de cem trabalhos na revista Agronomy (2020)
+não encontrou evidência de que as fases mudem o crescimento.
+Nunca adie o plantio esperando lua se chuva, calor e solo estiverem bons.
+Nunca troque a bula de um defensivo pela recomendação de lua.
+Lua nova não se vê: use a tabela e confira a data no observatório.
+
+SE NAO TIVER
+------------
+Sem tabela, observe o céu por algumas noites seguidas.
+Parte iluminada que cresce é crescente; que encolhe é minguante.
+Disco inteiro iluminado, do entardecer ao amanhecer, é lua cheia.
+Sem lua visível por várias noites, anote lua nova e use a época local.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As quatro fases aparecem em datas distintas no caderno.
+Cada cultura tem a data real e a janela lunar anotadas.
+
+FONTES
+------
+NASA, Moon Phases e Moon Facts: oito fases, ciclo de cerca de 29,5 dias.
+INMET, tabela Fases da Lua 2026, com dados do IAG/USP.
+Mayoral, Solbes, Cantó e Pina, Agronomy (2020): sem prova de efeito.
+A regra das quatro fases é tradição do campo, sem prova de safra maior.

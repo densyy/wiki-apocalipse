@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 65-015
+TITULO: Como reaproveitar polímeros sem gerar exposição tóxica
+CATEGORIA: 65 - Engenharia de materiais e polímeros
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: local ventilado, água, sabão, luvas, óculos de proteção, lixa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: plástico, polímero, reciclar, reaproveitar, tóxico, fumo
+==============================================================================
+
+OBJETIVO
+--------
+Reaproveitar plástico sem inalar fumo nem contaminar água ou alimento.
+
+QUANDO USAR
+-----------
+Quando sobra peça de plástico que pode virar suporte ou vedação.
+Quando falta recipiente e só há garrafas ou potes de plástico por perto.
+Quando precisa cortar, furar ou lixar plástico para uma reparação.
+Quando o material vai ser aquecido ou colado e há risco de fumo.
+Quando a origem da peça é desconhecida e você não sabe se é seguro.
+
+NAO USE QUANDO
+--------------
+Não use plástico de origem desconhecida para guardar água ou comida.
+Não use PVC, poliestireno ou policarbonato em contato com comida ou bebida.
+Não reaqueça, queime ou derreta plástico em ambiente fechado.
+Não use peça que fuma, cheira forte ou deforma ao calor.
+Não substitua norma técnica ou ensaio de laboratório por este texto.
+
+MATERIAIS
+---------
+- Água corrente e sabão para lavar a peça.
+- Luvas de borracha ou nitrilo para manusear peça contaminada.
+- Óculos de proteção contra respingos e poeira.
+- Lixa fina e pano para retirar rebarbas.
+- Recipiente plástico limpo para mergulhar a peça.
+- Local ventilado, de preferência com exaustão para fora.
+- Máscara simples de pano ou cirúrgica para a poeira da lixação.
+
+PROCEDIMENTO
+------------
+1. Leia o código de resina no triângulo da peça, quando houver.
+2. Anote o número: 1 PET, 2 HDPE, 3 PVC, 4 LDPE, 5 PP, 6 PS, 7 outros.
+3. Entenda que o número diz o tipo, não prova que é seguro.
+4. Separe código 1, 2 ou 5 apenas se a origem for conhecida.
+5. Use código 3, 6 e 7 só fora de contato com comida ou água.
+6. Lave com água corrente e sabão por aproximadamente 1 minuto.
+7. Enxágue bem e deixe secar ao ar, sem usar pano sujo.
+8. Lixe as bordas com lixa fina para tirar rebarbas que cortam.
+9. Umedeça a poeira da lixação com um pano úmido antes de varrer.
+10. Trabalhe sempre com porta ou janela aberta e exaustão ligada.
+11. Não fume, não coma e não beba enquanto manusear a peça.
+12. Lave as mãos com sabão antes de comer ou tocar a boca.
+13. Não aqueça com chama, forno ou sol para moldar a peça.
+14. Adapte a peça cortando e lixando, nunca derretendo.
+15. Descarte se fumar, derreter, rachar ou exalar cheiro acre.
+
+ATENCAO
+-------
+Aquecer plástico acima do limite libera fumo irritante e sensibilizador.
+PVC superaquecido libera cloreto de hidrogênio; PTFE libera gases tóxicos.
+Fumo de PTFE pode causar a febre de polímeros, uma gripe com calafrios.
+Os sintomas incluem tosse seca e aperto no peito; some em um ou dois dias.
+Não há limite seguro para gases de plástico aquecido; evite qualquer fumo.
+Poeira de lixar e cortar entra nos pulmões; umedeça e use máscara.
+Plástico usado pode guardar resíduo de detergente ou agrotóxico.
+Não use peça com cheiro forte, mancha ou resíduo que não sai na lavagem.
+Se aparecer tosse ou ardência, saia para o ar limpo e procure ajuda.
+
+SE NAO TIVER
+------------
+Sem lixa, use pedra de amolar ou a borda de um prato de cerâmica.
+Sem óculos de proteção, use óculos comuns e mantenha o rosto afastado.
+Sem sabão, use cinza e água em abundância, depois enxágue muito bem.
+Sem exaustão, faça a limpeza ao ar livre, longe de gente e de animais.
+Sem máscara, não lixe a seco: umedeça o plástico e espere secar.
+Sem recipiente conhecido, não guarde água em plástico achado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A peça está limpa, sem cheiro, sem borda cortante e sem resíduo visível.
+Não há fumo, cheiro acre ou deformação durante o manuseio.
+Você sabe o código da peça e para que uso ela foi liberada.
+Ao lixar, a poeira ficou presa no pano úmido e não levantou no ar.
+Depois de lavar as mãos, não ficou resíduo oleoso na pele.
+
+FONTES
+------
+NIOSH e CDC: febre de polímeros, decomposição de PTFE e ventilação.
+Controle de fumo em processamento de plásticos da HSE, Reino Unido.
+EPA e DOE: códigos de identificação de resina em plásticos.
+FDA e Comissão Europeia: plástico reciclado em contato com alimento.
+Prática consolidada de oficina e identificação de plásticos por código.

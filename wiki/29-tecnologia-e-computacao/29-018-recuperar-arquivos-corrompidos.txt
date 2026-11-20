@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 29-018
+TITULO: Como recuperar arquivos corrompidos
+CATEGORIA: 29 - Tecnologia, computação e informática offline
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: outro dispositivo com espaço livre, computador que leia o original
+REVISAO: 2026-11
+PALAVRAS-CHAVE: arquivo, corrompido, recuperar, dados, imagem, copia, disco
+==============================================================================
+
+OBJETIVO
+--------
+Recuperar o máximo de dados de um arquivo que não abre mais.
+Evitar dano maior ao dispositivo onde o arquivo está gravado.
+
+QUANDO USAR
+-----------
+Quando foto, texto ou planilha abre pela metade ou com lixo.
+Depois de queda de energia, queda do aparelho ou gravação interrompida.
+
+NAO USE QUANDO
+--------------
+Quando o dispositivo estala, para e volta ou cheira a queimado: desligue.
+Quando os dados são insubstituíveis e não há cópia: não arrisque o original.
+Quando o arquivo foi apagado sem cópia: isto não recupera apagamento.
+
+MATERIAIS
+---------
+- Outro dispositivo com espaço pelo menos igual ao original (disco maior).
+- Computador que leia o dispositivo danificado (o seu ou outro).
+- Programa alternativo para o arquivo (editor de texto, outro visualizador).
+- ddrescue, se houver erro de leitura (ou ajuda de quem tenha a ferramenta).
+
+PROCEDIMENTO
+------------
+1. Pare de usar o dispositivo. Não abra, não salve e não copie nada nele.
+2. Desmonte ou ejete o dispositivo pelo comando de ejeção do sistema.
+3. Anote o nome do arquivo, o tamanho e onde ele estava.
+4. Procure a cópia recente em outro aparelho, e-mail ou mídia antiga.
+5. Se achar cópia legível, compare o tamanho, use-a e pare aqui.
+6. Copie a imagem ao outro disco. Com erros, use ddrescue com mapa.
+7. Nunca repare o sistema de arquivos no original com erros de leitura.
+8. Desconecte o original. Abra o arquivo da imagem em outro programa.
+9. Salve em outro dispositivo. Repita com outra cópia, se houver.
+
+ATENCAO
+-------
+O erro mais comum é continuar usando o dispositivo: cada gravação pode
+sobrescrever o dado que você quer salvar.
+Não interrompa a imagem para testar o original. Trabalhe só na cópia.
+Se o aparelho esquentar, estalar, cheirar a queimado ou parar, desligue e
+procure ajuda. Não reconecte.
+A recuperação não traz de volta o que foi apagado ou sobrescrito.
+
+SE NAO TIVER
+------------
+Sem outro dispositivo, não faça a imagem. Consiga espaço primeiro.
+Sem ddrescue, copie só os arquivos que ainda abrem, um por um.
+Sem nada legível, guarde o dispositivo desligado e procure ajuda.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O arquivo abre até o fim em outro aparelho, sem erro, com tamanho próximo.
+Quando há soma de verificação anotada, os valores conferem.
+
+FONTES
+------
+Manual do GNU ddrescue (GNU, 2026); CISA (Stop Ransomware), cópias offline.
+Prática consolidada: conferir tamanho e abrir em programa alternativo.

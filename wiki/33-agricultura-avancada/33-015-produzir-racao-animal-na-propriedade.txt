@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 33-015
+TITULO: Como produzir ração animal na propriedade
+CATEGORIA: 33 - Agricultura avançada e autossuficiência rural
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: grãos secos, proteína, suplemento mineral, moinho e local seco
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ração, ração caseira, grãos, farelo, mistura, animal
+==============================================================================
+
+OBJETIVO
+--------
+Produzir ração balanceada na propriedade usando grãos e subprodutos locais.
+
+QUANDO USAR
+-----------
+Quando a ração comercial falta ou custa caro para a propriedade.
+Quando a propriedade tem grãos próprios ou subprodutos de colheita.
+Quando se criam poucos animais e se pode acompanhar cada um de perto.
+
+NAO USE QUANDO
+--------------
+Quando os grãos estão mofados, com cheiro de mofo ou escurecidos.
+Quando o animal tem doença ou exigência nutricional especial sem orientação.
+Quando não se consegue pesar os ingredientes com segurança.
+
+MATERIAIS
+---------
+- Grãos secos e limpos, sem mofo (milho, sorgo ou trigo).
+- Fonte de proteína (farelo de soja, feijão ou torta de oleaginosa).
+- Suplemento mineral próprio para a espécie e a fase.
+- Moinho ou pilão, balança e recipiente seco para misturar e guardar.
+
+PROCEDIMENTO
+------------
+1. Separe os grãos e descarte os que estão mofados ou com cheiro de mofo.
+2. Confira que os grãos estão secos e quebram com estalo ao morder.
+3. Moa os grãos até virar farinha grossa, sem pedaços grandes.
+4. Escolha uma receita testada para a espécie e a fase do animal.
+5. Pese cada ingrediente separadamente conforme a receita escolhida.
+6. Misture o suplemento mineral com uma pequena porção de farelo primeiro.
+7. Despeje sobre o restante e mexa até a mistura ficar uniforme.
+8. Guarde em recipiente seco e tampado e use em aproximadamente 30 dias.
+
+ATENCAO
+-------
+Grãos mofados podem conter micotoxinas, que adoecem ou matam animais.
+Não tente recuperar grão mofado moendo: o veneno permanece na mistura.
+Uma receita errada causa falta de nutrientes ou excesso de minerais.
+Nunca use a mesma receita para espécies diferentes; as exigências mudam.
+Animal que para de comer, com diarreia ou convulsões: pare e busque ajuda.
+
+SE NAO TIVER
+------------
+Sem moinho, amasse os grãos em pilão ou pedra limpa; aceite grão grosso.
+Sem balança, use um recipiente de volume fixo e anote quantas medidas usa.
+Sem suplemento mineral, não complete a ração: procure orientação técnica.
+Nunca substitua o suplemento por sal de cozinha na mesma quantidade.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A mistura tem cor uniforme, sem grãos ou grumos, e cheiro de grão seco.
+Os animais comem a ração e mantêm peso e produção normais.
+
+FONTES
+------
+- Embrapa, Ageitec: fabricação de rações e produção de ração na propriedade.
+- Embrapa: publicações sobre armazenamento de milho e micotoxinas em grãos.
+- Ministério da Agricultura: alimentação animal; prática consolidada.

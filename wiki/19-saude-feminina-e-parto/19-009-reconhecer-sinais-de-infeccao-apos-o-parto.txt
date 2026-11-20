@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 19-009
+TITULO: Como reconhecer sinais de infecção após o parto
+CATEGORIA: 19 - Saúde feminina, gestação e parto
+TEMPO: 10 minutos
+RISCO: alto
+EXIGE: termômetro, espelho, luz, absorvente limpo, caderno
+REVISAO: 2026-11
+PALAVRAS-CHAVE: infecção pós-parto, febre, puérpera, lóquios, odor, ferida
+==============================================================================
+
+OBJETIVO
+---------
+Reconhecer os sinais de infecção após o parto e decidir quando buscar
+atendimento urgente.
+
+QUANDO USAR
+-----------
+Nos 10 primeiros dias após o parto, depois das primeiras 24 horas.
+Quando aparecer febre, calafrios ou suor frio.
+Quando o corrimento vaginal mudar de cheiro, cor ou quantidade.
+Quando o ventre doer mais que o esperado ou ficar duro ao toque.
+Quando a ferida do parto normal ou da cesariana ficar vermelha ou com pus.
+Quando houver dor ao urinar junto com febre ou dor nas costas.
+
+NAO USE QUANDO
+--------------
+Não há contraindicacao conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Termômetro para medir a temperatura axilar.
+- Absorvente limpo para observar o corrimento.
+- Espelho e luz para ver a ferida e a região íntima.
+- Caderno e lápis para anotar hora, temperatura e sinais.
+- Água corrente e sabão para lavar as mãos.
+
+PROCEDIMENTO
+------------
+1. Lave as mãos com água e sabão antes de tocar a região íntima ou a ferida.
+2. Anote a data do parto.
+3. Anote a hora em que cada sinal começou.
+4. Meça a temperatura axilar com o termômetro.
+5. Anote o valor e a hora da medição.
+6. Meça de novo se o valor estiver normal e os sintomas continuarem.
+7. Observe os lóquios, secreção do útero após o parto, no absorvente.
+8. Anote o cheiro, a cor e a quantidade do corrimento.
+9. Anote se o cheiro ficou forte ou podre ou se apareceu pus.
+10. Toque o ventre abaixo do umbigo com a ponta dos dedos, com cuidado.
+11. Anote se a área doeu mais que o esperado ou ficou dura.
+12. Pare o toque se a dor for intensa.
+13. Observe a ferida do parto normal ou da cesariana com espelho e luz.
+14. Anote vermelhidão que aumenta, inchaço, calor, pus ou pontos abertos.
+15. Observe calafrios com tremor, suor, tontura, confusão ou falta de ar.
+16. Anote se o coração está acelerado mesmo em repouso.
+17. Procure atendimento de urgência se aparecer sinal listado em ATENCAO.
+
+ATENCAO
+-------
+Febre de 38°C ou mais depois das primeiras 24 horas do parto é sinal de
+alerta, mesmo sem dor ou outros sintomas.
+Corrimento com cheiro podre ou forte, pus, e útero doloroso ao toque são
+sinais de infecção do útero, chamada endometrite.
+Dor no baixo ventre que aumenta, ventre duro, calafrios, coração acelerado,
+tontura ou confusão podem indicar que a infecção se espalhou.
+Ferida vermelha, quente, inchada, com pus ou que abriu exige avaliação,
+principalmente depois de cesariana.
+Não espere dois dias de febre: a infecção puerperal pode piorar em
+poucas horas e levar à sepse, infecção generalizada, e à morte.
+Não comece antibiótico por conta própria; remédio e dose exigem avaliação.
+Sem termômetro, a falta de febre medida não afasta o risco.
+Febre alta com calafrios, confusão ou desmaio pode ser choque séptico:
+procure urgência imediata.
+
+SE NAO TIVER
+------------
+Sem termômetro, observe calafrios, suor e rosto muito quente; a mão na
+testa não é medida segura, então procure avaliação se notar isso.
+Sem espelho, peça a outra pessoa para olhar a ferida com as mãos lavadas.
+Sem luz elétrica, use luz do dia ou lamparina longe de gaze e álcool.
+Sem caderno, memorize a hora do primeiro sinal e diga em voz alta para
+quem for acompanhar você.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A temperatura foi medida e anotada junto com a hora.
+O cheiro e a cor do corrimento e o aspecto da ferida foram anotados.
+A decisão de procurar ajuda foi tomada ao aparecer sinal de alerta.
+A melhora sozinha não prova que não havia infecção.
+
+FONTES
+------
+Protocolo INFECÇÃO PUERPERAL (PRT.DM.012) do HUAB-UFRN, Rede HUBRASIL,
+2021: febre a partir de 38°C após 24 horas do parto, endometrite e sepse.
+Guia Febre e Infecções da Secretaria de Estado da Saúde de Santa Catarina:
+endometrite pós-parto e infecções urinárias no puerpério.
+Campanha HEAR HER do CDC, sinais de alerta maternos urgentes (2024), e
+materiais sobre risco de sepse no pós-parto (2025-2026).
+Prática consolidada de orientação à puérpera; não substitui avaliação.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 68-004
+TITULO: Como compreender modulação de frequência
+CATEGORIA: 68 - Radiofrequência e telecomunicações
+TEMPO: 25 minutos
+RISCO: baixo
+EXIGE: papel, lápis, noção de onda senoidal
+REVISAO: 2026-11
+PALAVRAS-CHAVE: rádio, fm, frequência, modulação, portadora, estática
+==============================================================================
+
+OBJETIVO
+--------
+Ser capaz de explicar como uma onda de rádio carrega informação ao mudar
+de frequência.
+
+QUANDO USAR
+-----------
+Quando for escolher entre rádio FM e AM para uma ligação de voz.
+Quando o rádio chega com chiado e você quer entender o motivo.
+Quando precisar explicar por que FM tem alcance menor que AM.
+Quando ler uma especificação de rádio com valores em kHz ou MHz.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Papel e lápis para desenhar as curvas.
+- Noção de onda senoidal: curva que sobe e desce em ciclos regulares.
+- Um receptor de FM para observar, se houver (qualquer rádio com FM).
+
+PROCEDIMENTO
+------------
+1. Desenhe uma linha horizontal: é o eixo do tempo.
+2. Desenhe uma senoide em cima: é a portadora, com altura constante.
+3. Marque o meio da curva e anote a frequência central.
+4. Desenhe uma curva lenta embaixo: é o sinal de informação, o áudio.
+5. Onde a curva lenta sobe, aproxime os picos: a frequência aumenta.
+6. Onde a curva lenta desce, afaste os picos: a frequência diminui.
+7. Confira se a altura da portadora ficou igual do início ao fim.
+8. Anote: na FM a informação está na frequência, não na altura.
+9. Compare com a AM: lá a altura muda e a frequência fica constante.
+10. Anote a banda de FM: 88 a 108 MHz, com canais de 200 kHz.
+
+ATENCAO
+-------
+A frequência central não é a informação; o áudio está nas variações.
+Na FM a altura da onda é constante. Se a altura cair, é ruído, não áudio.
+FM ocupa mais banda que AM, por isso cabem menos estações no espectro.
+Sintonia errada ou sinal fraco produzem chiado e perda de áudio.
+Este texto explica o princípio; não autoriza operar um transmissor.
+
+SE NAO TIVER
+------------
+Sem papel, desenhe o raciocínio no chão com um graveto.
+Sem noção de senoide, pense numa corda que vibra para cima e para baixo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você aponta no desenho onde a frequência sobe e onde desce.
+Você afirma que a altura da portadora não muda na FM.
+Você explica com as próprias palavras por que FM resiste ao chiado.
+
+FONTES
+------
+Prática consolidada de engenharia de radiofrequência e telecomunicações.
+Referências: manual The ARRL Handbook for Radio Communications (ARRL),
+recomendações da ITU e normas da ANATEL para a banda de FM no Brasil.

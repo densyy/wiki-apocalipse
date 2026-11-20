@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 68-023
+TITULO: Como construir uma rede de comunicação local de emergência
+CATEGORIA: 68 - Radiofrequência e telecomunicações
+TEMPO: 2 horas
+RISCO: alto
+EXIGE: rádios licenciados, antenas, energia, permissão para transmitir
+REVISAO: 2026-11
+PALAVRAS-CHAVE: rádio, rede, emergência, VHF, antena, operador, socorro
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma rede de voz por rádio que ligue pontos fixos e móveis quando a
+telefonia e a internet falharem.
+
+QUANDO USAR
+-----------
+Quando o sinal de celular acabar ou a torre ficar sem energia.
+Quando abrigo, posto de saúde e equipe de busca precisarem conversar.
+Quando houver poucos rádios e uma mensagem precisar passar adiante.
+Quando o plano de emergência da comunidade pedir comunicação própria.
+
+NAO USE QUANDO
+--------------
+Quando você não tem licença da ANATEL nem aparelho de uso livre aprovado.
+Sem permissão, apenas ouça: transmitir é proibido e atrapalha outros.
+Quando não houver uma pessoa treinada em cada ponto da rede.
+Quando a antena só couber junto de fio de energia elétrica.
+
+MATERIAIS
+---------
+- Um rádio VHF ou UHF por ponto: fixo, móvel ou portátil (de uso livre
+  quando não houver licença de radioamador).
+- Antena adequada a cada rádio (a de bastão serve para perto).
+- Fonte de energia: bateria, carregador solar ou pilhas de reserva.
+- Fio, isoladores e estaca para a antena do ponto fixo.
+- Papel, lápis e uma lista com canais, horários e indicativos.
+- Relógio para marcar os horários de escuta.
+
+PROCEDIMENTO
+------------
+1. Liste os pontos que precisam se falar: abrigo, saúde, segurança, água.
+2. Defina quem opera cada rádio e quem é o responsável pela rede.
+3. Confira a situação legal de cada rádio antes de ligar o transmissor.
+4. Transmita só com licença da ANATEL ou com aparelho de uso livre.
+5. Escolha um canal principal de chamada e outro alternativo.
+6. Anote os canais e os indicativos no papel, uma cópia por estação.
+7. Combine horários de escuta, por exemplo a cada aproximadamente 1 hora.
+8. Instale a antena do ponto fixo no lugar mais alto e seguro disponível.
+9. Mantenha a antena longe de fio de energia e de pessoas que passam.
+10. Ligue o rádio, ajuste o canal e faça um teste de voz com cada ponto.
+11. Caminhe até os limites da área e anote onde o sinal enfraquece.
+12. Repita o teste com a antena alternativa se algum ponto ficar sem sinal.
+13. Defina a ordem das mensagens: socorro, saúde, segurança, abastecimento.
+14. Explique a regra de fala: diga o indicativo, fale curto, diga "cópia".
+15. Combine o sinal de emergência e quem avisa a Defesa Civil.
+16. Repita o teste uma vez por semana e corrija o que falhou.
+
+ATENCAO
+-------
+Fio de energia elétrica mata. Nunca encoste a antena em uma linha.
+Se a antena cair sobre fio de energia, não toque: afaste e chame socorro.
+Raios caem em antena alta. Desligue o rádio e aterre a linha na tempestade.
+Trabalhar em altura sem apoio pode matar. Use cinto e não suba sozinho.
+Transmitir sem licença ou fora das condições do serviço é proibido.
+Em caso de interferência, pare de transmitir e mude para o canal livre.
+Qualquer pessoa com rádio no canal pode ouvir. Não transmita dados
+pessoais nem mensagens secretas sem código combinado antes.
+Esta rede não substitui o socorro oficial. Avise a Defesa Civil e o
+serviço de emergência assim que houver meio.
+
+SE NAO TIVER
+------------
+Sem repetidora, use um ponto alto como estação de retransmissão.
+Sem antena externa, use a antena de bastão e reduza a distância.
+Para escolher e montar a antena do ponto fixo, veja 68-011 e 68-013.
+Sem energia de rede, use bateria e desligue o rádio quando não escutar.
+Sem licença, limite-se a ouvir e combine outro meio de aviso com a
+autoridade local. Não improvise transmissor.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Todas as estações respondem ao chamado no canal principal e dizem "cópia".
+A mensagem de teste chega ao último ponto sem repetição e sem perda.
+Cada estação tem o plano escrito e sabe o horário de escuta.
+A rede continua falando quando o celular está sem sinal.
+
+FONTES
+------
+Prática consolidada de comunicações de emergência com rádio amador:
+American Radio Relay League, Serviço de Emergência por Rádio Amador
+(ARES), manual ARES Field Resources e plano ARES. Princípios de redes
+de emergência da Cruz Vermelha e da IFRC. No Brasil, a autorização de
+transmissão é da ANATEL. Resumo operacional; não substitui treinamento.

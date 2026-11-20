@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 07-079
+TITULO: Como sobreviver a avalanches
+CATEGORIA: 07 - Guerra, radiação e catástrofes nucleares
+TEMPO: 20 minutos
+RISCO: critico
+EXIGE: capacete, localizador, sonda, pá, companheiro e previsão da região
+REVISAO: 2026-11
+PALAVRAS-CHAVE: avalanche, neve, soterramento, bolsão de ar, resgate, beacon
+==============================================================================
+
+OBJETIVO
+--------
+Escapar de uma avalanche e ser localizado se ficar soterrado.
+
+QUANDO USAR
+-----------
+Quando for atravessar encosta com neve em região com risco de avalanche.
+Quando a previsão indicar risco e ainda precisar entrar na encosta.
+Quando vir rachaduras na neve ou avalanches recentes na encosta.
+Quando a neve começar a deslizar e você for pego.
+Quando um companheiro ficar soterrado sob a neve.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+Não entre em área de risco sem treinamento e equipamento.
+
+MATERIAIS
+---------
+- Capacete: reduz ferimento na cabeça e ajuda a manter espaço para o ar.
+- Localizador de avalanche ligado: aparelho que aponta onde a pessoa está.
+- Sonda dobrável e pá pequena: servem para encontrar e desenterrar.
+- Balão de avalanche, se houver: ajuda a ficar na superfície da neve.
+- Companheiro treinado e previsão atualizada da região.
+
+PROCEDIMENTO
+------------
+1. Consulte a previsão de avalanche da região antes de entrar na neve.
+2. Evite encostas com mais de 30 graus e áreas logo abaixo delas.
+3. Se vir avalanches recentes ou rachaduras que estalam, saia da encosta.
+4. Vá acompanhado, de capacete, com localizador ligado, sonda e pá.
+5. Quando a neve deslizar, grite "Avalanche!" para avisar o grupo.
+6. Ative o balão de avalanche se tiver, antes de ser arremessado.
+7. Saia da massa em movimento pela lateral, em diagonal, até a borda.
+8. Perto do topo, finque mãos, pés ou bastões na neve firme para parar.
+9. Se for levado, largue esquis, prancha e bastões.
+10. Empurre blocos de neve e nade com os pés para baixo para subir.
+11. Role para a lateral da avalanche, nunca para a frente da cabeça dela.
+12. Quando a neve desacelerar, limpe a frente da boca com uma mão.
+13. Com a outra mão, estique-se para cima e cubra o rosto com o braço.
+14. Ao parar, mantenha boca e nariz livres e o peito expandido.
+15. Fique imóvel e respire devagar para gastar pouco oxigênio.
+16. Não grite: quem está fora não ouve e você perde ar.
+17. Espere o companheiro localizar você com o localizador e a sonda.
+18. Se o companheiro for soterrado, chame o resgate antes de procurar.
+19. Mude o localizador para busca, afaste outros aparelhos e siga o sinal.
+20. Marque o último ponto visto e cave com cuidado até o corpo aparecer.
+21. Não entre sozinho onde ainda pode haver outra avalanche.
+
+ATENCAO
+-------
+A morte mais comum é por sufocamento; trauma e hipotermia também matam.
+Sem bolsão de ar, a sobrevivência cai após aproximadamente 35 minutos.
+O balão ajuda a flutuar, mas pode dificultar as manobras de escape.
+Nadar na neve é debatido: não há prova direta, mas sobreviventes apoiam.
+Nunca tente resgate sozinho se houver risco de outro deslizamento.
+Não trata ferimentos, hipotermia nem reanimação; busque ajuda médica.
+
+SE NAO TIVER
+------------
+Sem balão, use as manobras de escape e mantenha o capacete.
+Sem localizador, marque onde foi visto e procure só se não houver risco.
+Sem equipamento ou companheiro, evite a encosta: chance muito baixa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você saiu da massa de neve pela lateral antes de ser carregado.
+Você mantém boca e nariz livres e sente o peito expandir sem neve entrando.
+Você ouve o companheiro cavando e é desenterrado consciente.
+
+FONTES
+------
+Guia de avalanche do Ready.gov e ficha informativa da FEMA.
+Manual do CERT da FEMA para socorro em avalanche.
+Orientações do Centro Nacional de Avalanche do Serviço Florestal dos EUA.
+Técnicas de sobrevivência da American Avalanche Association.
+Recomendações da Comissão Internacional de Medicina de Montanha, 2023.
+Estudo ISSW do Serviço Florestal dos EUA sobre sobrevivência.

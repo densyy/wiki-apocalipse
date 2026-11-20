@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 09-017
+TITULO: Como manter aparelhos de comunicação funcionando sem energia
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 20 minutos
+RISCO: medio
+EXIGE: aparelhos de comunicação com bateria, fontes de recarga
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bateria, rádio, celular, energia, recarga, manivela, solar
+==============================================================================
+
+OBJETIVO
+--------
+Mantenha rádios e celulares operáveis por mais tempo quando a rede
+elétrica falha.
+
+QUANDO USAR
+-----------
+Quando a energia cai e os aparelhos ainda têm carga.
+Quando a previsão anuncia tempestade e é preciso economizar bateria.
+Quando a recarga só pode vir de pilhas, manivela ou sol.
+
+NAO USE QUANDO
+--------------
+Quando houver fio exposto ou instalação elétrica danificada: não tente
+improvisar ligação na rede. Procure um eletricista ou a defesa civil.
+
+MATERIAIS
+---------
+- Aparelhos de comunicação com bateria (rádio, celular).
+- Pilhas reservas ou banco de energia carregado.
+- Rádio de manivela ou painel solar portátil, se houver.
+
+PROCEDIMENTO
+------------
+1. Carregue todos os aparelhos e bancos de energia antes da falta.
+2. Escolha um único celular e um único rádio para ficar ligados.
+3. Desligue os aparelhos que não estiver em uso.
+4. No celular, ative o modo de baixo consumo ou modo avião.
+5. Use mensagens de texto em vez de ligações.
+6. No rádio, mantenha o volume no menor nível que se entende.
+7. Ao falar no rádio, solte o botão assim que terminar a frase.
+8. Guarde as pilhas reservas em lugar seco e longe do calor.
+9. Recarregue com manivela ou sol só com o aparelho parado.
+10. Anote em papel os canais e contatos, sem depender da memória.
+
+ATENCAO
+-------
+Baterias inchadas ou aquecidas podem vazar ou pegar fogo: pare de usar
+e afaste de material inflamável. Nunca curto-circuite os contatos.
+Não recarregue perto de combustível ou chama. Manivela e sol recarregam
+devagar e não substituem a preparação prévia. Nunca ligue aparelho a fio
+exposto ou rede energizada: o risco é choque elétrico. Mantenha reserva.
+
+SE NAO TIVER
+------------
+Sem manivela e sem sol, use só as pilhas reservas e desligue o resto.
+Sem banco de energia, troque as pilhas do rádio em vez de recarregá-lo.
+Sem nenhuma fonte, priorize um aparelho e economize cada minuto.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O rádio continua recebendo áudio inteligível e o celular ainda liga
+depois de horas sem rede. A reserva de pilhas permanece sem uso.
+
+FONTES
+------
+Prática consolidada de preparação: Ready.gov/FEMA (kit de emergência e
+economia de energia em dispositivos) e NOAA (rádio meteorológico).

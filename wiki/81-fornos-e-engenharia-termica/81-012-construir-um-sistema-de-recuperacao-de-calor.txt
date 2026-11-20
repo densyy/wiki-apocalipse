@@ -1,0 +1,86 @@
+==============================================================================
+CODIGO: 81-012
+TITULO: Como construir um sistema de recuperação de calor
+CATEGORIA: 81 - Engenharia térmica e fornos industriais
+TEMPO: 2 dias
+RISCO: alto
+EXIGE: dutos, trocador, isolamento, ventilador
+REVISAO: 2026-11
+PALAVRAS-CHAVE: recuperação de calor, trocador, dutos, eficiência, exaustão
+==============================================================================
+
+OBJETIVO
+--------
+Aproveitar o calor dos gases quentes de um forno para aquecer outra carga.
+
+QUANDO USAR
+-----------
+Quando a chaminé solta gases ainda muito quentes.
+Para pré-aquecer ar de combustão ou água de uso.
+Quando o forno gasta muito combustível para aquecer.
+Ao reduzir o calor desperdiçado em processos térmicos.
+
+NAO USE QUANDO
+--------------
+Não instale onde gases tóxicos possam voltar para ambientes fechados.
+Não use em dutos obstruídos ou com fuga de fumaça.
+Não recupere calor de gases com resina ou tinta sem filtragem.
+Não obstrua a chaminé original: a tiragem precisa continuar.
+
+MATERIAIS
+---------
+- Dutos metálicos resistentes ao calor (tubos de aço ou inox).
+- Trocador de calor: feixe de tubos ou placa metálica.
+- Isolamento térmico para os dutos (lã de rocha ou manta cerâmica).
+- Ventilador ou soprador para mover o ar limpo (exaustor).
+- Abraçadeiras, vedação de alta temperatura e suportes.
+- Termômetros para medir a entrada e a saída dos gases.
+- Luvas, óculos e máscara para a instalação.
+
+PROCEDIMENTO
+------------
+1. Meça a temperatura dos gases na saída do forno.
+2. Confirme que a chaminé tem tiragem e não solta fumaça no ambiente.
+3. Escolha o ponto de instalação no duto de gases quentes.
+4. Defina o que será aquecido: ar, água ou outra carga.
+5. Monte o trocador com passagem separada para os dois fluidos.
+6. Encaixe o trocador no duto sem reduzir a passagem dos gases.
+7. Isole os dutos para não perder calor no caminho.
+8. Instale o ventilador no lado do ar limpo, empurrando-o.
+9. Vede todas as emendas com material resistente ao calor.
+10. Fixe termômetros antes e depois do trocador.
+11. Ligue o forno e acompanhe a tiragem da chaminé.
+12. Aumente o fluxo de ar limpo aos poucos.
+13. Compare as temperaturas de entrada e saída dos gases.
+14. Ajuste o ventilador para ganhar calor sem esfriar o forno.
+15. Anote os ganhos e revise as vedações com regularidade.
+
+ATENCAO
+-------
+Gases de combustão podem conter monóxido de carbono: nunca deixe escapar.
+Obstruir a chaminé faz fumaça voltar e pode matar por asfixia.
+O trocador e os dutos ficam quentes o bastante para queimar a pele.
+Fuligem acumulada reduz a troca e pode pegar fogo: limpe com frequência.
+Nunca use o ar que passou pelos gases para respirar ou secar alimentos.
+Se a tiragem cair, pare e desobstrua antes de continuar.
+Vedação ruim desperdiça calor e traz risco de intoxicação.
+
+SE NAO TIVER
+------------
+Sem trocador pronto, use tubo metálico simples com água corrente ao redor.
+Sem isolamento, cubra os dutos com manta ou areia seca confinada.
+Sem termômetro, compare o tempo de aquecimento antes e depois.
+Sem ventilador, confie apenas na convecção e aceite menor ganho.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A temperatura dos gases cai depois do trocador.
+A carga secundária aquece sem contato com a fumaça.
+A chaminé continua com tiragem, sem fumaça de volta.
+O consumo de combustível cai para o mesmo trabalho realizado.
+
+FONTES
+------
+Prática consolidada de recuperação de calor em fornos e caldeiras de
+pequeno porte, sem documento normativo único. Referências correntes de
+trocadores de calor, isolamento térmico e segurança em sistemas de exaustão.

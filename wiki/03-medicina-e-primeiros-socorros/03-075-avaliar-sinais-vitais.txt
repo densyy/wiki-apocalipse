@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 03-075
+TITULO: Como avaliar sinais vitais
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 5 minutos
+RISCO: medio
+EXIGE: relógio ou celular com cronômetro, papel e caneta
+REVISAO: 2026-11
+PALAVRAS-CHAVE: sinais vitais, pulso, respiração, temperatura, febre
+==============================================================================
+
+OBJETIVO
+--------
+Medir os sinais vitais para reconhecer sinais de gravidade.
+
+QUANDO USAR
+-----------
+Ao encontrar alguém doente ou ferido e precisar saber a gravidade.
+Quando o estado da pessoa piorar ou antes de entregar a um profissional.
+
+NAO USE QUANDO
+--------------
+Não pare o socorro para medir: se houver risco de morte, socorra primeiro.
+Não decida só pelos números: observe a pele e o comportamento.
+
+MATERIAIS
+---------
+- Relógio ou celular com cronômetro (ou contar em voz alta).
+- Papel e caneta (ou guardar a sequência na memória).
+- Termômetro, aparelho de pressão e oxímetro, se houver.
+
+PROCEDIMENTO
+------------
+1. Confira se a cena está segura antes de chegar perto.
+2. Veja se a pessoa responde a voz, a dor ou a nada; anote.
+3. Conte a respiração por 1 minuto e anote o total.
+4. Observe se falta ar ou se a respiração faz ruído.
+5. Palpe o pulso no pescoço por 1 minuto e conte os batimentos.
+6. Toque a pele: cor, calor ao toque e suor.
+7. Se houver termômetro, meça a temperatura e anote.
+8. Pressione uma unha por 2 segundos e solte.
+9. Veja se a cor volta em menos de 2 segundos.
+10. Se houver oxímetro, meça a saturação e anote.
+11. Se houver aparelho de pressão, meça e anote.
+12. Anote a hora de cada medição.
+
+ATENCAO
+-------
+Valores de adulto em repouso, aproximados: respiração 12 a 20 por minuto;
+pulso 60 a 100 por minuto; temperatura 36,5 a 37,5 graus Celsius.
+Falta de ar, saturação abaixo de 90% ou pele fria e pálida: urgência.
+Pressão perto de 90/60 com confusão ou desmaio: emergência.
+Medir não substitui observar: números normais não excluem doença grave.
+
+SE NAO TIVER
+------------
+Sem termômetro: encoste o dorso da mão na testa; não afirme febre.
+Sem aparelho de pressão ou oxímetro: não chute; observe pele e pulso.
+Sem papel: repita os valores em voz alta para quem for socorrer.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você informa cada valor medido e anotado com a hora.
+Você aponta qual valor saiu do esperado.
+
+FONTES
+------
+Prática consolidada de primeiros socorros (Cruz Vermelha, OMS e
+protocolos pré-hospitalares). Resumo; não substitui treinamento.

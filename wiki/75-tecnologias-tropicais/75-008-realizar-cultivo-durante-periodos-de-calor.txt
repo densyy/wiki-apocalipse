@@ -1,0 +1,79 @@
+==============================================================================
+CODIGO: 75-008
+TITULO: Como realizar cultivo durante períodos de calor extremo
+CATEGORIA: 75 - Tecnologias apropriadas para regiões tropicais
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: tela de sombreamento, palha, água para irrigar, estacas e corda
+REVISAO: 2026-11
+PALAVRAS-CHAVE: calor extremo, cultivo, sombra, rega, murcha, hortaliça
+==============================================================================
+
+OBJETIVO
+--------
+Manter a lavoura viva e produtiva durante ondas de calor extremo.
+
+QUANDO USAR
+-----------
+Quando a previsão indicar dias muito quentes e secos seguidos.
+Quando mudas novas ou hortaliças murcharem no meio do dia.
+Quando o solo arena esquentar rápido sob o sol.
+Quando o canteiro ficar sem sombra durante todo o dia.
+Quando for preciso plantar ou colher na estação mais quente.
+
+NAO USE QUANDO
+--------------
+Quando não houver água para irrigar durante a seca prolongada.
+Cobertura e sombra sozinhas não evitam a perda da lavoura.
+
+MATERIAIS
+---------
+- Tela de sombreamento ou pano claro (lona, saco de estopa, palha).
+- Palha, serragem limpa ou folhas secas (casca de árvore).
+- Regador ou mangueira com água limpa.
+- Estacas e corda ou arame para prender a tela.
+
+PROCEDIMENTO
+------------
+1. Prenda a tela de sombreamento sobre as plantas, sem encostar nas folhas.
+2. Deixe a tela inclinada, com espaço por baixo para o ar circular.
+3. Espalhe aproximadamente 5 cm de palha entre as linhas de plantio.
+4. Afaste a cobertura do caule para não reter umidade e apodrecer.
+5. Regue no começo da manhã, molhando o solo e não apenas as folhas.
+6. Se a terra estiver seca a aproximadamente 3 cm, regue no fim da tarde.
+7. Faça o plantio e o transplante no começo da manhã ou no fim da tarde.
+8. Suspenda a adubação com nitrogênio até o calor diminuir.
+9. Colha no começo da manhã, quando as folhas estão mais firmes.
+10. Retire a tela aos poucos quando as temperaturas baixarem.
+
+ATENCAO
+-------
+O calor extremo pode matar quem trabalha sem sombra e sem água.
+Beba água com frequência, descanse na sombra e pare se sentir tontura.
+Tela baixa e sem ventilação cozinha as plantas e queima as folhas.
+Regar ao meio do dia gasta água e pode queimar folhas com gotas.
+Cobertura encostada no caule apodrece a planta e atrai pragas.
+Sombra em excesso reduz a luz e pode diminuir a colheita de frutos.
+Se as folhas murcharem e não recuperarem após a rega, pare e busque ajuda.
+
+SE NAO TIVER
+------------
+Sem tela, use pano claro, saco de estopa aberto ou palha trançada.
+Sem palha, use serragem limpa, folhas secas ou casca de árvore.
+Sem regador, use garrafa com furos na tampa, molhando a terra.
+Não use plástico escuro nem lona preta: esquentam mais que o solo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O solo sob a cobertura fica úmido e mais frio que o solo descoberto.
+As folhas não murcham ao meio dia e recuperam ao entardecer.
+A planta continua crescendo e não mostra queimaduras nas bordas.
+
+FONTES
+------
+OMS: ficha Mudanças climáticas e saúde (12/10/2023), consultada.
+OMS: orientação sobre calor e saúde divulgada no site da OMS (2026).
+FAO: página Adaptação às mudanças climáticas (site da FAO, 2026).
+FAO: resiliência de sistemas agrícolas e manejo da água.
+Prática consolidada de horticultura em clima quente:
+cobertura do solo, sombreamento, rega matinal e colheita cedo.

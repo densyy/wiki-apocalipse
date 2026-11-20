@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 09-049
+TITULO: Como manter baterias de dispositivos eletrônicos
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: carregador compatível, pano seco, vinagre, lugar fresco e seco
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bateria, pilha, carregar, lítio, carregador, vazamento
+==============================================================================
+
+OBJETIVO
+--------
+Mantenha baterias e pilhas carregadas, limpas e seguras para que
+os aparelhos continuem funcionando quando a energia faltar.
+
+QUANDO USAR
+-----------
+Quando a energia pode faltar por vários dias.
+Ao guardar rádios, celulares e lanternas para uso depois.
+
+NAO USE QUANDO
+--------------
+Se a bateria inchar, esquentar, cheirar estranho ou vazar, pare.
+Não carregue, não desmonte. Afaste e leve a ponto de coleta.
+
+MATERIAIS
+---------
+- Carregador do aparelho ou carregador manual.
+- Pano seco e macio (ou papel toalha).
+- Vinagre ou suco de limão para resíduo de pilha alcalina.
+- Fita adesiva para isolar terminais de pilhas soltas.
+
+PROCEDIMENTO
+------------
+1. Desligue o aparelho antes de tocar na bateria.
+2. Use apenas carregador compatível com o aparelho.
+3. Carregue até aproximadamente 50% se for guardar por mais de uma semana.
+4. Recarregue antes de o aparelho desligar por falta de carga.
+5. Carregue em lugar ventilado, longe de papel, sem deixar sozinho.
+6. Tire o carregador da tomada quando indicar carga cheia.
+7. Retire pilhas de aparelhos que ficarão parados por semanas.
+8. Limpe contatos com pano seco; com resíduo branco, use vinagre e seque.
+9. Guarde tipos separados em lugar fresco, seco e escuro; isole terminais.
+10. Recarregue baterias guardadas a cada aproximadamente 3 meses.
+
+ATENCAO
+-------
+Bateria de lítio danificada pode pegar fogo e não se apaga com água.
+Curto entre terminais gera calor, faísca e queimadura.
+Carregador errado pode superaquecer e destruir a bateria.
+Se esquentar, inchar ou cheirar, pare e afaste a bateria.
+Nunca coloque pilha no fogo, no lixo comum nem no micro-ondas.
+
+SE NAO TIVER
+------------
+Sem carregador compatível, use carregador manual; pare se esquentar.
+Sem caixa, use saco plástico seco e cubra os terminais com fita.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O aparelho liga e mantém a carga depois de semanas guardado.
+Os contatos estão secos, sem resíduo branco, verde ou ferrugem.
+
+FONTES
+------
+Prática consolidada de cuidado e armazenamento de baterias e pilhas.
+Orientações gerais de fabricantes e da defesa civil sobre risco de
+incêndio com baterias de lítio. Sem documento único: valores aproximados.

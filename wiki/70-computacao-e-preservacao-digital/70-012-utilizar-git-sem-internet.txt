@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 70-012
+TITULO: Como utilizar Git sem internet
+CATEGORIA: 70 - Computação de baixo consumo e preservação digital
+TEMPO: 25 minutos
+RISCO: medio
+EXIGE: computador com Git, pasta de documentos, meio externo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: git, versionamento, sem internet, commit, histórico, backup
+==============================================================================
+
+OBJETIVO
+--------
+Registrar versões de arquivos e voltar a estados anteriores sem internet.
+
+QUANDO USAR
+-----------
+Quando listas, mapas e registros mudam e é preciso voltar atrás.
+Quando não há internet, mas há outro computador por perto.
+Quando é preciso levar o histórico em pendrive até outro aparelho.
+
+NAO USE QUANDO
+--------------
+Quando o histórico existe só neste computador e não há outra cópia.
+Sem remoto, Git não protege contra roubo, falha do disco ou incêndio.
+
+MATERIAIS
+---------
+- Computador com Git instalado e pasta exclusiva para o projeto.
+- Pendrive para transportar o histórico; caderno para anotar códigos.
+
+PROCEDIMENTO
+------------
+1. Abra o terminal na pasta do projeto e execute git init.
+2. Defina nome e e-mail locais com git config --local, se faltarem.
+3. Execute git status para ver os arquivos ainda não registrados.
+4. Execute git add . para incluir todos os arquivos da pasta.
+5. Execute git commit -m com uma mensagem curta sobre a mudança.
+6. Execute git log para ver os códigos das versões salvas.
+7. Edite um arquivo e use git diff para conferir a mudança.
+8. Salve a nova versão repetindo os passos 3, 4 e 5.
+9. Para apagar edição não salva, use git restore no arquivo.
+10. Para recuperar texto antigo, use git show codigo:arquivo.
+11. Crie um pacote com git bundle create arquivo.bundle --all.
+12. No outro aparelho, confira o pacote com git bundle verify.
+13. Clone o pacote com git clone arquivo.bundle pasta-nova.
+
+ATENCAO
+-------
+Um commit existe só neste disco até você copiar o pacote a outro meio.
+Nunca use git reset --hard: descarta mudanças sem deixar recuperar.
+Confira com git status: arquivos fora do git add não entram no commit.
+
+SE NAO TIVER
+------------
+O código do passo 10 vem do git log; use o caminho do arquivo.
+Sem pendrive, copie o pacote para um celular ou outro aparelho.
+Sem Git instalado, veja 70-011 para numerar cópias manualmente.
+
+COMO SABER QUE DEU CERTO
+------------------------
+git status mostra a pasta limpa, sem arquivos pendentes.
+git log mostra os commits com datas e mensagens na ordem.
+O pacote abre no outro aparelho e o clone mostra os mesmos arquivos.
+
+FONTES
+------
+Manual de referência do Git, do projeto Git, documentação oficial.
+Livro Pro Git, de Scott Chacon e Ben Straub, sobre repositórios locais.
+Prática consolidada de versionamento distribuído sem servidor central.

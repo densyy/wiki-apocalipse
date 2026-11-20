@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 09-056
+TITULO: Como criar um índice físico de documentos
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 60 minutos
+RISCO: baixo
+EXIGE: papel, caneta ou lápis, caixa ou pasta, documentos, etiquetas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: índice, documentos, ficha, catálogo, arquivo, papel, busca
+==============================================================================
+
+OBJETIVO
+--------
+Crie um catálogo em papel que permite achar qualquer documento sem
+computador, internet ou energia.
+
+QUANDO USAR
+-----------
+Quando há vários papéis e você não consegue achar um depressa.
+Quando o computador não serve para buscar arquivos ou não há energia.
+Antes de guardar documentos em caixas, pastas ou locais diferentes.
+
+NAO USE QUANDO
+--------------
+Quando há poucos documentos: uma pilha etiquetada resolve sem índice.
+Quando o arquivo muda todos os dias: o índice em papel fica desatualizado.
+
+MATERIAIS
+---------
+- Papel, caneta ou lápis (papel reciclado de um lado serve).
+- Cartões ou folhas cortadas do mesmo tamanho (papel comum).
+- Caixa, pasta ou caderno para guardar as fichas.
+- Etiquetas ou fita de papel para numerar caixas e pastas.
+
+PROCEDIMENTO
+------------
+1. Reúna todos os documentos em uma mesa limpa e seca.
+2. Separe por assunto: identidade, saúde, mapas, contatos, manuais.
+3. Dê um código a cada documento: assunto e número, como SAU-01.
+4. Escreva o mesmo código na etiqueta do documento e na caixa.
+5. Anote em uma ficha: código, título, data e onde o documento está.
+6. Escreva uma ficha por documento, sempre no mesmo formato.
+7. Ordene as fichas por código ou por ordem alfabética de título.
+8. Guarde as fichas na caixa ou no caderno, na mesma ordem.
+9. Quando o documento mudar de lugar, risque e corrija a ficha.
+10. Faça uma cópia do índice e guarde-a em outro local.
+
+ATENCAO
+-------
+O índice serve só se as fichas forem atualizadas quando o papel muda.
+Ficha desatualizada engana: confira o documento antes de confiar nela.
+Não anote dado sigiloso na ficha se qualquer pessoa pode ler a caixa.
+Se não achar o documento pela ficha, procure na caixa antes de desistir.
+
+SE NAO TIVER
+------------
+Sem cartões, use um caderno: uma linha por documento.
+Sem etiquetas, escreva o código direto no canto do papel.
+Sem caixa, prenda as fichas com clipe dentro de um envelope.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Uma pessoa encontra um documento certo em menos de um minuto.
+Toda ficha tem código, título, data e local que conferem com o papel.
+
+FONTES
+------
+Prática consolidada de biblioteconomia e arquivologia: catálogo em fichas
+e inventário, sem documento único. Códigos variam entre instituições.

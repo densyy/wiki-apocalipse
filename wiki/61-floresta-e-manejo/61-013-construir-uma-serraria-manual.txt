@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 61-013
+TITULO: Como construir uma serraria manual
+CATEGORIA: 61 - Agricultura florestal e manejo de ecossistemas
+TEMPO: 6 horas
+RISCO: alto
+EXIGE: toras, serra manual, cavaletes, cunhas, corda, luvas e óculos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: serraria, serra, madeira, tora, corte, prancha, cunha
+==============================================================================
+
+OBJETIVO
+--------
+Montar um local de corte manual para transformar toras em pranchas retas.
+
+QUANDO USAR
+-----------
+Quando não houver energia elétrica nem serraria mecânica perto.
+Quando a madeira vem de árvores derrubadas no próprio terreno.
+Quando se precisam de pranchas para construção, cercas ou móveis.
+Quando o volume de madeira é pequeno e o corte manual resolve.
+Quando o transporte das toras até uma serraria é caro ou impossível.
+
+NAO USE QUANDO
+--------------
+Quando a tora tiver pregos, arame ou pedra presa na linha de corte.
+Quando não houver terreno plano e firme para apoiar a tora.
+Quando se exigirem cortes de precisão ou grande volume diário de madeira.
+Quando não houver outra pessoa por perto para ajudar em caso de acidente.
+
+MATERIAIS
+---------
+- Toras de madeira limpas, sem pregos, arame nem casca com terra.
+- Serra manual de arco ou serra de vaivém de dentes largos (serra comum).
+- Dois cavaletes firmes ou suportes feitos de troncos (tora apoiada).
+- Cunhas de madeira dura ou de metal para manter o corte aberto.
+- Marreta ou maça de madeira para bater as cunhas.
+- Corda, linha de giz, carvão ou barro para marcar a linha de corte.
+- Trena ou régua e lápis para medir a espessura das pranchas.
+- Luvas de couro e óculos de proteção para os olhos.
+- Água ou óleo para umedecer a lâmina quando ela aquecer.
+
+PROCEDIMENTO
+------------
+1. Escolha um terreno plano, firme e com espaço para a tora inteira.
+2. Apoie a tora em dois cavaletes, na altura da cintura.
+3. Retire terra, pedras e casca solta da linha onde vai cortar.
+4. Confira se não há prego, arame ou metal no caminho da serra.
+5. Marque a linha de corte em toda a volta da tora com corda ou giz.
+6. Fixe a tora com cunhas ou corda para ela não girar durante o corte.
+7. Apoie a serra na marca e comece o corte devagar, sem forçar.
+8. Mantenha a lâmina alinhada com a linha marcada em toda a extensão.
+9. Abra o corte com uma cunha assim que a lâmina estiver presa.
+10. Bata a cunha com a marreta aos poucos, sem golpes fortes demais.
+11. Continue o corte de vaivém, guiando a serra com as duas mãos.
+12. Pare se a lâmina aquecer e deixe-a esfriar ou umedeça-a com água.
+13. Apoie a prancha com a mão livre antes de terminar o corte.
+14. Retire as cunhas com cuidado e meça a espessura da prancha.
+15. Repita a marcação e o corte para a próxima prancha da tora.
+
+ATENCAO
+-------
+A serra corta fundo e rápido: mantenha as mãos longe da linha de corte.
+Luvas frouxas podem ser puxadas pela lâmina: use luvas justas.
+Cunha mal batida pode saltar e ferir os olhos: proteja o rosto sempre.
+Tora que gira ou rola prende a serra e pode quebrar a lâmina: fixe bem.
+Lâmina quente empena, perde o fio e pode trincar: pare e deixe esfriar.
+Nunca corte tora com pregos ou arame: a lâmina pode trincar e voar.
+Se a serra travar, pare de puxar e afrouxe a cunha antes de insistir.
+Madeira podre solta lascas e pode desfazer o apoio: não use na serraria.
+Se a prancha começar a cair, pare e peça ajuda antes de continuar.
+
+SE NAO TIVER
+------------
+Sem cavalete, apoie a tora em dois troncos grossos e estacas fincadas.
+Sem serra de arco, use serra manual comum de dentes largos no lugar.
+Sem cunha de metal, faça cunhas de madeira dura e firme.
+Sem giz, marque a linha com carvão, barro ou uma corda com cinza.
+Sem óculos, faça uma proteção ocular antes de começar: não corte sem ela.
+Não use lâmina de serra circular sem carcaça e proteção: o corte fica grave.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A prancha sai com espessura uniforme e a linha de corte fica reta.
+A serra corre sem travar e sem aquecer demais.
+A tora ficou firme e não girou durante o corte.
+As cunhas mantiveram o corte aberto do começo ao fim.
+
+FONTES
+------
+Prática consolidada de serraria manual e marcenaria rural, transmitida por
+serviços de extensão florestal e manuais de trabalho com madeira tropical.
+Não foi consultado um documento único; este texto é um resumo operacional
+de prática tradicional. Não substitui treinamento em serraria nem o uso
+correto de equipamentos de proteção individual.

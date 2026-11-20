@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 04-031
+TITULO: Como funciona a corrente elétrica
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: corrente, eletricidade, ampere, fio, circuito, choque
+==============================================================================
+
+OBJETIVO
+--------
+Entender o que e corrente eletrica para usar fio, pilha
+e aparelho com seguranca e sem improviso.
+
+QUANDO USAR
+-----------
+Quando for preciso entender por que a lampada acende.
+Quando for preciso diferenciar pilha de tomada antes de ligar algo.
+Quando for preciso descrever um defeito eletrico sem tocar nos fios.
+
+NAO USE QUANDO
+--------------
+Quando houver fio rompido, cheiro de queimado ou faisca.
+Quando o local estiver molhado, alagado ou com caixa aberta.
+Nesse caso nao toque em nada e chame um eletricista.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Desligue os aparelhos antes de observar fios e tomadas.
+2. Identifique a fonte: pilha, bateria, gerador ou tomada.
+3. Lembre que corrente eletrica e eletron em movimento no fio.
+4. Lembre que o ampere mede a intensidade dessa corrente.
+5. Identifique o circuito: fonte, fio de ida, aparelho e retorno.
+6. Confirme que sem caminho fechado nao ha corrente util.
+7. Diferencie continua de pilha e alternada de tomada.
+8. Leia no rotulo do aparelho a tensao e a corrente aproximadas.
+9. Observe o disjuntor como limite que corta a corrente alta.
+10. Nunca abra caixa, emende cabo ou toque em parte energizada.
+
+ATENCAO
+-------
+O choque eletrico mata: corrente no corpo trava musculo e para o coracao.
+Nunca mexa em rede energizada nem improvise ligacao com fio comum.
+Agua e corpo molhado aumentam muito o risco de choque grave.
+Fio rompido pode estar energizado mesmo sem faisca visivel.
+Este entendimento nao autoriza conserto nem ligacao eletrica.
+Se houver cheiro de queimado, desligue no disjuntor e afaste-se.
+
+SE NAO TIVER
+------------
+Sem rotulo legivel, considere o aparelho desconhecido e nao ligue.
+Sem disjuntor identificado, nao teste na tentativa e erro.
+Sem eletricista, limite-se a observar e manter distancia dos fios.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Voce aponta fonte, caminho e aparelho e diz onde passa a corrente.
+Voce explica por que fio rompido interrompe e curto provoca corte.
+
+FONTES
+------
+Instituto Nacional de Padroes e Tecnologia, definicao de ampere;
+orientacao de seguranca eletrica da Administracao de Seguranca
+e Saude Ocupacional; pratica consolidada de ensino basico.

@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 03-022
+TITULO: Como tratar hipotermia
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 20 minutos
+RISCO: critico
+EXIGE: abrigo, cobertores ou roupas secas, fonte de calor, ajuda médica
+REVISAO: 2026-11
+PALAVRAS-CHAVE: hipotermia, frio, tremor, reaquecer, cobertor, emergência
+==============================================================================
+
+OBJETIVO
+--------
+Evitar que a pessoa continue perdendo calor e reaquecê-la com segurança
+até chegar atendimento médico.
+
+QUANDO USAR
+-----------
+Pessoa em ambiente frio, na chuva, na neve ou após queda em água fria.
+Tremor que não para, fala arrastada, mãos desajeitadas ou confusão.
+Pele pálida, fria ou azulada, com respiração e pulso lentos.
+Pessoa que parou de tremer, ficou rígida ou desacordada.
+Bebê com pele vermelha e fria e pouca energia.
+
+NAO USE QUANDO
+--------------
+Não é caso para tratar só em casa: hipotermia é emergência médica.
+Não reaqueça rapidamente nem esfregue a pele: isso pode matar.
+Não faça massagem nem mova a pessoa mais do que o necessário.
+
+MATERIAIS
+---------
+- Abrigo seco, protegido do vento (ou barreira de plástico e cobertor).
+- Cobertores, saco de dormir ou roupas secas e macias.
+- Material para cobrir cabeça e pescoço (gorro, capuz, pano).
+- Bebida quente e adocicada, sem álcool (ou água açucarada morna).
+- Bolsa de água quente ou pedra aquecida (ou fluido em garrafa).
+- Pano ou toalha para envolver qualquer fonte de calor.
+- Alguém para acionar o serviço de emergência.
+
+PROCEDIMENTO
+------------
+1. Garanta que o local é seguro para você antes de agir.
+2. Peça ajuda médica de emergência imediatamente (SAMU 192 no Brasil).
+3. Manuseie a pessoa com cuidado e sem pressa, mantendo-a deitada.
+4. Leve-a para abrigo seco, fora do vento e longe do solo frio.
+5. Se não puder movê-la, isole o corpo do chão com cobertor ou pano.
+6. Retire roupas molhadas; se precisar, corte-as em vez de puxar.
+7. Enxugue a pele e cubra com roupas e cobertores secos em camadas.
+8. Cubra cabeça e pescoço, deixando só o rosto descoberto.
+9. Se a pessoa treme e está acordada, reaqueça de forma passiva:
+   mantenha-a embrulhada e ofereça bebida quente e adocicada.
+10. Se ela parou de tremer ou está confusa, aqueça o centro do corpo:
+    ponha fontes de calor mornas envolvidas em pano no peito e pescoço.
+11. Acrescente calor na virilha, sempre com pano entre a fonte e a pele.
+12. Nunca ponha calor direto na pele nem nas mãos e pés.
+13. Não esfregue, não massageie e não faça a pessoa caminhar.
+14. Não dê bebida se ela estiver sonolenta, confusa ou inconsciente.
+15. Nunca dê álcool.
+16. Fique com a pessoa, observe a respiração e mantenha-a coberta.
+17. Se não houver respiração nem pulso, inicie RCP se souber fazer
+    e continue até o resgate chegar.
+
+ATENCAO
+-------
+Hipotermia pode matar. Mesmo caso leve piora se a pessoa ficar no frio.
+Parar de tremer é sinal de agravamento, não de melhora.
+Nunca use água quente, lâmpada, forno ou almofada direto na pele:
+causa queimadura e pode provocar parada do coração.
+Aquecer braços e pernas primeiro empurra sangue frio para o coração
+e pode derrubar a temperatura central: aqueça só o tronco.
+Levantar ou caminhar com pessoa hipotérmica pode causar arritmia.
+Pessoa muito fria pode parecer morta: não desista da RCP.
+Não dê comida ou bebida a quem não consegue engolir direito.
+Procure atendimento em todo caso, mesmo que a pessoa melhore.
+
+SE NAO TIVER
+------------
+Sem cobertor: use saco de dormir, roupas, toalhas, jornal ou plástico
+por fora para bloquear o vento e a umidade.
+Sem bolsa térmica: aqueça água em garrafa e envolva em pano ou meia.
+Sem bebida quente: ofereça água morna com açúcar, se puder engolir.
+Sem abrigo: deite a pessoa sobre pano, galhos ou mochila, não no chão.
+Nunca improvise com álcool, fogo direto ou atrito na pele.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A pessoa fica mais lúcida e a fala melhora.
+O tremor aparece ou se mantém quando antes tinha parado.
+A pele deixa de ficar mais pálida e fria.
+A respiração e o pulso ficam mais regulares.
+A ajuda médica chega e assume o atendimento.
+
+FONTES
+------
+Resumo operacional de primeiros socorros baseado em orientações de
+hipotermia dos CDC, da Cruz Vermelha britânica e diretrizes da
+Wilderness Medical Society e do Conselho de Ressuscitação da Austrália
+e Nova Zelândia (ANZCOR). Não substitui treinamento prático.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 66-004
+TITULO: Como realizar medições com micrômetro
+CATEGORIA: 66 - Mecânica de precisão e instrumentos
+TEMPO: 10 minutos
+RISCO: medio
+EXIGE: micrômetro, peça limpa, pano limpo, luz boa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: micrômetro, medição, fuso, catraca, erro zero, centésimos
+==============================================================================
+
+OBJETIVO
+--------
+Medir peças com precisão e ler o resultado em centésimos de milímetro.
+
+QUANDO USAR
+-----------
+Quando precisar medir diâmetro ou espessura com alta precisão.
+Quando a peça é pequena demais para um paquímetro.
+
+NAO USE QUANDO
+--------------
+Não use em peça macia que a pressão da haste deforma.
+Não meça superfície quente, suja ou com rebarba, nem sem calibração.
+
+MATERIAIS
+---------
+- Micrômetro com escala em centésimos de milímetro.
+- Pano limpo e seco (papel absorvente sem fiapos).
+- Peça a medir, limpa e sem rebarba.
+
+PROCEDIMENTO
+------------
+1. Limpe com pano a bigorna (fixa) e a haste (móvel).
+2. Limpe a parte da peça que encosta nas superfícies.
+3. Feche girando a catraca até ouvir dois ou três estalos.
+4. Confira o zero: a marca do tambor alinha com a linha do manguito.
+5. Se o zero não alinhar, anote o erro para corrigir no fim.
+6. Gire o tambor para abrir mais que a espessura da peça.
+7. Coloque a peça entre bigorna e haste, sem inclinar o instrumento.
+8. Aproxime a haste girando o tambor até quase tocar a peça.
+9. Gire só a catraca até ouvir dois ou três estalos, sem forçar.
+10. Leia o manguito: último número inteiro visível antes do tambor.
+11. Some 0,5 mm se a marca de meio milímetro estiver visível.
+12. Leia o tambor: divisão alinhada com a linha de referência.
+13. Multiplique a divisão por 0,01 mm, some ao manguito e corrija o zero.
+14. Repita em dois pontos, anote, limpe, passe óleo e guarde aberto.
+
+ATENCAO
+-------
+Forçar o tambor no lugar da catraca deforma a peça, o fuso e a rosca.
+Sem catraca, a pressão muda e o resultado não serve. Mantenha as
+superfícies paralelas à peça. Peça suja, com rebarba ou quente mede
+maior: limpe e deixe esfriar. Se o zero não fechar, anote e corrija o erro.
+
+SE NAO TIVER
+------------
+Sem pano, use papel absorvente limpo e sem fiapos.
+Sem catraca, gire com cuidado e pare no primeiro toque; aceite erro maior.
+Sem micrômetro, um paquímetro erra mais (0,05 mm); não o use abaixo disso.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O zero alinha ao fechar e a catraca estala sem apertar a peça.
+A leitura repete com diferença menor que 0,01 mm no mesmo ponto.
+
+FONTES
+------
+Prática consolidada de metrologia dimensional e manuais de instrumentos
+de precisão. Resumo operacional: não substitui treinamento nem calibração.

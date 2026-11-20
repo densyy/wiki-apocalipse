@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 61-008
+TITULO: Como realizar desbaste florestal
+CATEGORIA: 61 - Agricultura florestal e manejo de ecossistemas
+TEMPO: 4 horas para talhão pequeno
+RISCO: critico
+EXIGE: motosserra, EPIs de corte, tinta, ajudante capacitado
+REVISAO: 2026-11
+PALAVRAS-CHAVE: desbaste, árvores, motosserra, clareira, madeira, mata
+==============================================================================
+
+OBJETIVO
+--------
+Retirar parte das árvores do talhão para que as restantes cresçam
+com mais luz, água e nutrientes disponíveis.
+
+QUANDO USAR
+-----------
+- Quando o crescimento em diâmetro cair de um ano para outro.
+- Quando as copas se tocarem e a luz não chegar mais ao solo.
+- Quando houver árvores finas, tortas, doentes, mortas ou bifurcadas.
+- Em pasto ou lavoura, desbaste quando a cobertura de copa
+  passar de aproximadamente 30%.
+- Quando o objetivo for madeira de diâmetro maior no corte final.
+
+NAO USE QUANDO
+--------------
+- Sem treinamento prático em motosserra e derrubada dirigida.
+- Com vento forte, chuva, neblina ou visão ruim.
+- Em floresta nativa sem plano de manejo aprovado pelo órgão ambiental.
+- Perto de linha de energia ou estrada sem isolamento e aviso.
+- Quando se quer apenas madeira fina em pouco tempo.
+
+MATERIAIS
+---------
+- Motosserra com freio de corrente e pino pega-corrente.
+- Protetores de mão e trava de segurança do acelerador.
+- Capacete, viseira, protetor auricular, luvas, calça e botas de aço.
+- Tinta ou fita para marcar as árvores escolhidas.
+- Cunhas e alavanca para dirigir a queda.
+- Ajudante capacitado fora da zona de queda.
+
+PROCEDIMENTO
+------------
+1. Defina o objetivo: mais madeira, sombra controlada ou limpeza.
+2. Meça o diâmetro na altura do peito de algumas árvores e anote.
+3. Repita a medição após um ano; se o crescimento caiu, desbaste.
+4. Marque com tinta as árvores a retirar, uma a uma.
+5. Retire primeiro as mortas, doentes, tortas, bifurcadas e finas.
+6. Espalhe as marcas; nunca retire um grupo inteiro de uma vez.
+7. Não abra clareiras: elas trazem invasoras e brotações laterais.
+8. Em plantio uniforme, retire uma linha a cada três ou quatro.
+9. Em plantio irregular, escolha árvore por árvore.
+10. Prefira desbastes leves e repetidos a um desbaste pesado único.
+11. Em pasto ou lavoura, mantenha ao menos 30% de cobertura de copa.
+12. Afaste pessoas, animais e veículos; avise o ajudante em voz alta.
+13. Confira vento, inclinação, copa, cipós e galhos pendurados.
+14. Veja se há linha de energia ou árvore que prenda a queda.
+15. Abra o caminho de fuga atrás da árvore, a aproximadamente 45 graus.
+16. Limpe a base e o caminho de fuga de cipós e obstáculos.
+17. Abasteça com o motor desligado e a pelo menos 3 metros do corte.
+18. Calce capacete, viseira, protetor auricular, luvas, botas e calça.
+19. Faça o entalhe na face da queda com corte em ângulo de 45 graus.
+20. Faça o corte traseiro e deixe uma faixa de madeira sem cortar.
+21. Saia pelo caminho de fuga e olhe a árvore até ela parar.
+22. Espere aproximadamente 30 segundos antes de voltar ao local.
+23. Desligue a motosserra para caminhar entre árvores.
+
+ATENCAO
+-------
+- A motosserra é das mais perigosas do meio rural; a corrente corta fundo.
+- A maioria das mortes vem de galho pendurado ou árvore presa.
+- Exija treinamento: a NR-12 pede no mínimo 8 horas de instrução.
+- Mantenha outros a dois comprimentos de árvore de distância.
+- Não derrube com vento forte; a direção da queda pode mudar sem aviso.
+- Desbaste excessivo abre clareiras, resseca o solo e favorece invasoras.
+- Se a árvore ficar presa, pare e chame quem tenha experiência.
+
+SE NAO TIVER
+------------
+- Sem motosserra, não derrube árvores grandes com machado.
+- Sem ajudante ou sem EPIs, adie o serviço; não existe substituto seguro.
+- Sem cunha, use cunha de madeira dura; nunca ponha as mãos na fenda.
+- Para marcar, use tinta ou fita de pano presa em cada árvore escolhida.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- As árvores restantes ficaram em pé e com espaçamento uniforme.
+- Não há clareira grande nem copa sombreada por árvore cortada.
+- No ano seguinte, o crescimento em diâmetro das restantes voltou a subir.
+
+FONTES
+------
+- Portal Embrapa (Ageitec), "Desbaste" e "Espaçamento", 2021.
+- Embrapa Florestas, apostila "Cultivo de eucalipto", 2015.
+- IPEF, "Sistema de Manejo Florestal", 2008.
+- Embrapa, "Manejo Florestal", 2012.
+- SENAR-PR, "Operação e manutenção de motosserras", 2025; NR-12, Anexo V.
+- CCOHS, operações básicas de motosserra; Safe Work Australia, guia de
+  trabalho em árvores, 2023.

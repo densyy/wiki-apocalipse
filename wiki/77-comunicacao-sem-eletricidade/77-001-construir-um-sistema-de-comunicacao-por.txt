@@ -1,0 +1,82 @@
+==============================================================================
+CODIGO: 77-001
+TITULO: Como construir um sistema de comunicação por mensageiros
+CATEGORIA: 77 - Comunicação anterior à eletricidade
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: pessoas confiaveis, rotas, caderno e sinal combinado
+REVISAO: 2026-11
+PALAVRAS-CHAVE: mensageiro, recado, rota, memoria, sinal, confianca, entrega
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma forma de levar recados entre lugares sem usar energia.
+
+QUANDO USAR
+-----------
+Quando as comunidades estiverem separadas por distancia curta.
+Ao substituir um sistema de fios ou radio que parou de funcionar.
+Para avisar de chegada, perigo, falta de agua ou encontro marcado.
+Quando a mensagem puder ser guardada na memoria de uma pessoa.
+
+NAO USE QUANDO
+--------------
+Nao envie mensagem longa ou com muitos numeros de memoria.
+Nao confie recado urgente a uma unica pessoa sem reserva.
+Nao use o sistema se a rota estiver sob risco de violencia.
+Nao mande informacao que possa colocar alguem em perigo.
+
+MATERIAIS
+---------
+- Pessoas voluntarias com boa memoria e disposicao (duas por rota).
+- Caderno pequeno para anotar partida e chegada (papel).
+- Lapis preso ao caderno com barbante (carvao).
+- Pano ou fita de cor combinada como sinal de reconhecimento.
+- Calçado resistente e agua para o caminho (mochila).
+
+PROCEDIMENTO
+------------
+1. Escolha as pessoas que levam e recebem os recados.
+2. Defina quem substitui cada uma quando faltar.
+3. Combine um sinal simples que identifica o mensageiro.
+4. Combine tambem uma frase curta de abertura e outra de encerramento.
+5. Escreva a mensagem em poucas palavras antes de sair.
+6. Repita a mensagem em voz alta com o mensageiro.
+7. Peça que ele repita com as proprias palavras.
+8. Envie duas pessoas em rotas diferentes para recado importante.
+9. Marque no caderno a hora de saida e o destino.
+10. No destino, repita a frase de abertura e entregue o recado.
+11. Peça uma resposta curta para confirmar a chegada.
+12. Anote a hora da entrega e a resposta recebida.
+13. Guarde o caderno protegido da chuva e do suor.
+14. Refaca o combinado quando alguma pessoa da rota mudar.
+
+ATENCAO
+-------
+Mensagem oral muda com o tempo: mantenha frases curtas e diretas.
+Numeros sao trocados com facilidade; repita devagar e confirme.
+Um mensageiro ferido ou perdido interrompe a rota: tenha reserva.
+Nao force ninguem a atravessar area insegura por causa de recado.
+A frase combinada nao e segredo: nao coloque nela informacao sensivel.
+Se a resposta nao voltar, trate a entrega como duvidosa.
+
+SE NAO TIVER
+------------
+Sem papel, memorize a mensagem em tres palavras-chave.
+Sem segunda pessoa, aumente o intervalo entre as viagens.
+Sem fita de cor, combine uma saudacao ou um gesto simples.
+Sem calçado, espere o terreno secar antes de enviar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A mensagem chega com o mesmo sentido da origem.
+A resposta volta e confere com o que foi enviado.
+O caderno registra saida e chegada de cada recado.
+A rota continua funcionando quando uma pessoa falta.
+
+FONTES
+------
+Pratica consolidada de correios humanos e comunicação oral,
+usada antes da eletricidade e ainda util quando os meios falham.
+A duplicidade da mensagem e o caderno de controle sao regras antigas.

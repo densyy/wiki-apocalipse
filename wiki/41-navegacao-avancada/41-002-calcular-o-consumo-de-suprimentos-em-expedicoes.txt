@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 41-002
+TITULO: Como calcular o consumo de suprimentos em expedições
+CATEGORIA: 41 - Navegação avançada e técnicas de expedição
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: caderno, lápis, mapa com pontos de água, lista de rações
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, ração, expedição, consumo, dias, reserva, suprimentos
+==============================================================================
+
+OBJETIVO
+--------
+Calcular a água e a comida necessárias para uma expedição, com reserva.
+
+QUANDO USAR
+-----------
+Ao planejar uma caminhada de um ou mais dias.
+Ao definir quantos recipientes de água levar.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Caderno e lápis (ou papel e algo para escrever).
+- Mapa do trajeto com os pontos de água marcados.
+- Número de pessoas, rações por dia e capacidade dos recipientes.
+
+PROCEDIMENTO
+------------
+1. Escreva no caderno o número de pessoas da expedição.
+2. Escreva os dias de ida, estadia e volta.
+3. Multiplique pessoas por dias e anote o total de pessoas-dia.
+4. Anote 3 litros de água por pessoa e por dia em clima ameno.
+5. Consulte o mapa e marque os pontos de água seguros do trajeto.
+6. Em calor ou esforço pesado, aumente a previsão de água: o manual
+   militar indica 6 a 8 litros por dia quando a comida é escassa.
+7. Multiplique pessoas-dia por litros e anote o total de litros.
+8. Some a água de cozimento e higiene, se não houver fonte no trajeto.
+9. Acrescente reserva aproximada de 25% a 50% do total de água.
+10. Multiplique as rações diárias por pessoas-dia e some uma por pessoa.
+11. Divida os litros pela capacidade dos recipientes e anote a quantidade.
+
+ATENCAO
+-------
+A conta erra quando falta um dia de volta ou uma pessoa. Refaça devagar.
+Subestimar a água em calor pode causar desidratação e parar a expedição.
+Em deserto o manual indica 14 a 30 litros por dia: mude o trajeto.
+A reserva de 25% a 50% é margem de prudência, não limite fisiológico.
+A sede engana: beba aos poucos; se a água acabar, pare e busque ajuda.
+Recalcule se mudarem pessoas, dias, clima ou pontos de água no mapa.
+
+SE NAO TIVER
+------------
+Sem mapa, pergunte a quem conhece a região e anote os pontos de água.
+Sem caderno, use qualquer papel e marque os números com cuidado.
+Sem como medir o recipiente, leia o volume impresso na embalagem.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O caderno traz pessoas, dias, litros, reserva e número de recipientes.
+A soma confere com a água e as rações separadas para levar.
+
+FONTES
+------
+FM 21-76, manual de sobrevivência do Exército dos EUA: 2 a 3 litros
+diários em clima ameno, 6 a 8 com pouca comida, 14 a 30 em deserto.
+Margem de reserva: prática consolidada, sem documento único.

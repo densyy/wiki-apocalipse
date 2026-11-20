@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 70-001
+TITULO: Como construir um computador de baixo consumo
+CATEGORIA: 70 - Computação de baixo consumo e preservação digital
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: placa única 5 V, fonte certificada, microSD, sistema ja gravado
+REVISAO: 2026-11
+PALAVRAS-CHAVE: computador, baixo consumo, raspberry, placa, documento
+==============================================================================
+
+OBJETIVO
+--------
+Montar um computador que le e guarda documentos gastando pouca energia.
+
+QUANDO USAR
+-----------
+Quando a unica fonte de energia for bateria ou painel solar.
+Quando for preciso consultar textos sem internet.
+
+NAO USE QUANDO
+--------------
+Quando for preciso processamento pesado, como editar video.
+Quando nao houver fonte de alimentacao correta para a placa.
+
+MATERIAIS
+---------
+- Placa unica de computador, de consumo baixo (Raspberry Pi ou equivalente).
+- Fonte certificada com a voltagem e a corrente exigidas pela placa.
+- Cartao microSD com o sistema ja gravado (ou USB, se a placa aceitar).
+- Teclado, tela com HDMI e cabo de alimentacao.
+- Caixa plastica ou suporte que nao encoste a placa em metal.
+
+PROCEDIMENTO
+------------
+1. Leia no manual da placa a voltagem e a corrente exigidas.
+2. Confirme que a fonte tem a mesma voltagem e corrente igual ou maior.
+3. Encaixe o cartao microSD com o sistema gravado no slot da placa.
+4. Ligue o teclado, a tela e o cabo de alimentacao na placa.
+5. Alimente com a fonte certificada por bateria, painel solar ou tomada.
+6. Espere o sistema iniciar antes de tocar nos arquivos.
+7. Copie os documentos para o cartao, deixando espaco livre.
+8. Ajuste a hora e a data, pois sem internet o relogio nao se ajusta.
+9. Desligue pelo comando do sistema e so depois corte a energia.
+
+ATENCAO
+-------
+A rede eletrica pode matar: nunca abra a fonte nem ligue fios na tomada.
+Voltagem ou corrente errada queima a placa e pode causar incendio.
+Cortar energia sem desligar o sistema estraga o cartao e os documentos.
+Sem internet o relogio volta ao zero: ajuste a data antes de registrar.
+Cartao microSD desgasta com escrita constante: mantenha outra copia.
+
+SE NAO TIVER
+------------
+Sem placa unica, reuse um notebook antigo: tela, teclado e bateria ja vem.
+Sem fonte certificada, nao improvise ligacao na rede eletrica.
+Sem microSD, use um pendrive se a placa aceitar iniciar por USB.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A placa inicia e mostra o sistema sem erro de alimentacao.
+O sistema desliga por completo quando recebe o comando de desligar.
+Os documentos abrem e podem ser lidos sem conexao com a internet.
+
+FONTES
+------
+Documentacao oficial da Raspberry Pi Foundation: alimentacao, primeiros
+passos e cartao microSD; consumo divulgado para placas de uma unica placa;
+pratica consolidada de preservacao digital fora da rede.

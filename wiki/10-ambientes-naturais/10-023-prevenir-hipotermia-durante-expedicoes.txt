@@ -1,0 +1,93 @@
+==============================================================================
+CODIGO: 10-023
+TITULO: Como prevenir hipotermia durante expedições
+CATEGORIA: 10 - Sobrevivência em ambientes naturais
+TEMPO: 20 minutos
+RISCO: alto
+EXIGE: roupas em camadas, capa impermeável, comida, parceiro de equipe
+REVISAO: 2026-11
+PALAVRAS-CHAVE: hipotermia, frio, camadas, tremor, vento, molhado
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer sinais de frio e manter o corpo aquecido na expedição.
+
+QUANDO USAR
+-----------
+Quando a previsão indica frio, vento ou chuva durante a caminhada.
+Quando a temperatura está amena mas há chuva, suor ou travessia de água.
+Quando o grupo vai acampar ou parar por horas em área fria.
+Quando alguém do grupo começa a tremer ou a ficar lento.
+Quando a roupa molhada não seca e o vento aumenta.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Camada base sintética (poliéster); nunca algodão.
+- Camada isolante de fleece ou lã.
+- Capa impermeável e corta-vento (poncho ou saco plástico).
+- Chapéu ou balaclava e luvas (melhor que luvas de dedos).
+- Meias secas extras e saco plástico para isolamento do solo.
+- Comida rica em carboidratos e água em garrafa.
+- Garrafa ou pedra quente enrolada em pano.
+- Parceiro de equipe para checagem mútua.
+
+PROCEDIMENTO
+------------
+1. Vista camada base sintética justa ao corpo; nunca use algodão.
+2. Vista camada isolante de fleece ou lã por cima, sem apertar.
+3. Vista capa impermeável só com chuva, vento ou em parada.
+4. Cubra cabeça e pescoço com chapéu ou balaclava.
+5. Calce luvas e meias secas; troque qualquer peça molhada.
+6. Ajuste calçado e roupa para não cortar a circulação.
+7. Beba água e coma lanche rico em carboidrato a cada duas horas.
+8. Retire a capa e uma camada ao esforçar para não suar.
+9. Pare e troque de roupa molhada; nunca espere secar no corpo.
+10. Monte o acampamento antes do anoitecer e isole o corpo do solo.
+11. Deite sobre saco plástico ou isolante; nunca na terra fria.
+12. Aqueça o centro do corpo: peito, pescoço, cabeça e virilha.
+13. Cheque o parceiro a cada hora: fala, tremor e marcha.
+14. Se alguém tremer, ficar confuso ou cambalear, pare na hora.
+15. Abrigue a pessoa, retire roupa molhada e aqueça o tronco devagar.
+16. Sem melhora ou se o tremor parar, evacue e peça socorro.
+
+ATENCAO
+-------
+Hipotermia é queda da temperatura central abaixo de 35°C; pode matar.
+Ela ocorre mesmo acima de 4°C se a pessoa está molhada, suada ou sob vento.
+Água, suor e vento retiram calor muito mais depressa que o ar parado.
+Tremor, confusão, fala arrastada e sonolência são sinais de alerta.
+Bebida alcoólica dilata vasos, engana a sensação de calor e piora o quadro.
+Não aplique calor direto nem esfregue pele congelada; pode queimar.
+Mova a pessoa com cuidado: o coração hipotérmico pode entrar em arritmia.
+Se usar fogo ou pedra quente no abrigo, ventile: monóxido de carbono mata.
+Se o tremor parar, a pessoa ficar confusa ou desmaiar, peça socorro já.
+Este procedimento previne e detecta cedo; não substitui atendimento médico.
+
+SE NAO TIVER
+------------
+Sem capa impermeável, use poncho ou saco plástico sobre as camadas.
+Sem lã ou fleece, use cobertor, jornal seco ou palha como isolante.
+Sem garrafa quente, aqueça pedra limpa no fogo e enrole em pano.
+Sem parceiro, faça checagem em voz alta a cada hora e anote o horário.
+Não improvise com algodão molhado: ele retira calor do corpo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A pele sob as camadas permanece seca e o tecido interno não está molhado.
+O grupo mantém o passo e a fala claros durante a caminhada.
+Nenhum membro apresenta tremor contínuo, fala arrastada ou confusão.
+Após a parada, o corpo segue aquecido e a pessoa responde rápido.
+A equipe completa as checagens horárias sem registrar sinais novos.
+
+FONTES
+------
+CDC, página Preventing Hypothermia (Winter Weather): sinais de alerta,
+limite de 35°C, risco com umidade e vento e primeiros socorros.
+Revisão Exercise in the Cold, Sports Health (2016), baseada em diretrizes
+da Wilderness Medical Society e do American College of Sports Medicine:
+camadas de roupa, manter seco, combustível e checagem mútua.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 44-010
+TITULO: Como estimar volume de água disponível
+CATEGORIA: 44 - Hidrologia, rios e gestão de bacias
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: fita métrica ou corda, bastão graduado, flutuador, relógio, caderno
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, volume, vazão, reservatório, litros, quanta água tem
+==============================================================================
+
+OBJETIVO
+--------
+Calcular quanto volume de água existe e por quantos dias ele pode durar.
+
+QUANDO USAR
+-----------
+Ao chegar a um córrego sem dados de vazão.
+Ao medir a reserva de uma cisterna, tanque ou lago pequeno.
+Ao decidir quantas pessoas uma fonte de água consegue abastecer.
+
+NAO USE QUANDO
+--------------
+Em rio fundo, com correnteza forte ou margem escorregadia.
+Quando houver suspeita de contaminação: a conta não mede qualidade.
+
+MATERIAIS
+---------
+- Fita métrica ou corda com nós a cada metro.
+- Bastão reto e graduado, ou régua, para medir profundidade.
+- Flutuador: pedaço de madeira, cortiça ou folha grande.
+- Relógio que marque segundos e caderno com lápis.
+
+PROCEDIMENTO
+------------
+1. Escolha trecho reto e raso, sem redemoinho, com margem firme.
+2. Estique a corda entre as duas margens, rente à água.
+3. Marque três pontos na corda: uma borda, o meio e a outra borda.
+4. Meça a profundidade em cada ponto com o bastão apoiado no leito.
+5. Some as três profundidades e divida por três: é a média.
+6. Multiplique a média pela largura: área da seção em metros quadrados.
+7. Solte o flutuador dois metros acima da corda.
+8. Cronometre quanto tempo ele leva para percorrer dois metros.
+9. Divida dois pelo tempo em segundos: velocidade em metros por segundo.
+10. Multiplique a área pela velocidade: vazão em metros cúbicos por segundo.
+11. Multiplique a vazão por mil e depois por 86.400: litros por dia.
+12. Divida os litros pelo consumo diário: dias de reserva estimados.
+
+ATENCAO
+-------
+A conta é estimativa, não número exato. A vazão muda com a chuva: meça
+de manhã e à tarde e use o menor valor. Nunca entre em água funda ou
+com correnteza: fique na margem. O flutuador mede só a superfície, mais
+rápida que o fundo, então a vazão pode virar superestimada. Volume não
+significa água potável. Se a margem ceder ou a água subir, pare e saia.
+
+SE NAO TIVER
+------------
+Sem relógio, cronometre com batimentos cardíacos e marque como aproximado.
+Sem corda, conte passos e registre o tamanho do seu passo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As três profundidades e o tempo do flutuador estão anotados no caderno.
+O resultado em litros por dia foi anotado junto com a data da medição.
+
+FONTES
+------
+USGS Water Science School: medição de vazão (área vezes velocidade) e
+bacias hidrográficas. Prática consolidada de hidrologia de campo.

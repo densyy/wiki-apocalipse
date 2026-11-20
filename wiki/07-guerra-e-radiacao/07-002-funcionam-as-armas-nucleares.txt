@@ -1,0 +1,66 @@
+==============================================================================
+CODIGO: 07-002
+TITULO: Como funcionam as armas nucleares
+CATEGORIA: 07 - Guerra, radiação e catástrofes nucleares
+TEMPO: 20 minutos
+RISCO: medio
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bomba, fissao, fusao, radiacao, fallout
+==============================================================================
+
+OBJETIVO
+--------
+Entender como a bomba libera energia para avaliar o perigo real.
+
+QUANDO USAR
+-----------
+Quando ouvir alerta de ataque nuclear e precisar entender o risco.
+Quando comparar bomba de fissao, bomba de hidrogenio e bomba suja.
+Quando ler noticia sobre rendimento em quilotons e megatons.
+Quando explicar para a familia por que abrigo e distancia protegem.
+
+NAO USE QUANDO
+--------------
+Nao use para construir, desmontar ou testar qualquer artefato.
+Nao use como guia de acao imediata durante clarão ou queda de poeira.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Lembre que arma nuclear libera energia do nucleo do atomo.
+2. Entenda a fissao como quebra de uranio ou plutonio em partes.
+3. Entenda a fusao como juncao de formas leves de hidrogenio.
+4. Diferencie bomba de fissao, bomba de hidrogenio e bomba suja.
+5. Relacione rendimento maior com mais calor, vento e radiacao.
+6. Lembre que toda explosao nuclear gera calor intenso e onda de ar.
+7. Lembre que a fissao gera fragmentos que viram poeira radioativa.
+8. Conclua que tempo, distancia e blindagem reduzem a exposicao.
+
+ATENCAO
+-------
+Este texto nao ensina protecao imediata nem desmonta arma.
+Confundir bomba suja com bomba nuclear distorce a decisao.
+Nenhum saber teorico substitui abrigo, distancia e tempo.
+Nao toque em uranio, plutonio ou restos de detonacao.
+Se houver alerta real, pare de estudar e busque abrigo fechado.
+
+SE NAO TIVER
+------------
+Sem papel para anotar, memorize as tres diferencas basicas.
+Sem ajuda de outra pessoa, explique em voz alta para fixar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Voce diferencia fissao, fusao e bomba suja com palavras simples.
+Voce relaciona rendimento maior com perigo maior de calor e poeira.
+
+FONTES
+------
+Guia de planejamento para detonacao nuclear da FEMA.
+Paginas de emergencias por radiacao do CDC americano.
+Manual de assuntos nucleares do Departamento de Defesa americano.
+Gerenciamento medico de emergencia por radiacao do HHS americano.

@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 13-007
+TITULO: Como agir em acidentes com produtos químicos
+CATEGORIA: 13 - Química e conhecimentos científicos aplicados
+TEMPO: 15 minutos
+RISCO: alto
+EXIGE: água corrente limpa em abundância, sabão, luvas, ventilação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: químico, olhos, pele, lavar com água, intoxicação, socorro
+==============================================================================
+
+OBJETIVO
+--------
+Preste primeiros socorros com segurança e limite a lesão até chegar ajuda.
+
+QUANDO USAR
+-----------
+Quando um produto químico cai na pele ou nos olhos.
+Quando alguém inala vapor, gás ou fumaça de um produto.
+Quando um produto é ingerido por engano.
+Quando há derramamento, vazamento ou respingo durante o uso.
+Quando aparece queimadura, tosse ou tontura depois do contato.
+
+NAO USE QUANDO
+--------------
+Quando não há proteção: não entre em ambiente fechado com vapores.
+Chame socorro e isole a área por fora.
+Não use neutralizante caseiro, como vinagre ou água sanitária.
+Não induza vômito em quem ingeriu produto desconhecido.
+Não dê nada pela boca a pessoa inconsciente.
+
+MATERIAIS
+---------
+- Água corrente limpa em abundância.
+- Sabão ou detergente neutro.
+- Luvas de borracha ou nitrilo (luvas grossas de limpeza).
+- Pano limpo e toalha.
+- Recipiente com água para enxaguar (mangueira, balde ou garrafa).
+- Saco plástico para a roupa contaminada.
+
+PROCEDIMENTO
+------------
+1. Afaste a pessoa da fonte do produto sem tocar no material.
+2. Leve a pessoa para ar livre ou local ventilado.
+3. Permaneça fora da área com vapor e peça ajuda a outra pessoa.
+4. Calce as luvas antes de tocar na roupa da pessoa.
+5. Retire anéis, relógio e pulseiras da mão afetada.
+6. Tire a roupa que encostou no produto sem puxar pela cabeça.
+7. Coloque a roupa contaminada no saco e feche.
+8. Se houver pó sobre a pele, retire o excesso com pano seco.
+9. Lave a pele com água corrente e sabão por pelo menos 15 minutos.
+10. Segure as pálpebras abertas com os dedos limpos.
+11. Lave os olhos com água corrente suave por pelo menos 15 minutos.
+12. Direcione o fluxo do canto interno para o canto externo do olho.
+13. Prolongue a lavagem se o produto for corrosivo ou se houver dor.
+14. Enxague a boca com água se houve ingestão; não induza vômito.
+15. Cubra a pele irritada com pano limpo, sem esfregar nem passar pomada.
+16. Isole o local do derramamento e não o limpe sem orientação.
+17. Ligue para o socorro e diga o nome do produto e a hora do acidente.
+18. Leve o rótulo ou o recipiente ao hospital sem tocar no resíduo.
+19. Se a pessoa não respirar, faça compressões no centro do peito.
+
+ATENCAO
+-------
+A lavagem começa imediatamente: cada minuto de atraso aumenta a lesão.
+Corrosivos fortes exigem mais de 15 minutos; lave até o socorro chegar.
+Nunca esfregue os olhos nem a pele; esfregar espalha o produto.
+Não use neutralizante caseiro: vinagre e água sanitária podem agravar.
+Não induza vômito nem faça a vítima engolir algo sem orientação médica.
+Alguns produtos reagem com água: sódio, potássio e cal virgem.
+Se souber que é um deles, não jogue água: isole e chame socorro.
+Não entre em ambiente fechado com gás ou vapor sem proteção.
+O socorrista também pode ser vítima: chame socorro e mantenha distância.
+Se precisar ventilar, use pano ou barreira sobre a boca da vítima.
+Mesmo após lavar, procure atendimento: a dor some e a lesão avança.
+
+SE NAO TIVER
+------------
+Sem água corrente, use água de garrafa ou balde e troque o recipiente.
+Sem sabão, lave só com água em abundância.
+Sem luvas, use saco plástico na mão para tirar a roupa contaminada.
+Sem chuveiro, use mangueira, regador ou garrafa com jato suave.
+Sem socorro por perto, envie outra pessoa a buscar ajuda e continue lavando.
+Nunca substitua a lavagem por pomada, óleo ou pasta de dente.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água que escorre da pele sai limpa, sem cor nem resíduo do produto.
+A pessoa consegue abrir os olhos e responder com frases curtas.
+A roupa contaminada ficou fechada no saco e a área está isolada.
+O socorro confirmou o aviso e informou quando chega.
+
+FONTES
+------
+Guia NIOSH de primeiros socorros para riscos químicos; CDC.
+Orientações da Federação Internacional da Cruz Vermelha.
+Guia de medidas para acidentes com substâncias químicas da FURG.
+Regras de lava-olhos e chuveiro de emergência da OSHA e da ANSI Z358.1.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 08-060
+TITULO: Como construir sistemas de transmissão mecânica
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 120 minutos
+RISCO: medio
+EXIGE: eixos retos, polias ou engrenagens, correia ou corrente, suportes
+REVISAO: 2026-11
+PALAVRAS-CHAVE: transmissão, correia, polia, corrente, engrenagem, eixo
+==============================================================================
+
+OBJETIVO
+--------
+Levar a rotação de um eixo a outro com a velocidade e o torque desejados.
+
+QUANDO USAR
+-----------
+Quando um motor ou manivela precisa girar uma peça distante.
+Quando precisar reduzir a rotação para ganhar força na saída.
+
+NAO USE QUANDO
+--------------
+Não use engrenagens em eixos distantes nem peças sobrecarregadas.
+
+MATERIAIS
+---------
+- Dois eixos retos com suporte e mancal ou bucha para cada um.
+- Polias, rodas dentadas ou engrenagens do mesmo passo.
+- Correia dentada ou corrente compatível com as rodas.
+- Parafusos, arruelas e chaves para fixar e ajustar.
+- Tampa rígida para cobrir as peças em rotação.
+
+PROCEDIMENTO
+------------
+1. Defina o eixo de entrada e o de saída; meça a distância entre eles.
+2. Use correia em distância média; corrente quando a carga for maior.
+3. Use engrenagens apenas quando os eixos ficarem próximos.
+4. Meça o diâmetro, ou conte os dentes, da peça do motor e da peça da saída.
+5. Divida o valor do motor pelo da saída para achar a razão de redução.
+6. Exemplo: 2 cm no motor e 6 cm na saída dão 3 voltas para 1.
+7. Fixe os eixos em suportes rígidos, paralelos e alinhados.
+8. Encaixe as peças nos eixos e prenda com parafuso, arruela ou contrapino.
+9. Monte a correia ou a corrente sem torcer.
+10. Aproxime os suportes até o ramo ceder levemente ao dedo.
+11. Confira o contorno: pelo menos 90 graus em cada roda; prefira 180 graus.
+12. Nas engrenagens, use o mesmo passo e aproxime os dentes sem apertar.
+13. Gire à mão três voltas; pare se travar, riscar ou sair do lugar.
+14. Cubra tudo com tampa e teste sem carga e depois com carga.
+
+ATENCAO
+-------
+Peças em rotação prendem dedo, cabelo, manga e luva: pare antes de ajustar.
+Correia frouxa pula e sai; muito apertada aquece o eixo e consome o motor.
+Engrenagem de passo diferente, ou plástico com metal, desgasta e trava.
+Sem tampa, rompimento arremessa pedaços. Pare se ouvir raspagem e corrija.
+
+SE NAO TIVER
+------------
+Sem tensionador, desloque um suporte para regular a distância entre eixos.
+Sem corrente, use correia; sem nenhuma das duas, não opere o sistema.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A saída gira no sentido previsto e na razão calculada.
+A peça não pula nem sai do lugar; não há raspagem após alguns minutos.
+
+FONTES
+------
+Game Manual 0 (FIRST Robotics), guia Power Transmission: correia, corrente
+e engrenagens. Khurmi e Gupta, A Textbook of Machine Design, cap. correia.

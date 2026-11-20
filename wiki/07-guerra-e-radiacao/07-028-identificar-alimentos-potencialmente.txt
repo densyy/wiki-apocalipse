@@ -1,0 +1,84 @@
+==============================================================================
+CODIGO: 07-028
+TITULO: Como identificar alimentos potencialmente contaminados
+CATEGORIA: 07 - Guerra, radiação e catástrofes nucleares
+TEMPO: 15 minutos
+RISCO: alto
+EXIGE: pano limpo, saco plastico, agua e sabao
+REVISAO: 2026-11
+PALAVRAS-CHAVE: alimento, comida, contaminacao, fallout, poeira, selado
+==============================================================================
+
+OBJETIVO
+--------
+Separe o alimento suspeito do mais seguro sem provar nada.
+
+QUANDO USAR
+-----------
+Quando houve explosao nuclear perto da sua regiao.
+Quando caiu poeira fina apos clarao e vento forte.
+Quando precisar escolher o que comer dentro do abrigo.
+Quando trouxer comida de fora para dentro do abrigo.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Pano limpo ou toalha (camiseta limpa serve).
+- Saco plastico com amarra (saco de lixo serve).
+- Agua e sabao para lavar as maos.
+- Lanterna para ver poeira e rotulo no escuro.
+
+PROCEDIMENTO
+------------
+1. Lave as maos e o rosto com agua e sabao antes de tocar.
+2. Entenda que fallout e poeira com radiacao que cai do ceu.
+3. Lembre que radiacao nao tem cor, cheiro, gosto nem som.
+4. Separe a comida em dentro de casa, selada fora e aberta fora.
+5. Libere para uso a comida que ficou dentro de casa fechada.
+6. Confira se geladeira, armario e despensa ficaram fechados.
+7. Jogue fora restos mornos ou com cheiro de estragado.
+8. Trate como suspeita toda comida aberta que estava fora.
+9. Jogue a comida aberta de fora em saco plastico sem provar.
+10. Pegue lata metalica e vidro selado com as maos ja limpas.
+11. Limpe a lata e o vidro por fora com pano umido.
+12. Feche o pano sujo em saco plastico longe de gente e animal.
+13. Abra a lata limpa e use somente o conteudo de dentro.
+14. Jogue fora papelao, saco aberto e fruta sem casca vindos de fora.
+15. Nao coma verdura da horta nem beba agua de chuva sem ordem oficial.
+16. Espere a defesa civil liberar horta, poco e plantacao.
+
+ATENCAO
+-------
+Olho, nariz e boca nao detectam radiacao em comida nenhuma.
+Provar ou cheirar para testar pode causar contaminacao por dentro.
+Comida aberta fora continua perigosa mesmo lavada por fora.
+Ferver mata germes mas nao tira radiacao da comida nem da agua.
+Lavar a embalagem tira poeira de fora mas nao limpa o conteudo aberto.
+Poeira no pulmao e no estomago emite raio gama que atravessa roupa.
+Mascara segura poeira no ar mas nao bloqueia o raio gama.
+Autoridade libera comida por dose em mSv, unidade de radiacao.
+Vomito, diarreia com sangue, tontura e febre pedem socorro imediato.
+Este texto nao mede dose nem trata enjoo de radiacao.
+
+SE NAO TIVER
+------------
+Sem pano limpo, use camiseta limpa umedecida e depois descarte.
+Sem saco plastico, junte o lixo suspeito longe do abrigo e cubra.
+Sem sabao, lave as maos com agua corrente e esfregue bem a pele.
+Sem lanterna, faca a triagem de dia perto de janela fechada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Voce separou tres grupos sem provar nem cheirar nada.
+Voce comeu so o que estava dentro de casa ou em lata limpa.
+Voce fechou poeira, pano sujo e resto suspeito em saco amarrado.
+
+FONTES
+------
+Orientacao sobre emergencia por radiacao da FEMA no Ready.
+Perguntas frequentes sobre eventos radiologicos da EPA americana.
+Guia de emergencias por radiacao do CDC americano.
+Recomendacao sobre contaminacao de alimentos da FDA americana.

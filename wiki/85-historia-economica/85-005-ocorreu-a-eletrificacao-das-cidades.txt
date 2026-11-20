@@ -1,0 +1,80 @@
+==============================================================================
+CODIGO: 85-005
+TITULO: Como ocorreu a eletrificação das cidades
+CATEGORIA: 85 - História econômica e industrialização
+TEMPO: 45 minutos
+RISCO: alto
+EXIGE: caderno, croqui de rede e fonte sobre a Guerra das Correntes
+REVISAO: 2026-11
+PALAVRAS-CHAVE: eletricidade, iluminação, corrente alternada, Edison, Tesla
+==============================================================================
+
+OBJETIVO
+--------
+Reconstituir como a eletricidade chegou às ruas e às fábricas.
+
+QUANDO USAR
+-----------
+Ao explicar a troca do gás e da vela pela luz elétrica.
+Ao comparar corrente contínua e corrente alternada na distribuição.
+Ao estudar a disputa entre Edison e a corrente alternada de Westinghouse.
+Ao entender por que usinas ficavam longe das cidades.
+Ao analisar o impacto da eletricidade no trabalho e na vida doméstica.
+
+NAO USE QUANDO
+--------------
+Não trate a eletrificação como evento único nem obra de uma pessoa.
+Não repita versões sensacionalistas da "guerra das correntes".
+Não use este texto para manusear instalação elétrica real.
+
+MATERIAIS
+---------
+- Caderno para anotar datas, inventores e mudanças (celular).
+- Papel para croqui: usina, linhas de transmissão, casas e fábricas.
+- Fonte confiável sobre eletrificação urbana e a disputa AC/DC.
+- Cronologia com 1882 (Pearl Street) e meados da década de 1890 (Niágara).
+
+PROCEDIMENTO
+------------
+1. Anote que Faraday demonstrou indução eletromagnética em 1831.
+2. Registre a estação Pearl Street de Edison, em Nova York, em 1882.
+3. Explique por que a corrente contínua exigia usinas próximas.
+4. Desenhe linhas de transmissão ligando usina a bairros.
+5. Anote a corrente alternada e o transformador como par decisivo.
+6. Registre o papel de Westinghouse e Tesla na adoção da AC.
+7. Marque a usina de Niágara, em operação em 1896.
+8. Explique como transformadores elevavam e baixavam a tensão.
+9. Observe o efeito nas fábricas: motores elétricos por máquina.
+10. Registre o impacto nas casas: luz, ferro de passar e rádio depois.
+11. Anote a criação de empresas de energia e de padrões de rede.
+12. Escreva como a rede mudou o horário e a vida urbana.
+
+ATENCAO
+-------
+Eletricidade mata: choque, arco elétrico e incêndio são riscos reais.
+Não toque em fios, quadros ou equipamentos energizados.
+Instalações antigas podem conter chumbo e amianto.
+A "guerra das correntes" teve exagero de propaganda dos dois lados.
+Datas de primeiras usinas variam conforme o critério adotado.
+Este texto é histórico e não substitui norma de segurança elétrica.
+
+SE NAO TIVER
+------------
+Sem fonte sobre a disputa, estude só a diferença CC e CA.
+Sem croqui, desenhe usina, fio e lâmpada em três traços.
+Sem cronologia, use dois marcos aproximados: 1882 e 1896.
+Sem acesso a museu, leia placa de usina em fonte pública confiável.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você explica por que a corrente alternada permitiu distâncias maiores.
+O croqui mostra usina, transmissão e consumo conectados.
+Você cita ao menos uma mudança concreta na vida da cidade.
+
+FONTES
+------
+Prática consolidada de história da tecnologia e de engenharia
+elétrica. Fatos verificáveis: Michael Faraday demonstrou a
+indução em 1831; a estação Pearl Street entrou em operação em
+1882; a usina de Niágara começou a operar em 1896. Manuais e
+acervos de história da eletricidade registram a disputa AC/DC.

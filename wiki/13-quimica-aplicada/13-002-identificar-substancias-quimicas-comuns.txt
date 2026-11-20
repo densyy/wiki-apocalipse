@@ -1,0 +1,90 @@
+==============================================================================
+CODIGO: 13-002
+TITULO: Como identificar substâncias químicas comuns
+CATEGORIA: 13 - Química e conhecimentos científicos aplicados
+TEMPO: 25 minutos
+RISCO: alto
+EXIGE: boa luz, luvas de borracha, papel, lápis e óculos de proteção
+REVISAO: 2026-11
+PALAVRAS-CHAVE: química, rótulo, pictograma, perigo, veneno, alvejante
+==============================================================================
+
+OBJETIVO
+--------
+Reconheça substâncias químicas comuns pelo rótulo e pelos sinais de perigo,
+sem cheirar, provar ou manusear sem proteção.
+
+QUANDO USAR
+-----------
+Ao encontrar frascos ou garrafas sem identificação em casa ou no trabalho.
+Ao separar produtos de limpeza e combustíveis antes de guardar.
+Ao receber produto com rótulo em língua que você não consegue ler.
+Ao decidir se um recipiente abandonado pode ser tocado ou movimentado.
+Ao revisar a despensa e precisar descartar o que não é mais seguro.
+
+NAO USE QUANDO
+--------------
+Quando o recipiente estiver estufado, vazando ou com odor forte.
+Nesse caso, não abra, não aproxime e saia do local.
+Quando não houver luz para ler o rótulo sem encostar o rosto.
+Não use este guia para manipular, misturar ou fabricar produtos químicos.
+
+MATERIAIS
+---------
+- Luvas de borracha ou nitrilo.
+- Óculos de proteção, se houver.
+- Lanterna ou boa luz para ler sem aproximar o rosto.
+- Papel e lápis para anotar o nome e os avisos do rótulo.
+- Recipiente original com rótulo legível, quando existir.
+
+PROCEDIMENTO
+------------
+1. Afaste pessoas e animais; trabalhe em local arejado e iluminado.
+2. Calce luvas e, se houver, coloque óculos de proteção antes de tocar.
+3. Ilumine o rótulo à distância; não encoste o rosto no recipiente.
+4. Leia o nome do produto e o número de registro impressos no rótulo.
+5. Procure a palavra de sinal: "perigo" indica risco maior que "atenção".
+6. Identifique os pictogramas (desenhos de aviso dentro de um losango).
+7. Anote no papel o nome, a palavra de sinal e cada desenho de aviso.
+8. Nunca prove, nunca cheire diretamente e nunca misture produtos.
+9. Se houver ficha de dados de segurança (FDS), leia os perigos.
+10. Feche bem o recipiente e mantenha-o na embalagem original.
+11. Guarde longe de alimentos, água potável e fontes de calor.
+12. Separe alvejante (cloro) de amônia, ácidos e combustíveis.
+13. Sem rótulo, não abra: isole, sinalize com papel escrito e saia.
+
+ATENCAO
+-------
+Mesmo sem cheiro, uma substância pode ser tóxica; nunca confie no nariz.
+Nunca misture alvejante com amônia ou ácido: pode liberar gás tóxico.
+Nunca prove para identificar: uma gota pode queimar ou intoxicar.
+Termômetros e certas lâmpadas contêm mercúrio, veneno mesmo em dose pequena.
+Se algo vazou, ventile o ambiente e não recolha com as mãos.
+Se alguém ingeriu, não provoque vômito: procure atendimento médico.
+Sem rótulo, cor e cheiro não identificam nada: isole e sinalize.
+Este guia não substitui ficha de segurança nem orientação profissional.
+
+SE NAO TIVER
+------------
+Sem luvas, não toque: leia o rótulo à distância e anote o que conseguir.
+Sem lanterna, leve o recipiente fechado até um lugar com luz.
+Sem ficha de segurança, use só o nome e os avisos impressos no rótulo.
+Sem rótulo, não tente identificar por cor ou cheiro: trate como perigoso.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O nome e os avisos do rótulo foram lidos e anotados no papel.
+O recipiente continua fechado, na embalagem original e longe de alimentos.
+Nenhum produto foi provado, cheirado de perto ou misturado a outro.
+O que não tem rótulo ficou isolado e sinalizado com um papel escrito.
+
+FONTES
+------
+Lei de Comunicação de Perigos (HCS) da OSHA, alinhada ao GHS (Sistema
+Globalmente Harmonizado): rótulos trazem palavra de sinal, pictogramas e
+frases de perigo; fichas de dados de segurança (FDS) têm 16 seções.
+Ficha da OMS sobre mercúrio (24 de outubro de 2024): a exposição,
+mesmo pequena, prejudica nervos, rins e pele; o mercúrio está entre os dez
+produtos químicos de maior preocupação de saúde pública para a OMS.
+Prática consolidada de segurança: nunca misturar alvejante com amônia ou
+ácidos e nunca provar nem cheirar diretamente substâncias desconhecidas.

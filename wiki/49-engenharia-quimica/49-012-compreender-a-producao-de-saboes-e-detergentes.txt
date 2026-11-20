@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 49-012
+TITULO: Como compreender a produção de sabões e detergentes
+CATEGORIA: 49 - Engenharia química e processos industriais
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: caderno, lápis, rótulos de um sabão e de um detergente
+REVISAO: 2026-11
+PALAVRAS-CHAVE: sabão, detergente, saponificação, soda, gordura, espuma
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer as etapas e os insumos da fabricação de sabões e detergentes.
+
+QUANDO USAR
+-----------
+Ao comparar um sabão com um detergente pelo rótulo.
+Ao avaliar se um processo artesanal corresponde ao descrito.
+Ao escolher qual produto funciona melhor em água dura.
+
+NAO USE QUANDO
+--------------
+Quando precisar de receita, dose ou protocolo de fabricação.
+Este texto explica o processo, não ensina a manipular soda cáustica.
+
+MATERIAIS
+---------
+- Caderno e lápis.
+- Rótulo de um sabão e rótulo de um detergente.
+- Dois copos com água e colher para agitar.
+- Sal de cálcio ou água mineral dura, se houver.
+
+PROCEDIMENTO
+------------
+1. Leia os dois rótulos e anote os três primeiros ingredientes.
+2. Classifique: sal de ácido graxo indica sabão; sulfonato indica
+   detergente.
+3. Escreva a reação: gordura e soda geram sabão e glicerina.
+4. Anote que essa reação se chama saponificação.
+5. Escreva: hidrocarboneto sulfonado e neutralizado gera tensoativo.
+6. Explique o tensoativo: cabeça atrai água e cauda atrai óleo.
+7. Coloque cada produto em um copo com água, agite e compare a espuma.
+8. Adicione sal de cálcio a cada copo e agite de novo.
+9. Observe qual forma depósito e escreva qual convém para água dura.
+
+ATENCAO
+-------
+- Soda cáustica, o hidróxido de sódio, queima pele e olhos.
+- Nunca manipule soda sem luvas, óculos e boa ventilação.
+- Este texto não dá receita nem quantidade de soda para fabricar.
+- Não tente sulfonar em casa: o processo usa ácido forte.
+- Água dura deposita sabão; não significa produto impróprio.
+- Muita espuma não significa mais limpeza; pode ser excesso.
+
+SE NAO TIVER
+------------
+Sem rótulos, compare apenas a espuma e o depósito em água dura.
+Sem sal de cálcio, use água mineral dura ou água com gipso.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você aponta no rótulo qual sal realiza a limpeza.
+Você escreveu as duas reações e explicou cabeça e cauda.
+Você previu qual produto forma depósito antes de fazer o teste.
+
+FONTES
+------
+Prática consolidada de engenharia química: saponificação e
+tensoativos sulfonados. Resumo de princípios gerais de química.

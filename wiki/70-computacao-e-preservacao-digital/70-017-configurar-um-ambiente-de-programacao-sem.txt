@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 70-017
+TITULO: Como configurar um ambiente de programação sem internet
+CATEGORIA: 70 - Computação de baixo consumo e preservação digital
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: computador com Python 3, acesso à internet antes, pen drive
+REVISAO: 2026-11
+PALAVRAS-CHAVE: programação, offline, sem internet, python, venv, instalar
+==============================================================================
+
+OBJETIVO
+--------
+Montar um ambiente de programação que funciona sem internet, com
+bibliotecas e ferramentas já baixadas e prontas para usar.
+
+QUANDO USAR
+-----------
+Quando a internet vai cair e você precisa continuar programando.
+Quando o local de trabalho não tem cobertura de rede.
+Quando você quer repetir a mesma instalação em vários computadores.
+Quando precisa preservar um projeto por anos sem depender de redes.
+
+NAO USE QUANDO
+--------------
+Quando a tarefa exige serviços online, como consultas ou mapas.
+Quando não há como baixar os arquivos antes de ficar sem rede.
+Sem planejamento, não se improvisa um ambiente do zero offline.
+
+MATERIAIS
+---------
+- Computador com Python 3 instalado (ou linguagem com gerenciador).
+- Acesso à internet em um momento anterior, para baixar os arquivos.
+- Pen drive ou disco para transportar os arquivos (ou rede local).
+- Editor de texto ou ambiente de desenvolvimento já instalado.
+- Lista dos pacotes que o projeto usa (arquivo de requisitos).
+
+PROCEDIMENTO
+------------
+1. Enquanto ainda há internet, crie um ambiente virtual para o projeto:
+   python3 -m venv ambiente
+2. Ative o ambiente: source ambiente/bin/activate
+3. Instale os pacotes que o projeto precisa no ambiente ativo.
+4. Anote as versões exatas com: pip freeze > requisitos.txt
+5. Crie uma pasta para guardar os instaladores: mkdir rodape
+6. Baixe cada pacote e suas dependências para essa pasta, com:
+   pip download -r requisitos.txt -d rodape
+7. Confira se apareceram arquivos com a extensão .whl dentro de rodape.
+8. Copie a pasta rodape e o arquivo requisitos.txt para o pen drive.
+9. No computador sem internet, crie um ambiente virtual novo.
+10. Ative esse ambiente e copie a pasta rodape para perto dele.
+11. Instale sem consultar a rede, usando a pasta local:
+    pip install --no-index --find-links=rodape -r requisitos.txt
+12. Confira a instalação com: pip list
+13. Guarde também o instalador do Python e do editor no pen drive.
+14. Salve a documentação local dos pacotes que mais usa, em texto.
+
+ATENCAO
+-------
+O comando --no-index impede o pip de buscar na internet: use-o sempre
+na etapa final, senão o computador tentará consultar a rede e falhará.
+Baixe os arquivos no mesmo sistema e versão de Python do destino: um
+arquivo compilado para outro sistema pode não instalar. O cache do pip
+não substitui a pasta local: limpezas do sistema podem apagá-lo. Teste
+o ambiente final ainda com internet antes de desligar a rede. Sem os
+instaladores do interpretador e do editor, você não reinstalará do zero.
+Nunca confie em um ambiente que nunca foi testado offline.
+
+SE NAO TIVER
+------------
+Sem pen drive, use a rede local para copiar os arquivos entre aparelhos.
+Sem um gerenciador de pacotes, guarde os códigos-fonte dos pacotes e
+instale-os um a um. Sem ambiente virtual, instale em uma pasta própria
+e anote o caminho. Se faltar um pacote na pasta local, a instalação
+parará: anote o nome e baixe-o na próxima ida à internet.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O comando pip list mostra todos os pacotes esperados, com as versões.
+O programa de teste do projeto roda até o fim sem mensagem de rede.
+O editor abre e salva arquivos normalmente com a rede desligada.
+
+FONTES
+------
+Documentação oficial do pip, da Python Packaging Authority: comandos
+pip download e pip install, opções --no-index e --find-links, arquivos
+de requisitos e cache. Documentação oficial do Python, módulo venv.
+Prática consolidada de preparação de ambientes offline. Resumo
+operacional, não treinamento.

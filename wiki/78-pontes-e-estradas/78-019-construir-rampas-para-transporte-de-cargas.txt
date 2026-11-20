@@ -1,0 +1,91 @@
+==============================================================================
+CODIGO: 78-019
+TITULO: Como construir rampas para transporte de cargas
+CATEGORIA: 78 - Pontes, estradas e infraestrutura de transporte
+TEMPO: 300 minutos
+RISCO: medio
+EXIGE: terra, cascalho, enxada, pá, nível, estacas, cordão
+REVISAO: 2026-11
+PALAVRAS-CHAVE: rampa, carga, carriola, inclinacao, declive, acesso
+==============================================================================
+
+OBJETIVO
+---------
+Construir uma rampa firme para subir cargas com carriola ou veículo
+sem atolar, derrapar ou perder o controle.
+
+QUANDO USAR
+-----------
+Ao precisar vencer um desnível com carriola, carrinho ou trator.
+Ao carregar madeira, sacos ou água para um terreno mais alto.
+Quando a trilha atual é íngreme e as cargas escorregam.
+Ao criar acesso de veículos até uma casa, ponte ou depósito.
+Depois de enchentes que lavaram o trecho de subida.
+
+NAO USE QUANDO
+--------------
+Não construa em solo que cede, com água correndo ou em gelo.
+Não faça rampa íngreme demais para o veículo disponível.
+Não execute sem definir antes para onde escoa a água da chuva.
+Não comece em barranco sem antes estabilizar a encosta.
+
+MATERIAIS
+---------
+- Terra argilosa ou cascalho para o corpo da rampa (material local).
+- Pedras grandes para a base e as margens (cascalho).
+- Enxada, pá, picareta e rastelo.
+- Nível de bolha, régua e cordão para medir a inclinação.
+- Tábuas ou estacas para conter as laterais (pedras empilhadas).
+- Pedras miúdas ou brita para revestir a superfície.
+- Balde e água para umedecer e compactar a terra.
+
+PROCEDIMENTO
+------------
+1. Escolha o traçado com o menor desnível possível até o destino.
+2. Meça a altura a vencer e o comprimento disponível no terreno.
+3. Defina a inclinação: até 1 em 8 para carriola; 1 em 12 para
+   veículo. Quanto mais carga, mais suave deve ser a subida.
+4. Marque com estacas as duas bordas da rampa no chão.
+5. Retire terra vegetal, pedras soltas e matéria orgânica da área.
+6. Escave o chão em degraus para a terra nova aderir ao solo.
+7. Coloque pedras grandes na base das partes mais baixas.
+8. Encha com camadas de terra de 10 a 15 cm cada.
+9. Umedeça cada camada e compacte com pisoteio ou soquete.
+10. Repita camadas até atingir a altura marcada nas estacas.
+11. Confira o alinhamento com o cordão e o nível a cada camada.
+12. Faça valetas nos dois lados para desviar a água da chuva.
+13. Revista a superfície com cascalho ou pedra miúda.
+14. Coloque tábuas ou pedras nas bordas para segurar a terra.
+15. Deixe a rampa assentar um dia antes de carregar peso.
+16. Teste primeiro com carga leve e suba em linha reta.
+
+ATENCAO
+-------
+Rampa íngreme faz a carga voltar e pode atropelar quem empurra.
+Nunca desça com carriola de costas: segure na frente e freie.
+Compactação fraca afunda sob roda e vira atoleiro na chuva.
+Sem valetas laterais, a água corre pela rampa e a lava.
+Em margem de rio ou barranco, a base pode ser arrastada.
+Não use terra com muito húmus: apodrece e cria vazios.
+Se a rampa rachar ou afundar, pare e reforce antes de usar.
+
+SE NAO TIVER
+------------
+Sem cascalho, use pedras miúdas e terra bem compactada.
+Sem nível, estique um cordão entre estacas e meça com régua.
+Sem tábuas, empilhe pedras nas bordas para conter a terra.
+Sem espaço para rampa suave, faça curvas em "z" no desnível.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A carriola sobe sem escorregar e sem afundar nas rodas.
+A superfície mantém a inclinação após a primeira chuva.
+A água corre pelas valetas, nunca pelo meio da rampa.
+As bordas continuam firmes, sem terra escorrendo para os lados.
+
+FONTES
+------
+Prática consolidada de engenharia rodoviária e construção rural:
+manuais de estradas de terra do DNIT e do SENAR e noções básicas
+de drenagem e compactação de solos usadas em obras rurais.
+As inclinações citadas são aproximadas e servem de guia.

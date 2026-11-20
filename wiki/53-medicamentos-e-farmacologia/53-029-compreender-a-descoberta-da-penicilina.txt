@@ -1,0 +1,88 @@
+==============================================================================
+CODIGO: 53-029
+TITULO: Como compreender a descoberta da penicilina
+CATEGORIA: 53 - Produção de medicamentos e farmacologia
+TEMPO: 25 minutos
+RISCO: medio
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: penicilina, fleming, mofo, antibiótico, florey, chain
+==============================================================================
+
+OBJETIVO
+--------
+Entender como um mofo contaminou uma placa e virou o primeiro antibiótico.
+
+QUANDO USAR
+-----------
+Ao explicar por que uma infecção bacteriana deixou de ser fatal.
+Ao entender a diferença entre observar, isolar e produzir um remédio.
+Ao avaliar afirmações de que antibiótico serve para qualquer doença.
+Ao estudar a base histórica do tratamento de infecções.
+Ao perceber por que resistência e alergia limitam esse remédio.
+
+NAO USE QUANDO
+--------------
+Não use este texto para escolher remédio, dose ou tratamento.
+Não substitui bula, prescrição nem orientação de profissional.
+Não serve para tratar infecção com mofo caseiro ou alimento.
+Este texto não ensina a cultivar, extrair ou aplicar substância alguma.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Comece em 1928: Fleming trabalhava com bactérias Staphylococcus aureus
+   no Hospital St Mary, em Londres.
+2. Observe o acaso: um mofo contaminou uma placa de cultura deixada
+   sobre a mesa.
+3. Note o detalhe: ao redor do mofo as bactérias ficaram transparentes
+   e não cresciam.
+4. Registre a interpretação: o mofo liberava algo que matava bactérias.
+5. Anote o nome: Fleming chamou essa substância de penicilina.
+6. Identifique o mofo: era Penicillium notatum, hoje Penicillium rubens.
+7. Verifique o teste: o extrato inibia bactérias mesmo diluído
+   aproximadamente 800 vezes.
+8. Registre 1929: Fleming publicou o achado, mas quase ninguém deu atenção.
+9. Entenda o limite: ele não conseguiu purificar nem estabilizar o extrato.
+10. Avance para 1939: em Oxford, Florey e Chain retomaram o estudo.
+11. Note a equipe: Abraham e Heatley ajudaram a isolar e cultivar o mofo.
+12. Registre 1940: o extrato puro salvou camundongos infectados.
+13. Registre 1941: os primeiros testes em pessoas confirmaram a cura.
+14. Observe a produção: na Segunda Guerra, tanques grandes permitiram
+    fabricar em escala.
+15. Registre 1945: Fleming, Florey e Chain dividiram o Nobel de Medicina.
+16. Relacione o mecanismo: a penicilina impede a parede da bactéria
+    de se formar.
+17. Feche com o impacto: pneumonias e infecções de sangue passaram
+    a ter tratamento.
+
+ATENCAO
+-------
+Este texto descreve fatos, não recomenda tratamento.
+Nunca use mofo, alimento ou extrato caseiro para tratar infecção.
+Penicilina pode causar alergia grave e não trata viroses.
+Bactérias podem virar resistentes se o remédio for mal usado.
+A data exata da observação varia entre fontes: 3 ou 28 de setembro
+de 1928; o ano é seguro, o dia não.
+Pare e procure ajuda se houver febre alta ou reação alérgica.
+
+SE NAO TIVER
+------------
+Sem livro ou aula, use este resumo como roteiro de leitura.
+Sem fonte primária, aceite só os marcos citados por várias fontes.
+Não invente nome, data ou autor para preencher lacuna de memória.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue narrar a sequência: acaso, observação, nome, esquecimento,
+purificação, produção e Nobel, e explicar por que cada passo importou.
+
+FONTES
+------
+História consolidada da descoberta da penicilina. Marcos segundo o
+discurso Nobel de Fleming, a Enciclopédia Britannica, a American Chemical
+Society, o artigo do CDC Emerging Infectious Diseases e o Museu da Ciência
+de Londres. Resumo operacional; não substitui estudo nem orientação clínica.

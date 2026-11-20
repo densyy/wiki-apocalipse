@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 81-019
+TITULO: Como realizar manutenção de fornos
+CATEGORIA: 81 - Engenharia térmica e fornos industriais
+TEMPO: 3 horas
+RISCO: alto
+EXIGE: forno frio, ferramentas manuais e material refratário de reposição
+REVISAO: 2026-11
+PALAVRAS-CHAVE: manutenção, forno, refratário, limpeza, chaminé, inspeção
+==============================================================================
+
+OBJETIVO
+--------
+Inspecionar e conservar o forno para manter a tiragem, o isolamento e
+a segurança em uso.
+
+QUANDO USAR
+-----------
+Antes da primeira queima após longo tempo parado.
+A cada certo número de horas de uso, conforme o desgaste.
+Quando a chaminé soltar menos fumaça ou a tiragem cair.
+Ao aparecer rachadura no revestimento interno.
+Quando o consumo de combustível subir sem mudança de trabalho.
+
+NAO USE QUANDO
+--------------
+Não faça manutenção com o forno quente ou com fogo aceso.
+Não entre em espaço confinado sem ventilação e acompanhamento.
+Não use água em alta pressão no refratário ou na parte elétrica.
+Não tampe ou desmonte a chaminé com gases ainda presentes.
+
+MATERIAIS
+---------
+- Escova metálica e raspador para remover fuligem (escova de aço).
+- Balde e pano para a limpeza (sem solvente inflamável).
+- Tijolo ou concreto refratário de reposição e argamassa própria.
+- Lanterna para inspecionar a câmara e os dutos.
+- Luvas, óculos e máscara contra poeira.
+- Caderno e lápis para registrar os achados.
+
+PROCEDIMENTO
+------------
+1. Desligue o forno e espere até que esteja completamente frio.
+2. Ventile o ambiente e a câmara antes de entrar ou espiar.
+3. Retire cinzas e resíduos com cuidado e descarte com segurança.
+4. Inspecione as paredes internas com a lanterna.
+5. Anote rachaduras, tijolos soltos e pontos desgastados.
+6. Raspe a fuligem acumulada nas paredes e na grelha.
+7. Limpe a entrada de ar e verifique se abre e fecha livremente.
+8. Suba até a chaminé e retire o excesso de fuligem.
+9. Confira se não há ninho, folha ou outro bloqueio no duto.
+10. Substitua tijolos rachados com argamassa refratária.
+11. Reaperte parafusos e suportes que ficaram frouxos.
+12. Verifique a vedação da porta e troque se estiver danificada.
+13. Feche tudo e faça um acendimento de teste.
+14. Registre o que foi feito e a data para a próxima visita.
+
+ATENCAO
+-------
+Cinzas podem guardar brasas por horas: molhe antes de descartar.
+Poeira de refratário e fuligem irrita pulmão: use máscara e luvas.
+Trabalhar em altura na chaminé exige escada firme e apoio.
+Chaminé obstruída faz gases voltarem e pode matar por asfixia.
+Nunca use gasolina ou solvente para limpar a câmara.
+Reparo mal feito no refratário pode soltar pedaços na queima.
+Se encontrar rachadura profunda, pare e procure ajuda especializada.
+
+SE NAO TIVER
+------------
+Sem escova metálica, use esfregão de fibra e raspador de madeira.
+Sem argamassa refratária, adie o reparo e marque o ponto com segurança.
+Sem lanterna, use luz de celular presa a um suporte.
+Sem refratário de reposição, retire apenas o material solto e registre.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A tiragem da chaminé voltou ao normal no acendimento de teste.
+Não há fumaça escapando por frestas ou pela porta.
+As rachaduras foram fechadas e o revestimento está firme.
+O registro da manutenção ficou anotado com a data.
+
+FONTES
+------
+Prática consolidada de manutenção de fornos e chaminés, sem documento
+normativo único. Referências correntes de limpeza de dutos, reparo de
+refratários e segurança contra gases de combustão, como apresentadas em
+manuais de operação de fornos e de segurança no trabalho.

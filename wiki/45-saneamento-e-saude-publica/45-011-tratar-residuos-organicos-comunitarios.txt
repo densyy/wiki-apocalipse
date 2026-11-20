@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 45-011
+TITULO: Como tratar resíduos orgânicos comunitários
+CATEGORIA: 45 - Engenharia de saneamento e saúde pública
+TEMPO: 4 horas
+RISCO: medio
+EXIGE: terreno alto, pás, tampa, material seco de cobertura
+REVISAO: 2026-11
+PALAVRAS-CHAVE: banheiro seco, latrina, fezes, fossa, higiene, emergência
+==============================================================================
+
+OBJETIVO
+--------
+Recolher fezes em local fechado, sem contaminar a água, o solo e as mãos.
+
+QUANDO USAR
+-----------
+Quando faltar água corrente ou rede de esgoto.
+Em acampamentos, abrigos e comunidades sem saneamento.
+Depois de enchente que danificou as instalações sanitárias.
+
+NAO USE QUANDO
+--------------
+Quando o lençol freático estiver alto ou o terreno alagar.
+Quando o ponto ficar perto de poço ou fonte usada para beber.
+Quando o solo for rocha e não permitir cavar a fossa.
+
+MATERIAIS
+---------
+- Pá ou enxada para cavar.
+- Madeira, tábuas ou chapas para a cabine e a tampa.
+- Terra seca, cinza fria, serragem ou palha para cobrir.
+- Estacas, corda, água e sabão ou cinza para as mãos.
+
+PROCEDIMENTO
+------------
+1. Escolha ponto alto, longe de casas e a jusante das fontes de água.
+2. Fique a aproximadamente 30 metros de poços e fontes de água.
+3. Confirme aproximadamente 2 metros até o lençol freático no fundo.
+4. Demarque a área com estacas e corda antes de cavar.
+5. Cave aproximadamente 1 metro de largura por 1,5 metro de profundidade.
+6. Monte a cabine com madeira ou chapas, com parede totalmente fechada.
+7. Instale assento com tampa que feche por peso.
+8. Cubra com aproximadamente 5 cm de terra seca ou cinza após cada uso.
+9. Lave as mãos com água e sabão ao sair do local.
+10. Cubra a fossa com terra ao chegar a aproximadamente 30 cm da borda.
+
+ATENCAO
+-------
+Fezes cruas espalham cólera, disenteria, febre tifóide e vermes.
+Nunca deixe fezes expostas: cubra para afastar moscas e odor.
+Não cave onde a água da chuva possa entrar e transbordar.
+Pare o uso se houver vazamento para poço ou se a tampa não fechar.
+Procure ajuda se alguém adoecer depois de usar o local.
+
+SE NAO TIVER
+------------
+Sem madeira, use lona, lonça ou palha para vedar a cabine.
+Sem terra seca, use cinza fria de fogueira ou serragem.
+Sem tampa, prenda uma tábua com corda para que caia por peso.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A tampa fecha sozinha e não entra luz pelas laterais.
+Não há fezes visíveis, muitas moscas nem cheiro forte no entorno.
+
+FONTES
+------
+Orientações da OMS sobre saneamento e uso seguro de excreta.
+Material do UNICEF sobre saneamento e higiene em emergências.

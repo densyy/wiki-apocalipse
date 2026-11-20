@@ -1,0 +1,74 @@
+==============================================================================
+CODIGO: 04-032
+TITULO: Como funciona a tensao eletrica
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 20 minutos
+RISCO: alto
+EXIGE: pilhas comuns rotuladas, papel e caneta
+REVISAO: 2026-11
+PALAVRAS-CHAVE: tensao, volt, voltagem, pilha, choque, tomada
+==============================================================================
+
+OBJETIVO
+--------
+Entender o que e tensao eletrica para reconhecer o perigo de cada fonte.
+
+QUANDO USAR
+-----------
+Quando precisar entender por que pilha nao da choque e tomada da.
+Quando for escolher pilha ou bateria para um aparelho.
+Quando for ler o rotulo de um aparelho antes de ligar na tomada.
+Quando for explicar a alguem por que nao se mexe em fio exposto.
+
+NAO USE QUANDO
+--------------
+Nunca use este conhecimento para abrir tomada, quadro ou instalacao.
+Nunca use para improvisar ligacao em rede energizada.
+Se houver fio partido ou poste caido, afaste-se e peca ajuda.
+
+MATERIAIS
+---------
+- Uma pilha AA de 1,5 V (ou outra pilha comum rotulada).
+- Uma bateria de 9 V (opcional, para comparar tensoes).
+- Papel e caneta para anotar os valores em V.
+- Multimetro simples (lampada de lanterna com dois fios).
+
+PROCEDIMENTO
+------------
+1. Leia o numero seguido de V no rotulo da pilha e anote.
+2. Compare com o numero em V no rotulo da bateria.
+3. Guarde a regra: numero maior em V significa tensao maior.
+4. Entenda a tensao como a forca que empurra a corrente no fio.
+5. Entenda a corrente como o fluxo que essa forca poem em movimento.
+6. Ligue a lampada na pilha de 1,5 V e observe o brilho.
+7. Repita com a bateria de 9 V e compare o brilho obtido.
+8. Confira no rotulo do aparelho a tensao que ele exige.
+9. Nunca ligue aparelho de tensao diferente da indicada no rotulo.
+10. Trate todo fio exposto como se tivesse tensao perigosa.
+
+ATENCAO
+-------
+A rede da casa tem aproximadamente 127 V ou 220 V e pode matar.
+Nunca toque em fio exposto, poste caido, quadro aberto ou tomada.
+Nunca improvise ligacao em rede energizada: arame e fita nao isolam.
+Com corpo molhado ou pe descalco o choque fica ainda mais grave.
+Este artigo explica o conceito e nao ensina conserto eletrico.
+Se alguem levar choque, desligue a energia antes de tocar na pessoa.
+
+SE NAO TIVER
+------------
+Sem multimetro, compare apenas os valores em V dos rotulos.
+Sem lampada, o aprendizado vale pela leitura dos rotulos.
+Sem bateria de 9 V, compare duas pilhas de tamanhos diferentes.
+Nunca use a tomada como ferramenta de teste em hipotese alguma.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A pessoa explica que tensao maior empurra a corrente com mais forca.
+A pessoa encontra o valor em V no rotulo de pilhas e aparelhos.
+A pessoa se recusa a mexer em tomada, quadro ou fio exposto.
+
+FONTES
+------
+Conceito de tensao de livros-texto de fisica e da Khan Academy.
+Pratica consolidada de seguranca com eletricidade residencial.

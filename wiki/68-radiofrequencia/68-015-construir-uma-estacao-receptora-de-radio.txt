@@ -1,0 +1,86 @@
+==============================================================================
+CODIGO: 68-015
+TITULO: Como construir uma estação receptora de rádio
+CATEGORIA: 68 - Radiofrequência e telecomunicações
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: fio de cobre esmaltado, diodo de germânio, fone de alta impedância
+REVISAO: 2026-11
+PALAVRAS-CHAVE: rádio, receptor, antena, cristal, sintonia, diodo, fone
+==============================================================================
+
+OBJETIVO
+--------
+Montar um receptor que capta emissões de rádio AM sem usar bateria.
+
+QUANDO USAR
+-----------
+Quando não há energia elétrica e você quer ouvir notícias.
+Quando precisa receber avisos de uma estação próxima.
+Quando quer entender como funciona um receptor com peças simples.
+Quando uma emergência isola você das fontes de informação.
+
+NAO USE QUANDO
+--------------
+Não instale a antena perto de linhas de energia elétrica.
+Não use a antena externa durante tempestade com raios.
+Não espere ouvir estações distantes: o alcance é limitado.
+
+MATERIAIS
+---------
+- Fio de cobre esmaltado fino (0,2 a 0,5 mm) para a bobina.
+- Tubo de papelão ou madeira (aproximadamente 5 a 10 cm de diâmetro).
+- Diodo de germânio (ou galena com fio de contato).
+- Fone de ouvido de alta impedância (2000 a 8000 ohms) ou piezoelétrico.
+- Fio para antena (aproximadamente 10 a 30 m).
+- Estaca de metal para o terra.
+- Fio de ligação e fita isolante.
+
+PROCEDIMENTO
+------------
+1. Enrole aproximadamente 100 voltas do fio esmaltado no tubo.
+2. Deixe aproximadamente 15 cm de fio livre em cada ponta.
+3. Raspe o esmalte em uma volta intermediária e fixe uma tomada.
+4. Estenda a antena o mais alta e longa que puder, longe de energia.
+5. Nunca cruze nem encoste a antena em fios elétricos.
+6. Crave a estaca de terra aproximadamente 1 m no solo úmido.
+7. Ligue uma ponta da bobina à antena.
+8. Ligue a outra ponta da bobina à estaca de terra.
+9. Ligue a tomada da bobina ao diodo de germânio.
+10. Ligue o diodo a um terminal do fone de ouvido.
+11. Ligue o outro terminal do fone à estaca de terra.
+12. Deslize a tomada ao longo da bobina até ouvir uma estação.
+13. Ajuste a tomada devagar para separar estações próximas.
+14. Com galena, mova o fio de contato até ouvir ruído ou voz.
+
+ATENCAO
+-------
+A antena externa pode atrair raios: desligue e aterre na tempestade.
+Nunca instale a antena perto de linhas de energia: pode matar por choque.
+Mantenha a antena afastada de cabos de alta tensão e de postes.
+A ponta do fio e a solda podem queimar: tenha cuidado com o fogo.
+O diodo de germânio tem polaridade: se não ouvir, inverta as pontas.
+Este receptor não amplifica: estações fracas podem ficar inaudíveis.
+Fones comuns de 8 ohms não funcionam: use fone de alta impedância.
+Se sentir formigamento ou ouvir estalos elétricos, pare e desconecte.
+
+SE NAO TIVER
+------------
+Sem diodo de germânio, use galena com um fio fino de contato.
+Sem fone de alta impedância, use um fone piezoelétrico.
+Sem estaca, use um cano de água metálico como terra.
+Sem tubo, enrole a bobina em um rolo de papel.
+Sem antena externa, estenda um fio pela janela, longe de energia.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você ouve vozes ou música ao deslizar a tomada pela bobina.
+O som some e volta ao mover a tomada de volta.
+A estação fica mais clara com a antena mais alta e longa.
+Com o diodo invertido, o som desaparece.
+
+FONTES
+------
+Prática consolidada de receptores de cristal, sem documento único.
+Princípios de circuito ressonante e detector em manuais de eletrônica.
+Regras de segurança para antenas externas em manuais de radioamadorismo.

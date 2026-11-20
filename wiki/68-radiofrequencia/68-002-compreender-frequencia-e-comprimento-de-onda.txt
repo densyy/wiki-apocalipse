@@ -1,0 +1,80 @@
+==============================================================================
+CODIGO: 68-002
+TITULO: Como compreender frequência e comprimento de onda
+CATEGORIA: 68 - Radiofrequência e telecomunicações
+TEMPO: 20 minutos
+RISCO: baixo
+EXIGE: papel, lápis, calculadora simples
+REVISAO: 2026-11
+PALAVRAS-CHAVE: frequência, comprimento de onda, hertz, rádio, onda, luz
+==============================================================================
+
+OBJETIVO
+--------
+Entender frequência e comprimento de onda e calcular um pelo outro.
+
+QUANDO USAR
+-----------
+Quando lê a frequência de um rádio e quer saber o tamanho da onda.
+Quando precisa comparar duas frequências ou duas faixas de rádio.
+Quando quer entender por que uma antena serve para uma faixa e não outra.
+Quando estuda como um sinal viaja do transmissor até o receptor.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para este procedimento.
+Este texto é conceitual: não autoriza instalar antenas ou mexer em
+transmissores energizados. Nesses casos, procure treinamento.
+
+MATERIAIS
+---------
+- Papel e lápis (ou caderno).
+- Calculadora simples (ou faça a conta à mão).
+- Um rádio com escala de frequência para observar (opcional).
+
+PROCEDIMENTO
+------------
+1. Leia a frequência no aparelho e anote o valor em hertz (Hz).
+2. Entenda: um hertz é uma oscilação completa por segundo.
+3. Converta a unidade antes de calcular: 1 kHz é 1000 Hz; 1 MHz é
+   1.000.000 Hz; 1 GHz é 1.000.000.000 Hz.
+4. Entenda o comprimento de onda como a distância que a onda percorre
+   durante uma oscilação completa.
+5. Use a velocidade da luz no ar e no vácuo: aproximadamente
+   300.000.000 metros por segundo.
+6. Divida essa velocidade pela frequência em hertz.
+7. Anote o resultado em metros: esse é o comprimento de onda.
+8. Confira a lógica: quanto maior a frequência, menor a onda.
+9. Exemplo: 100 MHz dão aproximadamente 3 metros de comprimento de onda.
+
+ATENCAO
+-------
+A velocidade muda dentro de materiais como água, vidro e concreto; a conta
+acima vale para o ar e para o vácuo. Aumentar a potência de um transmissor
+não muda a frequência nem o comprimento de onda: muda apenas a intensidade.
+Confunda intensidade com frequência é o erro mais comum.
+Ao arredondar a velocidade da luz, escreva "aproximadamente".
+Pare aqui se o objetivo for instalar equipamento ou tocar em circuito
+energizado: este texto não ensina essas tarefas.
+
+SE NAO TIVER
+------------
+Sem calculadora, use a regra prática: 300 dividido pela frequência em MHz
+dá o comprimento aproximado em metros. Exemplo: 150 MHz dão 2 metros.
+Sem rádio com escala, o raciocínio continua válido; a leitura só ajuda
+a fixar o exemplo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você explica com as próprias palavras que frequência maior significa onda
+mais curta. A conta de 100 MHz resulta em aproximadamente 3 metros.
+Você converte 1 MHz para 1.000.000 Hz sem errar.
+
+FONTES
+------
+Conhecimento consolidado de física ondulatória e eletromagnetismo. A relação
+entre frequência e comprimento de onda, a definição de hertz e a ordem do
+espectro eletromagnético constam no material didático da NASA sobre
+comunicações espaciais (capítulo de eletromagnetismo). As faixas de
+radiofrequência são definidas pela União Internacional de Telecomunicações.
+Este texto é um resumo conceitual, não substitui treinamento técnico.

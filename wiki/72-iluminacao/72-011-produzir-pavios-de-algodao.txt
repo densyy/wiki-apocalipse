@@ -1,0 +1,93 @@
+==============================================================================
+CODIGO: 72-011
+TITULO: Como produzir pavios de algodão
+CATEGORIA: 72 - Sistemas de iluminação e óptica aplicada
+TEMPO: 25 minutos
+RISCO: alto
+EXIGE: algodão 100%, linha de algodão, tesoura, óleo, lampada
+REVISAO: 2026-11
+PALAVRAS-CHAVE: pavio, algodão, lampada, chama, mecha, fio, óleo, iluminação
+==============================================================================
+
+OBJETIVO
+--------
+Produzir pavios de algodão que mantêm chama estável em lampada ou vela.
+
+QUANDO USAR
+-----------
+Quando o pavio da lampada queimou ou não absorve mais óleo.
+Quando falta pavio comercial e há algodão limpo disponível.
+Quando se monta lampada caseira com recipiente metálico e óleo.
+
+NAO USE QUANDO
+--------------
+Quando o algodão estiver úmido, mofado, com tinta, perfume ou resíduo
+de óleo lubrificante, solvente ou produto químico.
+Quando o tecido tiver fibra sintética: poliéster, náilon ou elastano
+derretem com o calor e soltam vapor tóxico.
+Quando o ambiente for fechado, sem entrada de ar.
+
+MATERIAIS
+---------
+- Algodão 100% limpo e seco (gaze cirúrgica ou camiseta sem tinta).
+- Linha ou barbante de algodão 100% (sem poliéster nem núcleo plástico).
+- Tesoura limpa e afiada (faca afiada).
+- Óleo de lampada, querosene ou óleo vegetal para testar.
+- Lampada ou vela pronta (recipiente metálico com furo).
+
+PROCEDIMENTO
+------------
+1. Lave as mãos com água e sabão e seque bem.
+2. Escolha algodão 100% limpo, seco, sem tinta, perfume ou mofo.
+3. Corte uma tira de algodão com aproximadamente 15 cm.
+4. Dobre a tira ao meio e torça as pontas até formar cordão firme.
+5. Enrole a linha de algodão no cordão, apertando a cada volta.
+6. Apare as pontas, deixando reta a extremidade da chama.
+7. Enfie o pavio no furo do queimador com folga, sem apertar.
+8. Empurre até a ponta tocar o óleo no fundo do recipiente.
+9. Deixe aproximadamente 0,5 cm de pavio acima da borda.
+10. Mergulhe o pavio no óleo até encharcar antes do primeiro uso.
+11. Acenda e observe. Se a chama ficar alta ou com fumaça, apague.
+12. Apare a ponta carbonizada com a chama apagada e acenda de novo.
+13. Guarde os pavios secos em recipiente fechado, longe de calor.
+
+ATENCAO
+-------
+O pavio nunca pode ter fibra sintética. Poliéster, náilon, elastano,
+lycra e acrílico derretem com o calor e liberam vapor tóxico.
+A chama consome oxigênio e produz monóxido de carbono, gás incolor,
+inodoro e letal. Nunca queime pavio em quarto fechado. Abra uma
+janela para entrar ar e use detector de monóxido se houver.
+Dor de cabeça, tontura, fraqueza, náusea, dor no peito e confusão
+são sinais de intoxicação. Se aparecerem, apague a chama, vá para
+o ar livre e procure atendimento médico.
+Pavio muito alto ou algodão com tinta e solvente gera fumaça preta
+e fuligem. Abaixe a ponta e corte a parte queimada.
+Nunca deixe a chama sem vigilância. Apoie em superfície firme,
+longe de cortina, papel e roupa, e fora do alcance de crianças.
+A chama causa queimadura e incêndio. Se óleo derramar e pegar fogo,
+não jogue água: abafe com tampa metálica ou pano.
+
+SE NAO TIVER
+------------
+Sem algodão em tira, use gaze cirúrgica nova ou algodão hidrofílico.
+Sem linha, torça duas tiras de algodão uma sobre a outra.
+Não use nylon, linha de pesca, esponja sintética, papel perfumado
+nem restos de jeans com elastano: derretem ou não puxam óleo.
+Sem óleo de lampada, use óleo vegetal em pavio plano; ventile mais.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O pavio puxa óleo até a ponta sem pingar e a chama fica estável,
+amarela e sem fumaça preta.
+A ponta forma cinza clara e fina, não crosta preta espessa.
+Depois de frio, o pavio não se desfaz nem solta fios ao toque.
+
+FONTES
+------
+Orientação da CDC sobre monóxido de carbono: gás incolor e inodoro
+da queima de combustível, com sintomas como dor de cabeça e tontura,
+e recomendação de detector e ventilação.
+Fabricação de pavios é prática consolidada sem documento único:
+escolha de algodão puro, torção, aparo e embebição em óleo.
+Resumo operacional; não substitui treinamento em segurança.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 40-001
+TITULO: Como entender os fundamentos da acústica
+CATEGORIA: 40 - Acústica e engenharia sonora
+TEMPO: 40 minutos
+RISCO: baixo
+EXIGE: objeto que produza som, superfície dura e distante, caderno e lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: som, acústica, frequência, hertz, decibel, tom, volume, eco
+==============================================================================
+
+OBJETIVO
+--------
+Entender o que é o som, como ele viaja e como medir altura e volume.
+
+QUANDO USAR
+-----------
+Quando um som chega fraco, abafado ou com atraso.
+Quando for estimar uma distância pelo tempo do eco.
+Quando quiser proteger a audição de ruído forte.
+
+NAO USE QUANDO
+--------------
+Quando houver dor de ouvido, zumbido ou perda de audição: isto não
+substitui exame médico.
+
+MATERIAIS
+---------
+- Objeto que produza som (palmas, sino ou pedra batida).
+- Superfície dura e distante para o eco (parede ou penhasco).
+- Caderno e lápis para anotar.
+
+PROCEDIMENTO
+------------
+1. Bata palmas ao ar livre e observe que o som some logo.
+2. Bata palmas perto da orelha: o som chega mais alto.
+3. Fique a aproximadamente 50 m de uma parede ou penhasco.
+4. Bata palmas e conte os segundos até ouvir o eco.
+5. Multiplique o tempo por aproximadamente 340 m/s e divida por 2.
+6. Assobie e depois faça um som grave; compare as alturas.
+7. Cubra um ouvido e aponte a origem do som; repita com os dois.
+
+ATENCAO
+-------
+O som é onda mecânica: precisa de ar, água ou sólido, nunca o vazio.
+Frequência (hertz, Hz) conta vibrações por segundo e define a altura.
+Humanos ouvem de aproximadamente 20 a 20.000 Hz; fora disso,
+fica infrassom (abaixo) ou ultrassom (acima).
+Volume em decibel (dB) é logarítmico: mais 10 dB valem
+aproximadamente o dobro de intensidade.
+Acima de aproximadamente 85 dB por 8 horas a audição sofre;
+120 dB é limiar de dor e o som no ar vai a 343 m/s a 20 °C.
+Pare se houver dor ou zumbido; procure ajuda médica.
+
+SE NAO TIVER
+------------
+Sem parede, use prédio, celeiro ou árvores; sem caderno, conte nos dedos.
+Sem lugar com eco, pule os passos de distância.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O eco volta com atraso claro e o cálculo da distância faz sentido.
+Agudo e grave se distinguem; com um ouvido tapado, apontar custa mais.
+
+FONTES
+------
+OpenStax, University Physics e College Physics: velocidade do som,
+intensidade e escala de decibéis; NIDCD (NIH): medição do som.
+CK-12 e Physics LibreTexts: velocidade em meios e temperaturas;
+NCBI/StatPearls: faixa auditiva de 20 a 20.000 Hz.

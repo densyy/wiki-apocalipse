@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 13-025
+TITULO: Como realizar filtração química
+CATEGORIA: 13 - Química e conhecimentos científicos aplicados
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: carvão ativado, pano limpo ou filtro de papel, 2 recipientes
+REVISAO: 2026-11
+PALAVRAS-CHAVE: carvão ativado, filtrar, água, cloro, agrotóxico, adsorção
+==============================================================================
+
+OBJETIVO
+--------
+Reduza cloro, solventes, agrotóxicos, gosto e odor da água passando-a
+por carvão ativado, deixando-a mais aceitável para beber.
+
+QUANDO USAR
+-----------
+Quando a água tem gosto ou cheiro de cloro, terra ou mofo.
+Quando a água vem de torneira tratada e se quer tirar o gosto do cloro.
+Quando há suspeita de solventes ou agrotóxicos em água de poço ou chuva.
+Quando a água foi desinfetada com cloro e se quer melhorar o sabor.
+Quando se quer remover certos químicos antes de ferver e beber.
+
+NAO USE QUANDO
+--------------
+Quando a água tem cheiro forte de gasolina, tinta ou solvente: troque
+de fonte, a filtração caseira não garante segurança.
+Quando a água vem de derramamento industrial ou área contaminada.
+Quando não houver como ferver ou desinfetar a água depois de filtrar.
+Quando o carvão estiver saturado, sujo ou sem procedência conhecida.
+
+MATERIAIS
+---------
+- Carvão ativado granular (de cartucho de filtro, jarra filtrante ou
+  cápsula de farmácia).
+- Pano limpo, filtro de papel de café ou algodão limpo.
+- Dois recipientes limpos com tampa.
+- Funil, ou garrafa plástica cortada ao meio (gargalo serve de funil).
+- Água limpa para lavar o carvão.
+
+PROCEDIMENTO
+------------
+1. Observe a água: se turva, deixe assentar e retire a parte clara.
+2. Coe a água turva por pano limpo ou filtro de papel antes de continuar.
+3. Lave o carvão ativado com água limpa até sair sem pó escuro.
+4. Coloque pano limpo ou filtro de papel no funil, encostando nas paredes.
+5. Encha o funil com carvão ativado até formar camada de aproximadamente
+   10 cm.
+6. Apoie o funil sobre um recipiente limpo.
+7. Despeje a água devagar sobre o carvão, sem jato forte.
+8. Deixe a água escorrer e tocar o carvão pelo maior tempo possível.
+9. Troque o recipiente quando a água ficar limpa, sem pó de carvão.
+10. Repita a passagem se a água ainda tiver gosto ou cheiro de cloro.
+11. Ferva a água filtrada por 1 minuto para matar microrganismos; em
+    altitude alta, ferve por 3 minutos.
+12. Guarde a água fervida em recipiente limpo e fechado.
+13. Lave as mãos depois de manusear o carvão e não inale o pó.
+
+ATENCAO
+-------
+Carvão ativado não mata bactérias, vírus nem parasitas: água só filtrada
+pode ainda causar doença. Ferva ou desinfete sempre antes de beber.
+O carvão remove o cloro que protege a água: depois de filtrar, guarde em
+recipiente fechado e beba logo, ou desinfete de novo.
+Carvão comum de fogueira não é carvão ativado e remove muito menos: não
+conte com ele para tirar químicos da água.
+Carvão ativado remove só alguns metais; chumbo, mercúrio e outros podem
+passar para a água filtrada.
+Não remove nitrato, fluoreto, sal nem dureza (cálcio e magnésio).
+Se o gosto ou cheiro voltar, ou se a água demorar a passar, o carvão
+está saturado: troque o carvão, ele não adsorve mais.
+Nunca filtre água com cheiro de combustível ou solvente para beber: use
+outra fonte. A filtração caseira não retira todos os químicos.
+
+SE NAO TIVER
+------------
+Sem cartucho, use carvão ativado em pó de cápsula de farmácia ou de filtro
+de aquário, preso entre dois panos limpos.
+Sem funil, corte uma garrafa plástica ao meio e use o gargalo como funil.
+Sem carvão ativado, carvão de fogueira moído melhora só gosto, cor e um
+pouco de cloro: não é barreira confiável contra químicos. Mude a fonte.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água coletada sai clara, sem cheiro de cloro e com gosto mais suave.
+A água escorre em fio constante e lento, sem jato rápido.
+Não aparece pó escuro de carvão no recipiente final.
+Depois de ferver, a água não fica com gosto de desinfetante.
+
+FONTES
+------
+Manual "Drinking Water Treatment: Activated Carbon Filtration" da
+University of Nebraska-Lincoln Extension (G1489).
+Diretrizes clínicas da Wilderness Medical Society sobre tratamento de água
+em ambientes remotos, seção de carvão ativado granular.
+Páginas da EPA sobre tecnologias de tratamento de água potável e
+desinfecção de emergência; orientações da CDC sobre tornar a água segura
+em emergências.

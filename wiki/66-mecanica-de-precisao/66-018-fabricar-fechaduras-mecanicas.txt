@@ -1,0 +1,81 @@
+==============================================================================
+CODIGO: 66-018
+TITULO: Como fabricar fechaduras mecânicas
+CATEGORIA: 66 - Mecânica de precisão e instrumentos
+TEMPO: 180 minutos
+RISCO: medio
+EXIGE: chapa de aço, lima, serra, arame de mola, óculos de proteção
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fechadura, segredo, chave, ferrolho, mola, serralheria
+==============================================================================
+
+OBJETIVO
+--------
+Construir uma fechadura de segredo cuja chave recua o ferrolho.
+
+QUANDO USAR
+-----------
+Quando é preciso fechar porta, caixa ou compartimento sem fechadura.
+Quando não há fechadura comercial e é preciso improvisar com sucata.
+Para impedir o acesso casual de quem não tem a chave.
+
+NAO USE QUANDO
+--------------
+Não use para proteger pessoa, arma, dinheiro ou objeto de alto valor.
+Não espere resistência a arrombo, alavanca, broca ou chave mestra.
+Não use onde a falha pode deixar alguém preso ou sem saída.
+
+MATERIAIS
+---------
+- Chapa de aço ou latão para a caixa (lâmina de serra velha serve).
+- Chapa mais espessa para o ferrolho (aço de sucata reaproveitado).
+- Arame de mola para a mola de retorno (elástico forte serve).
+- Lima plana e serra para metal.
+- Parafusos ou rebites para fixar a tampa.
+- Óculos de proteção e luvas para o corte.
+
+PROCEDIMENTO
+------------
+1. Recorte a chapa em retângulo de aproximadamente 8 cm por 4 cm.
+2. Dobre a chapa em três partes: fundo, lateral e guia do ferrolho.
+3. Passe a lima nas bordas para tirar rebarbas cortantes.
+4. Recorte o ferrolho na chapa espessa, com a largura da guia.
+5. Lime o ferrolho até deslizar sem folga e sem travar na guia.
+6. Enrole arame de mola em um parafuso para formar a mola.
+7. Prenda a mola entre a caixa e o ferrolho, na posição fechada.
+8. Recorte a chave em chapa, com haste longa e pala na ponta.
+9. Enfie a chave e marque onde os segredos devem barrá-la.
+10. Lime a chave nesses pontos, abrindo recortes para os segredos.
+11. Fixe pequenos arames dentro da caixa como segredos.
+12. Ajuste os segredos para a chave passar e a lisa parar.
+13. Feche a tampa e prenda com parafusos ou rebites.
+14. Gire a chave: a pala deve empurrar e recuar o ferrolho.
+
+ATENCAO
+-------
+- O risco é de corte com chapa e lima, e de mola que escapa.
+- Use óculos de proteção ao serrar e limar metal.
+- Segure a mola com alicate: ela pode voar e ferir o olho.
+- Retire toda rebarba; borda de chapa corta fundo na mão.
+- Fechadura de segredo é fraca: abre com chave mestra e alavanca.
+- Não substitui fechadura certificada nem protege contra arrombo.
+
+SE NAO TIVER
+------------
+- Sem chapa de aço, use latão ou lâmina de serra velha.
+- Sem arame de mola, use elástico forte preso no ferrolho.
+- Sem parafusos, prenda a tampa com arame torcido.
+- Sem lima, use lixa grossa presa num pedaço de madeira.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- A chave entra, gira e recua o ferrolho com um clique.
+- Ao soltar a chave, a mola devolve o ferrolho à posição fechada.
+- Uma chave lisa para antes de girar e não recua o ferrolho.
+- O ferrolho desliza suave, sem folga que permita forçá-lo.
+
+FONTES
+------
+- Prática consolidada de serralheria e fechaduras de segredo.
+- O mecanismo de segredos é comum em fechaduras antigas de todo o mundo.
+- Resumo operacional: não substitui treinamento nem projeto validado.

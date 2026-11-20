@@ -1,0 +1,68 @@
+==============================================================================
+CODIGO: 08-002
+TITULO: Como fabricar um martelo artesanal
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: madeira dura, serra, faca ou formão, broca ou furador
+REVISAO: 2026-11
+PALAVRAS-CHAVE: martelo, maço, madeira, cabo, cunha, ferramenta
+==============================================================================
+
+OBJETIVO
+--------
+Fabricar um martelo de madeira firme, sem pregos, cola ou corda.
+
+QUANDO USAR
+-----------
+Quando precisar bater em madeira ou entalhe e não houver martelo.
+Quando não houver metal, cola ou corda para improvisar a ferramenta.
+
+NAO USE QUANDO
+--------------
+Não use em pregos, metal ou pedra dura: o maço lasca e pode ferir.
+
+MATERIAIS
+---------
+- Bloco de madeira densa e dura para a cabeça (carvalho, bordo).
+- Haste reta e sem nós de madeira tenaz para o cabo (freixo, carvalho).
+- Serra e faca afiada ou formão.
+- Broca ou furador; pedra para bater a cunha.
+
+PROCEDIMENTO
+------------
+1. Escolha cabeça de madeira densa e cabo reto, sem nós.
+2. Desbaste a cabeça em bloco de aproximadamente 12 a 15 cm por 5 a 6 cm.
+3. Marque um retângulo de aproximadamente 2 por 2,5 cm no centro da face.
+4. Abra um furo passante reto nesse retângulo, do topo à face oposta.
+5. Desbaste uma ponta do cabo em espigo apertado de aproximadamente 3 cm.
+6. Corte uma fenda de aproximadamente 2 cm no espigo, ao longo dele.
+7. Faça uma cunha de madeira dura, fina numa ponta, da largura da fenda.
+8. Enfie o espigo de baixo para cima até passar da cabeça.
+9. Bata a cunha na fenda com a pedra até a cabeça ficar firme.
+10. Serre o excesso da cunha e do espigo rente ao topo.
+
+ATENCAO
+-------
+Cabeça frouxa pode sair voando e ferir grave quem estiver perto.
+Não use antes de testar a fixação com batidas fracas em madeira mole.
+Pare se a cabeça se mexer ou a cunha soltar.
+Formão e faca cortam fundo: corte sempre para fora do corpo.
+Madeira verde encolhe e afrouxa a cabeça: deixe secar antes de montar.
+
+SE NAO TIVER
+------------
+Sem serra, quebre a madeira com pedra e apare com a faca.
+Sem broca, escave o furo com a ponta da faca, em lascas finas.
+Sem cunha de madeira dura, não monte: cabeça mal presa pode voar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A cabeça não se move quando se bate nela com a mão.
+Um golpe fraco em madeira mole não desloca a cabeça.
+
+FONTES
+------
+Prática consolidada de marcenaria manual para maços de encarpuzar
+(referências: Fine Woodworking e The Woodwright's Shop, PBS; FM 21-76,
+Exército dos EUA). Resumo operacional, não substitui treinamento.

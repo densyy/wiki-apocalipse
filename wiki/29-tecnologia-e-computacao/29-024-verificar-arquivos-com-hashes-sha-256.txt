@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 29-024
+TITULO: Como verificar arquivos com hashes SHA-256
+CATEGORIA: 29 - Tecnologia, computação e informática offline
+TEMPO: 15 minutos
+RISCO: baixo
+EXIGE: computador com terminal, arquivo a verificar, hash confiável
+REVISAO: 2026-11
+PALAVRAS-CHAVE: sha-256, hash, checksum, integridade, verificar, arquivo
+==============================================================================
+
+OBJETIVO
+--------
+Confirmar que um arquivo chegou intacto e é igual ao original, comparando o
+hash SHA-256 dele com um valor de referência confiável.
+
+QUANDO USAR
+-----------
+Quando um arquivo foi baixado, copiado ou recebido de outra pessoa.
+Quando um backup precisa ser conferido antes de ser usado.
+Antes de abrir ou executar arquivo recebido por canal duvidoso.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para calcular e comparar hashes.
+Hash igual não prova que o arquivo é inofensivo nem que a fonte é confiável.
+
+MATERIAIS
+---------
+- Computador com terminal ou prompt de comando.
+- O arquivo a verificar e o hash de referência de fonte confiável.
+- Comando de hash do sistema (sha256sum, shasum, certutil, Get-FileHash).
+
+PROCEDIMENTO
+------------
+1. Obtenha o hash SHA-256 de referência de fonte confiável.
+2. Anote os 64 caracteres do hash em papel separado.
+3. Abra o terminal ou o prompt de comando no computador.
+4. Linux: digite sha256sum NOME (troque NOME pelo nome real).
+5. macOS: digite shasum -a 256 NOME (troque NOME pelo nome real).
+6. Windows PowerShell: digite Get-FileHash NOME -Algorithm SHA256.
+7. Windows Prompt: digite certutil -hashfile NOME SHA256.
+8. Leia os 64 caracteres de hash exibidos pelo comando.
+9. Compare com o hash anotado, caractere por caractere.
+10. Aceite o arquivo apenas se as duas sequências forem idênticas.
+
+ATENCAO
+-------
+Um único caractere diferente invalida a conferência: não ajuste o valor.
+Hash igual prova só a identidade do conteúdo, não que o arquivo é seguro.
+Se trocaram arquivo e hash, engana: obtenha o valor em outro canal.
+Erro comum: conferir só parte dos 64 caracteres ou incluir espaços extras.
+Se divergir, pare: não abra nem execute; busque outra cópia e ajuda.
+
+SE NAO TIVER
+------------
+- Sem computador, peça a outra pessoa com terminal que confira.
+- Sem o hash de referência, pare e obtenha o valor antes de usar.
+- Não use sites de hash: enviam o arquivo para fora do seu controle.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O comando imprimiu 64 caracteres hexagonais idênticos, um a um, ao hash
+de referência anotado; nenhum caractere sobrou ou faltou.
+
+FONTES
+------
+NIST FIPS 180-4, Secure Hash Standard (agosto de 2015), define hashes e
+seu uso para detectar alterações. Manual da GNU Coreutils, seção sha2
+utilities, descreve o sha256sum; prática consolidada nos demais sistemas.

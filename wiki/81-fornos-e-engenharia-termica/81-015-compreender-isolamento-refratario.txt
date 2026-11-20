@@ -1,0 +1,82 @@
+==============================================================================
+CODIGO: 81-015
+TITULO: Como compreender isolamento refratário
+CATEGORIA: 81 - Engenharia térmica e fornos industriais
+TEMPO: 40 minutos
+RISCO: baixo
+EXIGE: nada além do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: refratário, isolamento, forno, temperatura, tijolo
+==============================================================================
+
+OBJETIVO
+--------
+Entender como o revestimento refratário protege a estrutura e guarda
+calor dentro do forno.
+
+QUANDO USAR
+-----------
+Ao projetar a parede interna de um forno novo.
+Quando a parte de fora do forno fica quente demais ao toque.
+Ao trocar tijolos rachados ou desprendidos do revestimento.
+Quando o forno demora a esquentar e esfria depressa.
+Antes de escolher entre tijolo refratário, manta e concreto.
+
+NAO USE QUANDO
+--------------
+Não há contraindicacao conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Caderno e lápis para anotar as medidas (celular).
+- Amostra do material refratário disponível para observar.
+- Régua ou trena para medir a espessura da parede.
+- Termômetro de contato para comparar dentro e fora (pirômetro).
+
+PROCEDIMENTO
+------------
+1. Identifique as camadas da parede: interna, isolante e externa.
+2. Entenda que a camada interna recebe o calor direto da chama.
+3. Observe que a camada isolante reduz a passagem de calor.
+4. Note que a camada externa só protege o isolamento.
+5. Meça a espessura total da parede do seu forno.
+6. Compare com a temperatura que o forno precisa alcançar.
+7. Saiba que quanto maior a temperatura, mais refratário é preciso.
+8. Verifique se há rachaduras ou juntas abertas no revestimento.
+9. Observe se a face externa esquenta mais que o normal.
+10. Anote onde o calor escapa com mais facilidade.
+11. Escolha o material pela temperatura e pelo tipo de forno.
+12. Confira se o material suporta choque térmico e umidade.
+13. Registre a espessura que deu melhor resultado.
+14. Guarde as anotações para a próxima reforma do forno.
+
+ATENCAO
+-------
+Refratário e isolante não são a mesma coisa: um aguenta fogo, o outro
+segura calor. Usar apenas um no lugar do outro queima a estrutura.
+Tijolo comum racha e pode se desprender em altas temperaturas.
+Manta ou fibra solta pode irritar pele e pulmão: use máscara e luvas.
+Parede quente por fora indica isolamento falho e risco de queimadura.
+Nunca use material com resina ou plástico dentro da zona de fogo.
+Reforma de revestimento deve ser feita com o forno frio e ventilado.
+
+SE NAO TIVER
+------------
+Sem tijolo refratário, use concreto refratário moldado na obra.
+Sem manta isolante, empilhe tijolo refratário extra como segunda camada.
+Sem termômetro, note quais pontos da parede esquentam mais rápido.
+Sem trena, compare espessuras com a largura dos próprios dedos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A face externa do forno fica apenas morna, não quente.
+O forno alcança a temperatura desejada em menos tempo.
+As juntas e rachaduras do revestimento foram identificadas.
+Você consegue justificar o material escolhido pela temperatura.
+
+FONTES
+------
+Prática consolidada de construção de fornos e escolha de refratários,
+sem documento normativo único. Conceitos correntes de condutividade
+térmica, resistência a choque térmico e isolamento de fornos, como
+apresentados em manuais de cerâmica e de engenharia térmica.

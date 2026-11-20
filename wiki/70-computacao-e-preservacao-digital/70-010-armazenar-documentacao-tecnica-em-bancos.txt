@@ -1,0 +1,80 @@
+==============================================================================
+CODIGO: 70-010
+TITULO: Como armazenar documentação técnica em banco de dados local
+CATEGORIA: 70 - Computação de baixo consumo e preservação digital
+TEMPO: 40 minutos
+RISCO: baixo
+EXIGE: computador com sqlite3, unidade externa, fonte de energia
+REVISAO: 2026-11
+PALAVRAS-CHAVE: banco de dados, sqlite, documentação, preservação, texto
+==============================================================================
+
+OBJETIVO
+--------
+Armazenar e recuperar documentação técnica em um arquivo único,
+portátil e legível sem internet.
+
+QUANDO USAR
+-----------
+Quando é preciso consultar manuais sem acesso à internet.
+Quando folhas soltas e arquivos perdem a ordem.
+Quando se quer um único arquivo fácil de copiar e transportar.
+Quando o computador é modesto e não há servidor disponível.
+
+NAO USE QUANDO
+--------------
+Não use para guardar a aparência original de papéis, imagens ou
+diagramas. O banco guarda texto e dados, não a imagem da página.
+Preserve o arquivo original e registre só os dados no banco.
+
+MATERIAIS
+---------
+- Computador com o programa sqlite3 instalado.
+- Unidade externa para a cópia de segurança (ou outro computador).
+- Fonte de energia estável durante a gravação.
+- Documentos originais em texto, para conferir depois.
+
+PROCEDIMENTO
+------------
+1. Reúna os documentos e separe os que contêm apenas texto.
+2. Crie o banco no terminal com: sqlite3 documentacao.db
+3. Crie a tabela: CREATE TABLE doc (titulo TEXT, fonte TEXT, texto TEXT);
+4. Insira cada texto: INSERT INTO doc VALUES ('titulo','fonte','texto');
+5. Troque 'titulo', 'fonte' e 'texto' pelos dados reais de cada arquivo.
+6. Use duas aspas simples seguidas para escrever uma aspa no texto.
+7. Confira a quantidade com: SELECT count(*) FROM doc;
+8. Confira os títulos com: SELECT titulo FROM doc;
+9. Teste a integridade com: PRAGMA integrity_check;
+10. Feche o programa com: .quit
+11. Copie documentacao.db para a unidade externa.
+12. Anote em papel o nome do arquivo, a data e a origem dos textos.
+
+ATENCAO
+-------
+O banco é um arquivo único: se ele for apagado ou corrompido, todo o
+conteúdo vai junto. Faça a cópia externa antes de desligar.
+Não edite o arquivo .db com editor de texto; use sempre o sqlite3.
+Um INSERT com erro grava dados errados: confira com SELECT.
+Se a integridade falhar, pare e restaure a cópia mais recente.
+
+SE NAO TIVER
+------------
+Sem sqlite3, use um arquivo de texto por documento, com nome numerado,
+e um índice em papel com o assunto de cada um.
+Sem unidade externa, copie para outro computador ou celular.
+Sem energia estável, espere: não grave com bateria fraca.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O comando SELECT lista todos os títulos inseridos.
+PRAGMA integrity_check responde "ok".
+A cópia na unidade externa abre e mostra os mesmos registros.
+
+FONTES
+------
+Documentação oficial do SQLite: formato de arquivo único, portátil e
+estável, com compatibilidade mantida desde 2004.
+Biblioteca do Congresso dos Estados Unidos: SQLite listado como formato
+de armazenamento recomendado para preservação digital.
+Prática consolidada de preservação digital: várias cópias e checagem
+de integridade.

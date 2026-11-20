@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 29-017
+TITULO: Como criar um mecanismo de busca local
+CATEGORIA: 29 - Tecnologia, computação e informática offline
+TEMPO: 25 minutos
+RISCO: baixo
+EXIGE: computador ou celular com Recoll instalado e pasta de documentos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: busca, procurar, índice, texto, offline, arquivos, manual
+==============================================================================
+
+OBJETIVO
+--------
+Criar um índice que encontra palavras dentro dos seus próprios arquivos,
+sem internet.
+
+QUANDO USAR
+-----------
+Quando a coleção for grande e abrir arquivo por arquivo for lento.
+Quando o assunto foi lido antes, mas o nome do arquivo foi esquecido.
+Quando vários manuais e anotações precisam ser consultados depressa.
+
+NAO USE QUANDO
+--------------
+Quando há poucos arquivos: abra a pasta e leia os nomes diretamente.
+Quando os documentos estão corrompidos: o índice não recupera texto perdido.
+
+MATERIAIS
+---------
+- Computador ou celular com o programa Recoll já instalado.
+- Pasta com os documentos de texto que serão buscados.
+- Espaço livre em disco para o arquivo do índice.
+
+PROCEDIMENTO
+------------
+1. Reúna os documentos em uma única pasta, por exemplo documentos/.
+2. Abra o Recoll. Na primeira vez, autorize a criação do índice.
+3. Em Preferências, abra a configuração de índice.
+4. Em Pastas iniciais, aponte somente para a pasta dos documentos.
+5. Inicie a indexação e espere o término; o tempo depende do texto.
+6. No campo de busca, digite uma palavra que aparece no texto.
+7. Abra um resultado e confira se o trecho contém a palavra digitada.
+8. Para atualizar o índice depois de mudar arquivos, rode recollindex.
+9. Para refazer o índice inteiro, rode recollindex -z.
+
+ATENCAO
+-------
+O índice guarda cópias do texto. Proteja a pasta com dados confidenciais.
+Arquivos apagados ou alterados podem sumir da busca até a atualização.
+Com resultados estranhos ou travamentos, refaça o índice com recollindex -z.
+A busca não corrige erros de digitação nem encontra sinônimos; tente outra
+palavra do próprio texto.
+Indexar e buscar gastam bateria. Use o aparelho carregado ou na tomada.
+
+SE NAO TIVER
+------------
+Sem Recoll, use a busca do próprio sistema de arquivos.
+No terminal, entre na pasta e rode: grep -ril "palavra" .
+A opção -i ignora maiúsculas; -l mostra só nomes; sem índice, é lento.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A busca devolve pelo menos um arquivo com o termo digitado.
+Depois de recollindex, um arquivo recém-adicionado aparece nos resultados.
+
+FONTES
+------
+Manual do usuário do Recoll 1.45.0, de Jean-Francois Dockes: capítulos de
+indexação, pastas iniciais, recollindex e segurança do índice.
+Manual GNU Grep 3.12, da Free Software Foundation: opções -r, -i, -l e -F.

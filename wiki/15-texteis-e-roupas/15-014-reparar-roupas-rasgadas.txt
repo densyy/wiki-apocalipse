@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 15-014
+TITULO: Como reparar roupas rasgadas
+CATEGORIA: 15 - Têxteis, roupas e produção artesanal
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: agulha limpa, linha, tesoura, retalho de tecido, superfície firme
+REVISAO: 2026-11
+PALAVRAS-CHAVE: roupa, rasgo, costura, remendo, agulha, linha, consertar
+==============================================================================
+
+OBJETIVO
+--------
+Fechar rasgos e buracos pequenos em roupa para voltar a usar a peça.
+
+QUANDO USAR
+-----------
+Quando a peça rasgou ao longo de uma costura.
+Quando há furo pequeno, com pouca perda de tecido.
+Quando não existe peça substituta e é preciso aproveitar a roupa.
+Quando o rasgo é limpo e as bordas ainda podem ser juntadas.
+
+NAO USE QUANDO
+--------------
+Não use em roupa de proteção contra fogo, produtos químicos ou impacto.
+O reparo caseiro não recupera a função original dessas peças.
+Não use se o tecido estiver podre ou desfeito ao redor do rasgo.
+Não use se houver ferida aberta no local do reparo.
+
+MATERIAIS
+---------
+- Agulha de costura limpa, sem ferrugem e com ponta fina.
+- Linha de costura de cor próxima à do tecido (fio torcido: 15-008).
+- Tesoura pequena e afiada (faca limpa, com muito cuidado).
+- Alfinetes limpos (pontos largos de linha, retirados depois).
+- Retalho de tecido firme, de preferência da própria peça.
+- Dedal (pano limpo dobrado sobre o dedo).
+- Superfície firme, limpa e bem iluminada.
+
+PROCEDIMENTO
+------------
+1. Lave e seque as mãos.
+2. Coloque a peça na superfície firme, com o avesso voltado para cima.
+3. Apare só as pontas de linha soltas; não corte tecido são.
+4. Aproxime as bordas do rasgo com os dedos, sem sobrepô-las.
+5. Prenda as bordas com alfinetes, um de cada lado do rasgo.
+6. Corte aproximadamente 50 cm de linha.
+7. Enfie a linha na agulha e dê um nó pequeno na ponta.
+8. Esconda o nó entre as camadas do tecido.
+9. Traga a agulha à face do tecido, junto a uma borda do rasgo.
+10. Espete aproximadamente 2 mm atrás do ponto anterior.
+11. Avance aproximadamente 5 mm e traga a agulha de volta à face.
+12. Repita os passos 10 e 11 até aproximadamente 2 cm além do rasgo.
+13. Dê dois pontos no mesmo lugar e esconda a ponta do fio no avesso.
+14. Retire os alfinetes e corte o fio rente ao tecido.
+15. Se houver buraco com perda de tecido, apare a borda em retângulo.
+16. Corte um retalho aproximadamente 5 cm maior que o buraco em cada lado.
+17. Dobre aproximadamente 1 cm de cada borda do retalho para o avesso.
+18. Alfinete o retalho sobre o buraco, com o lado limpo virado para fora.
+19. Costure o contorno do retalho com ponto atrás, rente à borda.
+20. Retire os alfinetes e confira a frente e o avesso da peça.
+
+ATENCAO
+-------
+Agulha, alfinete e tesoura furam ou cortam a pele. Pare ao se furar.
+Lave o ferimento com água e sabão. Procure ajuda se for profundo ou sujo.
+Não use agulha, alfinete ou linha enferrujada, suja ou sem limpeza.
+Não leve agulha, alfinete ou linha à boca. Use dedal para empurrar a agulha.
+Não puxe o fio com força: o tecido franze e o rasgo pode aumentar.
+Se o rasgo crescer durante a costura, pare e troque a peça.
+O reparo não devolve resistência a roupa de proteção.
+
+SE NAO TIVER
+------------
+Sem linha, use fio torcido à mão ou fio de costura escondida (15-008).
+Sem agulha limpa, não improvise com arame ou objeto enferrujado (15-012).
+Sem retalho, corte tecido do forro de um bolso ou da bainha da própria peça.
+Sem alfinetes, prenda com pontos largos de linha e retire-os depois.
+Sem dedal, dobre um pano limpo sobre o dedo que empurra a agulha.
+Sem agulha e sem linha, não existe reparo durável: troque a peça.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As bordas do rasgo ficam juntas, sem frestas nem sobreposição visível.
+Os pontos ficam regulares e o tecido ao redor não está franzido.
+A costura não abre quando as bordas são puxadas levemente com as mãos.
+A ponta do fio está escondida no avesso, sem pontas soltas.
+
+FONTES
+------
+Publicação CT-MMB.147 "Clothing Repair" (University of Kentucky
+Cooperative Extension, 2007), que cita o boletim número 107 "Clothing
+Repairs" do USDA (1976), e CT-MMB.002 "Hand Stitches" (University of
+Kentucky Cooperative Extension, revisada em 2018).
+Prática consolidada de reparo manual. Resumo operacional, não substitui
+treinamento.

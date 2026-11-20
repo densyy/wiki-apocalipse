@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 52-012
+TITULO: Como compreender o funcionamento de bombas
+CATEGORIA: 52 - Física aplicada e princípios fundamentais
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bomba, sucção, recalque, pressão, rotor, cavitação, vazão
+==============================================================================
+
+OBJETIVO
+--------
+Entender como uma bomba eleva líquido de um ponto baixo a outro mais alto.
+
+QUANDO USAR
+-----------
+Quando escolher entre bomba centrífuga e bomba de deslocamento positivo.
+Quando a bomba não entrega água e você quer saber o motivo.
+Quando a bomba faz barulho, vibra ou perde vazão.
+Quando precisa entender altura de elevação e perdas no tubo.
+
+NAO USE QUANDO
+--------------
+Não há contraindicacao para compreender o princípio. Não use o texto para
+abrir, reparar ou ligar equipamento energizado.
+
+MATERIAIS
+---------
+- Nenhum material obrigatório.
+- Papel e lápis para desenhar o caminho do líquido (opcional).
+- Recipiente com água para observar o fluxo (opcional).
+
+PROCEDIMENTO
+------------
+1. Identifique as duas zonas de toda bomba: baixa pressão na entrada,
+   chamada sucção, e alta pressão na saída, chamada recalque.
+2. Entenda que a bomba não puxa o líquido: a pressão do reservatório empurra
+   o líquido para a zona de baixa pressão.
+3. Desenhe o caminho: reservatório, tubo de sucção, bomba, tubo de recalque.
+4. Declare a regra: onde a velocidade aumenta, a pressão cai; onde diminui,
+   a pressão sobe.
+5. Reconheça a bomba centrífuga: o rotor com pás gira e acelera o líquido
+   do centro para a borda.
+6. Observe a voluta: a carcaça desacelera o líquido e transforma velocidade
+   em pressão na saída.
+7. Esforce a centrífuga: encha a bomba de líquido antes de ligar, porque ar
+   na câmara impede a sucção.
+8. Reconheça a de deslocamento positivo: uma câmara de volume fixo prende
+   uma porção de líquido e a empurra com válvulas unidirecionais.
+9. Compare: na centrífuga a vazão muda com a pressão; na de deslocamento
+   positivo a vazão é quase constante por rotação.
+10. Identifique a cavitação: se a pressão na entrada cair abaixo da pressão
+    de vapor, bolhas estouram e erodem o rotor.
+11. Relacione a altura: a bomba vence a diferença de nível mais o atrito
+    do tubo.
+
+ATENCAO
+-------
+Entender o princípio não autoriza abrir, reparar ou ligar a bomba.
+Nunca abra a caixa de uma bomba ligada à rede: desligue e trave a energia.
+A sucção não funciona por vácuo perfeito: se a altura for grande, a bomba
+não enche e entra em cavitação.
+Cavitação erode o rotor, gera ruído e vibração e reduz a vazão; ao notar
+isso, pare e corrija a sucção.
+A pressão de vapor sobe com a temperatura: líquido quente cavita mais fácil.
+Bomba de deslocamento positivo com saída fechada pode romper a tubulação;
+use válvula de alívio.
+Este texto explica o funcionamento, não ensina dimensionamento nem reparo.
+
+SE NAO TIVER
+------------
+Não há material ideal exigido. Sem papel, desenhe o caminho mentalmente.
+Sem recipiente, observe uma torneira: a água sai por diferença de pressão.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue apontar qual lado é sucção e qual é recalque e dizer: na
+entrada a pressão é menor, na saída é maior, e a voluta transforma
+velocidade em pressão.
+
+FONTES
+------
+DOE Fundamentals Handbook, mecânica de fluidos, DOE-HDBK-1018/1-93,
+seções sobre bombas centrífugas e de deslocamento positivo; manual do USNRC
+Technical Training Center sobre bombas; apostila Bombas e Instalações de
+Bombeamento da EEL-USP. Resumo operacional, não substitui treinamento.

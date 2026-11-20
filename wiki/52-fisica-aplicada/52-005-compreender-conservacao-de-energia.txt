@@ -1,0 +1,71 @@
+==============================================================================
+CODIGO: 52-005
+TITULO: Como compreender conservação de energia
+CATEGORIA: 52 - Física aplicada e princípios fundamentais
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: energia, conservação, trabalho, calor, movimento
+==============================================================================
+
+OBJETIVO
+--------
+Observar a energia mudar de forma e entender que a soma se conserva.
+
+QUANDO USAR
+-----------
+Quando precisar entender para onde vai a energia que parece sumir.
+Quando quiser explicar por que uma maquina nao devolve todo o esforco.
+Quando ensinar a ideia de conservacao de energia a outra pessoa.
+
+NAO USE QUANDO
+--------------
+Quando precisar de valores exatos de energia sem instrumentos de medida.
+Quando o sistema perde calor para o ambiente e voce nao acompanha.
+Quando o assunto envolve nucleos ou velocidade perto da luz: a massa
+entra na conta e a mecanica classica nao basta.
+
+MATERIAIS
+---------
+- Um objeto pequeno que possa cair, como pedra ou bola.
+- Uma rampa simples, como uma tabela inclinada (opcional).
+- Um elastico ou pedaco de corda (opcional).
+- As proprias maos para esfregar, em superficie firme e sem vidro.
+
+PROCEDIMENTO
+------------
+1. Levante o objeto a cerca de um metro do chao e segure firme.
+2. Observe que, parado e alto, ele guarda energia potencial.
+3. Solte o objeto e veja ele ganhar velocidade ao cair.
+4. Repita de mais alto e veja que chega com mais velocidade.
+5. Coloque o objeto no topo da rampa e solte sem empurrar.
+6. Veja ele descer, subir um pouco e parar antes da altura inicial.
+7. Esfregue as maos por alguns segundos e sinta o calor.
+8. Estique o elastico e solte; anote as formas de energia vistas.
+
+ATENCAO
+-------
+A energia nao some: ela muda de forma ou passa para o ambiente.
+O calor do atrito e energia que saiu da parte util do sistema.
+Nenhuma maquina devolve todo o esforco na forma util.
+A conservacao vale para um sistema fechado: defina o limite primeiro.
+Nao solte objeto pesado perto de pes, vidro ou outras pessoas.
+Nao estique elastico perto do rosto: ele pode voltar e ferir.
+
+SE NAO TIVER
+------------
+Sem rampa, use a queda livre da mao para ver a troca de energia.
+Sem elastico, esfregue as maos para sentir o calor do atrito.
+Sem objeto, use o proprio corpo: agache e levante devagar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Voce consegue apontar a forma de energia antes e depois de cada acao.
+O objeto solto de mais alto chega ao chao com mais velocidade.
+As maos aquecem depois de esfregadas.
+
+FONTES
+------
+Principio da conservacao de energia da mecanica classica.
+Pratica consolidada de ensino de fisica, sem documento unico.

@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 09-034
+TITULO: Como estimar distâncias caminhando
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 20 minutos
+RISCO: medio
+EXIGE: trena ou fita métrica, terreno plano de 100 m, papel e lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: distância, passos, contar passos, passada, navegação, medir
+==============================================================================
+
+OBJETIVO
+--------
+Ao terminar, estime a distância andada sem GPS, mapa ou celular com sinal.
+
+QUANDO USAR
+-----------
+Quando não há GPS, celular com sinal ou mapa com a distância do trecho.
+Quando a visibilidade cai e o ponto de chegada não pode ser visto.
+Quando é preciso saber se já andou a distância planejada até um alvo.
+
+NAO USE QUANDO
+--------------
+Quando um erro de metros põe a vida em risco: use também mapa e bússola.
+Quando o terreno exige desvios: a contagem não substitui a observação.
+
+MATERIAIS
+---------
+- Trena ou fita métrica de aproximadamente 100 m (corda medida).
+- Papel e lápis para anotar a contagem.
+- Pedras, nós em corda ou miçangas para marcar cada 100 m andados.
+
+PROCEDIMENTO
+------------
+1. Marque um trecho reto e plano de aproximadamente 100 m no chão.
+2. Meça esses 100 m com a trena; não use seus passos para medir.
+3. Calce o calçado e carregue a mochila que usará na caminhada real.
+4. Caminhe os 100 m em passo normal, sem correr nem alongar o passo.
+5. Conte uma passada cada vez que o pé esquerdo tocar o chão.
+6. Uma passada vale dois passos: vá e volte três vezes contando.
+7. Anote as contagens, some-as e divida pelo número de voltas.
+8. O resultado é sua passada por 100 m; decore-o e anote no papel.
+9. Na caminhada real, conte com o mesmo pé e do mesmo jeito.
+10. A cada 100 m andados, coloque uma pedra no bolso ou faça um nó.
+11. Converta as passadas avulsas em metros e some ao total das pedras.
+
+ATENCAO
+-------
+Erro comum: confundir passo com passada. Escolha um pé e nunca troque.
+Subida encurta o passo; areia, lama, neve e mato também encurtam.
+Fadiga, mochila pesada e calçado novo mudam a contagem: recalibre.
+A contagem dá só a distância, não a direção: use bússola e referências.
+Se o total divergir do mapa, pare e reavalie antes de seguir no escuro.
+
+SE NAO TIVER
+------------
+Sem trena, use uma distância conhecida: quadra, ponte ou dois marcos.
+Sem pedras, conte em voz alta e anote; se o terreno mudar, recalibre.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ao calibrar, as contagens repetidas dão números próximos.
+Na caminhada, o total bate com a distância de um ponto conhecido.
+
+FONTES
+------
+Manual FM 3-25.26 de navegação terrestre, Exército dos EUA.
+Manual TC 3-25.26 do Exército dos EUA; guia EO M222.04 do Cadete canadense.
+Extensão NC State University e guia do Wisconsin DNR sobre passos.

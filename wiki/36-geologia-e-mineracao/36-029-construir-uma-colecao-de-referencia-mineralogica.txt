@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 36-029
+TITULO: Como construir uma coleção de referência mineralógica
+CATEGORIA: 36 - Geologia, mineração e recursos naturais
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: caderno, lupa, placa de risca, martelo, óculos de proteção
+REVISAO: 2026-11
+PALAVRAS-CHAVE: mineral, coleção, referência, risca, dureza, rotular
+==============================================================================
+
+OBJETIVO
+--------
+Montar um conjunto de minerais identificados e catalogados para servir de
+comparação no campo.
+
+QUANDO USAR
+-----------
+Quando é preciso reconhecer minerais sem acesso a um laboratório.
+Quando se estuda geologia ou se trabalha com prospecção e mineração.
+Quando se quer preservar espécimes de uma região antes que o local mude.
+Quando faz falta um padrão visual para comparar amostras suspeitas.
+
+NAO USE QUANDO
+--------------
+Quando não há permissão de coleta no local.
+Quando o espécime vem de mina abandonada, poço ou área cercada.
+Quando há suspeita de mineral radioativo, asbesto ou minério de urânio.
+Nunca colete dentro de minas, poços ou áreas isoladas.
+
+MATERIAIS
+---------
+- Caderno de campo e lápis.
+- Lupa de bolso (ou lente de aumento).
+- Placa de risca de porcelana sem esmalte (ou cerâmica fosca).
+- Faca de aço para teste de dureza.
+- Martelo de geólogo (ou martelo comum).
+- Óculos de proteção e luvas de couro.
+- Caixas com divisórias (ou caixas de papelão).
+- Etiquetas de papel e fita adesiva.
+- Ímã pequeno e escova macia (opcionais).
+
+PROCEDIMENTO
+------------
+1. Defina o escopo da coleção: região, tipo de mineral e quantidade.
+2. Escolha apenas áreas permitidas, como praias, rios e taludes naturais.
+3. Nunca entre em mina, poço, galeria ou área cercada ou sinalizada.
+4. Confira o solo e a presença de rochas soltas antes de batê-las.
+5. Use óculos de proteção e luvas ao quebrar rochas com martelo.
+6. Bata na borda da rocha, nunca na face exposta.
+7. Retire um fragmento com cristal visível de aproximadamente 3 cm.
+8. Limpe o espécime com água e escova macia, sem produtos químicos.
+9. Observe o brilho: metálico, como metal polido, ou não metálico.
+10. Anote a cor da risca, que é a cor do pó deixado na placa de porcelana.
+11. Teste a dureza, que é a resistência a arranhões, com a ponta da faca.
+12. Observe a clivagem: tendência a quebrar em planos lisos e paralelos.
+13. Aproxime o ímã e anote se o mineral atrai ou não.
+14. Compare as propriedades com uma tabela de identificação de minerais.
+15. Atribua um número único e registre tudo no caderno.
+16. Escreva o número na etiqueta e cole na caixa do espécime.
+17. Guarde o espécime separado, seco e longe de luz direta.
+
+ATENCAO
+-------
+Nunca entre em mina abandonada, poço, galeria ou área cercada.
+Poços e galerias podem ter falta de oxigênio, gases letais e desabamento.
+O afogamento em poços e pedreiras alagadas é a principal causa de morte.
+Não colete onde houver cheiro de gás, explosivos velhos ou madeira podre.
+Poeira de minerais pode conter sílica ou asbesto e danificar os pulmões.
+Use máscara e molhe a superfície ao quebrar rocha que solta pó.
+Nunca prove minerais: alguns são venenosos, como os que contêm chumbo.
+Se houver corte, poeira inalada ou queimadura, pare e procure atendimento.
+
+SE NAO TIVER
+------------
+Sem placa de risca, use cerâmica fosca ou papelão grosso.
+Sem lupa, use boa luz, mas não invente detalhes que não consegue ver.
+Sem martelo, cole apenas fragmentos já soltos no solo.
+Sem caixa própria, use caixas de papel com divisórias de papelão.
+Sem etiqueta, escreva o número na caixa com lápis.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada espécime tem número único e etiqueta legível.
+O caderno traz nome, local, data e pelo menos três propriedades observadas.
+Os espécimes estão separados, secos e sem sinais de umidade ou oxidação.
+É possível reconhecer um mineral conhecido comparando com a coleção.
+
+FONTES
+------
+Prática consolidada de coleta e identificação de minerais em campo.
+Identificação: Geosciences LibreTexts (OpenGeology).
+Segurança em minas: Mine Safety and Health Administration (MSHA).
+Riscos de minas e trilhas: National Park Service (NPS).
+Este texto é um resumo operacional, não substitui treinamento.

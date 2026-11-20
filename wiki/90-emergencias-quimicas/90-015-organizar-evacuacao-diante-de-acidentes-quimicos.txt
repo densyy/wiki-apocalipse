@@ -1,0 +1,81 @@
+==============================================================================
+CODIGO: 90-015
+TITULO: Como organizar evacuação diante de acidentes químicos
+CATEGORIA: 90 - Emergências químicas, industriais e ambientais
+TEMPO: 45 minutos
+RISCO: alto
+EXIGE: plano de evacuação, meios de comunicação e ponto de encontro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: evacuação, acidente, gás, abrigo, rota, defesa civil
+==============================================================================
+
+OBJETIVO
+---------
+Organizar a saída segura de pessoas de área afetada por acidente químico.
+
+QUANDO USAR
+-----------
+Quando houver ordem oficial de evacuação da região.
+Ao perceber nuvem tóxica, cheiro forte ou vazamento próximo.
+Quando o acesso a uma área fechada estiver comprometido por gás.
+Ao abrigar crianças, idosos ou pessoas com mobilidade reduzida.
+Durante simulados ou quando o risco químico for iminente.
+
+NAO USE QUANDO
+--------------
+Não evacue para o lado de baixo do vento se houver nuvem tóxica.
+Não volte ao local para buscar objetos depois de iniciada a evacuação.
+Não improvise rota sem checar se há bloqueio ou contaminação.
+
+MATERIAIS
+---------
+- Plano de evacuação com rotas e pontos de encontro definidos.
+- Meio de comunicação para avisar moradores e autoridades.
+- Lista de pessoas que precisam de ajuda para se deslocar.
+- Kit básico com água, medicamentos e documentos pessoais.
+- Roupas e calçados para trocar ao sair da área exposta.
+
+PROCEDIMENTO
+------------
+1. Receba e confirme a orientação da defesa civil antes de agir.
+2. Defina ponto de encontro seguro e distante da área afetada.
+3. Identifique a direção do vento e escolha rota contra o vento.
+4. Avise moradores com mensagem curta e objetiva.
+5. Priorize crianças, idosos, gestantes e pessoas com deficiência.
+6. Feche portas e janelas ao sair, se ainda houver tempo seguro.
+7. Desligue equipamentos que puxem ar do exterior, se possível.
+8. Leve apenas o essencial: documentos, remédios e água.
+9. Cubra nariz e boca com pano úmido apenas como medida temporária.
+10. Siga pela rota combinada sem correr e sem empurrar.
+11. Evite lugares baixos, onde gases podem se acumular.
+12. Confira a lista de pessoas no ponto de encontro e informe ausências.
+13. Aguarde liberação oficial antes de retornar às casas.
+
+ATENCAO
+-------
+Um pano úmido não substitui máscara e protege pouco contra gases.
+Vapores podem ser mais densos que o ar e se acumular em porões e valas.
+Nunca use elevador se houver risco de corte de energia.
+Pessoas expostas devem trocar de roupa e lavar pele e cabelo.
+Evite aglomeração no ponto de encontro para reduzir a exposição.
+Não permita que curiosos entrem na área evacuada.
+Se alguém desmaiar, não entre sem proteção: peça socorro especializado.
+
+SE NAO TIVER
+------------
+Sem orientação oficial, mantenha distância e procure abrigo fechado.
+Sem rota definida, afaste-se em linha reta para o lado contra o vento.
+Sem meio de comunicação, envie pessoa a posto oficial mais próximo.
+Sem transporte, organize ajuda entre vizinhos para quem não consegue andar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Todas as pessoas foram contabilizadas no ponto de encontro seguro.
+A rota escolhida ficou contra o vento e livre de áreas baixas.
+Ninguém retornou à área antes da liberação oficial.
+
+FONTES
+------
+Resumo de procedimentos de evacuação e abrigo difundidos por defesa civil e
+órgãos de emergência. Orientação oficial, rota contra o vento e conferência
+de pessoas são condutas consolidadas em manuais de resposta a acidentes.

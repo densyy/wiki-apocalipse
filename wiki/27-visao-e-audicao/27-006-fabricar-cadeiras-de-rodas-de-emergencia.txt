@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 27-006
+TITULO: Como fabricar cadeiras de rodas de emergência
+CATEGORIA: 27 - Visão, audição e necessidades especiais
+TEMPO: 180 minutos
+RISCO: alto
+EXIGE: rodas de bicicleta, madeira resistente, serrar e furar, pano limpo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: cadeira de rodas, mobilidade, rodas, assento, ajuda
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma cadeira de rodas temporária e firme para deslocar uma pessoa
+em terreno plano, com ajuda de outra pessoa.
+
+QUANDO USAR
+-----------
+Quando a pessoa não consegue andar e precisa sair do leito ou do abrigo.
+Quando não existe cadeira de rodas e o trajeto é curto e plano.
+Durante evacuação de emergência, com outra pessoa segurando o encosto.
+Quando a cadeira comercial quebrou e é preciso um substituto temporário.
+
+NAO USE QUANDO
+--------------
+Não use se houver suspeita de fratura, lesão na coluna ou dor ao sentar.
+Não use se a pessoa não mantém o tronco ereto nem segura as rodas.
+Não use como solução definitiva: cadeira adequada exige avaliação.
+
+MATERIAIS
+---------
+- Duas rodas de bicicleta iguais com pneu cheio (ou rodas de carrinho).
+- Dois eixos com porcas e arruelas (ou eixos de metal da bicicleta).
+- Madeira resistente ou bambu íntegro (ou tubo de PVC rígido).
+- Tábua ou lona resistente para assento e encosto (ou compensado).
+- Espuma ou pano limpo para acolchoar (ou coberta dobrada).
+- Parafusos, porcas, arruelas e pregos (ou corda e arame resistentes).
+- Freio de bicicleta para cada roda (ou cunha de madeira para travar).
+- Serra, furadeira, chave de fenda e chave de boca.
+- Luvas e óculos de proteção para cortar e furar.
+
+PROCEDIMENTO
+------------
+1. Sente a pessoa em cadeira firme, com os pés apoiados no chão.
+2. Meça e anote a largura dos quadris, a altura do quadril e a
+distância da parte baixa das costas até o joelho.
+3. Escolha duas rodas iguais, com pneu cheio e sem empeno lateral.
+4. Meça o raio de uma roda, do chão até o centro do eixo, e anote.
+5. Corte duas barras laterais com a altura do quadril mais o raio.
+6. Corte duas pernas dianteiras com a altura do quadril anotada.
+7. Corte duas travessas com a largura dos quadris mais a espessura
+das barras.
+8. Corte a tábua do assento com a largura e a profundidade anotadas.
+9. Parafuse a tábua nas travessas, na altura do quadril.
+10. Fixe as pernas dianteiras nas travessas com parafusos e porcas.
+11. Pregue uma travessa baixa entre as pernas para apoiar os pés.
+12. Prenda as barras laterais na traseira da tábua, na altura do
+assento.
+13. Marque o raio na barra lateral a partir da ponta que vai ao chão.
+14. Fure a barra lateral na marca, de fora para dentro.
+15. Passe o eixo pelo furo, coloque a roda e aperte as porcas.
+16. Repita na outra roda; gire as duas e confirme que giram livres.
+17. Instale um freio em cada roda traseira e aperte bem os parafusos.
+18. Corte barras de encosto até o meio das costas da pessoa sentada.
+19. Prenda as barras, fixe a lona e cubra com pano limpo e espuma.
+20. Peça ajuda no primeiro teste; avance devagar em terreno plano.
+
+ATENCAO
+-------
+Improvisada, a cadeira não substitui avaliação e acompanhamento.
+Assento estreito ou sem acolchoamento pode causar úlcera de pressão.
+Encosto com altura errada pode causar dor e contratura nas costas.
+Eixo frouxo, roda sem freio ou madeira rachada podem derrubar a pessoa.
+Não use em escadas, rampas íngremes, barro ou terreno irregular.
+Pare se aparecer dor ou vermelhidão; retire a pessoa e procure ajuda.
+
+SE NAO TIVER
+------------
+Sem rodas de bicicleta, use rodas maciças de carrinho; o impacto é maior.
+Sem freio, prenda cunha de madeira; nunca desça rampa com cunha.
+Sem espuma, dobre pano limpo em camadas e prenda bem ao assento.
+Sem madeira, use bambu íntegro ou tubo PVC; nunca madeira podre.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A pessoa senta com tronco ereto, pés apoiados e sem apertar nos quadris.
+As rodas giram livres, ficam alinhadas e a cadeira anda reto no plano.
+Cada freio trava a roda com a cadeira parada.
+Ao levantar, a pele sob o assento não está vermelha e não há dor.
+
+FONTES
+------
+Diretrizes de cadeiras de rodas da OMS (2023), com ISPO e ISWP:
+avaliação, adaptação e treinamento são necessários.
+Folha informativa da OMS sobre tecnologia assistiva (2024): cadeira
+adequada reduz úlceras de pressão; inclua em respostas humanitárias.
+Relatório Global sobre Tecnologia Assistiva, OMS e UNICEF (2022).
+Desenho e medidas são prática consolidada: meça a pessoa.

@@ -1,0 +1,75 @@
+==============================================================================
+CODIGO: 49-015
+TITULO: Como compreender o tratamento industrial de água
+CATEGORIA: 49 - Engenharia química e processos industriais
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: agua, tratamento, coagulacao, filtro, cloro, industria
+==============================================================================
+
+OBJETIVO
+--------
+Entender as etapas do tratamento industrial de agua e o que cada uma remove.
+
+QUANDO USAR
+-----------
+Quando precisa acompanhar o funcionamento de uma estacao de tratamento.
+Quando avalia laudo de analise de agua usada no processo industrial.
+Quando negocia com fornecedor de equipamento ou de agua tratada.
+Quando planeja reuso de agua dentro da fabrica.
+
+NAO USE QUANDO
+--------------
+Esta leitura nao habilita a operar ou a projetar uma estacao.
+Nao substitui projeto de engenheiro nem analise de laboratorio.
+Nao use este texto para declarar potabilidade de agua suspeita.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Reconheca a captacao e o gradamento na entrada da estacao.
+2. Identifique a coagulacao: adiciona-se coagulante que desestabiliza
+   as particulas suspensas.
+3. Observe a floculacao: a mistura lenta reune os flocos em grumos
+   maiores e mais pesados.
+4. Localize a sedimentacao ou flotacao, onde os flocos se separam.
+5. Verifique a filtracao: o leito filtrante retem as particulas finas.
+6. Confira a desinfeccao por cloro, ozonio ou luz ultravioleta.
+7. Note a correcao de pH e a fluoretacao, quando aplicaveis.
+8. Em agua industrial, identifique as etapas avancadas: abrandamento,
+   troca ionica e osmose reversa.
+9. Relacione cada etapa ao contaminante que ela efetivamente remove.
+10. Consulte o laudo de analise para conferir o resultado final.
+
+ATENCAO
+-------
+Etapas diferentes removem contaminantes diferentes e nao se substituem.
+Coagulacao e filtracao nao matam microrganismos por si so.
+Desinfeccao nao remove metais pesados, sal nem agrotoxicos.
+Cloro em excesso gera subprodutos; controle dose e tempo de contato.
+Nunca declare agua potavel apenas pela aparencia ou pelo odor.
+Parametros de projeto devem vir de norma e de engenheiro responsavel.
+Este texto e visao geral, nao substitui laudo nem treinamento.
+
+SE NAO TIVER
+------------
+Sem laudo de analise, trate qualquer conclusao como provisoria.
+Use observacoes visuais so como pista, nunca como prova de seguranca.
+Procure laboratorio ou orgao de controle para analisar a agua.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Voce consegue nomear cada etapa e dizer qual contaminante ela remove.
+Voce associa desinfeccao a microrganismos e filtracao a particulas.
+Voce reconhece que agua limpa nao e sinonimo de agua segura.
+
+FONTES
+------
+Pratica consolidada de engenharia sanitaria e tratamento de agua.
+Referencias usuais da area: OMS, EPA e manuais de engenharia sanitaria.
+Este texto e resumo operacional, nao substitui norma ou treinamento.

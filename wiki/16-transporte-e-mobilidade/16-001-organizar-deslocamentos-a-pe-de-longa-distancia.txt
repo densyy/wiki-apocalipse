@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 16-001
+TITULO: Como organizar deslocamentos a pé de longa distância
+CATEGORIA: 16 - Transporte e mobilidade
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: mapa, caderno, lápis, calçados firmes, água, lanterna
+REVISAO: 2026-11
+PALAVRAS-CHAVE: caminhada, rota, mapa, água, descanso, marcha, navegação
+==============================================================================
+
+OBJETIVO
+--------
+Planejar e executar com segurança uma caminhada de várias horas, com rota,
+ritmo, água e pontos de parada definidos antes de sair.
+
+QUANDO USAR
+-----------
+Quando precisar sair a pé por um dia inteiro ou mais sem veículo.
+Quando as rotas habituais podem estar bloqueadas ou inseguras.
+Quando se desloca em grupo com pessoas de ritmos diferentes.
+Quando a meta é chegar com energia para o dia seguinte.
+Quando há tempo para planejar a rota antes de partir.
+
+NAO USE QUANDO
+--------------
+Quando ferimento, febre ou fraqueza impedem caminhar com segurança.
+Quando não há água suficiente para a distância prevista.
+Quando a rota passa por área de conflito, minas ou deslizamento ativo.
+Quando não há como pedir ajuda e o risco da região é desconhecido.
+
+MATERIAIS
+---------
+- Mapa impresso da região (ou croqui desenhado à mão).
+- Bússola (ou marcos fixos visíveis para se orientar).
+- Caderno e lápis para anotar a rota.
+- Calçados firmes já usados (nunca calçados novos).
+- Recipiente de água com água suficiente para a travessia.
+- Lanterna ou tocha com bateria reserva.
+- Apito para sinalizar.
+- Roupa leve e proteção contra sol e chuva.
+- Curativos e gaze para feridas nos pés.
+
+PROCEDIMENTO
+------------
+1. Defina o destino e marque o ponto de chegada no mapa.
+2. Trace a rota por estradas, rios ou trilhas conhecidas.
+3. Meça a distância com a escala do mapa e anote o total.
+4. Conte aproximadamente 4 a 5 km por hora em terreno plano.
+5. Some mais tempo em subidas, pedras, lama ou calor forte.
+6. Comece cedo e evite caminhar no calor do meio do dia.
+7. Marque no mapa água, sombra e abrigo a cada poucas horas.
+8. Defina o ponto de retorno: onde você desiste e volta.
+9. Calcule a água necessária e leve mais do que o previsto.
+10. Coloque os itens pesados no alto, perto das costas.
+11. Calce os sapatos usados e ajuste as meias antes de sair.
+12. Caminhe em ritmo constante e descanse um pouco a cada hora.
+13. Beba água em goles durante a marcha, não espere a sede.
+14. Pare se aparecerem tontura, cãibras ou dor forte nos pés.
+15. Ao anoitecer, pare e monte abrigo antes de ficar sem luz.
+
+ATENCAO
+-------
+Calor e falta de água matam: tontura, dor de cabeça, suor intenso e
+cãibras são sinais de alerta. Pare e descanse na sombra.
+Urina escura indica falta de água; urina clara indica hidratação.
+Sem água suficiente, não comece: encurte a rota ou espere.
+Bolhas e feridas nos pés pioram depressa; trate antes de continuar.
+Para bolhas e feridas, veja 16-003 e 16-004 como leitura extra.
+Nunca confie só no celular: a bateria acaba; leve mapa e bússola.
+Terreno desconhecido esconde buracos, animais e deslizamentos.
+Se alguém desmaiar ou se confundir, pare o grupo e busque ajuda.
+Não caminhe de noite em terreno irregular sem lanterna e sem rota.
+
+SE NAO TIVER
+------------
+Sem mapa impresso, desenhe um croqui com rios, estradas e marcos.
+Sem bússola, oriente-se por marcos fixos; não confie só na memória.
+Sem água suficiente, não improvise: encurte a rota ou espere.
+Sem calçado firme, limite-se a pouca distância; pano não protege.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você chegou ao destino antes do anoitecer com água e energia restantes.
+O grupo permaneceu junto e ninguém ficou para trás sem apoio.
+A urina ficou clara e não houve tontura, cãibras ou feridas graves.
+O mapa ou croqui mostra a rota andada e os pontos de parada usados.
+
+FONTES
+------
+Prática consolidada de planejamento de marcha e navegação terrestre.
+FEMA (Ready.gov): kit de emergência com água, mapa local, calçados
+firmes e apito para pedir ajuda.
+CDC: orientações sobre calor, hidratação, cor da urina e sinais de
+superaquecimento durante atividade ao ar livre.

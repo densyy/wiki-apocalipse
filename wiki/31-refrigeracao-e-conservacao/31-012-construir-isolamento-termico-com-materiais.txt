@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 31-012
+TITULO: Como construir isolamento térmico com materiais naturais
+CATEGORIA: 31 - Refrigeração e conservação térmica
+TEMPO: 2 horas
+RISCO: baixo
+EXIGE: palha seca ou fibras, ripas, pano, barro ou cal, corda, luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: isolamento, térmico, palha, fibra, barro, frio, calor
+==============================================================================
+
+OBJETIVO
+--------
+Montar camada isolante seca que reduz a entrada de calor ou de frio.
+
+QUANDO USAR
+-----------
+Ao vedar parede ou teto de um abrigo improvisado.
+Ao proteger do calor uma despensa sem geladeira.
+
+NAO USE QUANDO
+--------------
+Encostado a fogão, fogueira, tubo quente ou tomada.
+Em local que alaga ou fica molhado sem condição de secar.
+
+MATERIAIS
+---------
+- Palha seca, fibra de coco, lã de ovelha ou serragem.
+- Ripas de madeira ou bambu para a armação.
+- Pano, estopa ou papel pardo para conter o enchimento.
+- Corda, luvas e barro ou cal para rebocar (opcional).
+
+PROCEDIMENTO
+------------
+1. Escolha material seco, solto, sem mofo e sem cheiro estranho.
+2. Espalhe o material ao sol por aproximadamente 1 dia se úmido.
+3. Monte armação de ripas com 20 a 30 cm de espessura.
+4. Pregue ou amarre as ripas, formando painéis firmes.
+5. Forre o fundo do painel com pano ou papel, sem furos.
+6. Preencha com o material solto, sem amassar nem compactar.
+7. Feche com pano e costure ou amarre bem as bordas.
+8. Reboque com barro ou cal e instale longe de fogo e da chuva.
+
+ATENCAO
+-------
+Material molhado perde o poder de isolar, apodrece e cria mofo.
+Mofo dentro da parede pode causar tosse e falta de ar.
+Palha, fibra, serragem e lã pegam fogo com facilidade.
+Nunca encoste em fogão ou chama; afaste aproximadamente 30 cm.
+Poeira irrita olhos e vias respiratórias; use luvas e pano no rosto.
+Isolamento não produz frio: não substitui sombra, ventilação e vedação.
+
+SE NAO TIVER
+------------
+Sem palha, use serragem seca, casca de arroz ou aparas de madeira.
+Sem pano, use papel pardo, saco de estopa ou folhas largas secas.
+Sem barro ou cal, amarre bem o painel e redobre a proteção da chuva.
+Não use plástico derretido, espuma em spray ou isopor: não são naturais.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O enchimento está seco ao toque, fofo, sem grumos e sem cheiro de mofo.
+A face externa fica próxima da temperatura do ambiente após algumas horas.
+
+FONTES
+------
+Prática consolidada de isolamento com fibras vegetais em construção natural.
+Referências: literatura técnica revisada por pares e pesquisas
+universitárias; nenhum valor numérico de desempenho foi adotado.

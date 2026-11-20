@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 01-019
+TITULO: Como avaliar visualmente uma fonte de água
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 20 minutos
+RISCO: alto
+EXIGE: luz do dia, caderno, lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, fonte, nascente, inspeção, olhar, suja, transparente
+==============================================================================
+
+OBJETIVO
+--------
+Decidir, pelo que se vê, se uma fonte de água serve ou deve ser descartada.
+
+QUANDO USAR
+-----------
+Antes de coletar água de nascente, rio, córrego, lago ou poço.
+Ao chegar a um lugar novo e precisar escolher entre fontes.
+Depois de chuva forte, enchente ou deslizamento.
+Quando a água mudar de cor ou de aspecto.
+Quando houver aviso de contaminação na região.
+
+NAO USE QUANDO
+--------------
+Não use esta inspeção para afirmar que a água é potável.
+Aparência limpa não prova ausência de bactérias, vírus ou venenos.
+Só análise laboratorial confirma a potabilidade da água.
+Com aviso oficial de contaminação, não inspecione: descarte a fonte.
+
+MATERIAIS
+---------
+- Luz do dia (lanterna, se estiver escuro).
+- Caderno e lápis (papel e algo para escrever).
+- Recipiente transparente limpo (frasco de vidro ou plástico claro).
+- Pano branco limpo, sem sabão (filtro de papel).
+
+PROCEDIMENTO
+------------
+1. Pare a uma distância segura da beira e não entre na água.
+2. Olhe todo o entorno da fonte, de todos os lados.
+3. Procure esgoto, fossa, esterco, lixo, lavoura, indústria ou posto de
+   combustível.
+4. Veja para onde a água da chuva escorre e se ela deságua na fonte.
+5. Observe se há animais, fezes ou carcaça perto da água.
+6. Observe se a água corre ou fica parada.
+7. Olhe a superfície em busca de óleo, espuma persistente, mancha colorida
+   ou material boiando.
+8. Encha o recipiente transparente com água da fonte.
+9. Observe a cor contra a luz do dia e anote no caderno.
+10. Deixe o recipiente parado por alguns minutos e veja se a sujeira
+    assenta.
+11. Agite o recipiente e observe se a espuma some ou fica.
+12. Coe uma amostra no pano branco e veja o que ficou retido.
+13. Repita a inspeção em outra fonte e compare, se houver.
+14. Anote local, data, o que viu e classifique: "descartada" ou "a tratar".
+15. Descarte a fonte diante de qualquer sinal suspeito.
+
+ATENCAO
+-------
+Água clara e sem cor pode estar contaminada.
+Bactérias, vírus, nitrato, metais e agrotóxicos não mudam de aparência.
+Óleo, gasolina ou solvente indicam combustível: não beba nem tome banho.
+Ferver, filtrar ou clorar não remove combustível, agrotóxico ou metal.
+Espuma persistente, mancha colorida ou material boiando indicam poluição.
+Fezes, animais mortos ou esgoto perto da fonte indicam risco de doença.
+Água de chuva que escorre do solo leva sujeira para dentro da fonte.
+Não prove a água para testar: gosto bom não é prova de segurança.
+Mesmo sem sinal, trate antes de beber (01-001). Cheiro e sabor: 01-018.
+Pare de usar e avise a autoridade de saúde se aparecer sinal novo.
+
+SE NAO TIVER
+------------
+Sem luz do dia, use lanterna encostada no recipiente.
+Sem recipiente transparente, use frasco de vidro limpo.
+Sem pano branco, deixe a amostra parada e observe o fundo.
+Sem caderno, decida no momento e repita a inspeção depois.
+Sem segunda fonte para comparar, use a água habitual da região como
+referência. Na dúvida, descarte.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você olhou o entorno, a superfície e a água no recipiente.
+Cada fonte ficou classificada no caderno como "descartada" ou "a tratar".
+Nenhuma amostra com sinal suspeito foi bebida.
+A decisão foi registrada com local e data.
+
+FONTES
+------
+CDC: "Como encontrar água limpa em uma emergência" (How to Find Clean
+Water in an Emergency, 2025) e orientações sobre tornar água segura.
+EPA: inspeção sanitária de sistemas de água (Sanitary Surveys), área
+"Source", que examina a fonte para evitar contaminação.
+Ministério da Saúde e Funasa: Manual de Controle da Qualidade da Água e
+padrão organoléptico da Portaria GM/MS 888/2021.
+Resumo operacional; não substitui análise laboratorial.

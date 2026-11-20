@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 30-015
+TITULO: Como construir bombas hidráulicas artesanais
+CATEGORIA: 30 - Engenharia e infraestrutura básica
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: tubo e válvulas de retenção, borracha, alavanca, poço raso
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bomba, bomba manual, água, poço, pistão, válvula, alavanca
+==============================================================================
+
+OBJETIVO
+--------
+Montar bomba manual de pistão para tirar água de poço raso sem energia.
+
+QUANDO USAR
+-----------
+Quando não há energia para retirar água de poço ou reservatório.
+Quando a água fica a menos de aproximadamente 7 m de profundidade.
+
+NAO USE QUANDO
+--------------
+Quando a lâmina d'água estiver abaixo de aproximadamente 7 m: a sucção
+falha. Não bombeie água com combustível ou agrotóxico sem tratá-la.
+
+MATERIAIS
+---------
+- Tubo de PVC rígido e limpo (tubo de metal sem ferrugem).
+- Haste rígida de PVC ou metal limpo.
+- Disco com anel de borracha para vedar o tubo.
+- Duas válvulas de retenção (disco de borracha sobre arruela).
+- Alavanca, perno de pivô, corda e balde limpo.
+
+PROCEDIMENTO
+------------
+1. Baixe corda com peso e meça a profundidade até a água.
+2. Corte o tubo com aproximadamente 30 cm a mais que a medida.
+3. Lixe as bordas cortadas do tubo.
+4. Fixe a primeira válvula na ponta inferior, virada para cima.
+5. Confira se a válvula deixa a água entrar e não deixa voltar.
+6. Monte o pistão com folga de aproximadamente 1 mm no tubo.
+7. Encaixe o anel de borracha na borda do pistão.
+8. Fixe a segunda válvula no pistão, virada para cima.
+9. Prenda o pistão na haste e introduza a haste no tubo.
+10. Prenda a alavanca no topo da haste com perno de pivô.
+11. Desça o tubo até a válvula submergir e amarre-o na borda.
+12. Encha o tubo com água limpa e acione a alavanca até sair água.
+
+ATENCAO
+-------
+Acima de aproximadamente 7 m a sucção falha e a bomba não puxa água.
+Válvula torta ou vedação com folga faz a água voltar e mata a sucção.
+Nunca use óleo ou graxa de petróleo: contaminam a água do poço.
+Amarre a estrutura e não se incline sobre o poço: risco de queda.
+A água da bomba não é potável; trate antes de beber (veja 01-001).
+
+SE NAO TIVER
+------------
+Sem válvula pronta, improvise disco de borracha sobre arruela perfurada.
+Sem vedação, use cordão de algodão limpo e úmido; se falhar, use balde.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Sai jato de água pelo bico a cada golpe, sem paradas entre os movimentos.
+A água não volta ao poço quando a alavanca para; o pistão não trava.
+
+FONTES
+------
+Serviço Florestal do USDA, manual de bombas manuais; SSWM, Baumann,
+Low-cost Hand Pumps (2011), RWSN; FM 5-484/NAVFAC P-1065. Prática rural.

@@ -1,0 +1,82 @@
+==============================================================================
+CODIGO: 47-010
+TITULO: Como construir uma bomba de irrigação manual
+CATEGORIA: 47 - Tecnologia agrícola e mecanização rural
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: tubo rígido, pistão vedado, válvulas de retenção, alavanca, serra
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bomba, irrigação, pistão, válvula, sucção, água, bombear
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma bomba manual que retira água de fonte rasa e a leva até a horta.
+
+QUANDO USAR
+-----------
+Quando não há energia elétrica para bombear água.
+Quando a fonte fica abaixo do canteiro e a água não corre por gravidade.
+Quando o volume é pequeno e o esforço de um operador resolve.
+Quando a bomba comercial é cara, indisponível ou difícil de consertar.
+
+NAO USE QUANDO
+--------------
+Quando a água contém agrotóxico, combustível, esgoto ou metal pesado.
+Quando a fonte é profunda demais para sucção com equipamento caseiro.
+Quando a água tem muita areia e não há como filtrar na entrada.
+
+MATERIAIS
+---------
+- Tubo de PVC rígido de aproximadamente 70 cm para o cilindro.
+- Disco de madeira ou borracha para o pistão, um pouco menor que o tubo.
+- Vedação de borracha ou couro para a borda do pistão.
+- Duas válvulas de retenção (peça que deixa a água passar só num sentido).
+- Peneira ou pano para cobrir a entrada e reter areia.
+- Haste reta de metal ou madeira e alavanca com ponto de apoio.
+- Mangueira de descarga, abraçadeira, serra, broca, lixa e resina.
+
+PROCEDIMENTO
+------------
+1. Corte o tubo com serra para formar o cilindro com aproximadamente 70 cm.
+2. Lixe as duas bordas do tubo até retirar toda rebarba cortante.
+3. Faça o pistão com disco um pouco menor que o diâmetro interno do tubo.
+4. Fixe a vedação na borda do pistão; ela deve encostar sem prender.
+5. Fure o centro do pistão e instale a válvula do pistão com seta para cima.
+6. Instale a válvula de pé na entrada, com seta para dentro do tubo.
+7. Cubra a entrada com peneira ou pano preso para reter areia e folhas.
+8. Prenda a haste ao pistão com resina ou parafuso, mantendo-a reta.
+9. Prenda a haste à alavanca e fixe o ponto de apoio em suporte firme.
+10. Encaixe a mangueira na saída superior e aperte a abraçadeira.
+11. Mergulhe a entrada na água e acione a alavanca em movimentos longos.
+12. Descarte as primeiras descargas até sair água sem terra pela mangueira.
+
+ATENCAO
+-------
+A bomba só move água: não remove bactérias, agrotóxicos nem metais.
+Para beber, trate a água antes; 01-001 é leitura extra, não pré-requisito.
+Nunca bombeie água com combustível ou agrotóxico para a horta.
+Areia desgasta a vedação e trava as válvulas; limpe a peneira e o cilindro.
+Válvula invertida não bombeia: confira o sentido antes de fixar com resina.
+Bordas de tubo sem lixar cortam as mãos; use luvas e lixe bem cada corte.
+Sinta resistência ao acionar: pare e verifique o que travou antes de forçar.
+A sucção caseira alcança só fontes rasas; acima de alguns metros falha.
+
+SE NAO TIVER
+------------
+Sem válvula pronta, use arruela de borracha sobre disco furado como válvula.
+Esse improviso vaza mais e exige conferir o fluxo a cada uso.
+Sem PVC, use tubo de diâmetro uniforme e ajuste o pistão ao interior dele.
+Sem alavanca, mova a haste com as mãos; o esforço é maior.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A cada movimento da alavanca sai água em pulsos pela mangueira.
+A água não volta pela entrada nem escorre pelo pistão na subida.
+O jato alcança o canteiro sem carregar lama.
+
+FONTES
+------
+Bomba de pistão de ação simples: Irrigation Manual módulo 5, FAO.
+Human-powered handpumps for water lifting, Practical Action.
+Irrigação artesanal sem energia, SEAGRI/BA. Resumo, não treinamento.

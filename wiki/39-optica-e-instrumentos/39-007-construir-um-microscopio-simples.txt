@@ -1,0 +1,94 @@
+==============================================================================
+CODIGO: 39-007
+TITULO: Como construir um microscópio simples
+CATEGORIA: 39 - Óptica e instrumentos científicos
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: lente de vidro ou gota de água, suporte com furo, luz, lâmina
+REVISAO: 2026-11
+PALAVRAS-CHAVE: microscópio, lente, água, ampliar, ver pequeno, lâmina
+==============================================================================
+
+OBJETIVO
+---------
+Montar um aparelho de lente única que amplia detalhes miúdos.
+
+QUANDO USAR
+-----------
+Quando precisar observar insetos, pólen, tecidos ou gotas de água parada.
+Quando quiser ver o que vive em uma folha ou em um alimento.
+Quando não houver microscópio de laboratório por perto.
+Quando precisar de um aparelho leve para levar ao campo.
+
+NAO USE QUANDO
+--------------
+Não serve para diagnosticar doença nem identificar bactérias.
+Não serve para decidir se água ou comida está segura.
+Não use sem luz forte e sem uma lâmina fina para apoiar a amostra.
+
+MATERIAIS
+---------
+- Lente pequena de vidro: conta de vidro, lupa barata ou lente de óculos.
+- Gotas de água limpa (substituem a lente de vidro; ampliam bem menos).
+- Platina: papelão ou plástico com furo de aproximadamente 3 milímetros.
+- Filme plástico transparente de embalagem limpa.
+- Tira rígida ou palito para servir de coluna.
+- Base firme: tábua, livro ou tampo de plástico.
+- Fita adesiva transparente.
+- Lâmina: vidro fino ou plástico duro e transparente.
+- Papel branco e luz forte: sol difuso ou lanterna.
+
+PROCEDIMENTO
+------------
+1. Faça um furo de aproximadamente 3 milímetros no centro da platina.
+2. Lixe ou dobre a borda do furo para não cortar os dedos.
+3. Prenda a lente de vidro sobre o furo com fita apenas na borda.
+4. Deixe o centro da lente livre de fita e de sujeira.
+5. Para usar água em vez de vidro, estique filme plástico sobre o furo.
+6. Prenda o filme com fita e pingue uma gota de água limpa sobre o furo.
+7. Prenda a platina na ponta da tira rígida, com a lente virada para baixo.
+8. Fixe a tira na base em pé, formando um ângulo reto firme.
+9. Coloque a amostra sobre a lâmina, em camada fina.
+10. Cubra a amostra com outra lâmina ou com filme, se ela estiver seca.
+11. Apoie a lâmina sobre a base, exatamente abaixo da lente.
+12. Coloque papel branco sob a lâmina para refletir a luz.
+13. Incline o aparelho até a luz passar pela amostra e chegar ao olho.
+14. Aproxime a lâmina da lente aos poucos, com movimentos pequenos.
+15. Pare quando a imagem ficar nítida e sem tremores.
+16. Pingue outra gota de água na lente de água quando ela evaporar.
+
+ATENCAO
+-------
+A borda do furo e a lente de vidro cortam: lixe antes de segurar.
+Nunca aponte a lente para o sol nem para luz forte: queima a retina.
+Não aperte a lente com força: o vidro racha e solta da fita.
+A imagem de lente única sai invertida e de cabeça para baixo; é normal.
+Ampliar sem nitidez não adianta: a gota d'água não revela bactérias.
+A distância de foco pode ser menor que a espessura de um fio de cabelo.
+Pare e procure ajuda se houver corte profundo ou se a lente se desprender.
+
+SE NAO TIVER
+------------
+Sem lente de vidro, use a gota de água sobre filme; a ampliação cai muito.
+Sem filme, use celofane limpo de embalagem, sem rugas no centro.
+Sem base rígida, apoie o aparelho em um livro e prenda com fita.
+Sem lâmina, use vidro limpo de porta-retrato ou plástico duro transparente.
+Não use vidro de garrafa quebrada: distorce a imagem e corta os dedos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A imagem fica maior e nítida ao mover a lâmina alguns milímetros.
+Dá para contar pelos de inseto, grãos de pólen ou bolhas na água.
+A imagem some ao afastar a lente e volta ao aproximar: o foco funciona.
+
+FONTES
+------
+Encyclopaedia Britannica, artigo 'microscope': microscópio de lente única
+amplia até 300 vezes e resolve abaixo de 1 micrometro.
+Cybulski, Clements e Prakash, 'Foldscope: Origami-Based Paper Microscope',
+PLoS ONE, 2014, Universidade de Stanford: lente esférica de vidro,
+foco por aproximação, montagem em menos de 10 minutos e ampliação inversa
+ao diâmetro da lente.
+Foldscope Instruments Inc., descrição oficial do microscópio de papel:
+ampliação de 50 a 340 vezes, sem energia elétrica e resistente à água.
+Prática consolidada dos microscópios de lente única, como o de Leeuwenhoek.

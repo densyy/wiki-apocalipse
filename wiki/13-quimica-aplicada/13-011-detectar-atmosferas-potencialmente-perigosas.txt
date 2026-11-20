@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 13-011
+TITULO: Como detectar atmosferas potencialmente perigosas
+CATEGORIA: 13 - Química e conhecimentos científicos aplicados
+TEMPO: 20 minutos
+RISCO: alto
+EXIGE: detector de multigases calibrado, pilhas reservas, lanterna e luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: gás, ar perigoso, monóxido, sulfeto, oxigênio, detector, ppm
+==============================================================================
+
+OBJETIVO
+--------
+Detecte ar perigoso antes de entrar em local fechado e decida se sai,
+ventila ou procura ajuda.
+
+QUANDO USAR
+-----------
+Ao abrir poço, tanque, fossa, porão ou caixa de esgoto.
+Antes de entrar onde houve combustível, tinta ou solvente.
+Ao usar gerador ou aquecedor dentro de casa, tenda ou garagem.
+
+NAO USE QUANDO
+--------------
+Com cheiro forte de gás, saia sem acender luzes ou interruptores.
+Quando o local tiver uma só saída e você não puder sair depressa.
+Quando o objetivo for resgatar alguém caído sem equipamento de ar.
+
+MATERIAIS
+---------
+- Detector de multigases calibrado para oxigênio, inflamáveis,
+  monóxido de carbono e sulfeto de hidrogênio.
+- Pilhas reservas, luvas e protetor ocular.
+- Papel e lápis; lanterna só fora da abertura.
+
+PROCEDIMENTO
+------------
+1. Pare na entrada e fareje de longe: cheiro de ovo, tinta ou solvente
+   indica risco; ausência de cheiro não indica segurança.
+2. Coloque luvas e protetor ocular antes de tocar a tampa.
+3. Abra a porta ou a tampa do lado de fora, sem encostar o rosto.
+4. Ligue o detector em local com ar limpo e espere estabilizar.
+5. Confira no manual a data da calibração e o prazo dos sensores.
+6. Teste o alarme sonoro e a luz do detector conforme o manual.
+7. Confirme que o aparelho mede oxigênio, inflamáveis, monóxido e
+   sulfeto de hidrogênio.
+8. Introduza a sonda pela abertura sem entrar; mantenha o corpo fora.
+9. Leia nesta ordem: oxigênio, inflamáveis, gases tóxicos.
+10. Repita a leitura no fundo, no meio e junto à tampa.
+11. Anote o maior valor de cada gás e o ponto onde ele apareceu.
+12. Compare os valores: oxigênio entre 19,5% e 23,5%; inflamáveis
+    abaixo de 10% do limite inferior de inflamabilidade, o menor teor
+    que ainda queima, chamado LEL; monóxido abaixo de 35 ppm; sulfeto
+    abaixo de 10 ppm.
+13. Se qualquer valor estiver fora desses limites, ventile com ar
+    limpo e torne a medir nos mesmos pontos.
+14. Se o valor persistir, feche a área, afaste as pessoas e peça ajuda.
+15. Não acenda fósforo, isqueiro ou lanterna dentro da abertura.
+16. Se alguém sentir tontura ou dor de cabeça, saia e reavalie.
+
+ATENCAO
+-------
+Monóxido e sulfeto não têm cor; sulfeto cansa o olfato e o cheiro
+desaparece justo no teor mais perigoso.
+Detector comum não mede oxigênio, inflamáveis nem sulfeto.
+Em um teste com 30 detectores residenciais, 40% não alarmaram em
+concentração perigosa (Ryan e Arnold, 2011).
+Sensor vencido lê baixo; ventilar não substitui equipamento de ar.
+Fogo, soldagem e motor em lugar fechado geram monóxido.
+Se alguém caiu, não entre sem ar próprio: chame bombeiros ou Defesa
+Civil.
+
+SE NAO TIVER
+------------
+Sem detector, não entre: cheiro e tontura são sinais tardios.
+Se não puder medir, feche a área e procure detector de multigases.
+Não improvise calibração nem use chama para testar o ar: pode inflamar.
+Nunca encoste o rosto na abertura ao introduzir a sonda.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O detector fica sem alarme nos três pontos medidos.
+A leitura se mantém: oxigênio de 19,5% a 23,5%, inflamáveis abaixo
+de 10% do LEL, monóxido abaixo de 35 ppm e sulfeto abaixo de 10 ppm.
+Ninguém do grupo relata tontura, dor de cabeça ou olhos ardendo.
+
+FONTES
+------
+OSHA 29 CFR 1910.146: limites de oxigênio, inflamáveis e ordem dos
+testes em espaços confinados.
+NIOSH/CDC: limites REL e IDLH de monóxido e sulfeto de hidrogênio e
+Guia de Bolso de Riscos Químicos.
+EPA: limites de monóxido no ar ambiente, 9 ppm em 8 horas e 35 ppm
+em 1 hora, e alerta sobre geradores em ambientes fechados.
+Ryan e Arnold, American Journal of Public Health, 2011: falha de
+detectores residenciais em concentração perigosa.
+Prática consolidada de higiene industrial: leitura em alturas e
+ventilação com ar limpo.

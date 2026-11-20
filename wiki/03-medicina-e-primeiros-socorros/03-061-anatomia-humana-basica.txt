@@ -1,0 +1,72 @@
+==============================================================================
+CODIGO: 03-061
+TITULO: Como reconhecer a anatomia humana básica
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 15 minutos
+RISCO: medio
+EXIGE: boa luz, pessoa colaborativa ou boneco para observar
+REVISAO: 2026-11
+PALAVRAS-CHAVE: anatomia, corpo, órgãos, ossos, músculos, socorro
+==============================================================================
+
+OBJETIVO
+--------
+Localizar e nomear estruturas do corpo para agir com segurança.
+
+QUANDO USAR
+-----------
+Antes de aplicar pressão ou torniquete, para escolher o local.
+Ao dizer a quem socorre onde está a dor ou o sangramento.
+Ao checar respiração e pulso em uma pessoa inconsciente.
+
+NAO USE QUANDO
+--------------
+Não há contraindicacao para aprender a anatomia básica do corpo.
+
+MATERIAIS
+---------
+- Boa luz ou lanterna.
+- Pessoa colaborativa ou boneco anatômico (ou o próprio corpo).
+
+PROCEDIMENTO
+------------
+1. Garanta que o local é seguro antes de chegar perto.
+2. Peça permissão antes de tocar na pessoa.
+3. Observe a pessoa de frente, de costas e de lado, com boa luz.
+4. Na cabeça, identifique crânio, olhos, ouvidos, nariz e boca.
+5. No pescoço, ache a traqueia, o tubo central por onde passa o ar.
+6. Ao lado da traqueia, identifique as carótidas, uma de cada lado.
+7. No peito, identifique as costelas, arcos ósseos que protegem os órgãos.
+8. Localize o coração, um pouco à esquerda do centro do peito.
+9. Localize os pulmões, de cada lado do coração.
+10. No abdome, use o umbigo como ponto de referência central.
+11. Nas costas, localize a coluna, linha de vértebras ao centro.
+12. Palpe o pulso no punho, junto ao polegar, para sentir a radial.
+13. Observe o peito subir e descer para contar a respiração.
+14. Diga em voz alta o que encontrou para quem vai socorrer.
+
+ATENCAO
+-------
+Este texto cobre só estruturas externas e palpáveis.
+Nunca faça pressão sobre o pescoço ao lado da traqueia: a carótida
+é delicada e a compressão pode privar o cérebro de sangue.
+Não confunda dor no peito com problema de costela: peça avaliação médica.
+Corpo de pessoa obesa, musculosa ou com edema pode esconder referências.
+Sempre priorize o socorro sobre a identificação exata da estrutura.
+
+SE NAO TIVER
+------------
+Sem boneco: use o próprio corpo para palpar o pulso e a traqueia.
+Sem luz: peça a outra pessoa que ilumine com a tela do celular.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você aponta cada região pelo nome e a pessoa confirma que é a correta.
+Você sente o pulso no punho e na carótida sem apertar com força.
+Você informa ao socorro o local exato da dor ou do sangramento.
+
+FONTES
+------
+Anatomia humana básica: conhecimento consolidado, sem documento único.
+Nomenclatura padrão: Terminologia Anatomica (IFAA).
+Uso em primeiros socorros segundo manuais da Cruz Vermelha e IFRC.

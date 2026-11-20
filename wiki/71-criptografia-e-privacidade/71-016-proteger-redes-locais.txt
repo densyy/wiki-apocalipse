@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 71-016
+TITULO: Como proteger redes locais
+CATEGORIA: 71 - Criptografia, segurança da informação e privacidade
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: computador ou celular na rede, acesso administrativo ao roteador
+REVISAO: 2026-11
+PALAVRAS-CHAVE: rede, roteador, wi-fi, senha, firmware, convidados
+==============================================================================
+
+OBJETIVO
+--------
+Reduzir o acesso não autorizado à rede e aos dados que nela circulam.
+
+QUANDO USAR
+-----------
+Ao instalar roteador novo ou trocar o aparelho pelo provedor.
+Quando a rede recebe convidados ou aparece dispositivo desconhecido.
+
+NAO USE QUANDO
+--------------
+Não altere rede de empresa, condomínio ou provedor sem autorização.
+Sem senha administrativa, pare: restaurar o aparelho apaga a configuração.
+
+MATERIAIS
+---------
+- Computador ou celular conectado à rede.
+- Roteador com senha administrativa e manual do fabricante.
+- Caderno fora da nuvem para anotar a nova senha.
+
+PROCEDIMENTO
+------------
+1. Anote modelo, versão do firmware e dados da conexão de internet.
+2. Faça backup da configuração no painel do roteador, se houver.
+3. Acesse o painel com a senha atual; se for a de fábrica, troque-a.
+4. Troque a senha do painel por frase longa e única, diferente do Wi-Fi.
+5. Ative a verificação em duas etapas no painel, se o modelo oferecer.
+6. Use WPA2 ou WPA3 no Wi-Fi; se só houver WEP ou WPA, troque o roteador.
+7. Troque a senha do Wi-Fi por frase longa, sem nome, data ou telefone.
+8. Desative o WPS e o acesso administrativo pela internet no painel.
+9. Mude o nome da rede: sem endereço ou nome de morador.
+10. Crie rede de convidados com senha própria, separada da principal.
+11. Atualize o firmware com o arquivo oficial do fabricante.
+12. Reinicie o roteador e confirme que a internet voltou a funcionar.
+13. Reconecte seus aparelhos e remova os dispositivos que não reconhece.
+
+ATENCAO
+-------
+Trocar a senha do Wi-Fi desconecta todos: anote-a antes de aplicar.
+Perder a senha do painel pode travar o acesso ao roteador.
+WEP e WPA são fracos; não protegem dados mesmo com senha longa.
+Firmware interrompido inutiliza o roteador: não corte a energia.
+Dispositivo desconhecido após a troca: mude as senhas e busque ajuda.
+
+SE NAO TIVER
+------------
+Sem acesso ao painel, peça a senha ao responsável; não adivinhe.
+Sem WPA3, use WPA2 com senha longa; nunca WPA ou WEP.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O painel mostra firmware atualizado e WPA2 ou WPA3 ativo.
+A rede nova pede a senha anotada; a antiga não aparece mais.
+O painel abre dentro da rede e não abre pela internet.
+
+FONTES
+------
+Cartilha de Segurança para Internet do CERT.br (NIC.br): fascículo Redes.
+NIST SP 800-153 (2012) e CISA AA20-049A: redes sem fio, 2FA e firmware.

@@ -1,0 +1,93 @@
+==============================================================================
+CODIGO: 01-045
+TITULO: Como construir um sistema de captação de chuva
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 3 horas
+RISCO: medio
+EXIGE: telhado limpo, calha, tubos de PVC, tela fina, tanque com tampa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, chuva, captação, calha, primeira água, filtro, tanque
+==============================================================================
+
+OBJETIVO
+--------
+Montar um sistema que desvia a primeira água suja e guarda o restante limpo.
+
+QUANDO USAR
+-----------
+Quando o abastecimento regular falha e é preciso guardar água da chuva.
+Quando há telhado limpo e espaço para um tanque ao lado da casa.
+Quando a água coletada será usada para beber, cozinhar ou lavar alimentos.
+Quando a coleta com balde (veja 01-012) já não atende ao consumo da casa.
+
+NAO USE QUANDO
+--------------
+Quando o telhado tem amianto, chumbo ou madeira tratada.
+Quando há fumaça, cinzas ou poeira de agrotóxico no ar.
+Quando não há como ferver ou tratar a água antes de beber (veja 01-001).
+Quando não der para subir ao telhado com segurança.
+
+MATERIAIS
+---------
+- Calha de PVC, zinco ou alumínio, limpa e sem tinta velha.
+- Tubos de PVC para descida e condução até o tanque.
+- Peça em T de PVC e tubo maior para o descarte da primeira água.
+- Tampa ou registro na ponta do tubo de descarte.
+- Tela fina de nylon ou polipropileno (coador de café).
+- Tanque opaco com tampa e torneira, sem resíduo de químico ou tinta.
+- Pedras ou blocos para apoiar o tanque nivelado.
+- Escova, balde e pano limpos.
+
+PROCEDIMENTO
+------------
+1. Escolha telhado sem amianto, chumbo, zinco velho ou madeira tratada.
+2. Limpe o telhado com escova e retire folhas, ninhos e fezes.
+3. Limpe a calha e confirme que ela deságua em um só ponto.
+4. Instale a calha com leve inclinação para o tubo de descida.
+5. Prenda a tela fina na entrada do tanque.
+6. Apoie o tanque em pedras, nivelado, na sombra e longe da poeira.
+7. Monte o descarte: ligue o tubo de descida a uma peça em T.
+8. Direcione a saída de baixo do T para o tubo de descarte.
+9. Feche a ponta do tubo de descarte com tampa ou registro.
+10. Reserve aproximadamente 1 litro por metro quadrado de telhado.
+11. Para 75 metros quadrados, use bombona de aproximadamente 80 litros.
+12. Ligue a saída de cima do T à entrada do tanque, passando pela tela.
+13. Abra a torneira do tanque com a boca virada para baixo.
+14. Instale tubo de transbordo na tampa para escoar o excesso para longe.
+15. Deixe a primeira água encher o descarte antes de seguir ao tanque.
+16. Esvazie o descarte depois de cada chuva e tampe de novo.
+17. Ferva ou trate a água antes de beber (veja 01-001).
+
+ATENCAO
+-------
+A primeira água lava o telhado e leva fezes de aves, poeira e agrotóxico.
+Nunca a envie ao tanque; desvie para longe de crianças e animais.
+Água clara pode ter germes: não beba sem ferver ou tratar (veja 01-001).
+Não use amianto, chumbo ou madeira tratada; ferver não remove isso.
+Fontes divergem: 0,5 a 2 litros por metro quadrado; use aproximadamente 1.
+Não misture água de chuva com água de torneira ou garrafa.
+Subir ao telhado sem cuidado pode causar queda grave; peça ajuda.
+Tela e tampa impedem mosquitos; limpe a calha e o tanque periodicamente.
+
+SE NAO TIVER
+------------
+Sem peça em T, desconecte o tubo no início da chuva e reconecte depois.
+Sem tela, use nylon limpo; nunca algodão, que apodrece e cria fungo.
+Sem tanque, use barril opaco tampado; nunca recipiente de óleo ou tinta.
+Sem bombona, use tubo de PVC maior tampado na ponta como descarte.
+Sem calha, use lona limpa inclinada presa com pedras nas bordas.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A primeira água encheu o descarte e não entrou no tanque.
+A água que chega ao tanque corre sem folhas nem terra.
+O tanque ficou tampado, na sombra, com tela na entrada e torneira limpa.
+O transbordo escoou para longe sem alagar o chão perto do tanque.
+
+FONTES
+------
+Ficha técnica da OMS sobre coleta e armazenamento de água da chuva.
+Série Boas Práticas do Programa Cisternas (MDS), sobre descarte inicial.
+Manual de qualidade da água para consumo humano do Ministério da Saúde.
+Orientação da CDC sobre coleta de água da chuva e risco à saúde.
+Prática consolidada em cisternas do semiárido; resumo operacional.

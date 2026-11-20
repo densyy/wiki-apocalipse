@@ -1,0 +1,75 @@
+==============================================================================
+CODIGO: 84-004
+TITULO: Como formar mecânicos
+CATEGORIA: 84 - Educação avançada e formação de especialistas
+TEMPO: 120 minutos
+RISCO: alto
+EXIGE: oficina, ferramentas, supervisor e peças de sucata
+REVISAO: 2026-11
+PALAVRAS-CHAVE: mecânica, motor, ferramenta, manutenção, oficina
+==============================================================================
+
+OBJETIVO
+--------
+Ensinar manutenção básica de máquinas e motores na prática.
+
+QUANDO USAR
+-----------
+Quando máquinas da comunidade param por falta de manutenção.
+Ao formar moradores para reparar ferramentas e equipamentos.
+Quando há sucata que pode servir para aprendizado.
+Ao organizar oficina de manutenção no assentamento.
+
+NAO USE QUANDO
+--------------
+Não mexa em motor ligado ou em peça sob pressão.
+Não use ferramenta danificada ou sem isolamento.
+Não prometa consertar além do seu conhecimento.
+Não desmonte peça sem marcar a posição original.
+
+MATERIAIS
+---------
+- Banco de trabalho firme e iluminação adequada.
+- Chaves, chaves de fenda, alicate e torquímetro básico.
+- Lubrificante, panos e recipiente para peças pequenas.
+- Motor ou máquina desativada para demonstração.
+
+PROCEDIMENTO
+------------
+1. Desligue a máquina e confirme que não há energia.
+2. Observe o funcionamento normal antes de desmontar.
+3. Marque a posição de cada peça removida.
+4. Ensine o uso correto de cada ferramenta.
+5. Limpe e inspecione as peças com calma.
+6. Identifique desgaste, folga e sujeira acumulada.
+7. Substitua ou ajuste só o que foi confirmado.
+8. Remonte na ordem inversa, conferindo cada marca.
+9. Lubrifique os pontos indicados antes de testar.
+10. Teste com supervisão e registre o que foi feito.
+
+ATENCAO
+-------
+Motor ligado pode prender roupas e causar ferimento grave.
+Bateria e combustível exigem cuidado com fogo e faísca.
+Peça sob pressão pode soltar com violência ao abrir.
+Ferramenta improvisada quebra e machuca a mão.
+Marca ausente dificulta remontagem e gera falha.
+
+SE NAO TIVER
+------------
+Sem oficina, trabalhe em bancada coberta e organizada.
+Sem ferramenta própria, use empréstimo com regras claras.
+Sem máquina, exercite desmontagem de sucata limpa.
+Sem supervisor, limite-se à limpeza e identificação.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A máquina voltou a funcionar após a manutenção.
+As peças foram remontadas nas posições marcadas.
+Os alunos usaram as ferramentas corretamente.
+Não houve ferimento e o teste foi supervisionado.
+
+FONTES
+------
+Prática de manutenção mecânica e oficinas de reparo.
+Manuais básicos de motores e segurança em oficina.

@@ -1,0 +1,84 @@
+==============================================================================
+CODIGO: 07-049
+TITULO: Como se proteger contra incêndios causados por bombardeios
+CATEGORIA: 07 - Guerra, radiação e catástrofes nucleares
+TEMPO: 15 minutos
+RISCO: alto
+EXIGE: pano, cobertor, água em recipiente
+REVISAO: 2026-11
+PALAVRAS-CHAVE: incêndio, bombardeio, fogo, roupa em chamas, fumaça, abrigo
+==============================================================================
+
+OBJETIVO
+--------
+Reduza queimaduras e fumaça inalada quando um bombardeio acende fogo perto.
+
+QUANDO USAR
+-----------
+Quando uma explosão acende fogo perto de você.
+Quando a sua roupa ou a de outra pessoa pega fogo.
+Quando fumaça entra no abrigo ou no cômodo onde você está.
+Quando precisa escolher onde ficar durante um ataque com fogo.
+Quando encontra alguém com roupa em chamas.
+
+NAO USE QUANDO
+--------------
+Não tente apagar sozinho um fogo que já se espalhou por vários cômodos.
+Não jogue água em fogo de óleo nem em equipamento elétrico ligado.
+
+MATERIAIS
+---------
+- Pano limpo (camisa ou pano de prato).
+- Cobertor (manta, tapete ou jaqueta grossa).
+- Água em recipiente (garrafa, balde ou bebedouro).
+
+PROCEDIMENTO
+------------
+1. Entre no prédio firme mais próximo e fique no miolo, longe de janelas.
+2. Feche portas e janelas e desligue a ventilação que traz ar de fora.
+3. Afaste cortinas, papéis e móveis das janelas e do calor.
+4. Se a roupa pegar fogo, pare de correr de imediato.
+5. Deite no chão e cubra o rosto com as mãos.
+6. Role para frente e para trás até as chamas apagarem.
+7. Se não conseguir rolar, peça a outra pessoa para cobrir com o cobertor.
+8. Não jogue água em fogo de óleo nem em equipamento elétrico ligado.
+9. Para fogo pequeno no chão, cubra com o cobertor ou jogue água.
+10. Se houver fumaça, agache e rasteje até a saída com a boca coberta.
+11. Antes de abrir uma porta, toque a maçaneta.
+12. Se a maçaneta estiver quente, use outra saída.
+13. Se não puder sair, feche a porta e tape as frestas com pano.
+14. Sinalize na janela com pano claro para quem estiver fora.
+15. Resfrie a queimadura em água fresca por aproximadamente 3 a 5 minutos.
+16. Retire anéis e roupa da área queimada e cubra com pano limpo e seco.
+
+ATENCAO
+-------
+Fumaça e gases matam mais que as chamas em ambiente fechado.
+Pano úmido na boca não filtra monóxido de carbono.
+Correr com a roupa em chamas aviva o fogo e queima o rosto.
+Monóxido de carbono não tem cheiro nem cor.
+Dor de cabeça, tontura ou náusea são sinal de perigo.
+Não volte para dentro do prédio para salvar objetos.
+Água muito fria ou gelo piora a queimadura.
+Procure socorro se a queimadura for maior que a palma da mão.
+
+SE NAO TIVER
+------------
+Sem cobertor, use jaqueta grossa ou tapete para sufocar as chamas.
+Sem água, cubra a queimadura com pano limpo e seco e procure socorro.
+Sem saída, fique no cômodo com porta, tape as frestas e espere ajuda.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As chamas na roupa apagaram e a pessoa parou de correr.
+A fumaça ficou acima da altura do peito enquanto você rastejava.
+A maçaneta estava fria ao toque antes de você abrir a porta.
+A queimadura ficou coberta por pano limpo e seco.
+
+FONTES
+------
+Orientações de incêndio doméstico do Ready.gov (FEMA).
+Orientações da Cruz Vermelha americana sobre incêndio e roupa em chamas.
+Noções básicas sobre monóxido de carbono do CDC americano.
+Estudo da defesa civil dos EUA sobre fogo em bombardeios (1950).
+Para explosão e queda de poeira radioativa, veja 07-001.

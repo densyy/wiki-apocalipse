@@ -1,0 +1,110 @@
+==============================================================================
+CODIGO: 62-020
+TITULO: Como reconhecer problemas reprodutivos em rebanhos
+CATEGORIA: 62 - Pecuária, reprodução e processamento animal
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: caderno, caneta, local iluminado, animais identificados
+REVISAO: 2026-11
+PALAVRAS-CHAVE: rebanho, cio, anestro, repetir cio, nao emprenha, aborto
+==============================================================================
+
+OBJETIVO
+--------
+Perceber, por observação e anotação, quando a reprodução do rebanho
+está falhando e separar os animais que precisam de exame.
+
+QUANDO USAR
+-----------
+Quando muitas fêmeas não ficam prenhes na estação de monta.
+Quando uma fêmea volta ao cio repetidas vezes após a cobertura.
+Quando uma fêmea parou de entrar em cio e não está prenhe.
+Quando houve aborto, parto difícil ou cria morta no rebanho.
+Quando o intervalo entre partos do rebanho passou de 14 meses.
+
+NAO USE QUANDO
+--------------
+Este texto só reconhece sinais; não trata nem substitui exame.
+Não faça exame interno, não dê hormônio e não maneje material de aborto
+sem orientação: brucelose e leptospirose podem infectar pessoas.
+Se houver cio com dor, corrimento com sangue, febre ou animal prostrado,
+chame o médico-veterinário.
+
+MATERIAIS
+---------
+- Caderno e caneta para anotar datas (celular com fotos serve).
+- Lista com identificação de cada fêmea e do reprodutor.
+- Local iluminado e curral ou brete para observar de longe.
+- Rufião (macho operado que não fecunda) para ajudar, se houver.
+
+PROCEDIMENTO
+------------
+1. Anote num caderno a identificação de todas as fêmeas do lote.
+2. Observe o cio duas vezes por dia, de manhã e no fim da tarde.
+3. Fique pelo menos 30 minutos em cada observação, sem outra tarefa.
+4. Registre a data de cada cio, mesmo sem cobertura.
+5. Marque os sinais de cio: aceitar a monta, ficar inquieta, urinar muito,
+   vulva inchada e brilhante, muco claro, montar nas companheiras.
+6. Em cabras e ovelhas, observe também cauda abanando, berros e busca
+   pelo macho; a ovelha mostra o cio de forma discreta.
+7. Conte os dias entre um cio e outro. O normal é perto de 21 dias em
+   bovinos e cabras, e perto de 17 dias em ovelhas.
+8. Se uma fêmea repete o cio três vezes após cobertura, separe-a do lote
+   e peça exame ao veterinário.
+9. Se várias fêmeas repetem cio, desconfie do touro, do sêmen ou do
+   manejo, e não só das fêmeas. Chame o veterinário.
+10. Se uma fêmea não entra em cio e não está prenhe, verifique a nutrição.
+    Animais magros costumam parar de ciclar; corrija a alimentação.
+11. Observe a condição corporal: costelas e ossos da garupa à vista
+    indicam animal magro e risco de anestro (falta de cio).
+12. Anote corrimento vaginal, muco com sangue, odor ou inchaço da vulva
+    fora do cio; qualquer descarga é sinal de atenção.
+13. Registre parto com placenta presa há mais de 12 horas, útero
+    exteriorizado, aborto e cria morta, com data e identificação da mãe.
+14. Observe se a fêmea em cio fica agressiva, com cauda levantada e
+    muco em excesso em intervalos irregulares; pode ser cisto ovariano.
+15. Compare com o rebanho: mais de 3 coberturas por prenhez ou intervalo
+    entre partos acima de 14 meses indicam problema a investigar.
+
+ATENCAO
+-------
+Anestro (falta de cio) é normal na gestação e logo após o parto; fora
+disso, quase sempre vem de subnutrição, vermes ou doença.
+Cio silencioso existe: a fêmea ovula sem mostrar sinais. Não confunda
+com cio não visto por falha na observação. Aumente o número de olhadas.
+Só com observação visual, cerca de metade dos cios passa despercebida.
+Não toque em material de aborto nem em placenta com as mãos desprotegidas.
+Brucelose e leptospirose afetam pessoas. Isole o local e avise a Defesa
+Agropecuária e o médico-veterinário.
+Não aplique hormônio, não faça exame interno e não dê remédio por conta:
+isso esconde o sinal e pode piorar o quadro.
+Prolapso de útero, corrimento com sangue, febre, dor ou prostração são
+emergência: chame o médico-veterinário na hora.
+Se a causa não for encontrada após três tentativas, o descarte do
+reprodutor ou da fêmea pode ser a decisão indicada pelo veterinário.
+
+SE NAO TIVER
+------------
+Sem caderno, anote em papel ou no celular; o que importa é a data.
+Sem iluminação boa, aproxime a fêmea da entrada do curral pela manhã.
+Sem rufião, reforce a observação visual e aumente para três vezes ao dia.
+Sem condição de identificar animais, comece pelas fêmeas que mais repetem
+cio e pelas que abortaram; marque com tinta ou etiqueta na orelha.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você tem uma ficha com data de cio, de cobertura e de parto de cada fêmea.
+Você consegue dizer quantas fêmeas repetiram cio e quantas abortaram.
+Os animais magros foram separados para receber mais alimento.
+As fêmeas com sinais anormais estão identificadas e aguardando exame.
+
+FONTES
+------
+Embrapa, publicação 4 Reprodução da coleção 500 Perguntas 500 Respostas
+  (gado de leite): cio, cio silencioso, repetição de cio e anestro.
+Embrapa Agência de Informação Tecnológica (Ageitec): Identificação de
+  Cios, Controle Reprodutivo, Condição Corporal e Anestro Pós-Parto.
+Embrapa Gado de Corte, capítulo Distúrbios Reprodutivos: anestro, retenção
+  de placenta, prolapso de útero e doenças da esfera reprodutiva.
+Embrapa, Manejo Reprodutivo de Caprinos e Ovinos em Regiões Tropicais
+  (2019).

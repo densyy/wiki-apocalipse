@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 12-008
+TITULO: Como criar uma moeda comunitária
+CATEGORIA: 12 - Economia, comércio e organização financeira
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: papel, lápis, acordo entre vizinhos, caderno para registro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: moeda comunitária, vale, troca, crédito, escambo, registro
+==============================================================================
+
+OBJETIVO
+---------
+Crie um vale aceito por vizinhos para trocar bens e serviços sem dinheiro.
+
+QUANDO USAR
+-----------
+Quando o dinheiro oficial faltar ou o troco ficar impossível.
+Quando vizinhos oferecem serviços, mas não têm dinheiro para pagar.
+Quando quiser manter o comércio local vivo durante a crise.
+
+NAO USE QUANDO
+--------------
+Sem confiança entre as pessoas, o vale não tem valor.
+Quando a lei local proibir moeda própria: verifique antes de emitir.
+
+MATERIAIS
+---------
+- Papel e lápis (ou caderno e caneta).
+- Papel resistente ou cartolina para os vales (ou papel comum dobrado).
+- Caderno para anotar quem recebe e quem gasta (ou folhas soltas).
+- Acordo prévio entre pelo menos duas pessoas dispostas a aceitar o vale.
+
+PROCEDIMENTO
+------------
+1. Reúna as pessoas que vão aceitar o vale e explique a regra da troca.
+2. Decida o nome da moeda e quem pode emitir os vales.
+3. Escolha a unidade: uma hora de trabalho ou um produto-base.
+4. Defina quanto vale cada serviço comum e anote a tabela no caderno.
+5. Limite a quantidade de vales por pessoa para não emitir demais.
+6. Numere e assine cada vale e anote no caderno quem o recebeu.
+7. Entregue os vales e explique que só valem dentro do grupo.
+8. Ao trocar, anote data, quem paga, quem recebe e o motivo da troca.
+9. Guarde os vales recebidos e só os aceite de quem participa do acordo.
+10. Confira o caderno toda semana e retire vales gastos de circulação.
+
+ATENCAO
+-------
+O vale só tem valor se as pessoas o aceitarem: sem aceitação, é só papel.
+Emitir mais vales do que o combinado gera confusão e desconfiança.
+Anote cada troca: sem registro, ninguém sabe quanto cada um tem.
+Não copie vales nem aceite folhas sem assinatura ou sem número.
+Não use moeda própria para dívida com juros: isso cria conflito no grupo.
+Leis sobre moeda variam: se houver fiscalização, pare e siga a regra local.
+
+SE NAO TIVER
+------------
+Sem papel resistente, use folhas comuns e troque quando gastarem.
+Sem acordo entre vizinhos, não crie moeda: comece trocando serviço direto.
+
+COMO SABER QUE DEU CERTO
+---------------------------
+Pelo menos duas pessoas aceitam o vale em uma troca real.
+O caderno mostra quem tem cada vale e a soma bate com os emitidos.
+
+FONTES
+------
+Prática consolidada de moedas sociais, escambo e controle de trocas:
+sem documento único consultado; regras locais devem ser verificadas.

@@ -1,0 +1,85 @@
+==============================================================================
+CODIGO: 87-012
+TITULO: Como utilizar energia eólica em tarefas agrícolas
+CATEGORIA: 87 - Energia mecânica e hidráulica tradicionais
+TEMPO: 240 minutos
+RISCO: medio
+EXIGE: local ventoso, torre, hélice e eixo para acionar a máquina
+REVISAO: 2026-11
+PALAVRAS-CHAVE: vento, hélice, bombeamento, moagem, irrigação
+==============================================================================
+
+OBJETIVO
+--------
+Aproveitar o vento para bombear água, moer grãos ou ventilar produções.
+
+QUANDO USAR
+-----------
+Quando o local tem vento constante e sem barreiras altas.
+Quando a tarefa pode esperar e não exige giro contínuo.
+Quando se quer reduzir o trabalho manual em dias de vento.
+Quando a manutenção precisa ser simples e com peças locais.
+
+NAO USE QUANDO
+--------------
+Não conte com o vento como única fonte para tarefas urgentes.
+Não instale torre onde sopram vendavais frequentes.
+Não use se não houver espaço seguro para a hélice girar.
+
+MATERIAIS
+---------
+- Torre ou mastro firme com base de concreto e estacas.
+- Hélice de pás leves de madeira, lona ou metal.
+- Eixo principal com mancais e caixa de transmissão.
+- Correia ou engrenagem para ligar à máquina desejada.
+- Cauda de orientação para manter a hélice voltada ao vento.
+- Graxa, corda, parafusos e cinto de segurança.
+- Anemômetro simples ou fita para sentir a direção do vento.
+
+PROCEDIMENTO
+------------
+1. Observe o vento por vários dias e anote direção e força.
+2. Defina a tarefa: bombear, moer ou ventilar o ambiente.
+3. Escolha ponto alto e livre de árvores e obstáculos.
+4. Firme o mastro com concreto e estacas bem enterradas.
+5. Monte a hélice com pás inclinadas e leves.
+6. Prenda a cauda na direção oposta às pás.
+7. Encaixe o eixo nos mancais e verifique giro livre.
+8. Ligue a transmissão à máquina que fará o trabalho.
+9. Gire a hélice com a mão para testar o conjunto.
+10. Solte a hélice e observe se ela vira para o vento.
+11. Ajuste a cauda até a orientação ficar estável.
+12. Comece a tarefa com carga leve e aumente aos poucos.
+13. Meça o trabalho feito em cada hora de vento.
+14. Registre os dias de vento fraco para prever a produção.
+
+ATENCAO
+-------
+A hélice gira depressa e pode ferir quem chegar perto.
+Trave a hélice antes de subir à torre para qualquer ajuste.
+Use cinto de segurança e nunca suba com vento forte.
+Torre mal firme pode cair e causar acidente grave.
+Desligue a máquina antes de fazer manutenção na transmissão.
+Em tempestade, trave a hélice e proteja os mancais.
+O vento é variável: mantenha sempre uma alternativa manual.
+
+SE NAO TIVER
+------------
+Sem hélice pronta, faça pás de tábuas leves com inclinação.
+Sem cauda, use uma placa de madeira presa atrás da hélice.
+Sem mancais, use madeira dura com graxa de sebo.
+Sem torre de metal, use madeira de lei com travessas.
+Sem anemômetro, use fita de pano para sentir o vento.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A hélice vira para o vento sem ajuda e gira suave.
+A máquina acionada executa a tarefa em dias ventosos.
+O mastro fica firme, sem balanço além do normal.
+A produção registrada acompanha a força do vento.
+
+FONTES
+------
+Prática consolidada de aproveitamento eólico rural em bombeamento
+de água e moagem. Base em manuais de energia eólica de pequeno porte
+e na experiência de comunidades que usam cata-ventos para irrigação.

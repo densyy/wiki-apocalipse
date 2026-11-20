@@ -1,0 +1,80 @@
+==============================================================================
+CODIGO: 54-020
+TITULO: Como documentar usos tradicionais de plantas
+CATEGORIA: 54 - Fitoterapia e plantas medicinais
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: caderno ou fichas, caneta, informante ou fonte escrita
+REVISAO: 2026-11
+PALAVRAS-CHAVE: planta, remédio caseiro, uso tradicional, eficácia, ficha
+==============================================================================
+
+OBJETIVO
+--------
+Registrar um uso tradicional de planta separando o relato da comprovação.
+
+QUANDO USAR
+-----------
+Quando alguém relatar que usa uma planta para algum fim.
+Quando você achar uma receita em caderno de família ou texto antigo.
+Quando for montar catálogo ou fichas de plantas de uso tradicional.
+Quando for repassar a outra pessoa uma informação sobre planta.
+
+NAO USE QUANDO
+--------------
+Não use o registro para decidir tratar doença grave sem atendimento.
+Não use relato de uso tradicional como prova de que a planta funciona.
+Não use a ficha para indicar dose ou consumo a outra pessoa.
+
+MATERIAIS
+---------
+- Caderno ou fichas avulsas (papel comum preso com linha).
+- Caneta ou lápis.
+- Pessoa que conhece o uso, ou texto antigo identificado como fonte.
+- Ficha com campos: planta, parte, preparo, quantidade, via, fim, origem.
+
+PROCEDIMENTO
+------------
+1. Escreva no topo da ficha o nome popular da planta.
+2. Anote o nome científico só se houver fonte confiável que o confirme.
+3. Pergunte quem ensinou o uso e anote o nome e a data do relato.
+4. Anote a parte usada: folha, raiz, casca, flor, fruto ou semente.
+5. Anote o preparo: infusão é água quente despejada sobre a planta.
+6. Escreva "decocção: planta fervida na água" quando for esse o preparo.
+7. Anote quantidade, via e tempo de uso apenas se a pessoa informar.
+8. Escreva a finalidade com as palavras da pessoa, sem corrigir.
+9. Separe a ficha em duas áreas: "relato" e "comprovação".
+10. Copie na área "relato" o dito precedido de "a pessoa relata que".
+11. Escreva na área "comprovação": "sem fonte consultada", se nada houver.
+12. Preencha a comprovação só com fonte escrita que você realmente leu.
+13. Feche com: "uso tradicional relatado; eficácia não avaliada".
+
+ATENCAO
+-------
+O erro que mais machuca é virar "relata que cura" em "a planta cura".
+Uso antigo e contínuo não prova eficácia nem segurança.
+Não invente dose para completar a ficha; deixe o campo em branco.
+Plantas podem ser tóxicas: registrar o uso não torna a planta segura.
+Se o relato envolver doença grave, gestação ou criança, pare de divulgar.
+Nesse caso, encaminhe a pessoa a um profissional de saúde.
+
+SE NAO TIVER
+------------
+Sem ficha impressa, use papel comum e escreva os campos à mão.
+Sem informante, use só texto identificado e registre a fonte.
+Sem nome científico, escreva "identificação pendente" na ficha.
+Se a informação vier de rede social, não a use como base sozinha.
+Procure a fonte original antes de registrar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A ficha mostra o relato separado da comprovação, com origem e data.
+Lendo só a ficha, dá para dizer quem relatou, o que foi dito e a base.
+
+FONTES
+------
+Prática consolidada de documentação etnobotânica e de registro do uso
+tradicional de plantas, sem documento único.
+Referência geral: diretrizes da OMS sobre medicina tradicional.
+Este texto é resumo operacional e não substitui treinamento nem parecer
+de profissional de saúde.

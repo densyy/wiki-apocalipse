@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 62-025
+TITULO: Como inspecionar a sanidade de produtos de origem animal
+CATEGORIA: 62 - Pecuária, reprodução e processamento animal
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: luz forte, termômetro, luvas, caderno, superfície limpa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: carne, leite, ovos, inspeção, validade, estragado
+==============================================================================
+
+OBJETIVO
+--------
+Fazer uma triagem sanitária de produtos de origem animal e separar os
+que não devem ser consumidos.
+
+QUANDO USAR
+-----------
+Ao abrir a geladeira depois de queda de energia.
+Ao receber carne, leite, ovos, pescado ou mel de origem desconhecida.
+Ao comprar em feira ou comércio sem refrigeração visível.
+Antes de guardar ou distribuir alimentos em abrigo coletivo.
+Ao desconfiar de embalagem danificada ou prazo vencido.
+
+NAO USE QUANDO
+--------------
+Não use esta triagem no lugar da inspeção oficial obrigatória.
+Em suspeita de contaminação química, radioativa ou por agrotóxico, isole
+o produto e procure o serviço oficial. Aparência e odor não revelam
+esses riscos.
+
+MATERIAIS
+---------
+- Luz forte (luz do dia ou lanterna).
+- Termômetro de alimentos (tato, apenas como aproximação).
+- Luvas descartáveis (saco plástico limpo).
+- Caderno e lápis para anotar lote, validade e decisão.
+- Faca e tábua limpas (só se for preciso abrir a embalagem).
+- Saco ou recipiente limpo para separar o produto reprovado.
+
+PROCEDIMENTO
+------------
+1. Coloque o produto sobre superfície limpa e bem iluminada.
+2. Leia o rótulo e anote nome, lote e prazo de validade.
+3. Procure o selo de inspeção, marca oficial do fiscalizador.
+4. Confira o selo: SIF é federal, SIE é estadual.
+5. Confira se o selo é SIM/SISBI municipal ou ARTE tradicional.
+6. Confira se o prazo de validade ainda não venceu.
+7. Examine a embalagem e rejeite se estiver aberta, furada ou vazando.
+8. Rejeite embalagem estufada, com gás ou com ferrugem.
+9. Meça a temperatura com termômetro limpo, no centro do produto.
+10. Rejeite produto refrigerado acima de aproximadamente 5 °C.
+11. Observe a cor e rejeite manchas escuras, verdes ou muco.
+12. Cheire e rejeite odor azedo, podre ou de amônia.
+13. Toque com luva e rejeite textura pegajosa ou escorregadia.
+14. Coloque o produto suspeito no saco limpo e identifique.
+15. Escreva "não consumir" no saco do produto reprovado.
+16. Não prove o produto suspeito para testar.
+17. Anote no caderno o motivo da rejeição e a data.
+18. Avise o responsável se várias pessoas receberam o mesmo lote.
+
+ATENCAO
+-------
+Inspeção visual e de odor não detecta bactérias, vírus, parasitas nem
+resíduos químicos. O USDA alerta que não é possível ver, cheirar ou provar
+as bactérias que causam doença.
+O selo e o rótulo podem ser falsificados e não garantem a segurança.
+A cadeia de frio rompida deixa o alimento com aspecto normal por fora.
+Não prove alimento suspeito: uma colherada basta para causar intoxicação.
+Carne, leite, ovos e pescado crus podem abrigar patógenos mesmo com boa
+aparência.
+Em embalagem estufada ou odor estranho, não abra, não prove e procure
+ajuda.
+Esta triagem não substitui a inspeção oficial nem exames de laboratório.
+
+SE NAO TIVER
+------------
+Sem termômetro, toque a embalagem: se estiver morna, rejeite o produto.
+O tato é aproximado e não substitui a medição.
+Sem luvas, lave as mãos com água e sabão por aproximadamente 20 segundos
+antes e depois do exame.
+Sem lanterna, leve o produto até a luz do dia para examinar.
+Sem saco limpo, use papel limpo para separar o produto suspeito.
+Não tente recuperar produto de odor duvidoso apenas cozinhando: certas
+toxinas resistem ao calor.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O produto aceito tem selo e rótulo íntegros, validade vigente e embalagem
+fechada, sem estufamento; esteve gelado e mantém cor, odor e textura
+característicos.
+O produto reprovado ficou separado, identificado e não foi consumido.
+
+FONTES
+------
+RIISPOA, Decreto 9.013/2017, e manuais de inspeção de ovos e leite da
+Secretaria de Defesa Agropecuária do MAPA.
+Orientações de segurança de alimentos do USDA/FSIS e da FDA sobre
+temperatura de refrigeração e sobre bactérias invisíveis ao olho, ao
+nariz e ao paladar.

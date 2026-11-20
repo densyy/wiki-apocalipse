@@ -1,0 +1,81 @@
+============================================================================
+CODIGO: 80-003
+TITULO: Como compreender o funcionamento dos combustíveis gasosos
+CATEGORIA: 80 - Produção de combustíveis e lubrificantes
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: ambiente arejado, companhia, lanterna, caderno
+REVISAO: 2026-11
+PALAVRAS-CHAVE: gas, botija, vazamento, ventilação, inflamável, chama, risco
+============================================================================
+
+OBJETIVO
+--------
+Entender como o gás combustível se comporta e como evitar vazamento,
+explosão e falta de oxigênio no ambiente.
+
+QUANDO USAR
+-----------
+Ao usar fogão, lampião ou aquecedor a gás.
+Ao trocar ou transportar botija pressurizada.
+Quando sentir cheiro de gás perto de aparelhos ou mangueiras.
+Antes de fechar um abrigo por várias horas.
+Ao instalar queimador em espaço com pouca ventilação.
+
+NAO USE QUANDO
+--------------
+Não guarde botija em porão, poço ou espaço sem saída de ar.
+Não procure vazamento com fósforo, isqueiro ou chama.
+Não acenda nem apague luz elétrica quando houver cheiro de gás.
+Não use gás para aquecer tenda ou abrigo totalmente fechado.
+
+MATERIAIS
+---------
+- Água com sabão para testar vazamentos nas conexões.
+- Lanterna fria, que não produza faísca.
+- Companhia avisada para ajudar em caso de emergência.
+- Caderno para anotar trocas e datas.
+
+PROCEDIMENTO
+------------
+1. Entenda que gás queima somente misturado com ar na proporção certa.
+2. Saiba que gás liquefeito é mais pesado e se acumula embaixo.
+3. Guarde botijas em pé, em local arejado e fora da casa.
+4. Feche a válvula depois de usar, não só a do fogão.
+5. Verifique vazamento com água e sabão nas conexões.
+6. Se sentir cheiro de gás, não acenda nem apague luz alguma.
+7. Feche a válvula, abra portas e janelas e saia do local.
+8. Volte só depois que o cheiro tiver sumido por completo.
+9. Não use o gás em ambiente fechado para aquecer o abrigo.
+10. Mantenha a botija longe de fogo, sol e impacto.
+11. Transporte a botija na posição vertical e presa.
+12. Anote a data de troca e o estado das conexões no caderno.
+
+ATENCAO
+-------
+Vazamento de gás pode explodir com a faísca de um interruptor.
+Gás sem cheiro é ainda mais perigoso: nunca confie só no olfato.
+Botija aquecida aumenta a pressão e pode romper a válvula.
+Nunca deite, role ou bata em botija pressurizada.
+Se o cheiro persistir, chame quem pode consertar e isole a área.
+A queima de gás consome oxigênio e produz monóxido de carbono.
+
+SE NAO TIVER
+------------
+Sem água com sabão, observe se há cheiro nas emendas, sem chama.
+Sem lanterna, espere a luz do dia para fazer a inspeção.
+Sem companhia, não troque a botija sozinho em local fechado.
+Sem local arejado, não use o aparelho: leve-o para fora.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Não aparecem bolhas de sabão nas conexões do aparelho.
+A chama acende com regularidade e cor azul, sem estalos.
+A botija fica em pé, longe de calor e protegida de impacto.
+Não há cheiro de gás no ambiente após o uso.
+
+FONTES
+------
+Noções de segurança com gases liquefeitos e combustão em recintos,
+resumidas de manuais de brigada de incêndio e de orientações de
+segurança do trabalho em instalações a gás. Texto conceitual.

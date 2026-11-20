@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 33-006
+TITULO: Como criar um sistema de hidroponia
+CATEGORIA: 33 - Agricultura avançada e autossuficiência rural
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: água potável, adubo solúvel para hidroponia, balde com tampa, mudas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: hidroponia, horta sem terra, solução, kratky, alface, ph
+==============================================================================
+
+OBJETIVO
+--------
+Montar um sistema hidropônico passivo para produzir folhosas sem solo.
+
+QUANDO USAR
+-----------
+Quando não há terra fértil ou o espaço disponível é pequeno.
+Quando não há energia para bombas ou circulação de água.
+
+NAO USE QUANDO
+--------------
+Quando a água tiver suspeita de esgoto ou contaminação química.
+Quando não houver adubo solúvel nem água potável para a solução.
+
+MATERIAIS
+---------
+- Balde opaco de 10 a 20 litros com tampa (caixa plástica com tampa).
+- Copo plástico de 5 a 7 cm por planta (pote furado).
+- Substrato: fibra de coco ou argila expandida (pedras pequenas lavadas).
+- Adubo solúvel completo para hidroponia e água potável.
+- Mudas com 2 a 3 folhas, medidor de pH e de CE (fita de pH).
+
+PROCEDIMENTO
+------------
+1. Escolha local com luz forte indireta ou meia-sombra.
+2. Lave o balde e a tampa com água e sabão e enxágue bem.
+3. Faça na tampa um furo de 5 a 7 cm para cada planta.
+4. Encha o balde com água potável até aproximadamente 3 cm abaixo da tampa.
+5. Dissolva o adubo na água conforme a dose da embalagem para esse volume.
+6. Ajuste o pH para 5,5 a 6,5 com produto próprio para hidroponia.
+7. Ajuste a CE para aproximadamente 1,5 mS/cm com adubo ou com água.
+8. Encha o copo com substrato e acomode a muda sem enterrar o colo.
+9. Encaixe o copo no furo, com as raízes tocando a solução.
+10. Deixe o nível cair sozinho, sem completar com solução no ciclo.
+
+ATENCAO
+-------
+Sais concentrados irritam pele e olhos; use luvas e lave as mãos.
+Nunca despeje adubo concentrado direto sobre as raízes.
+Fontes divergem: a CE ideal vai de 1,2 a 2,5 mS/cm para folhosas.
+Use aproximadamente 1,5 mS/cm e observe cor e crescimento das folhas.
+Fora do pH 5,5 a 6,5 o cultivo falha; retire mudas com podridão.
+
+SE NAO TIVER
+------------
+Sem medidor, use fita de pH; nunca improvise ácido caseiro.
+Sem adubo hidropônico, não use adubo de solo: pode queimar as raízes.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As raízes ficam brancas e surgem folhas novas em poucos dias.
+O pH e a CE medidos permanecem nas faixas indicadas.
+As folhas externas ficam prontas após aproximadamente 30 a 45 dias.
+
+FONTES
+------
+Emater-Pará, cartilha de cultivo hidropônico (2023); Embrapa, Circular
+Técnica 22, Princípios de Hidroponia; FAO, hidroponia; Oklahoma State
+Extension, guia de pH e CE.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 35-022
+TITULO: Como priorizar tecnologias essenciais para reconstrução
+CATEGORIA: 35 - Temas especiais que merecem enciclopédias próprias
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: papel, caneta, dados locais básicos, espaço seguro para reunião
+REVISAO: 2026-11
+PALAVRAS-CHAVE: priorizar, tecnologias, reconstrução, água, energia, abrigo
+==============================================================================
+
+OBJETIVO
+--------
+Definir a ordem de restauração das tecnologias após um colapso.
+
+QUANDO USAR
+-----------
+Quando faltam materiais, tempo ou pessoas para reconstruir tudo de uma vez.
+Quando água, energia e comunicação falham ao mesmo tempo.
+
+NAO USE QUANDO
+--------------
+Com perigo imediato à vida, priorize resgate, socorro e evacuação.
+Planeje tecnologias só depois de estabilizar as pessoas.
+
+MATERIAIS
+---------
+- Papel e caneta para listas (quadro e giz ou tábua e carvão).
+- Caderno para registrar prioridades, responsáveis e prazos.
+- Dados locais: moradores, feridos e estoque de água e comida.
+
+PROCEDIMENTO
+------------
+1. Reúna quem decide em local seguro, coberto e arejado.
+2. Anote moradores, feridos e dias de água e comida em estoque.
+3. Liste o que existe e o que a comunidade sabe operar.
+4. Separe em cinco grupos: água, energia, comunicação, abrigo, saúde.
+5. Risque o que exige peça, combustível ou saber que ninguém tem.
+6. Escreva a necessidade que cada item restante atende.
+7. Anote horas sem o sistema e operadores de cada um.
+8. Anote horas de trabalho e materiais de cada um.
+9. Ordene por risco à vida, tempo sem o sistema e facilidade.
+10. Marque como 1 o que evita mortes nas próximas 24 horas.
+11. Marque como 2 água, energia e comunicação; como 3, abrigo e comida.
+12. Escreva a lista final com responsável e prazo para cada item.
+
+ATENCAO
+-------
+Não coloque tecnologia complexa na frente de água potável e abrigo.
+Sistema que ninguém sabe operar não é prioridade, mesmo sendo poderoso.
+Se falta peça ou combustível, anote isso antes de ordenar a lista.
+Execute a prioridade 1 no mesmo dia e mostre a lista a todos.
+Com ferido grave, pare e procure atendimento primeiro.
+
+SE NAO TIVER
+------------
+Sem papel, use tábua, caixa de papelão ou chão com carvão.
+Sem dados, conte pessoas e recipientes de água no local.
+Sem equipe, faça a lista sozinho e leia em voz alta para os presentes.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A lista tem prioridades 1, 2 e 3, com responsável e prazo.
+A prioridade 1 foi executada no dia e a lista foi revisada.
+
+FONTES
+------
+Prática consolidada de recuperação e resiliência, sem documento único.
+Referências: National Disaster Recovery Framework (FEMA, terceira edição);
+Community Resilience Planning Guide (NIST, Publicação Especial 1197).

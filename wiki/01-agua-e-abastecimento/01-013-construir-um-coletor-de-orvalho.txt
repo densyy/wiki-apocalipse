@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 01-013
+TITULO: Como construir um coletor de orvalho
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 45 minutos
+RISCO: baixo
+EXIGE: folha de plástico limpa, corda, estacas, recipiente com tampa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: orvalho, água da noite, coleta, umidade, plástico, goteira
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma superfície que capta orvalho e leva a água a um recipiente.
+
+QUANDO USAR
+-----------
+Quando faltam fontes de água e as noites são claras, úmidas e sem vento.
+Em regiões secas, como complemento de outras fontes de água.
+
+NAO USE QUANDO
+--------------
+Quando o céu fica nublado ou o vento é forte: a folha quase não produz.
+Quando a folha ou o pote tiver resíduo de óleo, tinta ou agrotóxico.
+
+MATERIAIS
+---------
+- Folha de plástico limpa e lisa, de 1 a 2 metros quadrados (lona limpa).
+- Corda ou fita, 4 estacas e isolante seco (palha, folhas secas ou espuma).
+- Goteira: cano cortado ao meio, tábua em canal ou fita dobrada.
+- Recipiente limpo com tampa e pano limpo e seco.
+
+PROCEDIMENTO
+------------
+1. Escolha terreno plano, aberto para o céu e protegido do vento.
+2. Evite árvores, telhados e beira de estrada com poeira.
+3. Limpe a folha com o pano limpo e seco.
+4. Espalhe o isolante seco no chão e espete as estacas.
+5. Incline a folha aproximadamente 30 graus nas estacas, com ar por baixo.
+6. Prenda a borda mais baixa da folha sobre a goteira.
+7. Encaixe a goteira no recipiente, tampe-o e não toque na folha à noite.
+8. Incline a folha ao amanhecer, antes do sol, e passe o pano limpo.
+9. Esprema o pano no recipiente e tampe-o bem.
+10. Ferva a água, deixe esfriar tampada e beba (veja 01-001).
+
+ATENCAO
+-------
+O orvalho dá pouca água: na maioria das noites, apenas algumas colheres.
+A água fica exposta a poeira e fezes de aves; sem ferver, causa diarreia.
+Ferver não remove químicos: com óleo ou tinta, descarte a água.
+Não use lona com cheiro forte ou que tenha guardado combustível.
+Não suba em telhados: o risco de queda é maior que o ganho de água.
+
+SE NAO TIVER
+------------
+Sem folha, use pano limpo na grama e recolha o orvalho ao amanhecer.
+Sem goteira, dobre a borda da folha em canal e prenda com fita.
+Sem isolante, levante bem a folha nas estacas para criar camada de ar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A folha amanhece molhada, com gotas ou filme de água.
+A borda baixa escorre água para o recipiente antes do sol.
+
+FONTES
+------
+Prática consolidada de coleta passiva de orvalho por resfriamento.
+OPUR, Universidade da Córsega e CNRS: coletores inclinados a 30 graus.
+OMS e CDC: segurança da água e fervura; FM 21-76: coleta com lona ou pano.
+Texto operacional resumido; não substitui treinamento.

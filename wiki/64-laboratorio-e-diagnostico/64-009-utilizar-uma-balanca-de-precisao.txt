@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 64-009
+TITULO: Como utilizar uma balança de precisão
+CATEGORIA: 64 - Laboratório, diagnóstico e análises
+TEMPO: 15 minutos
+RISCO: medio
+EXIGE: balança, mesa firme, pesos certificados, recipiente limpo e seco
+REVISAO: 2026-11
+PALAVRAS-CHAVE: balança, precisão, pesar, massa, tara, calibração, gramas
+==============================================================================
+
+OBJETIVO
+--------
+Obter a massa de uma amostra com o menor erro que a balança permite.
+
+QUANDO USAR
+-----------
+Quando um procedimento pede uma massa exata, em gramas ou miligramas.
+Quando se prepara uma solução com concentração conhecida.
+Quando se controla a quantidade de um reagente ou de um produto.
+Quando se verifica o peso de um objeto pequeno.
+
+NAO USE QUANDO
+--------------
+Quando a balança estiver danificada, sem calibração válida ou fora de nível.
+Quando houver corrente de ar, vibração ou mudança de temperatura no local.
+Quando a massa ultrapassar a capacidade máxima marcada no aparelho.
+
+MATERIAIS
+---------
+- Balança de precisão com prato e proteção contra correntes de ar.
+- Pesos de calibração certificados, ou ajuste interno da própria balança.
+- Recipiente limpo e seco, como cápsula, papel ou vidro de relógio.
+- Pinça ou luvas para manusear pesos e amostras.
+- Pincel ou pano macio e sem fiapos para limpar o prato.
+
+PROCEDIMENTO
+------------
+1. Instale a balança sobre mesa firme, plana e sem vibração.
+2. Afaste a balança de janelas, ventiladores, portas e fontes de calor.
+3. Conecte a energia e deixe a balança aquecer por aproximadamente
+   30 minutos antes de medir.
+4. Verifique o nível. A bolha deve ficar dentro do círculo do indicador.
+5. Se a bolha estiver fora do centro, gire os pés de nivelamento.
+6. Limpe o prato com pincel ou pano macio e sem fiapos.
+7. Feche a proteção e acione a calibração da balança.
+8. Use o ajuste interno ou um peso certificado, conforme o manual.
+9. Confirme que o display mostra zero com o prato vazio.
+10. Coloque o recipiente vazio no centro do prato.
+11. Feche a proteção e pressione a tecla de tara para zerar o display.
+12. Retire o recipiente, coloque a amostra e feche a proteção.
+13. Espere o sinal de estabilidade antes de ler o valor.
+14. Anote a massa mostrada com todas as casas decimais do aparelho.
+15. Retire a amostra, limpe o prato e deixe a balança pronta.
+
+ATENCAO
+-------
+A balança desnivelada ou sem calibração dá valores errados e repetíveis.
+Correntes de ar, vibração e mudança de temperatura fazem o número oscilar.
+Objeto quente ou frio cria correntes de ar e altera a leitura.
+Espere a amostra chegar à temperatura do ambiente antes de pesar.
+Nunca toque pesos ou amostras com os dedos: óleo e umidade somam massa.
+Use pinça ou luvas e coloque tudo no centro do prato.
+Não ultrapasse a capacidade máxima: isso danifica o sensor de forma
+permanente e pode exigir troca do aparelho.
+Líquidos voláteis evaporam durante a pesagem e o valor cai sem parar.
+
+SE NAO TIVER
+------------
+Sem pesos certificados, use apenas o ajuste interno da balança.
+Se a balança não tiver ajuste interno, não invente calibração caseira.
+Leve o aparelho a um laboratório de metrologia para calibrar.
+Sem proteção contra ar, faça a leitura rápido e repita três vezes.
+Se os valores divergirem, procure outro local ou outra balança.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O display fica estável e mostra o mesmo valor em pesagens repetidas.
+O valor com o prato vazio é zero antes de cada medição.
+
+FONTES
+------
+Boas práticas de pesagem em laboratório: NIST (GMP-10 e NIST IR 6969),
+NATA, da Austrália, e procedimentos operacionais de laboratórios
+universitários e de agências ambientais. A calibração completa e
+rastreável exige pesos certificados e serviço de metrologia. Este texto
+é um resumo operacional e não substitui o manual do fabricante.

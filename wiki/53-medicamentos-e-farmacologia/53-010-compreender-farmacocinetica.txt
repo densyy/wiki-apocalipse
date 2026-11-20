@@ -1,0 +1,84 @@
+==============================================================================
+CODIGO: 53-010
+TITULO: Como compreender farmacocinética
+CATEGORIA: 53 - Produção de medicamentos e farmacologia
+TEMPO: 35 minutos
+RISCO: medio
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: farmacocinética, absorção, metabolismo, excreção, remédio
+==============================================================================
+
+OBJETIVO
+---------
+Entender o que o corpo faz com um remédio, da tomada até a saída.
+
+QUANDO USAR
+-----------
+Ao ler o campo de farmacocinética da bula de um medicamento.
+Ao entender por que um remédio age rápido e outro demora.
+Ao compreender por que a dose muda em criança, idoso ou doença renal.
+Ao entender por que certos remédios não devem ser misturados.
+
+NAO USE QUANDO
+--------------
+Não use para escolher remédio, dose, horário ou via de administração.
+Não substitui bula, prescrição nem orientação do farmacêutico.
+Não serve para calcular dose nem trocar de medicação.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Defina farmacocinética: o que o corpo faz com o remédio.
+2. Separe de farmacodinâmica: esta estuda o que o remédio faz ao corpo.
+3. Fixe a sigla ADME: absorção, distribuição, metabolismo e excreção.
+4. Explique absorção: o remédio sai do local da tomada e entra no sangue.
+5. A via muda a absorção: na veia é direta; pela boca, passa ao intestino.
+6. Explique distribuição: o sangue leva o remédio aos órgãos e tecidos.
+7. Cite barreiras: cérebro e placenta filtram o que consegue passar.
+8. Defina volume de distribuição: espaço aparente que o remédio ocupa.
+9. Explique metabolismo: o fígado transforma o remédio em metabólitos.
+10. Saiba que o metabólito pode ser inativo ou ainda ativo.
+11. Explique excreção: o rim elimina pela urina; o fígado, pela bile.
+12. Cite outras saídas: suor, saliva, leite materno e ar expirado.
+13. Defina depuração: volume de sangue limpo do remédio por tempo.
+14. Defina meia-vida: tempo para a quantidade no corpo cair pela metade.
+15. Leia a curva: a concentração no sangue sobe, chega ao pico e cai.
+16. Relacione: a absorção define o pico; a eliminação define a queda.
+17. Entenda o equilíbrio: em 4 a 5 meias-vidas, entrada e saída se igualam.
+18. Aplique: idoso e doença renal ou hepática mudam o resultado.
+
+ATENCAO
+-------
+Este texto explica conceitos; não indica remédio, dose ou tratamento.
+Farmacocinética varia entre pessoas: idade, peso, rim e fígado mudam tudo.
+A bula traz médias de população; seu corpo pode responder diferente.
+Metabólito ativo pode estender o efeito além do que a meia-vida sugere.
+Nunca mude via, horário, marca ou dose por conta própria.
+Álcool e outros remédios alteram absorção, metabolismo e excreção.
+Sinais de intoxicação: náusea, vômito, tontura, confusão, falta de ar.
+Com sonolência profunda ou falta de ar, procure emergência.
+
+SE NAO TIVER
+------------
+- Sem bula, use um manual de farmacologia ou a ficha técnica do remédio.
+- Sem dado na bula, não invente número: diga que não sabe.
+- Sem orientação do farmacêutico, não troque de medicamento.
+- Não use site comercial ou rede social como fonte de dose ou conduta.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- Você explica as quatro etapas sem usar a sigla ADME.
+- Você diz o que o corpo faz e o que o remédio faz ao corpo.
+- Você aponta qual etapa muda o pico e qual muda a queda.
+- Você entende por que rim e fígado doentes mudam a resposta.
+
+FONTES
+------
+Manuais MSD edição para profissionais: Visão geral da farmacocinética.
+StatPearls, NCBI Bookshelf: Pharmacokinetics.
+Anvisa: bulas, fichas técnicas e Manual de bioequivalência.
+Resumo educativo; não substitui bula, prescrição nem orientação clínica.

@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 24-018
+TITULO: Como avaliar riscos de incêndio em construções
+CATEGORIA: 24 - Segurança pessoal e proteção comunitária
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: caderno, lápis, lanterna, fita adesiva
+REVISAO: 2026-11
+PALAVRAS-CHAVE: incêndio, risco, fogo, saída de emergência, extintor, fumaça
+==============================================================================
+
+OBJETIVO
+--------
+Identificar os principais riscos de incêndio em uma construção e
+decidir o que corrigir primeiro.
+
+QUANDO USAR
+-----------
+Ao ocupar uma casa ou um prédio que esteve fechado por muito tempo.
+Ao escolher onde dormir, cozinhar ou guardar suprimentos.
+Depois de reforma, incêndio pequeno ou mudança no uso do imóvel.
+Antes de temporada seca ou de uso intenso de fogões e aquecedores.
+
+NAO USE QUANDO
+--------------
+Se houver fogo, fumaça ou cheiro forte de queima ativo: saia e chame
+os bombeiros.
+Se a estrutura estiver cedendo ou com risco de desabamento.
+Se houver vazamento de gás ou combustível sem ventilação.
+Esta inspeção não substitui a vistoria técnica do Corpo de Bombeiros.
+
+MATERIAIS
+---------
+- Caderno e lápis para anotar cada achado.
+- Lanterna (ou luz de celular) para ver cantos escuros.
+- Fita adesiva ou papel para marcar o ponto encontrado.
+
+PROCEDIMENTO
+------------
+1. Observe o exterior e conte os andares, as portas e as janelas.
+2. Anote quantas pessoas dormem no local e se alguém tem mobilidade
+   reduzida.
+3. Percorra as rotas de saída do ponto mais interno até a rua.
+4. Verifique se cada compartimento tem duas saídas, inclusive janelas
+   que abram para fora.
+5. Abra cada porta de saída e confirme que gira no sentido da rua sem
+   precisar de chave.
+6. Retire das rotas móveis, caixas, entulho e tapetes soltos.
+7. Examine paredes e teto: procure manchas de fuligem e tomadas
+   escurecidas.
+8. Inspecte a fiação: veja cabos descascados, emendas improvisadas,
+   tomadas sobrecarregadas e extensões ligadas em série.
+9. Na cozinha e junto a aquecedores, afaste papel, tecido, madeira,
+   inflamáveis e botijões a pelo menos 1 metro do calor.
+10. Verifique o botijão de gás: local ventilado, mangueira íntegra e
+    registro fechado quando não estiver em uso.
+11. Confirme que há extintor visível e acessível em cada andar, com
+    o ponteiro na faixa verde e o prazo dentro da validade.
+12. Pressione o botão de teste dos alarmes de fumaça em cada andar
+    e junto aos dormitórios.
+13. Combine um ponto de encontro externo e ensine as duas saídas a
+    todas as pessoas do local.
+14. Classifique cada achado: urgente se bloqueia saída, há fio
+    exposto ou inflamável junto ao calor; posterior se for menor.
+
+ATENCAO
+-------
+Fogo em ambiente fechado mata por fumaça e monóxido de carbono antes
+das chamas. Nunca reentre para buscar objetos ou pessoas.
+Não abra quadro energizado, não desencoste fio e não faça emenda:
+procure um eletricista. Use só lanterna, nunca chama direta.
+Com cheiro de gás, não acenda luz, não acione interruptores e saia.
+Com fogo ativo, fumaça densa ou estrutura cedendo, pare e chame
+os bombeiros.
+A inspeção não vê fios ocultos nem falhas na estrutura. Refaça-a
+após reforma ou mudança de uso. Resumo operacional, não substitui
+vistoria técnica.
+
+SE NAO TIVER
+------------
+Sem lanterna, inspecione somente com luz natural.
+Sem caderno, repita o percurso com outra pessoa e memorizem os achados.
+Sem extintor, redobre o cuidado com o calor e mantenha as saídas
+livres. Não improvise equipamento de combate a fogo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você percorreu as rotas, abriu as saídas, testou os alarmes e tem
+lista escrita com cada risco e a ordem de correção.
+Cada compartimento tem duas saídas e o ponto de encontro foi
+combinado com todos.
+
+FONTES
+------
+Checklist de avaliação de risco de incêndio do GOV.UK, 2024.
+Normas do Corpo de Bombeiros de MG, GO e MT sobre saídas, extintores
+e sinalização. Guias de fuga e alarmes da NFPA e da USFA/FEMA.
+Prática consolidada de inspeção; resumo que não substitui vistoria.

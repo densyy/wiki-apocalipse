@@ -1,0 +1,94 @@
+==============================================================================
+CODIGO: 13-030
+TITULO: Como realizar observações científicas sem laboratório
+CATEGORIA: 13 - Química e conhecimentos científicos aplicados
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: caderno, lápis, régua ou barbante, boa luz, água e sabão
+REVISAO: 2026-11
+PALAVRAS-CHAVE: observar, caderno de campo, medir, comparar, repetir, olhar
+==============================================================================
+
+OBJETIVO
+---------
+Registre o que vê e mede de forma que outra pessoa possa conferir depois.
+
+QUANDO USAR
+-----------
+Quando aparece pó, mancha ou resíduo desconhecido e é preciso descrevê-lo.
+Quando faltam equipamentos para comparar duas amostras de água ou de solo.
+Quando é preciso acompanhar uma mudança ao longo de vários dias.
+Quando um resultado caseiro precisa de conferência antes de virar decisão.
+
+NAO USE QUANDO
+--------------
+Quando a decisão envolver água de beber, comida ou remédio: observar não
+substitui análise em laboratório.
+Quando a amostra solta pó, cheiro forte ou fumaça: não abra, afaste-se.
+
+MATERIAIS
+---------
+- Caderno de capa dura com páginas numeradas (ou folhas presas).
+- Lápis (a tinta borra com água; anote sempre a lápis).
+- Régua, ou barbante com nós a cada palmo (medida aproximada).
+- Boa luz difusa, sem sol direto nos olhos.
+- Recipiente transparente e papel branco para servir de fundo.
+- Água, sabão e pano para lavar as mãos ao terminar.
+
+PROCEDIMENTO
+------------
+1. Escreva no caderno a data, a hora e o local da observação.
+2. Escreva o nome da amostra e de onde ela veio.
+3. Anote a luz, o tempo de chuva e a temperatura aproximada.
+4. Coloque a amostra no recipiente sobre o papel branco.
+5. Observe sem tocar: cor, brilho, forma, tamanho e textura.
+6. Escreva só o que os olhos veem.
+7. Anote à parte o que deduce e rotule como interpretação.
+8. Meça com a régua ou o barbante e escreva o número com a unidade.
+9. Repita a medição; se divergir, meça uma terceira vez.
+10. Compare com uma amostra conhecida, se houver uma por perto.
+11. Mude uma condição por vez, só luz ou umidade, e anote a diferença.
+12. Volte no dia seguinte, no mesmo horário, e repita os passos 4 a 9.
+13. Risque o valor errado com um traço e escreva o novo ao lado.
+14. Leia o registro em voz alta para outra pessoa conferir.
+15. Lave as mãos com água e sabão ao terminar.
+
+ATENCAO
+-------
+Cor, brilho e cheiro não identificam substância: descrevem só aparência.
+Ausência de cheiro não significa segurança; cheiro não mede risco.
+Nunca prove e nunca encoste o nariz no recipiente.
+Se precisar registrar odor, abane de longe com a mão e pare se irritar.
+Não cheire de propósito substância desconhecida ou tóxica.
+Nunca misture produtos, aqueça, use chama nem abra recipiente suspeito.
+Pó e vapor são via de exposição: com pó solto, use máscara ou afaste-se.
+Um número isolado não prova nada: repita e registre a variação.
+Se olhos, pele ou garganta irritarem, saia e lave com água corrente.
+Procure ajuda e informe o que havia no local; este método não substitui
+laudo nem análise de laboratório.
+
+SE NAO TIVER
+------------
+Sem caderno, dobre folhas e numere-as; não confie na memória.
+Sem lápis, use carvão de fogueira em papel seco e copie depois.
+Sem régua, use o barbante com nós e marque a medida como aproximada.
+Sem recipiente transparente, use um vidro limpo sobre papel branco.
+Sem amostra de referência, compare o antes e o depois do mesmo objeto.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Outra pessoa consegue repetir a leitura usando só o que está no caderno.
+Há data, hora, local, unidade e duas medições para cada ponto observado.
+A mudança aparece com traço sobre o valor antigo, sem apagar.
+Nenhum passo exigiu provar, inalar direto, misturar ou aquecer a amostra.
+
+FONTES
+------
+NOAA/NESDIS: material sobre o metodo cientifico: observar, registrar dados,
+definir variaveis e conferir a propria hipotese.
+USGS: procedimentos de campo com notas corrigidas por trace, repeticao de
+medicoes e checagem de seguranca no local.
+Embrapa: manuais de analise de solo e cadernos de campo com paginas
+numeradas, anotacoes a lapis e sequencia fixa de observacao.
+Regras universitarias de seguranca quimica (Cornell, IIT Bombay, ACS):
+nunca provar nem inalar diretamente substancia desconhecida.

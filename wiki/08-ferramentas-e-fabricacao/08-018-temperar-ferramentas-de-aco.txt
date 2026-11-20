@@ -1,0 +1,97 @@
+==============================================================================
+CODIGO: 08-018
+TITULO: Como temperar ferramentas de aço
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: fogo forte, aço de ferramenta, óleo ou água, óculos, luvas, pinça
+REVISAO: 2026-11
+PALAVRAS-CHAVE: aço, têmpera, endurecer, brasa, óleo, cor, cinzel, quebrar
+==============================================================================
+
+OBJETIVO
+--------
+Deixar uma ferramenta de aço-carbono dura e tenaz, sem ficar quebradiça.
+
+QUANDO USAR
+-----------
+Quando lima, cinzel ou punção amoleceu e não mantém mais o fio.
+Quando a peça foi forjada e precisa recuperar dureza e resistência.
+Quando falta substituto e é preciso reaproveitar aço de ferramenta.
+
+NAO USE QUANDO
+--------------
+Aço macio (vergalhão, chapa, arame): não endurece com têmpera.
+Peça com rachadura, fenda ou seção muito desigual: racha no resfriamento.
+Sem óculos, luvas ou pinça: pare.
+Sem recipiente metálico com tampa para o óleo: pare.
+
+MATERIAIS
+---------
+- Aço de ferramenta conhecido: lima, cinzel, punção ou faca de aço-carbono.
+- Fogo de forja, brasa forte ou maçarico que chegue ao vermelho-cereja.
+- Óleo de têmpera (ou mineral) em recipiente metálico fundo com tampa.
+- Água limpa ou salmoura (água com sal) como banho alternativo.
+- Lixa ou pedra de amolar para polir uma face da ponta.
+- Pinça ou tenaz para segurar a peça quente.
+- Óculos de proteção e luvas grossas.
+- Balde com água para apagar o fogo.
+
+PROCEDIMENTO
+------------
+1. Use só aço de ferramenta conhecida; aço macio não endurece.
+2. Pola uma face da ponta com lixa ou pedra até ficar brilhante.
+3. Aqueça a ponta até vermelho-cereja (aproximadamente 780 °C).
+4. Retire do fogo e mergulhe a parte quente no banho em um movimento firme.
+5. Escolha óleo para aço de ferramenta; água ou salmoura para aço simples.
+6. Mexa devagar no banho para quebrar a bolha de vapor; deixe esfriar.
+7. Retire, enxugue e passe a lima: se deslizar sem morder, endureceu.
+8. Se a lima morder, repita os passos 3 a 7 com aquecimento um pouco maior.
+9. Tempere agora: não espere esfriar nem deixe para o dia seguinte.
+10. Aqueça de novo devagar, pelo lado oposto à face polida.
+11. Retire ao ver marrom-claro na face polida (aproximadamente 250 °C).
+12. Mergulhe na água ou no óleo para fixar a têmpera ao ver a cor.
+13. Enxugue e verifique: sem rachadura visível; a lima ainda resiste.
+
+ATENCAO
+-------
+Aço a aproximadamente 780 °C queima na hora: use luvas, óculos e pinça.
+Nunca toque na ponta quente com a mão.
+O óleo pode incendiar: mantenha a tampa metálica ao lado e nunca deixe o
+recipiente aberto perto do fogo.
+A têmpera com água é brusca e racha peça com seção desigual; o óleo é mais
+seguro contra rachadura, mas inflamável.
+Peça endurecida é muito quebradiça: tempere na hora; deixada de um dia para
+o outro, pode rachar sozinha.
+A cor depende da luz, do tempo e da liga; as tabelas divergem em até 50 °C.
+Use a cor apenas como guia em aço-carbono simples.
+Para raspador e broca, pare no amarelo-claro (aproximadamente 220 °C).
+Para mola e chave de fenda, deixe chegar ao azul (aproximadamente 290 °C).
+Aquecer pouco não endurece; aquecer demais queima o carbono e deixa a peça
+mole ou quebradiça.
+Pare e procure ajuda se a peça rachar, se o óleo pegar fogo ou se faltarem
+óculos e luvas.
+
+SE NAO TIVER
+------------
+Sem óleo de têmpera, use água limpa ou salmoura em aço-carbono simples;
+aceite o risco maior de rachadura e nunca use em peça com seção desigual.
+Sem lixa, esfregue a face com pedra de amolar até brilhar.
+Sem termômetro, use a cor da face polida, com as limitações acima.
+Sem pinça ou tenaz, não faça: a mão não substitui a pinça perto do fogo.
+Sem aço de ferramenta, pare: aço macio não endurece.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Antes da têmpera, a lima desliza na ponta sem morder.
+Depois, a face polida mostra a cor alvo e a lima ainda resiste.
+A ponta não tem manchas negras de carbono nem rachadura visível.
+
+FONTES
+------
+NIST (National Bureau of Standards), Letter Circular 104, Heat Treatment
+of Steel; e Monograph 18, Heat Treatment and Properties of Iron and Steel.
+USDA Forest Service, Hand Drilling and Breaking Rock (8423-2602-MTDC),
+seção Complete Reconditioning.
+Manual do Exército dos EUA FM 3-05.70 Survival (2002), capítulo 12.
+Valores de cor e temperatura são aproximados e variam entre tabelas.

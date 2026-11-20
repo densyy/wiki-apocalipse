@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 09-057
+TITULO: Como criar um catálogo de arquivos em papel
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 50 minutos
+RISCO: baixo
+EXIGE: caderno, lápis, envelopes ou pastas, documentos, caixa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: catálogo, índice, documentos, arquivo, papéis, encontrar
+==============================================================================
+
+OBJETIVO
+--------
+Monte um catálogo em papel para localizar qualquer documento guardado sem
+celular nem internet.
+
+QUANDO USAR
+-----------
+- Quando há muitos papéis e ninguém sabe onde cada um está.
+- Quando o celular e a internet falham e é preciso achar um documento.
+
+NAO USE QUANDO
+--------------
+Quando não der para manter o caderno atualizado: desatualizado, ele engana.
+
+MATERIAIS
+---------
+- Caderno (bloco de folhas presas com grampos) e lápis (caneta).
+- Envelopes ou pastas (saquinhos plásticos com fecho) e etiquetas.
+- Caixa com tampa (pasta rígida) e cópias dos documentos importantes.
+
+PROCEDIMENTO
+------------
+1. Reúna todos os documentos em uma mesa limpa e seca.
+2. Separe por grupo: identidade, saúde, propriedade, mapas e contatos.
+3. Retire papéis sem valor e rasgue os que têm dados sensíveis.
+4. Numere cada envelope ou pasta de 1 em diante, com lápis.
+5. Escreva o mesmo número em cada documento guardado no envelope.
+6. Reserve a primeira página do caderno para o índice.
+7. Anote número, título curto, grupo, local e data no índice.
+8. Cole a etiqueta com o número no envelope e guarde tudo na caixa.
+9. Copie cada documento importante e guarde em envelope marcado CÓPIA.
+10. Atualize o caderno no dia em que guardar ou retirar um papel.
+
+ATENCAO
+-------
+Risco físico baixo: só há retrabalho ou extravio de papel, sem lesão.
+Catálogo desatualizado engana: se o papel mudou, atualize o caderno.
+O catálogo só diz onde está; não protege contra fogo, água ou roubo.
+Guarde originais e cópias separados; um incêndio pode destruir os dois.
+Não anote senhas ou contas: quem achar o caderno terá acesso a elas.
+
+SE NAO TIVER
+------------
+Sem caderno, use folhas soltas numeradas, presas com grampos.
+Sem envelopes, dobre o papel e escreva o número na capa, com lápis.
+Sem caixa vedada, use saco plástico com fecho em prateleira alta e seca.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- Ao escolher um número, o envelope está na caixa e o título confere.
+- Outra pessoa encontra um documento sorteado em menos de um minuto.
+
+FONTES
+------
+- FEMA, guia P-1096 "Safeguard Critical Documents and Valuables".
+- FEMA, comunicado "Copy that: Keep your documents safe and accessible".
+- FTC, "How To Organize Your Important Papers Before a Disaster Strikes".
+- CFPB, "Get prepared before a disaster or emergency strikes".

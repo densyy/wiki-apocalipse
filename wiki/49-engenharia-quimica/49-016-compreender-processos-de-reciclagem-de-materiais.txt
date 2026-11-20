@@ -1,0 +1,84 @@
+==============================================================================
+CODIGO: 49-016
+TITULO: Como compreender processos de reciclagem de materiais
+CATEGORIA: 49 - Engenharia química e processos industriais
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: caderno, lupa, luvas, amostras de material descartado
+REVISAO: 2026-11
+PALAVRAS-CHAVE: reciclagem, materiais, separacao, coleta, triagem, lixo
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer as etapas e os caminhos da reciclagem de materiais comuns.
+
+QUANDO USAR
+-----------
+Quando precisar decidir o que separar para reaproveitamento.
+Quando montar um ponto de coleta ou triagem improvisado.
+Quando quiser entender por que um material nao pode ser reciclado.
+Quando precisar explicar a diferenca entre reuso e reciclagem.
+
+NAO USE QUANDO
+--------------
+Nao use este texto para manusear residuos perigosos: quimicos,
+medicamentos, pilhas, eletronicos com baterias ou material contaminado.
+Procure orientacao da autoridade local antes de tocar nesses residuos.
+
+MATERIAIS
+---------
+- Caderno e lapis para anotar.
+- Lupa de mao (ou vidro ampliador improvisado).
+- Luvas de pano ou borracha.
+- Amostras separadas: papel, plastico, vidro, metal, organico.
+- Sacos ou caixas limpos para separar cada tipo.
+
+PROCEDIMENTO
+------------
+1. Separe as amostras em grupos por material: papel, plastico, vidro,
+   metal e organico.
+2. Observe cada amostra com a lupa e anote cor, textura e peso.
+3. Identifique o tipo de plastico pelo numero dentro do triangulo.
+   Os tipos 1 e 2 sao os mais comuns de reprocessar.
+4. Reconheca a cadeia: coleta, triagem, limpeza, reprocessamento e
+   fabricacao de um produto novo.
+5. Entenda a triagem: separar por tipo evita que um material
+   contamine todo o lote.
+6. Note que papel e papelao passam por maceracao em agua e secagem.
+7. Note que vidro e metal sao derretidos e moldados de novo.
+8. Distinga duas rotas do plastico: remoer e derreter (mecanica) ou
+   quebrar quimicamente em materiais menores (quimica).
+9. Entenda que reciclagem consome energia e gera perdas: nem todo
+   material volta ao produto original.
+10. Anote no caderno a rota provavel de cada amostra.
+
+ATENCAO
+-------
+Materiais descartados podem ter bordas cortantes ou residuos quimicos.
+Use luvas e nao cheire nem manipule material desconhecido.
+Plastico de tipo diferente misturado contamina o lote e o invalida.
+Papel com gordura ou tinta pesada pode nao ser reciclavel.
+Vidro quebrado corta: envolva em pano antes de guardar.
+Nao queime plastico para testar: libera fumos toxicos.
+Este texto ensina a compreender, nao a operar maquinas industriais.
+Processos quimicos de reprocessamento exigem controle e equipamento.
+
+SE NAO TIVER
+------------
+Sem lupa, observe com os olhos e compare peso e brilho.
+Sem amostras, use embalagens limpas que ja tenha em casa.
+Nao substitua luvas por maos desprotegidas ao lidar com sucata.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Voce consegue nomear a rota de cada amostra no caderno.
+Voce explica a diferenca entre reuso direto e reciclagem.
+Voce aponta pelo menos um motivo que invalida um lote.
+
+FONTES
+------
+Pratica consolidada de gestao de residuos e reciclagem, sem documento
+unico. Familias de referencia institucional: EPA e Programa das Nacoes
+Unidas para o Meio Ambiente. Resumo operacional, nao substitui
+treinamento nem a orientacao da autoridade local.

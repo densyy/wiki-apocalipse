@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 01-011
+TITULO: Como construir um poço artesiano (conceitos e limitações)
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: caderno, lápis, dados do terreno e do órgão gestor local
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, poço, artesiano, aquífero, perfuração, outorga
+==============================================================================
+
+OBJETIVO
+--------
+Entender o que é um poço artesiano e decidir se ele é viável no seu terreno.
+
+QUANDO USAR
+-----------
+Quando a fonte atual seca ou não dá vazão suficiente.
+Quando vizinhos relatam água em poços profundos na mesma região.
+Quando é preciso água o ano inteiro, inclusive na seca.
+Ao planejar a obra, antes de contratar quem vai perfurar.
+
+NAO USE QUANDO
+--------------
+Quando o objetivo é apenas escolher o ponto: isso exige estudo técnico.
+Quando não há autorização do órgão gestor estadual de recursos hídricos.
+Quando há fossa, lixão, posto de combustível ou lavoura com defensivo perto.
+Em planície costeira sem estudo: há risco de captar água salgada.
+
+MATERIAIS
+---------
+- Caderno e lápis para anotar os dados.
+- Croqui do terreno e dos poços vizinhos (ou a memória dos moradores).
+- Comprovante de posse da terra.
+- Contato do órgão gestor estadual e de profissional habilitado.
+
+PROCEDIMENTO
+------------
+1. Entenda: poço artesiano capta aquífero confinado sob pressão.
+2. Aquífero confinado é camada porosa presa entre camadas impermeáveis.
+3. Se a pressão eleva a água acima do terreno, o poço é jorrante.
+4. Se a água sobe mas não atinge a superfície, é não jorrante.
+5. Não confunda profundidade com artesianismo: poço fundo pode ser comum.
+6. Anote a profundidade e a vazão dos poços vizinhos no caderno.
+7. Pergunte se a água deles é doce, salgada ou turva, e se seca.
+8. Consulte o órgão gestor do estado sobre outorga e autorização.
+9. Em vários estados é preciso autorização antes de perfurar.
+10. Contrate profissional habilitado para o estudo hidrogeológico.
+11. Exija projeto com locação, revestimento, filtro e vedação.
+12. Exija cimentação do espaço anular, laje e tampa na boca do poço.
+13. Peça análise físico-química e bacteriológica antes de beber.
+14. Guarde o perfil construtivo e o teste de bombeamento entregues.
+
+ATENCAO
+-------
+Perfuração é obra de engenharia: sem técnico, o poço pode desabar.
+Poço mal vedado mistura aquíferos e leva contaminação para a água.
+Fossa, lixão ou combustível perto podem contaminar o aquífero.
+Em planície costeira, perfurar fundo pode trazer água salgada.
+O jorro pode cessar: a pressão some quando se bombeia demais.
+Água subterrânea é finita: se extrair mais do que recarrega, esgota.
+Não beba água nova sem análise: artesiano não significa potável.
+Sem outorga ou autorização, perfurar é infração, com multa e embargo.
+
+SE NAO TIVER
+------------
+Sem condição de perfurar, use outra fonte: chuva, cisterna ou nascente.
+Trate a água antes de beber, como em 01-001.
+Não improvise com trado ou tubo de PVC sem projeto: é inseguro.
+Procure o órgão gestor e um profissional habilitado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Há projeto construtivo entregue, com perfil e teste de bombeamento.
+A água subiu no poço sem bomba, ou até o nível previsto no projeto.
+A análise da água atende aos padrões de potabilidade.
+A autorização de perfuração e a outorga estão regularizadas.
+
+FONTES
+------
+Cartilha "Poços e águas subterrâneas" da CPRM, Serviço Geológico do Brasil.
+Materiais da ANA sobre aquíferos, outorga e competência dos estados.
+USGS, "Artesian Water and Artesian Wells", sobre pressão e superfície
+potenciométrica. Guia de poços jorrantes do estado de Michigan (EGLE).
+Manual de fiscalização do CREA-PR sobre poços tubulares.
+Prática consolidada de construção de poços; resumo operacional, não
+substitui projeto nem responsável técnico habilitado.

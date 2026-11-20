@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 46-004
+TITULO: Como avaliar sinais vitais de animais de criação
+CATEGORIA: 46 - Medicina veterinária e saúde animal
+TEMPO: 20 minutos
+RISCO: medio
+EXIGE: termômetro veterinário, barbante, cronômetro, caderno, ajudante
+REVISAO: 2026-11
+PALAVRAS-CHAVE: temperatura, pulso, respiração, febre, animal doente
+==============================================================================
+
+OBJETIVO
+--------
+Medir temperatura, pulso e respiração de um animal de criação.
+Notar quando os números indicam que ele precisa de ajuda.
+
+QUANDO USAR
+-----------
+Quando um animal para de comer ou fica quieto, separado do grupo.
+Quando há tosse, respiração ofegante ou corrimento no nariz.
+Quando há suspeita de febre, calor excessivo ou fraqueza.
+Ao receber um animal novo, para registrar o que é normal nele.
+
+NAO USE QUANDO
+--------------
+Não faça a medição se não houver forma segura de conter o animal.
+Não use termômetro de vidro com mercúrio: se quebrar, fere o reto.
+Não tome a leitura como diagnóstico nem como autorização para medicar.
+
+MATERIAIS
+---------
+- Termômetro veterinário digital.
+- Barbante longo para prender o termômetro.
+- Cronômetro ou relógio com ponteiro de segundos.
+- Caderno e lápis para anotar os números.
+- Pessoa ajudante ou cerca para conter o animal com segurança.
+
+PROCEDIMENTO
+------------
+1. Observe o animal parado, antes de encostar nele.
+2. Anote se ele está alerta, se come e se respira sem ruído.
+3. Conte 15 segundos os movimentos do flanco do animal em repouso.
+4. Multiplique por 4 para obter respirações por minuto.
+5. Conte só a entrada ou só a saída de ar, nunca as duas.
+6. Anote ofego, ruído ou esforço para respirar.
+7. Em bovinos e equinos, ache a artéria na borda inferior do maxilar.
+8. Em ovinos e caprinos, apalpe a artéria na face interna da coxa.
+9. Em suínos, apalpe o coração direto no peito.
+10. Use o indicador e o médio, nunca o polegar.
+11. Conte os batimentos por um minuto e anote.
+12. Prenda o barbante na ponta do termômetro.
+13. Lubrifique a ponta do termômetro.
+14. Introduza o termômetro no reto com cuidado.
+15. Retire o termômetro após 2 a 3 minutos.
+16. Leia a temperatura em graus Celsius.
+17. Anote a temperatura no caderno.
+18. Limpe o termômetro.
+19. Lave as mãos.
+20. Repita no dia seguinte, no mesmo horário, se o número mudou.
+
+ATENCAO
+-------
+Estresse, calor, exercício e manejo alteram os números. Meça com o animal
+em repouso e anote o horário e o que ele fazia.
+As faixas divergem entre raças, idades e fontes. Registre o normal de cada
+animal antes de decidir que ele está doente.
+Febre acima de 39,5 °C em bovino ou 40,0 °C em ovino exige ajuda.
+Procure ajuda também se o animal ficar deitado, não comer ou não levantar,
+ou se o pulso e a respiração subirem com ele parado.
+Encoste a ponta do termômetro na parede do reto, nunca nas fezes.
+Não tente conter animal agressivo sozinho. Peça ajuda e use uma cerca.
+Este procedimento não diagnostica doença e não substitui o veterinário.
+
+SE NAO TIVER
+------------
+Sem termômetro, aproxime o dorso da mão do flanco e do nariz do animal.
+Você sente o calor e o esforço, mas não sabe a temperatura exata.
+Sem cronômetro, use o ponteiro de um relógio. Se não houver, observe só
+se o animal está ofegante. Diga que o número é aproximado.
+Sem ajuda para conter o animal, não force a medição. Observe de longe.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os três números ficaram anotados e podem ser comparados dia a dia.
+Faixas de referência para animais adultos em repouso:
+Temperatura retal: bovino 38,0 a 39,0 °C; equino 37,5 a 38,2 °C.
+Temperatura retal: ovino 38,5 a 39,5 °C; caprino 38,5 a 39,7 °C.
+Temperatura retal: suíno 38,7 a 39,8 °C.
+Pulso por minuto: bovino 40 a 70; equino 28 a 40.
+Pulso por minuto: ovino e caprino 60 a 90; suíno 60 a 100.
+Respiração: ovino e caprino 12 a 20; equino 8 a 16.
+Respiração: suíno 8 a 18; bovino de corte 10 a 30; leiteiro 18 a 28.
+
+FONTES
+------
+Manual Merck Veterinário: faixas de temperatura retal por espécie.
+Virginia Cooperative Extension (APSC-169, 2025) e University of Arizona
+(BCH-3000): técnica de medição, pulso e respiração. Embrapa e WOAH:
+sinais de doença e monitoramento em animais de criação.

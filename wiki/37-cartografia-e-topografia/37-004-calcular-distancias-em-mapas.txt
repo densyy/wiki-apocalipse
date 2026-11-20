@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 37-004
+TITULO: Como calcular distâncias em mapas
+CATEGORIA: 37 - Cartografia, topografia e levantamento
+TEMPO: 20 minutos
+RISCO: medio
+EXIGE: mapa com escala legível, régua, barbante, caderno, lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: distância, mapa, escala, régua, medir, quilômetro, caminhada
+==============================================================================
+
+OBJETIVO
+--------
+Converta uma medida feita sobre o mapa em distância real no terreno.
+
+QUANDO USAR
+-----------
+Quando precisar estimar tempo, água e comida da viagem.
+Quando houver escala numérica ou barra gráfica legível.
+
+NAO USE QUANDO
+--------------
+Sem escala e sem referência conhecida, não estime distância alguma.
+Se a rota mudar no terreno, meça de novo em vez de usar o mapa antigo.
+
+MATERIAIS
+---------
+- Mapa com escala legível, régua e barbante fino sem elasticidade.
+- Caderno e lápis.
+
+PROCEDIMENTO
+------------
+1. Localize a escala na borda do mapa, numérica ou gráfica.
+2. Converta a escala: em 1:100.000, 1 cm no mapa vale 1 km no terreno.
+3. Anote quantos metros ou quilômetros valem 1 cm.
+4. Marque no mapa os dois pontos a medir.
+5. Estique a régua entre os pontos e leia os centímetros.
+6. Multiplique os centímetros pelo valor de 1 cm.
+7. Para curvas, estique o barbante sobre o traçado e meça-o na régua.
+8. Com escala gráfica, encoste o barbante na barra e leia direto.
+9. Use o talão à esquerda do zero para medir a sobra do trecho.
+10. Some margem em subidas, descidas ou curvas e anote o resultado.
+
+ATENCAO
+-------
+A escala numérica só vale se o mapa não foi ampliado nem reduzido.
+Fotocópia com zoom invalida o número impresso; prefira a escala gráfica.
+Mapa mede a horizontal: subidas e curvas alongam o caminho real.
+Um zero a mais na escala muda tudo; confira antes de multiplicar.
+Mapa antigo omite estrada nova: se aparecer obstáculo, pare e meça
+de novo.
+
+SE NAO TIVER
+------------
+Sem régua, use barbante, palito ou borda de papel marcado.
+Sem barbante, some vários trechos retos curtos ao longo da curva.
+Sem escala, calibre com trecho conhecido: marco ou marca de quilômetro.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A soma dos trechos medidos chega aos dois pontos marcados.
+Repetindo a medição, o resultado varia pouco e confere com trecho
+conhecido do mapa.
+
+FONTES
+------
+Atlas Escolar do IBGE, Introdução à Cartografia, verbete Escala.
+USGS, cartilha Topographic Mapping, seção Common Mapping Scales.
+FM 3-25.26 do Exército dos EUA (2005), Map Reading and Land Navigation.
+Prática consolidada de navegação; resumo, não substitui treinamento.

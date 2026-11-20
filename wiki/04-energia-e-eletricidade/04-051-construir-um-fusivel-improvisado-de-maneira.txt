@@ -1,0 +1,93 @@
+==============================================================================
+CODIGO: 04-051
+TITULO: Como construir um fusível improvisado de maneira segura
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: circuito de 12 ou 24 volts em corrente contínua desligado
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fusível, curto-circuito, bateria, fio fino, segurança
+==============================================================================
+
+OBJETIVO
+--------
+Proteger um circuito pequeno de 12 ou 24 volts com um fio fino
+que derrete antes que o cabo esquente e provoque incêndio.
+
+QUANDO USAR
+-----------
+Quando um aparelho de 12 ou 24 volts ficou sem o fusível original.
+Quando montar uma ligação nova de bateria, painel solar ou veículo.
+Quando precisar ligar lâmpada, rádio ou bomba pequena na bateria.
+Somente como quebra-galho até comprar o fusível comercial correto.
+
+NAO USE QUANDO
+--------------
+Na rede de 127 ou 220 volts, no quadro de luz ou em tomada.
+Em chuveiro, geladeira ou qualquer aparelho ligado na rede.
+Para substituir disjuntor que desarma sempre.
+Se há cheiro de queimado ou fio derretido sem causa conhecida.
+
+MATERIAIS
+---------
+- Fio de cobre fino esmaltado (um filamento de cabo flexível comum).
+- Dois bornes com parafuso ou dois prendedores com cabo isolado.
+- Caixa pequena incombustível de cerâmica ou vidro com tampa.
+- Chave de fenda e alicate com cabo isolado e seco.
+- Lâmpada de teste de 12 volts (multímetro com pilha boa).
+- Etiqueta, lápis e um conjunto reserva já montado.
+
+PROCEDIMENTO
+------------
+1. Desconecte a bateria e o painel solar antes de tocar nos fios.
+2. Confirme com a lâmpada de teste que não há tensão no circuito.
+3. Leia na etiqueta do aparelho a corrente em amperes.
+4. Lembre o princípio: fio fino derrete de propósito no excesso.
+5. Separe um único filamento fino de um cabo flexível comum.
+6. Fixe o filamento esticado entre os dois bornes com parafuso.
+7. Monte os bornes dentro da caixa, sem o fio encostar nas paredes.
+8. Instale a caixa no fio positivo, o mais perto possível da bateria.
+9. Feche a tampa e afaste a caixa de pano, papel e combustível.
+10. Reconecte a bateria e ligue o aparelho na potência mínima.
+11. Observe por aproximadamente um minuto, sem tocar em nada.
+12. Desligue tudo e encoste o dorso da mão na parte de fora da caixa.
+13. Troque o improviso por fusível comercial assim que for possível.
+14. Anote a corrente e a data na etiqueta e guarde um reserva pronto.
+
+ATENCAO
+-------
+O que mata é a rede elétrica de 127 ou 220 volts: este tutorial
+não serve para ela e nunca improvise fusível nela.
+Curto em bateria solta arco, metal derretido e fogo em segundos.
+Bateria de chumbo solta gás que pode explodir perto de faísca;
+monte longe dela e nunca fume ao lado da bateria.
+Arame grosso, prego ou papel-alumínio no lugar do fio fino
+impedem a proteção e causam incêndio: nunca use.
+Se o fio fino romper de novo, há defeito no aparelho ou nos
+cabos: não engrosse o fio, desligue tudo e revise.
+Se o cabo esquentar, sair fumaça ou cheiro forte, desligue
+a bateria na hora e não religue até achar a causa.
+
+SE NAO TIVER
+------------
+Sem borne, prenda o filamento com parafuso e porca em base
+de cerâmica, telha ou tijolo, longe de tudo que queima.
+Sem lâmpada de teste, confira cada ligação duas vezes no
+visual antes de reconectar a bateria.
+Sem caixa com tampa, não monte solto: aguarde material seguro.
+Sem fusível comercial depois, use o circuito o mínimo
+possível e com carga baixa até conseguir um.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O aparelho liga normal e o filamento continua inteiro e frio.
+Se houver excesso de corrente, o filamento rompe e o resto
+do circuito fica intacto, sem cabo quente nem fumaça.
+
+FONTES
+------
+Documentação técnica de fabricantes de fusíveis automotivos.
+Guia de seleção de fusíveis de corrente contínua baseado
+em normas ABYC E-11 e NEC sobre proteção de condutores.
+Norma IEC 60269-7 sobre fusíveis para baterias e sistemas
+com baterias, e prática consolidada de eletricistas.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 04-020
+TITULO: Como calcular capacidade de baterias
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: papel, lápis, dados da bateria e dos aparelhos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bateria, capacidade, ampere-hora, consumo, autonomia
+==============================================================================
+
+OBJETIVO
+--------
+Calcular de quanta bateria você precisa para manter aparelhos
+ligados pelo tempo desejado antes de comprar ou montar.
+
+QUANDO USAR
+-----------
+Quando for comprar bateria para lâmpada, rádio ou celular.
+Quando faltar luz e for preciso planejar a reserva.
+Quando for juntar bateria com painel solar pequeno.
+
+NAO USE QUANDO
+--------------
+Com bateria inchada, quente, vazando ou com cheiro forte.
+Com faísca, fio derretido ou sinal de curto-circuito.
+Não use o resultado para aparelho que mantém a vida.
+
+MATERIAIS
+---------
+- Papel e lápis (calculadora simples, se houver).
+- Tensão da bateria em volts, lida no rótulo.
+- Potência de cada aparelho em watts, lida na etiqueta.
+- Tempo de uso desejado em horas para cada aparelho.
+
+PROCEDIMENTO
+------------
+1. Anote a potência em watts de cada aparelho a ser usado.
+2. Multiplique a potência de cada um pelas horas de uso.
+3. Some os resultados para obter o consumo em watt-hora.
+4. Defina a tensão do banco em volts: 12, 24 ou 48.
+5. Divida o consumo total em watt-hora pela tensão em volts.
+6. Some aproximadamente 30 por cento de margem ao valor.
+7. Em chumbo-ácido, dobre o valor para não esgotar a bateria.
+8. Em lítio, use aproximadamente quatro quintos da energia.
+9. Escolha bateria com ampere-hora igual ou maior que o final.
+10. Anote o resultado e reduza o uso se a bateria for menor.
+
+ATENCAO
+-------
+Faça a conta no papel, sem abrir caixa energizada.
+Erro de conta deixa você sem luz na hora crítica.
+Este cálculo não conserta bateria fraca nem fio ruim.
+Bateria de chumbo esgotada até o fim perde vida útil.
+Bateria inchada, quente ou vazando pode queimar e vazar ácido.
+
+SE NAO TIVER
+------------
+Sem etiqueta do aparelho, use valor aproximado e aumente a margem.
+Sem rótulo da bateria, não estime de memória: procure a etiqueta.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O valor final cabe na capacidade escrita no rótulo.
+Na prática, os aparelhos funcionam pelo tempo planejado.
+
+FONTES
+------
+Prática consolidada de dimensionamento de baterias,
+sem documento único.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 51-015
+TITULO: Como calcular força mecânica
+CATEGORIA: 51 - Matemática aplicada à sobrevivência
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: massa do objeto, caderno, lápis, noção de medidas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: força, newton, massa, aceleração, peso, alavanca, empuxo
+==============================================================================
+
+OBJETIVO
+--------
+Calcular a força necessária para mover, levantar ou sustentar uma carga.
+
+QUANDO USAR
+-----------
+Quando precisar estimar o esforço para levantar um objeto.
+Quando quiser dimensionar alavanca, corda ou polia antes de usar.
+
+NAO USE QUANDO
+--------------
+Quando o resultado servir de base única para içar pessoa ou carga
+sobre outras pessoas; nesse caso use equipamento certificado.
+Quando não houver forma de conhecer a massa nem a distância envolvida.
+
+MATERIAIS
+---------
+- Caderno e lápis para anotar as contas.
+- Massa do objeto, conhecida ou medida em balança.
+- Régua ou fita para medir distâncias e braços de alavanca.
+
+PROCEDIMENTO
+------------
+1. Escreva a fórmula: F = m x a, força igual massa vezes aceleração.
+2. Anote a massa do objeto em quilogramas, abreviado kg.
+3. Para objeto parado ou em velocidade constante, use a gravidade.
+4. Tome a aceleração da gravidade como 9,8 m/s2, ou 10 m/s2 de forma
+   aproximada para uso em campo.
+5. Multiplique a massa pela aceleração para obter newtons, abreviado N.
+6. Acelerando para cima, some a extra a 9,8 e anote em newtons.
+7. Para alavanca, calcule o momento: M = F x d, força vezes braço.
+8. Meça o braço de cada lado a partir do ponto de apoio.
+9. Iguale os momentos: F1 x d1 = F2 x d2.
+10. Isole a força desconhecida e escreva o valor em newtons.
+
+ATENCAO
+-------
+Errar a força em um içamento pode romper corda ou derrubar a carga.
+Newtons não são quilogramas: 1 kg de massa pesa cerca de 9,8 N.
+O valor 10 m/s2 é aproximação; use 9,8 quando precisar de exatidão.
+O cálculo ignora atrito, vento, balanço e desgaste do material.
+Não dimensione equipamento de segurança só por este cálculo; use margem.
+Se a carga estiver sobre pessoas, pare e peça ajuda qualificada.
+
+SE NAO TIVER
+------------
+Sem balança, estime a massa por volume e densidade (veja 51-013).
+Sem medir aceleração, use só o peso: o objeto em velocidade constante.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A força em newtons fica perto de 10 vezes a massa em quilogramas.
+Na alavanca, força vezes braço é igual nos dois lados do apoio.
+
+FONTES
+------
+Segunda lei de Newton, F = m x a, conceito básico de física.
+Peso como força da gravidade e momento de alavanca, pratica consolidada.
+O valor de g = 9,8 m/s2 é aproximado e varia com latitude e altitude.

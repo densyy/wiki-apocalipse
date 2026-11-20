@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 09-012
+TITULO: Como utilizar comunicação por bandeiras
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: duas bandeiras em bastão, luz do dia, linha de visão
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bandeira, semáforo, sinal, comunicação, socorro, braços
+==============================================================================
+
+OBJETIVO
+--------
+Transmita mensagens curtas e combinadas a quem está longe, usando
+bandeiras e linha de visão, sem rádio nem internet.
+
+QUANDO USAR
+-----------
+Quando o grupo se separa mas ainda se vê em terreno aberto.
+Quando rádios e celulares falham ou devem ficar silenciosos.
+Para avisar de perigo ou confirmar que está bem, sem gritar.
+
+NAO USE QUANDO
+--------------
+Sem linha de visão, à noite, na neblina ou com chuva forte.
+Quando se pode gritar, ligar ou usar rádio com segurança.
+
+MATERIAIS
+---------
+- Duas bandeiras quadradas em bastões (ou apenas os braços).
+- Pano que contraste com o fundo: claro no escuro, escuro no claro.
+- Papel e lápis para anotar o código; ponto alto e visão livre.
+
+PROCEDIMENTO
+------------
+1. Combine com o grupo o significado de cada sinal antes de separar.
+2. Anote o código no papel e entregue uma cópia a cada pessoa.
+3. Defina: uma bandeira = bem; duas = perigo; braços em cruz = pare.
+4. Combine também os sinais de atenção, correção e fim da mensagem.
+5. Vá a ponto alto, com visão livre, e fique de frente ao receptor.
+6. Chame a atenção levantando as duas bandeiras até ser visto.
+7. Espere o receptor erguer as bandeiras acima da cabeça e baixá-las.
+8. Use oito direções por braço: baixo, diagonal baixa, horizontal.
+9. Complete com diagonal alta, vertical e as três simétricas.
+10. Forme cada sinal com os dois braços e pare até o receptor ler.
+11. Para corrigir, faça o sinal de correção combinado e repita.
+12. Encerre com o sinal de fim combinado.
+
+ATENCAO
+-------
+Sem linha de visão, as bandeiras falham: prédios, mato e relevo bloqueiam.
+À noite sem luz, use rádio (09-001) ou apito; bandeiras não se veem.
+Qualquer pessoa no caminho lê: nunca envie senhas ou dados pessoais.
+Se o receptor não confirmar, pare e repita; não presuma que entendeu.
+Sem a tabela do alfabeto, use só o código curto combinado.
+
+SE NAO TIVER
+------------
+Sem bandeiras, use apenas os braços: eles bastam para o semáforo.
+Sem visão direta, use rádio (09-001), apito ou espelho de bolso.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O receptor devolve o sinal de "correto" ou repete a mensagem em voz alta.
+Você vê a confirmação chegando no horário combinado.
+
+FONTES
+------
+Prática consolidada de semáforo manual com bandeiras, da sinalização visual
+marítima; Código Internacional de Sinais da IMO.

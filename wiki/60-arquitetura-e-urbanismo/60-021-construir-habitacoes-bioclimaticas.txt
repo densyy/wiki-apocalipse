@@ -1,0 +1,101 @@
+==============================================================================
+CODIGO: 60-021
+TITULO: Como construir habitações bioclimáticas
+CATEGORIA: 60 - Arquitetura, urbanismo e assentamentos
+TEMPO: 1 dia
+RISCO: medio
+EXIGE: caderno, fita de medição, bússola, estacas, observação do sol
+REVISAO: 2026-11
+PALAVRAS-CHAVE: casa, bioclimática, sol, sombra, ventilação, orientação
+==============================================================================
+
+OBJETIVO
+--------
+Projetar a casa para usar sol, sombra e vento a favor do conforto.
+
+
+QUANDO USAR
+-----------
+Quando for construir casa nova sem depender de ar-condicionado.
+Quando a casa atual esquenta demais, esfria mal ou cria mofo.
+Quando o terreno permite escolher a posição da casa e das aberturas.
+Quando a energia elétrica é cara, instável ou inexistente.
+Quando se vai reformar para corrigir sombra, cobertura e ventilação.
+
+NAO USE QUANDO
+--------------
+Não use para dispensar projeto estrutural, fundação ou vistoria do terreno.
+Não use em área de enchente, deslizamento ou risco conhecido sem avaliação.
+Não use como substituto das normas de segurança contra incêndio.
+
+MATERIAIS
+---------
+- Caderno e lápis para desenhar a planta e marcar o norte.
+- Fita de medição de 20 m ou corda com nós a cada metro.
+- Bússola, ou sombra ao meio-dia solar para achar o norte.
+- Estacas e corda para marcar a posição da casa no chão.
+- Elementos de sombra externa: beiral, ripas, pérgola ou toldo.
+- Tinta clara para cobertura e paredes em clima quente.
+
+PROCEDIMENTO
+------------
+1. Observe o clima local: calor, frio, umidade, vento e sol.
+2. Identifique a zona bioclimática da cidade na ABNT NBR 15220.
+3. Se não houver a norma, pergunte a moradores antigos e observe o sol.
+4. Espere o meio-dia solar, quando a sombra estiver mais curta.
+5. Marque o norte no lado oposto à sombra, que aponta para o sul.
+6. Desenhe no caderno a planta com a flecha do norte e os ventos.
+7. Volte os ambientes de estar para o norte, que recebe sol no inverno.
+8. Evite vãos grandes voltados para o oeste; o sol da tarde é o mais quente.
+9. Coloque os quartos no leste ou no sul, onde o sol é mais fraco.
+10. Abra vãos em paredes opostas para a ventilação cruzada.
+11. Reserve uma abertura alta para a saída do ar quente.
+12. Mantenha as aberturas em aproximadamente 40% da fachada, segundo o MME.
+13. Instale proteção externa antes de qualquer cortina interna.
+14. No norte, use beiral ou veneziana externa que barre o sol alto do verão.
+15. No leste e no oeste, use brise-soleil vertical, ripas ou vegetação.
+16. Plante árvore de folha caduca ao norte: sombra no verão, sol no inverno.
+17. Pinte a cobertura e as paredes de claro em clima quente.
+18. Deixe espaço ventilado entre a telha e o forro da cobertura.
+19. Em clima frio, use paredes maciças, como alvenaria ou taipa.
+20. Feche frestas no inverno, mas mantenha saídas altas de ar no verão.
+21. Peça a um arquiteto ou engenheiro para conferir estrutura e normas.
+
+ATENCAO
+-------
+A estratégia bioclimática não substitui projeto estrutural nem vistoria.
+O erro comum é abrir grandes vãos para o oeste e depender de ventilador.
+Beiral curto ou cortina interna não barra o sol; a proteção é externa.
+Cobertura escura sem forro aquece demais em clima quente.
+Claraboia sem sombra e sem vedação vira fonte de calor e goteira.
+A NBR 15220 passa por revisão; confirme a zona antes de definir os vãos.
+Com umidade, mofo ou rachadura depois da obra, pare e chame um profissional.
+
+SE NAO TIVER
+------------
+Sem bússola, use a sombra do meio-dia ou pergunte a um morador antigo.
+Sem brise-soleil, improvise beiral com ripas de madeira ou telha na fachada.
+Sem árvore, use toldo, esteira ou bambu na parede oeste.
+Sem vidro, mantenha o vão com grade ou tela e a sombra externa.
+Sem chance de mudar a orientação, reforce sombra e ventilação no que existe.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A fachada de estar fica ao norte e os vãos têm sombra externa.
+Há abertura em paredes opostas e uma saída alta para o ar quente.
+A cobertura é clara, com forro e espaço ventilado sob a telha.
+No verão, a sombra do beiral impede sol direto no piso da sala ao meio-dia.
+No inverno, o sol baixo entra e aquece o piso da sala.
+
+FONTES
+------
+Material Arquitetura Bioclimática e Eficiência Energética, do Ministério de
+Minas e Energia, Rede de Eficiência Energética, 2020.
+Projeto de revisão da ABNT NBR 15220-3, Zoneamento bioclimático, 2024,
+divulgado pelo LABEEE da Universidade Federal de Santa Catarina.
+Glossários de Arquitetura Bioclimática e Zonas Bioclimáticas do ProjetEEE,
+Ministério de Minas e Energia.
+Lamberts, Pereira e Dutra, Eficiência Energética na Arquitetura, citado no
+material do Ministério de Minas e Energia.
+Prática consolidada de arquitetura vernacular de sombra e ventilação, sem
+documento único.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 36-040
+TITULO: Como mapear recursos naturais de uma propriedade
+CATEGORIA: 36 - Geologia, mineração e recursos naturais
+TEMPO: 3 horas
+RISCO: medio
+EXIGE: caderno, lápis, bota firme, bastão, fita de marcação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: recursos naturais, mapeamento, solo, água, vegetação, rocha
+==============================================================================
+
+OBJETIVO
+--------
+Registrar em um desenho e em um caderno onde ficam a água, o solo, a
+vegetação e a rocha da propriedade.
+QUANDO USAR
+-----------
+Antes de comprar, cercar ou dividir um terreno.
+Ao planejar onde cavar poço, abrir trilha ou plantar.
+Quando precisar saber onde há água, argila, cascalho ou pedra.
+NAO USE QUANDO
+--------------
+Não substitui laudo técnico, sondagem ou mapa oficial.
+Não serve para declarar minério, reserva ou valor econômico.
+Não entre em área com deslizamento ativo, mina abandonada ou cerca elétrica.
+MATERIAIS
+---------
+- Caderno e lápis (substituto: papel e carvão).
+- Desenho da área (substituto: contorno feito no próprio caderno).
+- Bota firme e luvas (substituto: pano grosso nas mãos).
+- Bastão para sondar o chão (substituto: galho seco comprido).
+- Fita de marcação ou pedras para assinalar pontos.
+PROCEDIMENTO
+------------
+1. Anote data, nome da propriedade e ponto de partida no caderno.
+2. Desenhe a área no caderno e marque o leste onde o sol nasce.
+3. Caminhe o contorno e marque cercas, porteiras e limites no desenho.
+4. Observe de longe encostas, vales, cursos d'água e rocha nua.
+5. Caminhe em linhas retas espaçadas, as trilhas de varredura.
+6. Marque nascentes, córregos, poços e áreas que alagam após chuva.
+7. Registre o solo: argila, areia, cascalho ou terra escura de húmus.
+8. Note a vegetação: árvores grandes indicam água e solo profundo.
+9. Marque afloramentos, a rocha nua, e fragmentos soltos no chão.
+10. Retire um fragmento do tamanho de uma noz em cada ponto.
+11. Limpe o fragmento e embrulhe em pano limpo.
+12. Escreva número, local e hora na amostra embrulhada.
+13. Ao voltar, ligue os pontos no desenho e escreva a legenda.
+
+ATENCAO
+-------
+Sonde o chão com o bastão antes de pisar em solo mole ou barranco.
+Não pise em solo que cedeu nem na borda de barranca: a queda é comum.
+Não entre em mina ou poço abandonado: falta oxigênio e pode haver gás.
+Não use mercúrio, cianeto ou ácido para testar minério: são venenos.
+Este mapa mostra só indícios: não confirma minério, quantidade ou valor.
+Não invada terra de terceiro, garimpo ou área protegida sem permissão.
+SE NAO TIVER
+------------
+Sem mapa, desenhe o contorno no caderno usando cercas como referência.
+Sem fita, empilhe pedras para marcar pontos e anote a ordem no caderno.
+Sem bota, não atravesse barranco nem solo molhado: espere secar.
+Sem caderno, memorize a sequência e desenhe assim que chegar.
+COMO SABER QUE DEU CERTO
+------------------------
+O desenho tem contorno, orientação e pelo menos três pontos marcados.
+Cada amostra tem número, local e hora escritos no caderno.
+FONTES
+------
+Prática consolidada de mapeamento geológico e levantamento de recursos
+naturais em campo. Referências do domínio: SGB/CPRM, USGS e Embrapa.

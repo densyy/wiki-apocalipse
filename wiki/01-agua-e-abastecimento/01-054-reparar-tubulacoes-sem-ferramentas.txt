@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 01-054
+TITULO: Como reparar tubulações sem ferramentas especializadas
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: alicate comum, pano limpo, fita veda-rosca, corda ou abraçadeira
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, vazamento, cano, conserto, fita veda-rosca, goteira
+==============================================================================
+
+OBJETIVO
+--------
+Vedar um vazamento pequeno em tubo de água com ferramentas comuns.
+
+QUANDO USAR
+-----------
+Quando um tubo de água goteja e não há encanador por perto.
+Quando a junta de uma torneira ou mangueira perde água.
+
+NAO USE QUANDO
+--------------
+Em tubo de gás, combustível, químico ou vapor.
+Em energia elétrica ou perto de painel ligado e cabo exposto.
+
+MATERIAIS
+---------
+- Alicate comum ou chave de fenda.
+- Pano limpo e seco.
+- Fita veda-rosca (fita de silicone), borracha limpa, corda ou abraçadeira.
+
+PROCEDIMENTO
+------------
+1. Feche a válvula que abastece o trecho.
+2. Abra a torneira mais baixa para aliviar a pressão.
+3. Enxugue e seque o tubo com o pano limpo.
+4. Veja se a água sai da junta ou do corpo do tubo.
+5. Se sair da junta, desaperte a porca com a mão ou o alicate.
+6. Limpe a rosca com o pano, sem deixar fita velha.
+7. Enrole a fita veda-rosca nova no sentido do aperto.
+8. Reaperte com a mão e com o alicate, sem força excessiva.
+9. Se sair do corpo, cubra o furo com borracha limpa.
+10. Prenda a borracha com corda ou abraçadeira apertada com a chave.
+11. Feche a torneira que você abriu.
+12. Abra a válvula devagar e observe o ponto reparado.
+
+ATENCAO
+-------
+Água pressurizada pode jorrar no rosto. Feche a válvula antes de tocar.
+Não aperte demais: a rosca ou o tubo de plástico pode quebrar.
+Fita veda-rosca não tapa furo no meio do tubo; use borracha por cima.
+Linha rachada pode ter puxado água suja do solo. Ferva antes de beber.
+O reparo é provisório. Troque o trecho quando houver peça e ferramenta.
+
+SE NAO TIVER
+------------
+Sem fita veda-rosca, use fita de silicone autofusível na rosca.
+Sem abraçadeira, prenda a borracha com corda e torça com a chave.
+Borracha de pneu é último recurso: pode deixar óleo na água.
+Sem nada disso, deixe a válvula fechada e pegue água em outra fonte.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Com a válvula aberta, o ponto reparado não goteja nem jorra.
+O pano seco encostado na junta continua seco. A água sai clara.
+
+FONTES
+------
+Prática consolidada de reparo emergencial, sem documento único.
+Segurança: FEMA e CDC. Termos: referência técnica de encanamento.

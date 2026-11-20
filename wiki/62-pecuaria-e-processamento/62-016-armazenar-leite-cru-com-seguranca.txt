@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 62-016
+TITULO: Como armazenar leite cru com segurança
+CATEGORIA: 62 - Pecuária, reprodução e processamento animal
+TEMPO: 20 minutos
+RISCO: critico
+EXIGE: geladeira com termômetro, recipiente limpo com tampa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: leite, leite cru, refrigeração, conservar, geladeira, frio
+==============================================================================
+
+OBJETIVO
+--------
+Reduzir o crescimento de bactérias no leite cru até o consumo.
+
+QUANDO USAR
+-----------
+Logo após a ordenha, antes de levar o leite para casa.
+Quando o leite vai ficar algumas horas sem ser consumido.
+Quando a geladeira for a única forma de conservação disponível.
+Quando o leite vier de vizinho ou de pequeno produtor.
+
+NAO USE QUANDO
+--------------
+Quando o animal estiver doente ou em tratamento: descarte o leite.
+Não armazene leite cru para consumo de crianças menores de 5 anos,
+gestantes, idosos acima de 65 anos ou pessoas com imunidade baixa.
+Não use este procedimento para tornar leite cru seguro: o frio apenas
+retarda os germes, não os elimina.
+
+MATERIAIS
+---------
+- Recipiente limpo com tampa, de vidro ou plástico próprio para alimentos.
+- Geladeira com termômetro, ou caixa térmica com gelo.
+- Água potável e sabão para lavar as mãos e o recipiente.
+- Frascos pequenos para dividir o leite em porções.
+- Papel e lápis para anotar a data e a hora.
+
+PROCEDIMENTO
+------------
+1. Lave as mãos com água potável e sabão antes de tocar no leite.
+2. Lave o recipiente e a tampa com água potável e sabão; enxágue.
+3. Resfrie o leite a 4 graus Celsius ou menos em até duas horas.
+4. Divida o leite em frascos pequenos para esfriar mais rápido.
+5. Tampe os frascos sem encostar a parte interna da tampa nas mãos.
+6. Se não houver geladeira, mergulhe os frascos fechados em água com gelo.
+7. Renove o gelo conforme ele derrete, até o leite ficar frio.
+8. Anote a data e a hora da ordenha em cada frasco.
+9. Guarde na parte mais fria da geladeira, longe de carne crua.
+10. Afaste de produtos de limpeza e de alimentos sem cobertura.
+11. Confira o termômetro: se passar de 4 graus Celsius, ajuste a geladeira.
+12. Consuma o leite o mais cedo possível, de preferência no mesmo dia.
+13. Ferva o leite antes de beber, mesmo depois de armazenado no frio.
+
+ATENCAO
+-------
+O frio não elimina bactérias: apenas retarda o crescimento delas.
+A Listeria continua crescendo dentro da geladeira.
+Leite cru pode conter E. coli, Salmonella, Listeria, Brucella,
+Campylobacter e Cryptosporidium, mesmo vindo de animal sadio.
+Crianças, gestantes, idosos e pessoas com imunidade baixa
+têm maior risco de doença grave e até morte.
+Não beba leite com cheiro acre, grumos ou sabor amargo: descarte.
+Se o leite ficou mais de duas horas fora do frio, descarte.
+Se houver diarreia, vômito ou febre após beber, procure atendimento.
+
+SE NAO TIVER
+------------
+Sem geladeira, use caixa térmica com gelo; renove o gelo ao derreter.
+Sem caixa térmica, mergulhe o frasco fechado em água com gelo.
+Divida em porções pequenas para esfriar mais rápido.
+Sem frio confiável, ferva o leite e beba no mesmo dia. Não tente conservar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O leite ficou a 4 graus Celsius ou menos desde a ordenha.
+Cada frasco está fechado, limpo e com a data anotada.
+O leite está separado de carne crua e de produtos de limpeza.
+O leite não tem cheiro acre, grumos nem sabor amargo.
+
+FONTES
+------
+Ministério da Agricultura e Pecuária: riscos do leite cru e pasteurização.
+Ministério da Saúde: leite cru não pasteurizado pode causar DTHA.
+CDC e FDA: refrigeração a 4 graus Celsius e riscos do leite cru.
+FAO e IDF: Guia de Boas Práticas na Pecuária de Leite.
+Embrapa: resfriamento e conservação do leite.

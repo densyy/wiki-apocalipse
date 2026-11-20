@@ -1,0 +1,74 @@
+==============================================================================
+CODIGO: 04-042
+TITULO: Como identificar curtos-circuitos
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 20 minutos
+RISCO: alto
+EXIGE: quadro de disjuntores, lanterna, luvas de borracha secas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: curto, curto-circuito, disjuntor, faisca, cheiro, tomada
+==============================================================================
+
+OBJETIVO
+--------
+Apontar o trecho com sinal de curto-circuito sem encostar
+em fio energizado e sem abrir quadro ou aparelho.
+
+QUANDO USAR
+-----------
+Quando o disjuntor desarma toda vez que e ligado.
+Quando ha cheiro de queimado em tomada ou aparelho.
+Quando ha faisca, estalo ou mancha escura em tomada.
+Quando a luz apaga de repente apos um estalo.
+
+NAO USE QUANDO
+--------------
+Com fumaca, fio derretido ou cheiro forte de queimado.
+Com quadro molhado, piso molhado ou goteira no local.
+Se ha fio partido a mostra ou zumbido continuo no quadro.
+
+MATERIAIS
+---------
+- Luvas de borracha secas e calcado fechado seco.
+- Lanterna de pilha (luz do celular).
+- Caderno e lapis para anotar o ponto suspeito (caneta).
+
+PROCEDIMENTO
+------------
+1. Desligue o disjuntor geral antes de inspecionar.
+2. Calce luvas secas e calcado fechado seco.
+3. Ilumine o local com a lanterna sem encostar nos fios.
+4. Observe tomadas e plugues: mancha preta ou derretido.
+5. Cheire de longe: queimado indica ponto de falha.
+6. Ouca de longe: estalo ou zumbido indica mau contato.
+7. Retire os plugues do trecho suspeito da tomada.
+8. Ligue o disjuntor geral uma vez so, sem aparelhos.
+9. Ligue cada disjuntor parcial um por vez, uma vez so.
+10. Anote qual disjuntor desarma e qual trecho ele atende.
+11. Desligue o geral de novo ao achar o trecho defeituoso.
+12. Isole o trecho defeituoso e nao o utilize ate o reparo.
+
+ATENCAO
+-------
+Curto-circuito pode matar por choque e causar incendio.
+Nunca encoste em fio desencapado, mesmo de luva comum.
+Nunca abra o quadro nem aperte parafuso ou fio interno.
+Nunca religue disjuntor que desarma de novo: pare o teste.
+Nao jogue agua em faisca ou fogo eletrico em hipotese alguma.
+Se houver fumaca ou calor no quadro, saia e peca ajuda.
+
+SE NAO TIVER
+------------
+Sem lanterna, faca a vistoria de dia com luz natural.
+Sem luvas de borracha, faca so a observacao de longe.
+Sem caderno, memorize o comodo e avise os outros da casa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Voce aponta qual comodo ou tomada tem sinal de curto.
+O disjuntor do trecho ruim desarma e os outros firmam.
+Nenhum fio foi tocado, aberto ou apertado na vistoria.
+
+FONTES
+------
+Pratica consolidada de seguranca em instalacoes eletricas.

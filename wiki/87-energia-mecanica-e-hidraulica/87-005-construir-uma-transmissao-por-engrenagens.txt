@@ -1,0 +1,84 @@
+==============================================================================
+CODIGO: 87-005
+TITULO: Como construir uma transmissão por engrenagens
+CATEGORIA: 87 - Energia mecânica e hidráulica tradicionais
+TEMPO: 180 minutos
+RISCO: medio
+EXIGE: madeira ou metal para dentear, eixos paralelos, graxa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: engrenagem, dente, pinhão, transmissão, eixo, giro, força
+==============================================================================
+
+OBJETIVO
+--------
+Construir engrenagens que transmitam giro e força entre dois eixos.
+
+QUANDO USAR
+-----------
+Quando os eixos devem girar juntos, sem risco de a correia escorregar.
+Quando se precisar aumentar a força em vez da velocidade.
+Quando o espaço entre os eixos for curto e fixo.
+Quando se quiser inverter o sentido de giro de um eixo.
+
+NAO USE QUANDO
+--------------
+Não use se não for possível usinar ou cinzelar os dentes com precisão.
+Não use para eixos muito distantes: nesse caso, prefira correias.
+Não use sem proteção, pois os dentes podem prender roupas.
+
+MATERIAIS
+---------
+- Discos de madeira dura, bronze ou ferro para as rodas dentadas.
+- Madeira de lei ou metal para os dentes das engrenagens.
+- Eixos com mancais e suportes rígidos de madeira ou ferro.
+- Chavetas, parafusos e arruelas para fixar as rodas nos eixos.
+- Graxa espessa ou sebo para lubrificar o contato dos dentes.
+- Cinzel, lima, régua e compasso para marcar e recortar.
+
+PROCEDIMENTO
+------------
+1. Defina o número de dentes de cada roda pelo efeito desejado.
+2. Desenhe os dois discos com compasso sobre a madeira ou o metal.
+3. Marque os dentes em volta do disco com espaçamento igual.
+4. Recorte os dentes com cinzel e lima até ficarem regulares.
+5. Faça o furo central no tamanho exato do eixo de cada roda.
+6. Monte uma roda menor no eixo motor e a maior no eixo receptor.
+7. Prenda cada roda com chaveta e parafuso de aperto firme.
+8. Aproxime os eixos até os dentes encostarem sem folga excessiva.
+9. Gire devagar com a mão e veja se os dentes encaixam suaves.
+10. Ajuste a distância até o contato ficar maciço, sem bater.
+11. Lubrifique os dentes com camada fina de graxa ou sebo.
+12. Fixe os mancais para os eixos não se afastarem com o uso.
+13. Gire o eixo motor e confira o sentido de giro do receptor.
+14. Aumente a carga aos poucos e observe aquecimento dos dentes.
+
+ATENCAO
+-------
+Os dentes em movimento prendem dedos, mangas e cabelos com facilidade.
+Monte uma tampa de madeira ou metal sobre o conjunto de rodas.
+Dentes mal alinhados quebram e podem lançar estilhaços.
+Se ouvir estalo ou sentir resistência, pare e realinhe de imediato.
+Engrenagem sem graxa aquece, desgasta e trava o eixo.
+Nunca tente encaixar dentes com o eixo ainda em movimento.
+Use óculos de proteção ao cinzelar e limar os dentes.
+
+SE NAO TIVER
+------------
+Sem metal, use discos de madeira dura com dentes de madeira de lei.
+Sem chaveta, prenda a roda com dois parafusos e arruela larga.
+Sem graxa, use sebo animal derretido em camada fina.
+Sem compasso, meça os dentes com uma fita de papel.
+Sem cinzel, recorte os dentes com serra e refine com lima.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os dentes encaixam sem saltar e sem ruído metálico.
+O eixo receptor gira no sentido previsto e sem tremer.
+As rodas não aquecem depois de algum tempo de uso.
+A relação de giros corresponde ao número de dentes.
+
+FONTES
+------
+Prática consolidada de transmissão por engrenagens em oficinas e
+moinhos rurais. Base em manuais de elementos de máquinas e na
+tradição de adaptar rodas dentadas com materiais disponíveis.

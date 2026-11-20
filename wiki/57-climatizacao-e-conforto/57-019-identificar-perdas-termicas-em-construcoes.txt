@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 57-019
+TITULO: Como identificar perdas térmicas em construções
+CATEGORIA: 57 - Refrigeração, climatização e conforto
+TEMPO: 45 minutos
+RISCO: medio
+EXIGE: caderno, lápis, lanterna, tira de papel, incenso ou talco
+REVISAO: 2026-11
+PALAVRAS-CHAVE: perda térmica, corrente de ar, fresta, isolamento, frio
+==============================================================================
+
+OBJETIVO
+--------
+Encontrar por onde o calor entra ou sai de uma construção.
+
+QUANDO USAR
+-----------
+Quando um cômodo fica frio no inverno e abafado no verão.
+Quando há corrente de ar perto de portas, janelas ou tomadas.
+Quando aparecem manchas de umidade ou mofo no teto e na parede.
+Quando a conta de energia sobe sem motivo aparente.
+Antes de gastar trabalho com isolamento, para acertar o ponto.
+Depois de vedar, para conferir se o problema acabou.
+
+NAO USE QUANDO
+--------------
+Em dia de vento forte: o vento desvia a fumaça e engana o teste.
+Quando houver cheiro de gás, fumaça ou combustível no ambiente.
+Para dimensionar aquecedor ou ventilador: isso exige outra conta.
+Quando o teto não tiver acesso seguro: não suba sem proteção.
+
+MATERIAIS
+---------
+- Caderno e lápis para anotar cada ponto encontrado.
+- Lanterna ou luz do celular (a luz do sol serve de dia).
+- Tira de papel ou de pano leve para a prova da porta.
+- Incenso, talco ou farinha para enxergar a corrente de ar.
+- Mão levemente úmida para sentir o ar encostando.
+- Termômetro, se houver, para comparar superfícies.
+
+PROCEDIMENTO
+------------
+1. Escolha dia frio, seco e com pouco vento, de manhã ou à noite.
+2. Meça a temperatura dentro e fora, se tiver termômetro.
+3. Feche portas e janelas e desligue fogo, fogão e aquecedores.
+4. Percorra cada cômodo devagar com a mão levemente úmida.
+5. Anote onde a mão sentir ar frio ou quente encostando.
+6. Passe a mão ao redor de portas, janelas, tomadas e interruptores.
+7. Observe manchas escuras, mofo ou umidade no teto e na parede.
+8. Procure frestas visíveis em rodapés, batentes e cantos.
+9. Feche uma porta ou janela sobre uma tira de papel.
+10. Puxe a tira: se sair sem rasgar, a vedação está falhando.
+11. À noite, com luz acesa dentro, peça a outra pessoa que olhe de fora.
+12. Aponte a lanterna de dentro para as frestas da construção.
+13. Luz visível do lado de fora marca o ponto de fuga.
+14. Olhe de baixo para o forro: luz que atravessa indica falha no teto.
+15. Acenda incenso longe de cortina, papel e madeira seca.
+16. Aproxime a fumaça de cada fresta sem encostar na superfície.
+17. Se a fumaça ondular, entrar ou sair, marque esse ponto.
+18. Repita em todas as portas, janelas e tomadas do cômodo.
+19. Ordene as marcas: comece onde o ar mais incomoda.
+
+ATENCAO
+-------
+Apague fogão, aquecedor e qualquer chama antes de começar.
+Nunca abra caixa de luz, quadro elétrico ou fio exposto.
+Se houver cheiro de gás ou combustível, saia e não acenda nada.
+Gases de aquecimento podem matar sem cheiro: ventile e busque ajuda.
+Ao olhar o forro, não pise em gesso, telha ou madeira podre.
+Não mexa em isolamento solto: pode conter amianto e soltar pó.
+Não deixe incenso aceso sem vigiar nem perto de tecido ou papel.
+Vedar tudo sem renovar o ar prende umidade, mofo e gases.
+Este teste mostra onde há fuga, não quanto calor se perde.
+
+SE NAO TIVER
+------------
+Sem incenso, use talco ou farinha soprada bem devagar.
+Sem papel, use uma tira fina de pano ou uma folha seca.
+Sem lanterna, use a luz do celular ou faça o teste de dia.
+Sem termômetro, compare com a mão: superfície fria indica perda.
+Sem ajudante, espere a noite e olhe a casa de fora sem ajuda.
+Não use fósforo, isqueiro ou chama para procurar fresta.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Há uma lista escrita dos pontos com corrente de ar.
+A tira de papel ficou presa onde antes saía sem rasgar.
+A fumaça parou de ondular no batente já vedado.
+Os cômodos mais frios coincidem com os pontos anotados.
+
+FONTES
+------
+Guias "Seal and Insulate" e "What to Look For: DIY Checks and
+Inspections" do ENERGY STAR, programa da EPA e do Departamento
+de Energia dos Estados Unidos: inspeção visual, teste do papel,
+teste da luz e teste da fumaça, com alertas sobre monóxido de
+carbono, combustão e amianto. O fluxo do calor do quente para o
+frio é princípio consolidado de física térmica.

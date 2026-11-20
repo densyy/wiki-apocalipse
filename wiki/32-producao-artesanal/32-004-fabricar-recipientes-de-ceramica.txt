@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 32-004
+TITULO: Como fabricar recipientes de cerâmica
+CATEGORIA: 32 - Produção industrial e manufatura artesanal
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: argila, água, areia fina, fogo, forno ou fogueira, luvas grossas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: cerâmica, argila, barro, panela, olaria, secar, queimar
+==============================================================================
+
+OBJETIVO
+--------
+Modelar, secar e queimar argila para obter um pote que guarde água.
+
+QUANDO USAR
+-----------
+Quando faltar panela, jarra ou pote para guardar água.
+Quando houver argila limpa e fogo disponível.
+Quando precisar substituir um recipiente quebrado na comunidade.
+
+NAO USE QUANDO
+--------------
+Quando não houver fogo seguro nem lugar externo e ventilado para queimar.
+Quando a argila vier de solo com lixo, óleo ou agrotóxico.
+Quando o pote for ficar em contato direto com a chama para cozinhar.
+
+MATERIAIS
+---------
+- Argila plástica limpa, sem pedras ou raízes (ou barro de fonte conhecida).
+- Água limpa.
+- Areia fina ou restos de cerâmica moída (tempero da argila).
+- Pano úmido e pano seco.
+- Superfície lisa: prato, tábua ou pedra plana.
+- Luvas grossas para a peça quente.
+- Forno de olaria, forno de barro ou fogueira com pedras ao redor.
+
+PROCEDIMENTO
+------------
+1. Retire pedras, raízes e resíduos da argila com as mãos.
+2. Acrescente água aos poucos e amasse até a massa não grudar na mão.
+3. Role um cordão de argila e enrole-o no dedo para testar a umidade.
+4. Se o cordão rachar, acrescente água e amasse de novo.
+5. Se o cordão desfizer, acrescente argila seca e amasse de novo.
+6. Espalhe areia fina ou restos de cerâmica moída sobre a massa.
+7. Amasse de novo até o tempero ficar distribuído por toda a argila.
+8. Sove a massa como pão: achate, dobre e pressione por alguns minutos.
+9. Role a argila em uma bola do tamanho de um punho.
+10. Pressione o polegar no centro da bola até formar uma cova.
+11. Deixe o fundo com cerca de 6 mm de espessura (aproximadamente).
+12. Pinche a parede com o polegar por dentro e os dedos por fora.
+13. Gire a peça a cada pinchada para manter a parede uniforme.
+14. Repita até a parede ficar com cerca de 6 mm (aproximadamente).
+15. Passe um dedo molhado na borda para alisar rachaduras e cantos.
+16. Cubra a peça com pano úmido e deixe descansar uma noite.
+17. Para um pote maior, role cordões de argila entre as palmas.
+18. Apoie cada cordão sobre a borda e alise a junção com dedo molhado.
+19. Seque ao ar, em lugar coberto e ventilado, por vários dias.
+20. Vire a peça duas vezes por dia para secar por igual.
+21. Espere até a argila clarear e a peça não sentir fria ao toque.
+22. Aqueça a peça aos poucos no forno ou sobre pedras da fogueira.
+23. Mantenha o fogo até a peça ficar vermelha por igual.
+24. Apague o fogo e deixe esfriar sem corrente de ar.
+25. Retire com luvas grossas e espere esfriar antes de usar.
+
+ATENCAO
+-------
+Fogo e forno queimam. Nunca toque peça quente com as mãos nuas.
+Monóxido de carbono mata em lugar fechado. Queime ao ar livre.
+Argila úmida ou sem tempero racha e pode explodir na queima.
+Secar ao sol ou junto ao fogo abre rachaduras na peça.
+Esfriar com corrente de ar quebra o pote por choque térmico.
+A cor e o calor certos dependem da argila e do forno.
+Se a peça ficar mole ao arranhar, queime de novo.
+Poeira de argila irrita olhos e pulmões. Cubra o rosto ao moer.
+Ferva a água antes de beber se o pote ainda soltar gosto de terra.
+
+SE NAO TIVER
+------------
+Sem areia ou restos moídos, use argila que já traga cascalho fino.
+Sem forno, empilhe pedras ao redor da fogueira e apoie a peça nelas.
+Sem luvas, espere o fogo apagar e use pano grosso e seco, nunca úmido.
+Sem argila plástica, não improvise com terra de jardim: ela desfaz na água.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A peça secou sem rachaduras que atravessem a parede.
+Depois de fria, a parede não se desfaz ao ser arranhada com a unha.
+A peça não solta argila ao esfregar com pano seco.
+Molhada por fora, a parede continua firme por algumas horas.
+
+FONTES
+------
+Prática consolidada de olaria manual, sem torno, por pinça e cordões.
+Referências consultadas: oficina de modelagem em argila do Carleton College;
+Museu Carlos da Emory University; guia de construção manual
+da biblioteca do Windward Community College. A queima varia.
+Este texto é resumo operacional e não substitui treinamento com oleiro.

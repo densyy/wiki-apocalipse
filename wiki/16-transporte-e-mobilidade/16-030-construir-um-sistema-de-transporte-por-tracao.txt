@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 16-030
+TITULO: Como construir um sistema de transporte por tração animal
+CATEGORIA: 16 - Transporte e mobilidade
+TEMPO: 180 minutos
+RISCO: alto
+EXIGE: animal treinado, madeira, eixo com rodas, arreio, ferramentas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: tração animal, carroção, carro de boi, arreio, burro, carga
+==============================================================================
+
+OBJETIVO
+--------
+Montar um carroção puxado por animal para deslocar pessoas e carga.
+
+QUANDO USAR
+-----------
+Quando não há combustível para veículos motorizados.
+Quando a estrada é de terra e não comporta automóvel.
+Para levar água, lenha, colheita ou ferramentas até a casa.
+
+NAO USE QUANDO
+--------------
+Quando o animal está doente, ferido, muito magro ou no fim da gestação.
+Quando não há água, sombra e pasto no trajeto ou no destino.
+Em ladeira longa sem freio confiável no carroção.
+Quando a carga é maior que a força do animal.
+
+MATERIAIS
+---------
+- Animal domesticado e acostumado a puxar (boi, búfalo, cavalo, burro ou
+  mula).
+- Madeira resistente para a caixa e a lança de tração.
+- Eixo com duas rodas e rolamentos que girem livres (rodas de carro velho).
+- Arreio acolchoado: canga com jugo para bovinos, peitoral para equinos.
+- Corda ou correia resistente, pregos, parafusos e arruelas.
+- Serra, martelo, furadeira ou broca manual e chave.
+- Graxa ou óleo para os rolamentos (ou sebo animal).
+- Calço de madeira para frear e segurar o carroção parado.
+- Pano limpo e água para limpar a pele sob o arreio.
+
+PROCEDIMENTO
+------------
+1. Escolha animal adulto, saudável e já treinado para puxar.
+2. Inspecione cascos, patas, olhos e pele antes de qualquer trabalho.
+3. Meça a largura dos ombros do animal para ajustar canga ou peitoral.
+4. Acolchoe a parte do arreio que toca o pescoço e os ombros.
+5. Monte a caixa de carga sobre o eixo, com o piso rente ao eixo.
+6. Prenda a caixa ao eixo com parafusos e arruelas, não só com corda.
+7. Fixe a lança de tração no centro da frente da caixa, rente ao eixo.
+8. Engraxe os rolamentos até girarem livres com a mão.
+9. Instale um freio de sapata ou alavanca que pressione a roda.
+10. Amarre o arreio à lança de forma que a tração fique baixa e reta.
+11. Ajuste o arreio sem apertar a traqueia nem machucar os ombros.
+12. Faça o primeiro teste com o carroção vazio em terreno plano.
+13. Ande ao lado do animal e dê ordens curtas e sempre iguais.
+14. Carregue a madeira ou os sacos com o peso baixo e centralizado.
+15. Amarre a carga à caixa para ela não deslocar na subida.
+16. Reduza a carga em ladeira, areia fofa ou lama.
+17. Desça ladeiras devagar, com o freio acionado e o animal de lado.
+18. Ao parar, acione o freio e coloque o calço atrás da roda.
+19. Tire o arreio, limpe a pele e dê água e sombra ao animal.
+
+ATENCAO
+-------
+Animal de tração pode chutar, empurrar e atropelar quem está atrás.
+Nunca fique na frente do carroção nem entre o animal e a lança.
+Carroção sem freio despenca em descida e pode esmagar pessoa ou animal.
+Carga alta ou torta vira na curva e prende o animal sob a caixa.
+Arreio apertado ou sem acolchoamento corta a pele e infecciona em dias.
+Não use animal com ferida, febre, tosse, mancar ou cansaço visível.
+Em calor forte, pare na sombra: animal superaquecido pode morrer.
+Se o animal cair ou não conseguir se levantar, pare e busque ajuda.
+
+SE NAO TIVER
+------------
+Sem rolamento, use eixo de madeira lubrificado com sebo ou graxa.
+Gira com mais esforço: reduza a carga e a distância.
+Sem madeira para caixa, use caixote reforçado com ripas por baixo.
+Sem freio, não use o carroção em ladeira: carregue nas costas.
+Sem animal treinado, não improvise: o treino demora semanas.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O carroção roda em linha reta sem puxar para o lado.
+A carga não balança e a caixa não bate no eixo.
+O animal caminha sem mancar, sem ofegar e sem baixar a cabeça.
+A pele sob o arreio fica sem vermelhidão, corte ou inchaço.
+O carroção para e fica parado com o freio e o calço.
+
+FONTES
+------
+Prática consolidada de transporte com animais de tração, resumida das
+publicações da ATNESA (Animal Traction Network for Eastern and Southern
+Africa), em especial "Improving animal traction technology" (1994),
+capítulos sobre projeto de carroções e manejo de animais de tração, e o
+livro "Harnessing and implements for animal traction", de Paul Starkey
+(GTZ, 1989). Princípios de bem-estar animal da WOAH (Organização Mundial
+de Saúde Animal). Texto operacional, não substitui treinamento.

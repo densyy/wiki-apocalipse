@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 36-013
+TITULO: Como identificar depósitos de manganês
+CATEGORIA: 36 - Geologia, mineração e recursos naturais
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: lupa, pedra de risca lisa, faca de bolso, ímã, caderno
+REVISAO: 2026-11
+PALAVRAS-CHAVE: manganês, pirolusita, minério, risca preta, rocha preta
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer sinais visíveis de manganês em afloramentos e cascalho.
+
+QUANDO USAR
+-----------
+Quando aparecer rocha preta ou cinza com brilho metálico na encosta.
+Quando houver crostas arredondadas ou manchas escuras em forma de árvore.
+Quando o cascalho do riacho concentrar fragmentos pretos e pesados.
+
+NAO USE QUANDO
+--------------
+Nao use em minas, túneis ou escavações abandonadas: risco de desabamento.
+Nao serve para decidir extração ou venda: é só reconhecimento visual.
+
+MATERIAIS
+---------
+- Pedra de risca não esmaltada (ou fundo de prato de porcelana).
+- Faca de bolso (ou chave pequena) para raspar a amostra.
+- Ímã de geladeira para afastar a magnetita.
+- Lupa, caderno, lápis e saco de papel para a amostra.
+
+PROCEDIMENTO
+------------
+1. Caminhe pela encosta em dia seco e procure fragmentos escuros.
+2. Pare onde aparecerem crostas pretas arredondadas ou cascalho preto.
+3. Limpe a superfície da amostra com pano seco ou escova.
+4. Esfregue a amostra na pedra de risca e olhe a cor do traço.
+5. Anote "preto" ou "preto-azulado" se o traço ficar escuro.
+6. Aproxime o ímã do fragmento e anote se ele gruda.
+7. Descarte magnetita quando o ímã grudar no fragmento.
+8. Raspe com a faca e observe se sai pó preto que mancha o dedo.
+9. Repita a risca em três fragmentos diferentes do mesmo afloramento.
+10. Meça a extensão em passos, marque com pedras e guarde uma amostra.
+
+ATENCAO
+-------
+Não entre em minas, poços, túneis ou taludes cortados sem autorização.
+Nunca moa, corte ou lixe a amostra: não inhale pó de manganês.
+Poeira inalada em excesso inflama os pulmões e pode danificar os nervos.
+O teste não mede teor e pode confundir magnetita com minério de manganês.
+Pare e saia se houver cheiro de gás, cabos expostos ou rocha solta.
+
+SE NAO TIVER
+------------
+Sem pedra de risca, use o fundo de um prato de porcelana lisa.
+Sem lupa, observe ao ar livre em boa luz; não use lanterna fraca.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O traço na porcelana ficou preto ou preto-azulado em três fragmentos.
+O ímã não grudou e você anotou extensão, local e data no caderno.
+
+FONTES
+------
+Manual de Mineralogia (Anthony e outros, 2005, entrada pirolusita).
+USGS Professional Paper 1802-L (Cannon, Kimball e Corathers, 2017).
+Perfil toxicológico da ATSDR; Serviço Geológico do Brasil (SGB/CPRM).

@@ -1,0 +1,91 @@
+==============================================================================
+CODIGO: 17-013
+TITULO: Como proteger plantações contra geadas
+CATEGORIA: 17 - Meteorologia, clima e meio ambiente
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: termômetro, pano ou palha, água corrente, aspersor se houver
+REVISAO: 2026-11
+PALAVRAS-CHAVE: geada, frio, plantação, gelo, irrigação, mudas, proteção
+==============================================================================
+
+OBJETIVO
+--------
+Reduzir a perda de plantas e frutos em uma noite de geada.
+
+QUANDO USAR
+-----------
+Quando a previsão indicar temperatura perto de 0 °C para a madrugada.
+Quando a cultura estiver brotando, florindo ou com frutos jovens.
+Quando a geada for tardia, no início da primavera.
+Quando a horta ou o pomar ficar em baixada, onde o ar frio se acumula.
+Quando houver mudas e plantas pequenas que caibam sob cobertura.
+
+NAO USE QUANDO
+--------------
+Quando houver previsão de vento forte: a aspersão perde eficácia.
+Quando não houver água para manter a aspersão até o degelo completo.
+Quando a vegetação ao redor estiver seca e o risco de incêndio for alto.
+Quando os tecidos já estiverem escuros e moles: o dano já aconteceu.
+
+MATERIAIS
+---------
+- Termômetro colocado na altura das plantas (ou observação do gelo).
+- Pano, manta ou palha para cobrir plantas pequenas.
+- Estacas ou arcos para apoiar a cobertura (ou galhos flexíveis).
+- Pedras ou terra para prender as bordas da cobertura.
+- Água corrente em grande quantidade, se houver aspersão.
+- Aspersor instalado acima das plantas, se o sistema existir.
+- Materiais para quebra-vento, se o vento vier frio (galhos, esteiras).
+
+PROCEDIMENTO
+------------
+1. Acompanhe a previsão e identifique noites com temperatura perto de 0 °C.
+2. Coloque o termômetro na altura das plantas, no ponto mais baixo.
+3. Arrance as invasoras perto das plantas sem revolver a terra.
+4. Espalhe palha ou folhas secas em faixas entre as fileiras de plantio.
+5. Instale quebra-vento do lado de onde vem o vento frio, se houver vento.
+6. Cubra mudas e plantas pequenas com pano ou palha antes do anoitecer.
+7. Apoie a cobertura em estacas ou arcos para não esmagar as folhas.
+8. Prenda as bordas da cobertura com pedras ou terra.
+9. Meça a temperatura ao anoitecer e de hora em hora durante a madrugada.
+10. Se houver aspersor e água, ligue quando o termômetro marcar de 2 a 0 °C.
+11. Mantenha a água correndo sem parar, mesmo se o frio parecer estabilizar.
+12. Observe o gelo: transparente é bom; turvo indica ar misturado na água.
+13. Desligue só após todo o gelo derreter e o termômetro passar de 0 °C.
+14. Retire a cobertura das plantas pequenas após o degelo e com luz do dia.
+
+ATENCAO
+-------
+A aspersão protege porque a água libera calor ao congelar sobre a planta.
+Parar a água antes do degelo faz o gelo evaporar e retirar calor da planta.
+Começar e interromper a aspersão é pior do que não ter começado.
+Vento entre aproximadamente 2 e 4 metros por segundo reduz a proteção.
+O peso do gelo quebra galhos e entope aspersores; verifique a cada hora.
+Gelo turvo mostra que entra ar junto com a água: aumente a vazão ou pare.
+Não use fumaça de fogueira como método principal: a eficácia é limitada.
+O fogo pode se espalhar para palha e folhas secas e causar incêndio.
+O ar frio escorre pela encosta e se acumula no fundo do vale e da baixada.
+Em geada forte, nenhum desses métodos garante a colheita; aceite a perda.
+
+SE NAO TIVER
+------------
+Sem aspersor, cubra apenas plantas pequenas com pano ou palha.
+Não improvise aspersão com mangueira intermitente: piora o dano.
+Sem termômetro, observe a formação de gelo nas folhas baixas e no solo.
+Sem pano, use palha, folhas secas ou manta de proteção se houver.
+Em pomar grande sem sistema de aspersão, não existe substituto caseiro.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As folhas e os frutos ficam verdes e firmes depois que o gelo derrete.
+Não há manchas escuras, moles ou com cheiro de apodrecido nos tecidos.
+O gelo formado durante a aspersão era transparente e derreteu por completo.
+
+FONTES
+------
+Artigo "Como proteger pomares dos danos causados pelo congelamento", Embrapa
+Uva e Vinho, 2021, com parâmetros de irrigação por aspersão.
+Páginas "Geada" da Embrapa sobre uva e pêssego (CNPUV).
+Orientações do CENACID/UFPR sobre como agir frente a geadas.
+Prática consolidada de manejo de geada, resumida de forma operacional.

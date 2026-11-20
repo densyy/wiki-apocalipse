@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 05-035
+TITULO: Como impermeabilizar paredes
+CATEGORIA: 05 - Abrigo, construção e habitação
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: argamassa ou barro, cal, brocha ou vassoura velha
+REVISAO: 2026-11
+PALAVRAS-CHAVE: parede, impermeabilizar, umidade, mofo, reboco
+==============================================================================
+
+OBJETIVO
+--------
+Reduzir a entrada de chuva e umidade pelas paredes da casa.
+
+QUANDO USAR
+-----------
+Quando a parede molha por dentro em dia de chuva.
+Quando aparecem manchas escuras, mofo ou tinta soltando.
+Quando a base da parede puxa umidade do chão.
+
+NAO USE QUANDO
+--------------
+Em parede com rachadura larga, inclinada ou afundando.
+Em parede com risco de desabamento ou após enchente forte.
+
+MATERIAIS
+---------
+- Argamassa de cimento e areia ou barro com cal (terra peneirada).
+- Cal hidratada em pó e água limpa.
+- Brocha ou vassoura velha (pedaço de pano enrolado).
+- Espátula ou colher de pedreiro (faca velha, madeira dura).
+
+PROCEDIMENTO
+------------
+1. Trabalhe em dia seco e cubra o chão junto à parede.
+2. Raspe tinta solta, mofo e reboco esfarelando com a espátula.
+3. Lave a parede com água limpa e deixe secar a superfície.
+4. Tape as trincas finas com argamassa, apertando bem.
+5. Espere a massa firmar por aproximadamente 1 dia.
+6. Misture cal com água até virar uma tinta grossa sem grumos.
+7. Passe a primeira demão de cima para baixo, sem falhar.
+8. Espere secar por aproximadamente 4 horas e passe a segunda.
+9. Reforce a base até aproximadamente 50 cm acima do chão.
+10. Desvie pingos do telhado e afaste poças da base da parede.
+
+ATENCAO
+-------
+Cal e cimento irritam olhos, pele e pulmão: use luvas.
+Trabalhe com o local ventilado e não esfregue o rosto.
+Reboco novo não segura parede trincada, torta ou afundando.
+Não resolve enchente nem água que sobe além da base.
+Se o mofo voltar rápido ou a parede estufar, pare e revise.
+
+SE NAO TIVER
+------------
+Sem cal, tape as trincas só com argamassa bem apertada.
+Sem brocha, aplique com vassoura velha ou pano enrolado.
+Sem cimento, use barro com cal: dura menos e pede refazer.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A chuva escorre e não escurece mais a parede.
+A parede segue seca por dentro após uma chuva fraca.
+
+FONTES
+------
+Prática consolidada de manutenção de moradias em desastres
+(famílias de referência: FEMA, IFRC e manuais de construção
+civil). Resumo operacional, sem treinamento.

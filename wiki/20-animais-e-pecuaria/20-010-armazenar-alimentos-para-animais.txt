@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 20-010
+TITULO: Como armazenar alimentos para animais
+CATEGORIA: 20 - Animais domésticos e pecuária
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: local seco e arejado, sacos limpos, recipientes tampados, estrados
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ração, grãos, feno, mofo, umidade, ratos, armazenar
+==============================================================================
+
+OBJETIVO
+--------
+Conservar ração, grãos e feno sem mofo, pragas ou perda de valor nutritivo.
+
+QUANDO USAR
+-----------
+Quando sobrar ração de uma compra ou de uma entrega emergencial.
+Quando grãos ou feno precisarem esperar dias antes de serem usados.
+Quando o local de guarda for úmido, quente ou acessível a ratos e aves.
+Quando o alimento for para animais jovens, gestantes ou em lactação.
+
+NAO USE QUANDO
+--------------
+O alimento já está mofado, com cheiro podre ou quente ao toque.
+Não tente recuperar alimento com mofo: descarte.
+Grãos tratados com inseticida nunca servem de alimento para animais.
+
+MATERIAIS
+---------
+- Sacos de pano ou plástico limpos, secos e sem furos.
+- Recipientes com tampa, sem resíduo de combustível ou tinta.
+- Estrados de madeira ou pedras para apoiar os sacos.
+- Lona impermeável para cobrir pilhas ao ar livre.
+- Papel e lápis para rotular cada saco com a data.
+- Peneira ou pano limpo para retirar pó e grãos quebrados.
+
+PROCEDIMENTO
+------------
+1. Escolha um local coberto, seco, arejado e fechado para ratos e aves.
+2. Varra o chão e remova restos de alimento da guarda anterior.
+3. Apoie os estrados no piso antes de colocar qualquer saco.
+4. Rejeite alimento úmido, mofado, com cheiro estranho ou com insetos.
+5. Se estiver levemente úmido, espalhe o alimento em camada fina ao sol.
+6. Mexa o alimento até secar e deixe esfriar antes de ensacar.
+7. Verifique a umidade: abaixo de 13% é o alvo para milho e cereais.
+8. Sem medidor, morda um grão: seco, ele quebra e não amassa.
+9. Para feno, aperte um punhado: se quebrar e não voltar ao formato, serve.
+10. Recolha o feno com menos de 20% de umidade.
+11. Retire o pó e os grãos quebrados com peneira ou pano.
+12. Encha sacos limpos e não deixe o alimento tocar o chão.
+13. Feche as tampas e dobre a boca dos sacos de pano.
+14. Deixe espaço entre as pilhas e afaste os sacos das paredes.
+15. Faça pilhas pequenas: pilhas grandes esquentam por dentro.
+16. Rotule cada saco com o tipo de alimento e a data de entrada.
+17. Coloque o lote mais antigo na frente, para ser usado primeiro.
+18. Use ração moída em até 2 meses e grãos inteiros em até 4 meses.
+19. Em clima sempre quente e úmido, reduza esses prazos pela metade.
+20. Cubra o topo da pilha com lona se o local não for bem fechado.
+21. Confira a pilha uma vez por semana: cheiro, cor, pó e temperatura.
+
+ATENCAO
+-------
+Mofo produz micotoxinas, venenos que resistem ao cozimento e à secagem.
+Cozer alimento mofado não remove o veneno: não tente recuperá-lo.
+Não inale pó de grão ou feno mofado: o pó pode causar doença pulmonar.
+Feno úmido esquenta; se a pilha passar de 40°C, abra e areje.
+Pilhas grandes e quentes podem chegar a incêndio espontâneo.
+Ratos e insetos sujão o alimento e aumentam a umidade local.
+Animais jovens, gestantes e em lactação sofrem mais com alimento mofado.
+Se o animal recusar o alimento ou perder peso, pare e troque o lote.
+Com tremores, aborto ou sangramento, procure um veterinário.
+
+SE NAO TIVER
+------------
+Sem saco, use baldes ou potes com tampa, lavados e bem secos.
+Sem estrado, apoie os sacos sobre pedras cobertas por lona.
+Sem lona, use local coberto e redobre o cuidado com a umidade.
+Sem medidor de umidade, use o teste do dente e o aperto do punhado.
+Não use saco de adubo, fertilizante ou agrotóxico para guardar alimento.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os grãos quebram ao morder e não deixam marca de umidade na unha.
+O feno não solta vapor, não cheira a mofo e não está quente.
+Os sacos estão secos, rotulados, fora do chão e sem furos ou fezes.
+A pilha não tem cheiro podre, pó branco nem insetos voando.
+
+FONTES
+------
+Embrapa: armazenamento de feno, ponto de feno e armazenagem de milho
+(umidade abaixo de 13%, temperatura abaixo de 15°C, controle de pragas).
+FAO: manual sobre armazenamento de rações e boas práticas de grãos.
+Manual IFIF/FAO de boas práticas para o setor de ração (2020).
+Diretrizes de armazenamento de ração de Manitoba Agriculture.

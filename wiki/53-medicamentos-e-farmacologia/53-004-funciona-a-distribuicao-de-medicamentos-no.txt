@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 53-004
+TITULO: Como funciona a distribuição de medicamentos no organismo
+CATEGORIA: 53 - Produção de medicamentos e farmacologia
+TEMPO: 25 minutos
+RISCO: alto
+EXIGE: papel, caneta, embalagens dos remédios
+REVISAO: 2026-11
+PALAVRAS-CHAVE: distribuição, remédio, sangue, tecido, albumina, gordura
+==============================================================================
+
+OBJETIVO
+--------
+Entender para onde vai um remédio depois que entra no sangue e o que
+muda esse caminho.
+
+QUANDO USAR
+-----------
+Quando aparecerem remédios sem receita e for preciso entender onde agem.
+Quando alguém toma vários remédios e pode haver competição entre eles.
+Quando a pessoa está desnutrida, desidratada, obesa ou é recém-nascido.
+Quando uma gestante ou um idoso precisa usar qualquer medicamento.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+Não use este texto para calcular dose, trocar receita ou substituir bula.
+
+MATERIAIS
+---------
+- Embalagens ou lista dos remédios disponíveis.
+- Papel e caneta para anotar.
+- Bulas dos remédios, se houver (rótulo impresso).
+- Caderno para registrar as conclusões (papel comum).
+
+PROCEDIMENTO
+------------
+1. Separe as embalagens e anote o princípio ativo de cada remédio.
+2. Confirme na bula o princípio ativo e a via de administração.
+3. Entenda: distribuição é a saída do remédio do sangue para os tecidos.
+4. Localize os órgãos com muito sangue: cérebro, fígado, rim e pulmão.
+5. Entenda que eles recebem o remédio antes de músculo e gordura.
+6. Marque no papel quais órgãos o remédio precisa alcançar para agir.
+7. Leia na bula se o remédio é solúvel em gordura ou em água.
+8. Remédios solúveis em gordura atravessam membranas e entram no cérebro.
+9. Remédios solúveis em água entram devagar e podem precisar de ajuda.
+10. Observe se a bula fala em ligação a proteínas do sangue, como albumina.
+11. Entenda que só a parte livre, sem ligação, atravessa para o tecido.
+12. A parte ligada fica guardada no sangue e é liberada aos poucos.
+13. Compare com outros remédios da lista que usam a mesma proteína.
+14. Se houver dois, anote: um pode deslocar o outro e aumentar o efeito.
+15. Verifique se o remédio precisa atravessar a barreira hematoencefálica.
+16. Essa barreira é um filtro de células unidas do cérebro.
+17. Ela bloqueia remédios solúveis em água e protege o cérebro.
+18. Verifique na bula se há alerta para gestantes.
+19. Na gravidez, o remédio pode passar pela placenta e chegar ao bebê.
+20. Anote se o remédio tende a se acumular na gordura do corpo.
+21. Remédios na gordura agem por mais tempo e voltam ao sangue depois.
+22. Observe idade, peso, desidratação e doença do fígado de quem vai tomar.
+23. Desnutrição ou doença do fígado reduzem albumina e aumentam o livre.
+24. Desidratação ou sangramento reduzem o fluxo e atrasam a chegada.
+25. Registre no papel onde o remédio age, onde fica e o que muda.
+26. Confira dose e duração na bula e na receita, nunca por conta própria.
+
+ATENCAO
+-------
+Não tente mudar a distribuição com dose maior ou remédio caseiro.
+Dose maior não faz o remédio chegar melhor e pode intoxicar.
+Dois remédios que competem pela mesma proteína podem elevar o efeito.
+Varfarina com aspirina, por exemplo, aumenta o risco de sangramento.
+Em desnutrido ou doença do fígado, falta albumina e sobra remédio livre.
+Gestante: o remédio pode passar pela placenta e afetar o bebê.
+Sinais de intoxicação: tontura, náusea, confusão, manchas, falta de ar.
+Com falta de ar ou inchaço de lábios, pare e busque ajuda imediata.
+Este texto explica o caminho do remédio; não substitui bula nem médico.
+
+SE NAO TIVER
+------------
+Sem bula, leia só o rótulo; sem princípio ativo, não use o remédio.
+Sem papel, anote em superfície limpa; não confie na memória.
+Sem dados sobre o remédio, não invente: pergunte a um profissional.
+Não troque um remédio por outro só porque parecem agir no mesmo lugar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O princípio ativo de cada remédio está anotado no papel.
+Você consegue dizer para onde o remédio vai e por que age naquele órgão.
+Você marcou se ele é solúvel em gordura ou em água.
+Você identificou quem pode ter distribuição diferente e por quê.
+Nenhum remédio desconhecido foi usado e nenhuma dose foi inventada.
+
+FONTES
+------
+Distribuição do fármaco aos tecidos, Manual MSD de Farmacologia Clínica
+(edição para profissionais, atualizado em 2024).
+Drug Distribution, StatPearls, NCBI Bookshelf (atualizado em 2023).
+Capítulos de absorção e distribuição do manual Rang & Dale, Farmacologia.
+Orientações da OMS sobre uso racional de medicamentos.
+Farmacologia clínica é área consolidada; este texto é resumo operacional.

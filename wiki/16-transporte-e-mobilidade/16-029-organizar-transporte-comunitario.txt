@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 16-029
+TITULO: Como organizar transporte comunitário
+CATEGORIA: 16 - Transporte e mobilidade
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: papel, caneta, lista de moradores, veículos e combustível
+REVISAO: 2026-11
+PALAVRAS-CHAVE: transporte, carona, evacuação, mutirão, motorista, rotas
+==============================================================================
+
+OBJETIVO
+--------
+Organizar caronas para levar pessoas e cargas essenciais com segurança.
+
+QUANDO USAR
+-----------
+Quando a crise durar mais de alguns dias e a carona individual não bastar.
+Quando houver feridos, idosos ou crianças que precisem se deslocar.
+Quando faltar combustível e as viagens precisarem ser divididas.
+Quando água, remédios ou alimentos precisarem chegar a vários pontos.
+
+NAO USE QUANDO
+--------------
+Não substitua ambulância: ferido grave precisa de atendimento profissional.
+Não escalem motorista sem habilitação, com sono ou sob efeito de álcool.
+Não usem veículo com freio, pneu, direção ou luzes com defeito.
+Não atravessem água corrente, ponte interditada ou estrada alagada.
+
+MATERIAIS
+---------
+- Papel, caneta ou lápis (substituto: carvão e parede lisa).
+- Lista de moradores com nome, ponto de encontro e contato.
+- Lista de veículos com placa, autonomia e quem pode dirigir.
+- Combustível suficiente para a viagem planejada.
+- Faixa, pano claro ou lanterna (substituto: papel branco).
+- Luvas e pano limpo para manusear feridos, quando houver.
+- Relógio para medir horários e intervalos de checagem.
+
+PROCEDIMENTO
+------------
+1. Reúna os moradores em ponto fixo e seguro, longe da via principal.
+2. Anote quem precisa de transporte e para onde em uma folha única.
+3. Marque a prioridade de cada um: ferido, idoso, criança ou carga.
+4. Anote quem sabe dirigir e qual veículo cada um pode usar.
+5. Confira habilitação, sono e estado do motorista antes de escalar.
+6. Inspecione pneus, freios, direção e luzes de cada veículo usado.
+7. Meça o combustível e calcule quantas viagens ele permite.
+8. Escolha um responsável único pela ordem de saída dos veículos.
+9. Desenhe a rota principal e uma alternativa na mesma folha.
+10. Marque os pontos de parada e o ponto de retorno no papel.
+11. Comunique a todos o horário e o ponto exato de espera.
+12. Distribua as pessoas conforme a prioridade anotada.
+13. Acomode feridos deitados ou sentados com apoio, nunca no colo.
+14. Prenda as cargas para que não rolem nem virem projétil.
+15. Anote quem viajou, em qual veículo e a que horas saiu.
+16. Combine um sinal de parada com todos os motoristas.
+17. Combine um sinal de retorno com todos os motoristas.
+18. Cheque o retorno de cada veículo e atualize a folha.
+19. Recombe o combustível antes da próxima rodada, se houver.
+20. Repita a checagem de motorista e veículo em cada nova viagem.
+21. Guarde a folha com nomes, horários e destinos em local seco.
+
+ATENCAO
+-------
+Um erro de prioridade pode deixar ferido grave sem transporte.
+Não coloque mais pessoas do que o veículo comporta com apoio ou cinto.
+Motorista com sono, álcool ou remédio que dá sonolência não dirige.
+Não atrase ferido grave esperando carona: busque atendimento profissional.
+Não atravesse água corrente, ponte danificada ou estrada desconhecida.
+Se o veículo perder freio, direção ou aquecer, pare e desembarque todos.
+Disputa por lugar é comum: mantenha a lista de prioridade à vista.
+Este texto não cria autoridade: siga a Defesa Civil e o comando local.
+
+SE NAO TIVER
+------------
+Sem veículo, organize caminhada em grupo com descanso e carga dividida.
+Sem combustível, leve só feridos e carga essencial; corte viagens de rotina.
+Sem rádio, designe uma pessoa para ir a pé entre os pontos.
+Sem papel, anote os nomes em parede ou tábua com carvão.
+Sem motorista habilitado, não improvise: busque transporte oficial.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Toda pessoa que precisava sair chegou ao destino anotado.
+A folha mostra quem viajou, em qual veículo e a que horas.
+Todos os veículos voltaram com pneus, freios e combustível conferidos.
+Ninguém viajou sem lugar seguro, apoio ou cinto.
+O grupo voltou a se reunir no horário combinado.
+
+FONTES
+------
+National Response Framework da FEMA, quarta edicao: planos da comunidade e
+funcoes de apoio de emergencia, inclusive transporte.
+Programa CERT da FEMA: treino de voluntarios em organizacao de equipe e
+socorro basico em desastres.
+Curso IS-315 da FEMA: CERT e o Sistema de Comando de Incidentes.
+NIMS da FEMA: vocabulario comum e estruturas de comando e coordenacao.
+OMS: preparacao de emergencias centrada na comunidade, 2026.
+Pratica consolidada de mutirao e divisao de viagens, sem documento unico.

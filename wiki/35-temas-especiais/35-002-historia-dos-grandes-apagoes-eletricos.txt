@@ -1,0 +1,68 @@
+==============================================================================
+CODIGO: 35-002
+TITULO: Como entender a história dos grandes apagões elétricos
+CATEGORIA: 35 - Temas especiais que merecem enciclopédias próprias
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: caderno, caneta, fonte de luz
+REVISAO: 2026-11
+PALAVRAS-CHAVE: apagão, blackout, rede elétrica, energia, história
+==============================================================================
+
+OBJETIVO
+--------
+Entender por que as redes elétricas caem e que lições os apagões deixaram.
+QUANDO USAR
+-----------
+Quando uma notícia de apagão não fizer sentido.
+Quando precisar explicar a queda de luz para outra pessoa.
+Quando quiser avaliar a dependência da sua casa da energia.
+NAO USE QUANDO
+--------------
+Não use para religar circuitos ou mexer na rede elétrica.
+Este texto não autoriza intervenção em instalação energizada.
+MATERIAIS
+---------
+- Caderno ou papel para anotar.
+- Caneta ou lápis.
+- Fonte de luz, se for ler no escuro.
+PROCEDIMENTO
+------------
+1. Abra no papel as colunas ano, lugar, causa, alcance e duração.
+2. Registre 1965: Canadá e nordeste dos EUA, cerca de 30 milhões.
+3. Anote a causa de 1965: um relay mal ajustado perto de Niagara.
+4. Registre 1977: Nova York, raios derrubaram a rede da Con Edison.
+5. Registre 1999: sul do Brasil, um raio atingiu subestação em Bauru.
+6. Anote o alcance de 1999: entre 75 e 97 milhões de pessoas.
+7. Registre 2003: EUA e Ontario, cerca de 55 milhões sem luz.
+8. Anote a causa de 2003: linhas em árvores e um alarme que falhou.
+9. Registre 2012: Índia, cerca de 600 milhões em dois dias.
+10. Anote a causa de 2012: linha sobrecarregada e corte automático falho.
+11. Registre 2021: Texas, frio extremo e gás natural congelado.
+12. Circule as causas repetidas e escreva a lição de cada caso.
+ATENCAO
+-------
+Nunca tente religar a energia por conta própria.
+A rede pode estar viva mesmo sem luz nas casas.
+Fio caído no chão pode matar por choque elétrico.
+Sem luz, bombas param e a água pode ficar imprópria.
+Gerador dentro de casa mata por monóxido de carbono.
+Os números de pessoas e horas variam; trate como aproximados.
+SE NAO TIVER
+------------
+Sem caderno, memorize ano, causa e lição de cada caso.
+Sem luz, faça a leitura durante o dia.
+Sem relatório, anote só o que consegue confirmar.
+COMO SABER QUE DEU CERTO
+------------------------
+Você explica cada apagão com ano, causa e consequência.
+Você aponta pelo menos três causas que se repetem.
+Você escreve três ações práticas para a sua casa.
+FONTES
+------
+Relatório final da Força-Tarefa Conjunta EUA-Canadá, 2004.
+Relatório do comitê de inquérito do Ministério da Energia da Índia, 2012.
+Artigo "Anatomy of a blackout", IEEE Spectrum, 1978.
+Relatório do Conselho de Coordenação Nordeste, apagão de 1965.
+Relatórios da North American Electric Reliability Corporation, Texas.
+Wikipedia serviu apenas como pista para achar esses documentos.

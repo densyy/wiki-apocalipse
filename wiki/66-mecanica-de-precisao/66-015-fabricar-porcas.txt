@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 66-015
+TITULO: Como fabricar porcas
+CATEGORIA: 66 - Mecânica de precisão e instrumentos
+TEMPO: 50 minutos
+RISCO: medio
+EXIGE: morsa, broca, macho, chave de macho, óleo de corte, óculos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: porca, rosca, macho, passo, furadeira, rosquear, parafuso
+==============================================================================
+
+OBJETIVO
+--------
+Fazer uma porca com rosca interna que aceite o parafuso da medida certa.
+
+QUANDO USAR
+-----------
+Quando uma porca se perdeu e precisa de substituição imediata.
+Quando há macho, broca e óleo de corte disponíveis na oficina.
+
+NAO USE QUANDO
+--------------
+Não use em peça que sustente peso, pressão, vibração ou rotação.
+Não use em freio, vaso de pressão ou elevador: exige projeto validado.
+Não use sem óculos e sem prender a peça firmemente na morsa.
+
+MATERIAIS
+---------
+- Barra de aço comum, latão ou alumínio (metal mole: latão).
+- Broca de aço rápido e machos cônico e secundário da mesma rosca.
+- Chave de macho (pinça para os pequenos), óleo de corte, esquadro, pincel.
+
+PROCEDIMENTO
+------------
+1. Meça o diâmetro do parafuso com paquímetro e anote.
+2. Meça o passo: distância entre dois filetes vizinhos da rosca.
+3. Calcule a broca: diâmetro do parafuso menos o passo.
+4. Para M6 de passo 1 use broca de aproximadamente 5 mm (M8: 6,8 mm).
+5. Marque o centro com punção e prenda a peça na morsa.
+6. Fure com óleo de corte, retirando a broca para sair o cavaco.
+7. Confira: o parafuso entra no furo liso, sem rosca.
+8. Fixe o macho cônico na chave e unte com óleo de corte.
+9. Gire devagar, mantendo o macho alinhado ao furo com o esquadro.
+10. A cada meia volta, recue um pouco para quebrar o cavaco.
+11. Depois de atravessar, passe o macho secundário com óleo.
+12. Retire o macho, limpe os cavacos e teste com o parafuso à mão.
+
+ATENCAO
+-------
+- Broca errada: pequena quebra o macho; grande deixa rosca fraca.
+- Macho travado: recue e limpe; forçar quebra dentro da porca.
+- O macho cônico não termina a rosca: passe o secundário sempre.
+- Use óculos: cavaco de metal voa e fere os olhos.
+
+SE NAO TIVER
+------------
+- Sem macho, não faça rosca interna: aproveite porca de sucata.
+- Sem chave de macho, segure o quadrado do macho com pinça firme.
+- Sem óleo de corte, use óleo de máquina limpo; nunca use água.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- Parafuso gira até o fim com a mão; rosca contínua, sem borda cortante.
+
+FONTES
+------
+- Prática consolidada de oficina mecânica e roscamento manual.
+- Tubal Cain, "Drills, Taps and Dies", Workshop Practice Series, 1987:
+  escolha da broca, tipos de macho e risco de quebra da ferramenta.
+- Resumo operacional: não substitui treinamento nem desenho validado.

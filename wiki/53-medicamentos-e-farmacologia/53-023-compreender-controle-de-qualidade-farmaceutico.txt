@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 53-023
+TITULO: Como compreender controle de qualidade farmacêutico
+CATEGORIA: 53 - Produção de medicamentos e farmacologia
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: qualidade, BPF, amostragem, ensaio, lote, liberação, teste
+==============================================================================
+
+OBJETIVO
+--------
+Entender como o controle de qualidade verifica identidade, pureza e teor.
+
+QUANDO USAR
+-----------
+Ao receber um lote de matéria-prima e decidir se pode entrar na produção.
+Ao ler um laudo de análise e compreender cada resultado e cada limite.
+Ao acompanhar a liberação de um lote para venda ou distribuição.
+Ao investigar um resultado fora da especificação ou um desvio de processo.
+
+NAO USE QUANDO
+--------------
+Não use para escolher remédio, dose ou tratamento de uma pessoa.
+Não substitui bula, prescrição nem orientação do farmacêutico.
+Não serve para fazer ensaio químico em casa nem para curar alguém.
+Não use para decidir por conta própria se um produto vencido ainda serve.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Defina controle de qualidade: parte das boas práticas de fabricação que
+   cuida da amostragem, das especificações, dos ensaios e da liberação.
+2. Entenda o objetivo: impedir que insumo ruim entre na produção e que lote
+   ruim chegue a quem vai usar o medicamento.
+3. Separe os conceitos: garantia da qualidade cobre tudo; boas práticas de
+   fabricação cobre a produção; controle de qualidade, os ensaios.
+4. Note que o controle de qualidade responde à direção, não à produção.
+5. Leia a especificação: documento aprovado com nome, ensaios, limites e
+   condições de guarda do material ou do produto.
+6. Entenda identidade: ensaio que confirma que a substância é a declarada.
+7. Entenda pureza: ensaio que mede impurezas, umidade e metais pesados.
+8. Entenda teor, chamado doseamento: mede o princípio ativo do produto.
+9. Entenda amostragem: retirada de parte representativa do lote.
+10. Colete amostra só com método aprovado e por pessoa autorizada.
+11. Identifique a amostra com lote, data e recipiente de origem.
+12. Saiba que o ensaio exige método validado e equipamento calibrado.
+13. Mantenha o laboratório de controle separado da área de produção.
+14. Compare cada valor do laudo com o limite da especificação.
+15. Entenda resultado fora da especificação: valor acima do limite.
+16. Nunca repita o ensaio só para conseguir um valor dentro do limite.
+17. Investigue a causa antes de qualquer nova análise da amostra.
+18. Entenda desvio: saída do procedimento aprovado que exige registro e
+    investigação.
+19. Entenda liberação de lote: decisão formal de que o lote atende aos
+    requisitos do registro e da norma.
+20. Saiba que a liberação revisa registros de produção, ensaios e desvios.
+21. Note que quem libera é pessoa designada e independente da produção.
+22. Relacione com a farmacopeia: ela traz métodos e limites oficiais.
+23. Entenda que ensaio bom não substitui boas práticas na fabricação.
+
+ATENCAO
+-------
+Este texto ensina a compreender, não a executar ensaios nem a liberar lotes.
+Nunca invalide um resultado só porque ele contraria o que se esperava.
+Resultado fora da especificação exige investigação antes de nova análise.
+Não faça ensaio químico em casa: reagentes e padrões não se improvisam.
+Controle de qualidade não escolhe remédio nem dose: isso é prescrição.
+Em dúvida sobre um lote, procure o farmacêutico responsável.
+
+SE NAO TIVER
+------------
+Sem laudo, peça o certificado de análise ao fornecedor do material.
+Sem especificação interna, use a farmacopeia oficial vigente como guia.
+Sem método validado, não aceite o resultado como definitivo.
+Sem registro de calibração, desconfie do valor obtido.
+Sem pessoa designada para liberação, o lote não está liberado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você explica a diferença entre identidade, pureza e teor.
+Você aponta o que uma amostragem precisa registrar.
+Você reconhece que resultado fora da especificação pede investigação.
+Você sabe nomear quem pode liberar um lote.
+Você entende que controle de qualidade é diferente de prescrever remédio.
+
+FONTES
+------
+Anvisa, RDC 658/2022, Diretrizes Gerais de Boas Práticas de Fabricação de
+Medicamentos, capítulo sobre controle de qualidade.
+Farmacopeia Brasileira, 6ª edição, da Anvisa, e suas atualizações.
+OMS, Série de Relatórios Técnicos 986, Anexo 2, Boas Práticas de
+Fabricação de Medicamentos, 2014.
+OMS, Série de Relatórios Técnicos 957, Anexo 1, Boas Práticas para
+Laboratórios de Controle de Qualidade de Produtos Farmacêuticos, 2010.
+Resumo educativo; não substitui a norma oficial nem orientação técnica.

@@ -1,0 +1,72 @@
+==============================================================================
+CODIGO: 45-004
+TITULO: Como funciona uma estação de tratamento de esgoto
+CATEGORIA: 45 - Engenharia de saneamento e saúde pública
+TEMPO: 25 minutos
+RISCO: alto
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: esgoto, ete, estação de tratamento, esgoto sanitário, lodo
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer as etapas de uma estação de tratamento e o que cada uma remove.
+
+QUANDO USAR
+-----------
+Quando precisar entender para onde vai o esgoto da casa ou do acampamento.
+Quando precisar julgar se um esgoto é tratado ou apenas despejado.
+Quando precisar escolher onde instalar latrina longe da água usada.
+Quando ouvir falar em ETE, lodo ativado ou desinfecção e precisar entender.
+
+NAO USE QUANDO
+--------------
+Este texto não ensina a operar, consertar ou entrar em uma estação.
+Não serve para escolher sistema sem projeto e autorização local.
+
+MATERIAIS
+---------
+- Papel e caneta para anotar as etapas observadas (ou só memória).
+- Nada mais é necessário para ler; não entre na estação.
+
+PROCEDIMENTO
+------------
+1. Identifique a entrada: o esgoto bruto chega por tubo ou canal aberto.
+2. Observe a gradagem: grades retiram papéis, plásticos e galhos grandes.
+3. Note a caixa de areia: a areia assenta; a gordura sobe e é removida.
+4. Acompanhe o sedimentador primário: tanque parado onde o lodo afunda.
+5. Entenda o lodo: sólido orgânico que assenta no fundo dos tanques.
+6. Reconheça o reator biológico: micro-organismos comem a matéria orgânica.
+7. Observe o decantador final: tanque onde os micro-organismos assentam.
+8. Verifique a desinfecção: cloro, ultravioleta ou ozônio matam patógenos.
+9. Entenda patógeno: micro-organismo que causa doença a quem ingere ou toca.
+10. Identifique a saída: a água tratada vai ao rio, ao mar ou a reúso.
+11. Separe o lodo: ele é adensado, digerido e seco antes do descarte.
+
+ATENCAO
+-------
+Não entre em tanque, poço ou galeria de esgoto: pode faltar oxigênio.
+Gases como metano e sulfeto de hidrogênio podem matar em minutos.
+Não toque em esgoto bruto: pode conter cólera, febre tifoide e vermes.
+Este texto só explica o processo; não autoriza operar ou visitar a obra.
+Não beba nem reutilize a água tratada sem liberação da autoridade local.
+Estação parada pode despejar esgoto bruto no rio: afaste-se e avise.
+Se alguém cair em tanque, não entre: chame socorro e ventile o local.
+
+SE NAO TIVER
+------------
+Sem estação, fossa séptica e lagoa de estabilização fazem papel parecido.
+Sem desinfecção, a água pode ter patógenos: não beba nem cozinhe com ela.
+Sem informação local, não presuma que o esgoto é tratado; trate sua água.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você aponta em ordem: entrada, grades, areia, sedimentação, reator e saída.
+Você explica por que a água tratada não deve ser bebida sem liberação.
+
+FONTES
+------
+Ficha "Sanitation" da Organização Mundial da Saúde, revisada em 2026-11.
+Prática consolidada de engenharia sanitária quanto às etapas do tratamento.
+Este texto é resumo explicativo; não substitui projeto ou treinamento.

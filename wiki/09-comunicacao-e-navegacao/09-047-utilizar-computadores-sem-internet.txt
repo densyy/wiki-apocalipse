@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 09-047
+TITULO: Como utilizar computadores sem internet
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 45 minutos
+RISCO: baixo
+EXIGE: computador carregado, unidade USB, mapas e documentos salvos antes
+REVISAO: 2026-11
+PALAVRAS-CHAVE: computador, offline, sem internet, mapas, backup, Kiwix
+==============================================================================
+
+OBJETIVO
+--------
+Use o computador para consultar mapas, documentos e arquivos sem conexão.
+
+QUANDO USAR
+-----------
+Quando a internet cai mas o computador ainda tem bateria.
+Quando falta energia e o trabalho continua no disco local.
+Para consultar mapas baixados antes de sair de casa.
+Para copiar arquivos para outro aparelho sem usar a rede.
+
+NAO USE QUANDO
+--------------
+Quando o celular tem sinal: use a ligação para pedir socorro.
+
+MATERIAIS
+---------
+- Computador com bateria carregada ou fonte de energia.
+- Unidade USB ou disco externo para copiar arquivos.
+- Mapas, documentos e leitores offline salvos antes de perder a conexão.
+
+PROCEDIMENTO
+------------
+1. Carregue a bateria do computador ao máximo antes de precisar.
+2. Baixe mapas da região e salve no disco enquanto há internet.
+3. Instale um leitor offline: programa que abre páginas salvas (Kiwix).
+4. Copie documentos e manuais para uma pasta única no computador.
+5. Faça uma cópia dos arquivos importantes na unidade USB.
+6. Desligue a sincronização automática que exige internet.
+7. Abra o gerenciador de arquivos e trabalhe no disco local.
+8. Salve cada alteração no computador, não apenas na nuvem.
+9. Ative o modo de economia de energia do sistema.
+10. Reduza o brilho da tela e feche programas que não usa.
+11. Abra o leitor offline e consulte mapas e artigos salvos.
+
+ATENCAO
+-------
+Sem energia, o computador desliga e perde o que não foi salvo.
+Salvar só na nuvem não adianta: o arquivo fica preso na internet.
+Mapas baixados podem estar velhos: não decida rota de risco por eles.
+Unidade USB perdida sem senha expõe documentos pessoais.
+
+SE NAO TIVER
+------------
+Sem leitor offline, abra os arquivos salvos no gerenciador.
+Sem unidade USB, copie arquivos por cabo para outro computador.
+Sem energia, anote à mão a informação que não pode perder.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O leitor abre artigos e mapas com a rede desligada.
+A cópia na USB contém os mesmos arquivos do computador.
+
+FONTES
+------
+- Prática consolidada de preparação: FEMA e Ready.gov sobre backup de
+  computador, documentos com senha, mapas locais e economia de energia.
+- Kiwix, organização sem fins lucrativos, sobre acesso offline ao saber.

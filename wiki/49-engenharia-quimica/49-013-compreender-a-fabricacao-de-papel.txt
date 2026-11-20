@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 49-013
+TITULO: Como compreender a fabricação de papel
+CATEGORIA: 49 - Engenharia química e processos industriais
+TEMPO: 45 minutos
+RISCO: medio
+EXIGE: papel reciclado, água, tigela, peneira, esponja, toalha, calor
+REVISAO: 2026-11
+PALAVRAS-CHAVE: papel, celulose, polpa, kraft, lignina, branqueamento
+==============================================================================
+
+OBJETIVO
+---------
+Entender como fibras de celulose se ligam e formam uma folha de papel.
+
+QUANDO USAR
+-----------
+Quando precisa explicar por que o papel amarela, desfia ou enruga.
+Quando avalia resistência, opacidade ou absorção de um papel.
+Quando trabalha com reciclagem de papel e papelão.
+Quando interpreta as etapas de uma fábrica de celulose e papel.
+Quando escolhe entre papel de jornal, kraft, reciclado ou fino.
+
+NAO USE QUANDO
+--------------
+Não serve para operar digestor, evaporador ou máquina de papel sem treino.
+Não ensina a manusear hidróxido de sódio, sulfeto ou cloro.
+A demonstração abaixo mostra só formação e secagem, não cozimento.
+
+MATERIAIS
+---------
+- Papel reciclado limpo, sem tinta brilhante (ou aparas de papelão).
+- Água.
+- Tigela ou balde.
+- Peneira fina ou tela firme.
+- Esponja ou toalha espessa.
+- Líquido ou garrafa plástica cortada (para a folha).
+- Fonte de calor suave (ferro de passar ou sol).
+
+PROCEDIMENTO
+------------
+1. Rasgue o papel reciclado em pedaços pequenos.
+2. Mergulhe os pedaços em água.
+3. Deixe amolecer por aproximadamente 30 minutos.
+4. Agite ou bata a massa até virar polpa fibrosa, sem grumos.
+5. Dilua a polpa em recipiente raso com mais água.
+6. Mergulhe a peneira e levante uma camada fina de fibra.
+7. Deixe escorrer a água e vire a folha sobre toalha ou esponja.
+8. Pressione a folha com esponja ou pano para tirar o excesso de água.
+9. Seque com calor suave, sem queimar ou amarelar a folha.
+10. Observe: ao secar, as fibras se ligam e formam uma chapa contínua.
+11. Entenda a origem: madeira, trapos, papel velho ou bagaço dão celulose.
+12. Entenda a polpação: no kraft, cavacos cozinham em licor alcalino quente.
+13. O cozimento dissolve a lignina, a cola natural que prende as fibras.
+14. Entenda o branqueamento: retira lignina residual e clareia a polpa.
+15. Use dióxido de cloro, oxigênio ou peróxido, nunca cloro elementar.
+16. Entenda a recuperação: o licor gasto evapora e queima na caldeira.
+17. Assim se reaproveitam os químicos e se gera energia para a fábrica.
+18. Entenda a formação: polpa bem diluída passa pela caixa de entrada.
+19. Na tela móvel, a água escoa e deixa uma esteira úmida de fibra.
+20. Entenda a prensagem: rolos e feltes tiram água antes da secagem.
+21. Entenda a secagem: cilindros aquecidos a vapor removem a água restante.
+22. Entenda o acabamento: calandra e bobinadeira dão a folha final.
+
+ATENCAO
+-------
+Polpa mecânica (moagem) conserva lignina, rende mais e amarela com o tempo.
+Papel de jornal usa essa polpa: é opaco, mas fraco e amarelado.
+Papel kraft é forte: o cozimento remove lignina sem quebrar fibras.
+Cloro elementar no branqueamento gera dioxinas e AOX; evite esse caminho.
+Cozimento e branqueamento usam químicos corrosivos: não reproduza em casa.
+Digestores e caldeiras de recuperação trabalham sob calor e pressão altos.
+Nunca aperte ferro quente sobre tinta ou adesivo: pode soltar vapor e furos.
+Água e papel quentes queimam; segure a folha com pano.
+A demonstração caseira não substitui treinamento nem procedimento de planta.
+Se houver cheiro forte, fumaça ou queimadura, pare e ventile o ambiente.
+
+SE NAO TIVER
+------------
+Sem peneira, use um pano firme ou tela de mosquiteiro limpa.
+Sem ferro, seque a folha ao sol sobre papel jornal, trocando o jornal.
+Sem papel reciclado, use aparas de papelão ou papel de seda.
+Sem esponja, pressione com as mãos entre duas toalhas limpas.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A folha seca forma uma chapa contínua, sem grumos nem buracos.
+As fibras ficam visíveis e a folha resiste a um puxão suave nas bordas.
+A explicação cobre polpação, branqueamento, formação, prensagem e secagem.
+
+FONTES
+------
+Prática consolidada de engenharia química e de celulose e papel.
+Consultadas: diretrizes de efluentes da EPA para celulose e papel
+(40 CFR 430), que descrevem os processos kraft, soda, sulfito,
+mecânico e de fibra reciclada, e os poluentes do branqueamento;
+e o artigo papermaking da Encyclopaedia Britannica.
+Resumo operacional; não substitui treinamento nem a planta.

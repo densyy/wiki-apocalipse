@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 72-015
+TITULO: Como construir iluminação de emergência comunitária
+CATEGORIA: 72 - Sistemas de iluminação e óptica aplicada
+TEMPO: 180 minutos
+RISCO: alto
+EXIGE: fonte CC isolada, LED, fios, fusíveis, multímetro, área ventilada
+REVISAO: 2026-11
+PALAVRAS-CHAVE: luz, iluminação, emergência, comunidade, led, sem energia
+==============================================================================
+
+OBJETIVO
+---------
+Montar um sistema compartilhado que ilumina áreas comuns sem depender
+da rede elétrica.
+
+QUANDO USAR
+-----------
+Quando a rede falha e um grupo precisa de luz em áreas compartilhadas.
+Quando várias famílias dividem um abrigo, uma cozinha ou um pátio.
+Quando existe bateria, painel solar ou fonte CC para alimentar o sistema.
+Quando é preciso iluminar rotas de fuga e pontos de água à noite.
+
+NAO USE QUANDO
+--------------
+Quando houver cheiro de gás, fumaça ou risco de explosão na área.
+Quando não for possível manter o sistema seco e longe de inflamáveis.
+Quando não houver ninguém que saiba medir tensão e isolar ligações.
+Quando um gerador precisar funcionar dentro de área fechada.
+
+MATERIAIS
+---------
+- Fonte CC isolada e de baixa tensão: bateria ou painel com controlador.
+- Luminárias LED próprias para baixa tensão.
+- Fios de cobre isolados, com bitola para a corrente de cada ramal.
+- Fusíveis CC: um geral e um para cada ramal.
+- Caixa plástica rígida com tampa para servir de quadro.
+- Bornes ou barramento de cobre e interruptores.
+- Multímetro, fita isolante, abraçadeiras e parafusos.
+
+PROCEDIMENTO
+-------------
+1. Reúna as pessoas que usarão o sistema e escolha quem cuida dele.
+2. Escolha a fonte CC isolada e meça a tensão com o multímetro.
+3. Desenhe no papel onde ficam o quadro, cada luz e cada interruptor.
+4. Some a corrente dos LED de cada ramal para escolher fio e fusível.
+5. Desconecte a fonte antes de começar qualquer montagem.
+6. Fixe a caixa do quadro na parede, seca, ventilada e longe de tecido.
+7. Parafuse os bornes ou o barramento dentro da caixa.
+8. Coloque o fusível geral no polo positivo da fonte.
+9. Ligue o positivo da fonte ao fusível geral e daí ao barramento.
+10. Ligue o negativo da fonte ao barramento negativo.
+11. Coloque um fusível por ramal no barramento positivo.
+12. Passe cada fio do ramal até o ponto de luz, preso com abraçadeiras.
+13. Ligue o interruptor no fio positivo de cada ramal.
+14. Ligue cada LED ao positivo e ao negativo do seu ramal.
+15. Isole cada emenda com fita, sem deixar cobre exposto.
+16. Fixe as luminárias com suporte firme, longe de papel e madeira.
+17. Instale primeiro a luz das rotas de fuga, a aproximadamente 30 cm
+    do chão, sem bloquear a passagem.
+18. Feche a tampa do quadro, deixando os interruptores acessíveis.
+19. Reconecte a fonte e meça a tensão no barramento com o multímetro.
+20. Feche um interruptor por vez e confirme cada LED acendendo.
+21. Combine quem liga, quem desliga e quando recarregar a bateria.
+
+ATENCAO
+-------
+- Baixa tensão CC raramente dá choque, mas curto gera calor e incêndio.
+- Nunca ligue este sistema à rede elétrica: use só fonte isolada.
+- Fio fino com corrente alta derrete a isolação e pode pegar fogo.
+- Bateria de chumbo-ácido libera gás inflamável: ventile e evite faísca.
+- Gerador funciona só do lado de fora, a aproximadamente 6 metros de
+  portas e janelas, por causa do monóxido de carbono.
+- Se fio ou quadro esquentar, cheirar a queimado ou soltar fumaça,
+  desligue tudo e não use até achar o defeito.
+
+SE NAO TIVER
+------------
+- Sem fusível: reduza o número de LED e use fio mais grosso, mas saiba
+  que isso não substitui a proteção do fusível.
+- Sem multímetro: não ligue; peça ajuda a quem saiba medir tensão.
+- Sem LED de baixa tensão: não adapte lâmpada da rede elétrica.
+- Sem bateria nem painel: use lanterna de pilha enquanto a fonte não
+  chega, e não improvise com fogo em área fechada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- O multímetro mostra a tensão esperada no barramento com tudo ligado.
+- Cada interruptor acende e apaga só as luzes do seu ramal.
+- Fios, fusíveis e quadro permanecem frios após 10 minutos de uso.
+- Rotas de fuga e pontos de água ficam visíveis à noite.
+- Nenhuma luminária pisca quando outro ramal é ligado.
+
+FONTES
+------
+Prática consolidada de iluminação de emergência comunitária e de
+instalação elétrica de baixa tensão em corrente contínua. Orientações
+de defesa civil e da Cruz Vermelha sobre abrigo em desastres. Normas
+de instalações elétricas de baixa tensão descrevem a proteção por
+fusível. Resumo operacional, que não substitui treinamento profissional.

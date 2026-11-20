@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 09-045
+TITULO: Como criar cópias de segurança redundantes
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 60 minutos
+RISCO: baixo
+EXIGE: computador, dois meios de guarda diferentes, outro local seguro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: cópia, backup, segurança, 3-2-1, hd externo, restauração
+==============================================================================
+
+OBJETIVO
+--------
+Deixe três cópias de cada arquivo importante, em meios diferentes e
+com uma cópia fora do local, e confirme que cada uma abre.
+
+QUANDO USAR
+-----------
+Quando um arquivo importante existir só no computador.
+Quando o disco falhar, ou houver furto, fogo ou vírus que tranca arquivos.
+
+NAO USE QUANDO
+--------------
+Quando o arquivo puder ser refeito do zero sem esforço.
+Quando não houver meio de guarda separado do computador.
+
+MATERIAIS
+---------
+- Computador com os originais e HD externo ou pen drive.
+- Segundo meio de tipo diferente (outro disco, impressão ou nuvem).
+- Outro local seguro para a terceira cópia (casa de pessoa de confiança).
+- Papel e lápis para anotar datas; opcional: gerador de checksum.
+
+PROCEDIMENTO
+------------
+1. Liste os arquivos que não podem ser perdidos: documentos, fotos, mapas.
+2. Copie os arquivos para o HD externo ou pen drive.
+3. Copie de novo para meio de tipo diferente do primeiro.
+4. Guarde a terceira cópia fora do local, em casa de pessoa de confiança.
+5. Anote no papel a data e o lugar de cada cópia.
+6. Abra um arquivo de cada cópia e confira se está legível.
+7. Compare quantidade e tamanho de arquivos entre original e cópias.
+8. Gere checksum (impressão digital do arquivo) em cada cópia e compare.
+9. Recopie para mídia nova a cada aproximadamente três a cinco anos.
+
+ATENCAO
+-------
+Uma pasta sincronizada não é backup: apagar o original apaga a cópia.
+Duas cópias no mesmo HD ou prédio caem juntas em furto ou incêndio.
+Vírus que tranca arquivos ataca cópias ligadas à rede: mantenha uma
+cópia desconectada e fora do local.
+Nunca apague o original antes de conferir a cópia. Se divergirem, refaça.
+
+SE NAO TIVER
+------------
+Sem segundo meio, imprima os dados críticos e guarde o papel fora do local.
+Sem local separado, peça guarda a pessoa de confiança em outro bairro.
+Sem checksum, compare tamanho, data e abra o arquivo em cada cópia.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As três cópias estão em meios diferentes e uma fora do local.
+Cada arquivo abre igual ao original e os códigos, se gerados, batem.
+
+FONTES
+------
+Regra 3-2-1: US-CERT/CISA, Data Backup Options (2012); NIST NCCoE, 2020.
+CISA: Back Up Business Data e guia #StopRansomware sobre cópias offline.
+Preservação: Biblioteca Nacional da Noruega; Digital Preservation Coalition.
+Integridade: NIST IR 8387 e guia da University of Melbourne sobre fixity.

@@ -1,0 +1,78 @@
+==============================================================================
+CODIGO: 69-017
+TITULO: Como construir um indicador de carga de bateria
+CATEGORIA: 69 - Eletrônica analógica e componentes discretos
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: multímetro, ferro de solda, bateria de baixa tensão, componentes
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bateria, carga, indicador, led, zener, transistor, tensão
+==============================================================================
+
+OBJETIVO
+--------
+Montar um circuito que acende um LED com bateria carregada e apaga quando
+a tensão cai abaixo do limite escolhido.
+
+QUANDO USAR
+-----------
+Quando a bateria não tem medidor próprio.
+Quando você quer saber se é hora de recarregar uma bateria recarregável.
+Antes de guardar uma bateria por muito tempo.
+
+NAO USE QUANDO
+--------------
+Na rede elétrica nem em bateria de alta tensão.
+Quando for preciso saber a capacidade real em ampère-hora.
+Em bateria de lítio danificada, inchada ou aquecida.
+
+MATERIAIS
+---------
+- LED comum, vermelho ou verde.
+- Resistor de aproximadamente 1 kΩ para o LED.
+- Resistor de aproximadamente 10 kΩ para a base.
+- Diodo Zener com tensão próxima do limite menos 0,7 V.
+- Transistor NPN de baixa potência.
+- Placa de montagem, fios e solda.
+- Multímetro e bateria de baixa tensão, por exemplo 9 V.
+
+PROCEDIMENTO
+------------
+1. Defina o limite: aproximadamente 7 V para uma bateria de 9 V.
+2. Escolha o Zener com tensão cerca de 0,7 V abaixo do limite.
+3. Desconecte a bateria antes de montar qualquer ligação.
+4. Ligue o emissor do transistor ao polo negativo da bateria.
+5. Ligue o resistor de 1 kΩ ao polo positivo da bateria.
+6. Ligue o ânodo do LED à ponta livre desse resistor.
+7. Ligue o cátodo do LED ao coletor do transistor.
+8. Ligue o resistor de 10 kΩ ao polo positivo da bateria.
+9. Ligue o cátodo do Zener à ponta livre do resistor de 10 kΩ.
+10. Ligue o ânodo do Zener à base do transistor.
+11. Ligue a bateria e observe se o LED acende.
+
+ATENCAO
+-------
+A rede elétrica e a alta tensão matam. Nunca ligue este circuito à tomada.
+Curto entre positivo e negativo aquece os fios e pode causar incêndio.
+O ferro de solda queima a pele; nunca toque na ponta e use suporte.
+LED, Zener e transistor ligados ao contrário não funcionam e podem queimar.
+O circuito mede tensão, não capacidade: bateria com tensão nominal pode
+estar vazia sob carga. Nunca provoque curto em bateria de lítio.
+
+SE NAO TIVER
+------------
+Sem Zener, meça apenas a tensão com o multímetro nos polos da bateria.
+Bateria de 9 V com menos de aproximadamente 7 V está fraca.
+Sem ferro de solda, use placa de ensaio ou fios presos com fita isolante;
+confira a ligação antes de cada uso.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Com bateria carregada o LED acende e com bateria fraca ele apaga.
+A tensão medida no multímetro bate com o limite escolhido.
+
+FONTES
+------
+Prática consolidada de montagem com diodo Zener e transistor NPN como
+chave. O princípio vem de manuais técnicos de componentes discretos.
+Este texto é um resumo operacional e não substitui treinamento.

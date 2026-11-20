@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 03-074
+TITULO: Como avaliar o estado de consciência
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 5 minutos
+RISCO: alto
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: consciência, inconsciente, avpu, glasgow, estímulo, vítima
+==============================================================================
+
+OBJETIVO
+--------
+Classificar a consciência e decidir se a pessoa precisa de ajuda urgente.
+
+QUANDO USAR
+-----------
+Ao encontrar uma pessoa caída ou imóvel.
+Após queda, trauma na cabeça ou acidente.
+Quando a pessoa parece confusa, sonolenta ou não responde.
+Antes de qualquer procedimento em uma vítima.
+Ao acompanhar febre alta, intoxicação suspeita ou AVC suspeito.
+Para avisar quem vai socorrer se o estado piorou ou melhorou.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação para observar e falar com a pessoa.
+Não provoque dor se a pessoa já responde à voz.
+Não use a escala como desculpa para não pedir atendimento.
+
+MATERIAIS
+---------
+- Nenhum material.
+- Relógio ou celular para anotar a hora (se houver).
+- Papel e lápis para registrar a resposta (se houver).
+
+PROCEDIMENTO
+------------
+1. Garanta que o local é seguro antes de se aproximar.
+2. Observe se o peito se move e se a pessoa respira.
+3. Chame a pessoa pelo nome, em voz alta e clara.
+4. Pergunte: "Você está bem?" e "Onde estamos?".
+5. Registre se ela abre os olhos, fala ou move um membro.
+6. Se não houve resposta, esfregue o esterno com os nós dos dedos.
+7. Se ainda não houve resposta, aperte a parte mole acima do cotovelo.
+8. Registre se ela abre os olhos, emite som ou move braços e pernas.
+9. Classifique como A (alerta) se estava acordada e respondeu à voz.
+10. Classifique como V (voz) se respondeu à voz, mas está confusa.
+11. Classifique como D (dor) se respondeu apenas ao estímulo doloroso.
+12. Classifique como U (sem resposta) se não respondeu nem à dor.
+13. Anote a classificação e a hora do exame.
+14. Chame ajuda se a classificação for V, D ou U.
+15. Repita o exame a cada 10 minutos ou se o estado mudar.
+
+ATENCAO
+-------
+Este exame não trata nem substitui atendimento médico.
+Qualquer perda de consciência exige atendimento, mesmo após acordar.
+Não sacuda a cabeça nem o pescoço da pessoa para testar a resposta.
+Não jogue água, não bata no rosto e não provoque dor sem necessidade.
+Não aplique estímulo doloroso sobre ferimento, olho ou pescoço.
+Se a pessoa não responde à voz, confira a respiração antes de tudo.
+Se ela não respira, procure a manobra de RCP em 03-003.
+Sinais de perigo: confusão que piora, vômito repetido, convulsão.
+Sangue ou líquido por nariz ou ouvido e pupilas desiguais também são graves.
+Não dê comida, bebida ou remédio a quem tem consciência reduzida.
+A classificação pode mudar depressa; nunca a use como previsão de cura.
+
+SE NAO TIVER
+------------
+Sem relógio: conte os minutos em voz alta ou use o celular.
+Sem papel: memorize a classe e a hora e repita em voz alta.
+Sem condição de conferir a respiração: chame ajuda e diga que não responde.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A pessoa abre os olhos, fala ou move um membro ao ser chamada.
+Você consegue dizer em voz alta a classe A, V, D ou U.
+A hora e a classe ficaram anotadas ou memorizadas.
+A ajuda foi chamada se a classe for diferente de A.
+A classe repetida condiz com a observação anterior, sem piora silenciosa.
+
+FONTES
+------
+Escala AVPU (alerta, voz, dor, sem resposta) e Escala de Glasgow, de
+Teasdale e Jennett, publicada em 1974.
+Estudo de Kelly, Upex e Bateman comparando AVPU e Escala de Glasgow, 2004.
+Prática consolidada de avaliação inicial em primeiros socorros e trauma
+(Cruz Vermelha e diretrizes ATLS). Texto operacional, sem substituir treino.

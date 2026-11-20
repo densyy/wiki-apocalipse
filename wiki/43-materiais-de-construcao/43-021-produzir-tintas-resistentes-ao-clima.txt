@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 43-021
+TITULO: Como produzir tintas resistentes ao clima
+CATEGORIA: 43 - Produção de materiais de construção
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: óleo de linhaça, cal, pigmento, luvas, óculos, ventilação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: tinta, caseira, linhaça, cal, pigmento, madeira, chuva
+==============================================================================
+
+OBJETIVO
+--------
+Preparar uma tinta caseira que protege madeira e alvenaria da chuva.
+
+QUANDO USAR
+-----------
+Quando madeira ou alvenaria precisa de proteção contra a chuva.
+Quando acabou a tinta industrial e só restam materiais locais.
+Quando o abrigo ou a cerca foi feito com madeira crua.
+Quando a camada antiga de tinta descascou e precisa de renovação.
+
+NAO USE QUANDO
+--------------
+Não use em recipientes de água potável ou em contato com alimentos.
+Não use sobre madeira úmida, com mofo ou com tinta velha que solta pó.
+Não use em ambiente fechado sem ventilação, nem perto de fogo.
+
+MATERIAIS
+---------
+- Óleo de linhaça cru, sem sal nem aditivos.
+- Cal hidratada em pó, peneirada.
+- Pigmento mineral em pó: ocre, terra vermelha ou carvão moído.
+- Água limpa.
+- Recipiente de vidro ou aço para misturar.
+- Colher ou espátula de metal para mexer.
+- Pincel ou pano limpo para aplicar.
+- Luvas de borracha e óculos de proteção.
+
+PROCEDIMENTO
+------------
+1. Raspe com faca ou pedra a tinta velha que ainda solta pó.
+2. Limpe pó e gordura com escova e pano seco.
+3. Deixe a madeira secar por aproximadamente 24 horas.
+4. Coloque luvas e óculos antes de abrir a cal.
+5. Despeje o óleo de linhaça no recipiente de vidro ou aço.
+6. Adicione a cal aos poucos e mexa até formar pasta cremosa.
+7. Junte o pigmento aos poucos e mexa até a cor ficar uniforme.
+8. Adicione água limpa, aos poucos, até escorrer como creme.
+9. Mexa por aproximadamente 5 minutos até não haver grumos.
+10. Pinte a primeira camada no sentido das fibras da madeira.
+11. Espere aproximadamente 24 horas antes da segunda camada.
+12. Pinte de novo, cobrindo bordas, cantos e juntas.
+13. Lave o pincel com água e sabão enquanto a tinta estiver fresca.
+14. Estenda os panos usados separados, ao ar livre, para secar.
+
+ATENCAO
+-------
+Cal hidratada irrita pele e olhos. Use luvas e óculos o tempo todo.
+Se cal entrar no olho, lave com água corrente e procure ajuda.
+Óleo de linhaça e solventes inflamam. Nunca pinte perto de chamas.
+Não amontoe panos com óleo: podem aquecer e pegar fogo sozinhos.
+Ventile o ambiente. Pare se sentir tontura, dor de cabeça ou ardência.
+Não use em água potável, pratos ou superfícies de contato com alimentos.
+Madeira úmida retém a umidade e a tinta descasca. Espere secar.
+Esta tinta não substitui impermeabilização de reservatórios de água.
+
+SE NAO TIVER
+------------
+Sem cal, use só óleo de linhaça com pigmento: seca devagar e protege menos.
+Sem óleo de linhaça, não use óleo de cozinha: não seca e atrai mofo.
+Sem pigmento industrial, use terra vermelha ou carvão moído e peneirado.
+Sem pincel, aplique com pano limpo e retire o excesso.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A cor ficou uniforme e a tinta não escorre em gotas nem deixa pó.
+Depois de seca, a superfície não mancha com água ao esfregar.
+Bordas, cantos e juntas ficaram cobertos, sem falhas visíveis.
+
+FONTES
+------
+Prática consolidada: tinta caseira de óleo secante, cal e pigmento.
+Referências: FM 21-76, manual de sobrevivência do Exército dos EUA
+(camuflagem com tinta, carvão e lama; reaplicação da cobertura);
+manual técnico WEST SYSTEM sobre reparo de madeira (proteção
+contra umidade por revestimento e cuidados com cura e inflamabilidade).

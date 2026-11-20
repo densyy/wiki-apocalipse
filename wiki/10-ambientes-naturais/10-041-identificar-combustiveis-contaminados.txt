@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 10-041
+TITULO: Como identificar combustíveis contaminados
+CATEGORIA: 10 - Sobrevivência em ambientes naturais
+TEMPO: 25 minutos
+RISCO: alto
+EXIGE: frasco transparente com tampa, luz forte, papel branco, luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, gasolina, adulterado, sedimento, separação, cheiro
+==============================================================================
+
+OBJETIVO
+--------
+Reconheça por aspecto, cheiro e sedimentos sinais de água, produto errado
+ou combustível deteriorado antes de usar o tanque.
+
+QUANDO USAR
+-----------
+Quando o combustível ficou armazenado por meses sem uso.
+Quando o tanque ficou exposto à chuva, à umidade ou à condensação.
+Quando o motor falha, engasga ou perde potência após abastecer.
+Quando o combustível é doado, de procedência duvidosa ou achado.
+Antes de usar gerador, bomba ou veículo parados por muito tempo.
+Após alagamento ou suspeita de entrada de água no tanque.
+
+NAO USE QUANDO
+--------------
+Quando o combustível vai para equipamento de suporte de vida: o teste
+caseiro não substitui análise laboratorial nem detecta água dissolvida.
+Quando há chama ou local fechado: o vapor pode explodir e o gás mata.
+
+MATERIAIS
+---------
+- Frasco transparente limpo e seco com tampa (pote de vidro).
+- Lanterna de LED ou luz forte.
+- Papel branco ou pano limpo.
+- Luvas de borracha (luvas nitrílicas).
+- Pasta detectora de água (opcional; substituto: papel absorvente).
+
+PROCEDIMENTO
+------------
+1. Trabalhe ao ar livre, longe de chamas, faíscas e motores ligados.
+2. Use lanterna de LED; nunca aproxime chama para enxergar.
+3. Calce as luvas e mantenha o frasco longe do rosto.
+4. Retire amostra do ponto mais baixo pela torneira de drenagem.
+5. Deixe escorrer aproximadamente 100 ml para dentro do frasco.
+6. Se não houver drenagem, use bomba manual ou sifão de mangueira.
+7. Nunca sucione combustível com a boca.
+8. Feche o frasco e deixe em repouso aproximadamente 15 minutos.
+9. Observe contra a luz: combustível são é homogêneo e transparente.
+10. Olhe o fundo: gotas ou camada que não se mistura indicam água.
+11. Se aparecerem duas camadas, houve separação de fases.
+12. Nessa separação, água com etanol fica embaixo e gasolina em cima.
+13. Agite o frasco e espere aproximadamente 15 minutos.
+14. Se as gotas reaparecerem, há água livre: separe o combustível.
+15. Esfregue um pouco do líquido no papel branco.
+16. Partículas escuras ou ferrugem no papel indicam sedimento.
+17. Passe pasta detectora de água na haste e mergulhe até o fundo.
+18. A pasta muda de cor na altura da água; siga o rótulo do produto.
+19. Cheire a certa distância, sem inalar fundo.
+20. Odor acre ou diferente do habitual indica oxidação ou produto errado.
+21. Compare com amostra conhecida e marque o frasco como SUSPEITO.
+
+ATENCAO
+-------
+Vapor inflama com faísca, chama ou motor ligado: a explosão pode matar.
+Não fume e nunca aproxime fogo do tanque aberto.
+Nunca prove nem sucione com a boca: combustível é tóxico e vai aos pulmões.
+A visão não detecta água dissolvida nem gasolina misturada ao diesel.
+Água ou sedimento entope filtro e danifica injetores: não use em gerador
+que pode ser a única fonte de energia.
+Em local fechado, queima e vapor soltam monóxido de carbono, que mata sem
+cheiro: ventile sempre.
+Se o motor falhar ou parar após abastecer, desligue e troque o filtro.
+Não despeje o suspeito no solo, rio ou drenagem; siga regra local.
+
+SE NAO TIVER
+------------
+Sem pasta detectora, use o frasco: água forma camada inferior que não some.
+Sem frasco transparente, use copo de vidro limpo e seco, sem resíduo de
+outro produto.
+Sem luvas, lave as mãos com água e sabão e não toque olhos ou boca.
+Sem luz artificial, leve a amostra à claridade do dia, nunca ao fogo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A amostra fica homogênea, transparente e sem camada inferior após o repouso.
+O papel branco sai limpo e o cheiro permanece igual ao de amostra conhecida.
+Com o combustível aprovado, o motor parte e gira estável, sem fumaça.
+
+FONTES
+------
+Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP): testes de
+aspecto, cor e teor de etanol; drenagem de fundo de tanque de óleo diesel.
+California Department of Food and Agriculture: identificação visual de água
+e sedimento em combustível e uso de pasta detectora de água.
+ASTM International: inspeção visual limpa e brilhante (D4176).
+Conselho Norte-Americano de Grãos e Biocombustíveis: separação de fases em
+misturas com etanol; prática consolidada de manutenção de geradores.

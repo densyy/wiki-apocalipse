@@ -1,0 +1,88 @@
+==============================================================================
+CODIGO: 01-038
+TITULO: Como tratar água após enchentes
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 15 minutos
+RISCO: alto
+EXIGE: recipiente com tampa, pano limpo, hipoclorito 2,5% ou fogo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, enchente, cloro, hipoclorito, ferver, suja, doença
+==============================================================================
+
+OBJETIVO
+--------
+Tornar a água de uma enchente segura para beber e cozinhar.
+
+QUANDO USAR
+-----------
+Quando a água da torneira ficou turva ou foi interrompida após a enchente.
+Quando a única fonte é poço, cisterna ou nascente que foi alagada.
+Quando a água tem cheiro de esgoto ou lama, ou está escura.
+Antes de beber, cozinhar, escovar os dentes ou lavar alimentos.
+
+NAO USE QUANDO
+--------------
+Quando houver cheiro de combustível, tinta, agrotóxico ou solvente. Ferver
+ou clorar não remove químicos: use outra fonte de água.
+Quando a água vier de área com vazamento industrial ou material radioativo.
+
+MATERIAIS
+---------
+- Recipiente limpo com tampa e boca estreita (garrafa de plástico limpa).
+- Pano limpo, coador de papel ou filtro doméstico.
+- Hipoclorito de sódio 2,5% (água sanitária sem aditivos, de 2% a 2,5%).
+- Conta-gotas ou colher limpa (tampa pequena de garrafa).
+- Fogo e recipiente metálico limpo (para a opção de ferver).
+
+PROCEDIMENTO
+------------
+1. Lave as mãos e os braços com água e sabão antes de tocar na água.
+2. Separe um recipiente higienizado com tampa só para a água tratada.
+3. Deixe a água parada em outro recipiente até a sujeira assentar.
+4. Coe a água com pano limpo, coador de papel ou filtro doméstico.
+5. Retire a água clara de cima e descarte o lodo sem tocar nela.
+6. Adicione 2 gotas de hipoclorito de sódio 2,5% por cada 1 litro coado.
+7. Misture bem com colher limpa e tampe o recipiente.
+8. Espere 30 minutos antes de beber a água tratada.
+9. Consuma a água tratada em até 24 horas.
+10. Se não houver hipoclorito, leve a água coada ao fogo em recipiente
+    metálico limpo.
+11. Conte 5 minutos de fervura forte depois que as bolhas começarem.
+12. Desligue o fogo, tampe e deixe esfriar sem destampar.
+13. Guarde a água fria no recipiente higienizado com tampa.
+
+ATENCAO
+-------
+A água da enchente pode trazer esgoto: cólera, febre tifoide, hepatite A,
+giardíase, amebíase, verminoses e leptospirose.
+Não consuma alimento que tenha tocado a água da inundação ou a lama.
+Ferver e clorar não removem combustível, tinta, agrotóxico, sal ou metal.
+Use apenas hipoclorito sem perfume, alvejante ou desinfetante adicionado.
+Não passe de 2 gotas por litro: cloro em excesso irrita boca e estômago.
+Se a água ficar escura, coe de novo antes de adicionar o cloro.
+O Ministério da Saúde recomenda 5 minutos de fervura; CDC e EPA indicam
+1 minuto, ou 3 acima de 2.000 m. Aqui vale a orientação brasileira.
+Não toque na água tratada com as mãos sujas nem guarde destampada.
+Se aparecer diarreia, febre ou vômito depois de beber, pare e busque ajuda.
+
+SE NAO TIVER
+------------
+Sem hipoclorito, use água sanitária com 2% a 2,5% de cloro ativo e sem
+aditivos, na mesma dose de 2 gotas por litro.
+Sem cloro e sem fogo, a água continua insegura: busque outra fonte ou ajuda.
+Sem pano limpo, deixe assentar mais tempo e retire só a água clara de cima.
+Filtro de água não substitui a desinfecção: sempre ferver ou clorar depois.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água coada ficou clara, sem lama nem partículas visíveis.
+A água clorada tem leve cheiro de cloro e ficou guardada tampada.
+A água fervida esfriou tampada e não foi tocada com as mãos sujas.
+Passaram-se 30 minutos entre o cloro e o primeiro gole.
+
+FONTES
+------
+Orientações do Ministério da Saúde para enchentes: 2 gotas de hipoclorito
+de sódio 2,5% por litro, 30 minutos de espera, consumo em até 24 horas e
+fervura de 5 minutos. Orientações da CDC e da EPA sobre desinfecção de
+água em emergências.

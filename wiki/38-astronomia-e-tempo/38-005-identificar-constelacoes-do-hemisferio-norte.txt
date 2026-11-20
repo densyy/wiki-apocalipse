@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 38-005
+TITULO: Como identificar constelações do hemisfério norte
+CATEGORIA: 38 - Astronomia e medição do tempo
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: céu limpo, local escuro, vista desarmada, carta celeste
+REVISAO: 2026-11
+PALAVRAS-CHAVE: constelação, polaris, estrela polar, ursa maior, norte
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer constelações do norte e achar a direção norte sem bússola.
+
+QUANDO USAR
+-----------
+- Quando faltar bússola ou GPS para uma referência de norte.
+- Quando estiver em área rural, com céu limpo e pouca luz artificial.
+- Quando a lua estiver fraca e as estrelas aparecerem com clareza.
+
+NAO USE QUANDO
+--------------
+- Com nuvens, neblina ou lua cheia que apaguem estrelas fracas.
+- Com o horizonte norte fechado ou se precisar de precisão: use bússola.
+
+MATERIAIS
+---------
+- Céu limpo, sem nuvens baixas e sem lua brilhante.
+- Local escuro, longe de luzes diretas (ou viseira para tampá-las).
+- Carta celeste simples (ou guia offline no celular).
+
+PROCEDIMENTO
+------------
+1. Espere aproximadamente 1 hora após o pôr do sol para o céu escurecer.
+2. Vá a um lugar com horizonte norte livre e pouca luz artificial.
+3. Fique parado por aproximadamente 15 minutos, sem olhar para luzes.
+4. Ache a Ursa Maior: sete estrelas brilhantes em forma de concha.
+5. Localize as duas estrelas da borda da concha, as ponteiras.
+6. Trace uma linha da ponteira de baixo para a de cima.
+7. Estenda a linha aproximadamente cinco vezes a distância entre elas.
+8. A estrela brilhante achada é a Polaris: fica quase fixa e marca o norte.
+9. Ache a Ursa Menor: concha menor, com Polaris na ponta da cauda.
+10. Ache Cassiopeia do outro lado: cinco estrelas em forma de W.
+
+ATENCAO
+-------
+- Polaris não marca o norte exato: fica a quase 1 grau do polo celeste.
+- Para navegação de precisão, use bússola, GPS ou referências no chão.
+- Nuvem, galho, luz de cidade ou lua cheia escondem as ponteiras.
+- No escuro, terreno estranho pode causar queda: fique em lugar seguro.
+- Não caminhe seguindo estrela; marque seu ponto antes de sair.
+
+SE NAO TIVER
+------------
+- Sem carta, use só Ursa Maior, Polaris e Cassiopeia, que são mais fáceis.
+- Sem local escuro, afaste-se de luminárias ou espere outra noite.
+- Não dependa de aplicativo online: baixe um guia offline antes, se puder.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- Polaris quase não se move enquanto as demais giram devagar ao redor.
+- Cassiopeia aparece oposta à Ursa Maior, com Polaris no meio.
+
+FONTES
+------
+- FM 21-76, manual de sobrevivência do Exército dos EUA, capítulo 18,
+  seção "Using the stars" (consultado nesta biblioteca).
+- Prática consolidada de orientação noturna; a IAU e a NASA são
+  referências para os nomes das constelações e da Estrela Polar.

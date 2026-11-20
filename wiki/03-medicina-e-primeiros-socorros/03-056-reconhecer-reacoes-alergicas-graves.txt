@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 03-056
+TITULO: Como reconhecer reações alérgicas graves
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 5 minutos
+RISCO: critico
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: alergia, anafilaxia, urticária, falta de ar, inchaço
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer uma reação alérgica grave e agir antes que ela mate.
+
+QUANDO USAR
+-----------
+Sintomas que começam minutos após comer, tomar remédio ou levar picada.
+Pele com urticária, vermelhidão ou coceira que se espalha rápido.
+Lábios, língua, rosto ou olhos inchando.
+Falta de ar, chiado no peito ou voz rouca e fraca.
+Dificuldade para engolir ou sensação de garganta fechando.
+Tontura, palidez, confusão ou desmaio junto com outros sinais.
+Náusea, vômito ou dor de barriga junto com os sinais acima.
+
+NAO USE QUANDO
+--------------
+Não use para afirmar que não é alergia: só médico confirma a causa.
+Não espere os sintomas passarem sozinhos para pedir ajuda.
+Não dê remédio pela boca se a pessoa tiver dificuldade para respirar.
+Não use este texto no lugar de atendimento de emergência.
+
+MATERIAIS
+---------
+- Nenhum material. Basta observar, perguntar e agir.
+- Relógio ou celular para anotar a hora em que os sinais começaram.
+- Auto-injetor de epinefrina, se a pessoa já tiver receita e souber usar.
+
+PROCEDIMENTO
+------------
+1. Observe quando os sintomas começaram e o que veio antes.
+2. Pergunte se a pessoa comeu, tomou remédio ou levou picada de inseto.
+3. Olhe a pele: procure urticária, vermelhidão, coceira ou manchas.
+4. Observe se há inchaço nos lábios, língua, rosto, olhos ou garganta.
+5. Peça para a pessoa falar: note voz rouca, fraca ou sussurrada.
+6. Ouça a respiração: note chiado, ruído ao inspirar ou falta de ar.
+7. Pergunte se há aperto no peito ou dificuldade para engolir saliva.
+8. Observe a cor da pele: note palidez, lábios arroxeados ou suor frio.
+9. Pergunte se há tontura, fraqueza ou vontade de desmaiar.
+10. Observe se há náusea, vômito, dor de barriga ou diarreia.
+11. Suspeite de anafilaxia se houver inchaço ou problemas de respiração
+   depois de exposição a alérgeno, mesmo sem urticária.
+12. Suspeite também se dois sinais acima aparecerem juntos, como pele e
+   respiração, ou pele e circulação.
+13. Chame ajuda médica imediata ao ver qualquer sinal de perigo.
+14. Se a pessoa tiver auto-injetor de epinefrina, ajude a usar conforme
+   a orientação que ela já recebeu, sem esperar.
+15. Anote a hora em que os sinais começaram e a hora da injeção.
+
+ATENCAO
+-------
+Anafilaxia é emergência: sem tratamento pode matar em minutos.
+Os sinais mais perigosos são falta de ar, pressão baixa e desmaio.
+Voz rouca ou sussurrada e ruído ao inspirar avisam que a garganta fecha.
+A pele pode não apresentar urticária: não espere manchas para agir.
+Os sintomas podem melhorar e voltar horas depois: permaneça em vigilância.
+Não espere para ver se melhora.
+Quanto antes agir, maior a chance de sobreviver.
+Não dê nada para comer ou beber se houver falta de ar ou sonolência.
+Não coloque travesseiro sob a cabeça de quem está com falta de ar.
+Deite a pessoa de costas, com as pernas elevadas, e cubra para aquecer.
+Não eleve as pernas se houver suspeita de lesão na cabeça ou coluna.
+Se parar de respirar, inicie reanimação cardiopulmonar (veja 03-003).
+Este texto só reconhece sinais: não substitui avaliação médica.
+
+SE NAO TIVER
+------------
+Sem relógio: anote desde que a pessoa relatou o início dos sintomas.
+Sem auto-injetor: chame ajuda imediata.
+Não tente remediar com comida ou bebida.
+Sem luz boa: aproxime-se e observe os lábios.
+Observe também o esforço para respirar.
+Sem saber a causa: trate os sinais. A causa é procurada no hospital.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você lista os sinais em pele, respiração, circulação e estômago.
+Você informa quando os sintomas começaram e se houve exposição antes.
+Você decide chamar ajuda imediata ao reconhecer um sinal de perigo.
+Você aplica a epinefrina, se disponível, e registra a hora.
+
+FONTES
+------
+American Academy of Allergy, Asthma and Immunology (AAAAI): Anaphylaxis,
+sintomas e sinais de alerta. MedlinePlus (National Library of Medicine,
+NIH): Anaphylaxis, sinais, sintomas e orientações de emergência. Prática
+consolidada de primeiros socorros. Este texto é resumo operacional e não
+substitui treinamento nem avaliação médica.

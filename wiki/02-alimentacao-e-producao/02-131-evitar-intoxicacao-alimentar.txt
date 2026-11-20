@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 02-131
+TITULO: Como evitar intoxicação alimentar
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: água corrente, sabão, recipientes fechados, fonte de calor
+REVISAO: 2026-11
+PALAVRAS-CHAVE: intoxicação, comida estragada, higiene, cozimento, água
+==============================================================================
+
+OBJETIVO
+--------
+Reduzir o risco de intoxicação ao preparar, cozinhar e guardar os alimentos.
+
+QUANDO USAR
+-----------
+Ao preparar qualquer refeição, especialmente com carne, aves, ovos ou peixe.
+Quando não houver geladeira confiável ou a energia falhar.
+Ao armazenar sobras ou alimentos comprados a granel.
+Quando houver crianças, grávidas, idosos ou doentes em casa.
+Depois de enchentes, ou quando a água for de origem duvidosa.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para este procedimento.
+Estas medidas não substituem atendimento médico se já houver sintomas.
+
+MATERIAIS
+---------
+- Água corrente e sabão (álcool em gel, se faltar água).
+- Panos limpos ou papel toalha para secar as mãos.
+- Tábuas e facas separadas para cru e cozido (ou higienize entre usos).
+- Recipientes fechados para guardar alimentos (potas com tampa, saquinhos).
+- Termômetro de alimentos (opcional).
+- Fonte de calor e, se houver, geladeira.
+
+PROCEDIMENTO
+------------
+1. Lave as mãos com água e sabão por 20 segundos antes de começar.
+2. Repita após ir ao banheiro, espirrar, tossir ou tocar em lixo e animais.
+3. Limpe bancadas, tábuas e facas com água e sabão antes de usar.
+4. Separe carne, peixe e aves crus dos alimentos já prontos para comer.
+5. Reserve tábua e faca só para o cru; higienize antes de usar no cozido.
+6. Não lave carne crua: a água respinga e leva germes à pia e à bancada.
+7. Guarde alimentos crus e cozidos em recipientes fechados e separados.
+8. Lave frutas e verduras em água corrente antes de cortar ou comer.
+9. Cozinhe bem: leve sopas e guisados acima de 70 °C, até ferver.
+10. Confira o ponto das carnes: o suco deve sair claro, não rosado.
+11. Requeente sobras até ficarem bem quentes antes de consumir.
+12. Não deixe comida pronta fora da geladeira por mais de 2 horas.
+13. Reduza para 1 hora se a temperatura passar de aproximadamente 32 °C.
+14. Refrigere perecíveis abaixo de 5 °C e consuma em até 5 dias.
+15. Mantenha comida quente acima de 60 °C até o momento de servir.
+16. Descongele na geladeira; nunca em temperatura ambiente.
+17. Descarte alimento com bolor, cheiro podre ou validade vencida.
+18. Use água potável ou trate a água antes de cozinhar e beber.
+
+ATENCAO
+-------
+A zona de perigo vai de aproximadamente 5 °C a 60 °C.
+Nessa faixa, os germes se multiplicam rápido.
+Carne mal cozida, ovo cru e leite não pasteurizado trazem germes.
+Nunca lave carne crua: isso espalha contaminação pela pia e pela bancada.
+Alimento com bolor pode ter toxinas que o calor não elimina.
+Descarte tudo, sem aproveitar a parte que parece boa.
+Geladeira acima de 5 °C não conserva: meça com termômetro, se houver.
+Crianças, grávidas, idosos e doentes adoecem mais: redobre o cuidado.
+Com vômito, diarreia com sangue ou visão alterada, procure atendimento.
+Febre alta persistente também exige atendimento.
+
+SE NAO TIVER
+------------
+Sem sabão, esfregue as mãos em água corrente por mais tempo.
+Álcool em gel ajuda, mas não retira sujeira visível das mãos.
+Sem geladeira, cozinhe e coma logo em seguida.
+Guarde sobras em local fresco e sombreado e consuma no mesmo dia.
+Sem termômetro, use o suco claro e a ebulição como referência.
+Sem tábua separada, lave a mesma com água quente e sabão entre usos.
+Sem água potável, ferve a água antes de cozinhar (veja 01-001).
+
+COMO SABER QUE DEU CERTO
+------------------------
+As mãos ficam sem resíduo visível e com cheiro neutro após a lavagem.
+A comida não fica parada em temperatura ambiente por mais de 2 horas.
+Os sucos das carnes saem claros e a carne não fica rosada por dentro.
+Não há cheiro podre, bolor ou aspecto estranho nos alimentos guardados.
+Ninguém apresenta vômito ou diarreia nas horas seguintes à refeição.
+
+FONTES
+------
+OMS, "Cinco chaves para uma alimentação mais segura" (manual e cartaz).
+Anvisa, Cartilha sobre Boas Práticas para Serviços de Alimentação.
+Anvisa, orientações sobre temperatura e higiene na manipulação de alimentos.
+CDC e FDA, segurança alimentar: limpar, separar, cozinhar, refrigerar.

@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 58-010
+TITULO: Como prevenir incêndios em sistemas solares
+CATEGORIA: 58 - Prevenção e combate a incêndios
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: equipamentos de proteção, chave CC, extintor classe C
+REVISAO: 2026-11
+PALAVRAS-CHAVE: solar, incêndio, corrente contínua, arco, desligamento
+==============================================================================
+
+OBJETIVO
+--------
+Reduzir o risco de incêndio em uma instalação solar fotovoltaica.
+
+QUANDO USAR
+-----------
+Ao instalar painéis, inversor ou baterias pela primeira vez.
+Ao revisar uma instalação antiga depois de anos de uso.
+Depois de qualquer reparo, ampliação ou troca de inversor.
+Quando aparecer cheiro de queimado, faísca ou desarme frequente.
+Antes de deixar a casa fechada por muito tempo.
+
+NAO USE QUANDO
+--------------
+Este texto nao substitui projeto eletrico nem norma local.
+Nao execute reparo no lado CC sem formacao e autorizacao.
+Chame um eletricista licenciado se nao souber o que esta fazendo.
+
+MATERIAIS
+---------
+- Chave de desligamento CC (seccionalizadora) de capacidade adequada.
+- Disjuntores e fusíveis classificados para corrente continua (CC).
+- Caixa de junção com bornes e conectores de compressao corretos.
+- Extintor de po ou CO2, classe C, com carga valida.
+- Luvas isolantes e oculos de protecao.
+- Caderno para anotar a data e as leituras.
+
+PROCEDIMENTO
+------------
+1. Desligue o inversor e abra a chave CC antes de tocar em qualquer fio.
+2. Confirme que a string esta sem tensao com medidor adequado para CC.
+3. Cubra os painéis com pano opaco: nao ha desligamento seguro a luz.
+4. Inspecione cada conector: aperte, troque os que estao oxidados.
+5. Refaca emenda com conector de compressao e ferramenta correta.
+6. Verifique se disjuntores e fusíveis sao proprios para CC, nao CA.
+7. Confirme que ha protecao contra surto na entrada do inversor.
+8. Afixe a placa de desligamento rapido em local visivel e legivel.
+9. Deixe espaco livre ao redor do inversor para circulacao de ar.
+10. Afasta combustiveis, tintas e folhas secas do quadro e da bateria.
+11. Se houver bateria, use o tipo indicado e mantenha ventilacao.
+12. Releia o manual do fabricante e siga o aperto de torque indicado.
+13. Feche a caixa, retire o pano e religue seguindo o manual.
+14. Anote a data, a leitura de tensao e qualquer problema encontrado.
+
+ATENCAO
+-------
+Paineis expostos a luz geram tensao mesmo com o inversor desligado.
+O arco eletrico em CC nao se apaga so ao separar os contatos.
+Nao use agua em incendio eletrico: eletricidade e agua nao se misturam.
+Nunca interrompa cabo sob carga: o arco pode queimar e cair em chamas.
+Emenda mal feita e a causa mais comum de aquecimento e incendio.
+Conector oxidado aumenta a resistencia e aquece ate pegar fogo.
+Se sentir cheiro de queimado ou vir faisca, desligue e chame socorro.
+Se o fogo nao apagar com o extintor, saia e acione os bombeiros.
+
+SE NAO TIVER
+------------
+Sem chave CC, nao abra a instalacao: reduza a promessa e chame um
+profissional. Sem extintor classe C, mantenha distancia e use areia
+seca sobre a origem eletrica so com a energia cortada. Nao improvise
+fusivel com arame ou cobre: isso anula a protecao e causa incendio.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A tensao cai a zero apos abrir a chave e cobrir os painéis.
+Nao ha cheiro de queimado, faisca, ronco ou aquecimento nos bornes.
+Os disjuntores nao desarmam sem motivo aparente.
+A placa de desligamento rapido esta visivel e o extintor esta valido.
+
+FONTES
+------
+Pratica consolidada de seguranca eletrica e contra incendio em
+instalacoes fotovoltaicas, resumida da familia de normas NEC artigo 690
+(sistemas solares fotovoltaicos) e das diretrizes de seguranca contra
+incendio da NFPA. Este texto e um resumo operacional, nao substitui
+projeto, norma local nem trabalho de eletricista licenciado.

@@ -1,0 +1,88 @@
+==============================================================================
+CODIGO: 07-020
+TITULO: Como se proteger da precipitação radioativa
+CATEGORIA: 07 - Guerra, radiação e catástrofes nucleares
+TEMPO: 15 minutos
+RISCO: critico
+EXIGE: prédio firme, roupa limpa, água guardada, rádio a pilha
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fallout, poeira, abrigo, radiação, roupa, água, vento
+==============================================================================
+
+OBJETIVO
+--------
+Proteger-se da poeira radioativa entrando, ficando dentro e se limpando.
+
+QUANDO USAR
+-----------
+Quando houver clarão forte ou aviso de explosão nuclear.
+Quando poeira parecida com areia começar a cair do céu.
+Quando estiver fora de casa e precisar se proteger rápido.
+Quando for preparar a família antes de qualquer ataque.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+Ficar dentro de qualquer prédio é melhor que ficar fora.
+Se o prédio pegar fogo ou rachar, troque de abrigo.
+
+MATERIAIS
+---------
+- Prédio firme de concreto, tijolo ou cimento (qualquer prédio serve).
+- Roupa limpa de troca guardada em saco fechado.
+- Água e comida embaladas e fechadas.
+- Rádio a pilha ou a manivela com pilha reserva.
+- Saco plástico para guardar a roupa com poeira.
+
+PROCEDIMENTO
+------------
+1. Entre no prédio firme mais próximo sem correr para longe.
+2. Leve crianças e animais para dentro com você.
+3. Desça ao porão ou vá ao miolo do térreo ou andar médio.
+4. Fique longe de janela, porta, parede externa e telhado.
+5. Feche portas, janelas e a chaminé da lareira.
+6. Desligue ventilação que puxa ar de fora, se puder.
+7. Tire a roupa externa na entrada antes de ir ao cômodo interno.
+8. Guarde a roupa com poeira em saco fechado longe de gente.
+9. Lave pele e cabelo com água e sabão sem esfregar forte.
+10. Vista roupa limpa depois de lavar o corpo.
+11. Cubra boca e nariz com pano se ainda estiver fora.
+12. Coma só comida embalada e fechada.
+13. Beba só água guardada e fechada.
+14. Fique abrigado por aproximadamente 24 horas seguidas.
+15. Ouça o rádio a pilha e só saia com ordem das autoridades.
+
+ATENCAO
+-------
+Fallout é poeira sem cheiro que emite raio gama pela roupa.
+A poeira pode começar a cair após aproximadamente 10 minutos.
+Parede fina, carro e máscara de pano não bloqueiam o raio gama.
+Respirar poeira é menos perigoso que ficar exposto por fora.
+Mas não coma, não beba e não toque superfície com poeira.
+Sair antes de aproximadamente 24 horas pode causar dose mortal.
+Não saia para buscar família; escola e abrigo protegem eles.
+Não existe remédio de farmácia contra radiação do fallout.
+Se houver vômito, diarreia, queimadura ou tontura, avise.
+Procure ajuda médica assim que as autoridades liberarem a saída.
+Este texto não trata ferimento, queimadura nem resgate.
+
+SE NAO TIVER
+------------
+Sem porão, fique no centro do térreo longe de janela.
+Sem prédio de concreto, use o prédio firme mais próximo.
+Sem roupa limpa, sacuda a poeira e use a menos suja.
+Sem água guardada, não beba água de chuva, rio ou caixa aberta.
+Sem rádio, espere aproximadamente 24 horas antes de sair.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você está no miolo ou abaixo do solo de prédio firme.
+Você tirou a roupa com poeira e lavou pele e cabelo.
+Você fica dentro por aproximadamente 24 horas sem sair.
+
+FONTES
+------
+Guia de planejamento para detonação nuclear da FEMA.
+Página sobre entrar e ficar dentro do CDC americano.
+Página sobre emergência de radiação da Ready.gov americana.
+Guia REMM do governo dos Estados Unidos sobre fallout.

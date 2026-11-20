@@ -1,0 +1,86 @@
+==============================================================================
+CODIGO: 67-006
+TITULO: Como construir válvulas mecânicas automáticas
+CATEGORIA: 67 - Robótica, automação e controle
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: tanque com entrada, garrafa com tampa, haste, pino, vedante, arame
+REVISAO: 2026-11
+PALAVRAS-CHAVE: válvula, boia, flutuador, água, gravidade, vedante
+==============================================================================
+
+OBJETIVO
+--------
+Monte uma válvula automática de boia que fecha a entrada de água.
+O fechamento ocorre quando o reservatório enche, sem usar energia.
+
+QUANDO USAR
+-----------
+Em tanque de água por gravidade que precisa parar de encher sozinho.
+Quando não há energia para acionar uma válvula elétrica.
+Em reservatório que transborda se ninguém fechar a torneira.
+Em sistema de captação de água da chuva.
+
+NAO USE QUANDO
+--------------
+Na linha de água pressurizada da casa.
+Com gás, vapor, óleo ou combustível.
+Em tanque que alimente equipamento elétrico sem outra proteção.
+Quando for preciso controlar a vazão com precisão.
+
+MATERIAIS
+---------
+- Garrafa plástica com tampa, de aproximadamente 500 ml, como flutuador.
+- Haste rígida reta de aproximadamente 40 cm (bambu ou madeira).
+- Pino ou parafuso para servir de eixo, com suporte fixo.
+- Vedante: rolha de borracha ou disco com face de borracha.
+- Arame ou fita resistente para amarrar.
+- Arruelas ou pequeno contrapeso para ajuste.
+- Tanque com tubo de entrada de água.
+
+PROCEDIMENTO
+------------
+1. Feche a garrafa com a tampa.
+2. Coloque a garrafa na água: deve flutuar com a maior parte fora.
+3. Prenda a haste à garrafa com arame, deixando aproximadamente 30 cm.
+4. Fixe o suporte do eixo na borda do tanque, acima da altura de enchimento.
+5. Prenda a haste ao pino do eixo de modo que gire livremente.
+6. Prenda o vedante na ponta da haste, alinhado ao tubo de entrada.
+7. Ajuste o eixo para que, com o tanque vazio, o vedante fique afastado.
+8. Aumente o braço do flutuador se a pressão impedir o fechamento.
+9. Abra a água lentamente e observe a subida do nível.
+10. Confirme que, ao subir, o flutuador empurra o vedante contra a entrada.
+11. Acrescente arruelas ao vedante se ainda gotejar quando fechado.
+12. Reajuste o eixo até o fluxo parar na altura desejada sem folga.
+13. Fixe todas as amarrações e repita o teste com o tanque cheio e vazio.
+
+ATENCAO
+-------
+Esta válvula serve só para água em baixa pressão, de tanque por gravidade.
+Não use em rede pressurizada, gás ou combustível: pode romper e ferir.
+A válvula não limpa a água; para beber, trate-a antes (veja 01-001).
+Se a pressão vencer a alavanca, a válvula não fecha e o tanque transborda.
+Fechamento brusco pode causar golpe de água e danificar tubos e a válvula.
+Metal que enferruja contamina a água de beber; prefira plástico ou borracha.
+Se não conseguir vedação estanque, pare e use uma válvula comprada.
+
+SE NAO TIVER
+------------
+Sem garrafa, use uma bola oca selada ou um pedaço de madeira que flutue.
+Sem haste rígida, use bambu reto; não use arame fino, que dobra.
+Sem rolha, use um disco de madeira forrado com borracha ou pano impermeável.
+Se o flutuador afundar, troque por um maior ou adicione mais ar.
+Sem arruelas, use um pedaço de borracha como junta do vedante.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Com o tanque vazio, a água entra livremente pelo tubo.
+Ao atingir a altura marcada, o fluxo para e o nível deixa de subir.
+Não há gotejamento no vedante quando a válvula está fechada.
+A haste gira no eixo sem travar e sem folga excessiva.
+
+FONTES
+------
+Princípio da boia e da retenção segundo manuais de hidráulica.
+Automação por flutuabilidade e gravidade é prática consolidada.
+O detalhe construtivo caseiro não tem documento único.

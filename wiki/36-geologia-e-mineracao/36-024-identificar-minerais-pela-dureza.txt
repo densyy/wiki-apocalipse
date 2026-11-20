@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 36-024
+TITULO: Como identificar minerais pela dureza
+CATEGORIA: 36 - Geologia, mineração e recursos naturais
+TEMPO: 25 minutos
+RISCO: medio
+EXIGE: amostra, unha, moeda de cobre, faca de aço, vidro, quartzo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: dureza, mohs, riscar, mineral, arranhar, quartzo, unha
+==============================================================================
+
+OBJETIVO
+--------
+Estimar a dureza de um mineral com objetos comuns sem laboratório.
+
+QUANDO USAR
+-----------
+Quando aparece uma pedra desconhecida e é preciso separar semelhantes.
+Quando duas amostras parecem iguais, como calcita e quartzo.
+
+NAO USE QUANDO
+--------------
+Quando a peça é única, valiosa ou não pode ser marcada: o teste risca.
+Com suspeita de amianto, urânio, chumbo ou mercúrio: pare e peça ajuda.
+
+MATERIAIS
+---------
+- Amostra com face lisa, limpa e seca, sem terra ou ferrugem.
+- Unha (aproximadamente 2), moeda de cobre (aproximadamente 3).
+- Faca de aço (aproximadamente 5) e vidro comum (aproximadamente 5,5).
+- Quartzo (7) ou ponteira de aço (aproximadamente 6), pano e luz.
+
+PROCEDIMENTO
+------------
+1. Escolha uma face lisa, limpa e seca da amostra.
+2. Esfregue a unha na face com pressão curta e firme.
+3. Confira se ficou sulco visível e não só pó que sai ao toque.
+4. Com a unha riscando, registre até aproximadamente 2 e pare.
+5. Senão, esfregue a moeda de cobre; se riscar, registre 2 a 3.
+6. Senão, passe a faca de aço; se riscar, registre 3 a 5.
+7. Senão, aperte o vidro; se riscar, registre 5 a 5,5.
+8. Senão, esfregue o quartzo; se riscar, registre 5,5 a 7.
+9. Senão, registre 7 ou mais e pare.
+10. Passe o pano na face para tirar o pó.
+11. Guarde a amostra com a anotação da faixa de dureza.
+
+ATENCAO
+-------
+A escala é ordinal: corindo (9) é cerca do dobro de topázio (8).
+Confira com o dedo: marca de giz que sai ao toque não é risco.
+Amostra friável ou granosa só solta grãos: o resultado não vale.
+Rocha com vários minerais pode dar a dureza do mais macio.
+Faca e vidro cortam: segure firme e afaste os dedos do corte.
+Não inale o pó; lave as mãos e, na dúvida, pare e peça ajuda.
+
+SE NAO TIVER
+------------
+Sem quartzo, use a ponta de uma chave de aço ou uma pedra de amolar.
+Sem nada para comparar, teste as amostras entre si: a que risca é mais dura.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O sulco aparece como linha opaca e contínua e não sai ao passar o dedo.
+Você anotou a faixa, por exemplo entre aproximadamente 3 e 5.
+
+FONTES
+------
+Escala de dureza de Mohs segundo a Mineralogical Society of America e a
+Encyclopaedia Britannica; prática consolidada de identificação em campo.

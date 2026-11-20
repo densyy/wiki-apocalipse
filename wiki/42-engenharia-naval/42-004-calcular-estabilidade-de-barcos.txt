@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 42-004
+TITULO: Como calcular a estabilidade de barcos
+CATEGORIA: 42 - Engenharia naval e tecnologias marítimas
+TEMPO: 45 minutos
+RISCO: critico
+EXIGE: folheto de estabilidade, tabela hidrostática, papel, lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: estabilidade, GM, centro de gravidade, lastro, adernamento
+==============================================================================
+
+OBJETIVO
+--------
+Calcular a altura metacêntrica GM e avaliar se o barco está estável.
+
+QUANDO USAR
+-----------
+Antes de navegar com carga ou passageiros a bordo.
+Depois de alterar lastro, combustível ou peso no convés.
+Quando o barco aderna e não volta sozinho à posição vertical.
+Ao receber a embarcação, para conferir o folheto do estaleiro.
+Antes de enfrentar mar aberto ou vento forte.
+
+NAO USE QUANDO
+--------------
+Não use o cálculo para liberar viagem com casco furado ou alagado.
+Nesse caso, pare, ancore e procure ajuda.
+Não use em mar aberto com tempo ruim sem folheto e experiência.
+Este texto não substitui vistoria de profissional habilitado.
+
+MATERIAIS
+---------
+- Folheto de estabilidade do estaleiro, com tabelas hidrostáticas.
+- Tabela de pesos: casco, motor, lastro, combustível, água, carga,
+  pessoas e pertences.
+- Papel, lápis e calculadora (ou planilha).
+- Régua de calado ou fita métrica para medir os calados.
+
+PROCEDIMENTO
+------------
+1. Leia no folheto o deslocamento máximo e o calado correspondente.
+2. Meça o calado dianteiro e o traseiro na régua de calado.
+3. Some os dois calados e divida por 2 para obter o calado médio.
+4. Leia na tabela hidrostática a cota KM e o deslocamento desse calado.
+5. Anote KM em metros, medido desde a quilha.
+6. Liste todos os pesos a bordo, em toneladas.
+7. Inclua casco vazio, motor, lastro, combustível, água, carga e pessoas.
+8. Obtenha a altura de cada peso acima da quilha, em metros.
+9. Multiplique cada peso pela altura e some os produtos.
+10. Divida a soma pelo peso total para obter KG, em metros.
+11. Some a correção de superfície livre dos tanques pela metade.
+12. Divida essa soma pelo deslocamento e some ao KG para obter KG efetivo.
+13. Subtraia KG efetivo de KM para obter o GM, em metros.
+14. Compare o GM com o mínimo do folheto antes de navegar.
+
+ATENCAO
+-------
+GM positivo indica estabilidade apenas em ângulos pequenos, cerca de
+7 graus. Não garante segurança com ondas, vento ou água a bordo.
+Com GM negativo ou zero, o barco aderna e pode emborcar; pare.
+Colocar peso alto é o erro mais comum e o mais perigoso.
+Tanque pela metade, água no convés e gelo reduzem o GM depressa.
+Se o barco não voltar ao vertical depois de inclinar, pare.
+Nunca navegue com suspeita de alagamento, mesmo com GM positivo.
+GM muito grande deixa o balanço curto e violento, que desloca carga.
+Este texto não substitui o folheto nem treinamento de navegação.
+
+SE NAO TIVER
+------------
+Sem tabela de pesos, faça o teste de adernamento em água calma.
+Mova um peso conhecido de uma distância medida sobre o convés.
+Meça a inclinação com fio de prumo: tangente é o deslocamento do fio
+dividido pelo comprimento do fio.
+GM é o peso movido vezes a distância, dividido pelo peso do barco
+vezes a tangente do ângulo medido.
+Refaça a medição com o peso na outra borda e tire a média.
+Sem folheto, sem tabela e sem teste, não navegue.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O GM calculado é positivo e supera o mínimo do folheto.
+A soma dos pesos confere com o deslocamento da tabela hidrostática.
+Após uma pequena inclinação, o barco volta sozinho ao vertical.
+Os calados lidos batem com o calado usado na tabela.
+
+FONTES
+------
+Código Internacional de Estabilidade Intacta de 2008 da IMO,
+resolução MSC.267(85): GM inicial mínimo de 0,15 m e GZ de 0,20 m
+a 30 graus.
+Diretoria de Portos e Costas da Marinha do Brasil: recomendações
+de segurança na navegação de recreio; estabilidade não se estima.
+Manual EN400 de arquitetura naval da Academia Naval dos EUA:
+GM = KM menos KG e correção de superfície livre.
+Guia de estabilidade da Administração Marítima da Dinamarca:
+teste de adernamento com peso móvel e fio de prumo.

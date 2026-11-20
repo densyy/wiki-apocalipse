@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 20-022
+TITULO: Como produzir feno
+CATEGORIA: 20 - Animais domésticos e pecuária
+TEMPO: 120 minutos ao longo de dois dias secos
+RISCO: alto
+EXIGE: capim, sol e vento, alfanje, garfo, corda, estrados de madeira
+REVISAO: 2026-11
+PALAVRAS-CHAVE: feno, fenação, capim, secar, forragem, fardo, mofo
+==============================================================================
+
+OBJETIVO
+--------
+Conservar capim cortado e seco como feno para alimentar animais na seca.
+
+QUANDO USAR
+-----------
+Quando sobra capim no terreno e falta pasto na estação seca.
+Quando é preciso guardar comida para os animais por várias semanas.
+Quando o capim está no ponto de corte e vem sol e vento.
+
+NAO USE QUANDO
+--------------
+Quando chover ou houver previsão de chuva nos próximos dois dias.
+Quando o capim estiver molhado de orvalho ou de chuva recente.
+Quando o local de guarda for abafado, sem ventilação ou úmido.
+Quando não for possível vigiar a pilha nos primeiros dias.
+
+MATERIAIS
+---------
+- Capim em pé, no ponto de corte (jaraguá, pangola ou tifton).
+- Alfanje ou foice bem afiada (tesoura de poda para pouco volume).
+- Garfo ou ancinho para virar e recolher (rastro de madeira).
+- Corda ou arame para amarrar os fardos.
+- Estrados de madeira para apoiar os fardos (tijolos ou pedras).
+- Galpão arejado, coberto e protegido da chuva (lona impermeável).
+- Termômetro ou barra de metal para medir o calor da pilha.
+
+PROCEDIMENTO
+------------
+1. Escolha uma manhã de sol, com vento e sem chuva prevista.
+2. Espere o orvalho secar antes de cortar o capim.
+3. Corte o capim rente ao solo com alfanje ou foice.
+4. Espalhe o capim cortado em camada fina sobre o solo seco.
+5. Vire o capim com o garfo a cada duas horas durante o dia.
+6. Enleire o capim no fim da tarde se ainda estiver úmido.
+7. Desfaça as leiras na manhã seguinte, após o orvalho secar.
+8. Repita a viragem até o capim chegar ao ponto de feno.
+9. Aperte um punhado de capim com força na mão.
+10. Confira se o punhado quebrou e não voltou ao formato.
+11. Retire a bainha e esprema o caule entre as unhas, junto ao nó.
+12. Enfarde somente se não aparecer umidade no caule espremido.
+13. Amarre os fardos com corda firme, sem folhas soltas.
+14. Leve os fardos ao galpão sem arrastar em solo molhado.
+15. Empilhe os fardos sobre estrados, com espaço entre eles.
+16. Deixe espaço entre a pilha e a parede do galpão.
+17. Meça o calor dentro da pilha todos os dias na primeira semana.
+18. Abra a pilha se o interior passar de 40 graus Celsius.
+
+ATENCAO
+-------
+Feno acima de 20% de umidade pode mofar e aquecer dentro da pilha.
+Um só fardo úmido pode incendiar toda a pilha por combustão espontânea.
+Não enfarde capim verde, molhado ou com cheiro de mofo.
+Nunca guarde feno perto de gasolina, óleo, máquinas, solda ou fogo.
+Não caminhe sobre pilha quente: os fardos podem ceder sem aviso.
+Com vapor, cheiro de caramelo ou fumaça, afaste-se e chame os bombeiros.
+A Embrapa manda abrir a pilha acima de 40 graus; a CFA australiana só
+abre entre 60 e 70 graus e proíbe abrir acima de 70 graus. Nesse caso
+não abra: chame os bombeiros e mantenha pessoas afastadas.
+Poeira e mofo de feno prejudicam a respiração de quem mexe na pilha.
+
+SE NAO TIVER
+------------
+Sem galpão, empilhe sobre estrados e cubra com lona, deixando as
+laterais livres para o vento.
+Sem termômetro, crave uma barra de metal na pilha, espere duas horas
+e toque a ponta com o dorso da mão. Se queimar, não abra a pilha.
+Sem estrados, use tijolos ou pedras para tirar os fardos do solo.
+Sem corda, use arame ou fibra vegetal bem torcida.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O punhado apertado quebra e não volta ao formato original.
+Ao espremer o caule junto ao nó, não aparece água.
+Os fardos ficam secos, verdes, sem mofo e sem cheiro de queimado.
+Após uma semana, o interior da pilha mantém a temperatura estável.
+
+FONTES
+------
+Embrapa, Agência Embrapa de Informação Tecnológica (Ageitec): páginas Feno,
+Ponto de Feno e Armazenamento do Feno; circular Produção de feno de
+gramíneas e ficha Secagem. Country Fire Authority de Victoria,
+Austrália: orientações Hay fire prevention. NSW Rural Fire Service:
+orientações Haystack Fires. Este texto é resumo operacional, não
+substitui treinamento nem a orientação técnica local.

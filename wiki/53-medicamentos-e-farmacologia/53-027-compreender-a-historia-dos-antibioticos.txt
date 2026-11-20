@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 53-027
+TITULO: Como compreender a história dos antibióticos
+CATEGORIA: 53 - Produção de medicamentos e farmacologia
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: antibiótico, penicilina, Fleming, resistência, remédio
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer os marcos da história dos antibióticos e suas lições.
+
+QUANDO USAR
+-----------
+Ao explicar por que um remédio que salvou vidas deixou de funcionar.
+Ao entender a diferença entre descobrir e fabricar um remédio.
+Ao perceber por que o uso sem critério gera resistência.
+
+NAO USE QUANDO
+--------------
+Não use este resumo para escolher remédio, dose ou tratamento.
+Não substitui bula, prescrição nem orientação de profissional.
+Este texto não ensina a produzir nem a aplicar substância alguma.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Comece por Ehrlich, no início do século XX.
+2. Registre a "bala mágica": matar o microbio sem ferir o corpo.
+3. Registre 1910: o Salvarsan tratou a sífilis e abriu a quimioterapia.
+4. Vá a 1928: Fleming viu um fungo inibir estafilococos, em Londres.
+5. Identifique o fungo como Penicillium e o agente como penicilina.
+6. Registre 1929: Fleming publicou, mas não purificou o composto.
+7. Siga para 1935: Domagk testou o Prontosil; veio a sulfanilamida.
+8. Vá a 1939: em Oxford, Florey, Chain e Heatley isolaram a penicilina.
+9. Registre 1940: camundongos tratados sobreviveram aos testes.
+10. Anote 1941: primeiro paciente tratado e ida da equipe aos EUA.
+11. Note que, em Peoria, cepa de melão e tanques fundos bastaram em 1943.
+12. Registre 1945: Nobel para os três e o início de outras classes.
+
+ATENCAO
+-------
+Este texto descreve fatos, não recomenda tratamento.
+Nunca use fungo ou sobra de remédio como antibiótico caseiro.
+Dose e efeito dependem do agente, do local da infecção e do paciente.
+CDC fala em mais de 1 milhão de mortes por ano; a OMS, 1,3 milhão em 2019.
+
+SE NAO TIVER
+------------
+Sem livro ou aula, use este resumo como roteiro de leitura.
+Não invente nome, data ou autor para preencher lacuna de memória.
+Sem acesso ao texto original, diga que a data é aproximada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você cita cinco marcos em ordem e diz o que mudou em cada um.
+Você explica por que Fleming sozinho não fez o remédio utilizável.
+Você aponta como o uso excessivo de antibiótico gera resistência.
+
+FONTES
+------
+Robert Gaynes, "The Discovery of Penicillin: New Insights After More
+Than 75 Years of Clinical Use", Emerging Infectious Diseases, CDC, 2017.
+"About Antimicrobial Resistance", CDC, 2026; discurso da OMS, 2024.

@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 74-004
+TITULO: Como reaproveitar madeira descartada
+CATEGORIA: 74 - Economia circular e reaproveitamento
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: luvas, óculos, máscara de pó, serra, alicate, espaço ventilado
+REVISAO: 2026-11
+PALAVRAS-CHAVE: madeira, reaproveitar, palete, reciclagem, pó, marcenaria
+==============================================================================
+
+OBJETIVO
+--------
+Selecionar madeira descartada segura e transformá-la em peças para conserto.
+
+QUANDO USAR
+-----------
+Quando sobram paletes, caixotes ou tábuas de uma obra ou mudança.
+Quando falta madeira para prateleira, caixa, bancada ou conserto de porta.
+Quando a origem do material é conhecida e não há tratamento químico.
+Quando não há dinheiro para comprar madeira nova.
+
+NAO USE QUANDO
+--------------
+Quando a peça tem cheiro de alcatrão, óleo, combustível ou conservante.
+Quando veio de poste, dormente, cerca de fazenda, cais ou cerca elétrica.
+Quando tem tinta antiga e descascada, sobretudo em casas muito antigas.
+Quando não há como saber a origem da madeira.
+Quando a peça vai tocar alimento, horta, água ou brinquedo infantil.
+
+MATERIAIS
+---------
+- Luvas grossas de couro ou borracha.
+- Óculos de proteção.
+- Máscara facial com filtro para pó fino.
+- Martelo e alicate para retirar pregos e grampos.
+- Serra manual, régua e lápis para medir e marcar.
+- Pano, água e sabão para limpar as peças.
+- Lona ou papelão grosso para proteger o chão.
+- Espaço aberto e ventilado, longe de crianças e animais.
+
+PROCEDIMENTO
+------------
+1. Separe a madeira em duas pilhas: suspeita e aceita.
+2. Observe a cor e o cheiro de cada peça antes de manusear.
+3. Coloque na suspeita peça com cheiro químico, tinta ou tom verde.
+4. Procure o carimbo estampado nas laterais do palete.
+5. Aceite o palete com carimbo e letras HT; é tratamento térmico.
+6. Rejeite o palete com MB; é fumigação com brometo de metila.
+7. Rejeite também o palete sem carimbo e sem origem conhecida.
+8. Leve as peças suspeitas para descarte adequado; nunca as queime.
+9. Calce as luvas, os óculos e a máscara antes de cortar.
+10. Trabalhe ao ar livre, sobre a lona, com o vento pelas costas.
+11. Retire pregos e grampos com o alicate antes de serrar.
+12. Marque cada corte com o lápis e a régua.
+13. Serre devagar, sem forçar a lâmina e sem levantar pó.
+14. Não lixe peça pintada nem peça tratada.
+15. Limpe a peça cortada com pano úmido e sabão.
+16. Deixe a peça secar ao ar, em local arejado.
+17. Guarde as peças secas fora do alcance de crianças.
+
+ATENCAO
+-------
+Madeira velha pode conter CCA (arseniato de cobre cromado), creosoto ou
+pentaclorofenol. São conservantes tóxicos aplicados sob pressão na madeira.
+O arsênio do CCA pode sair na poeira e passar para a pele e para a boca.
+Serrar e lixar aumentam muito a exposição ao pó contaminado.
+Tinta aplicada antes de 1978 pode conter chumbo; ao lixar, vira pó tóxico.
+Nunca queime madeira tratada: a fumaça e a cinza concentram o veneno.
+Não use madeira duvidosa em horta, brinquedo, caixa d'água ou utensílio.
+Pregos e grampos escondidos quebram a lâmina e podem ferir as mãos.
+Pare o trabalho se o pó entrar nos olhos, se a pele ficar vermelha ou se
+aparecer tosse. Lave a área atingida e procure atendimento.
+Na dúvida sobre a origem, descarte a peça inteira.
+
+SE NAO TIVER
+------------
+Sem máscara, não serre nem lixe; use só peça limpa e de origem conhecida.
+Sem serra, faça a emenda com cordel e cola própria para madeira.
+Sem lona, use papelão grosso e limpe o pó com pano úmido.
+Nunca varra o pó com vassoura seca: ele levanta e volta a ser inalado.
+Sem carimbo e sem origem confirmada, não improvise: descarte a madeira.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As peças usadas estão secas, sem cheiro químico e sem tinta descascada.
+Os paletes aceitos têm carimbo com HT e nenhum traz a letra MB.
+Não há pregos, grampos ou pontas expostas nas peças cortadas.
+A área de trabalho ficou sem pó solto após a limpeza com pano úmido.
+
+FONTES
+------
+Agência de Proteção Ambiental dos Estados Unidos (EPA): orientações sobre
+madeira tratada com CCA e sobre tinta com chumbo em reformas antigas.
+Centro Nacional de Informação sobre Pesticidas (NPIC), da Universidade
+Estadual de Oregon: riscos da madeira tratada e medidas de proteção.
+Serviço de Inspeção Animal e Vegetal (APHIS), do Departamento de
+Agricultura dos Estados Unidos: norma ISPM 15 para embalagens de madeira.
+Prática consolidada de marcenaria manual; resumo operacional, não
+substitui treinamento.

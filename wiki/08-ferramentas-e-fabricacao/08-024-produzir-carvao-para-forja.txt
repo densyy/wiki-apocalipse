@@ -1,0 +1,84 @@
+==============================================================================
+CODIGO: 08-024
+TITULO: Como produzir carvão para forja
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: lenha seca, fosso, terra, fogo e água para apagar
+REVISAO: 2026-11
+PALAVRAS-CHAVE: carvão, forja, carvoeiro, queima lenta, brasas, monóxido
+==============================================================================
+
+OBJETIVO
+--------
+Produzir carvão vegetal em fossa coberta para alimentar uma forja.
+
+QUANDO USAR
+-----------
+Quando a forja não tem carvão comprado.
+Quando há lenha seca de madeira dura e não há dinheiro.
+Quando o carvão de comércio está caro ou não chega.
+
+NAO USE QUANDO
+--------------
+Não use dentro de casa, galpão, barraca ou qualquer lugar fechado.
+Não use lenha verde, apodrecida, tratada, pintada ou envernizada.
+Não faça se não puder vigiar o fogo e apagá-lo por completo.
+
+MATERIAIS
+---------
+- Lenha seca de madeira dura, cortada em toros de aproximadamente um palmo.
+- Fosso no chão ou barril metálico limpo, sem tinta nem resíduos.
+- Terra seca, areia ou cinza fria para cobrir a pilha.
+- Palha, folhas secas ou serragem para acender.
+- Água em balde e terra úmida para apagar.
+- Luvas grossas e óculos de proteção.
+
+PROCEDIMENTO
+------------
+1. Escolha terreno plano e livre de folhas secas.
+2. Afaste o local aproximadamente 10 passos de casas, cercas e árvores.
+3. Cave um fosso circular com aproximadamente dois palmos de largura.
+4. Faça o fundo com aproximadamente um palmo de profundidade.
+5. Empilhe os toros em pé, em círculo, deixando um duto central aberto.
+6. Encha o duto com palha ou folhas secas para servir de pavio.
+7. Cubra a pilha com terra, areia ou cinza, sem deixar frestas.
+8. Deixe uma abertura pequena no topo para o duto puxar ar.
+9. Acenda o pavio pelo topo com uma brasa, nunca com gasolina.
+10. Vigie sem parar; se a terra rachar, tape com terra úmida.
+11. Mantenha queima lenta por aproximadamente duas horas, sem chama aberta.
+12. Quando o topo parar de soltar fumaça, tampe a abertura com terra.
+13. Espere esfriar por completo por aproximadamente duas horas.
+14. Retire o carvão com as luvas e sacuda a cinza.
+15. Jogue água apenas nas brasas que ficaram no fosso, não no carvão.
+
+ATENCAO
+-------
+O monóxido de carbono não tem cheiro nem cor e mata sem aviso.
+Nunca acenda ou abra o fosso em lugar fechado; a fumaça intoxica.
+Dor de cabeça, tontura, náusea e confusão indicam intoxicação.
+Saia para o ar livre e procure ajuda se os sintomas não passarem.
+O fogo escapa se houver folhas secas; mantenha água e terra por perto.
+Terra rachada deixa entrar ar e o carvão vira cinza; tape as rachaduras.
+Brasas parecem apagadas e voltam a queimar; molhe a cinza ao descartar.
+Este método caseiro dá carvão comum, não carvão de alta qualidade para aço.
+
+SE NAO TIVER
+------------
+Sem fosso, use um barril metálico limpo com furos de ar na base.
+Sem terra, use areia ou cinza fria, nunca folhas ou palha.
+Sem luvas, espere esfriar mais; não retire peças ainda quentes.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O carvão sai preto, leve e quebradiço, sem trechos de madeira crua.
+Ao bater duas peças, o som é seco e claro, não surdo.
+A brasa incandesce sem soltar fumaça densa nem cheiro de alcatrão.
+
+FONTES
+------
+Centers for Disease Control and Prevention (CDC), orientações sobre
+intoxicação por monóxido de carbono; Encyclopaedia Britannica, 11ª edição
+(1911), verbete Charcoal, método de pilha coberta e temperaturas de
+carbonização. Prática caseira consolidada; a qualidade depende da madeira
+e do controle do fogo.

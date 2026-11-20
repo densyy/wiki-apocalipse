@@ -1,0 +1,97 @@
+==============================================================================
+CODIGO: 39-015
+TITULO: Como observar microrganismos com microscópios
+CATEGORIA: 39 - Óptica e instrumentos científicos
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: microscópio, lâminas, lamínulas, luvas, óculos de proteção, amostra
+REVISAO: 2026-11
+PALAVRAS-CHAVE: microscópio, microrganismo, lâmina, lamínula, gota, bichinho
+==============================================================================
+
+OBJETIVO
+--------
+Observar seres vivos minúsculos em uma gota de água usando o microscópio.
+
+QUANDO USAR
+-----------
+Quando houver microscópio e se quiser ver o que vive na água parada.
+Para verificar se uma água tem seres microscópicos em movimento.
+Para mostrar a outra pessoa como é um microrganismo vivo.
+Para conferir se uma infusão de folhas ou feno "pegou".
+
+NAO USE QUANDO
+--------------
+Não use sangue, fezes, urina, pus, saliva nem outro fluido corporal.
+Não use água com suspeita de químico, combustível ou radioatividade.
+Não use para decidir se a água é potável ou própria para beber.
+Não use para identificar doença nem substituir exame de laboratório.
+
+MATERIAIS
+---------
+- Microscópio óptico com objetiva de 10x e, se houver, de 40x.
+- Lâminas de vidro limpas (placas transparentes limpas).
+- Lamínulas de vidro (pedaços finos de vidro ou plástico transparente).
+- Conta-gotas (palito de dente limpo).
+- Água parada, de chuva ou de infusão de folhas ou feno.
+- Luvas descartáveis e óculos de proteção.
+- Papel de lente, recipiente rígido com tampa, água e sabão.
+
+PROCEDIMENTO
+------------
+1. Lave as mãos com água e sabão e seque bem.
+2. Coloque as luvas e os óculos. Cubra cortes nas mãos com curativo.
+3. Limpe a lâmina e a lamínula com papel de lente, sem tocar com os dedos.
+4. Ligue a luz, abra o diafragma e coloque a objetiva de 10x.
+5. Prenda a lâmina na platina com as presilhas.
+6. Pingue uma gota pequena da amostra no centro da lâmina.
+7. Se a amostra estiver sólida, misture duas gotas de água limpa.
+8. Apoie a borda da lamínula na gota, em ângulo, e abaixe devagar.
+9. Olhe de lado e aproxime a objetiva da lâmina sem encostar.
+10. Olhe no ocular e afaste com o macrométrico até focar. Ajuste o fino.
+11. Feche um pouco o diafragma se o campo estiver claro demais.
+12. Mova a platina devagar e percorra toda a área sob a lamínula.
+13. Procure algo que se move sozinho, gira ou bate com pelos curtos.
+14. Para ver detalhes, passe para 40x olhando de lado e use só o fino.
+15. Se houver óleo de imersão, use-o só com a objetiva de 100x.
+16. Desligue a luz, limpe as lentes e guarde com a objetiva de 10x.
+17. Descarte o vidro no recipiente rígido com tampa.
+18. Tire as luvas e lave as mãos com água e sabão.
+
+ATENCAO
+-------
+Amostra de água parada ou lodo pode conter bactérias, protozoários e ovos
+de parasitas. Nunca leve a lâmina à boca nem toque a gota com a mão.
+Não use fluidos corporais: o risco de infecção exige laboratório e treino.
+Lâmina e lamínula de vidro cortam fundo. Descarte em recipiente rígido.
+Corantes mancham e irritam. Só use com rótulo identificado, nunca improvise
+com tinta, café, suco ou desinfetante.
+A objetiva de 40x quebra a lamínula se aproximada olhando pelo ocular.
+Aproxime de lado. Se ouvir estalo, pare na hora.
+Luz e tomada são elétricas. Não use com fio exposto, na chuva ou molhado.
+A observação não prova que a água é segura: patógenos podem ser invisíveis.
+Se a amostra tocar olho ou ferida, lave com água corrente e busque ajuda.
+
+SE NAO TIVER
+------------
+Sem lamínula, use plástico fino e transparente limpo; nunca papel.
+Sem microscópio, uma lupa mostra só seres maiores, como larvas.
+Sem conta-gotas, use um palito limpo para transferir a gota.
+Sem papel de lente, use pano macio e limpo, nunca papel áspero.
+Sem óleo de imersão, observe só com 10x e 40x; não use óleo de cozinha.
+Sem luvas, lave as mãos e use palito, mas não mexa em amostra de risco.
+
+COMO SABER QUE DEU CERTO
+------------------------
+No ocular aparece campo iluminado com pontos ou fios em movimento.
+Ao mover a platina, o que está na gota anda junto com a imagem.
+Sujeira na lente fica parada enquanto a amostra se move.
+A imagem continua visível e maior depois da troca para 40x.
+
+FONTES
+------
+Manual de Biossegurança em Laboratório da OMS, 4a edição (2020): risco,
+precauções e descarte.
+CDC, DPDx: seções de segurança e exame microscópico, lâmina úmida e
+varredura com objetiva de 10x.
+Prática consolidada de microscopia óptica: foco, limpeza e óleo de imersão.

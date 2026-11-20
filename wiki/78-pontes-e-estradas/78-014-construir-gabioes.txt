@@ -1,0 +1,84 @@
+==============================================================================
+CODIGO: 78-014
+TITULO: Como construir gabiões
+CATEGORIA: 78 - Pontes, estradas e infraestrutura de transporte
+TEMPO: 240 minutos
+RISCO: medio
+EXIGE: arame galvanizado, pedra, alicate, luvas, proteção ocular
+REVISAO: 2026-11
+PALAVRAS-CHAVE: gabião, gabião, pedra, arame, contencao, drenagem
+==============================================================================
+
+OBJETIVO
+--------
+Montar caixas de arame preenchidas de pedra para conter terra e agua.
+
+QUANDO USAR
+-----------
+Para conter taludes, margens de rio e barrancos com agua corrente.
+Onde se precisa de drenagem: a agua passa entre as pedras.
+Em obras de emergencia apos erosao ou deslizamento pequeno.
+Para proteger a base de pontes e muros contra a correnteza.
+
+NAO USE QUANDO
+--------------
+Nao use arame enferrujado, fino ou sem galvanizacao.
+Nao use pedra miuda que escape pelas malhas da tela.
+Nao monte onde a base nao pode ser nivelada e firme.
+Nao construa gabioes altos demais sem amarrar as caixas entre si.
+
+MATERIAIS
+---------
+- Tela de arame galvanizado em malha sextavada (gabião).
+- Arame de amarrar galvanizado, de 2 a 3 mm (arame de cerca).
+- Pedras grandes, duras e angulosas, que nao caibam na malha (basalto).
+- Alicate, torquês, tesoura de corte e fita metrica.
+- Luvas grossas, óculos de proteção e capacete.
+
+PROCEDIMENTO
+------------
+1. Escolha pedra dura, angular e maior que a abertura da malha.
+2. Meça o espaco a preencher e defina o tamanho das caixas.
+3. Monte a tela em forma de caixa, fechando fundo e laterais.
+4. Enrosque as bordas com arame de amarrar, ponto a ponto.
+5. Coloque as caixas vazias na posicao definitiva, sobre base firme.
+6. Amarre as caixas vizinhas entre si pelas bordas.
+7. Preencha cada caixa com pedra, camada por camada.
+8. Arrume as pedras com a mao para nao deixar vazios grandes.
+9. Use pedras maiores nas bordas e menores no centro.
+10. Feche a tampa da caixa e amarre a cada 10 cm.
+11. Aperte bem cada amarra com alicate ou torquês.
+12. Verifique se nao ha pontas de arame soltas para fora.
+13. Empilhe uma segunda camada, se necessario, amarrando a primeira.
+14. Confira o alinhamento e reforce as amarras antes de carregar agua.
+
+ATENCAO
+-------
+Pontas de arame furam olhos e maos: use oculos e luvas sempre.
+Pedra solta dentro da caixa cria vazios e o gabião deforma.
+Arame sem galvanizacao enferruja e a estrutura se desfaz.
+Nao deixe as pedras sobressairem e furarem a tela da tampa.
+Se a base for mole, o gabião afunda e a face inclina.
+Em agua corrente forte, ancore as caixas com estacas ou pedras.
+Gabião nao substitui muro de concreto em carga muito alta.
+
+SE NAO TIVER
+------------
+Sem tela de gabião, use arame de cerca trançado em malha larga.
+Sem pedra angular, use brita grande ou pedra de rio quebrada.
+Sem arame de amarrar, use arame galvanizado de cerca comum.
+Sem torquês, aperte as voltas com o proprio alicate.
+Sem oculos, use qualquer protecao ocular improvisada e trabalhe devagar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As caixas estao cheias, firmes e bem amarradas entre si.
+A agua escoa entre as pedras sem levar o material.
+A face do gabião esta alinhada, sem barriga ou inclinacao.
+Nao ha pontas de arame expostas nem pedras furando a tela.
+
+FONTES
+------
+Pratica consolidada de obras de drenagem e contencao com gabiões,
+sem documento unico obrigatorio. Orientacoes gerais de engenharia
+rural e de protecao de margens e taludes com estruturas permeaveis.

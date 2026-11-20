@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 38-014
+TITULO: Como observar fases da Lua
+CATEGORIA: 38 - Astronomia e medição do tempo
+TEMPO: 15 minutos
+RISCO: baixo
+EXIGE: céu limpo, caderno, lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: lua, fases, lua cheia, lua nova, crescente, minguante
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer e acompanhar as fases da Lua ao longo de aproximadamente um mês.
+
+QUANDO USAR
+-----------
+Quando quiser saber se a Lua vai iluminar o caminho à noite.
+Quando estiver sem relógio e precisar de uma referência de tempo.
+Quando quiser prever em que noite a Lua estará cheia.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Caderno e lápis para registrar (ou papel e carvão).
+- Local com visão livre do céu e poucas luzes artificiais.
+- Ponto fixo no horizonte, como árvore, muro ou prédio.
+
+PROCEDIMENTO
+------------
+1. Escolha um local com visão desafogada para o horizonte.
+2. Anote a data e a hora da primeira observação.
+3. Observe a Lua no mesmo horário por aproximadamente 30 noites.
+4. Observe a parte iluminada e registre seu formato.
+5. Se a parte iluminada aumenta, a Lua está crescente.
+6. Se a parte iluminada diminui, a Lua está minguante.
+7. Anote onde a Lua aparece em relação ao seu ponto fixo no horizonte.
+8. Confira se nasce aproximadamente 50 minutos mais tarde a cada dia.
+9. Marque a noite em que a Lua ficou redonda: é a lua cheia.
+10. Marque a noite em que não foi possível vê-la: é a lua nova.
+11. Compare o desenho de hoje com o registro da noite anterior.
+
+ATENCAO
+-------
+A lua nova não aparece: seu lado iluminado fica voltado para o Sol.
+Nunca olhe para o Sol, sobretudo perto da lua nova.
+Não aponte binóculo ou telescópio para o Sol: queima os olhos.
+Nuvens, neblina e luzes da cidade escondem as fases mais finas.
+As fases não dão horas nem datas exatas; use relógio quando houver.
+O ciclo dura aproximadamente 29,5 dias e varia um pouco a cada mês.
+
+SE NAO TIVER
+------------
+Sem caderno, desenhe as fases na terra ou memorize a sequência.
+Sem céu limpo, observe na noite seguinte e anote a data.
+Sem binóculo, observe a olho nu: as fases são claramente visíveis.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ao fim de aproximadamente um mês, o caderno mostra a sequência:
+nova, crescente, quarto crescente, quase cheia, cheia, quase minguante,
+quarto minguante, minguante, de volta à nova.
+
+FONTES
+------
+Prática consolidada de astronomia observacional e medição do tempo.
+Conhecimento transmitido em cursos e manuais básicos de astronomia.

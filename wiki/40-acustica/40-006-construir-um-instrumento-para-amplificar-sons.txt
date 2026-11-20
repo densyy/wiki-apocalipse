@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 40-006
+TITULO: Como construir um instrumento para amplificar sons distantes
+CATEGORIA: 40 - Acústica e engenharia sonora
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: papelão rígido, fita adesiva, régua, tesoura, lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: som, ouvir, amplificar, corneta, funil, trombeta, escuta
+==============================================================================
+
+OBJETIVO
+--------
+Fazer uma corneta que destaque sons vindos de uma direção distante.
+
+QUANDO USAR
+-----------
+Quando precisar ouvir passos, vozes ou motores antes de chegar perto.
+Quando o som vier de uma direção conhecida e o ar estiver calmo.
+Quando não houver bateria, rádio ou aparelho eletrônico.
+
+NAO USE QUANDO
+--------------
+Quando o vento forte, a chuva ou o trânsito encobrirem o som.
+Quando for precisar correr, escalar ou se defender nesse instante.
+
+MATERIAIS
+---------
+- Cartolina grossa ou papelão rígido (papel encerado, zinco fino).
+- Fita adesiva larga (cola de papel, barbante).
+- Régua (barra reta) e lápis ou caneta.
+- Tesoura (estilete, com cuidado) e cordão para pendurar.
+
+PROCEDIMENTO
+------------
+1. Prenda um cordão de aproximadamente 60 cm no lápis e trace um arco.
+2. Trace duas retas do centro até o arco, com aproximadamente 90 graus.
+3. Recorte o setor pela marca, com a tesoura, sem deixar pontas vivas.
+4. Corte a ponta a aproximadamente 2 cm: é a garganta (saída).
+5. Enrole o papelão com a face lisa para dentro, formando um cone.
+6. Ajuste a emenda sem sobrepor as bordas e sem deixar fenda.
+7. Feche a emenda com fita adesiva do centro até a borda larga.
+8. Reforce a borda larga com uma segunda volta de fita.
+9. Encoste a garganta na orelha e aponte a boca para o som.
+
+ATENCAO
+-------
+A corneta não cria som: ela só junta o som que já chega até a boca.
+Não amplifica som atrás de parede, terra ou água.
+Nunca grite dentro da corneta com a ponta na orelha de alguém.
+Estilete e bordas de zinco cortam: use cuidado e dobre a borda.
+Pare e tire a corneta se sentir dor ou zumbido; busque ajuda se durar.
+
+SE NAO TIVER
+------------
+Sem cartolina, use um funil de plástico grande ou uma garrafa cortada.
+Sem fita, amarre a emenda com barbante e faça o nó por dentro.
+Sem régua, meça aproximadamente 60 cm com o antebraço e a mão aberta.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A boca fica redonda, sem rachaduras, e a fita não solta ao mover.
+A garganta encosta na orelha sem apertar e sem deixar passar luz.
+Ao girar a cabeça, o som enfraquece de lado e volta na direção da boca.
+
+FONTES
+------
+Corneta e impedância: Acoustics Today (Sociedade Acústica, 2015).
+Demonstração: Harvard Natural Sciences Lecture Demonstrations.
+Foco de som: Whipple Museum (Cambridge); segurança: Siemens Stiftung, 2015.

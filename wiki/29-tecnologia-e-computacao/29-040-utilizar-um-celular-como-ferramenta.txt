@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 29-040
+TITULO: Como usar o celular como ferramenta de navegação offline
+CATEGORIA: 29 - Tecnologia, computação e informática offline
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: celular com GPS, aplicativo de mapas offline, internet no download
+REVISAO: 2026-11
+PALAVRAS-CHAVE: navegação, offline, celular, gps, mapa, rotas, osmand
+==============================================================================
+
+OBJETIVO
+--------
+Transformar o celular em ferramenta de navegação que funciona sem rede.
+
+QUANDO USAR
+-----------
+Ao atravessar áreas sem sinal de celular.
+Quando os dados móveis acabarem ou o roaming for caro.
+Em trilhas, evacuação ou ajuda a desastres, sem rede.
+
+NAO USE QUANDO
+--------------
+Quando for preciso trânsito em tempo real ou bloqueios de estrada.
+O mapa salvo não mostra obras nem mudanças recentes.
+
+MATERIAIS
+---------
+- Celular com receptor de GPS e bateria carregada.
+- Aplicativo de mapas offline (OsmAnd, Organic Maps ou similar).
+- Acesso à internet no momento do download, de preferência Wi-Fi.
+- Carregador ou bateria externa.
+- Mapa de papel da região como reserva.
+
+PROCEDIMENTO
+------------
+1. Instale o aplicativo de mapas enquanto ainda houver internet.
+2. Baixe só a região da viagem e os dados de busca e de cálculo de rotas.
+3. Confira o tamanho dos arquivos e conclua o download por Wi-Fi.
+4. Salve os mapas no cartão de memória, se o aparelho permitir.
+5. Marque no aplicativo partida, destino e pontos de parada.
+6. Ative o modo avião e confirme que as ruas da região aparecem.
+7. Ligue o GPS e aguarde a fixação da posição antes de sair.
+8. Inicie a navegação por voz e siga as indicações do aplicativo.
+
+ATENCAO
+-------
+O GPS recebe sinal de satélite, mas não baixa mapas sozinho.
+Sem os arquivos baixados, o mapa abre vazio ou não calcula rotas.
+Baixar a região errada é o erro mais comum: confira o nome.
+O GPS consome bateria rápido: leve carregador ou bateria externa.
+Se a rota falhar, pare e use o mapa de papel como reserva.
+
+SE NAO TIVER
+------------
+Sem cartão, baixe região menor e apague mapas antigos.
+Sem aplicativo de rotas, salve imagens de mapas no celular.
+Sem internet para baixar, use mapa de papel preparado antes.
+
+COMO SABER QUE DEU CERTO
+------------------------
+No modo avião, o mapa abre e mostra ruas da região baixada.
+A seta de posição acompanha o deslocamento com o GPS ligado.
+O aplicativo calcula a rota e anuncia a próxima virada em voz alta.
+
+FONTES
+------
+Guia oficial do OsmAnd: download de mapas e navegação offline.
+Site oficial do Organic Maps: mapas baixados e rotas sem rede.
+Prática consolidada de uso de GPS por satélite sem sinal de celular.

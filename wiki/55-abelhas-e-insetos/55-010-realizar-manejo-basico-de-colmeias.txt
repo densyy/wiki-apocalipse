@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 55-010
+TITULO: Como realizar manejo básico de colmeias
+CATEGORIA: 55 - Entomologia, apicultura e pequenos organismos
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: indumentária clara, fumigador, formão, material vegetal seco
+REVISAO: 2026-11
+PALAVRAS-CHAVE: abelha, colmeia, apicultura, inspeção, mel, rainha
+==============================================================================
+
+OBJETIVO
+---------
+Inspecionar a colmeia e manter a colônia viva, alimentada e sem doença.
+
+QUANDO USAR
+-----------
+Ao receber ou capturar um enxame, cerca de 15 dias após a instalação.
+Antes e durante a florada, para ver espaço e reserva de alimento.
+Na entressafra, cerca de uma vez por mês, para conferir a comida.
+Quando aparecerem muitas abelhas mortas na frente da colmeia.
+Ao notar briga na entrada, cheiro podre ou cria murcha.
+
+NAO USE QUANDO
+--------------
+Não abra em dia chuvoso, muito frio ou com vento frio.
+Não maneje se você souber que tem alergia grave a ferroada.
+Não abra sem indumentária e fumigador em bom estado.
+
+MATERIAIS
+---------
+- Macacão claro, máscara, luvas e botas em bom estado (roupa clara).
+- Fumigador com fole e material vegetal seco, sem tratamento.
+- Formão ou faca de colher para descolar os quadros.
+- Pote com xarope de açúcar, se faltar comida (alimentador).
+- Fósforo ou isqueiro para acender o fumigador.
+- Caderno e lápis para anotar (celular).
+
+PROCEDIMENTO
+------------
+1. Vista a indumentária completa antes de chegar ao apiário.
+2. Acenda o fumigador só com material vegetal seco e sem tratamento.
+3. Espere fumaça branca e fria; não use fumaça quente ou com cheiro.
+4. Aproxime-se pela lateral ou por trás da colmeia, nunca pela frente.
+5. Aplique um jato suave de fumaça na entrada e espere alguns segundos.
+6. Observe a entrada: pólen nas pernas e movimento indicam coleta ativa.
+7. Observe o chão: muitas abelhas mortas na frente indicam problema.
+8. Retire a cobertura com cuidado; pode haver animal peçonhento nela.
+9. Solte a tampa com o formão sem movimentos bruscos, pela própolis.
+10. Aplique um pouco de fumaça sobre os quadros, sem exagero.
+11. Retire os quadros um a um, começando pelas laterais da caixa.
+12. Deixe o primeiro quadro fora, exceto se tiver cria aberta nele.
+13. Confira ovos: um por alvéolo mostra que a rainha está viva.
+14. Verifique mel e pólen, sobretudo nos quadros laterais do ninho.
+15. Examine a cria: branca-perola é o normal; marrom ou murcha é doença.
+16. Não esmague abelhas nem a rainha ao movimentar os quadros.
+17. Se faltar comida, dê xarope frio no alimentador ao entardecer.
+18. Recoloque os quadros na mesma posição, sem exposição ao sol.
+19. Feche a tampa deslizando devagar para não cortar as abelhas.
+20. Anote no caderno os achados e o que fazer na próxima visita.
+
+ATENCAO
+-------
+Ferroadas podem causar choque anafilático, que pode matar em minutos.
+Se aparecerem urticária, inchaço, falta de ar ou tontura, pare e busque
+atendimento médico de imediato; não continue o manejo sozinho.
+O fumigador tem fogo: nunca deixe material aceso sem vigilância e apague
+tudo antes de guardar para não provocar incêndio.
+A fumaça não deve ser inalada; evite cheiro forte, perfume e roupa suja.
+Nunca use derivados de petróleo, madeira tratada ou restos animais como
+combustível, e nunca dê antibiótico à colmeia.
+Não abra com chuva, frio ou vento: abelhas agressivas e cria fria.
+Briga ou aglomeração na entrada indica saque: reduza a entrada e pare.
+Cheiro podre, cria marrom ou muitas mortas indicam doença: marque a
+colmeia, não a transporte e avise o serviço veterinário oficial.
+A inspeção não trata doença; só a identifica. Nunca improvise remédio.
+
+SE NAO TIVER
+------------
+Sem indumentária ou fumigador, não abra a colmeia: observe a entrada e
+o chão de longe e peça ajuda a quem tenha o equipamento.
+Sem material de combustão vegetal, não acenda o fumigador com gasolina,
+álcool, pano ou madeira tratada: a fumaça intoxica e pode incendiar.
+Sem xarope, não dê mel de outra colmeia, pois pode transmitir doença.
+Sem alimentador, espere para alimentar; nunca derrame xarope na entrada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Há ovos, um por alvéolo, e cria branca-perola sem cheiro podre.
+Há mel e pólen nos quadros laterais e as abelhas entram e saem sem briga.
+Não há muitas mortas na frente nem cheiro podre ao abrir a tampa.
+Ao fechar, as abelhas retomam o voo normal em poucos minutos.
+
+FONTES
+------
+Resumo operacional de manuais oficiais brasileiros: Cartilha 142,
+Manejo de apiário, do SENAR; orientações de revisão das colmeias da
+Embrapa; Manual de Doenças das Abelhas e informações de Sanidade
+Apícola do Ministério da Agricultura e Pecuária; procedimentos de
+segurança com abelhas africanizadas da Embrapa.

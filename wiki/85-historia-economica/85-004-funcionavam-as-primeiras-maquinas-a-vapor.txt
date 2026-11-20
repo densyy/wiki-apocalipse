@@ -1,0 +1,81 @@
+==============================================================================
+CODIGO: 85-004
+TITULO: Como funcionavam as primeiras máquinas a vapor
+CATEGORIA: 85 - História econômica e industrialização
+TEMPO: 50 minutos
+RISCO: alto
+EXIGE: caderno, esquema de caldeira e observação em museu ou fonte técnica
+REVISAO: 2026-11
+PALAVRAS-CHAVE: máquina a vapor, caldeira, pistão, pressão, Newcomen, Watt
+==============================================================================
+
+OBJETIVO
+--------
+Entender o ciclo da máquina a vapor e sua importância histórica.
+
+QUANDO USAR
+-----------
+Ao estudar bombeamento de água em minas no século XVIII.
+Ao comparar a máquina de Newcomen com o aperfeiçoamento de Watt.
+Ao explicar por que caldeira, pistão e condensador importavam.
+Ao entender como a máquina substituiu força animal e hidráulica.
+Ao visitar museu com motor a vapor e precisar interpretá-lo.
+
+NAO USE QUANDO
+--------------
+Não tente construir ou acionar caldeira artesanal: ela pode explodir.
+Não use esta leitura como manual de operação de caldeira.
+Não confunda motor de combustão interna com máquina a vapor.
+
+MATERIAIS
+---------
+- Caderno e lápis para desenhar o ciclo em quatro etapas (celular).
+- Esquema simples de caldeira, cilindro e pistão.
+- Fonte técnica confiável ou visita a museu com máquina preservada.
+- Cronologia com Newcomen (1712) e Watt (década de 1760).
+
+PROCEDIMENTO
+------------
+1. Observe o esquema e nomeie caldeira, cilindro e pistão.
+2. Anote que o fogo aquece água e gera vapor sob pressão.
+3. Desenhe o vapor entrando no cilindro e empurrando o pistão.
+4. Registre o retorno do pistão quando o vapor condensa e esfria.
+5. Explique a função do condensador separado introduzido por Watt.
+6. Compare o consumo de carvão antes e depois do condensador.
+7. Anote que a máquina de Newcomen servia para bombear água.
+8. Registre o uso em minas, fábricas, ferrovias e barcos.
+9. Observe como o movimento alternado virava movimento de rotação.
+10. Relacione manutenção, lubrificação e risco de explosão.
+11. Escreva uma frase sobre a mudança de escala que a máquina permitiu.
+12. Confira seu desenho com a placa do museu ou com a fonte.
+
+ATENCAO
+-------
+Caldeira sob pressão pode explodir e matar; não faça experiências.
+Vapor e metal quentes causam queimaduras graves por contato.
+Peças girantes prendem roupas, cabelos e mãos.
+A pressão mal controlada deforma o cilindro e quebra a máquina.
+Em museu, respeite grades e não toque em peças antigas.
+Esta leitura é histórica, não autoriza operar equipamento real.
+
+SE NAO TIVER
+------------
+Sem museu, use esquema impresso ou desenho de fonte técnica.
+Sem fonte técnica, estude só o princípio: calor, vapor, movimento.
+Sem cronologia, use dois marcos aproximados: 1712 e a década de 1760.
+Sem esquema, desenhe três formas: caldeira, cilindro, pistão.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Seu desenho mostra calor gerando vapor e vapor movendo o pistão.
+Você explica o que o condensador mudou no gasto de carvão.
+Você cita pelo menos dois usos históricos da máquina.
+
+FONTES
+------
+Prática consolidada de ensino de história da tecnologia. Dados
+históricos verificáveis: Thomas Newcomen instalou sua máquina
+atmosférica em 1712; James Watt aperfeiçoou o condensador
+separado na década de 1760. Acervos de museus industriais e
+manuais de engenharia descrevem o ciclo. Não há aqui manual
+de operação; as advertências de segurança são reais.

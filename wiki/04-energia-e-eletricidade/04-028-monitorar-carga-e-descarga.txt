@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 04-028
+TITULO: Como monitorar carga e descarga
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 20 minutos
+RISCO: medio
+EXIGE: multimetro ou visor do controlador, caderno e caneta
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bateria, carga, descarga, tensao, multimetro, monitorar
+==============================================================================
+
+OBJETIVO
+--------
+Acompanhar carga e descarga para evitar sobrecarga e descarga profunda.
+
+QUANDO USAR
+-----------
+Quando a bateria alimenta lampada, radio ou celular todo dia.
+Quando a energia acaba rapido demais durante a noite.
+Para decidir a hora de ligar e de desligar os aparelhos.
+
+NAO USE QUANDO
+--------------
+Se a bateria estiver estufada, rachada, vazando ou muito quente.
+Se houver cheiro forte, fumaca ou faisca nos cabos e terminais.
+
+MATERIAIS
+---------
+- Multimetro para tensao continua (visor do controlador).
+- Caderno e caneta para anotar as leituras.
+- Manual do controlador e da bateria com os valores de referencia.
+
+PROCEDIMENTO
+------------
+1. Anote o tipo e a tensao nominal da bateria no caderno.
+2. Copie do manual os valores de cheia e de vazia como referencia.
+3. Leia o visor sempre no mesmo horario, de manha e a noite.
+4. Meca com o multimetro so nos terminais externos da bateria.
+5. Encoste as pontas com firmeza, sem forcar e sem escorregar.
+6. Anote a tensao, a hora e quais aparelhos estavam ligados.
+7. Compare a leitura de hoje com a do dia anterior.
+8. Desligue aparelhos quando a leitura chegar perto da de vazia.
+9. Volte a ligar cargas leves so depois de a carga subir.
+10. Revise as anotacoes uma vez por semana e ajuste o uso.
+
+ATENCAO
+-------
+Monitorar nao conserta bateria ruim: leitura baixa todo dia indica
+bateria fraca, painel sujo ou consumo maior que a carga.
+Nunca encoste uma ponta na outra nem junte os polos com metal;
+o curto esquenta na hora e causa queimadura grave.
+Bateria de chumbo-acido solta gas que explode perto de faisca;
+meca em local ventilado e sem fumar por perto.
+Se a bateria esquentar muito, inchar ou vazar, pare de medir e
+afaste pessoas e animais do local.
+
+SE NAO TIVER
+------------
+Sem multimetro, acompanhe a carga so pelo visor do controlador.
+Sem caderno, anote na parede com carvao a tensao e a hora.
+Sem manual, siga a tendencia: queda todo dia indica consumo alto.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A tensao sobe de dia, cai devagar a noite e nunca chega na vazia.
+
+FONTES
+------
+Pratica consolidada de operacao de sistemas isolados, sem
+documento unico.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 08-023
+TITULO: Como identificar tipos de aço
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 20 minutos
+RISCO: medio
+EXIGE: ímã, arquivo, esmeril com disco, óculos e luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: aço, ferro, carbono, faísca, ímã, inoxidável, dureza
+==============================================================================
+
+OBJETIVO
+--------
+Separe sucata de aço por teor de carbono e tipo com ímã, arquivo e faíscas.
+
+QUANDO USAR
+-----------
+Quando encontrar sucata e não souber que aço usar numa ferramenta.
+Antes de forjar ou temperar peça de origem desconhecida.
+Para escolher aço de alto carbono para faca ou cinzel.
+
+NAO USE QUANDO
+--------------
+Peça que não pode ser sacrificada: o ensaio desgasta o metal.
+Sem óculos de proteção, nunca faça o ensaio de faíscas.
+
+MATERIAIS
+---------
+- Ímã (de geladeira ou de alto-falante).
+- Arquivo de aço ou lixa grossa.
+- Esmeril com disco abrasivo (pedra de amolar).
+- Óculos de proteção e luvas de couro.
+- Fundo escuro e pedaço de aço conhecido (opcional).
+
+PROCEDIMENTO
+------------
+1. Lixe a borda até aparecer metal brilhante; retire ferrugem e tinta.
+2. Aproxime o ímã: se grudar, é aço ou ferro fundido.
+3. Se não grudar e for prateado, marque inoxidável e pule o passo 12.
+4. Passe o arquivo na borda com uma passada firme.
+5. Se o arquivo morder fundo, é aço de baixo carbono.
+6. Se deslizar e quase não marcar, é aço temperado ou de alto carbono.
+7. Calce óculos e luvas; afaste pessoas da direção das faíscas.
+8. Apoie a peça no disco por aproximadamente dois segundos.
+9. Observe o feixe de faíscas sobre o fundo escuro.
+10. Sem bifurcação, baixo carbono; bifurcações médias, médio carbono.
+11. Muitas bifurcações juntas, alto carbono; faíscas curtas, ferro fundido.
+12. Repita com aço conhecido, compare e marque o tipo na peça.
+
+ATENCAO
+-------
+Faíscas queimam e podem incendiar pano ou grama; tenha água por perto.
+Sem óculos não faça o ensaio: faísca ou disco partido pode cegar.
+O ensaio desgasta e altera a têmpera; use sucata, nunca a peça final.
+A classificação é aproximada; para peça crítica, procure análise química.
+
+SE NAO TIVER
+------------
+Sem esmeril, esfregue a peça na pedra de amolar e leia as faíscas.
+Sem ímã, use ímã de geladeira; sem padrão, compare duas peças entre si.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O ímã gruda na borda limpa e o arquivo deixa marca visível.
+O feixe aparece nítido no fundo escuro e repete na segunda tentativa.
+
+FONTES
+------
+Ensaio de faíscas: prática consolidada em manuais de metalurgia e soldagem.
+(Tschorn, Spark Atlas of Steels; Geary, Welding). Exige análise química.

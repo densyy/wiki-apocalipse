@@ -1,0 +1,97 @@
+==============================================================================
+CODIGO: 13-022
+TITULO: Como produzir álcool por fermentação
+CATEGORIA: 13 - Química e conhecimentos científicos aplicados
+TEMPO: 45 minutos
+RISCO: alto
+EXIGE: água, açúcar, fruta ou suco, levedura, recipiente com saída de gás
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fermentação, álcool, etanol, levedura, açúcar, vinho, gás
+==============================================================================
+
+OBJETIVO
+--------
+Obtenha uma bebida alcoólica fraca por fermentação e reconheça quando
+ela está imprópria para beber.
+
+QUANDO USAR
+-----------
+Quando há fruta madura ou suco e açúcar e se quer uma bebida leve.
+Quando se quer entender como o açúcar vira álcool sem aparelhos.
+Quando não há bebida industrial e se aceita o risco de fazê-la em casa.
+
+NAO USE QUANDO
+--------------
+Quando não há recipiente que permita o gás sair sem entrar sujeira.
+Quando a fruta está mofada, apodrecida ou com cheiro estranho.
+Quando não se pode garantir higiene e água limpa.
+Não tente destilar: separar o álcool por calor concentra metanol e pode
+causar incêndio. Destilação caseira não é ensinada aqui.
+
+MATERIAIS
+---------
+- Água limpa (fervida e fria, se a água for duvidosa).
+- Açúcar comum.
+- Fruta madura esmagada ou suco sem conservante (ou só açúcar e água).
+- Levedura para vinho ou fermento de padeiro (levedura é fungo que
+  transforma açúcar em álcool).
+- Recipiente de vidro ou plástico com tampa que tenha saída de gás
+  (fecho hidráulico, ou pano limpo preso com elástico).
+- Colher e pano limpos.
+
+PROCEDIMENTO
+------------
+1. Lave e ferva a água; deixe esfriar até ficar morna, não quente.
+2. Lave o recipiente, a colher e a tampa com água quente e sabão.
+3. Dissolva aproximadamente 2 xícaras de açúcar em 1 xícara de água
+   morna; mexa até o açúcar sumir.
+4. Espalhe a levedura sobre aproximadamente 1/4 de xícara de água morna
+   e espere 10 minutos; se não espumar, descarte e comece de novo.
+5. Coloque a fruta esmagada ou o suco no recipiente.
+6. Despeje a calda de açúcar e a água restante sobre a fruta.
+7. Adicione a levedura ativada e mexa com a colher limpa.
+8. Cubra com pano limpo ou instale a saída de gás; nunca feche o
+   recipiente de forma totalmente vedada.
+9. Deixe em local escuro e fresco, entre aproximadamente 18 e 24 °C.
+10. Espere cerca de 7 dias; mexa uma vez por dia com a colher limpa.
+11. Quando o gás parar, coe o líquido para outro recipiente limpo.
+12. Deixe descansar 2 dias e coe de novo se houver sedimentos.
+
+ATENCAO
+-------
+A fermentação libera gás carbônico. Recipiente fechado pode estourar e
+ferir; deixe o gás sair sempre. A levedura produz etanol, que intoxica:
+não beba durante a fermentação e não dirija após beber. O álcool não
+tem dose segura segundo a OMS; evite em gravidez, menores e quem toma
+remédio. Metanol é incolor, inodoro e venenoso: pode aparecer em bebida
+caseira e atacar a visão. Dor de cabeça, náusea ou visão embaçada após
+beber exigem parar e procurar atendimento na hora. Mofo, cheiro podre
+ou líquido escuro significam descarte total: não cheire de perto.
+Nunca destile para fortificar: o calor concentra metanol e o vapor
+pode pegar fogo. Destiladores com solda e cobre podem liberar chumbo.
+Ferva apenas a água antes de usar; nunca aqueça o recipiente fechado.
+
+SE NAO TIVER
+------------
+Sem levedura de vinho, use fermento de padeiro; o resultado é menos
+agradável, mas serve para aprender o processo.
+Sem fecho hidráulico, prenda pano limpo com elástico: o gás sai e o
+pano barra insetos e poeira.
+Sem fruta, use apenas água, açúcar e levedura; a bebida fica sem sabor.
+Sem água limpa, ferva e esfrie antes de usar; não use água suja.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Aparecem bolhas e espuma na superfície após 1 ou 2 dias.
+O cheiro é de fruta e álcool, não de podridão.
+O gás diminui e o líquido fica mais claro com sedimentos no fundo.
+A bebida é leve, levemente doce e não tem cheiro de solvente.
+
+FONTES
+------
+Virginia Tech Extension, Clemson Extension e UGA CAES: fermentação de
+açúcar por Saccharomyces cerevisiae em aproximadamente 18 a 24 °C,
+higiene e saída de gás. Laboratório de Engenharia da Universidade de
+Maryland: gás carbônico deve ser venteado. CDC/NIOSH e FDA: metanol é
+incolor, venenoso e exige atendimento imediato. OPAS/OMS: não existe
+nível seguro de consumo de álcool.

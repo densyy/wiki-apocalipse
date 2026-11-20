@@ -1,0 +1,85 @@
+==============================================================================
+CODIGO: 03-080
+TITULO: Como interpretar bulas de medicamentos
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 10 minutos
+RISCO: alto
+EXIGE: bula ou folheto do medicamento, boa luz, caderno
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bula, remédio, dose, contraindicação, efeito colateral
+==============================================================================
+
+OBJETIVO
+--------
+Ler uma bula e identificar para que serve, como tomar e quando não usar.
+
+QUANDO USAR
+-----------
+Antes de tomar qualquer medicamento pela primeira vez.
+Ao receber remédio sem orientação clara de profissional.
+Ao trocar de medicamento ou de fabricante.
+Ao guardar remédio em casa para uso futuro.
+Quando aparecer sintoma novo depois de começar o remédio.
+
+NAO USE QUANDO
+--------------
+Não use a bula para inventar dose, trocar via de administração ou
+prolongar tratamento por conta própria.
+Não substitua orientação de profissional quando ela existir.
+
+MATERIAIS
+---------
+- Bula ou folheto que veio na embalagem (ou folheto da farmácia).
+- Boa luz ou lanterna.
+- Caderno e lápis para anotar nome e dose.
+- Embalagem com o lote e a validade (para conferir).
+
+PROCEDIMENTO
+------------
+1. Confira na bula o nome do princípio ativo, não só o nome comercial.
+2. Leia o campo "Para que este medicamento é indicado".
+3. Confira se a sua queixa aparece na indicação descrita.
+4. Leia "Quando não devo usar este medicamento" antes de qualquer dose.
+5. Se o seu caso aparecer ali, não tome o medicamento.
+6. Leia "Como devo usar este medicamento" para via, horário e duração.
+7. Tome apenas a dose escrita, sem arredondar nem dividir por conta.
+8. Leia "Quais os males que este medicamento pode me causar".
+9. Saiba reconhecer os efeitos adversos mais comuns antes de começar.
+10. Leia "O que fazer se alguém usar quantidade maior que a indicada".
+11. Anote no caderno o nome, a dose, o horário e o motivo do uso.
+12. Guarde a bula junto com o remédio até o fim do tratamento.
+
+ATENCAO
+-------
+A bula é um guia de segurança, não uma receita e não autoriza ninguém
+a prescrever. Erro de leitura de dose pode causar intoxicação.
+Nunca tome remédio de outra pessoa, mesmo que o sintoma pareça igual.
+Nunca use remédio cuja validade venceu ou cuja bula está ilegível.
+A seção de contraindicações manda mais que a de indicação: se houver
+conflito, não tome e procure orientação.
+Atenção especial a grávidas, lactantes, crianças e idosos: a bula
+pode trazer restrições específicas nesses casos.
+Interações com outros remédios, álcool ou alimentos podem mudar o
+efeito. Leia sempre essa parte se você toma mais de um medicamento.
+Se aparecer dificuldade de respirar, inchaço no rosto, rash ou
+vômito após tomar o remédio, pare e procure atendimento.
+
+SE NAO TIVER
+------------
+Sem a bula original: peça o folheto na farmácia ou no serviço de saúde.
+Sem consegui-la: não adivinhe a dose; não inicie o medicamento.
+Com bula molhada ou rasgada: peça outra antes de usar o remédio.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você consegue dizer em voz alta para que serve e qual é a dose.
+Você confirma que o seu caso não está nas contraindicações.
+Você sabe qual efeito adverso exige parar e procurar ajuda.
+
+FONTES
+------
+Modelo de bula de medicamentos da Anvisa, que define os campos
+"Para que", "Como devo usar", "Quando não devo usar" e "Reações
+adversas" (Resolução RDC nº 47/2009). Prática consolidada de
+orientação farmacêutica ao paciente. Este texto é um resumo
+operacional e não substitui orientação de profissional de saúde.

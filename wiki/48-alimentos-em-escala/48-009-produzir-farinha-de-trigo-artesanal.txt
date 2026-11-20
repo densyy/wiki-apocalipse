@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 48-009
+TITULO: Como produzir farinha de trigo artesanal
+CATEGORIA: 48 - Produção de alimentos em escala comunitária
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: trigo limpo e seco, moinho manual, peneira, sacos secos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: trigo, farinha, moagem, moinho, peneira, farelo, micotoxina
+==============================================================================
+
+OBJETIVO
+--------
+Produzir farinha de trigo limpa, seca e armazenável para o grupo.
+
+QUANDO USAR
+-----------
+Quando há trigo em grão e falta farinha comercial para a cozinha.
+Quando o grupo precisa moer grãos antes que estraguem no armazenamento.
+Quando existe moinho manual, pedra de moer ou almofariz grande.
+Quando se quer controlar a qualidade do que vai para o pão comunitário.
+
+NAO USE QUANDO
+--------------
+Quando o grão está mofado, úmido, com cheiro de mofo ou ardido.
+Quando há grãos verdes, rosados ou escurecidos, ou trigo empelotado.
+Quando o lote veio de origem desconhecida ou com suspeita de agrotóxico.
+Quando há fezes de roedor, insetos em grande número ou teia no trigo.
+Quando não há onde guardar a farinha seca e fechada depois de moer.
+Nesses casos, não moa para o grupo; descarte o lote com segurança.
+
+MATERIAIS
+---------
+- Trigo em grão limpo, seco e de origem conhecida.
+- Moinho manual, mós de pedra ou almofariz grande de pedra limpa.
+- Peneira fina ou pano limpo e firme, sem furos, para separar o farelo.
+- Balde, saco de pano ou pote com tampa, secos e sem resíduo químico.
+- Pano limpo e seco, escova e cesto para limpar e peneirar o grão.
+- Local seco, arejado e protegido de insetos para secar e guardar.
+
+PROCEDIMENTO
+------------
+1. Abra o saco e retire pedras, palha, grãos mofados e matéria estranha.
+2. Descarte qualquer grão com cheiro de mofo, cor verde ou mancha escura.
+3. Confira a secura: o grão deve ser duro e quebrar, não amassar mole.
+4. Peneire o trigo para tirar pó, terra e sementes miúdas.
+5. Ventile o trigo aos poucos, derramando-o diante de uma brisa ou leque.
+6. Repita a ventilação até o pó e a palha leve saírem junto com o vento.
+7. Se o grão estiver empoeirado, lave em água tratada e seque ao sol
+   em pano limpo até ficar completamente seco antes de moer.
+8. Ajuste o moinho para moagem grossa e teste com um punhado de trigo.
+9. Moa em porções pequenas, alimentando o moinho de forma lenta e constante.
+10. Não force o moinho nem deixe grão acumulado na entrada.
+11. Peneire a farinha sobre pano ou peneira fina para separar o farelo.
+12. Volte a moer o farelo que ficou na peneira e peneire de novo.
+13. Repita até a farinha ficar fina e sem pedaços de grão.
+14. Se o moinho esquentar, espere a farinha esfriar antes de ensacar.
+15. Ensace em pote ou saco limpo e seco, feche e anote a data.
+16. Guarde o recipiente fechado, longe do chão, do fogo e da umidade.
+
+ATENCAO
+-------
+O risco é intoxicação por micotoxinas e incêndio por pó de farinha.
+Grãos mofados podem conter micotoxinas que a moagem e o cozimento
+não eliminam; uma porção ruim contamina o lote inteiro de farinha.
+Cheiro de mofo, grão verde ou empelotado exige descartar o lote inteiro.
+Pó fino de farinha suspenso no ar pode pegar fogo perto de chama ou
+faísca; não fume, afaste o fogo e limpe o pó acumulado.
+O moinho de metal aquece a farinha; ensacá-la quente faz suar e mofar.
+Pedra ou metal que passa do moinho quebra o dente e fere quem come.
+Trigo com fezes de roedor ou muitos insetos espalha doença; não use.
+Se alguém tiver náusea, vômito ou mal-estar depois de comer o pão,
+pare de usar o lote, separe o produto e procure ajuda de saúde.
+
+SE NAO TIVER
+------------
+Sem moinho, esmague punhados pequenos em almofariz de pedra limpa.
+Sem peneira, use pano firme e limpo, sacudindo devagar sobre o balde.
+Sem saco novo, use pote com tampa ou balde limpo e seco, nunca saco
+que guardou produto químico, óleo ou combustível.
+Sem como testar a secura, deixe o grão secar mais ao sol; na dúvida,
+prefira não moer e procure trigo com origem conhecida.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A farinha é fina, seca e solta, sem grumos, cheiro estranho ou mofo.
+Não há pedras, insetos, palha ou farelo grande na farinha peneirada.
+O trigo estava limpo e seco antes de moer e o lote foi datado e fechado.
+A massa feita com a farinha não fica com cheiro azedo ou amargo.
+
+FONTES
+------
+Codex Alimentarius, Código de Práticas para Prevenção e Redução da
+Contaminação por Micotoxinas em Cereais (CXC 51-2003); Anvisa, Boas
+Práticas para Serviços de Alimentação (RDC 216/2004); FAO, orientações
+sobre armazenamento de grãos e redução de perdas pós-colheita.
+Prática consolidada de moagem artesanal de cereais, sem documento
+único. Este texto é resumo operacional e não substitui treinamento.

@@ -1,0 +1,85 @@
+==============================================================================
+CODIGO: 78-016
+TITULO: Como realizar inspeção de pontes
+CATEGORIA: 78 - Pontes, estradas e infraestrutura de transporte
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: prancheta, lanterna, fita metrica, capacete e colete
+REVISAO: 2026-11
+PALAVRAS-CHAVE: inspeção, ponte, vistoria, fissura, apoio, manutenção
+==============================================================================
+
+OBJETIVO
+--------
+Vistoriar uma ponte e registrar danos antes que virem falha estrutural.
+
+QUANDO USAR
+-----------
+Ao receber uma ponte ou apos obra de reparo na estrutura.
+Pelo menos duas vezes por ano e sempre apos cheias ou temporais.
+Quando aparecer rachadura, afundamento ou barulho anormal ao cruzar.
+Antes de liberar transito de carga acima do habitual na ponte.
+
+NAO USE QUANDO
+--------------
+Nao inspecione com vento forte, chuva ou piso escorregadio.
+Nao entre no vao sob a ponte com agua corrente forte.
+Nao faça vistoria sozinho em ponte isolada ou de difícil acesso.
+Nao substitua a inspeção tecnica por esta rotina simples.
+
+MATERIAIS
+---------
+- Prancheta, papel, caneta e camara fotografica (celular).
+- Lanterna potente para olhar a face inferior e os apoios (faroletro).
+- Fita metrica, regua e nivel de bolha para medir desniveis.
+- Capacete, colete reflexivo, luvas e calcado antiderrapante.
+- Martelete leve para testar o som do concreto (opcional).
+- Equipamento de acesso, se houver passarela de manutencao (escada).
+
+PROCEDIMENTO
+------------
+1. Leia o registro anterior e anote a data e o estado do tempo.
+2. Observe o entorno: erosao nas margens e agua represada.
+3. Meça e fotografe a largura e a altura livres do vao.
+4. Verifique a pista: rachaduras, afundamento e desgaste do piso.
+5. Confira juntas de dilatacao e drenos, que devem estar livres.
+6. Examine os parapeitos e corrimoes por dentro e por fora.
+7. Olhe as vigas e a face inferior com a lanterna, ponto por ponto.
+8. Bata levemente com o martelete: som oco indica descolamento.
+9. Meça a largura das fissuras com a regua e registre o local.
+10. Inspecione os apoios e encontros, procurando deslocamento.
+11. Verifique se ha ferrugem exposta ou concreto esfarelando.
+12. Compare com o registro anterior: toda mudanca e importante.
+13. Classifique cada dano como leve, medio ou urgente.
+14. Escreva o relatorio com fotos, medidas, data e nome do inspetor.
+
+ATENCAO
+-------
+Nunca inspecione uma ponte que apresente risco de queda iminente.
+Fissura que cresce, apoio deslocado ou barulho forte exigem interdicao.
+Nao fique de baixo da ponte com transito passando por cima.
+Use EPI: capacete, colete e calcado firme sao obrigatorios.
+Agua represada contra o apoio mina a fundacao e acelera a falha.
+Esta rotina detecta sinais, nao substitui calculo estrutural.
+Se notar risco urgente, sinalize, interdite e chame um engenheiro.
+
+SE NAO TIVER
+------------
+Sem martelete, use um objeto leve para ouvir o som do concreto.
+Sem faroletro, use lanterna de celular com luz forte.
+Sem prancheta, anote em papel e fotografe tudo com o celular.
+Sem acesso ao vao, inspecione o exterior e registre a limitacao.
+Sem registro anterior, crie um agora e use-o como linha de base.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Todas as partes foram vistas e registradas com foto e medida.
+O relatorio identifica cada dano, sua localizacao e gravidade.
+Os danos foram classificados e encaminhados para reparo.
+A proxima inspecao ficou agendada no registro da ponte.
+
+FONTES
+------
+Pratica consolidada de vistoria rotineira de pontes e manutencao
+preventiva, sem documento unico obrigatorio. Orientacoes gerais de
+inspecao visual de estruturas e de seguranca em obras viarias.

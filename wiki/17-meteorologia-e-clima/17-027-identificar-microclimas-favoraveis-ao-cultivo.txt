@@ -1,0 +1,82 @@
+==============================================================================
+CODIGO: 17-027
+TITULO: Como identificar microclimas favoráveis ao cultivo
+CATEGORIA: 17 - Meteorologia, clima e meio ambiente
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: caderno, lápis, termômetro, observação em dois turnos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: microclima, cultivo, horta, encosta, sombra, vento, geada
+==============================================================================
+
+OBJETIVO
+--------
+Identificar o microclima, clima de pequena área, favorável ao cultivo.
+
+QUANDO USAR
+-----------
+Antes de montar horta ou pomar em terreno novo.
+Quando parte da horta congela e outra parte não.
+Quando um canto seca rápido e outro fica úmido.
+Quando o vento derruba mudas ou resseca o solo.
+Quando for plantar espécie sensível a frio.
+
+NAO USE QUANDO
+--------------
+Não use para prometer proteção contra geada forte ou frente fria intensa.
+A observação visual não substitui dados de estação meteorológica.
+Em solo com suspeita de contaminação, não plante antes de investigar.
+
+MATERIAIS
+---------
+- Caderno e lápis.
+- Termômetro de ar simples (ou termômetro de cozinha).
+- Estacas ou pedras para marcar pontos.
+- Roupa para caminhar pelo terreno.
+- Relógio para comparar os turnos.
+
+PROCEDIMENTO
+------------
+1. Desenhe o terreno no caderno e marque o norte.
+2. Caminhe pelo terreno logo após o nascer do sol.
+3. Anote onde a luz chega primeiro e onde ainda há sombra.
+4. Volte no final da tarde e marque onde o sol bate por último.
+5. Marque as encostas voltadas ao norte; no Brasil recebem mais sol.
+6. Marque fundos de vale e baixadas com outro sinal.
+7. Anote onde o ar frio parece se acumular ao amanhecer.
+8. Observe a direção do vento e onde o terreno o bloqueia.
+9. Procure musgo, solo escuro e orvalho persistente.
+10. Meça a temperatura na sombra, na altura do peito, em cada ponto.
+11. Repita as medições em um segundo dia, no mesmo horário.
+12. Escolha o ponto com mais sol, abrigo do vento e umidade.
+13. Marque o ponto escolhido com estaca ou pedra.
+
+ATENCAO
+-------
+Fundos de vale acumulam ar frio: evite cultivos sensíveis a geada.
+Encostas voltadas ao norte ganham calor, mas podem ficar secas.
+Sombra em excesso reduz o crescimento da maioria das hortaliças.
+Quebra-ventos ajudam, mas competem por água e luz com a horta.
+Um único dia de observação não revela o clima da estação inteira.
+Com cheiro de combustível ou solo morto, não plante: procure ajuda.
+
+SE NAO TIVER
+------------
+Sem termômetro, compare o orvalho e a secura do solo ao amanhecer.
+Sem os dois turnos, observe ao menos no fim da tarde.
+Sem estaca, use pedra ou galho para marcar o ponto.
+Se não puder observar, adie o plantio em vez de chutar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O desenho mostra pontos com insolação e abrigo diferentes.
+O ponto escolhido recebe sol na maior parte do turno.
+O local fica protegido do vento e não é fundo de vale.
+A estaca está no ponto observado em dois dias distintos.
+
+FONTES
+------
+Embrapa: orientações sobre geada, relevo e exposição norte (CNPUV/Uva).
+Embrapa: publicações "Microclima" e "Caracterização microclimática".
+FAO: capítulos "Trees and the microclimate" e "Windbreaks".
+Prática consolidada de observação de campo; resumo operacional.

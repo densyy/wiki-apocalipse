@@ -1,0 +1,77 @@
+==============================================================================
+CODIGO: 62-002
+TITULO: Como planejar uma pequena criação de bovinos
+CATEGORIA: 62 - Pecuária, reprodução e processamento animal
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: caderno, calculadora, medidas da terra, preço dos insumos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bovinos, gado, criação, pasto, lotação, custo, rebanho
+==============================================================================
+
+OBJETIVO
+--------
+Definir no papel quantos animais a terra sustenta e o custo da criação.
+
+QUANDO USAR
+-----------
+Antes de comprar o primeiro animal.
+Quando se recebe uma área e é preciso saber quantas cabeças cabem.
+Ao trocar de categoria ou quando o pasto está degradado.
+
+NAO USE QUANDO
+--------------
+Sem água garantida na seca, não compre animais.
+Sem dinheiro para comer e morar, não invista na criação.
+
+MATERIAIS
+---------
+- Caderno, lápis e calculadora.
+- Medida da área em hectares e descrição do solo.
+- Preços de cerca, sal, vacina e mão de obra.
+
+PROCEDIMENTO
+------------
+1. Escreva o objetivo: cria, recria, engorda ou leite.
+2. Meça a área em hectares e anote o solo e as chuvas.
+3. Some o peso vivo dos animais que pretende manter.
+4. Divida o peso por 450 para obter a UA total.
+5. Sem peso, use: bezerro até 1 ano = 0,25 UA.
+6. Novilho até 2 anos = 0,5 UA; até 3 anos = 0,75 UA.
+7. Vaca ou boi = 1 UA; touro = 1,25 UA.
+8. Estime 0,3 a 1 hectare por animal adulto.
+9. Calcule o consumo: 2,5% a 3% do peso vivo por dia.
+10. Desconte cerca de metade do capim perdido no pastejo.
+11. Reserve capim, capineira ou silo para a seca.
+12. Divida a área em piquetes com cerca e bebedouro.
+13. Retire os animais após 1 a 3 dias no piquete.
+14. Some cercas, sal, vacinas e mão de obra.
+15. Compare o custo anual com a receita da venda.
+16. Aceite retorno de 5 a 15 anos, não do primeiro ano.
+17. Comece em 10% a 30% da área e amplie aos poucos.
+
+ATENCAO
+-------
+Passar animais além do que o pasto comporta degrada a terra.
+O capim some, o solo fica exposto e os animais emagrecem.
+Faltar água na seca pode matar os animais em poucos dias.
+Cercas fracas deixam o gado escapar e podem ferir pessoas.
+
+SE NAO TIVER
+------------
+Sem terra, arrende ou comece com poucos animais de terceiros.
+Sem medida da área, peça o cadastro ou use uma trena.
+Sem experiência, procure a assistência técnica rural local.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O caderno traz a área em hectares, a UA e os custos anotados.
+A quantidade de animais cabe no pasto e há reserva para a seca.
+Piquetes, cercas e bebedouros estão marcados no desenho.
+
+FONTES
+------
+Publicações da Embrapa Gado de Corte sobre área por animal,
+unidade animal, lotação e custos de produção; circular técnica
+da Embrapa sobre pastejo e lotação, 2020. Prática consolidada;
+resumo operacional, não substitui a assistência técnica.

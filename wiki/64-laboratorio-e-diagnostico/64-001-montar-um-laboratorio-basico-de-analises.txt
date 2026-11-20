@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 64-001
+TITULO: Como montar um laboratório básico de análises
+CATEGORIA: 64 - Laboratório, diagnóstico e análises
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: local arejado, bancada firme, luva, óculos, avental, água corrente
+REVISAO: 2026-11
+PALAVRAS-CHAVE: laboratório, análises, bancada, vidraria, reagentes, teste
+==============================================================================
+
+OBJETIVO
+--------
+Deixar pronto um espaço de análises simples, seguro e organizado.
+
+QUANDO USAR
+-----------
+Quando precisar testar água, solo ou alimentos com métodos simples.
+Quando houver espaço e materiais para montar uma bancada.
+
+NAO USE QUANDO
+--------------
+Não monte a bancada onde haja crianças, animais, comida ou fogo.
+Não analise reagentes sem rótulo, desconhecidos ou vencidos.
+Não faça reações com vapores tóxicos sem exaustão.
+
+MATERIAIS
+---------
+- Bancada firme e nivelada (mesa coberta com plástico).
+- Luva de nitrilo ou borracha (luva doméstica para material não corrosivo).
+- Óculos de proteção com armação firme e avental limpo.
+- Vidraria limpa: tubos, copos e vidros de relógio (frascos de vidro).
+- Conta-gotas, papel de pH, caderno, etiquetas, frascos tampados, areia.
+
+PROCEDIMENTO
+------------
+1. Escolha local arejado, com luz, longe de comida, fogo e gente.
+2. Instale a bancada firme, nivelada, com borda que retenha derrames.
+3. Separe área limpa para amostras e outra para reagentes e resíduos.
+4. Rotule cada frasco com nome, concentração e data, sem abreviar.
+5. Guarde reagentes incompatíveis em frascos distintos e tampados.
+6. Coloque luva, óculos e avental; teste o calor com a bancada vazia.
+7. Anote no caderno a análise, a data e o resultado observado.
+8. Feche os frascos e lave a bancada com água e pano limpo.
+
+ATENCAO
+-------
+Nunca pipete com a boca; use pipeta ou conta-gotas.
+Ao diluir ácido, despeje o ácido na água, nunca o contrário.
+Não misture reagentes sem saber o resultado; gases tóxicos podem se formar.
+Vidraria quebrada corta; descarte em recipiente rígido e fechado.
+Se respingar, lave olho ou pele com água corrente e pare a análise.
+
+SE NAO TIVER
+------------
+Sem bancada, use mesa firme coberta com papel ou plástico limpo.
+Sem óculos, não manuseie corrosivos; espere ou peça ajuda.
+Sem vidraria, use frascos limpos, nunca em reação com calor forte.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A bancada está firme, seca e livre de comida e objetos soltos.
+Cada frasco tem rótulo legível com nome, concentração e data.
+Proteção está ao alcance e o caderno registra as análises.
+
+FONTES
+------
+Prática consolidada de segurança de laboratórios básicos.
+Boas práticas e biossegurança (OMS, OPAS, CDC); resumo operacional.

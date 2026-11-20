@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 38-023
+TITULO: Como determinar os dias da semana matematicamente
+CATEGORIA: 38 - Astronomia e medição do tempo
+TEMPO: 15 minutos
+RISCO: baixo
+EXIGE: papel, lápis (ou carvão), data completa com dia, mês e ano
+REVISAO: 2026-11
+PALAVRAS-CHAVE: dia da semana, calendário, cálculo, zeller, data, bissexto
+==============================================================================
+
+OBJETIVO
+--------
+Calcular com papel e lápis o dia da semana de qualquer data
+do calendário gregoriano.
+
+QUANDO USAR
+-----------
+Quando pararem o relógio, o celular e o calendário de parede.
+Quando um documento antigo traz só dia, mês e ano, sem o dia.
+Para conferir uma data que outra pessoa lembrar de memória.
+Para montar um calendário sem consultar fonte nenhuma.
+
+NAO USE QUANDO
+--------------
+Para datas anteriores a 1582: vale a regra juliana e o erro é comum.
+Para Páscoa e feriados móveis, que dependem também da Lua.
+
+MATERIAIS
+---------
+- Folha de papel e lápis (ou carvão, giz).
+- A data completa: dia, mês e ano.
+
+PROCEDIMENTO
+------------
+1. Escreva o dia, o mês e o ano da data em papel.
+2. Mar 10, abr 13, mai 15, jun 18, jul 20, ago 23.
+3. Set 26, out 28, nov 31, dez 33, jan 36, fev 39.
+4. Se o mês for janeiro ou fevereiro, subtraia 1 do ano.
+5. Some: dia + número do mês + ano ajustado.
+6. Some a parte inteira do ano dividido por 4 (descarte o resto).
+7. Subtraia a parte inteira do ano/100 e some a do ano/400.
+8. Some 6 ao total, divida por 7 e guarde só o resto (módulo 7).
+9. Leia o resto: 0=dom, 1=seg, 2=ter, 3=qua, 4=qui, 5=sex, 6=sáb.
+10. Exemplo 19/11/2026: 19+31+2026+506-20+5=2567; mais 6 dá 4=qui.
+
+ATENCAO
+-------
+Vale só para o calendário gregoriano, o usado hoje no Brasil.
+Antes de 1582 o resultado pode errar; não use para datas antigas.
+Em janeiro e fevereiro use o ano anterior no passo 4 e nos demais.
+Parte inteira é dividir e descartar o resto, não arredondar.
+O 6 do passo 8 só põe o domingo no zero; não esqueça de somá-lo.
+
+SE NAO TIVER
+------------
+Sem papel, decore os números dos meses e faça a conta na cabeça.
+Sem decorar, conte dia a dia a partir de uma data já conhecida.
+Sem dia, mês e ano completos, não dá para calcular: busque o registro.
+
+COMO SABER QUE DEU CERTO
+------------------------
+1 de janeiro de 2000 deve dar 6=sábado; confira a conta.
+
+FONTES
+------
+Dicionário de Algoritmos e Estruturas de Dados do NIST, entrada
+Zeller's congruence (Paul E. Black, 2020); Christian Zeller,
+Kalender-Formeln, Acta Mathematica 9, 1886. Método consolidado.

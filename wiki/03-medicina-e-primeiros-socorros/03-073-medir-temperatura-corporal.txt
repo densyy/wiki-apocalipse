@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 03-073
+TITULO: Como medir temperatura corporal
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 5 minutos
+RISCO: medio
+EXIGE: termômetro digital, papel, caneta
+REVISAO: 2026-11
+PALAVRAS-CHAVE: temperatura, febre, termômetro, axila, hipertermia, frio
+==============================================================================
+
+OBJETIVO
+--------
+Aferir a temperatura corporal e reconhecer quando o valor exige atendimento.
+
+QUANDO USAR
+-----------
+Pessoa com sensação de calor, suor ou calafrios.
+Suspeita de febre durante doença ou infecção.
+Criança ou idoso com aparência abatida.
+Suspeita de insolação ou de hipotermia após exposição ao sol ou ao frio.
+
+NAO USE QUANDO
+--------------
+Não use a boca em pessoa inconsciente, em convulsão ou que não colabora.
+Não use termômetro de vidro rachado ou com líquido derramado.
+Não meça logo após banho, corrida ou bebida quente ou fria.
+
+MATERIAIS
+---------
+- Termômetro digital (ou termômetro de vidro comum).
+- Álcool 70% (ou água e sabão), papel e caneta.
+
+PROCEDIMENTO
+------------
+1. Lave as mãos com água e sabão ou passe álcool 70% nas mãos.
+2. Limpe a ponta do termômetro com álcool 70% ou água e sabão.
+3. Espere cerca de 15 a 30 minutos se a pessoa tomou bebida quente ou
+fria, tomou banho ou correu.
+4. Peça à pessoa para sentar quieta e deixar a axila seca.
+5. Coloque a ponta do termômetro no centro da axila.
+6. Aperte o braço contra o tronco, sobre o termômetro.
+7. Espere o apito do aparelho ou aproximadamente 3 minutos no de vidro.
+8. Retire o termômetro sem tocar na ponta e leia o número marcado.
+9. Anote por escrito o valor, a hora e a via usada.
+10. Limpe a ponta e guarde o aparelho em local seco.
+
+ATENCAO
+-------
+A axila marca um pouco menos que a boca; não compare vias diferentes.
+Em adulto, febre axilar costuma começar perto de 37,5 °C (aproximadamente).
+Valor perto de 39 °C ou abaixo de 35 °C exige atendimento urgente.
+Bebê com menos de 3 meses e 38 °C na axila: atendimento imediato.
+Confusão, rigidez de nuca, manchas na pele ou falta de ar: procure ajuda.
+Não dê remédio sem orientação; nunca dê aspirina a criança com febre.
+
+SE NAO TIVER
+------------
+Sem termômetro, não dá para obter o número: observe pele quente e seca,
+suor, calafrios ou confusão e procure atendimento se houver risco (03-059).
+Sem álcool, lave a ponta com água e sabão e seque com pano limpo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O aparelho mostra número estável e o valor, a hora e a via ficam anotados.
+
+FONTES
+------
+MedlinePlus, Biblioteca Nacional de Medicina dos EUA (febre), cons. 2026-11;
+demais limites e sinais por prática consolidada de primeiros socorros.

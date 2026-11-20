@@ -1,0 +1,82 @@
+==============================================================================
+CODIGO: 04-054
+TITULO: Como gerar eletricidade com fluxo de água
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 3 horas
+RISCO: alto
+EXIGE: riacho com fluxo, gerador 12V, bateria 12V, fiação isolada
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, rio, hidro, turbina, gerador, bateria, 12V
+==============================================================================
+
+OBJETIVO
+--------
+Gerar energia em 12V com água corrente para carregar bateria
+e alimentar lâmpadas e aparelhos pequenos.
+
+QUANDO USAR
+-----------
+Quando houver riacho ou canal com fluxo constante perto do abrigo.
+Quando for preciso carregar bateria 12V sem sol ou combustível.
+Quando a carga for pequena: luz, rádio ou celular em 12V.
+Quando for possível trabalhar sempre fora da água e a seco.
+
+NAO USE QUANDO
+--------------
+Em enchente, enxurrada ou correnteza forte e funda.
+Se for preciso entrar na água acima do joelho para instalar.
+Para ligar na rede da casa ou em aparelho de tomada comum.
+
+MATERIAIS
+---------
+- Roda com pás ou hélice pequena (roda de bicicleta, balde).
+- Motor de corrente contínua 12V ou alternador pequeno (dínamo).
+- Correia, polia ou eixo para acoplar a roda ao gerador.
+- Bateria 12V e caixa para manter a bateria longe da água.
+- Fios isolados íntegros, sem emenda exposta, e fita isolante.
+- Controlador de carga 12V ou diodo de bloqueio (proteção).
+- Estacas, corda e tábuas para suporte e canal de água.
+- Multímetro ou lâmpada de teste 12V (para conferir).
+
+PROCEDIMENTO
+------------
+1. Observe o riacho da margem por 10 minutos antes de mexer.
+2. Escolha trecho raso, com fluxo firme e acesso seco pela margem.
+3. Marque o ponto e fixe estacas para prender o suporte fora da água.
+4. Monte um canal estreito de tábuas para concentrar o fluxo.
+5. Fixe a roda com pás no canal, girando livre sem travar.
+6. Acople o eixo da roda ao motor 12V com correia ou polia.
+7. Fixe o motor em base seca, alta e coberta contra respingo.
+8. Ligue os fios do motor ao controlador e depois à bateria.
+9. Mantenha a bateria em caixa seca, longe da água e do canal.
+10. Libere a água e confira se a roda gira firme sem vibrar.
+11. Meça a saída: deve acender a lâmpada 12V ou subir a tensão.
+12. Amarre e proteja os fios longe do chão molhado e do caminho.
+13. Teste só aparelhos 12V, um por vez, começando pela luz.
+14. Desligue e trave a roda antes de ajustar qualquer peça.
+
+ATENCAO
+-------
+Água e eletricidade juntas podem matar por choque e afogamento.
+Nunca entre em correnteza para instalar ou destravar a roda.
+Trabalhe sempre da margem, com calçado fechado e mãos secas.
+Use só 12V: nunca ligue este sistema na rede ou em 220V.
+Emenda exposta, fio na água ou bateria molhada: desligue tudo.
+Chuva forte ou água subindo: trave a roda e afaste a bateria.
+Este sistema não alimenta geladeira, chuveiro ou ferramenta.
+
+SE NAO TIVER
+------------
+Sem controlador, use diodo em série e vigie a carga da bateria.
+Sem motor 12V, não improvise com rede elétrica: troque de fonte.
+Sem tábuas, estreite o canal com pedras e terra da margem.
+Sem multímetro, teste só com lâmpada 12V conhecida e boa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A roda gira contínua sem travar e sem jogar água no motor.
+A lâmpada 12V acende estável e a bateria segura carga.
+
+FONTES
+------
+Prática consolidada de microgeração em baixa tensão, sem documento único.

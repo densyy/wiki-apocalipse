@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 08-022
+TITULO: Como identificar diferentes tipos de metais
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: ímã, lixa, rebolo, óculos de proteção, luvas, amostras conhecidas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: metal, aço, ferro, alumínio, cobre, sucata, ímã, faísca
+==============================================================================
+
+OBJETIVO
+--------
+Separar sucata em ferro, aço, alumínio, cobre e latão com testes simples.
+
+QUANDO USAR
+-----------
+Quando precisar escolher metal para fabricar uma ferramenta.
+Quando for separar sucata antes de derreter ou vender.
+Quando desconfiar que o pedaço é chumbo ou outro metal perigoso.
+
+NAO USE QUANDO
+--------------
+Peça com aresta cortante sem luva, peça quente ou recipiente fechado.
+
+MATERIAIS
+---------
+- Ímã preso a um cordão.
+- Lixa ou pedra de amolar.
+- Amostras conhecidas de aço e de alumínio.
+- Rebolo com proteção, óculos e luvas grossas.
+- Local escuro, seco e ventilado, longe de inflamáveis.
+
+PROCEDIMENTO
+------------
+1. Lixe a peça até aparecer metal brilhante.
+2. Observe a cor: vermelho é cobre, amarelo é latão, branco é alumínio,
+   ferro ou aço.
+3. Aproxime o ímã: se grudar, é ferro ou aço.
+4. Compare o peso com a amostra do mesmo tamanho: alumínio é leve,
+   aço é pesado e chumbo é bem mais pesado.
+5. Risce com a lixa: alumínio deixa pó claro, aço deixa pó escuro.
+6. Bata com martelo de madeira: som surdo indica ferro rachado.
+7. Calce óculos e luvas; afaste pessoas e inflamáveis do rebolo.
+8. Encoste a peça no rebolo por aproximadamente um segundo, sem força.
+9. Leia a faísca: aço solta ramos, ferro puro solta traços retos e
+   ferro fundido solta faíscas curtas.
+10. Repita na amostra conhecida, compare e separe as peças por família.
+
+ATENCAO
+-------
+A faísca queima e pode cegar: nunca teste sem óculos.
+O disco pode quebrar: confira o rebolo antes e nunca force a peça.
+Pó de metal é inflamável e tóxico: não inale, limpe com pano úmido.
+Chumbo, cádmio e berílio envenenam: não lixe; o teste dá só a família.
+
+SE NAO TIVER
+------------
+Sem rebolo, use cor, ímã, peso e risco; a identificação fica incerta.
+Sem ímã, pendure uma agulha ímantada num fio e aproxime da peça.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O ímã gruda no ferro e não gruda no alumínio nem no cobre.
+A faísca da peça repete o desenho da amostra conhecida.
+
+FONTES
+------
+Prática consolidada de oficina, sem documento único; densidades: NIST,
+X-Ray Mass Attenuation Coefficients; propriedades: Lumen Learning.

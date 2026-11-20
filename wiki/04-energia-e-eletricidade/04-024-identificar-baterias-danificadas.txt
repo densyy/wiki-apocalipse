@@ -1,0 +1,88 @@
+==============================================================================
+CODIGO: 04-024
+TITULO: Como identificar baterias danificadas
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 20 minutos
+RISCO: alto
+EXIGE: luvas, óculos de proteção, local ventilado
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bateria, pilha, inchaço, vazamento, defeito, segurança
+==============================================================================
+
+OBJETIVO
+--------
+Separar baterias com sinais de dano antes que causem fogo ou
+contaminação química.
+
+QUANDO USAR
+-----------
+Quando uma bateria esquentar além do normal no uso ou na carga.
+Quando um aparelho descarregar rápido demais sem motivo claro.
+Quando houver cheiro forte, chiado ou calor perto da bateria.
+Quando a bateria cair, molhar ou passar muito tempo no calor.
+Quando for reutilizar baterias guardadas há muito tempo.
+
+NAO USE QUANDO
+--------------
+Quando houver fumaça, chama ou calor que impeça aproximação.
+Afaste pessoas do local e chame ajuda em vez de inspecionar.
+Não inspecione bateria presa em aparelho quente ou deformado.
+
+MATERIAIS
+---------
+- Luvas de borracha ou de limpeza (saco plástico grosso).
+- Óculos de proteção (óculos de construção).
+- Lanterna (luz do celular).
+- Saco plástico seco para isolar a bateria suspeita.
+- Pano seco para limpar só a parte externa.
+
+PROCEDIMENTO
+------------
+1. Desligue o aparelho e retire o carregador da tomada.
+2. Calce as luvas e coloque os óculos antes de tocar.
+3. Leve a bateria para local ventilado e longe de inflamáveis.
+4. Observe o corpo da bateria com a lanterna, sem abrir nada.
+5. Procure inchaço, abaulamento, tampa torta ou capa estufada.
+6. Procure vazamento, pó branco, crosta verde ou mancha escura.
+7. Procure amassado, furo, corte, ferrugem ou terminal derretido.
+8. Cheire de longe, sem aproximar o nariz, e note cheiro forte.
+9. Aproxime o dorso da mão para sentir calor fora do normal.
+10. Escute por alguns segundos chiado, estalo ou borbulhamento.
+11. Separe na hora a bateria que tiver qualquer um desses sinais.
+12. Coloque a suspeita sozinha em saco plástico seco.
+13. Mantenha a suspeita longe de metal, calor e outras baterias.
+14. Não recarregue, não aperte e não tente consertar a suspeita.
+
+ATENCAO
+-------
+Bateria danificada pode pegar fogo, soltar gás tóxico e queimar
+a pele com o líquido vazado. O que mata é o incêndio e a fumaça
+tóxica em local fechado.
+Nunca fure, aperte, amasse ou tente desinchar bateria estufada.
+Nunca carregue bateria inchada, quente, vazando ou com cheiro.
+Não abra o aparelho para retirar bateria presa ou deformada.
+Líquido vazado queima pele e olhos: não esfregue nem prove.
+Este procedimento só identifica o dano e não conserta a bateria.
+Se houver fumaça, chama, calor crescente ou cheiro muito forte,
+afaste-se, ventile e chame ajuda.
+
+SE NAO TIVER
+------------
+Sem luvas, use dois sacos plásticos grossos nas mãos e evite
+tocar no vazamento. Troque o saco se molhar ou rasgar.
+Sem óculos de proteção, mantenha distância maior e não se
+abaixe sobre a bateria durante a inspeção.
+Sem lanterna, inspecione de dia perto de janela ou ao ar livre.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada bateria termina em um de dois grupos claros: normal ou
+suspeita. A suspeita fica isolada em saco próprio, sem uso.
+Nenhuma bateria com inchaço, vazamento, calor ou cheiro segue
+em uso ou entra no carregador.
+
+FONTES
+------
+Orientações da EPA dos Estados Unidos sobre baterias de lítio
+danificadas e defeituosas; prática consolidada de segurança
+com baterias de chumbo e alcalinas, sem documento único.

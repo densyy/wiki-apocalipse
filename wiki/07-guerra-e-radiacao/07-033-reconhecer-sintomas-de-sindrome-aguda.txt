@@ -1,0 +1,79 @@
+==============================================================================
+CODIGO: 07-033
+TITULO: Como reconhecer sintomas de síndrome aguda da radiação
+CATEGORIA: 07 - Guerra, radiação e catástrofes nucleares
+TEMPO: 20 minutos
+RISCO: critico
+EXIGE: papel, caneta, relógio ou celular com hora
+REVISAO: 2026-11
+PALAVRAS-CHAVE: radiação, enjoo, vômito, diarreia, febre, pele, socorro
+==============================================================================
+
+OBJETIVO
+--------
+Reconheça os sinais de enjoo de radiação e decida quando pedir socorro.
+
+QUANDO USAR
+-----------
+Quando houve explosão nuclear ou acidente com fonte forte perto.
+Quando a pessoa recebeu radiação no corpo inteiro em minutos.
+Quando várias pessoas vomitam juntas após o mesmo evento.
+Quando for preciso separar quem precisa de socorro primeiro.
+Quando alguém achou fonte metálica estranha e passou mal depois.
+
+NAO USE QUANDO
+--------------
+Não use para explicar doença comum sem exposição alta e rápida.
+Não use para queimadura só na pele sem sintoma de corpo inteiro.
+
+MATERIAIS
+---------
+- Papel e caneta (substituto: risco na parede e memória).
+- Relógio ou celular com hora (substituto: contar as horas pelo sol).
+- Lanterna ou luz do celular para ver pele e boca.
+
+PROCEDIMENTO
+------------
+1. Confirme que houve exposição alta de corpo inteiro em minutos.
+2. Anote a hora da exposição e a hora de cada sintoma observado.
+3. Observe náusea, vômito, dor de cabeça e diarreia no início.
+4. Marque quantos minutos após a exposição o vômito começou.
+5. Entenda que vômito em minutos indica dose maior que em horas.
+6. Observe a pele: vermelhidão, coceira, inchaço e formigamento.
+7. Observe queda de cabelo e febre nos dias depois da exposição.
+8. Não confunda a melhora de horas ou dias com a cura definitiva.
+9. Espere a volta dos sintomas: febre, cansaço, diarreia e sangramento.
+10. Considere grave confusão, desmaio, convulsão ou diarreia com sangue.
+11. Mantenha a pessoa abrigada e deitada até o socorro ser seguro.
+12. Leve a anotação de horas e sintomas para mostrar ao socorro.
+
+ATENCAO
+-------
+Enjoo de radiação é a síndrome aguda da radiação em corpo inteiro.
+Melhora falsa de horas ou dias não é cura e engana muita gente.
+Estresse após explosão causa náusea sem radiação alta no corpo.
+Só há síndrome aguda com dose alta e penetrante em poucos minutos.
+Poeira no corpo não confirma dose alta nem descarta dose alta.
+Vômito com sangue, febre alta e confusão exigem socorro urgente.
+Este roteiro não trata a doença e não substitui atendimento médico.
+Não saia do abrigo para buscar socorro antes da ordem segura.
+
+SE NAO TIVER
+------------
+Sem papel, risque os horários na parede ou decore em voz alta.
+Sem relógio, conte o tempo entre a exposição e o primeiro vômito.
+Sem ajuda médica, priorize abrigo, água limpa e repouso do doente.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você anota hora da exposição e hora de cada sintoma observado.
+Você cita as fases na ordem: início, melhora falsa e volta pior.
+Você separa quem vomitou em minutos para socorro mais urgente.
+
+FONTES
+------
+Página sobre síndrome aguda da radiação do CDC americano.
+Guia clínico sobre síndrome aguda da radiação do CDC americano.
+Folheto da OMS e da AIEA sobre reconhecer lesão por radiação.
+Tabela de fases da síndrome aguda do programa REMM americano.
+Guia de comunicação após detonação nuclear da FEMA.

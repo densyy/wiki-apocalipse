@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 08-048
+TITULO: Como realizar manutenção básica em motores
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 45 minutos
+RISCO: medio
+EXIGE: motor frio, manual, óleo e filtro corretos, chave de vela, ventilação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: motor, manutenção, óleo, filtro de ar, vela, gerador
+==============================================================================
+
+OBJETIVO
+--------
+Conferir e trocar óleo, filtro de ar e vela para o motor durar mais.
+
+QUANDO USAR
+-----------
+Antes de usar gerador, motosserra ou bomba que ficou semanas parado.
+Quando a partida fica difícil, aparece fumaça escura ou cai a potência.
+Ao completar as horas de uso indicadas no manual do fabricante.
+
+NAO USE QUANDO
+--------------
+Com motor quente, com combustível, em lugar fechado ou sem ventilação.
+Com vazamento de óleo ou gasolina, barulho metálico ou superaquecimento:
+pare e leve a um profissional.
+
+MATERIAIS
+---------
+- Manual do fabricante; óleo novo do grau indicado e lata metálica fechada.
+- Filtro de ar e vela novos (ou limpar os antigos, se o manual permitir).
+- Chave de vela, pincel, pano, funil, luvas e óculos de proteção.
+
+PROCEDIMENTO
+------------
+1. Desligue o motor, espere esfriar e retire o cabo da vela.
+2. Trabalhe ao ar livre, longe de chamas e brasas; não fume.
+3. Leia o manual e anote o tipo de óleo e a folga da vela.
+4. Confira o nível com a vareta, com o motor no plano, antes de cada uso.
+5. Limpe a sujeira em volta da tampa e do bujão; abra e escoe o óleo usado.
+6. Reencaixe o bujão sem exagerar e encha com óleo até a marca da vareta.
+7. Retire a tampa do filtro, limpe a caixa e troque o filtro de papel sujo.
+8. Se o filtro for de espuma, lave, seque e umedeça com óleo novo.
+9. Retire a vela, limpe os eletrodos e ajuste a folga conforme o manual.
+10. Reinstale a vela, reconecte o cabo e escove as aletas do cilindro.
+11. Dê partida ao ar livre, deixe estabilizar, desligue e refaça o nível.
+
+ATENCAO
+-------
+Gasolina inflama fácil: nunca reabasteça com motor quente e não fume perto.
+Motor ligado em lugar fechado solta monóxido de carbono, que mata sem aviso.
+Vela e escapamento queimam; filtro mal posto ou óleo errado danificam motor.
+Fumaça escura, cheiro de gasolina ou barulho metálico: pare, procure ajuda.
+
+SE NAO TIVER
+------------
+Sem chave de vela, use a que veio com o equipamento; nunca use alicate.
+Sem filtro novo, limpe o antigo com pincel; se estiver rasgado, não ligue.
+Sem óleo do grau certo, não ligue; sem manual, pergunte ao fabricante.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A vareta marca o nível entre os limites, sem espuma ou cheiro de gasolina.
+O motor parte com poucas puxadas, não faz fumaça e não deixa óleo no chão.
+
+FONTES
+------
+Agenda de manutenção da Briggs & Stratton: troca de óleo após 5 horas e a
+cada 50 horas ou ano; filtro limpo a cada 25 horas; vela e filtro por ano.
+Demais passos são prática consolidada; siga sempre o manual do fabricante.

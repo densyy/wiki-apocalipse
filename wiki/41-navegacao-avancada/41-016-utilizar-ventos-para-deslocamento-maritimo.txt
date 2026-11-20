@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 41-016
+TITULO: Como utilizar ventos para deslocamento marítimo
+CATEGORIA: 41 - Navegação avançada e técnicas de expedição
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: embarcação com vela, colete salva-vidas, referência de vento
+REVISAO: 2026-11
+PALAVRAS-CHAVE: vento, vela, navegar, deslocamento, rumo, bordos, virar
+==============================================================================
+
+OBJETIVO
+--------
+Usar a força do vento para mover a embarcação e controlar a rota.
+
+QUANDO USAR
+-----------
+Quando o motor não funciona ou não há combustível.
+Quando o vento é favorável e a rota permite navegar à vela.
+Quando é preciso avançar contra o vento por meio de bordos.
+Quando a tripulação precisa reduzir a velocidade em vento forte.
+
+NAO USE QUANDO
+--------------
+Quando há tempestade, vento acima da capacidade da embarcação ou
+mar bravo. Navegar à vela nessas condições pode tombar o barco.
+Quando não há colete salva-vidas para todos a bordo.
+Quando a tripulação não sabe virar o barco nem reduzir a vela.
+
+MATERIAIS
+---------
+- Embarcação com casco, vela, mastro, escota (corda da vela) e leme.
+- Colete salva-vidas vestido por cada pessoa a bordo.
+- Deriva ou quilha, lâmina sob o casco que evita o deslize lateral.
+- Fita ou barbante preso ao mastro para sentir a direção do vento.
+- Referência de terra ou bússola para conferir o rumo.
+
+PROCEDIMENTO
+------------
+1. Vista o colete salva-vidas antes de soltar as amarras.
+2. Observe a direção do vento pela fita no mastro ou no rosto.
+3. Baixe a deriva para o barco não deslizar para o lado.
+4. Escolha o ajuste da vela conforme a direção desejada:
+5. Para ir a favor do vento, abra a vela quase toda para a popa.
+6. Para ir de lado ao vento, abra a vela aproximadamente pela metade.
+7. Para ir contra o vento, puxe a vela para o centro do barco.
+8. Nunca aponte a frente do barco diretamente para onde vem o vento.
+9. Ajuste a vela até ela parar de bater como bandeira.
+10. Ao virar para longe do vento, solte a escota aos poucos.
+11. Ao virar para perto do vento, puxe a escota aos poucos.
+12. Para chegar a um ponto contra o vento, navegue em zigue-zague:
+13. Avance aproximadamente 45 graus para um lado do vento.
+14. Vire a proa através do vento e avance 45 graus para o outro lado.
+15. Antes de virar, olhe ao redor e avise quem está a bordo.
+16. Em vento forte, reduza a vela cedo, antes que fique difícil.
+17. Para parar, solte a escota e deixe a vela bater sem encher.
+
+ATENCAO
+-------
+O barco não avança diretamente contra o vento; ao tentar, a vela
+bate e ele para.
+A verga, barra horizontal na base da vela, varre o convés ao virar
+e pode derrubar alguém ao mar. Mantenha a cabeça abaixo dela.
+Ao navegar com o vento por trás, a verga pode passar de um lado
+para o outro de repente. Mantenha-a presa por uma corda.
+Vento forte sem vela reduzida pode tombar o barco. Reduza cedo.
+Afogamento é a principal causa de morte em acidentes de barco, e a
+maioria das vítimas não usava colete. Mantenha o colete vestido.
+Se o barco adernar, entrar água ou alguém cair, pare a manobra,
+mantenha todos agarrados e peça ajuda por rádio ou sinal.
+
+SE NAO TIVER
+------------
+Sem fita no mastro, prenda um fio no topo ou jogue areia para sentir
+de onde vem o vento.
+Sem colete, improvise com garrafas presas ao corpo ou uma tábua,
+mas isso é incerto: procure ajuda ou abrigo o quanto antes.
+Sem deriva, prenda um peso ao casco para reduzir o deslize lateral,
+mas o barco responderá menos ao leme.
+Sem vela, reme ou use pás; o deslocamento dependerá da força humana.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A vela fica estufada e firme, sem bater como bandeira.
+O barco avança na direção escolhida, e a esteira na água aponta para
+a traseira.
+Ao virar, a proa passa pelo vento e a vela enche do outro lado.
+
+FONTES
+------
+Prática consolidada de navegação à vela e manobras com o vento,
+segundo a Royal Yachting Association (RYA) e o manual de
+procedimentos da Escola Naval dos Estados Unidos (USNA).
+Orientações de segurança e colete salva-vidas da Guarda Costeira
+dos Estados Unidos (USCG). Resumo operacional; não substitui
+treinamento.

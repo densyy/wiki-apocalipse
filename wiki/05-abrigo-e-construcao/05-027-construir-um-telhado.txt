@@ -1,0 +1,77 @@
+==============================================================================
+CODIGO: 05-027
+TITULO: Como construir um telhado
+CATEGORIA: 05 - Abrigo, construção e habitação
+TEMPO: 240 minutos
+RISCO: alto
+EXIGE: paredes firmes e niveladas, madeira seca, escada estável
+REVISAO: 2026-11
+PALAVRAS-CHAVE: telhado, cobertura, telha, chuva, goteira, abrigo
+==============================================================================
+
+OBJETIVO
+--------
+Montar um telhado de duas águas que joga a chuva para fora.
+
+QUANDO USAR
+-----------
+Quando o abrigo tem parede firme mas continua sem cobertura.
+Quando a lona provisória rasgou e é preciso cobertura durável.
+Quando reforma barraco, galpão ou depósito de comida e lenha.
+
+NAO USE QUANDO
+--------------
+Em parede torta, podre ou fraca que não aguenta peso extra.
+Com vento forte, chuva forte ou peça molhada e escorregadia.
+Sem ajudante embaixo: nunca suba para telhar sozinho.
+
+MATERIAIS
+---------
+- Caibros retos de aproximadamente 5 x 5 cm (varas grossas).
+- Ripas finas ou varas retas para apoiar telha (bambu rachado).
+- Telha, chapa ou lona forte dobrada em camada dupla.
+- Pregos longos ou arame grosso para amarrar (cipó resistente).
+- Martelo, serrote ou facão e barbante para alinhar medida.
+- Escada firme, corda e corda extra para amarrar o corpo.
+
+PROCEDIMENTO
+------------
+1. Confira se as paredes estão firmes, niveladas e aprumadas.
+2. Limpe o topo da parede e retire peça solta, podre ou quebrada.
+3. Marque a cumeeira no centro: ponto mais alto do telhado.
+4. Fixe a viga da cumeeira bem apoiada nas duas extremidades.
+5. Pregue os caibros do centro para as bordas, um de cada lado.
+6. Deixe beiral de aproximadamente 40 cm para fora da parede.
+7. Pregue as ripas atravessadas sobre os caibros com vão igual.
+8. Comece a cobertura de baixo para cima, sempre pela borda.
+9. Sobreponha cada fiada sobre a de baixo em cerca de 10 cm.
+10. Prenda a fiada da cumeeira por cima cobrindo os dois lados.
+11. Confira prego por prego e troque peça frouxa ou rachada.
+12. Jogue água com balde e veja se escorre sem entrar goteira.
+
+ATENCAO
+-------
+Queda de telhado ou escada pode matar ou deixar sequela grave.
+Trabalhe sempre amarrado e com ajudante segurando a escada.
+Telha solta desliza e corta: use luva e calçado firme e seco.
+Nunca pise no meio da cobertura, só sobre caibro ou parede.
+Excesso de gente em cima quebra a estrutura e derruba tudo.
+Este telhado não aguenta tempestade forte ou ventania extrema.
+Se a madeira estalar ou entortar, desça e reforce antes de seguir.
+
+SE NAO TIVER
+------------
+Sem telha, use chapa, lona dobrada ou palha em camada bem grossa.
+Sem prego, amarre com arame duplo ou cipó bem apertado e seco.
+Sem escada, use plataforma firme e bem travada com ajuda de outro.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água da chuva corre pela cobertura e cai fora da parede.
+Não pinga dentro e o madeiramento segue firme e sem ranger.
+
+FONTES
+------
+Prática consolidada de cobertura simples em autoconstrução
+(famílias de referência: FEMA, IFRC e manual militar de
+sobrevivência civil). Resumo operacional, sem treinamento.

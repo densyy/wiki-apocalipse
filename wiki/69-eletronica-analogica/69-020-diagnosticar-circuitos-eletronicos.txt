@@ -1,0 +1,71 @@
+==============================================================================
+CODIGO: 69-020
+TITULO: Como diagnosticar circuitos eletrônicos
+CATEGORIA: 69 - Eletrônica analógica e componentes discretos
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: multímetro, lanterna, papel, lápis, fonte isolada de baixa tensão
+REVISAO: 2026-11
+PALAVRAS-CHAVE: placa, multímetro, continuidade, tensão, curto, não funciona
+==============================================================================
+
+OBJETIVO
+--------
+Localizar a peça ou a ligação defeituosa em circuito de baixa tensão.
+
+QUANDO USAR
+-----------
+Quando o aparelho não liga.
+Quando liga mas não cumpre a função.
+Quando o circuito foi montado e não funciona.
+
+NAO USE QUANDO
+--------------
+Não use na rede elétrica da tomada: a tensão pode matar.
+Com fumaça ou cheiro de queimado, desligue e pare.
+
+MATERIAIS
+---------
+- Multímetro com escalas de tensão, ohms e continuidade (ou testador).
+- Fonte isolada de baixa tensão (ou baterias) para alimentar a placa.
+- Lanterna ou luz boa para ver as ligações.
+- Papel e lápis para desenhar o traçado e anotar leituras.
+
+PROCEDIMENTO
+------------
+1. Desligue o aparelho da tomada e retire as baterias.
+2. Descarregue os capacitores com resistor de aproximadamente 1 kohm.
+3. Ilumine a placa com a lanterna e observe cada ligação.
+4. Procure solda fria, fio solto, capacitor inchado e marcas de calor.
+5. Desenhe a entrada de alimentação e meça a tensão nela em contínua.
+6. Divida o traçado ao meio e meça a tensão no ponto central.
+7. Siga para a metade onde a tensão esperada desaparece e divida de novo.
+8. Desligue a fonte e meça a continuidade do trecho suspeito sem tensão.
+9. Teste o fusível: sem continuidade, troque por outro de igual valor.
+10. Realimente e confirme a tensão no ponto onde ela tinha sumido.
+
+ATENCAO
+-------
+A tensão da tomada pode matar. Nunca meça circuito ligado direto nela.
+Capacitor carregado fere mesmo desligado: descarregue antes de tocar.
+Medir ohms ou continuidade com tensão presente quebra o multímetro.
+Não ponha fio no lugar de fusível: sem proteção, há risco de incêndio.
+Com fumaça, cheiro de queimado ou choque, pare e procure ajuda.
+
+SE NAO TIVER
+------------
+Sem multímetro, a inspeção visual só acha sinais; procure ajuda.
+Sem resistor, não toque no capacitor: peça ajuda para descarregá-lo.
+Sem esquema, desenhe você mesmo as ligações que aparecem na placa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O ponto onde a tensão some fica marcado no papel.
+A continuidade do trecho suspeito repete em duas medições.
+Após a troca do fusível, a tensão volta a aparecer no ponto.
+
+FONTES
+------
+Continuidade e segurança: referências da Fluke sobre continuidade.
+Demais etapas: prática consolidada de bancada, sem documento único.
+Resumo operacional; não substitui treinamento.

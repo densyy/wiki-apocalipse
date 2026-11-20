@@ -1,0 +1,72 @@
+==============================================================================
+CODIGO: 50-003
+TITULO: Como funcionavam os moinhos medievais
+CATEGORIA: 50 - História das tecnologias pré-industriais
+TEMPO: 10 minutos
+RISCO: baixo
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: moinho, água, roda, mós, farinha, engenho medieval
+==============================================================================
+
+OBJETIVO
+--------
+Entender como a água movia o moinho medieval e moía o grão.
+
+QUANDO USAR
+-----------
+Quando se estuda tecnologia antes da industrialização.
+Quando se visita ruína de moinho ou museu de engenho hidráulico.
+Quando se compara energia hidráulica antiga com energia moderna.
+Quando se explica a origem da farinha e do pão.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+Este texto descreve o passado; nao ensina a construir nem operar moinho.
+
+MATERIAIS
+---------
+- Nenhum material. Texto descritivo, sem execução pratica.
+
+PROCEDIMENTO
+------------
+1. Desvie a água do rio para um canal elevado, a calha de derivação.
+2. Abra a comporta para controlar a quantidade de água que chega.
+3. Conduza a água até a roda: por baixo, pelo lado ou por cima.
+4. Deixe a água encher as pás ou baldes da roda e girar o eixo.
+5. Transmita o giro do eixo pelas engrenagens até as mós.
+6. Despeje o grão pelo orifício central da mó superior, a mó corrente.
+7. Ajuste a distância entre as mós para a farinha desejada.
+8. Deixe o grão ser triturado entre a mó corrente e a mó fixa, a
+   mó dormente.
+9. Retire a farinha que sai pela borda das mós.
+10. Escoe a água usada pelo canal de descarga de volta ao rio.
+
+ATENCAO
+-------
+A roda e as mós tinham peças pesadas e movimentos que podiam ferir.
+Nunca reconstrua ou opere um moinho sem conhecimento especializado.
+A água corrente e as comportas exigem cuidado com escorregão e correnteza.
+Em moinhos de roda por cima, era preciso represar o rio e criar lagoa.
+Isso podia alagar terras e alterar o curso de água a jusante.
+O texto descreve o funcionamento historico, nao um projeto seguro de obra.
+Numeros de moinhos e épocas variam conforme a regiao e a fonte.
+
+SE NAO TIVER
+------------
+Sem roda de água, o moinho medieval usava força animal, vento ou musculo.
+Moinhos de mão e de besta existiam onde nao havia queda d'agua suficiente.
+Nao improvise: isto e explicacao historica, nao orientacao de obra.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água gira a roda, o eixo gira as mós e o grão sai como farinha.
+
+FONTES
+------
+Resumo da literatura consolidada sobre moinhos medievais.
+Obras de referencia: Jean Gimpel, John Langdon e Richard Holt.
+Levantamento de Adam Lucas, em Technology and Culture, de 2005.
+Dados de contagens vem de inventarios medievais, como o Domesday
+Book, de 1086. Nao ha documento unico para este resumo.

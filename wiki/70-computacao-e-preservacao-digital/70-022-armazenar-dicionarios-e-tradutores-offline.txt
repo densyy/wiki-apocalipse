@@ -1,0 +1,72 @@
+==============================================================================
+CODIGO: 70-022
+TITULO: Como armazenar dicionários e tradutores offline
+CATEGORIA: 70 - Computação de baixo consumo e preservação digital
+TEMPO: 45 minutos
+RISCO: baixo
+EXIGE: computador com internet antes, pen drive, programa de consulta
+REVISAO: 2026-11
+PALAVRAS-CHAVE: dicionário, tradutor, offline, sem internet, baixar
+==============================================================================
+
+OBJETIVO
+--------
+Guardar dicionários e um tradutor no computador para consultar palavras e
+frases mesmo sem internet.
+
+QUANDO USAR
+-----------
+Quando a internet vai faltar e você precisa entender texto em outra língua.
+Quando o local de trabalho não tem cobertura de rede.
+
+NAO USE QUANDO
+--------------
+Quando a tradução vai decidir dose de remédio ou passo de emergência.
+Nesses casos, use material impresso oficial ou pessoa que saiba a língua.
+
+MATERIAIS
+---------
+- Computador com acesso à internet em um momento anterior.
+- Pen drive ou disco externo com espaço livre.
+- Programa de consulta que abra arquivos locais.
+- Caderno para anotar o que foi baixado e onde ficou.
+
+PROCEDIMENTO
+------------
+1. Escolha um dicionário que permita baixar os dados para o computador.
+2. Crie uma pasta chamada referencia para guardar tudo.
+3. Baixe o arquivo de dados do dicionário para essa pasta.
+4. Baixe o programa de consulta, se ele ainda não estiver instalado.
+5. Instale o programa e aponte-o para a pasta referencia.
+6. Baixe os pacotes de idiomas do tradutor que você vai usar.
+7. Instale o tradutor e selecione o par de idiomas baixado.
+8. Teste dicionário e tradutor com palavras que você já conhece.
+9. Copie a pasta e os instaladores para o pen drive.
+10. Anote no caderno o nome de cada arquivo e sua função.
+
+ATENCAO
+-------
+Tradução automática erra: não a use para dose de remédio.
+Nunca confie nela em instrução de risco ou emergência.
+Baixe os arquivos no mesmo sistema do aparelho que vai usá-los.
+Arquivos de dados mudam de versão: guarde uma cópia antiga que funciona.
+Sem os instaladores, você não reinstala o programa após uma falha.
+
+SE NAO TIVER
+------------
+Sem pen drive, use cartão de memória ou copie pela rede local.
+Sem programa de consulta, abra o arquivo de dados como texto.
+Procure a palavra com a função localizar do editor de texto.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O dicionário mostra a definição com a rede desligada.
+O tradutor devolve a frase sem mensagem de conexão.
+Os arquivos abrem no pen drive e em outro aparelho.
+
+FONTES
+------
+Prática consolidada de preservação digital e uso de ferramentas offline,
+conforme o Manual de Preservação Digital da Digital Preservation Coalition.
+Documentação oficial de projetos de código aberto de dicionários e tradução
+automática, como FreeDict e Apertium. Resumo operacional, não treinamento.

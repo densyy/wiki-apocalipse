@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 08-026
+TITULO: Como construir um forno de fundição
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 180 minutos
+RISCO: alto
+EXIGE: tijolos refratários, argila, carvão, cadinho, fole, óculos, luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fundição, derreter, metal, cadinho, carvão, fole, forno
+==============================================================================
+
+OBJETIVO
+--------
+Construir um forno pequeno a carvão e derreter sucata de alumínio ou latão.
+
+QUANDO USAR
+-----------
+Quando falta uma peça metálica e há sucata limpa para reaproveitar.
+Quando é preciso fundir metal para despejar em um molde de areia.
+Quando não há energia elétrica nem gás, mas há carvão e fole.
+Quando uma oficina ou fundição está fora de alcance.
+
+NAO USE QUANDO
+--------------
+Sem óculos, luvas grossas, avental e calçado fechado: pare.
+Sem tijolo ou argila refratária: pare; barro comum racha e cede.
+Em local fechado ou sem saída de fumaça para fora: pare.
+Para reduzir minério de ferro: este forno só derrete sucata metálica.
+Com sucata pintada, galvanizada, molhada ou com plástico: não funda.
+
+MATERIAIS
+---------
+- Tambor metálico cilíndrico sem tinta, resina ou zinco.
+- Tijolos refratários (ou argila refratária em camadas grossas).
+- Argila refratária para assentar e vedar as juntas (ou barro de fornalha).
+- Grelha de hastes de ferro e tubo metálico para entrada de ar.
+- Fole manual ou soprador com bico de metal.
+- Carvão vegetal ou coque e madeira seca para acender.
+- Cadinho de grafite ou cerâmica (ou recipiente de ferro fundido conhecido).
+- Areia fina e cinza bem secas para a cama do cadinho.
+- Pinça longa, concha e avental de couro.
+- Óculos de proteção, luvas grossas e calçado fechado.
+- Balde com água e areia, apenas para apagar o carvão.
+
+PROCEDIMENTO
+------------
+1. Escolha local aberto e ventilado, com piso de terra ou cimento.
+2. Afaste palha, madeira e qualquer material inflamável do entorno.
+3. Deixe água e areia a aproximadamente 3 m, longe do cadinho.
+4. Retire tinta, resina e zinco do tambor com lixa ou raspador.
+5. Corte o tambor na altura do peito e rebaixe as bordas com lima.
+6. Forre a parede interna com tijolos refratários assentados em argila.
+7. Abra um furo na base do tambor, na altura da grelha.
+8. Encaixe o tubo de ar no furo e vede a junta com argila.
+9. Apoie a grelha de ferro a aproximadamente 10 cm do fundo.
+10. Assente no centro um pedestal de tijolo para o cadinho.
+11. Espalhe areia e cinza secas sobre o pedestal, sem umidade.
+12. Coloque o cadinho vazio sobre a cama e encha ao redor com carvão.
+13. Acenda o carvão com madeira seca e papel, sem líquido inflamável.
+14. Sopre ar pelo tubo até o carvão ficar vermelho-vivo.
+15. Aqueça o cadinho vazio por aproximadamente 10 minutos para secar.
+16. Coloque sucata limpa e seca no cadinho, aos poucos, com a pinça.
+17. Adicione carvão pela borda e mantenha o sopro até o metal ficar líquido.
+18. Retire a espuma escura da superfície com a concha.
+19. Retire o cadinho com a pinça e despeje o metal em molde seco.
+20. Apague só o carvão com areia ou água após tirar o cadinho.
+21. Espere o forno esfriar por completo antes de tocar nas paredes.
+
+ATENCAO
+-------
+Metal fundido (alumínio, aproximadamente 660 °C) queima fundo na hora.
+Água em metal fundido vira vapor explosivo e espirra metal para os lados.
+Nunca jogue água no cadinho nem despeje metal em molde com umidade.
+Sucata molhada, pintada ou galvanizada estoura ou libera gás tóxico.
+Carvão em local fechado produz monóxido de carbono, que mata sem aviso.
+Trabalhe ao ar livre ou com chaminé que leve a fumaça para fora.
+A parede refratária racha com choque térmico: se rachar ou vazar, pare.
+Nunca deixe o fogo sem vigilância nem use líquido inflamável para acender.
+Pare e procure ajuda se houver queimadura ou se o cadinho vazar.
+
+SE NAO TIVER
+------------
+Sem tijolo refratário, use argila refratária seca em camadas grossas.
+Barro comum não substitui refratário: racha e pode ceder com o calor.
+Sem cadinho, use recipiente de ferro fundido conhecido; lata derrete junto.
+Sem fole ou soprador, o carvão não esquenta o suficiente: não insista.
+Sem pinça longa e luvas, não faça: a mão não substitui a pinça.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O carvão fica vermelho-vivo e as paredes internas brilham.
+A sucata perde a forma e vira um poço líquido de superfície lisa.
+A peça sai do molde inteira, sem bolhas nem rachaduras.
+
+FONTES
+------
+Prática consolidada de fundição de sucata, sem documento único.
+Conceitos de forno e refratário: referência geral; CO e EPI: OSHA.

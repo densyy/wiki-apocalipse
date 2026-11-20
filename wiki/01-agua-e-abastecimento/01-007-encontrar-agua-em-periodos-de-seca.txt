@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 01-007
+TITULO: Como encontrar água em períodos de seca
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 2 horas
+RISCO: medio
+EXIGE: calçado firme, recipiente limpo, estaca, caderno
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, seca, sede, nascente, córrego, poço, chuva, fonte
+==============================================================================
+
+OBJETIVO
+--------
+Encontrar pontos com água em tempo seco e marcá-los para voltar depois.
+
+QUANDO USAR
+-----------
+Quando a torneira secou ou o abastecimento foi cortado.
+Quando passaram vários dias sem chuva e o córrego secou.
+Quando a água guardada acabou e resta pouco para hoje.
+
+NAO USE QUANDO
+--------------
+Quando choveu muito e há risco de enchente: não entre no leito do rio.
+Quando há cheiro de combustível, óleo ou agrotóxico na água.
+Quando não há recipiente limpo para trazer a água de volta.
+
+MATERIAIS
+---------
+- Calçado firme e roupa que cubra as pernas (bota e calça comprida).
+- Recipiente limpo com tampa (garrafa de plástico sem resíduo químico).
+- Estaca ou bastão para marcar o ponto (pedras empilhadas).
+- Caderno e lápis (papel e carvão).
+
+PROCEDIMENTO
+------------
+1. Pergunte a moradores onde ainda há água nesta seca.
+2. Observe o terreno de um ponto alto antes de descer.
+3. Procure o fundo do vale e a base da encosta, não o topo do morro.
+4. Procure plantas verdes e flexíveis onde o resto está seco.
+5. Observe salgueiro e choupo: árvores que indicam água rasa.
+6. Procure solo escuro, musgo e insetos voando ao entardecer.
+7. Siga o leito do córrego seco até achar água corrente.
+8. Observe a borda do leito: água vazando da terra é fluxo de base.
+9. Procure a nascente onde a água brota da encosta e marque com pedras.
+10. Anote o caminho, encha o recipiente limpo e volte antes do anoitecer.
+
+ATENCAO
+-------
+Água com cheiro, cor escura, espuma ou material flutuante pode ter
+esgoto, fezes ou químicos. Não a use sem tratar.
+Não beba água de enchente, poço inundado ou com cheiro de combustível.
+Nascente limpa ainda pode ter microrganismos: trate antes de beber (01-001).
+Pare e volte se o terreno ficar íngreme, se a água sumir ou se o sol baixar.
+
+SE NAO TIVER
+------------
+Sem estaca, empilhe pedras ou amarre pano de cor viva num galho alto.
+Sem caderno, marque o caminho com pedras e galhos quebrados.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você vê água corrente ou umidade brotando da terra no ponto marcado.
+O solo ao redor está mais escuro e há plantas verdes onde o resto está seco.
+
+FONTES
+------
+Orientação da CDC sobre encontrar água limpa em emergência; guia da USGS
+sobre localizar água subterrânea e nascentes; material da FEMA sobre
+fontes de água em emergência.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 57-005
+TITULO: Como evitar condensação dentro de habitações
+CATEGORIA: 57 - Refrigeração, climatização e conforto
+TEMPO: 30 minutos
+RISCO: baixo
+EXIGE: pano seco, exaustor, higrômetro se houver, fita vedante
+REVISAO: 2026-11
+PALAVRAS-CHAVE: condensação, umidade, mofo, bolor, ventilação, orvalho
+==============================================================================
+
+OBJETIVO
+--------
+Reduzir a umidade do ar e impedir que paredes e vidros frios suem.
+
+QUANDO USAR
+-----------
+Quando vidros ou paredes frias ficam molhados ao amanhecer.
+Quando aparece mofo ou bolor atrás de móveis ou no teto.
+Ao cozinhar, tomar banho quente ou secar roupa dentro de casa.
+Quando o higrômetro marca mais de 60 por cento de umidade.
+
+NAO USE QUANDO
+--------------
+Com chuva, se o ar de fora estiver mais úmido que o de dentro.
+Se houver vazamento ou infiltração, conserte a causa primeiro.
+
+MATERIAIS
+---------
+- Pano seco e limpo, ou papel toalha (microfibra, se houver).
+- Exaustor ou ventilador (janelas opostas, se não houver).
+- Fita vedante ou silicone (papel e fita adesiva como substituto).
+- Detergente neutro e água para limpar superfície com mofo.
+
+PROCEDIMENTO
+------------
+1. Meça a umidade relativa no centro do cômodo, longe de janelas e calor.
+2. Ventile por aproximadamente 10 minutos só com ar externo seco.
+3. Ligue o exaustor da cozinha e do banheiro ao cozinhar e banhar.
+4. Deixe o exaustor ligado por aproximadamente 15 minutos após o fogo.
+5. Enxugue com pano seco a água em vidro, azulejo e tubulação.
+6. Afaste os móveis da parede fria deixando aproximadamente 10 cm.
+7. Seque a roupa ao ar livre; se não der, use exaustor e janela aberta.
+8. Feche frestas de porta e janela com fita onde entra ar frio.
+9. Limpe o mofo com pano úmido e detergente, sem misturar produtos.
+10. Meça de novo: se passar de 60 por cento, reforce a ventilação.
+
+ATENCAO
+-------
+Mofo e bolor podem causar tosse, espirro e crise de asma em sensíveis.
+Nunca misture detergente, água sanitária ou vinagre: o vapor é tóxico.
+Exaustor e ventilador usam tomada: não manuseie com as mãos molhadas.
+Com cheiro forte de mofo ou falta de ar, saia e procure ajuda.
+
+SE NAO TIVER
+------------
+Sem higrômetro, observe vidro e parede: se suam, o ar está úmido.
+Sem exaustor, abra janela e porta opostas para formar corrente.
+Sem fita vedante, use papel e fita adesiva na fresta por pouco tempo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O higrômetro ficou entre 30 e 60 por cento de umidade relativa.
+Vidros e paredes pararam de suar e o mofo não voltou.
+
+FONTES
+------
+EPA dos EUA, Mold Course capítulo 2 e página Mold: controlar umidade.
+OMS, Diretrizes para qualidade do ar interno: umidade e mofo, 2009.
+==============================================================================

@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 33-003
+TITULO: Como criar um sistema agroflorestal
+CATEGORIA: 33 - Agricultura avançada e autossuficiência rural
+TEMPO: 1 dia
+RISCO: medio
+EXIGE: terra, mudas e sementes, água, enxada, palha ou folhas secas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: agrofloresta, saf, consórcio, árvores, solo, mudas, horta
+==============================================================================
+
+OBJETIVO
+--------
+Implantar uma área que produz alimento por anos sem deixar o solo nu.
+
+QUANDO USAR
+-----------
+Quando se cultiva uma área pequena por muitos anos.
+Quando o solo está cansado de uma única cultura.
+Quando se quer reduzir a compra de adubo e de insumos.
+
+NAO USE QUANDO
+--------------
+Quando não há água para regar as mudas nos primeiros meses.
+Quando o solo cheira a combustível ou agrotóxico.
+
+MATERIAIS
+---------
+- Mudas de árvores frutíferas ou nativas da região.
+- Sementes de feijão e mudas de ingá ou feijão-de-porco.
+- Enxada ou pá, estacas, cordel e palha ou folhas secas.
+
+PROCEDIMENTO
+------------
+1. Observe onde o sol bate e para onde escorre a água na área.
+2. Escolha espécies que já crescem bem na região e que você conhece.
+3. Misture plantas de ciclo curto, médio e longo no mesmo desenho.
+4. Marque fileiras de árvores a aproximadamente 5 a 6 m com estacas.
+5. Espere o início da estação chuvosa para plantar.
+6. Retire só a vegetação rasteira da linha; não revolva todo o solo.
+7. Abra covas e coloque composto orgânico ou esterco curtido.
+8. Plante primeiro tubérculos e estacas grandes, como a mandioca.
+9. Plante depois as mudas de árvores e de leguminosas nas covas.
+10. Semeie feijão nas entrelinhas, regue e cubra com palha e folhas.
+
+ATENCAO
+-------
+Não queime nem varra a palha: ela é o adubo e protege o solo.
+Espécies desconhecidas podem virar praga; plante só o que identifica.
+Árvores muito próximas roubam luz e matam as culturas do primeiro ano.
+Formigas cortadeiras destroem mudas novas; inspecione a área cada semana.
+Solo com cheiro de combustível ou agrotóxico: não plante, busque ajuda.
+
+SE NAO TIVER
+------------
+Sem mudas, use sementes de nativas conhecidas da região.
+Sem composto, use folhas picadas e esterco curtido de animais sadios.
+Sem chuva, espere; não plante mudas em solo seco.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O solo entre as plantas fica coberto de palha e folhas.
+Aparecem folhas novas nas mudas e feijão crescendo nas entrelinhas.
+
+FONTES
+------
+Prática consolidada de sistemas agroflorestais no Brasil.
+Baseado em comunicados técnicos e cartilhas da Embrapa sobre SAFs
+para agricultura familiar e no guia de implantação da Ater+ (Embrapa).

@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 68-012
+TITULO: Como construir uma antena de quadro
+CATEGORIA: 68 - Radiofrequência e telecomunicações
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: fio de cobre, conectores, suportes isolantes, receptor de rádio
+REVISAO: 2026-11
+PALAVRAS-CHAVE: antena, quadro, loop, rádio, ondas curtas, recepção, fio
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma antena de quadro para receber sinais de rádio sem rede elétrica.
+
+QUANDO USAR
+-----------
+Quando o rádio não recebe com a antena original do aparelho.
+Quando é preciso ouvir rádio a pilha em área sem cobertura.
+Quando se quer apontar a antena para uma estação e reduzir interferência.
+
+NAO USE QUANDO
+--------------
+Nunca use para transmitir: esta antena é só de recepção.
+Não monte perto de linha de energia elétrica, nem em tempestade.
+
+MATERIAIS
+---------
+- Fio de cobre nu ou isolado, firme o bastante para manter a forma.
+- Dois conectores para prender o fio à linha de alimentação.
+- Linha de alimentação: cabo coaxial ou fio paralelo.
+- Quatro suportes isolantes de plástico, madeira seca ou fibra.
+- Receptor de rádio a pilha, com a banda desejada.
+
+PROCEDIMENTO
+------------
+1. Escolha a frequência que quer ouvir, em MHz.
+2. Calcule o lado: aproximadamente 75 dividido pela frequência em MHz.
+   Exemplo: 14 MHz dá aproximadamente 5,4 m de lado.
+3. Some quatro lados para ter o perímetro total do fio.
+4. Corte o fio com esse comprimento, mais uma sobra para emendar.
+5. Dobre o fio em um quadrado e una as duas pontas no mesmo canto.
+6. Prenda cada canto em um suporte isolante, mantendo o quadrado aberto.
+7. Ligue os conectores nas duas pontas, no ponto de alimentação do canto.
+8. Ligue a linha de alimentação aos conectores e ao receptor.
+9. Monte no chão, longe de metal; se erguer, use suportes isolantes.
+10. Ligue o receptor, escolha a banda e gire o quadro até o sinal melhorar.
+
+ATENCAO
+-------
+Nunca instale perto de linha de energia: contato com fio energizado mata.
+Não erga em tempestade nem suba em telhado: queda causa lesão grave.
+As pontas do fio cortam: dobre-as ou use luvas ao manusear.
+A antena é de recepção; nunca ligue-a a um transmissor.
+
+SE NAO TIVER
+------------
+Sem fio de cobre, use arame ou fio de extensão; recebe menos, mas funciona.
+Sem suporte isolante, use madeira bem seca; nunca use metal como suporte.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ao girar o quadro, o sinal de uma estação sobe e some em certa direção.
+
+FONTES
+------
+Prática consolidada de antenas de loop e quad para recepção, descrita em The
+ARRL Antenna Book (American Radio Relay League) e em Antenna Theory, de
+Constantine Balanis. Este texto é resumo operacional, não substitui treino.

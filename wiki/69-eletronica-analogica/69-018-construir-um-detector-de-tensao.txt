@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 69-018
+TITULO: Como construir um detector de tensão
+CATEGORIA: 69 - Eletrônica analógica e componentes discretos
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: LED, resistor, fios isolados, fita, bateria de 9 V para teste
+REVISAO: 2026-11
+PALAVRAS-CHAVE: tensão, voltagem, detector, led, resistor, bateria, teste
+==============================================================================
+
+OBJETIVO
+--------
+Montar um detector de baixa tensão que acende um LED quando há
+tensão contínua entre dois pontos de uma bateria ou circuito.
+
+QUANDO USAR
+-----------
+Quando precisar saber se uma bateria ainda tem carga antes de usá-la.
+Quando precisar achar qual de dois fios é o positivo em circuito de baixa
+tensão. Confirme se um painel solar gera tensão à luz do dia.
+Quando precisar conferir se a saída de um carregador ou regulador está viva.
+Antes de ligar uma carga, para confirmar que a fonte está alimentando.
+
+NAO USE QUANDO
+--------------
+Nunca use na rede elétrica: 110 V ou 220 V na parede podem matar.
+Não use para medir o valor exato da tensão; use um multímetro.
+Não use em baterias de alto porte com terminais expostos sem cuidado.
+Não use como instrumento de segurança quando a medição precisa ser exata.
+
+MATERIAIS
+---------
+- Um LED vermelho (ou de outra cor, com tensão direta conhecida).
+- Um resistor de 1 kΩ e 1/4 W para baterias de 9 a 12 V.
+- Dois fios isolados com cerca de 30 cm e pontas descascadas.
+- Fita isolante ou tubo termorretrátil para cobrir as emendas.
+- Ferro de solda e solda (ou torção firme mais fita, como emergência).
+- Uma bateria de 9 V em bom estado para testar o aparelho.
+- Multímetro, se houver, para conferir o resistor e a tensão.
+
+PROCEDIMENTO
+------------
+1. Confira o resistor: 1 kΩ tem faixas marrom, preto, vermelho.
+2. Identifique as pernas do LED: a mais longa é o ânodo (positivo).
+3. A perna curta é o cátodo (negativo); o corpo tem um lado chato.
+4. Enrole a ponta do resistor na perna do ânodo e solde a emenda.
+5. Solde um fio vermelho na outra ponta do resistor: sonda positiva.
+6. Solde um fio preto na perna do cátodo: sonda negativa.
+7. Cubra as duas emendas com fita; não deixe cobre exposto.
+8. Encoste a sonda vermelha no positivo da bateria de teste de 9 V.
+9. Encoste a sonda preta no negativo da mesma bateria.
+10. O LED deve acender: isso confirma que o detector funciona.
+11. Aproxime as duas sondas fora da fonte: o LED deve apagar.
+12. Para testar outra fonte, repita os passos 8 e 9 nela.
+13. Se não acender, inverta as sondas uma vez e observe de novo.
+14. Se ainda não acender, a tensão está abaixo do limiar do LED
+    (cerca de 2 V para um LED vermelho).
+15. Guarde o aparelho seco e com as pontas protegidas por fita.
+
+ATENCAO
+-------
+Este detector serve só para baixa tensão contínua, até cerca de 12 V.
+Nunca encoste as sondas na rede elétrica: a parede pode matar mesmo sem
+toque direto. Não existe adaptação caseira segura para 110 V ou 220 V.
+O LED aceso indica apenas que a tensão passa do limiar; não diz o valor.
+Ele não informa se a fonte aguenta corrente nem se está segura sob carga.
+Inverter a polaridade com mais de cerca de 5 V pode destruir o LED.
+Resistor de valor muito baixo esquenta e pode queimar; use 1/4 W ou mais.
+Sondas descascadas que se tocam curtam a fonte e podem gerar faísca.
+Em bateria de carro, um curto libera corrente altíssima e queima tudo.
+Na dúvida sobre a fonte, trate como perigosa até medir com multímetro.
+Pare e procure ajuda se houver cheiro de queimado, fumaça ou aquecimento.
+
+SE NAO TIVER
+------------
+Sem resistor de 1 kΩ, use entre 470 Ω e 2,2 kΩ em 9 a 12 V.
+Valor maior deixa o LED mais fraco, mas gasta menos e esquenta menos.
+Para 6 V, use resistor entre 330 Ω e 470 Ω; para 3 V, perto de 100 Ω.
+Sem ferro de solda, torça os fios e enrole fita por camadas, apertado.
+Essa emenda provisória pode falhar; confira antes de cada uso.
+Sem LED, use um multímetro na escala de tensão contínua: é mais seguro.
+Com pilha de 1,5 V, este detector não acende; use outro método.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O LED acende com brilho firme na bateria de 9 V e resistor de 1 kΩ.
+O LED apaga quando as sondas se encostam fora da fonte.
+Ao inverter as sondas em uma fonte contínua, o LED fica apagado.
+O resistor não esquenta depois de um minuto de contato.
+
+FONTES
+------
+Lei de Ohm e uso do LED como indicador: prática consolidada de eletrônica.
+O cálculo do resistor e os valores de tensão direta vêm de manuais básicos
+de eletrônica e da experiência de bancada; confirme a folha de dados do LED.
+Alertas sobre rede elétrica seguem regras gerais de segurança elétrica.
+Resumo operacional: não substitui a folha de dados ou um instrumento.

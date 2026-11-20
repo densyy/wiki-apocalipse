@@ -1,0 +1,90 @@
+==============================================================================
+CODIGO: 08-009
+TITULO: Como fabricar uma morsa
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 2 horas
+RISCO: alto
+EXIGE: vergalhão com porcas, chapas de aço, furadeira, óculos de proteção
+REVISAO: 2026-11
+PALAVRAS-CHAVE: morsa, torninho, prender, sucata, vergalhão, mandíbula
+==============================================================================
+
+OBJETIVO
+--------
+Fabricar uma morsa leve com sucata para prender peças em trabalhos manuais.
+
+QUANDO USAR
+-----------
+Quando não há morsa e é preciso ter as duas mãos livres para trabalhar.
+Quando se vai serrar, limar ou furar madeira ou metal em casa.
+Quando há sucata de aço e um vergalhão roscado com porcas disponíveis.
+Quando o trabalho é leve e a peça tem aproximadamente 8 cm ou menos.
+
+NAO USE QUANDO
+--------------
+Não use para martelar, dobrar metal grosso ou suspender peso.
+Quando a peça precisar de alinhamento de usinagem precisa.
+Se não houver vergalhão roscado com porcas: pare, não improvise a rosca.
+
+MATERIAIS
+---------
+- Vergalhão roscado de aproximadamente 30 cm, com 4 porcas e 4 arruelas.
+- Substituto do vergalhão: parafuso longo com porcas.
+- 2 chapas de aço retas de aproximadamente 10 cm por 8 cm.
+- Substituto das chapas: madeira dura, só para trabalho em madeira.
+- 2 hastes lisas de aproximadamente 25 cm.
+- Substituto das hastes: parafusos longos sem ponta.
+- Base de madeira ou chapa para prender a mandíbula fixa.
+- Furadeira manual com brocas para o vergalhão e as hastes.
+- Substituto da furadeira: berbequim.
+- Arco de serra, lima, chave de porcas, óculos de proteção e luvas.
+
+PROCEDIMENTO
+------------
+1. Escolha duas chapas retas, sem rachaduras, para as mandíbulas.
+2. Corte cada chapa com aproximadamente 10 cm de altura e 8 cm de largura.
+3. Marque o centro de cada chapa e dois pontos alinhados perto das bordas.
+4. Fure o centro da chapa fixa com broca menor que a porca quadrada.
+5. Afile o furo com a lima até a porca quadrada caber apertada, sem girar.
+6. Encaixe a porca quadrada no furo pelo lado de fora da chapa fixa.
+7. Fure o centro da chapa móvel com broca do diâmetro do vergalhão.
+8. Fure os dois pontos das bordas nas duas chapas, com broca das hastes.
+9. Retire as rebarbas de todos os furos com a lima.
+10. Parafuse a chapa fixa na base, alinhando a borda à borda da bancada.
+11. Passe as hastes guia pelos furos das duas chapas.
+12. Prenda as hastes na chapa fixa com porcas, sem apertar demais.
+13. Enfure o vergalhão pela porca presa e pelo furo da chapa móvel.
+14. Rosqueie uma arruela e duas porcas na ponta interna do vergalhão.
+15. Aperte as duas porcas uma contra a outra. A arruela encosta na chapa.
+16. Trave duas porcas na ponta externa do vergalhão para servir de alça.
+17. Gire a alça até as mandíbulas tocarem a peça e ficarem paralelas.
+18. Dê mais um quarto de volta para firmar. Não force além disso.
+
+ATENCAO
+-------
+A morsa caseira serve só para trabalho leve: serrar, limar, furar.
+Não use para marteladas, dobras de metal grosso nem para suspender peso.
+Furar e cortar aço projeta lascas: use óculos de proteção e luvas.
+Nunca apoie a peça na palma da mão enquanto fura ou corta.
+Se a mandíbula empenar ou a rosca travar, pare e refaça o alinhamento.
+Não aperte demais: o vergalhão entorta, a porca rompe ou a chapa racha.
+Peças pequenas podem saltar. Segure a peça até o primeiro aperto.
+Fixe a morsa na bancada antes de cada uso. Confira os parafusos.
+
+SE NAO TIVER
+------------
+Sem vergalhão e porcas, não monte a morsa. Não improvise rosca com arame.
+Sem porca quadrada, use porca comum presa por uma ponte de metal parafusada.
+Sem chapas de aço, use madeira dura apenas para trabalhar madeira.
+Sem furadeira, procure uma oficina ou use outra peça que já tenha morsa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As mandíbulas ficam paralelas e a peça não gira quando se tenta movê-la.
+O vergalhão gira com esforço uniforme e a mandíbula desliza sem travar.
+A peça fica firme após o aperto final, sem marcas de escorregamento.
+
+FONTES
+------
+Prática consolidada de oficina para fabricar morsa leve com sucata.
+Sem fonte técnica normativa única; procedimento limitado a trabalho leve.

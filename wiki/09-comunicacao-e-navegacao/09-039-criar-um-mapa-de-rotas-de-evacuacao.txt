@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 09-039
+TITULO: Como criar um mapa de rotas de evacuação
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: papel, lápis, mapa impresso (ou papel em branco), fita adesiva
+REVISAO: 2026-11
+PALAVRAS-CHAVE: mapa, rota de fuga, evacuação, saída, encontro, abrigo
+==============================================================================
+
+OBJETIVO
+--------
+Desenhe um mapa com duas rotas de saída e dois pontos de encontro que
+qualquer pessoa do grupo consiga seguir sem internet.
+
+QUANDO USAR
+-----------
+Quando o grupo precisa sair rápido e sem depender de GPS ou celular.
+Quando a região tem risco de enchente, deslizamento ou incêndio.
+Quando o plano de evacuação da Defesa Civil ainda não chegou à sua rua.
+Quando há crianças, idosos ou pessoas com dificuldade de andar em casa.
+
+NAO USE QUANDO
+--------------
+Quando a Defesa Civil já indicou rota oficial: siga a rota oficial.
+Quando você não puder caminhar as rotas antes: mapa não testado engana.
+Quando houver fogo, fumaça ou água subindo: saia sem voltar ao mapa.
+
+MATERIAIS
+---------
+- Folha de papel (papelão ou verso de papel já usado).
+- Lápis e caneta (carvão ou giz).
+- Mapa impresso da região (desenho feito à mão).
+- Caneta colorida ou marca-texto (lápis com traço tracejado).
+- Fita adesiva (clipe ou tacha) para fixar o mapa.
+
+PROCEDIMENTO
+------------
+1. Relacione as ameaças prováveis do lugar: água, deslizamento, fogo, gás.
+2. Escolha o ponto de encontro perto: quintal, praça ou esquina da rua.
+3. Escolha o ponto de encontro fora: casa de parente em outra localidade.
+4. Desenhe o entorno: sua casa, ruas, pontes, rio, encostas e prédios.
+5. Marque no desenho os dois pontos de encontro escolhidos.
+6. Trace a rota principal da casa até o ponto perto e dali até o ponto fora.
+7. Trace a segunda rota por ruas diferentes das usadas na rota principal.
+8. Assinale com X as pontes baixas, vales, encostas e baixões alagáveis.
+9. Caminhe a rota principal a pé e anote o tempo gasto.
+10. Caminhe a rota alternativa a pé e anote o tempo gasto.
+11. Escreva ao lado de cada rota os marcos de virada: cruzamento, árvore.
+12. Pinte a rota principal de uma cor e a alternativa de outra cor.
+13. Escreva a legenda: cor da rota, sentido das setas e significado do X.
+14. Anote bombeiros, Defesa Civil, SAMU e um contato fora da região.
+15. Fixe uma cópia na parede e guarde outra na mochila de emergência.
+16. Percorra as rotas com o grupo uma vez e corrija o que estiver errado.
+17. Para combinar avisos e sinais com o grupo, veja 09-001.
+
+ATENCAO
+-------
+Mapa desatualizado é pior que nenhum: rua fechada ou ponte caída
+transforma a rota em armadilha. Caminhe de novo antes de confiar nele.
+Nunca atravesse água corrente: aproximadamente 15 cm derrubam um adulto,
+e água um pouco acima dos pneus arrasta carro. Vire e vá por outra via.
+O mapa não substitui a ordem da Defesa Civil. Se as autoridades mandarem
+sair por outra rua, siga a rua indicada por elas.
+A via principal é a primeira a congestionar. A alternativa pode ser a
+única saída; por isso nunca trace as duas pela mesma ponte ou passagem.
+Se a rota passar por fio de alta tensão, encosta rachada ou fumaça, pare
+e escolha outro caminho. Não improvise atalho durante a evacuação.
+
+SE NAO TIVER
+------------
+Sem mapa impresso, desenhe numa folha em branco: o esboço serve.
+Sem papel, risque o traçado no chão com giz ou numa tábua de madeira.
+Sem caneta colorida, use seta de lápis e tracejado para a rota alternativa.
+Sem relógio, meça o tempo uma vez com o relógio do celular antes da crise.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As duas rotas aparecem com traços diferentes e a legenda está legível.
+Os dois pontos de encontro estão marcados e você já foi até ambos.
+Cada pessoa aponta no mapa o caminho até o ponto de encontro perto.
+O tempo anotado confere com o tempo do último percurso a pé.
+
+FONTES
+------
+Prática consolidada de preparação familiar: FEMA e Ready.gov (plano
+familiar, rota de evacuação e ponto de encontro).
+Cruz Vermelha americana e canadense: plano de desastres familiar com
+rotas de fuga e pontos de encontro perto e fora do bairro.
+Defesa Civil do Brasil: Resolução GMG 83/2024 e manual de planos de
+contingência da Defesa Civil de Sergipe (rotas de fuga e encontro).
+Nota técnica 04 da Diretoria de Segurança de Barragens de Minas Gerais
+(critérios de traçado e sinalização das rotas de fuga).
+National Weather Service dos Estados Unidos: campanha Turn Around, Don't
+Drown, sobre o risco de água corrente.

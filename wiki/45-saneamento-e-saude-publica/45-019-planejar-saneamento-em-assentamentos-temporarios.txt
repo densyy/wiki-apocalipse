@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 45-019
+TITULO: Como planejar saneamento em assentamentos temporários
+CATEGORIA: 45 - Engenharia de saneamento e saúde pública
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: caderno, lápis, corda ou estaca, fita métrica ou passos contados
+REVISAO: 2026-11
+PALAVRAS-CHAVE: saneamento, acampamento, latrina, água, esgoto, vetor
+==============================================================================
+
+OBJETIVO
+--------
+Definir no terreno os pontos de água, latrinas, drenagem e lavagem de mãos.
+
+QUANDO USAR
+-----------
+Ao ocupar um terreno para abrigar várias pessoas por mais de um dia.
+Após enchente ou seca, quando poços e fossas podem estar contaminados.
+Ao receber deslocados em escola, ginásio ou terreno improvisado.
+Quando o grupo dividir uma única fonte de água e um único ponto de esgoto.
+Ao aumentar o número de pessoas em um assentamento já existente.
+
+NAO USE QUANDO
+--------------
+Quando já houver rede pública de água e esgoto funcionando e testada.
+Quando a água tiver cheiro de combustível, solvente ou agrotóxico.
+Nesse caso, não planeje captação: procure outra fonte e ajuda técnica.
+Em terreno alagado, com lençol de água aflorando ou sob enchente recente.
+
+MATERIAIS
+---------
+- Caderno e lápis para o croqui (papel impermeável ou pedra com carvão).
+- Corda ou estacas para marcar pontos (pedras ou galhos fincados).
+- Fita métrica, ou meça em passos (um passo é aproximadamente 0,7 m).
+- Balde com tampa para fezes e resíduo (saco resistente tampado).
+- Sabão ou detergente para lavar as mãos (cinza e atrito, se faltar).
+
+PROCEDIMENTO
+------------
+1. Caminhe pelo terreno e identifique o ponto mais alto e o mais baixo.
+2. Observe para onde escorre a água da chuva e marque no croqui.
+3. Verifique se há poço, nascente, rio ou vala usado para água por perto.
+4. Marque esse ponto com estaca e o identifique como "água limpa".
+5. Escolha para as latrinas o ponto mais baixo e a jusante da captação.
+6. Mantenha a latrina a aproximadamente 30 metros da fonte de água.
+7. Aumente essa distância se o solo for arenoso, rachado ou o lençol alto.
+8. Não cave latrina onde a água aparecer na escavação de teste.
+9. Cave 1 metro de teste no local da latrina e observe a cova por uma noite.
+10. Se a parede ficar úmida ou inundar, mude a latrina para ponto mais alto.
+11. Anote o vento predominante e posicione as latrinas a favor do vento.
+12. Marque com corda 2 metros ao redor da latrina, sem circular.
+13. Reserve entre a captação e a cozinha um ponto para lavar as mãos.
+14. Instale nesse ponto água tratada, sabão e recipiente com tampa.
+15. Marque à parte onde lavar roupas e louças, longe da captação.
+16. Abra valas rasas ao redor das tendas, descendo para fora do acampamento.
+17. Nunca desague a vala de drenagem dentro da área de captação.
+18. Cubra os depósitos de água com tampa ou pano limpo preso com corda.
+19. Esvazie poças e recipientes parados a cada dois dias contra insetos.
+20. Desenhe o croqui final e fixe-o onde todos possam ver.
+21. Nunca despeje fezes, resíduo ou químico no ponto de água.
+22. Revise o croqui após cada chuva forte e corrija o que a água mudou.
+
+ATENCAO
+-------
+Cólera, disenteria e febre tifoide matam se a água tiver fezes.
+A distância de 30 metros é referência geral, não garantia de segurança.
+Em solo permeável ou com lençol alto, aumente a distância ou mude o ponto.
+Latrina mal feita contamina drenos e água subterrânea (OMS, 2026).
+Ferver a água não remove combustível, agrotóxico, metal nem sal.
+Com cheiro químico na água, descarte a fonte e procure ajuda.
+Se aparecer diarreia com sangue ou vômito no grupo, isole a fonte de água.
+Chuva forte pode levar esgoto à captação; revise o croqui.
+Não improvise latrina dentro da área de armazenamento de água.
+Procure ajuda técnica se o número de pessoas passar do previsto no croqui.
+
+SE NAO TIVER
+------------
+Sem fita métrica, meça em passos e anote a conversão no caderno.
+Sem espaço para 30 metros, use o ponto mais alto e a jusante possível.
+Sem sabão, esfregue as mãos com água tratada e atrito forte.
+Sem estacas, use pedras empilhadas para marcar cada ponto do croqui.
+Sem área para valas, afaste as tendas e cubra poças com terra.
+Nunca substitua a latrina por fezes em vala aberta perto da água.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O croqui mostra água, latrinas e lavagem em posições distintas.
+A latrina fica a jusante e abaixo da captação, com a distância anotada.
+Não há fezes, lixo ou água parada a poucos passos da fonte de água.
+Há água tratada e sabão no ponto de lavar as mãos.
+As valas desaguam para fora do acampamento e não cruzam a captação.
+Ninguém do grupo apresentou diarreia após o primeiro dia de uso.
+
+FONTES
+------
+OMS, Saneamento (ficha informativa, 2026); OMS, Água potável (2026).
+OMS, Doença diarreica (2024) e Cólera (2026): saneamento previne surtos.
+Distância de 30 m e passos são prática consolidada, sem documento único.
+Este resumo é operacional e não substitui treinamento técnico.

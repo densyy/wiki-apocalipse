@@ -1,0 +1,84 @@
+==============================================================================
+CODIGO: 49-018
+TITULO: Como construir equipamentos simples de processamento
+CATEGORIA: 49 - Engenharia química e processos industriais
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: balde com tampa, tubo de cobre, pano limpo, fonte de calor
+REVISAO: 2026-11
+PALAVRAS-CHAVE: processamento, destilador, filtro, decanter, oficina, água
+==============================================================================
+
+OBJETIVO
+--------
+Montar equipamentos básicos para separar, filtrar e evaporar líquidos.
+
+QUANDO USAR
+-----------
+Quando precisar separar sólidos de líquidos sem equipamento industrial.
+Quando precisar clarear água turva antes de outros tratamentos.
+Quando precisar recuperar água por evaporação em pequena escala.
+Quando uma oficina precisar processar materiais em pequena quantidade.
+
+NAO USE QUANDO
+--------------
+Não use para líquidos inflamáveis, corrosivos ou desconhecidos.
+Não use para fabricar bebida alcoólica ou substância controlada.
+Não use se não houver ventilação e saída livre para o vapor.
+
+MATERIAIS
+---------
+- Balde ou barrica de plástico ou metal com tampa.
+- Torneira ou válvula pequena para a base do balde.
+- Pano limpo, tela de arame ou malha fina para filtro.
+- Areia lavada e carvão vegetal para o filtro.
+- Panela ou caldeirão metálico com tampa.
+- Tubo de cobre ou metal curvo para conduzir o vapor.
+- Recipiente limpo para coletar o líquido.
+- Fonte de calor, vedação e suporte firme.
+
+PROCEDIMENTO
+------------
+1. Faça um furo na base do balde e instale a torneira vedada.
+2. Encha o balde com a mistura e deixe em repouso.
+3. Abra a torneira e escoe a parte densa por primeiro.
+4. Feche a torneira quando a camada clara chegar à saída.
+5. Forre um funil com pano limpo e apoie sobre o coletor.
+6. Despeje o líquido devagar pelo pano para reter sólidos.
+7. Para destilar, encaixe a tampa no caldeirão com o tubo.
+8. Deixe a ponta do tubo acima do coletor, nunca vedada.
+9. Aqueça o líquido até ferver de forma constante e fraca.
+10. Recolha o líquido que escorre pelo tubo frio.
+11. Pare o aquecimento antes de esvaziar o caldeirão.
+
+ATENCAO
+-------
+Nunca feche o caldeirão de modo que o vapor não tenha saída.
+Recipiente selado aquecido pode estourar e queimar gravemente.
+Não destile gasolina, álcool, solvente ou líquido inflamável.
+O vapor inflamável pode pegar fogo no calor e causar incêndio.
+Use luvas e proteção dos olhos ao manusear metal quente.
+Trabalhe ao ar livre ou com ventilação para não acumular vapor.
+Não beba o líquido destilado sem conhecer a origem do material.
+Se houver cheiro forte, fumaça ou pressão, pare e afaste-se.
+
+SE NAO TIVER
+------------
+Sem torneira, use uma mangueira presa com abraçadeira na base.
+Sem tubo de cobre, adapte um tubo metálico reto e externo.
+Sem pano, use tela de arame limpa ou palha como filtro grosso.
+Nunca improvise com plástico derretível junto ao calor.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O líquido coletado escorre limpo e sem partículas visíveis.
+A camada densa sai primeiro pela torneira do decanter.
+O vapor condensa e goteja no coletor sem vazamentos.
+
+FONTES
+------
+Prática consolidada de tecnologia apropriada e engenharia química.
+Conceito de operações unitárias segundo o Science History Institute.
+Ensino clássico: Walker, Lewis e McAdams, 1923.
+Manuais de tecnologia intermediária do ITDG, hoje Practical Action.
+Referências gerais de destilação consultadas como pista inicial.

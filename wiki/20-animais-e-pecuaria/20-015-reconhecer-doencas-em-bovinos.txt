@@ -1,0 +1,94 @@
+==============================================================================
+CODIGO: 20-015
+TITULO: Como reconhecer doenças em bovinos
+CATEGORIA: 20 - Animais domésticos e pecuária
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: luz boa, caderno, luvas, termômetro retal, máscara
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bovino, gado, doença, sintoma, aftosa, brucelose
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer sinais de doença no gado e decidir quando isolar e pedir ajuda.
+
+QUANDO USAR
+-----------
+Ao passar a mão ou o olho no rebanho todos os dias.
+Quando um animal para de comer ou de ruminar.
+Quando aparece febre, tosse, saliva excessiva ou manqueira.
+Quando há aborto, nódulos ou inchaço nos testículos.
+Antes de comprar, transportar ou introduzir animal no rebanho.
+Ao notar queda de leite ou perda de peso sem causa.
+
+NAO USE QUANDO
+--------------
+Não substitui o diagnóstico de veterinário nem exame de laboratório.
+Não serve para escolher remédio, dose ou vacina.
+Não dispensa o isolamento quando há suspeita.
+
+MATERIAIS
+---------
+- Luz boa, natural ou de lanterna, para ver a boca e os pés.
+- Caderno e lápis para anotar animal, data e sinal.
+- Luvas descartáveis ou de borracha (ou saco plástico duplo).
+- Máscara e óculos, se houver, para não inalar ou receber fluidos.
+- Termômetro retal, se houver.
+- Corda ou cerca para separar o animal suspeito.
+- Água limpa e sabão para lavar as mãos depois.
+
+PROCEDIMENTO
+------------
+1. Observe o rebanho parado, em silêncio, por alguns minutos.
+2. Compare os animais entre si: quem está apático ou parado.
+3. Note quem não come, não rumina ou fica deitado.
+4. Aproxime-se com calma, sem correr, para não estressar o gado.
+5. Veja a boca, a língua e as gengivas: procure bolhas ou feridas.
+6. Levante cada pé e olhe entre os cascos por bolhas ou vermelhidão.
+7. Olhe os tetos, o focinho e os olhos por lesões ou corrimento.
+8. Meça a temperatura retal: febre alta é aproximadamente 40 °C.
+9. Note saliva espessa, tosse, manqueira ou inchaço nos testículos.
+10. Anote o animal, a data, os sinais e quantos animais afetou.
+11. Separe o animal suspeito dos demais com corda ou cerca.
+12. Não toque em fluidos, placenta, fezes ou lesões sem luvas.
+13. Feche a área e lave mãos e equipamentos com água e sabão.
+14. Não use leite, carne ou couro do animal doente.
+15. Avise o responsável e chame veterinário ou autoridade sanitária.
+
+ATENCAO
+-------
+Febre aftosa, brucelose e tuberculose têm sinais parecidos entre si.
+Não tente dar diagnóstico definitivo só pelo que vê.
+Bolhas na boca e nos pés com saliva espessa sugerem febre aftosa.
+Aborto, retenção de placenta e testículos inchados sugerem brucelose.
+Tosse crônica, nódulos no pescoço e emagrecimento sugerem tuberculose.
+Febre aftosa é muito contagiosa e espalha por roupas, pés e veículos.
+Brucelose e tuberculose passam para pessoas, sobretudo por leite cru.
+Nunca beba leite cru nem coma carne mal cozida de animal suspeito.
+Use luvas, máscara e óculos ao lidar com parto, placenta ou lesões.
+Se houver bolhas, abortos ou mais de um animal doente, isole e chame ajuda.
+Sem veterinário, isolar reduz o risco, mas não cura o animal.
+
+SE NAO TIVER
+------------
+Sem termômetro, use febre alta, apatia e sinais visíveis como critério.
+Sem luvas, use saco plástico duplo nas mãos e lave bem depois.
+Sem máscara, cubra nariz e boca com pano limpo e mantenha distância.
+Sem cerca, amarre o animal com corda longa em local afastado.
+Não improvise remédio, vacina ou dose: isso pode matar o animal.
+Se não há como isolar, reduza contato e avise quem cuida do rebanho.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O animal suspeito ficou separado e os demais foram observados.
+Você anotou por escrito os sinais, a data e os animais afetados.
+Não houve contato direto com fluidos sem proteção.
+Leite e carne do animal doente não foram usados.
+O responsável ou o veterinário foi avisado.
+
+FONTES
+------
+Sinais e zoonoses: CDC (brucelose) e WOAH/OMS (tuberculose bovina).
+Febre aftosa: alerta USDA/APHIS e Manual Veterinário MSD.
+Resumo operacional; prática consolidada, não substitui treinamento.

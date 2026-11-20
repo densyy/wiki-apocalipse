@@ -1,0 +1,92 @@
+==============================================================================
+CODIGO: 59-018
+TITULO: Como realizar bloqueio e etiquetagem de equipamentos
+CATEGORIA: 59 - Segurança industrial e riscos ocupacionais
+TEMPO: 30 minutos
+RISCO: critico
+EXIGE: procedimento, cadeados, etiquetas, instrumento de teste
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bloqueio, etiquetagem, lockout, tagout, energia zero
+==============================================================================
+
+OBJETIVO
+--------
+Isolar a máquina da fonte de energia e impedir que volte a ligar.
+
+QUANDO USAR
+-----------
+Antes de limpar, ajustar ou consertar máquina com partes móveis.
+Antes de abrir painel elétrico ou tocar em circuito.
+Quando a energia pode voltar sem aviso: disjuntor ou válvula.
+Quando outra pessoa pode ligar o equipamento durante o serviço.
+
+NAO USE QUANDO
+--------------
+Se você não tem treinamento, pare e chame um trabalhador autorizado.
+Não use etiqueta como única barreira onde caiba cadeado.
+Não faça em rede que não pode ser desligada: é serviço de especialista.
+
+MATERIAIS
+---------
+- Cadeado individual com chave própria (um por trabalhador).
+- Etiqueta com aviso Não ligar, nome, data, hora e serviço.
+- Dispositivo de travamento (alça ou braço para o cadeado).
+- Instrumento de teste: multímetro ou testador de tensão.
+- Caixa trancada para as chaves (se houver vários cadeados).
+- Procedimento ou matriz de bloqueio do equipamento, se houver.
+- Fita e placa para sinalizar a área.
+
+PROCEDIMENTO
+------------
+1. Confirme que você está autorizado e tenha o procedimento.
+2. Avise quem trabalha perto que o equipamento será desligado.
+3. Liste as fontes: elétrica, mecânica, hidráulica, ar, gravidade.
+4. Desligue pelo comando normal, o botão de parada.
+5. Abra o dispositivo de seccionamento: disjuntor, chave ou válvula.
+6. Confira a posição desligado: marca D, cor verde.
+7. Prenda o cadeado de modo que o dispositivo não possa fechar.
+8. Fixe a etiqueta no mesmo ponto, com nome, hora e serviço.
+9. Se houver vários, cada trabalhador prende o seu cadeado.
+10. Guarde as chaves na caixa, sob um responsável.
+11. Solte a energia guardada: pressão, molas, partes suspensas.
+12. Teste a ausência de energia em cada ponto com o instrumento.
+13. Tente acionar o comando: a máquina não deve partir.
+14. Se a energia pode voltar, aterre e proteja partes próximas.
+15. Delimite e sinalize a área antes de começar o serviço.
+16. Retire ferramentas, reinstale proteções e confira a área.
+17. Cada um retira seu cadeado; o responsável retira o último.
+18. Avise a equipe e religue na ordem inversa com segurança.
+
+ATENCAO
+-------
+Botão de parada e pedal não isolam: não travam a energia.
+Bloquear o dispositivo errado deixa o circuito vivo: confira o diagrama.
+A etiqueta só avisa, não impede o acionamento. Prefira o cadeado.
+Energia guardada em mola, ar ou capacitador pode matar após o desligamento.
+Não confie na luz do painel: teste com instrumento antes de tocar.
+Se o teste acusar energia, pare, mantenha o cadeado e chame o responsável.
+Nunca retire o cadeado de outra pessoa nem religue com gente na máquina.
+Se não foi treinado, não execute: chame um trabalhador autorizado.
+
+SE NAO TIVER
+------------
+Sem cadeado, não improvise com arame ou fita: dão falsa segurança.
+Sem instrumento, não declare energia zero; peça o aparelho ou ajuda.
+Se só houver etiqueta, fixe-a visível, escreva nome e hora, vigie o ponto
+e reforce retirando fusível ou travando a peça mecanicamente.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O dispositivo está travado em desligado, com cadeado e etiqueta legíveis.
+O instrumento não acusa tensão, pressão nem movimento em nenhum ponto.
+A tentativa de acionar o comando não move a máquina.
+Ninguém religa sem remover o cadeado.
+
+FONTES
+------
+NR-10 do Ministério do Trabalho e Emprego, Brasil: sequência de
+desenergização e sinalização de impedimento de reenergização.
+OSHA 29 CFR 1910.147 e publicação OSHA 3120 (energia perigosa).
+NIOSH, controle de fontes de energia perigosa.
+Procedimento industrial de bloqueio: matriz e teste de energia zero.
+Resumo operacional, não substitui treinamento.

@@ -1,0 +1,93 @@
+==============================================================================
+CODIGO: 75-018
+TITULO: Como construir abrigos contra calor e chuvas
+CATEGORIA: 75 - Tecnologias apropriadas para regiões tropicais
+TEMPO: 6 horas
+RISCO: alto
+EXIGE: madeira ou bambu, lona ou telha, corda, estacas, ferramenta de corte
+REVISAO: 2026-11
+PALAVRAS-CHAVE: abrigo, calor, chuva, sombra, ventilação, lona, proteção
+==============================================================================
+
+OBJETIVO
+--------
+Montar um abrigo que dê sombra, deixe o ar circular e mantenha a chuva fora.
+
+QUANDO USAR
+-----------
+Quando o calor é forte e não há sombra natural no local.
+Quando a chuva é intensa e é preciso proteger pessoas ou alimentos.
+Quando não há casa, tenda ou cobertura firme onde dormir ou guardar coisas.
+Quando o abrigo atual goteja, esquenta demais ou foi danificado pelo vento.
+
+NAO USE QUANDO
+--------------
+Quando o terreno é leito de rio, talude rachado ou baixada que alaga.
+Nunca erga o abrigo sob galho seco ou perto de fio elétrico caído.
+Sem orientação técnica, não construa em área de deslizamento conhecida.
+
+MATERIAIS
+---------
+- Madeira ou bambu para os postes e as vigas (estacas de cerca).
+- Lona resistente ou telha clara para a cobertura (lona de caminhão).
+- Corda forte ou arame para amarrar a cobertura (cadarço, fita).
+- Estacas de metal ou madeira para prender a corda ao chão.
+- Pedra ou bloco para apoiar os postes e elevar o piso.
+- Pá ou enxada para abrir a valeta de drenagem.
+- Luvas e óculos de proteção para cortar e prender a cobertura.
+- Cal ou tinta clara para pintar uma cobertura escura (reflete calor).
+
+PROCEDIMENTO
+------------
+1. Escolha o ponto mais alto, firme e livre de taludes e leitos de rio.
+2. Afaste o abrigo aproximadamente 3 m de árvores com galhos secos.
+3. Marque o retângulo no chão com estacas e corda.
+4. Posicione os postes nos cantos, apoiados em pedra ou bloco.
+5. Fince cada estaca de fixação aproximadamente 40 cm no chão.
+6. Eleve o piso aproximadamente 30 cm para ventilar e afastar a umidade.
+7. Prenda as vigas aos postes com corda ou arame, sem deixar folga.
+8. Estenda a lona ou a telha sobre as vigas formando duas águas.
+9. Incline a cobertura para escoar a água da chuva para os dois lados.
+10. Avance a cobertura aproximadamente 50 cm além dos postes, como beiral.
+11. Amarre cada ponta da cobertura às estacas com corda bem tensionada.
+12. Mantenha os lados opostos abertos para a ventilação cruzada.
+13. Cubra a entrada de ar com pano fino ou tela para barrar insetos.
+14. Cave uma valeta rasa ao redor para escoar a água da chuva.
+15. Coloque pedras na valeta para a terra não ser levada pela água.
+16. Coloque sombra de lona ou folhagem no lado oeste e sudoeste.
+17. Puxe cada corda e reaperte qualquer amarração que ficou frouxa.
+
+ATENCAO
+-------
+Trabalho em altura e ferramentas de corte podem causar ferimentos graves.
+Use luvas, calçado fechado e nunca prenda a cobertura trabalhando sozinho.
+Cobertura frouxa é arrancada pelo vento e pode ferir quem estiver perto.
+Poste mal fixado afunda com a chuva e derruba o abrigo sobre as pessoas.
+Nunca acenda vela ou lampião dentro do abrigo fechado: monóxido de carbono
+não tem cor nem cheiro e mata durante o sono.
+Lona plástica retém calor e apodrece: use só como proteção temporária.
+Se o solo rachar, a água subir ou o vento aumentar, saia e peça ajuda.
+
+SE NAO TIVER
+------------
+Sem lona, use telha de zinco ou palha trançada bem amarrada.
+Sem telha clara, pinte a cobertura com cal ou tinta clara.
+Sem corda, use arame, cipó resistente ou tiras de pano trançado.
+Sem estacas de metal, use estacas de madeira grossas enteradas mais fundo.
+Sem pano fino, deixe os vãos abertos e afaste o abrigo de áreas com insetos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A cobertura não goteja e a água escoa para fora da valeta.
+Há corrente de ar pelos lados opostos e o interior fica mais fresco.
+A corda está tensionada e os postes não balançam quando empurrados.
+O piso permanece seco depois da chuva.
+
+FONTES
+------
+Prática consolidada de abrigos de emergência em clima quente e chuvoso.
+Famílias de referência: guias de abrigo e manual de segurança de abrigos
+da IFRC e da Cruz Vermelha; padrões Sphere de abrigo e assentamentos;
+orientações da OMS sobre calor e saúde: ventilação natural e sombra.
+Resumo operacional, sem documento único consultado; não substitui
+orientação técnica local.

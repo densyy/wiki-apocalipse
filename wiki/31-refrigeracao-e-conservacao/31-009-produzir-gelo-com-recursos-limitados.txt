@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 31-009
+TITULO: Como produzir gelo com recursos limitados
+CATEGORIA: 31 - Refrigeração e conservação térmica
+TEMPO: 25 minutos
+RISCO: medio
+EXIGE: água potável, recipiente, fonte de frio abaixo de zero
+REVISAO: 2026-11
+PALAVRAS-CHAVE: gelo, congelar, frio, conservação, cooler, improviso
+==============================================================================
+
+OBJETIVO
+--------
+Produzir e guardar gelo usando apenas frio disponível e recipientes comuns.
+
+QUANDO USAR
+-----------
+Quando houver congelador e o fornecimento de energia for intermitente.
+Quando a noite for fria e a água precisar ser resfriada.
+Para resfriar água de beber ou alimentos sem geladeira.
+
+NAO USE QUANDO
+--------------
+Quando não houver fonte de frio abaixo de 0 °C: sem isso não se faz gelo.
+Quando a água for duvidosa e o gelo for parar na boca ou em ferida.
+Congelar não é tratamento de água; use somente água potável.
+
+MATERIAIS
+---------
+- Água potável em quantidade suficiente.
+- Recipiente plástico ou silicone com tampa (vidro só com folga).
+- Congelador, ou local externo protegido em noite de frio intenso.
+- Pano limpo e caixa isotérmica para guardar (jornal seco, saco).
+
+PROCEDIMENTO
+------------
+1. Confirme o frio: congelador ligado ou ar exterior abaixo de 0 °C.
+2. Lave o recipiente e encha até três quartos com água potável.
+3. Feche a tampa sem apertar: a água aumenta de volume ao congelar.
+4. Coloque no ponto mais frio do congelador, sem encostar em alimentos.
+5. Em frio natural, deixe o recipiente nivelado, na sombra e sem vento.
+6. Espere aproximadamente 4 a 8 horas sem mexer no recipiente.
+7. Verifique o centro: se ainda houver líquido, espere mais 1 ou 2 horas.
+8. Retire e espere aproximadamente 2 minutos antes de desmoldar.
+9. Torça o recipiente flexível para soltar o bloco de gelo.
+10. Guarde o gelo enrolado em pano limpo, dentro da caixa isotérmica.
+
+ATENCAO
+-------
+Encher até a borda estoura o recipiente; vidro racha com a expansão da água.
+Não acrescente sal para congelar mais rápido: o sal atrasa o congelamento.
+Não encoste gelo puro na pele por muito tempo: pode queimar a pele.
+Gelo de água não tratada não é seguro para beber nem para feridas.
+Se o congelador não fecha ou há cheiro de combustível, pare e limpe antes.
+
+SE NAO TIVER
+------------
+Sem congelador, use apenas frio natural em noite abaixo de zero.
+Em clima quente não existe improviso que congele água sem fonte de frio.
+Nunca use amônia ou produtos químicos para forçar o congelamento.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O bloco está duro no centro, opaco e solta inteiro do molde.
+Dentro da caixa fechada, o gelo continua sólido após aproximadamente 1 hora.
+
+FONTES
+------
+Prática consolidada de congelamento doméstico e conservação térmica, sem
+documento único; nenhuma fonte institucional específica foi consultada.

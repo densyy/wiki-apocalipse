@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 51-023
+TITULO: Como utilizar trigonometria em topografia
+CATEGORIA: 51 - Matemática aplicada à sobrevivência
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: ponto de referência, visão livre, papel, lápis, medidor de ângulo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: topografia, altura, distância, ângulo, tangente, medir
+==============================================================================
+
+OBJETIVO
+--------
+Calcular alturas e distâncias inacessíveis com ângulos e triângulos.
+
+QUANDO USAR
+-----------
+Ao medir altura de árvore, encosta ou construção sem subir nela.
+Ao achar a largura de rio ou ravina sem atravessar.
+Ao nivelar terreno para canal, rampa ou fundação.
+
+NAO USE QUANDO
+--------------
+Não substitua por projeto técnico em obra que sustente peso.
+Em solo instável ou beira de barranco, pare e peça ajuda.
+
+MATERIAIS
+---------
+- Papel e lápis (ou carvão, giz, ou um graveto na terra).
+- Medidor de ângulo: transferidor, teodolito, ou a mão calibrada.
+- Fita, trena ou corda para medir a distância conhecida.
+- Mira: régua ou bastão vertical de altura conhecida (se houver).
+
+PROCEDIMENTO
+------------
+1. Escolha o ponto A, onde você fica, e o ponto B, cuja altura quer achar.
+2. Meça a distância horizontal d entre A e a base de B, na mesma unidade.
+3. Meça o ângulo vertical alfa entre a horizontal e a visão a B.
+4. Anote a altura dos olhos (hi) e a altura do alvo em B (ht).
+5. Calcule a tangente: cateto oposto dividido pelo cateto adjacente.
+6. Desnível = d x tan(alfa) + hi - ht; some à altitude de A.
+7. Para largura inacessível, meça a base e os ângulos a e b até o alvo.
+8. Calcule: largura = base x tan(a) x tan(b) / (tan(a) + tan(b)).
+
+ATENCAO
+-------
+A tangente usa ângulo medido a partir da horizontal, não da vertical.
+Se o aparelho der ângulo zenital, converta: 90 graus menos a leitura.
+Use uma única unidade; meça duas vezes para conferir a leitura.
+A distância d é horizontal, não a medida sobre o terreno inclinado.
+Além de aproximadamente 300 m, refração e curvatura da Terra geram erro.
+Não fique em barranco nem encosta suspeita; pare e peça ajuda.
+
+SE NAO TIVER
+------------
+Sem medidor, use a mão a um braço estendido, calibrada antes.
+Sem fita, conte passos e multiplique pelo tamanho médio do passo.
+Sem mira, use a altura de uma pessoa como referência.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O desnível calculado bate com a leitura direta da mira.
+Repetindo a medição no mesmo ponto, o resultado quase não muda.
+
+FONTES
+------
+Prática consolidada de geometria e topografia: nivelamento
+trigonométrico por ângulo vertical e distância, com correção de
+refração e curvatura em trechos longos. Texto resumido, não substitui
+projeto de engenharia.

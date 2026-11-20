@@ -1,0 +1,80 @@
+==============================================================================
+CODIGO: 82-017
+TITULO: Como administrar recursos naturais compartilhados
+CATEGORIA: 82 - Direito, governança e organização social
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: acordo entre usuários, limite de uso claro, registro simples
+REVISAO: 2026-11
+PALAVRAS-CHAVE: recurso comum, pasto, água, regra, monitoramento, sanção
+==============================================================================
+
+OBJETIVO
+--------
+Definir regras que evitem o esgotamento de recurso usado por vários grupos.
+
+QUANDO USAR
+-----------
+Quando vários grupos retiram água, pasto, peixe ou lenha do mesmo lugar.
+Quando o consumo cresce e o recurso demora a se recuperar.
+Quando surge disputa entre quem usa e quem afirma ter direito de uso.
+Quando é preciso reorganizar a gestão após a queda do poder anterior.
+Ao notar sinais de esgotamento: menos peixe, pasto ralo ou poço vazio.
+
+NAO USE QUANDO
+--------------
+Não imponha regras sem ouvir quem depende do recurso para comer.
+Não aplique limite único quando os usos são muito diferentes entre si.
+Não crie regra que deixe um grupo sem água ou sem alimento.
+
+MATERIAIS
+---------
+- Caderno para anotar acordos, nomes e datas (celular, se houver).
+- Lista dos grupos usuários e do que cada um retira.
+- Marcador simples para sinalizar área ou ponto de captação (estaca).
+- Relógio ou forma de contar o tempo de uso.
+
+PROCEDIMENTO
+------------
+1. Identifique o recurso e onde ele se renova, com ajuda de quem usa.
+2. Liste todos os grupos que retiram algo dali, sem excluir ninguém.
+3. Anote quanto cada grupo retira e com que frequência, em média.
+4. Estime quanto o recurso consegue repor em um ano, de forma aproximada.
+5. Convoque um representante de cada grupo para uma primeira reunião.
+6. Explique o problema com números simples e sem acusar ninguém.
+7. Defina juntos um limite total de retirada por ano ou por estação.
+8. Divida o limite entre os grupos por critério claro e aceito por todos.
+9. Escolha épocas de descanso para permitir a renovação do recurso.
+10. Combine quem fiscaliza e como registrar cada retirada.
+11. Escreva as regras em linguagem curta, em local visível a todos.
+12. Defina o que acontece quando alguém ultrapassa o limite combinado.
+13. Marque uma data de revisão para corrigir o que não funcionou.
+
+ATENCAO
+-------
+Limite mal calculado pode provocar fome ou conflito entre vizinhos.
+Se o recurso já está esgotado, repartir a escassez não basta: reduza o uso.
+Regras sem fiscalização e sem consequência costumam ser descumpridas.
+Não permita que um grupo acuse outro sem evidência de retirada.
+Se houver ameaça ou violência, suspenda a reunião e busque mediação.
+
+SE NAO TIVER
+------------
+Sem dados de renovação, comece com limite cauteloso e revise em breve.
+Sem papel, escreva o acordo em tábua, parede ou pedra com carvão.
+Sem representantes, sorteie pessoas para rodízio de fiscalização.
+Sem consenso, aplique primeiro as regras aceitas e negocie o resto.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O recurso mostra sinais de recuperação na estação seguinte.
+Todos conseguem dizer o limite e o período de descanso combinados.
+As retiradas estão registradas e as disputas diminuíram.
+A revisão marcada aconteceu e ajustou as regras necessárias.
+
+FONTES
+------
+Princípios consolidados de governança de recursos comuns, descritos na
+literatura de economia e ciência política sobre bens compartilhados.
+Orientações técnicas de manejo de bacias e pastagens de órgãos públicos
+de meio ambiente e de agências de desenvolvimento rural.

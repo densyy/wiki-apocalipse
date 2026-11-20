@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 36-028
+TITULO: Como utilizar uma lupa geológica
+CATEGORIA: 36 - Geologia, mineração e recursos naturais
+TEMPO: 15 minutos
+RISCO: baixo
+EXIGE: lupa de aumento, amostra de rocha, boa luz
+REVISAO: 2026-11
+PALAVRAS-CHAVE: lupa, lente, aumento, mineral, rocha, geologia, ampliar
+==============================================================================
+
+OBJETIVO
+--------
+Usar a lupa para ver detalhes de minerais e texturas de rochas no campo.
+
+QUANDO USAR
+-----------
+Ao examinar grãos, cristais ou planos de quebra de uma amostra.
+Ao comparar a crosta intemperizada com uma face recém-quebrada.
+Ao procurar fósseis pequenos, veios ou inclusões numa rocha.
+
+NAO USE QUANDO
+--------------
+Nunca aponte a lupa para o sol, para fogo ou para luz intensa.
+Não use em mina, poço ou corte instável com material que voe.
+Não substitui análise de laboratório nem laudo técnico.
+
+MATERIAIS
+---------
+- Lupa de bolso com aumento de 10x (ou 20x para detalhes finos).
+- Amostra de rocha com uma face limpa.
+- Pano macio e seco para limpar a lente (ou papel de óculos).
+- Lanterna de luz branca (ou luz do dia) e caderno para anotar.
+
+PROCEDIMENTO
+------------
+1. Limpe as lentes com pano macio e seco, sem esfregar com força.
+2. Encoste a armação da lupa junto ao olho e mantenha firme.
+3. Aproxime a amostra cerca de 2 cm e ajuste até focar nítido.
+4. Coloque a luz de lado, formando sombra fraca sobre os grãos.
+5. Escolha face limpa da amostra, sem crosta intemperizada.
+6. Observe cor, brilho e transparência de cada grão.
+7. Observe a forma dos cristais e os planos retos de quebra.
+8. Anote no caderno cor, brilho, forma e local da amostra.
+
+ATENCAO
+-------
+Nunca olhe para o sol com a lupa: a luz focada queima a retina.
+A queima pode causar cegueira permanente, sem dor imediata.
+Não deixe a lupa ao sol sobre papel ou pano: pode acender fogo.
+Lente suja ou riscada engana; limpe antes de observar.
+A cor da crosta engana: procure uma face fresca da amostra.
+Pare e peça ajuda se aparecer mancha ou dor nos olhos.
+
+SE NAO TIVER
+------------
+Sem lupa, use uma gota de água sobre a face lisa como lente.
+A gota amplia pouco; sem luz própria, observe ao ar livre, na sombra.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A imagem fica nítida sem mover a lupa nem forçar a visão.
+Grãos, cristais e planos de quebra aparecem separados.
+O caderno registra cor, brilho, forma e local de coleta.
+
+FONTES
+------
+Prática consolidada de observação de minerais em geologia de campo.
+Manual of Mineralogy (Hurlbut e Klein) e guias de identificação da
+U.S. Geological Survey (USGS). Não substitui treinamento técnico.

@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 25-012
+TITULO: Como planejar uma dieta com recursos limitados
+CATEGORIA: 25 - Alimentação, nutrição e fisiologia
+TEMPO: 45 minutos
+RISCO: alto
+EXIGE: caderno, lápis, medidas limpas, lista de pessoas e alimentos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: dieta, planejar, comida, racionar, calorias, proteína, fome
+==============================================================================
+
+OBJETIVO
+--------
+Montar um plano de refeições para vários dias com a comida disponível.
+
+QUANDO USAR
+-----------
+- Quando a comida precisa durar vários dias sem reposição.
+- Quando faltam dinheiro, mercado ou transporte para comprar mantimentos.
+- Quando se cuida de criança, gestante, idoso ou pessoa doente.
+- Quando frio ou trabalho pesado aumentam o gasto de energia.
+
+NAO USE QUANDO
+--------------
+- Não use para curar desnutrição grave, doença ou desidratação.
+- Não substitua leite materno, fórmula infantil nem remédio prescrito.
+- Não use alimento mofado, com cheiro estranho ou de origem duvidosa.
+- Se alguém vomita tudo, não engole ou tem dor forte, busque ajuda já.
+
+MATERIAIS
+---------
+- Caderno e lápis para anotar pessoas, alimentos e porções.
+- Lista do que existe na despensa, com medida de cada item.
+- Copo, concha ou colher limpa para medir porções.
+- Relação de quem come: idade, gestante, amamenta ou doente.
+
+PROCEDIMENTO
+------------
+1. Anote quantas pessoas comem e a idade de cada uma.
+2. Liste o alimento disponível e a quantidade de cada item.
+3. Separe em grupos: cereal, leguminosa, gordura, proteína e verdura.
+4. Some as calorias de cada grupo; leia a embalagem quando houver.
+5. Use aproximadamente 2.100 calorias por pessoa ao dia como referência.
+6. Abaixo de 20 graus, some aproximadamente 100 calorias por 5 graus.
+7. Some aproximadamente 140 calorias para atividade moderada e 350
+   para trabalho pesado.
+8. Reserve aproximadamente 285 calorias para gestante e 500 para amamenta.
+9. Anote o que o grupo obtém sozinho, como horta ou doação.
+10. Subtraia isso da necessidade para achar a falta por pessoa ao dia.
+11. Multiplique a falta pelas pessoas e pelos dias.
+12. Priorize arroz, milho, trigo, mandioca, óleo ou gordura.
+13. Junte feijão, lentilha ou grão-de-bico à refeição principal.
+14. Escreva dia, refeição e porção de cada alimento no caderno.
+15. Dê proteína animal e verdura primeiro a criança, gestante e doente.
+16. Cozinhe com higiene: lave as mãos, separe cru de cozido e cozinhe bem.
+
+ATENCAO
+-------
+- A referência de 2.100 calorias é média, não dose individual.
+- Frio, trabalho pesado, febre e desnutrição aumentam a necessidade;
+  calcular pouco causa perda de peso.
+- Comer só cereal por dias causa deficiência: inclua leguminosa, gordura,
+  alimento animal e verdura.
+- Acertar calorias não garante vitaminas; sem variedade há deficiência.
+- Sem água limpa o corpo não aproveita o alimento e cresce a diarreia.
+- Alimento mofado ou exposto por horas intoxica: descarte, não aproveite.
+- Cozinhar não retira sal, metal, agrotóxico nem combustível.
+- Com vômito, diarreia, sonolência ou perda rápida de peso, pare e busque
+  atendimento de saúde.
+
+SE NAO TIVER
+------------
+- Sem balança, meça com copo ou concha e repita a mesma porção.
+- Sem dados na embalagem, trate a conta como aproximada e observe o peso.
+- Sem carne, combine cereal com leguminosa no mesmo dia para a proteína.
+- Sem óleo, use a gordura disponível em pequena quantidade; não coma
+  gordura com cheiro rançoso.
+- Sem comida suficiente, priorize criança, gestante e doente e peça ajuda
+  a parente, vizinho ou órgão de assistência.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- Cada dia tem refeições escritas e porções medidas no caderno.
+- O total do dia fica perto da referência ajustada para o grupo.
+- Cada refeição tem cereal e leguminosa; uma tem alimento de origem
+  animal ou substituto.
+- A pessoa bebe água limpa e mantém o peso sem fraqueza nova.
+- O caderno registra o que foi comido e o que sobrou em cada dia.
+
+FONTES
+------
+- OMS, UNHCR, UNICEF e WFP: "Food and Nutrition Needs in Emergencies"
+  (2002, revisão 2004): 2.100 calorias e ajustes por frio, atividade e
+  estado nutricional.
+- Sphere Handbook (2018) e WFP: "Emergency Field Operations Pocketbook":
+  10 a 12% em proteína, cerca de 17% em gordura e acréscimos por frio.
+- OMS: "Cinco chaves para alimentos mais seguros" e prática consolidada
+  de racionamento doméstico.

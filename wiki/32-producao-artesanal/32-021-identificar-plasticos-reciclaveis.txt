@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 32-021
+TITULO: Como identificar plásticos recicláveis
+CATEGORIA: 32 - Produção industrial e manufatura artesanal
+TEMPO: 15 minutos
+RISCO: medio
+EXIGE: luz forte, papel, caneta, sacos separados, luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: plástico, reciclagem, resina, código, triângulo, separar
+==============================================================================
+
+OBJETIVO
+--------
+Classificar peças plásticas pelo tipo de resina e separar as recicláveis.
+
+QUANDO USAR
+-----------
+Ao separar resíduos para coleta seletiva ou cooperativa.
+Ao preparar plástico para reprocesso artesanal.
+Ao decidir se uma embalagem pode ser reutilizada com segurança.
+
+NAO USE QUANDO
+--------------
+Não teste por queima, cheiro ou sabor: libera fumes tóxicos.
+O número da resina não atesta segurança para água ou alimentos.
+
+MATERIAIS
+---------
+- Luz forte, de preferência natural (lanterna).
+- Papel e caneta para anotar os grupos.
+- Sacos ou caixas limpos, um para cada tipo.
+- Luvas (pano limpo, se não houver luvas).
+
+PROCEDIMENTO
+------------
+1. Lave a peça com água e detergente e seque com pano limpo.
+2. Vire a peça e procure o selo na base, na lateral ou na tampa.
+3. Localize o triângulo com número de 1 a 7, impresso ou em relevo.
+4. Sem triângulo, leia a sigla impressa: PET, HDPE, PVC, LDPE, PP, PS.
+5. Anote o número no papel e repita com as demais peças.
+6. Separe as peças em grupos, um para cada número anotado.
+7. Classifique: 1 PET; 2 HDPE; 3 PVC; 4 LDPE; 5 PP; 6 PS; 7 outros.
+8. Coloque as peças sem número legível no grupo de dúvida.
+9. Guarde cada grupo em saco limpo, identificado com o número.
+
+ATENCAO
+-------
+O triângulo identifica a resina, não promete reciclagem na sua cidade.
+A aceitação muda entre pontos de coleta; confirme antes de entregar.
+Não queime plástico para testar, especialmente PVC: libera fumes tóxicos.
+Não reutilize recipiente de origem desconhecida para água potável.
+Resina 3 (PVC) e 7 (multicamada): evite reuso com alimentos.
+Com resíduo de óleo, tinta, solvente ou agrotóxico, separe como resíduo
+perigoso e não tente reaproveitar. Use luvas e ventilação nesse caso.
+
+SE NAO TIVER
+------------
+Sem selo legível, não adivinhe por cor, brilho ou dureza: mantenha na
+dúvida. Sem sacos, use caixas de papelão limpas e identificadas.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Toda peça tem número anotado ou está no grupo de dúvida.
+Os sacos estão limpos e identificados; nenhum tem resíduo químico.
+
+FONTES
+------
+Prática consolidada de separação. Códigos SPI/ASTM D7611 (ASTM).
+Orientações da EPA, do CEMPRE e da Association of Plastic Recyclers.
+Resumo operacional; siga as regras do ponto de coleta local.

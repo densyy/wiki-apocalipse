@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 29-033
+TITULO: Como alimentar dispositivos USB com energia solar
+CATEGORIA: 29 - Tecnologia, computação e informática offline
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: painel solar, controlador de carga, bateria, conversor USB 5 V
+REVISAO: 2026-11
+PALAVRAS-CHAVE: energia solar, painel solar, carregar celular, usb, bateria
+==============================================================================
+
+OBJETIVO
+--------
+Carregar celular, lanterna ou outro dispositivo USB usando só luz solar.
+
+QUANDO USAR
+-----------
+Quando a rede elétrica estiver sem energia.
+Para carregar celular ou rádio durante o dia.
+Para manter uma lanterna USB pronta para a noite.
+Quando houver sol, mesmo sem tomada por perto.
+Em acampamento, viagem ou abrigo improvisado.
+
+NAO USE QUANDO
+--------------
+Quando o aparelho pedir mais energia do que painel e bateria fornecem.
+Quando não houver controlador de carga nem bateria com proteção.
+Quando a bateria estiver inchada, quente ou com cheiro estranho.
+Perto de rede elétrica energizada, sem equipamento e conhecimento.
+
+MATERIAIS
+---------
+- Painel solar pequeno (de 5 V com saída USB, ou maior com controlador).
+- Controlador de carga solar (PWM, compatível com a bateria).
+- Bateria recarregável com circuito de proteção (BMS).
+- Conversor DC-DC para saída USB de 5 V (ou carregador USB veicular).
+- Cabo USB para o dispositivo.
+- Multímetro para conferir a tensão.
+- Fios e conectores com isolamento.
+
+PROCEDIMENTO
+------------
+1. Prefira um painel de 5 V com saída USB se for carregar um aparelho só.
+2. Para sistema maior, use painel, controlador, bateria e conversor.
+3. Desligue o controlador e a bateria antes de qualquer ligação.
+4. Confirme que a bateria tem BMS (circuito que evita sobrecarga e curto).
+5. Ligue primeiro a bateria ao controlador, respeitando os sinais + e -.
+6. Invertendo + e -, o controlador e a bateria queimam. Confira duas vezes.
+7. Ligue o painel solar ao controlador, com + e - corretos.
+8. Ligue o conversor USB de 5 V aos terminais da bateria ou controlador.
+9. Meça com o multímetro: a saída USB deve dar aproximadamente 5 V.
+10. Só depois conecte o cabo USB ao celular ou ao dispositivo.
+11. Posicione o painel voltado ao sol, sem sombra, inclinado para a luz.
+12. Acompanhe o controlador: com bateria cheia ele reduz a carga.
+13. Desconecte o aparelho se a bateria enfraquecer ou o sol sumir.
+
+ATENCAO
+-------
+Eletricidade e bateria de lítio podem causar incêndio: nunca pule o
+controlador de carga. A USB exige aproximadamente 5 V; tensão maior
+queima o celular e o aparelho. Um painel chamado "12 V" pode passar de
+17 V com sol forte: ligá-lo direto destrói o dispositivo. Inverter os
+fios + e - queima controlador, bateria e conversor. Bateria de lítio sem
+proteção pode pegar fogo se for curto-circuitada, esmagada ou
+sobrecarregada. Não use bateria inchada, aquecida ou com cheiro estranho.
+Não ligue este sistema à rede elétrica nem a gerador sem equipamento
+próprio. Mantenha as ligações secas: água nos contatos causa curto.
+
+SE NAO TIVER
+------------
+Sem controlador, use painel pequeno com saída USB de 5 V já regulada.
+Sem bateria, o aparelho funciona só com sol direto e desliga na sombra.
+Sem conversor USB, não ligue bateria direto ao cabo: a tensão errada
+destrói o aparelho. Sem multímetro, use só carregador USB de fabrica ou
+módulo regulado conhecido; nunca improvise ligação direta.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O controlador acende o indicador de carga com sol e mostra bateria
+cheia depois de algumas horas. O multímetro marca aproximadamente 5 V
+nos contatos da saída USB. O celular mostra o ícone de carregando e a
+porcentagem sobe. Bateria e fios ficam frios, sem cheiro ou inchaço.
+
+FONTES
+------
+Prática consolidada de montagem de sistemas solares pequenos e de
+alimentação USB (família de referência: especificações USB, 5 V, e
+princípios de controle de carga de baterias). Resumo operacional; não
+substitui treinamento em eletricidade e segurança de baterias.

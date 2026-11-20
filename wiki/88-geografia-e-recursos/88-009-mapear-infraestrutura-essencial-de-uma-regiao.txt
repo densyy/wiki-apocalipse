@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 88-009
+TITULO: Como mapear infraestrutura essencial de uma região
+CATEGORIA: 88 - Geografia humana e recursos estratégicos
+TEMPO: 180 minutos
+RISCO: baixo
+EXIGE: papel, lápis, caderno e caminhada pela área
+REVISAO: 2026-11
+PALAVRAS-CHAVE: mapa, infraestrutura, estrada, água, escola, hospital
+==============================================================================
+
+OBJETIVO
+--------
+Produzir um mapa manual com os serviços e as obras que a região
+realmente usa, para orientar deslocamento e pedidos de ajuda.
+
+QUANDO USAR
+-----------
+Ao chegar em uma região que você ainda não conhece.
+Antes de distribuir suprimentos ou decidir onde ficar.
+Quando precisa informar a localização de um problema a quem socorre.
+Ao revisar um mapa antigo depois que estradas mudaram.
+Quando se organiza rota de evacuação para uma comunidade.
+
+NAO USE QUANDO
+--------------
+Não entre em propriedade privada ou área restrita para mapear.
+Não confie em mapa desatualizado para situação de emergência.
+Não use símbolo que só você entende sem legenda no papel.
+Não publique localização de fonte de água ou casa isolada sem
+permissão de quem mora no local.
+
+MATERIAIS
+---------
+- Papel limpo, lápis, borracha e caderno de anotações.
+- Régua ou qualquer objeto reto para desenhar linhas (cartolina).
+- Bússola ou aplicativo de telefone para descobrir o norte (sol).
+- Fita de medir ou passos contados para distâncias aproximadas.
+- Cores ou letras diferentes para distinguir cada tipo de ponto.
+- Perguntas prontas para perguntar a moradores e usuários.
+
+PROCEDIMENTO
+------------
+1. Defina o limite da área que você consegue percorrer em um dia.
+2. Desenhe o norte no papel e deixe espaço para a legenda.
+3. Caminhe pelas estradas principais e desenhe o traçado à mão.
+4. Marque cada ponte, travessia e trecho de estrada de terra.
+5. Anote a localização de nascentes, poços, cisternas e rios.
+6. Marque postos de saúde, escolas, mercado e armazém.
+7. Desenhe onde passa a energia, a linha de ônibus ou o rádio.
+8. Pergunte a moradores o que falta no mapa que você desenhou.
+9. Verifique no terreno os pontos duvidosos antes de aceitar.
+10. Escreva uma legenda com um símbolo para cada tipo de ponto.
+11. Numere cada ponto e explique o número no caderno.
+12. Anote o tempo de caminhada entre os pontos mais importantes.
+13. Marque os trechos que ficam ruins na chuva.
+14. Desenhe um segundo mapa pequeno com rotas de saída.
+15. Escreva a data e o nome de quem conferiu cada informação.
+16. Guarde o mapa em lugar seco e faça uma cópia de reserva.
+
+ATENCAO
+-------
+Mapa feito de memória erra distância e direção. Confira no terreno.
+Estrada pode estar marcada no papel e não existir mais.
+Ponte fraca ou vau profundo merece aviso escrito ao lado do símbolo.
+Não comunique dados de moradores isolados a desconhecidos.
+Mapa em papel molhado perde a legenda: use lápis e guarde em saco.
+Em emergência, informação oficial de socorro prevalece sobre o mapa.
+
+SE NAO TIVER
+------------
+Sem bússola, use a sombra ao meio-dia para descobrir o norte.
+Sem régua, use a borda do caderno para desenhar as linhas.
+Sem cores, use letras maiúsculas diferentes na legenda.
+Sem mapa anterior, comece com uma folha em branco e caminhe.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O mapa tem norte, escala aproximada, legenda e data.
+Cada ponto importante tem número e descrição no caderno.
+Uma segunda pessoa consegue encontrar um ponto usando só o mapa.
+As rotas de saída estão desenhadas e os trechos ruins avisados.
+
+FONTES
+------
+Prática consolidada de mapeamento participativo e cartografia
+rústica de campo, sem documento único. Base: noções de orientação,
+legenda e levantamento de infraestrutura difundidas por cartografia
+social e defesa civil.

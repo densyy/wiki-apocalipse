@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 35-025
+TITULO: Como planejar a reconstrução gradual da infraestrutura
+CATEGORIA: 35 - Temas especiais que merecem enciclopédias próprias
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: papel, caneta, mapa da região, lista de recursos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: reconstrução, infraestrutura, prioridade, reconstruir
+==============================================================================
+
+OBJETIVO
+--------
+Produzir um plano por etapas para restaurar os serviços essenciais.
+
+QUANDO USAR
+-----------
+Quando serviços básicos falharam após desastre ou colapso.
+Quando recursos, tempo e mão de obra são limitados.
+Quando é preciso decidir o que reconstruir primeiro.
+
+NAO USE QUANDO
+--------------
+Quando ainda há risco à vida: incêndio, gases, prédios instáveis ou
+contaminação. Estabilize a área antes de planejar a reconstrução.
+
+MATERIAIS
+---------
+- Papel e caneta para registrar o plano.
+- Mapa da região ou desenho simples feito à mão.
+- Lista de estoques, ferramentas e mão de obra disponível.
+- Relação dos serviços essenciais e de quem os opera.
+
+PROCEDIMENTO
+------------
+1. Reúna o grupo que decide e executa a reconstrução.
+2. Inventarie prédios, redes, ferramentas e estoques restantes.
+3. Liste os serviços essenciais da comunidade em uma folha.
+4. Marque no mapa onde cada serviço operava e onde está danificado.
+5. Ordene os serviços: os que sustentam a vida vêm primeiro.
+6. Defina a menor obra que devolve cada serviço antes da definitiva.
+7. Anote para cada obra: materiais, pessoas, tempo e riscos.
+8. Escolha a primeira obra que usa menos recursos e salva vidas.
+9. Fixe um marco verificável para cada etapa do plano.
+10. Execute a primeira etapa e reavalie antes da próxima.
+
+ATENCAO
+-------
+Não reconstrua sobre solo ou prédio sem checar estabilidade.
+Reconstruir rápido sem qualidade repete o desastre na próxima crise.
+Não gaste todos os recursos no primeiro serviço que aparece.
+Se o grupo discordar, pare e registre as divergências no papel.
+Não prometa prazo que não pode cumprir: isso quebra a confiança.
+
+SE NAO TIVER
+------------
+Sem mapa, desenhe as ruas à mão. Sem estoque, inventarie antes da obra.
+Sem especialistas, faça só obras simples; não improvise redes elétricas.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Há uma lista escrita dos serviços, ordenada por prioridade.
+Cada etapa tem marco, materiais e responsáveis anotados.
+A primeira obra terminou e o serviço voltou a funcionar.
+
+FONTES
+------
+FEMA: recuperação de desastres e linhas de vida da comunidade.
+ONU: estrutura de Sendai, prioridade de reconstruir melhor.
+Resumo operacional, não substitui planejamento técnico.

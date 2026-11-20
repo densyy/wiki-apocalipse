@@ -1,0 +1,84 @@
+==============================================================================
+CODIGO: 59-011
+TITULO: Como organizar uma oficina segura
+CATEGORIA: 59 - Segurança industrial e riscos ocupacionais
+TEMPO: 2 horas
+RISCO: medio
+EXIGE: local ventilado, prateleiras, recipientes fechados, extintor
+REVISAO: 2026-11
+PALAVRAS-CHAVE: oficina, segurança, bancada, inflamáveis, extintor, EPI
+==============================================================================
+
+OBJETIVO
+--------
+Montar e manter uma oficina onde se trabalha com risco controlado.
+
+QUANDO USAR
+-----------
+Ao montar uma oficina nova ou reformar uma existente.
+Antes de receber máquinas, ferramentas ou materiais novos.
+Depois de um acidente ou de um princípio de incêndio no local.
+
+NAO USE QUANDO
+--------------
+Não faça instalação elétrica sem profissional habilitado.
+Não organize oficina em área de dormir ou cozinhar.
+Esta rotina não substitui projeto técnico nem avaliação habilitada.
+
+MATERIAIS
+---------
+- Local coberto, seco e ventilado (garagem ou sala reservada).
+- Prateleiras e armários fechados (caixas de madeira resistentes).
+- Recipientes metálicos fechados para líquidos inflamáveis.
+- Extintor de pó ABC com carga válida (balde de areia).
+- Óculos, luvas e protetor auditivo (conforme a tarefa).
+- Fita, etiquetas, caderno e kit de primeiros socorros.
+
+PROCEDIMENTO
+------------
+1. Escolha local coberto, seco, ventilado e longe de dormitórios.
+2. Delimite a área com bancada firme e piso nivelado.
+3. Separe três zonas: trabalho, guarda de materiais e descarte.
+4. Guarde inflamáveis em recipientes fechados e identificados.
+5. Mantenha solventes e combustíveis longe de calor e faísca.
+6. Instale prateleiras firmes e prenda as altas à parede.
+7. Coloque materiais pesados nas prateleiras mais baixas.
+8. Deixe livre a passagem para a saída e o extintor.
+9. Verifique se as proteções das máquinas estão presas no lugar.
+10. Confira se a parada de emergência está visível e acessível.
+11. Peça a um profissional para revisar fios, tomadas e aterramento.
+12. Nunca deixe fio exposto ou água perto de tomada.
+13. Pendure o extintor perto da saída, à altura dos olhos.
+14. Limpe óleo, graxa e aparas do piso ao terminar o serviço.
+15. Guarde panos sujos de óleo em recipiente metálico fechado.
+16. Anote no caderno o que foi feito e o que falta ajustar.
+
+ATENCAO
+-------
+Organizar não elimina o risco de máquina sem proteção: não a opere.
+Óleo e solventes no piso causam queda e alimentam incêndio.
+Pano sujo de óleo pode pegar fogo sozinho: guarde em metal fechado.
+Nunca use água em fogo de óleo, gasolina ou energia elétrica.
+Sem ventilação, vapor de solvente pode intoxicar ou explodir.
+Instalação elétrica improvisada pode matar: chame profissional.
+
+SE NAO TIVER
+------------
+Sem armário, guarde inflamáveis fora da oficina, em local arejado.
+Sem extintor, tenha areia seca e balde por perto, e saiba usá-los.
+Sem EPI, não execute corte, solda ou trabalho com produto químico.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A bancada está firme e o piso está livre de óleo e cabos.
+Inflamáveis estão em recipientes fechados e longe do calor.
+O extintor está visível, dentro da validade e perto da saída.
+As proteções estão presas e a parada de emergência funciona.
+
+FONTES
+------
+Norma Regulamentadora 12 do Ministério do Trabalho e Emprego, sobre
+segurança em máquinas e equipamentos.
+Norma Regulamentadora 6, sobre equipamento de proteção individual.
+Norma Regulamentadora 23, sobre proteção contra incêndios.
+Prática consolidada de organização de oficinas, resumida neste texto.

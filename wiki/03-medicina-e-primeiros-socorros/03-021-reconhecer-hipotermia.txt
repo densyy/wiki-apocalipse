@@ -1,0 +1,85 @@
+==============================================================================
+CODIGO: 03-021
+TITULO: Como reconhecer hipotermia
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 5 minutos
+RISCO: critico
+EXIGE: boa luz para observar, termômetro digital se houver
+REVISAO: 2026-11
+PALAVRAS-CHAVE: hipotermia, frio, calafrio, tremor, confusão, temperatura
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer os sinais de hipotermia e julgar a gravidade sem demora.
+
+QUANDO USAR
+-----------
+Pessoa encontrada no frio, na neve, na chuva ou na água fria.
+Alguém que ficou muito tempo ao ar livre com roupa molhada.
+Pessoa que treme, fala arrastado ou parece confusa com frio.
+Bebê ou idoso em ambiente frio, quieto, sonolento ou mole.
+Pessoa com pele fria e pálida e movimentos lentos após queda.
+
+NAO USE QUANDO
+--------------
+Não há contraindicacao para observar os sinais de hipotermia.
+Nunca espere o termômetro ou um resultado para pedir socorro.
+
+MATERIAIS
+---------
+- Boa luz para ver a pele e os olhos (ou lanterna).
+- Termômetro digital (opcional; meça apenas se não houver atraso).
+- Luvas descartáveis (ou sacola plástica) se for tocar a pessoa.
+- Papel e lápis para anotar a hora e os sinais observados.
+
+PROCEDIMENTO
+------------
+1. Garanta que o local é seguro para você antes de chegar perto.
+2. Observe o estado de consciência: a pessoa responde ao chamado?
+3. Veja se ela treme e se bate os dentes sem conseguir parar.
+4. Olhe a pele: fria, pálida, cinzenta ou com lábios azuis.
+5. Peça para ela falar o nome e ouça se a fala está arrastada.
+6. Peça para ela estender as mãos e observe se os dedos tremem.
+7. Note se ela erra palavras, esquece fatos ou parece confusa.
+8. Veja se está sonolenta, lenta ou com dificuldade de andar.
+9. Com tremor, pele fria e fala arrastada, suspeite de caso leve.
+10. Sem tremor e com confusão ou resposta lenta, suspeite de grave.
+11. Sem resposta e com respiração fraca, trate como muito grave.
+12. Em bebê, note pele vermelha e fria, moleza e pouco interesse.
+13. Meça a temperatura se houver termômetro e não houver atraso.
+14. Anote a hora em que os sinais foram vistos.
+15. Peça socorro médico imediatamente ao suspeitar de hipotermia.
+
+ATENCAO
+-------
+A falta de tremor é piora, não melhora: o corpo parou de gerar calor.
+A pessoa pode não sentir frio e não perceber que está em risco.
+Confusão e sonolência passam por embriaguez ou cansaço.
+Termômetro oral comum pode falhar; valor normal não afasta a suspeita.
+Não aqueça com água quente, fogo ou compressa direta na pele.
+Não esfregue braços, pernas ou pés: isso pode provocar parada cardíaca.
+Não dê bebida alcoólica nem comida se a pessoa não estiver acordada.
+A hipotermia pode virar parada cardíaca; peça socorro mesmo se melhorar.
+
+SE NAO TIVER
+------------
+Sem termômetro: reconheça pelos sinais e peça socorro na mesma hora.
+Sem luvas: use sacola plástica limpa antes de tocar a pele da pessoa.
+Sem luz: peça a outra pessoa que ilumine com a tela do celular.
+Sem celular: envie alguém para pedir ajuda e fique com a pessoa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os sinais foram ligados ao frio e à exposição recente.
+A pessoa foi classificada: com tremor, sem tremor ou sem resposta.
+O socorro foi pedido antes de qualquer tentativa de aquecimento.
+A hora dos sinais ficou anotada para quem chegar.
+
+FONTES
+------
+Diretrizes de primeiros socorros do CDC e da American Heart
+Association (2024).
+Orientações da Cruz Vermelha e do serviço de saúde NHS sobre hipotermia.
+Definição de hipotermia abaixo de 35 graus Celsius do Manual MSD.
+Prática consolidada de reconhecimento em primeiros socorros no frio.

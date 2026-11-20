@@ -1,0 +1,92 @@
+==============================================================================
+CODIGO: 50-018
+TITULO: Como funcionavam os sistemas de iluminação pré-elétricos
+CATEGORIA: 50 - História das tecnologias pré-industriais
+TEMPO: 25 minutos
+RISCO: medio
+EXIGE: pavio, gordura ou óleo, recipiente, fósforo ou pederneira
+REVISAO: 2026-11
+PALAVRAS-CHAVE: vela, lampião, óleo, querosene, gás, carbureto, pavio, luz
+==============================================================================
+
+OBJETIVO
+--------
+Entender e demonstrar como velas, lampiões a óleo, a gás e a carbureto
+produziam luz antes da eletricidade.
+
+QUANDO USAR
+-----------
+Quando a energia falhar e restarem apenas meios de iluminação antigos.
+Quando for preciso julgar qual sistema é seguro dentro de casa.
+Quando se quiser reconstruir uma técnica de iluminação do passado.
+Quando houver material de reposição, mas não houver luz elétrica.
+
+NAO USE QUANDO
+--------------
+Quando houver vazamento de gás ou cheiro de combustível no ambiente.
+Quando o local for pequeno, fechado e sem entrada de ar.
+Quando não houver como vigiar a chama o tempo todo.
+Quando crianças ou animais circularem sem supervisão perto do fogo.
+
+MATERIAIS
+---------
+- Vela de sebo ou de cera de abelha (ou pavio em gordura derretida).
+- Lampião de mesa com recipiente e pavio (ou lata limpa com tampa).
+- Óleo vegetal, azeite ou querosene (conforme o lampião permitir).
+- Fósforo ou pederneira (ou lente de aumento com sol forte).
+- Tesoura para aparar o pavio.
+- Prato ou bandeja metálica para apoio.
+
+PROCEDIMENTO
+------------
+1. Coloque a vela sobre prato metálico, longe de pano e papel.
+2. Aparte o pavio da vela com tesoura, deixando aproximadamente 1 cm.
+3. Riscar o fósforo ou bater a pederneira junto ao pavio da vela.
+4. Observe: a chama derrete a cera ou o sebo junto ao pavio.
+5. Entenda: o pavio puxa o combustível derretido por capilaridade.
+6. O vapor do combustível queima, e não o pavio, que apenas o sustenta.
+7. Encha o lampião até três quartos com óleo ou querosene.
+8. Passe o pavio pelo bico e deixe a ponta molhada sobressair pouco.
+9. Acenda o pavio do lampião com fósforo ou com a chama da vela.
+10. Ajuste a altura do pavio até a chama ficar firme e sem fumaça.
+11. Entenda o mecanismo: o pavio sobe o óleo por capilaridade.
+12. No lampião a gás, o gás de carvão chegava por tubo ao bico.
+13. O gás misturava-se com ar antes de queimar em chama mais limpa.
+14. No lampião de carbureto, gotas de água caíam sobre carbeto de cálcio.
+15. A reação liberava acetileno, que queimava com chama branca e forte.
+16. Desligue sempre fechando a entrada de combustível, nunca soprando.
+
+ATENCAO
+-------
+Fogo aberto derrubado é a causa mais comum de incêndio com velas e lampiões.
+Óleo e querosene quentes queimam a pele e inflamam com facilidade.
+Querosene é volátil: nunca complete o lampião com o aparelho aceso.
+Lampião a gás e a carbureto consomem oxigênio e soltam monóxido de carbono.
+Nunca use esses aparelhos em quarto fechado, sem ar para a chama.
+Carbeto de cálcio e acetileno: a mistura com ar pode explodir.
+A chama sem vigilância pode alcançar cortinas, papel ou palha em minutos.
+Se houver cheiro de gás, apague tudo, ventile e saia do ambiente.
+
+SE NAO TIVER
+------------
+Sem pavio, use um fio de algodão trançado como substituto improvisado.
+Sem vela, derreta sebo ou cera em lata e mergulhe o algodão na gordura.
+Sem lampião, uma lata com tampa e um fio de algodão serve como candeeiro.
+Sem fósforo, tente pederneira ou lente de aumento ao sol.
+Sem nenhuma dessas, não improvise ignição dentro de casa.
+Sem gás ou carbureto, prefira vela ou lampião a óleo, mais seguros.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A chama permanece firme, amarela e sem fumaça na ponta do pavio.
+A vela derrete somente perto do pavio e não escorre pelo corpo.
+O lampião não vaza óleo, não cheira a combustível e não solta fuligem.
+Ao fechar a entrada de combustível, a chama apaga em poucos segundos.
+
+FONTES
+------
+Prática consolidada e registros históricos da iluminação pré-elétrica:
+velas de sebo e cera de abelha, lampiões a óleo e querosene, iluminação a
+gás de carvão e lampiões de carbureto. Sem documento único consultado; este
+texto é um resumo operacional, não substitui treinamento nem manual do
+fabricante de cada aparelho.

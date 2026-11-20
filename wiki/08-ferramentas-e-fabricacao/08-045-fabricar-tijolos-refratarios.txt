@@ -1,0 +1,92 @@
+==============================================================================
+CODIGO: 08-045
+TITULO: Como fabricar tijolos refratários
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: argila refratária, chamote, areia fina, molde de madeira, forno
+REVISAO: 2026-11
+PALAVRAS-CHAVE: refratário, tijolo, argila, chamote, forno, queima, fogo
+==============================================================================
+
+OBJETIVO
+--------
+Fabricar tijolos que resistem ao fogo de forno, lareira ou forja.
+
+QUANDO USAR
+-----------
+Quando for construir forno, lareira, forja ou chaminé.
+Quando o tijolo comum rachar ou desfazer perto do fogo.
+Quando faltar tijolo refratário para comprar.
+
+NAO USE QUANDO
+--------------
+Não use pedra comum, tijolo de alvenaria ou cimento Portland no fogo.
+Não use se não houver secagem demorada e fogo controlado disponíveis.
+
+MATERIAIS
+---------
+- Argila refratária, a argila de alta alumina usada em cerâmica (fireclay).
+- Chamote ou grog: argila já queimada, moída e peneirada (tijolo velho).
+- Areia fina e limpa, sem sal.
+- Água limpa.
+- Molde de madeira aberto, sem fundo, com duas alças.
+- Tabuleiro de madeira, pano ou papel para forrar.
+- Luvas grossas, óculos e pano úmido para cobrir boca e nariz ao moer.
+
+PROCEDIMENTO
+------------
+1. Moa o chamote até os grãos passarem por peneira de cerca de 3 mm.
+2. Umedeça o chamote e deixe descansar aproximadamente uma hora.
+3. Misture uma parte de argila refratária e uma parte de chamote em volume.
+4. Acrescente areia fina até aproximadamente uma parte em dez da mistura.
+5. Misture seco até a cor ficar uniforme, sem levantar poeira.
+6. Adicione água aos poucos, aproximadamente 12% do peso da mistura seca.
+7. Amasse até formar bola firme, que não goteje nem grude na mão.
+8. Umedeça o molde e forre o tabuleiro com pano ou papel.
+9. Bata uma porção de massa no molde, apertando bem os cantos.
+10. Encha o molde, alise a face com uma régua e vire sobre o tabuleiro.
+11. Retire o molde com cuidado e deixe o tijolo apoiado de lado.
+12. Seque na sombra, sem sol direto, por aproximadamente duas semanas.
+13. Vire cada tijolo a cada dois dias para secar por igual.
+14. Coloque os tijolos no forno frio, separados uns dos outros.
+15. Aqueça devagar, no máximo aproximadamente 100 graus Celsius por hora.
+16. Mantenha cerca de 1200 graus Celsius por aproximadamente duas horas.
+17. Desligue, feche o forno e deixe esfriar antes de retirar os tijolos.
+
+ATENCAO
+-------
+Tijolo úmido estoura: a água presa vira vapor e racha a peça. Nunca ponha
+tijolo mole em forno quente e nunca apresse a secagem no sol ou no fogo.
+A subida rápida de temperatura também racha: ajuste o fogo aos poucos.
+Fogo em ambiente fechado produz monóxido de carbono: mantenha ventilação
+e nunca deixe a queima sem vigilância.
+Poeira de sílica e chamote irrita o pulmão: molhe antes de moer e cubra
+a boca e o nariz.
+Tijolo que não chegou à temperatura de queima não é refratário: use-o só
+como enchimento, nunca em contato com chama direta.
+Use luvas e óculos: forno e tijolo quentes queimam, e peça rachada corta.
+
+SE NAO TIVER
+------------
+Sem argila refratária, não improvise com terra comum em chama direta;
+use-a apenas longe do fogo, como enchimento.
+Sem chamote, moa tijolos refratários velhos e limpos; não use vidro moído
+nem areia de construção, que derretem ou racham.
+Sem forno, faça a queima na própria fogueira: comece com fogo pequeno,
+aumente aos poucos ao longo de horas e aceite resultado inferior.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O tijolo frio soa alto e metálico ao ser batido com o nó do dedo.
+A face fica dura: a unha não marca e não solta grãos ao ser riscada.
+Depois de usar uma vez, não rachou, não derreteu e não soltou pedaços.
+
+FONTES
+------
+National Bureau of Standards (NIST), Circular 282: Fire-clay brick, their
+manufacture, properties, uses and specifications; ASTM C27, classificação de
+tijolos refratários de argila e alta alumina; Elngar et al. (2010),
+Effect of Additives on the Performance of the Fire-Clay Refractory Bricks,
+Eurasian Chemico-Technological Journal 12(2); Revista da Anicer (2020),
+artigo Eficiência produtiva - Argilas e queima, de Antônio Carlos Pimenta.

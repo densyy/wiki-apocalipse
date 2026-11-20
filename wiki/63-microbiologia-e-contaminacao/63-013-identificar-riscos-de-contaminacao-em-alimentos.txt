@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 63-013
+TITULO: Como identificar riscos de contaminação em alimentos
+CATEGORIA: 63 - Microbiologia, parasitologia e contaminação
+TEMPO: 25 minutos
+RISCO: alto
+EXIGE: luz boa, água corrente, sabão, recipiente para descarte
+REVISAO: 2026-11
+PALAVRAS-CHAVE: alimento, contaminação, mofo, validade, descarte, lata
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer sinais de contaminação e decidir se descarta o alimento.
+
+QUANDO USAR
+-----------
+Ao receber doação, racionamento ou alimento de origem desconhecida.
+Antes de cozinhar alimento armazenado sem refrigeração.
+Ao encontrar alimento com prazo vencido ou embalagem danificada.
+Depois de enchente, falta de energia ou exposição a calor intenso.
+Quando alguém do grupo apresentar vômito, diarreia ou dor abdominal.
+
+NAO USE QUANDO
+--------------
+Quando o objetivo for provar que o alimento é seguro: a inspeção não prova
+ausência de microrganismos ou toxinas.
+Quando houver suspeita de agrotóxico, combustível ou radiação:
+o teste sensorial não detecta e a cocção não remove.
+Se alguém já comeu e passou mal, não inspecione: busque ajuda.
+
+MATERIAIS
+---------
+- Luz boa, do dia ou de lanterna.
+- Água corrente e sabão para lavar as mãos.
+- Recipiente ou saco fechado para o descarte.
+- Luvas descartáveis, se houver.
+- Caderno e lápis para anotar lote, data e motivo.
+
+PROCEDIMENTO
+------------
+1. Lave as mãos com água e sabão antes de começar.
+2. Coloque o alimento em local bem iluminado.
+3. Leia rótulo, data de validade, lote e modo de conservação.
+4. Descarte sem provar se o prazo de validade estiver vencido.
+5. Observe a embalagem: estufada, furada, vazando, enferrujada ou amassada.
+6. Descarte latas estufadas ou vazando sem provar o conteúdo.
+7. Observe cor e textura: mofo, escurecimento, slime ou água separada.
+8. Se houver mofo, descarte todo o alimento, não só a parte visível.
+9. Cheire o alimento aberto: cheiro azedo, podre ou estranho.
+10. Não prove para conferir: sabor não revela bactérias nem toxinas.
+11. Separe carne crua, ovos e peixe de alimentos prontos para comer.
+12. Descarte o que tocou carne crua, água de enchente, fezes ou roedores.
+13. Verifique quanto tempo o perecível ficou fora da refrigeração.
+14. Em ambiente quente, descarte se passou de aproximadamente 2 horas.
+15. Acima de aproximadamente 32 °C, reduza o limite para 1 hora.
+16. Isole o suspeito, anote o motivo e feche o descarte.
+17. Lave as mãos e limpe a superfície usada.
+18. Se duas ou mais pessoas adoeceram, avise o agente de saúde.
+
+ATENCAO
+-------
+Aparência, cheiro e sabor normais não garantem segurança: bactérias, vírus,
+parasitas e toxinas podem estar presentes sem mudar o alimento.
+Nunca prove um alimento suspeito para confirmar o risco.
+Lata estufada pode conter toxina botulínica: não abra, não prove, descarte
+fechada. A toxina pode matar mesmo em pequena quantidade.
+A faixa entre aproximadamente 5 °C e 60 °C é a zona de risco: nela as
+bactérias multiplicam-se depressa em alimento perecível.
+Cocção não elimina toxinas, metais, agrotóxicos nem contaminação
+radioativa. Cozinhar não conserta alimento impróprio.
+Mofo tem raízes invisíveis e esporos que se espalham pelo alimento úmido.
+Faca, tábua ou mão usada em carne crua contamina alimento pronto.
+Na dúvida, descarte. O custo do alimento é menor que o de uma intoxicação.
+Se alguém apresentar vômito forte, diarreia, febre ou fraqueza depois de
+comer, procure atendimento médico e leve o alimento suspeito.
+
+SE NAO TIVER
+------------
+Sem lanterna, leve o alimento à luz do dia; não inspecione no escuro.
+Sem água corrente, use água tratada e sabão; lave por mais tempo.
+Sem sabão, lave as mãos com água corrente e esfregue bem.
+Sem recipiente, sepulte o descarte longe de poços e animais.
+Sem termômetro, use o tempo fora da refrigeração como critério: passou de
+aproximadamente 2 horas em ambiente quente, descarte.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você separou todo alimento com sinal suspeito dos demais.
+Nenhum alimento suspeito foi provado ou misturado aos seguros.
+O descarte ficou fechado e as mãos e a superfície foram lavadas.
+Os alimentos seguros ficaram identificados, tampados e protegidos.
+Ninguém do grupo apresentou sintomas depois das refeições.
+
+FONTES
+------
+Orientações da Anvisa e do Ministério da Saúde sobre segurança de alimentos.
+Regras do USDA e do FDA: zona de risco e tempo de exposição de perecíveis.
+Diretrizes da OMS sobre segurança alimentar e intoxicações por alimentos.
+Prática consolidada de inspeção sensorial; este texto é resumo operacional.

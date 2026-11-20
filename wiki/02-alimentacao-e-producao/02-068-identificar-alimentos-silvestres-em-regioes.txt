@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 02-068
+TITULO: Como identificar alimentos silvestres em regiões tropicais
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 60 minutos
+RISCO: critico
+EXIGE: guia de campo da flora local, lupa, caderno, luvas, luz do dia
+REVISAO: 2026-11
+PALAVRAS-CHAVE: alimento silvestre, comestível, venenoso, cogumelo, mato
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer com segurança alimentos silvestres antes de comê-los.
+
+QUANDO USAR
+-----------
+- Quando você encontra fruto, folha ou cogumelo que não conhece.
+- Quando o alimento comprado acabou e resta o que cresce perto.
+- Quando alguém diz que é comestível, mas não sabe o nome.
+- Depois de chuva forte, quando cogumelos e brotos novos aparecem.
+- Antes de cozinhar qualquer coisa colhida na natureza.
+
+NAO USE QUANDO
+--------------
+- Não use para liberar planta duvidosa: na dúvida, não coma.
+- Não use para cogumelos colhidos na natureza sem identificação.
+- Não use em área com agrotóxico, indústria, lixo ou beira de estrada.
+- Não use se não houver guia impresso confiável para comparar.
+
+MATERIAIS
+---------
+- Guia de campo da região (livro impresso, não aplicativo).
+- Lupa de bolso (ou vidro de aumento).
+- Caderno e lápis.
+- Luvas de pano grosso (ou membrana).
+- Água limpa em recipiente para lavar.
+- Luz do dia para observar cores e detalhes.
+
+PROCEDIMENTO
+------------
+1. Abra o guia antes de sair e escolha uma espécie por vez.
+2. Anote no caderno o nome científico e a parte comestível.
+3. Use o nome em latim do guia, único para cada espécie, como referência.
+4. Vista as luvas e observe a planta inteira na luz do dia.
+5. Observe folha, caule, flor, fruto e cheiro; não arranque ainda.
+6. Compare cada detalhe com o desenho e a descrição do guia.
+7. Se um detalhe não bater, pare e não coma.
+8. Procure no guia as espécies parecidas e perigosas da região.
+9. Confirme a espécie em um segundo livro impresso independente.
+10. Se não houver segunda fonte, desista e não coma.
+11. Colha só a parte indicada, longe de estrada, indústria e agrotóxico.
+12. Separe uma amostra e tire foto antes de cozinhar.
+13. Lave as mãos e a amostra com água limpa.
+14. Prepare só como o guia indicar; cogumelo silvestre, não prepare.
+
+ATENCAO
+-------
+- Não há teste caseiro seguro: provar ou cheirar não prova nada.
+- A aparência muda com o crescimento; jovem pode parecer outra espécie.
+- Cozimento não elimina todas as toxinas: cogumelos intoxicam mesmo cozidos.
+- Mandioca-brava e inhame exigem cozimento e descarte da água.
+- Ornamentais como chapéu-de-Napoleão, mamona e espirradeira são tóxicas.
+- Se sentir queimação na boca, náusea, vômito, tontura ou confusão, pare.
+- Não induza vômito; guarde a amostra e informe o que comeu.
+
+SE NAO TIVER
+------------
+- Sem guia confiável, não coma: compre alimento com controle sanitário.
+- Sem lupa, observe em luz forte; se não distinguir detalhes, não coma.
+- Sem segunda fonte, trate como desconhecido e não coma.
+- Não use aplicativo de celular: os erros de identificação são comuns.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- Você nomeou a espécie em latim em duas fontes impressas.
+- Todas as partes observadas batem com o guia e com as parecidas perigosas.
+- Sobrou uma amostra separada, com foto, para conferir depois.
+
+FONTES
+------
+- CIATox de Santa Catarina, centro de informação toxicológica.
+- Ministério da Saúde, "Plantas tóxicas", série Prevenindo Intoxicações.
+- OMS, "Natural toxins in food", 2023.
+- OPAS/OMS, alerta sobre cogumelos silvestres nas Américas, 2026.
+- Embrapa, "Plantas Alimentícias Não Convencionais", 2024.
+- CDC, boletim sobre segurança na coleta de alimentos silvestres, 2026.

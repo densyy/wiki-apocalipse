@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 71-017
+TITULO: Como configurar permissões de arquivos Linux
+CATEGORIA: 71 - Criptografia, segurança da informação e privacidade
+TEMPO: 20 minutos
+RISCO: alto
+EXIGE: computador com Linux, terminal, conta dona do arquivo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: permissão, chmod, dono, grupo, leitura, escrita, umask
+==============================================================================
+
+OBJETIVO
+--------
+Definir quem pode ler, alterar e executar cada arquivo ou pasta.
+
+QUANDO USAR
+-----------
+Ao guardar chave privada, senha ou dado que outra conta não deve ler.
+Quando o sistema responde "permissão negada" ao abrir arquivo próprio.
+Antes de gravar informação sensível em disco compartilhado.
+Ao liberar um arquivo só para pessoas do mesmo grupo.
+Quando um script não executa por falta de permissão de execução.
+
+NAO USE QUANDO
+--------------
+Não use para esconder segredo de administrador ou de quem tem o disco.
+Não use no lugar de criptografia para arquivo verdadeiramente sensível.
+Não use em arquivo de sistema sem saber qual é a função dele.
+Não use para "resolver" erro alterando tudo para 777.
+
+MATERIAIS
+---------
+- Computador com Linux e terminal aberto.
+- Conta que seja dona do arquivo, ou acesso de administrador com sudo.
+- Nome ou caminho do arquivo ou pasta a alterar.
+- Decisão clara sobre quem lê, quem escreve e quem executa.
+
+PROCEDIMENTO
+------------
+1. Abra o terminal no computador com Linux.
+2. Entre na pasta do arquivo: cd seguido do caminho da pasta.
+3. Liste com "ls -l nome-do-arquivo" e leia os dez primeiros caracteres.
+4. Ignore o primeiro caractere, que indica o tipo de arquivo.
+5. Leia os três caracteres seguintes como a permissão do dono.
+6. Leia os três seguintes como a permissão do grupo.
+7. Leia os três finais como a permissão dos outros usuários.
+8. Some os valores de cada trio: r vale 4, w vale 2, x vale 1.
+9. Escolha o modo: 600 dá leitura e escrita só ao dono.
+10. Escolha 644 quando o dono escreve e os outros só leem.
+11. Escolha 700 quando só o dono lê, escreve e executa.
+12. Aplique com "chmod 600 nome-do-arquivo", trocando 600 pelo modo.
+13. Para ajustar sem apagar o resto, use "chmod g+r nome-do-arquivo".
+14. Para retirar escrita dos outros, use "chmod o-w nome-do-arquivo".
+15. Para trocar o dono, use "sudo chown usuario:grupo nome-do-arquivo".
+16. Em pastas, use "chmod 700 nome-da-pasta"; x permite entrar nela.
+17. Defina o padrão de arquivos novos com "umask 077" no terminal.
+18. Confira o resultado com "ls -l nome-do-arquivo" ao final.
+
+ATENCAO
+-------
+O modo 777 deixa qualquer conta ler, alterar e executar o arquivo.
+Nunca use 777 em chave privada, arquivo de senha ou dado sigiloso.
+O comando chmod -R alcança tudo dentro da pasta; confira o caminho.
+Nunca rode chmod -R na raiz / nem em pastas do sistema.
+Permissão não protege de administrador, dono da conta ou acesso físico.
+Arquivo com modo 000 pode travar até o próprio dono fora dele.
+Sem o bit x, programa não executa e pasta não permite entrar.
+Se aparecer "permissão negada", confirme que você é o dono antes de sudo.
+
+SE NAO TIVER
+------------
+Sem sudo, altere apenas arquivos dos quais você é dono.
+Sem interface gráfica, abra o console de texto com Ctrl+Alt+F3.
+Sem saber o grupo, rode "id -gn" para mostrá-lo.
+Sem certeza do modo, faça "cp nome-do-arquivo nome-do-arquivo.bak".
+Não improvise com 777 para contornar erro de permissão.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O comando "ls -l nome-do-arquivo" mostra as letras rwx esperadas.
+Modo 600 aparece como -rw------- e só o dono consegue abrir.
+Arquivo com x executa; sem x, o sistema nega a execução.
+Depois de "umask 077", o comando "umask" responde 0077.
+
+FONTES
+------
+Manual GNU Coreutils: chmod, modos numérico e simbólico, arquivos e pastas.
+Linux man-pages: umask(2), máscara de criação de permissões, POSIX.1-2008.
+Prática consolidada de administração de Linux, sem documento único.

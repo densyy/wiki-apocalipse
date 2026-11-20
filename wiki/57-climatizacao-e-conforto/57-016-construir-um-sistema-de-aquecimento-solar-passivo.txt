@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 57-016
+TITULO: Como construir sistemas passivos de aquecimento solar
+CATEGORIA: 57 - Refrigeração, climatização e conforto
+TEMPO: 1 dia
+RISCO: medio
+EXIGE: face norte livre, vidro ou plástico, massa térmica, isolamento
+REVISAO: 2026-11
+PALAVRAS-CHAVE: aquecimento solar, passivo, vidro, inércia, esquentar casa
+==============================================================================
+
+OBJETIVO
+--------
+Aquecer a casa no frio usando o sol, sem combustível nem eletricidade.
+
+QUANDO USAR
+-----------
+Quando a casa fica fria no inverno e há sol durante o dia.
+Quando faltam lenha, gás ou eletricidade para aquecer.
+Quando a face norte da casa recebe sol livre.
+
+NAO USE QUANDO
+--------------
+Em clima muito nublado ou com frio intenso e prolongado.
+Não substitui aquecimento de emergência quando há risco de hipotermia.
+
+MATERIAIS
+---------
+- Vidro ou plástico transparente em moldura (acrílico, ripa).
+- Massa térmica: concreto, tijolo, adobe ou pedra (tambores com água).
+- Isolamento térmico (palha, lã, espuma, papel seco).
+- Tinta escura fosca (carvão ou terra escura).
+- Cobertura móvel de sombra (lona, beiral, galho).
+
+PROCEDIMENTO
+------------
+1. Determine a face norte com bússola ou observando o sol ao meio-dia.
+2. Escolha a parede norte para captação; mantenha-a livre de sombra.
+3. Instale vidro ou plástico transparente nessa parede, em moldura firme.
+4. Limite o vidro a aproximadamente 10 a 20% da área do piso.
+5. Se não houver massa térmica, use aproximadamente 5 a 7% do piso.
+6. Pinte de escuro fosco a superfície da massa que recebe o sol.
+7. Instale a massa térmica com aproximadamente 10 cm de espessura.
+8. Distribua a massa em área de aproximadamente 5 a 10 vezes o vidro.
+9. Para parede trombe, deixe o vidro a aproximadamente 2 a 15 cm da massa.
+10. Vede frestas e aplique isolamento nas paredes, teto e piso.
+11. Instale cobertura móvel que barre o sol alto do verão.
+12. Feche a cobertura sobre o vidro à noite e em dias nublados.
+
+ATENCAO
+-------
+Vidro quebra e corta; use luvas e óculos ao manusear.
+Massa térmica é pesada: apoie-a no chão, não sobrecarregue parede fraca.
+Sem vedação e isolamento, o calor escapa e o sistema não aquece.
+Proteja tecido, madeira e papel da superfície quente: há risco de fogo.
+Em frio extremo prolongado, busque aquecimento de emergência.
+
+SE NAO TIVER
+------------
+Sem vidro, estique plástico transparente na moldura; dura menos.
+Sem massa, use tambores com água pintados de escuro.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A superfície escura fica quente ao fim da tarde.
+O interior fica mais quente que o exterior ao anoitecer.
+
+FONTES
+------
+Prática consolidada de projeto solar passivo, sem documento único.

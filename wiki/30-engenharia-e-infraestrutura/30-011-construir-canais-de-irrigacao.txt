@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 30-011
+TITULO: Como construir canais de irrigação
+CATEGORIA: 30 - Engenharia e infraestrutura básica
+TEMPO: 120 minutos
+RISCO: baixo
+EXIGE: terreno com declive suave, fonte de água, enxada, estacas, cordão
+REVISAO: 2026-11
+PALAVRAS-CHAVE: irrigação, canal, sulco, vala, declividade, enxada, água
+==============================================================================
+
+OBJETIVO
+--------
+Abrir sulcos e canais rasos que levem água até as plantas por gravidade.
+
+QUANDO USAR
+-----------
+Quando a horta fica abaixo da fonte de água e não há bomba.
+Quando o solo é argiloso e o terreno tem declive suave e uniforme.
+Quando é preciso molhar várias fileiras com o mesmo fluxo de água.
+
+NAO USE QUANDO
+--------------
+Quando o declive passa de 3 por cento: a água corre rápida e erode o
+solo. Quando a areia é muito grossa, a água afunda antes do fim.
+
+MATERIAIS
+---------
+- Enxada, pá ou arado de tração animal (ou enxadão).
+- Estacas finas e cordão para marcar as linhas.
+- Nível de bolha, ou mangueira com água, para medir o declive.
+
+PROCEDIMENTO
+------------
+1. Escolha o ponto mais alto do terreno, junto à fonte de água.
+2. Meça o declive: o sulco deve descer de 0,05 a 0,5 por cento.
+3. Marque uma linha reta com estacas e cordão, do alto ao baixo.
+4. Confira a cada 5 metros se a linha segue no mesmo declive.
+5. Cave o primeiro sulco com a enxada, seguindo a linha marcada.
+6. Faça sulco estreito e fundo em V na areia; largo e raso na argila.
+7. Deixe de 30 a 60 cm entre sulcos na areia e 75 a 150 cm na argila.
+8. Repita para cada sulco e amontoe a terra ao lado, formando o cume.
+9. Abra canal de entrada no topo e drenagem rasa na ponta baixa.
+10. Solte água calma, até 3 litros por segundo, e reduza no fim.
+
+ATENCAO
+-------
+Declive acima de 0,5 por cento erode o sulco e leva terra.
+Fluxo forte derruba as bordas e alaga as plantas mais baixas.
+Sem drenagem na ponta, a água empapa a terra e apodrece raízes.
+Água parada cria mosquitos: não deixe poças permanentes.
+Em declive acima de 3 por cento, use curvas de nível ou terraços.
+Se aparecer rachaduras ou deslizamento, pare e refaça o declive.
+
+SE NAO TIVER
+------------
+Sem nível, use mangueira transparente com água: as pontas nivelam.
+Sem enxada, use um bastão pontiagudo em solo macio.
+Sem fonte corrente, carregue água em balde e despeje na entrada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água corre até a ponta baixa de todos os sulcos sem transbordar.
+Não há trechos secos no meio nem poças paradas no fim do sulco.
+
+FONTES
+------
+Prática consolidada de irrigação por sulco em agricultura familiar.
+Base: manual da FAO sobre irrigação, capítulo de irrigação por sulco.

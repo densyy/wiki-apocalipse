@@ -1,0 +1,71 @@
+==============================================================================
+CODIGO: 65-007
+TITULO: Como compreender dureza dos materiais
+CATEGORIA: 65 - Engenharia de materiais e polímeros
+TEMPO: 25 minutos
+RISCO: baixo
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: dureza, materiais, mohs, rockwell, brinell, vickers, shore
+==============================================================================
+
+OBJETIVO
+--------
+Entender valores de dureza e escolher o ensaio adequado ao material.
+
+QUANDO USAR
+-----------
+Ao comparar duas ligas antes de escolher uma para a peça.
+Ao ler uma ficha técnica com valores HRC, HBW ou HV.
+Ao verificar se uma peça recebeu tratamento térmico.
+Ao decidir entre metal, cerâmica e polímero para uma aplicação.
+Ao conferir se o fornecedor entregou o material especificado.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Defina o que comparar: arranhão, penetração ou impacto.
+2. Identifique a escala citada: Mohs, HBW, HRC, HV ou Shore.
+3. Leia o número como comparação, nunca como unidade de medida.
+4. Para arranhão em minerais, use Mohs, de 1 (talco) a 10 (diamante).
+5. Trate Mohs como ordem: diamante é muito mais duro que o número 9.
+6. Para metais, identifique o método da ficha antes de comparar.
+7. Brinell mede o diâmetro da marca deixada por uma esfera.
+8. Rockwell mede a profundidade da marca e dá leitura direta.
+9. Vickers mede a diagonal da marca de uma pirâmide de diamante.
+10. Compare apenas valores da mesma escala e do mesmo material.
+11. Não converta HRC para HBW sem tabela de conversão.
+12. Para borracha e plástico, use durômetro Shore A ou Shore D.
+13. Separe dureza de tenacidade: material duro pode ser frágil.
+
+ATENCAO
+-------
+Dureza não é resistência a impacto: cerâmica dura quebra com golpe.
+Dureza não é resistência mecânica: não substitui ensaio de tração.
+Números de escalas diferentes não são comparáveis entre si.
+Conversões entre escalas são aproximadas e valem por material.
+Não use a dureza sozinha para especificar peça de segurança.
+
+SE NAO TIVER
+------------
+Sem máquina de ensaio, compare por arranhão com objeto conhecido.
+Uma unha risca gesso; uma faca de aço risca calcita.
+Este teste é qualitativo e não substitui máquina calibrada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você indica a escala correta para cada material e explica o número.
+
+FONTES
+------
+ASTM International: E10 (Brinell), E18 (Rockwell), E92 (Vickers),
+E140 (tabelas de conversão), D2240 (durômetro Shore). ISO 6506,
+6508 e 6507; ABNT NBR ISO 6508-1. Escala Mohs da mineralogia.
+Prática consolidada de engenharia de materiais.

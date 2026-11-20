@@ -1,0 +1,91 @@
+==============================================================================
+CODIGO: 03-104
+TITULO: Como organizar isolamento de pessoas doentes
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: cômodo ou área separada, água, sabão, panos limpos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: isolamento, contágio, doente, quarentena, infecção, cuidar
+==============================================================================
+
+OBJETIVO
+--------
+Manter a pessoa doente separada para reduzir o contágio no grupo.
+
+QUANDO USAR
+-----------
+Febre com tosse, vômito ou diarreia que pode passar para outros.
+Doença com manchas, feridas com pus ou olhos com secreção.
+Pessoa que voltou doente de local com surto conhecido.
+Mais de uma pessoa adoecendo com os mesmos sintomas.
+Precisa cuidar de alguém doente sem adoecer junto.
+
+NAO USE QUANDO
+--------------
+Não isole sozinha pessoa inconsciente, confusa ou com falta de ar.
+Casos graves precisam de vigia constante e busca de atendimento.
+Emergência com risco de morte não espera o isolamento ficar pronto.
+
+MATERIAIS
+---------
+- Lençol, cortina ou plástico para separar a área (ou cobertor).
+- Cama, colchonete ou rede só para a pessoa doente.
+- Balde com água e sabão para lavar as mãos (ou cinza e água).
+- Panos limpos, papel ou trapos para tosse e limpeza.
+- Prato, copo e talher de uso só da pessoa doente.
+- Balde com tampa para fezes, vômito e lixo da área isolada.
+- Máscaras, lenços ou tiras de pano limpo para cobrir nariz e boca.
+- Caderno e lápis para anotar sintomas, horas e quem entrou.
+
+PROCEDIMENTO
+------------
+1. Escolha o cômodo mais afastado, ventilado e com porta ou cortina.
+2. Retire do cômodo objetos e camas que não serão usados.
+3. Ponha a cama da pessoa doente longe da porta e da janela.
+4. Deixe água, sabão e pano limpo na entrada da área isolada.
+5. Separe prato, copo, talher, toalha e roupa só para o doente.
+6. Marque os objetos do doente para ninguém trocar por engano.
+7. Defina uma só pessoa para cuidar e levar comida e água.
+8. Lave as mãos com água e sabão antes e depois de cada contato.
+9. Cubra nariz e boca ao tossir, espirrar ou limpar secreções.
+10. Troque e lave panos sujos todos os dias, sem sacudir no ar.
+11. Recolha fezes, vômito e lixo em balde com tampa, longe da cozinha.
+12. Limpe maçaneta, banco e prato com água e sabão uma vez ao dia.
+13. Anote febre, vômitos, diarreia e quem visitou, com dia e hora.
+14. Mantenha o doente isolado até melhorar e por mais 2 dias.
+15. Leve ao atendimento se houver piora ou sinal de perigo.
+
+ATENCAO
+-------
+Isolamento reduz o contágio, mas não cura e não substitui atendimento.
+Falta de ar, lábios roxos, desmaio, confusão e febre que não cede
+são sinais de perigo: busque atendimento sem demora.
+Não dê remédio por conta própria nem misture sobras de remédios.
+Lave sempre as mãos após tocar no doente, na roupa e no lixo dele.
+Não deixe criança, idoso ou gestante cuidar de pessoa contagiosa.
+Troque o cuidador se ele começar com os mesmos sintomas.
+Não queime lixo com fezes perto de casa: afaste e enterre quando der.
+Este cuidado não resolve doença grave, desidratação forte ou falta
+de ar: esses casos precisam de serviço de saúde.
+
+SE NAO TIVER
+------------
+Sem cômodo extra: separe um canto com lençol, cortina ou cobertor.
+Sem máscara: use tira de pano limpo dobrada sobre nariz e boca.
+Sem sabão: lave com água corrente e esfregue por 20 segundos.
+Sem balde com tampa: use fossa, buraco ou saco amarrado longe da água.
+Sem cama extra: use palha, papelão ou colchão improvisado lavável.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Ninguém novo adoece com os mesmos sintomas no grupo.
+A área segue limpa, com objetos do doente separados dos demais.
+O cuidador segue sem febre, tosse, vômito ou diarreia.
+O doente melhora e completa 2 dias sem sintoma antes de sair.
+
+FONTES
+------
+Orientações gerais de controle de infecções da OMS e do CDC;
+prática consolidada de primeiros socorros da Cruz Vermelha. Este
+texto é um resumo operacional e não substitui atendimento.

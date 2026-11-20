@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 13-003
+TITULO: Como interpretar símbolos de perigo químico
+CATEGORIA: 13 - Química e conhecimentos científicos aplicados
+TEMPO: 25 minutos
+RISCO: alto
+EXIGE: rótulo ou embalagem do produto e boa luz
+REVISAO: 2026-11
+PALAVRAS-CHAVE: pictograma, rótulo, perigo, atenção, fispq, ghs, veneno
+==============================================================================
+
+OBJETIVO
+--------
+Reconheça os desenhos de perigo no rótulo e diga qual cuidado tomar antes de
+abrir, misturar, guardar ou usar um produto químico.
+
+QUANDO USAR
+-----------
+Quando encontrar frasco, galão ou pulverizador com desenho que não conhece.
+Antes de abrir, despejar ou misturar produto de limpeza ou agrotóxico.
+Quando o rótulo estiver em língua estranha, sujo ou parcialmente danificado.
+Antes de guardar produtos diferentes no mesmo armário, caixa ou prateleira.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Rótulo ou embalagem do produto (ficha de segurança FISPQ, se houver).
+- Boa luz (lanterna).
+- Luvas resistentes a químicos; sem luvas, não toque o recipiente.
+
+PROCEDIMENTO
+------------
+1. Pare antes de abrir, despejar, diluir ou misturar o produto.
+2. Vire o recipiente e ache o rótulo (adesivo com texto e desenhos).
+3. Procure o losango GHS: quadrado em pé, borda vermelha, fundo branco.
+4. Leia o desenho do losango: é o pictograma (símbolo de perigo).
+5. Anote todos os pictogramas do rótulo; um produto pode ter mais de um.
+6. Bomba explodindo: explosivo; pode explodir com choque, calor ou atrito.
+7. Chama: inflamável; mantenha longe de fogo, faísca e calor.
+8. Chama sobre círculo: comburente; alimenta fogo, não misture com óleo.
+9. Garrafa de gás: sob pressão; pode estourar se aquecido, longe do sol.
+10. Líquidos na mão e no metal: corrosivo; queima pele e olhos, não toque.
+11. Caveira e ossos: tóxico; mata em dose pequena, não inale nem toque.
+12. Ponto de exclamação: irritante; irrita pele e olhos, causa alergia.
+13. Silhueta com estrela: risco à saúde; pode causar câncer ou dano interno.
+14. Peixe e árvore: risco ambiental; não despeje no chão, rio ou esgoto.
+15. "Perigo" é mais grave que "Atenção"; o rótulo traz só a mais grave.
+16. Leia as frases H (de perigo): H e número descrevem o risco.
+17. Frases P (precaução): P e número ensinam prevenir, agir, guardar.
+18. Se o rótulo não bastar, procure a FISPQ (ficha de segurança).
+19. Na FISPQ, leia a seção 2 (perigos), a 4 (socorros) e a 8 (proteção).
+
+ATENCAO
+-------
+O símbolo mostra o risco, não o nome, a dose segura nem o socorro.
+Nunca diga que é seguro só porque não tem pictograma: riscos menores
+não mostram símbolo.
+O erro que mais machuca é ignorar caveira, corrosivo e a palavra "Perigo".
+Rótulo e transporte usam desenhos diferentes: o losango de transporte tem
+fundo colorido e número de classe; não o confunda com o do rótulo.
+Não confie na cor: luz fraca, desbotamento e daltonismo escondem o
+vermelho. Leia o desenho e as palavras.
+Nunca misture produtos para "testar" o rótulo; mistura de limpezas libera
+gás tóxico.
+Este guia não ensina a medir concentração nem dose segura; para isso serve
+a FISPQ.
+Se o recipiente vaza, cheira forte ou está quente, pare, saia, ventile o
+lugar e chame ajuda.
+Em contato com pele ou olhos, lave com água corrente sem parar e procure
+socorro; veja 03-019.
+
+SE NAO TIVER
+------------
+Sem boa luz, use a luz do celular; sem rótulo legível, não abra e trate como
+perigoso.
+Sem FISPQ, anote o nome, o fabricante e os perigos que conseguiu ler e leve
+isso ao posto de saúde ou à defesa civil.
+Sem luvas, apenas leia o rótulo: não vire nem abra o recipiente.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A pessoa consegue apontar cada desenho e dizer qual cuidado ele exige.
+As frases H e P foram lidas e o produto ficou separado de inflamáveis,
+corrosivos e alimentos.
+
+FONTES
+------
+Sistema Globalmente Harmonizado (GHS) da ONU/UNECE, Livro Roxo, anexo 3:
+pictogramas, frases de perigo (H) e de precaução (P).
+Recomendações da ONU sobre Transporte de Mercadorias Perigosas (losangos de
+transporte).
+Guia de comunicação de riscos da OSHA e Guia de Bolso de Riscos Químicos do
+NIOSH, dos Estados Unidos.
+Norma brasileira ABNT NBR 14725 (adota o GHS) e ficha de segurança FISPQ
+do fabricante.

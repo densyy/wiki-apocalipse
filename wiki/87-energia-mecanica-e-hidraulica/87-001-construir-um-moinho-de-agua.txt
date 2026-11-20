@@ -1,0 +1,91 @@
+==============================================================================
+CODIGO: 87-001
+TITULO: Como construir um moinho de água
+CATEGORIA: 87 - Energia mecânica e hidráulica tradicionais
+TEMPO: 360 minutos
+RISCO: medio
+EXIGE: queda d'água constante, madeira, eixo, rodas, pedra de moer
+REVISAO: 2026-11
+PALAVRAS-CHAVE: moinho, água, moagem, roda, eixo, farinha, hidráulica
+==============================================================================
+
+OBJETIVO
+--------
+Construir um moinho que use a força de um córrego para moer grãos.
+
+QUANDO USAR
+-----------
+Quando houver queda d'água constante durante o ano inteiro.
+Quando levar grãos até um moinho distante custar tempo e dinheiro.
+Quando a comunidade precisar de farinha fresca perto da lavoura.
+Quando o terreno tiver um desnível natural aproveitável.
+
+NAO USE QUANDO
+--------------
+Não construa onde a água seca na estiagem ou congela no inverno.
+Não construa em área de enchente forte ou de desmoronamento.
+Não construa sem permissão se a água for de uso comum ou protegido.
+
+MATERIAIS
+---------
+- Madeira resistente para vigas, rodas e suportes (eucalipto ou ipê).
+- Eixo de madeira ou metal apoiado em dois mancais.
+- Tábuas para as pás da roda e para a calha de alimentação.
+- Duas pedras de moer com furo central do mesmo tamanho.
+- Pedras, areia e cal para firmar a base e as fundações.
+- Corda de fibra, pregos, parafusos e graxa vegetal.
+- Nível de bolha ou régua para alinhar o eixo.
+
+PROCEDIMENTO
+------------
+1. Escolha o trecho com maior queda e margem firme do córrego.
+2. Meça a queda com régua e marque os dois níveis de água.
+3. Cave a base das fundações até alcançar solo firme e seco.
+4. Encha as fundações com pedra, areia e cal, e deixe curar.
+5. Assente as vigas do suporte sobre as fundações niveladas.
+6. Fixe os dois mancais na altura marcada pela queda medida.
+7. Monte a roda com as tábuas inclinadas no sentido da água.
+8. Encaixe o eixo na roda e apoie-o nos dois mancais.
+9. Gire a roda com a mão e corrija qualquer atrito lateral.
+10. Abra a calha acima da roda para levar água até as pás.
+11. Instale uma comporta na calha para regular e cortar a água.
+12. Assente a pedra de baixo, fixa, sobre a base de madeira.
+13. Coloque a pedra de cima sobre a de baixo, com o furo no eixo.
+14. Ajuste a distância entre as pedras para grão grosso ou fino.
+15. Encaixe o eixo na pedra de cima e prenda com cunha de madeira.
+16. Faça o funil de grãos acima do furo central das pedras.
+17. Abra a comporta devagar até a roda girar sem tremer.
+18. Despeje punhados de grão e observe a saída da farinha.
+19. Aumente o fluxo aos poucos até o ritmo de moagem desejado.
+20. Anote o tempo de moagem e o ajuste usado para cada grão.
+
+ATENCAO
+-------
+A roda e o eixo giram com força: nunca toque neles em movimento.
+Use roupa justa e mantenha cabelos, mangas e cordas longe do eixo.
+A calha e as pedras ficam escorregadias: use calçado aderente.
+Se a roda tremer ou o mancal aquecer, feche a comporta e pare.
+Nunca deixe crianças brincar perto do moinho em funcionamento.
+Em chuva forte ou cheia, feche a comporta e amarre a roda.
+Verifique as fundações após cada chuva grande antes de religar.
+
+SE NAO TIVER
+------------
+Sem pedra de moer, use duas pedras de rio com face áspera.
+Sem mancais de metal, use buxo de madeira dura com graxa vegetal.
+Sem comporta, prenda uma tábua na calha e regule com a mão.
+Sem queda natural, construa um canal de desvio mais alto.
+Sem graxa, use sebo animal derretido, nunca óleo queimado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A roda gira em sentido único e sem ruído de madeira batendo.
+A farinha sai seca e uniforme, sem grãos inteiros misturados.
+O eixo não aquece e a calha não transborda pelo lado.
+A comporta corta a água por completo quando fechada.
+
+FONTES
+------
+Prática consolidada de moinhagem hidráulica tradicional, passada de
+mestre para aprendiz em comunidades rurais. Base também em manuais de
+pequenas usinas hidrelétricas e de construção rural com madeira.

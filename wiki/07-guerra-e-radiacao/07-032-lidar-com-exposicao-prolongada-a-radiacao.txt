@@ -1,0 +1,85 @@
+==============================================================================
+CODIGO: 07-032
+TITULO: Como lidar com exposição prolongada à radiação
+CATEGORIA: 07 - Guerra, radiação e catástrofes nucleares
+TEMPO: 30 minutos por dia
+RISCO: critico
+EXIGE: abrigo firme, água e comida guardadas, saco plástico
+REVISAO: 2026-11
+PALAVRAS-CHAVE: radiação, exposição, abrigo, fallout, dose, higiene
+==============================================================================
+
+OBJETIVO
+--------
+Reduza a dose acumulada vivendo dias em área contaminada.
+
+QUANDO USAR
+-----------
+Quando ficar dias em região com poeira radioativa no ar.
+Quando a defesa civil mandar continuar abrigado após 24 horas.
+Quando precisar sair por pouco tempo para água ou ajuda.
+Quando cuidar de família presa no mesmo abrigo por dias.
+Quando não houver rota segura para evacuar ainda.
+
+NAO USE QUANDO
+--------------
+Não use este texto no lugar de evacuar com ordem oficial.
+Não saia do abrigo para buscar bens ou visitar parente.
+Não tente atravessar área com incêndio ou prédio caindo.
+
+MATERIAIS
+---------
+- Canto mais blindado da casa, porão ou miolo sem janela.
+- Roupa que cubra corpo todo, sapato fechado e pano no rosto.
+- Saco plástico para isolar roupa e calçado usados fora.
+- Água guardada antes da poeira e comida em pote fechado.
+- Sabão, pano úmido, rádio a pilha e lanterna.
+
+PROCEDIMENTO
+------------
+1. Escolha o canto com mais parede e terra entre você e a rua.
+2. Monte a sala limpa nesse canto para dormir e comer.
+3. Fique abrigado o dia todo e saia só para tarefa essencial.
+4. Revezem as saídas para ninguém acumular dose sozinho.
+5. Cubra corpo todo antes de sair, com pano no nariz e boca.
+6. Marque a hora de saída e volte em poucos minutos.
+7. Tire roupa e sapato de fora na entrada antes de entrar.
+8. Coloque a roupa usada em saco plástico e amarre bem.
+9. Lave com sabão mãos, rosto e partes sem cobertura.
+10. Coma só comida fechada e beba só água guardada antes.
+11. Guarde lixo, fezes e urina em balde tampado longe da sala.
+12. Anote por dia quem saiu, por quanto tempo e sintomas.
+13. Ouça o rádio a pilha e siga a ordem da defesa civil.
+
+ATENCAO
+-------
+Dose acumula sem dor e sem cheiro durante dias seguidos.
+Pano no rosto segura poeira no pulmão mas não para raio gama.
+Roupa comum e capa de chuva dão falsa segurança sem blindar.
+Ferver água não tira material radioativo e pode concentrar.
+Não tome iodo estável por conta sem ordem de autoridade.
+Chuva, neve e poeira nova pedem voltar já para o abrigo.
+Criança e grávida sofrem mais com a mesma dose que adulto.
+Vômito rápido, diarreia com sangue e tontura pedem socorro.
+Este texto não cura enjoo de radiação nem queimadura grave.
+
+SE NAO TIVER
+------------
+Sem porão, use miolo de prédio firme longe de janela e telhado.
+Sem saco plástico, deixe roupa de fora longe da sala limpa.
+Sem água guardada, use água fechada e limpe o pote por fora.
+Sem rádio, siga a última ordem recebida e evite sair à toa.
+Sem sabão, limpe pele com pano úmido sem esfregar forte.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você passa o dia no ponto mais blindado e sai pouco.
+Você entra com roupa limpa e pele lavada após cada saída.
+Sua lista mostra saídas curtas e revezadas entre as pessoas.
+
+FONTES
+------
+Guia de resposta a detonação nuclear da FEMA.
+Página sobre ficar abrigado após emergência do CDC americano.
+Página sobre proteção com tempo, distância e blindagem da EPA.
+Prática consolidada de sobrevivência civil em manual militar.

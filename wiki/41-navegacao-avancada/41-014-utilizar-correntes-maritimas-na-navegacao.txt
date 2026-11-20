@@ -1,0 +1,90 @@
+==============================================================================
+CODIGO: 41-014
+TITULO: Como utilizar correntes marítimas na navegação
+CATEGORIA: 41 - Navegação avançada e técnicas de expedição
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: embarcação, remo ou motor, mapa, objeto flutuante, âncora
+REVISAO: 2026-11
+PALAVRAS-CHAVE: corrente, correnteza, maré, deriva, navegação, encalhe
+==============================================================================
+
+OBJETIVO
+---------
+Chegar ao destino usando a corrente a favor sem ser arrastado.
+
+QUANDO USAR
+-----------
+Quando o vento falta e é preciso avançar.
+Ao entrar ou sair de baía, estuário ou canal.
+Quando o destino fica a favor da corrente.
+Perto da costa, recifes ou pedras, onde a água puxa para terra.
+Quando a embarcação está parada ou derivando sem controle.
+
+NAO USE QUANDO
+--------------
+Não entre na correnteza de rompimento, a espuma que corre para o mar.
+Ela puxa a embarcação para fora e não volta sozinha.
+Não use a corrente como guia única se não souber onde ela termina.
+
+MATERIAIS
+---------
+- Embarcação com casco íntegro e flutuando.
+- Remo, pá ou motor com combustível.
+- Carta, mapa ou anotações do trecho.
+- Objeto flutuante: madeira, boia ou garrafa tampada.
+- Âncora ou cabo comprido.
+- Bússola ou ponto fixo na costa.
+
+PROCEDIMENTO
+------------
+1. Observe a água antes de partir.
+2. Procure espuma, algas ou diferença de cor que indiquem o fluxo.
+3. Solte o objeto flutuante ao lado da embarcação.
+4. Conte quanto tempo ele leva para passar de proa a popa.
+5. Estime a velocidade em nós: um nó é aproximadamente 1,85 km por hora.
+6. Anote para onde a água empurra a embarcação.
+7. Decida se essa direção ajuda ou atrapalha o destino.
+8. Se ajuda, alinhe a proa com o destino e deixe a água carregar.
+9. Se atrapalha, aponte a proa para o lado de onde vem a corrente.
+10. Aumente o esforço até a embarcação manter a rota.
+11. Compare a proa com o caminho real em relação à costa.
+12. Se a costa se aproximar, vire mais para fora e reme mais forte.
+13. Ao entrar em baía com a maré enchendo, entre com a corrente.
+14. Para sair, espere a maré baixar e a corrente virar.
+15. Para parar sem ser levado, lance a âncora ou amarre em ponto fixo.
+
+ATENCAO
+-------
+Correntes de maré fortes podem passar de 8 nós.
+Sem remo ou motor, a embarcação não avança contra elas.
+A corrente de maré muda de sentido com a maré.
+O que era favorável pode virar e levar você de volta.
+Correntes de vento e de oceano não são previsíveis como as de maré.
+O erro mais comum é olhar só para a proa.
+A embarcação pode apontar para o destino e ainda ser levada para pedra.
+Se a deriva empurra para costa perigosa, pare, ancore e espere a virada.
+Este texto não substitui carta náutica, rádio ou treinamento.
+
+SE NAO TIVER
+------------
+- Sem objeto flutuante, observe espuma, algas ou aves pousadas.
+- Sem âncora, use cabo com peso na ponta ou procure fundo raso.
+- Sem remo ou motor, não navegue contra a corrente.
+- Sem carta, use a costa ou montanhas como referência fixa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- A embarcação chega ao destino ou mantém a rota esperada.
+- A costa não se aproxima mais do que o previsto.
+- O objeto solto confirma o sentido da água.
+- Ao parar, a embarcação fica quase parada em relação à costa.
+
+FONTES
+------
+Prática consolidada de marinharia, sem documento único.
+Compensar a corrente apontando a proa contra o fluxo.
+Dados da NOAA (National Ocean Service) sobre correntes:
+a corrente de maré é previsível, pode passar de 8 nós
+e um nó equivale a aproximadamente 1,85 km por hora.
+NOAA, material educacional sobre os ciclos de maré.

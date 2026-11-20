@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 70-007
+TITULO: Como configurar um servidor web local
+CATEGORIA: 70 - Computação de baixo consumo e preservação digital
+TEMPO: 15 minutos
+RISCO: medio
+EXIGE: computador com Python 3, navegador, rede local
+REVISAO: 2026-11
+PALAVRAS-CHAVE: servidor, web, local, python, arquivos, rede, compartilhar
+==============================================================================
+
+OBJETIVO
+--------
+Disponibilizar arquivos do computador para a rede local, sem internet.
+
+QUANDO USAR
+-----------
+Quando a internet caiu, mas a rede entre aparelhos ainda funciona.
+Quando ha manuais ou fotos para compartilhar com o grupo.
+Quando varios aparelhos precisam ler o mesmo arquivo.
+
+NAO USE QUANDO
+--------------
+Servidor simples nao pede senha: nao publique dados pessoais ou senhas.
+Nao use em rede publica nem sem ninguem para encerrar ao terminar.
+
+MATERIAIS
+---------
+- Computador com Python 3 instalado (ou outro servidor local simples).
+- Navegador em cada aparelho que vai ler os arquivos.
+- Rede local por cabo ou Wi-Fi, com fonte de energia.
+- Pasta exclusiva com apenas os arquivos liberados.
+
+PROCEDIMENTO
+------------
+1. Crie uma pasta exclusiva para o servidor, fora da pasta de documentos.
+2. Copie para ela somente os arquivos liberados para o grupo.
+3. Abra o terminal dentro da pasta que sera publicada.
+4. Inicie com: python3 -m http.server 8000 --bind 127.0.0.1
+5. Confira a mensagem de servidor ativo no terminal.
+6. No proprio computador, abra o navegador e digite localhost:8000.
+7. Confira se a lista de arquivos aparece com os nomes esperados.
+8. Para compartilhar, descubra o IP local do computador.
+9. Refaca o servidor usando --bind 0.0.0.0 para liberar a rede.
+10. Nos outros aparelhos, abra o navegador e digite o IP com :8000.
+11. Encerre com Ctrl+C no terminal ao terminar o uso.
+
+ATENCAO
+-------
+O modulo http.server do Python nao tem senha nem controle de acesso.
+Sem o --bind, o servidor escuta em todas as interfaces e qualquer pessoa
+da rede pode ler ou apagar arquivos da pasta publicada.
+Prefira 127.0.0.1. Nao use links simbolicos: podem expor arquivos de
+fora da pasta. Nao publique senhas. Encerre o servidor ao terminar.
+
+SE NAO TIVER
+------------
+Sem Python 3, use outro servidor local documentado, como o do PHP ou o
+httpd do BusyBox, mantendo a regra de escutar so no endereco local.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O terminal mostra o servidor ativo e nenhum erro de partida.
+No navegador, a lista de arquivos aparece e o texto abre ao clicar.
+
+FONTES
+------
+Documentacao oficial do Python, modulo http.server: linha de comando,
+opcoes --bind e --directory, e avisos de seguranca. Pratica consolidada
+de administracao de redes locais. Resumo operacional, nao treinamento.

@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 64-024
+TITULO: Como montar um laboratório escolar com recursos limitados
+CATEGORIA: 64 - Laboratório, diagnóstico e análises
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: mesa firme, caixas, água, caderno, material de limpeza
+REVISAO: 2026-11
+PALAVRAS-CHAVE: laboratório, escola, barato, improviso, segurança
+==============================================================================
+
+OBJETIVO
+--------
+Preparar a sala para práticas de ciências com material barato e seguro.
+
+QUANDO USAR
+-----------
+Quando a escola não tem laboratório equipado.
+Quando o orçamento não permite comprar vidraria e equipamentos.
+Quando os alunos precisam manusear material em vez de só ouvir.
+
+NAO USE QUANDO
+--------------
+Não use reagentes sem rótulo, vencidos ou de origem desconhecida.
+Não faça práticas com fogo, gases ou corrosivos neste espaço.
+
+MATERIAIS
+---------
+- Mesa firme coberta com plástico ou papel grosso.
+- Caixas, frascos de vidro, copos, colheres, palitos e funil de papel.
+- Caderno, etiquetas, água, sabão, óculos, luvas e avental.
+
+PROCEDIMENTO
+------------
+1. Escolha mesa firme, arejada e com luz, longe de comida e fogo.
+2. Cubra a mesa com plástico ou papel para facilitar a limpeza.
+3. Separe uma área limpa, uma de trabalho e uma de resíduos.
+4. Lave os frascos com água e sabão; enxágue e deixe secar.
+5. Rotule cada frasco com nome, conteúdo e data, sem abreviar.
+6. Monte um kit por grupo com copos, colheres e palitos.
+7. Guarde cada kit em uma caixa com a lista na tampa.
+8. Anote no caderno o que existe, o que falta e o substituto.
+
+ATENCAO
+-------
+Não pipete com a boca; use conta-gotas ou pipeta própria.
+Ao diluir ácido, despeje o ácido na água, nunca o contrário.
+Teste cada improviso com água antes de usar qualquer reagente.
+Nunca misture produtos de limpeza, principalmente água sanitária com ácido.
+Se respingar nos olhos, lave com água corrente e pare a atividade.
+
+SE NAO TIVER
+------------
+Sem vidraria, use frascos de vidro limpos, nunca em reação com calor.
+Sem óculos, não manusee corrosivos, ácidos nem produtos fortes.
+Sem caixas, separe o material em potes ou sacos de pano etiquetados.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada grupo tem um kit completo, com a lista na tampa da caixa.
+Os frascos estão limpos, secos, tampados e com rótulo legível.
+O caderno registra o inventário e os testes feitos com água.
+
+FONTES
+------
+Prática consolidada de ensino com equipamento de baixo custo.
+UNESCO, New trends in school science equipment; OMS, Selection of basic
+laboratory equipment for laboratories with limited resources, 2000;
+NCERT, low-cost science equipment; Yitbarek, African Journal of
+Chemical Education, 2012. Resumo operacional, não substitui treinamento.

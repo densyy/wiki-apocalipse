@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 65-019
+TITULO: Como produzir painéis com resíduos agrícolas
+CATEGORIA: 65 - Engenharia de materiais e polímeros
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: resíduo agrícola seco e limpo, aglutinante, molde, peso, máscara
+REVISAO: 2026-11
+PALAVRAS-CHAVE: painel, aglomerado, bagaço, palha, resíduo, cola, prensa
+==============================================================================
+
+OBJETIVO
+--------
+Fabricar placa leve e rígida com sobras de colheita, sem prensa industrial.
+
+QUANDO USAR
+-----------
+Quando sobra palha, bagaço de cana, casca de arroz ou colmos de milho.
+Quando falta uma tampa, divisória leve ou material de embalagem.
+Quando há lugar arejado e coberto para secar por alguns dias.
+Quando a peça não vai sustentar peso nem ficar em área úmida.
+
+NAO USE QUANDO
+--------------
+Não use resíduo mofado, apodrecido, tratado com agrotóxico ou pintado.
+Não use bagaço com medula esponjosa: ela não tem fibra e enfraquece a placa.
+Não use cola com formaldeído: ela libera vapor tóxico.
+Não use a placa para sustentar peso, em telhado, piso ou área externa.
+Não improvise prensa aquecida: há risco de queima e vapores sem controle.
+
+MATERIAIS
+---------
+- Resíduo agrícola seco e limpo (palha, bagaço depitado, colmos).
+- Cola branca à base de PVA (ou pasta de amido, menos resistente à água).
+- Molde rígido de madeira ou metal com superfície lisa.
+- Filme plástico ou papel para forrar o molde.
+- Duas tábuas retas e peso plano (pedras ou livros).
+- Máscara, luvas e óculos de proteção.
+- Local arejado, coberto e longe de fogo.
+
+PROCEDIMENTO
+------------
+1. Escolha resíduo seco, limpo e sem mofo.
+2. Descarte o material escuro ou com cheiro de mofo.
+3. Se for bagaço, retire a medula esponjosa do centro.
+4. Lave o material com água limpa para tirar terra e açúcar.
+5. Espalhe em camada fina e seque ao sol ou em lugar arejado.
+6. Corte o material seco em pedaços de aproximadamente 2 a 5 cm.
+7. Peneire e separe as fibras grossas do pó fino.
+8. Vista máscara, luvas e óculos antes de manusear o material seco.
+9. Prepare o aglutinante conforme as instruções do fabricante.
+10. Misture o aglutinante às fibras até umedecer todas, sem encharcar.
+11. Forre o molde com filme plástico ou papel.
+12. Espalhe a mistura em camada uniforme de aproximadamente 1 cm.
+13. Cubra a mistura com o filme plástico.
+14. Apoie as duas tábuas retas sobre o filme.
+15. Empilhe peso plano sobre as tábuas.
+16. Pressione por aproximadamente um dia, em lugar arejado e coberto.
+17. Retire a placa do molde sem puxar pelas bordas finas.
+18. Deixe secar em pé, arejado e coberto, por aproximadamente cinco dias.
+19. Vire a placa a cada dia para secar os dois lados.
+20. Lixe as bordas com máscara e ao ar livre, se for necessário.
+
+ATENCAO
+-------
+A poeira fina de palha e bagaço irrita as vias respiratórias e causa asma.
+Nunca lixe ou corte a seco em ambiente fechado. Use máscara e ao ar livre.
+Resíduo úmido apodrece e mofa: a placa fica fraca e pode causar alergia.
+Se aparecer mofo ou cheiro de mofo, descarte o material e comece de novo.
+Cola com formaldeído libera vapor cancerígeno em ambiente fechado. Não use.
+Esta placa é mais fraca que aglomerado industrial e não resiste à água.
+Não a use em móvel que sustente peso, nem perto de fogo ou umidade.
+Pare e procure ajuda se houver tosse persistente, falta de ar ou irritação.
+
+SE NAO TIVER
+------------
+Sem cola branca, use pasta de farinha cozida com água. É mais fraca.
+Sem molde, monte uma caixa com quatro tábuas retas.
+Sem filme plástico, forre com papel ou pano limpo e liso.
+Sem peso, empilhe pedras ou livros sobre uma tábua apoiada na peça.
+Sem sol, seque em lugar coberto e muito arejado; o tempo será maior.
+Sem máscara, não corte nem lixe a seco. Trabalhe só com umedecimento.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A placa sai do molde inteira, sem desfazer nas bordas.
+A superfície está seca, dura e sem cheiro de mofo.
+As fibras ficam distribuídas por toda a peça, sem grumos grandes.
+Ao pressionar com o dedo, a placa não cede nem solta pó.
+
+FONTES
+------
+Publicação da FAO sobre resíduos agrícolas em painéis de partículas.
+Revisões científicas sobre painéis vegetais prensados sem aglutinante.
+Orientações do HSE do Reino Unido sobre poeira de madeira e asma.
+Material da EPA dos Estados Unidos sobre formaldeído em madeira prensada.
+Avaliação da IARC/OMS sobre o formaldeído como cancerígeno humano.
+Este texto é um resumo operacional e não substitui treinamento.

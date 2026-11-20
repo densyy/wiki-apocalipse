@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 08-043
+TITULO: Como trabalhar com argila refratária
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: argila refratária, areia ou grog, água, balde, malho de madeira
+REVISAO: 2026-11
+PALAVRAS-CHAVE: argila, refratária, barro, forno, forja, secagem, grog
+==============================================================================
+
+OBJETIVO
+--------
+Preparar e assentar argila refratária que resiste ao fogo sem rachar.
+
+QUANDO USAR
+-----------
+Quando for revestir o fundo de uma forja ou de um forno.
+Quando precisar vedar ou reparar tijolos refratários.
+Quando for fazer base ou cadinho que entrará no fogo.
+Quando o revestimento antigo rachou ou desfez com o calor.
+
+NAO USE QUANDO
+--------------
+Para calor alto, não use barro comum de terra ou de construção.
+Quando não der para secar e curar devagar antes do primeiro fogo.
+Em peça grossa que precise entrar em uso no mesmo dia.
+Em lugar fechado, sem ventilação e sem saída para a umidade.
+
+MATERIAIS
+---------
+- Argila refratária (fireclay; barro de tijolo refratário).
+- Areia de sílica limpa (ou grog: tijolo refratário moído).
+- Água limpa.
+- Balde ou outro recipiente.
+- Malho de madeira ou um pedaço de madeira firme.
+- Espátula ou faca de ponta romba.
+- Pano para cobrir a peça.
+
+PROCEDIMENTO
+------------
+1. Quebre a argila seca em pedaços do tamanho de uma noz.
+2. Misture aproximadamente duas partes de argila e uma de areia ou grog.
+3. Mexa até a mistura ficar com a cor uniforme.
+4. Adicione água aos poucos, mexendo sem parar.
+5. Pare quando a massa grudar na mão ao apertar, sem escorrer.
+6. Se ficar mole, acrescente argila e areia e mexa de novo.
+7. Amasse para tirar bolsões de ar da massa.
+8. Soca a massa no lugar com o malho, em camadas de aproximadamente 2 cm.
+9. Soca até o malho começar a quicar na camada.
+10. Alise a superfície com a espátula.
+11. Faça sulcos rasos com a faca, em quadrados ou em leque.
+12. Cubra frouxamente com o pano e deixe secar na sombra, com vento.
+13. Retire o pano e espere até a peça não grudar mais no dedo.
+14. Acenda fogo pequeno por uma a duas horas; deixe esfriar por completo.
+15. Repita o fogo um pouco maior de três a cinco vezes, em dias diferentes.
+16. Só use calor cheio depois da última cura e do resfriamento completo.
+
+ATENCAO
+-------
+O erro que mais machuca é aquecer depressa demais.
+A água presa vira vapor, estoura a peça e joga pedaços quentes.
+Quanto mais água, mais a argila encolhe e racha ao secar.
+Nunca jogue fogo forte em peça ainda úmida.
+Vapor no começo é normal; estalo, rachadura ou pedaço solto não é.
+Se aparecer estalo, apague o fogo e espere esfriar antes de tocar.
+Mantenha rosto e mãos afastados na primeira vez que acender.
+Fogo em lugar fechado produz monóxido de carbono: ventile sempre.
+Barro comum não substitui argila refratária em calor alto.
+Pare e peça ajuda a quem entenda se a peça rachar fundo ou soltar pedaços.
+
+SE NAO TIVER
+------------
+Sem grog, use areia de sílica; não use areia de construção ou de praia.
+Sem malho, use um pedaço de madeira ou uma pedra lisa.
+Sem argila refratária, use barro de olaria só em calor baixo.
+Se não puder curar por dias, faça camada fina: durará pouco.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A peça não abriu rachadura depois da secagem e dos aquecimentos.
+Ao bater de leve, soa firme, não oco.
+Depois do fogo, a superfície não esfarela e não solta pó.
+A peça aguenta o uso sem desfazer.
+
+FONTES
+------
+Prática consolidada de assentamento e cura de revestimentos refratários.
+NIST, National Bureau of Standards, Circular 282: fire-clay brick,
+sobre secagem e contração da argila.
+Hotwork International e IRE, artigos técnicos sobre secagem de refratários
+e explosão por vapor de água.
+Plibrico, Heat Up Schedule D: aquecimento gradual e saída da umidade.
+Ceramics International (2022), revisão sobre secagem de concretos
+refratários.

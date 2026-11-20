@@ -1,0 +1,84 @@
+==============================================================================
+CODIGO: 70-014
+TITULO: Como armazenar pacotes de software para instalação offline
+CATEGORIA: 70 - Computação de baixo consumo e preservação digital
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: computador com internet, meio fisico, sistema igual ao do destino
+REVISAO: 2026-11
+PALAVRAS-CHAVE: pacote, instalador, offline, dependencia, sha256, pip, deb
+==============================================================================
+
+OBJETIVO
+--------
+Guardar pacotes e dependencias em meio fisico para uso sem internet.
+
+QUANDO USAR
+-----------
+Quando a internet vai cair e sera preciso reinstalar um programa.
+Quando varios computadores receberao o mesmo software.
+Quando o sistema sera formatado e os instaladores devem ser preservados.
+Quando a maquina de destino nunca teve acesso a rede.
+
+NAO USE QUANDO
+--------------
+Quando o destino tiver sistema, versao ou arquitetura diferente da origem.
+Quando nao houver meio seguro para guardar e conferir os arquivos.
+Quando o pacote exigir servico online ou licenca verificada na rede.
+
+MATERIAIS
+---------
+- Computador com acesso aos repositorios no momento do download.
+- Meio fisico: pen drive, disco externo ou cartao com espaco livre.
+- Sistema, versao e arquitetura iguais aos do computador de destino.
+- Ferramenta de soma, como sha256sum, ja presente no sistema.
+- Caderno ou arquivo de texto para anotar nomes e versoes.
+
+PROCEDIMENTO
+------------
+1. Anote o sistema, a versao e a arquitetura do computador de destino.
+2. No meio fisico, crie uma pasta por sistema e versao.
+3. No Debian, baixe sem instalar com: apt-get download nome-do-pacote
+4. No Fedora, baixe com: dnf download nome-do-pacote
+5. Instale o plugin antes, se faltar: dnf install dnf-plugins-core
+6. Em Python, baixe com: pip download nome -d pasta
+7. Em outra plataforma, use pip com --platform e --python-version.
+8. Repita o download para cada dependencia que o gerenciador indicar.
+9. Copie todos os arquivos baixados para a pasta do meio fisico.
+10. Gere a soma de cada arquivo com sha256sum e salve em somas.txt.
+11. Anote em txt o nome, a versao e o gerenciador de cada pacote.
+12. No destino Debian, instale com: dpkg -i nome-do-pacote.deb
+13. No destino Fedora, instale com: dnf install nome-do-pacote.rpm
+14. No destino Python: pip install --no-index --find-links=pasta nome
+15. Guarde o meio fisico identificado, separado da maquina, em local seco.
+
+ATENCAO
+-------
+Pacote errado para o sistema nao instala e pode danificar a maquina.
+Confira sistema, versao e arquitetura antes de baixar qualquer arquivo.
+Instalar .deb ou .rpm sem conferir a origem pode trazer codigo malicioso.
+Baixar so o pacote principal deixa a instalacao incompleta.
+No Python, pacote para outra plataforma pode falhar se faltar a ABI.
+Sem soma de verificacao, nao ha como saber se o arquivo foi corrompido.
+Pare se o gerenciador quiser remover pacotes do sistema.
+
+SE NAO TIVER
+------------
+Sem internet, use pacotes ja baixados no cache do gerenciador.
+Sem pen drive, use cartao ou disco externo e mantenha outra copia.
+Sem sha256sum, use outra ferramenta de soma e anote o resultado.
+Sem meio de gravar, anote a lista de nomes e versoes para o retorno da rede.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Cada arquivo aparece na pasta com tamanho maior que zero.
+A soma gerada confere quando repetida no computador de destino.
+No destino, o programa instala sem rede e abre sem pedir download.
+
+FONTES
+------
+Guia do administrador do Debian: apt-get e a opcao -d, so download.
+Documentacao oficial do Python: pip download, --dest, --no-index,
+--find-links, --platform, --python-version e --abi.
+Referencia de comandos do DNF: download, --destdir, rpm local.
+Pratica consolidada de preservacao digital e integridade de arquivos.

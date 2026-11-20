@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 63-018
+TITULO: Como compreender métodos de antissepsia
+CATEGORIA: 63 - Microbiologia, parasitologia e contaminação
+TEMPO: 25 minutos
+RISCO: medio
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: antissepsia, desinfecção, álcool, clorexidina, iodo, germe
+==============================================================================
+
+OBJETIVO
+--------
+Diferenciar os métodos e escolher o antisséptico adequado.
+
+QUANDO USAR
+-----------
+Ao preparar pele para punção ou limpar ferida superficial.
+Ao higienizar as mãos sem água e sabão.
+Ao decidir se um produto serve para pele ou superfície.
+
+NAO USE QUANDO
+--------------
+Não use para escolher remédio ou tratar infecção: procure avaliação.
+Não use em recém-nascido ou ferida extensa sem orientação.
+
+MATERIAIS
+---------
+- Nenhum material é necessário para compreender o texto.
+- Na prática: água, sabão, gaze e antisséptico registrado (álcool
+  70%, clorexidina ou PVPI), com rótulo e validade.
+
+PROCEDIMENTO
+------------
+1. Antissepsia atua em tecido vivo: pele ou mucosa.
+2. Desinfecção atua em objeto ou superfície inanimada.
+3. Esterilização elimina tudo, inclusive esporos.
+4. Limpeza só remove sujeira; antissepsia reduz germes, não esteriliza.
+5. Retire sujeira e material orgânico com água e sabão antes.
+6. Use álcool 70% em pele íntegra e procedimento curto.
+7. O álcool age rápido, não deixa efeito residual e é inflamável.
+8. Use clorexidina para efeito residual; age mais devagar.
+9. Nunca leve clorexidina a olhos, ouvidos ou cavidades.
+10. Use PVPI em mucosa ou pele ferida, conforme o rótulo.
+11. Cubra a área, mantenha molhada e deixe secar ao ar.
+12. Nunca aplique desinfetante de superfície na pele.
+
+ATENCAO
+-------
+Antissepsia não é esterilização: esporos e alguns vírus resistem.
+Álcool não penetra sangue, pus ou terra: limpe antes de aplicar.
+Não misture produtos: pode liberar gás tóxico ou inativar a ação.
+Pare se houver vermelhidão, ardência ou ferida que não fecha.
+
+SE NAO TIVER
+------------
+Sem antisséptico, lave com água e sabão por 20 segundos.
+Sem água, use preparação alcoólica 70% em gel nas mãos limpas.
+Não improvise com água sanitária, gasolina ou álcool 96% puro.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A área foi limpa, coberta, secou ao ar e o produto era válido.
+Você sabe dizer qual método usar em pele, objeto e ferida.
+
+FONTES
+------
+CDC (conceitos de antissepsia e desinfecção); OMS (preparo de pele);
+Manual de Antissépticos e Desinfetantes da MSF e Caderno de Higiene
+das Mãos da Anvisa. Resumo, não substitui treinamento médico.

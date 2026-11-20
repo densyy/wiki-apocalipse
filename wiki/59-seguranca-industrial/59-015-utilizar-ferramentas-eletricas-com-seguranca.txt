@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 59-015
+TITULO: Como utilizar ferramentas elétricas com segurança
+CATEGORIA: 59 - Segurança industrial e riscos ocupacionais
+TEMPO: 30 minutos
+RISCO: critico
+EXIGE: ferramenta íntegra, tomada aterrada, EPI, área seca e iluminada
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ferramenta, choque, aterramento, DR, extensão, umidade
+==============================================================================
+
+OBJETIVO
+--------
+Usar ferramentas elétricas portáteis sem choque, queimadura ou incêndio.
+
+QUANDO USAR
+-----------
+Ao usar furadeira, serra, lixadeira ou outra ferramenta portátil.
+Antes de trocar broca, disco ou lâmina da ferramenta.
+Ao trabalhar em área externa, canteiro ou local com umidade.
+Depois que a ferramenta cair, molhar ou mudar de operador.
+Ao sentir formigamento, cheiro de queimado ou faísca no uso.
+
+NAO USE QUANDO
+--------------
+Não use com cabo descascado, plugue sem pino de terra ou carcaça rachada.
+Não use com mãos, pés ou piso molhados, sem proteção diferencial.
+Não use perto de gás inflamável, solvente ou poeira que possa explodir.
+Não abra a ferramenta nem repare a parte elétrica: exige profissional.
+Não use extensão como fiação fixa, nem emende cabos com fita.
+
+MATERIAIS
+---------
+- Ferramenta elétrica com cabo íntegro e plugue de três pinos.
+- Tomada aterrada com disjuntor diferencial (DR, que corta a energia).
+- Extensão com pino de terra, sem emenda, de bitola adequada.
+- Luvas isolantes e calçado fechado de segurança.
+- Óculos de proteção contra partículas e respingos.
+- Detector de tensão para conferir se a tomada está viva.
+- Local seco, iluminado e sem líquidos no chão.
+
+PROCEDIMENTO
+------------
+1. Confira o local: piso seco, luz e sem gás ou solvente no ar.
+2. Inspecione o cabo, o plugue e a carcaça antes de cada uso.
+3. Confira o pino de aterramento do plugue; nunca o remova.
+4. Se a ferramenta tiver dupla isolação (casca plástica, sem pino
+   de terra), confirme o selo de dupla isolação no corpo.
+5. Ligue a extensão em tomada com DR e teste o botão de teste do DR.
+6. Encaixe a ferramenta e mantenha o cabo longe de calor, óleo
+   e bordas cortantes.
+7. Calce o calçado de segurança e vista as luvas e os óculos.
+8. Segure a ferramenta pelas alças, nunca pelo cabo.
+9. Mantenha as mãos secas; não pise em poça nem em metal molhado.
+10. Antes de trocar broca, disco ou lâmina, desligue e tire o plugue.
+11. Ligue a ferramenta só no local de uso, com a peça bem firme.
+12. Se a ferramenta cair na água, corte a energia na tomada ou no DR
+    antes de tocá-la. Não entre na água com o equipamento ligado.
+13. Ao terminar, desligue e puxe pelo corpo do plugue, nunca pelo fio.
+14. Enrole o cabo sem torcer e guarde o equipamento em local seco.
+
+ATENCAO
+-------
+O que mata é a corrente elétrica atravessando o corpo. O caminho mais
+perigoso vai da mão ao peito ou da mão aos pés.
+Água, suor e piso molhado baixam a resistência da pele e aumentam o risco.
+O choque pode parar o coração com fibrilação, batimento desordenado,
+mesmo sem dor forte e sem deixar marca na pele.
+Um choque fraco também pode causar queda de escada e ferimento grave.
+Cabo exposto, pino de terra removido ou DR desligado anulam a proteção.
+Se alguém levar choque, não toque: corte a energia e chame ajuda.
+Após qualquer choque, procure atendimento médico mesmo sem sintomas.
+Incêndio elétrico nunca se apaga com água: corte a energia e use
+extintor próprio para equipamento elétrico.
+
+SE NAO TIVER
+------------
+Sem tomada aterrada ou sem DR, use ferramenta a bateria ou manual.
+Sem luva isolante, suspenda o uso: luva de pano ou plástico fino
+não protege contra choque.
+Sem extensão adequada, aproxime a ferramenta da tomada; não emende fios.
+Com o piso molhado, seque-o ou troque de lugar antes de ligar.
+Sem responsável no local, interrompa o serviço e peça orientação.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A ferramenta liga e desliga só pelo interruptor, sem faísca ou cheiro
+de queimado.
+O DR não desarma no uso e a extensão não esquenta.
+Você não sentiu formigamento e trocou a broca com o plugue fora da tomada.
+O serviço terminou sem choque, sem queimadura e sem cabo danificado.
+
+FONTES
+------
+NR-10 do Ministério do Trabalho e Emprego (Portaria MTE 737/2026),
+itens 10.12.5 e 10.12.6, sobre ferramentas elétricas compatíveis,
+inspecionadas e testadas. Publicação 3080 da OSHA, Hand and Power
+Tools, e eTool sobre ferramentas elétricas. Boletins do NIOSH/CDC
+sobre segurança elétrica e uso de extensões. Resumo operacional;
+não substitui treinamento, a NR-10 nem a avaliação do responsável.

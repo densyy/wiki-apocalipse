@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 71-003
+TITULO: Como funciona a criptografia assimétrica
+CATEGORIA: 71 - Criptografia, segurança da informação e privacidade
+TEMPO: 15 minutos
+RISCO: baixo
+EXIGE: papel, lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: criptografia, chave pública, chave privada, rsa, cadeado
+==============================================================================
+
+OBJETIVO
+--------
+Entenda como duas chaves protegem uma mensagem e provam quem a escreveu.
+
+QUANDO USAR
+-----------
+Quando precisa receber mensagens de várias pessoas sem entregar segredos.
+Quando precisa provar que um arquivo veio de você e não foi alterado.
+Quando quer combinar uma chave com alguém que nunca encontrou.
+Quando usa navegador ou e-mail com cadeado ou assinatura.
+
+NAO USE QUANDO
+--------------
+Não há contraindicacao conhecida para este procedimento.
+Não crie algoritmo próprio com base nisso: gera falsa segurança.
+
+MATERIAIS
+---------
+- Papel.
+- Lápis.
+
+PROCEDIMENTO
+------------
+1. Desenhe no papel duas chaves: uma pública, outra privada.
+2. Escreva ao lado da pública: pode ser entregue a qualquer pessoa.
+3. Escreva ao lado da privada: fica só com quem a criou.
+4. Desenhe um cadeado aberto ao lado da chave pública.
+5. Anote: qualquer pessoa fecha o cadeado com a chave pública.
+6. Anote: só a chave privada abre o cadeado fechado.
+7. Troque a ideia para entender a assinatura digital.
+8. Anote: assine com a privada, confira com a pública.
+9. Anote a regra um: a chave privada nunca é enviada.
+10. Anote a regra dois: confirme de quem é a chave pública.
+
+ATENCAO
+-------
+A chave pública só protege se a privada continuar em segredo.
+Se alguém trocar a chave pública no caminho, lê a mensagem.
+Assinatura digital prova quem assinou, não esconde o conteúdo.
+Chave pública não esconde quem enviou, quando, nem o tamanho.
+Nunca invente algoritmo caseiro: métodos assim quebram fácil.
+Para proteger algo de verdade, use ferramenta conhecida e atualizada.
+
+SE NAO TIVER
+------------
+Sem papel, repita os passos na cabeça com a imagem do cadeado.
+Sem ferramenta confiável, não improvise criptografia: peça ajuda.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você diz qual chave pode ser distribuída e qual fica só com você.
+Você explica: assinar com a privada e checar com a pública prova autoria.
+
+FONTES
+------
+Vocabulário de Segurança da Internet, RFC 4949, IETF, 2007.
+Glossário de criptografia de chave pública do CSRC, NIST.
+A explicação segue a definição consolidada dessas duas fontes.

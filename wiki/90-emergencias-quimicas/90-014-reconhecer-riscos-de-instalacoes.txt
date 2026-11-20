@@ -1,0 +1,81 @@
+==============================================================================
+CODIGO: 90-014
+TITULO: Como reconhecer riscos de instalações de armazenamento químico
+CATEGORIA: 90 - Emergências químicas, industriais e ambientais
+TEMPO: 30 minutos
+RISCO: alto
+EXIGE: luvas, máscara, lanterna e caderno de observação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: armazenamento, depósito, tanque, incompatibilidade, risco
+==============================================================================
+
+OBJETIVO
+---------
+Reconhecer sinais de risco em depósitos químicos sem entrar neles.
+
+QUANDO USAR
+-----------
+Ao passar por depósito, tanque ou área de carga com produtos químicos.
+Quando houver cheiro químico, corrosão ou vazamento visível.
+Ao notar tambores enferrujados, abertos ou empilhados sem segurança.
+Quando a vizinhança relatar irritação ou problemas respiratórios.
+Depois de mudança de uso de galpão próximo a moradias.
+
+NAO USE QUANDO
+--------------
+Não entre no depósito sem autorização e sem equipamento de proteção.
+Não abra tambor, válvula ou recipiente desconhecido.
+Não toque em resíduo que esteja vazando.
+
+MATERIAIS
+---------
+- Luvas de nitrilo e máscara com filtro para vapores.
+- Lanterna para observar áreas escuras sem se aproximar.
+- Caderno e lápis para anotar sinais e localizações.
+- Celular para registrar a ocorrência, se disponível.
+- Meio de contato com a defesa civil ou o órgão ambiental.
+
+PROCEDIMENTO
+------------
+1. Observe a instalação de fora, sem ultrapassar o limite de segurança.
+2. Anote o que for visível: tanques, tambores, tubulações e rotulagem.
+3. Procure sinais de corrosão, manchas, poeira ou respingo no chão.
+4. Observe se há cheiro forte ou odor que muda conforme o vento.
+5. Verifique se produtos incompatíveis estão guardados juntos.
+6. Note se tambores estão abertos, tombados ou sem identificação.
+7. Confira se há bueiro ou drenagem próxima ao depósito.
+8. Registre a distância entre o depósito e casas, escolas ou poços.
+9. Fotografe apenas o que for possível sem entrar na área.
+10. Comunique a ocorrência ao órgão ambiental e à defesa civil.
+11. Descreva risco imediato, como vazamento ou cheiro, com prioridade.
+12. Aguarde orientação antes de qualquer aproximação maior.
+
+ATENCAO
+-------
+Misturas incompatíveis podem gerar calor, fogo ou gás tóxico.
+Tambores sem rótulo escondem substância desconhecida e imprevisível.
+Corrosão em tanque indica risco de rompimento e derramamento.
+Vapores podem se acumular em áreas baixas e não ter cheiro perceptível.
+Não tente vedar vazamento sem saber qual é o produto.
+Se houver vazamento ativo, mantenha distância e avise a emergência.
+Instalações irregulares próximas a moradias exigem comunicação oficial.
+
+SE NAO TIVER
+------------
+Sem máscara, mantenha distância e observe apenas à vista.
+Sem lanterna, faça a inspeção em horário de luz natural.
+Sem celular, registre por escrito e repasse oralmente à autoridade.
+Sem saber o produto, trate como desconhecido e não toque em nada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os sinais foram registrados por escrito e com localização.
+A ocorrência foi comunicada ao órgão competente.
+Nenhuma tentativa de entrar ou manipular o material foi feita.
+
+FONTES
+------
+Resumo de critérios de segurança para armazenamento de produtos químicos
+difundidos por normas técnicas e órgãos ambientais. Observação externa,
+identificação de incompatibilidades e comunicação oficial são práticas
+consolidadas em manuais de inspeção de instalações.

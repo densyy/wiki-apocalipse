@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 67-014
+TITULO: Como construir sensores de umidade
+CATEGORIA: 67 - Robótica, automação e controle
+TEMPO: 45 minutos
+RISCO: baixo
+EXIGE: dois termômetros, pano limpo, água, recipiente, sombra
+REVISAO: 2026-11
+PALAVRAS-CHAVE: umidade, sensor, higrômetro, psicrômetro, bulbo, úmido
+==============================================================================
+
+OBJETIVO
+--------
+Montar um sensor com dois termômetros para ler a umidade relativa do ar.
+
+QUANDO USAR
+-----------
+Quando precisar medir a umidade do ar sem energia elétrica.
+Para decidir quando ventilar, secar ou umedecer um ambiente.
+Para checar se um depósito ou abrigo está úmido demais.
+
+NAO USE QUANDO
+--------------
+Não mede umidade do solo, de grãos ou de paredes: lê só o ar.
+Não use sem água limpa para manter a mecha molhada.
+Não confie na leitura sob sol direto ou perto de calor.
+
+MATERIAIS
+---------
+- Dois termômetros iguais, de álcool ou digitais (nunca de mercúrio).
+- Pano limpo de algodão ou gaze para a mecha.
+- Água limpa, de preferência destilada (ou filtrada e fervida).
+- Recipiente com água, fita e alça ou cabo para pendurar.
+
+PROCEDIMENTO
+------------
+1. Enrole a mecha de pano na ponta de um dos termômetros.
+2. Prenda a mecha com fita, sem apertar o bulbo do termômetro.
+3. Molhe a mecha no recipiente até encharcar, sem gotejar.
+4. Prenda os dois termômetros lado a lado, na mesma altura.
+5. Pendure o conjunto na sombra, com ar livre ao redor.
+6. Espere aproximadamente 2 minutos para as leituras estabilizarem.
+7. Leia o termômetro sem pano e anote a temperatura do ar.
+8. Leia o termômetro com a mecha e anote a temperatura úmida.
+9. Anote a diferença entre as duas leituras: quanto maior, mais seco o ar.
+
+ATENCAO
+-------
+O bulbo úmido esfria ao evaporar água; é disso que o sensor depende.
+Mecha seca faz a leitura subir e errar a medição.
+Sem tabela, o aparelho mostra só seco ou úmido, não o percentual.
+Termômetro de mercúrio quebrado libera vapor tóxico: nunca use.
+
+SE NAO TIVER
+------------
+Sem segundo termômetro, meça o seco e depois molhe a mecha no aparelho.
+Sem algodão, use gaze limpa ou tiras de camiseta lavada.
+Sem água destilada, use água filtrada e fervida, depois fria.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Antes de molhar, os dois termômetros marcam o mesmo valor.
+Depois de molhar, o termômetro com pano marca menos que o outro.
+Com ar muito úmido, as duas leituras ficam próximas.
+
+FONTES
+------
+Princípio do psicrômetro de bulbo seco e úmido, prática consolidada de
+meteorologia. Base: NWS/NOAA (El Paso), de Tim Brice e Todd Hall; Guia
+de Instrumentos e Métodos de Observação da OMM (WMO-No. 8); NIST.

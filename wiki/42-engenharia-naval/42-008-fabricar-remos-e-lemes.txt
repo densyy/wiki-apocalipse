@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 42-008
+TITULO: Como fabricar remos e lemes
+CATEGORIA: 42 - Engenharia naval e tecnologias marítimas
+TEMPO: 180 minutos
+RISCO: alto
+EXIGE: madeira seca sem nós, ferramentas de corte, ferragens de fixação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: remo, remada, leme, pá, cana, madeira, direção
+==============================================================================
+
+OBJETIVO
+--------
+Fazer um remo para impulsionar e um leme simples para dirigir uma
+embarcação pequena, com madeira e ferramentas manuais.
+
+QUANDO USAR
+-----------
+Quando um remo quebrar ou se perder e não houver substituto.
+Quando a embarcação improvisada não tiver como ser dirigida.
+Quando for preciso fabricar as peças antes de navegar em água calma.
+Quando o leme estiver solto, rachado ou ineficiente.
+
+NAO USE QUANDO
+--------------
+Não use em mar aberto, correnteza, vento forte ou ondas.
+Remos e lemes caseiros não substituem peças certificadas nem ensaio
+de navegação. Navegar sem direção confiável pode matar por afogamento.
+
+MATERIAIS
+---------
+- Tábua seca e leve, sem nós: pinus, cedro ou freijo.
+- Madeira dura para o eixo do leme: carvalho ou a própria tábua.
+- Fita de ferro ou latão para pinos e fêmeas do leme.
+- Pregos ou parafusos e arruelas para fixar as ferragens.
+- Serra, machado, plaina, faca de entalhar e lixa.
+- Corda para a linha de levantamento do leme.
+- Óleo de linhaça ou verniz para vedar a madeira.
+
+PROCEDIMENTO
+------------
+1. Escolha madeira seca, de veio reto e sem nós na haste.
+2. Meça a largura entre os apoios dos remos na embarcação.
+3. Multiplique essa largura por aproximadamente dois para o remo.
+4. Marque o remo na tábua com uma linha central.
+5. Marque a pá: aproximadamente 50 cm por 14 cm.
+6. Marque a haste: aproximadamente 3 a 4 cm na mão.
+7. Serre o contorno e acerte com a plaina.
+8. Desbaste a haste com machado até formar octógono.
+9. Arredonde a haste com faca e lixa até ficar lisa na mão.
+10. Afine a pá até aproximadamente 1 cm na ponta e arredonde as bordas.
+11. Marque o apoio a aproximadamente um terço da mão.
+12. Equilibre o remo nesse ponto; apare a pá se pesar.
+13. Lixe e vede com óleo ou verniz; deixe a mão sem tinta.
+14. Para o leme, marque a pá: aproximadamente 50 cm por 25 cm.
+15. Arredonde a entrada e afine a saída da pá.
+16. Fixe a pá ao eixo vertical com parafusos passantes.
+17. Prenda dois pinos na entrada do eixo, bem separados.
+18. Prenda as fêmeas na popa, na mesma linha vertical.
+19. Confira que os pinos entram e a pá gira sem folga.
+20. Encaixe a cana no topo do eixo e prenda-a com pregos.
+21. Amarre linha de levantamento, coloque batente e vede a madeira.
+
+ATENCAO
+-------
+Ferramentas de corte ferem: mantenha as mãos fora da linha de corte.
+Remo desequilibrado cansa; apare a pá se a ponta pesar muito.
+Pá larga ou fina demais quebra: não exceda as medidas.
+Leme sem batente sobe e sai das fêmeas, deixando o barco sem direção.
+Ferragens desalinhadas travam o leme e forçam os parafusos.
+Teste em água rasa e parada, com colete salva-vidas para cada pessoa.
+Se o remo rachar ou o leme soltar, pare e procure ajuda.
+
+SE NAO TIVER
+------------
+Sem tábua larga, una duas tábuas com pregos e travessas.
+Sem metal, use laços de corda como dobradiça (giro limitado).
+Sem carvalho, reforce o eixo com fita de metal.
+Sem óleo de linhaça, use verniz comum ou óleo de cozinha.
+Sem cana, use um cabo de vassoura preso no topo do eixo.
+Sem material confiável, não navegue: procure ajuda.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O remo fica equilibrado no apoio, sem cair para nenhum lado.
+A pá do remo afunda na água sem virar a mão.
+O leme gira livre nas fêmeas e desvia a água ao virar a cana.
+A linha ergue a pá e o batente a mantém presa às fêmeas.
+
+FONTES
+------
+Prática consolidada de fabricação de remos e lemes em madeira,
+registrada em publicações técnicas WoodenBoat e Small Boats Monthly,
+plantas do estaleiro Glen-L e artigos da Encyclopaedia Britannica.
+Medidas aproximadas; resumo operacional, não substitui treinamento.

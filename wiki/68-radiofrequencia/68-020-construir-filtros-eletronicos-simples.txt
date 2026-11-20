@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 68-020
+TITULO: Como construir filtros eletrônicos simples
+CATEGORIA: 68 - Radiofrequência e telecomunicações
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: resistores, capacitores, fios, sinal de baixa tensão
+REVISAO: 2026-11
+PALAVRAS-CHAVE: filtro, passa-baixa, passa-alta, RC, corte, ruido, radio
+==============================================================================
+
+OBJETIVO
+---------
+Montar filtros RC que deixam passar só a faixa de frequência desejada.
+
+QUANDO USAR
+-----------
+Quando chiado de alta frequência invade a recepção do rádio.
+Quando é preciso limitar a banda antes de amplificar o sinal.
+Quando se quer bloquear sinais fora da banda na entrada do rádio.
+
+NAO USE QUANDO
+--------------
+Quando a frequência passar de aproximadamente 100 kHz: prefira filtro LC.
+Quando a tensão for alta: este procedimento vale só para baixa tensão.
+
+MATERIAIS
+---------
+- Resistores de 1 kΩ a 100 kΩ, com valor conhecido.
+- Capacitores não polares de 1 nF a 100 nF, cerâmica ou filme.
+- Fios de ligação, placa de montagem e fita isolante.
+- Fonte de sinal de baixa tensão; multímetro e calculadora (opcionais).
+
+PROCEDIMENTO
+------------
+1. Escolha a frequência de corte, chamada fc, em hertz.
+2. Calcule o produto RC = 1 / (2 × pi × fc). Anote o valor.
+3. Escolha R em ohms e C em farads cujo produto dê esse número.
+4. Monte o passa-baixas: ligue R em série com a entrada do sinal.
+5. Ligue C entre a saída e o terra, logo depois de R.
+6. Retire a saída sobre C, entre o capacitor e o terra.
+7. Para passa-altas, inverta: C em série e R ligado ao terra.
+8. Retire a saída sobre R, entre o resistor e o terra.
+9. Ligue a entrada à fonte e a saída ao rádio ou ao medidor.
+
+ATENCAO
+-------
+Nunca ligue este filtro à rede elétrica: choque pode matar.
+Use apenas sinais de baixa tensão, de alguns volts.
+Capacitor eletrolítico ao contrário pode estourar; use capacitor não polar.
+O filtro atenua o sinal: ele não recupera sinal fraco.
+Se alguma peça aquecer ou cheirar a queimado, desligue na hora.
+
+SE NAO TIVER
+------------
+Sem capacitor do valor exato, ligue dois em paralelo para somar.
+Sem resistor do valor calculado, recalcule fc com o resistor que houver.
+Sem multímetro, julgue pelo som: grave ou agudo some conforme o caso.
+
+COMO SABER QUE DEU CERTO
+------------------------
+No passa-baixas, o som agudo desaparece e o grave passa.
+No passa-altas, o grave desaparece e o agudo passa.
+
+FONTES
+------
+Prática consolidada de eletrônica analógica, resumida de referências
+técnicas: The Art of Electronics, de Horowitz e Hill, Cambridge
+University Press; roteiro ELEC-5, Circuitos RC, do curso de Física
+Geral II; nota técnica do National Bureau of Standards, hoje NIST.

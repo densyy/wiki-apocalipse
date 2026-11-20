@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 02-105
+TITULO: Como cozinhar com biogás
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 45 minutos
+RISCO: critico
+EXIGE: biodigestor externo ventilado, fogão adaptado, mangueira e válvula
+REVISAO: 2026-11
+PALAVRAS-CHAVE: biogás, gás, metano, cozinhar, fogão, biodigestor, vazamento
+==============================================================================
+
+OBJETIVO
+---------
+Usar o gás de um biodigestor para cozinhar e ferver água sem risco de fogo.
+
+QUANDO USAR
+-----------
+Quando houver biodigestor em produção e faltar gás encanado ou botijão.
+Quando for preciso cozinhar ou ferver água todos os dias.
+Quando o digestor fica do lado de fora e a mangueira chega à cozinha.
+
+NAO USE QUANDO
+--------------
+Não use em ambiente fechado ou sem ventilação: o gás pode matar.
+Não use se houver cheiro de ovo podre ou qualquer sinal de vazamento.
+Não use queimador improvisado, furado ou sem regulagem para biogás.
+Não use mangueira de jardim, plástico fino ou emenda improvisada.
+Não cozinhe se a chama ficar amarela, alta, estalar ou com cheiro de gás.
+
+MATERIAIS
+---------
+- Biodigestor já instalado, externo, ventilado e em produção de gás.
+- Fogão ou queimador adaptado para biogás, com pressão regulada.
+- Mangueira própria para gás, reforçada, sem rachaduras.
+- Válvula de fechamento (registro) na saída do gás.
+- Dispositivo contra retorno de chama, como borbulhador ou selo d'água.
+- Filtro de lã de aço na linha para remover sulfeto de hidrogênio.
+- Água com sabão para testar vazamentos nas conexões.
+- Fósforo ou acendedo.
+- Balde de água, terra ou extintor para emergência.
+
+PROCEDIMENTO
+------------
+1. Confirme que o digestor fica externo, a pelo menos 3 metros de edifícios.
+2. Mantenha fogo, cigarro e equipamento elétrico a pelo menos 5 metros dele.
+3. Feche a válvula de saída antes de ligar qualquer coisa.
+4. Conecte a mangueira ao registro e ao fogão adaptado, apertando as uniões.
+5. Abra portas e janelas e deixe a cozinha ventilada antes de acender.
+6. Passe água com sabão nas conexões e veja se aparecem bolhas.
+7. Se aparecerem bolhas, feche a válvula e corrija o vazamento.
+8. Nunca teste vazamento com fogo, isqueiro ou faísca.
+9. Acenda o fósforo primeiro e só depois abra devagar a válvula de gás.
+10. Ajuste a entrada de ar até a chama ficar azul, firme e silenciosa.
+11. Se a chama ficar amarela, alta ou com cheiro, feche a válvula e revise.
+12. Coloque a panela e cozinhe sem deixar o fogo sem vigilância.
+13. Ao terminar, feche a válvula e confirme que a chama apagou.
+14. Feche o registro também à noite e entre cada uso.
+
+ATENCAO
+-------
+Biogás é inflamável: vazamento em ambiente fechado pode explodir com uma
+faísca e matar. Nunca acenda perto de vazamento.
+Metano e gás carbônico deslocam o oxigênio e causam asfixia sem aviso:
+nunca cozinhe em local sem ventilação.
+O biogás tem sulfeto de hidrogênio, tóxico, com cheiro de ovo podre.
+Ao sentir cheiro forte, feche a válvula, ventile o ambiente e saia.
+Nunca tente achar vazamento com chama: use somente água com sabão.
+Nunca entre no digestor, mesmo após esvaziá-lo: os gases ficam presos
+dentro e já mataram pessoas.
+Chama amarela, estalos ou cheiro de gás sem queimar indicam má queima:
+feche e peça ajuda a quem conhece o sistema.
+Se o gás pegar fogo, feche a válvula e chame os bombeiros; nunca jogue
+água em mangueira pressurizada.
+
+SE NAO TIVER
+------------
+Sem fogão adaptado, não improvise queimador com tubo furado: a chama pode
+voltar até o digestor e causar explosão. Cozinhe com lenha ao ar livre.
+Sem mangueira própria, não use jardim ou plástico: troque por reforçada.
+Sem água com sabão, use espuma de sabão nas conexões; nunca use fogo.
+Sem filtro, use lã de aço limpa na linha e troque a cada mês; ventile mais.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A chama fica azul, firme e silenciosa, sem cheiro de gás no ambiente.
+A água ferve e a comida cozinha em tempo normal.
+Não surgem bolhas nas conexões durante o teste com água e sabão.
+Ao fechar a válvula, a chama apaga na hora e não sobra cheiro.
+
+FONTES
+------
+Embrapa, Ageitec, tema Agroenergia: biogás com no mínimo 70% de metano.
+Agência de Proteção Ambiental dos EUA (EPA), "Common Safety Practices
+for On-Farm Anaerobic Digestion Systems": asfixia e incêndio por metano.
+Associação Alemã de Biogás, cartilha "BIOGAS Safety first!": 50 a 75%
+de metano, 20 a 50% de dióxido de carbono e até 0,4% de sulfeto.
+CREATIVenergie, curso de biogás, seção de segurança: distância de 3 m,
+zona sem fogo de 5 m, acender o fósforo antes do gás, chama azul,
+fechar a válvula após o uso e nunca entrar no digestor.

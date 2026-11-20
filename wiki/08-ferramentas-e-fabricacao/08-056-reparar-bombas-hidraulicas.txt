@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 08-056
+TITULO: Como reparar bombas hidráulicas
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 90 minutos
+RISCO: critico
+EXIGE: sistema despressurizado, óculos, chaves, óleo correto, papelão
+REVISAO: 2026-11
+PALAVRAS-CHAVE: bomba, hidráulica, óleo, pressão, vazamento, não faz força
+==============================================================================
+
+OBJETIVO
+--------
+Diagnosticar e reparar em campo as falhas comuns de bombas hidráulicas.
+
+QUANDO USAR
+-----------
+Quando a bomba gira, mas não gera pressão nem movimento no equipamento.
+Quando o óleo espuma, a bomba faz ruído alto ou o sistema esquenta.
+Quando há vazamento de óleo no eixo, no corpo ou nas conexões.
+
+NAO USE QUANDO
+--------------
+Com pressão ainda no sistema, nunca abra mangueira, tampa ou conexão.
+Sem o tipo de óleo correto, não encha o reservatório nem ligue a bomba.
+Com o corpo rachado ou o eixo travado, não insista: substitua a bomba.
+
+MATERIAIS
+---------
+- Chaves, chave de fenda e recipiente limpo para recolher o óleo.
+- Óleo hidráulico do tipo e viscosidade indicados no manual da bomba.
+- Tela de sucção e filtro novos, ou pano limpo para limpar os velhos.
+- Kit de vedação do modelo: anéis e retentor do eixo.
+- Papelão ou tábua fina para testar vazamento; óculos e luvas.
+- Pano limpo que não solte fiapos.
+
+PROCEDIMENTO
+------------
+1. Desligue o motor, espere esfriar e mantenha as mãos longe do eixo.
+2. Acione os comandos com o motor parado e descarregue o acumulador.
+3. Limpe a bomba e as conexões por fora com pano limpo.
+4. Procure vazamento com papelão ou tábua fina, nunca com a mão ou o dedo.
+5. Verifique o nível de óleo e complete com o tipo do manual.
+6. Confirme que a sucção fica submersa e que a tampa respira.
+7. Aperte a sucção e limpe ou troque a tela e o filtro entupidos.
+8. Encha a sucção com óleo pelo lado da bomba para expulsar o ar.
+9. Se houver parafuso de sangria, abra-o com a bomba parada.
+10. Feche a sangria quando sair óleo contínuo, sem bolhas.
+11. Confira a rotação na placa; se estiver invertida, corrija.
+12. Retire, limpe e reassente a válvula de alívio; ajuste ao manual.
+13. Com óleo escuro, com água ou cheiro queimado, drene e troque o filtro.
+14. Com pressão zerada, retire o retentor e limpe o assento com pano.
+15. Examine o eixo: se estiver riscado, troque o retentor e avalie a bomba.
+16. Coloque o retentor novo com a borda para o óleo; sem fita veda-rosca.
+17. Aperte parafusos e conexões ao torque do manual, sem exagero.
+18. Se o desgaste for interno, troque as vedações ou a bomba.
+19. Reencha o reservatório e repita os passos 8, 9 e 10 antes de ligar.
+20. Ligue por aproximadamente um minuto e observe ruído e vazamento.
+21. Desligue e confira com papelão se ainda há vazamento.
+22. Compare a pressão obtida com o valor indicado no manual.
+
+ATENCAO
+-------
+Óleo sob pressão atravessa a pele sem dor e quase sem marca visível: é
+emergência cirúrgica. Se um jato atingir a pele, vá ao pronto-socorro já.
+e diga que foi injeção de óleo hidráulico; não espere a dor aparecer.
+Nunca procure vazamento com a mão: use papelão. Não abra linha com pressão.
+Um furo pequeno esconde dano profundo. Quanto maior o atraso no atendimento,
+maior o risco de amputação do dedo ou da mão.
+Fita veda-rosca em rosca hidráulica pode soltar e entupir válvulas.
+Óleo acima de aproximadamente 60 °C degrada a vedação e queima a pele.
+Com o eixo riscado ou o corpo rachado, pare: reparo de campo não resolve.
+Se o motor for a combustão, não ligue em lugar fechado: o monóxido mata.
+
+SE NAO TIVER
+------------
+- Sem papelão, use tábua fina ou papel grosso; nunca use a mão.
+- Sem o óleo do manual, não misture tipos nem use óleo de motor.
+- Consiga o óleo correto antes de ligar; não improvise.
+- Sem kit de vedação, não reaproveite o retentor velho: troque a bomba.
+- Sem chave de torque, aperte sem exagero e confira o vazamento depois.
+- Sem filtro novo, limpe a tela com óleo limpo e pano.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A bomba gira com ruído uniforme e o óleo não faz espuma.
+Passar papelão pelas conexões, depois de ligar, não deixa óleo novo.
+O comando move o cilindro ou o motor com a força de antes.
+A pressão no manômetro fica próxima do valor do manual.
+A temperatura do óleo estabiliza e não passa de aproximadamente 60 °C.
+
+FONTES
+------
+Manuais Parker Hannifin, boletins 2630-C1 (engrenagem) e HY29 (palhetas):
+diagnóstico, cavitação e vedação.
+Guia Muncie Power TRG08-01: nível de óleo, ar na sucção, válvula de alívio
+e temperatura máxima de aproximadamente 60 °C.
+Rodríguez-Villar et al., European Journal of Trauma and Emergency Surgery,
+2019: injeção de fluido sob pressão é emergência cirúrgica.

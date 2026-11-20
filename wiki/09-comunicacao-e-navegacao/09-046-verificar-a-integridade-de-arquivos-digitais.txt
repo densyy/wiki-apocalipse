@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 09-046
+TITULO: Como verificar a integridade de arquivos digitais
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 20 minutos
+RISCO: medio
+EXIGE: computador com o arquivo, valor de hash confiável, terminal
+REVISAO: 2026-11
+PALAVRAS-CHAVE: integridade, hash, checksum, sha256, arquivo, download
+==============================================================================
+
+OBJETIVO
+--------
+Confirme que um arquivo não foi alterado ao comparar sua impressão
+digital (hash) com o valor publicado pela fonte oficial.
+
+QUANDO USAR
+-----------
+Ao baixar um sistema, programa ou atualização importante.
+Ao receber um arquivo por pen drive, e-mail ou outro meio.
+Quando um arquivo falha ao abrir e você suspeita de cópia danificada.
+
+NAO USE QUANDO
+--------------
+Quando o valor vem de fórum ou espelho duvidoso: não prova nada.
+Quando você quer provar quem publicou o arquivo: use assinatura digital.
+
+MATERIAIS
+---------
+- O arquivo a conferir, sem renomear nem descompactar.
+- Um valor de hash confiável do publicador, de preferência SHA-256.
+- Computador com terminal e papel e lápis para anotar os valores.
+
+PROCEDIMENTO
+------------
+1. Anote o valor publicado e o algoritmo (por exemplo, SHA-256).
+2. Conte os caracteres do valor: 64 indicam SHA-256, 40 SHA-1, 32 MD5.
+3. Obtenha o valor só do site oficial do publicador, nunca de fórum.
+4. Gere o hash do arquivo original antes de abrir ou descompactar.
+5. Rode no Linux: sha256sum nome_do_arquivo
+6. Rode no macOS: shasum -a 256 nome_do_arquivo
+7. Rode no Windows: Get-FileHash arquivo -Algorithm SHA256
+8. Se houver lista SHA256SUMS, rode: sha256sum -c SHA256SUMS
+9. Compare caractere por caractere; aceite só se todos forem iguais.
+
+ATENCAO
+-------
+Um valor igual prova só que o arquivo é idêntico ao que recebeu o hash.
+Não prova que o arquivo é seguro nem que o publicador é confiável.
+Se publicador e valor estiverem trocados, a comparação engana.
+MD5 e SHA-1 foram descontinuados pelo NIST: use só em arquivos antigos.
+Nunca abra ou execute um arquivo cujo hash não confere.
+
+SE NAO TIVER
+------------
+Sem terminal, use ferramenta local de hash no próprio aparelho.
+Sem o valor publicado, não há verificação: peça ao publicador.
+Sem SHA-256, use SHA-512 se oferecido; evite MD5 e SHA-1.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O valor gerado é idêntico ao publicado, caractere por caractere.
+Na lista SHA256SUMS, cada arquivo aparece com OK ao lado do nome.
+
+FONTES
+------
+NIST FIPS 180-4, Secure Hash Standard, família SHA-2 com SHA-256.
+NIST SP 800-131A, sobre o desuso de SHA-1 e MD5.
+BSI da Alemanha, orientação sobre verificação de checksum.

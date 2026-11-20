@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 04-009
+TITULO: Como construir um sistema solar portátil
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 120 minutos
+RISCO: alto
+EXIGE: painel, controlador, bateria 12 V, cabos e fusivel
+REVISAO: 2026-11
+PALAVRAS-CHAVE: solar, painel, bateria, controlador, energia, portatil, 12 V
+==============================================================================
+
+OBJETIVO
+--------
+Montar um kit solar portatil de 12 V para carregar uma bateria
+e alimentar lampadas e aparelhos pequenos fora da rede.
+
+QUANDO USAR
+-----------
+Quando faltar energia da rede e for preciso luz e carga pequena.
+Quando for preciso carregar celular, radio ou lampada de 12 V.
+Quando houver sol direto por algumas horas do dia.
+Quando for preciso um kit que pode ser desmontado e levado junto.
+
+NAO USE QUANDO
+--------------
+Com bateria estufada, rachada, vazando ou muito quente.
+Na chuva, com conectores molhados ou controlador sem abrigo.
+Em local fechado sem ventilacao para bateria com acido.
+Para ligar na rede da casa ou em aparelho acima do limite do kit.
+
+MATERIAIS
+---------
+- Painel solar portatil de 12 V de ate aproximadamente 100 W.
+- Controlador de carga de 10 A ou maior, para o tipo da bateria.
+- Bateria selada de 12 V de ciclo profundo.
+- Cabos com terminais firmes, vermelho para positivo e preto para
+negativo.
+- Fusivel de linha para instalar junto da bateria.
+- Multimetro simples para conferir polaridade e tensao.
+- Base firme, sombra para bateria e controlador, pano seco.
+
+PROCEDIMENTO
+------------
+1. Trabalhe de dia, em local seco, sem palha ou pano por perto.
+2. Confirme painel, controlador e bateria em 12 V antes de ligar.
+3. Coloque bateria e controlador a sombra, em base firme e arejada.
+4. Deixe o painel virado para baixo ou coberto durante a ligacao.
+5. Ligue primeiro a bateria no controlador, positivo e depois negativo.
+6. Confira a polaridade com o multimetro antes de apertar os bornes.
+7. Ligue o painel no controlador, positivo e depois negativo.
+8. Instale o fusivel junto ao polo positivo da bateria.
+9. Descubra o painel e aponte para o sol direto, sem sombra parcial.
+10. Aguarde a indicacao de carga no controlador antes de usar.
+11. Ligue os aparelhos de 12 V na saida do controlador.
+12. Para desmontar, cubra o painel e desligue na ordem inversa.
+
+ATENCAO
+-------
+Nunca ligue o painel direto na bateria sem o controlador.
+O excesso de carga estufa a bateria e pode causar incendio.
+Nunca encoste um polo no outro da bateria; o curto causa faisca,
+queima o cabo e pode explodir a bateria.
+Bateria com acido solta gas inflamavel; mantenha longe de fogo
+e carregue somente em local arejado.
+Polaridade invertida queima o controlador; confira antes de ligar.
+Este kit nao liga na rede da casa e nao aguenta geladeira,
+chuveiro ou ferramenta grande.
+Se a bateria esquentar muito, chiar ou vazar, cubra o painel,
+desligue tudo e afaste pessoas e fogo.
+
+SE NAO TIVER
+------------
+Sem multimetro, confira cor e marca dos cabos duas vezes antes.
+Sem fusivel sobressalente, nao improvise com arame ou metal.
+Sem base firme, apoie o painel em estrutura estavel contra o vento.
+Sem controlador compativel, nao monte o kit; o painel sozinho
+estraga a bateria.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O controlador indica carga e a tensao da bateria sobe aos poucos.
+A lampada de 12 V acende firme e o celular carrega sem cortar.
+
+FONTES
+------
+Documentacao tecnica de fabricantes de controladores de carga
+solares; orientacoes do Departamento de Energia dos Estados
+Unidos sobre sistemas fotovoltaicos isolados; pratica consolidada
+de seguranca com baterias seladas de 12 V.

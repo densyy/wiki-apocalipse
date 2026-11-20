@@ -1,0 +1,90 @@
+==============================================================================
+CODIGO: 04-047
+TITULO: Como construir uma fonte de alimentação
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: bateria de 12 V em bom estado, fusível, fios, multímetro
+REVISAO: 2026-11
+PALAVRAS-CHAVE: fonte, alimentação, 12 volts, bateria, bancada, fusível
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma fonte de corrente contínua em baixa tensão para
+alimentar com segurança pequenos aparelhos de 5 V ou 12 V.
+
+QUANDO USAR
+-----------
+Quando for preciso alimentar rádio, lanterna ou LED de 12 V.
+Quando for preciso testar um circuito pequeno em bancada.
+Quando houver bateria de 12 V carregada e carga conhecida.
+Quando for preciso um ponto central com chave e fusível.
+
+NAO USE QUANDO
+--------------
+Com a rede elétrica da casa ligada ou com fio desencapado.
+Com bateria estufada, quente, vazando ou com cheiro forte.
+Em local molhado, na chuva ou com as mãos molhadas.
+Para aparelho de rede de 110 V ou 220 V ou aparelho médico.
+Se não houver fusível compatível com os fios e a carga.
+
+MATERIAIS
+---------
+- Bateria selada de 12 V em bom estado (suporte com pilhas).
+- Porta-fusível com fusível de valor igual ou menor que o fio.
+- Chave interruptora para corrente contínua de 12 V.
+- Fios de cobre vermelho e preto de mesma espessura.
+- Bornes de saída vermelho e preto (conector isolado).
+- Caixa plástica rígida para montar a fonte.
+- Multímetro funcionando com pontas de prova boas.
+- Fita isolante e abraçadeiras plásticas.
+
+PROCEDIMENTO
+------------
+1. Trabalhe em local seco, ventilado e longe de inflamáveis.
+2. Desligue tudo e retire anel, relógio e pulseira de metal.
+3. Anote a tensão e a corrente do aparelho a alimentar.
+4. Use somente aparelho de corrente contínua de 5 V ou 12 V.
+5. Fixe a bateria dentro da caixa plástica sem apertar.
+6. Instale o porta-fusível no fio positivo junto da bateria.
+7. Ligue o positivo vermelho da bateria ao porta-fusível.
+8. Ligue a saída do fusível à chave interruptora.
+9. Ligue a chave ao borne vermelho de saída.
+10. Ligue o negativo preto da bateria direto ao borne preto.
+11. Marque a polaridade: vermelho positivo e preto negativo.
+12. Isole toda emenda com fita e prenda os fios soltos.
+13. Meça a saída com o multímetro antes de ligar a carga.
+14. Ligue a carga com a chave desligada e depois ligue a chave.
+15. Ao terminar, desligue na ordem inversa da ligação.
+
+ATENCAO
+-------
+Curto-circuito em bateria causa faísca, queimadura e incêndio.
+O que mata aqui é o fogo e a rede elétrica: nunca mexa em
+instalação ligada na tomada nem abra fonte ligada na rede.
+Nunca adapte plugue de rede nem improvise em fio energizado.
+Bateria de lítio estufada ou quente pode pegar fogo: afaste-se.
+Bateria de chumbo solta gás inflamável: ventile e evite faísca.
+Se sair fumaça, cheiro forte ou calor, desligue e afaste tudo.
+Fogo em ambiente fechado gera monóxido de carbono: saia já.
+Esta fonte não alimenta geladeira, ferramenta ou aparelho de rede.
+
+SE NAO TIVER
+------------
+Sem borne, use conector isolado com a polaridade marcada a caneta.
+Sem chave, conecte e desconecte pelo conector, sem tocar nos fios.
+Sem multímetro, não ligue aparelho sensível; use lâmpada de teste.
+Sem fusível adequado, não monte a fonte: o substituto é inseguro.
+Sem caixa plástica, fixe tudo em base de madeira seca e isolada.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O multímetro marca aproximadamente 12 V nos bornes de saída.
+O aparelho ligado funciona sem piscar e sem reiniciar.
+Nada esquenta e não há faísca, cheiro ou fumaça após 5 minutos.
+
+FONTES
+------
+Prática consolidada de bancada em baixa tensão, sem documento único.
+Orientações de segurança com baterias da agência FEMA dos EUA.

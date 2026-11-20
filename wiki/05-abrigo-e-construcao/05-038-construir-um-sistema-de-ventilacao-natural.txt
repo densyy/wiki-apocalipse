@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 05-038
+TITULO: Como construir um sistema de ventilação natural
+CATEGORIA: 05 - Abrigo, construção e habitação
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: abrigo com parede e telhado, faca ou serrote, tela fina
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ventilação, ar fresco, janela, mofo, calor, abrigo
+==============================================================================
+
+OBJETIVO
+--------
+Montar entradas e saídas de ar que renovam o ar sem energia.
+
+QUANDO USAR
+-----------
+Quando o abrigo fica abafado, quente ou com cheiro parado.
+Quando as paredes amanhecem molhadas de condensação.
+Quando duas pessoas dormem em abrigo pequeno e fechado.
+
+NAO USE QUANDO
+--------------
+Em tempestade forte, chuva com vento ou poeira intensa.
+Se há fumaça tóxica, agrotóxico ou queimada colada no abrigo.
+Se abrir o ponto fraco fragiliza parede ou telhado.
+
+MATERIAIS
+---------
+- Tela fina contra insetos de aproximadamente 1 x 1 m (pano ralo).
+- Quatro ripas ou varas finas para moldura (galhos retos).
+- Pregos pequenos, arame ou corda fina para prender a tela.
+- Pano, lona ou tábua para tampa regulável da saída alta.
+- Faca afiada ou serrote, martelo ou pedra e barbante.
+
+PROCEDIMENTO
+------------
+1. Observe de onde vem o vento mais frequente durante o dia.
+2. Marque a entrada baixa na parede do vento a 30 cm do chão.
+3. Marque a saída alta na parede oposta perto do teto.
+4. Corte as duas aberturas de aproximadamente 30 x 30 cm.
+5. Reforce a borda de cada abertura com ripas ou varas.
+6. Pregue a tela fina por dentro cobrindo toda a abertura.
+7. Amarre a tampa na saída alta para abrir e fechar por fora.
+8. Abra entrada e saída e confirme o fluxo de manhã e à noite.
+9. Feche parte da tampa se entrar chuva, poeira ou frio.
+
+ATENCAO
+-------
+Ventilação não tira monóxido: nunca use fogo dentro do abrigo.
+Não suba no telhado sem apoio firme: queda quebra osso.
+Abertura sem tela traz mosquito, rato e poeira para dentro.
+Se entra água pela abertura, reduza ou feche na chuva.
+
+SE NAO TIVER
+------------
+Sem tela, use pano ralo, camiseta velha ou mosquiteiro.
+Sem ripa, amarre a tela com barbante e pedras nas bordas.
+Sem ferramenta, afaste tábuas ou telhas em vez de cortar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Uma fita presa na saída alta balança sozinha com o vento.
+O ar parado some e o cheiro forte diminui em minutos.
+As paredes amanhecem secas ou bem menos molhadas.
+
+FONTES
+------
+Prática consolidada de ventilação natural em abrigos
+(FEMA, IFRC e manual militar de sobrevivência civil).

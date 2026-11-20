@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 12-013
+TITULO: Como calcular custos de produção artesanal
+CATEGORIA: 12 - Economia, comércio e organização financeira
+TEMPO: 45 minutos
+RISCO: baixo
+EXIGE: caderno, lápis, calculadora, preços dos insumos e das ferramentas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: custo, artesanal, preço, mão de obra, matéria-prima, margem
+==============================================================================
+
+OBJETIVO
+--------
+Some o que você gasta para fazer uma peça e chegue ao menor preço
+de venda que paga o material, o seu tempo e ainda deixa margem.
+
+QUANDO USAR
+-----------
+Quando for vender peças feitas à mão e não souber quanto cobrar.
+Quando o cliente pedir desconto e você não souber até onde pode ceder.
+
+NAO USE QUANDO
+--------------
+Quando a venda já foi feita: isso é contabilidade de receita, não custo.
+
+MATERIAIS
+---------
+- Caderno, lápis e algo para cronometrar (ou papel e caneta).
+- Calculadora (ou o aparelho do celular).
+- Preço dos insumos, nota das ferramentas e da embalagem.
+
+PROCEDIMENTO
+------------
+1. Escolha a peça de referência e anote o nome no caderno.
+2. Cronometre e anote o tempo de fazer uma peça.
+3. Liste o que vira parte da peça com o preço de cada item.
+4. Conte só a parte usada quando sobrar material.
+5. Escreva o valor da hora; se não definiu, use o menor que aceita.
+6. Multiplique o tempo da peça pelo valor da hora.
+7. Some itens dos passos 3, 4 e 6: é o custo direto.
+8. Liste gastos fora da peça: aluguel, luz, gás e transporte.
+9. Inclua ferramentas e embalagem; some e divida pelo total de peças.
+10. Some ao custo direto: é o custo total da peça.
+11. Multiplique o custo total por 1 mais a margem (ganho desejado).
+12. Arredonde para cima: é o preço final da peça.
+
+ATENCAO
+-------
+Esquecer o próprio trabalho é o erro mais comum: a peça parece
+lucrativa e você trabalha de graça. Não comece pelo preço que o
+cliente oferece; comece pelo custo. O preço dos insumos muda:
+refaça a conta a cada compra e pare se der prejuízo.
+
+SE NAO TIVER
+------------
+Sem calculadora, some no papel, uma coluna por item.
+Sem nota de compra, pergunte o preço ao fornecedor e anote.
+Sem valor de hora definido, comece com o menor que você aceita.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A soma dos itens bate com o total anotado no caderno.
+Depois de vender, sobra dinheiro para material e para o seu tempo.
+
+FONTES
+------
+Prática consolidada de contabilidade de custos, sem documento
+único: material direto, mão de obra, custos indiretos e margem.
+Nenhuma fonte institucional foi consultada; confirme com um contador.

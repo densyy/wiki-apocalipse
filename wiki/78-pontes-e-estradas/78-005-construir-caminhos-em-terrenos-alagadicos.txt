@@ -1,0 +1,78 @@
+==============================================================================
+CODIGO: 78-005
+TITULO: Como construir caminhos em terrenos alagadiços
+CATEGORIA: 78 - Pontes, estradas e infraestrutura de transporte
+TEMPO: 480 minutos
+RISCO: alto
+EXIGE: base de pedra, madeira sã, drenagem lateral e ajuda de outra pessoa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: alagado, lama, passagem, prancha, estaca, drenagem, cheia
+==============================================================================
+
+OBJETIVO
+--------
+Criar passagem firme sobre terreno que fica alagado ou mole.
+
+QUANDO USAR
+-----------
+Quando a travessia vira lama ou poço na chuva.
+Para ligar casa a fonte de água ou roça em área baixa.
+Quando não há pedra para aterro comum.
+Ao precisar de passagem elevada para animais e cargas.
+
+NAO USE QUANDO
+--------------
+Não atravesse área alagada sem saber a profundidade.
+Não construa sobre lama profunda sem base firme.
+Não use madeira podre ou apodrecida na estrutura.
+
+MATERIAIS
+---------
+- Madeira resistente para o tabuleiro (vigas e pranchas).
+- Pedras grandes e cascalho para firmar a base.
+- Corda ou arame para amarrar a estrutura (cipó).
+- Enxada e pá para abrir valas de drenagem ao redor.
+- Pedras ou tijolos para apoiar os pilares.
+
+PROCEDIMENTO
+------------
+1. Escolha o trecho mais estreito e menos fundo da área alagada.
+2. Meça a profundidade da lama com bastão antes de começar.
+3. Abra valas nos lados para baixar o nível da água.
+4. Assente pedras grandes formando uma base elevada.
+5. Espalhe cascalho sobre as pedras para nivelar.
+6. Crave estacas firmes nas margens e no meio, se necessário.
+7. Prenda vigas de madeira sobre as estacas com corda ou arame.
+8. Aponha pranchas ou varas transversais sobre as vigas.
+9. Amarre cada prancha para que não deslize com a passagem.
+10. Verifique a altura acima do nível normal da água.
+11. Revise a passagem após cheia e reforce o que afundou.
+
+ATENCAO
+-------
+Lama profunda pode sugar calçado e causar queda: meça antes.
+Água parada esconde buraco e pode afogar criança.
+Madeira podre quebra sem aviso sob peso: troque imediatamente.
+Prancha solta desliza e derruba quem passa: amarre sempre.
+Vala mal feita represa água e piora o alagamento.
+Não trabalhe sozinho em área alagada; peça ajuda.
+
+SE NAO TIVER
+------------
+Sem madeira, use feixes de varas grossas amarradas com cipó.
+Sem pedras grandes, use camadas de cascalho e terra firme.
+Sem corda, prenda com cipó ou arame de sucata.
+Sem pá, use enxada ou bastão firme para abrir a vala.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A passagem fica acima do nível da água mesmo após chuva.
+As pranchas não balançam nem deslizam ao pisar.
+A base de pedra não afunda sob o peso de uma pessoa.
+Água escoa pelas valas e não empoça sobre o caminho.
+
+FONTES
+------
+Prática consolidada de passagens elevadas e pontes simples em áreas
+alagadas. Antes de construir, observe o nível da água e o solo local;
+em área de cheia forte, procure orientação técnica.

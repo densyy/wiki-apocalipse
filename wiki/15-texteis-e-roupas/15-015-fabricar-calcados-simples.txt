@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 15-015
+TITULO: Como fabricar calçados simples
+CATEGORIA: 15 - Têxteis, roupas e produção artesanal
+TEMPO: 120 minutos
+RISCO: alto
+EXIGE: molde de papel, lona ou couro, borracha, agulha, linha, faca, tábua
+REVISAO: 2026-11
+PALAVRAS-CHAVE: calçado, sapato, cabedal, sola, palmilha, costura, pneu, pé
+==============================================================================
+
+OBJETIVO
+--------
+Fabricar um calçado fechado e simples, à mão, para proteger os pés.
+
+QUANDO USAR
+-----------
+Quando o calçado rasgou e não há dinheiro para comprar outro.
+Quando sobraram lona, couro, pneu ou câmara de ar limpos.
+Quando é preciso caminhar ou trabalhar com os pés protegidos.
+Quando o frio ou o chão áspero exigem cobrir o peito do pé.
+
+NAO USE QUANDO
+--------------
+Quando há ferida aberta, infecção, inchaço ou perda de sensibilidade no pé.
+Quando o material estiver com óleo, combustível ou resíduo químico.
+Quando for usar em trabalho elétrico, químico, de fogo ou com máquinas.
+
+MATERIAIS
+---------
+- Papel ou papelão e lápis para o molde de cada pé.
+- Lona resistente, jeans grosso ou couro macio para o cabedal.
+- Borracha limpa para a sola: sola velha, pneu ou câmara de ar.
+- Papelão ou pano para a palmilha.
+- Agulha grossa e linha encerada ou barbante firme.
+- Faca afiada ou tesoura forte e tábua firme para apoiar o corte.
+- Furador e pedra ou lixa para as bordas.
+- Luvas de couro ou pano grosso.
+
+PROCEDIMENTO
+------------
+1. Apoie um pé descalço no papel e contorne-o com lápis na vertical.
+2. Desenhe ao redor uma folga aproximada de 1 cm e recorte o molde.
+3. Repita para o outro pé e marque "direito" e "esquerdo" nos moldes.
+4. Coloque cada molde sobre a borracha apoiada na tábua e trace o contorno.
+5. Corte duas solas com a faca em passadas curtas, longe da mão livre.
+6. Recorte duas palmilhas de papelão ou pano sem a folga do molde.
+7. Meça a volta do peito do pé e corte duas peças de cabedal.
+8. Deixe cada peça alta o bastante para envolver o tornozelo.
+9. Ajuste o cabedal seco sobre o pé e marque onde encosta na sola.
+10. Coloque a palmilha sobre a sola antes de começar a costurar.
+11. Fure a borda da sola e a borda do cabedal nos pontos marcados.
+12. Passe linha na agulha e comece pela ponta do calçado.
+13. Costure cabedal e sola com pontos corridos, apertando cada ponto.
+14. Continue até fechar toda a volta; não pule pontos.
+15. Reforce a ponta e o calcanhar com dois pontos extras em cada lado.
+16. Faça o nó por baixo da sola e esconda as pontas para dentro.
+17. Esfregue as bordas da sola com pedra ou lixa para tirar farpas.
+18. Calce e ande alguns passos; aperte os pontos que ficaram frouxos.
+
+ATENCAO
+-------
+A faca escorrega: corte sobre tábua firme, nunca no colo.
+Borda de pneu, arame ou ponta de linha virada para dentro fere o pé.
+Furo mal feito ou ponto frouxo deixa a sola soltar ao caminhar.
+Calçado apertado ou com dobra no cabedal causa bolha e ferida.
+Ao primeiro sinal de vermelhidão ou dor, pare de usar e ajuste.
+Borracha com óleo, combustível ou resíduo químico não protege e irrita.
+Não use para fogo, eletricidade, produtos químicos ou máquinas.
+Com ferida infectada, inchaço ou dor forte, pare e procure ajuda.
+
+SE NAO TIVER
+------------
+Sem agulha, use arame fino com a ponta dobrada para furar e passar linha.
+Sem linha encerada, use barbante firme ou linha de pesca.
+Sem borracha, aproveite sola velha limpa ou camadas de papelão.
+Papelão molha, desgasta rápido e não serve para chão molhado.
+Sem couro nem lona, use jeans grosso ou saco de tecido resistente.
+Sem cola, costure mais pontos; a costura firme é o que segura.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As duas solas têm o mesmo contorno e o calçado fica estável no chão.
+A sola não se solta quando o pé gira levemente para os lados.
+Não há ponta de linha, arame ou aresta virada para dentro.
+O pé não escorrega nem aperta depois de alguns passos.
+
+FONTES
+------
+Relatório "Perfil do setor de calçados", Instituto de Economia da UFRJ
+para o Sebrae (2005): corte, costura, montagem e acabamento do cabedal.
+Publicação "Fábrica de calçados ecológicos", Sebrae: insumos e etapas de
+modelagem, corte, costura, montagem e acabamento.
+Ficha MEI nº 05 do Ministério do Trabalho e Emprego: riscos na fabricação
+artesanal de artigos de couro (cortes, colas e esforço repetitivo).
+Manuais FM 21-76 e FM 3-05.70 do Exército dos EUA: peles e folhas para
+calçados improvisados e secagem completa das peles.
+Prática consolidada de sapateiria manual; resumo operacional, não
+substitui treinamento.

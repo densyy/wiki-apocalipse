@@ -1,0 +1,103 @@
+==============================================================================
+CODIGO: 75-009
+TITULO: Como construir cisternas para regiões tropicais
+CATEGORIA: 75 - Tecnologias apropriadas para regiões tropicais
+TEMPO: 120 minutos
+RISCO: alto
+EXIGE: telhado limpo, calhas, tanque com tampa, tela fina, base firme
+REVISAO: 2026-11
+PALAVRAS-CHAVE: cisterna, água da chuva, captação, calha, tanque, desvio
+==============================================================================
+
+OBJETIVO
+--------
+Montar uma cisterna de telhado que guarde água da chuva para uso doméstico.
+
+QUANDO USAR
+-----------
+Quando chove bastante, mas a fonte de água fica longe ou seca.
+Quando se quer reserva para a estação seca.
+Quando não há energia para bombear e o terreno permite usar gravidade.
+Quando o telhado é de telha, zinco ou fibrocimento sem tinta tóxica.
+
+NAO USE QUANDO
+--------------
+Quando o telhado tem tinta com chumbo, amianto quebradiço ou foi tratado
+com inseticida: a água não serve para beber nem para lavar alimentos.
+Quando não houver lugar seguro para descarregar a primeira água da chuva.
+Quando o terreno alaga ou tem risco de deslizamento.
+
+MATERIAIS
+---------
+- Tanque de aproximadamente 200 litros com tampa (caixa d'água de plástico).
+- Calhas de PVC, zinco ou bambu aberto, e tubo de descida.
+- Peneira fina ou tela mosquiteiro para a entrada do tubo.
+- Balde ou vaso com registro no fundo e tubo lateral (separador).
+- Blocos, tijolos e cimento para uma base elevada e nivelada.
+- Torneira ou registro para a saída da água.
+- Tela extra para fechar a abertura do tanque.
+
+PROCEDIMENTO
+------------
+1. Escolha um ponto firme, alto e sombreado, a pelo menos 15 m de latrina,
+   estábulo, fossa ou lixo.
+2. Meça o telhado: comprimento vezes largura dá a área de captação.
+3. Fixe as calhas na borda mais baixa do telhado.
+4. Dê às calhas uma queda de aproximadamente 1 cm por metro.
+5. Prenda a peneira ou a tela na entrada do tubo de descida.
+6. Encaixe o tubo de descida na calha.
+7. Leve o tubo de descida até o separador.
+8. Monte o separador com o balde, o registro no fundo e o tubo lateral.
+9. Ajuste o registro para escoar a primeira água de cada chuva forte.
+10. Descarte aproximadamente 2 litros por metro quadrado de telhado.
+11. Leve o tubo lateral do separador até a boca do tanque.
+12. Nivele a base com blocos e cimento.
+13. Levante o tanque aproximadamente 50 cm do chão sobre a base.
+14. Prenda a tampa com a tela por baixo.
+15. Instale a torneira na parte mais baixa do tanque.
+16. Instale o tubo de transbordo para levar o excesso para longe da base.
+17. Na primeira chuva forte, lave telhado e calhas antes de guardar água.
+
+ATENCAO
+-------
+Água de telhado não é potável: filtre e desinfete antes de beber.
+Ferver não remove chumbo, óleo, agrotóxico nem metal. Com suspeita química,
+não use a água para beber.
+Um tanque de 200 litros pesa cerca de 200 kg. Base fraca pode ceder e ferir
+quem estiver por perto.
+Nunca entre em cisterna enterrada sem ar e sem outra pessoa por fora:
+risco de asfixia e soterramento.
+Em clima tropical, água parada cria mosquitos. Mantenha tampa e tela firmes.
+Não deixe poças perto da casa.
+Se a água ficar com cheiro, cor ou gosto estranho, pare de usar e limpe o
+tanque antes de voltar.
+Mantenha a tampa presa para crianças não caírem no tanque.
+
+SE NAO TIVER
+------------
+Sem bombona, use caixa d'água de plástico ou tambor que tenha guardado
+alimento. Nunca use tambor de óleo, tinta ou agrotóxico.
+Sem calha de PVC, use bambu aberto ou zinco. Evite madeira tratada.
+Sem torneira, retire água com balde limpo preso por corda, sem mergulhar
+as mãos no tanque.
+Sem separador, desvie o tubo do tanque nos primeiros minutos da chuva
+forte e só reconecte depois que o telhado estiver lavado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Na chuva forte, o registro escoa água suja e depois o tubo lateral enche
+o tanque com água mais clara, sem folhas nem terra visíveis.
+O tanque enche sem entornar na base e a torneira solta água sem sujeira.
+A tampa e a tela ficam firmes, sem furos maiores que a trama da tela.
+
+FONTES
+------
+Diretriz "Rainwater Harvesting for Emergency Water Supply" da Oxfam WASH
+(2013): componentes, desvio da primeira água, telas e distância de
+poluição, inclinação das calhas.
+Manual de aproveitamento de água da chuva baseado na norma ABNT NBR
+15.527:2007 (Sempre Sustentável/Ecolmeia): 1 mm de chuva igual a 1 litro
+por metro quadrado, descarte de aproximadamente 2 litros por metro
+quadrado e base elevada do tanque.
+Prática consolidada de captação de água de chuva em emergências; este texto
+é resumo operacional e não substitui treinamento.

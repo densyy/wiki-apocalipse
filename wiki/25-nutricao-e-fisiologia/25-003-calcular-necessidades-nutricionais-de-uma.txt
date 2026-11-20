@@ -1,0 +1,69 @@
+==============================================================================
+CODIGO: 25-003
+TITULO: Como calcular necessidades nutricionais de uma família
+CATEGORIA: 25 - Alimentação, nutrição e fisiologia
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: papel, lápis, número de moradores e o peso de cada um
+REVISAO: 2026-11
+PALAVRAS-CHAVE: nutrição, calorias, família, proteína, energia, cálculo
+==============================================================================
+
+OBJETIVO
+--------
+Obter a energia, a proteína e a gordura diárias da família em crise.
+
+QUANDO USAR
+-----------
+Ao montar ou revisar a despensa de emergência para vários moradores.
+Ao dividir doações de alimentos entre as pessoas da casa.
+Ao calcular quantos dias a reserva atual vai durar.
+
+NAO USE QUANDO
+--------------
+Quando alguém estiver doente, desnutrido, grávida, amamentando ou for bebê.
+A conta não substitui avaliação individual; procure um agente de saúde.
+
+MATERIAIS
+---------
+- Papel e lápis (ou carvão em papel).
+- Lista dos moradores com idade, sexo e peso aproximado.
+
+PROCEDIMENTO
+------------
+1. Conte quantas pessoas comem da mesma despensa.
+2. Multiplique esse número por 2.100 kcal e anote o total diário.
+3. Multiplique o total diário por 7 para obter a meta semanal.
+4. Multiplique o total diário por 30 para obter a meta mensal.
+5. Some o peso dos adultos em quilos e multiplique por 0,83.
+6. Anote o resultado em gramas de proteína diária para os adultos.
+7. Multiplique 53 g de proteína pelo número de moradores.
+8. Multiplique 40 g de gordura pelo número de moradores.
+9. Aumente a meta se houver trabalho braçal, frio ou adolescentes.
+10. Aumente também se alguém estiver desnutrido.
+11. Reduza a meta se o grupo for sedentário e o clima for quente.
+12. Exemplo: 5 pessoas precisam de 10.500 kcal por dia.
+
+ATENCAO
+-------
+2.100 kcal é mínimo de planejamento, não dose individual nem tratamento.
+Não cobre bebês, grávidas, lactantes, doentes nem idosos frágeis.
+Frio abaixo de 20 graus, trabalho pesado e desnutrição aumentam a conta.
+A conta não garante vitaminas e minerais: varie os alimentos diariamente.
+Se alguém perder peso rápido, procure atendimento de saúde.
+
+SE NAO TIVER
+------------
+Sem balança, use 53 g de proteína por pessoa e pule o passo 5.
+Sem papel, memorize o total e repita a conta em voz alta.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O total do passo 2 é igual a 2.100 vezes o número de moradores.
+A soma das porções planejadas fecha com esse total em kcal por dia.
+
+FONTES
+------
+Manual Sphere 2018, apêndice 6: requisitos mínimos de nutrientes em crise.
+FAO/WHO/UNU 2007, Protein and amino acid requirements in human nutrition.
+UNHCR, UNICEF, WFP e OMS, Food and nutrition needs in emergencies (2002).

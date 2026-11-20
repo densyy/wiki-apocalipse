@@ -1,0 +1,94 @@
+==============================================================================
+CODIGO: 58-020
+TITULO: Como organizar vigilância contra incêndios
+CATEGORIA: 58 - Prevenção e combate a incêndios
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: apito, lanterna, caderno, caneta, relógio
+REVISAO: 2026-11
+PALAVRAS-CHAVE: vigilância, vigia, incêndio, alerta, fumaça, rodízio
+==============================================================================
+
+OBJETIVO
+--------
+Montar um rodízio de vigia que detecte fogo cedo e alerte todos a tempo.
+
+QUANDO USAR
+-----------
+Na estação seca, com vegetação seca ao redor.
+Em acampamento, vila ou casa com muitas pessoas dormindo.
+Quando se usa fogão, aquecedor, vela ou churrasqueira todo dia.
+Ao dormir em andar alto ou em local com uma saída só.
+Depois de alerta de fogo na região ou de cheiro de queimado.
+Quando não há alarme de fumaça instalado.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para organizar a vigilância.
+Ela não substitui alarme, extintor nem treinamento de brigada.
+Diante de fogo ativo, abandone a vigia, saia e ligue 193.
+
+MATERIAIS
+---------
+- Apito, sino ou corneta para o alerta.
+- Lanterna ou celular carregado para os turnos noturnos.
+- Caderno e caneta para registrar turnos e sinais.
+- Relógio ou relógio de sol para medir o tempo do turno.
+- Croqui com os pontos de observação e a rota entre eles.
+- Escala escrita com nome, horário e posto de cada vigia.
+
+PROCEDIMENTO
+------------
+1. Liste todas as pessoas que podem assumir um turno.
+2. Divida o dia e a noite em turnos de 1 a 2 horas.
+3. Escreva a escala com nome, horário e posto de cada vigia.
+4. Escolha pontos de observação com vista ampla em volta.
+5. Trace no croqui a rota entre os pontos de observação.
+6. Defina o sinal de alerta com apito e grito combinados.
+7. Combine quantos apitos significam fogo e quantos significam fim.
+8. Combine o ponto de encontro externo, longe da fachada.
+9. Deixe o apito e a lanterna no posto de vigia.
+10. Oriente o vigia a acordar todos ao ver fumaça ou chama.
+11. Oriente o vigia a ligar 193 após dar o alerta.
+12. Registre no caderno cada turno cumprido e cada sinal visto.
+13. Troque de vigia na hora marcada, mesmo sem nada a relatar.
+14. Gire a escala para que ninguém faça dois turnos seguidos.
+15. Ensine a todos o sinal e o ponto de encontro antes de começar.
+16. Faça um teste de alerta uma vez por semana e corrija falhas.
+
+ATENCAO
+-------
+Fogo em ambiente fechado produz monóxido de carbono, gás que mata sem
+cheiro. Nunca permaneça dentro de ambiente em chamas.
+A fumaça sobe: observe também o teto, o telhado e as costas do fogo.
+Um vigia com sono falha. Turnos curtos e rodízio evitam a falha.
+Vigilância não apaga fogo. Não enfrente chamas sozinho.
+Se o fogo passou do controle ou subiu ao teto, saia e ligue 193.
+Não ponha o vigia em ponto sem saída de emergência.
+O apito pode falhar ou não ser ouvido. Mantenha um segundo sinal.
+Na seca o fogo corre rápido: qualquer fumaça merece alerta imediato.
+Não confie só na vista. Cheiro de queimado e calor também são sinais.
+
+SE NAO TIVER
+------------
+Sem apito, use sino, campainha, tambor ou grito combinado.
+Sem relógio, meça o turno pelo sol ou pelo canto do galo.
+Sem lanterna, faça turnos com luz natural e reforce com grito.
+Sem pessoas suficientes, reduza o número de postos, não o tempo.
+Sem caderno, marque cada turno com pedras ou nós numa corda.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Todos os turnos têm nome, horário e posto escritos na escala.
+Cada vigia sabe o sinal de alerta e o ponto de encontro.
+No teste, o sinal foi ouvido e todos chegaram ao ponto no tempo.
+A escala gira e ninguém faz dois turnos seguidos.
+
+FONTES
+------
+Prática consolidada de vigilância e detecção precoce de incêndio.
+Família de referência: orientações da Defesa Civil e do Corpo de
+Bombeiros brasileiros, da Cruz Vermelha e da FEMA sobre alerta,
+detecção de fumaça e ponto de encontro.
+Resumo operacional: não substitui treinamento nem a orientação dos
+bombeiros.

@@ -1,0 +1,88 @@
+==============================================================================
+CODIGO: 32-009
+TITULO: Como fabricar tubos de cerâmica
+CATEGORIA: 32 - Produção industrial e manufatura artesanal
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: argila plástica, mandril liso, forno de cerâmica ventilado
+REVISAO: 2026-11
+PALAVRAS-CHAVE: cerâmica, tubo, argila, enrolar, forno, queima, dreno, cano
+==============================================================================
+
+OBJETIVO
+--------
+Modelar, secar e queimar um tubo de cerâmica simples com mandril e argila.
+
+QUANDO USAR
+-----------
+Quando for preciso um dreno, uma bucha ou um tubo de escoamento artesanal.
+Quando houver argila, mandril e acesso a forno de olaria.
+Quando a peça não vai transportar água potável, gás ou combustível.
+
+NAO USE QUANDO
+--------------
+Não use para água potável, gás, combustível, vapor ou pressão.
+Não use se não houver forno de cerâmica e experiência em queima.
+Não use em peça que vai sustentar peso ou vedar instalação.
+Não improvise queima em forno doméstico ou em ambiente fechado.
+
+MATERIAIS
+---------
+- Argila plástica de olaria, sem pedras nem resíduos (argila de cerâmica).
+- Mandril cilíndrico liso e levemente cônico (tubo de madeira ou PVC).
+- Água limpa em recipiente pequeno.
+- Barbotina: argila diluída em água até virar pasta cremosa.
+- Espátula ou pedaço de madeira lisa para alisar.
+- Pano úmido e papel ou plástico para cobrir a peça.
+- Forno de cerâmica com chaminé e ventilação (forno de oficina).
+
+PROCEDIMENTO
+------------
+1. Amasse a argila até ficar maciça e sem grumos duros.
+2. Umedeça o mandril com pano úmido para a argila não grudar.
+3. Achate um punhado de argila em folha uniforme, sem falhas.
+4. Aplique a folha no mandril, deixando uma borda sobreposta.
+5. Pincele barbotina na borda e pressione para unir sem deixar bolhas.
+6. Enrole mais folhas até cobrir o mandril por completo.
+7. Alise a superfície com espátula, retirando ar e irregularidades.
+8. Ajuste a parede para espessura aproximada de 8 milímetros.
+9. Deixe a peça descansar coberta, até firmar e sair do mandril.
+10. Gire o mandril e puxe-o devagar, sem torcer a peça.
+11. Corte as pontas com espátula e alise as bordas do tubo.
+12. Seque o tubo devagar, coberto, longe de sol e corrente de ar.
+13. Espere até a peça ficar completamente seca ao toque.
+14. Leve à oficina e queime em forno de cerâmica, seguindo o ciclo do forno.
+15. Não abra o forno durante a queima; espere o resfriamento.
+
+ATENCAO
+-------
+Queima envolve fogo, altas temperaturas e risco de queimadura grave.
+Forno sem chaminé ou em ambiente fechado produz monóxido de carbono.
+Nunca deixe o forno aceso sem vigilância nem perto de inflamáveis.
+Abra a porta só depois do resfriamento, para não queimar as mãos.
+Secagem rápida, sol ou vento racham o tubo antes da queima.
+Bolhas de ar na parede deixam o tubo fraco e podem estourar no calor.
+Este método não garante vedação hermética nem resistência à pressão.
+Sem fonte institucional consultada, não invente curva de temperatura:
+siga o ciclo conhecido do forno e peça ajuda a quem opera o equipamento.
+
+SE NAO TIVER
+------------
+Sem forno de cerâmica, não faça queima improvisada em casa.
+Guarde a peça seca e leve a uma oficina de olaria para queimar.
+Sem mandril, use um rolo de madeira liso levemente cônico.
+Sem argila de olaria, não use barro comum de jardim: ele pode rachar
+ou ter matéria orgânica que queima mal.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A peça mantém forma cilíndrica, com parede uniforme e sem rachaduras.
+O tubo sai do mandril inteiro e as bordas ficam limpas.
+Depois de queimado, o tubo soa firme ao bater levemente e não se desfaz.
+
+FONTES
+------
+Prática consolidada de olaria e cerâmica artesanal: modelagem com mandril,
+secagem lenta e queima em forno. Resumo operacional sem fonte institucional
+única consultada nesta redação; não substitui treinamento nem as instruções
+do fabricante do forno.

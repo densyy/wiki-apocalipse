@@ -1,0 +1,87 @@
+==============================================================================
+CODIGO: 60-006
+TITULO: Como planejar ruas e caminhos comunitários
+CATEGORIA: 60 - Arquitetura, urbanismo e assentamentos
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: caderno, lápis, fita métrica ou corda, régua, bastões de marcação
+REVISAO: 2026-11
+PALAVRAS-CHAVE: rua, caminho, acesso, evacuação, drenagem, acessibilidade
+==============================================================================
+
+OBJETIVO
+--------
+Definir no terreno ruas e caminhos que ligam moradias, água e saídas.
+
+QUANDO USAR
+-----------
+Ao organizar um assentamento novo ou reformar o traçado de um existente.
+Quando moradias ficam isoladas ou distantes de água e do ponto de encontro.
+Antes de abrir valas, cercas ou construções que possam bloquear a passagem.
+Quando o terreno tem encosta, área alagadiça ou risco de erosão.
+Ao preparar rotas de evacuação e acesso a socorro.
+
+NAO USE QUANDO
+--------------
+Não abra novo traçado sobre encosta instável, leito de rio ou área de
+inundação frequente sem antes avaliar o risco com pessoas locais.
+Não bloqueie rota de evacuação existente sem deixar alternativa pronta.
+
+MATERIAIS
+---------
+- Caderno e lápis para desenhar o traçado.
+- Fita métrica, corda ou passos contados para medir.
+- Régua ou linha reta para o desenho em escala.
+- Bastões, estacas ou pedras para marcar o terreno.
+- Giz ou cal para sinalizar o solo. (substituto: cinza ou terra clara)
+- Pessoas da comunidade para apontar usos e riscos locais.
+
+PROCEDIMENTO
+------------
+1. Liste os pontos que o caminho deve ligar no caderno.
+2. Inclua moradias, água, ponto de encontro e saída do assentamento.
+3. Percorra o terreno a pé e anote alturas, áreas alagadas e obstáculos.
+4. Pergunte a moradores onde a água corre na chuva e onde houve acidente.
+5. Desenhe o traçado ligando os pontos com linhas retas e curvas suaves.
+6. Prefira rotas diretas e conectadas, com pelo menos uma alternativa.
+7. Reserve faixa livre de aproximadamente 2 metros para duas pessoas.
+8. Mantenha inclinação longitudinal de até 1 para 12 (aproximadamente 8%).
+9. Dê inclinação lateral de aproximadamente 2% para a água escorrer.
+10. Marque o traçado no terreno com estacas ou pedras a cada poucos passos.
+11. Faça travessia elevada onde o caminho corta vala ou córrego.
+12. Deixe pelo menos uma entrada larga para veículo de emergência.
+13. Revise o traçado com a comunidade antes de abrir o solo.
+
+ATENCAO
+-------
+Não abra o solo antes de confirmar com a comunidade onde passam tubulações,
+cabos e sepulturas. Caminho mal drenado vira vala de água e lava o solo.
+Evite inclinação acima do indicado: cadeirante e carroça não sobem.
+Não estreite a passagem com entulho, cerca ou plantio: bloqueia socorro.
+Se aparecer rachadura, afundamento ou água correndo, pare e peça avaliação.
+
+SE NAO TIVER
+------------
+Sem fita métrica, meça com passos: um passo adulto é aproximadamente 0,7 m.
+Sem giz, use cinza, farinha ou terra clara para marcar o solo.
+Sem régua, use uma corda esticada como guia de linha reta.
+Sem estacas, use pedras ou gravetos para marcar o traçado.
+Se faltar gente, reduza ao essencial: água, encontro e saída.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O desenho mostra todos os pontos ligados e pelo menos uma rota alternativa.
+No terreno, as estacas desenham linha contínua sem trechos interrompidos.
+Após chuva fraca, a água corre para o lado e não empoça no meio do caminho.
+Uma pessoa com dificuldade de locomoção percorre o trecho sem ajuda.
+A comunidade aprovou o traçado e sabe qual é a saída de emergência.
+
+FONTES
+------
+Diretrizes de desenho de vias do Programa de Assentamentos Humanos da ONU
+(UN-Habitat): largura livre de calçada, drenagem e acesso de emergência.
+Compêndio da OMS sobre saúde e ambiente: caminhada segura e separação do
+tráfego. Lista de verificação da FEMA para rotas de evacuação e abrigos.
+Diretrizes de acessibilidade da OMS e do Conselho de Acesso dos Estados
+Unidos: inclinação de rampa e largura de passagem. Resumo operacional; não
+substitui projeto técnico nem avaliação local do terreno.

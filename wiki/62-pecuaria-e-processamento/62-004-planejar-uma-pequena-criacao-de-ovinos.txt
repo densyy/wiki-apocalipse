@@ -1,0 +1,83 @@
+==============================================================================
+CODIGO: 62-004
+TITULO: Como planejar uma pequena criação de ovinos
+CATEGORIA: 62 - Pecuária, reprodução e processamento animal
+TEMPO: 2 horas
+RISCO: medio
+EXIGE: caderno, lápis, fita métrica, dados da propriedade
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ovinos, ovelhas, carne, criação, planejamento, aprisco
+==============================================================================
+
+OBJETIVO
+--------
+Definir rebanho, instalações e rotina de manejo antes de comprar ovinos.
+
+QUANDO USAR
+-----------
+- Antes de comprar as primeiras ovelhas ou o reprodutor.
+- Quando a terra, a água ou a mão de obra são limitadas.
+- Antes de ampliar um rebanho que já existe.
+- Quando a renda da família depende da venda de carne ou lã.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento de planejamento.
+
+MATERIAIS
+---------
+- Caderno e lápis (ou papel e caneta).
+- Fita de medir ou corda com marcações.
+- Dados da propriedade: área, água, sombra e cercas.
+- Preços locais de animais, ração, sal mineral e madeira.
+
+PROCEDIMENTO
+------------
+1. Escreva no caderno o objetivo: carne, leite, lã ou mais de um.
+2. Escolha raças adaptadas ao clima da região e ao objetivo escolhido.
+3. Use lotação aproximada de 6 a 12 ovinos por hectare em pasto
+   cultivado; em pasto nativo, de 1 a 2 hectares por animal.
+4. Meça a área de pasto disponível e anote quantos animais ela sustenta.
+5. Reserve cerca de 1 metro quadrado de aprisco por ovino adulto.
+6. Reserve curral de manejo com 1,5 metro quadrado por animal adulto.
+7. Preveja 1 metro de bebedouro para cada 3 ovinos adultos.
+8. Calcule de 3 a 5 litros de água por ovino adulto em dia comum.
+9. Em calor intenso, aumente a reserva de água para até 10 litros.
+10. Coloque bebedouros e cochos fora do aprisco, protegidos da chuva.
+11. Instale cochos de sal mineral a cerca de 10 cm do solo.
+12. Planeje forragem de reserva para a estiagem: feno, silagem ou palma.
+13. Separe lotes: matrizes, gestantes, reprodutor, recria e cordeiros.
+14. Monte com o veterinário o calendário de vacinas e vermifugação.
+15. Separe um local afastado para quarentena de animais novos.
+16. Isole os animais comprados por cerca de 30 dias antes de juntá-los.
+17. Some os custos e compare com a renda esperada antes de comprar.
+
+ATENCAO
+-------
+A superlotação esgota o pasto e aumenta a verminose no rebanho.
+A verminose é o principal problema sanitário dos ovinos no Brasil.
+Não vermifuge por rotina sem critério: use exame de fezes e o veterinário.
+Vacinação e vermifugação variam por região; siga o veterinário.
+A vacina contra febre aftosa em ovinos é proibida por lei federal.
+Água suja e cochos sujos adoecem os animais; limpe com frequência.
+Sem quarentena, animais novos podem trazer doenças para o rebanho.
+
+SE NAO TIVER
+------------
+Sem fita, use corda com nós a cada metro para medir o terreno.
+Sem pasto cultivado, comece com poucos animais e amplie depois.
+Sem dados locais, peça orientação ao veterinário ou técnico da Emater.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As áreas, os lotes e os custos estão anotados no caderno.
+Há água, cochos, abrigo e quarentena previstos no croqui.
+O número de animais cabe na lotação que o pasto sustenta.
+
+FONTES
+------
+Embrapa, Recomendações Técnicas para Criação de Ovinos (1997).
+Embrapa, 500 Perguntas 500 Respostas - Caprinos e Ovinos de Corte.
+Embrapa, Principais Enfermidades e Manejo Sanitário de Ovinos (2008).
+Embrapa, Manejo eficaz na vacinação de ovinos e caprinos (2020).
+CNA Brasil e SENAR, Coleção Caprinos e Ovinos.

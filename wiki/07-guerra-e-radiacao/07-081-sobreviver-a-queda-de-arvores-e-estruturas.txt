@@ -1,0 +1,84 @@
+==============================================================================
+CODIGO: 07-081
+TITULO: Como sobreviver à queda de árvores e estruturas
+CATEGORIA: 07 - Guerra, radiação e catástrofes nucleares
+TEMPO: 20 minutos
+RISCO: critico
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: queda, árvore, prédio, escombro, fio de luz, motosserra
+==============================================================================
+
+OBJETIVO
+--------
+Abaixe-se a tempo e saia de perto de árvores e prédios caídos sem se ferir.
+
+QUANDO USAR
+-----------
+Quando houver tremor, explosão ou vendaval com árvores balançando.
+Quando uma árvore ou parte de prédio estiver caindo perto de você.
+Quando vir fios caídos no chão depois da queda.
+Quando precisar decidir se entra ou não em prédio danificado.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Abaixe-se no chão de mãos e joelhos ao sentir tremor ou estrondo.
+2. Cubra a cabeça e o pescoço com os braços e as mãos.
+3. Ajoelhe ao lado de parede interna, longe de janela e móvel alto.
+4. Segure a perna de mesa firme com uma mão se houver uma perto.
+5. Deite de barriga na cama e cubra a cabeça com travesseiro.
+6. Não corra para fora antes de o tremor ou o vendaval parar.
+7. Vá para área aberta se estiver ao ar livre.
+8. Afaste-se de prédios, árvores, postes, fios e muros.
+9. Pare o carro no acostamento, longe de árvore, ponte e fio.
+10. Fique dentro do carro até a sacudida parar.
+11. Levante só depois que a sacudida parar e olhe ao redor.
+12. Observe paredes inclinadas, portas emperradas e teto caído.
+13. Saia do prédio danificado pela escada, sem usar elevador.
+14. Afaste-se aproximadamente 10 metros e não entre de novo.
+15. Trate todo fio caído como ligado, mesmo com a luz apagada.
+16. Mantenha aproximadamente 3 metros de distância do fio no chão.
+17. Mantenha aproximadamente 10 metros de árvore encostada em fio.
+18. Não toque na árvore, no fio nem em nada que encoste neles.
+19. Se um fio cair no carro, fique dentro e peça socorro.
+20. Não corte árvore presa em fio nem galho esticado sob tensão.
+
+ATENCAO
+-------
+A queda mata por impacto, esmagamento e fio energizado.
+Fio caído pode estar ligado mesmo com a luz apagada na rua.
+Árvore encostada em fio eletrifica o chão ao redor dela.
+Galho dobrado e preso solta com força quando é cortado.
+Motosserra sem treino causa corte grave na perna e na mão.
+Não acenda isqueiro se houver cheiro de gás no local.
+Se houver sangramento forte, pressione o ferimento e peça socorro.
+Se alguém tocar em fio, não encoste nessa pessoa: chame socorro.
+
+SE NAO TIVER
+------------
+Sem mesa, ajoelhe ao lado de parede interna e cubra a cabeça.
+Sem capacete, use panela ou livro sobre a cabeça ao sair.
+Sem escada, desça andando devagar e apoiado na parede interna.
+Sem motosserra, não serre galho grande: espere ajuda.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você não ficou debaixo de árvore, janela ou parede externa na sacudida.
+Você saiu do prédio danificado e não voltou para dentro.
+Você manteve distância de todo fio caído e de árvore encostada nele.
+
+FONTES
+------
+Cartaz de proteção durante terremoto da FEMA, P-1078, 2024.
+Guia de segurança sísmica em casa da FEMA, P-530, 2020.
+Orientações de segurança com motosserra do CDC americano.
+Mensagens de segurança do CDC e NIOSH para limpeza após tempestades, 2025.
+Orientação do CDC sobre risco elétrico depois de desastres.

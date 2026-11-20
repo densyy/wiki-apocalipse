@@ -1,0 +1,93 @@
+==============================================================================
+CODIGO: 03-001
+TITULO: Como controlar sangramento externo grave
+CATEGORIA: 03 - Medicina, primeiros socorros e saúde
+TEMPO: 10 minutos
+RISCO: critico
+EXIGE: pano limpo ou gaze, luvas ou sacola plástica, faixa larga
+REVISAO: 2026-11
+PALAVRAS-CHAVE: sangramento, hemorragia, torniquete, compressão, ferimento
+==============================================================================
+
+OBJETIVO
+--------
+Reduzir a perda de sangue até conseguir atendimento.
+
+QUANDO USAR
+-----------
+Este é o procedimento que mais salva vida em trauma.
+A causa mais comum de morte evitável em acidente é sangramento que
+poderia ser comprimido.
+Ferimento que sangra muito e não para sozinho.
+Sangue saindo em jato, pano encharcando rápido, amputação.
+
+NAO USE QUANDO
+--------------
+Nunca faça pressão sobre osso afundado no crânio: cubra sem pressionar.
+Nunca faça pressão sobre olho ferido: cubra sem pressionar.
+
+MATERIAIS
+---------
+- Pano limpo ou gaze (ou camiseta limpa dobrada).
+- Luvas descartáveis (ou sacola plástica limpa).
+- Faixa larga de pano resistente, com 5 cm ou mais.
+- Relógio ou celular para anotar a hora do torniquete.
+- Cobertor ou casaco para cobrir a pessoa.
+
+PROCEDIMENTO
+------------
+1. Garanta que a cena é segura para você antes de ajudar.
+2. Calce luvas ou use sacola plástica limpa nas mãos.
+3. Comprima o ferimento com pano limpo ou gaze.
+4. Faça pressão firme e contínua, sem soltar.
+5. Mantenha a pressão por 10 minutos sem levantar para espiar.
+6. Se o pano encharcar, não remova: ponha outro por cima.
+7. Continue comprimindo sem parar.
+8. Se possível, eleve o membro acima do coração, sem soltar a pressão.
+
+Se o sangramento não parar e houver risco de morte, use torniquete:
+9. Aplique o torniquete apenas em braço ou perna.
+10. Use uma faixa larga de pano resistente, com 5 cm ou mais.
+11. Ponha a faixa de 5 a 7 cm acima do ferimento.
+12. Nunca ponha a faixa sobre uma articulação.
+13. Aperte a faixa até o sangramento parar.
+14. Anote a hora exata em que o torniquete foi apertado.
+15. Não afrouxe o torniquete depois de aplicado.
+16. Mantenha o torniquete visível, sem cobrir.
+
+ATENCAO
+-------
+Este procedimento reduz a perda de sangue, mas não substitui atendimento.
+Nunca use corda fina, arame, barbante, cinto fino ou elástico: cortam
+a pele e o nervo e não param a artéria.
+Nunca aplique torniquete em pescoço, cabeça ou tronco.
+Nunca retire objeto encravado, como faca, vidro ou estaca.
+Imobilize em volta com panos e comprima ao redor do objeto.
+Sinais de choque: pele pálida e fria, suor, pulso rápido e fraco,
+confusão e sede intensa.
+Se houver sinais de choque, deite a pessoa e cubra para manter o calor.
+Não dê comida nem bebida.
+Sangramento de nariz: sente a pessoa e incline levemente a cabeça
+para frente; aperte a parte mole do nariz por 10 minutos sem soltar.
+Procure atendimento em qualquer caso de sangramento grave, mesmo que
+tenha parado.
+
+SE NAO TIVER
+------------
+Sem gaze ou pano limpo: use uma camiseta limpa dobrada.
+Sem luvas: use sacola plástica limpa nas mãos.
+Sem faixa larga: rasgue camiseta ou lençol em tira de 5 cm ou mais.
+Sem cobertor: use casaco, toalha ou jornal para manter o calor.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O sangramento para ou diminui muito sob a pressão.
+O pano não encharca mais e a pessoa segue acordada.
+O torniquete para o sangramento e não é afrouxado.
+O ferimento segue coberto até o atendimento.
+
+FONTES
+------
+Prática consolidada de primeiros socorros em trauma (referências: Cruz
+Vermelha e ATLS). Este texto é um resumo operacional e não substitui
+treinamento prático.

@@ -1,0 +1,77 @@
+==============================================================================
+CODIGO: 63-008
+TITULO: Como ocorre a transmissão de doenças infecciosas
+CATEGORIA: 63 - Microbiologia, parasitologia e contaminação
+TEMPO: 20 minutos
+RISCO: medio
+EXIGE: caderno, lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: transmissão, contágio, gotículas, fecal-oral, vetor, água
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer como o germe que causa a doença passa de uma pessoa ou do
+ambiente para outra e onde interromper essa passagem.
+
+QUANDO USAR
+-----------
+Quando aparecem casos novos de uma mesma doença no grupo.
+Quando mais de uma pessoa tem tosse, febre ou diarreia no abrigo.
+Quando o grupo divide água, alimentos, utensílios ou dormitórios.
+Quando há mosquitos, carrapatos ou animais por perto.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para este procedimento.
+Texto conceitual: não diagnostica nem trata; busque profissional de saúde.
+
+MATERIAIS
+---------
+- Caderno e lápis (papel e algo para escrever) para anotar observações.
+- Nenhum material biológico: não colete sangue, saliva ou fezes de doente.
+
+PROCEDIMENTO
+------------
+1. Observe quem adoeceu e anote quando os sintomas começaram.
+2. Identifique os sintomas: tosse, febre, diarreia, vômito ou feridas.
+3. Note se várias pessoas adoeceram depois de dividir o mesmo espaço.
+4. Localize o reservatório, onde o germe vive: doente, animal ou água.
+5. Note por onde o germe sai: gotículas, fezes, sangue ou saliva.
+6. Escolha a via provável: contato, gotículas, ar, água, comida ou inseto.
+7. Note a entrada no corpo: boca, nariz, olhos, pele ferida ou mucosa.
+8. Liste quem pode adoecer mais fácil: criança, idoso, gestante.
+9. Lave as mãos com água e sabão ao cuidar do doente.
+10. Afaste quem tem tosse ou febre das demais pessoas.
+11. Ferva a água de origem duvidosa antes de beber.
+12. Remova a água parada dos recipientes ao redor do abrigo.
+
+ATENCAO
+-------
+Nem todo germe causa doença, e nem toda doença é contagiosa.
+A mesma doença pode usar mais de uma via: a gripe sai em gotículas
+e também pelas mãos. Pessoa sem sintomas pode transmitir a doença;
+a falta de febre não prova que não há risco. Gotículas de espirro
+viajam aproximadamente 1 metro; partículas menores ficam no ar mais tempo.
+Lavar as mãos e ventilar reduzem risco, mas não protegem contra tudo.
+Com febre alta, falta de ar, desidratação ou confusão, procure atendimento.
+
+SE NAO TIVER
+------------
+Sem sabão, lave com água corrente e atrito; sem água, evite tocar o rosto.
+Procure água; para ferver, veja 01-001. Sem via definida, aja como se
+todas fossem possíveis: higiene, afastamento e ventilação.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você aponta no caderno o reservatório, a via e a entrada observados.
+As mãos foram lavadas e o doente afastado; a água de beber foi fervida.
+Não apareceram casos novos no grupo depois das medidas.
+
+FONTES
+------
+Módulo de Princípios de Epidemiologia (MOPECE), da OPAS/OMS; material
+Cadeia de transmissão, da OPAS (2025); orientações do Ministério da Saúde
+sobre transmissão, diarreias e zoonoses; guia da CDC; precauções da OMS
+por via de transmissão (2022). Resumo operacional, não substitui
+treinamento.

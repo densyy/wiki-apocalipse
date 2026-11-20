@@ -1,0 +1,86 @@
+==============================================================================
+CODIGO: 01-029
+TITULO: Como construir um sistema de filtragem por gravidade
+CATEGORIA: 01 - Água e abastecimento hídrico
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: balde limpo, areia, cascalho, carvão, pano, pote tampado
+REVISAO: 2026-11
+PALAVRAS-CHAVE: água, filtro, areia, carvão, gravidade, potável
+==============================================================================
+
+OBJETIVO
+--------
+Montar um filtro que retira barro e sujeira visível da água.
+
+QUANDO USAR
+-----------
+Quando a água está turva, com barro, areia ou restos de planta.
+Quando a água vem de rio, lago ou chuva e vai ser fervida depois.
+Quando não há filtro de vela e é preciso melhorar a água antes de usar.
+
+NAO USE QUANDO
+--------------
+Para obter água potável só com o filtro. Ele não elimina vírus
+nem bactérias; desinfete sempre a água depois de filtrar.
+Quando houver combustível, agrotóxico, solvente, metal pesado ou sal.
+
+MATERIAIS
+---------
+- Balde ou garrafa grande limpa com tampa (ou funil).
+- Pano limpo (coador de papel ou pano de prato limpo).
+- Areia fina lavada (areia de construção peneirada e lavada).
+- Cascalho ou pedrinhas pequenas lavadas (pedra britada limpa).
+- Carvão vegetal limpo (carvão ativado sem tinta, óleo ou combustível).
+- Recipiente limpo e tampado para recolher a água (pote ou galão).
+
+PROCEDIMENTO
+------------
+1. Lave o balde, o pano, a areia, o cascalho e o carvão.
+2. Faça furos pequenos no fundo do balde com faca ou furadeira.
+3. Encoste o pano limpo nos furos, por dentro, para segurar a areia.
+4. Cubra o pano com cascalho, camada de aproximadamente 5 cm.
+5. Adicione carvão limpo, camada de aproximadamente 5 cm.
+6. Adicione areia fina, camada de aproximadamente 10 cm, por cima.
+7. Deixe a água turva parada até a sujeira descer ao fundo.
+8. Despeje a água mais limpa sobre a areia, devagar, sem mexer.
+9. Colete a água dos furos no recipiente limpo e tampado.
+10. Desinfete antes de beber: ferva (veja 01-001) ou use hipoclorito
+    de sódio conforme orientação do Ministério da Saúde.
+11. Raspe a areia da superfície quando o escoamento ficar lento.
+
+ATENCAO
+-------
+O filtro não torna a água potável. Retira sujeira visível e alguns
+parasitas maiores, mas não remove vírus nem todas as bactérias.
+Desinfete sempre a água filtrada antes de beber.
+Nunca filtre água com combustível, agrotóxico, solvente, metal ou sal:
+o filtro não tira esses contaminantes e dá falsa segurança.
+Use carvão de madeira sem tratamento. Carvão com tinta, óleo ou gasolina
+contamina a água. Não use cinza.
+Tempos de fervura divergem: CDC indica 1 minuto (3 acima de 2.000 m);
+Ministério da Saúde indica 5 minutos (10 em altitude). Na dúvida, ferve
+mais tempo e siga 01-001.
+Água muito barrenta entope o filtro. Deixe assentar e coe com pano antes.
+Se sair água turva, com cheiro ou com areia, descarte e refaça o filtro.
+Lave as mãos antes de tocar na água filtrada e no recipiente limpo.
+
+SE NAO TIVER
+------------
+Sem cascalho, use pedrinhas lavadas no fundo.
+Sem carvão ativado, use carvão vegetal limpo, sem resíduo de combustível.
+Sem balde, corte uma garrafa, tampe o gargalo com pano e vire para baixo.
+Sem areia, coe com pano e deixe assentar. Isso não elimina microrganismos:
+beba só depois de desinfetar.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água escorre em fio fino, sem barro visível nem areia no recipiente.
+A água coletada ficou mais clara e passou pela desinfecção.
+
+FONTES
+------
+CDC: tornar água segura em emergência e tratamento em viagens e
+acampamento. Funasa: Protocolo de Atuação em Desastres e caderno
+sobre filtros lentos. Ministério da Saúde: cartilhas Água Tratada
+em Casa e cuidados com a água em desastres.

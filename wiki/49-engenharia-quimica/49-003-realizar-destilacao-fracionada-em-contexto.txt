@@ -1,0 +1,94 @@
+==============================================================================
+CODIGO: 49-003
+TITULO: Como realizar destilação fracionada em contexto industrial
+CATEGORIA: 49 - Engenharia química e processos industriais
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: coluna, fervedor, condensador, refluxo, instrumentação, EPI
+REVISAO: 2026-11
+PALAVRAS-CHAVE: destilação, fracionada, coluna, refluxo, pratos, ebulição
+==============================================================================
+
+OBJETIVO
+--------
+Separar uma mistura líquida em frações de diferentes pontos de ebulição,
+usando uma coluna industrial com refluxo controlado.
+
+QUANDO USAR
+-----------
+Quando os componentes têm pontos de ebulição próximos, a cerca de 25 °C.
+Quando é preciso obter várias frações de uma única alimentação.
+No refino de petróleo, na separação de ar e na recuperação de solventes.
+Quando a diferença de volatilidade permite separar por calor, sem reagentes.
+
+NAO USE QUANDO
+--------------
+Quando os componentes formam azeótropo: água e etanol, por exemplo.
+Nesse caso a mistura não passa da composição azeotrópica.
+Quando algum componente se decompõe antes de atingir a ebulição.
+Quando faltam calor controlado, condensador ou sistema de refluxo.
+Quando a mistura é corrosiva ou instável sem equipamento adequado.
+
+MATERIAIS
+---------
+- Coluna vertical com pratos ou enchimento, chamado de packing.
+- Fervedor na base, chamado de reboiler, ou fonte de calor controlada.
+- Condensador no topo, com água de resfriamento.
+- Vaso de refluxo e bomba ou retorno por gravidade.
+- Termômetros e manômetros em pontos da coluna.
+- Válvulas de controle de alimentação, refluxo e retirada de produto.
+- Equipamento de proteção individual: óculos, luvas, avental e capacete.
+- Extintor e ventilação do ambiente.
+- Procedimento escrito da planta e fichas de segurança dos componentes.
+
+PROCEDIMENTO
+------------
+1. Confirme a identidade da mistura e leia as fichas de segurança.
+2. Inspecione instrumentação, válvulas, vedações e aterramento.
+3. Abra a ventilação e afaste chamas e fontes de ignição.
+4. Acione a água de resfriamento e confirme o retorno do condensador.
+5. Aqueça a base com o fervedor de forma gradual e controlada.
+6. Acompanhe a subida do vapor e o gradiente de temperatura.
+7. Mantenha o topo mais frio que a base da coluna.
+8. Ajuste a razão de refluxo conforme o procedimento da planta.
+9. Alimente a mistura em ritmo constante e estável.
+10. Retire o produto leve pelo topo e o pesado pela base.
+11. Registre temperaturas, pressão, refluxo e vazões periodicamente.
+12. Reduza a retirada se a temperatura de topo subir de forma brusca.
+13. Interrompa a alimentação, mantenha o refluxo e resfrie a base.
+14. Drene os produtos para recipientes identificados e limpe o sistema.
+
+ATENCAO
+-------
+Vapores e líquidos podem ser inflamáveis, tóxicos ou corrosivos.
+Pressão alta pode romper vedações e causar vazamento perigoso.
+Nunca ultrapasse o limite de pressão previsto no projeto da coluna.
+Superfícies quentes causam queimaduras graves; use EPI e não toque.
+A destilação não separa azeótropos nem componentes que se decompõem.
+O erro mais comum é retirar produto rápido demais e contaminar frações.
+Se houver vazamento, cheiro forte ou pressão anormal, pare e avise.
+Nunca opere sozinho nem improvise conexões em sistema pressurizado.
+Este texto é resumo operacional e não substitui treinamento nem a planta.
+
+SE NAO TIVER
+------------
+Sem refluxo, a coluna perde eficiência e o produto sai impuro.
+Sem condensador, não há como recuperar o produto do topo.
+Se faltar peça essencial, não opere: pare e restabeleça o sistema.
+Para pontos de ebulição muito afastados, destilação simples pode bastar.
+Para azeótropos, use outro método, como destilação azeotrópica.
+
+COMO SABER QUE DEU CERTO
+------------------------
+As frações retiradas ficam dentro da especificação de composição.
+A temperatura de topo permanece estável durante cada retirada.
+O registro mostra gradiente claro entre o topo e a base.
+Não há vazamento, queda anormal de pressão ou mistura entre frações.
+
+FONTES
+------
+Prática consolidada de engenharia química em separação por destilação.
+O procedimento vem de manuais clássicos do tema: Perry, Chemical
+Engineers' Handbook; Kister, Distillation Design; Seader e Henley,
+Separation Process Principles. Projeto usa McCabe-Thiele e Fenske.
+Resumo operacional; não substitui o procedimento escrito da planta.

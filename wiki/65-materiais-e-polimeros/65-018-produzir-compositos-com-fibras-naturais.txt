@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 65-018
+TITULO: Como produzir compósitos com fibras naturais
+CATEGORIA: 65 - Engenharia de materiais e polímeros
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: resina com endurecedor, fibras secas, molde, luvas, máscara
+REVISAO: 2026-11
+PALAVRAS-CHAVE: compósito, fibra natural, resina, sisal, juta, molde, cola
+==============================================================================
+
+OBJETIVO
+--------
+Fabricar uma peça leve e rígida reforçando resina com fibras vegetais.
+
+QUANDO USAR
+-----------
+Quando falta uma peça plástica rígida e há resina e fibras disponíveis.
+Quando se quer uma tampa, painel ou caixa leve e resistente à água.
+Quando há lugar ventilado, longe de fogo, para manusear resina.
+Quando se tem tempo para esperar a cura completa da peça.
+
+NAO USE QUANDO
+--------------
+Não use sem ventilação, luvas, óculos e máscara com filtro de vapores.
+Não use em peça que sustenta peso, pressão, calor ou corrente elétrica.
+Não use resina vencida, sem endurecedor ou fora da proporção do rótulo.
+Não use cola de madeira, gesso ou cimento no lugar de resina.
+Não derreta nem queime resina em ambiente fechado.
+
+MATERIAIS
+---------
+- Fibras vegetais limpas e secas (sisal, juta, linho, cânhamo ou coco).
+- Resina de dois componentes com endurecedor (epóxi ou poliéster).
+- Molde rígido de superfície lisa (madeira lixada, vidro ou metal).
+- Desmoldante (cera ou filme plástico liso).
+- Rolo pequeno ou espátula (pincel descartável serve).
+- Luvas de nitrilo, óculos de proteção e máscara com filtro de vapores.
+- Papel ou filme plástico para forrar o molde.
+- Peso plano para prensar (livros ou saco de areia).
+- Local arejado, longe de fogo, faíscas e outras pessoas.
+
+PROCEDIMENTO
+------------
+1. Abra portas e janelas e afaste fogo, calor e faíscas do local.
+2. Vista luvas de nitrilo, óculos e máscara com filtro de vapores.
+3. Lave as fibras com água limpa para tirar terra e resíduos.
+4. Seque as fibras ao sol ou em lugar arejado por aproximadamente um dia.
+5. Corte as fibras do tamanho do molde e separe em camadas finas.
+6. Forre o molde com filme plástico ou passe uma camada fina de cera.
+7. Misture resina e endurecedor na proporção escrita na embalagem.
+8. Mexa devagar e pouco para não incorporar ar na mistura.
+9. Espalhe uma camada fina de resina no molde com o pincel.
+10. Coloque uma camada de fibra sobre a resina e pressione com o rolo.
+11. Pingue resina sobre a fibra até umedecer toda a trama.
+12. Repita as camadas de resina e fibra até a espessura desejada.
+13. Passe o rolo do centro para as bordas para retirar bolhas de ar.
+14. Cubra com filme plástico e coloque o peso plano sobre a peça.
+15. Deixe curar no local arejado pelo tempo indicado pelo fabricante.
+16. Não toque, não lixe e não fume perto da peça durante a cura.
+17. Retire do molde só quando estiver dura e sem cheiro de resina.
+18. Guarde a peça pronta longe do sol e da umidade até utilizá-la.
+
+ATENCAO
+-------
+Resina e endurecedor irritam a pele e podem causar alergia permanente.
+Nunca toque resina líquida com as mãos nuas, mesmo por pouco tempo.
+Lixe só com máscara e ventilação, nunca em espaço fechado.
+Catalisador de peróxido e estireno são inflamáveis e podem explodir.
+Guarde catalisador na embalagem original, longe de calor e de solventes.
+Fibras naturais absorvem água: umidade prejudica a cura e a aderência.
+Tratamento com soda cáustica melhora a aderência, mas é corrosivo.
+Faça esse tratamento só com EPI de laboratório e muita ventilação.
+Pare e procure ajuda se houver queimadura, tontura ou falta de ar.
+
+SE NAO TIVER
+------------
+Sem resina epóxi, use poliéster com o catalisador indicado no rótulo.
+Sem desmoldante, forre o molde com filme plástico bem esticado.
+Sem rolo, use um pincel ou uma régua para pressionar e tirar bolhas.
+Sem máscara com filtro, não misture resina: não há substituto seguro.
+Sem fibra vegetal, use papel ou tecido de algodão limpo como reforço.
+Nesse caso a peça fica mais fraca: não a use em esforço.
+Sem peso plano, empilhe livros sobre uma tábua apoiada na peça.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A peça endurece, não gruda no dedo com luva e descola do molde.
+As fibras ficam espalhadas por toda a peça, sem bolhas grandes.
+Não há cheiro forte de resina quando a peça está pronta.
+Ao pressionar com a mão, a peça não dobra nem cede.
+
+FONTES
+------
+Revisões científicas sobre compósitos de fibras naturais, como juta,
+sisal e linho, e sobre o método de moldagem manual chamado hand lay-up.
+Orientações de segurança da CDC, do NIOSH e do CPWR sobre resina epóxi.
+Guia da Health and Safety Executive do Reino Unido sobre risco de
+incêndio e explosão na fabricação de plásticos reforçados com fibra.
+Este texto é um resumo operacional e não substitui treinamento.

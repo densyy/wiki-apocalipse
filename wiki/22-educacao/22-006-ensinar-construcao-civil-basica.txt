@@ -1,0 +1,68 @@
+==============================================================================
+CODIGO: 22-006
+TITULO: Como ensinar construção civil básica
+CATEGORIA: 22 - Educação e transmissão de conhecimento
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: local plano e limpo, material de construção, EPI, ferramentas básicas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: construção, ensinar, alvenaria, obra, segurança, aprender
+==============================================================================
+
+OBJETIVO
+--------
+Ensinar noções básicas de alvenaria e de segurança a quem nunca construiu.
+
+QUANDO USAR
+-----------
+Quando uma pessoa precisa aprender reparos simples em casa.
+Quando a comunidade vai reconstruir abrigos após uma emergência.
+Quando há material e ferramentas, mas ninguém sabe usá-los.
+
+NAO USE QUANDO
+--------------
+Não substitua treinamento profissional exigido por lei em obra formal.
+Não ensine trabalho em altura, eletricidade ou máquinas sem habilitação.
+
+MATERIAIS
+---------
+- Cimento, areia, água e tijolos ou blocos em pequena quantidade.
+- Colher de pedreiro, nível, trena, balde e fio de alinhamento.
+- EPI: capacete, luvas, óculos e calçado fechado, conforme a NR-18.
+- Área plana, limpa e longe do trânsito de veículos.
+
+PROCEDIMENTO
+------------
+1. Escolha um local plano, seco e sem circulação de pessoas.
+2. Vista o EPI e exija o mesmo do aprendiz antes de começar.
+3. Mostre cada ferramenta, seu uso e o risco que ela oferece.
+4. Explique a argamassa: mistura de cimento, areia e água que une tijolos.
+5. Meça a água e a areia em balde e misture até ficar uniforme.
+6. Demonstre assentar o tijolo: argamassa embaixo e na lateral.
+7. Alinhe o tijolo com o fio e confira com o nível.
+8. Peça ao aprendiz que repita o gesto devagar e sem força.
+9. Corrija um erro por vez e repita até ele assentar sem ajuda.
+10. Limpe a área e guarde as ferramentas ao final.
+
+ATENCAO
+-------
+Obra tem risco real: queda, pregos, cortes e respingos de cimento.
+Não deixe o aprendiz usar ferramenta cortante sem supervisão direta.
+Nunca improvise proteção contra queda; onde há risco, use guarda-corpo.
+Se o aprendiz estiver sem EPI, pare a atividade na hora.
+Pare e procure ajuda se houver ferimento, choque ou queda.
+
+SE NAO TIVER
+------------
+Sem cimento, faça só demonstração seca com tijolos e fio, sem argamassa.
+Sem EPI, não inicie a prática: arranje o equipamento ou apenas observe.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O aprendiz assenta tijolos alinhados, com argamassa uniforme, sem ajuda.
+
+FONTES
+------
+Manual Básico de Treinamento em Construção (Heini Müller, 2004).
+NR-18 do Ministério do Trabalho e Emprego; diretrizes de quedas da OSHA.
+Manual de Segurança de Abrigos da Cruz Vermelha Internacional (IFRC).

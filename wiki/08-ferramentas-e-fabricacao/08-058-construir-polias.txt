@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 08-058
+TITULO: Como construir polias
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 120 minutos
+RISCO: medio
+EXIGE: madeira dura, serra, faca, broca, corda, óculos de proteção
+REVISAO: 2026-11
+PALAVRAS-CHAVE: polia, roda, sulco, corda, bloco, talha, alavanca, levantar
+==============================================================================
+
+OBJETIVO
+--------
+Construir polias de madeira e montar uma talha para levantar carga leve.
+
+QUANDO USAR
+-----------
+Quando faltar polia de metal para levantar lenha, água ou material.
+Quando houver corda e madeira, mas não houver talha pronta.
+
+NAO USE QUANDO
+--------------
+Para levantar pessoa, animal ou carga acima do que a corda aguenta.
+Com madeira podre, rachada ou com nós: a roda pode quebrar sob carga.
+
+MATERIAIS
+---------
+- Madeira dura e sã, sem nó, rachadura ou podridão.
+- Serra, faca, lima, lixa (casca de pedra) e broca ou furadeira manual.
+- Pino de madeira dura ou parafuso para o eixo.
+- Corda de fibra íntegra, sem desfiado.
+- Óculos de proteção.
+
+PROCEDIMENTO
+------------
+1. Escolha a madeira mais pesada e sem defeitos para a roda.
+2. Marque nela um disco com aproximadamente 8 cm de diâmetro.
+3. Serre o disco com aproximadamente 2 cm de espessura.
+4. Fure o centro com broca do diâmetro do pino.
+5. Abra o sulco com faca e lima até aproximadamente um terço da corda.
+6. Lixe as bordas do sulco para ele não cortar a corda.
+7. Corte duas placas retas para a armação, mais altas que o disco.
+8. Fure as duas placas na mesma altura para receber o pino.
+9. Encaixe o disco e passe o pino, preso com cunhas ou porcas.
+10. Amarre as pontas superiores das placas com corda, formando um olhal.
+11. Repita os passos 2 a 10 para fazer a segunda polia.
+12. Prenda uma polia em ponto alto e a outra na carga.
+13. Prenda uma ponta da corda no ponto alto.
+14. Passe a corda pela polia da carga e pela alta; puxe a ponta livre.
+
+ATENCAO
+-------
+A polia caseira não tem carga nominal: use só em emergência.
+A corda é o elo mais fraco; nunca puxe além do limite dela.
+O atrito reduz o ganho: 2 contra 1 pode ser menos na prática.
+Pare se o pino sair ou a roda rachar; nunca fique sob a carga.
+
+SE NAO TIVER
+------------
+Sem broca, aqueça o pino e queime o furo no centro da roda.
+Sem segunda polia, use só a fixa: muda a direção, sem ganho de força.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A roda gira livre no pino e a carga sobe metade do trecho puxado.
+
+FONTES
+------
+Prática consolidada de marcenaria e talabaria de emergência.
+NAVEDTRA 14037 Basic Machines (1994), capítulo 2, Marinha dos EUA.

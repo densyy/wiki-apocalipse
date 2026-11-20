@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 02-133
+TITULO: Como calcular reservas alimentares para uma família
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 45 minutos
+RISCO: baixo
+EXIGE: papel, lápis, rótulos dos alimentos, lista de preços
+REVISAO: 2026-11
+PALAVRAS-CHAVE: reserva, comida, família, dias, calorias, despensa, estoque
+==============================================================================
+
+OBJETIVO
+--------
+Calcular quanta comida e água a família precisa para dias sem comprar.
+
+QUANDO USAR
+-----------
+Ao montar uma despensa de emergência em casa.
+Quando der para comprar aos poucos, sem gastar tudo de uma vez.
+
+NAO USE QUANDO
+--------------
+Não trate o cálculo como garantia de comida por tempo indefinido.
+Não ajuste sozinho a dieta de bebês, grávidas ou doentes crônicos.
+
+MATERIAIS
+---------
+- Papel, lápis e copo medidor para as contas e as porções.
+- Rótulos dos alimentos, para ler calorias e validade.
+
+PROCEDIMENTO
+------------
+1. Escreva o nome de cada pessoa que come em casa, incluindo crianças.
+2. Conte as pessoas e anote o total.
+3. Escolha os dias: 3 como mínimo, ou 14 para ficar em casa.
+4. Anote a meta de 2000 calorias por adulto por dia.
+5. Multiplique 2000 pelo número de adultos e pelos dias.
+6. Some a parte das crianças e de quem come mais ou menos.
+7. Calcule a água: 2 litros por pessoa por dia, vezes as pessoas e os dias.
+8. Leia as calorias por porção no rótulo de cada alimento.
+9. Divida o total de calorias pelas calorias de uma porção.
+10. Anote quantas porções comprar de cada alimento da lista.
+11. Escreva a lista final com quantidades e validade de cada item.
+
+ATENCAO
+-------
+A meta de 2000 calorias é referência, não necessidade exata.
+Crianças, idosos, grávidas e doentes podem precisar de outro valor.
+Comida sem água não sustenta ninguém: calcule a água sempre.
+Alimento muito salgado aumenta a sede e gasta mais água.
+Guarde o estoque longe de calor, umidade e luz, ou ele estraga.
+Se houver alergia ou dieta especial, ajuste a lista antes de comprar.
+
+SE NAO TIVER
+------------
+Sem rótulo, conte uma porção como um punhado cheio da mão.
+Sem dinheiro para os 14 dias, comece pelos 3 e amplie depois.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A soma das calorias das porções cobre o total que você anotou.
+Cada item da lista tem quantidade e data de validade escritas.
+
+FONTES
+------
+Ready.gov e FEMA: mínimo de 3 dias de comida não perecível.
+Cruz Vermelha americana: 3 dias na evacuação e 2 semanas em casa.
+OMS e PNPAS: 2000 a 2200 calorias por adulto por dia na emergência.
+FDA: guia geral de 2000 calorias diárias por pessoa.
+Defesa Civil do Paraná: 2 litros de água por pessoa por dia.

@@ -1,0 +1,86 @@
+==============================================================================
+CODIGO: 06-035
+TITULO: Como prevenir epidemias causadas por saneamento precário
+CATEGORIA: 06 - Higiene, saneamento e resíduos
+TEMPO: 60 minutos
+RISCO: critico
+EXIGE: pa ou enxada, sabao, agua sanitaria, balde com tampa
+REVISAO: 2026-11
+PALAVRAS-CHAVE: epidemia, colera, diarreia, saneamento, higiene, agua
+==============================================================================
+
+OBJETIVO
+--------
+Cortar a contaminacao por fezes que provoca epidemias onde
+falta esgoto tratado.
+
+QUANDO USAR
+-----------
+Quando o esgoto parou, transbordou ou nunca existiu no local.
+Quando ha fezes a ceu aberto perto de casa ou da agua.
+Quando surgem casos de diarreia, vomito ou febre no grupo.
+Quando muita gente divide a mesma latrina ou banheiro.
+Quando lixo e agua parada se acumulam no quintal ou na rua.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+
+MATERIAIS
+---------
+- Pa ou enxada para enterrar fezes e drenar agua (facão).
+- Balde limpo com tampa para guardar agua tratada (garrafa).
+- Sabao para lavar as maos (cinza peneirada com agua).
+- Agua sanitaria sem perfume para tratar a agua (ferver).
+- Sacos plasticos ou balde para lixo e fezes de crianca.
+- Pano limpo, vassoura e cal ou cinza para cobrir fezes.
+
+PROCEDIMENTO
+------------
+1. Escolha um unico ponto de fezes a aproximadamente 30 m da agua.
+2. Proiba fezes a ceu aberto e mande todos usar a latrina.
+3. Cubra as fezes com terra, cinza ou cal apos cada uso.
+4. Tampe a latrina e o buraco quando ninguem estiver usando.
+5. Enterre na hora as fezes de crianca em buraco fundo.
+6. Lave as maos com sabao apos latrina e antes de comer.
+7. Ferva a agua de beber ate borbulhar forte antes de guardar.
+8. Se ferver for impossivel, clore a agua seguindo o rotulo.
+9. Guarde a agua tratada em balde tampado e tire com caneca.
+10. Cozinhe bem os alimentos e lave frutas com agua tratada.
+11. Junte o lixo em saco e afaste do chao, da agua e da comida.
+12. Elimine poças e valas paradas que criam mosquito e mau cheiro.
+13. Isole quem tem diarreia em local proprio com balde e pano.
+14. Limpe balde, latrina e maçaneta com agua e sabao todo dia.
+15. Avise o grupo na hora se a diarreia se espalhar entre vizinhos.
+
+ATENCAO
+-------
+Agua clara e sem cheiro pode estar contaminada por fezes.
+Fossa perto de poco contamina sem mudar gosto ou cheiro.
+Este roteiro nao trata doente nem substitui atendimento medico.
+Pare e busque ajuda com diarreia com sangue, febre alta ou sede.
+Desidratacao grave mata rapido, sobretudo crianca e idoso.
+Nao misture agua sanitaria com sabao nem passe da conta do rotulo.
+Mosca pousada em fezes contamina comida, mao e utensilio.
+
+SE NAO TIVER
+------------
+Sem sabao, esfregue as maos com cinza peneirada e agua tratada.
+Sem agua sanitaria, ferva a agua ate borbulhar forte e tampe.
+Sem lixeira, junte o lixo em saco e pendure longe do chao.
+Sem latrina pronta, cave buraco fundo longe da agua e tampe.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Nao ha mais fezes, papel ou lixo espalhados pelo terreno.
+A latrina fica tampada, com pouco cheiro e quase sem mosca.
+Todos bebem so agua tratada guardada em pote tampado.
+Casos novos de diarreia param de aparecer em poucos dias.
+
+FONTES
+------
+Orientacao da OMS sobre colera e doencas diarreicas por agua;
+orientacao do Ministerio da Saude e da Funasa sobre agua e
+saneamento em emergencias; recomendacoes do CDC para
+saneamento em emergencias e da IFRC sobre higiene em
+desastres. Resumo operacional, sem treinamento.

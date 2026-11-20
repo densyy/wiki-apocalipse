@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 16-014
+TITULO: Como construir um barco de madeira
+CATEGORIA: 16 - Transporte e mobilidade
+TEMPO: 4 dias
+RISCO: alto
+EXIGE: desenho, tábuas secas, pregos galvanizados, vedante, serra e martelo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: barco, bote, madeira, tábuas, casco, calafetar, remo, rio
+==============================================================================
+
+OBJETIVO
+--------
+Montar um bote de fundo chato com tábuas para navegar em rio lento ou lago.
+
+QUANDO USAR
+-----------
+Quando não há barco e a carga excede a de uma jangada.
+Quando o rio é lento ou o lago é calmo, sem ondas nem corredeira.
+Quando há madeira serrada seca, ferramentas e vários dias de trabalho.
+Quando o fundo chato permite navegar em água rasa e encostar na margem.
+
+NAO USE QUANDO
+--------------
+Quando houver mar aberto, ondas, corredeira, cachoeira ou maré.
+Quando faltar desenho testado, prática de carpintaria ou tempo para vedar.
+Quando a madeira estiver verde, instável ou sem resistência à podridão.
+Quando não houver fixações galvanizadas e material para vedar as juntas.
+
+MATERIAIS
+---------
+- Tábuas secas, estáveis e resistentes à podridão (madeira serrada).
+- Madeira para quadros (costelas), proa e popa.
+- Pregos ou parafusos galvanizados; nunca use ferro comum na água.
+- Estopa ou algodão e massa betuminosa para calafetar (vedar juntas).
+- Preservativo de madeira e tinta betuminosa para o fundo.
+- Serra, machado, formão, martelo, furadeira, régua e esquadro.
+- Corda para segurar o barco na margem durante o teste.
+
+PROCEDIMENTO
+------------
+1. Desenhe em tamanho real os quadros, a proa e a popa sobre papelão.
+2. Marque no desenho os chanfros onde as tábuas encostam.
+3. Recorte os quadros, a proa e a popa seguindo o desenho.
+4. Una as tábuas laterais inferiores com blocos de madeira por dentro.
+5. Marque nessas tábuas a posição de cada quadro.
+6. Monte no chão as laterais inferiores, os quadros, a proa e a popa.
+7. Prenda os reforços e complete as laterais com as tábuas seguintes.
+8. Pré-fure os furos das fixações para não rachar a madeira.
+9. Use pregos com diâmetro de pelo menos 1/7 da espessura da tábua.
+10. Use pregos com comprimento de pelo menos 2,5 vezes essa espessura.
+11. Vire o barco e confira o encaixe das tábuas do fundo nas laterais.
+12. Forre o fundo da proa para a popa, tábua por tábua.
+13. Deixe uma folga de uma lâmina de serra entre as tábuas do fundo.
+14. Aplique estopa e massa betuminosa na junta entre fundo e laterais.
+15. Calafete todas as juntas com ferramenta própria, não com formão.
+16. Passe preservativo na madeira e pinte o fundo com tinta betuminosa.
+17. Amarre o barco à margem e deixe flutuar alguns minutos.
+18. Entre só depois de conferir que não entra água.
+19. Reme em água parada ou lenta, perto da margem.
+
+ATENCAO
+-------
+Ao errar, o barco afunda ou vira: correnteza e água fria podem matar.
+Fundos chatos servem só para águas protegidas, rios lentos e lagos.
+Não use em mar aberto, ondas, corredeira, cachoeira ou maré.
+Madeira que encolhe e incha abre as juntas e causa vazamento.
+Pregos comuns enferrujam e soltam: use somente galvanizados.
+Navegar sem testar a flutuação pode afundar o barco com a carga.
+Sem prática de carpintaria, procure um construtor experiente.
+Use flutuador preso ao corpo e nunca navegue sozinho em água funda.
+Se o barco entrar água, virar ou a corrente vencer, volte à margem.
+
+SE NAO TIVER
+------------
+Sem estopa, use algodão limpo; não use pano sintético que não incha.
+Sem massa betuminosa, não declare o barco pronto: a junta vai vazar.
+Sem pregos galvanizados, use parafusos galvanizados, nunca ferro comum.
+Sem ferramenta própria, não calafete com metal cortante.
+Sem desenho testado ou prática, não construa.
+Use uma jangada (veja 16-012) ou uma canoa (veja 16-013).
+
+COMO SABER QUE DEU CERTO
+------------------------
+O barco flutua nivelado e não entra água após alguns minutos.
+As juntas não deixam passar água quando o fundo é molhado por dentro.
+As fixações não se soltam ao puxar com a mão.
+O barco avança com o remo e mantém a rota em água parada.
+
+FONTES
+------
+Organização das Nações Unidas para Alimentação e Agricultura (FAO),
+"Fishing boat designs: 1. Flat bottom boats", Technical Paper 117.
+FAO, "Fishing boat designs: 2. V-bottom boats of planked and plywood
+construction", Technical Paper 134 (2004), sobre construção com tábuas.
+FAO, "Building small wooden boats in Myanmar" (2009), manual passo a passo.
+Manual de sobrevivência FM 21-76 do Exército dos Estados Unidos,
+capítulo 17, sobre travessias de água e cuidados com a flutuação.
+Resumo operacional; não substitui desenho naval nem treinamento.

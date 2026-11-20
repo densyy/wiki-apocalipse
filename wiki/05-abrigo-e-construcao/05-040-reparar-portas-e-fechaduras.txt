@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 05-040
+TITULO: Como reparar portas e fechaduras
+CATEGORIA: 05 - Abrigo, construção e habitação
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: chave de fenda, martelo, parafusos e porta acessivel
+REVISAO: 2026-11
+PALAVRAS-CHAVE: porta, fechadura, dobradica, trinco, chave, reparar
+==============================================================================
+
+OBJETIVO
+--------
+Deixar a porta fechando firme e a fechadura travando de novo.
+
+QUANDO USAR
+-----------
+Quando a porta range, enrosca ou nao fecha ate o fim.
+Quando a dobradica esta solta ou com parafuso espanado.
+Quando a chave gira em falso ou o trinco nao entra.
+
+NAO USE QUANDO
+--------------
+Se a porta ou o batente esta rachado e pode cair em alguem.
+Se a fechadura e eletrica ou tem fio ligado a energia.
+
+MATERIAIS
+---------
+- Chave de fenda comum e Phillips (faca, moeda grossa).
+- Martelo ou pedra lisa e pesada (pedaco de madeira dura).
+- Parafusos curtos e longos de reserva (pregos grossos).
+- Oleo de cozinha ou sabao em barra (grafite de lapis).
+- Cunha de madeira, lixa grossa e pano limpo.
+
+PROCEDIMENTO
+------------
+1. Abra e feche devagar para achar onde prende ou range.
+2. Aperte todos os parafusos das dobradicas sem forcar.
+3. Troque o parafuso espanado por um maior e mais longo.
+4. Levante a porta pelo puxador e teste o movimento livre.
+5. Lixe aos poucos onde a madeira prende no batente.
+6. Pingue oleo ou esfregue sabao no trinco e na dobradica.
+7. Empurre a porta de leve antes de girar a chave.
+8. Ajuste a chapa do batente ate o trinco entrar sem forca.
+9. Teste fechar e abrir cerca de dez vezes seguidas.
+
+ATENCAO
+-------
+Porta pesada solta cai e esmaga dedos, maos e pes.
+Lascas e pontas de parafuso cortam: proteja a mao ao lixar.
+Nao force a chave: ela quebra dentro e trava tudo de vez.
+Este reparo nao segura arrombamento nem batente condenado.
+Se o batente balanca na parede, pare e escore antes.
+
+SE NAO TIVER
+------------
+Sem parafuso maior, enfie palitos no furo e reuse o antigo.
+Sem oleo, esfregue grafite de lapis ou sabao seco no trinco.
+Sem lixa, raspe com faca longe do corpo e bem aos poucos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A porta abre e fecha sem empurrar, puxar ou levantar.
+A chave gira macia e o trinco entra inteiro no batente.
+
+FONTES
+------
+Pratica consolidada de manutencao domestica de portas
+(familias de referencia: FEMA, IFRC e manual militar de
+sobrevivencia civil). Resumo operacional, sem treinamento.

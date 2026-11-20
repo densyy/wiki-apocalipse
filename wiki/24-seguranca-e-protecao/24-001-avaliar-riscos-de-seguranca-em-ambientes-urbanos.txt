@@ -1,0 +1,94 @@
+==============================================================================
+CODIGO: 24-001
+TITULO: Como avaliar riscos de segurança em ambientes urbanos
+CATEGORIA: 24 - Segurança pessoal e proteção comunitária
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: papel, lápis, mapa da região (ou desenho feito à mão)
+REVISAO: 2026-11
+PALAVRAS-CHAVE: risco, segurança, urbano, ameaça, fuga, vulnerabilidade
+==============================================================================
+
+OBJETIVO
+--------
+Avaliar os riscos de uma área urbana antes de atravessá-la ou ficar nela.
+
+QUANDO USAR
+-----------
+Antes de cruzar uma região desconhecida a pé ou de bicicleta.
+Ao escolher onde parar, descansar ou passar a noite.
+Quando apagão, chuva forte ou protesto mudar as condições da rua.
+Ao planejar a saída de um prédio, de um bairro ou de um abrigo.
+Depois de ouvir relatos de assalto, incêndio ou deslizamento na região.
+
+NAO USE QUANDO
+--------------
+Não use no lugar de ordem oficial da Defesa Civil, dos Bombeiros ou da
+polícia. Se houver alerta de evacuação, saia de imediato pela rota indicada.
+Não use para entrar em área interditada nem perto de fio caído ou vazamento
+de gás.
+
+MATERIAIS
+---------
+- Papel e lápis (ou caderno e caneta).
+- Mapa impresso da região (ou desenho feito à mão).
+- Relógio ou outro meio de medir o tempo.
+- Informações de moradores, comerciantes e agentes da região.
+
+PROCEDIMENTO
+------------
+1. Defina o limite da área: um trajeto, uma quadra ou um prédio.
+2. Desenhe esse limite e marque a partida e o destino.
+3. Desenhe as ruas que pretende usar e as ruas ao redor.
+4. Liste ameaças específicas, não genéricas. Exemplo: assalto na praça,
+   fio de alta tensão caído, prédio rachado, ponto que sempre alaga.
+5. Para cada ameaça, anote o local, o horário e a condição em que ocorre.
+6. Marque cada ameaça no desenho, no ponto exato onde foi vista ou relatada.
+7. Anote quem pode ser atingido e o que falta para se proteger: luz, saída,
+   informação ou ajuda.
+8. Classifique a chance: improvável, possível ou provável.
+9. Classifique a consequência como leve, moderada ou grave para quem não tem
+   treino.
+10. Cruze as duas classificações. Provável com grave vem primeiro.
+11. Trace uma rota de fuga e outra alternativa para cada ameaça grave.
+12. Marque pontos onde pode parar com segurança: posto de saúde, escola,
+    igreja ou local movimentado e iluminado.
+13. Decida antes de sair: se a ameaça for provável e grave, não entre.
+14. Use a rota alternativa e avise alguém de onde vai e quando volta.
+15. Refaça a avaliação se mudar o horário, o tempo ou o movimento da rua.
+
+ATENCAO
+-------
+Uma avaliação feita de longe não substitui olhar o local com cuidado.
+Ameaça genérica, como "a cidade é perigosa", não ajuda a decidir.
+Multidão em protesto pode virar conflito sem aviso: fique longe.
+Fio caído, gás, fogo e prédio danificado matam. Não toque, não entre, avise.
+O fogo em lugar fechado produz monóxido de carbono, que mata sem cheiro.
+O que era seguro ontem pode não ser hoje. O risco muda com o tempo.
+Confiar só no celular é risco: a bateria acaba e o sinal cai na emergência.
+Esta avaliação reduz a exposição, mas não elimina a ameaça nem substitui
+a força pública.
+
+SE NAO TIVER
+------------
+Sem mapa impresso, desenhe as ruas à mão. O traço simples já serve.
+Sem papel, use uma folha de jornal ou marque o chão com pedras.
+Sem relato de moradores, observe por alguns minutos antes de entrar.
+Sem informação confiável, trate a ameaça como presente e mude de rota.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O desenho mostra o trajeto, as ameaças, duas rotas e os pontos seguros.
+Cada ameaça tem uma classificação de chance e de consequência anotada.
+A rota escolhida evita as ameaças prováveis e graves.
+Você consegue dizer, sem olhar o papel, por que entrou ou não entrou.
+
+FONTES
+------
+Ministério da Integração e do Desenvolvimento Regional, Secretaria Nacional
+de Proteção e Defesa Civil: mapeamento de áreas de risco, rotas de fuga e
+rotas alternativas. Federação Internacional das Sociedades da Cruz Vermelha
+e do Crescente Vermelho, guia Stay Safe: avaliação de risco de segurança,
+com ameaças específicas, probabilidade, impacto e matriz de risco. Cruz
+Vermelha Brasileira, guia Fique seguro! Um guia de segurança: informação
+atualizada, proteção e ações antes e durante ocorrências.

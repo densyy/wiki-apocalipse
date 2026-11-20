@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 09-005
+TITULO: Como construir uma antena dipolo
+CATEGORIA: 09 - Comunicação, informação e navegação
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: fio de cobre, isoladores, cabo coaxial com balun, dois suportes altos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: antena, dipolo, rádio, fio, coaxial, balun, ondas curtas
+==============================================================================
+
+OBJETIVO
+--------
+Montar um dipolo de meia onda que amplia o alcance do rádio em HF.
+
+QUANDO USAR
+-----------
+Quando o rádio de ondas curtas (HF, 3 a 30 MHz) usa só o chicote.
+Quando há dois suportes e fio para falar com um ponto distante.
+
+NAO USE QUANDO
+--------------
+Perto de fios de energia ou linhas de transmissão: risco de morte.
+Com raios, sem dois suportes ou sem balun para transmitir.
+
+MATERIAIS
+---------
+- Fio de cobre ou aço cobreado, sem emendas.
+- Balun 1:1 (liga o coaxial à antena equilibrada e evita choque).
+- Dois isoladores para as pontas do fio.
+- Cabo coaxial com conector e dois suportes altos com corda.
+- Trena, alicate, fita e mola ou câmara de ar.
+
+PROCEDIMENTO
+------------
+1. Escolha a frequência de trabalho, em MHz, e anote o valor.
+2. Calcule o fio total em metros: 143 dividido pela frequência em MHz.
+3. Divida por dois: esse é o comprimento de cada braço.
+4. Corte cada braço mais longo; apare aos poucos no ajuste final.
+5. Prenda os dois braços no balun ou no isolador central.
+6. Ligue o fio central do coaxial a um braço e a malha ao outro.
+7. Prenda um isolador em cada ponta do fio.
+8. Amarre cordas nos isoladores e estique os braços sobre os suportes.
+9. Prenda mola ou câmara de ar numa ponta para absorver o balanço.
+10. Conecte o coaxial com o rádio desligado e afaste as pessoas.
+11. Meça o SWR (razão de onda estacionária); apare até perto de 1.
+
+ATENCAO
+-------
+A antena nunca pode encostar em fios de energia ou linhas de transmissão.
+Se não houver distância segura, desmonte: o contato com a rede pode matar.
+Sem balun, a malha do coaxial pode dar choque em quem toca no rádio.
+Faixa estreita: aproximadamente 2% a 3% de cada lado; as fontes divergem.
+Com raios, desligue e baixe a antena; evite isolador de pano ou corda.
+
+SE NAO TIVER
+------------
+Sem balun, enrole 10 voltas de coaxial em espiral de aproximadamente 15 cm.
+Prenda a espira com fita no centro: só para emergência.
+Sem suportes, use o chicote; sem isolador, use plástico ou vidro.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os braços ficam horizontais, iguais e sem tocar em árvore ou metal.
+O rádio capta mais estações fracas; com medidor, o SWR fica perto de 1.
+
+FONTES
+------
+Field Antenna Handbook, ECAC-CR-83-200, DoD (1984); A Field Guide to
+Simple HF Dipoles, Stanford Research Institute para o Exército dos EUA.

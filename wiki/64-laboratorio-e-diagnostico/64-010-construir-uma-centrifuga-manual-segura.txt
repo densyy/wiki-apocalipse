@@ -1,0 +1,95 @@
+==============================================================================
+CODIGO: 64-010
+TITULO: Como construir uma centrífuga manual segura
+CATEGORIA: 64 - Laboratório, diagnóstico e análises
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: batedor de ovos manual, disco rígido, tubos iguais
+REVISAO: 2026-11
+PALAVRAS-CHAVE: centrífuga, manual, batedor, sangue, plasma, girar, seguro
+==============================================================================
+
+OBJETIVO
+--------
+Montar um girador manual capaz de separar o plasma do sangue coletado.
+
+QUANDO USAR
+-----------
+Quando não há energia elétrica para uma centrífuga comercial.
+Quando é preciso separar plasma de uma amostra de sangue.
+Quando é preciso clarear um líquido com partículas em suspensão.
+Quando o laboratório não dispõe de aparelho elétrico.
+
+NAO USE QUANDO
+--------------
+Não use com líquidos inflamáveis, voláteis ou radioativos.
+Não use sem proteção ocular e sem tampa que contenha estilhaços.
+
+MATERIAIS
+---------
+- Batedor de ovos manual com engrenagens (ou furadeira manual de cabo).
+- Disco rígido de madeira ou plástico com cerca de 15 a 20 cm (tampa).
+- Dois ou quatro tubos iguais, com tampa, todos do mesmo peso.
+- Suporte rígido para fixar o eixo do batedor (madeira ou metal).
+- Parafusos, arruelas e presilhas para prender os tubos.
+- Tampa protetora: pote plástico rígido ou tigela metálica sem rachaduras.
+- Papel almofadado ou espuma para envolver os tubos.
+- Óculos de proteção e luvas descartáveis.
+
+PROCEDIMENTO
+------------
+1. Monte o suporte rígido sobre uma base pesada e estável.
+2. Fixe o batedor de ovos ao suporte, com o eixo na vertical.
+3. Prenda o disco ao eixo do batedor, bem centralizado.
+4. Marque no disco os pontos dos tubos, em pares opostos.
+5. Prenda as presilhas nos pontos marcados, na mesma distância do centro.
+6. Envolva cada tubo com papel almofadado.
+7. Prenda cada tubo em uma presilha.
+8. Coloque a tampa protetora sobre o disco.
+9. Confira que a tampa não encosta nas peças girantes.
+10. Gire o batedor devagar com a mão.
+11. Observe se o disco treme ou solta peça.
+12. Pare e corrija se notar tremor ou peça solta.
+13. Encha os tubos com a mesma quantidade de líquido.
+14. Feche bem a tampa de cada tubo.
+15. Coloque os tubos nas presilhas, em pares opostos.
+16. Feche a tampa protetora.
+17. Calce os óculos de proteção.
+18. Gire o batedor de forma contínua e crescente por alguns minutos.
+19. Pare de girar.
+20. Espere o disco parar por completo.
+21. Abra a tampa e retire os tubos.
+22. Observe se o líquido ficou separado em camadas.
+
+ATENCAO
+-------
+Uma peça que se solta pode voar com força e ferir os olhos.
+Use óculos de proteção e mantenha a tampa fechada durante o giro.
+Tubos desbalanceados fazem o aparelho vibrar e quebrar.
+Nunca ultrapasse a velocidade que as mãos conseguem controlar.
+Não abra a tampa com o disco ainda girando.
+Amostras de sangue podem conter agentes infecciosos: use luvas.
+Se o aparelho rachar ou soltar peça, pare e troque a peça danificada.
+Desinfete os tubos e a tampa depois de cada uso.
+
+SE NAO TIVER
+------------
+Sem batedor com engrenagens, use uma furadeira manual de cabo.
+Sem disco rígido, use uma tampa de pote plástico reta e sem rachaduras.
+Sem presilhas, amarre os tubos com arame firme, equilibrando os pares.
+Se não houver proteção ocular, não construa o aparelho.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Depois do giro, o líquido mostra camada clara no topo e escura no fundo.
+O disco gira sem tremer e sem ruído de atrito.
+Nenhuma peça ficou solta e a tampa permaneceu presa.
+
+FONTES
+------
+Brown e colaboradores, centrífuga manual de baixo custo para diagnosticar
+anemia, American Journal of Tropical Medicine and Hygiene, 2011.
+Wong e colaboradores, batedor de ovos usado como centrífuga para isolar
+plasma, revista Lab on a Chip, 2008.
+Bhamla e colaboradores, centrífuga de papel acionada à mão, Nature
+Biomedical Engineering, 2017.

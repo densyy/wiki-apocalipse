@@ -1,0 +1,102 @@
+==============================================================================
+CODIGO: 48-013
+TITULO: Como montar uma unidade de desidratação de alimentos
+CATEGORIA: 48 - Produção de alimentos em escala comunitária
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: madeira, tela, pregos, fonte de calor, termômetro, bandejas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: desidratação, secar, desidratador, bandeja, calor, mofo
+==============================================================================
+
+OBJETIVO
+--------
+Ao terminar, o grupo consegue secar frutas e verduras em bandejas.
+
+QUANDO USAR
+-----------
+- Quando a comunidade tem excedente de frutas, verduras ou tubérculos.
+- Quando parte da colheita pode apodrecer antes do consumo.
+- Quando falta gelo, câmara fria ou energia para conservar.
+- Quando o grupo quer armazenar comida leve e durável.
+- Quando se quer reduzir perdas depois da colheita.
+
+NAO USE QUANDO
+--------------
+- Não use para desidratar carne, peixe ou produtos de origem animal.
+- Não use para alimentos com mofo, podridão ou cheiro estranho.
+- Não use em local fechado sem saída para gases e umidade.
+- Não use se não houver água potável para higiene e branqueamento.
+- Não use para substituir tratamento de água ou conserva segura.
+
+MATERIAIS
+---------
+- Madeira ou compensado para montar a caixa (ou caixa de madeira pronta).
+- Tela de arame ou rede para as bandejas (ou peneira de malha fina).
+- Pregos, parafusos ou arame para fixar a tela.
+- Fonte de calor: fogo, braseiro ou sol (com proteção e ventilação).
+- Termômetro de cozinha que meça até 80 graus Celsius.
+- Bandejas removíveis com borda de aproximadamente 2 centímetros.
+- Pano limpo, sabão e água potável para higienizar.
+- Recipientes fechados e secos para guardar o produto.
+- Papel ou caderno para registrar data, alimento e peso.
+
+PROCEDIMENTO
+------------
+1. Escolha um local seco, arejado e longe de fumaça, poeira e animais.
+2. Monte a caixa com madeira, com entrada de ar na parte baixa.
+3. Abra uma saída de ar na parte alta para a umidade escapar.
+4. Estique a tela nas bandejas e fixe a borda com pregos ou arame.
+5. Coloque as bandejas em níveis, com espaço livre entre elas.
+6. Instale o termômetro na altura das bandejas, fora do calor direto.
+7. Aqueça o ar até aproximadamente 60 a 70 graus Celsius.
+8. Ajuste entrada e saída de ar para manter essa faixa de temperatura.
+9. Lave as mãos, as bandejas e as superfícies com água potável e sabão.
+10. Lave os alimentos e descarte os que estiverem estragados.
+11. Corte fatias uniformes de aproximadamente 5 milímetros.
+12. Branqueie verduras em água fervente por poucos minutos e escorra.
+13. Espalhe em camada única, sem sobrepor as fatias.
+14. Coloque as bandejas na caixa e feche as laterais.
+15. Meça a temperatura a cada hora e ajuste se passar de 70 graus.
+16. Vire as fatias e troque as bandejas de lugar a cada duas horas.
+17. Retire quando ficarem quebradiças (verduras) ou flexíveis (frutas).
+18. Espere esfriar completamente antes de guardar.
+19. Condicione em recipiente fechado por 2 a 5 dias, mexendo a cada dia.
+20. Guarde em recipiente seco, fechado, escuro e fresco.
+
+ATENCAO
+-------
+- Acima de 70 graus o alimento cozinha e forma crosta.
+- Ar muito úmido ou parado não seca; deixe entrada e saída livres.
+- Secagem insuficiente deixa umidade que permite mofo e bactérias.
+- Ferver e secar não matam todos os microrganismos; higienize tudo.
+- Fogo perto de madeira pode incendiar a caixa; nunca deixe sem vigilância.
+- Fogo em local fechado produz monóxido de carbono; ventile sempre.
+- Não desidrate carne ou peixe sem protocolo específico de calor.
+- Com mofo, cheiro azedo ou umidade na embalagem, descarte o lote.
+- Este texto não substitui treinamento nem orientação sanitária.
+
+SE NAO TIVER
+------------
+- Sem caixa pronta, use uma caixa de madeira forrada com tela.
+- Sem termômetro, comece com calor brando e observe cor e textura.
+- Sem tela, use pano limpo firme preso em bastidor de madeira.
+- Sem fogo, use secagem ao sol com sombra parcial e muita ventilação.
+- Sem branqueamento, corte mais fino e aceite cor e sabor menores.
+- Sem recipiente vedado, use pote de vidro com tampa limpa e seca.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- A temperatura ficou entre aproximadamente 60 e 70 graus durante a secagem.
+- Verduras quebram facilmente e frutas ficam flexíveis, sem umidade visível.
+- Não há gotas de água na parede do recipiente após o resfriamento.
+- O produto não tem cheiro azedo, mofo nem insetos.
+- Cada lote tem data, alimento e peso anotados no caderno.
+
+FONTES
+------
+- Publicacao da FAO sobre vegetais secos: secagem de 40 a 70 graus Celsius.
+- FAO, processamento de frutas: secagem de frutas a 60-70 graus Celsius.
+- FAO, perdas pos-colheita: umidade critica de 10 a 15 por cento.
+- Orientacoes de extensao universitaria sobre secagem de alimentos.
+- Pratica consolidada de secagem comunitaria, sem documento unico.

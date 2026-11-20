@@ -1,0 +1,91 @@
+==============================================================================
+CODIGO: 32-005
+TITULO: Como fabricar recipientes de vidro
+CATEGORIA: 32 - Produção industrial e manufatura artesanal
+TEMPO: 90 minutos
+RISCO: alto
+EXIGE: forno quente, cacos de vidro limpos, molde, pinça, luvas, óculos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: vidro, cacos, reciclar, fundir, molde, recipiente, forno
+==============================================================================
+
+OBJETIVO
+---------
+Fundir cacos de vidro limpos e moldar um pote pequeno e recozido.
+
+QUANDO USAR
+-----------
+Quando há cacos transparentes limpos e forno que atinge alta temperatura.
+Quando falta recipiente rígido e transparente para guardar alimentos secos.
+Quando se quer reaproveitar vidro em vez de descartá-lo.
+Quando há molde metálico e tempo para resfriar com cuidado.
+
+NAO USE QUANDO
+--------------
+Sem forno que atinja aproximadamente 1100°C, não tente.
+Areia comum sozinha não vira vidro nessa temperatura.
+Não use cacos temperados, laminados, espelhados ou de lâmpada.
+Não use vidro com tinta, rótulo, cola ou resíduo químico.
+Não use se houver cheiro de combustível ou produto de limpeza.
+
+MATERIAIS
+---------
+- Cacos transparentes do mesmo tipo e cor (garrafas de bebida).
+- Molde metálico pequeno, limpo e sem ferrugem (lata de aço).
+- Pinça de ferro longa para manusear o molde quente.
+- Luvas grossas de couro e óculos de proteção.
+- Forno a lenha, carvão ou elétrico que atinja aproximadamente 1100°C.
+- Pano limpo, água e sabão para limpar os cacos.
+- Tijolo refratário para apoiar o molde quente.
+- Local ventilado, longe de crianças, animais e material inflamável.
+
+PROCEDIMENTO
+------------
+1. Separe apenas cacos transparentes do mesmo tipo e da mesma cor.
+2. Retire rótulos, tampas, arame e qualquer pedaço de plástico.
+3. Lave os cacos com água e sabão e enxágue bem.
+4. Quebre os cacos em pedaços de aproximadamente 1 a 2 cm.
+5. Coloque os pedaços no molde metálico até a metade da altura.
+6. Preaqueça o forno até aproximadamente 1100°C e mantenha estável.
+7. Coloque o molde no centro do forno com a pinça longa.
+8. Feche a porta e espere até o vidro brilhar e fluir, sem grãos brancos.
+9. Retire o molde com a pinça e apoie sobre o tijolo refratário.
+10. Espere o vidro descer para aproximadamente 540°C, sem correntes de ar.
+11. Mantenha essa temperatura por alguns minutos para aliviar tensões.
+12. Cubra com caixa de papelão e deixe esfriar devagar.
+13. Quando estiver frio, desmolde e retire rebarbas com uma lima.
+14. Lave o pote antes de usar e descarte se estiver rachado.
+
+ATENCAO
+-------
+Vidro fundido queima a pele na hora e gruda no metal como cera quente.
+Nunca pegue o molde com a mão, mesmo minutos depois de fora do forno.
+Use óculos: cacos podem estourar e projetar vidro nos olhos.
+Cacos de vidro temperado explodem ao serem aquecidos; não os use.
+Vidro com tinta, cola ou plástico solta fumaça tóxica; descarte esses cacos.
+O forno atinge temperatura que acende madeira, papel e roupa; afaste-os.
+Nunca coloque madeira ou plástico dentro do forno para acelerar o calor.
+Sem termômetro, a temperatura é incerta e o pote pode rachar ao esfriar.
+Se o vidro rachar, fumear muito ou o fogo escapar, pare e afaste-se.
+
+SE NAO TIVER
+------------
+Sem molde metálico, use lata de aço limpa, sem tinta e sem revestimento.
+Não use molde de plástico, cerâmica comum ou vidro: quebram ou derretem.
+Sem termômetro, confie no brilho alaranjado, mas aceite risco de rachadura.
+Sem forno quente, não improvise com fogão ou churrasqueira: não chega lá.
+Nesse caso, guarde os cacos limpos até conseguir um forno adequado.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O vidro ficou transparente, sem grãos brancos e sem bolhas grandes.
+O pote manteve a forma do molde depois de frio.
+Não há rachaduras visíveis nem bordas que cortam ao passar o dedo.
+
+FONTES
+------
+Prática consolidada de re-fusão de cacos de vidro em fornos de estúdio.
+Corning: composição do vidro soda-cal e ponto de fusão da sílica.
+National Glass Association, papel FM05-12 (2023): composição e recozimento.
+Guardian Glass: proporções de sílica, soda e calcário e uso de cullet.
+Clean Washington Center: preparo e limpeza de cullet para re-fusão.

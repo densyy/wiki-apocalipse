@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 17-016
+TITULO: Como construir sistemas de proteção contra vento
+CATEGORIA: 17 - Meteorologia, clima e meio ambiente
+TEMPO: 2 dias
+RISCO: alto
+EXIGE: estacas, arame ou tela, mudas resistentes, pá, luvas, óculos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: vento, ventania, quebra-vento, proteção, estaca, horta
+==============================================================================
+
+OBJETIVO
+--------
+Erguar uma barreira de árvores ou estacas que reduza o vento
+sobre a casa, a horta e o solo.
+
+QUANDO USAR
+-----------
+Quando o vento derruba o plantio, levanta poeira ou resseca a terra.
+Quando uma horta ou um pomar novo precisa de abrigo permanente.
+Quando o terreno é aberto e não há árvores ao redor da casa.
+Quando poeira ou areia avança sobre a área cultivada a cada ventania.
+
+NAO USE QUANDO
+--------------
+Não sirva como abrigo contra vendaval, tornado ou furacão.
+Nesses casos, entre em construção resistente e fique em cômodo
+interior, longe de janelas.
+Não plante onde passam fios elétricos ou tubulações, nem junto
+a fundações.
+
+MATERIAIS
+---------
+- Estacas de madeira resistente ou tubos de metal.
+- Arame, tela de arame ou corda resistente.
+- Mudas de árvores ou arbustos nativos, de copa densa e raiz profunda.
+- Pá ou enxada.
+- Luvas e óculos de proteção.
+- Fita métrica e corda para marcar a linha.
+- Água para regar as mudas.
+
+PROCEDIMENTO
+------------
+1. Observe a direção do vento por dois ou três dias.
+2. Anote para onde a poeira, a fumaça e as copas se inclinam.
+3. Marque no solo uma linha perpendicular a essa direção.
+4. Posicione a linha entre o vento e a área a proteger.
+5. Decida a altura da barreira e meça com a fita métrica.
+6. Cave furos de aproximadamente 60 cm para as estacas.
+7. Enterre cada estaca e firme a terra ao redor com o pé.
+8. Prenda o arame ou a tela às estacas com grampos ou voltas de arame.
+9. Deixe a barreira parcialmente vazada: nunca use chapa lisa fechada.
+10. Fixe estacas diagonais nos extremos e a cada aproximadamente 3 metros.
+11. Cave covas para as mudas ao longo da linha.
+12. Deixe aproximadamente 2 metros entre uma cova e outra.
+13. Plante as mudas e cubra as raízes com terra.
+14. Regue cada muda até o solo ficar úmido.
+15. Pode galhos secos e troque mudas mortas a cada estação.
+
+ATENCAO
+-------
+Uma barreira de árvores não segura vento extremo. Em vendaval, entre
+em prédio resistente e fique em cômodo interior, longe de janelas.
+Galho podre ou árvore mal fixada pode cair e matar. Pode galhos secos.
+Barreira totalmente fechada cria turbulência e recebe mais força do
+vento. Use material vazado e ancore bem as estacas.
+Não cave sem confirmar onde passam fios e tubulações. Cave à mão e
+pare se encontrar cabo.
+Use luvas e óculos: estaca, arame e galho cortam.
+Com vento forte, não suba em escada nem trabalhe no telhado. Pare e
+entre em abrigo.
+Raiz agressiva pode rachar fundação e tubulação. Escolha mudas nativas.
+Árvore doente junto à casa: remova com ajuda especializada.
+
+SE NAO TIVER
+------------
+Sem mudas, use estacas e tela como barreira temporária. Ancore bem e
+troque por árvores depois.
+Sem tela, tranque galhos entre as estacas, deixando espaços vazados.
+Sem pá, use enxada ou ferramenta de jardinagem. Não improvise com
+lâmina de metal solta.
+Sem condição de cavar, reduza a promessa: afaste objetos soltos, pode
+galhos e prepare um cômodo interior para abrigo.
+Barreira sem fixação pode virar projétil.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A poeira e as folhas param de avançar para o lado protegido.
+As mudas brotam e ficam firmes depois do primeiro vento forte.
+A barreira continua presa, sem estacas inclinadas nem arame solto.
+O solo do lado protegido fica mais úmido que o lado exposto.
+
+FONTES
+------
+National Weather Service (NWS/NOAA): orientações Wind, Before a High
+Wind Event e During a High Wind Event. Uso para poda de galhos,
+fixação de objetos soltos, abrigo em cômodo interior e afastamento
+de árvores e fios elétricos.
+Prática consolidada de agroflorestia e quebra-ventos (cortinas de
+proteção), sem documento único consultado nesta sessão.

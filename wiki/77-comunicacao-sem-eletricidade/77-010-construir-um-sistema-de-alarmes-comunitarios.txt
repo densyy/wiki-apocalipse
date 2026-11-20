@@ -1,0 +1,79 @@
+==============================================================================
+CODIGO: 77-010
+TITULO: Como construir um sistema de alarmes comunitários
+CATEGORIA: 77 - Comunicação anterior à eletricidade
+TEMPO: 120 minutos
+RISCO: baixo
+EXIGE: emissor de som, corda firme, suporte alto e combinado escrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: alarme, aviso, comunidade, emergência, sino, apito, sinal
+==============================================================================
+
+OBJETIVO
+--------
+Criar um aviso que chega rápido a todas as casas quando há perigo.
+
+QUANDO USAR
+-----------
+Quando as casas estiverem espalhadas e não houver telefone.
+Para avisar de incêndio, animal solto ou chegada de estranhos.
+Quando o perigo exige que todos ajam ao mesmo tempo.
+Ao reunir a comunidade para uma decisão urgente.
+
+NAO USE QUANDO
+--------------
+Não use alarme que só uma pessoa sabe acionar.
+Não use se o som atrapalhar doentes sem combinado antes.
+Não dispare falso alarme por brincadeira.
+
+MATERIAIS
+---------
+- Sino, apito, corneta ou panela de ferro (qualquer emissor de som).
+- Corda resistente ou arame para prender o emissor (cipó).
+- Mastro, torre ou árvore firme no ponto mais alto (viga de madeira).
+- Tabela escrita com sinal, significado e quem aciona.
+- Apito ou bastão de reserva em cada ponta da comunidade.
+
+PROCEDIMENTO
+------------
+1. Escolha o ponto mais alto e central da comunidade.
+2. Teste o emissor e confirme se o som chega às casas distantes.
+3. Prenda o emissor ao suporte com corda ou arame firme.
+4. Combine poucos sinais: um para reunião, dois para perigo.
+5. Reserve três toques seguidos para aviso de incêndio.
+6. Escreva a tabela e fixe-a perto do emissor e em cada casa.
+7. Escolha duas pessoas em cada ponta para acionar o alarme.
+8. Defina quem decide o disparo e quem corre por ajuda.
+9. Ensaie o alarme uma vez por semana com a comunidade.
+10. Combine um sinal para avisar que o perigo passou.
+11. Troque a corda e o suporte antes que apodreçam.
+12. Anote em um caderno cada disparo e o seu motivo.
+
+ATENCAO
+-------
+Alarme sem combinado escrito gera confusão e atrasa a ajuda.
+Falso alarme repetido faz a comunidade parar de reagir.
+Corda molhada ou podre cede e deixa o emissor cair.
+Emissor de metal com borda cortante pode ferir quem manuseia.
+Confirme o perigo antes de disparar para evitar pânico.
+Troque quem aciona se a pessoa se mudar ou adoecer.
+
+SE NAO TIVER
+------------
+Sem sino, use panela de ferro batida com colher de pau.
+Sem corda, prenda o emissor com cipó trançado ou arame.
+Sem torre, suba em árvore firme ou telhado seguro.
+Sem tabela, combine três sinais e repita em voz alta para todos.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O som é ouvido em todas as casas, inclusive nas mais distantes.
+Cada sinal é entendido sem explicação no momento do disparo.
+As pessoas sabem quem aciona e o que fazer ao ouvir.
+O ensaio semanal acontece sem feridos nem confusão.
+
+FONTES
+------
+Prática consolidada de avisos comunitários anteriores à eletricidade.
+O valor de cada sinal é sempre combinação local e deve ser registrado
+por escrito; não existe referência única para este procedimento.

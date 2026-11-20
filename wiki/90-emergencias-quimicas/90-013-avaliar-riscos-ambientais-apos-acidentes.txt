@@ -1,0 +1,81 @@
+==============================================================================
+CODIGO: 90-013
+TITULO: Como avaliar riscos ambientais após acidentes industriais
+CATEGORIA: 90 - Emergências químicas, industriais e ambientais
+TEMPO: 40 minutos
+RISCO: alto
+EXIGE: luvas, máscara, caderno de campo e orientação oficial
+REVISAO: 2026-11
+PALAVRAS-CHAVE: acidente, indústria, risco, comunidade, evacuação, alerta
+==============================================================================
+
+OBJETIVO
+---------
+Avaliar riscos ambientais após acidente industrial e proteger a comunidade.
+
+QUANDO USAR
+-----------
+Após explosão, incêndio ou vazamento em fábrica ou depósito.
+Quando houver cheiro forte, fumaça colorida ou nuvem sobre a vizinhança.
+Depois de acidente com transporte de carga perigosa.
+Quando moradores relatarem irritação, dor de cabeça ou náusea em conjunto.
+Ao receber comunicado oficial de risco para a região.
+
+NAO USE QUANDO
+--------------
+Não se aproxime da área do acidente para investigar por conta própria.
+Não confie apenas na ausência de cheiro para declarar a área segura.
+Não divulgue informação não confirmada à população.
+
+MATERIAIS
+---------
+- Luvas de nitrilo e máscara com filtro adequado.
+- Caderno e lápis para registrar fatos, horas e fontes.
+- Meio de comunicação para contatar a defesa civil.
+- Mapa simples do local com rios, poços, escolas e casas.
+- Roupas e calçados que possam ser trocados ao sair da área.
+
+PROCEDIMENTO
+------------
+1. Procure abrigo em local fechado e arejado antes de avaliar algo.
+2. Sintonize canais oficiais de emergência e defesa civil.
+3. Registre o que foi visto e ouvido, com hora e local.
+4. Identifique a substância apenas por informação oficial ou rótulo.
+5. Observe a direção do vento e a nuvem sem se expor.
+6. Anote se o material atinge rio, poço, horta ou escola.
+7. Liste moradores com sintomas e encaminhe para atendimento.
+8. Feche janelas e portas e desligue entradas de ar externo.
+9. Aguarde instrução oficial antes de sair do abrigo.
+10. Comunique à autoridade os pontos de maior exposição.
+11. Atualize o registro a cada nova informação confirmada.
+12. Só retome atividades externas após liberação oficial.
+
+ATENCAO
+-------
+Nuvens tóxicas podem se deslocar com o vento e alcançar áreas distantes.
+Muitos gases não têm cheiro e irritam apenas após horas de exposição.
+Crianças, idosos e pessoas com problemas respiratórios sofrem primeiro.
+Não confunda cheiro de queimado com ausência de risco químico.
+Evite dirigir para a área do acidente: isso atrapalha a resposta.
+Não consuma água de poço ou hortaliças da região sem orientação.
+Se houver ordem de evacuação, siga-a sem esperar confirmar o risco.
+
+SE NAO TIVER
+------------
+Sem máscara, permaneça em ambiente fechado e aguarde orientação.
+Sem meio de comunicação, procure vizinho ou posto oficial mais próximo.
+Sem mapa, descreva por escrito ruas, rios e pontos de referência.
+Sem informação oficial, trate a situação como risco e mantenha distância.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Os sinais foram registrados com hora e local e repassados à autoridade.
+A comunidade recebeu orientação e abrigos foram usados quando necessário.
+Nenhuma área foi declarada segura sem comunicado oficial.
+
+FONTES
+------
+Resumo de princípios de defesa civil e resposta a emergências químicas
+difundidos por órgãos oficiais. Procura de abrigo, registro de campo e
+acompanhamento de comunicados são condutas consolidadas em manuais de
+proteção à população.

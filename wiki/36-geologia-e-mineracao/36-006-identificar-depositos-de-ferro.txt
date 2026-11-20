@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 36-006
+TITULO: Como identificar depósitos de ferro
+CATEGORIA: 36 - Geologia, mineração e recursos naturais
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: ímã de mão, faca, bastão de porcelana branca, caderno
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ferro, minério, magnetita, hematita, ímã, prospecção
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer sinais e testar fragmentos que indicam ferro na natureza.
+
+QUANDO USAR
+-----------
+Ao procurar minério em rocha exposta na encosta.
+Ao examinar fragmentos escuros ou avermelhados na drenagem.
+
+NAO USE QUANDO
+--------------
+Não use para autorizar lavra, compra de terra ou investimento.
+Não entre em mina ativa ou área privada sem permissão.
+
+MATERIAIS
+---------
+- Ímã de mão (ímã de geladeira forte).
+- Faca ou chave de metal (para raspar).
+- Bastão de porcelana branca sem esmalte (cerâmica branca).
+- Caderno, lápis, saco pequeno e luvas de couro (pano grosso).
+
+PROCEDIMENTO
+------------
+1. Observe a cor do solo e dos fragmentos na encosta e no córrego.
+2. Escolha fragmentos densos, opacos e sem minerais claros misturados.
+3. Limpe a superfície do fragmento com água, pano ou escova.
+4. Raspe uma aresta com a faca e observe a cor do pó fresco.
+5. Esfregue o fragmento no bastão e veja o traço (cor do pó).
+6. Anote o traço: vermelho sugere hematita, preto sugere magnetita.
+7. Aproxime o ímã e registre se atrai forte, fraco ou não atrai.
+8. Repita os passos 2 a 7 em pelo menos três pontos da encosta.
+9. Guarde um fragmento com etiqueta de local e data.
+
+ATENCAO
+-------
+O traço é a cor do pó no bastão, diferente da cor da rocha.
+Hematita pode atrair fraco; não descarte só pelo ímã.
+Atração forte indica magnetita, mas não prova depósito explorável.
+Minério comum aparece em rocha sem valor econômico.
+Fragmentos cortam: use luvas e pare diante de mina ativa.
+O teste não mede teor nem profundidade; não autoriza lavra.
+
+SE NAO TIVER
+------------
+Sem ímã, use o traço e o peso com mais cautela.
+Sem bastão, esfregue em cerâmica branca sem esmalte.
+Nenhum teste caseiro substitui análise de laboratório.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você registrou em três pontos cor, traço e resposta ao ímã.
+Pelo menos um fragmento mostrou traço vermelho ou atraiu o ímã.
+
+FONTES
+------
+USGS, National Minerals Information Center, Iron Ore Statistics and
+Information: magnetita e hematita como óxidos principais de ferro.
+Prática consolidada de campo para o traço e o teste com ímã;
+sem documento institucional único consultado. Resumo operacional.

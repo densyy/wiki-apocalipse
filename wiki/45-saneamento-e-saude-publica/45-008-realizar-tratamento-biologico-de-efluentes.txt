@@ -1,0 +1,100 @@
+==============================================================================
+CODIGO: 45-008
+TITULO: Como realizar tratamento biológico de efluentes
+CATEGORIA: 45 - Engenharia de saneamento e saúde pública
+TEMPO: 300 minutos
+RISCO: alto
+EXIGE: luvas, máscara, dois barris plásticos, cascalho lavado, tubos
+REVISAO: 2026-11
+PALAVRAS-CHAVE: efluente, biológico, bactérias, biofiltro, biogás, esgoto
+==============================================================================
+
+OBJETIVO
+--------
+Reduzir a carga orgânica do efluente já decantado com bactérias e
+plantas, sem energia, antes da disposição final no terreno.
+
+QUANDO USAR
+-----------
+Quando o esgoto doméstico já passou por decantação ou fossa séptica.
+Quando não houver estação de tratamento nem energia no abrigo.
+Quando o efluente ainda tiver cheiro e cor depois de assentar.
+Quando for preciso preparar a água para uso no solo, não para beber.
+
+NAO USE QUANDO
+--------------
+Quando houver combustível, agrotóxico, metal, sal ou solvente.
+As bactérias não removem esses contaminantes e podem morrer.
+Quando não houver decantação prévia: sólidos entopem o biofiltro.
+Quando o efluente for para beber ou cozinhar; não fica potável.
+
+MATERIAIS
+---------
+- Dois barris plásticos limpos com tampa (tanques vedados).
+- Tubo ou mangueira grossa de entrada e saída (garrafa cortada).
+- Cascalho lavado e areia grossa (pedra britada lavada).
+- Lona impermeável e argila para vedar tampas e emendas.
+- Luvas de borracha, máscara e pano para respingos.
+- Régua, estacas, barbante e pá.
+- Decantação ou fossa séptica já em operação (veja 45-003).
+
+PROCEDIMENTO
+------------
+1. Confirme que o efluente vem de decantação ou fossa séptica.
+2. Escolha ponto a jusante, a aproximadamente 30 metros da água.
+3. Não cave onde a água subterrânea aparecer na escavação.
+4. Enterre o primeiro barril até a boca e vede a tampa.
+5. Encaixe o tubo de entrada na parte baixa do primeiro barril.
+6. Encaixe o tubo de saída na parte alta do primeiro barril.
+7. Instale um tubo de ventilação na tampa, voltado para cima.
+8. Afaste a ventilação de fogo e fogão; o gás é inflamável.
+9. Deixe o efluente aproximadamente 2 dias no primeiro barril.
+10. Enterre o segundo barril ao lado, um pouco mais baixo.
+11. Retire a tampa do segundo barril para entrar ar.
+12. Coloque aproximadamente 10 centímetros de areia no fundo.
+13. Encha com cascalho lavado até aproximadamente 50 centímetros.
+14. Espalhe o efluente do primeiro barril sobre o cascalho.
+15. Enterre o tubo de saída na parte baixa do segundo barril.
+16. Plante taboa ou junco no cascalho, se houver muda.
+17. Regue com água limpa até o cascalho ficar úmido, não seco.
+18. Observe a saída uma vez por dia por aproximadamente 7 dias.
+19. Nunca despeje químico, óleo, remédio ou desinfetante no sistema.
+
+ATENCAO
+-------
+O tratamento biológico reduz matéria orgânica, não mata patógenos.
+A água de saída não é potável: nunca beba nem cozinhe com ela.
+O primeiro barril produz biogás inflamável: nunca aproxime chama.
+Nunca entre no barril nem incline o rosto sobre a boca aberta.
+Gás preso em espaço fechado pode asfixiar; ventile antes de abrir.
+Use luvas e máscara; lave as mãos e não toque com feridas.
+Cheiro podre, água parada ou moscas indicam sobrecarga.
+Se o efluente brotar na superfície, pare de usar e peça ajuda.
+Com diarreia com sangue no grupo, isole o sistema e peça ajuda.
+
+SE NAO TIVER
+------------
+Sem segundo barril, use vala forrada com lona e cascalho.
+Sem cascalho, use pedra britada lavada; nunca use terra.
+Sem plantas, o biofiltro funciona pior, mas ainda atua.
+Sem pré-tratamento, monte a decantação antes (veja 45-003).
+Sem lona, use argila compactada; em solo arenoso não improvise.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O efluente entra escuro e sai mais claro e sem cheiro forte.
+Não há água parada sobre o cascalho nem enxame de moscas.
+O cascalho permanece úmido e as plantas criam folhas novas.
+O escoamento é contínuo, sem brotar na superfície do terreno.
+
+FONTES
+------
+Organização Mundial da Saúde (OMS), folha Saneamento, 5 de novembro
+de 2026, e Diretrizes para saneamento e saúde, guia de segurança
+do saneamento e uso seguro de água residual.
+Agência de Proteção Ambiental dos Estados Unidos (EPA), página
+Constructed Wetlands e documentos Constructed Treatment Wetlands
+(2004), Design Manual: Constructed Wetlands Treatment of Municipal
+Wastewater e Subsurface Flow Constructed Wetlands (1993).
+Tempos e distâncias são prática consolidada, sem fonte única
+consultada. Resumo operacional, não substitui treinamento.

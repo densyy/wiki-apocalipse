@@ -1,0 +1,89 @@
+==============================================================================
+CODIGO: 72-014
+TITULO: Como evitar intoxicação por combustão em ambientes fechados
+CATEGORIA: 72 - Sistemas de iluminação e óptica aplicada
+TEMPO: 30 minutos
+RISCO: critico
+EXIGE: detector de monóxido de carbono, ventilação, chaminé desobstruída
+REVISAO: 2026-11
+PALAVRAS-CHAVE: monóxido de carbono, gás, veneno, ventilação, detector
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer e evitar o monóxido de carbono em ambientes fechados.
+
+QUANDO USAR
+-----------
+- Ao acender fogão, lampião, aquecedor ou churrasqueira em casa.
+- Ao usar gerador ou motor a combustão perto de portas e janelas.
+- Ao dormir em ambiente com chaminé, estufa ou aquecedor a lenha.
+- Ao sentir dor de cabeça ou tontura perto de aparelhos que queimam.
+- Ao entrar em garagem com carro ligado ou depois de usar gerador.
+
+NAO USE QUANDO
+--------------
+Não há contraindicação conhecida para este procedimento de prevenção.
+Este guia não substitui socorro: com sintomas, saia ao ar e busque ajuda.
+
+MATERIAIS
+---------
+- Detector de monóxido de carbono (ou alarme combinado de fumaça e gás).
+- Chaminé ou duto de exaustão livre (ou abertura ampla de janelas).
+- Ventilação cruzada (duas janelas opostas ou ventilador para fora).
+- Fita adesiva ou pano para vedar frestas temporariamente.
+- Lanterna para evacuar o ambiente no escuro.
+
+PROCEDIMENTO
+------------
+1. Instale o detector perto dos quartos, no teto ou na parede alta.
+2. Pressione o botão de teste e confirme que o alarme soa.
+3. Troque as pilhas do detector a cada seis meses.
+4. Limpe a chaminé e o duto antes da primeira queima da estação.
+5. Retire folhas, ninhos e cinzas que bloqueiem a saída de fumaça.
+6. Abra duas janelas opostas antes de acender fogão ou aquecedor.
+7. Nunca queime carvão, lenha ou querosene em casa sem duto para fora.
+8. Nunca use churrasqueira, fogão de acampamento ou gerador dentro de casa.
+9. Nunca use gerador na garagem, mesmo com a porta aberta.
+10. Mantenha geradores a pelo menos 6 metros de portas e janelas.
+11. Nunca aqueça a casa com o forno do fogão ligado.
+12. Desligue a chama antes de dormir e antes de sair do ambiente.
+13. Ao ouvir o alarme ou sentir tontura, saia para o ar livre.
+14. Não reacenda o aparelho até achar a causa e ventilar o local.
+15. Se alguém desmaiar, leve a pessoa para fora e peça socorro médico.
+
+ATENCAO
+-------
+- O monóxido de carbono não tem cor, cheiro nem sabor: o corpo não avisa.
+- Fumaça de carvão ou motor em ambiente fechado pode matar em minutos.
+- Dor de cabeça, tontura, náusea, confusão e sonolência alertam.
+- Crianças, idosos e quem tem doença cardíaca ou pulmonar corre mais risco.
+- Abrir uma janela pode não bastar: saia do ambiente se o alarme tocar.
+- Nunca confie só no cheiro de gás ou na ausência de fumaça visível.
+- Se alguém desmaiou, não entre sem arejar: chame socorro primeiro.
+- Este guia reduz o risco, mas não substitui atendimento de emergência.
+
+SE NAO TIVER
+------------
+- Sem detector: reduza o tempo de queima e mantenha janelas abertas.
+- Sem chaminé: leve o fogo para fora; nunca improvise duto dentro de casa.
+- Sem ventilador: abra duas janelas opostas para criar corrente de ar.
+- Sem pilhas: não queime nada em ambiente fechado até trocá-las.
+- Sem saída livre: deixe uma porta destravada antes de acender a chama.
+
+COMO SABER QUE DEU CERTO
+------------------------
+- O detector soa no teste e fica silencioso no uso normal.
+- A chaminé e o duto deixam passar fumaça livremente para fora.
+- Não há fumaça parada no ambiente nem manchas escuras nas paredes.
+- Ninguém sente dor de cabeça, tontura ou náusea depois da queima.
+- A chama fica azul e estável, não amarela e tremeluzente.
+
+FONTES
+------
+Orientações do Centers for Disease Control and Prevention (CDC)
+sobre intoxicação por monóxido de carbono, sintomas e redução de
+risco em ambientes fechados. Complemento de prática consolidada
+de segurança contra incêndio e ventilação. Resumo que não
+substitui treinamento nem atendimento médico.
+==============================================================================

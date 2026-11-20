@@ -1,0 +1,97 @@
+==============================================================================
+CODIGO: 13-010
+TITULO: Como identificar riscos de monóxido de carbono
+CATEGORIA: 13 - Química e conhecimentos científicos aplicados
+TEMPO: 20 minutos
+RISCO: alto
+EXIGE: detector de monóxido de carbono, lanterna, caderno e lápis
+REVISAO: 2026-11
+PALAVRAS-CHAVE: monóxido de carbono, CO, detector, dor de cabeça, gás
+==============================================================================
+
+OBJETIVO
+--------
+Reconheça fontes, sinais e limites do monóxido de carbono.
+Decida quando sair e quando pedir ajuda.
+
+QUANDO USAR
+-----------
+Quando gerador, churrasqueira ou fogão funciona perto da casa.
+Quando dor de cabeça, tontura ou náusea aparecem em várias pessoas.
+Quando um detector de CO dispara ou mostra leitura alta.
+Antes de dormir em ambiente com lareira, aquecedor ou combustão.
+Depois de desastre, quando motores são usados perto do abrigo.
+
+NAO USE QUANDO
+--------------
+Nao ha contraindicacao conhecida para este procedimento.
+Não use a ausência de cheiro como prova de segurança: o CO é inodoro.
+
+MATERIAIS
+---------
+- Detector de monóxido de carbono com alarme (modelo com display).
+- Lanterna (celular com luz).
+- Caderno e lápis (papel e caneta).
+- Fita adesiva ou suporte para fixar o detector (pregos).
+
+PROCEDIMENTO
+------------
+1. Identifique fontes: gerador, churrasqueira, fogão, lareira, aquecedor.
+2. Inclua motores de carro, motosserras e qualquer ferramenta a combustão.
+3. Meça a distância entre cada fonte e a casa.
+4. Mantenha geradores e motores a aproximadamente 6 metros da casa.
+5. Afaste também portas, janelas e entradas de ar dessa zona.
+6. Instale o detector fora de cada quarto de dormir e em cada andar.
+7. Siga o manual do fabricante na altura e no ponto de fixação.
+8. Teste o detector uma vez por mês: pressione o teste e espere o alarme.
+9. Leia o display e anote o maior valor visto desde a última checagem.
+10. Observe cada pessoa: anote quem tem dor de cabeça ou tontura.
+11. Anote também fraqueza, náusea, vômito e dor no peito.
+12. Registre confusão, visão turva e falta de coordenação.
+13. Compare: se os sintomas melhoram ao sair ao ar livre, suspeite de CO.
+14. Considere o limite da EPA: 9 ppm em 8 horas; 35 ppm em 1 hora.
+15. Aplique o limite da OSHA: 50 ppm em 8 horas; teto de 100 ppm.
+16. Trate 1200 ppm como perigo imediato (NIOSH, IDLH).
+17. Se o detector disparar ou aparecerem sintomas, saia ao ar livre.
+18. Não reentre até desligar a fonte e ventilar bem o ambiente.
+19. Chame socorro se houver desmaio, confusão, convulsão ou dor no peito.
+20. Anote no caderno hora, local, leitura e sintomas observados.
+
+ATENCAO
+-------
+O monóxido de carbono é incolor, inodoro e insípido.
+Um detector não remove o gás: ele só avisa.
+Quem reduz a exposição é manter a fonte fora e ventilar.
+Confiar no detector com gerador dentro de casa é o erro que mais machuca.
+Detector de fumaça não detecta CO: são aparelhos diferentes.
+Ventile abrindo portas e janelas, mas saia do ambiente antes.
+Não confunda com gripe: se vários melhoram fora, é emergência.
+Crianças, idosos, grávidas e cardiopatas sofrem primeiro.
+Não espere o alarme nesses casos: saia ao menor sinal.
+A 1200 ppm (IDLH) há risco imediato à vida; detector não basta.
+Não reentre para buscar objetos.
+Se alguém desmaiou, chame socorro e espere o resgate.
+
+SE NAO TIVER
+------------
+Sem detector, use as fontes e os sintomas como sinal.
+Redobre o cuidado com a distância das fontes e ventile sempre.
+Na dúvida, durma com janela aberta se o clima permitir.
+Compre um detector assim que possível: aparelho barato é melhor que nenhum.
+Não improvise detector com papel, chama ou animal: nada mede CO.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Nenhum morador apresenta dor de cabeça, tontura ou náusea ao fim do dia.
+O detector fica em silêncio e o display mostra o menor valor possível.
+Toda fonte de combustão está a aproximadamente 6 metros ou mais da casa.
+O teste mensal produz alarme sonoro e o caderno registra leitura baixa.
+
+FONTES
+------
+CDC: sintomas, fontes e uso de detectores.
+NIOSH: Guia de Bolso e valor de IDLH de 1200 ppm.
+EPA: Padrão Nacional de Qualidade do Ar, limite de 9 ppm em 8 horas.
+OSHA: limite ocupacional de 50 ppm e teto de 100 ppm.
+ATSDR: Perfil Toxicológico do Monóxido de Carbono.
+NIST e NFPA: detectores fora dos quartos e em cada andar.

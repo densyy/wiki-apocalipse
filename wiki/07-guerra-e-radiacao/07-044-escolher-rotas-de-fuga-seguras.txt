@@ -1,0 +1,80 @@
+==============================================================================
+CODIGO: 07-044
+TITULO: Como escolher rotas de fuga seguras
+CATEGORIA: 07 - Guerra, radiação e catástrofes nucleares
+TEMPO: 40 minutos
+RISCO: critico
+EXIGE: mapa impresso, radio a pilha, mochila de emergencia
+REVISAO: 2026-11
+PALAVRAS-CHAVE: rota, fuga, evacuar, abrigo, fallout, vento, mapa
+==============================================================================
+
+OBJETIVO
+--------
+Escolha um caminho que leva longe do perigo sem cruzar poeira.
+
+QUANDO USAR
+-----------
+Quando a defesa civil mandar evacuar a sua area.
+Quando o abrigo atual tiver fogo, gas ou risco de cair.
+Quando precisar trocar de abrigo depois das 24 horas.
+Quando for planejar antes da crise as saidas do bairro.
+
+NAO USE QUANDO
+--------------
+Nao troque abrigo firme por estrada aberta na primeira hora.
+Nao saia para buscar rota melhor durante a queda de poeira.
+
+MATERIAIS
+---------
+- Mapa impresso da cidade e da regiao (compasso se tiver).
+- Radio a pilha com pilhas extras (celular carregado serve).
+- Mochila de emergencia com agua, comida, remedio e roupa.
+- Mascara simples e saco plastico para roupa suja.
+
+PROCEDIMENTO
+------------
+1. Ouca o radio e siga a rota oficial antes de inventar.
+2. Marque no mapa dois destinos em direcoes opostas.
+3. Trace uma rota principal e uma alternativa a pe para cada um.
+4. Saia de lado em relacao ao vento, nunca a favor da poeira.
+5. Prefira ruas altas longe de pontes frageis e vales fechados.
+6. Marque predios firmes de tijolo ou concreto em cada trecho.
+7. Evite atalhos por terra, mata fechada, fumaca e alagado.
+8. Saia cedo a pe se a rua travar e leve so a mochila.
+9. Feche vidros e ventilacao do carro ao cruzar poeira.
+10. Entre no primeiro predio firme se a poeira alcancar voce.
+11. Fique abrigado por aproximadamente 24 horas sem sair.
+12. Avise um contato fora da area sobre rota e destino final.
+
+ATENCAO
+-------
+Rua aberta expoe mais que parede grossa nas primeiras horas.
+Poeira de fallout nao tem cheiro e emite raio gama que roupa nao barra.
+Mascara segura poeira no pulmao mas nao bloqueia o raio gama.
+Carro parado em congestionamento vira armadilha de poeira e calor.
+Dose de corpo inteiro acima de aproximadamente 4 Gy pode matar.
+Voltar antes da liberacao pode causar lesao grave ou morte.
+Pare e peca socorro se houver fogo, falta de ar ou sangramento.
+
+SE NAO TIVER
+------------
+Sem mapa, siga placas para cidade vizinha contra o vento e anote.
+Sem radio, siga agente local e observe para onde vai a fumaca.
+Sem carro, va a pe com calcado firme, calca longa e mochila leve.
+Sem mascara, cubra nariz e boca com pano seco e troque de roupa.
+Para lembrar a ordem do perigo apos explosao, veja 07-001.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Voce chega ao destino sem cruzar nuvem de poeira visivel.
+Voce cita de cabeca as duas rotas e os abrigos do caminho.
+Voce fica abrigado na primeira hora em vez de andar sem rumo.
+
+FONTES
+------
+Pagina da FEMA sobre emergencias por radiacao no Ready gov.
+Pagina da FEMA sobre evacuacao no Ready gov.
+Pagina da FEMA sobre abrigo no Ready gov.
+Conteudo do CDC americano sobre emergencias por radiacao.
+Pratica consolidada de sobrevivencia civil em manual militar.

@@ -1,0 +1,86 @@
+==============================================================================
+CODIGO: 04-046
+TITULO: Como reparar placas eletrônicas simples
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 60 minutos
+RISCO: alto
+EXIGE: aparelho desligado e sem pilhas, multímetro, ferro de solda
+REVISAO: 2026-11
+PALAVRAS-CHAVE: placa, circuito, solda, trilha, componente, conserto
+==============================================================================
+
+OBJETIVO
+--------
+Devolver contato elétrico a placa simples de baixa tensão
+desligada, refazendo solda fria, limpeza ou trilha rompida.
+
+QUANDO USAR
+-----------
+Quando aparelho a pilha ou bateria parou após queda ou batida.
+Quando conector, fio ou botão da placa falha ao encostar.
+Quando lanterna, rádio ou brinquedo só funciona em uma posição.
+Quando há solda opaca e rachada visível a olho nu na placa.
+
+NAO USE QUANDO
+--------------
+Em aparelho ligado na tomada ou com cabo de força conectado.
+Em fonte de alimentação, micro-ondas ou televisor de tubo.
+Em placa com capacitor estufado, vazando ou com cheiro forte.
+Em placa molhada, enegrecida extensa ou que soltou fumaça.
+
+MATERIAIS
+---------
+- Chave de fenda e pinça (canivete com ponta fina).
+- Multímetro (pilha e lâmpada para teste simples).
+- Ferro de solda, estanho para eletrônica e esponja úmida.
+- Álcool isopropílico e escova de dentes velha (pano limpo).
+- Fio fino rígido para refazer trilha (fio de cabo velho).
+- Lupa ou celular com zoom (boa luz e olho atento).
+
+PROCEDIMENTO
+------------
+1. Desligue o aparelho e retire pilhas e baterias.
+2. Desconecte todo cabo de força e aguarde dez minutos.
+3. Fotografe a placa de perto antes de mexer em nada.
+4. Abra a caixa e retire a placa sem forçar travas e conectores.
+5. Inspecione com boa luz: solda rachada, trilha escura e peça solta.
+6. Cheire de longe: cheiro de queimado indica a área do defeito.
+7. Limpe poeira e oxidação com escova seca e depois com álcool.
+8. Ajuste o multímetro para continuidade e teste a trilha suspeita.
+9. Marque com lápis o ponto exato da falha encontrada.
+10. Aqueça o ferro e limpe a ponta na esponja úmida.
+11. Reaqueça a solda fria até brilhar e deixe esfriar parada.
+12. Para trilha rompida, raspe o verniz verde até expor o cobre.
+13. Estanhe o cobre exposto e solde um fio fino sobre o corte.
+14. Confira que não há respingo unindo trilhas vizinhas.
+15. Remonte a placa, recoloque as pilhas e teste o aparelho.
+
+ATENCAO
+-------
+Capacitor grande guarda carga e dá choque mesmo desligado;
+não toque nos terminais de capacitores e bobinas grandes.
+Nunca ligue a placa na tomada para testar com a caixa aberta.
+Respingo de solda une trilhas vizinhas e causa curto e fumaça;
+se sair fumaça ou cheiro forte, desligue tudo e afaste-se.
+Chumbo do estanho é tóxico: não coma nem beba ao soldar
+e lave as mãos ao terminar.
+Este reparo não resolve chip queimado nem placa carbonizada.
+Ferro quente queima pele e derrete plástico: use sempre o suporte.
+
+SE NAO TIVER
+------------
+Sem multímetro, inspecione pelo visual e teste ligando no fim.
+Sem ferro de solda, apenas limpe e reencaixe: não torça peças.
+Sem estanho, não derreta outro metal: o contato falha e esquenta.
+Sem álcool isopropílico, use escova seca: não use água na placa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O aparelho liga e funciona sem apertar, balançar ou bater.
+A solda refeita fica lisa e brilhante e não racha ao tocar.
+Não há fumaça, cheiro de queimado nem aquecimento anormal.
+
+FONTES
+------
+Prática consolidada de reparo de eletrônica de bancada,
+sem documento único.

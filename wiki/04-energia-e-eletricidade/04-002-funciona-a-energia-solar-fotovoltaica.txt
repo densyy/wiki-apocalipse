@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 04-002
+TITULO: Como funciona a energia solar fotovoltaica
+CATEGORIA: 04 - Energia e eletricidade
+TEMPO: 30 minutos
+RISCO: medio
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: solar, placa solar, painel, inversor, bateria
+==============================================================================
+
+OBJETIVO
+--------
+Entender o caminho da luz ate a tomada para usar o sistema com seguranca.
+
+QUANDO USAR
+-----------
+Quando houver painel instalado e for preciso entender o que ele alimenta.
+Quando o inversor mostrar alarme e for preciso descrever o problema.
+Quando for decidir entre rede, bateria ou gerador em falta de energia.
+Quando for explicar a outra pessoa por que a geracao cai sem sol.
+
+NAO USE QUANDO
+--------------
+Quando houver cabo rompido, cheiro de queimado ou faisca no sistema.
+Quando o equipamento estiver molhado, submerso ou com caixa aberta.
+Nesse caso nao toque em nada e chame um eletricista.
+
+MATERIAIS
+---------
+- Nenhum material.
+
+PROCEDIMENTO
+------------
+1. Localize painel, cabos, inversor, quadro e bateria, se houver.
+2. Confirme que o painel recebe sol direto, sem sombra de arvore ou muro.
+3. Siga com os olhos o cabo do painel ate a caixa de protecao e o inversor.
+4. Leia no inversor a potencia atual e se ha luz de funcionamento normal.
+5. Anote o que esta ligado: lampadas, geladeira, bomba ou carregadores.
+6. Observe que de dia o painel gera e de noite a geracao praticamente para.
+7. Identifique o inversor: ele troca a corrente do painel pela da tomada.
+8. Verifique se o sistema e ligado a rede, isolado ou hibrido com bateria.
+9. Compare a geracao do inversor com os aparelhos ligados.
+
+ATENCAO
+-------
+Choque eletrico mata: nunca abra caixa, emende cabo ou toque em terminal.
+Nunca mexa em rede energizada nem improvise ligacao com fio comum.
+Painel gera energia com qualquer luz do dia, mesmo com a rede desligada.
+Sistema ligado a rede desliga sozinho sem rede; nao tente religar a forca.
+Bateria solta gas e pode explodir perto de faisca: ventile e afaste fogo.
+Telhado e altura matam por queda: observe o painel do chao quando possivel.
+
+SE NAO TIVER
+------------
+Sem manual do inversor, anote marca, modelo e luzes para pedir ajuda.
+Sem medidor, estime pelo que funciona de dia e apaga a noite.
+Sem bateria, aceite que a noite depende da rede ou de outra fonte.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Voce aponta cada parte e diz o que entra e o que sai dela sem duvida.
+Voce explica por que dia nublado gera menos e de noite nao gera.
+
+FONTES
+------
+Departamento de Energia dos Estados Unidos, bases de projeto fotovoltaico;
+Laboratorio Nacional de Energia Renovavel dos Estados Unidos, guia de
+sistemas fotovoltaicos; Agencia Nacional de Energia Eletrica do Brasil,
+norma de geracao distribuida e compensacao de energia.

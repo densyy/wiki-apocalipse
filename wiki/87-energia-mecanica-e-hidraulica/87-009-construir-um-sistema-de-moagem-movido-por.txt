@@ -1,0 +1,86 @@
+==============================================================================
+CODIGO: 87-009
+TITULO: Como construir um sistema de moagem movido por animais
+CATEGORIA: 87 - Energia mecânica e hidráulica tradicionais
+TEMPO: 300 minutos
+RISCO: medio
+EXIGE: animal de tração, eixo vertical, braço e pedras de moer
+REVISAO: 2026-11
+PALAVRAS-CHAVE: moagem, animal, tração, mós, trigo, farinha, eixo
+==============================================================================
+
+OBJETIVO
+--------
+Moer grãos usando a força de um animal que gira as pedras em círculo.
+
+QUANDO USAR
+-----------
+Quando não houver água corrente com queda nem vento constante.
+Quando se tiver animal de tração disponível na propriedade.
+Quando o volume de grãos for pequeno e intermitente.
+Quando se quiser um sistema que possa ser armado e desarmado depressa.
+
+NAO USE QUANDO
+--------------
+Não use com animal ferido, cansado ou não acostumado ao trabalho.
+Não use em piso escorregadio ou com pouca ventilação.
+Não force o animal a girar por muito tempo sem descanso e água.
+
+MATERIAIS
+---------
+- Par de pedras de moer com furo central e face áspera.
+- Eixo vertical de madeira ou ferro com mancal na base.
+- Braço longo de madeira preso ao eixo para o animal puxar.
+- Canga ou arreio confortável para o animal de tração.
+- Base circular de pedra ou madeira para as mós.
+- Funil de grãos e saída aberta para a farinha.
+- Graxa vegetal e pregos ou chavetas de fixação.
+
+PROCEDIMENTO
+------------
+1. Escolha local plano, firme e com sombra para o animal.
+2. Assente a base circular e nivele as pedras com cuidado.
+3. Coloque a pedra de baixo fixa, com o furo no centro.
+4. Encaixe o eixo vertical no furo e no mancal da base.
+5. Coloque a pedra de cima sobre a de baixo e prenda ao eixo.
+6. Ajuste a distância entre as mós para o grão escolhido.
+7. Prenda o braço longo no eixo na altura do animal.
+8. Acople o animal ao braço com canga bem ajustada.
+9. Encha o funil com pequena quantidade de grãos.
+10. Conduza o animal em passo lento e constante em círculo.
+11. Observe a farinha caindo pela borda das pedras.
+12. Corrija a moagem apertando ou afrouxando as mós.
+13. Pare o animal e retire a farinha acumulada na base.
+14. Dê descanso, água e sombra ao animal ao fim do trabalho.
+15. Anote o tempo e a quantidade moída em cada sessão.
+
+ATENCAO
+-------
+O braço gira com força e pode empurrar quem estiver no caminho.
+Nunca deixe crianças perto do animal em movimento.
+Animal em esforço precisa de água, sombra e pausas regulares.
+Se o animal parar ou resistir, verifique canga e mós antes de insistir.
+Pedras desalinhadas aquecem e quebram com o esforço.
+Não aperte as mós demais: o grão não passa e o eixo trava.
+Limpe as mós após o uso para não fermentar restos de grão.
+
+SE NAO TIVER
+------------
+Sem animal, use manivela manual em pequena escala.
+Sem pedras de moer, use mó de pedra de rio com face áspera.
+Sem canga, use corda de fibra acolchoada com pano.
+Sem eixo de ferro, use madeira de lei bem seca e reta.
+Sem funil, despeje os grãos com uma concha de madeira.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A farinha sai fina e seca, sem grãos inteiros.
+O animal caminha tranquilo, sem puxões bruscos.
+As mós giram sem tremer e sem aquecer demais.
+A quantidade moída por volta corresponde ao esperado.
+
+FONTES
+------
+Prática consolidada de moagem animal em engenhos e moinhos rurais
+tradicionais. Base em manuais de agrotecnologia e no conhecimento de
+mestres moendeiros que adaptam tração animal para mover mós.

@@ -1,0 +1,82 @@
+==============================================================================
+CODIGO: 49-014
+TITULO: Como compreender a produção de biocombustíveis
+CATEGORIA: 49 - Engenharia química e processos industriais
+TEMPO: 40 minutos
+RISCO: medio
+EXIGE: caderno, lápis, noção de fermentação e de reação química
+REVISAO: 2026-11
+PALAVRAS-CHAVE: etanol, biodiesel, biogás, fermentação, álcool combustível
+==============================================================================
+
+OBJETIVO
+--------
+Reconhecer as etapas de obtenção de etanol, biodiesel e biogás.
+
+QUANDO USAR
+-----------
+Ao ler um fluxograma de uma usina de etanol ou de biodiesel.
+Ao entender como cana, soja ou resíduos viram combustível.
+Ao comparar fermentação, transesterificação e digestão anaeróbia.
+Ao explicar por que o produto precisa de destilação ou purificação.
+Ao identificar subprodutos como bagaço, glicerina e biogás.
+
+NAO USE QUANDO
+--------------
+Não use para operar uma usina ou um reator sem treinamento.
+Não serve para dimensionar equipamentos nem calcular rendimento.
+Não use para manipular metanol, hidróxido de sódio ou álcool.
+
+MATERIAIS
+---------
+- Caderno e lápis para desenhar as etapas.
+- Noção de que fermentação é feita por microrganismos.
+- Noção de que transesterificação é uma reação química.
+- Um exemplo conhecido, como álcool ou biogás, se houver.
+
+PROCEDIMENTO
+------------
+1. Escreva o nome do biocombustível no topo da folha.
+2. Identifique a matéria-prima: cana, milho, soja ou resíduo.
+3. Classifique a rota: fermentação, transesterificação ou digestão.
+4. Para etanol, anote a extração do açúcar da cana ou do milho.
+5. Anote a fermentação: a levedura transforma açúcar em álcool.
+6. Anote a destilação: separa o álcool da água e do mosto.
+7. Para biodiesel, anote a extração do óleo da soja ou resíduo.
+8. Anote a transesterificação: óleo reage com álcool e catalisador.
+9. Anote a separação: biodiesel de um lado, glicerina do outro.
+10. Anote a lavagem e a secagem do biodiesel final.
+11. Para biogás, anote a digestão anaeróbia de resíduos orgânicos.
+12. Anote o que sobra: o digestato, que pode servir de adubo.
+13. Marque as condições controladas: temperatura, pH e tempo.
+14. Separe produto, subproduto e resíduo de cada rota.
+15. Anote o que o processo resolve e o que não resolve sozinho.
+
+ATENCAO
+-------
+- Entender o fluxo não habilita ninguém a operar uma usina.
+- Metanol e etanol são inflamáveis; o vapor pode pegar fogo.
+- Hidróxido de sódio é corrosivo e queima pele e olhos.
+- Nunca manipule reagentes sem treinamento e ventilação.
+- Fermentação e digestão liberam gás e podem gerar pressão.
+- Gás em espaço fechado pode explodir ou deslocar oxigênio.
+- Se houver cheiro forte, vazamento ou pressão, saia e avise.
+
+SE NAO TIVER
+------------
+- Sem fluxograma, desenhe o fluxo a partir de um exemplo conhecido.
+- Sem saber a rota, classifique pela matéria-prima e pelo produto.
+- Sem dados de temperatura e pH, marque que são controladas.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Você aponta a matéria-prima, a rota, as etapas e o produto final.
+Você diz qual é o subproduto e o que o processo não resolve.
+
+FONTES
+------
+- Prática consolidada de ensino de engenharia química sobre
+  biocombustíveis.
+- Referências no campo: Embrapa, ANP, USDA e EPA.
+- Biochemical Engineering Fundamentals, Bailey e Ollis.
+- Resumo operacional, que não substitui treinamento.

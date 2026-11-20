@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 02-003
+TITULO: Como identificar solos férteis
+CATEGORIA: 02 - Alimentação e produção de alimentos
+TEMPO: 60 minutos
+RISCO: baixo
+EXIGE: pá ou enxada, recipiente com um litro de água, bastão pontiagudo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: solo, terra fértil, minhocas, cor escura, matéria orgânica
+==============================================================================
+
+OBJETIVO
+---------
+Identificar no campo, por sinais visíveis, um terreno com solo fértil.
+
+QUANDO USAR
+-----------
+Ao escolher o lugar para montar uma horta.
+Ao decidir entre dois terrenos para plantar.
+Quando a colheita anterior foi fraca e você quer saber por quê.
+
+NAO USE QUANDO
+--------------
+Não use a cor da terra para declarar que o solo está livre de veneno.
+Não use quando houver suspeita de esgoto, óleo ou agrotóxico por perto.
+Não use em área alagada: a água na superfície falsifica os sinais.
+
+MATERIAIS
+---------
+- Pá ou enxada (ou bastão forte).
+- Recipiente com cerca de um litro de água (ou garrafa).
+- Caderno e lápis para anotar os sinais.
+
+PROCEDIMENTO
+------------
+1. Caminhe pela área e separe os pontos com sinais diferentes.
+2. Observe as plantas espontâneas em cada ponto.
+3. Anote capim-sapé ou samambaia como sinal de solo ácido.
+4. Anote vassourinha como sinal de solo compactado.
+5. Retire terra dos primeiros 20 cm com a pá.
+6. Observe a cor da terra úmida em cada ponto.
+7. Desfaça um torrão entre os dedos.
+8. Anote se o torrão vira grumos, pó ou placas duras.
+9. Conte minhocas no punhado de terra de cada ponto.
+10. Abra uma trincheira de cerca de 20 cm por 20 cm e 10 cm de profundidade.
+11. Despeje um litro de água no fundo da trincheira.
+12. Cronometre os minutos até a água desaparecer.
+13. Repita em três pontos e anote o tempo de cada um.
+
+ATENCAO
+-------
+Cor escura sozinha não prova fertilidade: confirme com minhocas.
+Acima de 30 minutos sem infiltração, o solo está compactado.
+Água parada perto da superfície falsifica o teste de infiltração.
+
+SE NAO TIVER
+------------
+Sem pá, use um bastão pontiagudo para abrir a trincheira.
+Sem condições de cavar, observe só os sinais da superfície.
+
+COMO SABER QUE DEU CERTO
+------------------------
+A água some em menos de 30 minutos no ponto escolhido.
+O ponto tem cor escura, grumos que se desfazem e minhocas.
+
+FONTES
+------
+Embrapa: "Conhecendo melhor o solo", Ageitec, Sistema Plantio Direto.
+Embrapa: "Parâmetros técnicos de manejo e conservação do solo", 2013.
+Embrapa Solos: "Propriedades do Solo", do SiBCS.

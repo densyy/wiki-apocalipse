@@ -1,0 +1,99 @@
+==============================================================================
+CODIGO: 33-013
+TITULO: Como produzir adubo a partir de resíduos animais
+CATEGORIA: 33 - Agricultura avançada e autossuficiência rural
+TEMPO: 90 minutos na montagem e 30 em cada reviramento
+RISCO: alto
+EXIGE: esterco seco, capim ou palha, água, luvas, local sombreado
+REVISAO: 2026-11
+PALAVRAS-CHAVE: esterco, adubo, composto, compostagem, resíduo, horta
+==============================================================================
+
+OBJETIVO
+--------
+Transformar resíduo animal seco e material vegetal em adubo para a horta.
+
+QUANDO USAR
+-----------
+Quando houver esterco seco de herbívoros na propriedade.
+Quando o solo da horta estiver empobrecido e precisar de matéria orgânica.
+Quando for preciso dar destino ao resíduo da criação sem comprar adubo.
+
+NAO USE QUANDO
+--------------
+Quando o resíduo vier de animal doente, de carnívoro ou de fezes humanas.
+Quando o animal tiver tomado antibiótico ou vermífugo recentemente.
+Nesses casos, não use o material na horta nem o misture ao composto.
+
+MATERIAIS
+---------
+- 10 partes de esterco seco de bovino, cabra ou ovelha (em volume).
+- 20 partes de capim triturado (ou palha seca picada).
+- 3 partes de folhas de bananeira (ou folha seca sem agrotóxico).
+- Água limpa em quantidade abundante.
+- Luvas de borracha ou de couro.
+- Estaca de madeira e barra de ferro limpas (umidade e temperatura).
+- Enxada ou garfo para revirar.
+- Folhas ou palha para cobrir a pilha.
+
+PROCEDIMENTO
+------------
+1. Escolha o local plano, sombreado e perto de água.
+2. Reserve aproximadamente 1 m de largura, 5 m de comprimento e
+   1,5 m de altura para a pilha.
+3. Meça capim, folhas e esterco na proporção 20:3:10 em volume.
+4. Espalhe a primeira camada de capim no chão do local.
+5. Cubra com a camada de folhas de bananeira.
+6. Cubra com a camada de esterco seco.
+7. Molhe a camada até começar a escorrer água na base.
+8. Pare de molhar no instante em que a água escorrer.
+9. Espete a estaca na parte mais baixa da pilha.
+10. Retire a estaca; se sair seca, molhe de novo.
+11. Repita os passos 4 a 10 até completar quatro camadas.
+12. Cubra a pilha com folhas ou palha.
+13. Deixe a barra de ferro enterrada no meio da pilha.
+14. Retire a barra uma vez por semana, com cuidado.
+15. Observe: até 60 dias é normal a barra sair quente e suportável.
+16. Se a barra sair muito quente, revira a pilha para arejar.
+17. Se a barra sair fria antes de 45 dias, acrescente água.
+18. Revira a pilha aos 15, 30, 45 e 60 dias após a montagem.
+19. Molhe a pilha ao final de cada reviramento.
+20. Não revira nos últimos 30 dias.
+21. Use o composto na horta somente após os 90 dias.
+
+ATENCAO
+-------
+Esterco fresco contém bactérias, vírus e ovos de vermes que podem
+contaminar hortaliças, água e as mãos de quem manuseia.
+Nunca espalhe esterco fresco direto no canteiro; o calor da pilha é o
+que reduz esses organismos.
+Use luvas e lave as mãos e as ferramentas depois de mexer no material.
+Não monte a pilha perto de poço, cisterna, rio ou nascente.
+Não use resíduo de animal doente nem de animal tratado com antibiótico
+ou vermífugo nos últimos meses.
+A pilha muito seca não aquece; a encharcada perde oxigênio e fede.
+Se aparecer cheiro de amônia ou de podridão, revira e corrija a umidade.
+Composto imaturo pode queimar as plantas e travar o crescimento.
+Mantenha a pilha ao ar livre: em local fechado, gases podem se acumular.
+
+SE NAO TIVER
+------------
+Sem barra de ferro, use uma estaca limpa e toque com o dorso da mão.
+Sem capim, use palha seca picada ou folhas secas trituradas.
+Sem folhas de bananeira, use qualquer folha seca sem agrotóxico.
+Sem esterco bovino, use esterco seco de cabra, ovelha ou coelho.
+Não substitua por fezes de carnívoros nem por fezes humanas.
+Sem lugar sombreado, cubra a pilha com palha e proteja do sol direto.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Aos 90 dias o material está escuro, com cheiro de terra mofada.
+A pilha está fria e sem cheiro de amônia.
+A barra saiu quente, mas suportável, nas primeiras semanas.
+
+FONTES
+------
+Embrapa Arroz e Feijão, folheto "Composto orgânico à base de esterco
+bovino: como fazer?", 2018.
+USDA, Biblioteca Nacional de Agricultura, projeto "Microbiological
+Safety of Composting Process as Animal Manure Treatment".

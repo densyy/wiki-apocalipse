@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 10-005
+TITULO: Como construir abrigos em florestas
+CATEGORIA: 10 - Sobrevivência em ambientes naturais
+TEMPO: 90 minutos
+RISCO: medio
+EXIGE: nada alem do descrito
+REVISAO: 2026-11
+PALAVRAS-CHAVE: abrigo, tenda, folhas, frio, floresta, hipotermia
+==============================================================================
+
+OBJETIVO
+--------
+Construa abrigo com folhas e galhos para dormir seco e protegido do frio.
+
+QUANDO USAR
+-----------
+Quando não há onde dormir e é preciso passar a noite na floresta.
+Quando a tenda molha ou rasga e não existe abrigo por perto.
+Quando o corpo começa a esfriar durante uma espera por socorro.
+
+NAO USE QUANDO
+--------------
+Quando há árvores mortas ou galhos soltos acima do local: pode desabar.
+Quando o terreno é baixo ou leito de córrego: a água pode subir.
+Quando há raios próximos: nunca fique sob árvore alta e isolada.
+
+MATERIAIS
+---------
+- Galho reto (ripão, a espinha do abrigo) mais longo que o corpo.
+- Galhos finos e gravetos flexíveis para a armação e a grade.
+- Folhas secas, agulhas de pinheiro, musgo ou serrapilheira: isolamento.
+- Pedra, toco ou tronco baixo para apoiar o ripão; corda é opcional.
+
+PROCEDIMENTO
+------------
+1. Escolha ponto alto, plano e seco, longe de córregos, valas e depressões.
+2. Limpe pedras e espinhos; confirme que não há galhos mortos acima.
+3. Corte um ripão reto um pouco mais longo que a pessoa deitada.
+4. Apoie uma ponta em toco ou pedra, aproximadamente na altura do quadril.
+5. Deixe a outra ponta no chão, formando uma rampa bem inclinada.
+6. Encoste galhos finos nos dois lados do ripão, bem próximos entre si.
+7. Deixe espaço só para deitar; abrigo grande demais não aquece.
+8. Cruze gravetos entre os galhos e cubra com folhas até não passar luz.
+9. Engrosse a cobertura para aproximadamente 60 centímetros de folhas secas.
+10. Forre o chão com aproximadamente 30 centímetros de folhas e deite-se.
+
+ATENCAO
+-------
+Nunca monte sob galho podre ou rocha instável: podem cair e machucar.
+Não use fundo de vales: o ar frio se acumula e a água corre.
+Evite urtigas, hera-venenosa e ninhos ao recolher folhas e galhos.
+Não acenda fogo dentro: o monóxido não sai. Sem cama, o corpo esfria.
+
+SE NAO TIVER
+------------
+Sem faca, use galhos caídos no tamanho certo, quebrados com as mãos.
+Sem folhas secas, use folhas verdes em mais quantidade: aquece menos.
+Sem ripão, use tronco caído ou abrigo natural: oco de árvore ou rocha.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Não se vê luz pela cobertura e o corpo não sente o chão frio.
+Ao amanhecer, a roupa está seca e o vento não entrou pela lateral.
+
+FONTES
+------
+Prática consolidada: Apêndice B (Sobrevivência) do sistema US&R da FEMA;
+manual FM 21-76 do Exército dos EUA; guia de detritos de Nova Jersey;
+IFRC/Cruz Vermelha; Serviço Florestal dos EUA e CDC (hipotermia).

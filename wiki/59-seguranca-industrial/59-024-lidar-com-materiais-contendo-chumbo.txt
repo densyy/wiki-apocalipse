@@ -1,0 +1,96 @@
+==============================================================================
+CODIGO: 59-024
+TITULO: Como lidar com materiais contendo chumbo
+CATEGORIA: 59 - Segurança industrial e riscos ocupacionais
+TEMPO: 45 minutos
+RISCO: critico
+EXIGE: luvas, máscara com filtro de partículas, pano, saco vedado
+REVISAO: 2026-11
+PALAVRAS-CHAVE: chumbo, tinta velha, bateria, pó, poeira, metal pesado
+==============================================================================
+
+OBJETIVO
+--------
+Reduzir a inalação e a ingestão de chumbo ao manusear peças,
+tintas e sucatas que podem conter o metal.
+
+QUANDO USAR
+-----------
+Ao remover tinta descascada de parede, porta ou móvel antigo.
+Ao lixar, raspar ou cortar superfície pintada antes de 1980.
+Ao manusear bateria de carro, solda, cabo revestido ou peso de pesca.
+Ao derreter sucata, queimar cabo ou limpar resíduo de oficina.
+Ao entrar em reforma, fundição, depósito de sucata ou estande de tiro.
+Ao lidar com cerâmica esmaltada, vidro colorido ou brinquedo antigo.
+
+NAO USE QUANDO
+--------------
+Quando o material estiver queimando e liberando fumaça: saia e chame
+os bombeiros. Não tente conter fumaça de chumbo com pano.
+Quando não houver como ventilar o ambiente, não faça o trabalho.
+Quando a peça for desconhecida, trate como se contivesse chumbo.
+
+MATERIAIS
+---------
+- Luvas de borracha ou nitrilo. Luvas de algodão não bastam.
+- Máscara com filtro para partículas finas, ajustada ao rosto.
+- Pano limpo, balde e água com detergente.
+- Saco plástico resistente e fita para fechar e rotular.
+- Água corrente e sabão para lavar as mãos.
+- Roupa que possa ser lavada separadamente do resto da família.
+
+PROCEDIMENTO
+------------
+1. Isole a área com plástico ou fita e mantenha crianças e gestantes fora.
+2. Abra portas e janelas e mantenha ventilação durante todo o trabalho.
+3. Vista luvas, máscara com filtro e roupa separada antes de tocar nada.
+4. Teste a peça com kit de chumbo, se houver. Sem ele, trate como suspeita.
+5. Umedeça a superfície com água e detergente antes de riscar ou lixar.
+6. Raspe a tinta com espátula, sem lixar a seco e sem usar fogo.
+7. Recolha os resíduos com pano úmido. Não varra a seco nem use aspirador.
+8. Feche o resíduo no saco, lacre com fita e rotule como resíduo com chumbo.
+9. Retire as luvas sem tocar na parte externa e lave as mãos com sabão.
+10. Lave a roupa de trabalho separadamente da roupa da família.
+11. Limpe o piso com pano úmido e troque a água quando ela ficar suja.
+12. Guarde o saco longe de comida, água e do alcance de crianças.
+
+ATENCAO
+-------
+Não existe nível de chumbo no sangue considerado seguro. O dano pode ser
+permanente e aparecer meses depois da exposição.
+Crianças pequenas e gestantes absorvem mais e podem ter dano neurológico
+mesmo em doses baixas. Mantenha-as fora da área.
+Nunca queime tinta, cabo ou plástico para retirar metal. A fumaça
+concentra chumbo e pode matar.
+Não coma, beba nem fume durante o trabalho. O chumbo entra pela boca
+quando as mãos ou o cigarro estão sujos.
+Não use aspirador comum nem varredura a seco. Ambos espalham o pó.
+Se aparecerem tontura, dor de cabeça, dor abdominal, náusea ou fraqueza,
+pare, saia da área e procure atendimento médico. Peça exame de chumbo
+no sangue.
+Este texto reduz a exposição, mas não retira o chumbo já absorvido.
+
+SE NAO TIVER
+------------
+Sem máscara com filtro e sem luvas, não manipule material suspeito.
+Sem kit de teste, trate tinta, solda, baterias e pesos como suspeitos.
+Sem saco vedado, use recipiente rígido com tampa e mantenha fechado.
+Sem água corrente, use pano úmido e lave as mãos em balde separado.
+Descarte essa água longe de hortas e fontes de água.
+Sem condição de ventilar, faça o trabalho apenas em área aberta.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Não há pó visível nas mãos, nas ferramentas nem no piso após a limpeza.
+As mãos foram lavadas com sabão depois de retirar as luvas.
+O resíduo está em saco fechado, rotulado e fora do alcance de crianças.
+Ninguém comeu, bebeu ou fumou dentro da área de trabalho.
+A área ficou ventilada e as crianças e gestantes permaneceram fora.
+
+FONTES
+------
+Orientações da OMS sobre intoxicação por chumbo e manejo clínico;
+informe da CDC sobre prevenção da exposição infantil ao chumbo;
+página de chumbo da OSHA sobre exposição ocupacional e vias de entrada;
+material da EPA sobre redução do risco de chumbo dentro de casa.
+Resumo operacional. Não substitui treinamento nem exame médico.

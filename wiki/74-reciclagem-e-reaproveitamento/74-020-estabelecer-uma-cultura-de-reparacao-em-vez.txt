@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 74-020
+TITULO: Como estabelecer uma cultura de reparação em vez de descarte
+CATEGORIA: 74 - Economia circular e reaproveitamento
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: caderno, lápis, espaço para reparo, ferramentas básicas, luvas
+REVISAO: 2026-11
+PALAVRAS-CHAVE: reparo, conserto, descarte, reutilizar, manutenção, oficina
+==============================================================================
+
+OBJETIVO
+--------
+Fazer um objeto voltar a funcionar em vez de jogá-lo fora.
+
+QUANDO USAR
+-----------
+Quando um objeto para de funcionar mas o conserto é possível.
+Quando falta dinheiro para comprar um substituto.
+Quando o descarte virou hábito e se quer mudar a rotina do grupo.
+
+NAO USE QUANDO
+--------------
+Quando o conserto custa mais que o objeto vale.
+Quando faltam peças ou ferramenta para um reparo seguro.
+Quando há rachadura estrutural ou risco elétrico não dominado.
+
+MATERIAIS
+---------
+- Caderno e lápis para registrar o defeito e o conserto.
+- Espaço limpo, seco e iluminado para trabalhar.
+- Ferramentas básicas: chave, alicate, chave de fenda, fita adesiva.
+- Luvas e óculos de proteção (pano dobrado na falta de luvas).
+
+PROCEDIMENTO
+------------
+1. Separe os objetos quebrados em um canto definido.
+2. Anote no caderno o que quebrou e quando parou de funcionar.
+3. Identifique a causa antes de desmontar qualquer peça.
+4. Verifique se há peça solta, sujeira, cabo rompido ou ferrugem.
+5. Decida se o conserto compensa o tempo e o custo.
+6. Reúna a ferramenta e a peça de reposição necessárias.
+7. Desmonte a peça com cuidado.
+8. Guarde os parafusos em recipiente separado.
+9. Limpe, ajuste ou troque a parte danificada.
+10. Monte de volta, teste e guarde o objeto reparado.
+
+ATENCAO
+-------
+Um conserto mal feito pode causar lesão ou quebrar o objeto de novo.
+Nunca conserte rede elétrica, gás ou pressão sem conhecimento e ferramenta.
+Não reutilize capacete, cinto ou isolamento elétrico danificado.
+Se o teste falhar ou aparecer calor, cheiro ou faísca, pare e peça ajuda.
+
+SE NAO TIVER
+------------
+Sem peça de reposição, veja se serve peça de outro objeto equivalente.
+Sem ferramenta, peça emprestada ou troque ajuda com vizinho.
+Sem espaço, reserve uma caixa e uma mesa pequena em casa.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O objeto volta a funcionar e passa no teste sem calor, cheiro ou faísca.
+O caderno registra o defeito, a causa, o conserto e a data.
+A peça reparada está em uso no lugar certo.
+
+FONTES
+------
+Prática consolidada de reparo caseiro e oficinas comunitárias.
+Economia circular e hierarquia de resíduos da EPA; resumo operacional.

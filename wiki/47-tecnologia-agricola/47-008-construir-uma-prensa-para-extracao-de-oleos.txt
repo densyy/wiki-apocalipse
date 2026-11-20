@@ -1,0 +1,98 @@
+==============================================================================
+CODIGO: 47-008
+TITULO: Como construir uma prensa para extração de óleos
+CATEGORIA: 47 - Tecnologia agrícola e mecanização rural
+TEMPO: 3 horas
+RISCO: alto
+EXIGE: madeira de lei, parafuso com porca, cilindro furado, pano, fogo
+REVISAO: 2026-11
+PALAVRAS-CHAVE: prensa, óleo, sementes, girassol, parafuso, esmagar, torta
+==============================================================================
+
+OBJETIVO
+--------
+Construir uma prensa manual de parafuso para extrair óleo de sementes.
+
+QUANDO USAR
+-----------
+Quando houver sementes oleaginosas limpas e falta de óleo para cozinhar.
+Quando o óleo comprado acabar e restarem girassol, amendoim ou gergelim.
+Quando for preciso processar a colheita de oleaginosas para conservar.
+Quando as sementes estiverem secas, com menos de 10% de umidade.
+
+NAO USE QUANDO
+--------------
+Quando as sementes estiverem mofadas, úmidas ou atacadas por insetos.
+Quando a origem das sementes for desconhecida ou não for comestível.
+Quando não houver onde aquecer as sementes ao ar livre ou ventilado.
+
+MATERIAIS
+---------
+- Madeira de lei não tratada para base, montantes e tampa.
+- Parafuso de rosca com manivela, de bancada ou de cadeira velha.
+- Cilindro metálico com muitos furos pequenos nas paredes (lata furada).
+- Disco de metal ou madeira de lei que caiba no cilindro (êmbolo).
+- Saco de pano resistente ou lona limpa para a massa de sementes.
+- Recipiente limpo com bico para recolher o óleo.
+- Serra, furadeira com brocas e pregos ou parafusos de aço inox.
+- Fonte de calor seco, como fogão a lenha ou braseiro ao ar livre.
+
+PROCEDIMENTO
+------------
+1. Lave e lixe as peças de madeira para tirar farpas e resíduos.
+2. Monte a base com duas tábuas cruzadas e pregue os montantes.
+3. Prenda a tábua superior no topo dos montantes, com furo central.
+4. Passe o parafuso pelo furo e fixe a porca por baixo da tábua.
+5. Prenda a manivela na ponta superior do parafuso.
+6. Faça muitos furos pequenos na parede do cilindro, até a metade.
+7. Encaixe o cilindro na base, centralizado sob o parafuso.
+8. Coloque o recipiente de coleta sob os furos do cilindro.
+9. Prenda o disco de compressão na ponta inferior do parafuso.
+10. Escolha sementes limpas, secas e sem mofo ou ataque de inseto.
+11. Aqueça as sementes em fogo brando, mexendo sem parar.
+12. Amasse as sementes quentes até formar uma massa grossa.
+13. Coloque a massa no saco de pano e amarre a abertura.
+14. Acomode o saco dentro do cilindro, sob o disco de compressão.
+15. Gire a manivela devagar para comprimir o saco.
+16. Continue girando até o óleo escorrer pelos furos e cessar.
+17. Solte o parafuso, retire a torta do saco e limpe o cilindro.
+
+ATENCAO
+-------
+Sementes mofadas ou atacadas por insetos podem conter micotoxinas, que
+passam para o óleo e podem causar danos ao fígado; descarte o lote inteiro.
+Nunca aqueça sementes em ambiente fechado: o fogo consome oxigênio e gera
+monóxido de carbono; trabalhe ao ar livre ou com ventilação forte.
+Use só oleaginosas comestíveis e de origem conhecida, como girassol,
+amendoim ou gergelim; óleo de mamona, por exemplo, não serve para cozinhar.
+A manivela e o parafuso prendem dedos e mangas; mantenha as mãos fora do
+cilindro enquanto gira e não deixe crianças perto da prensa em uso.
+Se a madeira rachar, o parafuso entortar ou o cilindro ceder, pare e refaça
+a peça antes de continuar, sem reforçar com arame enferrujado.
+
+SE NAO TIVER
+------------
+Sem cilindro metálico, use um balde de plástico atóxico com muitos furos
+nas paredes e no fundo, ou ripas de madeira de lei com fendas estreitas.
+Sem parafuso de rosca, use um macaco de carro ou tornilho de bancada,
+desde que a parte que toca a massa esteja limpa e sem ferrugem.
+Sem saco de pano, use lona limpa ou algodão resistente em várias camadas;
+não use tecido sintético que derreta com o calor das sementes.
+Sem disco de êmbolo, use uma tampa circular de madeira de lei do tamanho
+exato do cilindro, sem tinta, verniz ou preservativo.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O óleo escorre em fio contínuo pelos furos e cai no recipiente de coleta.
+A torta sai do saco em camada firme e mais seca que a massa inicial.
+A estrutura não balança e a manivela gira com resistência constante.
+
+FONTES
+------
+Ageitec/Embrapa, tema Tecnologia de Alimentos, página Prensagem em pequena
+escala, de Rosemar Antoniassi, Embrapa Agroindústria de Alimentos:
+princípio do cilindro perfurado com êmbolo e saco de pano, teor de óleo
+das sementes, limite de umidade e cuidados com matéria-prima e tratamento
+térmico. Prática consolidada de prensagem manual em pequena escala; o
+desenho específico desta prensa de parafuso é adaptação construtiva, não
+especificação industrial.

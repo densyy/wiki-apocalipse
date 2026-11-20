@@ -1,0 +1,70 @@
+==============================================================================
+CODIGO: 70-019
+TITULO: Como preparar modelos de IA para uso completamente offline
+CATEGORIA: 70 - Computação de baixo consumo e preservação digital
+TEMPO: 60 minutos
+RISCO: medio
+EXIGE: computador, espaço em disco, conexão inicial para o download
+REVISAO: 2026-11
+PALAVRAS-CHAVE: ia, offline, modelo local, quantização, gguf, ollama
+==============================================================================
+
+OBJETIVO
+--------
+Baixar, ajustar e executar um modelo de linguagem sem internet.
+
+QUANDO USAR
+-----------
+Quando a conexão cair e ainda for preciso apoio para escrever.
+Quando os dados digitados não podem sair do computador.
+Quando o trabalho será feito em local sem cobertura de rede.
+
+NAO USE QUANDO
+--------------
+Quando a tarefa exige informação em tempo real, como notícia.
+Quando o computador não tem espaço nem memória para o modelo.
+
+MATERIAIS
+---------
+- Computador com memória e espaço em disco suficientes.
+- Conexão de internet no início, só para baixar os arquivos.
+- Programa de execução local (llama.cpp, Ollama ou Transformers).
+- Modelo GGUF (formato local) e espaço extra em disco.
+
+PROCEDIMENTO
+------------
+1. Liste as tarefas e escolha o menor modelo que atenda.
+2. Verifique espaço com "df -h" e memória com "free -h".
+3. Com conexão ativa, baixe o modelo do repositório do fornecedor.
+4. Para llama.cpp, baixe GGUF quantizado (menos precisão, menor tamanho).
+5. Para Transformers, use "snapshot_download" para baixar o modelo.
+6. Anote o identificador do modelo e a soma de verificação.
+7. Confira a soma do arquivo baixado antes de usar.
+8. Instale o programa local enquanto ainda há conexão.
+9. Copie modelo e programa para o disco, com espaço para duas cópias.
+10. Ative o modo offline com HF_HUB_OFFLINE=1 e local_files_only.
+11. Desconecte a internet e faça teste curto com pergunta simples.
+12. Guarde uma cópia em mídia removível, fora do computador.
+
+ATENCAO
+-------
+Modelo offline não aprende nem consulta a internet e pode errar.
+Se o modo offline falhar, o programa pode tentar usar a rede.
+Não use a resposta para saúde ou segurança sem revisão de pessoa.
+
+SE NAO TIVER
+------------
+Sem espaço, use modelo menor ou mais quantizado.
+Sem internet, pegue arquivo de pessoa confiável, mas confira a soma.
+Sem placa de vídeo, use a CPU; fica mais lento, porém funciona.
+
+COMO SABER QUE DEU CERTO
+------------------------
+O programa responde com a internet desligada, sem erro de conexão.
+A soma do arquivo confere com o valor anotado.
+
+FONTES
+------
+Documentação oficial do Hugging Face Transformers e do Hub, modo offline
+e download; llama.cpp (ggml), guia GGUF; Ollama, modelos locais;
+NIST AI Risk Management Framework (AI RMF 1.0). Resumo operacional.

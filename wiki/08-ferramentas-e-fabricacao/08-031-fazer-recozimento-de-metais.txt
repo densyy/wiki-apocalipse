@@ -1,0 +1,84 @@
+==============================================================================
+CODIGO: 08-031
+TITULO: Como fazer recozimento de metais
+CATEGORIA: 08 - Ferramentas, fabricação e mecânica
+TEMPO: 45 minutos
+RISCO: alto
+EXIGE: fogueira de carvão, cinzas ou cal secas, pinça longa, água
+REVISAO: 2026-11
+PALAVRAS-CHAVE: recozimento, amolecer metal, aço, cal, cinzas, macio
+==============================================================================
+
+OBJETIVO
+---------
+Aquecer o aço e esfriar devagar para amolecer peça endurecida ao martelar.
+
+QUANDO USAR
+-----------
+Quando uma peça de aço racha ao ser dobrada ou martelada.
+Quando a lima escorrega em metal que antes era fácil de limar.
+Antes de perfurar, dobrar ou reafiar metal endurecido pelo uso.
+Quando o metal foi aquecido e resfriado depressa e ficou duro demais.
+
+NAO USE QUANDO
+--------------
+Quando a peça estiver rachada, com falta de material ou muito oxidada.
+Para endurecer metal: o recozimento amolece, é o processo inverso.
+Quando não houver lugar aberto e ventilado para acender o fogo.
+
+MATERIAIS
+---------
+- Peça de aço para amolecer.
+- Fogueira de carvão vegetal que chegue a vermelho-cereja.
+- Cal hidratada em pó seco (ou cinzas de madeira secas e peneiradas).
+- Recipiente metálico com tampa para o meio de resfriamento.
+- Pinça longa para pegar a peça quente.
+- Luvas grossas e óculos de proteção.
+- Água por perto para apagar o fogo.
+
+PROCEDIMENTO
+------------
+1. Coloque a cal seca no recipiente e aqueça-a junto com o fogo.
+2. Acenda a fogueira de carvão em local aberto e ventilado.
+3. Ponha a peça no centro das brasas e vire-a para aquecer por igual.
+4. Aqueça até a peça ficar vermelho-cereja em toda a extensão.
+5. Pare de aquecer antes de ficar vermelho-claro ou amarelo.
+6. Retire a peça com a pinça longa, sem tocar com as mãos.
+7. Enterre a peça no centro da cal quente e cubra-a por completo.
+8. Feche a tampa e cubra o recipiente com cinzas e brasas apagadas.
+9. Deixe o fogo apagar e não mexa na peça por aproximadamente 12 horas.
+10. Retire a peça fria, limpe o pó e teste com uma lima.
+
+ATENCAO
+-------
+Metal a vermelho-cereja queima na hora e a queimadura é profunda.
+Use pinça longa, luvas e óculos; afaste crianças e animais do fogo.
+Fogo em lugar fechado produz monóxido de carbono, que mata sem aviso.
+Nunca acenda a fogueira dentro de casa, tenda ou abrigo sem ventilação.
+Passar do vermelho-claro deixa o grão grosso e o aço mais quebradiço.
+Aço esfriado no ar ou na água pode endurecer de novo em vez de amolecer.
+Mantenha a cal e as cinzas secas: umidade gera vapor e projeta material.
+Pare e apague o fogo se ele sair do controle ou se o ambiente fechar.
+
+SE NAO TIVER
+------------
+Sem cal, use cinzas de madeira secas e peneiradas ou areia seca fina.
+A cal isola melhor; cinzas e areia funcionam, mas esfriam mais depressa.
+Sem tampa, cubra a peça com um monte alto de cinzas e brasas apagadas.
+Sem pinça, prenda a peça a um cabo de madeira ou arame dobrado.
+Nunca substitua o resfriamento lento por água: isso endurece o aço.
+Se não puder esperar, o metal ficará só parcialmente macio.
+
+COMO SABER QUE DEU CERTO
+------------------------
+Depois de fria, a ponta da lima marca a superfície sem escorregar.
+A peça dobra um pouco sob golpe leve de martelo sem rachar.
+
+FONTES
+------
+Prática consolidada de tratamento térmico do aço.
+Machinery's Handbook, edição de 1924, capítulo sobre recozimento do aço.
+Modern Shop Practice, de Howard Monroe Raymond, capítulo sobre recozimento.
+National Bureau of Standards, Letter Circular 104, sobre tratamento térmico.
+National Bureau of Standards, Monograph 88, Heat Treatment and Properties
+of Iron and Steel.
